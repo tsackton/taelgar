@@ -1,0 +1,1867 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "f3496b8ba3fd22650dc9ffbb406687e863718db265b05055d793eb958ed75424"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-entity-map.json",
+      "sha256": "bc5300510c42e12f6bf1cea0c88061f640f9e9dda0f12ea54f51b9eaae422096"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "The incomplete mural of the Sentient Ocean",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0025",
+        "endUid": "u0079"
+      },
+      "lines": [
+        "%% u0025:0-4, u0026:0-6, u0027:0-2, u0028:0-65, u0029:0-172, u0030:0-3, u0031:0-9, u0032:0-185, u0033:0-93, u0034:0-64, u0035:0-96, u0036:0-82, u0037:0-120, u0038:0-93 %%",
+        "DM: ((Setup)) So you see, there's this, like, scholar merfolk woman and her 2 bound elementals you're trying to avoid, and they seem to be close, you know, roughly finishing up for the day and— and they— you know, there's the—the merfolk don’t have a written language. There's no—there's no paper anywhere. The ink doesn't really work underwater. What she seems to be sorting is a series of pictographs and mosaics. And so there's like a series of these piled up, piled all around the the room that she's working in that are like these depictions of whirlpools with like strange forms coming out of them. Different colored kind of glyphs that are not in a language, right? They're like symbols, right? They're like markers of some alien being or something like that. You, you, you—your Eyes of the Rune Keeper give you enough insight to, to realize that some of these are, are depicting names, strange names that you wouldn't know how to pronounce.",
+        "",
+        "%% u0039:0-28, u0040:0-34, u0041:0-11, u0042:0-17, u0043:0-23, u0044:0-35, u0045:0-87, u0046:0-77, u0047:0-74 %%",
+        "DM: And they seem to be names of— it's hard to know what of, actually— not people. Possibly names of places on wherever this sentient ocean life form came from. But it all seems very alien. And there's nothing written down. There's just these giant, like, very carefully pieced together, glued together, large, like, person-sized rock and coral, smooth walls that have these pictographs carved into them.",
+        "",
+        "%% u0048:0-34 %%",
+        "Delwath: Like a map? Or is it like a story?",
+        "",
+        "%% u0049:0-18, u0050:0-21, u0051:0-21, u0052:0-90, u0053:0-24, u0054:0-39, u0055:0-62 %%",
+        "DM: It's like a story. It's like, it's like— hi, it's like, sort of— it's not—it's not complete by any means. It seems—this seems to be like one quarter, one, or even less of the full thing, which must have been a giant, like, story sort of shown on a massive wall, or something like that.",
+        "",
+        "%% u0056:0-4, u0057:0-17, u0058:0-36, u0059:0-17, u0060:0-22, u0061:0-12, u0062:0-82, u0063:0-73, u0064:0-32, u0065:0-12, u0066:0-121, u0067:0-57, u0068:0-122, u0069:0-49, u0070:0-41, u0071:0-11 %%",
+        "((Pictograph terminology and brief acknowledgments))",
+        "",
+        "%% u0072:0-20, u0073:0-185 %%",
+        "DM: Strange, yeah, yeah. And it's hard to piece together what the story is, because it's not complete. But that's basically the—it's—it almost seems like it's—they're trying to reconstruct, like, a temple wall.",
+        "",
+        "%% u0074:0-13 %%",
+        "((Pictograph terminology and brief acknowledgments))",
+        "",
+        "%% u0075:0-56, u0076:0-6, u0077:0-2, u0078:0-9, u0079:0-24 %%",
+        "DM: Tells the story of how the sentient ocean got to Taelgar. Right. So with that we turn to Milo's story."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You made your way into this strange prison complex by dispelling the bubble that was field around that, snuck through the darkness and made telepathic contact with Wellby’s halfling telepathy with Milo. I'm totally blanking on his name now: Milo Thistlefoot, who had been captured. You have been tracking him.",
+          "DM: And for kind of simplicity, and just to get things moving—and you had a short conversation with him. I'll use my intro to kind of tell his story, but it's close to the end of the shift, basically. And so he suggests to you that should you wish to, you know, free him and the other halflings, and and Tilly Brineheart, who's a spellcaster, the thing to do would be to swim up to the up to the, like, prison cells, once the—once the thing quiets in, like, half an hour, once it’s quieted down for the night, and there you would have a better chance to free them. So I think, unless anybody objects, we’d just assume you wait quietly for half an hour.",
+          "Delwath: The only thing I wanted to do is go read what's inside the hut."
+        ],
+        "after": [
+          "DM: Underwater, transformed into a half-shark creature, forced to sort through debris, coral, and rock for fragments of ancient history. Milo thinks back and tells the tale to Wellby of how it all started.",
+          "DM: And it started with a journey, as it always does, a journey that had been quite a joy, actually. The Stormdancer had left Cedrano early in the spring, over a year ago now, heading south. In a month they were south of Illoria; in two, sailing through the strange waters of the Sea of Storms, dodging wind and rain, and passing arcane islands dotted with ancient ruins. Then months of sailing strange coastline, seeing the vast gleaming city of gold, islands of living bridges connected by great vines growing across channels, bustling markets full of the most tempting smells and strange fruits. And by the time they turned north the Stormdancer's hold was full of delicacies, and their hearts full of strange tales of the South.",
+          "DM: But of course no one would ever sail a straight journey back, and they'd already come to the canal by the time they reached the southern parts of Illoria again. Milo had heard tale of a fallen star in the mangrove swamps on the west coast of Apporia that lit up the lagoons at night, and so, of course, like any good sailor in his telling, they went that way: the long western route, instead of the short route to the canal.",
+          "DM: And it was that long journey that brought— sorry, hold on— that brought the Stormdancer to the silent sea, the dead calm of the city of Omi and everything that came next.",
+          "DM: And he was asleep, Milo says, when they hit the doldrums. Tilly was on watch, and we didn't really think anything of it at first. I mean, everybody encounters strange patches of the ocean here and again, don't they? But it was only when Tilly's magic could not seem to affect the water beneath them at all that Milo thought, hmm, there's something worth investigating here."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Milo tells the Stormdancer’s voyage and capture",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0080",
+        "endUid": "u0130"
+      },
+      "lines": [
+        "%% u0080:0-73, u0081:0-57, u0082:0-26, u0083:0-41 %%",
+        "DM: Underwater, transformed into a half-shark creature, forced to sort through debris, coral, and rock for fragments of ancient history. Milo thinks back and tells the tale to Wellby of how it all started.",
+        "",
+        "%% u0084:0-185, u0085:0-103, u0086:0-7, u0087:0-68, u0088:0-81, u0089:0-76, u0090:0-69, u0091:0-133 %%",
+        "DM: And it started with a journey, as it always does, a journey that had been quite a joy, actually. The Stormdancer had left Cedrano early in the spring, over a year ago now, heading south. In a month they were south of Illoria; in two, sailing through the strange waters of the Sea of Storms, dodging wind and rain, and passing arcane islands dotted with ancient ruins. Then months of sailing strange coastline, seeing the vast gleaming city of gold, islands of living bridges connected by great vines growing across channels, bustling markets full of the most tempting smells and strange fruits. And by the time they turned north the Stormdancer's hold was full of delicacies, and their hearts full of strange tales of the South.",
+        "",
+        "%% u0092:0-98, u0093:0-203, u0094:0-36, u0095:0-19, u0096:0-64 %%",
+        "DM: But of course no one would ever sail a straight journey back, and they'd already come to the canal by the time they reached the southern parts of Illoria again. Milo had heard tale of a fallen star in the mangrove swamps on the west coast of Apporia that lit up the lagoons at night, and so, of course, like any good sailor in his telling, they went that way: the long western route, instead of the short route to the canal.",
+        "",
+        "%% u0097:0-41, u0098:0-13, u0099:0-12, u0100:0-3, u0101:0-94 %%",
+        "DM: And it was that long journey that brought— sorry, hold on— that brought the Stormdancer to the silent sea, the dead calm of the city of Omi and everything that came next.",
+        "",
+        "%% u0102:0-57, u0103:0-23, u0104:0-54, u0105:0-77, u0106:0-114, u0107:0-43 %%",
+        "DM: And he was asleep, Milo says, when they hit the doldrums. Tilly was on watch, and we didn't really think anything of it at first. I mean, everybody encounters strange patches of the ocean here and again, don't they? But it was only when Tilly's magic could not seem to affect the water beneath them at all that Milo thought, hmm, there's something worth investigating here.",
+        "",
+        "%% u0108:0-64, u0109:0-65, u0110:0-71, u0111:0-61, u0112:0-47, u0113:0-203, u0114:0-60, u0115:0-4, u0116:0-41, u0117:0-19, u0118:0-59, u0119:0-110 %%",
+        "DM: And leaving the Stormdancer under the command of their 1st mate, Tilly and Milo took a crew of 18 down beneath the sea to explore, passing through the strange waters and hearing the tale of the merfolk, their origin and a garbled conflict with Gazankoa and Buruli, he says, as I'm sure you must have experienced. They found the city of Omi beneath them, and sought initially to rescue some merfolk who looked like they were being forced to dig something out from the bottom of this deep canyon through the sea floor, and maybe learn from that something about what was going on. But, alas, he says, we did not expect an army. I mean, 15 merfolk— 50 merfolk warriors came streaming out of the kelp forests. There was nothing much we could do. It was a valiant fight, of course, but we're outmatched and made prisoner.",
+        "",
+        "%% u0120:0-5, u0121:0-86, u0122:0-91, u0123:0-156, u0124:0-25, u0125:0-53, u0126:0-27 %%",
+        "DM: Okay, we were taken past some giant, tentacled creature, a human-squid hybrid or something— not—and through a portal to the Plane of Water, knowing—not knowing what was coming next. And of course no good adventurer stays captured if they can help it. Tilly used her magic to turn into a giant octopus, hoping in the confusion to free us, and we would have made it if that terrible tentacled thing hadn't crossed over, knocked us all unconscious.",
+        "",
+        "%% u0127:0-118, u0128:0-62, u0129:0-30, u0130:0-34 %%",
+        "DM: As it was, we lost 7 of our crew, and were transformed into these terrible creatures, unable to speak or use our magic until the transformation ends, and brought here. And ever since we have sorted rubble, trapped. But no longer now, thanks to you."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Exactly, except it's weird and alien and—",
+          "Delwath: Yeah, yeah.",
+          "DM: Strange, yeah, yeah. And it's hard to piece together what the story is, because it's not complete. But that's basically the—it's—it almost seems like it's—they're trying to reconstruct, like, a temple wall.",
+          "Delwath: Right, right.",
+          "DM: Tells the story of how the sentient ocean got to Taelgar. Right. So with that we turn to Milo's story."
+        ],
+        "after": [
+          "DM: As he finishes telling the story, presumably you are now approaching the cells. You can see this—these structures hidden in this, in this complex area, small things, locked coral, spiky coral locks, each one holding 2 of these creatures. There's—of these transformed halflings. There seems to be about 13 crew, plus Milo and Tilly left.",
+          "DM: And of course, Milo points to— indicates telepathically which one is Tilly, who has her own magic and is the most useful one to free first.",
+          "Seeker: Just gonna look at Dispel Magic. It probably has a single target. Yeah. One, yeah.",
+          "DM: Target.",
+          "Seeker: One creature, one magical effect, if they're all affected by the same spell?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Tilly’s focus is returned",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0319",
+        "endUid": "u0330"
+      },
+      "lines": [
+        "%% u0319:0-35, u0320:0-17 %%",
+        "Seeker: We, we might have found your focus. It was—was it a—",
+        "",
+        "%% u0321:0-4 %%",
+        "Delwath: Ring?",
+        "",
+        "%% u0322:0-5 %%",
+        "Tilly: Yeah.",
+        "",
+        "%% u0323:0-14 %%",
+        "Riswynn: Or a necklace?",
+        "",
+        "%% u0324:0-49 %%",
+        "DM: Necklace. It was a crystal on a neck—on a chain.",
+        "",
+        "%% u0325:0-21 %%",
+        "Seeker: Was a necklace. Yeah.",
+        "",
+        "%% u0326:0-14, u0327:0-27, u0328:0-56, u0329:0-9 %%",
+        "Tilly: Oh, yeah, that— that is mine. That would be pretty useful right now if I could see that real quick. Just pop—",
+        "",
+        "%% u0330:0-22 %%",
+        "Delwath: Yeah, we hand it over."
+      ],
+      "reviewContext": {
+        "before": [
+          "Tilly: I would say I would normally be able to break the enchantment, but I seem to find myself without a way to channel my magic currently as it was taken from me. But if one of you could free Milo, that would be much obliged. Or provide me with a means to cast my magic.",
+          "Wellby: One of us has the focus, right? Yep.",
+          "Delwath: I forget who.",
+          "Seeker: Oh, yeah.",
+          "Riswynn: Pretend it's Delwath. Yeah."
+        ],
+        "after": [
+          "Tilly: I will cast dispel magic on Milo.",
+          "DM: Milo, as you cast the spell, Milo— “Much better”— looks around. “Thank you, darling. See that you've met these fine folks who have come to rescue us.”",
+          "Delwath: How has Milo not drowned?",
+          "Riswynn: Have we—",
+          "DM: He is starting to drown. He's, like, pointing at his throat. “A little help, maybe, in the next, like, 10 seconds would be appreciated.” Looking around."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Milo is restored and can breathe again",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0331",
+        "endUid": "u0364"
+      },
+      "lines": [
+        "%% u0331:0-6, u0332:0-26 %%",
+        "Tilly: I will cast dispel magic on Milo.",
+        "",
+        "%% u0333:0-33, u0334:0-11, u0335:0-13, u0336:0-19, u0337:0-15, u0338:0-48 %%",
+        "DM: Milo, as you cast the spell, Milo— “Much better”— looks around. “Thank you, darling. See that you've met these fine folks who have come to rescue us.”",
+        "",
+        "%% u0339:0-25 %%",
+        "Delwath: How has Milo not drowned?",
+        "",
+        "%% u0340:0-9 %%",
+        "((Brief interruptions and potion availability))",
+        "",
+        "%% u0341:0-34, u0342:0-23, u0343:0-20, u0344:0-50, u0345:0-15 %%",
+        "DM: He is starting to drown. He's, like, pointing at his throat. “A little help, maybe, in the next, like, 10 seconds would be appreciated.” Looking around.",
+        "",
+        "%% u0346:0-10, u0347:0-19, u0348:0-25, u0349:0-35 %%",
+        "((Brief interruptions and potion availability))",
+        "",
+        "%% u0350:0-84, u0351:0-11, u0352:0-19, u0353:0-64 %%",
+        "Tilly: Well, I mean, I could. I have the spell Water Breathing. I could also cast that, but it's up to— I mean, actually, I— let's pick something. I'll just—I'll just cast Water Breathing.",
+        "",
+        "%% u0354:0-20, u0355:0-14, u0356:0-27, u0357:0-14 %%",
+        "DM: Okay. “Oh, thank you. Appreciate it. So are we going for revenge? That the plan?”",
+        "",
+        "%% u0358:0-63, u0359:0-74 %%",
+        "Riswynn: Think we're going for getting out of here because we have other fish to fry, to make a nautical metaphor, although there are no fish here.",
+        "",
+        "%% u0360:0-53, u0361:0-9, u0362:0-26, u0363:0-16, u0364:0-51 %%",
+        "Tilly: Yeah, I don't know what these people's goals are, but you know, I think, you know, a little revenge could be nice, if not particularly achievable at the moment."
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: Or a necklace?",
+          "DM: Necklace. It was a crystal on a neck—on a chain.",
+          "Seeker: Was a necklace. Yeah.",
+          "Tilly: Oh, yeah, that— that is mine. That would be pretty useful right now if I could see that real quick. Just pop—",
+          "Delwath: Yeah, we hand it over."
+        ],
+        "after": [
+          "DM: It would be nice to have a sword.",
+          "Seeker: Hmm.",
+          "Riswynn: We want to think.",
+          "Wellby: Delwath is attuned to yours. Why don't you take mine for the time being?",
+          "Delwath: Yeah. I'll take any sword from nowhere."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Milo is reunited with his silver rapier",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0369",
+        "endUid": "u0382"
+      },
+      "lines": [
+        "%% u0369:0-72 %%",
+        "Wellby: Delwath is attuned to yours. Why don't you take mine for the time being?",
+        "",
+        "%% u0370:0-5, u0371:0-33, u0372:0-7 %%",
+        "((Brief weapon aside))",
+        "",
+        "%% u0373:0-34, u0374:0-9, u0375:0-35, u0376:0-31 %%",
+        "DM: “Much appreciated. That indeed is my sword. I am glad to be reunited with it. I was afraid it was gone for good.”",
+        "",
+        "%% u0377:0-58 %%",
+        "DM: Kind of reaches over as if he's about to grab it from you.",
+        "",
+        "%% u0378:0-32, u0379:0-36 %%",
+        "Wellby: But still, if he takes that one, does that mean you're out of swords?",
+        "",
+        "%% u0380:0-34, u0381:0-18, u0382:0-15 %%",
+        "Delwath: Swords that are useful underwater. That's okay. Yeah. He can take it."
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: Think we're going for getting out of here because we have other fish to fry, to make a nautical metaphor, although there are no fish here.",
+          "Tilly: Yeah, I don't know what these people's goals are, but you know, I think, you know, a little revenge could be nice, if not particularly achievable at the moment.",
+          "DM: It would be nice to have a sword.",
+          "Seeker: Hmm.",
+          "Riswynn: We want to think."
+        ],
+        "after": [
+          "Seeker: Don't seem to be able to pull weapons out of thin air.",
+          "Delwath: I can use this one, I'll just take another one. He pulls another rapier out of the air.",
+          "DM: Oh, that's an—",
+          "Seeker: Water. Yeah.",
+          "Delwath: Less useful, but—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Milo explains the excavation, the crew and the barrier",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0390",
+        "endUid": "u0510"
+      },
+      "lines": [
+        "%% u0390:0-2, u0391:0-57, u0392:0-33 %%",
+        "DM: So is there still a big tentacle person guarding the portal? How are we gonna get out of here?",
+        "",
+        "%% u0393:0-24 %%",
+        "Seeker: We, we took care of that.",
+        "",
+        "%% u0394:0-29 %%",
+        "Tilly: My! That's rather impressive.",
+        "",
+        "%% u0395:0-10, u0396:0-64, u0397:0-8 %%",
+        "DM: I must say, I'm surprised they've not heard tales of you, if that is in your ability.",
+        "",
+        "%% u0398:0-24 %%",
+        "Delwath: Been in Dunmar recently?",
+        "",
+        "%% u0399:0-28 %%",
+        "DM: Not since nearly a year ago.",
+        "",
+        "%% u0400:0-3 %%",
+        "Seeker: Oh!",
+        "",
+        "%% u0401:0-15, u0402:0-33, u0403:0-62 %%",
+        "DM: And down south, sailing the tropical blue waters, but not many tales from the north come down there, I must say.",
+        "",
+        "%% u0404:0-69, u0405:0-17 %%",
+        "Riswynn: Battle tales are a joy to tell at another time, but I think we should create some more.",
+        "",
+        "%% u0406:0-5, u0407:0-22 %%",
+        "DM: Well, we're up for anything.",
+        "",
+        "%% u0408:0-37 %%",
+        "Seeker: How long before the shifts turn over?",
+        "",
+        "%% u0409:0-36, u0410:0-10, u0411:0-3, u0412:0-22 %%",
+        "DM: Oh, they won't bother us for another 6 h or so. Oh, long as we keep quiet.",
+        "",
+        "%% u0413:0-43, u0414:0-5 %%",
+        "Seeker: What? What are they having you dig up here? Will—",
+        "",
+        "%% u0415:0-12, u0416:0-7, u0417:0-26, u0418:0-23, u0419:0-53 %%",
+        "DM: Some sort of history, looking for pieces of this mural, supposedly, that tells the tale of where the sentient ocean came from.",
+        "",
+        "%% u0420:0-46, u0421:0-11, u0422:0-40, u0423:0-47, u0424:0-4, u0425:0-11, u0426:0-69 %%",
+        "DM: It's like buried beneath the city of Omi. They cut a giant hole there, and are excavating something. Strange politics of the plane of water. I guess this guy Buruli, servant of Gazankoa, some kraken creature, don't really know for sure.",
+        "",
+        "%% u0427:0-26, u0428:0-28, u0429:0-31, u0430:0-28 %%",
+        "DM: Every now and then they'll— message will come back, say, really wants us to work harder. Seems like a pretty bad guy.",
+        "",
+        "%% u0431:0-48, u0432:0-19 %%",
+        "Riswynn: Anything we can do to foil Buruli and Gazankoa’s right up our alley.",
+        "",
+        "%% u0433:0-50 %%",
+        "Seeker: And the excavation is, is over there, right in the—",
+        "",
+        "%% u0434:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u0435:0-24 %%",
+        "Seeker: And actual actual ocean.",
+        "",
+        "%% u0436:0-20, u0437:0-15 %%",
+        "DM: In the actual ocean. No, there's no—",
+        "",
+        "%% u0438:0-29 %%",
+        "Seeker: They keep you locked up here?",
+        "",
+        "%% u0439:0-41 %%",
+        "DM: No seafloor here. You might have noticed.",
+        "",
+        "%% u0440:0-6 %%",
+        "Seeker: Right.",
+        "",
+        "%% u0441:0-15, u0442:0-21 %%",
+        "DM: Just goes down. I think they regular—",
+        "",
+        "%% u0443:0-23 %%",
+        "Riswynn: Merfolk dig over there.",
+        "",
+        "%% u0444:0-5 %%",
+        "Tilly: Yeah.",
+        "",
+        "%% u0445:0-17, u0446:0-16, u0447:0-42, u0448:0-40, u0449:0-43 %%",
+        "DM: Harder to escape. We're over here. That creature guarding the portal, I mean, must admit I'm not prone to despair, but it's looking pretty grim there for a while.",
+        "",
+        "%% u0450:0-51 %%",
+        "Tilly: We tried to escape once, but it didn't go too well.",
+        "",
+        "%% u0451:0-12, u0452:0-89, u0453:0-44 %%",
+        "DM: So that—wow! I might have—if that creature hadn't come through the portal. You almost had them, Tilly. That giant octopus is not to be messed with.",
+        "",
+        "%% u0454:0-37 %%",
+        "Delwath: How many other halflings are in here?",
+        "",
+        "%% u0455:0-3 %%",
+        "DM: 13.",
+        "",
+        "%% u0456:0-23 %%",
+        "Tilly: But they're all sharks.",
+        "",
+        "%% u0457:0-11 %%",
+        "Riswynn: Well, they—",
+        "",
+        "%% u0458:0-13 %%",
+        "DM: Sharks, like—",
+        "",
+        "%% u0459:0-62, u0460:0-25, u0461:0-24 %%",
+        "Riswynn: Is sharks for getting out of here as a group? Or do we need to find a way for them to be transformed and breathe?",
+        "",
+        "%% u0462:0-13, u0463:0-33, u0464:0-19 %%",
+        "Tilly: Think it'd be better for them to stay as sharks for the time being.",
+        "",
+        "%% u0465:0-30 %%",
+        "Riswynn: But they're your comrades, so—",
+        "",
+        "%% u0466:0-37, u0467:0-54, u0468:0-55, u0469:0-46 %%",
+        "DM: I think, until we get somewhere safe, keep them. They'll fight as sharks. We can still talk. It's not like we have weapons to arm them with, anyway. Teeth and tentacles is the best we've got, so—",
+        "",
+        "%% u0470:0-59 %%",
+        "Riswynn: All right. Well, let's free some teeth and tentacles, then.",
+        "",
+        "%% u0471:0-55, u0472:0-20, u0473:0-6, u0474:0-12, u0475:0-60, u0476:0-5 %%",
+        "((Cell-layout clarification))",
+        "",
+        "%% u0477:0-18, u0478:0-32, u0479:0-61, u0480:0-42 %%",
+        "DM: Now the real trick, don't know how to get past this. And Milo points to the, like, bubble barrier that's behind you. I think you must have a way if you got in.",
+        "",
+        "%% u0481:0-28 %%",
+        "Riswynn: You know, just dispel magic.",
+        "",
+        "%% u0482:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u0483:0-37 %%",
+        "Seeker: Yeah, but it like opened up a little.",
+        "",
+        "%% u0484:0-37, u0485:0-31 %%",
+        "DM: It opened up a little window for like 15 seconds, and then it closed.",
+        "",
+        "%% u0486:0-30 %%",
+        "Seeker: It's like a modular structure.",
+        "",
+        "%% u0487:0-143, u0488:0-36 %%",
+        "Riswynn: So need to cast it either at a higher level or we'll have multiple instances, because it's gonna be more than just the 5 of us getting through. We made it through the nick of time.",
+        "",
+        "%% u0489:0-92, u0490:0-47 %%",
+        "DM: They can probably all swim through if they're—if you're prepared. I mean, you didn't realize— I didn't know it was gonna close the last time.",
+        "",
+        "%% u0491:0-8 %%",
+        "Riswynn: Alright!",
+        "",
+        "%% u0492:0-14, u0493:0-125 %%",
+        "Tilly: Yeah. Like, if if we all specifically try and—is—Milo doesn't have, like, a means of, like, having a swim speed, right? He's just like swimming.",
+        "",
+        "%% u0494:0-37, u0495:0-33, u0496:0-38, u0497:0-15 %%",
+        "DM: I mean, he's a pretty decent swimmer. He's been a—he's been sailing for 50 years. He's—he definitely can swim, and the sharks—",
+        "",
+        "%% u0498:0-6 %%",
+        "Tilly: I can—",
+        "",
+        "%% u0499:0-31, u0500:0-39 %%",
+        "DM: Swim. It's—it's the dwarves and and Delwath that are the slow swimmers.",
+        "",
+        "%% u0501:0-5 %%",
+        "Seeker: Adam.",
+        "",
+        "%% u0502:0-5 %%",
+        "Tilly: Okay.",
+        "",
+        "%% u0503:0-26 %%",
+        "Riswynn: Spellcasters at the front.",
+        "",
+        "%% u0504:0-31, u0505:0-41, u0506:0-47, u0507:0-8, u0508:0-14 %%",
+        "Tilly: Yeah, I think we could probably try and get everyone across in one round. And see where it goes. Cause I think that seems possible to bring here.",
+        "",
+        "%% u0509:0-109 %%",
+        "Wellby: Do we need to cover our tracks here, though I mean the guards, the elementals like, if you all just disappear.",
+        "",
+        "%% u0510:0-86 %%",
+        "DM: Well, what are you doing next? Because we've got 6 h before anyone noticed we're gone."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Don't seem to be able to pull weapons out of thin air.",
+          "Delwath: I can use this one, I'll just take another one. He pulls another rapier out of the air.",
+          "DM: Oh, that's an—",
+          "Seeker: Water. Yeah.",
+          "Delwath: Less useful, but—"
+        ],
+        "after": [
+          "Wellby: Hmm.",
+          "Delwath: Know where Buruli is? You haven't been anywhere except this place, have you?",
+          "DM: No.",
+          "Tilly: No.",
+          "Riswynn: Think we've got to go back along the lit path to the guard platform and then follow the jade sense."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "An offer of adventure on a flying castle",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0545",
+        "endUid": "u0578"
+      },
+      "lines": [
+        "%% u0545:0-15, u0546:0-18, u0547:0-41, u0548:0-14 %%",
+        "Delwath: Do you want to—we should probably warn these folks where we're gonna end up when we leave.",
+        "",
+        "%% u0549:0-5 %%",
+        "Riswynn: Yeah.",
+        "",
+        "%% u0550:0-29 %%",
+        "DM: Where are we going to end up?",
+        "",
+        "%% u0551:0-20 %%",
+        "Tilly: That sounds ominous.",
+        "",
+        "%% u0552:0-4, u0553:0-3, u0554:0-8, u0555:0-12, u0556:0-20 %%",
+        "((Brief false starts))",
+        "",
+        "%% u0557:0-21, u0558:0-3, u0559:0-17, u0560:0-27, u0561:0-26, u0562:0-46 %%",
+        "Delwath: We're heading towards Ed— kind of put this— well, it's a it's a city of the People of the Rainbow. But really we're heading to our flying castle.",
+        "",
+        "%% u0563:0-29 %%",
+        "Delwath: So that we can go to Drankor.",
+        "",
+        "%% u0564:0-15, u0565:0-36 %%",
+        "Wellby: Yeah, to stop a stuff, that kind of—kind of an evil—",
+        "",
+        "%% u0566:0-17, u0567:0-13 %%",
+        "Delwath: Things, you know. But far from—",
+        "",
+        "%% u0568:0-16 %%",
+        "Wellby: Situation, wait—",
+        "",
+        "%% u0569:0-23 %%",
+        "Delwath: Quite far from the sea.",
+        "",
+        "%% u0570:0-3 %%",
+        "DM: No.",
+        "",
+        "%% u0571:0-59, u0572:0-51 %%",
+        "Wellby: Thing is, we have a ship. We have a ship that needs a crew, because the person in charge of the ship right now—",
+        "",
+        "%% u0573:0-35 %%",
+        "Delwath: I mean, it's a—it's a flying castle.",
+        "",
+        "%% u0574:0-8 %%",
+        "Riswynn: Goodbye!",
+        "",
+        "%% u0575:0-12, u0576:0-4, u0577:0-34, u0578:0-22 %%",
+        "DM: Milo smiles. “Wow, it sounds like a decent side quest being a flying castle.”"
+      ],
+      "reviewContext": {
+        "before": [
+          "Tilly: The sharks are probably pretty fast swimmers.",
+          "DM: Fast swimmers.",
+          "Wellby: And halflings are pretty small. If we have—",
+          "DM: Small.",
+          "Tilly: I can also swim decently well, but probably not as well as a manta ray."
+        ],
+        "after": [
+          "Seeker: Aye.",
+          "DM: So we have to keep—",
+          "Seeker: Speaking of sidequest, did, did you mention in your story of how you ended up here might have been a while ago, but a city of gold?",
+          "DM: Oh, yeah. Dead— Where is—",
+          "Seeker: Hear more about that. Yeah, hello."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Milo describes Takano, the city of gold",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0581",
+        "endUid": "u0638"
+      },
+      "lines": [
+        "%% u0581:0-22, u0582:0-58, u0583:0-42, u0584:0-5 %%",
+        "Seeker: Speaking of sidequest, did, did you mention in your story of how you ended up here might have been a while ago, but a city of gold?",
+        "",
+        "%% u0585:0-9, u0586:0-5, u0587:0-9 %%",
+        "DM: Oh, yeah. Dead— Where is—",
+        "",
+        "%% u0588:0-21, u0589:0-12 %%",
+        "Seeker: Hear more about that. Yeah, hello.",
+        "",
+        "%% u0590:0-12, u0591:0-29, u0592:0-35, u0593:0-12, u0594:0-82, u0595:0-12, u0596:0-28, u0597:0-10, u0598:0-18, u0599:0-29 %%",
+        "DM: Wow! I mean, I could tell tales all night. Maybe we better get outside of this prison first, but it's quite amazing. So if you sail far enough south, beyond the Sea of Storms, there's this cluster of tropical islands, peninsulas, many of which are, of course, densely vegetated.",
+        "",
+        "%% u0600:0-13, u0601:0-3, u0602:0-67, u0603:0-27, u0604:0-137, u0605:0-22, u0606:0-140, u0607:0-54 %%",
+        "DM: But there's 1 uh. I guess that's sort of a rocky—it's not—I wouldn't call it desert, dry, maybe savanna-like, and rising—it sticks out on this narrow spit of land, and rising above the ocean from all directions, well, most directions that you can see, is this towering city. It's built in 3 concentric layers that rise up each higher from the other one, and each layer is surrounded by its own wall that's coated in well, from a distance, anyway, it seems like pure gold.",
+        "",
+        "%% u0608:0-18 %%",
+        "Tilly: Impressive sights.",
+        "",
+        "%% u0609:0-20, u0610:0-6, u0611:0-29, u0612:0-12, u0613:0-5, u0614:0-58, u0615:0-24, u0616:0-20, u0617:0-16, u0618:0-40 %%",
+        "DM: It shines for miles. And it— it was quite the place to see. From the top rises many hundreds of feet above this peninsula you can see for miles in all directions. Watch the bird soar. You can hear the monkeys calling from the distant jungle.",
+        "",
+        "%% u0619:0-19 %%",
+        "Delwath: Anybody live there?",
+        "",
+        "%% u0620:0-35, u0621:0-38 %%",
+        "DM: Oh, of course, all sorts of people. Anybody you could imagine lives there.",
+        "",
+        "%% u0622:0-42 %%",
+        "Seeker: You're saying you've been inside the city?",
+        "",
+        "%% u0623:0-25, u0624:0-8, u0625:0-40, u0626:0-34 %%",
+        "DM: Oh, yes, I mean halflings, dwarves. I don't know if there's any elves there. Gnomes! Have you ever met a gnome?",
+        "",
+        "%% u0627:0-21, u0628:0-7, u0629:0-3 %%",
+        "Seeker: I don't think we have at all. No.",
+        "",
+        "%% u0630:0-12 %%",
+        "DM: Lizard folk.",
+        "",
+        "%% u0631:0-29 %%",
+        "Seeker: What's the name of this city?",
+        "",
+        "%% u0632:0-5, u0633:0-61, u0634:0-7, u0635:0-32 %%",
+        "DM: Well. And you have to ask about names. Hold on, I have it somewhere. The, the— the people there call it Takano.",
+        "",
+        "%% u0636:0-51, u0637:0-60 %%",
+        "Seeker: But I'd love to learn more, but as you—as you say, we should probably figure out more of the immediate concern.",
+        "",
+        "%% u0638:0-7 %%",
+        "Tilly: Agreed."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I mean, it's a—it's a flying castle.",
+          "Riswynn: Goodbye!",
+          "DM: Milo smiles. “Wow, it sounds like a decent side quest being a flying castle.”",
+          "Seeker: Aye.",
+          "DM: So we have to keep—"
+        ],
+        "after": [
+          "DM: So how are we getting to this flying castle, just out of curiosity? I mean, I don't like to plan too much, but for my crew, you know, having a a little bit of an idea of what we're getting into. Just so I can, you know, motivate them. Keep the morale up before we swim off and—",
+          "Seeker: It's a bed.",
+          "DM: Endless— the—",
+          "Seeker: Yeah, Tim, I'm trying to remember the limitations of the Rainbow Bridge.",
+          "DM: None. Really, you can use it once, only once per week."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Milo agrees to the jade detour",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0639",
+        "endUid": "u0699"
+      },
+      "lines": [
+        "%% u0639:0-43, u0640:0-30, u0641:0-66, u0642:0-91, u0643:0-28, u0644:0-13 %%",
+        "DM: So how are we getting to this flying castle, just out of curiosity? I mean, I don't like to plan too much, but for my crew, you know, having a a little bit of an idea of what we're getting into. Just so I can, you know, motivate them. Keep the morale up before we swim off and—",
+        "",
+        "%% u0645:0-11, u0646:0-8, u0647:0-4, u0648:0-5, u0649:0-66, u0650:0-54, u0651:0-5 %%",
+        "((Transport question and rules setup))",
+        "",
+        "%% u0652:0-25, u0653:0-34, u0654:0-20, u0655:0-24, u0656:0-109 %%",
+        "DM: Lasts until you close it. It goes straight to Vindristjarna. Anybody can cross it halfling, human, monster, but of course they'll be fighting at a substantial disadvantage when they're suddenly teleported to dry land.",
+        "",
+        "%% u0657:0-13, u0658:0-34, u0659:0-23 %%",
+        "Seeker: Right? Right? So we could easily enough use that to move everybody over.",
+        "",
+        "%% u0660:0-75 %%",
+        "DM: That's about your only choice, because teleport doesn't work across planes.",
+        "",
+        "%% u0661:0-6, u0662:0-32 %%",
+        "Seeker: Right. I don't think they don't bridge.",
+        "",
+        "%% u0663:0-83 %%",
+        "Wellby: Before we go back on this rainbow bridge there is one stop we do have to make first.",
+        "",
+        "%% u0664:0-20 %%",
+        "Tilly: Where would that be?",
+        "",
+        "%% u0665:0-11 %%",
+        "Wellby: Yeah, just—",
+        "",
+        "%% u0666:0-14 %%",
+        "Seeker: Just a detail.",
+        "",
+        "%% u0667:0-32, u0668:0-23 %%",
+        "Wellby: Wellby gestures vaguely into the dark and endless water.",
+        "",
+        "%% u0669:0-5 %%",
+        "Seeker: Nice.",
+        "",
+        "%% u0670:0-4 %%",
+        "DM: Hmm.",
+        "",
+        "%% u0671:0-55 %%",
+        "Tilly: Yes, yes, yes, I see exactly. That's very enlightening.",
+        "",
+        "%% u0672:0-15, u0673:0-41, u0674:0-59, u0675:0-3, u0676:0-4 %%",
+        "DM: I'm not opposed to swimming off into the darkness with no particular knowledge of what I'm swimming towards. Exactly. But why?",
+        "",
+        "%% u0677:0-138, u0678:0-43, u0679:0-23, u0680:0-25, u0681:0-8 %%",
+        "Riswynn: Well, you mentioned revenge, and what we need is the source of Buruli’s connection to the rest, to the other plane and all of his control. So when we take what we want, which is ours, Buruli suffers greatly. You don't like Buruli. So win-win.",
+        "",
+        "%% u0682:0-5 %%",
+        "Tilly: Sure.",
+        "",
+        "%% u0683:0-48 %%",
+        "DM: I can get behind that. Tilly, what do you think?",
+        "",
+        "%% u0684:0-21 %%",
+        "Tilly: Seems logical enough.",
+        "",
+        "%% u0685:0-35 %%",
+        "Seeker: It's a great way to put everything.",
+        "",
+        "%% u0686:0-40 %%",
+        "DM: Do you know where this is, by any chance?",
+        "",
+        "%% u0687:0-19, u0688:0-19 %%",
+        "Riswynn: Our esteemed Kenzo, gonna lead the way.",
+        "",
+        "%% u0689:0-5, u0690:0-9 %%",
+        "DM: Okay. And, like—",
+        "",
+        "%% u0691:0-17 %%",
+        "Seeker: Definitely, know.",
+        "",
+        "%% u0692:0-38 %%",
+        "DM: What are we getting—getting into here?",
+        "",
+        "%% u0693:0-64 %%",
+        "Riswynn: Well, it is his most prized possession, so probably a big fight.",
+        "",
+        "%% u0694:0-10 %%",
+        "Wellby: Safe, but.",
+        "",
+        "%% u0695:0-31, u0696:0-2 %%",
+        "Delwath: What happened to smash and grab— 5?",
+        "",
+        "%% u0697:0-6 %%",
+        "DM: Great.",
+        "",
+        "%% u0698:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u0699:0-36 %%",
+        "Riswynn: Big smash and grab, minimize fight."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Lizard folk.",
+          "Seeker: What's the name of this city?",
+          "DM: Well. And you have to ask about names. Hold on, I have it somewhere. The, the— the people there call it Takano.",
+          "Seeker: But I'd love to learn more, but as you—as you say, we should probably figure out more of the immediate concern.",
+          "Tilly: Agreed."
+        ],
+        "after": [
+          "Delwath: Do we have any way of warning the folks on Vindristjarna? Does Sending work across planes?",
+          "DM: Does it? That's a good question. Somebody could look up the spell.",
+          "Tilly: It has a 5% chance. It doesn't arrive if it's across planes. So 95 of the time it does. But you won't know whether or not it arrives. I guess you will, because they won't be able to respond. Yeah, so I guess you will. So probably. But maybe not.",
+          "Wellby: I think it's fair to ask them where they are, and to get ready for a fight.",
+          "Delwath: That's kind of what I was thinking is because the smash, I mean I'd rather fight these folks on Vindristjarna than in their lair."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Kethra receives the warning",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0715",
+        "endUid": "u0732"
+      },
+      "lines": [
+        "%% u0715:0-10, u0716:0-86, u0717:0-23, u0718:0-10 %%",
+        "Riswynn: All right. Prepare the defenses. We're coming home soon, and we might be bringing a fight with us, along those lines. Yep. The right—",
+        "",
+        "%% u0719:0-32 %%",
+        "DM: Okay, so you're casting Sending.",
+        "",
+        "%% u0720:0-22, u0721:0-22, u0722:0-6 %%",
+        "Riswynn: Casting Sending to my mentor, mentee, acolyte dwarf.",
+        "",
+        "%% u0723:0-38, u0724:0-3, u0725:0-31, u0726:0-26, u0727:0-19 %%",
+        "DM: So let's see, you get a response back. “Bad— travelling over the desert now, about a day from Uzgukhar, ready for anything.”",
+        "",
+        "%% u0728:0-19 %%",
+        "Seeker: Nice good attitude.",
+        "",
+        "%% u0729:0-20, u0730:0-11, u0731:0-12 %%",
+        "DM: Well, you send it to Kethra, not Faldrak, so—",
+        "",
+        "%% u0732:0-46 %%",
+        "Riswynn: You know how Kethra is feeling about it? Yeah."
+      ],
+      "reviewContext": {
+        "before": [
+          "Tilly: That's for sure. True.",
+          "Delwath: But we might wanna warn the folks that we're coming.",
+          "Wellby: That seems wise.",
+          "Riswynn: Alright!",
+          "Delwath: You know, prepare the defenses, etc."
+        ],
+        "after": [
+          "DM: Faldrak would probably say, I can come and get you right now. Yeah. So.",
+          "Riswynn: So what is the plan? All the shark people out of the cages, everybody through a Dispel Magic gap in the bubble. Get ourselves some manta rays and manta elemental big rays. Yeah, let's start doing those things.",
+          "DM: Okay. So you get out. Everybody flies quickly— swims quickly, moving through.",
+          "Riswynn: I'll use a spell slot of mine, or was—or did Tilly cast Dispel Magic?",
+          "Tilly: I could. I don't know how many resources it took for you to fight through whatever you did. But I'm pretty—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Clairvoyance reveals the jade and its sounding shell",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1176",
+        "endUid": "u1253"
+      },
+      "lines": [
+        "%% u1176:0-24, u1177:0-28 %%",
+        "DM: Your sensor appears in a bubbling whirlwind of water.",
+        "",
+        "%% u1178:0-8 %%",
+        "Seeker: Oh, boy!",
+        "",
+        "%% u1179:0-51, u1180:0-128, u1181:0-31 %%",
+        "DM: You can catch flickers of what's on the other side. What you see sort of. So the clairvoyant sensor itself is like, clearly right in the middle of some whirling whirlpool of water, which is surrounding that jade.",
+        "",
+        "%% u1182:0-19, u1183:0-24, u1184:0-5, u1185:0-15 %%",
+        "((Checks, room architecture and brief remarks))",
+        "",
+        "%% u1186:0-39, u1187:0-13, u1188:0-65, u1189:0-38, u1190:0-113, u1191:0-78, u1192:0-2, u1193:0-19, u1194:0-7, u1195:0-138 %%",
+        "DM: ((Sensor direction)) the 1st thing you see is in the middle of the whirlpool is—um, the, the jade itself is sat—it's, it's slowly spinning in the middle of this whirlpool, and it's on a strange twisted shell that seems to almost be vibrating slightly.",
+        "",
+        "%% u1196:0-10, u1197:0-105, u1198:0-43, u1199:0-72 %%",
+        "DM: And if you briefly switch to hearing, you can hear that it's vibrating with this strange, eerie sound, ((Arcana check))",
+        "",
+        "%% u1200:0-22, u1201:0-9, u1202:0-67, u1203:0-15, u1204:0-12 %%",
+        "((Checks, room architecture and brief remarks))",
+        "",
+        "%% u1205:0-35, u1206:0-59, u1207:0-41, u1208:0-14 %%",
+        "DM: It's a—it's a strange sound. It's a it's like a weird, eerie echo of the plane itself, somehow, and it's, like, slowly turning on this, like, on this shell.",
+        "",
+        "%% u1209:0-13 %%",
+        "Seeker: The seashell.",
+        "",
+        "%% u1210:0-27 %%",
+        "DM: It's like a seashell. Yeah.",
+        "",
+        "%% u1211:0-126 %%",
+        "Seeker: What—what does the jade fragment itself look like? What shape is the one that we're after? I guess they're all fingers, or no?",
+        "",
+        "%% u1212:0-54, u1213:0-56, u1214:0-22, u1215:0-53, u1216:0-4, u1217:0-90, u1218:0-56 %%",
+        "DM: They're all basically a finger and a part of the hand. So it's just they're all just long, thin pieces of jade. And each one, as—as you— right, like, it's—if you just—if you just drew a line, like— there, there, there, right? So it's just a long—it's just a thin, long, thin piece of jade, and it's—it's sort of embedded in the top of this shell.",
+        "",
+        "%% u1219:0-77, u1220:0-27, u1221:0-14, u1222:0-47, u1223:0-11, u1224:0-69, u1225:0-16, u1226:0-22, u1227:0-51, u1228:0-96, u1229:0-16, u1230:0-154, u1231:0-39, u1232:0-50, u1233:0-51, u1234:0-34, u1235:0-72, u1236:0-93, u1237:0-52, u1238:0-126, u1239:0-4, u1240:0-45, u1241:0-54, u1242:0-13 %%",
+        "((Checks, room architecture and brief remarks))",
+        "",
+        "%% u1243:0-42, u1244:0-21, u1245:0-33 %%",
+        "Seeker: Thing happened, so I listened for a minute in case there are any events occurring that make sound.",
+        "",
+        "%% u1246:0-25, u1247:0-4 %%",
+        "((Checks, room architecture and brief remarks))",
+        "",
+        "%% u1248:0-109, u1249:0-6, u1250:0-99, u1251:0-9, u1252:0-78, u1253:0-72 %%",
+        "DM: The noise of the whirlpool itself is quite loud, and it's hard to hear much other than the eerie sound of the of the shell the jade is mounted on, ((Other nearby sounds))"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You’ve now leveled out, so you are swimming like, yeah, you are swimming like— I guess, slightly slightly up. But now you've leveled out, and the jade is like directly straight ahead from you. I'll gotten him.",
+          "Seeker: And so I use the—",
+          "Kenzo: How about—how about, Eric, like a meter in front of it? Like, like— we're swimming towards it. Then with the clairvoyance, then a meter to the actual jade.",
+          "Seeker: Perfect.",
+          "Kenzo: Yeah, wait a week and, yeah."
+        ],
+        "after": [
+          "Seeker: Did we eat? Not in character, do we— somebody say something about a ritual in progress? I can remember something like that, but it might—if I might be remembering a different episode of our game.",
+          "DM: That was—that was when you fought the vampire. You interrupted a ritual in progress. Tara.",
+          "Seeker: Different story.",
+          "DM: Different. Story, yeah.",
+          "Seeker: Would they be chanting about—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Milo asks when the crew should escape",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1270",
+        "endUid": "u1290"
+      },
+      "lines": [
+        "%% u1270:0-10, u1271:0-15, u1272:0-41, u1273:0-36, u1274:0-21, u1275:0-90, u1276:0-4, u1277:0-54 %%",
+        "DM: Milo says, “Well, you know, any sort of adventure is fine by me, just—” he turns and looks over to the crew— “just hang back, folks, stay out of danger as best you can. And how are we gonna know when it's time to go to your ship in the sky, in a desert, on another plane, with magic?”",
+        "",
+        "%% u1278:0-30, u1279:0-16 %%",
+        "Riswynn: Wellby, do you do, like, a group halfling shout?",
+        "",
+        "%% u1280:0-2, u1281:0-39 %%",
+        "Delwath: It— isn't the Rainbow Bridge quite visible?",
+        "",
+        "%% u1282:0-49, u1283:0-41 %%",
+        "Wellby: It's a—it's a huge bridge made of a rainbow. It's— you haven't seen anything like it before.",
+        "",
+        "%% u1284:0-56 %%",
+        "Delwath: Just get on it when you see the bridge made of rainbows.",
+        "",
+        "%% u1285:0-125, u1286:0-20, u1287:0-39 %%",
+        "Wellby: You're going to want to go as quickly as you can, because probably something else is going to follow us trying to kill us. So we should also post Sending back to the ship to have other—",
+        "",
+        "%% u1288:0-9 %%",
+        "Delwath: Get that.",
+        "",
+        "%% u1289:0-57, u1290:0-21 %%",
+        "Wellby: We have casters there with Dispel Magic to be ready to un-fish these halflings."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: I mean, you don't understand the language. It could be just the way that merfolk language sounds. It sounds kind of sing song like a prayer. But who knows? Maybe it's a you know, the Buruli giving his breakfast order to a servant, for all you know.",
+          "Seeker: Think we're going to get our wish to go into the belly of the beast.",
+          "Riswynn: That's [garbled].",
+          "Kenzo: Yeah.",
+          "Tilly: I will point out that that wasn't particularly our wish, but I guess we're along for the ride."
+        ],
+        "after": [
+          "Seeker: Oh, cause they're gonna arrive as fish. And we did— I knew we should—",
+          "Wellby: Going to—",
+          "Seeker: Lunch—",
+          "Wellby: Sit for them.",
+          "Seeker: I knew we should have made a whole bunch of water helmets. Damn."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "The plan is revenge enough for Milo",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1453",
+        "endUid": "u1481"
+      },
+      "lines": [
+        "%% u1453:0-2, u1454:0-13, u1455:0-37, u1456:0-93 %%",
+        "Delwath: So, are we gonna—are we going for smash and grab here? We actually trying this, not trying killing Buruli to start? Just grab the thing and get out.",
+        "",
+        "%% u1457:0-29, u1458:0-9, u1459:0-87, u1460:0-47 %%",
+        "Riswynn: I mean, if that doesn't break Tilly and Milo's heart, let's just probably raise the chance of survival by slightly less revenge, because we're we are taking his favorite thing.",
+        "",
+        "%% u1461:0-17, u1462:0-21 %%",
+        "Tilly: Yes, that will be perfectly acceptable.",
+        "",
+        "%% u1463:0-9 %%",
+        "Seeker: Oh, good!",
+        "",
+        "%% u1464:0-37, u1465:0-7, u1466:0-4 %%",
+        "((Brief pursuit speculation))",
+        "",
+        "%% u1467:0-54, u1468:0-18 %%",
+        "DM: “What is this,” Milo asks, “what does this thing do again that we’re taking?”",
+        "",
+        "%% u1469:0-102, u1470:0-25, u1471:0-14 %%",
+        "Riswynn: So I think that the reason that it's in a seashell making a sound is that it's what he uses to connect the plane of water to the oh, our ocean!",
+        "",
+        "%% u1472:0-95, u1473:0-13, u1474:0-31 %%",
+        "DM: So are you saying, if you take this thing, his, like, stupid little excavation site is destroyed, and he can't find whatever he's looking for?",
+        "",
+        "%% u1475:0-5 %%",
+        "Riswynn: Yeah.",
+        "",
+        "%% u1476:0-5 %%",
+        "Seeker: Home.",
+        "",
+        "%% u1477:0-36 %%",
+        "DM: Hey? That sounds like revenge to me.",
+        "",
+        "%% u1478:0-7 %%",
+        "Tilly: Agreed.",
+        "",
+        "%% u1479:0-108, u1480:0-19, u1481:0-41 %%",
+        "Riswynn: I mean, unfortunately, any merfolk who are stuck on this side serving him are stuck on the side serving him, but we can't really handle—help with that collateral damage."
+      ],
+      "reviewContext": {
+        "before": [
+          "Tilly: How long does Bless last? Cause it can cast that, I think.",
+          "Delwath: A minute.",
+          "DM: It lasts a minute.",
+          "Tilly: Oh, so that's not really a setup before we go in and spell.",
+          "DM: Right."
+        ],
+        "after": [
+          "Delwath: So my smashing plan was to—wait, can any of us trigger the Rainbow Bridge?",
+          "DM: Yeah.",
+          "Seeker: Think it's— oh, really?",
+          "Delwath: It is a—",
+          "DM: Bum— anybody can. Anybody can trigger it. To tune it to send it back to Vindristjarna, you have to be attuned to it. I don't think this is necessarily clear from the description, but the intention is that anybody who's holding the Planar Prism can create a bridge to Vindristjarna. If you want to use it to create a bridge from Vindristjarna to somewhere else, you have to be attuned to the faces."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Buruli’s confrontation and death",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2055",
+        "endUid": "u3918"
+      },
+      "lines": [
+        "%% u2055:0-38, u2056:0-27, u2057:0-75, u2058:0-57, u2059:0-88, u2060:0-143, u2061:0-61, u2062:0-212 %%",
+        "DM: So here's the whirlpool in the middle. There's some guards around. There's a couple of merfolk around the—the whirlpool, and then there's, like, this thing over here is, is like a throne made of, of bones, and Buruli, you guess, has come down off the throne and is listening to 2 merfolk speak. ((Reporting guards))",
+        "",
+        "%% u2063:0-13, u2064:0-4, u2065:0-5, u2066:0-5, u2067:0-24, u2068:0-38, u2069:0-21, u2070:0-24, u2071:0-69, u2072:0-8, u2073:0-15, u2074:0-16, u2075:0-37, u2076:0-10, u2077:0-5, u2078:0-68, u2079:0-14, u2080:0-17, u2081:0-16, u2082:0-13, u2083:0-206, u2084:0-41, u2085:0-5, u2086:0-19, u2087:0-52, u2088:0-14, u2089:0-57, u2090:0-18, u2091:0-34, u2092:0-71, u2093:0-58, u2094:0-4, u2095:0-44, u2096:0-16, u2097:0-18, u2098:0-26, u2099:0-5, u2100:0-69, u2101:0-85, u2102:0-9, u2103:0-47, u2104:0-45, u2105:0-12, u2106:0-19, u2107:0-48, u2108:0-37, u2109:0-47, u2110:0-45, u2111:0-129, u2112:0-38, u2113:0-25, u2114:0-8, u2115:0-9, u2116:0-54, u2117:0-14, u2118:0-5, u2119:0-62, u2120:0-37, u2121:0-19, u2122:0-16, u2123:0-26, u2124:0-22, u2125:0-29, u2126:0-25, u2127:0-38, u2128:0-36, u2129:0-4, u2130:0-19, u2131:0-21, u2132:0-19, u2133:0-9, u2134:0-10, u2135:0-32, u2136:0-69, u2137:0-14, u2138:0-25, u2139:0-49, u2140:0-29, u2141:0-16, u2142:0-77, u2143:0-17, u2144:0-104, u2145:0-16, u2146:0-22, u2147:0-35, u2148:0-16, u2149:0-31, u2150:0-3, u2151:0-6, u2152:0-34, u2153:0-30, u2154:0-37, u2155:0-33, u2156:0-34, u2157:0-36, u2158:0-40, u2159:0-61, u2160:0-71, u2161:0-8, u2162:0-127, u2163:0-8, u2164:0-92, u2165:0-16, u2166:0-75, u2167:0-10, u2168:0-35, u2169:0-93, u2170:0-155, u2171:0-34, u2172:0-63, u2173:0-10, u2174:0-13, u2175:0-78, u2176:0-15, u2177:0-31, u2178:0-100, u2179:0-9, u2180:0-31, u2181:0-104, u2182:0-44, u2183:0-4, u2184:0-24, u2185:0-8, u2186:0-19, u2187:0-20, u2188:0-5, u2189:0-23, u2190:0-28, u2191:0-41, u2192:0-8, u2193:0-20, u2194:0-11, u2195:0-19, u2196:0-66, u2197:0-26, u2198:0-13, u2199:0-49, u2200:0-4, u2201:0-10, u2202:0-23, u2203:0-69, u2204:0-25, u2205:0-8, u2206:0-11, u2207:0-4, u2208:0-21, u2209:0-40, u2210:0-29, u2211:0-32, u2212:0-19, u2213:0-5, u2214:0-20, u2215:0-17, u2216:0-10, u2217:0-16, u2218:0-66, u2219:0-80, u2220:0-38, u2221:0-49, u2222:0-43, u2223:0-43, u2224:0-5, u2225:0-35, u2226:0-9, u2227:0-16, u2228:0-5, u2229:0-19, u2230:0-21, u2231:0-79, u2232:0-15, u2233:0-7, u2234:0-30, u2235:0-5, u2236:0-29, u2237:0-26, u2238:0-14, u2239:0-20, u2240:0-68, u2241:0-38, u2242:0-56, u2243:0-34, u2244:0-29, u2245:0-50, u2246:0-28, u2247:0-5, u2248:0-26, u2249:0-3, u2250:0-102, u2251:0-55, u2252:0-14, u2253:0-23, u2254:0-28, u2255:0-5, u2256:0-72, u2257:0-22, u2258:0-8, u2259:0-45, u2260:0-42, u2261:0-5, u2262:0-76, u2263:0-4, u2264:0-13, u2265:0-3, u2266:0-9, u2267:0-11, u2268:0-70, u2269:0-13, u2270:0-28, u2271:0-13, u2272:0-6, u2273:0-19, u2274:0-9, u2275:0-5, u2276:0-12, u2277:0-92, u2278:0-21, u2279:0-11, u2280:0-26, u2281:0-12, u2282:0-10, u2283:0-2, u2284:0-15, u2285:0-72, u2286:0-59, u2287:0-30, u2288:0-22, u2289:0-14, u2290:0-123, u2291:0-20, u2292:0-28, u2293:0-83, u2294:0-22, u2295:0-19, u2296:0-22, u2297:0-45, u2298:0-41, u2299:0-13, u2300:0-5, u2301:0-13, u2302:0-14, u2303:0-57, u2304:0-23, u2305:0-8, u2306:0-7, u2307:0-2, u2308:0-54, u2309:0-5, u2310:0-53, u2311:0-17, u2312:0-33, u2313:0-5, u2314:0-16, u2315:0-22, u2316:0-65, u2317:0-19, u2318:0-8, u2319:0-13, u2320:0-13, u2321:0-43, u2322:0-3, u2323:0-15, u2324:0-39, u2325:0-3, u2326:0-54, u2327:0-9, u2328:0-34, u2329:0-40, u2330:0-32, u2331:0-6, u2332:0-5, u2333:0-13, u2334:0-8, u2335:0-17, u2336:0-7, u2337:0-11, u2338:0-4, u2339:0-2, u2340:0-49, u2341:0-4, u2342:0-3, u2343:0-39, u2344:0-125, u2345:0-44, u2346:0-7, u2347:0-6, u2348:0-18, u2349:0-23, u2350:0-20, u2351:0-4, u2352:0-21, u2353:0-25, u2354:0-4, u2355:0-78, u2356:0-13, u2357:0-14, u2358:0-16, u2359:0-53, u2360:0-14, u2361:0-50, u2362:0-19, u2363:0-18, u2364:0-32, u2365:0-5, u2366:0-108, u2367:0-38, u2368:0-23, u2369:0-10, u2370:0-116, u2371:0-28, u2372:0-26, u2373:0-55, u2374:0-39, u2375:0-8, u2376:0-68, u2377:0-14, u2378:0-65, u2379:0-5, u2380:0-47, u2381:0-24, u2382:0-10, u2383:0-31, u2384:0-47, u2385:0-38, u2386:0-10, u2387:0-18, u2388:0-30, u2389:0-29, u2390:0-6, u2391:0-20, u2392:0-77, u2393:0-17, u2394:0-42, u2395:0-5, u2396:0-73, u2397:0-71, u2398:0-29, u2399:0-22, u2400:0-52, u2401:0-23, u2402:0-92, u2403:0-38, u2404:0-50, u2405:0-38, u2406:0-47, u2407:0-31, u2408:0-61, u2409:0-23, u2410:0-32, u2411:0-127, u2412:0-43, u2413:0-27, u2414:0-12, u2415:0-5, u2416:0-10, u2417:0-15, u2418:0-24, u2419:0-19, u2420:0-91, u2421:0-42, u2422:0-32, u2423:0-79, u2424:0-3, u2425:0-15, u2426:0-56, u2427:0-47, u2428:0-18, u2429:0-10, u2430:0-147, u2431:0-68, u2432:0-57, u2433:0-27, u2434:0-38, u2435:0-12, u2436:0-31, u2437:0-15, u2438:0-26, u2439:0-6, u2440:0-77, u2441:0-43, u2442:0-78, u2443:0-25, u2444:0-26, u2445:0-13, u2446:0-39, u2447:0-31, u2448:0-19, u2449:0-15, u2450:0-66, u2451:0-33, u2452:0-5, u2453:0-5, u2454:0-43, u2455:0-20, u2456:0-60, u2457:0-9, u2458:0-11, u2459:0-49, u2460:0-7, u2461:0-54, u2462:0-5, u2463:0-40, u2464:0-24, u2465:0-6, u2466:0-6, u2467:0-5, u2468:0-24, u2469:0-144, u2470:0-24, u2471:0-5, u2472:0-33, u2473:0-52, u2474:0-25, u2475:0-9, u2476:0-24, u2477:0-17, u2478:0-4, u2479:0-50, u2480:0-66, u2481:0-80, u2482:0-8, u2483:0-54, u2484:0-21, u2485:0-66, u2486:0-8, u2487:0-15, u2488:0-3, u2489:0-3, u2490:0-108, u2491:0-19, u2492:0-60, u2493:0-2, u2494:0-27, u2495:0-20, u2496:0-16, u2497:0-5, u2498:0-19, u2499:0-3, u2500:0-55, u2501:0-17, u2502:0-18, u2503:0-5, u2504:0-28, u2505:0-15, u2506:0-9, u2507:0-19, u2508:0-7, u2509:0-18, u2510:0-5, u2511:0-49, u2512:0-7, u2513:0-4, u2514:0-7, u2515:0-62, u2516:0-61, u2517:0-54, u2518:0-41, u2519:0-26, u2520:0-16, u2521:0-5, u2522:0-23, u2523:0-72, u2524:0-5, u2525:0-50, u2526:0-40, u2527:0-9, u2528:0-15, u2529:0-18, u2530:0-4, u2531:0-50, u2532:0-9, u2533:0-4, u2534:0-5, u2535:0-8, u2536:0-24, u2537:0-33, u2538:0-23, u2539:0-8, u2540:0-13, u2541:0-8, u2542:0-3, u2543:0-68, u2544:0-48, u2545:0-5, u2546:0-8, u2547:0-61, u2548:0-56, u2549:0-10, u2550:0-3, u2551:0-10, u2552:0-3, u2553:0-11, u2554:0-14, u2555:0-17, u2556:0-19, u2557:0-20, u2558:0-52, u2559:0-20, u2560:0-2, u2561:0-8, u2562:0-11, u2563:0-6, u2564:0-30, u2565:0-7, u2566:0-8, u2567:0-16, u2568:0-22, u2569:0-27, u2570:0-42, u2571:0-15, u2572:0-24, u2573:0-8, u2574:0-16, u2575:0-44, u2576:0-18, u2577:0-12, u2578:0-10, u2579:0-15, u2580:0-28, u2581:0-20, u2582:0-11, u2583:0-41, u2584:0-6, u2585:0-40, u2586:0-21, u2587:0-46, u2588:0-17, u2589:0-38, u2590:0-17, u2591:0-35, u2592:0-17, u2593:0-127, u2594:0-42, u2595:0-8, u2596:0-17, u2597:0-13, u2598:0-6, u2599:0-16, u2600:0-79, u2601:0-45, u2602:0-43, u2603:0-8, u2604:0-11, u2605:0-19, u2606:0-3, u2607:0-7, u2608:0-5, u2609:0-13, u2610:0-46, u2611:0-28, u2612:0-8, u2613:0-12, u2614:0-8, u2615:0-10, u2616:0-60, u2617:0-14, u2618:0-10, u2619:0-93, u2620:0-15, u2621:0-59, u2622:0-5, u2623:0-35, u2624:0-3, u2625:0-68, u2626:0-15, u2627:0-22, u2628:0-27, u2629:0-19, u2630:0-33, u2631:0-38, u2632:0-3, u2633:0-5, u2634:0-36, u2635:0-28, u2636:0-27, u2637:0-13, u2638:0-3, u2639:0-32, u2640:0-7, u2641:0-47, u2642:0-6, u2643:0-48, u2644:0-6, u2645:0-5, u2646:0-4, u2647:0-5, u2648:0-16, u2649:0-23, u2650:0-10, u2651:0-5, u2652:0-16, u2653:0-62, u2654:0-4, u2655:0-2, u2656:0-35, u2657:0-30, u2658:0-18, u2659:0-15, u2660:0-9, u2661:0-31, u2662:0-4, u2663:0-102, u2664:0-15, u2665:0-61, u2666:0-29, u2667:0-27, u2668:0-12, u2669:0-52, u2670:0-102, u2671:0-6, u2672:0-22, u2673:0-17, u2674:0-53, u2675:0-35, u2676:0-21, u2677:0-33, u2678:0-10, u2679:0-17, u2680:0-22, u2681:0-9, u2682:0-13, u2683:0-71, u2684:0-12, u2685:0-11, u2686:0-16, u2687:0-12, u2688:0-29, u2689:0-69, u2690:0-73, u2691:0-152, u2692:0-13, u2693:0-12, u2694:0-121, u2695:0-11, u2696:0-2, u2697:0-14, u2698:0-13, u2699:0-69, u2700:0-49, u2701:0-14, u2702:0-24, u2703:0-28, u2704:0-31, u2705:0-4, u2706:0-23, u2707:0-10, u2708:0-25, u2709:0-41, u2710:0-29, u2711:0-8, u2712:0-31, u2713:0-4, u2714:0-17, u2715:0-43, u2716:0-20, u2717:0-61, u2718:0-12, u2719:0-15, u2720:0-53, u2721:0-11, u2722:0-64, u2723:0-9, u2724:0-12, u2725:0-17, u2726:0-15, u2727:0-34, u2728:0-7, u2729:0-15, u2730:0-16, u2731:0-48, u2732:0-29, u2733:0-17, u2734:0-64, u2735:0-7, u2736:0-2, u2737:0-30, u2738:0-38, u2739:0-15, u2740:0-4, u2741:0-12, u2742:0-19, u2743:0-7, u2744:0-17, u2745:0-7, u2746:0-32, u2747:0-5, u2748:0-14, u2749:0-8, u2750:0-26, u2751:0-63, u2752:0-4, u2753:0-38, u2754:0-51, u2755:0-60, u2756:0-32, u2757:0-48, u2758:0-8, u2759:0-7, u2760:0-77, u2761:0-8, u2762:0-24, u2763:0-58, u2764:0-5, u2765:0-45, u2766:0-23, u2767:0-22, u2768:0-5, u2769:0-23, u2770:0-11, u2771:0-23, u2772:0-12, u2773:0-22, u2774:0-21, u2775:0-13, u2776:0-23, u2777:0-38, u2778:0-17, u2779:0-13, u2780:0-11, u2781:0-11, u2782:0-40, u2783:0-39, u2784:0-40, u2785:0-45, u2786:0-4, u2787:0-10, u2788:0-35, u2789:0-5, u2790:0-33, u2791:0-4, u2792:0-22, u2793:0-60, u2794:0-9, u2795:0-11, u2796:0-28, u2797:0-28, u2798:0-7, u2799:0-27, u2800:0-43, u2801:0-5, u2802:0-79, u2803:0-13, u2804:0-33, u2805:0-35, u2806:0-14, u2807:0-66, u2808:0-5, u2809:0-6, u2810:0-54, u2811:0-5, u2812:0-54, u2813:0-21, u2814:0-52, u2815:0-100, u2816:0-5, u2817:0-67, u2818:0-28, u2819:0-61, u2820:0-82, u2821:0-7, u2822:0-28, u2823:0-5, u2824:0-57, u2825:0-147, u2826:0-12, u2827:0-9, u2828:0-9, u2829:0-73, u2830:0-131, u2831:0-86, u2832:0-74, u2833:0-28, u2834:0-46, u2835:0-28, u2836:0-105, u2837:0-9, u2838:0-26, u2839:0-5, u2840:0-51, u2841:0-17, u2842:0-21, u2843:0-24, u2844:0-5, u2845:0-7, u2846:0-4, u2847:0-18, u2848:0-5, u2849:0-37, u2850:0-16, u2851:0-151, u2852:0-73, u2853:0-24, u2854:0-12, u2855:0-5, u2856:0-38, u2857:0-26, u2858:0-20, u2859:0-46, u2860:0-14, u2861:0-7, u2862:0-19, u2863:0-17, u2864:0-54, u2865:0-41, u2866:0-18, u2867:0-3, u2868:0-1, u2869:0-5, u2870:0-9, u2871:0-70, u2872:0-39, u2873:0-17, u2874:0-47, u2875:0-16, u2876:0-23, u2877:0-9, u2878:0-41, u2879:0-5, u2880:0-13, u2881:0-4, u2882:0-31, u2883:0-18, u2884:0-25, u2885:0-48, u2886:0-18, u2887:0-26, u2888:0-7, u2889:0-35, u2890:0-9, u2891:0-31, u2892:0-4, u2893:0-15, u2894:0-42, u2895:0-15, u2896:0-4, u2897:0-38, u2898:0-5, u2899:0-25, u2900:0-74, u2901:0-51, u2902:0-5, u2903:0-47, u2904:0-21, u2905:0-3, u2906:0-12, u2907:0-8, u2908:0-11, u2909:0-10, u2910:0-63, u2911:0-14, u2912:0-52, u2913:0-20, u2914:0-17, u2915:0-6, u2916:0-16, u2917:0-62, u2918:0-46, u2919:0-4, u2920:0-18, u2921:0-14, u2922:0-32, u2923:0-14, u2924:0-95, u2925:0-24, u2926:0-42, u2927:0-14, u2928:0-40, u2929:0-10, u2930:0-48, u2931:0-96, u2932:0-14, u2933:0-35, u2934:0-127, u2935:0-30, u2936:0-107, u2937:0-13, u2938:0-118, u2939:0-41, u2940:0-3, u2941:0-13, u2942:0-80, u2943:0-60, u2944:0-26, u2945:0-7, u2946:0-68, u2947:0-48, u2948:0-76, u2949:0-7, u2950:0-6, u2951:0-5, u2952:0-33, u2953:0-11, u2954:0-47, u2955:0-218, u2956:0-4, u2957:0-5, u2958:0-25, u2959:0-9, u2960:0-19, u2961:0-13, u2962:0-4, u2963:0-3, u2964:0-16, u2965:0-4, u2966:0-12, u2967:0-12, u2968:0-67, u2969:0-60, u2970:0-8, u2971:0-87, u2972:0-32, u2973:0-49, u2974:0-43, u2975:0-32, u2976:0-116, u2977:0-14, u2978:0-76, u2979:0-150, u2980:0-51, u2981:0-15, u2982:0-37, u2983:0-72, u2984:0-9, u2985:0-16, u2986:0-19, u2987:0-43, u2988:0-96, u2989:0-7, u2990:0-19, u2991:0-7, u2992:0-18, u2993:0-12, u2994:0-5, u2995:0-5, u2996:0-27, u2997:0-13, u2998:0-3, u2999:0-39, u3000:0-22, u3001:0-24, u3002:0-59, u3003:0-60, u3004:0-24, u3005:0-10, u3006:0-24, u3007:0-5, u3008:0-53, u3009:0-5, u3010:0-142, u3011:0-65, u3012:0-5, u3013:0-25, u3014:0-20, u3015:0-120, u3016:0-133, u3017:0-12, u3018:0-33, u3019:0-44, u3020:0-7, u3021:0-4, u3022:0-2, u3023:0-20, u3024:0-14, u3025:0-2, u3026:0-38, u3027:0-34, u3028:0-13, u3029:0-17, u3030:0-5, u3031:0-46, u3032:0-11, u3033:0-16, u3034:0-24, u3035:0-95, u3036:0-12, u3037:0-28, u3038:0-12, u3039:0-10, u3040:0-43, u3041:0-4, u3042:0-4, u3043:0-11, u3044:0-16, u3045:0-19, u3046:0-28, u3047:0-3, u3048:0-9, u3049:0-22, u3050:0-19, u3051:0-23, u3052:0-22, u3053:0-4, u3054:0-10, u3055:0-15, u3056:0-35, u3057:0-46, u3058:0-6, u3059:0-7, u3060:0-5, u3061:0-45, u3062:0-17, u3063:0-86, u3064:0-51, u3065:0-24, u3066:0-22, u3067:0-69, u3068:0-34, u3069:0-4, u3070:0-22, u3071:0-12, u3072:0-23, u3073:0-11, u3074:0-46, u3075:0-17, u3076:0-44, u3077:0-15, u3078:0-9, u3079:0-1, u3080:0-28, u3081:0-3, u3082:0-5, u3083:0-3, u3084:0-22, u3085:0-28, u3086:0-44, u3087:0-13, u3088:0-18, u3089:0-66, u3090:0-8, u3091:0-17, u3092:0-8, u3093:0-10, u3094:0-2, u3095:0-16, u3096:0-156, u3097:0-3, u3098:0-40, u3099:0-4, u3100:0-39, u3101:0-18, u3102:0-19, u3103:0-26, u3104:0-25, u3105:0-56, u3106:0-127, u3107:0-5, u3108:0-23, u3109:0-5, u3110:0-6, u3111:0-14, u3112:0-5, u3113:0-88, u3114:0-76, u3115:0-41, u3116:0-34, u3117:0-4, u3118:0-38, u3119:0-73, u3120:0-86, u3121:0-24, u3122:0-41, u3123:0-34, u3124:0-13, u3125:0-84, u3126:0-13, u3127:0-20, u3128:0-79, u3129:0-58, u3130:0-42, u3131:0-14, u3132:0-15, u3133:0-102, u3134:0-99, u3135:0-59, u3136:0-31, u3137:0-5, u3138:0-32, u3139:0-44, u3140:0-127, u3141:0-40, u3142:0-9, u3143:0-20, u3144:0-37, u3145:0-72, u3146:0-12, u3147:0-6, u3148:0-55, u3149:0-113, u3150:0-15, u3151:0-65, u3152:0-57, u3153:0-44, u3154:0-37, u3155:0-5, u3156:0-31, u3157:0-24, u3158:0-3, u3159:0-75, u3160:0-10, u3161:0-2, u3162:0-23, u3163:0-28, u3164:0-10, u3165:0-5, u3166:0-39, u3167:0-4, u3168:0-6, u3169:0-53, u3170:0-25, u3171:0-37, u3172:0-31, u3173:0-72, u3174:0-77, u3175:0-5, u3176:0-22, u3177:0-5, u3178:0-19, u3179:0-30, u3180:0-38, u3181:0-19, u3182:0-7, u3183:0-20, u3184:0-15, u3185:0-25, u3186:0-14, u3187:0-52, u3188:0-14, u3189:0-45, u3190:0-8, u3191:0-30, u3192:0-68, u3193:0-74, u3194:0-12, u3195:0-7, u3196:0-10, u3197:0-19, u3198:0-18, u3199:0-25, u3200:0-36, u3201:0-37, u3202:0-9, u3203:0-18, u3204:0-79, u3205:0-21, u3206:0-14, u3207:0-50, u3208:0-26, u3209:0-94, u3210:0-33, u3211:0-4, u3212:0-18, u3213:0-41, u3214:0-29, u3215:0-17, u3216:0-56, u3217:0-9, u3218:0-14, u3219:0-2, u3220:0-13, u3221:0-2, u3222:0-132, u3223:0-52, u3224:0-91, u3225:0-3, u3226:0-7, u3227:0-66, u3228:0-84, u3229:0-40, u3230:0-81, u3231:0-18, u3232:0-55, u3233:0-38, u3234:0-53, u3235:0-78, u3236:0-29, u3237:0-18, u3238:0-30, u3239:0-6, u3240:0-75, u3241:0-89, u3242:0-18, u3243:0-18, u3244:0-5, u3245:0-14, u3246:0-24, u3247:0-63, u3248:0-11, u3249:0-10, u3250:0-20, u3251:0-24, u3252:0-26, u3253:0-11, u3254:0-96, u3255:0-9, u3256:0-5, u3257:0-46, u3258:0-46, u3259:0-27, u3260:0-2, u3261:0-47, u3262:0-15, u3263:0-94, u3264:0-8, u3265:0-44, u3266:0-100, u3267:0-20, u3268:0-59, u3269:0-38, u3270:0-11, u3271:0-44, u3272:0-3, u3273:0-32, u3274:0-29, u3275:0-35, u3276:0-38, u3277:0-30, u3278:0-30, u3279:0-32, u3280:0-19, u3281:0-14, u3282:0-72, u3283:0-16, u3284:0-16, u3285:0-64, u3286:0-12, u3287:0-62, u3288:0-3, u3289:0-5, u3290:0-28, u3291:0-43, u3292:0-50, u3293:0-17, u3294:0-18, u3295:0-49, u3296:0-12, u3297:0-45, u3298:0-12, u3299:0-11, u3300:0-5, u3301:0-9, u3302:0-6, u3303:0-26, u3304:0-20, u3305:0-21, u3306:0-27, u3307:0-45, u3308:0-61, u3309:0-16, u3310:0-16, u3311:0-23, u3312:0-26, u3313:0-5, u3314:0-3, u3315:0-35, u3316:0-22, u3317:0-126, u3318:0-12, u3319:0-37, u3320:0-13, u3321:0-22, u3322:0-10, u3323:0-14, u3324:0-31, u3325:0-17, u3326:0-22, u3327:0-7, u3328:0-43, u3329:0-11, u3330:0-11, u3331:0-23, u3332:0-17, u3333:0-19, u3334:0-4, u3335:0-3, u3336:0-73, u3337:0-3, u3338:0-33, u3339:0-49, u3340:0-5, u3341:0-42, u3342:0-53, u3343:0-5, u3344:0-45, u3345:0-13, u3346:0-5, u3347:0-66, u3348:0-56, u3349:0-4, u3350:0-11, u3351:0-5, u3352:0-41, u3353:0-133, u3354:0-35, u3355:0-39, u3356:0-51, u3357:0-4, u3358:0-122, u3359:0-98, u3360:0-12, u3361:0-29, u3362:0-48, u3363:0-15, u3364:0-11, u3365:0-37, u3366:0-59, u3367:0-5, u3368:0-16, u3369:0-17, u3370:0-9, u3371:0-17, u3372:0-53, u3373:0-15, u3374:0-24, u3375:0-30, u3376:0-32, u3377:0-46, u3378:0-11, u3379:0-31, u3380:0-34, u3381:0-57, u3382:0-16, u3383:0-4, u3384:0-4, u3385:0-40, u3386:0-87, u3387:0-3, u3388:0-39, u3389:0-14, u3390:0-21, u3391:0-19, u3392:0-39, u3393:0-24, u3394:0-47, u3395:0-68, u3396:0-60, u3397:0-81, u3398:0-81, u3399:0-13, u3400:0-36, u3401:0-68, u3402:0-15, u3403:0-3, u3404:0-10, u3405:0-39, u3406:0-22, u3407:0-17, u3408:0-25, u3409:0-11, u3410:0-18, u3411:0-10, u3412:0-43, u3413:0-42, u3414:0-8, u3415:0-87, u3416:0-74, u3417:0-5, u3418:0-25, u3419:0-20, u3420:0-19, u3421:0-41, u3422:0-13, u3423:0-10, u3424:0-86, u3425:0-23, u3426:0-6, u3427:0-41, u3428:0-11, u3429:0-68, u3430:0-2, u3431:0-12, u3432:0-53, u3433:0-45, u3434:0-25, u3435:0-9, u3436:0-5, u3437:0-84, u3438:0-19, u3439:0-14, u3440:0-5, u3441:0-7, u3442:0-52, u3443:0-7, u3444:0-52, u3445:0-79, u3446:0-11, u3447:0-48, u3448:0-63, u3449:0-26, u3450:0-9, u3451:0-13, u3452:0-8, u3453:0-167, u3454:0-3, u3455:0-19, u3456:0-20, u3457:0-36, u3458:0-20, u3459:0-21, u3460:0-30, u3461:0-46, u3462:0-51, u3463:0-5, u3464:0-5, u3465:0-90, u3466:0-40, u3467:0-22, u3468:0-109, u3469:0-11, u3470:0-17, u3471:0-18, u3472:0-7, u3473:0-17, u3474:0-76, u3475:0-33, u3476:0-52, u3477:0-23, u3478:0-6, u3479:0-22, u3480:0-55, u3481:0-62, u3482:0-5, u3483:0-10, u3484:0-39, u3485:0-16, u3486:0-15, u3487:0-91, u3488:0-39, u3489:0-11, u3490:0-36, u3491:0-5, u3492:0-29, u3493:0-47, u3494:0-108, u3495:0-24, u3496:0-3, u3497:0-40, u3498:0-23, u3499:0-51, u3500:0-31, u3501:0-33, u3502:0-4, u3503:0-22, u3504:0-24, u3505:0-7, u3506:0-11, u3507:0-54, u3508:0-26, u3509:0-8, u3510:0-18, u3511:0-5, u3512:0-35, u3513:0-16, u3514:0-21, u3515:0-15, u3516:0-25, u3517:0-26, u3518:0-44, u3519:0-57, u3520:0-4, u3521:0-69, u3522:0-12, u3523:0-62 %%",
+        "((Battle, jade theft and evacuation))",
+        "",
+        "%% u3524:0-29, u3525:0-10 %%",
+        "DM: He points his finger at Kenzo and yells.",
+        "",
+        "%% u3526:0-4 %%",
+        "((Battle, jade theft and evacuation))",
+        "",
+        "%% u3527:0-22 %%",
+        "DM: “Give it to me or die!”",
+        "",
+        "%% u3528:0-5, u3529:0-7, u3530:0-11, u3531:0-20, u3532:0-4, u3533:0-30, u3534:0-6, u3535:0-34, u3536:0-20, u3537:0-18, u3538:0-8, u3539:0-8, u3540:0-6, u3541:0-3, u3542:0-38, u3543:0-33, u3544:0-2, u3545:0-97, u3546:0-17, u3547:0-9, u3548:0-41, u3549:0-33, u3550:0-8, u3551:0-3, u3552:0-10, u3553:0-39, u3554:0-4, u3555:0-16, u3556:0-12, u3557:0-5, u3558:0-3, u3559:0-17, u3560:0-13, u3561:0-4, u3562:0-24, u3563:0-32, u3564:0-12, u3565:0-5, u3566:0-15, u3567:0-44, u3568:0-52, u3569:0-4, u3570:0-108, u3571:0-8, u3572:0-55, u3573:0-20, u3574:0-23, u3575:0-33, u3576:0-62, u3577:0-64, u3578:0-22, u3579:0-38, u3580:0-29, u3581:0-39, u3582:0-8, u3583:0-30, u3584:0-12, u3585:0-15, u3586:0-40, u3587:0-8, u3588:0-42, u3589:0-10, u3590:0-23, u3591:0-40, u3592:0-22, u3593:0-3, u3594:0-26, u3595:0-26, u3596:0-30, u3597:0-67, u3598:0-18, u3599:0-10, u3600:0-11, u3601:0-6, u3602:0-5, u3603:0-10, u3604:0-11, u3605:0-78, u3606:0-25, u3607:0-27, u3608:0-11, u3609:0-44, u3610:0-6, u3611:0-80, u3612:0-13, u3613:0-9, u3614:0-10, u3615:0-9, u3616:0-76, u3617:0-13, u3618:0-65, u3619:0-64, u3620:0-13, u3621:0-8, u3622:0-52, u3623:0-11, u3624:0-7, u3625:0-12, u3626:0-17, u3627:0-4, u3628:0-5, u3629:0-15, u3630:0-57, u3631:0-27, u3632:0-8, u3633:0-31, u3634:0-24, u3635:0-4, u3636:0-19, u3637:0-9, u3638:0-18, u3639:0-14, u3640:0-15, u3641:0-14, u3642:0-14, u3643:0-5, u3644:0-117, u3645:0-5, u3646:0-2, u3647:0-14, u3648:0-26, u3649:0-26, u3650:0-86, u3651:0-22, u3652:0-61, u3653:0-5, u3654:0-25, u3655:0-33, u3656:0-21, u3657:0-5, u3658:0-63, u3659:0-34, u3660:0-59, u3661:0-13, u3662:0-38, u3663:0-5, u3664:0-6, u3665:0-7, u3666:0-8, u3667:0-5, u3668:0-94, u3669:0-11, u3670:0-48, u3671:0-61, u3672:0-27, u3673:0-10, u3674:0-8, u3675:0-39, u3676:0-5, u3677:0-20, u3678:0-43, u3679:0-8, u3680:0-147, u3681:0-4, u3682:0-92, u3683:0-16, u3684:0-58, u3685:0-10, u3686:0-59, u3687:0-50, u3688:0-60, u3689:0-13, u3690:0-7, u3691:0-6, u3692:0-31, u3693:0-8, u3694:0-9, u3695:0-34, u3696:0-40, u3697:0-23, u3698:0-14, u3699:0-6, u3700:0-41, u3701:0-104, u3702:0-11, u3703:0-15, u3704:0-9, u3705:0-7, u3706:0-63, u3707:0-40, u3708:0-42, u3709:0-15, u3710:0-74, u3711:0-52, u3712:0-25, u3713:0-5, u3714:0-23, u3715:0-16, u3716:0-4, u3717:0-47, u3718:0-41, u3719:0-2, u3720:0-16, u3721:0-19, u3722:0-13, u3723:0-74, u3724:0-3, u3725:0-23, u3726:0-28, u3727:0-13, u3728:0-34, u3729:0-49, u3730:0-69, u3731:0-20, u3732:0-5, u3733:0-31, u3734:0-21, u3735:0-6, u3736:0-43, u3737:0-1, u3738:0-4, u3739:0-9, u3740:0-12, u3741:0-5, u3742:0-21, u3743:0-55, u3744:0-26, u3745:0-3, u3746:0-11, u3747:0-62, u3748:0-98, u3749:0-83, u3750:0-5, u3751:0-10, u3752:0-30, u3753:0-5, u3754:0-10, u3755:0-25, u3756:0-25, u3757:0-5, u3758:0-12, u3759:0-5, u3760:0-26, u3761:0-5, u3762:0-3, u3763:0-25, u3764:0-16, u3765:0-29, u3766:0-15, u3767:0-44, u3768:0-26, u3769:0-1, u3770:0-23, u3771:0-70, u3772:0-14, u3773:0-21, u3774:0-54, u3775:0-8, u3776:0-176, u3777:0-8, u3778:0-52, u3779:0-21, u3780:0-33, u3781:0-54, u3782:0-26, u3783:0-49, u3784:0-61, u3785:0-32, u3786:0-55, u3787:0-37, u3788:0-5, u3789:0-21, u3790:0-40, u3791:0-27, u3792:0-27, u3793:0-15, u3794:0-27, u3795:0-56, u3796:0-17, u3797:0-31, u3798:0-29, u3799:0-72, u3800:0-56, u3801:0-47, u3802:0-32, u3803:0-17, u3804:0-61, u3805:0-27, u3806:0-10, u3807:0-48, u3808:0-4, u3809:0-57, u3810:0-44, u3811:0-4, u3812:0-56, u3813:0-13, u3814:0-3, u3815:0-5, u3816:0-7, u3817:0-41, u3818:0-109, u3819:0-32, u3820:0-36, u3821:0-48, u3822:0-36, u3823:0-23, u3824:0-5, u3825:0-16, u3826:0-31, u3827:0-8, u3828:0-20, u3829:0-11, u3830:0-30, u3831:0-5, u3832:0-32, u3833:0-88, u3834:0-37, u3835:0-5, u3836:0-31, u3837:0-24, u3838:0-79, u3839:0-30, u3840:0-35, u3841:0-4, u3842:0-29, u3843:0-20, u3844:0-7 %%",
+        "((Battle, jade theft and evacuation))",
+        "",
+        "%% u3845:0-7, u3846:0-31, u3847:0-12, u3848:0-30, u3849:0-86, u3850:0-6, u3851:0-88 %%",
+        "DM: Our guy, Buruli. So Buruli stumbles out, now standing, like, water dripping off of him, on the hot desert surface of Vindristjarna, hovering above the orcish city of Uzgukhar in the pre-dawn light. So I guess it's actually not hot yet, because the sun is just barely up.",
+        "",
+        "%% u3852:0-7, u3853:0-32, u3854:0-14, u3855:0-37, u3856:0-38, u3857:0-108, u3858:0-48, u3859:0-7, u3860:0-13, u3861:0-24, u3862:0-17, u3863:0-13, u3864:0-27, u3865:0-12, u3866:0-44, u3867:0-8, u3868:0-21, u3869:0-6, u3870:0-40, u3871:0-55, u3872:0-41, u3873:0-67, u3874:0-18, u3875:0-45, u3876:0-4, u3877:0-75, u3878:0-9, u3879:0-12, u3880:0-26, u3881:0-29, u3882:0-8, u3883:0-46, u3884:0-34, u3885:0-64, u3886:0-5, u3887:0-42, u3888:0-29, u3889:0-30, u3890:0-38, u3891:0-42, u3892:0-52, u3893:0-32, u3894:0-15, u3895:0-86, u3896:0-21, u3897:0-2, u3898:0-55, u3899:0-21, u3900:0-59, u3901:0-29, u3902:0-45, u3903:0-38, u3904:0-13, u3905:0-13, u3906:0-9, u3907:0-2, u3908:0-32, u3909:0-66, u3910:0-10, u3911:0-11, u3912:0-15, u3913:0-35, u3914:0-51 %%",
+        "((Battle, jade theft and evacuation))",
+        "",
+        "%% u3915:0-43, u3916:0-12, u3917:0-46, u3918:0-38 %%",
+        "DM: ((Finishing attack)) he falls on the ground dead."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay. You see, here's what you see. As you take a quick peek through the door, make a make a Stealth and a Perception check.",
+          "Seeker: Excuse me.",
+          "DM: Yeah, rogues, man. Peering through the door, you silently, like, swim closely up to the edge and just kind of glance through quickly. You see, the room that you’re looking into is maybe a hundred feet long, maybe a little longer, 120 feet long, and about 50 or 60 feet wide. It's a giant, cavernous room. You can't see everything clearly, because the your field of vision is not quite as wide as the width of the room, but you can see in the middle of the room the whirlpool, maybe 15 feet across. You can't see through it, and it has. It's like a dome. It swirls up to a domed top emerging from the floor, so it seems to be completely enclosing the jade. But you know the jade is in there from Clairvoyance and from Kenzo.",
+          "DM: Positioned around the stairs, you see 4 merfolk guards. Another—the other guard who was out here seems to have just run in, and you can see that there's 2 merfolk talking to a small cluster of of people, kind of—there's a— so I should finish explaining the room. So on the opposite side of this whirlpool you can see actually, here. Wellby is explaining this. Wellby is explaining this to me, so we'll just drop you on the map.",
+          "Tilly: Might."
+        ],
+        "after": [
+          "Tilly: Nice.",
+          "Riswynn: There's 1 shark person with a shape water helmet.",
+          "Delwath: I was gonna say, I could do Shapewater too, is—",
+          "Riswynn: I got the—well, I think between Tilly and I we got everybody.",
+          "DM: Yeah. So you've got everything."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Milo tells his crew to keep the exit clear",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2189",
+        "endUid": "u2199"
+      },
+      "lines": [
+        "%% u2189:0-23, u2190:0-28, u2191:0-41 %%",
+        "DM: Okay. So Milo turns and silently says—speaks to the crowd of sharks that are crowded into the—",
+        "",
+        "%% u2192:0-8 %%",
+        "Riswynn: No, the—",
+        "",
+        "%% u2193:0-20, u2194:0-11, u2195:0-19, u2196:0-66, u2197:0-26, u2198:0-13, u2199:0-49 %%",
+        "DM: Portal, and he says, “Okay, guys, keep everybody out. Don't let anybody through that door, and when you hear the signal, make a run for the rainbow. We've got you.” And he draws his rapier. “Okay, are we doing this?”"
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: Yes.",
+          "Tilly: I think we're unanimous.",
+          "Riswynn: Believe.",
+          "Tilly: Sickening Radiance—",
+          "Riswynn: Breaks a hole in the— yeah."
+        ],
+        "after": [
+          "DM: Yep. As Mike's—",
+          "Riswynn: Has my couatl returned?",
+          "DM: Just about now a little—a little tiny octopus darts through the eye.",
+          "Delwath: Should it Bless us first?",
+          "Seeker: Amazing."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Kenzo takes the jade with its fused shell",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e015",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2965",
+        "endUid": "u3016"
+      },
+      "lines": [
+        "%% u2965:0-4, u2966:0-12, u2967:0-12, u2968:0-67, u2969:0-60, u2970:0-8, u2971:0-87, u2972:0-32, u2973:0-49, u2974:0-43, u2975:0-32, u2976:0-116 %%",
+        "DM: ((Damage and movement)) You hear this eerie, haunting noise, and now reach your hand around and grab. You sort of have no choice but to grab the whole contraption. The shell—the jade seems to be fused into this shell.",
+        "",
+        "%% u2977:0-14 %%",
+        "((Combat and the resolved illusion))",
+        "",
+        "%% u2978:0-76, u2979:0-150 %%",
+        "Kenzo: Actually, what I wanted to do was to take my staff, take the staff and, like— like, basically, like, one hand holding the staff that’s got the jade, the other hand the other piece, and just, like, literally try to—try to, you know—",
+        "",
+        "%% u2980:0-51, u2981:0-15, u2982:0-37, u2983:0-72 %%",
+        "DM: It seems like that—if there's something about this— think this, like, shell that’s it attached to that is hindering—channeling the jade somehow. It's hindering it, like, it's not—",
+        "",
+        "%% u2984:0-9 %%",
+        "Kenzo: Clicking.",
+        "",
+        "%% u2985:0-16 %%",
+        "DM: With your staff.",
+        "",
+        "%% u2986:0-19, u2987:0-43 %%",
+        "Kenzo: Got it. Okay? Okay. Yeah. I'll try to take the whole thing out.",
+        "",
+        "%% u2988:0-96 %%",
+        "DM: Okay, grab it, no problem. ((Exit and saving throw))",
+        "",
+        "%% u2989:0-7, u2990:0-19, u2991:0-7, u2992:0-18, u2993:0-12, u2994:0-5, u2995:0-5, u2996:0-27, u2997:0-13, u2998:0-3, u2999:0-39, u3000:0-22, u3001:0-24, u3002:0-59, u3003:0-60, u3004:0-24, u3005:0-10, u3006:0-24, u3007:0-5, u3008:0-53, u3009:0-5, u3010:0-142, u3011:0-65, u3012:0-5, u3013:0-25, u3014:0-20 %%",
+        "((Combat and the resolved illusion))",
+        "",
+        "%% u3015:0-120 %%",
+        "Kenzo: Like, by the way, it's just—is it literally like the jade inside, like, an oyster shell, or, like, what's—what's up, like?",
+        "",
+        "%% u3016:0-133 %%",
+        "DM: Shell is like a conch shell. It's like a long, extended conch shell, and the jade is, like, three quarters of the way embedded into it."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Some.",
+          "DM: Okay, as you dash through the water of the whirlpool is scalding hot.",
+          "Tilly: But.",
+          "Seeker: Oh!",
+          "Kenzo: But fortunately—"
+        ],
+        "after": [
+          "Kenzo: Interesting! Wait, so I've got it. Do we just— should we—yeah, Rainbow Bridge and get the—",
+          "DM: As you—",
+          "Kenzo: For—",
+          "DM: As as Kenzo's turn ends, tentacles fill— 20— tentacles fill the ground around you, really a cube of water around you, please don't— you being Kenzo.",
+          "Kenzo: Back."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "The stolen amulet frees Kenzo from the tentacles",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u3369",
+        "endUid": "u3459"
+      },
+      "lines": [
+        "%% u3369:0-17, u3370:0-9 %%",
+        "Wellby: Okay. Okay. Okay, is there—",
+        "",
+        "%% u3371:0-17 %%",
+        "((Theft checks, inspiration, interruptions and the catch))",
+        "",
+        "%% u3372:0-53 %%",
+        "Wellby: To steal the amulet off the—off the other guy's neck?",
+        "",
+        "%% u3373:0-15 %%",
+        "((Theft checks, inspiration, interruptions and the catch))",
+        "",
+        "%% u3374:0-24, u3375:0-30, u3376:0-32 %%",
+        "DM: You certainly could try. ((Contested check))",
+        "",
+        "%% u3377:0-46, u3378:0-11 %%",
+        "Wellby: Yeah, if that's an action, would putting it on be another?",
+        "",
+        "%% u3379:0-31, u3380:0-34 %%",
+        "DM: That's part of the same action. If you succeed, you can put it on.",
+        "",
+        "%% u3381:0-57 %%",
+        "Wellby: I feel like that's epic. Let's give this a shot. Alright.",
+        "",
+        "%% u3382:0-16, u3383:0-4, u3384:0-4, u3385:0-40, u3386:0-87, u3387:0-3, u3388:0-39, u3389:0-14, u3390:0-21, u3391:0-19, u3392:0-39, u3393:0-24, u3394:0-47, u3395:0-68, u3396:0-60, u3397:0-81, u3398:0-81, u3399:0-13, u3400:0-36, u3401:0-68, u3402:0-15, u3403:0-3, u3404:0-10, u3405:0-39, u3406:0-22, u3407:0-17, u3408:0-25, u3409:0-11, u3410:0-18, u3411:0-10, u3412:0-43, u3413:0-42, u3414:0-8 %%",
+        "((Theft checks, inspiration, interruptions and the catch))",
+        "",
+        "%% u3415:0-87 %%",
+        "Wellby: All right. I swim over. I snatch it off from around his neck without even slowing down.",
+        "",
+        "%% u3416:0-74, u3417:0-5, u3418:0-25, u3419:0-20, u3420:0-19, u3421:0-41, u3422:0-13 %%",
+        "((Theft checks, inspiration, interruptions and the catch))",
+        "",
+        "%% u3423:0-10, u3424:0-86, u3425:0-23, u3426:0-6 %%",
+        "Wellby: ((Movement)) toss it onto your neck, and I—",
+        "",
+        "%% u3427:0-41, u3428:0-11, u3429:0-68, u3430:0-2, u3431:0-12, u3432:0-53, u3433:0-45, u3434:0-25, u3435:0-9, u3436:0-5, u3437:0-84, u3438:0-19, u3439:0-14, u3440:0-5, u3441:0-7, u3442:0-52, u3443:0-7, u3444:0-52, u3445:0-79, u3446:0-11, u3447:0-48, u3448:0-63, u3449:0-26, u3450:0-9, u3451:0-13, u3452:0-8 %%",
+        "((Theft checks, inspiration, interruptions and the catch))",
+        "",
+        "%% u3453:0-167 %%",
+        "DM: Seeker tosses it, and it just goes flying wild, and Kenzo, despite being restrained, just gets his arm up and loops the amulet around his arm and slips it on his hand.",
+        "",
+        "%% u3454:0-3, u3455:0-19, u3456:0-20, u3457:0-36, u3458:0-20, u3459:0-21 %%",
+        "DM: And the tentacles part. ((Buruli’s teleport))"
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: He's lucky.",
+          "Wellby: What, a d5? And if it's a 1 I've got—",
+          "DM: No, I was gonna say, roll d4, and if it's even you got it.",
+          "Wellby: Yeah.",
+          "DM: Nope! You don't."
+        ],
+        "after": [
+          "DM: That's gonna end Wellby’s turn, right? Are you done, done, Wellby, anything else?",
+          "Wellby: No, I ended up back where I started, more or less.",
+          "DM: Okay. Milo.",
+          "Riswynn: I just ask—I really need to ask, why are—why are we all assuming that Seeker’s gonna stay super, super far from all of the action?",
+          "Delwath: Can only move 15 feet."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The declared theft and transfer belong to Wellby, but the DM calls the thrower Seeker at u3453; the original attribution is retained."
+      }
+    },
+    {
+      "id": "i018",
+      "title": "The shell still binds the jade’s portal effect",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u3680",
+        "endUid": "u3687"
+      },
+      "lines": [
+        "%% u3680:0-147 %%",
+        "Wellby: Can I ask, Tim? Sorry to interrupt, like, now that the hand is not there, just, like, the dimension start to collapse or something bad happening yet?",
+        "",
+        "%% u3681:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u3682:0-92 %%",
+        "DM: No, the only thing—you wouldn't notice it here. The dimension wouldn’t collapse. The portal—",
+        "",
+        "%% u3683:0-16 %%",
+        "Wellby: The portal, but.",
+        "",
+        "%% u3684:0-58 %%",
+        "DM: Omi would collapse, which is very far away from you, yeah.",
+        "",
+        "%% u3685:0-10 %%",
+        "Wellby: Very good.",
+        "",
+        "%% u3686:0-59, u3687:0-50 %%",
+        "DM: And Kenzo somehow has the intuition that the jade has to be separated from this shell before anything happens."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Wait, if he teleported, how could he cast another level spell? Never mind, doesn't matter.",
+          "Riswynn: It's fine.",
+          "DM: And what— he used a legendary action to teleport.",
+          "Delwath: That.",
+          "DM: Via whirlpool on the— but right before the beginning of his turn. Alright!"
+        ],
+        "after": [
+          "DM: So let's keep moving. Let's keep it moving, though. Riswynn.",
+          "Riswynn: Sacred Flame.",
+          "DM: Buruli.",
+          "Riswynn: Buruli Dex saving throw, or whatever.",
+          "DM: Bad Dex, he fails."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "Faldrak is calmed and the crew reach the river",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u3925",
+        "endUid": "u3935"
+      },
+      "lines": [
+        "%% u3925:0-39, u3926:0-7, u3927:0-15, u3928:0-31, u3929:0-28, u3930:0-73, u3931:0-34, u3932:0-52 %%",
+        "DM: Over the next few minutes you manage to get the ice shield down, calm Faldrak down a little bit, tell them everything's okay. Yeah, you did great. ((Turret damage)) and then dispel the shield and get the sharks into the river.",
+        "",
+        "%% u3933:0-14 %%",
+        "Riswynn: We don't make—",
+        "",
+        "%% u3934:0-75 %%",
+        "DM: Well, 11 of them are sharks. The ones you dispelled are not sharks anymore.",
+        "",
+        "%% u3935:0-6 %%",
+        "Seeker: Right."
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: There's 1 shark person with a shape water helmet.",
+          "Delwath: I was gonna say, I could do Shapewater too, is—",
+          "Riswynn: I got the—well, I think between Tilly and I we got everybody.",
+          "DM: Yeah. So you've got everything.",
+          "Seeker: It's like those frameless glasses. It's the water helmet without the helmet. It's perfect."
+        ],
+        "after": [
+          "DM: But one of them has a water helmet, and 10 of them are Water Breathing. In the meantime, Kenzo turns to look at the jade. And now out of the water, as the shell begins to dry, it almost looks like it shrinks a little bit, and you can actually see— it doesn't take— it—it actually doesn't take much to— like, the shell is not— off the Plane of Water, there's nothing particularly special about it. Like, you could probably just smash it with your staff, as far as you can tell.",
+          "DM: [garbled].",
+          "Tilly: Hey, I'm gonna go now.",
+          "DM: Okay.",
+          "Delwath: Good night, Isaac!"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "The shell breaks and reveals a planar resonance key",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u3936",
+        "endUid": "u3974"
+      },
+      "lines": [
+        "%% u3936:0-39, u3937:0-80, u3938:0-124, u3939:0-15, u3940:0-36, u3941:0-22, u3942:0-148 %%",
+        "DM: ((Crew-breathing recap)) In the meantime, Kenzo turns to look at the jade. And now out of the water, as the shell begins to dry, it almost looks like it shrinks a little bit, and you can actually see— it doesn't take— it—it actually doesn't take much to— like, the shell is not— off the Plane of Water, there's nothing particularly special about it. Like, you could probably just smash it with your staff, as far as you can tell.",
+        "",
+        "%% u3943:0-9, u3944:0-22, u3945:0-5, u3946:0-18, u3947:0-18, u3948:0-41, u3949:0-4, u3950:0-82 %%",
+        "((Goodbyes and an earlier Air-key comparison))",
+        "",
+        "%% u3951:0-20 %%",
+        "DM: So do you smash the—",
+        "",
+        "%% u3952:0-5 %%",
+        "Kenzo: I do.",
+        "",
+        "%% u3953:0-8 %%",
+        "Seeker: I agree.",
+        "",
+        "%% u3954:0-16, u3955:0-18 %%",
+        "Delwath: And so smash and click it together.",
+        "",
+        "%% u3956:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u3957:0-90 %%",
+        "DM: So you smash the shell and it falls apart, and there's actually 2 things inside the shell.",
+        "",
+        "%% u3958:0-39, u3959:0-14, u3960:0-24, u3961:0-93 %%",
+        "DM: There's the jade, and then there's this piece of metal like shaped sort of like twirling wave of water that’s humming with a strange frequency that, Seeker, you recognize as—",
+        "",
+        "%% u3962:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u3963:0-32, u3964:0-3, u3965:0-103 %%",
+        "DM: Resonance of the Plane of Water. Now you possess something that would allow you to use the Rainbow Bridge to teleport to the plane of water.",
+        "",
+        "%% u3966:0-12 %%",
+        "Seeker: Oh, amazing!",
+        "",
+        "%% u3967:0-5 %%",
+        "Wellby: Blue.",
+        "",
+        "%% u3968:0-54, u3969:0-4, u3970:0-72, u3971:0-10 %%",
+        "((Goodbyes and an earlier Air-key comparison))",
+        "",
+        "%% u3972:0-150, u3973:0-23 %%",
+        "Kenzo: Can we create, like, a, like, a hamster wheel tunnel that goes between them all? So it’s just like a series of doors. You can just run in, like, a—a circle through all the planes.",
+        "",
+        "%% u3974:0-76 %%",
+        "DM: So cause it works with the Rainbow Bridge, so you can only do one at a time."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: It's like those frameless glasses. It's the water helmet without the helmet. It's perfect.",
+          "DM: Over the next few minutes you manage to get the ice shield down, calm Faldrak down a little bit, tell them everything's okay. Yeah, you did great. He did, like, 40 damage on Buruli with the ice shard for Delwath to finish off, and then dispel the shield and get the sharks into the river.",
+          "Riswynn: We don't make—",
+          "DM: Well, 11 of them are sharks. The ones you dispelled are not sharks anymore.",
+          "Seeker: Right."
+        ],
+        "after": [
+          "Kenzo: And more Rainbow Bridges then, and then we connect them all into a rainbow tunnel.",
+          "DM: Yeah, through all—",
+          "Kenzo: All of the elemental planes.",
+          "DM: Meanwhile, let's do the jade so we can wrap up for tonight. So as you— as you take the 4th piece of jade and put it on your staff, it fuses together, and again, like what happened before, you are all caught in a vision.",
+          "DM: This is much more detailed than the past flashes you've had of the jade. It seems like with 4 of the 5 pieces together, the— the hand wants to be complete, and it's the other—the final piece is now calling out to you."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i021",
+      "title": "The fourth jade fuses and reveals the final fragment",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e025",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e026",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u3978",
+        "endUid": "u4030"
+      },
+      "lines": [
+        "%% u3978:0-59, u3979:0-10, u3980:0-37, u3981:0-44, u3982:0-44, u3983:0-6, u3984:0-12 %%",
+        "DM: Meanwhile, let's do the jade so we can wrap up for tonight. So as you— as you take the 4th piece of jade and put it on your staff, it fuses together, and again, like what happened before, you are all caught in a vision.",
+        "",
+        "%% u3985:0-86, u3986:0-36, u3987:0-39, u3988:0-53 %%",
+        "DM: This is much more detailed than the past flashes you've had of the jade. It seems like with 4 of the 5 pieces together, the— the hand wants to be complete, and it's the other—the final piece is now calling out to you.",
+        "",
+        "%% u3989:0-52, u3990:0-26, u3991:0-3, u3992:0-46, u3993:0-12, u3994:0-31, u3995:0-12, u3996:0-11, u3997:0-24, u3998:0-26, u3999:0-82 %%",
+        "DM: You—the 1st thing you notice, the 1st thing you feel is the heat of the jungle, the humidity and rain of some somewhere deep in a—in a jungle, and then you, you feel the heat. You feel the fire, almost, of the sun beating down, and you feel as if you are lifted somehow, flying, soaring, and you see a vision of flying above this jungle.",
+        "",
+        "%% u4000:0-69, u4001:0-81, u4002:0-3, u4003:0-24, u4004:0-8, u4005:0-7, u4006:0-22, u4007:0-44, u4008:0-16, u4009:0-19, u4010:0-22, u4011:0-36, u4012:0-39, u4013:0-12, u4014:0-9, u4015:0-32, u4016:0-11, u4017:0-5, u4018:0-37, u4019:0-49, u4020:0-38 %%",
+        "DM: And what you see is there’s a—there’s, like, a plateau. There’s a cliff, waterfall cascading down off the cliff into this coastal plain of a jungle below, and in the side of the cliff there is a cave, a massive cave carved, and you feel yourself pulled into the cliff, swirling into it, massive open space, pulled through to this great cavern looking up at the sky, the heat of the sun beating down on it, and you feel complete. This is where the last jade lies, inside this cave, sitting above the jungles of Drankor, on the desert, on the edge of the desert plateau, not so far south of where you are now.",
+        "",
+        "%% u4021:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u4022:0-3, u4023:0-81, u4024:0-34, u4025:0-48, u4026:0-3, u4027:0-43 %%",
+        "DM: But what you feel in this vision is that the jade did not get to this cave by itself. It was carried by something flying, something uninterested in, in its magic, perhaps, but it's not just sitting there for the taking.",
+        "",
+        "%% u4028:0-26 %%",
+        "Kenzo: Is Dimitaur in the vision?",
+        "",
+        "%% u4029:0-30 %%",
+        "DM: Dimitaur is not in the vision.",
+        "",
+        "%% u4030:0-17 %%",
+        "Kenzo: He flies kind of."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Can we create, like, a, like, a hamster wheel tunnel that goes between them all? So it’s just like a series of doors. You can just run in, like, a—a circle through all the planes.",
+          "DM: So cause it works with the Rainbow Bridge, so you can only do one at a time.",
+          "Kenzo: And more Rainbow Bridges then, and then we connect them all into a rainbow tunnel.",
+          "DM: Yeah, through all—",
+          "Kenzo: All of the elemental planes."
+        ],
+        "after": [
+          "DM: Does. So we will end, I think, there, with a clear sense now of where the last piece is, but probably next session will be some downtime and planning with the orcs and a bunch of news from the outside world.",
+          "DM: As the clock ticks down to 18 days till Apollyon is freed.",
+          "Seeker: Plenty of time.",
+          "DM: The— your doppelgangers are running loose across the world, as far as you know, Chardon and Dunmar about to go to war.",
+          "Kenzo: Nice."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i022",
+      "title": "The boy’s plea to Benji",
+      "entities": [
+        {
+          "id": "e028",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e029",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u4043",
+        "endUid": "u4054"
+      },
+      "lines": [
+        "%% u4043:0-3, u4044:0-22, u4045:0-39, u4046:0-18, u4047:0-55, u4048:0-38, u4049:0-46, u4050:0-21 %%",
+        "DM: And somewhere in a village, a little boy picks up a stone and says, “Benji, I’m scared. The soldiers came through today and they’re recruiting. My mom convinced them I was too young, but 3 of my cousins were taken for the Legion. Can you do something?”",
+        "",
+        "%% u4051:0-4, u4052:0-39 %%",
+        "Kenzo: Wow! We still have that other sending stone.",
+        "",
+        "%% u4053:0-24 %%",
+        "DM: Yeah, you still have it.",
+        "",
+        "%% u4054:0-6 %%",
+        "Kenzo: Benji."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Does. So we will end, I think, there, with a clear sense now of where the last piece is, but probably next session will be some downtime and planning with the orcs and a bunch of news from the outside world.",
+          "DM: As the clock ticks down to 18 days till Apollyon is freed.",
+          "Seeker: Plenty of time.",
+          "DM: The— your doppelgangers are running loose across the world, as far as you know, Chardon and Dunmar about to go to war.",
+          "Kenzo: Nice."
+        ],
+        "after": [
+          "DM: So we'll stop there.",
+          "Kenzo: Cool.",
+          "Wellby: Man.",
+          "Kenzo: Wait, so after we get—we're, like—are we, like—I mean, like, does Apollyon get to get out at any point? Feels like he should get out, right, so we can, like, fight him when he's out. If the whole thing is just to, like, stop them from getting out, like, you know, and that kind of, like, a little, like— you know, we should, like, get to, like, you know, let him go and do some stuff, right? Like, let them—",
+          "DM: More powerful if he gets out."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i023",
+      "title": "Postgame discussion of Apollyon’s release",
+      "entities": [
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u4058",
+        "endUid": "u4074"
+      },
+      "lines": [
+        "%% u4058:0-179, u4059:0-114, u4060:0-56, u4061:0-41 %%",
+        "Kenzo: ((Repeated question)) does Apollyon get to get out at any point? Feels like he should get out, right, so we can, like, fight him when he's out. ((Repeated question))",
+        "",
+        "%% u4062:0-29 %%",
+        "DM: More powerful if he gets out.",
+        "",
+        "%% u4063:0-62, u4064:0-6, u4065:0-7, u4066:0-24, u4067:0-13 %%",
+        "((Repeated postgame debate))",
+        "",
+        "%% u4068:0-82, u4069:0-66 %%",
+        "DM: He does—I mean, he's quite powerful when he's in. It's not, like, weak in his little tomb. He's living inside the tomb that he constructed for himself.",
+        "",
+        "%% u4070:0-12 %%",
+        "Kenzo: That's fair.",
+        "",
+        "%% u4071:0-121, u4072:0-10, u4073:0-63 %%",
+        "DM: I mean, I'm not gonna stop you if you decide, let's go do something else and let them get free and see what happens, but everything I see in his dreams suggest that's probably not the best idea.",
+        "",
+        "%% u4074:0-68 %%",
+        "Kenzo: Alright, alright, alright, we'll do the thing. We'll be responsible."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah, you still have it.",
+          "Kenzo: Benji.",
+          "DM: So we'll stop there.",
+          "Kenzo: Cool.",
+          "Wellby: Man."
+        ],
+        "after": [
+          "DM: Okay. So goodnight, everybody.",
+          "Delwath: Night.",
+          "Wellby: Awesome, see you.",
+          "Kenzo: Tim, can you resend that invite? I don't think I got it for tomorrow.",
+          "DM: Oh, yeah, I will."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-102",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-session.yaml",
+    "sessionYamlSha256": "a94d0f95032bc06b69d06e62015132c5ec45c8458dcac36cce1781625e7222b5",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-transcript.md",
+    "transcriptSha256": "f3496b8ba3fd22650dc9ffbb406687e863718db265b05055d793eb958ed75424"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0011"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0012",
+        "endUid": "u0160"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0161",
+        "endUid": "u0182"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0183",
+        "endUid": "u2245"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u2246",
+        "endUid": "u3878"
+      },
+      "category": "combat",
+      "note": "Delwath’s opening spell is his first initiative turn. Ordered combat continues across the bridge to Vindristjarna; the table explicitly drops order at u3877–u3878 before Buruli is finished."
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u3879",
+        "endUid": "u3943"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u3944",
+        "endUid": "u3950"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u3951",
+        "endUid": "u4030"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u4031",
+        "endUid": "u4042"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u4043",
+        "endUid": "u4054"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u4055",
+        "endUid": "u4057"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u4058",
+        "endUid": "u4074"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u4075",
+        "endUid": "u4083"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

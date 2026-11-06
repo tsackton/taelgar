@@ -1,0 +1,395 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-102",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-session.yaml",
+    "sessionYamlSha256": "a94d0f95032bc06b69d06e62015132c5ec45c8458dcac36cce1781625e7222b5",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-transcript.md",
+    "transcriptSha256": "f3496b8ba3fd22650dc9ffbb406687e863718db265b05055d793eb958ed75424",
+    "yamlDates": {
+      "start": "1749-05-11",
+      "end": "1749-05-12"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0012",
+        "endUid": "u0023"
+      },
+      "reading": "The party waits half an hour near the end of the prison work shift, then approaches the cells after quiet falls for the night.",
+      "evidence": [
+        {
+          "startUid": "u0012",
+          "endUid": "u0023",
+          "quote": "DM: And for kind of simplicity, and just to get things moving—and you had a short conversation with him. I'll use my intro to kind of tell his story, but it's close to the end of the shift, basically. And so he suggests to you that should you wish to, you know, free him and the other halflings, and and Tilly Brineheart, who's a spellcaster, the thing to do would be to swim up to the up to the, like, prison cells, once the—once the thing quiets in, like, half an hour, once it’s quieted down for the night, and there you would have a better chance to free them. So I think, unless anybody objects, we’d just assume you wait quietly for half an hour."
+        },
+        {
+          "startUid": "u0131",
+          "endUid": "u0137",
+          "quote": "DM: As he finishes telling the story, presumably you are now approaching the cells. You can see this—these structures hidden in this, in this complex area, small things, locked coral, spiky coral locks, each one holding 2 of these creatures. There's—of these transformed halflings. There seems to be about 13 crew, plus Milo and Tilly left."
+        }
+      ],
+      "duration": {
+        "value": 30,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Accepted wait, followed by the narrated cell approach"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0759",
+        "endUid": "u0761"
+      },
+      "reading": "At the prison escape, about two hours have passed since the party left the portal platform; this includes the earlier journey and rescue, rather than adding two hours after the rescue.",
+      "evidence": [
+        {
+          "startUid": "u0759",
+          "endUid": "u0761",
+          "quote": "DM: How soon is not entirely clear. It's probably been 2 h now since you left the portal platform. It's not. This work complex is only like an hour away. So—and you are moving fast on your manta rays."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated elapsed time"
+      },
+      "completion": "completed",
+      "note": "The portal departure began in DF101; the current transcript supplies the retrospective elapsed estimate. The recent short rest recalled at u0779–u0781 is not another rest in this session."
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0882",
+        "endUid": "u0884"
+      },
+      "reading": "The first hour of the ride away from the prison passes through oppressive darkness.",
+      "evidence": [
+        {
+          "startUid": "u0882",
+          "endUid": "u0884",
+          "quote": "DM: Yeah. So so as you as you travel once you get some distance away, like maybe the 1st hour is is quite dark, and it feels it feels like you're swimming through this sort of oppressive area. But as you get further away from this, the portal and the work complex, now it feels like—so you’re, you’re traveling now through—"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated elapsed time"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t06"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0909",
+        "endUid": "u0914"
+      },
+      "reading": "At Tilly’s Commune with Nature reading, the party has ridden for approximately two or three hours since leaving the prison.",
+      "evidence": [
+        {
+          "startUid": "u0909",
+          "endUid": "u0914",
+          "quote": "DM: So you get from this commune as you—as Tilly, as you reach out, and you sort of stretch your senses to this water and connect with the ocean, you, you feel actually, yeah, you're sort of traveling here as you head up through— you've now been traveling maybe 2 or 3 h through the edge of Buruli’s terrain. You actually sort of feel like you're almost on the on the edge of—down below you, in the depths, there's—it feels dark and closed, and there's very little life around. Further up above you, you sense that there's elementals, that there's more of these schools of fish, that there's just kind of more life above you and ahead."
+        }
+      ],
+      "duration": {
+        "min": 2,
+        "max": 3,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s cumulative travel estimate"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t06"
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0931",
+        "endUid": "u0953"
+      },
+      "reading": "Another couple of hours pass before the enormous shadowy creature passes below the travelers.",
+      "evidence": [
+        {
+          "startUid": "u0931",
+          "endUid": "u0944",
+          "quote": "DM: So you travel another couple of hours. You sense Tilly, after another few hours of travel, something extremely powerful and strange and alien below you, and Wellby, you see, just gliding below you, this uncaring, not noticing you not paying attention, this vast, shadowy creature, its massive form barely visible in the darkness below you. It must be 2, 300 feet long as it swims with this slow, deliberate grace through the water below you completely undisturbed and unaware of your presence, just passing quietly through the depths. Every now—occasionally staring down, Wellby, you see, like, a fin, giant fin, like 30 feet across, just gently flapping. This creature seems to be propelled by more than just two, maybe four, or 6 sets of fins along the side of its body."
+        },
+        {
+          "startUid": "u0949",
+          "endUid": "u0953",
+          "quote": "DM: And as it dives as it comes close, you see this massive tail 50 feet across, maybe longer, hard to judge size, but bigger than all the manta rays put together, bigger than your little group, just flick gracefully in the water as it begins to drift down deeper."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Another couple of hours in the travel narration"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t06"
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0974",
+        "endUid": "u0979"
+      },
+      "reading": "After another couple of hours, the journey totals about six hours and Kenzo senses the jade within ten miles. Count the preceding travel checkpoints within this total.",
+      "evidence": [
+        {
+          "startUid": "u0974",
+          "endUid": "u0976",
+          "quote": "DM: Another couple of hours pass. You must have been traveling for maybe 6 h now."
+        },
+        {
+          "startUid": "u0977",
+          "endUid": "u0979",
+          "quote": "DM: When, Kenzo, you suddenly sense like something shifts in your sense of the jade, and you think you must be getting close within 10 miles or so."
+        }
+      ],
+      "duration": {
+        "value": 6,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM explicitly gives the cumulative journey duration"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1055",
+        "endUid": "u1068"
+      },
+      "reading": "Roughly another hour to an hour and a half of travel brings the sensed structure within three miles; the narration varies its estimate and ends with “maybe an hour later.”",
+      "evidence": [
+        {
+          "startUid": "u1055",
+          "endUid": "u1057",
+          "quote": "DM: This is gonna be very complicated to run. That's okay. Wop, wop, don't have high-level parties. So about an hour later, a bit less—"
+        },
+        {
+          "startUid": "u1062",
+          "endUid": "u1068",
+          "quote": "DM: About maybe just under 2, like an hour and a half later, you're—you now are passing through— the ocean begins to feel—maybe an hour later the ocean begins to feel cold and dark again, and you stop seeing these little schools of fish. You stop seeing— like you'll pass these like floating webs of like coral that have like eels growing around them, with just a massive floating coral reef— no longer, and Tilly, your sense—your Commune with Nature triggers that there is some sort of structure just about 3 miles ahead. So about a—about a half an hour swim on the manta rays."
+        }
+      ],
+      "duration": {
+        "min": 1,
+        "max": 1.5,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Successive approximate estimates, not separate advances"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1243",
+        "endUid": "u1253"
+      },
+      "reading": "Seeker listens through the clairvoyant sensor for a minute, hearing the shell and an indistinct possible chant.",
+      "evidence": [
+        {
+          "startUid": "u1243",
+          "endUid": "u1245",
+          "quote": "Seeker: Thing happened, so I listened for a minute in case there are any events occurring that make sound."
+        },
+        {
+          "startUid": "u1248",
+          "endUid": "u1253",
+          "quote": "DM: The noise of the whirlpool itself is quite loud, and it's hard to hear much other than the eerie sound of the of the shell the jade is mounted on, although you do hear, like, vaguely what sounds like some kind of chant or prayer coming nearby from somebody who must be standing quite close to the whirlpool, but not that you can see. So, standing on the far side of the whirlpool."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Seeker explicitly listens for a minute"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1655",
+        "endUid": "u1666"
+      },
+      "reading": "On the physical approach to the fortress, the DM infers relatively early morning from its inhabitants beginning to stir.",
+      "evidence": [
+        {
+          "startUid": "u1655",
+          "endUid": "u1666",
+          "quote": "DM: Floating around this creature are 4 or 5 like small sort of structures that seem to be just from the distance. Now you're still in the sort of edge of darkness looking into this lit area, so until you move, you're maybe 400 feet from the creature. Until you move closer you are— You're in the darkness. You would not be easy to see. There's—it's early. It seems like it's early, relatively early morning. There's some signs of activity, but nothing— there's clearly, like, people around, guards and things starting to stir, but not— this— the, the— temple fortress, whatever the structure is, does not seem to be on high alert."
+        }
+      ],
+      "time": {
+        "partOfDay": "early morning",
+        "precision": "approximate",
+        "basis": "DM’s reading of the fortress’s local activity"
+      },
+      "note": "This is a local Plane of Water schedule; darkness and sleeping merfolk do not independently synchronize it with the Material Plane."
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1897",
+        "endUid": "u1900"
+      },
+      "reading": "A few minutes pass while the party prepares and sends the summoned decoy toward the patrol.",
+      "evidence": [
+        {
+          "startUid": "u1897",
+          "endUid": "u1900",
+          "quote": "DM: So. All this happens. Few minutes later you send the plesiosaur out to turn into an octopus."
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM’s narrated preparation interval"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u3845",
+        "endUid": "u3851"
+      },
+      "reading": "The bridge brings the party and pursuing Buruli to Vindristjarna over Uzgukhar in pre-dawn light, with the sun barely up; the DM withdraws the initial heat description.",
+      "evidence": [
+        {
+          "startUid": "u3597",
+          "endUid": "u3598",
+          "quote": "DM: Bridge and vanishes, suddenly hit by a wave of heat as you appear— we'll get to that."
+        },
+        {
+          "startUid": "u3845",
+          "endUid": "u3851",
+          "quote": "DM: Our guy, Buruli. So Buruli stumbles out, now standing, like, water dripping off of him, on the hot desert surface of Vindristjarna, hovering above the orcish city of Uzgukhar in the pre-dawn light. So I guess it's actually not hot yet, because the sun is just barely up."
+        }
+      ],
+      "time": {
+        "partOfDay": "pre-dawn / sun barely up",
+        "precision": "approximate",
+        "basis": "Explicit arrival narration and immediate correction"
+      }
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u3925",
+        "endUid": "u3932"
+      },
+      "reading": "Over the next few minutes, the party lowers the ice shield, calms Faldrak, and gets the eleven still-transformed halflings into the river.",
+      "evidence": [
+        {
+          "startUid": "u3925",
+          "endUid": "u3932",
+          "quote": "DM: Over the next few minutes you manage to get the ice shield down, calm Faldrak down a little bit, tell them everything's okay. Yeah, you did great. He did, like, 40 damage on Buruli with the ice shard for Delwath to finish off, and then dispel the shield and get the sharks into the river."
+        },
+        {
+          "startUid": "u3934",
+          "endUid": "u3934",
+          "quote": "DM: Well, 11 of them are sharks. The ones you dispelled are not sharks anymore."
+        },
+        {
+          "startUid": "u3936",
+          "endUid": "u3942",
+          "quote": "DM: But one of them has a water helmet, and 10 of them are Water Breathing. In the meantime, Kenzo turns to look at the jade. And now out of the water, as the shell begins to dry, it almost looks like it shrinks a little bit, and you can actually see— it doesn't take— it—it actually doesn't take much to— like, the shell is not— off the Plane of Water, there's nothing particularly special about it. Like, you could probably just smash it with your staff, as far as you can tell."
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Explicit narrated aftermath interval"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u3978",
+        "endUid": "u4027"
+      },
+      "reading": "Fusing the fourth jade piece draws the party into a vision of the final fragment’s cliff cave. The vision’s heat and sun are sensory imagery, with no elapsed duration or independent civil clock.",
+      "evidence": [
+        {
+          "startUid": "u3978",
+          "endUid": "u3984",
+          "quote": "DM: Meanwhile, let's do the jade so we can wrap up for tonight. So as you— as you take the 4th piece of jade and put it on your staff, it fuses together, and again, like what happened before, you are all caught in a vision."
+        },
+        {
+          "startUid": "u3985",
+          "endUid": "u3988",
+          "quote": "DM: This is much more detailed than the past flashes you've had of the jade. It seems like with 4 of the 5 pieces together, the— the hand wants to be complete, and it's the other—the final piece is now calling out to you."
+        },
+        {
+          "startUid": "u4000",
+          "endUid": "u4020",
+          "quote": "DM: And what you see is there’s a—there’s, like, a plateau. There’s a cliff, waterfall cascading down off the cliff into this coastal plain of a jungle below, and in the side of the cliff there is a cave, a massive cave carved, and you feel yourself pulled into the cliff, swirling into it, massive open space, pulled through to this great cavern looking up at the sky, the heat of the sun beating down on it, and you feel complete. This is where the last jade lies, inside this cave, sitting above the jungles of Drankor, on the desert, on the edge of the desert plateau, not so far south of where you are now."
+        },
+        {
+          "startUid": "u4022",
+          "endUid": "u4027",
+          "quote": "DM: But what you feel in this vision is that the jade did not get to this cave by itself. It was carried by something flying, something uninterested in, in its magic, perhaps, but it's not just sitting there for the taking."
+        }
+      ],
+      "context": "vision"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No absolute adventure date is spoken in DF102. May 11–12, 1749 comes from the registered YAML; the prison’s work night and fortress’s morning are local social cues, while dawn above Uzgukhar is directly narrated.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t09",
+      "t11",
+      "t12"
+    ],
+    "explanation": "The work-night rescue, roughly seven-plus hours of subsequent travel, and dawn arrival plausibly cross one night and fit the YAML span. The transcript does not independently state the civil dates or establish synchronized calendars across planes. The first two-hour estimate includes events begun in DF101; the backstory voyage and the final jade vision do not extend the adventure interval. No missing day is supplied from drEnd."
+  }
+}

@@ -1,0 +1,598 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-102",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-session.yaml",
+    "sessionYamlSha256": "a94d0f95032bc06b69d06e62015132c5ec45c8458dcac36cce1781625e7222b5",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-transcript.md",
+    "transcriptSha256": "f3496b8ba3fd22650dc9ffbb406687e863718db265b05055d793eb958ed75424",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-segments.json",
+      "sha256": "dc26e74b13c9f349d92c7d40ee15b35efc858fc1f6c353339b8bf7ce5572f644",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s005",
+      "encounter": "Jade theft from Buruli’s leviathan fortress and escape to Vindristjarna",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Opens the door, casts Sickening Radiance over the whirlpool as his first initiative turn, and runs into the hall with his weapon. The sphere has a thirty-foot radius and is finally centered about five feet above the floor.",
+              "evidence": [
+                {
+                  "startUid": "u2246",
+                  "endUid": "u2259"
+                },
+                {
+                  "startUid": "u2277",
+                  "endUid": "u2314"
+                },
+                {
+                  "startUid": "u2483",
+                  "endUid": "u2498"
+                }
+              ]
+            },
+            {
+              "actor": "Milo",
+              "kind": "turn",
+              "summary": "Charges into the hall, bonus-action Dashes, runs a merfolk minion through with his returned silver rapier, then advances farther.",
+              "evidence": [
+                {
+                  "startUid": "u2483",
+                  "endUid": "u2525"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and shoots the chanting merfolk north of the whirlpool: 26 hits for 36 damage, killing it. The table corrects the underwater range objection and accepts the shot.",
+              "evidence": [
+                {
+                  "startUid": "u2526",
+                  "endUid": "u2559"
+                }
+              ]
+            },
+            {
+              "actor": "Buruli",
+              "kind": "turn",
+              "summary": "Saves against Sickening Radiance with Constitution 27 versus DC 19 and swims thirty feet upward out of it. Three tentacles appear before his darkness spell; their attacks hit Milo for 11 damage and Delwath for 14. He invokes Gazankoa and blankets the party’s half of the room in an eighth-level darkness effect: darkvision fails and Radiance’s light is suppressed, though its damaging effect remains.",
+              "evidence": [
+                {
+                  "startUid": "u2560",
+                  "endUid": "u2636"
+                },
+                {
+                  "startUid": "u2777",
+                  "endUid": "u2777"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Proposes Shield against the tentacle hit, but the corrected attack is 29 rather than 20 and still hits through Shield. The transcript does not establish whether the slot is actually spent.",
+              "evidence": [
+                {
+                  "startUid": "u2626",
+                  "endUid": "u2635"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "At the start of his turn, makes a Wisdom save against the shrieking darkness and takes 31 psychic damage. Casts sixth-level Dispel Magic; his initial Intelligence die is 4, then he spends his Mote of Fate to reroll to 25 and dispels the darkness. The separate tentacles remain.",
+              "evidence": [
+                {
+                  "startUid": "u2638",
+                  "endUid": "u2664"
+                },
+                {
+                  "startUid": "u2701",
+                  "endUid": "u2763"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Soul Sight identifies Buruli as fifteenth level, strong in Constitution/Charisma, weak in Strength/Intelligence, and immune to charm with no other stated immunities or resistances. Moves up to fifty-five feet toward the whirlpool and makes the accepted unarmed flurry: 12 misses, 28 hits for 14 damage and kills both nearby minions. Readies a Dash through once Tilly stops the current.",
+              "evidence": [
+                {
+                  "startUid": "u2778",
+                  "endUid": "u2787"
+                },
+                {
+                  "startUid": "u2798",
+                  "endUid": "u2854"
+                }
+              ],
+              "note": "Underwater bludgeoning disadvantage is stated during the attack adjudication; the final accepted hit is retained as played."
+            },
+            {
+              "actor": "Merfolk minion near Milo",
+              "kind": "turn",
+              "summary": "Attacks Milo and misses; Milo dodges.",
+              "evidence": [
+                {
+                  "startUid": "u2855",
+                  "endUid": "u2860"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves twenty feet and casts Sacred Flame on the remaining chanting merfolk. It fails its Dexterity save and takes 10 radiant damage.",
+              "evidence": [
+                {
+                  "startUid": "u2864",
+                  "endUid": "u2899"
+                }
+              ]
+            },
+            {
+              "actor": "Chanting merfolk",
+              "kind": "turn",
+              "summary": "Fails its Constitution save against DC 19 Sickening Radiance, takes the rolled 21 radiant damage, and dies before acting.",
+              "evidence": [
+                {
+                  "startUid": "u2903",
+                  "endUid": "u2910"
+                }
+              ]
+            },
+            {
+              "actor": "Tilly",
+              "kind": "turn",
+              "summary": "Uses the already-active Control Water to counterbalance and stop the whirlpool, opening the way to the jade. Her retrospectively added movement brings her closer, and she activates a turquoise, bubbling ten-foot water aura; the table says the aura has no immediate effect at her current position.",
+              "evidence": [
+                {
+                  "startUid": "u2912",
+                  "endUid": "u2955"
+                },
+                {
+                  "startUid": "u3049",
+                  "endUid": "u3077"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Takes his readied Dash through the stilled but scalding water for 17 fire damage, reaches the jade, and takes the entire fused jade-and-conch apparatus because the shell prevents reunion with his staff. Rushes back out. His Wisdom save of 10 becomes 15 with Seeker’s inspiration, letting him recognize the image of absent friends and surrounding enemies as an illusion.",
+              "evidence": [
+                {
+                  "startUid": "u2954",
+                  "endUid": "u3006"
+                },
+                {
+                  "startUid": "u3015",
+                  "endUid": "u3019"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "His inspiration improves Kenzo’s Wisdom save to 15; Kenzo hears Seeker’s voice and recognizes the hostile vision as an illusion.",
+              "evidence": [
+                {
+                  "startUid": "u2989",
+                  "endUid": "u3008"
+                }
+              ]
+            },
+            {
+              "actor": "Buruli",
+              "kind": "legendary_action",
+              "summary": "Fills a twenty-foot cube around Kenzo with tentacles. Kenzo’s Dexterity 11 fails; he is grappled and restrained and takes 12 bludgeoning damage.",
+              "evidence": [
+                {
+                  "startUid": "u3022",
+                  "endUid": "u3047"
+                },
+                {
+                  "startUid": "u3071",
+                  "endUid": "u3077"
+                }
+              ]
+            },
+            {
+              "actor": "Merfolk minions",
+              "kind": "turn",
+              "summary": "Four of six minions die after Constitution saves against Sickening Radiance; two survive, swim upward and spend their actions Dashing clear. At the end of the cycle the DM also describes the last pair diving from the Radiance.",
+              "evidence": [
+                {
+                  "startUid": "u3071",
+                  "endUid": "u3089"
+                },
+                {
+                  "startUid": "u3232",
+                  "endUid": "u3234"
+                }
+              ],
+              "note": "The later line says “dive,” not “die”; it is not counted as another pair of deaths."
+            },
+            {
+              "actor": "Riswynn’s couatl in plesiosaur form",
+              "kind": "turn",
+              "summary": "Uses the table’s revised giant subterranean lizard statistics and fifty-foot swim speed while retaining couatl defenses. Dashes one hundred feet above the Radiance to engage Buruli in melee; makes no attack and never enters the sphere, so no Radiance save is required.",
+              "evidence": [
+                {
+                  "startUid": "u3094",
+                  "endUid": "u3156"
+                }
+              ]
+            },
+            {
+              "actor": "Merfolk captain",
+              "kind": "turn",
+              "summary": "Fails the Constitution save against Sickening Radiance with 4, takes 17 radiant damage and one level of exhaustion. Swims thirty feet out and blows a horn that sends a magical alarm across the area.",
+              "evidence": [
+                {
+                  "startUid": "u3157",
+                  "endUid": "u3180"
+                }
+              ]
+            },
+            {
+              "actor": "Merfolk lieutenant",
+              "kind": "turn",
+              "summary": "Fails the Constitution save against Sickening Radiance; the initial 17 damage is rerolled upward, leaving the officer badly hurt. Dashes into the tentacles, which avoid the worn amulet, and throws a trident at Kenzo: 17 misses, so there is no Deflect Missiles reaction.",
+              "evidence": [
+                {
+                  "startUid": "u3185",
+                  "endUid": "u3192"
+                },
+                {
+                  "startUid": "u3209",
+                  "endUid": "u3234"
+                }
+              ],
+              "note": "The replacement Radiance damage total is not spoken. The movement, Dash and trident throw are retained as adjudicated."
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Synaptic Static on a minion and two non-minions, using Intelligence DC 19. One non-minion succeeds with a natural 20 and takes 14 psychic damage; the other targets fail for 29 and the stated d6 penalty. Retreats toward Seeker.",
+              "evidence": [
+                {
+                  "startUid": "u3304",
+                  "endUid": "u3345"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Checks for the earlier looted captain’s amulet but does not have it. Swims to the muddled officer and uses his Clockwork Amulet for Sleight of Hand 15; the officer’s d20-minus-d6 total ties at 15, then Seeker’s inspiration makes the theft succeed. Snatches the officer’s amulet, moves around the Radiance. The stolen amulet is thrown to Kenzo, whose Dexterity 25 beats DC 15. Kenzo catches and wears it on his arm/hand; the tentacles part. Wellby returns roughly to his starting position.",
+              "evidence": [
+                {
+                  "startUid": "u3360",
+                  "endUid": "u3462"
+                }
+              ],
+              "note": "The transfer’s attribution remains unresolved: Wellby declares the toss during his turn at u3423–u3426, but at u3453 the DM says Seeker tosses it. No extra Seeker movement or action is inferred."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "His inspiration breaks Wellby’s tied theft check and secures the amulet.",
+              "evidence": [
+                {
+                  "startUid": "u3404",
+                  "endUid": "u3414"
+                }
+              ]
+            },
+            {
+              "actor": "Milo",
+              "kind": "turn",
+              "summary": "Dashes beside Riswynn and prepares to move when the bridge opens.",
+              "evidence": [
+                {
+                  "startUid": "u3487",
+                  "endUid": "u3494"
+                }
+              ]
+            },
+            {
+              "actor": "Buruli",
+              "kind": "legendary_action",
+              "summary": "Teleports through a whirlpool beside Kenzo. Initially narrated as the amulet parts the tentacles, this is later identified as a legendary action immediately before Buruli’s regular turn, so it is placed here after Milo.",
+              "evidence": [
+                {
+                  "startUid": "u3453",
+                  "endUid": "u3461"
+                },
+                {
+                  "startUid": "u3674",
+                  "endUid": "u3679"
+                }
+              ]
+            },
+            {
+              "actor": "Buruli",
+              "kind": "turn",
+              "summary": "Rages at Kenzo and demands the jade: “Give it to me or die!” His high-level spell resolves after the unresolved Counterspell discussion; Kenzo rolls Constitution 22 and takes 32 necrotic damage. Two tentacle blobs approach and attack Kenzo: 24 hits for 14 cold damage, then 17 misses.",
+              "evidence": [
+                {
+                  "startUid": "u3495",
+                  "endUid": "u3563"
+                }
+              ],
+              "note": "The Constitution result is 22 and damage is resolved, but success/failure and a spell name are not explicitly announced."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Proposes Counterspell against Buruli’s spell; the DM requests an ability check because of its high level. Delwath later says “No, I won’t,” and no check total is spoken. Buruli’s spell resolves against Kenzo.",
+              "evidence": [
+                {
+                  "startUid": "u3503",
+                  "endUid": "u3525"
+                },
+                {
+                  "startUid": "u3535",
+                  "endUid": "u3542"
+                }
+              ],
+              "note": "Whether the proposed Counterspell was completed unsuccessfully or withdrawn is unresolved; no resource expenditure is inferred."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves into the agreed position, activates the Planar Prism to open the ten-foot-square Rainbow Bridge, calls for evacuation, and steps onto it, vanishing toward Vindristjarna.",
+              "evidence": [
+                {
+                  "startUid": "u3567",
+                  "endUid": "u3598"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Spends ki for bonus-action Disengage, swims upward and diagonally down to the bridge with the jade-and-shell apparatus, and vanishes without the proposed opportunity attacks.",
+              "evidence": [
+                {
+                  "startUid": "u3609",
+                  "endUid": "u3630"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts Sacred Flame on Buruli; he fails the Dexterity save and takes 18 radiant damage. Steps onto the bridge and vanishes, also sending a telepathic farewell to her summon.",
+              "evidence": [
+                {
+                  "startUid": "u3642",
+                  "endUid": "u3648"
+                },
+                {
+                  "startUid": "u3670",
+                  "endUid": "u3673"
+                },
+                {
+                  "startUid": "u3688",
+                  "endUid": "u3701"
+                },
+                {
+                  "startUid": "u3717",
+                  "endUid": "u3718"
+                }
+              ]
+            },
+            {
+              "actor": "Thirteen transformed halfling crew",
+              "kind": "turn",
+              "summary": "Acting on Tilly’s initiative after Milo’s call, all thirteen swim onto the Rainbow Bridge and vanish.",
+              "evidence": [
+                {
+                  "startUid": "u3606",
+                  "endUid": "u3607"
+                },
+                {
+                  "startUid": "u3697",
+                  "endUid": "u3701"
+                }
+              ]
+            },
+            {
+              "actor": "Tilly",
+              "kind": "turn",
+              "summary": "Casts sixth-level Summon Draconic Spirit in front of the bridge with orders to keep merfolk from entering, then crosses herself.",
+              "evidence": [
+                {
+                  "startUid": "u3703",
+                  "endUid": "u3726"
+                }
+              ]
+            },
+            {
+              "actor": "Merfolk minions",
+              "kind": "turn",
+              "summary": "Dash toward Milo but cannot otherwise act after the Dash.",
+              "evidence": [
+                {
+                  "startUid": "u3719",
+                  "endUid": "u3726"
+                }
+              ]
+            },
+            {
+              "actor": "Merfolk officer near the bridge",
+              "kind": "turn",
+              "summary": "Runs up and steps onto the Rainbow Bridge. The text does not identify which officer this is.",
+              "evidence": [
+                {
+                  "startUid": "u3719",
+                  "endUid": "u3726"
+                }
+              ]
+            },
+            {
+              "actor": "Tilly’s draconic spirit",
+              "kind": "reaction",
+              "summary": "Makes the granted opportunity attack against the officer approaching the bridge; 12 misses.",
+              "evidence": [
+                {
+                  "startUid": "u3728",
+                  "endUid": "u3741"
+                }
+              ]
+            },
+            {
+              "actor": "Other merfolk officer",
+              "kind": "turn",
+              "summary": "Runs up and stabs Milo, dealing damage whose amount is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u3742",
+                  "endUid": "u3746"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Steps closer, applies Mark of the Hunter to Buruli, and hits with three Eldritch Blasts, adding 5 damage to each; the base damage is not spoken. Steps onto the bridge and vanishes.",
+              "evidence": [
+                {
+                  "startUid": "u3747",
+                  "endUid": "u3772"
+                }
+              ]
+            },
+            {
+              "actor": "Geysers around the hall",
+              "kind": "event",
+              "summary": "As the round begins, geysers force Dexterity saves from the remaining Milo and Wellby. Milo takes no damage; Wellby takes 17 fire damage. The hot water gathers into a whirling shell around Buruli.",
+              "evidence": [
+                {
+                  "startUid": "u3765",
+                  "endUid": "u3778"
+                }
+              ],
+              "note": "The source places this after Delwath’s turn; it is not explicitly labeled a lair action."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Abandons the proposed Sneak Attack knockout on Buruli. Instead attacks the nearby already-wounded officer, who dies, then crosses the bridge.",
+              "evidence": [
+                {
+                  "startUid": "u3779",
+                  "endUid": "u3823"
+                }
+              ]
+            },
+            {
+              "actor": "Milo",
+              "kind": "turn",
+              "summary": "Kills the two remaining minions and steps onto the bridge.",
+              "evidence": [
+                {
+                  "startUid": "u3818",
+                  "endUid": "u3823"
+                }
+              ]
+            },
+            {
+              "actor": "Buruli",
+              "kind": "turn",
+              "summary": "Charges after the party onto the bridge before Seeker can act again and arrives on Vindristjarna above Uzgukhar at dawn.",
+              "evidence": [
+                {
+                  "startUid": "u3818",
+                  "endUid": "u3851"
+                }
+              ]
+            },
+            {
+              "actor": "Tilly’s draconic spirit",
+              "kind": "reaction",
+              "summary": "Gets an attack as Buruli pursues onto the bridge; the proposed breath weapon is withdrawn in favor of a hit dealing 13 damage.",
+              "evidence": [
+                {
+                  "startUid": "u3829",
+                  "endUid": "u3844"
+                }
+              ]
+            },
+            {
+              "actor": "Faldrak",
+              "kind": "event",
+              "summary": "Encases Vindristjarna in an ice globe, asks whom to hit, and fires four icicle-turret shots at Buruli on Delwath’s direction. Buruli staggers back; a later confirmation gives about 40 turret damage and says this enabled Delwath’s subsequent finishing blows.",
+              "evidence": [
+                {
+                  "startUid": "u3852",
+                  "endUid": "u3866"
+                },
+                {
+                  "startUid": "u3925",
+                  "endUid": "u3932"
+                }
+              ]
+            },
+            {
+              "actor": "Tilly",
+              "kind": "event",
+              "summary": "Casts Water Breathing on ten suffocating transformed halflings. The table allows it to let them breathe air in this situation; the remaining three still need help when initiative ends.",
+              "evidence": [
+                {
+                  "startUid": "u3864",
+                  "endUid": "u3878"
+                },
+                {
+                  "startUid": "u3898",
+                  "endUid": "u3904"
+                },
+                {
+                  "startUid": "u3934",
+                  "endUid": "u3942"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All six PCs, Milo and the thirteen crew escape with the fused jade and shell. Buruli follows onto Vindristjarna and is staggered by Faldrak’s turret; the table then explicitly drops initiative. Buruli’s death and the last crew rescues are resolved in the following non-initiative aftermath.",
+        "evidence": [
+          {
+            "startUid": "u3818",
+            "endUid": "u3823"
+          },
+          {
+            "startUid": "u3845",
+            "endUid": "u3878"
+          }
+        ]
+      },
+      "note": "One continuous encounter spans both planes. The first cycle resolves Milo before Wellby; subsequent cycles explicitly use Wellby before Milo. Precombat context: Tilly has Control Water active (u2144–u2150); the couatl’s Bless is assigned to Kenzo, Delwath and Milo (u2207–u2216), while Careful Spell protection selects Kenzo, Delwath, Riswynn and Seeker (u2221–u2239). Delwath’s opening Radiance is his first regular turn."
+    }
+  ]
+}
