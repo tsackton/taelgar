@@ -1,0 +1,652 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-112",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-112/cleaned/dunmari-frontier-112-session.yaml",
+    "sessionYamlSha256": "fd204fef57db79ab69dbac2522ec09d7267f91b490142f9a95fb1818cd284fe8",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-112/cleaned/dunmari-frontier-112-transcript.md",
+    "transcriptSha256": "f80dd00d54f72e40a2ab34310f34c6740f851bead8784b059f9f3bfe0baae5f3"
+  },
+  "places": {
+    "p01": {
+      "label": "Vindristjarna",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0007",
+          "quote": "So we begin on Vindristjarna just before—"
+        }
+      ],
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p02": {
+      "label": "Drankor",
+      "kind": "ruined city",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0002",
+          "quote": "a map of Drankor"
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/Drankor.md"
+    },
+    "p03": {
+      "label": "Sapphire Tower",
+      "kind": "tower",
+      "evidence": [
+        {
+          "startUid": "u0077",
+          "endUid": "u0080",
+          "quote": "This here is the Sapphire Tower that is completely intact."
+        },
+        {
+          "startUid": "u0103",
+          "endUid": "u0104",
+          "quote": "This blue tower right here."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0077",
+              "endUid": "u0080",
+              "quote": "the bigger temples seem to be intact. This here is the Sapphire Tower that is completely intact."
+            }
+          ]
+        }
+      ],
+      "note": "The historical source An Annotated (Partial) Map of Drankor names the Sapphire Tower among the Teeth of Drankor. It is distinct from the Temple of the Eight Divines; no standalone tower page is present."
+    },
+    "p04": {
+      "label": "control chamber at the top of the Sapphire Tower",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0313",
+          "endUid": "u0318",
+          "quote": "This is a trap door in the floor that has vines growing up through it."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0320",
+              "endUid": "u0322",
+              "quote": "that's, like, the control panel that Delwath is—"
+            },
+            {
+              "startUid": "u0814",
+              "endUid": "u0816",
+              "quote": "controlling or powering the lightning tower."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "outer roof / railing of the tower",
+      "kind": "roof",
+      "evidence": [
+        {
+          "startUid": "u1299",
+          "endUid": "u1300",
+          "quote": "Onto the railing, onto the out—outer."
+        },
+        {
+          "startUid": "u1421",
+          "endUid": "u1424",
+          "quote": "Wellby is standing on the— the roof of the—the— outside of the—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1295",
+              "endUid": "u1300",
+              "quote": "we were in the middle of the tower, we couldn't actually see out to see."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "ruined buildings by the docks",
+      "kind": "ruins",
+      "evidence": [
+        {
+          "startUid": "u1436",
+          "endUid": "u1443",
+          "quote": "There's docks out here. You do not currently see any—these walls on these buildings are about 10 feet high. There's no roofs, but the wall—walls are intact."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0097",
+              "endUid": "u0101",
+              "quote": "This map is far too big for the Bizarros. They're—they're, like, right here-ish."
+            },
+            {
+              "startUid": "u0100",
+              "endUid": "u0101",
+              "quote": "this is like the docks where they're waiting."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Temple of the Eight Divines",
+      "kind": "temple",
+      "evidence": [
+        {
+          "startUid": "u0024",
+          "endUid": "u0028",
+          "quote": "dome of the Temple of the Eight Divines. Clearly the largest temple in Drankor."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0024",
+              "endUid": "u0028",
+              "quote": "Clearly the largest temple in Drankor."
+            }
+          ]
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/Temple of the Eight Divines.md"
+    },
+    "p08": {
+      "label": "Apollyon's tomb",
+      "kind": "temple",
+      "evidence": [
+        {
+          "startUid": "u0037",
+          "endUid": "u0039",
+          "quote": "the top of of Apollyon's tomb, that, like golden dome that sticks up above the red mist."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0032",
+              "endUid": "u0039",
+              "quote": "To the north, there's this line of hills"
+            },
+            {
+              "startUid": "u4316",
+              "endUid": "u4319",
+              "quote": "He's right—he's right there up in that golden dome, surrounded by plague mist."
+            }
+          ]
+        }
+      ],
+      "note": "The canonical Apollyon's Temple note identifies the monumental temple that became his prison in Drankor; this session calls the visible golden dome his tomb. No entry into it is played here.",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/Apollyon's Temple.md"
+    },
+    "p09": {
+      "label": "ruined amphitheater / coliseum",
+      "kind": "amphitheater",
+      "evidence": [
+        {
+          "startUid": "u0029",
+          "endUid": "u0030",
+          "quote": "Slightly to the north of the temple there's a ruined amphitheater, coliseum, also quite massive, that you can see."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0029",
+              "endUid": "u0030",
+              "quote": "there's a ruined amphitheater, coliseum"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "shaft below the vine-filled trapdoor",
+      "kind": "shaft",
+      "evidence": [
+        {
+          "startUid": "u0931",
+          "endUid": "u0939",
+          "quote": "it drops about beyond the range of your dark vision into darkness, but there's vines growing up the wall."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0931",
+              "endUid": "u0939",
+              "quote": "it drops about beyond the range of your dark vision into darkness, but there's vines growing up the wall."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0007"
+      },
+      "actors": [
+        "party",
+        "Faldrick",
+        "the two new halflings"
+      ],
+      "reading": "The party begins aboard Vindristjarna above Drankor, with the crew remaining aboard for the assault.",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0007",
+          "quote": "So we begin on Vindristjarna just before—"
+        },
+        {
+          "startUid": "u0124",
+          "endUid": "u0128",
+          "quote": "Everybody's with you. They're all immune to fear, except for the 2 new halflings, who are not having a good time of it"
+        },
+        {
+          "startUid": "u0088",
+          "endUid": "u0090",
+          "quote": "you retreated back over towards the temple."
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p02"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0024",
+        "endUid": "u0028"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party sees the great temple from the skyship.",
+      "evidence": [
+        {
+          "startUid": "u0024",
+          "endUid": "u0028",
+          "quote": "dome of the Temple of the Eight Divines. Clearly the largest temple in Drankor."
+        }
+      ],
+      "place": "p07",
+      "mode": "local",
+      "observerPlace": "p01"
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0029",
+        "endUid": "u0030"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party sees the amphitheater north of the temple.",
+      "evidence": [
+        {
+          "startUid": "u0029",
+          "endUid": "u0030",
+          "quote": "there's a ruined amphitheater, coliseum, also quite massive, that you can see."
+        }
+      ],
+      "place": "p09",
+      "mode": "local",
+      "observerPlace": "p01"
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0037",
+        "endUid": "u0041"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party sees the golden dome of the tomb above the red mist.",
+      "evidence": [
+        {
+          "startUid": "u0037",
+          "endUid": "u0041",
+          "quote": "the top of of Apollyon's tomb, that, like golden dome that sticks up above the red mist."
+        }
+      ],
+      "place": "p08",
+      "mode": "local",
+      "observerPlace": "p01"
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0077",
+        "endUid": "u0085"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The intact Sapphire Tower is identified among the city towers.",
+      "evidence": [
+        {
+          "startUid": "u0077",
+          "endUid": "u0085",
+          "quote": "This here is the Sapphire Tower that is completely intact."
+        }
+      ],
+      "place": "p03",
+      "mode": "local",
+      "observerPlace": "p01"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0463",
+        "endUid": "u0470"
+      },
+      "actors": [
+        "Seeker",
+        "Kenzo",
+        "Delwath",
+        "Riswynn",
+        "Wellby",
+        "simulacrum Delwath",
+        "Ladder",
+        "stone construct"
+      ],
+      "reading": "Seeker teleports the assault group from the skyship into the tower control chamber.",
+      "evidence": [
+        {
+          "startUid": "u0463",
+          "endUid": "u0470",
+          "quote": "You all appear."
+        },
+        {
+          "startUid": "u0286",
+          "endUid": "u0295",
+          "quote": "we've got Riswynn, Kenzo, Delwath, stone golem, simulacrum Delwath."
+        },
+        {
+          "startUid": "u0293",
+          "endUid": "u0295",
+          "quote": "Ladder."
+        }
+      ],
+      "from": "p01",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "teleport"
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u0931",
+        "endUid": "u0939"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby looks down the vine-filled trapdoor into darkness beyond his darkvision; he does not descend.",
+      "evidence": [
+        {
+          "startUid": "u0931",
+          "endUid": "u0939",
+          "quote": "it drops about beyond the range of your dark vision into darkness, but there's vines growing up the wall."
+        }
+      ],
+      "place": "p10",
+      "mode": "local",
+      "observerPlace": "p04",
+      "note": "No descent or arrival in a lower room is established."
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1370",
+        "endUid": "u1429"
+      },
+      "actors": [
+        "Seeker",
+        "Kenzo",
+        "Delwath",
+        "Riswynn",
+        "simulacrum Delwath",
+        "stone construct"
+      ],
+      "reading": "Three synchronized Dimension Doors bring six combatants to the ruined buildings by the docks; Wellby stays on the tower and the ladder flies separately.",
+      "evidence": [
+        {
+          "startUid": "u1342",
+          "endUid": "u1347",
+          "quote": "all 3 of us cast Dimension Door—Delwath, simulacrum Delwath and Seeker, each taking a buddy."
+        },
+        {
+          "startUid": "u1370",
+          "endUid": "u1373",
+          "quote": "as you Dimension Door in"
+        },
+        {
+          "startUid": "u1397",
+          "endUid": "u1398",
+          "quote": "So you all show up exactly the same time."
+        },
+        {
+          "startUid": "u1425",
+          "endUid": "u1429",
+          "quote": "Your regular Delwath buddy."
+        }
+      ],
+      "from": "p04",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "Dimension Door",
+      "distance": {
+        "value": 300,
+        "unit": "foot",
+        "precision": "approximate",
+        "basis": "DM revises the earlier diagonal estimate to about 300 feet at u1318–u1319."
+      }
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1399",
+        "endUid": "u1420"
+      },
+      "actors": [
+        "Ladder"
+      ],
+      "reading": "Ladder flies ahead toward the docks battle and reaches the fight separately from the Dimension Door group.",
+      "evidence": [
+        {
+          "startUid": "u1404",
+          "endUid": "u1409",
+          "quote": "Ladder slowly flies across the battlefield."
+        },
+        {
+          "startUid": "u1417",
+          "endUid": "u1424",
+          "quote": "You're sending the ladder in advance."
+        },
+        {
+          "startUid": "u2121",
+          "endUid": "u2123",
+          "quote": "all it can do is just dash to get there, basically."
+        }
+      ],
+      "from": "p04",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l10",
+      "type": "presence",
+      "source": {
+        "startUid": "u1421",
+        "endUid": "u1424"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby remains on the exterior tower roof as the others engage below.",
+      "evidence": [
+        {
+          "startUid": "u1421",
+          "endUid": "u1424",
+          "quote": "Wellby is standing on the— the roof of the—the— outside of the—"
+        },
+        {
+          "startUid": "u2864",
+          "endUid": "u2869",
+          "quote": "remember he's 200 feet in the air, so he can see"
+        }
+      ],
+      "place": "p05"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u3314",
+        "endUid": "u3341"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby flies closer from the tower toward the edge of the docks battlefield while firing at Bizarro Seeker.",
+      "evidence": [
+        {
+          "startUid": "u3319",
+          "endUid": "u3322",
+          "quote": "move and Cunning Action Dash 180 feet closer."
+        },
+        {
+          "startUid": "u3340",
+          "endUid": "u3341",
+          "quote": "Think I'm on like the edge of the map by this point."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "fly",
+      "distance": {
+        "value": 180,
+        "unit": "foot",
+        "precision": "exact",
+        "basis": "Stated movement for this approach."
+      }
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u3910",
+        "endUid": "u3948"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby lands beside Bizarro Riswynn, takes her amulet and disengages.",
+      "evidence": [
+        {
+          "startUid": "u3946",
+          "endUid": "u3948",
+          "quote": "Wellby lands and grabs the amulet from her."
+        }
+      ],
+      "from": "p06",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u4227",
+        "endUid": "u4246"
+      },
+      "actors": [
+        "Seeker",
+        "Kenzo",
+        "Delwath",
+        "Riswynn",
+        "Wellby",
+        "Ladder"
+      ],
+      "reading": "The surviving party returns from the docks battlefield to Vindristjarna by Rainbow Bridge, retaining the teleport slot.",
+      "evidence": [
+        {
+          "startUid": "u4227",
+          "endUid": "u4228",
+          "quote": "So we Rainbow Bridge back to the skyship."
+        },
+        {
+          "startUid": "u4245",
+          "endUid": "u4246",
+          "quote": "So you return to your ship, battered and bruised"
+        },
+        {
+          "startUid": "u4301",
+          "endUid": "u4303",
+          "quote": "Bridge."
+        }
+      ],
+      "from": "p06",
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "Rainbow Bridge"
+    }
+  ]
+}

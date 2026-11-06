@@ -1,0 +1,65 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-112/cleaned/dunmari-frontier-112-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-112/cleaned/dunmari-frontier-112-time-markers.json",
+    "sha256": "354648aeb5cf1decf4b063284b4884bd545a51c51ca95e0cd2fe9fa8515b6f48"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-112/cleaned/dunmari-frontier-112-transcript.md",
+    "sha256": "f80dd00d54f72e40a2ab34310f34c6740f851bead8784b059f9f3bfe0baae5f3"
+  },
+  "dateAssessment": "Working date: May 22, 1749, from session YAML, conditional on that starting date. The time extraction matches a single continuing morning: the return is explicitly still midmorning (t03). Preparation and Ladder’s brief crossing (t01–t02) precede that anchor; proposed rests never occur. Session 111 places the approach around 8:30 a.m. (u2712–u2718) and closes with the same pending tower teleport (u3369–u3392) that session 112 opens on (u0003–u0007, u0092–u0093); this supports morning continuity without inventing an exact opening clock. Session 107 is separately registered as narrative-only on May 18, and the May 21–22 session-111 record establishes the later return and approach. No chronology has been inferred by simply joining neighboring transcript files.",
+  "watches": [
+    {
+      "day": "May 22, 1749",
+      "startDate": "1749-05-22",
+      "endDate": "1749-05-22",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Brief preparations and Ladder’s crossing precede the return, explicitly still midmorning.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03"
+      ],
+      "sourceRanges": [
+        [
+          "u0003",
+          "u0007"
+        ],
+        [
+          "u0092",
+          "u0093"
+        ],
+        [
+          "u4263",
+          "u4265"
+        ]
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 111 handoff transcript",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-111/cleaned/dunmari-frontier-111-transcript.md",
+      "sha256": "0995867716861afdee33251ad8334cab79044928b815e552b643040bfa4f183a"
+    },
+    {
+      "label": "Session 111 dated record and crew identities",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 111 (DuFr).md",
+      "sha256": "687e7931130d46f08c9c71f2a9749b9df39d49d445b2d5135d18c875b6850b1e"
+    },
+    {
+      "label": "Session 107 narrative registration",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-107/cleaned/dunmari-frontier-107-session.yaml",
+      "sha256": "0d6fc292ea394e4413c26ad554657f9acfde23b512f71bd1bc09fae6215e74f1"
+    },
+    {
+      "label": "Session 112 existing narrative",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 112 (DuFr).md",
+      "sha256": "b04870c1227967fecdbddd85ca449471877dad8c981b963c196a1b295859fc01"
+    }
+  ]
+}

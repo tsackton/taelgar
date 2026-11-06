@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-112",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-112/cleaned/dunmari-frontier-112-session.yaml",
+    "sessionYamlSha256": "fd204fef57db79ab69dbac2522ec09d7267f91b490142f9a95fb1818cd284fe8",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-112/cleaned/dunmari-frontier-112-transcript.md",
+    "transcriptSha256": "f80dd00d54f72e40a2ab34310f34c6740f851bead8784b059f9f3bfe0baae5f3",
+    "yamlDates": {
+      "start": "1749-05-22",
+      "end": "1749-05-22"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0203",
+        "endUid": "u0208"
+      },
+      "reading": "Delwath is allotted one minute and twelve seconds for two spells and his slot-recovery ritual before the teleport.",
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 1.2,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Requested preparation interval, accepted before the table completes pre-teleport spells."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0203",
+          "endUid": "u0208",
+          "quote": "I need 1 min and 12 seconds before we teleport."
+        },
+        {
+          "startUid": "u0203",
+          "endUid": "u0208",
+          "quote": "To cast 2 spells and then use my ritual. That gets 2 spell slots back."
+        },
+        {
+          "startUid": "u0358",
+          "endUid": "u0366",
+          "quote": "So we're all invisible."
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u1404",
+        "endUid": "u1420"
+      },
+      "reading": "The ladder is sent ahead before the Dimension Doors; its crossing is discussed as about thirty seconds, then allotted four turns.",
+      "actors": [
+        "Ladder"
+      ],
+      "duration": {
+        "value": 0.5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM estimates five turns / thirty seconds; the accepted plan then gives the ladder four turns before teleporting."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1404",
+          "endUid": "u1409",
+          "quote": "But that's still 5 turns, so unless you want the ladder to be flying across for 30 seconds before you do anything, which you could, there's no reason you can't."
+        },
+        {
+          "startUid": "u1417",
+          "endUid": "u1420",
+          "quote": "I think that's probably okay to give the ladder 4 turns to fly, and then dimension door in."
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u4263",
+        "endUid": "u4265"
+      },
+      "reading": "After both fights and the return to Vindristjarna, it is still midmorning.",
+      "time": {
+        "partOfDay": "midmorning",
+        "precision": "approximate",
+        "basis": "DM explicitly says it is still mid-morning; the absolute date comes only from YAML."
+      },
+      "evidence": [
+        {
+          "startUid": "u4263",
+          "endUid": "u4265",
+          "quote": "You return to the ship now. It still is like, you know, mid-morning, and you're looking out across the city wondering like, what's your next move here?"
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "May 22, 1749 is supplied by YAML, not spoken. The continuous assault begins before the return that is explicitly still midmorning.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": 0,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03"
+    ],
+    "explanation": "Preparations, the two nearby fights, and the return occur in one continuing morning. Planned short and long rests, overnight crafting, spell durations and real-world scheduling do not advance play. This matches the same-day YAML span conditional on its starting date."
+  }
+}
