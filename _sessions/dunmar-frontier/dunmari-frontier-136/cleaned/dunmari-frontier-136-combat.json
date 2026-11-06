@@ -495,7 +495,7 @@
             {
               "actor": "Seeker 6",
               "kind": "turn",
-              "summary": "Keeps the nearly broken Wall of Stone and readies sixth-level Chain Lightning to trigger when it breaks.",
+              "summary": "Keeps the nearly broken Wall of Stone and readies sixth-level Chain Lightning to trigger when it breaks. The DM later confirms that Seeker 6 also granted Seeker one final Bardic Inspiration before dying.",
               "evidence": [
                 {
                   "startUid": "u3727",
@@ -505,12 +505,13 @@
                   "startUid": "u6129",
                   "endUid": "u6133"
                 }
-              ]
+              ],
+              "note": "The final Bardic Inspiration is established retrospectively at u6129–u6133 as another grant before Seeker 6 died; its precise casting turn is not supplied."
             },
             {
               "actor": "Ladder",
               "kind": "turn",
-              "summary": "Readies its attack for the wall breaking. Retrospective confirmation gives Seeker one final Bardic Inspiration before the simulacrum dies.",
+              "summary": "Readies its attack for the wall breaking.",
               "evidence": [
                 {
                   "startUid": "u3775",
@@ -1390,7 +1391,7 @@
             {
               "actor": "Kenzo",
               "kind": "turn",
-              "summary": "Later confirmation establishes that Kenzo collected a handful of the queen’s ashes before combat ended. The exact turn of collection is unstated. Examining them in the Mirror of the Past is only proposed afterward.",
+              "summary": "Makes five attacks against the cloud minions. The critical staff hit deals 23 damage and kills two; the other staff hit kills one. Of the three remaining attacks, one misses and two each kill a minion, for five kills total.",
               "evidence": [
                 {
                   "startUid": "u9567",
