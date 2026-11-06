@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-091",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-091/cleaned/dunmari-frontier-091-session.yaml",
+    "sessionYamlSha256": "6fc73b79b9f0d41eb23ed811268c5ef0fcf15e4ba74b44950d640b507353698f",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-091/cleaned/dunmari-frontier-091-transcript.md",
+    "transcriptSha256": "9d86810f96ea8486b821879fce844986bf3d86f6a89237771a3ca40fdda76fa1"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0006"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0007",
+        "endUid": "u0065"
+      },
+      "category": "gameplay",
+      "note": "The hunter viewpoint advances its pursuit and reaches the current attack; it is played narration rather than a recap."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0066",
+        "endUid": "u0916"
+      },
+      "category": "combat",
+      "note": "Initiative setup, preparations, rules discussion and the narrated cleanup form one continuous encounter."
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0917",
+        "endUid": "u1267"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1268",
+        "endUid": "u1272"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1273",
+        "endUid": "u2064"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2065",
+        "endUid": "u2183"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2184",
+        "endUid": "u2340"
+      },
+      "category": "gameplay"
+    }
+  ]
+}
