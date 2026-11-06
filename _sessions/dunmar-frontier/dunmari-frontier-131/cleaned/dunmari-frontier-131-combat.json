@@ -1,0 +1,519 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-131",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-session.yaml",
+    "sessionYamlSha256": "bb732af3cbfe72180d67b4f3537dd12031dbf8c56b408ecd7f30e765086c538b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-transcript.md",
+    "transcriptSha256": "76380b41ad581ceb0cf5196b16ddbbb5fa541c0505dcc08f2caf1b1a77fafadb",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-segments.json",
+      "sha256": "321aa846ec2a834463f038001a4b646fea95c0b27de9f2a0e6723b74f41737f7",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s010",
+      "encounter": "Tsunami raid and the Empress’s pursuit",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Uses Wish to create Tsunami in front of the marching centipede from about 700 feet away. Wish removes the proposed one-minute casting time. The wave covers the first 50 feet, washes ash into sludge and strikes the front of the army; no individual damage totals are resolved. Post-raid scrying confirms roughly a thousand bodies, about a quarter of the army, and shows the survivors sheltering inside the closed construct.",
+              "evidence": [
+                {
+                  "startUid": "u0893",
+                  "endUid": "u0938"
+                },
+                {
+                  "startUid": "u1243",
+                  "endUid": "u1272"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Minor Illusion concurrently with the tsunami to prepare a booming voice; this is established retrospectively during the following round.",
+              "evidence": [
+                {
+                  "startUid": "u0953",
+                  "endUid": "u0958"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Tsunami",
+              "kind": "event",
+              "summary": "The wave advances another 50 feet through the army, amid chaos, bangs and screams; the centipede stops moving and the ash begins to clear.",
+              "evidence": [
+                {
+                  "startUid": "u0940",
+                  "endUid": "u0950"
+                },
+                {
+                  "startUid": "u1024",
+                  "endUid": "u1033"
+                }
+              ]
+            },
+            {
+              "actor": "Empress of Chaos",
+              "kind": "event",
+              "summary": "Flies straight up from the army in her armor and searches for the attackers.",
+              "evidence": [
+                {
+                  "startUid": "u0940",
+                  "endUid": "u0945"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Makes a large sound with his mouth while the wave continues.",
+              "evidence": [
+                {
+                  "startUid": "u0968",
+                  "endUid": "u0970"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Cannot soul-sight the generals at this distance, so instead spends ki tuning in to the Empress’s aura to track her later.",
+              "evidence": [
+                {
+                  "startUid": "u0974",
+                  "endUid": "u0986"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Stays with the main group and waits rather than closing the distance.",
+              "evidence": [
+                {
+                  "startUid": "u0987",
+                  "endUid": "u0999"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes Steady Aim and shoots the Empress from his forward position, hitting for 43 damage. The table places him about 400 feet from her; statements of his lead over the others differ.",
+              "evidence": [
+                {
+                  "startUid": "u0959",
+                  "endUid": "u0969"
+                },
+                {
+                  "startUid": "u0990",
+                  "endUid": "u1013"
+                }
+              ]
+            },
+            {
+              "actor": "Empress of Chaos",
+              "kind": "turn",
+              "summary": "Immediately after the shot, flies and dashes rapidly toward Wellby, finishing beside him and brandishing her spear; no spear attack is resolved.",
+              "evidence": [
+                {
+                  "startUid": "u1014",
+                  "endUid": "u1020"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Moves 45 feet back toward his companions without provoking when the Empress reaches him.",
+              "evidence": [
+                {
+                  "startUid": "u1021",
+                  "endUid": "u1023"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses movement, Dash and Cunning Action Dash to cross the remaining roughly 255 feet and rejoin the party.",
+              "evidence": [
+                {
+                  "startUid": "u1031",
+                  "endUid": "u1058"
+                },
+                {
+                  "startUid": "u1066",
+                  "endUid": "u1080"
+                }
+              ]
+            },
+            {
+              "actor": "Empress of Chaos",
+              "kind": "turn",
+              "summary": "Moves about 150 feet toward the group, closes enough to identify them, then dashes back to wait roughly 300 feet away.",
+              "evidence": [
+                {
+                  "startUid": "u1081",
+                  "endUid": "u1092"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses the driftglobe’s Daylight to illuminate the party for its challenge.",
+              "evidence": [
+                {
+                  "startUid": "u1103",
+                  "endUid": "u1115"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Uses the prepared booming voice, Glibness and Revaka’s advice to denounce the Empress and challenge her. Heroic Inspiration is tried; Glibness replaces the d20 with 15, then Bardic Inspiration is added after adjudication. The final stated intimidation total is corrected from 37 to 36.",
+              "evidence": [
+                {
+                  "startUid": "u1097",
+                  "endUid": "u1102"
+                },
+                {
+                  "startUid": "u1116",
+                  "endUid": "u1123"
+                },
+                {
+                  "startUid": "u1140",
+                  "endUid": "u1176"
+                }
+              ]
+            },
+            {
+              "actor": "Tsunami and centipede",
+              "kind": "event",
+              "summary": "The tsunami finishes its stated six-round duration during the speech. Rear metal plates close tightly, ash production stops, and bodies densely cover the first 150 feet before thinning farther back.",
+              "evidence": [
+                {
+                  "startUid": "u1059",
+                  "endUid": "u1062"
+                },
+                {
+                  "startUid": "u1125",
+                  "endUid": "u1134"
+                }
+              ]
+            },
+            {
+              "actor": "Empress of Chaos and army",
+              "kind": "event",
+              "summary": "The Empress looks nervously toward the army but does not answer. About twenty or thirty surviving stragglers jump off and flee away from the centipede.",
+              "evidence": [
+                {
+                  "startUid": "u1177",
+                  "endUid": "u1195"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Chooses the correct teleport pebble and teleports the reunited party back to Three Wells around sunset.",
+              "evidence": [
+                {
+                  "startUid": "u1185",
+                  "endUid": "u1188"
+                },
+                {
+                  "startUid": "u1196",
+                  "endUid": "u1218"
+                },
+                {
+                  "startUid": "u1238",
+                  "endUid": "u1241"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The party escapes to Three Wells; the Empress remains alive and the centipede survives. Later scrying confirms roughly a thousand dead, about a quarter of the army, with the survivors sheltered inside the moving construct.",
+        "evidence": [
+          {
+            "startUid": "u1177",
+            "endUid": "u1195"
+          },
+          {
+            "startUid": "u1238",
+            "endUid": "u1241"
+          }
+        ]
+      },
+      "note": "The encounter begins with ordered rounds before the initiative roll."
+    },
+    {
+      "id": "c002",
+      "segmentId": "s019",
+      "encounter": "Raid inside the chaos-metal centipede",
+      "openingActions": [
+        {
+          "actor": "Delwath",
+          "kind": "event",
+          "summary": "Retroactively establishes morning Aid and a short rest. The accepted recipients are Delwath, Kenzo and Wellby, each gaining 20 maximum HP, correcting the proposed 30; Seeker is excluded.",
+          "evidence": [
+            {
+              "startUid": "u2312",
+              "endUid": "u2340"
+            },
+            {
+              "startUid": "u2437",
+              "endUid": "u2439"
+            }
+          ]
+        },
+        {
+          "actor": "Delwath and Seeker",
+          "kind": "event",
+          "summary": "Dimension Doors place all four PCs inside the centipede. Delwath also establishes that Glibness was cast beforehand. The table swaps Kenzo and Seeker’s initiative positions, yielding Seeker, Wellby, Delwath, enemy actions, then Kenzo; the surprised hobgoblins roll initiative with disadvantage.",
+          "evidence": [
+            {
+              "startUid": "u2264",
+              "endUid": "u2311"
+            },
+            {
+              "startUid": "u2356",
+              "endUid": "u2361"
+            },
+            {
+              "startUid": "u2391",
+              "endUid": "u2392"
+            }
+          ]
+        },
+        {
+          "actor": "Delwath and Kenzo",
+          "kind": "event",
+          "summary": "On arrival, denounce the Empress’s refusal to fight and announce punishment for her soldiers. Their later clarification adds that surrendering soldiers will be spared and that the army should overthrow her.",
+          "evidence": [
+            {
+              "startUid": "u2384",
+              "endUid": "u2390"
+            },
+            {
+              "startUid": "u2660",
+              "endUid": "u2673"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Sunburst along the interior, far enough ahead to leave the party outside its 60-foot-radius sphere. The table corrects its damage expression to 12d6 radiant and states the blinding effect; hundreds of sleeping or waking hobgoblins collapse. The flash then ends, leaving the group’s 60-foot darkvision as its view.",
+              "evidence": [
+                {
+                  "startUid": "u2362",
+                  "endUid": "u2382"
+                },
+                {
+                  "startUid": "u2393",
+                  "endUid": "u2406"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes a bead from Kenzo’s Necklace of Fireballs and throws a third-level Fireball into a dense cluster. The spell is stated as 8d6; later confirmation establishes that some hobgoblins were damaged and killed rather than immune. No rolled damage total is given.",
+              "evidence": [
+                {
+                  "startUid": "u2407",
+                  "endUid": "u2415"
+                },
+                {
+                  "startUid": "u2597",
+                  "endUid": "u2600"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Quickens Sickening Radiance in the opposite direction from Sunburst, with its near edge about 20 feet away, then draws his sword, moves next to nearby hobgoblins and makes three attacks. Multiple unarmored sleeping soldiers are slain; the green radiance persists. No damage total or resolved concentration failure is given.",
+              "evidence": [
+                {
+                  "startUid": "u2416",
+                  "endUid": "u2432"
+                },
+                {
+                  "startUid": "u2480",
+                  "endUid": "u2487"
+                }
+              ]
+            },
+            {
+              "actor": "Unidentified enemy fire caster",
+              "kind": "turn",
+              "summary": "A shouted “FIRE!” precedes a blast requiring Dexterity saves. Kenzo’s 28 and Wellby’s 20 succeed and avoid all damage. Delwath fails even after Heroic Inspiration changes his roll to 11 and Bardic Inspiration raises it to 16; Seeker fails on 11. Each takes 40 fire damage. Seeker elects to retain Heroic Inspiration. Nearby hobgoblins are unaffected. The later discussion calls the blast a high-level Fireball.",
+              "evidence": [
+                {
+                  "startUid": "u2433",
+                  "endUid": "u2479"
+                },
+                {
+                  "startUid": "u2721",
+                  "endUid": "u2726"
+                }
+              ],
+              "note": "The later scry identifies chaos sorcerers and confirms selective fire, but does not conclusively identify this caster as the particular speaker seen later."
+            },
+            {
+              "actor": "Armored hobgoblin unit near Delwath",
+              "kind": "turn",
+              "summary": "Moves in from the surviving portion of the group Delwath attacked. Attack totals of 18 and 20 both miss him. The table notes persistent Sickening Radiance but resolves no additional damage from it here.",
+              "evidence": [
+                {
+                  "startUid": "u2480",
+                  "endUid": "u2491"
+                }
+              ]
+            },
+            {
+              "actor": "Hobgoblin unit charging from the front",
+              "kind": "turn",
+              "summary": "Charges through the gap between Sunburst’s cleared area and Sickening Radiance. Against Kenzo, two natural 20s hit while attacks totaling 16 and 18 miss. The first critical deals 16 slashing before his deflection; the follow-up deals 26 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2492",
+                  "endUid": "u2509"
+                },
+                {
+                  "startUid": "u2512",
+                  "endUid": "u2519"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the first critical hit with a result of 33, negating its 16 slashing damage and knocking aside or killing a hobgoblin or two. He still takes the second critical’s 26 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2510",
+                  "endUid": "u2519"
+                }
+              ]
+            },
+            {
+              "actor": "Centipede wall spikes / unidentified commander",
+              "kind": "event",
+              "summary": "After “Stop them,” wall spikes require Dexterity saves. Kenzo rolls 28 and Wellby 21; Seeker spends the saved Heroic Inspiration to replace a natural 1 with 20. Delwath fails on 8, takes 13 damage and is grappled by a spike. The DM explicitly allows teleporting while grappled.",
+              "evidence": [
+                {
+                  "startUid": "u2520",
+                  "endUid": "u2560"
+                }
+              ],
+              "note": "The shout’s speaker is not identified; the source does not label this as a lair, legendary or villain action."
+            },
+            {
+              "actor": "Hobgoblin archers",
+              "kind": "turn",
+              "summary": "Loose flaming arrows in the tight quarters, granting everyone advantage on the Dexterity save because the archers lack clear aim. Kenzo’s 28 and Wellby’s 26 avoid all damage; Seeker succeeds. Delwath’s 12 rises to 16 with 2d4 but still fails until reaction Bardic Inspiration makes it succeed. Despite the successes, Seeker and Delwath each take the stated 24 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2568",
+                  "endUid": "u2586"
+                },
+                {
+                  "startUid": "u2589",
+                  "endUid": "u2594"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Supplies reaction Bardic Inspiration under the table’s retained rule, making Delwath’s archer save succeed after his other bonus was insufficient.",
+              "evidence": [
+                {
+                  "startUid": "u2585",
+                  "endUid": "u2588"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Throws another necklace bead at one adjacent hobgoblin unit, avoiding a placement that would also hit the party. Spends ki for three bonus-action attacks, all hitting (26, 26 and 18). Pulls a 17-damage punch, holds one soldier for Delwath to recognize, and takes hair for scrying; hair replaces the proposed clothing or severed finger.",
+              "evidence": [
+                {
+                  "startUid": "u2595",
+                  "endUid": "u2644"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "At the top of the next cycle, teleports all four PCs out; Delwath’s grapple does not prevent the escape.",
+              "evidence": [
+                {
+                  "startUid": "u2654",
+                  "endUid": "u2659"
+                },
+                {
+                  "startUid": "u2673",
+                  "endUid": "u2673"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The party teleports away after one full attack cycle and the next Seeker turn, leaving the centipede and its surviving army operational. Kenzo has a living soldier’s hair for targeted scrying.",
+        "evidence": [
+          {
+            "startUid": "u2635",
+            "endUid": "u2644"
+          },
+          {
+            "startUid": "u2654",
+            "endUid": "u2673"
+          }
+        ]
+      }
+    }
+  ]
+}

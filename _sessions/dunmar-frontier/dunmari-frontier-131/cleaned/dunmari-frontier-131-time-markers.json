@@ -1,0 +1,705 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-131",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-session.yaml",
+    "sessionYamlSha256": "bb732af3cbfe72180d67b4f3537dd12031dbf8c56b408ecd7f30e765086c538b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-transcript.md",
+    "transcriptSha256": "76380b41ad581ceb0cf5196b16ddbbb5fa541c0505dcc08f2caf1b1a77fafadb",
+    "yamlDates": {
+      "start": "1749-08-08",
+      "end": "1749-08-10"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0009"
+      },
+      "reading": "Main party play opens at Three Wells on the morning of August 8, after the war council.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0009",
+          "quote": "And we pick up on the morning of August 8th, after the War Council, after the discussions and debates about what to do, when you have decided that after a rest, you will proceed with your campaign of harassment and guerrilla warfare against the hobgoblin army."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 8
+        },
+        "partOfDay": "morning",
+        "precision": "exact",
+        "basis": "Spoken August 8 morning; year inherited from YAML."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0010",
+        "endUid": "u0013"
+      },
+      "reading": "Narration steps back to the preceding night, following the Fox and Hunter rather than the party.",
+      "evidence": [
+        {
+          "startUid": "u0010",
+          "endUid": "u0013",
+          "quote": "But before we proceed, we go back to the night when the world turns and the night falls, and the stars begin to flicker over the sky."
+        }
+      ],
+      "context": "flashback",
+      "actors": [
+        "Fox and Hunter"
+      ],
+      "time": {
+        "partOfDay": "night",
+        "relative": {
+          "relation": "before",
+          "reference": "t01",
+          "anchor": "night preceding the opening morning"
+        },
+        "precision": "approximate",
+        "basis": "Explicit backward shift to night; the preceding calendar date is inferred, not spoken."
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0033",
+        "endUid": "u0035"
+      },
+      "reading": "Dawn breaks at the end of the divine interlude as the hobgoblins make camp.",
+      "evidence": [
+        {
+          "startUid": "u0033",
+          "endUid": "u0035",
+          "quote": "Worried, the gaze of the Fox and Hunter linger on these creatures as dawn breaks, and their movement slows to a halt as they begin to set camp for the day under a blanket of ash."
+        }
+      ],
+      "context": "flashback",
+      "actors": [
+        "Fox and Hunter",
+        "hobgoblin army"
+      ],
+      "time": {
+        "partOfDay": "dawn",
+        "relative": {
+          "relation": "after",
+          "reference": "t02"
+        },
+        "precision": "exact",
+        "basis": "Dawn explicitly closes the narrated night."
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0036",
+        "endUid": "u0045"
+      },
+      "reading": "Narration resumes the party waking to breakfast at Three Wells after its completed rest.",
+      "evidence": [
+        {
+          "startUid": "u0036",
+          "endUid": "u0039",
+          "quote": "And so we pick up as you awake from your rest in the bustle of camp."
+        },
+        {
+          "startUid": "u0042",
+          "endUid": "u0045",
+          "quote": "Meanwhile, as you awake to breakfast in the camp…"
+        },
+        {
+          "startUid": "u0136",
+          "endUid": "u0139",
+          "quote": "So everybody should also remember to long rest."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention; credit for the opening completed rest, not a second rest"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t01"
+        }
+      ],
+      "note": "The rest precedes the opening morning; its start and inclusion in the YAML span are not independently dated."
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0242",
+        "endUid": "u0247"
+      },
+      "reading": "Kenzo returns to himself after about thirty minutes of communion with the Heartroot.",
+      "evidence": [
+        {
+          "startUid": "u0242",
+          "endUid": "u0247",
+          "quote": "And you return to yourself maybe 30 minutes later."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "duration": {
+        "value": 30,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0801",
+        "endUid": "u0811"
+      },
+      "reading": "The party flies from Three Wells for about six hours and reaches the army’s vicinity around 2–3 p.m. on the opening day.",
+      "evidence": [
+        {
+          "startUid": "u0801",
+          "endUid": "u0804",
+          "quote": "DM: Okay, so… you turn into eagles and begin to fly, soaring through the morning. It…"
+        },
+        {
+          "startUid": "u0805",
+          "endUid": "u0811",
+          "quote": "They're a little bit closer, so if it took you 7 hours before, we'll say it takes you about 6 hours to reach them. So it's mid-afternoon by the time you get there, say, 2 or 3 in the afternoon."
+        }
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "DM gives an approximate arrival window of 2–3 p.m.; no single clock is selected."
+      },
+      "duration": {
+        "value": 6,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "completion": "completed",
+      "note": "Arrival clock is stated as a range of 2–3 p.m."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0840",
+        "endUid": "u0844"
+      },
+      "reading": "The party waits until the army begins moving about an hour before an estimated 7:30 p.m. sunset.",
+      "evidence": [
+        {
+          "startUid": "u0840",
+          "endUid": "u0844",
+          "quote": "Sun begins to sink in the sky, you know, August, sunsets… 7.30, something like that, so… couple hours pass. As the sun gets low, Sort of an hour before sunset or something."
+        }
+      ],
+      "time": {
+        "partOfDay": "before sunset",
+        "clock": "18:30",
+        "precision": "approximate",
+        "basis": "Inferred from sunset around 19:30 minus roughly one hour; the casual “couple hours” does not fix the whole wait."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0856",
+        "endUid": "u0859"
+      },
+      "reading": "Another half hour passes; the army is moving roughly thirty minutes before sunset.",
+      "evidence": [
+        {
+          "startUid": "u0856",
+          "endUid": "u0859",
+          "quote": "DM: Half an hour later, again, some… you know, maybe 30 minutes before sunset, sun low in the sky, but pre-dusk. You see, again, the line stretching now 450 feet long. Right. Beginning to sort of creep forward across this arid desert terrain."
+        }
+      ],
+      "duration": {
+        "value": 30,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "time": {
+        "clock": "19:00",
+        "partOfDay": "before sunset",
+        "precision": "approximate",
+        "basis": "Half-hour advance from the previous approximately 18:30 anchor; DM calls it pre-dusk."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1238",
+        "endUid": "u1241"
+      },
+      "reading": "After the tsunami raid, the party teleports back to Three Wells around sunset that evening.",
+      "evidence": [
+        {
+          "startUid": "u1238",
+          "endUid": "u1241",
+          "quote": "So you appear back at Three Wells. Around sun… this is now around… it's around sunset, it's the evening."
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "Explicit sunset/evening return on the opening day."
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1243",
+        "endUid": "u1250"
+      },
+      "reading": "Delwath’s scrying image appears a few minutes after the sunset return; the centipede is still in view.",
+      "evidence": [
+        {
+          "startUid": "u1243",
+          "endUid": "u1244",
+          "quote": "A few minutes later, you see the image shimmering and appear."
+        },
+        {
+          "startUid": "u1246",
+          "endUid": "u1250",
+          "quote": "Out of the visual by the time you finish casting the spell."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Narrated completion; the earlier ten-minute casting rule is not substituted for this wording."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1417",
+        "endUid": "u1426"
+      },
+      "reading": "The party completes its overnight rest and wakes refreshed at dawn on August 9.",
+      "evidence": [
+        {
+          "startUid": "u1417",
+          "endUid": "u1423",
+          "quote": "DM: You rest. Kenzo dreams of fruit and vines, laden with… laden with grapes and… roots growing through the ground, and the taste of rich soil that is somehow earthy and sweet, and nourishing at the same time. And you wake refreshed."
+        },
+        {
+          "startUid": "u1425",
+          "endUid": "u1426",
+          "quote": "DM: To dawn on August 9th, and proceed to continue with your harassment campaign of magical terrorism against the hobgoblins."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention"
+      },
+      "dateBoundaries": 1,
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 9
+        },
+        "partOfDay": "dawn",
+        "precision": "exact",
+        "basis": "Spoken August 9 dawn; year inherited from YAML."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1437",
+        "endUid": "u1448"
+      },
+      "reading": "The second flight takes about five hours, roughly 8 a.m. to 1 p.m. on August 9.",
+      "evidence": [
+        {
+          "startUid": "u1437",
+          "endUid": "u1437",
+          "quote": "DM: So you fly out as birds,"
+        },
+        {
+          "startUid": "u1444",
+          "endUid": "u1448",
+          "quote": "Some… some, you know, a few hours, so you, again, you would get there, again, a little bit closer, maybe 5 hours, now instead of 6. So, you know, from the morning. Say, 8am to 1PM, something like that. So it's the middle… still the middle of the day."
+        }
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "timeRange": {
+        "start": {
+          "clock": "08:00",
+          "precision": "approximate",
+          "basis": "DM’s approximate departure clock."
+        },
+        "end": {
+          "clock": "13:00",
+          "precision": "approximate",
+          "basis": "DM’s approximate arrival clock."
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1496",
+        "endUid": "u1523"
+      },
+      "reading": "Seeker completes the ten-minute Clairvoyance casting at the hidden blind; nobody investigates during preparation.",
+      "evidence": [
+        {
+          "startUid": "u1497",
+          "endUid": "u1497",
+          "quote": "Seeker: Yeah, it also takes 10 minutes."
+        },
+        {
+          "startUid": "u1507",
+          "endUid": "u1508",
+          "quote": "Delwath: Which also takes 10 minutes to cast. Think."
+        },
+        {
+          "startUid": "u1509",
+          "endUid": "u1509",
+          "quote": "DM: Nobody comes to investigate while you're casting whatever you're casting."
+        },
+        {
+          "startUid": "u1517",
+          "endUid": "u1517",
+          "quote": "Delwath: And then Seeker, I think, is casting Clairvoyance, targeting the middle of the camp."
+        },
+        {
+          "startUid": "u1518",
+          "endUid": "u1518",
+          "quote": "DM: Yes."
+        },
+        {
+          "startUid": "u1519",
+          "endUid": "u1519",
+          "quote": "Seeker: Yeah."
+        },
+        {
+          "startUid": "u1520",
+          "endUid": "u1521",
+          "quote": "DM: Okay. So the… Clairvoyant sensor."
+        },
+        {
+          "startUid": "u1522",
+          "endUid": "u1523",
+          "quote": "Seeker: Appears. C…"
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Stated ten-minute Clairvoyance cast completes at u1520–u1523; not an independent clock measurement."
+      },
+      "completion": "completed",
+      "note": "Hallucinatory Terrain also completes, but the overlap/order of the two casts is not fixed; no twenty-minute total is inferred."
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1772",
+        "endUid": "u1779"
+      },
+      "reading": "After teleporting home from the earthquake raid, Delwath waits and scries the battlefield about half an hour later.",
+      "evidence": [
+        {
+          "startUid": "u1772",
+          "endUid": "u1774",
+          "quote": "Delwath: Same deal, I'm gonna cast Scry… I'm gonna wait a few minutes, actually. Like, let's wait a little bit and cast Scry, because I want to see if they break, like, because I can't scry inside the structure, because I didn't see it inside the structure. So maybe, like, wait half an hour, and then cast Scry?"
+        },
+        {
+          "startUid": "u1775",
+          "endUid": "u1779",
+          "quote": "DM: Okay. So, about… and roll. Yeah, okay, so about half an hour… later, you actually… when you cast Scry, again, just at this location, right? Yep. What you see is… The… the, like…"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 30,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "completion": "completed",
+      "note": "The narration gives an aggregate half-hour-later view; it does not establish an additional ten minutes on top."
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1814",
+        "endUid": "u1817"
+      },
+      "reading": "The post-earthquake scry shows the army reassembling at about 1:30 p.m. on August 9.",
+      "evidence": [
+        {
+          "startUid": "u1814",
+          "endUid": "u1815",
+          "quote": "DM: The structure seems to be reassembling, and it's only, like, 1.30 in the afternoon, so this is clearly not… standard…"
+        }
+      ],
+      "time": {
+        "clock": "13:30",
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "Explicit approximately 1:30 clock in the continuing August 9 frame."
+      }
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u1931",
+        "endUid": "u1931"
+      },
+      "reading": "The continuing discussion is placed in mid-afternoon before the next rest.",
+      "evidence": [
+        {
+          "startUid": "u1931",
+          "endUid": "u1931",
+          "quote": "DM: So, it's, like, mid-afternoon right now."
+        }
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "Explicit mid-afternoon current-play anchor."
+      },
+      "note": "Nearby u1943–u1944 call the already-played earthquake “yesterday”; no day advance is narrated there, and the next explicit date is August 10 after a rest."
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u2074",
+        "endUid": "u2075"
+      },
+      "reading": "A completed rest advances the party to the morning of August 10 before the third flight.",
+      "evidence": [
+        {
+          "startUid": "u2074",
+          "endUid": "u2074",
+          "quote": "Delwath: Okay, we're fly… okay, we rested, we're flying back."
+        },
+        {
+          "startUid": "u2075",
+          "endUid": "u2075",
+          "quote": "DM: Now it's the morning of August 10th."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention for the accepted overnight rest"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 10
+        },
+        "partOfDay": "morning",
+        "precision": "exact",
+        "basis": "Spoken August 10 morning; year inherited from YAML."
+      }
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u2077",
+        "endUid": "u2084"
+      },
+      "reading": "Play moves to the August 10 noon rendezvous, with preparatory clairvoyance requested before noon.",
+      "evidence": [
+        {
+          "startUid": "u2077",
+          "endUid": "u2077",
+          "quote": "DM: So, noon on August 10th."
+        },
+        {
+          "startUid": "u2078",
+          "endUid": "u2080",
+          "quote": "Delwath: But before noon, we want to, like, clairvoyance. Ideally, we get… a mile or, like, 2 miles away, find a spot and Clairvoyance."
+        },
+        {
+          "startUid": "u2082",
+          "endUid": "u2083",
+          "quote": "Delwath: Right. So if we have to get up a little bit early, we'll do that, right?"
+        },
+        {
+          "startUid": "u2084",
+          "endUid": "u2084",
+          "quote": "DM: Yeah, yeah. So…"
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 10
+        },
+        "clock": "12:00",
+        "precision": "approximate",
+        "basis": "DM places the rendezvous at noon; the group explicitly inserts preparation before it."
+      },
+      "note": "The proposed four-hour flight at u2085–u2087 is an estimate, not a confirmed elapsed duration."
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u2312",
+        "endUid": "u2317"
+      },
+      "reading": "During combat setup, Delwath retroactively establishes Aid followed by a short rest that morning.",
+      "evidence": [
+        {
+          "startUid": "u2312",
+          "endUid": "u2313",
+          "quote": "Delwath: I did cast, I meant to say this earlier, sorry, in prep for the battle. I would have casted aid."
+        },
+        {
+          "startUid": "u2314",
+          "endUid": "u2314",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u2316",
+          "endUid": "u2317",
+          "quote": "Delwath: This morning, right? So, Aid, short rest, so everybody… so Kenzo… Seeker, and… Who has the least hit points?"
+        },
+        {
+          "startUid": "u2438",
+          "endUid": "u2438",
+          "quote": "Delwath: Short-rested in the morning. I'm gonna try again."
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention; retrospective morning preparation"
+      },
+      "completion": "completed",
+      "time": {
+        "partOfDay": "morning",
+        "relative": {
+          "relation": "before",
+          "reference": "t18"
+        },
+        "precision": "approximate",
+        "basis": "Explicit “this morning” preparation before the noon raid."
+      }
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u2883",
+        "endUid": "u2890"
+      },
+      "reading": "The party has retreated and is back at camp on the afternoon of August 10.",
+      "evidence": [
+        {
+          "startUid": "u2883",
+          "endUid": "u2884",
+          "quote": "DM: Again, you retreat in the afternoon, and now you're back… to the camp on August 10th."
+        },
+        {
+          "startUid": "u2890",
+          "endUid": "u2890",
+          "quote": "In any case, it's the afternoon of August 10th now."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 10
+        },
+        "partOfDay": "afternoon",
+        "precision": "exact",
+        "basis": "Spoken August 10 afternoon; year inherited from YAML."
+      }
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "August 8, 9 and 10 are independently spoken; DR 1749 comes from YAML. The opening interlude returns to the night preceding August 8.",
+    "expectedDateBoundaries": 2,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t11",
+      "t17",
+      "t18",
+      "t20"
+    ],
+    "explanation": "Party adventure play explicitly spans August 8 morning through August 10 afternoon, with two completed overnight transitions. The preceding-night divine interlude may extend the covered start into August 7, or may be introductory framing outside the party-date interval. No unspoken extra day is supplied from YAML; the closing “midnight” is real-world housekeeping."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t01",
+        "t02",
+        "t03",
+        "t04"
+      ],
+      "reading": "The party interval begins August 8, but resolved divine events occur during the preceding night.",
+      "alternatives": [
+        {
+          "reading": "Use the party opening as the session-calendar boundary.",
+          "date": "1749-08-08"
+        },
+        {
+          "reading": "Include the preceding-night divine interlude in the covered interval; date inferred from the spoken opening.",
+          "date": "1749-08-07"
+        }
+      ]
+    }
+  ]
+}
