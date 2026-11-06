@@ -1,0 +1,1735 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "76380b41ad581ceb0cf5196b16ddbbb5fa541c0505dcc08f2caf1b1a77fafadb"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-entity-map.json",
+      "sha256": "42e0e2b57eec5acacd87ab54933c0352c04a16bfbd10c840eb7ea852c7654230"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "The Fox and Hunter answer prayers before dawn",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0010",
+        "endUid": "u0035"
+      },
+      "lines": [
+        "%% u0010:0-133, u0011:0-100, u0012:0-37, u0013:0-184 %%",
+        "DM: But before we proceed, we go back to the night when the world turns and the night falls, and the stars begin to flicker over the sky. And the Fox and Hunter, the constellation, drift above the horizon, watching the sky dark and empty. 2,529th new moon that they have seen. Their attention, as always, is drawn to the borderlands west and north of their old homeland of Isingue, where the rangers guard the settled realms from the dangers of the Plaguelands.",
+        "",
+        "%% u0014:0-33, u0015:0-52, u0016:0-97, u0017:0-15, u0018:0-50 %%",
+        "DM: The prayers are numerous tonight. People pray for hope, healing, for escape to safety. To protect their loved ones, to survive the coming battle, to be brave in the face of their fear. There's little that one can do against this onslaught of prayers.",
+        "",
+        "%% u0019:0-105, u0020:0-28, u0021:0-111, u0022:0-91, u0023:0-97 %%",
+        "DM: On a hidden track, a captain at arms, Martin Strongbow, pauses in his nighttime gallop to tend his horse, offering a prayer for speed. The Fox breathes what life he can into the limbs of the man's horse. It stamps impatiently, eager for the race. The Hunter sees the path ahead, casting sight into the man's eyes to guide him in darkness. He'll ride far tonight, gathering troops to muster, protect the hidden life rescued from Isingue.",
+        "",
+        "%% u0024:0-74, u0025:0-35, u0026:0-36, u0027:0-122, u0028:0-37, u0029:0-158 %%",
+        "DM: The Hunter, as he does every night, spares a glance for this hidden magic, the blessing from the days of myth that the Rangers call the Heartroot. Frailty still clings to it, the wrongness of its shape here, away from home, apart from the contours and the flow and the path of the river that gave it birth. But as he does every night, the Hunter breathes life into the Heartroot, sustaining it in this unnatural space for another day, until it can be returned home.",
+        "",
+        "%% u0030:0-52, u0031:0-130, u0032:0-154 %%",
+        "DM: Many prayers come from the gathering at Three Wells. A familiar presence, a dear servant and ally, Cateline Malras, offers prayers of thanks for the aid that has arrived unexpectedly. Her prayers are the strongest, of course, and easiest to grasp, but they're just one of many of the prayers of thanks and hope that echo from Three Wells.",
+        "",
+        "%% u0033:0-94, u0034:0-123, u0035:0-178 %%",
+        "DM: As the night turns, the Fox and Hunter glance at the hobgoblins moving across the Plaguelands. The rippling echoes of Limbo still cling to them, the same strange contamination that has been growing the past two months. Worried, the gaze of the Fox and Hunter linger on these creatures as dawn breaks, and their movement slows to a halt as they begin to set camp for the day under a blanket of ash."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay. So, you return to the valley of… Three Wells, a camp, where the people of the Refounded Alliance of Aurbez gather to discuss and plan and make decisions for the community. And we pick up on the morning of August 8th, after the War Council, after the discussions and debates about what to do, when you have decided that after a rest, you will proceed with your campaign of harassment and guerrilla warfare against the hobgoblin army."
+        ],
+        "after": [
+          "DM: And so we pick up as you awake from your rest in the bustle of camp. Messages have gone out, the militias and rangers are mustering. I believe the decision of the council was to muster the forces to protect the Heartroot itself, the Hidden Valley, some…",
+          "DM: I have a map in Roll20. I think it's, like, 60, 70 miles from here. Load Roll20.",
+          "DM: Meanwhile, as you awake to breakfast in the camp… Let's see… Oh, no, it's only more like… 30 miles from here, 35 miles from here.",
+          "DM: So, as a reminder, you are here. I don't know if you can see Roll20. Yep. And this is the Hidden Valley. And the hobgoblins are somewhere here. Yeah, the hobgoblins are probably just on the edge of this map. So, what do you want to do?",
+          "Delwath: So… start a guerrilla warfare campaign, right?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "What the Heartroot is, and what the Empress wants",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0061",
+        "endUid": "u0106"
+      },
+      "lines": [
+        "%% u0061:0-63, u0062:0-67 %%",
+        "Kenzo: But, like, what, though? Like, a specific tree? Is it, like, a… Are they trying to kill… you know what I mean? Like, what are they…",
+        "",
+        "%% u0063:0-84, u0064:0-17 %%",
+        "Delwath: I thought… I thought they were trying to take it, but did I misunderstand that, Tim? I'll do that now.",
+        "",
+        "%% u0065:0-56, u0066:0-4, u0067:0-41, u0068:0-33, u0069:0-30 %%",
+        "DM: You don't know. What the hobgoblin you interrogated said was that the plan was to pierce the Heartroot with Chaos… with her Chaos Spear and take control of the magic.",
+        "",
+        "%% u0070:0-17, u0071:0-32, u0072:0-54 %%",
+        "Kenzo: Is the Heartroot… Now, should we ask our comrades? Do they know what the, what the goblin's referring to?",
+        "",
+        "%% u0073:0-3, u0074:0-34 %%",
+        "DM: So, this was explained at the council.",
+        "",
+        "%% u0075:0-22, u0076:0-134, u0077:0-67, u0078:0-127, u0079:0-24, u0080:0-183, u0081:0-170, u0082:0-27 %%",
+        "DM: So, Isingue—which is in the Plaguelands, it's, like, where Beryl was from, it was, like, one of the major axes of Cha'mutte's assault during the Great War—had this blessing. It was, like, there was some magic that made it very rich agricultural land, very fertile, very productive, healthy, like, the population grew fast, the animals thrived, like… And it was kind of like, I mean, there was the city of Isingue, but it wasn't a huge city, it was just… there was… it was, like, very densely settled little agricultural towns. Some of the vibe kind of, like… you know, like, little New England towns, everybody had, like, a town meeting, it's just like… but it was very rich agricultural, and there's some, like, southern France… agricultural vibes as well.",
+        "",
+        "%% u0083:0-47, u0084:0-45, u0085:0-21, u0086:0-37, u0087:0-42, u0088:0-69 %%",
+        "DM: That magic, according to Cateline, who was a… effectively, a priest of… priestess of Beryl, who is now a demigod, was described as some kind of living entity that spread through the soil, that connected to the roots of the plants, they're connected to the water.",
+        "",
+        "%% u0089:0-36, u0090:0-72, u0091:0-58, u0092:0-32, u0093:0-37 %%",
+        "DM: When the hobgoblins sacked Isingue, and when the plague descended, some rangers fled with a fragment of that soil of that root network, the, like, magic mycelium that was the cause of this fertility, and hid it in this valley in Aurbez.",
+        "",
+        "%% u0094:0-172, u0095:0-44, u0096:0-15, u0097:0-50 %%",
+        "DM: They have been charged with protecting it since, although it has never spread and grown in the same way, and the point of the intro was to hint that that's… has to do with… its actual physical connection to the river, to the Istaros. So, the Rangers are hoping to someday restore it.",
+        "",
+        "%% u0098:0-4, u0099:0-4, u0100:0-5 %%",
+        "((Brief pauses))",
+        "",
+        "%% u0101:0-72, u0102:0-54, u0103:0-90, u0104:0-38, u0105:0-153, u0106:0-133 %%",
+        "DM: Hobgoblin Empress of Chaos presumes somehow that she can corrupt it, or take a piece of it and use it to control the ooze, or destroy it, or… something. You don't know quite what, other than what's been described as… by the captive you interrogated, that… She wants to pierce the heart of the… the secret heart of the land with her chaos Spear, whatever that means, and she wants to take control of the magic. Which she believes will allow her to then control the Ooze Titan that lives in Isingue, and ride the Ooze Titan to destroy everybody."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So, as a reminder, you are here. I don't know if you can see Roll20. Yep. And this is the Hidden Valley. And the hobgoblins are somewhere here. Yeah, the hobgoblins are probably just on the edge of this map. So, what do you want to do?",
+          "Delwath: So… start a guerrilla warfare campaign, right?",
+          "Wellby: Can you see?",
+          "Kenzo: A couple quick meta questions. So, Heartroot? Right? That's, like, where the goblins… hobgoblins are trying to get to. Do we know, like, are they just… like, what is Heartroot? Is it, like, a physical… like, what are they trying to… what's their goal? Like, what is the… because, like, we're setting our defenses there, which is great, but, like, what's the… do we understand what exact… what precisely their goal is? Like, are they trying to destroy, like, a physical… space, or just the… like, what is their goal? Do we know their, like, specific goal?",
+          "Delwath: All I remember… I don't think we know anything beyond… that this… this Empress of Chaos, or whatever she's calling herself, thinks that it'll somehow help control the Isingue ooze."
+        ],
+        "after": [
+          "Kenzo: Got it. So actually, just learning all this, and in general, Kenzo, like, will, will, use his, you know, like, awareness, like, aura awareness, and also, like, talk with, talk with nature. Like, where is that? Like, he's gonna probe and try to figure out, like, just to understand, like, where is this? Is it… because it sounds like it's actually, like, a physical…",
+          "DM: Yeah, so you… I mean, the Rangers told you, right? It's… valley, you know where it is. There's a valley which is marked on the map that's in Roll20. I can probably kind of draw on this, yeah. I put, like, a sort of crude blue circle around it.",
+          "DM: So you know where it is. It's about 35, 40 miles away from where you are now. And, you know… Oh…",
+          "DM: I mean, so the rangers have kept it secret. They made you all… you may have seen in the session notes or remembered, they made you all swear an oath, because they don't openly discuss the location of this… magic. And so you have all sworn an oath to not reveal the location to anybody, but at this point, with it threatened, I mean… you know, the army is mustering, they don't necessarily know what they're protecting.",
+          "DM: And whether the best place to fight is precisely there, or, you know, somewhere in these woods, or, like, it's not… I don't know if the exact lines of battle have been settled completely."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Kenzo communes with the displaced Heartroot",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0152",
+        "endUid": "u0249"
+      },
+      "lines": [
+        "%% u0152:0-28, u0153:0-79, u0154:0-170 %%",
+        "DM: Okay, so Kenzo, as you walk, you begin, you know, you walk some… some way, and it's… this is a strong enough presence, that even though, you know, you can… you can sort of feel it at the edge of your consciousness even before you sort of activate this ability. And so it doesn't…",
+        "",
+        "%% u0155:0-107, u0156:0-41, u0157:0-3, u0158:0-11, u0159:0-40, u0160:0-5, u0161:0-46, u0162:0-5, u0163:0-57, u0164:0-245, u0165:0-6, u0166:0-39 %%",
+        "((Battle-planning interruption and plans for later communion))",
+        "",
+        "%% u0167:0-39, u0168:0-66, u0169:0-56, u0170:0-61, u0171:0-69, u0172:0-79, u0173:0-25, u0174:0-88, u0175:0-37 %%",
+        "DM: Okay, so, Kenzo, as Kenzo, as you walk… You, you can feel… feel this sense, tugging at you from the north. And it gets stronger as you sort of walk up up the hill from this valley, sort of following this stream a little bit. You go a couple miles, and you can feel the… presence of this… thing… strongly sort of tugging at you, and you reach out your consciousness. And the… the first thing that you notice as you reach out your consciousness and feel yourself make contact with this, or… or… or touch it somehow, is actually…",
+        "",
+        "%% u0176:0-64, u0177:0-90, u0178:0-63, u0179:0-23 %%",
+        "DM: The smell that kind of washes over you, rain and warm bread and yeast and ripe fruit, all kind of mixed together in a way that doesn't clash, that smells just rich. Like, each layer is distinct on top of one another. It almost draws you in.",
+        "",
+        "%% u0180:0-90, u0181:0-74, u0182:0-98, u0183:0-27 %%",
+        "DM: Pulls you towards it a little bit. And the next thing you feel as you touch it is not any… not any direct, sort of, sensory experience, but almost a lightness, like… like, the sort of spring of putting your hand on moss, right? That sort of… almost bouncy feeling. And the sound of a breeze.",
+        "",
+        "%% u0184:0-88, u0185:0-15, u0186:0-67, u0187:0-161 %%",
+        "DM: And then the warmth on your skin, and almost… you almost… this thing is deeply ancient, whatever it is. Incredibly old and much larger than even you, as strong as you are. And you're almost involuntarily pulled towards it. You almost disassociate from your body. It's like an involuntary use of your astral form, and it pulls at you.",
+        "",
+        "%% u0188:0-39, u0189:0-65, u0190:0-10, u0191:0-70, u0192:0-39 %%",
+        "DM: And you feel this, again, this sort of springy sensation, as if you're… you're walking on… on moss, and… closeness. Like, there's things all around you. You can't perceive what they are. But they feel… ancient. And also… bent.",
+        "",
+        "%% u0193:0-11 %%",
+        "Kenzo: Also, what?",
+        "",
+        "%% u0194:0-30 %%",
+        "DM: Bent. Bent. Bent out of shape.",
+        "",
+        "%% u0195:0-6 %%",
+        "Kenzo: Weird.",
+        "",
+        "%% u0196:0-37, u0197:0-80 %%",
+        "DM: This… thing does not fit where it is. It's… there's something wrong about how it… how it lies. It's trying to stretch.",
+        "",
+        "%% u0198:0-4 %%",
+        "Kenzo: Hmm.",
+        "",
+        "%% u0199:0-6 %%",
+        "DM: Can't.",
+        "",
+        "%% u0200:0-34, u0201:0-26 %%",
+        "Kenzo: We need to return this thing home. That's the deeper mission.",
+        "",
+        "%% u0202:0-81, u0203:0-29, u0204:0-19, u0205:0-29, u0206:0-78, u0207:0-75, u0208:0-42 %%",
+        "DM: And as you continue to commune with it, you hear… you begin to hear… the sounds kind of overwhelm your sense. Not just, you know, bird calls, and the sound of… of insects, of bees, but actually the… the sound, somehow, of… plants growing. Like, the sound of roots creeping through the soil and touching each other and twisting around each other. Hey, Eric!",
+        "",
+        "%% u0209:0-28, u0210:0-73 %%",
+        "DM: Kenzo is communing with the magical fertility magic of Isingue known to the Rangers as the Heartroot.",
+        "",
+        "%% u0211:0-94 %%",
+        "Kenzo: It's like, ancient superior plant intelligence, fertile, fertility demigod intelligence thing.",
+        "",
+        "%% u0212:0-27 %%",
+        "Seeker: In a weakened state, right?",
+        "",
+        "%% u0213:0-17, u0214:0-90, u0215:0-53, u0216:0-56 %%",
+        "DM: Yes, it's, it is… what I was saying just before you joined is that the thing that Kenzo feels is that it is… It is bent out of shape, like it's trying to stretch. And it can't, it's constrained, it's in the wrong place.",
+        "",
+        "%% u0217:0-72, u0218:0-15 %%",
+        "Kenzo: We need to bring it home. This is like a return, return the… return the… the thing home.",
+        "",
+        "%% u0219:0-182, u0220:0-23, u0221:0-103 %%",
+        "DM: So the sounds that you hear, again, are not just the sounds of bees and birds, the sounds of roots. Also, it's almost as if you can hear or almost feel within you the swell of fruit as it grows and ripens. And the… as this happens, there's a burst, a sensation of taste in the back of your mouth of sweetness.",
+        "",
+        "%% u0222:0-118, u0223:0-206, u0224:0-5 %%",
+        "((Battle-planning interruption and plans for later communion))",
+        "",
+        "%% u0225:0-215 %%",
+        "Kenzo: Basically, all of his off time, Kenzo is going to explore this… this sentience, this intelligence, whatever it is. And there are rangers around that, like, are experts in this thing, too, right? That, like, know it.",
+        "",
+        "%% u0226:0-17 %%",
+        "DM: Yeah, yeah, yeah.",
+        "",
+        "%% u0227:0-137, u0228:0-371, u0229:0-64, u0230:0-69, u0231:0-59, u0232:0-161, u0233:0-4, u0234:0-21, u0235:0-411, u0236:0-55, u0237:0-5, u0238:0-8, u0239:0-156, u0240:0-13, u0241:0-5 %%",
+        "((Battle-planning interruption and plans for later communion))",
+        "",
+        "%% u0242:0-75, u0243:0-99, u0244:0-49, u0245:0-158, u0246:0-50, u0247:0-62 %%",
+        "DM: So you spend… Kenzo, I mean, you end up feeling a bit lost in this entity. And some time passes, and you kind of shake yourself out. I mean, normally, this sense doesn't last a long… a long time, right? Normally, it sort of… you extend your consciousness, and you get something, and then it kind of goes away. But something about this entity sort of catches you as you're probing it. And you return to yourself maybe 30 minutes later. Still, with this kind of taste of sweetness and the… and the…",
+        "",
+        "%% u0248:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u0249:0-57 %%",
+        "DM: Sounds of the… of roots growing in the back of your mind."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Yeah, just really quick, Tim, what's the vibe? You know, Kenzo extends his consciousness out to try to, like… I mean, it must be very interesting and different relative to, like, you know, regular-ass, like, you know, plant life and stuff, so just… Very briefly, what's that?",
+          "DM: For sure. So, okay, so, so the vibe… as you reach your… as… as… so, Kenzo, what… well, actually, let's, if anybody… is anybody else doing any… so Kenzo's gonna, like, go for a morning walk, basically, and take a little walk, just a short distance out of camp, and sense, you know, extend his perception, sense around, get a sense of the land, and… check in with stuff. Is anybody else doing anything? Particular this morning that requires DM attention to resolve? Are you just kind of chilling at camp, making plans?",
+          "Wellby: Yeah, I think making battle plans is the…",
+          "Delwath: Order of business.",
+          "DM: Okay."
+        ],
+        "after": [
+          "Kenzo: And it's almost as though, because I was so early and punctual in my engagement with this, that I'm, like, additionally inspired. Like, I just feel this, like, rush of inspiration in my being. Eric, we came up with some new, some new, metagame policy rules, so if you're on time, or early, I think maybe more if you're early. You can get, like, an additional Bardic inspiration as a part of the thing. And if you're late, if you're, like, extra… you have paternity exemptions, so not for you.",
+          "Delwath: The rules don't apply to anybody with a [garbled]. But if you're…",
+          "Kenzo: If someone's, like, really late.",
+          "Delwath: Once your children are both over 2, they start applying.",
+          "Kenzo: Yeah, yeah, [garbled]. But then you get disadvantage on your first initiative in battle, if you're, like, really late, so we're doing a little incentivization of, right, so I'll just say, the first time Kong was ever early, he came up with this rule. Yeah, you gotta seize these opportunities in life, is what I've learned."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Delwath wishes General Alamandas were here",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0267",
+        "endUid": "u0272"
+      },
+      "lines": [
+        "%% u0267:0-3, u0268:0-184, u0269:0-39, u0270:0-46, u0271:0-77, u0272:0-78 %%",
+        "Delwath: So… Delwath's been, like, sort of sketching, like, little maps and the little things in the earth, and, like, scratching them out, and, like, sort of muttering about, like, if only General, you know, Alamandas was here, you know, she would really know what to do.((Spell planning))"
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: More inspiration for being even earlier.",
+          "Kenzo: Exactly.",
+          "Seeker: I don't want him to be lonely in the Zoom by himself, you know?",
+          "DM: Okay.",
+          "DM: So, a plan is to do some kind of attack. At the moment, as far as you're aware, the hobgoblins are something like 130 miles away from the river, and probably… Let's see, you're, maybe… you're maybe 120 miles away, so there are probably… you know, a few hundred miles away from you."
+        ],
+        "after": [
+          "Delwath: Tsunami? Have you looked at tsunami?",
+          "Seeker: I have a lot of catching up to do on that, I guess.",
+          "Delwath: Yeah, I put 4 spells in the chat that I think are the most effective that I found. Tsunami creates a 300-foot-tall, 300-foot-wide, 50-foot-thick wall of water that then moves 50 feet a turn for up to 6 turns. And it does… it does, 6d10 bludgeoning damage to every creature inside the wall, inside the tsunami. Or… or half on a successful save. And then, each turn, you move the wall, it gets smaller, and the damage goes down. Right? So, so, by the end, you're only doing 1d10 damage, right? But, you could get 3 quarters of the troops, probably.",
+          "Seeker: Where's Tim gonna get 30,000 D10s? That's ridiculous.",
+          "Delwath: ChatGPT!"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "A proposed Ladder mission inside the centipede",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0399",
+        "endUid": "u0405"
+      },
+      "lines": [
+        "%% u0399:0-68 %%",
+        "Delwath: I mean, I think sending a sacrificial victim… I mean, heroic Ladder.",
+        "",
+        "%% u0400:0-9, u0401:0-19 %%",
+        "Seeker: So, yeah. Ladder could do it.",
+        "",
+        "%% u0402:0-97 %%",
+        "Delwath: Could have some possibilities. I just… what would you… I don't know what we'd achieve down there.",
+        "",
+        "%% u0403:0-43, u0404:0-18, u0405:0-148 %%",
+        "Seeker: Well, either it has a brain that you could… You know, cut its… or something, and then it will stop moving, or it has some other control mechanism that you could take over and steer it into the ocean or whatever."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Yeah, we could just heat up the head, or whatever.",
+          "Delwath: Yeah? I mean, I think the main question is, is the plan… so, the challenge with the guerrilla warfare stuff is, how do we get there? How do we get away? That's pretty much the two challenges.",
+          "Seeker: Yeah. Did anybody think about my idea of, So…",
+          "Delwath: Wasps?",
+          "Seeker: You're just going in through the… It's a portal. The port on the back of the thing."
+        ],
+        "after": [
+          "Delwath: I bet you it's, like, sentient metal. Wasn't it very Terminator 2 vibey?",
+          "Seeker: That was the special armor of the Empress.",
+          "Wellby: Jesus. Yeah.",
+          "Delwath: Oh, is the centipede more like a normal mech? Normal.",
+          "DM: I mean… You never really got a good look at it, because… It was… Billowing ash. Like, it's…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Why Cha’mutte’s army became enemies of the gods",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0484",
+        "endUid": "u0495"
+      },
+      "lines": [
+        "%% u0484:0-99, u0485:0-90 %%",
+        "DM: I mean, again, there's, like, a pre-Cha'mutte, and there's a post-Cha'mutte, and it's a little bit… It's a little bit difficult to disentangle the Cha'mutte aspect from the Hobgoblin aspect.",
+        "",
+        "%% u0486:0-6 %%",
+        "Delwath: Right.",
+        "",
+        "%% u0487:0-62, u0488:0-105, u0489:0-36 %%",
+        "DM: And I actually don't know, I haven't really made up much about pre-Cha'mutte hobgoblins, although there's evidence that there's some hobgoblins who rejected Cha'mutte's desires for good or for bad reasons.",
+        "",
+        "%% u0490:0-142 %%",
+        "DM: Cha'mutte was, of course, dedicated to overthrowing the gods, and so, in the course of the Great War, Cha'mutte's allies got painted with the…",
+        "",
+        "%% u0491:0-5 %%",
+        "Delwath: Same.",
+        "",
+        "%% u0492:0-70 %%",
+        "DM: “enemies of the gods” brush, as hobgoblins were the major force of his…",
+        "",
+        "%% u0493:0-6 %%",
+        "Delwath: Right.",
+        "",
+        "%% u0494:0-5, u0495:0-139 %%",
+        "DM: Army. You know, and in fact, many of the Hobgoblins that still exist in this part of the world are, in fact, the survivors of Cha'mutte's armies."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Oh, I mean, the one defining feature of all hobgoblin cultures is… they… do not… so they… they have no divine magic, they don't worship gods. So, you know, in… not that they deny the existence of gods, because they're sort of undeniable, but they don't… there are no Hobgoblin gods, there's no, like, Hobgoblin firstborn, there's no… they are not endowed with the ability to create, you know, these incorporeal gods by the power of their belief. There are no Hobgoblin clerics. There's plenty of hobgoblin wizards and bards and things like that, but… so…",
+          "DM: You know, there's not… they don't have the same sort of shared mythology that, like, halflings or dwarves or elves might have, and even humans, right? Like… you know, Hobgoblin individual groups of hobgoblins might be even more diverged than humans, because there's not, like, a handful of common religions that they share. So, in short, the answer is, like, no, basically. It's not like some…",
+          "Delwath: Is there any sense in which Hobgoblins are… Like, do we know anything? How do the gods feel about the hobgoblins? I mean, what's the, like, you know, what does the human religion… What does, like, Mos Numena say about…",
+          "DM: Right.",
+          "Delwath: [garbled]."
+        ],
+        "after": [
+          "Delwath: Right.",
+          "Delwath: So, but there isn't… we don't have any sense that, like… Nobody really knows from the Hobgoblin perspective, like, are they afraid the gods might decide to punish them? Are they… you know, happy that they don't have divine magic, because they're not under the… you know, we… maybe the answer is we have no idea, or they, like… Were they, like, siding with Cha'mutte because they're… they think the gods are a problem for them? And they thought it'd be great if the gods were dead, because now they don't have to worry about something, right? Like…",
+          "Kenzo: Yep. Yeah.",
+          "DM: Sorry.",
+          "Delwath: I have no idea."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Revaka advises exposing the Empress’s weakness",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0512",
+        "endUid": "u0715"
+      },
+      "lines": [
+        "%% u0512:0-59 %%",
+        "Delwath: Let's, yeah, let's just… we just summoned the court wizard.",
+        "",
+        "%% u0513:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u0514:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u0515:0-31 %%",
+        "Delwath: We're just gonna ask her, like…",
+        "",
+        "%% u0516:0-13 %%",
+        "DM: Looks at you.",
+        "",
+        "%% u0517:0-29 %%",
+        "Kenzo: That's what he, what he says.",
+        "",
+        "%% u0518:0-4 %%",
+        "Delwath: She.",
+        "",
+        "%% u0519:0-10 %%",
+        "Kenzo: Defensive.",
+        "",
+        "%% u0520:0-3 %%",
+        "DM: So…",
+        "",
+        "%% u0521:0-23 %%",
+        "Kenzo: Do you have any advice?",
+        "",
+        "%% u0522:0-27, u0523:0-75, u0524:0-25, u0525:0-166, u0526:0-137, u0527:0-32, u0528:0-32, u0529:0-62 %%",
+        "DM: Revaka looks at you… sighs. You know, for her, Cha'mutte was the boogeyman, right? Like, you know… the… And in fact, many of her… of her allies, the Hobgoblins who tried to… I mean, she was… she was not a good person, right? I mean, she was a warlord, right? She was a bandit, she was… wanted to… have her own part of the reason she didn't like Cha'mutte, which she established in the Circular Island, was precisely because she wanted to have her own little personal… realm of banditry and, you know… And Cha'mutte was insisting that she work for a greater cause.",
+        "",
+        "%% u0530:0-83, u0531:0-105 %%",
+        "DM: So her perspective is biased by that, right? I mean, she, you know, she's… she saw… any higher, you know, she wanted to be the highest authority. She didn't want to be under anyone's thumb.",
+        "",
+        "%% u0532:0-108 %%",
+        "Kenzo: Wait, but she also is now currently in the same cell as the other Hobgoblin, which she's been interrogating.",
+        "",
+        "%% u0533:0-71 %%",
+        "DM: Yeah, he is unconscious on the floor when you summon her to the mirror.",
+        "",
+        "%% u0534:0-37, u0535:0-42, u0536:0-59 %%",
+        "Delwath: So here's an actual question for her. How should we enhance or modify this plan? To better set up you to come in and take over these people.",
+        "",
+        "%% u0537:0-19 %%",
+        "Kenzo: Yeah, there you go.",
+        "",
+        "%% u0538:0-191 %%",
+        "Delwath: Because what we really want is for her to become the leader, and lead them away, because that's our deal with her, is we'll let her out of… right? I mean, she agreed to this deal, didn't she?",
+        "",
+        "%% u0539:0-114, u0540:0-10, u0541:0-52, u0542:0-117, u0543:0-4, u0544:0-56, u0545:0-13, u0546:0-145, u0547:0-17, u0548:0-142, u0549:0-78, u0550:0-33, u0551:0-127, u0552:0-68, u0553:0-97, u0554:0-128, u0555:0-175, u0556:0-53, u0557:0-9, u0558:0-119, u0559:0-92, u0560:0-252, u0561:0-48, u0562:0-5, u0563:0-26, u0564:0-45, u0565:0-109, u0566:0-98, u0567:0-11, u0568:0-34, u0569:0-84, u0570:0-26, u0571:0-83, u0572:0-58, u0573:0-4, u0574:0-71, u0575:0-4, u0576:0-5, u0577:0-18, u0578:0-18, u0579:0-91, u0580:0-4, u0581:0-64, u0582:0-31, u0583:0-9, u0584:0-16, u0585:0-31, u0586:0-28, u0587:0-79, u0588:0-47, u0589:0-73, u0590:0-115, u0591:0-36, u0592:0-72, u0593:0-13, u0594:0-39, u0595:0-33, u0596:0-6, u0597:0-166, u0598:0-167, u0599:0-90, u0600:0-188, u0601:0-70, u0602:0-64, u0603:0-62, u0604:0-26, u0605:0-10, u0606:0-281, u0607:0-30, u0608:0-45, u0609:0-6, u0610:0-24, u0611:0-76, u0612:0-4, u0613:0-68, u0614:0-62, u0615:0-42, u0616:0-9, u0617:0-28, u0618:0-144, u0619:0-58, u0620:0-35, u0621:0-70, u0622:0-79, u0623:0-6, u0624:0-60, u0625:0-106, u0626:0-82, u0627:0-20, u0628:0-55, u0629:0-28, u0630:0-5, u0631:0-6, u0632:0-32, u0633:0-154, u0634:0-18, u0635:0-36, u0636:0-26, u0637:0-11, u0638:0-6, u0639:0-122, u0640:0-81, u0641:0-28, u0642:0-69, u0643:0-44, u0644:0-43, u0645:0-90, u0646:0-174, u0647:0-10, u0648:0-23, u0649:0-72, u0650:0-59, u0651:0-5, u0652:0-48, u0653:0-187, u0654:0-17, u0655:0-18, u0656:0-34, u0657:0-92, u0658:0-43, u0659:0-11, u0660:0-43, u0661:0-22, u0662:0-39, u0663:0-10, u0664:0-54, u0665:0-18, u0666:0-55, u0667:0-8, u0668:0-8, u0669:0-113, u0670:0-75, u0671:0-19, u0672:0-25, u0673:0-44, u0674:0-34, u0675:0-44, u0676:0-69, u0677:0-9 %%",
+        "((Jokes, unrelated spell planning and repeated question setup))",
+        "",
+        "%% u0678:0-40, u0679:0-133, u0680:0-52 %%",
+        "Delwath: Drop very powerful magic spells on them. And we want to do this… we want to cause fear and uncertainty and dissent amongst the ranks, right? We want to use this as a sort of… the Chaos Empress is not all she's cracked up to be.",
+        "",
+        "%% u0681:0-17 %%",
+        "Kenzo: Exactly, exactly.",
+        "",
+        "%% u0682:0-92, u0683:0-72 %%",
+        "Delwath: You should be afraid of her enemies. We're not actually here to hurt you, we're here because you're the enemy, you know, you're working for the Chaos Empress, right?",
+        "",
+        "%% u0684:0-14 %%",
+        "Kenzo: Yeah, exactly.",
+        "",
+        "%% u0685:0-19, u0686:0-81, u0687:0-54, u0688:0-39 %%",
+        "Delwath: I want her to help us put that into hobgoblin-ish terms that would actually be more effective. And… we're looking for her help in anything we should drop that can become foreshadowing for her.",
+        "",
+        "%% u0689:0-74, u0690:0-67, u0691:0-116, u0692:0-3, u0693:0-10 %%",
+        "((Jokes, unrelated spell planning and repeated question setup))",
+        "",
+        "%% u0694:0-17, u0695:0-116, u0696:0-65, u0697:0-45, u0698:0-94, u0699:0-57, u0700:0-78, u0701:0-44, u0702:0-116 %%",
+        "DM: So, so, she says… you know, like, like she said before, she doesn't know the Iron Fang, she doesn't know this group, she doesn't know… their circumstance, but… Strength in battle is what they respect. Will not follow a leader who's been defeated. And… that's how you describe… I mean, that's typical, like, in her experience, right? This is… You know, the tales from her grandfather at the court of… the Dominion of Avatus and things like that, like, going back, right? I mean… It's often a very, sort of, warlord-centric. Again, her experience, like, who knows if she's speaking for all Hobgoblins or not. This is just what she tells you.",
+        "",
+        "%% u0703:0-30 %%",
+        "Kenzo: So here's a thought, question.",
+        "",
+        "%% u0704:0-71 %%",
+        "DM: So, so prove she can't defend them. Prove she can't keep the army safe.",
+        "",
+        "%% u0705:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u0706:0-45 %%",
+        "Delwath: And we could even… what if we… here's a plan…",
+        "",
+        "%% u0707:0-73, u0708:0-47, u0709:0-50, u0710:0-33, u0711:0-67, u0712:0-52 %%",
+        "Delwath: We could show up and say that we are the enemies of the Empress of Chaos. We are here to punish all those who follow her. And we are daring her to face us in single combat. without her army, as a, you know… if she wants the punishment to stop, challenge us to single combat. She's the Empress of Chaos, she can take four of us.",
+        "",
+        "%% u0713:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u0714:0-170, u0715:0-229 %%",
+        "Kenzo: That's actually… so I… okay, I like this plan a little bit more than, like, potentially, like, propping up the, this other, you know, like, our captured hobgoblin person. So, yeah, I think that's cool. I think, like, if the four of us, like, just, like, show up, and we're hovering, and we're like, hey, challenge us, or face more, so it's, like, clear that we're… the four of us are, like, the ones."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Sorry.",
+          "Delwath: I have no idea.",
+          "DM: I don't think you have any idea, and again, I don't think that there's… There's not any clear reason to believe that this was a… that there was any sort of universal belief, even among… We should use.",
+          "Delwath: We should ask the weird wizard woman.",
+          "Kenzo: Exactly, yeah. Can we just ask it, like… like, we can tell him our plan, and just be like, hey, like, is there… should we invoke something here, or just, like, you know, just to see if he's…"
+        ],
+        "after": [
+          "Delwath: Yeah, yeah, no, I think we… I think we start with softening them up. We demonstrate our power to start, right?",
+          "Kenzo: Yeah. With…",
+          "Delwath: With… by softening them up with, you know, these spells. Do we have any… we don't… We don't have any way of… We don't actually have any way of… of, like, making big illusions, do we?",
+          "Kenzo: No, we do, we totally do. Like, I was just gonna say, like, like, Tim, like, Kenzo's got some cantrip-y stuff, right? So it's also, like, you know, astral projection plus, like, you know, big glowing aura, you know, shit like that.",
+          "DM: I mean, those are not… Those are not, I would say, huge."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "The tsunami raid drives soldiers to flee",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0927",
+        "endUid": "u1241"
+      },
+      "lines": [
+        "%% u0927:0-77, u0928:0-9, u0929:0-26, u0930:0-20, u0931:0-11 %%",
+        "DM: So… This tsunami appears in the front of this creature, this massive wall of… of water. ((Dice setup)) And it crashes down across the…",
+        "",
+        "%% u0932:0-129, u0933:0-30, u0934:0-74, u0935:0-131, u0936:0-28, u0937:0-25, u0938:0-99, u0939:0-36, u0940:0-101, u0941:0-76, u0942:0-13, u0943:0-4, u0944:0-17, u0945:0-17, u0946:0-32, u0947:0-31, u0948:0-50, u0949:0-21, u0950:0-43, u0951:0-20, u0952:0-15, u0953:0-54, u0954:0-54, u0955:0-61, u0956:0-121, u0957:0-53, u0958:0-20, u0959:0-35, u0960:0-44, u0961:0-34, u0962:0-108, u0963:0-38, u0964:0-36, u0965:0-83, u0966:0-8, u0967:0-20, u0968:0-28, u0969:0-137, u0970:0-51, u0971:0-26, u0972:0-5, u0973:0-4, u0974:0-37, u0975:0-4, u0976:0-96, u0977:0-4, u0978:0-25, u0979:0-13, u0980:0-118, u0981:0-11, u0982:0-87, u0983:0-72, u0984:0-20, u0985:0-5, u0986:0-32, u0987:0-25, u0988:0-42, u0989:0-5, u0990:0-64, u0991:0-68, u0992:0-9, u0993:0-28, u0994:0-5, u0995:0-58, u0996:0-8, u0997:0-79, u0998:0-5, u0999:0-72, u1000:0-29, u1001:0-8, u1002:0-4, u1003:0-5, u1004:0-57, u1005:0-17, u1006:0-5, u1007:0-13, u1008:0-77, u1009:0-48, u1010:0-40, u1011:0-40, u1012:0-23, u1013:0-5, u1014:0-24, u1015:0-44, u1016:0-36, u1017:0-16, u1018:0-13, u1019:0-24, u1020:0-54, u1021:0-164, u1022:0-4, u1023:0-16, u1024:0-57, u1025:0-60, u1026:0-7, u1027:0-78, u1028:0-62, u1029:0-3, u1030:0-53, u1031:0-119, u1032:0-96, u1033:0-83, u1034:0-29, u1035:0-40, u1036:0-21, u1037:0-9, u1038:0-40, u1039:0-19, u1040:0-87, u1041:0-33, u1042:0-10, u1043:0-20, u1044:0-12, u1045:0-28, u1046:0-6, u1047:0-41, u1048:0-77, u1049:0-73, u1050:0-44, u1051:0-11, u1052:0-73, u1053:0-72, u1054:0-33, u1055:0-47, u1056:0-110, u1057:0-24, u1058:0-42, u1059:0-64, u1060:0-42, u1061:0-16, u1062:0-92, u1063:0-82, u1064:0-5, u1065:0-5, u1066:0-41, u1067:0-38, u1068:0-38, u1069:0-5, u1070:0-104, u1071:0-6, u1072:0-37, u1073:0-60, u1074:0-27, u1075:0-51, u1076:0-13, u1077:0-97, u1078:0-114, u1079:0-23, u1080:0-22, u1081:0-15, u1082:0-41, u1083:0-87, u1084:0-24, u1085:0-25, u1086:0-54, u1087:0-5, u1088:0-5, u1089:0-60, u1090:0-31, u1091:0-9, u1092:0-87, u1093:0-60, u1094:0-43, u1095:0-59, u1096:0-5, u1097:0-31, u1098:0-5, u1099:0-83, u1100:0-59, u1101:0-6, u1102:0-89, u1103:0-7, u1104:0-9, u1105:0-3, u1106:0-18, u1107:0-44, u1108:0-12, u1109:0-60, u1110:0-52, u1111:0-18, u1112:0-44, u1113:0-34, u1114:0-53, u1115:0-24, u1116:0-64, u1117:0-5, u1118:0-172, u1119:0-39, u1120:0-50, u1121:0-46, u1122:0-63, u1123:0-10, u1124:0-45 %%",
+        "((Combat actions, mechanics and table discussion))",
+        "",
+        "%% u1125:0-93, u1126:0-5, u1127:0-273 %%",
+        "DM: ((Combat timing))and you can see, even from this distance, now, all of these, like… so at the back of this creature has, like, these giant metal plates that were booming and crashing together, billowing out ash. They're now all tightly closed.",
+        "",
+        "%% u1128:0-57, u1129:0-35, u1130:0-14, u1131:0-28, u1132:0-58 %%",
+        "((Combat actions, mechanics and table discussion))",
+        "",
+        "%% u1133:0-43, u1134:0-66 %%",
+        "DM: The density of the bodies… the first, like… 150 feet is just dense bodies, and then it thins out dramatically.",
+        "",
+        "%% u1135:0-27, u1136:0-8, u1137:0-28, u1138:0-4, u1139:0-25, u1140:0-30, u1141:0-5, u1142:0-65, u1143:0-9, u1144:0-20, u1145:0-36, u1146:0-24, u1147:0-8, u1148:0-34, u1149:0-5, u1150:0-62, u1151:0-33, u1152:0-46, u1153:0-6, u1154:0-136, u1155:0-17, u1156:0-6, u1157:0-5, u1158:0-41, u1159:0-18, u1160:0-29, u1161:0-94, u1162:0-12, u1163:0-76, u1164:0-32, u1165:0-55, u1166:0-39, u1167:0-129, u1168:0-22, u1169:0-4, u1170:0-31, u1171:0-10, u1172:0-23, u1173:0-7, u1174:0-13, u1175:0-12, u1176:0-15 %%",
+        "((Combat actions, mechanics and table discussion))",
+        "",
+        "%% u1177:0-53, u1178:0-88, u1179:0-8, u1180:0-8, u1181:0-59, u1182:0-80, u1183:0-43, u1184:0-60 %%",
+        "DM: Yeah, I don't think that makes a big difference. The… the empress, who is listening to your speech, kind of looks back nervously at her army, and you… can see… a few… like, there's a few stragglers, maybe 20 or 30 that were at the very end, where the tsunami didn't reach, who just jump off running in the opposite direction of the centipede. But there's nobody else that you can see from where you are.",
+        "",
+        "%% u1185:0-15, u1186:0-50, u1187:0-4, u1188:0-4, u1189:0-93, u1190:0-89, u1191:0-5, u1192:0-65, u1193:0-5, u1194:0-6, u1195:0-4, u1196:0-8, u1197:0-32, u1198:0-22, u1199:0-4, u1200:0-8, u1201:0-71, u1202:0-12, u1203:0-40, u1204:0-32, u1205:0-63, u1206:0-10, u1207:0-10, u1208:0-44, u1209:0-29, u1210:0-91, u1211:0-5, u1212:0-94, u1213:0-82, u1214:0-55, u1215:0-55, u1216:0-53, u1217:0-5, u1218:0-70, u1219:0-103, u1220:0-25, u1221:0-99, u1222:0-86, u1223:0-20, u1224:0-18, u1225:0-14, u1226:0-91, u1227:0-73, u1228:0-109, u1229:0-91, u1230:0-59, u1231:0-85, u1232:0-5, u1233:0-71, u1234:0-19, u1235:0-59, u1236:0-90, u1237:0-5 %%",
+        "((Combat actions, mechanics and table discussion))",
+        "",
+        "%% u1238:0-34, u1239:0-74, u1240:0-116, u1241:0-43 %%",
+        "DM: So you appear back at Three Wells.((Scrying preparation))"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So it no longer takes a minute to cast. Seeker just says, “There should be a tsunami there.”",
+          "Delwath: Wish is so awesome!",
+          "Seeker: Oh, I should reset my character sheet, I probably can long rest.",
+          "Delwath: Yes.",
+          "DM: Yes, you should have long rested, and then mark off your 8th and 9th level slots."
+        ],
+        "after": [
+          "Delwath: Yep.",
+          "DM: A few minutes later, you see the image shimmering and appear. You can see the centipede moving. It's not moving fast enough that it's moved entirely out of the…",
+          "Delwath: Visual.",
+          "DM: Out of the visual by the time you finish casting the spell. It's… still moving in this direction. There are… there's no ash. It's in the clear, and there's no… visible Hobgoblins. Except the… Empress, now riding at the head of the centipede.",
+          "Kenzo: Is it all enclosed now?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Scrying reveals the raid’s toll and the centipede’s shelter",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1243",
+        "endUid": "u1272"
+      },
+      "lines": [
+        "%% u1243:0-88, u1244:0-72 %%",
+        "DM: A few minutes later, you see the image shimmering and appear. You can see the centipede moving. It's not moving fast enough that it's moved entirely out of the…",
+        "",
+        "%% u1245:0-7 %%",
+        "Delwath: Visual.",
+        "",
+        "%% u1246:0-59, u1247:0-5, u1248:0-58, u1249:0-54, u1250:0-61 %%",
+        "DM: Out of the visual by the time you finish casting the spell. It's… still moving in this direction. There are… there's no ash. It's in the clear, and there's no… visible Hobgoblins. Except the… Empress, now riding at the head of the centipede.",
+        "",
+        "%% u1251:0-23 %%",
+        "Kenzo: Is it all enclosed now?",
+        "",
+        "%% u1252:0-17 %%",
+        "Delwath: Is it all closed?",
+        "",
+        "%% u1253:0-220, u1254:0-89 %%",
+        "DM: It's all, like, all the scales are, like, closed up. It's actually much narrower now, because these long spines that have… that stretched out, that formed the platforms the army was hanging on, have all, like, wrapped up like this, like, like, curling up over the top, like, just closing everything up tightly.",
+        "",
+        "%% u1255:0-17 %%",
+        "Kenzo: Are there bodies?",
+        "",
+        "%% u1256:0-23, u1257:0-24 %%",
+        "DM: Yeah, oh yeah, there's… Maybe a thousand bodies?",
+        "",
+        "%% u1258:0-15 %%",
+        "Kenzo: Wow. Hell yeah.",
+        "",
+        "%% u1259:0-29 %%",
+        "Wellby: What is that, like a quarter?",
+        "",
+        "%% u1260:0-36 %%",
+        "Delwath: That's, like, a quarter of the army.",
+        "",
+        "%% u1261:0-32 %%",
+        "DM: It's like a quarter of the army.",
+        "",
+        "%% u1262:0-4 %%",
+        "Wellby: Wow.",
+        "",
+        "%% u1263:0-10, u1264:0-10 %%",
+        "Kenzo: Go Seeker! Nice Wish.",
+        "",
+        "%% u1265:0-5 %%",
+        "Seeker: Easy.",
+        "",
+        "%% u1266:0-64 %%",
+        "Kenzo: Wow. You just killed a thousand hobgoblins, that's pretty crazy.",
+        "",
+        "%% u1267:0-52 %%",
+        "Wellby: But we probably can't do that trick again then, huh?",
+        "",
+        "%% u1268:0-37, u1269:0-19, u1270:0-33 %%",
+        "Seeker: Well, that's an interesting question. What could they do? Well, they can stay inside of it.",
+        "",
+        "%% u1271:0-92, u1272:0-42 %%",
+        "DM: They seem to be riding inside it, which has the downside of turning off the ash. They can't… Spray ash if they're all wrapped up tight."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Scry it there, yes.",
+          "Delwath: But I can also short rest, I can cast it again, so, I mean… there's no downside in just trying the place, and if there's nothing there, I'll try hers.",
+          "Kenzo: Cool.",
+          "DM: So you appear back at Three Wells. Around sun… this is now around… it's around sunset, it's the evening. Yep. And immediately Delwath pulls out his silver mirror, or bowl of water, I forget what it is, and begins to cast Scry, targeting the location where you just were.",
+          "Delwath: Yep."
+        ],
+        "after": [
+          "Kenzo: Heat metal. Can you…",
+          "Seeker: It's worth… it's worth a try.",
+          "Kenzo: Can you use your glove to heat metal, like, at scale to make it, like, extra, like, let's heat up the whole centipede, like, extra hot?",
+          "Seeker: What about all the…",
+          "Wellby: Wall of fire to heat metal. I mean, to put a… put a wall of fire in the middle of the thing…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "The Empress is bonded to living chaos metal",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1305",
+        "endUid": "u1335"
+      },
+      "lines": [
+        "%% u1305:0-43, u1306:0-18 %%",
+        "Delwath: Yes. But tonight, I'm casting Dream on her. In the scary mode.",
+        "",
+        "%% u1307:0-26, u1308:0-15 %%",
+        "((Brief interruption))",
+        "",
+        "%% u1309:0-114 %%",
+        "DM: Her sleeping. You've tried this before, and you stayed up all night, and as far as you're aware, she never sleeps.",
+        "",
+        "%% u1310:0-34 %%",
+        "Delwath: Yeah, yeah, yeah, yeah, nevermind.",
+        "",
+        "%% u1311:0-64 %%",
+        "Kenzo: Why is she never sleeping? She's, like, she's not undead, right?",
+        "",
+        "%% u1312:0-88 %%",
+        "Delwath: She… she, like, is in… she's like… she's like Terminator 2. Did Terminator 2 ever sleep?",
+        "",
+        "%% u1313:0-28, u1314:0-34 %%",
+        "Kenzo: Is she actually a Hobgoblin? Like, what's her… she's, she's on.",
+        "",
+        "%% u1315:0-23 %%",
+        "Delwath: That's a good question.",
+        "",
+        "%% u1316:0-29 %%",
+        "Kenzo: She's like a humanoid, right?",
+        "",
+        "%% u1317:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u1318:0-18 %%",
+        "Kenzo: She's a Hobgoblin.",
+        "",
+        "%% u1319:0-82 %%",
+        "DM: She is a Hobgoblin, she's obviously not just a straightforwardly normal Hobgoblin.",
+        "",
+        "%% u1320:0-139 %%",
+        "Kenzo: But, like, yeah, but what about her aura is different? Is she… does she feel, like, part… you know, just in the soul-sight context, is she.",
+        "",
+        "%% u1321:0-68, u1322:0-71 %%",
+        "DM: Yeah, yeah, no, I think I described this, right? Like, there's this, ripple of this sort of chaotic energy that's intertwined with her aura.",
+        "",
+        "%% u1323:0-198, u1324:0-78, u1325:0-56 %%",
+        "Kenzo: So she's like a… she's like Venom from Spider-Man. She's like a… she's like a human, or like a… like a Hobgoblin, but then she's, like, part… she's got a parasitic relationship with, like, an alien… Evil alien metal. Chaos Metal, right? Actually, Tim, is the Chaos Metal itself a being, an entity? Like, do I send them… do I sense it.",
+        "",
+        "%% u1326:0-156 %%",
+        "DM: No, no, you tried aura sensing the centipede, and it's a com… it's not a… it has no soul, it's just a construct, it's made of… it's like living chaos metal.",
+        "",
+        "%% u1327:0-20 %%",
+        "Kenzo: Right, but it's not…",
+        "",
+        "%% u1328:0-105, u1329:0-66 %%",
+        "DM: Yes, I mean, that's your… that's the vibe you get… you got from Aura sensing the Empress, is like, she's… bonded to this armor somehow, and it's infused with her aura, and…",
+        "",
+        "%% u1330:0-24 %%",
+        "Kenzo: It's magic. It is magic.",
+        "",
+        "%% u1331:0-40 %%",
+        "DM: Oh, yeah, yeah, yeah, it's deeply magic.",
+        "",
+        "%% u1332:0-5 %%",
+        "Kenzo: Cool.",
+        "",
+        "%% u1333:0-132 %%",
+        "Kenzo: Do you, Seeker does, like, some kind of… like, can you do, like, Arcana, like, on that? Like, what the hell is this thing? This is…",
+        "",
+        "%% u1333:132-265, u1334:0-43, u1335:0-11 %%",
+        "DM: Yeah, you try… I mean, you try. The Chaos Metal is nothing anybody's heard of, although I guess Seeker is quite, I mean, intra… like… Maybe Seeker should parasitically bond to… some chaos."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Yeah. You should research that in your next… round.",
+          "Seeker: Yeah. No.",
+          "DM: Kenzo returns to communing with the… with the Heartroot, as the rest of you discuss the results of your day's excursion. Fairly successful excursion.",
+          "Kenzo: Hell yeah, we just killed a quarter of the army, that's, like, amazing. Great job.",
+          "DM: And… rest, I presume?"
+        ],
+        "after": [
+          "Kenzo: Why are you suggesting things like this, Tim? Why are you… what's your… what is your agenda, Tim?",
+          "Seeker: Didn't mention it.",
+          "Delwath: The third post-credits scene. Seeker.",
+          "Kenzo: Yeah, no, no, no, no. Actually, actually, this would truly be the ultimate for Seeker to be the villain of the next campaign.",
+          "DM: No, Seeker has to join the… isn't Seeker gonna join the Philosopher's Guild?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Seeker’s possible future with the Philosophers",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1340",
+        "endUid": "u1342"
+      },
+      "lines": [
+        "%% u1340:0-76 %%",
+        "DM: No, Seeker has to join the… isn't Seeker gonna join the Philosopher's Guild?",
+        "",
+        "%% u1341:0-79, u1342:0-154 %%",
+        "Kenzo: I mean… I don't think that's powerful to be the archenemy of the next campaign. We talked about this, right? Where it's like, where it's like, you know, at some point, our character, like, shifts into being an NPC, and then, you know…"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah, you try… I mean, you try. The Chaos Metal is nothing anybody's heard of, although I guess Seeker is quite, I mean, intra… like… Maybe Seeker should parasitically bond to… some chaos.",
+          "Kenzo: Why are you suggesting things like this, Tim? Why are you… what's your… what is your agenda, Tim?",
+          "Seeker: Didn't mention it.",
+          "Delwath: The third post-credits scene. Seeker.",
+          "Kenzo: Yeah, no, no, no, no. Actually, actually, this would truly be the ultimate for Seeker to be the villain of the next campaign."
+        ],
+        "after": [
+          "Seeker: Right.",
+          "DM: Yeah, yeah, I mean, you all have, like, a month to figure out your characters' epilogue. It can be… If Eric wants Seeker to become the villain, it's totally plausible.",
+          "Seeker: I don't know.",
+          "DM: But…",
+          "Delwath: I don't know, Seeker's."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Earthquake and a noon challenge to the Empress",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1711",
+        "endUid": "u1771"
+      },
+      "lines": [
+        "%% u1711:0-71 %%",
+        "DM: So, the earthquake begins to shake the ground.((Fissure mechanics))",
+        "",
+        "%% u1712:0-8, u1713:0-14, u1714:0-20, u1715:0-8, u1716:0-77, u1717:0-29, u1718:0-21, u1719:0-7, u1720:0-46, u1721:0-16, u1722:0-4, u1723:0-11, u1724:0-33, u1725:0-27, u1726:0-54, u1727:0-56, u1728:0-4, u1729:0-56, u1730:0-82, u1731:0-9, u1732:0-135, u1733:0-50, u1734:0-11, u1735:0-31, u1736:0-47, u1737:0-78, u1738:0-11 %%",
+        "((Earthquake mechanics and teleport-pebble discussion))",
+        "",
+        "%% u1739:0-20 %%",
+        "DM: Delwath repeats his…",
+        "",
+        "%% u1740:0-41 %%",
+        "Delwath: Yeah, but with the added show up at noon.",
+        "",
+        "%% u1741:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u1742:0-47, u1743:0-74, u1744:0-147, u1745:0-6 %%",
+        "Delwath: Right? If you, if you dare, you know, weakling… Empress of Chaos, right, who hides behind her army and does not, you know. Blah blah. And a little bit of, you know, the same message of, you know, run away from your empress, weaklings, you know, she is not worthy of you. Right?",
+        "",
+        "%% u1746:0-4 %%",
+        "DM: Yep.",
+        "",
+        "%% u1747:0-124 %%",
+        "Delwath: Blah blah blah. The beatings will continue until we kill you all, or you betray her and send her out to us in single combat.",
+        "",
+        "%% u1748:0-6 %%",
+        "Seeker: Right.",
+        "",
+        "%% u1749:0-26 %%",
+        "Delwath: And then we teleport away.",
+        "",
+        "%% u1750:0-5 %%",
+        "DM: Okay?",
+        "",
+        "%% u1751:0-106, u1752:0-11, u1753:0-104, u1754:0-30, u1755:0-131, u1756:0-32, u1757:0-104, u1758:0-26, u1759:0-5, u1760:0-94, u1761:0-27, u1762:0-35, u1763:0-44, u1764:0-19, u1765:0-26, u1766:0-77, u1767:0-26, u1768:0-35 %%",
+        "((Earthquake mechanics and teleport-pebble discussion))",
+        "",
+        "%% u1769:0-45, u1770:0-96, u1771:0-33 %%",
+        "DM: ((Teleport component rules))So you teleport back."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Yeah. Weird. Oh, but I'm not currently…",
+          "Delwath: Yeah, clairvoyance is concentration, so you can't do both.",
+          "DM: Yeah.",
+          "DM: So that means it'll cover half… they'll cut… the fissures will cover half of the… interior area, which also has a 100-foot radius. So you'd have to put it just outside, and it'll… it can still extend. But you can't put it right in the center.",
+          "Seeker: Okay."
+        ],
+        "after": [
+          "Delwath: Same deal, I'm gonna cast Scry… I'm gonna wait a few minutes, actually. Like, let's wait a little bit and cast Scry, because I want to see if they break, like, because I can't scry inside the structure, because I didn't see it inside the structure. So maybe, like, wait half an hour, and then cast Scry?",
+          "DM: Okay. So, about… and roll. Yeah, okay, so about half an hour… later, you actually… when you cast Scry, again, just at this location, right? Yep. What you see is… The… the, like…",
+          "DM: The basket, this, like, weave structure is just, like, flowing, almost like melting snow, down off of the sides, and… The thing is beginning to stretch out again, and there's a bunch of hobgoblins milling around, mustering, and you can see, the Empress of Chaos is… Floating about 60, 70 feet ahead. And she seems to be in the middle of a speech of her own. Pick… up, sort of, halfway through, saying, “Can't stop us.”",
+          "DM: “Our mission is righteous. These pathetic fools who think to disrupt us do not know what is coming for them. You know… what I have promised you. You've seen what I've shown you. You know what's waiting for us.”",
+          "DM: “We will march, night and day. My magic. Our magic. Limbo will keep us safe in this march. I promise you that. And when we arrive, you will have vengeance. You will see… these… foolish creatures who think they can call upon the power of the gods? The gods do not scare us. Chaos existed before any god came out of its primordial power. Chaos is stronger than any magic they can bring to bear. Do not fear these things. Vengeance will be yours. Promise you that.”"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "The Empress promises chaos will protect a continuous march",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1775",
+        "endUid": "u1817"
+      },
+      "lines": [
+        "%% u1775:0-5, u1776:0-20, u1777:0-34, u1778:0-99, u1779:0-15 %%",
+        "DM: Okay. So, about… and roll. Yeah, okay, so about half an hour… later, you actually… when you cast Scry, again, just at this location, right? Yep. What you see is… The… the, like…",
+        "",
+        "%% u1780:0-117, u1781:0-49, u1782:0-98, u1783:0-27, u1784:0-64, u1785:0-5, u1786:0-52 %%",
+        "DM: The basket, this, like, weave structure is just, like, flowing, almost like melting snow, down off of the sides, and… The thing is beginning to stretch out again, and there's a bunch of hobgoblins milling around, mustering, and you can see, the Empress of Chaos is… Floating about 60, 70 feet ahead. And she seems to be in the middle of a speech of her own. Pick… up, sort of, halfway through, saying, “Can't stop us.”",
+        "",
+        "%% u1787:0-25, u1788:0-46, u1789:0-36, u1790:0-9, u1791:0-90 %%",
+        "DM: “Our mission is righteous. These pathetic fools who think to disrupt us do not know what is coming for them. You know… what I have promised you. You've seen what I've shown you. You know what's waiting for us.”",
+        "",
+        "%% u1792:0-29, u1793:0-45, u1794:0-34, u1795:0-44, u1796:0-13, u1797:0-6, u1798:0-69, u1799:0-25, u1800:0-62, u1801:0-82, u1802:0-10, u1803:0-14, u1804:0-17 %%",
+        "DM: “We will march, night and day. My magic. Our magic. Limbo will keep us safe in this march. I promise you that. And when we arrive, you will have vengeance. You will see… these… foolish creatures who think they can call upon the power of the gods? The gods do not scare us. Chaos existed before any god came out of its primordial power. Chaos is stronger than any magic they can bring to bear. Do not fear these things. Vengeance will be yours. Promise you that.”",
+        "",
+        "%% u1805:0-85, u1806:0-29, u1807:0-137, u1808:0-98 %%",
+        "DM: There's, like… you know, about half the army is, like, sort of… totally sold by this. About half the army is kinda… “Sure, lady.” But nobody's willing to, like… the only people… nobody's, like, actively disagreeing, right? It's just, you can see from the… you know, the… the scrying, like, it's just… it's not full-throated cheers across the entire army.",
+        "",
+        "%% u1809:0-41, u1810:0-33 %%",
+        "Kenzo: Our tactics are working. This is awesome. We're sowing seeds of dissension.",
+        "",
+        "%% u1811:0-11 %%",
+        "Delwath: Absolutely.",
+        "",
+        "%% u1812:0-10 %%",
+        "Kenzo: Hell yeah.",
+        "",
+        "%% u1813:0-8 %%",
+        "Delwath: Alright.",
+        "",
+        "%% u1814:0-107, u1815:0-9 %%",
+        "DM: The structure seems to be reassembling, and it's only, like, 1.30 in the afternoon, so this is clearly not… standard…",
+        "",
+        "%% u1816:0-11 %%",
+        "Delwath: Yeah, yeah.",
+        "",
+        "%% u1817:0-11 %%",
+        "DM: A behavior."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Theoretically, it could be anywhere that you've been in this entire campaign.",
+          "Seeker: I have so many good rocks.",
+          "Delwath: We really appreciate all your work.",
+          "DM: Actually, only in the last 6 months, because… things from… you can't… you have to collect a new thing every 6 months for it to work somewhere. So we tell… So you teleport back.",
+          "Delwath: Same deal, I'm gonna cast Scry… I'm gonna wait a few minutes, actually. Like, let's wait a little bit and cast Scry, because I want to see if they break, like, because I can't scry inside the structure, because I didn't see it inside the structure. So maybe, like, wait half an hour, and then cast Scry?"
+        ],
+        "after": [
+          "Delwath: She might mean it about go day and night. In the sense that… clearly the way to be the safest that they could be is to just stay inside the structure and barely ever stop. It must be rough for her troops, but…",
+          "Kenzo: Can't be good for morale.",
+          "Delwath: Nope.",
+          "DM: So…",
+          "Delwath: We have to show up tomorrow to, like…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Clairvoyance inside the moving centipede",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2131",
+        "endUid": "u2153"
+      },
+      "lines": [
+        "%% u2131:0-72, u2132:0-22, u2133:0-26, u2134:0-154, u2135:0-112 %%",
+        "DM: Okay, so, Seeker casts Clairvoyance, it is a chaotic mess of soldiers. The interior is dark, lit only by this sort of… like, there'll be sort of flickering blue lights that kind of run down the interior in these sort of chaotic patterns. But there's no consistent lighting. Seeker, of course, has darkvision, and you can use darkvision through your, clairvoyant sense. So you're seeing…",
+        "",
+        "%% u2136:0-65, u2137:0-42, u2138:0-246, u2139:0-106, u2140:0-118, u2141:0-39, u2142:0-33, u2143:0-67 %%",
+        "DM: And again, it's fairly tall, right? It's… it's… Excuse me, maybe… You know, 50 feet tall, and there's, like, things sticking out, right? Like, it's not a clear passageway. It's not… it's not like there's organized shelves or anything like that. There'll be, like, these chaotic spikes that sort of stick out at various angles. Not… not sharp spikes, like… And there are people just kind of hanging off these, some people trying… well, hobgoblins trying to sleep. Often they'll be just lying at some strange angle on one of these, like, shelves that sticks out at a 30 degree angle. Three of them just kind of lying there, trying to sleep on this platform. Some of them are just kind of hanging on, some of them are talking.",
+        "",
+        "%% u2144:0-80, u2145:0-32, u2146:0-30, u2147:0-86, u2148:0-60, u2149:0-5, u2150:0-84 %%",
+        "DM: It's… there's a lot, you know, there's noise, there's kind of this constant low… rumbling, sort of humming sound. Doesn't seem that comfortable. But there's, like, you know, a few thousand… it's long, right? It's still… it's, like… If anything, even longer than it was before, maybe 500 feet… long. You know, so there's… the Hobgoblins are quite spread out across this entire length.",
+        "",
+        "%% u2151:0-107, u2152:0-61, u2153:0-49 %%",
+        "DM: Where you randomly happen to place the sensor, there doesn't seem to be anything particularly special about… this spot versus any other spot, but he can only see 60 feet in any direction anyway, because of the darkness."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: So, they could get to the Heartroot in two and a half days of constant movement. Yeah. Basically. Not even.",
+          "DM: Less than two and a half days from here. Right? Constant movement.",
+          "Delwath: What about this?",
+          "DM: Yeah, one and a half days from here.",
+          "Delwath: Okay, well, let's Clairvoyance inside the thing?"
+        ],
+        "after": [
+          "Delwath: Okay.",
+          "Delwath: So… I think… I mean, in theory, we should be prepared for battle here. Do we all think that she's just not gonna show up?",
+          "Kenzo: Probably not. We'll see.",
+          "Delwath: Like, is there anything we gotta do to prepare for battle? I don't…",
+          "Kenzo: Oh, wait, wait, aren't we gonna, weren't we gonna, like, get, like, a bunch of our friends to come and bludgeon the thing? Bludgeon the centipede itself."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "The Empress does not emerge for the challenge",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2174",
+        "endUid": "u2188"
+      },
+      "lines": [
+        "%% u2174:0-15, u2175:0-22, u2176:0-49 %%",
+        "DM: So you show up. You see the centipede? There's no creatures flying above it, there's no…",
+        "",
+        "%% u2177:0-12 %%",
+        "Kenzo: It's moving.",
+        "",
+        "%% u2178:0-47, u2179:0-29 %%",
+        "DM: Everybody's moving at its continual slow crawl. No Empress of Chaos in sight.",
+        "",
+        "%% u2180:0-71 %%",
+        "Kenzo: Where is she? SoulSight, like, just AuraSense, is she inside the thing?",
+        "",
+        "%% u2181:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u2182:0-5 %%",
+        "Kenzo: Shit.",
+        "",
+        "%% u2183:0-52, u2184:0-6 %%",
+        "Delwath: I mean, that's one downside of teleporting in there. Right?",
+        "",
+        "%% u2185:0-30 %%",
+        "Kenzo: Did we teleport in, or did we.",
+        "",
+        "%% u2186:0-27 %%",
+        "Delwath: We didn't… I mean, we were…",
+        "",
+        "%% u2187:0-25 %%",
+        "DM: Flew, with animal shapes.",
+        "",
+        "%% u2188:0-5 %%",
+        "Kenzo: Yeah."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: 30 miles.",
+          "DM: It's really two.",
+          "Kenzo: Okay. Let's do today, see if she fights us, and if she doesn't fight us, we just go into the centipede and just go fuck some shit up for a little while, and then leave. And then tomorrow, we roll up with animal-shaped… crew of, like, 50-whatevers, and go…",
+          "Delwath: Okay.",
+          "Kenzo: Alright, Tim, that's the plan."
+        ],
+        "after": [
+          "Delwath: So she's clearly not gonna emerge to fight us. So why not?",
+          "Wellby: Switch to damaging… trying to damage the centipede instead.",
+          "Delwath: I think our best bet at damaging the centipede is gonna be when it's climbing the escarpment. If we could, like, dislodge it or something like that.",
+          "Wellby: Yeah.",
+          "Kenzo: When is that gonna happen? Later today?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "The interior raid ends with escape and an offer of mercy",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2310",
+        "endUid": "u2680"
+      },
+      "lines": [
+        "%% u2310:0-106, u2311:0-95 %%",
+        "DM: ((Initiative setup))The four of you appear inside the centipede. You see basically what I described. There's… hobgoblins spread out around, there's these, like…",
+        "",
+        "%% u2312:0-71, u2313:0-24, u2314:0-5, u2315:0-9, u2316:0-78, u2317:0-29, u2318:0-33, u2319:0-37, u2320:0-64, u2321:0-3, u2322:0-5, u2323:0-60, u2324:0-23, u2325:0-9, u2326:0-4, u2327:0-70, u2328:0-84, u2329:0-32, u2330:0-37, u2331:0-87, u2332:0-4, u2333:0-4, u2334:0-14, u2335:0-72, u2336:0-40, u2337:0-51, u2338:0-21, u2339:0-45, u2340:0-41, u2341:0-8, u2342:0-110, u2343:0-48, u2344:0-73, u2345:0-32, u2346:0-51, u2347:0-196, u2348:0-65, u2349:0-45, u2350:0-80, u2351:0-45, u2352:0-82, u2353:0-49, u2354:0-32, u2355:0-6, u2356:0-21, u2357:0-86, u2358:0-96, u2359:0-149, u2360:0-68, u2361:0-11, u2362:0-111, u2363:0-5, u2364:0-5, u2365:0-59, u2366:0-49, u2367:0-9, u2368:0-10, u2369:0-15, u2370:0-62, u2371:0-87, u2372:0-18, u2373:0-12, u2374:0-51, u2375:0-31, u2376:0-22, u2377:0-75, u2378:0-51, u2379:0-5, u2380:0-65, u2381:0-143, u2382:0-12, u2383:0-16, u2384:0-83, u2385:0-10 %%",
+        "((Combat actions, damage, saves and table discussion))",
+        "",
+        "%% u2386:0-67 %%",
+        "Delwath: I'll shout as we appear that the Empress of Chaos daren't fight us.",
+        "",
+        "%% u2387:0-122 %%",
+        "Kenzo: Yeah, it's a coward. So we are coming to punish you, because she is a coward. Yeah, she's a coward and did not show. Yeah.",
+        "",
+        "%% u2388:0-58, u2389:0-8, u2390:0-5, u2391:0-105, u2392:0-64, u2393:0-99, u2394:0-26, u2395:0-52, u2396:0-41, u2397:0-72, u2398:0-81, u2399:0-86, u2400:0-58, u2401:0-22, u2402:0-38, u2403:0-86, u2404:0-77, u2405:0-33, u2406:0-30, u2407:0-9, u2408:0-101, u2409:0-5, u2410:0-28, u2411:0-38, u2412:0-37, u2413:0-33, u2414:0-34, u2415:0-8, u2416:0-51, u2417:0-83, u2418:0-51, u2419:0-36, u2420:0-17, u2421:0-126, u2422:0-45, u2423:0-18, u2424:0-274, u2425:0-50, u2426:0-5, u2427:0-86, u2428:0-5, u2429:0-63, u2430:0-54, u2431:0-69, u2432:0-18, u2433:0-5, u2434:0-47, u2435:0-40, u2436:0-27, u2437:0-117, u2438:0-49, u2439:0-5, u2440:0-8, u2441:0-3, u2442:0-20, u2443:0-25, u2444:0-23, u2445:0-96, u2446:0-2, u2447:0-26, u2448:0-59, u2449:0-18, u2450:0-18, u2451:0-43, u2452:0-83, u2453:0-56, u2454:0-19, u2455:0-3, u2456:0-5, u2457:0-52, u2458:0-26, u2459:0-17, u2460:0-34, u2461:0-23, u2462:0-70, u2463:0-5, u2464:0-71, u2465:0-15, u2466:0-26, u2467:0-19, u2468:0-29, u2469:0-12, u2470:0-5, u2471:0-18, u2472:0-93, u2473:0-19, u2474:0-12, u2475:0-27, u2476:0-38, u2477:0-7, u2478:0-5, u2479:0-12, u2480:0-27, u2481:0-24, u2482:0-66, u2483:0-11, u2484:0-32, u2485:0-25, u2486:0-11, u2487:0-27, u2488:0-41, u2489:0-16, u2490:0-54, u2491:0-85, u2492:0-30, u2493:0-61, u2494:0-62, u2495:0-50, u2496:0-82, u2497:0-54, u2498:0-58, u2499:0-77, u2500:0-22, u2501:0-55, u2502:0-47, u2503:0-31, u2504:0-30, u2505:0-45, u2506:0-26, u2507:0-31, u2508:0-10, u2509:0-54, u2510:0-40, u2511:0-32, u2512:0-171, u2513:0-13, u2514:0-14, u2515:0-20, u2516:0-56, u2517:0-43, u2518:0-19, u2519:0-4, u2520:0-43, u2521:0-21, u2522:0-23, u2523:0-27, u2524:0-13, u2525:0-5, u2526:0-10, u2527:0-36, u2528:0-40, u2529:0-3, u2530:0-3, u2531:0-9, u2532:0-22, u2533:0-12, u2534:0-7, u2535:0-46, u2536:0-39, u2537:0-30, u2538:0-85, u2539:0-16, u2540:0-3, u2541:0-36, u2542:0-7, u2543:0-8, u2544:0-11, u2545:0-26, u2546:0-43, u2547:0-16, u2548:0-14, u2549:0-27, u2550:0-5, u2551:0-15, u2552:0-25, u2553:0-15, u2554:0-42, u2555:0-12, u2556:0-5, u2557:0-16, u2558:0-5, u2559:0-23, u2560:0-55, u2561:0-120, u2562:0-23, u2563:0-5, u2564:0-4, u2565:0-16, u2566:0-79, u2567:0-36, u2568:0-104, u2569:0-26, u2570:0-82, u2571:0-69, u2572:0-3, u2573:0-3, u2574:0-4, u2575:0-5, u2576:0-5, u2577:0-82, u2578:0-36, u2579:0-40, u2580:0-18, u2581:0-14, u2582:0-4, u2583:0-11, u2584:0-10, u2585:0-20, u2586:0-49, u2587:0-75, u2588:0-72, u2589:0-5, u2590:0-73, u2591:0-3, u2592:0-14, u2593:0-45, u2594:0-61, u2595:0-19, u2596:0-12, u2597:0-119, u2598:0-17, u2599:0-73, u2600:0-3, u2601:0-51, u2602:0-51, u2603:0-44, u2604:0-87, u2605:0-7, u2606:0-102, u2607:0-116, u2608:0-13, u2609:0-52, u2610:0-49, u2611:0-117, u2612:0-13, u2613:0-113, u2614:0-56, u2615:0-6, u2616:0-9, u2617:0-101, u2618:0-13, u2619:0-42, u2620:0-79, u2621:0-50, u2622:0-83, u2623:0-85, u2624:0-116, u2625:0-16, u2626:0-11, u2627:0-18, u2628:0-55, u2629:0-183, u2630:0-24, u2631:0-63, u2632:0-3, u2633:0-23, u2634:0-14, u2635:0-88, u2636:0-67, u2637:0-16, u2638:0-74, u2639:0-19, u2640:0-13, u2641:0-21, u2642:0-24, u2643:0-52, u2644:0-120, u2645:0-96, u2646:0-27, u2647:0-27, u2648:0-39, u2649:0-59, u2650:0-48, u2651:0-57, u2652:0-3, u2653:0-30, u2654:0-36, u2655:0-5, u2656:0-36, u2657:0-9 %%",
+        "((Combat actions, damage, saves and table discussion))",
+        "",
+        "%% u2658:0-17 %%",
+        "DM: And you vanished.",
+        "",
+        "%% u2659:0-16 %%",
+        "Audio shared by Tim Sackton: Yeah, we vanish.",
+        "",
+        "%% u2660:0-86 %%",
+        "Delwath: I mean, Delwath was shouting the whole time, like, “Your Empress brought this upon you.”",
+        "",
+        "%% u2661:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u2662:0-91 %%",
+        "Delwath: Dare her, you know, demand she… demand she surrender, you know, you know, we will… we will…",
+        "",
+        "%% u2663:0-18 %%",
+        "Kenzo: We will spare you.",
+        "",
+        "%% u2664:0-14 %%",
+        "Delwath: We will spare…",
+        "",
+        "%% u2665:0-6 %%",
+        "Wellby: Those.",
+        "",
+        "%% u2666:0-94, u2667:0-89, u2668:0-34 %%",
+        "Delwath: Who surrender, right? If you overthrow her, a worthy leader can be found for you, right? Like… Do not give in to her cowardice. She would not even leave this metal monster to fight us. Without her metal, she is nothing.",
+        "",
+        "%% u2669:0-5, u2670:0-6, u2671:0-11, u2672:0-8 %%",
+        "((Combat actions, damage, saves and table discussion))",
+        "",
+        "%% u2673:0-16 %%",
+        "Delwath: And then vanish.",
+        "",
+        "%% u2674:0-55 %%",
+        "Kenzo: Yeah, now let's scry. What's going on? What's going on?",
+        "",
+        "%% u2675:0-50 %%",
+        "Delwath: Yeah, as soon as we're away, I'm scrying this guy.",
+        "",
+        "%% u2676:0-30, u2677:0-75, u2678:0-48, u2679:0-86, u2680:0-16 %%",
+        "DM: The creature is still moving. There's, people moving up and down, tending to the… tending to the wounded. The interior has reshaped itself now, there are… there's, like, a bit more space, it's a bit less chaotic, and there's, like, sections… dividing it off."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Yeah.",
+          "DM: Four. Okay.",
+          "Kenzo: Yeah, this is exciting. This is exciting.",
+          "DM: Okay, so, you appear…",
+          "Kenzo: Knock."
+        ],
+        "after": [
+          "Delwath: They… they did… she does learn, I'll say that, she learns.",
+          "DM: And there's what looks like… so there's… hobgoblins walking through, and they'll, like, stop and… You know, speak to a few people occasionally, and they're… they have, like, almost… It's not really an aura, but, like… almost instead of hair, there's, like, weird sort of colors spinning around their head. Their eyes are sort of flashing, multicolored, there's… there's almost, like… what looks like maybe fire or something kind of streaming off of their arms. All of them are disfigured in various ways, right? Like, they have a scar on their cheek, or they're missing two fingers on their hands or something. And they're… and as they walk through, you know, they're… they're bending down, and they're sort of, talking to each… you know, the survivors here, and…",
+          "DM: One of them gets to this guy as you're scrying, and he's saying, “Through pain is power.” “Suffering is how we win.”",
+          "DM: He holds up his hand, and there's fire blooming from the top of his hand. “The primordial chaos is within you. And it just requires a little more suffering to unlock.” And you… shoots his hand up and fire shoots out of it, not seeming to affect any of the hobgoblins around him. “I learned… the hard way. Your path is easy, this is short compared to the… 50 years I waited to receive this blessing… from chaos.”",
+          "Kenzo: Is this the sorcerer speaking?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "Kenzo spares a soldier and takes hair for scrying",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2629",
+        "endUid": "u2644"
+      },
+      "lines": [
+        "%% u2629:0-183 %%",
+        "Kenzo: ((Attack roll)) Kenzo will, like, take one and, like, literally, like, hold it, show him to Delwath, and then, like, you know, tear off, like, a piece of his clothes.",
+        "",
+        "%% u2630:0-24, u2631:0-63, u2632:0-3, u2633:0-23, u2634:0-14 %%",
+        "((Attack damage and resolution))",
+        "",
+        "%% u2635:0-88, u2636:0-67, u2637:0-16 %%",
+        "DM: But Kenzo pulls his punches, rather than killing the hobgoblin ((Damage mechanics)) Pull your punch and just, you know, break off a finger or whatever. Or some clothes.",
+        "",
+        "%% u2638:0-74 %%",
+        "((Attack damage and resolution))",
+        "",
+        "%% u2639:0-19 %%",
+        "Kenzo: Alright, the pinky.",
+        "",
+        "%% u2640:0-13 %%",
+        "DM: Thanks. Okay.",
+        "",
+        "%% u2641:0-21 %%",
+        "Delwath: Or, like, some hairs.",
+        "",
+        "%% u2642:0-24 %%",
+        "DM: Yeah, rip out some hair.",
+        "",
+        "%% u2643:0-52 %%",
+        "Kenzo: Yeah, he rips out some hair, that's a little better.",
+        "",
+        "%% u2644:0-120 %%",
+        "Delwath: That's less gruesome, right? Like, Delwath doesn't want to torture these guys. Hair is… hair is… hair is really what we…"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You should roll to hit, because you're trying to do something particular. Okay, cool. If you roll 2 1s in a row, for example, or I guess you've got three attacks, if you roll 3 1s in a row, for example.",
+          "Kenzo: Alright, so… 26.",
+          "DM: Yeah, yeah.",
+          "Kenzo: 26… Last one's 18.",
+          "DM: Yeah, the, 18 just hits, yes, they all… all those hits."
+        ],
+        "after": [
+          "Kenzo: But yeah, I mean, other than the murdering them in their sleep with your sword, other than that.",
+          "DM: Right, just murder is okay.",
+          "Kenzo: Yeah, you're very merciful.",
+          "Delwath: Who exploded 20 of them in their sleep?",
+          "Kenzo: That's… After you poison them. Anyways, whatever, whatever."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The source first proposes a finger and then replaces it with hair; both the change and the spared soldier are retained."
+      }
+    },
+    {
+      "id": "i018",
+      "title": "A chaos sorcerer tells the wounded soldier that suffering brings power",
+      "entities": [
+        {
+          "id": "e022",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e021",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2682",
+        "endUid": "u2719"
+      },
+      "lines": [
+        "%% u2682:0-40, u2683:0-56, u2684:0-83, u2685:0-35, u2686:0-87, u2687:0-77, u2688:0-226, u2689:0-38, u2690:0-78, u2691:0-34 %%",
+        "DM: And there's what looks like… so there's… hobgoblins walking through, and they'll, like, stop and… You know, speak to a few people occasionally, and they're… they have, like, almost… It's not really an aura, but, like… almost instead of hair, there's, like, weird sort of colors spinning around their head. Their eyes are sort of flashing, multicolored, there's… there's almost, like… what looks like maybe fire or something kind of streaming off of their arms. All of them are disfigured in various ways, right? Like, they have a scar on their cheek, or they're missing two fingers on their hands or something. And they're… and as they walk through, you know, they're… they're bending down, and they're sort of, talking to each… you know, the survivors here, and…",
+        "",
+        "%% u2692:0-87, u2693:0-10, u2694:0-14 %%",
+        "DM: One of them gets to this guy as you're scrying, and he's saying, “Through pain is power.” “Suffering is how we win.”",
+        "",
+        "%% u2695:0-73, u2696:0-35, u2697:0-56, u2698:0-8, u2699:0-101, u2700:0-10, u2701:0-13, u2702:0-49, u2703:0-43, u2704:0-11 %%",
+        "DM: He holds up his hand, and there's fire blooming from the top of his hand. “The primordial chaos is within you. And it just requires a little more suffering to unlock.” And you… shoots his hand up and fire shoots out of it, not seeming to affect any of the hobgoblins around him. “I learned… the hard way. Your path is easy, this is short compared to the… 50 years I waited to receive this blessing… from chaos.”",
+        "",
+        "%% u2705:0-30 %%",
+        "Kenzo: Is this the sorcerer speaking?",
+        "",
+        "%% u2706:0-30 %%",
+        "DM: This is the Sorcerer speaking.",
+        "",
+        "%% u2707:0-64, u2708:0-48, u2709:0-36, u2710:0-13, u2711:0-12, u2712:0-24, u2713:0-9 %%",
+        "DM: “When the battle comes, all of this will just make you stronger. Your power is so close to being unlocked in you. Raw chaos that resides in all of us. You remember. You've seen. You know what we can do. Patience.”",
+        "",
+        "%% u2714:0-8, u2715:0-35, u2716:0-161, u2717:0-36, u2718:0-66, u2719:0-18 %%",
+        "DM: Sort of… pats him on the shoulder, and then… like, does a, like, fist bump on his chest, you know, and then the other guy, the wounded soldier salutes and, like, sort of bucks up his head a little bit more. And moves on. And this guy moves on. Just from looking around, you know, again, it's… not everybody is… reassured by this."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: And then vanish.",
+          "Kenzo: Yeah, now let's scry. What's going on? What's going on?",
+          "Delwath: Yeah, as soon as we're away, I'm scrying this guy.",
+          "DM: The creature is still moving. There's, people moving up and down, tending to the… tending to the wounded. The interior has reshaped itself now, there are… there's, like, a bit more space, it's a bit less chaotic, and there's, like, sections… dividing it off.",
+          "Delwath: They… they did… she does learn, I'll say that, she learns."
+        ],
+        "after": [
+          "Kenzo: Tim, the flame that you were describing, was the flame just on the sorceress, or also on the people, the wounded people?",
+          "DM: No, this was on the Sorcerer.",
+          "Kenzo: Oh, okay, okay.",
+          "DM: But obviously, I mean, somebody shot a fireball at you that affected you and not the…",
+          "Kenzo: Right."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "The army’s remaining strength and uncertain morale",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2730",
+        "endUid": "u2755"
+      },
+      "lines": [
+        "%% u2730:0-212 %%",
+        "Delwath: It is. I mean, I wonder how many are left. Is there any way to gauge how many… like, in this little section that I can see from the scrying? So, 60 feet area, right? Like, is there any way, like, how many people…",
+        "",
+        "%% u2731:0-43, u2732:0-72, u2733:0-70 %%",
+        "DM: I mean, so, the tsunami was definitely the… most devastating. That took out, like, a quarter of the army in one hit. Right? So you're down to maybe 3,000. There was, like, 4,200 to start.",
+        "",
+        "%% u2734:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u2735:0-72, u2736:0-45, u2737:0-66, u2738:0-80 %%",
+        "DM: You know… Earthquake probably didn't kill that many, it's hard to judge. It's hard to say, but… You'd be surprised if… It's definitely not less than… it's definitely not less than half. And it would be surprising if it was more than two-thirds that are still alive.",
+        "",
+        "%% u2739:0-78, u2740:0-27 %%",
+        "Delwath: Sorry, you missed what I was… what I'm actually trying to judge is the morale. Not… not how many are dead.",
+        "",
+        "%% u2741:0-20 %%",
+        "DM: This little section.",
+        "",
+        "%% u2742:0-37 %%",
+        "Delwath: Action, right? Like… How many people…",
+        "",
+        "%% u2743:0-51 %%",
+        "DM: Scry focuses on one person, right? And so it's not…",
+        "",
+        "%% u2744:0-29 %%",
+        "Delwath: But I can look around in the.",
+        "",
+        "%% u2745:0-153 %%",
+        "DM: Yeah, I mean, that's what I was saying before, right? Like, you know, these sorcerers are moving through the ranks and trying to reassure everybody that.",
+        "",
+        "%% u2746:0-6 %%",
+        "Delwath: Right.",
+        "",
+        "%% u2747:0-54, u2748:0-66 %%",
+        "DM: Great, you know, great suffering leads to great power. A lot of them are buying it, but again, not everybody, right? And…",
+        "",
+        "%% u2749:0-37 %%",
+        "Delwath: But, right, I'm just trying to, like.",
+        "",
+        "%% u2750:0-59, u2751:0-26 %%",
+        "DM: A third of them are sort of skeptical, right? It's hard to… It's hard to pin an exact.",
+        "",
+        "%% u2752:0-61, u2753:0-64 %%",
+        "Delwath: Yeah, yeah. No, no, I was just trying to get at, is it, like… more like 1%, 10%, or something between 10 and 30%, right? Like…",
+        "",
+        "%% u2754:0-170, u2755:0-28 %%",
+        "DM: Yeah, it's more like… it's more like the last one, right? I mean, there's more than… there's probably 10 Hobgoblins that you can see, and a couple of them seem skeptical. So, extrapolate as you will."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Hobgoblins nearby.",
+          "Kenzo: Right. Presumably.",
+          "DM: Pretty strong fireball. Like, a high-level fireball.",
+          "Kenzo: Yeah. Guys, our plan is working brilliantly.",
+          "Delwath: It… yes, it…"
+        ],
+        "after": [
+          "Delwath: Yeah. It is.",
+          "Kenzo: Let's take a snap poll on the sorcerers. What's her approval rating right now amongst the hobgoblins?",
+          "Delwath: I mean, well, so, you know, I guess among the one-third of them who are dead, probably fairly low.",
+          "Kenzo: Let's see how she rates on the issues.",
+          "Delwath: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "What is known about the centipede’s construction and damageability",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2802",
+        "endUid": "u2853"
+      },
+      "lines": [
+        "%% u2802:0-33 %%",
+        "Delwath: To me, that's the next… the next.",
+        "",
+        "%% u2803:0-110, u2804:0-82 %%",
+        "DM: So, nothing that you've seen about it actually suggests any part of it is mechanical. It looks more like it's… It… it seems more like water flow… like it's flowing across the… landscape, right?",
+        "",
+        "%% u2805:0-10 %%",
+        "Delwath: But, like…",
+        "",
+        "%% u2806:0-34 %%",
+        "Kenzo: There's not gears turning anymore.",
+        "",
+        "%% u2807:0-74 %%",
+        "Delwath: When it… when it was… going up the cliff before. We saw it go up and over.",
+        "",
+        "%% u2808:0-17 %%",
+        "DM: Yeah, yeah, yeah.",
+        "",
+        "%% u2809:0-22 %%",
+        "Delwath: Does it… was it, like…",
+        "",
+        "%% u2810:0-91, u2811:0-62 %%",
+        "DM: I mean, you were, you were, like, a mile or two away, you couldn't tell what was happening. But you never… it doesn't have any gears, it doesn't have any…",
+        "",
+        "%% u2812:0-6 %%",
+        "Kenzo: We go.",
+        "",
+        "%% u2813:0-7 %%",
+        "Delwath: I mean…",
+        "",
+        "%% u2814:0-56 %%",
+        "DM: It clearly can reshape itself quite dramatically, right?",
+        "",
+        "%% u2815:0-58 %%",
+        "Delwath: I mean, we have to assume it's impacted by gravity, right?",
+        "",
+        "%% u2816:0-83 %%",
+        "DM: Yeah. Well… It can't… it obviously can't fly, otherwise, why wouldn't it be flying?",
+        "",
+        "%% u2817:0-57, u2818:0-172, u2819:0-65 %%",
+        "Delwath: But if it can hover 3 inches off the ground, for example. But, like, if it could levitate 3 inches, then it would presumably be able to just go up a wall, and you couldn't really knock it down, because it would just be levitating. So we actually have no evidence that it's possible to knock down.",
+        "",
+        "%% u2820:0-61, u2821:0-68 %%",
+        "DM: You don't know, one way or the other, what is possible to do. What's done so far has seemed to affect the Chaos Metal in any way.",
+        "",
+        "%% u2822:0-75, u2823:0-40, u2824:0-6, u2825:0-4, u2826:0-41, u2827:0-69, u2828:0-113, u2829:0-103, u2830:0-5, u2831:0-81, u2832:0-13, u2833:0-20, u2834:0-5, u2835:0-56, u2836:0-47, u2837:0-9, u2838:0-48, u2839:0-321, u2840:0-59, u2841:0-218 %%",
+        "((Plans for a future attack))",
+        "",
+        "%% u2842:0-93 %%",
+        "Delwath: We… we… well, we don't have any evidence that the Chaos Metal is vulnerable to damage at all.",
+        "",
+        "%% u2843:0-33, u2844:0-83 %%",
+        "Kenzo: No, it is. It is. How do we know? Well, the, the, the fucking sorceress, she's… she's not invulnerable to everything.",
+        "",
+        "%% u2845:0-125, u2846:0-41 %%",
+        "Delwath: No, I know, but that doesn't… that doesn't mean the metal… it's possible the only way to damage her is by piercing the metal. It doesn't mean that the metal is itself…",
+        "",
+        "%% u2847:0-14 %%",
+        "DM: No, it's true.",
+        "",
+        "%% u2848:0-13 %%",
+        "Delwath: Destructible.",
+        "",
+        "%% u2849:0-84 %%",
+        "DM: What you've cast so far seems to have affected the Chaos Metal structure directly.",
+        "",
+        "%% u2850:0-21 %%",
+        "Kenzo: But we haven't tried.",
+        "",
+        "%% u2851:0-18 %%",
+        "DM: Obviously doesn't…",
+        "",
+        "%% u2852:0-11 %%",
+        "Kenzo: Hitting it.",
+        "",
+        "%% u2853:0-55 %%",
+        "DM: Yeah, you haven't tried very hard, so maybe that's why."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: We totally can.",
+          "Delwath: Knock it off.",
+          "Kenzo: Of course we can.",
+          "Delwath: Right?",
+          "Kenzo: Throw sand in its gears, you know? Like, it's the mechanical thing that's moving, right? Yeah."
+        ],
+        "after": [
+          "Kenzo: Let's do it. Let's do this. Let's go drop some fucking rocks on it with, like, birds, aerial attack, and then Erupting Earth it when it's going up the wall. That's our plan for tomorrow.",
+          "Delwath: I mean, I also think about things like… you know… getting a bunch of elephants and throwing ropes, then trying to just pull it somewhere, right?",
+          "Wellby: Sure.",
+          "Delwath: I mean, presumably it would just shape-shift to get out of the ropes, though, but…",
+          "Kenzo: Yeah. Yeah. I like the idea of just ballistic attacks, of just, like, objects, you know."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "Affirmative wording about prior effects on the metal conflicts with nearby statements that its damageability remains untested; both readings are retained."
+      }
+    },
+    {
+      "id": "i021",
+      "title": "Vindristjarna is expected tomorrow morning",
+      "entities": [
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2885",
+        "endUid": "u2890"
+      },
+      "lines": [
+        "%% u2885:0-69, u2886:0-5 %%",
+        "DM: You expect Vindristjarna… Let's see, I have a note on this somewhere. Okay.",
+        "",
+        "%% u2887:0-48 %%",
+        "Delwath: Yo, shouldn't Vindristjarna be here by now? Ish?",
+        "",
+        "%% u2888:0-56, u2889:0-25 %%",
+        "DM: Yes, I'm just… I guess gotta calculate the exact timing. It's… I think it's close.",
+        "",
+        "%% u2890:0-97 %%",
+        "DM: In any case, it's the afternoon of August 10th now. Vindristjarna should arrive tomorrow morning."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Exactly, exactly. That is our plan. Let's do that.",
+          "DM: So, I…",
+          "Delwath: So, like… Yeah, okay.",
+          "Kenzo: While that's happening, Kenzo's also gonna just Astral Plane inside the thing and just, like, fight a bunch of dudes.",
+          "DM: Again, you retreat in the afternoon, and now you're back… to the camp on August 10th."
+        ],
+        "after": [
+          "Delwath: Okay. And when do we think that it'll hit the… When do we think it'll hit the…",
+          "DM: And your expectation, if it continues going at the same pace, is that it will hit… the escarpment tomorrow evening.",
+          "Kenzo: So we'll have Vindristjarna, too.",
+          "Delwath: Yeah.",
+          "Kenzo: Ice turret."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

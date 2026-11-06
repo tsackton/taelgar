@@ -1,0 +1,191 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-time-markers.json",
+    "sha256": "2386df081f82e0c2d0a94177af80a816e656afd0a49f5d7e70be6296af995d04"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-transcript.md",
+    "sha256": "76380b41ad581ceb0cf5196b16ddbbb5fa541c0505dcc08f2caf1b1a77fafadb"
+  },
+  "dateAssessment": "Working year DR 1749 comes from YAML; August 8, 9 and 10 are independently spoken. Main party play runs August 8 morning through August 10 afternoon. The preceding-night divine interlude is inferred to fall on August 7–8; the opening rest also predates breakfast, so the start boundary remains compatible rather than matched. The isolated “yesterday” reference at u1943–u1944 supplies no narrated day advance. Closing “midnight” is real-world session housekeeping.",
+  "watches": [
+    {
+      "day": "August 7, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Night falls before the August 8 opening; the divine interlude begins.",
+      "markers": [
+        "t02"
+      ],
+      "startDate": "1749-08-07",
+      "endDate": "1749-08-07",
+      "scope": "Fox and Hunter interlude"
+    },
+    {
+      "day": "August 8, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Dawn breaks as the hobgoblin army stops to camp.",
+      "markers": [
+        "t03"
+      ],
+      "startDate": "1749-08-08",
+      "endDate": "1749-08-08",
+      "scope": "Fox and Hunter interlude"
+    },
+    {
+      "day": "Through August 8, 1749",
+      "startWatch": "midnight",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Opening long-rest credit: eight hours, ending with August 8 breakfast.",
+      "markers": [
+        "t04"
+      ],
+      "endDate": "1749-08-08",
+      "scope": "Party; opening rest begins before the active morning"
+    },
+    {
+      "day": "August 8, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "August 8 morning stated; Kenzo’s communion takes about thirty minutes.",
+      "markers": [
+        "t01",
+        "t05"
+      ],
+      "startDate": "1749-08-08",
+      "endDate": "1749-08-08"
+    },
+    {
+      "day": "August 8, 1749",
+      "startWatch": "morning",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Six-hour flight from morning reaches the army around 2–3 p.m.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1749-08-08",
+      "endDate": "1749-08-08"
+    },
+    {
+      "day": "August 8, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Army moves about 18:30; raid follows thirty minutes later; return around sunset, then scrying.",
+      "markers": [
+        "t07",
+        "t08",
+        "t09",
+        "t10"
+      ],
+      "startDate": "1749-08-08",
+      "endDate": "1749-08-08"
+    },
+    {
+      "day": "August 8–9, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Eight-hour overnight rest ends at stated August 9 dawn.",
+      "markers": [
+        "t11"
+      ],
+      "startDate": "1749-08-08",
+      "endDate": "1749-08-09"
+    },
+    {
+      "day": "August 9, 1749",
+      "startWatch": "morning",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "Second flight takes about five hours, approximately 8 a.m. to 1 p.m.",
+      "markers": [
+        "t12"
+      ],
+      "startDate": "1749-08-09",
+      "endDate": "1749-08-09"
+    },
+    {
+      "day": "August 9, 1749",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Ten-minute Clairvoyance precedes the raid; half-hour-later scry shows approximately 1:30 p.m.",
+      "markers": [
+        "t13",
+        "t14",
+        "t15"
+      ],
+      "startDate": "1749-08-09",
+      "endDate": "1749-08-09"
+    },
+    {
+      "day": "August 9, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "DM places the continuing discussion in mid-afternoon before the next rest.",
+      "markers": [
+        "t16"
+      ],
+      "startDate": "1749-08-09",
+      "endDate": "1749-08-09"
+    },
+    {
+      "day": "August 10, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "August 10 morning follows a completed overnight rest; eight hours credited by convention.",
+      "markers": [
+        "t17"
+      ],
+      "startDate": "1749-08-10",
+      "endDate": "1749-08-10"
+    },
+    {
+      "day": "August 10, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Morning Aid and a one-hour short rest are established retrospectively during combat.",
+      "markers": [
+        "t19"
+      ],
+      "startDate": "1749-08-10",
+      "endDate": "1749-08-10"
+    },
+    {
+      "day": "August 10, 1749",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "August 10 rendezvous is noon; the party inserts Clairvoyance preparation before it.",
+      "markers": [
+        "t18"
+      ],
+      "startDate": "1749-08-10",
+      "endDate": "1749-08-10"
+    },
+    {
+      "day": "August 10, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Retreat and camp return are explicitly placed on August 10 afternoon.",
+      "markers": [
+        "t20"
+      ],
+      "startDate": "1749-08-10",
+      "endDate": "1749-08-10"
+    }
+  ]
+}

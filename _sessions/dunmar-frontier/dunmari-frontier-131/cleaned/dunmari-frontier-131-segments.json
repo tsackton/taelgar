@@ -1,0 +1,200 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-131",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-session.yaml",
+    "sessionYamlSha256": "bb732af3cbfe72180d67b4f3537dd12031dbf8c56b408ecd7f30e765086c538b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-transcript.md",
+    "transcriptSha256": "76380b41ad581ceb0cf5196b16ddbbb5fa541c0505dcc08f2caf1b1a77fafadb"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0009"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0010",
+        "endUid": "u0053"
+      },
+      "category": "gameplay",
+      "note": "The retrospective divine narration resolves events during the preceding night and dawn; it is active narrated play."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0054",
+        "endUid": "u0106"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0107",
+        "endUid": "u0249"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0250",
+        "endUid": "u0261"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0262",
+        "endUid": "u0511"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0512",
+        "endUid": "u0547"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0548",
+        "endUid": "u0672"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0673",
+        "endUid": "u0892"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0893",
+        "endUid": "u1241"
+      },
+      "category": "combat",
+      "note": "Ordered rounds begin without an initiative roll; initiative is rolled during the continuous raid. The escape is confirmed at u1238–u1241."
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1242",
+        "endUid": "u1335"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u1336",
+        "endUid": "u1416"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u1417",
+        "endUid": "u1539"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u1540",
+        "endUid": "u1674"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u1675",
+        "endUid": "u1825"
+      },
+      "category": "gameplay",
+      "note": "The earthquake raid resolves one spell and escape without initiative or a repeated ordered turn cycle."
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u1826",
+        "endUid": "u2073"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u2074",
+        "endUid": "u2188"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u2189",
+        "endUid": "u2263"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u2264",
+        "endUid": "u2673"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u2674",
+        "endUid": "u2771"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u2772",
+        "endUid": "u2882"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u2883",
+        "endUid": "u2905"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u2906",
+        "endUid": "u2928"
+      },
+      "category": "table_talk",
+      "note": "Midnight refers to the real-world stopping time, following an explicit August 10 afternoon adventure anchor."
+    }
+  ]
+}

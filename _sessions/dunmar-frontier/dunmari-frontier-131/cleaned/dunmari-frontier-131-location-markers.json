@@ -1,0 +1,2074 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-131",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-session.yaml",
+    "sessionYamlSha256": "bb732af3cbfe72180d67b4f3537dd12031dbf8c56b408ecd7f30e765086c538b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-transcript.md",
+    "transcriptSha256": "76380b41ad581ceb0cf5196b16ddbbb5fa541c0505dcc08f2caf1b1a77fafadb"
+  },
+  "places": {
+    "p01": {
+      "label": "Three Wells",
+      "kind": "fortified camp",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0009",
+          "quote": "DM: Okay. So, you return to the valley of… Three Wells, a camp, where the people of the Refounded Alliance of Aurbez gather to discuss and plan and make decisions for the community. And we pick up on the morning of August 8th, after the War Council, after the discussions and debates about what to do, when you have decided that after a rest, you will proceed with your campaign of harassment and guerrilla warfare against the hobgoblin army."
+        },
+        {
+          "startUid": "u1238",
+          "endUid": "u1241",
+          "quote": "DM: So you appear back at Three Wells. Around sun… this is now around… it's around sunset, it's the evening. Yep. And immediately Delwath pulls out his silver mirror, or bowl of water, I forget what it is, and begins to cast Scry, targeting the location where you just were."
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Three Wells.md",
+      "note": "The Three Wells note places the camp on the Aurbez Plateau in the Refounded Alliance of Aurbez; this orientation comes from the vault."
+    },
+    "p02": {
+      "label": "Stream and hill outside Three Wells",
+      "kind": "hillside",
+      "evidence": [
+        {
+          "startUid": "u0142",
+          "endUid": "u0148",
+          "quote": "DM: For sure. So, okay, so, so the vibe… as you reach your… as… as… so, Kenzo, what… well, actually, let's, if anybody… is anybody else doing any… so Kenzo's gonna, like, go for a morning walk, basically, and take a little walk, just a short distance out of camp, and sense, you know, extend his perception, sense around, get a sense of the land, and… check in with stuff. Is anybody else doing anything? Particular this morning that requires DM attention to resolve? Are you just kind of chilling at camp, making plans?"
+        },
+        {
+          "startUid": "u0167",
+          "endUid": "u0175",
+          "quote": "DM: Okay, so, Kenzo, as Kenzo, as you walk… You, you can feel… feel this sense, tugging at you from the north. And it gets stronger as you sort of walk up up the hill from this valley, sort of following this stream a little bit. You go a couple miles, and you can feel the… presence of this… thing… strongly sort of tugging at you, and you reach out your consciousness. And the… the first thing that you notice as you reach out your consciousness and feel yourself make contact with this, or… or… or touch it somehow, is actually…"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0167",
+              "endUid": "u0175",
+              "quote": "DM: Okay, so, Kenzo, as Kenzo, as you walk… You, you can feel… feel this sense, tugging at you from the north. And it gets stronger as you sort of walk up up the hill from this valley, sort of following this stream a little bit. You go a couple miles, and you can feel the… presence of this… thing… strongly sort of tugging at you, and you reach out your consciousness. And the… the first thing that you notice as you reach out your consciousness and feel yourself make contact with this, or… or… or touch it somehow, is actually…"
+            }
+          ],
+          "note": "Kenzo walks a couple of miles out of the valley along the stream and up the hill."
+        }
+      ]
+    },
+    "p03": {
+      "label": "Hidden Valley of the Heartroot",
+      "kind": "valley",
+      "evidence": [
+        {
+          "startUid": "u0089",
+          "endUid": "u0093",
+          "quote": "DM: When the hobgoblins sacked Isingue, and when the plague descended, some rangers fled with a fragment of that soil of that root network, the, like, magic mycelium that was the cause of this fertility, and hid it in this valley in Aurbez."
+        },
+        {
+          "startUid": "u0094",
+          "endUid": "u0097",
+          "quote": "DM: They have been charged with protecting it since, although it has never spread and grown in the same way, and the point of the intro was to hint that that's… has to do with… its actual physical connection to the river, to the Istaros. So, the Rangers are hoping to someday restore it."
+        },
+        {
+          "startUid": "u0109",
+          "endUid": "u0113",
+          "quote": "DM: Yeah, so you… I mean, the Rangers told you, right? It's… valley, you know where it is. There's a valley which is marked on the map that's in Roll20. I can probably kind of draw on this, yeah. I put, like, a sort of crude blue circle around it."
+        },
+        {
+          "startUid": "u0114",
+          "endUid": "u0116",
+          "quote": "DM: So you know where it is. It's about 35, 40 miles away from where you are now. And, you know… Oh…"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0089",
+              "endUid": "u0093",
+              "quote": "DM: When the hobgoblins sacked Isingue, and when the plague descended, some rangers fled with a fragment of that soil of that root network, the, like, magic mycelium that was the cause of this fertility, and hid it in this valley in Aurbez."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Aurbez",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u0089",
+          "endUid": "u0093",
+          "quote": "DM: When the hobgoblins sacked Isingue, and when the plague descended, some rangers fled with a fragment of that soil of that root network, the, like, magic mycelium that was the cause of this fertility, and hid it in this valley in Aurbez."
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Refounded Alliance of Aurbez.md",
+      "note": "The session’s Aurbez is identified with the named Alliance realm; only the hidden valley’s containment is explicitly stated here."
+    },
+    "p05": {
+      "label": "Plaguelands",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0033",
+          "endUid": "u0035",
+          "quote": "DM: As the night turns, the Fox and Hunter glance at the hobgoblins moving across the Plaguelands. The rippling echoes of Limbo still cling to them, the same strange contamination that has been growing the past two months. Worried, the gaze of the Fox and Hunter linger on these creatures as dawn breaks, and their movement slows to a halt as they begin to set camp for the day under a blanket of ash."
+        },
+        {
+          "startUid": "u0840",
+          "endUid": "u0844",
+          "quote": "DM: So, you wait. As the sun begins to sink in the sky, here, we'll do the… more… Plagueland-y part of the image. Sun begins to sink in the sky, you know, August, sunsets… 7.30, something like that, so… couple hours pass. As the sun gets low, Sort of an hour before sunset or something."
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Plaguelands.md"
+    },
+    "p06": {
+      "label": "Vicinity of the August 8 army camp and marching ground",
+      "kind": "army camp vicinity",
+      "evidence": [
+        {
+          "startUid": "u0805",
+          "endUid": "u0811",
+          "quote": "DM: They're a little bit closer, so if it took you 7 hours before, we'll say it takes you about 6 hours to reach them. So it's mid-afternoon by the time you get there, say, 2 or 3 in the afternoon. And as you begin to approach, maybe from a couple miles away, you can see this lar- circle, maybe 600 feet… 700 feet, something like that, wide from end to end, and maybe not quite as wide, something maybe like 400 feet… 450 feet wide, so like an oval, a sort of rough oval of just this… billowing ash, just sitting on the ground, like a camp."
+        },
+        {
+          "startUid": "u0845",
+          "endUid": "u0852",
+          "quote": "DM: Whoever is soaring up for that… moment's scout, sees… You know, signs of… organization, signs of movement. Mostly, you begin to hear this sort of… Even from a mile away, you can hear the sort of… clacking, almost, like, booms of pieces of metal hitting each other of some kind. And it seems like that it's hard to see much in the… You know, obscured by the ash, but it seems like the… centipede, the creature is beginning to move."
+        },
+        {
+          "startUid": "u0853",
+          "endUid": "u0853",
+          "quote": "Delwath: Okay, let's."
+        },
+        {
+          "startUid": "u0854",
+          "endUid": "u0854",
+          "quote": "DM: And…"
+        },
+        {
+          "startUid": "u0855",
+          "endUid": "u0855",
+          "quote": "Delwath: Keep watching it for a minute."
+        },
+        {
+          "startUid": "u0856",
+          "endUid": "u0859",
+          "quote": "DM: Half an hour later, again, some… you know, maybe 30 minutes before sunset, sun low in the sky, but pre-dusk. You see, again, the line stretching now 450 feet long. Right. Beginning to sort of creep forward across this arid desert terrain."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0033",
+              "endUid": "u0035",
+              "quote": "DM: As the night turns, the Fox and Hunter glance at the hobgoblins moving across the Plaguelands. The rippling echoes of Limbo still cling to them, the same strange contamination that has been growing the past two months. Worried, the gaze of the Fox and Hunter linger on these creatures as dawn breaks, and their movement slows to a halt as they begin to set camp for the day under a blanket of ash."
+            },
+            {
+              "startUid": "u0840",
+              "endUid": "u0844",
+              "quote": "DM: So, you wait. As the sun begins to sink in the sky, here, we'll do the… more… Plagueland-y part of the image. Sun begins to sink in the sky, you know, August, sunsets… 7.30, something like that, so… couple hours pass. As the sun gets low, Sort of an hour before sunset or something."
+            },
+            {
+              "startUid": "u0845",
+              "endUid": "u0852",
+              "quote": "DM: Whoever is soaring up for that… moment's scout, sees… You know, signs of… organization, signs of movement. Mostly, you begin to hear this sort of… Even from a mile away, you can hear the sort of… clacking, almost, like, booms of pieces of metal hitting each other of some kind. And it seems like that it's hard to see much in the… You know, obscured by the ash, but it seems like the… centipede, the creature is beginning to move."
+            },
+            {
+              "startUid": "u0853",
+              "endUid": "u0853",
+              "quote": "Delwath: Okay, let's."
+            },
+            {
+              "startUid": "u0854",
+              "endUid": "u0854",
+              "quote": "DM: And…"
+            },
+            {
+              "startUid": "u0855",
+              "endUid": "u0855",
+              "quote": "Delwath: Keep watching it for a minute."
+            },
+            {
+              "startUid": "u0856",
+              "endUid": "u0859",
+              "quote": "DM: Half an hour later, again, some… you know, maybe 30 minutes before sunset, sun low in the sky, but pre-dusk. You see, again, the line stretching now 450 feet long. Right. Beginning to sort of creep forward across this arid desert terrain."
+            }
+          ],
+          "note": "The narrated army is in the Plaguelands; the raid follows it without an established river crossing."
+        }
+      ]
+    },
+    "p07": {
+      "label": "Waiting ground outside the August 8 camp",
+      "kind": "waiting ground",
+      "evidence": [
+        {
+          "startUid": "u0815",
+          "endUid": "u0820",
+          "quote": "Delwath: So I think we land a couple miles from camp. Right? And… wait. I mean, somebody can go up as a bird every once in a while to keep an eye on them, right? Or stay up there."
+        },
+        {
+          "startUid": "u0821",
+          "endUid": "u0824",
+          "quote": "Delwath: But the plan is, we don't do anything. I could cast Hallucinatory Terrain, so that we have… a place to hide under. Right? And then, short rest."
+        },
+        {
+          "startUid": "u0825",
+          "endUid": "u0826",
+          "quote": "DM: I mean, if you're… if you're a mile or two away, you know, it's not gonna make… You don't have to hide from them, by the way."
+        },
+        {
+          "startUid": "u0827",
+          "endUid": "u0827",
+          "quote": "Audio shared by Tim Sackton: [garbled], yeah."
+        },
+        {
+          "startUid": "u0828",
+          "endUid": "u0828",
+          "quote": "DM: So you wait."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0815",
+              "endUid": "u0820",
+              "quote": "Delwath: So I think we land a couple miles from camp. Right? And… wait. I mean, somebody can go up as a bird every once in a while to keep an eye on them, right? Or stay up there."
+            },
+            {
+              "startUid": "u0821",
+              "endUid": "u0824",
+              "quote": "Delwath: But the plan is, we don't do anything. I could cast Hallucinatory Terrain, so that we have… a place to hide under. Right? And then, short rest."
+            },
+            {
+              "startUid": "u0825",
+              "endUid": "u0826",
+              "quote": "DM: I mean, if you're… if you're a mile or two away, you know, it's not gonna make… You don't have to hide from them, by the way."
+            },
+            {
+              "startUid": "u0827",
+              "endUid": "u0827",
+              "quote": "Audio shared by Tim Sackton: [garbled], yeah."
+            },
+            {
+              "startUid": "u0828",
+              "endUid": "u0828",
+              "quote": "DM: So you wait."
+            }
+          ],
+          "note": "The party lands a mile or two from the army and waits."
+        }
+      ]
+    },
+    "p08": {
+      "label": "Air above the August 8 marching ground",
+      "kind": "airspace",
+      "evidence": [
+        {
+          "startUid": "u0864",
+          "endUid": "u0864",
+          "quote": "DM: So you begin to fly forward."
+        },
+        {
+          "startUid": "u0865",
+          "endUid": "u0865",
+          "quote": "Delwath: I mean, everybody's flying in some fashion."
+        },
+        {
+          "startUid": "u0866",
+          "endUid": "u0866",
+          "quote": "Wellby: Nice,"
+        },
+        {
+          "startUid": "u0867",
+          "endUid": "u0867",
+          "quote": "Delwath: I mean, we're flying as a group."
+        },
+        {
+          "startUid": "u0868",
+          "endUid": "u0868",
+          "quote": "DM: Yeah."
+        },
+        {
+          "startUid": "u0869",
+          "endUid": "u0871",
+          "quote": "Delwath: And I think we're us now, not… not… Dah… eagles, and what, when we're, like… 600 feet away or 700 feet away, we cast tsunami, something like that."
+        },
+        {
+          "startUid": "u0872",
+          "endUid": "u0872",
+          "quote": "Wellby: Yeah, I'll go ahead a little bit to get within 400 feet."
+        },
+        {
+          "startUid": "u0990",
+          "endUid": "u0991",
+          "quote": "DM: Seeker cast a spell when you were 700 feet away, and Wellby was… some number of feet ahead. How far do you need to be away? 400 feet?"
+        },
+        {
+          "startUid": "u0992",
+          "endUid": "u0992",
+          "quote": "Wellby: 400 feet."
+        },
+        {
+          "startUid": "u0993",
+          "endUid": "u0993",
+          "quote": "DM: So, Wellby's 200 feet ahead."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0856",
+              "endUid": "u0859",
+              "quote": "DM: Half an hour later, again, some… you know, maybe 30 minutes before sunset, sun low in the sky, but pre-dusk. You see, again, the line stretching now 450 feet long. Right. Beginning to sort of creep forward across this arid desert terrain."
+            },
+            {
+              "startUid": "u0860",
+              "endUid": "u0861",
+              "quote": "Delwath: So, I'm gonna cast Glibness. And then fly."
+            },
+            {
+              "startUid": "u0862",
+              "endUid": "u0862",
+              "quote": "DM: Okay."
+            },
+            {
+              "startUid": "u0863",
+              "endUid": "u0863",
+              "quote": "Delwath: And then… We will execute the plan."
+            },
+            {
+              "startUid": "u0864",
+              "endUid": "u0864",
+              "quote": "DM: So you begin to fly forward."
+            },
+            {
+              "startUid": "u0865",
+              "endUid": "u0865",
+              "quote": "Delwath: I mean, everybody's flying in some fashion."
+            },
+            {
+              "startUid": "u0866",
+              "endUid": "u0866",
+              "quote": "Wellby: Nice,"
+            },
+            {
+              "startUid": "u0867",
+              "endUid": "u0867",
+              "quote": "Delwath: I mean, we're flying as a group."
+            },
+            {
+              "startUid": "u0868",
+              "endUid": "u0868",
+              "quote": "DM: Yeah."
+            },
+            {
+              "startUid": "u0869",
+              "endUid": "u0871",
+              "quote": "Delwath: And I think we're us now, not… not… Dah… eagles, and what, when we're, like… 600 feet away or 700 feet away, we cast tsunami, something like that."
+            },
+            {
+              "startUid": "u0872",
+              "endUid": "u0872",
+              "quote": "Wellby: Yeah, I'll go ahead a little bit to get within 400 feet."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Chaos-metal centipede",
+      "kind": "moving construct",
+      "evidence": [
+        {
+          "startUid": "u1253",
+          "endUid": "u1254",
+          "quote": "DM: It's all, like, all the scales are, like, closed up. It's actually much narrower now, because these long spines that have… that stretched out, that formed the platforms the army was hanging on, have all, like, wrapped up like this, like, like, curling up over the top, like, just closing everything up tightly."
+        },
+        {
+          "startUid": "u2131",
+          "endUid": "u2135",
+          "quote": "DM: Okay, so, Seeker casts Clairvoyance, it is a chaotic mess of soldiers. The interior is dark, lit only by this sort of… like, there'll be sort of flickering blue lights that kind of run down the interior in these sort of chaotic patterns. But there's no consistent lighting. Seeker, of course, has darkvision, and you can use darkvision through your, clairvoyant sense. So you're seeing…"
+        },
+        {
+          "startUid": "u2136",
+          "endUid": "u2143",
+          "quote": "DM: And again, it's fairly tall, right? It's… it's… Excuse me, maybe… You know, 50 feet tall, and there's, like, things sticking out, right? Like, it's not a clear passageway. It's not… it's not like there's organized shelves or anything like that. There'll be, like, these chaotic spikes that sort of stick out at various angles. Not… not sharp spikes, like… And there are people just kind of hanging off these, some people trying… well, hobgoblins trying to sleep. Often they'll be just lying at some strange angle on one of these, like, shelves that sticks out at a 30 degree angle. Three of them just kind of lying there, trying to sleep on this platform. Some of them are just kind of hanging on, some of them are talking."
+        },
+        {
+          "startUid": "u2144",
+          "endUid": "u2150",
+          "quote": "DM: It's… there's a lot, you know, there's noise, there's kind of this constant low… rumbling, sort of humming sound. Doesn't seem that comfortable. But there's, like, you know, a few thousand… it's long, right? It's still… it's, like… If anything, even longer than it was before, maybe 500 feet… long. You know, so there's… the Hobgoblins are quite spread out across this entire length."
+        },
+        {
+          "startUid": "u2151",
+          "endUid": "u2153",
+          "quote": "DM: Where you randomly happen to place the sensor, there doesn't seem to be anything particularly special about… this spot versus any other spot, but he can only see 60 feet in any direction anyway, because of the darkness."
+        },
+        {
+          "startUid": "u2310",
+          "endUid": "u2311",
+          "quote": "DM: I'm gonna start initiative when the Dimension Doors go off. The four of you appear inside the centipede. You see basically what I described. There's… hobgoblins spread out around, there's these, like…"
+        }
+      ],
+      "mobile": true,
+      "aliases": [
+        "Mecha Centipede",
+        "metal monster"
+      ],
+      "note": "A mobile construct, used here as both observed shelter and a played interior. Its temporary battlefield positions are not enduring geographic parents."
+    },
+    "p10": {
+      "label": "August 9 army camp",
+      "kind": "army camp",
+      "evidence": [
+        {
+          "startUid": "u1444",
+          "endUid": "u1448",
+          "quote": "DM: So… Two… two things that you notice as you approach. Some… some, you know, a few hours, so you, again, you would get there, again, a little bit closer, maybe 5 hours, now instead of 6. So, you know, from the morning. Say, 8am to 1PM, something like that. So it's the middle… still the middle of the day. A couple things that you notice differently. Again, there, they're… The camp, you know, they're spread out, there's a big ash cloud."
+        },
+        {
+          "startUid": "u1449",
+          "endUid": "u1457",
+          "quote": "DM: There are about twenty sort of silver metallic… hawks, giant hawks, maybe… wingspan of 18, 20 feet, something like that, flying in wide circles, each one with a hobgoblin of some kind, mounted on it. Patrolling some, you know, some distance from some pretty wide distance. Like, it’s a… maybe… 600, you know, a circle about 600 feet in any direction. Some even a little bit further out, 800 feet in any direction from the… from the camp itself. Several of them begin turning and flying in your direction as you… as the, you know, as they see eagles on the horizon, even from some distance away."
+        },
+        {
+          "startUid": "u1458",
+          "endUid": "u1462",
+          "quote": "DM: You also can't… the ash is, like, billowing out again, and you can't see much about the arrangement of the camp. But it seems to be a different shape than before. It's a… it's a smaller area, significantly smaller, but a tight circle."
+        },
+        {
+          "startUid": "u1463",
+          "endUid": "u1463",
+          "quote": "Wellby: Is it cons… well, no, never mind."
+        },
+        {
+          "startUid": "u1464",
+          "endUid": "u1466",
+          "quote": "DM: So there's, say, 4 of these hawks racing towards you. You do not, at the moment, see the Empress. You are currently in eagle form. Say… 800 or 1,000 feet out."
+        },
+        {
+          "startUid": "u1524",
+          "endUid": "u1532",
+          "quote": "DM: Camp is… So it's… it's a… It's a tight circle. It's a… it's a circle with a diameter of maybe… 100, 150 feet. And so the… the army that remains is… is packed, it's fairly tightly in. The centipede creature has, like, turned on its side, and there's… the spines have grown to form, like, a lattice on top of the… on top of the camp, forming, like, a… dense weave of these sort of metallic… you know, sort of shimmering… it's like a… it's like a basket, basically. Like, it's…"
+        },
+        {
+          "startUid": "u1533",
+          "endUid": "u1533",
+          "quote": "Delwath: Is it, like…"
+        },
+        {
+          "startUid": "u1534",
+          "endUid": "u1534",
+          "quote": "DM: Underneath a basket."
+        },
+        {
+          "startUid": "u1535",
+          "endUid": "u1535",
+          "quote": "Delwath: Is it, like… it's like a basket… I mean, it's not, like, thick weaves that you could see through if you were on the top, right? Is it tight?"
+        },
+        {
+          "startUid": "u1536",
+          "endUid": "u1537",
+          "quote": "DM: No, no, no, no, it's… yeah, I mean… You can see… No, there's not, like, there's, like, maybe dappled light passing through, right? Like, it's not completely opaque to…"
+        },
+        {
+          "startUid": "u1538",
+          "endUid": "u1538",
+          "quote": "Delwath: Or whatever."
+        },
+        {
+          "startUid": "u1539",
+          "endUid": "u1539",
+          "quote": "DM: Dark underneath."
+        },
+        {
+          "startUid": "u1540",
+          "endUid": "u1541",
+          "quote": "Delwath: Is it enough… of a gap that you could cast a spell through there?"
+        },
+        {
+          "startUid": "u1542",
+          "endUid": "u1546",
+          "quote": "DM: Possibly, you know absolutely nothing about the properties of Chaos Metal. And… If it were made of… if it were made of a mundane material, you'd be relatively confident you could cast a spell. It might… it might take a little… It is not airtight, right? I guess it would provide at least 3 quarters cover."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0033",
+              "endUid": "u0035",
+              "quote": "DM: As the night turns, the Fox and Hunter glance at the hobgoblins moving across the Plaguelands. The rippling echoes of Limbo still cling to them, the same strange contamination that has been growing the past two months. Worried, the gaze of the Fox and Hunter linger on these creatures as dawn breaks, and their movement slows to a halt as they begin to set camp for the day under a blanket of ash."
+            },
+            {
+              "startUid": "u1444",
+              "endUid": "u1448",
+              "quote": "DM: So… Two… two things that you notice as you approach. Some… some, you know, a few hours, so you, again, you would get there, again, a little bit closer, maybe 5 hours, now instead of 6. So, you know, from the morning. Say, 8am to 1PM, something like that. So it's the middle… still the middle of the day. A couple things that you notice differently. Again, there, they're… The camp, you know, they're spread out, there's a big ash cloud."
+            },
+            {
+              "startUid": "u2094",
+              "endUid": "u2099",
+              "quote": "DM: Right, so Kenzo's pretty good at sensing that. So your typical thing is to, like, head out, and then Kenzo will stop and do his aura sense and get you a direction. At this point, so you do some exploring, right? You head out there. Kenzo senses them only maybe 30 miles from the river, so it does seem like they've been moving… you know, around 3 miles an hour, constantly since… yesterday afternoon. They've… they've covered… 20… they've covered 60 miles or something."
+            }
+          ],
+          "note": "The campaign follows the same army before its intended river crossing; no fixed coordinates are available."
+        }
+      ]
+    },
+    "p11": {
+      "label": "Concealed blind outside the August 9 camp",
+      "kind": "blind",
+      "evidence": [
+        {
+          "startUid": "u1496",
+          "endUid": "u1496",
+          "quote": "Delwath: But Scrying also takes 10 minutes to cast, I don't think I want to take the time. Let's, let's Clairvoyance. So we're, like, let's land, like, a mile and a half away. Like, Clairvoyance is a mile range."
+        },
+        {
+          "startUid": "u1497",
+          "endUid": "u1497",
+          "quote": "Seeker: Yeah, it also takes 10 minutes."
+        },
+        {
+          "startUid": "u1498",
+          "endUid": "u1498",
+          "quote": "DM: It also takes 10 minutes to cast."
+        },
+        {
+          "startUid": "u1499",
+          "endUid": "u1499",
+          "quote": "Delwath: Okay. I guess if… we do both."
+        },
+        {
+          "startUid": "u1500",
+          "endUid": "u1500",
+          "quote": "Seeker: Sure."
+        },
+        {
+          "startUid": "u1501",
+          "endUid": "u1502",
+          "quote": "Delwath: Although, I could also cast Hallucinatory Terrain. Which gives us a good base."
+        },
+        {
+          "startUid": "u1503",
+          "endUid": "u1503",
+          "quote": "Wellby: You can see this out there."
+        },
+        {
+          "startUid": "u1504",
+          "endUid": "u1504",
+          "quote": "Delwath: Yeah."
+        },
+        {
+          "startUid": "u1505",
+          "endUid": "u1506",
+          "quote": "Wellby: Sure. Yeah, Hallucinatory Terrain to conceal us."
+        },
+        {
+          "startUid": "u1507",
+          "endUid": "u1508",
+          "quote": "Delwath: Which also takes 10 minutes to cast. Think."
+        },
+        {
+          "startUid": "u1509",
+          "endUid": "u1509",
+          "quote": "DM: Nobody comes to investigate while you're casting whatever you're casting."
+        },
+        {
+          "startUid": "u1510",
+          "endUid": "u1510",
+          "quote": "Delwath: Yeah, I'm gonna cast Hallucinatory Terrain."
+        },
+        {
+          "startUid": "u1511",
+          "endUid": "u1511",
+          "quote": "DM: Right, if you stay for, you know, an hour, somebody might, but…"
+        },
+        {
+          "startUid": "u1512",
+          "endUid": "u1512",
+          "quote": "Delwath: Wow, I'm gonna make a nice hidden…"
+        },
+        {
+          "startUid": "u1513",
+          "endUid": "u1513",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u1514",
+          "endUid": "u1515",
+          "quote": "Delwath: A nice hidden… You know, blind of, you know, a couple rocks and some sand and whatever, so that it… we're hidden beneath it, right?"
+        },
+        {
+          "startUid": "u1516",
+          "endUid": "u1516",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u1517",
+          "endUid": "u1517",
+          "quote": "Delwath: And then Seeker, I think, is casting Clairvoyance, targeting the middle of the camp."
+        },
+        {
+          "startUid": "u1518",
+          "endUid": "u1518",
+          "quote": "DM: Yes."
+        },
+        {
+          "startUid": "u1519",
+          "endUid": "u1519",
+          "quote": "Seeker: Yeah."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1496",
+              "endUid": "u1496",
+              "quote": "Delwath: But Scrying also takes 10 minutes to cast, I don't think I want to take the time. Let's, let's Clairvoyance. So we're, like, let's land, like, a mile and a half away. Like, Clairvoyance is a mile range."
+            },
+            {
+              "startUid": "u1497",
+              "endUid": "u1497",
+              "quote": "Seeker: Yeah, it also takes 10 minutes."
+            },
+            {
+              "startUid": "u1498",
+              "endUid": "u1498",
+              "quote": "DM: It also takes 10 minutes to cast."
+            },
+            {
+              "startUid": "u1499",
+              "endUid": "u1499",
+              "quote": "Delwath: Okay. I guess if… we do both."
+            },
+            {
+              "startUid": "u1500",
+              "endUid": "u1500",
+              "quote": "Seeker: Sure."
+            },
+            {
+              "startUid": "u1501",
+              "endUid": "u1502",
+              "quote": "Delwath: Although, I could also cast Hallucinatory Terrain. Which gives us a good base."
+            },
+            {
+              "startUid": "u1503",
+              "endUid": "u1503",
+              "quote": "Wellby: You can see this out there."
+            },
+            {
+              "startUid": "u1504",
+              "endUid": "u1504",
+              "quote": "Delwath: Yeah."
+            },
+            {
+              "startUid": "u1505",
+              "endUid": "u1506",
+              "quote": "Wellby: Sure. Yeah, Hallucinatory Terrain to conceal us."
+            },
+            {
+              "startUid": "u1507",
+              "endUid": "u1508",
+              "quote": "Delwath: Which also takes 10 minutes to cast. Think."
+            },
+            {
+              "startUid": "u1509",
+              "endUid": "u1509",
+              "quote": "DM: Nobody comes to investigate while you're casting whatever you're casting."
+            },
+            {
+              "startUid": "u1510",
+              "endUid": "u1510",
+              "quote": "Delwath: Yeah, I'm gonna cast Hallucinatory Terrain."
+            },
+            {
+              "startUid": "u1511",
+              "endUid": "u1511",
+              "quote": "DM: Right, if you stay for, you know, an hour, somebody might, but…"
+            },
+            {
+              "startUid": "u1512",
+              "endUid": "u1512",
+              "quote": "Delwath: Wow, I'm gonna make a nice hidden…"
+            },
+            {
+              "startUid": "u1513",
+              "endUid": "u1513",
+              "quote": "DM: Okay."
+            },
+            {
+              "startUid": "u1514",
+              "endUid": "u1515",
+              "quote": "Delwath: A nice hidden… You know, blind of, you know, a couple rocks and some sand and whatever, so that it… we're hidden beneath it, right?"
+            }
+          ],
+          "note": "The proposed landing is roughly a mile and a half out; Clairvoyance has a one-mile range, so the final separation is not resolved exactly."
+        }
+      ]
+    },
+    "p12": {
+      "label": "Rendezvous near the moving centipede on August 10",
+      "kind": "airspace",
+      "evidence": [
+        {
+          "startUid": "u2077",
+          "endUid": "u2077",
+          "quote": "DM: So, noon on August 10th."
+        },
+        {
+          "startUid": "u2078",
+          "endUid": "u2080",
+          "quote": "Delwath: But before noon, we want to, like, clairvoyance. Ideally, we get… a mile or, like, 2 miles away, find a spot and Clairvoyance."
+        },
+        {
+          "startUid": "u2081",
+          "endUid": "u2081",
+          "quote": "DM: Oh my god."
+        },
+        {
+          "startUid": "u2082",
+          "endUid": "u2083",
+          "quote": "Delwath: Right. So if we have to get up a little bit early, we'll do that, right?"
+        },
+        {
+          "startUid": "u2084",
+          "endUid": "u2084",
+          "quote": "DM: Yeah, yeah. So…"
+        },
+        {
+          "startUid": "u2094",
+          "endUid": "u2099",
+          "quote": "DM: Right, so Kenzo's pretty good at sensing that. So your typical thing is to, like, head out, and then Kenzo will stop and do his aura sense and get you a direction. At this point, so you do some exploring, right? You head out there. Kenzo senses them only maybe 30 miles from the river, so it does seem like they've been moving… you know, around 3 miles an hour, constantly since… yesterday afternoon. They've… they've covered… 20… they've covered 60 miles or something."
+        },
+        {
+          "startUid": "u2100",
+          "endUid": "u2100",
+          "quote": "Delwath: Where are they? Can you point… can you ping on the map exactly where we are?"
+        },
+        {
+          "startUid": "u2101",
+          "endUid": "u2101",
+          "quote": "DM: So… so they're… they're, like, aiming to cross the river, like, somewhere, like, right here, or right here, like, around."
+        },
+        {
+          "startUid": "u2102",
+          "endUid": "u2102",
+          "quote": "Delwath: I'm not seeing."
+        },
+        {
+          "startUid": "u2103",
+          "endUid": "u2104",
+          "quote": "DM: Oh, sorry, I'm not pinging. Right, so, like, here-ish, they're aiming to cross the river."
+        },
+        {
+          "startUid": "u2105",
+          "endUid": "u2105",
+          "quote": "Delwath: Okay."
+        },
+        {
+          "startUid": "u2106",
+          "endUid": "u2106",
+          "quote": "DM: So they're, like, you know… There, roughly."
+        },
+        {
+          "startUid": "u2174",
+          "endUid": "u2176",
+          "quote": "DM: So you show up. You see the centipede? There's no creatures flying above it, there's no…"
+        },
+        {
+          "startUid": "u2177",
+          "endUid": "u2177",
+          "quote": "Kenzo: It's moving."
+        },
+        {
+          "startUid": "u2178",
+          "endUid": "u2179",
+          "quote": "DM: Everybody's moving at its continual slow crawl. No Empress of Chaos in sight."
+        },
+        {
+          "startUid": "u2180",
+          "endUid": "u2180",
+          "quote": "Kenzo: Where is she? SoulSight, like, just AuraSense, is she inside the thing?"
+        },
+        {
+          "startUid": "u2181",
+          "endUid": "u2181",
+          "quote": "DM: Yeah."
+        },
+        {
+          "startUid": "u2182",
+          "endUid": "u2182",
+          "quote": "Kenzo: Shit."
+        },
+        {
+          "startUid": "u2183",
+          "endUid": "u2184",
+          "quote": "Delwath: I mean, that's one downside of teleporting in there. Right?"
+        },
+        {
+          "startUid": "u2185",
+          "endUid": "u2185",
+          "quote": "Kenzo: Did we teleport in, or did we."
+        },
+        {
+          "startUid": "u2186",
+          "endUid": "u2186",
+          "quote": "Delwath: We didn't… I mean, we were…"
+        },
+        {
+          "startUid": "u2187",
+          "endUid": "u2187",
+          "quote": "DM: Flew, with animal shapes."
+        },
+        {
+          "startUid": "u2188",
+          "endUid": "u2188",
+          "quote": "Kenzo: Yeah."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0033",
+              "endUid": "u0035",
+              "quote": "DM: As the night turns, the Fox and Hunter glance at the hobgoblins moving across the Plaguelands. The rippling echoes of Limbo still cling to them, the same strange contamination that has been growing the past two months. Worried, the gaze of the Fox and Hunter linger on these creatures as dawn breaks, and their movement slows to a halt as they begin to set camp for the day under a blanket of ash."
+            },
+            {
+              "startUid": "u2094",
+              "endUid": "u2099",
+              "quote": "DM: Right, so Kenzo's pretty good at sensing that. So your typical thing is to, like, head out, and then Kenzo will stop and do his aura sense and get you a direction. At this point, so you do some exploring, right? You head out there. Kenzo senses them only maybe 30 miles from the river, so it does seem like they've been moving… you know, around 3 miles an hour, constantly since… yesterday afternoon. They've… they've covered… 20… they've covered 60 miles or something."
+            },
+            {
+              "startUid": "u2100",
+              "endUid": "u2100",
+              "quote": "Delwath: Where are they? Can you point… can you ping on the map exactly where we are?"
+            },
+            {
+              "startUid": "u2101",
+              "endUid": "u2101",
+              "quote": "DM: So… so they're… they're, like, aiming to cross the river, like, somewhere, like, right here, or right here, like, around."
+            },
+            {
+              "startUid": "u2102",
+              "endUid": "u2102",
+              "quote": "Delwath: I'm not seeing."
+            },
+            {
+              "startUid": "u2103",
+              "endUid": "u2104",
+              "quote": "DM: Oh, sorry, I'm not pinging. Right, so, like, here-ish, they're aiming to cross the river."
+            },
+            {
+              "startUid": "u2105",
+              "endUid": "u2105",
+              "quote": "Delwath: Okay."
+            },
+            {
+              "startUid": "u2106",
+              "endUid": "u2106",
+              "quote": "DM: So they're, like, you know… There, roughly."
+            }
+          ],
+          "note": "The army remains about thirty miles from its intended river crossing; map gestures do not identify exact coordinates."
+        }
+      ]
+    },
+    "p13": {
+      "label": "Revaka’s mirror cell",
+      "kind": "magical prison",
+      "evidence": [
+        {
+          "startUid": "u0532",
+          "endUid": "u0532",
+          "quote": "Kenzo: Wait, but she also is now currently in the same cell as the other Hobgoblin, which she's been interrogating."
+        },
+        {
+          "startUid": "u0533",
+          "endUid": "u0533",
+          "quote": "DM: Yeah, he is unconscious on the floor when you summon her to the mirror."
+        }
+      ]
+    },
+    "p14": {
+      "label": "Exterior of the August 9 army camp",
+      "kind": "camp perimeter",
+      "evidence": [
+        {
+          "startUid": "u1444",
+          "endUid": "u1448",
+          "quote": "DM: So… Two… two things that you notice as you approach. Some… some, you know, a few hours, so you, again, you would get there, again, a little bit closer, maybe 5 hours, now instead of 6. So, you know, from the morning. Say, 8am to 1PM, something like that. So it's the middle… still the middle of the day. A couple things that you notice differently. Again, there, they're… The camp, you know, they're spread out, there's a big ash cloud."
+        },
+        {
+          "startUid": "u1449",
+          "endUid": "u1457",
+          "quote": "DM: There are about twenty sort of silver metallic… hawks, giant hawks, maybe… wingspan of 18, 20 feet, something like that, flying in wide circles, each one with a hobgoblin of some kind, mounted on it. Patrolling some, you know, some distance from some pretty wide distance. Like, it’s a… maybe… 600, you know, a circle about 600 feet in any direction. Some even a little bit further out, 800 feet in any direction from the… from the camp itself. Several of them begin turning and flying in your direction as you… as the, you know, as they see eagles on the horizon, even from some distance away."
+        },
+        {
+          "startUid": "u1458",
+          "endUid": "u1462",
+          "quote": "DM: You also can't… the ash is, like, billowing out again, and you can't see much about the arrangement of the camp. But it seems to be a different shape than before. It's a… it's a smaller area, significantly smaller, but a tight circle."
+        },
+        {
+          "startUid": "u1463",
+          "endUid": "u1463",
+          "quote": "Wellby: Is it cons… well, no, never mind."
+        },
+        {
+          "startUid": "u1464",
+          "endUid": "u1466",
+          "quote": "DM: So there's, say, 4 of these hawks racing towards you. You do not, at the moment, see the Empress. You are currently in eagle form. Say… 800 or 1,000 feet out."
+        },
+        {
+          "startUid": "u1684",
+          "endUid": "u1686",
+          "quote": "Delwath: If we think 1,000 feet would work, then I'm okay. I think we should just… we should do it at 1,000 feet. We should double it once and do it at 1,000 feet. Again, I think we should trigger daylight, and like… be very visible when we do this."
+        },
+        {
+          "startUid": "u1687",
+          "endUid": "u1687",
+          "quote": "Wellby: Let's do it."
+        },
+        {
+          "startUid": "u1688",
+          "endUid": "u1688",
+          "quote": "Delwath: Let's do it!"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1464",
+              "endUid": "u1466",
+              "quote": "DM: So there's, say, 4 of these hawks racing towards you. You do not, at the moment, see the Empress. You are currently in eagle form. Say… 800 or 1,000 feet out."
+            },
+            {
+              "startUid": "u1684",
+              "endUid": "u1686",
+              "quote": "Delwath: If we think 1,000 feet would work, then I'm okay. I think we should just… we should do it at 1,000 feet. We should double it once and do it at 1,000 feet. Again, I think we should trigger daylight, and like… be very visible when we do this."
+            },
+            {
+              "startUid": "u1687",
+              "endUid": "u1687",
+              "quote": "Wellby: Let's do it."
+            },
+            {
+              "startUid": "u1688",
+              "endUid": "u1688",
+              "quote": "Delwath: Let's do it!"
+            }
+          ],
+          "note": "The party stays outside the shelter: initially 800–1,000 feet out and later at the accepted thousand-foot attack position."
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0009"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party opens at the council camp of Three Wells.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0009",
+          "quote": "DM: Okay. So, you return to the valley of… Three Wells, a camp, where the people of the Refounded Alliance of Aurbez gather to discuss and plan and make decisions for the community. And we pick up on the morning of August 8th, after the War Council, after the discussions and debates about what to do, when you have decided that after a rest, you will proceed with your campaign of harassment and guerrilla warfare against the hobgoblin army."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0142",
+        "endUid": "u0175"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo walks a couple of miles along the stream and up a hill outside camp.",
+      "evidence": [
+        {
+          "startUid": "u0142",
+          "endUid": "u0148",
+          "quote": "DM: For sure. So, okay, so, so the vibe… as you reach your… as… as… so, Kenzo, what… well, actually, let's, if anybody… is anybody else doing any… so Kenzo's gonna, like, go for a morning walk, basically, and take a little walk, just a short distance out of camp, and sense, you know, extend his perception, sense around, get a sense of the land, and… check in with stuff. Is anybody else doing anything? Particular this morning that requires DM attention to resolve? Are you just kind of chilling at camp, making plans?"
+        },
+        {
+          "startUid": "u0167",
+          "endUid": "u0175",
+          "quote": "DM: Okay, so, Kenzo, as Kenzo, as you walk… You, you can feel… feel this sense, tugging at you from the north. And it gets stronger as you sort of walk up up the hill from this valley, sort of following this stream a little bit. You go a couple miles, and you can feel the… presence of this… thing… strongly sort of tugging at you, and you reach out your consciousness. And the… the first thing that you notice as you reach out your consciousness and feel yourself make contact with this, or… or… or touch it somehow, is actually…"
+        }
+      ],
+      "from": "p01",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "walk",
+      "distance": {
+        "value": 2,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM says a couple miles."
+      }
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0167",
+        "endUid": "u0197"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "From outside Three Wells, Kenzo makes remote sensory contact with the Heartroot in its hidden valley.",
+      "evidence": [
+        {
+          "startUid": "u0109",
+          "endUid": "u0113",
+          "quote": "DM: Yeah, so you… I mean, the Rangers told you, right? It's… valley, you know where it is. There's a valley which is marked on the map that's in Roll20. I can probably kind of draw on this, yeah. I put, like, a sort of crude blue circle around it."
+        },
+        {
+          "startUid": "u0114",
+          "endUid": "u0116",
+          "quote": "DM: So you know where it is. It's about 35, 40 miles away from where you are now. And, you know… Oh…"
+        },
+        {
+          "startUid": "u0167",
+          "endUid": "u0175",
+          "quote": "DM: Okay, so, Kenzo, as Kenzo, as you walk… You, you can feel… feel this sense, tugging at you from the north. And it gets stronger as you sort of walk up up the hill from this valley, sort of following this stream a little bit. You go a couple miles, and you can feel the… presence of this… thing… strongly sort of tugging at you, and you reach out your consciousness. And the… the first thing that you notice as you reach out your consciousness and feel yourself make contact with this, or… or… or touch it somehow, is actually…"
+        },
+        {
+          "startUid": "u0184",
+          "endUid": "u0187",
+          "quote": "DM: And then the warmth on your skin, and almost… you almost… this thing is deeply ancient, whatever it is. Incredibly old and much larger than even you, as strong as you are. And you're almost involuntarily pulled towards it. You almost disassociate from your body. It's like an involuntary use of your astral form, and it pulls at you."
+        },
+        {
+          "startUid": "u0196",
+          "endUid": "u0197",
+          "quote": "DM: This… thing does not fit where it is. It's… there's something wrong about how it… how it lies. It's trying to stretch."
+        }
+      ],
+      "place": "p03",
+      "observerPlace": "p02",
+      "mode": "remote",
+      "note": "The sensations do not establish physical arrival at the Heartroot."
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0532",
+        "endUid": "u0533"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party summons Revaka to the mirror and sees the other prisoner unconscious in her cell.",
+      "evidence": [
+        {
+          "startUid": "u0532",
+          "endUid": "u0532",
+          "quote": "Kenzo: Wait, but she also is now currently in the same cell as the other Hobgoblin, which she's been interrogating."
+        },
+        {
+          "startUid": "u0533",
+          "endUid": "u0533",
+          "quote": "DM: Yeah, he is unconscious on the floor when you summon her to the mirror."
+        }
+      ],
+      "place": "p13",
+      "mode": "remote",
+      "observerPlace": "p01"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0801",
+        "endUid": "u0811"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party flies as eagles from its Three Wells base to the vicinity of the army camp.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0009",
+          "quote": "DM: Okay. So, you return to the valley of… Three Wells, a camp, where the people of the Refounded Alliance of Aurbez gather to discuss and plan and make decisions for the community. And we pick up on the morning of August 8th, after the War Council, after the discussions and debates about what to do, when you have decided that after a rest, you will proceed with your campaign of harassment and guerrilla warfare against the hobgoblin army."
+        },
+        {
+          "startUid": "u0801",
+          "endUid": "u0804",
+          "quote": "DM: Okay, so… you turn into eagles and begin to fly, soaring through the morning. It…"
+        },
+        {
+          "startUid": "u0805",
+          "endUid": "u0811",
+          "quote": "DM: They're a little bit closer, so if it took you 7 hours before, we'll say it takes you about 6 hours to reach them. So it's mid-afternoon by the time you get there, say, 2 or 3 in the afternoon. And as you begin to approach, maybe from a couple miles away, you can see this lar- circle, maybe 600 feet… 700 feet, something like that, wide from end to end, and maybe not quite as wide, something maybe like 400 feet… 450 feet wide, so like an oval, a sort of rough oval of just this… billowing ash, just sitting on the ground, like a camp."
+        }
+      ],
+      "from": "p01",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "fly as eagles",
+      "duration": {
+        "value": 6,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM narrates six hours to reach the army."
+      }
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0815",
+        "endUid": "u0828"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party lands away from the army and waits for it to march.",
+      "evidence": [
+        {
+          "startUid": "u0815",
+          "endUid": "u0820",
+          "quote": "Delwath: So I think we land a couple miles from camp. Right? And… wait. I mean, somebody can go up as a bird every once in a while to keep an eye on them, right? Or stay up there."
+        },
+        {
+          "startUid": "u0825",
+          "endUid": "u0826",
+          "quote": "DM: I mean, if you're… if you're a mile or two away, you know, it's not gonna make… You don't have to hide from them, by the way."
+        },
+        {
+          "startUid": "u0827",
+          "endUid": "u0827",
+          "quote": "Audio shared by Tim Sackton: [garbled], yeah."
+        },
+        {
+          "startUid": "u0828",
+          "endUid": "u0828",
+          "quote": "DM: So you wait."
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "fly and land",
+      "distance": {
+        "text": "a mile or two from camp",
+        "unit": "mile",
+        "precision": "vague",
+        "basis": "Accepted landing location relative to the army, not a measured flight leg."
+      }
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u0845",
+        "endUid": "u0859"
+      },
+      "actors": [
+        "Unspecified party scout"
+      ],
+      "reading": "A scout sees the camp reorganize and the centipede begin marching.",
+      "evidence": [
+        {
+          "startUid": "u0845",
+          "endUid": "u0852",
+          "quote": "DM: Whoever is soaring up for that… moment's scout, sees… You know, signs of… organization, signs of movement. Mostly, you begin to hear this sort of… Even from a mile away, you can hear the sort of… clacking, almost, like, booms of pieces of metal hitting each other of some kind. And it seems like that it's hard to see much in the… You know, obscured by the ash, but it seems like the… centipede, the creature is beginning to move."
+        },
+        {
+          "startUid": "u0856",
+          "endUid": "u0859",
+          "quote": "DM: Half an hour later, again, some… you know, maybe 30 minutes before sunset, sun low in the sky, but pre-dusk. You see, again, the line stretching now 450 feet long. Right. Beginning to sort of creep forward across this arid desert terrain."
+        }
+      ],
+      "place": "p06",
+      "mode": "local",
+      "observerPlace": "p07",
+      "note": "The scout is soaring above the waiting ground; the exact observer identity is not stated."
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0864",
+        "endUid": "u0872"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party flies toward the marching centipede in its own forms; Wellby proceeds ahead of the others.",
+      "evidence": [
+        {
+          "startUid": "u0864",
+          "endUid": "u0864",
+          "quote": "DM: So you begin to fly forward."
+        },
+        {
+          "startUid": "u0865",
+          "endUid": "u0865",
+          "quote": "Delwath: I mean, everybody's flying in some fashion."
+        },
+        {
+          "startUid": "u0866",
+          "endUid": "u0866",
+          "quote": "Wellby: Nice,"
+        },
+        {
+          "startUid": "u0867",
+          "endUid": "u0867",
+          "quote": "Delwath: I mean, we're flying as a group."
+        },
+        {
+          "startUid": "u0868",
+          "endUid": "u0868",
+          "quote": "DM: Yeah."
+        },
+        {
+          "startUid": "u0869",
+          "endUid": "u0871",
+          "quote": "Delwath: And I think we're us now, not… not… Dah… eagles, and what, when we're, like… 600 feet away or 700 feet away, we cast tsunami, something like that."
+        },
+        {
+          "startUid": "u0872",
+          "endUid": "u0872",
+          "quote": "Wellby: Yeah, I'll go ahead a little bit to get within 400 feet."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "fly",
+      "note": "The group remains hundreds of feet away. Wellby’s changing lead is tactical positioning within the same airspace."
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1238",
+        "endUid": "u1241"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Seeker’s teleport returns the party to Three Wells.",
+      "evidence": [
+        {
+          "startUid": "u1238",
+          "endUid": "u1241",
+          "quote": "DM: So you appear back at Three Wells. Around sun… this is now around… it's around sunset, it's the evening. Yep. And immediately Delwath pulls out his silver mirror, or bowl of water, I forget what it is, and begins to cast Scry, targeting the location where you just were."
+        }
+      ],
+      "from": "p08",
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "teleport"
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u1243",
+        "endUid": "u1272"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "From Three Wells, Delwath scries the battlefield and the centipede continuing without ash, its surviving passengers concealed inside.",
+      "evidence": [
+        {
+          "startUid": "u1238",
+          "endUid": "u1241",
+          "quote": "DM: So you appear back at Three Wells. Around sun… this is now around… it's around sunset, it's the evening. Yep. And immediately Delwath pulls out his silver mirror, or bowl of water, I forget what it is, and begins to cast Scry, targeting the location where you just were."
+        },
+        {
+          "startUid": "u1243",
+          "endUid": "u1244",
+          "quote": "DM: A few minutes later, you see the image shimmering and appear. You can see the centipede moving. It's not moving fast enough that it's moved entirely out of the…"
+        },
+        {
+          "startUid": "u1245",
+          "endUid": "u1245",
+          "quote": "Delwath: Visual."
+        },
+        {
+          "startUid": "u1246",
+          "endUid": "u1250",
+          "quote": "DM: Out of the visual by the time you finish casting the spell. It's… still moving in this direction. There are… there's no ash. It's in the clear, and there's no… visible Hobgoblins. Except the… Empress, now riding at the head of the centipede."
+        },
+        {
+          "startUid": "u1253",
+          "endUid": "u1254",
+          "quote": "DM: It's all, like, all the scales are, like, closed up. It's actually much narrower now, because these long spines that have… that stretched out, that formed the platforms the army was hanging on, have all, like, wrapped up like this, like, like, curling up over the top, like, just closing everything up tightly."
+        },
+        {
+          "startUid": "u1255",
+          "endUid": "u1255",
+          "quote": "Kenzo: Are there bodies?"
+        },
+        {
+          "startUid": "u1256",
+          "endUid": "u1257",
+          "quote": "DM: Yeah, oh yeah, there's… Maybe a thousand bodies?"
+        },
+        {
+          "startUid": "u1271",
+          "endUid": "u1272",
+          "quote": "DM: They seem to be riding inside it, which has the downside of turning off the ash. They can't… Spray ash if they're all wrapped up tight."
+        }
+      ],
+      "place": "p06",
+      "mode": "remote",
+      "observerPlace": "p01",
+      "observedActors": [
+        "Empress of Chaos"
+      ],
+      "note": "The centipede is still within view of the fixed battlefield sensor; this is not a party return."
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1437",
+        "endUid": "u1466"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "On August 9 the party flies as birds to the new camp’s outer patrol perimeter.",
+      "evidence": [
+        {
+          "startUid": "u1437",
+          "endUid": "u1437",
+          "quote": "DM: So you fly out as birds,"
+        },
+        {
+          "startUid": "u1444",
+          "endUid": "u1448",
+          "quote": "DM: So… Two… two things that you notice as you approach. Some… some, you know, a few hours, so you, again, you would get there, again, a little bit closer, maybe 5 hours, now instead of 6. So, you know, from the morning. Say, 8am to 1PM, something like that. So it's the middle… still the middle of the day. A couple things that you notice differently. Again, there, they're… The camp, you know, they're spread out, there's a big ash cloud."
+        },
+        {
+          "startUid": "u1464",
+          "endUid": "u1466",
+          "quote": "DM: So there's, say, 4 of these hawks racing towards you. You do not, at the moment, see the Empress. You are currently in eagle form. Say… 800 or 1,000 feet out."
+        }
+      ],
+      "from": "p01",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "fly as birds",
+      "duration": {
+        "value": 5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated flight from approximately 8 a.m. to 1 p.m."
+      },
+      "note": "Arrival is to the camp vicinity, about 800–1,000 feet outside; it does not put the party inside the defended camp."
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1476",
+        "endUid": "u1519"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party withdraws beyond the hawk patrols and establishes a concealed blind.",
+      "evidence": [
+        {
+          "startUid": "u1479",
+          "endUid": "u1481",
+          "quote": "Delwath: I think… I think we need to regroup and discuss our strategy, so I think we fly… I think we turn and we fly back a mile, or two. And if these 4 guys follow us, we just kill them."
+        },
+        {
+          "startUid": "u1482",
+          "endUid": "u1482",
+          "quote": "Seeker: Yeah."
+        },
+        {
+          "startUid": "u1483",
+          "endUid": "u1485",
+          "quote": "DM: They… you turn, they do not seem to follow you beyond… They don't seem to leave. Beyond, like, maybe 800 feet from the camp. So as you turn and leave, they don't follow."
+        },
+        {
+          "startUid": "u1496",
+          "endUid": "u1496",
+          "quote": "Delwath: But Scrying also takes 10 minutes to cast, I don't think I want to take the time. Let's, let's Clairvoyance. So we're, like, let's land, like, a mile and a half away. Like, Clairvoyance is a mile range."
+        },
+        {
+          "startUid": "u1509",
+          "endUid": "u1509",
+          "quote": "DM: Nobody comes to investigate while you're casting whatever you're casting."
+        },
+        {
+          "startUid": "u1510",
+          "endUid": "u1510",
+          "quote": "Delwath: Yeah, I'm gonna cast Hallucinatory Terrain."
+        },
+        {
+          "startUid": "u1511",
+          "endUid": "u1511",
+          "quote": "DM: Right, if you stay for, you know, an hour, somebody might, but…"
+        },
+        {
+          "startUid": "u1512",
+          "endUid": "u1512",
+          "quote": "Delwath: Wow, I'm gonna make a nice hidden…"
+        },
+        {
+          "startUid": "u1513",
+          "endUid": "u1513",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u1514",
+          "endUid": "u1515",
+          "quote": "Delwath: A nice hidden… You know, blind of, you know, a couple rocks and some sand and whatever, so that it… we're hidden beneath it, right?"
+        },
+        {
+          "startUid": "u1516",
+          "endUid": "u1516",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u1517",
+          "endUid": "u1517",
+          "quote": "Delwath: And then Seeker, I think, is casting Clairvoyance, targeting the middle of the camp."
+        },
+        {
+          "startUid": "u1518",
+          "endUid": "u1518",
+          "quote": "DM: Yes."
+        },
+        {
+          "startUid": "u1519",
+          "endUid": "u1519",
+          "quote": "Seeker: Yeah."
+        }
+      ],
+      "from": "p14",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "fly and land"
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u1520",
+        "endUid": "u1546"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Clairvoyance reveals soldiers beneath the centipede’s basket-like lattice inside the August 9 camp.",
+      "evidence": [
+        {
+          "startUid": "u1517",
+          "endUid": "u1517",
+          "quote": "Delwath: And then Seeker, I think, is casting Clairvoyance, targeting the middle of the camp."
+        },
+        {
+          "startUid": "u1518",
+          "endUid": "u1518",
+          "quote": "DM: Yes."
+        },
+        {
+          "startUid": "u1519",
+          "endUid": "u1519",
+          "quote": "Seeker: Yeah."
+        },
+        {
+          "startUid": "u1520",
+          "endUid": "u1521",
+          "quote": "DM: Okay. So the… Clairvoyant sensor."
+        },
+        {
+          "startUid": "u1522",
+          "endUid": "u1523",
+          "quote": "Seeker: Appears. C…"
+        },
+        {
+          "startUid": "u1524",
+          "endUid": "u1532",
+          "quote": "DM: Camp is… So it's… it's a… It's a tight circle. It's a… it's a circle with a diameter of maybe… 100, 150 feet. And so the… the army that remains is… is packed, it's fairly tightly in. The centipede creature has, like, turned on its side, and there's… the spines have grown to form, like, a lattice on top of the… on top of the camp, forming, like, a… dense weave of these sort of metallic… you know, sort of shimmering… it's like a… it's like a basket, basically. Like, it's…"
+        },
+        {
+          "startUid": "u1533",
+          "endUid": "u1533",
+          "quote": "Delwath: Is it, like…"
+        },
+        {
+          "startUid": "u1534",
+          "endUid": "u1534",
+          "quote": "DM: Underneath a basket."
+        },
+        {
+          "startUid": "u1535",
+          "endUid": "u1535",
+          "quote": "Delwath: Is it, like… it's like a basket… I mean, it's not, like, thick weaves that you could see through if you were on the top, right? Is it tight?"
+        },
+        {
+          "startUid": "u1536",
+          "endUid": "u1537",
+          "quote": "DM: No, no, no, no, it's… yeah, I mean… You can see… No, there's not, like, there's, like, maybe dappled light passing through, right? Like, it's not completely opaque to…"
+        },
+        {
+          "startUid": "u1538",
+          "endUid": "u1538",
+          "quote": "Delwath: Or whatever."
+        },
+        {
+          "startUid": "u1539",
+          "endUid": "u1539",
+          "quote": "DM: Dark underneath."
+        },
+        {
+          "startUid": "u1540",
+          "endUid": "u1541",
+          "quote": "Delwath: Is it enough… of a gap that you could cast a spell through there?"
+        },
+        {
+          "startUid": "u1542",
+          "endUid": "u1546",
+          "quote": "DM: Possibly, you know absolutely nothing about the properties of Chaos Metal. And… If it were made of… if it were made of a mundane material, you'd be relatively confident you could cast a spell. It might… it might take a little… It is not airtight, right? I guess it would provide at least 3 quarters cover."
+        },
+        {
+          "startUid": "u1624",
+          "endUid": "u1624",
+          "quote": "DM: A bunch of them are sleeping. I mean, there's… the clairvoyant sensor is inside, right? It's inside this basket. The… the shell of the creature is, like, forming the… like, the egg…"
+        },
+        {
+          "startUid": "u1625",
+          "endUid": "u1625",
+          "quote": "Delwath: Yeah, of course."
+        },
+        {
+          "startUid": "u1626",
+          "endUid": "u1626",
+          "quote": "DM: More of this…"
+        },
+        {
+          "startUid": "u1627",
+          "endUid": "u1627",
+          "quote": "Delwath: Right."
+        },
+        {
+          "startUid": "u1628",
+          "endUid": "u1629",
+          "quote": "DM: This structure, and there's a bunch of people that are just kind of, you know… right. Sleeping, actually, like…"
+        },
+        {
+          "startUid": "u1630",
+          "endUid": "u1631",
+          "quote": "DM: It's almost like there's, like, there's bunks that have grown… I mean, not comfortable bunks, but just, like, slabs of metal. So there's, like, multiple stacked inside the sort of torus of the… of the creature."
+        }
+      ],
+      "place": "p10",
+      "mode": "remote",
+      "observerPlace": "p11"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1684",
+        "endUid": "u1711"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party executes the accepted thousand-foot-range earthquake plan from outside the camp.",
+      "evidence": [
+        {
+          "startUid": "u1643",
+          "endUid": "u1646",
+          "quote": "Delwath: Get within 500 feet, right, turn invisible. Sneak within 500 feet. Do another flashy visibility thing. Trigger the earthquake. And then… you know…"
+        },
+        {
+          "startUid": "u1672",
+          "endUid": "u1674",
+          "quote": "Kenzo: Great. Great plan. Tim, we execute our plan flawlessly."
+        },
+        {
+          "startUid": "u1684",
+          "endUid": "u1686",
+          "quote": "Delwath: If we think 1,000 feet would work, then I'm okay. I think we should just… we should do it at 1,000 feet. We should double it once and do it at 1,000 feet. Again, I think we should trigger daylight, and like… be very visible when we do this."
+        },
+        {
+          "startUid": "u1687",
+          "endUid": "u1687",
+          "quote": "Wellby: Let's do it."
+        },
+        {
+          "startUid": "u1688",
+          "endUid": "u1688",
+          "quote": "Delwath: Let's do it!"
+        },
+        {
+          "startUid": "u1711",
+          "endUid": "u1711",
+          "quote": "DM: So, the earthquake begins to shake the ground. Go ahead and roll… A D6?"
+        }
+      ],
+      "from": "p11",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "approach under invisibility",
+      "note": "The endpoint denotes the exterior attack position in the camp’s vicinity, not entry beneath the lattice."
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1749",
+        "endUid": "u1771"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party teleports back to its Three Wells base after the earthquake and challenge.",
+      "evidence": [
+        {
+          "startUid": "u1749",
+          "endUid": "u1749",
+          "quote": "Delwath: And then we teleport away."
+        },
+        {
+          "startUid": "u1750",
+          "endUid": "u1750",
+          "quote": "DM: Okay?"
+        },
+        {
+          "startUid": "u1751",
+          "endUid": "u1751",
+          "quote": "Delwath: This time, Delwath carefully marked the right rock with a little star, and watches over Seeker's shoulder."
+        },
+        {
+          "startUid": "u1769",
+          "endUid": "u1771",
+          "quote": "DM: Actually, only in the last 6 months, because… things from… you can't… you have to collect a new thing every 6 months for it to work somewhere. So we tell… So you teleport back."
+        },
+        {
+          "startUid": "u1772",
+          "endUid": "u1774",
+          "quote": "Delwath: Same deal, I'm gonna cast Scry… I'm gonna wait a few minutes, actually. Like, let's wait a little bit and cast Scry, because I want to see if they break, like, because I can't scry inside the structure, because I didn't see it inside the structure. So maybe, like, wait half an hour, and then cast Scry?"
+        }
+      ],
+      "from": "p14",
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "teleport",
+      "note": "The destination is the continuing home base established by the first identical return; the second teleport is explicitly confirmed without repeating its name."
+    },
+    {
+      "id": "l16",
+      "type": "observation",
+      "source": {
+        "startUid": "u1775",
+        "endUid": "u1817"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "A scry of the August 9 battlefield shows the shelter unfolding and the Empress addressing the army.",
+      "evidence": [
+        {
+          "startUid": "u1775",
+          "endUid": "u1779",
+          "quote": "DM: Okay. So, about… and roll. Yeah, okay, so about half an hour… later, you actually… when you cast Scry, again, just at this location, right? Yep. What you see is… The… the, like…"
+        },
+        {
+          "startUid": "u1780",
+          "endUid": "u1786",
+          "quote": "DM: The basket, this, like, weave structure is just, like, flowing, almost like melting snow, down off of the sides, and… The thing is beginning to stretch out again, and there's a bunch of hobgoblins milling around, mustering, and you can see, the Empress of Chaos is… Floating about 60, 70 feet ahead. And she seems to be in the middle of a speech of her own. Pick… up, sort of, halfway through, saying, “Can't stop us.”"
+        },
+        {
+          "startUid": "u1787",
+          "endUid": "u1791",
+          "quote": "DM: “Our mission is righteous. These pathetic fools who think to disrupt us do not know what is coming for them. You know… what I have promised you. You've seen what I've shown you. You know what's waiting for us.”"
+        },
+        {
+          "startUid": "u1792",
+          "endUid": "u1804",
+          "quote": "DM: “We will march, night and day. My magic. Our magic. Limbo will keep us safe in this march. I promise you that. And when we arrive, you will have vengeance. You will see… these… foolish creatures who think they can call upon the power of the gods? The gods do not scare us. Chaos existed before any god came out of its primordial power. Chaos is stronger than any magic they can bring to bear. Do not fear these things. Vengeance will be yours. Promise you that.”"
+        },
+        {
+          "startUid": "u1805",
+          "endUid": "u1808",
+          "quote": "DM: There's, like… you know, about half the army is, like, sort of… totally sold by this. About half the army is kinda… “Sure, lady.” But nobody's willing to, like… the only people… nobody's, like, actively disagreeing, right? It's just, you can see from the… you know, the… the scrying, like, it's just… it's not full-throated cheers across the entire army."
+        },
+        {
+          "startUid": "u1814",
+          "endUid": "u1815",
+          "quote": "DM: The structure seems to be reassembling, and it's only, like, 1.30 in the afternoon, so this is clearly not… standard…"
+        },
+        {
+          "startUid": "u1816",
+          "endUid": "u1816",
+          "quote": "Delwath: Yeah, yeah."
+        },
+        {
+          "startUid": "u1817",
+          "endUid": "u1817",
+          "quote": "DM: A behavior."
+        }
+      ],
+      "place": "p10",
+      "mode": "remote",
+      "observerPlace": "p01",
+      "observedActors": [
+        "Empress of Chaos"
+      ]
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2094",
+        "endUid": "u2188"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The third bird flight brings the party to the rendezvous near the moving centipede; the Empress remains inside.",
+      "evidence": [
+        {
+          "startUid": "u2074",
+          "endUid": "u2074",
+          "quote": "Delwath: Okay, we're fly… okay, we rested, we're flying back."
+        },
+        {
+          "startUid": "u2075",
+          "endUid": "u2075",
+          "quote": "DM: Now it's the morning of August 10th."
+        },
+        {
+          "startUid": "u2076",
+          "endUid": "u2076",
+          "quote": "Delwath: Yes, for our noon meeting, right?"
+        },
+        {
+          "startUid": "u2077",
+          "endUid": "u2077",
+          "quote": "DM: So, noon on August 10th."
+        },
+        {
+          "startUid": "u2078",
+          "endUid": "u2080",
+          "quote": "Delwath: But before noon, we want to, like, clairvoyance. Ideally, we get… a mile or, like, 2 miles away, find a spot and Clairvoyance."
+        },
+        {
+          "startUid": "u2081",
+          "endUid": "u2081",
+          "quote": "DM: Oh my god."
+        },
+        {
+          "startUid": "u2082",
+          "endUid": "u2083",
+          "quote": "Delwath: Right. So if we have to get up a little bit early, we'll do that, right?"
+        },
+        {
+          "startUid": "u2084",
+          "endUid": "u2084",
+          "quote": "DM: Yeah, yeah. So…"
+        },
+        {
+          "startUid": "u2094",
+          "endUid": "u2099",
+          "quote": "DM: Right, so Kenzo's pretty good at sensing that. So your typical thing is to, like, head out, and then Kenzo will stop and do his aura sense and get you a direction. At this point, so you do some exploring, right? You head out there. Kenzo senses them only maybe 30 miles from the river, so it does seem like they've been moving… you know, around 3 miles an hour, constantly since… yesterday afternoon. They've… they've covered… 20… they've covered 60 miles or something."
+        },
+        {
+          "startUid": "u2174",
+          "endUid": "u2176",
+          "quote": "DM: So you show up. You see the centipede? There's no creatures flying above it, there's no…"
+        },
+        {
+          "startUid": "u2177",
+          "endUid": "u2177",
+          "quote": "Kenzo: It's moving."
+        },
+        {
+          "startUid": "u2178",
+          "endUid": "u2179",
+          "quote": "DM: Everybody's moving at its continual slow crawl. No Empress of Chaos in sight."
+        },
+        {
+          "startUid": "u2180",
+          "endUid": "u2180",
+          "quote": "Kenzo: Where is she? SoulSight, like, just AuraSense, is she inside the thing?"
+        },
+        {
+          "startUid": "u2181",
+          "endUid": "u2181",
+          "quote": "DM: Yeah."
+        },
+        {
+          "startUid": "u2182",
+          "endUid": "u2182",
+          "quote": "Kenzo: Shit."
+        },
+        {
+          "startUid": "u2183",
+          "endUid": "u2184",
+          "quote": "Delwath: I mean, that's one downside of teleporting in there. Right?"
+        },
+        {
+          "startUid": "u2185",
+          "endUid": "u2185",
+          "quote": "Kenzo: Did we teleport in, or did we."
+        },
+        {
+          "startUid": "u2186",
+          "endUid": "u2186",
+          "quote": "Delwath: We didn't… I mean, we were…"
+        },
+        {
+          "startUid": "u2187",
+          "endUid": "u2187",
+          "quote": "DM: Flew, with animal shapes."
+        },
+        {
+          "startUid": "u2188",
+          "endUid": "u2188",
+          "quote": "Kenzo: Yeah."
+        }
+      ],
+      "from": "p01",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "fly with Animal Shapes",
+      "note": "The four-hour duration is only forecast at u2085–u2087. No exact route, departure clock or measured distance for this flight is established."
+    },
+    {
+      "id": "l18",
+      "type": "observation",
+      "source": {
+        "startUid": "u2131",
+        "endUid": "u2153"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Before the noon challenge, Seeker’s Clairvoyance inspects the crowded, dark interior of the moving centipede.",
+      "evidence": [
+        {
+          "startUid": "u2131",
+          "endUid": "u2135",
+          "quote": "DM: Okay, so, Seeker casts Clairvoyance, it is a chaotic mess of soldiers. The interior is dark, lit only by this sort of… like, there'll be sort of flickering blue lights that kind of run down the interior in these sort of chaotic patterns. But there's no consistent lighting. Seeker, of course, has darkvision, and you can use darkvision through your, clairvoyant sense. So you're seeing…"
+        },
+        {
+          "startUid": "u2136",
+          "endUid": "u2143",
+          "quote": "DM: And again, it's fairly tall, right? It's… it's… Excuse me, maybe… You know, 50 feet tall, and there's, like, things sticking out, right? Like, it's not a clear passageway. It's not… it's not like there's organized shelves or anything like that. There'll be, like, these chaotic spikes that sort of stick out at various angles. Not… not sharp spikes, like… And there are people just kind of hanging off these, some people trying… well, hobgoblins trying to sleep. Often they'll be just lying at some strange angle on one of these, like, shelves that sticks out at a 30 degree angle. Three of them just kind of lying there, trying to sleep on this platform. Some of them are just kind of hanging on, some of them are talking."
+        },
+        {
+          "startUid": "u2144",
+          "endUid": "u2150",
+          "quote": "DM: It's… there's a lot, you know, there's noise, there's kind of this constant low… rumbling, sort of humming sound. Doesn't seem that comfortable. But there's, like, you know, a few thousand… it's long, right? It's still… it's, like… If anything, even longer than it was before, maybe 500 feet… long. You know, so there's… the Hobgoblins are quite spread out across this entire length."
+        },
+        {
+          "startUid": "u2151",
+          "endUid": "u2153",
+          "quote": "DM: Where you randomly happen to place the sensor, there doesn't seem to be anything particularly special about… this spot versus any other spot, but he can only see 60 feet in any direction anyway, because of the darkness."
+        }
+      ],
+      "place": "p09",
+      "mode": "remote",
+      "observerPlace": "p12"
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u2310",
+        "endUid": "u2311"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Dimension Doors carry all four PCs inside the centipede.",
+      "evidence": [
+        {
+          "startUid": "u2094",
+          "endUid": "u2099",
+          "quote": "DM: Right, so Kenzo's pretty good at sensing that. So your typical thing is to, like, head out, and then Kenzo will stop and do his aura sense and get you a direction. At this point, so you do some exploring, right? You head out there. Kenzo senses them only maybe 30 miles from the river, so it does seem like they've been moving… you know, around 3 miles an hour, constantly since… yesterday afternoon. They've… they've covered… 20… they've covered 60 miles or something."
+        },
+        {
+          "startUid": "u2310",
+          "endUid": "u2311",
+          "quote": "DM: I'm gonna start initiative when the Dimension Doors go off. The four of you appear inside the centipede. You see basically what I described. There's… hobgoblins spread out around, there's these, like…"
+        }
+      ],
+      "locationContext": [
+        {
+          "subject": "p09",
+          "relation": "within",
+          "target": "p05"
+        }
+      ],
+      "from": "p12",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "Dimension Door"
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u2656",
+        "endUid": "u2673"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Seeker teleports the party away from the centipede; the later narration confirms its return to camp on August 10.",
+      "evidence": [
+        {
+          "startUid": "u2656",
+          "endUid": "u2656",
+          "quote": "DM: And we're back to the top at Seeker."
+        },
+        {
+          "startUid": "u2657",
+          "endUid": "u2657",
+          "quote": "Delwath: Teleport."
+        },
+        {
+          "startUid": "u2658",
+          "endUid": "u2658",
+          "quote": "DM: And you vanished."
+        },
+        {
+          "startUid": "u2659",
+          "endUid": "u2659",
+          "quote": "Audio shared by Tim Sackton: Yeah, we vanish."
+        },
+        {
+          "startUid": "u2673",
+          "endUid": "u2673",
+          "quote": "Delwath: And then vanish."
+        },
+        {
+          "startUid": "u2883",
+          "endUid": "u2884",
+          "quote": "DM: Again, you retreat in the afternoon, and now you're back… to the camp on August 10th."
+        }
+      ],
+      "from": "p09",
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "teleport"
+    },
+    {
+      "id": "l21",
+      "type": "observation",
+      "source": {
+        "startUid": "u2675",
+        "endUid": "u2719"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "From the home camp, Delwath scries the soldier whose hair Kenzo took and sees a chaos sorcerer reassure him inside the reshaped centipede.",
+      "evidence": [
+        {
+          "startUid": "u2675",
+          "endUid": "u2675",
+          "quote": "Delwath: Yeah, as soon as we're away, I'm scrying this guy."
+        },
+        {
+          "startUid": "u2676",
+          "endUid": "u2680",
+          "quote": "DM: The creature is still moving. There's, people moving up and down, tending to the… tending to the wounded. The interior has reshaped itself now, there are… there's, like, a bit more space, it's a bit less chaotic, and there's, like, sections… dividing it off."
+        },
+        {
+          "startUid": "u2682",
+          "endUid": "u2691",
+          "quote": "DM: And there's what looks like… so there's… hobgoblins walking through, and they'll, like, stop and… You know, speak to a few people occasionally, and they're… they have, like, almost… It's not really an aura, but, like… almost instead of hair, there's, like, weird sort of colors spinning around their head. Their eyes are sort of flashing, multicolored, there's… there's almost, like… what looks like maybe fire or something kind of streaming off of their arms. All of them are disfigured in various ways, right? Like, they have a scar on their cheek, or they're missing two fingers on their hands or something. And they're… and as they walk through, you know, they're… they're bending down, and they're sort of, talking to each… you know, the survivors here, and…"
+        },
+        {
+          "startUid": "u2692",
+          "endUid": "u2694",
+          "quote": "DM: One of them gets to this guy as you're scrying, and he's saying, “Through pain is power.” “Suffering is how we win.”"
+        },
+        {
+          "startUid": "u2695",
+          "endUid": "u2704",
+          "quote": "DM: He holds up his hand, and there's fire blooming from the top of his hand. “The primordial chaos is within you. And it just requires a little more suffering to unlock.” And you… shoots his hand up and fire shoots out of it, not seeming to affect any of the hobgoblins around him. “I learned… the hard way. Your path is easy, this is short compared to the… 50 years I waited to receive this blessing… from chaos.”"
+        },
+        {
+          "startUid": "u2705",
+          "endUid": "u2705",
+          "quote": "Kenzo: Is this the sorcerer speaking?"
+        },
+        {
+          "startUid": "u2706",
+          "endUid": "u2706",
+          "quote": "DM: This is the Sorcerer speaking."
+        },
+        {
+          "startUid": "u2707",
+          "endUid": "u2713",
+          "quote": "DM: “When the battle comes, all of this will just make you stronger. Your power is so close to being unlocked in you. Raw chaos that resides in all of us. You remember. You've seen. You know what we can do. Patience.”"
+        },
+        {
+          "startUid": "u2714",
+          "endUid": "u2719",
+          "quote": "DM: Sort of… pats him on the shoulder, and then… like, does a, like, fist bump on his chest, you know, and then the other guy, the wounded soldier salutes and, like, sort of bucks up his head a little bit more. And moves on. And this guy moves on. Just from looking around, you know, again, it's… not everybody is… reassured by this."
+        },
+        {
+          "startUid": "u2883",
+          "endUid": "u2884",
+          "quote": "DM: Again, you retreat in the afternoon, and now you're back… to the camp on August 10th."
+        }
+      ],
+      "place": "p09",
+      "mode": "remote",
+      "observerPlace": "p01",
+      "observedActors": [
+        "Wounded soldier whose hair Kenzo takes",
+        "Chaos sorcerer counseling the wounded soldier"
+      ]
+    }
+  ]
+}
