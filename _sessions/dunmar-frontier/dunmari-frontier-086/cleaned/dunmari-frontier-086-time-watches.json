@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-086/cleaned/dunmari-frontier-086-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-086/cleaned/dunmari-frontier-086-time-markers.json",
+    "sha256": "43a27de38e5a5706ffd68daa75bb424092ebee6426c1e33386ba35dd1e81f59c"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-086/cleaned/dunmari-frontier-086-transcript.md",
+    "sha256": "137dbd02088717b3348d341b3d1b230651072ce33ec6d692c06d664d576de123"
+  },
+  "dateAssessment": "January 8, 1749 is the YAML working start only; no calendar date is spoken. The narrated three-day crafting interval and later morning return contradict the YAML’s same-day end. Closing dates remain relative and open. The four days of absence from the airship begin before this transcript’s opening, so they are not a four-day session duration. Historical mirror and memory scenes do not extend the adventure’s covered interval.",
+  "watches": [
+    {
+      "day": "January 8, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Seeker and Delwath complete overlapping ten-minute castings before the late lunch.",
+      "markers": [
+        "t01",
+        "t02"
+      ],
+      "startDate": "1749-01-08",
+      "endDate": "1749-01-08"
+    },
+    {
+      "day": "January 8, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Rest begins about 14:00; one-hour rest and later half-hour communion remain in afternoon.",
+      "markers": [
+        "t03",
+        "t06",
+        "t07",
+        "t08",
+        "t09",
+        "t11"
+      ],
+      "startDate": "1749-01-08",
+      "endDate": "1749-01-08"
+    },
+    {
+      "day": "After the release: three-day crafting interval",
+      "startWatch": "afternoon",
+      "endWatch": null,
+      "basis": "mixed",
+      "summary": "Faldrak works over the next three days; the closing clock is unstated.",
+      "markers": [
+        "t12"
+      ]
+    },
+    {
+      "day": "Later morning; civil date unresolved",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Morning return follows crafting, about four days after the earlier departure from the ship.",
+      "markers": [
+        "t13"
+      ]
+    },
+    {
+      "day": "Sh’shethis’s ancient memories",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Memories reach back before captivity, hundreds of years before Drusilia; no local watch is stated.",
+      "markers": [
+        "t10"
+      ],
+      "clock": "local",
+      "scope": "Kenzo’s memory vision"
+    },
+    {
+      "day": "Earlier mission briefing",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The mirror jumps backward to the tent briefing, before the waterfall scene.",
+      "markers": [
+        "t05"
+      ],
+      "clock": "local",
+      "scope": "Sending-stone vision"
+    },
+    {
+      "day": "Later historical waterfall scene",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The woman uses the stone by the waterfall; the mirror supplies no date or watch.",
+      "markers": [
+        "t04"
+      ],
+      "clock": "local",
+      "scope": "Sending-stone vision"
+    }
+  ]
+}

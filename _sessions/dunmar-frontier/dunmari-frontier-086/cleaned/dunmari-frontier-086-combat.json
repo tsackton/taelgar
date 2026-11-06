@@ -1,0 +1,374 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-086",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-086/cleaned/dunmari-frontier-086-session.yaml",
+    "sessionYamlSha256": "123f84619dc116cadf26ba5f473ff028cd05a475e1a9112b08b37b95ce335ec5",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-086/cleaned/dunmari-frontier-086-transcript.md",
+    "transcriptSha256": "137dbd02088717b3348d341b3d1b230651072ce33ec6d692c06d664d576de123",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-086/cleaned/dunmari-frontier-086-segments.json",
+      "sha256": "4e1d8439c6e3ba642b2841b4eb351623da9f9763197d707fc13faa8a8cae7ebc",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s004",
+      "encounter": "Bound elemental and summoned fire and air elementals",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses bonus-action soul study: the bound creature is immune to fire, lightning, thunder and poison; weak in Intelligence and Strength, strong in Dexterity and Charisma; immune to grappled, paralyzed, petrified, poisoned, prone and restrained, but not charm. Two searing wires bind its essence. Forgoes attacking and attempts to soothe it with a Wisdom check; touching the binding in his consciousness causes 7 psychic damage and rejection.",
+              "evidence": [
+                {
+                  "startUid": "u1593",
+                  "endUid": "u1646"
+                }
+              ]
+            },
+            {
+              "actor": "Bound elemental / Sh’shethis",
+              "kind": "turn",
+              "summary": "A tentacle attack rolls 18 and misses Delwath. A lightning bolt calls for Seeker’s Dexterity save and deals 31 lightning damage. A concussive wave calls for everyone’s Constitution save: Delwath, Seeker and Kenzo each take 22 thunder damage; Delwath is pushed 10 feet and Seeker and Kenzo are slammed into the wall. Wellby takes no damage.",
+              "evidence": [
+                {
+                  "startUid": "u1647",
+                  "endUid": "u1673"
+                }
+              ],
+              "note": "The lightning save’s numeric result and Wellby’s Constitution result are not spoken; preserve the adjudicated damage rather than supply missing rolls."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Abandons the proposed frostbite/glove conversion after learning the bound creature is not a true fire elemental. Casts ordinary Psychic Lance: Intelligence save 9 fails, causing 30 psychic damage and incapacitation through the creature’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u1681",
+                  "endUid": "u1699"
+                },
+                {
+                  "startUid": "u1721",
+                  "endUid": "u1721"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Moves forward and force-slams the bound elemental; attack 16 misses.",
+              "evidence": [
+                {
+                  "startUid": "u1700",
+                  "endUid": "u1704"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Runs to the hot fire anchor and dissolves its wire with universal solvent. Fire minions and one larger fire elemental appear. Uses Cunning Action to disengage and finishes moving away, correcting his chosen direction.",
+              "evidence": [
+                {
+                  "startUid": "u1705",
+                  "endUid": "u1719"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Marks the larger fire elemental as his enemy with a bonus action and chooses melee attacks instead of Banishment. His swings fail with natural-one rolls; no damage is established.",
+              "evidence": [
+                {
+                  "startUid": "u1732",
+                  "endUid": "u1756"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Moves between fire minions, attacking with staff and unarmed strikes. The first staff attack, 15, deals cold damage and kills one without overkill. The second, initially 13, becomes a hit at 17 with Seeker’s reaction; its 13 damage kills one, while Seeker’s accompanying thunder rune kills another. An unarmed 18 deals 11 damage and kills another; spending ki, his final attack at 24 removes the last minion.",
+              "evidence": [
+                {
+                  "startUid": "u1757",
+                  "endUid": "u1809"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Adds 4 with reactive inspiration to Kenzo’s initially missed second attack, raising 13 to 17; the 4 also adds to damage. His rune carries thunder damage to a second fire minion and kills it alongside the struck minion.",
+              "evidence": [
+                {
+                  "startUid": "u1774",
+                  "endUid": "u1787"
+                }
+              ],
+              "note": "Occurs during Kenzo’s second attack, before Kenzo continues moving and punching."
+            },
+            {
+              "actor": "Bound elemental / Sh’shethis",
+              "kind": "turn",
+              "summary": "Cannot act because Psychic Lance has incapacitated it; its turn ends.",
+              "evidence": [
+                {
+                  "startUid": "u1810",
+                  "endUid": "u1813"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Psychic Lance again: Intelligence save 11 fails; 26 psychic damage incapacitates the bound creature again.",
+              "evidence": [
+                {
+                  "startUid": "u1814",
+                  "endUid": "u1826"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Attempts another attack against the bound elemental; 11 misses.",
+              "evidence": [
+                {
+                  "startUid": "u1827",
+                  "endUid": "u1830"
+                }
+              ]
+            },
+            {
+              "actor": "Larger fire elemental",
+              "kind": "turn",
+              "summary": "Touches Ladder with a hit announced at 17; Ladder takes an announced 12 fire damage and starts burning. Its melee attack against Delwath would hit at 22, but Delwath’s frost shield blocks it.",
+              "evidence": [
+                {
+                  "startUid": "u1831",
+                  "endUid": "u1853"
+                }
+              ],
+              "note": "At u1853 the DM repeats “11 to the ladder” while clarifying attack totals. It is unclear whether this revises damage or refers to the attack die; do not silently replace the announced 12."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Raises his shield of frost against the fire elemental’s melee attack. The later clarification establishes that the 16 + 6 attack would have hit and the shield is needed; the attack misses.",
+              "evidence": [
+                {
+                  "startUid": "u1845",
+                  "endUid": "u1853"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Hustles to the last wire and dissolves the air anchor with universal solvent, releasing flying air minions and one larger air elemental. Disengages and moves away after the dissolution.",
+              "evidence": [
+                {
+                  "startUid": "u1854",
+                  "endUid": "u1869"
+                }
+              ],
+              "note": "Wellby calls the disengagement a reaction; the source does not further adjudicate that action label."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Banishment on both larger elementals, DC 18 Charisma: the fire elemental’s 18 minus 2 becomes 16 and fails, and the air elemental’s 9 fails. Both vanish. Moves away to protect concentration. The proposed ring dodge and Sanctuary are abandoned; the ring is not attuned.",
+              "evidence": [
+                {
+                  "startUid": "u1870",
+                  "endUid": "u1891"
+                }
+              ]
+            },
+            {
+              "actor": "Air minions",
+              "kind": "turn",
+              "summary": "Fly toward Seeker and Wellby. Five minions hit Seeker at 21 for 30 damage, leaving him at 3 HP; they do not move him. The other group hits Wellby for 30 damage before his reaction.",
+              "evidence": [
+                {
+                  "startUid": "u1889",
+                  "endUid": "u1922"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge on the single combined minion attack, reducing 30 damage to 15. Chooses it instead of Skirmisher and stays in place.",
+              "evidence": [
+                {
+                  "startUid": "u1914",
+                  "endUid": "u1922"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "With both burning anchors gone, spends his action and bonus action and 2 ki on a modified Cleanse Aura. Wisdom 18 projects safety and calm; the elemental begins letting go of its rage and focuses on him.",
+              "evidence": [
+                {
+                  "startUid": "u1923",
+                  "endUid": "u1948"
+                }
+              ]
+            },
+            {
+              "actor": "Bound elemental / Sh’shethis",
+              "kind": "turn",
+              "summary": "Loses its turn to the second Psychic Lance’s incapacitation.",
+              "evidence": [
+                {
+                  "startUid": "u1951",
+                  "endUid": "u1956"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Chooses Disengage rather than Dimension Door, exits the forge room and closes the door. Ladder immediately falls inert to the ground.",
+              "evidence": [
+                {
+                  "startUid": "u1957",
+                  "endUid": "u1974"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim, draws his shortsword and attacks with advantage: the better roll is 27, hitting for 27 damage and killing two air minions.",
+              "evidence": [
+                {
+                  "startUid": "u1975",
+                  "endUid": "u1985"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Stays at range to protect Banishment concentration. Fires three force blasts: the first misses, the next two hit (including 14), killing two air minions without overkill. Casts bonus-action Sanctuary on Wellby, Wisdom DC 17, without concentration.",
+              "evidence": [
+                {
+                  "startUid": "u1986",
+                  "endUid": "u2016"
+                }
+              ],
+              "note": "Misty Step is proposed and initially acknowledged, but the following “I won’t do that” leaves whether the teleport was actually used unclear; no completed teleport is asserted."
+            },
+            {
+              "actor": "Air minions",
+              "kind": "turn",
+              "summary": "Close on Wellby and succeed on Sanctuary’s Wisdom save at 17, but their attack roll 15 misses his AC 18.",
+              "evidence": [
+                {
+                  "startUid": "u2017",
+                  "endUid": "u2023"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Spends another 2 ki and his attacks and bonus action to calm the elemental. Wisdom 22 beats the reduced threshold of 10; its tentacles withdraw and it starts sinking into the floor/anvil, eyes crystallizing and steam rising.",
+              "evidence": [
+                {
+                  "startUid": "u2024",
+                  "endUid": "u2033"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Remains outside, listening through the closed door. Healing potions are suggested but no consumption or healing result is established.",
+              "evidence": [
+                {
+                  "startUid": "u2034",
+                  "endUid": "u2037"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "In the compressed cleanup, attack rolls 13 and 22 hit and pick off two more air minions.",
+              "evidence": [
+                {
+                  "startUid": "u2046",
+                  "endUid": "u2051"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Kills the last two minions in the compressed resolution before they can deal further damage. A proxy damage discussion mentions 34, but the DM resolves the remaining kills without attaching a separate confirmed damage total.",
+              "evidence": [
+                {
+                  "startUid": "u2038",
+                  "endUid": "u2051"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "event",
+              "summary": "Maintains Banishment through another 30 seconds after the immediate danger ends. Both non-native larger elementals are permanently banished.",
+              "evidence": [
+                {
+                  "startUid": "u2053",
+                  "endUid": "u2055"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Sh’shethis is freed of both remaining anchors and calmed. All minions are defeated without further damage to Wellby; the two larger elementals are permanently banished after another 30 seconds of concentration. Seeker is outside and Ladder has fallen inert. The later gifts, visions and crafting occur after initiative.",
+        "evidence": [
+          {
+            "startUid": "u2024",
+            "endUid": "u2033"
+          },
+          {
+            "startUid": "u2046",
+            "endUid": "u2055"
+          }
+        ]
+      }
+    }
+  ]
+}

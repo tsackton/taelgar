@@ -1,0 +1,2445 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-086/cleaned/dunmari-frontier-086-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "137dbd02088717b3348d341b3d1b230651072ce33ec6d692c06d664d576de123"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-086/cleaned/dunmari-frontier-086-entity-map.json",
+      "sha256": "71a0a65ab1c1ccbb8a02bdad6097823d3587b9cc393d9687057ab57e37b90e38"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "The programmed greeting and Claudia",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0021",
+        "endUid": "u0030"
+      },
+      "lines": [
+        "%% u0021:0-109, u0022:0-98, u0023:0-159, u0024:0-43, u0025:0-140, u0026:0-117, u0027:0-28 %%",
+        "DM: Moments ago, as you entered this small antechamber, through an iron door, faintly glowing with magical runes, the image of a woman, maybe 60 or so, elegantly dressed in silk robes, with graying hair cut short, green eyes, and a sharp and angular face, marked by a scar or an old burn running from her left eye to her jawline stepped through the wall and bowed and spoke in Drankorian, saying, “Greetings, visitors! I hope your journey was not too difficult. I'm looking forward to consulting with you on your needs, but sadly, I'm indisposed at the moment. Until I return, My servant Claudia, will tend to your desires. Please be comfortable, and I will be with you shortly.” And then the image vanished.",
+        "",
+        "%% u0028:0-130 %%",
+        "Kenzo: Oh, that was— It was an image! I couldn't— But if I tried to soul-sight it, did I? Did it feel like anything, or is there no sign?",
+        "",
+        "%% u0029:0-172, u0030:0-67 %%",
+        "DM: No, it was fairly obviously an illusion. I mean, it drifted out from the wall like stepping through the wall. Carried out what seemed like a very programmed set of actions without any acknowledgement of your presence, and then disappeared.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Well, I read it. Doesn't mean I understand the mechanics.",
+          "DM: Sorry what? No, but we would just have one like we just would. Yeah, yeah, that one makes total sense. You definitely have a greenhouse. I mean, that's how Kenzo is keeping all these.",
+          "Kenzo: Ki flowers. Yeah, yeah, it's a it's a ki greenhouse all these little. It's a ki garden.",
+          "Seeker: Yeah, totally.",
+          "DM: Okay. So we begin tonight in a small room. A dusty, ancient chamber lit by 4 large permanent magical lights, with rusting iron hooks on the wall that perhaps once held tapestries or other wall hangings, but are now long since rotted away. There are 3 doors that exit from this small chamber: a large bronze door, through which a faint reddish glow can be seen. A reinforced wooden door, now dried and mostly rotted away, through which a small complex of living quarters and a storeroom can be seen dimly in the distance, lit, but again by flickering torchlight. Shadows and stone. And then a stone door standing closed."
+        ],
+        "after": [
+          "DM: So you are now standing looking at these 3 doors. Faldrak, behind you, kind of looking around, looking at you, wearing his—leaning on his silver cane, that various arcane runes carved on it, etched on it, now pulsating faintly with light. So which one should we open first?",
+          "Seeker: What are we looking for again, exactly, my friend?",
+          "Kenzo: The ancient forge, some elemental forge, Tim. Do I still have a sensation of, you know, like that unnatural feeling that I had like about—do I still sense that?",
+          "DM: When you stepped through the door with the runes etched on it, that sensation went away into this chamber.",
+          "Delwath: What? There's 3 doors, are they? What do they look like? Are they the same, or they wood, metal?"
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The later identification of this greeting image as Drusilia remains a party inference."
+      }
+    },
+    {
+      "id": "i002",
+      "title": "A second handbook and the silver pitcher",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0232",
+        "endUid": "u0241"
+      },
+      "lines": [
+        "%% u0232:0-39, u0233:0-30, u0234:0-57, u0235:0-51, u0236:0-74 %%",
+        "DM: 2 things that you find, however, Kenzo—or both of you actually notice in the sort of dust and decay of the bookshelf there is a small book seems totally intact, untouched by time, with the title “The Enchiridion of the Occulta Ludum,” and otherwise blank.",
+        "",
+        "%% u0237:0-44 %%",
+        "Seeker: We have a copy of that already, don't we? Do—",
+        "",
+        "%% u0238:0-7 %%",
+        "DM: You do.",
+        "",
+        "%% u0239:0-94, u0240:0-35, u0241:0-33 %%",
+        "DM: There is also on the table a silver pitcher that is like water pitcher, completely uncorroded. Again also seems untouched by time. ((Perception check))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: You're gonna be the guy that's like looking at the paint on the wall and then touching the paint and being like the paint still wet, you'll be back. So.",
+          "DM: So first thing, the— Okay, so sorry. Where's my notes here?",
+          "DM: Okay, so Kenzo and Wellby make investigation checks in the bed chamber. Kenzo, already rolled.",
+          "Wellby: I rolled a 21 in Roll20.",
+          "DM: Okay, so you begin poking around the bedchamber. There's a rusted iron metal frame. There's no mattress or bedding, but it looks like there once was. It's just rotted out over many hundreds of years. This room is like—I mean, the iron is all rotting. There's a few what look like there was once candle holders, but now are just like little piles of rust on a stone table. There's a what probably was once a wooden shelf with books stored there, but it's all pretty much decayed. There's almost nothing organic left. There's a few rusting iron hooks that maybe once held wall hangings, and a slightly stained spot on the floor, where there might have been a wooden wardrobe."
+        ],
+        "after": [
+          "DM: Okay. Seeker and Faldrak enter the pantry. This is like—you know, everything is sort of desiccated and and dried out like there's stained bits are— Actually, Seeker, Why don't you roll an investigation check. Faldrak like, takes out his, lifts up his like— It will turn it down— Wow! The worst you can roll. I'll roll for Faldrak, too.",
+          "DM: Gotta look up what it's pluses—it's you know everything is pretty— This looks like it might have once been a—at rolling.",
+          "Seeker: Wow! Faldrak also rolled a one. Great. We're just completely fixated on the crack.",
+          "DM: You're just like you're both kind of trying to look around, and there's like—",
+          "DM: Was like a stone chest. There's like some cracked leather goods, and like shriveled vegetables and stuff, and it just kind of looks like there's not much there. And you're just both kind of—your eyes are drawn to this this crack."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Faldrak’s bird cannot scout",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0306",
+        "endUid": "u0313"
+      },
+      "lines": [
+        "%% u0306:0-106, u0307:0-27, u0308:0-53 %%",
+        "Seeker: Faldrak. Do you have a way of looking at those things up close, I mean, aside from barging in there, which really we should just send Wellby in there to shoot them, whatever they are, but—",
+        "",
+        "%% u0309:0-92 %%",
+        "DM: He looks at his. He like shakes his head, looking at the bird on his shoulder. Useless bird!",
+        "",
+        "%% u0310:0-23, u0311:0-23 %%",
+        "Seeker: We'll fix up your bird. All right. Let me just.",
+        "",
+        "%% u0311:23-85, u0312:0-49, u0313:0-30 %%",
+        "DM: Like takes it down and puts it on the ground, and he says, “Go,” and it like takes one step and then topples over. I—no, I don't, as you can see.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: That's like sleeping elementals that will wake and kill us all.",
+          "Delwath: Probably.",
+          "Seeker: But we're not in the room.",
+          "Kenzo: No, but don't we have telepathic our little telepathy link?",
+          "Seeker: Which we always said. What's that? Seeker's not asking for advice when it comes to rocks? And you guys are in the middle of searching your room at the moment. That's right. Seeker's also down to like half HP, woo! So any kind of spell I could use, I mean, I have just to look at the thing. Use Clairvoyance to look at it up close. Do I have a have a bunch of spell slots? Clairvoyance is a good idea."
+        ],
+        "after": [
+          "Seeker: I'll go. It'll be fine. No, no, no, give give me a second here I can send my clair clairvoyance sensor out and I'll just put it very close. I'll put it a few feet from from the nearest one of those lumps.",
+          "DM: Okay, at this point, you've finished searching the bedchamber. And and move on to the like kitchen hall. Delwath, you've been overhearing this conversation from Seeker and Faldrak, and you hear Seeker beginning the—I think the casting time of clairvoyance is like 10 min, right?",
+          "Seeker: Oh, I thought it was an action. 10 min. You're right.",
+          "DM: So as Seeker begins chanting to cast the Clairvoyance spell, you can. You can. You know what they're doing at this point? If you wanna do anything? So Wellby and Kenzo move into the—I assume you take the silver pitcher and the the book.",
+          "Kenzo: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "The preserving chest is recovered",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0418",
+        "endUid": "u0480"
+      },
+      "lines": [
+        "%% u0418:0-37, u0419:0-42 %%",
+        "Delwath: Okay, let's take a look at the chest. What does it look like? What kind of magic?",
+        "",
+        "%% u0420:0-14 %%",
+        "DM: Transmutation?",
+        "",
+        "%% u0421:0-40, u0422:0-28 %%",
+        "Delwath: I'll motion for everybody to stand back. I'll open it with Mage Hand.",
+        "",
+        "%% u0423:0-73, u0424:0-25 %%",
+        "DM: There is about 10 pounds of perfectly preserved, neatly butchered venison nestled within the chest.",
+        "",
+        "%% u0425:0-19 %%",
+        "Seeker: Now, that's useful.",
+        "",
+        "%% u0426:0-8 %%",
+        "((Brief reaction))",
+        "",
+        "%% u0427:0-49 %%",
+        "Seeker: How are we gonna get this thing back to the ship?",
+        "",
+        "%% u0428:0-27 %%",
+        "Delwath: How big is it? Is that like—",
+        "",
+        "%% u0429:0-25 %%",
+        "DM: It's about 3 foot square.",
+        "",
+        "%% u0429:25-108 %%",
+        "Seeker: If only we had a portable hole into which you can put other extra dimension. Well.",
+        "",
+        "%% u0430:0-140 %%",
+        "DM: It's not bigger on the inside than it is on the outside. No, no, it's not bigger on the inside. It's just perfectly preserved on the inside.",
+        "",
+        "%% u0431:0-22 %%",
+        "Delwath: I'll close it back up.",
+        "",
+        "%% u0432:0-60 %%",
+        "Kenzo: Yeah, this is you have. You have a stone refrigerator? Yeah.",
+        "",
+        "%% u0433:0-104 %%",
+        "DM: Yeah. Roughly, the size of a mini fridge, a little bit bigger than a mini fridge. Not quite a full size.",
+        "",
+        "%% u0434:0-31 %%",
+        "Seeker: Keep things fresh for millennia.",
+        "",
+        "%% u0435:0-71 %%",
+        "DM: For a thousand years. If you ever wanted to try 1,000 year old venison.",
+        "",
+        "%% u0436:0-48, u0437:0-57, u0438:0-124, u0439:0-49, u0440:0-23, u0441:0-64, u0442:0-29, u0443:0-43, u0444:0-106, u0445:0-50, u0446:0-6, u0447:0-5, u0448:0-52, u0449:0-46, u0450:0-48, u0451:0-98, u0452:0-181, u0453:0-89, u0454:0-172, u0455:0-37, u0455:37-69, u0456:0-25, u0457:0-45, u0457:45-70, u0458:0-21, u0459:0-3, u0460:0-36, u0461:0-85, u0462:0-19, u0463:0-8, u0464:0-15, u0465:0-58, u0466:0-15, u0467:0-10, u0468:0-31, u0469:0-40, u0470:0-10, u0471:0-287, u0472:0-83, u0473:0-19, u0474:0-159 %%",
+        "((Food-storage speculation, mirror discussion and bathroom search))",
+        "",
+        "%% u0475:0-2, u0476:0-47 %%",
+        "Delwath: So first of all, can we put the chest in the hole?",
+        "",
+        "%% u0477:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u0478:0-21, u0479:0-15, u0480:0-10 %%",
+        "DM: Requires all 4 of you to lift it. But you manage.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I'm pointing at.",
+          "Seeker: Oh, you're talking about? It's magical? Oh.",
+          "DM: Are you sure? Yes, wait. What's magic? The chest.",
+          "Delwath: That's what you—should we open that, Seeker?",
+          "Seeker: I didn't expect it somehow."
+        ],
+        "after": [
+          "Delwath: Second of all, I think we should go check out the workshop. But there could be some value in showing a fairly mundane item from this place to the mirror, like—",
+          "Kenzo: Yeah.",
+          "Seeker: We—just to see who was here. I think we should show the Enchiridion that we found before to the mirror so we can compare.",
+          "Kenzo: Welcome.",
+          "Delwath: Yes, but not not, I think, not right now. Right? Like— Let's let's look for—let's wait on that. I think there's other things that would give us more clues about who lived here."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Faldrak agrees to investigate cautiously",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0497",
+        "endUid": "u0513"
+      },
+      "lines": [
+        "%% u0497:0-138 %%",
+        "Seeker: But I actually think more than anything, let's go check out the workshop, right? Also, there before we— We don't want to go down the tunnel.",
+        "",
+        "%% u0498:0-14, u0499:0-33, u0500:0-49, u0501:0-58, u0502:0-53 %%",
+        "Delwath: No, so can we— The way these things work is you—you need to learn what you can in the safer spots, that you're more prepared when you go to the danger spots. That's how you stay alive for longer periods of time.",
+        "",
+        "%% u0503:0-126 %%",
+        "DM: You can mostly ignore Delwath when—yeah, when he gets like— That's, that's that's not how I've stayed alive. But I admit, maybe.",
+        "",
+        "%% u0504:0-62, u0505:0-69 %%",
+        "Delwath: Let's let's try it my way. Okay, if it if it doesn't work out you know you haven't lost anything. We can always go down the tunnel.",
+        "",
+        "%% u0506:0-58, u0507:0-37, u0508:0-7 %%",
+        "((Garbled speech and Clairvoyance duration check))",
+        "",
+        "%% u0509:0-73, u0510:0-82 %%",
+        "Delwath: I think it's unlikely they're gonna vanish in the next couple of minutes. But if they do, that's very interesting. That suggests they're probably chasing us.",
+        "",
+        "%% u0511:0-98, u0512:0-52 %%",
+        "Seeker: Very slowly. Let's—we'll keep an eye on them. It it does take to to work with my friends here. But I think we, I think we can. We can follow there. But—",
+        "",
+        "%% u0513:0-47 %%",
+        "DM: Okay. If you say so. Follow your lead this time.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Yeah, that's true.",
+          "Kenzo: But why not that book?",
+          "Seeker: Well, fair point.",
+          "Kenzo: [garbled].",
+          "Delwath: I guess I was thinking like the water basin or something. You might see more about just the daily life—who is here, right? But I don't know if I'm right about that. Actually, I guess I don't know why not the book, necessarily."
+        ],
+        "after": [
+          "Seeker: Into the workshop we go.",
+          "Delwath: I am leaving the lynx guard there. By the way, anything comes out of the—it's it'll trigger. It'll trigger. It's pacing back and forth, and like the 10 feet around the front of that crack. Okay?",
+          "DM: So you push open the door that leads into the workshop. And Faldrak's eyes just light up. This is clearly like a jeweler's workshop of some kind. There's 3 large stone tables in the middle. There's a set of stone shelves all— Oh, wait, hold on! Have a have a thing for this, I think. There's 3 large. I'll I'll just describe it. While I'm trying to find this. There's 3 large.",
+          "DM: So there's the 3 stone tables. There's a set of stone shelves in the back. There's a metal chest next to the shelves. The middle table has a bunch of neatly arranged like carefully ordered jewelers' tools. There's scales and pliers and lenses and molds, and things like that.",
+          "DM: The table to the left is set up with a small anvil and a crucible and tongs, and what looks like maybe some sort of brick oven sort of set on the on the table. This is, it's it's more like a forge than a real table. Covered in runes."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "The workshop oven and its fire invocations",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0568",
+        "endUid": "u0588"
+      },
+      "lines": [
+        "%% u0568:0-49, u0569:0-35, u0570:0-81, u0571:0-50, u0572:0-65, u0573:0-9 %%",
+        "DM: ((Arcana check)) So you go over to Delwath begins to poke around looking at the this magical brick oven. It. It is definitely off like there is some way to activate it. You're not sure what way to activate it. And it, it—",
+        "",
+        "%% u0574:0-110, u0575:0-108, u0576:0-91 %%",
+        "DM: Looks like a—I mean, it looks like a sort of like a pizza oven, but it looks like I mean, it's right next to a anvil, and like there's a whole set of crucible of like crucibles that you could heat up metal in, and tongs that look like they're of different sizes, like you might melt metal and pour it into molds.",
+        "",
+        "%% u0577:0-66, u0578:0-37, u0579:0-9, u0580:0-93, u0581:0-39, u0582:0-13, u0583:0-113 %%",
+        "DM: And then shape it on the anvil. The runes are all—there's nothing—there's no like, you know, elaborate you know in—instructions for use written in these runes, but with your Runes of the Eye Keeper, you do see that these are invocations of fire. But otherwise not sure what else to make of it. And there's a like, you know, it's an oven right? There's a slot where you can.",
+        "",
+        "%% u0584:0-56, u0585:0-11, u0586:0-33, u0587:0-20 %%",
+        "Delwath: Right? It looks like a mini pizza oven. Right? Oh, okay. Potentially could be used to make magic items only. But who knows?",
+        "",
+        "%% u0588:0-30 %%",
+        "DM: It's hard to be certain. Yeah.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: I'll take care. Investigate.",
+          "Seeker: Okay, and this is—",
+          "Wellby: Wellby proceeds from the assumption that, like somewhere in here, is like a concealed area, or like a hidden area, or he's searching for like secret drawers, secret chests, secret doors.",
+          "Delwath: Good idea.",
+          "DM: Okay."
+        ],
+        "after": [
+          "DM: Covers about half of it's—",
+          "Delwath: Okay. So little too big to like take?",
+          "DM: It would be. It's too big to fit in the hole. It would take some serious effort to bring it with you somewhere.",
+          "Delwath: I can think of a useful spot. We might want a magical pizza. Just saying.",
+          "DM: Yeah, it's maybe 8. It's like it's not exactly circular and deeper right like deeper than it is wide, and it covers sort of half the table. So it's maybe 2, 3 feet by something like 8 feet. Something like that. Roughly."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Faldrak opens the component chest",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e041",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0703",
+        "endUid": "u0742"
+      },
+      "lines": [
+        "%% u0703:0-21, u0704:0-35 %%",
+        "Seeker: Just give it a little tappy tappy in just the right spot.",
+        "",
+        "%% u0704:35-97, u0705:0-6 %%",
+        "DM: Faldrak walks over, takes a silver cane, and just gives it a whack!",
+        "",
+        "%% u0706:0-15 %%",
+        "Seeker: Thanks, Faldrak.",
+        "",
+        "%% u0707:0-33 %%",
+        "DM: Got it. You can hear the the rust—",
+        "",
+        "%% u0708:0-144, u0709:0-90 %%",
+        "DM: Cracking and the top shifts a little bit, and he just like pries it open with his—with his silver cane, and inside. Okay, so inside the chests—this chest that you just smacked open, there's a phoenix feather that's warm to the touch.",
+        "",
+        "%% u0710:0-5 %%",
+        "((Brief interjections))",
+        "",
+        "%% u0711:0-85, u0712:0-72 %%",
+        "DM: There's a small pile, perhaps was once in a silk pouch of red dragon scales, 8 total. What? There's a tiny glass vial with a drop of faintly shimmering water.",
+        "",
+        "%% u0713:0-44 %%",
+        "Delwath: These are what you make magic items out of.",
+        "",
+        "%% u0713:44-67 %%",
+        "DM: There's a piece of ice.",
+        "",
+        "%% u0714:0-13 %%",
+        "DM: There are 2.",
+        "",
+        "%% u0714:13-111 %%",
+        "Seeker: Is the ice just sitting there like an ice cube sitting there like presumably no sign it's melting?",
+        "",
+        "%% u0714:111-161, u0715:0-7 %%",
+        "DM: It's it actually looks like the tip of an icicle. Thanks.",
+        "",
+        "%% u0716:0-24, u0717:0-35 %%",
+        "DM: There are 2 tuning forks each that looks slightly different.",
+        "",
+        "%% u0718:0-23, u0719:0-25 %%",
+        "DM: There are 4 metal rods each engraved with runes.",
+        "",
+        "%% u0720:0-53 %%",
+        "((Proposal to examine the items in the mirror))",
+        "",
+        "%% u0721:0-41 %%",
+        "DM: Representing earth, air, fire, and water.",
+        "",
+        "%% u0722:0-21 %%",
+        "DM: And there is a prism.",
+        "",
+        "%% u0723:0-173, u0724:0-147, u0725:0-31, u0726:0-46 %%",
+        "((Brief interjections and general crafting speculation))",
+        "",
+        "%% u0727:0-84, u0728:0-39 %%",
+        "DM: When he sees the phoenix feather, and he looks at his bird. It looks at the feather. One sixteenth, Faldrak. We can negotiate.",
+        "",
+        "%% u0729:0-52, u0730:0-40 %%",
+        "Seeker: Looks like that thing's worth something. What? What? What do you know about Phoenix feathers?",
+        "",
+        "%% u0731:0-64 %%",
+        "Delwath: Are any of these things intrinsically magical? Are they all just—",
+        "",
+        "%% u0732:0-6, u0733:0-113, u0734:0-103 %%",
+        "DM: Style? No, not in the usual sense of detect magic, but they all have, like magical residue clinging to them in some way. But they're not like formed into something that would resonate with like a school of magic. And as like—",
+        "",
+        "%% u0735:0-29 %%",
+        "Delwath: They're like potential magic.",
+        "",
+        "%% u0736:0-39, u0737:0-37, u0738:0-24 %%",
+        "DM: And he looks at the red dragon scales. Wanted to shoot fireballs out of your airship? I have an idea.",
+        "",
+        "%% u0739:0-4 %%",
+        "Seeker: -Oh!",
+        "",
+        "%% u0740:0-17 %%",
+        "Kenzo: What's your idea?",
+        "",
+        "%% u0741:0-22, u0742:0-84 %%",
+        "DM: Well, he looks around. I guess we gotta see what's in the forge first. But I could get this all powered up.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Nice.",
+          "DM: Tinker's a little bit.",
+          "DM: The lock snaps open, but the chest is still rusted shut.",
+          "Seeker: Hmm! How do you open something that's rusted shut?",
+          "Delwath: Crowbar."
+        ],
+        "after": [
+          "Delwath: What's in the lead-lined box?",
+          "Wellby: In the lead-lined box.",
+          "DM: There is what looks like a sending stone, only a single one, not a pair made of smooth polished granite, and with the letters FL in elegant Drankorian script.",
+          "Seeker: FL. And—",
+          "DM: There is a silver wand, faintly magical."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "The hidden lead box",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e022",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0743",
+        "endUid": "u0758"
+      },
+      "lines": [
+        "%% u0743:0-28 %%",
+        "Delwath: What's in the lead-lined box?",
+        "",
+        "%% u0744:0-21 %%",
+        "Wellby: In the lead-lined box.",
+        "",
+        "%% u0745:0-41, u0746:0-45, u0747:0-72 %%",
+        "DM: There is what looks like a sending stone, only a single one, not a pair made of smooth polished granite, and with the letters FL in elegant Drankorian script.",
+        "",
+        "%% u0748:0-7 %%",
+        "Seeker: FL. And—",
+        "",
+        "%% u0749:0-10, u0750:0-11, u0751:0-16 %%",
+        "DM: There is a silver wand, faintly magical.",
+        "",
+        "%% u0752:0-95, u0753:0-17 %%",
+        "DM: There is a leather bound book reinforced with iron and silver fittings locked with an iron lock, strongly magical.",
+        "",
+        "%% u0754:0-148, u0755:0-25, u0756:0-12, u0757:0-60 %%",
+        "DM: Gives off spellbook vibes. There is a magical silvery cloak. Like a like a cloak of this woven gray, silvery material. And there was a small vial of like really small vial of some kind of viscous liquid that's kind of bubbling and hissing slightly.",
+        "",
+        "%% u0758:0-10 %%",
+        "Delwath: How many?",
+        "",
+        "%% u0758:10-73 %%",
+        "DM: Not entirely full, about 3 quarters full, or maybe a half full.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: They're like potential magic.",
+          "DM: And he looks at the red dragon scales. Wanted to shoot fireballs out of your airship? I have an idea.",
+          "Seeker: -Oh!",
+          "Kenzo: What's your idea?",
+          "DM: Well, he looks around. I guess we gotta see what's in the forge first. But I could get this all powered up."
+        ],
+        "after": [
+          "Delwath: What can you identify? How many times can you identify things, Seeker?",
+          "Seeker: Oh. Yeah, is that work again? Once—",
+          "Delwath: Once per day. And you don't know the identify spell right? It's only through your goggles.",
+          "Seeker: That sounds right. Oh, I do. I can do that.",
+          "DM: What do you know—what is like? 10 min."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Faldrak identifies the recovered magic",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e022",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0817",
+        "endUid": "u0839"
+      },
+      "lines": [
+        "%% u0817:0-118, u0818:0-104, u0819:0-77 %%",
+        "DM: As you finish your meal, Faldrak goes through each one of the items. He's he's been in the short rest. He can identify all 6 of the items, including the brick oven. He first holds up this vial of of oil, this bubbling vial. Be careful with this. This is a universal solvent. It will dissolve anything.",
+        "",
+        "%% u0820:0-25 %%",
+        "Seeker: What's it being stored in?",
+        "",
+        "%% u0821:0-6 %%",
+        "Delwath: Magic?",
+        "",
+        "%% u0822:0-16 %%",
+        "DM: Magic? Obviously.",
+        "",
+        "%% u0823:0-12 %%",
+        "Seeker: So not any—",
+        "",
+        "%% u0823:12-54 %%",
+        "DM: While it is within this vial, it is inert.",
+        "",
+        "%% u0824:0-160 %%",
+        "DM: And there's like you can see this like a little sort of glass, like pipe glass dropper. It looks like there's maybe 2 or 3 drops left. Some of it has been used.",
+        "",
+        "%% u0825:0-43 %%",
+        "Seeker: I'm sure, that could come in handy in it so.",
+        "",
+        "%% u0826:0-14 %%",
+        "((Brief interjections))",
+        "",
+        "%% u0827:0-11, u0828:0-5, u0829:0-66 %%",
+        "DM: This cloak. Yeah. Etc. It's a cloak of Elvenkind. Makes you hard to see, easy to hide.",
+        "",
+        "%% u0830:0-4 %%",
+        "((Brief interjections))",
+        "",
+        "%% u0831:0-100 %%",
+        "DM: This book is a spellbook. But it's protected by a very strong magical lock. Do not know how to open.",
+        "",
+        "%% u0832:0-15 %%",
+        "Wellby: Use the solvent.",
+        "",
+        "%% u0833:0-16 %%",
+        "DM: That would work.",
+        "",
+        "%% u0834:0-9, u0835:0-32 %%",
+        "Seeker: Should I? Maybe not not right this moment.",
+        "",
+        "%% u0836:0-23 %%",
+        "Delwath: None of us are wizards.",
+        "",
+        "%% u0837:0-106, u0838:0-81 %%",
+        "DM: A. The wand. This wand was once presumably an arcane focus for a wizard but it also allows you to cast the dancing lights spell at will and without requiring concentration. It's a cantrip.",
+        "",
+        "%% u0839:0-123 %%",
+        "DM: And this is the sending stone, of which I believe that you are familiar without its pair, who might be on the other end is—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: So let's see, I healed 18 plus 4. Alright. Wow! I rolled 3, 7. That's crazy. Okay.",
+          "DM: So as you all relax and have some food, have your late lunch. It's it's now, you know, it's about 2 in the afternoon as you begin this rest.",
+          "Kenzo: Sorry we really couldn't apologize. Yeah.",
+          "Delwath: Like, it's, it's—we have an additional plus 2 compared to what's shown in our D&D Beyond. Yeah, Correct? Yeah, yeah. On—nice. That's that's amazing. Yeah. So if you roll 4 dice, you get plus 8.",
+          "Kenzo: Yeah, I'm I'm with it. Perfect. Thanks. Sorry."
+        ],
+        "after": [
+          "Seeker: I'm a hundred percent ready to use it right now. Make a call.",
+          "Kenzo: Probably go for it.",
+          "DM: What are you going to say?",
+          "Wellby: I think whoever uses it should speak Drankorian.",
+          "Seeker: Hmm, oh, yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "The sending stone’s earlier owners",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e026",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e024",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e025",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0892",
+        "endUid": "u0938"
+      },
+      "lines": [
+        "%% u0892:0-57, u0893:0-98 %%",
+        "DM: So you—you hold up the the stone into the mirror and you ask for a vision. What is? What is your question that you're trying to orient your visions around?",
+        "",
+        "%% u0894:0-50, u0895:0-68, u0896:0-29 %%",
+        "Kenzo: We—I think we want to learn more about the people that were here that use these that that use this item, and its pair, and to learn more about them.",
+        "",
+        "%% u0897:0-23, u0898:0-36, u0898:36-126 %%",
+        "((Wisdom check and dice discussion))",
+        "",
+        "%% u0899:0-147, u0900:0-44, u0901:0-219, u0902:0-118, u0903:0-112, u0904:0-70 %%",
+        "DM: The mirror goes black, and then the an image appears, and you see, a woman, maybe mid-thirties a little bit hard to say. Wearing the silvery cloak that you can—that's you just saw, dressed in and and otherwise underneath that cloak, seemingly dressed in sort of plain like simple robes. She's she has what? You can't see her hair too much underneath the cloak. But it seems to be short and tied back. Dark hair. She has green eyes and sort of lightly tan skin, and she's she's holding up the stone, and and she's speaking into it. It's not a— Wellby can read lips, but this is not a language Wellby knows, and we've previously established that and that lip-reading on languages you don't know does not really work.",
+        "",
+        "%% u0904:70-114 %%",
+        "Delwath: Is she the same? She's not the same person.",
+        "",
+        "%% u0905:0-152, u0906:0-154, u0907:0-34 %%",
+        "DM: She is not the same person that you saw in the image. However, she is perched standing at what looks like the waterfall that you entered this cave from, and she's speaking into the the thing. Crouch— She's clearly hiding, and she takes out the silver wand and mutters something under her breath and vanishes like she was just casting a spell.",
+        "",
+        "%% u0908:0-61, u0909:0-14, u0910:0-16, u0911:0-93, u0912:0-63, u0913:0-141, u0914:0-59, u0915:0-143, u0916:0-86, u0917:0-21 %%",
+        "DM: And then the image jumps back. And you can see the same woman now dressed in like silk robes. Like sort of leisurewear but but vaguely Drankorian is your sense? Sitting in what looks like—it's like a it's like a like a what's the word I'm looking for? It's like a tent, but like a really fancy one like the sort of it's not a royal tent, but it has that sort of like kind of setup of like like like what you see in like fantasy movies of like, you know, Aragorn's tent, or whatever right? It's like, clearly, like a A, the leader of some groups' tent and she's she's sitting, and she's listening to 6 people around a table talk, and there's 2 stones on the table. Along with the cloak and this little vial.",
+        "",
+        "%% u0917:21-55, u0918:0-41 %%",
+        "Delwath: Is it vial? Let me see here, like—is it this room, or is it somewhere else?",
+        "",
+        "%% u0918:41-86 %%",
+        "DM: Oh, no, no, no! This is this is in the tent.",
+        "",
+        "%% u0919:0-110, u0920:0-91, u0921:0-214, u0922:0-50, u0923:0-86 %%",
+        "DM: Oh, okay, in a tent, right? There's 5 people sitting around a table in this like fancy tent speaking. One elf, 5 humans. They seem to be having a a heated discussion. There's words going back and forth. When, when this woman stands up and like everybody, quiets down and she's saying something seems to be speaking passionately, like, you know, pointing her finger. A all again, speaking presumably Drankorian and then the elf kind of nods, passes her the cloak and the and one of the 2 stones, and the small vial like, grasps her hand and shakes her hand.",
+        "",
+        "%% u0924:0-60, u0925:0-137, u0926:0-132, u0927:0-105, u0927:105-200, u0927:200-258, u0928:0-13 %%",
+        "DM: And then everybody sort of gathers together, and everybody's like, you know, shaking her hand, or like giving her hugs, or sort of patting on the back, and that the the vibe you get is sort of like you know. Wish, you know, wishing your fellow luck on a super dangerous mission that nobody thinks they're likely to come back from. And who's likely? Who looks like they're on the Mission? Is she? Look like she's gonna be on the mission? The elf handed her the sending stone, the elf handed her the silvery cloak and the vial of oil. The elf is alive and has the other sending stone, though? Yup, possible.",
+        "",
+        "%% u0928:13-96 %%",
+        "Delwath: Okay, but they they're like they seem like friends or companions, or this is like,—",
+        "",
+        "%% u0929:0-39 %%",
+        "Wellby: Yes, Delwath. Do you recognize the elf?",
+        "",
+        "%% u0930:0-33 %%",
+        "Delwath: All elves do not know each other.",
+        "",
+        "%% u0931:0-113, u0932:0-76 %%",
+        "Kenzo: Wait, wait, Can Delwath lip-read Elvish? Was the— We need to. We need to like, we need to do this better next time. Yeah, any other sense of era just by looking at the the like, based on garb?",
+        "",
+        "%% u0933:0-76, u0934:0-4, u0935:0-27, u0936:0-113, u0937:0-13 %%",
+        "Delwath: I assume. I mean, obviously I don't. I assume I don't know the elf, but also—any—I guess it might be hard to—any sense of where I mean. I can I tell anything about where the elf might be from? Are there regional styles and your jewelry?",
+        "",
+        "%% u0938:0-305 %%",
+        "DM: It's the elf is not wearing—the elf— Everybody is wearing Drankorian style. The elf is not wearing like elven clothing, and the humans wearing human clothing. Everybody is wearing clothing, and you do know that there were quite a number of elves who were part. Yeah, were part of the Drankorian community.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Yeah. Go.",
+          "DM: You set up. You take, stretch out the portable hole. Climb down, take out the mirror, set it up. We should surreptitiously dump stuff in the hole. That's out, right? Yeah, all the stuff. Yeah. I assume you're—rip your—what is the word?",
+          "Kenzo: Investisacking?",
+          "DM: Yeah, that's a great word.",
+          "Kenzo: I like ran-investigate as well. But brand-investigate. Investigate. Brand-investigate is what you do before you investigate. Yeah, yeah, yeah. Investigating is the conclusion of the process. Yeah, yeah, yeah."
+        ],
+        "after": [
+          "Unknown: You're—",
+          "DM: That was cool. Yeah, it's a useful function. Can we do another one?",
+          "Wellby: So probably an elf on the other side of this thing, though. Huh? Should reach out and say, we, I've recovered the other sending stone. And wanna know if you're—",
+          "Delwath: Yeah. Yeah, I'm I'll say it. I'll, I'll, I'll pick it up and say some sort of greeting in Elvish, and—",
+          "DM: Nothing happens for about a minute, and then you hear this small voice like the voice of a child. Oh, wow! Saying in Chardonian, “Is someone there?”"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Delwath speaks with Lucius as Benji",
+      "entities": [
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e021",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e028",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e029",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0942",
+        "endUid": "u1039"
+      },
+      "lines": [
+        "%% u0942:0-5, u0943:0-93 %%",
+        "Delwath: Yeah. Yeah, I'm I'll say it. I'll, I'll, I'll pick it up and say some sort of greeting in Elvish, and—",
+        "",
+        "%% u0944:0-70, u0945:0-26, u0946:0-47 %%",
+        "DM: Nothing happens for about a minute, and then you hear this small voice like the voice of a child. Oh, wow! Saying in Chardonian, “Is someone there?”",
+        "",
+        "%% u0947:0-2, u0948:0-14, u0949:0-59 %%",
+        "((Brief interruptions, naming conventions and geographical asides))",
+        "",
+        "%% u0950:0-106 %%",
+        "Delwath: Parents. We need to talk to the parents. No, no, no, we don't wanna talk to the parents yet. Who are you?",
+        "",
+        "%% u0950:106-121 %%",
+        "DM: Are you, Benji?",
+        "",
+        "%% u0951:0-13 %%",
+        "Delwath: Who's asking?",
+        "",
+        "%% u0952:0-43, u0953:0-17 %%",
+        "DM: You don't know who you don't know who I am? You're not Benji.",
+        "",
+        "%% u0954:0-22 %%",
+        "Delwath: Benji might be around.",
+        "",
+        "%% u0955:0-88 %%",
+        "DM: Or maybe it's just not safe to reveal themselves. How do I know that you're not a trick?",
+        "",
+        "%% u0956:0-53 %%",
+        "DM: I don't understand. The voice sounds like maybe 4, 5.",
+        "",
+        "%% u0957:0-21 %%",
+        "Delwath: Where did you find me?",
+        "",
+        "%% u0958:0-3 %%",
+        "Unknown: The—",
+        "",
+        "%% u0959:0-31 %%",
+        "DM: Promise you won't tell. Promise?",
+        "",
+        "%% u0960:0-61 %%",
+        "DM: When my dad left, found you in his study. Never told my mom.",
+        "",
+        "%% u0960:61-77 %%",
+        "Delwath: Who is your dad?",
+        "",
+        "%% u0961:0-15 %%",
+        "DM: He's—he's gone.",
+        "",
+        "%% u0962:0-29 %%",
+        "Delwath: Yes, what what was his name?",
+        "",
+        "%% u0962:29-249 %%",
+        "DM: Claudio? No, wait, I use that name. It's not the same Claudio. Don't read into anything. Lots of people in the real world have the same name. You know, totally plausible that many people would have the same name. Claudio.",
+        "",
+        "%% u0963:0-3, u0964:0-83, u0965:0-48, u0966:0-172 %%",
+        "((Brief interruptions, naming conventions and geographical asides))",
+        "",
+        "%% u0967:0-27 %%",
+        "Delwath: Right? Where where are you?",
+        "",
+        "%% u0968:0-22 %%",
+        "DM: Hi? I'm in the garden.",
+        "",
+        "%% u0969:0-10, u0970:0-18 %%",
+        "Delwath: What city? Where's your home?",
+        "",
+        "%% u0971:0-96 %%",
+        "Seeker: Yeah. Well, if you gotta talk like you're the rock. So it's what city are we in? Oh, good point.",
+        "",
+        "%% u0972:0-52 %%",
+        "DM: Wha—what city are we in? We've never left Luminatia.",
+        "",
+        "%% u0973:0-14 %%",
+        "Wellby: Where is that?",
+        "",
+        "%% u0974:0-35 %%",
+        "Delwath: Whereas do we do we know that city?",
+        "",
+        "%% u0974:35-61 %%",
+        "DM: Never heard of it. Really?",
+        "",
+        "%% u0974:61-191 %%",
+        "Delwath: Oh, that's exciting! That's super exciting. So city we've city. We've never heard of. What was it called? Can you put it in chat?",
+        "",
+        "%% u0975:0-25 %%",
+        "Delwath: What what did Claudio do?",
+        "",
+        "%% u0976:0-23 %%",
+        "DM: My mom says he was bad.",
+        "",
+        "%% u0977:0-46 %%",
+        "Delwath: Was he bad? Do you? Do you remember him as bad?",
+        "",
+        "%% u0978:0-10 %%",
+        "DM: Scared me.",
+        "",
+        "%% u0979:0-18 %%",
+        "Delwath: When did he leave?",
+        "",
+        "%% u0980:0-3 %%",
+        "DM: And—",
+        "",
+        "%% u0981:0-57 %%",
+        "DM: My mom kicked him out a year ago. I don't really remember.",
+        "",
+        "%% u0982:0-23, u0983:0-31 %%",
+        "Delwath: What's your mom's name? ((Naming aside))",
+        "",
+        "%% u0984:0-1, u0985:0-34 %%",
+        "DM: A—Antonia. Oh, used to Antonia, too.",
+        "",
+        "%% u0986:0-6 %%",
+        "DM: Livia.",
+        "",
+        "%% u0987:0-17, u0988:0-31 %%",
+        "Delwath: What does she do? Do you have enough food to eat?",
+        "",
+        "%% u0989:0-17, u0990:0-18, u0991:0-36, u0992:0-75 %%",
+        "DM: Sometimes? Mostly the farm was okay. Sometimes there's people in the inn. We're the only inn in town, and there's not that many travelers these days.",
+        "",
+        "%% u0993:0-46, u0994:0-20 %%",
+        "Delwath: Where do the travelers come from? Do you know? Far away or near by?",
+        "",
+        "%% u0995:0-44, u0996:0-20 %%",
+        "DM: My mom says they used to come from all over. Not so much anymore.",
+        "",
+        "%% u0997:0-18 %%",
+        "Delwath: Are you ever cold?",
+        "",
+        "%% u0998:0-30 %%",
+        "DM: No. We have wood for the fire.",
+        "",
+        "%% u0999:0-84, u1000:0-62, u1001:0-41 %%",
+        "((Brief interruptions, naming conventions and geographical asides))",
+        "",
+        "%% u1002:0-119 %%",
+        "Delwath: Could be a small town that we— That's why we don't. I mean, it could be a small town somewhere. Is there a river nearby?",
+        "",
+        "%% u1003:0-94 %%",
+        "DM: Lake. Lake. What lake? Like Lake—Lake Valandros? You don't. It's the biggest lake in the world.",
+        "",
+        "%% u1004:0-26, u1005:0-20, u1006:0-26, u1007:0-41, u1008:0-14, u1009:0-4, u1010:0-8 %%",
+        "((Brief interruptions, naming conventions and geographical asides))",
+        "",
+        "%% u1011:0-25 %%",
+        "Delwath: Have you ever met an elf?",
+        "",
+        "%% u1012:0-7, u1013:0-35, u1014:0-22 %%",
+        "DM: And—oh, my mom tells me stories about them. She says they're real.",
+        "",
+        "%% u1015:0-38 %%",
+        "Delwath: I believe that, too, most of the time.",
+        "",
+        "%% u1016:0-57, u1017:0-19 %%",
+        "DM: What's your name? Did he tell us his name? No, he didn't. His name is Lucius.",
+        "",
+        "%% u1018:0-17, u1019:0-42, u1020:0-44, u1021:0-120, u1022:0-43 %%",
+        "Delwath: They say, Lucius, it's best if no one knows I'm here. Okay. Okay, Benji, we might talk—talk to me before— Yeah, I was saying, happy— I was lost. It was hard to find my voice. It might go away again. Don't be scared if it does. But I'll try to talk to you again sometime.",
+        "",
+        "%% u1023:0-50 %%",
+        "Kenzo: Has anybody ever talked to him before through this?",
+        "",
+        "%% u1024:0-32, u1025:0-33 %%",
+        "Delwath: Has? Oh, that's a good question. I haven't talked before, have I?",
+        "",
+        "%% u1025:33-102 %%",
+        "DM: No, Benji's never talked before. Very glad to hear your voice, Benji.",
+        "",
+        "%% u1025:102-121 %%",
+        "Delwath: I'll I'll tell him.",
+        "",
+        "%% u1026:0-69, u1027:0-273, u1028:0-96, u1029:0-55 %%",
+        "Delwath: I'll give him the word home in Elvish, and I'll repeat it a few times, right, and I'll say, this is our word. This is our secret word, so that you know it's really me, right? If somebody else talks to you and doesn't start the conversation with that word, it means they're a trickster. They're trying to pretend to be somebody they're not. Benji. So be careful. And just remember what they say if that happens, cause I might come and ask you. Can you say that word back to me? It's our secret word.",
+        "",
+        "%% u1030:0-16 %%",
+        "DM: He says it back.",
+        "",
+        "%% u1031:0-117, u1032:0-63, u1033:0-172, u1034:0-3, u1035:0-93, u1036:0-35 %%",
+        "((Brief interruptions, naming conventions and geographical asides))",
+        "",
+        "%% u1037:0-101, u1038:0-24, u1039:0-17 %%",
+        "Delwath: I'll put the rock away, I mean, I'll say goodbye and tell him that. Tell him the word one more time. Have him repeat it back and then hang up.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I assume. I mean, obviously I don't. I assume I don't know the elf, but also—any—I guess it might be hard to—any sense of where I mean. I can I tell anything about where the elf might be from? Are there regional styles and your jewelry?",
+          "DM: It's the elf is not wearing—the elf— Everybody is wearing Drankorian style. The elf is not wearing like elven clothing, and the humans wearing human clothing. Everybody is wearing clothing, and you do know that there were quite a number of elves who were part. Yeah, were part of the Drankorian community.",
+          "Unknown: You're—",
+          "DM: That was cool. Yeah, it's a useful function. Can we do another one?",
+          "Wellby: So probably an elf on the other side of this thing, though. Huh? Should reach out and say, we, I've recovered the other sending stone. And wanna know if you're—"
+        ],
+        "after": [
+          "Seeker: So you're a pet rock Benji now. That's the situation. That was new job is to be the imaginary friend to a child thousands of miles away. That's right.",
+          "Kenzo: So—",
+          "Kenzo: We have no idea. How did—sorry, did he—do we talk? Do you say how long he's had the rock? Did did that have always have the rock? He didn't. I mean—",
+          "DM: He's—he was like 5. He wouldn't know Dad had the rock. He took—his mom kicked his dad out of the house like a year ago, and he took it at that point, and—",
+          "Seeker: It was out in the garden for some reason, so it must have just been."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Faldrak proposes a cannon and stays behind",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e039",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e041",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1108",
+        "endUid": "u1172"
+      },
+      "lines": [
+        "%% u1108:0-57 %%",
+        "Kenzo: Well, sorry! Seeker. You're gonna ask Faldrak a question.",
+        "",
+        "%% u1109:0-67, u1110:0-118 %%",
+        "Seeker: Oh, how does—what, what can we expect in that other room? Like, here, right here in this workshop, are all the tools needed to make the magic items? Like, what is that anvil for over there?",
+        "",
+        "%% u1110:118-166 %%",
+        "DM: There is not—not a source of power here, though.",
+        "",
+        "%% u1111:0-55 %%",
+        "Kenzo: What do you mean? Like a furnace, an elemental furnace?",
+        "",
+        "%% u1112:0-8 %%",
+        "DM: Exactly.",
+        "",
+        "%% u1113:0-9 %%",
+        "((Brief interjection))",
+        "",
+        "%% u1114:0-48 %%",
+        "DM: You could feel it before. Couldn't you, Kenzo? The—",
+        "",
+        "%% u1115:0-4 %%",
+        "Kenzo: Good.",
+        "",
+        "%% u1116:0-31 %%",
+        "DM: Elemental tang? It's it's gone.",
+        "",
+        "%% u1117:0-151 %%",
+        "Kenzo: I agree. I agree with all those warding runes on that door. I think we go through that room, we're gonna be in the full force of the elemental furnace.",
+        "",
+        "%% u1118:0-74 %%",
+        "Wellby: I think you make the stuff here, and you bring it in there to be enchanted.",
+        "",
+        "%% u1119:0-16, u1120:0-84, u1121:0-46 %%",
+        "Kenzo: That makes sense. That makes sense. So she was sent here to make some kind of powerful weapon or item, but was imprisoned before she had a chance to.",
+        "",
+        "%% u1122:0-63 %%",
+        "DM: This is history and politics. I don't know anything about that.",
+        "",
+        "%% u1123:0-15, u1124:0-58 %%",
+        "((Speculation about the old occupants and a presentation joke))",
+        "",
+        "%% u1124:58-117, u1125:0-57, u1126:0-46 %%",
+        "DM: But all I know is, if I put those red dragon scales on that magic metal you've got, and bring it into the other room, I can make a pretty good cannon for your ship.",
+        "",
+        "%% u1127:0-20 %%",
+        "Delwath: So oh, yeah, I start—",
+        "",
+        "%% u1128:0-44 %%",
+        "DM: Doing that while you do the dangerous stuff.",
+        "",
+        "%% u1128:44-95, u1129:0-35, u1130:0-16, u1131:0-67, u1132:0-57, u1133:0-70, u1134:0-40, u1135:0-13, u1136:0-15, u1137:0-14, u1138:0-14, u1139:0-32, u1140:0-29, u1141:0-108, u1142:0-97, u1143:0-97, u1144:0-115, u1145:0-37, u1146:0-107, u1147:0-50, u1148:0-212 %%",
+        "((Speculation about the old occupants and a presentation joke))",
+        "",
+        "%% u1149:0-27 %%",
+        "Seeker: Faldrak, seriously, is like—",
+        "",
+        "%% u1150:0-54, u1151:0-91 %%",
+        "DM: Hanging back. He just he's sending you into that room. I'm just gonna do a little like inventory and prep work here, I think, for the fire cannon.",
+        "",
+        "%% u1151:91-108 %%",
+        "Kenzo: That sounds good.",
+        "",
+        "%% u1152:0-58 %%",
+        "Kenzo: Are we all agreed on Faldrak, working on the fire cannon?",
+        "",
+        "%% u1153:0-22 %%",
+        "DM: Fire, cannon actually,—",
+        "",
+        "%% u1154:0-41 %%",
+        "Kenzo: Elemental cannon spray. Whatever we want.",
+        "",
+        "%% u1155:0-70, u1156:0-13 %%",
+        "DM: I gotta poke around a little bit. I wonder what you could do with this prism? Maybe.",
+        "",
+        "%% u1157:0-17, u1158:0-26, u1159:0-9, u1160:0-87 %%",
+        "Delwath: Faldrak, I think, take your time. Stay here. You know, present us with some options. Well, we're gonna go options. Let's give it some options.",
+        "",
+        "%% u1161:0-103, u1162:0-22 %%",
+        "((Speculation about the old occupants and a presentation joke))",
+        "",
+        "%% u1162:22-41, u1163:0-70 %%",
+        "DM: I'm just gonna like push a few things against the door. If you want to get through, knock.",
+        "",
+        "%% u1164:0-60 %%",
+        "DM: Can you do that trick again Delwath with your eyes and walls?",
+        "",
+        "%% u1165:0-5 %%",
+        "Delwath: I can.",
+        "",
+        "%% u1166:0-6, u1167:0-86 %%",
+        "DM: Knock. I'll hold up some fingers. You tell me what number I'm holding up, and I'll let you in.",
+        "",
+        "%% u1168:0-5 %%",
+        "Kenzo: Great.",
+        "",
+        "%% u1169:0-5 %%",
+        "Delwath: Sure.",
+        "",
+        "%% u1170:0-36 %%",
+        "Seeker: That seems like a safe way to do it.",
+        "",
+        "%% u1171:0-33 %%",
+        "Kenzo: Let's talk to the body. Have fun.",
+        "",
+        "%% u1172:0-9 %%",
+        "Wellby: You, too.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Maybe we should talk with the prisoner.",
+          "Delwath: Talk with the prisoner.",
+          "Wellby: It's yeah, the one—the skeleton—checklist.",
+          "Kenzo: I think that's a good next move. Honestly. Yeah, there's too many mysteries here. It's too hard to tell. Yeah. And like, what do we have these scrolls and all these magic things for, if we're not gonna use them?",
+          "Wellby: I think, like the the scroll doesn't compel them to say anything. And like. I feel like we've been saving it a long time. But like any of our dead enemies are not gonna tell us anything exactly. This is somebody that might actually have something that wants to tell us because they can. They were trapped in in captivity so they might be excited to talk to us. Actually."
+        ],
+        "after": [
+          "Seeker: Let's remember to check his pockets before I leave.",
+          "Delwath: We shovel all the valuable stuff into the hole which is back in our pocket.",
+          "Kenzo: Yeah, yes. Let's go. There's something bad on the other side of the door, right? Which door?",
+          "Delwath: The the forge. There's something bad of there, don't you think?",
+          "Kenzo: Well, we're not. Let's let's let's deal with that later. Let's go talk to the body first. Oh, fuck! I thought it was okay."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "The dead agent’s unfinished mission",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e030",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e025",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e039",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e026",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e035",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e032",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e033",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e034",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1318",
+        "endUid": "u1442"
+      },
+      "lines": [
+        "%% u1318:0-24, u1319:0-6, u1320:0-36 %%",
+        "DM: So, Seeker cast a spell. Who is saying a question, and what language?",
+        "",
+        "%% u1321:0-36 %%",
+        "Kenzo: Probably should be me in Drankorian?",
+        "",
+        "%% u1322:0-17 %%",
+        "Seeker: Yeah, yeah, yeah.",
+        "",
+        "%% u1323:0-62 %%",
+        "Kenzo: Alright. Tell us a story of how you came here, and to be here.",
+        "",
+        "%% u1324:0-57, u1325:0-101, u1326:0-23, u1327:0-10, u1328:0-62, u1329:0-47, u1330:0-22 %%",
+        "DM: Slowly the skeleton begins to like shift, and rise up and turn and like sit up and like struggles against its bonds as it turns and and looks at you, and looks across at the 4 of you and turns. And, as you ask, “Tell us the story of how you came to be here.” croaks— ((DM checks notes))",
+        "",
+        "%% u1331:0-29, u1332:0-26, u1333:0-15 %%",
+        "DM: Mission for the Fides Lucaris. Free the trapped elemental from its bonds.",
+        "",
+        "%% u1334:0-4 %%",
+        "Delwath: I'll—",
+        "",
+        "%% u1335:0-12 %%",
+        "DM: Died. Failed.",
+        "",
+        "%% u1336:0-1, u1337:0-96, u1338:0-19, u1339:0-137, u1340:0-35 %%",
+        "((Question selection, interruptions and tactical speculation))",
+        "",
+        "%% u1341:0-48 %%",
+        "Kenzo: Yeah, what went wrong, or what went wrong. Yeah.",
+        "",
+        "%% u1342:0-16 %%",
+        "DM: What went wrong?",
+        "",
+        "%% u1343:0-103 %%",
+        "Kenzo: Or, yeah, how did you fail? What I like? What went wrong? I think that's better. What went wrong. Yeah.",
+        "",
+        "%% u1344:0-39 %%",
+        "DM: Did not expect Drusilia to be so strong.",
+        "",
+        "%% u1345:0-14 %%",
+        "Seeker: Is that a trap?",
+        "",
+        "%% u1346:0-41 %%",
+        "DM: Killed me as I was dissolving the anchors.",
+        "",
+        "%% u1347:0-37, u1348:0-36, u1349:0-5 %%",
+        "((Question selection, interruptions and tactical speculation))",
+        "",
+        "%% u1350:0-26, u1351:0-122 %%",
+        "Wellby: We can. We could. Is this—is this one of the people who I'm not asking him? Is this one of the people who left—who we saw? She's the woman who died.",
+        "",
+        "%% u1352:0-129, u1353:0-143 %%",
+        "Delwath: She's almost certainly the woman who died. She's the spellcaster, right? But hold on, hold on, I just I just wanna understand this. Pause for a minute, because obviously Delwath could see it. I'm just trying to picture it. There's 4 ropes running from the anvil to the walls.",
+        "",
+        "%% u1354:0-13 %%",
+        "DM: To the floor.",
+        "",
+        "%% u1354:13-68 %%",
+        "Delwath: To the floor. Okay, but they're like anchor—2 of them.",
+        "",
+        "%% u1355:0-77 %%",
+        "DM: To anchor points in the floor. Yeah. 2 of them are snapped and hanging loose.",
+        "",
+        "%% u1356:0-107, u1357:0-30, u1358:0-15 %%",
+        "Delwath: 2 of them are taut and vibrating with magical—and okay. So the universal solvent will dissolve the other 2. That's clearly why she had it. Don't you think?",
+        "",
+        "%% u1359:0-145 %%",
+        "Kenzo: She brought the universal solvent here to dissolve these and free the elemental? That was the other thing on the table that you got from the elf.",
+        "",
+        "%% u1360:0-38, u1361:0-46, u1362:0-56, u1363:0-5 %%",
+        "((Question selection, interruptions and tactical speculation))",
+        "",
+        "%% u1364:0-39 %%",
+        "Kenzo: Why are we trying to free the elemental?",
+        "",
+        "%% u1365:0-37, u1366:0-43 %%",
+        "DM: Occulta Ludum? Only care about power, not the feelings of the creatures they trap.",
+        "",
+        "%% u1367:0-126, u1368:0-41 %%",
+        "Delwath: Occulta Ludum's the bad guys. That makes me a lot happier with her. So she's clearly a good guy. Because the Occulta Ludum was—okay, that has a little secret book, that—",
+        "",
+        "%% u1369:0-14 %%",
+        "Seeker: That was that—",
+        "",
+        "%% u1370:0-61 %%",
+        "Delwath: They're like the Drankorian bad guys. They're the like pure—",
+        "",
+        "%% u1370:61-112 %%",
+        "DM: They're like the Omnis Pura is who you're thinking?",
+        "",
+        "%% u1370:112-170, u1371:0-117, u1372:0-41 %%",
+        "Delwath: Okay. But Occulta Ludum are the people who trap Hralgar. Okay, yes, okay. But still bad guys. They trapped Hralgar. No, they're Drankorian? No, no, they're Drankorians. Okay. Ludum, go ahead. Yes, Eudomes, was Ludum.",
+        "",
+        "%% u1373:0-182 %%",
+        "Seeker: They are clearly people who go around trapping innocent, magical beings and using them for their own purposes. Giants, elementals. Wow! Cool. Maybe they're doing it for good reasons.",
+        "",
+        "%% u1374:0-9, u1375:0-67, u1376:0-32, u1377:0-15, u1378:0-35, u1379:0-72, u1380:0-65, u1381:0-46, u1382:0-154, u1383:0-61, u1384:0-50 %%",
+        "((Question selection, interruptions and tactical speculation))",
+        "",
+        "%% u1385:0-67 %%",
+        "Kenzo: How should we finish what you started? Yeah, what? You start? Okay?",
+        "",
+        "%% u1386:0-11, u1387:0-26 %%",
+        "DM: The anchors are almost indestructible.",
+        "",
+        "%% u1388:0-39, u1389:0-50 %%",
+        "Delwath: Should've told that we had the solvent. We have the solvent, right? I'll just shout it out.",
+        "",
+        "%% u1390:0-64, u1391:0-20 %%",
+        "DM: But if you can destroy them, be careful. For they were enchanted to summon elementals.",
+        "",
+        "%% u1392:0-24 %%",
+        "Delwath: That okay, good to know.",
+        "",
+        "%% u1392:24-30, u1393:0-22 %%",
+        "DM: Water and earth I destroyed.",
+        "",
+        "%% u1394:0-39, u1395:0-5 %%",
+        "Kenzo: Fire and air. Nothing like fire and air. Okay.",
+        "",
+        "%% u1396:0-323, u1397:0-63, u1398:0-33, u1399:0-134, u1400:0-98, u1401:0-71, u1402:0-123, u1403:0-155, u1404:0-43, u1405:0-31, u1406:0-67, u1407:0-5, u1408:0-57, u1409:0-139, u1410:0-22, u1411:0-23, u1412:0-54, u1413:0-5, u1414:0-10, u1415:0-78, u1416:0-28 %%",
+        "((Question selection, interruptions and tactical speculation))",
+        "",
+        "%% u1417:0-63 %%",
+        "Seeker: Or maybe, how do we decipher the journals of the Occulta Ludum?",
+        "",
+        "%% u1418:0-11 %%",
+        "Delwath: I don't—I—",
+        "",
+        "%% u1419:0-31 %%",
+        "Seeker: You pick Kenzo, you're talking.",
+        "",
+        "%% u1420:0-32, u1421:0-60 %%",
+        "Kenzo: Okay, how do we get this call to— yeah. How do we decipher the journals of the Twelfth Legion?",
+        "",
+        "%% u1422:0-33, u1423:0-65, u1424:0-16 %%",
+        "DM: I do not know. Elandrial, the elf sought to solve that mystery when I volunteered for this mission. Perhaps he knows.",
+        "",
+        "%% u1425:0-106 %%",
+        "Kenzo: All. All of Delwath's people got trapped in some plane somewhere. We could go free them and find Elandrial.",
+        "",
+        "%% u1426:0-142 %%",
+        "Wellby: Double side quest. It's not to do to the other sending. Go get the other sending stone and show it to the mirror and track them down that way.",
+        "",
+        "%% u1427:0-37, u1428:0-109, u1429:0-144 %%",
+        "Delwath: We could all kinds of things, but but remember, there was the whole thing about finding the elves. I don't know if that was something was that just—they might know him. Maybe they could tell you something. That's the most ridiculous thing I've heard of my life. Yeah, we're not gonna do that.",
+        "",
+        "%% u1430:0-87, u1431:0-31 %%",
+        "Kenzo: But we have a name that's actually super useful, super useful, incredibly useful. Yeah. Wait. What was her name? Again?",
+        "",
+        "%% u1432:0-38 %%",
+        "Delwath: We don't know her name. No, we didn't.",
+        "",
+        "%% u1433:0-29 %%",
+        "DM: But elf's name was Elandrial.",
+        "",
+        "%% u1434:0-41 %%",
+        "Kenzo: What were the initials on the stone again?",
+        "",
+        "%% u1435:0-2 %%",
+        "DM: FL.",
+        "",
+        "%% u1436:0-12 %%",
+        "Kenzo: Elandrial or—",
+        "",
+        "%% u1437:0-16 %%",
+        "Delwath: But it could be.",
+        "",
+        "%% u1438:0-67 %%",
+        "DM: The first thing she said was that she was on a mission for Lucaris.",
+        "",
+        "%% u1439:0-13 %%",
+        "Kenzo: For for what?",
+        "",
+        "%% u1440:0-36 %%",
+        "Delwath: Oh, secret societies, Fides Lucaris.",
+        "",
+        "%% u1441:0-19 %%",
+        "Kenzo: I'm just making up.",
+        "",
+        "%% u1442:0-29 %%",
+        "DM: Yeah, that's basically right.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So keep in mind that the answers it gives are somewhat brief, possibly cryptic.",
+          "Delwath: It's not gonna talk for 5 min, right? So we might want to hone in on. I mean the advantage of more specific questions.",
+          "Kenzo: That is easier to process the answer, right?",
+          "Kenzo: But I mean, I'm not against. Tell us about yourself as a starting spot. Right? But the first 3, the first 3 look good, you know. Tell us about yourself. How did you die? What were you trying to accomplish here? Or tell us the story, how you came to be here. Those the first 3 look good. Maybe the story of how you came to be there to start rather than about yourself. Let's start that one. Yeah, that's good, and then go from there. Alright. Let's do it.",
+          "Wellby: Tell us how you came to be—"
+        ],
+        "after": [
+          "Delwath: So okay, just brief pause before we set up for the battle. So clearly the image was Drusilia, right? Like—",
+          "Delwath: Presume here for a minute, that Occulta Ludum had taken over this place, or built this place by trapping elementals to power their magic, right? And so the woman who was who we saw when we first came here, as the image was actually Drusilia. But yeah, was part of Occulta Ludum which makes sense, because in the living quarters we found the Occulta Ludum book, right? And then this Fides Lucaris people came as part of some mission.",
+          "Delwath: To try to free the trapped elementals. Right?",
+          "Kenzo: I mean, we basically are Fides Lucaris. By the way, you know, we're we're continuing and absolutely right.",
+          "Delwath: And now we're continuing. And so that's the—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "The party’s theory about Drusilia",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e030",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1443",
+        "endUid": "u1454"
+      },
+      "lines": [
+        "%% u1443:0-58, u1444:0-11, u1445:0-9, u1446:0-3, u1447:0-20 %%",
+        "Delwath: So okay, just brief pause before we set up for the battle. So clearly the image was Drusilia, right? Like—",
+        "",
+        "%% u1448:0-92, u1449:0-57, u1450:0-79, u1451:0-148, u1452:0-49 %%",
+        "Delwath: Presume here for a minute, that Occulta Ludum had taken over this place, or built this place by trapping elementals to power their magic, right? And so the woman who was who we saw when we first came here, as the image was actually Drusilia. But yeah, was part of Occulta Ludum which makes sense, because in the living quarters we found the Occulta Ludum book, right? And then this Fides Lucaris people came as part of some mission.",
+        "",
+        "%% u1453:0-45 %%",
+        "Delwath: To try to free the trapped elementals. Right?",
+        "",
+        "%% u1453:45-152 %%",
+        "Kenzo: I mean, we basically are Fides Lucaris. By the way, you know, we're we're continuing and absolutely right.",
+        "",
+        "%% u1454:0-44 %%",
+        "Delwath: And now we're continuing. And so that's the—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: The first thing she said was that she was on a mission for Lucaris.",
+          "Kenzo: For for what?",
+          "Delwath: Oh, secret societies, Fides Lucaris.",
+          "Kenzo: I'm just making up.",
+          "DM: Yeah, that's basically right."
+        ],
+        "after": [
+          "Delwath: Now how do you use the forge to make magic? I don't know. I don't know if it doesn't—like, Do we have to free the elementals, to have it make magic?",
+          "Kenzo: I think once we free, the elemental, the elemental will help us. I think so, right? And if it's a fire elemental.",
+          "Delwath: That's our way to get to Frank.",
+          "Wellby: Good.",
+          "Kenzo: Alright. So the plan? Yeah. So fire and air. What are the vulnerabilities for fire and air? Actually, Tim, I've fought fire elementals before, so I know what the vulnerable vulnerabilities are."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "This is explicitly the party’s presumed reconstruction; the source does not independently confirm every identification."
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Freeing and calming the bound elemental",
+      "entities": [
+        {
+          "id": "e038",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e025",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e039",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e033",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1548",
+        "endUid": "u2055"
+      },
+      "lines": [
+        "%% u1548:0-16 %%",
+        "((Brief table remark))",
+        "",
+        "%% u1548:16-54, u1549:0-21, u1550:0-83, u1551:0-48 %%",
+        "DM: So suddenly erupting out of the floor, you see this enormous whirling mass of smoke and mist and fire that looks kind of like a flaming octopus. ((Initiative))",
+        "",
+        "%% u1551:48-70, u1552:0-16, u1553:0-13, u1554:0-65, u1555:0-22, u1556:0-23, u1557:0-23, u1558:0-7, u1559:0-101, u1560:0-61, u1561:0-67, u1562:0-109, u1563:0-56, u1564:0-48, u1565:0-25, u1565:25-51, u1566:0-21, u1567:0-5, u1568:0-55, u1569:0-3, u1570:0-46, u1571:0-5, u1572:0-6, u1573:0-142, u1574:0-61, u1575:0-32, u1576:0-202, u1577:0-36, u1578:0-58, u1579:0-16, u1580:0-48, u1581:0-88, u1582:0-39, u1583:0-6, u1584:0-60, u1585:0-39, u1586:0-6, u1587:0-22, u1588:0-37, u1589:0-45, u1590:0-15, u1591:0-77, u1592:0-31, u1593:0-63, u1594:0-21, u1595:0-51, u1596:0-30, u1597:0-31, u1598:0-5, u1599:0-8, u1600:0-62, u1601:0-77, u1602:0-96, u1603:0-23, u1604:0-44, u1605:0-43, u1606:0-9, u1607:0-9, u1608:0-21, u1608:21-116, u1609:0-49, u1610:0-78, u1611:0-33, u1612:0-125, u1613:0-29, u1614:0-17, u1615:0-51, u1616:0-22, u1617:0-68, u1617:68-117, u1617:117-170, u1618:0-68, u1619:0-5, u1620:0-134, u1621:0-25, u1622:0-34, u1623:0-12, u1624:0-5 %%",
+        "((Combat, tactics and brief interruptions))",
+        "",
+        "%% u1625:0-133 %%",
+        "Kenzo: I'm going to spend the rest of my—I don't want to attack it. Then why are we going to try attack the elemental we're trying to save?",
+        "",
+        "%% u1626:0-16, u1627:0-35 %%",
+        "Seeker: We would try to—I don't know, calm it down somehow.",
+        "",
+        "%% u1628:0-16, u1629:0-142, u1630:0-68 %%",
+        "Kenzo: You do a calming—totally, Tim. I'm going to sit right where I am, and I'm going to start to soothe it. I'm going to try to, you know, just like I did Hralgar. I'm gonna start to commune with its essence and try to calm it down.",
+        "",
+        "%% u1631:0-12, u1632:0-13, u1633:0-3, u1634:0-5, u1635:0-22, u1636:0-71, u1637:0-12, u1638:0-24, u1639:0-175, u1639:175-275, u1640:0-42, u1640:42-81, u1641:0-19, u1642:0-76, u1643:0-38, u1644:0-5, u1645:0-3, u1645:3-11, u1645:11-154, u1645:154-226, u1646:0-20, u1647:0-8, u1648:0-38, u1649:0-70, u1650:0-19, u1651:0-94, u1652:0-8, u1653:0-5, u1654:0-8, u1655:0-2, u1656:0-41, u1657:0-56, u1658:0-97, u1659:0-68, u1660:0-14, u1661:0-10, u1662:0-15, u1663:0-25, u1664:0-3, u1665:0-60, u1666:0-13, u1667:0-22, u1668:0-106, u1669:0-21, u1669:21-51, u1670:0-24, u1671:0-83, u1672:0-37, u1673:0-49, u1674:0-48, u1675:0-16, u1676:0-4, u1677:0-28, u1678:0-60, u1679:0-29, u1680:0-62, u1681:0-96, u1682:0-5, u1683:0-50, u1684:0-36, u1685:0-23, u1686:0-206, u1687:0-41, u1688:0-73, u1689:0-11, u1690:0-17, u1691:0-8, u1692:0-47, u1693:0-51, u1694:0-54, u1695:0-39, u1696:0-41, u1697:0-126, u1698:0-55, u1699:0-15, u1700:0-29, u1700:29-158, u1701:0-23, u1702:0-13, u1703:0-19, u1704:0-40 %%",
+        "((Combat, tactics and brief interruptions))",
+        "",
+        "%% u1705:0-75 %%",
+        "Wellby: Alright, Wellby is going to run over to one of these wires and dissolve it.",
+        "",
+        "%% u1706:0-32, u1707:0-75, u1708:0-27, u1709:0-53, u1710:0-22, u1711:0-73, u1712:0-55, u1713:0-176, u1714:0-105, u1715:0-5, u1716:0-10, u1717:0-34, u1718:0-30, u1719:0-54, u1720:0-67, u1721:0-131, u1722:0-54, u1723:0-5, u1724:0-56, u1725:0-50, u1726:0-27, u1727:0-19, u1728:0-16, u1729:0-5, u1730:0-39, u1731:0-5, u1732:0-45, u1733:0-20, u1734:0-66, u1735:0-5, u1736:0-15, u1737:0-10, u1738:0-75, u1739:0-42, u1739:42-76, u1740:0-44, u1741:0-127, u1742:0-71, u1743:0-72, u1744:0-45, u1744:45-84, u1744:84-106, u1745:0-41, u1746:0-19, u1747:0-138, u1747:138-195, u1747:195-223, u1747:223-275, u1748:0-25, u1749:0-65, u1750:0-37, u1751:0-18, u1752:0-7, u1753:0-60, u1754:0-76, u1755:0-38, u1756:0-20, u1757:0-16, u1758:0-29, u1759:0-15, u1760:0-31, u1761:0-47, u1762:0-32, u1763:0-134, u1763:134-228, u1763:228-374, u1764:0-43, u1765:0-87, u1766:0-8, u1767:0-10, u1768:0-10, u1769:0-12, u1770:0-14, u1771:0-65, u1772:0-151, u1773:0-48, u1774:0-40, u1775:0-9, u1776:0-98, u1777:0-24, u1778:0-21, u1779:0-19, u1780:0-5, u1781:0-8, u1781:8-30, u1782:0-41, u1783:0-93, u1784:0-27, u1785:0-59, u1786:0-77, u1787:0-29, u1788:0-8, u1789:0-18, u1790:0-48, u1791:0-48, u1792:0-23, u1793:0-29, u1794:0-15, u1795:0-10, u1796:0-134, u1797:0-22, u1798:0-37, u1799:0-22, u1800:0-85, u1801:0-57, u1802:0-10, u1803:0-4, u1804:0-24, u1805:0-15, u1806:0-14, u1807:0-7, u1808:0-7, u1809:0-23, u1810:0-21, u1811:0-84, u1812:0-71, u1813:0-20, u1814:0-54, u1815:0-220, u1816:0-116, u1817:0-91, u1817:91-141, u1818:0-23, u1819:0-23, u1820:0-145, u1821:0-7, u1822:0-14, u1823:0-21, u1824:0-12, u1825:0-96, u1826:0-14, u1827:0-39, u1828:0-22, u1829:0-23, u1830:0-27, u1831:0-53, u1832:0-21, u1833:0-19, u1834:0-27, u1835:0-21, u1836:0-26, u1837:0-12, u1838:0-58, u1839:0-27, u1840:0-18, u1841:0-30, u1842:0-44, u1843:0-22, u1844:0-35, u1845:0-79, u1845:79-103, u1846:0-23, u1847:0-18, u1848:0-8, u1849:0-28, u1850:0-58, u1851:0-71, u1852:0-140, u1853:0-150 %%",
+        "((Combat, tactics and brief interruptions))",
+        "",
+        "%% u1854:0-52, u1855:0-40 %%",
+        "Wellby: All right. Wellby hustles over to the last remaining wire and pours on, the universal solvent.",
+        "",
+        "%% u1856:0-8, u1857:0-11, u1858:0-28, u1859:0-29, u1860:0-16, u1861:0-7, u1862:0-17, u1863:0-10, u1864:0-25, u1865:0-38, u1866:0-9, u1867:0-44, u1868:0-4, u1869:0-52, u1870:0-26, u1871:0-5, u1872:0-73, u1873:0-46, u1874:0-15, u1875:0-47, u1876:0-44, u1877:0-4, u1878:0-53, u1879:0-34, u1880:0-33, u1880:33-130, u1881:0-36, u1882:0-89, u1883:0-22, u1884:0-161, u1885:0-124, u1886:0-136, u1887:0-66, u1888:0-44, u1889:0-49, u1890:0-39, u1891:0-89, u1892:0-7, u1893:0-26, u1894:0-12, u1894:12-74, u1895:0-35, u1896:0-20, u1897:0-3, u1898:0-77, u1899:0-86, u1900:0-42, u1901:0-8, u1902:0-38, u1903:0-27, u1904:0-9, u1905:0-9, u1906:0-22, u1907:0-6, u1908:0-42, u1909:0-35, u1910:0-27, u1911:0-20, u1912:0-88, u1913:0-21, u1914:0-25, u1915:0-38, u1916:0-102, u1917:0-13, u1918:0-47, u1919:0-28, u1920:0-119, u1921:0-122, u1922:0-58, u1923:0-97, u1924:0-24, u1925:0-74, u1926:0-126, u1927:0-21, u1928:0-29, u1929:0-33, u1930:0-266, u1931:0-106, u1932:0-149, u1933:0-123, u1934:0-78, u1935:0-120, u1936:0-5, u1937:0-104, u1938:0-13, u1939:0-32, u1940:0-3, u1941:0-68, u1942:0-42, u1943:0-103, u1944:0-49, u1945:0-9, u1946:0-4, u1947:0-95, u1948:0-4, u1949:0-46, u1950:0-124, u1951:0-11, u1952:0-70, u1953:0-28, u1954:0-6, u1955:0-98, u1956:0-179, u1957:0-8, u1958:0-101, u1959:0-33, u1960:0-91, u1961:0-99, u1962:0-55, u1963:0-42, u1964:0-24, u1965:0-5, u1966:0-14, u1967:0-33, u1968:0-61, u1969:0-91, u1970:0-21, u1971:0-31, u1972:0-31, u1973:0-12, u1974:0-81, u1974:81-120, u1975:0-57, u1976:0-41, u1977:0-17, u1978:0-25, u1979:0-10, u1980:0-25, u1981:0-51, u1982:0-3, u1983:0-40, u1984:0-43, u1985:0-98, u1986:0-23, u1987:0-40, u1988:0-15, u1989:0-45, u1990:0-22, u1991:0-105, u1992:0-80, u1993:0-36, u1994:0-5, u1995:0-186, u1995:186-270, u1996:0-131, u1996:131-168, u1997:0-28, u1998:0-27, u1999:0-49, u1999:49-125, u2000:0-148, u2000:148-160, u2001:0-11, u2002:0-14, u2003:0-10, u2004:0-54, u2004:54-70, u2005:0-7, u2006:0-8, u2007:0-18, u2008:0-66, u2009:0-42, u2010:0-53, u2011:0-31, u2012:0-20, u2013:0-43, u2013:43-57, u2014:0-23, u2015:0-10, u2016:0-31, u2017:0-3, u2018:0-29, u2019:0-3, u2020:0-53, u2021:0-30, u2022:0-17, u2023:0-52, u2024:0-145, u2024:145-212, u2025:0-71, u2026:0-2, u2027:0-11 %%",
+        "((Combat, tactics and brief interruptions))",
+        "",
+        "%% u2027:11-39, u2028:0-16, u2029:0-72, u2030:0-42 %%",
+        "DM: Kenzo reaches into his mind. ((Ki cost)) And you feel—you—the element—you feel this this like it, begins to sink almost into the floor, but into the anvil.",
+        "",
+        "%% u2031:0-88, u2032:0-102, u2033:0-92 %%",
+        "DM: It takes its tentacles away from you, and it sort of drops them into the floor. And it's—you can now see, instead of this, like smoke and fire, like its eyes, begin to solidify into crystals, and you see steam beginning to come off around as it begins to sink slightly into the floor.",
+        "",
+        "%% u2034:0-23, u2035:0-56, u2036:0-72, u2037:0-36, u2038:0-22, u2039:0-47, u2040:0-13, u2041:0-18, u2042:0-11, u2043:0-36, u2044:0-83, u2045:0-22, u2046:0-134, u2046:134-192 %%",
+        "((Combat, tactics and brief interruptions))",
+        "",
+        "%% u2046:192-237, u2047:0-31, u2048:0-50, u2049:0-3, u2050:0-51, u2051:0-90 %%",
+        "DM: ((Remaining minion attacks)) And with the art—with the monster in the middle calmed, Wellby is able to kill the last 2 minions before they can do any additional damage to him.",
+        "",
+        "%% u2052:0-3 %%",
+        "((Brief interjections))",
+        "",
+        "%% u2053:0-12, u2054:0-92, u2055:0-25 %%",
+        "DM: As you relax and take your breath, and another 30 s passes, the elementals not being native to this plane are permanently banished.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Oh, I do not want to be standing right in the middle of them like that. Why am I so huge on that matter?",
+          "Delwath: Yeah, these are just 5 foot squares. The squares are only 2 and a half feet.",
+          "Kenzo: 4 squares is a is a normal person size.",
+          "Delwath: The room is twice as big. I mean, it's—I am gonna stand right in the middle.",
+          "Kenzo: Oh, it's smart!"
+        ],
+        "after": [
+          "Kenzo: Dude, Eric, can you? Is there? Can you do a Midjourney of a of a Kenzo in the elemental—Kenzo calming the elemental?",
+          "Seeker: How do you want Kenzo to look? He's a human.",
+          "Kenzo: The one in the the one with the skeleton was awesome. That was cool. I just wrote Chinese American. That's fine. There's no meaning of Asian in Taelgar. Right? But yeah, it's a badass. I love the little kid with the stone. That's perfect. Yeah, they're both quite good.",
+          "DM: That's that's pretty good. It's actually amazing how similar. Wait! Did you use my image as an input?",
+          "Seeker: Oh, for the last one! No, it's amazing how similar those 2 are."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Sh’shethis’s captivity and elemental nature",
+      "entities": [
+        {
+          "id": "e038",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e039",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e033",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e040",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e036",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2075",
+        "endUid": "u2156"
+      },
+      "lines": [
+        "%% u2075:0-14, u2076:0-15, u2077:0-17, u2078:0-184 %%",
+        "Kenzo: Kenzo tries to, you know, kinda continue to share his own aura again, you know, projecting calm and relaxation. So he, so that the elemental has a sense of Kenzo energy, but then also is try is inviting it to share more about itself,—",
+        "",
+        "%% u2078:184-292 %%",
+        "DM: So that Kenzo can kinda get these—like, this is a very alien mind. You just get these like scattered flashes.",
+        "",
+        "%% u2079:0-77 %%",
+        "DM: The first thing you get is just the sense of how long it's been trapped here.",
+        "",
+        "%% u2080:0-4 %%",
+        "Kenzo: Hmm!",
+        "",
+        "%% u2081:0-8, u2082:0-113, u2083:0-47, u2083:47-141, u2083:141-179, u2084:0-45 %%",
+        "((Combat recap and dice discussion))",
+        "",
+        "%% u2085:0-136 %%",
+        "Kenzo: I mean, I'm right now—I'm sort of I was just interacting with the elemental to try to. I was inviting it to share about itself to me.",
+        "",
+        "%% u2085:136-216, u2086:0-37 %%",
+        "DM: It's not communicating with you in language. It's communicating with you in like flashes of images and like, feelings.",
+        "",
+        "%% u2087:0-57 %%",
+        "Kenzo: That's perfect. Yeah. What? What do I? What am I getting?",
+        "",
+        "%% u2088:0-161, u2089:0-6, u2090:0-49 %%",
+        "DM: And you're getting this like weight of how long it's been here. And the so the rumor of this place, the Edge of Echoes is that it is like a weak spot between the planes where the plane, the elemental planes are strong.",
+        "",
+        "%% u2091:0-52, u2092:0-36, u2093:0-3, u2094:0-9 %%",
+        "DM: But the image you get from this creature is actually no, it's that it has been bound here for centuries.",
+        "",
+        "%% u2095:0-30, u2096:0-38 %%",
+        "DM: Leaves this place will go back—it will, the elementals will disperse.",
+        "",
+        "%% u2097:0-72 %%",
+        "Kenzo: So right now do I sense? Is it bound to the anvil, or is it? No, no, no.",
+        "",
+        "%% u2098:0-12 %%",
+        "Seeker: We freed it.",
+        "",
+        "%% u2099:0-119 %%",
+        "Kenzo: Yeah, free. And and it's just. But but you said that it kind of sank into the anvil, and, and its eyes like, sort of in.",
+        "",
+        "%% u2099:119-179, u2100:0-67 %%",
+        "DM: Yeah, like into the stone, a little bit like into the floor. And it started to solidify a little bit, but it's not particularly—",
+        "",
+        "%% u2101:0-59, u2102:0-44, u2103:0-11, u2104:0-41, u2105:0-26 %%",
+        "DM: It's been bound to the anvil for a long time, and it's just—you feel like it's just beginning to sort of stretch its perception out and see what's beyond this place it's been bound to.",
+        "",
+        "%% u2105:26-53 %%",
+        "Kenzo: Amazing amazing. Oh, fuck.",
+        "",
+        "%% u2106:0-121, u2107:0-111, u2108:0-11 %%",
+        "Kenzo: Alright. So yeah. Also, Tim. You know, like, I've got some Hralgar ki. So I can like talk to Hralgar randomly in a pinch. Definitely definitely doing some some. What what is it? It's not an—it's not like a fire elemental. It's like a—like it is—",
+        "",
+        "%% u2109:0-30, u2110:0-54, u2111:0-23, u2112:0-16, u2113:0-37 %%",
+        "DM: It is it is like an elemental—a conglomerate. It's really mostly a like a fire and a air elemental combined, but it also has— It has connections to all 4 elements.",
+        "",
+        "%% u2114:0-58 %%",
+        "Delwath: Can you use your like Bhishma power to draw out its story?",
+        "",
+        "%% u2115:0-96 %%",
+        "Kenzo: Although that. Yeah, this is. This kind of is what I'm doing is trying to understand. It's, it's—",
+        "",
+        "%% u2115:96-164, u2116:0-19, u2117:0-24, u2118:0-48, u2119:0-62 %%",
+        "DM: So. You get, you get these images you get. You get the flash of this just like this long being bound, and, and the—as you begin to sort of commune with it, and and try to sort of piece together these images back in its memory.",
+        "",
+        "%% u2120:0-38, u2121:0-22, u2122:0-65, u2123:0-35, u2124:0-46, u2125:0-21, u2126:0-67 %%",
+        "DM: You, you catch these these glimpses of flying, of freedom, of dancing on the air. You sort of get this feeling that it was once long ago lived on the plane of air. And all these other elemental essences sort of accreted on top of it in the centuries, in the thousands of years that it was bound here.",
+        "",
+        "%% u2127:0-34 %%",
+        "Seeker: Not fastens, I guess a little more.",
+        "",
+        "%% u2128:0-12, u2129:0-12, u2130:0-23, u2131:0-74, u2132:0-9, u2133:0-96, u2134:0-24, u2135:0-9, u2136:0-8 %%",
+        "DM: As it's been as it's been used again and again to power this forge, make magic items. Flecks of the magical essence that has—that, that—all of the things that were used to create magic items have also left their mark on it, and it's sort of accumulated this elemental residue.",
+        "",
+        "%% u2137:0-7, u2138:0-87, u2139:0-160 %%",
+        "DM: And now it's—you, you see, as it's sort of dwelling in this memory, shake a little bit, and and some of the fire—some you can see, like some of the smoke and some of the fire sort of spray off it slightly, and it sort of tries to shake again and struggles.",
+        "",
+        "%% u2140:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u2141:0-37, u2142:0-227 %%",
+        "Kenzo: Yeah, I continue to to soothe it. And yeah, just focus focus on that for for now. To the group: is there any like—I— You know I feel a little bad where I want it to make it—some make us some magical items, but I mean, presumably it's it's it's up for that. I mean,—",
+        "",
+        "%% u2143:0-142 %%",
+        "Kenzo: Is there anything—I mean, Do we wanna ask it about Frankar? Is that, or probably not. Could doesn't that not even know anything about Frankar?",
+        "",
+        "%% u2144:0-15 %%",
+        "Delwath: It's air, right?",
+        "",
+        "%% u2145:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u2146:0-29 %%",
+        "Seeker: Actually, an air elemental or—",
+        "",
+        "%% u2147:0-28, u2148:0-107, u2149:0-34 %%",
+        "Delwath: Much more powerful than just the source of elementals that appear that are summoned right? But like, what's the equivalent of it? A free—with a—okay? So it's like a djinn.",
+        "",
+        "%% u2150:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u2151:0-28 %%",
+        "Seeker: But it looks like an octopus.",
+        "",
+        "%% u2152:0-14 %%",
+        "DM: At the moment.",
+        "",
+        "%% u2153:0-85, u2154:0-16, u2155:0-119, u2156:0-15 %%",
+        "DM: But as you watch as Kenzo's communing with it, these—like its tentacles, are kind of cracking off and blowing away, as this smoke begins to disperse. All the like accreted elemental bits from the other planes are vanishing slowly, slowly.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: You need so much more visually awesome. Yeah.",
+          "Seeker: It's pretty fun.",
+          "DM: So as things calm down, let me change the music.",
+          "Kenzo: Thank you.",
+          "Kenzo: This was awesome, this whole, this whole adventure's been the fucking shit. Yeah, this was good. And there's been an amazing adventure like everything about it since. Yeah, I'm glad I assume that was the climax, though. Cause— Oh, yeah, yeah, I do. Kinda wanna try and go to bed in 50. Yeah, now, you just need to figure out what magic items you wanna make. So, a, a—as, as now, the the elemental has calmed. Kenzo is still gonna continue to sit and commune with it and and try to try to as it relaxes."
+        ],
+        "after": [
+          "Seeker: Oh, Seeker's gonna bravely poke his head back in the door. Was there like some kind of glowing, fiery rune ring around the anvil? What's going on?",
+          "DM: Not runes. It's just colors in the stone.",
+          "Seeker: The—",
+          "DM: And it's not just fire. It's there's like blues and greens and browns as well.",
+          "Kenzo: Somehow connected to this creature, because—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "Freedom, residual power and Faldrak’s plans",
+      "entities": [
+        {
+          "id": "e038",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e039",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e033",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2179",
+        "endUid": "u2234"
+      },
+      "lines": [
+        "%% u2179:0-49 %%",
+        "Seeker: Well. You might need to meet our new friend here.",
+        "",
+        "%% u2180:0-383 %%",
+        "Kenzo: Tim, before before we do any magic iteming—I mean, again— I am not going to try to ask it to like, do the enslaved thing. Everybody else has been enslaving it to do so. I really wait to more—see more if it's like an offering if it's like, “Oh, like, I'm willing to do it,” as opposed— I don't want to at this point be like, Hey, you're free. but before you go”—thing that like you know.",
+        "",
+        "%% u2181:0-7 %%",
+        "((Brief interjections))",
+        "",
+        "%% u2182:0-34, u2183:0-107, u2184:0-126 %%",
+        "DM: So here's here's the sense you get like, I mean, this is a this is like a very alien mind, right? This is not, you know, something that you're—as you're sort of communing with it, it's a struggle, right? It's not. It's not like with Hralgar or some of the other people.",
+        "",
+        "%% u2185:0-65, u2186:0-11 %%",
+        "DM: But as you, as you continue like, you can feel it trying to like shake these—",
+        "",
+        "%% u2187:0-3 %%",
+        "((Brief interjections))",
+        "",
+        "%% u2188:0-92, u2189:0-67 %%",
+        "DM: Almost like almost like, you know, break off these alien bits of itself, and it just kind of—it almost feels like it's just kind of shoving them into the anvil.",
+        "",
+        "%% u2190:0-4 %%",
+        "Kenzo: Hmm!",
+        "",
+        "%% u2191:0-151 %%",
+        "DM: And like, maybe there's a little bit of energy that stored up as it pushes these things out that you could use. And you don't. You don't get the sense—",
+        "",
+        "%% u2192:0-52, u2193:0-24, u2194:0-63, u2195:0-55 %%",
+        "DM: You don't get the sense that it had any problem with—being bound in one place was the thing it didn't want. Like making items, whatever, right? It almost powers the anvil without thinking about that.",
+        "",
+        "%% u2196:0-15 %%",
+        "Kenzo: Got it, got it.",
+        "",
+        "%% u2196:15-163, u2197:0-15 %%",
+        "DM: Wasn't the the feeling you get from communing with it. Wasn't that none of the like bad images that flash in your mind are about making magic items. It's all these—",
+        "",
+        "%% u2198:0-11 %%",
+        "Kenzo: Yeah yeah.",
+        "",
+        "%% u2198:11-33 %%",
+        "DM: Wires burning into it.",
+        "",
+        "%% u2198:33-104, u2199:0-118 %%",
+        "Kenzo: Yeah, alright perfect. So I I'm gonna get closer to it and continue to help it in its process of shedding this, which again, presumably it's shedding this energy. It's going into the forge?",
+        "",
+        "%% u2200:0-107 %%",
+        "Kenzo: As I get closer, you know again. Is it still? Is it? Is there any corporeal form to it, or is it just kinda—",
+        "",
+        "%% u2201:0-131, u2202:0-31, u2203:0-22, u2204:0-56 %%",
+        "DM: There, there is—you now—yes, you you are beginning to see now, as it's calmed down, that there is a it's not exactly a human form. It is, it is, it is almost like—like a whirlwind, with not with sort of arms and legs, but with the face of the—",
+        "",
+        "%% u2205:0-142, u2206:0-151 %%",
+        "DM: Of the octopus creature was is like a face, and it has—it just has swirling. There's like swirling wind in the center of this can sort of form appendages from this wind as it needs to. And it's like you can see, it's as it's trying to shed this sort of smoky, fiery tentacles, it's just kind of—",
+        "",
+        "%% u2207:0-41 %%",
+        "DM: Randomly forming shapes out of this wind.",
+        "",
+        "%% u2207:41-282, u2208:0-111, u2209:0-86 %%",
+        "Kenzo: So I'm gonna get close to it and kind of present myself, holding both my staff and like an open hand like this, and I'll see if—again, I'm just this is slowly over time. But I'm gonna present myself to it. And basically I'm just gonna kinda you know, get close enough to it that it it could if it wanted to like either touch my hand or touch the staff, and I'm just gonna just chill, but presenting myself to it openly, as a like, you know—",
+        "",
+        "%% u2210:0-84 %%",
+        "DM: It. It takes some time as Kenzo does this, and the rest of you walk in on the scene.",
+        "",
+        "%% u2211:0-3 %%",
+        "((Brief interjections))",
+        "",
+        "%% u2212:0-146, u2213:0-35, u2214:0-95 %%",
+        "DM: Like. It's immediately apparent to to Seeker and to to Delwath as you walk in, being, you know, arcane casters, that the forge in the center is just pulsating with this magical energy. And Faldrak like looks super confused by the whole scene, but turns to Seeker. “Do you see that?”",
+        "",
+        "%% u2215:0-29 %%",
+        "Seeker: Yeah. Well, what do you mean?",
+        "",
+        "%% u2216:0-28 %%",
+        "DM: That's it. That's the power.",
+        "",
+        "%% u2217:0-3, u2218:0-27 %%",
+        "Seeker: Oh. So you can make stuff now?",
+        "",
+        "%% u2219:0-30 %%",
+        "DM: Yeah, like, I need a few days.",
+        "",
+        "%% u2220:0-19 %%",
+        "Seeker: Few days to do what?",
+        "",
+        "%% u2221:0-16, u2222:0-32 %%",
+        "DM: My bird can fly. I just need the Phoenix feather.",
+        "",
+        "%% u2222:32-102 %%",
+        "Seeker: But before we do that we have some other things to do. And also this.",
+        "",
+        "%% u2223:0-102, u2224:0-6, u2225:0-36, u2226:0-37 %%",
+        "Seeker: This creature here, the elemental creature, we've just freed it from its bonds. It was chained to this anvil. So we don't have—okay, look around. It doesn't have to stick around. Just—",
+        "",
+        "%% u2227:0-123 %%",
+        "DM: Just ask it to like give the anvil a push. Goodbye. I can get 3, maybe 4 magic items out of one good kick from that thing.",
+        "",
+        "%% u2227:123-155 %%",
+        "Seeker: Oh, it doesn't have to stay here?",
+        "",
+        "%% u2227:155-272 %%",
+        "DM: Now, It's charging up the anvil, charged it as it's liberating itself and charging the anvil so we can send it home.",
+        "",
+        "%% u2228:0-54 %%",
+        "Kenzo: I think it just wants to go home. Yeah, it's, it's, it's—",
+        "",
+        "%% u2229:0-180 %%",
+        "Kenzo: Tim. I'm presenting itself—myself to it also with the idea that if it chooses to, you know, give me some ki, it can like tattoo my palm. It can also like leave a mark on my staff.",
+        "",
+        "%% u2229:180-271, u2230:0-60 %%",
+        "DM: Elemental planes are not, I mean, ki is very much a like, you know, plane of souls, kind of proper planes phenomenon. This is like raw, magical energy.",
+        "",
+        "%% u2231:0-70 %%",
+        "Kenzo: So there's like the economy. Yeah. But but I mean Hralgar Hralgar was—",
+        "",
+        "%% u2231:70-114, u2232:0-44 %%",
+        "DM: No, that was like a like, no, giants aren't—giants are consciousness very different than—",
+        "",
+        "%% u2233:0-75 %%",
+        "Kenzo: But if I'm able to calm it, it still has like a consciousness; it has like a—",
+        "",
+        "%% u2233:75-158, u2234:0-4 %%",
+        "DM: It may not give you ki, but that doesn't mean it's not gonna do something. Right on. Foul—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Oh, I'm staying here. Yeah, Kenzo's Kenzo's Kenzo.",
+          "Delwath: We can go, I mean. And I, if it's willing. Obviously, if we could use the forge a few times as it goes, right? You know.",
+          "Delwath: But yeah, I'll go. I'll go do the Ghostly Eye thing. I'll give him a little bit of a hard time. I'll get the number wrong for that one. Kidding.",
+          "DM: Existence—duet, duet, duet. Oh, sorry! Go ahead.",
+          "DM: Frankar, as he—or not Frankar, Faldrak, as he lets you in, “Have few ideas. Are you ready?”"
+        ],
+        "after": [
+          "DM: As you watch—you all kind of watch over the next half hour as like this form sort of disintegrates, and what's left is what looks almost like a like a anthropomorphic tornado, with like a face that's kind of shifting, shifting, and shaping out of this whirlwind, and there's like little flashes of lightning.",
+          "DM: And it reaches out. And it it just kind of forms this like hand of this like flashing lightning, and then it grasps Kenzo's hand. And you take 12 points of lightning damage.",
+          "DM: And there's your mind, is just it like this lightning like shoots through your mind, and it's filled with these images that you can't explain. Lovely.",
+          "DM: You see a like impossible spiral ladder—staircase of clouds stretching up to infinity, and like what look like to you like things behaving like children running on this. But they're made of air. They're just like slightly condensed into the air, and they're picking up bits of cloud and throwing at each other like a snowball fight as they race up and down this cloud staircase, sometimes jumping off and tumbling into the sky, wrapped around a ball of cloud, but then shoot out at somebody flying, dancing on the wind.",
+          "DM: And then a flash of palace is how you might describe it, but formed of sparks of lightning just like continual flashes of lightning, forming into like a a big open hall, with this large archway and 4 spiraling pillars that shoot up to the sky."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "Kenzo receives Sh’shethis’s memories",
+      "entities": [
+        {
+          "id": "e038",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e040",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e041",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2235",
+        "endUid": "u2319"
+      },
+      "lines": [
+        "%% u2235:0-116, u2236:0-27, u2237:0-6, u2238:0-157 %%",
+        "DM: As you watch—you all kind of watch over the next half hour as like this form sort of disintegrates, and what's left is what looks almost like a like a anthropomorphic tornado, with like a face that's kind of shifting, shifting, and shaping out of this whirlwind, and there's like little flashes of lightning.",
+        "",
+        "%% u2239:0-19, u2240:0-22, u2241:0-42, u2242:0-56, u2243:0-30 %%",
+        "DM: And it reaches out. And it it just kind of forms this like hand of this like flashing lightning, and then it grasps Kenzo's hand. ((Lightning damage))",
+        "",
+        "%% u2244:0-100, u2245:0-41, u2246:0-7 %%",
+        "DM: And there's your mind, is just it like this lightning like shoots through your mind, and it's filled with these images that you can't explain. Lovely.",
+        "",
+        "%% u2247:0-9, u2248:0-85, u2249:0-26, u2250:0-46, u2251:0-139, u2252:0-158, u2253:0-50 %%",
+        "DM: You see a like impossible spiral ladder—staircase of clouds stretching up to infinity, and like what look like to you like things behaving like children running on this. But they're made of air. They're just like slightly condensed into the air, and they're picking up bits of cloud and throwing at each other like a snowball fight as they race up and down this cloud staircase, sometimes jumping off and tumbling into the sky, wrapped around a ball of cloud, but then shoot out at somebody flying, dancing on the wind.",
+        "",
+        "%% u2254:0-19, u2255:0-6, u2256:0-64, u2257:0-9, u2258:0-142 %%",
+        "DM: And then a flash of palace is how you might describe it, but formed of sparks of lightning just like continual flashes of lightning, forming into like a a big open hall, with this large archway and 4 spiraling pillars that shoot up to the sky.",
+        "",
+        "%% u2259:0-21, u2260:0-106, u2261:0-42, u2262:0-8, u2263:0-52, u2264:0-29, u2265:0-9 %%",
+        "DM: And a creature—an air being of some kind, phasing in and out of solidness and and cloud as it sits, and it seems to be studying. It's like there's words that are appearing flashing in colored light in this lightning display, and it's studying and paying attention, watching.",
+        "",
+        "%% u2266:0-45, u2267:0-116, u2268:0-44, u2269:0-115, u2270:0-118, u2271:0-27 %%",
+        "DM: And then you see what looks like some sort of council or political gathering. There's about 50 or 60 of these creatures floating in the air, a giant hemisphere of what looks like wind. But it's somehow solid and there's arguing, and there's discussion, and there's debate, and there's camaraderie, too, and it seems this is—well, it's hard to know what it is exactly. I mean, you've never seen—this is a society of these creatures. This is a a city of sorts, you guess.",
+        "",
+        "%% u2272:0-112, u2273:0-118, u2274:0-13 %%",
+        "DM: And as you watch these scenes, this is not, I mean, you've seen books, you've seen tales of djinn. This is not a djinn. This is some other kind of creature. But of course there must be more than one kind of thing that lives on them plane of air.",
+        "",
+        "%% u2275:0-48, u2276:0-4, u2277:0-108, u2278:0-23, u2279:0-28, u2280:0-43, u2281:0-15 %%",
+        "DM: And then another scene. You see what looks like—it's traveling through this dark, misty land. There's like flares of smoke that are shooting into the sky, flying. It's with 3 companions. It almost makes you think of an adventuring party. It's like setting out on its travels.",
+        "",
+        "%% u2282:0-47, u2283:0-14, u2284:0-13, u2285:0-63, u2286:0-19, u2287:0-38, u2288:0-70 %%",
+        "DM: And then the last scene you see it, and these 3 friends of its standing on a shard of solid ground floating in the sky. And they're fighting against four humans that are flying. One of them takes out scroll, takes out a wand, begins to speak. And his voice takes on this—",
+        "",
+        "%% u2289:0-122, u2290:0-53, u2291:0-19 %%",
+        "DM: Impossible tone as his words reshape reality, and you hear him say, in Drankorian, “I wish to bind you in my power forever.” And silver wires appear around this creature's wrists, and the images end.",
+        "",
+        "%% u2292:0-56, u2293:0-35 %%",
+        "Delwath: Was any of those 4 the same woman we saw in the original—the first person, the the hologram?",
+        "",
+        "%% u2294:0-21 %%",
+        "DM: Oh, the hologram. No.",
+        "",
+        "%% u2295:0-83 %%",
+        "Seeker: We do. We don't recognize. And do I recognize, do we recognize any of the 4 humans?",
+        "",
+        "%% u2295:83-295, u2296:0-28 %%",
+        "DM: You don't recognize any of the 4 humans cause—it's this is from hundreds of years ago. This, this is like hundreds of years before. It was. This was when I was first trapped, right like hundreds of years before Drusilia, Drankor took over.",
+        "",
+        "%% u2297:0-14, u2298:0-41 %%",
+        "Kenzo: All yeah, Tim. Number one definitely, Kenzo is going to.",
+        "",
+        "%% u2299:0-113, u2300:0-67, u2301:0-11, u2302:0-7, u2303:0-68, u2304:0-14 %%",
+        "Kenzo: I inscribe this story onto the airship. That's the new place that he's drawing all the different Bhishma stories. And yeah, Kenzo will will will thank it gratefully for for sharing and wish it—wish it well as, and wish it well as it creates new memories and new stories going forward.",
+        "",
+        "%% u2305:0-103 %%",
+        "Seeker: Wait! It was studying some written language. There must be a way to communicate in more detail with it.",
+        "",
+        "%% u2306:0-88, u2307:0-96 %%",
+        "Kenzo: Wasn't it? Yeah. Well, actually, Tim, I'll I'll ask it. I'll ask it if, like, basically, you know, can we? Can we speak again? Is there a way to, you know, stay in touch? Type of thing.",
+        "",
+        "%% u2308:0-37 %%",
+        "Seeker: What was its written language to use?",
+        "",
+        "%% u2309:0-224 %%",
+        "Kenzo: I mean, only Kenzo saw these visions, right? Only yeah, I mean, but I'm assuming, too. I don't know if this is this is possible. But like when we're all like in telepathic by connection, can I share my visions with everybody?",
+        "",
+        "%% u2310:0-41, u2311:0-32, u2312:0-49 %%",
+        "DM: I mean, you can share them. But it's not— You're just relaying the images. But it's not like they're actually in the vision.",
+        "",
+        "%% u2313:0-6 %%",
+        "Kenzo: Right?",
+        "",
+        "%% u2314:0-177, u2315:0-29 %%",
+        "((Discussion of combining party abilities))",
+        "",
+        "%% u2316:0-26, u2317:0-8, u2318:0-67, u2319:0-54 %%",
+        "Kenzo: But yeah, I, you know, again, send it—send it warmth on and on its journey, and and then also, you know, ask it if there's there's a way to communicate still.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Elemental planes are not, I mean, ki is very much a like, you know, plane of souls, kind of proper planes phenomenon. This is like raw, magical energy.",
+          "Kenzo: So there's like the economy. Yeah. But but I mean Hralgar Hralgar was—",
+          "DM: No, that was like a like, no, giants aren't—giants are consciousness very different than—",
+          "Kenzo: But if I'm able to calm it, it still has like a consciousness; it has like a—",
+          "DM: It may not give you ki, but that doesn't mean it's not gonna do something. Right on. Foul—"
+        ],
+        "after": [
+          "DM: As it begins to fade away, it does 2 things. One is it just like in anger or frustration or resentment, it smashes the anvil as hard as it can. There's this enormous burst of magical energy. And then—",
+          "DM: It sort of whispers to you. There's this hum! Was this pitch resonating?",
+          "DM: Wellby, you recognize it's the exact same resonance of one of the 2 tuning forks in the workshop.",
+          "Seeker: Hello!",
+          "DM: And it says “Sh’shethis.”"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "Sh’shethis’s farewell and the air tuning fork",
+      "entities": [
+        {
+          "id": "e038",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e039",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2320",
+        "endUid": "u2354"
+      },
+      "lines": [
+        "%% u2320:0-54, u2321:0-36, u2322:0-14, u2323:0-67, u2324:0-24 %%",
+        "DM: As it begins to fade away, it does 2 things. One is it just like in anger or frustration or resentment, it smashes the anvil as hard as it can. There's this enormous burst of magical energy. And then—",
+        "",
+        "%% u2325:0-27, u2326:0-17, u2327:0-26 %%",
+        "DM: It sort of whispers to you. There's this hum! Was this pitch resonating?",
+        "",
+        "%% u2328:0-79, u2329:0-16 %%",
+        "DM: Wellby, you recognize it's the exact same resonance of one of the 2 tuning forks in the workshop.",
+        "",
+        "%% u2330:0-6 %%",
+        "((Brief interjections))",
+        "",
+        "%% u2331:0-12, u2332:0-10 %%",
+        "DM: And it says “Sh’shethis.”",
+        "",
+        "%% u2333:0-9 %%",
+        "Kenzo: Says what?",
+        "",
+        "%% u2334:0-9 %%",
+        "DM: Its name.",
+        "",
+        "%% u2335:0-8 %%",
+        "((Brief interjections))",
+        "",
+        "%% u2336:0-7, u2337:0-30, u2338:0-45 %%",
+        "Delwath: So when when we go to the plane of air we can probably find it with the tuning fork.",
+        "",
+        "%% u2339:0-16 %%",
+        "Kenzo: Totally totally.",
+        "",
+        "%% u2340:0-13, u2341:0-10 %%",
+        "DM: That is, just Sh’shethis.",
+        "",
+        "%% u2342:0-21 %%",
+        "((Brief interjections))",
+        "",
+        "%% u2343:0-99, u2344:0-60 %%",
+        "DM: You need a tuning fork in order to cast Plane Shift and teleport to a plane. You need a tuning fork that resonates with that particular plane's frequency, right?",
+        "",
+        "%% u2345:0-10 %%",
+        "Seeker: Naturally.",
+        "",
+        "%% u2346:0-47 %%",
+        "Delwath: Naturally. But that's plane of air tuning fork.",
+        "",
+        "%% u2347:0-25 %%",
+        "Kenzo: Wow! There's another one.",
+        "",
+        "%% u2348:0-36 %%",
+        "Delwath: The second one, which could be fire.",
+        "",
+        "%% u2349:0-36 %%",
+        "Seeker: But we don't know but we don't know.",
+        "",
+        "%% u2350:0-29 %%",
+        "Kenzo: And we have a tour guide now.",
+        "",
+        "%% u2351:0-57 %%",
+        "Delwath: And and did his smashing of the thing power up the anvil?",
+        "",
+        "%% u2352:0-9 %%",
+        "DM: Obviously.",
+        "",
+        "%% u2353:0-8 %%",
+        "Seeker: Amazing.",
+        "",
+        "%% u2354:0-4 %%",
+        "Kenzo: Wow!",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: I mean, you can share them. But it's not— You're just relaying the images. But it's not like they're actually in the vision.",
+          "Kenzo: Right?",
+          "Delwath: Just the prompt. We need to all combine our powers more effectively. It's so annoying. It's like we need lip reading, plus the different languages plus the vision seeing and the—",
+          "Kenzo: We can also understand. Shit.",
+          "Kenzo: But yeah, I, you know, again, send it—send it warmth on and on its journey, and and then also, you know, ask it if there's there's a way to communicate still."
+        ],
+        "after": [
+          "Delwath: That was really cool. Can we figure out magic items and stuff by text tonight, by text or something?",
+          "DM: As, as you—",
+          "DM: Say goodbye to Sh’shethis and Faldrak begins to, you know, pitch his ideas and get to work. You discuss with him what you want, and over the next 3 days he makes his magic bird. He tinkers with Seeker's glove, and he does the one to 2 other items that we will retcon in the future.",
+          "DM: As you with— And now with the with the creature gone, like—there's no more element— You don't sense any more elemental oddness here at all. Like Kenzo, your Commune with Nature is like nothing. The 3 boulders vanish. They were, in fact, Earth elementals that if you had gone down the corridor would have emerged and attacked you. Of course.",
+          "Seeker: Being very close."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "Three days of crafting",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e042",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e038",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2357",
+        "endUid": "u2361"
+      },
+      "lines": [
+        "%% u2357:0-25, u2358:0-119, u2359:0-6, u2360:0-63, u2361:0-63 %%",
+        "DM: Say goodbye to Sh’shethis and Faldrak begins to, you know, pitch his ideas and get to work. You discuss with him what you want, and over the next 3 days he makes his magic bird. He tinkers with Seeker's glove, and he does the one to 2 other items that we will retcon in the future.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Obviously.",
+          "Seeker: Amazing.",
+          "Kenzo: Wow!",
+          "Delwath: That was really cool. Can we figure out magic items and stuff by text tonight, by text or something?",
+          "DM: As, as you—"
+        ],
+        "after": [
+          "DM: As you with— And now with the with the creature gone, like—there's no more element— You don't sense any more elemental oddness here at all. Like Kenzo, your Commune with Nature is like nothing. The 3 boulders vanish. They were, in fact, Earth elementals that if you had gone down the corridor would have emerged and attacked you. Of course.",
+          "Seeker: Being very close.",
+          "DM: And you you manage to make your like—figure out this corridor. This crack actually leads back to those corridors that Wellby was exploring and didn't go that. Hmm!",
+          "Seeker: And—",
+          "DM: And you make your way sailing downriver emerging from last time from last time."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i021",
+      "title": "Faldrak repairs the charred Ladder",
+      "entities": [
+        {
+          "id": "e037",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2377",
+        "endUid": "u2381"
+      },
+      "lines": [
+        "%% u2377:0-90 %%",
+        "((Session closing remarks))",
+        "",
+        "%% u2377:90-142 %%",
+        "Kenzo: The ladder is charred. But okay, ladder is charred.",
+        "",
+        "%% u2378:0-58 %%",
+        "DM: Faldrak spends some time casting mending spells to fix it.",
+        "",
+        "%% u2379:0-5, u2380:0-104 %%",
+        "Seeker: Good. It's got a scar, though. It's gotta be like a burn scar down one shoulder. That's what I'm talking about.",
+        "",
+        "%% u2381:0-9 %%",
+        "Kenzo: Awesome.",
+        "",
+        "%% u2381:9-27 %%",
+        "((Brief interjections))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And you make your way sailing downriver emerging from last time from last time.",
+          "Delwath: Yeah.",
+          "DM: Make your way—sail, cause getting up the waterfall—going upriver is, gonna be difficult to rebuild. You— Sail downriver. Emerge out from the cavern. And just about exactly 4 days after you left your airship, return to it on a sunny, chilly morning, with several new exciting magic items to be determined to power up your airship.",
+          "Unknown: And—",
+          "DM: Set off for the less than a day's journey to Orenlas."
+        ],
+        "after": [
+          "Kenzo: Yeah, guys. Tha—that was that was amazing, Tim, that was like so many cool things. Yeah, that was cool."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

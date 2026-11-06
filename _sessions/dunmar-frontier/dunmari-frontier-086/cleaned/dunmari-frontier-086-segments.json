@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-086",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-086/cleaned/dunmari-frontier-086-session.yaml",
+    "sessionYamlSha256": "123f84619dc116cadf26ba5f473ff028cd05a475e1a9112b08b37b95ce335ec5",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-086/cleaned/dunmari-frontier-086-transcript.md",
+    "transcriptSha256": "137dbd02088717b3348d341b3d1b230651072ce33ec6d692c06d664d576de123"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0003"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u0012"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0013",
+        "endUid": "u1547"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1548",
+        "endUid": "u2055"
+      },
+      "category": "combat",
+      "note": "The shared u1548 group includes the preceding brief comment and the elemental eruption with initiative; the encounter ends after banishment is sustained."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u2056",
+        "endUid": "u2070"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2071",
+        "endUid": "u2381"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2382",
+        "endUid": "u2382"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
