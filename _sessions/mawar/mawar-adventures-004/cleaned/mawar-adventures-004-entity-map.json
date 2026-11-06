@@ -45,8 +45,24 @@
           "source": {
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-            "startUid": "u3017",
-            "endUid": "u3108"
+            "startUid": "u3027",
+            "endUid": "u3034"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3086",
+            "endUid": "u3106"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3133",
+            "endUid": "u3146"
           }
         }
       ],
@@ -77,6 +93,14 @@
           "source": {
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0243",
+            "endUid": "u0263"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
             "startUid": "u0272",
             "endUid": "u0293"
           }
@@ -98,7 +122,7 @@
           "source": {
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-            "startUid": "u0494",
+            "startUid": "u0519",
             "endUid": "u0524"
           }
         },
@@ -106,8 +130,24 @@
           "source": {
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-            "startUid": "u0546",
-            "endUid": "u0703"
+            "startUid": "u0550",
+            "endUid": "u0582"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0626",
+            "endUid": "u0648"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0652",
+            "endUid": "u0673"
           }
         }
       ],
@@ -227,10 +267,9 @@
         }
       ],
       "review": {
-        "confidence": "medium",
+        "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "confidenceExplanation": "A distinct speaking guardian is clear, but its unnamed master and precise nature remain unresolved; no individual vault match was found."
+      }
     },
     {
       "id": "e007",
@@ -272,10 +311,9 @@
         }
       ],
       "review": {
-        "confidence": "medium",
+        "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "confidenceExplanation": "The controller is distinct from the earlier warrior; no named identity or individual vault match is established by the session."
+      }
     },
     {
       "id": "e008",
@@ -409,7 +447,7 @@
         "status": "automatedReviewed"
       },
       "note": "People/Other Humans/Khathayi.md",
-      "confidenceExplanation": "The named ancient being matches the vault, but the source knows only vague godlike fire-and-earth legends and does not establish divinity or species."
+      "confidenceExplanation": "The ancient being’s identity is clear, but the fire-and-earth legends leave its classification as NPC rather than divine tentative."
     },
     {
       "id": "e014",
@@ -628,12 +666,11 @@
         }
       ],
       "review": {
-        "confidence": "medium",
+        "confidence": "high",
         "status": "automatedReviewed"
       },
       "identifiedLater": true,
-      "note": "Groups/Chardonian Organizations/Chardonian Legion.md",
-      "confidenceExplanation": "Ander’s established biography resolves his unnamed army to the Chardonian Legion; the transcript itself does not name the organization."
+      "note": "Groups/Chardonian Organizations/Chardonian Legion.md"
     }
   ],
   "exclusions": [
@@ -747,16 +784,16 @@
           "source": {
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-            "startUid": "u1565",
-            "endUid": "u1577"
+            "startUid": "u1578",
+            "endUid": "u1582"
           }
         },
         {
           "source": {
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-            "startUid": "u1994",
-            "endUid": "u2025"
+            "startUid": "u2039",
+            "endUid": "u2040"
           }
         }
       ]
@@ -785,7 +822,7 @@
     },
     {
       "label": "Yerkir-Khor",
-      "reason": "A place label on the treasure map, not an NPC, divine being, item or organization.",
+      "reason": "Here the name identifies a map monument, without substantive discussion of its namesake; no being is independently described in this session.",
       "occurrences": [
         {
           "source": {
@@ -829,6 +866,28 @@
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
             "startUid": "u0940",
             "endUid": "u1028"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Wazir, Trok and Kaleho",
+      "reason": "YAML identifies these as this campaign’s PCs; absent-PC references do not turn them into NPCs in this session’s inventory.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0315",
+            "endUid": "u0320"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0421",
+            "endUid": "u0431"
           }
         }
       ]

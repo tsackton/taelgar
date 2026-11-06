@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-session.yaml",
+  "source": {
+    "path": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-time-markers.json",
+    "sha256": "9910f8bbc7bb98b47deaf498332fea10e013197779fb444370bd8dc0c5582784"
+  },
+  "transcript": {
+    "path": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-transcript.md",
+    "sha256": "4d6c2412f3ecfbeeeb7ce93bf6be2a79c32ba4731de436a2dcfdbb589eac7df9"
+  },
+  "dateAssessment": "Relative days follow the transcript: two completed overnight transitions separate the reunion, sailing day, and rescue dawn. November is spoken; year and exact days come only from YAML. The recorded November 8–9 span conflicts with the narrated transitions, as does the episode timeline’s same-day reunion and sailing. Conditional on a November 8 reunion, sailing is November 9 and the rescue dawn is November 10. The final return to Hamri has no stated duration or clock.",
+  "watches": [
+    {
+      "day": "Day 1",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "The reunion is explicitly late morning, approximately the midday watch.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "Day 2",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "After preparations and town errands, departure is early the next morning.",
+      "markers": [
+        "t02"
+      ]
+    },
+    {
+      "day": "Day 2",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Five–six hours sailing after early departure places the marsh approach around midday.",
+      "markers": [
+        "t03"
+      ]
+    },
+    {
+      "day": "Day 2",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "About three hours since Blu left near Eskorola’s approach; the brief wait for Itzal is included.",
+      "markers": [
+        "t04",
+        "t05"
+      ]
+    },
+    {
+      "day": "Day 2",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Blu returns as the sun sinks; a subsequent time check confirms sunset.",
+      "markers": [
+        "t06"
+      ]
+    },
+    {
+      "day": "Day 3",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Overnight lodging ends with waking at break of dawn before departure.",
+      "markers": [
+        "t07"
+      ]
+    },
+    {
+      "day": "Day 3",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Dawn departure plus about two hours paddling and one spell-hour; the final approach is nested.",
+      "markers": [
+        "t08",
+        "t09",
+        "t10"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Episode note",
+      "path": "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 04.md",
+      "sha256": "b1829320d44ede1ea84be61c73c059cee4a5cb9533c42f1d11b6c5ac12ee7bbb"
+    },
+    {
+      "label": "Amulet reference",
+      "path": "Campaigns/Mawar Adventures/Items and Treasure/Amulet of Khathayi.md",
+      "sha256": "666ddcd6980bf8ef7d850b53e172fa53059ce23c0c1b573ba202fe87c2ba3ed4"
+    }
+  ]
+}

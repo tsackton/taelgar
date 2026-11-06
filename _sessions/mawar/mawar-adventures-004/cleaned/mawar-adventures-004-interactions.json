@@ -8,7 +8,7 @@
     },
     "entityMap": {
       "path": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-entity-map.json",
-      "sha256": "7e9ff6bd601e8328de6513e46af19d9466117411898faa4f2ab7d68f058ee757"
+      "sha256": "9b42dbce5ff9817564bb367545019fae59ed733e3e92882b666b353fbfd833c2"
     }
   },
   "interactions": [
@@ -62,7 +62,7 @@
       "id": "i001"
     },
     {
-      "title": "Ander’s army service ends",
+      "title": "Ander’s return from army service",
       "entities": [
         {
           "id": "e019",
@@ -71,21 +71,27 @@
         }
       ],
       "source": {
-        "startUid": "u0150",
+        "startUid": "u0148",
         "endUid": "u0156"
       },
       "lines": [
+        "%% u0148:0-54 %%",
+        "Ander: Yeah, inland fighting orcs on the northern border. Orcs.",
+        "",
+        "%% u0149:0-8 %%",
+        "Unknown: Goblins—",
+        "",
         "%% u0150:0-18, u0151:0-15, u0152:0-90, u0153:0-20, u0154:0-132, u0155:0-91, u0156:0-124 %%",
         "Ander: Trolls, hobgoblins. Yes, yeah it's— couple of months ago now, big big big battle. I'd never seen anything quite like it before. We kick their asses. And he pauses sort of lost in thought drifting away into that memory for a minute and shakes it off and takes a SIP of tea and says: After that I decided I'd had my fill. It had been 20 years they offered me another five but— figured it was time to come home at least see what's here figure out what the hell I'm going to do with the rest of my life.",
         ""
       ],
       "reviewContext": {
         "before": [
+          "Ryu: But what all happened to you, man? Like, where have you been? Like, you, like that sword—Jesus Christ! Figure out how to fight, or what it's—",
+          "Ander: It's a little ridiculous isn't it?",
           "Ryu: Yeah.",
           "Ander: You know they sent me when I—I spent the first five years angry and resentful and trying to scheme out a way to come back home again. Five years in I realized I got— really good and as much as I never had any clue what I was going to be doing when I was here beyond just finding the next crazy dare to get everyone into. There was finally some sense in my life. Within a few years after that I had men under my command and a few years after that was up in the frontier. I spent— I haven't set foot in the ocean in five years. I took off my boots yesterday and I waded in got up to my ankles. That's the deepest water I've been in a few years.",
-          "Ryu: You have got to be kidding me. You've been away from the ocean for five years?",
-          "Ander: Yeah, inland fighting orcs on the northern border. Orcs.",
-          "Unknown: Goblins—"
+          "Ryu: You have got to be kidding me. You've been away from the ocean for five years?"
         ],
         "after": [
           "Ryu: Wow. Holy shit. Ander is back. This is fucking crazy man. Hey you know, there's definitely a bunch of people I got introduced you to.",
@@ -178,7 +184,7 @@
         "DM: Well, I mean, comes for you.",
         "",
         "%% u0221:0-4, u0222:0-29, u0223:0-37, u0224:0-72, u0225:0-22, u0226:0-30, u0227:0-74, u0228:0-9 %%",
-        "((Map orientation and a separate reunion discussion))",
+        "((Map orientation))",
         "",
         "%% u0229:0-68, u0230:0-101 %%",
         "Ryu: Shit dude if it's already an Eskorola it's not far from here. I mean, Huh So where do you see—what do you propose you propose going up to Eskorola and see what's going on?",
@@ -292,7 +298,7 @@
         "DM: I don't know you'd have to ask her, she said, thanks in her polite way and paid me a coin and, you know, said come back if you have any other interesting tales.",
         "",
         "%% u0294:0-25, u0295:0-47, u0296:0-120, u0297:0-23, u0298:0-8, u0299:0-10, u0300:0-96, u0301:0-17, u0302:0-12, u0303:0-75, u0304:0-40, u0305:0-92, u0306:0-45, u0307:0-35, u0308:0-49, u0309:0-17, u0310:0-110, u0311:0-5, u0312:0-41 %%",
-        "((Map orientation and a separate reunion discussion))",
+        "((Separate reunion discussion))",
         "",
         "%% u0313:0-167 %%",
         "Ryu: We'll look, you know, it seems like we want to go hop on this opportunity or whatever the hell, this is. Again, just as Jaeson left by the way. That's him Jaeson is gone?",
@@ -381,17 +387,12 @@
         {
           "id": "e015",
           "role": "star",
-          "action": "interacted"
-        },
-        {
-          "id": "e005",
-          "role": "cameo",
-          "action": "present"
+          "action": "observed"
         }
       ],
       "source": {
         "startUid": "u0332",
-        "endUid": "u0344"
+        "endUid": "u0340"
       },
       "lines": [
         "%% u0332:0-41 %%",
@@ -414,12 +415,6 @@
         "",
         "%% u0340:0-11 %%",
         "Ander: Only to me.",
-        "",
-        "%% u0341:0-51, u0342:0-30, u0343:0-98 %%",
-        "Ryu: You have a talking sword and I have a talking bird. We shall see, only talks to me. All right, well, I mean, we'll see if my bird can talk to your sword. That'd be pretty fucking cool.",
-        "",
-        "%% u0344:0-22 %%",
-        "Ander: That would be amazing.",
         ""
       ],
       "reviewContext": {
@@ -431,11 +426,11 @@
           "Ryu: Yeah this is good, I think he likes you. Is going to be good. Off to a good start I'm."
         ],
         "after": [
+          "Ryu: You have a talking sword and I have a talking bird. We shall see, only talks to me. All right, well, I mean, we'll see if my bird can talk to your sword. That'd be pretty fucking cool.",
+          "Ander: That would be amazing.",
           "Ryu: Let's go see if Nerissa wants to come and join on this little caper. You ready?",
           "Ander: Let's do it—",
-          "Ryu: So you know, grab a few things hop down the tower and start like kind of trudging through the rain headed over to Nerissa's. Where Nerissa had been— the tower that she had bought.",
-          "DM: I mean, you've probably like talked occasionally in the you know, a couple weeks since the last adventure.",
-          "Ryu: Yep so Nerissa I you know, you there are these two two figures kind of like trudging through the the drizzly gray rain getting closer to your tower from the distance."
+          "Ryu: So you know, grab a few things hop down the tower and start like kind of trudging through the rain headed over to Nerissa's. Where Nerissa had been— the tower that she had bought."
         ]
       },
       "review": {
@@ -467,7 +462,7 @@
         "Ander: How far is it? My horses at the Leviathan.",
         "",
         "%% u0433:0-77 %%",
-        "Ryu: I think we're probably going to want to sail. It's about a day sail from here.",
+        "((Sailing plans))",
         "",
         "%% u0434:0-52, u0435:0-15 %%",
         "Ander: All right, we'll tell them to take care of Durandal while I'm gone.",
@@ -586,7 +581,7 @@
         "Ryu: I'll allow them to introduce themselves.",
         "",
         "%% u0528:0-19, u0529:0-11, u0530:0-132, u0531:0-24, u0532:0-87, u0533:0-47, u0534:0-23, u0535:0-12, u0536:0-41, u0537:0-30, u0538:0-6, u0539:0-44, u0540:0-33, u0541:0-42, u0542:0-3, u0543:0-25, u0544:0-65, u0545:0-21 %%",
-        "((Introductions, speculation and identification checks))",
+        "((Introductions))",
         "",
         "%% u0546:0-20 %%",
         "DM: What have you heard?",
@@ -637,7 +632,7 @@
         "DM: It was, and he— he likes sketches out a crude map here I'll just try it roughly here.",
         "",
         "%% u0590:0-35, u0591:0-77 %%",
-        "((Introductions, speculation and identification checks))",
+        "((Investigation planning))",
         "",
         "%% u0592:0-51, u0593:0-101 %%",
         "DM: Hey so the X is the village, the line is the coast. The circle is about where the steam is coming from, and then there's like this chain of islands here.",
@@ -676,7 +671,7 @@
         "Ander: No.",
         "",
         "%% u0609:0-40, u0610:0-5, u0611:0-53, u0612:0-25, u0613:0-40, u0614:0-31, u0615:0-9, u0616:0-42, u0617:0-13, u0618:0-9, u0619:0-58, u0620:0-42 %%",
-        "((Introductions, speculation and identification checks))",
+        "((Investigation planning))",
         "",
         "%% u0621:0-19 %%",
         "Ryu: Ryu looks at Itzal.",
@@ -721,7 +716,7 @@
         "DM: We could. We could try. It is, it is not always easy to reach those who have died of violent and traumatic death.",
         "",
         "%% u0642:0-6 %%",
-        "Unknown: There.",
+        "((Verbal fragment))",
         "",
         "%% u0643:0-26, u0644:0-25, u0645:0-11, u0646:0-9, u0647:0-53, u0648:0-42 %%",
         "DM: We could try this evening. Otherwise, my best guess—I know not. Snake or I would say, a crocodile but few live this far north. Is the water is too cold for many animals.",
@@ -754,7 +749,7 @@
         "DM: You know from fire and from scalding water both.",
         "",
         "%% u0674:0-161, u0675:0-36, u0676:0-20, u0677:0-4, u0678:0-7, u0679:0-5, u0680:0-111, u0681:0-3, u0682:0-31, u0683:0-15, u0684:0-9, u0685:0-3, u0686:0-24, u0687:0-37, u0688:0-53, u0689:0-54, u0690:0-125, u0691:0-8, u0692:0-38, u0693:0-165, u0694:0-43, u0695:0-13, u0696:0-9, u0697:0-57, u0698:0-8, u0699:0-5, u0700:0-5 %%",
-        "((Introductions, speculation and identification checks))",
+        "((Nature check and speculation))",
         "",
         "%% u0701:0-5, u0702:0-70, u0703:0-41 %%",
         "Ryu: Then yeah Itzal, thank you for your help. I think we can go with Amaya and have a look at where the attack occurred.",
@@ -977,147 +972,12 @@
       "id": "i011"
     },
     {
-      "title": "Blu scouts the tunnel and escapes",
-      "entities": [
-        {
-          "id": "e005",
-          "role": "star",
-          "action": "interacted"
-        }
-      ],
-      "source": {
-        "startUid": "u1112",
-        "endUid": "u1229"
-      },
-      "lines": [
-        "%% u1112:0-47 %%",
-        "Ryu: All right, I cast it. I'll see through his eyes.",
-        "",
-        "%% u1113:0-8, u1114:0-3, u1115:0-140, u1116:0-38, u1117:0-18, u1118:0-34, u1119:0-85, u1120:0-8, u1121:0-24 %%",
-        "DM: Okay um so diving into the you sort of dive down to the mists splash into the water and now are sort of swimming underneath the water, and you can see this channel goes straight ahead into—coming into up up coming out like into a sort of um deeper area and then there's like a wide tunnel, that seems to cut underneath a bank. Maybe a 20 foot diameter tunnel.",
-        "",
-        "%% u1122:0-50, u1123:0-148, u1124:0-8, u1125:0-37, u1126:0-10, u1127:0-17, u1128:0-14, u1129:0-17, u1130:0-53, u1131:0-34, u1132:0-84, u1133:0-45, u1134:0-30, u1135:0-15, u1136:0-58, u1137:0-68, u1138:0-18, u1139:0-11, u1140:0-6, u1141:0-12, u1142:0-3, u1143:0-60, u1144:0-25, u1145:0-89, u1146:0-8, u1147:0-54, u1148:0-47 %%",
-        "((Attack resolution, speculative tactics and rules))",
-        "",
-        "%% u1149:0-208 %%",
-        "DM: No that's what the with as Blu darts into the midst, and they lose them, the first voice said, \"Who, who's that? What's there?\" And then, and then one of the steam creatures that attacked Blu says, \"Some kind of spy.\"",
-        "",
-        "%% u1150:0-47 %%",
-        "Ryu: And the steam creature, what does it look like?",
-        "",
-        "%% u1151:0-106 %%",
-        "DM: It looks like a like a little IMP or something like a sort of small winged creature, but it made of steam.",
-        "",
-        "%% u1152:0-21, u1153:0-31, u1154:0-14, u1155:0-38, u1156:0-56, u1157:0-252, u1158:0-26 %%",
-        "Ryu: So, it's all pretty— You see, Ryu just kind of like he's canoeing but then also has like eyes have gone— they're now kind of like a shimmering a shimmering blue. As he's been canoeing and then kind of at a point he, like pauses the canoe as as you guys don't know this, but this is when this fight breaks out and he's like, \"Oh shit. Okay, Blu just got attacked. He made it out of there, but I think we're dealing with—\" You guys speak Primordial?",
-        "",
-        "%% u1159:0-3, u1160:0-23 %%",
-        "Ander: No, I struggle with common.",
-        "",
-        "%% u1161:0-30, u1162:0-31 %%",
-        "Ryu: You just struggle with common? It looks like a fire elemental.",
-        "",
-        "%% u1163:0-49 %%",
-        "Ryu: You guys ever have any experience fighting those?",
-        "",
-        "%% u1164:0-26 %%",
-        "Nerissa: Elementals in general, no.",
-        "",
-        "%% u1165:0-5 %%",
-        "Unknown: Well.",
-        "",
-        "%% u1166:0-14, u1167:0-35 %%",
-        "Ryu: Look friendly? How many imps were there again Tim?",
-        "",
-        "%% u1168:0-5 %%",
-        "Unknown: Four.",
-        "",
-        "%% u1169:0-141, u1170:0-71 %%",
-        "Ryu: All right, so it looks like there were four. I don't even know how to describe them, they were they were imps of some kind, made out of steam. One of them, took a slash at Blu and did a little damage. Anything else?",
-        "",
-        "%% u1171:0-25 %%",
-        "DM: There was just the voice.",
-        "",
-        "%% u1172:0-41, u1173:0-129, u1174:0-3, u1175:0-21 %%",
-        "Ryu: And so the imps could talk in primordial? There was one talking to another one or another some other being I don't know if it was the giant snake alligator dragon guy but. um there waiting for us.",
-        "",
-        "%% u1176:0-5, u1177:0-83, u1178:0-10, u1179:0-12, u1180:0-11, u1181:0-30, u1182:0-27, u1183:0-11, u1184:0-16, u1185:0-172, u1186:0-31, u1187:0-3, u1188:0-20 %%",
-        "((Attack resolution, speculative tactics and rules))",
-        "",
-        "%% u1189:0-96 %%",
-        "Ryu: You know if he's back in the water, now I send them back a little bit closer, but in underwater.",
-        "",
-        "%% u1190:0-5 %%",
-        "DM: Okay.",
-        "",
-        "%% u1191:0-29 %%",
-        "Ryu: Can he, like look up and see?",
-        "",
-        "%% u1192:0-87, u1193:0-27, u1194:0-48 %%",
-        "DM: Not clearly through the mists, the mists are densest right by the surface of the water. Couldn't even see what was talking even though was maybe only 20 feet away.",
-        "",
-        "%% u1195:0-6, u1196:0-32, u1197:0-126, u1198:0-28, u1199:0-34 %%",
-        "((Attack resolution, speculative tactics and rules))",
-        "",
-        "%% u1200:0-42, u1201:0-14, u1202:0-53, u1203:0-6 %%",
-        "Ryu: Is a so if, when Blu just so he's like if Turk swimming is he able to see like ahead of like what's going on under?",
-        "",
-        "%% u1204:0-157, u1205:0-22, u1206:0-28, u1207:0-71, u1208:0-10, u1209:0-92 %%",
-        "DM: Can see under the Water just I mean, it's murky because it's a salt marsh and there's tons of mud and debris and stuff in the water right like it's not clear. Right, open ocean, but there's like there's a pool that he swam to this pool. There's a tunnel that continues under a bank. Right and that's the pool that he emerged from and was attacked right like the entrance to the tunnel.",
-        "",
-        "%% u1210:0-73 %%",
-        "Ryu: Stays in the water, no nobody's attacking him, nobody seems to know some?",
-        "",
-        "%% u1211:0-46 %%",
-        "DM: Nobody seems to notice him at the moment, now.",
-        "",
-        "%% u1212:0-56 %%",
-        "Ryu: He gets a little closer to the tunnel to to investigate.",
-        "",
-        "%% u1213:0-8, u1214:0-8, u1215:0-21, u1216:0-18, u1217:0-83 %%",
-        "DM: Okay, um, it's, it descends slightly so there's the water. It's in the water, under the water and it descends down and it's filled with water.",
-        "",
-        "%% u1218:0-6, u1219:0-96, u1220:0-114, u1221:0-8, u1222:0-9, u1223:0-34, u1224:0-69, u1225:0-6, u1226:0-15 %%",
-        "((Attack resolution, speculative tactics and rules))",
-        "",
-        "%% u1227:0-55, u1228:0-26, u1229:0-24 %%",
-        "Ryu: My gosh, it's this beast, so I'm not going to send out—like I said Turk in there. I told him to come back.",
-        ""
-      ],
-      "reviewContext": {
-        "before": [
-          "DM: Um I mean, you don't know what Blu sees until he comes back to talk to you, and you can speak with animals.",
-          "Ryu: How long does the—how long does it last when I do the whole like, I can see the his eyes thing?",
-          "Unknown: An hour.",
-          "Ryu: And how long do I think, will you think it'll take for us to get to the?",
-          "DM: I mean, you could easily be there, within an hour. At this point you're only a mile mile and a half away."
-        ],
-        "after": [
-          "Unknown: Okay.",
-          "Ander: Well, maybe there's another way to get in.",
-          "Ryu: Good question.",
-          "Ander: If steam is rising from the top, I mean, is there a hole or something on top?",
-          "Nerissa: To the town, but we could go investigate."
-        ]
-      },
-      "review": {
-        "confidence": "high",
-        "status": "automatedReviewed"
-      },
-      "id": "i012"
-    },
-    {
       "title": "Blu becomes Turk",
       "entities": [
         {
           "id": "e005",
           "role": "star",
           "action": "interacted"
-        },
-        {
-          "id": "e015",
-          "role": "cameo",
-          "action": "mentioned"
         }
       ],
       "source": {
@@ -1134,20 +994,8 @@
         "%% u1244:0-83, u1245:0-260 %%",
         "Ryu: And then you see this figure kind of go, and it looks like a shark under the water. And then it like starts getting close to the surface and then as it's coming out from the surface, you can see that it is a shark and then you see it like change into the osprey, into Blu and then flies right out of the water and then lands on on his shoulder.",
         "",
-        "%% u1246:0-12 %%",
-        "Ander: Oh, can you.",
-        "",
-        "%% u1247:0-8, u1248:0-51 %%",
-        "Ryu: Do that? Just kidding. I know your sword can't do that right?",
-        "",
-        "%% u1249:0-18, u1250:0-63 %%",
-        "Ander: I think Durandal— He's not alarmed. All right, if he's not alarmed, I'm not alarmed.",
-        "",
-        "%% u1251:0-64 %%",
-        "Ryu: Can your sword change into another weapon? That'd be pretty cool.",
-        "",
-        "%% u1252:0-34, u1253:0-77 %%",
-        "Ander: I mean, he can change into an axe. In the sense that you can use him to chop things down but he's still a sword.",
+        "%% u1246:0-12, u1247:0-8, u1248:0-51, u1249:0-18, u1250:0-63, u1251:0-64, u1252:0-34, u1253:0-77 %%",
+        "((Sword banter))",
         "",
         "%% u1254:0-10, u1255:0-243 %%",
         "Ryu: Yeah yeah Blu actually changes into a totally different creature. He becomes Turk when he is in the water; he is a shark, different personality too, kind of a pain in the ass to be honest, but Blu, I mean, Blu is the most reasonable one, might be a bit—",
@@ -1201,17 +1049,20 @@
       ],
       "source": {
         "startUid": "u1565",
-        "endUid": "u2025"
+        "endUid": "u2035"
       },
       "lines": [
         "%% u1565:0-12, u1566:0-8, u1567:0-17, u1568:0-18, u1569:0-8, u1570:0-24, u1571:0-5, u1572:0-8, u1573:0-57, u1574:0-112 %%",
         "DM: And then um, lunging out of the mists through the water landing right next to the canoe is a, a human. But skin entirely sort of cracked with flame almost like likes scabs like almost like if there was blood oozing through crack scabby thick skin, except the blood is fire.",
         "",
-        "%% u1575:0-88, u1576:0-10, u1577:0-128 %%",
-        "DM: And, as he lands the water around them steams. It's about six feet deep up to maybe his mid chest. Slightly taller than a substantially taller than a normal human, right? this guy's probably seven ish seven and a half feet tall.",
+        "%% u1575:0-88, u1576:0-10, u1577:0-128, u1578:0-168, u1579:0-3, u1580:0-11, u1581:0-5, u1582:0-22, u1583:0-45, u1584:0-86, u1585:0-77, u1586:0-23, u1587:0-44, u1588:0-33, u1589:0-20, u1590:0-21, u1591:0-13, u1592:0-5, u1593:0-12, u1594:0-24, u1595:0-20, u1596:0-3, u1597:0-38, u1598:0-74, u1599:0-212, u1600:0-5, u1601:0-10, u1602:0-14, u1603:0-20, u1604:0-8, u1605:0-153, u1606:0-9, u1607:0-37, u1608:0-30, u1609:0-65, u1610:0-51, u1611:0-14, u1612:0-33, u1613:0-35, u1614:0-31, u1615:0-25, u1616:0-6, u1617:0-3, u1618:0-21, u1619:0-16, u1620:0-17, u1621:0-5, u1622:0-13, u1623:0-15, u1624:0-8, u1625:0-16, u1626:0-72, u1627:0-14, u1628:0-27, u1629:0-15, u1630:0-4, u1631:0-85, u1632:0-3, u1633:0-50, u1634:0-169, u1635:0-105, u1636:0-37, u1637:0-38, u1638:0-14, u1639:0-116, u1640:0-25, u1641:0-6, u1642:0-35, u1643:0-50, u1644:0-88, u1645:0-10, u1646:0-19, u1647:0-3, u1648:0-3, u1649:0-39, u1650:0-64, u1651:0-3, u1652:0-30, u1653:0-78, u1654:0-15, u1655:0-10, u1656:0-6, u1657:0-34, u1658:0-109, u1659:0-22, u1660:0-3, u1661:0-3, u1662:0-19, u1663:0-16, u1664:0-37, u1665:0-23, u1666:0-4, u1667:0-22, u1668:0-19, u1669:0-14, u1670:0-20, u1671:0-11, u1672:0-7, u1673:0-14, u1674:0-3, u1675:0-13, u1676:0-14, u1677:0-66, u1678:0-47, u1679:0-3, u1680:0-42, u1681:0-3, u1682:0-68, u1683:0-24, u1684:0-55, u1685:0-9, u1686:0-4, u1687:0-49, u1688:0-5, u1689:0-4, u1690:0-71, u1691:0-24, u1692:0-36, u1693:0-6, u1694:0-50, u1695:0-5, u1696:0-33, u1697:0-8, u1698:0-37, u1699:0-84, u1700:0-5, u1701:0-17, u1702:0-40, u1703:0-17, u1704:0-23, u1705:0-37, u1706:0-5, u1707:0-28, u1708:0-10, u1709:0-24, u1710:0-68, u1711:0-90, u1712:0-35, u1713:0-8, u1714:0-52, u1715:0-42, u1716:0-7, u1717:0-58, u1718:0-6, u1719:0-41, u1720:0-7, u1721:0-7, u1722:0-22, u1723:0-12, u1724:0-7, u1725:0-5, u1726:0-8, u1727:0-20, u1728:0-8, u1729:0-30, u1730:0-121, u1731:0-49, u1732:0-9, u1733:0-22, u1734:0-3, u1735:0-84, u1736:0-15, u1737:0-72, u1738:0-10, u1739:0-42, u1740:0-24, u1741:0-12, u1742:0-64, u1743:0-5, u1744:0-43, u1745:0-21, u1746:0-5, u1747:0-22, u1748:0-3, u1749:0-23, u1750:0-14, u1751:0-41, u1752:0-72, u1753:0-14, u1754:0-69, u1755:0-15, u1756:0-31, u1757:0-52, u1758:0-31, u1759:0-52, u1760:0-8, u1761:0-10, u1762:0-53, u1763:0-124, u1764:0-82 %%",
+        "((Intervening battle actions and mechanics))",
         "",
-        "%% u1578:0-168, u1579:0-3, u1580:0-11, u1581:0-5, u1582:0-22, u1583:0-45, u1584:0-86, u1585:0-77, u1586:0-23, u1587:0-44, u1588:0-33, u1589:0-20, u1590:0-21, u1591:0-13, u1592:0-5, u1593:0-12, u1594:0-24, u1595:0-20, u1596:0-3, u1597:0-38, u1598:0-74, u1599:0-212, u1600:0-5, u1601:0-10, u1602:0-14, u1603:0-20, u1604:0-8, u1605:0-153, u1606:0-9, u1607:0-37, u1608:0-30, u1609:0-65, u1610:0-51, u1611:0-14, u1612:0-33, u1613:0-35, u1614:0-31, u1615:0-25, u1616:0-6, u1617:0-3, u1618:0-21, u1619:0-16, u1620:0-17, u1621:0-5, u1622:0-13, u1623:0-15, u1624:0-8, u1625:0-16, u1626:0-72, u1627:0-14, u1628:0-27, u1629:0-15, u1630:0-4, u1631:0-85, u1632:0-3, u1633:0-50, u1634:0-169, u1635:0-105, u1636:0-37, u1637:0-38, u1638:0-14, u1639:0-116, u1640:0-25, u1641:0-6, u1642:0-35, u1643:0-50, u1644:0-88, u1645:0-10, u1646:0-19, u1647:0-3, u1648:0-3, u1649:0-39, u1650:0-64, u1651:0-3, u1652:0-30, u1653:0-78, u1654:0-15, u1655:0-10, u1656:0-6, u1657:0-34, u1658:0-109, u1659:0-22, u1660:0-3, u1661:0-3, u1662:0-19, u1663:0-16, u1664:0-37, u1665:0-23, u1666:0-4, u1667:0-22, u1668:0-19, u1669:0-14, u1670:0-20, u1671:0-11, u1672:0-7, u1673:0-14, u1674:0-3, u1675:0-13, u1676:0-14, u1677:0-66, u1678:0-47, u1679:0-3, u1680:0-42, u1681:0-3, u1682:0-68, u1683:0-24, u1684:0-55, u1685:0-9, u1686:0-4, u1687:0-49, u1688:0-5, u1689:0-4, u1690:0-71, u1691:0-24, u1692:0-36, u1693:0-6, u1694:0-50, u1695:0-5, u1696:0-33, u1697:0-8, u1698:0-37, u1699:0-84, u1700:0-5, u1701:0-17, u1702:0-40, u1703:0-17, u1704:0-23, u1705:0-37, u1706:0-5, u1707:0-28, u1708:0-10, u1709:0-24, u1710:0-68, u1711:0-90, u1712:0-35, u1713:0-8, u1714:0-52, u1715:0-42, u1716:0-7, u1717:0-58, u1718:0-6, u1719:0-41, u1720:0-7, u1721:0-7, u1722:0-22, u1723:0-12, u1724:0-7, u1725:0-5, u1726:0-8, u1727:0-20, u1728:0-8, u1729:0-30, u1730:0-121, u1731:0-49, u1732:0-9, u1733:0-22, u1734:0-3, u1735:0-84, u1736:0-15, u1737:0-72, u1738:0-10, u1739:0-42, u1740:0-24, u1741:0-12, u1742:0-64, u1743:0-5, u1744:0-43, u1745:0-21, u1746:0-5, u1747:0-22, u1748:0-3, u1749:0-23, u1750:0-14, u1751:0-41, u1752:0-72, u1753:0-14, u1754:0-69, u1755:0-15, u1756:0-31, u1757:0-52, u1758:0-31, u1759:0-52, u1760:0-8, u1761:0-10, u1762:0-53, u1763:0-124, u1764:0-82, u1765:0-154, u1766:0-7, u1767:0-33, u1768:0-13, u1769:0-27, u1770:0-57, u1771:0-49, u1772:0-35, u1773:0-119, u1774:0-9, u1775:0-36, u1776:0-77, u1777:0-102, u1778:0-27, u1779:0-10, u1780:0-5, u1781:0-49, u1782:0-6, u1783:0-56, u1784:0-26, u1785:0-7, u1786:0-20, u1787:0-14, u1788:0-15, u1789:0-9, u1790:0-4, u1791:0-17, u1792:0-18, u1793:0-5, u1794:0-21, u1795:0-63, u1796:0-17, u1797:0-64, u1798:0-14, u1799:0-16, u1800:0-155, u1801:0-7, u1802:0-225, u1803:0-55, u1804:0-40, u1805:0-17, u1806:0-114, u1807:0-186, u1808:0-108 %%",
-        "((Combat actions and mechanics))",
+        "%% u1765:0-154, u1766:0-7, u1767:0-33, u1768:0-13, u1769:0-27, u1770:0-57 %%",
+        "DM: ((Battle and canoe damage)) The canoe now with two giant holes in it just sinks away.",
+        "",
+        "%% u1771:0-49, u1772:0-35, u1773:0-119, u1774:0-9, u1775:0-36, u1776:0-77, u1777:0-102, u1778:0-27, u1779:0-10, u1780:0-5, u1781:0-49, u1782:0-6, u1783:0-56, u1784:0-26, u1785:0-7, u1786:0-20, u1787:0-14, u1788:0-15, u1789:0-9, u1790:0-4, u1791:0-17, u1792:0-18, u1793:0-5, u1794:0-21, u1795:0-63, u1796:0-17, u1797:0-64, u1798:0-14, u1799:0-16, u1800:0-155, u1801:0-7, u1802:0-225, u1803:0-55, u1804:0-40, u1805:0-17, u1806:0-114, u1807:0-186, u1808:0-108 %%",
+        "((Intervening battle actions and mechanics))",
         "",
         "%% u1809:0-46 %%",
         "Ryu: I like yell after that last one, \"Do you yield?\"",
@@ -1238,7 +1089,7 @@
         "DM: Looks like your life is at risk.",
         "",
         "%% u1817:0-27, u1818:0-17, u1819:0-18, u1820:0-92, u1821:0-55, u1822:0-42, u1823:0-12, u1824:0-38, u1825:0-87, u1826:0-218, u1827:0-50, u1828:0-21, u1829:0-21, u1830:0-111, u1831:0-6, u1832:0-10, u1833:0-29, u1834:0-17, u1835:0-85, u1836:0-5, u1837:0-35, u1838:0-4, u1839:0-136, u1840:0-59, u1841:0-20, u1842:0-45, u1843:0-5, u1844:0-3, u1845:0-3, u1846:0-24, u1847:0-5, u1848:0-69, u1849:0-7, u1850:0-27, u1851:0-8, u1852:0-24, u1853:0-5, u1854:0-46, u1855:0-35, u1856:0-75, u1857:0-15, u1858:0-46, u1859:0-35, u1860:0-9, u1861:0-86, u1862:0-22, u1863:0-67, u1864:0-16, u1865:0-8, u1866:0-30, u1867:0-52, u1868:0-12, u1869:0-16, u1870:0-14, u1871:0-28, u1872:0-23, u1873:0-5, u1874:0-4, u1875:0-21, u1876:0-11, u1877:0-16, u1878:0-68, u1879:0-59, u1880:0-37, u1881:0-12, u1882:0-29, u1883:0-20, u1884:0-6, u1885:0-14, u1886:0-64, u1887:0-35, u1888:0-15, u1889:0-4, u1890:0-105, u1891:0-31, u1892:0-4, u1893:0-12, u1894:0-73, u1895:0-32, u1896:0-52, u1897:0-95, u1898:0-64, u1899:0-3, u1900:0-10, u1901:0-29, u1902:0-29, u1903:0-33, u1904:0-5, u1905:0-3, u1906:0-5, u1907:0-58, u1908:0-5, u1909:0-54, u1910:0-44, u1911:0-5, u1912:0-77, u1913:0-40, u1914:0-10, u1915:0-15, u1916:0-17, u1917:0-58, u1918:0-24, u1919:0-14, u1920:0-15, u1921:0-27, u1922:0-19, u1923:0-91, u1924:0-40, u1925:0-37, u1926:0-27, u1927:0-9, u1928:0-10, u1929:0-34, u1930:0-11, u1931:0-10, u1932:0-30, u1933:0-125, u1934:0-5, u1935:0-10, u1936:0-8, u1937:0-13, u1938:0-22, u1939:0-24, u1940:0-46, u1941:0-35, u1942:0-32, u1943:0-54, u1944:0-89, u1945:0-12, u1946:0-10, u1947:0-66, u1948:0-28, u1949:0-55, u1950:0-47, u1951:0-28, u1952:0-12, u1953:0-6, u1954:0-35, u1955:0-63, u1956:0-44, u1957:0-119, u1958:0-22, u1959:0-74, u1960:0-6, u1961:0-19, u1962:0-14, u1963:0-21, u1964:0-69, u1965:0-51, u1966:0-23, u1967:0-6, u1968:0-16, u1969:0-15, u1970:0-70, u1971:0-23, u1972:0-32, u1973:0-5, u1974:0-27, u1975:0-53, u1976:0-63, u1977:0-102, u1978:0-10, u1979:0-3, u1980:0-39, u1981:0-15, u1982:0-43, u1983:0-7, u1984:0-24, u1985:0-60, u1986:0-83, u1987:0-5, u1988:0-17, u1989:0-22, u1990:0-20, u1991:0-82, u1992:0-112, u1993:0-15 %%",
-        "((Combat actions and mechanics))",
+        "((Intervening battle actions and mechanics))",
         "",
         "%% u1994:0-70 %%",
         "Ryu: Yell to him, \"Yield and heel your beast, otherwise we will kill you now!\"",
@@ -1253,10 +1104,16 @@
         "DM: He doesn't—he's not responding to that. He's just like looking for, you know, eyes glowing red. His body was beginning to expand slightly as this flaming or you can start to see where his heart is is like almost like glowing in his chest.",
         "",
         "%% u2004:0-4, u2005:0-40, u2006:0-5, u2007:0-3, u2008:0-22, u2009:0-20, u2010:0-31, u2011:0-52, u2012:0-3, u2013:0-11, u2014:0-21, u2015:0-17, u2016:0-23, u2017:0-6, u2018:0-16, u2019:0-30, u2020:0-55, u2021:0-4, u2022:0-10 %%",
-        "((Combat actions and mechanics))",
+        "((Intervening battle actions and mechanics))",
         "",
         "%% u2023:0-19, u2024:0-117, u2025:0-134 %%",
         "DM: ((Final attack)) there's this moment of pure joy in his eyes before he explodes. ((Saving throw))",
+        "",
+        "%% u2026:0-10, u2027:0-66, u2028:0-86, u2029:0-103, u2030:0-5, u2031:0-29 %%",
+        "((Intervening battle actions and mechanics))",
+        "",
+        "%% u2032:0-94, u2033:0-19, u2034:0-36, u2035:0-75 %%",
+        "Ryu: Ryu is like fucking shrapnel like sticking out of him, like all over the place, he looks like he's like you know, barely like struggling on the Marsh. I've definitely seen better days. Anybody can help me out here a little bit?",
         ""
       ],
       "reviewContext": {
@@ -1268,17 +1125,16 @@
           "DM: From the nasty nasty creatures. Okay this one's dead. This one is going to fly back. 1, 2, 3, 4, 5, 6. So you can see it come back in range."
         ],
         "after": [
-          "Nerissa: Money for.",
-          "DM: Shrapnel like flying blast of metal shrapnel explode out from him. Ryu, you take 26 points of piercing damage, as you are pelted with shards of his Armor.",
-          "DM: And and Nerissa you take 13 points of piercing damage as you managed to dodge partially out of the way.",
-          "Ander: Well you don't see that every day.",
-          "Ryu: Ryu is like fucking shrapnel like sticking out of him, like all over the place, he looks like he's like you know, barely like struggling on the Marsh. I've definitely seen better days. Anybody can help me out here a little bit?"
+          "DM: You can help yourself out. Remember healing spirit.",
+          "Ryu: I—yeah, I can help myself that I'll do that.",
+          "Ander: Tim, are, any of his awesome flaming weapons hanging around are those exploded?",
+          "DM: His entire body, everything he was holding his armor, everything is just blasted apart.",
+          "DM: So you can heal up to 4d6. You can use it all for yourself, or you can—you have 4d6 worth of healing."
         ]
       },
       "review": {
-        "confidence": "medium",
-        "status": "automatedReviewed",
-        "reason": "The warrior’s master remains unidentified; the retained refusal and death do not equate him with the later mage or Khathayi."
+        "confidence": "high",
+        "status": "automatedReviewed"
       },
       "id": "i014"
     },
@@ -1294,6 +1150,11 @@
           "id": "e001",
           "role": "supporting",
           "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "interacted"
         }
       ],
       "source": {
@@ -1305,31 +1166,58 @@
         "DM: But its head looks more like the head of a dragon. As it looks as it lifts out of the water and sort of like moaning and bellowing, um, and stuck into its neck there's a black arrow that's like penetrating from its neck. Glows faintly with red fire. There's like little arcs of fire running along the back of its neck.",
         "",
         "%% u2154:0-25, u2155:0-18, u2156:0-13, u2157:0-5, u2158:0-40, u2159:0-57, u2160:0-12, u2161:0-54, u2162:0-33, u2163:0-41, u2164:0-19, u2165:0-96, u2166:0-123, u2167:0-20, u2168:0-28, u2169:0-21, u2170:0-10, u2171:0-19, u2172:0-3, u2173:0-100, u2174:0-8, u2175:0-77, u2176:0-15, u2177:0-62, u2178:0-22, u2179:0-12, u2180:0-26, u2181:0-7, u2182:0-29, u2183:0-102, u2184:0-27, u2185:0-116, u2186:0-69, u2187:0-20, u2188:0-64, u2189:0-36, u2190:0-5, u2191:0-27, u2192:0-85, u2193:0-31, u2194:0-4, u2195:0-29, u2196:0-27, u2197:0-20, u2198:0-4, u2199:0-22, u2200:0-12, u2201:0-20, u2202:0-70, u2203:0-44, u2204:0-5, u2205:0-4, u2206:0-3, u2207:0-42, u2208:0-7, u2209:0-32, u2210:0-12, u2211:0-12, u2212:0-3, u2213:0-28, u2214:0-31, u2215:0-12, u2216:0-48, u2217:0-3, u2218:0-76, u2219:0-8, u2220:0-36, u2221:0-38, u2222:0-61, u2223:0-42, u2224:0-30, u2225:0-13, u2226:0-57, u2227:0-5, u2228:0-181, u2229:0-36, u2230:0-23, u2231:0-69, u2232:0-289, u2233:0-84, u2234:0-175, u2235:0-45, u2236:0-32, u2237:0-90, u2238:0-82, u2239:0-38, u2240:0-108, u2241:0-178, u2242:0-100, u2243:0-18, u2244:0-111, u2245:0-42, u2246:0-21, u2247:0-8, u2248:0-4, u2249:0-48, u2250:0-18, u2251:0-24, u2252:0-42, u2253:0-14, u2254:0-20, u2255:0-70, u2256:0-189, u2257:0-10, u2258:0-39, u2259:0-37, u2260:0-47, u2261:0-130, u2262:0-41, u2263:0-125, u2264:0-6, u2265:0-47, u2266:0-55, u2267:0-56, u2268:0-17, u2269:0-43, u2270:0-26, u2271:0-26, u2272:0-38, u2273:0-15, u2274:0-24, u2275:0-11, u2276:0-66, u2277:0-44, u2278:0-18, u2279:0-41, u2280:0-33, u2281:0-22, u2282:0-28, u2283:0-18, u2284:0-32, u2285:0-12, u2286:0-5, u2287:0-23, u2288:0-47, u2289:0-3, u2290:0-120, u2291:0-26, u2292:0-21, u2293:0-3, u2294:0-12, u2295:0-32, u2296:0-13, u2297:0-5, u2298:0-42, u2299:0-39, u2300:0-20, u2301:0-6, u2302:0-7, u2303:0-45, u2304:0-11, u2305:0-48, u2306:0-40, u2307:0-7, u2308:0-5, u2309:0-3, u2310:0-16, u2311:0-3, u2312:0-16, u2313:0-75, u2314:0-4, u2315:0-8, u2316:0-5, u2317:0-54, u2318:0-4, u2319:0-10, u2320:0-43, u2321:0-27, u2322:0-94, u2323:0-5, u2324:0-121, u2325:0-33, u2326:0-23, u2327:0-10, u2328:0-41, u2329:0-40, u2330:0-68, u2331:0-3, u2332:0-6, u2333:0-20, u2334:0-31, u2335:0-55, u2336:0-17, u2337:0-25, u2338:0-10, u2339:0-3, u2340:0-50, u2341:0-36, u2342:0-72, u2343:0-49, u2344:0-29, u2345:0-107, u2346:0-67, u2347:0-8, u2348:0-9, u2349:0-73, u2350:0-91, u2351:0-18, u2352:0-17, u2353:0-20, u2354:0-43, u2355:0-26, u2356:0-23, u2357:0-17, u2358:0-119, u2359:0-41, u2360:0-37, u2361:0-28, u2362:0-19, u2363:0-23, u2364:0-162, u2365:0-22, u2366:0-98, u2367:0-50, u2368:0-22, u2369:0-68, u2370:0-19, u2371:0-18, u2372:0-72, u2373:0-52, u2374:0-37, u2375:0-5, u2376:0-19, u2377:0-25, u2378:0-27, u2379:0-27, u2380:0-6, u2381:0-28, u2382:0-146, u2383:0-11, u2384:0-21, u2385:0-5, u2386:0-39, u2387:0-3, u2388:0-48, u2389:0-30, u2390:0-12, u2391:0-27, u2392:0-27, u2393:0-18, u2394:0-14, u2395:0-62, u2396:0-19, u2397:0-133, u2398:0-41, u2399:0-42, u2400:0-9, u2401:0-14, u2402:0-26, u2403:0-56, u2404:0-34, u2405:0-19, u2406:0-64, u2407:0-3, u2408:0-3, u2409:0-20, u2410:0-29, u2411:0-8, u2412:0-15, u2413:0-125, u2414:0-5, u2415:0-10, u2416:0-26, u2417:0-45, u2418:0-13, u2419:0-58, u2420:0-36 %%",
-        "((Combat actions, unsuccessful attempts and mechanics))",
+        "((Battle and approach to the turtle))",
         "",
         "%% u2421:0-33 %%",
         "Ryu: I will try to pull out the spear.",
         "",
         "%% u2422:0-28, u2423:0-35, u2424:0-70 %%",
-        "((Combat actions, unsuccessful attempts and mechanics))",
+        "((Strength check))",
         "",
         "%% u2425:0-114, u2426:0-12, u2427:0-189 %%",
-        "DM: ((Strength check)) your finger hands start to sear in pain, ((Fire damage)) and, as you try to pull back it's just stuck in there. You, you got it loose ((Mechanical benefit)) ((Saving throw))",
+        "DM: ((Strength check)) your finger hands start to sear in pain, ((Fire damage)) and, as you try to pull back it's just stuck in there. You, you got it loose ((Mechanical benefit and saving throw))",
         "",
-        "%% u2428:0-209, u2429:0-13, u2430:0-37, u2431:0-93, u2432:0-40, u2433:0-60, u2434:0-34, u2435:0-4, u2436:0-34, u2437:0-37, u2438:0-108, u2439:0-48, u2440:0-46, u2441:0-3, u2442:0-18, u2443:0-3, u2444:0-9, u2445:0-48, u2446:0-12, u2447:0-84, u2448:0-29, u2449:0-36, u2450:0-19, u2451:0-26, u2452:0-48, u2453:0-37, u2454:0-29, u2455:0-34, u2456:0-27, u2457:0-3, u2458:0-47, u2459:0-21, u2460:0-20, u2461:0-108, u2462:0-15, u2463:0-50, u2464:0-85, u2465:0-75, u2466:0-10, u2467:0-10, u2468:0-45, u2469:0-86, u2470:0-27, u2471:0-32, u2472:0-5, u2473:0-51 %%",
-        "((Combat actions, unsuccessful attempts and mechanics))",
+        "%% u2428:0-209, u2429:0-13, u2430:0-37, u2431:0-93, u2432:0-40, u2433:0-60, u2434:0-34, u2435:0-4, u2436:0-34 %%",
+        "((Character-sheet bookkeeping))",
+        "",
+        "%% u2437:0-37, u2438:0-108 %%",
+        "DM: ((Constitution save)) So the, the—as you grab onto it and try and pull, it's just it's too hot to keep holding on to, and you let go.",
+        "",
+        "%% u2439:0-48, u2440:0-46, u2441:0-3, u2442:0-18, u2443:0-3, u2444:0-9, u2445:0-48, u2446:0-12, u2447:0-84, u2448:0-29, u2449:0-36, u2450:0-19, u2451:0-26, u2452:0-48, u2453:0-37, u2454:0-29 %%",
+        "((Action economy and Blu’s check))",
+        "",
+        "%% u2455:0-34, u2456:0-27 %%",
+        "DM: So Blu grabs on to that. ((Fire damage))",
+        "",
+        "%% u2457:0-3, u2458:0-47, u2459:0-21, u2460:0-20, u2461:0-108 %%",
+        "DM: And begins to yank and just like beating his wings and loosens it again. It's getting looser. Manages to pull it slightly out but it's not enough to detach it from this. It's wedged in there pretty deep.",
+        "",
+        "%% u2462:0-15, u2463:0-50, u2464:0-85, u2465:0-75, u2466:0-10, u2467:0-10, u2468:0-45, u2469:0-86, u2470:0-27, u2471:0-32, u2472:0-5, u2473:0-51 %%",
+        "((Positioning and spell mechanics))",
         "",
         "%% u2474:0-100, u2475:0-34, u2476:0-33 %%",
         "Nerissa: And then I'm going to reach for that flaming arrow. ((Spell tactics)) I'm just grab it and pull it out.",
         "",
         "%% u2477:0-14, u2478:0-26, u2479:0-14, u2480:0-36, u2481:0-17, u2482:0-68, u2483:0-113, u2484:0-45, u2485:0-18, u2486:0-20, u2487:0-3, u2488:0-4 %%",
-        "((Combat actions, unsuccessful attempts and mechanics))",
+        "((Strength check and fire damage))",
         "",
         "%% u2489:0-19, u2490:0-26, u2491:0-30 %%",
         "DM: So, as you grab it you give it one more yank and the arrow goes flying out.",
         "",
-        "%% u2492:0-32, u2493:0-16, u2494:0-5, u2495:0-89, u2496:0-55, u2497:0-30, u2498:0-8, u2499:0-30, u2500:0-36, u2501:0-25, u2502:0-41, u2503:0-20, u2504:0-6, u2505:0-33, u2506:0-148, u2507:0-5 %%",
-        "((Combat actions, unsuccessful attempts and mechanics))",
+        "%% u2492:0-32, u2493:0-16 %%",
+        "((Damage confirmation))",
+        "",
+        "%% u2494:0-5, u2495:0-89 %%",
+        "Nerissa: Okay. Is it like just go flying into the water or like do we want to keep an eye on that arrow?",
+        "",
+        "%% u2496:0-55 %%",
+        "DM: Well, I mean, you can try to hold on to it, if you want.",
+        "",
+        "%% u2497:0-30 %%",
+        "Nerissa: It's I mean, it's probably hot?",
+        "",
+        "%% u2498:0-8, u2499:0-30, u2500:0-36, u2501:0-25, u2502:0-41, u2503:0-20, u2504:0-6, u2505:0-33, u2506:0-148, u2507:0-5 %%",
+        "((Arrow tactics and saving throw))",
         "",
         "%% u2508:0-164 %%",
         "Nerissa: I'm just hoping that it stays dropped in the water, if we drop it in the water and doesn't like return back to him, like one of your arrow or thingamabopper spears.",
@@ -1388,8 +1276,11 @@
         "%% u2161:0-54, u2162:0-33, u2163:0-41, u2164:0-19 %%",
         "DM: Like of fire sort of stretching down off of the cloak again sort of cracked with magma. It seems to be yelling something at this turtle creature, um—",
         "",
-        "%% u2165:0-96, u2166:0-123, u2167:0-20, u2168:0-28, u2169:0-21, u2170:0-10, u2171:0-19, u2172:0-3, u2173:0-100, u2174:0-8, u2175:0-77, u2176:0-15, u2177:0-62, u2178:0-22, u2179:0-12, u2180:0-26, u2181:0-7, u2182:0-29, u2183:0-102, u2184:0-27, u2185:0-116, u2186:0-69, u2187:0-20, u2188:0-64, u2189:0-36, u2190:0-5, u2191:0-27, u2192:0-85, u2193:0-31, u2194:0-4, u2195:0-29, u2196:0-27, u2197:0-20, u2198:0-4, u2199:0-22, u2200:0-12, u2201:0-20, u2202:0-70, u2203:0-44, u2204:0-5, u2205:0-4, u2206:0-3, u2207:0-42, u2208:0-7, u2209:0-32, u2210:0-12, u2211:0-12, u2212:0-3, u2213:0-28, u2214:0-31, u2215:0-12, u2216:0-48, u2217:0-3, u2218:0-76, u2219:0-8, u2220:0-36, u2221:0-38, u2222:0-61, u2223:0-42, u2224:0-30, u2225:0-13, u2226:0-57, u2227:0-5, u2228:0-181, u2229:0-36, u2230:0-23, u2231:0-69, u2232:0-289, u2233:0-84, u2234:0-175, u2235:0-45, u2236:0-32, u2237:0-90, u2238:0-82, u2239:0-38, u2240:0-108, u2241:0-178, u2242:0-100, u2243:0-18, u2244:0-111, u2245:0-42, u2246:0-21, u2247:0-8, u2248:0-4, u2249:0-48, u2250:0-18, u2251:0-24, u2252:0-42, u2253:0-14, u2254:0-20, u2255:0-70, u2256:0-189, u2257:0-10, u2258:0-39, u2259:0-37, u2260:0-47, u2261:0-130, u2262:0-41, u2263:0-125, u2264:0-6, u2265:0-47, u2266:0-55, u2267:0-56, u2268:0-17, u2269:0-43, u2270:0-26, u2271:0-26, u2272:0-38, u2273:0-15, u2274:0-24, u2275:0-11, u2276:0-66, u2277:0-44, u2278:0-18, u2279:0-41, u2280:0-33, u2281:0-22, u2282:0-28, u2283:0-18, u2284:0-32, u2285:0-12, u2286:0-5, u2287:0-23, u2288:0-47, u2289:0-3, u2290:0-120, u2291:0-26, u2292:0-21, u2293:0-3, u2294:0-12, u2295:0-32, u2296:0-13, u2297:0-5, u2298:0-42, u2299:0-39, u2300:0-20, u2301:0-6, u2302:0-7, u2303:0-45, u2304:0-11, u2305:0-48, u2306:0-40, u2307:0-7, u2308:0-5, u2309:0-3, u2310:0-16, u2311:0-3, u2312:0-16, u2313:0-75, u2314:0-4, u2315:0-8, u2316:0-5, u2317:0-54, u2318:0-4, u2319:0-10, u2320:0-43, u2321:0-27, u2322:0-94, u2323:0-5, u2324:0-121, u2325:0-33, u2326:0-23, u2327:0-10, u2328:0-41, u2329:0-40, u2330:0-68, u2331:0-3, u2332:0-6, u2333:0-20, u2334:0-31, u2335:0-55, u2336:0-17, u2337:0-25, u2338:0-10, u2339:0-3, u2340:0-50, u2341:0-36, u2342:0-72, u2343:0-49, u2344:0-29, u2345:0-107, u2346:0-67, u2347:0-8, u2348:0-9, u2349:0-73, u2350:0-91, u2351:0-18, u2352:0-17, u2353:0-20, u2354:0-43, u2355:0-26, u2356:0-23, u2357:0-17, u2358:0-119, u2359:0-41, u2360:0-37, u2361:0-28, u2362:0-19, u2363:0-23, u2364:0-162, u2365:0-22, u2366:0-98, u2367:0-50, u2368:0-22, u2369:0-68, u2370:0-19, u2371:0-18, u2372:0-72, u2373:0-52, u2374:0-37, u2375:0-5, u2376:0-19, u2377:0-25, u2378:0-27, u2379:0-27, u2380:0-6, u2381:0-28, u2382:0-146, u2383:0-11, u2384:0-21, u2385:0-5, u2386:0-39, u2387:0-3, u2388:0-48, u2389:0-30, u2390:0-12, u2391:0-27, u2392:0-27, u2393:0-18, u2394:0-14, u2395:0-62, u2396:0-19, u2397:0-133, u2398:0-41, u2399:0-42, u2400:0-9, u2401:0-14, u2402:0-26, u2403:0-56, u2404:0-34, u2405:0-19, u2406:0-64, u2407:0-3, u2408:0-3, u2409:0-20, u2410:0-29, u2411:0-8, u2412:0-15, u2413:0-125, u2414:0-5, u2415:0-10, u2416:0-26, u2417:0-45, u2418:0-13, u2419:0-58, u2420:0-36, u2421:0-33, u2422:0-28, u2423:0-35, u2424:0-70, u2425:0-114, u2426:0-12, u2427:0-189, u2428:0-209, u2429:0-13, u2430:0-37, u2431:0-93, u2432:0-40, u2433:0-60, u2434:0-34, u2435:0-4, u2436:0-34, u2437:0-37, u2438:0-108, u2439:0-48, u2440:0-46, u2441:0-3, u2442:0-18, u2443:0-3, u2444:0-9, u2445:0-48, u2446:0-12, u2447:0-84, u2448:0-29, u2449:0-36, u2450:0-19, u2451:0-26, u2452:0-48, u2453:0-37, u2454:0-29, u2455:0-34, u2456:0-27, u2457:0-3, u2458:0-47, u2459:0-21, u2460:0-20, u2461:0-108, u2462:0-15, u2463:0-50, u2464:0-85, u2465:0-75, u2466:0-10, u2467:0-10, u2468:0-45, u2469:0-86, u2470:0-27, u2471:0-32, u2472:0-5, u2473:0-51, u2474:0-100, u2475:0-34, u2476:0-33, u2477:0-14, u2478:0-26, u2479:0-14, u2480:0-36, u2481:0-17, u2482:0-68, u2483:0-113, u2484:0-45, u2485:0-18, u2486:0-20, u2487:0-3, u2488:0-4, u2489:0-19, u2490:0-26, u2491:0-30, u2492:0-32, u2493:0-16, u2494:0-5, u2495:0-89, u2496:0-55, u2497:0-30, u2498:0-8, u2499:0-30, u2500:0-36, u2501:0-25, u2502:0-41, u2503:0-20, u2504:0-6, u2505:0-33, u2506:0-148, u2507:0-5, u2508:0-164, u2509:0-53, u2510:0-22, u2511:0-31, u2512:0-16, u2513:0-5, u2514:0-30, u2515:0-24, u2516:0-5, u2517:0-19, u2518:0-14, u2519:0-12, u2520:0-55, u2521:0-19, u2522:0-75, u2523:0-34, u2524:0-31, u2525:0-90, u2526:0-77, u2527:0-24, u2528:0-3, u2529:0-12, u2530:0-4, u2531:0-13, u2532:0-55, u2533:0-3, u2534:0-39, u2535:0-12, u2536:0-122, u2537:0-40, u2538:0-47, u2539:0-3, u2540:0-34, u2541:0-10, u2542:0-42, u2543:0-8, u2544:0-19, u2545:0-39, u2546:0-23, u2547:0-8, u2548:0-28, u2549:0-14, u2550:0-272, u2551:0-50, u2552:0-26, u2553:0-102, u2554:0-23, u2555:0-5, u2556:0-14, u2557:0-79, u2558:0-53, u2559:0-4, u2560:0-52, u2561:0-9, u2562:0-58, u2563:0-3, u2564:0-18, u2565:0-8, u2566:0-20, u2567:0-5, u2568:0-76, u2569:0-13, u2570:0-280, u2571:0-11, u2572:0-59, u2573:0-43, u2574:0-5, u2575:0-30, u2576:0-24, u2577:0-16, u2578:0-24, u2579:0-17, u2580:0-59, u2581:0-62, u2582:0-118, u2583:0-53, u2584:0-13, u2585:0-29, u2586:0-82, u2587:0-9, u2588:0-40, u2589:0-8, u2590:0-18, u2591:0-36, u2592:0-5, u2593:0-26, u2594:0-39, u2595:0-29, u2596:0-18, u2597:0-50, u2598:0-3, u2599:0-24, u2600:0-8, u2601:0-9, u2602:0-4, u2603:0-84, u2604:0-6, u2605:0-15, u2606:0-3, u2607:0-24, u2608:0-16, u2609:0-19, u2610:0-21, u2611:0-26, u2612:0-78, u2613:0-10, u2614:0-35, u2615:0-3, u2616:0-44, u2617:0-12, u2618:0-8, u2619:0-9, u2620:0-13, u2621:0-3, u2622:0-32, u2623:0-16, u2624:0-38, u2625:0-29, u2626:0-66, u2627:0-3, u2628:0-21, u2629:0-47, u2630:0-26, u2631:0-62, u2632:0-33, u2633:0-55, u2634:0-12, u2635:0-59, u2636:0-43, u2637:0-68, u2638:0-18, u2639:0-3, u2640:0-43, u2641:0-15, u2642:0-168, u2643:0-40, u2644:0-35, u2645:0-24, u2646:0-81, u2647:0-32, u2648:0-7, u2649:0-76, u2650:0-104, u2651:0-3, u2652:0-77, u2653:0-132, u2654:0-76, u2655:0-66, u2656:0-12, u2657:0-23, u2658:0-99, u2659:0-68, u2660:0-91, u2661:0-6, u2662:0-51, u2663:0-23, u2664:0-84, u2665:0-23, u2666:0-49, u2667:0-5, u2668:0-28, u2669:0-22, u2670:0-159, u2671:0-37, u2672:0-3, u2673:0-9, u2674:0-33, u2675:0-54, u2676:0-6, u2677:0-5, u2678:0-69, u2679:0-14, u2680:0-27, u2681:0-7, u2682:0-27, u2683:0-27, u2684:0-69, u2685:0-59, u2686:0-34, u2687:0-21, u2688:0-85, u2689:0-119, u2690:0-9, u2691:0-25, u2692:0-4, u2693:0-13, u2694:0-28, u2695:0-3, u2696:0-4, u2697:0-10, u2698:0-50, u2699:0-5, u2700:0-34, u2701:0-32, u2702:0-5, u2703:0-55, u2704:0-59, u2705:0-34, u2706:0-34, u2707:0-49, u2708:0-36, u2709:0-14, u2710:0-29, u2711:0-6, u2712:0-41, u2713:0-16, u2714:0-33, u2715:0-37, u2716:0-42, u2717:0-12, u2718:0-28, u2719:0-4, u2720:0-9, u2721:0-38, u2722:0-8, u2723:0-22, u2724:0-10, u2725:0-9, u2726:0-23, u2727:0-13, u2728:0-14, u2729:0-11, u2730:0-64, u2731:0-40, u2732:0-40, u2733:0-36, u2734:0-135, u2735:0-136, u2736:0-177, u2737:0-26, u2738:0-48, u2739:0-5, u2740:0-27, u2741:0-19, u2742:0-15, u2743:0-59, u2744:0-13, u2745:0-14, u2746:0-14, u2747:0-105, u2748:0-34, u2749:0-72, u2750:0-6, u2751:0-27, u2752:0-15, u2753:0-58, u2754:0-5, u2755:0-37, u2756:0-25, u2757:0-8, u2758:0-13, u2759:0-24, u2760:0-82, u2761:0-20, u2762:0-24, u2763:0-47, u2764:0-39, u2765:0-84, u2766:0-32, u2767:0-31, u2768:0-19, u2769:0-34, u2770:0-12, u2771:0-47, u2772:0-11, u2773:0-6, u2774:0-2, u2775:0-9, u2776:0-3, u2777:0-76, u2778:0-18, u2779:0-36, u2780:0-5, u2781:0-39, u2782:0-5, u2783:0-12, u2784:0-26, u2785:0-52, u2786:0-20, u2787:0-10, u2788:0-24, u2789:0-28, u2790:0-27, u2791:0-8, u2792:0-8, u2793:0-63, u2794:0-6, u2795:0-9, u2796:0-31, u2797:0-30, u2798:0-30, u2799:0-20, u2800:0-30, u2801:0-10, u2802:0-31, u2803:0-9, u2804:0-13, u2805:0-25, u2806:0-31, u2807:0-4, u2808:0-67, u2809:0-54, u2810:0-34, u2811:0-14, u2812:0-7, u2813:0-66, u2814:0-66, u2815:0-8, u2816:0-12, u2817:0-10, u2818:0-68, u2819:0-53, u2820:0-59, u2821:0-29, u2822:0-12, u2823:0-13, u2824:0-97, u2825:0-40, u2826:0-6, u2827:0-13, u2828:0-52, u2829:0-44, u2830:0-3, u2831:0-3, u2832:0-45, u2833:0-10, u2834:0-24, u2835:0-42, u2836:0-21, u2837:0-33, u2838:0-26, u2839:0-23, u2840:0-28, u2841:0-76, u2842:0-35, u2843:0-28, u2844:0-16, u2845:0-67, u2846:0-11, u2847:0-18, u2848:0-11, u2849:0-23, u2850:0-66, u2851:0-20, u2852:0-13, u2853:0-22, u2854:0-18, u2855:0-19, u2856:0-40, u2857:0-84, u2858:0-45, u2859:0-24, u2860:0-33, u2861:0-4, u2862:0-39, u2863:0-3, u2864:0-48, u2865:0-42, u2866:0-53, u2867:0-17, u2868:0-80, u2869:0-248, u2870:0-15, u2871:0-76, u2872:0-16, u2873:0-10, u2874:0-6, u2875:0-18, u2876:0-4, u2877:0-27, u2878:0-39, u2879:0-18, u2880:0-17, u2881:0-44, u2882:0-60, u2883:0-18, u2884:0-51, u2885:0-22, u2886:0-41, u2887:0-46, u2888:0-30, u2889:0-8, u2890:0-66, u2891:0-17, u2892:0-19, u2893:0-37, u2894:0-49, u2895:0-49, u2896:0-87, u2897:0-18, u2898:0-15, u2899:0-21, u2900:0-8, u2901:0-40, u2902:0-119, u2903:0-76, u2904:0-21, u2905:0-13, u2906:0-33, u2907:0-24, u2908:0-11, u2909:0-8, u2910:0-3 %%",
-        "((Battle actions and mechanics))",
+        "%% u2165:0-96, u2166:0-123, u2167:0-20, u2168:0-28 %%",
+        "DM: ((Orders and the roof opening)) three blast of fire come flying up at your face.",
+        "",
+        "%% u2169:0-21, u2170:0-10, u2171:0-19, u2172:0-3, u2173:0-100, u2174:0-8, u2175:0-77, u2176:0-15, u2177:0-62, u2178:0-22, u2179:0-12, u2180:0-26, u2181:0-7, u2182:0-29, u2183:0-102, u2184:0-27, u2185:0-116, u2186:0-69, u2187:0-20, u2188:0-64, u2189:0-36, u2190:0-5, u2191:0-27, u2192:0-85, u2193:0-31, u2194:0-4, u2195:0-29, u2196:0-27, u2197:0-20, u2198:0-4, u2199:0-22, u2200:0-12, u2201:0-20, u2202:0-70, u2203:0-44, u2204:0-5, u2205:0-4, u2206:0-3, u2207:0-42, u2208:0-7, u2209:0-32, u2210:0-12, u2211:0-12, u2212:0-3, u2213:0-28, u2214:0-31, u2215:0-12, u2216:0-48, u2217:0-3, u2218:0-76, u2219:0-8, u2220:0-36, u2221:0-38, u2222:0-61, u2223:0-42, u2224:0-30, u2225:0-13, u2226:0-57, u2227:0-5, u2228:0-181, u2229:0-36, u2230:0-23, u2231:0-69, u2232:0-289, u2233:0-84, u2234:0-175, u2235:0-45, u2236:0-32, u2237:0-90, u2238:0-82, u2239:0-38, u2240:0-108, u2241:0-178, u2242:0-100, u2243:0-18, u2244:0-111, u2245:0-42, u2246:0-21, u2247:0-8, u2248:0-4, u2249:0-48, u2250:0-18, u2251:0-24, u2252:0-42, u2253:0-14, u2254:0-20, u2255:0-70, u2256:0-189, u2257:0-10, u2258:0-39, u2259:0-37, u2260:0-47, u2261:0-130, u2262:0-41, u2263:0-125, u2264:0-6, u2265:0-47, u2266:0-55, u2267:0-56, u2268:0-17, u2269:0-43, u2270:0-26, u2271:0-26, u2272:0-38, u2273:0-15, u2274:0-24, u2275:0-11, u2276:0-66, u2277:0-44, u2278:0-18, u2279:0-41, u2280:0-33, u2281:0-22, u2282:0-28, u2283:0-18, u2284:0-32, u2285:0-12, u2286:0-5, u2287:0-23, u2288:0-47, u2289:0-3, u2290:0-120, u2291:0-26, u2292:0-21, u2293:0-3, u2294:0-12, u2295:0-32, u2296:0-13, u2297:0-5, u2298:0-42, u2299:0-39, u2300:0-20, u2301:0-6, u2302:0-7, u2303:0-45, u2304:0-11, u2305:0-48, u2306:0-40, u2307:0-7, u2308:0-5, u2309:0-3, u2310:0-16, u2311:0-3, u2312:0-16, u2313:0-75, u2314:0-4, u2315:0-8, u2316:0-5, u2317:0-54, u2318:0-4, u2319:0-10, u2320:0-43, u2321:0-27, u2322:0-94, u2323:0-5, u2324:0-121, u2325:0-33, u2326:0-23, u2327:0-10, u2328:0-41, u2329:0-40, u2330:0-68, u2331:0-3, u2332:0-6, u2333:0-20, u2334:0-31, u2335:0-55, u2336:0-17, u2337:0-25, u2338:0-10, u2339:0-3, u2340:0-50, u2341:0-36, u2342:0-72, u2343:0-49, u2344:0-29, u2345:0-107, u2346:0-67, u2347:0-8, u2348:0-9, u2349:0-73, u2350:0-91, u2351:0-18, u2352:0-17, u2353:0-20, u2354:0-43, u2355:0-26, u2356:0-23, u2357:0-17, u2358:0-119, u2359:0-41, u2360:0-37, u2361:0-28, u2362:0-19, u2363:0-23, u2364:0-162, u2365:0-22, u2366:0-98, u2367:0-50, u2368:0-22, u2369:0-68, u2370:0-19, u2371:0-18, u2372:0-72, u2373:0-52, u2374:0-37, u2375:0-5, u2376:0-19, u2377:0-25, u2378:0-27, u2379:0-27, u2380:0-6, u2381:0-28, u2382:0-146, u2383:0-11, u2384:0-21, u2385:0-5, u2386:0-39, u2387:0-3, u2388:0-48, u2389:0-30, u2390:0-12, u2391:0-27, u2392:0-27, u2393:0-18, u2394:0-14, u2395:0-62, u2396:0-19, u2397:0-133, u2398:0-41, u2399:0-42, u2400:0-9, u2401:0-14, u2402:0-26, u2403:0-56, u2404:0-34, u2405:0-19, u2406:0-64, u2407:0-3, u2408:0-3, u2409:0-20, u2410:0-29, u2411:0-8, u2412:0-15, u2413:0-125, u2414:0-5, u2415:0-10, u2416:0-26, u2417:0-45, u2418:0-13, u2419:0-58, u2420:0-36, u2421:0-33, u2422:0-28, u2423:0-35, u2424:0-70, u2425:0-114, u2426:0-12, u2427:0-189, u2428:0-209, u2429:0-13, u2430:0-37, u2431:0-93, u2432:0-40, u2433:0-60, u2434:0-34, u2435:0-4, u2436:0-34, u2437:0-37, u2438:0-108, u2439:0-48, u2440:0-46, u2441:0-3, u2442:0-18, u2443:0-3, u2444:0-9, u2445:0-48, u2446:0-12, u2447:0-84, u2448:0-29, u2449:0-36, u2450:0-19, u2451:0-26, u2452:0-48, u2453:0-37, u2454:0-29, u2455:0-34, u2456:0-27, u2457:0-3, u2458:0-47, u2459:0-21, u2460:0-20, u2461:0-108, u2462:0-15, u2463:0-50, u2464:0-85, u2465:0-75, u2466:0-10, u2467:0-10, u2468:0-45, u2469:0-86, u2470:0-27, u2471:0-32, u2472:0-5, u2473:0-51, u2474:0-100, u2475:0-34, u2476:0-33, u2477:0-14, u2478:0-26, u2479:0-14, u2480:0-36, u2481:0-17, u2482:0-68, u2483:0-113, u2484:0-45, u2485:0-18, u2486:0-20, u2487:0-3, u2488:0-4, u2489:0-19, u2490:0-26, u2491:0-30, u2492:0-32, u2493:0-16, u2494:0-5, u2495:0-89, u2496:0-55, u2497:0-30, u2498:0-8, u2499:0-30, u2500:0-36, u2501:0-25, u2502:0-41, u2503:0-20, u2504:0-6, u2505:0-33, u2506:0-148, u2507:0-5, u2508:0-164, u2509:0-53, u2510:0-22, u2511:0-31, u2512:0-16, u2513:0-5, u2514:0-30, u2515:0-24, u2516:0-5, u2517:0-19, u2518:0-14, u2519:0-12, u2520:0-55, u2521:0-19, u2522:0-75, u2523:0-34, u2524:0-31, u2525:0-90, u2526:0-77, u2527:0-24, u2528:0-3, u2529:0-12, u2530:0-4, u2531:0-13, u2532:0-55, u2533:0-3, u2534:0-39, u2535:0-12, u2536:0-122, u2537:0-40, u2538:0-47, u2539:0-3, u2540:0-34, u2541:0-10, u2542:0-42, u2543:0-8, u2544:0-19, u2545:0-39, u2546:0-23, u2547:0-8, u2548:0-28, u2549:0-14, u2550:0-272, u2551:0-50, u2552:0-26, u2553:0-102, u2554:0-23, u2555:0-5, u2556:0-14, u2557:0-79, u2558:0-53, u2559:0-4, u2560:0-52, u2561:0-9, u2562:0-58, u2563:0-3, u2564:0-18, u2565:0-8, u2566:0-20, u2567:0-5, u2568:0-76, u2569:0-13, u2570:0-280, u2571:0-11, u2572:0-59, u2573:0-43, u2574:0-5, u2575:0-30, u2576:0-24, u2577:0-16, u2578:0-24, u2579:0-17, u2580:0-59, u2581:0-62, u2582:0-118, u2583:0-53, u2584:0-13, u2585:0-29, u2586:0-82, u2587:0-9, u2588:0-40, u2589:0-8, u2590:0-18, u2591:0-36, u2592:0-5, u2593:0-26, u2594:0-39, u2595:0-29, u2596:0-18, u2597:0-50, u2598:0-3, u2599:0-24, u2600:0-8, u2601:0-9, u2602:0-4, u2603:0-84, u2604:0-6, u2605:0-15, u2606:0-3, u2607:0-24, u2608:0-16, u2609:0-19, u2610:0-21, u2611:0-26, u2612:0-78, u2613:0-10, u2614:0-35, u2615:0-3, u2616:0-44, u2617:0-12, u2618:0-8, u2619:0-9, u2620:0-13, u2621:0-3, u2622:0-32, u2623:0-16, u2624:0-38, u2625:0-29, u2626:0-66, u2627:0-3, u2628:0-21, u2629:0-47, u2630:0-26, u2631:0-62, u2632:0-33, u2633:0-55, u2634:0-12, u2635:0-59, u2636:0-43, u2637:0-68, u2638:0-18, u2639:0-3, u2640:0-43, u2641:0-15, u2642:0-168, u2643:0-40, u2644:0-35, u2645:0-24, u2646:0-81, u2647:0-32, u2648:0-7, u2649:0-76, u2650:0-104, u2651:0-3, u2652:0-77, u2653:0-132, u2654:0-76, u2655:0-66, u2656:0-12, u2657:0-23, u2658:0-99, u2659:0-68, u2660:0-91, u2661:0-6, u2662:0-51, u2663:0-23, u2664:0-84, u2665:0-23, u2666:0-49, u2667:0-5, u2668:0-28, u2669:0-22, u2670:0-159, u2671:0-37, u2672:0-3, u2673:0-9, u2674:0-33, u2675:0-54, u2676:0-6, u2677:0-5, u2678:0-69, u2679:0-14, u2680:0-27, u2681:0-7, u2682:0-27, u2683:0-27, u2684:0-69, u2685:0-59, u2686:0-34, u2687:0-21, u2688:0-85, u2689:0-119, u2690:0-9, u2691:0-25, u2692:0-4, u2693:0-13, u2694:0-28, u2695:0-3, u2696:0-4, u2697:0-10, u2698:0-50, u2699:0-5, u2700:0-34, u2701:0-32, u2702:0-5, u2703:0-55, u2704:0-59, u2705:0-34, u2706:0-34, u2707:0-49, u2708:0-36, u2709:0-14, u2710:0-29, u2711:0-6, u2712:0-41, u2713:0-16, u2714:0-33, u2715:0-37, u2716:0-42, u2717:0-12, u2718:0-28, u2719:0-4, u2720:0-9, u2721:0-38, u2722:0-8, u2723:0-22, u2724:0-10, u2725:0-9, u2726:0-23, u2727:0-13, u2728:0-14, u2729:0-11, u2730:0-64, u2731:0-40, u2732:0-40, u2733:0-36, u2734:0-135, u2735:0-136, u2736:0-177, u2737:0-26, u2738:0-48, u2739:0-5, u2740:0-27, u2741:0-19, u2742:0-15, u2743:0-59, u2744:0-13, u2745:0-14, u2746:0-14, u2747:0-105, u2748:0-34, u2749:0-72, u2750:0-6, u2751:0-27, u2752:0-15, u2753:0-58, u2754:0-5, u2755:0-37, u2756:0-25, u2757:0-8, u2758:0-13, u2759:0-24, u2760:0-82, u2761:0-20, u2762:0-24, u2763:0-47, u2764:0-39, u2765:0-84, u2766:0-32, u2767:0-31, u2768:0-19, u2769:0-34, u2770:0-12, u2771:0-47, u2772:0-11, u2773:0-6, u2774:0-2, u2775:0-9, u2776:0-3, u2777:0-76, u2778:0-18, u2779:0-36, u2780:0-5, u2781:0-39, u2782:0-5, u2783:0-12, u2784:0-26, u2785:0-52, u2786:0-20, u2787:0-10, u2788:0-24, u2789:0-28, u2790:0-27, u2791:0-8, u2792:0-8, u2793:0-63, u2794:0-6, u2795:0-9, u2796:0-31, u2797:0-30, u2798:0-30, u2799:0-20, u2800:0-30, u2801:0-10, u2802:0-31, u2803:0-9, u2804:0-13, u2805:0-25, u2806:0-31, u2807:0-4, u2808:0-67, u2809:0-54, u2810:0-34, u2811:0-14, u2812:0-7, u2813:0-66, u2814:0-66, u2815:0-8, u2816:0-12, u2817:0-10, u2818:0-68, u2819:0-53, u2820:0-59, u2821:0-29, u2822:0-12, u2823:0-13, u2824:0-97, u2825:0-40, u2826:0-6, u2827:0-13, u2828:0-52, u2829:0-44, u2830:0-3, u2831:0-3, u2832:0-45, u2833:0-10, u2834:0-24, u2835:0-42, u2836:0-21, u2837:0-33, u2838:0-26, u2839:0-23, u2840:0-28, u2841:0-76, u2842:0-35, u2843:0-28, u2844:0-16, u2845:0-67, u2846:0-11, u2847:0-18, u2848:0-11, u2849:0-23, u2850:0-66, u2851:0-20, u2852:0-13, u2853:0-22, u2854:0-18, u2855:0-19, u2856:0-40, u2857:0-84, u2858:0-45, u2859:0-24, u2860:0-33, u2861:0-4, u2862:0-39, u2863:0-3, u2864:0-48, u2865:0-42, u2866:0-53, u2867:0-17, u2868:0-80, u2869:0-248, u2870:0-15, u2871:0-76, u2872:0-16, u2873:0-10, u2874:0-6, u2875:0-18, u2876:0-4, u2877:0-27, u2878:0-39, u2879:0-18, u2880:0-17, u2881:0-44, u2882:0-60, u2883:0-18, u2884:0-51, u2885:0-22, u2886:0-41, u2887:0-46, u2888:0-30, u2889:0-8, u2890:0-66, u2891:0-17, u2892:0-19, u2893:0-37, u2894:0-49, u2895:0-49, u2896:0-87, u2897:0-18, u2898:0-15, u2899:0-21, u2900:0-8, u2901:0-40, u2902:0-119, u2903:0-76, u2904:0-21, u2905:0-13, u2906:0-33, u2907:0-24, u2908:0-11, u2909:0-8, u2910:0-3 %%",
+        "((Intervening battle actions and mechanics))",
         "",
         "%% u2911:0-23, u2912:0-62 %%",
         "DM: ((Damage roll)) And you watch as the turtle just rips this creatures head off.",
@@ -1457,7 +1348,7 @@
         "Ander: Oh, maybe it's not an animal.",
         "",
         "%% u2586:0-82, u2587:0-9, u2588:0-40, u2589:0-8, u2590:0-18, u2591:0-36, u2592:0-5, u2593:0-26, u2594:0-39, u2595:0-29, u2596:0-18, u2597:0-50, u2598:0-3, u2599:0-24, u2600:0-8, u2601:0-9, u2602:0-4, u2603:0-84, u2604:0-6, u2605:0-15, u2606:0-3, u2607:0-24, u2608:0-16, u2609:0-19, u2610:0-21 %%",
-        "((Turn order, companion attack and persuasion mechanics))",
+        "((Turn order and companion attack))",
         "",
         "%% u2611:0-26, u2612:0-78 %%",
         "Nerissa: Standing where I am I say, \"The arrow that was hurting you hurt us, but it is gone.\" I say this in Draconic.",
@@ -1472,7 +1363,7 @@
         "Nerissa: Help us. Rid them a martian or.",
         "",
         "%% u2621:0-3, u2622:0-32, u2623:0-16, u2624:0-38, u2625:0-29, u2626:0-66, u2627:0-3, u2628:0-21, u2629:0-47, u2630:0-26 %%",
-        "((Turn order, companion attack and persuasion mechanics))",
+        "((Persuasion check and banter))",
         "",
         "%% u2631:0-62, u2632:0-33, u2633:0-55, u2634:0-12, u2635:0-59 %%",
         "DM: Wow it looks it looks around in it finally manages to sort of meet your eyes and you see it um, kind of looking at you and and as you're talking to it you realize as this type of creature goes, you are speaking to a child.",
@@ -1557,7 +1448,7 @@
         "Nerissa: Huh. And I cast healing on a dragon turtle.",
         "",
         "%% u2930:0-5, u2931:0-13, u2932:0-7, u2933:0-42, u2934:0-13, u2935:0-13, u2936:0-12, u2937:0-10 %%",
-        "((Healing bookkeeping, interface discussion and provisional name banter))",
+        "((Healing bookkeeping))",
         "",
         "%% u2938:0-13, u2939:0-17 %%",
         "DM: Looks around. \"The fire is dead.\"",
@@ -1575,7 +1466,7 @@
         "DM: Like, \"The water is nice.\" Kind of burst out again. And looks at Nerissa. \"Do you know, do you know Khathayi the Flametongue?\"",
         "",
         "%% u2953:0-19, u2954:0-77, u2955:0-28, u2956:0-35, u2957:0-33, u2958:0-29, u2959:0-26, u2960:0-8, u2961:0-11, u2962:0-189, u2963:0-50, u2964:0-16 %%",
-        "((Healing bookkeeping, interface discussion and provisional name banter))",
+        "((History check and interface discussion))",
         "",
         "%% u2965:0-26, u2966:0-12, u2967:0-36, u2968:0-223 %%",
         "DM: ((History check)) The name is vaguely familiar to you actually, um, this, this is a this is you've only heard—you don't know who or what it is, um, but you know, that its associated with like the earliest tales of the of the first people who settled across the north before even the Nemean and.",
@@ -1614,7 +1505,7 @@
         "Nerissa: What, what to those of your kind call you?",
         "",
         "%% u2997:0-8, u2998:0-28, u2999:0-3, u3000:0-20, u3001:0-14, u3002:0-16, u3003:0-36, u3004:0-3, u3005:0-6, u3006:0-6, u3007:0-10, u3008:0-42, u3009:0-44 %%",
-        "((Healing bookkeeping, interface discussion and provisional name banter))",
+        "((Provisional naming banter))",
         "",
         "%% u3010:0-11 %%",
         "DM: Chaessenth.",
@@ -1639,7 +1530,7 @@
       "review": {
         "confidence": "medium",
         "status": "automatedReviewed",
-        "reason": "The source’s terse pronouns leave the captor unnamed; the extraction preserves them without assigning Khathayi as the captor."
+        "reason": "The captor is unnamed in the terse account; the retained source leaves that reference distinct from the ancient Khathayi."
       },
       "id": "i018"
     },
@@ -1707,7 +1598,7 @@
         "Ryu: We can find you? How far is your home?",
         "",
         "%% u3048:0-8 %%",
-        "((Brief interruptions and checks))",
+        "((Brief interruption))",
         "",
         "%% u3049:0-3, u3050:0-11, u3051:0-11, u3052:0-25, u3053:0-22, u3054:0-15 %%",
         "DM: um my home is everywhere. Cannot live in one place. Everywhere across the the deep ocean.",
@@ -1749,7 +1640,7 @@
         "DM: The songs of the Wanui Teora.",
         "",
         "%% u3074:0-23, u3075:0-13, u3076:0-21, u3077:0-3, u3078:0-42, u3079:0-148, u3080:0-49, u3081:0-13 %%",
-        "((Brief interruptions and checks))",
+        "((Knowledge check and companion communication rules))",
         "",
         "%% u3082:0-12, u3083:0-45, u3084:0-25 %%",
         "DM: I guess you don't spend so much time in the ocean. Maybe you can't hear the songs.",
@@ -1770,7 +1661,7 @@
         "Nerissa: Can I copy some of the changes and pitch with like my lute or something?",
         "",
         "%% u3097:0-5, u3098:0-27, u3099:0-4, u3100:0-29, u3101:0-14 %%",
-        "((Brief interruptions and checks))",
+        "((Performance check))",
         "",
         "%% u3102:0-257, u3103:0-11, u3104:0-37 %%",
         "DM: It's I mean, you get some of that. It's hard to copy. You, you get it enough that you think you could—you at least remember the tunes so you can practice that. He is not particularly impressed but, but he's impressed enough to be like because he's like you know, completely convinced you're his personal savior.",
@@ -1996,6 +1887,49 @@
         "status": "automatedReviewed"
       },
       "id": "i021"
+    },
+    {
+      "id": "i022",
+      "title": "Yaz as a possible source of ocean lore",
+      "source": {
+        "startUid": "u3187",
+        "endUid": "u3188"
+      },
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u3187:0-153, u3188:0-58 %%",
+        "DM: Considering notes to share with Wazir, also recalling as you return to town that someday you'll have to mention to, to Yaz the old ocean watcher who lives with the Wanui Teora and see if he knows anything of that.",
+        ""
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "Nerissa: The turtle would say the turtle dragon said that.",
+          "Unknown: The.",
+          "Nerissa: Fire necromancer dude—not necromancer—is the fire mage Dudes wanted to get a bunch of gatza and go speak to the dead. Island north of.",
+          "Ryu: Here, right? Oh, fuck that's why they wanted the gatza. Yeah that's what the gatza's for. So the lizard folk do that have ceremonies where they can speak to dead people and what they were doing earlier, huh? TIM, you have to remember to report back, not necessarily right this moment. But it is Blu's adventures, with the turtle, guys. I want Blu to—fun party like it's like spring break. 20 you know, whatever and go like or like he can be gone for a month like I don't care, just like, like go like learn about the turtles, listen to some songs you know.",
+          "DM: So, as you return to town you, you know, say your goodbyes. You may make it back contemplating these experiences um."
+        ],
+        "after": [
+          "DM: But that will be for another night, as it is late.",
+          "Unknown: Wow.",
+          "Ryu: Wow."
+        ]
+      }
     }
   ]
 }

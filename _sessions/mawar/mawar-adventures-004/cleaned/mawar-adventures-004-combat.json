@@ -290,7 +290,7 @@
             {
               "actor": "Nerissa",
               "kind": "reaction",
-              "summary": "Tries to reduce the warrior’s attack roll with a d8, rolling 1; it still hits her.",
+              "summary": "Tries to reduce the warrior’s attack on her with a d8, rolling 1; the reduced attack still hits for 6 piercing and 1 fire damage.",
               "evidence": [
                 {
                   "startUid": "u1867",
@@ -435,7 +435,7 @@
         }
       ],
       "ending": {
-        "summary": "The armored warrior dies in a shrapnel explosion after sinking the canoe. The party survives and subsequently heals before exploring the mound. Three steam-creature deaths are explicit; the returned fourth creature’s individual fate is not separately resolved in speech.",
+        "summary": "The armored warrior dies in an armor-shrapnel explosion after sinking the canoe; the party survives in the water. Three steam-creature deaths are explicit, but the fourth creature’s individual fate is not separately resolved in speech.",
         "evidence": [
           {
             "startUid": "u2023",
@@ -597,7 +597,8 @@
                   "startUid": "u2551",
                   "endUid": "u2561"
                 }
-              ]
+              ],
+              "note": "The separate Dexterity-save outcomes are not spoken; the resolved damage and later Absorb Elements correction are retained."
             },
             {
               "actor": "Ryu",
@@ -655,7 +656,7 @@
             {
               "actor": "Ander",
               "kind": "turn",
-              "summary": "Crashes through the roof. Bardic Inspiration lets him land upright, but he takes 10 bludgeoning damage. Closes on the mage and makes an advantaged Feinting/Great Weapon Master attack: a critical hit, with 27 announced and a garbled possible 28; the mage passes the stated DC 14 concentration check with 18. His second hit deals 9 and the mage passes DC 10 with 15. Action Surge adds a hit for 8 that breaks concentration, freeing the turtle, then another Great Weapon Master hit. The mage’s fiery cloak deals Ander 18 fire damage across the first three hits and 6 more on the fourth.",
+              "summary": "Crashes through the roof; Bardic Inspiration lets him land upright, taking 10 bludgeoning damage. Closes on the mage and makes a Feinting Attack with advantage and Great Weapon Master’s −5 to hit/+10 damage: a critical hit with 27 announced and a garbled possible 28. The mage passes the stated DC 14 concentration check with 18. A second hit, without Great Weapon Master, deals 9; the mage passes DC 10 with 15. Action Surge adds a hit for 8 that breaks concentration, freeing the turtle, then another Great Weapon Master hit (16 to hit). The fiery cloak deals Ander 18 fire damage for the first three hits and 6 more for the fourth.",
               "evidence": [
                 {
                   "startUid": "u2670",
@@ -695,7 +696,8 @@
                   "startUid": "u2801",
                   "endUid": "u2818"
                 }
-              ]
+              ],
+              "note": "The table states that throws beyond 20 feet have disadvantage, then Ryu swims closer; the final range and any applied disadvantage are not explicitly resolved."
             },
             {
               "actor": "Fire mage",

@@ -23,7 +23,7 @@
         {
           "startUid": "u0044",
           "endUid": "u0049",
-          "quote": "Late morning."
+          "quote": "Ander: I think it's the late morning."
         },
         {
           "startUid": "u0012",
@@ -34,7 +34,10 @@
       "time": {
         "partOfDay": "late morning",
         "precision": "approximate",
-        "basis": "Stated narrative anchor."
+        "basis": "Late morning is spoken at the reunion; the opening narration independently supplies November, without a year or day.",
+        "date": {
+          "month": 11
+        }
       }
     },
     {
@@ -48,7 +51,7 @@
         {
           "startUid": "u0450",
           "endUid": "u0453",
-          "quote": "So the next morning, the cloudy grey but at least the rain has stopped."
+          "quote": "probably leave early the next morning, given that you have to go to town, come back all that. So the next morning, the cloudy grey but at least the rain has stopped."
         }
       ],
       "time": {
@@ -202,6 +205,11 @@
           "startUid": "u0937",
           "endUid": "u0939",
           "quote": "as you get up at the you know, the break of dawn"
+        },
+        {
+          "startUid": "u2657",
+          "endUid": "u2660",
+          "quote": "Because the when you use for the investigation check for the survival check with yesterday."
         }
       ],
       "time": {
@@ -210,7 +218,8 @@
         "basis": "Stated narrative anchor."
       },
       "dateBoundaries": 1,
-      "completion": "completed"
+      "completion": "completed",
+      "note": "The later inspiration correction confirms that the attack-site investigation was yesterday; it does not add another overnight."
     },
     {
       "id": "t08",
