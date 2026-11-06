@@ -16,4 +16,4 @@ participants:
 - {name: Kiya Nicoll, gameRole: Celyn, transcriptIdentifiers: []}
 # The retained email archive includes quoted reply history.
 # Extract each authored turn once before preparing new derived artifacts.
-# Existing prepared/cleaned text retains the earlier authored-turn segmentation.
+# Existing prepared text retains the earlier authored-turn segmentation.
