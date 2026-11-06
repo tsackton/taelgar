@@ -1,0 +1,2304 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-089/cleaned/dunmari-frontier-089-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "601aa88befbfedca284046fb9488dbc198911c0d1e877fc0ac26d13747810096"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-089/cleaned/dunmari-frontier-089-entity-map.json",
+      "sha256": "e9c20ef0800908ec9d75032cd65690487caa1edbe0bf7f5a005830841269db15"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Azogar tells the tale of the cloak",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "present"
+        }
+      ],
+      "source": {
+        "startUid": "u0014",
+        "endUid": "u0074"
+      },
+      "lines": [
+        "%% u0014:0-45, u0015:0-77, u0016:0-96 %%",
+        "DM: But as the night—as the time passes midnight, the fires died down and one of the old orcs, the loremaster Azogar stands up, and to the beat of the drums behind him he begins to chant the tale of the Cloak of the Rainbow.",
+        "",
+        "%% u0017:0-160, u0018:0-108, u0019:0-91 %%",
+        "DM: He tells—and this is the first time you've heard the whole story told in full—he tells of the first days of the people of the Rainbow, before there was a cloak, of Ilios the Bright, who fell through the world when he was just an infant, not yet chained to Thark's will, and grew strong in the fey realm of Amberglow under a sunset sky free of Thark's influence.",
+        "",
+        "%% u0020:0-138, u0021:0-31, u0022:0-65, u0023:0-137, u0024:0-24, u0025:0-32, u0026:0-27 %%",
+        "DM: How Ilios, the tale continues, had a fey energy that could not be contained. His eyes shone with moonlight, and his swords flashed silver, and he began to raid across the foothills of the sentinels, where small, disorganized orcs hid in family groups and tribes from the Drankorian patrols. And the people of the Rainbow grew in secret, protected by the Cloudspinner, as Ilios stole through the world, taking babies as they were born back to Amberglow with him.",
+        "",
+        "%% u0027:0-22, u0028:0-79, u0029:0-48, u0030:0-22, u0031:0-50, u0032:0-94 %%",
+        "DM: And then Azogar speaks of the blackness that tore out the sun, the rift through which darkness leaked, the invasion of Amberglow by a far distant evil, something of no world. And Ilios leapt through this blackness and severed the cords that held this rift open, trapping himself to an unknown fate, but saving Amberglow.",
+        "",
+        "%% u0033:0-15, u0034:0-92, u0035:0-39, u0036:0-85, u0037:0-79 %%",
+        "DM: And in exchange the Cloudspinner wove the cloak, each thread plucked from the immortal sunsets of Amberglow, each thread grasping the essence of the long pause of the splitting of the planes that created the Feywild, and wrapping that energy of pulling, separating into a cloak that cut the wearer from the divine.",
+        "",
+        "%% u0038:0-95, u0039:0-18, u0040:0-38 %%",
+        "DM: And then the story tells of the days in the world when the people of the rainbow ventured forth: quiet days, living the quiet lives of fields and flowers.",
+        "",
+        "%% u0041:0-73, u0042:0-58, u0043:0-38, u0044:0-27, u0045:0-37, u0046:0-133, u0047:0-70, u0048:0-75, u0049:0-36, u0050:0-26 %%",
+        "DM: And then Azogar turns grim and speaks the tale of Cha'mutte and Apollyon. Cha'mutte traveling among the Orcs, teaching them, telling telling them of the fate he sought for for all the orcs: everybody to be like the people of the rainbow, telling Apollyon of this dream of the cloak. And then the war and betrayal and loss, as Apollyon turned on the orcs, stole the cloak, and then Cha'mutte's revenge. But it was too late. The cloak was lost, the people scattered to the winds, hiding in small groups across the world, hiding from Thark as best they could until after the great war.",
+        "",
+        "%% u0051:0-22, u0052:0-123, u0053:0-72 %%",
+        "DM: The triumph of Uzgash! The cloak found. Xurkhaz, the land of the rising sun, the beacon of hope for Orcs across the world restored to its glory by the hero, Uzgash. He recovered the cloak from a hidden Dunmari fortress.",
+        "",
+        "%% u0054:0-67, u0055:0-51, u0056:0-24, u0057:0-90 %%",
+        "DM: And then Azogar adds to the story, the heroism of the dwarf Riswynn pacing the city, day after day after day after day. Never before the orcs of of the people of the Rainbow believed that the power of the divine could be used for good.",
+        "",
+        "%% u0058:0-4 %%",
+        "Seeker: Hmm!",
+        "",
+        "%% u0059:0-22 %%",
+        "DM: And yet it saved them.",
+        "",
+        "%% u0060:0-8, u0061:0-13, u0062:0-35, u0063:0-60, u0064:0-18, u0065:0-80, u0066:0-10 %%",
+        "DM: And then Lord Boulder, the hero of the battle for Uzgukhar. The Orc, standing and watching from the city—the ruined city— as out of nowhere, a giant siege engine that had destroyed their walls was shattered to pieces. One fell blow.",
+        "",
+        "%% u0067:0-17, u0068:0-23, u0069:0-60, u0070:0-29, u0071:0-15, u0072:0-36, u0073:0-25, u0074:0-41 %%",
+        "DM: And the tale ends on that note of triumph as Lubash stands there, the cloak shining bright behind him. The Orcs cheer, and there are many thanks and songs of praise late into the night. Songs, songs of gratitude for Riswynn, but also mostly for Riswynn.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: There's my",
+          "DM: Okay. We begin the night after the battle: the party in Uzgukhar, the ruined town. Everybody gathered around in the desert night, standing comforting each other, thanking you, unveiling the new statue of Riswynn, the hero of Uzgukhar, in the middle of middle of the the square, the like Hall of Ancestors, like the the memorial to all the orcs still enslaved by Thark's will that has a statue of a dwarven protector of the city."
+        ],
+        "after": [
+          "Seeker: Were they not aware of Grash?",
+          "DM: I mean, they",
+          "Unknown: Boo!",
+          "DM: Yeah. They knew they knew that Grash was there. I mean, he was leading the army.",
+          "Seeker: It's just interesting that it didn't figure into the story."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Seeker builds Lord Boulder’s memorial",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0094",
+        "endUid": "u0098"
+      },
+      "lines": [
+        "%% u0094:0-158, u0095:0-13, u0096:0-117 %%",
+        "Seeker: We've seen Seeker go—going back and forth between the ship and the and the battlefield, collecting fragments of Lord Boulder to make a shrine to him on board, with a plaque stating his merits and accomplishments with the idea that maybe one day he'll be animated to rise again into battle.",
+        "",
+        "%% u0096:117-165, u0097:0-143, u0098:0-272 %%",
+        "((Seedling care and ship artwork))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You",
+          "Kenzo: Who died? Wellby died, right? Well, yeah.",
+          "DM: Kenzo died. Did anyone else die or go unconscious? No, Seeker, I don't even think, got hit. Seeker,",
+          "Seeker: I took a lot of psychological damage.",
+          "Unknown: You"
+        ],
+        "after": [
+          "Kenzo: And the gardener we're picking up on the way back, the elven gardener, right?",
+          "DM: On the way back. You're you're picking up. Yes,",
+          "Kenzo: Okay, perfect",
+          "DM: And the elven gardener. But I think I'm gonna I'm gonna skip the elven gardener and we'll flash back to that scene later.",
+          "Kenzo: Okay, yeah, totally okay. Great. Yeah. So yeah, that's what that's what Kenzo has been been up to. And as he's, you know, recovering from battle."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Kenzo tends the elven seedling",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0094",
+        "endUid": "u0098"
+      },
+      "lines": [
+        "%% u0094:0-158, u0095:0-13, u0096:0-117 %%",
+        "((Lord Boulder’s memorial))",
+        "",
+        "%% u0096:117-165, u0097:0-143, u0098:0-272 %%",
+        "Kenzo: Kenzo is spending, spending this period of time: 2 main tasks. One: he's been caring for this this lovely little seedling that is now emerging from the the Elven—the the seed that had kind of popped off from his staff and is now tending to its, its early sapling form. ((Incidental discussion))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You",
+          "Kenzo: Who died? Wellby died, right? Well, yeah.",
+          "DM: Kenzo died. Did anyone else die or go unconscious? No, Seeker, I don't even think, got hit. Seeker,",
+          "Seeker: I took a lot of psychological damage.",
+          "Unknown: You"
+        ],
+        "after": [
+          "Kenzo: And the gardener we're picking up on the way back, the elven gardener, right?",
+          "DM: On the way back. You're you're picking up. Yes,",
+          "Kenzo: Okay, perfect",
+          "DM: And the elven gardener. But I think I'm gonna I'm gonna skip the elven gardener and we'll flash back to that scene later.",
+          "Kenzo: Okay, yeah, totally okay. Great. Yeah. So yeah, that's what that's what Kenzo has been been up to. And as he's, you know, recovering from battle."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Wellby brings Baxter out of the mirror",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0104",
+        "endUid": "u0105"
+      },
+      "lines": [
+        "%% u0104:0-239, u0105:0-19 %%",
+        "Wellby: But he's also gotten Baxter out of the mirror finally, again, after a long, long time, and is taking a lot of time hanging out with Baxter and getting back on and spending time just going out, riding around the city and exploring the area, jotting down notes.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: On the way back. You're you're picking up. Yes,",
+          "Kenzo: Okay, perfect",
+          "DM: And the elven gardener. But I think I'm gonna I'm gonna skip the elven gardener and we'll flash back to that scene later.",
+          "Kenzo: Okay, yeah, totally okay. Great. Yeah. So yeah, that's what that's what Kenzo has been been up to. And as he's, you know, recovering from battle.",
+          "Wellby: So, even after a day or 2, I think Wellby's not quite all the way back yet, like he's still sort of quiet and introspective, and thinking about that place in between worlds."
+        ],
+        "after": [
+          "Delwath: Delwath. I think maybe the first night he was sort of more part of the party a little bit—not, you know, wild party, but, you know, hanging out with the Orcs little bit talking, you know, being kind of part of the scene a little bit, and sort of enjoying the d—the sort of vibe of, ‘We succeeded, and this is like a big deal,’ and but he's kind of withdrawn after the first night a little bit, has been spending a lot of time on the ship, and sort of you know, goes and talks to the orcs a little bit, but seems a little bit maybe, like he's less comfortable with the role of with the attention, right as as",
+          "Delwath: Maybe in some other circumstances. You know, he's he's sort of been spending a lot of time, maybe actually hanging out with Kenzo a little bit, looking at the elf, talking about the elvish plants, and like he seems like he's still sort of processing his return to the— like, there was a lot of rush right after that, right? Came right back to this big battle, and but now that it's over, it's like he's sort of probably. Yeah. You might maybe ask Kenzo for a little help meditating, you know, like,",
+          "Kenzo: Wow! Is there? Is there an actual Kenzo Delwath friendship starting to blossom? Maybe this is—may—maybe peace is possible, you know. Yeah, Kenzo told. Yeah. You know, I think I think, especially as it relates to the tree, Kenzo is very you know, cognizant and and welcoming of of Delwath. And yeah, it's it's a it's. It's a group project taking care of the tree. So he's very. He's very grateful. And, you know, excited, very, very excited for this, this little little little little little bits of signs of life.",
+          "Unknown: Oh.",
+          "Kenzo: And we're all like we're all just making sure Baxter doesn't eat the tree like accident. He's always a predator."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Govir’s account of the cloak’s Dunmari custody",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0137",
+        "endUid": "u0158"
+      },
+      "lines": [
+        "%% u0137:0-21, u0138:0-26, u0139:0-24, u0140:0-75 %%",
+        "Seeker: And the detail in the tale that I wondered about that the cloak was found in a hidden Dunmari fort. Was that what it was? Did you know what that was?",
+        "",
+        "%% u0141:0-56 %%",
+        "DM: You did theoretically know this. You may have forgotten.",
+        "",
+        "%% u0142:0-9 %%",
+        "Seeker: I forgot.",
+        "",
+        "%% u0143:0-108 %%",
+        "DM: There—one of the letters you got. We showed that—we showed the cloak to the mirror, right? Yes, yeah, we did.",
+        "",
+        "%% u0144:0-23 %%",
+        "Delwath: Yeah, I did that. Okay.",
+        "",
+        "%% u0145:0-49 %%",
+        "Kenzo: I remember this history from the from the mirror.",
+        "",
+        "%% u0146:0-5 %%",
+        "Seeker: Okay.",
+        "",
+        "%% u0147:0-102 %%",
+        "DM: Some of the history you got from the mirror. And then Govir, the guy at the Archive sent you a letter.",
+        "",
+        "%% u0148:0-61, u0149:0-10, u0150:0-211, u0151:0-77, u0152:0-159, u0153:0-43, u0154:0-47, u0155:0-173, u0156:0-62, u0157:0-72 %%",
+        "DM: That said, you know, a hundred of years before the great war, there was, like, you know, there was a bunch of border skirmishes along the the sort of edge of the desolation of Drankor between the Dunmar and whatever random undead or something would come out of Drankor. And and they— there was some like paladins of Aagir, the like warrior god of the Dunmar who fought wraiths of Drankor, and brought sunlight to the dark places and scattered their meager, meager treasure. But one item of surpassing beauty they claimed: a cloak spun of thread of impossible color, vibrant reds and golds of the clouds at sunset. But despite its beauty, the mantle of silence seemed a thing of evil, for when he wore it he felt his power fade, and Aagir grew dim, and his head clouded and full of doubt, and it was locked in a vault in a fortress, a border fortress, along the sort of border of the protected southeastern border of Dunmar.",
+        "",
+        "%% u0158:0-65 %%",
+        "DM: You can look that up. It's the letter from Govir; it should be on—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: And",
+          "Delwath: Delwath at least is not. He's kind of anxious to be moving on, not so much that he would be like, Hey, guys, we gotta go. But like he would say. You know, we've had a we've had a little bit of time with the Orcs right? We've heard their stories.",
+          "Seeker: Might wanna consult on, you know, any masonry questions that they have, stonework repair, and we should stay long enough, like for Wellby to fully recover, which I think is mechanically, is like 4 days or something. That means a bunch of times in a row I can do like permanent Wall of Stone stuff, right? You can do like 4 or 5 wall if needed. Yeah, just totally fresh and new. Who should we scry, by the way?",
+          "Kenzo: Oh, and mirror stuff, too, right, you know. Just just Tim. I'll I'll Tim, I'll I'll make another. They make that. They're making this huge shrine for for Riswynn. But but Kenzo, Kenzo will also like record the stories of the you know, some of the more senior like kinda Orc folks, you know some of these lore and tales, and he'll he'll create some some figurines that he can give you can share with them.",
+          "Delwath: And when it's like sort of after the party, when it's less of a scene Delwath also is sort of looking for quiet moments. He's interested in the history of these orcs, and like certainly asks questions about, you know, to the degree they're open to sort of talking about story of like their origin in the Feywild, and"
+        ],
+        "after": [
+          "Seeker: Add one other question: is the thread that I received as a gift in the Feywild the same material that the cloak is made from?",
+          "DM: Not as fancy. But yes.",
+          "Seeker: Hmm!",
+          "DM: I mean it is. It's a thread of the cloud spinners.",
+          "Seeker: Just wonder if there's any implication of that or not. Maybe there's not. I could use it to I mean craft a tiny, tiny cloak."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Seeker’s thread and the cloak",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0159",
+        "endUid": "u0167"
+      },
+      "lines": [
+        "%% u0159:0-125 %%",
+        "Seeker: Add one other question: is the thread that I received as a gift in the Feywild the same material that the cloak is made from?",
+        "",
+        "%% u0160:0-22 %%",
+        "DM: Not as fancy. But yes.",
+        "",
+        "%% u0161:0-4 %%",
+        "Seeker: Hmm!",
+        "",
+        "%% u0162:0-50 %%",
+        "DM: I mean it is. It's a thread of the cloud spinners.",
+        "",
+        "%% u0163:0-73, u0164:0-51 %%",
+        "Seeker: Just wonder if there's any implication of that or not. Maybe there's not. I could use it to I mean craft a tiny, tiny cloak.",
+        "",
+        "%% u0164:51-112, u0165:0-52 %%",
+        "DM: Well, the idea was that one thread is a fairly valuable item. Right? And the cloak is thousands of threads. Right?",
+        "",
+        "%% u0166:0-6 %%",
+        "Unknown: You're",
+        "",
+        "%% u0167:0-12 %%",
+        "Seeker: That's cool.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: I remember this history from the from the mirror.",
+          "Seeker: Okay.",
+          "DM: Some of the history you got from the mirror. And then Govir, the guy at the Archive sent you a letter.",
+          "DM: That said, you know, a hundred of years before the great war, there was, like, you know, there was a bunch of border skirmishes along the the sort of edge of the desolation of Drankor between the Dunmar and whatever random undead or something would come out of Drankor. And and they— there was some like paladins of Aagir, the like warrior god of the Dunmar who fought wraiths of Drankor, and brought sunlight to the dark places and scattered their meager, meager treasure. But one item of surpassing beauty they claimed: a cloak spun of thread of impossible color, vibrant reds and golds of the clouds at sunset. But despite its beauty, the mantle of silence seemed a thing of evil, for when he wore it he felt his power fade, and Aagir grew dim, and his head clouded and full of doubt, and it was locked in a vault in a fortress, a border fortress, along the sort of border of the protected southeastern border of Dunmar.",
+          "DM: You can look that up. It's the letter from Govir; it should be on—"
+        ],
+        "after": [
+          "DM: So you spend—you spend, you know, a few days resting. The the the day before—the day before you are to leave, January 23rd—you're planning on leaving in the morning—is the Festival of the New Dawn. It's the Dunmari New Year's Day, that's—it's a day associated with Laka, and where it is thought that the sort of barriers between the past and the present and the future, and between this plane and the other planes grow weak.",
+          "Unknown: I'm",
+          "DM: So Kenzo maybe does something to mark it.",
+          "Kenzo: Yeah, the Orcs, this is, they're they're they're totally unfamiliar with all this. Right? So this would really just be [garbled], yeah, yeah. Kenzo. Well, so again, Kenzo is now given all of these experiences and exposures to different cultures and so on. He's starting to kind of think about his own take of these traditional Dunmari gods, and is really kind of starting to think about his own, like Jeet Kune Do of Dunmar like you know. Dunmari—what's the word? Not necessarily theism, but you know, he's he's he's building his own. He's building his own kind of school of thought and practice around this. Obviously, you know, he's been engaging a lot in the the Bhishma tradition of storytelling. So he's he's now, like, I think, actively trying to be like, ‘Well, what does this all mean to me? And what might—how might I impart, like, a a new way of thinking about how these gods all relate to each other in the world?’",
+          "Kenzo: So he takes the opportunity of this day, which is devoted nominally to Laka, but is now also has been, both in meditation and prayer, taking some of the traditional things that happen on this day. So there are some ceremonial aspects, and so on. See Kenzo, like on the the the deck of the ship kind of engaging in some some martial arts that reflect some of this, this physical embodiment of the spiritual that's happening. But he's also starting to like, you know, trying to fuck around with all this stuff like, how does like the Lizard folk, you know, kind of connections. And then the the Elven experiences. How do they all link together so? And this is also when we pick up that that new acolyte he's he's starting to like it's like a it's like a from in a Dragon: The Bruce Lee Story, when that black guy shows up in the at in the Oakland Dojo, and is like, Hey, I wanna be your first student. That's kinda like the moment that's happening right now, he's like formulating his own initial ideas and has got his first student that he's gonna start, like, you know, experimenting with. So yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Kenzo marks the Festival of the New Dawn",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0168",
+        "endUid": "u0191"
+      },
+      "lines": [
+        "%% u0168:0-53, u0169:0-23, u0170:0-139, u0171:0-22, u0172:0-61, u0173:0-124 %%",
+        "DM: So you spend—you spend, you know, a few days resting. The the the day before—the day before you are to leave, January 23rd—you're planning on leaving in the morning—is the Festival of the New Dawn. It's the Dunmari New Year's Day, that's—it's a day associated with Laka, and where it is thought that the sort of barriers between the past and the present and the future, and between this plane and the other planes grow weak.",
+        "",
+        "%% u0174:0-3 %%",
+        "((Pause and transition to the following morning))",
+        "",
+        "%% u0175:0-41 %%",
+        "DM: So Kenzo maybe does something to mark it.",
+        "",
+        "%% u0176:0-141, u0177:0-22, u0178:0-274, u0179:0-429, u0180:0-53 %%",
+        "Kenzo: Yeah, the Orcs, this is, they're they're they're totally unfamiliar with all this. Right? So this would really just be [garbled], yeah, yeah. Kenzo. Well, so again, Kenzo is now given all of these experiences and exposures to different cultures and so on. He's starting to kind of think about his own take of these traditional Dunmari gods, and is really kind of starting to think about his own, like Jeet Kune Do of Dunmar like you know. Dunmari—what's the word? Not necessarily theism, but you know, he's he's he's building his own. He's building his own kind of school of thought and practice around this. Obviously, you know, he's been engaging a lot in the the Bhishma tradition of storytelling. So he's he's now, like, I think, actively trying to be like, ‘Well, what does this all mean to me? And what might—how might I impart, like, a a new way of thinking about how these gods all relate to each other in the world?’",
+        "",
+        "%% u0181:0-293, u0182:0-467, u0183:0-337 %%",
+        "Kenzo: So he takes the opportunity of this day, which is devoted nominally to Laka, but is now also has been, both in meditation and prayer, taking some of the traditional things that happen on this day. So there are some ceremonial aspects, and so on. See Kenzo, like on the the the deck of the ship kind of engaging in some some martial arts that reflect some of this, this physical embodiment of the spiritual that's happening. But he's also starting to like, you know, trying to fuck around with all this stuff like, how does like the Lizard folk, you know, kind of connections. And then the the Elven experiences. How do they all link together so? ((Incidental discussion))",
+        "",
+        "%% u0183:337-356, u0184:0-42, u0185:0-219, u0186:0-183, u0187:0-101, u0188:0-116, u0189:0-173, u0190:0-252, u0191:0-99 %%",
+        "((Pause and transition to the following morning))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: I mean it is. It's a thread of the cloud spinners.",
+          "Seeker: Just wonder if there's any implication of that or not. Maybe there's not. I could use it to I mean craft a tiny, tiny cloak.",
+          "DM: Well, the idea was that one thread is a fairly valuable item. Right? And the cloak is thousands of threads. Right?",
+          "Unknown: You're",
+          "Seeker: That's cool."
+        ],
+        "after": [
+          "DM: But she approaches it, and she she's like glancing up at Vindristjarna as as she walks, and and she she approaches you, and she says, II heard—I heard a rumor. Maybe you're interested in a archivist or a loremaster to travel with you. I've been—I've lived here all my life. That's had it's moments of difficulty, but mostly joy. And I've always wanted to know about the Orcs, the other Orcs that are out there, the people of the Rainbow that might be scattered, or even other free Orcs who have found their own way to break Thark's bonds and seeing you, seeing—she sort of points over Riswynn—seeing this dwarf do so much by herself, and seeing the magic that you bring to smash that siege engine, the stories of your fight. Well, decided it was finally time to go out in the world. I've got books, I can maintain your library. I can build an archive if you'll have me with you.",
+          "DM: Her name's Nuzkar, by the way. This is my sister Aygul. She can—she can train with you if you need somebody to run a gym.",
+          "Delwath: Yes, Delwath sort of looks around, but seeing nobody objecting, he would sort of point at the ship. We have plenty of space. Currently we're hosting a—he pauses to think about a descriptive word for a minute, and he says, “Interesting dwarf!” But I forget his name. That's his name, right? And we expect several additional seekers and travelers to join us. But we would welcome your assistance.",
+          "Delwath: We have space for lore and would—would certainly, and",
+          "DM: One here"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Nuzkar and Aygul join the ship",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e022",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e024",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0181",
+        "endUid": "u0250"
+      },
+      "lines": [
+        "%% u0181:0-293, u0182:0-467, u0183:0-337 %%",
+        "((Kenzo’s preceding observances))",
+        "",
+        "%% u0183:337-356, u0184:0-42, u0185:0-219, u0186:0-183, u0187:0-101, u0188:0-116, u0189:0-173, u0190:0-252, u0191:0-99 %%",
+        "DM: So the next morning—period of rest and recovery and relaxation—as you prepare to leave, these 2 Orc women approach. They're probably, I don't know, in their fifties. They look like twins. One is—they're both wearing sort of colorful woven tunics, cloaks. They seem packed for travel. They both have sort of graying hair and and green skin. One looks kind of tough, you know, wiry, you know, obviously a little bit past her prime, but still clearly, like, in good shape, walking, carrying a staff, and she's got like 2 2 swords on her back, obviously not like some totally badass warrior, but like she could definitely take a punch and give a punch. The other seems more scholarly. She is— She's carrying a a like a pack that looks heavy with some books, and she's got a satchel with some collections of papers. And she's the one who speaks as she approaches you. Kinda just, you know. Obviously your you know your stories have spread. You've gotten quite famous. I mean Riswynn more than the rest of you but Riswynn's been here a while, so you're like the the new heroes as opposed to the hero that everybody knows. So it's been a bunch of people who have sort of come up and like thanked you and and talked to you.",
+        "",
+        "%% u0192:0-99, u0193:0-32, u0194:0-100, u0195:0-55, u0196:0-247, u0197:0-62, u0198:0-44, u0199:0-85, u0200:0-51, u0201:0-77, u0202:0-17 %%",
+        "DM: But she approaches it, and she she's like glancing up at Vindristjarna as as she walks, and and she she approaches you, and she says, II heard—I heard a rumor. Maybe you're interested in a archivist or a loremaster to travel with you. I've been—I've lived here all my life. That's had it's moments of difficulty, but mostly joy. And I've always wanted to know about the Orcs, the other Orcs that are out there, the people of the Rainbow that might be scattered, or even other free Orcs who have found their own way to break Thark's bonds and seeing you, seeing—she sort of points over Riswynn—seeing this dwarf do so much by herself, and seeing the magic that you bring to smash that siege engine, the stories of your fight. Well, decided it was finally time to go out in the world. I've got books, I can maintain your library. I can build an archive if you'll have me with you.",
+        "",
+        "%% u0203:0-122 %%",
+        "DM: Her name's Nuzkar, by the way. This is my sister Aygul. She can—she can train with you if you need somebody to run a gym.",
+        "",
+        "%% u0204:0-63, u0205:0-60, u0206:0-25, u0207:0-70, u0208:0-18, u0209:0-45, u0210:0-32, u0211:0-33, u0212:0-25, u0213:0-11 %%",
+        "Delwath: Yes, Delwath sort of looks around, but seeing nobody objecting, he would sort of point at the ship. We have plenty of space. ((Incidental discussion)) But we would welcome your assistance.",
+        "",
+        "%% u0214:0-17, u0215:0-35 %%",
+        "Delwath: We have space for lore and would—would certainly, and",
+        "",
+        "%% u0216:0-8 %%",
+        "DM: One here",
+        "",
+        "%% u0217:0-69, u0218:0-102, u0219:0-47 %%",
+        "Delwath: Appreciate any knowledge that you could share with us as we journey. And I'm sure your—looks kind of—did, wait, did she introduce the other orc as her sister? I forget. And and your sister, of course, be welcome as well.",
+        "",
+        "%% u0220:0-10, u0221:0-64, u0222:0-55, u0223:0-81 %%",
+        "DM: Wonderful. She looks over at her sister, who sort of just gives a quiet nod. Yep. I will unpack. Aygul's got another trunk of books. If there's a space I could—I could set up, maybe as a little library. Of course.",
+        "",
+        "%% u0224:0-47, u0225:0-32 %%",
+        "Delwath: I'm sure you are aware you might encounter some difficulties in the wider world.",
+        "",
+        "%% u0226:0-66, u0227:0-30, u0228:0-74 %%",
+        "DM: It is to be expected. Not everybody knows the truth of our people. Yep. Maybe we can change that. And she looks up at the ship. Don't think anybody's gonna mess with that.",
+        "",
+        "%% u0229:0-25 %%",
+        "Delwath: It's true you'd think so.",
+        "",
+        "%% u0230:0-12 %%",
+        "Wellby: You hope so.",
+        "",
+        "%% u0231:0-19 %%",
+        "Seeker: Complex situations.",
+        "",
+        "%% u0232:0-32 %%",
+        "Delwath: Our first destination is Tollen.",
+        "",
+        "%% u0233:0-8, u0234:0-29, u0235:0-80 %%",
+        "DM: Perhaps that would be a good place to acquire some more books and and and lore. That would be quite interesting to me.",
+        "",
+        "%% u0236:0-51 %%",
+        "Delwath: Don’t know if I'm quite up for shopping myself, but—",
+        "",
+        "%% u0237:0-15 %%",
+        "DM: I can organize.",
+        "",
+        "%% u0238:0-68 %%",
+        "Seeker: Take notes. You might be interested to meet the Philosopher's Guild.",
+        "",
+        "%% u0239:0-24 %%",
+        "Delwath: I was just thinking that",
+        "",
+        "%% u0240:0-32 %%",
+        "DM: Not heard of them. Who are they?",
+        "",
+        "%% u0241:0-114, u0242:0-37 %%",
+        "Seeker: They know—good question. They're mysterious. They know a surprising amount, and will divulge a lot in exchange for magical items which we happen to have",
+        "",
+        "%% u0243:0-12 %%",
+        "DM: Fascinating.",
+        "",
+        "%% u0244:0-30, u0245:0-33 %%",
+        "Delwath: I'll show I'll show her to our crew quarters on the second floor",
+        "",
+        "%% u0246:0-160, u0247:0-166, u0248:0-149, u0249:0-26, u0250:0-14 %%",
+        "DM: Clambers up, and her sister's carrying, like, you know, like training gear, and also like this, big like, clearly strong enough to carry this big chest of books as as they both both walk off, and and once they're sort of settled, she like comes down before she leaves. You can see she's giving hugs to this like large family of orcish like 20 somethings, and and you know a couple of teenagers who all seem to be—they're all like waving to her, waving goodbye, like, you know. Stay safe! Come back to us as you depart.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: That's cool.",
+          "DM: So you spend—you spend, you know, a few days resting. The the the day before—the day before you are to leave, January 23rd—you're planning on leaving in the morning—is the Festival of the New Dawn. It's the Dunmari New Year's Day, that's—it's a day associated with Laka, and where it is thought that the sort of barriers between the past and the present and the future, and between this plane and the other planes grow weak.",
+          "Unknown: I'm",
+          "DM: So Kenzo maybe does something to mark it.",
+          "Kenzo: Yeah, the Orcs, this is, they're they're they're totally unfamiliar with all this. Right? So this would really just be [garbled], yeah, yeah. Kenzo. Well, so again, Kenzo is now given all of these experiences and exposures to different cultures and so on. He's starting to kind of think about his own take of these traditional Dunmari gods, and is really kind of starting to think about his own, like Jeet Kune Do of Dunmar like you know. Dunmari—what's the word? Not necessarily theism, but you know, he's he's he's building his own. He's building his own kind of school of thought and practice around this. Obviously, you know, he's been engaging a lot in the the Bhishma tradition of storytelling. So he's he's now, like, I think, actively trying to be like, ‘Well, what does this all mean to me? And what might—how might I impart, like, a a new way of thinking about how these gods all relate to each other in the world?’"
+        ],
+        "after": [
+          "DM: For the next couple of days you fly across the desert. The 24th, in the evening, you pass across the the track that you flew 2 months ago now, almost as you were flying here for the first time ahead of Grash's armies.",
+          "Kenzo: Hey, Tim. What's did we? Just what's what's the date in the game?",
+          "DM: January 25th.",
+          "Kenzo: Okay, alright.",
+          "Kenzo: I was wondering what to, like, real—from real time, game time. Yeah. Okay."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "The Guild’s five jade clues and the Writhing Chaos",
+      "entities": [
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e024",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e027",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e028",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e029",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e030",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e032",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e026",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e033",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e034",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e035",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e036",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e037",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0280",
+        "endUid": "u0416"
+      },
+      "lines": [
+        "%% u0280:0-120, u0281:0-81, u0282:0-59 %%",
+        "DM: So as you're flying over, Kharsan, I still have to do the thing I was gonna do first, and then you can do Kharsan. Okay. A little piece of paper begins to float, you see, approaching you on the horizon, flying, it flies straight to Kenzo. I'm sending you a text.",
+        "",
+        "%% u0283:0-8, u0284:0-201, u0285:0-87 %%",
+        "Kenzo: Oh, boy! Oh, geez! Is this something that, like, I receive a written—like, does it, the bird fold into a message? Or is it like telling me something? Yeah, Kenzo—Kenzo receives this note from this bird, and then you see him, you know, start to read out loud aloud, with a look of concern on his face.",
+        "",
+        "%% u0286:0-106 %%",
+        "((Planning and incidental discussion))",
+        "",
+        "%% u0287:0-82, u0288:0-50 %%",
+        "DM: No, this is presumably the last—this is the last of your 3 Philosopher's Guild's. This is the “where the pieces of Rai are” questions.",
+        "",
+        "%% u0289:0-11 %%",
+        "((Planning and incidental discussion))",
+        "",
+        "%% u0290:0-32, u0291:0-24 %%",
+        "Kenzo: Huh. The writhing chaos consumes. The writhing chaos sees.",
+        "",
+        "%% u0292:0-25 %%",
+        "Seeker: The writhing chaos speaks.",
+        "",
+        "%% u0293:0-205, u0294:0-50, u0295:0-42, u0296:0-12, u0297:0-25 %%",
+        "Kenzo: A glittering green thing, smooth jade, hanging on the neck of a man. The man spars with another man, practicing forms while standing over Arborea. The man stands in a jungle, untangling the chains of the dead. A man moves in a grove of trees, fighting a witch. The jade lies in the desert, dry and dusty. Jade holds. A glittering green thing.",
+        "",
+        "%% u0298:0-103, u0299:0-190, u0300:0-66, u0301:0-96 %%",
+        "Kenzo: Presumably those are the—that's right. It's not Rai, Kenzo. Yeah. A glittering green thing, smooth jade nestled around the neck of a woman. The woman sleeps and dreams and eats and prays in a place that is elsewhere and nowhere, and ancient and ancient and new, a forest wrapped in nothingness. The woman is a man standing in the northern reaches of Alcarinque. The woman is a man is a tree, a great tree, the tree, and the jade is its heart. The jade grasps.",
+        "",
+        "%% u0302:0-65 %%",
+        "Kenzo: So these are all different vignettes of different pieces of jade.",
+        "",
+        "%% u0303:0-23, u0304:0-73 %%",
+        "Delwath: But wait, was there one we didn't—did we see any when none of those were under water, were they?",
+        "",
+        "%% u0305:0-70, u0306:0-97, u0307:0-53 %%",
+        "Kenzo: The most recent one, I think, is the second piece that we got from the—while the woman is a man is a tree, a great tree, the tree in the jade is its heart. Was that the— The second piece we got from the the indigen—that the—",
+        "",
+        "%% u0308:0-8 %%",
+        "DM: Deno'qai.",
+        "",
+        "%% u0309:0-20 %%",
+        "Kenzo: With the other tree.",
+        "",
+        "%% u0310:0-60 %%",
+        "Seeker: Yes, what was the question we asked to get this information?",
+        "",
+        "%% u0311:0-29, u0312:0-21 %%",
+        "Kenzo: Where where are the pieces of Rai's, of Rai's hand.",
+        "",
+        "%% u0313:0-109, u0314:0-126, u0315:0-64, u0316:0-47, u0317:0-5, u0318:0-15 %%",
+        "((Planning and incidental discussion))",
+        "",
+        "%% u0319:0-128 %%",
+        "Kenzo: Let me finish reading the whole. Oh, yeah, there's there's there's 5 pieces. Each one is presumably going to get a little. Okay.",
+        "",
+        "%% u0320:0-62 %%",
+        "Riswynn: Wait. Were there were those 2 distinct things you read so far.",
+        "",
+        "%% u0321:0-121 %%",
+        "Kenzo: Correct. First one, presumably, is is about Kenzo's piece, and then a little second one, I think, was about the Deno'qai.",
+        "",
+        "%% u0322:0-40 %%",
+        "Kenzo: It's a third one, because Rai, currently—",
+        "",
+        "%% u0323:0-18 %%",
+        "Delwath: Yeah, yeah. Third.",
+        "",
+        "%% u0324:0-103, u0325:0-74 %%",
+        "Kenzo: ((Incidental discussion)) Oh, sorry. A glittering green thing, smooth jade, is sitting in a lead box",
+        "",
+        "%% u0326:0-45 %%",
+        "Seeker: In a cabinet in a study. ((Incidental discussion))",
+        "",
+        "%% u0327:0-26 %%",
+        "Delwath: That's the Ursk one, I bet",
+        "",
+        "%% u0328:0-273, u0329:0-89, u0330:0-18, u0331:0-144, u0332:0-16 %%",
+        "Kenzo: The study burns with brilliant light, filled with the lake of magic, the icy cold of the land held at bay by the magic in the stone. The study is a compound, a headquarters, a bloodline of magic. The study is a man holding the jade, fiery manacles around his legs, pleading, a man walking across mountains, a man speaking to a deer, a man running and running back. The study is a man is a man, an eruption of power, held in check by equations and geometries of magic, standing in a village in a forest clearing, taking the jade. The jade breaks.",
+        "",
+        "%% u0333:0-31, u0334:0-16 %%",
+        "Delwath: I mean, that's definitely Ursk. Great White. But—",
+        "",
+        "%% u0335:0-148 %%",
+        "((Planning and incidental discussion))",
+        "",
+        "%% u0336:0-143, u0337:0-4, u0338:0-122, u0339:0-59, u0340:0-206 %%",
+        "Kenzo: A glittering green thing, smooth jade, sparkling on the brow of a merfolk. ((Incidental discussion)) The merfolk swims and takes and reaps. The merfolk gloats over the waves of the elemental sea, the echoes of Water Eternal. The merfolk commands, the jade resists, but is overwhelmed. The merfolk is a merfolk at peace among kelp forests, singing to the jade, watching the light change through the vast undersea forests. The merfolk is a merfolk slaughtering, taking the jade. The jade cries.",
+        "",
+        "%% u0341:0-96, u0342:0-162 %%",
+        "Delwath: So that each one ends with like the jade grasps the jade holds the jade, breaks, the jade cries. Are they going backwards, too? They're not in chronological order. Chronicle—chronological, chronological order, ending with the the current state of where it is.",
+        "",
+        "%% u0343:0-9 %%",
+        "Seeker: Or is it?",
+        "",
+        "%% u0344:0-51 %%",
+        "Delwath: No, I think it's in reverse. Look at the Kenzo one.",
+        "",
+        "%% u0345:0-61 %%",
+        "Seeker: Yeah, thank you, Tim. Didn't the Kenzo one end with it being.",
+        "",
+        "%% u0346:0-130 %%",
+        "Kenzo: Oh, yeah, it is. It is a backward is backwards. Yeah. Jade lies in the desert, dry and dusty. That's right. They're reverse. Okay.",
+        "",
+        "%% u0347:0-36 %%",
+        "((Planning and incidental discussion))",
+        "",
+        "%% u0348:0-88 %%",
+        "Kenzo: ((Incidental discussion)) a glittering green thing, smooth jade, lost beneath a vibrant jungle.",
+        "",
+        "%% u0349:0-56, u0350:0-175, u0351:0-54 %%",
+        "Kenzo: The jungle is rotting and thriving, overgrown and barren—contradictions, full of wonder and danger, vitality and death. The jungle is a vast landscape of rich villages and productive farms. The jungle is a desolation of choking air. The jungle is a battlefield, the jungle is Alcarinque.",
+        "",
+        "%% u0352:0-19 %%",
+        "DM: That's the ancient.",
+        "",
+        "%% u0353:0-68 %%",
+        "Kenzo: The jade is buried, quiet, not yet found, to be found. The jade seeks.",
+        "",
+        "%% u0354:0-79, u0355:0-17, u0356:0-59, u0357:0-127, u0358:0-30, u0359:0-39, u0360:0-72, u0361:0-408 %%",
+        "((Planning and incidental discussion))",
+        "",
+        "%% u0362:0-95, u0363:0-169, u0364:0-49, u0365:0-154, u0366:0-157, u0367:0-91 %%",
+        "Kenzo: ((Incidental discussion)) All right. And then, finally, the jade is a hand. So this is—there's an interesting, like, timelessness to this little message. The jade is a hand. The jade grasps, imprisoning. The hand holds, silencing. The hand breaks and breaks and breaks and breaks and breaks. 5 breaks, 5 pieces. Souls cry and are consumed by the thing it held. The jade seeks to be whole. The writhing chaos is silent, the writhing chaos is finished, the writhing chaos is asleep.",
+        "",
+        "%% u0368:0-84, u0369:0-46, u0370:0-3, u0371:0-52 %%",
+        "((Planning and incidental discussion))",
+        "",
+        "%% u0372:0-23 %%",
+        "Seeker: What is writhing chaos?",
+        "",
+        "%% u0373:0-22 %%",
+        "Kenzo: I think it's Apollyon.",
+        "",
+        "%% u0374:0-46, u0375:0-9, u0376:0-94, u0377:0-72, u0378:0-13 %%",
+        "Seeker: II would guess it's some elemental situations. It's like, the Philosopher's Guild isn't gonna talk to Apollyon for, yeah, information about this stuff. But they might talk to like some elemental that's just been everywhere. But who would",
+        "",
+        "%% u0379:0-113 %%",
+        "Kenzo: II think our our, I think, like this all being the traveler is some shit, you know. It's like some. The fuck man.",
+        "",
+        "%% u0380:0-23, u0381:0-75, u0382:0-16, u0383:0-105, u0384:0-50, u0385:0-56, u0386:0-24, u0387:0-48, u0388:0-4, u0389:0-28, u0390:0-88, u0391:0-32, u0392:0-49, u0393:0-22, u0394:0-82, u0395:0-193, u0396:0-16, u0397:0-46, u0398:0-19, u0399:0-28 %%",
+        "((Planning and incidental discussion))",
+        "",
+        "%% u0400:0-17, u0401:0-172 %%",
+        "Wellby: So to me it seems—this whole thing just seems deeply strange for communication from the Philosopher's Guild. Like, this doesn't match the way they've communicated in the other letters, right?",
+        "",
+        "%% u0402:0-116 %%",
+        "Seeker: Well, does it? What—what were the other letters like? So there's the binding stones one, which is sort of very, like—",
+        "",
+        "%% u0403:0-31 %%",
+        "Delwath: Historical and technical. Yeah.",
+        "",
+        "%% u0404:0-54, u0405:0-58 %%",
+        "Seeker: Oh, it was. It's from the ninth artificer on behalf of the guild of Philosophers. So it seems like they they have",
+        "",
+        "%% u0406:0-9, u0407:0-166 %%",
+        "Delwath: Contract. So if they have different specialists who contract out, some of them have particular writing styles. It's possible, right? Yeah, they're just a little bit less human.",
+        "",
+        "%% u0408:0-22 %%",
+        "Riswynn: It's a guild. Weirdly.",
+        "",
+        "%% u0409:0-119 %%",
+        "DM: I mean, you asked for something that would have been—that is very, very difficult to know by any normal means, right? So—",
+        "",
+        "%% u0410:0-110 %%",
+        "Delwath: Right? They asked some strange creature, and got a strange answer, right? That that part doesn't seem strange.",
+        "",
+        "%% u0411:0-154 %%",
+        "Wellby: But like the lack of commentary like, Hey? We asked a strange creature. And here's what we heard back. It sure sounds weird, but this is what we got like.",
+        "",
+        "%% u0412:0-61, u0413:0-16 %%",
+        "Delwath: I don't know. I I'm kind of expecting that of that right like maybe maybe not.",
+        "",
+        "%% u0414:0-176, u0415:0-72, u0416:0-45 %%",
+        "DM: I mean, don't—this is clearly from the Philosopher's Guild, right? Like, these magic paper birds have a very, like, distinctive—that seems like it would be very difficult to forge. You don't have any doubt that this is a genuine communication from them. Exactly what it means, of course, less clear.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: I mean, there's no orcs. Is that structure still there, right? The structure is still there. There is still—so Kharsan always had this, this sort of rumors about the Red Death clung to it, and the the you know, as a place of nightmares and things like that But it—it does not. It looks fairly quiet. Are you prepared for our entire side quest where we go explore Kharsan for the rest of the session? I have a ton of notes from Kharsan from 2 years ago. I just have to open OneNote instead of Obsidian.",
+          "Delwath: Well, I kind of feel like we. Really, I'm just thinking, like as I say, that, shouldn't we do this?",
+          "Kenzo: Well, it just makes a lot of logical sense. If this was like the the home of like we would go, and just like, make sure there's no like secret plan like that would be cool if we found some like, you know, like text messages between Grash and Apollyon, you know, on some hard drive, someplace, and I mean, like, in game, it would make a lot of sense for us to know. Like flying over Kharsan, we should really stop right? We should really stop. We really should stop",
+          "Wellby: Kate's on circle. Of course we should stop",
+          "Seeker: Cause we we scried inside. That was the one time we saw."
+        ],
+        "after": [
+          "DM: Maybe this will take you less time than the 2 years of that god that was hiding in the ring for the pay off on this one. We'll see.",
+          "Seeker: I mean, how we have the scholar ship, so—",
+          "DM: Anyway, as you all discuss that, you still want to go into Kharsan?",
+          "Unknown: I really think we do.",
+          "Seeker: I mean, just for a minute, you know. Check out a a day or 2."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The message shifts between bearers and poetic identities; local roles preserve its reported framing without resolving those identities."
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Faldrak asks to fly the ship and recalls the wraiths",
+      "entities": [
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0532",
+        "endUid": "u0580"
+      },
+      "lines": [
+        "%% u0532:0-70, u0533:0-30, u0534:0-36, u0535:0-23, u0536:0-76, u0537:0-30, u0538:0-46, u0539:0-62 %%",
+        "DM: So as you're—as you're discussing this, Faldrak comes out, and he says, I love your style. Guess what? This would be a perfect time for you to let me fly the ship. Then you could just teleport down. You wouldn't have to land anything at all. Promised I would keep it safe. And your bridge can bring you back at any time. Is a really good idea, Seeker, and I think you should approve.",
+        "",
+        "%% u0540:0-34, u0541:0-148 %%",
+        "Seeker: I appreciate your enthusiasm here. It's good to know they're interested in flying the ship. We can do some training sessions, and we'll—we're gonna ease into it. This particular spot—",
+        "",
+        "%% u0542:0-21 %%",
+        "DM: How hard could it be?",
+        "",
+        "%% u0543:0-99 %%",
+        "Seeker: Is not the best place. We—we don't really know what's down there. That's why we're going down there.",
+        "",
+        "%% u0544:0-43, u0545:0-31 %%",
+        "Delwath: Kenzo is much more talented than they look. It's much harder than it seems.",
+        "",
+        "%% u0546:0-75, u0547:0-79 %%",
+        "DM: There is nothing down there that's gonna hurt the people who killed Grash. I mean, come on, who do you take yourselves for? I'm, like, totally convinced now.",
+        "",
+        "%% u0548:0-56 %%",
+        "Seeker: I was skeptical, I must admit, when I first met you, but",
+        "",
+        "%% u0549:0-110, u0550:0-7, u0551:0-10, u0552:0-30, u0553:0-26 %%",
+        "((Discussion of earlier cities and the proposed exploration))",
+        "",
+        "%% u0554:0-62 %%",
+        "Wellby: Maybe what? Maybe you should come with us to explore the city.",
+        "",
+        "%% u0555:0-112 %%",
+        "Seeker: It's it's actually a pretty interesting place, a lot of history there. This was Grash's headquarters for a time.",
+        "",
+        "%% u0556:0-62 %%",
+        "DM: And you're sure he didn't leave any undead behind to guard it?",
+        "",
+        "%% u0557:0-45 %%",
+        "Wellby: No, we we don't actually have the first clue.",
+        "",
+        "%% u0558:0-37 %%",
+        "DM: I kind of have a thing about undead.",
+        "",
+        "%% u0559:0-9 %%",
+        "Seeker: Oh, yeah.",
+        "",
+        "%% u0560:0-52, u0561:0-49 %%",
+        "DM: What—what kind of—how do you think I got this limp? Did I tell you that story? I told you that story?",
+        "",
+        "%% u0562:0-16 %%",
+        "Kenzo: Necrotic wounds?",
+        "",
+        "%% u0563:0-5, u0564:0-9, u0565:0-59 %%",
+        "DM: Yeah. A wraith. Actually 6 wraiths. I probably could have handled just one.",
+        "",
+        "%% u0566:0-4 %%",
+        "Seeker: Hmm!",
+        "",
+        "%% u0567:0-49 %%",
+        "DM: Give me the creeps. They fly through you. I mean—",
+        "",
+        "%% u0568:0-9 %%",
+        "Seeker: Horrible!",
+        "",
+        "%% u0569:0-13, u0570:0-24, u0571:0-90 %%",
+        "DM: Worst feeling just that horrible cold. So if there's undead down there, even more reason you should let me stay and fly the ship.",
+        "",
+        "%% u0572:0-58, u0573:0-3, u0574:0-28 %%",
+        "Seeker: Well, you're welcome to stay on the ship, that's for sure. And if we use the Rainbow Bridge—",
+        "",
+        "%% u0575:0-107, u0576:0-32 %%",
+        "DM: Takes his cane and kind of storms off in a huff, muttering, ‘He'll let you do it one day, Faldrak, I promise.’ ‘Don't worry. He'll let you do it.’",
+        "",
+        "%% u0577:0-68, u0578:0-19, u0579:0-79, u0580:0-62 %%",
+        "Seeker: Himself in the third person, or is, like, the spirit that is—yeah. We— don't worry, Kenzo. We gotta eat—if Faldrak needs to poke at things and try them out, I can relate. We're not gonna—he's not gonna be the captain all of a sudden.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Well, you have no idea when they learn that about the Orcs of Uzgukhar, like?",
+          "Delwath: But they knew earlier than we, I mean, they knew, since we knew that Grash",
+          "DM: They knew, since he knew about Grash. But maybe that's why Grash came to Kharsan in the first place, as a staging ground for a war to the East. He had only been there for about 9 months when you when you came the first time, which is like a year and 6 months since. Now—",
+          "Kenzo: It's worth like landing and exploring, we definitely should. We should all roll investigation checks with bardic inspiration and try to find, like random, cool, shit secret doors. And like, II think. Yes, I think we should land and explore the palace absolutely. But like 5 of them. I was dead 4 days ago. We're—we're—we're in great shape where this is—this is, like, the—yeah, we deserve a chance to explore a little bit.",
+          "Riswynn: Yeah."
+        ],
+        "after": [
+          "Kenzo: Okay.",
+          "DM: I mean, you can teleport down, obviously with the with the Rainbow bridge. So yes.",
+          "Seeker: Right. And then I can stay without moving it around.",
+          "DM: Leave it, right? You can leave it parked wherever you want, as long as you're attuned to it. It can be parked in the sky. It's just if you lose attunement while it's parked in the sky, it will crash",
+          "Delwath: Right? Let's not do that."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Delwath recalls the armband’s destruction",
+      "entities": [
+        {
+          "id": "e040",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0661",
+        "endUid": "u0664"
+      },
+      "lines": [
+        "%% u0661:0-103, u0662:0-50, u0663:0-50, u0664:0-93 %%",
+        "Delwath: Okay, maybe when we're leaving, I'll sort of—although the mystery is solved as to why it was here. So— But why I’m here—randomness, as far as I can tell. It it it this Deno'qai fire Druid cracked open the—destroyed the armband that had teleported Delwath to another plane, which is why he escaped.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: It seemed to be a spell.",
+          "Seeker: Hmm!",
+          "Kenzo: I'm just wondering if there's any object or thing that we can find that will help give us more clues about Apollyon. You know very well could be. So, for anything like that, like any cool shit that I think would show the mirror.",
+          "Delwath: I'm also interested in anything that would have predated that Kharsan's fall, right? Like, are there secret Dunmari passages here that we could find, or, like, just old stuff that would be interesting? Also, Delwath is going to—really, I would like to go—Delwath fell from the sky right here, right?",
+          "DM: Yeah, among the samraat tombs."
+        ],
+        "after": [
+          "Delwath: But I'll do detect magic, too, just as part of",
+          "Riswynn: Thank you.",
+          "Delwath: And really looking for like signs of yeah, Grash's command infrastructure.",
+          "DM: So you're—sorry, you're going to the stables, the main palace, the store room. I think we're gonna—",
+          "Delwath: I think we're gonna stick together for now. Right? But go sort of to the stable first, maybe, and then the main palace, and then the store rooms, right? Like, just one by one."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Grash kept no helpful written plans",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0719",
+        "endUid": "u0724"
+      },
+      "lines": [
+        "%% u0719:0-94, u0720:0-7, u0721:0-210 %%",
+        "DM: I mean, you get the sense from looting the Army camp that Grash was not really one, for, like writing stuff down. Like, he didn't have a log book, he didn't have, like—this is not Urgall the Black. He wasn't, like, leaving messages to himself in the cipher or drawing helpful battle plans. Kept everything in his head.",
+        "",
+        "%% u0722:0-4, u0723:0-43, u0724:0-69 %%",
+        "((Plans to use the mirror))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: But those were the shadows that were outside the walls.",
+          "DM: A huge pack of shadow that were waiting to attack",
+          "Seeker: City at night",
+          "DM: With him.",
+          "Seeker: But it's not like those need to live in a stable or something."
+        ],
+        "after": [
+          "Kenzo: Even, like, a wall. There's, like, a—like a something with an inscription on it and carved or— finding anything useful. Tim.",
+          "DM: Well, you've searched the stables. You're going into the palace now.",
+          "Delwath: Yeah.",
+          "DM: Okay. So so you head into the palace. The palace is is more intact. The the upper floors are are somewhat ruined. And the roof is not intact. It's, like, cracked in places, and there's a lot of damage on the upper floors, but the Bop—bottom floor is completely intact, and so you enter, and you sort of step in. As you first enter the palace, you—you step into this sort of—what—the— foyer sort of entryway that leads into this great hall, which was clearly, like, the center of the palace life. This is where Grash—this is where you saw Grash when you clairvoyed him, you know, 7 months ago. This is more than that, like 9, 10 months ago, almost a year ago.",
+          "DM: This is where, you know, long ago, when the Dunmari occupied this, this would have been like where the the samraat had audiences and you could—and there's like—there's—there's, like, a throne, basically, that Grash sat on. No other furniture. You do see a number of kind of not not exactly like rubble, but like—like there was probably tables and stuff here once that were kind of broken up and and pushed to the sides. But otherwise this room is fairly empty. There's doors that lead east and west."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "The broken wand, sword and saddle",
+      "entities": [
+        {
+          "id": "e041",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e042",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e043",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0878",
+        "endUid": "u0902"
+      },
+      "lines": [
+        "%% u0878:0-106, u0879:0-54, u0880:0-146, u0881:0-47, u0882:0-34, u0883:0-41, u0884:0-37, u0885:0-19, u0886:0-116, u0887:0-10 %%",
+        "DM: Looking around, Wellby, you do notice a couple of things that seem slightly more interesting than typical. One is that there is a wand that's been broken in half. The other is that there is—looks like was once a, you know, was a sword of some kind, a fairly nice sword. But the blade has been dulled, and the pommel's been snapped off, so it's just a blade. And the third is what looks like a— was at 1 point was a nice leather saddle. But it's been, seemingly with at great effort—not easily. It's been cut into 4 pieces. There's, like, the jagged edge of the cuts is slightly scarred with this, what looks like almost rot.",
+        "",
+        "%% u0888:0-48, u0889:0-23 %%",
+        "Delwath: Were these once magical? Is that the implication? Are they magical still?",
+        "",
+        "%% u0890:0-51 %%",
+        "DM: Seem not to be. The blade is—the blade is magical.",
+        "",
+        "%% u0891:0-116, u0892:0-338 %%",
+        "Delwath: ((Incidental discussion)) Is there any conceivable, like, historical significance? Was just like the saddle of the first King of Dunmar that was being ritually destroyed, or something like that?",
+        "",
+        "%% u0893:0-20 %%",
+        "DM: The sword, possibly.",
+        "",
+        "%% u0894:0-20 %%",
+        "Delwath: I mean mirror right.",
+        "",
+        "%% u0895:0-27 %%",
+        "DM: There is always the mirror.",
+        "",
+        "%% u0896:0-9, u0897:0-47, u0898:0-46, u0899:0-55, u0900:0-26 %%",
+        "((Speculation about smaller wands))",
+        "",
+        "%% u0901:0-65, u0902:0-91 %%",
+        "Delwath: But, yeah, like, why would Grash have them destroying magic items? Maybe this—maybe we should look at this. And maybe this would be a good mirror. Just, yeah.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: But well, keep it in mind. Delwath's like idly pick up the most interesting kitchen implement. Just because, you know, kitchens are interesting just in just in case. Right? Yeah, like a good spatula, like, I don't know. Good good spoon or good spatula. Those are hard to come by, you know. There's a nice set of wooden spoons. That sounds great. We'll take some wooden spoons.",
+          "Kenzo: Wait! Hold on! Hold on! Before Kharsan was overrun by Orcs, who was here? Was it humans",
+          "DM: Was Dunmari, it's where Dunmar was founded. It's like the founding capital city of Dunmar.",
+          "Kenzo: Oh, wow. Cool.",
+          "DM: Let's—let's keep going. Yeah. So you go south? And there's a there's a complex of like 3 rooms here that are pantries, kind of, like, kitchen staff associated things. Like, this is—these are, like, kitchen storerooms, but they've all been cleared out. And there are about half a dozen crates empty. And there's a table set up in each of these 3 rooms each room has crates and spread out across each of these 3 tables is just like the most random collections of various bits of of—it—this looks like it was, like, where they were sorting treasure, right? Like, they would bring a crate of whatever was scooped up from the rubble, dump it out here, and there's just, like, piles of stuff that's been swept off the table and piled up."
+        ],
+        "after": [
+          "DM: Okay. So continue exploring across the great hall to the apartments.",
+          "Delwath: Yes, that sounds right.",
+          "DM: You hear what looks like— a—what sounds like sort of—so the apartments, the second floor is more intact, and from the second floor you hear what sounds like a sort of moaning sound. Wellby once again steps back and gestures to Riswynn to lead the way, but looking around, you can see that like most of the apartments, have been thoroughly looted, but what looks like was a private study, or a a private sitting room, or something like that, has been cleared out,",
+          "DM: And although it looks like an attempt has been made to sort of destroy the evidence, Wellby, your eye is sharp enough and keen enough that it does look like on—there's like a slate, like, you know, that you could draw on, right? That's been broken in pieces, and it definitely looks like somebody was, like, drawing troop movements or battle plans or something on this. It would take fair bit of luck and effort to grab all, find all of the shards and bring them back together, and even at that point it might be difficult and see much, but this was clearly, like, a planning room to the extent that Grash had one.",
+          "Delwath: There anything out? I mean, I don't know. Just—just a random ruined slate is probably not much to go on for a mirror."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "The smashed planning slate",
+      "entities": [
+        {
+          "id": "e044",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e021",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0912",
+        "endUid": "u0934"
+      },
+      "lines": [
+        "%% u0912:0-3, u0913:0-50, u0914:0-7, u0915:0-113, u0916:0-190, u0917:0-13, u0918:0-30, u0919:0-111, u0920:0-85 %%",
+        "DM: And although it looks like an attempt has been made to sort of destroy the evidence, Wellby, your eye is sharp enough and keen enough that it does look like on—there's like a slate, like, you know, that you could draw on, right? That's been broken in pieces, and it definitely looks like somebody was, like, drawing troop movements or battle plans or something on this. It would take fair bit of luck and effort to grab all, find all of the shards and bring them back together, and even at that point it might be difficult and see much, but this was clearly, like, a planning room to the extent that Grash had one.",
+        "",
+        "%% u0921:0-14, u0922:0-12, u0923:0-13, u0924:0-75 %%",
+        "Delwath: There anything out? I mean, I don't know. Just—just a random ruined slate is probably not much to go on for a mirror.",
+        "",
+        "%% u0925:0-73, u0926:0-21, u0927:0-10, u0928:0-86 %%",
+        "DM: I mean, it seemed like you're—it's big. It's big, like it was a whole, like, table, right? Smashed. Seems like something somebody was maybe drawing on a lot and then erasing and drawing new plans.",
+        "",
+        "%% u0929:0-88 %%",
+        "Kenzo: Okay, that's—this is—that's useful. This is like a bad—a battle plan, like, a table thing.",
+        "",
+        "%% u0930:0-117, u0931:0-46 %%",
+        "((Questions about object-reading powers))",
+        "",
+        "%% u0932:0-55, u0933:0-40 %%",
+        "Kenzo: ((Incidental discussion)) Let's bring the pieces back, and we can.",
+        "",
+        "%% u0934:0-108 %%",
+        "Delwath: The librarians can go to work putting the stuff back together again. Oh, nice. That's why we have hirelings.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Yes, they were searching, like, maybe you could— an even more powerful magic wand inside the magic wand. Smaller but more powerful.",
+          "Delwath: But, yeah, like, why would Grash have them destroying magic items? Maybe this—maybe we should look at this. And maybe this would be a good mirror. Just, yeah.",
+          "DM: Okay. So continue exploring across the great hall to the apartments.",
+          "Delwath: Yes, that sounds right.",
+          "DM: You hear what looks like— a—what sounds like sort of—so the apartments, the second floor is more intact, and from the second floor you hear what sounds like a sort of moaning sound. Wellby once again steps back and gestures to Riswynn to lead the way, but looking around, you can see that like most of the apartments, have been thoroughly looted, but what looks like was a private study, or a a private sitting room, or something like that, has been cleared out,"
+        ],
+        "after": [
+          "Kenzo: Yeah, the Bastion stuff has to be, like, a significant object. It can't be, like—",
+          "Delwath: A random. Yeah, yeah, yeah. We should. We should see if our orc person wants to come and check this place out for like signs of—I don't know. Where did all these Orcs come from?",
+          "DM: Or you haven't approached the orc warren yet.",
+          "Delwath: Yeah, yeah, yeah. That's that's next.",
+          "DM: Have a map of that, too. Why did I draw a map of that? You were never going to go into a warren of a hundred Orcs"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "The old golden necklace of Jeevali",
+      "entities": [
+        {
+          "id": "e046",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e045",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0975",
+        "endUid": "u0995"
+      },
+      "lines": [
+        "%% u0975:0-130, u0976:0-8, u0977:0-196, u0978:0-28, u0979:0-50, u0980:0-37, u0981:0-100, u0982:0-25, u0983:0-98, u0984:0-68, u0985:0-93 %%",
+        "DM: This part of the palace was clearly damaged before Grash got here, and Wellby, you would notice this just looking around that, like, the roof collapsed, probably during the great—I mean, this city was attacked during the Great War by by Cha'mutte's armies from Drankor. It suffered a lot then, and just poking around, like, it turns out that you do find glinting under a under a piece of roof that collapsed, that Grash's Orcs, I guess, never bothered to move, Wellby and Kenzo both spot sort of peeking out from this what looks like a the edge of a gold chain. You slowly work out this gold necklace, gold chain necklace that has, like a very elegantly designed holy symbol of Jeevali you know, on the bottom, around the chain. Very old. This is a very— This is like what you would describe as like a classical sort of archaic Dunmari iconography.",
+        "",
+        "%% u0986:0-8, u0987:0-83 %%",
+        "DM: Probably easily pre-great war, possibly, like, you know, 500 years old. Something like that.",
+        "",
+        "%% u0988:0-35 %%",
+        "Kenzo: Nice. Cool. Wow. Yeah, is it magic?",
+        "",
+        "%% u0989:0-14, u0990:0-103, u0991:0-95, u0992:0-5, u0993:0-85, u0994:0-35 %%",
+        "DM: It's not magic. That would have been a very valuable treasure when you hadn't, you know, gotten a dragon's hoard right? But it's nice. I mean, it's a—it's well made. It's gold. It has 2—it has, like, a little sort of— I'm a— like lapis lazuli, like blue gemstone, like, that's representing, like, Jeevali's tears. 2 little teardrops around her face.",
+        "",
+        "%% u0995:0-42 %%",
+        "Delwath: It's quite. It's quite. It's quite pretty.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Starts around. Yep. Go ahead and make perception checks again.",
+          "Kenzo: Great.",
+          "Seeker: Nice",
+          "Kenzo: Kenzo's—he's off.",
+          "DM: Yeah, okay, so this this like upstairs apartments, are again—they've been—they've been looted. But—"
+        ],
+        "after": [
+          "DM: Okay, and from here, actually, now you're the second second level, the— [garbled] city, and and looking from here, like it is clear that there are like more of these spirits of the plague dead. Like, this is definitely a haunted city, right? And Grash, being a undead himself, commanded many of these presumably commanded these creatures, but for whatever reason they're tied to this place and couldn't join his army. And you see, you count maybe a dozen sort of moving around, and suspect was probably considerably more at night. Not that you would likely die if you stayed here at night, but it probably would not be super pleasant to spend the night.",
+          "Delwath: Good to know. I mean, let's just keep moving on this sort of searching for",
+          "Wellby: Stuff, right? Steadily on.",
+          "DM: Okay.",
+          "Riswynn: Yeah. So, for a few hours—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Salvaging the wasp-chewed books",
+      "entities": [
+        {
+          "id": "e047",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e021",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1093",
+        "endUid": "u1123"
+      },
+      "lines": [
+        "%% u1093:0-82, u1094:0-14, u1095:0-74 %%",
+        "DM: I mean, we may as well search around for any scraps that could be recovered, right? It would take—probably. I mean, there's definitely the potential to recover stuff here.",
+        "",
+        "%% u1096:0-37, u1097:0-132, u1098:0-104, u1099:0-23, u1100:0-5, u1101:0-80, u1102:0-72, u1103:0-5, u1104:0-43, u1105:0-105, u1106:0-14 %%",
+        "((Debate about working hours and taking a break))",
+        "",
+        "%% u1107:0-33, u1108:0-65, u1109:0-19 %%",
+        "DM: Sort of going to the library, and like, nothing is—nothing is intact. The giant wasps have chewed up pretty much all the",
+        "",
+        "%% u1110:0-5 %%",
+        "Unknown: Right",
+        "",
+        "%% u1111:0-135, u1112:0-63 %%",
+        "DM: Books in here, but, like, you can extract, like, there's still stuff you can read on what you pull out of their mess. It's just gonna take a fair bit of effort to see what you can reconstruct that into.",
+        "",
+        "%% u1113:0-67 %%",
+        "Delwath: I mean, we should get our archivists down here to help us tomorrow.",
+        "",
+        "%% u1114:0-67 %%",
+        "DM: I mean you can also bring it back and just dump a giant pile of it—",
+        "",
+        "%% u1115:0-36 %%",
+        "Delwath: Wow! Paper dripping with wasp saliva",
+        "",
+        "%% u1116:0-54 %%",
+        "DM: On her desk and be like, here's a fun project for you.",
+        "",
+        "%% u1117:0-19 %%",
+        "Delwath: Glad you joined us.",
+        "",
+        "%% u1118:0-7, u1119:0-113, u1120:0-72, u1121:0-54, u1122:0-91, u1123:0-148 %%",
+        "((Debate about working hours and taking a break))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Don’t have any hit points, so the wasps all collapsed. How much damage does it do?",
+          "Delwath: 28.",
+          "DM: Okay, yeah, they all die.",
+          "Delwath: I'll dismiss it before we go in. I love that what would have been, like, a terrifying climactic battle, it's like— die, if I must.",
+          "Kenzo: But the “dismiss it before I walk in” is the classic, like— you see a door? You want to walk through the door? Like, yeah, you walk through the door. Is a cyberpunk."
+        ],
+        "after": [
+          "Delwath: I think some of us should just run by that orc warren, and see what it's like.",
+          "Kenzo: Well, I mean, I can do that.",
+          "Seeker: Yep.",
+          "DM: The Orc Warren is completely empty.",
+          "DM: The a— it is—so when you go in, it's—it's this sort of weird, tangled building that's been constructed sort of haphazardly, of of mud and just piles of stone taken from Kharsan. It's not even masonry, just rubble piles up and then slapped with mud, and the— the interior, there's like—you go through the main doors, and you can see that there's, like, a fairly large courtyard that, you know, clearly at 1 point was used for fighting and training. You know, there's signs of of of brawls. There's like, clearly, you know, clearly a sort of the big sort of center public area of of this. There are, at the back of the fort, there are a number of sort of twisty little warrens that look like living quarters for a a few 100 Orcs. Although it's a little hard to judge. You could certainly cram more people in if you desired."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "The warren’s murals glorify Grash",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e061",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1142",
+        "endUid": "u1171"
+      },
+      "lines": [
+        "%% u1142:0-68, u1143:0-49, u1144:0-73, u1145:0-129, u1146:0-186, u1147:0-45, u1148:0-16, u1149:0-35 %%",
+        "DM: In the center of the courtyard there is a—what is actually a sort of building that was intended to be constructed in a careful way, and this looks relatively newly built. It has a copper roof. It's about 20 feet high in a rounded rectangle, and like all along the roof, you can see it's painted with these dancing shadows. There's no windows, and it's dark inside, which doesn't bother either of you with your fancy dark vision tattoos. There was—there's a large fire that once burnt in here, and you can see painted around the entire inside of the wall, there are murals painted in sort of grays and blacks",
+        "",
+        "%% u1150:0-9, u1151:0-100, u1152:0-104, u1153:0-66, u1154:0-42, u1155:0-68, u1156:0-39 %%",
+        "DM: Of Grash. It looks like you know the gaunt warrior striding onto the battlefield like slaughtering people just left and right. It looks like, maybe unarmed and defenseless halflings, with blood scattered everywhere. The warrior, cloak thrown back, his hand raised, a ring on his hand. And these, just surrounded with these orcs that are just, they look like they're pulling themselves up from the ground like emerging from their graves.",
+        "",
+        "%% u1157:0-8, u1158:0-75, u1159:0-33, u1160:0-136, u1161:0-132 %%",
+        "DM: And then Grash the god, the skeletal warrior with his glaive above his hand, shadows spilling off of it, and just like Orcs as far as the eye can see, bowing down in prayer to him. And you can see depicted on this, there's like hovering above Grash's head this, like, symbol of Thark, the god of endless war, and it seems to be a sort of representation of Grash as Thark's avatar on earth.",
+        "",
+        "%% u1162:0-25 %%",
+        "Kenzo: In the eyes of these Orcs",
+        "",
+        "%% u1163:0-5, u1164:0-87 %%",
+        "((Discussion of destroying the shrine and consulting the new archivist))",
+        "",
+        "%% u1165:0-64 %%",
+        "Kenzo: Yeah. Kenzo—Kenzo takes a few pictures of these with an iPhone.",
+        "",
+        "%% u1166:0-29 %%",
+        "Wellby: Yeah, this is, it's horrible.",
+        "",
+        "%% u1167:0-52 %%",
+        "Kenzo: Yeah, this is pretty, pretty dark, pretty dark stuff.",
+        "",
+        "%% u1168:0-79, u1169:0-60, u1170:0-50, u1171:0-5 %%",
+        "((Discussion of destroying the shrine and consulting the new archivist))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I think some of us should just run by that orc warren, and see what it's like.",
+          "Kenzo: Well, I mean, I can do that.",
+          "Seeker: Yep.",
+          "DM: The Orc Warren is completely empty.",
+          "DM: The a— it is—so when you go in, it's—it's this sort of weird, tangled building that's been constructed sort of haphazardly, of of mud and just piles of stone taken from Kharsan. It's not even masonry, just rubble piles up and then slapped with mud, and the— the interior, there's like—you go through the main doors, and you can see that there's, like, a fairly large courtyard that, you know, clearly at 1 point was used for fighting and training. You know, there's signs of of of brawls. There's like, clearly, you know, clearly a sort of the big sort of center public area of of this. There are, at the back of the fort, there are a number of sort of twisty little warrens that look like living quarters for a a few 100 Orcs. Although it's a little hard to judge. You could certainly cram more people in if you desired."
+        ],
+        "after": [
+          "Wellby: Good.",
+          "DM: So the next day Nuzkar brings—wants to bring her sister. So, you're—what is your—what is your goal for the next day, the twenty-sixth of January? Show something to the mirror.",
+          "Unknown: Just in general. Bring our hirelings down to, like, reconstruct stuff from the library, check out this mural.",
+          "Kenzo: Any like interesting things we can bring our—we can, you know, get our hirelings some some research projects.",
+          "DM: Okay?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "Nuzkar asks for the warren to burn; the souls are freed",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e022",
+          "role": "supporting",
+          "action": "present"
+        },
+        {
+          "id": "e020",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e048",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e049",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e050",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1187",
+        "endUid": "u1273"
+      },
+      "lines": [
+        "%% u1187:0-27, u1188:0-26, u1189:0-26, u1190:0-64, u1191:0-5, u1192:0-26 %%",
+        "DM: So you bring the orcs down. Nuzkar, the the archivist. They both—they're sort of— like she's grabbing her sister's hand as they walk in. And she's like— I assume you're all going.",
+        "",
+        "%% u1193:0-36 %%",
+        "Riswynn: Yeah, yeah, yeah, to be supportive,",
+        "",
+        "%% u1193:36-91, u1194:0-61, u1195:0-3, u1196:0-20, u1197:0-5, u1198:0-32, u1199:0-54, u1200:0-15, u1201:0-53, u1202:0-22, u1203:0-39 %%",
+        "DM: But she's saying she's like making sure that Riswynn is between her and anything that might be coming from the front. And sort of looks around in in sadness more than anything else. And she looks over at the at the, like, living quarters. If we had known— must have been hundreds of kids we could have saved. Grash killed them all! She sort of shivers a bit, a little bit.",
+        "",
+        "%% u1204:0-11, u1205:0-23 %%",
+        "DM: There is an evilness to this place.",
+        "",
+        "%% u1206:0-33 %%",
+        "Riswynn: We thought we might burn it down.",
+        "",
+        "%% u1207:0-9 %%",
+        "Kenzo: Yeah, not",
+        "",
+        "%% u1208:0-21, u1209:0-14, u1210:0-17 %%",
+        "DM: Not like the tales of normal hordes. Something darker.",
+        "",
+        "%% u1211:0-4 %%",
+        "Kenzo: Hmm.",
+        "",
+        "%% u1212:0-4 %%",
+        "Unknown: Hmm!",
+        "",
+        "%% u1213:0-66, u1214:0-23, u1215:0-19, u1216:0-20 %%",
+        "DM: She looks over like pokes her head into the hall, and kind of just shuts the door quickly, grimacing, and just, “Burn it, burn it all.”",
+        "",
+        "%% u1217:0-27, u1218:0-111 %%",
+        "Kenzo: Yeah, is there some type of—Tim, after we burn it, also, we'll maybe collaborate with Riswynn on some kind of cleansing ceremony. You know.",
+        "",
+        "%% u1219:0-11, u1220:0-16, u1221:0-52, u1222:0-27 %%",
+        "DM: As you burn the orc fortress and this central building, this like Temple to Grash burns surprisingly quickly.",
+        "",
+        "%% u1223:0-20, u1224:0-42, u1225:0-18, u1226:0-56, u1227:0-13, u1228:0-35, u1229:0-42, u1230:0-52, u1231:0-17, u1232:0-20 %%",
+        "DM: And you see, as you— Kenzo, you would sense this in particular. It's not just Orcs. As this thing burns, you hear—you see echoes of a great conflagration of the victims of the first plague. The Dunmari who were killed by Cha'mutte, running into a fire trapped between the red mist and a wall of flames, but nowhere to turn.",
+        "",
+        "%% u1233:0-29, u1234:0-25, u1235:0-7, u1236:0-11, u1237:0-24, u1238:0-65, u1239:0-8, u1240:0-47, u1241:0-50 %%",
+        "DM: And something about this spot you can feel actually the—and the holiness of of monastery of Bhishma. It's almost as if this was the furthest that the plague could go. The rest— the rest, the the monastery itself, protected by the Dunmari gods. But the city could not be saved.",
+        "",
+        "%% u1242:0-26, u1243:0-23, u1244:0-19, u1245:0-103 %%",
+        "DM: And the vision you have is some powerful wizard in Cha'mutte's armies, putting a giant wall of fire to keep the people of Kharsan from fleeing to the safety of the monastery.",
+        "",
+        "%% u1246:0-12 %%",
+        "Kenzo: That's okay.",
+        "",
+        "%% u1247:0-20, u1248:0-43, u1249:0-29, u1250:0-24, u1251:0-41, u1252:0-32, u1253:0-29, u1254:0-33 %%",
+        "DM: And you feel as you— as you sort of pray, to cleanse this place, you recall that this was what Pava and Avaras and Amil the monk, were doing, is putting to peace souls of the people who had died in the Plaguelands, and never achieved rest. And you feel this.",
+        "",
+        "%% u1255:0-48, u1256:0-29, u1257:0-46, u1258:0-50, u1259:0-20 %%",
+        "DM: You almost feel like you have this feeling of of Bhishma herself reaching down and kind of putting her hand on your shoulder. You know it's not real, but you have this sense of comfort and freedom.",
+        "",
+        "%% u1260:0-3, u1261:0-56, u1262:0-23, u1263:0-37, u1264:0-24, u1265:0-5, u1266:0-32, u1267:0-14, u1268:0-72, u1269:0-26, u1270:0-55, u1271:0-45 %%",
+        "DM: And Wellby, for a moment, you see the river that you stood on 2, 3, 4, 5, 6 days ago, the souls of the dead streaming past. And you see all of these souls trapped here for so long and now free. And then almost the joy of that freedom, no longer decaying in the material world, but going to be with their gods or ancestors, or—you don't really know what humans— really know what the human afterlife is like.",
+        "",
+        "%% u1272:0-28, u1273:0-90 %%",
+        "DM: And as the fires burned down and the sun climbs the afternoon. Probably you'll all feel about ready to leave this place.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Yeah, go to the nicest bread—brunch place in Kharsan before we go, you know. Get some avocado toast.",
+          "DM: Yeah.",
+          "Kenzo: Specter cafe, course.",
+          "Riswynn: Delwath can use this new spatula.",
+          "Kenzo: Deviled eggs, deviled eggs. Everything's dry as a bone."
+        ],
+        "after": [
+          "Kenzo: Definitely. Oh, yeah. Wait, was there—what—what were the items that we got that could be our mirrorable from here again?",
+          "DM: Broken wand, sword without a pommel, saddle cut into pieces, the broken army planning table, golden necklace of Jeevali, wasp saliva books.",
+          "Kenzo: But",
+          "Delwath: I say that I think that the saddle or the sword. But in particular, why were they tearing up? Cause I wanted to know why they were breaking magic items.",
+          "Wellby: Think the sword is a good starting point."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "The sword’s bearers and forging in the Mirror",
+      "entities": [
+        {
+          "id": "e042",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e043",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1296",
+        "endUid": "u1372"
+      },
+      "lines": [
+        "%% u1296:0-38, u1297:0-4, u1298:0-55, u1299:0-15, u1300:0-23, u1301:0-130 %%",
+        "DM: So you hold up the sword to the mirror, this still magically sharp, but lacking a a pommel or a hilt, blade of steel. And you ask the mirror—you ask them—do you wanna do just leave it to chance? Or is there a specific thing you're trying to guide the mirror to show you?",
+        "",
+        "%% u1302:0-25, u1303:0-10 %%",
+        "((Choosing a historical focus and resolving the Wisdom check))",
+        "",
+        "%% u1304:0-38, u1305:0-15 %%",
+        "Wellby: I also think about like who carried it over the years.",
+        "",
+        "%% u1306:0-55, u1307:0-75 %%",
+        "((Choosing a historical focus and resolving the Wisdom check))",
+        "",
+        "%% u1308:0-98, u1309:0-75, u1310:0-45, u1311:0-23, u1312:0-92 %%",
+        "Riswynn: But why would they destroy the saddle? Wouldn't possibly be the same reason as the sword. So maybe what the sword actually is still, because I could smith back into a sword. But it's magical, we may as well identify it. Yeah, go with Wellby's. I like the the sword's history, and then, like getting into the destruction with the saddle.",
+        "",
+        "%% u1313:0-70, u1314:0-17, u1315:0-36, u1316:0-10, u1317:0-48, u1318:0-3, u1319:0-19, u1320:0-67 %%",
+        "((Choosing a historical focus and resolving the Wisdom check))",
+        "",
+        "%% u1321:0-6, u1322:0-45, u1323:0-110, u1324:0-77, u1325:0-66, u1326:0-3, u1327:0-17, u1328:0-18, u1329:0-21, u1330:0-18, u1331:0-18, u1332:0-171, u1333:0-72, u1334:0-85, u1335:0-81 %%",
+        "DM: So you hold up the sword to the mirror, and you see—sorry, this was who carried it that you wanted to know, not how it was destroyed? Okay. You—you see an image of what you would guess was this palace, same palace that you were in, but in its its glory days, like when it was intact and full of people and life, and but you see a man, Dunmari man, older, maybe in his forties, early 50 s, who is preparing for war. You can see him. It's like the scene in The Lord of the Rings where—where Théoden's, like, getting dressed for to ride out of Helm's Deep, right? He's—he's strapping on his his armor, putting on chain mail. He puts on a helmet. He gets a shield. And then he, the sword is last, and it's sitting on a table, and he leans over and he whispers a prayer in—speaking Dunmari, which Wellby knows. You can read his lips.",
+        "",
+        "%% u1336:0-10 %%",
+        "Kenzo: Thank God!",
+        "",
+        "%% u1337:0-28, u1338:0-15, u1339:0-7, u1340:0-155, u1341:0-114, u1342:0-81, u1343:0-54 %%",
+        "DM: And he's whispering a prayer to Aagir to the Dunmari the the brother who is often associated with war and battle, and he's praying for—for safety, for victory, although he doesn't expect to live. He's praying to defeat the great enemy Cha'mutte. He's praying that the rumors of death spreading across the East are not true. And he's praying that the gods will protect him as he leads his troops in battle. And then he straps on the sword, and the image shifts.",
+        "",
+        "%% u1344:0-58 %%",
+        "DM: And you see, still in the same city, somebody who is maybe—",
+        "",
+        "%% u1345:0-24 %%",
+        "Delwath: Is this the city? Sorry?",
+        "",
+        "%% u1346:0-27 %%",
+        "DM: Yeah. Yeah. This is Kharsan",
+        "",
+        "%% u1347:0-48, u1348:0-14, u1349:0-112, u1350:0-15, u1351:0-21, u1352:0-14, u1353:0-56, u1354:0-128, u1355:0-202, u1356:0-95 %%",
+        "DM: Maybe related. Not the same person. Maybe like a a grandfather, great uncle, something like that, like with similar facial structure, similar hair color. And and he is sitting. And he is—it's— sitting by the sword. And he is just carefully polishing it, just like very slowly, just like taking care of that, making sure the blade is sharp, making sure the pommel is—is well taking care of, and you can see that it's— So, it's—it's wrapped in leather. It's a a silver etched pommel where the 2 ends look like running horses, and then it's wrapped in leather, and there's a white gem on the the base of the of the pommel. All of this has been lost. Although now that Riswynn's seen it, she could probably recreate it.",
+        "",
+        "%% u1357:0-44, u1358:0-70, u1359:0-58, u1360:0-75, u1361:0-42, u1362:0-53, u1363:0-16, u1364:0-71, u1365:0-120, u1366:0-25 %%",
+        "DM: And then it shifts one more time, the image, and you can see a young man hard to say if it's related or not, and he is standing in a so in a smithy, in a forge, and there's a a blacksmith, like a a burly woman who's, like, pounding on this sword. And as this woman pounds on the sword, shaping it, the man is standing, and there's a constant stream of prayers to Aagir coming from his mouth as he speaks, and every time the sword is struck, you can almost see the words kind of flowing into the sword as the as the prayer is wrapped in the metal as it's shaped. And then the mirror ends.",
+        "",
+        "%% u1367:0-48, u1368:0-81, u1369:0-44 %%",
+        "DM: And if you identify it, this is a plus one sword that, when you're attuned to it, once a day lets you cast Heroism at second level. Not bad treasure for Fifth Level adventurers",
+        "",
+        "%% u1370:0-23 %%",
+        "Riswynn: Or a fun craft project.",
+        "",
+        "%% u1371:0-32, u1372:0-42 %%",
+        "Delwath: You could fix it up. I don't—I— Not much use for this sword, but you know.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I like Wellby's idea of the sword.",
+          "DM: I mean, you're gonna be slightly, like— 3 weeks in Tollen while they build the rest of your ship, so— the mirror is not really a limited resource at this point. Yeah, yeah.",
+          "Riswynn: Sword fine. That's what I was thinking. Saddle next.",
+          "DM: Okay.",
+          "Kenzo: Let's do it."
+        ],
+        "after": [
+          "Kenzo: Maybe you can give Havdar a non cursed gift for once.",
+          "Delwath: Alright, shall we?",
+          "Riswynn: Is that Aagir one of his god? That's the same—",
+          "DM: So you continue flying?",
+          "Kenzo: Go pick up."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "Pava welcomes the party and hears Delwath’s new peace",
+      "entities": [
+        {
+          "id": "e048",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e050",
+          "role": "cameo",
+          "action": "present"
+        },
+        {
+          "id": "e051",
+          "role": "cameo",
+          "action": "present"
+        },
+        {
+          "id": "e054",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1381",
+        "endUid": "u1438"
+      },
+      "lines": [
+        "%% u1381:0-69, u1382:0-34, u1383:0-36, u1384:0-38, u1385:0-19, u1386:0-19, u1387:0-55, u1388:0-18, u1389:0-89 %%",
+        "DM: The morning of January 28th, you see, but below you, as the sun rises, the stone house of Pava and Avaras. There is, sitting outside in the sun, incongruously, you see a dwarven woman who is sitting like mending some armor. Just kind of working on, polishing it up, fixing it up. And you see, Amil, the, like, young priest dude, come out and bring her breakfast, and then they both look up,",
+        "",
+        "%% u1390:0-37, u1391:0-52, u1392:0-2, u1393:0-138, u1394:0-77 %%",
+        "DM: See this giant stone ship in the sky, and run inside, and you see quite a bit of commotion as Pava comes out, like he looks prepared to fight. He's, like, keeping everybody behind him. He was—he was, like, he trained Kenzo early on, like— is decent. Just looking up, like motioning for everybody to stay back, totally",
+        "",
+        "%% u1395:0-19 %%",
+        "DM: Uncertain what any",
+        "",
+        "%% u1395:19-86 %%",
+        "Delwath: Should we, like, fling our rainbow bridge down and like, walk down.",
+        "",
+        "%% u1395:86-177 %%",
+        "Kenzo: Yeah, Ken Kenzo Kenzo will will like kind of, you know, wave from the deck, like, you know.",
+        "",
+        "%% u1396:0-17, u1397:0-41, u1398:0-128, u1399:0-128, u1400:0-75 %%",
+        "DM: This look of just this look of fear turns to like a look of surprise and joy on his face. Like, and and this is, like—I mean, he's, like, a 70 year old dude. He's, like, pretty serious looking. You know, he clearly is one of these Kenzo mentor types who is much more fit than his age would suggest, as old monks often are. But he looks up as he sees you, and this smile just breaks across his face.",
+        "",
+        "%% u1401:0-45 %%",
+        "DM: And I assume you all come down off the ship.",
+        "",
+        "%% u1401:45-101, u1402:0-48 %%",
+        "((Bridge mechanics and affectionate teasing))",
+        "",
+        "%% u1403:0-166 %%",
+        "Kenzo: ((Incidental discussion)) But yeah, for—for, you know, I don't know, just because why not, we Rainbow Bridge down. Yeah, yeah.",
+        "",
+        "%% u1404:0-99, u1405:0-57, u1406:0-14, u1407:0-42 %%",
+        "DM: He he just comes and he he grabs Kenzo and he gives you a hug, and then he turns to Delwath, and he looks like another, like a smile comes over his face. And wow. You look— Never thought I'd see you looking so good.",
+        "",
+        "%% u1408:0-25, u1409:0-27, u1410:0-78, u1411:0-40, u1412:0-59, u1413:0-49 %%",
+        "((Bridge mechanics and affectionate teasing))",
+        "",
+        "%% u1414:0-105 %%",
+        "Delwath: It's been a long journey. I should tell you the tale of it. I know much more than I did last I was here.",
+        "",
+        "%% u1415:0-25, u1416:0-8, u1417:0-18 %%",
+        "DM: II would love to hear it. You seem at peace in a way.",
+        "",
+        "%% u1418:0-9, u1419:0-12, u1420:0-4, u1421:0-41, u1422:0-107 %%",
+        "Delwath: In a way. I have found some measure of peace in my companions, and he—you can sort of—it's unclear if he's referring to the tanshi or you guys, but he leaves it a bit ambiguous.",
+        "",
+        "%% u1423:0-63 %%",
+        "DM: And you changed your armor. Was never sure of that shadow armor.",
+        "",
+        "%% u1424:0-8, u1425:0-18, u1426:0-18, u1427:0-50, u1428:0-58, u1429:0-27, u1430:0-7, u1431:0-33, u1432:0-64 %%",
+        "Delwath: Yes, the the Shadowland was what had entrapped— and trapped protector of people far to the north. Dead god, although that's too grandiose to name, I think. And he was giving me power. I think 1 point I may have been his only— the only one who knew the god was alive. An odd feeling, I think.",
+        "",
+        "%% u1433:0-15, u1434:0-21, u1435:0-9, u1436:0-18 %%",
+        "DM: I would love to write your story down, record it, you wouldn't mind.",
+        "",
+        "%% u1437:0-31 %%",
+        "Delwath: Delwath kind of looks at Kenzo.",
+        "",
+        "%% u1438:0-24 %%",
+        "Kenzo: Yeah, Kenzo—Kenzo smiles.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: Is that Aagir one of his god? That's the same—",
+          "DM: So you continue flying?",
+          "Kenzo: Go pick up.",
+          "Delwath: Monk. Yeah.",
+          "DM: January 27th, you travel west."
+        ],
+        "after": [
+          "Kenzo: Come come aboard the ship as well, and it'd be wonderful to host you. I'd like to show you something.",
+          "DM: This dwarf, you can see, is like increasing like it looks like you know she's standing. She's standing up. She's like, really, really trying to not interrupt this—looks like this poignant reunion, but then just—just can't help herself, and it's like, ‘Oh, my God, Riswynn!’ It's you! I— I—hmm. I've searched everywhere. Will you please, please— could I be your student?",
+          "Riswynn: What do you want to learn?",
+          "DM: Wow, everything. I mean, there hasn't been a greater hero ever from Tharn Todor. You saved your family's legacy, and then our people's legacy.",
+          "DM: And then I heard some garbled rumor about you going off to the east to single-handedly kill a lich."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i021",
+      "title": "Kethra asks to become Riswynn’s student",
+      "entities": [
+        {
+          "id": "e051",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e052",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e053",
+          "role": "cameo",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1439",
+        "endUid": "u1477"
+      },
+      "lines": [
+        "%% u1439:0-102 %%",
+        "((Invitation to continue Pava’s conversation aboard))",
+        "",
+        "%% u1439:102-228, u1440:0-146, u1441:0-11, u1442:0-6, u1443:0-50, u1444:0-24 %%",
+        "DM: This dwarf, you can see, is like increasing like it looks like you know she's standing. She's standing up. She's like, really, really trying to not interrupt this—looks like this poignant reunion, but then just—just can't help herself, and it's like, ‘Oh, my God, Riswynn!’ It's you! I— I—hmm. I've searched everywhere. Will you please, please— could I be your student?",
+        "",
+        "%% u1445:0-26 %%",
+        "Riswynn: What do you want to learn?",
+        "",
+        "%% u1446:0-24, u1447:0-55, u1448:0-9, u1449:0-51 %%",
+        "DM: Wow, everything. I mean, there hasn't been a greater hero ever from Tharn Todor. You saved your family's legacy, and then our people's legacy.",
+        "",
+        "%% u1450:0-99 %%",
+        "DM: And then I heard some garbled rumor about you going off to the east to single-handedly kill a lich.",
+        "",
+        "%% u1451:0-16 %%",
+        "Seeker: Did that happen?",
+        "",
+        "%% u1452:0-31 %%",
+        "Delwath: I bet it happened close enough.",
+        "",
+        "%% u1453:0-3 %%",
+        "Riswynn: Hi.",
+        "",
+        "%% u1454:0-23 %%",
+        "DM: And you fly a sky ship.",
+        "",
+        "%% u1455:0-54 %%",
+        "Riswynn: You know, that is something that I'm in line to learn.",
+        "",
+        "%% u1456:0-74 %%",
+        "DM: But I would be honored just to mend your armor. Take care of your weapons.",
+        "",
+        "%% u1457:0-111 %%",
+        "Riswynn: We—we do have some crafting projects on on board. Come, tell me more about your family and your—and your story.",
+        "",
+        "%% u1458:0-5, u1459:0-41 %%",
+        "DM: Well. I think you know my my great-grandmother.",
+        "",
+        "%% u1460:0-34 %%",
+        "Riswynn: I don't know—you're a Silverspark?",
+        "",
+        "%% u1461:0-11, u1462:0-17, u1463:0-66 %%",
+        "DM: Oh, sorry, I— I was so nervous! I forgot to introduce myself. Kethra Silverspark, at your service.",
+        "",
+        "%% u1464:0-3 %%",
+        "Riswynn: Oh.",
+        "",
+        "%% u1465:0-85, u1466:0-29 %%",
+        "DM: Carry my—my great grandmother's legacy with you, as she points at Riswynn's gauntlets. You saved her. It's an honor.",
+        "",
+        "%% u1467:0-3, u1468:0-6, u1469:0-11, u1470:0-104, u1471:0-5, u1472:0-127, u1473:0-51 %%",
+        "DM: Hi. It is— it is truly— I was about to leave. I had given up hope. This was as far as I was comfortable going in the desert, but— I am— I am very lucky to have found you, and and she turns and looks at the rest of you, like sort of noticing you for the first time. And I'm—I'm sure you all have amazing stories, too.",
+        "",
+        "%% u1474:0-36 %%",
+        "Riswynn: Wouldn't be where I am without them.",
+        "",
+        "%% u1475:0-36 %%",
+        "DM: Sorry, IIII didn't mean to interrupt.",
+        "",
+        "%% u1476:0-9 %%",
+        "Unknown: I'm sure.",
+        "",
+        "%% u1477:0-120 %%",
+        "Kenzo: No, no, I think I think we should continue this conversation on board the ship. I think we have some things to show you.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And you changed your armor. Was never sure of that shadow armor.",
+          "Delwath: Yes, the the Shadowland was what had entrapped— and trapped protector of people far to the north. Dead god, although that's too grandiose to name, I think. And he was giving me power. I think 1 point I may have been his only— the only one who knew the god was alive. An odd feeling, I think.",
+          "DM: I would love to write your story down, record it, you wouldn't mind.",
+          "Delwath: Delwath kind of looks at Kenzo.",
+          "Kenzo: Yeah, Kenzo—Kenzo smiles."
+        ],
+        "after": [
+          "Kenzo: Kenzo is gonna take—what's the other guy—the other guy's name? There's—there's Pava.",
+          "DM: Pava and Avaras are like the—",
+          "Kenzo: Yeah, and then, yeah. So Kenzo will bring them to, you know, log on the ship. But Kenzo, in particular, is gonna take them to the parts of the ship where he's been—he's been writing the stories of—I mean, he shows him his staff where he's been—he's been part of this, but now that—once we—once we got the ship, Kenzo's been focusing on on using the ship as the the larger kind of, you know, story archive. And so, you know, Kenzo—Kenzo is basically it—you know, it's interesting because Kenzo's not done it yet for the, you know, for the characters in the in the campaign. But Kenzo is, you know, shares with—with Pava that he'd be—he would—he thinks it would be great for him to to—to capture, since he was so integral in Delwath's origin, you know, capturing some of those aspects of the story here, should he—should he so be interested.",
+          "DM: Amil is just, like, totally taken aback by this whole thing as he— as he comes. And you get the sense, like, he's been here now for 2 years, like he's pretty much trained up, and he's just, you know, he's been kind of at loose ends, like he's not quite sure what he wants to do next. He doesn't want to just go back to— You know the the plains, the the deserts of wherever he's from. But he looks around just kind of amazed at what Kenzo's constructed here.",
+          "Kenzo: And it's definitely just, like— yeah. Tracing the history. And it's not just words, right? It's like, there's art. And there's, like, carvings and things. It's definitely, like, again, like Kenzo is bringing, again, it's like, there's iconography. There's, like, lizard folkish iconography. There's, like, it's not the traditional, like, Bhishma storytelling. It's, like, it's connected to it, but it's not that, you know. So, so this is the— you know. So Kenzo is like watching Amil, you know, kind of engage with it, and seeing his interest, and is is excited to see that he is a"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i022",
+      "title": "Pava endorses Kenzo’s stories and entrusts Amil to him",
+      "entities": [
+        {
+          "id": "e048",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e050",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e049",
+          "role": "cameo",
+          "action": "present"
+        },
+        {
+          "id": "e020",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e055",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1478",
+        "endUid": "u1529"
+      },
+      "lines": [
+        "%% u1478:0-86 %%",
+        "Kenzo: Kenzo is gonna take—what's the other guy—the other guy's name? There's—there's Pava.",
+        "",
+        "%% u1479:0-29 %%",
+        "DM: Pava and Avaras are like the—",
+        "",
+        "%% u1480:0-575, u1481:0-8, u1482:0-94, u1483:0-160 %%",
+        "Kenzo: Yeah, and then, yeah. So Kenzo will bring them to, you know, log on the ship. But Kenzo, in particular, is gonna take them to the parts of the ship where he's been—he's been writing the stories of—I mean, he shows him his staff where he's been—he's been part of this, but now that—once we—once we got the ship, Kenzo's been focusing on on using the ship as the the larger kind of, you know, story archive. And so, you know, Kenzo—Kenzo is basically it—you know, it's interesting because Kenzo's not done it yet for the, you know, for the characters in the in the campaign. But Kenzo is, you know, shares with—with Pava that he'd be—he would—he thinks it would be great for him to to—to capture, since he was so integral in Delwath's origin, you know, capturing some of those aspects of the story here, should he—should he so be interested.",
+        "",
+        "%% u1484:0-63, u1485:0-249, u1486:0-8, u1487:0-110, u1488:0-17 %%",
+        "DM: Amil is just, like, totally taken aback by this whole thing as he— as he comes. And you get the sense, like, he's been here now for 2 years, like he's pretty much trained up, and he's just, you know, he's been kind of at loose ends, like he's not quite sure what he wants to do next. He doesn't want to just go back to— You know the the plains, the the deserts of wherever he's from. But he looks around just kind of amazed at what Kenzo's constructed here.",
+        "",
+        "%% u1489:0-30, u1490:0-5, u1491:0-390, u1492:0-139 %%",
+        "Kenzo: And it's definitely just, like— yeah. Tracing the history. And it's not just words, right? It's like, there's art. And there's, like, carvings and things. It's definitely, like, again, like Kenzo is bringing, again, it's like, there's iconography. There's, like, lizard folkish iconography. There's, like, it's not the traditional, like, Bhishma storytelling. It's, like, it's connected to it, but it's not that, you know. So, so this is the— you know. So Kenzo is like watching Amil, you know, kind of engage with it, and seeing his interest, and is is excited to see that he is a",
+        "",
+        "%% u1492:139-224 %%",
+        "DM: As as he's doing this like Pava kind of takes you over and and pulls Kenzo aside, and",
+        "",
+        "%% u1493:0-18, u1494:0-103, u1495:0-21, u1496:0-33 %%",
+        "DM: You've grown a lot since you just—since I saw you last, when you returned from Kharsan, and you had just joined our order. You're a leader now. What you've done here is amazing.",
+        "",
+        "%% u1497:0-1, u1498:0-79, u1499:0-81, u1500:0-87, u1501:0-30, u1502:0-51, u1503:0-63 %%",
+        "Kenzo: I—part—part of what I'm exploring, I hope, is not too iconoclastic, but I think is authentic to my experiences, and I think you know, as the order of Bhishma is now potentially through some of this work, engage in entering a new phase in a new revival. The world is changing. There's different ways to tell stories, and I think there's something that that I'm excited to explore in this period ahead",
+        "",
+        "%% u1504:0-80, u1505:0-21, u1506:0-69 %%",
+        "DM: Stories are never static. The whole point of Bhishma is that our history is not— our history is alive. And you've made it that not just for the Dunmari, but so many people.",
+        "",
+        "%% u1507:0-63 %%",
+        "Kenzo: While it's been a collective effort with all of our companions.",
+        "",
+        "%% u1508:0-20, u1509:0-39 %%",
+        "DM: He looks thoughtful. You'd be willing to take Amil with you?",
+        "",
+        "%% u1510:0-82 %%",
+        "Kenzo: Of course. Of course. II sense—I sense he—this is where he belongs for this phase.",
+        "",
+        "%% u1511:0-30, u1512:0-92, u1513:0-59 %%",
+        "DM: He wants adventure, but he is— he has a lot to learn before—think it would be safe for him to travel on his own, but maybe could help him grow, I think. Help you turn these stories?",
+        "",
+        "%% u1513:59-148 %%",
+        "Kenzo: II think there's a tremendous amount that we would both benefit from, for him being here.",
+        "",
+        "%% u1514:0-64, u1515:0-23 %%",
+        "Kenzo: Kenzo kind of looks at Amil, like looks him up and down, is like, “Are you ready to train?”",
+        "",
+        "%% u1516:0-66, u1517:0-86, u1518:0-146 %%",
+        "DM: He looks over at at at Pava, and kind of gives him a nod. He's like, it would—I would be honored. This is amazing. And he's just looking around, he's like, totally in awe. Just like the Orcs, like there's a bit of a, you know, uncertainty when everybody sees the Orcs, but then you kind of smooth it over.",
+        "",
+        "%% u1519:0-96, u1520:0-156, u1521:0-97, u1522:0-131, u1523:0-27, u1524:0-20 %%",
+        "DM: The dwarves, your tattoos, like Kenzo has these amazing tattoos that are, like, living and moving. The elven tree, which has now grown about this much in a week, like 6 inches or so. I mean, it's still very protected, right? You planted it. You've got this all sort of, like, you know, structure around it, but it's grown from seed in amazingly fast time. It's not just—it's not just the tree. It's like the the ki garden as well, right? It's kind of the—right, like you've got all these— and and every—and, you know, he is super excited.",
+        "",
+        "%% u1525:0-108, u1526:0-36 %%",
+        "Kenzo: And so, you know, gives gives a gives a bow to to Pava, and you know, thanks him for for his mentorship, and excited to head for this next phase.",
+        "",
+        "%% u1527:0-77 %%",
+        "DM: So you spend the afternoon in the evening catching up having dinner together.",
+        "",
+        "%% u1528:0-130, u1529:0-5 %%",
+        "Kenzo: Oh, and and Kenzo also, again, like finds a good spot on the wall for—for Pava to spend time with—with Delwath, so they can. Yeah. Yeah.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Hi. It is— it is truly— I was about to leave. I had given up hope. This was as far as I was comfortable going in the desert, but— I am— I am very lucky to have found you, and and she turns and looks at the rest of you, like sort of noticing you for the first time. And I'm—I'm sure you all have amazing stories, too.",
+          "Riswynn: Wouldn't be where I am without them.",
+          "DM: Sorry, IIII didn't mean to interrupt.",
+          "Unknown: I'm sure.",
+          "Kenzo: No, no, I think I think we should continue this conversation on board the ship. I think we have some things to show you."
+        ],
+        "after": [
+          "DM: Spend the night. Spend another day if you want. I don't know how—you're not in any rush, right? So you spend a day just kind of hanging out with them.",
+          "DM: And the next day, January thirtieth, Pava takes you aside as you're sort of preparing to leave, I don't know if you've heard the news from Dunmar.",
+          "Kenzo: No, what's the latest?",
+          "DM: Not sure if it's good or bad. You—you know the battle of Tokra. Yes.",
+          "Kenzo: Sura's armies—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i023",
+      "title": "Pava reports the truce and Karnas’s distrust",
+      "entities": [
+        {
+          "id": "e048",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e056",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e057",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e058",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e060",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e064",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1531",
+        "endUid": "u1590"
+      },
+      "lines": [
+        "%% u1531:0-36, u1532:0-20, u1533:0-88 %%",
+        "DM: And the next day, January thirtieth, Pava takes you aside as you're sort of preparing to leave, I don't know if you've heard the news from Dunmar.",
+        "",
+        "%% u1534:0-22 %%",
+        "Kenzo: No, what's the latest?",
+        "",
+        "%% u1535:0-29, u1536:0-38 %%",
+        "DM: Not sure if it's good or bad. You—you know the battle of Tokra. Yes.",
+        "",
+        "%% u1537:0-13 %%",
+        "Kenzo: Sura's armies—",
+        "",
+        "%% u1538:0-7, u1539:0-44, u1540:0-26, u1541:0-7, u1542:0-85 %%",
+        "DM: Thought— there was no fighting during the holy month. There was a few skirmishes around, you know, around—around those times, but no—but no real bloodshed, just maneuvering.",
+        "",
+        "%% u1543:0-3, u1544:0-38, u1545:0-3, u1546:0-31 %%",
+        "DM: And I don't know if my news is up to date, but it seems nobody wants to fight.",
+        "",
+        "%% u1547:0-12 %%",
+        "Kenzo: Good outcome",
+        "",
+        "%% u1548:0-23, u1549:0-36, u1550:0-40, u1551:0-27, u1552:0-39, u1553:0-36, u1554:0-26 %%",
+        "DM: From what I understand, Nayan Karnas still is convinced that his sister is somehow the tool of a hag. She is still convinced that he's a fool in not preparing Dunmar for the dangers it faces on its borders. But nobody wants to fight.",
+        "",
+        "%% u1555:0-89, u1556:0-15, u1557:0-33, u1558:0-43 %%",
+        "DM: So I don't know what's gonna happen. The rumors are there's Chardonian legions demanding tribute payment for the soldiers who were killed. I don't know if Sura will agree to pay that.",
+        "",
+        "%% u1559:0-11, u1560:0-31, u1561:0-21, u1562:0-3, u1563:0-57, u1564:0-13, u1565:0-36 %%",
+        "DM: Without one samraat, it is not clear who is speaking for the god, but do not think there will be fighting, at least not between the 2 of them. Happens with Chardon, who could say?",
+        "",
+        "%% u1566:0-10, u1567:0-25, u1568:0-39, u1569:0-35 %%",
+        "DM: Good, bad, I don't know. Out here we— seems such things don't matter so much, but I thought you might wanna know.",
+        "",
+        "%% u1570:0-44, u1571:0-150 %%",
+        "Kenzo: No, that is good to know. Thank you through. I think—I think our—we've been a little more inclined to stay away from the Dunmar politics, but Chardon, of course, is of interest to us. I hear that—",
+        "",
+        "%% u1572:0-56 %%",
+        "DM: I know you had something to do with Agata and her demise—",
+        "",
+        "%% u1573:0-13 %%",
+        "Kenzo: More accurate—",
+        "",
+        "%% u1574:0-16, u1575:0-66, u1576:0-29, u1577:0-23, u1578:0-29 %%",
+        "DM: Capture. I trust that you know that Sura is not her pawn. I don't see how she could maintain control of somebody. I just do not know that Karnas will ever believe that.",
+        "",
+        "%% u1579:0-53, u1580:0-50, u1581:0-33, u1582:0-49, u1583:0-46, u1584:0-56, u1585:0-37 %%",
+        "DM: It is said the gods have spoken to him, and said that— it is said the gods have spoken and said that Sura is not touched by corrupt energy, and he claims that this hag woman, Agata, had some magic that could corrupt the will of the gods, and through this magic she could plant false prophecies. So he doesn't trust what the gods say.",
+        "",
+        "%% u1586:0-35 %%",
+        "Delwath: Sounds like the Scepter of Command.",
+        "",
+        "%% u1587:0-52 %%",
+        "Kenzo: Is it the Scepter of Command, plant false prophecies?",
+        "",
+        "%% u1588:0-124 %%",
+        "DM: I mean, she didn't have the Scepter of Command. Could be a garbled rumor that mashes up the scepter of command and the cloak.",
+        "",
+        "%% u1589:0-46, u1590:0-32 %%",
+        "((Plans for a future visit))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: The dwarves, your tattoos, like Kenzo has these amazing tattoos that are, like, living and moving. The elven tree, which has now grown about this much in a week, like 6 inches or so. I mean, it's still very protected, right? You planted it. You've got this all sort of, like, you know, structure around it, but it's grown from seed in amazingly fast time. It's not just—it's not just the tree. It's like the the ki garden as well, right? It's kind of the—right, like you've got all these— and and every—and, you know, he is super excited.",
+          "Kenzo: And so, you know, gives gives a gives a bow to to Pava, and you know, thanks him for for his mentorship, and excited to head for this next phase.",
+          "DM: So you spend the afternoon in the evening catching up having dinner together.",
+          "Kenzo: Oh, and and Kenzo also, again, like finds a good spot on the wall for—for Pava to spend time with—with Delwath, so they can. Yeah. Yeah.",
+          "DM: Spend the night. Spend another day if you want. I don't know how—you're not in any rush, right? So you spend a day just kind of hanging out with them."
+        ],
+        "after": [
+          "DM: Remember, you can teleport places, too. So if you want to talk to them when you're in Tollen, you could just be like, ‘Bloop, talk, bloop back.’",
+          "Delwath: A really good idea. I mean, we could teleport to him like from here.",
+          "Kenzo: Well, that's true. We have no relationship with him. Is it known that we were the ones that freed Sura from the mirror?",
+          "DM: No, that is not widely known. But it's known that you were the ones who—who killed Agata. It's assumed that she was killed. Nobody really knows the story of her being captured. That's a widely told story.",
+          "Delwath: It's not that we have a relationship with him, exactly, but we could tell them about the scepter, could tell him we destroyed it."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i024",
+      "title": "The party considers explaining the scepter’s destruction",
+      "entities": [
+        {
+          "id": "e056",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e057",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e064",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1599",
+        "endUid": "u1607"
+      },
+      "lines": [
+        "%% u1599:0-127 %%",
+        "Delwath: It's not that we have a relationship with him, exactly, but we could tell them about the scepter, could tell him we destroyed it.",
+        "",
+        "%% u1600:0-154 %%",
+        "Kenzo: Well, it's just a matter—a matter of trust. Is he—it is yet—is he already prejudiced against us or not, is the question. He won't listen to his own gods.",
+        "",
+        "%% u1601:0-33 %%",
+        "Riswynn: I mean, listen to the five of us.",
+        "",
+        "%% u1602:0-86, u1603:0-27 %%",
+        "Delwath: I don't know if his gods know the scepter has been destroyed, or are telling him that. Gods speak in riddles, right?",
+        "",
+        "%% u1604:0-13, u1605:0-54 %%",
+        "Riswynn: Well, they do, but he seems determined to misinterpret their riddles.",
+        "",
+        "%% u1606:0-99, u1607:0-100 %%",
+        "DM: I mean, the the story of him was never that he was the brightest one. He wasn't supposed to become— just his sister vanished, and he was left in control of the army, so he sort of de facto took over.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I wonder if we should go, not wielding either. Wonder if he would listen to us.",
+          "DM: Remember, you can teleport places, too. So if you want to talk to them when you're in Tollen, you could just be like, ‘Bloop, talk, bloop back.’",
+          "Delwath: A really good idea. I mean, we could teleport to him like from here.",
+          "Kenzo: Well, that's true. We have no relationship with him. Is it known that we were the ones that freed Sura from the mirror?",
+          "DM: No, that is not widely known. But it's known that you were the ones who—who killed Agata. It's assumed that she was killed. Nobody really knows the story of her being captured. That's a widely told story."
+        ],
+        "after": [
+          "Delwath: I mean, a group of 5 powerful magic users, mostly showing up via teleport on your doorstep—",
+          "Kenzo: Is not intimidating more than—",
+          "Delwath: Well, but intimidation works almost as well as convincing, right?",
+          "Kenzo: I don't know. Take it into one.",
+          "Riswynn: Yeah, throw on the charm and persuasion over there. Must have some."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i025",
+      "title": "Karnas’s rule and Fausto’s uncertain power",
+      "entities": [
+        {
+          "id": "e056",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e059",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e057",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1616",
+        "endUid": "u1641"
+      },
+      "lines": [
+        "%% u1616:0-75 %%",
+        "Kenzo: But what's our—what's our worry about the Chardonian influence over Karnas?",
+        "",
+        "%% u1617:0-100 %%",
+        "Delwath: Well, the story that Pava was just telling makes it sound like he's not excited about Chardon right?",
+        "",
+        "%% u1618:0-118, u1619:0-70, u1620:0-11, u1621:0-45 %%",
+        "DM: The story was never that he was particularly excited about Chardon. It was just that he was a weak ruler, and so when Chardon, like, ‘We'll give you a bunch of favorable trade deals if you let us send people to loot your ruins.’ He was like, ‘Sure.’",
+        "",
+        "%% u1622:0-45, u1623:0-20, u1624:0-9, u1625:0-19, u1626:0-21 %%",
+        "Delwath: What do I care about ruins? Until we deal with problems in Chardon, isn't it concerning to allow Dunmar to continue to",
+        "",
+        "%% u1627:0-13 %%",
+        "Riswynn: The unstable—",
+        "",
+        "%% u1628:0-136 %%",
+        "Delwath: Be unstable and fall further under Chardon's influence, perhaps? I mean, Fausto is still, and a powerful and important person in Chardon.",
+        "",
+        "%% u1629:0-97, u1630:0-72, u1631:0-60, u1632:0-139 %%",
+        "DM: Well, sorry, to be clear, the message from Pava is not that it's becoming more unstable. It's that they seem to have a truce. Exactly how that will play—play out, given the divine nature of Dunmari kingship, is not entirely clear, but the worry is really more that Chardon might attack Sura than anything else. That's—that's what you were supposed to learn from what I said.",
+        "",
+        "%% u1633:0-74 %%",
+        "Delwath: No, yeah, that's what I meant, that Dunmar is unstable vis-à-vis Chardon's.",
+        "",
+        "%% u1634:0-209, u1635:0-18, u1636:0-65 %%",
+        "Kenzo: So, I mean, real—really, like, it would behoove us to somehow heal the the Sura-Karnas rifts, which is also, like, cause, you know, later on, once we—once we pillage Chardon, we're gonna want, like, a united Dunmar like at our backs. You know, when the actual rate—when we raze Chardon, you know, so—",
+        "",
+        "%% u1637:0-4, u1638:0-114 %%",
+        "Delwath: That—my assumption is that a united Dunmar would present a front that Chardon would be interested in meddling. Chardon—",
+        "",
+        "%% u1639:0-57, u1640:0-58, u1641:0-69 %%",
+        "Delwath: The impression I have, at least, is that Chardon's not, like, an imperial conquesting power that's gonna get involved in marching armies in to defeat Dunmar. It's just they're opportunists.",
+        "",
+        "%% u1641:69-240 %%",
+        "Kenzo: No, but aren't they, though? Isn't that the long term plan? Isn't the whole Fausto Apollyon thing to, like, resurrect the Drankorian Empire through Chardon? So aren't they",
+        "",
+        "%% u1641:240-314 %%",
+        "DM: Not entirely clear how much, exactly how much power Fausto has in Chardon.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Is not intimidating more than—",
+          "Delwath: Well, but intimidation works almost as well as convincing, right?",
+          "Kenzo: I don't know. Take it into one.",
+          "Riswynn: Yeah, throw on the charm and persuasion over there. Must have some.",
+          "Delwath: We are not unconvincing."
+        ],
+        "after": [
+          "Kenzo: Sure, my point is just that, you know, if we—if we, like, we've obviously got the main quest, right? Which is to go get the Rai hand stuff. How much we want to actually, like, do stuff in Dunmar— Like, we could—I'm interested in doing stuff in Dunmar to the extent it helps us later when we raze Chardon. That's—I'm totally there, there, with that, right? Like, I'm there for you burning down of Chardon. That'll be Delwath and Kenzo's, like, touching moment, too.",
+          "Delwath: Why are we?",
+          "Kenzo: Th—this is this. He's gotta—he's gotta have, like, a, you know, some kind of, like, you know— What's the word? Like, release for his childhood trauma, you know what I mean? So it's gotta manifest somehow. So, you know, it's like razing that, razing the the the, you know, the the source of his, you know, childhood depression. You know what I mean.",
+          "Delwath: I mean, I could be talked out of it, but that's just kind of my my my go-to instinct right now, is to— I mean, it seems to me—well, we should get platforms, right? But like— of us.",
+          "Wellby: I feel like—or Wellby, like, there's a sense of some amount of responsibility for having caused some amount of this problem."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

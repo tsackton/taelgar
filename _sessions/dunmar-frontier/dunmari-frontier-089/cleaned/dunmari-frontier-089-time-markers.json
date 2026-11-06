@@ -1,0 +1,696 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-089",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-089/cleaned/dunmari-frontier-089-session.yaml",
+    "sessionYamlSha256": "06a168e325271e5a51bc4c708bf594689cc3a0c00f15e45e9d742f4c82e9d3ac",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-089/cleaned/dunmari-frontier-089-transcript.md",
+    "transcriptSha256": "601aa88befbfedca284046fb9488dbc198911c0d1e877fc0ac26d13747810096",
+    "yamlDates": {
+      "start": "1749-01-20",
+      "end": "1749-01-30"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0013"
+      },
+      "reading": "Play opens on the night after the battle, at the celebration in Uzgukhar.",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0013",
+          "quote": "We begin the night after the battle: the party in Uzgukhar, the ruined town."
+        }
+      ],
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "Narrated timing; month/day are spoken where supplied, without an independently spoken year."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0014",
+        "endUid": "u0016"
+      },
+      "reading": "The celebration passes midnight as Azogar begins the tale.",
+      "evidence": [
+        {
+          "startUid": "u0014",
+          "endUid": "u0016",
+          "quote": "But as the night—as the time passes midnight, the fires died down"
+        }
+      ],
+      "time": {
+        "partOfDay": "midnight",
+        "precision": "approximate",
+        "basis": "Narrated timing; month/day are spoken where supplied, without an independently spoken year."
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0124",
+        "endUid": "u0126"
+      },
+      "reading": "The next day is spent organizing and recovering after the celebration.",
+      "evidence": [
+        {
+          "startUid": "u0124",
+          "endUid": "u0126",
+          "quote": "So the next day, you spend some time kind of getting organized and recovering."
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t01",
+          "anchor": "morning/day after the opening celebration"
+        },
+        "precision": "approximate",
+        "basis": "Explicit next-day narration; not a second transition after the already recorded midnight."
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0168",
+        "endUid": "u0173"
+      },
+      "reading": "A few days of recovery reach the Festival of the New Dawn on January 23, before departure the following morning.",
+      "evidence": [
+        {
+          "startUid": "u0168",
+          "endUid": "u0173",
+          "quote": "So you spend—you spend, you know, a few days resting."
+        },
+        {
+          "startUid": "u0168",
+          "endUid": "u0173",
+          "quote": "January 23rd—"
+        },
+        {
+          "startUid": "u0168",
+          "endUid": "u0173",
+          "quote": "you're planning on leaving in the morning—is the Festival of the New Dawn."
+        }
+      ],
+      "time": {
+        "date": {
+          "month": 1,
+          "day": 23
+        },
+        "precision": "approximate",
+        "basis": "Narrated timing; month/day are spoken where supplied, without an independently spoken year."
+      },
+      "duration": {
+        "text": "a few days",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "DM’s accepted recovery montage, not the players’ suggested four-day recovery."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0181",
+        "endUid": "u0191"
+      },
+      "reading": "The next morning, January 24 by inference from the dated festival, the party prepares to leave and meets the sisters.",
+      "evidence": [
+        {
+          "startUid": "u0181",
+          "endUid": "u0191",
+          "quote": "So the next morning—period of rest and recovery and relaxation—as you prepare to leave, these 2 Orc women approach."
+        }
+      ],
+      "time": {
+        "date": {
+          "month": 1,
+          "day": 24
+        },
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Next morning after the explicitly dated January 23 festival."
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0251",
+        "endUid": "u0255"
+      },
+      "reading": "The party flies across the desert over the next couple of days, reaching the Kharsan overflight by January 25.",
+      "evidence": [
+        {
+          "startUid": "u0251",
+          "endUid": "u0255",
+          "quote": "For the next couple of days you fly across the desert."
+        },
+        {
+          "startUid": "u0258",
+          "endUid": "u0258",
+          "quote": "January 25th."
+        },
+        {
+          "startUid": "u0262",
+          "endUid": "u0264",
+          "quote": "The 20—the next day you fly over, you fly over Kharsan,"
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Accepted compressed flight narration: “next couple of days”; approximate, not two full 24-hour periods."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0251",
+        "endUid": "u0255"
+      },
+      "reading": "On the evening of January 24 the ship crosses its earlier flight track.",
+      "evidence": [
+        {
+          "startUid": "u0251",
+          "endUid": "u0255",
+          "quote": "The 24th, in the evening, you pass across the the track that you flew 2 months ago now, almost"
+        }
+      ],
+      "time": {
+        "date": {
+          "month": 1,
+          "day": 24
+        },
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "Narrated timing; month/day are spoken where supplied, without an independently spoken year."
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t06"
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0258",
+        "endUid": "u0258"
+      },
+      "reading": "The current day is January 25, the Kharsan overflight and exploration day; the later next-day January 26 transition confirms this.",
+      "evidence": [
+        {
+          "startUid": "u0258",
+          "endUid": "u0258",
+          "quote": "January 25th."
+        },
+        {
+          "startUid": "u0262",
+          "endUid": "u0264",
+          "quote": "The 20—the next day you fly over, you fly over Kharsan,"
+        },
+        {
+          "startUid": "u1173",
+          "endUid": "u1175",
+          "quote": "the next day, the twenty-sixth of January?"
+        }
+      ],
+      "time": {
+        "date": {
+          "month": 1,
+          "day": 25
+        },
+        "precision": "approximate",
+        "basis": "Narrated timing; month/day are spoken where supplied, without an independently spoken year."
+      },
+      "note": "“Next day” in the flight narration follows the January 24 evening crossing; it does not override the explicit January 25 answer.",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t06"
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u0621",
+        "endUid": "u0622"
+      },
+      "reading": "The DM retrospectively establishes the routine ten-minute telepathy ritual before this descent from the ship.",
+      "evidence": [
+        {
+          "startUid": "u0621",
+          "endUid": "u0622",
+          "quote": "But I assume I always assume before you leave the ship, you just immediately take the 10 min to refresh the telepathy, so every time you leave the ship, you automatically have an hour of telepathy."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM explicitly applies the routine ritual before leaving the ship."
+      },
+      "completion": "completed",
+      "note": "Retrospective credit for preparation before the already narrated descent; not a new ten-minute pause after entering the palace."
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1013",
+        "endUid": "u1013"
+      },
+      "reading": "The palace search has taken a couple of hours; about three hours of daylight remain at its completion.",
+      "evidence": [
+        {
+          "startUid": "u1013",
+          "endUid": "u1013",
+          "quote": "It's been a couple hours. You searched through the palace proper itself pretty thoroughly."
+        },
+        {
+          "startUid": "u1028",
+          "endUid": "u1029",
+          "quote": "you probably have 3 h of daylight, if you want to search other parts of the city."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s approximate elapsed palace search."
+      },
+      "completion": "completed",
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "Inferred late-day placement from approximately three hours of daylight remaining; no exact clock supplied."
+      }
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1105",
+        "endUid": "u1106"
+      },
+      "reading": "Library recovery begins in the remaining afternoon daylight; packaging is estimated at a couple of hours, without a confirmed exact elapsed duration.",
+      "evidence": [
+        {
+          "startUid": "u1105",
+          "endUid": "u1106",
+          "quote": "You could certainly spend the next 3 h of daylight. Let's do that."
+        },
+        {
+          "startUid": "u1107",
+          "endUid": "u1109",
+          "quote": "Sort of going to the library,"
+        },
+        {
+          "startUid": "u1120",
+          "endUid": "u1123",
+          "quote": "It would take you couple of hours to extract and package,"
+        }
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "Remaining daylight after the late-day palace search; work is accepted and begins."
+      },
+      "completion": "begun",
+      "note": "The three-hour proposal and two-hour packaging forecast are not independently confirmed completed durations."
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1173",
+        "endUid": "u1175"
+      },
+      "reading": "The next day is January 26, when Nuzkar and her sister accompany the party back down.",
+      "evidence": [
+        {
+          "startUid": "u1173",
+          "endUid": "u1175",
+          "quote": "So the next day Nuzkar brings—wants to bring her sister."
+        },
+        {
+          "startUid": "u1173",
+          "endUid": "u1175",
+          "quote": "the next day, the twenty-sixth of January?"
+        }
+      ],
+      "time": {
+        "date": {
+          "month": 1,
+          "day": 26
+        },
+        "precision": "approximate",
+        "basis": "Narrated timing; month/day are spoken where supplied, without an independently spoken year."
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1223",
+        "endUid": "u1232"
+      },
+      "reading": "During the burning and cleansing, Kenzo perceives an earlier conflagration and then a vision of the wizard trapping Kharsan’s fleeing people.",
+      "evidence": [
+        {
+          "startUid": "u1223",
+          "endUid": "u1232",
+          "quote": "As this thing burns, you hear—you see echoes of a great conflagration of the victims of the first plague."
+        },
+        {
+          "startUid": "u1242",
+          "endUid": "u1245",
+          "quote": "And the vision you have is some powerful wizard in Cha'mutte's armies, putting a giant wall of fire to keep the people of Kharsan from fleeing to the safety of the monastery."
+        }
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1260",
+        "endUid": "u1271"
+      },
+      "reading": "Wellby momentarily sees the river of souls again during the cleansing; the remembered visit was several days earlier.",
+      "evidence": [
+        {
+          "startUid": "u1260",
+          "endUid": "u1271",
+          "quote": "for a moment, you see the river that you stood on 2, 3, 4, 5, 6 days ago, the souls of the dead streaming past."
+        }
+      ],
+      "context": "vision",
+      "note": "The loose retrospective count locates the recollection; it neither replays a multi-day interval nor dates the historical plague vision."
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1272",
+        "endUid": "u1273"
+      },
+      "reading": "Narration returns to the present as the fires burn down and the sun climbs through the afternoon.",
+      "evidence": [
+        {
+          "startUid": "u1272",
+          "endUid": "u1273",
+          "quote": "And as the fires burned down and the sun climbs the afternoon. Probably you'll all feel about ready to leave this place."
+        }
+      ],
+      "time": {
+        "date": {
+          "month": 1,
+          "day": 26
+        },
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "Narrated timing; month/day are spoken where supplied, without an independently spoken year."
+      },
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t12"
+        }
+      ]
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u1321",
+        "endUid": "u1335"
+      },
+      "reading": "The sword’s Mirror vision shifts to Kharsan in its glory days and then earlier bearers and its forging.",
+      "evidence": [
+        {
+          "startUid": "u1321",
+          "endUid": "u1335",
+          "quote": "You—you see an image of what you would guess was this palace, same palace that you were in, but in its its glory days,"
+        },
+        {
+          "startUid": "u1357",
+          "endUid": "u1366",
+          "quote": "And then it shifts one more time, the image,"
+        }
+      ],
+      "context": "vision",
+      "note": "The people and generations shown establish a historical frame, not elapsed adventure days."
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u1357",
+        "endUid": "u1366"
+      },
+      "reading": "The Mirror vision ends, returning to the January 26 adventure context before the onward flight.",
+      "evidence": [
+        {
+          "startUid": "u1357",
+          "endUid": "u1366",
+          "quote": "And then the mirror ends."
+        },
+        {
+          "startUid": "u1376",
+          "endUid": "u1377",
+          "quote": "So you continue flying?"
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t15"
+        }
+      ]
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u1380",
+        "endUid": "u1380"
+      },
+      "reading": "The party travels west on January 27.",
+      "evidence": [
+        {
+          "startUid": "u1380",
+          "endUid": "u1380",
+          "quote": "January 27th, you travel west."
+        }
+      ],
+      "time": {
+        "date": {
+          "month": 1,
+          "day": 27
+        },
+        "precision": "approximate",
+        "basis": "Narrated timing; month/day are spoken where supplied, without an independently spoken year."
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u1381",
+        "endUid": "u1389"
+      },
+      "reading": "The house of Pava and Avaras comes into view at sunrise on January 28.",
+      "evidence": [
+        {
+          "startUid": "u1381",
+          "endUid": "u1389",
+          "quote": "The morning of January 28th, you see, but below you, as the sun rises, the stone house of Pava and Avaras."
+        }
+      ],
+      "time": {
+        "date": {
+          "month": 1,
+          "day": 28
+        },
+        "partOfDay": "sunrise",
+        "precision": "approximate",
+        "basis": "Narrated timing; month/day are spoken where supplied, without an independently spoken year."
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u1519",
+        "endUid": "u1524"
+      },
+      "reading": "By the shipboard tour, the seedling has grown about six inches over roughly a week.",
+      "evidence": [
+        {
+          "startUid": "u1519",
+          "endUid": "u1524",
+          "quote": "The elven tree, which has now grown about this much in a week, like 6 inches or so."
+        }
+      ],
+      "duration": {
+        "value": 7,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Retrospective “in a week” growth interval, approximate rather than an additional delay."
+      },
+      "completion": "completed",
+      "time": {
+        "date": {
+          "month": 1,
+          "day": 28
+        },
+        "precision": "approximate",
+        "basis": "The growth is observed during the continuous visit after the dated January 28 arrival; no independent tour clock is supplied."
+      },
+      "note": "This growth interval overlaps the recovery and flights already narrated; it adds no week after arrival."
+    },
+    {
+      "id": "t21",
+      "source": {
+        "startUid": "u1527",
+        "endUid": "u1527"
+      },
+      "reading": "January 28 continues through an afternoon and evening of catching up and dinner.",
+      "evidence": [
+        {
+          "startUid": "u1527",
+          "endUid": "u1527",
+          "quote": "So you spend the afternoon in the evening catching up having dinner together."
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "date": {
+            "month": 1,
+            "day": 28
+          },
+          "partOfDay": "afternoon",
+          "precision": "approximate",
+          "basis": "Narrated timing; month/day are spoken where supplied, without an independently spoken year."
+        },
+        "end": {
+          "date": {
+            "month": 1,
+            "day": 28
+          },
+          "partOfDay": "evening",
+          "precision": "approximate",
+          "basis": "Narrated timing; month/day are spoken where supplied, without an independently spoken year."
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t22",
+      "source": {
+        "startUid": "u1530",
+        "endUid": "u1530"
+      },
+      "reading": "The party stays overnight, then spends another day visiting before the next-day January 30 departure conversation.",
+      "evidence": [
+        {
+          "startUid": "u1530",
+          "endUid": "u1530",
+          "quote": "Spend the night. Spend another day if you want."
+        },
+        {
+          "startUid": "u1530",
+          "endUid": "u1530",
+          "quote": "So you spend a day just kind of hanging out with them."
+        },
+        {
+          "startUid": "u1531",
+          "endUid": "u1533",
+          "quote": "And the next day, January thirtieth,"
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "date": {
+            "month": 1,
+            "day": 28
+          },
+          "partOfDay": "night",
+          "precision": "approximate",
+          "basis": "Narrated timing; month/day are spoken where supplied, without an independently spoken year."
+        },
+        "end": {
+          "date": {
+            "month": 1,
+            "day": 29
+          },
+          "precision": "approximate",
+          "basis": "Narrated timing; month/day are spoken where supplied, without an independently spoken year."
+        }
+      },
+      "completion": "completed",
+      "dateBoundaries": 1,
+      "note": "January 29 follows from the January 28 arrival and January 30 next-day anchor; no extra downtime is inserted from YAML."
+    },
+    {
+      "id": "t23",
+      "source": {
+        "startUid": "u1531",
+        "endUid": "u1533"
+      },
+      "reading": "The next day, January 30, Pava shares news while the party prepares to leave; the proposed diplomatic trip is not carried out.",
+      "evidence": [
+        {
+          "startUid": "u1531",
+          "endUid": "u1533",
+          "quote": "And the next day, January thirtieth, Pava takes you aside as you're sort of preparing to leave,"
+        },
+        {
+          "startUid": "u1716",
+          "endUid": "u1717",
+          "quote": "No, this is next time."
+        }
+      ],
+      "time": {
+        "date": {
+          "month": 1,
+          "day": 30
+        },
+        "precision": "approximate",
+        "basis": "Narrated timing; month/day are spoken where supplied, without an independently spoken year."
+      },
+      "dateBoundaries": 1
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "January 23, 24, 25, 26, 27, 28 and 30 are spoken; January 29 follows the narrated overnight and extra day. The year and January 20 opening calendar assignment come from YAML, not an independently spoken opening date.",
+    "expectedDateBoundaries": 10,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t12",
+      "t15",
+      "t18",
+      "t19",
+      "t21",
+      "t22",
+      "t23"
+    ],
+    "explanation": "The few-day recovery and dated travel/visit sequence fit January 20–30. The undated opening night and approximate early recovery do not independently establish an exact ten-boundary total. The January 28 overnight, additional day and January 30 anchor supply the closing interval explicitly; historical visions, overlapping tree growth and future plans add no adventure days."
+  }
+}

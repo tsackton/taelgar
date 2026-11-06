@@ -1,0 +1,173 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-089/cleaned/dunmari-frontier-089-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-089/cleaned/dunmari-frontier-089-time-markers.json",
+    "sha256": "1085ac4b44422ad3f9fd542869b7534aac99481e7b44e66acba2f2f200a1fbdf"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-089/cleaned/dunmari-frontier-089-transcript.md",
+    "sha256": "601aa88befbfedca284046fb9488dbc198911c0d1e877fc0ac26d13747810096"
+  },
+  "dateAssessment": "Working calendar: YAML’s DR 1749-01-20–1749-01-30. The transcript independently names January 23–28 and 30; January 29 follows the overnight and extra visiting day. The opening night’s January 20 placement is conditional on YAML, and the early rest is approximate, so the time extraction is compatible rather than an independently exact ten-day match. The closing January 28–30 interval is narrated, not filled from the end date. Open watches mean a date or interval is supported without a clock; visions and the tree’s retrospective growth add no extra adventure time.",
+  "watches": [
+    {
+      "day": "January 20–21, 1749",
+      "startWatch": null,
+      "endWatch": "midnight",
+      "basis": "mixed",
+      "summary": "The night-after-battle celebration passes midnight; its January 20–21 placement follows the working calendar.",
+      "markers": [
+        "t01",
+        "t02"
+      ],
+      "startDate": "1749-01-20",
+      "endDate": "1749-01-21"
+    },
+    {
+      "day": "During January 21–23, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Next-day recovery expands into a few-day rest ending at the explicitly dated January 23 festival.",
+      "markers": [
+        "t03",
+        "t04"
+      ],
+      "dateWindow": [
+        "1749-01-21",
+        "1749-01-23"
+      ]
+    },
+    {
+      "day": "January 24, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "The next morning after January 23, the sisters approach as the party prepares to leave.",
+      "markers": [
+        "t05"
+      ],
+      "startDate": "1749-01-24",
+      "endDate": "1749-01-24"
+    },
+    {
+      "day": "January 24, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "On January 24 evening, the ship crosses its earlier desert flight track.",
+      "markers": [
+        "t07"
+      ],
+      "startDate": "1749-01-24",
+      "endDate": "1749-01-24"
+    },
+    {
+      "day": "January 25, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "About two days of flight reach Kharsan; the two-hour palace search ends with three daylight hours left, followed by library salvage.",
+      "markers": [
+        "t06",
+        "t08",
+        "t09",
+        "t10",
+        "t11"
+      ],
+      "startDate": "1749-01-25",
+      "endDate": "1749-01-25"
+    },
+    {
+      "day": "January 26, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "January 26 cleansing ends as the sun climbs through afternoon; the sword’s historical vision follows.",
+      "markers": [
+        "t12",
+        "t13",
+        "t14",
+        "t15",
+        "t16",
+        "t17"
+      ],
+      "startDate": "1749-01-26",
+      "endDate": "1749-01-26"
+    },
+    {
+      "day": "January 27, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "January 27 explicitly dates the westward flight; no departure or arrival watch is given.",
+      "markers": [
+        "t18"
+      ],
+      "startDate": "1749-01-27",
+      "endDate": "1749-01-27"
+    },
+    {
+      "day": "January 28, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "January 28 sunrise anchors arrival and reunion; the tour’s retrospective week of tree growth overlaps earlier travel.",
+      "markers": [
+        "t19",
+        "t20"
+      ],
+      "startDate": "1749-01-28",
+      "endDate": "1749-01-28"
+    },
+    {
+      "day": "January 28, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "The party spends the afternoon and evening catching up and dining with the monks.",
+      "markers": [
+        "t21"
+      ],
+      "startDate": "1749-01-28",
+      "endDate": "1749-01-28"
+    },
+    {
+      "day": "January 28–29, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "An overnight stay and another visiting day account for January 29 before the January 30 transition.",
+      "markers": [
+        "t22"
+      ],
+      "startDate": "1749-01-28",
+      "endDate": "1749-01-29"
+    },
+    {
+      "day": "January 30, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Pava shares news on January 30 while the party prepares to leave; no clock is spoken.",
+      "markers": [
+        "t23"
+      ],
+      "startDate": "1749-01-30",
+      "endDate": "1749-01-30"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Agata: prior scepter custody",
+      "path": "People/Fey/Agata.md",
+      "sha256": "344a86d57ada2058995f35bed38fff8512f0796a3fe4f27d64af6691115ab3de"
+    },
+    {
+      "label": "Scepter: prior custody",
+      "path": "Things/Artifacts of Power/Scepter of Command.md",
+      "sha256": "13649ecb9ad0efd4f44cdf7f5a92ebc74a8cec1b64237b8d4574f90c5a8f17f3"
+    }
+  ]
+}
