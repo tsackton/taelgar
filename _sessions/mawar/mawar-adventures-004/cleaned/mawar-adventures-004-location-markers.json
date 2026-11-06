@@ -8,7 +8,7 @@
     "transcriptSha256": "4d6c2412f3ecfbeeeb7ce93bf6be2a79c32ba4731de436a2dcfdbb589eac7df9",
     "timeMarkers": {
       "path": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-time-markers.json",
-      "sha256": "4060da816b3e5ae8c4d6d6680881b3bbb0fbf6cabdb2f8c438478d1661f0dc34",
+      "sha256": "9910f8bbc7bb98b47deaf498332fea10e013197779fb444370bd8dc0c5582784",
       "schemaVersion": "0.5-time-markers-draft"
     }
   },
@@ -338,8 +338,13 @@
       "evidence": [
         {
           "startUid": "u2117",
-          "endUid": "u2125",
-          "quote": "I can take the lead. Yeah, make a survival check. Okay, you pick your way up through this matted vegetation avoiding a couple of weak spots, that would have—"
+          "endUid": "u2118",
+          "quote": "you pick your way up through this matted vegetation"
+        },
+        {
+          "startUid": "u2119",
+          "endUid": "u2122",
+          "quote": "Where the the roof would have collapsed and you seem to be climbing now on like some vast dome"
         }
       ],
       "relations": [
@@ -356,6 +361,11 @@
               "startUid": "u2117",
               "endUid": "u2125",
               "quote": "I can take the lead. Yeah, make a survival check. Okay, you pick your way up through this matted vegetation avoiding a couple of weak spots, that would have—"
+            },
+            {
+              "startUid": "u2119",
+              "endUid": "u2122",
+              "quote": "Where the the roof would have collapsed and you seem to be climbing now on like some vast dome"
             }
           ]
         }
@@ -749,33 +759,6 @@
       "note": "Later Blu’s report identifies the steaming mound; the initial sight alone does not establish its detailed form."
     },
     {
-      "id": "l08",
-      "type": "presence",
-      "source": {
-        "startUid": "u0491",
-        "endUid": "u0492"
-      },
-      "actors": [
-        "Benat",
-        "Azar"
-      ],
-      "reading": "The DM reports Benat staying here with Azar; the party does not meet them in the played scene.",
-      "evidence": [
-        {
-          "startUid": "u0491",
-          "endUid": "u0491",
-          "quote": "Yeah so actually, this is where um where Benat has been staying with. It's it's like Benat's home village. It's where he's from the like lizard folk historian that you met in town a few adventures ago and so he's actually staying here with with Azar, the"
-        },
-        {
-          "startUid": "u0492",
-          "endUid": "u0492",
-          "quote": "warlock dude who you captured was like trying to recover from his past life."
-        }
-      ],
-      "place": "p08",
-      "context": "reported"
-    },
-    {
       "id": "l09",
       "type": "movement",
       "source": {
@@ -1057,6 +1040,11 @@
           "startUid": "u2161",
           "endUid": "u2164",
           "quote": "Like of fire sort of stretching down off of the cloak again sort of cracked with magma. It seems to be yelling something at this turtle creature, um—"
+        },
+        {
+          "startUid": "u2239",
+          "endUid": "u2241",
+          "quote": "Like you can all see through the hole basically you can just only see like a line here, you can see, basically, the fire guy and the turtle in a line."
         }
       ],
       "place": "p14",
@@ -1173,52 +1161,42 @@
           "startUid": "u2154",
           "endUid": "u2159",
           "quote": "um standing on the shore, looking up at you as this hole is a another somewhat abnormally large human. Um, not, not wearing Armor this one wearing a with a cloak."
+        },
+        {
+          "startUid": "u3012",
+          "endUid": "u3013",
+          "quote": "you're sort of on the beach I would assume"
         }
       ],
       "from": "p13",
       "to": "p15",
       "completion": "arrived",
-      "mode": "jump"
-    },
-    {
-      "id": "l23",
-      "type": "presence",
-      "source": {
-        "startUid": "u3012",
-        "endUid": "u3013"
-      },
-      "actors": [
-        "Ander"
-      ],
-      "reading": "The DM places the party on the beach, except Nerissa on the water; Ryu then swims over to Chaessenth.",
-      "evidence": [
-        {
-          "startUid": "u3012",
-          "endUid": "u3013",
-          "quote": "You're I mean, he's, he's in the water, you're sort of on the beach I would assume more I mean, Nerissa's like standing on the water."
-        },
-        {
-          "startUid": "u3014",
-          "endUid": "u3016",
-          "quote": "Yeah Ryu swims over just to like kind of be like right up next to the Chaessenth, so he can he can see and, you know, with Turk to Turks kind of like right here as well, on—Nerissa, can you can you introduce us?"
-        }
-      ],
-      "place": "p15",
-      "note": "The DM qualifies the beach placement with “I would assume”; Ander’s earlier landing is separately established."
+      "mode": "jump",
+      "note": "The landing passage places Ander beside the mage; the postcombat narration qualifies the beach placement with “I would assume.”"
     },
     {
       "id": "l19",
       "type": "presence",
       "source": {
-        "startUid": "u3012",
-        "endUid": "u3016"
+        "startUid": "u2763",
+        "endUid": "u2769"
       },
       "actors": [
         "Ryu",
         "Nerissa"
       ],
-      "reading": "After the battle Ryu swims with Turk and Nerissa stands on the inner pool’s water.",
+      "reading": "When Chaessenth dives, Ryu is left swimming and Nerissa stands on the inner pool’s water; their pool positions persist after the fight.",
       "evidence": [
+        {
+          "startUid": "u2763",
+          "endUid": "u2769",
+          "quote": "Ryu: Oh, and I'm now in the water. Okay."
+        },
+        {
+          "startUid": "u2763",
+          "endUid": "u2769",
+          "quote": "DM: Nerissa's, on top of the water."
+        },
         {
           "startUid": "u3012",
           "endUid": "u3013",
