@@ -1,0 +1,1119 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-117",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-session.yaml",
+    "sessionYamlSha256": "4584aebb84e0d36ecdd223038f1d2b0a4f04a2e7bc5815eb277b0ff1fa191175",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-transcript.md",
+    "transcriptSha256": "b60c0617b15e71c161c322d1cbe8395daaf004533134fcacfa4c22e508cfefbd"
+  },
+  "places": {
+    "p01": {
+      "label": "Apollyon's temple / tomb / prison",
+      "kind": "temple complex",
+      "evidence": [
+        {
+          "startUid": "u0049",
+          "endUid": "u0054",
+          "quote": "The whole Temple slash tomb, slash prison is in a state of construction. It was never finished before Cha'mutte attacked and destroyed the city. And so you see partially carved murals, stone cutting tools strewn around statues that have not been finished. Even the large massive statue of Apollyon that many of you are standing near or on right now does not seem complete. The, the face and the, and the features just hinted at rather than carved in pure detail."
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/Apollyon's Temple.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p14",
+          "evidence": [
+            {
+              "startUid": "u2841",
+              "endUid": "u2845",
+              "quote": "Though they are getting close, they're on their way. They won't be able to get too close to the city because the fear aura is still exists. That's a plague effect, not an Apollyon effect. So, yeah, you'll need to make your way from the roof of this building out of Drankor. But— well, we could just Rainbow Bridge from the roof."
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "Main floor and central altar",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0044",
+          "endUid": "u0054",
+          "quote": "The room you're standing in is massive, maybe 200 feet from end to end. You are before the large statue of Apollyon that dominates the center of this sort of Temple worship area, but to your left and to your right there are, um, in the distance, small or smaller, I should say, not small themselves—side areas, side chapels of sorts.\n\nDM: The whole Temple slash tomb, slash prison is in a state of construction. It was never finished before Cha'mutte attacked and destroyed the city. And so you see partially carved murals, stone cutting tools strewn around statues that have not been finished. Even the large massive statue of Apollyon that many of you are standing near or on right now does not seem complete. The, the face and the, and the features just hinted at rather than carved in pure detail."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0044",
+              "endUid": "u0054",
+              "quote": "The room you're standing in is massive, maybe 200 feet from end to end. You are before the large statue of Apollyon that dominates the center of this sort of Temple worship area, but to your left and to your right there are, um, in the distance, small or smaller, I should say, not small themselves—side areas, side chapels of sorts.\n\nDM: The whole Temple slash tomb, slash prison is in a state of construction. It was never finished before Cha'mutte attacked and destroyed the city. And so you see partially carved murals, stone cutting tools strewn around statues that have not been finished. Even the large massive statue of Apollyon that many of you are standing near or on right now does not seem complete. The, the face and the, and the features just hinted at rather than carved in pure detail."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Unfinished undercrypt",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0425",
+          "endUid": "u0429",
+          "quote": "So you find yourself now in this undercrypt that I described before, looking at when Delwath was looking with Ghostly Gaze. There are stairs down in the corner that lead further underground, and there's, like, the debris of construction and things like that, big piles of glass tiles that are supposed to go in the mosaic. Things like that."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0425",
+              "endUid": "u0429",
+              "quote": "So you find yourself now in this undercrypt that I described before, looking at when Delwath was looking with Ghostly Gaze. There are stairs down in the corner that lead further underground, and there's, like, the debris of construction and things like that, big piles of glass tiles that are supposed to go in the mosaic. Things like that."
+            },
+            {
+              "startUid": "u0219",
+              "endUid": "u0230",
+              "quote": "So there is, immediately below this level— there seems to be a large under crypt of sorts that's full of, like, unfinished stonework. Like ladders that seem to have disintegrated into dust.\n\nSeeker: Tomb. Tomb of the Ladders.\n\nDM: Yeah. Stone, you know, stone working tools, barrels that have cracked and fallen apart. And there are stairs down from there. But you cannot—you don't have the range to see down below the—\n\nDelwath: Right, 1st under level. But there's an obvious undercrypt kind of right below us.\n\nDM: There's an obvious undercrypt right below you, although how to access it is not clear.\n\nDelwath: Possible.\n\nDM: Then there are stairs down from the obvious under crypt, going even further down."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "West side chapel",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0284",
+          "endUid": "u0298",
+          "quote": "Let's hope it stays. Okay. So I was about to say what what Wellby finds as he searches, as he returns from searching just about as Delwath finishes his prayers, and what you report. So on the left side, the, the west side of the— of the temple, this side chapel. It's, I mean, it's a big room. It's—there's a row of columns that separate it from the— from the main sort of temple space.\n\nDM: And although obviously unfinished, this is clearly a monument or a, you know, a depiction of Apollyon's triumphant rise to power. There is a mural that's unfinished that you know, depicts Apollyon leading his army with the Scepter of Command.\n\nDM: There's a mural that is mostly finished that depicts Apollyon standing in the the large arena, the amphitheater, that you could see when you flew your ship, overflew Vindristjarna over Drankor, raising his hand as a few hundred Peronar are executed in a mass execution.\n\nDM: There are other depictions of Apollyon standing above the 8 divines, the 8 divines bowing to him as the temple is, as, you know, temple is dismantled, which you know didn't happen, perhaps more aspirational than in truth. But it is clearly a quite, you know, militaristic and imperial display of Apollyon's triumphs."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0284",
+              "endUid": "u0298",
+              "quote": "Let's hope it stays. Okay. So I was about to say what what Wellby finds as he searches, as he returns from searching just about as Delwath finishes his prayers, and what you report. So on the left side, the, the west side of the— of the temple, this side chapel. It's, I mean, it's a big room. It's—there's a row of columns that separate it from the— from the main sort of temple space.\n\nDM: And although obviously unfinished, this is clearly a monument or a, you know, a depiction of Apollyon's triumphant rise to power. There is a mural that's unfinished that you know, depicts Apollyon leading his army with the Scepter of Command.\n\nDM: There's a mural that is mostly finished that depicts Apollyon standing in the the large arena, the amphitheater, that you could see when you flew your ship, overflew Vindristjarna over Drankor, raising his hand as a few hundred Peronar are executed in a mass execution.\n\nDM: There are other depictions of Apollyon standing above the 8 divines, the 8 divines bowing to him as the temple is, as, you know, temple is dismantled, which you know didn't happen, perhaps more aspirational than in truth. But it is clearly a quite, you know, militaristic and imperial display of Apollyon's triumphs."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Opposite side chapel with the ascension mosaic",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0299",
+          "endUid": "u0306",
+          "quote": "On the other side, opposite here, this room is, is mostly unfinished, but there is a massive mosaic that covers the entire wall. Almost no tiles placed, but you can sort of see how it's been sketched out. That's seemingly supposed to depict Apollyon's ascension to God. There are, you know, Apollyon standing, the crown on his head, the cloak flowing behind him, scepter upraised, lines of energy radiating out from the crown in all directions, circling around the scepter, being amplified and amplifying the scepter, and as he slowly ascends from this building somewhere. But again, it's mostly not completed."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0299",
+              "endUid": "u0306",
+              "quote": "On the other side, opposite here, this room is, is mostly unfinished, but there is a massive mosaic that covers the entire wall. Almost no tiles placed, but you can sort of see how it's been sketched out. That's seemingly supposed to depict Apollyon's ascension to God. There are, you know, Apollyon standing, the crown on his head, the cloak flowing behind him, scepter upraised, lines of energy radiating out from the crown in all directions, circling around the scepter, being amplified and amplifying the scepter, and as he slowly ascends from this building somewhere. But again, it's mostly not completed."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Stair foot outside the green-lit worship chamber",
+      "kind": "threshold",
+      "evidence": [
+        {
+          "startUid": "u0539",
+          "endUid": "u0552",
+          "quote": "Then you descend the steps once more. You emerge now into a smaller, more constrained room. It is something useful. As you come down the stairs you're you're entering into a room that's maybe 20 feet wide and 30 feet long, and it leads to a 10 foot wide opening at the far end that seems seems to open out into a corridor through which you can see what looked like sarcophagi. The room, the walls of this room are lined with carved, met—carved stone iconography of people kneeling in worship. This room—sorry, this room is lit. There's\n\nSeeker: Okay.\n\nDM: Continual flames burning in, with a sort of a greenish light burning in rows along the floor that cast sort of flickering shadows along the along the wall, and there's the occasional faint whisper."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0539",
+              "endUid": "u0552",
+              "quote": "Then you descend the steps once more. You emerge now into a smaller, more constrained room. It is something useful. As you come down the stairs you're you're entering into a room that's maybe 20 feet wide and 30 feet long, and it leads to a 10 foot wide opening at the far end that seems seems to open out into a corridor through which you can see what looked like sarcophagi. The room, the walls of this room are lined with carved, met—carved stone iconography of people kneeling in worship. This room—sorry, this room is lit. There's\n\nSeeker: Okay.\n\nDM: Continual flames burning in, with a sort of a greenish light burning in rows along the floor that cast sort of flickering shadows along the along the wall, and there's the occasional faint whisper."
+            },
+            {
+              "startUid": "u0577",
+              "endUid": "u0583",
+              "quote": "Wait. Is Delwath walking through the room?\n\nDelwath: No, no, no, no! I was just moving to make space so that you could. Sorry. That's not— I was just trying to make enough space so that you could put everybody there. I'm still on the stairs.\n\nDM: Is that everybody? Who am I missing? No, I've got everybody. The big ladder following behind."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Green-lit worship chamber and sarcophagus hall",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0539",
+          "endUid": "u0548",
+          "quote": "Then you descend the steps once more. You emerge now into a smaller, more constrained room. It is something useful. As you come down the stairs you're you're entering into a room that's maybe 20 feet wide and 30 feet long, and it leads to a 10 foot wide opening at the far end that seems seems to open out into a corridor through which you can see what looked like sarcophagi. The room, the walls of this room are lined with carved, met—carved stone iconography of people kneeling in worship. This room—sorry, this room is lit. There's"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0539",
+              "endUid": "u0548",
+              "quote": "Then you descend the steps once more. You emerge now into a smaller, more constrained room. It is something useful. As you come down the stairs you're you're entering into a room that's maybe 20 feet wide and 30 feet long, and it leads to a 10 foot wide opening at the far end that seems seems to open out into a corridor through which you can see what looked like sarcophagi. The room, the walls of this room are lined with carved, met—carved stone iconography of people kneeling in worship. This room—sorry, this room is lit. There's"
+            },
+            {
+              "startUid": "u0940",
+              "endUid": "u0949",
+              "quote": "You are left in a silent, empty room. The— echoing—I mean, at some point, Seeker, the ladder and the construct are just gonna have to step into the room, suck it up, pray for 30 seconds until they can shake it off. But there's no reason to play it out with the minions dead.\n\nSeeker: Right.\n\nDM: Now from here, Riswynn and Wellby, you can see that there's stairs down in this room. They're not, they're not marked on the map. But right here there's you can see the top of the stairs going down.\n\nWellby: Anything in these sarcophagi? Like, Wellby'll take a quick look inside.\n\nDM: They're filled with dust that looks like the cremated remains of maybe about 40 people. Who just emerged and attacked you."
+            }
+          ]
+        },
+        {
+          "relation": "connected_to",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0539",
+              "endUid": "u0548",
+              "quote": "Then you descend the steps once more. You emerge now into a smaller, more constrained room. It is something useful. As you come down the stairs you're you're entering into a room that's maybe 20 feet wide and 30 feet long, and it leads to a 10 foot wide opening at the far end that seems seems to open out into a corridor through which you can see what looked like sarcophagi. The room, the walls of this room are lined with carved, met—carved stone iconography of people kneeling in worship. This room—sorry, this room is lit. There's"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Intermediate fifteen-foot landing",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0954",
+          "endUid": "u0959",
+          "quote": "You descend another level, checking for traps. There's no traps on this stair-down, and you come down into another—there's no map for this—into a another room, a small, maybe 15 by 15 foot square room. The stairs descend further from here. There is also a corridor that leads about 40 feet into another room, that, the much larger room that you can only dimly see. 2 columns, chains hanging off the columns, and a familiar-looking stone sarcophagus that Delwath saw in a scry several months—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0954",
+              "endUid": "u0959",
+              "quote": "You descend another level, checking for traps. There's no traps on this stair-down, and you come down into another—there's no map for this—into a another room, a small, maybe 15 by 15 foot square room. The stairs descend further from here. There is also a corridor that leads about 40 feet into another room, that, the much larger room that you can only dimly see. 2 columns, chains hanging off the columns, and a familiar-looking stone sarcophagus that Delwath saw in a scry several months—"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Doppel chamber",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0954",
+          "endUid": "u0959",
+          "quote": "You descend another level, checking for traps. There's no traps on this stair-down, and you come down into another—there's no map for this—into a another room, a small, maybe 15 by 15 foot square room. The stairs descend further from here. There is also a corridor that leads about 40 feet into another room, that, the much larger room that you can only dimly see. 2 columns, chains hanging off the columns, and a familiar-looking stone sarcophagus that Delwath saw in a scry several months—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0954",
+              "endUid": "u0959",
+              "quote": "You descend another level, checking for traps. There's no traps on this stair-down, and you come down into another—there's no map for this—into a another room, a small, maybe 15 by 15 foot square room. The stairs descend further from here. There is also a corridor that leads about 40 feet into another room, that, the much larger room that you can only dimly see. 2 columns, chains hanging off the columns, and a familiar-looking stone sarcophagus that Delwath saw in a scry several months—"
+            },
+            {
+              "startUid": "u0962",
+              "endUid": "u0962",
+              "quote": "He observed Apollyon creating the doppelganger constructs."
+            },
+            {
+              "startUid": "u0974",
+              "endUid": "u0974",
+              "quote": "So you can continue descending, or you can go explore the doppel chamber."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Lowest crypt landing",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0983",
+          "endUid": "u1008",
+          "quote": "Now you emerge at what seems to be the bottom of the— Let's put everybody here. Okay. Can you see?\n\nRiswynn: I see.\n\nDM: Yeah.\n\nRiswynn: Bad.\n\nDelwath: Yes.\n\nDM: Then move it. We were missing.\n\nRiswynn: Okay.\n\nSeeker: Construct and ladder.\n\nDM: Okay. Construct, is there.\n\nWellby: I cannot see. Should we be seeing anything right now?\n\nDM: Oh, wait!\n\nSeeker: At the bottom, left.\n\nDelwath: Well, I'll be behind.\n\nDM: Oh, I don't have night vision turned on for Wellby. Okay, now, how can you? Obviously. Okay. Okay. So you emerge at what seems to be the lowest, lowest obvious level of the crypt.\n\nRiswynn: Where's chalyte knight?\n\nDM: Oh, I don't have, I don't have chalyte knight. There is the room— small room that you emerge into at the bottom of the stairs, and a narrow passageway only about 5 feet wide."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0983",
+              "endUid": "u1008",
+              "quote": "Now you emerge at what seems to be the bottom of the— Let's put everybody here. Okay. Can you see?\n\nRiswynn: I see.\n\nDM: Yeah.\n\nRiswynn: Bad.\n\nDelwath: Yes.\n\nDM: Then move it. We were missing.\n\nRiswynn: Okay.\n\nSeeker: Construct and ladder.\n\nDM: Okay. Construct, is there.\n\nWellby: I cannot see. Should we be seeing anything right now?\n\nDM: Oh, wait!\n\nSeeker: At the bottom, left.\n\nDelwath: Well, I'll be behind.\n\nDM: Oh, I don't have night vision turned on for Wellby. Okay, now, how can you? Obviously. Okay. Okay. So you emerge at what seems to be the lowest, lowest obvious level of the crypt.\n\nRiswynn: Where's chalyte knight?\n\nDM: Oh, I don't have, I don't have chalyte knight. There is the room— small room that you emerge into at the bottom of the stairs, and a narrow passageway only about 5 feet wide."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Tight twisting passage",
+      "kind": "passage",
+      "evidence": [
+        {
+          "startUid": "u1025",
+          "endUid": "u1035",
+          "quote": "So we can't see down through this little twisty passageway?\n\nDM: It's pretty narrow. It's hard to—I mean you can't—you can see, like, the end of the corridor.\n\nDelwath: So like, right? Okay, it just, it goes down, but it's narrow. And then—\n\nDM: It turns and twists.\n\nDelwath: Right, right, right, right. I mean, do we just walk into the trap? I don't know what else to do.\n\nSeeker: Well, we could send the chalyte knight and/or the construct, not the ladder, obviously, first.\n\nDelwath: Yeah. Why don't we send the chalyte knight first and see what happens?\n\nSeeker: That's been our strategy thus far.\n\nWellby: Served us well.\n\nDM: Guy disappears around the corner."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1025",
+              "endUid": "u1035",
+              "quote": "So we can't see down through this little twisty passageway?\n\nDM: It's pretty narrow. It's hard to—I mean you can't—you can see, like, the end of the corridor.\n\nDelwath: So like, right? Okay, it just, it goes down, but it's narrow. And then—\n\nDM: It turns and twists.\n\nDelwath: Right, right, right, right. I mean, do we just walk into the trap? I don't know what else to do.\n\nSeeker: Well, we could send the chalyte knight and/or the construct, not the ladder, obviously, first.\n\nDelwath: Yeah. Why don't we send the chalyte knight first and see what happens?\n\nSeeker: That's been our strategy thus far.\n\nWellby: Served us well.\n\nDM: Guy disappears around the corner."
+            },
+            {
+              "startUid": "u1005",
+              "endUid": "u1008",
+              "quote": "Oh, I don't have, I don't have chalyte knight. There is the room— small room that you emerge into at the bottom of the stairs, and a narrow passageway only about 5 feet wide."
+            },
+            {
+              "startUid": "u1092",
+              "endUid": "u1092",
+              "quote": "Walking deeper into the windy single-passageway part of the deep-down underground trap. Yes."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Apollyon's private sanctum",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1169",
+          "endUid": "u1183",
+          "quote": "You. I'm not touching. All right. Stepping into a large chamber. The ceiling is only about 15 feet high. Vaulted ceilings. There are 4—can, is it—can you all see in here? Yeah, there should be a light. There are green light emanating from the walls. And around these 4 pillars—there are 4 pillars that are covered in sort of greenish runes, wrapping up around the pillars with a runic design in the middle.\n\nSeeker: Oh!\n\nDM: Apollyon is sitting on a throne, seemingly waiting for you. At the far end of the room there is a table made of bones. The only thing resting on this table, a glowing greenish crystal orb.\n\nDM: As you begin to enter this room, Apollyon stands. 'I've been waiting. Nice of you to join me in my private sanctum. Are you ready to surrender yourselves for the glory of Apollyon?'"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1169",
+              "endUid": "u1183",
+              "quote": "You. I'm not touching. All right. Stepping into a large chamber. The ceiling is only about 15 feet high. Vaulted ceilings. There are 4—can, is it—can you all see in here? Yeah, there should be a light. There are green light emanating from the walls. And around these 4 pillars—there are 4 pillars that are covered in sort of greenish runes, wrapping up around the pillars with a runic design in the middle.\n\nSeeker: Oh!\n\nDM: Apollyon is sitting on a throne, seemingly waiting for you. At the far end of the room there is a table made of bones. The only thing resting on this table, a glowing greenish crystal orb.\n\nDM: As you begin to enter this room, Apollyon stands. 'I've been waiting. Nice of you to join me in my private sanctum. Are you ready to surrender yourselves for the glory of Apollyon?'"
+            },
+            {
+              "startUid": "u2742",
+              "endUid": "u2747",
+              "quote": "Find yourself— No, yeah—in the quiet of the temple of Apollyon.\n\nDM: You can feel—Seeker especially can feel the ground shaking below you as the crypt beneath temple begins to collapse and fall in, but the temple itself is built on solid foundations and does not seem to be disrupted."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Vindristjarna",
+      "kind": "skyship",
+      "evidence": [
+        {
+          "startUid": "u2921",
+          "endUid": "u2929",
+          "quote": "A rainbow bridge appears, and you walk to Vindristjarna, parked about 5 miles outside of the city, hovering over the river.\n\nDM: As you walk and shift on the Rainbow Bridge, you see that the red mist around this temple is beginning to dissipate. The temple itself still stands.\n\nDM: You arrive on Vindristjarna, accept the congratulations and thanks and cheer of your followers. Faldrak says, 'Yeah, I think even I wouldn't have gone in after you. I'm glad you made it out.'"
+        }
+      ],
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p14": {
+      "label": "Drankor",
+      "kind": "ruined city",
+      "evidence": [
+        {
+          "startUid": "u2841",
+          "endUid": "u2845",
+          "quote": "Though they are getting close, they're on their way. They won't be able to get too close to the city because the fear aura is still exists. That's a plague effect, not an Apollyon effect. So, yeah, you'll need to make your way from the roof of this building out of Drankor. But— well, we could just Rainbow Bridge from the roof."
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/Drankor.md"
+    },
+    "p15": {
+      "label": "River outside Drankor",
+      "kind": "river",
+      "evidence": [
+        {
+          "startUid": "u2921",
+          "endUid": "u2922",
+          "quote": "A rainbow bridge appears, and you walk to Vindristjarna, parked about 5 miles outside of the city, hovering over the river."
+        }
+      ]
+    },
+    "p16": {
+      "label": "Chardonian study in the Crown vision",
+      "kind": "study",
+      "evidence": [
+        {
+          "startUid": "u3030",
+          "endUid": "u3032",
+          "quote": "And you look in the mirror, and it shows you—the 1st thing you see is a study. It looks maybe Chardonian some time ago, maybe a hundred years. It's hard to say."
+        }
+      ]
+    },
+    "p17": {
+      "label": "Doors of the temple in the Crown vision",
+      "kind": "entrance",
+      "evidence": [
+        {
+          "startUid": "u3066",
+          "endUid": "u3078",
+          "quote": "And then you see Apollyon standing in life, standing in front of the doors to this temple, wearing the crown, holding out the scepter as bands of magic fly from him towards Cha'mutte, flying in the sky above him, and as Cha'mutte breathes and rends, the red mist piles around Apollyon. Strand after strand after strand, hundreds of strands break, thousands of strands break. It must be 5, 6, 7, 8,000 people in command of Apollyon through this crown die and die and die and die, until finally there are none left, and Apollyon screams in frustration and in desperation grabs a vial of black liquid from his pouch, and drinks it as the walls of his temple seal up around him, and the crown is tossed from his head across Drankor, skipping, and time jumps suddenly back, a long time back."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3066",
+              "endUid": "u3078",
+              "quote": "And then you see Apollyon standing in life, standing in front of the doors to this temple, wearing the crown, holding out the scepter as bands of magic fly from him towards Cha'mutte, flying in the sky above him, and as Cha'mutte breathes and rends, the red mist piles around Apollyon. Strand after strand after strand, hundreds of strands break, thousands of strands break. It must be 5, 6, 7, 8,000 people in command of Apollyon through this crown die and die and die and die, until finally there are none left, and Apollyon screams in frustration and in desperation grabs a vial of black liquid from his pouch, and drinks it as the walls of his temple seal up around him, and the crown is tossed from his head across Drankor, skipping, and time jumps suddenly back, a long time back."
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Hkar",
+      "kind": "island",
+      "evidence": [
+        {
+          "startUid": "u3079",
+          "endUid": "u3084",
+          "quote": "You don't ever see how Apollyon found it. Back to Hkar.\n\nDM: The Great War, people terrified, a giant armada bearing down on the island. Nobody's sure what to do. The crown sitting again now a plain iron band on a marble table in a temple. Some discussion around murmured low voices in a language you do not understand. You can't hear anything anyway."
+        }
+      ],
+      "vaultPath": "History/Historical Realms/Hkar.md"
+    },
+    "p19": {
+      "label": "Ancient elven forest",
+      "kind": "forest",
+      "evidence": [
+        {
+          "startUid": "u3093",
+          "endUid": "u3103",
+          "quote": "And then flying back even further, drifting far, far, far back into time, before humans even existed, back to that, the forests of the elves, back to when the gods strode through the world, the days of myth, when the foot—when the footsteps of the gods reshaped the world itself, the Plane of Magic intertwined, the Plane of Souls intertwined with the world itself, and then a shattering.\n\nDM: The moment when the gods pulled the, the world apart, and something was caught when the world was pulled apart and curled itself into a circlet and fell into the forest. A fragment of the ancient days when the world could be reshaped, frozen in material form, mindless but powerful, waiting, a chameleon always to adapt to whoever puts it on, and the mirror goes black."
+        }
+      ]
+    },
+    "p20": {
+      "label": "Hkar temple with the marble table",
+      "kind": "temple",
+      "evidence": [
+        {
+          "startUid": "u3080",
+          "endUid": "u3089",
+          "quote": "The Great War, people terrified, a giant armada bearing down on the island. Nobody's sure what to do. The crown sitting again now a plain iron band on a marble table in a temple. Some discussion around murmured low voices in a language you do not understand. You can't hear anything anyway.\n\nDM: And then nodding, and one of the men and women gathered here reaches for the crown and grabs it and puts it on their head, and lines of power shoot out, and again time sort of speeds up and reverses. And you see the crown reaching out with these 12 people together, and the island breaks apart and begins to walk."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p18",
+          "evidence": [
+            {
+              "startUid": "u3080",
+              "endUid": "u3089",
+              "quote": "The Great War, people terrified, a giant armada bearing down on the island. Nobody's sure what to do. The crown sitting again now a plain iron band on a marble table in a temple. Some discussion around murmured low voices in a language you do not understand. You can't hear anything anyway.\n\nDM: And then nodding, and one of the men and women gathered here reaches for the crown and grabs it and puts it on their head, and lines of power shoot out, and again time sort of speeds up and reverses. And you see the crown reaching out with these 12 people together, and the island breaks apart and begins to walk."
+            },
+            {
+              "startUid": "u3079",
+              "endUid": "u3079",
+              "quote": "You don't ever see how Apollyon found it. Back to Hkar."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0021",
+        "endUid": "u0054"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The five PCs, chalyte knight and summoned construct are on the main temple floor immediately after the prior battle.",
+      "evidence": [
+        {
+          "startUid": "u0021",
+          "endUid": "u0054",
+          "quote": "So we pick up in the temple of Apollyon, the 5 of you, plus a chalyte zombie. And here we'll swap out the— you wanted to summon the metal one?\n\nSeeker: Correct.\n\nDM: It's medium or large?\n\nSeeker: Oh! I closed its tab.\n\nDM: So you gotta appreciate the faint hint of a red beard.\n\nSeeker: Oh, amazing! It is medium.\n\nDM: Okay. We pick up, and that lasts for an hour or 10 min?\n\nSeeker: It should be an hour. Right? Yeah, 1 h.\n\nDM: Okay, we pick up on the main floor of a—\n\nSeeker: Character sheet.\n\nDM: Apollyon's tomb, slash temple. Moments ago Apollyon, in a fit of rage and hatred against elves, unwilling to let one survive in his presence, which maybe wasn't as clear as I intended it to be last night, turned to Delwath, and commanded him to die, and then fled in the face of Wellby.\n\nRiswynn: [garbled] Yeah.\n\nDM: Turning into a gray mist, black mist, and disappearing through the floor, leaving you to resuscitate Delwath and consider where to go next.\n\nDM: The room you're standing in is massive, maybe 200 feet from end to end. You are before the large statue of Apollyon that dominates the center of this sort of Temple worship area, but to your left and to your right there are, um, in the distance, small or smaller, I should say, not small themselves—side areas, side chapels of sorts.\n\nDM: The whole Temple slash tomb, slash prison is in a state of construction. It was never finished before Cha'mutte attacked and destroyed the city. And so you see partially carved murals, stone cutting tools strewn around statues that have not been finished. Even the large massive statue of Apollyon that many of you are standing near or on right now does not seem complete. The, the face and the, and the features just hinted at rather than carved in pure detail."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0203",
+        "endUid": "u0230"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Ghostly Gaze reveals an undercrypt directly beneath the main floor and stairs leading still farther down; Delwath has not entered it.",
+      "evidence": [
+        {
+          "startUid": "u0203",
+          "endUid": "u0203",
+          "quote": "One quick thing, sorry, before I cast Prayer of Healing. I am going to use Ghostly Gaze and look around just through the floor to see if there's anything obvious down there, because I can then get it back on a short rest."
+        },
+        {
+          "startUid": "u0219",
+          "endUid": "u0230",
+          "quote": "So there is, immediately below this level— there seems to be a large under crypt of sorts that's full of, like, unfinished stonework. Like ladders that seem to have disintegrated into dust.\n\nSeeker: Tomb. Tomb of the Ladders.\n\nDM: Yeah. Stone, you know, stone working tools, barrels that have cracked and fallen apart. And there are stairs down from there. But you cannot—you don't have the range to see down below the—\n\nDelwath: Right, 1st under level. But there's an obvious undercrypt kind of right below us.\n\nDM: There's an obvious undercrypt right below you, although how to access it is not clear.\n\nDelwath: Possible.\n\nDM: Then there are stairs down from the obvious under crypt, going even further down."
+        }
+      ],
+      "place": "p03",
+      "mode": "local",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0258",
+        "endUid": "u0259"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby searches both side chapels during the healing ritual and returns to the group at the central altar with his discoveries.",
+      "evidence": [
+        {
+          "startUid": "u0258",
+          "endUid": "u0259",
+          "quote": "While waiting on that, during the short rest, Wellby did scout out this whole level, look for ways down, especially knowing that there is something below."
+        },
+        {
+          "startUid": "u0284",
+          "endUid": "u0312",
+          "quote": "Let's hope it stays. Okay. So I was about to say what what Wellby finds as he searches, as he returns from searching just about as Delwath finishes his prayers, and what you report. So on the left side, the, the west side of the— of the temple, this side chapel. It's, I mean, it's a big room. It's—there's a row of columns that separate it from the— from the main sort of temple space.\n\nDM: And although obviously unfinished, this is clearly a monument or a, you know, a depiction of Apollyon's triumphant rise to power. There is a mural that's unfinished that you know, depicts Apollyon leading his army with the Scepter of Command.\n\nDM: There's a mural that is mostly finished that depicts Apollyon standing in the the large arena, the amphitheater, that you could see when you flew your ship, overflew Vindristjarna over Drankor, raising his hand as a few hundred Peronar are executed in a mass execution.\n\nDM: There are other depictions of Apollyon standing above the 8 divines, the 8 divines bowing to him as the temple is, as, you know, temple is dismantled, which you know didn't happen, perhaps more aspirational than in truth. But it is clearly a quite, you know, militaristic and imperial display of Apollyon's triumphs.\n\nDM: On the other side, opposite here, this room is, is mostly unfinished, but there is a massive mosaic that covers the entire wall. Almost no tiles placed, but you can sort of see how it's been sketched out. That's seemingly supposed to depict Apollyon's ascension to God. There are, you know, Apollyon standing, the crown on his head, the cloak flowing behind him, scepter upraised, lines of energy radiating out from the crown in all directions, circling around the scepter, being amplified and amplifying the scepter, and as he slowly ascends from this building somewhere. But again, it's mostly not completed.\n\nDM: You do also find— but so in the central room there's this large, large sort of central altar here. One of these floor tiles in the back is loose, and it looks like you could pry it up.\n\nSeeker: Relevant.\n\nWellby: That good.\n\nDM: And that's what Delwath—Wellby finds as Delwath—and reports as Delwath finishes his prayers."
+        }
+      ],
+      "from": "p02",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "place": "p04",
+          "reading": "Searches the west chapel and its murals of imperial triumph."
+        },
+        {
+          "place": "p05",
+          "reading": "Searches the opposite chapel and its unfinished ascension mosaic."
+        }
+      ],
+      "note": "The search overlaps Delwath’s ten-minute prayer; the quoted return establishes the end of the round trip."
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0317",
+        "endUid": "u0318"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Pry up the loose tile and descend the stairs into the unfinished undercrypt after dispelling the stair trap.",
+      "evidence": [
+        {
+          "startUid": "u0317",
+          "endUid": "u0318",
+          "quote": "Probably have to pry up the thing. It lifts to reveal underneath it a wide staircase leading down."
+        },
+        {
+          "startUid": "u0360",
+          "endUid": "u0364",
+          "quote": "As it starts to descend, it shakes its head and starts, like, banging its ear, and Riswynn, you hear this, like, static echoing in your head that sounds like an echo of something being shouted loudly in Drankorian over and over, and over and over and over again. It's like shaking its head and having a hard time concentrating."
+        },
+        {
+          "startUid": "u0387",
+          "endUid": "u0388",
+          "quote": "Yeah, yeah, okay. You think you've managed to dispel whatever the trap is. But the ongoing effect is not ended."
+        },
+        {
+          "startUid": "u0419",
+          "endUid": "u0419",
+          "quote": "So you descend the stairs."
+        },
+        {
+          "startUid": "u0425",
+          "endUid": "u0433",
+          "quote": "So you find yourself now in this undercrypt that I described before, looking at when Delwath was looking with Ghostly Gaze. There are stairs down in the corner that lead further underground, and there's, like, the debris of construction and things like that, big piles of glass tiles that are supposed to go in the mosaic. Things like that.\n\nRiswynn: But Apollyon doesn't jump out at us yet.\n\nDM: Apollyon does not jump out of anywhere.\n\nSeeker: Construct also comes down the stairs, going clunk, clunk, clunk.\n\nDM: Yep."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "Dispel Magic removes the stair trap, while the knight’s existing echoing condition remains."
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0539",
+        "endUid": "u0548"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Descend another level to the green-lit entry chamber; initially the party stays at the foot of the stairs rather than all entering the trapped room.",
+      "evidence": [
+        {
+          "startUid": "u0539",
+          "endUid": "u0552",
+          "quote": "Then you descend the steps once more. You emerge now into a smaller, more constrained room. It is something useful. As you come down the stairs you're you're entering into a room that's maybe 20 feet wide and 30 feet long, and it leads to a 10 foot wide opening at the far end that seems seems to open out into a corridor through which you can see what looked like sarcophagi. The room, the walls of this room are lined with carved, met—carved stone iconography of people kneeling in worship. This room—sorry, this room is lit. There's\n\nSeeker: Okay.\n\nDM: Continual flames burning in, with a sort of a greenish light burning in rows along the floor that cast sort of flickering shadows along the along the wall, and there's the occasional faint whisper."
+        },
+        {
+          "startUid": "u0577",
+          "endUid": "u0583",
+          "quote": "Wait. Is Delwath walking through the room?\n\nDelwath: No, no, no, no! I was just moving to make space so that you could. Sorry. That's not— I was just trying to make enough space so that you could put everybody there. I'm still on the stairs.\n\nDM: Is that everybody? Who am I missing? No, I've got everybody. The big ladder following behind."
+        }
+      ],
+      "from": "p03",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0569",
+        "endUid": "u0571"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "From the lower stairs Delwath can see sarcophagi beyond the worship chamber.",
+      "evidence": [
+        {
+          "startUid": "u0539",
+          "endUid": "u0548",
+          "quote": "Then you descend the steps once more. You emerge now into a smaller, more constrained room. It is something useful. As you come down the stairs you're you're entering into a room that's maybe 20 feet wide and 30 feet long, and it leads to a 10 foot wide opening at the far end that seems seems to open out into a corridor through which you can see what looked like sarcophagi. The room, the walls of this room are lined with carved, met—carved stone iconography of people kneeling in worship. This room—sorry, this room is lit. There's"
+        },
+        {
+          "startUid": "u0569",
+          "endUid": "u0580",
+          "quote": "Okay. So we just came down the stairs here, and we're looking out. And we can see these—it was that a sarcophagus of some kind?\n\nDM: That's what I just described.\n\nDelwath: That's the sarcophagus with the.\n\nSeeker: I can't see anything.\n\nDM: I don't think Seeker's on there yet. Now, can you?\n\nSeeker: Oh, yeah.\n\nDM: Wait. Is Delwath walking through the room?\n\nDelwath: No, no, no, no! I was just moving to make space so that you could. Sorry. That's not— I was just trying to make enough space so that you could put everybody there. I'm still on the stairs."
+        }
+      ],
+      "place": "p07",
+      "mode": "local",
+      "observerPlace": "p06"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0632",
+        "endUid": "u0642"
+      },
+      "actors": [
+        "Chalyte knight"
+      ],
+      "reading": "The knight steps into the worship chamber, briefly kneels and chants, then shakes off the effect and walks forward.",
+      "evidence": [
+        {
+          "startUid": "u0632",
+          "endUid": "u0642",
+          "quote": "The chalyte. The chalyte knight, at Riswynn's command, steps into the room, and you see him shake his head, and then slowly begin to kneel and start chanting something in Drankorian.\n\nDelwath: Can you command him to stop being dominated by the spell?\n\nDM: Make a—yeah. You can make a—yeah. Can make another Wisdom save. His Wisdom saves are not great, unfortunately. Let's see. His Wisdom save is plus 3. Go ahead and roll a d20, Kate.\n\nRiswynn: Oh, heavens to Betsy!\n\nDM: Oh, no! He, like, shakes it off and stands up\n\nSeeker: Nice.\n\nDM: And begins walking forward."
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0682",
+        "endUid": "u0709"
+      },
+      "actors": [
+        "Riswynn",
+        "Wellby",
+        "Delwath",
+        "Kenzo"
+      ],
+      "reading": "These four enter the trapped lower rooms to fight the spirits; Seeker and the companions initially remain on the stairs.",
+      "evidence": [
+        {
+          "startUid": "u0682",
+          "endUid": "u0709",
+          "quote": "So it's going to be Riswynn, Wellby, Delwath, Seeker, Kenzo, chalyte knight. Okay. So Riswynn's gonna step forward.\n\nRiswynn: Yep.\n\nDelwath: And make a Wisdom saving throw.\n\nRiswynn: Fine. 25.\n\nKenzo: 25. Nice, Riswynn is far too committed to the Bahrâzel to ever worship Apollyon.\n\nDM: Steps forward and presents her holy symbol.\n\nRiswynn: So that's everything within 30 feet.\n\nDM: Everything, within 30 feet Wisdom save.\n\nRiswynn: Okay. I mean each undead of my choice, but I choose them all.\n\nDM: Yeah. Yeah.\n\nRiswynn: DC 18 Wisdom saving throw.\n\nDM: And how much damage does it do if they succeed?\n\nRiswynn: 5 d. 8.\n\nDM: You roll the 5 d. 8.\n\nRiswynn: Several ones, but you do.\n\nDM: Oh, wait! Sorry! That's if, if you—if they succeed, what happens if—or if they fail, what happens if they succeed? Nothing?\n\nRiswynn: If they—I—if the creature fails, it's frightened, incapacitated. No, I guess if it doesn't fail, if it succeeds, nothing happens.\n\nDM: Okay. About 20 of them vanish in a puff of smoke.\n\nSeeker: And holy fire!\n\nDM: There are still maybe a dozen left. Yeah, it's more like, more like 25 of them vanish. And there's— they were 5, 6, 7, 8, 9, 10, and there's 15 left. That ends Riswynn's turn. Wellby's up."
+        },
+        {
+          "startUid": "u0729",
+          "endUid": "u0734",
+          "quote": "So it's—I don't do a ton of damage anyways. I might as well work on my Wisdom save, though. I'll at least move forward to here and—\n\nDM: Okay, make a Wisdom save.\n\nWellby: 2 to see of them. All right, Wisdom save.\n\nDM: Wellby also resists, just barely, the call of Apollyon's worship."
+        },
+        {
+          "startUid": "u0770",
+          "endUid": "u0774",
+          "quote": "Yeah, yeah, yeah. I'm gonna fail my Wisdom save, though. Yep.\n\nDM: Delwath falls down and begins praying to Apollyon. You can—every, every round you can use your action to try and break free."
+        },
+        {
+          "startUid": "u0833",
+          "endUid": "u0842",
+          "quote": "Okay. Kenzo steps into the room.\n\nDM: Make your Wisdom save.\n\nKenzo: Anybody else's Roll20, like, pixelly?\n\nSeeker: Pixelly, weird.\n\nDelwath: Now.\n\nKenzo: Oh, let me, let me, let me review. Oh, you'd like a Wisdom save?\n\nDM: Yep.\n\nKenzo: 27.\n\nDM: Kenzo resists the call of Apollyon's worship."
+        },
+        {
+          "startUid": "u0945",
+          "endUid": "u0946",
+          "quote": "Now from here, Riswynn and Wellby, you can see that there's stairs down in this room. They're not, they're not marked on the map. But right here there's you can see the top of the stairs going down."
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0940",
+        "endUid": "u0944"
+      },
+      "actors": [
+        "Seeker",
+        "Ladder",
+        "summoned metal construct"
+      ],
+      "reading": "After the minions die, Seeker and his companions enter the lower hall and recover from compulsory prayer.",
+      "evidence": [
+        {
+          "startUid": "u0940",
+          "endUid": "u0944",
+          "quote": "You are left in a silent, empty room. The— echoing—I mean, at some point, Seeker, the ladder and the construct are just gonna have to step into the room, suck it up, pray for 30 seconds until they can shake it off. But there's no reason to play it out with the minions dead.\n\nSeeker: Right."
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u0954",
+        "endUid": "u0959"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Descend to the fifteen-foot landing. A side corridor reveals the doppel chamber; the party passes it and continues down rather than exploring it.",
+      "evidence": [
+        {
+          "startUid": "u0954",
+          "endUid": "u0959",
+          "quote": "You descend another level, checking for traps. There's no traps on this stair-down, and you come down into another—there's no map for this—into a another room, a small, maybe 15 by 15 foot square room. The stairs descend further from here. There is also a corridor that leads about 40 feet into another room, that, the much larger room that you can only dimly see. 2 columns, chains hanging off the columns, and a familiar-looking stone sarcophagus that Delwath saw in a scry several months—"
+        },
+        {
+          "startUid": "u0974",
+          "endUid": "u0977",
+          "quote": "So you can continue descending, or you can go explore the doppel chamber.\n\nSeeker: Well, we know he's down below right.\n\nDelwath: Let's just keep—yeah. Let's keep going, going.\n\nDM: You go down."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Bypass the side corridor into the doppel chamber; no entry is established.",
+          "place": "p09"
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u0954",
+        "endUid": "u0959"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party dimly sees two chained columns and the familiar sarcophagus in the side chamber, then declines to explore it.",
+      "evidence": [
+        {
+          "startUid": "u0954",
+          "endUid": "u0959",
+          "quote": "You descend another level, checking for traps. There's no traps on this stair-down, and you come down into another—there's no map for this—into a another room, a small, maybe 15 by 15 foot square room. The stairs descend further from here. There is also a corridor that leads about 40 feet into another room, that, the much larger room that you can only dimly see. 2 columns, chains hanging off the columns, and a familiar-looking stone sarcophagus that Delwath saw in a scry several months—"
+        },
+        {
+          "startUid": "u0962",
+          "endUid": "u0962",
+          "quote": "He observed Apollyon creating the doppelganger constructs."
+        },
+        {
+          "startUid": "u0974",
+          "endUid": "u0977",
+          "quote": "So you can continue descending, or you can go explore the doppel chamber.\n\nSeeker: Well, we know he's down below right.\n\nDelwath: Let's just keep—yeah. Let's keep going, going.\n\nDM: You go down."
+        }
+      ],
+      "place": "p09",
+      "mode": "local",
+      "observerPlace": "p08"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u0977",
+        "endUid": "u0977"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Continue down to the lowest crypt landing with patterned obsidian flooring.",
+      "evidence": [
+        {
+          "startUid": "u0977",
+          "endUid": "u0977",
+          "quote": "You go down."
+        },
+        {
+          "startUid": "u0983",
+          "endUid": "u1015",
+          "quote": "Now you emerge at what seems to be the bottom of the— Let's put everybody here. Okay. Can you see?\n\nRiswynn: I see.\n\nDM: Yeah.\n\nRiswynn: Bad.\n\nDelwath: Yes.\n\nDM: Then move it. We were missing.\n\nRiswynn: Okay.\n\nSeeker: Construct and ladder.\n\nDM: Okay. Construct, is there.\n\nWellby: I cannot see. Should we be seeing anything right now?\n\nDM: Oh, wait!\n\nSeeker: At the bottom, left.\n\nDelwath: Well, I'll be behind.\n\nDM: Oh, I don't have night vision turned on for Wellby. Okay, now, how can you? Obviously. Okay. Okay. So you emerge at what seems to be the lowest, lowest obvious level of the crypt.\n\nRiswynn: Where's chalyte knight?\n\nDM: Oh, I don't have, I don't have chalyte knight. There is the room— small room that you emerge into at the bottom of the stairs, and a narrow passageway only about 5 feet wide.\n\nSeeker: Oh!\n\nDM: Squeezed through. It's gonna be a tight fit for the ladder.\n\nSeeker: Okay, and are there—are those rune-like markings on the floor?\n\nDM: They're just. It's just a patterned obsidian floor. But yes, there are like—they're not any—they're not runes. It's supposed to just be, like, a pattern. There is green, sickly green light flickering from the pattern of the on the floor, that casts a sort of dim glow over everything."
+        }
+      ],
+      "from": "p08",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1035",
+        "endUid": "u1035"
+      },
+      "actors": [
+        "Chalyte knight"
+      ],
+      "reading": "The knight scouts ahead along the narrow passage and returns on command.",
+      "evidence": [
+        {
+          "startUid": "u1035",
+          "endUid": "u1035",
+          "quote": "Guy disappears around the corner."
+        },
+        {
+          "startUid": "u1073",
+          "endUid": "u1075",
+          "quote": "I think nothing. The chalyte knight is not turning. Tell it to go 20 feet and then come back. If it hasn't encountered any danger.\n\nDM: It comes back."
+        }
+      ],
+      "from": "p10",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "place": "p11",
+          "reading": "Scouts twenty feet around a corner, then returns."
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1083",
+        "endUid": "u1098"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Follow the knight through the twisting passage, with Ladder and construct accompanying Seeker and Kenzo at the back.",
+      "evidence": [
+        {
+          "startUid": "u1083",
+          "endUid": "u1098",
+          "quote": "Sorry, going. Stay safe for me.\n\nDelwath: Yeah, I think hanging back—only Riswynn and Delwath are following. No, you guys? Anyways.\n\nWellby: Yeah, yeah, yeah, yeah, we're we're following. We're walking into the trap.\n\nDelwath: Well, we haven't walked into the trap yet. If it doesn't come back, it means there's danger.\n\nWellby: The whole building is a trap. We're big— Yeah, we're inside the trap this entire time.\n\nDelwath: That's that's true, fair, fair, fair.\n\nRiswynn: Walking deeper into the windy single-passageway part of the deep-down underground trap. Yes.\n\nSeeker: Well Seeker is going with the ladder in front of him and the construct behind him.\n\nDM: Ladder is moving difficultly in this tight passage.\n\nSeeker: Difficultly, but proudly and boldly.\n\nDM: Yes.\n\nDM: So where is Kenzo? Is Kenzo the—in the back?\n\nKenzo: Yeah."
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1169",
+        "endUid": "u1183"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Enter the large four-pillared sanctum where Apollyon waits by the throne and bone table.",
+      "evidence": [
+        {
+          "startUid": "u1169",
+          "endUid": "u1183",
+          "quote": "You. I'm not touching. All right. Stepping into a large chamber. The ceiling is only about 15 feet high. Vaulted ceilings. There are 4—can, is it—can you all see in here? Yeah, there should be a light. There are green light emanating from the walls. And around these 4 pillars—there are 4 pillars that are covered in sort of greenish runes, wrapping up around the pillars with a runic design in the middle.\n\nSeeker: Oh!\n\nDM: Apollyon is sitting on a throne, seemingly waiting for you. At the far end of the room there is a table made of bones. The only thing resting on this table, a glowing greenish crystal orb.\n\nDM: As you begin to enter this room, Apollyon stands. 'I've been waiting. Nice of you to join me in my private sanctum. Are you ready to surrender yourselves for the glory of Apollyon?'"
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2713",
+        "endUid": "u2717"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Seeker teleports the party and the orb-carrying Ladder out of the collapsing sanctum to the intact temple above.",
+      "evidence": [
+        {
+          "startUid": "u2713",
+          "endUid": "u2729",
+          "quote": "Should we teleport right now? Everybody ready to go? Okay.\n\nDM: Roll a d100.\n\nSeeker: Cast, a teleport.\n\nKenzo: This, this music— shouldn't this be, like, happy music?\n\nSeeker: Yeah.\n\nKenzo: Killed the dude, the dude guy.\n\nDM: Well, let's see what what happens.\n\nSeeker: One d. 100. That's a 62.\n\nKenzo: Yeah, like I said, yeah.\n\nDM: Seen, seen casually.\n\nDelwath: Yep.\n\nDM: I would say it counts as—so 62 is enough for seen casually. Seeker is an expert at teleportation."
+        },
+        {
+          "startUid": "u2738",
+          "endUid": "u2750",
+          "quote": "Okay, so is this room falling apart?\n\nDM: No.\n\nSeeker: So we're up on the—\n\nRiswynn: Just quiet and lit with red mist.\n\nDM: Find yourself— No, yeah—in the quiet of the temple of Apollyon.\n\nDM: You can feel—Seeker especially can feel the ground shaking below you as the crypt beneath temple begins to collapse and fall in, but the temple itself is built on solid foundations and does not seem to be disrupted.\n\nDM: You still, however, are trapped. In spite of Apollyon's death, his prison is not broken, and there is no way out for the next 4 days at least."
+        },
+        {
+          "startUid": "u2681",
+          "endUid": "u2684",
+          "quote": "I think the ladder's still holding it.\n\nSeeker: That's true.\n\nRiswynn: It's not changing?\n\nDM: No."
+        }
+      ],
+      "from": "p12",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "teleport"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2921",
+        "endUid": "u2922"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Once the prison breaks, walk a Rainbow Bridge to Vindristjarna and arrive aboard.",
+      "evidence": [
+        {
+          "startUid": "u2913",
+          "endUid": "u2929",
+          "quote": "Another day passes. The 30th of May dawns, and you feel crack, and then another, and then another, as the prison ends.\n\nDelwath: Let's go to Vindristjarna.\n\nWellby: Yeah.\n\nDelwath: Right.\n\nWellby: Let's get out of here.\n\nDM: A rainbow bridge appears, and you walk to Vindristjarna, parked about 5 miles outside of the city, hovering over the river.\n\nDM: As you walk and shift on the Rainbow Bridge, you see that the red mist around this temple is beginning to dissipate. The temple itself still stands.\n\nDM: You arrive on Vindristjarna, accept the congratulations and thanks and cheer of your followers. Faldrak says, 'Yeah, I think even I wouldn't have gone in after you. I'm glad you made it out.'"
+        }
+      ],
+      "from": "p01",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "Rainbow Bridge",
+      "locationContext": [
+        {
+          "subject": "p13",
+          "relation": "outside_of",
+          "target": "p14",
+          "note": "About five miles outside the city at this arrival."
+        },
+        {
+          "subject": "p13",
+          "relation": "above",
+          "target": "p15",
+          "note": "Hovering over the river at this arrival."
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "type": "observation",
+      "source": {
+        "startUid": "u2923",
+        "endUid": "u2926"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "While crossing the bridge the party sees the red mist dissipating around the still-standing temple.",
+      "evidence": [
+        {
+          "startUid": "u2923",
+          "endUid": "u2926",
+          "quote": "As you walk and shift on the Rainbow Bridge, you see that the red mist around this temple is beginning to dissipate. The temple itself still stands."
+        }
+      ],
+      "place": "p01",
+      "mode": "local",
+      "note": "The observation is during the crossing, before arrival aboard; no fixed observer place is asserted."
+    },
+    {
+      "id": "l19",
+      "type": "observation",
+      "source": {
+        "startUid": "u3030",
+        "endUid": "u3032"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Through the Crown’s mirror examination, Kenzo sees an older Chardonian study and its successive crown-takers.",
+      "evidence": [
+        {
+          "startUid": "u3023",
+          "endUid": "u3032",
+          "quote": "So Kenzo holds the crown up to the mirror.\n\nKenzo: Like close to his head, but not not on it.\n\nDM: Yeah, common. It's strange. When you pick it up, it seems to recoil from your touch. You feel, like, a sort of sparkling, almost a magnetic repulsion as you try and hold on. It seems once you have lost it, it is—\n\nDM: And you look in the mirror, and it shows you—the 1st thing you see is a study. It looks maybe Chardonian some time ago, maybe a hundred years. It's hard to say."
+        },
+        {
+          "startUid": "u3039",
+          "endUid": "u3059",
+          "quote": "You're in a study, and somebody looks like they are, you know, doing research, cataloging things? There is on their desk what seems to be the beginnings of a treatise on the historical greatness of Drankor. How can—how to bring back the might of empire? Somebody seems obsessed. You see notes scattered across the page, like 'Apollyon,' like 'scepter lost, cloak lost. Could this be the crown?'\n\nDM: And then you see hands gripping it, and time speed seems to speed up slightly as first there's this electric shock, and the person who was holding it seems to fall dead, and somebody else walks in, somebody older, seeming to be like the master, the leader of whatever this group is, smiling as he reaches and grabs the crown, and it shifts and elongates the 4 points of Fausto's crown beginning to form.\n\nDelwath: But this person's not Fausto? We can't—\n\nDM: Not Fausto. They were old when they picked up the crown, so must have passed on. Whoever this was was the person who founded the cult."
+        }
+      ],
+      "place": "p16",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p13"
+    },
+    {
+      "id": "l20",
+      "type": "observation",
+      "source": {
+        "startUid": "u3066",
+        "endUid": "u3078"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "The Crown vision shows Apollyon before the temple doors confronting Cha’mutte; the party remains aboard Vindristjarna.",
+      "evidence": [
+        {
+          "startUid": "u3066",
+          "endUid": "u3078",
+          "quote": "And then you see Apollyon standing in life, standing in front of the doors to this temple, wearing the crown, holding out the scepter as bands of magic fly from him towards Cha'mutte, flying in the sky above him, and as Cha'mutte breathes and rends, the red mist piles around Apollyon. Strand after strand after strand, hundreds of strands break, thousands of strands break. It must be 5, 6, 7, 8,000 people in command of Apollyon through this crown die and die and die and die, until finally there are none left, and Apollyon screams in frustration and in desperation grabs a vial of black liquid from his pouch, and drinks it as the walls of his temple seal up around him, and the crown is tossed from his head across Drankor, skipping, and time jumps suddenly back, a long time back."
+        }
+      ],
+      "place": "p17",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p13"
+    },
+    {
+      "id": "l21",
+      "type": "observation",
+      "source": {
+        "startUid": "u3079",
+        "endUid": "u3089"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "The vision moves to Hkar, where one of twelve gathered people dons the crown and the island begins to walk.",
+      "evidence": [
+        {
+          "startUid": "u3079",
+          "endUid": "u3089",
+          "quote": "You don't ever see how Apollyon found it. Back to Hkar.\n\nDM: The Great War, people terrified, a giant armada bearing down on the island. Nobody's sure what to do. The crown sitting again now a plain iron band on a marble table in a temple. Some discussion around murmured low voices in a language you do not understand. You can't hear anything anyway.\n\nDM: And then nodding, and one of the men and women gathered here reaches for the crown and grabs it and puts it on their head, and lines of power shoot out, and again time sort of speeds up and reverses. And you see the crown reaching out with these 12 people together, and the island breaks apart and begins to walk."
+        }
+      ],
+      "place": "p20",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p13"
+    },
+    {
+      "id": "l22",
+      "type": "observation",
+      "source": {
+        "startUid": "u3093",
+        "endUid": "u3103"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "The mirror shows an ancient elven forest and a fragment curling into the circlet as the worlds separate.",
+      "evidence": [
+        {
+          "startUid": "u3093",
+          "endUid": "u3103",
+          "quote": "And then flying back even further, drifting far, far, far back into time, before humans even existed, back to that, the forests of the elves, back to when the gods strode through the world, the days of myth, when the foot—when the footsteps of the gods reshaped the world itself, the Plane of Magic intertwined, the Plane of Souls intertwined with the world itself, and then a shattering.\n\nDM: The moment when the gods pulled the, the world apart, and something was caught when the world was pulled apart and curled itself into a circlet and fell into the forest. A fragment of the ancient days when the world could be reshaped, frozen in material form, mindless but powerful, waiting, a chameleon always to adapt to whoever puts it on, and the mirror goes black."
+        }
+      ],
+      "place": "p19",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p13"
+    }
+  ]
+}

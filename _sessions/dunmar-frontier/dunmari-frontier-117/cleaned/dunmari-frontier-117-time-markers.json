@@ -1,0 +1,448 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-117",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-session.yaml",
+    "sessionYamlSha256": "4584aebb84e0d36ecdd223038f1d2b0a4f04a2e7bc5815eb277b0ff1fa191175",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-transcript.md",
+    "transcriptSha256": "b60c0617b15e71c161c322d1cbe8395daaf004533134fcacfa4c22e508cfefbd",
+    "yamlDates": {
+      "start": "1749-05-24",
+      "end": "1749-05-30"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0084",
+        "endUid": "u0087"
+      },
+      "reading": "Delwath completes a ten-minute Prayer of Healing; Wellby searches and returns during the same interval.",
+      "evidence": [
+        {
+          "startUid": "u0084",
+          "endUid": "u0087",
+          "quote": "But he's also badly hurt. The spell you cast, Revivify? Right? So I come back with one hit point, but so he immediately starts— right, summoning this sort of Deno'qai magic and starts casting this Prayer of Healing, and anybody who stays within 30 feet of me for the next 10 min—so he's like casting a sort of, doing a healing ritual to try and recenter himself after dying, and anybody who stays within 30 feet of me for the entire, for the next 10 min, gets the benefit of a short rest."
+        },
+        {
+          "startUid": "u0265",
+          "endUid": "u0266",
+          "quote": "Also during the short rest, I mean Delwath is praying. This spell is like a Prayer of Healing. It goes on for 10 min. Usually, when Delwath casts these like religious spells, he's mostly kind of not very religious about it, like he's asking the Deno'qai spirits that he gets magic from to help."
+        },
+        {
+          "startUid": "u0284",
+          "endUid": "u0288",
+          "quote": "Let's hope it stays. Okay. So I was about to say what what Wellby finds as he searches, as he returns from searching just about as Delwath finishes his prayers, and what you report. So on the left side, the, the west side of the— of the temple, this side chapel. It's, I mean, it's a big room. It's—there's a row of columns that separate it from the— from the main sort of temple space."
+        },
+        {
+          "startUid": "u0312",
+          "endUid": "u0312",
+          "quote": "And that's what Delwath—Wellby finds as Delwath—and reports as Delwath finishes his prayers."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Explicitly narrated elapsed time"
+      },
+      "completion": "completed",
+      "note": "Short-rest benefits are awarded by the ten-minute spell, not by an additional one-hour rest. Ghostly Gaze is inserted before this ritual at u0203.",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t04"
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0420",
+        "endUid": "u0421"
+      },
+      "reading": "Seeker takes one minute to animate the full-size ladder.",
+      "evidence": [
+        {
+          "startUid": "u0420",
+          "endUid": "u0421",
+          "quote": "It. Yes, I take a minute to animate the ladder."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Explicitly narrated elapsed time"
+      },
+      "completion": "completed",
+      "actors": [
+        "Seeker"
+      ],
+      "relations": [
+        {
+          "type": "during",
+          "target": "t04"
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0459",
+        "endUid": "u0461"
+      },
+      "reading": "The party takes a couple of minutes looking around the undercrypt.",
+      "evidence": [
+        {
+          "startUid": "u0459",
+          "endUid": "u0461",
+          "quote": "So in a couple minutes, just looking around— I mean, there's only there's 1 obvious exit. There's stairs that lead down. There's no other exits. Just a big room. There is, I mean, there's no magic items lying around."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates a couple of minutes"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t04"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0513",
+        "endUid": "u0513"
+      },
+      "reading": "Twenty minutes have passed since the preceding battle with Apollyon at the opening handoff.",
+      "evidence": [
+        {
+          "startUid": "u0511",
+          "endUid": "u0511",
+          "quote": "How long does your See Invisibility—an hour?"
+        },
+        {
+          "startUid": "u0512",
+          "endUid": "u0512",
+          "quote": "Hour. Yeah. Yeah. So probably about 40 min left. 30 min left something like that."
+        },
+        {
+          "startUid": "u0513",
+          "endUid": "u0513",
+          "quote": "No, I'm keeping. It's been 20 min since the battle, so."
+        }
+      ],
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM keeps the clock since the preceding battle"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t06"
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0940",
+        "endUid": "u0943"
+      },
+      "reading": "After the spirit fight, Seeker, Ladder and the construct pass through the prayer trap and shake it off in about thirty seconds.",
+      "evidence": [
+        {
+          "startUid": "u0940",
+          "endUid": "u0943",
+          "quote": "You are left in a silent, empty room. The— echoing—I mean, at some point, Seeker, the ladder and the construct are just gonna have to step into the room, suck it up, pray for 30 seconds until they can shake it off. But there's no reason to play it out with the minions dead."
+        }
+      ],
+      "duration": {
+        "value": 0.5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM compresses thirty seconds of compulsory prayer"
+      },
+      "completion": "completed",
+      "actors": [
+        "Seeker",
+        "Ladder",
+        "summoned metal construct"
+      ],
+      "relations": [
+        {
+          "type": "during",
+          "target": "t06"
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0980",
+        "endUid": "u0982"
+      },
+      "reading": "About thirty minutes since the earlier Apollyon battle, as the party reaches the lowest crypt level.",
+      "evidence": [
+        {
+          "startUid": "u0980",
+          "endUid": "u0982",
+          "quote": "It's now been about 30 min since the 1st battle, which means that the construct still has half an hour left. See Invisibility still has half an hour left, and the ladder still has 40 min."
+        }
+      ],
+      "duration": {
+        "value": 30,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM tracks the same preceding battle using the construct and See Invisibility durations"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u2827",
+        "endUid": "u2831"
+      },
+      "reading": "After defeating Apollyon and teleporting upstairs, it is still lunchtime or a little after.",
+      "evidence": [
+        {
+          "startUid": "u2827",
+          "endUid": "u2831",
+          "quote": "Yeah, I mean, it's still only like lunchtime or a little after. But presumably this is—I mean, Kenzo can check with his ki sense. But as far as you know, there's no other undead, and this kill— Kenzo can't sense anything. There's nothing. You are the only ones here now."
+        }
+      ],
+      "time": {
+        "partOfDay": "lunchtime or a little after",
+        "precision": "approximate",
+        "basis": "DM states the current time after the battle"
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2867",
+        "endUid": "u2868"
+      },
+      "reading": "A day passes while the party rests and recovers; the following morning brings Sura’s report of the naval victory.",
+      "evidence": [
+        {
+          "startUid": "u2867",
+          "endUid": "u2868",
+          "quote": "Oh! A day passes."
+        },
+        {
+          "startUid": "u2869",
+          "endUid": "u2869",
+          "quote": "You rest."
+        },
+        {
+          "startUid": "u2871",
+          "endUid": "u2875",
+          "quote": "Recover. In the morning you hear the news from Sura that she has received word that Magistros Midas, the, the ruler of Chardon, at the head of the Chardonian navy, has won a great naval victory outside of Darba, and has entered the city."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "exact",
+        "basis": "Explicitly narrated elapsed time"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "DM states the following morning; no month/day is attached here"
+      }
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2881",
+        "endUid": "u2887"
+      },
+      "reading": "Another day passes; the party hears of the first chalyte strike.",
+      "evidence": [
+        {
+          "startUid": "u2881",
+          "endUid": "u2887",
+          "quote": "Another day passes. You hear from the crowns, from the people under Riswynn's control of the crown, that, taking advantage of the chaos caused by a battle that broke out between a faction of the Mageguard remaining in Chardon and some faculty at the University, the first chalyte strike has occurred, and hundreds of pounds of chalyte were dumped into the river."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "exact",
+        "basis": "Explicitly narrated elapsed time"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2889",
+        "endUid": "u2892"
+      },
+      "reading": "Another day passes, and the party feels the prison barriers thinning.",
+      "evidence": [
+        {
+          "startUid": "u2889",
+          "endUid": "u2892",
+          "quote": "Another day passes. You can feel now the outside world pressing in, the barriers of the prison that hold you here growing thin."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "exact",
+        "basis": "Explicitly narrated elapsed time"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u2913",
+        "endUid": "u2915"
+      },
+      "reading": "Another day passes to dawn on May 30, when the prison breaks.",
+      "evidence": [
+        {
+          "startUid": "u2913",
+          "endUid": "u2915",
+          "quote": "Another day passes. The 30th of May dawns, and you feel crack, and then another, and then another, as the prison ends."
+        },
+        {
+          "startUid": "u2941",
+          "endUid": "u2941",
+          "quote": "Are you still attuned to it? 4 days later in the bag of holding. Yeah."
+        },
+        {
+          "startUid": "u3295",
+          "endUid": "u3296",
+          "quote": "I mean, you've been attuned to it for 4 days. Who knows what you could do if you were attuned to it for months."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "exact",
+        "basis": "Explicitly narrated elapsed time"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 30
+        },
+        "partOfDay": "dawn",
+        "precision": "exact",
+        "basis": "May 30 and dawn are spoken; year 1749 is inherited from YAML"
+      },
+      "note": "Four explicit daily advances precede this endpoint. “Four days later” and four-day attunement corroborate the short span; neither supplies two extra days to match the YAML start."
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u3030",
+        "endUid": "u3032"
+      },
+      "reading": "The Crown’s played mirror vision opens in an approximately century-old Chardonian study, then rewinds through Apollyon, Hkar and the mythic creation of the circlet.",
+      "evidence": [
+        {
+          "startUid": "u3030",
+          "endUid": "u3032",
+          "quote": "And you look in the mirror, and it shows you—the 1st thing you see is a study. It looks maybe Chardonian some time ago, maybe a hundred years. It's hard to say."
+        },
+        {
+          "startUid": "u3035",
+          "endUid": "u3038",
+          "quote": "Maybe a hundred 50 years, and you see— and it seems what the, the crown itself looks not like it looks now, the Riswynn crown, nor like the Fausto crown. It is a plain, like, wooden band. No decoration, nothing."
+        },
+        {
+          "startUid": "u3079",
+          "endUid": "u3079",
+          "quote": "You don't ever see how Apollyon found it. Back to Hkar."
+        },
+        {
+          "startUid": "u3080",
+          "endUid": "u3084",
+          "quote": "The Great War, people terrified, a giant armada bearing down on the island. Nobody's sure what to do. The crown sitting again now a plain iron band on a marble table in a temple. Some discussion around murmured low voices in a language you do not understand. You can't hear anything anyway."
+        },
+        {
+          "startUid": "u3093",
+          "endUid": "u3103",
+          "quote": "And then flying back even further, drifting far, far, far back into time, before humans even existed, back to that, the forests of the elves, back to when the gods strode through the world, the days of myth, when the foot—when the footsteps of the gods reshaped the world itself, the Plane of Magic intertwined, the Plane of Souls intertwined with the world itself, and then a shattering.\n\nDM: The moment when the gods pulled the, the world apart, and something was caught when the world was pulled apart and curled itself into a circlet and fell into the forest. A fragment of the ancient days when the world could be reshaped, frozen in material form, mindless but powerful, waiting, a chameleon always to adapt to whoever puts it on, and the mirror goes black."
+        }
+      ],
+      "context": "vision",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "the present-day Crown examination"
+        },
+        "precision": "approximate",
+        "basis": "The DM estimates a hundred, then perhaps a hundred fifty years for the opening study; the vision then moves much farther back"
+      },
+      "note": "These are the vision’s historical frames, not elapsed days in the party’s adventure."
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u3196",
+        "endUid": "u3196"
+      },
+      "reading": "After the mirror vision and meta discussion, play explicitly returns to the Crown aboard Vindristjarna.",
+      "evidence": [
+        {
+          "startUid": "u3196",
+          "endUid": "u3196",
+          "quote": "Okay, okay. So the vision ends."
+        },
+        {
+          "startUid": "u3197",
+          "endUid": "u3200",
+          "quote": "Kenzo's currently holding the crown, and he, he starts to give it back to Wellby.\n\nWellby: Yeah. Wellby's, like, standing down on the ladder in the portable hole, like— grabbing it and putting it back on the shelf again, and—"
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t11",
+          "note": "The party resumes its post-escape May 30 context; no extra elapsed interval is stated."
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "Only May 30 at dawn is spoken as a civil date. Its year is supplied by YAML; the opening May 24 date is not independently stated.",
+    "expectedDateBoundaries": 6,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t04",
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t10",
+      "t11"
+    ],
+    "explanation": "The narrated opening is continuous with the previous battle and advances about thirty minutes before the last fight; afterward four explicit daily advances end at May 30 dawn. The six-boundary YAML span therefore has two days not established by this transcript. Counting the four advances backward would put the battle on May 26 if they were exhaustive, but the opening date is not independently spoken. Missing elapsed coverage is not by itself proof of a contradictory date; do not fill the gap from drEnd or silently adopt the conditional May 26 reading."
+  }
+}

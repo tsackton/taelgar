@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-117",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-session.yaml",
+    "sessionYamlSha256": "4584aebb84e0d36ecdd223038f1d2b0a4f04a2e7bc5815eb277b0ff1fa191175",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-transcript.md",
+    "transcriptSha256": "b60c0617b15e71c161c322d1cbe8395daaf004533134fcacfa4c22e508cfefbd"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0020"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0021",
+        "endUid": "u0233"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0234",
+        "endUid": "u0257"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0258",
+        "endUid": "u0271"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0272",
+        "endUid": "u0283"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0284",
+        "endUid": "u0657"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0658",
+        "endUid": "u0944"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0945",
+        "endUid": "u1195"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1196",
+        "endUid": "u2678"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2679",
+        "endUid": "u3109"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u3110",
+        "endUid": "u3195"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u3196",
+        "endUid": "u3481"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u3482",
+        "endUid": "u3588"
+      },
+      "category": "meta_discussion",
+      "note": "Mixed discussion centers on retirement, stewardship choices and campaign direction; brief in-character arguments remain within it."
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u3589",
+        "endUid": "u3627"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u3628",
+        "endUid": "u3686"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u3687",
+        "endUid": "u3697"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

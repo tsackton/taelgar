@@ -1,0 +1,85 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-time-markers.json",
+    "sha256": "c4dce7a9b2e3aed85ecc14d74b075aabdffc9c1edf8dd75b5f26f859f96ca512"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-transcript.md",
+    "sha256": "b60c0617b15e71c161c322d1cbe8395daaf004533134fcacfa4c22e508cfefbd"
+  },
+  "dateAssessment": "The review uses the transcript’s lunchtime and May 30 dawn anchors; 1749 comes from YAML. The opening date and the dates of the first three daily advances remain unresolved. Four explicit daily advances (t08–t11), reinforced by the four-day remarks at u2941 and u3295–u3296, do not establish the YAML’s full May 24–30 span. A backward count would give a May 26 battle only if those advances were exhaustive; that conditional reading is not adopted here. The dated Session 117 record instead places the battle on May 24 afternoon and distributes the wait across additional days. Its evening ending is also not a spoken clock anchor. May 30 post-escape activity is carried approximately from dawn because no new adventure-time advance intervenes. The Crown vision has its own historical frame and supplies no elapsed adventure days. The Session 116 closing handoff (u3744) and this session’s opening (u0036–u0043) establish continuity after Delwath’s revival; the adjacent dated note’s early-afternoon closing cannot override t07’s later direct lunchtime reading.",
+  "watches": [
+    {
+      "day": "Battle day — absolute date unresolved",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Still lunchtime after victory; the earlier ritual, searches and thirty-minute pursuit are nested, not additive.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04",
+        "t05",
+        "t06",
+        "t07"
+      ]
+    },
+    {
+      "day": "First following morning — civil date unresolved",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "A day passes with rest and recovery; the following morning brings Sura’s naval report.",
+      "markers": [
+        "t08"
+      ]
+    },
+    {
+      "day": "May 30, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Three more daily advances end at stated May 30 dawn; post-vision play resumes that day.",
+      "markers": [
+        "t09",
+        "t10",
+        "t11",
+        "t13"
+      ],
+      "startDate": "1749-05-30",
+      "endDate": "1749-05-30"
+    },
+    {
+      "day": "Historical Crown vision",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "scope": "Vision only",
+      "summary": "An approximately century-old study rewinds through imperial and Hkar scenes to mythic creation; no civil watch is given.",
+      "markers": [
+        "t12"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated Session 117 record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 117 (DuFr).md",
+      "sha256": "0f1dd2c0ab9bc9b9b5d5fef05cde836db17561d0e02cdd86eabb45ad369b1d07"
+    },
+    {
+      "label": "Dated Session 116 record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 116 (DuFr).md",
+      "sha256": "dca1a7c5676cd35426edc17d4f166a639fad396e4e9869d327ce2a7974b429e5"
+    },
+    {
+      "label": "Session 116 closing handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-transcript.md",
+      "sha256": "424a2e070fe8ec6b107afda56d6fbfa579b0539fd2cc1839ea9f58d12e257aca"
+    }
+  ]
+}
