@@ -1,0 +1,1160 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "into-the-chasm-001",
+    "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-session.yaml",
+    "sessionYamlSha256": "4b5088e0db5a55a8c6e40eea083918a37e1d146e52334a314ea6ffa0e7ba1d1f",
+    "transcriptPath": "_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-transcript.md",
+    "transcriptSha256": "66da15b0cb560901f4968940f61e450ff75b984cfa81ddb3ed4583364e9e8647"
+  },
+  "places": {
+    "p01": {
+      "label": "Zeyfa's Labyrinth",
+      "kind": "labyrinth",
+      "vaultPath": "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Zeyfa's Labyrinth.md",
+      "note": "Kalima identifies this place as Zeyfa's home and labyrinth; Ekko doubts it is the Great Chasm (u1593–u1605). Physical containment in the Chasm remains unresolved.",
+      "evidence": [
+        {
+          "startUid": "u1310",
+          "endUid": "u1319",
+          "quote": "DM: She… she looks around at this… at this place, and the ice bridges, and… you can see, like, just this sinking… sensation in her eyes, like… like, sort of… just… just almost a life draining out of her. She's not terrified, she's clearly underselling her reaction, but she says, “I’m… back.” “Nobody… nobody escapes. And yet, somehow I did. And now I’m back?”\n\n"
+        },
+        {
+          "startUid": "u1320",
+          "endUid": "u1320",
+          "quote": "Finnan: “Back where?”\n\n"
+        },
+        {
+          "startUid": "u1321",
+          "endUid": "u1325",
+          "quote": "DM: She sort of points around, and she says, “Zeyfa's home… Zeyfa…” What's the… what's the name? Zeyfa! “Zeyfa’s Labyrinth.” “You do not know? You speak our tongue, yet you don’t know the stories?”\n\n"
+        },
+        {
+          "startUid": "u2098",
+          "endUid": "u2098",
+          "quote": "Ekko: So, just… are we in the maze now?\n\n"
+        },
+        {
+          "startUid": "u2099",
+          "endUid": "u2100",
+          "quote": "DM: Yeah, this is the entrance. Which way? This is… she… I mean, she fell through the same…\n\n"
+        },
+        {
+          "startUid": "u2101",
+          "endUid": "u2101",
+          "quote": "Ekko: Yeah, yeah, yeah.\n\n"
+        },
+        {
+          "startUid": "u2102",
+          "endUid": "u2102",
+          "quote": "DM: Sheet.\n\n"
+        },
+        {
+          "startUid": "u2103",
+          "endUid": "u2103",
+          "quote": "Ekko: There's… but there's two paths right now, right?\n\n"
+        },
+        {
+          "startUid": "u2104",
+          "endUid": "u2105",
+          "quote": "DM: Doesn't matter. “The maze takes you where the maze wants to take you.”\n\n"
+        }
+      ]
+    },
+    "p02": {
+      "label": "Floating ice platform",
+      "kind": "platform",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1310",
+              "endUid": "u1319",
+              "quote": "DM: She… she looks around at this… at this place, and the ice bridges, and… you can see, like, just this sinking… sensation in her eyes, like… like, sort of… just… just almost a life draining out of her. She's not terrified, she's clearly underselling her reaction, but she says, “I’m… back.” “Nobody… nobody escapes. And yet, somehow I did. And now I’m back?”\n\n"
+            },
+            {
+              "startUid": "u1320",
+              "endUid": "u1320",
+              "quote": "Finnan: “Back where?”\n\n"
+            },
+            {
+              "startUid": "u1321",
+              "endUid": "u1325",
+              "quote": "DM: She sort of points around, and she says, “Zeyfa's home… Zeyfa…” What's the… what's the name? Zeyfa! “Zeyfa’s Labyrinth.” “You do not know? You speak our tongue, yet you don’t know the stories?”\n\n"
+            },
+            {
+              "startUid": "u2098",
+              "endUid": "u2098",
+              "quote": "Ekko: So, just… are we in the maze now?\n\n"
+            },
+            {
+              "startUid": "u2099",
+              "endUid": "u2100",
+              "quote": "DM: Yeah, this is the entrance. Which way? This is… she… I mean, she fell through the same…\n\n"
+            },
+            {
+              "startUid": "u2101",
+              "endUid": "u2101",
+              "quote": "Ekko: Yeah, yeah, yeah.\n\n"
+            },
+            {
+              "startUid": "u2102",
+              "endUid": "u2102",
+              "quote": "DM: Sheet.\n\n"
+            },
+            {
+              "startUid": "u2103",
+              "endUid": "u2103",
+              "quote": "Ekko: There's… but there's two paths right now, right?\n\n"
+            },
+            {
+              "startUid": "u2104",
+              "endUid": "u2105",
+              "quote": "DM: Doesn't matter. “The maze takes you where the maze wants to take you.”\n\n"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0183",
+          "endUid": "u0187",
+          "quote": "DM: You awaken in the dark, lying on a platform of ice apparently floating in the darkness. Three body lengths above you is the howling whiteness of snow. You can't see into it, and it looks like it's moving very quickly. It would probably be dangerous to fly in it. And the wind shrieks, even here, lying on the ice beneath it, the wind shrieks. And the occasional gust seems to, like, come and almost steal your breath away.\n\n"
+        },
+        {
+          "startUid": "u0188",
+          "endUid": "u0194",
+          "quote": "DM: As you open your eyes, first of all, you see everybody here and then you also see a dim blue light glowing from two places inside this platform of ice, which is enough light to let you see… although you can't really see the edges, it's all just in shadows and darkness, you can see two bridges, one in front of you, one behind you, leading off the platform into darkness. In front of each bridge, there's a large wolf encased almost entirely in ice, like, totally encased in ice. But, like, not in a block of ice, like, thin layer of ice around the wolf's body. Almost looks like a… ice sculpture. Double.\n\n"
+        },
+        {
+          "startUid": "u0349",
+          "endUid": "u0349",
+          "quote": "DM: It was, like, 3 o'clock in the afternoon. So, I mean, it was getting dark, because it's midwinter, and you're pretty far north, but…\n\n"
+        },
+        {
+          "startUid": "u0350",
+          "endUid": "u0350",
+          "quote": "Ekko: Now, where we are, we're, like, when we look around, we're blocked out, like, the sky's blocked out, like, we can't see anything, we're, like, in the…\n\n"
+        },
+        {
+          "startUid": "u0351",
+          "endUid": "u0351",
+          "quote": "DM: Yeah, so you're, like, lying on a platform that's floating in, like, a black space. So if you look to the left or right, or back or front, it's all blackness, except there's these two glowing lights that are illuminating these two wolves carved out of, like, ice wolves, that then are…\n\n"
+        },
+        {
+          "startUid": "u0352",
+          "endUid": "u0352",
+          "quote": "Eolo: Hmm.\n\n"
+        },
+        {
+          "startUid": "u0353",
+          "endUid": "u0353",
+          "quote": "DM: Positioned like they're guarding two bridges, right? And then above you, there's just this whiteness that's, like, spreading across like a sky, but it's not a real sky, it's a storm.\n\n"
+        },
+        {
+          "startUid": "u0354",
+          "endUid": "u0354",
+          "quote": "Finnan: How big is this platform?\n\n"
+        },
+        {
+          "startUid": "u0355",
+          "endUid": "u0355",
+          "quote": "DM: You can't… how… what's the radius of light? It's 30 feet in all directions.\n\n"
+        },
+        {
+          "startUid": "u0356",
+          "endUid": "u0356",
+          "quote": "Finnan: In all directions.\n\n"
+        },
+        {
+          "startUid": "u0357",
+          "endUid": "u0357",
+          "quote": "DM: 40 feet in all directions, and they've been looking at my map.\n\n"
+        },
+        {
+          "startUid": "u0358",
+          "endUid": "u0361",
+          "quote": "DM: You can see the… it's just about 40 feet in all directions. You can just… not quite, you can see to your left and right, just the edge… like, the edge of the platform, it just drops off. But to your… to your… same with… it's kind of the ice… where the bridges are, you can't quite… where these two ice bridges are leaving off, it's just a little bit more elongated in those two directions, so you can't quite see… the edge there, but for the most part, you're standing kind of on a… not perfectly spherical, but a roughly shaped 40-foot diameter sphere. Like oval. Like, circle. Yeah, it's not a perfect circle, but it's close-ish to a circle.\n\n"
+        }
+      ]
+    },
+    "p03": {
+      "label": "Snowbank chamber with four tunnels",
+      "kind": "chamber",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2098",
+              "endUid": "u2098",
+              "quote": "Ekko: So, just… are we in the maze now?\n\n"
+            },
+            {
+              "startUid": "u2099",
+              "endUid": "u2100",
+              "quote": "DM: Yeah, this is the entrance. Which way? This is… she… I mean, she fell through the same…\n\n"
+            },
+            {
+              "startUid": "u2101",
+              "endUid": "u2101",
+              "quote": "Ekko: Yeah, yeah, yeah.\n\n"
+            },
+            {
+              "startUid": "u2102",
+              "endUid": "u2102",
+              "quote": "DM: Sheet.\n\n"
+            },
+            {
+              "startUid": "u2103",
+              "endUid": "u2103",
+              "quote": "Ekko: There's… but there's two paths right now, right?\n\n"
+            },
+            {
+              "startUid": "u2104",
+              "endUid": "u2105",
+              "quote": "DM: Doesn't matter. “The maze takes you where the maze wants to take you.”\n\n"
+            },
+            {
+              "startUid": "u2172",
+              "endUid": "u2175",
+              "quote": "DM: She… how… Okay, she… she comes back a few minutes later and basically tells you there's a… there's a… there's a room. Like, the bridge leads… into, like, the ceiling of a… of, like, a snowbank, basically. And there's an opening, but you can jump down into the snow. It's like… and then there's four, sort of, passageways going off into, like, going, like…\n\n"
+            },
+            {
+              "startUid": "u2176",
+              "endUid": "u2180",
+              "quote": "DM: The geometry is kind of a little hard to understand, like, it doesn't quite seem… like, it totally fits, but there's basically four branches, like, 4 going, like, into the… it, like, tunnels into the snow. So it's almost like a massive snow bank, and there's, like, these four narrow tunnels, like, weaving… leading into the snow, each going out.\n\n"
+            },
+            {
+              "startUid": "u2181",
+              "endUid": "u2182",
+              "quote": "DM: So it's probably your best mental picture, is you're in an empty black space, floating, with all this wind, and then there's snow over there somewhere, and you can jump into it, and then there's these four tunnels, each… your bird didn't go down through any of the four tunnels, but there was no signs of any creatures.\n\n"
+            }
+          ]
+        },
+        {
+          "relation": "connected_to",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2172",
+              "endUid": "u2175",
+              "quote": "DM: She… how… Okay, she… she comes back a few minutes later and basically tells you there's a… there's a… there's a room. Like, the bridge leads… into, like, the ceiling of a… of, like, a snowbank, basically. And there's an opening, but you can jump down into the snow. It's like… and then there's four, sort of, passageways going off into, like, going, like…\n\n"
+            }
+          ],
+          "note": "An ice bridge reaches an opening in the snowbank ceiling; the chamber lies below the opening."
+        }
+      ],
+      "note": "Only Rala scouts this chamber; the party's entry remains pending at the transcript cutoff.",
+      "evidence": [
+        {
+          "startUid": "u2172",
+          "endUid": "u2175",
+          "quote": "DM: She… how… Okay, she… she comes back a few minutes later and basically tells you there's a… there's a… there's a room. Like, the bridge leads… into, like, the ceiling of a… of, like, a snowbank, basically. And there's an opening, but you can jump down into the snow. It's like… and then there's four, sort of, passageways going off into, like, going, like…\n\n"
+        },
+        {
+          "startUid": "u2176",
+          "endUid": "u2180",
+          "quote": "DM: The geometry is kind of a little hard to understand, like, it doesn't quite seem… like, it totally fits, but there's basically four branches, like, 4 going, like, into the… it, like, tunnels into the snow. So it's almost like a massive snow bank, and there's, like, these four narrow tunnels, like, weaving… leading into the snow, each going out.\n\n"
+        },
+        {
+          "startUid": "u2181",
+          "endUid": "u2182",
+          "quote": "DM: So it's probably your best mental picture, is you're in an empty black space, floating, with all this wind, and then there's snow over there somewhere, and you can jump into it, and then there's these four tunnels, each… your bird didn't go down through any of the four tunnels, but there was no signs of any creatures.\n\n"
+        }
+      ]
+    },
+    "p04": {
+      "label": "Air below the ice platform",
+      "kind": "airspace",
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2020",
+              "endUid": "u2023",
+              "quote": "DM: So, you both jump off. And… you… glide, you know, you sort of fly down maybe 15 feet when this very strong wind, catches, like, this… just this gust of this, like, wind. It catches you. Ekko, you're just flung up, like, with violent force, and, like, catapulted over the… the… back onto the platform and smashed face-first into the ice, you take 16 points of damage.\n\n"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2020",
+          "endUid": "u2023",
+          "quote": "DM: So, you both jump off. And… you… glide, you know, you sort of fly down maybe 15 feet when this very strong wind, catches, like, this… just this gust of this, like, wind. It catches you. Ekko, you're just flung up, like, with violent force, and, like, catapulted over the… the… back onto the platform and smashed face-first into the ice, you take 16 points of damage.\n\n"
+        },
+        {
+          "startUid": "u2024",
+          "endUid": "u2024",
+          "quote": "Ekko: Dammit.\n\n"
+        },
+        {
+          "startUid": "u2025",
+          "endUid": "u2026",
+          "quote": "DM: Eolo, you are not… the wind is buffeting you, and you're… but you… but you maintain your position, right? Like, you… you're kind of… you're hovering carefully, like… a few minutes, you know, I don't know if you, if you, if you wait, another gust will probably come, and you can't go down it.\n\n"
+        },
+        {
+          "startUid": "u2027",
+          "endUid": "u2027",
+          "quote": "Eolo: My intention was to see what was down there, and then use the power of the gust to do an amazing, like, triple backflip back onto the platform.\n\n"
+        },
+        {
+          "startUid": "u2028",
+          "endUid": "u2030",
+          "quote": "DM: Okay, so are you gonna… so you can't keep going, like, swimming… not swimming, flying further down, it feels impossible, right? I mean, maybe if you were much stronger, you could try and push your way, but at the moment, you're, like, being pushed up with a strong enough force that you can't keep going. But you're, like, balancing such that it's not actually flinging you up. So, you could try and just…\n\n"
+        }
+      ]
+    },
+    "p05": {
+      "label": "Camp just north of the Chasm",
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "north_of",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1607",
+              "endUid": "u1613",
+              "quote": "Jrain: For us, it didn't feel like falling. We were outside at the camp just north of the chasm. And a big storm hit, and just… could have whisked us up into the sky, as far as we know, or off to a distant mountain. Like, it just transported us, it didn't really feel like falling into the chasm. But I thought, since she said she was back here with… I assume you conveyed that general language in your storytelling, Finnan?\n\n"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1607",
+          "endUid": "u1613",
+          "quote": "Jrain: For us, it didn't feel like falling. We were outside at the camp just north of the chasm. And a big storm hit, and just… could have whisked us up into the sky, as far as we know, or off to a distant mountain. Like, it just transported us, it didn't really feel like falling into the chasm. But I thought, since she said she was back here with… I assume you conveyed that general language in your storytelling, Finnan?\n\n"
+        }
+      ]
+    },
+    "p06": {
+      "label": "Great Chasm",
+      "kind": "chasm",
+      "vaultPath": "Gazetteer/Greater Sembara/Zimkova/Great Chasm.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0032",
+              "endUid": "u0035",
+              "quote": "DM: For as long as anybody remembers, the Great Chasm has split Zimkova like a wound, an impossible cleft that plunges into endless depths, from which strangeness typically emerges. Spires of impossible buildings, unexpected lights, storms and winds that seem to defy gravity, and unusual and unseasonable plants that the Kenku sometimes harvest. Although many in the region see it as the home of Zeyfa, the cruel west wind of Zimkovan legends, not all do. The Kenku monks of the Kemeko Monastery see it as a place of safety and refuge, where they can train unwatched by the outside world, and safe from danger. And the mystics of the Vejo Vaikai believe the chasm is a place of elemental balance and great power.\n\n"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0032",
+          "endUid": "u0035",
+          "quote": "DM: For as long as anybody remembers, the Great Chasm has split Zimkova like a wound, an impossible cleft that plunges into endless depths, from which strangeness typically emerges. Spires of impossible buildings, unexpected lights, storms and winds that seem to defy gravity, and unusual and unseasonable plants that the Kenku sometimes harvest. Although many in the region see it as the home of Zeyfa, the cruel west wind of Zimkovan legends, not all do. The Kenku monks of the Kemeko Monastery see it as a place of safety and refuge, where they can train unwatched by the outside world, and safe from danger. And the mystics of the Vejo Vaikai believe the chasm is a place of elemental balance and great power.\n\n"
+        },
+        {
+          "startUid": "u1614",
+          "endUid": "u1615",
+          "quote": "Jrain: Yes. Since she said she was back here, and my knowledge of where she was most recently is in the chasm, and she crawled out, that we must be in the chasm.\n\n"
+        },
+        {
+          "startUid": "u1616",
+          "endUid": "u1616",
+          "quote": "Ekko: I don't… I'm not…\n\n"
+        },
+        {
+          "startUid": "u1617",
+          "endUid": "u1617",
+          "quote": "Eolo: Dune.\n\n"
+        },
+        {
+          "startUid": "u1618",
+          "endUid": "u1618",
+          "quote": "Ekko: Chasm.\n\n"
+        },
+        {
+          "startUid": "u1619",
+          "endUid": "u1621",
+          "quote": "Jrain: Well, maybe she wasn't either, but she somehow got from wherever this is to the chasm, and managed to crawl out of the chasm. Which is what I want to learn how to do, because I'm very worried about the Vejo Vaikai party, Eidrikas and Pakrinek, who… did disappear in here.\n\n"
+        }
+      ]
+    },
+    "p07": {
+      "label": "Zimkova",
+      "kind": "region",
+      "vaultPath": "Gazetteer/Greater Sembara/Zimkova/Zimkova.md",
+      "evidence": [
+        {
+          "startUid": "u0032",
+          "endUid": "u0035",
+          "quote": "DM: For as long as anybody remembers, the Great Chasm has split Zimkova like a wound, an impossible cleft that plunges into endless depths, from which strangeness typically emerges. Spires of impossible buildings, unexpected lights, storms and winds that seem to defy gravity, and unusual and unseasonable plants that the Kenku sometimes harvest. Although many in the region see it as the home of Zeyfa, the cruel west wind of Zimkovan legends, not all do. The Kenku monks of the Kemeko Monastery see it as a place of safety and refuge, where they can train unwatched by the outside world, and safe from danger. And the mystics of the Vejo Vaikai believe the chasm is a place of elemental balance and great power.\n\n"
+        }
+      ]
+    },
+    "p08": {
+      "label": "Kemeko Monastery",
+      "kind": "stronghold",
+      "vaultPath": "Gazetteer/Greater Sembara/Zimkova/Kemeko Monastery.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0032",
+              "endUid": "u0035",
+              "quote": "DM: For as long as anybody remembers, the Great Chasm has split Zimkova like a wound, an impossible cleft that plunges into endless depths, from which strangeness typically emerges. Spires of impossible buildings, unexpected lights, storms and winds that seem to defy gravity, and unusual and unseasonable plants that the Kenku sometimes harvest. Although many in the region see it as the home of Zeyfa, the cruel west wind of Zimkovan legends, not all do. The Kenku monks of the Kemeko Monastery see it as a place of safety and refuge, where they can train unwatched by the outside world, and safe from danger. And the mystics of the Vejo Vaikai believe the chasm is a place of elemental balance and great power.\n\n"
+            },
+            {
+              "startUid": "u1801",
+              "endUid": "u1802",
+              "quote": "Eolo: True. Does the monastery at Kemeko… is it below the river or above it?\n\n"
+            },
+            {
+              "startUid": "u1803",
+              "endUid": "u1803",
+              "quote": "Ekko: Below, right?\n\n"
+            },
+            {
+              "startUid": "u1804",
+              "endUid": "u1804",
+              "quote": "Finnan: Low.\n\n"
+            },
+            {
+              "startUid": "u1805",
+              "endUid": "u1805",
+              "quote": "DM: It's… it's in the cliffside, about 600 or 800 feet below the river, and you have to get there either by flying, which is the expected way, or by climbing down these giant steps that are about 25 feet tall, that then have separate steps carved into them.\n\n"
+            }
+          ],
+          "note": "The narrated cliffside setting is several hundred feet below the river. No precise modern containment is imported."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1766",
+          "endUid": "u1772",
+          "quote": "Ekko: Oh, yeah, that's just more… trying to help my friend here. We were trying to… we were headed to the monastery, and then… got hit by that storm. I mean, there's all kinds of strange weather here you need to be prepared for and ready for, but… whatever that was, was… whatever the normal level of unusual and chaos is related to the chasm, that definitely was… more unusual. But we were just on our way to the monastery.\n\n"
+        },
+        {
+          "startUid": "u1801",
+          "endUid": "u1802",
+          "quote": "Eolo: True. Does the monastery at Kemeko… is it below the river or above it?\n\n"
+        },
+        {
+          "startUid": "u1803",
+          "endUid": "u1803",
+          "quote": "Ekko: Below, right?\n\n"
+        },
+        {
+          "startUid": "u1804",
+          "endUid": "u1804",
+          "quote": "Finnan: Low.\n\n"
+        },
+        {
+          "startUid": "u1805",
+          "endUid": "u1805",
+          "quote": "DM: It's… it's in the cliffside, about 600 or 800 feet below the river, and you have to get there either by flying, which is the expected way, or by climbing down these giant steps that are about 25 feet tall, that then have separate steps carved into them.\n\n"
+        },
+        {
+          "startUid": "u1806",
+          "endUid": "u1806",
+          "quote": "Jrain: It's a lot of climbing.\n\n"
+        },
+        {
+          "startUid": "u1807",
+          "endUid": "u1807",
+          "quote": "Eolo: Not for everyone.\n\n"
+        },
+        {
+          "startUid": "u1808",
+          "endUid": "u1810",
+          "quote": "DM: I mean, it usually takes a day… usually people take 2 days to climb down, right? It's like… probably 5,000 steps, or something like that, and you usually would camp on one of these giant steps, which is a nice little platform to camp on, and then keep going down, like, the second day.\n\n"
+        },
+        {
+          "startUid": "u1811",
+          "endUid": "u1811",
+          "quote": "Ekko: And, and we.\n\n"
+        },
+        {
+          "startUid": "u1812",
+          "endUid": "u1812",
+          "quote": "Jrain: I love a lot of climbing, but…\n\n"
+        },
+        {
+          "startUid": "u1813",
+          "endUid": "u1813",
+          "quote": "Ekko: We think it's the, the giants that made this, the monastery.\n\n"
+        },
+        {
+          "startUid": "u1814",
+          "endUid": "u1814",
+          "quote": "DM: It's certainly sized for giants. Whether they actually made it, nobody really knows.\n\n"
+        },
+        {
+          "startUid": "u1815",
+          "endUid": "u1815",
+          "quote": "Ekko: But is the mon… what's the… is the monastery giant-sized, or is it human-sized?\n\n"
+        },
+        {
+          "startUid": "u1816",
+          "endUid": "u1817",
+          "quote": "DM: No, the buildings are all big. I mean, the Kenku have restructured it to fit the Kenku, but the monastery itself is large. It's big.\n\n"
+        },
+        {
+          "startUid": "u1818",
+          "endUid": "u1818",
+          "quote": "Ekko: Got it. But…\n\n"
+        },
+        {
+          "startUid": "u1819",
+          "endUid": "u1821",
+          "quote": "DM: It's also kind of too, like, it's weird, like, nobody really can explain it, right? Like… the Kenku took over an abandoned… like, the Kenku are the only ones that anybody knows who have inhabited it, but they didn't build it. It was already there when they moved in.\n\n"
+        },
+        {
+          "startUid": "u1882",
+          "endUid": "u1882",
+          "quote": "Jrain: I mean, she came up into the Kemeko Monastery, though, she was…\n\n"
+        },
+        {
+          "startUid": "u1883",
+          "endUid": "u1883",
+          "quote": "DM: She was terrified of the Kenku, though. She wouldn't talk to them.\n\n"
+        },
+        {
+          "startUid": "u1884",
+          "endUid": "u1884",
+          "quote": "Jrain: Okay.\n\n"
+        },
+        {
+          "startUid": "u1885",
+          "endUid": "u1885",
+          "quote": "DM: Right? She, like, had no idea. She, like, was… that's one of the reasons.\n\n"
+        },
+        {
+          "startUid": "u1886",
+          "endUid": "u1886",
+          "quote": "Jrain: She didn't know she could talk to them. That was one of the problems.\n\n"
+        },
+        {
+          "startUid": "u1887",
+          "endUid": "u1889",
+          "quote": "DM: Yes, exactly. One of the… one of the challenges, and one of the reasons you left with her was because she was… thought the Kenku were basically monsters, like, she was totally… and probably they were all carrying their blood feathers around and be like, we killed 17 bloodhawks today, we're the coolest, right? They probably were not the most welcoming, but… She says. Sorry, go ahead.\n\n"
+        }
+      ]
+    },
+    "p09": {
+      "label": "Earthen escape tunnel",
+      "kind": "tunnel",
+      "note": "Kalima describes digging through it during her earlier escape; its current position and availability remain unknown.",
+      "evidence": [
+        {
+          "startUid": "u2076",
+          "endUid": "u2077",
+          "quote": "DM: But she, she doesn't… I mean, there's… she doesn't have any specific knowledge of what the beast is, but… but she sort of… she tells you that it's kind of like…\n\n"
+        },
+        {
+          "startUid": "u2078",
+          "endUid": "u2082",
+          "quote": "DM: It… it's… it's… she doesn't know, like… like, she doesn't really know how she found a way out. She said she found… she saw a… a… an earthen tunnel, and she just dug through it. But she doesn't know how she found it. Ed.\n\n"
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0183",
+        "endUid": "u0194"
+      },
+      "actors": [
+        "Finnan",
+        "Jrain",
+        "Eolo",
+        "Ekko",
+        "Justas",
+        "Kalima",
+        "Rala"
+      ],
+      "reading": "The five adventurers and Kalima awaken on an ice platform beneath a howling snowstorm; Rala's survival there is confirmed retrospectively.",
+      "place": "p02",
+      "evidence": [
+        {
+          "startUid": "u0183",
+          "endUid": "u0187",
+          "quote": "DM: You awaken in the dark, lying on a platform of ice apparently floating in the darkness. Three body lengths above you is the howling whiteness of snow. You can't see into it, and it looks like it's moving very quickly. It would probably be dangerous to fly in it. And the wind shrieks, even here, lying on the ice beneath it, the wind shrieks. And the occasional gust seems to, like, come and almost steal your breath away.\n\n"
+        },
+        {
+          "startUid": "u0188",
+          "endUid": "u0194",
+          "quote": "DM: As you open your eyes, first of all, you see everybody here and then you also see a dim blue light glowing from two places inside this platform of ice, which is enough light to let you see… although you can't really see the edges, it's all just in shadows and darkness, you can see two bridges, one in front of you, one behind you, leading off the platform into darkness. In front of each bridge, there's a large wolf encased almost entirely in ice, like, totally encased in ice. But, like, not in a block of ice, like, thin layer of ice around the wolf's body. Almost looks like a… ice sculpture. Double.\n\n"
+        },
+        {
+          "startUid": "u0284",
+          "endUid": "u0292",
+          "quote": "DM: Lying next to Jrain, is a young woman… well… she looks about… maybe 25, 30-ish? She's wearing a well-made fur cloak, although, actually, that… she's not anymore. She was wearing a well-made fur cloak, it snapped off in the wind. And now she's just… she's wearing, sort of plainly made, like, leathers and fur clothes. They're sort of an unfamiliar style. There's no cloth, it's all, nothing woven. Animal, all made from, like, leather or fur, and sort of pieced together. Several different layers, it looks like it would be warm. Her face is sort of round, slightly dark, sort of like, like, Native American, like, sort of slightly dark-skinned, but not… not, like… brown. And she has, like… she's missing a tooth, and she has a large scar on one cheek, but otherwise, fairly attractive sort of face. But as soon as she—hold on, let me… okay, Kong, I see what you said, but…\n\n"
+        },
+        {
+          "startUid": "u2154",
+          "endUid": "u2155",
+          "quote": "Jrain: Right. Having gone unnoticed as she stayed through…\n\n"
+        },
+        {
+          "startUid": "u2156",
+          "endUid": "u2156",
+          "quote": "DM: I'm gonna say she was battered by the fall and recovered. You nursed her back to life as… to health as part of the short rest.\n\n"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u1529",
+        "endUid": "u1540"
+      },
+      "actors": [
+        "Kalima"
+      ],
+      "reading": "Kalima had previously escaped the labyrinth through an earthen tunnel, emerged from the Chasm, and reached Kemeko; this is her reported earlier escape.",
+      "context": "reported",
+      "from": "p01",
+      "to": "p08",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Dug through an earthen tunnel she cannot relocate.",
+          "place": "p09"
+        },
+        {
+          "reading": "Emerged from the Chasm.",
+          "place": "p06"
+        }
+      ],
+      "note": "The transcript does not date her earlier escape or place the current party in that tunnel or at Kemeko.",
+      "evidence": [
+        {
+          "startUid": "u1529",
+          "endUid": "u1533",
+          "quote": "Jrain: You're giving the impression that you're one of the Kenku from Kemeko. I'm not sure if we've ever met, but I've… been called here to… help, find someone who could talk to this woman. She crawled out of the chasm recently in all of this craziness, and nobody could understand her.\n\n"
+        },
+        {
+          "startUid": "u1534",
+          "endUid": "u1534",
+          "quote": "Ekko: So…\n\n"
+        },
+        {
+          "startUid": "u1535",
+          "endUid": "u1535",
+          "quote": "Jrain: So, Justas and…\n\n"
+        },
+        {
+          "startUid": "u1536",
+          "endUid": "u1536",
+          "quote": "Ekko: Go ahead, sorry.\n\n"
+        },
+        {
+          "startUid": "u1537",
+          "endUid": "u1540",
+          "quote": "Jrain: So, Justas and Finn… were called to come and talk to her. We weren't here when the magic storm brought us here, but… we were coming to… they were coming specifically to talk to her and find out her story. Because she seems to have come out of the chasm.\n\n"
+        },
+        {
+          "startUid": "u1614",
+          "endUid": "u1615",
+          "quote": "Jrain: Yes. Since she said she was back here, and my knowledge of where she was most recently is in the chasm, and she crawled out, that we must be in the chasm.\n\n"
+        },
+        {
+          "startUid": "u1882",
+          "endUid": "u1882",
+          "quote": "Jrain: I mean, she came up into the Kemeko Monastery, though, she was…\n\n"
+        },
+        {
+          "startUid": "u1883",
+          "endUid": "u1883",
+          "quote": "DM: She was terrified of the Kenku, though. She wouldn't talk to them.\n\n"
+        },
+        {
+          "startUid": "u1884",
+          "endUid": "u1884",
+          "quote": "Jrain: Okay.\n\n"
+        },
+        {
+          "startUid": "u1885",
+          "endUid": "u1885",
+          "quote": "DM: Right? She, like, had no idea. She, like, was… that's one of the reasons.\n\n"
+        },
+        {
+          "startUid": "u1886",
+          "endUid": "u1886",
+          "quote": "Jrain: She didn't know she could talk to them. That was one of the problems.\n\n"
+        },
+        {
+          "startUid": "u1887",
+          "endUid": "u1889",
+          "quote": "DM: Yes, exactly. One of the… one of the challenges, and one of the reasons you left with her was because she was… thought the Kenku were basically monsters, like, she was totally… and probably they were all carrying their blood feathers around and be like, we killed 17 bloodhawks today, we're the coolest, right? They probably were not the most welcoming, but… She says. Sorry, go ahead.\n\n"
+        },
+        {
+          "startUid": "u2076",
+          "endUid": "u2077",
+          "quote": "DM: But she, she doesn't… I mean, there's… she doesn't have any specific knowledge of what the beast is, but… but she sort of… she tells you that it's kind of like…\n\n"
+        },
+        {
+          "startUid": "u2078",
+          "endUid": "u2082",
+          "quote": "DM: It… it's… it's… she doesn't know, like… like, she doesn't really know how she found a way out. She said she found… she saw a… a… an earthen tunnel, and she just dug through it. But she doesn't know how she found it. Ed.\n\n"
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u1607",
+        "endUid": "u1615"
+      },
+      "actors": [
+        "Jrain",
+        "Finnan",
+        "Justas",
+        "Kalima",
+        "Rala"
+      ],
+      "reading": "A storm transported this group from its camp north of the Chasm to the current ice platform.",
+      "context": "reported",
+      "from": "p05",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "storm transport",
+      "note": "This retrospectively explains the opening displacement; it is not another trip after the fight.",
+      "evidence": [
+        {
+          "startUid": "u1607",
+          "endUid": "u1613",
+          "quote": "Jrain: For us, it didn't feel like falling. We were outside at the camp just north of the chasm. And a big storm hit, and just… could have whisked us up into the sky, as far as we know, or off to a distant mountain. Like, it just transported us, it didn't really feel like falling into the chasm. But I thought, since she said she was back here with… I assume you conveyed that general language in your storytelling, Finnan?\n\n"
+        },
+        {
+          "startUid": "u1614",
+          "endUid": "u1615",
+          "quote": "Jrain: Yes. Since she said she was back here, and my knowledge of where she was most recently is in the chasm, and she crawled out, that we must be in the chasm.\n\n"
+        },
+        {
+          "startUid": "u1776",
+          "endUid": "u1781",
+          "quote": "Finnan: We were about to speak to this woman, and Finnan nods over at the… the Zimkovan woman, who is presumably still huddled by the illusory hearth. This whole time, Finnan's been sort of plucking on his fiddle a little bit, maintaining this illusion. We were about to speak to her when… a great wind and storm of snow grabbed us, and… dragged us somewhere. But I begin to wonder if this really is the chasm.\n\n"
+        },
+        {
+          "startUid": "u0183",
+          "endUid": "u0187",
+          "quote": "DM: You awaken in the dark, lying on a platform of ice apparently floating in the darkness. Three body lengths above you is the howling whiteness of snow. You can't see into it, and it looks like it's moving very quickly. It would probably be dangerous to fly in it. And the wind shrieks, even here, lying on the ice beneath it, the wind shrieks. And the occasional gust seems to, like, come and almost steal your breath away.\n\n"
+        },
+        {
+          "startUid": "u0188",
+          "endUid": "u0194",
+          "quote": "DM: As you open your eyes, first of all, you see everybody here and then you also see a dim blue light glowing from two places inside this platform of ice, which is enough light to let you see… although you can't really see the edges, it's all just in shadows and darkness, you can see two bridges, one in front of you, one behind you, leading off the platform into darkness. In front of each bridge, there's a large wolf encased almost entirely in ice, like, totally encased in ice. But, like, not in a block of ice, like, thin layer of ice around the wolf's body. Almost looks like a… ice sculpture. Double.\n\n"
+        },
+        {
+          "startUid": "u2129",
+          "endUid": "u2131",
+          "quote": "Jrain: But I heard that every morning I wake up and Rala appears, and we have a frolicking fun day together. Yeah. Except that this morning I woke up, and Rala appeared, and I went off to go travel with a Zimkovan woman, and a giant storm of immense wind capacity whipped me into another dimension.\n\n"
+        },
+        {
+          "startUid": "u2132",
+          "endUid": "u2132",
+          "quote": "DM: Yeah, but Rala could have survived the storm.\n\n"
+        },
+        {
+          "startUid": "u2133",
+          "endUid": "u2133",
+          "quote": "Jrain: Okay, so she's.\n\n"
+        },
+        {
+          "startUid": "u2134",
+          "endUid": "u2134",
+          "quote": "DM: Because, I mean, the Zimkovan woman only had 5 hit points, she survived the storm.\n\n"
+        },
+        {
+          "startUid": "u2135",
+          "endUid": "u2137",
+          "quote": "DM: So there's no reason why Rala wouldn't have survived the storm. I thought it was like a familiar that you summoned and dismissed whenever you wanted. So, I thought you just didn't have… no, Rala would have survived the storm. There's not a… I mean, none of you took damage.\n\n"
+        },
+        {
+          "startUid": "u2138",
+          "endUid": "u2138",
+          "quote": "Jrain: She wasn't so battered by the wind that she disappeared, and I can't see her again until tomorrow morning.\n\n"
+        },
+        {
+          "startUid": "u2139",
+          "endUid": "u2139",
+          "quote": "DM: Yes, yes.\n\n"
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u1766",
+        "endUid": "u1775"
+      },
+      "actors": [
+        "Ekko",
+        "Eolo"
+      ],
+      "reading": "Ekko and Eolo were heading to Kemeko when the storm interrupted their journey; they landed with the others rather than reaching the monastery.",
+      "context": "reported",
+      "from": null,
+      "to": "p08",
+      "completion": "interrupted",
+      "note": "Their starting point is not established in the recorded breakout-room remainder.",
+      "evidence": [
+        {
+          "startUid": "u1766",
+          "endUid": "u1772",
+          "quote": "Ekko: Oh, yeah, that's just more… trying to help my friend here. We were trying to… we were headed to the monastery, and then… got hit by that storm. I mean, there's all kinds of strange weather here you need to be prepared for and ready for, but… whatever that was, was… whatever the normal level of unusual and chaos is related to the chasm, that definitely was… more unusual. But we were just on our way to the monastery.\n\n"
+        },
+        {
+          "startUid": "u1773",
+          "endUid": "u1773",
+          "quote": "Finnan: And you were also caught in a storm, which you couldn't see through?\n\n"
+        },
+        {
+          "startUid": "u1774",
+          "endUid": "u1775",
+          "quote": "Ekko: That's right. Same, same for yourself?\n\n"
+        },
+        {
+          "startUid": "u1601",
+          "endUid": "u1605",
+          "quote": "Ekko: Got it, perfect, perfect. Yeah, so Ekko, Ekko, like, you know, flips, flips into a bird, hovers there for a second, is kind of, like, looking around, is like, “I know this place well, and when I say this place, I mean the chasm. It's hard to explain, but… Everything… I'm guessing all of us would guess, would be that we fell in here. I know Ekko and I, or Eolo and I certainly fell in here, but… wherever the here is, I don't think we're in the chasm.”\n\n"
+        },
+        {
+          "startUid": "u0183",
+          "endUid": "u0187",
+          "quote": "DM: You awaken in the dark, lying on a platform of ice apparently floating in the darkness. Three body lengths above you is the howling whiteness of snow. You can't see into it, and it looks like it's moving very quickly. It would probably be dangerous to fly in it. And the wind shrieks, even here, lying on the ice beneath it, the wind shrieks. And the occasional gust seems to, like, come and almost steal your breath away.\n\n"
+        },
+        {
+          "startUid": "u0188",
+          "endUid": "u0194",
+          "quote": "DM: As you open your eyes, first of all, you see everybody here and then you also see a dim blue light glowing from two places inside this platform of ice, which is enough light to let you see… although you can't really see the edges, it's all just in shadows and darkness, you can see two bridges, one in front of you, one behind you, leading off the platform into darkness. In front of each bridge, there's a large wolf encased almost entirely in ice, like, totally encased in ice. But, like, not in a block of ice, like, thin layer of ice around the wolf's body. Almost looks like a… ice sculpture. Double.\n\n"
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1994",
+        "endUid": "u2054"
+      },
+      "actors": [
+        "Ekko",
+        "Eolo"
+      ],
+      "reading": "Both kenku jump beneath the platform and return: the wind flings Ekko onto the ice, while Eolo holds position and then backflips onto it.",
+      "from": "p02",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "jump and fly",
+      "route": [
+        {
+          "reading": "Descend about fifteen feet before the upward gust prevents further descent.",
+          "place": "p04"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1994",
+          "endUid": "u1994",
+          "quote": "DM: So… so hold on. So, Eolo jumps!\n\n"
+        },
+        {
+          "startUid": "u1995",
+          "endUid": "u1995",
+          "quote": "Ekko: No, we both jumped, we both jumped.\n\n"
+        },
+        {
+          "startUid": "u1996",
+          "endUid": "u1996",
+          "quote": "DM: Okay, so you're jumping, and just see what happens.\n\n"
+        },
+        {
+          "startUid": "u1997",
+          "endUid": "u1997",
+          "quote": "Ekko: We're diving into the… we're just going down. Yeah, we're diving down.\n\n"
+        },
+        {
+          "startUid": "u2020",
+          "endUid": "u2023",
+          "quote": "DM: So, you both jump off. And… you… glide, you know, you sort of fly down maybe 15 feet when this very strong wind, catches, like, this… just this gust of this, like, wind. It catches you. Ekko, you're just flung up, like, with violent force, and, like, catapulted over the… the… back onto the platform and smashed face-first into the ice, you take 16 points of damage.\n\n"
+        },
+        {
+          "startUid": "u2024",
+          "endUid": "u2024",
+          "quote": "Ekko: Dammit.\n\n"
+        },
+        {
+          "startUid": "u2025",
+          "endUid": "u2026",
+          "quote": "DM: Eolo, you are not… the wind is buffeting you, and you're… but you… but you maintain your position, right? Like, you… you're kind of… you're hovering carefully, like… a few minutes, you know, I don't know if you, if you, if you wait, another gust will probably come, and you can't go down it.\n\n"
+        },
+        {
+          "startUid": "u2027",
+          "endUid": "u2027",
+          "quote": "Eolo: My intention was to see what was down there, and then use the power of the gust to do an amazing, like, triple backflip back onto the platform.\n\n"
+        },
+        {
+          "startUid": "u2028",
+          "endUid": "u2030",
+          "quote": "DM: Okay, so are you gonna… so you can't keep going, like, swimming… not swimming, flying further down, it feels impossible, right? I mean, maybe if you were much stronger, you could try and push your way, but at the moment, you're, like, being pushed up with a strong enough force that you can't keep going. But you're, like, balancing such that it's not actually flinging you up. So, you could try and just…\n\n"
+        },
+        {
+          "startUid": "u2031",
+          "endUid": "u2031",
+          "quote": "Eolo: Clean trick. Yeah.\n\n"
+        },
+        {
+          "startUid": "u2032",
+          "endUid": "u2032",
+          "quote": "DM: You're gonna try to do that.\n\n"
+        },
+        {
+          "startUid": "u2033",
+          "endUid": "u2033",
+          "quote": "Eolo: Push myself down, and then bounce back up, yeah.\n\n"
+        },
+        {
+          "startUid": "u2053",
+          "endUid": "u2054",
+          "quote": "DM: Yeah. So, Eolo comes flying out, does a backflip, skates along the ice, a triple backflip, lands with one foot along the ice, puts the back foot claw down to drag to a halt, and stops right in front of Ekko, who is bleeding with his face punched in by the ice.\n\n"
+        },
+        {
+          "startUid": "u2055",
+          "endUid": "u2055",
+          "quote": "Eolo: Oh man, Ekko, what happened?\n\n"
+        },
+        {
+          "startUid": "u2056",
+          "endUid": "u2058",
+          "quote": "Ekko: Ekko gets up, wipes the blood off his face—beak. He smooths out his feathers. Well, yeah, so we can't fly down there, that's for sure.\n\n"
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u2161",
+        "endUid": "u2182"
+      },
+      "actors": [
+        "Rala"
+      ],
+      "reading": "Rala flies along the chosen bridge, inspects the snowbank chamber, and returns without entering its four branching tunnels.",
+      "from": "p02",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Scouts the room below the opening at the bridge end; does not enter any of the four tunnels.",
+          "place": "p03"
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM explicitly narrates Rala returning a few minutes later."
+      },
+      "evidence": [
+        {
+          "startUid": "u2161",
+          "endUid": "u2161",
+          "quote": "DM: Yeah, so you're sending Rala?\n\n"
+        },
+        {
+          "startUid": "u2162",
+          "endUid": "u2162",
+          "quote": "Jrain: I am sending Rala.\n\n"
+        },
+        {
+          "startUid": "u2163",
+          "endUid": "u2164",
+          "quote": "DM: What is Rala? I guess I should have read your Beastmaster abilities more carefully. Rala has darkvision, and can Rala communicate with you mentally?\n\n"
+        },
+        {
+          "startUid": "u2165",
+          "endUid": "u2165",
+          "quote": "Finnan: No.\n\n"
+        },
+        {
+          "startUid": "u2166",
+          "endUid": "u2166",
+          "quote": "Jrain: No.\n\n"
+        },
+        {
+          "startUid": "u2167",
+          "endUid": "u2167",
+          "quote": "DM: So you just, like, give her instructions, and she goes off and then comes back?\n\n"
+        },
+        {
+          "startUid": "u2168",
+          "endUid": "u2168",
+          "quote": "Finnan: Yes.\n\n"
+        },
+        {
+          "startUid": "u2169",
+          "endUid": "u2169",
+          "quote": "DM: Okay, what instructions are you giving her?\n\n"
+        },
+        {
+          "startUid": "u2170",
+          "endUid": "u2171",
+          "quote": "Jrain: I say… “We're gonna head off in this direction, can you go a short ways and see if there's any obvious, dangerous beasts?”\n\n"
+        },
+        {
+          "startUid": "u2172",
+          "endUid": "u2175",
+          "quote": "DM: She… how… Okay, she… she comes back a few minutes later and basically tells you there's a… there's a… there's a room. Like, the bridge leads… into, like, the ceiling of a… of, like, a snowbank, basically. And there's an opening, but you can jump down into the snow. It's like… and then there's four, sort of, passageways going off into, like, going, like…\n\n"
+        },
+        {
+          "startUid": "u2176",
+          "endUid": "u2180",
+          "quote": "DM: The geometry is kind of a little hard to understand, like, it doesn't quite seem… like, it totally fits, but there's basically four branches, like, 4 going, like, into the… it, like, tunnels into the snow. So it's almost like a massive snow bank, and there's, like, these four narrow tunnels, like, weaving… leading into the snow, each going out.\n\n"
+        },
+        {
+          "startUid": "u2181",
+          "endUid": "u2182",
+          "quote": "DM: So it's probably your best mental picture, is you're in an empty black space, floating, with all this wind, and then there's snow over there somewhere, and you can jump into it, and then there's these four tunnels, each… your bird didn't go down through any of the four tunnels, but there was no signs of any creatures.\n\n"
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u2239",
+        "endUid": "u2241"
+      },
+      "actors": [
+        "Finnan",
+        "Jrain",
+        "Eolo",
+        "Ekko",
+        "Justas",
+        "Kalima",
+        "Rala"
+      ],
+      "reading": "The group agrees to jump into the snow tunnel after Kalima accepts protection, but the session stops before an arrival is narrated.",
+      "context": "planned",
+      "from": "p02",
+      "to": "p03",
+      "completion": "planned",
+      "evidence": [
+        {
+          "startUid": "u2221",
+          "endUid": "u2222",
+          "quote": "DM: Finnan. She's like… “If I could… if I could… stay between the two of you, maybe,” pointing to Justas and Finnan.\n\n"
+        },
+        {
+          "startUid": "u2223",
+          "endUid": "u2223",
+          "quote": "Justas: Yeah.\n\n"
+        },
+        {
+          "startUid": "u2224",
+          "endUid": "u2224",
+          "quote": "Finnan: Yeah.\n\n"
+        },
+        {
+          "startUid": "u2225",
+          "endUid": "u2226",
+          "quote": "Justas: Yeah, yeah, yeah. You know, until you get to know them a little bit better.\n\n"
+        },
+        {
+          "startUid": "u2227",
+          "endUid": "u2228",
+          "quote": "DM: Don't… Don't… promise… on the Kestavo, who are not here, that you won’t leave me down there.\n\n"
+        },
+        {
+          "startUid": "u2229",
+          "endUid": "u2229",
+          "quote": "Justas: “I promise,” says Justas.\n\n"
+        },
+        {
+          "startUid": "u2230",
+          "endUid": "u2230",
+          "quote": "DM: Okay, you convince her. She'll come with you.\n\n"
+        },
+        {
+          "startUid": "u2231",
+          "endUid": "u2235",
+          "quote": "Justas: I'll say in Common, “She's coming with us.” She hasn't met Kenku before, so she's a little freaked out by the… the two of you, just… just because it's new and different, not… not because humans automatically have problems with Kenku.\n\n"
+        },
+        {
+          "startUid": "u2236",
+          "endUid": "u2236",
+          "quote": "Eolo: She's gonna love it.\n\n"
+        },
+        {
+          "startUid": "u2237",
+          "endUid": "u2238",
+          "quote": "Justas: I mean, like, she's literally never seen a Kenku before, so it's… it's just a lot for her. Go easy.\n\n"
+        },
+        {
+          "startUid": "u2239",
+          "endUid": "u2239",
+          "quote": "DM: So, are you, jumping down into the snow tunnel?\n\n"
+        },
+        {
+          "startUid": "u2240",
+          "endUid": "u2240",
+          "quote": "Justas: Let's do it.\n\n"
+        },
+        {
+          "startUid": "u2241",
+          "endUid": "u2241",
+          "quote": "Finnan: Yeah.\n\n"
+        },
+        {
+          "startUid": "u2242",
+          "endUid": "u2242",
+          "quote": "DM: It's, it's 11.45. Are people good going another, like, 20 minutes, or do we want to stop now?\n\n"
+        },
+        {
+          "startUid": "u2243",
+          "endUid": "u2244",
+          "quote": "Finnan: I'm good, but I'm not the one who falls asleep, so… I'll go with the group. Eric probably wants to go to bed.\n\n"
+        },
+        {
+          "startUid": "u2245",
+          "endUid": "u2245",
+          "quote": "Eolo: I, I, yeah.\n\n"
+        },
+        {
+          "startUid": "u2246",
+          "endUid": "u2246",
+          "quote": "DM: We can stop now.\n\n"
+        },
+        {
+          "startUid": "u2247",
+          "endUid": "u2247",
+          "quote": "Justas: Let's stop now, yeah.\n\n"
+        },
+        {
+          "startUid": "u2248",
+          "endUid": "u2248",
+          "quote": "DM: Yeah, yeah, we can stop now. We should… I realize it occurs to me we have not scheduled. We have to schedule.\n\n"
+        }
+      ]
+    }
+  ],
+  "limitations": "The breakout-room introductions between u0063–u0083 are absent; the source resumes with the fall at u0084. Pre-storm positions and journeys therefore rely on the later explicit retrospective accounts, not a recorded initial departure."
+}

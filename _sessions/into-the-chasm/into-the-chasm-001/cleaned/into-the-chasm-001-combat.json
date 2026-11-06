@@ -1,0 +1,478 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "into-the-chasm-001",
+    "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-session.yaml",
+    "sessionYamlSha256": "4b5088e0db5a55a8c6e40eea083918a37e1d146e52334a314ea6ffa0e7ba1d1f",
+    "transcriptPath": "_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-transcript.md",
+    "transcriptSha256": "66da15b0cb560901f4968940f61e450ff75b984cfa81ddb3ed4583364e9e8647",
+    "segments": {
+      "path": "_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-segments.json",
+      "sha256": "e084c7c091d1c30e696a0798362537c8a5069c4cc7caac27715154f11bb962e9",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s007",
+      "encounter": "Ice wolves, wind shades, and Chasm Wisps on the floating platform",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Eolo",
+              "kind": "turn",
+              "summary": "Attempts a bonus-action telekinetic shove against the first wolf (DC 14 Strength); it does not move. Fires two fire bolts, missing with 10 and 11. The quiver is established as already set to fire ammunition, not changed during the fight.",
+              "evidence": [
+                {
+                  "startUid": "u0430",
+                  "endUid": "u0496"
+                }
+              ]
+            },
+            {
+              "actor": "First ice-encased wolf",
+              "kind": "turn",
+              "summary": "Leaps onto Eolo, dealing 7 piercing and 2 cold damage and knocking him prone; a second throat attack deals another 7 damage and leaves an icy tooth pulsing in his neck.",
+              "evidence": [
+                {
+                  "startUid": "u0497",
+                  "endUid": "u0515"
+                }
+              ]
+            },
+            {
+              "actor": "Ekko",
+              "kind": "turn",
+              "summary": "Bonus-action Wild Shapes into a polar bear, gaining 18 temporary hit points, and moves up to the wolf. First claw hits for 6 damage; the second attack is a natural 1 and misses. Flying ice prompts a Dexterity save; the initially announced 3 damage is corrected to 1 cold damage because of bear resistance.",
+              "evidence": [
+                {
+                  "startUid": "u0516",
+                  "endUid": "u0560"
+                }
+              ]
+            },
+            {
+              "actor": "Jrain",
+              "kind": "turn",
+              "summary": "Casts Hunter's Mark on the wolf and hits with both arrows: the first deals 11 piercing plus an unstated Hunter's Mark die; the second deals 10 plus 5, accepted as 15. Its speed is reduced by 10 feet and the ice cracks as it becomes bloodied.",
+              "evidence": [
+                {
+                  "startUid": "u0561",
+                  "endUid": "u0597"
+                }
+              ]
+            },
+            {
+              "actor": "First wind shade",
+              "kind": "turn",
+              "summary": "Gusts in from off the platform and attacks Finnan, initially hitting by one before his reaction deflects it.",
+              "evidence": [
+                {
+                  "startUid": "u0598",
+                  "endUid": "u0623"
+                }
+              ]
+            },
+            {
+              "actor": "Finnan",
+              "kind": "reaction",
+              "summary": "Uses Cutting Words and a bardic inspiration to deflect the first shade's attack.",
+              "evidence": [
+                {
+                  "startUid": "u0607",
+                  "endUid": "u0623"
+                }
+              ]
+            },
+            {
+              "actor": "Second wind shade",
+              "kind": "turn",
+              "summary": "Arrives and shrieks, forcing Wisdom saves from Finnan, Jrain, and Justas. Their 4, 11, and 12 fail; each takes 5 psychic damage, while Calm Emotions prevents fear. Kalima also takes psychic damage and falls unconscious. The table confirms Jrain accepted Calm Emotions, Ekko failed his attempt to resist it, and Eolo resisted it; Ekko and Eolo are outside this shriek's cone.",
+              "evidence": [
+                {
+                  "startUid": "u0624",
+                  "endUid": "u0672"
+                },
+                {
+                  "startUid": "u0677",
+                  "endUid": "u0687"
+                }
+              ]
+            },
+            {
+              "actor": "Finnan",
+              "kind": "event",
+              "summary": "Uses luck for advantage on his concentration check and succeeds, maintaining Calm Emotions.",
+              "evidence": [
+                {
+                  "startUid": "u0673",
+                  "endUid": "u0680"
+                }
+              ]
+            },
+            {
+              "actor": "Second ice-encased wolf",
+              "kind": "turn",
+              "summary": "Charges Justas and tries to bite; he blocks the attack with his shield and takes no damage.",
+              "evidence": [
+                {
+                  "startUid": "u0688",
+                  "endUid": "u0696"
+                }
+              ]
+            },
+            {
+              "actor": "Finnan",
+              "kind": "turn",
+              "summary": "Uses Fey Touch Misty Step to reposition, then casts Mirror Image. Rolls 15 on the wind-opposed casting check and completes it, creating three duplicates; Calm Emotions remains active.",
+              "evidence": [
+                {
+                  "startUid": "u0698",
+                  "endUid": "u0734"
+                },
+                {
+                  "startUid": "u1280",
+                  "endUid": "u1286"
+                }
+              ]
+            },
+            {
+              "actor": "Justas",
+              "kind": "turn",
+              "summary": "Casts Spiritual Weapon despite failing the wind's Constitution save with 4, choosing to take 4 damage rather than lose the spell. Hits the second wolf with his axe for 5 and the spiritual axe for 11. Fails the resulting Dexterity save with 6 and takes 2 cold damage from flying ice.",
+              "evidence": [
+                {
+                  "startUid": "u0740",
+                  "endUid": "u0770"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Eolo",
+              "kind": "turn",
+              "summary": "Takes 3 cold damage from the embedded tooth, stands using half his movement, and fires his hand crossbows. The first bolt misses with 12; the next hits for 5 plus 3 fire, with 9 extra force damage from a psionic strike killing the first wolf. Moves and critically hits the remaining wolf with his bonus-action bolt; the corrected arithmetic is 12 weapon damage plus a 5-point 2d4 fire roll.",
+              "evidence": [
+                {
+                  "startUid": "u0771",
+                  "endUid": "u0847"
+                }
+              ],
+              "note": "Advantage is mentioned during resolution at u0808, without a separately identified additional roll; the critical damage arithmetic is corrected aloud at u0843–u0847."
+            },
+            {
+              "actor": "Chasm Wisps",
+              "kind": "event",
+              "summary": "Four living motes emerge from the shattered wolf. One darts at Finnan's light and extinguishes it, leaving only the platform's dim lights.",
+              "evidence": [
+                {
+                  "startUid": "u0848",
+                  "endUid": "u0874"
+                }
+              ]
+            },
+            {
+              "actor": "Chasm Wisps",
+              "kind": "turn",
+              "summary": "Swarm Jrain, Eolo, and Ekko and burst ice around their faces, requiring Constitution saves. Eolo and Ekko evade the effect; Jrain is blinded. The initial placement of two by Ekko is revised to one by each of the three targets.",
+              "evidence": [
+                {
+                  "startUid": "u0876",
+                  "endUid": "u0889"
+                }
+              ]
+            },
+            {
+              "actor": "Ekko",
+              "kind": "turn",
+              "summary": "Claws and kills the wisp buzzing him, moves to the remaining wolf, and misses it with a bite roll of 12.",
+              "evidence": [
+                {
+                  "startUid": "u0895",
+                  "endUid": "u0902"
+                },
+                {
+                  "startUid": "u0917",
+                  "endUid": "u0930"
+                }
+              ]
+            },
+            {
+              "actor": "Jrain",
+              "kind": "turn",
+              "summary": "Unable to see, drops to the ground toward Kalima to get out of the way; no attack is resolved.",
+              "evidence": [
+                {
+                  "startUid": "u0931",
+                  "endUid": "u0943"
+                }
+              ]
+            },
+            {
+              "actor": "First wind shade",
+              "kind": "turn",
+              "summary": "Disappears and reappears beside Finnan, attempting to push him. He succeeds on a Strength save of 19, resists the displacement, and its attack misses.",
+              "evidence": [
+                {
+                  "startUid": "u0944",
+                  "endUid": "u0955"
+                }
+              ]
+            },
+            {
+              "actor": "Second wind shade",
+              "kind": "turn",
+              "summary": "Also reappears on Finnan and tries to push him; his Strength save of 14 succeeds. Its critical attack strikes a Mirror Image duplicate instead of him, destroying one duplicate.",
+              "evidence": [
+                {
+                  "startUid": "u0956",
+                  "endUid": "u0970"
+                }
+              ]
+            },
+            {
+              "actor": "Second ice-encased wolf",
+              "kind": "turn",
+              "summary": "Hits Justas, knocks him prone, and deals 11 piercing plus 2 cold damage. A follow-up throat attack deals 6 slashing damage and embeds an icy tooth in his neck.",
+              "evidence": [
+                {
+                  "startUid": "u0972",
+                  "endUid": "u0984"
+                }
+              ]
+            },
+            {
+              "actor": "Kalima",
+              "kind": "turn",
+              "summary": "Succeeds on a death saving throw while unconscious.",
+              "evidence": [
+                {
+                  "startUid": "u0985",
+                  "endUid": "u0988"
+                }
+              ]
+            },
+            {
+              "actor": "Finnan",
+              "kind": "turn",
+              "summary": "Casts Healing Word, healing Kalima for 10 and restoring her to consciousness. Uses Vicious Mockery on a nearby shade, but it succeeds on the DC 15 Wisdom save. As Justas starts acting, Finnan attempts to withdraw from the edge after the DM unlocks his token movement.",
+              "evidence": [
+                {
+                  "startUid": "u0993",
+                  "endUid": "u1014"
+                },
+                {
+                  "startUid": "u1020",
+                  "endUid": "u1023"
+                },
+                {
+                  "startUid": "u1280",
+                  "endUid": "u1286"
+                }
+              ],
+              "note": "The final position of this withdrawal is not specified; no off-platform movement is established."
+            },
+            {
+              "actor": "Justas",
+              "kind": "turn",
+              "summary": "Takes damage from the icy tooth, which melts away. Resolves axe and Spiritual Weapon attacks against the wolf: one misses and one critically hits for 9 total, badly wounding but not killing it. The proposed bonus-action Light is declined and is not cast.",
+              "evidence": [
+                {
+                  "startUid": "u1015",
+                  "endUid": "u1043"
+                }
+              ],
+              "note": "The tooth damage remains spoken as “2 points of damage, or 3 points”; the source does not identify which of the two weapons scored the critical hit."
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Eolo",
+              "kind": "turn",
+              "summary": "Kills the nearby wisp with a crossbow bolt (9 damage stated, with the fire die also mentioned), then hits the remaining wolf for 8 weapon, 2 fire, and 11 psionic-strike damage, accepted as 21 total and killing it. Takes another 4 damage from the tooth still in his own neck; no further resolved shot follows this kill.",
+              "evidence": [
+                {
+                  "startUid": "u1044",
+                  "endUid": "u1077"
+                }
+              ]
+            },
+            {
+              "actor": "Chasm Wisp near Eolo",
+              "kind": "turn",
+              "summary": "Fires needling ice at Eolo; none of the shards hit him.",
+              "evidence": [
+                {
+                  "startUid": "u1078",
+                  "endUid": "u1081"
+                }
+              ]
+            },
+            {
+              "actor": "Chasm Wisp near Finnan",
+              "kind": "turn",
+              "summary": "Fires ice at Finnan and destroys another illusory duplicate, leaving one.",
+              "evidence": [
+                {
+                  "startUid": "u1082",
+                  "endUid": "u1088"
+                }
+              ]
+            },
+            {
+              "actor": "Ekko",
+              "kind": "turn",
+              "summary": "Hits one shade with both polar-bear attacks for a corrected 20 total damage. The initial ordinary-claw resistance ruling is withdrawn because his claws can deal force or radiant damage; the magically empowered claws tear through it.",
+              "evidence": [
+                {
+                  "startUid": "u1089",
+                  "endUid": "u1124"
+                }
+              ],
+              "note": "The table does not choose between force and radiant in the retained adjudication; no damage type is invented."
+            },
+            {
+              "actor": "Jrain",
+              "kind": "turn",
+              "summary": "Her blindness ends before acting. Shoots at a close wisp using Sharpshooter to shoot in melee, but both attack rolls, 12 and 16, miss.",
+              "evidence": [
+                {
+                  "startUid": "u1123",
+                  "endUid": "u1140"
+                }
+              ]
+            },
+            {
+              "actor": "First wind shade",
+              "kind": "turn",
+              "summary": "Attacks Finnan with a 14, initially a hit before his reaction turns it into a miss.",
+              "evidence": [
+                {
+                  "startUid": "u1141",
+                  "endUid": "u1148"
+                }
+              ]
+            },
+            {
+              "actor": "Finnan",
+              "kind": "reaction",
+              "summary": "Uses Cutting Words again to turn the shade's hit into a miss.",
+              "evidence": [
+                {
+                  "startUid": "u1144",
+                  "endUid": "u1148"
+                }
+              ]
+            },
+            {
+              "actor": "Second wind shade",
+              "kind": "turn",
+              "summary": "Reappears on Finnan and calls for a Strength save; the resolved gust pushes him to within inches of falling from the platform. The shades have no attack left after this push.",
+              "evidence": [
+                {
+                  "startUid": "u1149",
+                  "endUid": "u1158"
+                }
+              ]
+            },
+            {
+              "actor": "Finnan",
+              "kind": "turn",
+              "summary": "Casts Light as his action, restoring visibility; runs back from the precipice and grants Justas bardic inspiration as a bonus action. Withdraws the contemplated additional curse because Light already used the action.",
+              "evidence": [
+                {
+                  "startUid": "u1159",
+                  "endUid": "u1178"
+                }
+              ]
+            },
+            {
+              "actor": "Justas",
+              "kind": "turn",
+              "summary": "Leaves the nearby wisp and moves beside the shades with his spiritual weapon. The wisp's intervening shot deals 3 damage. Critically hits and kills the wounded shade with his axe, then hits the other with Spiritual Weapon for 18 damage, badly wounding it; its ordinary-weapon resistance does not reduce the spell attack.",
+              "evidence": [
+                {
+                  "startUid": "u1179",
+                  "endUid": "u1216"
+                }
+              ],
+              "note": "The second attack is described as “another natural” after the explicit natural 20; the resolved 18 damage and spell-attack ruling are explicit."
+            },
+            {
+              "actor": "Chasm Wisp near Justas",
+              "kind": "reaction",
+              "summary": "Fires an opportunity shot as Justas leaves it, dealing 3 damage before he reaches and attacks the shades.",
+              "evidence": [
+                {
+                  "startUid": "u1187",
+                  "endUid": "u1195"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Eolo",
+              "kind": "turn",
+              "summary": "Critically hits the last shade; its final 2 hit points are overcome by the fire damage, killing it. The critical dice discussion corrects adding the weapon modifier again, so no unsupported final total is imposed. Shoots twice at the nearby wisp: 15 misses, then a hit for 9 kills it.",
+              "evidence": [
+                {
+                  "startUid": "u1217",
+                  "endUid": "u1246"
+                }
+              ]
+            },
+            {
+              "actor": "Last Chasm Wisp",
+              "kind": "turn",
+              "summary": "Fires a needle gust at the nearest target, Justas, and misses.",
+              "evidence": [
+                {
+                  "startUid": "u1247",
+                  "endUid": "u1252"
+                }
+              ]
+            },
+            {
+              "actor": "Ekko",
+              "kind": "turn",
+              "summary": "Kills the final wisp by the table's accepted abbreviated resolution; no roll or damage amount is supplied.",
+              "evidence": [
+                {
+                  "startUid": "u1253",
+                  "endUid": "u1256"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Both wolves, both shades, and all four wisps are defeated; the danger is gone. Kalima survives after Finnan's healing, and Calm Emotions remains active into the postcombat exchange.",
+        "evidence": [
+          {
+            "startUid": "u0993",
+            "endUid": "u1002"
+          },
+          {
+            "startUid": "u1253",
+            "endUid": "u1262"
+          }
+        ]
+      }
+    }
+  ]
+}

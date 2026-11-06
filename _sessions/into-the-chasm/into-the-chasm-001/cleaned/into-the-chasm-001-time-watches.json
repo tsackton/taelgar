@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-session.yaml",
+  "source": {
+    "path": "_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-time-markers.json",
+    "sha256": "575eb5553211c23b15d482e32d2d4e70de5baebc06f86321546ad01ef3c227c5"
+  },
+  "transcript": {
+    "path": "_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-transcript.md",
+    "sha256": "66da15b0cb560901f4968940f61e450ff75b984cfa81ddb3ed4583364e9e8647"
+  },
+  "dateAssessment": "The time extraction preserves two alternatives for the storm day: January 22 if the shared introduction’s “now” applies to the fall, or January 25 as recorded in YAML if the omitted breakout introductions advanced the calendar. The watch table retains both until human review; no three-day advance or extra overnight is inferred. The roughly 15:00 pre-storm anchor, one credited short rest, and brief scouting support an inferred afternoon continuation if the transport did not reset the adventure clock. Transit duration and a separate local clock remain unknown. Platform darkness and Kalima’s belief that the sun has risen (u1908–u1910) establish no party watch or day transition.",
+  "watches": [
+    {
+      "day": "January 22, 1730",
+      "startDate": "1730-01-22",
+      "endDate": "1730-01-22",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "scope": "Shared introduction before breakouts",
+      "summary": "DM states January 22; omitted breakout introductions leave its alignment with storm-day play open.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "Storm day — January 22 or 25 (unresolved)",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "scope": "Jrain and Rala",
+      "summary": "Jrain and Rala woke that morning before the transporting storm.",
+      "markers": [
+        "t05"
+      ]
+    },
+    {
+      "day": "Storm day — January 22 or 25 (unresolved)",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Before storm about 15:00; brief spell intervals, one credited short rest, then Rala’s few-minute scout.",
+      "markers": [
+        "t02",
+        "t07",
+        "t03",
+        "t04",
+        "t06"
+      ]
+    }
+  ]
+}
