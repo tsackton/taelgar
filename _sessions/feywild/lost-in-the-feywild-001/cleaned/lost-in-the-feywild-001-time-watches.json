@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-session.yaml",
+  "source": {
+    "path": "_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-time-markers.json",
+    "sha256": "813de7e232ec331de4e4f2cd13aa54f1a05421d08382415d51a9b4448dd4cf5c"
+  },
+  "transcript": {
+    "path": "_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-transcript.md",
+    "sha256": "298ea2c22028167c4879dde7e113f05b35d541b25c1ce2587ac779c2fd86dc02"
+  },
+  "dateAssessment": "No calendar date is spoken. As a working calendar only, YAML October 3–5, DR 1740 fits the opening camp, the next day’s hike and manor arrival, and the following morning’s long-rest completion. The earlier few days of westward travel remain undated and are not forced into that two-boundary span; the extraction’s whole-interval assessment is compatible, not matched. The party has not yet emerged from the root crossing. The moving sun, sunset, and clock readings in this session are Material Plane evidence; no Feywild day or watch is inferred from lighting. Hulda’s dragon story is background: the transcript says last winter, while his vault biography says spring 1740.",
+  "watches": [
+    {
+      "day": "Before the opening camp; departure undated",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "A few days of westward travel precede the camp; departure date and watches remain open.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "October 3, 1740",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Campfire dinner for the night, in deep fall; calendar date is conditional on YAML.",
+      "markers": [
+        "t02"
+      ],
+      "startDate": "1740-10-03",
+      "endDate": "1740-10-03"
+    },
+    {
+      "day": "October 3–4, 1740",
+      "startWatch": "dusk",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Watches pass uneventfully overnight; morning camp departure establishes one date transition.",
+      "markers": [
+        "t03"
+      ],
+      "startDate": "1740-10-03",
+      "endDate": "1740-10-04"
+    },
+    {
+      "day": "October 4, 1740",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "During the morning hike, used paths become trackless woodland.",
+      "markers": [
+        "t05"
+      ],
+      "startDate": "1740-10-04",
+      "endDate": "1740-10-04"
+    },
+    {
+      "day": "October 4, 1740",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "Around noon, Alden urges eating while walking to reach the house before dark.",
+      "markers": [
+        "t07"
+      ],
+      "startDate": "1740-10-04",
+      "endDate": "1740-10-04"
+    },
+    {
+      "day": "October 4, 1740",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "By afternoon the forest’s visible wildlife and sounds have diminished.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1740-10-04",
+      "endDate": "1740-10-04"
+    },
+    {
+      "day": "October 4, 1740",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "A long day’s hike ends before dark; final sunlight disappears during Hulda’s introductions.",
+      "markers": [
+        "t04",
+        "t08",
+        "t09"
+      ],
+      "startDate": "1740-10-04",
+      "endDate": "1740-10-04"
+    },
+    {
+      "day": "October 4, 1740",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "stated",
+      "summary": "The grandfather clock chimes ten during the party’s evening discussion.",
+      "markers": [
+        "t10"
+      ],
+      "startDate": "1740-10-04",
+      "endDate": "1740-10-04"
+    },
+    {
+      "day": "October 4–5, 1740",
+      "startWatch": "midnight",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Eight-hour long rest ends before dawn, loosely around six; the clock is approximate.",
+      "markers": [
+        "t11"
+      ],
+      "startDate": "1740-10-04",
+      "endDate": "1740-10-05"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Hulda biography (competing background date)",
+      "path": "People/Sembarans/Lord Hulda.md",
+      "sha256": "dff0f75d32f1cf95259a872b7b61ea920824c18f0d0c2f7f706a016fcb266889"
+    }
+  ]
+}

@@ -1,0 +1,1853 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "298ea2c22028167c4879dde7e113f05b35d541b25c1ce2587ac779c2fd86dc02"
+    },
+    "entityMap": {
+      "path": "_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-entity-map.json",
+      "sha256": "c9cd6ad70dd2f543edbeff65878cc800e558df55f8d922266fcb16d20ac0b146"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Alden’s love of the house and dandelions",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0535",
+        "endUid": "u0582"
+      },
+      "lines": [
+        "%% u0535:0-44, u0536:0-19, u0537:0-102, u0538:0-48, u0539:0-54 %%",
+        "DM: Well, tomorrow we'll get to Dandelion House. And, as he says it, his demeanor changes a little bit. You can see him just light up. It's clear that he loves this place. He says, I'm so excited for you to see it, it's… gorgeous. It has everything that a manor house should.",
+        "",
+        "%% u0540:0-119, u0541:0-108 %%",
+        "DM: And… it's a little old, it's a little rundown. Sure, it needs a little bit of love, of course, and… and care, but it's… it's beautiful, it's exactly what it is, it's exactly what it should be. The walls, the… Cellars! The halls…",
+        "",
+        "%% u0542:0-11, u0543:0-63, u0544:0-119 %%",
+        "DM: Once… once… Lord Hulda just spruces it up a little bit and really moves in, it's gonna be just the thing, filled with people and life and laughter, which it isn't really now, but it will be soon.",
+        "",
+        "%% u0545:0-108 %%",
+        "Ayveen: Have you already started identifying artisans who'll help with the repairs once we've cleared it for safety?",
+        "",
+        "%% u0546:0-63, u0547:0-179, u0548:0-42 %%",
+        "DM: No, I think he's taking things one thing at a time. But I have… a big, big family in this area, and I have all sorts of cousins who can do all sorts of things, and I'm… I'm sure all of us will… will help out and put it all back together again. So… so I'm… I'm not too worried, but he's…",
+        "",
+        "%% u0549:0-100, u0550:0-56, u0551:0-126 %%",
+        "DM: I don't know if I've told you quite all the detail. I should leave most of them for him to say, but… There's a… There's a condition of this inheritance that… that he hasn't quite fulfilled yet, and… and that's an… I'll… I'll let him tell you about all of this when… when we get there.",
+        "",
+        "%% u0552:0-65 %%",
+        "Ayveen: Will we be meeting them in the house or outside before we arrive?",
+        "",
+        "%% u0553:0-95, u0554:0-30 %%",
+        "DM: No, when we get… when we get to the grounds, if we push hard tomorrow, I think we'll get there. I'm excited for you to see it.",
+        "",
+        "%% u0555:0-30 %%",
+        "DM: And he grins and falls silent.",
+        "",
+        "%% u0556:0-46 %%",
+        "Tarek: I heard… Rhododendron house is actually nicer.",
+        "",
+        "%% u0557:0-28 %%",
+        "DM: You… I… hmm… hmm… So, Alden.",
+        "",
+        "%% u0558:0-27 %%",
+        "Tarek: No, seriously, though, why?",
+        "",
+        "%% u0559:0-53, u0560:0-9, u0561:0-142, u0562:0-4 %%",
+        "DM: From a single dandelion can travel hundreds of miles… and that… the same dandelions that grow on the west side of the mountains grow on the east. What greater traveler is there than a seed? It's remarkable. Hmm.",
+        "",
+        "%% u0563:0-37, u0564:0-124, u0565:0-110, u0566:0-35 %%",
+        "DM: Have you ever seen, at dawn and dusk, in a field of dandelions, if you blow, the way the light shines on each of them, it's one of the most beautiful things I've… I know you're just giving me a hard time, but it's… don't downplay the beauty of this thing, it's magnificent. It's not a simple, it's not a weed.",
+        "",
+        "%% u0567:0-52, u0568:0-100 %%",
+        "Tarek: So you're saying this is a kind of power move, like… Instead of the most luxurious flower, they chose the most humble one to say, they are that elevated.",
+        "",
+        "%% u0569:0-123, u0570:0-17 %%",
+        "DM: The dandelion can go anywhere and do anything, can cross unimaginable distances. That's exactly it, it's not a humble weed. It's magnificent.",
+        "",
+        "%% u0571:0-44 %%",
+        "Tarek: But the house presumably stays in one place.",
+        "",
+        "%% u0572:0-82, u0573:0-56 %%",
+        "DM: Well… I mean, yes, obviously, but… but I… just to say, it's a… It's… it's… you… I… I don't like it when people talk badly about dandelions.",
+        "",
+        "%% u0574:0-32 %%",
+        "Tarek: Bit of a weed, but… Fair enough.",
+        "",
+        "%% u0575:0-37 %%",
+        "Edric: They used to cause trouble back home.",
+        "",
+        "%% u0576:0-5 %%",
+        "DM: Whoa?",
+        "",
+        "%% u0577:0-59 %%",
+        "Edric: Just… We always had to clear them out of the barley fields.",
+        "",
+        "%% u0578:0-75 %%",
+        "DM: Yeah, that's… true. They do have a habit of going where they're not wanted.",
+        "",
+        "%% u0579:0-20, u0580:0-31 %%",
+        "Edric: I like them, though. Sorry, I'll go back to my food.",
+        "",
+        "%% u0581:0-26, u0582:0-56 %%",
+        "DM: Alden falls… silent again. That's his pattern. He usually doesn't have much to say.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Txarro: That's probably true.",
+          "DM: Was that your favorite part, then? Alden asks.",
+          "Txarro: That's always nice. There's something about… tiger that's satisfying. There's a little growl in the back of his throat.",
+          "Ayveen: I mean, the teamwork of having a rapid attack, and then a fighter with stamina, my ability to sort of stay back and use ranged spells that kept me from—as a… Kaito says—from getting my clothes dirty, which I just think is a metaphor for experiencing pain. So, I think that it did… was an example of how we've learned to fight together. Because things didn't go as we expected, but we still got through.",
+          "DM: Alden nods. Hmm."
+        ],
+        "after": [
+          "DM: So unless there's other business or questions that you have for him tonight, he's… he's certainly ready to turn in.",
+          "Tarek: He's a… I'm afraid he's a small human.",
+          "DM: Yeah. He's sort of a small round human.",
+          "Kaito Min: I cast Detect Thoughts.",
+          "DM: Tell me… read the description to see, get a… how does it work?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Reading Alden’s thoughts",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0587",
+        "endUid": "u0630"
+      },
+      "lines": [
+        "%% u0587:0-23 %%",
+        "Kaito Min: I cast Detect Thoughts.",
+        "",
+        "%% u0588:0-62, u0589:0-9, u0590:0-82, u0591:0-34, u0592:0-24, u0593:0-19, u0594:0-66, u0595:0-6, u0596:0-4, u0597:0-183, u0598:0-136, u0599:0-258, u0600:0-344 %%",
+        "((Detect Thoughts rules discussion.))",
+        "",
+        "%% u0601:0-38, u0602:0-94, u0603:0-248 %%",
+        "DM: Love it. Alright, so surface thoughts. It's not verbal. He is imagining dandelions blowing in the wind in a… In a golden… hour light… Sort of sparkling and carried, and all the things he's describing, he's imagining those things. Seeds and spores carried across oceans and over mountains and through forests, and into barley fields, where they go unnoticed by the people walking by.",
+        "",
+        "%% u0604:0-47, u0605:0-8 %%",
+        "Kaito Min: And what kind of emotions is… is… are attached to this?",
+        "",
+        "%% u0606:0-4, u0607:0-49 %%",
+        "DM: Joy. Delight… and… that's the emotional content, yeah.",
+        "",
+        "%% u0608:0-183, u0609:0-39, u0610:0-92, u0611:0-36, u0612:0-25, u0613:0-49, u0614:0-37, u0615:0-85, u0616:0-40, u0617:0-3, u0618:0-6, u0619:0-93, u0620:0-5, u0621:0-51 %%",
+        "((Music-sharing troubleshooting.))",
+        "",
+        "%% u0622:0-107 %%",
+        "DM: I think Kong, like, the last emotional piece there is also a quality of longing, maybe? Maybe it's longing?",
+        "",
+        "%% u0623:0-5 %%",
+        "Kaito Min: Okay.",
+        "",
+        "%% u0624:0-17 %%",
+        "DM: Nostalgia, maybe?",
+        "",
+        "%% u0625:0-13 %%",
+        "DM: It's unclear.",
+        "",
+        "%% u0626:0-58 %%",
+        "((Mechanics of probing deeper.))",
+        "",
+        "%% u0627:0-114 %%",
+        "Kaito Min: Oh, yeah, but also not… also not, deceptive. Like, he's not, like, lying to us or anything, he's, like, genuinely…",
+        "",
+        "%% u0628:0-19 %%",
+        "DM: No, no, yeah, nope.",
+        "",
+        "%% u0629:0-54 %%",
+        "Kaito Min: And also, he's not, does he seem, like, under a spell?",
+        "",
+        "%% u0630:0-16 %%",
+        "DM: Nope, uncharmed.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Edric: I like them, though. Sorry, I'll go back to my food.",
+          "DM: Alden falls… silent again. That's his pattern. He usually doesn't have much to say.",
+          "DM: So unless there's other business or questions that you have for him tonight, he's… he's certainly ready to turn in.",
+          "Tarek: He's a… I'm afraid he's a small human.",
+          "DM: Yeah. He's sort of a small round human."
+        ],
+        "after": [
+          "Edric: Are you, like… telegraphing that you're casting a spell?",
+          "Txarro: I mean, we can…",
+          "Edric: I guess it… it's sort of obvious you're casting a spell, I guess, unless you're trying to hide it.",
+          "Kaito Min: Is it obvious that I'm casting a spell? I mean, I would… I would not want it to be obvious.",
+          "Txarro: I mean, it's… yeah, it's obvious."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Prayer before the camp night",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0690",
+        "endUid": "u0695"
+      },
+      "lines": [
+        "%% u0690:0-46 %%",
+        "Edric: Edric says, like, a prayer to the Night Queen.",
+        "",
+        "%% u0691:0-18 %%",
+        "DM: That's true, yeah.",
+        "",
+        "%% u0692:0-46, u0693:0-52, u0694:0-50, u0695:0-25 %%",
+        "Edric: Fairly extended, you know, watch over us, and… my companions in their sleep, and, you know, please… please let Dandelion House be safe and sound, and… You know, blah blah blah.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Edric: You, like… like, Delwath is always just, like, kind of standing around meditating, right? Like, it was not… it's not like.",
+          "Kaito Min: Yeah, yeah. Well, I do that.",
+          "Edric: Or sitting around meditating.",
+          "Kaito Min: Wow.",
+          "Kaito Min: I will turn in."
+        ],
+        "after": [
+          "DM: You set watches through the night, presumably?",
+          "Edric: Yes.",
+          "DM: Awesome. Everything passes uneventfully, you're in pretty… even though you're headed deeper into the woods, you're still in relatively civilized territory.",
+          "DM: In the morning, you strike camp… and head… onwards. It's a long day's hike. There's a lot of ground to cover. Alden sets a pretty steady pace. Onwards. On and on you go through the day.",
+          "DM: The woods get thicker. The… the sort of, background here for us, it's these enormous oaks and ash and elms. I mean, just these huge, huge old trees. You're in a part of the world that must not have been clear-cut for a long, long time, so it must not have been farms for ages and ages."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "The pony grows more alert",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0756",
+        "endUid": "u0772"
+      },
+      "lines": [
+        "%% u0756:0-23 %%",
+        "Edric: How does the pony feel?",
+        "",
+        "%% u0757:0-137, u0758:0-18 %%",
+        "DM: Remind me of the pony again? Tell me, like, the pony's… the pony's vibe. What's the… what's the pony's, like, character like? Like… like, like, what if Sam…",
+        "",
+        "%% u0759:0-49 %%",
+        "Edric: One of Sam's ponies from Lord of the Rings, fine.",
+        "",
+        "%% u0760:0-25 %%",
+        "DM: Sure, stalwart, stubborn…",
+        "",
+        "%% u0761:0-5 %%",
+        "Edric: Yeah.",
+        "",
+        "%% u0762:0-91 %%",
+        "DM: Loyal to you. Yeah. Not the bravest, but a little… Yeah, exactly. …badass pony. Yeah. Good.",
+        "",
+        "%% u0763:0-40, u0764:0-72, u0765:0-11, u0766:0-14, u0767:0-5, u0768:0-52, u0769:0-82, u0770:0-49, u0771:0-3, u0772:0-34 %%",
+        "DM: What you notice is… the pony's not like… resistant or shying away. The pony's just more alert as the day goes on. Like, they… ears are just more… Listening for little sounds. You only hear the wind. You know, but you see the pony listening as the big gust of wind passes far above. It's just more… it's a little bit more locked in. Oh. I didn't name this. I'll reassure.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You don't really see much below the canopy. It's quieter and quieter. The wind moving through the dry leaves, almost ready to fall, and some beginning to fall above you, sounds almost like an ocean, like these waves, passing and crashing over you.",
+          "DM: These yellow leaves have started to fall down around you here and there. But not much wildlife. Unless, as the day goes on.",
+          "DM: Somewhere around noon, Alden says, I don't think we should stop for lunch. I think we should press on so that we get there before dark, and, encourages you to eat as you walk.",
+          "Txarro: Fine by me.",
+          "Kaito Min: Is, I mean, that's fine. kaito does not like any of this."
+        ],
+        "after": [
+          "Kaito Min: I feel like Kaito doesn't like any of this, because Kaito's… not that he likes to eat lunch, but it's just this whole being outside, and it's kind of a little… It's all a little too… something. Something's not quite sitting right. Not quite happy about this whole situation. When are we getting to this house?",
+          "DM: Soon enough, says Alden. As the day passes on later and the sun starts to sink in the sky… What must be beautiful and low light above the level of the canopy just translates into more and more darkness. The sort of gloom where all the color is drained out of the world down here. And you can see, when you look up, almost like a fiery light reflecting off the changing leaves above you. You can see that looking out, and it's brighter still by the contrast with the gloom down below, but it is… dark down here. And getting darker.",
+          "DM: Not far now, says Alden. We are almost there.",
+          "Txarro: I will. Okay… summon a flame into my hand with Produce Flame.",
+          "Edric: Edric will also, like, sort of… tap their armor, like, on the shoulder or something, and, like, a little light, like, one of the, like, little… almost crown-shaped… starry white just springs up on their shoulder."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Alden’s advice before meeting Hulda",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0848",
+        "endUid": "u0902"
+      },
+      "lines": [
+        "%% u0848:0-85 %%",
+        "DM: Alden pauses at just about this distance and says to you, Welcome to Dandelion House.",
+        "",
+        "%% u0849:0-85, u0850:0-51, u0851:0-43 %%",
+        "DM: Before we go inside, I need to tell you that… Lord Hulda can be… Difficult sometimes. He needs, at least I've found, a certain amount of… patience, and a certain amount of flattery.",
+        "",
+        "%% u0852:0-27, u0853:0-81, u0854:0-13, u0855:0-33 %%",
+        "DM: He might not tell you this. But he was born the second son of a lord, and disinherited, and all… I mean, all. All his life! Until this moment, he hasn't had…",
+        "",
+        "%% u0856:0-53, u0857:0-64, u0858:0-31 %%",
+        "DM: This, this is what he's always wanted, all he wanted… was to have a… keep, and his own little patch of the world, and… peasants to work the land, and…",
+        "",
+        "%% u0859:0-63, u0860:0-24, u0861:0-40 %%",
+        "DM: And grass, like… And yes, yes, I, I know, I know, and you know… that Dandelion House is… is going to need some work to get there.",
+        "",
+        "%% u0862:0-104, u0863:0-82, u0864:0-6, u0865:0-33 %%",
+        "DM: And the forest is gonna need some clearing to get there, and there's… much, much to be done ahead of us. But this is the fulfillment of a dream he's had his entire life, so don't… please… don't… I don't think he'll respond well.",
+        "",
+        "%% u0866:0-18 %%",
+        "DM: If you, you know…",
+        "",
+        "%% u0866:18-61, u0867:0-55, u0868:0-43 %%",
+        "Kaito Min: This place looks beautiful to me. It looks… This looks like when I imagine… A multicolored diamond. And close my eyes, and then I open it here.",
+        "",
+        "%% u0869:0-48 %%",
+        "DM: That's good, more, yes, more, more of that, yes.",
+        "",
+        "%% u0870:0-10, u0871:0-18, u0872:0-86 %%",
+        "Kaito Min: [garbled] a priceless stone… fit for only… the finest, of all things, just… it's just… it's perfection, it's, it's…",
+        "",
+        "%% u0873:0-46 %%",
+        "DM: That may actually be too much, but, but, like…",
+        "",
+        "%% u0874:0-41 %%",
+        "Kaito Min: Dial it back, dial it back, dial it back.",
+        "",
+        "%% u0875:0-55 %%",
+        "DM: Before you got to the diamond, that was… that was good.",
+        "",
+        "%% u0876:0-37 %%",
+        "Edric: It's kind of run down, though, right?",
+        "",
+        "%% u0877:0-113, u0878:0-85, u0879:0-7, u0880:0-8, u0881:0-27, u0882:0-61, u0883:0-9, u0884:0-88, u0885:0-42, u0886:0-40, u0887:0-10, u0888:0-8, u0889:0-22, u0890:0-26, u0891:0-61, u0892:0-37, u0893:0-26 %%",
+        "((Party discussion of directness and the building’s surroundings.))",
+        "",
+        "%% u0894:0-6, u0895:0-29, u0896:0-58, u0897:0-36, u0898:0-14, u0899:0-12 %%",
+        "DM: Alden… and says, yes, just think of. Think of my conversations with you over the last few days. The way that I've been… polite, and… accommodating. And do that.",
+        "",
+        "%% u0900:0-9 %%",
+        "Kaito Min: All this.",
+        "",
+        "%% u0901:0-12, u0902:0-20 %%",
+        "DM: Don't worry. It's gonna be great.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: A little bit, right? Coming over a rise, you can see up ahead, a clearing is opening. You can see it by the quality of light, and Tim, will you switch to the next background for us, please?",
+          "Kaito Min: Oh, shit.",
+          "DM: And there in front of you is… somewhere between a majestic and decrepit manor house… something that is clearly hundreds of years old.",
+          "DM: That seems to be swallowed by the forest, although… maybe not as swallowed by the forest as the forest you've just come through, just.",
+          "DM: It's still intact, still in one piece. Even though the windows are gone in many, many of the windows, the stone, the walls are still solid, and even though vines and moss is crawling up it, and in fact the whole back half of it seems almost swallowed by brush and saplings… You get a sense, at least, that the bones are strong. Right? That structurally, it's… solid."
+        ],
+        "after": [
+          "DM: Alden leads the way, and through the… bushes and the vines, there is a barely perceptible path to the front door, which is huge iron-banded wooden doors, resting open. And you can tell, just from looking at them that they are unclosable at this point in their life.",
+          "DM: And the wood in front of them is warped from the rain, but somehow not totally falling apart. There was… either the open to the elements is recent, or there's some incredible craftsmanship, something more at play here.",
+          "Txarro: So before we step through the door to the manor, I'm gonna, like, fall back a little so I'm last in line, so I'm furthest from… Alden, and I will… cast Detect Magic. Just so I have it up when we go into the… Into the… manor.",
+          "DM: Nice.",
+          "Kaito Min: You're a druid."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Colden takes Mossfoot to the stable",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0950",
+        "endUid": "u0973"
+      },
+      "lines": [
+        "%% u0950:0-50, u0951:0-43, u0952:0-37, u0953:0-14, u0954:0-13 %%",
+        "Edric: Wait, hold on, before he goes to the door, though… I'm gonna, like, kind of look around, like… is there somewhere to stable my pony? Should I just… bring him in?",
+        "",
+        "%% u0955:0-38, u0956:0-36, u0957:0-49, u0958:0-60 %%",
+        "DM: Oh, this is such a good question, the… yes, Alden calls out into the house, \"Colden! Colden, are you here?\" And, \"My cousin,\" is… \"Our family has a sort of a sick sense of humor about naming.\"",
+        "",
+        "%% u0959:0-57, u0960:0-45, u0961:0-42, u0962:0-9, u0963:0-95 %%",
+        "DM: And, a similarly shaped and sized man, a sort of a short… round, well-muscled, but also, pudgy, guy in… not identical, but similar, sort of rough… homespun… comes out and, says, \"Alden, you're back! And you brought them! Oh, I'm so glad this worked out.\"",
+        "",
+        "%% u0964:0-31, u0965:0-60, u0966:0-5 %%",
+        "DM: Looking over, he sees the pony. \"The stables, then,\" and reaches out a hand to take the reins. What?",
+        "",
+        "%% u0967:0-10 %%",
+        "Edric: Competent?",
+        "",
+        "%% u0968:0-114 %%",
+        "DM: Oh, yeah, he certainly acts competent. And Alden says, sensing your hesitation, not to worry, not to worry. We've…",
+        "",
+        "%% u0969:0-121, u0970:0-125 %%",
+        "Edric: So, Edric's not even really hesitating, he just, he just, like, pats Mossfoot on the head and says, go with the nice man. He, like, he pats his, his, his, his maul at the same time, like, if anything bad happens, we'll come after you, don't worry.",
+        "",
+        "%% u0971:0-26, u0972:0-77 %%",
+        "DM: Mossfoot definitely gives Colden the side-eye in the way that only the horse can be like, really? Okay.",
+        "",
+        "%% u0973:0-62 %%",
+        "DM: But, follows off. Alden says the stables are behind the house.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Oh, they're targeting.",
+          "Ayveen: How do I know it that way?",
+          "Edric: It's on your character sheet.",
+          "Txarro: Nobody is higher than mine. 12 for Tarek, 13 for Kaito, 12 for… I mean…",
+          "DM: Alright, lizardfolk Druid. Oops."
+        ],
+        "after": [
+          "Txarro: As we… as we begin to step in…",
+          "Edric: There was something interesting back there. It all makes sense. You told me to go around? That's what's going around, I get it.",
+          "Txarro: I will… I will wave my hand a little bit, and… sort of gesture towards the air and, say a few words under my breath, and I'm gonna use Druidcraft to try and make the… spores I see carried by the wind bloom. Are they dandelions?",
+          "DM: Yes. Oh, yes. So you suddenly see, like, a few dandelion flowers, like, bursting into bloom in the air. See.",
+          "Ayveen: It's true, I still believe in roots."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Two tapestries of gardeners",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1226",
+        "endUid": "u1236"
+      },
+      "lines": [
+        "%% u1226:0-64, u1227:0-11, u1228:0-15 %%",
+        "DM: This is a tapestry of gardeners in a greenhouse trimming plants. Like, like… bonsais, maybe?",
+        "",
+        "%% u1229:0-127 %%",
+        "DM: Like a little tree that's up, and they're, like, snipping the root, you know, the way that you do on a bonsai to keep it small.",
+        "",
+        "%% u1230:0-31 %%",
+        "Kaito Min: I'm gonna look at the next one.",
+        "",
+        "%% u1231:0-61, u1232:0-5, u1233:0-118, u1234:0-14 %%",
+        "((Keeping up with the party and an investigation roll.))",
+        "",
+        "%% u1235:0-45, u1236:0-234 %%",
+        "DM: It's a, another of gardeners in a greenhouse… a long row of maybe 4 or 5 people, all… you can't tell, even with 17, like, what they're doing exactly, but they've all… they're all working on something, like at a work table in a greenhouse, something with plants, some horticulture.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Txarro: I mean…",
+          "Ayveen: Yeah.",
+          "Kaito Min: Ayveen, since we're kind of in the last of the pack, Kaito will, like, just kind of, you know…",
+          "DM: Yeah, why don't the two of you give me an investigation roll on the closest tapestry?",
+          "Kaito Min: 16?"
+        ],
+        "after": [
+          "Kaito Min: What the fuck?",
+          "DM: Alden calls back. Come on now, we're almost there, he's just up ahead. We should come in all together.",
+          "Kaito Min: Ayveen. We can still leave. We can still… leave.",
+          "Kaito Min: It hasn't gone that far yet.",
+          "Ayveen: There are tapestries of gardening, and you're terrified?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Meeting Hulda upstairs",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1268",
+        "endUid": "u1312"
+      },
+      "lines": [
+        "%% u1268:0-107, u1269:0-28, u1270:0-121, u1271:0-74, u1272:0-23, u1273:0-48 %%",
+        "DM: But in this room, shining through the window like a pillar of light, like a golden spotlight, holds a grim… the lord of Dandelion House: Hulda, who Alden told you is the second son of a minor lord, someone disinherited, resentful his whole life, that he was… You know, not the person ruling over whatever those lands might have been. Is a man in his mid-40s with a grizzled gray beard and a powerful build.",
+        "",
+        "%% u1274:0-186, u1275:0-19, u1276:0-9, u1277:0-234, u1278:0-28 %%",
+        "DM: He stands with the sort of bored alertness that you associate with fighting people, the sort of person who has spent a long time standing still and watching and ready for whatever comes. That assessment is cemented… by the sword that he wears at his hip. The impression that you get of that is less of a man prepared for combat in the moment, and more of, this is what the Lord of the Manor does. He wears a sword. He's not armored, but he's wearing… well-worn, but fine clothes.",
+        "",
+        "%% u1279:0-78, u1280:0-55, u1281:0-61 %%",
+        "DM: His sleeves are pulled up to the elbows, and you can see a criss-cross web of… long-healed scars on his forearms and on his face, too. A long cut that interrupts his beard on one side of his face.",
+        "",
+        "%% u1282:0-36, u1283:0-63, u1284:0-109 %%",
+        "DM: Alden announces each of you by name in elaborate style. \"My lord, I have the pleasure of presenting…\" And one after another introduces, you, nodding and gesturing. His back is still towards you this entire time.",
+        "",
+        "%% u1285:0-16, u1286:0-77, u1287:0-44 %%",
+        "DM: As the sunlight… slowly climbs up his body, the last rays of it shining in through the window, you in the doorway, are already in darkness.",
+        "",
+        "%% u1288:0-149, u1289:0-29, u1290:0-51, u1291:0-12, u1292:0-105, u1293:0-94, u1294:0-48 %%",
+        "DM: And by the time the long and elaborate introductions have finished, Alden continues on with your bona fides, and the feats that you've done, and the… jobs that you've pulled, the… treasures that you've collected for various people. A sort of a… a summary of everything and the stories that you've shared with him over these last few days on the road. That you thought, probably, were just idle chat around the fire, but realize now maybe he was… collecting and probing exactly for this purpose.",
+        "",
+        "%% u1295:0-37, u1296:0-47, u1297:0-16, u1298:0-41 %%",
+        "DM: When at last he finishes all of that, the last rays of light disappear from the room. And Hulda, grim… Lord of Dandelion Keep turns to face you.",
+        "",
+        "%% u1299:0-54, u1300:0-65, u1301:0-146, u1302:0-120 %%",
+        "DM: Looking over you appraisingly, looking over you… Mmm… You've had this sort of look before, this sense of sizing you up. And you've seen it both from prospective employers trying to gauge whether you're really capable of doing the thing they're sending you off to do. And you've also seen that in the looks of people about to draw on you and start a fight, wondering if they can take you.",
+        "",
+        "%% u1303:0-87 %%",
+        "DM: That sort of ambiguous look from a dangerous person, whether it's an enemy or a friend.",
+        "",
+        "%% u1304:0-44, u1305:0-33, u1306:0-39, u1307:0-41, u1308:0-15 %%",
+        "DM: He takes a deep breath and sighs, and says in a not unfriendly way, \"Welcome. Welcome, welcome. I know it was a long journey to get here, and I appreciate it. Are you hungry?\"",
+        "",
+        "%% u1309:0-3 %%",
+        "Kaito Min: No.",
+        "",
+        "%% u1310:0-24, u1311:0-18 %%",
+        "Ayveen: Now that you mention it. We did skip lunch.",
+        "",
+        "%% u1312:0-73 %%",
+        "DM: Alden… Lead us down to the kitchen, please. Let's find food for everyone.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Is maybe, like, servants and staff quarters more than, like, living quarters for the people. You get the impression that despite the wall, this place, you know, the wall and portcullis and all that good stuff, like, this wasn't designed as, like, a fortification. Like, this was not, like, a military… installation or something, so much as, like, a, you know, think of, like, an English country manor or.",
+          "Kaito Min: They hosted. They hosted here. They hosted fucking… it's literally Trump Ballroom Associates. It's like they fucking… You know?",
+          "Txarro: So.",
+          "DM: So this floor is, like, the staff floor. The landing's a lot smaller. You see a hallway leading down with lots of small doors off, you assume are all, like, individual servants' quarters. But on the other side of the building, sort of front side, the… it's maybe the more public side, there are two large rooms. And…",
+          "DM: In one of them… you can see a man standing in front of one of the open windows, and you realize, putting the pieces of the house together, that this is one of the two eyes, one of the two top, excuse me, one of the two architectural marvels at the top of the building, that you saw as you came in, and he's standing in front of it, just looking out for the light, and the field, and the… the shine of the dandelion seeds in the last bit of sunlight that comes over the tops of the trees. The bottom two floors of the house now are entirely in darkness, in the shadow of the trees."
+        ],
+        "after": [
+          "DM: Back down the stairs you go, down to the kitchen, where he… invites you to… oh… the kitchen has all sorts of magical stuff in it. So, Tim, among the things…",
+          "Ayveen: Does that have magical light?",
+          "DM: It has magical lamps, but they are not lit. So, like, there are… rather, there are wall sconces with candles that, Tim, you see do radiate magic, but they're not currently illuminated. So it is gloomy. It is gloomy bordering on dark.",
+          "DM: In the kitchen, though, there's a cheerful fire going in the fireplace, a non-magical fire and a non-magical fireplace.",
+          "DM: But there is a bar… next to the sink on one side of the room, a small metal rod about 2 inches in diameter and 6 inches long, affixed into a bracket that is magical."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "The kitchen’s magical food storage",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1321",
+        "endUid": "u1332"
+      },
+      "lines": [
+        "%% u1321:0-25, u1322:0-178 %%",
+        "DM: There is also a chest in one corner of the room that is magical, and you can actually feel the cold coming off of it. You've probably seen in Tollen some variety of an ice-chesty sort of thing like that.",
+        "",
+        "%% u1323:0-95, u1324:0-28, u1325:0-15 %%",
+        "DM: And then finally, there is, among the cupboards that completely line all the sides of the room… there is one of them, which… radiates magic.",
+        "",
+        "%% u1326:0-206, u1327:0-84 %%",
+        "((The table and collected chairs.))",
+        "",
+        "%% u1328:0-104, u1329:0-127, u1330:0-22, u1331:0-45, u1332:0-22 %%",
+        "DM: He gestures for you to sit down, he sits down too, and Alden goes to the icebox and starts to bring out, cold roast chicken, and cold vegetables, and goes to the cupboard and brings out a large loaf of freshly baked bread from that magical cupboard, and… sets about carving it up and setting out the places and everything.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Back down the stairs you go, down to the kitchen, where he… invites you to… oh… the kitchen has all sorts of magical stuff in it. So, Tim, among the things…",
+          "Ayveen: Does that have magical light?",
+          "DM: It has magical lamps, but they are not lit. So, like, there are… rather, there are wall sconces with candles that, Tim, you see do radiate magic, but they're not currently illuminated. So it is gloomy. It is gloomy bordering on dark.",
+          "DM: In the kitchen, though, there's a cheerful fire going in the fireplace, a non-magical fire and a non-magical fireplace.",
+          "DM: But there is a bar… next to the sink on one side of the room, a small metal rod about 2 inches in diameter and 6 inches long, affixed into a bracket that is magical."
+        ],
+        "after": [
+          "DM: \"Before we start,\" says Lord Hulda, \"I know you… you must be… tired and weary from your travels, please.\" And he gestures to the little iron bar on the counter next to the sink. \"If you would, before we go further, just give it a tap. It'll clean you up for dinner.\"",
+          "Kaito Min: Before we do anything else, is he a Faye?",
+          "DM: Nope. This is a… human-y human.",
+          "Edric: He's not a vampire. Edric is not worried about Faye, just to be clear. He's worried about undead. That guy said something about the undead. He's, like, constantly like, wait, are there undead here?",
+          "DM: Not fae, not undead. Regular person, as far as you can tell. Regular. Degular."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Using and assessing the cleaning bar",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1333",
+        "endUid": "u1394"
+      },
+      "lines": [
+        "%% u1333:0-16, u1334:0-41, u1335:0-201 %%",
+        "DM: \"Before we start,\" says Lord Hulda, \"I know you… you must be… tired and weary from your travels, please.\" And he gestures to the little iron bar on the counter next to the sink. \"If you would, before we go further, just give it a tap. It'll clean you up for dinner.\"",
+        "",
+        "%% u1336:0-41, u1337:0-5, u1338:0-25, u1339:0-197, u1340:0-78 %%",
+        "((Checking Hulda for fey or undead.))",
+        "",
+        "%% u1341:0-19 %%",
+        "Tarek: Tarek taps the bar.",
+        "",
+        "%% u1342:0-98, u1343:0-7, u1344:0-3 %%",
+        "DM: And all of yourself and clothes and hands are cleaned, magically. It's one of those cleaning bar. Thanks. So…",
+        "",
+        "%% u1345:0-25, u1346:0-62, u1347:0-44 %%",
+        "Tarek: Yeah, under the guise of… finishing the process of getting cleaned off. He assesses its… the type and security of the attachment, so…",
+        "",
+        "%% u1348:0-12, u1349:0-11, u1350:0-16, u1351:0-11, u1352:0-6, u1352:6-16, u1353:0-63, u1354:0-97, u1355:0-7, u1356:0-29 %%",
+        "((Roll setup and name clarification.))",
+        "",
+        "%% u1357:0-131, u1358:0-36 %%",
+        "Kaito Min: Oh, like, literally terrifying. No, no, no, but Kaito is coming over to block the view to also go and clean himself, and he's like… hand around, around, around Tarek's…",
+        "",
+        "%% u1359:0-24 %%",
+        "Tarek: It's like… like a belly.",
+        "",
+        "%% u1360:0-62 %%",
+        "Kaito Min: Yeah, this is just… this is, yeah, he just taps the, you know.",
+        "",
+        "%% u1361:0-78, u1362:0-54, u1363:0-21, u1364:0-13, u1365:0-37, u1366:0-31, u1367:0-21, u1368:0-30, u1369:0-43, u1370:0-16 %%",
+        "((Sleight-of-hand and perception rolls.))",
+        "",
+        "%% u1371:0-102 %%",
+        "DM: You don't… Obi- it's not like you just, like, rotate it counterclockwise and it pops off in your hand.",
+        "",
+        "%% u1372:0-166 %%",
+        "DM: But the strong impression you get is that if you set your mind to it, within a couple of minutes, maybe 10 minutes if it's bad, you could probably pop this thing out.",
+        "",
+        "%% u1373:0-17 %%",
+        "Tarek: So now, you know.",
+        "",
+        "%% u1374:0-53 %%",
+        "DM: The bar is magic, but the bracket it's set in is not.",
+        "",
+        "%% u1375:0-16, u1376:0-18, u1377:0-82 %%",
+        "((Wordless anticipation.))",
+        "",
+        "%% u1378:0-50 %%",
+        "Tarek: So I… I shake, I shake, like, not right now, like…",
+        "",
+        "%% u1379:0-21, u1380:0-12 %%",
+        "Kaito Min: [garbled] fair enough.",
+        "",
+        "%% u1381:0-30, u1382:0-42 %%",
+        "Txarro: Kind of moved… moved to clean… myself off and break them up a little bit.",
+        "",
+        "%% u1383:0-29, u1384:0-30, u1385:0-33, u1386:0-21 %%",
+        "((Party banter.))",
+        "",
+        "%% u1387:0-48 %%",
+        "Ayveen: And not steal from our employers before the job.",
+        "",
+        "%% u1388:0-20, u1389:0-35, u1390:0-17, u1391:0-24, u1392:0-26, u1393:0-11 %%",
+        "((Redistribution jokes.))",
+        "",
+        "%% u1394:0-25 %%",
+        "Ayveen: Ayveen taps the bar, too.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: But there is a bar… next to the sink on one side of the room, a small metal rod about 2 inches in diameter and 6 inches long, affixed into a bracket that is magical.",
+          "DM: There is also a chest in one corner of the room that is magical, and you can actually feel the cold coming off of it. You've probably seen in Tollen some variety of an ice-chesty sort of thing like that.",
+          "DM: And then finally, there is, among the cupboards that completely line all the sides of the room… there is one of them, which… radiates magic.",
+          "DM: In the center of the room, there is a large stone table and sturdy wooden chairs. It appears that he's collected all of the intact chairs left over from the various rooms in the house and brought them here. And there are probably a dozen or 15 chairs around the room, fewer around the table.",
+          "DM: He gestures for you to sit down, he sits down too, and Alden goes to the icebox and starts to bring out, cold roast chicken, and cold vegetables, and goes to the cupboard and brings out a large loaf of freshly baked bread from that magical cupboard, and… sets about carving it up and setting out the places and everything."
+        ],
+        "after": [
+          "Kaito Min: Okay, at this point, Kaito… because nobody's had any direct… Lord Aldis… what's the name of the guy? Lord what?",
+          "Txarro: Hulda.",
+          "Kaito Min: And sorry, just meta, like, what is our… what is our… what… why do we think we're here again?",
+          "DM: To clean out his basement, right? Yes.",
+          "Ayveen: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Hulda’s story and the inheritance bargain",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1422",
+        "endUid": "u1845"
+      },
+      "lines": [
+        "%% u1422:0-100, u1423:0-69, u1424:0-17 %%",
+        "DM: As he sits at the head of the table and begins to dig in and cut his food, he says, you're probably… you're probably curious about the details, you're probably wondering… why you're here?",
+        "",
+        "%% u1425:0-4 %%",
+        "Edric: Yes?",
+        "",
+        "%% u1426:0-46, u1427:0-35, u1428:0-73, u1429:0-12, u1430:0-47 %%",
+        "DM: For almost 30 years, I've been… an adventurer. A sellsword, sometimes, a guard, a… mercenary, a treasure hunter, I've worked for… half the organizations in… Sembara and… even more in Tollen for… wizards and kings and…",
+        "",
+        "%% u1431:0-101, u1432:0-39, u1433:0-31, u1434:0-36, u1435:0-45 %%",
+        "DM: I had all sorts of victories and successes. I had all sorts of losses. I made my fortune and lost it a few times over. And what I knew… Hmm… especially after this last one… is that the best days are behind me. And I have never quite come to anything, the…",
+        "",
+        "%% u1436:0-71, u1437:0-57, u1438:0-37 %%",
+        "DM: The party was ending, you know that feeling when a party's breaking up? You can feel that… that the peak has already passed, but… but there you are, still stuck there.",
+        "",
+        "%% u1439:0-76, u1440:0-47, u1441:0-32, u1442:0-4, u1443:0-52 %%",
+        "DM: Last winter, there was a… a wyrmling, a young dragon who came down from the… mountains to the north and east of Tollen, and… it was me and a team that I led… who… went out and… killed it and brought the trophy back.",
+        "",
+        "%% u1444:0-124, u1445:0-143, u1446:0-53 %%",
+        "DM: And this surprises the five of you, because you had at least vaguely heard of this, over this last winter. It was sort of a… I mean, it's sort of an unusual thing for a dragon to be that far south and out of the mountains, not that it was a massive ancient thing, but… But it's celebrated, right? It's unusual, remarkable.",
+        "",
+        "%% u1447:0-8, u1448:0-25, u1449:0-18 %%",
+        "DM: He says… I should have been happy. But the truth was…",
+        "",
+        "%% u1450:0-46, u1451:0-16, u1452:0-27, u1453:0-49 %%",
+        "DM: Everyone I went there with died except for me. And this dragon… had come looking, had come… hungry, it had no territory, it had no… treasure…",
+        "",
+        "%% u1454:0-21, u1455:0-47 %%",
+        "DM: I got back to Tollen… and sure, they started writing a song about me.",
+        "",
+        "%% u1456:0-47, u1457:0-28, u1458:0-63 %%",
+        "DM: But I woke up the next morning, and I realized… all of my friends were dead. My purse was… no bigger than it was when I began 3 decades ago.",
+        "",
+        "%% u1459:0-38, u1460:0-55, u1461:0-23 %%",
+        "DM: What was left for me? It was a bitter… it was a difficult day. I was owed more. My whole life. And I hadn't gotten it.",
+        "",
+        "%% u1462:0-36 %%",
+        "DM: It was a bitter thing to wake up to.",
+        "",
+        "%% u1463:0-60, u1464:0-30, u1465:0-106, u1466:0-7, u1467:0-103, u1468:0-132, u1469:0-48 %%",
+        "DM: But stranger still, stranger still that later that same day… into the inn I was staying at… eating my lunch, trying my hardest to get ferociously drunk and failing by about noon, into that same inn… walked… an elf, and here's the thing, you… you know Tollen, you know there are strange characters in that city. You know, sometimes when a person says they're a thing, and you know they're not that thing, but you don't quite know what they are. Or who they work for, or what that really means.",
+        "",
+        "%% u1470:0-80 %%",
+        "DM: He walked into the room, directly over to my table, and sat down across from me.",
+        "",
+        "%% u1471:0-101, u1472:0-109 %%",
+        "DM: And took out this. And in this moment, he takes out from his pocket a sheet of paper, and unfolds it. And he puts it on the table, and he slides it over to me, and he slides it into the middle of the table then.",
+        "",
+        "%% u1473:0-12, u1474:0-37 %%",
+        "DM: It's a deed. It's a deed… of inheritance… for… me.",
+        "",
+        "%% u1475:0-238 %%",
+        "DM: And the elf proceeds to tell me the strangest story that is attested to on the piece of paper in front of him. Now, the five of you looking at this paper can clearly tell this is an ancient, this is an old document. This thing is brittle.",
+        "",
+        "%% u1476:0-194 %%",
+        "DM: In fact, when he unfolds it, you can see, this is not a person used to taking care of archival documents, because as he unfolds it, you know, little bits of it are, like, flaking off as it goes.",
+        "",
+        "%% u1477:0-75, u1478:0-21 %%",
+        "DM: And one should not put a 500-year-old deed in the middle of a dinner table. But there he puts it.",
+        "",
+        "%% u1479:0-43 %%",
+        "DM: If you read this, you see that it names me.",
+        "",
+        "%% u1480:0-54, u1481:0-21, u1482:0-54 %%",
+        "DM: But this document doesn't just… name… name me by name! It names me by birth. And lists my father's father going back 3 generations.",
+        "",
+        "%% u1483:0-82, u1484:0-31, u1485:0-111, u1486:0-15, u1487:0-4 %%",
+        "DM: Not only does it name me by birth and family, it names me by… the deeds I've done… the things that I'm… known for… the accomplishments that I've had, the ones that, even if they didn't bring me money, at least they were known… and remembered. Nay…",
+        "",
+        "%% u1488:0-43, u1489:0-54 %%",
+        "DM: I don't know how you all… feel about elves. And he, glances over you without, meeting eye contact.",
+        "",
+        "%% u1490:0-67 %%",
+        "Kaito Min: Kaito gives them a tip of the, you know, tip of the proverbial cap.",
+        "",
+        "%% u1491:0-75, u1492:0-42 %%",
+        "DM: But as a man nearing 50, it's uncomfortable to me to sit down with someone… 20 times older than me? I don't even know…",
+        "",
+        "%% u1493:0-23, u1494:0-8, u1495:0-28, u1496:0-98, u1497:0-37 %%",
+        "DM: He tells me this story. He says… That… hundreds of years ago… when he was young, a young librarian, archivist, I forget what he calls himself exactly, this elf… a man entrusted this contract to him.",
+        "",
+        "%% u1498:0-85, u1499:0-75, u1500:0-24, u1501:0-77, u1502:0-39, u1503:0-59, u1504:0-57, u1505:0-45, u1506:0-34, u1507:0-43, u1508:0-20 %%",
+        "DM: And it's sad… entrusted it to him, and, I don't know, paid some sort of unfathomable… some, I don't know how this thing works, like, with elves across centuries. Paid some kind of a sum… For the elf's organization to hold it in trust, for… I don't know, 400 years? And that… It had to be delivered to me… In a specific time, in a specific place, on a specific day. Only after I had done all of the things that it required. And that would be the way that this this elf, or whoever would know my identity. And that I would know it was a… legitimate… deed of inheritance.",
+        "",
+        "%% u1509:0-179, u1510:0-30 %%",
+        "DM: He slid it across the table to me, and I read it over, just as you can if you'd like to, and at least at first glance, it appears to be exactly what he says. It deeded to me this… house? This… dandelion? House…",
+        "",
+        "%% u1511:0-80, u1512:0-26, u1513:0-47, u1514:0-65, u1515:0-85 %%",
+        "DM: And all the lands surrounding it for dozens of miles. I mean, this is a massive… massive estate, overgrown and in the middle of nowhere, though it may be. Deeded to me this house, and all the treasures therein contained. Including the stores of gold and riches, unspecified in the contract, but alluded to.",
+        "",
+        "%% u1516:0-86, u1517:0-43 %%",
+        "DM: On one condition, and in fact, I just gave it away. It turns out it isn't just a deed, but also a contract. I had to sign onto it.",
+        "",
+        "%% u1518:0-54, u1519:0-33, u1520:0-25, u1521:0-43, u1522:0-44, u1523:0-45, u1524:0-40 %%",
+        "DM: Because down there at the bottom, what it says is that… locked in a room in the basement… is the doom of the house… and that the house will never belong to me… unless I step through the door in the floor… and convinced the man on the other side of it… to bring his long-held treaty to an end.",
+        "",
+        "%% u1525:0-100, u1526:0-81, u1527:0-25, u1528:0-56, u1529:0-38, u1530:0-89, u1531:0-12, u1532:0-28, u1533:0-71 %%",
+        "DM: That was as specific as it is. I've pulled all sorts of jobs for all sorts of people over the years. On the scale of vagueness, this one is probably right in the middle. So I signed. I committed myself to it. My whole life, this is what I've been owed, and finally… I could have it, of course it's worth… negotiating the end to a treaty. Of all the things I've done, how hard can that really be? I came here… and I went through the door… and I met the man on the other side, and I was… unable to convince him.",
+        "",
+        "%% u1534:0-58, u1535:0-16 %%",
+        "DM: So I thought that others might be more persuasive than me. And here we are.",
+        "",
+        "%% u1536:0-95, u1537:0-13, u1538:0-63, u1539:0-23, u1540:0-8, u1541:0-42 %%",
+        "DM: In return, for convincing this man to end his treaty, whatever it might be, I'll give you half… of the value… of all of the gold, and all of the coin… and all of the jewels… and all of the wrought jewelry, which is the treasure hoard of this house.",
+        "",
+        "%% u1542:0-41 %%",
+        "Edric: What language is the contract written in?",
+        "",
+        "%% u1543:0-38 %%",
+        "DM: Do you want to pick it up and read it?",
+        "",
+        "%% u1544:0-5, u1545:0-46 %%",
+        "Edric: That. I mean, can we see the words from here, or no?",
+        "",
+        "%% u1546:0-48, u1547:0-79 %%",
+        "DM: It's written in, yeah, it's written in Sembaran. And if anyone wants to give it an investigation, close read, you're welcome to.",
+        "",
+        "%% u1548:0-23, u1549:0-119, u1550:0-64 %%",
+        "Tarek: Tarek is interested in forging contracts and so forth. Usually he forges, like, jewelry, but… or, like, you know, fakes… more minor documents and less ancient things, but he licks his finger and has a look.",
+        "",
+        "%% u1551:0-30, u1552:0-58, u1553:0-3, u1554:0-25, u1555:0-34, u1556:0-44, u1557:0-12, u1558:0-6 %%",
+        "((Investigation roll and name clarification.))",
+        "",
+        "%% u1559:0-54, u1560:0-23 %%",
+        "Kaito Min: That was the best fucking story anybody has ever told. Let's go meet this man.",
+        "",
+        "%% u1561:0-219, u1562:0-31 %%",
+        "Kaito Min: Like, a look of just total conviction, like, whatever, like, fear and hesitation and whatever the hell you've been feeling before is so all-in. He, like, walks straight up to Hulda and is like, that was fucking awesome. Let's go and convince this man.",
+        "",
+        "%% u1563:0-47 %%",
+        "Tarek: It's like, yo, yo, we gotta see the junk first.",
+        "",
+        "%% u1564:0-42, u1565:0-17 %%",
+        "Kaito Min: And Kaito is kind of like… I am so pumped… This is gonna be…",
+        "",
+        "%% u1566:0-61 %%",
+        "Tarek: We don't want half a little hoard, you know? We're just like…",
+        "",
+        "%% u1567:0-21, u1568:0-14 %%",
+        "DM: He chuckles and says, \"Eat, eat, eat.\"",
+        "",
+        "%% u1569:0-25 %%",
+        "Tarek: You know what I'm saying?",
+        "",
+        "%% u1570:0-22, u1571:0-31 %%",
+        "DM: You didn't talk first… in the morning. In the morning.",
+        "",
+        "%% u1572:0-9 %%",
+        "Kaito Min: I'm hype.",
+        "",
+        "%% u1573:0-31, u1574:0-4 %%",
+        "((Roll confirmation.))",
+        "",
+        "%% u1575:0-84, u1576:0-111, u1577:0-112 %%",
+        "DM: With 19, you take a careful, slow read through the document, and you see that it is… exactly as he described, like… This is definitely dude not used to reading documents or contracts or wills, so… certainly, he elided a whole lot of formal language and extracted the heart of it, but it is exactly as he says.",
+        "",
+        "%% u1578:0-19, u1579:0-9, u1580:0-52, u1581:0-65 %%",
+        "DM: There is something… slightly… some… some tickle at the back of your brain is like… some… you know there's something weird about this, but you can't…",
+        "",
+        "%% u1582:0-86, u1583:0-14 %%",
+        "DM: You can't put it together. It's not magic, if anyone's still got your Detect Magic up. Like, there's…",
+        "",
+        "%% u1584:0-195, u1585:0-37, u1586:0-36 %%",
+        "DM: There's something about it that… where, like, the parts don't fit together. You know, like, when you read a… I don't know, you read an article or something, you're like, wait, wait a minute, the… those things don't go together, like… but you can't put your finger on it.",
+        "",
+        "%% u1587:0-4 %%",
+        "Tarek: Hmm.",
+        "",
+        "%% u1588:0-8, u1589:0-18, u1590:0-63 %%",
+        "((Asides before the next question.))",
+        "",
+        "%% u1591:0-27 %%",
+        "Edric: You, you, you met this guy?",
+        "",
+        "%% u1592:0-4 %%",
+        "Kaito Min: Huh?",
+        "",
+        "%% u1593:0-33 %%",
+        "DM: Yeah, yeah, yeah. I mean, he… he…",
+        "",
+        "%% u1594:0-48 %%",
+        "Edric: You went through the, you went through the door?",
+        "",
+        "%% u1595:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u1596:0-22, u1597:0-25 %%",
+        "Kaito Min: So tell us about that. What was… what was there?",
+        "",
+        "%% u1598:0-4 %%",
+        "Tarek: Hmm.",
+        "",
+        "%% u1599:0-19, u1600:0-56, u1601:0-83, u1602:0-74, u1603:0-64, u1604:0-91 %%",
+        "DM: It was a path to a… another… I mean, it was a… there was a big… manor house… I mean, not… not like… this, but… but similar? This sort of grand… manor house, and… a whole lot of people there, and I found the lord of the manor, and… and… Had a conversation with him, and he was sort of an asshole, and… things got a little heated, I… in fairness, I have may have been a little bit demanding, I…",
+        "",
+        "%% u1605:0-8 %%",
+        "Kaito Min: Weapons?",
+        "",
+        "%% u1606:0-30, u1607:0-52, u1608:0-57, u1609:0-49, u1610:0-28, u1611:0-16, u1612:0-45 %%",
+        "DM: He… here's the thing, he says… And his face shifts like iron, and his fists clench. In most situations, I find I can be extremely persuasive. And then he sighs, and loosens it, and says, and… I was not persuasive to him. He was, in fact… persuasive to me to leave quickly, and I did.",
+        "",
+        "%% u1613:0-20 %%",
+        "Txarro: What was the treaty?",
+        "",
+        "%% u1614:0-23 %%",
+        "DM: We didn't get that far.",
+        "",
+        "%% u1615:0-8 %%",
+        "Tarek: Oh, man.",
+        "",
+        "%% u1616:0-5, u1617:0-7 %%",
+        "DM: Yeah… we… we…",
+        "",
+        "%% u1618:0-84 %%",
+        "DM: We got off on the wrong foot. I mean, right out of the gate. We just… oil and water.",
+        "",
+        "%% u1619:0-11 %%",
+        "Kaito Min: You try to…",
+        "",
+        "%% u1620:0-15 %%",
+        "DM: John, it… yeah.",
+        "",
+        "%% u1621:0-83 %%",
+        "Kaito Min: After you let… could you go back again, or is that, like, one shot and that was it?",
+        "",
+        "%% u1622:0-21, u1623:0-40 %%",
+        "DM: Many words were said… I got the impression I was not welcomed.",
+        "",
+        "%% u1624:0-16 %%",
+        "Tarek: As you tried to…",
+        "",
+        "%% u1625:0-3 %%",
+        "DM: Oh.",
+        "",
+        "%% u1626:0-106, u1627:0-28, u1628:0-5, u1629:0-44, u1630:0-18 %%",
+        "Tarek: You tried to persuade him using a kind of intimidation. You are, to be… to be frank, you are intimidating. Did you get a sense of what… what… what kind of a carrot as opposed to a stick… might be relevant?",
+        "",
+        "%% u1631:0-16, u1632:0-89 %%",
+        "DM: He wanted to… I… you know those people you talk to, and you feel like they're just playing games with you?",
+        "",
+        "%% u1633:0-8 %%",
+        "Tarek: Oh, man.",
+        "",
+        "%% u1634:0-92 %%",
+        "DM: That's what I felt like. I wanted to cut straight to the center of things. That's my nature.",
+        "",
+        "%% u1635:0-58 %%",
+        "DM: But he ju- he… sometimes… I didn't want to play, you know…",
+        "",
+        "%% u1636:0-45 %%",
+        "Kaito Min: Sometimes you gotta go around to get through.",
+        "",
+        "%% u1637:0-23 %%",
+        "DM: That's what I disagree.",
+        "",
+        "%% u1638:0-5, u1639:0-18, u1640:0-75, u1641:0-23, u1642:0-12, u1643:0-19, u1644:0-88, u1645:0-15, u1646:0-46, u1647:0-7, u1648:0-138, u1649:0-56, u1650:0-167, u1651:0-4 %%",
+        "((Party laughter and wordplay.))",
+        "",
+        "%% u1652:0-245 %%",
+        "Kaito Min: So much of the laughter is on the inside. Okay, so… so, wait, but back to the treaty again, so you only spoke to him that one time. You leveraged persuasive techniques that might have been more on the side instead of the, you know, side, and so…",
+        "",
+        "%% u1653:0-3, u1654:0-62 %%",
+        "DM: So… in my defense, techniques that have been extremely successful.",
+        "",
+        "%% u1655:0-193 %%",
+        "Kaito Min: Oh, we know, we know you. I mean, we've heard of you, we've heard of you, for sure. I mean, the whole Wyvern thing, I mean, it's, it's, you know, you were in the news. I mean, we knew about it.",
+        "",
+        "%% u1656:0-140 %%",
+        "Kaito Min: So, wait, so are you… are you suggesting, then… what advice do you have for us, so that we might be more persuasive based on your encounter?",
+        "",
+        "%% u1657:0-3, u1658:0-6, u1659:0-14 %%",
+        "DM: Oh. Don't… do what I did.",
+        "",
+        "%% u1660:0-98, u1661:0-35, u1662:0-33, u1663:0-67, u1664:0-168 %%",
+        "Kaito Min: Now, we haven't… I personally have not read this document closely, perhaps my colleagues have, but if we were to convince this person… are we doing this on your behalf? As it is your name that is written inside this document, or are we… you know, are we your proxies here, or what's the… or do we need to be added to the document? You know, the document feels pretty important, like, what's the deal here?",
+        "",
+        "%% u1665:0-4 %%",
+        "Tarek: Ung.",
+        "",
+        "%% u1666:0-42, u1667:0-88 %%",
+        "DM: No, I mean, I'm… I'm hiring you for a job. The… completion of the job triggers the success condition in the contract, and then the…",
+        "",
+        "%% u1668:0-6 %%",
+        "Kaito Min: Right.",
+        "",
+        "%% u1669:0-74 %%",
+        "DM: Hoard becomes available, the house becomes mine, we split the money, it's…",
+        "",
+        "%% u1670:0-63 %%",
+        "Kaito Min: Got it, got it. And just to say… oh, go ahead, go ahead, Tarek.",
+        "",
+        "%% u1671:0-25 %%",
+        "Tarek: Can we look at the hoard?",
+        "",
+        "%% u1672:0-92 %%",
+        "DM: Here's the thing, until… I fulfill the condition of the contract, I don't have access to it.",
+        "",
+        "%% u1673:0-27 %%",
+        "Tarek: How do you know it's there?",
+        "",
+        "%% u1674:0-104, u1675:0-214 %%",
+        "DM: Well, I mean, it says it right there in the contract, on successful completion of the end of the treaty… the, rightful owner of the house, that's me, it gets mentioned above, will be entitled to the, you know, the, the treasure hoard, which will otherwise, not be, it's all there, it's in, it's in the… you can read it.",
+        "",
+        "%% u1676:0-38 %%",
+        "Edric: Couldn't that just be, like, one coin?",
+        "",
+        "%% u1677:0-24, u1678:0-30 %%",
+        "DM: I've thought about this. I've thought about this a lot.",
+        "",
+        "%% u1679:0-16 %%",
+        "Edric: Not that I care.",
+        "",
+        "%% u1680:0-6, u1681:0-34 %%",
+        "DM: Never. He gives you a funny look at that.",
+        "",
+        "%% u1682:0-30 %%",
+        "DM: And you're right, it could be.",
+        "",
+        "%% u1683:0-52, u1684:0-31, u1685:0-19 %%",
+        "DM: Every fiber of my being, every bone in my body says… no, I mean, look at this place! Look at this place!",
+        "",
+        "%% u1686:0-49, u1687:0-98 %%",
+        "DM: Look at what's just here in the kitchen! This is… this is… money. This is… this is not money. This is not money. This is not riches. This is wealth.",
+        "",
+        "%% u1688:0-267 %%",
+        "Kaito Min: I agree with you totally. I also, I agree with you totally. This is my, this is what changed for me as well. Yeah. I think we're in for a good, good situation here. How do we trust you that we're actually going to be able to get half from you? What's our parlay here?",
+        "",
+        "%% u1689:0-8, u1690:0-48, u1691:0-35 %%",
+        "DM: There's… five of you, and one of me, if it comes to that. I think it'd be about a fair fight.",
+        "",
+        "%% u1692:0-4 %%",
+        "Tarek: Yep.",
+        "",
+        "%% u1693:0-12, u1694:0-96 %%",
+        "DM: But I don't think we'll come to that. I'm happy to swear whatever oath you like by whatever gods you prefer.",
+        "",
+        "%% u1695:0-51, u1696:0-83 %%",
+        "Ayveen: I mean, what are the normal terms of our contracts? We swore whatever else we like to whatever god we prefer, and it usually works out.",
+        "",
+        "%% u1697:0-6 %%",
+        "Kaito Min: Risky?",
+        "",
+        "%% u1698:0-9, u1699:0-19 %%",
+        "Ayveen: Question… strategic question.",
+        "",
+        "%% u1700:0-96, u1701:0-119 %%",
+        "Ayveen: You gotta go through a particular trapdoor on the floor, and negotiate with a particular person. Do you just stumble right into his face the minute you get there, or is there any exploring around that might give you…",
+        "",
+        "%% u1702:0-13 %%",
+        "DM: Oh, no, yeah.",
+        "",
+        "%% u1703:0-14 %%",
+        "Ayveen: His… his vibe?",
+        "",
+        "%% u1704:0-189 %%",
+        "DM: You'll go down the road a little ways, maybe like a mile or two, and then you take a right. You cannot miss the entrance to this. It's… it's up on a hill, it's this big house, and you don'…",
+        "",
+        "%% u1705:0-35, u1706:0-14 %%",
+        "Edric: Wait, hold on, wait, stop, go back. Down the road?",
+        "",
+        "%% u1707:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u1708:0-30, u1709:0-68, u1710:0-47 %%",
+        "DM: You pop out on the other side. It's like a… I mean, a pa… it's not like a… It's not paved, but you… you pop out on the other side, you go down the…",
+        "",
+        "%% u1711:0-54 %%",
+        "Edric: The other side… wait, hold on. The other side of what?",
+        "",
+        "%% u1712:0-9 %%",
+        "Kaito Min: The door.",
+        "",
+        "%% u1713:0-70, u1714:0-117 %%",
+        "DM: You go through the door on the floor, you come out the other side, and… you go down the road a couple miles, you take a right, you can't miss the gate. Go in, ask for the Lord of the manor.",
+        "",
+        "%% u1715:0-35 %%",
+        "Txarro: I think the sensible question that…",
+        "",
+        "%% u1716:0-12 %%",
+        "DM: Complicated…",
+        "",
+        "%% u1717:0-26, u1718:0-41 %%",
+        "Txarro: Edric is trying to ask is… How is there a road underneath the house?",
+        "",
+        "%% u1719:0-15, u1720:0-47 %%",
+        "DM: I have no idea. The door does not come out the place you go in.",
+        "",
+        "%% u1721:0-24 %%",
+        "Txarro: So how did you get back?",
+        "",
+        "%% u1722:0-23 %%",
+        "DM: I left it propped open.",
+        "",
+        "%% u1723:0-38 %%",
+        "Edric: So if you shut the door… we come back?",
+        "",
+        "%% u1724:0-17 %%",
+        "DM: What do you mean?",
+        "",
+        "%% u1725:0-46 %%",
+        "Ayveen: We'll leave it propped open again, presumably.",
+        "",
+        "%% u1726:0-40 %%",
+        "Edric: But, but if, but if you closed the door…",
+        "",
+        "%% u1727:0-70 %%",
+        "Kaito Min: Yeah, but he needs us to do the thing, so why would he close the door?",
+        "",
+        "%% u1728:0-42 %%",
+        "Edric: Yeah, okay. If you trust him, I trust him.",
+        "",
+        "%% u1729:0-173, u1730:0-12 %%",
+        "Kaito Min: Yeah, I, like, okay, look, just, just, I went from being, let's get the fuck out of here, to now I'm totally with this guy. So, just, let's, let's go, we gotta, we gotta go. But, I mean…",
+        "",
+        "%% u1731:0-63, u1732:0-85, u1733:0-69 %%",
+        "Kaito Min: Okay, here's the thing. Everything that we've done in the past… we've known what we were gonna get, and we've known that whatever that was, was fine. Right? In this situation, the whatever we could get, if it's half of…",
+        "",
+        "%% u1734:0-374, u1735:0-10, u1736:0-23 %%",
+        "Kaito Min: I feel like… I feel like this is, like, a time where our ability to think about arithmetic, and there's, like, the big number over the bar, and then there's the other number below the bar, and when the number above the bar is, like, really, really big, and you divide that by 2, I think that's gonna be a lot larger than the other things that we've done, like, all combined. That's my… greed of the situation.",
+        "",
+        "%% u1737:0-39, u1738:0-35, u1739:0-10, u1740:0-62 %%",
+        "Tarek: You know what I'm really excited about? Ending a treaty, because who knows… what, new… Undoubtedly, totally peaceful conditions will arise from that.",
+        "",
+        "%% u1741:0-12 %%",
+        "Kaito Min: Who are you?",
+        "",
+        "%% u1742:0-34 %%",
+        "Tarek: That's cool, what are you talking?",
+        "",
+        "%% u1743:0-118, u1744:0-57 %%",
+        "Kaito Min: Have you been hanging around? Are Edric and Ayveen, like, rubbing off on you in, like, strange ways? Like, what's the… That's what you're excited about in this whole situation?",
+        "",
+        "%% u1745:0-83, u1746:0-32 %%",
+        "Tarek: I cannot imagine that one treaty is what's holding the universe together, you know? But what is it holding together?",
+        "",
+        "%% u1747:0-17, u1748:0-56, u1749:0-8, u1750:0-33 %%",
+        "Kaito Min: Or keeping apart? Did you eat mushrooms or something before? Like, what's… Are you… Tarek, are you, like… what's the…",
+        "",
+        "%% u1751:0-63 %%",
+        "Tarek: Well, maybe you're misunderstanding me. This, the treaty thing…",
+        "",
+        "%% u1752:0-5 %%",
+        "Kaito Min: Yeah.",
+        "",
+        "%% u1753:0-65 %%",
+        "Tarek: It feels like an interesting complication, that's all I'm saying.",
+        "",
+        "%% u1754:0-33, u1755:0-70, u1756:0-48 %%",
+        "DM: Well, this is fair, you know, as… in fairness, I thought this would be extremely straightforward, and I… despite my considerable skill, was unsuccessful.",
+        "",
+        "%% u1757:0-45, u1758:0-79, u1759:0-125 %%",
+        "Ayveen: Is there any prohibition, or did this person… There's nothing in the contract, but did this person make any statements, like… trespassers are not welcome to roam my… paths or anything like that? Are we gonna have to be stealthy, or can we investigate?",
+        "",
+        "%% u1760:0-99, u1761:0-34 %%",
+        "DM: It was pretty specific to me in particular. Again, there were words said that can't be unsaid, but… But that… it was very… it was… it…",
+        "",
+        "%% u1762:0-55 %%",
+        "DM: You know, I'm a big enough man to admit when I'm wrong.",
+        "",
+        "%% u1763:0-48 %%",
+        "Kaito Min: Guys, I think we just gotta go and check it out.",
+        "",
+        "%% u1764:0-4 %%",
+        "Tarek: Yes.",
+        "",
+        "%% u1765:0-14 %%",
+        "Txarro: Seems logical.",
+        "",
+        "%% u1766:0-9 %%",
+        "Kaito Min: You know?",
+        "",
+        "%% u1767:0-54, u1768:0-22, u1769:0-12, u1770:0-52, u1771:0-25, u1772:0-104 %%",
+        "Ayveen: I think it's logical to go… into the interesting door… leave it propped open… and explore… in a way that eventually leads us to a conversation… that might… end a treaty… but not… necessarily… choose to have that conversation till we have, perhaps, a little more information?",
+        "",
+        "%% u1773:0-58, u1774:0-17 %%",
+        "Kaito Min: This is why that you… this is why we have you on the team. Well thought out.",
+        "",
+        "%% u1775:0-14, u1776:0-15 %%",
+        "Txarro: What was that… the guy's name?",
+        "",
+        "%% u1777:0-19 %%",
+        "Kaito Min: Contrast in styles.",
+        "",
+        "%% u1778:0-56 %%",
+        "Txarro: Hulda, do you… Lord… sorry, Lord Hulda, do you remember…",
+        "",
+        "%% u1779:0-36 %%",
+        "DM: I… you know, we didn't get that far.",
+        "",
+        "%% u1780:0-7 %%",
+        "Tarek: I can'.",
+        "",
+        "%% u1781:0-63 %%",
+        "DM: I cannot overemphasize how little conversation we actually had.",
+        "",
+        "%% u1782:0-119 %%",
+        "Kaito Min: Did you just draw on them right away? Is that what happened? Like, did you just… you did, didn't you? You kind of just…",
+        "",
+        "%% u1783:0-22 %%",
+        "Tarek: Went straight for the…",
+        "",
+        "%% u1784:0-18 %%",
+        "Kaito Min: I mean, you kinda…",
+        "",
+        "%% u1785:0-67 %%",
+        "DM: Again, in similar situations in the past, that has been successful.",
+        "",
+        "%% u1786:0-156, u1787:0-170 %%",
+        "Kaito Min: But see, which for me feels strange, because you've got… you've got that storytelling ability, you just did such a compelling job, you swayed me completely. Like, if you pulled out even an ounce of that, you know, when it mattered the most, we wouldn't even be here, and you'd have 100% of the hoard. You ever think about that?",
+        "",
+        "%% u1788:0-52 %%",
+        "DM: I do, goddammit, and I don't like thinking about it.",
+        "",
+        "%% u1789:0-22 %%",
+        "Kaito Min: I can feel the regret.",
+        "",
+        "%% u1790:0-5, u1791:0-22 %%",
+        "((Brief repetition.))",
+        "",
+        "%% u1792:0-63, u1793:0-13, u1794:0-24 %%",
+        "Edric: Does he seem like… is there something, like, I don't know, I'm… have insight… does he seem like… He's…",
+        "",
+        "%% u1795:0-21 %%",
+        "((Insight roll setup.))",
+        "",
+        "%% u1796:0-46 %%",
+        "Edric: Weird that… I feel like it's a little bit off.",
+        "",
+        "%% u1797:0-20 %%",
+        "Kaito Min: I totally trust him.",
+        "",
+        "%% u1798:0-41, u1799:0-15 %%",
+        "((Insight roll.))",
+        "",
+        "%% u1800:0-11 %%",
+        "Kaito Min: Completely.",
+        "",
+        "%% u1801:0-188 %%",
+        "Edric: Looking for, like, I don't know, I just feel a little bit off about his insistence he doesn't know the guy's name. Like, it just seems odd to me that he would draw on somebody immediately.",
+        "",
+        "%% u1802:0-45, u1803:0-25, u1804:0-49 %%",
+        "((Insight roll discussion.))",
+        "",
+        "%% u1805:0-65, u1806:0-9, u1807:0-301 %%",
+        "DM: With that roll, like, maybe the way I would describe it is, like… it, it's… feels odd to you, and then you talk yourself out of it. Right. Really clearly. Like, no, no, no, this guy's an adventurer, he's a sellsword, like, he is a… he is a straight line sort of person, like, you can imagine, like, you're not like a… an angry dude that sort of way, but you're like a straight…",
+        "",
+        "%% u1808:0-4 %%",
+        "Edric: Yay!",
+        "",
+        "%% u1809:0-92 %%",
+        "DM: Mind solves problems kind of thing, so you can, like, empathetically imagine, alright, this…",
+        "",
+        "%% u1810:0-65 %%",
+        "DM: When you've got a hammer, everything looks like a nail, you know?",
+        "",
+        "%% u1811:0-11 %%",
+        "Edric: Sure, yeah.",
+        "",
+        "%% u1812:0-155, u1813:0-87, u1814:0-138, u1815:0-63, u1816:0-129 %%",
+        "((Out-of-character discussion of Kaito’s change in mood.))",
+        "",
+        "%% u1817:0-59 %%",
+        "DM: Do we have a deal, then? He says, looking around the table.",
+        "",
+        "%% u1818:0-7 %%",
+        "Kaito Min: I'm in.",
+        "",
+        "%% u1819:0-9 %%",
+        "Ayveen: Let's go!",
+        "",
+        "%% u1820:0-13 %%",
+        "Txarro: My knowledge…",
+        "",
+        "%% u1821:0-7 %%",
+        "Ayveen: I mean…",
+        "",
+        "%% u1822:0-21 %%",
+        "Txarro: We came all this way.",
+        "",
+        "%% u1823:0-34 %%",
+        "Ayveen: A good rest. Let's give it a shot.",
+        "",
+        "%% u1824:0-67 %%",
+        "Tarek: Who knows what we'll find, it'll be interesting, at the very least.",
+        "",
+        "%% u1825:0-41 %%",
+        "Ayveen: Put our best foot forward in the morning.",
+        "",
+        "%% u1826:0-4 %%",
+        "Tarek: Yes.",
+        "",
+        "%% u1827:0-10, u1828:0-52 %%",
+        "DM: Very good. Alden will show you the quarters on the third floor.",
+        "",
+        "%% u1829:0-66, u1830:0-49 %%",
+        "DM: Make yourselves at home, help yourself to anything in the kitchen. Feel free to look around the house if you'd like.",
+        "",
+        "%% u1831:0-37, u1832:0-52, u1833:0-13 %%",
+        "DM: But don't go in the basement tonight. That, we'll wait for the morning. We'll do together. That's weird.",
+        "",
+        "%% u1834:0-35 %%",
+        "Kaito Min: Good thing to say right before bed.",
+        "",
+        "%% u1835:0-328 %%",
+        "Kaito Min: Kaito then laughs. Kaito then laughs. And as, like, as everybody's, like, getting ready to go to bed, Kaito's, like… like, Kaito's, like, like, really stoked now. He's, like, whatever he was feeling before, and is, like, gonna see… we don't have to roleplay this, but Kaito's basically gonna see if, if, what? Lord Hulda? Hulda?",
+        "",
+        "%% u1836:0-12 %%",
+        "DM: Hulda, yeah.",
+        "",
+        "%% u1837:0-6 %%",
+        "Kaito Min: Hulda.",
+        "",
+        "%% u1838:0-10 %%",
+        "DM: He's been…",
+        "",
+        "%% u1839:0-364 %%",
+        "Kaito Min: Basically gonna see if Hulda wants to, like, hang out for a little while, because, like, Kaito's kind of just, like, stoked now. He just wants to, like, hear some stories of Hulda's, like, adventures and, like, what he's done, and kind of, like, you know, really cool shit that he's done, and, you know, all, you know, he's… if he's up for it, Kaito wants to hear.",
+        "",
+        "%% u1840:0-17, u1841:0-17, u1842:0-60 %%",
+        "DM: When you're back. When you're back. Tonight, rest. It's an early day tomorrow. A very early day.",
+        "",
+        "%% u1843:0-114 %%",
+        "Kaito Min: I'm an elf, though, dude. I don't… I don't rest. I just need to… I just, like, walk around for 4 hours. It's cool.",
+        "",
+        "%% u1844:0-48, u1845:0-34 %%",
+        "DM: He says with a chuckle, not all of us are elves. And stands up and leaves the room.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kaito Min: Also, I have a 17 charisma, that landed.",
+          "DM: Alden spreads out… on the table, all of the food is assembled, and you are all clean.",
+          "DM: Sit down to eat. Boom.",
+          "Edric: The music is way loud.",
+          "DM: That was intense."
+        ],
+        "after": [
+          "Kaito Min: That makes me trust you less, alright. He didn't say that out loud.",
+          "DM: Alright, he's out, Alden, excuse me, Alden is, nearby. If you need anything, he can show you to your rooms. What? Is there anything y'all would like to do before bed?",
+          "Kaito Min: Guys, I'm stoked. What do you all think? What's everybody's stoke level?",
+          "Txarro: Like…",
+          "Tarek: [garbled]"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "The PCs are not named in the contract",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1864",
+        "endUid": "u1866"
+      },
+      "lines": [
+        "%% u1864:0-26, u1865:0-200 %%",
+        "Kaito Min: We're not in the contract. Which is maybe bad, or is that good? We're not in the contract, are we? Are we, like, written in there like there's, like, a whole… there's a group of 5 people that's gonna show up and blah blah blah?",
+        "",
+        "%% u1866:0-8 %%",
+        "DM: Nothing.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kaito Min: How about you, Edric? Where are you at?",
+          "DM: Don't…",
+          "Edric: Doorways that don't go to the right spots creep me out a little bit.",
+          "Kaito Min: You sound like a 2. How about you, Tarek? Where are you with this?",
+          "Tarek: I mean… my experience with, like… contracts is they're a way for people to steal stuff from you… but maybe we'll have a way to steal stuff back? Maybe we'll find something interesting on the way."
+        ],
+        "after": [
+          "Tarek: Essentially.",
+          "Txarro: Am not…",
+          "Txarro: Just to… a little wisdom here… Kaito: I'm not optimistic about the treasure here.",
+          "Kaito Min: How is it that… how is it that I was the one going into this that was a zero, and you all are all like, Kaito, everything's gonna be fine, let's go into the weird, creepy house that looks like a head, everything's gonna be cool. And then as soon as we get there, and the guy's like, there's infinite treasure in the basement, and you can have half of it, all of a sudden, I'm the only one that's like, hey, let's get all this awesome treasure, and you guys are all, like, what the hell is going on here? What is with this dynamic?",
+          "Txarro: It's…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Alden demonstrates the wall sconces",
+      "entities": [
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1950",
+        "endUid": "u1953"
+      },
+      "lines": [
+        "%% u1950:0-33, u1951:0-69, u1952:0-7, u1953:0-61 %%",
+        "DM: Alden pokes his head in and says, I have to retire for the evening. The sconces work like this, though. And he… taps a wall sconces twice, and the candle bursts into flames.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Txarro: And… it could be a terrible, oppressive treaty, and we end it, and we get piles of diamonds. That could happen, too. Hit that one.",
+          "Tarek: A positive attitude there, yes.",
+          "Kaito Min: Man, now you guys are having me doubt this whole situation.",
+          "Txarro: No, there's nothing to doubt. I'm… we're not gonna walk back all the way through the woods without seeing what's underneath the trapdoor.",
+          "Tarek: That's for sure."
+        ],
+        "after": [
+          "Edric: Could you show me to the stable? I'd like to check on Mossfoot.",
+          "Kaito Min: Ugh. I give up. Let's go to bed.",
+          "DM: Sure.",
+          "Kaito Min: Metagame, are we gonna… should we… should we walk through this portal before we, I feel like we should walk through the portal…",
+          "Txarro: I feel like we should walk through the portal and then…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Edric checks on Mossfoot",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1954",
+        "endUid": "u1975"
+      },
+      "lines": [
+        "%% u1954:0-63 %%",
+        "Edric: Could you show me to the stable? I'd like to check on Mossfoot.",
+        "",
+        "%% u1955:0-4, u1956:0-27, u1957:0-5, u1958:0-127, u1959:0-55, u1960:0-34, u1961:0-66, u1962:0-12, u1963:0-11, u1964:0-8, u1965:0-15, u1966:0-7, u1967:0-48 %%",
+        "((Session pacing discussion and a compressed sleep proposal.))",
+        "",
+        "%% u1968:0-142 %%",
+        "DM: For the sake of moving the narrative forward, the stables are crummy and overgrown and decrepit, but Mossfoot is doing just fine, and there's…",
+        "",
+        "%% u1969:0-13 %%",
+        "((Interruption.))",
+        "",
+        "%% u1970:0-19 %%",
+        "DM: Plenty to eat, and…",
+        "",
+        "%% u1971:0-16, u1972:0-47 %%",
+        "((Interruption.))",
+        "",
+        "%% u1973:0-119, u1974:0-14, u1975:0-86 %%",
+        "DM: There's a whole bin of dandelion greens that have been collected. You go back up the stairs to your room, you pass the… clock and the… tapestries, and the library, and head upwards to your, to your chambers for the night.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Tarek: A positive attitude there, yes.",
+          "Kaito Min: Man, now you guys are having me doubt this whole situation.",
+          "Txarro: No, there's nothing to doubt. I'm… we're not gonna walk back all the way through the woods without seeing what's underneath the trapdoor.",
+          "Tarek: That's for sure.",
+          "DM: Alden pokes his head in and says, I have to retire for the evening. The sconces work like this, though. And he… taps a wall sconces twice, and the candle bursts into flames."
+        ],
+        "after": [
+          "Txarro: Before… before I go to bed, I'm gonna cast Goodberry. And I'm gonna give everybody 2 Good Berries, which last for 24 hours. They provide sufficient nourishment to sustain you for one day, and they restore one hit point.",
+          "Tarek: But you can still eat lunch if you want.",
+          "Txarro: You can still eat lunch.",
+          "Ayveen: Them in our pockets, we don't eat them now.",
+          "Txarro: Yes, they're in your pockets in case, you know, you need food or something."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "The clock wakes the party",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2011",
+        "endUid": "u2019"
+      },
+      "lines": [
+        "%% u2011:0-9, u2012:0-24, u2013:0-84, u2014:0-23 %%",
+        "DM: You wake… hearing the clock chime… whatever the appropriate number of hours are for a long rest, but still before dawn. I don't know, 6, maybe?",
+        "",
+        "%% u2015:0-26 %%",
+        "Edric: 5? Yeah, 6 in the morning.",
+        "",
+        "%% u2016:0-169, u2017:0-82, u2018:0-27, u2019:0-52 %%",
+        "DM: And oddly, in your rooms, you hear it chiming, and it wakes you up at that time, which must be some sort of a magical effect of some kind. There's a tap on the door, and… the, the faithful servant, comes to collect each of you, and Alden leads you down… first, to the ground floor… and then, below the ground floor, into the basement.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kaito Min: 12 or something.",
+          "DM: If not, that's okay, Tim.",
+          "Tarek: Oh, man, I got a… I got a spoon.",
+          "Ayveen: I want a long rest, that's what I want to do.",
+          "Tarek: Well, yeah."
+        ],
+        "after": [
+          "DM: The basement itself is enormous. It's high-ceilinged. It's the same footprint as the house. The foundations of the walls above you spread out wider, so there are these sort of massive stone pillars that the house is resting on. And the stone foundation underfoot.",
+          "DM: There are the remains of… I mean… anything and everything, long moldered and turned to dust. Wooden beams that still seem in good shape, and… wrought metal, and spare parts, and a workshop in one corner, and… all the sorts of things that you would expect to find in the massive basement of an old, old manor house, but decrepit and crumbling.",
+          "DM: From his… pocket, Alden takes out… another key. He had used one to unlock the door down to the basement. Takes out a… another one, a smaller one… what seems to be gold, maybe even gold that's glowing, and… unlocks a door in the far back corner of the basement.",
+          "DM: This door opens… to… a stone… staircase that goes downwards, and the walls are a rough-hewn stone.",
+          "DM: It's clear, even with a casual inspection, that this is… this is clearly, like, an add-on. This is not the same architect who built the rest of the house. This is… rougher, it looks amateur, almost. Basic. The ceiling is low."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "The golden key opens the lower stairway",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2029",
+        "endUid": "u2037"
+      },
+      "lines": [
+        "%% u2029:0-9, u2030:0-94, u2031:0-12, u2032:0-27, u2033:0-59, u2034:0-54 %%",
+        "DM: From his… pocket, Alden takes out… another key. He had used one to unlock the door down to the basement. Takes out a… another one, a smaller one… what seems to be gold, maybe even gold that's glowing, and… unlocks a door in the far back corner of the basement.",
+        "",
+        "%% u2035:0-16, u2036:0-12, u2037:0-68 %%",
+        "DM: This door opens… to… a stone… staircase that goes downwards, and the walls are a rough-hewn stone.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You wake… hearing the clock chime… whatever the appropriate number of hours are for a long rest, but still before dawn. I don't know, 6, maybe?",
+          "Edric: 5? Yeah, 6 in the morning.",
+          "DM: And oddly, in your rooms, you hear it chiming, and it wakes you up at that time, which must be some sort of a magical effect of some kind. There's a tap on the door, and… the, the faithful servant, comes to collect each of you, and Alden leads you down… first, to the ground floor… and then, below the ground floor, into the basement.",
+          "DM: The basement itself is enormous. It's high-ceilinged. It's the same footprint as the house. The foundations of the walls above you spread out wider, so there are these sort of massive stone pillars that the house is resting on. And the stone foundation underfoot.",
+          "DM: There are the remains of… I mean… anything and everything, long moldered and turned to dust. Wooden beams that still seem in good shape, and… wrought metal, and spare parts, and a workshop in one corner, and… all the sorts of things that you would expect to find in the massive basement of an old, old manor house, but decrepit and crumbling."
+        ],
+        "after": [
+          "DM: It's clear, even with a casual inspection, that this is… this is clearly, like, an add-on. This is not the same architect who built the rest of the house. This is… rougher, it looks amateur, almost. Basic. The ceiling is low.",
+          "DM: And you go down this flight of stairs, down and down below the basement… to something lower down.",
+          "DM: Tim, I'm sending you our last background for the evening.",
+          "DM: As you come out at the bottom of the stairs, into a dirt… cellar? A dirt sub-cellar? A root cellar… with light glowing from a single candle hanging from the ceiling…",
+          "DM: All around you, the walls of the cellar are covered in roots, large and small, some of them massive, some tiny."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "Hulda promises to keep the door open",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2049",
+        "endUid": "u2086"
+      },
+      "lines": [
+        "%% u2049:0-21, u2050:0-12, u2051:0-32, u2052:0-10, u2053:0-13 %%",
+        "DM: And there's… an open… hidden door… that… Lord Hulda stands next to. Gesturing… This… is… it.",
+        "",
+        "%% u2054:0-146, u2055:0-4, u2056:0-24 %%",
+        "DM: You go through, it gets dark, just when you can't see the light of the candle behind you, then you'll see the light of the candle in front of you. And… come out the other side.",
+        "",
+        "%% u2057:0-31, u2058:0-82, u2059:0-25 %%",
+        "DM: I'll be here… I keep this open… I'll make sure nothing happens on this end. You take care of business on that end. Let me know what happens.",
+        "",
+        "%% u2060:0-47 %%",
+        "Edric: That's the first thing we see when we come out?",
+        "",
+        "%% u2061:0-100 %%",
+        "DM: You'll, you'll be in another room surrounded by roots, then you go up, up and out and onto the road.",
+        "",
+        "%% u2062:0-92 %%",
+        "Tarek: What did you mean about making sure nothing happens on this end? What could possibly happen?",
+        "",
+        "%% u2063:0-63, u2064:0-40 %%",
+        "DM: Well, I mean, obviously I don't expect anything to happen, but… I'll make sure of it, he pats his sword.",
+        "",
+        "%% u2065:0-36 %%",
+        "DM: It's not like I have other visitors.",
+        "",
+        "%% u2066:0-5 %%",
+        "Tarek: Fair.",
+        "",
+        "%% u2067:0-8, u2068:0-9, u2069:0-5, u2070:0-20, u2071:0-41, u2072:0-25, u2073:0-99, u2074:0-22, u2075:0-14, u2076:0-15, u2077:0-13, u2078:0-13, u2079:0-5, u2080:0-6, u2081:0-38, u2082:0-14, u2083:0-18, u2084:0-12 %%",
+        "((The party agrees to proceed and chooses a crawling order.))",
+        "",
+        "%% u2085:0-10, u2086:0-8 %%",
+        "DM: \"Good luck,\" he says.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: It's clear, even with a casual inspection, that this is… this is clearly, like, an add-on. This is not the same architect who built the rest of the house. This is… rougher, it looks amateur, almost. Basic. The ceiling is low.",
+          "DM: And you go down this flight of stairs, down and down below the basement… to something lower down.",
+          "DM: Tim, I'm sending you our last background for the evening.",
+          "DM: As you come out at the bottom of the stairs, into a dirt… cellar? A dirt sub-cellar? A root cellar… with light glowing from a single candle hanging from the ceiling…",
+          "DM: All around you, the walls of the cellar are covered in roots, large and small, some of them massive, some tiny."
+        ],
+        "after": [
+          "DM: You inch your way… foot by foot, down the tunnel. You realize after… a little ways… You're not actually crawling on dirt. It feels like the… tunnel itself is… is wood, maybe…",
+          "DM: Actually, anyone who wants to, give me a… give me a… investigation. Natural 20. 22. Awesome.",
+          "DM: You realize… what you're crawling through… Although the way it's laid out in the background here slightly obscures it. You're crawling through the center of an enormous root. Like, you're not crawling across roots, you're crawling down the middle of some kind of un… fathomably large tree root, maybe with… I mean, who knows how big the diameter is. But you're crawling… coming down through this crack in the center of it.",
+          "Kaito Min: That's… so, normal. Probably at the center of the root?",
+          "Ayveen: Xylem and phloem?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "The door shuts and the deed’s anomaly becomes clear",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2124",
+        "endUid": "u2135"
+      },
+      "lines": [
+        "%% u2124:0-79, u2125:0-35 %%",
+        "DM: And I'm gonna say in the moment, as you're in the process of casting the spell… You hear the door close behind you.",
+        "",
+        "%% u2126:0-122, u2127:0-23, u2128:0-63, u2129:0-40, u2130:0-23, u2131:0-32 %%",
+        "DM: And in that same moment, Tarek, you realize the thing about the contract that you didn't quite get in the moment, but now… comes together for you. Unambiguously, unquestionably, that document was 400 years old. It was not a forgery, it was not a fake. It was written… in per… perfectly contemporary Sembaran.",
+        "",
+        "%% u2132:0-55 %%",
+        "Tarek: Oh… So there's just something that doesn't add up here.",
+        "",
+        "%% u2133:0-24 %%",
+        "Ayveen: Never mind, time travel.",
+        "",
+        "%% u2134:0-66 %%",
+        "Txarro: Why didn't he take it to the Philosopher's Guild? I mean, come on.",
+        "",
+        "%% u2135:0-21 %%",
+        "DM: What's with this guy?",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kaito Min: If this was a bone, we would be wet right now.",
+          "DM: You crawl further and further, and the scant light behind you dwindles.",
+          "Txarro: I'm gonna summon…",
+          "Edric: I'm gonna summon a light, too. I'm not… This darkness thing.",
+          "DM: Yeah, why… just before… the light dwindles entirely…"
+        ],
+        "after": [
+          "Edric: Did you just hear the door closed?",
+          "Ayveen: Yes.",
+          "Tarek: Guys, there's something that doesn't add up here.",
+          "Txarro: Yeah, I told you.",
+          "Edric: Heyo!"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}
