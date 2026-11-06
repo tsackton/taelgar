@@ -1,0 +1,598 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-076",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-076/cleaned/dunmari-frontier-076-session.yaml",
+    "sessionYamlSha256": "7fe02afdc876da49363828190a78b8cd833c15154fac01faf652271f8538bc7b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-076/cleaned/dunmari-frontier-076-transcript.md",
+    "transcriptSha256": "2ddcbe080083e6bccf89f6f9dc80d225556338e393fd1bda6ac199eff18da831",
+    "yamlDates": {
+      "start": "1748-12-04",
+      "end": "1748-12-05"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0006"
+      },
+      "reading": "Opening aboard Vindristjarna in rapidly brightening predawn light.",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0006",
+          "quote": "we begin in the rapidly brightening predawn light"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "predawn",
+        "basis": "DM opening narration"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0007",
+        "endUid": "u0009"
+      },
+      "reading": "The opening recalls the completed 48-hour flight from the Dunmari plains, ending at the current predawn position; this is earlier travel, not 48 additional hours after t01.",
+      "evidence": [
+        {
+          "startUid": "u0007",
+          "endUid": "u0009",
+          "quote": "DM: It's been a long 48 hours since you left the plains of Dunmar, hundreds of miles to the east. The trip’s passed in a blur: a quick rest to set down while Kenzo and Seeker switch attunement to the phasing stone so you can fly 20 plus hours a day; the slowly changing landscape from plains to rocky deserts; the cold winds of skies thousands of feet above the plains, as Seeker pushes the skyship higher and higher."
+        }
+      ],
+      "duration": {
+        "value": 48,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "stated duration of the already completed journey"
+      },
+      "dateBoundaries": 2,
+      "context": "flashback",
+      "completion": "completed",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "reference": "t01",
+          "anchor": "departure 48 hours before the opening position",
+          "offset": {
+            "value": 48,
+            "unit": "hour",
+            "precision": "exact",
+            "basis": "stated elapsed flight interval"
+          }
+        },
+        "precision": "approximate",
+        "basis": "retrospective opening account; the departure clock is inferred from the elapsed duration"
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0018",
+        "endUid": "u0026"
+      },
+      "reading": "Morning scrying and the present breakfast resume the opening-day context after the travel recollection.",
+      "evidence": [
+        {
+          "startUid": "u0018",
+          "endUid": "u0024",
+          "quote": "And this morning Delwath sees something new."
+        },
+        {
+          "startUid": "u0025",
+          "endUid": "u0026",
+          "quote": "Now you are gathered for breakfast, and to make your plans"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "morning",
+        "basis": "stated morning scrying and breakfast; no additional day transition"
+      },
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t01"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0300",
+        "endUid": "u0306"
+      },
+      "reading": "The ship closes the distance to the border watchtower over a few hours; the later description says three or four hours have already been traveled.",
+      "evidence": [
+        {
+          "startUid": "u0300",
+          "endUid": "u0306",
+          "quote": "it takes you a few hours to to close the distance to this watchtower."
+        },
+        {
+          "startUid": "u0330",
+          "endUid": "u0337",
+          "quote": "after having already traveled 3 or 4 h"
+        }
+      ],
+      "duration": {
+        "min": 3,
+        "minInclusive": true,
+        "max": 4,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM later quantifies the completed approach"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0322",
+        "endUid": "u0326"
+      },
+      "reading": "Continued drift is provisionally placed around lunchtime before the table reopens the route decision at the border at about nine in the morning.",
+      "evidence": [
+        {
+          "startUid": "u0322",
+          "endUid": "u0326",
+          "quote": "DM: As you continue sort of drifting over the land, sort of by lunch time, say, maybe your see you're maybe somewhere like, like here, you can see far in the distance where these 2 rivers meet. There does appear to be a city, a small city, a walled city."
+        },
+        {
+          "startUid": "u0441",
+          "endUid": "u0444",
+          "quote": "So so it's like 9 in the morning. You're at the border"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "lunchtime",
+        "basis": "DM provisional flyover narration"
+      },
+      "note": "The later border clock may be a rewind or a revision of this projection. The transcript does not explicitly settle which; do not add these readings as successive elapsed intervals."
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0441",
+        "endUid": "u0444"
+      },
+      "reading": "Route selection returns to the border approach, placed at about 9 a.m.; the party then diverts toward the military fort.",
+      "evidence": [
+        {
+          "startUid": "u0441",
+          "endUid": "u0444",
+          "quote": "So so it's like 9 in the morning. You're at the border"
+        },
+        {
+          "startUid": "u0441",
+          "endUid": "u0444",
+          "quote": "I think we didn't have the idea to route around to the south until later."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "clock": "09:00",
+        "partOfDay": "morning",
+        "basis": "DM stated border clock"
+      },
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t04"
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1009",
+        "endUid": "u1024"
+      },
+      "reading": "A guard returns with paper a few minutes later, after which Vorgaz writes and dispatches the introduction.",
+      "evidence": [
+        {
+          "startUid": "u1009",
+          "endUid": "u1024",
+          "quote": "comes back a few minutes later with some paper"
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "narrated guard errand"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1100",
+        "endUid": "u1104"
+      },
+      "reading": "The forge visit and Riswynn’s aid take about half an hour; the discussed ten-minute fabrication is contained in this interval.",
+      "evidence": [
+        {
+          "startUid": "u1100",
+          "endUid": "u1104",
+          "quote": "over the course of the next, you know half an hour you go down."
+        },
+        {
+          "startUid": "u1119",
+          "endUid": "u1124",
+          "quote": "Riswynn: So I make. So I, with my spell, make a big pile of arrow heads, and that's what he reacted to. That's what he was pleased about. Yeah. So I asked, may I touch your sword?\n\n%% u1121:0-4 %%\nDM: Yes.\n\n%% u1122:0-115 %%\nRiswynn: So then again, without visibly praying that we’re praying, muttering a few words in Dwarvish. Yes, the sword glows.\n\n%% u1123:0-12, u1124:0-14 %%\nDM: And he looks quite pleased."
+        }
+      ],
+      "duration": {
+        "value": 30,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM elapsed forge visit"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1155",
+        "endUid": "u1163"
+      },
+      "reading": "The party leaves the fort at about 2:30 p.m.; twelve hours to the capital is a travel forecast, not a separately measured elapsed interval.",
+      "evidence": [
+        {
+          "startUid": "u1155",
+          "endUid": "u1163",
+          "quote": "DM: So it's a 120 miles straight to the—straight to the to the capital. It is. It's probably around 2, 30 in the afternoon by the time you leave this fort. 120 miles would be 12 h, so you would be getting there.\n\n%% u1162:0-4 %%\nDelwath: That.\n\n%% u1163:0-20 %%\nDM: Middle of the night."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "clock": "14:30",
+        "partOfDay": "afternoon",
+        "basis": "DM departure clock"
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1173",
+        "endUid": "u1179"
+      },
+      "reading": "Delwath scries Ulfgar and Govir during the evening flight.",
+      "evidence": [
+        {
+          "startUid": "u1173",
+          "endUid": "u1179",
+          "quote": "As you're flying this evening is also the evening when you had told Govir and Ulfgar that Delwath would scry them to get their research."
+        },
+        {
+          "startUid": "u1222",
+          "endUid": "u1222",
+          "quote": "And then you scry on Govir."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "evening",
+        "basis": "DM explicitly dates the research scrying during flight"
+      }
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1272",
+        "endUid": "u1285"
+      },
+      "reading": "The flight continues through the night, ending over Uzgukhar by sunrise the next morning. Seeker keeps the ship moving while the others rest.",
+      "evidence": [
+        {
+          "startUid": "u1272",
+          "endUid": "u1277",
+          "quote": "DM: Then the night passes. You rest fitfully, as the airship travels, Seeker keeping the ship going in the night. And you see, as you, as you drift over the dark mountains below, you see few lights or fires burning anywhere except in the city where there is."
+        },
+        {
+          "startUid": "u1282",
+          "endUid": "u1285",
+          "quote": "DM: So you sleep. And the next morning, the sun rises over the city of."
+        },
+        {
+          "startUid": "u1287",
+          "endUid": "u1297",
+          "quote": "Uzgukhar. And you can see you actually see the the dust of a rider riding at speed from the West"
+        }
+      ],
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "clock": "14:30",
+          "partOfDay": "afternoon",
+          "basis": "departure t09"
+        },
+        "end": {
+          "precision": "approximate",
+          "partOfDay": "sunrise",
+          "relative": {
+            "relation": "after",
+            "reference": "t09",
+            "anchor": "the next morning"
+          },
+          "basis": "night passes and the next morning sun rises over the reached city"
+        }
+      }
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1278",
+        "endUid": "u1285"
+      },
+      "reading": "Kenzo, Delwath, Wellby and Riswynn complete a long rest during the overnight flight; Seeker is explicitly keeping the ship going.",
+      "evidence": [
+        {
+          "startUid": "u1272",
+          "endUid": "u1277",
+          "quote": "You rest fitfully, as the airship travels, Seeker keeping the ship going in the night."
+        },
+        {
+          "startUid": "u1278",
+          "endUid": "u1285",
+          "quote": "Riswynn: Hey? Tim? Yeah. So so we're going to get a long rest, or we're anticipating a long rest before I even get at your long rest right now—before I go to bed, I also just grab some metals that we must have some metal at some point. Yeah, and do another arrowhead-making because it's I'm going to. Why not use up all my fourth—yeah, yeah. Sleeping on a ship safely.\n\n%% u1282:0-34, u1283:0-13, u1284:0-4, u1285:0-11 %%\nDM: So you sleep. And the next morning, the sun rises over the city of."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention; completed sleep and awarded long rest"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t11"
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1287",
+        "endUid": "u1297"
+      },
+      "reading": "The party waits an hour for the messenger’s arrival and delivery; by about 8 a.m. it judges descent safe.",
+      "evidence": [
+        {
+          "startUid": "u1287",
+          "endUid": "u1297",
+          "quote": "As you wait an hour for them to arrive and and pass on their letter, and by, you know, 8 or so, as the sun has risen and the day is full light"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "narrated wait for the messenger"
+      },
+      "time": {
+        "precision": "approximate",
+        "clock": "08:00",
+        "partOfDay": "morning",
+        "basis": "DM says by eight or so the message has been received"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1545",
+        "endUid": "u1553"
+      },
+      "reading": "The initial locked-room wait is resolved at three hours, when the visitors knock; the earlier four-hour continuation is revised by this intervention.",
+      "evidence": [
+        {
+          "startUid": "u1545",
+          "endUid": "u1548",
+          "quote": "2 h pass. 3 h. 4 h."
+        },
+        {
+          "startUid": "u1553",
+          "endUid": "u1553",
+          "quote": "Riswynn: We try that at like 3 h? That 3 h you knock on the door. Yeah."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 3,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Riswynn chooses the three-hour point and the DM accepts the knock"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1610",
+        "endUid": "u1617"
+      },
+      "reading": "The same guard returns with refreshments about fifteen minutes after the visitors’ request.",
+      "evidence": [
+        {
+          "startUid": "u1610",
+          "endUid": "u1615",
+          "quote": "About 15 min later he comes back."
+        },
+        {
+          "startUid": "u1616",
+          "endUid": "u1617",
+          "quote": "because it's only been 15 min."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 15,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "elapsed errand, confirmed in the following turn"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u1630",
+        "endUid": "u1633"
+      },
+      "reading": "Another hour or so passes before the guard announces the audience at about 1:30 p.m.",
+      "evidence": [
+        {
+          "startUid": "u1630",
+          "endUid": "u1633",
+          "quote": "DM: Hour or so passes. It's now about 1 30, when a knock—another knock comes at the door. And he opens the door. The same guard. And he sort of motions, says in Orcish Lubash is ready. Chief Lubash is ready to speak to you now."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated further wait"
+      },
+      "time": {
+        "precision": "approximate",
+        "clock": "13:30",
+        "basis": "DM says about 1:30; p.m. follows from the earlier morning and elapsed wait"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u1900",
+        "endUid": "u1911"
+      },
+      "reading": "The party’s account to Lubash lasts an hour or more; refreshments after about an hour are within the same telling.",
+      "evidence": [
+        {
+          "startUid": "u1900",
+          "endUid": "u1900",
+          "quote": "this tale goes on for an hour or more as you talk"
+        },
+        {
+          "startUid": "u1906",
+          "endUid": "u1911",
+          "quote": "DM: After about an hour, he one of the you know the guards have stepped out of the room, but one of them sticks his head in, and and some refreshments that are brought, some some iced tea. And some little like pastry snacks, and he continues to listen to the tale. And as your tale concludes, he, he looks again at the loremaster, and he says Apollyon's return is indeed news. Cha'mutte saved us from him once before. But he is gone."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "duration": {
+        "min": 1,
+        "minInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM duration, with an internal refreshment point after about one hour"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u2076",
+        "endUid": "u2087"
+      },
+      "reading": "Lubash briefly opens the cloak for about a minute so Delwath can check for scrying and cast Tongues, then closes it again.",
+      "evidence": [
+        {
+          "startUid": "u2076",
+          "endUid": "u2083",
+          "quote": "for a minute you feel like the like all of the gods like back the way it normally is."
+        },
+        {
+          "startUid": "u2084",
+          "endUid": "u2087",
+          "quote": "Delwath: I'll do my thing, but I'm sure it's pointless. I'll take the opportunity to cast tongues, too, while I'm at it. Okay.\n\n%% u2085:0-22 %%\nDM: Throws the cloak back.\n\n%% u2086:0-24 %%\nDM: I mean, you see nothing.\n\n%% u2086:24-61, u2087:0-120 %%\nDelwath: Yeah. But, as you say, I, I suspect should he have been watching, it's too late for us to see where he would have dismissed the spell before I could see it."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM temporary opening of the cloak"
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No current calendar date is spoken. YAML supplies December 4–5, 1748 for the predawn opening through the following-day audience; t02 additionally recalls the preceding 48-hour journey.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t11",
+      "t13",
+      "t16"
+    ],
+    "explanation": "Active play establishes one overnight transition. Including the opening journey recollection extends the represented adventure interval by two earlier days; its coverage boundary is not independently defined in this transcript. The compatible active-play reading does not independently confirm absolute dates or erase that earlier interval."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t01",
+        "t02"
+      ],
+      "reading": "The opening begins at predawn but immediately recounts the previous 48 hours; whether the metadata span includes that recap is not stated.",
+      "alternatives": [
+        {
+          "reading": "If drStart names the opening predawn scene, retain December 4 and treat the preceding travel as a handoff recap.",
+          "date": "1748-12-04"
+        },
+        {
+          "reading": "If the metadata must cover the recalled travel too, its departure is about December 2, conditional on the December 4 opening.",
+          "date": "1748-12-02"
+        }
+      ]
+    }
+  ]
+}

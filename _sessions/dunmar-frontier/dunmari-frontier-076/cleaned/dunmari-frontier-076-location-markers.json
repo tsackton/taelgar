@@ -1,0 +1,1111 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-076",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-076/cleaned/dunmari-frontier-076-session.yaml",
+    "sessionYamlSha256": "7fe02afdc876da49363828190a78b8cd833c15154fac01faf652271f8538bc7b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-076/cleaned/dunmari-frontier-076-transcript.md",
+    "transcriptSha256": "2ddcbe080083e6bccf89f6f9dc80d225556338e393fd1bda6ac199eff18da831"
+  },
+  "places": {
+    "p01": {
+      "label": "Vindristjarna",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0006",
+          "quote": "hovering on the skieship Vindristjarna"
+        }
+      ],
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p02": {
+      "label": "Desert approach to the orc border",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0006",
+          "quote": "DM: Okay. So we begin in the rapidly brightening predawn light, hovering on the skieship Vindristjarna, no more than 40 miles from the borders of the orclands. Ahead of you, you can see a river cutting through the desert, slow and muddy, and on the western banks the ground is rocky and barren, but the eastern banks stretch into the distance an irrigated plain on which cattle graze and a colorful watchtower rises above the plain. Oh, I forgot I had a— There we go. This, you surmise, must be the land of the Orcs that you are seeking."
+        },
+        {
+          "startUid": "u0213",
+          "endUid": "u0214",
+          "quote": "DM: I mean you're fairly high up. They'll, I presume, about 40 miles west of the border of the orc lands."
+        }
+      ],
+      "note": "The ship is off the border, above the desert rather than within the settled land."
+    },
+    "p03": {
+      "label": "Plains of Dunmar",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0007",
+          "endUid": "u0009",
+          "quote": "since you left the plains of Dunmar, hundreds of miles to the east."
+        }
+      ]
+    },
+    "p04": {
+      "label": "Xurkhaz",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u0568",
+          "endUid": "u0571",
+          "quote": "DM: And this this guy, who appears to be the commander here yells up again to you. What business have intruders in Xurkhaz? Turn back or be repelled."
+        },
+        {
+          "startUid": "u0982",
+          "endUid": "u0992",
+          "quote": "DM: He laughs. Baring your ignorance, I guess. Why should some foreigner know our history?\n\n%% u0985:17-54, u0986:0-26, u0987:0-15 %%\nDelwath: I just admitted my ignorance to you. I am willing to own it and try to correct.\n\n%% u0987:15-22, u0988:0-19, u0989:0-7, u0990:0-21, u0991:0-49, u0992:0-29 %%\nDM: Uzgash founded the land of Xurkhaz many generations ago. Not many of your generations. He looks at Delwath or yours. He looks at Riswynn."
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Xurkhaz/Xurkhaz.md"
+    },
+    "p05": {
+      "label": "Northern colorful border watchtower",
+      "kind": "watchtower",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0006",
+          "quote": "a colorful watchtower rises above the plain."
+        },
+        {
+          "startUid": "u0275",
+          "endUid": "u0276",
+          "quote": "This seems to be the northernmost."
+        }
+      ]
+    },
+    "p06": {
+      "label": "Vorgaz’s fortified border town",
+      "kind": "fortified town",
+      "evidence": [
+        {
+          "startUid": "u0505",
+          "endUid": "u0510",
+          "quote": "DM: Okay, other side of the river, right? So I was. Exactly what? So exactly what we're doing. Seeker’s plan on the outskirts of. So there's this. You know. Their fortification is this is a walled town. It's, I mean. Your estimation is no more than 500 people could live inside the walls at most, and that would be crowded. It's not a huge place. But you know the the camp set up on the outskirts is easily 3 times that right, maybe a 1,500 people and a non-trivial. Army. This is. This is a a serious force, and as you begin to come lower towards the top of one of these towers, so there's like 2 towers that are sort of upriver, and the downriver of the fort itself. And then there's the fortress which has these thick walls that overlook the river, arrow slits, like, well fortified. You hear horns going up."
+        },
+        {
+          "startUid": "u0792",
+          "endUid": "u0796",
+          "quote": "DM: He— introduced, by the way, he introduced himself as Commander Vorgaz, and he sort of his. He seems to be growing increasingly concerned as you're speaking. He says. How came you by this knowledge?"
+        }
+      ],
+      "note": "The transcript leaves the fort unnamed. People/Orcs/Vorgaz.md identifies his western-border garrison as Khumarz, corroborated by Gazetteer/Upper Istaros/Xurkhaz/Khumarz.md.",
+      "vaultPath": "Gazetteer/Upper Istaros/Xurkhaz/Khumarz.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0568",
+              "endUid": "u0571",
+              "quote": "What business have intruders in Xurkhaz?"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Ground outside Vorgaz’s fortress",
+      "kind": "grounds",
+      "evidence": [
+        {
+          "startUid": "u0666",
+          "endUid": "u0672",
+          "quote": "landing on the ground outside this fortress"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0666",
+              "endUid": "u0672",
+              "quote": "landing on the ground outside this fortress"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Yellow-and-gold hall in the fort",
+      "kind": "hall",
+      "evidence": [
+        {
+          "startUid": "u0724",
+          "endUid": "u0737",
+          "quote": "DM: With the the Orc lead you with his troop of, you know, with about 6 of the guards. A handful of them stay outside and lead you in through a sort of there's like a few gates on the outside of this fort, and the walls are, I mean you go through thick walls. This is a well well fortified position.\n\n%% u0726:0-63, u0727:0-74 %%\nWellby: Another gate [garbled] How old is this? Is there a sense? Is this within the last 150 years? Yes, it's not it. It does not feel old.\n\n%% u0728:0-43, u0729:0-77, u0730:0-126, u0731:0-105, u0732:0-45, u0733:0-36 %%\nDM: All you know. The paint is fresh like this. You know Everything's brightly colored, and it it feels everything feels new. And he leads you there's a there's a courtyard, and he leads you through the courtyard into a like a small hall that has these bright yellow and gold banners that are hanging down, and in front of you know, on the sides, and the the walls of this small hall are are painted, and in sort of golds and greens as well.\n\n%% u0734:0-104, u0735:0-11, u0736:0-10, u0737:0-115 %%\nDM: And he gestures you sit. There's a table. He whistles, and and you know an orc comes out with some food. Now tell me how will 5 possible spies or possible allies do anything at all against an army of thousands that is marching to our doorstep?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0724",
+              "endUid": "u0725",
+              "quote": "DM: With the the Orc lead you with his troop of, you know, with about 6 of the guards. A handful of them stay outside and lead you in through a sort of there's like a few gates on the outside of this fort, and the walls are, I mean you go through thick walls. This is a well well fortified position."
+            },
+            {
+              "startUid": "u0728",
+              "endUid": "u0733",
+              "quote": "he leads you through the courtyard into a like a small hall"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Forges in the fort",
+      "kind": "forge",
+      "evidence": [
+        {
+          "startUid": "u1100",
+          "endUid": "u1104",
+          "quote": "DM: So over the course of the next, you know half an hour you go down. You get the materials from the forge, and you start to make the arrows, and as you're sort of praying and casting the spell, he looks sort of taken aback, and he says— he like shoos a bunch of the other orcs out, and he says."
+        },
+        {
+          "startUid": "u1110",
+          "endUid": "u1117",
+          "quote": "the sense you get down here in the forges"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1100",
+              "endUid": "u1104",
+              "quote": "you go down. You get the materials from the forge"
+            },
+            {
+              "startUid": "u1110",
+              "endUid": "u1117",
+              "quote": "down here in the forges"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Uzgukhar",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u1287",
+          "endUid": "u1297",
+          "quote": "DM: Uzgukhar. And you can see you actually see the the dust of a rider riding at speed from the West, which you presume is the messenger. As you wait an hour for them to arrive and and pass on their letter, and by, you know, 8 or so, as the sun has risen and the day is full light, you figure it's, you know, the message has been received, and it's safe to descend. Should you wish to. They're still quite high up, so you know, visible, but not clearly big."
+        },
+        {
+          "startUid": "u1506",
+          "endUid": "u1509",
+          "quote": "DM: Welcome strangers, at the city of Uzgukhar. Chief Lubash will speak with you. And she gestures and said something, and in orcish to one of the soldiers. She says you may not enter the city armed."
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Xurkhaz/Uzgukhar.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1155",
+              "endUid": "u1161",
+              "quote": "straight to the to the capital."
+            },
+            {
+              "startUid": "u1299",
+              "endUid": "u1307",
+              "quote": "here in the heart"
+            },
+            {
+              "startUid": "u1797",
+              "endUid": "u1804",
+              "quote": "find their way here, where we could be safe."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Lubash’s palace",
+      "kind": "palace",
+      "evidence": [
+        {
+          "startUid": "u1494",
+          "endUid": "u1501",
+          "quote": "DM: And there are, I mean, there's again, it's not huge right, like, probably a 1,000 people could live here at most. But there's a wide street that runs from the main gates of the walls, up to a a large open plaza, at the head of which stands this mud-brick palace, of sorts, with, you know, 2 sort of large towers on the front of the facade, and everything is, you know, everything is done in these sort of multicolored bricks. Right? The palace has this a very elaborate fresco on the front of it, done in tiny painted bricks seems to be depicting like scenes from their history, or something you see Orcs fighting. You see, like a you know, the city being planted in this red and gold there, this red and gold banner being like planted in the ground. Presumably some one of the orcs depicted here as Uzgash!"
+        },
+        {
+          "startUid": "u1514",
+          "endUid": "u1527",
+          "quote": "DM: She motions for you to follow. And 2 of the guards remain watching the other 6 lead you into the. Into, the into the city. And you you pass pass through the gates, and you see there's you know. There's a a decent population, you see. You see, Orcs sort of hang out of the windows watching you like little kids running in the street like pale green skin, whose tusks haven't grown in yet, running in. Mostly everybody is wearing sort of a brightly colored like light cotton tunics cloaks. And and you're being led to the palace. And this this guard takes you to a small room. And says the chief has many demands on his time. But please wait, and he will see you as soon as he can. Shuts the door and locks it, and bars it from the outside as she leaves."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1514",
+              "endUid": "u1527",
+              "quote": "Into, the into the city."
+            },
+            {
+              "startUid": "u1514",
+              "endUid": "u1527",
+              "quote": "you're being led to the palace."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Landing ground outside Uzgukhar",
+      "kind": "grounds",
+      "evidence": [
+        {
+          "startUid": "u1485",
+          "endUid": "u1490",
+          "quote": "DM: Okay. You descend. And as you I mean as the airship lowers. You can see there's like clearly people watching, and there's and commotion, and a small group of soldiers rides out or marches out from the city to meet you, and and the city is like."
+        },
+        {
+          "startUid": "u1502",
+          "endUid": "u1512",
+          "quote": "DM: And as you land the 8 soldiers that have come out to meet you. One of them steps forward and speaks in halting common. And she says.\n\n%% u1505:0-3 %%\nUnknown: You.\n\n%% u1506:0-42, u1507:0-33, u1508:0-53, u1509:0-63 %%\nDM: Welcome strangers, at the city of Uzgukhar. Chief Lubash will speak with you. And she gestures and said something, and in orcish to one of the soldiers. She says you may not enter the city armed.\n\n%% u1510:0-28, u1511:0-27 %%\nDM: My companions will wait here beneath your flying castle.\n\n%% u1512:0-88 %%\nDM: Watching. Anybody actually bring weapons down here? We just leave them all in the ship.\n\n%% u1512:88-126 %%\nKenzo: I left my staff this time on the ship.\n\n%% u1512:126-132 %%\nDM: Okay."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1485",
+              "endUid": "u1490",
+              "quote": "a small group of soldiers rides out or marches out from the city to meet you"
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Locked palace waiting room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1514",
+          "endUid": "u1527",
+          "quote": "DM: She motions for you to follow. And 2 of the guards remain watching the other 6 lead you into the. Into, the into the city. And you you pass pass through the gates, and you see there's you know. There's a a decent population, you see. You see, Orcs sort of hang out of the windows watching you like little kids running in the street like pale green skin, whose tusks haven't grown in yet, running in. Mostly everybody is wearing sort of a brightly colored like light cotton tunics cloaks. And and you're being led to the palace. And this this guard takes you to a small room. And says the chief has many demands on his time. But please wait, and he will see you as soon as he can. Shuts the door and locks it, and bars it from the outside as she leaves."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1514",
+              "endUid": "u1527",
+              "quote": "you're being led to the palace. And this this guard takes you to a small room."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Lubash’s throne room",
+      "kind": "hall",
+      "evidence": [
+        {
+          "startUid": "u1636",
+          "endUid": "u1663",
+          "quote": "DM: He leads you down a hallway into a large chamber. As you approach, as you begin to approach the chamber, maybe, I don't know, 50 feet down from the door, Riswynn and Delwath and Kenzo, you feel silence fall like the gods are, and the Tanshi are not here. The dwarven gods are not here. The Dunmari gods are not here.\n\n%% u1643:0-8 %%\nKenzo: Complete.\n\n%% u1644:0-8 %%\nDM: Silence.\n\n%% u1645:0-18 %%\nKenzo: Strange sensation.\n\n%% u1646:0-40, u1647:0-22 %%\nDM: The orc doesn't seem to notice anything. And then leads you in.\n\n%% u1647:22-54 %%\nKenzo: Well, he's got this he doesn't.\n\n%% u1648:0-112 %%\nDM: No. You also notice, like you know, you always have the sense of like that halfling sort of ancestral mind which.\n\n%% u1649:0-5, u1650:0-3 %%\nWellby: Fades. Oh.\n\n%% u1651:0-4 %%\nKenzo: Cool.\n\n%% u1652:0-60, u1653:0-109, u1654:0-14, u1655:0-99, u1656:0-47, u1657:0-16, u1658:0-122, u1659:0-101, u1660:0-70, u1661:0-40, u1662:0-71, u1663:0-61 %%\nDM: And the door swings open and you see seated on a throne, but so the room itself is quite elegant. It's, you know. There's 8 pillars, 4 on either side, that lead down this throne room to a raised dais. Each pillar is painted a different color. So you have, like 8 colors of the rainbow. The ceiling itself is arched, golden, golden dome that seems to be like gilded, painted. Probably not. It's not actual gold. It's like gold paint or something like that, but it's reflective and shining almost like a sun motif. And there's these red and gold sort of diamond patterns that are painted along the along the ceiling, and there's banners hanging along colorful depictions of like moments, and you know of orcs of maybe previous rulers, or something like that woven out of cloth, and then dyed in this sort of elaborate manner."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1514",
+              "endUid": "u1527",
+              "quote": "you're being led to the palace."
+            },
+            {
+              "startUid": "u1636",
+              "endUid": "u1642",
+              "quote": "He leads you down a hallway into a large chamber."
+            },
+            {
+              "startUid": "u1652",
+              "endUid": "u1663",
+              "quote": "lead down this throne room to a raised dais."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Plains near Tokra",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0010",
+          "endUid": "u0013",
+          "quote": "DM: From Delwath’s magic you catch glimpses of others on the plains near Tokra: Sura prepares to march, readying her troops for battle, Havdar at her side, now carrying a spear in place of the cursed sword he once bore. Sura rides among the troops, speaking to them softly, reminding those who would fight with her that the fire of Aagir's spear is with them."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u0010",
+              "endUid": "u0013",
+              "quote": "on the plains near Tokra"
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Tokra",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0010",
+          "endUid": "u0013",
+          "quote": "on the plains near Tokra"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra.md"
+    },
+    "p17": {
+      "label": "Grash’s army in the southern desert",
+      "kind": "army camp",
+      "evidence": [
+        {
+          "startUid": "u0014",
+          "endUid": "u0024",
+          "quote": "DM: To the south, Grash’s army grows with each passing day during the march across the desert. Grash seems to have gathered small groups of wandering orcs to him here and there, and they now flock to his banner. They march, march tirelessly, although not with anything like the speed of Vindristjarna, that you can fly. You now seem to be a few days ahead of the army, despite leaving the plains of Dunmar some days after Grash left Kharsan.\n\n%% u0018:0-109, u0019:0-27, u0020:0-154, u0021:0-66, u0022:0-171, u0023:0-19, u0024:0-64 %%\nDM: Kadmos and his companions continue to march alongside the army, if somewhat apart from them. And this morning Delwath sees something new. 3 more humans joining Kadmos: 2 men who look nearly identical with scruffy black hair and beards, one wearing a dented breastplate and carrying a longbow, and the other wearing plate armor and carrying a sword and shield, and with them a woman in her 50s, wearing a dust-stained cloak over simple traveling clothes, carrying nothing. Kadmos greets them, gesturing for silence as they approach. And then looking up at your scrying sensor and giving a short bow in your direction."
+        },
+        {
+          "startUid": "u0045",
+          "endUid": "u0045",
+          "quote": "DM: Probably it's in sandier, or drier desert, so probably south of you. You don't know exactly where."
+        }
+      ],
+      "note": "The army’s exact position remains unknown."
+    },
+    "p18": {
+      "label": "Ulfgar’s private study",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1173",
+          "endUid": "u1179",
+          "quote": "DM: As you're flying this evening is also the evening when you had told Govir and Ulfgar that Delwath would scry them to get their research. So let's do that. So you scry Ulfgar first. And you see him pacing clearly a bit nervous. This, like your dwarf Scholar Dude keeps glancing about like he's in a small room, clearly a a private study or something, and scattered across his desk are like 10 pages of notes, all sort of scribbled and written in Dwarvish, and he's sort of glancing around them and like then he's not. Looks like he's not really sure if he's supposed to be looking at the notes, or looking up in the sky or sitting, and he doesn't quite know what to do with himself, and he's certainly like a bit, you know, nervous and uncertain."
+        }
+      ],
+      "note": "The transcript calls Ulfgar Seeker’s friend in Chardon (u1225), but does not locate the study."
+    },
+    "p19": {
+      "label": "Govir’s archives",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u1238",
+          "endUid": "u1245",
+          "quote": "DM: So Govir in contrast, is sitting in the archives reading, and he's written a neat letter that's spread out over 4 pages of text laid out nicely, clearly visible and easy to read. And the letter starts by apologizing for the lack of information. The archives have little to say about pre-Dunmari history, and a few colleagues suggested that he find Cavarrio's chronicles of Drankor but he didn't have time to locate a copy. Yeah. He hoped he might at least find more information about the mantle of protection. But the records from before the great war are badly disorganized, and many require careful handling, and so he needs more time. And then he notes. If you are well, if you are able and willing to check again in a week, I may know more. I mean he's underlined that neatly written."
+        }
+      ],
+      "note": "Govir’s workplace is verified against People/Dunmari/Govir.md and the linked Archives note. Tokra is vault-only orientation; the scrying narration names only the archives.",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Archives.md"
+    },
+    "p20": {
+      "label": "Air near the northern watchtower",
+      "kind": "airspace",
+      "evidence": [
+        {
+          "startUid": "u0300",
+          "endUid": "u0306",
+          "quote": "DM: A 100 miles a day. No, 100 miles every—you're going 10 miles an hour is the speed of the ship, right? So you know it takes you a few hours to to close the distance to this watchtower. And as you do. You can. You note a few things. One is, you see that irrigated land stretches quite a distance to the east. And there are, you know, a handful of Orcs. There's clearly people in the watchtower. They're too so far away to make out any details like you can't see expressions or anything. They're just like little tiny dots down far below. There's there's people tending the the horses that are grazing. There's not. You don't see much in the way of cities."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0300",
+              "endUid": "u0306",
+              "quote": "little tiny dots down far below."
+            }
+          ]
+        }
+      ]
+    },
+    "p21": {
+      "label": "Air outside Vorgaz’s fort",
+      "kind": "airspace",
+      "evidence": [
+        {
+          "startUid": "u0557",
+          "endUid": "u0567",
+          "quote": "Delwath: I relay that we should hold our approach. I stopped the ship. How close are we?\n\n%% u0559:0-24, u0560:0-58, u0561:0-74, u0562:0-45, u0563:0-23, u0564:0-9, u0565:0-100, u0566:0-75, u0567:0-45 %%\nDM: Oh, maybe 100 feet away! And he he! He looks around, and he signals. And one of the one of the orcs next to him blows this like complicated pattern on a horn. And you can see now movement in the distance. There seems to be like. You know. A few dozen or a 100 archers that are organizing on the coming out on the battlements, getting their getting their arrows ready, and these like—so what look like scouts, maybe a half dozen orcs on fast horses riding West."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0557",
+              "endUid": "u0567",
+              "quote": "maybe 100 feet away!"
+            }
+          ]
+        }
+      ]
+    },
+    "p22": {
+      "label": "Air above Uzgukhar",
+      "kind": "airspace",
+      "evidence": [
+        {
+          "startUid": "u1287",
+          "endUid": "u1297",
+          "quote": "DM: Uzgukhar. And you can see you actually see the the dust of a rider riding at speed from the West, which you presume is the messenger. As you wait an hour for them to arrive and and pass on their letter, and by, you know, 8 or so, as the sun has risen and the day is full light, you figure it's, you know, the message has been received, and it's safe to descend. Should you wish to. They're still quite high up, so you know, visible, but not clearly big."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1287",
+              "endUid": "u1297",
+              "quote": "They're still quite high up"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0006"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party begins aboard Vindristjarna, hovering off the orc border in the desert.",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0006",
+          "quote": "DM: Okay. So we begin in the rapidly brightening predawn light, hovering on the skieship Vindristjarna, no more than 40 miles from the borders of the orclands. Ahead of you, you can see a river cutting through the desert, slow and muddy, and on the western banks the ground is rocky and barren, but the eastern banks stretch into the distance an irrigated plain on which cattle graze and a colorful watchtower rises above the plain. Oh, I forgot I had a— There we go. This, you surmise, must be the land of the Orcs that you are seeking."
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "off_border_of",
+          "target": "p04"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0007",
+        "endUid": "u0009"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The opening recalls the completed flight from the Dunmari plains to the current border approach, with brief landings to switch pilots.",
+      "evidence": [
+        {
+          "startUid": "u0007",
+          "endUid": "u0009",
+          "quote": "DM: It's been a long 48 hours since you left the plains of Dunmar, hundreds of miles to the east. The trip’s passed in a blur: a quick rest to set down while Kenzo and Seeker switch attunement to the phasing stone so you can fly 20 plus hours a day; the slowly changing landscape from plains to rocky deserts; the cold winds of skies thousands of feet above the plains, as Seeker pushes the skyship higher and higher."
+        },
+        {
+          "startUid": "u0002",
+          "endUid": "u0006",
+          "quote": "no more than 40 miles from the borders of the orclands."
+        }
+      ],
+      "context": "flashback",
+      "from": "p03",
+      "to": "p02",
+      "completion": "arrived",
+      "vehicle": "p01",
+      "mode": "fly",
+      "duration": {
+        "value": 48,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "stated elapsed journey"
+      }
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0010",
+        "endUid": "u0013"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Through scrying, Delwath sees Sura and Havdar preparing troops on the plains near Tokra.",
+      "evidence": [
+        {
+          "startUid": "u0010",
+          "endUid": "u0013",
+          "quote": "DM: From Delwath’s magic you catch glimpses of others on the plains near Tokra: Sura prepares to march, readying her troops for battle, Havdar at her side, now carrying a spear in place of the cursed sword he once bore. Sura rides among the troops, speaking to them softly, reminding those who would fight with her that the fire of Aagir's spear is with them."
+        },
+        {
+          "startUid": "u0047",
+          "endUid": "u0048",
+          "quote": "he sees it in his bowl of silver water, or whatever, and then relays the image to you."
+        }
+      ],
+      "place": "p15",
+      "observerPlace": "p01",
+      "observedActors": [
+        "Sura",
+        "Havdar"
+      ],
+      "mode": "remote"
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0014",
+        "endUid": "u0024"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scrying shows Grash’s army and three new humans joining Kadmos; the army’s precise position is unknown.",
+      "evidence": [
+        {
+          "startUid": "u0014",
+          "endUid": "u0024",
+          "quote": "DM: To the south, Grash’s army grows with each passing day during the march across the desert. Grash seems to have gathered small groups of wandering orcs to him here and there, and they now flock to his banner. They march, march tirelessly, although not with anything like the speed of Vindristjarna, that you can fly. You now seem to be a few days ahead of the army, despite leaving the plains of Dunmar some days after Grash left Kharsan.\n\n%% u0018:0-109, u0019:0-27, u0020:0-154, u0021:0-66, u0022:0-171, u0023:0-19, u0024:0-64 %%\nDM: Kadmos and his companions continue to march alongside the army, if somewhat apart from them. And this morning Delwath sees something new. 3 more humans joining Kadmos: 2 men who look nearly identical with scruffy black hair and beards, one wearing a dented breastplate and carrying a longbow, and the other wearing plate armor and carrying a sword and shield, and with them a woman in her 50s, wearing a dust-stained cloak over simple traveling clothes, carrying nothing. Kadmos greets them, gesturing for silence as they approach. And then looking up at your scrying sensor and giving a short bow in your direction."
+        },
+        {
+          "startUid": "u0045",
+          "endUid": "u0045",
+          "quote": "You don't know exactly where."
+        }
+      ],
+      "place": "p17",
+      "observerPlace": "p01",
+      "observedActors": [
+        "Kadmos",
+        "Three new human arrivals"
+      ],
+      "mode": "remote"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0296",
+        "endUid": "u0306"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Vindristjarna rises and closes the distance to the border watchtower over a few hours; the occupants remain aboard.",
+      "evidence": [
+        {
+          "startUid": "u0296",
+          "endUid": "u0306",
+          "quote": "Seeker: I thought our plan was to overfly, do animal messenger to get a sense of everything, then have this conversation once we have more information. But let's do that. Seeker like coughs and and wipes his face a little bit. This is all right. I'm driving back over to the phasing stone.\n\n%% u0297:0-98, u0298:0-18 %%\nDM: I think that's a bad idea. I think that's about it. We begin to get straight up into the sky like— So, though you fly.\n\n%% u0299:0-59 %%\nSeeker: Going straight up for the right, you're going. You're going.\n\n%% u0300:0-103, u0301:0-78, u0302:0-63, u0303:0-145, u0304:0-158, u0305:0-47, u0306:0-53 %%\nDM: A 100 miles a day. No, 100 miles every—you're going 10 miles an hour is the speed of the ship, right? So you know it takes you a few hours to to close the distance to this watchtower. And as you do. You can. You note a few things. One is, you see that irrigated land stretches quite a distance to the east. And there are, you know, a handful of Orcs. There's clearly people in the watchtower. They're too so far away to make out any details like you can't see expressions or anything. They're just like little tiny dots down far below. There's there's people tending the the horses that are grazing. There's not. You don't see much in the way of cities."
+        }
+      ],
+      "from": "p02",
+      "to": "p20",
+      "completion": "arrived",
+      "mode": "fly",
+      "vehicle": "p01",
+      "note": "Arrival is over the watchtower area, not entry into the tower.",
+      "route": [
+        {
+          "reading": "High-altitude approach above the border watchtower; no landing."
+        }
+      ],
+      "duration": {
+        "text": "a few hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "DM completed approach"
+      }
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0311",
+        "endUid": "u0337"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From high in the ship the party sees the rural realm, the fortified town and a distant walled city near the river confluence.",
+      "evidence": [
+        {
+          "startUid": "u0311",
+          "endUid": "u0337",
+          "quote": "DM: And you know, from your perspective way high up you can see a pretty good distance, right like you can probably see a 100 miles, 150 miles. And you can see like—so one thing is, you can see that the settled land tends to— Looks like it goes south and east, like along the river, and then towards the like gap here between these 2 rivers.\n\n%% u0318:0-62, u0319:0-108, u0320:0-116, u0321:0-12 %%\nDM: You see very few cities to the south of you, about maybe here. Somewhere down here there is one sort of fortified town, but it's small. It seems hardly bigger than Karawa. But with, you know, thick walls, and it seems to be at the center of this line of watch towers that continues to run to the south.\n\n%% u0322:0-70, u0323:0-15, u0324:0-31, u0325:0-21, u0326:0-107 %%\nDM: As you continue sort of drifting over the land, sort of by lunch time, say, maybe your see you're maybe somewhere like, like here, you can see far in the distance where these 2 rivers meet. There does appear to be a city, a small city, a walled city.\n\n%% u0327:0-18 %%\nDelwath: Also with colorful.\n\n%% u0328:0-132, u0329:0-106 %%\nDM: Yeah, everywhere is every. All of the buildings are painted with these blue and orange and red geometric patterns, stripes, designs. And you know the interior is rolling hills. The river valley is heavily irrigated. You see lots of cattle.\n\n%% u0330:0-7, u0331:0-134, u0332:0-11, u0333:0-76, u0334:0-18, u0335:0-149, u0336:0-76, u0337:0-65 %%\nDM: Lots of tiny little speck people sort of tending the cattle. You see it's fields as well, like rolling fields of irrigated grain of some kind. There's not much in the way of roads. There does seem to be one road that runs from this fortification here to the sort of main city that's here. You know. Wellby, your, your, you know distant sense is enough. The main city is probably 150 miles from you now, after having already traveled 3 or 4 h, so you you know you would be flying, but quite a ways like into the night in order to get to the city."
+        }
+      ],
+      "place": "p10",
+      "mode": "local",
+      "observerPlace": "p01",
+      "note": "The city is observed far away. Its later identification as Uzgukhar does not establish arrival at this point."
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0441",
+        "endUid": "u0567"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party selects the fort and descends in the ship toward a riverside tower, then halts roughly a hundred feet away for parley.",
+      "evidence": [
+        {
+          "startUid": "u0441",
+          "endUid": "u0451",
+          "quote": "DM: Particularly like I thought you were flying directly. So so it's like 9 in the morning. You're at the border if you're flying directly there at the Border Lake here. If you're flying direct directly to the—if you're flying directly to the city, that's one thing. If you're flying to angle south, that's a different thing. So I need to know which way you're going before I tell you what you see.\n\n%% u0444:154-297 %%\nDelwath: I think we didn't have the idea to route around to the south until later. So I think we just go now. We're flying to the city. But yeah, okay.\n\n%% u0445:0-72 %%\nRiswynn: Why, we go to the city. But we want to stop at it. So you you pass over.\n\n%% u0446:0-101, u0447:0-73, u0448:0-70, u0449:0-61, u0450:0-21, u0451:0-28 %%\nDM: You know, relatively early in the day you pass over this fortified town. Or really, and you see both—you know this. This town definitely seems to be on war footing. There are— a substantial army camp on the outskirts of the town, you see no, no like villagers or anybody around. You actually see a trail of people leading cattle inland away from the border.\n\n%% u0451:28-70 %%\nDelwath: We should. They know we should land here."
+        },
+        {
+          "startUid": "u0502",
+          "endUid": "u0510",
+          "quote": "Delwath: Do we have horses? We have a saddle, but okay, but some. But instead of spending the entire time we have to play talking about what we’re going to do. Delwath is also yeah, how about we do stuff? We we're we're gonna do stuff, but like, are we Are we landing the airship? Let's see what happens is we're we're flying down to be level to the top of the tower.\n\n%% u0505:0-172, u0506:0-169, u0507:0-85, u0508:0-7, u0509:0-273, u0510:0-93 %%\nDM: Okay, other side of the river, right? So I was. Exactly what? So exactly what we're doing. Seeker’s plan on the outskirts of. So there's this. You know. Their fortification is this is a walled town. It's, I mean. Your estimation is no more than 500 people could live inside the walls at most, and that would be crowded. It's not a huge place. But you know the the camp set up on the outskirts is easily 3 times that right, maybe a 1,500 people and a non-trivial. Army. This is. This is a a serious force, and as you begin to come lower towards the top of one of these towers, so there's like 2 towers that are sort of upriver, and the downriver of the fort itself. And then there's the fortress which has these thick walls that overlook the river, arrow slits, like, well fortified. You hear horns going up."
+        },
+        {
+          "startUid": "u0557",
+          "endUid": "u0567",
+          "quote": "Delwath: I relay that we should hold our approach. I stopped the ship. How close are we?\n\n%% u0559:0-24, u0560:0-58, u0561:0-74, u0562:0-45, u0563:0-23, u0564:0-9, u0565:0-100, u0566:0-75, u0567:0-45 %%\nDM: Oh, maybe 100 feet away! And he he! He looks around, and he signals. And one of the one of the orcs next to him blows this like complicated pattern on a horn. And you can see now movement in the distance. There seems to be like. You know. A few dozen or a 100 archers that are organizing on the coming out on the battlements, getting their getting their arrows ready, and these like—so what look like scouts, maybe a half dozen orcs on fast horses riding West."
+        }
+      ],
+      "from": "p20",
+      "to": "p21",
+      "completion": "arrived",
+      "mode": "fly",
+      "vehicle": "p01",
+      "note": "The reached position is a hover outside the fort; nobody has entered its tower or town.",
+      "route": [
+        {
+          "reading": "Approach the military fort from the riverside, then halt outside the tower."
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "presence",
+      "source": {
+        "startUid": "u0656",
+        "endUid": "u0664"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker remains in control of Vindristjarna while the other four descend.",
+      "evidence": [
+        {
+          "startUid": "u0656",
+          "endUid": "u0656",
+          "quote": "Seeker: Of necessity, I stay up on the ship."
+        },
+        {
+          "startUid": "u0662",
+          "endUid": "u0664",
+          "quote": "DM: Seeker remains in control of the ship, while the other 4 of you jump down. I'll. I'll do the difficult and important job of mine. Exactly. Good night, Eric. Hope you feel better."
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p06"
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0662",
+        "endUid": "u0672"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "Kenzo, Delwath, Wellby and Riswynn feather-fall from the skyship and land outside the fortress.",
+      "evidence": [
+        {
+          "startUid": "u0662",
+          "endUid": "u0672",
+          "quote": "DM: Seeker remains in control of the ship, while the other 4 of you jump down. I'll. I'll do the difficult and important job of mine. Exactly. Good night, Eric. Hope you feel better.\n\n%% u0665:0-6 %%\nDelwath: Night.\n\n%% u0666:0-83, u0667:0-91, u0668:0-99, u0669:0-15, u0670:0-146, u0671:0-20, u0672:0-116 %%\nDM: So. As the 4 of you fall from the sky, landing on the ground outside this fortress, this commander watching you because you I mean you descend slowly with your feather falling, has been watching you, and has time to come down the steps of the tower, come out and meet you with a band of maybe 15 orcs, armed and armored, mostly with like you know, chain and curved swords or longswords sort of a motley collection of weapons. This doesn't. I mean. This is an a they seem, so, you know, ready to fight, but but their equipment does not—this isn't like a super professional army."
+        }
+      ],
+      "from": "p01",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "feather fall"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u0718",
+        "endUid": "u0737"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "The four visitors enter the fortified position through gates and a courtyard, reaching the yellow-and-gold hall for their conversation with Vorgaz.",
+      "evidence": [
+        {
+          "startUid": "u0718",
+          "endUid": "u0719",
+          "quote": "DM: Now, with Kenzo's hands bound, but his staff still, you know, slung on his back the rest of your weapons left outside. Well, except for Delwath, he doesn't have a weapon."
+        },
+        {
+          "startUid": "u0724",
+          "endUid": "u0737",
+          "quote": "DM: With the the Orc lead you with his troop of, you know, with about 6 of the guards. A handful of them stay outside and lead you in through a sort of there's like a few gates on the outside of this fort, and the walls are, I mean you go through thick walls. This is a well well fortified position.\n\n%% u0726:0-63, u0727:0-74 %%\nWellby: Another gate [garbled] How old is this? Is there a sense? Is this within the last 150 years? Yes, it's not it. It does not feel old.\n\n%% u0728:0-43, u0729:0-77, u0730:0-126, u0731:0-105, u0732:0-45, u0733:0-36 %%\nDM: All you know. The paint is fresh like this. You know Everything's brightly colored, and it it feels everything feels new. And he leads you there's a there's a courtyard, and he leads you through the courtyard into a like a small hall that has these bright yellow and gold banners that are hanging down, and in front of you know, on the sides, and the the walls of this small hall are are painted, and in sort of golds and greens as well.\n\n%% u0734:0-104, u0735:0-11, u0736:0-10, u0737:0-115 %%\nDM: And he gestures you sit. There's a table. He whistles, and and you know an orc comes out with some food. Now tell me how will 5 possible spies or possible allies do anything at all against an army of thousands that is marching to our doorstep?"
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Escorted through thick outer walls and a courtyard."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1100",
+        "endUid": "u1124"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "The visitors go down to the fort’s forges, where Riswynn fabricates arrowheads and blesses Vorgaz’s sword.",
+      "evidence": [
+        {
+          "startUid": "u1100",
+          "endUid": "u1104",
+          "quote": "DM: So over the course of the next, you know half an hour you go down. You get the materials from the forge, and you start to make the arrows, and as you're sort of praying and casting the spell, he looks sort of taken aback, and he says— he like shoos a bunch of the other orcs out, and he says."
+        },
+        {
+          "startUid": "u1110",
+          "endUid": "u1117",
+          "quote": "the sense you get down here in the forges"
+        },
+        {
+          "startUid": "u1119",
+          "endUid": "u1124",
+          "quote": "Riswynn: So I make. So I, with my spell, make a big pile of arrow heads, and that's what he reacted to. That's what he was pleased about. Yeah. So I asked, may I touch your sword?\n\n%% u1121:0-4 %%\nDM: Yes.\n\n%% u1122:0-115 %%\nRiswynn: So then again, without visibly praying that we’re praying, muttering a few words in Dwarvish. Yes, the sword glows.\n\n%% u1123:0-12, u1124:0-14 %%\nDM: And he looks quite pleased."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk",
+      "duration": {
+        "value": 30,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "elapsed forge visit"
+      },
+      "note": "Riswynn’s work is explicit; the DM addresses the visitors collectively when moving them to the forges."
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1127",
+        "endUid": "u1142"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "The four visitors fly back from the fort to Vindristjarna, rejoining Seeker.",
+      "evidence": [
+        {
+          "startUid": "u1133",
+          "endUid": "u1142",
+          "quote": "Delwath: Well, then, why don't we just have Seeker fly it down and we'll climb on. Yeah, yeah, okay, I mean, I don't know. Maybe it's more impressive. I we're gonna it's gonna be at least an hour right? I can short rest after this. Right? Right? Let's just fly. I—while we're standing there. I will just mutter a few words. I'll touch Riswynn. We’ll fly up into the air. But did he flap back?\n\n%% u1138:6-28, u1139:0-79, u1140:0-64, u1141:0-66, u1142:0-33 %%\nDM: Okay, so as you fly up you then you I mean, you can see now the horse, the like rider that's that out, you know, bringing this message. And as you fly up into the air, come back to the ship. You you tell this to Seeker, who is looking like definitely has a lot of, like,"
+        }
+      ],
+      "from": "p09",
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1155",
+        "endUid": "u1297"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Vindristjarna leaves the fort for the capital and travels through the night, reaching the air above Uzgukhar by the next morning.",
+      "evidence": [
+        {
+          "startUid": "u1155",
+          "endUid": "u1163",
+          "quote": "DM: So it's a 120 miles straight to the—straight to the to the capital. It is. It's probably around 2, 30 in the afternoon by the time you leave this fort. 120 miles would be 12 h, so you would be getting there.\n\n%% u1162:0-4 %%\nDelwath: That.\n\n%% u1163:0-20 %%\nDM: Middle of the night."
+        },
+        {
+          "startUid": "u1272",
+          "endUid": "u1277",
+          "quote": "DM: Then the night passes. You rest fitfully, as the airship travels, Seeker keeping the ship going in the night. And you see, as you, as you drift over the dark mountains below, you see few lights or fires burning anywhere except in the city where there is."
+        },
+        {
+          "startUid": "u1282",
+          "endUid": "u1297",
+          "quote": "DM: So you sleep. And the next morning, the sun rises over the city of.\n\n%% u1286:0-3 %%\nUnknown: But.\n\n%% u1287:0-9, u1288:0-40, u1289:0-82, u1290:0-11, u1291:0-19, u1292:0-36, u1293:0-26, u1294:0-47, u1295:0-16, u1296:0-144, u1297:0-12 %%\nDM: Uzgukhar. And you can see you actually see the the dust of a rider riding at speed from the West, which you presume is the messenger. As you wait an hour for them to arrive and and pass on their letter, and by, you know, 8 or so, as the sun has risen and the day is full light, you figure it's, you know, the message has been received, and it's safe to descend. Should you wish to. They're still quite high up, so you know, visible, but not clearly big."
+        }
+      ],
+      "from": "p21",
+      "to": "p22",
+      "completion": "arrived",
+      "mode": "fly",
+      "vehicle": "p01",
+      "distance": {
+        "value": 120,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM distance from fort to capital"
+      },
+      "note": "The twelve-hour figure is a departure forecast. Arrival is attested from the ship at sunrise, before physical entry into the city.",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p10"
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "observation",
+      "source": {
+        "startUid": "u1173",
+        "endUid": "u1179"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "During the evening flight Delwath scries Ulfgar in a small private study and reads his research notes.",
+      "evidence": [
+        {
+          "startUid": "u1173",
+          "endUid": "u1184",
+          "quote": "DM: As you're flying this evening is also the evening when you had told Govir and Ulfgar that Delwath would scry them to get their research. So let's do that. So you scry Ulfgar first. And you see him pacing clearly a bit nervous. This, like your dwarf Scholar Dude keeps glancing about like he's in a small room, clearly a a private study or something, and scattered across his desk are like 10 pages of notes, all sort of scribbled and written in Dwarvish, and he's sort of glancing around them and like then he's not. Looks like he's not really sure if he's supposed to be looking at the notes, or looking up in the sky or sitting, and he doesn't quite know what to do with himself, and he's certainly like a bit, you know, nervous and uncertain.\n\n%% u1180:0-7, u1181:0-51, u1182:0-130, u1183:0-40, u1184:0-30 %%\nDM: And but you're able to read his notes as he's sort of right pacing around and and and most of them. So you had asked him about Apollyon, Apollyon's magical artifacts in the history of Drankor and the first thing he he has written is that 'I'm not doing this again.'"
+        }
+      ],
+      "place": "p18",
+      "observerPlace": "p01",
+      "observedActors": [
+        "Ulfgar"
+      ],
+      "mode": "remote"
+    },
+    {
+      "id": "l15",
+      "type": "observation",
+      "source": {
+        "startUid": "u1222",
+        "endUid": "u1245"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath then scries Govir in the archives and reads his four-page letter.",
+      "evidence": [
+        {
+          "startUid": "u1222",
+          "endUid": "u1225",
+          "quote": "DM: And then you scry on Govir.\n\n%% u1223:0-43 %%\nWellby: And I'm sorry, Tim, were we just looking at?\n\n%% u1224:0-13 %%\nDM: That's Ulfgar.\n\n%% u1225:0-276 %%\nKenzo: Seeker’s friend in Chardon. So the the brief synopsis, it's a the cloak is a fey cloak that that Apollyon got through negotiation, barter, or something with fey people. And there's like some children of the rainbow that are related to the cloak that are dead, alive? Who knows?"
+        },
+        {
+          "startUid": "u1238",
+          "endUid": "u1245",
+          "quote": "DM: So Govir in contrast, is sitting in the archives reading, and he's written a neat letter that's spread out over 4 pages of text laid out nicely, clearly visible and easy to read. And the letter starts by apologizing for the lack of information. The archives have little to say about pre-Dunmari history, and a few colleagues suggested that he find Cavarrio's chronicles of Drankor but he didn't have time to locate a copy. Yeah. He hoped he might at least find more information about the mantle of protection. But the records from before the great war are badly disorganized, and many require careful handling, and so he needs more time. And then he notes. If you are well, if you are able and willing to check again in a week, I may know more. I mean he's underlined that neatly written."
+        }
+      ],
+      "place": "p19",
+      "observerPlace": "p01",
+      "observedActors": [
+        "Govir"
+      ],
+      "mode": "remote"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u1485",
+        "endUid": "u1512"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "After waiting for the messenger, the four visitors descend and land outside Uzgukhar, leaving their weapons aboard.",
+      "evidence": [
+        {
+          "startUid": "u1485",
+          "endUid": "u1490",
+          "quote": "DM: Okay. You descend. And as you I mean as the airship lowers. You can see there's like clearly people watching, and there's and commotion, and a small group of soldiers rides out or marches out from the city to meet you, and and the city is like."
+        },
+        {
+          "startUid": "u1502",
+          "endUid": "u1512",
+          "quote": "DM: And as you land the 8 soldiers that have come out to meet you. One of them steps forward and speaks in halting common. And she says.\n\n%% u1505:0-3 %%\nUnknown: You.\n\n%% u1506:0-42, u1507:0-33, u1508:0-53, u1509:0-63 %%\nDM: Welcome strangers, at the city of Uzgukhar. Chief Lubash will speak with you. And she gestures and said something, and in orcish to one of the soldiers. She says you may not enter the city armed.\n\n%% u1510:0-28, u1511:0-27 %%\nDM: My companions will wait here beneath your flying castle.\n\n%% u1512:0-88 %%\nDM: Watching. Anybody actually bring weapons down here? We just leave them all in the ship.\n\n%% u1512:88-126 %%\nKenzo: I left my staff this time on the ship.\n\n%% u1512:126-132 %%\nDM: Okay."
+        }
+      ],
+      "from": "p01",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "descend",
+      "note": "The four ground visitors follow the current-session split; Seeker’s continued piloting is corroborated by the dated Session 76 record."
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u1514",
+        "endUid": "u1527"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "An escort leads the four through Uzgukhar’s gates and streets into a small palace room, then locks and bars the door.",
+      "evidence": [
+        {
+          "startUid": "u1514",
+          "endUid": "u1527",
+          "quote": "DM: She motions for you to follow. And 2 of the guards remain watching the other 6 lead you into the. Into, the into the city. And you you pass pass through the gates, and you see there's you know. There's a a decent population, you see. You see, Orcs sort of hang out of the windows watching you like little kids running in the street like pale green skin, whose tusks haven't grown in yet, running in. Mostly everybody is wearing sort of a brightly colored like light cotton tunics cloaks. And and you're being led to the palace. And this this guard takes you to a small room. And says the chief has many demands on his time. But please wait, and he will see you as soon as he can. Shuts the door and locks it, and bars it from the outside as she leaves."
+        }
+      ],
+      "from": "p12",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Through the city gates and along its streets to the palace.",
+          "place": "p10"
+        },
+        {
+          "reading": "Enter the palace.",
+          "place": "p11"
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u1630",
+        "endUid": "u1705"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "reading": "The same guard leads the four down a palace hallway into Lubash’s throne room; divine connections fall silent on the approach.",
+      "evidence": [
+        {
+          "startUid": "u1630",
+          "endUid": "u1644",
+          "quote": "DM: Hour or so passes. It's now about 1 30, when a knock—another knock comes at the door. And he opens the door. The same guard. And he sort of motions, says in Orcish Lubash is ready. Chief Lubash is ready to speak to you now.\n\n%% u1634:0-24 %%\nDelwath: All right. Lead the way.\n\n%% u1635:0-12 %%\nWellby: Let's do it.\n\n%% u1636:0-32, u1637:0-16, u1638:0-102, u1639:0-39, u1640:0-12, u1641:0-78, u1642:0-30 %%\nDM: He leads you down a hallway into a large chamber. As you approach, as you begin to approach the chamber, maybe, I don't know, 50 feet down from the door, Riswynn and Delwath and Kenzo, you feel silence fall like the gods are, and the Tanshi are not here. The dwarven gods are not here. The Dunmari gods are not here.\n\n%% u1643:0-8 %%\nKenzo: Complete.\n\n%% u1644:0-8 %%\nDM: Silence."
+        },
+        {
+          "startUid": "u1646",
+          "endUid": "u1663",
+          "quote": "DM: The orc doesn't seem to notice anything. And then leads you in.\n\n%% u1647:22-54 %%\nKenzo: Well, he's got this he doesn't.\n\n%% u1648:0-112 %%\nDM: No. You also notice, like you know, you always have the sense of like that halfling sort of ancestral mind which.\n\n%% u1649:0-5, u1650:0-3 %%\nWellby: Fades. Oh.\n\n%% u1651:0-4 %%\nKenzo: Cool.\n\n%% u1652:0-60, u1653:0-109, u1654:0-14, u1655:0-99, u1656:0-47, u1657:0-16, u1658:0-122, u1659:0-101, u1660:0-70, u1661:0-40, u1662:0-71, u1663:0-61 %%\nDM: And the door swings open and you see seated on a throne, but so the room itself is quite elegant. It's, you know. There's 8 pillars, 4 on either side, that lead down this throne room to a raised dais. Each pillar is painted a different color. So you have, like 8 colors of the rainbow. The ceiling itself is arched, golden, golden dome that seems to be like gilded, painted. Probably not. It's not actual gold. It's like gold paint or something like that, but it's reflective and shining almost like a sun motif. And there's these red and gold sort of diamond patterns that are painted along the along the ceiling, and there's banners hanging along colorful depictions of like moments, and you know of orcs of maybe previous rulers, or something like that woven out of cloth, and then dyed in this sort of elaborate manner."
+        },
+        {
+          "startUid": "u1690",
+          "endUid": "u1705",
+          "quote": "DM: And he looks at you and he motions with his hand. And the guards leave and he points. And there's like a you know it's like an audience chamber. So there's there's like a small table set up with chairs in front of it. And he points for you to sit. And he says in Orcish: Do you speak our tongue? And then he shifts to Common: Or should I speak in the simple language of the humans for your convenience?\n\n%% u1699:0-21, u1700:0-1, u1701:0-44, u1702:0-36, u1703:0-35 %%\nDelwath: I I'll say in Orcish, I speak your tongue, but my companions do not. We would appreciate you speaking in the language we can all understand.\n\n%% u1704:0-4, u1705:0-18 %%\nDM: Sit. He says in Common."
+        }
+      ],
+      "from": "p13",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "walk"
+    }
+  ]
+}
