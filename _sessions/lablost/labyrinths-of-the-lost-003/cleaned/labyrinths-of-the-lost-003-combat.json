@@ -1,0 +1,873 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "labyrinths-of-the-lost-003",
+    "sessionYaml": "_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-session.yaml",
+    "sessionYamlSha256": "4b770bac216f5f237a2db9a63e10dda7d1a3717d06ec3341095c46f4a7a89db8",
+    "transcriptPath": "_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-transcript.md",
+    "transcriptSha256": "3f3990408f6a451bf48cefb53b67db8430c65fa072784294d1181c78cadd7f8c",
+    "segments": {
+      "path": "_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-segments.json",
+      "sha256": "a22869ecb59fa4b883c60a4931e885d4b756378fae2c878375768ae3ac449376",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s003",
+      "encounter": "Pirate shades in the scorched cavern",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Acescale",
+              "kind": "turn",
+              "summary": "While flying and invisible, casts Acid Splash on two minion shades; both fail their saves and take 6 acid damage each, destroying both. Becomes visible and flies back high above the floor.",
+              "evidence": [
+                {
+                  "startUid": "u0350",
+                  "endUid": "u0369"
+                }
+              ]
+            },
+            {
+              "actor": "Loria",
+              "kind": "turn",
+              "summary": "Attempts a fast descent, misses the ladder and falls. Stands, moves into reach, and hits a minion with her short sword; her bird swarm destroys a second minion. The descent used her bonus action, so she cannot attack with her second sword.",
+              "evidence": [
+                {
+                  "startUid": "u0370",
+                  "endUid": "u0390"
+                }
+              ]
+            },
+            {
+              "actor": "Gaudin",
+              "kind": "turn",
+              "summary": "Remains above the pit and hits the last minion with Eldritch Blast, destroying it.",
+              "evidence": [
+                {
+                  "startUid": "u0391",
+                  "endUid": "u0401"
+                }
+              ]
+            },
+            {
+              "actor": "First larger shade",
+              "kind": "turn",
+              "summary": "Closes on Loria and hits with a freezing hand for 8 cold damage; her Dexterity is reduced by 2 until a short or long rest.",
+              "evidence": [
+                {
+                  "startUid": "u0400",
+                  "endUid": "u0408"
+                },
+                {
+                  "startUid": "u0531",
+                  "endUid": "u0533"
+                }
+              ]
+            },
+            {
+              "actor": "Second larger shade",
+              "kind": "turn",
+              "summary": "Attacks Loria; its 10 to hit misses.",
+              "evidence": [
+                {
+                  "startUid": "u0411",
+                  "endUid": "u0414"
+                }
+              ]
+            },
+            {
+              "actor": "Dilion",
+              "kind": "turn",
+              "summary": "Hits a larger shade with his infused magical weapon for 7 damage, leaving it below half health.",
+              "evidence": [
+                {
+                  "startUid": "u0416",
+                  "endUid": "u0433"
+                }
+              ]
+            },
+            {
+              "actor": "Steampup",
+              "kind": "turn",
+              "summary": "Attempts to attack the other nearby shade with its force attack; no successful hit or damage is established.",
+              "evidence": [
+                {
+                  "startUid": "u0434",
+                  "endUid": "u0437"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Acescale",
+              "kind": "turn",
+              "summary": "Remains flying and casts Acid Splash on both remaining shades; both fail their saves and take 2 acid damage each.",
+              "evidence": [
+                {
+                  "startUid": "u0438",
+                  "endUid": "u0444"
+                }
+              ]
+            },
+            {
+              "actor": "Loria",
+              "kind": "turn",
+              "summary": "With her reduced Dexterity applied, hits with her first short sword for a stated 6 damage and adds her piercing swarm. The shade resists the physical damage and survives; her second sword hits and destroys it.",
+              "evidence": [
+                {
+                  "startUid": "u0445",
+                  "endUid": "u0460"
+                }
+              ]
+            },
+            {
+              "actor": "Gaudin",
+              "kind": "turn",
+              "summary": "Hits the final shade with Eldritch Blast; the damage is sufficient to destroy it.",
+              "evidence": [
+                {
+                  "startUid": "u0461",
+                  "endUid": "u0470"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All seven pirate shades are destroyed; the final shadow dissipates under Gaudin’s blast.",
+        "evidence": [
+          {
+            "startUid": "u0467",
+            "endUid": "u0470"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s005",
+      "encounter": "Pursuit and killing of Grimstone’s assistant",
+      "note": "Initiative begins with Gaudin alone and is set up for the reunited party at u1095–u1108; the chase remains one continuous encounter.",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Gaudin",
+              "kind": "turn",
+              "summary": "Dashes 60 feet back toward his companions and uses Misty Step for the last 30 feet, materializing by the torchlit junction.",
+              "evidence": [
+                {
+                  "startUid": "u1062",
+                  "endUid": "u1075"
+                }
+              ]
+            },
+            {
+              "actor": "Grimstone’s assistant",
+              "kind": "turn",
+              "summary": "Pursues Gaudin down the corridor; the party hears his running footsteps.",
+              "evidence": [
+                {
+                  "startUid": "u1076",
+                  "endUid": "u1078"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Dilion",
+              "kind": "turn",
+              "summary": "Moves into an ambush position and readies a melee attack when the approaching assistant comes into view; directs Steampup to the other side.",
+              "evidence": [
+                {
+                  "startUid": "u1108",
+                  "endUid": "u1125"
+                }
+              ]
+            },
+            {
+              "actor": "Steampup",
+              "kind": "turn",
+              "summary": "Takes the opposite side of the passage and readies an attack on the assistant.",
+              "evidence": [
+                {
+                  "startUid": "u1123",
+                  "endUid": "u1125"
+                }
+              ]
+            },
+            {
+              "actor": "Gaudin",
+              "kind": "turn",
+              "summary": "Moves to a corner for line of sight and prepares to attack.",
+              "evidence": [
+                {
+                  "startUid": "u1129",
+                  "endUid": "u1133"
+                }
+              ],
+              "note": "The positioning line is labeled Unknown in the source, immediately after Gaudin asks to move."
+            },
+            {
+              "actor": "Acescale",
+              "kind": "turn",
+              "summary": "Readies a crossbow shot.",
+              "evidence": [
+                {
+                  "startUid": "u1126",
+                  "endUid": "u1128"
+                }
+              ]
+            },
+            {
+              "actor": "Loria",
+              "kind": "turn",
+              "summary": "Moves behind Steampup and draws her short swords.",
+              "evidence": [
+                {
+                  "startUid": "u1134",
+                  "endUid": "u1136"
+                }
+              ]
+            },
+            {
+              "actor": "Grimstone’s assistant",
+              "kind": "turn",
+              "summary": "Charges into the junction, sees the ambush and decides “Not worth it”; turns and dashes away after the readied attacks.",
+              "evidence": [
+                {
+                  "startUid": "u1137",
+                  "endUid": "u1145"
+                },
+                {
+                  "startUid": "u1172",
+                  "endUid": "u1177"
+                }
+              ]
+            },
+            {
+              "actor": "Acescale",
+              "kind": "reaction",
+              "summary": "Fires the readied crossbow; 23 hits. The table corrects the attribution of that roll to the crossbow.",
+              "evidence": [
+                {
+                  "startUid": "u1143",
+                  "endUid": "u1149"
+                }
+              ]
+            },
+            {
+              "actor": "Gaudin",
+              "kind": "reaction",
+              "summary": "Declares a readied Eldritch Blast as the assistant enters; its individual result is not separately reported.",
+              "evidence": [
+                {
+                  "startUid": "u1144",
+                  "endUid": "u1149"
+                }
+              ]
+            },
+            {
+              "actor": "Dilion",
+              "kind": "reaction",
+              "summary": "His readied melee attack hits for 8 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1150",
+                  "endUid": "u1162"
+                }
+              ]
+            },
+            {
+              "actor": "Steampup",
+              "kind": "reaction",
+              "summary": "The table permits its readied attack; hits for a stated 7 damage after correcting the modifier to proficiency bonus.",
+              "evidence": [
+                {
+                  "startUid": "u1155",
+                  "endUid": "u1167"
+                }
+              ]
+            },
+            {
+              "actor": "Loria",
+              "kind": "reaction",
+              "summary": "Her readied short-sword attack misses with 11; no bonus-action attack is allowed. Spent reactions cannot also produce opportunity attacks.",
+              "evidence": [
+                {
+                  "startUid": "u1169",
+                  "endUid": "u1177"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Dilion",
+              "kind": "turn",
+              "summary": "Orders Steampup to pursue the fleeing man; the alternative of tearing down the ladder is discussed but the ladder remains intact.",
+              "evidence": [
+                {
+                  "startUid": "u1182",
+                  "endUid": "u1197"
+                },
+                {
+                  "startUid": "u1237",
+                  "endUid": "u1237"
+                }
+              ]
+            },
+            {
+              "actor": "Steampup",
+              "kind": "turn",
+              "summary": "Pursues with its 40-foot movement and misses its bite.",
+              "evidence": [
+                {
+                  "startUid": "u1194",
+                  "endUid": "u1201"
+                }
+              ]
+            },
+            {
+              "actor": "Gaudin",
+              "kind": "turn",
+              "summary": "Pursues and hits with Eldritch Blast, badly wounding the assistant. Half cover is discussed as +2 AC, rather than disadvantage; Gaudin is offered the clearer shot.",
+              "evidence": [
+                {
+                  "startUid": "u1202",
+                  "endUid": "u1217"
+                }
+              ]
+            },
+            {
+              "actor": "Acescale",
+              "kind": "turn",
+              "summary": "Chases with Steampup and fires a crossbow shot through partial cover; it misses against the adjusted AC 16.",
+              "evidence": [
+                {
+                  "startUid": "u1184",
+                  "endUid": "u1185"
+                },
+                {
+                  "startUid": "u1218",
+                  "endUid": "u1225"
+                }
+              ]
+            },
+            {
+              "actor": "Grimstone’s assistant",
+              "kind": "event",
+              "summary": "Collapses to his knees after the blast, raises his hands and begs the party to stop and spare him.",
+              "evidence": [
+                {
+                  "startUid": "u1225",
+                  "endUid": "u1228"
+                },
+                {
+                  "startUid": "u1234",
+                  "endUid": "u1235"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Dilion",
+              "kind": "turn",
+              "summary": "Allows Steampup to continue the kill at the top of the round.",
+              "evidence": [
+                {
+                  "startUid": "u1229",
+                  "endUid": "u1230"
+                }
+              ]
+            },
+            {
+              "actor": "Steampup",
+              "kind": "turn",
+              "summary": "Its attack is initially called a miss, then corrected to a hit with +4. Leaps onto the kneeling assistant’s chest and knocks him down; his head strikes the corridor and he dies despite pleading for mercy.",
+              "evidence": [
+                {
+                  "startUid": "u1231",
+                  "endUid": "u1235"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The assistant is killed after surrendering; the party prevents him from calling for help, and the ladder is left intact.",
+        "evidence": [
+          {
+            "startUid": "u1231",
+            "endUid": "u1235"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c003",
+      "segmentId": "s009",
+      "encounter": "Grimstone and animated stone creatures in the laboratory",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Gaudin",
+              "kind": "turn",
+              "summary": "Tries to blast the potion in Grimstone’s hand with Eldritch Blast; the harder shot misses harmlessly.",
+              "evidence": [
+                {
+                  "startUid": "u1423",
+                  "endUid": "u1437"
+                }
+              ]
+            },
+            {
+              "actor": "Acescale",
+              "kind": "turn",
+              "summary": "Moves apart from the group. Uses his Dreams affinity for advantage on Ray of Sickness and hits; Grimstone fails a Constitution DC 13 save with 3, takes 9 poison damage and is poisoned until the end of Acescale’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u1438",
+                  "endUid": "u1475"
+                }
+              ]
+            },
+            {
+              "actor": "Dilion",
+              "kind": "turn",
+              "summary": "Cannot pass his companions in the narrow entrance. Commands Steampup to attack and readies movement to follow Gaudin into the room.",
+              "evidence": [
+                {
+                  "startUid": "u1476",
+                  "endUid": "u1488"
+                }
+              ]
+            },
+            {
+              "actor": "Steampup",
+              "kind": "turn",
+              "summary": "Jumps over the table and hits Grimstone with 15; the amount of damage is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u1489",
+                  "endUid": "u1501"
+                }
+              ]
+            },
+            {
+              "actor": "Grimstone",
+              "kind": "turn",
+              "summary": "Throws an explosive potion at Acescale, who fails the Dexterity save despite using Lucky and takes 12 fire damage. As a bonus action throws thick goo onto the stone spider statue.",
+              "evidence": [
+                {
+                  "startUid": "u1499",
+                  "endUid": "u1523"
+                }
+              ]
+            },
+            {
+              "actor": "Loria",
+              "kind": "turn",
+              "summary": "Runs beneath the lab bench and attacks Grimstone’s ankles. Her invisible first attack has advantage and deals 5 damage plus 3 from the swarm; her second sword hits for 7. Attacking ends her invisibility.",
+              "evidence": [
+                {
+                  "startUid": "u1524",
+                  "endUid": "u1540"
+                },
+                {
+                  "startUid": "u1601",
+                  "endUid": "u1602"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Gaudin",
+              "kind": "turn",
+              "summary": "Moves into the room to make space and hits Grimstone with Eldritch Blast for 4 force damage.",
+              "evidence": [
+                {
+                  "startUid": "u1541",
+                  "endUid": "u1552"
+                }
+              ]
+            },
+            {
+              "actor": "Dilion",
+              "kind": "reaction",
+              "summary": "Uses his readied movement to follow Gaudin forward, enabling his next approach around the bench.",
+              "evidence": [
+                {
+                  "startUid": "u1483",
+                  "endUid": "u1488"
+                },
+                {
+                  "startUid": "u1571",
+                  "endUid": "u1573"
+                }
+              ]
+            },
+            {
+              "actor": "Stone spider swarm",
+              "kind": "turn",
+              "summary": "At initiative count 20 the treated statue animates into about 50 small stone spiders. Swarms Gaudin, but its 8 to hit misses.",
+              "evidence": [
+                {
+                  "startUid": "u1548",
+                  "endUid": "u1557"
+                }
+              ]
+            },
+            {
+              "actor": "Acescale",
+              "kind": "turn",
+              "summary": "Fires his crossbow at Grimstone and misses with a natural 1. Ducks behind a table for partial cover, stated as +2 AC and Dexterity saves.",
+              "evidence": [
+                {
+                  "startUid": "u1558",
+                  "endUid": "u1568"
+                }
+              ]
+            },
+            {
+              "actor": "Dilion",
+              "kind": "turn",
+              "summary": "Moves around behind Grimstone and misses with his sword.",
+              "evidence": [
+                {
+                  "startUid": "u1570",
+                  "endUid": "u1575"
+                }
+              ]
+            },
+            {
+              "actor": "Steampup",
+              "kind": "turn",
+              "summary": "Attacks Grimstone and misses.",
+              "evidence": [
+                {
+                  "startUid": "u1576",
+                  "endUid": "u1578"
+                }
+              ]
+            },
+            {
+              "actor": "Grimstone",
+              "kind": "turn",
+              "summary": "Drops a potion at his feet, producing heavily obscuring poisonous smoke. Runs to the other bench beside Acescale; the obscuration prevents opportunity attacks.",
+              "evidence": [
+                {
+                  "startUid": "u1579",
+                  "endUid": "u1594"
+                }
+              ]
+            },
+            {
+              "actor": "Loria",
+              "kind": "turn",
+              "summary": "Starts in the poisonous smoke and succeeds on her Constitution save with 20: no poison or damage, though she cannot see. Leaves the cloud and slides beneath the other bench; first sword misses, second hits for 9 plus 3 swarm damage.",
+              "evidence": [
+                {
+                  "startUid": "u1595",
+                  "endUid": "u1613"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Gaudin",
+              "kind": "turn",
+              "summary": "Abandons the proposed covered Eldritch Blast and uses Sword Burst on the spider swarm. It fails a Dexterity save with 9, and about 20% of the spiders are smashed.",
+              "evidence": [
+                {
+                  "startUid": "u1614",
+                  "endUid": "u1630"
+                }
+              ]
+            },
+            {
+              "actor": "Stone spider swarm",
+              "kind": "turn",
+              "summary": "Hits Gaudin with 16 for 10 piercing damage.",
+              "evidence": [
+                {
+                  "startUid": "u1631",
+                  "endUid": "u1635"
+                }
+              ]
+            },
+            {
+              "actor": "Acescale",
+              "kind": "turn",
+              "summary": "Hits Grimstone nearly point blank with his crossbow for 11 piercing damage, then moves into contact to threaten an opportunity attack.",
+              "evidence": [
+                {
+                  "startUid": "u1636",
+                  "endUid": "u1645"
+                }
+              ]
+            },
+            {
+              "actor": "Dilion",
+              "kind": "turn",
+              "summary": "Fails the smoke’s Constitution save, takes 8 poison damage and is poisoned until the start of his next turn. Leaves the cloud and spends Lucky to cancel attack disadvantage as the table allows; hits Grimstone for 5 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1647",
+                  "endUid": "u1664"
+                }
+              ]
+            },
+            {
+              "actor": "Steampup",
+              "kind": "turn",
+              "summary": "Is immune to the smoke’s poison damage and condition. Follows out of the cloud and attacks Grimstone, but misses.",
+              "evidence": [
+                {
+                  "startUid": "u1648",
+                  "endUid": "u1653"
+                },
+                {
+                  "startUid": "u1665",
+                  "endUid": "u1671"
+                }
+              ]
+            },
+            {
+              "actor": "Grimstone",
+              "kind": "turn",
+              "summary": "Throws a fire potion at his own feet, catching the nearby combatants and himself. Dexterity DC 14: 6 fire damage on a success, 12 on a failure. Dilion saves with 16 and takes 6; Loria fails with 9 and Steampup fails with 13, each taking 12. Grimstone saves and takes 6 himself. Then throws green goo at the stone wasp.",
+              "evidence": [
+                {
+                  "startUid": "u1672",
+                  "endUid": "u1697"
+                }
+              ],
+              "note": "Acescale’s and Gaudin’s individual saving throws/damage are not stated."
+            },
+            {
+              "actor": "Loria",
+              "kind": "turn",
+              "summary": "Casts Zephyr Strike with her bonus action, then takes advantage on her normal short-sword attack and rolls a natural 20. The table doubles weapon, swarm and Zephyr dice to 4d6+2d8; the attack kills Grimstone, who had 14 HP remaining.",
+              "evidence": [
+                {
+                  "startUid": "u1698",
+                  "endUid": "u1724"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Gaudin",
+              "kind": "turn",
+              "summary": "Hits the remaining stone spiders with Eldritch Blast, shattering more than two-thirds of them.",
+              "evidence": [
+                {
+                  "startUid": "u1725",
+                  "endUid": "u1745"
+                }
+              ]
+            },
+            {
+              "actor": "Stone spider swarm",
+              "kind": "turn",
+              "summary": "The surviving spiders try to bite Gaudin but cannot get past his armor.",
+              "evidence": [
+                {
+                  "startUid": "u1744",
+                  "endUid": "u1745"
+                }
+              ]
+            },
+            {
+              "actor": "Stone wasp",
+              "kind": "turn",
+              "summary": "Animates and flies at Acescale; 15 hits for 4 piercing damage. His Constitution save fails and he takes 9 poison damage, falling to 0 HP, stable but beginning to petrify.",
+              "evidence": [
+                {
+                  "startUid": "u1746",
+                  "endUid": "u1765"
+                }
+              ]
+            },
+            {
+              "actor": "Acescale",
+              "kind": "turn",
+              "summary": "At 0 HP cannot act and fails the next Constitution save: one further failed save would petrify him. The special poison leaves him stable without death saves; healing above 0 will halt the transformation.",
+              "evidence": [
+                {
+                  "startUid": "u1766",
+                  "endUid": "u1781"
+                }
+              ]
+            },
+            {
+              "actor": "Dilion",
+              "kind": "turn",
+              "summary": "Steps over Grimstone’s body and uses his last spell slot for Cure Wounds on Acescale, with healing rolled as d8+3. The stone fades; Acescale is above 0 and no longer petrifying, though restrained until his next turn.",
+              "evidence": [
+                {
+                  "startUid": "u1780",
+                  "endUid": "u1791"
+                }
+              ]
+            },
+            {
+              "actor": "Steampup",
+              "kind": "turn",
+              "summary": "Attacks the wasp and misses.",
+              "evidence": [
+                {
+                  "startUid": "u1792",
+                  "endUid": "u1794"
+                },
+                {
+                  "startUid": "u1847",
+                  "endUid": "u1849"
+                },
+                {
+                  "startUid": "u2166",
+                  "endUid": "u2166"
+                }
+              ],
+              "note": "“Dog dies” in this turn-ending utterance is not corroborated as a death; the source continues addressing Steampup at u1847–u1849 and confirms both dogs leave in u2166."
+            },
+            {
+              "actor": "Loria",
+              "kind": "turn",
+              "summary": "Attacks the low-flying wasp with both swords: first hits for 4 plus 4 swarm damage; second hits for 8, badly cracking it.",
+              "evidence": [
+                {
+                  "startUid": "u1795",
+                  "endUid": "u1809"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Gaudin",
+              "kind": "turn",
+              "summary": "Tries to finish the wasp with Eldritch Blast but misses. Mage Hand is discussed as requiring an action and is not cast.",
+              "evidence": [
+                {
+                  "startUid": "u1810",
+                  "endUid": "u1816"
+                }
+              ]
+            },
+            {
+              "actor": "Stone spider swarm",
+              "kind": "turn",
+              "summary": "Again fails to bite Gaudin through his armor.",
+              "evidence": [
+                {
+                  "startUid": "u1817",
+                  "endUid": "u1818"
+                }
+              ]
+            },
+            {
+              "actor": "Stone wasp",
+              "kind": "turn",
+              "summary": "Hits Acescale again for 3 piercing damage; he fails a Constitution save and takes 9 poison damage, returning to 0 HP and beginning to turn to stone.",
+              "evidence": [
+                {
+                  "startUid": "u1819",
+                  "endUid": "u1832"
+                }
+              ]
+            },
+            {
+              "actor": "Acescale",
+              "kind": "turn",
+              "summary": "Succeeds on his subsequent Constitution save with 13 against DC 11. Remains stable at 0 HP but stops turning to stone.",
+              "evidence": [
+                {
+                  "startUid": "u1833",
+                  "endUid": "u1840"
+                }
+              ]
+            },
+            {
+              "actor": "Dilion / Steampup",
+              "kind": "turn",
+              "summary": "Dilion attacks the wasp with his sword for a stated 7 damage when it has 8 HP remaining; the DM accepts the resolution and addresses Steampup. The wasp is defeated.",
+              "evidence": [
+                {
+                  "startUid": "u1841",
+                  "endUid": "u1849"
+                }
+              ],
+              "note": "The transcript does not separately specify the final dog attack or its damage; do not invent the missing point."
+            },
+            {
+              "actor": "Loria and Gaudin",
+              "kind": "event",
+              "summary": "The DM resolves their destruction of the remaining few stone spiders before another spider attack.",
+              "evidence": [
+                {
+                  "startUid": "u1850",
+                  "endUid": "u1850"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Grimstone, the wasp and the spider swarm are defeated. Acescale ends stable at 0 HP and is no longer petrifying; the party controls the laboratory.",
+        "evidence": [
+          {
+            "startUid": "u1833",
+            "endUid": "u1840"
+          },
+          {
+            "startUid": "u1847",
+            "endUid": "u1850"
+          }
+        ]
+      }
+    }
+  ]
+}

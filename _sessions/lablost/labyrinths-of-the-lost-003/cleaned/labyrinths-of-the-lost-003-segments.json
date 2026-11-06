@@ -1,0 +1,101 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "labyrinths-of-the-lost-003",
+    "sessionYaml": "_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-session.yaml",
+    "sessionYamlSha256": "4b770bac216f5f237a2db9a63e10dda7d1a3717d06ec3341095c46f4a7a89db8",
+    "transcriptPath": "_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-transcript.md",
+    "transcriptSha256": "3f3990408f6a451bf48cefb53b67db8430c65fa072784294d1181c78cadd7f8c"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0001"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0331"
+      },
+      "category": "gameplay",
+      "note": "Opening recap is interleaved with current bedroom presence and the active decision to descend; the mixed opening remains gameplay."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0332",
+        "endUid": "u0470"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0471",
+        "endUid": "u1057"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1058",
+        "endUid": "u1235"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1236",
+        "endUid": "u1259"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1260",
+        "endUid": "u1322"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1323",
+        "endUid": "u1406"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1407",
+        "endUid": "u1850"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1851",
+        "endUid": "u2182"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2183",
+        "endUid": "u2192"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

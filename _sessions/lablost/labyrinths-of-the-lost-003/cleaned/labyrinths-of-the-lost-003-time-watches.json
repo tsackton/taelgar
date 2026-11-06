@@ -1,0 +1,75 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-session.yaml",
+  "source": {
+    "path": "_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-time-markers.json",
+    "sha256": "6a107ac7142afeca2f7bf55037672c20931babdb581148ae09e5831a1704077a"
+  },
+  "transcript": {
+    "path": "_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-transcript.md",
+    "sha256": "3f3990408f6a451bf48cefb53b67db8430c65fa072784294d1181c78cadd7f8c"
+  },
+  "dateAssessment": "Working dates use the session YAML: **18–19 October DR 1748**. The transcript independently supplies lunchtime (correcting midmorning), about 13:30, about 14:00, two short rests and one completed overnight into early morning. The time extraction matches the one-night span conditional on YAML’s starting date; no numerical calendar date is spoken. The rest ending at early morning is estimated as dusk → dawn using the eight-hour convention; 04:00 was only a proposed waking time. The final escape is described during the missed Sunday ritual, after an initial prompt about leaving before anyone wakes; its exact hour is not established. The prior morning’s rest is earlier-session context, not an additional overnight in this span.",
+  "watches": [
+    {
+      "day": "October 18, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Descent corrected to lunchtime; first hour’s rest precedes the 13:30 approach, then two minutes searching for potion.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04",
+        "t05"
+      ],
+      "startDate": "1748-10-18",
+      "endDate": "1748-10-18"
+    },
+    {
+      "day": "October 18, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Laboratory aftermath about 14:00; the next short rest ends approximately an hour later.",
+      "markers": [
+        "t06",
+        "t07"
+      ],
+      "startDate": "1748-10-18",
+      "endDate": "1748-10-18"
+    },
+    {
+      "day": "October 18–19, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Eight-hour overnight recovery ends early morning; infer the preceding dusk start.",
+      "markers": [
+        "t08"
+      ],
+      "startDate": "1748-10-18",
+      "endDate": "1748-10-19"
+    },
+    {
+      "day": "October 19, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Escape occurs amid the missed Sunday morning ritual; the exact early-morning departure hour remains open.",
+      "markers": [
+        "t09"
+      ],
+      "startDate": "1748-10-19",
+      "endDate": "1748-10-19"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Jacopo reference (ghost-state discrepancy)",
+      "path": "People/Other Humans/Jacopo Marcelli.md",
+      "sha256": "2a7afe67a2c63b7e83b89f4911db0a715deca530f8f174b382d501903066855b"
+    }
+  ]
+}
