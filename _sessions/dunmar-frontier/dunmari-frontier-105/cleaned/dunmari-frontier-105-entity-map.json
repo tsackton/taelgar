@@ -1,0 +1,893 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "04cfbc5e2addcbfb91e95963ecb57c066acf31d9c229f53192f50b84e72a287d",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "e39d9a4ca7c6eb7fbac87daab1d0b30a1651353e6e240d0db648d0cd20ca1b6b",
+        "transcriptProcessing.artifacts.cleaned": "5bbd813e8fffa6a710112b7961407b927607c45f56018c623ecc8d16ac3c72c5"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "npc",
+      "label": "Apollyon",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0001",
+            "endUid": "u0005"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Historical Figures/Drankorian Emperors/Apollyon.md"
+    },
+    {
+      "id": "e002",
+      "kind": "item",
+      "label": "Locked manual of stone golems",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0006",
+            "endUid": "u0014"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Taurion's Manual of Golems.md"
+    },
+    {
+      "id": "e003",
+      "kind": "npc",
+      "label": "Faldrak",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0015",
+            "endUid": "u0024"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0240",
+            "endUid": "u0244"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0485",
+            "endUid": "u0516"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2694",
+            "endUid": "u2695"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dwarves/Faldrak Bronzehammer.md"
+    },
+    {
+      "id": "e004",
+      "kind": "npc",
+      "label": "Aygul",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0015",
+            "endUid": "u0024"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Orcs/Aygul.md"
+    },
+    {
+      "id": "e005",
+      "kind": "npc",
+      "label": "Nuzkar",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0015",
+            "endUid": "u0024"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Orcs/Nuzkar.md"
+    },
+    {
+      "id": "e006",
+      "kind": "npc",
+      "label": "Amol",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0025",
+            "endUid": "u0030"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e007",
+      "kind": "npc",
+      "label": "Égnir",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0025",
+            "endUid": "u0030"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Elves/Egnir.md"
+    },
+    {
+      "id": "e008",
+      "kind": "npc",
+      "label": "Tilly",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0025",
+            "endUid": "u0030"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Halflings/Tilly Brineheart.md"
+    },
+    {
+      "id": "e009",
+      "kind": "npc",
+      "label": "Milo",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0025",
+            "endUid": "u0030"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Halflings/Milo Thistlefoot.md"
+    },
+    {
+      "id": "e010",
+      "kind": "item",
+      "label": "Last piece of Rai’s jade",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0031",
+            "endUid": "u0039"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0053",
+            "endUid": "u0112"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2540",
+            "endUid": "u2575"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2588",
+            "endUid": "u2664"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2719",
+            "endUid": "u2725"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Jade Piece of Rai's Hand.md"
+    },
+    {
+      "id": "e011",
+      "kind": "npc",
+      "label": "Fausto",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0459",
+            "endUid": "u0484"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2535",
+            "endUid": "u2539"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Fausto.md"
+    },
+    {
+      "id": "e012",
+      "kind": "npc",
+      "label": "Ladder",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0504",
+            "endUid": "u0516"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Companions/Ladder.md",
+      "confidenceExplanation": "The party explicitly treats the rope ladder respectfully as a companion, but this passage does not establish which successive Ladder it is."
+    },
+    {
+      "id": "e013",
+      "kind": "npc",
+      "label": "Cautious fruit bat",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2146",
+            "endUid": "u2171"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2265",
+            "endUid": "u2287"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The wary speaker is distinct from its companion and Echo, but the source does not establish whether it is the later young guide."
+    },
+    {
+      "id": "e014",
+      "kind": "npc",
+      "label": "More open fruit bat",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2140",
+            "endUid": "u2145"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2279",
+            "endUid": "u2295"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "Its approach for food is a consequential exchange, but its identity relative to the later young guide is unestablished."
+    },
+    {
+      "id": "e015",
+      "kind": "npc",
+      "label": "Echo",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2396",
+            "endUid": "u2447"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2459",
+            "endUid": "u2518"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2610",
+            "endUid": "u2615"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Echo.md"
+    },
+    {
+      "id": "e016",
+      "kind": "divine",
+      "label": "Elmerca",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2427",
+            "endUid": "u2434"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Embodied Gods/Elmerca.md"
+    },
+    {
+      "id": "e017",
+      "kind": "divine",
+      "label": "Aldanor",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2427",
+            "endUid": "u2434"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Embodied Gods/Aldanor.md"
+    },
+    {
+      "id": "e018",
+      "kind": "npc",
+      "label": "Canopy / Eldest",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2444",
+            "endUid": "u2477"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2558",
+            "endUid": "u2575"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2655",
+            "endUid": "u2664"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2803",
+            "endUid": "u2807"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2968",
+            "endUid": "u3024"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Canopy",
+        "Eldest"
+      ],
+      "note": "People/Other Nonhumans/Canopy.md"
+    },
+    {
+      "id": "e019",
+      "kind": "npc",
+      "label": "Blaze",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2459",
+            "endUid": "u2477"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e020",
+      "kind": "npc",
+      "label": "Fire",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2459",
+            "endUid": "u2477"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "low",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The isolated name may refer to an individual or the Fire Clan mentioned in later jungle accounts; this transcript does not settle the kind."
+    },
+    {
+      "id": "e021",
+      "kind": "npc",
+      "label": "Slither",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2459",
+            "endUid": "u2477"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e022",
+      "kind": "npc",
+      "label": "Young bat who found the jade",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2551",
+            "endUid": "u2580"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2586",
+            "endUid": "u2669"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2671",
+            "endUid": "u2728"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "identifiedLater": true,
+      "note": "People/Other Nonhumans/Pip.md"
+    },
+    {
+      "id": "e023",
+      "kind": "npc",
+      "label": "Thorny mass and woody knot at Canopy’s roots",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0411",
+            "endUid": "u0415"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3067",
+            "endUid": "u3081"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3106",
+            "endUid": "u3179"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3265",
+            "endUid": "u3270"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The coherent defensive mass is a distinctive mystery threat, but whether the knot and vines are one individual or a supernatural hazard remains unresolved."
+    },
+    {
+      "id": "e024",
+      "kind": "item",
+      "label": "Copied ancient literature and rescued scrolls",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0006",
+            "endUid": "u0024"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Five mixed-element combat creatures",
+      "reason": "Generic encounter creatures without individually distinguished identities; combat actions are retained in the combat extraction.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1124",
+            "endUid": "u1165"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2352",
+            "endUid": "u2368"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Bat colony and talking jungle residents as organizations",
+      "reason": "A cave residence and shared language do not by themselves establish a separate organized collective beyond the settlement and its residents.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2337",
+            "endUid": "u2344"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2378",
+            "endUid": "u2404"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2459",
+            "endUid": "u2477"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Vulture and lynx food gatherer",
+      "reason": "Routine Beast Sense scouting and spirit-helper food gathering, without an ongoing individual companion identity.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0354",
+            "endUid": "u0375"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2296",
+            "endUid": "u2307"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Raven’s Whistle, winged armor, Immovable Rod and folding boat",
+      "reason": "Routine or proposed standard equipment powers, without separate acquisition, loss or original item lore.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0783",
+            "endUid": "u0818"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1008",
+            "endUid": "u1015"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Seeker’s temporary stone gutter",
+      "reason": "An object created through a routine ability to pass a hazard; no distinct plot-object identity beyond that use.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1059",
+            "endUid": "u1090"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Telescope under construction",
+      "reason": "Brief progress inquiry about ordinary crafting; neither completion nor a distinct plot role is established.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0240",
+            "endUid": "u0244"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Portable hole, mirrors, glove, efreeti jar, fear-protecting cloak and giant shears",
+      "reason": "Existing equipment and contemplated powers or tactics; no completed sacrifice, acquisition or original item history occurs.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3219",
+            "endUid": "u3264"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3272",
+            "endUid": "u3338"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3352",
+            "endUid": "u3387"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Boulder-Ladder",
+      "reason": "Passing predecessor joke during closing banter does not establish current companion involvement or a separate substantive account.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3390",
+            "endUid": "u3415"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Rai as a separate individual",
+      "reason": "The jade fragment’s provenance label is used, without a distinct account of Rai’s own actions or involvement in this session.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0031",
+            "endUid": "u0039"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Scroll blamed for the chaos",
+      "reason": "An unspecified earlier scroll is invoked during speculative blame, without enough identity or item lore for a separate record.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2535",
+            "endUid": "u2539"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "Campaigns/Dunmari Frontier Campaign/Hoards/Tower of the Colossus Treasure.md",
+    "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 105 (DuFr).md",
+    "People/Other Nonhumans/Pip.md",
+    "Gazetteer/Drankorian Hinterland/Awakened Jungle.md"
+  ]
+}

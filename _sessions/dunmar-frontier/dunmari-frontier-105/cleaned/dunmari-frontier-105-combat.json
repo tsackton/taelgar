@@ -1,0 +1,406 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-105",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-session.yaml",
+    "sessionYamlSha256": "e86d535eb29337de3e6a94911385614fb4d3ceb386db0af155ae63c6b13f3ac8",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-transcript.md",
+    "transcriptSha256": "e39d9a4ca7c6eb7fbac87daab1d0b30a1651353e6e240d0db648d0cd20ca1b6b",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-segments.json",
+      "sha256": "6a7c2ae6688dbc3bc86674ed5b5b4ef2a96814c5e078e59029a761b58ab303d8",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s002",
+      "encounter": "Mixed-element creatures in the bat caves",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and shoots the first air-earth creature for 31 damage, granting advantage on all attacks against it until the start of his next turn.",
+              "evidence": [
+                {
+                  "startUid": "u1190",
+                  "endUid": "u1219"
+                },
+                {
+                  "startUid": "u1305",
+                  "endUid": "u1309"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Soul Sights a fire-ice creature: immune to cold/fire damage and the poison condition, resistant to poison damage, with Dexterity its strong ability. Flies through the air-earth creature’s difficult-terrain vortex and attacks with advantage: first staff attack misses (17), second hits for 15. Aura Strike forces a failed DC 16 Charisma save: charmed until Kenzo’s next turn, unable to react and subtracting d4 from attacks and ability checks. The unarmed attacks miss despite advantage.",
+              "evidence": [
+                {
+                  "startUid": "u1225",
+                  "endUid": "u1239"
+                },
+                {
+                  "startUid": "u1262",
+                  "endUid": "u1327"
+                },
+                {
+                  "startUid": "u1723",
+                  "endUid": "u1729"
+                }
+              ],
+              "note": "The fire-ice weak ability is variously given as Strength, Charisma and later Intelligence; the later Intelligence description is retained without treating those statements as consistent."
+            },
+            {
+              "actor": "First air-earth creature",
+              "kind": "turn",
+              "summary": "Moves and expands a whirlwind, requiring Strength saves from Kenzo, Delwath and Wellby. Delwath resists; Kenzo and Wellby are lifted ten feet and restrained. Its first punch hits restrained Kenzo with advantage for 12 bludgeoning damage, reducing speed to zero; its second punch misses.",
+              "evidence": [
+                {
+                  "startUid": "u1328",
+                  "endUid": "u1376"
+                }
+              ]
+            },
+            {
+              "actor": "Second air-earth creature",
+              "kind": "turn",
+              "summary": "Flies and dashes across the cavern, ending its turn without a resolved attack.",
+              "evidence": [
+                {
+                  "startUid": "u1377",
+                  "endUid": "u1385"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts third-level Erupting Earth on one fire-ice creature and a mud patch. The creature fails its Dexterity save and takes 12 damage; the source resolves no separate result for the patch.",
+              "evidence": [
+                {
+                  "startUid": "u1393",
+                  "endUid": "u1443"
+                }
+              ]
+            },
+            {
+              "actor": "First fire-ice creature",
+              "kind": "turn",
+              "summary": "Runs through the erupted earth and dashes towards Wellby, then makes two claw attacks that miss. Spits an icy seed that bursts into a fifteen-foot-radius fire patch with flames ten feet high. The party remains above the flames; the DM later notes Wellby was probably beyond claw reach anyway.",
+              "evidence": [
+                {
+                  "startUid": "u1444",
+                  "endUid": "u1489"
+                }
+              ]
+            },
+            {
+              "actor": "Second fire-ice creature",
+              "kind": "turn",
+              "summary": "Moves and spits two flame tongues at Kenzo: one misses and one hits for 13 fire damage. Its nearby frost aura encases Kenzo in ice, reducing his movement and causing damage if he moves; the higher-flying companions remain outside the aura.",
+              "evidence": [
+                {
+                  "startUid": "u1491",
+                  "endUid": "u1510"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Maintains concentration on Fly and moves above the icy aura. Casts Synaptic Static on three enemies: all fail DC 19 Intelligence saves, take 25 psychic damage, and subtract d6 from attacks and ability checks, with another Intelligence save at each turn’s end to remove the penalty.",
+              "evidence": [
+                {
+                  "startUid": "u1511",
+                  "endUid": "u1570"
+                }
+              ]
+            },
+            {
+              "actor": "Earth-water / air-mud-lightning creature",
+              "kind": "turn",
+              "summary": "Flies into range of Kenzo, correcting the initial attribution to Delwath. Its whirling stone aura damages movement nearby. Hurls a lightning storm at Delwath, who succeeds on a Constitution save (14) and takes 11 lightning damage; a wind talon misses Kenzo. A stone-carapace shockwave requires Constitution saves from all four: Seeker, Delwath and Wellby take 16 thunder damage, while Kenzo rolls 17 and is excluded from that damage statement. Seeker is pushed ten feet; Wellby cannot move while restrained and the others are against the wall.",
+              "evidence": [
+                {
+                  "startUid": "u1580",
+                  "endUid": "u1637"
+                }
+              ],
+              "note": "No damage number is given for Kenzo’s successful shockwave save; the summary does not invent one."
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Still restrained and thirty feet up, uses Steady Aim to cancel disadvantage and shoots the first air-earth creature on a straight roll for 34 damage. Succeeds on the ending Strength save and breaks free of the whirlwind.",
+              "evidence": [
+                {
+                  "startUid": "u1638",
+                  "endUid": "u1668"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Kills the first air-earth creature with a 15-damage staff hit, ending its restraint; Fly prevents a fall. Moves to a fire-ice creature, taking 5 damage from cracking ice and 5 from whirling stone. His next staff attack misses without advantage. An unarmed critical hit deals 10 damage; the target succeeds against DC 16 Aura Strike. The final unarmed hit deals 9 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1669",
+                  "endUid": "u1739"
+                }
+              ]
+            },
+            {
+              "actor": "Second air-earth creature",
+              "kind": "turn",
+              "summary": "Flies up towards Delwath. Both earthbinding attacks miss (the first reduced from 23 to 19 by Synaptic Static; the other 20 misses AC 21). Its fresh whirlwind forces DC 14 Strength saves: Kenzo succeeds with 19, Delwath and Wellby become restrained. Fails the end-of-turn DC 19 Intelligence save and retains Synaptic Static.",
+              "evidence": [
+                {
+                  "startUid": "u1743",
+                  "endUid": "u1788"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves near the ceiling and casts Rune of Psychic Disruption on a fire-ice creature. It fails its Intelligence save, takes unspecified damage, and is incapacitated for one round, correcting the initial “stunned” description.",
+              "evidence": [
+                {
+                  "startUid": "u1789",
+                  "endUid": "u1817"
+                },
+                {
+                  "startUid": "u2112",
+                  "endUid": "u2118"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "event",
+              "summary": "Telepathically alerts the party to two frightened bats trying to leave; he suspects transformed creatures. Seeker cannot yet see them without searching.",
+              "evidence": [
+                {
+                  "startUid": "u1818",
+                  "endUid": "u1839"
+                }
+              ]
+            },
+            {
+              "actor": "Active fire-ice creature",
+              "kind": "turn",
+              "summary": "Spits two flame tongues at Kenzo, both missing with the advantage the DM applies for restraint.",
+              "evidence": [
+                {
+                  "startUid": "u1842",
+                  "endUid": "u1852"
+                }
+              ],
+              "note": "Kenzo passed the new whirlwind save at u01777–u01778, but the DM still calls him restrained here and again at u01922. This inconsistent condition attribution remains unresolved."
+            },
+            {
+              "actor": "Incapacitated fire-ice creature",
+              "kind": "turn",
+              "summary": "Cannot act because of Rune of Psychic Disruption; its turn passes.",
+              "evidence": [
+                {
+                  "startUid": "u1842",
+                  "endUid": "u1852"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Attacks the air-earth creature with disadvantage while restrained: misses with 15, then hits with 19 and 18, badly wounding it. Misty Steps thirty feet out of restraint, then flies to the ceiling near the exit choke point to intercept the bats. Retains Fly and does not cast the contemplated Tongues or Detect Thoughts.",
+              "evidence": [
+                {
+                  "startUid": "u1853",
+                  "endUid": "u1856"
+                },
+                {
+                  "startUid": "u1882",
+                  "endUid": "u1902"
+                },
+                {
+                  "startUid": "u1910",
+                  "endUid": "u1948"
+                }
+              ],
+              "note": "The second hit is first assigned 18 damage; the third is 17 and then summarized as “17 and 17.” Both readings are retained rather than silently choosing a total. A natural critical roll is mentioned but disadvantage prevents treating it as an accepted critical hit."
+            },
+            {
+              "actor": "Earth-water / air-mud-lightning creature",
+              "kind": "turn",
+              "summary": "Moves towards Kenzo and attacks with wind talons under Synaptic Static: one attack misses at 17; another falls from 24 to 18 but still hits AC 18 for 14 piercing damage before deflection.",
+              "evidence": [
+                {
+                  "startUid": "u1949",
+                  "endUid": "u1966"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the 14-damage attack to zero, spends ki to return it, but the creature succeeds on its Dexterity save (17) and takes no reflected damage. Synaptic Static does not reduce saves.",
+              "evidence": [
+                {
+                  "startUid": "u1967",
+                  "endUid": "u1994"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots the wounded fire-ice creature beside Kenzo with a straight 21; it dies and melts. His ending Strength save fails, leaving him restrained.",
+              "evidence": [
+                {
+                  "startUid": "u1995",
+                  "endUid": "u2016"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks the air-mud-lightning creature. Inspiration turns a staff attack from 17 to a hitting 18 for 10 damage plus 1 thunder damage. His second staff attack misses at 13. Unarmed attacks deal 14 damage, miss, then deal 8 damage after the table restores the fifth attack; the creature is badly wounded.",
+              "evidence": [
+                {
+                  "startUid": "u2017",
+                  "endUid": "u2071"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "event",
+              "summary": "Supplies the inspiration used within Kenzo’s preceding attack, including the extra d10 thunder effect that rolls 1.",
+              "evidence": [
+                {
+                  "startUid": "u2026",
+                  "endUid": "u2038"
+                }
+              ]
+            },
+            {
+              "actor": "Second air-earth creature",
+              "kind": "turn",
+              "summary": "Flies diagonally up to Wellby and attacks with advantage because he is restrained. A 20 is reduced to 19 by Synaptic Static and still hits AC 19 for 13 bludgeoning damage before Uncanny Dodge.",
+              "evidence": [
+                {
+                  "startUid": "u2065",
+                  "endUid": "u2079"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge on that hit, reducing the stated 13 bludgeoning damage to 6 as played.",
+              "evidence": [
+                {
+                  "startUid": "u2075",
+                  "endUid": "u2080"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Delwath and Seeker now see the bats over the fire. Seeker rejects another Rune and instead Catapults the creature restraining Wellby. It fails its Dexterity save and is left nearly dead; damage is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u2081",
+                  "endUid": "u2111"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining fire-ice creature",
+              "kind": "turn",
+              "summary": "Recovers when the one-round incapacitation ends, runs through the fire, and attacks airborne Seeker with a lightning-charged fiery tongue for 49 damage; its second tongue misses. Seeker remains conscious.",
+              "evidence": [
+                {
+                  "startUid": "u2112",
+                  "endUid": "u2134"
+                }
+              ],
+              "note": "The damage type split is not specified, so the 49 points are not assigned entirely to fire or lightning."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Understands the bats’ Elvish without Tongues, offers help, and asks them to hide rather than leave. Then dives at the remaining fire-ice creature, entering its frost aura: hits for 19 damage, misses with 13, and hits for another 19, killing it. The ice around him dissipates.",
+              "evidence": [
+                {
+                  "startUid": "u2135",
+                  "endUid": "u2171"
+                },
+                {
+                  "startUid": "u2173",
+                  "endUid": "u2207"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "While still restrained, uses Steady Aim for a straight shot at the creature beside Kenzo, hits with 20 and finishes it in the DM’s compressed resolution.",
+              "evidence": [
+                {
+                  "startUid": "u2208",
+                  "endUid": "u2232"
+                }
+              ],
+              "note": "The target is identified by position beside Kenzo; prior turns identify it as the air-mud-lightning creature. No final damage is given."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Rushes the last creature, which has 8 hit points, and is credited with killing it with his available attacks without further individual rolls. The fire ends and darkness returns.",
+              "evidence": [
+                {
+                  "startUid": "u2225",
+                  "endUid": "u2232"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All five elemental creatures are defeated. The flames disappear and the cave goes dark; the frightened bats survive and Delwath continues speaking with them after initiative.",
+        "evidence": [
+          {
+            "startUid": "u2208",
+            "endUid": "u2232"
+          }
+        ]
+      }
+    }
+  ]
+}
