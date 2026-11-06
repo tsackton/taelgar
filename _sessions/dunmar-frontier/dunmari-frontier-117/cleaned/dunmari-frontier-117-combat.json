@@ -1,0 +1,972 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-117",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-session.yaml",
+    "sessionYamlSha256": "4584aebb84e0d36ecdd223038f1d2b0a4f04a2e7bc5815eb277b0ff1fa191175",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-transcript.md",
+    "transcriptSha256": "b60c0617b15e71c161c322d1cbe8395daaf004533134fcacfa4c22e508cfefbd",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-segments.json",
+      "sha256": "c50bb62731de3469d0031f8778d899c359eec1b36f43cca4db624b72235652e7",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s007",
+      "encounter": "Spirits in the sarcophagus hall",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Advances, succeeds on the worship-trap Wisdom save with 25, and presents her holy symbol. Turn Undead requires DC 18 Wisdom saves; failures are frightened/incapacitated and suffer 5d8 damage, successes unaffected. About 25 spirits vanish after the initial count is corrected; 15 remain.",
+              "evidence": [
+                {
+                  "startUid": "u0682",
+                  "endUid": "u0709"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Abandons Steady Aim, advances and barely succeeds on the DC 20 Wisdom save. His arrow hits for 8 damage, destroying one minion without follow-through.",
+              "evidence": [
+                {
+                  "startUid": "u0718",
+                  "endUid": "u0753"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Steps into the room to obtain firing angles, fails the Wisdom save and falls to prayer before attacking. May use an action each round to attempt escape; this trap is neither charm nor fear.",
+              "evidence": [
+                {
+                  "startUid": "u0754",
+                  "endUid": "u0792"
+                }
+              ]
+            },
+            {
+              "actor": "First wave of spirits",
+              "kind": "turn",
+              "summary": "Surrounds Riswynn and Wellby. A group attack of 24 hits Riswynn for 20 necrotic damage and silences her through her next turn, preventing speech and verbal abilities. A 22 hits Wellby for 12 necrotic damage.",
+              "evidence": [
+                {
+                  "startUid": "u0793",
+                  "endUid": "u0810"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge against the minion attack, reducing 12 necrotic damage to 6.",
+              "evidence": [
+                {
+                  "startUid": "u0811",
+                  "endUid": "u0815"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Remains on the stairs to avoid the trap; first-level Catapult destroys one minion after its failed Dexterity save.",
+              "evidence": [
+                {
+                  "startUid": "u0816",
+                  "endUid": "u0822"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Moves in front of Seeker to protect him while remaining on the stairs, so no worship save is required.",
+              "evidence": [
+                {
+                  "startUid": "u0823",
+                  "endUid": "u0828"
+                }
+              ]
+            },
+            {
+              "actor": "Summoned metal construct",
+              "kind": "turn",
+              "summary": "Stays on the stairs in front of Seeker, avoiding the room trap.",
+              "evidence": [
+                {
+                  "startUid": "u0829",
+                  "endUid": "u0832"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Enters and succeeds on the Wisdom save with 27. Two staff hits each destroy one minion, the second dealing 16 damage. Three unarmed hits destroy four more: 14 damage, another hit, then a natural-20 critical for 23 damage that destroys two. Advances through the spirits as he attacks.",
+              "evidence": [
+                {
+                  "startUid": "u0833",
+                  "endUid": "u0884"
+                }
+              ]
+            },
+            {
+              "actor": "Chalyte knight",
+              "kind": "turn",
+              "summary": "Advances and kills two spirits with attacks made at disadvantage from the echoing in its head.",
+              "evidence": [
+                {
+                  "startUid": "u0885",
+                  "endUid": "u0890"
+                }
+              ]
+            },
+            {
+              "actor": "Second wave of spirits",
+              "kind": "turn",
+              "summary": "Swarms the chalyte knight and hits for 24 damage, leaving it at 91 HP.",
+              "evidence": [
+                {
+                  "startUid": "u0891",
+                  "endUid": "u0896"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Still silenced, cannot use Turn Undead under the table ruling. The DM later resolves her attacks as destroying two spirits; weapon and damage are not specified.",
+              "evidence": [
+                {
+                  "startUid": "u0897",
+                  "endUid": "u0912"
+                },
+                {
+                  "startUid": "u0926",
+                  "endUid": "u0931"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves down the hall and fires an arrow that pierces two minions and destroys both; an attack of 21 is stated, without a settled damage total.",
+              "evidence": [
+                {
+                  "startUid": "u0925",
+                  "endUid": "u0938"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Succeeds on the DC 20 Wisdom save, shaking off forced prayer and standing. Escape uses his action; movement and bonus action remain available.",
+              "evidence": [
+                {
+                  "startUid": "u0913",
+                  "endUid": "u0924"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining spirits",
+              "kind": "turn",
+              "summary": "The remaining minions do nothing effective to the chalyte knight before the encounter is resolved.",
+              "evidence": [
+                {
+                  "startUid": "u0935",
+                  "endUid": "u0938"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "The DM explicitly resolves the remaining fight without requiring an action from Seeker.",
+              "evidence": [
+                {
+                  "startUid": "u0935",
+                  "endUid": "u0939"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Runs forward and kills the last two spirits without spending ki.",
+              "evidence": [
+                {
+                  "startUid": "u0935",
+                  "endUid": "u0939"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker, Ladder and summoned metal construct",
+              "kind": "event",
+              "summary": "Enter the room after the spirits are dead and shake off its compulsory prayer after about thirty seconds; the DM compresses this resolution.",
+              "evidence": [
+                {
+                  "startUid": "u0940",
+                  "endUid": "u0944"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All spirits are destroyed, leaving the hall empty. The companions enter and recover from the prayer trap in compressed narration.",
+        "evidence": [
+          {
+            "startUid": "u0935",
+            "endUid": "u0944"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s009",
+      "encounter": "Apollyon in his private sanctum",
+      "openingActions": [
+        {
+          "actor": "Riswynn",
+          "kind": "turn",
+          "summary": "Retroactively casts Death Ward on Delwath while passing through the corridors; the DM accepts this preparation.",
+          "evidence": [
+            {
+              "startUid": "u1248",
+              "endUid": "u1253"
+            }
+          ]
+        },
+        {
+          "actor": "Delwath",
+          "kind": "turn",
+          "summary": "Retroactively drinks his Potion of Invulnerability on entry, gaining the all-damage resistance applied throughout the encounter.",
+          "evidence": [
+            {
+              "startUid": "u1254",
+              "endUid": "u1255"
+            },
+            {
+              "startUid": "u1337",
+              "endUid": "u1340"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Uncanny Metabolism to recover ki, activates Lengau's Claw for an extra d6 force damage per hit and rushes the throne. Both staff attacks miss, including a 20. Unarmed attacks: natural-20 critical for 26 damage with the extra d6 doubled; miss; hit 22 for 15 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1223",
+                  "endUid": "u1289"
+                }
+              ]
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "reaction",
+              "summary": "Teleports after Kenzo finishes, avoiding an opportunity attack.",
+              "evidence": [
+                {
+                  "startUid": "u1290",
+                  "endUid": "u1299"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "The proposed seeking arrow is unavailable because it was already used today. Uses the Clockwork Amulet instead, hits with 30 for 8 damage without Sneak Attack, gives allies advantage, then moves and hides.",
+              "evidence": [
+                {
+                  "startUid": "u1301",
+                  "endUid": "u1330"
+                }
+              ]
+            },
+            {
+              "actor": "Pillars",
+              "kind": "lair_action",
+              "summary": "Fire bolts at Kenzo, Riswynn, the chalyte knight and Delwath, requiring Constitution saves. Kenzo (25) and the knight succeed for no damage. Delwath takes 19 necrotic reduced to 9 by resistance; Riswynn’s result is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u1331",
+                  "endUid": "u1345"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "event",
+              "summary": "Fails his concentration save after the pillar damage and allows Fly to end.",
+              "evidence": [
+                {
+                  "startUid": "u1381",
+                  "endUid": "u1388"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts sixth-level Erupting Earth. After absorbing the counterspell backlash, Apollyon fails his Dexterity save (18), taking 30 bludgeoning damage; the area becomes difficult terrain.",
+              "evidence": [
+                {
+                  "startUid": "u1346",
+                  "endUid": "u1380"
+                }
+              ]
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "reaction",
+              "summary": "Counters Erupting Earth; Seeker fails the Constitution save with 17 but chooses 30 necrotic damage so the spell resolves rather than losing the slot without effect.",
+              "evidence": [
+                {
+                  "startUid": "u1347",
+                  "endUid": "u1375"
+                }
+              ]
+            },
+            {
+              "actor": "Summoned metal construct",
+              "kind": "turn",
+              "summary": "Advances but cannot enter the difficult terrain with its remaining movement; makes no resolved attack.",
+              "evidence": [
+                {
+                  "startUid": "u1389",
+                  "endUid": "u1411"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Flies over the difficult terrain to the bone table. Cannot destroy the powerful orb by smashing it, so picks it up and flies back fifteen feet carrying it. Its air enhancement grants a forty-foot fly speed.",
+              "evidence": [
+                {
+                  "startUid": "u1412",
+                  "endUid": "u1427"
+                }
+              ]
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "turn",
+              "summary": "Flies above the difficult ground to Delwath and makes three attacks. One hits with 27 for 28 psychic damage, reduced to 14, and inflicts pain that halves Delwath’s attack damage until a DC 20 Constitution save after an attack succeeds. Attacks of 22 and 23 miss after Shield.",
+              "evidence": [
+                {
+                  "startUid": "u1428",
+                  "endUid": "u1445"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Casts Shield, causing the second and third attacks to miss.",
+              "evidence": [
+                {
+                  "startUid": "u1435",
+                  "endUid": "u1440"
+                }
+              ]
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "villain_action",
+              "summary": "Commands “Die, elf!” after injuring Delwath. Death Ward prevents the death; radiant Bahrâzel appear and the ward is consumed, visibly shaking Apollyon. The death command is corrected to once per combat.",
+              "evidence": [
+                {
+                  "startUid": "u1446",
+                  "endUid": "u1459"
+                }
+              ]
+            },
+            {
+              "actor": "Chalyte knight",
+              "kind": "turn",
+              "summary": "Closes and makes three attacks, including two natural-20 criticals. Apollyon is immune to the necrotic component; the DM calls for 8d6 + 12 remaining damage, without a spoken total.",
+              "evidence": [
+                {
+                  "startUid": "u1461",
+                  "endUid": "u1476"
+                }
+              ]
+            },
+            {
+              "actor": "Pillars",
+              "kind": "lair_action",
+              "summary": "Four spirits leave the pillars and form a protective shell around Apollyon.",
+              "evidence": [
+                {
+                  "startUid": "u1477",
+                  "endUid": "u1480"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Marks Apollyon with Yezali as a bonus action, passes the shielding spirit’s Wisdom save with 25, and attacks with advantage. First hit 26 deals 18 halved to 9 by pain; second attack misses after rebuke cancels advantage. Uses Bardic Inspiration to overcome the DC 20 Constitution pain save after an attack; third attack hits with 23 for 19 damage. Each protective spirit tests a person once.",
+              "evidence": [
+                {
+                  "startUid": "u1481",
+                  "endUid": "u1536"
+                }
+              ]
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "reaction",
+              "summary": "Rebukes Delwath after the first hit for 10 necrotic damage and imposes disadvantage on the next attack, canceling advantage.",
+              "evidence": [
+                {
+                  "startUid": "u1506",
+                  "endUid": "u1513"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts Conjure Celestial, maintaining a ten-foot-radius, forty-foot-high cylinder. Heals Delwath for 36 to full and damages Apollyon: he succeeds on the Dexterity save (17 + 2), reducing 43 radiant damage to 21. Remains in place.",
+              "evidence": [
+                {
+                  "startUid": "u1551",
+                  "endUid": "u1598"
+                },
+                {
+                  "startUid": "u1538",
+                  "endUid": "u1546"
+                }
+              ],
+              "note": "The announced teleport after Delwath is withdrawn; Apollyon stays in the cylinder, saving his reaction for Counterspell."
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "reaction",
+              "summary": "Attempts Counterspell against Conjure Celestial; Riswynn succeeds on the Constitution save, so the spell resolves.",
+              "evidence": [
+                {
+                  "startUid": "u1552",
+                  "endUid": "u1557"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Initially fails the shielding spirit’s Wisdom save but uses Heroic Inspiration to reroll 28, dispersing it without losing the turn. Staff hits deal 11 and 17; unarmed attacks miss with 14, hit for 16, and critically hit for 20. Apollyon is stated immune to stunned, frightened, charmed, paralyzed, poisoned and exhausted, but can be blinded.",
+              "evidence": [
+                {
+                  "startUid": "u1599",
+                  "endUid": "u1643"
+                }
+              ]
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "villain_action",
+              "summary": "Releases a magic-canceling wave requiring Wisdom saves. Kenzo succeeds with 20; Seeker and Riswynn fail, Riswynn even after a Heroic reroll. Through their next turns they cannot use fourth-level-or-higher magic or activate magic items; existing item benefits remain. Conjure Celestial is paused, not ended.",
+              "evidence": [
+                {
+                  "startUid": "u1644",
+                  "endUid": "u1685"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Fires a lightning arrow with Bardic Inspiration, hits 28 for 21 damage plus 13 lightning, and attempts blinding (DC 18 Dexterity). Apollyon rolls a natural 20 and is not blinded. A late shielding-spirit Wisdom save first cancels this action, but Heroic Inspiration rerolls the save successfully and restores the whole attack once; both inspirations are spent. Moves and hides.",
+              "evidence": [
+                {
+                  "startUid": "u1686",
+                  "endUid": "u1739"
+                }
+              ]
+            },
+            {
+              "actor": "Pillars",
+              "kind": "lair_action",
+              "summary": "A humming pillar attempts to compel Kenzo to attack an ally. His Charisma save of 14 becomes 22 with Bardic Inspiration (+8), and he resists.",
+              "evidence": [
+                {
+                  "startUid": "u1740",
+                  "endUid": "u1764"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Remains commandable despite the magic-canceling wave. Flies to Seeker and hands him the stolen orb, then continues toward Apollyon to attack; no hit or damage result is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1766",
+                  "endUid": "u1788"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Uses third-level Catapult to launch the orb into Apollyon’s face for 22 damage after a failed Dexterity save. Apollyon declines legendary resistance. Third-level magic is allowed in the resolved play despite an inconsistent reminder at u1766.",
+              "evidence": [
+                {
+                  "startUid": "u1773",
+                  "endUid": "u1791"
+                }
+              ]
+            },
+            {
+              "actor": "Summoned metal construct",
+              "kind": "turn",
+              "summary": "Cannot be commanded while the eighth-level summoning spell is paused by the canceling wave.",
+              "evidence": [
+                {
+                  "startUid": "u1766",
+                  "endUid": "u1772"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "event",
+              "summary": "Catches the rebounding orb; the DM explicitly corrects the party’s label: it is not a phylactery.",
+              "evidence": [
+                {
+                  "startUid": "u1811",
+                  "endUid": "u1813"
+                }
+              ]
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "turn",
+              "summary": "Turns to mist, retreats and absorbs the glowing floor runes, restoring full HP and refreshing reactions. Fires twice at Seeker: 28 hits despite +5 AC from Ladder cover for 39 fire; 24 hits for 42 fire. Seeker’s first concentration save succeeds with advantage, but the second fails against DC 21 and the construct vanishes; he declines a Heroic reroll. Final attack 21 misses Riswynn’s AC 23.",
+              "evidence": [
+                {
+                  "startUid": "u1792",
+                  "endUid": "u1870"
+                }
+              ]
+            },
+            {
+              "actor": "Chalyte knight",
+              "kind": "turn",
+              "summary": "Charges and makes three attacks, all misses.",
+              "evidence": [
+                {
+                  "startUid": "u1871",
+                  "endUid": "u1876"
+                }
+              ]
+            },
+            {
+              "actor": "Pillars",
+              "kind": "lair_action",
+              "summary": "Require Constitution saves from Riswynn, Delwath, Kenzo and Seeker. Kenzo (21) and Riswynn are unaffected; Delwath and Seeker each take the stated 9 necrotic damage.",
+              "evidence": [
+                {
+                  "startUid": "u1872",
+                  "endUid": "u1888"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Charges and taunts Apollyon. Uses his 2d4 aid on the DC 20 Wisdom save; a tanshi wrestles the last shielding spirit away. Attacks without advantage: a 19 critical with smite deals 85 damage, then hits of 21 and 22 deal 17 and 19. The proposed retrospective extra 2d6 effect is not applied.",
+              "evidence": [
+                {
+                  "startUid": "u1889",
+                  "endUid": "u1930"
+                },
+                {
+                  "startUid": "u1936",
+                  "endUid": "u1940"
+                }
+              ],
+              "note": "Individual resolved damage is retained; the later casual “104 points” does not match all three stated amounts."
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts third-level Guiding Bolt under the suppression limit. Its 21 hits for 13 damage and grants advantage to the next attack.",
+              "evidence": [
+                {
+                  "startUid": "u1931",
+                  "endUid": "u1951"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Apollyon",
+              "kind": "villain_action",
+              "summary": "At the round opening, erupts black cages/tendrils requiring Dexterity saves. Kenzo (23) and Wellby avoid damage and restraint; everyone else is assigned 27 necrotic damage and restrained. Escape is by an end-of-turn save or teleport, not Kenzo pulling someone free. Riswynn succeeds on DC 13 concentration and keeps Conjure Celestial.",
+              "evidence": [
+                {
+                  "startUid": "u1952",
+                  "endUid": "u1974"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Closes, ignoring difficult terrain. First staff hit 30 deals 10; forgotten Guiding Bolt advantage is checked retrospectively without a critical. After rebuke, the next staff attack misses with 19 at disadvantage. Unarmed attacks hit for the stated 7, hit for corrected 12, then miss with 18.",
+              "evidence": [
+                {
+                  "startUid": "u1975",
+                  "endUid": "u2025"
+                }
+              ]
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "reaction",
+              "summary": "After Kenzo’s first hit, rebukes him for 11 necrotic damage and gives only his next attack disadvantage.",
+              "evidence": [
+                {
+                  "startUid": "u1993",
+                  "endUid": "u2001"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Runs to the throne, taunts Apollyon and shoots with Vex advantage. The initial 20 miss is corrected by Skaer arrows’ +1 to a hit of 21. Uses blinding to reduce 34 damage to 26; Apollyon resists blindness by cracking a pillar and losing its runes. Three pillars remain.",
+              "evidence": [
+                {
+                  "startUid": "u2026",
+                  "endUid": "u2044"
+                },
+                {
+                  "startUid": "u2056",
+                  "endUid": "u2078"
+                }
+              ]
+            },
+            {
+              "actor": "Pillars",
+              "kind": "lair_action",
+              "summary": "Refresh the protective spirits. The immediate count is inconsistent (“3 ... 4”); the later attack adjudication establishes three, then two after Delwath’s successful save.",
+              "evidence": [
+                {
+                  "startUid": "u2079",
+                  "endUid": "u2082"
+                },
+                {
+                  "startUid": "u2249",
+                  "endUid": "u2252"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves into Conjure Celestial’s healing cylinder as accepted in play and casts fifth-level Erupting Earth. Accepts 25 necrotic backlash after failing Constitution with 3. Apollyon resists the Dexterity effect by cracking a second pillar. The spell’s 43 damage also catches Ladder, which fails its Dexterity save. Seeker receives 36 healing on entry, rising from 5 to 41.",
+              "evidence": [
+                {
+                  "startUid": "u2083",
+                  "endUid": "u2176"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Flies around to attack Apollyon and misses. Cannot fit above the floor-to-ceiling pillars and remains in the Erupting Earth area.",
+              "evidence": [
+                {
+                  "startUid": "u2088",
+                  "endUid": "u2109"
+                }
+              ]
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "reaction",
+              "summary": "Retrospectively counters Erupting Earth; Seeker fails the Constitution save without advantage and pays 25 necrotic damage to keep the spell.",
+              "evidence": [
+                {
+                  "startUid": "u2133",
+                  "endUid": "u2149"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "event",
+              "summary": "Fails the Dexterity save against Seeker’s Erupting Earth and takes 43 damage, surviving.",
+              "evidence": [
+                {
+                  "startUid": "u2150",
+                  "endUid": "u2160"
+                }
+              ]
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "reaction",
+              "summary": "Teleports to Wellby after Ladder’s turn. This is a reaction, so Wellby cannot yet use Skirmisher.",
+              "evidence": [
+                {
+                  "startUid": "u2154",
+                  "endUid": "u2170"
+                }
+              ]
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "turn",
+              "summary": "Hits Wellby with 33 for 32 psychic damage and pain that halves attack damage until a DC 20 Constitution save after an attack. Uses a bonus-action mist flight, ultimately moving farther back with ninety-foot movement. Hits Riswynn with 26 for 31 fire reduced by her resistance and Seeker with 29 for 34 fire, leaving Seeker at 7.",
+              "evidence": [
+                {
+                  "startUid": "u2177",
+                  "endUid": "u2221"
+                }
+              ]
+            },
+            {
+              "actor": "Chalyte knight",
+              "kind": "turn",
+              "summary": "Dashes to close the distance but cannot attack. With two pillars cracked, the second lair action is explicitly removed.",
+              "evidence": [
+                {
+                  "startUid": "u2222",
+                  "endUid": "u2227"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Uses two sorcery points to quicken Dimension Door behind Apollyon, accepting counterspell backlash reduced to 10 necrotic. Succeeds on Wisdom with 24, dispersing one of three spirits. Spends his last slot on a 60-damage smite that knocks Apollyon prone. Second attack hits with 23 after rebuke cancels prone advantage; third attacks with advantage for a stated 17 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2228",
+                  "endUid": "u2280"
+                }
+              ],
+              "note": "The second non-smite hit has no separately spoken damage total."
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "reaction",
+              "summary": "Counters Dimension Door; Delwath elects to take 20 necrotic backlash, halved to 10, and teleports.",
+              "evidence": [
+                {
+                  "startUid": "u2238",
+                  "endUid": "u2245"
+                }
+              ]
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "reaction",
+              "summary": "Uses Foul Rebuke for a stated 14 necrotic damage and disadvantage on Delwath’s next attack, canceling prone advantage.",
+              "evidence": [
+                {
+                  "startUid": "u2260",
+                  "endUid": "u2267"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Cannot heal Seeker again with the cylinder under the table’s adjudication, and it cannot reach Apollyon. Casts bonus-action Healing Word for 26 healing, moves into melee and misses with Shatterstorm.",
+              "evidence": [
+                {
+                  "startUid": "u2283",
+                  "endUid": "u2342"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Apollyon",
+              "kind": "villain_action",
+              "summary": "At the round opening, fires black bolts at everyone within 120 feet, requiring Dexterity saves. Kenzo (24) and Wellby take nothing; 103 necrotic damage is announced for the others. Seeker falls from 33 HP to zero and declines a Heroic reroll because even half damage would drop him. Riswynn’s concentration spell ends; the chalyte knight’s destruction is confirmed later in the same resolution.",
+              "evidence": [
+                {
+                  "startUid": "u2343",
+                  "endUid": "u2387"
+                },
+                {
+                  "startUid": "u2403",
+                  "endUid": "u2405"
+                }
+              ],
+              "note": "Ladder remains active in the subsequent narration; no separate damage or save result for it is resolved."
+            },
+            {
+              "actor": "Ladder",
+              "kind": "event",
+              "summary": "Rushes in terror to protect Seeker’s fallen body. Erupting Earth’s difficult terrain remains after the concentration spell ends.",
+              "evidence": [
+                {
+                  "startUid": "u2389",
+                  "endUid": "u2393"
+                }
+              ]
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "reaction",
+              "summary": "Uses his last reaction to teleport away, trying to get beyond Kenzo’s range. Two shielding spirits remain.",
+              "evidence": [
+                {
+                  "startUid": "u2403",
+                  "endUid": "u2418"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Reaches Apollyon without difficulty and passes Wisdom with 26, leaving one spirit. Attacks without advantage: staff miss and hit 27 for 10; unarmed miss, hit 21 for 12, hit 22 with damage spoken ambiguously as “7 plus 9 damage.” Apollyon remains standing with roughly a tenth of his HP.",
+              "evidence": [
+                {
+                  "startUid": "u2419",
+                  "endUid": "u2462"
+                }
+              ],
+              "note": "The final unarmed damage is retained as spoken rather than selecting an unsupported total."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Fails Wisdom with 17 against the final spirit, is dazed and loses his attack; the last spirit is gone. Also fails the DC 20 Constitution save against pain. The DM acknowledges his previous Skaer-arrow hit when discussing Vex, but no attack resolves now.",
+              "evidence": [
+                {
+                  "startUid": "u2463",
+                  "endUid": "u2475"
+                }
+              ]
+            },
+            {
+              "actor": "Pillars",
+              "kind": "lair_action",
+              "summary": "Force Ladder to make a Charisma save. It fails and is compelled to strike unconscious Seeker, screaming in terror; the table assigns Seeker one failed death save.",
+              "evidence": [
+                {
+                  "startUid": "u2476",
+                  "endUid": "u2495"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Rolls a death save of 4, bringing his failures to two; remains alive and unconscious.",
+              "evidence": [
+                {
+                  "startUid": "u2496",
+                  "endUid": "u2513"
+                }
+              ]
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "turn",
+              "summary": "Uses bonus-action shadow/mist movement to the middle of the room. Hits Wellby with 20 for 34 fire; Uncanny Dodge is disallowed against the ranged spell attack under the table ruling. Hits Riswynn with 30 for 29 psychic damage and pain halving attacks, leaving her at 3 HP. A natural-20 fire attack at Delwath is blocked by his tanshi reaction.",
+              "evidence": [
+                {
+                  "startUid": "u2514",
+                  "endUid": "u2568"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Uses his defensive reaction; tanshi leap in front of the critical fire bolt and prevent the hit.",
+              "evidence": [
+                {
+                  "startUid": "u2554",
+                  "endUid": "u2568"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves closer but cannot reach melee. Uses the ship’s seventh-level Healing Word effect to restore unconscious Seeker for 36, accepting 35 necrotic counterspell backlash reduced to 17. Eldritch Blast initially misses then hits for 4 and 17; Heroic Inspiration converts the miss to a 6-damage hit, leaving Apollyon at 4 HP. The forgotten Mark of the Hunter adds 15 across the three hits; the DM accepts it as the killing blow, narrating the tanshi riding the last blast and Apollyon dissolving in moonlight.",
+              "evidence": [
+                {
+                  "startUid": "u2569",
+                  "endUid": "u2678"
+                }
+              ]
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "reaction",
+              "summary": "Counters the seventh-level Healing Word; Delwath accepts 35 necrotic backlash, halved to 17, so Seeker receives 36 healing.",
+              "evidence": [
+                {
+                  "startUid": "u2605",
+                  "endUid": "u2617"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Delwath’s corrected final Eldritch Blast kills Apollyon before Riswynn takes another resolved turn. His body disintegrates in moonlight, the two remaining pillars crack, and the sanctum starts collapsing. The subsequent escape is outside initiative.",
+        "evidence": [
+          {
+            "startUid": "u2658",
+            "endUid": "u2678"
+          }
+        ]
+      }
+    }
+  ]
+}

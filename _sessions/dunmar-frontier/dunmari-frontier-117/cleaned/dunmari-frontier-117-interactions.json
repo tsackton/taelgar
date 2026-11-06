@@ -1,0 +1,1891 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "b60c0617b15e71c161c322d1cbe8395daaf004533134fcacfa4c22e508cfefbd"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-entity-map.json",
+      "sha256": "3445d46c86e377a1b62cffff4f901dafe5e8afe6e5bf508ad2fa525201d6f2be"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Creating a tiny silk ladder",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0194",
+        "endUid": "u0205"
+      },
+      "lines": [
+        "%% u0194:0-214, u0195:0-30, u0196:0-288 %%",
+        "Seeker: ((Omitted mechanics or aside)) I think what I can do is take and take the concept of inspiration—not inspiration. The effect from Wellby's suggestion, and actually use Performance of Creation, my ability to create a tiny silk ladder that's even smaller than the one Wellby was going to show me so that it's even stealthier, like maybe only a few inches long.",
+        "",
+        "%% u0197:0-4 %%",
+        "DM: Yep.",
+        "",
+        "%% u0198:0-38, u0199:0-75, u0200:0-17, u0201:0-51 %%",
+        "Seeker: ((Omitted mechanics or aside)) imbue the item with sentience and mobility. ((Omitted mechanics or aside))",
+        "",
+        "%% u0202:0-29 %%",
+        "Seeker: Cool, what should we call it?",
+        "",
+        "%% u0203:0-219 %%",
+        "((Other preparations))",
+        "",
+        "%% u0204:0-70, u0205:0-56 %%",
+        "Seeker: See? Yeah. And the problem with sending Mini ladder down there is that we just send it down and wait for it to come back. Yeah."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I would just, I would just just get back your Channel Divinity and have full set. I don't need healing. I, I—the Prayer of Healing, plus my hit dice got me back to full health.",
+          "Riswynn: Okay.",
+          "Seeker: So.",
+          "Riswynn: I would stand by in case you need any.",
+          "DM: So what were you asking?"
+        ],
+        "after": [
+          "Delwath: I'll just do a quick look around.",
+          "Seeker: Okay.",
+          "Delwath: With Ghostly Gaze, just to see what I see.",
+          "Seeker: Yeah.",
+          "Delwath: And that might—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Delwath prays to Elmerca",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0265",
+        "endUid": "u0271"
+      },
+      "lines": [
+        "%% u0265:0-194, u0266:0-99 %%",
+        "Delwath: ((Omitted mechanics or aside)) Also during the short rest, I mean Delwath is praying. ((Omitted mechanics or aside))",
+        "",
+        "%% u0267:0-201, u0268:0-89, u0269:0-79 %%",
+        "Delwath: ((Omitted mechanics or aside)) But he's actually, during this Prayer for Healing, like, was praying to Elmerca, the elven god, who you've never heard him pray to before, but like he seems very sort of lost in some degree of thought, and asking the elvish god for guidance.",
+        "",
+        "%% u0270:0-52 %%",
+        "Wellby: All it took was dying to really find religion there.",
+        "",
+        "%% u0271:0-20 %%",
+        "Delwath: Dying is a big deal."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Hey, that's like interesting that Internet in Vermont, you know, it's like, it's Vermont. A lot should still have Internet.",
+          "Delwath: But rural Internet's bad everywhere.",
+          "Kenzo: Yeah.",
+          "Wellby: While waiting on that, during the short rest, Wellby did scout out this whole level, look for ways down, especially knowing that there is something below.",
+          "DM: Okay, go ahead and go ahead and make a Perception check. Oops. Yeah. Where is Roll20? Just sent you a message, Schwartz."
+        ],
+        "after": [
+          "DM: Yeah. Eric dropped off Roll20 too.",
+          "Delwath: Maybe he's restarting his computer.",
+          "DM: Yeah, he's probably restarting his computer.",
+          "Kenzo: Or we've underestimated Apollyon's power.",
+          "DM: I'll, I'll let him come back on before I describe what—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Murals of triumph and ascension",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0289",
+        "endUid": "u0306"
+      },
+      "lines": [
+        "%% u0289:0-103, u0290:0-83, u0291:0-55 %%",
+        "DM: And although obviously unfinished, this is clearly a monument or a, you know, a depiction of Apollyon's triumphant rise to power. There is a mural that's unfinished that you know, depicts Apollyon leading his army with the Scepter of Command.",
+        "",
+        "%% u0292:0-77, u0293:0-135, u0294:0-55 %%",
+        "DM: There's a mural that is mostly finished that depicts Apollyon standing in the the large arena, the amphitheater, that you could see when you flew your ship, overflew Vindristjarna over Drankor, raising his hand as a few hundred Peronar are executed in a mass execution.",
+        "",
+        "%% u0295:0-38, u0296:0-170, u0297:0-9, u0298:0-93 %%",
+        "DM: There are other depictions of Apollyon standing above the 8 divines, the 8 divines bowing to him as the temple is, as, you know, temple is dismantled, which you know didn't happen, perhaps more aspirational than in truth. But it is clearly a quite, you know, militaristic and imperial display of Apollyon's triumphs.",
+        "",
+        "%% u0299:0-70, u0300:0-58, u0301:0-140, u0302:0-62, u0303:0-47, u0304:0-135, u0305:0-43, u0306:0-48 %%",
+        "DM: On the other side, opposite here, this room is, is mostly unfinished, but there is a massive mosaic that covers the entire wall. Almost no tiles placed, but you can sort of see how it's been sketched out. That's seemingly supposed to depict Apollyon's ascension to God. There are, you know, Apollyon standing, the crown on his head, the cloak flowing behind him, scepter upraised, lines of energy radiating out from the crown in all directions, circling around the scepter, being amplified and amplifying the scepter, and as he slowly ascends from this building somewhere. But again, it's mostly not completed."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Can you hear us, Eric?",
+          "Seeker: All right. There we go!",
+          "Delwath: Yep, we can hear you.",
+          "Seeker: We can hear you. Sorry about that.",
+          "DM: Let's hope it stays. Okay. So I was about to say what what Wellby finds as he searches, as he returns from searching just about as Delwath finishes his prayers, and what you report. So on the left side, the, the west side of the— of the temple, this side chapel. It's, I mean, it's a big room. It's—there's a row of columns that separate it from the— from the main sort of temple space."
+        ],
+        "after": [
+          "DM: You do also find— but so in the central room there's this large, large sort of central altar here. One of these floor tiles in the back is loose, and it looks like you could pry it up.",
+          "Seeker: Relevant.",
+          "Wellby: That good.",
+          "DM: And that's what Delwath—Wellby finds as Delwath—and reports as Delwath finishes his prayers.",
+          "Riswynn: We're trying to get down. It's bound to [garbled]."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "The knight and the echoing stair trap",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0360",
+        "endUid": "u0388"
+      },
+      "lines": [
+        "%% u0360:0-24, u0361:0-18, u0362:0-120, u0363:0-93, u0364:0-64 %%",
+        "DM: As it starts to descend, it shakes its head and starts, like, banging its ear, and Riswynn, you hear this, like, static echoing in your head that sounds like an echo of something being shouted loudly in Drankorian over and over, and over and over and over again. It's like shaking its head and having a hard time concentrating.",
+        "",
+        "%% u0365:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u0366:0-70 %%",
+        "Riswynn: That there's a magic effect on the stairs, and [garbled].",
+        "",
+        "%% u0367:0-13 %%",
+        "Wellby: Dispel Magic.",
+        "",
+        "%% u0368:0-5, u0369:0-36 %%",
+        "Riswynn: Good. Guess if we have to go through here.",
+        "",
+        "%% u0370:0-83, u0371:0-12, u0372:0-67 %%",
+        "Seeker: Yeah, it seems like an interesting idea to try to use Dispel Magic on this effect. I I have it. Do I have any prior knowledge that would suggest what level to use?",
+        "",
+        "%% u0373:0-3 %%",
+        "DM: No.",
+        "",
+        "%% u0374:0-26 %%",
+        "Riswynn: The stairs like 3rd Level.",
+        "",
+        "%% u0375:0-35 %%",
+        "Seeker: I'll try a 3rd level, Dispel Magic.",
+        "",
+        "%% u0376:0-11, u0377:0-36, u0378:0-81, u0379:0-187, u0380:0-53, u0381:0-2, u0382:0-20 %%",
+        "((Dispel rolls and interface discussion))",
+        "",
+        "%% u0383:0-37 %%",
+        "DM: You seem to have dispelled something.",
+        "",
+        "%% u0384:0-58 %%",
+        "Riswynn: Do I still sense the chalyte knight's echoes of noisiness?",
+        "",
+        "%% u0385:0-68 %%",
+        "DM: Yeah, your target. Wait. Are you targeting the knight or the stairs?",
+        "",
+        "%% u0386:0-7 %%",
+        "Wellby: Stairs.",
+        "",
+        "%% u0387:0-17, u0388:0-93 %%",
+        "DM: Yeah, yeah, okay. You think you've managed to dispel whatever the trap is. But the ongoing effect is not ended."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Somebody. I love that little little dial, a little monitor there.",
+          "DM: I've got too many tabs, but I gotta find it again. I'll just—",
+          "Riswynn: Checking on the chalyte knight's darkvision, right?",
+          "DM: Yeah.",
+          "Seeker: Maybe it's gonna level up."
+        ],
+        "after": [
+          "Riswynn: Yeah.",
+          "Seeker: Does that make sense? It kind of does. It's a condition now. It's not a magic.",
+          "Delwath: Yeah, yeah, that makes sense.",
+          "Seeker: All right. Okay.",
+          "DM: That's our team. I go down the stairs."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Apollyon's challenge and defeat",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1178",
+        "endUid": "u2678"
+      },
+      "lines": [
+        "%% u1178:0-59, u1179:0-58, u1180:0-69 %%",
+        "DM: Apollyon is sitting on a throne, seemingly waiting for you. At the far end of the room there is a table made of bones. The only thing resting on this table, a glowing greenish crystal orb.",
+        "",
+        "%% u1181:0-49, u1182:0-63, u1183:0-64 %%",
+        "DM: As you begin to enter this room, Apollyon stands. 'I've been waiting. Nice of you to join me in my private sanctum. Are you ready to surrender yourselves for the glory of Apollyon?'",
+        "",
+        "%% u1184:0-20 %%",
+        "Wellby: I think that's a no.",
+        "",
+        "%% u1185:0-8 %%",
+        "DM: In that—",
+        "",
+        "%% u1186:0-23 %%",
+        "Delwath: Oh, how far away is he?",
+        "",
+        "%% u1187:0-41 %%",
+        "Wellby: Well, I mean I don't speak for everybody.",
+        "",
+        "%% u1188:0-17 %%",
+        "Riswynn: Oh, sure you did!",
+        "",
+        "%% u1189:0-68, u1190:0-14, u1191:0-41, u1192:0-60, u1193:0-12, u1194:0-14, u1195:0-49, u1196:0-22, u1197:0-8, u1198:0-3, u1199:0-16, u1200:0-38, u1201:0-7, u1202:0-5, u1203:0-10, u1204:0-20, u1205:0-3, u1206:0-27, u1207:0-12, u1208:0-19, u1209:0-102, u1210:0-15, u1211:0-54, u1212:0-71, u1213:0-5, u1214:0-51, u1215:0-3, u1216:0-34, u1217:0-59, u1218:0-26, u1219:0-3, u1220:0-33, u1221:0-14, u1222:0-21, u1223:0-58, u1224:0-10, u1225:0-8, u1226:0-85, u1227:0-18, u1228:0-44, u1229:0-103, u1230:0-47, u1231:0-68, u1232:0-64, u1233:0-16, u1234:0-5, u1235:0-6, u1236:0-33, u1237:0-15, u1238:0-21, u1239:0-32, u1240:0-61, u1241:0-68, u1242:0-72, u1243:0-58, u1244:0-59, u1245:0-54, u1246:0-26, u1247:0-45, u1248:0-161, u1249:0-82, u1250:0-18, u1251:0-16, u1252:0-5, u1253:0-23, u1254:0-59, u1255:0-4, u1256:0-95, u1257:0-57, u1258:0-38, u1259:0-79, u1260:0-55, u1261:0-116, u1262:0-16, u1263:0-3, u1264:0-10, u1265:0-5, u1266:0-3, u1267:0-23, u1268:0-9, u1269:0-7, u1270:0-24, u1271:0-75, u1272:0-40, u1273:0-47, u1274:0-39, u1275:0-44, u1276:0-44, u1277:0-25, u1278:0-26, u1279:0-9, u1280:0-11, u1281:0-15, u1282:0-10, u1283:0-10, u1284:0-80, u1285:0-37, u1286:0-10, u1287:0-58, u1288:0-45, u1289:0-15, u1290:0-23, u1291:0-18, u1292:0-33, u1293:0-9, u1294:0-5, u1295:0-54, u1296:0-25, u1297:0-60, u1298:0-14, u1299:0-5, u1300:0-4, u1301:0-85, u1302:0-54, u1303:0-27, u1304:0-50, u1305:0-144, u1306:0-41, u1307:0-41, u1308:0-11, u1309:0-5, u1310:0-15, u1311:0-31, u1312:0-57, u1313:0-58, u1314:0-16, u1315:0-45, u1316:0-49, u1317:0-36, u1318:0-37, u1319:0-4, u1320:0-72, u1321:0-48, u1322:0-29, u1323:0-26, u1324:0-53, u1325:0-6, u1326:0-52, u1327:0-23, u1328:0-84, u1329:0-5, u1330:0-12, u1331:0-24, u1332:0-28, u1333:0-11, u1334:0-18, u1335:0-98, u1336:0-47, u1337:0-44, u1338:0-54, u1339:0-17, u1340:0-43, u1341:0-9, u1342:0-26, u1343:0-59, u1344:0-5, u1345:0-45, u1346:0-40, u1347:0-25, u1348:0-20, u1349:0-25, u1350:0-36, u1351:0-35, u1352:0-40, u1353:0-17, u1354:0-12, u1355:0-38, u1356:0-65, u1357:0-5, u1358:0-22, u1359:0-49, u1360:0-7, u1361:0-29, u1362:0-60, u1363:0-4, u1364:0-43, u1365:0-119, u1366:0-4, u1367:0-27, u1368:0-151, u1369:0-23, u1370:0-121, u1371:0-12, u1372:0-10, u1373:0-35, u1374:0-5, u1375:0-24, u1376:0-10, u1377:0-16, u1378:0-15, u1379:0-38, u1380:0-13, u1381:0-6, u1382:0-46, u1383:0-71, u1384:0-32, u1385:0-26, u1386:0-114, u1387:0-22, u1388:0-7, u1389:0-46, u1390:0-38, u1391:0-27, u1392:0-38, u1393:0-47, u1394:0-27, u1395:0-14, u1396:0-8, u1397:0-33, u1398:0-15, u1399:0-10, u1400:0-49, u1401:0-31, u1402:0-98, u1403:0-24, u1404:0-12, u1405:0-5, u1406:0-20, u1407:0-78, u1408:0-60, u1409:0-24, u1410:0-96, u1411:0-15, u1412:0-62, u1413:0-27, u1414:0-72, u1415:0-59, u1416:0-73, u1417:0-81, u1418:0-39, u1419:0-47, u1420:0-5, u1421:0-35, u1422:0-5, u1423:0-97, u1424:0-78, u1425:0-29, u1426:0-75, u1427:0-18, u1428:0-37, u1429:0-41, u1430:0-82, u1431:0-27, u1432:0-28, u1433:0-37, u1434:0-13, u1435:0-12, u1436:0-10, u1437:0-12, u1438:0-13, u1439:0-12, u1440:0-24, u1441:0-36, u1442:0-143, u1443:0-23, u1444:0-43, u1445:0-65, u1446:0-89, u1447:0-9, u1448:0-37, u1449:0-43, u1450:0-10, u1451:0-44, u1452:0-91, u1453:0-23, u1454:0-10, u1455:0-5, u1456:0-42, u1457:0-113, u1458:0-25, u1459:0-14, u1460:0-101, u1461:0-58, u1462:0-25, u1463:0-19, u1464:0-73, u1465:0-19, u1466:0-5, u1467:0-4, u1468:0-50, u1469:0-31, u1470:0-4, u1471:0-5, u1472:0-148, u1473:0-4, u1474:0-11, u1475:0-4, u1476:0-30, u1477:0-15, u1478:0-70, u1479:0-25, u1480:0-95, u1481:0-64, u1481:64-93, u1481:93-99, u1482:0-23, u1483:0-19, u1484:0-62, u1485:0-31, u1486:0-27, u1487:0-50, u1488:0-27, u1489:0-3, u1490:0-51, u1491:0-34, u1492:0-46, u1493:0-7, u1494:0-4, u1495:0-40, u1496:0-29, u1497:0-9, u1498:0-27, u1499:0-126, u1500:0-4, u1501:0-6, u1502:0-29, u1503:0-12, u1504:0-97, u1505:0-4, u1506:0-116, u1507:0-18, u1508:0-92, u1509:0-47, u1510:0-34, u1511:0-27, u1512:0-43, u1513:0-4, u1514:0-20, u1515:0-37, u1516:0-72, u1517:0-5, u1518:0-45, u1519:0-39, u1520:0-29, u1521:0-30, u1522:0-24, u1523:0-46, u1524:0-66, u1525:0-5, u1526:0-31, u1527:0-4, u1528:0-5, u1529:0-38, u1530:0-28, u1531:0-72, u1532:0-19, u1533:0-32, u1534:0-15, u1535:0-36, u1535:36-50, u1536:0-65, u1537:0-6, u1538:0-39, u1539:0-35, u1540:0-49, u1541:0-36, u1542:0-38, u1543:0-44, u1544:0-32, u1545:0-26, u1546:0-31, u1547:0-10, u1548:0-5, u1549:0-60, u1550:0-19, u1551:0-76, u1552:0-34, u1553:0-5, u1554:0-9, u1555:0-54, u1556:0-9, u1557:0-29, u1558:0-5, u1559:0-43, u1560:0-12, u1561:0-81, u1562:0-48, u1563:0-18, u1564:0-45, u1565:0-5, u1566:0-87, u1567:0-22, u1568:0-17, u1569:0-40, u1570:0-5, u1571:0-5, u1572:0-62, u1573:0-81, u1574:0-65, u1575:0-36, u1576:0-32, u1577:0-7, u1578:0-75, u1579:0-11, u1580:0-20, u1581:0-3, u1582:0-9, u1583:0-17, u1584:0-6, u1585:0-5, u1586:0-28, u1587:0-135, u1588:0-18, u1589:0-35, u1590:0-58, u1591:0-6, u1592:0-61, u1593:0-99, u1594:0-8, u1595:0-32, u1596:0-55, u1597:0-60, u1598:0-16, u1599:0-14, u1600:0-43, u1601:0-31, u1602:0-25, u1603:0-4, u1604:0-18, u1605:0-33, u1606:0-34, u1607:0-5, u1608:0-9, u1609:0-77, u1610:0-67, u1611:0-5, u1612:0-73, u1613:0-10, u1614:0-14, u1615:0-9, u1616:0-14, u1617:0-59, u1618:0-64, u1619:0-27, u1620:0-14, u1621:0-45, u1622:0-13, u1623:0-97, u1624:0-30, u1625:0-10, u1626:0-52, u1627:0-157, u1628:0-44, u1629:0-44, u1630:0-31, u1631:0-26, u1632:0-49, u1633:0-9, u1634:0-8, u1635:0-13, u1636:0-34, u1637:0-27, u1638:0-16, u1639:0-49, u1640:0-65, u1641:0-5, u1642:0-52, u1643:0-88, u1644:0-27, u1645:0-27, u1646:0-45, u1647:0-38, u1648:0-8, u1649:0-3, u1650:0-12, u1651:0-10, u1652:0-23, u1653:0-11, u1654:0-3, u1655:0-9, u1656:0-56, u1657:0-21, u1658:0-9, u1659:0-20, u1660:0-113, u1661:0-10, u1662:0-23, u1663:0-73, u1664:0-92, u1665:0-29, u1666:0-44, u1667:0-24, u1668:0-94, u1669:0-84, u1670:0-102, u1671:0-15, u1672:0-107, u1673:0-33, u1674:0-29, u1675:0-53, u1676:0-35, u1677:0-21, u1678:0-29, u1679:0-43, u1680:0-26, u1681:0-18, u1682:0-12, u1683:0-9, u1684:0-10, u1685:0-5, u1686:0-96, u1687:0-17, u1688:0-115, u1689:0-12, u1690:0-44, u1691:0-13, u1692:0-10, u1693:0-5, u1694:0-8, u1695:0-22, u1696:0-41, u1697:0-26, u1698:0-45, u1699:0-36, u1700:0-28, u1701:0-21, u1702:0-43, u1703:0-42, u1704:0-27, u1705:0-80, u1706:0-50, u1707:0-21, u1708:0-22, u1709:0-11, u1710:0-13, u1711:0-15, u1712:0-16, u1713:0-8, u1714:0-12, u1715:0-19, u1716:0-60, u1717:0-4, u1718:0-23, u1719:0-13, u1720:0-132, u1721:0-73, u1722:0-27, u1723:0-50, u1724:0-84, u1725:0-25, u1726:0-11, u1727:0-15, u1728:0-25, u1729:0-9, u1730:0-59, u1731:0-58, u1732:0-31, u1733:0-48, u1734:0-7, u1735:0-21, u1736:0-11, u1737:0-52, u1738:0-22, u1739:0-9, u1740:0-31, u1741:0-24, u1742:0-61, u1743:0-10, u1744:0-23, u1745:0-15, u1746:0-64, u1747:0-14, u1748:0-104, u1749:0-17, u1750:0-7, u1751:0-74, u1752:0-8, u1753:0-60, u1754:0-5, u1755:0-10, u1756:0-45, u1757:0-8, u1758:0-20, u1759:0-42, u1760:0-32, u1761:0-7, u1762:0-76, u1763:0-68, u1764:0-48, u1765:0-62, u1766:0-150, u1767:0-30, u1768:0-32, u1769:0-23, u1770:0-12, u1771:0-5, u1772:0-34, u1773:0-64, u1774:0-60, u1775:0-131, u1776:0-5, u1777:0-18, u1778:0-8, u1779:0-26, u1780:0-5, u1781:0-67, u1782:0-70, u1783:0-62, u1784:0-33, u1785:0-18, u1786:0-16, u1787:0-150, u1788:0-83, u1789:0-5, u1790:0-4, u1791:0-10, u1792:0-90, u1793:0-9, u1794:0-57, u1795:0-66, u1796:0-84, u1797:0-8, u1798:0-37, u1799:0-3, u1800:0-22, u1801:0-67, u1802:0-5, u1803:0-60, u1804:0-18, u1805:0-12, u1806:0-22, u1807:0-16, u1808:0-81, u1809:0-60, u1810:0-5, u1811:0-40, u1812:0-47, u1813:0-37, u1814:0-74, u1815:0-144, u1816:0-30, u1817:0-5, u1818:0-82, u1819:0-18, u1820:0-5, u1821:0-28, u1822:0-58, u1823:0-9, u1824:0-10, u1825:0-37, u1826:0-25, u1827:0-64, u1828:0-13, u1829:0-13, u1830:0-13, u1831:0-26, u1832:0-10, u1833:0-25, u1834:0-22, u1835:0-83, u1836:0-17, u1837:0-40, u1838:0-32, u1839:0-59, u1840:0-16, u1841:0-22, u1842:0-60, u1843:0-10, u1844:0-37, u1845:0-46, u1846:0-29, u1847:0-16, u1848:0-15, u1849:0-4, u1850:0-36, u1851:0-27, u1852:0-15, u1853:0-35, u1854:0-53, u1855:0-5, u1856:0-20, u1857:0-15, u1858:0-11, u1859:0-13, u1860:0-24, u1861:0-9, u1862:0-46, u1863:0-29, u1864:0-33, u1865:0-25, u1866:0-15, u1867:0-28, u1868:0-24, u1869:0-3, u1870:0-62, u1871:0-11, u1872:0-31, u1873:0-58, u1874:0-54, u1875:0-34, u1876:0-28, u1877:0-16, u1878:0-12, u1879:0-9, u1880:0-10, u1881:0-21, u1882:0-30, u1883:0-50, u1884:0-28, u1885:0-42, u1886:0-3, u1887:0-80, u1888:0-45, u1889:0-38, u1890:0-102, u1891:0-106, u1892:0-11, u1893:0-28, u1894:0-57, u1895:0-25, u1896:0-11, u1897:0-7, u1898:0-35, u1899:0-69, u1900:0-183, u1901:0-38, u1902:0-30, u1903:0-28, u1904:0-32, u1905:0-6, u1906:0-5, u1907:0-37, u1908:0-30, u1909:0-83, u1910:0-53, u1911:0-61, u1912:0-13, u1913:0-20, u1914:0-36, u1915:0-34, u1916:0-8, u1917:0-22, u1918:0-6, u1919:0-45, u1920:0-29, u1921:0-32, u1922:0-21, u1923:0-86, u1924:0-9, u1925:0-8, u1926:0-3, u1927:0-22, u1928:0-3, u1929:0-11, u1930:0-83, u1931:0-79, u1932:0-14, u1933:0-9, u1934:0-26, u1935:0-9, u1936:0-73, u1937:0-26, u1938:0-75, u1939:0-39, u1940:0-9, u1941:0-44, u1942:0-4, u1943:0-54, u1944:0-39, u1945:0-4, u1946:0-16, u1947:0-20, u1948:0-56, u1949:0-27, u1950:0-10, u1951:0-6, u1952:0-130, u1953:0-51, u1954:0-7, u1955:0-38, u1956:0-20, u1957:0-3, u1958:0-99, u1959:0-50, u1960:0-30, u1961:0-33, u1962:0-8, u1963:0-49, u1964:0-32, u1965:0-134, u1966:0-122, u1967:0-37, u1968:0-54, u1969:0-5, u1970:0-3, u1971:0-146, u1972:0-20, u1973:0-22, u1974:0-40, u1975:0-132, u1976:0-48, u1977:0-5, u1978:0-8, u1979:0-62, u1980:0-81, u1981:0-66, u1982:0-106, u1983:0-44, u1984:0-158, u1985:0-40, u1986:0-31, u1987:0-131, u1988:0-18, u1989:0-50, u1990:0-10, u1991:0-26, u1992:0-60, u1993:0-24, u1994:0-122, u1995:0-17, u1996:0-93, u1997:0-4, u1998:0-23, u1999:0-46, u2000:0-41, u2001:0-22, u2002:0-73, u2003:0-4, u2004:0-15, u2005:0-35, u2006:0-60, u2007:0-36, u2008:0-95, u2009:0-25, u2010:0-4, u2011:0-22, u2012:0-37, u2013:0-57, u2014:0-27, u2015:0-41, u2016:0-7, u2017:0-12, u2018:0-5, u2019:0-17, u2020:0-3, u2021:0-106, u2022:0-54, u2023:0-31, u2024:0-81, u2025:0-108, u2026:0-17, u2027:0-214, u2028:0-5, u2029:0-5, u2030:0-84, u2031:0-4, u2032:0-5, u2033:0-28, u2034:0-10, u2035:0-14, u2036:0-4, u2037:0-16, u2038:0-5, u2039:0-5, u2040:0-71, u2041:0-22, u2042:0-17, u2043:0-32, u2044:0-27, u2045:0-108, u2046:0-58, u2047:0-32, u2048:0-20, u2049:0-5, u2050:0-38, u2051:0-5, u2052:0-46, u2053:0-18, u2054:0-115, u2055:0-6, u2056:0-65, u2057:0-15, u2058:0-75, u2059:0-14, u2060:0-12, u2061:0-10, u2062:0-10, u2063:0-33, u2064:0-20, u2065:0-9, u2066:0-24, u2067:0-17, u2068:0-14, u2069:0-3, u2070:0-31, u2071:0-46, u2072:0-36, u2073:0-2, u2074:0-43, u2075:0-26, u2076:0-3, u2077:0-96, u2078:0-10, u2079:0-29, u2080:0-41, u2081:0-27, u2082:0-18, u2083:0-73, u2084:0-56, u2085:0-59, u2086:0-27, u2087:0-71, u2088:0-61, u2089:0-18, u2090:0-38, u2091:0-40, u2092:0-40, u2093:0-65, u2094:0-25, u2095:0-4, u2096:0-23, u2097:0-12, u2098:0-45, u2099:0-35, u2100:0-43, u2101:0-57, u2102:0-11, u2103:0-21, u2104:0-31, u2105:0-5, u2106:0-27, u2107:0-48, u2108:0-33, u2109:0-45, u2110:0-14, u2111:0-14, u2112:0-13, u2113:0-11, u2114:0-33, u2115:0-8, u2116:0-23, u2117:0-5, u2118:0-16, u2119:0-74, u2120:0-4, u2121:0-45, u2122:0-42, u2123:0-12, u2124:0-9, u2125:0-15, u2126:0-6, u2127:0-6, u2128:0-11, u2129:0-28, u2130:0-106, u2131:0-17, u2132:0-34, u2133:0-90, u2134:0-36, u2135:0-19, u2136:0-5, u2137:0-2, u2138:0-61, u2139:0-89, u2140:0-10, u2141:0-10, u2142:0-12, u2143:0-8, u2144:0-10, u2145:0-22, u2146:0-15, u2147:0-8, u2148:0-46, u2149:0-4, u2150:0-5, u2151:0-5, u2152:0-62, u2153:0-20, u2154:0-15, u2155:0-55, u2156:0-24, u2157:0-44, u2158:0-41, u2159:0-25, u2160:0-31, u2161:0-8, u2162:0-27, u2163:0-31, u2164:0-28, u2165:0-182, u2166:0-31, u2167:0-40, u2168:0-5, u2169:0-100, u2170:0-7, u2171:0-25, u2172:0-44, u2173:0-24, u2174:0-12, u2175:0-50, u2176:0-10, u2177:0-33, u2178:0-60, u2179:0-19, u2180:0-43, u2181:0-44, u2182:0-29, u2183:0-84, u2184:0-94, u2185:0-7, u2186:0-40, u2187:0-29, u2188:0-14, u2189:0-14, u2190:0-10, u2191:0-29, u2192:0-5, u2193:0-39, u2194:0-9, u2195:0-21, u2196:0-26, u2197:0-23, u2198:0-10, u2199:0-102, u2200:0-40, u2201:0-23, u2202:0-17, u2203:0-9, u2204:0-24, u2205:0-4, u2206:0-63, u2207:0-27, u2208:0-66, u2209:0-28, u2210:0-20, u2211:0-36, u2212:0-31, u2213:0-42, u2214:0-64, u2215:0-88, u2216:0-43, u2217:0-4, u2218:0-90, u2219:0-33, u2220:0-38, u2221:0-48, u2222:0-46, u2223:0-5, u2224:0-5, u2225:0-35, u2226:0-32, u2227:0-96, u2228:0-8, u2229:0-42, u2230:0-4, u2231:0-34, u2232:0-5, u2233:0-65, u2234:0-3, u2235:0-28, u2236:0-7, u2237:0-5, u2238:0-35, u2239:0-107, u2240:0-27, u2241:0-38, u2242:0-5, u2243:0-16, u2244:0-115, u2245:0-39, u2246:0-33, u2247:0-27, u2248:0-53, u2249:0-59, u2250:0-3, u2251:0-6, u2252:0-30, u2253:0-126, u2254:0-22, u2255:0-5, u2256:0-7, u2257:0-5, u2258:0-87, u2259:0-75, u2260:0-82, u2261:0-69, u2262:0-47, u2263:0-4, u2264:0-5, u2265:0-46, u2266:0-4, u2267:0-28, u2268:0-35, u2269:0-57, u2270:0-14, u2271:0-28, u2272:0-42, u2273:0-41, u2274:0-13, u2275:0-28, u2276:0-40, u2277:0-26, u2278:0-55, u2279:0-32, u2280:0-11, u2281:0-8, u2282:0-18, u2283:0-67, u2284:0-67, u2285:0-47, u2286:0-56, u2287:0-4, u2288:0-17, u2289:0-39, u2290:0-90, u2291:0-61, u2292:0-36, u2293:0-96, u2294:0-93, u2295:0-24, u2296:0-23, u2297:0-21, u2298:0-33, u2299:0-10, u2300:0-28, u2301:0-30, u2302:0-44, u2303:0-71, u2304:0-26, u2305:0-13, u2306:0-28, u2307:0-3, u2308:0-4, u2309:0-115, u2310:0-39, u2311:0-31, u2312:0-124, u2313:0-30, u2314:0-22, u2315:0-55, u2316:0-17, u2317:0-38, u2318:0-4, u2319:0-23, u2320:0-50, u2321:0-26, u2322:0-18, u2323:0-11, u2324:0-46, u2325:0-50, u2326:0-28, u2327:0-19, u2328:0-79, u2329:0-6, u2330:0-6, u2331:0-39, u2332:0-37, u2333:0-16, u2334:0-51, u2335:0-12, u2336:0-23, u2337:0-21, u2338:0-5, u2339:0-9, u2340:0-224, u2341:0-12, u2342:0-67, u2343:0-22, u2344:0-55, u2345:0-33, u2346:0-54, u2347:0-53, u2348:0-34, u2349:0-6, u2350:0-25, u2351:0-52, u2352:0-3, u2353:0-72, u2354:0-18, u2355:0-3, u2356:0-39, u2357:0-51, u2358:0-42, u2359:0-32, u2360:0-14, u2361:0-29, u2362:0-6, u2363:0-87, u2364:0-33, u2365:0-90, u2366:0-48, u2367:0-12, u2368:0-17, u2369:0-33, u2370:0-45, u2371:0-5, u2372:0-15, u2373:0-41, u2374:0-16, u2375:0-71, u2376:0-46, u2377:0-52, u2378:0-11, u2379:0-61, u2380:0-28, u2381:0-6, u2382:0-2, u2383:0-56, u2384:0-10, u2385:0-36, u2386:0-69, u2387:0-4, u2388:0-22, u2389:0-79, u2390:0-39, u2391:0-57, u2392:0-13, u2393:0-12, u2394:0-60, u2395:0-16, u2396:0-69, u2397:0-31, u2398:0-99, u2399:0-29, u2400:0-10, u2401:0-4, u2402:0-4, u2403:0-42, u2404:0-78, u2405:0-30, u2406:0-9, u2407:0-78, u2408:0-29, u2409:0-75, u2410:0-46, u2411:0-12, u2412:0-43, u2413:0-50, u2414:0-95, u2415:0-4, u2416:0-30, u2417:0-72, u2418:0-10, u2419:0-40, u2420:0-10, u2421:0-20, u2422:0-8, u2423:0-8, u2424:0-6, u2425:0-29, u2426:0-5, u2427:0-23, u2428:0-41, u2429:0-29, u2430:0-48, u2431:0-34, u2432:0-95, u2433:0-46, u2434:0-83, u2435:0-51, u2436:0-92, u2437:0-35, u2438:0-17, u2439:0-9, u2440:0-4, u2441:0-27, u2442:0-51, u2443:0-5, u2444:0-13, u2445:0-45, u2446:0-7, u2447:0-53, u2448:0-119, u2449:0-18, u2450:0-36, u2451:0-49, u2452:0-9, u2453:0-36, u2454:0-41, u2455:0-34, u2456:0-20, u2457:0-78, u2458:0-21, u2459:0-6, u2460:0-20, u2461:0-5, u2462:0-7, u2463:0-14, u2464:0-42, u2465:0-68, u2466:0-26, u2467:0-24, u2468:0-49, u2469:0-17, u2470:0-26, u2471:0-25, u2472:0-89, u2473:0-66, u2474:0-3, u2475:0-3, u2476:0-13, u2477:0-3, u2478:0-47, u2479:0-3, u2480:0-40, u2481:0-18, u2482:0-3, u2483:0-51, u2484:0-39, u2485:0-25, u2486:0-7, u2487:0-36, u2488:0-12, u2489:0-3, u2490:0-69, u2491:0-9, u2492:0-49, u2493:0-10, u2494:0-10, u2495:0-6, u2496:0-30, u2497:0-10, u2498:0-26, u2499:0-16, u2500:0-40, u2501:0-43, u2502:0-17, u2503:0-81, u2504:0-28, u2505:0-165, u2506:0-38, u2507:0-106, u2508:0-14, u2509:0-24, u2510:0-58, u2511:0-53, u2512:0-13, u2513:0-114, u2514:0-21, u2515:0-28, u2516:0-55, u2517:0-11, u2518:0-39, u2519:0-87, u2520:0-25, u2521:0-19, u2522:0-33, u2523:0-70, u2524:0-66, u2525:0-19, u2526:0-13, u2527:0-12, u2528:0-25, u2529:0-27, u2530:0-64, u2531:0-21, u2532:0-34, u2533:0-19, u2534:0-83, u2535:0-55, u2536:0-131, u2537:0-12, u2538:0-23, u2539:0-23, u2540:0-10, u2541:0-28, u2542:0-35, u2543:0-74, u2544:0-31, u2545:0-5, u2546:0-16, u2547:0-24, u2548:0-19, u2549:0-80, u2550:0-46, u2551:0-20, u2552:0-5, u2553:0-9, u2554:0-22, u2555:0-35, u2556:0-19, u2557:0-4, u2558:0-59, u2559:0-18, u2560:0-52, u2561:0-34, u2562:0-9, u2563:0-5, u2564:0-40, u2565:0-8, u2566:0-25, u2567:0-98, u2568:0-23, u2569:0-10, u2570:0-15, u2571:0-8, u2572:0-15, u2573:0-19, u2574:0-20, u2575:0-38, u2576:0-14, u2577:0-38, u2578:0-8, u2579:0-48, u2580:0-27, u2581:0-107, u2582:0-27, u2583:0-31, u2584:0-64, u2585:0-10, u2586:0-4, u2587:0-10, u2588:0-25, u2589:0-14, u2590:0-51, u2591:0-5, u2592:0-4, u2593:0-20, u2594:0-10, u2595:0-23, u2596:0-38, u2597:0-101, u2598:0-37, u2599:0-31, u2600:0-37, u2601:0-86, u2602:0-53, u2603:0-42, u2604:0-149, u2605:0-13, u2606:0-6, u2607:0-9, u2608:0-15, u2609:0-28, u2610:0-30, u2611:0-24, u2612:0-22, u2613:0-40, u2614:0-80, u2615:0-29, u2616:0-14, u2617:0-5, u2618:0-50, u2619:0-16, u2620:0-11, u2621:0-32, u2622:0-17, u2623:0-7, u2624:0-52, u2625:0-19, u2626:0-5, u2627:0-9, u2628:0-11, u2629:0-5, u2630:0-27, u2631:0-4, u2632:0-36, u2633:0-13, u2634:0-5, u2635:0-10, u2636:0-68, u2637:0-38, u2638:0-64, u2639:0-10, u2640:0-2, u2641:0-60, u2642:0-38, u2643:0-5, u2644:0-5, u2645:0-15, u2646:0-5, u2647:0-19, u2648:0-25, u2649:0-12, u2650:0-10, u2651:0-12, u2652:0-56, u2653:0-14, u2654:0-37, u2655:0-5, u2656:0-64, u2657:0-68, u2658:0-65, u2659:0-67, u2660:0-9, u2661:0-48, u2662:0-76, u2663:0-20, u2664:0-16, u2665:0-40, u2666:0-42, u2667:0-9, u2668:0-6, u2669:0-64, u2670:0-33, u2671:0-8 %%",
+        "((Combat, tactical discussion and spell resolution))",
+        "",
+        "%% u2672:0-83, u2673:0-19, u2674:0-55, u2675:0-72, u2676:0-96, u2677:0-90, u2678:0-32 %%",
+        "DM: The spirits of the tanshi riding along with this blast of force, and as the, as the blast hits Apollyon he stumbles, and you see, for—you hear for a moment the the quiet whisper of, of wind in the woods, and moonlight begins to shine, and Apollyon's body begins to dissolve in the moonlight as he slowly begins to crumble and drift from head to toe, beginning to disintegrate, and as he does, the 2 remaining pillars crack and the room begins to collapse."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: And flight also.",
+          "Delwath: The construct can fly. Riswynn can fly. Kenzo, you're gonna have to use Raven's Whistle if you want to fly.",
+          "Kenzo: Yeah, that's fine.",
+          "DM: You. I'm not touching. All right. Stepping into a large chamber. The ceiling is only about 15 feet high. Vaulted ceilings. There are 4—can, is it—can you all see in here? Yeah, there should be a light. There are green light emanating from the walls. And around these 4 pillars—there are 4 pillars that are covered in sort of greenish runes, wrapping up around the pillars with a runic design in the middle.",
+          "Seeker: Oh!"
+        ],
+        "after": [
+          "Riswynn: What's happening to the green thing?",
+          "Kenzo: Yeah, green orbs, small. Yeah.",
+          "DM: I think the ladder's still holding it.",
+          "Seeker: That's true.",
+          "Riswynn: It's not changing?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Ladder takes the green orb",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1413",
+        "endUid": "u1424"
+      },
+      "lines": [
+        "%% u1413:0-27, u1414:0-72, u1415:0-59, u1416:0-73 %%",
+        "Seeker: Wait, if so, the construct— Hmm, yeah, I guess I'll just do that. I was gonna try to smash this orb. But I think the ladder is better suited to do that, anyway. So the ladder will move over to the table here and try to smash this orb.",
+        "",
+        "%% u1417:0-81 %%",
+        "DM: The orb is a powerful magic item. It is not possible to destroy by just smashing.",
+        "",
+        "%% u1418:0-39, u1419:0-47 %%",
+        "Seeker: Well, the ladder's going to pick it up, bonk it against the table and then hold it, so—",
+        "",
+        "%% u1420:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u1421:0-35 %%",
+        "Seeker: Now the ladder can run off with it.",
+        "",
+        "%% u1422:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u1423:0-97, u1424:0-78 %%",
+        "Seeker: ((Omitted mechanics or aside)) so it could go back here, I guess, carrying the orb."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: So can I put him right here or no, just here? Or is he here?",
+          "Delwath: No, you can't get there.",
+          "DM: No, he can't enter the square unless he has 10 feet of movement. He can stand right where he is.",
+          "Seeker: Oh, man, bummer.",
+          "DM: The ladder is flying, so the ladder ignores difficult terrain."
+        ],
+        "after": [
+          "Seeker: Our guy is, and they're done.",
+          "DM: But the orb is part—the orb is part of the map, so I can't move it around.",
+          "Seeker: Yeah, that's okay.",
+          "DM: That ends Seeker's turn. At the end of Seeker's turn. It is now Apollyon's turn. He is going to fly just right above the ground so he can ignore difficult terrain, and fly to Delwath and say, 'I thought I told you to die.' And he's 1st going to make 3 attacks.",
+          "Kenzo: I don't know."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "The Bahrâzel thwart Apollyon's death command",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1446",
+        "endUid": "u1455"
+      },
+      "lines": [
+        "%% u1446:0-89, u1447:0-9 %%",
+        "DM: ((Omitted mechanics or aside)) 'Die, elf!'",
+        "",
+        "%% u1448:0-37 %%",
+        "Delwath: ((Omitted mechanics or aside)) I do not die ((Omitted mechanics or aside))",
+        "",
+        "%% u1449:0-43 %%",
+        "DM: And the Bahrâzel flash in front of Delwath.",
+        "",
+        "%% u1450:0-10 %%",
+        "Kenzo: Wow! Nice.",
+        "",
+        "%% u1451:0-44, u1452:0-91 %%",
+        "DM: ((Omitted mechanics or aside)) And there is a flash of holy, radiant light. ((Omitted mechanics or aside)) for the first time Apollyon looks shaken. ((Omitted mechanics or aside))",
+        "",
+        "%% u1453:0-23 %%",
+        "Riswynn: Brought some real gods.",
+        "",
+        "%% u1454:0-10, u1455:0-5 %%",
+        "((Brief table reactions))"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: That's a 23.",
+          "Delwath: Misses—one hits, 2 miss.",
+          "DM: You take 28 points of psychic damage and reduced to half to 14. Yep. And until you pass a DC 20 Con save, your attacks deal half damage. You can make the save after every attack, whether it hits or not.",
+          "Delwath: Okay, but I can't make it before an attack?",
+          "DM: You can't make it before an attack. The 1st attack has to suffer."
+        ],
+        "after": [
+          "DM: And you can only do that once a month, so—",
+          "Kenzo: Feel like that—him just, like, telling somebody to die feels like he can't do that, like, every turn to every other—",
+          "Delwath: Once a combat, Tim? Just—",
+          "DM: Once a combat.",
+          "Kenzo: Okay, thank goodness, okay, cool [garbled]. I mean, he's level 26. That's pretty powerful. Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Calling on Yezali",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1483",
+        "endUid": "u1487"
+      },
+      "lines": [
+        "%% u1483:0-19, u1484:0-62, u1485:0-31, u1486:0-27, u1487:0-50 %%",
+        "Delwath: ((Omitted mechanics or aside)) I'll call down Yezali to to bite him and then I will attack him. ((Omitted mechanics or aside))"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah, I got it. That ends the chalyte knight's turn. The second round of lair actions. 4 spirits depart from the from these 4 pillars and come to surround, forming a protective shell around Apollyon. Delwath.",
+          "Delwath: I'm going to—is he making attack rolls against me, by the way?",
+          "DM: Yes, I'm making attack rolls.",
+          "Delwath: Okay.",
+          "DM: They're making attacks."
+        ],
+        "after": [
+          "DM: Make a wisdom saving throw.",
+          "Delwath: 25.",
+          "DM: Okay. One of the spirits protecting him disappears.",
+          "Kenzo: Are the spirits on the map there?",
+          "Delwath: Do—wait! Do I have an advantage on the attack?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "A tanshi clears the hostile spirit",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1899",
+        "endUid": "u1900"
+      },
+      "lines": [
+        "%% u1899:0-69, u1900:0-183 %%",
+        "DM: ((Omitted mechanics or aside)) so Delwath, the spirit begins to fly to Delwath, and one of the tanshi spirits, I forget which one is associated with this ability, but one of the tanshi gods pops up and wrestles the spirit out of Delwath's way, allowing him to attack."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Then I'll, I'll attack him. I have to make a Wisdom save?",
+          "DM: For the last spirit. Yep.",
+          "Delwath: What is it?",
+          "DM: DC. 20.",
+          "Delwath: Okay, I will use my, my roll 2D 4."
+        ],
+        "after": [
+          "Delwath: I do not have advantage, though, right?",
+          "DM: Do not have advantage anymore.",
+          "Delwath: Oh! I crit. I'm smiting him. I crit on 19, cause he's thingy.",
+          "DM: Right.",
+          "Wellby: Whoa!"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Ladder protects Seeker, then is compelled to strike",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2390",
+        "endUid": "u2493"
+      },
+      "lines": [
+        "%% u2390:0-39, u2391:0-57 %%",
+        "DM: ((Omitted mechanics or aside)) The ladder rushes in terror over to defend Seeker's body.",
+        "",
+        "%% u2392:0-13 %%",
+        "Seeker: That's great!",
+        "",
+        "%% u2393:0-12 %%",
+        "Kenzo: Good ladder!",
+        "",
+        "%% u2394:0-60, u2395:0-16, u2396:0-69, u2397:0-31, u2398:0-99, u2399:0-29, u2400:0-10, u2401:0-4, u2402:0-4, u2403:0-42, u2404:0-78, u2405:0-30, u2406:0-9, u2407:0-78, u2408:0-29, u2409:0-75, u2410:0-46, u2411:0-12, u2412:0-43, u2413:0-50, u2414:0-95, u2415:0-4, u2416:0-30, u2417:0-72, u2418:0-10, u2419:0-40, u2420:0-10, u2421:0-20, u2422:0-8, u2423:0-8, u2424:0-6, u2425:0-29, u2426:0-5, u2427:0-23, u2428:0-41, u2429:0-29, u2430:0-48, u2431:0-34, u2432:0-95, u2433:0-46, u2434:0-83, u2435:0-51, u2436:0-92, u2437:0-35, u2438:0-17, u2439:0-9, u2440:0-4, u2441:0-27, u2442:0-51, u2443:0-5, u2444:0-13, u2445:0-45, u2446:0-7, u2447:0-53, u2448:0-119, u2449:0-18, u2450:0-36, u2451:0-49, u2452:0-9, u2453:0-36, u2454:0-41, u2455:0-34, u2456:0-20, u2457:0-78, u2458:0-21, u2459:0-6, u2460:0-20, u2461:0-5, u2462:0-7, u2463:0-14, u2464:0-42, u2465:0-68, u2466:0-26, u2467:0-24, u2468:0-49, u2469:0-17, u2470:0-26, u2471:0-25, u2472:0-89, u2473:0-66, u2474:0-3, u2475:0-3, u2476:0-13, u2477:0-3, u2478:0-47, u2479:0-3, u2480:0-40, u2481:0-18, u2482:0-3, u2483:0-51, u2484:0-39, u2485:0-25, u2486:0-7 %%",
+        "((Combat mechanics and tactical discussion))",
+        "",
+        "%% u2487:0-36 %%",
+        "DM: The ladder turns and strikes Seeker.",
+        "",
+        "%% u2488:0-12 %%",
+        "Kenzo: No! What no!",
+        "",
+        "%% u2489:0-3 %%",
+        "((Combat mechanics and tactical discussion))",
+        "",
+        "%% u2490:0-69 %%",
+        "DM: ((Omitted mechanics or aside)) Screaming in terror as it does. ((Omitted mechanics or aside))",
+        "",
+        "%% u2491:0-9 %%",
+        "Kenzo: Oh, fuck!",
+        "",
+        "%% u2492:0-49 %%",
+        "Wellby: This is true evil. This is the face of true evil.",
+        "",
+        "%% u2493:0-10 %%",
+        "Delwath: Really is."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: I have 33.",
+          "DM: The—unless—the, this spell goes away, because there's no way you can roll a 53 on your concentration check.",
+          "Riswynn: Out!",
+          "Kenzo: Which spell goes away?",
+          "Delwath: That, all the Erupting Earth—the Erupting Earth's gone, or no, it's permanently—"
+        ],
+        "after": [
+          "Wellby: Like this.",
+          "Kenzo: Oh no!",
+          "DM: Seeker—Eric, roll another d20.",
+          "Delwath: Am I next?",
+          "DM: Apollyon's next, then you."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i026",
+      "title": "The chalyte knight is lost",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2403",
+        "endUid": "u2405"
+      },
+      "lines": [
+        "%% u2403:0-42, u2404:0-78, u2405:0-30 %%",
+        "DM: ((Omitted mechanics or aside)) Oh, the chalyte knight is gone too. Sorry! ((Omitted mechanics or aside))"
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: So I'm very glad you have that.",
+          "Delwath: Also very—although I did have a hundred 6 hit points, I would have been okay even without it, but—",
+          "Seeker: I must have taken almost 200. It's like.",
+          "DM: And.",
+          "Seeker: 190."
+        ],
+        "after": [
+          "Kenzo: One dude.",
+          "DM: Actually kind of wants to be far away from Kenzo. He's going to teleport here, so I put him out of range of—",
+          "Delwath: I don't think he can be—well, to be out of range of Kenzo he would have to—",
+          "DM: He doesn't know how much Kenzo can move, right?",
+          "Delwath: Right, right. He can't actually be out of range of Kenzo."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Identifying the stolen crystal ball",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2767",
+        "endUid": "u2772"
+      },
+      "lines": [
+        "%% u2767:0-37 %%",
+        "Kenzo: What's this, what's that orb, Seeker?",
+        "",
+        "%% u2768:0-54 %%",
+        "Seeker: Yeah, let's have a look. Now, now we can identify it.",
+        "",
+        "%% u2769:0-49 %%",
+        "DM: It is a crystal ball. That's how Apollyon scries.",
+        "",
+        "%% u2770:0-3 %%",
+        "Seeker: Oh!",
+        "",
+        "%% u2771:0-14 %%",
+        "Kenzo: Can we use it?",
+        "",
+        "%% u2772:0-46 %%",
+        "DM: Somebody could attune to it if they wanted to."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Yeah.",
+          "Delwath: Well.",
+          "DM: But you set.",
+          "Kenzo: And then.",
+          "DM: Bait."
+        ],
+        "after": [
+          "Kenzo: Does our message stone work in here? Can we talk to Sura?",
+          "Wellby: Yeah.",
+          "DM: Your message stone works. Yep.",
+          "Wellby: What's happening with Sura?",
+          "Kenzo: Yeah, let's check in. How's, how's Tokra?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Sura's first report",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e034",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2773",
+        "endUid": "u2793"
+      },
+      "lines": [
+        "%% u2773:0-36, u2774:0-20 %%",
+        "Kenzo: Does our message stone work in here? Can we talk to Sura?",
+        "",
+        "%% u2775:0-5 %%",
+        "Wellby: Yeah.",
+        "",
+        "%% u2776:0-30 %%",
+        "DM: Your message stone works. Yep.",
+        "",
+        "%% u2777:0-27 %%",
+        "Wellby: What's happening with Sura?",
+        "",
+        "%% u2778:0-21, u2779:0-19 %%",
+        "Kenzo: Yeah, let's check in. How's, how's Tokra?",
+        "",
+        "%% u2780:0-14, u2781:0-126 %%",
+        "DM: Tokra is safe. She has received scouting reports that the Stoneborn have reached Tokra and have driven the chalyte assassins out of the city.",
+        "",
+        "%% u2782:0-45, u2783:0-74, u2784:0-37, u2785:0-29, u2786:0-123, u2787:0-19, u2788:0-87 %%",
+        "DM: The Chardonians are marching back to Chardon. Some splinter group fled to the north and is hiding in the wilderness, but at the moment everybody is a bit too beat up from the fire and the fighting to chase after them. But Avdar is fortifying the borders and preparing to send scouts to try and track where these fleeing mages went. They've been shadowing the Chardonian legions who are marching quickly back to Chardon.",
+        "",
+        "%% u2789:0-102, u2790:0-41, u2791:0-42, u2792:0-67, u2793:0-75 %%",
+        "DM: They've been setting up shrines, small little shrines to the 8 divines and leaving them at every camp, marking their renewed interest in prayer. No news from Karnas or the navy as of yet. Nobody knows what's happening in Darba in the south of the country. She sent scouts and messengers and is hoping to have news in the next day."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Yeah, let's have a look. Now, now we can identify it.",
+          "DM: It is a crystal ball. That's how Apollyon scries.",
+          "Seeker: Oh!",
+          "Kenzo: Can we use it?",
+          "DM: Somebody could attune to it if they wanted to."
+        ],
+        "after": [
+          "Kenzo: Riswynn? How goes the chalyte trade destruction?",
+          "DM: Well, it's been only a day. There's not that much that's been—",
+          "Kenzo: But it's still happening, right? Like— there's nothing, nothing, and nothing has occurred that would, that would alter that. That's fine.",
+          "DM: Riswynn is still attuned to the crown, and still asserting the asserting the immorality of chalyte and its anti-Mos Numena, anti-divine feeling, and various people within the sort of chalyte bureaucracy are strategizing and planning, but nothing, you know, has immediately changed within 36 h.",
+          "Delwath: Are we— is the—this prison, the cracking of the prison, was that something Apollyon was doing? Or is this an inevitable at this point? I mean, do we just need to wait a couple, or do we not know?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "The Crown and the chalyte bureaucracy",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2794",
+        "endUid": "u2802"
+      },
+      "lines": [
+        "%% u2794:0-48 %%",
+        "Kenzo: Riswynn? How goes the chalyte trade destruction?",
+        "",
+        "%% u2795:0-62 %%",
+        "DM: Well, it's been only a day. There's not that much that's been—",
+        "",
+        "%% u2796:0-35, u2797:0-84, u2798:0-12 %%",
+        "Kenzo: But it's still happening, right? Like— there's nothing, nothing, and nothing has occurred that would, that would alter that. That's fine.",
+        "",
+        "%% u2799:0-62, u2800:0-85, u2801:0-57, u2802:0-87 %%",
+        "DM: Riswynn is still attuned to the crown, and still asserting the asserting the immorality of chalyte and its anti-Mos Numena, anti-divine feeling, and various people within the sort of chalyte bureaucracy are strategizing and planning, but nothing, you know, has immediately changed within 36 h."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: What's happening with Sura?",
+          "Kenzo: Yeah, let's check in. How's, how's Tokra?",
+          "DM: Tokra is safe. She has received scouting reports that the Stoneborn have reached Tokra and have driven the chalyte assassins out of the city.",
+          "DM: The Chardonians are marching back to Chardon. Some splinter group fled to the north and is hiding in the wilderness, but at the moment everybody is a bit too beat up from the fire and the fighting to chase after them. But Avdar is fortifying the borders and preparing to send scouts to try and track where these fleeing mages went. They've been shadowing the Chardonian legions who are marching quickly back to Chardon.",
+          "DM: They've been setting up shrines, small little shrines to the 8 divines and leaving them at every camp, marking their renewed interest in prayer. No news from Karnas or the navy as of yet. Nobody knows what's happening in Darba in the south of the country. She sent scouts and messengers and is hoping to have news in the next day."
+        ],
+        "after": [
+          "Delwath: Are we— is the—this prison, the cracking of the prison, was that something Apollyon was doing? Or is this an inevitable at this point? I mean, do we just need to wait a couple, or do we not know?",
+          "DM: Kenzo's understanding, or your understanding, was that the enough—Apollyon had killed enough people with the doppelgangers, especially with the 1st attack. It's inevitable. Eventually all of those souls will break free, and once they do, the prison will—the bonds will, will crack. It's based on the original pace. It's probably 3 or 4 days from now.",
+          "DM: You manage to actually keep most of the doppelgangers from doing too much extra damage, so probably it's not sped up anything relative to your original pace, so you guess you probably have 3 or 4 days before you're free.",
+          "Delwath: And we can't Rainbow Bridge from here, presumably, or our account—",
+          "DM: Estania."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Sura reports the naval victory",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e018",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e034",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2871",
+        "endUid": "u2880"
+      },
+      "lines": [
+        "%% u2871:0-7, u2872:0-47, u2873:0-26, u2874:0-79, u2875:0-73 %%",
+        "DM: Recover. In the morning you hear the news from Sura that she has received word that Magistros Midas, the, the ruler of Chardon, at the head of the Chardonian navy, has won a great naval victory outside of Darba, and has entered the city.",
+        "",
+        "%% u2876:0-93, u2877:0-25, u2878:0-82, u2879:0-77, u2880:0-89 %%",
+        "DM: Negotiations are proceeding between Midas and Karnas as to the ultimate fate of Darba and the Nayan part of Dunmar. But the Magistros, uncertain as to what's going on with his legions, and why they have left to return to Chardon, and beginning to hear rumors of unrest in Chardon, is not interested in remaining long or attempting to conquer any of Dunmar, particularly."
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: Black magic fries your brain, Seeker.",
+          "Seeker: A bit, little bit.",
+          "DM: Oh! A day passes.",
+          "Kenzo: You rest.",
+          "Delwath: Yeah."
+        ],
+        "after": [
+          "DM: Another day passes. You hear from the crowns, from the people under Riswynn's control of the crown, that, taking advantage of the chaos caused by a battle that broke out between a faction of the Mageguard remaining in Chardon and some faculty at the University, the first chalyte strike has occurred, and hundreds of pounds of chalyte were dumped into the river.",
+          "Kenzo: Viva la resistance!",
+          "DM: Another day passes. You can feel now the outside world pressing in, the barriers of the prison that hold you here growing thin.",
+          "DM: You hear news that negotiations are continuing between Karnas and Midas, but that Sura has refused to have any part to do with whatever—",
+          "Riswynn: Karnas may negotiate for whatever—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "News of the first chalyte strike",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e021",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2881",
+        "endUid": "u2888"
+      },
+      "lines": [
+        "%% u2881:0-19, u2882:0-34, u2883:0-50, u2884:0-41, u2885:0-46, u2886:0-76, u2887:0-90 %%",
+        "DM: Another day passes. You hear from the crowns, from the people under Riswynn's control of the crown, that, taking advantage of the chaos caused by a battle that broke out between a faction of the Mageguard remaining in Chardon and some faculty at the University, the first chalyte strike has occurred, and hundreds of pounds of chalyte were dumped into the river.",
+        "",
+        "%% u2888:0-19 %%",
+        "Kenzo: Viva la resistance!"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Oh! A day passes.",
+          "Kenzo: You rest.",
+          "Delwath: Yeah.",
+          "DM: Recover. In the morning you hear the news from Sura that she has received word that Magistros Midas, the, the ruler of Chardon, at the head of the Chardonian navy, has won a great naval victory outside of Darba, and has entered the city.",
+          "DM: Negotiations are proceeding between Midas and Karnas as to the ultimate fate of Darba and the Nayan part of Dunmar. But the Magistros, uncertain as to what's going on with his legions, and why they have left to return to Chardon, and beginning to hear rumors of unrest in Chardon, is not interested in remaining long or attempting to conquer any of Dunmar, particularly."
+        ],
+        "after": [
+          "DM: Another day passes. You can feel now the outside world pressing in, the barriers of the prison that hold you here growing thin.",
+          "DM: You hear news that negotiations are continuing between Karnas and Midas, but that Sura has refused to have any part to do with whatever—",
+          "Riswynn: Karnas may negotiate for whatever—",
+          "DM: Status Darba and Nayan may have with respect to Chardon, and the people of Central Dunmar are behind her.",
+          "DM: Chaos spreads in Chardon. There now seems— be a pitched battle between many of the faculty at the University, some faction of the Mageguard, probably Apollyon loyalists, now calling themselves— up with some—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Sura refuses the negotiations",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2893",
+        "endUid": "u2897"
+      },
+      "lines": [
+        "%% u2893:0-72, u2894:0-63 %%",
+        "DM: You hear news that negotiations are continuing between Karnas and Midas, but that Sura has refused to have any part to do with whatever—",
+        "",
+        "%% u2895:0-34 %%",
+        "Riswynn: Karnas may negotiate for whatever—",
+        "",
+        "%% u2896:0-56, u2897:0-48 %%",
+        "DM: Status Darba and Nayan may have with respect to Chardon, and the people of Central Dunmar are behind her."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Recover. In the morning you hear the news from Sura that she has received word that Magistros Midas, the, the ruler of Chardon, at the head of the Chardonian navy, has won a great naval victory outside of Darba, and has entered the city.",
+          "DM: Negotiations are proceeding between Midas and Karnas as to the ultimate fate of Darba and the Nayan part of Dunmar. But the Magistros, uncertain as to what's going on with his legions, and why they have left to return to Chardon, and beginning to hear rumors of unrest in Chardon, is not interested in remaining long or attempting to conquer any of Dunmar, particularly.",
+          "DM: Another day passes. You hear from the crowns, from the people under Riswynn's control of the crown, that, taking advantage of the chaos caused by a battle that broke out between a faction of the Mageguard remaining in Chardon and some faculty at the University, the first chalyte strike has occurred, and hundreds of pounds of chalyte were dumped into the river.",
+          "Kenzo: Viva la resistance!",
+          "DM: Another day passes. You can feel now the outside world pressing in, the barriers of the prison that hold you here growing thin."
+        ],
+        "after": [
+          "DM: Chaos spreads in Chardon. There now seems— be a pitched battle between many of the faculty at the University, some faction of the Mageguard, probably Apollyon loyalists, now calling themselves— up with some—",
+          "Delwath: That you didn't predefine this name. It's worth having it be a good one.",
+          "DM: Oh, calling themselves 'cult to be determined.'",
+          "Riswynn: It's not the people of the pandemic.",
+          "DM: Saying, the— the god Apollyon, who will return in glory, driven out of the city, and in the chaos several merchant barges and convoys with news racing north to the chalyte mines near Voltara of the unrest in Chardon destroyed. Although messengers got away, and news will soon reach the the— miner—the sort of mining conglomerates, and most of the chalyte is mined far to the north around the city of Voltara and is shipped south to Chardon for processing. Violent reprisals against the striking chalyte workers are not fully stopped, and many die."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "News of fighting and Apollyon loyalists in Chardon",
+      "entities": [
+        {
+          "id": "e022",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e021",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2898",
+        "endUid": "u2912"
+      },
+      "lines": [
+        "%% u2898:0-42, u2899:0-66, u2900:0-82, u2901:0-13 %%",
+        "DM: Chaos spreads in Chardon. There now seems— be a pitched battle between many of the faculty at the University, some faction of the Mageguard, probably Apollyon loyalists, now calling themselves— up with some—",
+        "",
+        "%% u2902:0-73, u2903:0-45, u2904:0-36 %%",
+        "((Table discussion of a faction name))",
+        "",
+        "%% u2905:0-11, u2906:0-43, u2907:0-68, u2908:0-100, u2909:0-58, u2910:0-3, u2911:0-165, u2912:0-91 %%",
+        "DM: Saying, the— the god Apollyon, who will return in glory, driven out of the city, and in the chaos several merchant barges and convoys with news racing north to the chalyte mines near Voltara of the unrest in Chardon destroyed. Although messengers got away, and news will soon reach the the— miner—the sort of mining conglomerates, and most of the chalyte is mined far to the north around the city of Voltara and is shipped south to Chardon for processing. Violent reprisals against the striking chalyte workers are not fully stopped, and many die."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Viva la resistance!",
+          "DM: Another day passes. You can feel now the outside world pressing in, the barriers of the prison that hold you here growing thin.",
+          "DM: You hear news that negotiations are continuing between Karnas and Midas, but that Sura has refused to have any part to do with whatever—",
+          "Riswynn: Karnas may negotiate for whatever—",
+          "DM: Status Darba and Nayan may have with respect to Chardon, and the people of Central Dunmar are behind her."
+        ],
+        "after": [
+          "DM: Another day passes. The 30th of May dawns, and you feel crack, and then another, and then another, as the prison ends.",
+          "Delwath: Let's go to Vindristjarna.",
+          "Wellby: Yeah.",
+          "Delwath: Right.",
+          "Wellby: Let's get out of here."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The source calls the faction probably Apollyon loyalists and leaves its name unsettled; the report is retained with that uncertainty."
+      }
+    },
+    {
+      "id": "i018",
+      "title": "Faldrak welcomes the party aboard",
+      "entities": [
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2927",
+        "endUid": "u2931"
+      },
+      "lines": [
+        "%% u2927:0-95, u2928:0-67, u2929:0-25 %%",
+        "DM: You arrive on Vindristjarna, accept the congratulations and thanks and cheer of your followers. Faldrak says, 'Yeah, I think even I wouldn't have gone in after you. I'm glad you made it out.'",
+        "",
+        "%% u2930:0-28 %%",
+        "Riswynn: Glad you kept the ship safe.",
+        "",
+        "%% u2931:0-34 %%",
+        "Seeker: In some ways it was a close thing."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Yeah.",
+          "Delwath: Right.",
+          "Wellby: Let's get out of here.",
+          "DM: A rainbow bridge appears, and you walk to Vindristjarna, parked about 5 miles outside of the city, hovering over the river.",
+          "DM: As you walk and shift on the Rainbow Bridge, you see that the red mist around this temple is beginning to dissipate. The temple itself still stands."
+        ],
+        "after": [
+          "Wellby: And they.",
+          "DM: Retreat to give you space to discuss your next moves.",
+          "Delwath: What our next moves?",
+          "Wellby: I was just pulling up the list of side quests.",
+          "Riswynn: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "The Crown's new dwarven form",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2947",
+        "endUid": "u2954"
+      },
+      "lines": [
+        "%% u2947:0-23, u2948:0-27, u2949:0-29 %%",
+        "DM: You take the crown out. It looks totally different. It's a fine silver tiara now.",
+        "",
+        "%% u2950:0-49 %%",
+        "DM: The holy symbol of the dwarvish runes around the—",
+        "",
+        "%% u2951:0-5 %%",
+        "Wellby: Well.",
+        "",
+        "%% u2952:0-22, u2953:0-120, u2954:0-52 %%",
+        "DM: The base of the crown, the 7 points for the 7 Bahrâzel arrayed in a, in a row, each with a different-colored, subtly set but sparkling gemstone running throughout it, motifs of hammers and forges."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: What does it look like? Let's take it out.",
+          "Wellby: Oh, yeah. Oh, yeah, yeah. And we can use the mirror now. We gotta be able to use the mirror now.",
+          "Seeker: Yeah, yeah, yeah.",
+          "Delwath: Yes, let's, let's do the crown. Take the crown out. Do the crown in the mirror.",
+          "Seeker: Love it."
+        ],
+        "after": [
+          "Wellby: That's so cool.",
+          "Riswynn: Oh, just chirping, man.",
+          "DM: Take out the mirror. What do you want to know about the crown?",
+          "Seeker: It would be interesting to know if there is a best case scenario that we could recreate for it.",
+          "Delwath: That's—I'm with that."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "Keeping the Crown from the Philosophers' Guild",
+      "entities": [
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u3005",
+        "endUid": "u3016"
+      },
+      "lines": [
+        "%% u3005:0-59 %%",
+        "Riswynn: We're not letting the Philosophers' Guild within a million—",
+        "",
+        "%% u3006:0-114 %%",
+        "Delwath: No, we're not giving this to the Philosophers' Guild, but we could give something else to the Philosophers' Guild.",
+        "",
+        "%% u3007:0-45, u3008:0-29 %%",
+        "Riswynn: No, no, we're not even telling them about it. It—I don't want them to know.",
+        "",
+        "%% u3009:0-29 %%",
+        "((Mirror check mechanics))",
+        "",
+        "%% u3010:0-107 %%",
+        "Wellby: It could be that the whole existence of the Philosophers' Guild is just to acquire this one artifact, like.",
+        "",
+        "%% u3011:0-20, u3012:0-15 %%",
+        "((Mirror check mechanics))",
+        "",
+        "%% u3013:0-25 %%",
+        "Seeker: That's that's an amazing.",
+        "",
+        "%% u3014:0-21 %%",
+        "((Mirror check mechanics))",
+        "",
+        "%% u3015:0-17, u3016:0-17 %%",
+        "Seeker: That's excellent. I love that idea."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Can we, can we ask for the, the highs and lows?",
+          "Kenzo: We'll just ask for history. The history, like— 3 is general, right? It'll, it'll give us some highs and lows.",
+          "Riswynn: Its entire history.",
+          "Wellby: It's some provenance.",
+          "Kenzo: Yeah, it's, it's origins and it's history. I think that'll, that'll be what we'll learn about. We'll learn about it all."
+        ],
+        "after": [
+          "Wellby: With.",
+          "Kenzo: 20, but I will add a bardic inspiration.",
+          "Seeker: Yes, you will.",
+          "Kenzo: 30.",
+          "DM: Okay, that's pretty good."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i021",
+      "title": "The Crown's complete mirror vision",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e025",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e026",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e027",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e028",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e029",
+          "role": "cameo",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u3023",
+        "endUid": "u3103"
+      },
+      "lines": [
+        "%% u3023:0-42 %%",
+        "DM: So Kenzo holds the crown up to the mirror.",
+        "",
+        "%% u3024:0-42 %%",
+        "Kenzo: Like close to his head, but not not on it.",
+        "",
+        "%% u3025:0-13, u3026:0-70, u3027:0-43, u3028:0-42, u3029:0-38 %%",
+        "DM: Yeah, common. It's strange. When you pick it up, it seems to recoil from your touch. You feel, like, a sort of sparkling, almost a magnetic repulsion as you try and hold on. It seems once you have lost it, it is—",
+        "",
+        "%% u3030:0-78, u3031:0-63, u3032:0-17 %%",
+        "DM: And you look in the mirror, and it shows you—the 1st thing you see is a study. It looks maybe Chardonian some time ago, maybe a hundred years. It's hard to say.",
+        "",
+        "%% u3033:0-35 %%",
+        "Delwath: This is probably Fausto finding it.",
+        "",
+        "%% u3034:0-6 %%",
+        "Seeker: Right.",
+        "",
+        "%% u3035:0-37, u3036:0-48, u3037:0-64, u3038:0-55 %%",
+        "DM: Maybe a hundred 50 years, and you see— and it seems what the, the crown itself looks not like it looks now, the Riswynn crown, nor like the Fausto crown. It is a plain, like, wooden band. No decoration, nothing.",
+        "",
+        "%% u3039:0-97, u3040:0-23, u3041:0-85, u3042:0-46, u3043:0-24, u3044:0-40, u3045:0-45, u3046:0-24 %%",
+        "DM: You're in a study, and somebody looks like they are, you know, doing research, cataloging things? There is on their desk what seems to be the beginnings of a treatise on the historical greatness of Drankor. How can—how to bring back the might of empire? Somebody seems obsessed. You see notes scattered across the page, like 'Apollyon,' like 'scepter lost, cloak lost. Could this be the crown?'",
+        "",
+        "%% u3047:0-39, u3048:0-37, u3049:0-37, u3050:0-53, u3051:0-36, u3052:0-29, u3053:0-52, u3054:0-75, u3055:0-37 %%",
+        "DM: And then you see hands gripping it, and time speed seems to speed up slightly as first there's this electric shock, and the person who was holding it seems to fall dead, and somebody else walks in, somebody older, seeming to be like the master, the leader of whatever this group is, smiling as he reaches and grabs the crown, and it shifts and elongates the 4 points of Fausto's crown beginning to form.",
+        "",
+        "%% u3056:0-39 %%",
+        "Delwath: But this person's not Fausto? We can't—",
+        "",
+        "%% u3057:0-11, u3058:0-68, u3059:0-53 %%",
+        "DM: Not Fausto. They were old when they picked up the crown, so must have passed on. Whoever this was was the person who founded the cult.",
+        "",
+        "%% u3060:0-117, u3061:0-70, u3062:0-44, u3063:0-112, u3064:0-52, u3065:0-19 %%",
+        "DM: And then the scene shifts, time reversing, going backwards, the plain wooden band sitting dusty in a forgotten chest, not even radiating magic, lost going back and back and back, part of a a caravan traveling across Dunmar in a chest tossed carelessly, now not wooden but an iron band tossed with dozens of other meaningless Drankorian artifacts. Are there iron bands, going back further and further buried underground.",
+        "",
+        "%% u3066:0-42, u3067:0-77, u3068:0-38, u3069:0-51, u3070:0-72, u3071:0-88, u3072:0-35, u3073:0-67, u3074:0-34, u3075:0-99, u3076:0-13, u3077:0-84, u3078:0-72 %%",
+        "DM: And then you see Apollyon standing in life, standing in front of the doors to this temple, wearing the crown, holding out the scepter as bands of magic fly from him towards Cha'mutte, flying in the sky above him, and as Cha'mutte breathes and rends, the red mist piles around Apollyon. Strand after strand after strand, hundreds of strands break, thousands of strands break. It must be 5, 6, 7, 8,000 people in command of Apollyon through this crown die and die and die and die, until finally there are none left, and Apollyon screams in frustration and in desperation grabs a vial of black liquid from his pouch, and drinks it as the walls of his temple seal up around him, and the crown is tossed from his head across Drankor, skipping, and time jumps suddenly back, a long time back.",
+        "",
+        "%% u3079:0-55 %%",
+        "DM: You don't ever see how Apollyon found it. Back to Hkar.",
+        "",
+        "%% u3080:0-73, u3081:0-25, u3082:0-76, u3083:0-42, u3084:0-68 %%",
+        "DM: The Great War, people terrified, a giant armada bearing down on the island. Nobody's sure what to do. The crown sitting again now a plain iron band on a marble table in a temple. Some discussion around murmured low voices in a language you do not understand. You can't hear anything anyway.",
+        "",
+        "%% u3085:0-95, u3086:0-26, u3087:0-76, u3088:0-93, u3089:0-19 %%",
+        "DM: And then nodding, and one of the men and women gathered here reaches for the crown and grabs it and puts it on their head, and lines of power shoot out, and again time sort of speeds up and reverses. And you see the crown reaching out with these 12 people together, and the island breaks apart and begins to walk.",
+        "",
+        "%% u3090:0-13 %%",
+        "Delwath: There you go!",
+        "",
+        "%% u3091:0-15 %%",
+        "Seeker: So it did walk.",
+        "",
+        "%% u3092:0-57 %%",
+        "Delwath: Yeah, because the crown made it walk. That's pretty cool.",
+        "",
+        "%% u3093:0-34, u3094:0-66, u3095:0-38, u3096:0-65, u3097:0-71, u3098:0-107 %%",
+        "DM: And then flying back even further, drifting far, far, far back into time, before humans even existed, back to that, the forests of the elves, back to when the gods strode through the world, the days of myth, when the foot—when the footsteps of the gods reshaped the world itself, the Plane of Magic intertwined, the Plane of Souls intertwined with the world itself, and then a shattering.",
+        "",
+        "%% u3099:0-77, u3100:0-90, u3101:0-64, u3102:0-107, u3103:0-26 %%",
+        "DM: The moment when the gods pulled the, the world apart, and something was caught when the world was pulled apart and curled itself into a circlet and fell into the forest. A fragment of the ancient days when the world could be reshaped, frozen in material form, mindless but powerful, waiting, a chameleon always to adapt to whoever puts it on, and the mirror goes black."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: 20, but I will add a bardic inspiration.",
+          "Seeker: Yes, you will.",
+          "Kenzo: 30.",
+          "DM: Okay, that's pretty good.",
+          "Wellby: Good."
+        ],
+        "after": [
+          "Delwath: Okay.",
+          "Kenzo: So we definitely destroy it, right?",
+          "Delwath: I don't think we can. Yeah, can't destroy it.",
+          "Wellby: It's the. It's like the stuff of the universe itself, like.",
+          "Seeker: Anybody want to walk a new island? We could walk some islands."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i022",
+      "title": "Interpreting the Crown and its moral cost",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e028",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u3196",
+        "endUid": "u3362"
+      },
+      "lines": [
+        "%% u3196:0-31 %%",
+        "Delwath: Okay, okay. So the vision ends.",
+        "",
+        "%% u3197:0-40, u3198:0-40 %%",
+        "Kenzo: Kenzo's currently holding the crown, and he, he starts to give it back to Wellby.",
+        "",
+        "%% u3199:0-74, u3200:0-56 %%",
+        "Wellby: Yeah. Wellby's, like, standing down on the ladder in the portable hole, like— grabbing it and putting it back on the shelf again, and—",
+        "",
+        "%% u3201:0-25 %%",
+        "Delwath: So it can't be destroyed.",
+        "",
+        "%% u3202:0-37 %%",
+        "Wellby: Where's—what? I thought you said that.",
+        "",
+        "%% u3203:0-106 %%",
+        "DM: You don't know it. Why do you think it can't be destroyed? It may not be able to be permanently destroyed.",
+        "",
+        "%% u3204:0-70, u3205:0-186, u3206:0-64 %%",
+        "Riswynn: Maybe it reforms as a circlet of something because of its existential— Now that we know that it's fundamentally like a force of nature and a piece of the universe, but maybe what it was telling me when it told me that it would be destroyed if I rejected it. Kenzo, did it tell you it would be destroyed if you rejected it?",
+        "",
+        "%% u3207:0-4 %%",
+        "Kenzo: Yes.",
+        "",
+        "%% u3208:0-59 %%",
+        "Riswynn: Okay. So it has a consistent story that it tells people so.",
+        "",
+        "%% u3209:0-8 %%",
+        "Seeker: So that.",
+        "",
+        "%% u3210:0-27 %%",
+        "Kenzo: It can't. There is, I mean.",
+        "",
+        "%% u3211:0-34 %%",
+        "Seeker: Perhaps a way to destroy it. Then.",
+        "",
+        "%% u3212:0-62 %%",
+        "Riswynn: Well, and destroy could mean that it dematerializes from place,",
+        "",
+        "%% u3213:0-14 %%",
+        "Seeker: It's continue.",
+        "",
+        "%% u3214:0-16, u3215:0-107, u3216:0-51 %%",
+        "Riswynn: This essentially, and somewhere, under some amount of dirt or not, a circlet forms somewhere on the, in some plane of Taelgar, and somewhere surface. But it won't be our problem.",
+        "",
+        "%% u3217:0-19, u3218:0-88, u3219:0-4, u3220:0-5, u3221:0-34, u3222:0-20, u3223:0-35, u3224:0-2 %%",
+        "((Repeated arguments and comparisons))",
+        "",
+        "%% u3225:0-53, u3226:0-108 %%",
+        "Seeker: Wait, Tim, I have a question. Are there—is there some a unique phenomenon in the universe? Or are there other items that have this kind of history and provenance?",
+        "",
+        "%% u3227:0-108, u3228:0-23, u3229:0-69, u3230:0-58 %%",
+        "DM: You've never heard of anything like—I mean, this is like, so the reading this thing you saw is like when the multiverse was created. There's nothing—no lore suggests that there are, like, many items that survive from that moment, right? This is for sure unique.",
+        "",
+        "%% u3231:0-73 %%",
+        "Seeker: The only one which would be a scholarly argument against its destruction.",
+        "",
+        "%% u3232:0-92, u3233:0-34, u3234:0-8, u3235:0-84 %%",
+        "Delwath: No, no, no, it's not a scholarly argument at all, Seeker. I mean, something like this is not to be given to a scholar. I can't— it's too— powerful, and I think a scholar is too unfocused and unintentional about their acts.",
+        "",
+        "%% u3236:0-10, u3237:0-4, u3238:0-101, u3239:0-39, u3240:0-32, u3241:0-52, u3242:0-85, u3243:0-4, u3244:0-26, u3245:0-56, u3246:0-89, u3247:0-73, u3248:0-17, u3249:0-110, u3250:0-69, u3251:0-3, u3252:0-58, u3253:0-73, u3254:0-40 %%",
+        "((Repeated arguments and comparisons))",
+        "",
+        "%% u3255:0-50 %%",
+        "Delwath: Seems to me, can we really turn our backs on this?",
+        "",
+        "%% u3256:0-14 %%",
+        "Riswynn: Well, I don't—",
+        "",
+        "%% u3257:0-51 %%",
+        "Wellby: This ring is a gift? You're saying we should use it?",
+        "",
+        "%% u3258:0-97, u3259:0-68, u3260:0-87, u3261:0-67, u3262:0-44, u3263:0-85 %%",
+        "Riswynn: But my argument is, we just came through a moment in history, where, through our training and our partnership and our devotions to our various studies and and skills, we have just averted the worst case in our time frame, and the next noble quest of like some number of months to years of like cleanup of like hench people is not the noble quest that this crown must— or else humanity fail. Like, it's just, like, it'll take us months or take us 4 months.",
+        "",
+        "%% u3264:0-48 %%",
+        "Delwath: Undervalues the lives of everybody who will die.",
+        "",
+        "%% u3265:0-49 %%",
+        "Kenzo: Yeah, but I think we can do it without the crown.",
+        "",
+        "%% u3266:0-5 %%",
+        "Wellby: Yeah.",
+        "",
+        "%% u3267:0-7 %%",
+        "Kenzo: Easily.",
+        "",
+        "%% u3268:0-45 %%",
+        "Wellby: The thinking in that timescale is too narrow.",
+        "",
+        "%% u3269:0-31, u3270:0-82, u3271:0-8, u3272:0-212, u3273:0-66 %%",
+        "Riswynn: So if the crown just goes away, and if it happens to rise again at some point where it's able to be used for good— not our— that's our hope, but it's not our call, and if it ends up falling into some bad hands sometime in history when we're gone, like, we can't help that either, because it doesn't actually disappear. We disappeared it from abuse for our for our moment, and I think that's what's good.",
+        "",
+        "%% u3274:0-77, u3275:0-26 %%",
+        "((Repeated arguments and comparisons))",
+        "",
+        "%% u3276:0-34, u3277:0-67 %%",
+        "Delwath: No, no, no, no, no! Sorry! I mean, there's nothing in its history that suggests its use is corrupting.",
+        "",
+        "%% u3278:0-4 %%",
+        "Riswynn: Yes.",
+        "",
+        "%% u3279:0-2 %%",
+        "Seeker: T.",
+        "",
+        "%% u3280:0-15 %%",
+        "Riswynn: Now is corrupt.",
+        "",
+        "%% u3281:0-79, u3282:0-56 %%",
+        "Kenzo: Well, it's corrupting in the same way that you convinced me to remove the crown because of its ability to be used in powerful ways that—",
+        "",
+        "%% u3283:0-23 %%",
+        "Delwath: But I was wrong, Kenzo.",
+        "",
+        "%% u3284:0-38 %%",
+        "Kenzo: Oh, you were wrong! Oh, that's so, so—",
+        "",
+        "%% u3285:0-24 %%",
+        "Delwath: I already told you that.",
+        "",
+        "%% u3286:0-36 %%",
+        "Kenzo: That's so amusing that you're wrong.",
+        "",
+        "%% u3287:0-165 %%",
+        "Wellby: It doesn't need to be corrupting to be too powerful. It shouldn't ever have been in this world. It wasn't given to mortals to have the ability to reshape this place.",
+        "",
+        "%% u3288:0-13 %%",
+        "((Repeated arguments and comparisons))",
+        "",
+        "%% u3289:0-106, u3290:0-122, u3291:0-196, u3292:0-12 %%",
+        "Riswynn: I do think it was given to certain times and places to reshape this place. It's like that's its existence. But right now it's not—right now it's not cleanly—if it fell out of the sky right now after some period of total disuse, and we recognized it as a virgin circlet of wood or iron that it manifested as, with no poor 93 Chardonians attached to it with no free will or minimum minimized free will, who can never be reset by the will—",
+        "",
+        "%% u3293:0-5 %%",
+        "Delwath: That.",
+        "",
+        "%% u3294:0-27 %%",
+        "Riswynn: Yes, I can't let them free.",
+        "",
+        "%% u3295:0-45, u3296:0-65 %%",
+        "DM: I mean, you've been attuned to it for 4 days. Who knows what you could do if you were attuned to it for months.",
+        "",
+        "%% u3297:0-79, u3298:0-35 %%",
+        "Riswynn: I think I thought that I had to, that I couldn't let them free, and so I had to throw it to do a reset to get free.",
+        "",
+        "%% u3299:0-41, u3300:0-50, u3301:0-24, u3302:0-30, u3303:0-130 %%",
+        "DM: You don't have the power to set them free right now. That doesn't necessarily mean the crown is not able to set them. It clearly grows more. I mean— there's a lot you don't know. There's a lot you are unable to do, right? Basically, you're just taking over what Fausto was doing.",
+        "",
+        "%% u3304:0-6, u3305:0-40, u3306:0-61, u3307:0-12, u3308:0-40, u3309:0-76, u3310:0-32, u3311:0-23, u3312:0-29, u3313:0-58, u3314:0-41, u3315:0-50, u3316:0-24, u3317:0-73, u3318:0-34, u3319:0-32, u3320:0-37, u3321:0-71, u3322:0-78, u3323:0-135, u3324:0-7, u3325:0-37, u3326:0-52, u3327:0-25, u3328:0-5, u3329:0-5, u3330:0-24, u3331:0-72, u3332:0-15, u3333:0-63, u3334:0-56 %%",
+        "((Repeated arguments and comparisons))",
+        "",
+        "%% u3335:0-25, u3336:0-147 %%",
+        "Delwath: But wait. Do we have any— I mean, I guess it's hard to know. We don't know. Do you—does the mirror—does the crown only work by taking over people's free will? That wasn't—",
+        "",
+        "%% u3337:0-3 %%",
+        "DM: No.",
+        "",
+        "%% u3338:0-39 %%",
+        "Delwath: Yeah, that wasn't the impression I got.",
+        "",
+        "%% u3339:0-156 %%",
+        "Riswynn: But it worked by taking over people's free will for Apollyon, and then Fausto, and then, and the dude before Fausto, whose name we don't know or care about.",
+        "",
+        "%% u3340:0-12, u3341:0-11, u3342:0-31, u3343:0-27, u3344:0-108, u3345:0-183, u3346:0-44, u3347:0-31, u3348:0-45, u3349:0-77, u3350:0-46, u3351:0-33, u3352:0-70, u3353:0-71 %%",
+        "((Repeated arguments and comparisons))",
+        "",
+        "%% u3354:0-38, u3355:0-86, u3356:0-53, u3357:0-60, u3358:0-124, u3359:0-19 %%",
+        "Delwath: So why so certain that there is nobody who could do great good to balance the great evil that will surely come in the future? Why hide it when the only—when surely the only true, honest thing to do with something like this is to use it? If anybody felt they could achieve great good, because otherwise only those seeking evil will use it. Hiding it doesn't prevent another being used.",
+        "",
+        "%% u3360:0-57, u3361:0-107, u3362:0-21 %%",
+        "Seeker: What if there's another path, a way to hold it in reserve in a way where we do our best to make sure that it can only be unlocked in some deep future time by someone with good intentions?"
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: No, I totally agree with you, but I think that Delwath taking it is unsatisfying from, like, a Delwath character arc point of view, because it basically says, like, he hasn't changed",
+          "Delwath: Right.",
+          "Wellby: Over the course of returning back again, which I think is less interesting.",
+          "Delwath: No, that. That's that's true. Well, okay, you know what? He's not gonna try and do it secretly. We'll do it in character. Yeah, let's discuss in character.",
+          "DM: Yeah."
+        ],
+        "after": [
+          "Kenzo: I like that.",
+          "Seeker: Who, who could we entrust that has that kind of longevity in the world, who, who carries the memory of events and artifacts over that kind of timescale, over thousands of years?",
+          "Kenzo: I mean, the one that we're—we have some connection to is the stone giant.",
+          "Seeker: Oh, yeah.",
+          "DM: Hralgar, Hralgar would definitely not take it. But you also, you can't. I mean—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i023",
+      "title": "Possible custodians and shared stewardship",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e030",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u3364",
+        "endUid": "u3416"
+      },
+      "lines": [
+        "%% u3364:0-70, u3365:0-103 %%",
+        "Seeker: Who, who could we entrust that has that kind of longevity in the world, who, who carries the memory of events and artifacts over that kind of timescale, over thousands of years?",
+        "",
+        "%% u3366:0-72 %%",
+        "Kenzo: I mean, the one that we're—we have some connection to is the stone giant.",
+        "",
+        "%% u3367:0-9 %%",
+        "Seeker: Oh, yeah.",
+        "",
+        "%% u3368:0-46, u3369:0-32 %%",
+        "DM: Hralgar, Hralgar would definitely not take it. But you also, you can't. I mean—",
+        "",
+        "%% u3370:0-32 %%",
+        "Seeker: It's way too small for his head.",
+        "",
+        "%% u3371:0-80 %%",
+        "DM: But I, just to be clear, the vibe is very, you cannot, you cannot leave it unused.",
+        "",
+        "%% u3372:0-20 %%",
+        "Seeker: Right, right, right.",
+        "",
+        "%% u3373:0-45, u3374:0-42, u3375:0-30, u3376:0-66 %%",
+        "DM: Right, your decision at this point is either somebody attunes to it and becomes an NPC, or you send it fragmented into whatever happens when you choose to try and destroy it, right, like—",
+        "",
+        "%% u3377:0-11 %%",
+        "Delwath: Or we pick—",
+        "",
+        "%% u3378:0-21 %%",
+        "DM: Or you pick somebody.",
+        "",
+        "%% u3379:0-20 %%",
+        "Delwath: Person in the world.",
+        "",
+        "%% u3380:0-64 %%",
+        "DM: Who's already an NPC and try and convince them to attune to it.",
+        "",
+        "%% u3381:0-17 %%",
+        "Seeker: Such as Dimitaur.",
+        "",
+        "%% u3382:0-80, u3383:0-63 %%",
+        "Riswynn: Such as, like, the people who—I'm keep going back to this example. The people who set up the circular island were, like, a group of 12 wise people.",
+        "",
+        "%% u3384:0-32 %%",
+        "Delwath: We are a group of 5 wise people.",
+        "",
+        "%% u3385:0-62 %%",
+        "Riswynn: We could all become NPCs and just stop playing right now, but—",
+        "",
+        "%% u3386:0-86 %%",
+        "DM: We couldn't all. Only one of us could, I think. Only one person can attune to it, yeah.",
+        "",
+        "%% u3387:0-4, u3388:0-35, u3389:0-3, u3390:0-64, u3391:0-42 %%",
+        "((Repeated stewardship objections))",
+        "",
+        "%% u3392:0-58, u3393:0-10, u3394:0-97 %%",
+        "Riswynn: Well, that's why I said this. That's why I was going back— State the. They all agreed together on a plan that one person enacted through their shared, is my impression.",
+        "",
+        "%% u3395:0-109 %%",
+        "Delwath: But I don't think—I mean, Tim, we get—my impression is this is not a—it's not like 12 people attuned to it.",
+        "",
+        "%% u3396:0-11 %%",
+        "DM: No, no, no.",
+        "",
+        "%% u3397:0-61, u3398:0-54, u3399:0-164, u3400:0-163, u3401:0-245, u3402:0-21 %%",
+        "Riswynn: There's 1 person attuned, but like I'm currently carrying out Kenzo's will in Chardon, like I am balancing the, like— if it, if I don't give it any directions and it just tries to guess, it's like, 'Oh, you want everybody to be followers of the Bahrâzel,' like, zap. Everybody's, like, vehemently religious. Like, though, if I pay attention I can do other things with it. If I were part of a committee, if I were the NPC running this artifact, I could work with the mystai of various countries, and whoever we decide is like supposed to guide whatever is the great good this is meant to work in the world that Delwath wants to work, that everybody. But I don't think—I don't know what that need is like, make everybody—",
+        "",
+        "%% u3403:0-118 %%",
+        "Kenzo: Riswynn's making an interesting proposal, which is to act as an instrument at the behest of a larger democratic order.",
+        "",
+        "%% u3404:0-45 %%",
+        "Seeker: Or a secret world government that we install.",
+        "",
+        "%% u3405:0-39, u3406:0-13 %%",
+        "((Repeated stewardship objections))",
+        "",
+        "%% u3407:0-57, u3408:0-157 %%",
+        "Wellby: But I, like, I think, I think for Wellby, like, coming from coming from this halfling place, both of, like, like a semi-communal society, but also with a racial memory that, like, both combines and spans individuals, like—",
+        "",
+        "%% u3409:0-45, u3410:0-103, u3411:0-347, u3412:0-314 %%",
+        "Wellby: To me it feels like any use of the crown, any— all of the uses of it, for good and for evil, are about cutting off the ability of, like, the flow of time to unfold as it's going to. It's about reshaping the world to an individual's will rather than allowing the world to make its own choice about how it's going to unfold itself. And, and everything does that, right? Like, the, the Light spell does that in a dark place, right? It contravenes the world's darkness, right? And each individual does it. But— but there's a difference in scale when one individual can have that impact to, to change and shape the choices of thousands, for the same reasons that it's bad for Apollyon or Cha'mutte to be able to do that in empire and conquest. Inevitably, even when it's for the good, it's cutting off futures that are possible.",
+        "",
+        "%% u3413:0-14 %%",
+        "Riswynn: That's really—",
+        "",
+        "%% u3414:0-3 %%",
+        "Seeker: No.",
+        "",
+        "%% u3415:0-95, u3416:0-25 %%",
+        "Riswynn: But—and I want to add that there's only a moment when that's perhaps needed, some dire case like like walking island time."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: But Wellby, your memory suggested both great evil and great good, yes?",
+          "Wellby: Yeah, precisely, just as the mirror showed us. I mean, that, but more so.",
+          "Delwath: So why so certain that there is nobody who could do great good to balance the great evil that will surely come in the future? Why hide it when the only—when surely the only true, honest thing to do with something like this is to use it? If anybody felt they could achieve great good, because otherwise only those seeking evil will use it. Hiding it doesn't prevent another being used.",
+          "Seeker: What if there's another path, a way to hold it in reserve in a way where we do our best to make sure that it can only be unlocked in some deep future time by someone with good intentions?",
+          "Kenzo: I like that."
+        ],
+        "after": [
+          "Delwath: See, I—",
+          "Riswynn: There's not, it's not—",
+          "Delwath: I think that, I mean— it's a difference in scale, but I don't think the difference in scale makes it a difference in kind. How is it different than a Wish spell? Right, are you gonna—are we gonna be suspicious of Seeker in 3 months, when he can reshape the world by stating what he wants?",
+          "Wellby: But.",
+          "Seeker: This continues with that kind of thing."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i024",
+      "title": "Considering Rai and deferring the Crown decision",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e032",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u3560",
+        "endUid": "u3580"
+      },
+      "lines": [
+        "%% u3560:0-84 %%",
+        "Wellby: This feels like a—I mean, is this a problem that we could get back to Rai to solve?",
+        "",
+        "%% u3561:0-3 %%",
+        "Seeker: Oh!",
+        "",
+        "%% u3562:0-5 %%",
+        "Kenzo: Whoa!",
+        "",
+        "%% u3563:0-31 %%",
+        "Seeker: Oh, that's an interesting idea!",
+        "",
+        "%% u3564:0-47 %%",
+        "DM: Gone. You have to go track him down in Isingue.",
+        "",
+        "%% u3565:0-90 %%",
+        "Kenzo: Well, that's what we're going—that's, that's 1 of the side quests we're going to anyways.",
+        "",
+        "%% u3566:0-42 %%",
+        "DM: Oh, yeah, that's your level 20 adventure.",
+        "",
+        "%% u3567:0-50 %%",
+        "Seeker: Idea, though—we better hold on to the crown until—",
+        "",
+        "%% u3568:0-327 %%",
+        "Kenzo: Let's just look. I mean, you know, right now, like, do we have to decide this like right this second? Right now it's just happily attuned with Riswynn, where, you know, some good is happening right now with the Chardonians and the chalyte. We're gonna learn a little bit more about—we don't decide right now, right this second.",
+        "",
+        "%% u3569:0-11, u3570:0-13, u3571:0-15, u3572:0-51 %%",
+        "((Real-world clock and scheduling aside))",
+        "",
+        "%% u3573:0-17, u3574:0-73, u3575:0-31, u3576:0-69 %%",
+        "Delwath: We should decide. I think the metagame idea of the artifact here is that we probably can't— We need to either destroy it or give it to somebody else, or somebody has to retire and become an NPC.",
+        "",
+        "%% u3577:0-196 %%",
+        "Kenzo: Sure, but, but for the time being it's attuned. It's safely attuned to Riswynn. It's locked, it's in the portable. There's nothing—we don't have to decide, like, you know, right this second, right?",
+        "",
+        "%% u3578:0-32, u3579:0-141, u3580:0-12 %%",
+        "Delwath: Yeah, yeah, yeah. But we should. I mean, if we're going to go off on some brand new quest, the right time to introduce a new character, if anybody did become an NPC, is now, not in 3 months."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Could a group of 20—I— personally, I don't think Delwath would be interested in a quest to destroy it, and I'm not sure that I would be, right? It seems a bit—you're right, maybe it could be unmade if you like did the right stuff. But we're obviously, we would need to, that would have to become our new party goal is to find a way to unmake this thing. And what do you do with it in the meantime?",
+          "Wellby: Right, which also doesn't sound like metagame interesting as an adventure to go on. But like I think philosophically that's very much where Wellby is.",
+          "Seeker: Honestly, if we'd somehow gotten the cloak and the scepter and the crown at the same time, then— just think what we could have accomplished.",
+          "Delwath: I mean, you know, if if Wellby was really interested in finding a way to unmake it and you found one, what you'd really want is for somebody who—you'd want it to still be controlled by somebody who is willing to let you unmake it.",
+          "Kenzo: Like, where's my—"
+        ],
+        "after": [
+          "Kenzo: But, but, but not now, like, like 1230.",
+          "Delwath: Not now, like 1230, yeah.",
+          "Kenzo: Correct, correct.",
+          "DM: So sorry. Go ahead.",
+          "Riswynn: I said because Riswynn has to work tomorrow and the rest of you—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i025",
+      "title": "Re-attunement limits and the unresolved decision",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u3674",
+        "endUid": "u3686"
+      },
+      "lines": [
+        "%% u3674:0-172, u3675:0-93 %%",
+        "Delwath: Yeah, yeah. I'm just saying realistically, we're basically deciding whether Delwath takes it, Kate takes it, or we destroy it. I don't really think there's any other choice. Those are the only 3. Wellby can't even take it anymore because he tried and failed twice, so—",
+        "",
+        "%% u3676:0-16 %%",
+        "Wellby: Only tried once.",
+        "",
+        "%% u3677:0-172 %%",
+        "DM: You failed once. It's a DC—to take it just goes up each time you fail. Once you have attuned to it, you can't re attune to it. Once you've given it up, you can't re attune.",
+        "",
+        "%% u3678:0-21 %%",
+        "Riswynn: Like the path of the—",
+        "",
+        "%% u3679:0-78 %%",
+        "Wellby: Wellby's super confident that to take it would be to deactivate it, so that's—",
+        "",
+        "%% u3680:0-22 %%",
+        "Delwath: Yeah, yeah, so I mean.",
+        "",
+        "%% u3681:0-8 %%",
+        "Wellby: Utility.",
+        "",
+        "%% u3682:0-198, u3683:0-169 %%",
+        "Delwath: If, if Wellby would not agree to keep it, right? So we're basically either Riswynn keeps it, Delwath takes it, or Wellby takes it, and Wellby taking it's the 'we destroy it.' Riswynn is—and really, Kate and I need to think about Delwath versus, like, if—but if, Kate, if you want to make up a new character, like, that would be a pretty—that would be a relatively satisfying",
+        "",
+        "%% u3684:0-6, u3685:0-8 %%",
+        "((Closing interruption))",
+        "",
+        "%% u3686:0-19 %%",
+        "DM: About it on the 14."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: That's pretty dope.",
+          "Delwath: So like.",
+          "Wellby: Where we thought.",
+          "Delwath: Are we figuring this out right now, or—",
+          "DM: Drifted. Kate needs—nobody's gonna make Kate make a decision about—"
+        ],
+        "after": [
+          "Delwath: Yeah. Good night.",
+          "DM: Everyone—everybody, congratulations on—",
+          "Kenzo: Yeah.",
+          "Wellby: Yeah.",
+          "DM: That was fun. Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}
