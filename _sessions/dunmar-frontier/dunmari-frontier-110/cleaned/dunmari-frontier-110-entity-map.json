@@ -1,0 +1,1878 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "554d8e8d19b584104f18cadcc2fb7abbea8089def852dfe7f4ffb79ab1840575",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "9bd0eab39c2a482f167eb379e5c5a58ef5d09c4d6934a304061bbeeb2573eb30",
+        "transcriptProcessing.artifacts.cleaned": "9660b68bd20dae74df2aade88c80f2b9194439e47b2a8ec7be67d5b4a614105b"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "npc",
+      "label": "Ra’ghemdros",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2152",
+            "endUid": "u2166"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2373",
+            "endUid": "u2542"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2691",
+            "endUid": "u3032"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3844",
+            "endUid": "u3882"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u11465",
+            "endUid": "u11582"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14078",
+            "endUid": "u14093"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Light Stealer",
+        "Final Shadow",
+        "Devourer of Drankor",
+        "Last Empress of Hkar",
+        "Eternal Night"
+      ],
+      "note": "People/Other Nonhumans/Ra'ghemdros.md"
+    },
+    {
+      "id": "e002",
+      "kind": "npc",
+      "label": "Dimitaur",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u7855",
+            "endUid": "u7872"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u8065",
+            "endUid": "u8143"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u12813",
+            "endUid": "u12871"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14126",
+            "endUid": "u14148"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14647",
+            "endUid": "u14730"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Protector of the Forever Sunset"
+      ],
+      "note": "People/PCs/Great War/Companions/Dimitaur.md"
+    },
+    {
+      "id": "e003",
+      "kind": "npc",
+      "label": "Cloudspinner",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2784",
+            "endUid": "u2815"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u7149",
+            "endUid": "u7152"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u7530",
+            "endUid": "u7604"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u7834",
+            "endUid": "u7840"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Queen of Sunset",
+        "Secret Sunset"
+      ],
+      "note": "People/Extraplanar Powers/Archfey/Cloudspinner.md",
+      "confidenceExplanation": "The captive is a central rescue objective despite remaining unconscious; the dialogue connects the title and red-haired prisoner, without establishing release from her crystal."
+    },
+    {
+      "id": "e004",
+      "kind": "npc",
+      "label": "Mirror-bound hobgoblin woman",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0191",
+            "endUid": "u0197"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0239",
+            "endUid": "u0423"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "identifiedLater": true,
+      "note": "People/Other Nonhumans/Revaka.md",
+      "confidenceExplanation": "The Revaka page corroborates the same mirror-bound hobgoblin captive; her name is not spoken in this exchange, which centers on her kingdom and refusal to help."
+    },
+    {
+      "id": "e005",
+      "kind": "npc",
+      "label": "Ghesh",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1734",
+            "endUid": "u1839"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u9145",
+            "endUid": "u9195"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14695",
+            "endUid": "u14719"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u15223",
+            "endUid": "u15234"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Ghesh.md"
+    },
+    {
+      "id": "e006",
+      "kind": "npc",
+      "label": "Megren",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1769",
+            "endUid": "u1776"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14606",
+            "endUid": "u14613"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14846",
+            "endUid": "u14847"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Megren.md"
+    },
+    {
+      "id": "e007",
+      "kind": "npc",
+      "label": "Milo",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3461",
+            "endUid": "u3482"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u9049",
+            "endUid": "u9105"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u12697",
+            "endUid": "u12720"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14857",
+            "endUid": "u14907"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u15236",
+            "endUid": "u15247"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Halflings/Milo Thistlefoot.md"
+    },
+    {
+      "id": "e008",
+      "kind": "npc",
+      "label": "Tilly",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3470",
+            "endUid": "u3482"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u9049",
+            "endUid": "u9105"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u12399",
+            "endUid": "u12459"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u13554",
+            "endUid": "u13605"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14861",
+            "endUid": "u14907"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Halflings/Tilly Brineheart.md"
+    },
+    {
+      "id": "e009",
+      "kind": "npc",
+      "label": "Awakened ladder",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u6519",
+            "endUid": "u6548"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u7530",
+            "endUid": "u7554"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u13742",
+            "endUid": "u13806"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14237",
+            "endUid": "u14243"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Companions/Ladder.md",
+      "confidenceExplanation": "The recurring companion page covers several ladders; this record denotes the current awakened individual, whose enthusiasm, rescue and death distinguish it from routine summoned constructs."
+    },
+    {
+      "id": "e010",
+      "kind": "npc",
+      "label": "Fiend guarding the shadow prison",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4299",
+            "endUid": "u4306"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4949",
+            "endUid": "u4998"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u6479",
+            "endUid": "u6487"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u6942",
+            "endUid": "u6956"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e011",
+      "kind": "npc",
+      "label": "Apollyon",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2684",
+            "endUid": "u2733"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u8529",
+            "endUid": "u8567"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u8591",
+            "endUid": "u8605"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u15255",
+            "endUid": "u15255"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Historical Figures/Drankorian Emperors/Apollyon.md"
+    },
+    {
+      "id": "e012",
+      "kind": "npc",
+      "label": "Cha’mutte",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3532",
+            "endUid": "u3539"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u6710",
+            "endUid": "u6757"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u8529",
+            "endUid": "u8567"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Cha'mutte.md"
+    },
+    {
+      "id": "e013",
+      "kind": "npc",
+      "label": "Rai",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u8520",
+            "endUid": "u8605"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Great War/Rai.md"
+    },
+    {
+      "id": "e014",
+      "kind": "npc",
+      "label": "Beryl",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u8520",
+            "endUid": "u8527"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Great War/Beryl.md"
+    },
+    {
+      "id": "e015",
+      "kind": "npc",
+      "label": "Aerin",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u8526",
+            "endUid": "u8533"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Great War/Aerin.md"
+    },
+    {
+      "id": "e016",
+      "kind": "npc",
+      "label": "Agata",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2807",
+            "endUid": "u2809"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Tyffina"
+      ],
+      "note": "People/Fey/Agata.md"
+    },
+    {
+      "id": "e017",
+      "kind": "npc",
+      "label": "Grimbaskal",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0747",
+            "endUid": "u0765"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e018",
+      "kind": "npc",
+      "label": "Mirror captive’s grandfather",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0372",
+            "endUid": "u0407"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "He is an unnamed historical maker with a distinct relationship and concrete role in creating this mirror, rather than a directly encountered character."
+    },
+    {
+      "id": "e019",
+      "kind": "npc",
+      "label": "Emperor Imridal",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14463",
+            "endUid": "u14465"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "A particular emperor is identified as the signet’s owner, but the source pronunciation and lack of a matching note leave the label provisional."
+    },
+    {
+      "id": "e020",
+      "kind": "npc",
+      "label": "Kenzo’s doppelganger",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u8713",
+            "endUid": "u8719"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The DM explicitly distinguishes one duplicate per PC, but this is planning about existing enemies rather than a current encounter; identities remain unmapped."
+    },
+    {
+      "id": "e021",
+      "kind": "npc",
+      "label": "Wellby’s doppelganger",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u8713",
+            "endUid": "u8719"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The DM explicitly distinguishes one duplicate per PC, but this is planning about existing enemies rather than a current encounter; identities remain unmapped."
+    },
+    {
+      "id": "e022",
+      "kind": "npc",
+      "label": "Delwath’s doppelganger",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u8713",
+            "endUid": "u8719"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The DM explicitly distinguishes one duplicate per PC, but this is planning about existing enemies rather than a current encounter; identities remain unmapped."
+    },
+    {
+      "id": "e023",
+      "kind": "npc",
+      "label": "Seeker’s doppelganger",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u8713",
+            "endUid": "u8719"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The DM explicitly distinguishes one duplicate per PC, but this is planning about existing enemies rather than a current encounter; identities remain unmapped."
+    },
+    {
+      "id": "e024",
+      "kind": "divine",
+      "label": "Void Mind",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0098",
+            "endUid": "u0104"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/High Gods/Void Mind.md"
+    },
+    {
+      "id": "e025",
+      "kind": "divine",
+      "label": "Meswati",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u8845",
+            "endUid": "u8848"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Tanshi/Meswati/Meswati.md"
+    },
+    {
+      "id": "e026",
+      "kind": "divine",
+      "label": "Latanchi",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u12178",
+            "endUid": "u12179"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The attributed divine blessing is explicit, but the spoken name has no verified vault identity; no physical manifestation is inferred from the player’s phrasing."
+    },
+    {
+      "id": "e027",
+      "kind": "divine",
+      "label": "Eight Divines",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u8582",
+            "endUid": "u8590"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/Mos Numena Pantheon.md"
+    },
+    {
+      "id": "e028",
+      "kind": "organization",
+      "label": "Concordia Pyrae",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u6710",
+            "endUid": "u6757"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Drankorian Societies/Concordia Pyrae.md"
+    },
+    {
+      "id": "e029",
+      "kind": "organization",
+      "label": "Order of the Awakened Soul",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u8587",
+            "endUid": "u8590"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Dunmari Mystery Cults/Order of the Awakened Soul.md"
+    },
+    {
+      "id": "e030",
+      "kind": "item",
+      "label": "Jade fragment acquired from Ra’ghemdros",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3861",
+            "endUid": "u3865"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u8520",
+            "endUid": "u8605"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Jade Piece of Rai's Hand.md",
+      "confidenceExplanation": "The vault page covers all five fragments; this session’s record is the newly acquired final fragment and its shared vision, not five interchangeable item identities."
+    },
+    {
+      "id": "e031",
+      "kind": "item",
+      "label": "Apollyon’s throne",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3844",
+            "endUid": "u3882"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14718",
+            "endUid": "u14730"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u15152",
+            "endUid": "u15181"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e032",
+      "kind": "item",
+      "label": "Cloudspinner’s prison crystal",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u7149",
+            "endUid": "u7152"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u7530",
+            "endUid": "u7604"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u7834",
+            "endUid": "u7840"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e033",
+      "kind": "item",
+      "label": "Five communication eye-gems",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14509",
+            "endUid": "u14511"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14561",
+            "endUid": "u14599"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14916",
+            "endUid": "u15021"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u15152",
+            "endUid": "u15181"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The gems are introduced as one set with shared powers; later installations distinguish destinations, not separately named objects. The explicit revision replaces the proposed mouths."
+    },
+    {
+      "id": "e034",
+      "kind": "item",
+      "label": "Folding Boat",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14868",
+            "endUid": "u14907"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14985",
+            "endUid": "u15043"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u15236",
+            "endUid": "u15247"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e035",
+      "kind": "item",
+      "label": "Magic elven mast",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3470",
+            "endUid": "u3482"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u15028",
+            "endUid": "u15043"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u15245",
+            "endUid": "u15247"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e036",
+      "kind": "item",
+      "label": "Mirror of Soul Trapping",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0372",
+            "endUid": "u0407"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of Soul Trapping.md"
+    },
+    {
+      "id": "e037",
+      "kind": "item",
+      "label": "One-way scrying mirror",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4666",
+            "endUid": "u4709"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u6519",
+            "endUid": "u6548"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e038",
+      "kind": "item",
+      "label": "Black iron prison key",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u6942",
+            "endUid": "u6956"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u7099",
+            "endUid": "u7105"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e039",
+      "kind": "item",
+      "label": "Chronicles of the Concordia Pyrae",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u6710",
+            "endUid": "u6757"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Books/Records of the Concordia Pyrae.md"
+    },
+    {
+      "id": "e040",
+      "kind": "item",
+      "label": "Fireproof Plane-of-Fire research ledgers",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u6633",
+            "endUid": "u6634"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u6728",
+            "endUid": "u6738"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "identifiedLater": true,
+      "note": "Things/Books/Compendium of Fire.md",
+      "confidenceExplanation": "The surviving fireproof research collection matches the Compendium’s provenance and subject, but that title is not spoken; the three historical chronicles have a separate record."
+    },
+    {
+      "id": "e041",
+      "kind": "item",
+      "label": "Ever Spinning Top",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u7891",
+            "endUid": "u7959"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Ever Spinning Top.md"
+    },
+    {
+      "id": "e042",
+      "kind": "item",
+      "label": "Cloak of Rainbows",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2784",
+            "endUid": "u2815"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Artifacts of Power/Cloak of Rainbows.md"
+    },
+    {
+      "id": "e043",
+      "kind": "item",
+      "label": "Apollyon’s dagger",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u8529",
+            "endUid": "u8605"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Artifacts of Power/Apollyon's Phylactery.md"
+    },
+    {
+      "id": "e044",
+      "kind": "item",
+      "label": "Delwath’s elven sword",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4906",
+            "endUid": "u4910"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Narengril.md",
+      "confidenceExplanation": "Included for the Elvish whisper urging the fiend’s death, a distinct narrative manifestation beyond ordinary attacks; matching relies on the established elven anti-fiend sword identity."
+    },
+    {
+      "id": "e045",
+      "kind": "item",
+      "label": "Sunset thread",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u10092",
+            "endUid": "u10096"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e046",
+      "kind": "item",
+      "label": "Seven-ruby necklace",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14501",
+            "endUid": "u14508"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "A particular necklace is discovered among magic treasure; the player’s apparent Fireballs identification is not promoted to a confirmed item name."
+    },
+    {
+      "id": "e047",
+      "kind": "item",
+      "label": "Mountain-etched greatsword",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14512",
+            "endUid": "u14515"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e048",
+      "kind": "item",
+      "label": "Humming stringless wooden shortbow",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14516",
+            "endUid": "u14521"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14857",
+            "endUid": "u14859"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e049",
+      "kind": "item",
+      "label": "Belt with dwarven runes",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14525",
+            "endUid": "u14529"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e050",
+      "kind": "item",
+      "label": "Emerald triceratops figurine",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14530",
+            "endUid": "u14543"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e051",
+      "kind": "item",
+      "label": "Wooden box of diamond-like powder",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14547",
+            "endUid": "u14552"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e052",
+      "kind": "item",
+      "label": "Dragonet statuette chosen by Dimitaur",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14415",
+            "endUid": "u14419"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14790",
+            "endUid": "u14792"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e053",
+      "kind": "item",
+      "label": "Imperial signet of Imridal",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14463",
+            "endUid": "u14465"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e054",
+      "kind": "item",
+      "label": "Medallion showing a dragonet city",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14453",
+            "endUid": "u14462"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The distinctive city image warrants a brief discovery record, while its Hkar provenance remains player speculation."
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Routine PC equipment and temporary combat gifts",
+      "reason": "Ordinary activations, lending, attunement and damage rules establish no separate acquisition, original lore or plot role beyond routine equipment use.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4500",
+            "endUid": "u4506"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u9568",
+            "endUid": "u9576"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u10477",
+            "endUid": "u10504"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Summoned clay and stone constructs, draconic spirit, rat and lynxes",
+      "reason": "Routine spell-created helpers have no demonstrated continuing individual identity; distinctive appearance, commanded scouting and repeated attacks alone do not establish one.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u5129",
+            "endUid": "u5177"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u9663",
+            "endUid": "u9666"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u10309",
+            "endUid": "u10316"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u12202",
+            "endUid": "u12249"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Two unnamed captured dragonet scouts",
+      "reason": "They speak as an undifferentiated pair without individual names or distinctive identities. Their interrogation, tactical report and release remain in the time/location evidence.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u8779",
+            "endUid": "u8926"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u9239",
+            "endUid": "u9287"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Generic chimeras and dragonet crowds or swarms",
+      "reason": "The battle’s numbered enemies, assembled residents and temporary factions lack individual or enduring organizational identities.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u10935",
+            "endUid": "u10935"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14112",
+            "endUid": "u14119"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14613",
+            "endUid": "u14685"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Delwath’s unnamed brother",
+      "reason": "A brief secondhand comparison gives no new identity or substantive individual involvement in this session.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u6714",
+            "endUid": "u6719"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Riswynn",
+      "reason": "A campaign PC outside this session’s listed participants; the DM explicitly leaves her presence at the return uncertain.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u15251",
+            "endUid": "u15262"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Proposed magical mouths",
+      "reason": "The DM retracts the mouths and revises the five eyes to communicate; no separate acquired mouth item remains.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14590",
+            "endUid": "u14599"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14916",
+            "endUid": "u14928"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Ordinary hoard wealth and undifferentiated magic loot",
+      "reason": "Coins, gems, generic art, two unidentified potions and unspecified extra items lack distinct established identities beyond bulk treasure selection.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14399",
+            "endUid": "u14452"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14495",
+            "endUid": "u14503"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u15143",
+            "endUid": "u15147"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Mirror of the Past",
+      "reason": "Only proposed examination during treasure appraisal; no mirror examination is performed in this session.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14478",
+            "endUid": "u14483"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Revaka’s hypothetical restored kingdom and Hkar’s aspirational new empire",
+      "reason": "Proposed rule and historical place references do not establish a distinct presently acting organization.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0239",
+            "endUid": "u0265"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u14647",
+            "endUid": "u14685"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Occulta Ludum and Omnis Pura",
+      "reason": "Incidental examples of other Drankorian societies, used to explain an initially unknown estate symbol.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2139",
+            "endUid": "u2147"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "People/Other Nonhumans/Revaka.md",
+    "People/Other Nonhumans/Ra'ghemdros.md",
+    "People/Other Nonhumans/Ghesh.md",
+    "People/Other Nonhumans/Megren.md",
+    "People/PCs/Great War/Companions/Dimitaur.md",
+    "People/Extraplanar Powers/Archfey/Cloudspinner.md",
+    "People/Extraplanar Powers/Cha'mutte.md",
+    "People/Historical Figures/Drankorian Emperors/Apollyon.md",
+    "Things/Books/Records of the Concordia Pyrae.md",
+    "Groups/Drankorian Societies/Concordia Pyrae.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of Soul Trapping.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Jade Piece of Rai's Hand.md",
+    "Things/Artifacts of Power/Apollyon's Phylactery.md",
+    "People/PCs/Dunmar Fellowship/Companions/Ladder.md",
+    "People/Halflings/Milo Thistlefoot.md",
+    "People/Halflings/Tilly Brineheart.md",
+    "People/PCs/Great War/Rai.md",
+    "People/PCs/Great War/Beryl.md",
+    "People/PCs/Great War/Aerin.md",
+    "Things/Artifacts of Power/Cloak of Rainbows.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Ever Spinning Top.md",
+    "Gods and Religions/Gods/High Gods/Void Mind.md",
+    "Gods and Religions/Gods/Tanshi/Aasimti.md",
+    "Gods and Religions/Gods/Tanshi/Meswati/Meswati.md",
+    "Gods and Religions/Religions/Mos Numena/Mos Numena.md",
+    "Gazetteer/Drankorian Hinterland/Circular Island.md",
+    "People/Fey/Agata.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Narengril.md",
+    "Groups/Dunmari Mystery Cults/Order of the Awakened Soul.md",
+    "Gazetteer/Drankorian Hinterland/Drankor/Temple of the Eight Divines.md",
+    "Gazetteer/Drankorian Hinterland/Drankor/Apollyon's Temple.md",
+    "Gazetteer/Drankorian Hinterland/Apollyon's Tower.md",
+    "Things/Books/Compendium of Fire.md",
+    "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/Mos Numena Pantheon.md"
+  ]
+}

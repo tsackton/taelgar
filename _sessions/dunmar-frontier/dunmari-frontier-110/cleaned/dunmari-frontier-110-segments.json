@@ -1,0 +1,245 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-110",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-session.yaml",
+    "sessionYamlSha256": "dabad7b99b93e59fc3061ec625242ee97a70866e265ee1b474176dd127a7cdb9",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-transcript.md",
+    "transcriptSha256": "9bd0eab39c2a482f167eb379e5c5a58ef5d09c4d6934a304061bbeeb2573eb30"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0190"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0191",
+        "endUid": "u0425"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0426",
+        "endUid": "u1703"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1704",
+        "endUid": "u1841"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1842",
+        "endUid": "u1927"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1928",
+        "endUid": "u2181"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2182",
+        "endUid": "u2215"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2216",
+        "endUid": "u2285"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2286",
+        "endUid": "u2340"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2341",
+        "endUid": "u3563"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u3564",
+        "endUid": "u3747"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u3748",
+        "endUid": "u3936"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u3937",
+        "endUid": "u3970"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u3971",
+        "endUid": "u4043"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u4044",
+        "endUid": "u4057"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u4058",
+        "endUid": "u4367"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u4368",
+        "endUid": "u6487"
+      },
+      "category": "combat",
+      "note": "Includes pre-initiative Scatter and the immediately connected initiative setup; the shadow-prison rescue after this encounter is not combat."
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u6488",
+        "endUid": "u7631"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u7632",
+        "endUid": "u7822"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u7823",
+        "endUid": "u7824"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u7825",
+        "endUid": "u8148"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u8149",
+        "endUid": "u8489"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u8490",
+        "endUid": "u10564"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u10565",
+        "endUid": "u14110"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u14111",
+        "endUid": "u14180"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s026",
+      "source": {
+        "startUid": "u14181",
+        "endUid": "u14290"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s027",
+      "source": {
+        "startUid": "u14291",
+        "endUid": "u15102"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s028",
+      "source": {
+        "startUid": "u15103",
+        "endUid": "u15142"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s029",
+      "source": {
+        "startUid": "u15143",
+        "endUid": "u15275"
+      },
+      "category": "gameplay"
+    }
+  ]
+}

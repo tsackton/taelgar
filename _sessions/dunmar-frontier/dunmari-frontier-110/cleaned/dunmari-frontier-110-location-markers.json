@@ -1,0 +1,1482 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-110",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-session.yaml",
+    "sessionYamlSha256": "dabad7b99b93e59fc3061ec625242ee97a70866e265ee1b474176dd127a7cdb9",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-transcript.md",
+    "transcriptSha256": "9bd0eab39c2a482f167eb379e5c5a58ef5d09c4d6934a304061bbeeb2573eb30"
+  },
+  "places": {
+    "p01": {
+      "label": "Circular Island",
+      "evidence": [
+        {
+          "startUid": "u0512",
+          "endUid": "u0514",
+          "quote": "Okay. I mean, there may be portals. Like, we're right in the middle of the island right now. It feels a pretty magical place."
+        }
+      ],
+      "kind": "island",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    "p02": {
+      "label": "Ghesh’s tower",
+      "evidence": [
+        {
+          "startUid": "u1747",
+          "endUid": "u1768",
+          "quote": "So it's, like, 11:00 when you get to, to Ghesh, and he's actually, he's super happy.\n\nUnknown: How are you, my friend?\n\nDM: He's just returned.\n\nUnknown: Ah.\n\nDM: 9:00 AM this morning he was summoned. He w- or, like, at dawn this morning he was summoned to the lair.\n\nUnknown: Uh-huh.\n\nDM: He returns just an hour ago, and he's wearing ano- one of these little amulets-\n\nUnknown: Uh-huh. Uh-huh.\n\nDM: ... um, that Megr- Megren was wearing.\n\nDelwath: So like- Looking-\n\nDM: ... \"This is mine now.\"\n\nDelwath: \"All mine.\"\n\nKenzo: Which place?\n\nDM: Same place he was before.\n\nUnknown: Uh-huh.\n\nDM: But now he doesn't have to worry about anybody bossing him around to, like-\n\nUnknown: Right.\n\nDelwath: ... drive him out.\n\nDM: Um, \"I w- I was just, I just came back from, from talking to, um, Megren. We're gonna... Uh, she's got some ideas for how to improve this place.\""
+        }
+      ],
+      "kind": "tower",
+      "note": "The Ghesh vault note places his community in Alectia; the current upgraded tower is not independently named in the transcript."
+    },
+    "p03": {
+      "label": "Concordia Pyrae estate",
+      "evidence": [
+        {
+          "startUid": "u2101",
+          "endUid": "u2151",
+          "quote": "So you see now as you approach the thermal baths, so it's the, the, the view here is, like, you can see, like, half a mile above on the hill, um, the... [upbeat music] Half a mile up on the hill, you can see this, the sort of ruins of this villa and that's, like, half of the villa just completely leveled and the other half has the wall standing. Um- And then there's like a hill that slopes down and it's like nicely manicured and gardened and you can imagine how at one point this might have looked where the baths were sort of a, in the center of a sort of decorated garden that you could look overlooking on from the villa.\n\nDM: Um, the baths however are almost completely destroyed. Um, the only things that you see, um...\n\nDM: Oh, where did I put it? I have too many different notes. Um,\n\nDM: so the only thing you can see that's, so it, it, you can imagine there used to be sort of a, a whole structure built up around these thermal baths. Um, there's like a grand entrance that has a row of columns that lead into this sort of big open colonnade area. Um, there would've normally been like a building with like changing areas and sort of, um, you know, relaxation spaces and things like that. But most of this is destroyed. The only thing that's still standing is the grand central arch that leads into the, sort of into this entryway, which is all ruined.\n\nDM: And on the sort of keystone of the grand central arch you see, um, a, a symbol, like a stylized flame that's sitting above an open book like this that rises up, and then there's sparks on the top that sort of form sort of a semicircular crown that kind of looks like a rising or setting sun. [coughs]\n\nWellby: Whose symbol is that?\n\nDM: No idea.\n\nDelwath: Is it any... It's not Cha'mutte's.\n\nDM: It's not Cha'mutte's, no.\n\nKenzo: Arcana check?\n\nDM: Yeah, but it's-\n\nSeeker: That'd be a history...\n\nKenzo: ... history check.\n\nSeeker: Okay. Can I roll history?\n\nDM: Yeah, that's, that's on the history.\n\nSeeker: That's a eight plus f- that's a 23.\n\nDM: Um.\n\nKenzo: You have a plus 15 history check?\n\nDM: Yeah.\n\nDelwath: He's a bard. He has plus 15 to like everything.\n\nDM: You don't, you don't recognize the specific symbol, but it does recall to m- your mind that you've read there are many... Like Drankor was [garbled], not just like, you know, the Occulta Ludum and Omnis Pura. There was lots and lots of these like magical and some non-magical societies in Drankor. Like there were tons of them, and your best guess is this is the symbol of one of those.\n\nKenzo: And sorry, where is the symbol?\n\nDM: There's like a arch that leads into the thermal bath complex.\n\nUnknown: Oh.\n\nDM: And it's like at the keystone of the arch.\n\nKenzo: Gotcha. But this is not her symbol.\n\nUnknown: This is a-\n\nDM: No.\n\nSeeker: It's the former owners of this—\n\nDM: ... the former owners.\n\nUnknown: This estate. Yeah."
+        },
+        {
+          "startUid": "u6710",
+          "endUid": "u6738",
+          "quote": "... they're the, uh, history and chronicles of the Concordia Pyrae, a secret Drankorian society dedicated to understanding the magic of the Plane of Fire.\n\nUnknown: Oh.\n\nKenzo: Oh, this is how we find your brother.\n\nDelwath: Totally.\n\nUnknown: Yes.\n\nDelwath: How we find, yep.\n\nDM: Um—\n\nSeeker: We studied [garbled] last time.\n\nDM: ... most, like—\n\nDelwath: Eric, I have tons of charge. Do you want to just switch seats with me?\n\nSeeker: Oh, um, I can just reach.\n\nDM: Half of them—\n\nDelwath: There's a, that should reach.\n\nDM: ... like—\n\nUnknown: Sorry.\n\nDM: ... so there's 10 books. Most of them seem to be like research into the Plane of Fire, which is gonna take you some time to digest. Three of them are like a chronicle of events, right? They're like the records of this particular villa, and they kind of go, you sort of skim through them, and you get the vague, you know, you pick up some of the history you already know, right? Like, Drankorian, this was a big pilgrimage site in Drankor. Um, you know, it also became a place where p—where a lot of people, a lot of wizards went to sort of research and try to figure out the magic of Hkar and, you know, what was it that made the people of Hka—the wizards on Hkar so strong."
+        }
+      ],
+      "kind": "estate",
+      "note": "The books later identify the villa’s scholarly society (u6710–u6738); the baths and main villa are distinct parts of the estate.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u7834",
+              "endUid": "u7840",
+              "quote": "And as you... So it's only been now, at this point, something like 15 minutes since, or maybe 20 minutes since you left the company of Ra'ghemdros, made your way through the Cloudspinner's prison, and managed to rescue her now, her now in your portable hole.\n\nSeeker: [clears throat] After defeating the fiend.\n\nDM: After defeating the fiend. So at this point, you know, things seem quiet on the island, although there must be some activity down in the..."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Thermal bath complex",
+      "evidence": [
+        {
+          "startUid": "u2101",
+          "endUid": "u2118",
+          "quote": "So you see now as you approach the thermal baths, so it's the, the, the view here is, like, you can see, like, half a mile above on the hill, um, the... [upbeat music] Half a mile up on the hill, you can see this, the sort of ruins of this villa and that's, like, half of the villa just completely leveled and the other half has the wall standing. Um- And then there's like a hill that slopes down and it's like nicely manicured and gardened and you can imagine how at one point this might have looked where the baths were sort of a, in the center of a sort of decorated garden that you could look overlooking on from the villa.\n\nDM: Um, the baths however are almost completely destroyed. Um, the only things that you see, um...\n\nDM: Oh, where did I put it? I have too many different notes. Um,\n\nDM: so the only thing you can see that's, so it, it, you can imagine there used to be sort of a, a whole structure built up around these thermal baths. Um, there's like a grand entrance that has a row of columns that lead into this sort of big open colonnade area. Um, there would've normally been like a building with like changing areas and sort of, um, you know, relaxation spaces and things like that. But most of this is destroyed. The only thing that's still standing is the grand central arch that leads into the, sort of into this entryway, which is all ruined."
+        }
+      ],
+      "kind": "ruins",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u2101",
+              "endUid": "u2151",
+              "quote": "So you see now as you approach the thermal baths, so it's the, the, the view here is, like, you can see, like, half a mile above on the hill, um, the... [upbeat music] Half a mile up on the hill, you can see this, the sort of ruins of this villa and that's, like, half of the villa just completely leveled and the other half has the wall standing. Um- And then there's like a hill that slopes down and it's like nicely manicured and gardened and you can imagine how at one point this might have looked where the baths were sort of a, in the center of a sort of decorated garden that you could look overlooking on from the villa.\n\nDM: Um, the baths however are almost completely destroyed. Um, the only things that you see, um...\n\nDM: Oh, where did I put it? I have too many different notes. Um,\n\nDM: so the only thing you can see that's, so it, it, you can imagine there used to be sort of a, a whole structure built up around these thermal baths. Um, there's like a grand entrance that has a row of columns that lead into this sort of big open colonnade area. Um, there would've normally been like a building with like changing areas and sort of, um, you know, relaxation spaces and things like that. But most of this is destroyed. The only thing that's still standing is the grand central arch that leads into the, sort of into this entryway, which is all ruined.\n\nDM: And on the sort of keystone of the grand central arch you see, um, a, a symbol, like a stylized flame that's sitting above an open book like this that rises up, and then there's sparks on the top that sort of form sort of a semicircular crown that kind of looks like a rising or setting sun. [coughs]\n\nWellby: Whose symbol is that?\n\nDM: No idea.\n\nDelwath: Is it any... It's not Cha'mutte's.\n\nDM: It's not Cha'mutte's, no.\n\nKenzo: Arcana check?\n\nDM: Yeah, but it's-\n\nSeeker: That'd be a history...\n\nKenzo: ... history check.\n\nSeeker: Okay. Can I roll history?\n\nDM: Yeah, that's, that's on the history.\n\nSeeker: That's a eight plus f- that's a 23.\n\nDM: Um.\n\nKenzo: You have a plus 15 history check?\n\nDM: Yeah.\n\nDelwath: He's a bard. He has plus 15 to like everything.\n\nDM: You don't, you don't recognize the specific symbol, but it does recall to m- your mind that you've read there are many... Like Drankor was [garbled], not just like, you know, the Occulta Ludum and Omnis Pura. There was lots and lots of these like magical and some non-magical societies in Drankor. Like there were tons of them, and your best guess is this is the symbol of one of those.\n\nKenzo: And sorry, where is the symbol?\n\nDM: There's like a arch that leads into the thermal bath complex.\n\nUnknown: Oh.\n\nDM: And it's like at the keystone of the arch.\n\nKenzo: Gotcha. But this is not her symbol.\n\nUnknown: This is a-\n\nDM: No.\n\nSeeker: It's the former owners of this—\n\nDM: ... the former owners.\n\nUnknown: This estate. Yeah."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Ruined villa",
+      "evidence": [
+        {
+          "startUid": "u2101",
+          "endUid": "u2106",
+          "quote": "So you see now as you approach the thermal baths, so it's the, the, the view here is, like, you can see, like, half a mile above on the hill, um, the... [upbeat music] Half a mile up on the hill, you can see this, the sort of ruins of this villa and that's, like, half of the villa just completely leveled and the other half has the wall standing. Um- And then there's like a hill that slopes down and it's like nicely manicured and gardened and you can imagine how at one point this might have looked where the baths were sort of a, in the center of a sort of decorated garden that you could look overlooking on from the villa."
+        }
+      ],
+      "kind": "villa",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u2101",
+              "endUid": "u2151",
+              "quote": "So you see now as you approach the thermal baths, so it's the, the, the view here is, like, you can see, like, half a mile above on the hill, um, the... [upbeat music] Half a mile up on the hill, you can see this, the sort of ruins of this villa and that's, like, half of the villa just completely leveled and the other half has the wall standing. Um- And then there's like a hill that slopes down and it's like nicely manicured and gardened and you can imagine how at one point this might have looked where the baths were sort of a, in the center of a sort of decorated garden that you could look overlooking on from the villa.\n\nDM: Um, the baths however are almost completely destroyed. Um, the only things that you see, um...\n\nDM: Oh, where did I put it? I have too many different notes. Um,\n\nDM: so the only thing you can see that's, so it, it, you can imagine there used to be sort of a, a whole structure built up around these thermal baths. Um, there's like a grand entrance that has a row of columns that lead into this sort of big open colonnade area. Um, there would've normally been like a building with like changing areas and sort of, um, you know, relaxation spaces and things like that. But most of this is destroyed. The only thing that's still standing is the grand central arch that leads into the, sort of into this entryway, which is all ruined.\n\nDM: And on the sort of keystone of the grand central arch you see, um, a, a symbol, like a stylized flame that's sitting above an open book like this that rises up, and then there's sparks on the top that sort of form sort of a semicircular crown that kind of looks like a rising or setting sun. [coughs]\n\nWellby: Whose symbol is that?\n\nDM: No idea.\n\nDelwath: Is it any... It's not Cha'mutte's.\n\nDM: It's not Cha'mutte's, no.\n\nKenzo: Arcana check?\n\nDM: Yeah, but it's-\n\nSeeker: That'd be a history...\n\nKenzo: ... history check.\n\nSeeker: Okay. Can I roll history?\n\nDM: Yeah, that's, that's on the history.\n\nSeeker: That's a eight plus f- that's a 23.\n\nDM: Um.\n\nKenzo: You have a plus 15 history check?\n\nDM: Yeah.\n\nDelwath: He's a bard. He has plus 15 to like everything.\n\nDM: You don't, you don't recognize the specific symbol, but it does recall to m- your mind that you've read there are many... Like Drankor was [garbled], not just like, you know, the Occulta Ludum and Omnis Pura. There was lots and lots of these like magical and some non-magical societies in Drankor. Like there were tons of them, and your best guess is this is the symbol of one of those.\n\nKenzo: And sorry, where is the symbol?\n\nDM: There's like a arch that leads into the thermal bath complex.\n\nUnknown: Oh.\n\nDM: And it's like at the keystone of the arch.\n\nKenzo: Gotcha. But this is not her symbol.\n\nUnknown: This is a-\n\nDM: No.\n\nSeeker: It's the former owners of this—\n\nDM: ... the former owners.\n\nUnknown: This estate. Yeah."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Road staging point near the villa",
+      "evidence": [
+        {
+          "startUid": "u3118",
+          "endUid": "u3125",
+          "quote": "Yeah, if you can both do it, yeah. So you would walk within 1,000 feet if you just follow the road back to that place.\n\nWellby: All right. Like, if, if everything's-\n\nUnknown: Send the mouse in.\n\nWellby: Uh, yeah, sure.\n\nDM: Send what?\n\nUnknown: Send the mouse in.\n\nDM: Send the mouse. So you like start walking back so you get closer."
+        }
+      ],
+      "kind": "road",
+      "note": "The party remains on the road while the rat and Clairvoyance scout the villa. The one-thousand-foot estimate is approximate.",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u3118",
+              "endUid": "u3125",
+              "quote": "Yeah, if you can both do it, yeah. So you would walk within 1,000 feet if you just follow the road back to that place.\n\nWellby: All right. Like, if, if everything's-\n\nUnknown: Send the mouse in.\n\nWellby: Uh, yeah, sure.\n\nDM: Send what?\n\nUnknown: Send the mouse in.\n\nDM: Send the mouse. So you like start walking back so you get closer."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Crypt crossroads beneath the villa",
+      "evidence": [
+        {
+          "startUid": "u3509",
+          "endUid": "u3539",
+          "quote": "It's not spinning.\n\nWellby: Oh. [paper rattling]\n\nDM: You see, um... So this, this is a, this is, like, a, a cross shaped design, right? Your, your, the eye is in the center of a crossroads, like, where there's a corridor that goes this way and there's a corridor that goes this way. The, the two that go this way, the... I'll call them the north and the south corridors, lead to, um...\n\nDM: They, they open up into small almost like meditative or contemplative spaces where there's like fine silvery ash that kind of forms like a, almost like a Zen sand garden in both sides. Um, there's, like, uh, a couple of sort of darkened pieces of stone that have been arranged, that seems to have been untouched for many, many years. And there's, there's like nooks in, in all of the walls in those two passageways where somebody could like sit in prayer or meditation.\n\nDM: In the direction going back, you just see this, this corridor, and you can see it looks like, it actually looks like a crypt. Like the walls are lined with hundreds of urns that probably hold the cremated remains of the whoever.\n\nDelwath: All the kings.\n\nDM: The kings.\n\nSeeker: And one tiny smoking pile of rat bones.\n\nDM: One tiny smoking pile of rats. It's clear that walking into the crypt triggered some sort of booby trap.\n\nDelwath: Yeah.\n\nDM: In the other direction, um, the wall ends in a dead end, and you see a flaming red eye surrounded by a ring of shadows painted on over, like, completely obliterating what used to be, um, that book symbol painted on the wall.\n\nDelwath: The Cha'mutte symbol?\n\nDM: Yes.\n\nSeeker: It's a red eye surrounded by a ring of shadows?\n\nDM: Yeah.\n\nDelwath: Loser."
+        }
+      ],
+      "kind": "undercroft",
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u3364",
+              "endUid": "u3369",
+              "quote": "Um, yeah, it's, like, under the villa. It's in this basement complex.\n\nUnknown: But, like... But, like-\n\nDM: You don't know exactly.\n\nUnknown: ... Okay.\n\nDM: You can't p- pinpoint it to the foot."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u3364",
+              "endUid": "u3369",
+              "quote": "Um, yeah, it's, like, under the villa. It's in this basement complex.\n\nUnknown: But, like... But, like-\n\nDM: You don't know exactly.\n\nUnknown: ... Okay.\n\nDM: You can't p- pinpoint it to the foot."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Fiend’s lava chamber",
+      "evidence": [
+        {
+          "startUid": "u4205",
+          "endUid": "u4261",
+          "quote": "Yep. Delwath is looking into a large room-\n\nWellby: Can you draw it?\n\nDM: ... immediately to his right. [sniffs] Um-\n\nWellby: Oh, boy.\n\nDM: ... yep. One, two, three, four, five, six, seven... One, two, three, four, five, six, seven. Okay. Uh, it might not quite fit. Oh, it just fits.\n\nDM: Okay. Delwath is looking into a large room. Um, I need to look at my notes for exactly what you see, so- but you can, you can draw these as I add them. So you can probably see into the whole room-\n\nUnknown: Yeah.\n\nDM: ... because it's within your 90 feet of darkvision.\n\nUnknown: Yeah.\n\nDM: Um...\n\nDM: At the far wall, directly across from the Eye of Cha'mutte, there's about a, a, like, a semicircular, like, fountain that extends out about 10 feet from the wa- from the wall and then goes in a s- well, I can just draw it.\n\nDelwath: So like that?\n\nDM: Yeah, like that. Um, from which you can see, like, waves of heat, like, shimmer. It's, like, lava in that fountain.\n\nWellby: The floor is lava.\n\nDM: In the middle of the room, uh, sort of, like, right up against- right there, yeah- there's, like, a, a, a round stone table that's hollow in the middle, and there's, um... So it's, like, a, it's, like, a donut shaped table.\n\nUnknown: Ah, okay.\n\nDM: Um-\n\nWellby: Reception.\n\nDM: What?\n\nWellby: Like a reception desk.\n\nUnknown: [laughs]\n\nDM: It's, it's bigger than that. It's more like a meeting table.\n\nDelwath: But is it big as-\n\nDM: It's like, it's like an oval shaped meeting table.\n\nDelwath: Oh, so it's like-\n\nWellby: How big is it across?\n\nDelwath: It's more like that?\n\nDM: Like that. Yeah, it's like that.\n\nUnknown: Cool.\n\nDM: Um, on the north wall, so up, there's a whole bunch of stone shelving, um, with about 10 books on it. On the south wall, there's a large mirror.\n\nWellby: Oh. Oh, perfect.\n\nDM: And, um-\n\nUnknown: [laughs]\n\nDM: Standing in between the, um, the stone table and the lava is a large fiend."
+        }
+      ],
+      "kind": "chamber",
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u3364",
+              "endUid": "u3369",
+              "quote": "Um, yeah, it's, like, under the villa. It's in this basement complex.\n\nUnknown: But, like... But, like-\n\nDM: You don't know exactly.\n\nUnknown: ... Okay.\n\nDM: You can't p- pinpoint it to the foot."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u4058",
+              "endUid": "u4070",
+              "quote": "Okay, so you teleport into the room.\n\nDelwath: Dimension Door?\n\nUnknown: Dimension Door.\n\nDM: Dimension Door. Both of you cast a spell. You appear-\n\nSeeker: Oh, I have to knock that one off.\n\nDM: ...um, in the-\n\nDelwath: Yeah, me too.\n\nKenzo: And we can still teleport from here back to wherever the fuck we want.\n\nDelwath: Correct.\n\nUnknown: Yep.\n\nDelwath: Yeah.\n\nDM: So you appear in, in the center of this, of this four-way intersection, right?"
+            }
+          ]
+        },
+        {
+          "relation": "connected_to",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u4205",
+              "endUid": "u4261",
+              "quote": "Yep. Delwath is looking into a large room-\n\nWellby: Can you draw it?\n\nDM: ... immediately to his right. [sniffs] Um-\n\nWellby: Oh, boy.\n\nDM: ... yep. One, two, three, four, five, six, seven... One, two, three, four, five, six, seven. Okay. Uh, it might not quite fit. Oh, it just fits.\n\nDM: Okay. Delwath is looking into a large room. Um, I need to look at my notes for exactly what you see, so- but you can, you can draw these as I add them. So you can probably see into the whole room-\n\nUnknown: Yeah.\n\nDM: ... because it's within your 90 feet of darkvision.\n\nUnknown: Yeah.\n\nDM: Um...\n\nDM: At the far wall, directly across from the Eye of Cha'mutte, there's about a, a, like, a semicircular, like, fountain that extends out about 10 feet from the wa- from the wall and then goes in a s- well, I can just draw it.\n\nDelwath: So like that?\n\nDM: Yeah, like that. Um, from which you can see, like, waves of heat, like, shimmer. It's, like, lava in that fountain.\n\nWellby: The floor is lava.\n\nDM: In the middle of the room, uh, sort of, like, right up against- right there, yeah- there's, like, a, a, a round stone table that's hollow in the middle, and there's, um... So it's, like, a, it's, like, a donut shaped table.\n\nUnknown: Ah, okay.\n\nDM: Um-\n\nWellby: Reception.\n\nDM: What?\n\nWellby: Like a reception desk.\n\nUnknown: [laughs]\n\nDM: It's, it's bigger than that. It's more like a meeting table.\n\nDelwath: But is it big as-\n\nDM: It's like, it's like an oval shaped meeting table.\n\nDelwath: Oh, so it's like-\n\nWellby: How big is it across?\n\nDelwath: It's more like that?\n\nDM: Like that. Yeah, it's like that.\n\nUnknown: Cool.\n\nDM: Um, on the north wall, so up, there's a whole bunch of stone shelving, um, with about 10 books on it. On the south wall, there's a large mirror.\n\nWellby: Oh. Oh, perfect.\n\nDM: And, um-\n\nUnknown: [laughs]\n\nDM: Standing in between the, um, the stone table and the lava is a large fiend."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Shadow prison beyond the lava portal",
+      "evidence": [
+        {
+          "startUid": "u7117",
+          "endUid": "u7152",
+          "quote": "I might go through.\n\nDM: Um, you have, um, an immediate terrifying sense of being back in the shadow dimension you were trapped in.\n\nUnknown: Ooh.\n\nWellby: Uh, this is a Cha'mutte thing.\n\nUnknown: Uh, but—\n\nDM: You look around, and you can see it's a small room. Um, it's a room maybe—\n\nUnknown: Do you still have Telepathy?\n\nDM: ... 15 feet by 15 feet.\n\nWellby: No, it doesn't cross dimension.\n\nDM: Um, n—no, I think it... Does it?\n\nDelwath: I don't know. Does it?\n\nDM: Check the spell.\n\nWellby: Oh, uh, uh, I assume—\n\nDM: You don't cross dimensions.\n\nWellby: Yeah.\n\nDM: But the telepathic bond, I think, is anywhere. It doesn't say it doesn't cross planes.\n\nSeeker: Uh, it says it cannot cross planes.\n\nDM: Okay, so you can't telepath with Delwath. Um, it's a small room, maybe 20 feet by 20 feet square. The walls are made of shadow that are constantly shifting and like twisting and writhing. And there's four, like, ropes of shadow that hang from the corners, holding in the center of the chamber a pale gray smoky crystal.\n\nDM: Through it you can dimly see a naked woman, her long hair a brilliant tangle of reds and orange—(yeah, that's what I thought it was)—that can cr—contrasts with the almost silvery gray tint of her skin. She seems still, unmoving, as if she's in some kind of suspended state, but every now and then you can see her chest slowly rising and falling."
+        }
+      ],
+      "kind": "extraplanar prison",
+      "note": "Connected through the lava chamber’s portal; no ordinary physical containment within the villa is assumed.",
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u7099",
+              "endUid": "u7148",
+              "quote": "Okay. You open it. There's just a thin film of darkness below.\n\nDelwath: Can I see through it?\n\nDM: Nope. It's a portal.\n\nUnknown: Ah. It's a portal.\n\nWellby: I think you should...\n\nDM: Yeah.\n\nWellby: I'll shout down in Fey. Um—\n\nDM: Okay, so you take six points of fire damage. And you take eight points of fire damage.\n\nWellby: So we're here to rescue you, and you can come out, or we can come down, but let's not, like, kill each other in the process.\n\nUnknown: We can't.\n\nWellby: Sound good?\n\nDM: Yeah, but you don't know if sound even carries through the portal.\n\nDelwath: I might go through.\n\nDM: Um, you have, um, an immediate terrifying sense of being back in the shadow dimension you were trapped in.\n\nUnknown: Ooh.\n\nWellby: Uh, this is a Cha'mutte thing.\n\nUnknown: Uh, but—\n\nDM: You look around, and you can see it's a small room. Um, it's a room maybe—\n\nUnknown: Do you still have Telepathy?\n\nDM: ... 15 feet by 15 feet.\n\nWellby: No, it doesn't cross dimension.\n\nDM: Um, n—no, I think it... Does it?\n\nDelwath: I don't know. Does it?\n\nDM: Check the spell.\n\nWellby: Oh, uh, uh, I assume—\n\nDM: You don't cross dimensions.\n\nWellby: Yeah.\n\nDM: But the telepathic bond, I think, is anywhere. It doesn't say it doesn't cross planes.\n\nSeeker: Uh, it says it cannot cross planes.\n\nDM: Okay, so you can't telepath with Delwath. Um, it's a small room, maybe 20 feet by 20 feet square. The walls are made of shadow that are constantly shifting and like twisting and writhing. And there's four, like, ropes of shadow that hang from the corners, holding in the center of the chamber a pale gray smoky crystal."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Summit monastery",
+      "evidence": [
+        {
+          "startUid": "u8996",
+          "endUid": "u8998",
+          "quote": "So remind me of the setup at the top of the mountain. There's the eight temples around the central lighthouse.\n\nDM: There's the eight temples around a courtyard, and then there's this, the lighthouse in the middle that has a bell and then a cracked lighthouse mechanism on the top."
+        }
+      ],
+      "kind": "temple complex",
+      "aliases": [
+        "Eight temples and central lighthouse"
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u8996",
+              "endUid": "u8998",
+              "quote": "So remind me of the setup at the top of the mountain. There's the eight temples around the central lighthouse.\n\nDM: There's the eight temples around a courtyard, and then there's this, the lighthouse in the middle that has a bell and then a cracked lighthouse mechanism on the top."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Temple of the Sibyl",
+      "evidence": [
+        {
+          "startUid": "u7852",
+          "endUid": "u7859",
+          "quote": "We teleported.\n\nDM: ... or you teleported into the temple.\n\nSeeker: Directly inside the temple.\n\nDM: Okay. So you're in the temple. [clicks tongue] Um, Dimitaur, you hear the start of a, \"Who dares...\" \"Oh, wait.\" And he steps out from behind the statue. \"It's you.\" [clears throat]"
+        },
+        {
+          "startUid": "u9837",
+          "endUid": "u9838",
+          "quote": "Dimitaur is gonna... Dimitaur is staying in his Temple of the Sibyl. Um, he's actually gonna be on the roof of the Temple of the Sibyl."
+        }
+      ],
+      "kind": "temple",
+      "aliases": [
+        "Dimitaur’s temple"
+      ],
+      "note": "The summit temple used by Dimitaur; the island context is supported by the surrounding defense, distinct from the historical Drankor temple.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u8996",
+              "endUid": "u8998",
+              "quote": "So remind me of the setup at the top of the mountain. There's the eight temples around the central lighthouse.\n\nDM: There's the eight temples around a courtyard, and then there's this, the lighthouse in the middle that has a bell and then a cracked lighthouse mechanism on the top."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Tunnels behind the statue",
+      "evidence": [
+        {
+          "startUid": "u8030",
+          "endUid": "u8037",
+          "quote": "This is the trap door behind the statue.\n\nUnknown: Okay.\n\nWellby: Should someone be keeping lookout?\n\nDelwath: I might wait out here. A, I don't actually need a long rest. And B, I only need four hours to get a long rest.\n\nUnknown: Awesome. Whatever you like.\n\nDM: It's up to you."
+        }
+      ],
+      "kind": "tunnels",
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u8030",
+              "endUid": "u8037",
+              "quote": "This is the trap door behind the statue.\n\nUnknown: Okay.\n\nWellby: Should someone be keeping lookout?\n\nDelwath: I might wait out here. A, I don't actually need a long rest. And B, I only need four hours to get a long rest.\n\nUnknown: Awesome. Whatever you like.\n\nDM: It's up to you."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Central lighthouse",
+      "evidence": [
+        {
+          "startUid": "u8996",
+          "endUid": "u8998",
+          "quote": "So remind me of the setup at the top of the mountain. There's the eight temples around the central lighthouse.\n\nDM: There's the eight temples around a courtyard, and then there's this, the lighthouse in the middle that has a bell and then a cracked lighthouse mechanism on the top."
+        }
+      ],
+      "kind": "lighthouse",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u8996",
+              "endUid": "u8998",
+              "quote": "So remind me of the setup at the top of the mountain. There's the eight temples around the central lighthouse.\n\nDM: There's the eight temples around a courtyard, and then there's this, the lighthouse in the middle that has a bell and then a cracked lighthouse mechanism on the top."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Temple of the Night Queen",
+      "evidence": [
+        {
+          "startUid": "u14088",
+          "endUid": "u14093",
+          "quote": "... cracks open and it's, like, begins to peel out and suddenly the sun rises and there's, like, an entire sunset in a 360 degree circle around you as the dragon falls, crashes through the roof of the tower, and lands in the middle of the temple of the Night Queen, dead."
+        }
+      ],
+      "kind": "temple",
+      "note": "The death narration says the dragon crashes through the tower roof and lands in this temple; it does not establish the temple’s physical containment inside the lighthouse.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u8996",
+              "endUid": "u8998",
+              "quote": "So remind me of the setup at the top of the mountain. There's the eight temples around the central lighthouse.\n\nDM: There's the eight temples around a courtyard, and then there's this, the lighthouse in the middle that has a bell and then a cracked lighthouse mechanism on the top."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Ra’ghemdros’s lair",
+      "evidence": [
+        {
+          "startUid": "u14291",
+          "endUid": "u14302",
+          "quote": "So you make your way through the lair.\n\nUnknown: Dragon treasure. I can't wait.\n\nDM: There's, like, a giant lake of acid.\n\nUnknown: Dragon treasure.\n\nWellby: We'll leave, we'll leave that.\n\nDM: That you just fly over.\n\nUnknown: Dragon treasure.\n\nDM: There's, like, shadowy tendrils and things.\n\nDM: You come to the lair itself with massive acid geysers which have stopped erupting.\n\nUnknown: Ah.\n\nDM: And from the lair you can see into the main, like, the room of the main hoard, and you have never seen anything like this before."
+        },
+        {
+          "startUid": "u2216",
+          "endUid": "u2227",
+          "quote": "... the only light, the only thing that's not pitch black, um, is her eyes, um, which glow green when she opens them to look at you. Um, but she seems to be, um, as- so she's, so you're appro- you like, Kenzo's approaching with these, um, with the three animals around him. She's sort of waiting for you to walk. The dragonets lead you into the, like the center of this thermal pool complex, and you can see there's the one big pool, which is what's been described as what leads to her lair. And then there's like, two smaller pools. It's probably like there was like the hot pool and then the cool pool, right, and warm pool, stuff like that.\n\nDM: And you can see there once used to be extensive, um, buildings to the, to the north away, where there was probably additional sort of, you know, chambers for, for changing or for relaxation or exercise or something like that, but these have all been ruined. And she's sort of perched above."
+        },
+        {
+          "startUid": "u7994",
+          "endUid": "u7998",
+          "quote": "Uh, it doesn't work. She went into her lair. Scrying across planes.\n\nUnknown: But how can she scry across planes?\n\nDM: Her lair is magic."
+        }
+      ],
+      "kind": "extraplanar lair",
+      "note": "The portal lies through the bath pool, but u7994–u7998 establishes that the lair is on another plane; below the baths is an entrance relationship.",
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u2216",
+              "endUid": "u2227",
+              "quote": "... the only light, the only thing that's not pitch black, um, is her eyes, um, which glow green when she opens them to look at you. Um, but she seems to be, um, as- so she's, so you're appro- you like, Kenzo's approaching with these, um, with the three animals around him. She's sort of waiting for you to walk. The dragonets lead you into the, like the center of this thermal pool complex, and you can see there's the one big pool, which is what's been described as what leads to her lair. And then there's like, two smaller pools. It's probably like there was like the hot pool and then the cool pool, right, and warm pool, stuff like that.\n\nDM: And you can see there once used to be extensive, um, buildings to the, to the north away, where there was probably additional sort of, you know, chambers for, for changing or for relaxation or exercise or something like that, but these have all been ruined. And she's sort of perched above."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Main hoard room",
+      "evidence": [
+        {
+          "startUid": "u14301",
+          "endUid": "u14331",
+          "quote": "And from the lair you can see into the main, like, the room of the main hoard, and you have never seen anything like this before.\n\nDM: There must be well over a million coins here.\n\nDM: There's thousands upon thousands of, um, items of jewelry that are all... It's all laid out like a museum. It's like-\n\nUnknown: Wow.\n\nDM: ... there's, like, one wall that has, like, 400 earrings just hanging on the wall.\n\nDelwath: Holy shit.\n\nDM: There's a, um, there's, like, a, a rock that's been carved into, like, a wavy serpentine circle and there's about 200 rings just kind of laid out- S- like, c- by color, right? From like the fancy-\n\nSeeker: It's a very organized hoard.\n\nUnknown: Yeah.\n\nSeeker: It's not just a pile of stuff.\n\nDM: Oh, yeah. She spent like hours and hours every day.\n\nUnknown: She... Years and years.\n\nDM: Years-\n\nUnknown: Yeah.\n\nDM: ... just organizing the hoard. There's necklaces, there's brooches, there's, um, there's a whole wall of holy symbols. There's...\n\nUnknown: Rubies?\n\nDM: Um, well, you'll have to search around a little bit.\n\nUnknown: Mm-hmm.\n\nDM: Um, there's, uh, about 1,000 lockets of various kinds that are laid out like on the bottom panel of a wall.\n\nDM: Um, and then there's a, a waterf- an waterfall of acid that separates this room from another room.\n\nUnknown: Hmm.\n\nUnknown: Uh, Dimension Door?\n\nWellby: Is there anything magic in this room?\n\nDM: There's nothing magic in this room."
+        }
+      ],
+      "kind": "treasure chamber",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u14291",
+              "endUid": "u14331",
+              "quote": "So you make your way through the lair.\n\nUnknown: Dragon treasure. I can't wait.\n\nDM: There's, like, a giant lake of acid.\n\nUnknown: Dragon treasure.\n\nWellby: We'll leave, we'll leave that.\n\nDM: That you just fly over.\n\nUnknown: Dragon treasure.\n\nDM: There's, like, shadowy tendrils and things.\n\nDM: You come to the lair itself with massive acid geysers which have stopped erupting.\n\nUnknown: Ah.\n\nDM: And from the lair you can see into the main, like, the room of the main hoard, and you have never seen anything like this before.\n\nDM: There must be well over a million coins here.\n\nDM: There's thousands upon thousands of, um, items of jewelry that are all... It's all laid out like a museum. It's like-\n\nUnknown: Wow.\n\nDM: ... there's, like, one wall that has, like, 400 earrings just hanging on the wall.\n\nDelwath: Holy shit.\n\nDM: There's a, um, there's, like, a, a rock that's been carved into, like, a wavy serpentine circle and there's about 200 rings just kind of laid out- S- like, c- by color, right? From like the fancy-\n\nSeeker: It's a very organized hoard.\n\nUnknown: Yeah.\n\nSeeker: It's not just a pile of stuff.\n\nDM: Oh, yeah. She spent like hours and hours every day.\n\nUnknown: She... Years and years.\n\nDM: Years-\n\nUnknown: Yeah.\n\nDM: ... just organizing the hoard. There's necklaces, there's brooches, there's, um, there's a whole wall of holy symbols. There's...\n\nUnknown: Rubies?\n\nDM: Um, well, you'll have to search around a little bit.\n\nUnknown: Mm-hmm.\n\nDM: Um, there's, uh, about 1,000 lockets of various kinds that are laid out like on the bottom panel of a wall.\n\nDM: Um, and then there's a, a waterf- an waterfall of acid that separates this room from another room.\n\nUnknown: Hmm.\n\nUnknown: Uh, Dimension Door?\n\nWellby: Is there anything magic in this room?\n\nDM: There's nothing magic in this room."
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Magic-treasure room beyond the acid waterfall",
+      "evidence": [
+        {
+          "startUid": "u14327",
+          "endUid": "u14331",
+          "quote": "Um, and then there's a, a waterf- an waterfall of acid that separates this room from another room.\n\nUnknown: Hmm.\n\nUnknown: Uh, Dimension Door?\n\nWellby: Is there anything magic in this room?\n\nDM: There's nothing magic in this room."
+        },
+        {
+          "startUid": "u14368",
+          "endUid": "u14374",
+          "quote": "All right, I cast Dispel Magic at fourth level.\n\nDM: Okay. Um, uh, I'll just say it. Make a, make... Well, no, that just dispels it. There's no point. Um...\n\nDM: Past the acid waterfall you see this looks like a, the like special room. Um, wait, where did I, where did I have this written down?"
+        }
+      ],
+      "kind": "treasure chamber",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u14368",
+              "endUid": "u14374",
+              "quote": "All right, I cast Dispel Magic at fourth level.\n\nDM: Okay. Um, uh, I'll just say it. Make a, make... Well, no, that just dispels it. There's no point. Um...\n\nDM: Past the acid waterfall you see this looks like a, the like special room. Um, wait, where did I, where did I have this written down?"
+            }
+          ]
+        },
+        {
+          "relation": "adjacent_to",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u14327",
+              "endUid": "u14331",
+              "quote": "Um, and then there's a, a waterf- an waterfall of acid that separates this room from another room.\n\nUnknown: Hmm.\n\nUnknown: Uh, Dimension Door?\n\nWellby: Is there anything magic in this room?\n\nDM: There's nothing magic in this room."
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Assembly outside the lair",
+      "evidence": [
+        {
+          "startUid": "u14606",
+          "endUid": "u14623",
+          "quote": "No. Everybody except Ghesh and... I keep forgetting her name.\n\nDM: Megren.\n\nDelwath: Megren. Ghesh and Megren get to come-\n\nDM: Inside.\n\nDelwath: ... get a tour, right? We're gonna go find them. We're gonna thank them for their help.\n\nDM: I mean, you go out and there's like 200 dragonets.\n\nUnknown: Yeah.\n\nUnknown: Okay. Hold on. Hold on. Hold on.\n\nDM: Dimitaur's like, \"Okay. One at a time.\"\n\nKenzo: Wait, hold on. Hold on. Hold on. [laughs] Dimitaur's gonna give a-\n\nDM: They just said it was safe.\n\nKenzo: [laughs] Hold on. Di- Dimitaur, Dimitaur has to announce himself first.\n\nUnknown: Hold on.\n\nKenzo: I w- I wrote a whole thing for Dimitaur.\n\nDM: Okay."
+        }
+      ],
+      "kind": "lair entrance",
+      "note": "Exact exterior position relative to the baths is not restated; no invented visit to the main villa is added."
+    },
+    "p19": {
+      "label": "Folding Boat",
+      "evidence": [
+        {
+          "startUid": "u15236",
+          "endUid": "u15247",
+          "quote": "So you sail back through the storm.\n\nUnknown: Hmm.\n\nDelwath: Why don't we just... I thought we were just gonna Rainbow Bridge.\n\nWellby: Sail the Rainbow Bridge?\n\nDelwath: Uh, I guess we should save it.\n\nDM: I mean, Milo and Tilly have to sail through the storm one way or the other.\n\nDelwath: That's true. Yeah, yeah, yeah.\n\nSeeker: So they can give us a ride in their boat.\n\nUnknown: Yeah. Yeah. You're right.\n\nDM: Um, the boat, now equipped with a magic elven, uh, mast, handles much better and you manage to make it through without too much damage and see Vindristjarna."
+        }
+      ],
+      "kind": "vessel",
+      "mobile": true,
+      "aliases": [
+        "boat equipped with the magic elven mast"
+      ]
+    },
+    "p20": {
+      "label": "Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u15245",
+          "endUid": "u15252",
+          "quote": "Um, the boat, now equipped with a magic elven, uh, mast, handles much better and you manage to make it through without too much damage and see Vindristjarna.\n\nSeeker: Ah. Finally.\n\nKenzo: Nice to be back.\n\nUnknown: So good to be home.\n\nDM: Return to (I think, I need to check with Kate) Riswynn and the oppressive eye of Apollyon watching your every move."
+        }
+      ],
+      "kind": "vessel",
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p21": {
+      "label": "High mountain pass in the jade dream",
+      "evidence": [
+        {
+          "startUid": "u8520",
+          "endUid": "u8525",
+          "quote": "Okay, so as you drift off to sleep, um, you all find yourself in a shared dream. Um, you are, uh... The first thing you see is something you've seen before. It's the, um, standing on top of a high mountain pass, this massive shadow dragon above you, and then Rai, like, everybody fighting."
+        }
+      ],
+      "kind": "mountain pass"
+    },
+    "p22": {
+      "label": "Apollyon’s tomb in Drankor",
+      "evidence": [
+        {
+          "startUid": "u8529",
+          "endUid": "u8541",
+          "quote": "Okay. You know, Beryl's fighting with a quarterstaff. I, I think Aerin had, like, some weird shadow dagger. Something like that. Um...\n\nDM: And then the moment when Cha'mutte dies and there's this, like, silent flash that goes across the world, and then suddenly you're yanked as Rai teleports to Drankor.\n\nDM: And you see what you haven't seen before, which is that, um, standing right outside this, there's this elaborate tomb, a structure, um, in which you gather Apollyon is buried, and there's a dagger flying towards the door. And Rai grabs it in his hand moments before it strikes the door and stands there."
+        }
+      ],
+      "kind": "tomb",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/Apollyon's Temple.md"
+    },
+    "p23": {
+      "label": "Temple of the Eight Divines in Drankor",
+      "evidence": [
+        {
+          "startUid": "u8576",
+          "endUid": "u8590",
+          "quote": "He teleports to a-- an-- the one area in Drankor that seems not cursed by sh- by the pla- by the echoes of the plague and the, uh, dark energy of Apollyon and all of the many, many, many people who died here.\n\nDM: It's the grand—it's a grand, huge domed building, a temple to the Eight Divines. Eight sort of alcoves stretching out, um, to create these separate spaces for eight, uh, eight gods to be worshiped around this giant central dome.\n\nSeeker: It's the same as the pantheon on this side.\n\nUnknown: It's the same as the eight gods.\n\nDM: Uh, it's the same eight gods. Yeah, yeah, yeah. The, the architecture is a little different, and you actually recognize this as where you saw— Kenzo had a dream where the, um, the awakened soul monks found Rai, and this is the building. And Dimitaur is there as well."
+        }
+      ],
+      "kind": "temple",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/Temple of the Eight Divines.md"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0512",
+        "endUid": "u0514"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Opening planning places the party in the center of the Circular Island.",
+      "evidence": [
+        {
+          "startUid": "u0512",
+          "endUid": "u0514",
+          "quote": "Okay. I mean, there may be portals. Like, we're right in the middle of the island right now. It feels a pretty magical place."
+        }
+      ],
+      "place": "p01",
+      "note": "Session 109 closes with a return to Dimitaur to sleep; this source does not independently name the opening room."
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u1704",
+        "endUid": "u1768"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Kenzo and the three animal-shaped companions fly to Ghesh and arrive at his upgraded tower.",
+      "evidence": [
+        {
+          "startUid": "u1704",
+          "endUid": "u1768",
+          "quote": "So you change into animals now. And in fact, you should come with me as the animals so that Ghesh even know, you know.\n\nDelwath: Ah.\n\nUnknown: You know what I mean?\n\nDelwath: That's a great idea.\n\nKenzo: So then it's just, like, it's even more of a thing.\n\nDelwath: Yeah.\n\nUnknown: Right? Sorry.\n\nDM: So you probably all want to be fast flying birds-\n\nDelwath: We'll be fast flying birds.\n\nDM: ... to get in the tower and then shift-\n\nUnknown: Yeah.\n\nSeeker: ... when you're close. Oh, we can always just change back.\n\nUnknown: And Ghesh also knows-\n\nDelwath: You turn into great snipes, which are the... I looked this up.\n\nUnknown: The fastest.\n\nDelwath: The fast- the fastest birds. They can go, like, 30 miles an hour.\n\nUnknown: Okay.\n\nKenzo: And Ghesh also knows I can fly, 'cause we also raced each other before.\n\nDelwath: Yeah. Yeah, yeah.\n\nUnknown: Perfect. All right.\n\nKenzo: That's true.\n\nKenzo: So I'll fly over to Ghesh with my, with my, uh, uh, my bird friends.\n\nUnknown: Um,\n\nKenzo: you know, say hello, give him some shit.\n\nDM: Yeah. He's... So he's actually, he's, um... Uh, so this is morning.\n\nKenzo: Oh, 'cause has he, has he already gone?\n\nUnknown: Has he-\n\nDM: He's just, he's j- So by the time you get there, it's actually probably, what, like 11:00 or something.\n\nUnknown: Sure.\n\nDM: 'Cause you spend some time, breakfast-\n\nUnknown: Yeah ... so everybody inspiration and— Oh, yeah. Mm.\n\nDM: Um, and, you know, flying even as a fast flying bird still is gonna take an, you know, an hour to say an hour, but still you're...\n\nDelwath: So it's, like, 11:00. I mean, we just spent an hour plotting too. Yeah, yeah.\n\nUnknown: Yeah. Right. Right.\n\nDM: So it's, like, 11:00 when you get to, to Ghesh, and he's actually, he's super happy.\n\nUnknown: How are you, my friend?\n\nDM: He's just returned.\n\nUnknown: Ah.\n\nDM: 9:00 AM this morning he was summoned. He w- or, like, at dawn this morning he was summoned to the lair.\n\nUnknown: Uh-huh.\n\nDM: He returns just an hour ago, and he's wearing ano- one of these little amulets-\n\nUnknown: Uh-huh. Uh-huh.\n\nDM: ... um, that Megr- Megren was wearing.\n\nDelwath: So like- Looking-\n\nDM: ... \"This is mine now.\"\n\nDelwath: \"All mine.\"\n\nKenzo: Which place?\n\nDM: Same place he was before.\n\nUnknown: Uh-huh.\n\nDM: But now he doesn't have to worry about anybody bossing him around to, like-\n\nUnknown: Right.\n\nDelwath: ... drive him out.\n\nDM: Um, \"I w- I was just, I just came back from, from talking to, um, Megren. We're gonna... Uh, she's got some ideas for how to improve this place.\""
+        }
+      ],
+      "from": "p01",
+      "to": "p02",
+      "mode": "fly",
+      "completion": "arrived"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u1928",
+        "endUid": "u2227"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Kenzo runs with the dragonet escort while the other three remain in animal forms; all arrive in the center of the thermal bath complex.",
+      "evidence": [
+        {
+          "startUid": "u1928",
+          "endUid": "u1937",
+          "quote": "Okay. So around one, um, three dragonets show up to escort you to the lair.\n\nUnknown: Okay.\n\nDM: Like, three of the true believers.\n\nUnknown: Okay.\n\nDelwath: So at this point-\n\nKenzo: And I, and I've, and I have... Uh, I'm assuming I've explained to you just so that they're not alarmed, you know, like I went-\n\nDelwath: Yeah.\n\nKenzo: ... with some of my scouting animal friends.\n\nDelwath: Right.\n\nUnknown: You know?"
+        },
+        {
+          "startUid": "u1993",
+          "endUid": "u2001",
+          "quote": "That's fine. All right. So I'm, I'm running.\n\nDM: Yeah.\n\nKenzo: ... jogging, and then they're flying alongside.\n\nDM: Yeah.\n\nDelwath: I guess if we, if you're running, I mean, a, a, a lynx can run as fast as Kenzo.\n\nUnknown: Yeah.\n\nDM: So you can be a lynx.\n\nUnknown: A lynx.\n\nDM: But, but it's gonna take you an hour to get there."
+        },
+        {
+          "startUid": "u2216",
+          "endUid": "u2227",
+          "quote": "... the only light, the only thing that's not pitch black, um, is her eyes, um, which glow green when she opens them to look at you. Um, but she seems to be, um, as- so she's, so you're appro- you like, Kenzo's approaching with these, um, with the three animals around him. She's sort of waiting for you to walk. The dragonets lead you into the, like the center of this thermal pool complex, and you can see there's the one big pool, which is what's been described as what leads to her lair. And then there's like, two smaller pools. It's probably like there was like the hot pool and then the cool pool, right, and warm pool, stuff like that.\n\nDM: And you can see there once used to be extensive, um, buildings to the, to the north away, where there was probably additional sort of, you know, chambers for, for changing or for relaxation or exercise or something like that, but these have all been ruined. And she's sort of perched above."
+        }
+      ],
+      "from": "p02",
+      "to": "p04",
+      "mode": "run and animal-form travel",
+      "completion": "arrived",
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "corrected estimate followed by established arrival"
+      }
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u3118",
+        "endUid": "u3137"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After the audience the party walks back toward the villa, remaining on the road to scout.",
+      "evidence": [
+        {
+          "startUid": "u3118",
+          "endUid": "u3137",
+          "quote": "Yeah, if you can both do it, yeah. So you would walk within 1,000 feet if you just follow the road back to that place.\n\nWellby: All right. Like, if, if everything's-\n\nUnknown: Send the mouse in.\n\nWellby: Uh, yeah, sure.\n\nDM: Send what?\n\nUnknown: Send the mouse in.\n\nDM: Send the mouse. So you like start walking back so you get closer.\n\nDelwath: I mean, before we go in, I think we need to... It would be useful to, to... I think we might want... Well, I can... I don't know.\n\nWellby: We can also just, like, use Animal Shape to ants and go, like-\n\nDelwath: No, I think Dimension Door is better.\n\nUnknown: All right. So-\n\nDelwath: No, I can-\n\nKenzo: No, but isn't being ants better so that, that we...\n\nUnknown: Yeah, in goes the bat.\n\nDM: I mean, the, the dragonets are watching you, right? These four dragonets you left behind are obviously watching you."
+        }
+      ],
+      "from": "p04",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u3160",
+        "endUid": "u3255"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby sees the ruined villa and crypt approach through a rat’s senses; the rat triggers a fire trap and dies.",
+      "evidence": [
+        {
+          "startUid": "u3160",
+          "endUid": "u3255",
+          "quote": "Um, okay. So where is this? Uh, you send a, a rat. Scrambles up-\n\nSeeker: Climb and drop it in place.\n\nDM: ...scrambles up into the, into the, um, th- these sort of ruins, right?\n\nDM: Um, and you can see it's, so like the interior, there's o- there's basically no standing walls in the interior. In fact, like, the, the... There's still a few, like, piles of rubble.\n\nUnknown: Yep.\n\nDM: But there's nothing that's standing more than about four feet high.\n\nUnknown: Okay.\n\nDM: Um, and you sort of explore around a little bit. Um...\n\nDM: Uh, it's basically entirely cleared out except, um, there is a, uh, uh, stairs down into a cellar. And in front of the stairs down into the cellar, um, you see two, um, like floating... It's hard to describe them. They're sort of, like, floating pools of acid that seem to be just kind of floating, keeping guard over the stairs down.\n\nUnknown: Floating pools?\n\nDM: Floating, like, columns of sort of blobby columns of acid that are floating in the air.\n\nDelwath: And the stairs go down into something?\n\nDM: Into something.\n\nDelwath: And can we, can the bat see, like, the bottom step?\n\nDM: The rat.\n\nDelwath: The rat. Like, it can see somewhere.\n\nDM: Yeah.\n\nUnknown: Yeah.\n\nWellby: Can it, uh, can we try stealthing its way?\n\nDM: Um, yeah, make a stealth check. I mean, it's a rat. There's, there's other little small mammals in here. [die rolling]\n\nWellby: That's an 18 on the die.\n\nDM: Okay. Yeah, that's it. The, the, the two floating pools of acid, acid don't seem to have been told to burn rats. Heads down into the cellar. Uh, down in the cellar, um, th- the rat does not have darkvision, right?\n\nUnknown: Uh.\n\nDM: Just checking.\n\nWellby: I don't know.\n\nUnknown: Uh...\n\nUnknown: Let me check.\n\nDM: Well, in any case, the, the, the first place it comes to, it doesn't matter because it's lit. The, the, um, the- the rat goes down the staircase and you see down through the rat down below a, um, a large room, maybe, uh, one-\n\nWellby: Rat does have 30 foot darkvision.\n\nDM: Okay. Maybe 25 by 25 foot square. Um, there are, um...\n\nDM: So, in the center of the room, um, there is a large, like a, like a, what do you call them? Like the, the, like the st- like a tomb sort of looking thing.\n\nUnknown: Sarcophagus kind of thing?\n\nDM: Yeah, but it's not, it's not a tomb. It's just like a marble table where you would, like, rest a coffin or something.\n\nUnknown: Mm-hmm.\n\nDM: If you were just, like, pre- for a funeral or something like that.\n\nDM: There's magical flames that burn seemingly using nothing, in two- in four ornate braziers that are stationed at, like, the four corners of the room. Wow.\n\nDM: Um, there's nine statues depicting a variety of men and women, usually in elegant clothes. The statue on the far western wall is larger and depicts an, like, an imposing man, probably a wizard seated, um, holding one hand with the palm up, an open book resting on the palm and a flame, um, coming up from the book.\n\nKenzo: It looks like Apollyon?\n\nDelwath: And does it look like the thing we saw on the door?\n\nDM: It looks like the thing we saw on the door.\n\nUnknown: Yeah.\n\nDM: Um, and the rat can't read and you can't read. Can you read Drankorian?\n\nUnknown: No.\n\nDM: There's an inscription in Drankorian. Um...\n\nDM: There are also, um, decorated- there's, like, um, painting. The walls are all painted in a mural that seems to be depicting, like, um, what it...\n\nDM: So, actually, Grog has been to the Land of the Dead. Um, like the, the first panels are sort of, are showing sort of like a, a, a group of mourners around a, a coffin, and then it shows like a, a soul sort of stepping out of the coffin. Then it depicts like six panels of like a journey through the Land of the Dead. And then the last panel, sort of going clockwise around the room, um, shows the eight Mos Numena gods depicted in sort of a circle, um, holding their arms out as if to, like, welcome the soul.\n\nDM: And then there are two exits on either side of the large statue on the western end.\n\nUnknown: Sure.\n\nWellby: What, what do they smell like?\n\nDM: What does what smell like? The statues?\n\nWellby: Rats have... No, the two exits.\n\nDM: Um, they, they're both right next to each other. They smell exactly the same.\n\nWellby: All right, I'll take the left door.\n\nDM: The rat disintegrates in a burst of flame."
+        }
+      ],
+      "place": "p05",
+      "observerPlace": "p06",
+      "mode": "remote",
+      "note": "The rat’s entry is not Wellby’s physical visit."
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u3503",
+        "endUid": "u3557"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker’s Clairvoyance sees the crypt crossroads, ash gardens and Cha’mutte’s eye on the wall.",
+      "evidence": [
+        {
+          "startUid": "u3503",
+          "endUid": "u3557",
+          "quote": "Okay. Cast the spell. Ooh, this is gonna be interesting.\n\nSeeker: I cast Clairvoyance.\n\nDM: Um.\n\nWellby: I'm gonna spin the top while he's doing that.\n\nUnknown: Yeah. [laughs]\n\nDM: It's not spinning.\n\nWellby: Oh. [paper rattling]\n\nDM: You see, um... So this, this is a, this is, like, a, a cross shaped design, right? Your, your, the eye is in the center of a crossroads, like, where there's a corridor that goes this way and there's a corridor that goes this way. The, the two that go this way, the... I'll call them the north and the south corridors, lead to, um...\n\nDM: They, they open up into small almost like meditative or contemplative spaces where there's like fine silvery ash that kind of forms like a, almost like a Zen sand garden in both sides. Um, there's, like, uh, a couple of sort of darkened pieces of stone that have been arranged, that seems to have been untouched for many, many years. And there's, there's like nooks in, in all of the walls in those two passageways where somebody could like sit in prayer or meditation.\n\nDM: In the direction going back, you just see this, this corridor, and you can see it looks like, it actually looks like a crypt. Like the walls are lined with hundreds of urns that probably hold the cremated remains of the whoever.\n\nDelwath: All the kings.\n\nDM: The kings.\n\nSeeker: And one tiny smoking pile of rat bones.\n\nDM: One tiny smoking pile of rats. It's clear that walking into the crypt triggered some sort of booby trap.\n\nDelwath: Yeah.\n\nDM: In the other direction, um, the wall ends in a dead end, and you see a flaming red eye surrounded by a ring of shadows painted on over, like, completely obliterating what used to be, um, that book symbol painted on the wall.\n\nDelwath: The Cha'mutte symbol?\n\nDM: Yes.\n\nSeeker: It's a red eye surrounded by a ring of shadows?\n\nDM: Yeah.\n\nDelwath: Loser.\n\nKenzo: Is that the symbol of Cha'mutte?\n\nDM: Yeah.\n\nSeeker: So wait, that was just a, the end of the corridor?\n\nDM: Yeah.\n\nDelwath: Wait.\n\nWellby: Was that always the end of the corridor?\n\nDM: Yeah.\n\nWellby: That it just ended in a blank wall with that?\n\nDM: Mm-hmm.\n\nWellby: Or was that like a constructed... Is there something behind that that you can see through?\n\nDM: Uh, I mean, go ahead, Seeker, and make a Perception check.\n\nSeeker: [dice rolling] 13.\n\nDM: As far as Seeker can tell, there's, it's just a wall.\n\nDelwath: Just a wall.\n\nSeeker: I listen for a minute.\n\nDM: Dead silence."
+        }
+      ],
+      "place": "p07",
+      "observerPlace": "p06",
+      "mode": "remote"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u3844",
+        "endUid": "u3882"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party returns as four elephants carrying the throne and completes the exchange at the baths.",
+      "evidence": [
+        {
+          "startUid": "u3844",
+          "endUid": "u3882",
+          "quote": "Yeah. Okay, so the four elephants come parading, dragging the throne down to the... You know, one dragonet sees you coming and flies down and, and alerts her, and you see her fly up, and her wings, her wingspan is, like, 50 feet, something like that. And she's, you know, she's clearly extremely happy. She's holding this like tiny little jade in her hand, and she flies down. Um, for once, she's actually not paying attention to the villa. She's just looking at the throne and watching-\n\nUnknown: Kenzo.\n\nDM: ... these like four elephants like-\n\nDelwath: Yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah.\n\nDM: ... dragging it in sort of, you know...\n\nKenzo: Yeah. As, as Ken- as, as we're, as we're dragging it and pulling it up, Kenzo, I'm gonna use a little cantrip just to, like, g- like, get extra boom boost.\n\nWellby: Yeah.\n\nKenzo: Uh, I was gonna say. Uh...\n\nKenzo: \"Ra'ghemdros, Light Stealer, Final Shadow [laughs], Devourer of Drankor, the Last Empress of Hkar, and the Eternal Night and the Enslaver of the Secret Sunset, we bring to you your new throne.\"\n\nDM: [laughs]\n\nWellby: [laughs]\n\nDM: She cackles. She like flies down, and she drops the jade. And she just, like, without too much trouble, she grasps it with two of her claws. She strains a little bit to like lift it up into the air, like, flies off.\n\nKenzo: Kenzo grasps the jade super fucking fast, like-\n\nDM: Yeah.\n\nKenzo: ... ultra fast.\n\nDM: The... You'll get the jade vision when you next long rest.\n\nUnknown: Yeah, that's fine.\n\nDM: Um, what?\n\nUnknown: No.\n\nWellby: Yes.\n\nUnknown: We got the jade. We got the fucking jade.\n\nUnknown: Look.\n\nDM: She flies. She's like-\n\nSeeker: Big moment. Yeah.\n\nDM: ...sh- and she's holding it now, and she's flying around, like, showing it to the, um, uh, showing it to the dragonets and she says in a, in this like booming voice, \"My servants, go forth and let it be known your empress has a new throne.\"\n\nWellby: [laughs]\n\nDM: And she dives into her lair."
+        }
+      ],
+      "from": "p06",
+      "to": "p04",
+      "mode": "elephant forms",
+      "completion": "arrived"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u3973",
+        "endUid": "u3978"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party returns to the road staging point after Ra’ghemdros leaves with the throne.",
+      "evidence": [
+        {
+          "startUid": "u3973",
+          "endUid": "u3978",
+          "quote": "Right now you're 1,000 feet away.\n\nDelwath: I know.\n\nWellby: So which room are we going into when we go?\n\nDelwath: I think we should go into the room with the glowing eye.\n\nUnknown: I like that.\n\nDelwath: 'Cause we know there's two traps we're bypassing."
+        }
+      ],
+      "from": "p04",
+      "to": "p06",
+      "mode": "walk",
+      "completion": "arrived"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u4058",
+        "endUid": "u4070"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Dimension Door takes the four PCs into the crypt crossroads beneath the villa.",
+      "evidence": [
+        {
+          "startUid": "u4058",
+          "endUid": "u4070",
+          "quote": "Okay, so you teleport into the room.\n\nDelwath: Dimension Door?\n\nUnknown: Dimension Door.\n\nDM: Dimension Door. Both of you cast a spell. You appear-\n\nSeeker: Oh, I have to knock that one off.\n\nDM: ...um, in the-\n\nDelwath: Yeah, me too.\n\nKenzo: And we can still teleport from here back to wherever the fuck we want.\n\nDelwath: Correct.\n\nUnknown: Yep.\n\nDelwath: Yeah.\n\nDM: So you appear in, in the center of this, of this four-way intersection, right?"
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "mode": "Dimension Door",
+      "completion": "arrived"
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u4205",
+        "endUid": "u4261"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath uses Ghostly Gaze through the wall to see the fiend guarding the lava chamber.",
+      "evidence": [
+        {
+          "startUid": "u4205",
+          "endUid": "u4261",
+          "quote": "Yep. Delwath is looking into a large room-\n\nWellby: Can you draw it?\n\nDM: ... immediately to his right. [sniffs] Um-\n\nWellby: Oh, boy.\n\nDM: ... yep. One, two, three, four, five, six, seven... One, two, three, four, five, six, seven. Okay. Uh, it might not quite fit. Oh, it just fits.\n\nDM: Okay. Delwath is looking into a large room. Um, I need to look at my notes for exactly what you see, so- but you can, you can draw these as I add them. So you can probably see into the whole room-\n\nUnknown: Yeah.\n\nDM: ... because it's within your 90 feet of darkvision.\n\nUnknown: Yeah.\n\nDM: Um...\n\nDM: At the far wall, directly across from the Eye of Cha'mutte, there's about a, a, like, a semicircular, like, fountain that extends out about 10 feet from the wa- from the wall and then goes in a s- well, I can just draw it.\n\nDelwath: So like that?\n\nDM: Yeah, like that. Um, from which you can see, like, waves of heat, like, shimmer. It's, like, lava in that fountain.\n\nWellby: The floor is lava.\n\nDM: In the middle of the room, uh, sort of, like, right up against- right there, yeah- there's, like, a, a, a round stone table that's hollow in the middle, and there's, um... So it's, like, a, it's, like, a donut shaped table.\n\nUnknown: Ah, okay.\n\nDM: Um-\n\nWellby: Reception.\n\nDM: What?\n\nWellby: Like a reception desk.\n\nUnknown: [laughs]\n\nDM: It's, it's bigger than that. It's more like a meeting table.\n\nDelwath: But is it big as-\n\nDM: It's like, it's like an oval shaped meeting table.\n\nDelwath: Oh, so it's like-\n\nWellby: How big is it across?\n\nDelwath: It's more like that?\n\nDM: Like that. Yeah, it's like that.\n\nUnknown: Cool.\n\nDM: Um, on the north wall, so up, there's a whole bunch of stone shelving, um, with about 10 books on it. On the south wall, there's a large mirror.\n\nWellby: Oh. Oh, perfect.\n\nDM: And, um-\n\nUnknown: [laughs]\n\nDM: Standing in between the, um, the stone table and the lava is a large fiend."
+        }
+      ],
+      "place": "p08",
+      "observerPlace": "p07",
+      "mode": "remote"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u4368",
+        "endUid": "u4412"
+      },
+      "actors": [
+        "party",
+        "Ladder"
+      ],
+      "reading": "Scatter brings the four PCs and awakened ladder into the guarded lava chamber.",
+      "evidence": [
+        {
+          "startUid": "u4368",
+          "endUid": "u4412",
+          "quote": "... I could bonus action scatter, but how does this work with initiative?\n\nSeeker: That's a good question.\n\nWellby: It's... There's not a surprise round anymore?\n\nDM: Um, so I would say I think scatter happens before initiative.\n\nUnknown: Okay.\n\nDM: It's standing guard.\n\nKenzo: So we still have to roll initiative, but you-\n\nUnknown: But you still roll initiative.\n\nKenzo: ... but we just get to be where we are.\n\nDelwath: Turn, turn negative one would be s- turn zero would be Scatter.\n\nDM: Scatter happens before initiative.\n\nDelwath: And then we roll initiative when we appear.\n\nDM: Yes.\n\nDelwath: Potentially he has disadvantage, but maybe not.\n\nDM: Right.\n\nUnknown: Yeah.\n\nDM: Right.\n\nUnknown: And-\n\nDelwath: Let's fucking do that... But that means I do-\n\nDM: You do get advantage. It might get disadvantage depending on how prepared it is.\n\nUnknown: Right.\n\nDM: You would be straight plus.\n\nDelwath: But I, I would just... The spell is before combat.\n\nDM: Is before combat, yeah.\n\nUnknown: Yeah.\n\nUnknown: Great.\n\nDelwath: So there's no reason to, like, bonus action it or anything like that.\n\nSeeker: Let's write down another...\n\nDM: Yeah, you want to summon anything before you go?\n\nDelwath: I can-\n\nUnknown: Oh.\n\nDelwath: ...target only five creatures with Scatter?\n\nDM: Oh, so that's the five of you.\n\nKenzo: Wait, no, target five creatures. You're targeting four of us. You're yourself.\n\nDM: Plus the la- plus the ladder.\n\nUnknown: Well, um, oh, oh, you have, you have to scatter yourself.\n\nUnknown: He is one of the targets.\n\nDM: Yeah, yeah. He has to scatter himself."
+        },
+        {
+          "startUid": "u4526",
+          "endUid": "u4569",
+          "quote": "So everybody, our positioning is gonna be Kenzo-\n\nKenzo: In melee.\n\nDelwath: ... and Seeker and the ladder in melee.\n\nUnknown: I mean-\n\nDM: Not Seeker.\n\nDelwath: ... Kenzo, Delwath, and the ladder in melee. Wellby in the corner somewhere. Seeker next to the... Yeah.\n\nDM: Just put, position you where you are.\n\nUnknown: To the ladder.\n\nDelwath: Um, I want to be away. I think we should be far away from the hot burning water.\n\nWellby: Do you want to put-\n\nDelwath: You should stand on the table.\n\nUnknown: ... Kenzo-\n\nKenzo: Oh, I have 15 feet of punch.\n\nDM: Oh, yeah.\n\nUnknown: Yeah.\n\nKenzo: I'm gonna get over here.\n\nDM: Fine.\n\nWellby: Do we want more between Seeker and the fiend?\n\nUnknown: Yeah, the ladder-\n\nUnknown: Is that enough?\n\nDelwath: The ladder's large, right?\n\nSeeker: Is the ladder large size or-\n\nDM: Um.\n\nKenzo: No. We've never said the ladder is bigger than five feet.\n\nDM: We've usually... No, we sort of alternate. You can choose when you summon it whether it's medium or large. It's usually large.\n\nUnknown: I think you want it big. You want it to take up space.\n\nDM: So take one of those large...\n\nWellby: Here's a large ladder.\n\nDM: Here. Just use the...\n\nDelwath: Here. Just put it on there so we can slide it.\n\nDM: Yeah.\n\nSeeker: Amazing.\n\nDelwath: So the ladder's there. Delwath is here. That, like, blocks it. That cuts it from Seeker. You guys over here to pepper attacks.\n\nSeeker: This time, weirdly, the ladder is, like, dripping.\n\nUnknown: It's wet.\n\nDM: [laughs] Water is dripping off it."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "mode": "Scatter",
+      "completion": "arrived"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u7117",
+        "endUid": "u7152"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath enters the shadow prison through the portal under the displaced lava and sees Cloudspinner’s crystal.",
+      "evidence": [
+        {
+          "startUid": "u7117",
+          "endUid": "u7152",
+          "quote": "I might go through.\n\nDM: Um, you have, um, an immediate terrifying sense of being back in the shadow dimension you were trapped in.\n\nUnknown: Ooh.\n\nWellby: Uh, this is a Cha'mutte thing.\n\nUnknown: Uh, but—\n\nDM: You look around, and you can see it's a small room. Um, it's a room maybe—\n\nUnknown: Do you still have Telepathy?\n\nDM: ... 15 feet by 15 feet.\n\nWellby: No, it doesn't cross dimension.\n\nDM: Um, n—no, I think it... Does it?\n\nDelwath: I don't know. Does it?\n\nDM: Check the spell.\n\nWellby: Oh, uh, uh, I assume—\n\nDM: You don't cross dimensions.\n\nWellby: Yeah.\n\nDM: But the telepathic bond, I think, is anywhere. It doesn't say it doesn't cross planes.\n\nSeeker: Uh, it says it cannot cross planes.\n\nDM: Okay, so you can't telepath with Delwath. Um, it's a small room, maybe 20 feet by 20 feet square. The walls are made of shadow that are constantly shifting and like twisting and writhing. And there's four, like, ropes of shadow that hang from the corners, holding in the center of the chamber a pale gray smoky crystal.\n\nDM: Through it you can dimly see a naked woman, her long hair a brilliant tangle of reds and orange—(yeah, that's what I thought it was)—that can cr—contrasts with the almost silvery gray tint of her skin. She seems still, unmoving, as if she's in some kind of suspended state, but every now and then you can see her chest slowly rising and falling."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "mode": "portal",
+      "completion": "arrived"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u7183",
+        "endUid": "u7187"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo joins Delwath in the shadow prison.",
+      "evidence": [
+        {
+          "startUid": "u7183",
+          "endUid": "u7187",
+          "quote": "I'll go in. I'll go in. Yeah.\n\nKenzo: I, I gotta go in. What's going on here, Delwath? Hacking at things?"
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "mode": "portal",
+      "completion": "arrived"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u7359",
+        "endUid": "u7372"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo climbs back out to the lava chamber.",
+      "evidence": [
+        {
+          "startUid": "u7359",
+          "endUid": "u7372",
+          "quote": "Yeah, we get to see what's happening. Yeah, come, I, I come out. Come in. Help, help, help.\n\nDelwath: Okay. Okay.\n\nUnknown: Yeah.\n\nDelwath: 15, 20, 30.\n\nKenzo: I give the short sword to one of you guys. Take the short sword.\n\nDelwath: Uh, 19, 21. Um—\n\nUnknown: Okay.\n\nDelwath: ... we probably got 40 on this.\n\nDM: Are you both on the same one?\n\nDelwath: Yeah.\n\nKenzo: I just left."
+        }
+      ],
+      "from": "p09",
+      "to": "p08",
+      "mode": "portal",
+      "completion": "arrived"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u7374",
+        "endUid": "u7378"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby enters the shadow prison to work on the remaining bindings.",
+      "evidence": [
+        {
+          "startUid": "u7374",
+          "endUid": "u7378",
+          "quote": "[laughs] [laughs] But, but Wellby just showed up.\n\nDelwath: Quietly, yeah.\n\nWellby: But you want a hand with this magical shadow prison?"
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "mode": "portal",
+      "completion": "arrived"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u7421",
+        "endUid": "u7427"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker enters while Wellby exits; Delwath remains in the prison.",
+      "evidence": [
+        {
+          "startUid": "u7421",
+          "endUid": "u7427",
+          "quote": "I, I come in, yes.\n\nWellby: ... back out again with Kenzo.\n\nUnknown: ... I came in with Wellby.\n\nDM: Okay, so who's in right now?\n\nKenzo: Everybody except Kenzo. I'm outside.\n\nWellby: No, no, I'm coming back out again.\n\nSeeker: All right. Seeker and Delwath are in."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "mode": "portal",
+      "completion": "arrived"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u7426",
+        "endUid": "u7427"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby returns to the lava chamber.",
+      "evidence": [
+        {
+          "startUid": "u7426",
+          "endUid": "u7427",
+          "quote": "No, no, I'm coming back out again.\n\nSeeker: All right. Seeker and Delwath are in."
+        }
+      ],
+      "from": "p09",
+      "to": "p08",
+      "mode": "portal",
+      "completion": "arrived"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u7530",
+        "endUid": "u7554"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Ladder",
+        "Cloudspinner"
+      ],
+      "reading": "Seeker climbs out and commands the ladder through the portal; it drags Cloudspinner’s crystal into the lava chamber, where all can see it.",
+      "evidence": [
+        {
+          "startUid": "u7530",
+          "endUid": "u7554",
+          "quote": "... arm come out over the, over the edge, pull himself out. He beckons the ladder to dive through the portal. It wraps itself around the crystal and slowly begins to—\n\nUnknown: Drags it out ... drag it out.\n\nDM: Which is what I was gonna say for the ladder.\n\nSeeker: Oh, yeah. So the ladder's [laughs] gonna get exhausted too. So that's, uh, 16. Uh, it has plus zero wisdom.\n\nDM: The ladder manages—\n\nDelwath: It's immune to exhaustion.\n\nDM: Oh. Even better.\n\nUnknown: Oh.\n\nDM: So the ladder is unaffected.\n\nUnknown: Amazing. Um—I'm gonna be calling it...\n\nDM: The ladder manages to drag this crystal out and, like, collapse onto the—\n\nUnknown: Um,\n\nDM: ... onto the floor of the, of the chamber, and you can all now see this, like, grayish crystal with somebody trapped inside."
+        }
+      ],
+      "from": "p09",
+      "to": "p08",
+      "mode": "portal rescue",
+      "completion": "arrived",
+      "note": "Cloudspinner remains inside the intact crystal; this is escape from the shadow room, not release from the crystal."
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u7834",
+        "endUid": "u7859"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "With the crystal in the portable hole, the party teleports directly inside Dimitaur’s temple.",
+      "evidence": [
+        {
+          "startUid": "u7834",
+          "endUid": "u7840",
+          "quote": "And as you... So it's only been now, at this point, something like 15 minutes since, or maybe 20 minutes since you left the company of Ra'ghemdros, made your way through the Cloudspinner's prison, and managed to rescue her now, her now in your portable hole.\n\nSeeker: [clears throat] After defeating the fiend.\n\nDM: After defeating the fiend. So at this point, you know, things seem quiet on the island, although there must be some activity down in the..."
+        },
+        {
+          "startUid": "u7852",
+          "endUid": "u7859",
+          "quote": "We teleported.\n\nDM: ... or you teleported into the temple.\n\nSeeker: Directly inside the temple.\n\nDM: Okay. So you're in the temple. [clicks tongue] Um, Dimitaur, you hear the start of a, \"Who dares...\" \"Oh, wait.\" And he steps out from behind the statue. \"It's you.\" [clears throat]"
+        }
+      ],
+      "from": "p08",
+      "to": "p11",
+      "mode": "Teleport",
+      "completion": "arrived",
+      "note": "The explicit inside-temple correction supersedes the preceding outside-summit wording; no exterior arrival is inferred."
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u8030",
+        "endUid": "u8059"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party enters the narrow tunnels through the trapdoor behind the statue to hide and rest.",
+      "evidence": [
+        {
+          "startUid": "u8030",
+          "endUid": "u8037",
+          "quote": "This is the trap door behind the statue.\n\nUnknown: Okay.\n\nWellby: Should someone be keeping lookout?\n\nDelwath: I might wait out here. A, I don't actually need a long rest. And B, I only need four hours to get a long rest.\n\nUnknown: Awesome. Whatever you like.\n\nDM: It's up to you."
+        },
+        {
+          "startUid": "u8059",
+          "endUid": "u8063",
+          "quote": "Yeah, let's go in the tunnels.\n\nKenzo: I like it. Yeah. [clears throat] That feels like a great thing to do. Hey, you seem to say, seem to know something about the person, uh, trapped inside the, uh—\n\nDM: No, I don't, but it all clicked into place. I knew the story."
+        },
+        {
+          "startUid": "u8493",
+          "endUid": "u8500",
+          "quote": "Okay. You all go to sleep.\n\nWellby: Vision, jade hand.\n\nDM: Take... Yep. Take turns—\n\nUnknown: Yeah.\n\nDM: Take turns watching.\n\nUnknown: Yep.\n\nDelwath: I'm gonna set, um, my lynxes out too."
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "mode": "climb",
+      "completion": "arrived"
+    },
+    {
+      "id": "l21",
+      "type": "observation",
+      "source": {
+        "startUid": "u8520",
+        "endUid": "u8525"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The shared jade dream shows the Great War battle at a high mountain pass.",
+      "evidence": [
+        {
+          "startUid": "u8520",
+          "endUid": "u8525",
+          "quote": "Okay, so as you drift off to sleep, um, you all find yourself in a shared dream. Um, you are, uh... The first thing you see is something you've seen before. It's the, um, standing on top of a high mountain pass, this massive shadow dragon above you, and then Rai, like, everybody fighting."
+        }
+      ],
+      "place": "p21",
+      "observerPlace": "p12",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l22",
+      "type": "observation",
+      "source": {
+        "startUid": "u8529",
+        "endUid": "u8541"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The vision shifts to Rai outside Apollyon’s tomb in Drankor, catching the dagger.",
+      "evidence": [
+        {
+          "startUid": "u8529",
+          "endUid": "u8541",
+          "quote": "Okay. You know, Beryl's fighting with a quarterstaff. I, I think Aerin had, like, some weird shadow dagger. Something like that. Um...\n\nDM: And then the moment when Cha'mutte dies and there's this, like, silent flash that goes across the world, and then suddenly you're yanked as Rai teleports to Drankor.\n\nDM: And you see what you haven't seen before, which is that, um, standing right outside this, there's this elaborate tomb, a structure, um, in which you gather Apollyon is buried, and there's a dagger flying towards the door. And Rai grabs it in his hand moments before it strikes the door and stands there."
+        }
+      ],
+      "place": "p22",
+      "observerPlace": "p12",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l23",
+      "type": "observation",
+      "source": {
+        "startUid": "u8576",
+        "endUid": "u8590"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The dream follows Rai to the Temple of the Eight Divines in Drankor; the embodied party remains resting.",
+      "evidence": [
+        {
+          "startUid": "u8576",
+          "endUid": "u8590",
+          "quote": "He teleports to a-- an-- the one area in Drankor that seems not cursed by sh- by the pla- by the echoes of the plague and the, uh, dark energy of Apollyon and all of the many, many, many people who died here.\n\nDM: It's the grand—it's a grand, huge domed building, a temple to the Eight Divines. Eight sort of alcoves stretching out, um, to create these separate spaces for eight, uh, eight gods to be worshiped around this giant central dome.\n\nSeeker: It's the same as the pantheon on this side.\n\nUnknown: It's the same as the eight gods.\n\nDM: Uh, it's the same eight gods. Yeah, yeah, yeah. The, the architecture is a little different, and you actually recognize this as where you saw— Kenzo had a dream where the, um, the awakened soul monks found Rai, and this is the building. And Dimitaur is there as well."
+        }
+      ],
+      "place": "p23",
+      "observerPlace": "p12",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l24",
+      "type": "movement",
+      "source": {
+        "startUid": "u8779",
+        "endUid": "u8859"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Responding to the alarm, the party finds two dragonet scouts, puts them to sleep and brings them into the tunnels bound.",
+      "evidence": [
+        {
+          "startUid": "u8779",
+          "endUid": "u8859",
+          "quote": "... um, there is a pair of dragonets that are just kind of sitting in the temple, kind of curious about just keeping an eye.\n\nUnknown: Wait, Dimitaur-\n\nUnknown: It'd be really funny to use the god's voice.\n\nUnknown: Do you know them?\n\nDelwath: I... Does Dimitaur know these dragonets?\n\nDM: Nope.\n\nSeeker: Can we hear them if they talk?\n\nDM: Yeah.\n\nUnknown: Can you Soul Sight them?\n\nUnknown: Sure.\n\nUnknown: That's free, right?\n\nDM: Yeah. Um-\n\nSeeker: We're keeping very quiet.\n\nDM: ... they're, I mean, they're just, they're watchful.\n\nDM: They're sort of bored.\n\nUnknown: What's CR?\n\nDM: Two.\n\nWellby: Do we just sleep?\n\nSeeker: That's what I'd like to suggest.\n\nWellby: Yeah.\n\nUnknown: Going to sleep.\n\nDM: I think that's like a wisdom save.\n\nUnknown: No save.\n\nDM: No, the spell changed.\n\nDelwath: Oh, come on. The new s- the new sleep spell is the dumbest...\n\nWellby: What is it?\n\nDelwath: It's literally the worst spell in the world.\n\nDM: Oh, well. I would assume you'd use the existing sleep or whatever. I didn't read the new sleep spell.\n\nUnknown: The new sleep spell's stupid.\n\nDelwath: It's like literally an idiotic spell that you would never take.\n\nSeeker: Why does it work?\n\nDelwath: Well, the old sleep spell is super fun because it's all about hit points.\n\nWellby: Right.\n\nUnknown: It's like designed to knock down.\n\nDelwath: The new sleep spell is just a wisdom save or nothing happens to you.\n\nUnknown: It's-- And even if you make your wisdom save, you don't even fall asleep.\n\nWellby: Hmm.\n\nUnknown: It-\n\nDM: Well, I mean, it's the same. I mean, sleep, the sleep spell doesn't last, it doesn't make you fall asleep, but it still only lasts for a minute, the old sleep.\n\nUnknown: It does make you fall asleep.\n\nDM: But you wake up when the spell ends.\n\nDelwath: You wake up when the spell ends, yes.\n\nDM: So it's the sa- it's the same thing.\n\nDM: It's just two saves. It's useful in different contexts.\n\nDelwath: It's a double save. But so what I always liked about the sleep spell is that it, the whole point of the sleep spell is it doesn't require a save.\n\nDM: I, I don't really care which way or the other. No, I much rather keep the old sleep spell.\n\nDM: I mean, there's no way that a CR two creature is making two wisdom saves against a...\n\nUnknown: Yeah.\n\nDM: It has the roughly the same effect.\n\nDelwath: No, but it's much more useful. Like the situation I actually used sleep was to-\n\nDM: Is when you take down enemies right at the very end. Yeah, yeah.\n\nUnknown: It was taking on Kagdurs. It was taking on Kagdurs that-\n\nDM: That would be harder to do.\n\nDelwath: That's much harder to deal with.\n\nUnknown: I, I do not like the new sleep spell. I forgot about it.\n\nDM: Yeah, it's not even a... Oh, it's a sorcerer spell. Right.\n\nUnknown: Well, I have it for free from the Meswati, from the Meswati.\n\nDM: Yeah...\n\nDM: Yeah. Uh, they fall asleep for a minute. [thudding]\n\nDelwath: Well, I... Hold on. We need a plan before we cast sleep.\n\nWellby: Um, tie them up and release them at dawn to go report back. I think so. Right. So we can fight in the dark.\n\nDelwath: I think we drag them into the tunnels and tie them, yeah.\n\nDM: Okay.\n\nDM: You drag them in, you tie them up and drag them into the tunnels."
+        }
+      ],
+      "from": "p12",
+      "to": "p12",
+      "mode": "scouting excursion",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Climb out to investigate the alarm and return with the sleeping scouts."
+        }
+      ]
+    },
+    {
+      "id": "l25",
+      "type": "movement",
+      "source": {
+        "startUid": "u9049",
+        "endUid": "u9057"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party comes out of the tunnels again when Milo and Tilly arrive up the path.",
+      "evidence": [
+        {
+          "startUid": "u9049",
+          "endUid": "u9057",
+          "quote": "Um, about an hour later, 2:00 in the morning, um, you see Tilly and Milo walking up the path, like looking around for you. You're not... Are you hiding still in the tunnels?\n\nDelwath: Yeah, we're back in the tunnels, right?\n\nUnknown: Okay. Well, so the- Nobody knows. Watching out.\n\nDM: ... the lynxes, the lynxes triggers another alarm then.\n\nDelwath: So we'll walk out again."
+        }
+      ],
+      "from": "p12",
+      "to": "p11",
+      "mode": "walk",
+      "completion": "arrived"
+    },
+    {
+      "id": "l26",
+      "type": "movement",
+      "source": {
+        "startUid": "u9340",
+        "endUid": "u9345"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party climbs the central lighthouse and examines its cracked mechanism.",
+      "evidence": [
+        {
+          "startUid": "u8996",
+          "endUid": "u8998",
+          "quote": "So remind me of the setup at the top of the mountain. There's the eight temples around the central lighthouse.\n\nDM: There's the eight temples around a courtyard, and then there's this, the lighthouse in the middle that has a bell and then a cracked lighthouse mechanism on the top."
+        },
+        {
+          "startUid": "u9340",
+          "endUid": "u9345",
+          "quote": "Yeah. So you climb up.\n\nUnknown: Yeah. Mm-hmm.\n\nDM: And so it's, it's, it's eight faceted, and like Seeker is pretty good at this sort of stuff. You'd think the way it would've normally worked is like it could have shined along the paths of the pilgrim roads, and it would splinter the light so it would shine across the, all the pilgrim roads at night so that they would have-"
+        }
+      ],
+      "from": "p11",
+      "to": "p13",
+      "mode": "climb",
+      "completion": "arrived"
+    },
+    {
+      "id": "l27",
+      "type": "presence",
+      "source": {
+        "startUid": "u9837",
+        "endUid": "u9838"
+      },
+      "actors": [
+        "Dimitaur"
+      ],
+      "reading": "Dimitaur takes his position on the roof of the Sibyl’s temple.",
+      "evidence": [
+        {
+          "startUid": "u9837",
+          "endUid": "u9838",
+          "quote": "Dimitaur is gonna... Dimitaur is staying in his Temple of the Sibyl. Um, he's actually gonna be on the roof of the Temple of the Sibyl."
+        }
+      ],
+      "place": "p11"
+    },
+    {
+      "id": "l28",
+      "type": "presence",
+      "source": {
+        "startUid": "u9872",
+        "endUid": "u9881"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby takes the top of the lighthouse; Milo’s separate doorway is not securely identified.",
+      "evidence": [
+        {
+          "startUid": "u9872",
+          "endUid": "u9881",
+          "quote": "... nobody needs d4s, so I'll just use these d4s as Milo and Tilly. They're gonna be in... Milo's gonna be hiding. Where's, where's Wellby gonna be?\n\nWellby: Middle.\n\nDelwath: Like on the top of the thing?\n\nWellby: Yeah.\n\nDM: So Well- Milo's got the arrows now, so I think he's gonna just... I mean, he does... The more spread out everybody can be, the better off you are.\n\nWellby: Yeah.\n\nDM: So he's gonna hide in the doorway."
+        }
+      ],
+      "place": "p13",
+      "note": "They occupy separate elevations; the doorway’s exact building is not independently named."
+    },
+    {
+      "id": "l29",
+      "type": "presence",
+      "source": {
+        "startUid": "u10302",
+        "endUid": "u10306"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath"
+      ],
+      "reading": "Kenzo and Delwath defend in the air around the lighthouse, tracking together.",
+      "evidence": [
+        {
+          "startUid": "u10302",
+          "endUid": "u10306",
+          "quote": "I mean, we're all at the top of the tower right now, right, I assume?\n\nDM: Yeah.\n\nDelwath: Well, I didn't put Delwath on.\n\nDM: No, well, the fly team is, but-\n\nUnknown: Yeah, yeah, yeah."
+        }
+      ],
+      "place": "p13"
+    },
+    {
+      "id": "l30",
+      "type": "presence",
+      "source": {
+        "startUid": "u11293",
+        "endUid": "u11298"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker is in a doorway during the defense.",
+      "evidence": [
+        {
+          "startUid": "u11293",
+          "endUid": "u11298",
+          "quote": "What is... Is Seeker just... Seeker is hiding right now in... So, so Seeker's in the doorway?\n\nSeeker: Yeah. I'm gonna have to run up if I want to do that.\n\nDelwath: 'Cause my best is 120. So when they hit the edge..."
+        }
+      ],
+      "place": "p10",
+      "note": "The source does not securely identify this doorway with Milo’s doorway or a particular temple."
+    },
+    {
+      "id": "l31",
+      "type": "observation",
+      "source": {
+        "startUid": "u14088",
+        "endUid": "u14093"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party sees Ra’ghemdros fall into the Night Queen’s temple; no PC entry there is established.",
+      "evidence": [
+        {
+          "startUid": "u14088",
+          "endUid": "u14093",
+          "quote": "... cracks open and it's, like, begins to peel out and suddenly the sun rises and there's, like, an entire sunset in a 360 degree circle around you as the dragon falls, crashes through the roof of the tower, and lands in the middle of the temple of the Night Queen, dead."
+        }
+      ],
+      "place": "p14",
+      "observerPlace": "p13",
+      "mode": "local"
+    },
+    {
+      "id": "l32",
+      "type": "observation",
+      "source": {
+        "startUid": "u14112",
+        "endUid": "u14119"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo sees dragonet factions fighting about three miles away.",
+      "evidence": [
+        {
+          "startUid": "u14112",
+          "endUid": "u14119",
+          "quote": "Um, there are, um, you can see what looks like an ongoing battle about three miles away.\n\nUnknown: No way. Okay.\n\nDM: There's about 40 dragonets- that are, seem like they've, like, nearly won, um, about against a n- slightly smaller force, maybe 25 dragonets.\n\nDM: Um, and you can't recognize anybody from this distance.\n\nUnknown: Right.\n\nDM: You don't know who's won."
+        }
+      ],
+      "place": "p01",
+      "observerPlace": "p13",
+      "mode": "local",
+      "note": "Neither faction is identified by this distant view."
+    },
+    {
+      "id": "l33",
+      "type": "movement",
+      "source": {
+        "startUid": "u14167",
+        "endUid": "u14331"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party descends to Ra’ghemdros’s lair, passes the acid traps and flies over an acid lake to the main hoard.",
+      "evidence": [
+        {
+          "startUid": "u14167",
+          "endUid": "u14331",
+          "quote": "So you make your way over the course-\n\nUnknown: [laughs]\n\nDM: ... of the next couple of hours down to the lair.\n\nDM: You manage to deal with all the acid traps that-\n\nUnknown: Yeah, yeah.\n\nDM: ... it was pointless to point out 'cause it'd be anti-climactic.\n\nKenzo: Yeah. Thank you.\n\nDM: Um.\n\nSeeker: That, that was a big fight.\n\nUnknown: That was.\n\nKenzo: That was crazy. That was good. That was really fucking good. That was good.\n\nKenzo: Uh, hey guys, Kenzo did not take any damage that whole fight.\n\nUnknown: Seriously, [laughs] took zero damage that entire fight.\n\nUnknown: [laughs]\n\nUnknown: Wait, that's ridiculous.\n\nKenzo: Kenzo, Kenzo is like a fucking dragon, like, just like fucks up dragon-\n\nUnknown: Dragon slayer.\n\nKenzo: ... that, that, that is, that is the shit.\n\nSeeker: Wait, how did you... You were in the path of the breath weapon.\n\nKenzo: Yeah, I, I have Evasion.\n\nDM: He saves. He's on the save. He just-\n\nKenzo: My saves are fucking crazy. The, the bless was so awesome. Like, fucking extra D4 on every D20, that was massively helpful.\n\nUnknown: Yeah.\n\nDM: I mean, wide positioning really helps you a lot against a dragon-\n\nUnknown: Yeah.\n\nDM: ... because, like, it, it can only, it can't get everybody.\n\nUnknown: Right.\n\nUnknown: Mm-hmm.\n\nDM: Its best move was the surprise when it took out the servants.\n\nKenzo: Oh, that was very... Yeah, yeah. That's very good. That was it though, man.\n\nUnknown: That was well fought.\n\nUnknown: Yeah.\n\nKenzo: That was very calm.\n\nDM: So you-\n\nDelwath: How many... You took, like, 50?\n\nWellby: I... No, I'm 10 points below. I took 25 total.\n\nUnknown: Ah, man.\n\nWellby: And I have 15 extra hit points.\n\nSeeker: Well, I got the acid blob on me, which, um... Actually it's still there. [laughs] So it kind of hurts, so.\n\nDM: You could kind of clear it off.\n\nUnknown: [laughs]\n\nDelwath: But again, like, the zombies absorbed a ton of damage.\n\nUnknown: Well, Delwath also took 140 points of damage.\n\nDM: Delwath absorbed a lot of damage.\n\nUnknown: How much, how much hit points do you have?\n\nDelwath: Well, I got a heal. I got a 35 point-\n\nUnknown: Oh, yeah, yeah, yeah.\n\nDelwath: ... healing word boost.\n\nUnknown: Yeah, yeah.\n\nUnknown: Wow.\n\nDelwath: Well, now let's see. 30, yeah, like I have 30 hit points left and I got, I had 160... Yeah, I took 130 points of damage.\n\nSeeker: And the stone, initial stone construct got one shotted-\n\nUnknown: Yeah.\n\nSeeker: ... by the first breath weapon and the ladder went down.\n\nUnknown: Yeah.\n\nUnknown: But the-\n\nWellby: Oh, another ladder for the Hall of Records.\n\nDM: ... another ladder dies fighting a dragon.\n\nUnknown: It's tragic.\n\nUnknown: Wow. Wow.\n\nSeeker: That's right.\n\nDM: The ladders don't really-\n\nWellby: We'll have to recover the little ladder.\n\nUnknown: [laughs]\n\nUnknown: They don't really survive dragons.\n\nUnknown: The next time the ladder's gonna be like, \"No.\"\n\nUnknown: [laughs]\n\nKenzo: It'll refuse to stay up.\n\nUnknown: \"I didn't do that.\" [laughs]\n\nUnknown: Not a dragon. [laughs]\n\nDM: Anything else-\n\nUnknown: I heard about all these other ladders.\n\nDM: ... not a dragon.\n\nSeeker: But the second stone construct didn't get a scratch on it, so.\n\nDM: Well, positioning on the back of the dragon. I mean, that was probably the right move to begin with is to summon it on its back.\n\nUnknown: Yeah, yeah.\n\nKenzo: We forgot to use scatter. We never used scatter.\n\nUnknown: We didn't have to.\n\nUnknown: Well, we didn't have to.\n\nUnknown: Yeah.\n\nDelwath: We didn't have... I was, I thought about it on the turn that the dragon w- had resistance to all damage.\n\nDelwath: I was thinking I could scatter all of the-\n\nUnknown: k-\n\nKenzo: All the minions away.\n\nDelwath: ... minions away and I could try and scatter the dragon to move it away from the thing so it couldn't knock out the light.\n\nKenzo: Yeah, yeah, yeah.\n\nDelwath: But it didn't seem-\n\nUnknown: Yeah.\n\nKenzo: ... worth it.\n\nWellby: Repairing the lighthouse was instrumental.\n\nUnknown: Yeah.\n\nDM: Absolutely.\n\nKenzo: Like-\n\nUnknown: That was, that was massive.\n\nKenzo: ... it would've been a very different fight. That was massive.\n\nUnknown: Yeah.\n\nDM: Yeah, it would've been very difficult not- without the light.\n\nUnknown: Yeah.\n\nKenzo: It turns out this was the precise exact place to fight the dragon.\n\nUnknown: Yeah.\n\nKenzo: Like, the best spot on the entire fucking island to fight the dragon.\n\nSeeker: Yes. We had... And Dimitaur's fireball.\n\nDelwath: Dimitaur's fireball helped.\n\nUnknown: Mm-hmm.\n\nKenzo: Everybody played a role.\n\nUnknown: Yeah.\n\nUnknown: Yeah.\n\nDM: So you make your way through the lair.\n\nUnknown: Dragon treasure. I can't wait.\n\nDM: There's, like, a giant lake of acid.\n\nUnknown: Dragon treasure.\n\nWellby: We'll leave, we'll leave that.\n\nDM: That you just fly over.\n\nUnknown: Dragon treasure.\n\nDM: There's, like, shadowy tendrils and things.\n\nDM: You come to the lair itself with massive acid geysers which have stopped erupting.\n\nUnknown: Ah.\n\nDM: And from the lair you can see into the main, like, the room of the main hoard, and you have never seen anything like this before.\n\nDM: There must be well over a million coins here.\n\nDM: There's thousands upon thousands of, um, items of jewelry that are all... It's all laid out like a museum. It's like-\n\nUnknown: Wow.\n\nDM: ... there's, like, one wall that has, like, 400 earrings just hanging on the wall.\n\nDelwath: Holy shit.\n\nDM: There's a, um, there's, like, a, a rock that's been carved into, like, a wavy serpentine circle and there's about 200 rings just kind of laid out- S- like, c- by color, right? From like the fancy-\n\nSeeker: It's a very organized hoard.\n\nUnknown: Yeah.\n\nSeeker: It's not just a pile of stuff.\n\nDM: Oh, yeah. She spent like hours and hours every day.\n\nUnknown: She... Years and years.\n\nDM: Years-\n\nUnknown: Yeah.\n\nDM: ... just organizing the hoard. There's necklaces, there's brooches, there's, um, there's a whole wall of holy symbols. There's...\n\nUnknown: Rubies?\n\nDM: Um, well, you'll have to search around a little bit.\n\nUnknown: Mm-hmm.\n\nDM: Um, there's, uh, about 1,000 lockets of various kinds that are laid out like on the bottom panel of a wall.\n\nDM: Um, and then there's a, a waterf- an waterfall of acid that separates this room from another room.\n\nUnknown: Hmm.\n\nUnknown: Uh, Dimension Door?\n\nWellby: Is there anything magic in this room?\n\nDM: There's nothing magic in this room."
+        }
+      ],
+      "from": "p13",
+      "to": "p16",
+      "mode": "travel and flight",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Descend from the summit to the lair entrance.",
+          "place": "p15"
+        },
+        {
+          "reading": "Deal with traps and fly over the acid lake."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated next couple of hours"
+      }
+    },
+    {
+      "id": "l34",
+      "type": "movement",
+      "source": {
+        "startUid": "u14368",
+        "endUid": "u14374"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After dispelling the acid waterfall, the party reaches the separate magic-treasure chamber.",
+      "evidence": [
+        {
+          "startUid": "u14327",
+          "endUid": "u14331",
+          "quote": "Um, and then there's a, a waterf- an waterfall of acid that separates this room from another room.\n\nUnknown: Hmm.\n\nUnknown: Uh, Dimension Door?\n\nWellby: Is there anything magic in this room?\n\nDM: There's nothing magic in this room."
+        },
+        {
+          "startUid": "u14368",
+          "endUid": "u14374",
+          "quote": "All right, I cast Dispel Magic at fourth level.\n\nDM: Okay. Um, uh, I'll just say it. Make a, make... Well, no, that just dispels it. There's no point. Um...\n\nDM: Past the acid waterfall you see this looks like a, the like special room. Um, wait, where did I, where did I have this written down?"
+        },
+        {
+          "startUid": "u14494",
+          "endUid": "u14521",
+          "quote": "Yeah.\n\nDM: Um, there, uh, so there are two potions. Um, there is a...\n\nDM: Hold on. Sorry. [coughs] I need, I have 12 items. Um, there is a necklace-\n\nUnknown: Of fireballs.\n\nDM: ... um, with seven small rubies on it.\n\nDelwath: Of fireballs.\n\nUnknown: I like it. I like it.\n\nDelwath: We get to re- rectify our mistakes.\n\nDM: Um...\n\nDM: There is, um, there, there are, there's like a, a silk pouch that's been carefully opened, and inside the silk pouch there are five gems, each of which... Five like small, like small diamonds, each of which have been painted with an eye on it, like etched and engraved in the stone.\n\nDM: Um, there are, um, um, there is a great sword, um, with a etched design of mountains along the bottom.\n\nDM: [clears throat] There is a short bow. Um, it's made of, it's, it's made of wood, but it's quite a strange wood. It seems to almost be vibrating and humming with some inner energy. [clears throat] It does not have a bow string."
+        }
+      ],
+      "from": "p16",
+      "to": "p17",
+      "mode": "walk",
+      "completion": "arrived"
+    },
+    {
+      "id": "l35",
+      "type": "movement",
+      "source": {
+        "startUid": "u14606",
+        "endUid": "u14623"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party goes outside to the gathered dragonets and Dimitaur.",
+      "evidence": [
+        {
+          "startUid": "u14606",
+          "endUid": "u14623",
+          "quote": "No. Everybody except Ghesh and... I keep forgetting her name.\n\nDM: Megren.\n\nDelwath: Megren. Ghesh and Megren get to come-\n\nDM: Inside.\n\nDelwath: ... get a tour, right? We're gonna go find them. We're gonna thank them for their help.\n\nDM: I mean, you go out and there's like 200 dragonets.\n\nUnknown: Yeah.\n\nUnknown: Okay. Hold on. Hold on. Hold on.\n\nDM: Dimitaur's like, \"Okay. One at a time.\"\n\nKenzo: Wait, hold on. Hold on. Hold on. [laughs] Dimitaur's gonna give a-\n\nDM: They just said it was safe.\n\nKenzo: [laughs] Hold on. Di- Dimitaur, Dimitaur has to announce himself first.\n\nUnknown: Hold on.\n\nKenzo: I w- I wrote a whole thing for Dimitaur.\n\nDM: Okay."
+        }
+      ],
+      "from": "p17",
+      "to": "p18",
+      "mode": "walk",
+      "completion": "arrived"
+    },
+    {
+      "id": "l36",
+      "type": "movement",
+      "source": {
+        "startUid": "u14718",
+        "endUid": "u14724"
+      },
+      "actors": [
+        "party",
+        "Dimitaur",
+        "Ghesh",
+        "Megren"
+      ],
+      "reading": "The party brings Dimitaur, Ghesh and Megren into the treasure rooms for their rewards.",
+      "evidence": [
+        {
+          "startUid": "u14718",
+          "endUid": "u14724",
+          "quote": "Yeah, we, uh, we, we bring them into the room, and then, you know, what's, what's their, what's their reaction? What's Dimitaur into? [laughs]\n\nDM: Dimitaur's like-\n\nWellby: Money signs.\n\nDM: ... \"I'll take the throne.\"\n\nDM: And then he's like, \"I am the king. Wait, no, that's not right. Let's try.\""
+        }
+      ],
+      "from": "p18",
+      "to": "p16",
+      "mode": "walk",
+      "completion": "arrived",
+      "note": "The specific inner/main treasure-room boundary is not restated; the hoard setting is secure."
+    },
+    {
+      "id": "l37",
+      "type": "movement",
+      "source": {
+        "startUid": "u15236",
+        "endUid": "u15247"
+      },
+      "actors": [
+        "party",
+        "Milo",
+        "Tilly"
+      ],
+      "reading": "The party sails through the storm with Milo and Tilly aboard their newly granted boat, reaching sight of Vindristjarna.",
+      "evidence": [
+        {
+          "startUid": "u15236",
+          "endUid": "u15252",
+          "quote": "So you sail back through the storm.\n\nUnknown: Hmm.\n\nDelwath: Why don't we just... I thought we were just gonna Rainbow Bridge.\n\nWellby: Sail the Rainbow Bridge?\n\nDelwath: Uh, I guess we should save it.\n\nDM: I mean, Milo and Tilly have to sail through the storm one way or the other.\n\nDelwath: That's true. Yeah, yeah, yeah.\n\nSeeker: So they can give us a ride in their boat.\n\nUnknown: Yeah. Yeah. You're right.\n\nDM: Um, the boat, now equipped with a magic elven, uh, mast, handles much better and you manage to make it through without too much damage and see Vindristjarna.\n\nSeeker: Ah. Finally.\n\nKenzo: Nice to be back.\n\nUnknown: So good to be home.\n\nDM: Return to (I think, I need to check with Kate) Riswynn and the oppressive eye of Apollyon watching your every move."
+        }
+      ],
+      "from": "p01",
+      "to": "p20",
+      "mode": "sail",
+      "vehicle": "p19",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Sail through the encircling storm aboard the Folding Boat.",
+          "place": "p19"
+        }
+      ],
+      "note": "The final narration confirms return to Vindristjarna; it does not settle Riswynn’s presence or supply an arrival clock."
+    }
+  ]
+}
