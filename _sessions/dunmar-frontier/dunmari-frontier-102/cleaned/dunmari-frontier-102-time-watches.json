@@ -1,0 +1,93 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-time-markers.json",
+    "sha256": "cee7cc45c674544c0e21bf2240d61c04795faaabf8f6c21896e07a6bc21a9f23"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-transcript.md",
+    "sha256": "f3496b8ba3fd22650dc9ffbb406687e863718db265b05055d793eb958ed75424"
+  },
+  "dateAssessment": "Working civil dates are May 11–12, 1749 from the registered YAML and the dated Session 102 record: evening rescue and overnight travel, then the fortress and escape the following morning. These dates remain provisional: the continuous DF101 handoff contains an unresolved current-date exchange saying end of May and 1745 (u3955–u3972), rather than this calendar. DF101 u4062–u4074 and DF102 u0024–u0079 continue the same Ghostly Gaze inspection; no extra rest is inserted. DF103 u0003–u0051 resumes just past dawn above Uzgukhar with Buruli killed seconds ago, confirming the immediate closing handoff. DF107 is registered as narrative-only and supplies no assumed transcript adjacency here. The time extraction remains compatible rather than independently matched. The fortress’s early-morning social cycle is kept on a separate local clock. The final vision is experienced after the dawn aftermath; its sun and jungle heat establish no separate civil watch or elapsed duration. Milo’s old voyage and the boy’s report of soldiers earlier that day are not advances of the party’s session clock.",
+  "watches": [
+    {
+      "day": "May 11, 1749",
+      "startDate": "1749-05-11",
+      "endDate": "1749-05-11",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Work-night rescue waits half an hour; prison departure is about two hours after leaving the portal.",
+      "markers": [
+        "t01",
+        "t02"
+      ]
+    },
+    {
+      "day": "May 11–12, 1749",
+      "startDate": "1749-05-11",
+      "endDate": "1749-05-12",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Six-hour checkpoint, then roughly another hour of riding; later dawn arrival brackets scouting on this continuous journey.",
+      "markers": [
+        "t03",
+        "t04",
+        "t05",
+        "t06",
+        "t07",
+        "t08"
+      ]
+    },
+    {
+      "day": "Fortress local cycle, unsynchronized",
+      "clock": "local",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Inhabitants stirring suggest early morning; a few minutes prepare the decoy.",
+      "markers": [
+        "t09",
+        "t10"
+      ]
+    },
+    {
+      "day": "May 12, 1749",
+      "startDate": "1749-05-12",
+      "endDate": "1749-05-12",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Uzgukhar arrival is pre-dawn, sun barely up; shield removal takes minutes, followed by the jade vision.",
+      "markers": [
+        "t11",
+        "t12",
+        "t13"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated session 102 record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 102 (DuFr).md",
+      "sha256": "d107aa66b1354be3f0864875bd128cf6900b054196f8ecc9652ede55f67363fb"
+    },
+    {
+      "label": "DF101 continuous prison handoff and unresolved spoken date",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-101/cleaned/dunmari-frontier-101-transcript.md",
+      "sha256": "62a618600fee471e9248b20aecde870737c295149ca6331ff22a93e85c6c6ffe"
+    },
+    {
+      "label": "DF103 immediate dawn handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-transcript.md",
+      "sha256": "9e2d6660df0c2bc3a80e4c5694cc7e28f029639db7a14f11e4123dea3a808490"
+    },
+    {
+      "label": "DF107 narrative-only registration",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-107/cleaned/dunmari-frontier-107-session.yaml",
+      "sha256": "0d6fc292ea394e4413c26ad554657f9acfde23b512f71bd1bc09fae6215e74f1"
+    }
+  ]
+}

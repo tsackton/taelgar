@@ -1,0 +1,1338 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-102",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-session.yaml",
+    "sessionYamlSha256": "a94d0f95032bc06b69d06e62015132c5ec45c8458dcac36cce1781625e7222b5",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-transcript.md",
+    "transcriptSha256": "f3496b8ba3fd22650dc9ffbb406687e863718db265b05055d793eb958ed75424"
+  },
+  "places": {
+    "p01": {
+      "label": "Plane of Water",
+      "kind": "plane",
+      "evidence": [
+        {
+          "startUid": "u0292",
+          "endUid": "u0292",
+          "quote": "DM: Yes, you're in the plane of water right now."
+        }
+      ],
+      "vaultPath": "Cosmology/Energy Realms/Elemental Plane of Water.md"
+    },
+    "p02": {
+      "label": "Prison work complex",
+      "kind": "prison complex",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0011",
+          "quote": "DM: You made your way into this strange prison complex by dispelling the bubble that was field around that, snuck through the darkness and made telepathic contact with Wellby’s halfling telepathy with Milo. I'm totally blanking on his name now: Milo Thistlefoot, who had been captured. You have been tracking him."
+        },
+        {
+          "startUid": "u0012",
+          "endUid": "u0023",
+          "quote": "DM: And for kind of simplicity, and just to get things moving—and you had a short conversation with him. I'll use my intro to kind of tell his story, but it's close to the end of the shift, basically. And so he suggests to you that should you wish to, you know, free him and the other halflings, and and Tilly Brineheart, who's a spellcaster, the thing to do would be to swim up to the up to the, like, prison cells, once the—once the thing quiets in, like, half an hour, once it’s quieted down for the night, and there you would have a better chance to free them. So I think, unless anybody objects, we’d just assume you wait quietly for half an hour."
+        },
+        {
+          "startUid": "u0131",
+          "endUid": "u0137",
+          "quote": "DM: As he finishes telling the story, presumably you are now approaching the cells. You can see this—these structures hidden in this, in this complex area, small things, locked coral, spiky coral locks, each one holding 2 of these creatures. There's—of these transformed halflings. There seems to be about 13 crew, plus Milo and Tilly left."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0292",
+              "endUid": "u0292",
+              "quote": "DM: Yes, you're in the plane of water right now."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Scholar’s hut",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0024",
+          "endUid": "u0024",
+          "quote": "Delwath: The only thing I wanted to do is go read what's inside the hut."
+        },
+        {
+          "startUid": "u0025",
+          "endUid": "u0038",
+          "quote": "DM: Yes, right. So there are no—so you look through with Ghostly Gaze, right? Yeah. So you see, there's this, like, scholar merfolk woman and her 2 bound elementals you're trying to avoid, and they seem to be close, you know, roughly finishing up for the day and— and they— you know, there's the—the merfolk don’t have a written language. There's no—there's no paper anywhere. The ink doesn't really work underwater. What she seems to be sorting is a series of pictographs and mosaics. And so there's like a series of these piled up, piled all around the the room that she's working in that are like these depictions of whirlpools with like strange forms coming out of them. Different colored kind of glyphs that are not in a language, right? They're like symbols, right? They're like markers of some alien being or something like that. You, you, you—your Eyes of the Rune Keeper give you enough insight to, to realize that some of these are, are depicting names, strange names that you wouldn't know how to pronounce."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0011",
+              "quote": "DM: You made your way into this strange prison complex by dispelling the bubble that was field around that, snuck through the darkness and made telepathic contact with Wellby’s halfling telepathy with Milo. I'm totally blanking on his name now: Milo Thistlefoot, who had been captured. You have been tracking him."
+            },
+            {
+              "startUid": "u0025",
+              "endUid": "u0038",
+              "quote": "DM: Yes, right. So there are no—so you look through with Ghostly Gaze, right? Yeah. So you see, there's this, like, scholar merfolk woman and her 2 bound elementals you're trying to avoid, and they seem to be close, you know, roughly finishing up for the day and— and they— you know, there's the—the merfolk don’t have a written language. There's no—there's no paper anywhere. The ink doesn't really work underwater. What she seems to be sorting is a series of pictographs and mosaics. And so there's like a series of these piled up, piled all around the the room that she's working in that are like these depictions of whirlpools with like strange forms coming out of them. Different colored kind of glyphs that are not in a language, right? They're like symbols, right? They're like markers of some alien being or something like that. You, you, you—your Eyes of the Rune Keeper give you enough insight to, to realize that some of these are, are depicting names, strange names that you wouldn't know how to pronounce."
+            },
+            {
+              "startUid": "u0131",
+              "endUid": "u0137",
+              "quote": "DM: As he finishes telling the story, presumably you are now approaching the cells. You can see this—these structures hidden in this, in this complex area, small things, locked coral, spiky coral locks, each one holding 2 of these creatures. There's—of these transformed halflings. There seems to be about 13 crew, plus Milo and Tilly left."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Coral prison cells",
+      "kind": "cells",
+      "evidence": [
+        {
+          "startUid": "u0131",
+          "endUid": "u0137",
+          "quote": "DM: As he finishes telling the story, presumably you are now approaching the cells. You can see this—these structures hidden in this, in this complex area, small things, locked coral, spiky coral locks, each one holding 2 of these creatures. There's—of these transformed halflings. There seems to be about 13 crew, plus Milo and Tilly left."
+        },
+        {
+          "startUid": "u0474",
+          "endUid": "u0475",
+          "quote": "DM: There's like, like 8 little cells, each with like one or 2 people in them."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0131",
+              "endUid": "u0137",
+              "quote": "DM: As he finishes telling the story, presumably you are now approaching the cells. You can see this—these structures hidden in this, in this complex area, small things, locked coral, spiky coral locks, each one holding 2 of these creatures. There's—of these transformed halflings. There seems to be about 13 crew, plus Milo and Tilly left."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Open water along the jade route",
+      "kind": "travel area",
+      "evidence": [
+        {
+          "startUid": "u0882",
+          "endUid": "u0884",
+          "quote": "DM: Yeah. So so as you as you travel once you get some distance away, like maybe the 1st hour is is quite dark, and it feels it feels like you're swimming through this sort of oppressive area. But as you get further away from this, the portal and the work complex, now it feels like—so you’re, you’re traveling now through—"
+        },
+        {
+          "startUid": "u0885",
+          "endUid": "u0888",
+          "quote": "DM: So basically, the geometry of this area, as far as you know it, is the portal’s like the bottom of a triangle. The work complex is up from the portal to the south. The jade is up from the portal to the north, so you're now traveling like diagonally above the portal, like higher in the ocean kind of a little bit away up, away from like Buruli zone."
+        },
+        {
+          "startUid": "u0909",
+          "endUid": "u0914",
+          "quote": "DM: So you get from this commune as you—as Tilly, as you reach out, and you sort of stretch your senses to this water and connect with the ocean, you, you feel actually, yeah, you're sort of traveling here as you head up through— you've now been traveling maybe 2 or 3 h through the edge of Buruli’s terrain. You actually sort of feel like you're almost on the on the edge of—down below you, in the depths, there's—it feels dark and closed, and there's very little life around. Further up above you, you sense that there's elementals, that there's more of these schools of fish, that there's just kind of more life above you and ahead."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0292",
+              "endUid": "u0292",
+              "quote": "DM: Yes, you're in the plane of water right now."
+            },
+            {
+              "startUid": "u0882",
+              "endUid": "u0884",
+              "quote": "DM: Yeah. So so as you as you travel once you get some distance away, like maybe the 1st hour is is quite dark, and it feels it feels like you're swimming through this sort of oppressive area. But as you get further away from this, the portal and the work complex, now it feels like—so you’re, you’re traveling now through—"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Leviathan temple fortress",
+      "kind": "fortress",
+      "evidence": [
+        {
+          "startUid": "u1647",
+          "endUid": "u1654",
+          "quote": "DM: Until you see lit up in front of you, this white, stark bone structure of a giant, 300 foot long leviathan creature, dead, just floating in the ocean, its mouth gaping wide open. Clearly looking into this room that you saw, and probably many more beyond."
+        },
+        {
+          "startUid": "u1655",
+          "endUid": "u1666",
+          "quote": "DM: Floating around this creature are 4 or 5 like small sort of structures that seem to be just from the distance. Now you're still in the sort of edge of darkness looking into this lit area, so until you move, you're maybe 400 feet from the creature. Until you move closer you are— You're in the darkness. You would not be easy to see. There's—it's early. It seems like it's early, relatively early morning. There's some signs of activity, but nothing— there's clearly, like, people around, guards and things starting to stir, but not— this— the, the— temple fortress, whatever the structure is, does not seem to be on high alert."
+        },
+        {
+          "startUid": "u1712",
+          "endUid": "u1718",
+          "quote": "DM: There are open eye sockets in the top of the like in the roof of the mouth that you could approach from. There do not seem to be any other openings. It seems like it's been, like— the—but the rest beyond the mouth itself— the rest of the skeleton has been filled in with stone and coral and fragments of of bleached material to make a complete sealed interior with no obvious—well, at least from here that you can see—obvious other entrances or exits besides the mouth."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0292",
+              "endUid": "u0292",
+              "quote": "DM: Yes, you're in the plane of water right now."
+            },
+            {
+              "startUid": "u0885",
+              "endUid": "u0888",
+              "quote": "DM: So basically, the geometry of this area, as far as you know it, is the portal’s like the bottom of a triangle. The work complex is up from the portal to the south. The jade is up from the portal to the north, so you're now traveling like diagonally above the portal, like higher in the ocean kind of a little bit away up, away from like Buruli zone."
+            },
+            {
+              "startUid": "u1647",
+              "endUid": "u1654",
+              "quote": "DM: Until you see lit up in front of you, this white, stark bone structure of a giant, 300 foot long leviathan creature, dead, just floating in the ocean, its mouth gaping wide open. Clearly looking into this room that you saw, and probably many more beyond."
+            }
+          ]
+        }
+      ],
+      "note": "Identified as Buruli’s temple to Gazankoa in Session 102 (DuFr) and the shared Buruli reference note."
+    },
+    "p07": {
+      "label": "Dark approach outside the fortress",
+      "kind": "approach",
+      "evidence": [
+        {
+          "startUid": "u1655",
+          "endUid": "u1666",
+          "quote": "DM: Floating around this creature are 4 or 5 like small sort of structures that seem to be just from the distance. Now you're still in the sort of edge of darkness looking into this lit area, so until you move, you're maybe 400 feet from the creature. Until you move closer you are— You're in the darkness. You would not be easy to see. There's—it's early. It seems like it's early, relatively early morning. There's some signs of activity, but nothing— there's clearly, like, people around, guards and things starting to stir, but not— this— the, the— temple fortress, whatever the structure is, does not seem to be on high alert."
+        },
+        {
+          "startUid": "u1687",
+          "endUid": "u1688",
+          "quote": "DM: From—you're 400 feet away from the mouth. You're about 10 feet away. You're just like 10 or 15 feet."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1655",
+              "endUid": "u1666",
+              "quote": "DM: Floating around this creature are 4 or 5 like small sort of structures that seem to be just from the distance. Now you're still in the sort of edge of darkness looking into this lit area, so until you move, you're maybe 400 feet from the creature. Until you move closer you are— You're in the darkness. You would not be easy to see. There's—it's early. It seems like it's early, relatively early morning. There's some signs of activity, but nothing— there's clearly, like, people around, guards and things starting to stir, but not— this— the, the— temple fortress, whatever the structure is, does not seem to be on high alert."
+            },
+            {
+              "startUid": "u1687",
+              "endUid": "u1688",
+              "quote": "DM: From—you're 400 feet away from the mouth. You're about 10 feet away. You're just like 10 or 15 feet."
+            }
+          ]
+        }
+      ],
+      "note": "About 400 feet from the mouth, still just outside the lit area; this is not a visit inside the fortress."
+    },
+    "p08": {
+      "label": "Leviathan jaw entrance",
+      "kind": "entrance chamber",
+      "evidence": [
+        {
+          "startUid": "u2001",
+          "endUid": "u2014",
+          "quote": "DM: The guard in front of the mouth is asleep. You find yourself in the jaw of this massive leviathan skeleton, maybe 40 feet across, and stretching maybe 20 or 30 feet back. You can see like flicks of light shining through this like broken wall of spikes that separates the mouth from the hall where the clairvoyant eye was before, and there's 2 double doors made out of polished coral, one of which is standing open. And so you can see in from that. Well, it's cracked open. You'd have to like swim in position to look through. But there's nobody in this jaw as you take like a moment to kind of settle and get your bearings. As far as you are aware, you've not been noticed."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2001",
+              "endUid": "u2014",
+              "quote": "DM: The guard in front of the mouth is asleep. You find yourself in the jaw of this massive leviathan skeleton, maybe 40 feet across, and stretching maybe 20 or 30 feet back. You can see like flicks of light shining through this like broken wall of spikes that separates the mouth from the hall where the clairvoyant eye was before, and there's 2 double doors made out of polished coral, one of which is standing open. And so you can see in from that. Well, it's cracked open. You'd have to like swim in position to look through. But there's nobody in this jaw as you take like a moment to kind of settle and get your bearings. As far as you are aware, you've not been noticed."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Main hall and bone throne",
+      "kind": "hall",
+      "evidence": [
+        {
+          "startUid": "u1219",
+          "endUid": "u1224",
+          "quote": "DM: Looking through the whirlpool in the opposite direction, so back towards you, you can see what looks like large chamber. The interior—the floor looks like it's made of like bones. It almost looks like the—in, like, a rib cage, the inside of a rib cage."
+        },
+        {
+          "startUid": "u1226",
+          "endUid": "u1240",
+          "quote": "DM: And you're looking out at what must be, you think, the jaw of this creature, if it's a creature, anyway—the jaw. It looks like you're looking out through a jaw, and there's a pair of doors, and then there's like these jagged sort of bone spikes that have been made to stretch to make a barrier, but you can still see through it, and you can see like through this sort of barrier of of spiky bones and coral stretches out into the open. In your field of view you can see 4 merfolk guards that are standing around the door. They don't seem—I mean, they look maybe a little tired. They don't seem— doesn't seem like they're super on alert. They seem to be watching something that's happening on the far side of the whirlpool that you can't see, but they're sort of leaning casually, kind of leaning on their trident kind of watching somebody or something that's happening like beyond the whirlpool from from where you are."
+        },
+        {
+          "startUid": "u2028",
+          "endUid": "u2040",
+          "quote": "DM: Yeah, rogues, man. Peering through the door, you silently, like, swim closely up to the edge and just kind of glance through quickly. You see, the room that you’re looking into is maybe a hundred feet long, maybe a little longer, 120 feet long, and about 50 or 60 feet wide. It's a giant, cavernous room. You can't see everything clearly, because the your field of vision is not quite as wide as the width of the room, but you can see in the middle of the room the whirlpool, maybe 15 feet across. You can't see through it, and it has. It's like a dome. It swirls up to a domed top emerging from the floor, so it seems to be completely enclosing the jade. But you know the jade is in there from Clairvoyance and from Kenzo."
+        },
+        {
+          "startUid": "u2055",
+          "endUid": "u2062",
+          "quote": "DM: So here's the whirlpool in the middle. There's some guards around. There's a couple of merfolk around the—the whirlpool, and then there's, like, this thing over here is, is like a throne made of, of bones, and Buruli, you guess, has come down off the throne and is listening to 2 merfolk speak. One is—one is kind of sitting to the side, and you actually recognize the one sitting to the side. It's the guy you left alive at the portal, who seems to have arrived relatively recently, is explaining— was in the middle of explaining to Buruli everything that happened when this other merfolk comes in and is shouting something, you guessed, like, “There’s some weird giant octopus swimming around. What should we do?”"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1647",
+              "endUid": "u1654",
+              "quote": "DM: Until you see lit up in front of you, this white, stark bone structure of a giant, 300 foot long leviathan creature, dead, just floating in the ocean, its mouth gaping wide open. Clearly looking into this room that you saw, and probably many more beyond."
+            },
+            {
+              "startUid": "u1737",
+              "endUid": "u1740",
+              "quote": "DM: Clairvoyance. There was a pair of doors and the the, like, rubble, sharp coral wall that separated the the jaw, the mouth from the Throne room, or whatever it was."
+            }
+          ]
+        },
+        {
+          "relation": "connected_to",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u2001",
+              "endUid": "u2014",
+              "quote": "DM: The guard in front of the mouth is asleep. You find yourself in the jaw of this massive leviathan skeleton, maybe 40 feet across, and stretching maybe 20 or 30 feet back. You can see like flicks of light shining through this like broken wall of spikes that separates the mouth from the hall where the clairvoyant eye was before, and there's 2 double doors made out of polished coral, one of which is standing open. And so you can see in from that. Well, it's cracked open. You'd have to like swim in position to look through. But there's nobody in this jaw as you take like a moment to kind of settle and get your bearings. As far as you are aware, you've not been noticed."
+            }
+          ],
+          "note": "A coral double door through the wall of bone/coral spikes separates the jaw from the hall."
+        }
+      ]
+    },
+    "p10": {
+      "label": "Whirlpool enclosing the jade",
+      "kind": "magical enclosure",
+      "evidence": [
+        {
+          "startUid": "u1176",
+          "endUid": "u1177",
+          "quote": "DM: Your sensor appears in a bubbling whirlwind of water."
+        },
+        {
+          "startUid": "u1186",
+          "endUid": "u1195",
+          "quote": "DM: But you can still see through the water what you see— well, you can see through the water in one direction. You can see— you can see towards you. You can't see through the water in the opposite direction. You can see that—you can turn the eye, right, so you can see the jade, and you can see—so the 1st thing you see is in the middle of the whirlpool is—um, the, the jade itself is sat—it's, it's slowly spinning in the middle of this whirlpool, and it's on a strange twisted shell that seems to almost be vibrating slightly."
+        },
+        {
+          "startUid": "u2028",
+          "endUid": "u2040",
+          "quote": "DM: Yeah, rogues, man. Peering through the door, you silently, like, swim closely up to the edge and just kind of glance through quickly. You see, the room that you’re looking into is maybe a hundred feet long, maybe a little longer, 120 feet long, and about 50 or 60 feet wide. It's a giant, cavernous room. You can't see everything clearly, because the your field of vision is not quite as wide as the width of the room, but you can see in the middle of the room the whirlpool, maybe 15 feet across. You can't see through it, and it has. It's like a dome. It swirls up to a domed top emerging from the floor, so it seems to be completely enclosing the jade. But you know the jade is in there from Clairvoyance and from Kenzo."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u2028",
+              "endUid": "u2040",
+              "quote": "DM: Yeah, rogues, man. Peering through the door, you silently, like, swim closely up to the edge and just kind of glance through quickly. You see, the room that you’re looking into is maybe a hundred feet long, maybe a little longer, 120 feet long, and about 50 or 60 feet wide. It's a giant, cavernous room. You can't see everything clearly, because the your field of vision is not quite as wide as the width of the room, but you can see in the middle of the room the whirlpool, maybe 15 feet across. You can't see through it, and it has. It's like a dome. It swirls up to a domed top emerging from the floor, so it seems to be completely enclosing the jade. But you know the jade is in there from Clairvoyance and from Kenzo."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Vindristjarna",
+      "kind": "skyship",
+      "evidence": [
+        {
+          "startUid": "u0652",
+          "endUid": "u0656",
+          "quote": "DM: Lasts until you close it. It goes straight to Vindristjarna. Anybody can cross it halfling, human, monster, but of course they'll be fighting at a substantial disadvantage when they're suddenly teleported to dry land."
+        },
+        {
+          "startUid": "u3845",
+          "endUid": "u3851",
+          "quote": "DM: Our guy, Buruli. So Buruli stumbles out, now standing, like, water dripping off of him, on the hot desert surface of Vindristjarna, hovering above the orcish city of Uzgukhar in the pre-dawn light. So I guess it's actually not hot yet, because the sun is just barely up."
+        }
+      ],
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p12": {
+      "label": "Uzgukhar",
+      "kind": "city",
+      "evidence": [
+        {
+          "startUid": "u3845",
+          "endUid": "u3851",
+          "quote": "DM: Our guy, Buruli. So Buruli stumbles out, now standing, like, water dripping off of him, on the hot desert surface of Vindristjarna, hovering above the orcish city of Uzgukhar in the pre-dawn light. So I guess it's actually not hot yet, because the sun is just barely up."
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Xurkhaz/Uzgukhar.md"
+    },
+    "p13": {
+      "label": "River below Vindristjarna",
+      "kind": "river",
+      "evidence": [
+        {
+          "startUid": "u3925",
+          "endUid": "u3932",
+          "quote": "DM: Over the next few minutes you manage to get the ice shield down, calm Faldrak down a little bit, tell them everything's okay. Yeah, you did great. He did, like, 40 damage on Buruli with the ice shard for Delwath to finish off, and then dispel the shield and get the sharks into the river."
+        },
+        {
+          "startUid": "u3934",
+          "endUid": "u3934",
+          "quote": "DM: Well, 11 of them are sharks. The ones you dispelled are not sharks anymore."
+        },
+        {
+          "startUid": "u3936",
+          "endUid": "u3942",
+          "quote": "DM: But one of them has a water helmet, and 10 of them are Water Breathing. In the meantime, Kenzo turns to look at the jade. And now out of the water, as the shell begins to dry, it almost looks like it shrinks a little bit, and you can actually see— it doesn't take— it—it actually doesn't take much to— like, the shell is not— off the Plane of Water, there's nothing particularly special about it. Like, you could probably just smash it with your staff, as far as you can tell."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u3845",
+              "endUid": "u3851",
+              "quote": "DM: Our guy, Buruli. So Buruli stumbles out, now standing, like, water dripping off of him, on the hot desert surface of Vindristjarna, hovering above the orcish city of Uzgukhar in the pre-dawn light. So I guess it's actually not hot yet, because the sun is just barely up."
+            },
+            {
+              "startUid": "u3925",
+              "endUid": "u3932",
+              "quote": "DM: Over the next few minutes you manage to get the ice shield down, calm Faldrak down a little bit, tell them everything's okay. Yeah, you did great. He did, like, 40 damage on Buruli with the ice shard for Delwath to finish off, and then dispel the shield and get the sharks into the river."
+            }
+          ]
+        }
+      ],
+      "note": "The river is not named here. The ship’s temporary position above Uzgukhar does not identify which of the city’s rivers this is."
+    },
+    "p14": {
+      "label": "Cave in the cliff above the jungle",
+      "kind": "cave",
+      "evidence": [
+        {
+          "startUid": "u4000",
+          "endUid": "u4020",
+          "quote": "DM: And what you see is there’s a—there’s, like, a plateau. There’s a cliff, waterfall cascading down off the cliff into this coastal plain of a jungle below, and in the side of the cliff there is a cave, a massive cave carved, and you feel yourself pulled into the cliff, swirling into it, massive open space, pulled through to this great cavern looking up at the sky, the heat of the sun beating down on it, and you feel complete. This is where the last jade lies, inside this cave, sitting above the jungles of Drankor, on the desert, on the edge of the desert plateau, not so far south of where you are now."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u4000",
+              "endUid": "u4020",
+              "quote": "DM: And what you see is there’s a—there’s, like, a plateau. There’s a cliff, waterfall cascading down off the cliff into this coastal plain of a jungle below, and in the side of the cliff there is a cave, a massive cave carved, and you feel yourself pulled into the cliff, swirling into it, massive open space, pulled through to this great cavern looking up at the sky, the heat of the sun beating down on it, and you feel complete. This is where the last jade lies, inside this cave, sitting above the jungles of Drankor, on the desert, on the edge of the desert plateau, not so far south of where you are now."
+            }
+          ]
+        },
+        {
+          "relation": "at_edge_of",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u4000",
+              "endUid": "u4020",
+              "quote": "DM: And what you see is there’s a—there’s, like, a plateau. There’s a cliff, waterfall cascading down off the cliff into this coastal plain of a jungle below, and in the side of the cliff there is a cave, a massive cave carved, and you feel yourself pulled into the cliff, swirling into it, massive open space, pulled through to this great cavern looking up at the sky, the heat of the sun beating down on it, and you feel complete. This is where the last jade lies, inside this cave, sitting above the jungles of Drankor, on the desert, on the edge of the desert plateau, not so far south of where you are now."
+            }
+          ]
+        }
+      ],
+      "note": "Seen through the jade vision; no physical arrival or named-cave identity is established."
+    },
+    "p15": {
+      "label": "Jungles of Drankor in the jade vision",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u3989",
+          "endUid": "u3999",
+          "quote": "DM: You—the 1st thing you notice, the 1st thing you feel is the heat of the jungle, the humidity and rain of some somewhere deep in a—in a jungle, and then you, you feel the heat. You feel the fire, almost, of the sun beating down, and you feel as if you are lifted somehow, flying, soaring, and you see a vision of flying above this jungle."
+        },
+        {
+          "startUid": "u4000",
+          "endUid": "u4020",
+          "quote": "DM: And what you see is there’s a—there’s, like, a plateau. There’s a cliff, waterfall cascading down off the cliff into this coastal plain of a jungle below, and in the side of the cliff there is a cave, a massive cave carved, and you feel yourself pulled into the cliff, swirling into it, massive open space, pulled through to this great cavern looking up at the sky, the heat of the sun beating down on it, and you feel complete. This is where the last jade lies, inside this cave, sitting above the jungles of Drankor, on the desert, on the edge of the desert plateau, not so far south of where you are now."
+        }
+      ]
+    },
+    "p16": {
+      "label": "Desert plateau south of the party’s position",
+      "kind": "plateau",
+      "evidence": [
+        {
+          "startUid": "u4000",
+          "endUid": "u4020",
+          "quote": "DM: And what you see is there’s a—there’s, like, a plateau. There’s a cliff, waterfall cascading down off the cliff into this coastal plain of a jungle below, and in the side of the cliff there is a cave, a massive cave carved, and you feel yourself pulled into the cliff, swirling into it, massive open space, pulled through to this great cavern looking up at the sky, the heat of the sun beating down on it, and you feel complete. This is where the last jade lies, inside this cave, sitting above the jungles of Drankor, on the desert, on the edge of the desert plateau, not so far south of where you are now."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u4000",
+              "endUid": "u4020",
+              "quote": "DM: And what you see is there’s a—there’s, like, a plateau. There’s a cliff, waterfall cascading down off the cliff into this coastal plain of a jungle below, and in the side of the cliff there is a cave, a massive cave carved, and you feel yourself pulled into the cliff, swirling into it, massive open space, pulled through to this great cavern looking up at the sky, the heat of the sun beating down on it, and you feel complete. This is where the last jade lies, inside this cave, sitting above the jungles of Drankor, on the desert, on the edge of the desert plateau, not so far south of where you are now."
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Village of the boy calling for Benji",
+      "kind": "village",
+      "evidence": [
+        {
+          "startUid": "u4043",
+          "endUid": "u4050",
+          "quote": "DM: And somewhere in a village, a little boy picks up a stone and says, “Benji, I’m scared. The soldiers came through today and they’re recruiting. My mom convinced them I was too young, but 3 of my cousins were taken for the Legion. Can you do something?”"
+        }
+      ],
+      "note": "The Lucius note identifies the boy associated with Benji and gives Luminatia as his earlier home. This cutaway says only “somewhere in a village,” so the current location is not silently equated with Luminatia."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0023"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Riswynn",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "The rescuers begin inside the prison work complex, already in telepathic contact with Milo.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0011",
+          "quote": "DM: You made your way into this strange prison complex by dispelling the bubble that was field around that, snuck through the darkness and made telepathic contact with Wellby’s halfling telepathy with Milo. I'm totally blanking on his name now: Milo Thistlefoot, who had been captured. You have been tracking him."
+        },
+        {
+          "startUid": "u0012",
+          "endUid": "u0023",
+          "quote": "DM: And for kind of simplicity, and just to get things moving—and you had a short conversation with him. I'll use my intro to kind of tell his story, but it's close to the end of the shift, basically. And so he suggests to you that should you wish to, you know, free him and the other halflings, and and Tilly Brineheart, who's a spellcaster, the thing to do would be to swim up to the up to the, like, prison cells, once the—once the thing quiets in, like, half an hour, once it’s quieted down for the night, and there you would have a better chance to free them. So I think, unless anybody objects, we’d just assume you wait quietly for half an hour."
+        },
+        {
+          "startUid": "u0292",
+          "endUid": "u0292",
+          "quote": "DM: Yes, you're in the plane of water right now."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0024",
+        "endUid": "u0079"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Looks through the scholar’s hut with Ghostly Gaze from the work complex, seeing the merfolk scholar, bound elementals and mural fragments; no entry is established.",
+      "evidence": [
+        {
+          "startUid": "u0024",
+          "endUid": "u0024",
+          "quote": "Delwath: The only thing I wanted to do is go read what's inside the hut."
+        },
+        {
+          "startUid": "u0025",
+          "endUid": "u0038",
+          "quote": "DM: Yes, right. So there are no—so you look through with Ghostly Gaze, right? Yeah. So you see, there's this, like, scholar merfolk woman and her 2 bound elementals you're trying to avoid, and they seem to be close, you know, roughly finishing up for the day and— and they— you know, there's the—the merfolk don’t have a written language. There's no—there's no paper anywhere. The ink doesn't really work underwater. What she seems to be sorting is a series of pictographs and mosaics. And so there's like a series of these piled up, piled all around the the room that she's working in that are like these depictions of whirlpools with like strange forms coming out of them. Different colored kind of glyphs that are not in a language, right? They're like symbols, right? They're like markers of some alien being or something like that. You, you, you—your Eyes of the Rune Keeper give you enough insight to, to realize that some of these are, are depicting names, strange names that you wouldn't know how to pronounce."
+        },
+        {
+          "startUid": "u0039",
+          "endUid": "u0047",
+          "quote": "DM: And they seem to be names of— it's hard to know what of, actually— not people. Possibly names of places on wherever this sentient ocean life form came from. But it all seems very alien. And there's nothing written down. There's just these giant, like, very carefully pieced together, glued together, large, like, person-sized rock and coral, smooth walls that have these pictographs carved into them."
+        },
+        {
+          "startUid": "u0075",
+          "endUid": "u0079",
+          "quote": "DM: Tells the story of how the sentient ocean got to Taelgar. Right. So with that we turn to Milo's story."
+        }
+      ],
+      "place": "p03",
+      "mode": "local",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0131",
+        "endUid": "u0141"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Riswynn",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "Approach the coral cells after waiting for the work shift to end.",
+      "evidence": [
+        {
+          "startUid": "u0131",
+          "endUid": "u0137",
+          "quote": "DM: As he finishes telling the story, presumably you are now approaching the cells. You can see this—these structures hidden in this, in this complex area, small things, locked coral, spiky coral locks, each one holding 2 of these creatures. There's—of these transformed halflings. There seems to be about 13 crew, plus Milo and Tilly left."
+        },
+        {
+          "startUid": "u0219",
+          "endUid": "u0221",
+          "quote": "Seeker: Swim over to the cell and cast Dispel Magic at—oh, but I have to pick a level, right? The middle."
+        }
+      ],
+      "from": "p02",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "swim"
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u0225",
+        "endUid": "u0338"
+      },
+      "actors": [
+        "Tilly",
+        "Milo",
+        "Thirteen transformed halfling crew"
+      ],
+      "reading": "The prisoners are in the coral cells as Tilly and Milo are restored and freed, then join their rescuers.",
+      "evidence": [
+        {
+          "startUid": "u0131",
+          "endUid": "u0137",
+          "quote": "DM: As he finishes telling the story, presumably you are now approaching the cells. You can see this—these structures hidden in this, in this complex area, small things, locked coral, spiky coral locks, each one holding 2 of these creatures. There's—of these transformed halflings. There seems to be about 13 crew, plus Milo and Tilly left."
+        },
+        {
+          "startUid": "u0225",
+          "endUid": "u0226",
+          "quote": "DM: You see shark-like creature in front of you transform into a halfling."
+        },
+        {
+          "startUid": "u0274",
+          "endUid": "u0277",
+          "quote": "DM: I will just assume that Wellby picked the lock, because Wellby can’t roll less than a 20 ridiculous on lock picking, so— no, these, these locks are not a challenge for Wellby."
+        },
+        {
+          "startUid": "u0278",
+          "endUid": "u0285",
+          "quote": "Tilly: Okay, so I'll say, yep. I'll say, yeah, thank you for freeing me. That was quite inconvenient. Whom are you guys? What's—what's happening here?"
+        },
+        {
+          "startUid": "u0333",
+          "endUid": "u0338",
+          "quote": "DM: Milo, as you cast the spell, Milo— “Much better”— looks around. “Thank you, darling. See that you've met these fine folks who have come to rescue us.”"
+        }
+      ],
+      "place": "p04"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0736",
+        "endUid": "u0824"
+      },
+      "actors": [
+        "party",
+        "Milo",
+        "Thirteen transformed halfling crew"
+      ],
+      "reading": "The group exits the prison bubble through the dispelled gap and begins traveling toward the sensed jade, using manta ray mounts and swimming.",
+      "evidence": [
+        {
+          "startUid": "u0736",
+          "endUid": "u0740",
+          "quote": "Riswynn: So what is the plan? All the shark people out of the cages, everybody through a Dispel Magic gap in the bubble. Get ourselves some manta rays and manta elemental big rays. Yeah, let's start doing those things."
+        },
+        {
+          "startUid": "u0741",
+          "endUid": "u0745",
+          "quote": "DM: Okay. So you get out. Everybody flies quickly— swims quickly, moving through."
+        },
+        {
+          "startUid": "u0804",
+          "endUid": "u0804",
+          "quote": "Tilly: I'll cast. Tilly will cast dispel magic."
+        },
+        {
+          "startUid": "u0818",
+          "endUid": "u0821",
+          "quote": "DM: Do you have some time to discuss as you as you swim? I mean, you know you're at least 10 miles out. And your jade sense will warn you when you're within 10 miles of the jade."
+        },
+        {
+          "startUid": "u0822",
+          "endUid": "u0824",
+          "quote": "DM: So you've got some amount of time, unclear exactly how much time to talk as you swim."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "swim and ride elemental manta rays",
+      "route": [
+        {
+          "reading": "Pass through a temporary opening in the prison’s bubble barrier."
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0882",
+        "endUid": "u1666"
+      },
+      "actors": [
+        "party",
+        "Milo",
+        "Thirteen transformed halfling crew"
+      ],
+      "reading": "Travel away from the prison through the open water and halt in darkness just outside the fortress’s lit perimeter, about 400 feet from its mouth.",
+      "evidence": [
+        {
+          "startUid": "u0882",
+          "endUid": "u0884",
+          "quote": "DM: Yeah. So so as you as you travel once you get some distance away, like maybe the 1st hour is is quite dark, and it feels it feels like you're swimming through this sort of oppressive area. But as you get further away from this, the portal and the work complex, now it feels like—so you’re, you’re traveling now through—"
+        },
+        {
+          "startUid": "u0885",
+          "endUid": "u0888",
+          "quote": "DM: So basically, the geometry of this area, as far as you know it, is the portal’s like the bottom of a triangle. The work complex is up from the portal to the south. The jade is up from the portal to the north, so you're now traveling like diagonally above the portal, like higher in the ocean kind of a little bit away up, away from like Buruli zone."
+        },
+        {
+          "startUid": "u0909",
+          "endUid": "u0914",
+          "quote": "DM: So you get from this commune as you—as Tilly, as you reach out, and you sort of stretch your senses to this water and connect with the ocean, you, you feel actually, yeah, you're sort of traveling here as you head up through— you've now been traveling maybe 2 or 3 h through the edge of Buruli’s terrain. You actually sort of feel like you're almost on the on the edge of—down below you, in the depths, there's—it feels dark and closed, and there's very little life around. Further up above you, you sense that there's elementals, that there's more of these schools of fish, that there's just kind of more life above you and ahead."
+        },
+        {
+          "startUid": "u0974",
+          "endUid": "u0976",
+          "quote": "DM: Another couple of hours pass. You must have been traveling for maybe 6 h now."
+        },
+        {
+          "startUid": "u1062",
+          "endUid": "u1068",
+          "quote": "DM: About maybe just under 2, like an hour and a half later, you're—you now are passing through— the ocean begins to feel—maybe an hour later the ocean begins to feel cold and dark again, and you stop seeing these little schools of fish. You stop seeing— like you'll pass these like floating webs of like coral that have like eels growing around them, with just a massive floating coral reef— no longer, and Tilly, your sense—your Commune with Nature triggers that there is some sort of structure just about 3 miles ahead. So about a—about a half an hour swim on the manta rays."
+        },
+        {
+          "startUid": "u1645",
+          "endUid": "u1645",
+          "quote": "DM: So you swim closer."
+        },
+        {
+          "startUid": "u1647",
+          "endUid": "u1654",
+          "quote": "DM: Until you see lit up in front of you, this white, stark bone structure of a giant, 300 foot long leviathan creature, dead, just floating in the ocean, its mouth gaping wide open. Clearly looking into this room that you saw, and probably many more beyond."
+        },
+        {
+          "startUid": "u1655",
+          "endUid": "u1666",
+          "quote": "DM: Floating around this creature are 4 or 5 like small sort of structures that seem to be just from the distance. Now you're still in the sort of edge of darkness looking into this lit area, so until you move, you're maybe 400 feet from the creature. Until you move closer you are— You're in the darkness. You would not be easy to see. There's—it's early. It seems like it's early, relatively early morning. There's some signs of activity, but nothing— there's clearly, like, people around, guards and things starting to stir, but not— this— the, the— temple fortress, whatever the structure is, does not seem to be on high alert."
+        }
+      ],
+      "from": "p05",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "ride elemental manta rays and swim",
+      "route": [
+        {
+          "reading": "Rise diagonally above and away from the portal/work-complex area."
+        },
+        {
+          "reading": "Pass phosphorescent fish and a huge deep-swimming creature without following it."
+        },
+        {
+          "reading": "Approach the structure from the darkness and stop outside its illuminated perimeter."
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u1151",
+        "endUid": "u1265"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Uses an extended Clairvoyance sensor at the jade to inspect the whirlpool, fused shell, bone hall, doors and guards, and listen to an indistinct possible chant.",
+      "evidence": [
+        {
+          "startUid": "u1151",
+          "endUid": "u1153",
+          "quote": "Seeker: I, I will use my 4th—last 4th Level spell slot to cast Clairvoyance and use one charge from the glove of crystallized magic to double the range of the spell."
+        },
+        {
+          "startUid": "u1176",
+          "endUid": "u1177",
+          "quote": "DM: Your sensor appears in a bubbling whirlwind of water."
+        },
+        {
+          "startUid": "u1186",
+          "endUid": "u1195",
+          "quote": "DM: But you can still see through the water what you see— well, you can see through the water in one direction. You can see— you can see towards you. You can't see through the water in the opposite direction. You can see that—you can turn the eye, right, so you can see the jade, and you can see—so the 1st thing you see is in the middle of the whirlpool is—um, the, the jade itself is sat—it's, it's slowly spinning in the middle of this whirlpool, and it's on a strange twisted shell that seems to almost be vibrating slightly."
+        },
+        {
+          "startUid": "u1219",
+          "endUid": "u1224",
+          "quote": "DM: Looking through the whirlpool in the opposite direction, so back towards you, you can see what looks like large chamber. The interior—the floor looks like it's made of like bones. It almost looks like the—in, like, a rib cage, the inside of a rib cage."
+        },
+        {
+          "startUid": "u1226",
+          "endUid": "u1240",
+          "quote": "DM: And you're looking out at what must be, you think, the jaw of this creature, if it's a creature, anyway—the jaw. It looks like you're looking out through a jaw, and there's a pair of doors, and then there's like these jagged sort of bone spikes that have been made to stretch to make a barrier, but you can still see through it, and you can see like through this sort of barrier of of spiky bones and coral stretches out into the open. In your field of view you can see 4 merfolk guards that are standing around the door. They don't seem—I mean, they look maybe a little tired. They don't seem— doesn't seem like they're super on alert. They seem to be watching something that's happening on the far side of the whirlpool that you can't see, but they're sort of leaning casually, kind of leaning on their trident kind of watching somebody or something that's happening like beyond the whirlpool from from where you are."
+        },
+        {
+          "startUid": "u1243",
+          "endUid": "u1245",
+          "quote": "Seeker: Thing happened, so I listened for a minute in case there are any events occurring that make sound."
+        },
+        {
+          "startUid": "u1248",
+          "endUid": "u1253",
+          "quote": "DM: The noise of the whirlpool itself is quite loud, and it's hard to hear much other than the eerie sound of the of the shell the jade is mounted on, although you do hear, like, vaguely what sounds like some kind of chant or prayer coming nearby from somebody who must be standing quite close to the whirlpool, but not that you can see. So, standing on the far side of the whirlpool."
+        },
+        {
+          "startUid": "u1263",
+          "endUid": "u1265",
+          "quote": "DM: I mean, you don't understand the language. It could be just the way that merfolk language sounds. It sounds kind of sing song like a prayer. But who knows? Maybe it's a you know, the Buruli giving his breakfast order to a servant, for all you know."
+        }
+      ],
+      "place": "p09",
+      "mode": "remote",
+      "observerPlace": "p05",
+      "note": "The sensor is inside the whirlpool; Seeker remains with the travelers in open water."
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u1647",
+        "endUid": "u1740"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Views the lit leviathan fortress from the dark approach, including its mouth, patrols, eye sockets and sealed body.",
+      "evidence": [
+        {
+          "startUid": "u1647",
+          "endUid": "u1654",
+          "quote": "DM: Until you see lit up in front of you, this white, stark bone structure of a giant, 300 foot long leviathan creature, dead, just floating in the ocean, its mouth gaping wide open. Clearly looking into this room that you saw, and probably many more beyond."
+        },
+        {
+          "startUid": "u1655",
+          "endUid": "u1666",
+          "quote": "DM: Floating around this creature are 4 or 5 like small sort of structures that seem to be just from the distance. Now you're still in the sort of edge of darkness looking into this lit area, so until you move, you're maybe 400 feet from the creature. Until you move closer you are— You're in the darkness. You would not be easy to see. There's—it's early. It seems like it's early, relatively early morning. There's some signs of activity, but nothing— there's clearly, like, people around, guards and things starting to stir, but not— this— the, the— temple fortress, whatever the structure is, does not seem to be on high alert."
+        },
+        {
+          "startUid": "u1702",
+          "endUid": "u1706",
+          "quote": "DM: Yeah, I mean, you see—so there's, there's the patrol that's swimming in your direction that has 6 merfolk. There are 4 merfolk in the sort of standing guard near the—near the mouth entrance to— that are kind of swimming just outside the mouth, and 2 that are look like they're seated or resting just inside the mouth."
+        },
+        {
+          "startUid": "u1712",
+          "endUid": "u1718",
+          "quote": "DM: There are open eye sockets in the top of the like in the roof of the mouth that you could approach from. There do not seem to be any other openings. It seems like it's been, like— the—but the rest beyond the mouth itself— the rest of the skeleton has been filled in with stone and coral and fragments of of bleached material to make a complete sealed interior with no obvious—well, at least from here that you can see—obvious other entrances or exits besides the mouth."
+        },
+        {
+          "startUid": "u1737",
+          "endUid": "u1740",
+          "quote": "DM: Clairvoyance. There was a pair of doors and the the, like, rubble, sharp coral wall that separated the the jaw, the mouth from the Throne room, or whatever it was."
+        }
+      ],
+      "place": "p06",
+      "mode": "local",
+      "observerPlace": "p07"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1947",
+        "endUid": "u2014"
+      },
+      "actors": [
+        "party",
+        "Milo",
+        "Thirteen transformed halfling crew"
+      ],
+      "reading": "During the decoy distraction, dash through the eye sockets into the empty jaw. The crew gathers at the entrance and is later told to keep the way clear for escape.",
+      "evidence": [
+        {
+          "startUid": "u1947",
+          "endUid": "u1947",
+          "quote": "Delwath: How far away the mouth? Let's go. Yeah, let's go."
+        },
+        {
+          "startUid": "u1961",
+          "endUid": "u1961",
+          "quote": "Delwath: We're just—we're, we're dashing to the eye as fast as we can."
+        },
+        {
+          "startUid": "u1962",
+          "endUid": "u1969",
+          "quote": "DM: Okay, yeah. Going through. You swim down quickly, approach the eye. Let's get some slightly more upbeat music here. When you get within—the, the mouth itself is dark, so until you get within 60 feet you can't see anything because of dark vision. When you get within about 60 feet of the mouth you can see actually looking down through the eye. The inside of the jaw looks empty. You don't see anybody."
+        },
+        {
+          "startUid": "u1981",
+          "endUid": "u1981",
+          "quote": "DM: How many? Oh, yeah, okay. He falls asleep."
+        },
+        {
+          "startUid": "u1983",
+          "endUid": "u1983",
+          "quote": "DM: The guard falls asleep, and you now dash through the eyes."
+        },
+        {
+          "startUid": "u2001",
+          "endUid": "u2014",
+          "quote": "DM: The guard in front of the mouth is asleep. You find yourself in the jaw of this massive leviathan skeleton, maybe 40 feet across, and stretching maybe 20 or 30 feet back. You can see like flicks of light shining through this like broken wall of spikes that separates the mouth from the hall where the clairvoyant eye was before, and there's 2 double doors made out of polished coral, one of which is standing open. And so you can see in from that. Well, it's cracked open. You'd have to like swim in position to look through. But there's nobody in this jaw as you take like a moment to kind of settle and get your bearings. As far as you are aware, you've not been noticed."
+        },
+        {
+          "startUid": "u2189",
+          "endUid": "u2191",
+          "quote": "DM: Okay. So Milo turns and silently says—speaks to the crowd of sharks that are crowded into the—"
+        },
+        {
+          "startUid": "u2193",
+          "endUid": "u2199",
+          "quote": "DM: Portal, and he says, “Okay, guys, keep everybody out. Don't let anybody through that door, and when you hear the signal, make a run for the rainbow. We've got you.” And he draws his rapier. “Okay, are we doing this?”"
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "swim",
+      "route": [
+        {
+          "reading": "Approach above the eyes; enter through the eye sockets while the remaining outside guard sleeps."
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u2024",
+        "endUid": "u2062"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Peeks through the coral door into the hall, seeing the whirlpool, guards, Buruli at the throne, and the recognized portal survivor.",
+      "evidence": [
+        {
+          "startUid": "u2024",
+          "endUid": "u2024",
+          "quote": "Wellby: Let me go over and take a quick peek through."
+        },
+        {
+          "startUid": "u2025",
+          "endUid": "u2026",
+          "quote": "DM: Okay. You see, here's what you see. As you take a quick peek through the door, make a make a Stealth and a Perception check."
+        },
+        {
+          "startUid": "u2028",
+          "endUid": "u2040",
+          "quote": "DM: Yeah, rogues, man. Peering through the door, you silently, like, swim closely up to the edge and just kind of glance through quickly. You see, the room that you’re looking into is maybe a hundred feet long, maybe a little longer, 120 feet long, and about 50 or 60 feet wide. It's a giant, cavernous room. You can't see everything clearly, because the your field of vision is not quite as wide as the width of the room, but you can see in the middle of the room the whirlpool, maybe 15 feet across. You can't see through it, and it has. It's like a dome. It swirls up to a domed top emerging from the floor, so it seems to be completely enclosing the jade. But you know the jade is in there from Clairvoyance and from Kenzo."
+        },
+        {
+          "startUid": "u2055",
+          "endUid": "u2062",
+          "quote": "DM: So here's the whirlpool in the middle. There's some guards around. There's a couple of merfolk around the—the whirlpool, and then there's, like, this thing over here is, is like a throne made of, of bones, and Buruli, you guess, has come down off the throne and is listening to 2 merfolk speak. One is—one is kind of sitting to the side, and you actually recognize the one sitting to the side. It's the guy you left alive at the portal, who seems to have arrived relatively recently, is explaining— was in the middle of explaining to Buruli everything that happened when this other merfolk comes in and is shouting something, you guessed, like, “There’s some weird giant octopus swimming around. What should we do?”"
+        }
+      ],
+      "place": "p09",
+      "mode": "local",
+      "observerPlace": "p08"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u2483",
+        "endUid": "u2519"
+      },
+      "actors": [
+        "Delwath",
+        "Milo"
+      ],
+      "reading": "Open the door and charge from the jaw into the main hall as the fight begins.",
+      "evidence": [
+        {
+          "startUid": "u2483",
+          "endUid": "u2498",
+          "quote": "DM: So you could be, like, one—yeah, start there, basically. So the spell appears as—as you open the door, and you can see everybody turning sort of shocked, looking at you, the— the— Buruli turning and, and, and yelling and pointing as this magic glow of radiant energy begins to fill the room, and Delwath runs in, weapon materializing in his hand, that I presume, as he does— at essentially the same moment Milo, with his silver rapier swinging, yells “For the Stormdancer!”"
+        },
+        {
+          "startUid": "u2499",
+          "endUid": "u2506",
+          "quote": "DM: And charges. And where is Milo? Here's Milo. 1, 2, 3, 4, 5, 6, and then we'll bonus action, Dash, 1, 2, Let me just check one thing. Close that tab. Oh, yeah."
+        },
+        {
+          "startUid": "u2508",
+          "endUid": "u2519",
+          "quote": "DM: Is this— didn't work. Okay? Okay, so when he gets here, he's going to stab at this— at this— wow— merfolk, and that is gonna hit, and he's gonna run this merfolk through and then run forward again, staying here. So, Isaac, I should also make sure you know the square tokens are minions, so if you do any damage to them from—hey, you know the Minion rules."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "run and swim"
+    },
+    {
+      "id": "l12",
+      "type": "presence",
+      "source": {
+        "startUid": "u2812",
+        "endUid": "u3077"
+      },
+      "actors": [
+        "Kenzo",
+        "Riswynn",
+        "Tilly"
+      ],
+      "reading": "The other advancing PCs are established inside the hall during the jade retrieval; the crew remains assigned to guard the entrance until evacuation.",
+      "evidence": [
+        {
+          "startUid": "u2812",
+          "endUid": "u2813",
+          "quote": "DM: I've only got 55 foot of movement, but you can get to— You can get to there."
+        },
+        {
+          "startUid": "u2864",
+          "endUid": "u2871",
+          "quote": "Riswynn: I move my massive 20 feet of movement that I can move. I'm 5 feet slower than my usual movement. Good with me here. And I shoot I guess I— really decided that my cantrips were better than my aim with an arrow."
+        },
+        {
+          "startUid": "u2954",
+          "endUid": "u2955",
+          "quote": "DM: Okay, so the whirlpool begins to slow, and then comes to a stop as Tilly, like, counterbalances the flow exactly. So now you can see, as the water slightly clears, you can see the jade on the other side, and Kenzo, using his action—his held action—dashes through."
+        },
+        {
+          "startUid": "u3052",
+          "endUid": "u3055",
+          "quote": "Tilly: On my turn I wanted to move closer to— So that's fine."
+        },
+        {
+          "startUid": "u3056",
+          "endUid": "u3056",
+          "quote": "DM: Yeah. Yeah. Move wherever you want."
+        },
+        {
+          "startUid": "u3071",
+          "endUid": "u3077",
+          "quote": "DM: So that ends— that ends Tilly's turn. Minions up. I mean, Kenzo’s action on Tilly’s turn, and the legendary action. I'll have to make constitution saves against fail fail fail."
+        }
+      ],
+      "place": "p09"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2954",
+        "endUid": "u3006"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Dashes through the stilled whirlpool to its center, takes the fused jade and shell, and rushes back out into the hall.",
+      "evidence": [
+        {
+          "startUid": "u2954",
+          "endUid": "u2955",
+          "quote": "DM: Okay, so the whirlpool begins to slow, and then comes to a stop as Tilly, like, counterbalances the flow exactly. So now you can see, as the water slightly clears, you can see the jade on the other side, and Kenzo, using his action—his held action—dashes through."
+        },
+        {
+          "startUid": "u2965",
+          "endUid": "u2976",
+          "quote": "DM: Take 17 points of fire damage. And as you swim through right up at the jade, it's not quite so hot, but as you get closer, you hear—you can—this, this, like, eerie haunting noise of the—so, let’s see, how much movement did that take to get you right up to the— so you've got 55 feet, so that's 20 feet to get into the middle and grab the jade. You hear this eerie, haunting noise, and now reach your hand around and grab. You sort of have no choice but to grab the whole contraption. The shell—the jade seems to be fused into this shell."
+        },
+        {
+          "startUid": "u2986",
+          "endUid": "u2987",
+          "quote": "Kenzo: Got it. Okay? Okay. Yeah. I'll try to take the whole thing out."
+        },
+        {
+          "startUid": "u2988",
+          "endUid": "u2988",
+          "quote": "DM: Okay, grab it, no problem. Turn around, rush back out to the water. Make a Wisdom saving throw."
+        },
+        {
+          "startUid": "u2999",
+          "endUid": "u3004",
+          "quote": "DM: When you come out for a moment, you see your friends all gone, completely surrounded by merfolk enemies charging at you, and then you hear Seeker’s voice in the background, and you blink your eyes and realize it was just an illusion."
+        },
+        {
+          "startUid": "u3006",
+          "endUid": "u3006",
+          "quote": "DM: Your friends, are there."
+        }
+      ],
+      "from": "p09",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "swim",
+      "route": [
+        {
+          "place": "p10",
+          "reading": "Enter the hot water and reach the jade, then return to the hall with the apparatus."
+        }
+      ],
+      "note": "The apparent disappearance of friends on exit is an illusion, not a real spatial transition."
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u3567",
+        "endUid": "u3851"
+      },
+      "actors": [
+        "party",
+        "Milo",
+        "Thirteen transformed halfling crew"
+      ],
+      "reading": "The group escapes the hall over the Rainbow Bridge in successive turns and arrives on Vindristjarna above Uzgukhar; Buruli follows.",
+      "evidence": [
+        {
+          "startUid": "u3590",
+          "endUid": "u3590",
+          "quote": "DM: Rainbow Bridge appears."
+        },
+        {
+          "startUid": "u3595",
+          "endUid": "u3596",
+          "quote": "Seeker: Oh, and I step on it, yes. Okay, briefly, that’s the way."
+        },
+        {
+          "startUid": "u3628",
+          "endUid": "u3630",
+          "quote": "DM: Okay. Kenzo vanishes. Up and gone to the Rainbow Bridge. That ends Kenzo’s turn."
+        },
+        {
+          "startUid": "u3695",
+          "endUid": "u3696",
+          "quote": "Riswynn: Little radiant damage his way, 18. And then I move into the Rainbow Bridge."
+        },
+        {
+          "startUid": "u3697",
+          "endUid": "u3701",
+          "quote": "DM: Okay. Riswynn vanishes. That brings up Tilly. So the merf—the—all the halfling sharks act on Tilly’s turn and swim. You see all 13 of them. Boom, boom, boom, vanishing on the Rainbow Bridge."
+        },
+        {
+          "startUid": "u3719",
+          "endUid": "u3726",
+          "quote": "DM: So distract people! Tilly goes through. These minions dash towards Milo, but there's nothing much they can do, because they dash up. Let's see, this guy, 1, 2, steps on the Rainbow Bridge."
+        },
+        {
+          "startUid": "u3765",
+          "endUid": "u3772",
+          "quote": "DM: I got it, yup. Delwath is gone. After Delwath’s— Delwath’s turn, as the round begins, Milo and Wellby the only ones left. A explosion—explosion of geysers burst all around the room. Both of you need to make Dexterity saving throws."
+        },
+        {
+          "startUid": "u3818",
+          "endUid": "u3823",
+          "quote": "DM: I mean, he doesn't have that many hit points left, so he's dead, and Milo is going to take out these 2 minions before he steps onto the bridge. Now you are all on the bridge. It is Buruli’s turn before Seeker gets another action. And he is going to charge after you and step on the bridge."
+        },
+        {
+          "startUid": "u3845",
+          "endUid": "u3851",
+          "quote": "DM: Our guy, Buruli. So Buruli stumbles out, now standing, like, water dripping off of him, on the hot desert surface of Vindristjarna, hovering above the orcish city of Uzgukhar in the pre-dawn light. So I guess it's actually not hot yet, because the sun is just barely up."
+        }
+      ],
+      "from": "p09",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "Rainbow Bridge",
+      "locationContext": [
+        {
+          "subject": "p11",
+          "relation": "above",
+          "target": "p12"
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "presence",
+      "source": {
+        "startUid": "u3852",
+        "endUid": "u3863"
+      },
+      "actors": [
+        "Kethra",
+        "Amal",
+        "Faldrak"
+      ],
+      "reading": "Kethra and Amal are keeping watch aboard Vindristjarna; Faldrak raises its ice shield and fires the turret as the group emerges.",
+      "evidence": [
+        {
+          "startUid": "u3852",
+          "endUid": "u3858",
+          "quote": "DM: Um, and Kethra and Amal are, are standing, keeping watch. You hear a whoop from from Faldrak as everybody storms through, and suddenly— nobody really communicated with him—an ice shield appears around the ship, encasing it with a globe of ice, and he says—who—he yells, “Who should I hit now?”"
+        },
+        {
+          "startUid": "u3860",
+          "endUid": "u3863",
+          "quote": "DM: Turns around, fires the icicle turret. Blam, blam, blam, blam, 4 shots."
+        }
+      ],
+      "place": "p11",
+      "locationContext": [
+        {
+          "subject": "p11",
+          "relation": "above",
+          "target": "p12"
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u3925",
+        "endUid": "u3942"
+      },
+      "actors": [
+        "Eleven still-transformed halflings"
+      ],
+      "reading": "After the ice globe is lowered, the eleven crew still in shark form get from the ship into the river below.",
+      "evidence": [
+        {
+          "startUid": "u3925",
+          "endUid": "u3932",
+          "quote": "DM: Over the next few minutes you manage to get the ice shield down, calm Faldrak down a little bit, tell them everything's okay. Yeah, you did great. He did, like, 40 damage on Buruli with the ice shard for Delwath to finish off, and then dispel the shield and get the sharks into the river."
+        },
+        {
+          "startUid": "u3934",
+          "endUid": "u3934",
+          "quote": "DM: Well, 11 of them are sharks. The ones you dispelled are not sharks anymore."
+        },
+        {
+          "startUid": "u3936",
+          "endUid": "u3942",
+          "quote": "DM: But one of them has a water helmet, and 10 of them are Water Breathing. In the meantime, Kenzo turns to look at the jade. And now out of the water, as the shell begins to dry, it almost looks like it shrinks a little bit, and you can actually see— it doesn't take— it—it actually doesn't take much to— like, the shell is not— off the Plane of Water, there's nothing particularly special about it. Like, you could probably just smash it with your staff, as far as you can tell."
+        }
+      ],
+      "from": "p11",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "jump and swim"
+    },
+    {
+      "id": "l17",
+      "type": "observation",
+      "source": {
+        "startUid": "u3978",
+        "endUid": "u4030"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The jade vision draws the party’s viewpoint across jungle to a cave on a cliff at the desert plateau’s edge, revealing the final fragment’s location without a physical journey.",
+      "evidence": [
+        {
+          "startUid": "u3978",
+          "endUid": "u3984",
+          "quote": "DM: Meanwhile, let's do the jade so we can wrap up for tonight. So as you— as you take the 4th piece of jade and put it on your staff, it fuses together, and again, like what happened before, you are all caught in a vision."
+        },
+        {
+          "startUid": "u3989",
+          "endUid": "u3999",
+          "quote": "DM: You—the 1st thing you notice, the 1st thing you feel is the heat of the jungle, the humidity and rain of some somewhere deep in a—in a jungle, and then you, you feel the heat. You feel the fire, almost, of the sun beating down, and you feel as if you are lifted somehow, flying, soaring, and you see a vision of flying above this jungle."
+        },
+        {
+          "startUid": "u4000",
+          "endUid": "u4020",
+          "quote": "DM: And what you see is there’s a—there’s, like, a plateau. There’s a cliff, waterfall cascading down off the cliff into this coastal plain of a jungle below, and in the side of the cliff there is a cave, a massive cave carved, and you feel yourself pulled into the cliff, swirling into it, massive open space, pulled through to this great cavern looking up at the sky, the heat of the sun beating down on it, and you feel complete. This is where the last jade lies, inside this cave, sitting above the jungles of Drankor, on the desert, on the edge of the desert plateau, not so far south of where you are now."
+        },
+        {
+          "startUid": "u4022",
+          "endUid": "u4027",
+          "quote": "DM: But what you feel in this vision is that the jade did not get to this cave by itself. It was carried by something flying, something uninterested in, in its magic, perhaps, but it's not just sitting there for the taking."
+        },
+        {
+          "startUid": "u4029",
+          "endUid": "u4029",
+          "quote": "DM: Dimitaur is not in the vision."
+        }
+      ],
+      "place": "p14",
+      "mode": "vision",
+      "observerPlace": "p11",
+      "context": "vision"
+    },
+    {
+      "id": "l18",
+      "type": "observation",
+      "source": {
+        "startUid": "u4043",
+        "endUid": "u4054"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "A cutaway shows the boy calling for Benji through a stone from an unnamed village; Kenzo recognizes that the party still has the paired stone.",
+      "evidence": [
+        {
+          "startUid": "u4043",
+          "endUid": "u4050",
+          "quote": "DM: And somewhere in a village, a little boy picks up a stone and says, “Benji, I’m scared. The soldiers came through today and they’re recruiting. My mom convinced them I was too young, but 3 of my cousins were taken for the Legion. Can you do something?”"
+        },
+        {
+          "startUid": "u4051",
+          "endUid": "u4052",
+          "quote": "Kenzo: Wow! We still have that other sending stone."
+        },
+        {
+          "startUid": "u4053",
+          "endUid": "u4053",
+          "quote": "DM: Yeah, you still have it."
+        }
+      ],
+      "place": "p17",
+      "mode": "remote",
+      "observerPlace": "p11",
+      "note": "The narration establishes the remote village scene and paired-stone connection, not a physical visit or a spoken reply by the party."
+    }
+  ]
+}
