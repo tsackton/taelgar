@@ -1,0 +1,502 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-124",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-124/cleaned/dunmari-frontier-124-session.yaml",
+    "sessionYamlSha256": "bf40bd9b06c6c1b4981e210759ee202455c6fb4969d0ea38c2c600fe9271f534",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-124/cleaned/dunmari-frontier-124-transcript.md",
+    "transcriptSha256": "c08ea3b1788b8464d00629b77c973e2fd7f710ffe7eae228f36521e88863880c",
+    "yamlDates": {
+      "start": "1749-06-14",
+      "end": "1749-06-27"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0093",
+        "endUid": "u0097"
+      },
+      "reading": "The return from the Feywild is in the morning, later clarified as midmorning; the DM withdraws the afternoon reading.",
+      "evidence": [
+        {
+          "startUid": "u0093",
+          "endUid": "u0097",
+          "quote": "And you—it's—let's see, it's mid-afternoon, something like that. Late afternoon, you've been—We'll say—no, we'll say it's morning. I wrote down it's morning, but you haven't been. You've been eating and sleeping rather irregularly in the strange time of the Feywild, and probably hungry and tired after your travels, and—"
+        },
+        {
+          "startUid": "u0229",
+          "endUid": "u0233",
+          "quote": "Wait. What time did we arrive here?\n\n\nDM: Like mid-morning.\n\n\nKenzo: Okay and are—is this mid morning now, or—\n\n\nDM: Yeah, yeah, we're starting just as you arrived.\n\n\nKenzo: Okay."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM corrects mid/late afternoon to morning and later confirms midmorning.",
+        "partOfDay": "midmorning"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0112",
+        "endUid": "u0117"
+      },
+      "reading": "The opening character descriptions occur a few minutes after the arrival.",
+      "evidence": [
+        {
+          "startUid": "u0112",
+          "endUid": "u0117",
+          "quote": "But let's start at the moment that you arrive, after a few minutes of having settled."
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM places the opening after a few minutes settling."
+      },
+      "time": {
+        "precision": "approximate",
+        "basis": "Opening is explicitly situated shortly after arrival.",
+        "relative": {
+          "relation": "after",
+          "reference": "t01"
+        }
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0567",
+        "endUid": "u0572"
+      },
+      "reading": "Before dinner at sunset, Kenzo meditates and first becomes incorporeal.",
+      "evidence": [
+        {
+          "startUid": "u0567",
+          "endUid": "u0568",
+          "quote": "So before dinner, around sunrise—sunset, Kenzo kind of goes over off, you know, still visible, but off to the side."
+        },
+        {
+          "startUid": "u0569",
+          "endUid": "u0572",
+          "quote": "And and he goes into a meditation, and he often does this at sunset and sunrise. But you notice something a little different, like Kenzo sits there, and and he's he's meditating.\n\n\nKenzo: And then, like as the sun starts going down.\n\n\nKenzo: You start noticing, like Kenzo is like kind of shimmering like you're kind of watching him, and he's sort of like sort of like the like—the distance, like the sunset, is also shimmering, and Kenzo starts shimmering, and then, like the sun, slowly starts to disappear over the horizon, and then you're kind of watching for those that are noticing. And then Kenzo is shimmering and the sun's shimmering, and then the sun's slowly disappearing, and then Kenzo just totally disappears and is gone."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Kenzo places his meditation before dinner at sunset, correcting his initial sunrise wording.",
+        "partOfDay": "sunset"
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0673",
+        "endUid": "u0680"
+      },
+      "reading": "The group settles down to dinner after Kenzo’s sunset demonstration.",
+      "evidence": [
+        {
+          "startUid": "u0650",
+          "endUid": "u0655",
+          "quote": "Anyways, that's what happens at sunset.\n\n\nDelwath: Cool.\n\n\nKenzo: Yeah, that's like Kenzo, and Wellby like, are just kind of like shadow boxing like Kenzo's like trying to like figure out like, \"I'm solid. I'm not solid.\" I'm solid. I'm not solid.\"\n\n\nWellby: Wellby rapidly escalates to seeing if he can actually hit you.\n\n\nKenzo: Yeah. Kenzo rapidly escalates into like trying to like, you know, dodge, and hit."
+        },
+        {
+          "startUid": "u0673",
+          "endUid": "u0680",
+          "quote": "So as you settle down to a dinner, a raucous dinner with everybody, Riswynn and the Orcs, and everybody sort of talking about what's next, and a sort of general mood of just relaxation sort of spreading across the group, as many of the people you've traveled with have really only ever experienced their lives as chasing you from crisis to crisis. And now it sort of seems like, maybe they, you know, this, at least, is a moment where that doesn't feel like it's happening."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Dinner follows the played sunset demonstration; no numerical clock is given.",
+        "partOfDay": "evening"
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0696",
+        "endUid": "u0711"
+      },
+      "reading": "Dinner and shared stories continue late into the night, before the first Dream contact.",
+      "evidence": [
+        {
+          "startUid": "u0696",
+          "endUid": "u0701",
+          "quote": "So the evening proceeds late into the night, as you talk and recount stories, and you know, talk to your followers and companions, and Pava and Avaras, who now, you know, represent kind of a full circle for Delwath and Kenzo at least.\n\n\nDM: But really, all of you, as you 1st met them before you even knew that Grash existed, and when you still had no idea what was going on in the desert.\n\n\nDM: So the evening proceeds."
+        },
+        {
+          "startUid": "u0710",
+          "endUid": "u0711",
+          "quote": "And so, as you know, the night gets later, are you gonna cast some dreams—a dream tonight? What's your plan?"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "late night"
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0740",
+        "endUid": "u0746"
+      },
+      "reading": "Kenzo enters the Dream conversation with Xavier that night; its childhood alley is a constructed dream setting.",
+      "evidence": [
+        {
+          "startUid": "u0710",
+          "endUid": "u0717",
+          "quote": "And so, as you know, the night gets later, are you gonna cast some dreams—a dream tonight? What's your plan?\n\n\nDelwath: Yeah.\n\n\nKenzo: Yeah. Kenzo is gonna go to Delwath.\n\n\nDelwath: I can cast it on Delwath—I can cast it on Kenzo so that he could be the one that talks. Doesn't have to be me.\n\n\nKenzo: Alright!\n\n\nDelwath: I mean, Delwath will stay up into the night like looking at the stars, and telling stories about wars and new wars and recipes."
+        },
+        {
+          "startUid": "u0738",
+          "endUid": "u0746",
+          "quote": "Might not. Might maybe like had a quick goodbye, you know, like 5 years ago, but hasn't spoken with Xavier since, and so sends out a message in his dreams, to to Xavier.\n\n\nDM: Okay.\n\n\nDM: So as you fall into sleep, what? What is—you can control the appearance of the dream.\n\n\nKenzo: Great.\n\n\nKenzo: Yeah. So we—in the dream, the dream setting.\n\n\nKenzo: It'll be this little, this square in Chardon, where, when we were little kids like, you know, Kenzo and Xavier would go like run around and like in the marketplace, because they would go like steal food and stuff like that. And so there's like a particular stand that they would go to that had this, you know, kind of local Chardonian like set of sweets that they would like, go and steal stuff, and so they would often go there, steal this treat, and go to this alley around the corner and go eat it. And so in the dream, Kenzo kind of appears like with Xavier, like sitting in that alley where they used to sit when they were little kids, like eating there, eating the little, you know candies, or whatever that they stole from the market around the corner."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Dream contact follows the explicit late-night dinner anchor.",
+        "partOfDay": "night",
+        "relative": {
+          "relation": "after",
+          "reference": "t05"
+        }
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1078",
+        "endUid": "u1084"
+      },
+      "reading": "After the party day and organizing downtime, Riswynn’s departure is set on the morning of June 18.",
+      "evidence": [
+        {
+          "startUid": "u1078",
+          "endUid": "u1084",
+          "quote": "So. You know you had your party day. You got some information.\n\n\nDM: Over the next like, say, 3 or 4 days, let's say, just say 4 days, get organized, and then the next day, so 1, 2, 3, the 5th day after you have arrived. So this would be, I don't know—\n\n\nDM: Let's see. June 14th, 16, 17.\n\n\nDM: So this would be on June 18th. Riswynn in the morning, you know."
+        }
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "June 18 and morning are spoken; the year comes from YAML.",
+        "partOfDay": "morning",
+        "date": {
+          "year": 1749,
+          "month": 6,
+          "day": 18
+        }
+      },
+      "duration": {
+        "value": 4,
+        "unit": "day",
+        "precision": "exact",
+        "basis": "DM settles on four days organizing, then counts to June 18 from June 14."
+      },
+      "dateBoundaries": 4,
+      "completion": "completed",
+      "note": "The same count calls this the “5th day after” arrival. June 14–18 treats the arrival as day one; the explicit departure date is retained without adding a fifth elapsed day."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1325",
+        "endUid": "u1328"
+      },
+      "reading": "The farewell takes the morning; Riswynn and her three companions teleport to Uzgukhar.",
+      "evidence": [
+        {
+          "startUid": "u1325",
+          "endUid": "u1335",
+          "quote": "So you spend the day—or spend the morning saying goodbye, and Riswynn, with the 2 Orcs and Kethra, vanishes in a twinkle of golden light, teleporting back to Uzgukhar to begin quest.\n\n\nKenzo: Your teleport?\n\n\nRiswynn: No, I teleport with my Word of Recall today.\n\n\nRiswynn: Sanctuary, sanctuary there in Uzgukhar.\n\n\nKenzo: Wait! How do you teleport?\n\n\nRiswynn: I'm deeply, religiously connected to the sanctuary that I created in Uzgukhar.\n\n\nKenzo: Oh!\n\n\nRiswynn: So I have a spell called word of recall."
+        }
+      ],
+      "actors": [
+        "Riswynn",
+        "Kethra",
+        "Nuzkar",
+        "Aygul"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Morning is restated; June 18 was established for this departure in t07.",
+        "partOfDay": "morning",
+        "date": {
+          "year": 1749,
+          "month": 6,
+          "day": 18
+        }
+      }
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1438",
+        "endUid": "u1447"
+      },
+      "reading": "The remaining party leaves in mid-afternoon and flies overnight; about fifteen hours later, Karawa lies below at sunrise.",
+      "evidence": [
+        {
+          "startUid": "u1438",
+          "endUid": "u1444",
+          "quote": "So you know, just going going day by day. You say goodbye to Pava, and after you say goodbye to Riswynn, you say goodbye to Pava and Avaras, and you know, they wish you luck on your journey, and again, sort of happy to see you thriving and having you know, developed in the way that you've developed, and over the course of the afternoon and into the evening on through the night, you fly across the desert."
+        },
+        {
+          "startUid": "u1445",
+          "endUid": "u1447",
+          "quote": "Crossing Karawa probably. Let's see, that's 15 h. So as this, let's see from—yeah, so you leave like mid-afternoon. So like as the sun is rising, you cross high above the red mesa and see the city of Karawa laid out below you."
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Wellby"
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "DM’s explicit mid-afternoon departure on the June 18 departure day.",
+          "partOfDay": "mid-afternoon",
+          "date": {
+            "year": 1749,
+            "month": 6,
+            "day": 18
+          }
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "First narrated dawn after the June 18 departure; dates are inferred from that anchor.",
+          "partOfDay": "sunrise",
+          "date": {
+            "year": 1749,
+            "month": 6,
+            "day": 19
+          }
+        }
+      },
+      "duration": {
+        "value": 15,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM estimates fifteen hours for the flight to the Karawa crossing."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1448",
+        "endUid": "u1449"
+      },
+      "reading": "Over the next day of flight, the ship crosses the plains and reaches Tokra by the next dawn.",
+      "evidence": [
+        {
+          "startUid": "u1448",
+          "endUid": "u1449",
+          "quote": "From there, over the course of the next day you travel across the plains, reaching reaching Tokra roughly by the next dawn."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Next dawn after Karawa’s June 19 sunrise; date inferred from the departure anchor.",
+        "partOfDay": "dawn",
+        "date": {
+          "year": 1749,
+          "month": 6,
+          "day": 20
+        }
+      },
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM narrates travel over the next day to the next dawn."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Wellby"
+      ]
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1450",
+        "endUid": "u1451"
+      },
+      "reading": "The ship turns northwest over the Songara plains and reaches Songara by the following dawn.",
+      "evidence": [
+        {
+          "startUid": "u1450",
+          "endUid": "u1451",
+          "quote": "From there, turning somewhat slightly northwest and flying over the Songara plains, reaching the city of Songara by the next dawn as well."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Next dawn after Tokra’s June 20 dawn; date inferred from the departure anchor.",
+        "partOfDay": "dawn",
+        "date": {
+          "year": 1749,
+          "month": 6,
+          "day": 21
+        }
+      },
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Narrated dawn-to-next-dawn flight."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Wellby"
+      ]
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1526",
+        "endUid": "u1527"
+      },
+      "reading": "Play resolves the mirror conversations at an earlier point in the flight, before the Tokra crossing; later narration places them in the evening.",
+      "evidence": [
+        {
+          "startUid": "u1481",
+          "endUid": "u1481",
+          "quote": "So over the course of this journey, now, having reached Songara, anything that you want to do?"
+        },
+        {
+          "startUid": "u1526",
+          "endUid": "u1527",
+          "quote": "So you're, you're flying over the desert. So you summon Vola to the mirror, and she sort of blinks and looks at you."
+        },
+        {
+          "startUid": "u1737",
+          "endUid": "u1738",
+          "quote": "Have a meal. Think about it.\n\n\nDelwath: It'll be tomorrow before we—you have to decide before that, though."
+        },
+        {
+          "startUid": "u1757",
+          "endUid": "u1758",
+          "quote": "Enjoy our hospitality for the evening. We'll talk again. You'll find Vola in the dining area if you wish to speak with another who went through your—who was possessed by Fausto."
+        },
+        {
+          "startUid": "u1815",
+          "endUid": "u1825",
+          "quote": "So it's evening when Vola is—\n\n\nDelwath: Yeah.\n\n\nDM: Like he's—\n\n\nKenzo: Yeah.\n\n\nDM: You're you're actually at this point, you're probably like, this is the day that you—this is the day that you're crossing the desert. We'll say so like this— Tomorrow morning you'll reach Tokra, and that would be a reasonable spot to drop off.\n\n\nDelwath: Right.\n\n\nDM: So that's—\n\n\nDelwath: Off these 2.\n\n\nDM: Yeah."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Later DM placement says Tokra will be reached tomorrow morning; the flight montage puts that dawn on June 20.",
+        "partOfDay": "evening",
+        "date": {
+          "year": 1749,
+          "month": 6,
+          "day": 19
+        }
+      },
+      "note": "The DM calls this desert travel although the earlier montage describes plains after Karawa. The evening-before-Tokra anchor dates the conversations; their exact hour and the terrain boundary remain unspecified."
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1793",
+        "endUid": "u1794"
+      },
+      "reading": "A little time passes while Vola bathes before the next conversation.",
+      "evidence": [
+        {
+          "startUid": "u1793",
+          "endUid": "u1794",
+          "quote": "Okay, yeah. So a little time passes. The—Vola sort of emerges, feeling a little bit refreshed."
+        }
+      ],
+      "completion": "completed",
+      "time": {
+        "precision": "approximate",
+        "basis": "Explicit local advance from the first release conversation to Vola emerging from her bath.",
+        "relative": {
+          "relation": "after",
+          "reference": "t12"
+        }
+      }
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1908",
+        "endUid": "u1908"
+      },
+      "reading": "While Kenzo and Vola meditate, Delwath begins the Dream conversation with Marcella.",
+      "evidence": [
+        {
+          "startUid": "u1813",
+          "endUid": "u1825",
+          "quote": "While Vola's talking to Kenzo—well, you—I'm gonna I'm gonna cast dream and try and contact Marcella.\n\n\nDM: Okay.\n\n\nDM: So it's evening when Vola is—\n\n\nDelwath: Yeah.\n\n\nDM: Like he's—\n\n\nKenzo: Yeah.\n\n\nDM: You're you're actually at this point, you're probably like, this is the day that you—this is the day that you're crossing the desert. We'll say so like this— Tomorrow morning you'll reach Tokra, and that would be a reasonable spot to drop off.\n\n\nDelwath: Right.\n\n\nDM: So that's—\n\n\nDelwath: Off these 2.\n\n\nDM: Yeah."
+        },
+        {
+          "startUid": "u1904",
+          "endUid": "u1910",
+          "quote": "Yeah, so I just, I just sit with Vola next to the tree. And like, you know, basically like, offer a blessing like with the tree with Vola, and just kind of sit in meditation with her. And you know it's just like totally like her reality is all messed up. And just, you know, giving her kind of a container to just start the process of letting things settle. No more questions, no more anything.\n\n\nDM: So, while Kenzo and Vola meditate, Delwath sinks into a dream state and reaches out towards Marcella.\n\n\nDM: And you find yourself appearing in a dreamscape, looking, however, you'd like."
+        }
+      ],
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Vola"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "The shared evening-before-Tokra frame is established in t12.",
+        "partOfDay": "evening",
+        "relative": {
+          "relation": "same_time",
+          "anchor": "Kenzo and Vola’s meditation at the tree"
+        }
+      }
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "June 18 morning is spoken at u1083–u1084. The opening June 14 and the year 1749 use YAML, supported by the DM’s date-counting setup. Subsequent dawn dates are inferred from that departure, not from drEnd.",
+    "expectedDateBoundaries": 13,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t03",
+      "t05",
+      "t07",
+      "t08",
+      "t09",
+      "t10",
+      "t11",
+      "t12",
+      "t14"
+    ],
+    "explanation": "The four-day organizing advance and three flight dawns account for seven boundaries conditional on the June 14 opening, through June 21. The June 19 evening conversations are retrospective within that flight, not extra days. The six additional days around Apporia at u2030–u2060 are an accepted itinerary, but completion is deferred to a future introduction at u2072–u2075. June 27 can fit that plan; the current transcript does not independently establish the completed final six days. No contradiction with the YAML span is established."
+  }
+}

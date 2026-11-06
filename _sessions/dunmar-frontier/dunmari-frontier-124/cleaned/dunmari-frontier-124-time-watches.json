@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-124/cleaned/dunmari-frontier-124-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-124/cleaned/dunmari-frontier-124-time-markers.json",
+    "sha256": "491fa00974492826c4ffb8432b7e8b3a56a684f5a2e688f99b2295635383a35e"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-124/cleaned/dunmari-frontier-124-transcript.md",
+    "sha256": "c08ea3b1788b8464d00629b77c973e2fd7f710ffe7eae228f36521e88863880c"
+  },
+  "dateAssessment": "The working calendar uses YAML’s June 14, 1749 opening and year; the DM’s date-counting setup is compatible with it. June 18 morning is explicitly spoken (t07); the following flight dawns fall on June 19, 20, and 21 by inference. The late opening-night activity has no established civil-midnight crossing, so its night label is retained. The mirror conversations and Marcella Dream belong to the evening before Tokra, inferred as June 19 (t12–t14), inside the flight montage rather than after Songara. Four organizing days and three flight dawns account for seven boundaries conditional on the opening date. The six additional days around Apporia are an accepted future itinerary, with introduction deferred to the next session (u2030–u2060, u2072–u2075), so the time extraction assesses YAML’s June 27 ending as **compatible**, not independently matched. The existing Session 124 note records completed later travel through June 27, a Tokra drop-off, and dated Mirror of the Past visions. Those supplemental records do not establish completion in this registered transcript: the detour, drop-off, and two object examinations remain plans here.",
+  "watches": [
+    {
+      "day": "June 14, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Arrival corrected to midmorning; opening descriptions follow a few minutes of settling.",
+      "markers": [
+        "t01",
+        "t02"
+      ],
+      "startDate": "1749-06-14",
+      "endDate": "1749-06-14"
+    },
+    {
+      "day": "June 14, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Kenzo meditates at sunset; dinner follows.",
+      "markers": [
+        "t03",
+        "t04"
+      ],
+      "startDate": "1749-06-14",
+      "endDate": "1749-06-14"
+    },
+    {
+      "day": "Night following June 14, 1749",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "inferred",
+      "summary": "Late-night dinner leads into Kenzo’s Dream; a civil-midnight crossing is not established.",
+      "markers": [
+        "t05",
+        "t06"
+      ]
+    },
+    {
+      "day": "June 18, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Four organizing days resolve to June 18 morning; Riswynn’s farewell occupies that morning.",
+      "markers": [
+        "t07",
+        "t08"
+      ],
+      "startDate": "1749-06-18",
+      "endDate": "1749-06-18"
+    },
+    {
+      "day": "June 18–19, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Mid-afternoon departure; about fifteen hours of flight reach Karawa at sunrise.",
+      "markers": [
+        "t09"
+      ],
+      "startDate": "1749-06-18",
+      "endDate": "1749-06-19",
+      "scope": "Remaining four"
+    },
+    {
+      "day": "June 19, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Evening before Tokra; Vola’s bath advances time briefly, and Delwath’s Dream overlaps Kenzo and Vola’s meditation.",
+      "markers": [
+        "t12",
+        "t13",
+        "t14"
+      ],
+      "startDate": "1749-06-19",
+      "endDate": "1749-06-19",
+      "scope": "Shipboard conversations"
+    },
+    {
+      "day": "June 20, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Another day of flight reaches Tokra at the next dawn.",
+      "markers": [
+        "t10"
+      ],
+      "startDate": "1749-06-20",
+      "endDate": "1749-06-20",
+      "scope": "Remaining four"
+    },
+    {
+      "day": "June 21, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "The following dawn brings the ship to Songara.",
+      "markers": [
+        "t11"
+      ],
+      "startDate": "1749-06-21",
+      "endDate": "1749-06-21",
+      "scope": "Remaining four"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Existing Session 124 note",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 124 (DuFr).md",
+      "sha256": "4f15e9591355a736753b13a5a088e75a9ba8704d50b36acbffd20592effb69cf"
+    }
+  ]
+}
