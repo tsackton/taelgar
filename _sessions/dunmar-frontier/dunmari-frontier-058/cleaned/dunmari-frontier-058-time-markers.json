@@ -1,0 +1,218 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-058",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-session.yaml",
+    "sessionYamlSha256": "893d7b49187101e6c38e6b3e3c6223bab28a24c202a5b00e1b476baedc12b97e",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-transcript.md",
+    "transcriptSha256": "be5237d15d6e965d31d0b5b3e88a66d49ff404671a9e7823702ca85564261a2f",
+    "yamlDates": {
+      "start": "1748-08-25",
+      "end": "1748-11-15"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0075",
+        "endUid": "u0085"
+      },
+      "reading": "The ongoing cliffside walk to Nora reaches her after about an hour.",
+      "evidence": [
+        {
+          "startUid": "u0075",
+          "endUid": "u0085",
+          "quote": "You can see now, after maybe an hour's walk or so in the distance ahead of you, a ghostly dwarf"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM dates arrival during the ongoing walk"
+      },
+      "completion": "completed",
+      "note": "This is the approach already in progress at the opening; it is not an extra hour added after arrival."
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0601",
+        "endUid": "u0616"
+      },
+      "reading": "Rothfis completes about an hour of aerial scouting and returns to the group.",
+      "evidence": [
+        {
+          "startUid": "u0601",
+          "endUid": "u0616",
+          "quote": "after flying around for a bit, you know, about a— you know, twenty thirty-minute flight east into the wastes away from the river, maybe an hour on the ground."
+        },
+        {
+          "startUid": "u0630",
+          "endUid": "u0634",
+          "quote": "Um, I'd say that was about an hour to scout it all."
+        }
+      ],
+      "actors": [
+        "Rothfis"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Later DM answer establishes the total scouting time, superseding a partial-leg estimate"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0661",
+        "endUid": "u0662"
+      },
+      "reading": "The party walks toward the cave for about twenty to thirty minutes before checking its marching order.",
+      "evidence": [
+        {
+          "startUid": "u0661",
+          "endUid": "u0662",
+          "quote": "You go for maybe twenty, thirty minutes about."
+        }
+      ],
+      "duration": {
+        "min": 20,
+        "max": 30,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed travel, not the earlier ground-travel forecast"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0673",
+        "endUid": "u0676"
+      },
+      "reading": "Another five minutes of travel passes before the troll ambush.",
+      "evidence": [
+        {
+          "startUid": "u0673",
+          "endUid": "u0676",
+          "quote": "you continue for another like five minutes or so"
+        }
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM explicitly advances the cave approach again"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1156",
+        "endUid": "u1156"
+      },
+      "reading": "Rothfis dates his near-death in the troll fight to about five minutes before this exchange with Del.",
+      "evidence": [
+        {
+          "startUid": "u1156",
+          "endUid": "u1156",
+          "quote": "I think I was nearly dead about five minutes ago."
+        }
+      ],
+      "actors": [
+        "Rothfis"
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Rothfis’s retrospective estimate from his near-death to this conversation"
+      },
+      "completion": "completed",
+      "note": "This interval includes the post-combat cave approach and conversation; it is not additional time after them."
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1364",
+        "endUid": "u1367"
+      },
+      "reading": "The party takes a short rest in Del’s cave before leaving for the statue.",
+      "evidence": [
+        {
+          "startUid": "u1364",
+          "endUid": "u1367",
+          "quote": "We could rest here for the hour at least. Safe in the cave. Maybe."
+        },
+        {
+          "startUid": "u1407",
+          "endUid": "u1408",
+          "quote": "Go ahead and short rest."
+        },
+        {
+          "startUid": "u1637",
+          "endUid": "u1664",
+          "quote": "So you leave Del's, the mad priest's cave, and head for the statue"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Explicit proposed hour accepted as a short rest; short-rest convention"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1637",
+        "endUid": "u1664"
+      },
+      "reading": "The walk from Del’s cave to the ruined statue takes roughly three hours.",
+      "evidence": [
+        {
+          "startUid": "u1637",
+          "endUid": "u1664",
+          "quote": "it's only a few miles, four, five, eight, it's hard to tell the exact distance, and there doesn't—there's not a clear sense of time passing here."
+        },
+        {
+          "startUid": "u1637",
+          "endUid": "u1664",
+          "quote": "it takes maybe three hours, but it's hard to tell in the passage of time how long it takes"
+        }
+      ],
+      "duration": {
+        "value": 3,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s approximate elapsed journey despite unreliable sense of time"
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "Neither a calendar date nor year is spoken for current play. August 25 and November 15, 1748 are YAML boundaries, not independently verified transcript anchors.",
+    "expectedDateBoundaries": 82,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07"
+    ],
+    "explanation": "The transcript establishes an ongoing approach, scouting, cave travel, a short rest and a three-hour march, then the dissolution of Morkalan and return-home choices. It establishes no complete count of calendar transitions. The historical century-and-a-half captivity, character backstories and spell durations do not supply elapsed session days. No transcript contradiction to the 82-day YAML span is established; the extended epilogue is not in this source."
+  },
+  "limitations": "The complete registered transcript ends at u3074 with departure choices. It contains no played account of the later escort, Tharn Todor stay, or reunion journey covered by the campaign session note and YAML end date."
+}
