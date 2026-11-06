@@ -841,6 +841,27 @@
         "status": "automatedReviewed"
       },
       "confidenceExplanation": "The brief forest-origin account may qualify as item lore, but it is embedded in Delwath’s summary of stories used to calm Canopy."
+    },
+    {
+      "id": "e024",
+      "kind": "divine",
+      "label": "Aldanor",
+      "importance": "cameo",
+      "note": "Gods and Religions/Gods/Embodied Gods/Aldanor.md",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1241",
+            "endUid": "u1263"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
     }
   ],
   "exclusions": [
