@@ -674,7 +674,7 @@
             {
               "actor": "Summoned tentacle",
               "kind": "turn",
-              "summary": "Fails Sickening Radiance Constitution with 13, taking 30 radiant and one exhaustion level. At disadvantage its attacks against Wellby show natural 20 and 11: one hit deals 18 before Uncanny Dodge and grapples him; its attack at Ladder misses.",
+              "summary": "Fails Sickening Radiance Constitution with 13, taking 30 radiant and one exhaustion level, imposing disadvantage on ability checks. Attacks Wellby twice: natural 20 hits for 18 before Uncanny Dodge; 11 misses. The hit grapples Wellby. A further attack at Ladder misses.",
               "evidence": [
                 {
                   "startUid": "u10602",
@@ -685,11 +685,15 @@
             {
               "actor": "Wellby",
               "kind": "reaction",
-              "summary": "Fails Sickening Radiance Constitution with 13, taking 30 radiant and one exhaustion level. Attacks Wellby twice: natural 20 hits for 18 before Uncanny Dodge, 11 misses; the hit grapples him. A further attack at Ladder misses.",
+              "summary": "Uses Uncanny Dodge on the summoned tentacle’s hit, halving 18 damage to 9; remains grappled.",
               "evidence": [
                 {
-                  "startUid": "u10602",
-                  "endUid": "u10674"
+                  "startUid": "u10641",
+                  "endUid": "u10642"
+                },
+                {
+                  "startUid": "u10653",
+                  "endUid": "u10658"
                 }
               ]
             },
