@@ -51,7 +51,8 @@
         "confidence": "high",
         "status": "automatedReviewed"
       },
-      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Taurion's Manual of Golems.md"
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Taurion's Manual of Golems.md",
+      "identifiedLater": true
     },
     {
       "id": "e003",
@@ -158,7 +159,9 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      }
+      },
+      "note": "People/Dunmari/Amil.md",
+      "confidenceExplanation": "The shipboard martial-arts trainee matches Amil, Kenzo’s apprentice aboard Vindristjarna; the source spelling Amol is retained."
     },
     {
       "id": "e007",
