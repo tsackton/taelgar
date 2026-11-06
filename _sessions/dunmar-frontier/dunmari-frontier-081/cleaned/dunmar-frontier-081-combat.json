@@ -1,0 +1,992 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmar-frontier-081",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-081/cleaned/dunmar-frontier-081-session.yaml",
+    "sessionYamlSha256": "c77bb5bd757d100149f8edf310c3091bd7a9d72780e30324bf5aa1e7adac8f4b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-081/cleaned/dunmar-frontier-081-transcript.md",
+    "transcriptSha256": "dbeb04d81109f072e09ca314e5366ac841f60d7d692caa6d50684640255a7641",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-081/cleaned/dunmar-frontier-081-segments.json",
+      "sha256": "743da97c575f4b062136de1571dcb40db2e263a1b634e0fce8e92536b4c81836",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s014",
+      "encounter": "Ambush of Urgall in his quarters",
+      "note": "Regular recorded cycle is Wellby, Kenzo, Urgall, Delwath, Seeker; initiative totals are not reliably assigned in the conversation. Opening teleports are resolved as the ambush begins.",
+      "openingActions": [
+        {
+          "actor": "Seeker",
+          "kind": "event",
+          "summary": "Dimension Door carries Kenzo into the chamber; the initial proposed passenger Wellby is corrected.",
+          "evidence": [
+            {
+              "startUid": "u6625",
+              "endUid": "u6665"
+            }
+          ]
+        },
+        {
+          "actor": "Delwath",
+          "kind": "event",
+          "summary": "Misty Step brings Delwath into the chamber for the ambush.",
+          "evidence": [
+            {
+              "startUid": "u6625",
+              "endUid": "u6665"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Climbs through the trapdoor and shoots Urgall: 18 hits for 31 damage with Sneak Attack. Steady Aim is denied because he must move up the ladder.",
+              "evidence": [
+                {
+                  "startUid": "u6666",
+                  "endUid": "u6717"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "First staff attack 29 hits for 14; Urgall succeeds on the Charisma disruption save with 19. Second staff attack 14 misses. Flurry of Blows hits twice for 9 and 10; a failed Charisma save charms Urgall, prevents reactions and imposes the stated d4 attack/ability penalty until the end of Kenzo’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u6727",
+                  "endUid": "u6811"
+                },
+                {
+                  "startUid": "u7166",
+                  "endUid": "u7173"
+                }
+              ]
+            },
+            {
+              "actor": "Urgall",
+              "kind": "turn",
+              "summary": "Surprised, skips his first turn.",
+              "evidence": [
+                {
+                  "startUid": "u6806",
+                  "endUid": "u6811"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Mind Sliver: Urgall fails DC 18 Intelligence, taking 9 damage and a d4 penalty to his next save before the end of Delwath’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u6826",
+                  "endUid": "u6847"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Fourth-level Catapult launches holy water. Urgall fails DC 17 Dexterity: 14 becomes 11 after Mind Sliver. The erroneous 40-damage roll is discarded and rerolled to 19.",
+              "evidence": [
+                {
+                  "startUid": "u6867",
+                  "endUid": "u6887"
+                },
+                {
+                  "startUid": "u6919",
+                  "endUid": "u6960"
+                }
+              ],
+              "note": "The later offhand claim of 24 damage at u7101 does not explicitly replace the accepted reroll. The split between projectile and holy-water damage is not resolved numerically."
+            },
+            {
+              "actor": "Urgall",
+              "kind": "event",
+              "summary": "Demonic greed whispers force Charisma saves on the party. Delwath and Seeker succeed; Kenzo’s 14 is raised to 18 by inspiration and succeeds. Wellby’s 5 fails, compelling pursuit of illusory gold.",
+              "evidence": [
+                {
+                  "startUid": "u6899",
+                  "endUid": "u6903"
+                },
+                {
+                  "startUid": "u6961",
+                  "endUid": "u7015"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Inspires Kenzo’s Charisma save against the whispers, raising it from 14 to 18.",
+              "evidence": [
+                {
+                  "startUid": "u6964",
+                  "endUid": "u6997"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Compelled to chase the gold, runs out of the chamber; charmed Urgall cannot make an opportunity attack. Shoots back through the door despite half cover: natural 20 critical deals 61. Charisma 11 fails to end the greed compulsion.",
+              "evidence": [
+                {
+                  "startUid": "u7016",
+                  "endUid": "u7106"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Runs after Wellby and uses Cleansing Touch to end the greed, then returns to punch Urgall for 13. Urgall succeeds on the disrupting Charisma save with 18, regaining reactions as the charm ends.",
+              "evidence": [
+                {
+                  "startUid": "u7108",
+                  "endUid": "u7197"
+                }
+              ]
+            },
+            {
+              "actor": "Urgall",
+              "kind": "turn",
+              "summary": "Teleports outside in flame, explicitly without casting a spell. Fires separate bolts: one is countered by Delwath, one hits Kenzo (24) for 20 fire, and one misses Wellby (12). Kenzo fails Constitution with 1 and suffers an ongoing burning wound.",
+              "evidence": [
+                {
+                  "startUid": "u7198",
+                  "endUid": "u7276"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Counterspell stops the first flame bolt; it does not cancel the subsequent bolts.",
+              "evidence": [
+                {
+                  "startUid": "u7214",
+                  "endUid": "u7252"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves close and casts Mental Prison; Urgall uses legendary resistance against DC 18 Intelligence and closes Kenzo’s burning wound. The spell’s successful-save damage is 37 before Urgall’s absorption reaction. Delwath also applies Hunter’s Mark.",
+              "evidence": [
+                {
+                  "startUid": "u7296",
+                  "endUid": "u7355"
+                },
+                {
+                  "startUid": "u7658",
+                  "endUid": "u7669"
+                }
+              ],
+              "note": "Closing the wound stops its ongoing effect, not the already suffered 20 fire damage. The later rules explanation requires a wounded target for this resistance."
+            },
+            {
+              "actor": "Urgall",
+              "kind": "reaction",
+              "summary": "Absorbs some of Mental Prison’s damage; the absorbed amount is not supplied.",
+              "evidence": [
+                {
+                  "startUid": "u7299",
+                  "endUid": "u7351"
+                }
+              ]
+            },
+            {
+              "actor": "Urgall",
+              "kind": "event",
+              "summary": "Off-turn nonspell fire pillars erupt within thirty feet. Delwath succeeds Dexterity with 21, takes 27 fire; 25 temporary hit points from Armor of Agathys absorb all but 2. Kenzo succeeds with 17 and Evasion takes zero. Wellby’s 11 plus inspiration 2 fails; Evasion halves the damage to 27. Seeker is outside the area.",
+              "evidence": [
+                {
+                  "startUid": "u7356",
+                  "endUid": "u7423"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Adds 2 inspiration to Wellby’s Dexterity save; the total still fails.",
+              "evidence": [
+                {
+                  "startUid": "u7381",
+                  "endUid": "u7406"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Fifth-level Catapult launches the Skaer blade. Urgall succeeds Dexterity with 20; the blade misses and strikes the dormitory.",
+              "evidence": [
+                {
+                  "startUid": "u7426",
+                  "endUid": "u7458"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim. His shot would miss, but Seeker’s inspiration raises the attack to 19, which hits. The resulting damage kills Urgall; its exact total is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u7459",
+                  "endUid": "u7497"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Inspires Wellby’s killing shot, adding 5 to the attack.",
+              "evidence": [
+                {
+                  "startUid": "u7471",
+                  "endUid": "u7486"
+                }
+              ]
+            },
+            {
+              "actor": "Party",
+              "kind": "event",
+              "summary": "Drag Urgall’s body back beside his treasure and retreat through the trapdoor. Delwath conceals the way with Hallucinatory Terrain resembling twenty feet of rubble; they flee back past the junction.",
+              "evidence": [
+                {
+                  "startUid": "u7513",
+                  "endUid": "u7557"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Urgall is killed. The party withdraws to the tunnel after concealing the trapdoor; no item or blessing is awarded within the encounter.",
+        "evidence": [
+          {
+            "startUid": "u7496",
+            "endUid": "u7557"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s018",
+      "encounter": "Tentacled demon in the Sacred Waters",
+      "note": "Kenzo and Wellby receive explicit free turns before initiative. The regular cycle is demon, Wellby, independent summoned tentacles, Delwath, Kenzo, Seeker and Ladder. Later corrections are attached to their original turns.",
+      "openingActions": [
+        {
+          "actor": "Kenzo",
+          "kind": "event",
+          "summary": "Runs to the demon without using the proposed Raven Whistle. Invisible attacks have advantage: staff hits for 7 (Wisdom 19 succeeds) and 12 (Wisdom 7 fails, frightening it). Crusher moves the Huge creature five feet by the table’s exception; it is limited to once this turn. Two Flurry punches deal 8 and 10.",
+          "evidence": [
+            {
+              "startUid": "u8907",
+              "endUid": "u9140"
+            }
+          ]
+        },
+        {
+          "actor": "Wellby",
+          "kind": "event",
+          "summary": "Flies twenty feet and shoots with advantage while invisible, dealing 27. Delwath and Seeker do not receive opening turns because their passive results fail the surprise threshold.",
+          "evidence": [
+            {
+              "startUid": "u9138",
+              "endUid": "u9201"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Tentacled demon",
+              "kind": "turn",
+              "summary": "Fear prevents approaching Kenzo. Grasping Spout: Wellby fails Strength with 10, takes 22 acid and is pulled sixty feet while flying. Four tentacle attacks have disadvantage: both aimed at Wellby miss; both aimed at Kenzo hit for 8 bludgeoning and grapple him. Bite’s natural 20 is reduced by disadvantage to a normal hit (14+9), dealing 28.",
+              "evidence": [
+                {
+                  "startUid": "u9203",
+                  "endUid": "u9326"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Moves half his speed away after being attacked.",
+              "evidence": [
+                {
+                  "startUid": "u9337",
+                  "endUid": "u9341"
+                }
+              ]
+            },
+            {
+              "actor": "Tentacled demon",
+              "kind": "event",
+              "summary": "Mist fills the chamber to the roof, heavily obscuring it until the demon’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u9344",
+                  "endUid": "u9349"
+                },
+                {
+                  "startUid": "u9363",
+                  "endUid": "u9364"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses the amulet to set the shot to 19, hitting for 32. Moves back.",
+              "evidence": [
+                {
+                  "startUid": "u9351",
+                  "endUid": "u9376"
+                }
+              ]
+            },
+            {
+              "actor": "Tentacled demon",
+              "kind": "event",
+              "summary": "Uses an off-turn curse to summon two independent poisonous tentacle creatures, one near Ladder and one near Wellby.",
+              "evidence": [
+                {
+                  "startUid": "u9379",
+                  "endUid": "u9399"
+                }
+              ]
+            },
+            {
+              "actor": "Summoned tentacle at Ladder",
+              "kind": "turn",
+              "summary": "Four attacks at Ladder: 2 and 13 miss, 23 and 19 hit for 17 bludgeoning total and grapple it.",
+              "evidence": [
+                {
+                  "startUid": "u9408",
+                  "endUid": "u9436"
+                }
+              ]
+            },
+            {
+              "actor": "Summoned tentacle at Wellby",
+              "kind": "turn",
+              "summary": "Four attacks at Wellby: 15 and 14 miss; 20 and 18 hit, dealing 13 bludgeoning and grappling him before Uncanny Dodge corrects damage to 9.",
+              "evidence": [
+                {
+                  "startUid": "u9439",
+                  "endUid": "u9465"
+                },
+                {
+                  "startUid": "u9477",
+                  "endUid": "u9485"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uncanny Dodge halves the larger 8-damage tentacle hit to 4, correcting his total damage from 13 to 9.",
+              "evidence": [
+                {
+                  "startUid": "u9477",
+                  "endUid": "u9485"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Banishment targets both summoned tentacles, DC 18 Charisma. Only the one grappling Wellby fails and disappears, freeing him.",
+              "evidence": [
+                {
+                  "startUid": "u9486",
+                  "endUid": "u9512"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Staff hit deals 10 and Crusher pushes five feet; Wisdom 8 fails, so the demon burns a grappling tentacle as legendary resistance to avoid fear. Second staff attack 17 misses. A later Flurry 16 misses and 24 hits for 6; Wisdom 7 fails and another tentacle is burned, freeing Kenzo.",
+              "evidence": [
+                {
+                  "startUid": "u9514",
+                  "endUid": "u9599"
+                }
+              ],
+              "note": "A 19 is mentioned during the Flurry discussion without a clearly separate resolved damage result; no additional hit or damage is invented."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Psychic Lance targets the remaining large summoned tentacle; Intelligence 17 succeeds and it takes 13 damage.",
+              "evidence": [
+                {
+                  "startUid": "u9619",
+                  "endUid": "u9644"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Force Slam 22 hits for 6 force. Remains grappled.",
+              "evidence": [
+                {
+                  "startUid": "u9645",
+                  "endUid": "u9682"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Tentacled demon",
+              "kind": "turn",
+              "summary": "The mist clears. Two tentacles target Kenzo: one hits for 10; bite 21 hits for 30, forty total, leaving him at 11 HP. Moves within Kenzo’s reach. Grasping Spout targets Seeker; Strength 19 succeeds, taking 12 acid without being pulled. A water wave knocks Delwath and Seeker prone and pushes them ten feet after failed Strength saves (14 and 5); it deals no damage. The body develops acidic mucus.",
+              "evidence": [
+                {
+                  "startUid": "u9690",
+                  "endUid": "u9823"
+                }
+              ],
+              "note": "Targets of the wave are corrected to Delwath and Seeker; Ladder is held and unaffected."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Steady Aim shot misses at 17 after halfling reroll of a natural 1 produces another 1.",
+              "evidence": [
+                {
+                  "startUid": "u9854",
+                  "endUid": "u9863"
+                }
+              ]
+            },
+            {
+              "actor": "Tentacled demon",
+              "kind": "event",
+              "summary": "Off-turn curse summons six small tentacle minions, three around each prone caster.",
+              "evidence": [
+                {
+                  "startUid": "u9864",
+                  "endUid": "u9885"
+                }
+              ]
+            },
+            {
+              "actor": "Tentacle minions",
+              "kind": "event",
+              "summary": "Make group attacks with advantage against the prone casters, dealing 3 damage to Delwath and 3 to Seeker.",
+              "evidence": [
+                {
+                  "startUid": "u9889",
+                  "endUid": "u9902"
+                }
+              ]
+            },
+            {
+              "actor": "Summoned tentacle",
+              "kind": "turn",
+              "summary": "Four attacks at Ladder: 2 and 11 miss, 20 and 21 hit for 22 total damage.",
+              "evidence": [
+                {
+                  "startUid": "u9904",
+                  "endUid": "u9915"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Strength 7/8 fails to escape the minions, leaving speed zero and unable to stand. Casts Sickening Radiance into the pool, covering the demon and large summoned tentacle but excluding flying Wellby; applies his bonus-action curse.",
+              "evidence": [
+                {
+                  "startUid": "u9921",
+                  "endUid": "u10046"
+                }
+              ],
+              "note": "Changing concentration ends Banishment, but the transcript does not explicitly resolve a returned creature’s new action."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Staff 21 hits for 11; Wisdom natural 20 saves against fear. Second staff attack at disadvantage hits with 20 for 14, Wisdom 16 succeeds. Flurry at disadvantage hits with 24 for 12; Wisdom 15 meets DC 15 and succeeds. Last attack 17 misses.",
+              "evidence": [
+                {
+                  "startUid": "u10063",
+                  "endUid": "u10161"
+                }
+              ]
+            },
+            {
+              "actor": "Tentacled demon",
+              "kind": "reaction",
+              "summary": "Acidic mucus after Kenzo’s first hit: Dexterity 11 fails, taking 4 acid after Evasion and becoming blinded until the start of his next turn.",
+              "evidence": [
+                {
+                  "startUid": "u10063",
+                  "endUid": "u10084"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Strength 14 fails to escape the grappling minions. Casts sixth-level Wall of Stone, making a dry platform and twenty-foot partial enclosure; no save is required because it does not completely enclose the target.",
+              "evidence": [
+                {
+                  "startUid": "u9990",
+                  "endUid": "u10000"
+                },
+                {
+                  "startUid": "u10167",
+                  "endUid": "u10277"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Hits and kills a small minion for 9 damage.",
+              "evidence": [
+                {
+                  "startUid": "u10279",
+                  "endUid": "u10295"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Tentacled demon",
+              "kind": "turn",
+              "summary": "At start, fails Sickening Radiance Constitution with 13 but burns a third tentacle as legendary resistance, avoiding damage and leaving one original tentacle. Tentacle 13 and bite 17 miss Kenzo. Runs out of the water and radiance; blinded Kenzo cannot take an opportunity attack. Bonus-action steaming acid hits Delwath and Seeker: Delwath boosts Constitution 14 to 16 and succeeds, taking 9 without blindness; Seeker fails with 10, takes 18 and is blinded until the end of the demon’s next turn. Both maintain concentration (Delwath 13; Seeker advantage 10/21). Spout pulls Wellby through Sickening Radiance after Strength 14 fails; he also fails the DC 18 Constitution save against radiance (his total is unstated), receives an exhaustion level, and takes 15 acid from the spout.",
+              "evidence": [
+                {
+                  "startUid": "u10325",
+                  "endUid": "u10520"
+                },
+                {
+                  "startUid": "u10608",
+                  "endUid": "u10611"
+                }
+              ],
+              "note": "The radiance damage to Wellby is spoken as “10 plus 27 damage”; the resulting total is unclear. The spout is an effect, not an attack, so Uncanny Dodge does not apply."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "event",
+              "summary": "Uses the Deno’qai saving-throw boost to turn his acid-spit save into a success.",
+              "evidence": [
+                {
+                  "startUid": "u10370",
+                  "endUid": "u10435"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Moves twenty feet away after the spout.",
+              "evidence": [
+                {
+                  "startUid": "u10521",
+                  "endUid": "u10530"
+                }
+              ]
+            },
+            {
+              "actor": "Sacred pool",
+              "kind": "lair_action",
+              "summary": "Expands five feet in diameter, explicitly not depth.",
+              "evidence": [
+                {
+                  "startUid": "u10531",
+                  "endUid": "u10543"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Steady Aim rolls 17/17; inspiration +1 makes 18, hitting for 29. Drinks a healing potion as bonus action, restoring 18.",
+              "evidence": [
+                {
+                  "startUid": "u10544",
+                  "endUid": "u10601"
+                },
+                {
+                  "startUid": "u10636",
+                  "endUid": "u10636"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Adds 1 inspiration to Wellby’s shot, making it hit.",
+              "evidence": [
+                {
+                  "startUid": "u10544",
+                  "endUid": "u10601"
+                }
+              ]
+            },
+            {
+              "actor": "Summoned tentacle",
+              "kind": "turn",
+              "summary": "Fails Sickening Radiance Constitution with 13, taking 30 radiant and one exhaustion level. At disadvantage its attacks against Wellby show natural 20 and 11: one hit deals 18 before Uncanny Dodge and grapples him; its attack at Ladder misses.",
+              "evidence": [
+                {
+                  "startUid": "u10602",
+                  "endUid": "u10674"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Fails Sickening Radiance Constitution with 13, taking 30 radiant and one exhaustion level. Attacks Wellby twice: natural 20 hits for 18 before Uncanny Dodge, 11 misses; the hit grapples him. A further attack at Ladder misses.",
+              "evidence": [
+                {
+                  "startUid": "u10602",
+                  "endUid": "u10674"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Butterfly teleport escapes the minions. Takes position by the demon, casts Sanctuary on himself as a bonus action and taunts it; makes no sword attack.",
+              "evidence": [
+                {
+                  "startUid": "u10675",
+                  "endUid": "u10696"
+                }
+              ]
+            },
+            {
+              "actor": "Tentacled demon",
+              "kind": "event",
+              "summary": "Its last curse causes the minions and independent summoned creatures to burst into smoke, freeing grapples and regrowing four body tentacles without refreshing legendary resistances. Two bursts near Seeker: disadvantaged Dexterity 15 fails, causing 13 acid and persistent bile.",
+              "evidence": [
+                {
+                  "startUid": "u10697",
+                  "endUid": "u10731"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "The proposed Fist of Planar Power is abandoned. First attack 15 misses; second 18 hits for 9. Wisdom 13 fails and the final legendary tentacle is burned, but the DM still explicitly leaves the demon frightened. Drinks his own healing potion; the amount is not supplied.",
+              "evidence": [
+                {
+                  "startUid": "u10732",
+                  "endUid": "u10881"
+                }
+              ],
+              "note": "Preserves the played fear result despite the simultaneously described legendary resistance."
+            },
+            {
+              "actor": "Tentacled demon",
+              "kind": "reaction",
+              "summary": "Mucus again triggers; Kenzo succeeds Dexterity with 27, taking zero through Evasion and no new blindness.",
+              "evidence": [
+                {
+                  "startUid": "u10871",
+                  "endUid": "u10881"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Ongoing bile deals 13 acid. Advantage Constitution 18 maintains Wall of Stone. Blinded, stands up and cannot cast a sight-dependent spell.",
+              "evidence": [
+                {
+                  "startUid": "u10890",
+                  "endUid": "u10932"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Moves to the demon and attempts Force Slam; natural 1 misses.",
+              "evidence": [
+                {
+                  "startUid": "u10933",
+                  "endUid": "u10952"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Tentacled demon",
+              "kind": "turn",
+              "summary": "Fails Sanctuary Wisdom with 16 and redirects from Delwath to Kenzo. Tentacles 16 misses and 25 hits for 2 bludgeoning, with disadvantage confirmed from fear. Cannot approach Kenzo to bite. Spout: Seeker fails Strength with 2 and is pulled into the poisoned water and Sickening Radiance; Constitution 9 fails, taking 13 radiant plus 14 acid, leaving 1 HP. Bites Ladder at 24 for 25, leaving it 6 HP.",
+              "evidence": [
+                {
+                  "startUid": "u10954",
+                  "endUid": "u11096"
+                }
+              ]
+            },
+            {
+              "actor": "Sacred pool",
+              "kind": "lair_action",
+              "summary": "Expands another five feet.",
+              "evidence": [
+                {
+                  "startUid": "u11097",
+                  "endUid": "u11104"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Arrow 16 plus inspiration 9 hits for 25. The opponent remains active despite an isolated “unconscious” utterance.",
+              "evidence": [
+                {
+                  "startUid": "u11112",
+                  "endUid": "u11140"
+                }
+              ],
+              "note": "Subsequent HP discussion and continuing demon turns contradict a resolved unconscious outcome."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Inspires Wellby’s shot by 9.",
+              "evidence": [
+                {
+                  "startUid": "u11112",
+                  "endUid": "u11124"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "First melee attack 17 misses; second hits for corrected 27 plus 4 Hunter’s Mark, 31 total. Retrospectively spends his bonus action to cast Sanctuary on Seeker with his last spell slot.",
+              "evidence": [
+                {
+                  "startUid": "u11141",
+                  "endUid": "u11185"
+                },
+                {
+                  "startUid": "u11229",
+                  "endUid": "u11239"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "First attack 17 misses; second 19 hits for 14, failed Wisdom frightens the demon. Flurry’s first punch misses and the final hit deals 6.",
+              "evidence": [
+                {
+                  "startUid": "u11244",
+                  "endUid": "u11279"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Starts in poisonous water: Constitution 10 fails for 18 poison, becoming unconscious and slipping underwater. His Wall of Stone concentration ends, confirmed next turn.",
+              "evidence": [
+                {
+                  "startUid": "u11281",
+                  "endUid": "u11326"
+                },
+                {
+                  "startUid": "u11400",
+                  "endUid": "u11403"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Dodges and moves to stand protectively over Seeker’s dying body.",
+              "evidence": [
+                {
+                  "startUid": "u11332",
+                  "endUid": "u11340"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Tentacled demon",
+              "kind": "turn",
+              "summary": "Tentacles at Kenzo: 17 misses; another 18 hits for 2 bludgeoning, the others miss, and the grapple/reel attempt fails. Bite at Delwath misses with 13; Shield of Frost is withdrawn before use. Spout pulls Delwath into the water after Strength is corrected to 15, failing DC 17, and deals 16 acid. Poisonous steam: Delwath fails Constitution with 13, taking 18 poison and blindness until the end of the demon’s next turn; Kenzo’s poison immunity is acknowledged.",
+              "evidence": [
+                {
+                  "startUid": "u11346",
+                  "endUid": "u11452"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "event",
+              "summary": "Drops concentration on Sickening Radiance during the demon’s turn.",
+              "evidence": [
+                {
+                  "startUid": "u11358",
+                  "endUid": "u11361"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "event",
+              "summary": "The table accepts Ladder falling and coiling into the water.",
+              "evidence": [
+                {
+                  "startUid": "u11440",
+                  "endUid": "u11465"
+                }
+              ],
+              "note": "Ladder’s poison immunity is explicitly stated immediately before the accepted fall; the source does not reconcile why the poison takes it down."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Halfling reroll replaces a natural 1 with 18, hitting for corrected 27; the demon is not yet dead.",
+              "evidence": [
+                {
+                  "startUid": "u11468",
+                  "endUid": "u11487"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Starts in the water: failed Constitution causes 10 poison, inserted retrospectively. Both melee attacks at disadvantage from blindness miss. Declares movement out of the water.",
+              "evidence": [
+                {
+                  "startUid": "u11491",
+                  "endUid": "u11510"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Staff 22 hits for 7, staff 23 hits for corrected 11, and an unarmed 19 hits for 13, killing the demon.",
+              "evidence": [
+                {
+                  "startUid": "u11524",
+                  "endUid": "u11574"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath and Seeker",
+              "kind": "event",
+              "summary": "Make immediate post-kill Constitution saves (15 and 11); Seeker also succeeds on a death save with 13. No additional damage total is resolved in this passage.",
+              "evidence": [
+                {
+                  "startUid": "u11578",
+                  "endUid": "u11599"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "event",
+              "summary": "Pulls unconscious Seeker out of the water and gives a potion of greater healing; Seeker returns to consciousness. The later confirmation puts him at 1 HP.",
+              "evidence": [
+                {
+                  "startUid": "u11600",
+                  "endUid": "u11629"
+                },
+                {
+                  "startUid": "u11649",
+                  "endUid": "u11650"
+                },
+                {
+                  "startUid": "u11657",
+                  "endUid": "u11665"
+                }
+              ]
+            },
+            {
+              "actor": "Sacred waters",
+              "kind": "event",
+              "summary": "The demon’s death begins to purge the poisoned water; clean water bubbles in and poison flows out. Ladder returns to an ordinary ladder.",
+              "evidence": [
+                {
+                  "startUid": "u11632",
+                  "endUid": "u11652"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The demon dies from Kenzo’s final punch. Seeker is rescued and revived; the water begins clearing, and Ladder becomes inanimate. No blessing or acquired item is awarded during the resolution.",
+        "evidence": [
+          {
+            "startUid": "u11540",
+            "endUid": "u11652"
+          }
+        ]
+      }
+    }
+  ]
+}

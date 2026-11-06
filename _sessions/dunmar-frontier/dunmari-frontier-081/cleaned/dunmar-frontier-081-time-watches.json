@@ -1,0 +1,491 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-081/cleaned/dunmar-frontier-081-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-081/cleaned/dunmar-frontier-081-time-markers.json",
+    "sha256": "e78a984144a1d718f42fabb242a41a39a3e99915ec9aac9246622932304c533c"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-081/cleaned/dunmar-frontier-081-transcript.md",
+    "sha256": "dbeb04d81109f072e09ca314e5366ac841f60d7d692caa6d50684640255a7641"
+  },
+  "dateAssessment": "Working dates use YAML’s year 1748 and December 17 opening, checked against the spoken December 18, 20, corrected 21, and 22 anchors. The time extraction is compatible, not matched: the salvage summary can repeat December 23 or advance another day, so the bath begins December 24 or 25 and destruction is December 25 or 26. Session 82 u0113–u0115 dates the post-destruction departure from Pyhlla to December 25, and u0118–u0119 identifies the preceding scepter and Vetta victories. This supplies an upper bound favoring December 25; it competes with the local extra-day reading rather than erasing it. YAML’s December 25 is not used to supply a missing day. Historical mirror scenes are separate. The opening inn watch stays open after checking session 80’s different-location handoff. December 22 late-day watches use the nearby December 21 winter-sunset clock of about 15:00 approximately; no exact dawn clock is invented.",
+  "watches": [
+    {
+      "day": "December 17, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Forty-five-minute queue and fifteen-minute examination; the inn’s watch is unstated.",
+      "markers": [
+        "t01",
+        "t02"
+      ],
+      "startDate": "1748-12-17",
+      "endDate": "1748-12-17"
+    },
+    {
+      "day": "December 17, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Kenzo prays for hours through the afternoon; Delwath shops during that interval.",
+      "markers": [
+        "t03",
+        "t04"
+      ],
+      "startDate": "1748-12-17",
+      "endDate": "1748-12-17"
+    },
+    {
+      "day": "December 18, 1748",
+      "startWatch": "morning",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Kenzo’s next-morning tattoo takes a couple of hours; completion can reach midday.",
+      "markers": [
+        "t05",
+        "t06"
+      ],
+      "startDate": "1748-12-18",
+      "endDate": "1748-12-18"
+    },
+    {
+      "day": "December 18, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "December 18 afternoon before the flight.",
+      "markers": [
+        "t07"
+      ],
+      "startDate": "1748-12-18",
+      "endDate": "1748-12-18"
+    },
+    {
+      "day": "December 18–19, 1748",
+      "startWatch": "afternoon",
+      "endWatch": null,
+      "basis": "mixed",
+      "summary": "The first flight day crosses Vostok; its ending watch is not narrated.",
+      "markers": [
+        "t08"
+      ],
+      "startDate": "1748-12-18",
+      "endDate": "1748-12-19"
+    },
+    {
+      "day": "December 20, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "December 20 places the ongoing flight over the Western Green Sea; no watch is supplied.",
+      "markers": [
+        "t09"
+      ],
+      "startDate": "1748-12-20",
+      "endDate": "1748-12-20"
+    },
+    {
+      "day": "December 21, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Arrival corrected to early December 21, not long after dawn.",
+      "markers": [
+        "t10"
+      ],
+      "startDate": "1748-12-21",
+      "endDate": "1748-12-21"
+    },
+    {
+      "day": "December 21, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Low morning sun at Skalme’s temple; Wellby’s brief handling precedes the breakfast wait.",
+      "markers": [
+        "t11",
+        "t12"
+      ],
+      "startDate": "1748-12-21",
+      "endDate": "1748-12-21"
+    },
+    {
+      "day": "December 21, 1748",
+      "startWatch": "morning",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "A couple of hours waiting over breakfast while Skalme works; completion may reach midday.",
+      "markers": [
+        "t13"
+      ],
+      "startDate": "1748-12-21",
+      "endDate": "1748-12-21"
+    },
+    {
+      "day": "December 21, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Seven-hour flight to Pyhlla; passing Vetta and arrival are both near winter sunset, described around 15:00.",
+      "markers": [
+        "t14",
+        "t15",
+        "t16"
+      ],
+      "startDate": "1748-12-21",
+      "endDate": "1748-12-21"
+    },
+    {
+      "day": "December 22, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Blessing at dawn; leave soon afterward.",
+      "markers": [
+        "t17"
+      ],
+      "startDate": "1748-12-22",
+      "endDate": "1748-12-22"
+    },
+    {
+      "day": "December 22, 1748",
+      "startWatch": "morning",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "One-hour flight and two-hour scouting aggregate end four daylight hours before winter sunset; parallel clocks count once.",
+      "markers": [
+        "t18",
+        "t19",
+        "t20",
+        "t21",
+        "t22",
+        "t23"
+      ],
+      "scope": "Split scouting",
+      "startDate": "1748-12-22",
+      "endDate": "1748-12-22",
+      "sourceRanges": [
+        [
+          "u2859",
+          "u2865"
+        ]
+      ]
+    },
+    {
+      "day": "December 22, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "One-hour clearing, concurrent ritual and rest, then half-hour tunnel exploration leave two-and-a-half daylight hours.",
+      "markers": [
+        "t24",
+        "t25",
+        "t26",
+        "t27",
+        "t28",
+        "t29"
+      ],
+      "startDate": "1748-12-22",
+      "endDate": "1748-12-22",
+      "sourceRanges": [
+        [
+          "u2859",
+          "u2865"
+        ]
+      ]
+    },
+    {
+      "day": "December 22, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Brief Clairvoyance delay precedes an hour’s rest, ending ninety minutes before winter sunset.",
+      "markers": [
+        "t30",
+        "t31"
+      ],
+      "startDate": "1748-12-22",
+      "endDate": "1748-12-22",
+      "sourceRanges": [
+        [
+          "u2859",
+          "u2865"
+        ]
+      ]
+    },
+    {
+      "day": "December 22, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Eighty daylight minutes remain; the observation and resolved Augury take about a minute each.",
+      "markers": [
+        "t32",
+        "t33",
+        "t34"
+      ],
+      "startDate": "1748-12-22",
+      "endDate": "1748-12-22",
+      "sourceRanges": [
+        [
+          "u2859",
+          "u2865"
+        ]
+      ]
+    },
+    {
+      "day": "December 22, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "After the roughly one-minute fight, one daylight hour remains; Wellby watches for five minutes.",
+      "markers": [
+        "t35",
+        "t36"
+      ],
+      "startDate": "1748-12-22",
+      "endDate": "1748-12-22",
+      "sourceRanges": [
+        [
+          "u2859",
+          "u2865"
+        ]
+      ]
+    },
+    {
+      "day": "December 22, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Water clears three–four hours after the fight, reaching late afternoon or the edge of dusk.",
+      "markers": [
+        "t37"
+      ],
+      "startDate": "1748-12-22",
+      "endDate": "1748-12-22",
+      "sourceRanges": [
+        [
+          "u2859",
+          "u2865"
+        ]
+      ]
+    },
+    {
+      "day": "December 22–23, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Completed overnight rest ends at sunrise; eight-hour rest convention implies a dusk start.",
+      "markers": [
+        "t38"
+      ],
+      "startDate": "1748-12-22",
+      "endDate": "1748-12-23"
+    },
+    {
+      "day": "Earlier, undated helm vision",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The mirror opens onto earlier piracy; no date or watch is established.",
+      "markers": [
+        "t39"
+      ],
+      "scope": "Historical vision",
+      "clock": "local"
+    },
+    {
+      "day": "Earlier, undated helm vision",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Vision shifts to Tulvak’s nighttime assault; its precise watch is not established.",
+      "markers": [
+        "t40"
+      ],
+      "scope": "Historical vision",
+      "clock": "local"
+    },
+    {
+      "day": "December 23, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Present exploration resumes after the helm vision; restoration of offerings clears the mist.",
+      "markers": [
+        "t41"
+      ],
+      "startDate": "1748-12-23",
+      "endDate": "1748-12-23"
+    },
+    {
+      "day": "During December 23–24, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Salvage takes most of “the next day”; whether that repeats December 23 or advances is unresolved.",
+      "markers": [
+        "t42"
+      ],
+      "dateWindow": [
+        "1748-12-23",
+        "1748-12-24"
+      ]
+    },
+    {
+      "day": "During December 24–25, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Next-day immersion begins; twenty-four hours back from the stated dawn completion places its start near dawn.",
+      "markers": [
+        "t43"
+      ],
+      "dateWindow": [
+        "1748-12-24",
+        "1748-12-25"
+      ],
+      "sourceRanges": [
+        [
+          "u13912",
+          "u13918"
+        ],
+        [
+          "u13940",
+          "u13942"
+        ]
+      ]
+    },
+    {
+      "day": "During December 24–25, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Two hours into the vigil; the sun has risen higher.",
+      "markers": [
+        "t44"
+      ],
+      "dateWindow": [
+        "1748-12-24",
+        "1748-12-25"
+      ]
+    },
+    {
+      "day": "During December 24–25, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "The sun passes noon during the vigil.",
+      "markers": [
+        "t45"
+      ],
+      "dateWindow": [
+        "1748-12-24",
+        "1748-12-25"
+      ]
+    },
+    {
+      "day": "During December 24–25, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "Seven hours into immersion, winter sunset; the nearby 15:00 sunset is approximate orientation.",
+      "markers": [
+        "t46"
+      ],
+      "dateWindow": [
+        "1748-12-24",
+        "1748-12-25"
+      ],
+      "sourceRanges": [
+        [
+          "u2859",
+          "u2865"
+        ]
+      ]
+    },
+    {
+      "day": "During December 24–25, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Three more hours after winter sunset bring dinner hunger; the vigil continues.",
+      "markers": [
+        "t47"
+      ],
+      "dateWindow": [
+        "1748-12-24",
+        "1748-12-25"
+      ],
+      "sourceRanges": [
+        [
+          "u2859",
+          "u2865"
+        ]
+      ]
+    },
+    {
+      "day": "During December 24–26, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "stated",
+      "summary": "Midnight darkness and shadow temptations; the date side of midnight is not fixed.",
+      "markers": [
+        "t48"
+      ],
+      "dateWindow": [
+        "1748-12-24",
+        "1748-12-26"
+      ]
+    },
+    {
+      "day": "During December 25–26, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Dawn is an hour away; Wellby’s predawn check comes twenty-three hours after immersion.",
+      "markers": [
+        "t49",
+        "t50"
+      ],
+      "dateWindow": [
+        "1748-12-25",
+        "1748-12-26"
+      ]
+    },
+    {
+      "day": "During December 25–26, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Twenty-four hours complete just after dawn; the boat appears as the sun rises.",
+      "markers": [
+        "t51",
+        "t52"
+      ],
+      "dateWindow": [
+        "1748-12-25",
+        "1748-12-26"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Supplemental cumulative recording timeline",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-081/sources/supplemental/01-dunmar-frontier-081-source-timeline.json",
+      "sha256": "193a700485f1a1a091339d4bbe35e8bf310918fdcaeb513dca459482d36ff052"
+    },
+    {
+      "label": "Session 80 handoff, checked only for opening watch continuity",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-080/cleaned/dunmar-frontier-080-transcript.md",
+      "sha256": "de5d27ede943bae9d2e91135f3fc43154d8cab048c2b37f47c6ab847efc0993b"
+    },
+    {
+      "label": "Session 82 retrospective departure anchor, u0113–u0119",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-082/cleaned/dunmari-frontier-082-transcript.md",
+      "sha256": "e11b9d8ed90703f7aa0d457b60fba2ecc8e554784164b4b4f216c5dfe1a65642"
+    }
+  ]
+}
