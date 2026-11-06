@@ -1,0 +1,774 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-118",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-session.yaml",
+    "sessionYamlSha256": "1fedd317881e1e48d9efa6b866005c2cc307c864b1a256341454444dc950ccbc",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-transcript.md",
+    "transcriptSha256": "1fcf1567a1aadfa3c28d1092ee3639ab977412faa6eb875eb3b0d2d4cef91002",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-segments.json",
+      "sha256": "eef005eb1c569f0fbd0ce56fb8fcac2804e5c6d1bced47e2c75ce942c5952f7e",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s007",
+      "encounter": "Shadow attack on Vindristjarna",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and an arrow of seeking to hit the giant shadow creature for a stated 41 damage. Its later-described darkness resistance applies except against force, psychic or radiant damage.",
+              "evidence": [
+                {
+                  "startUid": "u0752",
+                  "endUid": "u0765"
+                },
+                {
+                  "startUid": "u1453",
+                  "endUid": "u1457"
+                }
+              ]
+            },
+            {
+              "actor": "Wendshade",
+              "kind": "turn",
+              "summary": "Dives beside the ship and breathes blackness. Dexterity saves leave Seeker and Riswynn taking 37 necrotic each, Delwath 18 on a successful save, and Kenzo none after his successful save. Wellby is outside the cone; Faldrak is beyond its edge. Lirien and her stag disintegrate and become shades; her Amberlight goes out.",
+              "evidence": [
+                {
+                  "startUid": "u0766",
+                  "endUid": "u0785"
+                },
+                {
+                  "startUid": "u0853",
+                  "endUid": "u0854"
+                }
+              ]
+            },
+            {
+              "actor": "Corpse-born shades",
+              "kind": "turn",
+              "summary": "Rush the party; one hits Faldrak and drains his strength to 4.",
+              "evidence": [
+                {
+                  "startUid": "u0788",
+                  "endUid": "u0806"
+                },
+                {
+                  "startUid": "u0823",
+                  "endUid": "u0824"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Soul Sight identifies the giant as CR 13, strong in Dexterity, weak in Intelligence and Wisdom, immune to necrotic damage and blindness. Runs into melee and attacks with advantage: staff hits for 9 and 10, one unarmed strike misses, and two hit for 14 each. The first hit frightens it after a natural-1 Wisdom save, giving its attacks disadvantage.",
+              "evidence": [
+                {
+                  "startUid": "u0828",
+                  "endUid": "u0877"
+                },
+                {
+                  "startUid": "u1478",
+                  "endUid": "u1486"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow fey beside Kenzo",
+              "kind": "reaction",
+              "summary": "Teleports beside Kenzo during his approach, extinguishing a light. Kenzo succeeds on the Constitution save and suffers no effect.",
+              "evidence": [
+                {
+                  "startUid": "u0846",
+                  "endUid": "u0856"
+                }
+              ]
+            },
+            {
+              "actor": "Wendshade",
+              "kind": "legendary_action",
+              "summary": "Attacks Kenzo while fleeing underneath the ship into darkness; its attack misses.",
+              "evidence": [
+                {
+                  "startUid": "u0879",
+                  "endUid": "u0889"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Makes an opportunity attack with advantage as the Wendshade retreats, hitting for 8 damage and using the reaction he would otherwise need for Deflect Attacks.",
+              "evidence": [
+                {
+                  "startUid": "u0881",
+                  "endUid": "u0889"
+                },
+                {
+                  "startUid": "u0946",
+                  "endUid": "u0958"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow fey beside Kenzo",
+              "kind": "turn",
+              "summary": "Its silence aura prevents speech, verbal spells and telepathy. Whispers require Wisdom saves: Kenzo and Delwath succeed for 14 psychic each; Seeker fails for 28 psychic and is frightened. Makes three shadow-blade attacks against Kenzo: first hits for 16 necrotic plus 11 slashing (27), second misses, third hits for a stated 34. Kenzo’s proposed deflection is withdrawn because his reaction was spent.",
+              "evidence": [
+                {
+                  "startUid": "u0890",
+                  "endUid": "u0969"
+                },
+                {
+                  "startUid": "u0998",
+                  "endUid": "u1001"
+                }
+              ]
+            },
+            {
+              "actor": "Harrowing shade beside Wellby",
+              "kind": "turn",
+              "summary": "Teleports to Wellby in the tree and extinguishes two lights. Wellby fails the Constitution save for 12 necrotic and blindness until the start of his next turn (corrected from its end). Rerolls his failed Wisdom save successfully: takes 17 psychic, is not frightened, and becomes immune to further harrowing whispers, as do Kenzo and Delwath. Three blade attacks with advantage hit for a corrected total of 79; he cannot Uncanny Dodge unseen attacks. Its corrupted Amberlight is visible and it threatens to prevent Cloudspinner’s return on behalf of the Shadow That Looms and Silence That Follows.",
+              "evidence": [
+                {
+                  "startUid": "u0973",
+                  "endUid": "u1030"
+                },
+                {
+                  "startUid": "u1062",
+                  "endUid": "u1078"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "With 7 hit points left, uses Skirmisher to climb to the top of the tree.",
+              "evidence": [
+                {
+                  "startUid": "u1031",
+                  "endUid": "u1033"
+                }
+              ]
+            },
+            {
+              "actor": "Faldrak",
+              "kind": "turn",
+              "summary": "Abandons the initial disengage plan and saves himself by Misty Stepping and dashing into the control building; the turret will require another turn to activate before firing.",
+              "evidence": [
+                {
+                  "startUid": "u1091",
+                  "endUid": "u1131"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts Sunburst at four shadow clouds and one sword-bearing fey, leaving the hidden giant outside the target. Three fail Constitution saves and are blinded; two succeed. The stated damage is 35, half on success, with magical darkness dispelled in the area. Remains in place.",
+              "evidence": [
+                {
+                  "startUid": "u1132",
+                  "endUid": "u1201"
+                }
+              ],
+              "note": "Targets are indicated on the map; the final adjudication is three blinded and two successful saves."
+            },
+            {
+              "actor": "Seeker / Eventide",
+              "kind": "turn",
+              "summary": "Frightened, runs away from the fear source through silence. Cannot cast verbal spells or grant the proposed inspiration.",
+              "evidence": [
+                {
+                  "startUid": "u1203",
+                  "endUid": "u1212"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow fey",
+              "kind": "reaction",
+              "summary": "Hits the fleeing Seeker with an opportunity attack for 22 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1203",
+                  "endUid": "u1207"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow clouds",
+              "kind": "turn",
+              "summary": "Advance as darkness spreads. Attacks against Kenzo miss; blinded attackers roll at disadvantage and miss Delwath. A hit drops Wellby with 10 bludgeoning plus 6 necrotic, grappling and suffocating him. A hit on Seeker deals 20 and also leaves him grappled and suffocating.",
+              "evidence": [
+                {
+                  "startUid": "u1213",
+                  "endUid": "u1251"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves without the initially proposed opportunity attack (enemy reaction already spent). Uses Subtle Spell on Scatter to escape silence: Wellby goes inside beside Faldrak, Seeker to the north building rooftop, and hostile fey are moved to the ship’s far edge after the resolved failed Wisdom save. The second target’s save is not separately announced. Then quickens Font of Moonlight on himself, providing extra sword damage, 20 feet of bright light and 20 more of dim light.",
+              "evidence": [
+                {
+                  "startUid": "u1257",
+                  "endUid": "u1363"
+                }
+              ]
+            },
+            {
+              "actor": "Wendshade",
+              "kind": "legendary_action",
+              "summary": "At the end of Delwath’s turn, rakes Kenzo for 15 slashing-plus-necrotic damage before his reaction refreshes. Kenzo fails a Wisdom save and reroll, but the later correction establishes fear immunity: he is not frightened or rooted and the damage stands.",
+              "evidence": [
+                {
+                  "startUid": "u1383",
+                  "endUid": "u1408"
+                },
+                {
+                  "startUid": "u1431",
+                  "endUid": "u1437"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Rolls a critical death save inside the control room, stands with 1 hit point, and ends his turn.",
+              "evidence": [
+                {
+                  "startUid": "u1369",
+                  "endUid": "u1382"
+                }
+              ]
+            },
+            {
+              "actor": "Wendshade",
+              "kind": "turn",
+              "summary": "Makes three Rend attacks against Kenzo: two miss and one hits for a stated 18 damage. The table confirms the hit still succeeds with the disadvantage owed to its frightened condition.",
+              "evidence": [
+                {
+                  "startUid": "u1409",
+                  "endUid": "u1418"
+                },
+                {
+                  "startUid": "u1464",
+                  "endUid": "u1486"
+                }
+              ]
+            },
+            {
+              "actor": "Corpse-born shades",
+              "kind": "turn",
+              "summary": "Both attack Riswynn and miss.",
+              "evidence": [
+                {
+                  "startUid": "u1419",
+                  "endUid": "u1424"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "His fear immunity is recognized, restoring movement and ordinary attack rolls. Attacks the Wendshade without advantage: staff hits for 15 and 10, two unarmed strikes hit for 14 and 10, and the last misses. Reapplies Frightening Strike via the Wisdom-save resolution; the giant is bloodied.",
+              "evidence": [
+                {
+                  "startUid": "u1431",
+                  "endUid": "u1437"
+                },
+                {
+                  "startUid": "u1487",
+                  "endUid": "u1509"
+                }
+              ]
+            },
+            {
+              "actor": "Wendshade",
+              "kind": "legendary_action",
+              "summary": "Makes a Rend attack that misses, then flees underneath the ship again. Kenzo deliberately retains his reaction.",
+              "evidence": [
+                {
+                  "startUid": "u1510",
+                  "endUid": "u1514"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow fey",
+              "kind": "turn",
+              "summary": "Teleportation extinguishes more lights. Delwath fails a Constitution save, takes 15 necrotic and is blinded until his turn starts. Riswynn’s Wisdom save resolves as 10 psychic and immunity to Horror Nimbus; a Constitution effect deals 15 necrotic and blinds her until her turn starts. Delwath’s moonlight is the remaining bright light.",
+              "evidence": [
+                {
+                  "startUid": "u1515",
+                  "endUid": "u1544"
+                }
+              ]
+            },
+            {
+              "actor": "Faldrak",
+              "kind": "turn",
+              "summary": "Activates the ice turret so it can fire on his next turn.",
+              "evidence": [
+                {
+                  "startUid": "u1545",
+                  "endUid": "u1548"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Blindness ends; moves outside silence and casts Conjure Celestial. The targeted enemy fails its Dexterity save for 36 damage; the pillar heals Delwath for 30.",
+              "evidence": [
+                {
+                  "startUid": "u1546",
+                  "endUid": "u1555"
+                },
+                {
+                  "startUid": "u1564",
+                  "endUid": "u1622"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker / Eventide",
+              "kind": "turn",
+              "summary": "Summons a medium iron construct and uses his bonus action to command Ladder. Attempts to grant inspiration, but the revised recipient is garbled after noting Wellby already has it.",
+              "evidence": [
+                {
+                  "startUid": "u1623",
+                  "endUid": "u1626"
+                },
+                {
+                  "startUid": "u1639",
+                  "endUid": "u1642"
+                },
+                {
+                  "startUid": "u1651",
+                  "endUid": "u1653"
+                }
+              ],
+              "note": "The final inspiration recipient cannot be recovered from the polished text."
+            },
+            {
+              "actor": "Iron construct",
+              "kind": "turn",
+              "summary": "Pummels a blinded shadow cloud with advantage: four attacks hit for a corrected total of 60, leaving it bloodied.",
+              "evidence": [
+                {
+                  "startUid": "u1626",
+                  "endUid": "u1637"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Attacks the blinded enemy with advantage, but misses.",
+              "evidence": [
+                {
+                  "startUid": "u1639",
+                  "endUid": "u1646"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow clouds",
+              "kind": "turn",
+              "summary": "Blind attackers roll at disadvantage: three miss the construct and one hits; that attacker takes 6 fire damage from the construct. Three fail their checks to end blindness. A wandering blind cloud misses Riswynn twice. The sighted clouds close on Kenzo and Riswynn and force repeated Wisdom saves; both shake off the creeping-eye effects, including Kenzo’s 17 and 27.",
+              "evidence": [
+                {
+                  "startUid": "u1647",
+                  "endUid": "u1650"
+                },
+                {
+                  "startUid": "u1654",
+                  "endUid": "u1687"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "One sword attack misses and two hit for 17 and 26 radiant/slashing. Moves out of silence, lighting the area, and quickens Synaptic Static (Intelligence DC 19): one save succeeds, two fail; 25 psychic, half on success, and failed saves impose minus 1d6 on attacks and ability checks. The corpse-born shades vanish. A later concentration check has advantage; after low rolls he spends a further resource, and Font of Moonlight remains in use.",
+              "evidence": [
+                {
+                  "startUid": "u1688",
+                  "endUid": "u1725"
+                },
+                {
+                  "startUid": "u1754",
+                  "endUid": "u1763"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow fey",
+              "kind": "reaction",
+              "summary": "Both teleport beside Delwath at his turn’s end, forcing two Constitution saves: 17 succeeds, 11 fails. He takes 14 necrotic and is blinded until his next turn.",
+              "evidence": [
+                {
+                  "startUid": "u1726",
+                  "endUid": "u1741"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim to shoot a lightning arrow through the control-room doorway at the farthest shadow. The target takes a stated 55; the line forces DC 15 Dexterity saves for 14 lightning, or 7 for the closest creature that succeeds. Three in the path fail; no enemy dies. A silence aura vanishes.",
+              "evidence": [
+                {
+                  "startUid": "u1742",
+                  "endUid": "u1804"
+                }
+              ],
+              "note": "Map pointers establish the line but do not unambiguously name every intermediate target; no extra damage ledger is inferred."
+            },
+            {
+              "actor": "Wendshade",
+              "kind": "turn",
+              "summary": "Remains hidden while frightened of Kenzo; no new attack is resolved.",
+              "evidence": [
+                {
+                  "startUid": "u1805",
+                  "endUid": "u1810"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Soul Sights the shadow clouds: strong Strength, weak Intelligence, immune to poison and numerous conditions including charm, fear, paralysis, petrification, stun and unconsciousness; resistant to necrotic and psychic. Attacks the most wounded nearby cloud: staff hits for 13 and 16, one unarmed attack misses, two hit for 7 and 13. It remains alive.",
+              "evidence": [
+                {
+                  "startUid": "u1819",
+                  "endUid": "u1847"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow fey",
+              "kind": "turn",
+              "summary": "Make six attacks against Delwath. His Shield blocks all but one hit, which deals a stated 19 necrotic/psychic. He succeeds on the concentration check. The table states everyone is immune to their horror aura, so they do not repeat it.",
+              "evidence": [
+                {
+                  "startUid": "u1855",
+                  "endUid": "u1873"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Casts Shield against the fey attacks, bringing AC to the stated 25–26 and preventing the lower hits.",
+              "evidence": [
+                {
+                  "startUid": "u1855",
+                  "endUid": "u1864"
+                }
+              ]
+            },
+            {
+              "actor": "Faldrak",
+              "kind": "turn",
+              "summary": "Fires the ice cannon at the badly wounded shadow fey. The corrected resolution counts four hits including a natural-20 critical, 10d6 damage, and kills it.",
+              "evidence": [
+                {
+                  "startUid": "u1874",
+                  "endUid": "u1889"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves the celestial pillar beside the construct: both enemies fail DC 18 Dexterity saves and take 43; one dies and the other is bloodied. Hits a wounded enemy near Kenzo with Shatterstorm for a subsequently confirmed 34, not quite killing it. Retrospectively adds bonus-action Healing Word before the next flurry, healing Kenzo for 27.",
+              "evidence": [
+                {
+                  "startUid": "u1894",
+                  "endUid": "u1953"
+                },
+                {
+                  "startUid": "u1970",
+                  "endUid": "u1976"
+                },
+                {
+                  "startUid": "u2001",
+                  "endUid": "u2005"
+                },
+                {
+                  "startUid": "u2016",
+                  "endUid": "u2017"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker / Eventide",
+              "kind": "turn",
+              "summary": "While retaining concentration, casts seventh-level Rune of Psychic Disruption: the target fails its Intelligence save, takes 35 and is incapacitated until Seeker’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u1954",
+                  "endUid": "u1966"
+                }
+              ]
+            },
+            {
+              "actor": "Iron construct",
+              "kind": "turn",
+              "summary": "Three attacks hit and one misses, killing its target with the pummeling.",
+              "evidence": [
+                {
+                  "startUid": "u1967",
+                  "endUid": "u1969"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow clouds",
+              "kind": "turn",
+              "summary": "Close on Riswynn and Kenzo. All attacks on Riswynn miss. Two hit Kenzo: he deflects the first; the second deals 24 bludgeoning/necrotic and leaves him grappled and suffocating.",
+              "evidence": [
+                {
+                  "startUid": "u1977",
+                  "endUid": "u1985"
+                },
+                {
+                  "startUid": "u2000",
+                  "endUid": "u2014"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the 18-damage shadow fist and redirects it to a wounded creature. That creature fails DC 17 Dexterity, takes 20 and vanishes.",
+              "evidence": [
+                {
+                  "startUid": "u1983",
+                  "endUid": "u1999"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "With advantage, hits the adjacent fey three times for 52 radiant/slashing and adds a smite for 21, leaving it badly hurt. Moves to spread his light. The later clarification puts the loss of its silence aura at the end of this turn, when it falls below 30 hit points; the proposed prone condition is withdrawn.",
+              "evidence": [
+                {
+                  "startUid": "u2020",
+                  "endUid": "u2046"
+                },
+                {
+                  "startUid": "u2050",
+                  "endUid": "u2050"
+                },
+                {
+                  "startUid": "u2055",
+                  "endUid": "u2059"
+                },
+                {
+                  "startUid": "u2103",
+                  "endUid": "u2105"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots the fey Delwath just wounded for 38; it remains barely alive. The competing blinded/static target is distinguished in the discussion.",
+              "evidence": [
+                {
+                  "startUid": "u2047",
+                  "endUid": "u2068"
+                }
+              ]
+            },
+            {
+              "actor": "Wendshade",
+              "kind": "turn",
+              "summary": "Recovered from fright, attacks Seeker from hiding with advantage: all three hit for 47. Seeker narrowly makes three Constitution saves with advantage, then falls unconscious; concentration on the construct is lost.",
+              "evidence": [
+                {
+                  "startUid": "u2070",
+                  "endUid": "u2094"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Activates Lengau’s Claw for 15-foot reach and 2d6 extra damage. First two punches kill the wounded fey (first 8, second at least 15 before the interrupted addition); remaining hits deal 14, 11 and a critical 22 to a cloud. The retroactive end-of-turn Acrobatics check is 22, freeing him from the grapple.",
+              "evidence": [
+                {
+                  "startUid": "u2099",
+                  "endUid": "u2164"
+                },
+                {
+                  "startUid": "u2234",
+                  "endUid": "u2240"
+                }
+              ]
+            },
+            {
+              "actor": "Faldrak",
+              "kind": "turn",
+              "summary": "Fires eight icicle blasts at the giant threatening Seeker; the resolved attacks include a natural-20 critical, cold damage is not resisted, and a poor 9d6 roll leaves it alive.",
+              "evidence": [
+                {
+                  "startUid": "u2165",
+                  "endUid": "u2172"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves Conjure Celestial over Seeker and the giant, healing Seeker for 27 and dealing 30 to the giant. Moves herself and hits the alert cloud with Shatterstorm for 45, wounding it.",
+              "evidence": [
+                {
+                  "startUid": "u2173",
+                  "endUid": "u2190"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker / Eventide",
+              "kind": "turn",
+              "summary": "Rejects the initial T-rex idea and becomes a giant ape with 157 hit points. Does not attack yet and stays in place rather than using the proposed leap.",
+              "evidence": [
+                {
+                  "startUid": "u2191",
+                  "endUid": "u2205"
+                },
+                {
+                  "startUid": "u2214",
+                  "endUid": "u2222"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Scores a natural-20 critical against the giant; its 2d10+5 roll does not finish the creature with 22 hit points left.",
+              "evidence": [
+                {
+                  "startUid": "u2206",
+                  "endUid": "u2211"
+                }
+              ],
+              "note": "The source continues Ladder’s attack after Seeker lost concentration; that played outcome is retained without external rules correction."
+            },
+            {
+              "actor": "Shadow clouds",
+              "kind": "turn",
+              "summary": "The blind, Synaptic Static-affected cloud hits Kenzo despite disadvantage and the penalty, for 18 bludgeoning-plus-necrotic; he deflects it. A wounded cloud’s attacks on Riswynn are announced as a miss and a hit without damage. The final attack pair, 16 and 20 against Riswynn, both misses.",
+              "evidence": [
+                {
+                  "startUid": "u2220",
+                  "endUid": "u2225"
+                },
+                {
+                  "startUid": "u2234",
+                  "endUid": "u2242"
+                }
+              ],
+              "note": "Map pointers do not establish whether the last two misses revise the earlier hit or belong to another cloud; the unresolved hit has no stated damage."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the cloud’s hit and redirects into the wounded creature; its Dexterity save fails and it takes 11.",
+              "evidence": [
+                {
+                  "startUid": "u2226",
+                  "endUid": "u2233"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves toward and curses the wounded giant for extra damage, then blasts it. Uses 2d4 to improve an attack to 21 after poor rolls; the resolved hit kills it and he regains hit points.",
+              "evidence": [
+                {
+                  "startUid": "u2243",
+                  "endUid": "u2262"
+                }
+              ],
+              "note": "The target is tracked from the giant’s remaining hit points and final Ladder attack; the source’s rolled damage/AC discussion is disfluent, so no attack-by-attack reconstruction is added."
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Targets the wounded remaining cloud; the table accepts the finishing shot without another roll.",
+              "evidence": [
+                {
+                  "startUid": "u2263",
+                  "endUid": "u2269"
+                }
+              ]
+            },
+            {
+              "actor": "Party",
+              "kind": "event",
+              "summary": "The rest is resolved in compressed narration: Kenzo harries the final creature, Faldrak fires ice arrows, Riswynn attacks, and Seeker’s giant ape leaps across the battlefield and finishes it with his fists.",
+              "evidence": [
+                {
+                  "startUid": "u2270",
+                  "endUid": "u2275"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The attackers are defeated after a compressed final exchange. Lirien and her stag were destroyed and turned into shades during the attack; neither is restored during combat.",
+        "evidence": [
+          {
+            "startUid": "u0783",
+            "endUid": "u0785"
+          },
+          {
+            "startUid": "u2270",
+            "endUid": "u2275"
+          }
+        ]
+      },
+      "note": "The encounter’s closing turns are compressed by the DM; no further individual turn cycles are invented. Map pointers leave some identical cloud targets unnamed."
+    }
+  ]
+}

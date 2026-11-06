@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-118",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-session.yaml",
+    "sessionYamlSha256": "1fedd317881e1e48d9efa6b866005c2cc307c864b1a256341454444dc950ccbc",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-transcript.md",
+    "transcriptSha256": "1fcf1567a1aadfa3c28d1092ee3639ab977412faa6eb875eb3b0d2d4cef91002",
+    "yamlDates": {
+      "start": "1749-05-30",
+      "end": "1749-05-30"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0008",
+        "endUid": "u0018"
+      },
+      "reading": "The opening aboard Vindristjarna is late at night, approximately 11 p.m.",
+      "evidence": [
+        {
+          "startUid": "u0008",
+          "endUid": "u0018",
+          "quote": "So we begin late at night, probably 11 pm."
+        }
+      ],
+      "time": {
+        "clock": "23:00",
+        "partOfDay": "late night",
+        "precision": "approximate",
+        "basis": "DM explicitly dates the opening; no calendar date is spoken."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0115",
+        "endUid": "u0118"
+      },
+      "reading": "Seeker has been quiet for about five minutes of the ongoing conversation.",
+      "evidence": [
+        {
+          "startUid": "u0115",
+          "endUid": "u0118",
+          "quote": "1st Seeker's been quiet for the past 5 min or so"
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM retrospectively establishes the elapsed silence during current play."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0269",
+        "endUid": "u0272"
+      },
+      "reading": "Delwath finishes the deeper thought probe and nods after about a minute.",
+      "evidence": [
+        {
+          "startUid": "u0269",
+          "endUid": "u0272",
+          "quote": "Delwath will sort of nod after a minute"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed action, not the proposed spell duration."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u2336",
+        "endUid": "u2342"
+      },
+      "reading": "The party flies through the night and the following day, reaching the desert portal around evening before nightfall.",
+      "evidence": [
+        {
+          "startUid": "u2336",
+          "endUid": "u2342",
+          "quote": "you travel, moving as quickly as you can through the night and into the next day and into the next afternoon and around— Yeah, you get a long rest, and around evening before nightfall, you reach this strange place in the desert"
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "timeRange": {
+        "start": {
+          "partOfDay": "night",
+          "precision": "approximate",
+          "basis": "Departure after the night encounter."
+        },
+        "end": {
+          "partOfDay": "evening before nightfall",
+          "relative": {
+            "relation": "after",
+            "reference": "t01",
+            "anchor": "The following day after the opening night."
+          },
+          "precision": "approximate",
+          "basis": "Explicit next-day travel and evening arrival."
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u2336",
+        "endUid": "u2342"
+      },
+      "reading": "The party receives a completed long rest during the flight to the desert portal.",
+      "evidence": [
+        {
+          "startUid": "u2336",
+          "endUid": "u2342",
+          "quote": "Yeah, you get a long rest"
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention; the narration grants the rest during travel without specifying its clock endpoints."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t04"
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "conflict",
+    "dateAnchor": "No absolute campaign date is spoken. May 30, 1749 is the YAML opening assumption; the next-day arrival would then be May 31.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": 1,
+    "evidence": [
+      "t01",
+      "t04",
+      "t05"
+    ],
+    "explanation": "Current play begins around 23:00 and explicitly continues through the next day to an evening arrival. The recap’s corrected six-days-earlier defeat and same-morning return are background, not newly played earlier scenes. The long rest is nested in travel and supplies no additional calendar transition. The same-day YAML span contradicts the established overnight journey."
+  }
+}
