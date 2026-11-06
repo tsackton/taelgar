@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "lost-in-the-feywild-003",
+    "sessionYaml": "_sessions/feywild/lost-in-the-feywild-003/cleaned/lost-in-the-feywild-003-session.yaml",
+    "sessionYamlSha256": "1a4811d43a8cbec1d8703a2816c72679b89a43d884585a8673a39356aae0fada",
+    "transcriptPath": "_sessions/feywild/lost-in-the-feywild-003/cleaned/lost-in-the-feywild-003-transcript.md",
+    "transcriptSha256": "0470948a5ed1c3a0d35df8b0ff8798c86a3498ecfad4a816d19d8d0a2825f73e"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0001"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0111"
+      },
+      "category": "session_framing",
+      "note": "Opening recap recounts the preceding session; it does not advance current play."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0112",
+        "endUid": "u0119"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0120",
+        "endUid": "u1937"
+      },
+      "category": "gameplay",
+      "note": "Includes accepted retrospective actions, in-character planning, and brief metagame clarifications within active investigation."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1938",
+        "endUid": "u1966"
+      },
+      "category": "table_talk",
+      "note": "Sustained discussion of AI arithmetic; the DM’s intended fictional semiprime count is retained in the interaction evidence."
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1967",
+        "endUid": "u2073"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2074",
+        "endUid": "u2094"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2095",
+        "endUid": "u2114"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2115",
+        "endUid": "u2118"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2119",
+        "endUid": "u2598"
+      },
+      "category": "gameplay",
+      "note": "The closing camera cut and unheard soliloquy depict an event in play, followed by confirmation of the owl’s location."
+    }
+  ]
+}
