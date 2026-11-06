@@ -1,0 +1,1610 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-108",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+    "sessionYamlSha256": "6a6ffa0e68c35a18aca5e58c6d9f7af0687feeaf1e220358e16c1df980a8cb0b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-transcript.md",
+    "transcriptSha256": "103e3505e672498e70879a8e0b49164fef6cdf3edb512d970f3c796b26e8689f"
+  },
+  "places": {
+    "p01": {
+      "label": "Circular Island",
+      "kind": "island",
+      "evidence": [
+        {
+          "startUid": "u0381",
+          "endUid": "u0394",
+          "quote": "DM: Um, the, so the shape of the forest is like a kind of—it's actually kind of like a semi-circle where in this, this segment, this sort of northwestern corner, the forest doesn't extend nearly as far from the edge and it extends maybe a bit further than you've drawn, drawn elsewhere.\n\nDelwath: So it goes like that?\n\nDM: It, yeah. Maybe more like, and in the north too, like maybe more like that. Um, uh, so it, it does, it, it does seem like this northwest quadrant, which is, after all, the, this is the closest part of the island to the mainland.\n\nDelwath: Right.\n\nWellby: Mm-hmm.\n\nDM: If you were sailing from the mainland-\n\nDelwath: Right.\n\nDM: ... as you did to here, this is where you would land."
+        },
+        {
+          "startUid": "u4827",
+          "endUid": "u4827",
+          "quote": "Wellby: Circular Island."
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    "p02": {
+      "label": "Pilgrim’s hostel at the Wanderer statue",
+      "kind": "hostel and temple grounds",
+      "evidence": [
+        {
+          "startUid": "u0550",
+          "endUid": "u0554",
+          "quote": "DM: Okay. So as you gather at the base at this, uh, pilgrim's hostel at the edge of, at the, on the edge of the road, and you can see... So basically, if you, if you hug the coast and just go straight along the coast, um, you can come to the, um, you can come to the, the port town itself in, in about an hour's walk if you're trying to be a little bit hidden and, and, and sneaky without crossing next to any of the, without coming more than half a mile from any of the obvious towers. If you cut inland slightly, there's a tower that's about a mile from your current location, but like diagonally inland about half a mile."
+        }
+      ],
+      "note": "Session 107’s registered narrative, u0019–u0025, identifies this continuing site as the Wanderer pilgrimage hostel. The present transcript calls it the pilgrim’s hostel at the divine statue.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0377",
+              "endUid": "u0389",
+              "quote": "DM: It's like, it's like six miles across roughly.\n\nDelwath: And if we look out like towards these other wedges, do they seem, like the south wedge between the Night Queen and The Wanderer, is that also like settled in or does it seem more wild? Can we tell?\n\nDM: Um, the, so the shape of the forest is like a kind of—it's actually kind of like a semi-circle where in this, this segment, this sort of northwestern corner, the forest doesn't extend nearly as far from the edge and it extends maybe a bit further than you've drawn, drawn elsewhere.\n\nDelwath: So it goes like that?\n\nDM: It, yeah. Maybe more like, and in the north too, like maybe more like that. Um, uh, so it, it does, it, it does seem like this northwest quadrant, which is, after all, the, this is the closest part of the island to the mainland."
+            },
+            {
+              "startUid": "u0447",
+              "endUid": "u0452",
+              "quote": "Delwath: So exploring in a circular fashion is gonna take us a long time.\n\nWellby: What did you calculate for the circumference?\n\nDelwath: Well, it's, the circumference would be 125 miles, right? If the radius is 20.\n\nWellby: That's a long walk, right?\n\nDM: It's about 15 miles in between each statue."
+            },
+            {
+              "startUid": "u0550",
+              "endUid": "u0554",
+              "quote": "DM: Okay. So as you gather at the base at this, uh, pilgrim's hostel at the edge of, at the, on the edge of the road, and you can see... So basically, if you, if you hug the coast and just go straight along the coast, um, you can come to the, um, you can come to the, the port town itself in, in about an hour's walk if you're trying to be a little bit hidden and, and, and sneaky without crossing next to any of the, without coming more than half a mile from any of the obvious towers. If you cut inland slightly, there's a tower that's about a mile from your current location, but like diagonally inland about half a mile."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Top of the coastal statue",
+      "kind": "lookout",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0004",
+          "quote": "DM: Yeah, I mean, you're 200 feet up."
+        },
+        {
+          "startUid": "u0017",
+          "endUid": "u0032",
+          "quote": "DM: Yeah. So okay, two things you notice as you get to the top. One is that, um, you can see that at the, um... So at the ocean spots, so the, the statue is, like, standing with—the cliffs go here; the statue's standing here. So the cliffs come up to, like, the base of its, the base of its legs, and then it goes-\n\nDelwath: Yeah.\n\nDM: ... extends 150 feet out from there. Um, and you couldn't really see this before because it's blocked by the legs, but there's a ruin. It looks like there maybe once was a pier, extending out, like in, nestled in between the legs.\n\nDelwath: Mm.\n\nDM: Um, all you can see now are the, like, pilings.\n\nDelwath: Mm-hmm.\n\nDM: But there's a clear row of stone pilings that extend out, and there's steps carved into the side of the cliff that go up to meet the base of the road."
+        }
+      ],
+      "note": "The continuing Wanderer statue is identified by the session 107 narrative u0019–u0025; the climb itself is current-session evidence.",
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0017",
+              "endUid": "u0032",
+              "quote": "DM: Yeah. So okay, two things you notice as you get to the top. One is that, um, you can see that at the, um... So at the ocean spots, so the, the statue is, like, standing with—the cliffs go here; the statue's standing here. So the cliffs come up to, like, the base of its, the base of its legs, and then it goes-\n\nDelwath: Yeah.\n\nDM: ... extends 150 feet out from there. Um, and you couldn't really see this before because it's blocked by the legs, but there's a ruin. It looks like there maybe once was a pier, extending out, like in, nestled in between the legs.\n\nDelwath: Mm.\n\nDM: Um, all you can see now are the, like, pilings.\n\nDelwath: Mm-hmm.\n\nDM: But there's a clear row of stone pilings that extend out, and there's steps carved into the side of the cliff that go up to meet the base of the road."
+            },
+            {
+              "startUid": "u0550",
+              "endUid": "u0554",
+              "quote": "DM: Okay. So as you gather at the base at this, uh, pilgrim's hostel at the edge of, at the, on the edge of the road, and you can see... So basically, if you, if you hug the coast and just go straight along the coast, um, you can come to the, um, you can come to the, the port town itself in, in about an hour's walk if you're trying to be a little bit hidden and, and, and sneaky without crossing next to any of the, without coming more than half a mile from any of the obvious towers. If you cut inland slightly, there's a tower that's about a mile from your current location, but like diagonally inland about half a mile."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0017",
+              "endUid": "u0032",
+              "quote": "DM: Yeah. So okay, two things you notice as you get to the top. One is that, um, you can see that at the, um... So at the ocean spots, so the, the statue is, like, standing with—the cliffs go here; the statue's standing here. So the cliffs come up to, like, the base of its, the base of its legs, and then it goes-\n\nDelwath: Yeah.\n\nDM: ... extends 150 feet out from there. Um, and you couldn't really see this before because it's blocked by the legs, but there's a ruin. It looks like there maybe once was a pier, extending out, like in, nestled in between the legs.\n\nDelwath: Mm.\n\nDM: Um, all you can see now are the, like, pilings.\n\nDelwath: Mm-hmm.\n\nDM: But there's a clear row of stone pilings that extend out, and there's steps carved into the side of the cliff that go up to meet the base of the road."
+            },
+            {
+              "startUid": "u0377",
+              "endUid": "u0389",
+              "quote": "DM: It's like, it's like six miles across roughly.\n\nDelwath: And if we look out like towards these other wedges, do they seem, like the south wedge between the Night Queen and The Wanderer, is that also like settled in or does it seem more wild? Can we tell?\n\nDM: Um, the, so the shape of the forest is like a kind of—it's actually kind of like a semi-circle where in this, this segment, this sort of northwestern corner, the forest doesn't extend nearly as far from the edge and it extends maybe a bit further than you've drawn, drawn elsewhere.\n\nDelwath: So it goes like that?\n\nDM: It, yeah. Maybe more like, and in the north too, like maybe more like that. Um, uh, so it, it does, it, it does seem like this northwest quadrant, which is, after all, the, this is the closest part of the island to the mainland."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Ruined port town",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0305",
+          "endUid": "u0346",
+          "quote": "DM: You can just, you can see a bit more detail about the landscape in general, right? So the first thing you can see is that the, this area just to the north, like, you know, two, two, one to two miles to the north—um, where you can see these, where you could see these towers before.\n\nKenzo: Yeah.\n\nDM: ... like from this perspective up here you can see clearly what looks like a ruined town in the center of that. And the layout seems to be that there's a t- I mean, the town's been utterly destroyed. Like there's no bu- nothing has a roof. It's all just-\n\nKenzo: Right.\n\nDM: ... noth- there's nothing taller than one story. It's all just walls. But you can, you know, you can see-\n\nKenzo: Wait, what would-\n\nDM: Look, those that are now-\n\nKenzo: But the towers are higher than one story.\n\nDM: Yeah. So they're in the town itself. It's a port. You can see these like docks as well. Like-\n\nKenzo: Ah, okay. So this is on the coast.\n\nDM: ... there, there's clearly a sort of port infrastructure. Um-\n\nSeeker: What would destroy things in a way that just rips the roof off and then leaves the walls standing?\n\nDelwath: Like that seems like-\n\nWellby: Some sort of like magic blast.\n\nDelwath: Yeah.\n\nDM: Well, it's not—I mean, the walls are—not all the walls are standing.\n\nDelwath: Yeah. Mm-hmm.\n\nDM: And nothing's higher than, you know...\n\nSeeker: So maybe like a, a very powerful storm.\n\nDM: Yeah. Something like that. Um, and then surrounding this port-\n\nWellby: There's a dog on the porch.\n\nDM: Hi, doggy.\n\nWellby: A dog out on the porch.\n\nDelwath: That's weird.\n\nDM: I think that the neighbor's dog, they were, I heard them calling it before. Surrounding this port, like for a few miles in every direction, it, you can see what look like the ruins of like towers and manors and various little estates on the outskirts of the town. And this is what these things you could see. Some of these seem to be less destroyed than the, than the town itself."
+        }
+      ],
+      "vaultPath": "Worldbuilding/Staging/Dunmar/Alectia.md",
+      "note": "Identified as Alectia by the Circular Island reference note and Ghesh’s note. The current transcript leaves the port unnamed; the staging page is empty.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0350",
+              "endUid": "u0367",
+              "quote": "DM: That's the only town you can see, but there's more details. So the other is that on the far outskirts of the town, you can see what looks like a relatively intact, like very big structure, like a coliseum, um, to the north. Um, and it's, it's a, it's a bit of, it's maybe two or three miles from the town itself. Um, the town's not very big. But then you can also see from here the landscape.\n\nDelwath: Yeah.\n\nDM: Like you can see sort of stretching all through this kind of core segment of this kind of wedge of the, um, of the island. Like every—in a few different places scattered in the distance, you can see these little like ruins of what seem like maybe were estates or, or manors or something.\n\nDelwath: [clears throat]\n\nDM: It seemed like a lot of, at least this part of the island was...\n\nDelwath: So this wedge here.\n\nDM: Yeah.\n\nDelwath: Between the Mother and The Wanderer.\n\nDM: That wedge more. Um, and then extending into the burned region. So on the burned region you can see like what looks like a ruined villa on top of a little hill."
+            },
+            {
+              "startUid": "u0377",
+              "endUid": "u0389",
+              "quote": "DM: It's like, it's like six miles across roughly.\n\nDelwath: And if we look out like towards these other wedges, do they seem, like the south wedge between the Night Queen and The Wanderer, is that also like settled in or does it seem more wild? Can we tell?\n\nDM: Um, the, so the shape of the forest is like a kind of—it's actually kind of like a semi-circle where in this, this segment, this sort of northwestern corner, the forest doesn't extend nearly as far from the edge and it extends maybe a bit further than you've drawn, drawn elsewhere.\n\nDelwath: So it goes like that?\n\nDM: It, yeah. Maybe more like, and in the north too, like maybe more like that. Um, uh, so it, it does, it, it does seem like this northwest quadrant, which is, after all, the, this is the closest part of the island to the mainland."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Red-orange scar and ruined hilltop villa",
+      "kind": "scarred region",
+      "evidence": [
+        {
+          "startUid": "u0366",
+          "endUid": "u0377",
+          "quote": "DM: That wedge more. Um, and then extending into the burned region. So on the burned region you can see like what looks like a ruined villa on top of a little hill.\n\nDelwath: Where's the burned region again?\n\nDM: It's that squiggly thing right there.\n\nDelwath: This?\n\nDM: Yeah.\n\nDelwath: Okay. So the burned region is—\n\nSeeker: not a huge fraction of the whole-\n\nDM: No, no.\n\nDelwath: ... island.\n\nDM: It's like, it's like six miles across roughly."
+        },
+        {
+          "startUid": "u0471",
+          "endUid": "u0476",
+          "quote": "DM: Uh, also just to be clear, when I'm describing the burned region, it's not a region of the island that's burned, it's a region of the island that looks like a burn, so it's like scarred and reddish.\n\nDelwath: Right, it's not black.\n\nDM: It's not black. It's not like a fire burned the area.\n\nDelwath: Yeah.\n\nDM: It's like there's this weird sort of garish red, orangey scar. So..."
+        }
+      ],
+      "note": "The scar resembles a burn; it is not described as fire-charred ground. The hilltop villa is viewed, not visited.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0366",
+              "endUid": "u0389",
+              "quote": "DM: That wedge more. Um, and then extending into the burned region. So on the burned region you can see like what looks like a ruined villa on top of a little hill.\n\nDelwath: Where's the burned region again?\n\nDM: It's that squiggly thing right there.\n\nDelwath: This?\n\nDM: Yeah.\n\nDelwath: Okay. So the burned region is—\n\nSeeker: not a huge fraction of the whole-\n\nDM: No, no.\n\nDelwath: ... island.\n\nDM: It's like, it's like six miles across roughly.\n\nDelwath: And if we look out like towards these other wedges, do they seem, like the south wedge between the Night Queen and The Wanderer, is that also like settled in or does it seem more wild? Can we tell?\n\nDM: Um, the, so the shape of the forest is like a kind of—it's actually kind of like a semi-circle where in this, this segment, this sort of northwestern corner, the forest doesn't extend nearly as far from the edge and it extends maybe a bit further than you've drawn, drawn elsewhere.\n\nDelwath: So it goes like that?\n\nDM: It, yeah. Maybe more like, and in the north too, like maybe more like that. Um, uh, so it, it does, it, it does seem like this northwest quadrant, which is, after all, the, this is the closest part of the island to the mainland."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Coliseum north of the town",
+      "kind": "arena",
+      "evidence": [
+        {
+          "startUid": "u0350",
+          "endUid": "u0356",
+          "quote": "DM: That's the only town you can see, but there's more details. So the other is that on the far outskirts of the town, you can see what looks like a relatively intact, like very big structure, like a coliseum, um, to the north. Um, and it's, it's a, it's a bit of, it's maybe two or three miles from the town itself. Um, the town's not very big. But then you can also see from here the landscape."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0350",
+              "endUid": "u0356",
+              "quote": "DM: That's the only town you can see, but there's more details. So the other is that on the far outskirts of the town, you can see what looks like a relatively intact, like very big structure, like a coliseum, um, to the north. Um, and it's, it's a, it's a bit of, it's maybe two or three miles from the town itself. Um, the town's not very big. But then you can also see from here the landscape."
+            }
+          ],
+          "note": "The view places it about two or three miles from the town; it is not entered."
+        }
+      ]
+    },
+    "p07": {
+      "label": "Manor grounds at Ghesh’s tower",
+      "kind": "estate grounds",
+      "evidence": [
+        {
+          "startUid": "u0562",
+          "endUid": "u0579",
+          "quote": "DM: And you two are sort of a little bit ahead being sneaky. Okay. Um, so as you, as you cross the road and you begin to enter into a little bit more disturbed terrain, um, there actually are still a few trees growing here and, uh, very quickly within about a 10 minute walk, um, you seem to be entering into what looks like the outskirts of, um, a large sort of manor grounds.\n\nDM: The, the vibe is kind of like, um, you know, like those, uh, what Victorian English manors where it's like natural gardens, but clearly sculpted, right? So there's, there's trees. There's sort of not—not everything... I mean, some things are obviously have grown quite wild, right? But you can still get a bit of a sense of like, there's still a few paths that cut through the trees. Um, there's like a little lake that you can see on, in a depression. There's a statue that's been cracked and is like just mostly buried by the dirt, but that you can still see a little bit sticking up that looks like it used to be like a, you know, a little gazebo with a statue, like a sort of sitting point by the lake.\n\nDM: Um, and, but rather than a traditional like English villa, about half a mile ahead of you, um, sort of perched a little bit on some high ground, there's a tower, like a pretty wide tower. It's probably... 100 feet in diameter or something like that."
+        },
+        {
+          "startUid": "u0622",
+          "endUid": "u0625",
+          "quote": "DM: Okay. So the, the, just to imagine the layout here, there's, there's like a, a, a dell with a, with a overgrown forest in it, and then there's a path that leads to the dell that goes up to the sort of a, a cleared hill. The tower is set upon the top of the cleared hill, and then just below the dell there's like a depression with this lake and some ruins around the lake. And you two are sneaking up towards the tower through the forest quite quietly, and you're just—you two are just like walking on the path."
+        }
+      ],
+      "note": "An estate in the ruined port’s locality; the source leaves settlement boundaries open.",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0341",
+              "endUid": "u0356",
+              "quote": "DM: I think that the neighbor's dog, they were, I heard them calling it before. Surrounding this port, like for a few miles in every direction, it, you can see what look like the ruins of like towers and manors and various little estates on the outskirts of the town. And this is what these things you could see. Some of these seem to be less destroyed than the, than the town itself.\n\nKenzo: This is where we retire.\n\nDelwath: Now, is this the only, like, is this the only town? Is this like the main town of the island or is there-\n\nDM: That's the only town you can see, but there's more details. So the other is that on the far outskirts of the town, you can see what looks like a relatively intact, like very big structure, like a coliseum, um, to the north. Um, and it's, it's a, it's a bit of, it's maybe two or three miles from the town itself. Um, the town's not very big. But then you can also see from here the landscape."
+            },
+            {
+              "startUid": "u1040",
+              "endUid": "u1066",
+              "quote": "DM: ... so, uh, yes. Um, so now that you're closer and you're sort of focusing not quite so much detail on the, on the sort of burned region and the path, but trying to assess the general area, um, two things that you note. One is that the, the town itself and some but not all of the villas, um, but, but really mostly the town, like, you get these strong waves of this sort of echoing death and evil that reminds you very strongly of, like, Kharsan, like the plague echoes in Kharsan.\n\nKenzo: Whoa.\n\nDM: And there's definitely, like, unquiet spirits that sort of haunt the s- the town.\n\nKenzo: Any inside this tower?\n\nDM: No, no, no. The tower is the... Actually, you're, like, you have this sort of... You're, like, closing your eyes and... This is six ki, by the way, so m- you can mark it off.\n\nKenzo: Okay.\n\nDM: But the, the, the layout you see is it's like, it's like a sort of... tessellated map. Like there's regions of sort of unquiet dead plague echoes, and there's regions of dragonets, and they don't intersect. Like the dragonets don't go where the dead plague echoes are.\n\nDelwath: But that's all just in this area here.\n\nDM: Just in that ar- really mostly the town. Your, your sense actually is it probably correlates pretty strongly with ancient population density.\n\nDelwath: So somebody destroyed the town with a plague.\n\nDM: Mm-hmm.\n\nDelwath: And the dragonets are living in the bits where the plague death doesn't still echo strongly.\n\nDM: Perfect."
+            },
+            {
+              "startUid": "u3100",
+              "endUid": "u3109",
+              "quote": "DM: Um, okay, so over the course of the next two hours you invisibly make your way across the landscape to the eaves of the forests. Um, you do see one pair of dragonets flying overhead, but they do not see you, as you are invisible. They seem to be heading south and unlikely to be related to any of your doings. Um, and the terrain, you know, so as you get further from the city the, the manors spread out. You pass a couple more of these, um, those things that look like possibly ancient tent sites with-"
+            }
+          ],
+          "note": "The source groups the villas with the ruined-town area without fixing municipal boundaries."
+        }
+      ]
+    },
+    "p08": {
+      "label": "Tower occupied by Ghesh’s group",
+      "kind": "tower",
+      "evidence": [
+        {
+          "startUid": "u0575",
+          "endUid": "u0604",
+          "quote": "DM: Um, and, but rather than a traditional like English villa, about half a mile ahead of you, um, sort of perched a little bit on some high ground, there's a tower, like a pretty wide tower. It's probably... 100 feet in diameter or something like that.\n\nUnknown: Oh, okay.\n\nDM: It only goes up about three stories, um, and then there's a sort of open roof, and then a smaller tower that extends up a- another 50 feet or so before it's cracked at the top.\n\nKenzo: So wait, like-\n\nDM: Yeah.\n\nKenzo: ... what do you mean by an o- like-\n\nDM: There's a roof.\n\nKenzo: ... is there two towers?\n\nDM: So there's one tower.\n\nKenzo: So there's like one tower-\n\nDM: There's a second tower on top.\n\nKenzo: ... coming up from the mi- Oh, on top.\n\nDM: ... but it's, it's like, it's like, you know, the Empire State Building or something. There's like clearly a place you can go walk around outside after the three stories of the bigger tower.\n\nKenzo: A roof deck.\n\nDM: Right. There's a roof deck.\n\nKenzo: Ah.\n\nDM: And then there's a smaller tower that goes up, but the smaller tower is clearly cut. Like it's, it's-\n\nKenzo: Sure.\n\nDM: ... it's cracked. It might have once gone up who knows how long, but it only goes up about like maybe 30 feet from the roof. Um, and you can see at this distance, um, Kenzo and Wellby go ahead and make stealth checks."
+        },
+        {
+          "startUid": "u1194",
+          "endUid": "u1199",
+          "quote": "Kenzo: Right, right, right. Okay, so now... All right, so are any of the other ones wanting to play? Is, is, is, is it just, it's just been me and Ghesh one-on-one right now?\n\nDM: It, the vibe that you get actually is that they, um, Ghesh is like the biggest and the bossiest of them, and seems to have, by some—maybe in that whispered conversation or by unspoken agreement—sort of muscled them out of the game. And as long as he's winning, isn't gonna let anybody else try and take his place."
+        },
+        {
+          "startUid": "u1549",
+          "endUid": "u1564",
+          "quote": "DM: But clearly the vibe was he was the sort of bossy one.\n\nKenzo: Yeah.\n\nDM: And he was the one who insisted on gambling.\n\nKenzo: Yeah.\n\nDM: You don't-\n\nKenzo: All right.\n\nDM: ... you just don't know whether he ordered somebody or if he-\n\nKenzo: So this, this is like kind of... It's like, it's like his, his mini clan.\n\nDM: Yeah.\n\nKenzo: You know? It's like his little-\n\nWellby: Yep.\n\nKenzo: ... his little-\n\nDM: The vibe from the gambling was definitely that.\n\nKenzo: Yeah.\n\nDM: Like, he was clearly the don."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0622",
+              "endUid": "u0625",
+              "quote": "DM: Okay. So the, the, just to imagine the layout here, there's, there's like a, a, a dell with a, with a overgrown forest in it, and then there's a path that leads to the dell that goes up to the sort of a, a cleared hill. The tower is set upon the top of the cleared hill, and then just below the dell there's like a depression with this lake and some ruins around the lake. And you two are sneaking up towards the tower through the forest quite quietly, and you're just—you two are just like walking on the path."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Badly ruined plague-zone manor between the towers",
+      "kind": "ruined estate",
+      "evidence": [
+        {
+          "startUid": "u1709",
+          "endUid": "u1720",
+          "quote": "DM: So it, it, what it, it looks like what they're gonna do actually is go, um, sort of o- off the other side of the tower and then down the hill, and then he describes the way. It's like if you keep going north that direction, you're gonna hit a plague zone. So we have to cut west through like a really ba—the edge of a really badly ruined manor, and then like basically go... It's like there's, it's like one, one manor over. You can actually see the tower that he's talking about. Um-\n\nDelwath: I mean-\n\nDM: ... it's only about a, it's like a mile and a half or two miles away.\n\nDelwath: Right. Okay.\n\nDM: But there's like a, a sort of badly ruined plague zone manor in between."
+        },
+        {
+          "startUid": "u1825",
+          "endUid": "u1856",
+          "quote": "DM: ... what, what... You can't, you can't see this because it's on the other side of the hill. So like what you see is the hill with the sort of ruined tower.\n\nUnknown: Yeah.\n\nDM: And then you can see beyond that there seems like a more intact tower.\n\nKenzo: Ugh.\n\nDM: Which is like two miles away, that seems like your destination. But in between-\n\nUnknown: There's a-\n\nDM: ... there's like a, a area that's—there's like what used to be like a villa, not a tower-\n\nUnknown: Right.\n\nDM: ... that had like carefully manicured, like, Italianate, like, gardens.\n\nUnknown: Yeah.\n\nDM: But it's just completely ruined.\n\nKenzo: Overgrown.\n\nDM: Right? It's like overgrown and the plants... There's like s- weird statues that-\n\nUnknown: They're, like, moving around and killing people.\n\nDM: ... they're not moving around, but they're, like, weirdly intact.\n\nUnknown: Right.\n\nDM: And there's-\n\nUnknown: They have, like, grotesque looks on their faces.\n\nDM: Yeah, exactly.\n\nUnknown: And they will kill people if you go near them.\n\nDM: Right. And there's, like, the hedges that have sort of gone wild.\n\nUnknown: Okay.\n\nDM: And it, like, very looks...\n\nUnknown: Evil.\n\nDM: ... clearly looks dangerous to walk through.\n\nUnknown: I think we just-\n\nDM: But if you go around it-\n\nUnknown: Yeah.\n\nDM: ... you know, you pass, you basically are passing through sort of open land."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1709",
+              "endUid": "u1720",
+              "quote": "DM: So it, it, what it, it looks like what they're gonna do actually is go, um, sort of o- off the other side of the tower and then down the hill, and then he describes the way. It's like if you keep going north that direction, you're gonna hit a plague zone. So we have to cut west through like a really ba—the edge of a really badly ruined manor, and then like basically go... It's like there's, it's like one, one manor over. You can actually see the tower that he's talking about. Um-\n\nDelwath: I mean-\n\nDM: ... it's only about a, it's like a mile and a half or two miles away.\n\nDelwath: Right. Okay.\n\nDM: But there's like a, a sort of badly ruined plague zone manor in between."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Megren’s tower grounds",
+      "kind": "estate grounds",
+      "evidence": [
+        {
+          "startUid": "u2218",
+          "endUid": "u2249",
+          "quote": "DM: ... you get to the tower. Um, there's definitely more... So you can see as you approach, like he flies up and he, like, you know, talks to a few people and, and introdu... you know, g- gives them a little bit of a story and like, you know, don't, this is hush-hush. Like, you can tell he's trying to pr- preserve his, like-\n\nKenzo: Yeah, yeah.\n\nDM: ... his edge here.\n\nKenzo: Yeah.\n\nDM: Um, this is a, this is, this is much nicer. So the, the tower here is, uh, this looks like a sort of traditional wizard's tower, right? Like it's-\n\nKenzo: Hmm.\n\nDM: ... uh, you know, 100 feet tall.\n\nKenzo: Wow.\n\nDM: Um, c- basically completely int- intact except for, um, it looks like there once might have been a spire or something on the top [dice rolling] that's sort of cracked and has been crudely re-roofed, um, with just sort of s- like jumbles of stone and stuff, so there is a, is a roof.\n\nDM: Um, the, the grounds have clearly been like recently, uh, t- sort of tended. Like, there's a few, there's, um, what look like, uh, kind of—they're not really houses, but there's like almost like lean tos, like little places where people could shelter from bad weather that have been built with like just stone that's been carried, big slabs of stone that have been carried from elsewhere, just kind of dropped and arranged. So like it almost looks like there's a tiny little, um, uh, small village around the base of this tower and the, um, like there's been...\n\nDM: There's no trees here. This was once—there's like a—there was once like a long, um, reflecting pool that went from the base of the tower that's sort of lined with marble, which is, still has water in it and there's, like you can see a couple of, of, um, dragonets like diving and, and bathing in it. This is like much nicer than the other tower.\n\nDM: And, um, there's probably 30 dragonets around here, um, a bigger group, and Megren flies down after, um, Ghesh introduces you. She's wearing, um, a, like a chain around her neck-"
+        }
+      ],
+      "note": "Megren meets Kenzo outside the tower. His companions follow invisibly, but their exact stopping point remains open.",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1040",
+              "endUid": "u1066",
+              "quote": "DM: ... so, uh, yes. Um, so now that you're closer and you're sort of focusing not quite so much detail on the, on the sort of burned region and the path, but trying to assess the general area, um, two things that you note. One is that the, the town itself and some but not all of the villas, um, but, but really mostly the town, like, you get these strong waves of this sort of echoing death and evil that reminds you very strongly of, like, Kharsan, like the plague echoes in Kharsan.\n\nKenzo: Whoa.\n\nDM: And there's definitely, like, unquiet spirits that sort of haunt the s- the town.\n\nKenzo: Any inside this tower?\n\nDM: No, no, no. The tower is the... Actually, you're, like, you have this sort of... You're, like, closing your eyes and... This is six ki, by the way, so m- you can mark it off.\n\nKenzo: Okay.\n\nDM: But the, the, the layout you see is it's like, it's like a sort of... tessellated map. Like there's regions of sort of unquiet dead plague echoes, and there's regions of dragonets, and they don't intersect. Like the dragonets don't go where the dead plague echoes are.\n\nDelwath: But that's all just in this area here.\n\nDM: Just in that ar- really mostly the town. Your, your sense actually is it probably correlates pretty strongly with ancient population density.\n\nDelwath: So somebody destroyed the town with a plague.\n\nDM: Mm-hmm.\n\nDelwath: And the dragonets are living in the bits where the plague death doesn't still echo strongly.\n\nDM: Perfect."
+            },
+            {
+              "startUid": "u1709",
+              "endUid": "u1720",
+              "quote": "DM: So it, it, what it, it looks like what they're gonna do actually is go, um, sort of o- off the other side of the tower and then down the hill, and then he describes the way. It's like if you keep going north that direction, you're gonna hit a plague zone. So we have to cut west through like a really ba—the edge of a really badly ruined manor, and then like basically go... It's like there's, it's like one, one manor over. You can actually see the tower that he's talking about. Um-\n\nDelwath: I mean-\n\nDM: ... it's only about a, it's like a mile and a half or two miles away.\n\nDelwath: Right. Okay.\n\nDM: But there's like a, a sort of badly ruined plague zone manor in between."
+            },
+            {
+              "startUid": "u2218",
+              "endUid": "u2249",
+              "quote": "DM: ... you get to the tower. Um, there's definitely more... So you can see as you approach, like he flies up and he, like, you know, talks to a few people and, and introdu... you know, g- gives them a little bit of a story and like, you know, don't, this is hush-hush. Like, you can tell he's trying to pr- preserve his, like-\n\nKenzo: Yeah, yeah.\n\nDM: ... his edge here.\n\nKenzo: Yeah.\n\nDM: Um, this is a, this is, this is much nicer. So the, the tower here is, uh, this looks like a sort of traditional wizard's tower, right? Like it's-\n\nKenzo: Hmm.\n\nDM: ... uh, you know, 100 feet tall.\n\nKenzo: Wow.\n\nDM: Um, c- basically completely int- intact except for, um, it looks like there once might have been a spire or something on the top [dice rolling] that's sort of cracked and has been crudely re-roofed, um, with just sort of s- like jumbles of stone and stuff, so there is a, is a roof.\n\nDM: Um, the, the grounds have clearly been like recently, uh, t- sort of tended. Like, there's a few, there's, um, what look like, uh, kind of—they're not really houses, but there's like almost like lean tos, like little places where people could shelter from bad weather that have been built with like just stone that's been carried, big slabs of stone that have been carried from elsewhere, just kind of dropped and arranged. So like it almost looks like there's a tiny little, um, uh, small village around the base of this tower and the, um, like there's been...\n\nDM: There's no trees here. This was once—there's like a—there was once like a long, um, reflecting pool that went from the base of the tower that's sort of lined with marble, which is, still has water in it and there's, like you can see a couple of, of, um, dragonets like diving and, and bathing in it. This is like much nicer than the other tower.\n\nDM: And, um, there's probably 30 dragonets around here, um, a bigger group, and Megren flies down after, um, Ghesh introduces you. She's wearing, um, a, like a chain around her neck-"
+            },
+            {
+              "startUid": "u3100",
+              "endUid": "u3109",
+              "quote": "DM: Um, okay, so over the course of the next two hours you invisibly make your way across the landscape to the eaves of the forests. Um, you do see one pair of dragonets flying overhead, but they do not see you, as you are invisible. They seem to be heading south and unlikely to be related to any of your doings. Um, and the terrain, you know, so as you get further from the city the, the manors spread out. You pass a couple more of these, um, those things that look like possibly ancient tent sites with-"
+            }
+          ],
+          "note": "This is another estate in the town-and-villas area; exact settlement boundaries are open."
+        }
+      ]
+    },
+    "p11": {
+      "label": "Megren’s tower",
+      "kind": "tower",
+      "evidence": [
+        {
+          "startUid": "u2225",
+          "endUid": "u2234",
+          "quote": "DM: Um, this is a, this is, this is much nicer. So the, the tower here is, uh, this looks like a sort of traditional wizard's tower, right? Like it's-\n\nKenzo: Hmm.\n\nDM: ... uh, you know, 100 feet tall.\n\nKenzo: Wow.\n\nDM: Um, c- basically completely int- intact except for, um, it looks like there once might have been a spire or something on the top [dice rolling] that's sort of cracked and has been crudely re-roofed, um, with just sort of s- like jumbles of stone and stuff, so there is a, is a roof."
+        },
+        {
+          "startUid": "u2247",
+          "endUid": "u2267",
+          "quote": "DM: And, um, there's probably 30 dragonets around here, um, a bigger group, and Megren flies down after, um, Ghesh introduces you. She's wearing, um, a, like a chain around her neck-\n\nKenzo: Hmm.\n\nDM: ... that's no- nothing like gold or metal or shiny, but it's like a, it's like a rope chain that then has this like very nice sort of polished wood, um, sort of amulet, um, that like clearly is like some, you know, some reward that was not shiny enough to be importantly kept in the hoard-\n\nKenzo: Hmm.\n\nDM: ... but was gifted to her. It looks old. It looks like, um, actually, it looks vaguely Elvish to your eyes.\n\nKenzo: Hmm.\n\nDM: Um, and she's sort of a, a slightly bigger than Ghesh, slightly greener than Ghesh, more of like an olive color.\n\nKenzo: Mm-hmm.\n\nDM: Um, and she flies down and, um, kind of gives you a little bow and, \"Welcome to my humble abode.\"\n\nKenzo: Kenzo also bows and, and looks up. \"This is more than humble. This is very, very beautiful. Very nice.\"\n\nDM: Well, we have been working over the past few weeks, uh, since... Well, now it is mine, in fact."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2235",
+              "endUid": "u2249",
+              "quote": "DM: Um, the, the grounds have clearly been like recently, uh, t- sort of tended. Like, there's a few, there's, um, what look like, uh, kind of—they're not really houses, but there's like almost like lean tos, like little places where people could shelter from bad weather that have been built with like just stone that's been carried, big slabs of stone that have been carried from elsewhere, just kind of dropped and arranged. So like it almost looks like there's a tiny little, um, uh, small village around the base of this tower and the, um, like there's been...\n\nDM: There's no trees here. This was once—there's like a—there was once like a long, um, reflecting pool that went from the base of the tower that's sort of lined with marble, which is, still has water in it and there's, like you can see a couple of, of, um, dragonets like diving and, and bathing in it. This is like much nicer than the other tower.\n\nDM: And, um, there's probably 30 dragonets around here, um, a bigger group, and Megren flies down after, um, Ghesh introduces you. She's wearing, um, a, like a chain around her neck-"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Interior forest",
+      "kind": "forest",
+      "evidence": [
+        {
+          "startUid": "u3136",
+          "endUid": "u3164",
+          "quote": "DM: And so the forest itself, um, it's, at least here it's fairly open and airy and light, and the sun is shining. Um, you know, it's, it's not... It's sort of tall, sort of jungly trees, but light. Like, there's a lot of light coming through. There's like flowers growing in the under—understory. It's not like a real rainforest where you've got this closed canopy and then it's like really dense beneath, right? It's a pretty open forest. Um...\n\nDM: But still when you s—I mean, when you step inside at 7:00, like you know, sun—sun sets quickly in the tropics, and you know, it's already start—the light is starting to get low, and so there's long shadows that are kind of cast across the, the, you know, the few open clearings that you pass through.\n\nDM: Um, and you can actually see, so the, the pilgrim's path, you can see it goes straight, you know, kind of through the forest for, um, you know, for a while. Like, for a few miles anyway. You can... But it's like looking up like a cleared road, right? So there's no—there's trees that sort of form a canopy above it, but there's nothing growing on the road. There's no like sprouts sticking up. There's no roots that are disrupting the pavement, so it's like a very—you can't see very far in any other direction. But you can see quite far in that distance.\n\nDM: And, and what you f—what you see is like it comes after maybe five or six miles, it sort of meets—it begins to like s- like it turns, and you can't see how it turns, but it looks like it joins with all the, probably your guess is it joins with all the other paths and it begins to sort of spiral up the mountain. But this now is, because it's not a straight path, right, we can't see it."
+        },
+        {
+          "startUid": "u3320",
+          "endUid": "u3326",
+          "quote": "Kenzo: I, right now I've still got like nine ki or whatever, so how about, how about I do, um... Yeah, just I'll, I'll, I'll do a, a search in the forest specifically for, um, looking for the energy, actually over the whole island actually, specifically looking for the energy of an elder, the oldest bit dragonet energy-\n\nDM: Okay.\n\nKenzo: ... on the pl- on this, this island.\n\nDM: Mm. Um, in the monastery on the top of the mountain."
+        },
+        {
+          "startUid": "u4278",
+          "endUid": "u4282",
+          "quote": "Seeker: I wonder if this is, this is a solitary tree or a network of trees.\n\nUnknown: I mean, it's probably the whole... Yeah, the, the, the forest.\n\nDM: Yeah, it's, I mean, it's clearly the, like it's the whole forest.\n\nUnknown: Yeah.\n\nDM: It's all one thing."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3320",
+              "endUid": "u3326",
+              "quote": "Kenzo: I, right now I've still got like nine ki or whatever, so how about, how about I do, um... Yeah, just I'll, I'll, I'll do a, a search in the forest specifically for, um, looking for the energy, actually over the whole island actually, specifically looking for the energy of an elder, the oldest bit dragonet energy-\n\nDM: Okay.\n\nKenzo: ... on the pl- on this, this island.\n\nDM: Mm. Um, in the monastery on the top of the mountain."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Northern pilgrim road through the forest",
+      "kind": "road",
+      "evidence": [
+        {
+          "startUid": "u3124",
+          "endUid": "u3132",
+          "quote": "DM: Very few, uh, plants grow, just like little scrubby grasses and things. Um, the only animals that you see regularly are like little lizards that are s- scurrying around eating bugs. But as you, so as you approach, so it's a pretty smooth journey. I mean, the terrain's not that difficult to navigate. Um, you can see the forest getting closer. You, you reach the edge of the forest just about where the pilgrim's path that comes from the north enters the forest."
+        },
+        {
+          "startUid": "u3150",
+          "endUid": "u3164",
+          "quote": "DM: Um, and you can actually see, so the, the pilgrim's path, you can see it goes straight, you know, kind of through the forest for, um, you know, for a while. Like, for a few miles anyway. You can... But it's like looking up like a cleared road, right? So there's no—there's trees that sort of form a canopy above it, but there's nothing growing on the road. There's no like sprouts sticking up. There's no roots that are disrupting the pavement, so it's like a very—you can't see very far in any other direction. But you can see quite far in that distance.\n\nDM: And, and what you f—what you see is like it comes after maybe five or six miles, it sort of meets—it begins to like s- like it turns, and you can't see how it turns, but it looks like it joins with all the, probably your guess is it joins with all the other paths and it begins to sort of spiral up the mountain. But this now is, because it's not a straight path, right, we can't see it."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u3150",
+              "endUid": "u3160",
+              "quote": "DM: Um, and you can actually see, so the, the pilgrim's path, you can see it goes straight, you know, kind of through the forest for, um, you know, for a while. Like, for a few miles anyway. You can... But it's like looking up like a cleared road, right? So there's no—there's trees that sort of form a canopy above it, but there's nothing growing on the road. There's no like sprouts sticking up. There's no roots that are disrupting the pavement, so it's like a very—you can't see very far in any other direction. But you can see quite far in that distance."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Murky memory pool beside the road",
+      "kind": "pool",
+      "evidence": [
+        {
+          "startUid": "u3423",
+          "endUid": "u3438",
+          "quote": "DM: ... walking, it's like 8:00 at night, um, uh, you pass again, um, a place where, um, a stream seems to flow like on the right side, or sorry, on the left side now 'cause the east seems to s- s- flow close to the, very close to the, the, um, the road.\n\nDelwath: Does the, does the forest keep going up the mountain or-\n\nDM: About halfway up the mountain.\n\nDelwath: Okay. So we're still in the forest.\n\nDM: You're still in the... You haven't hit the part where it spirals yet. When-\n\nKenzo: And is the stream—and the—is the stream flowing up or down?\n\nDM: Down, but it's stopped. Like it's stopped. You can see it flowing and it stops. And by the side of the, by the side of the road, there's this big pool which the stream flows into, but doesn't exit from."
+        },
+        {
+          "startUid": "u3448",
+          "endUid": "u3462",
+          "quote": "DM: Um, so you, you walk, you walk over to the pool, um, and as you get closer, you see that the, um, the water is kind of murky and filled with like debris. And there's two stones that are sort of standing next to it, like sort of an entryway to a little viewing area over the pool that are actually cracked. One has fallen in half and part of the stone has, um, fallen into the pool itself. And you can see staring out at you from the pool, like the reflections of people with hollow eyes, their faces contorted in pain. Make a wisdom saving throw.\n\nUnknown: Everybody or just-\n\nDM: Just Kenzo. He's the only one who's—\n\nDelwath: [laughs] Well, I don't know. I was thinking we might have all followed him, but I guess not. [laughs] Thanks for being the, um, guinea pig, Kenzo."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u3430",
+              "endUid": "u3438",
+              "quote": "Delwath: Okay. So we're still in the forest.\n\nDM: You're still in the... You haven't hit the part where it spirals yet. When-\n\nKenzo: And is the stream—and the—is the stream flowing up or down?\n\nDM: Down, but it's stopped. Like it's stopped. You can see it flowing and it stops. And by the side of the, by the side of the road, there's this big pool which the stream flows into, but doesn't exit from."
+            }
+          ]
+        },
+        {
+          "relation": "adjacent_to",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u3423",
+              "endUid": "u3438",
+              "quote": "DM: ... walking, it's like 8:00 at night, um, uh, you pass again, um, a place where, um, a stream seems to flow like on the right side, or sorry, on the left side now 'cause the east seems to s- s- flow close to the, very close to the, the, um, the road.\n\nDelwath: Does the, does the forest keep going up the mountain or-\n\nDM: About halfway up the mountain.\n\nDelwath: Okay. So we're still in the forest.\n\nDM: You're still in the... You haven't hit the part where it spirals yet. When-\n\nKenzo: And is the stream—and the—is the stream flowing up or down?\n\nDM: Down, but it's stopped. Like it's stopped. You can see it flowing and it stops. And by the side of the, by the side of the road, there's this big pool which the stream flows into, but doesn't exit from."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Forest-road rest site by the next pool",
+      "kind": "roadside stop",
+      "evidence": [
+        {
+          "startUid": "u3522",
+          "endUid": "u3537",
+          "quote": "DM: Okay. [laughs] So you ke- you keep going and, and you're now-\n\nUnknown: We'll get that on the way back.\n\nDM: ... another-\n\nKenzo: All right. I will though.\n\nDM: ... um, it's another, uh, mile or so as you, the pa—the road begins to like go slightly up, um, and you can see about, um, half a mile ahead is the place where it curved that you can't—you couldn't see beyond. Forest is still open, the moonlight is shining down. Um, another like stream with another pool. This seems to be like all of the water that flows down off the mountain stops in this pool.\n\nKenzo: Right. Are we about two miles away yet?\n\nDM: Um, at this point, yeah. I mean, the, the road is longer than two miles from here, but the-\n\nUnknown: Straight off is two miles.\n\nDM: ... straight off is about two miles, yeah."
+        },
+        {
+          "startUid": "u3730",
+          "endUid": "u3735",
+          "quote": "Kenzo: Should we short rest anyways while we wait?\n\nDelwath: I mean, that I was just thinking maybe we should short rest while we're waiting.\n\nKenzo: That'd be great. That'll get all my ki back.\n\nDM: Okay. Send it off. Short rest. Yes. No response comes."
+        }
+      ],
+      "note": "The party is about two miles from the summit in a straight line. The second pool is passed/described; it is not shown to contain the first pool’s reflections.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u3526",
+              "endUid": "u3532",
+              "quote": "DM: ... um, it's another, uh, mile or so as you, the pa—the road begins to like go slightly up, um, and you can see about, um, half a mile ahead is the place where it curved that you can't—you couldn't see beyond. Forest is still open, the moonlight is shining down. Um, another like stream with another pool. This seems to be like all of the water that flows down off the mountain stops in this pool."
+            }
+          ]
+        },
+        {
+          "relation": "on",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u3522",
+              "endUid": "u3537",
+              "quote": "DM: Okay. [laughs] So you ke- you keep going and, and you're now-\n\nUnknown: We'll get that on the way back.\n\nDM: ... another-\n\nKenzo: All right. I will though.\n\nDM: ... um, it's another, uh, mile or so as you, the pa—the road begins to like go slightly up, um, and you can see about, um, half a mile ahead is the place where it curved that you can't—you couldn't see beyond. Forest is still open, the moonlight is shining down. Um, another like stream with another pool. This seems to be like all of the water that flows down off the mountain stops in this pool.\n\nKenzo: Right. Are we about two miles away yet?\n\nDM: Um, at this point, yeah. I mean, the, the road is longer than two miles from here, but the-\n\nUnknown: Straight off is two miles.\n\nDM: ... straight off is about two miles, yeah."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Central mountain",
+      "kind": "mountain",
+      "evidence": [
+        {
+          "startUid": "u2080",
+          "endUid": "u2093",
+          "quote": "Wellby: Ask him what's in the towers at the center of it.\n\nKenzo: Yeah, what's in the center of this place?\n\nDM: Oh, in the forest? That's, that's kind of a strange vibe. There's like a monastery there.\n\nKenzo: A monastery? Huh. A monastery.\n\nDM: I mean, nothing left to find, but...\n\nKenzo: A human monastery?\n\nDM: Yeah, I think it's human.\n\nKenzo: Huh.\n\nDM: It's got like eight buildings with like stat- with like statues that look like the statues.\n\nDelwath: Is this in the forest or on the top of a mountain?\n\nDM: On the top. The forest we don't really go into."
+        },
+        {
+          "startUid": "u4505",
+          "endUid": "u4510",
+          "quote": "DM: Oh, I guess actually as, as, by a straight line you are probably within 1,000 feet of the top.\n\nWellby: Yeah.\n\nDM: 'Cause the trees are where, the trees are like partway up, so the, like all of the roads come in to like this central circular road that like spirals up-\n\nWellby: Right.\n\nDM: ... to the top. So."
+        },
+        {
+          "startUid": "u4576",
+          "endUid": "u4580",
+          "quote": "DM: Um, so you, so as you come, you come out into this sort of clear area, the top, you know, 500 feet of the mountain is exposed. And you can see now clearly the structure, right? There's these eight temples arrayed, arrayed in a circle. There's the courtyard, there's the bell tower with the lighthouse like thing on top, and then on the outskirts there's like a number of administrative buildings."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2080",
+              "endUid": "u2093",
+              "quote": "Wellby: Ask him what's in the towers at the center of it.\n\nKenzo: Yeah, what's in the center of this place?\n\nDM: Oh, in the forest? That's, that's kind of a strange vibe. There's like a monastery there.\n\nKenzo: A monastery? Huh. A monastery.\n\nDM: I mean, nothing left to find, but...\n\nKenzo: A human monastery?\n\nDM: Yeah, I think it's human.\n\nKenzo: Huh.\n\nDM: It's got like eight buildings with like stat- with like statues that look like the statues.\n\nDelwath: Is this in the forest or on the top of a mountain?\n\nDM: On the top. The forest we don't really go into."
+            },
+            {
+              "startUid": "u3320",
+              "endUid": "u3326",
+              "quote": "Kenzo: I, right now I've still got like nine ki or whatever, so how about, how about I do, um... Yeah, just I'll, I'll, I'll do a, a search in the forest specifically for, um, looking for the energy, actually over the whole island actually, specifically looking for the energy of an elder, the oldest bit dragonet energy-\n\nDM: Okay.\n\nKenzo: ... on the pl- on this, this island.\n\nDM: Mm. Um, in the monastery on the top of the mountain."
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Summit monastery / eight-temple complex",
+      "kind": "temple complex",
+      "evidence": [
+        {
+          "startUid": "u3615",
+          "endUid": "u3618",
+          "quote": "DM: ... and it's [laughs], and there's eight, so there's eight temples that surround the courtyard, each one with a separate statue of the, of the eight gods of Mos Numena. No sign of anything there, just the moonlight shining over the stones."
+        },
+        {
+          "startUid": "u4576",
+          "endUid": "u4599",
+          "quote": "DM: Um, so you, so as you come, you come out into this sort of clear area, the top, you know, 500 feet of the mountain is exposed. And you can see now clearly the structure, right? There's these eight temples arrayed, arrayed in a circle. There's the courtyard, there's the bell tower with the lighthouse like thing on top, and then on the outskirts there's like a number of administrative buildings.\n\nDM: There's like clearly like one building that's fairly large and that would have been the like hostel where pilgrims could spend the night before they make the journey back the next day, right? If they arrive at dawn and they do their prayers or whatever. Um, there's, ah, you know, there's like clearly like living quarters for, um, you know, for it—whoever would've staffed this. There's, um, what... You haven't seen this before, but it looks like a, uh, like a, a mess hall where you can see it's, it's all open. It, like the, the living quarters in this are, are—and the hostel are like, you know, stone buildings basically intact, so you can't see into.\n\nDM: But then there's like a large area where there's, um, I don't know, maybe 15 of these little arcane circles arrayed in a sort of nice way with stone benches sort of carved so people could like sit and congregate and eat. But it looks like space for a pretty large number of people, like 100 people could have ha- shared a meal there.\n\nUnknown: Right.\n\nSeeker: Peak pilgrimage season was heavy traffic.\n\nDM: Yeah. No signs of anything moving. You can see the Temple of the Sibyl. It's obvious."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u4576",
+              "endUid": "u4580",
+              "quote": "DM: Um, so you, so as you come, you come out into this sort of clear area, the top, you know, 500 feet of the mountain is exposed. And you can see now clearly the structure, right? There's these eight temples arrayed, arrayed in a circle. There's the courtyard, there's the bell tower with the lighthouse like thing on top, and then on the outskirts there's like a number of administrative buildings."
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Summit courtyard",
+      "kind": "courtyard",
+      "evidence": [
+        {
+          "startUid": "u3610",
+          "endUid": "u3618",
+          "quote": "DM: ... a mechanism, but the mechanism is destroyed or cracked. Um, the bell is intact, and then looking down, the courtyard is in pretty good shape, right? Like it's paved, um, and-\n\nUnknown: This is definitely where you steer the island from.\n\nDM: ... and it's [laughs], and there's eight, so there's eight temples that surround the courtyard, each one with a separate statue of the, of the eight gods of Mos Numena. No sign of anything there, just the moonlight shining over the stones."
+        },
+        {
+          "startUid": "u4576",
+          "endUid": "u4580",
+          "quote": "DM: Um, so you, so as you come, you come out into this sort of clear area, the top, you know, 500 feet of the mountain is exposed. And you can see now clearly the structure, right? There's these eight temples arrayed, arrayed in a circle. There's the courtyard, there's the bell tower with the lighthouse like thing on top, and then on the outskirts there's like a number of administrative buildings."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u4576",
+              "endUid": "u4580",
+              "quote": "DM: Um, so you, so as you come, you come out into this sort of clear area, the top, you know, 500 feet of the mountain is exposed. And you can see now clearly the structure, right? There's these eight temples arrayed, arrayed in a circle. There's the courtyard, there's the bell tower with the lighthouse like thing on top, and then on the outskirts there's like a number of administrative buildings."
+            }
+          ]
+        }
+      ]
+    },
+    "p19": {
+      "label": "Bell tower with the broken crystalline light",
+      "kind": "bell tower",
+      "evidence": [
+        {
+          "startUid": "u3596",
+          "endUid": "u3618",
+          "quote": "DM: So you see, um, this looks like—so there's the bell tower. The, the, the bell is intact.\n\nUnknown: Mm-hmm.\n\nDM: Um, but this, the structure that stands on top of it looks like it once was like a, like a giant sort of crystalline light that's now broken and cracked. Like you can see mirrors, like it was clearly...\n\nUnknown: It's like a lighthouse almost.\n\nUnknown: Weird.\n\nDM: But it would've sh- shown somehow, probably magic, but it's like clearly sort of also constructed, right? It's not just a crystal that glows magically, right? It's like-\n\nUnknown: A mechanism.\n\nDM: ... a mechanism, but the mechanism is destroyed or cracked. Um, the bell is intact, and then looking down, the courtyard is in pretty good shape, right? Like it's paved, um, and-\n\nUnknown: This is definitely where you steer the island from.\n\nDM: ... and it's [laughs], and there's eight, so there's eight temples that surround the courtyard, each one with a separate statue of the, of the eight gods of Mos Numena. No sign of anything there, just the moonlight shining over the stones."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u3610",
+              "endUid": "u3618",
+              "quote": "DM: ... a mechanism, but the mechanism is destroyed or cracked. Um, the bell is intact, and then looking down, the courtyard is in pretty good shape, right? Like it's paved, um, and-\n\nUnknown: This is definitely where you steer the island from.\n\nDM: ... and it's [laughs], and there's eight, so there's eight temples that surround the courtyard, each one with a separate statue of the, of the eight gods of Mos Numena. No sign of anything there, just the moonlight shining over the stones."
+            },
+            {
+              "startUid": "u4576",
+              "endUid": "u4580",
+              "quote": "DM: Um, so you, so as you come, you come out into this sort of clear area, the top, you know, 500 feet of the mountain is exposed. And you can see now clearly the structure, right? There's these eight temples arrayed, arrayed in a circle. There's the courtyard, there's the bell tower with the lighthouse like thing on top, and then on the outskirts there's like a number of administrative buildings."
+            }
+          ]
+        }
+      ]
+    },
+    "p20": {
+      "label": "Temple of the Sibyl",
+      "kind": "temple",
+      "evidence": [
+        {
+          "startUid": "u3885",
+          "endUid": "u3893",
+          "quote": "DM: So it's pitch, it's pitch black inside the temple. Um, uh, I guess there's, like, a faint little bit of moonlight through some windows. Um, you can see the, uh, um... Yeah, it's, it's the, the statue that you recognize would be The Sibyl, and it seems to be... But it seems like the inside of the temple has been kind of, like, a lot of the stones have been sort of shifted around, like clearly somebody's lived inside here."
+        },
+        {
+          "startUid": "u4596",
+          "endUid": "u4614",
+          "quote": "DM: Yeah. No signs of anything moving. You can see the Temple of the Sibyl. It's obvious.\n\nUnknown: Tell us about the Sibyl.\n\nDM: So the Sibyl is the, the deity who is associated with magic and, um, knowledge, but also like song and love and beauty, and sometimes like obsession. [coughs] Um, her—but she's most known as—she's most like associated with like-\n\nUnknown: [coughs]\n\nDM: ... scholars and magic.\n\nUnknown: Hmm. So are we knocking on the front door?\n\nWellby: There's only one entrance?\n\nDM: There's only one entrance to the temple. E- all of the temples have like one main door facing the courtyard."
+        },
+        {
+          "startUid": "u4716",
+          "endUid": "u4722",
+          "quote": "DM: ... there's a, um, you know, there's like p- there's like places people sit. There's like, it's like a sort of, sort of standard like temple arrangement. It's, it's circ- it's like sort of circular. There's seating in the middle. There's like an altar and a statue of The Sibyl at the far end."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u3615",
+              "endUid": "u3618",
+              "quote": "DM: ... and it's [laughs], and there's eight, so there's eight temples that surround the courtyard, each one with a separate statue of the, of the eight gods of Mos Numena. No sign of anything there, just the moonlight shining over the stones."
+            },
+            {
+              "startUid": "u4596",
+              "endUid": "u4614",
+              "quote": "DM: Yeah. No signs of anything moving. You can see the Temple of the Sibyl. It's obvious.\n\nUnknown: Tell us about the Sibyl.\n\nDM: So the Sibyl is the, the deity who is associated with magic and, um, knowledge, but also like song and love and beauty, and sometimes like obsession. [coughs] Um, her—but she's most known as—she's most like associated with like-\n\nUnknown: [coughs]\n\nDM: ... scholars and magic.\n\nUnknown: Hmm. So are we knocking on the front door?\n\nWellby: There's only one entrance?\n\nDM: There's only one entrance to the temple. E- all of the temples have like one main door facing the courtyard."
+            }
+          ]
+        }
+      ]
+    },
+    "p21": {
+      "label": "Elven memorial at the circular-road junction",
+      "kind": "memorial",
+      "evidence": [
+        {
+          "startUid": "u3999",
+          "endUid": "u4006",
+          "quote": "DM: So you keep walking. After another, like half an hour of walking, you, you come to the point where the road curves and it seems to spiral, to join, um, like a circular road.\n\nDM: And just where it joins this road that's circling up to the top of the mountain, um, you see, uh, again, on the edge of the path, a sort of a slight clearing where there's two unusually tall trees. And almost like growing between the trees there's this sort of curving piece of, uh, sort of pale gray stone, but it looks like... This actually sort of grows into the trees. And written on the stone are hundreds of names of elves written in Elvish. But the s- the, the scripts almost seem to like drift slowly through the stone between the two trees."
+        },
+        {
+          "startUid": "u4207",
+          "endUid": "u4225",
+          "quote": "DM: ... so what it looks like is, like, as if branches of the two trees grew, but they were not wood, they were stone until they met.\n\nUnknown: But they, it doesn't block the path?\n\nDM: No, it's on the side of the path.\n\nUnknown: Ah, okay.\n\nDM: It's along the side of the path.\n\nUnknown: Oh, wait, the trees are-\n\nDM: There's two trees on the side of the... The road goes like this. The trees are here.\n\nUnknown: Ah, got it.\n\nUnknown: And then there's these branches that go between them.\n\nDelwath: I wasn't envisioning... Oh, so the trees aren't on either side.\n\nUnknown: They're both-\n\nDM: The trees aren't on either side.\n\nUnknown: Yeah, yeah, yeah.\n\nDM: They're next to each other.\n\nUnknown: I missed that.\n\nDM: The branches grow-\n\nUnknown: Got it. I thought they were-\n\nDM: ... and where they touch, they kind of turn to this stone-like substance."
+        }
+      ],
+      "note": "The two trees stand beside the road, next to each other, rather than on opposite sides of the path.",
+      "relations": [
+        {
+          "relation": "on",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u4504",
+              "endUid": "u4510",
+              "quote": "Delwath: I mean, we're not, but the trees were further down.\n\nDM: Oh, I guess actually as, as, by a straight line you are probably within 1,000 feet of the top.\n\nWellby: Yeah.\n\nDM: 'Cause the trees are where, the trees are like partway up, so the, like all of the roads come in to like this central circular road that like spirals up-\n\nWellby: Right.\n\nDM: ... to the top. So."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u4001",
+              "endUid": "u4006",
+              "quote": "DM: And just where it joins this road that's circling up to the top of the mountain, um, you see, uh, again, on the edge of the path, a sort of a slight clearing where there's two unusually tall trees. And almost like growing between the trees there's this sort of curving piece of, uh, sort of pale gray stone, but it looks like... This actually sort of grows into the trees. And written on the stone are hundreds of names of elves written in Elvish. But the s- the, the scripts almost seem to like drift slowly through the stone between the two trees."
+            },
+            {
+              "startUid": "u4278",
+              "endUid": "u4282",
+              "quote": "Seeker: I wonder if this is, this is a solitary tree or a network of trees.\n\nUnknown: I mean, it's probably the whole... Yeah, the, the, the forest.\n\nDM: Yeah, it's, I mean, it's clearly the, like it's the whole forest.\n\nUnknown: Yeah.\n\nDM: It's all one thing."
+            }
+          ]
+        }
+      ]
+    },
+    "p22": {
+      "label": "Ancient battlements overlooking an unrecognized sea",
+      "kind": "remembered battlefield",
+      "evidence": [
+        {
+          "startUid": "u4033",
+          "endUid": "u4041",
+          "quote": "DM: ... of, um, an elf standing in a rank of hundreds of elves, um, on a battlements watching a fleet of ships sailing on a sea. You don't recognize any of this. Um, and as they're, um, drawing their, like arrows, suddenly they all draw their arrows and suddenly like all of the arrows burst into flames immediately as they're released from the bows, and this rain of fire flies down on the ships.\n\nDM: And then something flies up from one of the ships, like a, not a dragon, like some sort of twisted beast like the Nazgul creatures in The Lord of the Rings, right? And dives down and grabs this elf and like rips him-"
+        }
+      ],
+      "note": "Delwath sees this in a memory. The source identifies neither its historical location nor the battle."
+    },
+    "p23": {
+      "label": "Tunnel beneath the Sibyl temple floor",
+      "kind": "tunnel",
+      "evidence": [
+        {
+          "startUid": "u4818",
+          "endUid": "u4822",
+          "quote": "Seeker: I put my hand to the f- to the stone floor and use tremor sense.\n\nDM: Uh, there is something moving about 10 feet below the ground in a tunnel.\n\nSeeker: I just look around and go like... [laughs]\n\nDM: It's blocked by one foot of stone."
+        },
+        {
+          "startUid": "u4860",
+          "endUid": "u4865",
+          "quote": "DM: You notice that like, okay, so in, um, there must be a tunnel that runs underneath the floor and then goes up like at the base of the statue and you can—Wellby would notice this. You can see that there's...\n\nUnknown: A little peephole.\n\nDM: ... a little peephole like cut into the-\n\nUnknown: That's great.\n\nDM: ... like base of the statue."
+        },
+        {
+          "startUid": "u4879",
+          "endUid": "u4888",
+          "quote": "DM: Um, you hear a tu—like, uh, behind the altar you hear like a scraping stone and the like so like somebody's moving a, like a, um, a stone tile, and then like climbing up you see this ancient, um, elderly dragonet, like again sort of grayish, the, what you saw in scrying. Um, and he's walking slowly. He's carrying like a short staff in one hand and a wand in the other that he's still kind of pointing at you.\n\nKenzo: Oh, shit.\n\nDM: Um, and he says, not in a booming voice anymore, um, kind of blinking a little bit, \"I would know the story of where you got those fragments.\""
+        }
+      ],
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p20",
+          "evidence": [
+            {
+              "startUid": "u4818",
+              "endUid": "u4822",
+              "quote": "Seeker: I put my hand to the f- to the stone floor and use tremor sense.\n\nDM: Uh, there is something moving about 10 feet below the ground in a tunnel.\n\nSeeker: I just look around and go like... [laughs]\n\nDM: It's blocked by one foot of stone."
+            },
+            {
+              "startUid": "u4860",
+              "endUid": "u4865",
+              "quote": "DM: You notice that like, okay, so in, um, there must be a tunnel that runs underneath the floor and then goes up like at the base of the statue and you can—Wellby would notice this. You can see that there's...\n\nUnknown: A little peephole.\n\nDM: ... a little peephole like cut into the-\n\nUnknown: That's great.\n\nDM: ... like base of the statue."
+            }
+          ]
+        }
+      ]
+    },
+    "p24": {
+      "label": "Regrouping point after Megren’s visit",
+      "kind": "rendezvous",
+      "evidence": [
+        {
+          "startUid": "u2688",
+          "endUid": "u2690",
+          "quote": "Kenzo: Perfect. All right. Kenzo reunites with the party, now with a few like, uh, kind of Dragonet, uh, coins to, to show for it."
+        }
+      ],
+      "note": "Kenzo rejoins the companions; the exact position and distance from Megren’s grounds are not stated.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2688",
+              "endUid": "u2690",
+              "quote": "Kenzo: Perfect. All right. Kenzo reunites with the party, now with a few like, uh, kind of Dragonet, uh, coins to, to show for it."
+            },
+            {
+              "startUid": "u3079",
+              "endUid": "u3087",
+              "quote": "DM: So where are you heading?\n\nDelwath: Into the forest.\n\nKenzo: Forest. Yeah.\n\nDM: So basically sort of... So if you head sort of-\n\nDelwath: Same plan.\n\nDM: ... due west from where you are, um, you're talking about like a t- 10-ish mile walk to the edge of the forest."
+            },
+            {
+              "startUid": "u3100",
+              "endUid": "u3109",
+              "quote": "DM: Um, okay, so over the course of the next two hours you invisibly make your way across the landscape to the eaves of the forests. Um, you do see one pair of dragonets flying overhead, but they do not see you, as you are invisible. They seem to be heading south and unlikely to be related to any of your doings. Um, and the terrain, you know, so as you get further from the city the, the manors spread out. You pass a couple more of these, um, those things that look like possibly ancient tent sites with-"
+            }
+          ]
+        }
+      ]
+    },
+    "p25": {
+      "label": "Concealed woods and path at Ghesh’s grounds",
+      "kind": "perimeter",
+      "evidence": [
+        {
+          "startUid": "u0622",
+          "endUid": "u0641",
+          "quote": "DM: Okay. So the, the, just to imagine the layout here, there's, there's like a, a, a dell with a, with a overgrown forest in it, and then there's a path that leads to the dell that goes up to the sort of a, a cleared hill. The tower is set upon the top of the cleared hill, and then just below the dell there's like a depression with this lake and some ruins around the lake. And you two are sneaking up towards the tower through the forest quite quietly, and you're just—you two are just like walking on the path.\n\nKenzo: Yeah.\n\nDM: Okay. So one thing you see as you two come a- and I assume at this point having... Before you s- before you come too close, you like take 10 minutes and telepathize so you've all got-\n\nKenzo: Yes. Yeah, yeah, yeah.\n\nDM: Um, you two see and can alert them that there's, uh, as you come to the edge of the forest, on the ground in front of the tower, um, you can see four small creatures. They're about maybe two and a half feet tall, um, bipedal with like legs and, and arms, but also wings in the back, leathery wings, like dragon-like faces.\n\nKenzo: Ugh.\n\nDM: Um, two of them are sort of brownish green, and two of them are sort of brownish red.\n\nKenzo: Two.\n\nDM: Um, and they seem to be just kind of chilling. It actually looks like they're playing a dice game. [laughs]"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0622",
+              "endUid": "u0641",
+              "quote": "DM: Okay. So the, the, just to imagine the layout here, there's, there's like a, a, a dell with a, with a overgrown forest in it, and then there's a path that leads to the dell that goes up to the sort of a, a cleared hill. The tower is set upon the top of the cleared hill, and then just below the dell there's like a depression with this lake and some ruins around the lake. And you two are sneaking up towards the tower through the forest quite quietly, and you're just—you two are just like walking on the path.\n\nKenzo: Yeah.\n\nDM: Okay. So one thing you see as you two come a- and I assume at this point having... Before you s- before you come too close, you like take 10 minutes and telepathize so you've all got-\n\nKenzo: Yes. Yeah, yeah, yeah.\n\nDM: Um, you two see and can alert them that there's, uh, as you come to the edge of the forest, on the ground in front of the tower, um, you can see four small creatures. They're about maybe two and a half feet tall, um, bipedal with like legs and, and arms, but also wings in the back, leathery wings, like dragon-like faces.\n\nKenzo: Ugh.\n\nDM: Um, two of them are sort of brownish green, and two of them are sort of brownish red.\n\nKenzo: Two.\n\nDM: Um, and they seem to be just kind of chilling. It actually looks like they're playing a dice game. [laughs]"
+            }
+          ]
+        }
+      ],
+      "note": "Kenzo and Wellby scout through the woods; Delwath and Seeker use the path. Kenzo subsequently leaves this concealed position for the dice game."
+    },
+    "p26": {
+      "label": "Dice-playing area outside Ghesh’s tower",
+      "kind": "tower forecourt",
+      "evidence": [
+        {
+          "startUid": "u0848",
+          "endUid": "u0871",
+          "quote": "Kenzo: Well, I'm, I'm... All right. Kenzo will approach.\n\nDelwath: Okay.\n\nKenzo: Kenzo will approach, um, uh, slowly, but with, with coin in hand. Like, with-\n\nDelwath: Okay.\n\nKenzo: ... with, with shiny coin in hand.\n\nDM: Okay. So as you... They stop playing immediately.\n\nDelwath: Um-\n\nKenzo: And Ke- Kenzo will say in, in Draconic, um, uh, uh... Can, uh, uh... Are other players welcome? And then shows the, shows the, the, his, his, uh...\n\nDM: They, uh... So one of them-\n\nKenzo: [laughs]\n\nDM: One of them immediately flies up and starts heading for the top of the tower.\n\nKenzo: Yeah.\n\nDM: Um, the other says... And then, um, one of them, like, uh, one of the sort of brownish, reddish ones kind of steps forward and says in Draconic, like, surprised, \"Uh, yeah, but who are you?\" And meanwhile, make a, make a perception check."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0622",
+              "endUid": "u0641",
+              "quote": "DM: Okay. So the, the, just to imagine the layout here, there's, there's like a, a, a dell with a, with a overgrown forest in it, and then there's a path that leads to the dell that goes up to the sort of a, a cleared hill. The tower is set upon the top of the cleared hill, and then just below the dell there's like a depression with this lake and some ruins around the lake. And you two are sneaking up towards the tower through the forest quite quietly, and you're just—you two are just like walking on the path.\n\nKenzo: Yeah.\n\nDM: Okay. So one thing you see as you two come a- and I assume at this point having... Before you s- before you come too close, you like take 10 minutes and telepathize so you've all got-\n\nKenzo: Yes. Yeah, yeah, yeah.\n\nDM: Um, you two see and can alert them that there's, uh, as you come to the edge of the forest, on the ground in front of the tower, um, you can see four small creatures. They're about maybe two and a half feet tall, um, bipedal with like legs and, and arms, but also wings in the back, leathery wings, like dragon-like faces.\n\nKenzo: Ugh.\n\nDM: Um, two of them are sort of brownish green, and two of them are sort of brownish red.\n\nKenzo: Two.\n\nDM: Um, and they seem to be just kind of chilling. It actually looks like they're playing a dice game. [laughs]"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0005",
+        "endUid": "u0024"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo"
+      ],
+      "reading": "Delwath and Kenzo climb to the top of the coastal statue.",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0016",
+          "quote": "Delwath: Yeah. I'm—let's climb... I'm gonna climb up and see what's up there. You wanna come with me?\n\nDM: Yeah.\n\nDelwath: Walk up.\n\nUnknown: I'll go if you do.\n\nDelwath: What?\n\nUnknown: I'll go if you do.\n\nDelwath: Can you climb?\n\nUnknown: Yeah.\n\nDelwath: All right. Seeker, bye. [laughs] Um-\n\nKenzo: Kenzo walks up. Just starts just casually walking sideways up the-"
+        },
+        {
+          "startUid": "u0017",
+          "endUid": "u0024",
+          "quote": "DM: Yeah. So okay, two things you notice as you get to the top. One is that, um, you can see that at the, um... So at the ocean spots, so the, the statue is, like, standing with—the cliffs go here; the statue's standing here. So the cliffs come up to, like, the base of its, the base of its legs, and then it goes-"
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "climb"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0305",
+        "endUid": "u0346"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo"
+      ],
+      "reading": "From the statue, the scouts view the ruined port and its surrounding villas.",
+      "evidence": [
+        {
+          "startUid": "u0305",
+          "endUid": "u0346",
+          "quote": "DM: You can just, you can see a bit more detail about the landscape in general, right? So the first thing you can see is that the, this area just to the north, like, you know, two, two, one to two miles to the north—um, where you can see these, where you could see these towers before.\n\nKenzo: Yeah.\n\nDM: ... like from this perspective up here you can see clearly what looks like a ruined town in the center of that. And the layout seems to be that there's a t- I mean, the town's been utterly destroyed. Like there's no bu- nothing has a roof. It's all just-\n\nKenzo: Right.\n\nDM: ... noth- there's nothing taller than one story. It's all just walls. But you can, you know, you can see-\n\nKenzo: Wait, what would-\n\nDM: Look, those that are now-\n\nKenzo: But the towers are higher than one story.\n\nDM: Yeah. So they're in the town itself. It's a port. You can see these like docks as well. Like-\n\nKenzo: Ah, okay. So this is on the coast.\n\nDM: ... there, there's clearly a sort of port infrastructure. Um-\n\nSeeker: What would destroy things in a way that just rips the roof off and then leaves the walls standing?\n\nDelwath: Like that seems like-\n\nWellby: Some sort of like magic blast.\n\nDelwath: Yeah.\n\nDM: Well, it's not—I mean, the walls are—not all the walls are standing.\n\nDelwath: Yeah. Mm-hmm.\n\nDM: And nothing's higher than, you know...\n\nSeeker: So maybe like a, a very powerful storm.\n\nDM: Yeah. Something like that. Um, and then surrounding this port-\n\nWellby: There's a dog on the porch.\n\nDM: Hi, doggy.\n\nWellby: A dog out on the porch.\n\nDelwath: That's weird.\n\nDM: I think that the neighbor's dog, they were, I heard them calling it before. Surrounding this port, like for a few miles in every direction, it, you can see what look like the ruins of like towers and manors and various little estates on the outskirts of the town. And this is what these things you could see. Some of these seem to be less destroyed than the, than the town itself."
+        }
+      ],
+      "place": "p04",
+      "observerPlace": "p03",
+      "mode": "local"
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0350",
+        "endUid": "u0356"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo"
+      ],
+      "reading": "The lookout reveals a relatively intact coliseum north of the ruined port.",
+      "evidence": [
+        {
+          "startUid": "u0350",
+          "endUid": "u0356",
+          "quote": "DM: That's the only town you can see, but there's more details. So the other is that on the far outskirts of the town, you can see what looks like a relatively intact, like very big structure, like a coliseum, um, to the north. Um, and it's, it's a, it's a bit of, it's maybe two or three miles from the town itself. Um, the town's not very big. But then you can also see from here the landscape."
+        }
+      ],
+      "place": "p06",
+      "observerPlace": "p03",
+      "mode": "local"
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0366",
+        "endUid": "u0377"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo"
+      ],
+      "reading": "They see a ruined villa on a little hill in the scarred region.",
+      "evidence": [
+        {
+          "startUid": "u0366",
+          "endUid": "u0377",
+          "quote": "DM: That wedge more. Um, and then extending into the burned region. So on the burned region you can see like what looks like a ruined villa on top of a little hill.\n\nDelwath: Where's the burned region again?\n\nDM: It's that squiggly thing right there.\n\nDelwath: This?\n\nDM: Yeah.\n\nDelwath: Okay. So the burned region is—\n\nSeeker: not a huge fraction of the whole-\n\nDM: No, no.\n\nDelwath: ... island.\n\nDM: It's like, it's like six miles across roughly."
+        },
+        {
+          "startUid": "u0471",
+          "endUid": "u0476",
+          "quote": "DM: Uh, also just to be clear, when I'm describing the burned region, it's not a region of the island that's burned, it's a region of the island that looks like a burn, so it's like scarred and reddish.\n\nDelwath: Right, it's not black.\n\nDM: It's not black. It's not like a fire burned the area.\n\nDelwath: Yeah.\n\nDM: It's like there's this weird sort of garish red, orangey scar. So..."
+        }
+      ],
+      "place": "p05",
+      "observerPlace": "p03",
+      "mode": "local"
+    },
+    {
+      "id": "l05",
+      "type": "presence",
+      "source": {
+        "startUid": "u0550",
+        "endUid": "u0554"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party gathers at the pilgrim’s hostel at the statue’s base.",
+      "evidence": [
+        {
+          "startUid": "u0550",
+          "endUid": "u0554",
+          "quote": "DM: Okay. So as you gather at the base at this, uh, pilgrim's hostel at the edge of, at the, on the edge of the road, and you can see... So basically, if you, if you hug the coast and just go straight along the coast, um, you can come to the, um, you can come to the, the port town itself in, in about an hour's walk if you're trying to be a little bit hidden and, and, and sneaky without crossing next to any of the, without coming more than half a mile from any of the obvious towers. If you cut inland slightly, there's a tower that's about a mile from your current location, but like diagonally inland about half a mile."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0555",
+        "endUid": "u0579"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party leaves the road for the tower and reaches the manor grounds after about ten minutes.",
+      "evidence": [
+        {
+          "startUid": "u0555",
+          "endUid": "u0579",
+          "quote": "Delwath: Let's, let's go to the tower. We're gonna head to the tower.\n\nKenzo: Let's go to the tower.\n\nDelwath: All right. I'm gonna, I'm gonna disguise self to an elven elf.\n\nDM: Okay.\n\nDelwath: Alter self to an elven elf.\n\nDM: And you two are sort of a little bit ahead being sneaky. Okay. Um, so as you, as you cross the road and you begin to enter into a little bit more disturbed terrain, um, there actually are still a few trees growing here and, uh, very quickly within about a 10 minute walk, um, you seem to be entering into what looks like the outskirts of, um, a large sort of manor grounds.\n\nDM: The, the vibe is kind of like, um, you know, like those, uh, what Victorian English manors where it's like natural gardens, but clearly sculpted, right? So there's, there's trees. There's sort of not—not everything... I mean, some things are obviously have grown quite wild, right? But you can still get a bit of a sense of like, there's still a few paths that cut through the trees. Um, there's like a little lake that you can see on, in a depression. There's a statue that's been cracked and is like just mostly buried by the dirt, but that you can still see a little bit sticking up that looks like it used to be like a, you know, a little gazebo with a statue, like a sort of sitting point by the lake.\n\nDM: Um, and, but rather than a traditional like English villa, about half a mile ahead of you, um, sort of perched a little bit on some high ground, there's a tower, like a pretty wide tower. It's probably... 100 feet in diameter or something like that."
+        }
+      ],
+      "from": "p02",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk",
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated walk to the outskirts of the manor grounds."
+      }
+    },
+    {
+      "id": "l07",
+      "type": "presence",
+      "source": {
+        "startUid": "u0622",
+        "endUid": "u0641"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "Kenzo and Wellby scout quietly through the manor woods and see the dice players outside the tower.",
+      "evidence": [
+        {
+          "startUid": "u0622",
+          "endUid": "u0641",
+          "quote": "DM: Okay. So the, the, just to imagine the layout here, there's, there's like a, a, a dell with a, with a overgrown forest in it, and then there's a path that leads to the dell that goes up to the sort of a, a cleared hill. The tower is set upon the top of the cleared hill, and then just below the dell there's like a depression with this lake and some ruins around the lake. And you two are sneaking up towards the tower through the forest quite quietly, and you're just—you two are just like walking on the path.\n\nKenzo: Yeah.\n\nDM: Okay. So one thing you see as you two come a- and I assume at this point having... Before you s- before you come too close, you like take 10 minutes and telepathize so you've all got-\n\nKenzo: Yes. Yeah, yeah, yeah.\n\nDM: Um, you two see and can alert them that there's, uh, as you come to the edge of the forest, on the ground in front of the tower, um, you can see four small creatures. They're about maybe two and a half feet tall, um, bipedal with like legs and, and arms, but also wings in the back, leathery wings, like dragon-like faces.\n\nKenzo: Ugh.\n\nDM: Um, two of them are sort of brownish green, and two of them are sort of brownish red.\n\nKenzo: Two.\n\nDM: Um, and they seem to be just kind of chilling. It actually looks like they're playing a dice game. [laughs]"
+        }
+      ],
+      "place": "p25"
+    },
+    {
+      "id": "l08",
+      "type": "presence",
+      "source": {
+        "startUid": "u0622",
+        "endUid": "u0625"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "Delwath and Seeker use the path while the scouts approach through the woods.",
+      "evidence": [
+        {
+          "startUid": "u0544",
+          "endUid": "u0548",
+          "quote": "Delwath: They've already seen us probably. Maybe it would be good to not... Let's, um, let's try a little bit of subterfuge. Why don't Wellby and Kenzo go off a little bit in each direction away from the main body, sneak, and then Delwath and Seeker will just walk obviously towards it."
+        },
+        {
+          "startUid": "u0622",
+          "endUid": "u0625",
+          "quote": "DM: Okay. So the, the, just to imagine the layout here, there's, there's like a, a, a dell with a, with a overgrown forest in it, and then there's a path that leads to the dell that goes up to the sort of a, a cleared hill. The tower is set upon the top of the cleared hill, and then just below the dell there's like a depression with this lake and some ruins around the lake. And you two are sneaking up towards the tower through the forest quite quietly, and you're just—you two are just like walking on the path."
+        }
+      ],
+      "place": "p25"
+    },
+    {
+      "id": "l09",
+      "type": "presence",
+      "source": {
+        "startUid": "u0848",
+        "endUid": "u0871"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo comes out to the dice players while the companions retain their concealed perimeter positions.",
+      "evidence": [
+        {
+          "startUid": "u0848",
+          "endUid": "u0871",
+          "quote": "Kenzo: Well, I'm, I'm... All right. Kenzo will approach.\n\nDelwath: Okay.\n\nKenzo: Kenzo will approach, um, uh, slowly, but with, with coin in hand. Like, with-\n\nDelwath: Okay.\n\nKenzo: ... with, with shiny coin in hand.\n\nDM: Okay. So as you... They stop playing immediately.\n\nDelwath: Um-\n\nKenzo: And Ke- Kenzo will say in, in Draconic, um, uh, uh... Can, uh, uh... Are other players welcome? And then shows the, shows the, the, his, his, uh...\n\nDM: They, uh... So one of them-\n\nKenzo: [laughs]\n\nDM: One of them immediately flies up and starts heading for the top of the tower.\n\nKenzo: Yeah.\n\nDM: Um, the other says... And then, um, one of them, like, uh, one of the sort of brownish, reddish ones kind of steps forward and says in Draconic, like, surprised, \"Uh, yeah, but who are you?\" And meanwhile, make a, make a perception check."
+        },
+        {
+          "startUid": "u1008",
+          "endUid": "u1015",
+          "quote": "Wellby: I like keeping an eye on the perimeter, right?\n\nKenzo: Uh, yeah, you keep an eye on the perimeter.\n\nWellby: Keeping some watch.\n\nKenzo: The... I, I... Anyways, yeah, I'm good.\n\nDM: Wellby does notice that the one that flew up to the tower has disappeared inside the smaller tower at the top. But so far nothing's emerged from there. So, so you play for a few-"
+        },
+        {
+          "startUid": "u1194",
+          "endUid": "u1203",
+          "quote": "Kenzo: Right, right, right. Okay, so now... All right, so are any of the other ones wanting to play? Is, is, is, is it just, it's just been me and Ghesh one-on-one right now?\n\nDM: It, the vibe that you get actually is that they, um, Ghesh is like the biggest and the bossiest of them, and seems to have, by some—maybe in that whispered conversation or by unspoken agreement—sort of muscled them out of the game. And as long as he's winning, isn't gonna let anybody else try and take his place.\n\nKenzo: How far away are we?\n\nDM: Um, if you're at the edge of the woods, if you're at the edge of the path and you don't wanna like-\n\nKenzo: Be seen. Yeah.\n\nDM: ... be seen, you're like maybe 100 feet away."
+        }
+      ],
+      "place": "p26"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1706",
+        "endUid": "u1720"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Ghesh guides Kenzo around the dangerous intervening manor to Megren’s tower grounds.",
+      "evidence": [
+        {
+          "startUid": "u1706",
+          "endUid": "u1720",
+          "quote": "DM: And he look, he's like smiling, he's like puffing up his chest, and he goes to lead you. So what's everybody else doing? As far as you know, they've not noticed you at all.\n\nDelwath: Where is the path?\n\nDM: So it, it, what it, it looks like what they're gonna do actually is go, um, sort of o- off the other side of the tower and then down the hill, and then he describes the way. It's like if you keep going north that direction, you're gonna hit a plague zone. So we have to cut west through like a really ba—the edge of a really badly ruined manor, and then like basically go... It's like there's, it's like one, one manor over. You can actually see the tower that he's talking about. Um-\n\nDelwath: I mean-\n\nDM: ... it's only about a, it's like a mile and a half or two miles away.\n\nDelwath: Right. Okay.\n\nDM: But there's like a, a sort of badly ruined plague zone manor in between."
+        },
+        {
+          "startUid": "u1877",
+          "endUid": "u1882",
+          "quote": "Kenzo: So just as, as we're, as we're walking, um, uh, his name is Ghesh again?\n\nDM: Ghesh, yeah.\n\nKenzo: Uh, yeah, Kenzo's just like, you know, is just like shooting the shit with him. Just like, you know, it's like, \"Tell me more about, like, so you got eight friends, you know? Is this, or is this your clan?\""
+        },
+        {
+          "startUid": "u2037",
+          "endUid": "u2041",
+          "quote": "DM: Yeah, you're getting close. It's been, it's been about an hour. Um, yeah, so anyway, just to, um, on the conversation, like you, um, so you, you get the sense that like most of the... A—anyway, his friends, like he's not really friends with the True Believers. He finds them weird and off-putting, right?"
+        },
+        {
+          "startUid": "u2217",
+          "endUid": "u2249",
+          "quote": "Kenzo: Let's get to the tower.\n\nDM: ... you get to the tower. Um, there's definitely more... So you can see as you approach, like he flies up and he, like, you know, talks to a few people and, and introdu... you know, g- gives them a little bit of a story and like, you know, don't, this is hush-hush. Like, you can tell he's trying to pr- preserve his, like-\n\nKenzo: Yeah, yeah.\n\nDM: ... his edge here.\n\nKenzo: Yeah.\n\nDM: Um, this is a, this is, this is much nicer. So the, the tower here is, uh, this looks like a sort of traditional wizard's tower, right? Like it's-\n\nKenzo: Hmm.\n\nDM: ... uh, you know, 100 feet tall.\n\nKenzo: Wow.\n\nDM: Um, c- basically completely int- intact except for, um, it looks like there once might have been a spire or something on the top [dice rolling] that's sort of cracked and has been crudely re-roofed, um, with just sort of s- like jumbles of stone and stuff, so there is a, is a roof.\n\nDM: Um, the, the grounds have clearly been like recently, uh, t- sort of tended. Like, there's a few, there's, um, what look like, uh, kind of—they're not really houses, but there's like almost like lean tos, like little places where people could shelter from bad weather that have been built with like just stone that's been carried, big slabs of stone that have been carried from elsewhere, just kind of dropped and arranged. So like it almost looks like there's a tiny little, um, uh, small village around the base of this tower and the, um, like there's been...\n\nDM: There's no trees here. This was once—there's like a—there was once like a long, um, reflecting pool that went from the base of the tower that's sort of lined with marble, which is, still has water in it and there's, like you can see a couple of, of, um, dragonets like diving and, and bathing in it. This is like much nicer than the other tower.\n\nDM: And, um, there's probably 30 dragonets around here, um, a bigger group, and Megren flies down after, um, Ghesh introduces you. She's wearing, um, a, like a chain around her neck-"
+        }
+      ],
+      "from": "p07",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Cut west and then north around the plague-zone manor, rather than crossing its dangerous gardens.",
+          "place": "p09"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "About an hour has passed while they are getting close; arrival follows without a further stated travel interval."
+      }
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1864",
+        "endUid": "u1876"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "The three companions use invisibility and follow Kenzo’s route; their exact stopping point by Megren’s estate is not established.",
+      "evidence": [
+        {
+          "startUid": "u1757",
+          "endUid": "u1773",
+          "quote": "Delwath: 'Cause I actually think we could get out of here without the dragon knowing about us if we carefully stay hidden, and Kenzo, once we talk to, we talk to the one other tower, and then book it away from this zone.\n\nWellby: I mean, I could trail Kenzo without being seen.\n\nDelwath: All right.\n\nWellby: So now if I get there and back again, we got some backup.\n\nDM: The, the, I mean-\n\nWellby: You guys just tuck in here.\n\nDM: ... the terrain you're going through is like... I, I think, Wellby, it, it wouldn't be easy to hide, but what's your minimum DC? What's your minimum roll?\n\nWellby: 25.\n\nDM: Yeah. Wellby can definitely sneak through it, but it would be a challenge for the rest.\n\nDelwath: I mean, we could-\n\nDM: Unless you were invisible.\n\nDelwath: I was just gonna say, we could just invisibilize, but I just don't know if it's-"
+        },
+        {
+          "startUid": "u1864",
+          "endUid": "u1876",
+          "quote": "Delwath: I mean, I'm just gonna cast invisible then.\n\nUnknown: May as well just cast invisible.\n\nKenzo: And so we will catch up with them basically.\n\nUnknown: So we'll catch up.\n\nDM: Yeah.\n\nDelwath: But you can be invisible too. There's n—I get f—three invisibilities, so.\n\nKenzo: All right, let's go.\n\nDelwath: I mean, I can't do Kenzo 'cause he's too far away, but I can-\n\nKenzo: Well...\n\nDM: It would be pretty weird if he turned invisible.\n\nUnknown: Yes.\n\nKenzo: How long is that last?\n\nUnknown: An hour. [die rolling]"
+        },
+        {
+          "startUid": "u2688",
+          "endUid": "u2690",
+          "quote": "Kenzo: Perfect. All right. Kenzo reunites with the party, now with a few like, uh, kind of Dragonet, uh, coins to, to show for it."
+        }
+      ],
+      "from": "p07",
+      "to": "p10",
+      "completion": "uncertain",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Follow at a concealed distance around the dangerous manor.",
+          "place": "p09"
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "presence",
+      "source": {
+        "startUid": "u2688",
+        "endUid": "u2690"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Kenzo rejoins the party after the tower interview.",
+      "evidence": [
+        {
+          "startUid": "u2688",
+          "endUid": "u2690",
+          "quote": "Kenzo: Perfect. All right. Kenzo reunites with the party, now with a few like, uh, kind of Dragonet, uh, coins to, to show for it."
+        }
+      ],
+      "place": "p24"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u3100",
+        "endUid": "u3132"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party crosses the dry landscape to the forest at the northern pilgrim road.",
+      "evidence": [
+        {
+          "startUid": "u3079",
+          "endUid": "u3087",
+          "quote": "DM: So where are you heading?\n\nDelwath: Into the forest.\n\nKenzo: Forest. Yeah.\n\nDM: So basically sort of... So if you head sort of-\n\nDelwath: Same plan.\n\nDM: ... due west from where you are, um, you're talking about like a t- 10-ish mile walk to the edge of the forest."
+        },
+        {
+          "startUid": "u3100",
+          "endUid": "u3132",
+          "quote": "DM: Um, okay, so over the course of the next two hours you invisibly make your way across the landscape to the eaves of the forests. Um, you do see one pair of dragonets flying overhead, but they do not see you, as you are invisible. They seem to be heading south and unlikely to be related to any of your doings. Um, and the terrain, you know, so as you get further from the city the, the manors spread out. You pass a couple more of these, um, those things that look like possibly ancient tent sites with-\n\nUnknown: Is this yours or...?\n\nUnknown: No.\n\nUnknown: Okay. I'm doing my duty.\n\nDM: ... with these arcane circles. Um, there's no, there isn't any-\n\nUnknown: Gotta protect.\n\nDM: You don't pass anything that looks like farmland, although of course ancient farmland, if it was farmland thousands of years ago, would be overgrown. But it seems, it seems very dry. Like, there's no rivers, there's no water anywhere. There's har- oh, like only the occasional spring, so this is like scrub. It's like sort of very little, um-\n\nSeeker: The forests are trapping the rivers.\n\nDM: Very few, uh, plants grow, just like little scrubby grasses and things. Um, the only animals that you see regularly are like little lizards that are s- scurrying around eating bugs. But as you, so as you approach, so it's a pretty smooth journey. I mean, the terrain's not that difficult to navigate. Um, you can see the forest getting closer. You, you reach the edge of the forest just about where the pilgrim's path that comes from the north enters the forest."
+        },
+        {
+          "startUid": "u3147",
+          "endUid": "u3149",
+          "quote": "DM: But still when you s—I mean, when you step inside at 7:00, like you know, sun—sun sets quickly in the tropics, and you know, it's already start—the light is starting to get low, and so there's long shadows that are kind of cast across the, the, you know, the few open clearings that you pass through."
+        },
+        {
+          "startUid": "u3189",
+          "endUid": "u3195",
+          "quote": "Delwath: Yeah. Once we come into the forest. But actually we haven't been invisible for a little bit.\n\nDM: Yeah, for a couple miles.\n\nDelwath: 'Cause I only did it, it covered eight of the 10 miles invisible.\n\nDM: Yeah.\n\nDelwath: But we were long off the, like, flight path by the time it disappeared."
+        }
+      ],
+      "from": "p24",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "walk",
+      "distance": {
+        "value": 10,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "Ten-ish miles are forecast; the retrospective account explicitly describes eight of the ten miles under invisibility."
+      },
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "DM narrates the next two hours of travel."
+      },
+      "route": [
+        {
+          "reading": "Pass increasingly scattered manors and ancient tent sites with arcane circles, with no independent stop narrated."
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u3448",
+        "endUid": "u3462"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo alone steps off the road to the murky pool and sees painful reflected faces.",
+      "evidence": [
+        {
+          "startUid": "u3423",
+          "endUid": "u3438",
+          "quote": "DM: ... walking, it's like 8:00 at night, um, uh, you pass again, um, a place where, um, a stream seems to flow like on the right side, or sorry, on the left side now 'cause the east seems to s- s- flow close to the, very close to the, the, um, the road.\n\nDelwath: Does the, does the forest keep going up the mountain or-\n\nDM: About halfway up the mountain.\n\nDelwath: Okay. So we're still in the forest.\n\nDM: You're still in the... You haven't hit the part where it spirals yet. When-\n\nKenzo: And is the stream—and the—is the stream flowing up or down?\n\nDM: Down, but it's stopped. Like it's stopped. You can see it flowing and it stops. And by the side of the, by the side of the road, there's this big pool which the stream flows into, but doesn't exit from."
+        },
+        {
+          "startUid": "u3448",
+          "endUid": "u3462",
+          "quote": "DM: Um, so you, you walk, you walk over to the pool, um, and as you get closer, you see that the, um, the water is kind of murky and filled with like debris. And there's two stones that are sort of standing next to it, like sort of an entryway to a little viewing area over the pool that are actually cracked. One has fallen in half and part of the stone has, um, fallen into the pool itself. And you can see staring out at you from the pool, like the reflections of people with hollow eyes, their faces contorted in pain. Make a wisdom saving throw.\n\nUnknown: Everybody or just-\n\nDM: Just Kenzo. He's the only one who's—\n\nDelwath: [laughs] Well, I don't know. I was thinking we might have all followed him, but I guess not. [laughs] Thanks for being the, um, guinea pig, Kenzo."
+        },
+        {
+          "startUid": "u3476",
+          "endUid": "u3499",
+          "quote": "DM: You feel a bit uneasy, but nothing bad happens to you.\n\nKenzo: 24. Wait, sorry. So I see the reflections of these, these like, like tortured souls or whatever in the thing, but there's no... It's—I'm just seeing their reflections.\n\nDM: You're just seeing the reflections. There's nothing standing around the pool.\n\nKenzo: Do I sense anything standing around the pool?\n\nDM: Nope.\n\nKenzo: Um, do I have the heebie-jeebies?\n\nDM: Yeah, a little bit.\n\nKenzo: Did I have the heebie-jeebies before?\n\nDM: No. I mean, it's a creepy image, right? It's like people who died in pain looking back up at you and kind of screaming at you.\n\nDelwath: But they're not underwater looking up, they're reflections?\n\nUnknown: Is it-\n\nDM: They seem like they're reflections, yeah.\n\nKenzo: Do they look like they're... So they don't look like they're trapped in there. They look like they're standing around the pool, but I just can't see them?\n\nDM: Exactly. Yeah, yeah, yeah.\n\nKenzo: And, uh, do they look like they were, um, like what, what was the way in which they died? Were they, do they like have like battle wounds and stuff, or do they look like sickly, um-\n\nDM: Sickly.\n\nKenzo: Almost as though like a demonic red mist may have—\n\nDM: Kind of something like that, yes."
+        }
+      ],
+      "from": "p13",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u3522",
+        "endUid": "u3537"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The group continues another mile or so along the forest road to the next roadside pool, about two miles straight from the summit.",
+      "evidence": [
+        {
+          "startUid": "u3521",
+          "endUid": "u3537",
+          "quote": "Kenzo: I don't know. I'll, I'll touch the water later.\n\nDM: Okay. [laughs] So you ke- you keep going and, and you're now-\n\nUnknown: We'll get that on the way back.\n\nDM: ... another-\n\nKenzo: All right. I will though.\n\nDM: ... um, it's another, uh, mile or so as you, the pa—the road begins to like go slightly up, um, and you can see about, um, half a mile ahead is the place where it curved that you can't—you couldn't see beyond. Forest is still open, the moonlight is shining down. Um, another like stream with another pool. This seems to be like all of the water that flows down off the mountain stops in this pool.\n\nKenzo: Right. Are we about two miles away yet?\n\nDM: Um, at this point, yeah. I mean, the, the road is longer than two miles from here, but the-\n\nUnknown: Straight off is two miles.\n\nDM: ... straight off is about two miles, yeah."
+        }
+      ],
+      "from": "p13",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "walk",
+      "distance": {
+        "value": 1,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "Narrated progression along the road."
+      }
+    },
+    {
+      "id": "l16",
+      "type": "observation",
+      "source": {
+        "startUid": "u3596",
+        "endUid": "u3655"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Clairvoyance above the bell tower reveals the broken light, the courtyard and the eight intact temples without signs of substantial inhabitation.",
+      "evidence": [
+        {
+          "startUid": "u3557",
+          "endUid": "u3565",
+          "quote": "Seeker: Um, yeah, so I'll use one glove charge and cast—what level is clairvoyance? Third, one, third level slot. Oh, second level slot. All right. And I'm gonna place the sensor... We don't really know anything about the layout of the buildings though, do we?"
+        },
+        {
+          "startUid": "u3587",
+          "endUid": "u3594",
+          "quote": "Seeker: I, I think actually I'm gonna put it up high-\n\nKenzo: I like that.\n\nSeeker: ... near the bell tower-\n\nKenzo: I like that.\n\nSeeker: ... so I can look, I can inspect the crystal structure and also see down into the courtyard and through any windows.\n\nKenzo: That, that's great.\n\nDM: All right."
+        },
+        {
+          "startUid": "u3596",
+          "endUid": "u3655",
+          "quote": "DM: So you see, um, this looks like—so there's the bell tower. The, the, the bell is intact.\n\nUnknown: Mm-hmm.\n\nDM: Um, but this, the structure that stands on top of it looks like it once was like a, like a giant sort of crystalline light that's now broken and cracked. Like you can see mirrors, like it was clearly...\n\nUnknown: It's like a lighthouse almost.\n\nUnknown: Weird.\n\nDM: But it would've sh- shown somehow, probably magic, but it's like clearly sort of also constructed, right? It's not just a crystal that glows magically, right? It's like-\n\nUnknown: A mechanism.\n\nDM: ... a mechanism, but the mechanism is destroyed or cracked. Um, the bell is intact, and then looking down, the courtyard is in pretty good shape, right? Like it's paved, um, and-\n\nUnknown: This is definitely where you steer the island from.\n\nDM: ... and it's [laughs], and there's eight, so there's eight temples that surround the courtyard, each one with a separate statue of the, of the eight gods of Mos Numena. No sign of anything there, just the moonlight shining over the stones.\n\nUnknown: No lights?\n\nDM: No lights, no torches, no fires, no movement, no weird creepy shadows, no dragons.\n\nSeeker: Try sound for a minute just to see.\n\nDM: You hear the sort of murmur of the wind.\n\nSeeker: All's qui- all's quiet here.\n\nKenzo: Hmm. Hmm.\n\nSeeker: It seems we should approach quietly.\n\nKenzo: Do we, um...\n\nSeeker: Oh, signs of just like recent foot traffic, like any wear on the stones or like leaves piled and...\n\nDM: Make a investigation check.\n\nSeeker: So [die rolling] 18.\n\nUnknown: [laughs]\n\nSeeker: Oh, three.\n\nDM: Is it—your perspective is a little bit high to see any, like, careful detail because the... I mean, the bell tower goes up fairly tall, right?\n\nSeeker: Mm. Oh, yeah. I'm high up.\n\nDM: And you're up above the bell tower, so it's hard to make out any obvious details. But it definitely doesn't seem to be destroyed in the same way that, like, the town, the port town was destroyed. Like, there's not... The, the temples are all intact.\n\nSeeker: Mm.\n\nDM: Like, their roofs, they're, like, not... And there's no... There's definitely not signs of, you know, a large group of something living here, right? Like, there's no-\n\nWellby: No trash. There's no-\n\nDM: There's no trash. There's no... Yeah, there's no, like, scraps of food. There's no, like, clothes hanging out to dry. There's no, like, signs of substantial inhabitation. But if, like, one dragonet is walking around, like, they wouldn't really leave enough right behind for you to notice-\n\nSeeker: Mm.\n\nDM: ... from this high up.\n\nSeeker: [sighs] Hmm. Well, that's what we get from clairvoyance, I guess."
+        }
+      ],
+      "place": "p17",
+      "observerPlace": "p15",
+      "mode": "remote"
+    },
+    {
+      "id": "l17",
+      "type": "presence",
+      "source": {
+        "startUid": "u3730",
+        "endUid": "u3735"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party remains at the forest-road stop while waiting for the messenger and taking a short rest.",
+      "evidence": [
+        {
+          "startUid": "u3730",
+          "endUid": "u3735",
+          "quote": "Kenzo: Should we short rest anyways while we wait?\n\nDelwath: I mean, that I was just thinking maybe we should short rest while we're waiting.\n\nKenzo: That'd be great. That'll get all my ki back.\n\nDM: Okay. Send it off. Short rest. Yes. No response comes."
+        },
+        {
+          "startUid": "u3830",
+          "endUid": "u3831",
+          "quote": "DM: It's not a familiar. It's just like a spirit messenger. So you finish your short rest uneventfully."
+        }
+      ],
+      "place": "p15"
+    },
+    {
+      "id": "l18",
+      "type": "observation",
+      "source": {
+        "startUid": "u3866",
+        "endUid": "u3893"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "During the same rest, Delwath scries the elder rigging a boulder trap in the Temple of the Sibyl.",
+      "evidence": [
+        {
+          "startUid": "u3866",
+          "endUid": "u3893",
+          "quote": "DM: ... a very, um, elderly, um, dragonet. Same kind of creature as before. Their skin is almost a light gray. It seems like all color has faded from their skin. There's, like, a few faint little traces of purple that you can see.\n\nKenzo: Mm.\n\nDM: And they're currently walking slowly around the inside of a temple. You can't tell which one it is from the inside, and seem to be in the process of rigging some kind of trap to drop from the ceiling on whoever enters the temple.\n\nDelwath: [laughs] Um, I can't tell which temple it was?\n\nDM: Uh.\n\nDelwath: There's no iconography inside the temple?\n\nDM: Oh, I guess you have darkvision, right? So.\n\nDelwath: Yeah, darkvision to 120 feet.\n\nDM: Right. Um, uh, this is—\n\nDelwath: No, I have eyes of the-\n\nDM: Right, so you can see—\n\nDelwath: I can see in all darkness of any sort.\n\nDM: So it's pitch, it's pitch black inside the temple. Um, uh, I guess there's, like, a faint little bit of moonlight through some windows. Um, you can see the, uh, um... Yeah, it's, it's the, the statue that you recognize would be The Sibyl, and it seems to be... But it seems like the inside of the temple has been kind of, like, a lot of the stones have been sort of shifted around, like clearly somebody's lived inside here."
+        },
+        {
+          "startUid": "u3904",
+          "endUid": "u3927",
+          "quote": "Kenzo: What kind of trap is he setting up?\n\nDM: Um, there's like a giant stone that he's, like, kind of pulling on to a series of pulleys to lift up above.\n\nKenzo: Is there, like, a sandwich at the bottom or something in there? [laughs]\n\nSeeker: Some tiny but delicious looking snack.\n\nKenzo: [laughs]\n\nDM: It's a little piece of fruit sitting on, in the door entrance here.\n\nKenzo: Well, he knows that he lives in Elsweyr, so.\n\nDelwath: Yeah. What, like, I'm gonna study the trap for a little bit. What's the trigger mechanism? Is it obvious?\n\nDM: Um, he hasn't gotten to the trigger mechanism yet.\n\nDelwath: Oh, okay.\n\nDM: Right now he seems to be just struggling with some pulleys and rope to, like, lift... Like, it looks like a pretty substantial-\n\nDelwath: Right.\n\nDM: ... block of stone, presumably set up to fall on your heads when you enter the inside.\n\nKenzo: And there's only one door in here?\n\nDM: There's only one door into the temple, just the main door. Because you don't live to be as grand as you are-\n\nUnknown: By trusting people.\n\nDM: ... by trusting everyone."
+        },
+        {
+          "startUid": "u3954",
+          "endUid": "u3975",
+          "quote": "Delwath: And I wanted to short rest, so I didn't want to scry again.\n\nDM: Struggling to pull the giant block of stone up, but you didn't see the mechanism that he was trying to set.\n\nDelwath: So he's had an hour to still build it since we—\n\nDM: Yeah, this is right at the beginning. It's sort of been, this would've been shortly after-\n\nDelwath: As soon as I sent... No, not even. As soon as I sent the lynx, we would've s—I would've cast scry pretty much. Or, like, it's not... 'Cause the hour, actually the hour, I would've probably seen... Okay, so the point was to short rest during the hour the lynx was gone.\n\nDM: Okay, well this hap—this is all happening after the lynx came.\n\nUnknown: Yeah.\n\nDM: So maybe you didn't see it.\n\nDelwath: Well, no, the lynx would have-\n\nDM: Oh, the lynx would've been there faster.\n\nDelwath: ... the lynx got there in two minutes.\n\nUnknown: It was the 50 mile an hour wind.\n\nDM: Right, so you actually see the lynx waiting there.\n\nUnknown: Yeah.\n\nDM: And in your scry, it's just standing there.\n\nUnknown: With the, like message glowing in its jaw or something.\n\nDM: And it seems to be ignoring it completely."
+        }
+      ],
+      "place": "p20",
+      "observerPlace": "p15",
+      "mode": "remote",
+      "observedActors": [
+        "elder dragonet"
+      ],
+      "note": "The later correction places this observation shortly after sending the lynx, before completion of the rest."
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u3999",
+        "endUid": "u4006"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Another half hour of walking reaches the elven memorial beside the circular road.",
+      "evidence": [
+        {
+          "startUid": "u3999",
+          "endUid": "u4006",
+          "quote": "DM: So you keep walking. After another, like half an hour of walking, you, you come to the point where the road curves and it seems to spiral, to join, um, like a circular road.\n\nDM: And just where it joins this road that's circling up to the top of the mountain, um, you see, uh, again, on the edge of the path, a sort of a slight clearing where there's two unusually tall trees. And almost like growing between the trees there's this sort of curving piece of, uh, sort of pale gray stone, but it looks like... This actually sort of grows into the trees. And written on the stone are hundreds of names of elves written in Elvish. But the s- the, the scripts almost seem to like drift slowly through the stone between the two trees."
+        }
+      ],
+      "from": "p15",
+      "to": "p21",
+      "completion": "arrived",
+      "mode": "walk",
+      "duration": {
+        "value": 0.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated additional walk after the rest."
+      }
+    },
+    {
+      "id": "l20",
+      "type": "observation",
+      "source": {
+        "startUid": "u4031",
+        "endUid": "u4041"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Touching the memorial reveals a remembered elf on battlements facing ships, then earlier memories of that elf’s life.",
+      "evidence": [
+        {
+          "startUid": "u4031",
+          "endUid": "u4041",
+          "quote": "DM: So when you touch it, um, one of these like names kind of drifts towards your hand and you suddenly have a memor—a, you suddenly see a vision or a memory-\n\nKenzo: Mm.\n\nDM: ... of, um, an elf standing in a rank of hundreds of elves, um, on a battlements watching a fleet of ships sailing on a sea. You don't recognize any of this. Um, and as they're, um, drawing their, like arrows, suddenly they all draw their arrows and suddenly like all of the arrows burst into flames immediately as they're released from the bows, and this rain of fire flies down on the ships.\n\nDM: And then something flies up from one of the ships, like a, not a dragon, like some sort of twisted beast like the Nazgul creatures in The Lord of the Rings, right? And dives down and grabs this elf and like rips him-"
+        },
+        {
+          "startUid": "u4058",
+          "endUid": "u4073",
+          "quote": "DM: ... it seems like the, so the, the sort of magic of it is when you put your hand there, some names sort of drift towards you, right? Like the ones that maybe are the, the closest to you and you, you, you see back in this person's life and you see that they were originally, uh—they first joined the army as a quartermaster, and you see them cooking, right? You see like they were... You, you get a sort of reflection or echo of some of the things they left behind and the people that they, other elves and humans that they cared for.\n\nDelwath: Any way of telling where they were born or grew up? Or-\n\nDM: No.\n\nKenzo: But this is-\n\nDM: Long ago and far away.\n\nKenzo: Yeah.\n\nDM: But y- the sense, like the feeling you get is like this: your in—your intuition is that all of these are names of elves who died."
+        }
+      ],
+      "place": "p22",
+      "observerPlace": "p21",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l21",
+      "type": "observation",
+      "source": {
+        "startUid": "u4361",
+        "endUid": "u4399"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "The forest shares a memory of pilgrims walking through its formerly more vibrant moonlit landscape.",
+      "evidence": [
+        {
+          "startUid": "u4361",
+          "endUid": "u4399",
+          "quote": "Kenzo: Uh, and I, I basically tell it that I want to also remember it, and I'm saying it as, like, the... Like, and I—I'm asking for it to share back to me a memory or an image that I can put into the staff.\n\nDM: You... Yeah, I get what you're going for. Um, so you, you see, you see an image of what must be long ago, the moon still shining, um, and people walking on the road. A- you know, everybody's, you know, carrying different things. Like, there's a couple elves, there's humans. Um, there's, like, one stoneborn. Like, it's not... It's a mixed species flock, right? Like, there's this just people traveling, and, and you do get the feel it—like you have a sort of vibe, right? It's not a clear image. It's more of a vibe. Yeah. It is mostly humans and elves, but...\n\nDM: And everybody is remembered in different ways, right? The, the humans have their gods, the elves have their gods. But everywhere through the forest, everybody is remembered.\n\nKenzo: Hmm.\n\nDM: And then, and you get the vibe of, like, the forest. Y- you know, it's vibrant, right? It's like, you know, the s—the moon is shining, but the leaves are sort of rustling. The f- flowers are blooming. There's... And it seems it's much more alive than it seems now. Like, the trees are fine, right, but there's-\n\nKenzo: Hmm.\n\nDM: ... just less. Th- everything's duller-\n\nKenzo: Mm-hmm.\n\nDM: ... than it once was, and there's almost this echo of, like, a sense of loss. Like, something was cut off. Something was... The, the, the forest, the trees, all speaking as the collective sense, were isolated somehow.\n\nKenzo: And they don't know how.\n\nDM: They don't know how."
+        }
+      ],
+      "place": "p12",
+      "observerPlace": "p21",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u4566",
+        "endUid": "u4599"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party follows the spiral road to the summit temple courtyard.",
+      "evidence": [
+        {
+          "startUid": "u4505",
+          "endUid": "u4510",
+          "quote": "DM: Oh, I guess actually as, as, by a straight line you are probably within 1,000 feet of the top.\n\nWellby: Yeah.\n\nDM: 'Cause the trees are where, the trees are like partway up, so the, like all of the roads come in to like this central circular road that like spirals up-\n\nWellby: Right.\n\nDM: ... to the top. So."
+        },
+        {
+          "startUid": "u4524",
+          "endUid": "u4528",
+          "quote": "DM: So you're probably [laughs] if you follow the spiral-\n\nSeeker: [laughs] I'm still not done.\n\nDM: ... if you follow the spiral up the road, you're probably still about a mile from the top, but by, if you just went straight up you're like 1,000 feet from the top.\n\nUnknown: Just like him to do that. Okay.\n\nDM: 'Cause the road sort of goes in a very gradual-"
+        },
+        {
+          "startUid": "u4563",
+          "endUid": "u4569",
+          "quote": "DM: Nope. So you continue.\n\nUnknown: Mm-hmm.\n\nDM: You reach the top around, I don't know, 10:00 PM. No. Yeah, probably 10:30, something like that. Yeah."
+        },
+        {
+          "startUid": "u4576",
+          "endUid": "u4599",
+          "quote": "DM: Um, so you, so as you come, you come out into this sort of clear area, the top, you know, 500 feet of the mountain is exposed. And you can see now clearly the structure, right? There's these eight temples arrayed, arrayed in a circle. There's the courtyard, there's the bell tower with the lighthouse like thing on top, and then on the outskirts there's like a number of administrative buildings.\n\nDM: There's like clearly like one building that's fairly large and that would have been the like hostel where pilgrims could spend the night before they make the journey back the next day, right? If they arrive at dawn and they do their prayers or whatever. Um, there's, ah, you know, there's like clearly like living quarters for, um, you know, for it—whoever would've staffed this. There's, um, what... You haven't seen this before, but it looks like a, uh, like a, a mess hall where you can see it's, it's all open. It, like the, the living quarters in this are, are—and the hostel are like, you know, stone buildings basically intact, so you can't see into.\n\nDM: But then there's like a large area where there's, um, I don't know, maybe 15 of these little arcane circles arrayed in a sort of nice way with stone benches sort of carved so people could like sit and congregate and eat. But it looks like space for a pretty large number of people, like 100 people could have ha- shared a meal there.\n\nUnknown: Right.\n\nSeeker: Peak pilgrimage season was heavy traffic.\n\nDM: Yeah. No signs of anything moving. You can see the Temple of the Sibyl. It's obvious."
+        }
+      ],
+      "from": "p21",
+      "to": "p18",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Follow the circular road as it spirals up the central mountain.",
+          "place": "p16"
+        }
+      ]
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u4685",
+        "endUid": "u4749"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After Wellby holds the trap wire under tension and opens the doors, the party enters the Sibyl temple at its doorway.",
+      "evidence": [
+        {
+          "startUid": "u4685",
+          "endUid": "u4702",
+          "quote": "DM: Yeah. Okay. So Wellby takes a bit of rope and like ties it so it keeps constant tension, and then you just open the doors.\n\nWellby: All right.\n\nDM: What happens, you can see there's a giant stone block that's like angled down. It would like swing. It's the size of the doors. So if you normally open the doors, it would swing and clip you in the middle of the chest.\n\nWellby: Oh, I'm gonna give a good appreciative look and just gonna say, \"Yes, that's some pretty nice work.\" Uh-\n\nUnknown: Hello?\n\nWellby: And then let's, uh-\n\nDM: Well, go in.\n\nWellby: ... go in, yeah.\n\nDM: Um, there's nothing inside. I mean, there's no movement.\n\nWellby: Oh.\n\nDM: You say hello."
+        },
+        {
+          "startUid": "u4713",
+          "endUid": "u4725",
+          "quote": "Delwath: I'll, I'll call out \"Hello, elder.\"\n\nDM: So the layout inside is like there's, you know, there's like-\n\nDelwath: I'm also just casting detect thoughts, by the way.\n\nDM: ... there's a, um, you know, there's like p- there's like places people sit. There's like, it's like a sort of, sort of standard like temple arrangement. It's, it's circ- it's like sort of circular. There's seating in the middle. There's like an altar and a statue of The Sibyl at the far end.\n\nUnknown: Bullshit. [laughs]\n\nDM: And when you say in Elvish, um, the temple of The Sibyl booms out in a booming voice in Elvish, \"Who dares disturb the rest of the gods?\""
+        },
+        {
+          "startUid": "u4746",
+          "endUid": "u4755",
+          "quote": "DM: But are you... You're currently all like standing in the doorway, right?\n\nUnknown: I'm-\n\nWellby: On the inside, out of the way in case the trap springs, but yeah, swinging.\n\nDM: ... yeah, yeah.\n\nDelwath: Yeah. I'm gonna walk like, uh... How big is it and how far is it from here to the other end?\n\nDM: Like 80 feet.\n\nDelwath: Okay. So I'll walk towards the middle. I'll call out hello a few... I'll, I'll ignore—Delwath's gonna ignore the booming voice.\n\nDM: As you start walking, the booming voice says, \"Halt, or the gods will punish you.\""
+        }
+      ],
+      "from": "p18",
+      "to": "p20",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l24",
+      "type": "observation",
+      "source": {
+        "startUid": "u4818",
+        "endUid": "u4888"
+      },
+      "actors": [
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "Seeker senses movement below the floor and Wellby identifies the tunnel’s peephole; the elder later emerges behind the altar.",
+      "evidence": [
+        {
+          "startUid": "u4818",
+          "endUid": "u4822",
+          "quote": "Seeker: I put my hand to the f- to the stone floor and use tremor sense.\n\nDM: Uh, there is something moving about 10 feet below the ground in a tunnel.\n\nSeeker: I just look around and go like... [laughs]\n\nDM: It's blocked by one foot of stone."
+        },
+        {
+          "startUid": "u4859",
+          "endUid": "u4865",
+          "quote": "Wellby: I sort of subtly gesture where the spy hole is to look up to.\n\nDM: You notice that like, okay, so in, um, there must be a tunnel that runs underneath the floor and then goes up like at the base of the statue and you can—Wellby would notice this. You can see that there's...\n\nUnknown: A little peephole.\n\nDM: ... a little peephole like cut into the-\n\nUnknown: That's great.\n\nDM: ... like base of the statue."
+        },
+        {
+          "startUid": "u4879",
+          "endUid": "u4888",
+          "quote": "DM: Um, you hear a tu—like, uh, behind the altar you hear like a scraping stone and the like so like somebody's moving a, like a, um, a stone tile, and then like climbing up you see this ancient, um, elderly dragonet, like again sort of grayish, the, what you saw in scrying. Um, and he's walking slowly. He's carrying like a short staff in one hand and a wand in the other that he's still kind of pointing at you.\n\nKenzo: Oh, shit.\n\nDM: Um, and he says, not in a booming voice anymore, um, kind of blinking a little bit, \"I would know the story of where you got those fragments.\""
+        }
+      ],
+      "place": "p23",
+      "observerPlace": "p20",
+      "mode": "local",
+      "observedActors": [
+        "elder dragonet"
+      ]
+    }
+  ]
+}

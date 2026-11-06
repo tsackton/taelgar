@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-time-markers.json",
+    "sha256": "e1e8599131fdd1199fe61874d03f3189f4fc4ecfa848a39abf5724b8557111ef"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-transcript.md",
+    "sha256": "103e3505e672498e70879a8e0b49164fef6cdf3edb512d970f3c796b26e8689f"
+  },
+  "dateAssessment": "Working adventure calendar: May 18, 1749 DR, from the unchanged session YAML and session 107’s registered narrative. That narrative (u0019–u0025) ends at the Wanderer hostel in early afternoon; this transcript opens with the statue climb and later independently gives about 14:00 (t01). Session 107 is an intervening narrative session, so no direct session 106 transcript handoff is assumed. The current transcript speaks no month/day. May 19 remains an open closing boundary: the extra hour of questions is credited, but the proposed overnight is not recorded as completed. The time extraction therefore remains compatible rather than matched. The memorial visions have undated historical settings; their telling occurs during the party’s dusk stop.",
+  "watches": [
+    {
+      "day": "May 18, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "About 14:00 at the statue; brief approach, bonding ritual and roughly hour-long guided walk follow.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04"
+      ],
+      "startDate": "1749-05-18",
+      "endDate": "1749-05-18"
+    },
+    {
+      "day": "May 18, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "The two-hour overland journey ends at the forest around 19:00.",
+      "markers": [
+        "t05",
+        "t06"
+      ],
+      "startDate": "1749-05-18",
+      "endDate": "1749-05-18"
+    },
+    {
+      "day": "May 18, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Sunset walking precedes the stated 20:00 pool scene; the loose hour estimates remain inconsistent.",
+      "markers": [
+        "t07",
+        "t08"
+      ],
+      "startDate": "1749-05-18",
+      "endDate": "1749-05-18"
+    },
+    {
+      "day": "May 18, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "One completed hour of rest reaches about 21:00; Delwath’s scrying is placed inside that same hour.",
+      "markers": [
+        "t09",
+        "t10",
+        "t11"
+      ],
+      "startDate": "1749-05-18",
+      "endDate": "1749-05-18"
+    },
+    {
+      "day": "May 18, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "A half-hour walk after the 21:00 rest reaches the memorial; play returns here after both memory images.",
+      "markers": [
+        "t12",
+        "t13",
+        "t14",
+        "t15",
+        "t16"
+      ],
+      "startDate": "1749-05-18",
+      "endDate": "1749-05-18"
+    },
+    {
+      "day": "May 18, 1749",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "stated",
+      "summary": "The summit arrival is corrected from about 22:00 to about 22:30.",
+      "markers": [
+        "t17"
+      ],
+      "startDate": "1749-05-18",
+      "endDate": "1749-05-18"
+    },
+    {
+      "day": "During May 18–19, 1749",
+      "startWatch": "midnight",
+      "endWatch": null,
+      "basis": "inferred",
+      "summary": "After the 22:30 audience, another hour of questions is credited; the subsequent rest’s completion remains open.",
+      "markers": [
+        "t18"
+      ],
+      "dateWindow": [
+        "1749-05-18",
+        "1749-05-19"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 107 registered narrative",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-107/cleaned/dunmari-frontier-107-source-prepared.md",
+      "sha256": "39682711279b31db958790d59901476d5669c1649af079b8c5275be5c19bd9ef"
+    },
+    {
+      "label": "Preserved timeline review",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-timeline-review.json",
+      "sha256": "dc681897990a4f5c98cd6cb9de11d194e220b2941506bc1cb03c92b2d3267339"
+    },
+    {
+      "label": "Preserved timeline evidence",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-timeline-evidence.json",
+      "sha256": "c4ef33b4d81e084b747746ad705608c16392991995572b37b3c39d29efe3dab5"
+    }
+  ]
+}
