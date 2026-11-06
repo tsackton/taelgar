@@ -1,0 +1,59 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dragonets/dragonets-002/cleaned/dragonets-002-session.yaml",
+  "source": {
+    "path": "_sessions/dragonets/dragonets-002/cleaned/dragonets-002-time-markers.json",
+    "sha256": "286178e4edabfcf5460c88a5d2e5f64c5504e3931fcd9657722b59431b2ac3a0"
+  },
+  "transcript": {
+    "path": "_sessions/dragonets/dragonets-002/cleaned/dragonets-002-transcript.md",
+    "sha256": "9da91e0da2b7e241769afae9f46dbaecb0528e24db937b333b7f371cb4be2777"
+  },
+  "dateAssessment": "Campaign dates remain unknown: drStart and drEnd are null, and no in-world date is spoken. Only relative days are used; the real-world recording date supplies no campaign date. The opening narrates sleep after last night’s egg encounter, but its hours are explicitly unknown and its inclusion as session time remains qualified. The sunrise description is corrected to roughly 9–10 a.m. (t03); about ten falls near the morning/midday boundary, so the morning grouping is approximate. Short elapsed activities are retained without filling unmeasured travel or conversation time. The later seated activities have an elapsed-time anchor but no reliable civil watch. Childhood memories, reports about the previous festival, and the narrator’s off-island cutaway supply no additional campaign dates.",
+  "watches": [
+    {
+      "day": "Preceding night → waking day (dates unknown)",
+      "startWatch": null,
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Sleep ends at the waking scene, later clarified to about 9–10 a.m.; duration unknown.",
+      "markers": [
+        "t01"
+      ],
+      "scope": "Opening sleep",
+      "sourceRanges": [
+        [
+          "u0219",
+          "u0225"
+        ]
+      ]
+    },
+    {
+      "day": "Waking day (date unknown)",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Waking corrected to 9–10 a.m.; food-machine output and sample collection add only imprecise minutes.",
+      "markers": [
+        "t02",
+        "t03",
+        "t04",
+        "t05"
+      ],
+      "scope": "Opening and breakfast"
+    },
+    {
+      "day": "Later on the waking day (date unknown)",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Heart chamber: about ten minutes since Glenda arrived; Zeno’s nap and Sculpit’s daydreaming overlap.",
+      "markers": [
+        "t06",
+        "t07",
+        "t08"
+      ],
+      "scope": "Elapsed time; civil watch unassigned"
+    }
+  ]
+}

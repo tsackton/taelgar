@@ -1,0 +1,1101 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dragonets/dragonets-002/cleaned/dragonets-002-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "47894f3f8713878994db0b324ba58f208bf9caaad96ae3b4dc53ac925109e766",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "9da91e0da2b7e241769afae9f46dbaecb0528e24db937b333b7f371cb4be2777",
+        "transcriptProcessing.artifacts.cleaned": "b83dc68cb3b3cff7581be11493508f7cd9f7bfb363bc2dcd7b8c03f2b4d3ab05"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "item",
+      "label": "Sacred egg",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0014",
+            "endUid": "u0019"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0059",
+            "endUid": "u0106"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1128",
+            "endUid": "u1206"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1290",
+            "endUid": "u1318"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e002",
+      "kind": "npc",
+      "label": "Dying amethyst dragonet in the vision",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0025",
+            "endUid": "u0049"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1281",
+            "endUid": "u1289"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "candidates": [
+        "People/PCs/Great War/Companions/Dimitaur.md"
+      ],
+      "confidenceExplanation": "The distinctive vision figure merits inclusion, but the Dimitaur candidate rests on his relationship with the jade-handed figure rather than a named identification."
+    },
+    {
+      "id": "e003",
+      "kind": "npc",
+      "label": "Jade-handed friend in the vision",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0044",
+            "endUid": "u0049"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "candidates": [
+        "People/PCs/Great War/Rai.md"
+      ],
+      "confidenceExplanation": "Rai is a plausible candidate from the jade hand and dragonet companionship, but the passage never names him and the supporting hand description is editorial."
+    },
+    {
+      "id": "e004",
+      "kind": "npc",
+      "label": "Uncle Kaz",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0138",
+            "endUid": "u0159"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Kaz"
+      ]
+    },
+    {
+      "id": "e005",
+      "kind": "organization",
+      "label": "Dragonet monks of the mountain monastery",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0138",
+            "endUid": "u0159"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e006",
+      "kind": "npc",
+      "label": "King of the Hermit Crabs",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0289",
+            "endUid": "u0303"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e007",
+      "kind": "npc",
+      "label": "Horseshoe Brad",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0359",
+            "endUid": "u0363"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e008",
+      "kind": "npc",
+      "label": "Piglet",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0365",
+            "endUid": "u0366"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "Piglet is a named recurring acquaintance in Tony’s morning check-in, but this passage supplies almost no distinguishing identity or creature detail."
+    },
+    {
+      "id": "e009",
+      "kind": "npc",
+      "label": "Grandpa Jim the Cloud",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0367",
+            "endUid": "u0411"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0621",
+            "endUid": "u0634"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0706",
+            "endUid": "u0720"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Grandpa Jim",
+        "the cloud"
+      ]
+    },
+    {
+      "id": "e010",
+      "kind": "npc",
+      "label": "Xena",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0427",
+            "endUid": "u0434"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0660",
+            "endUid": "u0660"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0740",
+            "endUid": "u0753"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e011",
+      "kind": "npc",
+      "label": "Paul",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0461",
+            "endUid": "u0485"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0498",
+            "endUid": "u0498"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Paulie"
+      ]
+    },
+    {
+      "id": "e012",
+      "kind": "npc",
+      "label": "Joey",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0461",
+            "endUid": "u0465"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0483",
+            "endUid": "u0485"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e013",
+      "kind": "item",
+      "label": "Food machine nearest the Wanderer",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0415",
+            "endUid": "u0436"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0488",
+            "endUid": "u0601"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0609",
+            "endUid": "u0634"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0706",
+            "endUid": "u0717"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0812",
+            "endUid": "u0825"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e014",
+      "kind": "organization",
+      "label": "Dragonet shamanic sect",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0869",
+            "endUid": "u0895"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1044",
+            "endUid": "u1047"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e015",
+      "kind": "npc",
+      "label": "Ilse",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0874",
+            "endUid": "u0895"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0922",
+            "endUid": "u0989"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e016",
+      "kind": "npc",
+      "label": "Ilse’s supervisor",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0982",
+            "endUid": "u0986"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e017",
+      "kind": "npc",
+      "label": "Shaman Oru",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0890",
+            "endUid": "u0904"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1036",
+            "endUid": "u1057"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1117",
+            "endUid": "u1142"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1275",
+            "endUid": "u1289"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1297",
+            "endUid": "u1309"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1320",
+            "endUid": "u1349"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1377",
+            "endUid": "u1396"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1533",
+            "endUid": "u1534"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Oru",
+        "the shaman"
+      ]
+    },
+    {
+      "id": "e018",
+      "kind": "item",
+      "label": "Oru’s circular ticking artifact",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1084",
+            "endUid": "u1116"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e019",
+      "kind": "npc",
+      "label": "Roska",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1350",
+            "endUid": "u1364"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1497",
+            "endUid": "u1499"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1533",
+            "endUid": "u1537"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1865",
+            "endUid": "u1868"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1974",
+            "endUid": "u1985"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2004",
+            "endUid": "u2024"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2129",
+            "endUid": "u2147"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e020",
+      "kind": "item",
+      "label": "The Wanderer statue",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0306",
+            "endUid": "u0311"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1380",
+            "endUid": "u1422"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1452",
+            "endUid": "u1469"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1531",
+            "endUid": "u1583"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2259",
+            "endUid": "u2306"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2363",
+            "endUid": "u2446"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "the Wanderer"
+      ],
+      "confidenceExplanation": "The focal referent is the physical, enterable statue and its machinery; the god’s page names the represented deity rather than this particular object."
+    },
+    {
+      "id": "e021",
+      "kind": "npc",
+      "label": "Glenda the Seagull",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1796",
+            "endUid": "u1819"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2333",
+            "endUid": "u2338"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Glenda"
+      ]
+    },
+    {
+      "id": "e022",
+      "kind": "npc",
+      "label": "Tearful humanoid aboard the hovering vessel",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2457",
+            "endUid": "u2493"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The tearful speaker is individually distinguished, but the remaining statements are not attributed clearly enough to separate the two humanoids’ contributions."
+    },
+    {
+      "id": "e023",
+      "kind": "npc",
+      "label": "Other humanoid aboard the hovering vessel",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2457",
+            "endUid": "u2476"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2494",
+            "endUid": "u2503"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "A second humanoid is explicitly present in the cutaway, but appearance, name, and individual dialogue attribution remain unknown."
+    },
+    {
+      "id": "e024",
+      "kind": "item",
+      "label": "Glowing energy-signature device",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2463",
+            "endUid": "u2503"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e025",
+      "kind": "organization",
+      "label": "The resistance",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2491",
+            "endUid": "u2493"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2605",
+            "endUid": "u2608"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Four guardian statues inside the Wanderer",
+      "reason": "Unnamed defensive constructs lack separately established individual identities; their combat, warnings, and welcome are retained in combat/location evidence rather than fabricated NPC identities.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1652",
+            "endUid": "u1654"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1774",
+            "endUid": "u1787"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2176",
+            "endUid": "u2191"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Xena’s anonymous fans and the food-prank recipient",
+      "reason": "An incidental audience and anonymous prank target are not distinct continuing individuals or a persistent organization.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0661",
+            "endUid": "u0670"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Sculpit’s Unseen Servant",
+      "reason": "Routine summoned ability used to collect samples; no individual companion identity is established.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0448",
+            "endUid": "u0450"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0679",
+            "endUid": "u0689"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Fish, potatoes, clams, metal strands, sticks, and food samples",
+      "reason": "Food outputs and improvised presentation materials belong to the machine encounter; no individual object has a separate plot identity.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0556",
+            "endUid": "u0580"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0812",
+            "endUid": "u0825"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0988",
+            "endUid": "u1006"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Ilse’s ceremonial cloak",
+      "reason": "Costume reversal characterizes Ilse; this ordinary garment has no independent meaningful item identity.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0949",
+            "endUid": "u0950"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0982",
+            "endUid": "u0983"
+          }
+        }
+      ]
+    },
+    {
+      "label": "The Mother, Sibyl, and Warlord statues",
+      "reason": "Secondhand examples of island mechanisms awakening; the named physical statues are not meaningful individual item subjects here, nor direct encounters with the gods they represent.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0391",
+            "endUid": "u0396"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1303",
+            "endUid": "u1306"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Eight seats and musical stairs",
+      "reason": "Parts of the Wanderer’s integrated interior; their function is retained with the statue, without treating each fixture as a new item entity.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2225",
+            "endUid": "u2246"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2259",
+            "endUid": "u2306"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Hovering vessel",
+      "reason": "The unnamed vessel provides the cutaway setting; no identity beyond this appearance is established.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2454",
+            "endUid": "u2462"
+          }
+        }
+      ]
+    },
+    {
+      "label": "The four dragonet Firstborn",
+      "reason": "Postgame clarification identifies the four signatures as the session PCs; they do not become additional non-PC entities.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2498",
+            "endUid": "u2503"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2590",
+            "endUid": "u2599"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Seeker, Finnan, Charo, Crown of Purity, and Akira",
+      "reason": "Rules comparisons, personal character comparisons, and visual-reference discussion outside current fiction; no meaningful Dragonets-world referents are established.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1611",
+            "endUid": "u1620"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1943",
+            "endUid": "u1948"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2532",
+            "endUid": "u2547"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2632",
+            "endUid": "u2635"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Lizard man, kenku, and warrior or ranger in the vision",
+      "reason": "Brief remembered companions have no distinct identity established beyond their silhouettes; the coherent vision retains these references without guessing named matches.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0044",
+            "endUid": "u0049"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "Campaigns/Dragonets/Dragonets Campaign.md",
+    "Campaigns/Dragonets/Session Notes/Dragonets - Session 02.md",
+    "Campaigns/Dragonets/The Shared Vision of Home.md",
+    "People/PCs/Great War/Rai.md"
+  ]
+}

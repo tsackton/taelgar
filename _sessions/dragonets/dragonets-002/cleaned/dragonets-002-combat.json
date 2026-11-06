@@ -1,0 +1,271 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dragonets-002",
+    "sessionYaml": "_sessions/dragonets/dragonets-002/cleaned/dragonets-002-session.yaml",
+    "sessionYamlSha256": "2f07a7b4532ba5f26200f72862945c351c8042f6a2cefbed626a7bc84e55600f",
+    "transcriptPath": "_sessions/dragonets/dragonets-002/cleaned/dragonets-002-transcript.md",
+    "transcriptSha256": "9da91e0da2b7e241769afae9f46dbaecb0528e24db937b333b7f371cb4be2777",
+    "segments": {
+      "path": "_sessions/dragonets/dragonets-002/cleaned/dragonets-002-segments.json",
+      "sha256": "55deb5ac4bed1779a8670cccbd6efe2c80846dc850b87df049e202a38c0b312b",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s005",
+      "encounter": "Guardian statues inside the Wanderer",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Heska",
+              "kind": "turn",
+              "summary": "Moves to the edge of the shaft, hides with a 25, and casts Fog Cloud in a 20-foot radius around one guardian’s head, heavily obscuring it and blocking its sight.",
+              "evidence": [
+                {
+                  "startUid": "u1752",
+                  "endUid": "u1787"
+                }
+              ],
+              "note": "The selected guardian is called upper left at u1784–u1787 and upper right at u1841–u1843; use the fogged guardian rather than a resolved quadrant identity."
+            },
+            {
+              "actor": "Little Tony",
+              "kind": "turn",
+              "summary": "With Glenda flying beside him and coaching, uses his action to communicate with the guardians. Rolls with advantage (11 and 14); hears “Defend. Safe. Intruder.” and senses that the intruder warning may not be directed at him. Tells the others it is not obvious the statues want to fight them.",
+              "evidence": [
+                {
+                  "startUid": "u1788",
+                  "endUid": "u1837"
+                }
+              ]
+            },
+            {
+              "actor": "Fogged guardian",
+              "kind": "turn",
+              "summary": "Cannot see through Fog Cloud and does nothing on its narrated turn.",
+              "evidence": [
+                {
+                  "startUid": "u1841",
+                  "endUid": "u1852"
+                },
+                {
+                  "startUid": "u2073",
+                  "endUid": "u2073"
+                }
+              ],
+              "note": "The later statement at u2073 that all four guardians fired eight shots at Roska conflicts with this explicit inactive turn; no additional attacks are inserted."
+            },
+            {
+              "actor": "Second guardian to act",
+              "kind": "turn",
+              "summary": "Fires two eye-energy beams at Roska. Both are described as dodged, although the second also nicks him slightly; no numerical damage is stated for that nick.",
+              "evidence": [
+                {
+                  "startUid": "u1853",
+                  "endUid": "u1864"
+                }
+              ]
+            },
+            {
+              "actor": "Third guardian to act",
+              "kind": "turn",
+              "summary": "Fires at Roska: its first attack misses, and its second hits him squarely in the chest for 28 damage, badly wounding him. No damage type is specified beyond an energy blast.",
+              "evidence": [
+                {
+                  "startUid": "u1861",
+                  "endUid": "u1868"
+                }
+              ]
+            },
+            {
+              "actor": "Sculpit",
+              "kind": "turn",
+              "summary": "Casts Mirror Image, creating three floating duplicates, then gives Zeno a Bardic Inspiration die, discussed as 1d10. Makes no further movement or hiding action.",
+              "evidence": [
+                {
+                  "startUid": "u1869",
+                  "endUid": "u1891"
+                }
+              ]
+            },
+            {
+              "actor": "Zeno",
+              "kind": "turn",
+              "summary": "Approaches the bottom-left guardian and initiates a “swing” / “stick” call-and-response. The table uses a DC 16 Wisdom save; the guardian initially rolls 19, then fails with 4 after Sculpit’s Silvery Barbs. It is trapped in the freestyle exchange and must use its action to respond; the effect deals no damage.",
+              "evidence": [
+                {
+                  "startUid": "u1892",
+                  "endUid": "u1927"
+                },
+                {
+                  "startUid": "u1956",
+                  "endUid": "u1970"
+                }
+              ]
+            },
+            {
+              "actor": "Sculpit",
+              "kind": "reaction",
+              "summary": "Resolves Silvery Barbs after considering and withdrawing Cutting Words: forces the guardian’s successful Wisdom save to be rerolled, producing 4 and failure. Grants Heska advantage from the spell’s glow.",
+              "evidence": [
+                {
+                  "startUid": "u1928",
+                  "endUid": "u1959"
+                },
+                {
+                  "startUid": "u1971",
+                  "endUid": "u1973"
+                }
+              ],
+              "note": "The source does not specify which later roll receives Heska’s advantage or its duration; do not import a rules duration."
+            },
+            {
+              "actor": "Roska",
+              "kind": "turn",
+              "summary": "Dives toward the guardian engaged with Zeno and attacks it with his short sword; misses.",
+              "evidence": [
+                {
+                  "startUid": "u1974",
+                  "endUid": "u1978"
+                }
+              ]
+            },
+            {
+              "actor": "Last guardian to act",
+              "kind": "turn",
+              "summary": "Shoots two eye beams at Roska: the first misses and the second hits for 10 more damage. Roska is bloodied and in rough shape.",
+              "evidence": [
+                {
+                  "startUid": "u1979",
+                  "endUid": "u1985"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Little Tony",
+              "kind": "turn",
+              "summary": "Persuades Roska to leave with an 18 and a freestyle plea. Roska agrees and begs for help. Tony flies down, grabs him, and hauls him about 30 feet upward toward the iris; both remain in laser range, while the other PCs are outside it.",
+              "evidence": [
+                {
+                  "startUid": "u2001",
+                  "endUid": "u2038"
+                },
+                {
+                  "startUid": "u2041",
+                  "endUid": "u2054"
+                }
+              ]
+            },
+            {
+              "actor": "Heska",
+              "kind": "turn",
+              "summary": "While remaining hidden, searches for the targeting pattern; the DM confirms rotating heads and fire directed at Roska. Recasts Fog Cloud around Roska and Little Tony, imposing disadvantage on attacks against them. The earlier cloud on a guardian ends because only one concentration cloud can remain.",
+              "evidence": [
+                {
+                  "startUid": "u2055",
+                  "endUid": "u2096"
+                },
+                {
+                  "startUid": "u2105",
+                  "endUid": "u2107"
+                }
+              ]
+            },
+            {
+              "actor": "First guardian to act",
+              "kind": "turn",
+              "summary": "Shoots at the grouped Roska and Little Tony through their fog. A 20 is superseded by the disadvantage resolution and the narrated attack misses.",
+              "evidence": [
+                {
+                  "startUid": "u2091",
+                  "endUid": "u2100"
+                }
+              ],
+              "note": "Two shots are announced, but the source resolves only this miss explicitly before passing to the second guardian."
+            },
+            {
+              "actor": "Second guardian to act",
+              "kind": "turn",
+              "summary": "Attacks through the fog with disadvantage; the DM resolves a 13 rather than 18 and another miss.",
+              "evidence": [
+                {
+                  "startUid": "u2101",
+                  "endUid": "u2104"
+                }
+              ],
+              "note": "The passage mixes attack and disadvantage rolls; no additional individual shot result is reconstructed."
+            },
+            {
+              "actor": "Next guardian, described as third",
+              "kind": "turn",
+              "summary": "Can attack after the original cloud on a guardian has ended. Its beam is initially called a hit on Little Tony, then is turned into a miss by Sculpit’s Cutting Words; no damage lands on Tony or Roska from this beam.",
+              "evidence": [
+                {
+                  "startUid": "u2101",
+                  "endUid": "u2109"
+                },
+                {
+                  "startUid": "u2125",
+                  "endUid": "u2128"
+                }
+              ]
+            },
+            {
+              "actor": "Sculpit",
+              "kind": "reaction",
+              "summary": "Uses Cutting Words to protect Little Tony, subtracting 10 from the guardian’s attack. His rhyme accompanies the beam veering away and missing both Little Tony and Roska.",
+              "evidence": [
+                {
+                  "startUid": "u2110",
+                  "endUid": "u2128"
+                }
+              ]
+            },
+            {
+              "actor": "Sculpit",
+              "kind": "turn",
+              "summary": "Grabs Roska, who wants to escape, and casts Dimension Door 500 feet straight upward out of the Wanderer. Leaves Roska outside. Withdraws the proposed second Dimension Door after learning the iris will reopen for him, and flies back inside.",
+              "evidence": [
+                {
+                  "startUid": "u2129",
+                  "endUid": "u2144"
+                }
+              ]
+            },
+            {
+              "actor": "Guardian statues",
+              "kind": "event",
+              "summary": "As soon as Roska is teleported out, all four guardians reset their eyes to blue and stop firing. Zeno and his guardian continue their call-and-response voluntarily.",
+              "evidence": [
+                {
+                  "startUid": "u2145",
+                  "endUid": "u2151"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Roska is evacuated alive; the guardians stop firing and turn blue without being destroyed. Sculpit flies back inside, and Zeno’s call-and-response continues.",
+        "evidence": [
+          {
+            "startUid": "u2133",
+            "endUid": "u2151"
+          }
+        ]
+      },
+      "note": "The DM lets Heska act before Little Tony in the first cycle despite Tony’s higher initiative, then returns to Tony first in the next cycle. Guardian numbers and quadrants shift in speech; action labels follow narrated order without claiming a fixed map identity. The fogged guardian’s inactive first turn remains in conflict with the later eight-shot aggregate report."
+    }
+  ]
+}
