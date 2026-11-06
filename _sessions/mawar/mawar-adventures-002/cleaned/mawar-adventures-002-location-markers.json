@@ -1,0 +1,1586 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "mawar-adventures-002",
+    "sessionYaml": "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+    "sessionYamlSha256": "35fe186e27f162ce708022a7ad7c0112a5f78237055a1f4b32680fb1a4a76d6e",
+    "transcriptPath": "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-transcript.md",
+    "transcriptSha256": "35de1d2930775f0bd8cf92fc93f3ee7e4d297b0a48b620b39207e3844e0b3bd7"
+  },
+  "places": {
+    "p01": {
+      "label": "Hamri",
+      "kind": "settlement",
+      "vaultPath": "Gazetteer/Northwest Coast/Mawar Confederacy/Hamri.md",
+      "evidence": [
+        {
+          "startUid": "u0264",
+          "endUid": "u0276",
+          "quote": "Wazir: Weren't even said. It came to him in Hamri, having, what he says, made a sacrifice to Gazankoa to guarantee his transportation. So perhaps some some magic right?\nWazir: And then he says he's in Hamri. And the marid brought him something in Hamri which I think must have been recently right, I think this must be what you saw.\nWazir: Right that the summoning within Mendin. And then you saw this creature summoned, and then you saw this scroll writer, I think, come—leave Mendin and come here."
+        },
+        {
+          "startUid": "u0614",
+          "endUid": "u0622",
+          "quote": "That just means you're gonna roll a nat 20 and then a one. So I mean. You know a lot of these a lot of these um— You know Hamri has been occupied for a while it's a fairly old town I'm dating back even before the Great War like you know this has always been a nice sheltered port, and so there are definitely parts of town that are pretty old I mean most of it's been you know rebuilt over the years and, obviously, the docks are not 500 years old, or something but uh you know it's— Yeah you know you don't you don't know a ton about—"
+        }
+      ]
+    },
+    "p02": {
+      "label": "Leviathan",
+      "kind": "inn",
+      "aliases": [
+        "Leviathan Inn"
+      ],
+      "vaultPath": "Gazetteer/Northwest Coast/Mawar Confederacy/Leviathan Inn.md",
+      "evidence": [
+        {
+          "startUid": "u0465",
+          "endUid": "u0467",
+          "quote": "We can also go ask around on the North Dock at the Stormy Maiden maybe somebody saw somebody that's I'm— A less refined establish establishment than Leviathan but it's out on the dock near where the boat would have come through."
+        },
+        {
+          "startUid": "u2284",
+          "endUid": "u2288",
+          "quote": "DM: I mean now now it's like dark right I'm guessing you're probably meeting by Leviathan.\nUnknown: Yeah.\nKaleho: So we're back at the Leviathan?\nUnknown: Yeah."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0264",
+              "endUid": "u0276",
+              "quote": "Wazir: Weren't even said. It came to him in Hamri, having, what he says, made a sacrifice to Gazankoa to guarantee his transportation. So perhaps some some magic right?\nWazir: And then he says he's in Hamri. And the marid brought him something in Hamri which I think must have been recently right, I think this must be what you saw.\nWazir: Right that the summoning within Mendin. And then you saw this creature summoned, and then you saw this scroll writer, I think, come—leave Mendin and come here."
+            },
+            {
+              "startUid": "u0465",
+              "endUid": "u0467",
+              "quote": "We can also go ask around on the North Dock at the Stormy Maiden maybe somebody saw somebody that's I'm— A less refined establish establishment than Leviathan but it's out on the dock near where the boat would have come through."
+            }
+          ],
+          "note": "Hamri identification is contextual: the current “here” in the scroll discussion is the town."
+        }
+      ]
+    },
+    "p03": {
+      "label": "north cliffs",
+      "kind": "coastal cliffs",
+      "vaultPath": "Gazetteer/Northwest Coast/Mawar Confederacy/North Cliffs.md",
+      "evidence": [
+        {
+          "startUid": "u0290",
+          "endUid": "u0293",
+          "quote": "DM: Yeah many of these Towers on that, especially on that part of the on the sort of North cliff here um many of them have these kinds of sea caves underneath, this is a that that those cliffs are like a sort of cave-ridden limestone cliffs and so it's not it wouldn't be that unusual um.\nDM: And, like, almost all of the towers over there are abandoned. The ones that are still active, the ones that people still live in and watch from, are the ones closer to town, right? There in the towers district, there's basically, you know, years, there's um, there's Trok's. There's, you know, there's a handful of other sort of various outcasts and loners who live there. But—but this particular tower, yeah, has been abandoned for a while and—"
+        },
+        {
+          "startUid": "u0305",
+          "endUid": "u0311",
+          "quote": "DM: So there's I mean we never decided exactly where what I mean it was a sort of era it's doesn't exactly match at all, I would say it's kind of on the North north face of the of this little like limestone chalk peninsula that sticks out. But it's not I mean you know.\nDM: I think you—you know, you know everybody who lives there. There's nobody who lives here regularly. It's been abandoned for some time. I don't think you would necessarily know, like the history of each of these towers, but dating back to before you were born."
+        }
+      ]
+    },
+    "p04": {
+      "label": "Airion's tower",
+      "kind": "ruined tower",
+      "aliases": [
+        "watchtower",
+        "old tower"
+      ],
+      "evidence": [
+        {
+          "startUid": "u0523",
+          "endUid": "u0532",
+          "quote": "DM: And as you approach this so this this one is one of the few made of stone. I mean most higher fraction of the ones that have survived are made of stone, obviously, because the ones that are made of stone tend to survive longer. And ah you know this this Tower itself you know, as you approach, you can see it's it's— It’s, like, pretty solid stone. It seems to be intact all the way up about—it was never one—any one of the tallest towers. Mean, the tallest ones might be 40 feet tall something like this that this is like maybe a good two stories right it's like you know, 25 feet or something. It’s on the shorter side for one of these towers, but it’s at an advantageous position. It commands a very good view of the north and north west coast line, sitting on top of a rock outcrop.\nDM: There is, there is a door, which had a wooden door at one point, but now it's just an open doorway. So if you want to you can search around the outside, you can go in, you can, what do you want to do here?"
+        },
+        {
+          "startUid": "u0808",
+          "endUid": "u0822",
+          "quote": "DM: So the the most the most unusual thing you notice is that I'm around the inside edge of the bottom of the Tower like in a complete circle around are these very faint like they've faded over time um glyphs of some kind in Aquan, which is part of primordial. Which seemed to be, like, some kind of—well, you’re—you’re not—you actually wouldn’t know what they are because you’re not magical.\nWazir: But there so I'll take a look at them.\nUnknown: Yeah.\nDM: Make an Arcana just looks like a—\nKaleho: New thing.\nWazir: Here we go.\nDM: So these are two things that you, you realize, as you start to read these glyphs given that you can read Aquan and you're pretty familiar with these kinds of magic on—\nDM: One is this seems to be some kind of incantation of, like, control or binding or closing. I mean, long faded, doesn’t—your guess is no longer active.\nDM: And the other is that you see you know, repeated in this—in this sort of incantation, which is like, you know, a string of words, like commanding water, you see, like, “I, Airion, command this” written.\nWazir: Airion, like Airion the Mistspeaker?\nDM: Spelled the same way."
+        },
+        {
+          "startUid": "u1510",
+          "endUid": "u1512",
+          "quote": "Wazir: Some— There does seem to be some magic inhabiting Airion's tower.\nDM: Fascinating."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0284",
+              "endUid": "u0293",
+              "quote": "DM: So there were stairs going up from the sea cave that you're in that lead to a ruined an abandoned watchers tower above the cave. Well, presumably abandoned.\nRyu: So, you know, Ryu and Trok probably know it—all of those towers. Like, every single one of those towers, they would, like, be very familiar. Yeah, so what's the history of that—that particular one? Is that—has there been any activity in there? Is it, like, something that we would be, like, surprised to know that this—the sea chest was there, or would we be, like, you know?\nDM: So.\nRyu: This was kind of a while.\nDM: Yeah many of these Towers on that, especially on that part of the on the sort of North cliff here um many of them have these kinds of sea caves underneath, this is a that that those cliffs are like a sort of cave-ridden limestone cliffs and so it's not it wouldn't be that unusual um.\nDM: And, like, almost all of the towers over there are abandoned. The ones that are still active, the ones that people still live in and watch from, are the ones closer to town, right? There in the towers district, there's basically, you know, years, there's um, there's Trok's. There's, you know, there's a handful of other sort of various outcasts and loners who live there. But—but this particular tower, yeah, has been abandoned for a while and—"
+            },
+            {
+              "startUid": "u0305",
+              "endUid": "u0311",
+              "quote": "DM: So there's I mean we never decided exactly where what I mean it was a sort of era it's doesn't exactly match at all, I would say it's kind of on the North north face of the of this little like limestone chalk peninsula that sticks out. But it's not I mean you know.\nDM: I think you—you know, you know everybody who lives there. There's nobody who lives here regularly. It's been abandoned for some time. I don't think you would necessarily know, like the history of each of these towers, but dating back to before you were born."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "sea cave below the tower",
+      "kind": "sea cave",
+      "evidence": [
+        {
+          "startUid": "u0846",
+          "endUid": "u0848",
+          "quote": "He’s swimming in circles in the pool. So if you go down the stairs, you see that there’s a set of stairs go down—spiral down. There’s a place where the stairs are broken which Trok fell through they like go along the edge of the cliff wall and then after the broken part they come onto this platform where the chest— And Trok is now in the pool of water, where you fought the elemental."
+        },
+        {
+          "startUid": "u0944",
+          "endUid": "u0950",
+          "quote": "DM: Beds are there no that's— So there wasn't so there's the first floor there are steps that go down into a cave the cave is filled with water.\nKaleho: Like okay God like—\nDM: Two three feet at low tide in like six feet at high tide.\nKaleho: Got it.\nDM: And now you are stint well Trok and Wazir standing in the water um, and there’s—there’s up—the stairs come down, there’s a landing, there’s a gap in the stairs, about a six foot gap in the stairs, and then below the gap there’s a landing, and then the stairs continue down to the cave. And on the landing is the chest where the scroll was found."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0846",
+              "endUid": "u0848",
+              "quote": "He’s swimming in circles in the pool. So if you go down the stairs, you see that there’s a set of stairs go down—spiral down. There’s a place where the stairs are broken which Trok fell through they like go along the edge of the cliff wall and then after the broken part they come onto this platform where the chest— And Trok is now in the pool of water, where you fought the elemental."
+            },
+            {
+              "startUid": "u0944",
+              "endUid": "u0950",
+              "quote": "DM: Beds are there no that's— So there wasn't so there's the first floor there are steps that go down into a cave the cave is filled with water.\nKaleho: Like okay God like—\nDM: Two three feet at low tide in like six feet at high tide.\nKaleho: Got it.\nDM: And now you are stint well Trok and Wazir standing in the water um, and there’s—there’s up—the stairs come down, there’s a landing, there’s a gap in the stairs, about a six foot gap in the stairs, and then below the gap there’s a landing, and then the stairs continue down to the cave. And on the landing is the chest where the scroll was found."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0284",
+              "endUid": "u0293",
+              "quote": "DM: So there were stairs going up from the sea cave that you're in that lead to a ruined an abandoned watchers tower above the cave. Well, presumably abandoned.\nRyu: So, you know, Ryu and Trok probably know it—all of those towers. Like, every single one of those towers, they would, like, be very familiar. Yeah, so what's the history of that—that particular one? Is that—has there been any activity in there? Is it, like, something that we would be, like, surprised to know that this—the sea chest was there, or would we be, like, you know?\nDM: So.\nRyu: This was kind of a while.\nDM: Yeah many of these Towers on that, especially on that part of the on the sort of North cliff here um many of them have these kinds of sea caves underneath, this is a that that those cliffs are like a sort of cave-ridden limestone cliffs and so it's not it wouldn't be that unusual um.\nDM: And, like, almost all of the towers over there are abandoned. The ones that are still active, the ones that people still live in and watch from, are the ones closer to town, right? There in the towers district, there's basically, you know, years, there's um, there's Trok's. There's, you know, there's a handful of other sort of various outcasts and loners who live there. But—but this particular tower, yeah, has been abandoned for a while and—"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "endless watery expanse",
+      "kind": "apparent plane",
+      "vaultPath": "Cosmology/Energy Realms/Elemental Plane of Water.md",
+      "note": "The perceived Plane of Water is experienced as an illusion or planar image from the physical tower and cave. The observers do not physically travel to the plane.",
+      "evidence": [
+        {
+          "startUid": "u0344",
+          "endUid": "u0352",
+          "quote": "DM: And you sort of poked your your head in and and Ryu, when you—when you stepped in, you didn't see the interior of a cave—I mean, you couldn't see the interior of a tower. You felt like you're stepping into a massive expanse of endless ocean. Just, like, not even knows—no surface even. Just, like, the ocean going all the way up to the top of the tower, like, even beyond the top of the tower. No light, you know. The occasional, like, giant—you know, off in the distance you could see, like, this incredibly giant mat of kelp just kind of growing out of a floating island that was drifting away from you, with some sharks that must have been three times as big as you are circling around that. Um.\nTrok: When you—\nDM: You know, you look and then you step back in the tower. Look—look, that looked real, and when you stuck your head in again you couldn’t— You couldn't recreate that image. But for, like, a few minutes as you stepped in, you were just lost in this for—for a minute. Like, you felt like you couldn’t breathe, and then you remembered you actually don’t need to breathe, so it wasn’t an issue. Um, you’re just lost in this endless expanse, um."
+        },
+        {
+          "startUid": "u0703",
+          "endUid": "u0725",
+          "quote": "DM: As you stop and— Wait a minute sorry hold on one SEC yeah. Yeah as you as you step in all three of you see this vast watery expanse I'm. Are—let’s they—are you—are you wearing your cloak of the manta ray, Wazir?\nWazir: Um. Yeah, probably. I mean, a habit. Sure, why not.\nDM: Okay. I'm. Kaleho, you feel like you can’t breathe. It’s like the—the, like, there’s this—there’s, like, thousands of pounds of water closing in on you, and you can’t breathe the water. And you, you know, looking around there's like no where to go no I'm—\nUnknown: You know.\nDM: There's no air in any direction um you are just completely surrounded by ocean in every way: up, down, left, right, back, forward.\nDM: The only thing that's moving in the ocean, is in the distance what seems to be a tangled web of like those mats of seaweed that likes to put you know float on top of the ocean, but it's you know, in the middle of the ocean and there's long filaments dangling off of it, of some sort of plant material, and this is like maybe 100 feet off.\nDM: And swimming in circles around these filaments that are dangling are something that looks kind of like dolphins, but it sort of silvery and made seemingly made of like a lighter foamier water. Like it's some sort of water creature that looks like a dolphin and they seem to be playing around these filaments, and occasion, like, snapping and eating something off of them. But it’s, you know, although Trok and Wazir, you see this and are sort of curious, Kaleho, you are struggling to pay attention as the— You are convinced you cannot breathe at the moment. What does your Constitution modifier? Like what is this the plus for your constitution?"
+        }
+      ]
+    },
+    "p07": {
+      "label": "roof of the tower",
+      "kind": "roof",
+      "evidence": [
+        {
+          "startUid": "u0643",
+          "endUid": "u0656",
+          "quote": "DM: So—so Trok at the top, I mean, you—you have got a nice view. You can see it’s a clear day, starting to get hot, even in the middle of August or early August, um. You know, you can see the the coast stretching away to the north, you can see—\nUnknown: You know.\nDM: A few hours sail North there's the splinters which are like these little you know rocky barely islands, just like you know single jutting rocks that are kind of scattered off the coast and then farther north of the sort of edge of your vision, you can see the silent head, which is a large promontory that's like the height of land, the highest point along this whole cliff face um that was once a very popular watchers spot um. Ah, now said to be haunted and you can see the ocean it's a calm day there's not um you know there's no not much in the way of wave action at the moment I'm. Nothing nothing particularly notable about the sea, you know there's some the morning Fisher folk are out, you know heading out a little ways off to you know catch them whenever they you know fish they can there's no just the sort of business of the town.\nDM: But otherwise um and that the top itself, like the inside of the so the the, although the Tower itself is completely intact the top two floors have collapsed and so here's just a straight shot looking straight down about 25 feet, to the to the bottom, to the first floor so there's normally there would be like maybe three floors here with the top floor being like the watchers platform um but that top floor has has has collapsed, and the middle floor has collapsed, and now there’s just the roof. The roof has a bunch of holes in that, um, and so you’re looking through these holes straight 25 feet down to the bottom."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0643",
+              "endUid": "u0656",
+              "quote": "DM: So—so Trok at the top, I mean, you—you have got a nice view. You can see it’s a clear day, starting to get hot, even in the middle of August or early August, um. You know, you can see the the coast stretching away to the north, you can see—\nUnknown: You know.\nDM: A few hours sail North there's the splinters which are like these little you know rocky barely islands, just like you know single jutting rocks that are kind of scattered off the coast and then farther north of the sort of edge of your vision, you can see the silent head, which is a large promontory that's like the height of land, the highest point along this whole cliff face um that was once a very popular watchers spot um. Ah, now said to be haunted and you can see the ocean it's a calm day there's not um you know there's no not much in the way of wave action at the moment I'm. Nothing nothing particularly notable about the sea, you know there's some the morning Fisher folk are out, you know heading out a little ways off to you know catch them whenever they you know fish they can there's no just the sort of business of the town.\nDM: But otherwise um and that the top itself, like the inside of the so the the, although the Tower itself is completely intact the top two floors have collapsed and so here's just a straight shot looking straight down about 25 feet, to the to the bottom, to the first floor so there's normally there would be like maybe three floors here with the top floor being like the watchers platform um but that top floor has has has collapsed, and the middle floor has collapsed, and now there’s just the roof. The roof has a bunch of holes in that, um, and so you’re looking through these holes straight 25 feet down to the bottom."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "landing with the chest",
+      "kind": "stair landing",
+      "evidence": [
+        {
+          "startUid": "u0949",
+          "endUid": "u0950",
+          "quote": "And now you are stint well Trok and Wazir standing in the water um, and there’s—there’s up—the stairs come down, there’s a landing, there’s a gap in the stairs, about a six foot gap in the stairs, and then below the gap there’s a landing, and then the stairs continue down to the cave. And on the landing is the chest where the scroll was found."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0846",
+              "endUid": "u0848",
+              "quote": "He’s swimming in circles in the pool. So if you go down the stairs, you see that there’s a set of stairs go down—spiral down. There’s a place where the stairs are broken which Trok fell through they like go along the edge of the cliff wall and then after the broken part they come onto this platform where the chest— And Trok is now in the pool of water, where you fought the elemental."
+            },
+            {
+              "startUid": "u0949",
+              "endUid": "u0950",
+              "quote": "And now you are stint well Trok and Wazir standing in the water um, and there’s—there’s up—the stairs come down, there’s a landing, there’s a gap in the stairs, about a six foot gap in the stairs, and then below the gap there’s a landing, and then the stairs continue down to the cave. And on the landing is the chest where the scroll was found."
+            }
+          ]
+        },
+        {
+          "relation": "above",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0949",
+              "endUid": "u0950",
+              "quote": "And now you are stint well Trok and Wazir standing in the water um, and there’s—there’s up—the stairs come down, there’s a landing, there’s a gap in the stairs, about a six foot gap in the stairs, and then below the gap there’s a landing, and then the stairs continue down to the cave. And on the landing is the chest where the scroll was found."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0846",
+              "endUid": "u0848",
+              "quote": "He’s swimming in circles in the pool. So if you go down the stairs, you see that there’s a set of stairs go down—spiral down. There’s a place where the stairs are broken which Trok fell through they like go along the edge of the cliff wall and then after the broken part they come onto this platform where the chest— And Trok is now in the pool of water, where you fought the elemental."
+            },
+            {
+              "startUid": "u0949",
+              "endUid": "u0950",
+              "quote": "And now you are stint well Trok and Wazir standing in the water um, and there’s—there’s up—the stairs come down, there’s a landing, there’s a gap in the stairs, about a six foot gap in the stairs, and then below the gap there’s a landing, and then the stairs continue down to the cave. And on the landing is the chest where the scroll was found."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Jaeson's hut",
+      "kind": "hut",
+      "evidence": [
+        {
+          "startUid": "u0993",
+          "endUid": "u1002",
+          "quote": "Ryu: We can go, we can go visit Jaeson together. I got a little hut not too far from other towers.\nDM: Yeah so he lives, he lives in not in one of the towers, but like in a in a house constructed a ruined bits of towers, I’m, sort of on this north face here, I’m—not, not too close to this tower, but, like, on the same seaward side. And he is—he’s sitting in his hut as you approach. Looks like you know just kind of getting out of bed.\nRyu: Ryu, like, kinda, you know, taps at the door with—Dora—Dora—with the staff. “Jaeson?” Yeah. Yeah.\nDM: Well, maybe coming. Sticks his head out the door. Yeah, right day to day. Oh, hey, Ryu, Trok, nice to see you."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0995",
+              "endUid": "u0997",
+              "quote": "Yeah so he lives, he lives in not in one of the towers, but like in a in a house constructed a ruined bits of towers, I’m, sort of on this north face here, I’m—not, not too close to this tower, but, like, on the same seaward side. And he is—he’s sitting in his hut as you approach. Looks like you know just kind of getting out of bed."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Drowned Flats",
+      "kind": "district",
+      "evidence": [
+        {
+          "startUid": "u1102",
+          "endUid": "u1109",
+          "quote": "Ah, so Wazir and Kaleho, you've made it back to town, not crossing all the way over to the docks of the main part of town, but mooring your boat at one of the like sort of dingy tie ups on the drowned flats are just like collection of little platforms with like rope bridges, mostly between them. All kind of low to the ocean. This—this place, you know, on the higher tides every month there’s, like, typically floods. I’m pretty—I’m pretty dismal. And there’s one—there’s a, you know, one thing you notice was there, since the last time you, you came through there is one of these like little like shacks shacks up on stilts has has collapsed and fallen into the ocean into the salt flats in the end the river, the sort of brackish water of the stream. It’s actually one that set a little bit further out, almost on the edge of the harbor. So it’s like, you know, it’s—it’s collapsed off of its pilings and is, like three corners buried, you know underwater at this point."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1102",
+              "endUid": "u1109",
+              "quote": "Ah, so Wazir and Kaleho, you've made it back to town, not crossing all the way over to the docks of the main part of town, but mooring your boat at one of the like sort of dingy tie ups on the drowned flats are just like collection of little platforms with like rope bridges, mostly between them. All kind of low to the ocean. This—this place, you know, on the higher tides every month there’s, like, typically floods. I’m pretty—I’m pretty dismal. And there’s one—there’s a, you know, one thing you notice was there, since the last time you, you came through there is one of these like little like shacks shacks up on stilts has has collapsed and fallen into the ocean into the salt flats in the end the river, the sort of brackish water of the stream. It’s actually one that set a little bit further out, almost on the edge of the harbor. So it’s like, you know, it’s—it’s collapsed off of its pilings and is, like three corners buried, you know underwater at this point."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Samar and Reliah's shack",
+      "kind": "shack",
+      "evidence": [
+        {
+          "startUid": "u1117",
+          "endUid": "u1132",
+          "quote": "Wazir: So I'll go look for her. And— I'm— I'm I assume she's around right where—\nDM: She's around.\nWazir: And I will sort of walk around gather there's probably a discreet spot, the two of them, probably have their own little shack.\nUnknown: Yeah.\nWazir: So all—I’ll introduce Kaleho briefly. This is my friend Kaleho. I know it's— I know it's it's only Thursday and our regular usually usually Mondays or lunch day but I'm I'm looking for some information somewhat urgently."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1102",
+              "endUid": "u1126",
+              "quote": "DM: Ah, so Wazir and Kaleho, you've made it back to town, not crossing all the way over to the docks of the main part of town, but mooring your boat at one of the like sort of dingy tie ups on the drowned flats are just like collection of little platforms with like rope bridges, mostly between them. All kind of low to the ocean. This—this place, you know, on the higher tides every month there’s, like, typically floods. I’m pretty—I’m pretty dismal. And there’s one—there’s a, you know, one thing you notice was there, since the last time you, you came through there is one of these like little like shacks shacks up on stilts has has collapsed and fallen into the ocean into the salt flats in the end the river, the sort of brackish water of the stream. It’s actually one that set a little bit further out, almost on the edge of the harbor. So it’s like, you know, it’s—it’s collapsed off of its pilings and is, like three corners buried, you know underwater at this point.\nDM: But you know where to find—\nWazir: Samar.\nDM: Samar.\nWazir: She's the more talkative one.\nDM: I prefer for—\nKaleho: Inhales deeply to— Every shithole he's been in smells just like this.\nWazir: So I'll go look for her. And— I'm— I'm I assume she's around right where—\nDM: She's around.\nWazir: And I will sort of walk around gather there's probably a discreet spot, the two of them, probably have their own little shack.\nUnknown: Yeah."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "collapsed building",
+      "kind": "ruined shack",
+      "evidence": [
+        {
+          "startUid": "u1102",
+          "endUid": "u1109",
+          "quote": "Ah, so Wazir and Kaleho, you've made it back to town, not crossing all the way over to the docks of the main part of town, but mooring your boat at one of the like sort of dingy tie ups on the drowned flats are just like collection of little platforms with like rope bridges, mostly between them. All kind of low to the ocean. This—this place, you know, on the higher tides every month there’s, like, typically floods. I’m pretty—I’m pretty dismal. And there’s one—there’s a, you know, one thing you notice was there, since the last time you, you came through there is one of these like little like shacks shacks up on stilts has has collapsed and fallen into the ocean into the salt flats in the end the river, the sort of brackish water of the stream. It’s actually one that set a little bit further out, almost on the edge of the harbor. So it’s like, you know, it’s—it’s collapsed off of its pilings and is, like three corners buried, you know underwater at this point."
+        },
+        {
+          "startUid": "u1322",
+          "endUid": "u1330",
+          "quote": "DM: Okay, so um so it's a it was a like a small building, but you know, one of these platform buildings were you know, a bunch of people had just kind of piled in and used it as a place to sleep because they had nowhere else to go um. It wasn't anybody's house right it wasn't a place that had you know regular people lived in it was out on the edge of the drowned flats, and it was sort of known to be unstable right so so that's why nobody actually lived there as a permanent— Yeah, it wasn’t anybody’s permanent dwelling. Places where you went and collapsed when you were otherwise going to be sleeping on the street. I'm.\nDM: Ah, so you're gonna like and it's like currently like so there's four pilings that it was standing on there um you know and it's like slid off of the pilings like the pilings have cracked and it slid down so it's like three quarters of the way into the into the ocean and but now, this is like sort of salt marsh ocean edge but, but the water here is fairly deep because you're out kind of a ways from the little ways from the shore."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1322",
+              "endUid": "u1327",
+              "quote": "Okay, so um so it's a it was a like a small building, but you know, one of these platform buildings were you know, a bunch of people had just kind of piled in and used it as a place to sleep because they had nowhere else to go um. It wasn't anybody's house right it wasn't a place that had you know regular people lived in it was out on the edge of the drowned flats, and it was sort of known to be unstable right so so that's why nobody actually lived there as a permanent— Yeah, it wasn’t anybody’s permanent dwelling. Places where you went and collapsed when you were otherwise going to be sleeping on the street. I'm."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Orden's beach",
+      "kind": "beach",
+      "evidence": [
+        {
+          "startUid": "u1205",
+          "endUid": "u1215",
+          "quote": "DM: Orden is sitting, so he usually he usually hang so on this like this stretch here sort of north of the of the drowned flats, where the marshes sort of turned into a bit that's like a narrow stretch of sandy beach here. And you know there's a few like huts and things that are built there.\nDM: Orden usually hangs out there and he's been— he's been sitting there he's sitting there cooking up some—some lunch when you approach. Actually, it’s pretty hot. It’s not cooking, he’s eating some—some cold— I don't know what would he what could he scratch from the ocean? Leftovers. Yell saying some leftover shellfish from the night before just cold and he looks up yeah, Trok."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "north_of",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1205",
+              "endUid": "u1207",
+              "quote": "Orden is sitting, so he usually he usually hang so on this like this stretch here sort of north of the of the drowned flats, where the marshes sort of turned into a bit that's like a narrow stretch of sandy beach here. And you know there's a few like huts and things that are built there."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "fish market",
+      "kind": "market",
+      "evidence": [
+        {
+          "startUid": "u0975",
+          "endUid": "u0983",
+          "quote": "Wazir: And might be worth trying to see if anybody knows some stories of this Tower I thought, maybe we just went to the fish market in mid day when the when the old folks are hanging around telling stories of the past. Maybe somebody knows something, maybe somebody knows the rumors about this tower, where it from. It's unusual, yes, such an old tower here right?\nDM: Yeah that's pretty unusual.\nDM: So let's say it's mid-morning now, so Ryu is going to talk to Jaeson, Trok is looking for Orden, Kaleho, do you want to go, and Wazir is going to go talk to these two orphans? Do you want to go, and then you'll meet at the market."
+        },
+        {
+          "startUid": "u1384",
+          "endUid": "u1388",
+          "quote": "So, meeting back in the market, the market at this time of day, now just past lunch, is pretty quiet. And it’s basically just, like, these, like, you know, the—the old folk of the town sitting around talking. There’s one, I’m, mostly humans, except there’s one sort of older lizardfolk who. He comes he lives up on the on the cliffs by the sort of up here by himself he's sort of like the liaison between this town and the lizardfolk settlement to the south, but he'll often come down to the market and, just like chill with the with the town's folk. After lunch he's also like on the older side like pale blue pale blue scales like seems to be a little arthritic moves slowly, but you know curious."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0975",
+              "endUid": "u0983",
+              "quote": "Wazir: And might be worth trying to see if anybody knows some stories of this Tower I thought, maybe we just went to the fish market in mid day when the when the old folks are hanging around telling stories of the past. Maybe somebody knows something, maybe somebody knows the rumors about this tower, where it from. It's unusual, yes, such an old tower here right?\nDM: Yeah that's pretty unusual.\nDM: So let's say it's mid-morning now, so Ryu is going to talk to Jaeson, Trok is looking for Orden, Kaleho, do you want to go, and Wazir is going to go talk to these two orphans? Do you want to go, and then you'll meet at the market."
+            },
+            {
+              "startUid": "u1384",
+              "endUid": "u1388",
+              "quote": "So, meeting back in the market, the market at this time of day, now just past lunch, is pretty quiet. And it’s basically just, like, these, like, you know, the—the old folk of the town sitting around talking. There’s one, I’m, mostly humans, except there’s one sort of older lizardfolk who. He comes he lives up on the on the cliffs by the sort of up here by himself he's sort of like the liaison between this town and the lizardfolk settlement to the south, but he'll often come down to the market and, just like chill with the with the town's folk. After lunch he's also like on the older side like pale blue pale blue scales like seems to be a little arthritic moves slowly, but you know curious."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Ovina's shop",
+      "kind": "smithy",
+      "evidence": [
+        {
+          "startUid": "u1598",
+          "endUid": "u1606",
+          "quote": "DM: So you don't know a fence exactly, but actually both of you, both Kaleho and Wazir, would know that there's a poor Mawaran smith named Ovina, who is kind of— You know, her—her shop is, like, on—in cliff side, but, like, real close to the Shark’s Dock over here.\nDM: And she is—she’s kind of loner. I mean, she’s one of the very few dwarves and, possibly, the only dwarf in Hamri. Doesn’t really talk to people much. One of the few smiths, Wazir, who’s not like—you know, most of the smiths around here, like, look up to you is basically, like, them, right? You’re the one they go to. She’s, like, kind of— Never you've never really connected, which is sort of unusual and you know and Kaleho like you know, this is the person who you know— Not exactly a fence, but like if you have some questionable gold, or, you know, you've come across some silver ring that you want melted down and turned into trade bars that nobody will follow something like that she's the one that you know you would go to."
+        },
+        {
+          "startUid": "u1715",
+          "endUid": "u1723",
+          "quote": "DM: So, I mean, Kaleho, you know where this—you know where this smith’s—where Ovina’s shop is. It’s, um you know she she lives, she lives above the shop and it's like sort of it's architecturally unusual for the town, I mean most of this town is like you know you know, would would building sometimes sometimes with stone some stone, but a lot of like. You know, there’s huge pine forests just up in the cliffs, just—just, like, a mile from shore, so, like, everything’s just built with that. But this—this is, like, almost, you know, carved into the side of the cliff, you know, with even square blocks, square limestone block blacksmith forge.\nDM: And you walk in, and she's, you know, she's in the middle of working on something. I'm—banging away. It's hot, it's, you know, August, and it's sweaty, and there's this, you know, I'm sort of me, you know indeterminate age dwarvish woman read braided hair sort of tied back, wearing this, like, leather apron, faces all sort of sooty and dirty. And she looks up: “Yes?” Oh, Sir Kaleho. What's man, a man Ovina."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1598",
+              "endUid": "u1606",
+              "quote": "DM: So you don't know a fence exactly, but actually both of you, both Kaleho and Wazir, would know that there's a poor Mawaran smith named Ovina, who is kind of— You know, her—her shop is, like, on—in cliff side, but, like, real close to the Shark’s Dock over here.\nDM: And she is—she’s kind of loner. I mean, she’s one of the very few dwarves and, possibly, the only dwarf in Hamri. Doesn’t really talk to people much. One of the few smiths, Wazir, who’s not like—you know, most of the smiths around here, like, look up to you is basically, like, them, right? You’re the one they go to. She’s, like, kind of— Never you've never really connected, which is sort of unusual and you know and Kaleho like you know, this is the person who you know— Not exactly a fence, but like if you have some questionable gold, or, you know, you've come across some silver ring that you want melted down and turned into trade bars that nobody will follow something like that she's the one that you know you would go to."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p18",
+          "evidence": [
+            {
+              "startUid": "u1598",
+              "endUid": "u1601",
+              "quote": "So you don't know a fence exactly, but actually both of you, both Kaleho and Wazir, would know that there's a poor Mawaran smith named Ovina, who is kind of— You know, her—her shop is, like, on—in cliff side, but, like, real close to the Shark’s Dock over here."
+            },
+            {
+              "startUid": "u1919",
+              "endUid": "u1921",
+              "quote": "Um, it sort of opens on to a relatively open area, you know, sort of on the edge of a cliff side. There’s plenty of places to hide around the Sharks Dock that are sort of within sight of the shop. I mean you also get the sense of you know, would not be too happy if you yeah ambush this guy in her shop."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Glitter Cliff",
+      "kind": "terrace",
+      "evidence": [
+        {
+          "startUid": "u1818",
+          "endUid": "u1825",
+          "quote": "So while they're making their way back to the Shark's Dock, Wazir and Ryu, you head up the cliffside, up these steep switchback trails to Glitter Cliff, nearly up to the towers. This like big open terrace that, as these like four really nice fancy houses, some of the richest and fanciest houses in town, one of which is Wazir's family and one of which is Sulfi's house. She— So I mean Wazir you mean you are known to her well enough that, like the you know the majordomo whoever at the—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1818",
+              "endUid": "u1825",
+              "quote": "So while they're making their way back to the Shark's Dock, Wazir and Ryu, you head up the cliffside, up these steep switchback trails to Glitter Cliff, nearly up to the towers. This like big open terrace that, as these like four really nice fancy houses, some of the richest and fanciest houses in town, one of which is Wazir's family and one of which is Sulfi's house. She— So I mean Wazir you mean you are known to her well enough that, like the you know the majordomo whoever at the—"
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Sulfi's entry courtyard",
+      "kind": "courtyard",
+      "evidence": [
+        {
+          "startUid": "u1818",
+          "endUid": "u1830",
+          "quote": "DM: So while they're making their way back to the Shark's Dock, Wazir and Ryu, you head up the cliffside, up these steep switchback trails to Glitter Cliff, nearly up to the towers. This like big open terrace that, as these like four really nice fancy houses, some of the richest and fanciest houses in town, one of which is Wazir's family and one of which is Sulfi's house. She— So I mean Wazir you mean you are known to her well enough that, like the you know the majordomo whoever at the—\nDM: So these are these like are you know, there are four houses there. There sat back a little bit so they all have like you know sort of entry courtyard areas with you know all of them are guarded, and so the guard is like, man I know the nature of your business, Wazir? Sulfi is, as always, quite busy."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u1818",
+              "endUid": "u1830",
+              "quote": "DM: So while they're making their way back to the Shark's Dock, Wazir and Ryu, you head up the cliffside, up these steep switchback trails to Glitter Cliff, nearly up to the towers. This like big open terrace that, as these like four really nice fancy houses, some of the richest and fanciest houses in town, one of which is Wazir's family and one of which is Sulfi's house. She— So I mean Wazir you mean you are known to her well enough that, like the you know the majordomo whoever at the—\nDM: So these are these like are you know, there are four houses there. There sat back a little bit so they all have like you know sort of entry courtyard areas with you know all of them are guarded, and so the guard is like, man I know the nature of your business, Wazir? Sulfi is, as always, quite busy."
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Shark's Dock",
+      "kind": "dock",
+      "evidence": [
+        {
+          "startUid": "u1631",
+          "endUid": "u1634",
+          "quote": "Yeah, it's like the seedy, like on the map here, right, most of those ships tie up on this part of the harbor, which is the nice part of the harbor. These are called the Shark's Teeth, these islands that are out here, and the Shark's Dock is like the oldest and most rundown of the docks. It's a little bit tricky to navigate to because you have to make this sharp turn along the edge of the Shark's Dock—edge of the Shark's Teeth—so it's kinda like the name the Shark's Dock because it's close to the Shark's Teeth, but it's also like the sort of seedy dock."
+        },
+        {
+          "startUid": "u1892",
+          "endUid": "u1894",
+          "quote": "So you meet on the Shark's Dock which is like I mean it's a rickety you know it is it's the heat of the summer and it's like you know late afternoon there are actually people diving off the dock and swimming and it's a you know it's a, it is a place where like you know the common folk do go to swim occasionally um you know after work after you know the heat of the day. So there are some bustle of activity, but it's a place where there's like lots of little nooks and crannies and things and all and warehouses, and so you can sort of get together, you know, in a little out of the way place."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1631",
+              "endUid": "u1634",
+              "quote": "Yeah, it's like the seedy, like on the map here, right, most of those ships tie up on this part of the harbor, which is the nice part of the harbor. These are called the Shark's Teeth, these islands that are out here, and the Shark's Dock is like the oldest and most rundown of the docks. It's a little bit tricky to navigate to because you have to make this sharp turn along the edge of the Shark's Dock—edge of the Shark's Teeth—so it's kinda like the name the Shark's Dock because it's close to the Shark's Teeth, but it's also like the sort of seedy dock."
+            }
+          ]
+        }
+      ]
+    },
+    "p19": {
+      "label": "Yaz's tower",
+      "kind": "watchtower",
+      "evidence": [
+        {
+          "startUid": "u2107",
+          "endUid": "u2130",
+          "quote": "DM: Yeah so he lives in the towers like up at the top of that I'm up at the top here, and so you sort of come up this way, and you make your way to his tower he lives he lives like this, these ones like here are like the one still maintained by the town and he lives sort of out out here like one of the taller and—and better maintained wooden, wooden towers. And you actually, as you approach, you can see that he is sitting. So—so this—this particular tower has, like, like, a little widow’s walk on the top. Like, not only is there, like, enclosed interior watching platform that has big windows, but there’s this, like, fenced in platform on the top of the roof itself that is that is just completely open but but also a place where you can watch and you can see that he so he's sitting meditating on at or watching out on the ocean at the very, very top of the—of the tower, and he is—I mean, he’s quite old. He’s, like, a much older dude, I’m, wearing these grey clothes, you know, gray robes. You're tied around his waist human—\nDM: Short white hair. Slightly type, like, you know, short white hair, like slightly longer in the back, I’m, tied in—not in a sort of thin ponytail. Sort of pale wrinkled skin.\nDM: Turn you know turns as you approach and kind of looks you know turns from the ocean and and looks down at you just waiting.\nRyu: Hail, Yaz. It's Ryu and Trok.\nDM: He sort of leans lean on is on the railing at a minute and says “The sun will be setting soon.” “Come sit with me.”\nRyu: It would be an honor. Climb up the tower.\nDM: So this particular tower has a like there's a you go in there's like an open archway and then a staircase that goes, all the way around to the top and then there's like an inner tower that is like his private living space."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2107",
+              "endUid": "u2130",
+              "quote": "DM: Yeah so he lives in the towers like up at the top of that I'm up at the top here, and so you sort of come up this way, and you make your way to his tower he lives he lives like this, these ones like here are like the one still maintained by the town and he lives sort of out out here like one of the taller and—and better maintained wooden, wooden towers. And you actually, as you approach, you can see that he is sitting. So—so this—this particular tower has, like, like, a little widow’s walk on the top. Like, not only is there, like, enclosed interior watching platform that has big windows, but there’s this, like, fenced in platform on the top of the roof itself that is that is just completely open but but also a place where you can watch and you can see that he so he's sitting meditating on at or watching out on the ocean at the very, very top of the—of the tower, and he is—I mean, he’s quite old. He’s, like, a much older dude, I’m, wearing these grey clothes, you know, gray robes. You're tied around his waist human—\nDM: Short white hair. Slightly type, like, you know, short white hair, like slightly longer in the back, I’m, tied in—not in a sort of thin ponytail. Sort of pale wrinkled skin.\nDM: Turn you know turns as you approach and kind of looks you know turns from the ocean and and looks down at you just waiting.\nRyu: Hail, Yaz. It's Ryu and Trok.\nDM: He sort of leans lean on is on the railing at a minute and says “The sun will be setting soon.” “Come sit with me.”\nRyu: It would be an honor. Climb up the tower.\nDM: So this particular tower has a like there's a you go in there's like an open archway and then a staircase that goes, all the way around to the top and then there's like an inner tower that is like his private living space."
+            },
+            {
+              "startUid": "u2144",
+              "endUid": "u2144",
+              "quote": "I can see why you picked this as your tower, this has got to be one of the best views in all Hamri."
+            }
+          ],
+          "note": "Hamri is named in Ryu's comment on the view; the source does not resolve the tower's municipal boundary."
+        }
+      ]
+    },
+    "p20": {
+      "label": "phantom boat",
+      "kind": "vessel",
+      "mobile": true,
+      "note": "A small keelboat whose appearance is hard to keep in focus.",
+      "evidence": [
+        {
+          "startUid": "u2565",
+          "endUid": "u2571",
+          "quote": "Trok: So it is there, like a spectral boat parked at the dock?\nDM: Yeah the phantom boat is park that's—\nTrok: What does that look like?\nDM: I mean it basically looks like a normal boat it's just like your eyes kind of slide off of it like like you can't— Like you have to you have to really concentrate to keep looking at that."
+        },
+        {
+          "startUid": "u2625",
+          "endUid": "u2629",
+          "quote": "Wazir: Yeah I'll go get on the boat, I was gonna say before he said that that I was going to take the opportunity for him being engrossed in conversation to go get on the boat.\nKaleho: For people hide on this tiny boat?\nTrok: The boat here—\nDM: It's like out, I mean it's big enough for for, you know, three, four people to sit. It’s not gonna be easy for for people to hide on the boat, um."
+        }
+      ]
+    },
+    "p21": {
+      "label": "shoals at the end of the cliff",
+      "kind": "shoals",
+      "note": "Shoals at the peninsula tip; identification with the Shark's Teeth is unconfirmed.",
+      "evidence": [
+        {
+          "startUid": "u1250",
+          "endUid": "u1260",
+          "quote": "DM: It was a small single sail keelboat. But uh so it sailed right through the cliff. Not the whole cliff, just the very end of the cliff. Like, you know, there’s the shoals right at the end of the cliff, and everybody sails out around them. It just sailed through them.\nTrok: Just right through?\nDM: Right through the shoals. It's like what, that—you’re not—guys gonna die.\nRyu: What happened?\nDM: Two weeks ago. And went to the Shark's Dock could see it from here, then came back and sailed right through the shoals again."
+        },
+        {
+          "startUid": "u1924",
+          "endUid": "u1937",
+          "quote": "Ryu: I don't wanna I mean, are you guys curious about these shoals like a you can just like— Do you think that the boat pass through it? Or do you think that you can that the shoal is actually— I guess I can send Turk out to go have a look.\nWazir: I'll do that.\nRyu: I'll do this I sent her out, I have to go and go and investigate the shoals.\nDM: Okay, I mean you've you've been passed, these shoals.\nRyu: Many times. I know the shoals super well, but I don't think I may have never tried to swim directly into them.\nDM: Know probably haven't actually given. That would be like completely foolhardy.\nRyu: That's awesome so I also sent her out just to like kind of poke around there and see if it's actually rocks or not.\nDM: Okay, now it is actually rocks I mean I'm—\nRyu: Okay let's get to know."
+        }
+      ]
+    },
+    "p22": {
+      "label": "Splinters",
+      "kind": "island chain",
+      "vaultPath": "Gazetteer/Northwest Coast/Mawar Confederacy/Splinters.md",
+      "evidence": [
+        {
+          "startUid": "u0646",
+          "endUid": "u0652",
+          "quote": "A few hours sail North there's the splinters which are like these little you know rocky barely islands, just like you know single jutting rocks that are kind of scattered off the coast and then farther north of the sort of edge of your vision, you can see the silent head, which is a large promontory that's like the height of land, the highest point along this whole cliff face um that was once a very popular watchers spot um. Ah, now said to be haunted and you can see the ocean it's a calm day there's not um you know there's no not much in the way of wave action at the moment I'm. Nothing nothing particularly notable about the sea, you know there's some the morning Fisher folk are out, you know heading out a little ways off to you know catch them whenever they you know fish they can there's no just the sort of business of the town."
+        },
+        {
+          "startUid": "u1526",
+          "endUid": "u1531",
+          "quote": "Ah, the well so tom the splinters that you wouldn’t—you would know this. These are the—there’s, like, a maybe a two hour sail north of town, there’s, like, a series of little rock’s just off the coast. And this was, you know, there’s, like, a—you know, a lighthouse there. It’s—it’s a dangerous shoal, basically, so, um. And um— But it’s—it’s sort of—it’s close to town, right? There’s probably a couple of watcher towers there as well. There’s, like, 15 or 16 of these little islands off the rocks, and he says:"
+        }
+      ]
+    },
+    "p23": {
+      "label": "Silent Head",
+      "kind": "promontory",
+      "evidence": [
+        {
+          "startUid": "u0646",
+          "endUid": "u0652",
+          "quote": "A few hours sail North there's the splinters which are like these little you know rocky barely islands, just like you know single jutting rocks that are kind of scattered off the coast and then farther north of the sort of edge of your vision, you can see the silent head, which is a large promontory that's like the height of land, the highest point along this whole cliff face um that was once a very popular watchers spot um. Ah, now said to be haunted and you can see the ocean it's a calm day there's not um you know there's no not much in the way of wave action at the moment I'm. Nothing nothing particularly notable about the sea, you know there's some the morning Fisher folk are out, you know heading out a little ways off to you know catch them whenever they you know fish they can there's no just the sort of business of the town."
+        }
+      ]
+    },
+    "p24": {
+      "label": "Azar's lair",
+      "kind": "lair",
+      "note": "The dated Mawar Adventures Episode 02 and Splinters reference note place this same lair in the Splinters. The current transcript names no enclosing island or route; that vault-only orientation is not asserted as transcript-backed containment.",
+      "evidence": [
+        {
+          "startUid": "u3495",
+          "endUid": "u3497",
+          "quote": "Ryu: I'm evil and where's this knife now?\nDM: The knife is at his lair. In the interest of time, he confesses his crimes. He tells you where his lair is, as you are able to go to his lair, find the knife, store it in the lead box where it shuts up."
+        }
+      ]
+    },
+    "p25": {
+      "label": "warehouses near Shark's Dock",
+      "kind": "warehouse area",
+      "evidence": [
+        {
+          "startUid": "u1919",
+          "endUid": "u1921",
+          "quote": "Um, it sort of opens on to a relatively open area, you know, sort of on the edge of a cliff side. There’s plenty of places to hide around the Sharks Dock that are sort of within sight of the shop. I mean you also get the sense of you know, would not be too happy if you yeah ambush this guy in her shop."
+        },
+        {
+          "startUid": "u2487",
+          "endUid": "u2490",
+          "quote": "Okay, okay um but not you're not super close to the shop because you know you don't want to be, you need to be somewhere where you can sort of hide among the warehouse. And say—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p18",
+          "evidence": [
+            {
+              "startUid": "u1919",
+              "endUid": "u1921",
+              "quote": "Um, it sort of opens on to a relatively open area, you know, sort of on the edge of a cliff side. There’s plenty of places to hide around the Sharks Dock that are sort of within sight of the shop. I mean you also get the sense of you know, would not be too happy if you yeah ambush this guy in her shop."
+            }
+          ]
+        }
+      ]
+    },
+    "p26": {
+      "label": "water beside Shark's Dock",
+      "kind": "harbor water",
+      "evidence": [
+        {
+          "startUid": "u2564",
+          "endUid": "u2576",
+          "quote": "Wazir: While he’s distracted talk to you, I’m gonna go—I’m invisible, but I’m gonna go stand sort of between him and the boat.\nTrok: So it is there, like a spectral boat parked at the dock?\nDM: Yeah the phantom boat is park that's—\nTrok: What does that look like?\nDM: I mean it basically looks like a normal boat it's just like your eyes kind of slide off of it like like you can't— Like you have to you have to really concentrate to keep looking at that.\nTrok: I'm gonna slip into the water and swim towards it.\nUnknown: Okay.\nTrok: With the aim of boarding, if I can.\nDM: Okay, ah, interesting."
+        },
+        {
+          "startUid": "u2872",
+          "endUid": "u2876",
+          "quote": "DM: So, so you can move half speed when you are grappling somebody so you move five feet, so you can now move another 10 feet, to move them away and drag him.\nTrok: Just like move like to hear.\nDM: Okay, so you get so you move him with you so he's there now in the water."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p18",
+          "evidence": [
+            {
+              "startUid": "u2564",
+              "endUid": "u2576",
+              "quote": "Wazir: While he’s distracted talk to you, I’m gonna go—I’m invisible, but I’m gonna go stand sort of between him and the boat.\nTrok: So it is there, like a spectral boat parked at the dock?\nDM: Yeah the phantom boat is park that's—\nTrok: What does that look like?\nDM: I mean it basically looks like a normal boat it's just like your eyes kind of slide off of it like like you can't— Like you have to you have to really concentrate to keep looking at that.\nTrok: I'm gonna slip into the water and swim towards it.\nUnknown: Okay.\nTrok: With the aim of boarding, if I can.\nDM: Okay, ah, interesting."
+            },
+            {
+              "startUid": "u2872",
+              "endUid": "u2876",
+              "quote": "DM: So, so you can move half speed when you are grappling somebody so you move five feet, so you can now move another 10 feet, to move them away and drag him.\nTrok: Just like move like to hear.\nDM: Okay, so you get so you move him with you so he's there now in the water."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0131",
+        "endUid": "u0135"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The gathering is at the Leviathan; later dialogue identifies the current inn.",
+      "place": "p02",
+      "evidence": [
+        {
+          "startUid": "u0131",
+          "endUid": "u0135",
+          "quote": "At this at this moment staff member comes over with a wide shallow wooden bowl of steaming stinking seafood in the light broth. And Trok kind of grunts, sticks his entire muzzle into it, and 'They always overcook this stuff.'"
+        },
+        {
+          "startUid": "u0465",
+          "endUid": "u0477",
+          "quote": "Wazir: We can also go ask around on the North Dock at the Stormy Maiden maybe somebody saw somebody that's I'm— A less refined establish establishment than Leviathan but it's out on the dock near where the boat would have come through.\nRyu: This is a refined establishment?\nUnknown: The horse.\nWazir: Note the brandy, and the berries.\nRyu: Place was—\nKaleho: Chuckles and thinking of all the many worst places, he has drunk and spent a night in.\nWazir: We do folks.\nRyu: Let anybody in here.\nWazir: Trok has special dispensation. You wouldn’t normally let him in.\nRyu: Ryu crosses like his boots up onto the table in front of Trok.\nTrok: You know, I—I attract the finest clientele. You know, you’re lucky to have me. Get some culture in here."
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0327",
+        "endUid": "u0335"
+      },
+      "actors": [
+        "Ryu",
+        "Trok"
+      ],
+      "reading": "Retrospectively resolved earlier visit to the tower exterior; Ryu enters briefly while Trok checks around it.",
+      "from": null,
+      "to": "p04",
+      "completion": "arrived",
+      "context": "flashback",
+      "evidence": [
+        {
+          "startUid": "u0327",
+          "endUid": "u0352",
+          "quote": "DM: Definite disadvantage. Um let's say, let's say you poked around and you—you didn't search it super care—I mean, you've realized that it was um. You know you realize that it was not a— You know it's been lived in clearly like and about it. Um.\nDM: You know there's like signs of relatively recent occupation clearly clearly somebody who's trying to you know, keep quiet, right? So, like, somebody trying to cover their tracks and stuff. Like, probably mostly going in and out via the, um, the other sea cave, although there was no boat, um. You know it's—\nDM: And you, you also actually can you both Trok and Ryu make charisma saving throws?\nTrok: What's this for them?\nDM: Just for fun.\nTrok: I'm like, it's fun. I'm, like, super charismatic. Right 16 of this goodness. I've I've eaten so I'm more charismatic.\nDM: So, so when you when you went to search it you like sort of looked around the exterior you, you know you were checking it out, but not um, you know clearly signs that it was lived in like that you know, there was like a bit of a refuse heap there was um you know somebody had been eating fish and tossing the bones around things like that um.\nDM: And you sort of poked your your head in and and Ryu, when you—when you stepped in, you didn't see the interior of a cave—I mean, you couldn't see the interior of a tower. You felt like you're stepping into a massive expanse of endless ocean. Just, like, not even knows—no surface even. Just, like, the ocean going all the way up to the top of the tower, like, even beyond the top of the tower. No light, you know. The occasional, like, giant—you know, off in the distance you could see, like, this incredibly giant mat of kelp just kind of growing out of a floating island that was drifting away from you, with some sharks that must have been three times as big as you are circling around that. Um.\nTrok: When you—\nDM: You know, you look and then you step back in the tower. Look—look, that looked real, and when you stuck your head in again you couldn’t— You couldn't recreate that image. But for, like, a few minutes as you stepped in, you were just lost in this for—for a minute. Like, you felt like you couldn’t breathe, and then you remembered you actually don’t need to breathe, so it wasn’t an issue. Um, you’re just lost in this endless expanse, um."
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0344",
+        "endUid": "u0352"
+      },
+      "actors": [
+        "Ryu"
+      ],
+      "reading": "During the earlier visit, Ryu perceives an endless watery expanse from inside the tower, then returns to ordinary sight.",
+      "place": "p06",
+      "mode": "vision",
+      "observerPlace": "p04",
+      "context": "flashback",
+      "evidence": [
+        {
+          "startUid": "u0344",
+          "endUid": "u0352",
+          "quote": "DM: And you sort of poked your your head in and and Ryu, when you—when you stepped in, you didn't see the interior of a cave—I mean, you couldn't see the interior of a tower. You felt like you're stepping into a massive expanse of endless ocean. Just, like, not even knows—no surface even. Just, like, the ocean going all the way up to the top of the tower, like, even beyond the top of the tower. No light, you know. The occasional, like, giant—you know, off in the distance you could see, like, this incredibly giant mat of kelp just kind of growing out of a floating island that was drifting away from you, with some sharks that must have been three times as big as you are circling around that. Um.\nTrok: When you—\nDM: You know, you look and then you step back in the tower. Look—look, that looked real, and when you stuck your head in again you couldn’t— You couldn't recreate that image. But for, like, a few minutes as you stepped in, you were just lost in this for—for a minute. Like, you felt like you couldn’t breathe, and then you remembered you actually don’t need to breathe, so it wasn’t an issue. Um, you’re just lost in this endless expanse, um."
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0505",
+        "endUid": "u0509"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The next morning the group meets outside the tower.",
+      "from": null,
+      "to": "p04",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u0505",
+          "endUid": "u0532",
+          "quote": "DM: So the next morning you awake, various states of hungoverness. And and meet at the at the outside of this Tower.\nDM: So this is one of the um, I would say dozen or so—maybe, maybe more, maybe almost two dozen—towers that dot that—the— The coastline, the sort of cliff edge on this—on this peninsula, the spit of land that sticks out from the MIC the cliffs of the mainland, forming the sheltered harbor.\nKaleho: Are we north of the—\nDM: Yeah so you're here.\nKaleho: Got it okay.\nDM: And and have the maybe you know say maybe 15 to 20 towers um only like eight or nine of them are still standing a number of them originally made of wood are you know, basically just ruins at this point, you know standing no more than like 10 feet high. And probably of the—of the nine that are still intact, like, four occupied. Like, this is not somewhere where, like, lots of people live, right? It’s like the outcasts and the loners and the, you know, people who have various reasons to want to be you know, close to town, but not not downtown.\nDM: And as you approach this so this this one is one of the few made of stone. I mean most higher fraction of the ones that have survived are made of stone, obviously, because the ones that are made of stone tend to survive longer. And ah you know this this Tower itself you know, as you approach, you can see it's it's— It’s, like, pretty solid stone. It seems to be intact all the way up about—it was never one—any one of the tallest towers. Mean, the tallest ones might be 40 feet tall something like this that this is like maybe a good two stories right it's like you know, 25 feet or something. It’s on the shorter side for one of these towers, but it’s at an advantageous position. It commands a very good view of the north and north west coast line, sitting on top of a rock outcrop.\nDM: There is, there is a door, which had a wooden door at one point, but now it's just an open doorway. So if you want to you can search around the outside, you can go in, you can, what do you want to do here?"
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0563",
+        "endUid": "u0567"
+      },
+      "actors": [
+        "Trok"
+      ],
+      "reading": "Trok climbs to the tower roof while the other three investigate outside.",
+      "from": "p04",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "climb",
+      "evidence": [
+        {
+          "startUid": "u0534",
+          "endUid": "u0543",
+          "quote": "Ryu: Yeah. Um Ryu like uses his rangerly talents and like investigates the shit out of like you know kind of the all the areas around the the Tower like outside you know evidence of people tracks.\nTrok: Trok is climbing to the top.\nDM: Okay.\nWazir: Yeah, I’m just gonna poke around to, right, like, inspect the outside relatively carefully. Look, for signs that like where did the stairs come up? Into the Tower outside the—"
+        },
+        {
+          "startUid": "u0563",
+          "endUid": "u0567",
+          "quote": "Trok, you know, scrambled up to the top of the tower, it looks around. The rest of you are just kind of poking around sort of a little unclear as to what you are looking at. The one thing that you do—so there’s—there are a couple things that you notice. I’m really just you know even like sort of you know not not at your sharpest you've spent enough time just kind of paying attention to the ground and paying attention to the land that you can tell this you know there's tracks of one person—"
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0646",
+        "endUid": "u0652"
+      },
+      "actors": [
+        "Trok"
+      ],
+      "reading": "From the roof, Trok can see the Splinters and, farther north, Silent Head.",
+      "place": "p22",
+      "mode": "local",
+      "observerPlace": "p07",
+      "evidence": [
+        {
+          "startUid": "u0643",
+          "endUid": "u0652",
+          "quote": "DM: So—so Trok at the top, I mean, you—you have got a nice view. You can see it’s a clear day, starting to get hot, even in the middle of August or early August, um. You know, you can see the the coast stretching away to the north, you can see—\nUnknown: You know.\nDM: A few hours sail North there's the splinters which are like these little you know rocky barely islands, just like you know single jutting rocks that are kind of scattered off the coast and then farther north of the sort of edge of your vision, you can see the silent head, which is a large promontory that's like the height of land, the highest point along this whole cliff face um that was once a very popular watchers spot um. Ah, now said to be haunted and you can see the ocean it's a calm day there's not um you know there's no not much in the way of wave action at the moment I'm. Nothing nothing particularly notable about the sea, you know there's some the morning Fisher folk are out, you know heading out a little ways off to you know catch them whenever they you know fish they can there's no just the sort of business of the town."
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u0646",
+        "endUid": "u0652"
+      },
+      "actors": [
+        "Trok"
+      ],
+      "reading": "Silent Head is a distant promontory at the edge of the same view.",
+      "place": "p23",
+      "mode": "local",
+      "observerPlace": "p07",
+      "evidence": [
+        {
+          "startUid": "u0646",
+          "endUid": "u0652",
+          "quote": "A few hours sail North there's the splinters which are like these little you know rocky barely islands, just like you know single jutting rocks that are kind of scattered off the coast and then farther north of the sort of edge of your vision, you can see the silent head, which is a large promontory that's like the height of land, the highest point along this whole cliff face um that was once a very popular watchers spot um. Ah, now said to be haunted and you can see the ocean it's a calm day there's not um you know there's no not much in the way of wave action at the moment I'm. Nothing nothing particularly notable about the sea, you know there's some the morning Fisher folk are out, you know heading out a little ways off to you know catch them whenever they you know fish they can there's no just the sort of business of the town."
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0697",
+        "endUid": "u0708"
+      },
+      "actors": [
+        "Kaleho",
+        "Trok",
+        "Wazir"
+      ],
+      "reading": "These three enter the tower; Ryu stays outside watching.",
+      "from": null,
+      "to": "p04",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u0697",
+          "endUid": "u0725",
+          "quote": "Kaleho: Kaleho shrugs and then opens the door and takes that step confidently that he can handle something in there.\nDM: Okay, make if you're entering the the Tower make a charisma saving—\nTrok: I confidently enter.\nDM: So—\nTrok: Did not have enough breakfast.\nDM: As you stop and— Wait a minute sorry hold on one SEC yeah. Yeah as you as you step in all three of you see this vast watery expanse I'm. Are—let’s they—are you—are you wearing your cloak of the manta ray, Wazir?\nWazir: Um. Yeah, probably. I mean, a habit. Sure, why not.\nDM: Okay. I'm. Kaleho, you feel like you can’t breathe. It’s like the—the, like, there’s this—there’s, like, thousands of pounds of water closing in on you, and you can’t breathe the water. And you, you know, looking around there's like no where to go no I'm—\nUnknown: You know.\nDM: There's no air in any direction um you are just completely surrounded by ocean in every way: up, down, left, right, back, forward.\nDM: The only thing that's moving in the ocean, is in the distance what seems to be a tangled web of like those mats of seaweed that likes to put you know float on top of the ocean, but it's you know, in the middle of the ocean and there's long filaments dangling off of it, of some sort of plant material, and this is like maybe 100 feet off.\nDM: And swimming in circles around these filaments that are dangling are something that looks kind of like dolphins, but it sort of silvery and made seemingly made of like a lighter foamier water. Like it's some sort of water creature that looks like a dolphin and they seem to be playing around these filaments, and occasion, like, snapping and eating something off of them. But it’s, you know, although Trok and Wazir, you see this and are sort of curious, Kaleho, you are struggling to pay attention as the— You are convinced you cannot breathe at the moment. What does your Constitution modifier? Like what is this the plus for your constitution?"
+        },
+        {
+          "startUid": "u0837",
+          "endUid": "u0839",
+          "quote": "Ryu is watching all of this unfold watching Trok like bash his head fall down into things. And it’s just like, “I’m not going to step in there. I’m going to let these guys figure out what is happening.” And definitely don’t want Blu to fly in there, because I don’t want a Blu to go to get off, like, crazy and my flat around. So Ryu is just kind of, like, carefully watching the top right now."
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u0703",
+        "endUid": "u0725"
+      },
+      "actors": [
+        "Kaleho",
+        "Trok",
+        "Wazir"
+      ],
+      "reading": "Inside the tower they perceive an apparently boundless water plane and dolphin-like water creatures.",
+      "place": "p06",
+      "mode": "vision",
+      "observerPlace": "p04",
+      "evidence": [
+        {
+          "startUid": "u0703",
+          "endUid": "u0725",
+          "quote": "DM: As you stop and— Wait a minute sorry hold on one SEC yeah. Yeah as you as you step in all three of you see this vast watery expanse I'm. Are—let’s they—are you—are you wearing your cloak of the manta ray, Wazir?\nWazir: Um. Yeah, probably. I mean, a habit. Sure, why not.\nDM: Okay. I'm. Kaleho, you feel like you can’t breathe. It’s like the—the, like, there’s this—there’s, like, thousands of pounds of water closing in on you, and you can’t breathe the water. And you, you know, looking around there's like no where to go no I'm—\nUnknown: You know.\nDM: There's no air in any direction um you are just completely surrounded by ocean in every way: up, down, left, right, back, forward.\nDM: The only thing that's moving in the ocean, is in the distance what seems to be a tangled web of like those mats of seaweed that likes to put you know float on top of the ocean, but it's you know, in the middle of the ocean and there's long filaments dangling off of it, of some sort of plant material, and this is like maybe 100 feet off.\nDM: And swimming in circles around these filaments that are dangling are something that looks kind of like dolphins, but it sort of silvery and made seemingly made of like a lighter foamier water. Like it's some sort of water creature that looks like a dolphin and they seem to be playing around these filaments, and occasion, like, snapping and eating something off of them. But it’s, you know, although Trok and Wazir, you see this and are sort of curious, Kaleho, you are struggling to pay attention as the— You are convinced you cannot breathe at the moment. What does your Constitution modifier? Like what is this the plus for your constitution?"
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u0791",
+        "endUid": "u0797"
+      },
+      "actors": [
+        "Trok"
+      ],
+      "reading": "Trok descends the broken stairs, falls through the gap, and reaches the real pool in the sea cave.",
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u0791",
+          "endUid": "u0797",
+          "quote": "Trok: I’m swimming down.\nDM: Okay Trok is swimming down the stairs it's weird swimming it's like um you know it's almost like you're swimming through like a glass tunnel. Like you can see, the water around you, but like there's only a constrained area that you can swim in um and then you hear a splash which doesn't make sense. But you land taking another one point of bludgeoning damage as you fall and hit the pool of water. And now you are really swimming in water as you imagined you are swimming in water."
+        },
+        {
+          "startUid": "u0846",
+          "endUid": "u0848",
+          "quote": "He’s swimming in circles in the pool. So if you go down the stairs, you see that there’s a set of stairs go down—spiral down. There’s a place where the stairs are broken which Trok fell through they like go along the edge of the cliff wall and then after the broken part they come onto this platform where the chest— And Trok is now in the pool of water, where you fought the elemental."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u0828",
+        "endUid": "u0832"
+      },
+      "actors": [
+        "Trok"
+      ],
+      "reading": "While physically in the cave, Trok perceives a drifting limestone cave with inky tendrils in the water image.",
+      "place": "p06",
+      "mode": "vision",
+      "observerPlace": "p05",
+      "evidence": [
+        {
+          "startUid": "u0828",
+          "endUid": "u0832",
+          "quote": "So, as you swim down you see I'm actually a— So in the distance now you see a what looks like a limestone like a giant ball of limestone kind of floating in the water and it's it's it's almost like a circular cave like you took like if you took one of these sea caves just inverted it so it was mirror image, on top of each other and I'm kind of drifting out of this limestone cave are tendrils of darker water like almost inky black water."
+        },
+        {
+          "startUid": "u0842",
+          "endUid": "u0848",
+          "quote": "DM: See, how far have you gotten? 456. Yeah, yeah, you might start running out of air pretty soon, actually. It's probably been about 10 minutes I'm swimming around in the plane of water.\nWazir: See still down where is he I mean—\nDM: He’s swimming in circles in the pool. So if you go down the stairs, you see that there’s a set of stairs go down—spiral down. There’s a place where the stairs are broken which Trok fell through they like go along the edge of the cliff wall and then after the broken part they come onto this platform where the chest— And Trok is now in the pool of water, where you fought the elemental."
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u0876",
+        "endUid": "u0876"
+      },
+      "actors": [
+        "Wazir"
+      ],
+      "reading": "Wazir joins Trok in the flooded cave to offer the cloak; later narration confirms both are standing in its water.",
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u0876",
+          "endUid": "u0876",
+          "quote": "You’re in pretty deep water their, Trok. Why don’t you take my cloak so you can breathe?"
+        },
+        {
+          "startUid": "u0892",
+          "endUid": "u0917",
+          "quote": "Wazir: Wazir's like standing there like take—\nDM: TAO. So you see now, like, Trok, like, jumping. Now, this is because you’ve been able to swim fine until now, but you try to swim up and it’s like there’s a force pressing down on you, like, trying to keep you down. Holding you to this level of the of the ocean, where you are, and you can like swim up a little bit, but then it it pulls you back down. It's like some sort of mystical force that's not— A true that's like attracting you to to the place where you are now.\nTrok: Have weird a tattoo on my abdomen that I— Consider. Stroke it with a claw for a second thinking, maybe. Na. I look over it Wazir and say, “What was that you were going to give me?”\nWazir: Take this cloak.\nTrok: Skeptically I put on the cloak.\nDM: So with that now being aware that you can breathe underwater. Wait, does it require attunement?\nWazir: Oh, you know what it might require attunement.\nDM: I'm pretty sure it requires attunement.\nWazir: I can't give you my cloak.\nDM: So Trok is going to drown because he can't roll above 14 on his charisma say.\nWazir: Oh, no, it doesn’t. It does not.\nDM: Okay, so aware that you now can breathe underwater, eventually you, the the you know and also like you know gravity confuses you now a little bit and you start to realize that like this doesn't make sense. And eventually the image fades and you see yours—you see now that you’re standing in this, like, shallow water. It's a bit deeper than it was before, because the tide is higher so it's like maybe six feet like up to your neck. Just, like, you know, splashing, trying to get up to see. This is where you fought the elemental before. You can see the stairs going up, and the image of the plane of water fades."
+        },
+        {
+          "startUid": "u0949",
+          "endUid": "u0950",
+          "quote": "And now you are stint well Trok and Wazir standing in the water um, and there’s—there’s up—the stairs come down, there’s a landing, there’s a gap in the stairs, about a six foot gap in the stairs, and then below the gap there’s a landing, and then the stairs continue down to the cave. And on the landing is the chest where the scroll was found."
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u0951",
+        "endUid": "u0956"
+      },
+      "actors": [
+        "Kaleho"
+      ],
+      "reading": "Kaleho investigates the chest on the landing above the cave.",
+      "from": "p04",
+      "to": "p08",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u0949",
+          "endUid": "u0960",
+          "quote": "DM: And now you are stint well Trok and Wazir standing in the water um, and there’s—there’s up—the stairs come down, there’s a landing, there’s a gap in the stairs, about a six foot gap in the stairs, and then below the gap there’s a landing, and then the stairs continue down to the cave. And on the landing is the chest where the scroll was found.\nKaleho: God. Oh, can I go investigate the chest for any additional clues things, just in case somebody—\nDM: Make a perception check. Our investigation that's fine yeah you—\nKaleho: Know.\nDM: You don't find anything else.\nKaleho: That was a one.\nDM: Yeah I mean it's a chest it's been— It's a it's like a just a simple wooden chest wasn't locked or anything it it's relatively small. Seems like mostly just something to keep things dry."
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u0993",
+        "endUid": "u1002"
+      },
+      "actors": [
+        "Ryu",
+        "Trok"
+      ],
+      "reading": "After leaving the tower, Ryu and Trok visit Jaeson at his hut on the seaward cliffs.",
+      "from": "p04",
+      "to": "p09",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u0982",
+          "endUid": "u1002",
+          "quote": "DM: So let's say it's mid-morning now, so Ryu is going to talk to Jaeson, Trok is looking for Orden, Kaleho, do you want to go, and Wazir is going to go talk to these two orphans? Do you want to go, and then you'll meet at the market.\nKaleho: After the drowned orphans or in the flat right? Yeah your friends are in the drowned flats?\nRyu: That's for my people around orphans.\nKaleho: Our friends are in the drowned flat so that's our I'll go first I know so I'll go with him.\nDM: Okay, so I'll just I'll just you know you you travel to your various locations and eventually I'll just go around in circles with so so Ryu you're you're you know fairly close—\nRyu: To Jaeson, I say. I would say Trok and I probably know both both these characters so like—\nDM: Okay.\nRyu: We can go, we can go visit Jaeson together. I got a little hut not too far from other towers.\nDM: Yeah so he lives, he lives in not in one of the towers, but like in a in a house constructed a ruined bits of towers, I’m, sort of on this north face here, I’m—not, not too close to this tower, but, like, on the same seaward side. And he is—he’s sitting in his hut as you approach. Looks like you know just kind of getting out of bed.\nRyu: Ryu, like, kinda, you know, taps at the door with—Dora—Dora—with the staff. “Jaeson?” Yeah. Yeah.\nDM: Well, maybe coming. Sticks his head out the door. Yeah, right day to day. Oh, hey, Ryu, Trok, nice to see you."
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1102",
+        "endUid": "u1109"
+      },
+      "actors": [
+        "Wazir",
+        "Kaleho"
+      ],
+      "reading": "They return to town by boat and moor at dingy tie-ups in the Drowned Flats, where they visit the sisters' shack.",
+      "from": "p04",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "boat",
+      "route": [
+        {
+          "reading": "Moor at the Drowned Flats tie-ups, without crossing to the main docks.",
+          "place": "p10"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1102",
+          "endUid": "u1132",
+          "quote": "DM: Ah, so Wazir and Kaleho, you've made it back to town, not crossing all the way over to the docks of the main part of town, but mooring your boat at one of the like sort of dingy tie ups on the drowned flats are just like collection of little platforms with like rope bridges, mostly between them. All kind of low to the ocean. This—this place, you know, on the higher tides every month there’s, like, typically floods. I’m pretty—I’m pretty dismal. And there’s one—there’s a, you know, one thing you notice was there, since the last time you, you came through there is one of these like little like shacks shacks up on stilts has has collapsed and fallen into the ocean into the salt flats in the end the river, the sort of brackish water of the stream. It’s actually one that set a little bit further out, almost on the edge of the harbor. So it’s like, you know, it’s—it’s collapsed off of its pilings and is, like three corners buried, you know underwater at this point.\nDM: But you know where to find—\nWazir: Samar.\nDM: Samar.\nWazir: She's the more talkative one.\nDM: I prefer for—\nKaleho: Inhales deeply to— Every shithole he's been in smells just like this.\nWazir: So I'll go look for her. And— I'm— I'm I assume she's around right where—\nDM: She's around.\nWazir: And I will sort of walk around gather there's probably a discreet spot, the two of them, probably have their own little shack.\nUnknown: Yeah.\nWazir: So all—I’ll introduce Kaleho briefly. This is my friend Kaleho. I know it's— I know it's it's only Thursday and our regular usually usually Mondays or lunch day but I'm I'm looking for some information somewhat urgently."
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u1199",
+        "endUid": "u1215"
+      },
+      "actors": [
+        "Ryu",
+        "Trok"
+      ],
+      "reading": "They go from Jaeson to Orden's beach north of the Drowned Flats.",
+      "from": "p09",
+      "to": "p13",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u1198",
+          "endUid": "u1215",
+          "quote": "DM: Okay, so Trok and Ryu, are you—where are you heading from Jaeson’s?\nTrok: Down to the beach to see Orden.\nDM: Okay.\nUnknown: Even.\nTrok: Human.\nUnknown: He worked in his.\nDM: Orden is sitting, so he usually he usually hang so on this like this stretch here sort of north of the of the drowned flats, where the marshes sort of turned into a bit that's like a narrow stretch of sandy beach here. And you know there's a few like huts and things that are built there.\nDM: Orden usually hangs out there and he's been— he's been sitting there he's sitting there cooking up some—some lunch when you approach. Actually, it’s pretty hot. It’s not cooking, he’s eating some—some cold— I don't know what would he what could he scratch from the ocean? Leftovers. Yell saying some leftover shellfish from the night before just cold and he looks up yeah, Trok."
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u1322",
+        "endUid": "u1330"
+      },
+      "actors": [
+        "Wazir",
+        "Kaleho"
+      ],
+      "reading": "They inspect the collapsed building at the outer edge of the Drowned Flats and find sabotage but no bodies.",
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u1191",
+          "endUid": "u1191",
+          "quote": "I want to go poke around the collapse building yeah."
+        },
+        {
+          "startUid": "u1322",
+          "endUid": "u1330",
+          "quote": "DM: Okay, so um so it's a it was a like a small building, but you know, one of these platform buildings were you know, a bunch of people had just kind of piled in and used it as a place to sleep because they had nowhere else to go um. It wasn't anybody's house right it wasn't a place that had you know regular people lived in it was out on the edge of the drowned flats, and it was sort of known to be unstable right so so that's why nobody actually lived there as a permanent— Yeah, it wasn’t anybody’s permanent dwelling. Places where you went and collapsed when you were otherwise going to be sleeping on the street. I'm.\nDM: Ah, so you're gonna like and it's like currently like so there's four pilings that it was standing on there um you know and it's like slid off of the pilings like the pilings have cracked and it slid down so it's like three quarters of the way into the into the ocean and but now, this is like sort of salt marsh ocean edge but, but the water here is fairly deep because you're out kind of a ways from the little ways from the shore."
+        },
+        {
+          "startUid": "u1354",
+          "endUid": "u1364",
+          "quote": "DM: Kaleho to the rescue um. So, um, you are, Wazir, poking around the—the rubble, and it’s like, so there’s no—you do—you can tell that there’s no body is, like, you know, the—this building is partially collapse, but not so collapse that it is impossible to look around in, and, um. You know it's— it's clearly it's clearly empty. Um at least of dead bodies.\nDM: I’m—Kaleho, what you notice as you’re sort of poking around is that, so one of the pilings is, like very rotten and has just like broken completely and at first glance, that seems to be the issue, except that if one piling even if one piling collapsed, it probably shouldn't cause the entire building collapse, and you can you see that actually the other three pilings were carefully scored to make them weaker and there are signs of bludgeoning damage. Like, somebody went in, like, banged on the pilings for a little bit to cause cracks and splinters to run up against them, and then maybe knocked out the rotten one, which probably you could have just pushed over with a good strong push, I’m."
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u1384",
+        "endUid": "u1388"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Both groups reunite at the fish market for the conversation with Benat.",
+      "from": null,
+      "to": "p14",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u1384",
+          "endUid": "u1400",
+          "quote": "DM: So, meeting back in the market, the market at this time of day, now just past lunch, is pretty quiet. And it’s basically just, like, these, like, you know, the—the old folk of the town sitting around talking. There’s one, I’m, mostly humans, except there’s one sort of older lizardfolk who. He comes he lives up on the on the cliffs by the sort of up here by himself he's sort of like the liaison between this town and the lizardfolk settlement to the south, but he'll often come down to the market and, just like chill with the with the town's folk. After lunch he's also like on the older side like pale blue pale blue scales like seems to be a little arthritic moves slowly, but you know curious.\nDM: Trok you would probably be aware of him, but possibly not particularly excited to talk to them, given your history.\nTrok: Yep so the uneasy relationship?\nDM: With looks like I—\nWazir: Wazir will sort of go you know, to that, whatever that the local sort of dispensary of liquid refreshment is get a round for you know for everybody and and come back, I mean presumably he knows, most of these people, mostly.\nDM: Yeah yeah.\nWazir: I'll come back to the table and and sort of pass out sit down he'll he'll introduce some Kaleho and and most people would probably know, Ryu, but— Yeah everybody here will introduce Ryu and Trok as well, just for those who might not. Will pass out the drinks, will say, you know, my friend here’s in town that was telling about the ocean watchers, the towers."
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u1715",
+        "endUid": "u1723"
+      },
+      "actors": [
+        "Kaleho",
+        "Trok"
+      ],
+      "reading": "Kaleho and Trok visit Ovina's forge in Cliffside, near Shark's Dock.",
+      "from": "p14",
+      "to": "p15",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u1705",
+          "endUid": "u1723",
+          "quote": "Kaleho: To her I'll take I'll take Trok to the HR Smith.\nDM: Okay, so so Kaleho and Trok are heading to the blacksmith Wazir and Ryu are going to try to get an audience with um with Sulfi yep. And then you're going to meet so next time you meet it will be probably like late afternoon. Yeah I think stock yeah. Okay.\nDM: So, I mean, Kaleho, you know where this—you know where this smith’s—where Ovina’s shop is. It’s, um you know she she lives, she lives above the shop and it's like sort of it's architecturally unusual for the town, I mean most of this town is like you know you know, would would building sometimes sometimes with stone some stone, but a lot of like. You know, there’s huge pine forests just up in the cliffs, just—just, like, a mile from shore, so, like, everything’s just built with that. But this—this is, like, almost, you know, carved into the side of the cliff, you know, with even square blocks, square limestone block blacksmith forge.\nDM: And you walk in, and she's, you know, she's in the middle of working on something. I'm—banging away. It's hot, it's, you know, August, and it's sweaty, and there's this, you know, I'm sort of me, you know indeterminate age dwarvish woman read braided hair sort of tied back, wearing this, like, leather apron, faces all sort of sooty and dirty. And she looks up: “Yes?” Oh, Sir Kaleho. What's man, a man Ovina."
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u1818",
+        "endUid": "u1830"
+      },
+      "actors": [
+        "Wazir",
+        "Ryu"
+      ],
+      "reading": "They climb the cliffside switchbacks to Sulfi's guarded courtyard on Glitter Cliff; they do not enter her house.",
+      "from": "p14",
+      "to": "p17",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Climb steep switchbacks to the Glitter Cliff terrace.",
+          "place": "p16"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1818",
+          "endUid": "u1830",
+          "quote": "DM: So while they're making their way back to the Shark's Dock, Wazir and Ryu, you head up the cliffside, up these steep switchback trails to Glitter Cliff, nearly up to the towers. This like big open terrace that, as these like four really nice fancy houses, some of the richest and fanciest houses in town, one of which is Wazir's family and one of which is Sulfi's house. She— So I mean Wazir you mean you are known to her well enough that, like the you know the majordomo whoever at the—\nDM: So these are these like are you know, there are four houses there. There sat back a little bit so they all have like you know sort of entry courtyard areas with you know all of them are guarded, and so the guard is like, man I know the nature of your business, Wazir? Sulfi is, as always, quite busy."
+        },
+        {
+          "startUid": "u1846",
+          "endUid": "u1856",
+          "quote": "He comes back up about five minutes later and says: Sulfi is engaged at the moment, but bids me to pass on the news that she is unaware of any strange ships. And should you see strange ships, please inform her guards immediately, so they may ensure that the proper fees and tolls are collected. And thank you for your attention. And then she says—and to you, Wazir, she says: Indeed, it would be nice some time to take tea. Perhaps. And he gives a date, like eight days hence. Perhaps he would come this afternoon on that date for a brief tea."
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u1892",
+        "endUid": "u1894"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party reunites at an out-of-the-way part of Shark's Dock.",
+      "from": null,
+      "to": "p18",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u1892",
+          "endUid": "u1894",
+          "quote": "So you meet on the Shark's Dock which is like I mean it's a rickety you know it is it's the heat of the summer and it's like you know late afternoon there are actually people diving off the dock and swimming and it's a you know it's a, it is a place where like you know the common folk do go to swim occasionally um you know after work after you know the heat of the day. So there are some bustle of activity, but it's a place where there's like lots of little nooks and crannies and things and all and warehouses, and so you can sort of get together, you know, in a little out of the way place."
+        }
+      ]
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u1924",
+        "endUid": "u1937"
+      },
+      "actors": [
+        "Blu / Turk"
+      ],
+      "reading": "Ryu sends his companion out to inspect the shoals; the DM confirms they are actual rocks. Blu later returns before the visit to Yaz.",
+      "from": "p18",
+      "to": "p21",
+      "completion": "underway",
+      "mode": "fly / swim",
+      "note": "Blu later returns, but the source does not explicitly place the companion at the shoals. The DM confirms the rocks without narrating a landing or exact scouting position; Ryu and the party stay ashore.",
+      "evidence": [
+        {
+          "startUid": "u1924",
+          "endUid": "u1937",
+          "quote": "Ryu: I don't wanna I mean, are you guys curious about these shoals like a you can just like— Do you think that the boat pass through it? Or do you think that you can that the shoal is actually— I guess I can send Turk out to go have a look.\nWazir: I'll do that.\nRyu: I'll do this I sent her out, I have to go and go and investigate the shoals.\nDM: Okay, I mean you've you've been passed, these shoals.\nRyu: Many times. I know the shoals super well, but I don't think I may have never tried to swim directly into them.\nDM: Know probably haven't actually given. That would be like completely foolhardy.\nRyu: That's awesome so I also sent her out just to like kind of poke around there and see if it's actually rocks or not.\nDM: Okay, now it is actually rocks I mean I'm—\nRyu: Okay let's get to know."
+        },
+        {
+          "startUid": "u2132",
+          "endUid": "u2137",
+          "quote": "DM: Yeah there's an incredible view um so so you're looking out you're looking basically do West the sun is going straight into the ocean um. You know he's watching there's a there's a pod of whales far in the distance and you can see their their spray from the from the blow. And he actually turns when you arrive at the top. The first thing he does, he turns to—to Blu, I assume. Wait—\nRyu: Yeah.\nDM: I assumed Blu was back right because—\nRyu: Blu is back yeah Blu is back yeah."
+        }
+      ]
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u2044",
+        "endUid": "u2066"
+      },
+      "actors": [
+        "Wazir",
+        "Kaleho"
+      ],
+      "reading": "They return to Ovina's shop; she brings the ring and box outside, where they inspect them.",
+      "from": "p18",
+      "to": "p15",
+      "completion": "arrived",
+      "note": "The second inspection is outside the closed shop, not an entry into the forge.",
+      "evidence": [
+        {
+          "startUid": "u2044",
+          "endUid": "u2066",
+          "quote": "DM: Let's go find Yaz okay so Wazir and Kaleho knock on on Ovina’s door again, and she opens it up and initially sees Kaleho and is like, “What are you doing back?” And then sees Wazir, like, “What are you doing here?”\nWazir: Ovina.\nDM: Ovina, Ovina.\nWazir: I would tell her name I just heard. Ovina, Kaleho mentioned that you had a very valuable ring.\nDM: And, did you now Kaleho?\nKaleho: I think we can help you make more money here. I’m out—you have much to gain by this.\nWazir: I’m—in exchange, so there is a—I’ve been chasing a rumor of a possibly magical—\nWazir: I'd like to make a deal with you. I will detect magic and tell you if your ring is magical. And exchange, all I ask is 20 minutes to inspect it and also inspect the box, that you are building.\nDM: Come outside. Carry that—\nTrok: Goes now.\nDM: She puts the ring in the box carries it outside, opens the box, says, “Fine.” Closes her doors. “That’s fine.” I don't think it's magic but I'm not going to get in your way. Wazir—"
+        }
+      ]
+    },
+    {
+      "id": "l24",
+      "type": "movement",
+      "source": {
+        "startUid": "u2107",
+        "endUid": "u2134"
+      },
+      "actors": [
+        "Ryu",
+        "Trok"
+      ],
+      "reading": "They reach Yaz's tower and climb to its rooftop watching platform, where Blu is present.",
+      "from": "p18",
+      "to": "p19",
+      "completion": "arrived",
+      "mode": "walk / climb",
+      "evidence": [
+        {
+          "startUid": "u2104",
+          "endUid": "u2139",
+          "quote": "Ryu: Do we find Yaz TIM?\nDM: Yeah so I mean you've you've probably heard of him at least.\nRyu: Uh yeah try and Trok and I should know where he is.\nDM: Yeah so he lives in the towers like up at the top of that I'm up at the top here, and so you sort of come up this way, and you make your way to his tower he lives he lives like this, these ones like here are like the one still maintained by the town and he lives sort of out out here like one of the taller and—and better maintained wooden, wooden towers. And you actually, as you approach, you can see that he is sitting. So—so this—this particular tower has, like, like, a little widow’s walk on the top. Like, not only is there, like, enclosed interior watching platform that has big windows, but there’s this, like, fenced in platform on the top of the roof itself that is that is just completely open but but also a place where you can watch and you can see that he so he's sitting meditating on at or watching out on the ocean at the very, very top of the—of the tower, and he is—I mean, he’s quite old. He’s, like, a much older dude, I’m, wearing these grey clothes, you know, gray robes. You're tied around his waist human—\nDM: Short white hair. Slightly type, like, you know, short white hair, like slightly longer in the back, I’m, tied in—not in a sort of thin ponytail. Sort of pale wrinkled skin.\nDM: Turn you know turns as you approach and kind of looks you know turns from the ocean and and looks down at you just waiting.\nRyu: Hail, Yaz. It's Ryu and Trok.\nDM: He sort of leans lean on is on the railing at a minute and says “The sun will be setting soon.” “Come sit with me.”\nRyu: It would be an honor. Climb up the tower.\nDM: So this particular tower has a like there's a you go in there's like an open archway and then a staircase that goes, all the way around to the top and then there's like an inner tower that is like his private living space.\nRyu: Is there like an epic view of the sunset?\nDM: Yeah there's an incredible view um so so you're looking out you're looking basically do West the sun is going straight into the ocean um. You know he's watching there's a there's a pod of whales far in the distance and you can see their their spray from the from the blow. And he actually turns when you arrive at the top. The first thing he does, he turns to—to Blu, I assume. Wait—\nRyu: Yeah.\nDM: I assumed Blu was back right because—\nRyu: Blu is back yeah Blu is back yeah.\nDM: He says, “Greetings. It is an honor to welcome you and your human companions.”"
+        }
+      ]
+    },
+    {
+      "id": "l25",
+      "type": "movement",
+      "source": {
+        "startUid": "u2284",
+        "endUid": "u2288"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The group reunites at the Leviathan after dark.",
+      "from": null,
+      "to": "p02",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u2284",
+          "endUid": "u2288",
+          "quote": "DM: I mean now now it's like dark right I'm guessing you're probably meeting by Leviathan.\nUnknown: Yeah.\nKaleho: So we're back at the Leviathan?\nUnknown: Yeah."
+        }
+      ]
+    },
+    {
+      "id": "l26",
+      "type": "movement",
+      "source": {
+        "startUid": "u2440",
+        "endUid": "u2447"
+      },
+      "actors": [
+        "Ryu",
+        "Trok",
+        "Wazir"
+      ],
+      "reading": "After dawn they walk from the Leviathan along the docks and take positions near Shark's Dock and Ovina's shop.",
+      "from": "p02",
+      "to": "p18",
+      "completion": "arrived",
+      "mode": "walk",
+      "evidence": [
+        {
+          "startUid": "u2440",
+          "endUid": "u2450",
+          "quote": "DM: Okay, so early I assume you're up fairly early for the plan like early in the morning I'm kind of I mean that you know there's there's the leg morning rush like the pre dawn rush as a bunch of the I'm a bunch of the fishing boats go out early, and then, like, around dawn, just after dawn, there’s always a bit of a lull, and in this just post-dawn lull is you're still making your way from the Leviathan, to the Shark's Dock along the docks I'm Blu comes down to your shoulder and reports to you that that there's a ship coming from the north just rounding this this point here moving fast.\nRyu: I think the ships coming. I think he’s coming. Also, the music is very ominous now all of a sudden yeah.\nDM: So you get into position so I've got one stealth check who else is hiding I've got to stealth check?"
+        },
+        {
+          "startUid": "u2481",
+          "endUid": "u2494",
+          "quote": "Ryu: All right, fine I'm going to keep Blu circling like just out like like following watching the whole time. And, yeah, I guess I’ll hang out here the shop and wait.\nDM: Okay, so about so Wazir, are you hiding?\nWazir: Casting invisibility.\nKaleho: Okay, so we're all kind of hanging out around the shop?\nDM: Okay, okay um but not you're not super close to the shop because you know you don't want to be, you need to be somewhere where you can sort of hide among the warehouse. And say—\nDM: So, but you can see, so Ryu you see I'm about 20 minutes later sort of you know, coming up from the dock this sort of older man like hunched over with like this pile of cloaks over his shoulders like you know whether like oil skin cloaks shading his face but there's a bit of a scraggly Gray beard thats thats hanging out and he's walking quickly and with purpose towards Ovina shop, who has opened early in anticipation of this event, I’m, aware that you are all hanging around. And he just kind of head straight for the shop, crossing this plaza where you’re sort of later going to go into the—into the shop."
+        },
+        {
+          "startUid": "u2564",
+          "endUid": "u2576",
+          "quote": "Wazir: While he’s distracted talk to you, I’m gonna go—I’m invisible, but I’m gonna go stand sort of between him and the boat.\nTrok: So it is there, like a spectral boat parked at the dock?\nDM: Yeah the phantom boat is park that's—\nTrok: What does that look like?\nDM: I mean it basically looks like a normal boat it's just like your eyes kind of slide off of it like like you can't— Like you have to you have to really concentrate to keep looking at that.\nTrok: I'm gonna slip into the water and swim towards it.\nUnknown: Okay.\nTrok: With the aim of boarding, if I can.\nDM: Okay, ah, interesting."
+        }
+      ]
+    },
+    {
+      "id": "l27",
+      "type": "presence",
+      "source": {
+        "startUid": "u2487",
+        "endUid": "u2490"
+      },
+      "actors": [
+        "Kaleho",
+        "Wazir"
+      ],
+      "reading": "The hidden characters use the warehouses near Shark's Dock rather than the open plaza beside the shop; Wazir later steps toward the boat.",
+      "place": "p25",
+      "evidence": [
+        {
+          "startUid": "u2425",
+          "endUid": "u2436",
+          "quote": "Kaleho: Yes, Kaleho will be hiding near where I assume you will be the one holding the conversation.\nRyu: I don't know, maybe you should be Wazir.\nKaleho: Wazir.\nRyu: C.\nWazir: Wazir can be the one that having the conversation.\nKaleho: So I'll be out—\nWazir: Wazir in Armor is a little intimidating. That might be—\nRyu: It can be Ryu.\nTrok: I mean we may need to intimidate and we shouldn't at first.\nDM: Okay, so anybody who’s hiding—so this is the next morning, y’all prepared, rested, ready to go, um—anybody who’s hiding make a stealth."
+        },
+        {
+          "startUid": "u2484",
+          "endUid": "u2490",
+          "quote": "DM: Okay, so about so Wazir, are you hiding?\nWazir: Casting invisibility.\nKaleho: Okay, so we're all kind of hanging out around the shop?\nDM: Okay, okay um but not you're not super close to the shop because you know you don't want to be, you need to be somewhere where you can sort of hide among the warehouse. And say—"
+        },
+        {
+          "startUid": "u2564",
+          "endUid": "u2564",
+          "quote": "While he’s distracted talk to you, I’m gonna go—I’m invisible, but I’m gonna go stand sort of between him and the boat."
+        }
+      ]
+    },
+    {
+      "id": "l28",
+      "type": "movement",
+      "source": {
+        "startUid": "u2509",
+        "endUid": "u2539"
+      },
+      "actors": [
+        "Ryu"
+      ],
+      "reading": "Ryu approaches Azar outside Ovina's shop, then follows him back toward the dock.",
+      "from": "p15",
+      "to": "p18",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u2509",
+          "endUid": "u2539",
+          "quote": "Ryu: Like waiting for him to like come out like, he’s not gonna let him pass, so don’t feel sort of hell sort of, like, as he, like, comes out, Ryu will kind of step in front, say, “Sir.” “I—I think we’ve been looking for you.” Did you use to live in the tower?\nDM: Too too noisy and I'm busy just—\nRyu: Know I'm sorry that I, we do need to talk a little bit because you nearly killed me with the water elemental that I think you—\nDM: Know.\nRyu: I'm water elemental. Yeah, I think you also have a bottle of the Sentient Ocean. You know what I'm talking about?\nDM: I need to get back. Step out of my way.\nRyu: Before you do, though, would be very helpful if you may be shared a little bit more about what’s going on, because there’s six people dead in the town. There’s been a lot of significant violence that’s been caused recently, and be really great to talk about that a little bit if it's alright with you.\nDM: My—\nRyu: We want to help you.\nDM: My wife just waiting at home.\nRyu: Please, the weapon or— Hide your wife and your children right?\nDM: There waiting for me.\nUnknown: I need to get away.\nDM: What is your business here?\nRyu: Well we'd like to know what your businesses with this town.\nDM: I am simply going home to my family.\nUnknown: Step—\nDM: Aside side.\nRyu: Ryu steps aside.\nDM: He starts walking quickly down the dock.\nUnknown: How that.\nWazir: I'm just reading, something I can do, I just need to see—\nRyu: And Ryu's now now following.\nWazir: Okay, he hasn't really pay much attention to you.\nDM: Following him he seems to be just heading for the docks."
+        }
+      ]
+    },
+    {
+      "id": "l29",
+      "type": "observation",
+      "source": {
+        "startUid": "u2565",
+        "endUid": "u2571"
+      },
+      "actors": [
+        "Ryu",
+        "Trok",
+        "Wazir"
+      ],
+      "reading": "They can see the phantom boat moored at the dock, though eyes slide off its appearance.",
+      "place": "p20",
+      "mode": "local",
+      "locationContext": [
+        {
+          "subject": "p20",
+          "relation": "moored_at",
+          "target": "p18"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2564",
+          "endUid": "u2571",
+          "quote": "Wazir: While he’s distracted talk to you, I’m gonna go—I’m invisible, but I’m gonna go stand sort of between him and the boat.\nTrok: So it is there, like a spectral boat parked at the dock?\nDM: Yeah the phantom boat is park that's—\nTrok: What does that look like?\nDM: I mean it basically looks like a normal boat it's just like your eyes kind of slide off of it like like you can't— Like you have to you have to really concentrate to keep looking at that."
+        }
+      ]
+    },
+    {
+      "id": "l30",
+      "type": "movement",
+      "source": {
+        "startUid": "u2572",
+        "endUid": "u2576"
+      },
+      "actors": [
+        "Trok"
+      ],
+      "reading": "Trok slips into the harbor water and swims toward Azar's boat; the later grapple confirms him beside it.",
+      "from": "p18",
+      "to": "p26",
+      "completion": "arrived",
+      "mode": "swim",
+      "evidence": [
+        {
+          "startUid": "u2572",
+          "endUid": "u2576",
+          "quote": "Trok: I'm gonna slip into the water and swim towards it.\nUnknown: Okay.\nTrok: With the aim of boarding, if I can.\nDM: Okay, ah, interesting."
+        },
+        {
+          "startUid": "u2838",
+          "endUid": "u2850",
+          "quote": "Trok: You know what I’m gonna do? I’m gonna, like, grab the edge of the boat without bodily pulling myself into it. I can try to pull him into the water with me, so it’s a kind of grapple attack, I guess.\nDM: Okay. Yeah I got maker grapple.\nTrok: How do I do that?\nDM: Athletics check.\nTrok: Athletics, you say?\nUnknown: Yeah.\nWazir: This is why you grapple instead of me.\nRyu: Oh, I should have told him.\nDM: Yeah he is grappled, move next to him."
+        }
+      ]
+    },
+    {
+      "id": "l31",
+      "type": "movement",
+      "source": {
+        "startUid": "u2983",
+        "endUid": "u2995"
+      },
+      "actors": [
+        "Wazir"
+      ],
+      "reading": "Wazir teleports free, unties and pushes the boat, and steps back onto the dock.",
+      "from": "p18",
+      "to": "p18",
+      "completion": "arrived",
+      "mode": "teleport / step",
+      "route": [
+        {
+          "reading": "Briefly uses the boat to untie and shove it before stepping back off.",
+          "place": "p20"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2983",
+          "endUid": "u2995",
+          "quote": "Wazir: I'm gonna cast misty step and appear right there.\nWazir: Man, I am going to as part of my move I am going to push the boat off, untie the boat, and basically step back onto the shore. Know keep pushing the boat.\nTrok: This— Now turns out this whole thing was all just about stealing really awesome boat.\nWazir: Now I'm not stealing the boat.\nRyu: I'll just I'll just stay on the boat.\nWazir: Because I want to punch the bad guy with my iron man fists.\nRyu: Okay alright alright that works.\nWazir: Just so I’m getting a push the boat, I’m going to, like, jump off the boat as my move and, like, try and shove it away from that. Mean, obviously, it’s not a very strong shove because it’s not my action."
+        }
+      ]
+    },
+    {
+      "id": "l32",
+      "type": "movement",
+      "source": {
+        "startUid": "u3050",
+        "endUid": "u3057"
+      },
+      "actors": [
+        "Blu / Turk"
+      ],
+      "reading": "In shark form Turk tows the freed boat away from the dock. The beach is suggested, but no arrival there is established.",
+      "from": "p18",
+      "to": null,
+      "completion": "underway",
+      "mode": "swim",
+      "vehicle": "p20",
+      "evidence": [
+        {
+          "startUid": "u3050",
+          "endUid": "u3057",
+          "quote": "Ryu: All right, I'll stop there um yeah and I will I'll have Turk push—\nWazir: Push the boat at the line that's now drifting in the water, and just—\nRyu: Slipped.\nDM: Off with the boat.\nWazir: Organic it over to take it over to the beach or something like that.\nDM: Yeah Turk is starting to swim up with God. Yeah."
+        },
+        {
+          "startUid": "u3211",
+          "endUid": "u3213",
+          "quote": "DM: The boat is gone now, by the way.\nRyu: Like like Turk is taken away?\nDM: Turk is drag it."
+        }
+      ]
+    },
+    {
+      "id": "l33",
+      "type": "movement",
+      "source": {
+        "startUid": "u3495",
+        "endUid": "u3497"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The compressed aftermath takes the party to Azar's lair, where they recover the knife and seal it in the box.",
+      "from": "p18",
+      "to": "p24",
+      "completion": "arrived",
+      "note": "The transcript gives no route, travel duration, or return from the lair.",
+      "evidence": [
+        {
+          "startUid": "u3495",
+          "endUid": "u3497",
+          "quote": "Ryu: I'm evil and where's this knife now?\nDM: The knife is at his lair. In the interest of time, he confesses his crimes. He tells you where his lair is, as you are able to go to his lair, find the knife, store it in the lead box where it shuts up."
+        }
+      ]
+    }
+  ]
+}

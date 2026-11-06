@@ -1,0 +1,118 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "mawar-adventures-002",
+    "sessionYaml": "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+    "sessionYamlSha256": "35fe186e27f162ce708022a7ad7c0112a5f78237055a1f4b32680fb1a4a76d6e",
+    "transcriptPath": "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-transcript.md",
+    "transcriptSha256": "35de1d2930775f0bd8cf92fc93f3ee7e4d297b0a48b620b39207e3844e0b3bd7"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u1635"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u1636",
+        "endUid": "u1647"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u1648",
+        "endUid": "u1664"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1665",
+        "endUid": "u1690"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1691",
+        "endUid": "u2450"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2451",
+        "endUid": "u2475"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2476",
+        "endUid": "u2658"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2659",
+        "endUid": "u3444"
+      },
+      "category": "combat",
+      "note": "Ryu commits to attacking at u2659; initiative setup and map discussion remain inside the encounter, which ends when the drowned servant falls at u3444."
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u3445",
+        "endUid": "u3465"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u3466",
+        "endUid": "u3476"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u3477",
+        "endUid": "u3499"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u3500",
+        "endUid": "u3553"
+      },
+      "category": "meta_discussion",
+      "note": "Postgame discussion includes authoritative clarification of earlier events and the ring; those facts remain eligible for the other extractions."
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u3554",
+        "endUid": "u3597"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
