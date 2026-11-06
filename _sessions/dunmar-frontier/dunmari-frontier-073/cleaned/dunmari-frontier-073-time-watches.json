@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-073/cleaned/dunmari-frontier-073-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-073/cleaned/dunmari-frontier-073-time-markers.json",
+    "sha256": "e79aedeeb4d4c1eff5c86513ed5896757bf53a8f16adbc77ccf066c8c3d93224"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-073/cleaned/dunmari-frontier-073-transcript.md",
+    "sha256": "e62cd6b05151c863c5cca0385097c676e09ee367c9dd8b8d5db8a2c1c80f0a8b"
+  },
+  "dateAssessment": "Working calendar: YAML supplies November 24, 1748; only November is independently spoken. The transcript confirms the waking return is on the same day (t08), supporting the zero-boundary YAML span. Opening rest credit is not an additional hour after the opening. The precise onset of sleep is unstated: experienced search and dream-study durations do not independently measure waking time. The remembered winters do not extend this session’s dates, and the false awakening’s apparent early-afternoon light remains dream-local. The accepted waking correction is about 2 p.m., with two or three hours before sunset; this places the later sunset landing roughly at 4–5 p.m., within the afternoon watch. Evening settling follows; the proposed repair days and later destinations are not played advances. Dream markers are grouped with the watch of their true waking endpoint, without assigning a civil watch to the dream light.",
+  "watches": [
+    {
+      "day": "November 24, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Mid-morning opening; short-rest completion and ten–fifteen-minute investigation are experienced before the dream reveal.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04",
+        "t05"
+      ],
+      "startDate": "1748-11-24",
+      "endDate": "1748-11-24"
+    },
+    {
+      "day": "November 24, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "True waking around 2 p.m. ends the nightmare; dream minutes and apparent afternoon light supply no independent waking-world clock.",
+      "markers": [
+        "t06",
+        "t13",
+        "t07",
+        "t08"
+      ],
+      "startDate": "1748-11-24",
+      "endDate": "1748-11-24",
+      "scope": "Nightmare completed at true waking"
+    },
+    {
+      "day": "November 24, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "An hour of parallel study and searching precedes departure, seven hours after morning waking.",
+      "markers": [
+        "t09",
+        "t10"
+      ],
+      "startDate": "1748-11-24",
+      "endDate": "1748-11-24"
+    },
+    {
+      "day": "November 24, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "Cloud flight arrives at sunset, roughly 4–5 p.m. from the waking anchor, after 1–1½ hours.",
+      "markers": [
+        "t11"
+      ],
+      "startDate": "1748-11-24",
+      "endDate": "1748-11-24",
+      "sourceRanges": [
+        [
+          "u2058",
+          "u2063"
+        ]
+      ]
+    },
+    {
+      "day": "November 24, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "The party settles in for the evening after landing at sunset; repairs remain future work.",
+      "markers": [
+        "t12"
+      ],
+      "startDate": "1748-11-24",
+      "endDate": "1748-11-24"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Palace treasure inventory",
+      "path": "Campaigns/Dunmari Frontier Campaign/Hoards/Hralgar's Palace Treasure.md",
+      "sha256": "2ac29fd24bab4859ae2dd3313d489c939b08b235618a3f172d9f17e1000bd993"
+    }
+  ]
+}

@@ -1,0 +1,776 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-073",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-073/cleaned/dunmari-frontier-073-session.yaml",
+    "sessionYamlSha256": "7a871c2f66a87d08ad572eef87b97bcbfb0ef1f4a37f3b969abfa5af9013ae2a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-073/cleaned/dunmari-frontier-073-transcript.md",
+    "transcriptSha256": "e62cd6b05151c863c5cca0385097c676e09ee367c9dd8b8d5db8a2c1c80f0a8b"
+  },
+  "places": {
+    "p01": {
+      "label": "Hralgar’s Palace",
+      "kind": "ruined palace",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0016",
+          "quote": "DM: We begin mid-morning on a cold and clear November day high in the mountains, the weak sun shining on a ruined giant's palace. We're huddled around the sheltered campfire, warming themselves. It's an elf tending the fire; a halfling cleaning and repairing his arrows; a human resting in meditation, and a pair of dwarves, one heavily armored and tending to a hammer, the other, idly fiddling with a gauntlet some distance from the small camp. A shattered pile of ice marks the spot where only a short while ago, some kind of ice spirit, Ice Maiden, was killed by this group, her heart of solid ice destroyed. From the lower level of this ruined palace ominous clouds of darkness billow out of the tall, giant-sized windows that once cast light and sun into the rooms below. The wind blows harshly, the gusts carrying swirling bits of ice and snow, the shattered remains of the Ice Maiden's heart bringing to you her memories of winters past."
+        },
+        {
+          "startUid": "u0096",
+          "endUid": "u0105",
+          "quote": "DM: Right. So Hralgar's library, which has the pillar of—the book pillar that describes how to rebuild the engine of of a skieship as well as the small, you know, almost insignificant 4 foot tall notebook of his research on the history of of Vindristjarna.\n\nSeeker: As well as in theory, the phasing stone.\n\nDM: Are in the library, which is the lower ground. There used to be upper stories, but they have vanished in the 1,000 years since the palace was inhabited."
+        }
+      ],
+      "vaultPath": "Gazetteer/Central Highlands/Hralgar's Palace.md",
+      "note": "The vault note identifies the palace in the Sentinel Range; the current transcript calls the setting high mountains without naming the range. That vault-only orientation is not a transcript-backed parent relation."
+    },
+    "p02": {
+      "label": "Upper-level camp and melting ice sculptures",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0016",
+          "quote": "DM: We begin mid-morning on a cold and clear November day high in the mountains, the weak sun shining on a ruined giant's palace. We're huddled around the sheltered campfire, warming themselves. It's an elf tending the fire; a halfling cleaning and repairing his arrows; a human resting in meditation, and a pair of dwarves, one heavily armored and tending to a hammer, the other, idly fiddling with a gauntlet some distance from the small camp. A shattered pile of ice marks the spot where only a short while ago, some kind of ice spirit, Ice Maiden, was killed by this group, her heart of solid ice destroyed. From the lower level of this ruined palace ominous clouds of darkness billow out of the tall, giant-sized windows that once cast light and sun into the rooms below. The wind blows harshly, the gusts carrying swirling bits of ice and snow, the shattered remains of the Ice Maiden's heart bringing to you her memories of winters past."
+        },
+        {
+          "startUid": "u0136",
+          "endUid": "u0142",
+          "quote": "DM: So, so there's stairs that go down. And this is when the shadows, the darkness sort of billows up from these stairs like to descend into the library. Giant size stairs, right? So each step is about 3 feet down. In the sort of towards the back of the palace. That's— um, almost up against where it's sort of set against the side of the of the mountain itself is where this ice structure existed, and there is actually very little. There's very little sign that this was inhabited in any way. Right, there's not— But you know there's not a treasure hoard. There's not like a chest, a locked chest, or anything. What you see is there's a bunch of ice sculptures."
+        },
+        {
+          "startUid": "u2026",
+          "endUid": "u2028",
+          "quote": "DM: So we got—you, you all—you all wake up. You see Seeker just sitting up and Delwath like is in the process of like piling warm clothes around you and has relit the fire."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0136",
+              "endUid": "u0142",
+              "quote": "DM: So, so there's stairs that go down. And this is when the shadows, the darkness sort of billows up from these stairs like to descend into the library. Giant size stairs, right? So each step is about 3 feet down. In the sort of towards the back of the palace. That's— um, almost up against where it's sort of set against the side of the of the mountain itself is where this ice structure existed, and there is actually very little. There's very little sign that this was inhabited in any way. Right, there's not— But you know there's not a treasure hoard. There's not like a chest, a locked chest, or anything. What you see is there's a bunch of ice sculptures."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Dreamworld",
+      "kind": "plane",
+      "evidence": [
+        {
+          "startUid": "u1297",
+          "endUid": "u1309",
+          "quote": "DM: It's now, in the—also, pause for a sec. Let's—let's bring Kong up to speed. Okay, so you are in the dream world or some nightmare dimension. You've realized that you can control reality by imagining what you want it to be. And you are currently—you think you found the phasing stone, and you were trying to get it from this creature. It started in a block of ice, which Wellby figured, \"Well, there isn't any ice here.\" So it melted. But before he could pick it up, a raven swooped in and grabbed it and started flying up. Delwath imagined he was casting Mage Hand to grab it from the raven. And the raven turned to lead heavier than the mage hand could hold and begin to fall. Meanwhile Seeker has imagined himself a popsicle."
+        },
+        {
+          "startUid": "u1492",
+          "endUid": "u1495",
+          "quote": "DM: So yes, you definitely I mean your sense, Kenzo, is you definitely are in— I mean, this is— this is like your previous experiences in Dreamworld-like places, right? Like—"
+        },
+        {
+          "startUid": "u1953",
+          "endUid": "u1958",
+          "quote": "DM: Yeah, so I mean can— Kenzo has experienced this, right? So the time the very first time you went to the Dreamworld—you would know this—the very first time you went to the Dreamworld, you— You left your body and you passed through the plane of consciousness. You entered the dream world, not by any sort of physical travel, but just by sort of projecting your spirit. Then, later, you actually physically traveled there via that ritual with the with with the Lizard folk."
+        }
+      ],
+      "vaultPath": "Cosmology/Dreamworld.md"
+    },
+    "p04": {
+      "label": "Kurome’s nightmare realm",
+      "kind": "dream domain",
+      "evidence": [
+        {
+          "startUid": "u0631",
+          "endUid": "u0642",
+          "quote": "DM: She she just said: Kurome, Kurome's nightmare realm is of no concern to her. But the implication from her— what—what you were supposed to get, but was maybe too subtle from the visions in the intro, is that this nightmare creature, whatever it was, sort of a parasite on her freezing people. The slithering shadows that creep out from—\n\nSeeker: Oh.\n\nDM: The slithering shadows below will have their fill of his last dreams.\n\nSeeker: Oh.\n\nDM: But she she didn't say anything I mean, she was just like, \"Whatever I don't care about Kurome and his nightmares. They are of no concern to me. But if you want to go down there, who am I to stop you?\""
+        },
+        {
+          "startUid": "u1297",
+          "endUid": "u1309",
+          "quote": "DM: It's now, in the—also, pause for a sec. Let's—let's bring Kong up to speed. Okay, so you are in the dream world or some nightmare dimension. You've realized that you can control reality by imagining what you want it to be. And you are currently—you think you found the phasing stone, and you were trying to get it from this creature. It started in a block of ice, which Wellby figured, \"Well, there isn't any ice here.\" So it melted. But before he could pick it up, a raven swooped in and grabbed it and started flying up. Delwath imagined he was casting Mage Hand to grab it from the raven. And the raven turned to lead heavier than the mage hand could hold and begin to fall. Meanwhile Seeker has imagined himself a popsicle."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1297",
+              "endUid": "u1309",
+              "quote": "DM: It's now, in the—also, pause for a sec. Let's—let's bring Kong up to speed. Okay, so you are in the dream world or some nightmare dimension. You've realized that you can control reality by imagining what you want it to be. And you are currently—you think you found the phasing stone, and you were trying to get it from this creature. It started in a block of ice, which Wellby figured, \"Well, there isn't any ice here.\" So it melted. But before he could pick it up, a raven swooped in and grabbed it and started flying up. Delwath imagined he was casting Mage Hand to grab it from the raven. And the raven turned to lead heavier than the mage hand could hold and begin to fall. Meanwhile Seeker has imagined himself a popsicle."
+            },
+            {
+              "startUid": "u1492",
+              "endUid": "u1495",
+              "quote": "DM: So yes, you definitely I mean your sense, Kenzo, is you definitely are in— I mean, this is— this is like your previous experiences in Dreamworld-like places, right? Like—"
+            }
+          ]
+        }
+      ],
+      "note": "Experienced through sleeping projections. The precise onset of sleep is not announced; later discovery of the bodies prevents treating the apparent descents as embodied travel."
+    },
+    "p05": {
+      "label": "Dream of Hralgar’s library",
+      "kind": "dream room",
+      "evidence": [
+        {
+          "startUid": "u0392",
+          "endUid": "u0408",
+          "quote": "DM: So as you begin sort of creeping across the floor of the library, 2 things. One is: you can see these like, there's these pillars sort of looming that appear in the shadows around you. There seems to be more than one of them. And each pillar has runes in Giant carved going up the pillar, ascending way into the darkness above your head that you can't see, and these seem to be intact. Like, all of— you—you pass 4 pillars as you sort of creep across the room, all of which seem to be undamaged largely, best you can tell.\n\nDM: There is some like rubble and stuff scattered across, you know. Occasionally you'll see what it looks like the cracked remains of some giant-sized bookshelf just cracked in half and sort of scattered around. There's you know the occasional bit of stone or ice, or sort of blowing snow, and you can feel not really see, but you can feel sort of open space on your right as you begin creeping across where there are these large windows that are just dark, filled with darkness. You can't see out of them right now, but you can almost feel the fact that were there not the darkness here, there would be sunlight streaming into this library, and it would be a very pretty and well-lit place, despite being technically a cave. You begin making your way across. And and now all of you can hear this hissing noise."
+        },
+        {
+          "startUid": "u0477",
+          "endUid": "u0487",
+          "quote": "DM: So you, you—I—there's enough dim light from the from the driftglobes that you can sort of map out the space. The whole library itself is, maybe, you know, a 100 foot by 100 foot square, roughly. You cannot see the ceiling. It goes up beyond the light of the driftglobes. There are 12 pillars in total, all with runes on them.\n\nDM: It's it's quite difficult to like search through the room. I mean, there's some areas that have more rubble piled up. There's one place where you see, like a bunch of shattered glass sprayed across the floor that looks like some massive stained glass window was destroyed at. But there is another place where there is like a the wreckage of like a table and chairs."
+        },
+        {
+          "startUid": "u1833",
+          "endUid": "u1852",
+          "quote": "DM: And the the hole then vanishes. And the blackness stops, like you open your eyes, and there's sunlight. And you can see the light streaming in through the surface—through the big windows in the library.\n\nSeeker: Amazing.\n\nDM: The—but lighting up the sort of rubble and and and everything sort of strewn around the the, the—it's—it's probably like early afternoon light at this, you know, at this point the 12 pillars you can see now in the in the sunlight are decorated with the sort of brilliant colors.\n\nSeeker: Hmm.\n\nDM: All, you know, painted and—painted, or, or, or not really painted, but like mosaic, like chiseled with like inlay, like like dyes sort of into the runes going up. Everybody else to make a constitution saving throw.\n\nKenzo: So 9.\n\nDelwath: [garbled]\n\nDM: Okay. So you seem to be back in the library."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1864",
+              "endUid": "u1886",
+              "quote": "DM: So Delwath pricks his finger, and drops a drop of blood in—well, you need—you pour some water out into the dream mirror, pricks his finger, drops a drop of blood into the dream mirror. And you see— I guess you see the library.\n\nWellby: I'll say loudly, \"You said you wouldn't hinder our leaving if we were able to get it.\"\n\nSeeker: No, no! So we're in the dream library again. Or you?\n\nWellby: Oh, no, yeah, that right? That's what that means. Right?\n\nDelwath: A trick or something.\n\nSeeker: Try to read the pillars again. I mean, have you ever tried to?\n\nRiswynn: Oh, here.\n\nDelwath: Are the pillars the same?\n\nDM: There seems to be a lot less detail than—I mean, you, especially the one on the on—the the technical details of the of the sky ship is hard to parse.\n\nWellby: Wellby says again, louder, \"You said you wouldn't hinder our leaving if we were able to get it.\"\n\nSeeker: Hmm. So it—so he did.\n\nRiswynn: Yes, just have to—\n\nSeeker: We might get.\n\nDM: There's there's no response from the voice."
+            },
+            {
+              "startUid": "u1921",
+              "endUid": "u1924",
+              "quote": "DM: You. You fly up. And you see you see your campfire, and you see 5 sleeping figures. You—4 of you are like covered mostly covered in ice. Seeker is not."
+            },
+            {
+              "startUid": "u2032",
+              "endUid": "u2034",
+              "quote": "Delwath: That might be a good time to take the bowl. Delwath he'll take the bowl and prick his finger again and see if we see anything.\n\nDM: Plain water."
+            }
+          ]
+        }
+      ],
+      "note": "The dark library and sunlit false awakening are dream representations, distinct from the library physically searched after waking."
+    },
+    "p06": {
+      "label": "Endless corridor",
+      "kind": "dream passage",
+      "evidence": [
+        {
+          "startUid": "u0451",
+          "endUid": "u0463",
+          "quote": "DM: The ladder opens the door. It swings open as the ladder like pulls it, it wraps around it and pulls it, and there is just a long corridor leading into the mountain.\n\nDM: And as it's opened like, there's a—as it swings open, there's like almost like this flow of darkness that that races over you like the wind, but the corridor itself is actually brighter like it's dim light. Your driftglobes don't seem to illuminate it at all, but it's much less dark than the darkness of the library."
+        },
+        {
+          "startUid": "u0761",
+          "endUid": "u0784",
+          "quote": "DM: Okay. So you all step into the corridor. The the darkness almost seems to fade a little bit— for us. Did you see my message?\n\nUnknown: Thank you.\n\nDM: The— as you begin to walk down the the the corridor, there's almost— so very, very quickly, you feel like there's like the corridor is endless in both directions, right like you can't— Even after going 10 or 15 feet, you cannot see—like you turn around in the corridor extends as far as one can see, in both directions, like there's no door back into the into the dark library. But the darkness is— the darkness is is much less oppressive, and—\n\nDM: And you can see up ahead almost like the flickering of a torchlight, and and the glint of so—of something almost like there's a brighter light ahead, like an opening into a room, a room that's lit by torches, and that you can see—again, it's almost impossible to judge distance. There seems to be like a a throne or a a chair of some kind, like an elaborate chair, sat on a dais in this room at the end of the corridor, lit by torches."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1297",
+              "endUid": "u1309",
+              "quote": "DM: It's now, in the—also, pause for a sec. Let's—let's bring Kong up to speed. Okay, so you are in the dream world or some nightmare dimension. You've realized that you can control reality by imagining what you want it to be. And you are currently—you think you found the phasing stone, and you were trying to get it from this creature. It started in a block of ice, which Wellby figured, \"Well, there isn't any ice here.\" So it melted. But before he could pick it up, a raven swooped in and grabbed it and started flying up. Delwath imagined he was casting Mage Hand to grab it from the raven. And the raven turned to lead heavier than the mage hand could hold and begin to fall. Meanwhile Seeker has imagined himself a popsicle."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Throne room",
+      "kind": "dream room",
+      "evidence": [
+        {
+          "startUid": "u0775",
+          "endUid": "u0784",
+          "quote": "DM: And you can see up ahead almost like the flickering of a torchlight, and and the glint of so—of something almost like there's a brighter light ahead, like an opening into a room, a room that's lit by torches, and that you can see—again, it's almost impossible to judge distance. There seems to be like a a throne or a a chair of some kind, like an elaborate chair, sat on a dais in this room at the end of the corridor, lit by torches."
+        },
+        {
+          "startUid": "u0878",
+          "endUid": "u0880",
+          "quote": "Riswynn: I wonder if we circle around to the left and go around.\n\nDM: There is—there is another door as you enter into the throne room. There's another door. But it's closed behind the throne.\n\nSeeker: Hmm."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1049",
+              "endUid": "u1060",
+              "quote": "DM: You are all in some dream world state, where what you imagine becomes real, and Seeker has spent most of the time imagining ice to eat while everybody else is distracted by his antics.\n\nSeeker: I mean it's delicious. The cinnamon flavored shaved ice. So that's a good reason for it.\n\nRiswynn: Which Delwath tried to make have a terrible smell as an aversion therapy, and that didn't help. Yeah. Wellby is imagining us in various castle throne rooms and antechambers. So and despite my best efforts, I don't seem to be able to imagine a giant's tiny little giant book."
+            },
+            {
+              "startUid": "u1080",
+              "endUid": "u1090",
+              "quote": "DM: So Wellby sits and and begins to clear his mind and just go still. For a moment the throne vanishes, like a bunch of the—so the silver bowls just clatter down as they were leaning against the throne. The walls vanish. And there is just a dark expanse stretching as far as you can see. The the corridors vanish. You're just—"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Empty side chamber",
+      "kind": "dream room",
+      "evidence": [
+        {
+          "startUid": "u0904",
+          "endUid": "u0911",
+          "quote": "DM: The—the— The door swings open, and there's just an empty small room just like a sort of plain side chamber, where one might store treasure, or it doesn't have any furniture in it. There's just blank walls."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0878",
+              "endUid": "u0880",
+              "quote": "Riswynn: I wonder if we circle around to the left and go around.\n\nDM: There is—there is another door as you enter into the throne room. There's another door. But it's closed behind the throne.\n\nSeeker: Hmm."
+            },
+            {
+              "startUid": "u0904",
+              "endUid": "u0911",
+              "quote": "DM: The—the— The door swings open, and there's just an empty small room just like a sort of plain side chamber, where one might store treasure, or it doesn't have any furniture in it. There's just blank walls."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1049",
+              "endUid": "u1060",
+              "quote": "DM: You are all in some dream world state, where what you imagine becomes real, and Seeker has spent most of the time imagining ice to eat while everybody else is distracted by his antics.\n\nSeeker: I mean it's delicious. The cinnamon flavored shaved ice. So that's a good reason for it.\n\nRiswynn: Which Delwath tried to make have a terrible smell as an aversion therapy, and that didn't help. Yeah. Wellby is imagining us in various castle throne rooms and antechambers. So and despite my best efforts, I don't seem to be able to imagine a giant's tiny little giant book."
+            },
+            {
+              "startUid": "u1080",
+              "endUid": "u1090",
+              "quote": "DM: So Wellby sits and and begins to clear his mind and just go still. For a moment the throne vanishes, like a bunch of the—so the silver bowls just clatter down as they were leaning against the throne. The walls vanish. And there is just a dark expanse stretching as far as you can see. The the corridors vanish. You're just—"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Empty expanse with the isolated snowstorm",
+      "kind": "dream landscape",
+      "evidence": [
+        {
+          "startUid": "u1080",
+          "endUid": "u1093",
+          "quote": "DM: So Wellby sits and and begins to clear his mind and just go still. For a moment the throne vanishes, like a bunch of the—so the silver bowls just clatter down as they were leaning against the throne. The walls vanish. And there is just a dark expanse stretching as far as you can see. The the corridors vanish. You're just—\n\nSeeker: You're just in sort of emptiness. That's awesome.\n\nDM: You can hear in the distance the howling of wind. The ice is melting."
+        },
+        {
+          "startUid": "u1124",
+          "endUid": "u1135",
+          "quote": "DM: But other than that around you all of the everything begins to vanish, right? There's just this, like sort of a few puddles of water. The silver bowls have vanished. They've melted. So there's like these puddles of silvery water with like little mechanical animals drinking from them in an otherwise sort of silent expanse, and you can hear now the howling of of wind getting louder in the distance. You almost can feel the cold. This—the blowing snow far away, or maybe close. There's no sense of distance in this vast emptiness.\n\nSeeker: Is there a direction that it's blowing from or coldest in?\n\nDM: Yeah, I mean you can hear the direction that the—that the— but the wind is blowing. It's blowing like from ahead of you basically is where the sound is coming from."
+        },
+        {
+          "startUid": "u1182",
+          "endUid": "u1197",
+          "quote": "DM: The—so as you—as you walk in this direction, you can see there's like a snowstorm, an isolated snowstorm up ahead. And in the in the snow there's like a figure. It seems not like a fully complete figure. It's like a almost like a silhouette, but any, no matter what direction they turn, you can't see facial features or anything that's struggling against the snow. The wind is blowing at it. The the—and they're— they're holding something like clutched in their hands like up against their breast, as they sort of struggle into the wind. Shivering cold.\n\nSeeker: Hmm. I imagine them, with their— that they're standing in ice, their feet encased in the ice holding them in place.\n\nDM: They they turn sort of to look at you, except they have no face. And their feet begin to freeze, the ice sort of forming in a block around their legs as they turn, and sort of gesture in your direction and stop moving.\n\nDM: The snow is now swirling around, all of you."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1297",
+              "endUid": "u1309",
+              "quote": "DM: It's now, in the—also, pause for a sec. Let's—let's bring Kong up to speed. Okay, so you are in the dream world or some nightmare dimension. You've realized that you can control reality by imagining what you want it to be. And you are currently—you think you found the phasing stone, and you were trying to get it from this creature. It started in a block of ice, which Wellby figured, \"Well, there isn't any ice here.\" So it melted. But before he could pick it up, a raven swooped in and grabbed it and started flying up. Delwath imagined he was casting Mage Hand to grab it from the raven. And the raven turned to lead heavier than the mage hand could hold and begin to fall. Meanwhile Seeker has imagined himself a popsicle."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Gray space below the dream ground",
+      "kind": "dream space",
+      "evidence": [
+        {
+          "startUid": "u1220",
+          "endUid": "u1230",
+          "quote": "DM: The ground splits open as Seeker dives through it. The ladder and Seeker just sort of falling down, and the rest of you finding yourself in this black space just sort of floating.\n\nRiswynn: Can we see Seeker and the ladder anymore?\n\nDM: You can see Seeker and the ladder, and you can see in the distance, at the bottom below you, in this empty space a pillar of stone pedestal, or ice pedestal, with this cube of solid ice on it the same stone that fell out of this creature's hand embedded in the middle of this block."
+        },
+        {
+          "startUid": "u1293",
+          "endUid": "u1294",
+          "quote": "Delwath: It's falling down through the blackness.\n\nDM: You're just in an empty space. Yeah, I mean it's it's black, but it's more an absence of—it's more of like a flat grayness than right."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1297",
+              "endUid": "u1309",
+              "quote": "DM: It's now, in the—also, pause for a sec. Let's—let's bring Kong up to speed. Okay, so you are in the dream world or some nightmare dimension. You've realized that you can control reality by imagining what you want it to be. And you are currently—you think you found the phasing stone, and you were trying to get it from this creature. It started in a block of ice, which Wellby figured, \"Well, there isn't any ice here.\" So it melted. But before he could pick it up, a raven swooped in and grabbed it and started flying up. Delwath imagined he was casting Mage Hand to grab it from the raven. And the raven turned to lead heavier than the mage hand could hold and begin to fall. Meanwhile Seeker has imagined himself a popsicle."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Dream of the upper camp and sleeping bodies",
+      "kind": "dream site",
+      "evidence": [
+        {
+          "startUid": "u1919",
+          "endUid": "u1924",
+          "quote": "DM: So you just fly. You fly up the stairs on the ladder.\n\nRiswynn: Yeah, just to look at the level above.\n\nDM: You. You fly up. And you see you see your campfire, and you see 5 sleeping figures. You—4 of you are like covered mostly covered in ice. Seeker is not."
+        },
+        {
+          "startUid": "u1978",
+          "endUid": "u1982",
+          "quote": "DM: Okay. So you go up. You approach your the like camp. The fire is out. And you are, and and you approach your your seemingly sleeping body that's that's now like frost forming on your on, you know, on your arms, and and where you're sort of wrapped in your cloak. And you—what do you—what are you doing precisely?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1986",
+              "endUid": "u1998",
+              "quote": "Delwath: Then I'm going to gently shake myself and see if it wakes me up. Or if somehow touching myself causes some terrible reaction.\n\nDM: But then something vanishes.\n\nSeeker: Which—which one?\n\nDM: Both of them.\n\nSeeker: Oh, no.\n\nKenzo: The fuck?\n\nSeeker: And well, whatever just happened, maybe we should all try it.\n\nDelwath: Does telepathy still work?\n\nSeeker: Oh, yeah, good question.\n\nRiswynn: We mentally cry out, \"Hey!\"\n\nDM: That is a good question. 1 s. No, telepathy does not work."
+            },
+            {
+              "startUid": "u2024",
+              "endUid": "u2034",
+              "quote": "Riswynn: Okay, vanishing seems like a good thing to do. Kenzo, Wellby, what do you guys think we should just wake ourselves up and vanish? Let's do it.\n\nDM: So we got—you, you all—you all wake up. You see Seeker just sitting up and Delwath like is in the process of like piling warm clothes around you and has relit the fire.\n\nDM: Wellby and Kenzo, you both have taken 36 points of cold damage, and Riswynn, 40 points of cold damage.\n\nSeeker: And meanwhile the Seeker's like, \"Gosh! It's warm.\" He's like taking off his socks, and—\n\nDelwath: That might be a good time to take the bowl. Delwath he'll take the bowl and prick his finger again and see if we see anything.\n\nDM: Plain water."
+            }
+          ]
+        }
+      ],
+      "note": "Riswynn first sees the bodies after flying upstairs in the dream; the party later awakens at the actual camp."
+    },
+    "p12": {
+      "label": "Library",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0096",
+          "endUid": "u0105",
+          "quote": "DM: Right. So Hralgar's library, which has the pillar of—the book pillar that describes how to rebuild the engine of of a skieship as well as the small, you know, almost insignificant 4 foot tall notebook of his research on the history of of Vindristjarna.\n\nSeeker: As well as in theory, the phasing stone.\n\nDM: Are in the library, which is the lower ground. There used to be upper stories, but they have vanished in the 1,000 years since the palace was inhabited."
+        },
+        {
+          "startUid": "u2045",
+          "endUid": "u2047",
+          "quote": "Riswynn: So that we go back down the stairs and look for the—yeah, what's the state of the library? Is it still pitch black?\n\nDM: No, it's it's light, not quite so bright as when you woke up."
+        },
+        {
+          "startUid": "u2067",
+          "endUid": "u2087",
+          "quote": "DM: So the the wait, we checked the hole for—the phasing stone's in there. Okay. So the copying out the like detailed instructions for how to construct these channeling devices to pilot the the skieship is is going to take, probably is going to take the Seeker and Delwath an hour if you want to make sure you get everything right and get all the technical details properly written in Seeker's notebook. And you sort of both have to do it because Delwath has to translate and Seeker has to interpret it as—\n\nRiswynn: So that leaves Wellby, and Kenzo and I to look for—\n\nDM: That gives the 3 of you the other 3 people time for whatever you want to do.\n\nWellby: Do we—we were aware that there was a little book here, little book here. I can't remember what it was good for—it—\n\nDM: It was Hralgar's notes about the history of the the skieship that crashed. You know.\n\nWellby: We want that absolutely.\n\nSeeker: The vehicle is.\n\nRiswynn: Worth keeping an eye out for that in particular.\n\nDM: Given that you have an hour to search, that's enough time that you can, you know, divide the library into quadrants, and carefully, and, you know, go through every piece of rubble until you turn it up. So I'm not. You know [garbled]. And it's not a small thing. It's not a small thing, right? So you you do—you do find this book. You find 2 other seemingly intact, at least not too badly damaged giant books. So 3 total books of roughly the size of this like four-ish foot size book."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0096",
+              "endUid": "u0105",
+              "quote": "DM: Right. So Hralgar's library, which has the pillar of—the book pillar that describes how to rebuild the engine of of a skieship as well as the small, you know, almost insignificant 4 foot tall notebook of his research on the history of of Vindristjarna.\n\nSeeker: As well as in theory, the phasing stone.\n\nDM: Are in the library, which is the lower ground. There used to be upper stories, but they have vanished in the 1,000 years since the palace was inhabited."
+            },
+            {
+              "startUid": "u0136",
+              "endUid": "u0142",
+              "quote": "DM: So, so there's stairs that go down. And this is when the shadows, the darkness sort of billows up from these stairs like to descend into the library. Giant size stairs, right? So each step is about 3 feet down. In the sort of towards the back of the palace. That's— um, almost up against where it's sort of set against the side of the of the mountain itself is where this ice structure existed, and there is actually very little. There's very little sign that this was inhabited in any way. Right, there's not— But you know there's not a treasure hoard. There's not like a chest, a locked chest, or anything. What you see is there's a bunch of ice sculptures."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Ruins of the skyship",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u2122",
+          "endUid": "u2131",
+          "quote": "DM: So you know, an hour, an hour and a half before sunset, you pack up and you shift into clouds. And you know, only you know 7 h having passed since you woke up this morning and said goodbye to Hralgar. You fly back across the plains, landing in the ruins of the skyship, turning back into your forms as the sun begins to set, with instructions."
+        }
+      ],
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "mobile": true,
+      "note": "Vindristjarna is still a crashed skyship awaiting restoration in this session. The party travels as clouds; the vessel does not fly here."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u0016"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The five companions are huddled around the sheltered campfire at the ruined palace’s upper level.",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0016",
+          "quote": "DM: We begin mid-morning on a cold and clear November day high in the mountains, the weak sun shining on a ruined giant's palace. We're huddled around the sheltered campfire, warming themselves. It's an elf tending the fire; a halfling cleaning and repairing his arrows; a human resting in meditation, and a pair of dwarves, one heavily armored and tending to a hammer, the other, idly fiddling with a gauntlet some distance from the small camp. A shattered pile of ice marks the spot where only a short while ago, some kind of ice spirit, Ice Maiden, was killed by this group, her heart of solid ice destroyed. From the lower level of this ruined palace ominous clouds of darkness billow out of the tall, giant-sized windows that once cast light and sun into the rooms below. The wind blows harshly, the gusts carrying swirling bits of ice and snow, the shattered remains of the Ice Maiden's heart bringing to you her memories of winters past."
+        },
+        {
+          "startUid": "u0213",
+          "endUid": "u0221",
+          "quote": "DM: Kenzo wanders over and soul-sights the ice sculptures. Yeah, Kenzo could. So that's a good idea. But they do not, and he reports to you that that they don't—that there is no soul. There's no auras around them. These aren't— There's no souls here. This is like this is— I don't know if you would call it art exactly. But there's nothing—they're representations. There's nothing—there was nothing of these people. This is like a representation, or a, or a— it's hard to say if it's gloating, or or just acknowledgment, or just a comforting collection, or what? But there's not— There's no essence of these frozen people in these melting blocks of ice."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0371",
+        "endUid": "u0408"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party experiences descending the giant stairs and crossing Hralgar’s library; the later sleeping-body reveal qualifies this as dream travel.",
+      "evidence": [
+        {
+          "startUid": "u0371",
+          "endUid": "u0408",
+          "quote": "DM: As you begin to descend you, you you travel down the stairs. This is basically involving jumping for many of you, down each step as the steps—the stair tread is about the same size as Wellby. Keeping your ears open in a in a keen like eye as best you can on the the sort of 15 or 20 feet in front of you that you can see. It is—it is very quiet there. Doesn't seem to be anything stirring except coming from the far side of the room, Wellby, you hear what sounds like a— almost like a hissing noise, like like air leaking out of a balloon.\n\nSeeker: Oh. I'm—a—as I creep in the back of the pack, down the stairs, I hold the ladder out. It's like we're going to need a ladder. There are big things here. None of us is tall enough. So I animate the ladder. Now.\n\nDelwath: I'll take my sword out. I assume it's not glowing.\n\nDM: What would make it glow, the presence of fiends? Yeah.\n\nDelwath: Just making sure.\n\nWellby: I'm going to sort of set our course towards that hissing noise.\n\nDM: So as you begin sort of creeping across the floor of the library, 2 things. One is: you can see these like, there's these pillars sort of looming that appear in the shadows around you. There seems to be more than one of them. And each pillar has runes in Giant carved going up the pillar, ascending way into the darkness above your head that you can't see, and these seem to be intact. Like, all of— you—you pass 4 pillars as you sort of creep across the room, all of which seem to be undamaged largely, best you can tell.\n\nDM: There is some like rubble and stuff scattered across, you know. Occasionally you'll see what it looks like the cracked remains of some giant-sized bookshelf just cracked in half and sort of scattered around. There's you know the occasional bit of stone or ice, or sort of blowing snow, and you can feel not really see, but you can feel sort of open space on your right as you begin creeping across where there are these large windows that are just dark, filled with darkness. You can't see out of them right now, but you can almost feel the fact that were there not the darkness here, there would be sunlight streaming into this library, and it would be a very pretty and well-lit place, despite being technically a cave. You begin making your way across. And and now all of you can hear this hissing noise."
+        },
+        {
+          "startUid": "u1921",
+          "endUid": "u1924",
+          "quote": "DM: You. You fly up. And you see you see your campfire, and you see 5 sleeping figures. You—4 of you are like covered mostly covered in ice. Seeker is not."
+        },
+        {
+          "startUid": "u2026",
+          "endUid": "u2034",
+          "quote": "DM: So we got—you, you all—you all wake up. You see Seeker just sitting up and Delwath like is in the process of like piling warm clothes around you and has relit the fire.\n\nDM: Wellby and Kenzo, you both have taken 36 points of cold damage, and Riswynn, 40 points of cold damage.\n\nSeeker: And meanwhile the Seeker's like, \"Gosh! It's warm.\" He's like taking off his socks, and—\n\nDelwath: That might be a good time to take the bowl. Delwath he'll take the bowl and prick his finger again and see if we see anything.\n\nDM: Plain water."
+        }
+      ],
+      "place": "p05",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0761",
+        "endUid": "u0784"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "All step into the corridor; its entrance disappears and it seems endless in both directions.",
+      "evidence": [
+        {
+          "startUid": "u0761",
+          "endUid": "u0784",
+          "quote": "DM: Okay. So you all step into the corridor. The the darkness almost seems to fade a little bit— for us. Did you see my message?\n\nUnknown: Thank you.\n\nDM: The— as you begin to walk down the the the corridor, there's almost— so very, very quickly, you feel like there's like the corridor is endless in both directions, right like you can't— Even after going 10 or 15 feet, you cannot see—like you turn around in the corridor extends as far as one can see, in both directions, like there's no door back into the into the dark library. But the darkness is— the darkness is is much less oppressive, and—\n\nDM: And you can see up ahead almost like the flickering of a torchlight, and and the glint of so—of something almost like there's a brighter light ahead, like an opening into a room, a room that's lit by torches, and that you can see—again, it's almost impossible to judge distance. There seems to be like a a throne or a a chair of some kind, like an elaborate chair, sat on a dais in this room at the end of the corridor, lit by torches."
+        }
+      ],
+      "place": "p06",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0878",
+        "endUid": "u0880"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party enters the imagined throne room and finds the door behind its throne.",
+      "evidence": [
+        {
+          "startUid": "u0878",
+          "endUid": "u0880",
+          "quote": "Riswynn: I wonder if we circle around to the left and go around.\n\nDM: There is—there is another door as you enter into the throne room. There's another door. But it's closed behind the throne.\n\nSeeker: Hmm."
+        },
+        {
+          "startUid": "u0931",
+          "endUid": "u0943",
+          "quote": "DM: I—you! So you hear the the rest of you behind you hear a clattering noise, and you look back, and there's a a bowl balanced on the on the like a silver bowl about that could fit nicely in like 2 hands balanced on the side of the throne, a side of the throne. The—the spoon has—a silver spoon has just tumbled out and fallen onto the floor, making a clattering noise, and within the bowl the bowl is filled with like finely shaved ice.\n\nSeeker: It worked. Seeker strolls towards it. Now is this a giant scale throne, or it—\n\nDM: Actually it's smaller. It's like a dwarf size, you know, halfling sized. Um,\n\nWellby: I think the throne was from my dream."
+        }
+      ],
+      "place": "p07",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0895",
+        "endUid": "u0911"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The opened door reveals an empty side chamber; looking inside does not establish entry.",
+      "evidence": [
+        {
+          "startUid": "u0895",
+          "endUid": "u0911",
+          "quote": "DM: The door slowly it swings open.\n\nRiswynn: And we can see into the subsequent room, or we can't?\n\nDM: You can see. Mike, did you see my message?\n\nDelwath: Out now.\n\nRiswynn: Yes.\n\nDelwath: I didn't actually look behind it.\n\nDM: I know. Okay.\n\nDelwath: And I mean.\n\nDM: The—the— The door swings open, and there's just an empty small room just like a sort of plain side chamber, where one might store treasure, or it doesn't have any furniture in it. There's just blank walls."
+        }
+      ],
+      "place": "p08",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u1080",
+        "endUid": "u1132"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "As the party clears its mind, the throne, walls and corridors vanish into an empty expanse.",
+      "evidence": [
+        {
+          "startUid": "u1080",
+          "endUid": "u1132",
+          "quote": "DM: So Wellby sits and and begins to clear his mind and just go still. For a moment the throne vanishes, like a bunch of the—so the silver bowls just clatter down as they were leaning against the throne. The walls vanish. And there is just a dark expanse stretching as far as you can see. The the corridors vanish. You're just—\n\nSeeker: You're just in sort of emptiness. That's awesome.\n\nDM: You can hear in the distance the howling of wind. The ice is melting.\n\nSeeker: Hmm.\n\nWellby: I'll say to everyone else, \"Clear, clear your mind. Let let go of whatever you've put in this space.\"\n\nSeeker: I'm not done eating the—\n\nDelwath: Sort of across from Wellby and sort of follow the same like—\n\nUnknown: Oh.\n\nDelwath: Trance that he would do instead of sleep, but instead of dwelling on, just trying to hold in that— Normally it's a time of like remembering the past, but just trying to like stop before he gets to any memories and just kind of freeze and like a emptiness and and keep his mind empty.\n\nSeeker: So okay.\n\nDM: Make a wisdom check.\n\nSeeker: Seeker looks up puzzled for a second. Normally I get that you know that thing that happens like a brain freeze when you eat too much or something cold? I don't have that at all. That's that's weird. He sets the bowl aside and sits down to clear his mind as well.\n\nDM: Make a wisdom check.\n\nRiswynn: Riswynn is also following her religious practices. For, oh, boy.\n\nSeeker: Mind clearing. I can get back up again.\n\nDM: Right. So, as you all begin to settle, clear your mind. Kenzo, being practiced at meditation doesn't have to make a wisdom check.\n\nDM: You see, like a little—like a— it's like a clockwork little sort of clockwork cat sort of white cat kind of walks in and starts in this empty space, and starts like licking at one of—like, lapping at a pool of water. Like a few more sort of clockwork animals start to start to wander in. And you can—you can hear them ticking.\n\nDM: But other than that around you all of the everything begins to vanish, right? There's just this, like sort of a few puddles of water. The silver bowls have vanished. They've melted. So there's like these puddles of silvery water with like little mechanical animals drinking from them in an otherwise sort of silent expanse, and you can hear now the howling of of wind getting louder in the distance. You almost can feel the cold. This—the blowing snow far away, or maybe close. There's no sense of distance in this vast emptiness."
+        }
+      ],
+      "place": "p09",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u1182",
+        "endUid": "u1234"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Following the storm and the stone, the party finds itself floating below the split dream ground, with the stone frozen on a pedestal.",
+      "evidence": [
+        {
+          "startUid": "u1182",
+          "endUid": "u1197",
+          "quote": "DM: The—so as you—as you walk in this direction, you can see there's like a snowstorm, an isolated snowstorm up ahead. And in the in the snow there's like a figure. It seems not like a fully complete figure. It's like a almost like a silhouette, but any, no matter what direction they turn, you can't see facial features or anything that's struggling against the snow. The wind is blowing at it. The the—and they're— they're holding something like clutched in their hands like up against their breast, as they sort of struggle into the wind. Shivering cold.\n\nSeeker: Hmm. I imagine them, with their— that they're standing in ice, their feet encased in the ice holding them in place.\n\nDM: They they turn sort of to look at you, except they have no face. And their feet begin to freeze, the ice sort of forming in a block around their legs as they turn, and sort of gesture in your direction and stop moving.\n\nDM: The snow is now swirling around, all of you."
+        },
+        {
+          "startUid": "u1203",
+          "endUid": "u1234",
+          "quote": "DM: Ice begins to creep up this figure's [garbled]. Creeping up their body, and as it does they like like shudder a little bit, and their hands fall open, and something falls out of their hand and falls straight through the ground.\n\nSeeker: What is the—\n\nDM: Round, pulsing stone, as the ice continues up their body.\n\nSeeker: I imagine myself diving for the stone down through the ground.\n\nDM: I—make a Wisdom check.\n\nSeeker: I think that's unwise. No, I'm rolling like.\n\nDM: As Seeker dives to the ground, and the rest of you are still trying to maintain your sort of—\n\nSeeker: On the ladder. By the way, I think on the ladder,\n\nDM: The rest of you are still sort of trying to maintain your concentration, your—at the sort of emptiness of your minds.\n\nDM: The ground splits open as Seeker dives through it. The ladder and Seeker just sort of falling down, and the rest of you finding yourself in this black space just sort of floating.\n\nRiswynn: Can we see Seeker and the ladder anymore?\n\nDM: You can see Seeker and the ladder, and you can see in the distance, at the bottom below you, in this empty space a pillar of stone pedestal, or ice pedestal, with this cube of solid ice on it the same stone that fell out of this creature's hand embedded in the middle of this block.\n\nSeeker: Perfect! Perfect! There it is! I look for the others. Do I see anybody else?\n\nDM: Yeah, you see, everybody else just kind of floating."
+        }
+      ],
+      "place": "p10",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u1833",
+        "endUid": "u1852"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The apparent return to the sunlit library is a false awakening, confirmed by the dream mirror and sleeping bodies.",
+      "evidence": [
+        {
+          "startUid": "u1833",
+          "endUid": "u1852",
+          "quote": "DM: And the the hole then vanishes. And the blackness stops, like you open your eyes, and there's sunlight. And you can see the light streaming in through the surface—through the big windows in the library.\n\nSeeker: Amazing.\n\nDM: The—but lighting up the sort of rubble and and and everything sort of strewn around the the, the—it's—it's probably like early afternoon light at this, you know, at this point the 12 pillars you can see now in the in the sunlight are decorated with the sort of brilliant colors.\n\nSeeker: Hmm.\n\nDM: All, you know, painted and—painted, or, or, or not really painted, but like mosaic, like chiseled with like inlay, like like dyes sort of into the runes going up. Everybody else to make a constitution saving throw.\n\nKenzo: So 9.\n\nDelwath: [garbled]\n\nDM: Okay. So you seem to be back in the library."
+        },
+        {
+          "startUid": "u1864",
+          "endUid": "u1868",
+          "quote": "DM: So Delwath pricks his finger, and drops a drop of blood in—well, you need—you pour some water out into the dream mirror, pricks his finger, drops a drop of blood into the dream mirror. And you see— I guess you see the library."
+        },
+        {
+          "startUid": "u1921",
+          "endUid": "u1924",
+          "quote": "DM: You. You fly up. And you see you see your campfire, and you see 5 sleeping figures. You—4 of you are like covered mostly covered in ice. Seeker is not."
+        }
+      ],
+      "place": "p05",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u1915",
+        "endUid": "u1924"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Riswynn flies upstairs on the still-animated dream ladder and sees the camp and five sleeping figures.",
+      "evidence": [
+        {
+          "startUid": "u1915",
+          "endUid": "u1924",
+          "quote": "Riswynn: We but if we fly up the stairs with it, because I don't want to climb those different things with their giant step size. Would we—do we—do we find—do we— If we fly up with the ladder, do we see the like remains of the battle with the or the melted puddles, or whatever, does it look different up there, too?\n\nDM: So you just fly. You fly up the stairs on the ladder.\n\nRiswynn: Yeah, just to look at the level above.\n\nDM: You. You fly up. And you see you see your campfire, and you see 5 sleeping figures. You—4 of you are like covered mostly covered in ice. Seeker is not."
+        }
+      ],
+      "place": "p11",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u1978",
+        "endUid": "u2022"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "Delwath and then Seeker approach and touch their sleeping bodies, vanishing from the dream as they wake.",
+      "evidence": [
+        {
+          "startUid": "u1978",
+          "endUid": "u1990",
+          "quote": "DM: Okay. So you go up. You approach your the like camp. The fire is out. And you are, and and you approach your your seemingly sleeping body that's that's now like frost forming on your on, you know, on your arms, and and where you're sort of wrapped in your cloak. And you—what do you—what are you doing precisely?\n\nDelwath: Hey—wow! First I'm going to cast—I'm gonna light the—I'm gonna cast Prestidigitation and relight the campfire.\n\nDM: It blazes to light.\n\nSeeker: He.\n\nDelwath: Then I'm going to gently shake myself and see if it wakes me up. Or if somehow touching myself causes some terrible reaction.\n\nDM: But then something vanishes.\n\nSeeker: Which—which one?\n\nDM: Both of them."
+        },
+        {
+          "startUid": "u1999",
+          "endUid": "u2022",
+          "quote": "Seeker: Where did the where did Delwath go again? Oh, dear. I I I go in close without touching anyone yet. How does Seeker look? Conscious, unconscious?\n\nDM: Seeker? Looks like dreaming happily.\n\nSeeker: Hmm. Okay. I am— I try, like I don't know, and laughing, or like coughing at it. Try to see if I can get my body to react, the one that's sleeping.\n\nDM: It doesn't seem to react.\n\nSeeker: The—I try— I don't know. I reach out and touch my own nose. I mean the sleeping Seeker's nose.\n\nDM: Okay. You touch—you—I mean, are you trying to like, wake yourself up, or are you just like— Your nose is like pretty—is not cold. It's like warm to the touch.\n\nSeeker: Okay. Okay, then I'll—I'll sort of like shake myself a little bit on the torso, like, \"Wake up.\"\n\nDM: Seeker vanishes."
+        }
+      ],
+      "place": "p11",
+      "mode": "vision",
+      "context": "vision",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l11",
+      "type": "presence",
+      "source": {
+        "startUid": "u2026",
+        "endUid": "u2034"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "All five truly wake at the upper camp beside the relit fire; the bowl now shows plain water.",
+      "evidence": [
+        {
+          "startUid": "u2026",
+          "endUid": "u2034",
+          "quote": "DM: So we got—you, you all—you all wake up. You see Seeker just sitting up and Delwath like is in the process of like piling warm clothes around you and has relit the fire.\n\nDM: Wellby and Kenzo, you both have taken 36 points of cold damage, and Riswynn, 40 points of cold damage.\n\nSeeker: And meanwhile the Seeker's like, \"Gosh! It's warm.\" He's like taking off his socks, and—\n\nDelwath: That might be a good time to take the bowl. Delwath he'll take the bowl and prick his finger again and see if we see anything.\n\nDM: Plain water."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2045",
+        "endUid": "u2087"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After waking, the party goes downstairs into the actual lighted library, where it copies instructions and recovers books.",
+      "evidence": [
+        {
+          "startUid": "u2045",
+          "endUid": "u2047",
+          "quote": "Riswynn: So that we go back down the stairs and look for the—yeah, what's the state of the library? Is it still pitch black?\n\nDM: No, it's it's light, not quite so bright as when you woke up."
+        },
+        {
+          "startUid": "u2067",
+          "endUid": "u2087",
+          "quote": "DM: So the the wait, we checked the hole for—the phasing stone's in there. Okay. So the copying out the like detailed instructions for how to construct these channeling devices to pilot the the skieship is is going to take, probably is going to take the Seeker and Delwath an hour if you want to make sure you get everything right and get all the technical details properly written in Seeker's notebook. And you sort of both have to do it because Delwath has to translate and Seeker has to interpret it as—\n\nRiswynn: So that leaves Wellby, and Kenzo and I to look for—\n\nDM: That gives the 3 of you the other 3 people time for whatever you want to do.\n\nWellby: Do we—we were aware that there was a little book here, little book here. I can't remember what it was good for—it—\n\nDM: It was Hralgar's notes about the history of the the skieship that crashed. You know.\n\nWellby: We want that absolutely.\n\nSeeker: The vehicle is.\n\nRiswynn: Worth keeping an eye out for that in particular.\n\nDM: Given that you have an hour to search, that's enough time that you can, you know, divide the library into quadrants, and carefully, and, you know, go through every piece of rubble until you turn it up. So I'm not. You know [garbled]. And it's not a small thing. It's not a small thing, right? So you you do—you do find this book. You find 2 other seemingly intact, at least not too badly damaged giant books. So 3 total books of roughly the size of this like four-ish foot size book."
+        },
+        {
+          "startUid": "u2116",
+          "endUid": "u2120",
+          "quote": "DM: So you find you collect those 3 giant books and put them for later study in the portable hole and get your translation of the your translation of the pillar, the central pillar. But you don't—you don't really have time to translate any of the other pillars. If you want to get back before sunset, is—you can see the sun already dipping low in the sky, and Hralgar never really explained what would happen if you were still flying as clouds when the sun set. And you're not exactly tempted to risk it. Maybe you are tempted to risk it. No, no, no."
+        }
+      ],
+      "from": "p02",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2122",
+        "endUid": "u2131"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party shifts into clouds, flies back across the plains, and lands in the skyship ruins at sunset.",
+      "evidence": [
+        {
+          "startUid": "u2122",
+          "endUid": "u2131",
+          "quote": "DM: So you know, an hour, an hour and a half before sunset, you pack up and you shift into clouds. And you know, only you know 7 h having passed since you woke up this morning and said goodbye to Hralgar. You fly back across the plains, landing in the ruins of the skyship, turning back into your forms as the sun begins to set, with instructions."
+        }
+      ],
+      "from": "p12",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "cloud transformation and flight",
+      "route": [
+        {
+          "reading": "Fly back across the plains without a narrated intermediate stop."
+        }
+      ]
+    }
+  ]
+}

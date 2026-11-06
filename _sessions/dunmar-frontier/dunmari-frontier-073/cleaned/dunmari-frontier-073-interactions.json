@@ -1,0 +1,2123 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-073/cleaned/dunmari-frontier-073-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "e62cd6b05151c863c5cca0385097c676e09ee367c9dd8b8d5db8a2c1c80f0a8b"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-073/cleaned/dunmari-frontier-073-entity-map.json",
+      "sha256": "a7cffa490dabcdb9b93b2b4e2f2d6de2060b6cacdf86ba5711090f330a7b7482"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Memories carried by the shattered heart",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u0030"
+      },
+      "lines": [
+        "%% u0004:0-40, u0005:0-44, u0006:0-39, u0007:0-198, u0008:0-168, u0009:0-79, u0010:0-32, u0011:0-42, u0012:0-34, u0013:0-57, u0014:0-29, u0015:0-139, u0016:0-29 %%",
+        "DM: ((Opening material)) A shattered pile of ice marks the spot where only a short while ago, some kind of ice spirit, Ice Maiden, was killed by this group, her heart of solid ice destroyed. From the lower level of this ruined palace ominous clouds of darkness billow out of the tall, giant-sized windows that once cast light and sun into the rooms below. The wind blows harshly, the gusts carrying swirling bits of ice and snow, the shattered remains of the Ice Maiden's heart bringing to you her memories of winters past.",
+        "",
+        "%% u0017:0-183, u0018:0-113, u0019:0-109, u0020:0-50, u0021:0-6, u0022:0-88, u0023:0-227, u0024:0-31, u0025:0-176 %%",
+        "DM: You see light snow blowing around a man walking alone and struggling to climb the sloping road, really more of a track that zigzags up the side of the mountains towards the High Pass. His horse is limping, favoring her left side, and the man walks beside her, trying to encourage her up the slope. Although dressed in a heavy woollen cloak and warm boots, he shivers occasionally looking up in the mountains. The weather isn't a serious threat to him—not yet. But as you and your memory of the Ice Maiden begin to blow on the ice in your hand, it crackles hissing and spattering, and the air begins to freeze. A gentle wave, and the frozen air drifts, growing and gathering into a storm cloud, then a blizzard. The traveler looks with dismay as the weather turns, the snow picking up, visibility dropping to nothing. Soon his body will be frozen on the road, and the slithering shadows below will have their fill of his last dreams of despair before his peaceful slide into never ending sleep.",
+        "",
+        "%% u0026:0-210, u0027:0-45, u0028:0-23, u0029:0-114, u0030:0-21 %%",
+        "DM: Another memory, another image of a traveler freezing in the mountains. Again and again the years drifting back until the crackle of the fire shakes you awake, and you look around at your companions, glad to see living flesh and blood and not frozen corpses. As you shake yourselves awake, back to awareness of the current moment from this memory. ((Closing material))"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Sure right here, Zack. Okay, so ready to begin on a—"
+        ],
+        "after": [
+          "Wellby: So Wellby's glamoured armor has taken on the appearance of of thick wool and fur winter robes. Even though it must not give any more actual warmth. At at least he's dressed for the location. There is an ease to him. I think that you know so often over this last almost year, like his alertness has been anxious. You know it's always the sense of like what's around the next corner? But there's something that shifted in that for him, and he's no less alert for the surroundings, but not— no, not in a worried way, just in a ready sort of a way.",
+          "Delwath: Delwath is standing, tending the fire, a common position and and sight. But again, like like Wellby, in a way he seems more at ease than in the past, despite the difficulties of the recent events.",
+          "Delwath: His silver hair's pulled back shoulder length, and sort of pulled back a little bit, and a small feather is in his hair, which you you noticed before. You notice a ring with like a a piece of like—it almost looks like a like a hearth, like a piece of a stone, or something, like not a fine gem, but like a piece of a of a hearth, right reminds you of like a—and as Delwath tends the fire, he—he looks down at the ring occasionally as if it gives him some sort of fond memory, or awareness of the his place in the world.",
+          "Delwath: And he's—he's humming a, a— softly humming a, a Elvish tune under his breath, and occasionally muttering some snatch of poetry, trying to remember the various poems that we were reciting to for Hralgar. Sort of muttering like not sure that he's really in love with this poet, but you know it's it's something to think about, as he sort of tends the the fire.",
+          "Seeker: Seeker, as he often is, is— has been huddled over a a book of runes, either deep in contemplation, or perhaps in sleep, sitting up, but a— at some point, you notice that he's not where he was sitting before, and it— you look around, and he's wandered off, as sometimes happens with Seeker, but he's— somewhat surprisingly has his, his, his hood thrown back and his the robes a little more open than you might expect under the cold conditions for someone who stepped away from the fire. A—and if you look closely you could see that he's he's actually got his hand to an ice formation."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Investigating and tasting the icy heart",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0168",
+        "endUid": "u0234"
+      },
+      "lines": [
+        "%% u0168:0-39, u0169:0-4, u0170:0-35, u0171:0-4, u0172:0-64, u0173:0-21, u0174:0-119, u0175:0-34, u0176:0-55, u0177:0-221, u0178:0-69, u0179:0-117, u0180:0-3, u0181:0-55 %%",
+        "DM: Seeker, as you're poking around at this this shattered remains of this icy heart, wet— So you notice that you notice a couple of of things. One is that so, there the the the this was like this like floating ice thing right? That was shooting beams of cold out at you, right? So clearly magical. It cracked and split and crumbled. And it's the way that it sort of split and crumbled is— It's like there's lots of you know—It's not. It's not like, you know. I don't know how to describe this. It's like there was all sorts of different kinds of snow and ice contained in one little sort of pile. There's like wet snow, and like dry, powdery snow, and, like you know, the sort of rime ice that grows on—you know, that accumulates on trees high in the mountains, and sort of deep blue glacial ice. And you know the the the ice of frozen ponds in the winter.",
+        "",
+        "%% u0182:0-21, u0183:0-96, u0184:0-51, u0185:0-46, u0186:0-97, u0187:0-47, u0188:0-104, u0189:0-69, u0190:0-43 %%",
+        "DM: It—it does, it's not— It's not—when you look at it, it's not, you know, like a pile of snow. Right? It's—there's some something unnatural about this to you. Some sort of it contains multitudes, and in some way that's— It's obvious when you look at it, you know obviously like you poke around a little bit, and like some of the powdery snow is like blowing away. And it leaves behind like this sheer black ice crystal, but then, on the edges of the black ice, it gets deeper and bluer, and turns into sort of, like, fades into glacial ice. But it seems to be melting as you watch it.",
+        "",
+        "%% u0191:0-19 %%",
+        "Seeker: I taste some of it.",
+        "",
+        "%% u0192:0-19, u0193:0-212, u0194:0-49, u0195:0-94, u0196:0-9, u0197:0-8, u0198:0-38, u0199:0-25, u0200:0-118, u0201:0-63, u0202:0-18, u0203:0-10, u0204:0-54, u0205:0-81, u0206:0-58, u0207:0-122, u0208:0-90, u0209:0-35, u0210:0-89, u0211:0-36, u0212:0-52, u0213:0-96, u0214:0-43, u0215:0-118, u0216:0-7, u0217:0-50, u0218:0-132, u0219:0-82, u0220:0-48, u0221:0-63, u0222:0-76 %%",
+        "((Ice sculptures, identification and soul-sight; the figures contain no souls))",
+        "",
+        "%% u0223:0-124, u0224:0-15, u0225:0-42, u0226:0-24, u0227:0-56 %%",
+        "Seeker: Looking in that—while you're looking in that direction you hear over from where Seeker is the sound that's halfway between a sort of awkward choking sound and a chuckle. Like he's just compulsively scooping up these strange magical shards of ice and chewing on them.",
+        "",
+        "%% u0228:0-76 %%",
+        "Wellby: So I run over and knock the stuff out of your hand. That doesn't seem right.",
+        "",
+        "%% u0229:0-16, u0230:0-15, u0231:0-59, u0232:0-26 %%",
+        "Seeker: No, I need that. Sorry, Wellby, I— It—it is very, very, very tasty. Actually, I noticed. Hmm. With himself a little bit.",
+        "",
+        "%% u0233:0-6 %%",
+        "Delwath: I mean.",
+        "",
+        "%% u0234:0-216 %%",
+        "DM: Seeker is like super magical. Every part of Seeker glows with magic. Is this—is the snow magical that he's eating? I think it is. It's the same as the whole rest. It's like all the ice, including this, looks the same."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Even as, Wellby, you're searching over 10 or 15 min here, like some of them are beginning to melt. And you you all hear this like, as one, like cracks and splits in 2, so it's not like there's anything inside it. It's just solid ice.",
+          "Delwath: Are these magical?",
+          "DM: There is a— so Delwath spends the 10 min while Seeker's poking around, and Wellby is poking around meditating. And as your sort of magic sight— you open your eyes to your magic sight, it's not— No one object is glowing strongly the way you're used to seeing sort of like the way your shield glows, or the way Kenzo's staff glows or something like that. But there's kind of a faint magical aura that just lingers over this entire icy area in the back.",
+          "Delwath: Like specifically, the back of the place or just—It's lingering on the whole area where the—",
+          "DM: The whole area where that's the sort of construct and ice sculpture. The whole thing is just like this vaguely magical. Exactly."
+        ],
+        "after": [
+          "Seeker: Hmm. I I notice that the others are off investigating some important issue, and so I will purposefully stroll over. Now, do any of these ice sculptures of—they're all humanoids—there anything protrusions like a limb, or a nose or finger or foot kind of sticking out of the ice?",
+          "DM: There is, there is one like the most—the one that seems the most recent has a— it's like a a person sort of like crouching down with their with their cloak over over their shoulders, sort of huddled, and, like the top of their head, is kind of protruding out a little bit from this sort of blocks. These are all—I sort of like these square pillars that are just kind of standing that have— Yeah, I mean, it's almost sort of modern art-y right? They have sort of etchings in them. But some of them do have some 3D relief.",
+          "Seeker: I reach up to where the like, if there's a a bit of the hood of the cloaks sticking out, and see if I can just find anything metallic on me, maybe a dagger or something, and and just kind of hold it against the ice and just tap it with my palm. Try to crack off a little piece of it.",
+          "DM: But it's—yeah, I mean, the ice is all now becoming soft, and and it's very fragile as the magic dissipates, and so it's easy to—so easy to crack.",
+          "Delwath: What are you—what are you doing, Seeker?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Prayer to K’onisati",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0492",
+        "endUid": "u0496"
+      },
+      "lines": [
+        "%% u0492:0-4, u0493:0-49, u0494:0-21, u0495:0-41, u0496:0-65 %%",
+        "Delwath: He's— he's going to mutter a short prayer to K'onisati. And like a gray moth will appear above his hand basically like decent size moth, right? Like I don't know a foot across or bigger."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Right? That seems sensible. Then we we should investigate the library first.",
+          "DM: So you, you—I—there's enough dim light from the from the driftglobes that you can sort of map out the space. The whole library itself is, maybe, you know, a 100 foot by 100 foot square, roughly. You cannot see the ceiling. It goes up beyond the light of the driftglobes. There are 12 pillars in total, all with runes on them.",
+          "DM: It's it's quite difficult to like search through the room. I mean, there's some areas that have more rubble piled up. There's one place where you see, like a bunch of shattered glass sprayed across the floor that looks like some massive stained glass window was destroyed at. But there is another place where there is like a the wreckage of like a table and chairs.",
+          "Delwath: Not a ton of books. Before we spend the time investigating this, Delwath is gonna go over by the door is going to— I just got to look up something.",
+          "Unknown: [garbled]."
+        ],
+        "after": [
+          "Seeker: So they.",
+          "Delwath: Yeah, and he'll whisper to—he'll tell it to go down the corridor. Or you know, for 10 min, or until it gets to the end and then come back.",
+          "Unknown: Okay.",
+          "DM: It—you watch as it flies into the corridor, and it seems to like, shimmer slightly somehow, as if it's passing through some sort of—",
+          "Delwath: Does it? Is it still visible on the other side?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "A pillar on giant–dwarf relations",
+      "entities": [
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0521",
+        "endUid": "u0539"
+      },
+      "lines": [
+        "%% u0521:0-39, u0522:0-7, u0523:0-46, u0524:0-14, u0525:0-14, u0526:0-106, u0527:0-5, u0528:0-69, u0529:0-3, u0530:0-83, u0531:0-23, u0532:0-27, u0533:0-76, u0534:0-9, u0535:0-44, u0536:0-20 %%",
+        "DM: So the one that you've happened to pick is not— It's not about skieships or or phasing stones. It—it is about the history of dwarf giant relations, but it's, it's sort of—it's—it's a myth. It's—it's like a mix of history, and myth about both the giants teaching the dwarves about Runic magic, but then also the consequences that flowed from that in the perspective of the person who wrote this, both with good and ill. And the sort of continuing— at least from this, at least according to this giant, the sort of continuing greed and insistence of the dwarves on constantly more knowledge and power.",
+        "",
+        "%% u0537:0-3 %%",
+        "Seeker: No.",
+        "",
+        "%% u0538:0-18 %%",
+        "Wellby: Okay. That tracks.",
+        "",
+        "%% u0539:0-5 %%",
+        "Seeker: Yeah."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Seeker's gonna choose another and sort of spiral up it on the ladder.",
+          "DM: Okay. There, I mean, they're intact up to the ceiling, as far as you can tell. Seeker, Seeker, Seeker doesn't— know Giant, do you?",
+          "Seeker: I don't think so. The runes are all written in giant. They're—they're dense.",
+          "DM: They're densely sort of scribbled and carved. And—",
+          "Delwath: What are they talking about? I mean climbing up, partly just to read it."
+        ],
+        "after": [
+          "Delwath: Seems reasonable. Yeah, how close to these pillars to each other?",
+          "DM: I mean, there's there's 12 total, and they're evenly spaced throughout this 100 foot by 100 foot square. So they're not—I mean they're not that far apart, but they're not super close, either. Right? So that would be— You know, it's like a 3 by 4 grid. So you've got roughly, you know, 20 feet between—20, 30 feet between them.",
+          "Delwath: So I mean, what's at the top?",
+          "DM: A roof.",
+          "Delwath: Okay."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Pillar instructions for channeling phasing energy",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0585",
+        "endUid": "u0608"
+      },
+      "lines": [
+        "%% u0585:0-94, u0586:0-44, u0587:0-50, u0588:0-65, u0589:0-114, u0590:0-19 %%",
+        "DM: Yeah, let's—I mean, you—you find the one that Hralgar described. That—that's very technical. It—it doesn't—it doesn't make a ton of sense to you, Delwath, and [garbled]. It's very—it has this very sort of dry technical language that's describing the exact arrangement of different ores that need to be in place in order to create the correct channel for phasing energy.",
+        "",
+        "%% u0591:0-40, u0592:0-136, u0593:0-114, u0594:0-122 %%",
+        "DM: And it, and it keeps talking about about the different—so there is—so what you gather from this is that there's different kinds of phasing stones that are attuned to different extraplanar forces. So some sky ships fly because they have a phasing stone attuned to the elemental plane of air. Some fly, because—that's how I described it—but phasing stone attuned to the dream world and let you imagine new physics.",
+        "",
+        "%% u0595:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u0596:0-81, u0597:0-31, u0598:0-6, u0599:0-47 %%",
+        "DM: Others seem to fly because they have a phasing stone that's tuned to the plane of earth, and they just make earth float. And it's describing the very like the different—",
+        "",
+        "%% u0600:0-12 %%",
+        "Seeker: That's cool.",
+        "",
+        "%% u0601:0-69, u0602:0-188, u0603:0-27 %%",
+        "DM: Essentially the different, like tuning arrangements or the different— It's like the the mechanism that you construct to channel the phasing energy needs to be in tune with the correct plane that your phasing stone is tuned to, and there's a lot of technical detail about how to do that.",
+        "",
+        "%% u0604:0-58 %%",
+        "Delwath: Right, but it certainly seems like it would be possible to—",
+        "",
+        "%% u0605:0-30 %%",
+        "DM: It would take some study right?",
+        "",
+        "%% u0606:0-5 %%",
+        "Delwath: Sure.",
+        "",
+        "%% u0607:0-17, u0608:0-191 %%",
+        "Seeker: So now you've got Seeker's sitting cross-legged on the floating ladder, scribbling in a little notebook, trying to transcribe as Delwath narrates the translation. Making little diagrams as he—yeah, basically."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: 20 min until the until the moth is either due back or missing. I think. Great. I mean, do you guys think we should do something different?",
+          "Seeker: You know, I mean, we're using up the ladder time. But that's inevitable. Yeah.",
+          "Delwath: Right. The moth has an hour to— I mean, we don't have to do it. I just figure 20 min seems like a reasonable amount of time to—",
+          "Riswynn: Yeah, I think it's reasonable, and plus we care about learning how to operate skyships.",
+          "Delwath: Yeah, do any of these pillars talk about—"
+        ],
+        "after": [
+          "Wellby: Wellby'll say to Kenzo, hey, Kenzo, do you still have that dream bowl where you can see other people's dreams?",
+          "Seeker: Oh, yeah, dream bowl.",
+          "Wellby: Seems like it might be relevant if, say it's a nightmare world on the other side of that corridor.",
+          "Delwath: Yeah.",
+          "Wellby: Help us figure out whether we're awake or not."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Invitation into Kurome’s dreams",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0616",
+        "endUid": "u0642"
+      },
+      "lines": [
+        "%% u0616:0-7, u0617:0-51 %%",
+        "Wellby: Do you— you guys hear the the voice from down the hall now?",
+        "",
+        "%% u0618:0-3 %%",
+        "Delwath: Now.",
+        "",
+        "%% u0619:0-55 %%",
+        "Seeker: Of—what are you— How do you know? What are you hearing?",
+        "",
+        "%% u0619:55-89 %%",
+        "Wellby: It's asking if we're coming for it.",
+        "",
+        "%% u0620:0-19, u0621:0-16 %%",
+        "Riswynn: Like in a nice way? What's the tone?",
+        "",
+        "%% u0622:0-32, u0623:0-56 %%",
+        "Wellby: He, he—here's what he has to say. If we want it, we have to go into its dreams and get it.",
+        "",
+        "%% u0624:0-34 %%",
+        "Seeker: We want—what, though? Do we want it?",
+        "",
+        "%% u0625:0-5 %%",
+        "Delwath: Mean?",
+        "",
+        "%% u0626:0-28 %%",
+        "Seeker: Oh, is it the phasing stone?",
+        "",
+        "%% u0627:0-46 %%",
+        "Riswynn: It might be because it's not here in the room.",
+        "",
+        "%% u0628:0-18 %%",
+        "Delwath: The phasing—yeah.",
+        "",
+        "%% u0629:0-42, u0630:0-65 %%",
+        "Seeker: Wait. What did the Ice Queen say about the something down here? It's crucial part of the story I'm missing.",
+        "",
+        "%% u0631:0-18, u0632:0-57, u0633:0-7, u0634:0-20, u0635:0-99, u0636:0-85, u0637:0-42 %%",
+        "DM: She she just said: Kurome, Kurome's nightmare realm is of no concern to her. But the implication from her— what—what you were supposed to get, but was maybe too subtle from the visions in the intro, is that this nightmare creature, whatever it was, sort of a parasite on her freezing people. The slithering shadows that creep out from—",
+        "",
+        "%% u0638:0-3 %%",
+        "Seeker: Oh.",
+        "",
+        "%% u0639:0-69 %%",
+        "DM: The slithering shadows below will have their fill of his last dreams.",
+        "",
+        "%% u0640:0-3 %%",
+        "Seeker: Oh.",
+        "",
+        "%% u0641:0-112, u0642:0-85 %%",
+        "DM: But she she didn't say anything I mean, she was just like, \"Whatever I don't care about Kurome and his nightmares. They are of no concern to me. But if you want to go down there, who am I to stop you?\""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Oh, yeah, dream bowl.",
+          "Wellby: Seems like it might be relevant if, say it's a nightmare world on the other side of that corridor.",
+          "Delwath: Yeah.",
+          "Wellby: Help us figure out whether we're awake or not.",
+          "Seeker: So Kenzo stays here when we go in there, and then he looks at our dreams with bowl."
+        ],
+        "after": [
+          "Riswynn: So possibly there's some sort of creature that harvests people's dreams and nightmares.",
+          "Seeker: So.",
+          "Riswynn: Or entity that harvest people's dreams and nightmares, and either because the phasing stone has some sort of of that vibe, it sort of connected with the phasing stone and took it, or it's just coincidentally down there. But if the phasing stone isn't here, with our nice set of library pillars, it's a little—I mean, unless—even if the giant notebook, a 4 foot tall tiny notebook is in here, it's still all moot without the phasing stone. So we have to go into Kurome's nightmare hallway.",
+          "Seeker: So, using my arcana knowledge, does it seem more likely that the phasing stone itself is this creature, or that some creature is using it?",
+          "DM: I mean you have— You don't know much about phasing stones in general. You know. Certainly there are— I think you could tell yourself a story either way, right, you know. There are certainly examples of sentient magic items that talk to you."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Kurome’s terms for taking the stone",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0721",
+        "endUid": "u0738"
+      },
+      "lines": [
+        "%% u0721:0-74 %%",
+        "Wellby: So I've been chatting—I've been chattering with the entity down the hall.",
+        "",
+        "%% u0722:0-8 %%",
+        "Seeker: Oh, God!",
+        "",
+        "%% u0723:0-3 %%",
+        "Riswynn: And.",
+        "",
+        "%% u0724:0-81 %%",
+        "Wellby: No, not to worry, Seeker, not in an obsessively eating magical ice kind of a way.",
+        "",
+        "%% u0725:0-39 %%",
+        "((Brief interruption))",
+        "",
+        "%% u0726:0-37, u0727:0-23, u0728:0-43, u0729:0-55, u0730:0-26, u0731:0-100, u0732:0-85 %%",
+        "Wellby: I told that that—were it—it, it asked if we're coming for it. I told it we're here for the phasing stone. And that its master's awake again, and has gifted it to to us; and if it gives it, we'll go on our way, and it says, \"If you can find it and take it, I won't hinder you on your way out.\" I asked if it wants anything from us. It says, \"I desire nothing I do not already have.\"",
+        "",
+        "%% u0733:0-133 %%",
+        "Seeker: On our way out. If we can find it, I surely hope the phasing stone is not in whatever this thing is. This is certainly a trap, right?",
+        "",
+        "%% u0734:0-4 %%",
+        "Riswynn: Hmm.",
+        "",
+        "%% u0735:0-15 %%",
+        "Delwath: It seems. Yeah.",
+        "",
+        "%% u0736:0-3 %%",
+        "Seeker: And.",
+        "",
+        "%% u0737:0-11 %%",
+        "Delwath: Like. Yeah.",
+        "",
+        "%% u0738:0-20 %%",
+        "Wellby: Into the trap, then?"
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Umhm.",
+          "DM: Although they're not directly connected, I mean metaphysically, the outer races, the giants and the dragons and the and the fey and the elementals were all like metaphysically distinct from the elder races, are metaphysically distinct from humans and all the other like races. So they're not really directly connected.",
+          "Seeker: Okay. Sorry. Random question. Is there anything up at the ceiling while I have a flying ladder? Temporarily?",
+          "DM: No. The ceiling seems pretty intact.",
+          "Seeker: Hmm."
+        ],
+        "after": [
+          "Delwath: Yeah, I mean, what else are we going to do? Did the—did the moth come back?",
+          "DM: Nope.",
+          "Seeker: It—what dreamworld connected abilities do we have, if any?",
+          "Wellby: So we've got the dream Mirror.",
+          "Seeker: Right? And whose dreams can we look at with that?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "The ladder’s dream medals",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0918",
+        "endUid": "u0930"
+      },
+      "lines": [
+        "%% u0918:0-16, u0919:0-80 %%",
+        "Riswynn: You didn't like, leave a rope trailing behind us, or anything, get back to the physical world, or—",
+        "",
+        "%% u0920:0-19 %%",
+        "DM: You have the ladder.",
+        "",
+        "%% u0921:0-11 %%",
+        "Seeker: That we do.",
+        "",
+        "%% u0922:0-23, u0923:0-113 %%",
+        "DM: The ladder, by the way, you notice now, as you look at the ladder, like, it seems to have acquired like a whole row of medals across one—",
+        "",
+        "%% u0924:0-36 %%",
+        "Riswynn: You don't know where they came from.",
+        "",
+        "%% u0925:0-13, u0926:0-29, u0927:0-30, u0928:0-14, u0929:0-33, u0930:0-24 %%",
+        "Seeker: It's amazing. Like heroic deeds recognized. ((Closing material))"
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: That's an interesting idea.",
+          "Unknown: Why don't we just imagine ourselves a phasing stone?",
+          "Seeker: And.",
+          "Riswynn: And a way out that's actually real.",
+          "Seeker: How does this work? We don't know."
+        ],
+        "after": [
+          "DM: I—you! So you hear the the rest of you behind you hear a clattering noise, and you look back, and there's a a bowl balanced on the on the like a silver bowl about that could fit nicely in like 2 hands balanced on the side of the throne, a side of the throne. The—the spoon has—a silver spoon has just tumbled out and fallen onto the floor, making a clattering noise, and within the bowl the bowl is filled with like finely shaved ice.",
+          "Seeker: It worked. Seeker strolls towards it. Now is this a giant scale throne, or it—",
+          "DM: Actually it's smaller. It's like a dwarf size, you know, halfling sized. Um,",
+          "Wellby: I think the throne was from my dream.",
+          "Seeker: So I peer into the bowl, reach down to pick up the spoon and scoop some of the ice."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "The silhouette drops the stone through the ground",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1182",
+        "endUid": "u1234"
+      },
+      "lines": [
+        "%% u1182:0-116, u1183:0-10, u1184:0-89, u1185:0-84, u1186:0-63, u1187:0-30, u1188:0-15, u1189:0-124, u1190:0-15 %%",
+        "DM: The—so as you—as you walk in this direction, you can see there's like a snowstorm, an isolated snowstorm up ahead. And in the in the snow there's like a figure. It seems not like a fully complete figure. It's like a almost like a silhouette, but any, no matter what direction they turn, you can't see facial features or anything that's struggling against the snow. The wind is blowing at it. The the—and they're— they're holding something like clutched in their hands like up against their breast, as they sort of struggle into the wind. Shivering cold.",
+        "",
+        "%% u1191:0-4, u1192:0-14, u1193:0-10, u1194:0-82 %%",
+        "Seeker: Hmm. I imagine them, with their— that they're standing in ice, their feet encased in the ice holding them in place.",
+        "",
+        "%% u1194:82-146, u1195:0-152 %%",
+        "DM: They they turn sort of to look at you, except they have no face. And their feet begin to freeze, the ice sort of forming in a block around their legs as they turn, and sort of gesture in your direction and stop moving.",
+        "",
+        "%% u1196:0-15, u1197:0-28 %%",
+        "DM: The snow is now swirling around, all of you.",
+        "",
+        "%% u1198:0-10, u1199:0-3, u1200:0-3, u1201:0-74, u1202:0-18 %%",
+        "Seeker: I imagine and ice creeping up their body from their feet, and starting to encase them slowly from the bottom up.",
+        "",
+        "%% u1203:0-36, u1204:0-22, u1205:0-48, u1206:0-130 %%",
+        "DM: Ice begins to creep up this figure's [garbled]. Creeping up their body, and as it does they like like shudder a little bit, and their hands fall open, and something falls out of their hand and falls straight through the ground.",
+        "",
+        "%% u1207:0-11 %%",
+        "Seeker: What is the—",
+        "",
+        "%% u1208:0-21, u1209:0-10, u1210:0-24 %%",
+        "DM: Round, pulsing stone, as the ice continues up their body.",
+        "",
+        "%% u1211:0-62 %%",
+        "Seeker: I imagine myself diving for the stone down through the ground.",
+        "",
+        "%% u1212:0-1, u1213:0-20, u1214:0-22, u1215:0-15, u1216:0-4 %%",
+        "((Wisdom check))",
+        "",
+        "%% u1217:0-92 %%",
+        "DM: As Seeker dives to the ground, and the rest of you are still trying to maintain your sort of—",
+        "",
+        "%% u1218:0-50 %%",
+        "Seeker: On the ladder. By the way, I think on the ladder,",
+        "",
+        "%% u1218:50-107, u1219:0-59 %%",
+        "DM: The rest of you are still sort of trying to maintain your concentration, your—at the sort of emptiness of your minds.",
+        "",
+        "%% u1220:0-51, u1221:0-93, u1222:0-11, u1223:0-22 %%",
+        "DM: The ground splits open as Seeker dives through it. The ladder and Seeker just sort of falling down, and the rest of you finding yourself in this black space just sort of floating.",
+        "",
+        "%% u1224:0-42 %%",
+        "Riswynn: Can we see Seeker and the ladder anymore?",
+        "",
+        "%% u1224:42-134, u1225:0-21, u1226:0-9, u1227:0-50, u1228:0-15, u1229:0-83, u1230:0-6 %%",
+        "DM: You can see Seeker and the ladder, and you can see in the distance, at the bottom below you, in this empty space a pillar of stone pedestal, or ice pedestal, with this cube of solid ice on it the same stone that fell out of this creature's hand embedded in the middle of this block.",
+        "",
+        "%% u1231:0-17, u1232:0-12, u1233:0-45 %%",
+        "Seeker: Perfect! Perfect! There it is! I look for the others. Do I see anybody else?",
+        "",
+        "%% u1234:0-52 %%",
+        "DM: Yeah, you see, everybody else just kind of floating."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Yes.",
+          "Wellby: Here.",
+          "DM: How you get—",
+          "Delwath: 1 s. This is really— Now I'm going to— Yeah, I'll just follow. I don't really have a good way of—I'll keep it—I'll keep a— I mean, if everybody is following, one thing. But if nobody—if everybody is not following, I'm gonna try and keep them in sight.",
+          "Riswynn: Yeah, I think we better stick together. And so we can—"
+        ],
+        "after": [
+          "Seeker: I put a hand to the ice.",
+          "DM: It's solid.",
+          "Seeker: It's cold. It's got a good cold. The— this is what we need. This is what I need.",
+          "Riswynn: Anybody else? Can we move to the space? I mean, where?",
+          "DM: Yeah, yeah, you can just you can move basically just by thinking. You can sort of drift in any direction you want. Just move."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Ice, raven and lead",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1246",
+        "endUid": "u1291"
+      },
+      "lines": [
+        "%% u1246:0-2, u1247:0-40, u1248:0-26, u1249:0-6, u1250:0-19, u1251:0-35, u1252:0-93, u1253:0-12, u1254:0-17 %%",
+        "DM: As a few of you now begin to gather around. There's sort of a swirling shadow type, almost almost like a ragged cloak, but no sort of no face, nothing like that that that swirls up around it, and you can now all hear the voice: \"Not so fast. You must free it.\"",
+        "",
+        "%% u1255:0-12 %%",
+        "Delwath: It's in ice.",
+        "",
+        "%% u1256:0-6 %%",
+        "Unknown: Is it?",
+        "",
+        "%% u1257:0-18, u1258:0-17 %%",
+        "Wellby: This is a dream. I I think it isn't.",
+        "",
+        "%% u1259:0-57, u1260:0-31 %%",
+        "((Wisdom-check resolution))",
+        "",
+        "%% u1261:0-76, u1262:0-2, u1263:0-44 %%",
+        "Wellby: And, in fact, I don't even—I don't even think it's sitting on the pedestal. So because I also think there's not a pedestal.",
+        "",
+        "%% u1264:0-84 %%",
+        "Riswynn: It's just its own entity floating like we are in the blackness, living on the ground.",
+        "",
+        "%% u1265:0-6 %%",
+        "Wellby: Right?",
+        "",
+        "%% u1266:0-21, u1267:0-42 %%",
+        "((Wisdom-check resolution))",
+        "",
+        "%% u1268:0-2, u1269:0-53, u1270:0-125, u1271:0-32, u1272:0-122, u1273:0-16, u1274:0-58 %%",
+        "DM: So the Wellby thinks for a moment, and just imagines the stone, free of its of its constraints just sitting sitting on the ground, and it begins—the water, or the ice begins to melt. And the stone pedestal vanishes. And for a moment this stone is just sitting here, when out of the shadows a raven swoops in and grabs it and begins to fly up into the sky. \"Just leave things on the ground. Creatures will take them.\"",
+        "",
+        "%% u1275:0-47 %%",
+        "Wellby: There are no creatures, and there is no ground.",
+        "",
+        "%% u1276:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u1277:0-35 %%",
+        "Delwath: Okay, wait. How big is this thing?",
+        "",
+        "%% u1277:35-44, u1278:0-20 %%",
+        "DM: It's like like size of a fist.",
+        "",
+        "%% u1279:0-91 %%",
+        "Delwath: So as the raven flies by, I'm going to cast mage hand and grab it out of the raven's claws.",
+        "",
+        "%% u1280:0-12, u1281:0-47 %%",
+        "((Wisdom-check resolution))",
+        "",
+        "%% u1282:0-30 %%",
+        "Seeker: You imagine casting, Mage Hand?",
+        "",
+        "%% u1283:0-41 %%",
+        "DM: Yeah, who's to say spells actually work?",
+        "",
+        "%% u1284:0-50, u1285:0-17, u1286:0-69, u1287:0-9, u1288:0-91, u1289:0-15, u1290:0-31, u1291:0-41 %%",
+        "DM: So, as the raven flies by with this stone, Delwath imagines or casts thinks he casts a spell, and a hand, an invisible hand, begins to grasp on to it. And as you—as you begin to pull it towards you, the raven turns, solidifies, becomes stone. And then lead, and just begins to plummet down far too heavy for your Mage Hand to hold."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: It's cold. It's got a good cold. The— this is what we need. This is what I need.",
+          "Riswynn: Anybody else? Can we move to the space? I mean, where?",
+          "DM: Yeah, yeah, you can just you can move basically just by thinking. You can sort of drift in any direction you want. Just move.",
+          "Seeker: He.",
+          "Wellby: Yeah, I move towards it."
+        ],
+        "after": [
+          "Unknown: Yeah.",
+          "Delwath: It's falling down through the blackness.",
+          "DM: You're just in an empty space. Yeah, I mean it's it's black, but it's more an absence of—it's more of like a flat grayness than right.",
+          "Delwath: I.",
+          "Seeker: I imagine, having a popsicle to eat."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "The raven drinks the liquid stone",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1314",
+        "endUid": "u1334"
+      },
+      "lines": [
+        "%% u1314:0-43 %%",
+        "Kenzo: What is the thing that is lead and falling?",
+        "",
+        "%% u1315:0-79, u1316:0-28, u1317:0-41, u1318:0-57 %%",
+        "DM: The so the phasing stone is being held. It was grasped in the claws of a raven. And as Delwath was trying to drag it to him, the raven turned to lead. Yeah, and it's now very heavy, and it's falling with it.",
+        "",
+        "%% u1318:57-111 %%",
+        "Kenzo: I try to—I try to turn the phasing stone into liquid.",
+        "",
+        "%% u1319:0-43 %%",
+        "DM: Turn the phasing stone itself into liquid?",
+        "",
+        "%% u1319:43-47 %%",
+        "Kenzo: Yes.",
+        "",
+        "%% u1320:0-20, u1321:0-93, u1322:0-10, u1323:0-2, u1324:0-18, u1325:0-18, u1326:0-129, u1327:0-79 %%",
+        "((Ability check and dice setup))",
+        "",
+        "%% u1328:0-6, u1329:0-71, u1330:0-49, u1331:0-9, u1332:0-11 %%",
+        "DM: Kenzo, imagine the phasing stone turning into water and flowing away from this lead raven, and as it begins to shift into water, the raven drinks that.",
+        "",
+        "%% u1333:0-3 %%",
+        "Seeker: Oh!",
+        "",
+        "%% u1334:0-112 %%",
+        "DM: And turns back into a bird and begins to fly up again, and you can see like glowing in its chest now the phasing—"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: It's now, in the—also, pause for a sec. Let's—let's bring Kong up to speed. Okay, so you are in the dream world or some nightmare dimension. You've realized that you can control reality by imagining what you want it to be. And you are currently—you think you found the phasing stone, and you were trying to get it from this creature. It started in a block of ice, which Wellby figured, \"Well, there isn't any ice here.\" So it melted. But before he could pick it up, a raven swooped in and grabbed it and started flying up. Delwath imagined he was casting Mage Hand to grab it from the raven. And the raven turned to lead heavier than the mage hand could hold and begin to fall. Meanwhile Seeker has imagined himself a popsicle.",
+          "Unknown: We get.",
+          "Seeker: In here, and and.",
+          "Unknown: What maybe we should be thinking about how to get out.",
+          "Seeker: Much as I like popsicles on demand."
+        ],
+        "after": [
+          "Kenzo: They should imagine the the phasing stone.",
+          "Wellby: I I've just stepped away just for a minute. But Wellby will say: we're trying to attack this—it's one at a time. We try to do it all together. Let's together imagine phasing stone, something else entirely.",
+          "Seeker: Yeah, that's interesting. I think—I think you know I'm step away.",
+          "Wellby: But I'll I'll be back in 5.",
+          "Seeker: Okay."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Moth distraction and another reflection",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1344",
+        "endUid": "u1375"
+      },
+      "lines": [
+        "%% u1344:0-43 %%",
+        "Delwath: It's a raven flying. It's now flying upward.",
+        "",
+        "%% u1345:0-135, u1346:0-58 %%",
+        "DM: It's flying up again. Now having drunk the phasing stone and and beginning to fly up, and you can see there's like shadow tendrils like dripping off of its wings as it begins to beat in the air.",
+        "",
+        "%% u1347:0-54, u1348:0-99, u1349:0-64, u1350:0-37, u1351:0-21, u1352:0-12 %%",
+        "Delwath: I'm going to imagine that the moth I summoned earlier— I'm just gonna assume, not even imagining what—I'm just assuming the moth is somewhere around here. And that it it it's a big moth, right? It's gonna fly by and just claw and bite, sting, attack the raven. Try and drive it down towards us.",
+        "",
+        "%% u1352:12-41 %%",
+        "DM: Make a—make a Charisma check.",
+        "",
+        "%% u1353:0-23, u1354:0-109, u1355:0-123, u1356:0-13, u1357:0-89, u1358:0-32, u1359:0-172 %%",
+        "((Tactical coordination))",
+        "",
+        "%% u1360:0-135, u1361:0-84, u1362:0-16, u1363:0-10, u1364:0-36, u1365:0-51, u1366:0-26, u1367:0-61, u1368:0-76 %%",
+        "DM: The moth dives down and strikes at the at the raven, and and begins to like wrestle with it. And the raven sort of clawing at the moth. And the moth is clawing at the raven, and they're they're entangled with each other. When you realize the raven, like the raven, is shedding feathers and and getting, you know, it—it almost seems to be— seems to be shrinking, and the moth again like slashes at it, and and and drives it down until until the raven, the raven is is beginning to be forced to the ground.",
+        "",
+        "%% u1369:0-44, u1370:0-42, u1371:0-8, u1372:0-86, u1373:0-39, u1374:0-22, u1375:0-17 %%",
+        "DM: But you don't see the phasing stone anywhere until you see—you look around, and you see floating in and on—like, wrapped almost like wrapped or floating on like a a rag, a shadowy rag— You see the the phasing stone now again reflected in a mirror. \"Looking for this?\""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: They should imagine the the phasing stone.",
+          "Wellby: I I've just stepped away just for a minute. But Wellby will say: we're trying to attack this—it's one at a time. We try to do it all together. Let's together imagine phasing stone, something else entirely.",
+          "Seeker: Yeah, that's interesting. I think—I think you know I'm step away.",
+          "Wellby: But I'll I'll be back in 5.",
+          "Seeker: Okay."
+        ],
+        "after": [
+          "Seeker: And now and how do we get out of here?",
+          "Riswynn: You need to force it to disentangle itself from the phasing stone?",
+          "Seeker: What if that's not the phasing stone at all? What if we're just trapped in them?",
+          "Riswynn: That's true, too. But we'll face that problem after we—",
+          "Seeker: Hmm. Okay."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "A coordinated grasp produces false stones",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1398",
+        "endUid": "u1447"
+      },
+      "lines": [
+        "%% u1398:0-26, u1399:0-93, u1400:0-34 %%",
+        "Seeker: Yeah, we're just doing the \"All for one and for all,\" whatever we call that thing. Everybody put their hand in the middle. And we're all holding it together.",
+        "",
+        "%% u1401:0-8 %%",
+        "Kenzo: Go team.",
+        "",
+        "%% u1402:0-11 %%",
+        "Delwath: Yeah, sure.",
+        "",
+        "%% u1403:0-5 %%",
+        "Seeker: Okay.",
+        "",
+        "%% u1404:0-5 %%",
+        "Riswynn: Okay.",
+        "",
+        "%% u1405:0-24 %%",
+        "Seeker: Going to actually do it.",
+        "",
+        "%% u1406:0-20, u1407:0-38, u1408:0-15, u1409:0-12, u1410:0-53, u1411:0-9, u1412:0-9, u1413:0-33 %%",
+        "((Checks and brief interjections))",
+        "",
+        "%% u1414:0-2, u1415:0-90, u1416:0-13, u1417:0-28, u1418:0-24, u1419:0-54 %%",
+        "DM: So you hold out your hands, and you all concentrate together, coordinated by telepathy on the phasing stone appearing in all your grasp. And the mirror shatters. And 5 phasing stones appear, one in each of your hands.",
+        "",
+        "%% u1420:0-5, u1421:0-3, u1422:0-8, u1423:0-6 %%",
+        "((Checks and brief interjections))",
+        "",
+        "%% u1424:0-127, u1425:0-51 %%",
+        "Riswynn: Wait. That's not what we were imagining, though. We were doing the the altogether thing. We were—our hands were all overlapping. We each got one in our hands as they all overlapped.",
+        "",
+        "%% u1426:0-72 %%",
+        "DM: You, like—you are doing this like that. Your hands all stacked together?",
+        "",
+        "%% u1427:0-47 %%",
+        "Riswynn: That's what I— thought Eric said. That's what I—",
+        "",
+        "%% u1428:0-77 %%",
+        "Delwath: Yeah, as I imagine, like hands in the middle, like all for one. Yeah go team.",
+        "",
+        "%% u1429:0-20 %%",
+        "Seeker: That is what I said.",
+        "",
+        "%% u1430:0-3 %%",
+        "((Checks and brief interjections))",
+        "",
+        "%% u1431:0-54, u1432:0-22 %%",
+        "DM: Fair enough. Somehow that wasn't the picture I got. But thanks for clarifying.",
+        "",
+        "%% u1433:0-8 %%",
+        "Seeker: And then.",
+        "",
+        "%% u1434:0-8, u1435:0-32, u1436:0-98, u1437:0-80 %%",
+        "DM: Okay. So you still get—you still get like multiple phasing stones that kind of are just falling out into this like into your hand, like one one lands in your hand, and another sort of bounces off. It begins to roll down.",
+        "",
+        "%% u1438:0-114, u1439:0-12, u1440:0-77, u1441:0-56 %%",
+        "DM: Delwath, you, holding on to the one that—the one that fell, it doesn't seem—doesn't feel solid. It feels almost like it's made of wisps of—like, you could squeeze it, and it feels like it would—it would just— it's like goo. Like if you squeezed it, it would just pop.",
+        "",
+        "%% u1442:0-4 %%",
+        "Seeker: Hmm!",
+        "",
+        "%% u1443:0-10, u1444:0-23 %%",
+        "DM: Voice says, \"Shadows and reflections.\"",
+        "",
+        "%% u1445:0-84 %%",
+        "Seeker: Shadows and reflections characterize the dream world, don't they? Is that true, Tim?",
+        "",
+        "%% u1446:0-7, u1447:0-111 %%",
+        "DM: I mean. Yeah, the Dreamworld, like the Feywild and many of these other realms are often referred to as like echo realms."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Do we still have telepathy?",
+          "DM: Yeah, I assume—I—any time when anybody is like spending 10 min searching, I assume Seeker's always just ritual casting telepathy.",
+          "Seeker: That seems good.",
+          "Delwath: We should coordinate.",
+          "Kenzo: Something—right on a—we do Eric, or—or Eric's, as a synchronous Eric suggestion."
+        ],
+        "after": [
+          "Seeker: The—you might be focusing on the wrong thing here, friends.",
+          "Riswynn: Do we need where—",
+          "Delwath: The—sorry, go ahead, Kate.",
+          "Riswynn: I mean, do we need to take over the path the space itself? Like, get focused on the getting out problem. Did we just come here to smash stuff?",
+          "Seeker: I think we need to focus on the getting out problem. I think that we've been in the dream world since before we entered that hallway."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "An amused challenger",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1665",
+        "endUid": "u1670"
+      },
+      "lines": [
+        "%% u1665:0-37, u1666:0-105, u1667:0-88, u1668:0-44, u1669:0-18, u1670:0-95 %%",
+        "DM: Yeah, Wellby is insightful enough to have the sense that this creature is not—it may not be telling the whole truth in the sense that it said it didn't say anything about hindering you before you got it, and clearly that, but like it's probably like your sense is this is not a creature that is necessarily out to kill you. It's amused, right? Its attitude this entire time has been amused."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: But like, you have the advantage that there are multiple of—",
+          "DM: Yeah, yeah, and I will—I will—you are— coordinating is the right track. I will tell you that much. And—",
+          "Delwath: And what do we ultimately want to happen, right? Ultimately we want—we want it. We want it to be the phasing stone. I mean, what? What's the endgame?",
+          "Wellby: I guess it's possess it. I don't exactly know what that means.",
+          "Seeker: We get a portal out of the dream world."
+        ],
+        "after": [
+          "Riswynn: If we win this we'll just follow Kenzo's dream-leaving vibe, and we'll all just sort of leave the dream.",
+          "Wellby: We hope so. I hear Tim telling us not to be stressed about the—",
+          "Delwath: Yeah. I'm not worried about the exit, right? I figure, if nothing else, well, 4 of us will banish, and one of us will just die in the dream world. Great, right? Like we'll draw straws. No, we'll leave Kenzo behind because he knows how to leave it. That's exactly Kenzo—Kenzo is like, \"Just make sure you don't leave Riswynn behind, and she's the one who can cast Raise Dead.\"",
+          "Wellby: Right?",
+          "Seeker: Or the ladder."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Five forces and the portable hole",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "present"
+        }
+      ],
+      "source": {
+        "startUid": "u1781",
+        "endUid": "u1839"
+      },
+      "lines": [
+        "%% u1781:0-118, u1782:0-43, u1783:0-45 %%",
+        "Seeker: Okay, Seeker becomes the most powerfully directional sleet storm you can imagine. Just this dense wall of slush, just a frozen messy mass pushing towards it, but pushing it towards whatever force Delwath has.",
+        "",
+        "%% u1784:0-64, u1785:0-48 %%",
+        "Delwath: But don't we want to wait for it to react to do something else? I thought we were trying to do this in sequence.",
+        "",
+        "%% u1786:0-36 %%",
+        "Seeker: And now I'm pushing it towards you.",
+        "",
+        "%% u1786:36-150, u1787:0-104, u1788:0-65 %%",
+        "DM: So okay, so Seeker imagines this this windstorm, this sleet storm flying sleet, and the sleet begins to, you know— But so it's—you know it's floating on this sort of like billowing cloak type thing. The sleet begins to well, how are you imagining the sleet is actually impacting this?",
+        "",
+        "%% u1789:0-10 %%",
+        "Seeker: It's, it's.",
+        "",
+        "%% u1790:0-63, u1791:0-17 %%",
+        "DM: At the moment it's just kind of drifting through the sleet on, perfectly happy.",
+        "",
+        "%% u1791:17-88, u1792:0-19 %%",
+        "Seeker: I change it to what is it? And—sorry—walls of hail that are pushing it. Pounding it towards—",
+        "",
+        "%% u1793:0-178, u1794:0-13, u1795:0-34, u1796:0-35, u1797:0-25 %%",
+        "DM: What is—what is it? It's like— I forget what it is. It's like a rock like a crystal that's like this big that's like floating on like a a folded up, billowing cloak at the moment. So that's the— it—it stops moving, and it begins to glow and then burst into flames. Hail sizzles and begins—",
+        "",
+        "%% u1797:25-64, u1798:0-43 %%",
+        "Delwath: So as as soon as the the fire starts to sizzle, it starts to to flame a little bit.",
+        "",
+        "%% u1799:0-4, u1800:0-148, u1801:0-32, u1802:0-5, u1803:0-96, u1804:0-34 %%",
+        "Delwath: This huge, like Delwath kind of imagines the hunter spirit, right, of Yezali, but shaped not like a physical bird, but like just this huge torrential bird of water. So it's like a a dense shape flying on wings, diving like to just smother the flame, just coming like right out of the ground right into the sky like that's the—",
+        "",
+        "%% u1805:0-114, u1806:0-146 %%",
+        "DM: [garbled] towards it. Water bird begins to dive towards it, the flames go out, and for a minute it steams, and then it turns to ice and pops up, floating on the surface of the bird, as the bird is diving down, is just floating along the back of this water bird.",
+        "",
+        "%% u1806:146-168 %%",
+        "Delwath: Okay, go, guys, next.",
+        "",
+        "%% u1806:168-215, u1807:0-28, u1808:0-92, u1809:0-31, u1810:0-24 %%",
+        "Riswynn: And then a a big arching wall of flame comes up on the other side, you know, above the bird where it seems, and is like pushing it, you know a a wall moving down towards between—keeping it between the headed towards the bird.",
+        "",
+        "%% u1811:0-53, u1812:0-163, u1813:0-105 %%",
+        "Kenzo: Like a stone in between a sandwich with it—ice bird, bird, ice fire. That's happening. Kenzo imagines a giant storm like another, another—oh, I guess what forces—it doesn't matter. Yeah, it's—it's like a—it's like a— an electrical—a storm, but with like giant like boulders and rocks like kind of smashing it like this way.",
+        "",
+        "%% u1814:0-5 %%",
+        "Seeker: Nice.",
+        "",
+        "%% u1815:0-136, u1816:0-15, u1817:0-30, u1818:0-35, u1819:0-27 %%",
+        "DM: So, as the boulders and rocks begin to smash and threaten to crack the ice, and as as it's being pushed up towards the fire by this bird it turns into a like a chunk of volcanic rock, begins just plummeting down through the sur—through the water.",
+        "",
+        "%% u1819:27-62 %%",
+        "Delwath: Go, Wellby, go! Portable hole time.",
+        "",
+        "%% u1820:0-11 %%",
+        "Riswynn: And then we.",
+        "",
+        "%% u1821:0-54, u1822:0-51, u1823:0-85 %%",
+        "Wellby: To time it, so that it's a good surprise for that. But Anna Crock—and, oh, no, I don't even need to do that. Immediately below it is the portable hole, with no distance between it's falling, and—",
+        "",
+        "%% u1824:0-65 %%",
+        "Seeker: The ladder is behind the portable hole as a catcher, just in case.",
+        "",
+        "%% u1825:0-17 %%",
+        "Kenzo: That's the scene.",
+        "",
+        "%% u1826:0-11 %%",
+        "Seeker: Is the back.",
+        "",
+        "%% u1827:0-6, u1828:0-34, u1829:0-31 %%",
+        "DM: Clunk. You hear the sound of rock hitting a truly enormous pile of coins.",
+        "",
+        "%% u1830:0-49 %%",
+        "Wellby: I think all together we imagine the hole closed.",
+        "",
+        "%% u1831:0-4 %%",
+        "Riswynn: Yes.",
+        "",
+        "%% u1832:0-109 %%",
+        "Delwath: Let's all imagine it back in Wellby's locket. Nice! That's where it belongs. That's where it should be, right?",
+        "",
+        "%% u1833:0-3, u1834:0-27, u1835:0-17, u1836:0-53, u1837:0-15, u1838:0-22, u1839:0-59 %%",
+        "DM: And the the hole then vanishes. And the blackness stops, like you open your eyes, and there's sunlight. And you can see the light streaming in through the surface—through the big windows in the library."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Great. Let's do it.",
+          "Riswynn: But how do we get into this configuration of being on the 6 sides of the of a cube from it, like—that's right now, that's what I was trying to have us imagine that we were, and it just flew away like couldn't position that in this positionless spaceless thing, that's what I was trying to do earlier, and it didn't happen.",
+          "Delwath: I I still think, if we just imagine—I think it's— Imagine yourselves as forces, not as this. It's not physical, right? It's—that's what I'm saying. It's like like a wall of wind. Okay, so I don't have to be there, but my force of fire is coming from the top, and someone else. But I don't even think it's—I don't even think it's—I don't think it's like literally, one is here, and one is here, and one is here, and one is here. The space is in— There's no directions here. We can float whichever way we want to go. Right? I think it's just—",
+          "Kenzo: I think it's one force and it's reactive, right? It's exactly—yeah, it's a pong, and we're just—we're just, you know, and and so it's not physical. It's, it's—",
+          "Delwath: It's just like it's it's a long way, if we were all just chasing it, and like throw literally like throwing things at it. It would just keep going further away from all of us like there has to be some sort of corralling. Yeah, it's correct. That is what it is. That's exactly correct. So let's just let's just start trying it."
+        ],
+        "after": [
+          "Seeker: Amazing.",
+          "DM: The—but lighting up the sort of rubble and and and everything sort of strewn around the the, the—it's—it's probably like early afternoon light at this, you know, at this point the 12 pillars you can see now in the in the sunlight are decorated with the sort of brilliant colors.",
+          "Seeker: Hmm.",
+          "DM: All, you know, painted and—painted, or, or, or not really painted, but like mosaic, like chiseled with like inlay, like like dyes sort of into the runes going up. Everybody else to make a constitution saving throw.",
+          "Kenzo: So 9."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "False awakening and escape from the dream",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1833",
+        "endUid": "u2043"
+      },
+      "lines": [
+        "%% u1833:0-3, u1834:0-27, u1835:0-17, u1836:0-53, u1837:0-15, u1838:0-22, u1839:0-59 %%",
+        "DM: And the the hole then vanishes. And the blackness stops, like you open your eyes, and there's sunlight. And you can see the light streaming in through the surface—through the big windows in the library.",
+        "",
+        "%% u1840:0-7 %%",
+        "Seeker: Amazing.",
+        "",
+        "%% u1841:0-3, u1842:0-83, u1843:0-87, u1844:0-102 %%",
+        "DM: The—but lighting up the sort of rubble and and and everything sort of strewn around the the, the—it's—it's probably like early afternoon light at this, you know, at this point the 12 pillars you can see now in the in the sunlight are decorated with the sort of brilliant colors.",
+        "",
+        "%% u1845:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u1846:0-98, u1847:0-58, u1848:0-51 %%",
+        "DM: All, you know, painted and—painted, or, or, or not really painted, but like mosaic, like chiseled with like inlay, like like dyes sort of into the runes going up. ((Closing material))",
+        "",
+        "%% u1849:0-4, u1850:0-5 %%",
+        "((Intervening discussion and mechanics))",
+        "",
+        "%% u1851:0-5, u1852:0-38 %%",
+        "DM: Okay. So you seem to be back in the library.",
+        "",
+        "%% u1853:0-25 %%",
+        "Riswynn: Does everybody feel okay?",
+        "",
+        "%% u1854:0-54 %%",
+        "Delwath: Wellby, can we look at your portable hole? Look at our—",
+        "",
+        "%% u1855:0-43, u1856:0-34, u1857:0-26, u1858:0-48 %%",
+        "Wellby: Let's make sure we're not in a dream first. And let's take up the dream mirror and put in a drop of blood and make sure that there's nothing there. Right?",
+        "",
+        "%% u1859:0-25, u1860:0-22 %%",
+        "Delwath: Yeah, that's a good idea. It's a very good idea.",
+        "",
+        "%% u1861:0-62 %%",
+        "DM: Okay, whose drop of blood are you putting in the dream mirror?",
+        "",
+        "%% u1862:0-29 %%",
+        "Delwath: Delwath will prick his finger.",
+        "",
+        "%% u1863:0-4 %%",
+        "Seeker: This.",
+        "",
+        "%% u1864:0-29, u1865:0-3, u1866:0-151, u1867:0-12, u1868:0-28 %%",
+        "DM: So Delwath pricks his finger, and drops a drop of blood in—well, you need—you pour some water out into the dream mirror, pricks his finger, drops a drop of blood into the dream mirror. And you see— I guess you see the library.",
+        "",
+        "%% u1869:0-84 %%",
+        "Wellby: I'll say loudly, \"You said you wouldn't hinder our leaving if we were able to get it.\"",
+        "",
+        "%% u1870:0-7, u1871:0-36, u1872:0-7 %%",
+        "Seeker: No, no! So we're in the dream library again. Or you?",
+        "",
+        "%% u1873:0-56 %%",
+        "Wellby: Oh, no, yeah, that right? That's what that means. Right?",
+        "",
+        "%% u1874:0-21 %%",
+        "Delwath: A trick or something.",
+        "",
+        "%% u1875:0-62 %%",
+        "Seeker: Try to read the pillars again. I mean, have you ever tried to?",
+        "",
+        "%% u1876:0-8 %%",
+        "Riswynn: Oh, here.",
+        "",
+        "%% u1877:0-25 %%",
+        "Delwath: Are the pillars the same?",
+        "",
+        "%% u1878:0-78, u1879:0-70 %%",
+        "DM: There seems to be a lot less detail than—I mean, you, especially the one on the on—the the technical details of the of the sky ship is hard to parse.",
+        "",
+        "%% u1880:0-35, u1881:0-58 %%",
+        "Wellby: Wellby says again, louder, \"You said you wouldn't hinder our leaving if we were able to get it.\"",
+        "",
+        "%% u1882:0-4, u1883:0-16 %%",
+        "Seeker: Hmm. So it—so he did.",
+        "",
+        "%% u1884:0-18 %%",
+        "Riswynn: Yes, just have to—",
+        "",
+        "%% u1885:0-12 %%",
+        "Seeker: We might get.",
+        "",
+        "%% u1886:0-43 %%",
+        "DM: There's there's no response from the voice.",
+        "",
+        "%% u1887:0-14, u1888:0-8, u1889:0-139 %%",
+        "Seeker: The—I imagine a portal just floating in the air, but like the size of the doorway, back to the real version of the library that looks like it looked when we left.",
+        "",
+        "%% u1890:0-16 %%",
+        "DM: Nothing happens.",
+        "",
+        "%% u1891:0-30 %%",
+        "Seeker: I imagine a bowl of ice cream.",
+        "",
+        "%% u1892:0-21 %%",
+        "DM: You're in the library.",
+        "",
+        "%% u1893:0-17 %%",
+        "Seeker: Not—no ice cream.",
+        "",
+        "%% u1894:0-20 %%",
+        "DM: No ice cream appears.",
+        "",
+        "%% u1895:0-6, u1896:0-18, u1897:0-37, u1898:0-92, u1899:0-36, u1900:0-70, u1901:0-3, u1902:0-22, u1903:0-156, u1904:0-37, u1905:0-125, u1906:0-17 %%",
+        "((Intervening discussion and mechanics))",
+        "",
+        "%% u1907:0-33, u1908:0-5 %%",
+        "Seeker: We still have flying ladder right? With—",
+        "",
+        "%% u1908:5-72 %%",
+        "DM: I don't know if it's been an hour yet or not; but if it hasn't, yes.",
+        "",
+        "%% u1909:0-37 %%",
+        "Riswynn: It's probably been more than an hour.",
+        "",
+        "%% u1910:0-79, u1911:0-15 %%",
+        "DM: The ladder is now just a ladder. The ladder is—well, no, the ladder is is still moving around.",
+        "",
+        "%% u1911:15-18, u1912:0-63 %%",
+        "Seeker: Oh. It's still animated. I don't know. Wait a minute, dream ladder.",
+        "",
+        "%% u1913:0-49 %%",
+        "Riswynn: So I guess they did so. It still have its medals?",
+        "",
+        "%% u1914:0-3 %%",
+        "DM: No.",
+        "",
+        "%% u1915:0-39, u1916:0-69, u1917:0-94, u1918:0-103 %%",
+        "Riswynn: We but if we fly up the stairs with it, because I don't want to climb those different things with their giant step size. Would we—do we—do we find—do we— If we fly up with the ladder, do we see the like remains of the battle with the or the melted puddles, or whatever, does it look different up there, too?",
+        "",
+        "%% u1919:0-53 %%",
+        "DM: So you just fly. You fly up the stairs on the ladder.",
+        "",
+        "%% u1920:0-37 %%",
+        "Riswynn: Yeah, just to look at the level above.",
+        "",
+        "%% u1921:0-16, u1922:0-11, u1923:0-107, u1924:0-13 %%",
+        "DM: You. You fly up. And you see you see your campfire, and you see 5 sleeping figures. You—4 of you are like covered mostly covered in ice. Seeker is not.",
+        "",
+        "%% u1925:0-84, u1926:0-36, u1927:0-32, u1928:0-3, u1929:0-17 %%",
+        "((Intervening discussion and mechanics))",
+        "",
+        "%% u1930:0-190, u1931:0-36 %%",
+        "Riswynn: So if we, if we were sleeping ever since the Camp Fire, then we did never go down the stairs, so we didn't ever read the more complicated version of the instructions that we thought we read. Now we're reading a fuzzy version of—",
+        "",
+        "%% u1932:0-43 %%",
+        "Delwath: Something there must have been real because—",
+        "",
+        "%% u1933:0-29, u1934:0-46 %%",
+        "((Intervening discussion and mechanics))",
+        "",
+        "%% u1935:0-74 %%",
+        "Delwath: That's why we're making Constitution saves. We're slowly freezing to death.",
+        "",
+        "%% u1936:0-3, u1937:0-12, u1938:0-33, u1939:0-35, u1940:0-4, u1941:0-7, u1942:0-17, u1943:0-7, u1944:0-65, u1945:0-71, u1945:71-101, u1946:0-71, u1947:0-83, u1948:0-100, u1949:0-5, u1950:0-70, u1951:0-2, u1952:0-118, u1953:0-20, u1954:0-165, u1955:0-165, u1956:0-12, u1957:0-60, u1958:0-42, u1959:0-26, u1960:0-8, u1961:0-34, u1962:0-48, u1963:0-57, u1964:0-5, u1965:0-26 %%",
+        "((Intervening discussion and mechanics))",
+        "",
+        "%% u1966:0-85 %%",
+        "Seeker: How do you unproject? You just have to wake yourself up? How do you wake yourself up?",
+        "",
+        "%% u1967:0-14 %%",
+        "Kenzo: Physical pain.",
+        "",
+        "%% u1968:0-4 %%",
+        "Unknown: And.",
+        "",
+        "%% u1969:0-43 %%",
+        "Kenzo: Like stab yourself, hurt yourself something.",
+        "",
+        "%% u1970:0-35 %%",
+        "DM: I mean your bodies are right there.",
+        "",
+        "%% u1971:0-24, u1972:0-45, u1973:0-20 %%",
+        "Delwath: Try waking our bodies up? Right. I mean, what happens if we walk up and crack—shake a body?",
+        "",
+        "%% u1974:0-26 %%",
+        "Riswynn: Warm it up, your own body.",
+        "",
+        "%% u1975:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u1976:0-26 %%",
+        "DM: Is that what you're doing?",
+        "",
+        "%% u1977:0-5 %%",
+        "Riswynn: Yeah.",
+        "",
+        "%% u1978:0-69, u1979:0-3, u1980:0-39, u1981:0-149, u1982:0-51 %%",
+        "DM: Okay. So you go up. You approach your the like camp. The fire is out. And you are, and and you approach your your seemingly sleeping body that's that's now like frost forming on your on, you know, on your arms, and and where you're sort of wrapped in your cloak. And you—what do you—what are you doing precisely?",
+        "",
+        "%% u1983:0-111 %%",
+        "Delwath: Hey—wow! First I'm going to cast—I'm gonna light the—I'm gonna cast Prestidigitation and relight the campfire.",
+        "",
+        "%% u1984:0-19 %%",
+        "DM: It blazes to light.",
+        "",
+        "%% u1985:0-2 %%",
+        "Seeker: He.",
+        "",
+        "%% u1986:0-64, u1987:0-62 %%",
+        "Delwath: Then I'm going to gently shake myself and see if it wakes me up. Or if somehow touching myself causes some terrible reaction.",
+        "",
+        "%% u1987:62-80, u1988:0-8 %%",
+        "DM: But then something vanishes.",
+        "",
+        "%% u1989:0-15 %%",
+        "Seeker: Which—which one?",
+        "",
+        "%% u1990:0-13 %%",
+        "DM: Both of them.",
+        "",
+        "%% u1991:0-7, u1992:0-9 %%",
+        "((Intervening discussion and mechanics))",
+        "",
+        "%% u1993:0-33, u1994:0-27 %%",
+        "Seeker: And well, whatever just happened, maybe we should all try it.",
+        "",
+        "%% u1995:0-26 %%",
+        "Delwath: Does telepathy still work?",
+        "",
+        "%% u1996:0-24 %%",
+        "Seeker: Oh, yeah, good question.",
+        "",
+        "%% u1997:0-26 %%",
+        "Riswynn: We mentally cry out, \"Hey!\"",
+        "",
+        "%% u1997:26-55, u1998:0-27 %%",
+        "DM: That is a good question. 1 s. No, telepathy does not work.",
+        "",
+        "%% u1999:0-41, u2000:0-9, u2001:0-3, u2002:0-63, u2003:0-23 %%",
+        "Seeker: Where did the where did Delwath go again? Oh, dear. I I I go in close without touching anyone yet. How does Seeker look? Conscious, unconscious?",
+        "",
+        "%% u2003:23-60 %%",
+        "DM: Seeker? Looks like dreaming happily.",
+        "",
+        "%% u2004:0-4, u2005:0-5, u2006:0-5, u2007:0-11, u2008:0-13, u2009:0-3, u2010:0-26, u2011:0-72 %%",
+        "Seeker: Hmm. Okay. I am— I try, like I don't know, and laughing, or like coughing at it. Try to see if I can get my body to react, the one that's sleeping.",
+        "",
+        "%% u2012:0-24 %%",
+        "DM: It doesn't seem to react.",
+        "",
+        "%% u2013:0-10, u2014:0-13, u2015:0-15, u2016:0-53 %%",
+        "Seeker: The—I try— I don't know. I reach out and touch my own nose. I mean the sleeping Seeker's nose.",
+        "",
+        "%% u2017:0-5, u2018:0-85, u2019:0-67 %%",
+        "DM: Okay. You touch—you—I mean, are you trying to like, wake yourself up, or are you just like— Your nose is like pretty—is not cold. It's like warm to the touch.",
+        "",
+        "%% u2019:67-72, u2020:0-60, u2021:0-28 %%",
+        "Seeker: Okay. Okay, then I'll—I'll sort of like shake myself a little bit on the torso, like, \"Wake up.\"",
+        "",
+        "%% u2022:0-16 %%",
+        "DM: Seeker vanishes.",
+        "",
+        "%% u2023:0-3 %%",
+        "Unknown: The.",
+        "",
+        "%% u2024:0-100, u2025:0-42 %%",
+        "Riswynn: Okay, vanishing seems like a good thing to do. Kenzo, Wellby, what do you guys think we should just wake ourselves up and vanish? Let's do it.",
+        "",
+        "%% u2026:0-40, u2027:0-108, u2028:0-19 %%",
+        "DM: So we got—you, you all—you all wake up. You see Seeker just sitting up and Delwath like is in the process of like piling warm clothes around you and has relit the fire.",
+        "",
+        "%% u2029:0-102 %%",
+        "((Intervening discussion and mechanics))",
+        "",
+        "%% u2030:0-13, u2031:0-70 %%",
+        "Seeker: And meanwhile the Seeker's like, \"Gosh! It's warm.\" He's like taking off his socks, and—",
+        "",
+        "%% u2032:0-43, u2033:0-81 %%",
+        "Delwath: That might be a good time to take the bowl. Delwath he'll take the bowl and prick his finger again and see if we see anything.",
+        "",
+        "%% u2034:0-12 %%",
+        "DM: Plain water.",
+        "",
+        "%% u2035:0-5, u2036:0-47 %%",
+        "Delwath: Okay. Now let's see what is inside the portable hole.",
+        "",
+        "%% u2037:0-19 %%",
+        "Seeker: I think we made it.",
+        "",
+        "%% u2038:0-5, u2039:0-48 %%",
+        "Wellby: Yeah. How'd you get out of the second layer of dreams?",
+        "",
+        "%% u2040:0-28 %%",
+        "Delwath: Tried to wake yourselves up.",
+        "",
+        "%% u2041:0-74 %%",
+        "Riswynn: We went back, up and up above the staircase. You saw your sleeping bodies.",
+        "",
+        "%% u2042:0-96, u2043:0-56 %%",
+        "DM: And just Delwath woke himself up and vanished, and then eventually everybody decided, \"Oh, yeah.\" The phasing stone is at the bottom of the portable hole."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Is the back.",
+          "DM: Clunk. You hear the sound of rock hitting a truly enormous pile of coins.",
+          "Wellby: I think all together we imagine the hole closed.",
+          "Riswynn: Yes.",
+          "Delwath: Let's all imagine it back in Wellby's locket. Nice! That's where it belongs. That's where it should be, right?"
+        ],
+        "after": [
+          "Seeker: We wake up. It was all a dream, and we're back in Chardon, deciding whether or not—yeah, maybe we should—",
+          "Riswynn: So that we go back down the stairs and look for the—yeah, what's the state of the library? Is it still pitch black?",
+          "DM: No, it's it's light, not quite so bright as when you woke up.",
+          "Wellby: How much time has passed? Has it only has it been less than one day or more?",
+          "DM: It's late afternoon."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "Three giant books and copied control notes",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2083",
+        "endUid": "u2120"
+      },
+      "lines": [
+        "%% u2083:0-49 %%",
+        "Riswynn: Worth keeping an eye out for that in particular.",
+        "",
+        "%% u2083:49-120, u2084:0-176, u2085:0-112, u2086:0-130, u2087:0-5 %%",
+        "DM: Given that you have an hour to search, that's enough time that you can, you know, divide the library into quadrants, and carefully, and, you know, go through every piece of rubble until you turn it up. So I'm not. You know [garbled]. And it's not a small thing. It's not a small thing, right? So you you do—you do find this book. You find 2 other seemingly intact, at least not too badly damaged giant books. So 3 total books of roughly the size of this like four-ish foot size book.",
+        "",
+        "%% u2088:0-64, u2089:0-103 %%",
+        "DM: One of them seems to be like a cookbook or a book on—it's like a like a—it's like a book on sort of hosting and entertaining. It's like a combination of like recipes and—",
+        "",
+        "%% u2090:0-5 %%",
+        "Seeker: Cool.",
+        "",
+        "%% u2091:0-9, u2092:0-53, u2093:0-56, u2094:0-101, u2095:0-48, u2096:0-100, u2097:0-16 %%",
+        "DM: I mean, it— not so much etiquette, but but it's it's kind of like what it—what it seems to be is like a collection of like like, what do you feed dwarves? What do you feed stoneborn? What do you feed humans? Like, how do you, you know, make, you know, if you have visitors of all these other strange little tiny races like, how do you make them comfortable in your giant home? It's delightful.",
+        "",
+        "%% u2098:0-17 %%",
+        "Seeker: That's wonderful.",
+        "",
+        "%% u2099:0-110 %%",
+        "DM: Elves like to sit on little mushrooms. Like, don't expect to eat an entire leg of lamb that is the size of them.",
+        "",
+        "%% u2100:0-119, u2101:0-99, u2102:0-8, u2103:0-57, u2104:0-11, u2105:0-59, u2106:0-112, u2107:0-18 %%",
+        "DM: So there's that—the—then there's the there's the Book of Notes on the history of the skyship, and then the the last one is not—is, is written—I mean the titles in giant, and Delwath like takes a little bit of time from from the translating that he's doing. It seems to be a guest book. It's like a— There's entries in all sorts of languages that are that are what it's—what it seems to—and this one is the the recipe book, and the the notes are pretty intact. This one's much more damaged.",
+        "",
+        "%% u2108:0-221, u2109:0-63, u2110:0-26, u2111:0-51, u2112:0-50, u2113:0-77 %%",
+        "DM: Seems to have been like more, you know, more—it was like up in the main hall, and has, you know, much of the time, and was much more damaged, and you found it sort of almost as if it had like been tossed down the stairs. [garbled]. Most many of the stories are not intact, but it seems to be like when people would come visit Hralgar, he would ask them to write something about who they are and where they came from, and it's just a collection of these sorts of anecdotes.",
+        "",
+        "%% u2114:0-14 %%",
+        "Riswynn: The cabin log.",
+        "",
+        "%% u2115:0-43 %%",
+        "DM: Yeah, basically, that's exactly what it is.",
+        "",
+        "%% u2116:0-56, u2117:0-68, u2118:0-157, u2119:0-218, u2120:0-45 %%",
+        "DM: So you find you collect those 3 giant books and put them for later study in the portable hole and get your translation of the your translation of the pillar, the central pillar. But you don't—you don't really have time to translate any of the other pillars. ((Closing material))"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: That gives the 3 of you the other 3 people time for whatever you want to do.",
+          "Wellby: Do we—we were aware that there was a little book here, little book here. I can't remember what it was good for—it—",
+          "DM: It was Hralgar's notes about the history of the the skieship that crashed. You know.",
+          "Wellby: We want that absolutely.",
+          "Seeker: The vehicle is."
+        ],
+        "after": [
+          "Wellby: Hmm.",
+          "DM: So you know, an hour, an hour and a half before sunset, you pack up and you shift into clouds. And you know, only you know 7 h having passed since you woke up this morning and said goodbye to Hralgar. You fly back across the plains, landing in the ruins of the skyship, turning back into your forms as the sun begins to set, with instructions.",
+          "DM: There are some materials that I mean you need. You need. You'll need to construct this complicated tuning device which might take money or time or both.",
+          "Seeker: Right?",
+          "DM: But you have— you know, while Delwath was, you know, helping, Seeker translate this and write this out, you you know you had the sense, you you you you you were able to sort of make sense of it, Seeker. And and really what you need is is, basically you know, a few different— the, you know, metals, and you need time to—it's really the shape of the device that requires some care and attention, so will take some time to construct. But you're pretty—I mean, you and Riswynn are both pretty skilled smiths, and it doesn't feel like outside of your skill if you can get the raw materials."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "Constructing the skyship’s tuning device",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2132",
+        "endUid": "u2148"
+      },
+      "lines": [
+        "%% u2132:0-98, u2133:0-53 %%",
+        "DM: There are some materials that I mean you need. You need. You'll need to construct this complicated tuning device which might take money or time or both.",
+        "",
+        "%% u2134:0-6 %%",
+        "Seeker: Right?",
+        "",
+        "%% u2135:0-13, u2136:0-94, u2137:0-35, u2138:0-66, u2139:0-37, u2140:0-26, u2141:0-70, u2142:0-71, u2143:0-37, u2144:0-40, u2145:0-88 %%",
+        "DM: But you have— you know, while Delwath was, you know, helping, Seeker translate this and write this out, you you know you had the sense, you you you you you were able to sort of make sense of it, Seeker. And and really what you need is is, basically you know, a few different— the, you know, metals, and you need time to—it's really the shape of the device that requires some care and attention, so will take some time to construct. But you're pretty—I mean, you and Riswynn are both pretty skilled smiths, and it doesn't feel like outside of your skill if you can get the raw materials.",
+        "",
+        "%% u2146:0-5 %%",
+        "Seeker: Cool.",
+        "",
+        "%% u2147:0-9 %%",
+        "Delwath: So it's a—",
+        "",
+        "%% u2148:0-30 %%",
+        "DM: What—we, we have a skyship now."
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: The cabin log.",
+          "DM: Yeah, basically, that's exactly what it is.",
+          "DM: So you find you collect those 3 giant books and put them for later study in the portable hole and get your translation of the your translation of the pillar, the central pillar. But you don't—you don't really have time to translate any of the other pillars. If you want to get back before sunset, is—you can see the sun already dipping low in the sky, and Hralgar never really explained what would happen if you were still flying as clouds when the sun set. And you're not exactly tempted to risk it. Maybe you are tempted to risk it. No, no, no.",
+          "Wellby: Hmm.",
+          "DM: So you know, an hour, an hour and a half before sunset, you pack up and you shift into clouds. And you know, only you know 7 h having passed since you woke up this morning and said goodbye to Hralgar. You fly back across the plains, landing in the ruins of the skyship, turning back into your forms as the sun begins to set, with instructions."
+        ],
+        "after": [
+          "Seeker: Time to go bomb Grash right?",
+          "DM: So as you settle in for the evening, I I think this is a good place to stop. People are, you know, tired, but realizing that over the next couple of days you'll need to, you know, get them— This is, you know you're probably gonna need 3 or 4 days to construct this.",
+          "DM: And I think we'll we'll pick up with the preparing the skyship and flying off to your next destination next session. But remember also you again, I don't want to do like lore stuff, as everybody has fall asleep at the end of the session. But remember: You had also wanted to send letters to people or messages to try and get more information about things. So, well, we'll pick that up next time, too.",
+          "Riswynn: No.",
+          "Seeker: Oh."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "Destroy the scepter or pursue Grash",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2173",
+        "endUid": "u2191"
+      },
+      "lines": [
+        "%% u2173:0-111 %%",
+        "Riswynn: We're going to discuss whether we're bombing Grash or flying to the nearest volcano to destroy the scepter. Oh.",
+        "",
+        "%% u2174:0-34 %%",
+        "Kenzo: Are we going to the Circle Island?",
+        "",
+        "%% u2175:0-79 %%",
+        "DM: Actually that, too. Well, I guess you gotta discuss your destination, too. Then—",
+        "",
+        "%% u2176:0-5 %%",
+        "Seeker: Nice!",
+        "",
+        "%% u2177:0-56 %%",
+        "Delwath: I think we gotta go stop Grash before he gets the cloak.",
+        "",
+        "%% u2178:0-5 %%",
+        "Unknown: Yeah.",
+        "",
+        "%% u2179:0-51 %%",
+        "Seeker: I mean, we might want to destroy the sceptre first.",
+        "",
+        "%% u2180:0-31, u2181:0-153 %%",
+        "Kenzo: Oh, drop it in a volcano. Yeah. We had this whole like, maybe bringing the scepter and the cloak together is a bad idea. Yeah, yeah, like volcanoing the sceptre is certainly appealing.",
+        "",
+        "%% u2182:0-104 %%",
+        "Wellby: Maybe they balance each other out, though, and once you combine all of them, you have mastery over them.",
+        "",
+        "%% u2183:0-103, u2184:0-8, u2185:0-22, u2186:0-12, u2186:12-64, u2186:64-95 %%",
+        "((Preparation discussion with the DM))",
+        "",
+        "%% u2187:0-66 %%",
+        "Delwath: I I would say, actually, there's some volcanoes nearby right? Ish?",
+        "",
+        "%% u2188:0-10, u2189:0-46 %%",
+        "Riswynn: Oh, that's— isn't it like 2,000 miles south of a sea east?",
+        "",
+        "%% u2190:0-109, u2191:0-170 %%",
+        "Delwath: Oh, in the Nevos Sea. There's all kinds of cool stuff over there, but I just—Kadmos is going to get to Grash. And that's gonna be bad. They're gonna team up and kind of get more powerful, and it's gonna be harder to kill, and we have to hunt down and destroy him for his evilness."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Oh.",
+          "DM: Kong, wait, hold on. Just got a message from—",
+          "Seeker: Oh, it's computer day. I don't know.",
+          "DM: I'm gonna wait for him to rejoin. Hey, Kong. Yeah, no problem. We are just—I, I don't don't remember when you dropped off. But we're just—now that you've made it safely back, just reminding you that you had discussed, and we'll—we'll do this next session because everybody's tired. So you don't want to do a bunch of lore stuff right when everybody is falling asleep. But before you repair that—while you're repairing the skyship, and before you go off to bomb Grash you had discussed sending messages and trying to get some research from people. So let's— So if you want to do that, let's do that. Figure out what you're gonna send out and who you're gonna contact and stuff for the beginning of next session.",
+          "Kenzo: Oh, sorry guys."
+        ],
+        "after": [
+          "DM: I mean, it's about—they both in the same place. Say 1,200 miles to—",
+          "Delwath: Do we have any idea how fast this airship moves?",
+          "Seeker: Oh, yeah, we just read the recent user manual.",
+          "Delwath: Yeah, we read the—we should have some idea, right?",
+          "DM: So it depends on how skilled the pilot is. I would say, you can't—you can't expect it to move incredibly fast when you first get it working. But as Seeker gains experience, it will probably go faster. I haven't actually decided exactly how fast it is going to go. But I would expect something like—drive, no pressure—okay, a 100 miles a day or 150 miles a day to start with the idea that it could get quicker as you get better."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "The skyship’s expected speed",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2194",
+        "endUid": "u2203"
+      },
+      "lines": [
+        "%% u2194:0-49 %%",
+        "Delwath: Do we have any idea how fast this airship moves?",
+        "",
+        "%% u2195:0-46 %%",
+        "Seeker: Oh, yeah, we just read the recent user manual.",
+        "",
+        "%% u2196:0-50 %%",
+        "Delwath: Yeah, we read the—we should have some idea, right?",
+        "",
+        "%% u2197:0-42, u2198:0-98, u2199:0-3, u2200:0-122, u2201:0-101, u2202:0-50, u2203:0-7 %%",
+        "DM: So it depends on how skilled the pilot is. I would say, you can't—you can't expect it to move incredibly fast when you first get it working. But as Seeker gains experience, it will probably go faster. I haven't actually decided exactly how fast it is going to go. But I would expect something like—drive, no pressure—okay, a 100 miles a day or 150 miles a day to start with the idea that it could get quicker as you get better."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: We can decide these things now.",
+          "Delwath: I I would say, actually, there's some volcanoes nearby right? Ish?",
+          "Riswynn: Oh, that's— isn't it like 2,000 miles south of a sea east?",
+          "Delwath: Oh, in the Nevos Sea. There's all kinds of cool stuff over there, but I just—Kadmos is going to get to Grash. And that's gonna be bad. They're gonna team up and kind of get more powerful, and it's gonna be harder to kill, and we have to hunt down and destroy him for his evilness.",
+          "DM: I mean, it's about—they both in the same place. Say 1,200 miles to—"
+        ],
+        "after": [
+          "Kenzo: But how fast can Kenzo drive? It went fly when he's like drunk, so like drunk flying twice as fast in a random direction.",
+          "Wellby: I'll take that.",
+          "Delwath: Straight down random direction in 3 dimensions.",
+          "DM: So you know, do you think, Cross? How do you think it crashed in the first place? Right? A drunk monk was flying it. Hey, you know drunk monk is a—is a—it's a fighting art, so—",
+          "Delwath: It's awesome, and it's also a Christian flying style. Th—there might have been some—what? When we're close to Grash, we'll get Kenzo drunk and put him at the helm of the airship, and we'll see what drunken monk is—is the alternate style, how we're going to beat Apollyon. So just so, you know."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i021",
+      "title": "Another jade piece in Ursk",
+      "entities": [
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2220",
+        "endUid": "u2225"
+      },
+      "lines": [
+        "%% u2220:0-103 %%",
+        "Delwath: Oh, yeah, that's much further away now. Well, we have to go there to find Rai’s—the other piece of Rai.",
+        "",
+        "%% u2221:0-5 %%",
+        "DM: True.",
+        "",
+        "%% u2222:0-88 %%",
+        "Kenzo: Where are we going to find the other piece of Rai? There was another jade piece in Ursk.",
+        "",
+        "%% u2223:0-81, u2224:0-59, u2225:0-51 %%",
+        "DM: One of those—it's it's like off the map. One of the one other places that Wellby learned about when he was in the eastern edge of the Green. That's like a two-week journey, even in the airship."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: We gotta go there.",
+          "Delwath: I I heard the volcano was close, so we should just do the Grash thing first.",
+          "DM: The volcano the Nevos Sea is, like, you know, between a 1,000 and 1,400 miles away. Oh, so the volcano is far away. So that's where the volcano is. There was—there was also volcanoes up by—",
+          "Delwath: The northern plains, right, that string of volcanoes north of Ursk.",
+          "Seeker: I."
+        ],
+        "after": [
+          "Wellby: Grash is on our way there. But when we say, do the Grash thing, like—",
+          "Delwath: What? What does that actually mean, though? Okay, here's the thing we do. Here's the—",
+          "Seeker: Yeah.",
+          "Kenzo: Well, instead of going to fight Grash, we could just go—",
+          "Wellby: We could just go try to find Kadmos and just go fight them. Just go kill him from the airship. We can just hunt down Kadmos like the vicious killers we are. Wellby would love that, actually, like he bears some serious grudge on this—that team."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i022",
+      "title": "Kadmos’s team and the remembered attacks",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2230",
+        "endUid": "u2234"
+      },
+      "lines": [
+        "%% u2230:0-241 %%",
+        "Wellby: We could just go try to find Kadmos and just go fight them. Just go kill him from the airship. We can just hunt down Kadmos like the vicious killers we are. Wellby would love that, actually, like he bears some serious grudge on this—that team.",
+        "",
+        "%% u2231:0-36, u2232:0-21, u2233:0-85 %%",
+        "Seeker: I mean more so than Grash, they have threatened our lives. Grash sent like some shadow creatures against us or something. Yeah, that was Fausto.",
+        "",
+        "%% u2234:0-32 %%",
+        "DM: No, Grash also did. That's true."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: One of those—it's it's like off the map. One of the one other places that Wellby learned about when he was in the eastern edge of the Green. That's like a two-week journey, even in the airship.",
+          "Wellby: Grash is on our way there. But when we say, do the Grash thing, like—",
+          "Delwath: What? What does that actually mean, though? Okay, here's the thing we do. Here's the—",
+          "Seeker: Yeah.",
+          "Kenzo: Well, instead of going to fight Grash, we could just go—"
+        ],
+        "after": [
+          "Delwath: They killed a few monks. The other thing we could do is we could race ahead of Grash to the good Orcs and help them beat Grash.",
+          "Seeker: By loading everybody up onto the castle with us.",
+          "Kenzo: Well, they'd have an air force.",
+          "Delwath: Right, right, like there's definitely a way to make that useful, and we could kill Kadmos on the way.",
+          "Seeker: Wait. So we're gonna have our own orc army, but we need some way to lead them."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i023",
+      "title": "Helping the good orcs",
+      "entities": [
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2235",
+        "endUid": "u2242"
+      },
+      "lines": [
+        "%% u2235:0-101, u2236:0-24 %%",
+        "Delwath: They killed a few monks. The other thing we could do is we could race ahead of Grash to the good Orcs and help them beat Grash.",
+        "",
+        "%% u2237:0-48 %%",
+        "Seeker: By loading everybody up onto the castle with us.",
+        "",
+        "%% u2238:0-30 %%",
+        "Kenzo: Well, they'd have an air force.",
+        "",
+        "%% u2239:0-99 %%",
+        "Delwath: Right, right, like there's definitely a way to make that useful, and we could kill Kadmos on the way.",
+        "",
+        "%% u2240:0-78 %%",
+        "Seeker: Wait. So we're gonna have our own orc army, but we need some way to lead them.",
+        "",
+        "%% u2241:0-18 %%",
+        "DM: We have a scepter.",
+        "",
+        "%% u2242:0-21 %%",
+        "Seeker: So I'm talking about."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Yeah.",
+          "Kenzo: Well, instead of going to fight Grash, we could just go—",
+          "Wellby: We could just go try to find Kadmos and just go fight them. Just go kill him from the airship. We can just hunt down Kadmos like the vicious killers we are. Wellby would love that, actually, like he bears some serious grudge on this—that team.",
+          "Seeker: I mean more so than Grash, they have threatened our lives. Grash sent like some shadow creatures against us or something. Yeah, that was Fausto.",
+          "DM: No, Grash also did. That's true."
+        ],
+        "after": [
+          "Wellby: I think we need to get to Grash. I think we need to get the— Is it a ring that he has?",
+          "Seeker: I—unfortunately, that does— I think you're probably right, and if we can kill Kadmos on the way, great.",
+          "Delwath: If we can. If not not, and I think we should—we should head towards Grash and see what we can see, what we can learn about the situation there, and how we might handle it.",
+          "Kenzo: Do we know where Apollyon is physically?",
+          "DM: As far as you know, he's still in Drankor."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i024",
+      "title": "Grash’s ring as a target",
+      "entities": [
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2243",
+        "endUid": "u2248"
+      },
+      "lines": [
+        "%% u2243:0-60, u2244:0-25 %%",
+        "Wellby: I think we need to get to Grash. I think we need to get the— Is it a ring that he has?",
+        "",
+        "%% u2245:0-102 %%",
+        "Seeker: I—unfortunately, that does— I think you're probably right, and if we can kill Kadmos on the way, great.",
+        "",
+        "%% u2246:0-17, u2247:0-130, u2248:0-23 %%",
+        "Delwath: If we can. If not not, and I think we should—we should head towards Grash and see what we can see, what we can learn about the situation there, and how we might handle it."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Well, they'd have an air force.",
+          "Delwath: Right, right, like there's definitely a way to make that useful, and we could kill Kadmos on the way.",
+          "Seeker: Wait. So we're gonna have our own orc army, but we need some way to lead them.",
+          "DM: We have a scepter.",
+          "Seeker: So I'm talking about."
+        ],
+        "after": [
+          "Kenzo: Do we know where Apollyon is physically?",
+          "DM: As far as you know, he's still in Drankor.",
+          "Delwath: He's probably actually on the Circle Island. I mean that was his lair when he was still alive. But we can't go to the Circle Island until—we have to be higher level.",
+          "Kenzo: The reason I'm asking is because we want to go—we don't want to be anywhere—we don't want to bring the sceptre to Apollyon like, we don't— That's what we don't want to do. That's an important— so that's what I was saying. If if he was near Grash, then we should not go to—",
+          "Delwath: It. Yeah, although the idea of going and destroying the scepter before we head towards Grash has some merit. I just think that we're going to run out of time."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i025",
+      "title": "Keeping the scepter away from Apollyon",
+      "entities": [
+        {
+          "id": "e028",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2249",
+        "endUid": "u2257"
+      },
+      "lines": [
+        "%% u2249:0-41 %%",
+        "Kenzo: Do we know where Apollyon is physically?",
+        "",
+        "%% u2250:0-41 %%",
+        "DM: As far as you know, he's still in Drankor.",
+        "",
+        "%% u2251:0-44, u2252:0-120 %%",
+        "Delwath: He's probably actually on the Circle Island. I mean that was his lair when he was still alive. But we can't go to the Circle Island until—we have to be higher level.",
+        "",
+        "%% u2253:0-192, u2254:0-78 %%",
+        "Kenzo: The reason I'm asking is because we want to go—we don't want to be anywhere—we don't want to bring the sceptre to Apollyon like, we don't— That's what we don't want to do. That's an important— so that's what I was saying. If if he was near Grash, then we should not go to—",
+        "",
+        "%% u2255:0-3, u2256:0-104, u2257:0-49 %%",
+        "Delwath: It. Yeah, although the idea of going and destroying the scepter before we head towards Grash has some merit. I just think that we're going to run out of time."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: We have a scepter.",
+          "Seeker: So I'm talking about.",
+          "Wellby: I think we need to get to Grash. I think we need to get the— Is it a ring that he has?",
+          "Seeker: I—unfortunately, that does— I think you're probably right, and if we can kill Kadmos on the way, great.",
+          "Delwath: If we can. If not not, and I think we should—we should head towards Grash and see what we can see, what we can learn about the situation there, and how we might handle it."
+        ],
+        "after": [
+          "Seeker: Yeah, yeah, like he's on the march. Yeah, I thought it was closer. Sorry.",
+          "Riswynn: So then it's the question of Orcs first, or going direct?",
+          "Seeker: Which I'm not sure if, like, do we have any strategy either way that we think what works? I think we have to await events a little bit, right? Like—",
+          "Delwath: I—we don't know where Grash is. We don't know where the orcs—like, I—",
+          "DM: That's enough for me."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i026",
+      "title": "The cloak’s protection and Apollyon’s goal",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e028",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2267",
+        "endUid": "u2280"
+      },
+      "lines": [
+        "%% u2267:0-226 %%",
+        "Wellby: I I feel like there's this complicated moral dilemma about going into the Orcs, though, because we need to destroy the cloak. But destroying the cloak will mean they will go back to being regular, old, destructive—yeah, evil.",
+        "",
+        "%% u2268:0-39 %%",
+        "Delwath: I mean, do we need to destroy the cloak?",
+        "",
+        "%% u2269:0-32 %%",
+        "Kenzo: You just need to take the cloak?",
+        "",
+        "%% u2270:0-130 %%",
+        "Riswynn: No, that would still—I mean, if we destroy the other 2, is it actually terrible for the cloak to still be out? I, I—I'm not sure.",
+        "",
+        "%% u2271:0-42, u2272:0-92 %%",
+        "Wellby: Well, in fairness we don't know why, like, why are all these items—like, we don't know what happens when you put them all together, like—",
+        "",
+        "%% u2273:0-74 %%",
+        "Delwath: Yeah, we we don't even really know why we are seeking the items exactly.",
+        "",
+        "%% u2273:74-174 %%",
+        "Unknown: We do. We do. We totally do because Apollyon is trying to fucking like become the new master again.",
+        "",
+        "%% u2273:174-245 %%",
+        "Delwath: I know, but what do these artifacts have to do with the—no, more like?",
+        "",
+        "%% u2273:245-266, u2274:0-42, u2275:0-78, u2276:0-81, u2277:0-28 %%",
+        "DM: You do know that that Apollyon's goal was to—Apollyon wanted to become like the new god of the humans, and, like the humans, be the—and needed needed these items to do that, right? Like you need to be shielded from the divine. He had to command his armies.",
+        "",
+        "%% u2278:0-29, u2279:0-77, u2280:0-41 %%",
+        "Seeker: Now that you put it that way. But he failed, shielded from the divine, control death and control his armies. See the wheels turning in Seeker’s mind."
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: So then it's the question of Orcs first, or going direct?",
+          "Seeker: Which I'm not sure if, like, do we have any strategy either way that we think what works? I think we have to await events a little bit, right? Like—",
+          "Delwath: I—we don't know where Grash is. We don't know where the orcs—like, I—",
+          "DM: That's enough for me.",
+          "Delwath: We're going east. We'll go east, like we, we want to scry. We want to like, ask the gods like yes, no questions, like, \"Are we meant to go to the orcs?\" Like, we'll do some stuff to figure out the best option. But from a prep standpoint we're heading east with the goal of possibly going to the orcs, possibly going to Grash, possibly killing Kadmos."
+        ],
+        "after": [
+          "Riswynn: I don't like it. If the red stone shields me from the divine, does the blue stone control death? I just eat the yellow stone.",
+          "Kenzo: Yeah, this sounds connected to that bad stone.",
+          "Seeker: Cool.",
+          "DM: Alright, okay, guys. So you're going East. I'll prep the Kharsan, Grash, orcs [garbled], which I had to prep like way early, when you decide to go randomly East for no particular reason—well, not, for lots and good reasons, actually.",
+          "Seeker: And almost all died."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}
