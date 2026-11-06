@@ -1,0 +1,227 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-082/cleaned/dunmari-frontier-082-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-082/cleaned/dunmari-frontier-082-time-markers.json",
+    "sha256": "87c362aa0018612628e706ce723f314f4287af42856164e3a48c09e6b481da05"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-082/cleaned/dunmari-frontier-082-transcript.md",
+    "sha256": "e11b9d8ed90703f7aa0d457b60fba2ecc8e554784164b4b4f216c5dfe1a65642"
+  },
+  "dateAssessment": "Working dates follow the spoken December 25 departure, December 28 return, and the next-day transitions through December 30; only the year 1748 is inherited from YAML. The time extraction matches all five date boundaries: three in the voyage and two in Tollen. Weekday labels remain inconsistent (t06: u0628–u0629 versus u0710); they have not been used to shift the explicit dates. The final consultation’s afternoon watch is inferred from Umli’s invitation, and its exact clock and full attendance remain unstated.",
+  "watches": [
+    {
+      "day": "December 25–28, 1748",
+      "startWatch": null,
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Three-day voyage from Pyhlla; December 28 harbor arrival is near sunset.",
+      "markers": [
+        "t02"
+      ],
+      "startDate": "1748-12-25",
+      "endDate": "1748-12-28"
+    },
+    {
+      "day": "During December 25–28, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Food gathering spans a couple of hours within the voyage; its particular day and starting watch remain open.",
+      "markers": [
+        "t04"
+      ],
+      "dateWindow": [
+        "1748-12-25",
+        "1748-12-28"
+      ],
+      "scope": "Delwath"
+    },
+    {
+      "day": "December 27, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "The day before Tollen’s return, Delwath scries Fausto in Chardon during the afternoon.",
+      "markers": [
+        "t03"
+      ],
+      "startDate": "1748-12-27",
+      "scope": "Delwath",
+      "endDate": "1748-12-27"
+    },
+    {
+      "day": "December 28, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "The approach ends near sunset; the harbor conversation gives about 5 p.m.",
+      "markers": [
+        "t01",
+        "t05",
+        "t06"
+      ],
+      "startDate": "1748-12-28",
+      "endDate": "1748-12-28"
+    },
+    {
+      "day": "December 28, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Inn storytelling begins around 5 p.m. and occupies Wellby’s evening.",
+      "markers": [
+        "t07"
+      ],
+      "startDate": "1748-12-28",
+      "scope": "Wellby",
+      "endDate": "1748-12-28"
+    },
+    {
+      "day": "December 28, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Kenzo finds Escobar leaving dinner around 7:30 p.m.",
+      "markers": [
+        "t08"
+      ],
+      "startDate": "1748-12-28",
+      "scope": "Kenzo",
+      "endDate": "1748-12-28"
+    },
+    {
+      "day": "December 28, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Nighttime reunion aboard the airship is explicitly still the evening of December 28.",
+      "markers": [
+        "t09"
+      ],
+      "startDate": "1748-12-28",
+      "endDate": "1748-12-28"
+    },
+    {
+      "day": "December 28–29, 1748",
+      "startWatch": null,
+      "endWatch": "morning",
+      "basis": "open",
+      "summary": "Turning in after the reunion leads through the night to the next clear, cold morning.",
+      "markers": [
+        "t10"
+      ],
+      "startDate": "1748-12-28",
+      "endDate": "1748-12-29"
+    },
+    {
+      "day": "December 29, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "The noon parade passes for about an hour, ending roughly at 1 p.m.",
+      "markers": [
+        "t11",
+        "t12"
+      ],
+      "startDate": "1748-12-29",
+      "endDate": "1748-12-29"
+    },
+    {
+      "day": "December 29, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "Hugo speaks for ten more minutes during the afternoon street party.",
+      "markers": [
+        "t13"
+      ],
+      "startDate": "1748-12-29",
+      "sourceRanges": [
+        [
+          "u1109",
+          "u1123"
+        ]
+      ],
+      "endDate": "1748-12-29"
+    },
+    {
+      "day": "December 29, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Dusk departure; university arrival just after sunset, then an hour or two of mingling, perhaps longer.",
+      "markers": [
+        "t14",
+        "t15",
+        "t16"
+      ],
+      "startDate": "1748-12-29",
+      "endDate": "1748-12-29"
+    },
+    {
+      "day": "December 29, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The DM says it is getting late after Thomas’s conversation; no in-world clock is given.",
+      "markers": [
+        "t17"
+      ],
+      "startDate": "1748-12-29",
+      "endDate": "1748-12-29"
+    },
+    {
+      "day": "December 30, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "The next-day Tuesday consultation follows Umli’s afternoon invitation; its exact clock is unstated.",
+      "markers": [
+        "t18"
+      ],
+      "startDate": "1748-12-30",
+      "sourceRanges": [
+        [
+          "u0565",
+          "u0566"
+        ]
+      ],
+      "scope": "Delwath and unspecified companions",
+      "endDate": "1748-12-30"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Cecilia date",
+      "path": "People/Tollenders/Cecilia Lister.md",
+      "sha256": "1fdb473137d4c0b546f6510b4a82d43b83d83aef83ae7494666d50de26765106"
+    },
+    {
+      "label": "Aurelia date",
+      "path": "People/Other Nonhumans/Aurelia.md",
+      "sha256": "09235fc849aee53edc37e2b694e1aee254eb6e96e4e04e11035a259e27eae63d"
+    },
+    {
+      "label": "Umli date",
+      "path": "People/Other Nonhumans/Umli.md",
+      "sha256": "abecb7ed8fcbe3499b4997e76e249120de31302f3f1d6c49cdb0998e284e9e6a"
+    },
+    {
+      "label": "Hugo venue",
+      "path": "People/Tollenders/Hugo Dupont.md",
+      "sha256": "28ab9dac6e0431360b812a8b1dfce1c891c0d2b3a5d5585cc94b688b7a81cad4"
+    },
+    {
+      "label": "Demon identity",
+      "path": "People/Other Nonhumans/Mashtu the Corruptor.md",
+      "sha256": "41ec046b6f44c52f11f8da50c3606508d39dec25b10da2b2d0345bb89a2cf0e7"
+    },
+    {
+      "label": "Play title",
+      "path": "Things/Books/Luminastra's Gift.md",
+      "sha256": "7d31f4dd3f53f69ba980fd58e190c120118430cbc2e4f55fc3a6635207c5798d"
+    }
+  ]
+}

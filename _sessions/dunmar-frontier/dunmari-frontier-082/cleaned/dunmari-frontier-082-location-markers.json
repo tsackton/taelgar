@@ -1,0 +1,1102 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-082",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-082/cleaned/dunmari-frontier-082-session.yaml",
+    "sessionYamlSha256": "eb168751186a9a851d428decfe79a93e1f94e01b7cf6194ed2577bab6a113688",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-082/cleaned/dunmari-frontier-082-transcript.md",
+    "transcriptSha256": "e11b9d8ed90703f7aa0d457b60fba2ecc8e554784164b4b4f216c5dfe1a65642"
+  },
+  "places": {
+    "p01": {
+      "label": "Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u0439",
+          "endUid": "u0440",
+          "quote": "DM: So as you're finishing up this conversation, Seeker is like, intensely concentrating as you begin to navigate with this broken pirate ship hitting the water and jumping a couple of times, and the ship, the the Vindristjarna—the airship lurches slightly as the rope that's connecting you together pulls taut, and you begin to navigate slowly into the Tollen harbor."
+        }
+      ],
+      "kind": "vessel",
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "mobile": true,
+      "aliases": [
+        "skyship",
+        "airship",
+        "castle"
+      ]
+    },
+    "p02": {
+      "label": "Pyhlla",
+      "evidence": [
+        {
+          "startUid": "u0113",
+          "endUid": "u0115",
+          "quote": "DM: 3 days ago, on December 25th, you left Pyhlla, bidding fond farewell to the grateful Skaer as they prepared to mourn the dead and pray for Kaikkea's guidance, and choosing a new priest of the waters to repair and re-sanctify the temple. As thanks for your aid, the Skaer have gifted you with 5 pounds of good unworked Skaer steel, a full larder of dried fish, pickled kelp, fresh bread, smoked lamb and yogurt; four large pearls, one for each of you; and a piece of [garbled] blessed oyster shell which allows you to cast the divination spell once."
+        }
+      ],
+      "kind": "settlement",
+      "vaultPath": "Gazetteer/Western Green Sea/Skaerhem/Pyhlla.md"
+    },
+    "p03": {
+      "label": "Tollen",
+      "evidence": [
+        {
+          "startUid": "u0120",
+          "endUid": "u0123",
+          "quote": "DM: Now you're on your way back to Tollen to reconnect with contacts and gather information. Melindir, the elven ambassador from Orenlas, is expecting a dinner invitation. Guy Marchand, Wellby's mapmaker friend, is expecting to connect you with the student, Sarah de Gray. Umli the Exile, a stoneborn smith, likely has news for Delwath about his shadow breastplate. And Kenzo has a letter letter from Cecilia Lister, the tattoo artist, requesting the student Escobar to offer aid and guidance at the University."
+        }
+      ],
+      "kind": "settlement",
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Tollen.md"
+    },
+    "p04": {
+      "label": "Vostok",
+      "evidence": [
+        {
+          "startUid": "u0110",
+          "endUid": "u0112",
+          "quote": "DM: I put those on the calendar. Let's let's jump back in now to the cold, snowy forests of Vostok, as the winter sun sinks towards the horizon a short distance out from Tollen."
+        }
+      ],
+      "kind": "region",
+      "vaultPath": "Gazetteer/Greater Sembara/Vostok/Vostok.md"
+    },
+    "p05": {
+      "label": "North-bank slums of Chardon",
+      "evidence": [
+        {
+          "startUid": "u0146",
+          "endUid": "u0148",
+          "quote": "DM: What? He was wandering where? North on the—like, in the in the slums of Chardon, north river bank, where Kenzo Kenzo grew up. You see him again later, leading a pair of seemingly sickly and drunken men, their arms scarred with purple lines towards his tower."
+        }
+      ],
+      "kind": "district",
+      "note": "The transcript identifies the slums north of the Chasa, where Kenzo grew up; no narrower precinct is inferred.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0144",
+              "endUid": "u0148",
+              "quote": "In Chardon, Fausto's tower remains a blank wall"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Fausto’s tower",
+      "evidence": [
+        {
+          "startUid": "u0150",
+          "endUid": "u0153",
+          "quote": "DM: Few days he seems to spend holed up in his tower. With some careful scrying, you manage to get a few glimpses of the exterior. It seems to be receiving visitors: 4 people you don't recognize entering with servants carrying chests and leaving alone and empty-handed. What might be happening in the tower you cannot tell. Now, with a few hours to sunset, and you know, about half an hour till you arrive in Tollen itself, why don't you all describe your characters and what you're doing on the skyship at this moment?"
+        }
+      ],
+      "kind": "building",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Fausto's Tower.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0144",
+              "endUid": "u0144",
+              "quote": "In Chardon, Fausto's tower remains a blank wall"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Chardon",
+      "evidence": [
+        {
+          "startUid": "u0144",
+          "endUid": "u0144",
+          "quote": "DM: So you have a month of peace, at least—not quite a month. In Chardon, Fausto's tower remains a blank wall, impossible to perceive via scrying, but Fausto himself does travel, and yesterday afternoon Delwath spotted him, wandering the slums north of Chasa, the Chasa River, apparently looking for something or someone—"
+        }
+      ],
+      "kind": "settlement",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Chardon.md"
+    },
+    "p08": {
+      "label": "Tollen harbor",
+      "evidence": [
+        {
+          "startUid": "u0439",
+          "endUid": "u0440",
+          "quote": "DM: So as you're finishing up this conversation, Seeker is like, intensely concentrating as you begin to navigate with this broken pirate ship hitting the water and jumping a couple of times, and the ship, the the Vindristjarna—the airship lurches slightly as the rope that's connecting you together pulls taut, and you begin to navigate slowly into the Tollen harbor."
+        }
+      ],
+      "kind": "harbor",
+      "note": "The port note identifies Tollen’s harbor system; the transcript establishes no particular quay. The party stays on the floating airship for harbor business; harbor entry does not establish a temple visit.",
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Port of Tollen.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0439",
+              "endUid": "u0440",
+              "quote": "you begin to navigate slowly into the Tollen harbor."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Wendel’s Inn / Windward Sail",
+      "evidence": [
+        {
+          "startUid": "u0552",
+          "endUid": "u0555",
+          "quote": "Wellby: Yeah, I'll invite him aboard to just have the run of the place—"
+        }
+      ],
+      "kind": "inn",
+      "note": "Wendel Quickstep identifies the Windward Sail as his inn. The transcript also names both while describing Wellby’s storytelling rounds at u0830–u0836. The aunt’s tavern remains only a possible additional stop.",
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Places/The Windward Sail.md",
+      "aliases": [
+        "Wendel's Inn",
+        "Windward Sail"
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0656",
+              "endUid": "u0659",
+              "quote": "from other inns, too, in Tollen"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Cecilia’s tattoo parlor",
+      "evidence": [
+        {
+          "startUid": "u0680",
+          "endUid": "u0684",
+          "quote": "DM: Okay. So let me—let me take these briefly, in order. So, so, Kenzo, you find you find Cecilia. You you speak with her briefly."
+        }
+      ],
+      "kind": "workshop",
+      "note": "Cecilia Lister’s vault page identifies her parlor in Southbridge. This is vault orientation, not an independently narrated crossing or transcript-backed Southbridge containment claim.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0601",
+              "endUid": "u0604",
+              "quote": "So for today, Ken Kenzo is gonna go and visit Cecilia"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Magus Street",
+      "evidence": [
+        {
+          "startUid": "u0771",
+          "endUid": "u0777",
+          "quote": "DM: There's a few of these sort of grand boulevards, the—like, Scrollwright Street, where where Wellby's friend is, they sort of converge on the university—in the universe—the, like, area around the University is called Magus Street. It's—that's the district, and it's I mean, you were here before, right? It's very, you know, a a mix of these big, like, sort of formal, like buildings, but then just tight warrens of little streets, with like crappy student housing and crappy student bars, and like very much sort of Paris Latin Quarter kind of feel, right? Like, it's it's it's sort of tight and warreny in in a in a way like that, so that, like Fiskurth, and the the sort of oldest parts of Tollen are also have this same feel. But in in Magus Street it's like everything's oriented around these like grand university buildings, and and it's actually not that—like, you—"
+        }
+      ],
+      "kind": "district",
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Wards/Magus Street.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0765",
+              "endUid": "u0777",
+              "quote": "making your way through the streets of Tollen."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Parade route — original side",
+      "evidence": [
+        {
+          "startUid": "u0917",
+          "endUid": "u0920",
+          "quote": "DM: And you you presumably find somewhere along the parade route to kind of wait and see this this procession. And it starts sort of—I don't know—around noon, right? So there's prayers in the morning that you're not exactly—you don't really partake in. And—"
+        }
+      ],
+      "kind": "street-side",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0925",
+              "endUid": "u0932",
+              "quote": "the parade in Tollen."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Parade route — Aurelia’s side",
+      "evidence": [
+        {
+          "startUid": "u0974",
+          "endUid": "u0977",
+          "quote": "DM: So I mean, you see, a centaur."
+        }
+      ],
+      "kind": "street-side",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0925",
+              "endUid": "u0932",
+              "quote": "the parade in Tollen."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Party outside Guy’s shop",
+      "evidence": [
+        {
+          "startUid": "u1150",
+          "endUid": "u1160",
+          "quote": "DM: Okay, so, you— you make your way past the sort of like center of town, right up towards Scrollwright Street, where Guy's shop is, and you can see, as you approach, you can see that there's this very— There's this, like big group of people dancing in a circle, and there's a guy on like an accordion like standing—standing out playing—playing music and like..."
+        }
+      ],
+      "kind": "street-party",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u1156",
+              "endUid": "u1160",
+              "quote": "outside of Guy's shop"
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Scrollwright Street",
+      "evidence": [
+        {
+          "startUid": "u1150",
+          "endUid": "u1155",
+          "quote": "DM: Okay, so, you— you make your way past the sort of like center of town, right up towards Scrollwright Street, where Guy's shop is, and you can see, as you approach, you can see that there's this very— There's this, like big group of people dancing in a circle, and there's a guy on like an accordion like standing—standing out playing—playing music and like..."
+        }
+      ],
+      "kind": "street",
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Places/Scrollwright Street.md",
+      "aliases": [
+        "Scrollwright Lane"
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1365",
+              "endUid": "u1372",
+              "quote": "one of the like big thoroughfares through Tollen"
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "University of Tollen",
+      "evidence": [
+        {
+          "startUid": "u0771",
+          "endUid": "u0777",
+          "quote": "DM: There's a few of these sort of grand boulevards, the—like, Scrollwright Street, where where Wellby's friend is, they sort of converge on the university—in the universe—the, like, area around the University is called Magus Street. It's—that's the district, and it's I mean, you were here before, right? It's very, you know, a a mix of these big, like, sort of formal, like buildings, but then just tight warrens of little streets, with like crappy student housing and crappy student bars, and like very much sort of Paris Latin Quarter kind of feel, right? Like, it's it's it's sort of tight and warreny in in a in a way like that, so that, like Fiskurth, and the the sort of oldest parts of Tollen are also have this same feel. But in in Magus Street it's like everything's oriented around these like grand university buildings, and and it's actually not that—like, you—"
+        }
+      ],
+      "kind": "university",
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Places/University of Tollen.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1365",
+              "endUid": "u1372",
+              "quote": "Magus Street is where the university is"
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Front courtyard",
+      "evidence": [
+        {
+          "startUid": "u1373",
+          "endUid": "u1376",
+          "quote": "DM: Like, you know, this is like the scene for the for the first night. And as you, as you approach just past sunset, like this big courtyard in front of the one of the main halls of the university is completely lit up like magic lamps everywhere, like 20 sort of globes of light just floating at different heights in the sky, all different colors."
+        }
+      ],
+      "kind": "courtyard",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u1373",
+              "endUid": "u1376",
+              "quote": "this big courtyard in front of the one of the main halls of the university"
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Interior cloister courtyard",
+      "evidence": [
+        {
+          "startUid": "u1424",
+          "endUid": "u1430",
+          "quote": "DM: Thomas Hawke is is impossible to miss. There's— there's a small stage set up in a sort of interior courtyard somewhere on the University campus. And this courtyard is is packed, right? It's like the interiors of a cloisters, that sort of thing. It's like crammed with people. And and Thomas is standing. He's, you know, maybe maybe early thirties sort of very nicely styled wavy brown hair, elegant face, wearing, you know, extremely nice clothes, and and this elaborate sort of elaborate costume. Not—he is not wearing—he's wearing—he's wearing a very subtle mask, right? He's just like right around his eyes, and so you can see most of his face clearly—doesn't—clearly wants to be seen."
+        }
+      ],
+      "kind": "courtyard",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u1424",
+              "endUid": "u1430",
+              "quote": "a sort of interior courtyard somewhere on the University campus."
+            }
+          ]
+        }
+      ]
+    },
+    "p19": {
+      "label": "Fire and Stone",
+      "evidence": [
+        {
+          "startUid": "u0565",
+          "endUid": "u0566",
+          "quote": "DM: A message from Umli, dated December 26th, saying she's fascinated by the metal that Delwath left, and has a number of ideas. Delwath and his companions, if they desire, are welcome to meet her any Tuesday afternoon at the Fire and Stone. She does not care for the Pyravela celebrations, and will not be participating."
+        }
+      ],
+      "kind": "tavern",
+      "note": "The consultation venue is inferred from Umli’s Tuesday-afternoon invitation at u0565–u0566 and the accepted Tuesday visit at u1762–u1764. The final visit narration does not repeat the venue. Its proximity to the university comes from the tavern’s vault note, not additional played travel.",
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Places/The Fire and Stone.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0565",
+              "endUid": "u0566",
+              "quote": "meet her any Tuesday afternoon at the Fire and Stone."
+            }
+          ],
+          "note": "The invitation concerns the party’s Tollen business; the later consultation accepts that visit."
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0110",
+        "endUid": "u0112"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "The four traveling PCs are aboard the skyship near Tollen, above the cold Vostok landscape.",
+      "evidence": [
+        {
+          "startUid": "u0110",
+          "endUid": "u0112",
+          "quote": "DM: I put those on the calendar. Let's let's jump back in now to the cold, snowy forests of Vostok, as the winter sun sinks towards the horizon a short distance out from Tollen."
+        },
+        {
+          "startUid": "u0150",
+          "endUid": "u0153",
+          "quote": "DM: Few days he seems to spend holed up in his tower. With some careful scrying, you manage to get a few glimpses of the exterior. It seems to be receiving visitors: 4 people you don't recognize entering with servants carrying chests and leaving alone and empty-handed. What might be happening in the tower you cannot tell. Now, with a few hours to sunset, and you know, about half an hour till you arrive in Tollen itself, why don't you all describe your characters and what you're doing on the skyship at this moment?"
+        },
+        {
+          "startUid": "u0178",
+          "endUid": "u0186",
+          "quote": "Delwath: Are we—like, we're approaching Tollen, like we can see it?"
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "near",
+          "target": "p03"
+        },
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p04"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0113",
+        "endUid": "u0115"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "Travel by airship from Pyhlla to Tollen harbor over roughly three days, towing the wrecked pirate ship on the final approach.",
+      "evidence": [
+        {
+          "startUid": "u0113",
+          "endUid": "u0115",
+          "quote": "DM: 3 days ago, on December 25th, you left Pyhlla, bidding fond farewell to the grateful Skaer as they prepared to mourn the dead and pray for Kaikkea's guidance, and choosing a new priest of the waters to repair and re-sanctify the temple. As thanks for your aid, the Skaer have gifted you with 5 pounds of good unworked Skaer steel, a full larder of dried fish, pickled kelp, fresh bread, smoked lamb and yogurt; four large pearls, one for each of you; and a piece of [garbled] blessed oyster shell which allows you to cast the divination spell once."
+        },
+        {
+          "startUid": "u0206",
+          "endUid": "u0207",
+          "quote": "Kenzo: How long have we been traveling on the airship back?"
+        },
+        {
+          "startUid": "u0219",
+          "endUid": "u0223",
+          "quote": "Kenzo: Oh, all while wearing a a hot red Tollen cloak which he has traded for when we are in Tollen—"
+        },
+        {
+          "startUid": "u0439",
+          "endUid": "u0440",
+          "quote": "DM: So as you're finishing up this conversation, Seeker is like, intensely concentrating as you begin to navigate with this broken pirate ship hitting the water and jumping a couple of times, and the ship, the the Vindristjarna—the airship lurches slightly as the rope that's connecting you together pulls taut, and you begin to navigate slowly into the Tollen harbor."
+        }
+      ],
+      "from": "p02",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "fly",
+      "vehicle": "p01",
+      "duration": {
+        "value": 3,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM’s repeated voyage estimate; later narration establishes harbor entry."
+      }
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0144",
+        "endUid": "u0148"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Through scrying during the journey, Delwath sees Fausto in Chardon’s north-bank slums and later leading scarred men toward the tower.",
+      "evidence": [
+        {
+          "startUid": "u0127",
+          "endUid": "u0128",
+          "quote": "DM: Elsewhere, as you travel, spending your time copying out numbers in various orders and using a lot of Seeker's parchment to do so, news has trickled in, as well from scrying and from messages from Sending:"
+        },
+        {
+          "startUid": "u0144",
+          "endUid": "u0144",
+          "quote": "DM: So you have a month of peace, at least—not quite a month. In Chardon, Fausto's tower remains a blank wall, impossible to perceive via scrying, but Fausto himself does travel, and yesterday afternoon Delwath spotted him, wandering the slums north of Chasa, the Chasa River, apparently looking for something or someone—"
+        },
+        {
+          "startUid": "u0146",
+          "endUid": "u0148",
+          "quote": "DM: What? He was wandering where? North on the—like, in the in the slums of Chardon, north river bank, where Kenzo Kenzo grew up. You see him again later, leading a pair of seemingly sickly and drunken men, their arms scarred with purple lines towards his tower."
+        }
+      ],
+      "place": "p05",
+      "mode": "remote",
+      "observerPlace": "p01",
+      "observedActors": [
+        "Fausto"
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0150",
+        "endUid": "u0153"
+      },
+      "actors": [
+        "unspecified scrying observers"
+      ],
+      "reading": "Careful scrying reveals the exterior of Fausto’s tower and visitors, without showing the interior.",
+      "evidence": [
+        {
+          "startUid": "u0127",
+          "endUid": "u0128",
+          "quote": "DM: Elsewhere, as you travel, spending your time copying out numbers in various orders and using a lot of Seeker's parchment to do so, news has trickled in, as well from scrying and from messages from Sending:"
+        },
+        {
+          "startUid": "u0150",
+          "endUid": "u0153",
+          "quote": "DM: Few days he seems to spend holed up in his tower. With some careful scrying, you manage to get a few glimpses of the exterior. It seems to be receiving visitors: 4 people you don't recognize entering with servants carrying chests and leaving alone and empty-handed. What might be happening in the tower you cannot tell. Now, with a few hours to sunset, and you know, about half an hour till you arrive in Tollen itself, why don't you all describe your characters and what you're doing on the skyship at this moment?"
+        }
+      ],
+      "place": "p06",
+      "mode": "remote",
+      "observerPlace": "p01"
+    },
+    {
+      "id": "l05",
+      "type": "presence",
+      "source": {
+        "startUid": "u0457",
+        "endUid": "u0459"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "The airship is anchored above the harbor while customs and plans for the wreck are discussed.",
+      "evidence": [
+        {
+          "startUid": "u0450",
+          "endUid": "u0455",
+          "quote": "DM: The the harbor itself is is full of ships, and there's lanterns hanging off the ships, and and you can see, you know, you're not quite—I mean, you're unexpected because you didn't tell anybody would be back. But at the same time the like, you know, battery and guards at the front of the at the front of this—like, guard the entrance to the harbor recognize you, and and the launch comes out, and you you conduct your business. They do ask if you have any—if you're bringing in like, looking at the clearly sort of wrecked merchant ship, ask if you're bringing anything for sale: trade goods, timber, raw metal, fine art, magic items."
+        },
+        {
+          "startUid": "u0457",
+          "endUid": "u0459",
+          "quote": "Seeker: Yes. We're anchoring the boat using the immovable rod."
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p08"
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0654",
+        "endUid": "u0659"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby returns to Wendel’s inn and makes storytelling rounds among halfling inns in Tollen.",
+      "evidence": [
+        {
+          "startUid": "u0654",
+          "endUid": "u0655",
+          "quote": "Wellby: The Wellby goes back to the inn, and it's like 5 o'clock-ish when we get in."
+        },
+        {
+          "startUid": "u0656",
+          "endUid": "u0659",
+          "quote": "Wellby: So Wellby spends like the whole evening gathering the halfling storytellers there, and from other inns, too, in Tollen, if I can find them, and any of my relatives and friends and relations if I can find them."
+        },
+        {
+          "startUid": "u0830",
+          "endUid": "u0836",
+          "quote": "DM: Okay, so, let's see. Wellby, are you—what else? You're you're traveling around to a couple of different halfling inns, you know, speaking to speaking to the storytellers that tend to gather at the Windward Sail at at Wendel's Inn. Also perhaps traveling out to your aunt's tavern. Just kind of spreading the word. Anything else that you are hoping to do?"
+        }
+      ],
+      "from": "p01",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "The Windward Sail and Wendel’s Inn are one verified identity. Other inn stops are not individually established; the aunt’s tavern is explicitly tentative."
+    },
+    {
+      "id": "l07",
+      "type": "presence",
+      "source": {
+        "startUid": "u0669",
+        "endUid": "u0679"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker remains aboard to work on party games, cryptanalysis and the binding stones while companions run errands.",
+      "evidence": [
+        {
+          "startUid": "u0669",
+          "endUid": "u0670",
+          "quote": "Seeker: Well, somebody's gotta stay at the ship, obviously, cause everyone is gallivanting around. So I stay at the ship. And—"
+        },
+        {
+          "startUid": "u0672",
+          "endUid": "u0679",
+          "quote": "Seeker: In between cryptanalysis sessions, I am assembling elaborate stone mechanical contraptions to function as games of chance, sort of like a inventing the concept of pinball, with like a 30 foot long ramp and mechanical flippers that you can knock the ball around. Sort of sequences of cups of different sizes to try to toss something into."
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p08"
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0680",
+        "endUid": "u0684"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo reaches Cecilia for a brief visit about Wellby’s tattoos, the festival and Ursk contacts.",
+      "evidence": [
+        {
+          "startUid": "u0601",
+          "endUid": "u0614",
+          "quote": "Kenzo: So for today, Ken Kenzo is gonna go and visit Cecilia, the the tattoo artist. Thank them. Let them know that—actually, Wellby, if you wanna come with me, do you wanna come with me to get the—cause it's 5 o'clock, but that she's—she works long hours. She'll be there tonight. Do you wanna get the work done today or another time?"
+        },
+        {
+          "startUid": "u0680",
+          "endUid": "u0684",
+          "quote": "DM: Okay. So let me—let me take these briefly, in order. So, so, Kenzo, you find you find Cecilia. You you speak with her briefly."
+        },
+        {
+          "startUid": "u0685",
+          "endUid": "u0703",
+          "quote": "Kenzo: I thank her for how dope the work is, and kind of give her a little—little—some demonstrations of like when I'm doing the dark—like, now that I'm like really practiced in it, showing her like kind of what happens when I do the darkvision kind of just give her a flavor of just how awesome it looks like, so she can appreciate."
+        }
+      ],
+      "from": "p01",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l09",
+      "type": "presence",
+      "source": {
+        "startUid": "u0727",
+        "endUid": "u0749"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath wanders through Tollen spreading news of the airship party.",
+      "evidence": [
+        {
+          "startUid": "u0630",
+          "endUid": "u0636",
+          "quote": "Delwath: And I also am going to— I wanna like just go through—I don't know. Find a nice place to eat, or just kind of parade around town a little bit and let it be known that we're having a party tomorrow. Like, we're back, you know. You saw the airship before."
+        },
+        {
+          "startUid": "u0727",
+          "endUid": "u0734",
+          "quote": "DM: I mean, you—you—you spread the word. You you definitely get the sense like sort of wandering around town kind of talking to people like there's a bit of this odd, like, \"I didn't—what are the—like, thi— This isn't your holiday, like, where are the—why are the elves hosting a party? Like, Melindir never hosts a party.\"—"
+        },
+        {
+          "startUid": "u0747",
+          "endUid": "u0749",
+          "quote": "DM: But it's very—but the the sense Delwath gets as he's spreading the word is that like, people are sort of like, Delwath doesn't really know that like holiday, right? So like, people just get this like odd reaction, like, \"This doesn't sound like a Pyravela party, right? Like, it's like you're missing the sort of key themes of the holiday a little bit.\" But people are still quite curious, so it seems likely you'll get some sort of turnout, anyway."
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u0765",
+        "endUid": "u0782"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "After Cecilia’s visit, Kenzo makes his way through Tollen to the university district, Magus Street, and locates Escobar.",
+      "evidence": [
+        {
+          "startUid": "u0715",
+          "endUid": "u0718",
+          "quote": "DM: And after that, Kenzo tries to find Escobar. But we can come back. Yeah. So, Delwath, make—make a a persuasion. Just roll a d20, make a charisma check."
+        },
+        {
+          "startUid": "u0765",
+          "endUid": "u0777",
+          "quote": "DM: Yeah. So I mean, you know, Kenzo. And so also, like as you're, you know, you're walking up to the university like you're sort of making your way through the streets of Tollen. I mean, Delwath stands out in a way that Kenzo doesn't."
+        },
+        {
+          "startUid": "u0778",
+          "endUid": "u0782",
+          "quote": "DM: You ask around a little bit. Escobar is is super well known, like everybody knows him. And it's pretty easy to pick out the students. They're the ones who are like nobody else is eating at the crappy student bars, right? Like, so. Yeah. Here, something like this."
+        },
+        {
+          "startUid": "u0783",
+          "endUid": "u0793",
+          "quote": "DM: There is Escobar, tattooed all along his arms, wearing, you know, nice clothes wearing not fancy clothes, but like just sort of colorful and and neatly tailored clothes. Young guy, pretty handsome. You—you find him just leaving dinner, because by now it's like 7, 30 or something and heading to meet up with a few other students who are putting together one of the Pyravela parties that's happening at the university."
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u0847",
+        "endUid": "u0852"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "The errand groups return to the airship for the evening reunion and overnight.",
+      "evidence": [
+        {
+          "startUid": "u0847",
+          "endUid": "u0852",
+          "quote": "As the night concludes, we all return to your airship"
+        },
+        {
+          "startUid": "u0879",
+          "endUid": "u0879",
+          "quote": "DM: Right now, in game, it's it's the evening of the 28th. You've all done your errands and come back to the ship. Okay."
+        }
+      ],
+      "from": "p03",
+      "to": "p01",
+      "completion": "arrived",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p08"
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u0917",
+        "endUid": "u0920"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "The next day, the party finds a position beside the parade route, without attending the morning prayers.",
+      "evidence": [
+        {
+          "startUid": "u0897",
+          "endUid": "u0902",
+          "quote": "Delwath: Okay, that's kind of what we're gonna do right?"
+        },
+        {
+          "startUid": "u0917",
+          "endUid": "u0920",
+          "quote": "DM: And you you presumably find somewhere along the parade route to kind of wait and see this this procession. And it starts sort of—I don't know—around noon, right? So there's prayers in the morning that you're not exactly—you don't really partake in. And—"
+        }
+      ],
+      "from": "p01",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u0974",
+        "endUid": "u0986"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo"
+      ],
+      "reading": "Delwath crosses by Misty Step and Kenzo jumps to Aurelia’s side of the parade to speak with her.",
+      "evidence": [
+        {
+          "startUid": "u0974",
+          "endUid": "u0977",
+          "quote": "DM: So I mean, you see, a centaur."
+        },
+        {
+          "startUid": "u0982",
+          "endUid": "u0986",
+          "quote": "DM: Oftentimes many groups of centaurs migrate, right? So there they travel in these herds, in these migratory routes across Taelgar. The the the centaur here, the woman you meet is not—she's not part of one of those migratory communities. Like, she lives in Tollen, right? She's not like—she's lived here for 20 years. It's been good to her."
+        },
+        {
+          "startUid": "u1092",
+          "endUid": "u1095",
+          "quote": "Kenzo jumped; Delwath misty-stepped."
+        }
+      ],
+      "from": "p12",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "Misty Step / jump"
+    },
+    {
+      "id": "l14",
+      "type": "presence",
+      "source": {
+        "startUid": "u1099",
+        "endUid": "u1107"
+      },
+      "actors": [
+        "Wellby",
+        "Seeker"
+      ],
+      "reading": "Wellby and Seeker remain on the original side while Kenzo reports on the Aurelia conversation telepathically.",
+      "evidence": [
+        {
+          "startUid": "u1099",
+          "endUid": "u1103",
+          "quote": "Wellby on the other side of the street"
+        },
+        {
+          "startUid": "u1105",
+          "endUid": "u1107",
+          "quote": "Misty Step back next to Wellby and Seeker"
+        }
+      ],
+      "place": "p12"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1105",
+        "endUid": "u1107"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath says goodbye to Aurelia and Misty Steps back beside Wellby and Seeker.",
+      "evidence": [
+        {
+          "startUid": "u1105",
+          "endUid": "u1107",
+          "quote": "Misty Step back next to Wellby and Seeker"
+        }
+      ],
+      "from": "p13",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "Misty Step",
+      "note": "Kenzo’s return crossing is not separately narrated; the subsequent shared arrival at Guy’s party establishes reunion."
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u1150",
+        "endUid": "u1160"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "The party walks through the center of town to the Isinguese celebration outside Guy’s shop on Scrollwright Street.",
+      "evidence": [
+        {
+          "startUid": "u1124",
+          "endUid": "u1125",
+          "quote": "DM: So where are you heading? Are you gonna—you're gonna go to the Isingue party? And as you walk there, what—how are you all dressed? What are you all wearing?"
+        },
+        {
+          "startUid": "u1150",
+          "endUid": "u1155",
+          "quote": "DM: Okay, so, you— you make your way past the sort of like center of town, right up towards Scrollwright Street, where Guy's shop is, and you can see, as you approach, you can see that there's this very— There's this, like big group of people dancing in a circle, and there's a guy on like an accordion like standing—standing out playing—playing music and like..."
+        },
+        {
+          "startUid": "u1156",
+          "endUid": "u1160",
+          "quote": "DM: Scattered around the beginning of the of the or the sort of edge of this part of Scrollwright Street, you can see that there's this like outside of Guy's shop, there's—there's this like twisting sort of sculpture of a of like a two-faced jester, basically, which is a depiction of the Wyrdling that you see before that's made out of just like like branches that have been softened and sort of woven into like this elaborate design. So it's sort of hollow in the middle, right, but like shaped by bending thin pieces of wood. And set on its head is this crown, like—"
+        },
+        {
+          "startUid": "u1169",
+          "endUid": "u1184",
+          "quote": "DM: And Guy, Guy sees you approaching, and and you know, normally he's a pretty sort of staid sort of laid back sort of guy, right? Like, he gets excited about his maps, but like he just kind of keeps his head down in the shop. He looks like 10 years younger than what you're used to seeing him as—though he sort of waves you over, says, \"Wellby,\" and you— \"Hey, elves!\" Join us! There's another elf. There's there's at least 2. Can't be \"the Elf.\""
+        }
+      ],
+      "from": "p12",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Pass the center of town on the walk to Scrollwright Street."
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u1365",
+        "endUid": "u1376"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "Leaving Guy’s party around dusk, the group walks to the university’s front courtyard just past sunset.",
+      "evidence": [
+        {
+          "startUid": "u1357",
+          "endUid": "u1364",
+          "quote": "DM: Time passes, and, like, chill in this little street party, dancing, eating. Sun begins to drift lower in the sky. Comes towards around dusk. What do you want to do next?"
+        },
+        {
+          "startUid": "u1365",
+          "endUid": "u1372",
+          "quote": "DM: Okay. So you know, you wander through the university—is not actually that far from here, right? So Magus Street—or Magus Street is where the university is, in the Scrollwright Lane connects Magus Street to a bunch of the temples. It is one of the like big thoroughfares through Tollen, and and you sort of wander, you know, there's music, there's like, you know, you know, still, people sort of dancing, and although people are starting to, like—you get the sense that the first night people don't necessarily stay up all night, like, it—you know, things are—as the sun sets, things are beginning to wind down a little bit, and a lot of the flow of people seems to be moving towards the University now, like..."
+        },
+        {
+          "startUid": "u1373",
+          "endUid": "u1376",
+          "quote": "DM: Like, you know, this is like the scene for the for the first night. And as you, as you approach just past sunset, like this big courtyard in front of the one of the main halls of the university is completely lit up like magic lamps everywhere, like 20 sort of globes of light just floating at different heights in the sky, all different colors."
+        },
+        {
+          "startUid": "u1417",
+          "endUid": "u1423",
+          "quote": "DM: Yeah. So I mean, you spend a little while—you spend, you know, an hour or 2 just kind of mingling through the party. And you eventually you you sort of wind your way through the university a little bit, right? It's all this, you know, like everywhere there are magic lights. The whole like district—Magus Street itself is like lit up in these magic lights. There's illusions, right? You see, there's dancing lights. There's lights that float around multi-colored lights that will chase you and then explode in a flash of reds and greens. And there's you know, as you sort of meander through like maybe even a little bit more—"
+        }
+      ],
+      "from": "p14",
+      "to": "p17",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u1424",
+        "endUid": "u1430"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "After mingling, the group reaches an interior university courtyard, watches Thomas’s performance and speaks with him there.",
+      "evidence": [
+        {
+          "startUid": "u1417",
+          "endUid": "u1423",
+          "quote": "DM: Yeah. So I mean, you spend a little while—you spend, you know, an hour or 2 just kind of mingling through the party. And you eventually you you sort of wind your way through the university a little bit, right? It's all this, you know, like everywhere there are magic lights. The whole like district—Magus Street itself is like lit up in these magic lights. There's illusions, right? You see, there's dancing lights. There's lights that float around multi-colored lights that will chase you and then explode in a flash of reds and greens. And there's you know, as you sort of meander through like maybe even a little bit more—"
+        },
+        {
+          "startUid": "u1424",
+          "endUid": "u1430",
+          "quote": "DM: Thomas Hawke is is impossible to miss. There's— there's a small stage set up in a sort of interior courtyard somewhere on the University campus. And this courtyard is is packed, right? It's like the interiors of a cloisters, that sort of thing. It's like crammed with people. And and Thomas is standing. He's, you know, maybe maybe early thirties sort of very nicely styled wavy brown hair, elegant face, wearing, you know, extremely nice clothes, and and this elaborate sort of elaborate costume. Not—he is not wearing—he's wearing—he's wearing a very subtle mask, right? He's just like right around his eyes, and so you can see most of his face clearly—doesn't—clearly wants to be seen."
+        },
+        {
+          "startUid": "u1456",
+          "endUid": "u1463",
+          "quote": "DM: And you sort of watch as as the monologue comes to a close, and there's cheers, and and you know, exclamations. And he bows, and he waves to the crowd, you know, tells everybody, \"Calm down, calm down. There'll be more later.\" Needs to refresh his voice, you know, begins to just sort of go and mingle a little bit."
+        },
+        {
+          "startUid": "u1474",
+          "endUid": "u1478",
+          "quote": "DM: And he—he sort of—he's meandering through the crowd, and he's clearly like sort of approaching you. And he he gives you a little bow, and he he looks at all of you sort of taking you in, says, in a sort of flowery, elegant voice, \"An unusual crowd for a Pyravela evening. What brings you out here tonight?\""
+        }
+      ],
+      "from": "p17",
+      "to": "p18",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u1762",
+        "endUid": "u1764"
+      },
+      "actors": [
+        "Delwath",
+        "unspecified companions"
+      ],
+      "reading": "On Tuesday, Delwath and companions visit Umli, bringing Skaer steel. The Fire and Stone is the inferred invitation venue.",
+      "evidence": [
+        {
+          "startUid": "u0565",
+          "endUid": "u0568",
+          "quote": "DM: A message from Umli, dated December 26th, saying she's fascinated by the metal that Delwath left, and has a number of ideas. Delwath and his companions, if they desire, are welcome to meet her any Tuesday afternoon at the Fire and Stone. She does not care for the Pyravela celebrations, and will not be participating."
+        },
+        {
+          "startUid": "u1762",
+          "endUid": "u1764",
+          "quote": "DM: So it's—so now, Tuesday, you go—you go to visit—she, like, is strangely—is, like, super excited to see you, like, you haven't seen her show emotion."
+        }
+      ],
+      "from": null,
+      "to": "p19",
+      "completion": "arrived",
+      "note": "Delwath is explicit and says “we” bring the steel. The scene does not independently identify every companion; speaking elsewhere in the exchange is not used as proof of physical attendance."
+    }
+  ]
+}

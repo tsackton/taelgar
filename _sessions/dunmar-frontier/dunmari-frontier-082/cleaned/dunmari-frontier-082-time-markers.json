@@ -1,0 +1,680 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-082",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-082/cleaned/dunmari-frontier-082-session.yaml",
+    "sessionYamlSha256": "eb168751186a9a851d428decfe79a93e1f94e01b7cf6194ed2577bab6a113688",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-082/cleaned/dunmari-frontier-082-transcript.md",
+    "transcriptSha256": "e11b9d8ed90703f7aa0d457b60fba2ecc8e554784164b4b4f216c5dfe1a65642",
+    "yamlDates": {
+      "start": "1748-12-25",
+      "end": "1748-12-30"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0110",
+        "endUid": "u0112"
+      },
+      "reading": "The opening returns to the skyship near Tollen with the winter sun sinking; the fuller description places arrival about half an hour away, a few hours before sunset.",
+      "evidence": [
+        {
+          "startUid": "u0110",
+          "endUid": "u0112",
+          "quote": "DM: I put those on the calendar. Let's let's jump back in now to the cold, snowy forests of Vostok, as the winter sun sinks towards the horizon a short distance out from Tollen."
+        },
+        {
+          "startUid": "u0150",
+          "endUid": "u0153",
+          "quote": "Now, with a few hours to sunset, and you know, about half an hour till you arrive in Tollen itself, why don't you all describe your characters and what you're doing on the skyship at this moment?"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated clock or relative time; year inherited from session YAML where supplied.",
+        "partOfDay": "afternoon",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 28
+        }
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0113",
+        "endUid": "u0115"
+      },
+      "reading": "The party left Pyhlla on December 25 and has spent roughly three days traveling by skyship to Tollen, reaching the harbor on December 28.",
+      "evidence": [
+        {
+          "startUid": "u0113",
+          "endUid": "u0115",
+          "quote": "3 days ago, on December 25th, you left Pyhlla"
+        },
+        {
+          "startUid": "u0206",
+          "endUid": "u0207",
+          "quote": "Like 3 days, roughly."
+        },
+        {
+          "startUid": "u0439",
+          "endUid": "u0440",
+          "quote": "DM: So as you're finishing up this conversation, Seeker is like, intensely concentrating as you begin to navigate with this broken pirate ship hitting the water and jumping a couple of times, and the ship, the the Vindristjarna—the airship lurches slightly as the rope that's connecting you together pulls taut, and you begin to navigate slowly into the Tollen harbor."
+        },
+        {
+          "startUid": "u0577",
+          "endUid": "u0579",
+          "quote": "today is the 28th."
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "Narrated clock or relative time; year inherited from session YAML where supplied.",
+          "date": {
+            "year": 1748,
+            "month": 12,
+            "day": 25
+          }
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "Narrated clock or relative time; year inherited from session YAML where supplied.",
+          "date": {
+            "year": 1748,
+            "month": 12,
+            "day": 28
+          },
+          "partOfDay": "near sunset"
+        }
+      },
+      "duration": {
+        "value": 3,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "The departure date and three-day montage are stated; the later December 28 clock confirms the endpoint."
+      },
+      "dateBoundaries": 3,
+      "completion": "completed",
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0144",
+        "endUid": "u0148"
+      },
+      "reading": "During the voyage, Delwath scried Fausto in Chardon yesterday afternoon, then saw him leading two scarred men toward the tower later.",
+      "evidence": [
+        {
+          "startUid": "u0144",
+          "endUid": "u0144",
+          "quote": "DM: So you have a month of peace, at least—not quite a month. In Chardon, Fausto's tower remains a blank wall, impossible to perceive via scrying, but Fausto himself does travel, and yesterday afternoon Delwath spotted him, wandering the slums north of Chasa, the Chasa River, apparently looking for something or someone—"
+        },
+        {
+          "startUid": "u0146",
+          "endUid": "u0148",
+          "quote": "DM: What? He was wandering where? North on the—like, in the in the slums of Chardon, north river bank, where Kenzo Kenzo grew up. You see him again later, leading a pair of seemingly sickly and drunken men, their arms scarred with purple lines towards his tower."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated clock or relative time; year inherited from session YAML where supplied.",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 27
+        },
+        "partOfDay": "afternoon"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "relations": [
+        {
+          "type": "during",
+          "target": "t02"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0187",
+        "endUid": "u0191"
+      },
+      "reading": "Delwath’s lynx gather fish, then return from the shore with other food a couple of hours later, during the approach preparations.",
+      "evidence": [
+        {
+          "startUid": "u0187",
+          "endUid": "u0191",
+          "quote": "Delwath: But as we approach Tollen, you see he mutters a few sort of prayers under his breath and fingers the feather that he wears in his hair, and out from his shield spring these 2 lynx that kind of float through the air, and they fly down into the ocean and come back with fish. And then a couple of hours later, they fly over the—you know, the part of the shore, and come back with honey and—and, you know, some grains and and things. Then—"
+        }
+      ],
+      "duration": {
+        "text": "a couple of hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Delwath narrates the two completed gathering trips and the interval between them."
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t02"
+        }
+      ],
+      "note": "The character introduction describes voyage preparations; this interval is not added after the opening half-hour arrival forecast."
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0378",
+        "endUid": "u0378"
+      },
+      "reading": "The approach conversation has reached a point about ten minutes before docking in Tollen.",
+      "evidence": [
+        {
+          "startUid": "u0378",
+          "endUid": "u0378",
+          "quote": "So you have like, 10 min till you dock in Tollen."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated clock or relative time; year inherited from session YAML where supplied.",
+        "relative": {
+          "relation": "before",
+          "reference": "t06",
+          "anchor": "docking in Tollen",
+          "offset": {
+            "value": 10,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "DM’s remaining-time estimate"
+          }
+        }
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0441",
+        "endUid": "u0445"
+      },
+      "reading": "The party enters Tollen near sunset on December 28; the subsequent mail-and-planning exchange gives the current clock as about 5 p.m.",
+      "evidence": [
+        {
+          "startUid": "u0441",
+          "endUid": "u0445",
+          "quote": "It is near sunset."
+        },
+        {
+          "startUid": "u0577",
+          "endUid": "u0579",
+          "quote": "today is the 28th."
+        },
+        {
+          "startUid": "u0597",
+          "endUid": "u0600",
+          "quote": "It's like 5 o'clock. It's like dinner time right now."
+        },
+        {
+          "startUid": "u0628",
+          "endUid": "u0629",
+          "quote": "Monday, Tuesday, Wednesday—"
+        },
+        {
+          "startUid": "u0710",
+          "endUid": "u0710",
+          "quote": "Today's Monday."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated clock or relative time; year inherited from session YAML where supplied.",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 28
+        },
+        "clock": "17:00",
+        "partOfDay": "near sunset"
+      },
+      "note": "Weekday labels are unresolved: the DM’s Monday–Wednesday festival sequence, beginning tomorrow, implies Sunday for this evening, whereas Delwath later calls today Monday. The spoken date 28 and subsequent day transitions remain explicit; no weekday-based date normalization is applied."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0654",
+        "endUid": "u0659"
+      },
+      "reading": "Wellby begins his inn rounds around 5 p.m. and spends the evening gathering halfling storytellers and recounting the scepter’s destruction.",
+      "evidence": [
+        {
+          "startUid": "u0654",
+          "endUid": "u0655",
+          "quote": "Wellby: The Wellby goes back to the inn, and it's like 5 o'clock-ish when we get in."
+        },
+        {
+          "startUid": "u0656",
+          "endUid": "u0659",
+          "quote": "Wellby: So Wellby spends like the whole evening gathering the halfling storytellers there, and from other inns, too, in Tollen, if I can find them, and any of my relatives and friends and relations if I can find them."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "Narrated clock or relative time; year inherited from session YAML where supplied.",
+          "date": {
+            "year": 1748,
+            "month": 12,
+            "day": 28
+          },
+          "clock": "17:00"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "Narrated clock or relative time; year inherited from session YAML where supplied.",
+          "date": {
+            "year": 1748,
+            "month": 12,
+            "day": 28
+          },
+          "partOfDay": "evening"
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0783",
+        "endUid": "u0793"
+      },
+      "reading": "Kenzo finds Escobar leaving dinner around 7:30 p.m., before the student goes to help prepare a university party.",
+      "evidence": [
+        {
+          "startUid": "u0783",
+          "endUid": "u0793",
+          "quote": "DM: There is Escobar, tattooed all along his arms, wearing, you know, nice clothes wearing not fancy clothes, but like just sort of colorful and and neatly tailored clothes. Young guy, pretty handsome. You—you find him just leaving dinner, because by now it's like 7, 30 or something and heading to meet up with a few other students who are putting together one of the Pyravela parties that's happening at the university."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated clock or relative time; year inherited from session YAML where supplied.",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 28
+        },
+        "clock": "19:30"
+      }
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u0847",
+        "endUid": "u0852"
+      },
+      "reading": "The others return to the airship as the night concludes; the DM explicitly confirms this is still the evening of December 28.",
+      "evidence": [
+        {
+          "startUid": "u0847",
+          "endUid": "u0852",
+          "quote": "As the night concludes, we all return to your airship"
+        },
+        {
+          "startUid": "u0879",
+          "endUid": "u0879",
+          "quote": "DM: Right now, in game, it's it's the evening of the 28th. You've all done your errands and come back to the ship. Okay."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated clock or relative time; year inherited from session YAML where supplied.",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 28
+        },
+        "partOfDay": "evening"
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u0864",
+        "endUid": "u0865"
+      },
+      "reading": "The party turns in for the night of December 28 and play advances to the next clear, cold morning, December 29.",
+      "evidence": [
+        {
+          "startUid": "u0864",
+          "endUid": "u0865",
+          "quote": "DM: And you all turn in for the night. Make—make plans for the morning. What do you want to do the next day?"
+        },
+        {
+          "startUid": "u0879",
+          "endUid": "u0879",
+          "quote": "DM: Right now, in game, it's it's the evening of the 28th. You've all done your errands and come back to the ship. Okay."
+        },
+        {
+          "startUid": "u0897",
+          "endUid": "u0902",
+          "quote": "The next morning dawn's cold, but clear and sunny."
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "Narrated clock or relative time; year inherited from session YAML where supplied.",
+          "date": {
+            "year": 1748,
+            "month": 12,
+            "day": 28
+          },
+          "partOfDay": "night"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "Narrated clock or relative time; year inherited from session YAML where supplied.",
+          "date": {
+            "year": 1748,
+            "month": 12,
+            "day": 29
+          },
+          "partOfDay": "morning"
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u0917",
+        "endUid": "u0920"
+      },
+      "reading": "The party waits beside the parade route; the procession starts around noon on December 29, after morning prayers they did not attend.",
+      "evidence": [
+        {
+          "startUid": "u0917",
+          "endUid": "u0920",
+          "quote": "DM: And you you presumably find somewhere along the parade route to kind of wait and see this this procession. And it starts sort of—I don't know—around noon, right? So there's prayers in the morning that you're not exactly—you don't really partake in. And—"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated clock or relative time; year inherited from session YAML where supplied.",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 29
+        },
+        "clock": "12:00",
+        "partOfDay": "noon"
+      }
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u0950",
+        "endUid": "u0953"
+      },
+      "reading": "The parade passes the party for about an hour, bringing its noon opening to roughly 1 p.m.",
+      "evidence": [
+        {
+          "startUid": "u0950",
+          "endUid": "u0953",
+          "quote": "DM: This parade goes on for for a while, for an hour or so, passing you by, and as the parade passes, you know, people sort of break up in clusters. And and you actually notice now that, like, a lot of people are wearing costumes of various kinds, mostly masks."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM narrates the parade passing for an hour or so."
+      },
+      "time": {
+        "precision": "approximate",
+        "basis": "Around noon plus the narrated hour of parade; year inherited from YAML.",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 29
+        },
+        "clock": "13:00",
+        "relative": {
+          "relation": "after",
+          "reference": "t11",
+          "offset": {
+            "value": 1,
+            "unit": "hour",
+            "precision": "approximate",
+            "basis": "Parade duration"
+          }
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1346",
+        "endUid": "u1351"
+      },
+      "reading": "Hugo continues his theological talk for about ten more minutes before the party manages to wind him down.",
+      "evidence": [
+        {
+          "startUid": "u1346",
+          "endUid": "u1351",
+          "quote": "DM: He goes on for like 10 more minutes, as you slowly sort of like, you know, wind him down a little bit. I do wish you luck in your journey to Ursk. It would be quite interesting—read your notes if you find anything—you make it there."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Explicit additional lecture time during the Isinguese party."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1357",
+        "endUid": "u1361"
+      },
+      "reading": "After time spent dancing and eating at Guy’s street party, the sun drops toward dusk on December 29.",
+      "evidence": [
+        {
+          "startUid": "u1357",
+          "endUid": "u1361",
+          "quote": "DM: Time passes, and, like, chill in this little street party, dancing, eating. Sun begins to drift lower in the sky. Comes towards around dusk. What do you want to do next?"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated clock or relative time; year inherited from session YAML where supplied.",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 29
+        },
+        "partOfDay": "towards dusk"
+      }
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1373",
+        "endUid": "u1376"
+      },
+      "reading": "The party approaches the university’s brightly lit front courtyard just after sunset.",
+      "evidence": [
+        {
+          "startUid": "u1365",
+          "endUid": "u1372",
+          "quote": "DM: Okay. So you know, you wander through the university—is not actually that far from here, right? So Magus Street—or Magus Street is where the university is, in the Scrollwright Lane connects Magus Street to a bunch of the temples. It is one of the like big thoroughfares through Tollen, and and you sort of wander, you know, there's music, there's like, you know, you know, still, people sort of dancing, and although people are starting to, like—you get the sense that the first night people don't necessarily stay up all night, like, it—you know, things are—as the sun sets, things are beginning to wind down a little bit, and a lot of the flow of people seems to be moving towards the University now, like..."
+        },
+        {
+          "startUid": "u1373",
+          "endUid": "u1376",
+          "quote": "DM: Like, you know, this is like the scene for the for the first night. And as you, as you approach just past sunset, like this big courtyard in front of the one of the main halls of the university is completely lit up like magic lamps everywhere, like 20 sort of globes of light just floating at different heights in the sky, all different colors."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated clock or relative time; year inherited from session YAML where supplied.",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 29
+        },
+        "partOfDay": "just past sunset"
+      }
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u1417",
+        "endUid": "u1423"
+      },
+      "reading": "The party mingles through the university festivities for an hour or two, perhaps longer, before finding Thomas Hawke.",
+      "evidence": [
+        {
+          "startUid": "u1417",
+          "endUid": "u1423",
+          "quote": "DM: Yeah. So I mean, you spend a little while—you spend, you know, an hour or 2 just kind of mingling through the party. And you eventually you you sort of wind your way through the university a little bit, right? It's all this, you know, like everywhere there are magic lights. The whole like district—Magus Street itself is like lit up in these magic lights. There's illusions, right? You see, there's dancing lights. There's lights that float around multi-colored lights that will chase you and then explode in a flash of reds and greens. And there's you know, as you sort of meander through like maybe even a little bit more—"
+        },
+        {
+          "startUid": "u1424",
+          "endUid": "u1430",
+          "quote": "DM: Thomas Hawke is is impossible to miss. There's— there's a small stage set up in a sort of interior courtyard somewhere on the University campus. And this courtyard is is packed, right? It's like the interiors of a cloisters, that sort of thing. It's like crammed with people. And and Thomas is standing. He's, you know, maybe maybe early thirties sort of very nicely styled wavy brown hair, elegant face, wearing, you know, extremely nice clothes, and and this elaborate sort of elaborate costume. Not—he is not wearing—he's wearing—he's wearing a very subtle mask, right? He's just like right around his eyes, and so you can see most of his face clearly—doesn't—clearly wants to be seen."
+        }
+      ],
+      "duration": {
+        "text": "an hour or two, perhaps a little more",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "The DM narrates actual mingling and immediately qualifies the estimate upward."
+      },
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated clock or relative time; year inherited from session YAML where supplied.",
+        "relative": {
+          "relation": "after",
+          "reference": "t15",
+          "anchor": "arrival just after sunset"
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u1750",
+        "endUid": "u1752"
+      },
+      "reading": "It is getting late in the game after the student party and the conversation with Thomas; the table prepares to advance to the smith visit.",
+      "evidence": [
+        {
+          "startUid": "u1750",
+          "endUid": "u1752",
+          "quote": "DM: I don't think—it's getting late in game too. After you've talked to Thomas for a while, after the student party."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated clock or relative time; year inherited from session YAML where supplied.",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 29
+        },
+        "partOfDay": "late evening"
+      },
+      "note": "The following almost-midnight remark names the players falling asleep and is a real-world clock, not an in-world midnight anchor."
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u1762",
+        "endUid": "u1764"
+      },
+      "reading": "Play advances to the next day, Tuesday, for the visit to Umli. The earlier schedule explicitly identifies that next day as the thirtieth.",
+      "evidence": [
+        {
+          "startUid": "u1756",
+          "endUid": "u1757",
+          "quote": "So the next—next day, at some point, you'll probably need to do preparations for your party."
+        },
+        {
+          "startUid": "u1762",
+          "endUid": "u1764",
+          "quote": "So it's—so now, Tuesday, you go—you go to visit"
+        },
+        {
+          "startUid": "u0893",
+          "endUid": "u0895",
+          "quote": "The 2—the next day, the thirtieth, you can speak to Umli if you want."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated clock or relative time; year inherited from session YAML where supplied.",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 30
+        }
+      },
+      "dateBoundaries": 1,
+      "actors": [
+        "Delwath",
+        "unspecified companions"
+      ],
+      "completion": "completed",
+      "note": "The visit clock is unstated. The invitation offers Tuesday afternoon; Delwath’s predawn preparation and half-hour outing are proposed logistics, not separately measured elapsed intervals."
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "December 25 departure and December 28 current date are spoken. The next morning gives December 29; the following next-day Tuesday consultation is identified as the thirtieth in the schedule. Only the year 1748 comes from YAML.",
+    "expectedDateBoundaries": 5,
+    "supportedDateBoundaries": 5,
+    "evidence": [
+      "t02",
+      "t06",
+      "t10",
+      "t11",
+      "t18"
+    ],
+    "explanation": "The covered interval includes the retrospectively established three-day voyage from December 25, the completed night to December 29, and the explicit next-day transition to December 30. Historical battles and earlier scepter destruction are recollections, not additional session days. No missing interval is supplied from drEnd."
+  }
+}
