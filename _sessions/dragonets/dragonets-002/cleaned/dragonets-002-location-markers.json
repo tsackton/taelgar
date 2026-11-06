@@ -1,0 +1,1248 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dragonets-002",
+    "sessionYaml": "_sessions/dragonets/dragonets-002/cleaned/dragonets-002-session.yaml",
+    "sessionYamlSha256": "2f07a7b4532ba5f26200f72862945c351c8042f6a2cefbed626a7bc84e55600f",
+    "transcriptPath": "_sessions/dragonets/dragonets-002/cleaned/dragonets-002-transcript.md",
+    "transcriptSha256": "9da91e0da2b7e241769afae9f46dbaecb0528e24db937b333b7f371cb4be2777"
+  },
+  "places": {
+    "p01": {
+      "label": "Circular Island",
+      "kind": "island",
+      "evidence": [
+        {
+          "startUid": "u0138",
+          "endUid": "u0146",
+          "quote": "the interior mountains of the Circular Island"
+        },
+        {
+          "startUid": "u2434",
+          "endUid": "u2438",
+          "quote": "everyone on the island can see it"
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Circular Island.md",
+      "note": "The link identifies the island; its canonical DR 1749 snapshot does not date this separate campaign."
+    },
+    "p02": {
+      "label": "The Wanderer",
+      "kind": "colossal statue",
+      "evidence": [
+        {
+          "startUid": "u0354",
+          "endUid": "u0354",
+          "quote": "you're in the Wanderer's palm"
+        },
+        {
+          "startUid": "u1538",
+          "endUid": "u1546",
+          "quote": "Like, how are you even inside the Wanderer?"
+        }
+      ]
+    },
+    "p03": {
+      "label": "Wanderer’s palm",
+      "kind": "resting place",
+      "evidence": [
+        {
+          "startUid": "u0114",
+          "endUid": "u0117",
+          "quote": "in the palm of the hand."
+        },
+        {
+          "startUid": "u0354",
+          "endUid": "u0354",
+          "quote": "you're in the Wanderer's palm"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0354",
+              "endUid": "u0354",
+              "quote": "you're in the Wanderer's palm"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Pilgrimage road from the Wanderer",
+      "kind": "road",
+      "evidence": [
+        {
+          "startUid": "u0415",
+          "endUid": "u0420",
+          "quote": "they all lead from the statues down, towards the, the temple."
+        },
+        {
+          "startUid": "u0436",
+          "endUid": "u0436",
+          "quote": "this is the one that's like closest to the Wanderer."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0436",
+              "endUid": "u0436",
+              "quote": "if the island's like a clock, you know, each pilgrimage road has like a few of these like islets"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Food-machine site nearest the Wanderer",
+      "kind": "roadside site",
+      "evidence": [
+        {
+          "startUid": "u0415",
+          "endUid": "u0420",
+          "quote": "And as you travel down the pilgrimage road and fly down over the road, you get to a site which is just a little crazy."
+        },
+        {
+          "startUid": "u0436",
+          "endUid": "u0436",
+          "quote": "this is the one that's like closest to the Wanderer."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0415",
+              "endUid": "u0420",
+              "quote": "because they're on the roads, there are these strange, over-the-years ruins"
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0436",
+              "endUid": "u0436",
+              "quote": "this is the one that's like closest to the Wanderer."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Heska’s hiding place near the food machine",
+      "kind": "concealment",
+      "evidence": [
+        {
+          "startUid": "u0443",
+          "endUid": "u0443",
+          "quote": "20, 30 feet away where I can hide."
+        },
+        {
+          "startUid": "u0642",
+          "endUid": "u0642",
+          "quote": "I'm only like 30 feet away."
+        }
+      ],
+      "note": "A convenient bush is proposed and the nearby concealed sampling position is accepted; the precise feature is not fixed.",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0642",
+              "endUid": "u0642",
+              "quote": "I'm only like 30 feet away."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Temple / Jubilee grounds",
+      "kind": "temple grounds",
+      "evidence": [
+        {
+          "startUid": "u1033",
+          "endUid": "u1039",
+          "quote": "towards the temple."
+        },
+        {
+          "startUid": "u1036",
+          "endUid": "u1039",
+          "quote": "near the periphery of the grounds from the Jubilee the day earlier"
+        }
+      ],
+      "note": "The tent lies at the festival grounds near the temple; entry into the temple building is not narrated. The central-island identification is corroborated by the Dragonets campaign record, without importing its other chronology.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0415",
+              "endUid": "u0420",
+              "quote": "the pilgrimage roads, they're all very, you know, everybody knows them, they all lead from the statues down, towards the, the temple."
+            },
+            {
+              "startUid": "u0436",
+              "endUid": "u0436",
+              "quote": "if the island's like a clock, you know, each pilgrimage road has like a few of these like islets"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Oru’s tent",
+      "kind": "tent",
+      "evidence": [
+        {
+          "startUid": "u1036",
+          "endUid": "u1039",
+          "quote": "enter a tent that's near the periphery of the grounds"
+        },
+        {
+          "startUid": "u1048",
+          "endUid": "u1049",
+          "quote": "as you sit down in his tent"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1036",
+              "endUid": "u1039",
+              "quote": "enter a tent that's near the periphery of the grounds from the Jubilee the day earlier"
+            }
+          ]
+        }
+      ],
+      "note": "Near the festival grounds’ periphery; the precise inside/outside boundary is unspecified, and entry into the temple building is not narrated."
+    },
+    "p09": {
+      "label": "Outside the Wanderer’s eye",
+      "kind": "exterior ledge",
+      "evidence": [
+        {
+          "startUid": "u1380",
+          "endUid": "u1382",
+          "quote": "you land, you know, in this spot, right next to the Wanderer's Eye."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1380",
+              "endUid": "u1382",
+              "quote": "right next to the Wanderer's Eye."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Spiraling mechanical shaft",
+      "kind": "shaft",
+      "evidence": [
+        {
+          "startUid": "u1538",
+          "endUid": "u1550",
+          "quote": "At first, you realize that you're in some kind of a shaft."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1538",
+              "endUid": "u1550",
+              "quote": "Like, how are you even inside the Wanderer?"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Guardian antechamber",
+      "kind": "chamber",
+      "evidence": [
+        {
+          "startUid": "u1652",
+          "endUid": "u1654",
+          "quote": "these 4 enormous statues seated in a quadrant and this huge antechamber"
+        },
+        {
+          "startUid": "u2152",
+          "endUid": "u2156",
+          "quote": "you're probably in the Wanderer's chest right now"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2152",
+              "endUid": "u2156",
+              "quote": "you're probably in the Wanderer's chest right now"
+            }
+          ],
+          "note": "Chest-level placement is the DM’s approximate anatomical orientation."
+        }
+      ]
+    },
+    "p12": {
+      "label": "Shaft-side alcove above the guardians",
+      "kind": "alcove",
+      "evidence": [
+        {
+          "startUid": "u2166",
+          "endUid": "u2168",
+          "quote": "about 30 feet above them, and, like—like, inside one of these, like… window-like things on the side, hiding behind a pillar."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1754",
+              "endUid": "u1754",
+              "quote": "on the edges"
+            }
+          ]
+        },
+        {
+          "relation": "above",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u2166",
+              "endUid": "u2168",
+              "quote": "about 30 feet above them"
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Open air outside the Wanderer",
+      "kind": "exterior airspace",
+      "evidence": [
+        {
+          "startUid": "u2133",
+          "endUid": "u2137",
+          "quote": "500 feet straight up"
+        },
+        {
+          "startUid": "u2135",
+          "endUid": "u2137",
+          "quote": "500 feet out of the statue?"
+        }
+      ],
+      "note": "Dimension Door reaches outside the statue; no precise landing point, meeting with Oru, or arrival at the eye is stated."
+    },
+    "p14": {
+      "label": "Resonant staircase",
+      "kind": "stairs",
+      "evidence": [
+        {
+          "startUid": "u2208",
+          "endUid": "u2209",
+          "quote": "clear steps, like leading up into what you guess would be the heart of the Wanderer"
+        },
+        {
+          "startUid": "u2227",
+          "endUid": "u2231",
+          "quote": "each step that you take like, beautiful…"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2208",
+              "endUid": "u2209",
+              "quote": "the heart of the Wanderer"
+            }
+          ]
+        },
+        {
+          "relation": "connected_to",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u2152",
+              "endUid": "u2156",
+              "quote": "a big staircase, like, leading up into a large… a large chamber area"
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Heart chamber with eight seats",
+      "kind": "chamber",
+      "evidence": [
+        {
+          "startUid": "u2259",
+          "endUid": "u2266",
+          "quote": "as you step into the chamber, into what you assume is the heart of the Wanderer."
+        },
+        {
+          "startUid": "u2267",
+          "endUid": "u2271",
+          "quote": "these seats, is that… they're sized perfectly for you."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2259",
+              "endUid": "u2266",
+              "quote": "the heart of the Wanderer"
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Storm surrounding the island",
+      "kind": "storm ring",
+      "evidence": [
+        {
+          "startUid": "u2441",
+          "endUid": "u2446",
+          "quote": "the endless storm that surrounds the island."
+        }
+      ],
+      "note": "The narrator’s viewpoint passes through the storm; the party does not. Sculpit’s childhood storm incident remains a recollection."
+    },
+    "p17": {
+      "label": "Hovering vessel beyond the storm",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u2454",
+          "endUid": "u2456",
+          "quote": "outside to the periphery of the storm, there's something there. There's a vessel hovering in the sky."
+        }
+      ],
+      "mobile": true
+    },
+    "p18": {
+      "label": "Room with the glowing device",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2457",
+          "endUid": "u2462",
+          "quote": "two figures inside a room inside this vessel"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u2457",
+              "endUid": "u2462",
+              "quote": "two figures inside a room inside this vessel"
+            }
+          ]
+        }
+      ],
+      "note": "Narrated cutaway beyond the PCs’ sight; the party remains in the Wanderer."
+    },
+    "p19": {
+      "label": "Mountain monastery",
+      "kind": "monastery",
+      "evidence": [
+        {
+          "startUid": "u0138",
+          "endUid": "u0146",
+          "quote": "the interior mountains of the Circular Island where they went to visit a monastery"
+        }
+      ],
+      "note": "Known through Zeno’s childhood memory, not a present-session party visit.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0138",
+              "endUid": "u0146",
+              "quote": "the interior mountains of the Circular Island where they went to visit a monastery"
+            }
+          ]
+        }
+      ]
+    },
+    "p20": {
+      "label": "Ocean near the storm",
+      "kind": "ocean",
+      "evidence": [
+        {
+          "startUid": "u0190",
+          "endUid": "u0194",
+          "quote": "Out over the ocean where it was quiet."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u0190",
+              "endUid": "u0194",
+              "quote": "the first time he flew almost all the way to the storm."
+            }
+          ]
+        }
+      ]
+    },
+    "p21": {
+      "label": "Childhood tide pools",
+      "kind": "tide pools",
+      "evidence": [
+        {
+          "startUid": "u0289",
+          "endUid": "u0289",
+          "quote": "sitting in the tide pools one day at this age"
+        }
+      ],
+      "note": "Tony’s childhood account does not identify these with the present-day tide pools where Horseshoe Brad lives."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0114",
+        "endUid": "u0117"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party wakes on the Wanderer’s palm.",
+      "evidence": [
+        {
+          "startUid": "u0114",
+          "endUid": "u0117",
+          "quote": "Zeno: Well, Zeno's… flat on his back, eyes closed, spread-eagled in the palm of the hand."
+        },
+        {
+          "startUid": "u0162",
+          "endUid": "u0167",
+          "quote": "curled up maybe… you know, along a finger"
+        },
+        {
+          "startUid": "u0354",
+          "endUid": "u0354",
+          "quote": "you're in the Wanderer's palm"
+        }
+      ],
+      "place": "p03",
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "in_locality_of",
+          "target": "p01",
+          "note": "Current island setting, without inferring later statue movements."
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0138",
+        "endUid": "u0159"
+      },
+      "actors": [
+        "Zeno"
+      ],
+      "reading": "Zeno recalls visiting the mountain monastery and hearing its monks in childhood.",
+      "evidence": [
+        {
+          "startUid": "u0138",
+          "endUid": "u0146",
+          "quote": "Zeno: So the… auditory experience of the egg for Zeno unlocks for him a childhood memory he hadn't thought of in many years. It was… a trip when he… was a young dragonetling with his family to the interior mountains of the Circular Island where they went to visit a monastery populated by these strange… maybe were they flightless dragonets? They, they never flew. They were… serious and calm. As a little one, he felt this was boring at first. He was introduced to one of them as his uncle Kaz."
+        },
+        {
+          "startUid": "u0147",
+          "endUid": "u0149",
+          "quote": "Zeno: And… In the evening, he was brought to a ritual that these dragonet monks were performing and at the ritual, he heard a sound, unlike any he'd heard before, of the dragonets performing a drone that came from deep in their bodies, a kind of choral singing."
+        }
+      ],
+      "place": "p19",
+      "context": "reported"
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0190",
+        "endUid": "u0205"
+      },
+      "actors": [
+        "Heska"
+      ],
+      "reading": "Heska recalls hunting over the ocean near the storm after a childhood performance.",
+      "evidence": [
+        {
+          "startUid": "u0190",
+          "endUid": "u0194",
+          "quote": "it was the first time he flew almost all the way to the storm."
+        },
+        {
+          "startUid": "u0200",
+          "endUid": "u0205",
+          "quote": "He looked like a passing cloud"
+        }
+      ],
+      "place": "p20",
+      "context": "reported"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0260",
+        "endUid": "u0274"
+      },
+      "actors": [
+        "Sculpit"
+      ],
+      "reading": "Sculpit recalls becoming lost in a shifted storm and unexpectedly appearing back on the Wanderer’s hand.",
+      "evidence": [
+        {
+          "startUid": "u0260",
+          "endUid": "u0262",
+          "quote": "Sculpit: At one point, There was some… bob… you know, thing out in the ocean, a floating stick or something that was really far away from shore, and the question was, well, who could go get it the first or the fastest? And Sculpit flew off, and…"
+        },
+        {
+          "startUid": "u0263",
+          "endUid": "u0270",
+          "quote": "All of a sudden, he found himself surrounded by thunder and lightning"
+        },
+        {
+          "startUid": "u0271",
+          "endUid": "u0274",
+          "quote": "And he appeared back on the Wanderer's hand."
+        }
+      ],
+      "context": "reported",
+      "from": "p16",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "uncontrolled teleportation",
+      "note": "The remembered race began over the ocean; the relocation is described as sudden and unexplained."
+    },
+    {
+      "id": "l05",
+      "type": "presence",
+      "source": {
+        "startUid": "u0289",
+        "endUid": "u0297"
+      },
+      "actors": [
+        "Little Tony"
+      ],
+      "reading": "Tony recalls meeting the King of the Hermit Crabs in childhood tide pools.",
+      "evidence": [
+        {
+          "startUid": "u0289",
+          "endUid": "u0289",
+          "quote": "Little Tony: It wasn't a dream. It's this that happened next. So sitting in the tide pools one day at this age when he couldn't go to the other swing sets, when he couldn't fly in the littoral zone. Am I saying that right? The zone between high tide and low tide littorals. Yeah."
+        },
+        {
+          "startUid": "u0290",
+          "endUid": "u0294",
+          "quote": "I am the King of the Hermit Crabs."
+        }
+      ],
+      "place": "p21",
+      "context": "reported"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0415",
+        "endUid": "u0434"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Fly down the pilgrimage road from the Wanderer and approach the food-machine crowd.",
+      "evidence": [
+        {
+          "startUid": "u0415",
+          "endUid": "u0420",
+          "quote": "DM: So as you, as you all, decide to head, and, and again, it's there, you know, the pilgrimage roads, they're all very, you know, everybody knows them, they all lead from the statues down, towards the, the temple. And as you head over, and you think you know what he's talking about, because they're on the roads, there are these strange, over-the-years ruins, these different types of ruins and structures that the dragonets have decorated and used for all kinds of different things, you know, little mini playgrounds, some sites for, you know, spoken word competitions, etc. And as you travel down the pilgrimage road and fly down over the road, you get to a site which is just a little crazy. It's one of these strange kind of contraptions that the Dragonets have seen and have always been there."
+        },
+        {
+          "startUid": "u0431",
+          "endUid": "u0434",
+          "quote": "you're maybe like 50ft away"
+        },
+        {
+          "startUid": "u0431",
+          "endUid": "u0434",
+          "quote": "as you're getting closer"
+        }
+      ],
+      "from": "p03",
+      "to": "p05",
+      "completion": "underway",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Follow the pilgrimage road toward the temple, reaching the food-machine approach.",
+          "place": "p04"
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0443",
+        "endUid": "u0446"
+      },
+      "actors": [
+        "Heska"
+      ],
+      "reading": "Heska remains apart from the crowd in nearby concealment, sampling food by Mage Hand.",
+      "evidence": [
+        {
+          "startUid": "u0443",
+          "endUid": "u0443",
+          "quote": "Heska: Heska's definitely not flying towards the scene. I'm going to look for somewhere not far, not like, I don't know, 20, 30 feet away where I can hide. And then I'll just send my invisible mage hand out to sample some food and bring it back."
+        },
+        {
+          "startUid": "u0639",
+          "endUid": "u0642",
+          "quote": "I'm only like 30 feet away."
+        },
+        {
+          "startUid": "u0640",
+          "endUid": "u0641",
+          "quote": "You totally do."
+        }
+      ],
+      "from": null,
+      "to": "p06",
+      "completion": "arrived"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0455",
+        "endUid": "u0485"
+      },
+      "actors": [
+        "Little Tony",
+        "Zeno"
+      ],
+      "reading": "Tony and Zeno reach the food machine and speak with Paul.",
+      "evidence": [
+        {
+          "startUid": "u0455",
+          "endUid": "u0459",
+          "quote": "DM: Okay, okay. So let's start with Tony and Zeno. So Tony and Zeno, if you're guys flying in together, are you kind of taking steps?"
+        },
+        {
+          "startUid": "u0461",
+          "endUid": "u0465",
+          "quote": "you recognize one of them. Tony, like, not your clutch mate, but like a cousin, Paul"
+        },
+        {
+          "startUid": "u0488",
+          "endUid": "u0494",
+          "quote": "when you get closer to the machine"
+        }
+      ],
+      "from": null,
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0701",
+        "endUid": "u0714"
+      },
+      "actors": [
+        "Sculpit"
+      ],
+      "reading": "Sculpit approaches the machine; its activation intensifies as the group draws near.",
+      "evidence": [
+        {
+          "startUid": "u0701",
+          "endUid": "u0705",
+          "quote": "the show was great"
+        },
+        {
+          "startUid": "u0712",
+          "endUid": "u0712",
+          "quote": "As Sculpit also approaches."
+        },
+        {
+          "startUid": "u0713",
+          "endUid": "u0714",
+          "quote": "the whole thing, it's like shaking now"
+        }
+      ],
+      "from": null,
+      "to": "p05",
+      "completion": "arrived",
+      "note": "An intended greeting to Xena does not establish a separate played stop; her later exchange happens at this same site."
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u0720",
+        "endUid": "u0825"
+      },
+      "actors": [
+        "Heska"
+      ],
+      "reading": "Heska joins the others beside the machine for their joint food experiment.",
+      "evidence": [
+        {
+          "startUid": "u0720",
+          "endUid": "u0720",
+          "quote": "Heska, get over here. Get over here."
+        },
+        {
+          "startUid": "u0812",
+          "endUid": "u0815",
+          "quote": "The four of you, right? The four of you are, like, are, like, next"
+        },
+        {
+          "startUid": "u0812",
+          "endUid": "u0815",
+          "quote": "Heska is thinking about this tuna"
+        }
+      ],
+      "from": "p06",
+      "to": "p05",
+      "completion": "arrived"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1033",
+        "endUid": "u1049"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "With the two shamanic dragonets, travel toward the temple and enter Oru’s tent at the edge of the Jubilee grounds.",
+      "evidence": [
+        {
+          "startUid": "u1033",
+          "endUid": "u1035",
+          "quote": "DM: Anyways, this whole con- yeah, so this conversation continues as the collection of the food happens, and then eventually, after quite some time, you sort out, get all the stuff, and, you move with the two, shamanic dragonets and make your way, towards the temple. And as you head over."
+        },
+        {
+          "startUid": "u1036",
+          "endUid": "u1039",
+          "quote": "DM: And enter a tent that's near the periphery of the grounds from the Jubilee the day earlier, you… enter, one of the tents, and… sitting there… is, the shaman who is an old dragonet. Old, old, old. It's hard to know in…"
+        },
+        {
+          "startUid": "u1048",
+          "endUid": "u1049",
+          "quote": "as you sit down in his tent"
+        }
+      ],
+      "from": "p05",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Travel toward the temple and its Jubilee grounds; no entry into the temple building is established.",
+          "place": "p07"
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1365",
+        "endUid": "u1385"
+      },
+      "actors": [
+        "party",
+        "Shaman Oru",
+        "Roska"
+      ],
+      "reading": "Leave the tent and fly back to land outside the Wanderer’s open eye.",
+      "evidence": [
+        {
+          "startUid": "u1365",
+          "endUid": "u1368",
+          "quote": "heads out of the tent, and you all make your way and fly back to the Wanderer."
+        },
+        {
+          "startUid": "u1377",
+          "endUid": "u1379",
+          "quote": "DM: You all fly back to, to the, to the Wanderer's Eye and another… it's a smaller group. There's like three or four dragonets up here, but the shaman flies, Oru flies with you, Roska… everybody, there's probably about five other Dragonets in addition to the four of you here."
+        },
+        {
+          "startUid": "u1380",
+          "endUid": "u1382",
+          "quote": "DM: And, you land, you know, in this spot, right next to the Wanderer's Eye. And it is open, and it looks basically kind of like what you're looking at. It's got these structures, just, like, very well-defined, like, mechanical structures that you know, there's like little parts of the island where you might see evidence of some things that look a little bit like this, but seeing it all kind of built into the iris of the eye."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1485",
+        "endUid": "u1554"
+      },
+      "actors": [
+        "party",
+        "Roska"
+      ],
+      "reading": "Sculpit teleports through the iris; Heska, Zeno, Roska, and Tony fly through before it closes. The five descend the shaft.",
+      "evidence": [
+        {
+          "startUid": "u1485",
+          "endUid": "u1485",
+          "quote": "DM: Sculpit disappears. You, Little Tony."
+        },
+        {
+          "startUid": "u1489",
+          "endUid": "u1496",
+          "quote": "I'm also going in as fast as possible."
+        },
+        {
+          "startUid": "u1531",
+          "endUid": "u1537",
+          "quote": "DM: So basically, Heska, like, who was, like, second, just shoots by Tony, like, just, like, straight, beautiful, like, if only this had happened in the Jubilee Festival, like, moment, just darts, like a dart, right through into the center of the iris of the giant's eye, and just flies right through."
+        },
+        {
+          "startUid": "u1547",
+          "endUid": "u1554",
+          "quote": "DM: At first, you realize that you're in some kind of a shaft. It's actually, like, a long tunnel, and it's kind of spiraling and kind of twisting down, like a large… basically some kind of mechanical shaft that you're inside of. And as you're flying through, you notice something else, which is that as you go, it feels like the tunnel itself is activating. Like, as you're flying."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "fly and teleport",
+      "note": "Oru explicitly remains outside and asks for a report at u1533–u1534; he does not enter with the five."
+    },
+    {
+      "id": "l14",
+      "type": "presence",
+      "source": {
+        "startUid": "u1652",
+        "endUid": "u1754"
+      },
+      "actors": [
+        "party",
+        "Roska"
+      ],
+      "reading": "The group approaches the guardian antechamber from the shaft above; combat begins before all descend to the floor.",
+      "evidence": [
+        {
+          "startUid": "u1652",
+          "endUid": "u1654",
+          "quote": "DM: And you see these 4 enormous statues seated in a quadrant and this huge antechamber and a room above, and… and you're… you're seeing this from above right now, so you're flying… you can… and now Heska, with 10th level perception, you know, you can see this first before everybody else, the… the size and scope of these structures that are down below you."
+        },
+        {
+          "startUid": "u1754",
+          "endUid": "u1754",
+          "quote": "right now you're kind of in the middle of the shaft flying down."
+        }
+      ],
+      "place": "p10",
+      "note": "The four guardians are below. Their visible chamber is not an established floor-level arrival for the whole party."
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1974",
+        "endUid": "u1978"
+      },
+      "actors": [
+        "Roska"
+      ],
+      "reading": "Roska dives into melee beside the guardian engaged with Zeno.",
+      "evidence": [
+        {
+          "startUid": "u1974",
+          "endUid": "u1978",
+          "quote": "dives towards the statue that is in the rap battle and tries to attack it."
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2133",
+        "endUid": "u2137"
+      },
+      "actors": [
+        "Sculpit",
+        "Roska"
+      ],
+      "reading": "Dimension Door takes Sculpit and Roska 500 feet straight upward outside the Wanderer.",
+      "evidence": [
+        {
+          "startUid": "u2133",
+          "endUid": "u2137",
+          "quote": "Sculpit: Dimension Door to go 500 feet straight up which is presumably out of here."
+        }
+      ],
+      "from": null,
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "Dimension Door",
+      "distance": {
+        "value": 500,
+        "unit": "foot",
+        "precision": "exact",
+        "basis": "Sculpit’s declared teleport distance, accepted as outside the statue."
+      }
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2138",
+        "endUid": "u2144"
+      },
+      "actors": [
+        "Sculpit"
+      ],
+      "reading": "Sculpit leaves Roska outside and flies back through the reopened iris.",
+      "evidence": [
+        {
+          "startUid": "u2138",
+          "endUid": "u2140",
+          "quote": "I'll let Roska go."
+        },
+        {
+          "startUid": "u2141",
+          "endUid": "u2141",
+          "quote": "I'm not trying to go back inside."
+        },
+        {
+          "startUid": "u2142",
+          "endUid": "u2144",
+          "quote": "Sculpit: Yeah, exactly. Does the iris open if I fly up to it again?"
+        }
+      ],
+      "from": "p13",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "The iris reopens on Sculpit’s approach.",
+          "place": "p09"
+        }
+      ],
+      "note": "The proposed second Dimension Door is withdrawn. Roska is not among the returning actors."
+    },
+    {
+      "id": "l18",
+      "type": "presence",
+      "source": {
+        "startUid": "u2166",
+        "endUid": "u2168"
+      },
+      "actors": [
+        "Heska"
+      ],
+      "reading": "Heska is concealed in a shaft-side alcove about thirty feet above the guardians.",
+      "evidence": [
+        {
+          "startUid": "u2166",
+          "endUid": "u2168",
+          "quote": "Heska: Yeah, Heska's probably about 30 feet above them, and, like—like, inside one of these, like… window-like things on the side, hiding behind a pillar."
+        }
+      ],
+      "place": "p12"
+    },
+    {
+      "id": "l19",
+      "type": "presence",
+      "source": {
+        "startUid": "u2172",
+        "endUid": "u2191"
+      },
+      "actors": [
+        "Little Tony"
+      ],
+      "reading": "Tony is on the guardian chamber floor, introducing himself and returning their bow.",
+      "evidence": [
+        {
+          "startUid": "u2174",
+          "endUid": "u2174",
+          "quote": "Little Tony: On the floor, this is where I just was, and like, waving up and introducing myself to each of the statues, whether or not."
+        },
+        {
+          "startUid": "u2183",
+          "endUid": "u2187",
+          "quote": "DM: There's, there's no, there's no, like, response from any of the statues, but, it's a little intense, Tony. All four of the statues, like, turn their heads and look at you. Like, they're all… eight eyes are… eight eyeballs are directly on Little Tony, and then all in a synchronized way, they all… nod their heads and bow."
+        }
+      ],
+      "place": "p11",
+      "note": "Zeno is described as circling downward; this evidence does not place Heska or every companion on the floor at that instant."
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u2224",
+        "endUid": "u2246"
+      },
+      "actors": [
+        "Heska",
+        "Zeno"
+      ],
+      "reading": "Heska ascends and experiments with the resonant stairs, calling Zeno over to listen.",
+      "evidence": [
+        {
+          "startUid": "u2224",
+          "endUid": "u2234",
+          "quote": "Heska: I'll like start slowly walking up the stairs."
+        },
+        {
+          "startUid": "u2235",
+          "endUid": "u2246",
+          "quote": "Zeno: Yeah, yeah. Zeno."
+        }
+      ],
+      "from": null,
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u2255",
+        "endUid": "u2278"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "All four PCs climb into the heart chamber with eight dragonet-sized seats.",
+      "evidence": [
+        {
+          "startUid": "u2255",
+          "endUid": "u2258",
+          "quote": "Heska: We're gonna, like, motion everybody, like, I really wanna go see what's…"
+        },
+        {
+          "startUid": "u2259",
+          "endUid": "u2266",
+          "quote": "So to all four of you, go? Yeah. So as you step into the chamber"
+        },
+        {
+          "startUid": "u2272",
+          "endUid": "u2278",
+          "quote": "one for each of them"
+        }
+      ],
+      "from": "p14",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l22",
+      "type": "presence",
+      "source": {
+        "startUid": "u2454",
+        "endUid": "u2476"
+      },
+      "actors": [
+        "Tearful humanoid",
+        "Other humanoid"
+      ],
+      "reading": "A narrated cutaway places two humanoids around a glowing device inside a hovering vessel beyond the storm.",
+      "evidence": [
+        {
+          "startUid": "u2454",
+          "endUid": "u2462",
+          "quote": "DM: But as we pass through the storm, and outside to the periphery of the storm, there's something there. There's a vessel hovering in the sky."
+        },
+        {
+          "startUid": "u2463",
+          "endUid": "u2476",
+          "quote": "DM: And they're standing around some type of device, or artifact system with glowing psychedelic lights just tracing these crazy… I mean, it's just bouncing everywhere, these light signatures and…"
+        }
+      ],
+      "place": "p18",
+      "locationContext": [
+        {
+          "subject": "p17",
+          "relation": "beyond",
+          "target": "p16",
+          "note": "The vessel is outside the storm at this moment; this is not a permanent geographic parent."
+        }
+      ],
+      "note": "This is narration beyond the PCs’ sight, not a party visit or an observation made by a PC. The party remains in the Wanderer’s heart."
+    }
+  ]
+}

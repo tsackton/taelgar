@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dragonets-002",
+    "sessionYaml": "_sessions/dragonets/dragonets-002/cleaned/dragonets-002-session.yaml",
+    "sessionYamlSha256": "2f07a7b4532ba5f26200f72862945c351c8042f6a2cefbed626a7bc84e55600f",
+    "transcriptPath": "_sessions/dragonets/dragonets-002/cleaned/dragonets-002-transcript.md",
+    "transcriptSha256": "9da91e0da2b7e241769afae9f46dbaecb0528e24db937b333b7f371cb4be2777"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0013"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0014",
+        "endUid": "u1585"
+      },
+      "category": "gameplay",
+      "note": "Opening dreams and recollections are experienced in play; childhood stories remain historical memories."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u1586",
+        "endUid": "u1646"
+      },
+      "category": "meta_discussion",
+      "note": "Sustained character-sheet and spell-selection discussion after the temporary level increase."
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1647",
+        "endUid": "u1697"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1698",
+        "endUid": "u2151"
+      },
+      "category": "combat",
+      "note": "Initiative begins at u1698 and the defensive encounter resolves when Roska is evacuated; ongoing call-and-response is retained through u2151."
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2152",
+        "endUid": "u2503"
+      },
+      "category": "gameplay",
+      "note": "The closing narrated vessel scene reveals events beyond the party’s sight; it is active story development."
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2504",
+        "endUid": "u2556"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2557",
+        "endUid": "u2566"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2567",
+        "endUid": "u2589"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2590",
+        "endUid": "u2611"
+      },
+      "category": "meta_discussion",
+      "note": "Postgame identification of the four signatures and discussion of the intended reveal; not a new played encounter."
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2612",
+        "endUid": "u2659"
+      },
+      "category": "table_talk",
+      "note": "Postgame image discussion and general DM craft/personal gaming debrief, outside the Dragonets plot or future party plans."
+    }
+  ]
+}

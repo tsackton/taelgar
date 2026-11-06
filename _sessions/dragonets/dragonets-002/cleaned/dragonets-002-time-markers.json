@@ -1,0 +1,319 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dragonets-002",
+    "sessionYaml": "_sessions/dragonets/dragonets-002/cleaned/dragonets-002-session.yaml",
+    "sessionYamlSha256": "2f07a7b4532ba5f26200f72862945c351c8042f6a2cefbed626a7bc84e55600f",
+    "transcriptPath": "_sessions/dragonets/dragonets-002/cleaned/dragonets-002-transcript.md",
+    "transcriptSha256": "9da91e0da2b7e241769afae9f46dbaecb0528e24db937b333b7f371cb4be2777",
+    "yamlDates": {
+      "start": null,
+      "end": null
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0093",
+        "endUid": "u0106"
+      },
+      "reading": "The party wakes after sleeping following last night’s egg encounter; neither the sleep nor the empowered state has a known duration.",
+      "evidence": [
+        {
+          "startUid": "u0093",
+          "endUid": "u0099",
+          "quote": "And so, for each of you, after having this vision, and this experience, you sleep. You sleep."
+        },
+        {
+          "startUid": "u0100",
+          "endUid": "u0106",
+          "quote": "you now… wake up from, rest of… Who knows how long?"
+        }
+      ],
+      "completion": "completed",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "reference": "t03",
+          "anchor": "Sleep ends at the waking scene dated by t03."
+        },
+        "precision": "approximate",
+        "basis": "Narrated sleep after last night; the subsequent morning is established, but elapsed hours are explicitly unknown."
+      },
+      "dateBoundaries": 1,
+      "note": "The prior-night egg encounter is recalled, not replayed; the narrated sleep reaches the next morning. No eight-hour rest is asserted."
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0125",
+        "endUid": "u0131"
+      },
+      "reading": "Zeno sits up after a few minutes listening to the music in his head during the waking scene.",
+      "evidence": [
+        {
+          "startUid": "u0125",
+          "endUid": "u0131",
+          "quote": "And he sits up after a few minutes."
+        }
+      ],
+      "actors": [
+        "Zeno"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Zeno’s narration establishes elapsed time."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0219",
+        "endUid": "u0225"
+      },
+      "reading": "The waking scene is clarified from sunrise to about 9–10 in the morning; Grandpa Jim later calls it about 10.",
+      "evidence": [
+        {
+          "startUid": "u0100",
+          "endUid": "u0106",
+          "quote": "And as the sun begins to rise"
+        },
+        {
+          "startUid": "u0219",
+          "endUid": "u0219",
+          "quote": "We… it's morning, we woke up."
+        },
+        {
+          "startUid": "u0220",
+          "endUid": "u0221",
+          "quote": "Yeah. Sunrise."
+        },
+        {
+          "startUid": "u0225",
+          "endUid": "u0225",
+          "quote": "It's more like 9, 10 in the morning. It's like, the sun's been up for a few hours."
+        },
+        {
+          "startUid": "u0387",
+          "endUid": "u0387",
+          "quote": "No, just, it's like 10 in the morning"
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "clock": "09:00",
+          "partOfDay": "morning",
+          "precision": "approximate",
+          "basis": "DM’s later clarification of the waking scene."
+        },
+        "end": {
+          "clock": "10:00",
+          "partOfDay": "morning",
+          "precision": "approximate",
+          "basis": "Upper end of the DM’s approximate waking time, confirmed by Grandpa Jim."
+        }
+      },
+      "note": "The explicit later clarification replaces the sunrise estimate. Ten lies on the morning/midday watch boundary; the interval remains approximate."
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0824",
+        "endUid": "u0825"
+      },
+      "reading": "The food machine’s chaotic projectile output continues and then stops after a couple of minutes.",
+      "evidence": [
+        {
+          "startUid": "u0824",
+          "endUid": "u0825",
+          "quote": "But this goes on for, like, a couple minutes."
+        },
+        {
+          "startUid": "u0824",
+          "endUid": "u0825",
+          "quote": "And it stops after, like, a couple minutes"
+        }
+      ],
+      "duration": {
+        "text": "a couple of minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM explicitly narrates the duration and cessation of the output."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0996",
+        "endUid": "u1000"
+      },
+      "reading": "The group spends time collecting sticks and assembling food samples before leaving for Oru’s tent.",
+      "evidence": [
+        {
+          "startUid": "u0996",
+          "endUid": "u0996",
+          "quote": "You can spend a few minutes and collect some sticks."
+        },
+        {
+          "startUid": "u0999",
+          "endUid": "u1000",
+          "quote": "You spend you spend the next like"
+        },
+        {
+          "startUid": "u1033",
+          "endUid": "u1035",
+          "quote": "after quite some time, you sort out, get all the stuff"
+        }
+      ],
+      "duration": {
+        "text": "a few minutes, ultimately described as quite some time",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "The proposed collection interval is enacted, then its elapsed extent remains imprecise."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u2315",
+        "endUid": "u2317"
+      },
+      "reading": "Zeno takes a little nap in the heart chamber and starts to wake as the Wanderer begins to stir.",
+      "evidence": [
+        {
+          "startUid": "u2315",
+          "endUid": "u2317",
+          "quote": "Zeno starts to take a little nap."
+        },
+        {
+          "startUid": "u2380",
+          "endUid": "u2381",
+          "quote": "I think Zeno's starting to wake up."
+        }
+      ],
+      "actors": [
+        "Zeno"
+      ],
+      "completion": "completed",
+      "note": "No rest category or exact duration is awarded."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u2333",
+        "endUid": "u2335"
+      },
+      "reading": "Little Tony places his seated thoughts about Glenda roughly ten minutes after her arrival during the guardian encounter.",
+      "evidence": [
+        {
+          "startUid": "u2333",
+          "endUid": "u2335",
+          "quote": "it's been, like, 10 minutes since Glenda, my seagull familiar, got here"
+        }
+      ],
+      "actors": [
+        "Little Tony",
+        "Glenda"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Little Tony’s retrospective approximate elapsed-time statement."
+      },
+      "time": {
+        "relative": {
+          "relation": "after",
+          "anchor": "Glenda’s arrival beside Little Tony during the guardian encounter.",
+          "offset": {
+            "value": 10,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "Little Tony’s approximate elapsed-time statement."
+          }
+        },
+        "precision": "approximate",
+        "basis": "Current chair scene dated relative to Glenda’s earlier arrival."
+      },
+      "note": "This spans combat and the subsequent descent; it is not ten additional minutes after sitting down."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2356",
+        "endUid": "u2362"
+      },
+      "reading": "Sculpit daydreams for a few minutes while sitting in the heart chamber.",
+      "evidence": [
+        {
+          "startUid": "u2356",
+          "endUid": "u2362",
+          "quote": "kinda daydreams for a few minutes"
+        },
+        {
+          "startUid": "u2367",
+          "endUid": "u2371",
+          "quote": "the rest of you are, you know, you're lost in your thoughts, kind of sleeping"
+        }
+      ],
+      "actors": [
+        "Sculpit"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Sculpit narrates time spent daydreaming."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "overlaps",
+          "target": "t06",
+          "note": "The DM resumes at u2363–u2371 while the others are sleeping or lost in thought; do not sum the parallel seated activities."
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No in-world date is spoken; drStart and drEnd are null. The real-world recording date supplies no campaign date.",
+    "expectedDateBoundaries": null,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08"
+    ],
+    "explanation": "The opening narrates sleep from the prior night to the waking morning, but its duration and the precise opening boundary remain uncertain. Subsequent played activity has a morning anchor and short advances; the final cutaway has no independent clock. Historical memories, reports of last night, and postgame speculation do not extend the elapsed session span."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t01",
+        "t03"
+      ],
+      "reading": "The opening includes sleeping before waking, while the egg encounter itself is recalled from the previous session.",
+      "alternatives": [
+        {
+          "reading": "Include the narrated sleep on the preceding night and its transition to the waking day."
+        },
+        {
+          "reading": "Treat the prior-night sleep as opening context and date active waking play to the following morning."
+        }
+      ]
+    }
+  ]
+}
