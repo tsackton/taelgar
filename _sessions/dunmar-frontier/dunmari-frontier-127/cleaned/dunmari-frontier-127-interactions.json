@@ -1,0 +1,1982 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-127/cleaned/dunmari-frontier-127-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "16bea9ac9baacb6432a7f86bdddc10e93726fc90212069d4e596bf85b3a50514"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-127/cleaned/dunmari-frontier-127-entity-map.json",
+      "sha256": "64142b2673abd72b46a5e630f8ce18d31350d6d644083c1fca7196bc78a52d2e"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "The identified but untested crystal ball",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0022",
+        "endUid": "u0044"
+      },
+      "lines": [
+        "%% u0022:0-73 %%",
+        "Wellby: Sorry, one other piece of logistics: did we ever identify the crystal ball?",
+        "",
+        "%% u0023:0-16 %%",
+        "DM: Yeah, it's like...",
+        "",
+        "%% u0024:0-36 %%",
+        "Wellby: It's regular old crystal ball. Okay.",
+        "",
+        "%% u0025:0-5 %%",
+        "((Attunement and repeated spell-use comparison))",
+        "",
+        "%% u0026:0-78 %%",
+        "Wellby: Not like evil crystal ball of, like, soul entrapment, or, I don’t know, something.",
+        "",
+        "%% u0027:0-68, u0028:0-85, u0029:0-153 %%",
+        "DM: I mean, nobody has tried to use it. So, you know, it might have, like, you know, Apollyon's dead hands and flames burning whenever you try and look into it? You know, maybe it has some hidden features. It's probably not just a regular crystal ball, but from the point of view of an identify spell, it's a... right.",
+        "",
+        "%% u0030:0-199, u0031:0-4 %%",
+        "((Attunement and repeated spell-use comparison))",
+        "",
+        "%% u0032:0-87 %%",
+        "Delwath: Is it crystal, crystal ball, like just as a scry focus, or crystal ball as a magic item?",
+        "",
+        "%% u0033:0-32 %%",
+        "DM: No, it's a magic—it is a, like...",
+        "",
+        "%% u0034:0-8 %%",
+        "Delwath: Exactly.",
+        "",
+        "%% u0035:0-51 %%",
+        "DM: It lets you cast scry an unlimited number of times.",
+        "",
+        "%% u0036:0-5, u0037:0-57, u0038:0-38, u0039:0-4, u0040:0-97, u0041:0-16 %%",
+        "((Attunement and repeated spell-use comparison))",
+        "",
+        "%% u0042:0-41 %%",
+        "DM: But it's, you know, not a bad magic item",
+        "",
+        "%% u0043:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u0044:0-60 %%",
+        "DM: by any means, and who knows what other quirks it might have?",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And then it's a few days flight on Vindristjarna to the Chataan Mountains, where you're going.",
+          "DM: And I'll probably just—I mean, think about the bastion stuff you want, and I can do that when you arrive, and whatever benefits you get out of those things you can get. The...",
+          "DM: I think it'll—I mean, unless there's anything anybody is eager to do in Chardon before departing. I, I know that you've had some magic item shopping to do for Seeker, but, like, that's whatever. We can... You won't need those for this adventure, so we'll just do that in the background.",
+          "DM: Any... And so I don't think there's anything else. So I think it makes sense to kind of just pick up at the...",
+          "DM: Say, say, if you leave, it's currently, like, after having left the Magistros. It's, you know, noon on June 29th. Say you spend 2 and a half days in Chardon and 2 and a half days flying, you would arrive... What is that? 1, 2. So noon, noon, evening, and then 1, 2. You'd, you'd arrive the morning of July 4th."
+        ],
+        "after": [
+          "Delwath: Right.",
+          "DM: So let's go to Chardon. Music.",
+          "Delwath: Oh!",
+          "DM: Okay, so we pick up in Chardon after you have agreed to help a young Magistros, Emperor of the Chardonian Empire, to acquire a new source of chalyte from the Chataan Mountains, which was, you know, it was actually a, a... As the notes that Mitus has gathered for you reveal, was a brief sort of boomtown with some surface accessible chalyte about 60 years ago or so 50 to 60 years ago, but was not developed as a robust source of chalyte, because the Expeditionary Force that entered the Chataan Mountains to try and secure the, you know, the roads and the, and the entryways to the mines was summer—summarily obliterated by a mega death ray powered by chalyte, and at that point it was declared not worth the trouble, and the story of the defeat was suppressed by both Mitus Auratan and the current Magistros's aunt and her predecessor.",
+          "DM: But of course the Magistros of Chardon kept this knowledge, and now has decided... has found people willing to face the death ray. Apparently."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Two imperial companions",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e023",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e024",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0121",
+        "endUid": "u0138"
+      },
+      "lines": [
+        "%% u0121:0-68, u0122:0-30, u0123:0-97, u0124:0-41, u0125:0-42, u0126:0-44, u0127:0-36, u0128:0-82, u0129:0-75, u0130:0-69 %%",
+        "DM: One is a middle-aged woman, maybe in her early fifties. Very sort of like old Chardonian vibes, like... But, you know, clearly an ex-soldier, ex-warrior of some kind, and she still wears, you know, of, of insignia of rank, and, and a Legion cloak. She introduces herself as Octavia Antussus, a close friend and advisor of the Magistros. And she is, has an effective rank of, you know, she's, she's essentially a commander in the Legion, and, and if you need to recruit an army for some reason, or, you know, need some official backup to get aid from the local legions or whatever, she's willing to provide.",
+        "",
+        "%% u0131:0-197, u0132:0-41, u0133:0-134, u0134:0-104, u0135:0-22 %%",
+        "DM: The other traveler is about as opposite as you could be from Octavia: Tristan Brighteyes, a Windcaller, young, maybe a couple years younger than, than Kenzo and the Magistros. So maybe, what, 23, 24? He's bouncy and energetic, and and as you seems excited as you set out, and he's looking out on the horizon, just, like, looking back at you all just super impressed, like, excited. “Bloody hell, as you guys are gonna take on a chalyte death ray that decimated an entire legion. Amazing! Can’t wait to see this.”",
+        "",
+        "%% u0136:0-83, u0137:0-86, u0138:0-75 %%",
+        "DM: And every time he turns you look, you were struck by the just, like, his eyes are this unnatural pale blue, with no, with, like, no iris or pupil. They’re just flat, pale blue, but it looks like there's sort of stars or clouds kind of swirling in them.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Consent to that, though. Yeah, I guess the key...",
+          "DM: Personally, it gets covered for by a privacy screen. But yeah, right?",
+          "Seeker: Just for everyone's safety.",
+          "Wellby: It's so, it's so deep in the Vindristjarna terms of service. Like, no, no one ever... It's done.",
+          "DM: So you're sailing out to Vindristjarna in the afternoon, traveling fast with a Windcaller creating wind for the ship with 2, 2, 2 of the Magistros's friends and allies who are coming along for the journey."
+        ],
+        "after": [
+          "DM: And so you find yourself at Vindristjarna. A lot of ice floating in the water beneath it. For some reason.",
+          "Delwath: Hee? Nobody really knows where that came from. Right, Seeker?",
+          "Kenzo: Yeah, Seeker, what is going on with all this ice?",
+          "Seeker: We've been doing some very fruitful experimentation, as you know.",
+          "Delwath: As you know, we do know. We know. Yes."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Faldrak and the ice-shell experiments",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0143",
+        "endUid": "u0163"
+      },
+      "lines": [
+        "%% u0143:0-49 %%",
+        "Kenzo: Yeah, Seeker, what is going on with all this ice?",
+        "",
+        "%% u0144:0-65 %%",
+        "Seeker: We've been doing some very fruitful experimentation, as you know.",
+        "",
+        "%% u0145:0-38 %%",
+        "((Clarifying that the broken ice is floating))",
+        "",
+        "%% u0146:0-32 %%",
+        "Kenzo: Any results to report? Insights?",
+        "",
+        "%% u0147:0-122, u0148:0-25 %%",
+        "Seeker: We've discovered several distinct formations of pressure sealed, globular, magically suspended ice formations that do not support their own weight.",
+        "",
+        "%% u0149:0-69 %%",
+        "DM: “There is one out there that does,” Faldrak jumps in. “We will find out.”",
+        "",
+        "%% u0150:0-26, u0151:0-32, u0152:0-35, u0153:0-5 %%",
+        "((Clarifying that the broken ice is floating))",
+        "",
+        "%% u0154:0-53, u0155:0-15 %%",
+        "DM: They're big chunks. Like, none of the—none—they broke. They all broke.",
+        "",
+        "%% u0156:0-114 %%",
+        "Seeker: We've been making ice bubble after ice bubble that explodes spectacularly in different ways for different reasons.",
+        "",
+        "%% u0157:0-14, u0158:0-3 %%",
+        "DM: Yeah, exactly. So.",
+        "",
+        "%% u0159:0-9 %%",
+        "Wellby: Progress.",
+        "",
+        "%% u0160:0-10, u0161:0-102 %%",
+        "DM: Yeah, soon we'll be ready to take it into a volcano. Right? Oh, wait! Was I not supposed to say that yet, Seeker?",
+        "",
+        "%% u0162:0-56 %%",
+        "Seeker: You know it's the next round of testing, of course. Yes.",
+        "",
+        "%% u0163:0-125 %%",
+        "DM: Well, right? Because if we're going to go to the Plane of Fire we got to test in a volcano. I mean, that's only common sense.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: One is a middle-aged woman, maybe in her early fifties. Very sort of like old Chardonian vibes, like... But, you know, clearly an ex-soldier, ex-warrior of some kind, and she still wears, you know, of, of insignia of rank, and, and a Legion cloak. She introduces herself as Octavia Antussus, a close friend and advisor of the Magistros. And she is, has an effective rank of, you know, she's, she's essentially a commander in the Legion, and, and if you need to recruit an army for some reason, or, you know, need some official backup to get aid from the local legions or whatever, she's willing to provide.",
+          "DM: The other traveler is about as opposite as you could be from Octavia: Tristan Brighteyes, a Windcaller, young, maybe a couple years younger than, than Kenzo and the Magistros. So maybe, what, 23, 24? He's bouncy and energetic, and and as you seems excited as you set out, and he's looking out on the horizon, just, like, looking back at you all just super impressed, like, excited. “Bloody hell, as you guys are gonna take on a chalyte death ray that decimated an entire legion. Amazing! Can’t wait to see this.”",
+          "DM: And every time he turns you look, you were struck by the just, like, his eyes are this unnatural pale blue, with no, with, like, no iris or pupil. They’re just flat, pale blue, but it looks like there's sort of stars or clouds kind of swirling in them.",
+          "DM: And so you find yourself at Vindristjarna. A lot of ice floating in the water beneath it. For some reason.",
+          "Delwath: Hee? Nobody really knows where that came from. Right, Seeker?"
+        ],
+        "after": [
+          "Seeker: Naturally.",
+          "DM: You all look worried. Why?",
+          "Kenzo: It's just excited to see the advancements of the Vindristjarna research labs. It's just great to see it's all moving so well.",
+          "Seeker: Applied magical sciences.",
+          "Delwath: I, I'm just worried about the death ray."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Hralgar and Drikod are different kinds of beings",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0445",
+        "endUid": "u0453"
+      },
+      "lines": [
+        "%% u0445:0-33 %%",
+        "Kenzo: Hralgar was a stone giant, right?",
+        "",
+        "%% u0446:0-19 %%",
+        "DM: Storm giant. Storm.",
+        "",
+        "%% u0447:0-21 %%",
+        "Kenzo: Storm giant. Stunning.",
+        "",
+        "%% u0448:0-15 %%",
+        "DM: Yeah, and then.",
+        "",
+        "%% u0449:0-11 %%",
+        "Kenzo: Drikod was...?",
+        "",
+        "%% u0450:0-21 %%",
+        "DM: He was a a stoneborn.",
+        "",
+        "%% u0451:0-71 %%",
+        "Kenzo: Stoneborn. What's the difference between a stoneborn and a stone giant?",
+        "",
+        "%% u0452:0-95, u0453:0-7 %%",
+        "DM: A stoneborn is, like, a way smaller—they're, like, 7 feet tall humanoids. Giants are 25 foot tall giants.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So Riftstone Gorge runs sort of behind, south of Thundercrown and curve sort of to the west. There are 2 easy approaches to Thundercrown, one that comes from the west and kind of joins the valley that Riftstone Gorge is in. The other comes from the east and approaches Thundercrown from the exact opposite side of Riftstone Gorge. Either one would be, you know, 60 miles into the mountains from, you know, the southernmost legionary fort in the province.",
+          "Delwath: Okay.",
+          "DM: Okay, 3 true facts about stone giants from the Hall of Stories. So stone giants are by far the longest lived of giants. In fact, nobody really knows their lifespan, but as they get older and older they tend to slow down, and many stone giant settlements have large statues that are their ancestors that just slowly stopped and turned to stone. But unlike, you know, most giants might have a lifespan that’s sort of on par with dwarves or a little shorter, like a few 100 years. And stone giants could you know, people claim can live 7, 800, maybe even a thousand years before they inevitably turn to stone.",
+          "DM: Stone giants often measure themselves. They are among the giant kinds the ones most interested, and, some would say, obsessed with art and sculpture. Not that they care much for, like, painting or other sort of ephemeral arts, as they would consider them, but artisans, particularly stone workers, are greatly prized.",
+          "DM: And they tend to be very insular in some ways. Like, they're not problem... Storm giants, you know, might be raging—you know, ranging across the world, exploring and, you know, taking visitors and things. Stone giant communities are insular and inward looking and sort of focused on their art. This is the... Obviously not everybody. Not every stone giant is the same. But this is the kind of stereotype, and they are... Let's see, what’s another useful fact?"
+        ],
+        "after": [
+          "Kenzo: It's like death ray versus cuddle beam. It's like a little...",
+          "DM: Yeah, exactly. And then, so last, last useful thing. They are out... They are probably the, the least common among the giant kind. Like frost giants, fire giants, you know, hill giants are all pretty common. Stone giants are, you know, even cloud giants, which, you know, often are also mountain giants living, you know, high up in the tops of mountains... Stone giants are the, the sort of most reclusive and least well understood of the giant kind and rarest from the point of view of humans, although whether there’s giant—stone giant cities underneath hidden mountains, you know, nobody knows.",
+          "Seeker: Is there history of dwarven encounters with stone giants or alliances? Collaborations.",
+          "DM: Yes, although again stone giants tend to be, like, dwarves would be more likely to encounter, like, fire giants or cloud giants or storm giants. Cloud and storm giants tend to be sort of like dwarfs, you know, on the top of mountains, right? Like storm giants in particular, like the classic sort of giant mount—you know, mountain palace, like... And fire giants are often the ones who are sort of the smiths and the forgers and the sort of...",
+          "Seeker: Hmm."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Brimskarda as an unusual giant king",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0475",
+        "endUid": "u0483"
+      },
+      "lines": [
+        "%% u0475:0-208 %%",
+        "Kenzo: So one other quick question: do we know about, like, storm giant, like, like governance, like their society? Is there, like, one, like, storm giant king that, like, rules over everybody, or, like, what's, what's the society?",
+        "",
+        "%% u0476:0-52, u0477:0-136, u0478:0-65, u0479:0-157, u0480:0-37, u0481:0-87, u0482:0-16 %%",
+        "DM: Giants almost never live in groups of larger than 20. Like, it's almost impossible to feed more than 20 giants in one place, anyway, so they they rarely have anything that you would consider governance. I mean, the exception was, like, Brimskarda, right? Like rule—was a king, effectively ruled a kingdom, but that was a much bigger kingdom and included lots of non-giant people in it, and it was kind of set up as a “protect you against dragon’s” kingdom. So that was a little bit unusual as far as giants go, is the sort of Brimskarda kingdom up in the North.",
+        "",
+        "%% u0483:0-5 %%",
+        "Kenzo: Okay.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Is there history of dwarven encounters with stone giants or alliances? Collaborations.",
+          "DM: Yes, although again stone giants tend to be, like, dwarves would be more likely to encounter, like, fire giants or cloud giants or storm giants. Cloud and storm giants tend to be sort of like dwarfs, you know, on the top of mountains, right? Like storm giants in particular, like the classic sort of giant mount—you know, mountain palace, like... And fire giants are often the ones who are sort of the smiths and the forgers and the sort of...",
+          "Seeker: Hmm.",
+          "DM: You know, completely underground stone giants are reclusive. So there's many fewer stories about stone giants and dwarves than about fire giants. Frost giants tend to be pretty obsessed with, you know, war, and so sometimes that can make good alliances, sometimes that puts them in conflict with dwarves. But fire, cloud and storm giants are, like, the ones who supposedly taught dwarves about rune magic back in the day, and things like that.",
+          "DM: Okay, finally."
+        ],
+        "after": [
+          "DM: Okay, Dhrukmir. Legendary stories of Dhrukmir. So you, you have one in the, in the collected tales of Sabastian of Nevium in the notes. The Dhrukmir, your, you know, Legend Lore tells you, you know, this is a... This is somebody who's turned his back on stone giants, you know, in the sense that very much not what you would think of as a, you know, traditional stone giant, and is, has built a...",
+          "DM: Dhrukmir became obsessed with the power that chalyte could provide.",
+          "Seeker: Oh, he made the thing.",
+          "DM: He made the death ray and sought to substitute worship of power of chalyte for traditional stone giant society.",
+          "Seeker: Hmm."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Legend Lore about Dhrukmir and the death ray",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0484",
+        "endUid": "u0497"
+      },
+      "lines": [
+        "%% u0484:0-46, u0485:0-72, u0486:0-83, u0487:0-55, u0488:0-80, u0489:0-43 %%",
+        "DM: Okay, Dhrukmir. Legendary stories of Dhrukmir. So you, you have one in the, in the collected tales of Sabastian of Nevium in the notes. The Dhrukmir, your, you know, Legend Lore tells you, you know, this is a... This is somebody who's turned his back on stone giants, you know, in the sense that very much not what you would think of as a, you know, traditional stone giant, and is, has built a...",
+        "",
+        "%% u0490:0-67 %%",
+        "DM: Dhrukmir became obsessed with the power that chalyte could provide.",
+        "",
+        "%% u0491:0-22 %%",
+        "Seeker: Oh, he made the thing.",
+        "",
+        "%% u0492:0-57, u0493:0-54 %%",
+        "DM: He made the death ray and sought to substitute worship of power of chalyte for traditional stone giant society.",
+        "",
+        "%% u0494:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u0495:0-22, u0496:0-72, u0497:0-45 %%",
+        "DM: Rumor says that he has studded himself with so much chalyte that he can grow to be 50 foot tall and smash people with his giant crystal club.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You know, completely underground stone giants are reclusive. So there's many fewer stories about stone giants and dwarves than about fire giants. Frost giants tend to be pretty obsessed with, you know, war, and so sometimes that can make good alliances, sometimes that puts them in conflict with dwarves. But fire, cloud and storm giants are, like, the ones who supposedly taught dwarves about rune magic back in the day, and things like that.",
+          "DM: Okay, finally.",
+          "Kenzo: So one other quick question: do we know about, like, storm giant, like, like governance, like their society? Is there, like, one, like, storm giant king that, like, rules over everybody, or, like, what's, what's the society?",
+          "DM: Giants almost never live in groups of larger than 20. Like, it's almost impossible to feed more than 20 giants in one place, anyway, so they they rarely have anything that you would consider governance. I mean, the exception was, like, Brimskarda, right? Like rule—was a king, effectively ruled a kingdom, but that was a much bigger kingdom and included lots of non-giant people in it, and it was kind of set up as a “protect you against dragon’s” kingdom. So that was a little bit unusual as far as giants go, is the sort of Brimskarda kingdom up in the North.",
+          "Kenzo: Okay."
+        ],
+        "after": [
+          "Delwath: We just have to point the death ray at him, and he'll just die instant.",
+          "Kenzo: Strength saving throw.",
+          "Delwath: It's, it's attracted to chalyte.",
+          "Seeker: Right.",
+          "Kenzo: What's attracted to chalyte? Oh, death ray! The death..."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "Dating the legion disaster and the weapon’s creation",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e024",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0602",
+        "endUid": "u0614"
+      },
+      "lines": [
+        "%% u0602:0-206, u0603:0-29 %%",
+        "Kenzo: Okay, so there's, there's the source of it. Then there's the death ray. So what's the deal? What's the relationship between the death ray and the source of the chalyte, and then the, the, this stone giant guy? Do we understand the dynamic?",
+        "",
+        "%% u0604:0-33 %%",
+        "Wellby: Giant Guy controls the death ray.",
+        "",
+        "%% u0605:0-12 %%",
+        "Kenzo: You control...",
+        "",
+        "%% u0606:0-149 %%",
+        "Wellby: Death ray doesn't seem to be powered by the buried chalyte. It seems to be powered by like the life energy of the people around it, giants around it.",
+        "",
+        "%% u0607:0-57 %%",
+        "Kenzo: Of the giants around it. Okay. Has he used the death ray?",
+        "",
+        "%% u0608:0-103 %%",
+        "Delwath: Yeah, he killed a whole—he, he defeated 3 legions of Chardonian legionnaires by shooting the death ray.",
+        "",
+        "%% u0609:0-30 %%",
+        "Wellby: With—without breaking a sweat.",
+        "",
+        "%% u0610:0-90 %%",
+        "Kenzo: Is this, like, an ancient weapon, or, like, current weapon, or, like, has he had it for, like...?",
+        "",
+        "%% u0611:0-58, u0612:0-136 %%",
+        "DM: Well, the implication from legends are, is he made it, but... But probably not, like, you know, this is like a few 100. This—all the Legion—the, the battle was in 1715, so that was, like, 30 years ago.",
+        "",
+        "%% u0613:0-41 %%",
+        "Kenzo: Oh, okay. Has it been used prior to that?",
+        "",
+        "%% u0614:0-13 %%",
+        "DM: I don't know.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Thanks, guys. Bye-bye.",
+          "Wellby: Like.",
+          "Kenzo: Okay, in all, in all seriousness, to summarize. So what's the difference? So there's the source of chalyte, which is, like, where it's just, like, buried in the—it's on the mountain ridge, or whatever. It's, like, the, the actual...",
+          "Delwath: And somewhere, yeah.",
+          "DM: I mean, yeah."
+        ],
+        "after": [
+          "Kenzo: Okay, where are the, the plans to this, this cuddle beam ray? Are, are the...?",
+          "Delwath: Does that have an exhaust port?",
+          "Kenzo: Yeah, is there, is there an architect that made the...?",
+          "Wellby: What is the reactor module situation?",
+          "Kenzo: Where's the shaft that goes directly to the the core of the death ray?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Faldrak questions leaving the death ray intact",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0657",
+        "endUid": "u0668"
+      },
+      "lines": [
+        "%% u0657:0-31, u0658:0-44, u0659:0-18, u0660:0-62, u0661:0-85 %%",
+        "DM: So, right. So, so sitting around, you know, Faldrak's listening, and he's like, he sort of laughs, “I know that you’re all, like, more powerful and smarter than me, but when has it ever made sense to go into battle with a death ray hanging above you?”",
+        "",
+        "%% u0662:0-10, u0663:0-57 %%",
+        "((Brief interjections))",
+        "",
+        "%% u0664:0-80 %%",
+        "Wellby: Because it would be simpler if we didn't have to. But it sounds like we have to.",
+        "",
+        "%% u0665:0-20 %%",
+        "((Brief interjections))",
+        "",
+        "%% u0666:0-177 %%",
+        "Delwath: What's wrong with the plan of starting a revolution amongst the giants and having them break free from their entrapment with the death ray so it doesn't have any power anymore?",
+        "",
+        "%% u0667:0-42 %%",
+        "Wellby: Well, if they haven't done it yet, I mean.",
+        "",
+        "%% u0668:0-43 %%",
+        "Delwath: Well, they can't, can't do it on their own.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: That's yes.",
+          "DM: You can ask 5 yes or no questions, but, but they—the tanshi cannot see the future. So you can't ask about something that's going to happen.",
+          "Wellby: Who—we could ask, like, is it, is it reasonable to kill the giant without disabling the death ray? Like, is that a question about the future?",
+          "DM: So just confirm.",
+          "Delwath: Confirm all our theories. I mean, we could ask, is such and such alive? Is... Is he, is he imprisoning...? I mean, it might be useful to just..."
+        ],
+        "after": [
+          "Kenzo: Don't, don't let... Point. What, what if we cause...? Okay, can we ask, actually—okay, can we understand more about the relationship between, like, is there an enslavement relationship? Cut, like... Let's ask.",
+          "Delwath: I'm gonna cast Contact Other Plane.",
+          "Kenzo: Yes.",
+          "Delwath: The 1st question I'm going to ask is, is king—is drush just whatever...",
+          "DM: Dhrukmir."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Answers about the enslaved giants and the Violet Lance",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0673",
+        "endUid": "u0734"
+      },
+      "lines": [
+        "%% u0673:0-35 %%",
+        "Delwath: I'm gonna cast Contact Other Plane.",
+        "",
+        "%% u0674:0-4 %%",
+        "Kenzo: Yes.",
+        "",
+        "%% u0675:0-70 %%",
+        "Delwath: The 1st question I'm going to ask is, is king—is drush just whatever...",
+        "",
+        "%% u0676:0-9 %%",
+        "DM: Dhrukmir.",
+        "",
+        "%% u0677:0-57 %%",
+        "Delwath: Dhrukmir enslaving other giants in the Chataan Mountains?",
+        "",
+        "%% u0678:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u0679:0-85, u0680:0-75, u0681:0-6, u0682:0-38, u0683:0-14, u0684:0-11, u0685:0-85, u0686:0-11, u0687:0-117, u0688:0-37, u0689:0-98, u0690:0-39 %%",
+        "((Planning and refining the next question))",
+        "",
+        "%% u0691:0-29, u0692:0-20, u0693:0-70 %%",
+        "Delwath: Are, are they? Are they able? Are they able to act of their own free will, of their free will? Yeah, are the giants, like...?",
+        "",
+        "%% u0694:0-21 %%",
+        "DM: As far as we can see.",
+        "",
+        "%% u0695:0-16, u0696:0-71, u0697:0-49, u0698:0-99, u0699:0-3, u0700:0-9 %%",
+        "((Planning and refining the next question))",
+        "",
+        "%% u0701:0-13, u0702:0-75 %%",
+        "Delwath: Do the giant...? Are the enslaved giants necessary for the violent—violet lance to function?",
+        "",
+        "%% u0703:0-48, u0704:0-13 %%",
+        "((Planning and refining the next question))",
+        "",
+        "%% u0705:0-33 %%",
+        "Delwath: Five questions. Let's confirm it.",
+        "",
+        "%% u0706:0-16, u0707:0-4 %%",
+        "((Planning and refining the next question))",
+        "",
+        "%% u0708:0-27, u0709:0-48, u0710:0-4 %%",
+        "DM: The, the response you get is, “Giants, yes. The enslaved ones, not necessarily.” Yes.",
+        "",
+        "%% u0711:0-48 %%",
+        "Delwath: Are there free giants in the mountains as well?",
+        "",
+        "%% u0712:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u0713:0-17 %%",
+        "Delwath: That was 4, right?",
+        "",
+        "%% u0714:0-4 %%",
+        "DM: Yep.",
+        "",
+        "%% u0715:0-9, u0716:0-82, u0717:0-72, u0718:0-133, u0719:0-57, u0720:0-28, u0721:0-5, u0722:0-23, u0723:0-62, u0724:0-71, u0725:0-56, u0726:0-108, u0727:0-89, u0728:0-3, u0729:0-9, u0730:0-94 %%",
+        "((Planning and refining the next question))",
+        "",
+        "%% u0731:0-56 %%",
+        "Delwath: Would the, would the enslaved giants aid us in deposing",
+        "",
+        "%% u0732:0-4 %%",
+        "Wellby: Yes.",
+        "",
+        "%% u0733:0-9 %%",
+        "Delwath: Dhrukmir?",
+        "",
+        "%% u0734:0-38 %%",
+        "DM: Perhaps under the right circumstances.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: But, but it's a, that...",
+          "Delwath: What's wrong with the plan of starting a revolution amongst the giants and having them break free from their entrapment with the death ray so it doesn't have any power anymore?",
+          "Wellby: Well, if they haven't done it yet, I mean.",
+          "Delwath: Well, they can't, can't do it on their own.",
+          "Kenzo: Don't, don't let... Point. What, what if we cause...? Okay, can we ask, actually—okay, can we understand more about the relationship between, like, is there an enslavement relationship? Cut, like... Let's ask."
+        ],
+        "after": [
+          "Kenzo: Cool. So let's engage in some giant subterfuge. We should make contact with the giants stealthily.",
+          "Delwath: So the next question is, do we just sneak in and see what's going on, and try and count on invisibility and other forms of stealth to not be found?",
+          "Kenzo: Clairvoyance. Let's let's do a little of that 1st with Seeker.",
+          "Delwath: Yeah.",
+          "DM: Yeah, you gotta get to within a mile."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Lightning feeds the tower",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1019",
+        "endUid": "u1048"
+      },
+      "lines": [
+        "%% u1019:0-190, u1020:0-106, u1021:0-31, u1022:0-40 %%",
+        "DM: Yeah, so you can't, like, the lightning actually, like, as you, as the vulture kind of soars above the tower, not getting too close to lightning, you actually see, like, the lightning is almost... It's actually kind of shooting out of these landing platforms. And it looks like it actually descends down through the middle of the tower to, like, charge a death ray or something.",
+        "",
+        "%% u1023:0-63 %%",
+        "Wellby: Oh, so should we Clairvoyance the top floor of the tower then?",
+        "",
+        "%% u1024:0-11 %%",
+        "Kenzo: I think so.",
+        "",
+        "%% u1025:0-48, u1026:0-9, u1027:0-8, u1028:0-109 %%",
+        "DM: Okay, so you look at the top floor of the tower. There are... Okay, so you, you can see as the Clairvoyance eye appears, and, and Seeker looks out and starts describing what he sees.",
+        "",
+        "%% u1029:0-2, u1030:0-147, u1031:0-30, u1032:0-3, u1033:0-330 %%",
+        "DM: So the lightning actually, like, once you get closer, actually, you can—or from this Clairvoyance thing you can actually see that the lightning is not directly coming through these... The open platforms is actually sort of running a bit along the roof, right above where the open platforms are. Then it coalesces at the top, and as you look in to this top floor you can see that there’s a giant column of purple lightning that descends, that goes up to the roof, and then descends down through the middle of the tower.",
+        "",
+        "%% u1033:330-348, u1034:0-70, u1035:0-176, u1036:0-46, u1037:0-97, u1038:0-51, u1039:0-52, u1040:0-75, u1041:0-123, u1042:0-65, u1043:0-129 %%",
+        "((Guard descriptions and tower dimensions))",
+        "",
+        "%% u1044:0-60, u1045:0-76 %%",
+        "DM: But other than the sort of 2 giants, the lightning pillar and the steps going down, there does not appear to be much else in the top floor.",
+        "",
+        "%% u1046:0-78 %%",
+        "Wellby: So there's not, like, controls? There's not, like, a big lever in the middle, like...",
+        "",
+        "%% u1047:0-39, u1048:0-62 %%",
+        "DM: Not on this floor. I mean, the lightning, pillar of lightning goes down towards the bottom of the tower.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Alright, let's look in the top floor then.",
+          "DM: The vulture is gonna, like, fly—the vultures—you're gonna have to make an animal handling check to get it to fly close to the tower. Like, that's, like, a very hard animal handling check.",
+          "Wellby: Believe.",
+          "DM: The tower is like basically surrounded by lightning.",
+          "Wellby: It can... No, I feel bad. I can't make a vulture do that. I can make my bats, who die every single time, do that, but it's a..."
+        ],
+        "after": [
+          "Delwath: We like find an ogre, and talk to them.",
+          "DM: I mean, yeah, you can.",
+          "Delwath: You know what I mean?",
+          "DM: Sure and attempt whatever you'd like to attempt.",
+          "Delwath: No, I know. I'm not asking you. I'm asking..."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Discovering and dispelling the carved eye",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1288",
+        "endUid": "u1323"
+      },
+      "lines": [
+        "%% u1288:0-32, u1289:0-44, u1290:0-134 %%",
+        "DM: And, Wellby, your, your bow sort of tugs you slightly, and you look, and you see sort of hidden nestled among one of these boulders, there is a small—a purple gem that's clearly been carved into the shape of an eye.",
+        "",
+        "%% u1291:0-105 %%",
+        "Wellby: I will telepathically alert the rest of the party of that, and we’ll all freeze and tuck in for a minute.",
+        "",
+        "%% u1292:0-6, u1293:0-46, u1294:0-17 %%",
+        "Kenzo: Fives. Detect Magic, Detect Evil? What's going on here? Get Detect Magic.",
+        "",
+        "%% u1295:0-39, u1296:0-61, u1297:0-29, u1298:0-60, u1299:0-42, u1300:0-47 %%",
+        "((Spell timing, range and caster discussion))",
+        "",
+        "%% u1301:0-41 %%",
+        "Delwath: Yeah, 1 min. It's 1 min. It doesn't work.",
+        "",
+        "%% u1302:0-53 %%",
+        "DM: There is divination magic coming from this gemstone.",
+        "",
+        "%% u1303:0-29, u1304:0-33, u1305:0-58, u1306:0-25, u1307:0-3, u1308:0-100, u1309:0-34, u1310:0-5, u1311:0-45, u1312:0-11, u1313:0-17, u1314:0-104, u1315:0-18, u1316:0-42, u1317:0-84, u1318:0-40, u1319:0-5, u1320:0-80 %%",
+        "((Spell timing, range and caster discussion))",
+        "",
+        "%% u1321:0-20, u1322:0-79 %%",
+        "DM: Oh, right, I forgot. Okay, so Delwath casts Dispel Magic, and the glow on this carved eye gem fades.",
+        "",
+        "%% u1323:0-32 %%",
+        "Delwath: I'll motion, you know, let's go.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Yeah.",
+          "DM: Okay, go ahead and make a... Schwartz, make a perception check for Wellby with advantage. Kenzo, straight perception check.",
+          "Wellby: 21. Sorry, 28.",
+          "DM: Okay, the...",
+          "DM: As you begin to sort of creep forward, you get to about maybe a thousand yards or so from the from the back edge of this warehouse, maybe, maybe a bit more, maybe like half a mile."
+        ],
+        "after": [
+          "DM: And everybody continues forward. You get to within about a hundred feet of the edge of the of the, of the warehouse. Everybody rolls stealth checks. Somebody want to roll a d. 20 for Seeker?",
+          "Wellby: Seeker should—can Seeker be invisible? Seeker's got stealth issues.",
+          "DM: No, no, he doesn't.",
+          "Wellby: Doesn't he?",
+          "DM: He's got a plus 5. It's not terrible."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "The ogre returns to tell the Magic Rock about the village",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1389",
+        "endUid": "u1440"
+      },
+      "lines": [
+        "%% u1389:0-40, u1390:0-43 %%",
+        "Delwath: Yes, I will cast Tongues and Suggestion. And it might suggest—my suggestion will be...",
+        "",
+        "%% u1391:0-54, u1392:0-41, u1393:0-34, u1394:0-84, u1395:0-86 %%",
+        "Delwath: And which lasts for 8 h. So my suggestion is gonna be, there's a—I mean, I should say there's a a magic rock behind the warehouse, and you really want to tell it everything you know and see happen over the next 8 h. Everything you know about the village and see happen in the village over the next 8 h.",
+        "",
+        "%% u1396:0-5, u1397:0-10, u1398:0-4 %%",
+        "((Acknowledgments and a reused-name joke))",
+        "",
+        "%% u1399:0-58 %%",
+        "Delwath: It'll grant your—it'll grant you a favor in the next life.",
+        "",
+        "%% u1400:0-73, u1401:0-97, u1402:0-51, u1403:0-62 %%",
+        "DM: The ogre stops, and he looks at the boulder that you're hid—hiding behind, right? There's, like, a, a rock that you're all sort of crouched behind that's near the back of the warehouse, and he looks, and he, he says in Giant, “Did you just”—pointing at the boulder—“did you just talk to me?”",
+        "",
+        "%% u1404:0-5 %%",
+        "Kenzo: Gosh!",
+        "",
+        "%% u1405:0-7, u1406:0-50 %%",
+        "DM: Pop up. I'll come back. I, I just have to get rid of Crunk.",
+        "",
+        "%% u1407:0-13, u1408:0-49, u1409:0-63, u1410:0-15, u1411:0-3, u1412:0-22 %%",
+        "((Acknowledgments and a reused-name joke))",
+        "",
+        "%% u1413:0-31, u1414:0-23, u1415:0-28 %%",
+        "DM: ((Name joke)) Oh, don't tell anybody. I'll be back soon, Big Rock.",
+        "",
+        "%% u1416:0-25 %%",
+        "Kenzo: See you soon. Can't wait.",
+        "",
+        "%% u1417:0-34, u1418:0-89, u1419:0-76, u1420:0-18, u1421:0-28 %%",
+        "DM: Stomps off. About 40, 50 min later, you hear what sounds like a large creature trying to tiptoe badly, and the ogre sits down facing the rock, kind of kneeling a little bit and looking towards the rock. Hello, Rock. Do I...? I will tell you many things.",
+        "",
+        "%% u1422:0-40, u1423:0-88, u1424:0-13, u1425:0-5 %%",
+        "DM: He starts talking about the village, and I mean, there’s not much of a village—about the mighty awesome power of, of Dhrukmir, about how they are... Yeah.",
+        "",
+        "%% u1426:0-67, u1427:0-75, u1428:0-23, u1429:0-49, u1430:0-47 %%",
+        "DM: Everybody who, who brings the special rocks to Dhrukmir is rewarded. The, the people who bring the most special rocks get the whips the next day, and they get a day off, and the people who bring the least special rocks, well, you don't want to be one of those people.",
+        "",
+        "%% u1431:0-51, u1432:0-52, u1433:0-100, u1434:0-32, u1435:0-29, u1436:0-11, u1437:0-66 %%",
+        "DM: But nobody really knows what the special rocks are or quite why they're here, but they pile them in the warehouse, and then somehow—he points up—they make the lightning. And, and once I remember, I think I got to see the lightning move. One of the big, big creatures, stupid man, thought he could run away, and now he's just a little pile of ash.",
+        "",
+        "%% u1438:0-54, u1439:0-22, u1440:0-61 %%",
+        "DM: Ha, ha! Ha! Us big, smart men never think to run away. We never be ash. Haha! Stupid big men are ash. Hate to be one of them stupid big men.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Like, looking for us, or he’s just actually just...?",
+          "DM: No, no, he's, he's...",
+          "Delwath: I don't know.",
+          "DM: There's 2... There's some loose ore that's...",
+          "Kenzo: Appreciate... playing."
+        ],
+        "after": [
+          "Delwath: The, the Delwath, like, whispered—I can't say, like, actually, I guess... But Kenzo's doing a good rock impression, so...",
+          "Kenzo: Yeah. Go ahead.",
+          "Delwath: The, the rock should ask—yeah, some stupid... Do, do any of the stupid big men not, like, not believe in the strength of Dhrukmir, but—or not—wait, right? Wait!",
+          "Kenzo: Yeah, yeah, we asked that.",
+          "DM: Not after big man turned to ash. Everybody bowed down and worshipped then. Ha! Ha! I knew it. Nobody likes ash."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "The ogre identifies discontented stone giants",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1444",
+        "endUid": "u1592"
+      },
+      "lines": [
+        "%% u1444:0-42, u1445:0-42, u1446:0-30, u1447:0-38 %%",
+        "Delwath: The, the rock should ask—yeah, some stupid... Do, do any of the stupid big men not, like, not believe in the strength of Dhrukmir, but—or not—wait, right? Wait!",
+        "",
+        "%% u1448:0-26 %%",
+        "Kenzo: Yeah, yeah, we asked that.",
+        "",
+        "%% u1449:0-32, u1450:0-60, u1451:0-17 %%",
+        "DM: Not after big man turned to ash. Everybody bowed down and worshipped then. Ha! Ha! I knew it. Nobody likes ash.",
+        "",
+        "%% u1452:0-20, u1453:0-35 %%",
+        "Kenzo: Which big men. We’re...? What's the name of the leader guy?",
+        "",
+        "%% u1454:0-9 %%",
+        "DM: Dhrukmir.",
+        "",
+        "%% u1455:0-47 %%",
+        "Kenzo: Dhrukmir. Which big men did not like Dhrukmir?",
+        "",
+        "%% u1456:0-18 %%",
+        "DM: Can't follow that.",
+        "",
+        "%% u1457:0-40, u1458:0-28, u1459:0-68, u1460:0-24 %%",
+        "DM: Some of—some of them have purple crowns. They the, they, the boss men. Purple-crowned big men, they the bosses. Everybody listen to them. They have lots of power.",
+        "",
+        "%% u1461:0-21, u1462:0-22 %%",
+        "Kenzo: And all purple crown big men like Dhrukmir?",
+        "",
+        "%% u1463:0-69, u1464:0-68, u1465:0-44, u1466:0-49, u1467:0-33, u1468:0-44 %%",
+        "DM: Big purple crown—slightly confused—like, yeah, he make purple crown. Big, big boss man, giant boss man make purple crown on big stone man. Only the best big stone man get purple crown. Bad big stone men get ground to ash, turn to dust. Us smart ones never turn to dust. We work hard to make crowns for the big men.",
+        "",
+        "%% u1469:0-3 %%",
+        "Kenzo: Ha!",
+        "",
+        "%% u1470:0-10 %%",
+        "DM: Something.",
+        "",
+        "%% u1471:0-73 %%",
+        "Kenzo: The rock is like, “Ha! You so smart they never catch you. You're the best.”",
+        "",
+        "%% u1472:0-16 %%",
+        "DM: Thank you, Rock.",
+        "",
+        "%% u1473:0-12 %%",
+        "Kenzo: Oh, alright!",
+        "",
+        "%% u1474:0-10 %%",
+        "DM: Nice rock.",
+        "",
+        "%% u1475:0-66 %%",
+        "Kenzo: Any, any big man not turned to dust who do not like big boss man?",
+        "",
+        "%% u1476:0-32, u1477:0-45 %%",
+        "DM: I don't know what big men think. Purple-crowned big men smash rock sometimes.",
+        "",
+        "%% u1478:0-55 %%",
+        "Kenzo: Ever seen big boss man get mad at big man still alive?",
+        "",
+        "%% u1479:0-73, u1480:0-28, u1481:0-58, u1482:0-31, u1483:0-48 %%",
+        "DM: Thinks for a minute, and he’s, like, counting on his fingers. Big boss man... Big, big boss man always win. Nobody get mad at him. Stomp, stomp, smush, or turn to ash. Big boss man like big boss man. Big men are just big man. Big boss men like big...",
+        "",
+        "%% u1484:0-15 %%",
+        "Kenzo: Any, any bigger...",
+        "",
+        "%% u1485:0-5 %%",
+        "DM: Good.",
+        "",
+        "%% u1486:0-35 %%",
+        "Kenzo: Big man mad at purple hat big man?",
+        "",
+        "%% u1487:0-58, u1488:0-35, u1489:0-34 %%",
+        "DM: Some, some of them stomp off when their stones get smashed. Silly. We are here to smash stones. Don't know what's wrong with them.",
+        "",
+        "%% u1490:0-3 %%",
+        "Kenzo: On!",
+        "",
+        "%% u1491:0-90 %%",
+        "DM: I smash stones all the time. Smack! Not you! You're a great rock. I would never smash you.",
+        "",
+        "%% u1492:0-44 %%",
+        "Kenzo: Thank you. You great rock. You also great.",
+        "",
+        "%% u1493:0-14 %%",
+        "DM: I agree, Rock.",
+        "",
+        "%% u1494:0-174, u1495:0-18, u1496:0-59, u1497:0-28, u1498:0-78, u1499:0-90, u1500:0-57, u1501:0-66, u1502:0-139, u1503:0-36, u1504:0-19, u1505:0-94, u1506:0-48, u1507:0-11, u1508:0-61, u1509:0-59, u1510:0-51, u1511:0-4, u1512:0-66, u1513:0-18, u1514:0-49, u1515:0-26, u1516:0-82, u1517:0-46, u1518:0-32, u1519:0-126, u1520:0-19, u1521:0-82, u1522:0-71, u1523:0-21, u1524:0-17, u1525:0-107, u1526:0-263, u1527:0-102, u1528:0-72, u1529:0-174, u1530:0-38 %%",
+        "((Planning how to identify the discontented giants by appearance))",
+        "",
+        "%% u1531:0-10, u1532:0-65, u1533:0-27, u1534:0-125, u1535:0-57 %%",
+        "Kenzo: Thank you. So I asked the, the, the ogre again about the, the ones that are mad at the purple purple heads. And for the different color giants that we've seen, like, what are some of, like, like—is it, like, black giant, blackstone giant? Like, is he, is, is the ogre gonna understand, like, marble?",
+        "",
+        "%% u1536:0-32 %%",
+        "DM: No, but like white, or you know.",
+        "",
+        "%% u1537:0-8 %%",
+        "Kenzo: Perfect.",
+        "",
+        "%% u1538:0-37 %%",
+        "DM: White or gray, or or green, or black.",
+        "",
+        "%% u1539:0-78 %%",
+        "Kenzo: So we'll ask him that: any of those colors mad at the—mad at the purple heads?",
+        "",
+        "%% u1540:0-8 %%",
+        "Wellby: Awesome.",
+        "",
+        "%% u1541:0-80, u1542:0-26, u1543:0-83, u1544:0-84 %%",
+        "DM: Ha, ha! Ha! Yeah, I saw, I saw 2 of the, the dark ones, the ones, like, with black... What do you call it? Stone. Stone. And you call it stone. You're a rock, you should know. We call a stone stone. Yeah, they were sad. They were sitting in a corner with their pile of smashed rocks.",
+        "",
+        "%% u1545:0-4 %%",
+        "Kenzo: Aha!",
+        "",
+        "%% u1546:0-166 %%",
+        "DM: I threw some rocks at them, and one of the purple crowns is like, “Yeah, go, you good guy, throw some rocks at them, those stupid black ones.” They didn’t look grateful.",
+        "",
+        "%% u1547:0-17 %%",
+        "Kenzo: Dumb blackstones.",
+        "",
+        "%% u1548:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u1549:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u1550:0-17, u1551:0-33, u1552:0-37 %%",
+        "DM: Can I throw some? You could throw yourself at that, smash him up. Oh, wait! Can you move?",
+        "",
+        "%% u1553:0-45 %%",
+        "Kenzo: I'll do it later. I'll do it later, and then...",
+        "",
+        "%% u1554:0-78, u1555:0-52 %%",
+        "DM: Okay, okay, okay, okay. Yeah, 2, 2 of them. They stick together. They’re like big, big man, but, like, thin, not burly-armed like me.",
+        "",
+        "%% u1556:0-14 %%",
+        "Kenzo: Okay, perfect.",
+        "",
+        "%% u1557:0-29, u1558:0-109, u1559:0-32 %%",
+        "DM: Dark and, like, like, streaks of... He, like, points at the rock where there’s, like, a weathered patch that’s, like, lighter color...? That thing, yeah. Aha! They were. They were funny.",
+        "",
+        "%% u1560:0-6 %%",
+        "Kenzo: There!",
+        "",
+        "%% u1561:0-24 %%",
+        "DM: You smash them up good!",
+        "",
+        "%% u1562:0-11 %%",
+        "Kenzo: We smashed...",
+        "",
+        "%% u1563:0-32 %%",
+        "DM: Dumb, not like me. I'm not dumb.",
+        "",
+        "%% u1564:0-10 %%",
+        "Kenzo: You smart.",
+        "",
+        "%% u1565:0-34 %%",
+        "DM: Yeah, he taps the rock. Good rock.",
+        "",
+        "%% u1566:0-53, u1567:0-40, u1568:0-42, u1569:0-131 %%",
+        "Kenzo: Alright, I think we've learned what we need to learn. It was great. We're gonna save that one. Yeah, that one—that ogre is not gonna die. Okay, so we thank, we thank the ogre. We, we work—we tell them to get excited for when we, when the rock throws itself at the [garbled].",
+        "",
+        "%% u1570:0-28 %%",
+        "DM: Have you heard enough, Rock?",
+        "",
+        "%% u1571:0-39 %%",
+        "Kenzo: Have we anything else we want to learn?",
+        "",
+        "%% u1572:0-12, u1573:0-66 %%",
+        "DM: Do I get my...? Do I get my whatever it is you promised me? I don't remember now.",
+        "",
+        "%% u1574:0-33, u1575:0-13 %%",
+        "Wellby: Where does the big, big boss stay? Do I do that?",
+        "",
+        "%% u1576:0-33, u1577:0-188 %%",
+        "DM: Big, big bosses so cool. He climbed out of the middle of the pit whenever he’s mad, and he grows and he grows, and he takes his arms and he puts them down, and he pulls himself out of the top, and his head goes above the pit.",
+        "",
+        "%% u1578:0-11 %%",
+        "Wellby: That's big.",
+        "",
+        "%% u1579:0-5 %%",
+        "DM: Boom.",
+        "",
+        "%% u1580:0-13 %%",
+        "Delwath: 50 feet tall.",
+        "",
+        "%% u1581:0-56 %%",
+        "DM: Yeah, probably a little more than 50 feet, like 60 feet.",
+        "",
+        "%% u1582:0-14 %%",
+        "Kenzo: Have you ever...?",
+        "",
+        "%% u1583:0-13 %%",
+        "DM: He's so cool.",
+        "",
+        "%% u1584:0-82 %%",
+        "Kenzo: Have you ever seen the big boss scared of anything, or is he always never scared?",
+        "",
+        "%% u1585:0-25, u1586:0-13, u1587:0-33 %%",
+        "DM: That's a stupid question. Never scared. There's a story somebody told me...",
+        "",
+        "%% u1588:0-29 %%",
+        "Kenzo: Hmm. Tell me the story. Yeah.",
+        "",
+        "%% u1589:0-58 %%",
+        "DM: Killed a million people. I don't know, is that a big number?",
+        "",
+        "%% u1590:0-11 %%",
+        "Kenzo: Pretty big.",
+        "",
+        "%% u1591:0-17 %%",
+        "Delwath: Pretty big. Okay.",
+        "",
+        "%% u1592:0-54 %%",
+        "DM: Tell him no good. Big man, big, big boss man the best.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Everybody who, who brings the special rocks to Dhrukmir is rewarded. The, the people who bring the most special rocks get the whips the next day, and they get a day off, and the people who bring the least special rocks, well, you don't want to be one of those people.",
+          "DM: But nobody really knows what the special rocks are or quite why they're here, but they pile them in the warehouse, and then somehow—he points up—they make the lightning. And, and once I remember, I think I got to see the lightning move. One of the big, big creatures, stupid man, thought he could run away, and now he's just a little pile of ash.",
+          "DM: Ha, ha! Ha! Us big, smart men never think to run away. We never be ash. Haha! Stupid big men are ash. Hate to be one of them stupid big men.",
+          "Delwath: The, the Delwath, like, whispered—I can't say, like, actually, I guess... But Kenzo's doing a good rock impression, so...",
+          "Kenzo: Yeah. Go ahead."
+        ],
+        "after": [
+          "Delwath: Yeah, can you tell one of the sad black big men to come over here so we can, so we can throw it—so, so I can throw myself at him?",
+          "DM: He looks scared. If you're gonna smash them, I'll do what you say, but the big men don't listen to us smart ones.",
+          "Delwath: Yeah, tell him there's a secret...",
+          "DM: You're gonna make fun of him.",
+          "Delwath: Secret code word, secret code word. You have to say—okay, what’s our secret? What do we...?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Sending the ogre with secret words",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e020",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1593",
+        "endUid": "u1672"
+      },
+      "lines": [
+        "%% u1593:0-48, u1594:0-80 %%",
+        "Delwath: Yeah, can you tell one of the sad black big men to come over here so we can, so we can throw it—so, so I can throw myself at him?",
+        "",
+        "%% u1595:0-16, u1596:0-53, u1597:0-42 %%",
+        "DM: He looks scared. If you're gonna smash them, I'll do what you say, but the big men don't listen to us smart ones.",
+        "",
+        "%% u1598:0-14, u1599:0-17 %%",
+        "Delwath: Yeah, tell him there's a secret...",
+        "",
+        "%% u1600:0-29 %%",
+        "DM: You're gonna make fun of him.",
+        "",
+        "%% u1601:0-90 %%",
+        "Delwath: Secret code word, secret code word. You have to say—okay, what’s our secret? What do we...?",
+        "",
+        "%% u1602:0-53 %%",
+        "Delwath: Repeat exactly this. It'll make them do what you say.",
+        "",
+        "%% u1603:0-30 %%",
+        "DM: You're such a good magic rock.",
+        "",
+        "%% u1604:0-97, u1605:0-65, u1606:0-50, u1607:0-24, u1608:0-39, u1609:0-71, u1610:0-57, u1611:0-43, u1612:0-50, u1613:0-50, u1614:0-27, u1615:0-5, u1616:0-95, u1617:0-5, u1618:0-40, u1619:0-2, u1620:0-4, u1621:0-88, u1622:0-36, u1623:0-25, u1624:0-18, u1625:0-30, u1626:0-63, u1627:0-54, u1628:0-28, u1629:0-12 %%",
+        "((Choosing the secret message and discussing its wording))",
+        "",
+        "%% u1630:0-85 %%",
+        "Delwath: Say, say to him, say to the, the sad black one, “Magic rock says, down with Skybreaker.”",
+        "",
+        "%% u1631:0-37, u1632:0-13 %%",
+        "DM: Magic words. You give me magic words. You are rock.",
+        "",
+        "%% u1633:0-53 %%",
+        "Wellby: These words can be said to no one but that one alone.",
+        "",
+        "%% u1634:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u1635:0-27 %%",
+        "Delwath: If anybody else hears them...",
+        "",
+        "%% u1636:0-5 %%",
+        "DM: Sure.",
+        "",
+        "%% u1637:0-55 %%",
+        "Delwath: You will be hit by the stone instead of, instead of him.",
+        "",
+        "%% u1638:0-7 %%",
+        "Wellby: Indeed.",
+        "",
+        "%% u1639:0-11 %%",
+        "Kenzo: Understood.",
+        "",
+        "%% u1640:0-23 %%",
+        "DM: I will be very careful.",
+        "",
+        "%% u1641:0-11 %%",
+        "Kenzo: Gotcha now.",
+        "",
+        "%% u1642:0-14 %%",
+        "DM: Powerful rock.",
+        "",
+        "%% u1643:0-20 %%",
+        "Kenzo: You're so—grants me...",
+        "",
+        "%% u1644:0-7 %%",
+        "DM: Powers.",
+        "",
+        "%% u1645:0-16 %%",
+        "Kenzo: You're so smart.",
+        "",
+        "%% u1646:0-5, u1647:0-28 %%",
+        "DM: I am. I am king of the ogres now.",
+        "",
+        "%% u1648:0-47 %%",
+        "Kenzo: Oh, don't tell anyone that, though. Must bring...",
+        "",
+        "%% u1649:0-45 %%",
+        "DM: I will keep it secret till you grant my wish.",
+        "",
+        "%% u1650:0-24 %%",
+        "Kenzo: Very good. Secret, yeah.",
+        "",
+        "%% u1651:0-86, u1652:0-13 %%",
+        "DM: I will be hidden, and when the kingdom of the Magic Rock comes I will be your servant. Is that good?",
+        "",
+        "%% u1653:0-4 %%",
+        "Delwath: Yes.",
+        "",
+        "%% u1654:0-10 %%",
+        "Kenzo: Very good.",
+        "",
+        "%% u1655:0-43, u1656:0-42 %%",
+        "DM: I'll go speak the magic words now, quietly. I won't tell anybody about the magic Rock.",
+        "",
+        "%% u1657:0-5 %%",
+        "Kenzo: Lost!",
+        "",
+        "%% u1658:0-35 %%",
+        "DM: I will tell one person about—wait.",
+        "",
+        "%% u1659:0-24 %%",
+        "Kenzo: Yes, only the Black one.",
+        "",
+        "%% u1660:0-46 %%",
+        "DM: I will tell only the one about the magic rock.",
+        "",
+        "%% u1661:0-4 %%",
+        "Kenzo: Yes.",
+        "",
+        "%% u1662:0-8 %%",
+        "Wellby: Perfect.",
+        "",
+        "%% u1663:0-4 %%",
+        "DM: Sad.",
+        "",
+        "%% u1664:0-13 %%",
+        "Kenzo: That's smart.",
+        "",
+        "%% u1665:0-24, u1666:0-25 %%",
+        "DM: And the magic words are... Death to the sky tyrant!",
+        "",
+        "%% u1667:0-25 %%",
+        "Kenzo: Down with the Skybreaker.",
+        "",
+        "%% u1668:0-25, u1669:0-51, u1670:0-56 %%",
+        "DM: Down with the Skybreaker. These are hard, hard words. Magic is hard to learn. Down with the Skybreaker! Down with the Skybreaker! Down...",
+        "",
+        "%% u1671:0-42, u1672:0-54 %%",
+        "DM: He walks away, muttering under his breath. Down with this! I have to remember! Down with the sky...",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Hmm. Tell me the story. Yeah.",
+          "DM: Killed a million people. I don't know, is that a big number?",
+          "Kenzo: Pretty big.",
+          "Delwath: Pretty big. Okay.",
+          "DM: Tell him no good. Big man, big, big boss man the best."
+        ],
+        "after": [
+          "Kenzo: This is gonna end so badly.",
+          "Delwath: About a 50, 50 on that one.",
+          "Kenzo: Just to say, there's other versions of the adventure where we would have done none of this and just teleported directly into the thing and just see what happens. That's, like, completely what we would normally do. So I—this is, this is, this is high level D and D right here.",
+          "Wellby: But I love it.",
+          "Kenzo: That's great!"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "The singing giant discovers the hidden party",
+      "entities": [
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e021",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1729",
+        "endUid": "u1882"
+      },
+      "lines": [
+        "%% u1729:0-50, u1730:0-76, u1731:0-21, u1732:0-26, u1733:0-42, u1734:0-26, u1735:0-58, u1736:0-38, u1737:0-140, u1738:0-21, u1739:0-28 %%",
+        "DM: The sun sets, and it begins to get dark, and about an hour after, you know, half an hour after sunset, you hear a sort of quiet, very deep bass voice singing what sounds like a some kind of song in, in Giantish, and it's, it's sort of a—it's like a, you know, epic poem style set, set to a sort of bass chant that is, that is telling a story about how the mountains were created. This seems like a legend or some sort of stone giant tale about how the giant—the mountains were sculpted by their All-Father, and it, you know, it's, it's, it's...",
+        "",
+        "%% u1740:0-145, u1741:0-37, u1742:0-27 %%",
+        "DM: The, the idea is it's kind of, it's just kind of a sort of an ancient tale, and he seems to be humming it under his, under his breath a little bit and kind of waiting after each stanza to hear if there's a reply.",
+        "",
+        "%% u1743:0-4, u1744:0-56, u1745:0-47, u1746:0-5, u1747:0-7, u1748:0-81, u1749:0-56, u1750:0-59, u1751:0-22, u1752:0-24, u1753:0-29, u1754:0-5, u1755:0-29, u1756:0-12, u1757:0-65, u1758:0-63, u1759:0-44, u1760:0-171, u1761:0-92, u1762:0-32, u1763:0-15, u1764:0-49, u1765:0-57, u1766:0-53, u1767:0-22, u1768:0-5, u1769:0-10, u1770:0-70, u1771:0-13, u1772:0-5, u1773:0-67, u1774:0-31, u1775:0-56, u1776:0-21, u1777:0-17, u1778:0-4, u1779:0-54, u1780:0-20, u1781:0-27, u1782:0-4, u1783:0-18, u1784:0-8, u1785:0-39, u1786:0-33, u1787:0-63, u1788:0-27, u1789:0-4, u1790:0-34, u1791:0-48, u1792:0-20, u1793:0-12, u1794:0-12, u1795:0-33, u1796:0-5, u1797:0-5, u1798:0-3, u1799:0-11, u1800:0-53, u1801:0-11, u1802:0-15, u1803:0-37, u1804:0-27, u1805:0-36, u1806:0-50, u1807:0-29, u1808:0-93, u1809:0-43, u1810:0-20, u1811:0-16 %%",
+        "((Rules, checks and table discussion))",
+        "",
+        "%% u1812:0-42 %%",
+        "Delwath: Delwath will attempt to echo a verse back.",
+        "",
+        "%% u1813:0-24, u1814:0-5, u1815:0-13, u1816:0-30, u1817:0-72, u1818:0-51, u1819:0-121, u1820:0-76 %%",
+        "((Rules, checks and table discussion))",
+        "",
+        "%% u1821:0-6 %%",
+        "DM: Yeah.",
+        "",
+        "%% u1821:6-38 %%",
+        "Delwath: All right, I'll do it in Elvish.",
+        "",
+        "%% u1822:0-50, u1823:0-66, u1824:0-34, u1825:0-17, u1826:0-11, u1827:0-13, u1828:0-52, u1829:0-33, u1830:0-34, u1831:0-11, u1832:0-3 %%",
+        "((Rules, checks and table discussion))",
+        "",
+        "%% u1833:0-90, u1834:0-80, u1835:0-38 %%",
+        "DM: ((Performance assistance)) the song pauses, and the giant turns and looks back at the rock and walks over and looks behind that, because he's way taller than the rock.",
+        "",
+        "%% u1836:0-8 %%",
+        "Delwath: Wave up!",
+        "",
+        "%% u1837:0-12 %%",
+        "Kenzo: We all wave.",
+        "",
+        "%% u1838:0-13, u1839:0-20, u1840:0-80, u1841:0-43 %%",
+        "((Rules, checks and table discussion))",
+        "",
+        "%% u1842:0-6 %%",
+        "Kenzo: Hello!",
+        "",
+        "%% u1843:0-28, u1844:0-50, u1845:0-54, u1846:0-26, u1847:0-42 %%",
+        "DM: He speaks in halting Common. I have not heard that tongue in hundreds of years. What are one of the forest people doing in this place? Why are you singing to me? I would flee if I were you before you die.",
+        "",
+        "%% u1848:0-17 %%",
+        "Kenzo: Kenzo will speak...",
+        "",
+        "%% u1849:0-12 %%",
+        "DM: Him quietly.",
+        "",
+        "%% u1850:0-35, u1851:0-18, u1852:0-47, u1853:0-50, u1854:0-4, u1855:0-88 %%",
+        "Kenzo: Kenzo will speak directly in Giant. But hello, friend! We are, we are, we are friends. I know this is, might be a surprise to see such beings as us here, but perhaps our interests in this area are aligned, and that way we may be able to help you.",
+        "",
+        "%% u1856:0-70, u1857:0-36, u1858:0-66 %%",
+        "DM: He's, like, bending way, way down, leaning over and, like, puts his hands, reaches down and and picks up Kenzo. “Say that again. Talk quietly, please,” holding you next to his ear.",
+        "",
+        "%% u1859:0-164, u1860:0-122, u1861:0-7, u1862:0-20, u1863:0-83, u1864:0-4 %%",
+        "((Rules, checks and table discussion))",
+        "",
+        "%% u1865:0-86 %%",
+        "Kenzo: We, we may very well be friends, and we may be able to help you in your situation here.",
+        "",
+        "%% u1866:0-13 %%",
+        "DM: I doubt that.",
+        "",
+        "%% u1867:0-32, u1868:0-30 %%",
+        "Kenzo: The giant that lives in the pit, is he your friend or your foe?",
+        "",
+        "%% u1869:0-15 %%",
+        "DM: He is no giant.",
+        "",
+        "%% u1870:0-11 %%",
+        "Kenzo: What is he?",
+        "",
+        "%% u1871:0-49 %%",
+        "DM: An abomination against all that giants stand for.",
+        "",
+        "%% u1872:0-20, u1873:0-45 %%",
+        "Kenzo: Then we are aligned. Would you like to see him out of this valley?",
+        "",
+        "%% u1874:0-36, u1875:0-19, u1876:0-30 %%",
+        "DM: He puts you down on top of the rock. We are not aligned. You may have common interests.",
+        "",
+        "%% u1877:0-24 %%",
+        "Kenzo: What are your interests?",
+        "",
+        "%% u1878:0-25, u1879:0-94, u1880:0-90 %%",
+        "DM: He looks at the 4 of you. You obviously are not weak if you've made it past the chalyte eyes without alerting the guard, and you have done some mind magic to that poor dumb creature, and you're obviously clever.",
+        "",
+        "%% u1881:0-92, u1882:0-66 %%",
+        "DM: He, like, picks up the boulder and, like, shifts a little bit out of the way and then sits down. I'm not sure what you think you are attempting to accomplish here.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: We, we need—we need the black—I mean, we should at least wait until morning and see what happens, just to give the, the giant, the dark giant...",
+          "DM: I mean, it's gonna be. It's not gonna be a very comfortable place to sleep. But, you know, the sun is going to set in an hour, and you could at least wait to see.",
+          "Kenzo: Yeah, let's do that.",
+          "Delwath: I mean, if somebody was coming they would potentially want to wait for a...",
+          "Kenzo: Yeah, totally. We thought."
+        ],
+        "after": [
+          "Delwath: We still have a telepathic link? We do, right? Yeah, yeah, okay.",
+          "Kenzo: Yeah.",
+          "Delwath: We should just tell them we've come from... We want the chalyte. Why not be upfront with them? Make a deal.",
+          "Kenzo: Yeah.",
+          "Delwath: Meal."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Seeking information and common cause",
+      "entities": [
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1885",
+        "endUid": "u1999"
+      },
+      "lines": [
+        "%% u1885:0-41, u1886:0-20, u1887:0-42 %%",
+        "Delwath: We should just tell them we've come from... We want the chalyte. Why not be upfront with them? Make a deal.",
+        "",
+        "%% u1888:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u1889:0-5 %%",
+        "Delwath: Meal.",
+        "",
+        "%% u1890:0-74 %%",
+        "Kenzo: Yeah, you speak in Common. We can speak. That's—we can all speak together.",
+        "",
+        "%% u1891:0-79, u1892:0-22, u1893:0-15 %%",
+        "Delwath: We—I'll tell him, we, we are here on behalf of, while some, the city of Chardon, the empire of Chardon, and we seek to...",
+        "",
+        "%% u1894:0-31 %%",
+        "DM: Has killed many of them before.",
+        "",
+        "%% u1895:0-35 %%",
+        "Delwath: We seek to reopen the chalyte mine.",
+        "",
+        "%% u1896:0-21, u1897:0-38 %%",
+        "DM: Foolish, tiny people. Do you know what is hovering above us?",
+        "",
+        "%% u1898:0-4 %%",
+        "Delwath: Yes.",
+        "",
+        "%% u1899:0-28 %%",
+        "Kenzo: But, oh! That, the Death Star.",
+        "",
+        "%% u1900:0-49 %%",
+        "Delwath: But it, but it can be destroyed or disabled, yes?",
+        "",
+        "%% u1901:0-241 %%",
+        "Kenzo: Hey? Are we able to like through some kind of cantrip or some other way? Just like, because, like, you know, he's like, who are these little tiny human? Can we like? Send him some images of us, like killing a few dragons, and like, you know.",
+        "",
+        "%% u1902:0-56 %%",
+        "DM: Oh, yeah, Seeker can like, Seeker puts on a little show.",
+        "",
+        "%% u1903:0-30, u1904:0-91 %%",
+        "Kenzo: Because it's a Minor Illusion. Yeah, yeah. But let’s show him a little bit of—just give them, give them a little bit more.",
+        "",
+        "%% u1905:0-99, u1906:0-23, u1907:0-19, u1908:0-20 %%",
+        "((Persuasion rolls and clarifying the request for assistance))",
+        "",
+        "%% u1909:0-17, u1910:0-14, u1911:0-24 %%",
+        "DM: ((Persuasion result)) he kind of looks. He like shakes his head.",
+        "",
+        "%% u1912:0-28, u1913:0-69, u1914:0-16, u1915:0-59, u1916:0-33 %%",
+        "DM: As I said, you are obviously, well, you are not weaklings, that is for sure. But you may be fools, and I ask again. You wish to take the chalyte. That is of no concern of mine. I would like to leave this place.",
+        "",
+        "%% u1917:0-12 %%",
+        "Kenzo: We can help.",
+        "",
+        "%% u1918:0-10 %%",
+        "Delwath: Very well.",
+        "",
+        "%% u1919:0-43, u1920:0-45 %%",
+        "Kenzo: We would love to help you leave this place. Are there others like you that want to leave?",
+        "",
+        "%% u1921:0-17 %%",
+        "DM: About half of us.",
+        "",
+        "%% u1922:0-3, u1923:0-26, u1924:0-36 %%",
+        "Delwath: It. It seems to us that if, and we knew more of the workings of that",
+        "",
+        "%% u1925:0-6 %%",
+        "Kenzo: Tower.",
+        "",
+        "%% u1926:0-7 %%",
+        "Delwath: Device.",
+        "",
+        "%% u1927:0-7 %%",
+        "Kenzo: Device.",
+        "",
+        "%% u1928:0-23 %%",
+        "Delwath: and if it was disabled,",
+        "",
+        "%% u1929:0-13 %%",
+        "Kenzo: Or destroyed.",
+        "",
+        "%% u1930:0-65, u1931:0-44 %%",
+        "Delwath: and if we had some help keep the allies of the abomination away, that we would fight the abomination and win.",
+        "",
+        "%% u1932:0-11, u1933:0-9, u1934:0-20 %%",
+        "DM: I will not... It stops. We'll have to think.",
+        "",
+        "%% u1935:0-50, u1936:0-26, u1937:0-66, u1938:0-72, u1939:0-30 %%",
+        "DM: Not everybody is happy with this state of affairs. But there are only 2 fates for those who express their displeasure: disintegration or slowly being used up by the lightning until turn into something unrecognizable, burned out husk of a creature.",
+        "",
+        "%% u1940:0-15, u1941:0-21 %%",
+        "Kenzo: Choose freedom. That's what we offer.",
+        "",
+        "%% u1942:0-49 %%",
+        "Delwath: Well, if we can find a way to destroy that thing,",
+        "",
+        "%% u1943:0-4 %%",
+        "Kenzo: Yes.",
+        "",
+        "%% u1944:0-20, u1945:0-38 %%",
+        "Delwath: take its power away, we think freedom is within your grasp.",
+        "",
+        "%% u1946:0-53 %%",
+        "Wellby: Otherwise one of those 2 fates will be yours in time.",
+        "",
+        "%% u1947:0-4 %%",
+        "Delwath: Yes.",
+        "",
+        "%% u1948:0-8 %%",
+        "DM: Clearly...",
+        "",
+        "%% u1949:0-3 %%",
+        "Delwath: Of.",
+        "",
+        "%% u1950:0-9 %%",
+        "DM: Thinking.",
+        "",
+        "%% u1951:0-76 %%",
+        "Kenzo: The fates have brought us to your door. Let's not let this opportunity pass.",
+        "",
+        "%% u1952:0-28, u1953:0-103, u1954:0-13, u1955:0-38 %%",
+        "((Persuasion rolls and clarifying the request for assistance))",
+        "",
+        "%% u1956:0-71, u1957:0-25 %%",
+        "DM: He's clearly warmed up to you, but he's not necessarily, like, about to... I kind of, like, jump into...",
+        "",
+        "%% u1958:0-9, u1959:0-17 %%",
+        "((Persuasion rolls and clarifying the request for assistance))",
+        "",
+        "%% u1960:0-54 %%",
+        "Wellby: Yeah, I don't think we're asking for combat, but, like...",
+        "",
+        "%% u1961:0-7 %%",
+        "Kenzo: No, no.",
+        "",
+        "%% u1962:0-93 %%",
+        "Wellby: To make—to plan together, to understand together, to see what's possible together, and, like...",
+        "",
+        "%% u1963:0-9 %%",
+        "Kenzo: This one.",
+        "",
+        "%% u1964:0-13 %%",
+        "Wellby: Action, yeah.",
+        "",
+        "%% u1965:0-56, u1966:0-66, u1967:0-27, u1968:0-453, u1969:0-102, u1970:0-77, u1971:0-36, u1972:0-15 %%",
+        "((Persuasion rolls and clarifying the request for assistance))",
+        "",
+        "%% u1973:0-18, u1974:0-115 %%",
+        "Delwath: I think what we're... We're trying to make common cause for him to help us destroy. Nobody can do anything until that death beam is gone.",
+        "",
+        "%% u1975:0-82 %%",
+        "Delwath: We're not asking him to go into the tower or do any of the work, right? We're just...",
+        "",
+        "%% u1976:0-8, u1977:0-3, u1978:0-101, u1979:0-52, u1980:0-5, u1981:0-32, u1982:0-9 %%",
+        "((Persuasion rolls and clarifying the request for assistance))",
+        "",
+        "%% u1983:0-91, u1984:0-39 %%",
+        "DM: Yeah, so he, he sort of relaxes a little bit as he sort of realizes thinking about it, then, planning, yes, I can share what I know.",
+        "",
+        "%% u1985:0-16, u1986:0-4 %%",
+        "DM: The tower, it is... Wow!",
+        "",
+        "%% u1987:0-60, u1988:0-64, u1989:0-65, u1990:0-86, u1991:0-20, u1992:0-94 %%",
+        "DM: You must be careful, for thunder booms constantly within it. It's distracting and hard to focus, and the husks left behind by those of my people who have died at the hands of the abomination will fight you, and some of the traitors who have sought to worship this false god also study the secrets of this false power, this frozen magic that is not even a true stone, not a real gemstone at all.",
+        "",
+        "%% u1993:0-13, u1994:0-60, u1995:0-69, u1996:0-48, u1997:0-48, u1998:0-54, u1999:0-55 %%",
+        "DM: So it is not, it is not a place that where you will find ease and comfort, and I must presume you have some way of reaching it, flight or magic, for I do not think, unless you are immune to the deadly forces of lightning, which most of us are, you'll not be able to use the normal way of transport, allowing yourself to be carried by the lightning burst.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: What are your interests?",
+          "DM: He looks at the 4 of you. You obviously are not weak if you've made it past the chalyte eyes without alerting the guard, and you have done some mind magic to that poor dumb creature, and you're obviously clever.",
+          "DM: He, like, picks up the boulder and, like, shifts a little bit out of the way and then sits down. I'm not sure what you think you are attempting to accomplish here.",
+          "Delwath: We still have a telepathic link? We do, right? Yeah, yeah, okay.",
+          "Kenzo: Yeah."
+        ],
+        "after": [
+          "Kenzo: Can we cast Teleport twice?",
+          "DM: Yeah, yeah. There we go. 7th and 8th level slots. I mean, Seeker has one 7th, 1 8th and 1 9th.",
+          "Kenzo: Okay, alright, cool. So we can get in and out.",
+          "Delwath: Well, it's a Dimension Door.",
+          "Wellby: Or Rainbow Bridge, or Flyaway."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "How the weapon is powered and why escape is dangerous",
+      "entities": [
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e022",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2014",
+        "endUid": "u2057"
+      },
+      "lines": [
+        "%% u2014:0-103, u2015:0-83, u2016:0-103, u2017:0-95, u2018:0-90, u2019:0-71 %%",
+        "DM: So he also says nobody knows exactly what the abomination did to construct it, but I am confident that those of your obvious prowess can find a way to at least disrupt the flow of energy that powers the thing, if not destroy it outright. You can see where the energy flows from the chalyte, and he sort of makes a bitter face as if he doesn't even like saying that word, in the mountains, through—is pointing up—the arcane bolts and down through the middle of the thing to charge the destruction that can be unleashed. Just needs to be blocked somehow.",
+        "",
+        "%% u2020:0-30 %%",
+        "Wellby: Can the beam target the tower?",
+        "",
+        "%% u2021:0-83, u2022:0-14, u2023:0-34, u2024:0-47 %%",
+        "DM: The one place in this valley that is safe from the beam is the inside of the tower. But be warned: once the abomination has seen you, he can target you anywhere within a day's walk.",
+        "",
+        "%% u2025:0-3 %%",
+        "Wellby: Oh!",
+        "",
+        "%% u2026:0-45, u2027:0-85, u2028:0-80, u2029:0-62, u2030:0-37 %%",
+        "DM: My brother snuck out at night many years ago, after a sculpture carved into the side of the mountain he had worked—was getting mad—for a hundred years to produce was carelessly smashed to power that thing. That... But 2 days later they carried his ashes back. Must have gotten 15 miles away in the night at least.",
+        "",
+        "%% u2031:0-82, u2032:0-21, u2033:0-53, u2034:0-24, u2035:0-45, u2036:0-57, u2037:0-14, u2038:0-34 %%",
+        "((Ship-distance discussion and teleportation range))",
+        "",
+        "%% u2039:0-5, u2040:0-43 %%",
+        "DM: Says, but if you can get inside the tower unseen,",
+        "",
+        "%% u2041:0-4 %%",
+        "Kenzo: Yes.",
+        "",
+        "%% u2042:0-47 %%",
+        "DM: and what, there's a lot you might be able to do.",
+        "",
+        "%% u2043:0-69, u2044:0-6, u2045:0-42, u2046:0-61, u2047:0-59, u2048:0-97, u2049:0-65, u2050:0-57 %%",
+        "((Ship-distance discussion and teleportation range))",
+        "",
+        "%% u2051:0-32 %%",
+        "Kenzo: What do we do once we're inside?",
+        "",
+        "%% u2052:0-47 %%",
+        "Delwath: We block the flow of energy to the thing, right?",
+        "",
+        "%% u2053:0-31 %%",
+        "Kenzo: I'm asking the giant, but, like...",
+        "",
+        "%% u2054:0-23 %%",
+        "Delwath: That's what he told us.",
+        "",
+        "%% u2055:0-54 %%",
+        "Kenzo: That's what he just said. Block the flow of energy, or...",
+        "",
+        "%% u2056:0-25, u2057:0-114 %%",
+        "DM: He looks at the 4 of you. Someone with more arcane knowledge than me may be able to figure out a way to destroy it completely at the source.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: It might just crash!",
+          "Delwath: Yeah.",
+          "Kenzo: Cool.",
+          "Wellby: Or it might likely explode, destroying the entire mountain range. You know, we'll find out.",
+          "Kenzo: What, we're all..."
+        ],
+        "after": [
+          "Wellby: All look pointedly at Seeker.",
+          "Delwath: We all stare at Seeker.",
+          "Kenzo: It's Seeker.",
+          "DM: He looks up.",
+          "Kenzo: Can you make any roll in Arcana, or something like that?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "The giant offers sabotage and warns of Dhrukmir",
+      "entities": [
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2113",
+        "endUid": "u2170"
+      },
+      "lines": [
+        "%% u2113:0-87, u2114:0-76, u2115:0-97 %%",
+        "DM: Yes, so to wrap up the conversation with the giant before we call it quits for tonight, so he, you talk a little bit more, and he, you know, he talks about again how, you know, clearly warming up to you and sort of wondering, oh, maybe they'll actually pull it off.",
+        "",
+        "%% u2116:0-24, u2117:0-25, u2118:0-25, u2119:0-107, u2120:0-31 %%",
+        "DM: And he's not willing to, he's not willing to fight, but there's a group of, of a group of these—of giants that, like, half or more that, he said, want to leave, who are at least willing to break the—knock down the road.",
+        "",
+        "%% u2121:0-10 %%",
+        "Kenzo: Thank you.",
+        "",
+        "%% u2122:0-36 %%",
+        "DM: So the ogres are trapped in the pit.",
+        "",
+        "%% u2123:0-10 %%",
+        "Kenzo: Thank you.",
+        "",
+        "%% u2124:0-13 %%",
+        "DM: And then run.",
+        "",
+        "%% u2125:0-8, u2126:0-5 %%",
+        "Kenzo: Perfect. Yeah.",
+        "",
+        "%% u2127:0-3 %%",
+        "Delwath: So.",
+        "",
+        "%% u2128:0-112, u2129:0-30 %%",
+        "Kenzo: Any other things that he can do that are the equivalent of, like, tying the shoelaces of the dude before he stays? You know any things like that.",
+        "",
+        "%% u2130:0-107 %%",
+        "DM: Yeah, no, he’s like, once 50 foot abomination starts climbing out of his pit, we’re running. That will, like...",
+        "",
+        "%% u2131:0-56, u2132:0-36 %%",
+        "Kenzo: Totally fine, but sabotage as much as we can beforehand. That’s cool, but also is there any...",
+        "",
+        "%% u2133:0-13, u2134:0-149 %%",
+        "Delwath: Other giants... My only real concern is that while we're killing 50 foot abomination, we get swarmed by 6 giants, and we can't take 6 giants and 50 foot abomination.",
+        "",
+        "%% u2135:0-14 %%",
+        "Kenzo: Yeah, exactly.",
+        "",
+        "%% u2136:0-28 %%",
+        "Delwath: We want him to try and, like...",
+        "",
+        "%% u2137:0-93, u2138:0-12 %%",
+        "Kenzo: Can, can you help us with enough distraction so that we can focus on the abomination, and then think on it?",
+        "",
+        "%% u2139:0-38 %%",
+        "DM: Yeah, he's—he says, I'll think on it.",
+        "",
+        "%% u2140:0-8, u2141:0-91 %%",
+        "DM: It says, the one—the ones they're scared, the ones that they're scared of are the chalyte sorcerers.",
+        "",
+        "%% u2142:0-12 %%",
+        "Kenzo: Purple hats.",
+        "",
+        "%% u2143:0-8, u2144:0-67, u2145:0-28, u2146:0-27, u2147:0-32, u2148:0-61 %%",
+        "DM: If those... He does not think anybody is going to challenge a chalyte sorcerer, but he's pretty sure that it, 2 of them, one or 2 of them, always are in the tower, anyway, and you're pretty sure that there's only 2 chalyte sorcerers.",
+        "",
+        "%% u2149:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u2150:0-88 %%",
+        "Delwath: Oh, okay, so we might kill the chalyte sorcerers on our way through the tower, and then...",
+        "",
+        "%% u2151:0-13 %%",
+        "Kenzo: That's great!",
+        "",
+        "%% u2152:0-146, u2153:0-40 %%",
+        "DM: Or you might have to deal with one chalyte sorcerer while you're dealing with the abomination. But he's—he says, though, he'll do his—can guarantee, destroy the road. Ogres will be trapped.",
+        "",
+        "%% u2154:0-257, u2155:0-76, u2156:0-38, u2157:0-71, u2158:0-29, u2159:0-45 %%",
+        "((Illusion demonstrations and table banter))",
+        "",
+        "%% u2160:0-85, u2161:0-11, u2162:0-80, u2163:0-21 %%",
+        "DM: The other thing that he says is that Dhrukmir does not emerge often, and when he does it is slow. You hear the echoes and the thunder, like 10 min before he begins to grow out of pits below, where he...",
+        "",
+        "%% u2164:0-53 %%",
+        "Kenzo: Lives, and insists on being worshipped. Are the pits...?",
+        "",
+        "%% u2165:0-17 %%",
+        "DM: So he says, what?",
+        "",
+        "%% u2166:0-20 %%",
+        "Kenzo: Are the pits mapped?",
+        "",
+        "%% u2167:0-133 %%",
+        "DM: No, nobody—I mean, the ogres go in the mines. The abomination, the Dhrukmir, lives down there somewhere, but the giants don't go down.",
+        "",
+        "%% u2168:0-5 %%",
+        "Kenzo: Okay.",
+        "",
+        "%% u2169:0-67, u2170:0-62 %%",
+        "DM: But he's saying, when you hear the, like, booming thunder from below, you have about 10 min before you have to face the abomination.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: We could do that.",
+          "Kenzo: Let's just, let's just—we’re 17th level, mobile.",
+          "Delwath: Yeah, we could like, try and kill the guards really quick. Yes.",
+          "DM: Right.",
+          "Delwath: But I need to go to bed."
+        ],
+        "after": [
+          "Kenzo: Don't we actually want Vindristjarna, like, to be in battle? Like, do we want to use the ice cannon and all that stuff to shoot it, and things like that?",
+          "Wellby: We have to get rid of the disintegration ray first.",
+          "Kenzo: Yeah, okay.",
+          "Wellby: But I think the whole, like, the whole fight with the abomination, is based on there not being a giant disintegration ray.",
+          "Kenzo: Again, take care, but, but..."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "Faldrak has moved the ship farther away",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2206",
+        "endUid": "u2211"
+      },
+      "lines": [
+        "%% u2206:0-50, u2207:0-26 %%",
+        "DM: When you teleport—so when you teleport to this, to... It is about 40 miles away.",
+        "",
+        "%% u2208:0-88 %%",
+        "DM: Faldrak has spent most of the time that you were walking flying away from the death ray.",
+        "",
+        "%% u2209:0-6 %%",
+        "Kenzo: Smart.",
+        "",
+        "%% u2210:0-101 %%",
+        "DM: And you say smart, and he's like, “I knew it. I knew you didn't want me to stay close to the death ray.”",
+        "",
+        "%% u2211:0-32 %%",
+        "Kenzo: Trust your instincts. It's good.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: If you need to sneak back to the ship, we just teleport to it. Sleep in our own beds, exactly.",
+          "DM: Oh, that's true. You can just teleport right from here back to the ship and then rest and then teleport.",
+          "Kenzo: Exactly.",
+          "DM: Wow! We will pick up next time.",
+          "Kenzo: This is, like, luxury D and D adventuring. This is go scalpel."
+        ],
+        "after": [
+          "DM: And we'll end there, and then we'll pick up in the morning after a long rest as you prepare to assault the tower next time.",
+          "Wellby: Fabulous.",
+          "Kenzo: That was awesome. That was really fun.",
+          "DM: Yeah, I was, I’m...",
+          "Kenzo: Are you impressed, Tim?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}
