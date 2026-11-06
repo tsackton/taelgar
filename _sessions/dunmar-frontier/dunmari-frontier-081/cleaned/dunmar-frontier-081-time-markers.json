@@ -1,0 +1,1589 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmar-frontier-081",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-081/cleaned/dunmar-frontier-081-session.yaml",
+    "sessionYamlSha256": "c77bb5bd757d100149f8edf310c3091bd7a9d72780e30324bf5aa1e7adac8f4b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-081/cleaned/dunmar-frontier-081-transcript.md",
+    "transcriptSha256": "dbeb04d81109f072e09ca314e5366ac841f60d7d692caa6d50684640255a7641",
+    "yamlDates": {
+      "start": "1748-12-17",
+      "end": "1748-12-25"
+    },
+    "supplementarySources": [
+      {
+        "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-082/cleaned/dunmari-frontier-082-session.yaml",
+        "sessionYamlSha256": "eb168751186a9a851d428decfe79a93e1f94e01b7cf6194ed2577bab6a113688",
+        "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-082/cleaned/dunmari-frontier-082-transcript.md",
+        "transcriptSha256": "e11b9d8ed90703f7aa0d457b60fba2ecc8e554784164b4b4f216c5dfe1a65642",
+        "evidence": [
+          {
+            "startUid": "u0113",
+            "endUid": "u0115",
+            "quote": "DM: 3 days ago, on December 25th, you left Pyhlla, bidding fond farewell to the grateful Skaer as they prepared to mourn the dead and pray for Kaikkea's guidance, and choosing a new priest of the waters to repair and re-sanctify the temple. As thanks for your aid, the Skaer have gifted you with 5 pounds of good unworked Skaer steel, a full larder of dried fish, pickled kelp, fresh bread, smoked lamb and yogurt; four large pearls, one for each of you; and a piece of [garbled] blessed oyster shell which allows you to cast the divination spell once."
+          },
+          {
+            "startUid": "u0118",
+            "endUid": "u0119",
+            "quote": "DM: You left the Skaer on Pyhlla, after destroying the scepter of command in the holy waters in Vetta. First, though, you had to kill Urgall the Black, the cursed undead pirate captain who attacked the Holy Island some months ago, and the demonic entity corrupting the sacred waters allowed through from the abyss by Urgall's rituals of desecration."
+          }
+        ]
+      }
+    ]
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0023",
+        "endUid": "u0025"
+      },
+      "reading": "Wait approximately 45 minutes for the metal scholar.",
+      "evidence": [
+        {
+          "startUid": "u0023",
+          "endUid": "u0025",
+          "quote": "DM: It's been like, I don't, I don't know, 45 minutes at this point. Talks to the dwarf, like, sends them away, and then kind of looks up, like, \"Anyone else?\""
+        }
+      ],
+      "duration": {
+        "value": 45,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "completion": "completed",
+      "actors": [
+        "Seeker",
+        "Delwath"
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0233",
+        "endUid": "u0235"
+      },
+      "reading": "The scholar spends fifteen minutes examining the black metal.",
+      "evidence": [
+        {
+          "startUid": "u0233",
+          "endUid": "u0235",
+          "quote": "DM: I mean, she spends 15 minutes just kind of looking at it. She takes out, like, a few little tools and, like, taps at it a little bit and, like, measures its hardness and things, and it's definitely extraplanar in origin."
+        }
+      ],
+      "duration": {
+        "value": 15,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1535",
+        "endUid": "u1538"
+      },
+      "reading": "Kenzo prays with Iskra for hours during the afternoon.",
+      "evidence": [
+        {
+          "startUid": "u1535",
+          "endUid": "u1538",
+          "quote": "Kenzo: I, I do this for as long, I just do this for hours.\n\nKenzo: For, for however long. Just I, I, I'll just, I'll go in deep. I'll go super deep.\n\nDM: Yeah, I mean she's happy to, to pray with you and, and..."
+        },
+        {
+          "startUid": "u1567",
+          "endUid": "u1571",
+          "quote": "DM: Uh, you, you sort of, you, you definitely get the sense that as, like, as you're, you know, spending the afternoon with her, like, she's getting a... Like, there's a, there's an echo of, like, just how much you've tra- Like, I mean, Kenzo's, like, super powerful, right? Like, you're all pretty-"
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "partOfDay": "afternoon"
+      },
+      "duration": {
+        "text": "hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Kenzo’s accepted description"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1589",
+        "endUid": "u1590"
+      },
+      "reading": "Delwath shops while Kenzo prays.",
+      "evidence": [
+        {
+          "startUid": "u1589",
+          "endUid": "u1590",
+          "quote": "Delwath: Um, while Kenzo's spending the afternoon, I wanna just, like, do a little bit of ship equip. We've given up, like, we're moving too quickly to, like, build-"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "relations": [
+        {
+          "type": "overlaps",
+          "target": "t03"
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1830",
+        "endUid": "u1832"
+      },
+      "reading": "The next morning Kenzo goes to receive his tattoo.",
+      "evidence": [
+        {
+          "startUid": "u1830",
+          "endUid": "u1832",
+          "quote": "DM: Um, so you, so the next morning Kenzo goes to get his tattoo. So what exact... So she gave you a bunch of options, like what you want night, you want darkvision and you want the like-"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "partOfDay": "morning"
+      },
+      "dateBoundaries": 1,
+      "actors": [
+        "Kenzo"
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1919",
+        "endUid": "u1920"
+      },
+      "reading": "Cecilia completes the tattoo over a couple of hours.",
+      "evidence": [
+        {
+          "startUid": "u1919",
+          "endUid": "u1920",
+          "quote": "DM: So she does that. It takes a couple hours. Um, we'll like sketch out, we can mid-journey up designs later."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u2017",
+        "endUid": "u2019"
+      },
+      "reading": "December 18 afternoon anchors the final Tollen planning before the flight.",
+      "evidence": [
+        {
+          "startUid": "u2017",
+          "endUid": "u2019",
+          "quote": "DM: So you... [keyboard clicking] So it's now December 18th in the afternoon. And w- wait, which island are you going to?"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration; year inherited from YAML",
+        "partOfDay": "afternoon",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 18
+        }
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2089",
+        "endUid": "u2092"
+      },
+      "reading": "Spend the first day flying over Vostok.",
+      "evidence": [
+        {
+          "startUid": "u2089",
+          "endUid": "u2092",
+          "quote": "DM: [coughs] Um, so you've, you, you spend a day flying across the, uh, the wooded lowlands of Vostok, the land."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2102",
+        "endUid": "u2107"
+      },
+      "reading": "By December 20 the flight is over the Western Green Sea.",
+      "evidence": [
+        {
+          "startUid": "u2102",
+          "endUid": "u2107",
+          "quote": "DM: by, um, let's see. One, one and two. Um, by December 20th, so that would be one day, two days, um, you cross back in now into the actual Western Green Sea itself."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration; year inherited from YAML",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 20
+        }
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2108",
+        "endUid": "u2111"
+      },
+      "reading": "Arrival in the Skaer islands is corrected to December 21 early morning.",
+      "evidence": [
+        {
+          "startUid": "u2108",
+          "endUid": "u2111",
+          "quote": "DM: Um, and on the early morning of December 20, or, yeah, early morning of December 21st, you can see the Skaer Islands laid out below you."
+        },
+        {
+          "startUid": "u2119",
+          "endUid": "u2124",
+          "quote": "DM: ... updating his maps, right, as he sees everything. But you, you, you've discussed with various people where the, um, the islands were, and you fly now probably by, um, not long after dawn on December 21st. You can see the island of Antaka below you."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration; year inherited from YAML",
+        "partOfDay": "early morning",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 21
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u2211",
+        "endUid": "u2215"
+      },
+      "reading": "Approach Skalme’s temple in the low morning sun.",
+      "evidence": [
+        {
+          "startUid": "u2211",
+          "endUid": "u2215",
+          "quote": "DM: And, and you see her standing, uh, lit by the, by the morning sun, the low angle of the sun, um, sort of at the top of as you approach these, like, switchbacks up to this little sort of flat area where the, where the temple is set."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "partOfDay": "morning"
+      }
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u2391",
+        "endUid": "u2395"
+      },
+      "reading": "Wellby takes about thirty seconds to set the scepter down.",
+      "evidence": [
+        {
+          "startUid": "u2391",
+          "endUid": "u2395",
+          "quote": "DM: Um, it, it takes you, like-\n\nSeeker: Wait, what are we doing?\n\nDM: ... a m- like 30 seconds to drop it\n\nSeeker: Put it away. She, she said she knows what it is now.\n\nDM: But not a problem."
+        }
+      ],
+      "duration": {
+        "value": 0.5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u2429",
+        "endUid": "u2434"
+      },
+      "reading": "Wait a couple of hours over breakfast while Skalme studies the scepter.",
+      "evidence": [
+        {
+          "startUid": "u2429",
+          "endUid": "u2434",
+          "quote": "DM: Um, so you spend... She goes away for a couple of hours, and you pray and chill in the sauna and get some refreshments and have breakfast.\n\nDM: Um- And she comes back and she says, \"The scepter you showed me is no ordinary artifact. The soul of a devil is bound to the scepter.\""
+        },
+        {
+          "startUid": "u2479",
+          "endUid": "u2480",
+          "quote": "Delwath: And today is the 21st?\n\nDM: Today is the 21st."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration; year inherited from YAML",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 21
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u2816",
+        "endUid": "u2826"
+      },
+      "reading": "Fly approximately seventy miles from Antaka to Pyhlla, taking about seven hours.",
+      "evidence": [
+        {
+          "startUid": "u2816",
+          "endUid": "u2826",
+          "quote": "DM: All right, as you depart the temple on An- and, Antaka and fly, it's, it's about, uh, 70 miles or something, so seven hours journey.\n\nSeeker: Oh, wow.\n\nDM: To, to Pyhlla during the, during which you will cross high over the island of Vetta."
+        }
+      ],
+      "duration": {
+        "value": 7,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "completion": "completed",
+      "note": "Narrated aggregate journey; the sunset sightings belong within it."
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u2859",
+        "endUid": "u2865"
+      },
+      "reading": "Passing Vetta is around sunset, described as about three in the afternoon.",
+      "evidence": [
+        {
+          "startUid": "u2859",
+          "endUid": "u2865",
+          "quote": "DM: So you fly over, a, a few things that you note as you fly over. Mm-hmm. Um, as the sun is setting now, basically, um, given that you spent a couple of hours.\n\nDelwath: Plus the sun probably sets at 3:00.\n\nDM: The sun sets at like 3:00. Um, the, there seems to be mists and fog all, all around the outside, all around the island, like the whole-"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "clock": "15:00",
+        "partOfDay": "sunset"
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t14"
+        }
+      ]
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u3029",
+        "endUid": "u3036"
+      },
+      "reading": "Arrive at Pyhlla around sunset.",
+      "evidence": [
+        {
+          "startUid": "u3029",
+          "endUid": "u3036",
+          "quote": "DM: So you arrive in the small port town of Pyhlla as the sun is setting. Um, it's cold. It's gotten cold as the sun went down, and, um, while it was a sunny day, there's clouds moving in. Um, the, uh, and just a, like, hint of sort of snow on the air, some snow on the ground."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "partOfDay": "sunset"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t14"
+        }
+      ]
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u4014",
+        "endUid": "u4015"
+      },
+      "reading": "The next morning receive the pilgrimage blessing, before leaving near dawn.",
+      "evidence": [
+        {
+          "startUid": "u4014",
+          "endUid": "u4015",
+          "quote": "DM: So in the morning, um, in the morning you are, you are blessed by [coughs] Vaallinen, who sends you on your way."
+        },
+        {
+          "startUid": "u4128",
+          "endUid": "u4128",
+          "quote": "DM: So just keep in mind also it's December 22nd."
+        },
+        {
+          "startUid": "u5701",
+          "endUid": "u5705",
+          "quote": "DM: I mean, so it took you, it was about, I don't know, 12 miles from... Right at dawn you were blessed and left soon after. It took you an hour to get here, so hour after dawn. Took you two hours of scouting, so you're three hours of dawn, so you still have four hours of daylight left."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration; year inherited from YAML",
+        "partOfDay": "dawn",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 22
+        }
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u4692",
+        "endUid": "u4699"
+      },
+      "reading": "Kenzo and Wellby climb the caldera for about half an hour.",
+      "evidence": [
+        {
+          "startUid": "u4692",
+          "endUid": "u4699",
+          "quote": "DM: Uh, by the time you... It's takes you about half an hour to get up to the top moving stealthily. Um, and but you still have, you still have another, assuming Seeker did the telepathy ritual just before you left, you still have another half an hour of telepathy, another half an hour of stealth. So what you see looking out, you see, um, the, you see the layout much more clearly now of this interior temple which matches exactly what he described. So there's three large buildings."
+        }
+      ],
+      "duration": {
+        "value": 0.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t23"
+        }
+      ]
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u4923",
+        "endUid": "u4928"
+      },
+      "reading": "Watch Urgall for about five minutes.",
+      "evidence": [
+        {
+          "startUid": "u4923",
+          "endUid": "u4928",
+          "quote": "DM: And then as you were watching for like five minutes, he's beginning... It looks like he flew across... I mean, this takes some time, 'cause this is a quarter mile across. Uh-huh. Yeah. So he's flying down over here. He's like doing a circuit like this-"
+        }
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t23"
+        }
+      ]
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u5290",
+        "endUid": "u5293"
+      },
+      "reading": "Delwath keeps watch for roughly the first hour.",
+      "evidence": [
+        {
+          "startUid": "u5290",
+          "endUid": "u5293",
+          "quote": "DM: Um, okay. So the search, as you search, um... Well, first of all, Delwath, you have seen nothing in the first hour. Um, Seeker, you've g- I mean, it's cold."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t23"
+        }
+      ]
+    },
+    {
+      "id": "t21",
+      "source": {
+        "startUid": "u5310",
+        "endUid": "u5312"
+      },
+      "reading": "Delwath takes a short rest during the remaining hour of the scouting.",
+      "evidence": [
+        {
+          "startUid": "u5310",
+          "endUid": "u5312",
+          "quote": "Delwath: Then I will short rest for the remaining-\n\nDM: Okay\n\nDelwath: ... hour while he searches."
+        },
+        {
+          "startUid": "u5366",
+          "endUid": "u5373",
+          "quote": "DM: But this is what you've discovered. Now you all sort of-\n\nUnknown: Yeah\n\nDM: ... reconvene as Delwath-\n\nUnknown: Yeah, yeah\n\nDM: ... finishes his short rest.\n\nKenzo: Very good.\n\nDM: For a plan."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention and explicit remaining hour"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t23"
+        }
+      ]
+    },
+    {
+      "id": "t22",
+      "source": {
+        "startUid": "u5314",
+        "endUid": "u5336"
+      },
+      "reading": "Seeker finds the underwater passage after about an hour and a half of searching.",
+      "evidence": [
+        {
+          "startUid": "u5314",
+          "endUid": "u5336",
+          "quote": "DM: So Seeker, after about an hour and a half, like, although your, um, your, like, fingers are getting numb and you're getting chilled, the warmth of the cloak, which has now faded, that keeps you from suffering a level of exhaustion from your search. Awesome. And you do find, um...\n\nDM: So you, you find two false a- false leads. Two, two, like, things that look like just places where some of the cliff fell. There's nothing behind it.\n\nUnknown: [laughs]\n\nDM: But the third one you look at is, like, clearly the entrance to a lava tunnel. The only problem is it's about 10 feet under water.\n\nSeeker: Right. And full of water.\n\nDM: And full of water.\n\nWellby: How far back is it full of water?\n\nSeeker: So I'll swim up it.\n\nDM: Uh, it ascends gradually. [dramatic music] The first, I don't know, like, it ascends may- It goes, like, maybe 100 feet in before it starts to climb up. So it's, like, maybe it, maybe 200 feet before you can get your head out above the water. Mm-hmm. But from there it ascends and it, like, 300 feet in it's completely dry."
+        }
+      ],
+      "duration": {
+        "value": 1.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t23"
+        }
+      ]
+    },
+    {
+      "id": "t23",
+      "source": {
+        "startUid": "u5701",
+        "endUid": "u5705"
+      },
+      "reading": "Retrospective clock: one-hour flight after dawn, then two hours scouting; now three hours after dawn with four daylight hours remaining.",
+      "evidence": [
+        {
+          "startUid": "u5701",
+          "endUid": "u5705",
+          "quote": "DM: I mean, so it took you, it was about, I don't know, 12 miles from... Right at dawn you were blessed and left soon after. It took you an hour to get here, so hour after dawn. Took you two hours of scouting, so you're three hours of dawn, so you still have four hours of daylight left."
+        },
+        {
+          "startUid": "u4128",
+          "endUid": "u4128",
+          "quote": "DM: So just keep in mind also it's December 22nd."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "relative": {
+          "relation": "after",
+          "reference": "t17",
+          "anchor": "departure shortly after dawn",
+          "offset": {
+            "value": 3,
+            "unit": "hour",
+            "precision": "approximate",
+            "basis": "narrated elapsed time"
+          }
+        }
+      },
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s aggregate scouting duration, including parallel activities"
+      },
+      "completion": "completed",
+      "note": "The one-hour twelve-mile flight precedes the two-hour scouting block. These are not additional hours after this retrospective statement."
+    },
+    {
+      "id": "t24",
+      "source": {
+        "startUid": "u5909",
+        "endUid": "u5912"
+      },
+      "reading": "Seeker starts clearing the rockfall, an hour-long effort; Kenzo’s ritual and Delwath’s rest run during it.",
+      "evidence": [
+        {
+          "startUid": "u5909",
+          "endUid": "u5921",
+          "quote": "DM: ... half the rocks and, like, carry them around. It, it's gonna take you an hour to clear this rubble. It'll basically be the whole length of the potion, but you're making steady progress over the course of the hour.\n\nSeeker: And leaving a layer of rocks to walk on to, like, a foot of, the height of a foot.\n\nDM: I mean, you can... Yeah.\n\nUnknown: Is that-\n\nDM: You're leaving... You're not clearing the, the rubble down to the bare rock.\n\nKenzo: Yeah.\n\nDM: Right. Um, okay. So that's... So during this hour, Kenzo is meditating and reaching his awareness out to sense demonic presences."
+        },
+        {
+          "startUid": "u6023",
+          "endUid": "u6026",
+          "quote": "DM: I like it. Uh, so after the hour now, the tunnel is clear.\n\nDM: You've sensed the fiends around. You've short rested."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t25",
+      "source": {
+        "startUid": "u5920",
+        "endUid": "u5921"
+      },
+      "reading": "Kenzo performs his ritual during the rock clearing.",
+      "evidence": [
+        {
+          "startUid": "u5920",
+          "endUid": "u5921",
+          "quote": "DM: Right. Um, okay. So that's... So during this hour, Kenzo is meditating and reaching his awareness out to sense demonic presences."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "relations": [
+        {
+          "type": "during",
+          "target": "t24"
+        }
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t26",
+      "source": {
+        "startUid": "u6023",
+        "endUid": "u6026"
+      },
+      "reading": "The clearing finishes and Delwath has completed another short rest.",
+      "evidence": [
+        {
+          "startUid": "u6023",
+          "endUid": "u6026",
+          "quote": "DM: I like it. Uh, so after the hour now, the tunnel is clear.\n\nDM: You've sensed the fiends around. You've short rested."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t24"
+        }
+      ]
+    },
+    {
+      "id": "t27",
+      "source": {
+        "startUid": "u6046",
+        "endUid": "u6047"
+      },
+      "reading": "After clearing the passage, three hours of daylight remain.",
+      "evidence": [
+        {
+          "startUid": "u6046",
+          "endUid": "u6047",
+          "quote": "DM: Um, so the hour has passed. You now have three hours of daylight."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "relative": {
+          "relation": "before",
+          "anchor": "sunset",
+          "offset": {
+            "value": 3,
+            "unit": "hour",
+            "precision": "approximate",
+            "basis": "narrated elapsed time"
+          }
+        }
+      }
+    },
+    {
+      "id": "t28",
+      "source": {
+        "startUid": "u6155",
+        "endUid": "u6158"
+      },
+      "reading": "Walk about ten minutes into the tunnel.",
+      "evidence": [
+        {
+          "startUid": "u6155",
+          "endUid": "u6158",
+          "quote": "DM: I don't know, 10 minutes, you're able to sort of get out of the water a little bit. And you can see now with the drift globe, like especially as you get up here, um, there's like, there's like this sort of greenish black flecks that are flowing in the water as it flows, as it"
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t29"
+        }
+      ]
+    },
+    {
+      "id": "t29",
+      "source": {
+        "startUid": "u6534",
+        "endUid": "u6536"
+      },
+      "reading": "Total tunnel exploration took half an hour; four and a half hours since dawn, two and a half daylight hours left.",
+      "evidence": [
+        {
+          "startUid": "u6534",
+          "endUid": "u6536",
+          "quote": "DM: Yeah, so it's b- and it's been about 30 minutes, like, walking up here stealthily. So it's been four and a half hours, which means you have two and a half hours.\n\nDM: Seven hours of daylight, two and a half hours of daylight left."
+        }
+      ],
+      "duration": {
+        "value": 0.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "relative": {
+          "relation": "after",
+          "reference": "t17",
+          "anchor": "departure at dawn",
+          "offset": {
+            "value": 4.5,
+            "unit": "hour",
+            "precision": "approximate",
+            "basis": "narrated elapsed time"
+          }
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t30",
+      "source": {
+        "startUid": "u7583",
+        "endUid": "u7584"
+      },
+      "reading": "Thirty seconds after Seeker casts Clairvoyance, the patrolling vulture appears.",
+      "evidence": [
+        {
+          "startUid": "u7583",
+          "endUid": "u7584",
+          "quote": "DM: Okay. You see the, um, the, the d- about, uh, I don't know, 30 seconds after you cast the spell, you see the, this, like, raven demon sort of fly over. Um, it glances-"
+        }
+      ],
+      "duration": {
+        "value": 0.5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "narrated delay after casting"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t31",
+      "source": {
+        "startUid": "u7599",
+        "endUid": "u7609"
+      },
+      "reading": "The party completes an hour’s short rest after retreating from Urgall; about ninety minutes of daylight remain.",
+      "evidence": [
+        {
+          "startUid": "u7599",
+          "endUid": "u7609",
+          "quote": "Delwath: All right. So we will retreat back to somewhere safe-ish. I will drop the alarm, and then we'll short rest.\n\nDM: Okay.\n\nUnknown: Good.\n\nKenzo: Thank God. I'll all ki back. Jesus Christ. Yeah.\n\nUnknown: All right. My spell's back. Hit dice.\n\nDM: Hit dice.\n\nDelwath: Anybody who's hurt can do hit dice.\n\nDM: You now have an hour and a half of daylight left."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "explicit rest and short-rest convention"
+      },
+      "completion": "completed",
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "relative": {
+          "relation": "before",
+          "anchor": "sunset",
+          "offset": {
+            "value": 1.5,
+            "unit": "hour",
+            "precision": "approximate",
+            "basis": "narrated elapsed time"
+          }
+        }
+      }
+    },
+    {
+      "id": "t32",
+      "source": {
+        "startUid": "u8234",
+        "endUid": "u8234"
+      },
+      "reading": "Planning has used about ten minutes since the rest; about eighty minutes of daylight remain.",
+      "evidence": [
+        {
+          "startUid": "u8234",
+          "endUid": "u8234",
+          "quote": "DM: You still have an hour and, you still have an hour and 20 minutes before it gets dark."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "inferred difference between ninety and eighty minutes of daylight remaining"
+      },
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "relative": {
+          "relation": "before",
+          "anchor": "sunset",
+          "offset": {
+            "value": 80,
+            "unit": "minute",
+            "precision": "approximate",
+            "basis": "narrated elapsed time"
+          }
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t33",
+      "source": {
+        "startUid": "u8301",
+        "endUid": "u8302"
+      },
+      "reading": "Delwath has been watching the creature for a minute.",
+      "evidence": [
+        {
+          "startUid": "u8301",
+          "endUid": "u8302",
+          "quote": "DM: Yeah, what's it doing? I mean, in the minute that Delwath's been watching it, um-\n\nDelwath: Yeah, I mean my ghostly gaze is still right there."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s elapsed observation estimate"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "completion": "completed",
+      "note": "Not a separate minute added to the adjacent planning clock."
+    },
+    {
+      "id": "t34",
+      "source": {
+        "startUid": "u8469",
+        "endUid": "u8469"
+      },
+      "reading": "Kenzo’s Augury takes one minute and is subsequently resolved.",
+      "evidence": [
+        {
+          "startUid": "u8469",
+          "endUid": "u8469",
+          "quote": "DM: It only takes a minute."
+        },
+        {
+          "startUid": "u8492",
+          "endUid": "u8495",
+          "quote": "Kenzo: Well, let- let's think about that for a second. Actually, let me augury first on the pirate.\n\nSeeker: Augury first. Do that.\n\nDM: Bad idea."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "stated casting time accepted in play"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t35",
+      "source": {
+        "startUid": "u11679",
+        "endUid": "u11684"
+      },
+      "reading": "After the spring fight, about one hour of daylight remains; the fight itself is described as about one minute.",
+      "evidence": [
+        {
+          "startUid": "u11679",
+          "endUid": "u11684",
+          "quote": "Seeker: Is it nighttime?\n\nDM: Uh, you still have an hour and 10-\n\nDelwath: That was like three minutes.\n\nDM: That was like a minute.\n\nWellby: Right.\n\nDM: You still have an hour till nighttime."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "relative": {
+          "relation": "before",
+          "anchor": "darkness",
+          "offset": {
+            "value": 1,
+            "unit": "hour",
+            "precision": "approximate",
+            "basis": "narrated elapsed time"
+          }
+        }
+      },
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s narrated estimate of the fight, not calculated from rounds"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t36",
+      "source": {
+        "startUid": "u11705",
+        "endUid": "u11708"
+      },
+      "reading": "Wellby watches outside for five minutes.",
+      "evidence": [
+        {
+          "startUid": "u11705",
+          "endUid": "u11708",
+          "quote": "DM: Yes. [coughs] So as you're, um, as you're, like, as you're watching the... You, you, like, you watch for, like, five minutes. You don't see this flying creature anywhere."
+        }
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t37",
+      "source": {
+        "startUid": "u12658",
+        "endUid": "u12660"
+      },
+      "reading": "The waters clear three or four hours after the demon dies; Delwath and Seeker bathe and recover.",
+      "evidence": [
+        {
+          "startUid": "u12658",
+          "endUid": "u12660",
+          "quote": "DM: Yeah, after like three, four hours, this, the waters here are definitely clear. And you rest and bathe in the waters, which does in fact clear your heads, both of you."
+        }
+      ],
+      "duration": {
+        "min": 3,
+        "minInclusive": true,
+        "max": 4,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s elapsed estimate"
+      },
+      "completion": "completed",
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "relative": {
+          "relation": "after",
+          "reference": "t35",
+          "anchor": "end of spring fight",
+          "offset": {
+            "min": 3,
+            "minInclusive": true,
+            "max": 4,
+            "maxInclusive": true,
+            "unit": "hour",
+            "precision": "approximate",
+            "basis": "narrated clearing time"
+          }
+        }
+      }
+    },
+    {
+      "id": "t38",
+      "source": {
+        "startUid": "u12684",
+        "endUid": "u12691"
+      },
+      "reading": "An overnight rest at the sacred waters ends refreshed at dawn the next day.",
+      "evidence": [
+        {
+          "startUid": "u12649",
+          "endUid": "u12653",
+          "quote": "DM: Yeah. [clears throat] Okay, so... And you go, go back to the ship and sleep I assume. Mm. Here, why don't we sleep here?\n\nKenzo: I wanna sleep here."
+        },
+        {
+          "startUid": "u12684",
+          "endUid": "u12691",
+          "quote": "DM: So you rest and wake up refreshed, your heads clear as the sun rises the next morning. Head... We're out to kill the undead."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "partOfDay": "dawn"
+      },
+      "dateBoundaries": 1,
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "completed overnight-rest convention"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t39",
+      "source": {
+        "startUid": "u12927",
+        "endUid": "u12937"
+      },
+      "reading": "The helm’s mirror vision opens onto Urgall’s earlier piracy.",
+      "evidence": [
+        {
+          "startUid": "u12927",
+          "endUid": "u12937",
+          "quote": "DM: Okay. So you show the helmet up to the mirror.\n\nKenzo: Thanks for the inspiration.\n\nDM: [coughs] And, um, the first thing that you see is, so like always, like the scene fades for a moment. Um, and then you see, uh, the, uh, so standing on the bow of a ship. The ship, actually, you recognize the ship, right? This is the ship that's docked."
+        }
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t40",
+      "source": {
+        "startUid": "u13036",
+        "endUid": "u13040"
+      },
+      "reading": "Within the vision the scene shifts to the nighttime assault on Vetta.",
+      "evidence": [
+        {
+          "startUid": "u13036",
+          "endUid": "u13040",
+          "quote": "DM: Um, and then a flash again and you see the scene that was described to you by Tulvak, the nighttime fire, um, leaving the ship. And then one last vision."
+        }
+      ],
+      "context": "vision",
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "partOfDay": "night"
+      }
+    },
+    {
+      "id": "t41",
+      "source": {
+        "startUid": "u13120",
+        "endUid": "u13120"
+      },
+      "reading": "Return to present exploration after the historical helm vision.",
+      "evidence": [
+        {
+          "startUid": "u13120",
+          "endUid": "u13120",
+          "quote": "DM: So after you return the items to their rightful places, the mist clears."
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t38"
+        }
+      ]
+    },
+    {
+      "id": "t42",
+      "source": {
+        "startUid": "u13560",
+        "endUid": "u13562"
+      },
+      "reading": "Sorting salvage and dealing with the ship takes most of “the next day.”",
+      "evidence": [
+        {
+          "startUid": "u13560",
+          "endUid": "u13562",
+          "quote": "DM: So that takes... I mean, that takes... Sorting the treasure, and, like, dealing with the ship, and the, um, and the clothes, and sorting all the linens and stuff takes most of the next day."
+        }
+      ],
+      "duration": {
+        "text": "most of the next day",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "compressed DM summary"
+      },
+      "completion": "completed",
+      "note": "May summarize the day already opened after the overnight, or advance to a further day; the source does not settle which."
+    },
+    {
+      "id": "t43",
+      "source": {
+        "startUid": "u13593",
+        "endUid": "u13595"
+      },
+      "reading": "“The next day” the moon is in the required position and the scepter bath proceeds.",
+      "evidence": [
+        {
+          "startUid": "u13593",
+          "endUid": "u13595",
+          "quote": "DM: So the next day, with the moon in the... rising in the right position-"
+        },
+        {
+          "startUid": "u13694",
+          "endUid": "u13704",
+          "quote": "Wellby: Yeah. All right. Fuck, fine. Out it goes.\n\nDM: You release the scepter and it falls, sinks below the water.\n\nWellby: Now we wait.\n\nDelwath: And you wait.\n\nSeeker: Does anything happen to it?\n\nDelwath: We have to wait a day. 24 hours.\n\nKenzo: For the fiend to loosen its grip."
+        }
+      ],
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "note": "An additional day relative to the salvage summary is narrated; whether that summary already advanced the date remains open."
+    },
+    {
+      "id": "t44",
+      "source": {
+        "startUid": "u13767",
+        "endUid": "u13771"
+      },
+      "reading": "The vigil has lasted two hours; the sun is getting higher.",
+      "evidence": [
+        {
+          "startUid": "u13767",
+          "endUid": "u13771",
+          "quote": "DM: An hour passes, two.\n\nKenzo: Three. Is anything happening to the scepter? Is it, like, bubbling or, like, shaking or just sitting there?\n\nSeeker: It's just sitting in the water.\n\nDM: The sun rises higher in the sky. The glow, bronze glow of the ceiling lights."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t51"
+        }
+      ]
+    },
+    {
+      "id": "t45",
+      "source": {
+        "startUid": "u13798",
+        "endUid": "u13804"
+      },
+      "reading": "By about noon the vigil continues and evil shadows begin creeping across the pool.",
+      "evidence": [
+        {
+          "startUid": "u13798",
+          "endUid": "u13804",
+          "quote": "DM: The sun passes noon and begins to sink again in the sky. See not exactly images in the water, just little hints like, what if you had this power? What would you see? What would you do?"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "partOfDay": "noon"
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t51"
+        }
+      ]
+    },
+    {
+      "id": "t46",
+      "source": {
+        "startUid": "u13807",
+        "endUid": "u13816"
+      },
+      "reading": "After seven hours the sun sets during the vigil.",
+      "evidence": [
+        {
+          "startUid": "u13807",
+          "endUid": "u13816",
+          "quote": "DM: Another hour passes. Another hour. Begins to get dark. The sun sets.\n\nKenzo: How many hours has it been now?\n\nDM: Like seven.\n\nSeeker: Seeker's toes are in the water. He, he seems to jolt awake and realize this and then pull them out again.\n\nDM: It gets dark. Although you don't fully notice it in the inside, it's just the light from the open door fades, turns red at the glow of sunset and then to darkness."
+        }
+      ],
+      "duration": {
+        "value": 7,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s cumulative vigil duration"
+      },
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "partOfDay": "sunset"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t51"
+        }
+      ]
+    },
+    {
+      "id": "t47",
+      "source": {
+        "startUid": "u13823",
+        "endUid": "u13826"
+      },
+      "reading": "About three more hours pass after sunset; the vigil continues into dinner.",
+      "evidence": [
+        {
+          "startUid": "u13823",
+          "endUid": "u13826",
+          "quote": "DM: Another hour passes, two, three. It's approaching dinner time. You're all hungry."
+        }
+      ],
+      "duration": {
+        "value": 3,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "relative": {
+          "relation": "after",
+          "reference": "t46",
+          "anchor": "sunset",
+          "offset": {
+            "value": 3,
+            "unit": "hour",
+            "precision": "approximate",
+            "basis": "narrated elapsed time"
+          }
+        }
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t51"
+        }
+      ]
+    },
+    {
+      "id": "t48",
+      "source": {
+        "startUid": "u13836",
+        "endUid": "u13839"
+      },
+      "reading": "Midnight during the unbroken vigil.",
+      "evidence": [
+        {
+          "startUid": "u13836",
+          "endUid": "u13839",
+          "quote": "DM: It gets to midnight, darkest hour. In the corner of o- your eye, you all like turn and think you see shadows skittering across the, the water, skittering in the darkness."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "partOfDay": "midnight"
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t51"
+        }
+      ]
+    },
+    {
+      "id": "t49",
+      "source": {
+        "startUid": "u13860",
+        "endUid": "u13869"
+      },
+      "reading": "Dawn is roughly an hour away.",
+      "evidence": [
+        {
+          "startUid": "u13860",
+          "endUid": "u13869",
+          "quote": "DM: You wouldn't even have to go to Chardon. Vengeance could be yours if you just reach down and grab the scepter. Another hour passes. You can feel dawn is approaching, but the shadows are gathered thick now in the room, like the light seems to dim.\n\nDM: The flames that light up the, uh, the, the cast off the flickering roof, the bronze roof now rather than gold are a sort of pale, sickly yellow. Dawn is an hour away."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "relative": {
+          "relation": "before",
+          "anchor": "dawn",
+          "offset": {
+            "value": 1,
+            "unit": "hour",
+            "precision": "approximate",
+            "basis": "narrated elapsed time"
+          }
+        }
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t51"
+        }
+      ]
+    },
+    {
+      "id": "t50",
+      "source": {
+        "startUid": "u13884",
+        "endUid": "u13889"
+      },
+      "reading": "Twenty-three hours after immersion Wellby looks outside before dawn.",
+      "evidence": [
+        {
+          "startUid": "u13884",
+          "endUid": "u13889",
+          "quote": "Wellby: I'm just gonna step outside and just take a look around outside.\n\nDM: It's pre-dawn, like the, just before the sun rises, probably like 23 hours after you put the scepter in. Nothing moving on the island. The ocean, the weather, the waves, everything is dead still, quite unusually so for midwinter. Like, normally there's more winds at this time of year. The ocean is flat calm as far as you can see."
+        }
+      ],
+      "duration": {
+        "value": 23,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "cumulative elapsed vigil"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t51"
+        }
+      ]
+    },
+    {
+      "id": "t51",
+      "source": {
+        "startUid": "u13912",
+        "endUid": "u13918"
+      },
+      "reading": "The full twenty-four-hour immersion ends just after dawn; no overnight rest was taken during the vigil.",
+      "evidence": [
+        {
+          "startUid": "u13694",
+          "endUid": "u13704",
+          "quote": "Wellby: Yeah. All right. Fuck, fine. Out it goes.\n\nDM: You release the scepter and it falls, sinks below the water.\n\nWellby: Now we wait.\n\nDelwath: And you wait.\n\nSeeker: Does anything happen to it?\n\nDelwath: We have to wait a day. 24 hours.\n\nKenzo: For the fiend to loosen its grip."
+        },
+        {
+          "startUid": "u13912",
+          "endUid": "u13918",
+          "quote": "DM: Then you hear a crack and this otherworldly screech, and this sort of sound like a thousand waves crashing at once, but really low, like the rumbling.\n\nDM: Like it's almost more like the sort of rumbling noise that rocks make when the wave rolls up the beach and then rolls out if like... But just very low, almost below the limits of hearing. It's been 24 hours."
+        },
+        {
+          "startUid": "u13940",
+          "endUid": "u13942",
+          "quote": "DM: Dawn.\n\nKenzo: Just after dawn.\n\nDM: Just after dawn."
+        }
+      ],
+      "duration": {
+        "value": 24,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "explicit completed immersion"
+      },
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "partOfDay": "dawn"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "note": "Session 82 u0113–u0115 and u0118–u0119 dates the departure from Pyhlla after the Vetta victories to December 25. That constrains destruction to no later than December 25 but does not directly date the bath’s start; the literal extra-day montage reading remains competing evidence."
+    },
+    {
+      "id": "t52",
+      "source": {
+        "startUid": "u14116",
+        "endUid": "u14121"
+      },
+      "reading": "Tulvak and Vaallinen arrive by boat as the sun rises after the destruction.",
+      "evidence": [
+        {
+          "startUid": "u14116",
+          "endUid": "u14121",
+          "quote": "DM: So as the sun rises on the quiet island, you, you see now the, um, in the distance, like sailing to the island, a ship, a Skaer ship."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM narration",
+        "partOfDay": "sunrise"
+      }
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "Spoken December 18 afternoon, December 20, corrected December 21 arrival, and December 22. Year and opening working date derive from YAML; later dates are conditional on narrated transitions. Session 82 u0113–u0115 retrospectively dates a post-destruction departure from Pyhlla to December 25; u0118–u0119 identifies the preceding scepter and Vetta victories.",
+    "expectedDateBoundaries": 8,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t05",
+      "t07",
+      "t09",
+      "t10",
+      "t17",
+      "t38",
+      "t42",
+      "t43",
+      "t51",
+      "t52"
+    ],
+    "explanation": "The December 22 fights, ensuing overnight to December 23, salvage montage, next-day bath and twenty-four-hour vigil can fit December 17–25. The “most of the next day” salvage summary can also imply an extra day, ending December 26. No exact total is established; historical mirror scenes do not extend the adventure span. The adjacent registered transcript’s December 25 departure after destruction favors the December 25 closing reading and competes with a literal extra-day reading of the local montage; the local ambiguity is retained for human resolution, not filled with an assumed day."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "end",
+      "evidence": [
+        "t38",
+        "t42",
+        "t43",
+        "t51"
+      ],
+      "reading": "Whether the salvage summary repeats December 23 or advances to December 24 affects the vigil’s end. Session 82’s explicitly dated December 25 departure after the destruction supplies an upper bound, favoring December 25 over the local-only December 26 alternative.",
+      "alternatives": [
+        {
+          "reading": "If salvage summarizes December 23, the bath begins December 24 and ends December 25.",
+          "date": "1748-12-25"
+        },
+        {
+          "reading": "If salvage advances to December 24, the next-day bath begins December 25 and ends December 26. This local-only reading conflicts with the later December 25 post-destruction departure in session 82.",
+          "date": "1748-12-26"
+        }
+      ]
+    }
+  ]
+}
