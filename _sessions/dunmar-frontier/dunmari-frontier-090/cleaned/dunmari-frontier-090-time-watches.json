@@ -1,0 +1,206 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-090/cleaned/dunmari-frontier-090-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-090/cleaned/dunmari-frontier-090-time-markers.json",
+    "sha256": "c817a85e2497ab729bb19a1975b4bcaf6bd1466da62ef9f1fa84a087d990b397"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-090/cleaned/dunmari-frontier-090-transcript.md",
+    "sha256": "bf9f4db2862a38c988efa7dbc4889a64290f2edf33a023594a3e101ba51efe41"
+  },
+  "dateAssessment": "Working dates use YAML’s 1749 year and January 30 opening, consistent with two nights of flight before the next-day meeting explicitly dated February 2 (t01–t12). February 4 departure, approximately February 14 arrival, and March 8 afternoon are spoken (t19–t22). The final awakening is that night; whether it falls before or after midnight is unstated (t23). YAML’s March 9 end is compatible, not independently verified. The twenty-one-day downtime is approximate against those direct anchors; no extra day is inserted to make the interval match. Watches within the daytime conversations are estimates; Johar’s short arrival wait alone does not establish an afternoon clock.",
+  "watches": [
+    {
+      "day": "January 30, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "January morning is spoken; January 30 comes from compatible YAML and the subsequent two-night flight.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1749-01-30",
+      "endDate": "1749-01-30"
+    },
+    {
+      "day": "January 30–31, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Day turns to night; westward flight continues through the night to the next morning.",
+      "markers": [
+        "t02"
+      ],
+      "startDate": "1749-01-30",
+      "endDate": "1749-01-31"
+    },
+    {
+      "day": "January 31, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Sunrise places the ship approaching the southern Hara valley.",
+      "markers": [
+        "t03"
+      ],
+      "startDate": "1749-01-31",
+      "endDate": "1749-01-31"
+    },
+    {
+      "day": "January 31, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "The Hara crossing occurs around dusk; another night of flight follows.",
+      "markers": [
+        "t04"
+      ],
+      "startDate": "1749-01-31",
+      "endDate": "1749-01-31"
+    },
+    {
+      "day": "February 1, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Predawn arrival; Sura replies after one minute and boards thirty minutes later.",
+      "markers": [
+        "t05",
+        "t06",
+        "t07"
+      ],
+      "startDate": "1749-02-01",
+      "endDate": "1749-02-01"
+    },
+    {
+      "day": "February 1, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Forty-five-minute news account, then Johar arrives twenty minutes after Sura leaves; morning is approximate.",
+      "markers": [
+        "t08",
+        "t09"
+      ],
+      "startDate": "1749-02-01",
+      "endDate": "1749-02-01"
+    },
+    {
+      "day": "February 1, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "The reply is received that evening; Sura’s after-dinner return and meditation are played through.",
+      "markers": [
+        "t10",
+        "t11"
+      ],
+      "startDate": "1749-02-01",
+      "endDate": "1749-02-01"
+    },
+    {
+      "day": "February 2, 1749",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Tomorrow’s lunchtime appointment is kept; the DM explicitly dates the meeting February 2.",
+      "markers": [
+        "t12",
+        "t13"
+      ],
+      "startDate": "1749-02-02",
+      "endDate": "1749-02-02"
+    },
+    {
+      "day": "February 2, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "A couple-hour walk reaches the inn in afternoon; five-minute vision, forty-five-minute wait, then the remaining afternoon aboard ship.",
+      "markers": [
+        "t14",
+        "t15",
+        "t16",
+        "t17"
+      ],
+      "startDate": "1749-02-02",
+      "endDate": "1749-02-02"
+    },
+    {
+      "day": "February 3, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Another day is spent settling matters and saying goodbye before the explicitly dated February 4 departure.",
+      "markers": [
+        "t18"
+      ],
+      "startDate": "1749-02-03",
+      "endDate": "1749-02-03"
+    },
+    {
+      "day": "February 4, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Departure is explicitly February 4; Tokra is immediately corrected to Tollen via Orenlas.",
+      "markers": [
+        "t19"
+      ],
+      "startDate": "1749-02-04",
+      "endDate": "1749-02-04"
+    },
+    {
+      "day": "February 4–14, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Eight-and-a-half days flying plus a day-and-a-half Orenlas stop culminate in arrival around February 14.",
+      "markers": [
+        "t20",
+        "t21"
+      ],
+      "startDate": "1749-02-04",
+      "endDate": "1749-02-14"
+    },
+    {
+      "day": "February 14–March 8, 1749",
+      "startWatch": null,
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "About three weeks of refit downtime lead to explicitly stated March 8, late afternoon.",
+      "markers": [
+        "t22"
+      ],
+      "startDate": "1749-02-14",
+      "endDate": "1749-03-08"
+    },
+    {
+      "day": "During March 8–9, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The party sleeps, then wakes to screams; duration and the midnight crossing are unstated.",
+      "markers": [
+        "t23"
+      ],
+      "dateWindow": [
+        "1749-03-08",
+        "1749-03-09"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Vampire identity candidate",
+      "path": "People/Other Nonhumans/Rhodar von Glauer.md",
+      "sha256": "8b751b6f704563de85ba5f2c0d550c5f783e0258739c7878e42641b7db9d6c34"
+    },
+    {
+      "label": "Earlier inn record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 43 (DuFr).md",
+      "sha256": "7dd671d3ec1d136c9c7873cd120a2ccb2b5115444450fdc3fdfbf11178cc0823"
+    }
+  ]
+}

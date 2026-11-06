@@ -1,0 +1,1543 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-090",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-090/cleaned/dunmari-frontier-090-session.yaml",
+    "sessionYamlSha256": "3e0477a57734bf11378d99e7aa7a365e86f7804d18ebdbbf02be03e4c1a89802",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-090/cleaned/dunmari-frontier-090-transcript.md",
+    "transcriptSha256": "bf9f4db2862a38c988efa7dbc4889a64290f2edf33a023594a3e101ba51efe41"
+  },
+  "places": {
+    "p01": {
+      "label": "Pava and Avaras' house",
+      "kind": "house",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0005",
+          "quote": "So, we start at Pava and Avaras's house on the morning of January. On the edge of the Garamjala Desert. It's a cozy place, small, comfortable: simple building of sandstone and a shaded courtyard."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Pava and Avaras' House.md",
+      "relations": [
+        {
+          "relation": "on_edge_of",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0005",
+              "quote": "So, we start at Pava and Avaras's house on the morning of January. On the edge of the Garamjala Desert. It's a cozy place, small, comfortable: simple building of sandstone and a shaded courtyard."
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "Vindristjarna",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u0041",
+          "endUid": "u0045",
+          "quote": "DM: And as we begin, you find yourself on Vindristjarna with quite a full crew. Amil, a fit young man, not yet 20, wearing plain white robes, carrying little in the way of possession, smiling and upbeat and in awe of the strangeness of this experience, talking to Orcs on a giant flying ship of rock. Kethra, a dwarven woman in her forties, only a decade into adulthood, with braided hair and bright eyes wearing chainmail in a dusty brown, traveling cloak and sitting near Riswynn absorbing her every word."
+        },
+        {
+          "startUid": "u0046",
+          "endUid": "u0050",
+          "quote": "DM: The Orc women Nuzkar and Aygul one, Nuzkar, bookish, the other brawny. Both traveling from Uzgukhar with you. And finally, of course,"
+        },
+        {
+          "startUid": "u0051",
+          "endUid": "u0055",
+          "quote": "DM: Faldrak, the old dwarf, over 200 now, with a graying beard but sharp eyes, wearing garish clothes decorated with a multitude of trinkets, limping on his silver cane, and constantly tending to his flying stone bird, occasionally belches out an ineffectual burst of flame as he encourages it. \"You can make it bigger, I’m sure. Just keep practicing.\" and lingers near the control room with longing in his eyes."
+        }
+      ],
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "mobile": true
+    },
+    "p03": {
+      "label": "Garamjala Desert",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0005",
+          "quote": "So, we start at Pava and Avaras's house on the morning of January. On the edge of the Garamjala Desert. It's a cozy place, small, comfortable: simple building of sandstone and a shaded courtyard."
+        },
+        {
+          "startUid": "u0015",
+          "endUid": "u0019",
+          "quote": "From here, if you travel south, the vast stretch of the Garamjala Desert continues for uncharted miles, and beyond the cursed land of the ruined city of Drankor itself a constant threat on Dunmar's borders. This is the land of Aagir's mystai of perpetual vigilance. The land where many times in the past Dunmari leaders rode to fight and lost and died."
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Garamjala Plateau/Garamjala Desert.md"
+    },
+    "p04": {
+      "label": "Southern Hara River valley",
+      "kind": "river valley",
+      "evidence": [
+        {
+          "startUid": "u0076",
+          "endUid": "u0080",
+          "quote": "As the sun rises, you find yourself approaching the Southern Hara River valley, a dry expanse. The river now beginning as— as we move from January into February, the monsoons long past, the river still flowing, but beginning to become sluggish."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Rivers/Hara Watershed/Hara.md",
+      "note": "The vault link identifies the Hara river; the local valley is the narrated approach, without a more precise surveyed position."
+    },
+    "p05": {
+      "label": "Copper Hills",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0084",
+          "endUid": "u0092",
+          "quote": "Arriving— you're— in the pre-dawn light, you can see there below you, in the distance, the camp of Sura's army spread out along the road the Tokra-Darba Road, through the Copper Hills, not far, actually from the place where you fought and killed 2 wyverns 7 months ago now, and then first encountered Kadmos and his crew."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Darba Highlands/Copper Hills.md"
+    },
+    "p06": {
+      "label": "Sura's army camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0084",
+          "endUid": "u0092",
+          "quote": "Arriving— you're— in the pre-dawn light, you can see there below you, in the distance, the camp of Sura's army spread out along the road the Tokra-Darba Road, through the Copper Hills, not far, actually from the place where you fought and killed 2 wyverns 7 months ago now, and then first encountered Kadmos and his crew."
+        },
+        {
+          "startUid": "u0097",
+          "endUid": "u0097",
+          "quote": "Unknown: So is, wait. Where is is there another camp that we can see from here? Or is it only Sura's camp? Are they facing off against each other, or they far apart"
+        },
+        {
+          "startUid": "u0097",
+          "endUid": "u0097",
+          "quote": "DM: There they seem to be about a day's travel apart like 30 miles. I mean, you can see them both from the ship."
+        },
+        {
+          "startUid": "u0098",
+          "endUid": "u0102",
+          "quote": "DM: Karnas is is camped more—so if you recall from your journey from Tokra to Darba, sort of pass through this barren stretch, and then come to this like the the first inn on the Darba side, and that's where where Karnas's army has established their fortifications about about 30 miles south of Sura's army. What would be the—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0084",
+              "endUid": "u0092",
+              "quote": "Arriving— you're— in the pre-dawn light, you can see there below you, in the distance, the camp of Sura's army spread out along the road the Tokra-Darba Road, through the Copper Hills, not far, actually from the place where you fought and killed 2 wyverns 7 months ago now, and then first encountered Kadmos and his crew."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Karnas's camp at the fortified inn",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0098",
+          "endUid": "u0102",
+          "quote": "Karnas is is camped more—so if you recall from your journey from Tokra to Darba, sort of pass through this barren stretch, and then come to this like the the first inn on the Darba side, and that's where where Karnas's army has established their fortifications about about 30 miles south of Sura's army. What would be the—"
+        },
+        {
+          "startUid": "u0983",
+          "endUid": "u0988",
+          "quote": "Well, that's enough to get there back in 2 h. You get a letter back. She says that if you travel to Karnas's camp without making a scene, she will— she will meet you, and she, she like describes a location that actually you know cause you've passed through this area before. That's about 5 miles outside of Karnas, outside of, like the the fortified inn that is apparently Karnas's main base."
+        },
+        {
+          "startUid": "u1339",
+          "endUid": "u1346",
+          "quote": "DM: You walk couple of hours into the afternoon to this fortified inn that you've been at before, actually. You— you know, with with Abha leading the way, the the outriders and the guards just wave you past, and she says, I'm you know I'm taking them to see Samraat Karnas. You can see that the that the like main hall of of the inn, the sort of common room, has been turned into a audience chamber, throne room. That troops don't seem—I mean, Sura's camp very much had this feel of like, you know, everybody in Sura's camp is like, you know, they are dedicated to Sura right like she is a, you know. For whatever her faults might be. She is a charismatic leader of a army. Karnas is very much not like the army itself isn't sort of like, it's not sort of, you know, Delwath has been a quartermaster in an army, and this is not a well tended camp, right like the lines are in disarray. The like, you know."
+        },
+        {
+          "startUid": "u1347",
+          "endUid": "u1347",
+          "quote": "Delwath: The horses are well taken care of, but like, you know,"
+        },
+        {
+          "startUid": "u1348",
+          "endUid": "u1348",
+          "quote": "Riswynn: Weapons are not. But we can bribe with food."
+        },
+        {
+          "startUid": "u1349",
+          "endUid": "u1351",
+          "quote": "DM: No, they've got enough to eat. They're just like not, you know. People are like hanging out playing cards right? Like people are. There's not a feeling of like this is this is an army camp, right? There's a very much a feeling of like people are sort of hang out and chatting and like drinking. And you know, sitting by the fire and telling stories, and like just not really paying attention. They're not like, doesn't have that feeling."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0035",
+              "endUid": "u0040",
+              "quote": "DM: In the west 2 armies sit facing each other across the copper hills, not at war, but not quite at peace either. Unwilling to fight, and unwilling to surrender. 2 siblings, Nayan Karnas and Nayan Sura staring down, uncertain, angry, perhaps racked by doubt or uncertainty, both neatly acting their roles in Agata's play as she dreams and laughs in a prison of wood and Amberglow."
+            }
+          ],
+          "note": "The camps face each other across the Copper Hills; exact hill boundaries at Karnas’s southern camp are not established."
+        }
+      ]
+    },
+    "p08": {
+      "label": "Meeting place five miles outside Karnas’s base",
+      "kind": "meeting place",
+      "evidence": [
+        {
+          "startUid": "u0983",
+          "endUid": "u0988",
+          "quote": "DM: Well, that's enough to get there back in 2 h. You get a letter back. She says that if you travel to Karnas's camp without making a scene, she will— she will meet you, and she, she like describes a location that actually you know cause you've passed through this area before. That's about 5 miles outside of Karnas, outside of, like the the fortified inn that is apparently Karnas's main base."
+        },
+        {
+          "startUid": "u0989",
+          "endUid": "u0989",
+          "quote": "Kenzo: Perfect"
+        },
+        {
+          "startUid": "u0989",
+          "endUid": "u0989",
+          "quote": "DM: Is, I shall meet you there tomorrow lunchtime if you can make it."
+        },
+        {
+          "startUid": "u1087",
+          "endUid": "u1089",
+          "quote": "DM: Okay, so you—and appear, and you see this woman waiting for you. She's, I don't know, mid forties, has"
+        },
+        {
+          "startUid": "u1090",
+          "endUid": "u1090",
+          "quote": "Delwath: Us"
+        },
+        {
+          "startUid": "u1091",
+          "endUid": "u1098",
+          "quote": "DM: Like very piercing blue eyes, like almost unnaturally blue, like the whole iris, like, you know, like spice eyes from Dune, that sort of thing. And she's sitting in meditation, her eyes closed, but looks up, or clearly aware of your of your arrival, and looks at you and opens her eyes as you're like as you're in the process of teleporting down. She's staring it right at the spot where you're gonna land."
+        },
+        {
+          "startUid": "u1099",
+          "endUid": "u1102",
+          "quote": "DM: She's wearing very plain clothing. She's got a thick like golden necklace that has like a holy symbol of Sonkar at the bottom. Brown hair that's sort of loose, shoulder length short. And she rises slowly and just kind of stares at everybody."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0983",
+              "endUid": "u0988",
+              "quote": "Well, that's enough to get there back in 2 h. You get a letter back. She says that if you travel to Karnas's camp without making a scene, she will— she will meet you, and she, she like describes a location that actually you know cause you've passed through this area before. That's about 5 miles outside of Karnas, outside of, like the the fortified inn that is apparently Karnas's main base."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Fortified inn",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u1339",
+          "endUid": "u1346",
+          "quote": "You walk couple of hours into the afternoon to this fortified inn that you've been at before, actually. You— you know, with with Abha leading the way, the the outriders and the guards just wave you past, and she says, I'm you know I'm taking them to see Samraat Karnas. You can see that the that the like main hall of of the inn, the sort of common room, has been turned into a audience chamber, throne room. That troops don't seem—I mean, Sura's camp very much had this feel of like, you know, everybody in Sura's camp is like, you know, they are dedicated to Sura right like she is a, you know. For whatever her faults might be. She is a charismatic leader of a army. Karnas is very much not like the army itself isn't sort of like, it's not sort of, you know, Delwath has been a quartermaster in an army, and this is not a well tended camp, right like the lines are in disarray. The like, you know."
+        },
+        {
+          "startUid": "u1352",
+          "endUid": "u1359",
+          "quote": "She leads you into this inn, and as as you approach it says, like, \"Ease them into it.\" And she steps forward, and she she bows, and she says, \"Samraat, I have brought travelers with news who would speak to you of events happening in the East that may impinge upon questions we have debated.\""
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0983",
+              "endUid": "u0988",
+              "quote": "Well, that's enough to get there back in 2 h. You get a letter back. She says that if you travel to Karnas's camp without making a scene, she will— she will meet you, and she, she like describes a location that actually you know cause you've passed through this area before. That's about 5 miles outside of Karnas, outside of, like the the fortified inn that is apparently Karnas's main base."
+            },
+            {
+              "startUid": "u1339",
+              "endUid": "u1346",
+              "quote": "You walk couple of hours into the afternoon to this fortified inn that you've been at before, actually. You— you know, with with Abha leading the way, the the outriders and the guards just wave you past, and she says, I'm you know I'm taking them to see Samraat Karnas. You can see that the that the like main hall of of the inn, the sort of common room, has been turned into a audience chamber, throne room. That troops don't seem—I mean, Sura's camp very much had this feel of like, you know, everybody in Sura's camp is like, you know, they are dedicated to Sura right like she is a, you know. For whatever her faults might be. She is a charismatic leader of a army. Karnas is very much not like the army itself isn't sort of like, it's not sort of, you know, Delwath has been a quartermaster in an army, and this is not a well tended camp, right like the lines are in disarray. The like, you know."
+            }
+          ]
+        }
+      ],
+      "note": "The inn is recognized from prior travel. Session 43 identifies Akela Inn on the Tokra side, while u0098–u0102 places this camp at the first inn on the Darba side; the vault identity remains unresolved."
+    },
+    "p10": {
+      "label": "Audience chamber in the common hall",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1339",
+          "endUid": "u1346",
+          "quote": "You walk couple of hours into the afternoon to this fortified inn that you've been at before, actually. You— you know, with with Abha leading the way, the the outriders and the guards just wave you past, and she says, I'm you know I'm taking them to see Samraat Karnas. You can see that the that the like main hall of of the inn, the sort of common room, has been turned into a audience chamber, throne room. That troops don't seem—I mean, Sura's camp very much had this feel of like, you know, everybody in Sura's camp is like, you know, they are dedicated to Sura right like she is a, you know. For whatever her faults might be. She is a charismatic leader of a army. Karnas is very much not like the army itself isn't sort of like, it's not sort of, you know, Delwath has been a quartermaster in an army, and this is not a well tended camp, right like the lines are in disarray. The like, you know."
+        },
+        {
+          "startUid": "u1352",
+          "endUid": "u1359",
+          "quote": "DM: She leads you into this inn, and as as you approach it says, like, \"Ease them into it.\" And she steps forward, and she she bows, and she says, \"Samraat, I have brought travelers with news who would speak to you of events happening in the East that may impinge upon questions we have debated.\""
+        },
+        {
+          "startUid": "u1360",
+          "endUid": "u1365",
+          "quote": "DM: I introduce Kenzo, Wellby the Wanderer, Delwath the elf, Riswynn—and when says Riswynn, he kind of looks up and looks over Riswynn kind of gives you a glance. Clearly he's heard that name. Seeker of Highkeep."
+        },
+        {
+          "startUid": "u1366",
+          "endUid": "u1372",
+          "quote": "DM: And Karnas like stands up. He's he's like a good—he probably would have been like 4 years older than Sura, but now of course looks closer to 15 years older than Sura. Right, so despite being in her late 20 s, looks—I mean, she's like 21. Basically she missed 8 years of her life. And he is, you know, Karnas is is substantially older, like in his. He's like 34 ish now, right? So he's like almost 15 years older. Which, by the way, we don't have a good way to account for in Obsidian, like, skipped years. Yeah. Skipped years."
+        },
+        {
+          "startUid": "u1373",
+          "endUid": "u1378",
+          "quote": "DM: And he's sitting. He's made a makeshift throne, and you can see that there's like there's like, you know, it's not quite, you know, like the sort of you know. Letters on the wall, with string between them and stuff scribbled, but there's like clearly like papers and things piled has been sorted into different piles, and there's a few scribes that are copying things over. He sort of dismisses them as you approach. And he stands. He's wearing a sword poorly. He also has a big, heavy, holy symbol of Sonkar. He's wearing a a rich cloak. You can see the family resemblance to Sura. He's he's got the same sort of facial structure and and sort of black black hair, sort of tan skin."
+        },
+        {
+          "startUid": "u1379",
+          "endUid": "u1382",
+          "quote": "DM: And he looks up at you, and he says, \"Welcome, travelers, to my—the Samraat court. Abha, you say they bring news of the East. Tell me the news of the East.\""
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1339",
+              "endUid": "u1346",
+              "quote": "You walk couple of hours into the afternoon to this fortified inn that you've been at before, actually. You— you know, with with Abha leading the way, the the outriders and the guards just wave you past, and she says, I'm you know I'm taking them to see Samraat Karnas. You can see that the that the like main hall of of the inn, the sort of common room, has been turned into a audience chamber, throne room. That troops don't seem—I mean, Sura's camp very much had this feel of like, you know, everybody in Sura's camp is like, you know, they are dedicated to Sura right like she is a, you know. For whatever her faults might be. She is a charismatic leader of a army. Karnas is very much not like the army itself isn't sort of like, it's not sort of, you know, Delwath has been a quartermaster in an army, and this is not a well tended camp, right like the lines are in disarray. The like, you know."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Outside the audience chamber",
+      "kind": "camp grounds",
+      "evidence": [
+        {
+          "startUid": "u1710",
+          "endUid": "u1713",
+          "quote": "DM: And [garbled]—the mystai kind of—and she was, she was watching too, right? She saw everything. She was watching too. She motions, and she like walks towards him, and you hear saying, \"Samraat,\" as listen as you like run out the door."
+        },
+        {
+          "startUid": "u1714",
+          "endUid": "u1714",
+          "quote": "Kenzo: Dude we I don't. I don't run. But I walk away. Yeah, yeah, we're not. We're not. We're not like subjecting ourselves to the moods of a petulant like, man, child King."
+        },
+        {
+          "startUid": "u1715",
+          "endUid": "u1715",
+          "quote": "Seeker: We're surrounded by army. But yeah, but his fucking card-playing, like, rudimentary army."
+        },
+        {
+          "startUid": "u1716",
+          "endUid": "u1716",
+          "quote": "Kenzo: But also we were surrounded by Grash's army, and we came out, okay, I'm not worried about this army."
+        },
+        {
+          "startUid": "u1717",
+          "endUid": "u1717",
+          "quote": "DM: So what do you do?"
+        },
+        {
+          "startUid": "u1718",
+          "endUid": "u1718",
+          "quote": "Kenzo: Just hang out for a few minutes. Yeah. Just hang out outside the tent. Wait for Abha to come out, because, Abha, now clearly, I think, on our side of this whole situation, which is great."
+        },
+        {
+          "startUid": "u1720",
+          "endUid": "u1720",
+          "quote": "DM: 45 min."
+        },
+        {
+          "startUid": "u1721",
+          "endUid": "u1721",
+          "quote": "Riswynn: We play some cards."
+        },
+        {
+          "startUid": "u1722",
+          "endUid": "u1722",
+          "quote": "Kenzo: Yeah."
+        },
+        {
+          "startUid": "u1723",
+          "endUid": "u1724",
+          "quote": "DM: Abha, Abha comes out. Shh! And she says: That was a more effective demonstration than I could have hoped for."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1710",
+              "endUid": "u1713",
+              "quote": "DM: And [garbled]—the mystai kind of—and she was, she was watching too, right? She saw everything. She was watching too. She motions, and she like walks towards him, and you hear saying, \"Samraat,\" as listen as you like run out the door."
+            },
+            {
+              "startUid": "u1714",
+              "endUid": "u1714",
+              "quote": "Kenzo: Dude we I don't. I don't run. But I walk away. Yeah, yeah, we're not. We're not. We're not like subjecting ourselves to the moods of a petulant like, man, child King."
+            },
+            {
+              "startUid": "u1715",
+              "endUid": "u1715",
+              "quote": "Seeker: We're surrounded by army. But yeah, but his fucking card-playing, like, rudimentary army."
+            },
+            {
+              "startUid": "u1716",
+              "endUid": "u1716",
+              "quote": "Kenzo: But also we were surrounded by Grash's army, and we came out, okay, I'm not worried about this army."
+            },
+            {
+              "startUid": "u1717",
+              "endUid": "u1717",
+              "quote": "DM: So what do you do?"
+            },
+            {
+              "startUid": "u1718",
+              "endUid": "u1718",
+              "quote": "Kenzo: Just hang out for a few minutes. Yeah. Just hang out outside the tent. Wait for Abha to come out, because, Abha, now clearly, I think, on our side of this whole situation, which is great."
+            }
+          ]
+        }
+      ],
+      "note": "Kenzo says tent while the DM’s approach identifies a fortified inn; this is the waiting position outside the audience, not a second established building."
+    },
+    "p12": {
+      "label": "Agata's hut",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u1683",
+          "endUid": "u1686",
+          "quote": "DM: So the mirror goes blank, and then you see the image looking up in Agata's hut. Piece of paper is rolled out on a desk. There is—and you see Agata standing there."
+        },
+        {
+          "startUid": "u1687",
+          "endUid": "u1695",
+          "quote": "DM: And she goes into her pouch, and she takes out a hand, the severed hand. It's wearing a ring. And she takes out some wood, and she begins to shape slowly, like a bit of an arm. And then she muttered some words, and the hand begins to crawl towards the paper, and it picks up a pen, and as she speaks, it starts writing. And the words that she is speaking, which Wellby can lip read, she's speaking in Dunmari, and the words are exactly the words of the letter. While she speaks them, handwrites. The hand picks up and begins to roll the scroll up, and it takes its ring and it presses it against the scroll to make a seal. And then she picks up—Agata picks up the wooden piece, tosses that."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Agata's Lair.md",
+      "note": "Observed in the letter’s historical mirror vision; no present-day entry occurs."
+    },
+    "p13": {
+      "label": "Orenlas",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u1843",
+          "endUid": "u1845",
+          "quote": "DM: So February fourth. Leave for Tokra via Orenlas— add— sorry, Tollen via Orenlas."
+        },
+        {
+          "startUid": "u1846",
+          "endUid": "u1849",
+          "quote": "DM: It is from where you are— how long does that take? So— why does this scroll wheel not work? Okay, scroll. So it's what like 13 ish, I gotta zoom out 1,400 miles to Orenlas"
+        },
+        {
+          "startUid": "u1850",
+          "endUid": "u1855",
+          "quote": "DM: Where you pick up—I'm gonna— It's 1,400 miles to Orenlas. I'm not gonna—I'm gonna come back to the introducing the elf gardener at a later date. We'll do that in a flashback at the beginning of some other session. And then from there it's 600 miles to Tollen. So 14. But— so that's 2,000 miles that you cover in the grand total of 8 and a half days."
+        },
+        {
+          "startUid": "u1862",
+          "endUid": "u1862",
+          "quote": "So around February fourteenth, giving a day and a half in Orenlas, you arrive in Tollen."
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Orenlas/Orenlas.md"
+    },
+    "p14": {
+      "label": "Tollen",
+      "kind": "city",
+      "evidence": [
+        {
+          "startUid": "u1862",
+          "endUid": "u1862",
+          "quote": "So around February fourteenth, giving a day and a half in Orenlas, you arrive in Tollen."
+        },
+        {
+          "startUid": "u1871",
+          "endUid": "u1873",
+          "quote": "DM: So you arrive back into—where you have, I don't know, 3, 4 weeks of repairs"
+        },
+        {
+          "startUid": "u1874",
+          "endUid": "u1874",
+          "quote": "Delwath: Right, getting"
+        },
+        {
+          "startUid": "u1875",
+          "endUid": "u1876",
+          "quote": "DM: Delwath's shield fixed up. Getting—"
+        },
+        {
+          "startUid": "u1877",
+          "endUid": "u1877",
+          "quote": "Delwath: I don't know. What else are you getting done in Tollen, probably just building all building out our ship. The big renovation of the ship."
+        },
+        {
+          "startUid": "u1878",
+          "endUid": "u1879",
+          "quote": "DM: Tollen welcomes you. I mean you. You've well Riswynn, hasn't been here before, but—and again we can. You'll pick up a few more hirelings, but we'll do flashbacks to introduce those as well."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Tollen.md"
+    },
+    "p15": {
+      "label": "Tree and Hall of Stories aboard ship",
+      "kind": "ship garden",
+      "evidence": [
+        {
+          "startUid": "u0206",
+          "endUid": "u0210",
+          "quote": "She's—as she steps onto the ship, she's looking around, and her eye is immediately drawn to the wall that Kenzo and now, Amil have been painting and and decorating, and sort of turning into your own set of stories. And she just she kind of gazes for a moment and turns, and then, you know, moves to sit down to eat. \"This is impressive.\""
+        },
+        {
+          "startUid": "u0990",
+          "endUid": "u0997",
+          "quote": "Kenzo: I'm also just very briefly— when Sura comes back to the camp, appropriate now, yeah, basically, Kenzo and Amil, we take—we, we take her through like a tour of the hall, like our the wall stories, so she can see, you know, kind of in greater detail, like, you know, what's ha—what's unfolded. All the various entities and beings that we've met and all their stories, and then we take her to to the tree, and we spend some time, spent a lot of time there actually, just in silent meditation, calling, speaking to the gods. And Tim, in particular, when we're when we're kind of going through this, this, these moments, like Kenzo's really gonna like lock into the vibe of of her essence and her kind of, you know, her energy. And again, like Kenzo is really really trying to just send her soothing send her calm, send her peace, and you know, try to try to try to calm this larger kind of angry energy that she's got going on you."
+        },
+        {
+          "startUid": "u0990",
+          "endUid": "u0997",
+          "quote": "DM: So you spend a while meditating with her, and you you sort of have the feeling that peace isn't what she needs."
+        },
+        {
+          "startUid": "u0990",
+          "endUid": "u0997",
+          "quote": "Kenzo: What does she need?"
+        },
+        {
+          "startUid": "u0998",
+          "endUid": "u0998",
+          "quote": "DM: An enemy."
+        },
+        {
+          "startUid": "u0999",
+          "endUid": "u0999",
+          "quote": "Delwath: But she can fight. Purpose."
+        },
+        {
+          "startUid": "u1000",
+          "endUid": "u1002",
+          "quote": "DM: Is a purpose. Yeah, pretty much. She needs to raise an army. I mean, she needs. She needs to settle the thing with Karnas because she can't ride off"
+        },
+        {
+          "startUid": "u1003",
+          "endUid": "u1004",
+          "quote": "Delwath: To fight Apollyon. Also, like, where is Apollyon. Where is it? The dude got an army like where's his? Where's where is forces, Drankor you don't know he's in Drankor does he have an army? Probably. They're not living, but I'm sure he has a undead army of some kind, I mean, didn't the didn't the Dunmari try this once before and fail miserably when they marched on Drankor. Didn't one of the try once before?"
+        },
+        {
+          "startUid": "u1005",
+          "endUid": "u1007",
+          "quote": "DM: It's not—you don't get the sense that she—I mean, you know, when you meditate with her, you can—I mean, you can feel like you haven't really prayed to Aagir much. Is not really like your vibe, but like you could definitely feel that sort of energy around her, right? Like—"
+        },
+        {
+          "startUid": "u1008",
+          "endUid": "u1009",
+          "quote": "Kenzo: But but again, the Aagir energy, it's not like a manipulative Agata energy own like, that's just genuine. Yeah, warrior spirit. She has that. Yeah, exactly. Yeah, I get it. I get it. That's fucking cool, though. All right."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0206",
+              "endUid": "u0210",
+              "quote": "She's—as she steps onto the ship, she's looking around, and her eye is immediately drawn to the wall that Kenzo and now, Amil have been painting and and decorating, and sort of turning into your own set of stories. And she just she kind of gazes for a moment and turns, and then, you know, moves to sit down to eat. \"This is impressive.\""
+            },
+            {
+              "startUid": "u0990",
+              "endUid": "u0997",
+              "quote": "Kenzo: I'm also just very briefly— when Sura comes back to the camp, appropriate now, yeah, basically, Kenzo and Amil, we take—we, we take her through like a tour of the hall, like our the wall stories, so she can see, you know, kind of in greater detail, like, you know, what's ha—what's unfolded. All the various entities and beings that we've met and all their stories, and then we take her to to the tree, and we spend some time, spent a lot of time there actually, just in silent meditation, calling, speaking to the gods. And Tim, in particular, when we're when we're kind of going through this, this, these moments, like Kenzo's really gonna like lock into the vibe of of her essence and her kind of, you know, her energy. And again, like Kenzo is really really trying to just send her soothing send her calm, send her peace, and you know, try to try to try to calm this larger kind of angry energy that she's got going on you."
+            },
+            {
+              "startUid": "u0990",
+              "endUid": "u0997",
+              "quote": "DM: So you spend a while meditating with her, and you you sort of have the feeling that peace isn't what she needs."
+            },
+            {
+              "startUid": "u0990",
+              "endUid": "u0997",
+              "quote": "Kenzo: What does she need?"
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Sleeping quarters aboard ship",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2101",
+          "endUid": "u2107",
+          "quote": "So, Kecha is gonna stay for the week while you get the ship ready to fly, and as you all go to bed that night, sleeping in your sleeping quarters on the ship, you are awakened by screams,"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2101",
+              "endUid": "u2107",
+              "quote": "So, Kecha is gonna stay for the week while you get the ship ready to fly, and as you all go to bed that night, sleeping in your sleeping quarters on the ship, you are awakened by screams,"
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Air above Sura’s camp",
+      "kind": "airspace",
+      "evidence": [
+        {
+          "startUid": "u0084",
+          "endUid": "u0092",
+          "quote": "Arriving— you're— in the pre-dawn light, you can see there below you, in the distance, the camp of Sura's army spread out along the road the Tokra-Darba Road, through the Copper Hills, not far, actually from the place where you fought and killed 2 wyverns 7 months ago now, and then first encountered Kadmos and his crew."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0084",
+              "endUid": "u0092",
+              "quote": "Arriving— you're— in the pre-dawn light, you can see there below you, in the distance, the camp of Sura's army spread out along the road the Tokra-Darba Road, through the Copper Hills, not far, actually from the place where you fought and killed 2 wyverns 7 months ago now, and then first encountered Kadmos and his crew."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0005"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The opening situates the party at Pava and Avaras’s house on the desert edge.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0005",
+          "quote": "So, we start at Pava and Avaras's house on the morning of January. On the edge of the Garamjala Desert. It's a cozy place, small, comfortable: simple building of sandstone and a shaded courtyard."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0041",
+        "endUid": "u0045"
+      },
+      "actors": [
+        "party",
+        "Amil",
+        "Kethra",
+        "Nuzkar",
+        "Aygul",
+        "Faldrak"
+      ],
+      "reading": "The opening places the party and the explicitly introduced crew aboard Vindristjarna.",
+      "evidence": [
+        {
+          "startUid": "u0041",
+          "endUid": "u0045",
+          "quote": "DM: And as we begin, you find yourself on Vindristjarna with quite a full crew. Amil, a fit young man, not yet 20, wearing plain white robes, carrying little in the way of possession, smiling and upbeat and in awe of the strangeness of this experience, talking to Orcs on a giant flying ship of rock. Kethra, a dwarven woman in her forties, only a decade into adulthood, with braided hair and bright eyes wearing chainmail in a dusty brown, traveling cloak and sitting near Riswynn absorbing her every word."
+        },
+        {
+          "startUid": "u0046",
+          "endUid": "u0050",
+          "quote": "DM: The Orc women Nuzkar and Aygul one, Nuzkar, bookish, the other brawny. Both traveling from Uzgukhar with you. And finally, of course,"
+        },
+        {
+          "startUid": "u0051",
+          "endUid": "u0055",
+          "quote": "DM: Faldrak, the old dwarf, over 200 now, with a graying beard but sharp eyes, wearing garish clothes decorated with a multitude of trinkets, limping on his silver cane, and constantly tending to his flying stone bird, occasionally belches out an ineffectual burst of flame as he encourages it. \"You can make it bigger, I’m sure. Just keep practicing.\" and lingers near the control room with longing in his eyes."
+        }
+      ],
+      "place": "p02",
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "near",
+          "target": "p01"
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0067",
+        "endUid": "u0092"
+      },
+      "actors": [
+        "party",
+        "Amil",
+        "Kethra",
+        "Nuzkar",
+        "Aygul",
+        "Faldrak"
+      ],
+      "reading": "Fly west from the house vicinity, across the desert edge and Hara, arriving airborne above Sura’s army camp.",
+      "evidence": [
+        {
+          "startUid": "u0067",
+          "endUid": "u0067",
+          "quote": "DM: So you head west,"
+        },
+        {
+          "startUid": "u0068",
+          "endUid": "u0068",
+          "quote": "Kenzo: Hello!"
+        },
+        {
+          "startUid": "u0069",
+          "endUid": "u0075",
+          "quote": "DM: Traveling in a direct path across the edge of the desert, flying over the ruins of Agata's lair, passing just south of the of the Red Mesa, seeing it off in the distance, passing southwest of Karawa as day turns to night, and you continue traveling through the night. The next morning,"
+        },
+        {
+          "startUid": "u0076",
+          "endUid": "u0080",
+          "quote": "DM: As the sun rises, you find yourself approaching the Southern Hara River valley, a dry expanse. The river now beginning as— as we move from January into February, the monsoons long past, the river still flowing, but beginning to become sluggish."
+        },
+        {
+          "startUid": "u0081",
+          "endUid": "u0083",
+          "quote": "DM: Crossing the the Hara around dusk and continuing through the night. West, northwest, roughly."
+        },
+        {
+          "startUid": "u0084",
+          "endUid": "u0092",
+          "quote": "DM: Arriving— you're— in the pre-dawn light, you can see there below you, in the distance, the camp of Sura's army spread out along the road the Tokra-Darba Road, through the Copper Hills, not far, actually from the place where you fought and killed 2 wyverns 7 months ago now, and then first encountered Kadmos and his crew."
+        }
+      ],
+      "from": "p01",
+      "to": "p17",
+      "mode": "fly aboard Vindristjarna",
+      "vehicle": "p02",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Fly over the ruins of Agata’s lair; pass south of Red Mesa and southwest of Karawa without landing."
+        },
+        {
+          "reading": "Approach the southern Hara valley and cross the river at dusk.",
+          "place": "p04"
+        }
+      ],
+      "note": "Arrival is in the air above the camp; this does not establish that the party entered Sura’s ground camp."
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0097",
+        "endUid": "u0102"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Both opposing camps are visible from the ship; Karnas’s camp is at an inn about thirty miles south of Sura’s.",
+      "evidence": [
+        {
+          "startUid": "u0084",
+          "endUid": "u0092",
+          "quote": "Arriving— you're— in the pre-dawn light, you can see there below you, in the distance, the camp of Sura's army spread out along the road the Tokra-Darba Road, through the Copper Hills, not far, actually from the place where you fought and killed 2 wyverns 7 months ago now, and then first encountered Kadmos and his crew."
+        },
+        {
+          "startUid": "u0097",
+          "endUid": "u0097",
+          "quote": "Unknown: So is, wait. Where is is there another camp that we can see from here? Or is it only Sura's camp? Are they facing off against each other, or they far apart"
+        },
+        {
+          "startUid": "u0097",
+          "endUid": "u0097",
+          "quote": "DM: There they seem to be about a day's travel apart like 30 miles. I mean, you can see them both from the ship."
+        },
+        {
+          "startUid": "u0098",
+          "endUid": "u0102",
+          "quote": "DM: Karnas is is camped more—so if you recall from your journey from Tokra to Darba, sort of pass through this barren stretch, and then come to this like the the first inn on the Darba side, and that's where where Karnas's army has established their fortifications about about 30 miles south of Sura's army. What would be the—"
+        }
+      ],
+      "place": "p07",
+      "observerPlace": "p02",
+      "mode": "local"
+    },
+    {
+      "id": "l05",
+      "type": "presence",
+      "source": {
+        "startUid": "u0180",
+        "endUid": "u0184"
+      },
+      "actors": [
+        "party",
+        "Sura"
+      ],
+      "reading": "Sura and her guards arrive by bridge to meet the party aboard ship.",
+      "evidence": [
+        {
+          "startUid": "u0180",
+          "endUid": "u0184",
+          "quote": "DM: So, 30 min later, Sura steps onto the bridge along with 6 guards. And they are instantly teleported onto the ship."
+        },
+        {
+          "startUid": "u0185",
+          "endUid": "u0190",
+          "quote": "DM: You— so you've I think I guess maybe Riswynn hasn't met Sura before, so as she is— where am I? Forget how old she is. She's she's like late twenties. She's not very old. Karnas is her older brother. She's wearing elegant robes, relatively short black hair."
+        },
+        {
+          "startUid": "u0191",
+          "endUid": "u0197",
+          "quote": "DM: You know, quite— she's clearly been in the field for a long time, right? She's like, you know, a bit dirty, a bit a bit worn down, tired, but also like there is fire burning in her eyes, like she is— She is angry."
+        },
+        {
+          "startUid": "u0198",
+          "endUid": "u0198",
+          "quote": "Delwath: Yes."
+        },
+        {
+          "startUid": "u0199",
+          "endUid": "u0201",
+          "quote": "DM: There's just an intensity to her gaze as she steps onto the ship and looks around and and sort of greet you, welcoming, you know, grateful still, always as you're the ones who freed her, and especially giving Kenzo a greeting and motioning basically for her guards to stand at ease."
+        },
+        {
+          "startUid": "u0202",
+          "endUid": "u0205",
+          "quote": "Kenzo: Kenzo will again, you know, greet her, greet the guards as well, and you know welcome her. Please, please come and join us. Delwath has prepared some some wonderful food for us to to dine upon, so, and also welcome to our [garbled] pronounce it, pronunciation. Vindristjarna, Vindristjarna! There's been a lot that has happened over the past many, many weeks and months. And we're eager to hear how things have been unfolding for you as well."
+        },
+        {
+          "startUid": "u0206",
+          "endUid": "u0210",
+          "quote": "DM: She's—as she steps onto the ship, she's looking around, and her eye is immediately drawn to the wall that Kenzo and now, Amil have been painting and and decorating, and sort of turning into your own set of stories. And she just she kind of gazes for a moment and turns, and then, you know, moves to sit down to eat. \"This is impressive.\""
+        }
+      ],
+      "place": "p02",
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "above",
+          "target": "p06"
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "presence",
+      "source": {
+        "startUid": "u0665",
+        "endUid": "u0670"
+      },
+      "actors": [
+        "party",
+        "Johar"
+      ],
+      "reading": "After Sura departs, Johar comes up the bridge and meets the party aboard ship.",
+      "evidence": [
+        {
+          "startUid": "u0663",
+          "endUid": "u0664",
+          "quote": "DM: [garbled] Johar here. Right? So she goes. She takes her guards. She is planning on coming back this evening like after dinner, to like, meditate with Kenzo and and Amil"
+        },
+        {
+          "startUid": "u0665",
+          "endUid": "u0670",
+          "quote": "DM: A few—20 min later, Johar was already heading in this direction, thinking basically, crazy flying ship with a rainbow bridge. I wonder if Kenzo's around? And he shoots up the bridge and appears. He definitely looks like he's aged like 10 years, like he was like the sort of fitter and you know, happier version of Kenzo. But you know, he's definitely—he's still wearing, it's like white robes, blue trim. Super happy to see Kenzo. He comes and gives him a big hug,"
+        },
+        {
+          "startUid": "u0671",
+          "endUid": "u0674",
+          "quote": "DM: Like, and looks actually over Delwath and like hands you a sack of coins and it's like, \"I'm sorry I couldn't get that to the families of the people that Casian killed. It's been crazy.\""
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l07",
+      "type": "presence",
+      "source": {
+        "startUid": "u0990",
+        "endUid": "u0997"
+      },
+      "actors": [
+        "Kenzo",
+        "Amil",
+        "Sura"
+      ],
+      "reading": "Kenzo and Amil take Sura through the ship’s stories to meditate by the tree.",
+      "evidence": [
+        {
+          "startUid": "u0990",
+          "endUid": "u0997",
+          "quote": "Kenzo: I'm also just very briefly— when Sura comes back to the camp, appropriate now, yeah, basically, Kenzo and Amil, we take—we, we take her through like a tour of the hall, like our the wall stories, so she can see, you know, kind of in greater detail, like, you know, what's ha—what's unfolded. All the various entities and beings that we've met and all their stories, and then we take her to to the tree, and we spend some time, spent a lot of time there actually, just in silent meditation, calling, speaking to the gods. And Tim, in particular, when we're when we're kind of going through this, this, these moments, like Kenzo's really gonna like lock into the vibe of of her essence and her kind of, you know, her energy. And again, like Kenzo is really really trying to just send her soothing send her calm, send her peace, and you know, try to try to try to calm this larger kind of angry energy that she's got going on you."
+        },
+        {
+          "startUid": "u0990",
+          "endUid": "u0997",
+          "quote": "DM: So you spend a while meditating with her, and you you sort of have the feeling that peace isn't what she needs."
+        },
+        {
+          "startUid": "u0990",
+          "endUid": "u0997",
+          "quote": "Kenzo: What does she need?"
+        },
+        {
+          "startUid": "u0998",
+          "endUid": "u0998",
+          "quote": "DM: An enemy."
+        },
+        {
+          "startUid": "u0999",
+          "endUid": "u0999",
+          "quote": "Delwath: But she can fight. Purpose."
+        },
+        {
+          "startUid": "u1000",
+          "endUid": "u1002",
+          "quote": "DM: Is a purpose. Yeah, pretty much. She needs to raise an army. I mean, she needs. She needs to settle the thing with Karnas because she can't ride off"
+        },
+        {
+          "startUid": "u1003",
+          "endUid": "u1004",
+          "quote": "Delwath: To fight Apollyon. Also, like, where is Apollyon. Where is it? The dude got an army like where's his? Where's where is forces, Drankor you don't know he's in Drankor does he have an army? Probably. They're not living, but I'm sure he has a undead army of some kind, I mean, didn't the didn't the Dunmari try this once before and fail miserably when they marched on Drankor. Didn't one of the try once before?"
+        },
+        {
+          "startUid": "u1005",
+          "endUid": "u1007",
+          "quote": "DM: It's not—you don't get the sense that she—I mean, you know, when you meditate with her, you can—I mean, you can feel like you haven't really prayed to Aagir much. Is not really like your vibe, but like you could definitely feel that sort of energy around her, right? Like—"
+        },
+        {
+          "startUid": "u1008",
+          "endUid": "u1009",
+          "quote": "Kenzo: But but again, the Aagir energy, it's not like a manipulative Agata energy own like, that's just genuine. Yeah, warrior spirit. She has that. Yeah, exactly. Yeah, I get it. I get it. That's fucking cool, though. All right."
+        }
+      ],
+      "place": "p15"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1087",
+        "endUid": "u1098"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Seeker",
+        "Delwath",
+        "Riswynn"
+      ],
+      "reading": "The five PCs teleport from the ship to the agreed meeting place and find Abha waiting.",
+      "evidence": [
+        {
+          "startUid": "u1058",
+          "endUid": "u1058",
+          "quote": "DM: So the next day. So how are you getting to the meeting spot?"
+        },
+        {
+          "startUid": "u1059",
+          "endUid": "u1059",
+          "quote": "Delwath: Mean, can we just ride horses? Yeah, surreptitiously. I'll hop on Baxter."
+        },
+        {
+          "startUid": "u1060",
+          "endUid": "u1060",
+          "quote": "Seeker: Okay."
+        },
+        {
+          "startUid": "u1061",
+          "endUid": "u1061",
+          "quote": "DM: I don't have to stay on the—"
+        },
+        {
+          "startUid": "u1062",
+          "endUid": "u1062",
+          "quote": "Seeker: Yep, right? We can just park it."
+        },
+        {
+          "startUid": "u1063",
+          "endUid": "u1063",
+          "quote": "Delwath: Yeah, we leave the ship. Here we just is just sitting there like I'm ready. Stay stay here, Faldrak."
+        },
+        {
+          "startUid": "u1064",
+          "endUid": "u1064",
+          "quote": "Seeker: Dream big!"
+        },
+        {
+          "startUid": "u1065",
+          "endUid": "u1065",
+          "quote": "DM: Wait, what if you might need somebody to rescue?"
+        },
+        {
+          "startUid": "u1066",
+          "endUid": "u1066",
+          "quote": "Delwath: No, we're bringing the Rainbow Bridge."
+        },
+        {
+          "startUid": "u1067",
+          "endUid": "u1067",
+          "quote": "Seeker: Well, we'll let you know, Faldrak."
+        },
+        {
+          "startUid": "u1068",
+          "endUid": "u1068",
+          "quote": "Delwath: You don't—you don't have keys yet, right?"
+        },
+        {
+          "startUid": "u1069",
+          "endUid": "u1070",
+          "quote": "DM: Now you're working your way to it. What one—Seeker and Kenzo are tuned to the stone. Somebody else can only attune to the stone if they drop attunement or allow—"
+        },
+        {
+          "startUid": "u1071",
+          "endUid": "u1074",
+          "quote": "Delwath: Right, you can't like steal it too. Yeah, no, no, I know. Yeah, okay. Early in the morning, yeah, pre-dawn is out. Is there any traffic between these 2 camps, like are— or is it not? Really? I mean, should we just be invisible like you're not? I mean, you can't. It's a 20 mile ride. You're not gonna be invisible for 6 h doesn't take 6 h to ride 20 miles 4 h. You certainly can't ride in an hour. Wow! We could be invisible for almost 4 h we could be invisible 4 h, actually, if I used all my slots and my I'd still have one slot left, because I can refresh 2 slots with various tricks. But whether it's worth being invisible for that long, I don't think we have to be invisible for 20 miles. I think we just need not attacking. We have an appointment. Yeah?"
+        },
+        {
+          "startUid": "u1075",
+          "endUid": "u1079",
+          "quote": "Delwath: Well, but we don't want like the— curry. Yeah, we don't—we actually don't want like the— Why are we not just teleporting to the spot? I mean, we could just do that. Oh, burn Seeker's next day! Let's do that. That's easier. And and just a meta game, or not even met a game, but I think for for Kenzo—"
+        },
+        {
+          "startUid": "u1080",
+          "endUid": "u1082",
+          "quote": "Kenzo: If Faldrak demonstrates in one other moment some type type of heroism, or some type of, you know, true dedication to our cause, I think Kenzo will feel comfortable letting Faldrak—"
+        },
+        {
+          "startUid": "u1083",
+          "endUid": "u1083",
+          "quote": "Seeker: Might be a while for waiting for to demonstrate heroism, though"
+        },
+        {
+          "startUid": "u1084",
+          "endUid": "u1084",
+          "quote": "Kenzo: All the time"
+        },
+        {
+          "startUid": "u1085",
+          "endUid": "u1086",
+          "quote": "Delwath: Several times it was okay with the Edge of Echoes. He was a bit scared of Grash's army, I mean in fairness, that's okay. I mean. Seeker did blast him with like psychic rays from hiding. So you know."
+        },
+        {
+          "startUid": "u1087",
+          "endUid": "u1089",
+          "quote": "DM: Okay, so you—and appear, and you see this woman waiting for you. She's, I don't know, mid forties, has"
+        },
+        {
+          "startUid": "u1090",
+          "endUid": "u1090",
+          "quote": "Delwath: Us"
+        },
+        {
+          "startUid": "u1091",
+          "endUid": "u1098",
+          "quote": "DM: Like very piercing blue eyes, like almost unnaturally blue, like the whole iris, like, you know, like spice eyes from Dune, that sort of thing. And she's sitting in meditation, her eyes closed, but looks up, or clearly aware of your of your arrival, and looks at you and opens her eyes as you're like as you're in the process of teleporting down. She's staring it right at the spot where you're gonna land."
+        },
+        {
+          "startUid": "u1360",
+          "endUid": "u1365",
+          "quote": "I introduce Kenzo, Wellby the Wanderer, Delwath the elf, Riswynn—and when says Riswynn, he kind of looks up and looks over Riswynn kind of gives you a glance. Clearly he's heard that name. Seeker of Highkeep."
+        }
+      ],
+      "from": "p02",
+      "to": "p08",
+      "mode": "teleport",
+      "completion": "arrived",
+      "note": "The later audience explicitly names these five PCs; Faldrak is told to remain aboard at u1063. No other crew member is placed at this meeting."
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1339",
+        "endUid": "u1365"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Seeker",
+        "Delwath",
+        "Riswynn",
+        "Abha"
+      ],
+      "reading": "Walk with Abha through Karnas’s camp and enter the fortified inn’s audience hall.",
+      "evidence": [
+        {
+          "startUid": "u1336",
+          "endUid": "u1336",
+          "quote": "DM: Come with me. I will bring you to his camp."
+        },
+        {
+          "startUid": "u1337",
+          "endUid": "u1337",
+          "quote": "Riswynn: No time like the present. Thank you. Let's go."
+        },
+        {
+          "startUid": "u1338",
+          "endUid": "u1338",
+          "quote": "Delwath: Meeting's been a long time."
+        },
+        {
+          "startUid": "u1339",
+          "endUid": "u1346",
+          "quote": "DM: You walk couple of hours into the afternoon to this fortified inn that you've been at before, actually. You— you know, with with Abha leading the way, the the outriders and the guards just wave you past, and she says, I'm you know I'm taking them to see Samraat Karnas. You can see that the that the like main hall of of the inn, the sort of common room, has been turned into a audience chamber, throne room. That troops don't seem—I mean, Sura's camp very much had this feel of like, you know, everybody in Sura's camp is like, you know, they are dedicated to Sura right like she is a, you know. For whatever her faults might be. She is a charismatic leader of a army. Karnas is very much not like the army itself isn't sort of like, it's not sort of, you know, Delwath has been a quartermaster in an army, and this is not a well tended camp, right like the lines are in disarray. The like, you know."
+        },
+        {
+          "startUid": "u1347",
+          "endUid": "u1347",
+          "quote": "Delwath: The horses are well taken care of, but like, you know,"
+        },
+        {
+          "startUid": "u1348",
+          "endUid": "u1348",
+          "quote": "Riswynn: Weapons are not. But we can bribe with food."
+        },
+        {
+          "startUid": "u1349",
+          "endUid": "u1351",
+          "quote": "DM: No, they've got enough to eat. They're just like not, you know. People are like hanging out playing cards right? Like people are. There's not a feeling of like this is this is an army camp, right? There's a very much a feeling of like people are sort of hang out and chatting and like drinking. And you know, sitting by the fire and telling stories, and like just not really paying attention. They're not like, doesn't have that feeling."
+        },
+        {
+          "startUid": "u1352",
+          "endUid": "u1359",
+          "quote": "DM: She leads you into this inn, and as as you approach it says, like, \"Ease them into it.\" And she steps forward, and she she bows, and she says, \"Samraat, I have brought travelers with news who would speak to you of events happening in the East that may impinge upon questions we have debated.\""
+        },
+        {
+          "startUid": "u1360",
+          "endUid": "u1365",
+          "quote": "DM: I introduce Kenzo, Wellby the Wanderer, Delwath the elf, Riswynn—and when says Riswynn, he kind of looks up and looks over Riswynn kind of gives you a glance. Clearly he's heard that name. Seeker of Highkeep."
+        }
+      ],
+      "from": "p08",
+      "to": "p10",
+      "mode": "walk",
+      "completion": "arrived",
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated couple of hours"
+      },
+      "route": [
+        {
+          "reading": "Guards wave the party through the camp.",
+          "place": "p07"
+        },
+        {
+          "reading": "Enter the fortified inn.",
+          "place": "p09"
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u1683",
+        "endUid": "u1713"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Seeker",
+        "Delwath",
+        "Riswynn",
+        "Karnas",
+        "Abha"
+      ],
+      "reading": "The mirror shows Agata at a desk in her hut, directing a severed hand to write and seal the letter.",
+      "evidence": [
+        {
+          "startUid": "u1683",
+          "endUid": "u1686",
+          "quote": "DM: So the mirror goes blank, and then you see the image looking up in Agata's hut. Piece of paper is rolled out on a desk. There is—and you see Agata standing there."
+        },
+        {
+          "startUid": "u1687",
+          "endUid": "u1695",
+          "quote": "DM: And she goes into her pouch, and she takes out a hand, the severed hand. It's wearing a ring. And she takes out some wood, and she begins to shape slowly, like a bit of an arm. And then she muttered some words, and the hand begins to crawl towards the paper, and it picks up a pen, and as she speaks, it starts writing. And the words that she is speaking, which Wellby can lip read, she's speaking in Dunmari, and the words are exactly the words of the letter. While she speaks them, handwrites. The hand picks up and begins to roll the scroll up, and it takes its ring and it presses it against the scroll to make a seal. And then she picks up—Agata picks up the wooden piece, tosses that."
+        },
+        {
+          "startUid": "u1696",
+          "endUid": "u1701",
+          "quote": "DM: And you can see Karnas watching this. Like this goes on for like 5 min, roughly, as the hand is writing out this letter that Agata is speaking. Karnas is watching it. When he first sees Agata in the hut, he draws his sword, and as it begins to write, he takes his sword and he like—"
+        },
+        {
+          "startUid": "u1702",
+          "endUid": "u1704",
+          "quote": "Delwath: I will not let him. Though I'll like get in the way, I'll knock it down, whatever. We're all like fucking fifteenth level like I'm gonna make sure he doesn't like hit the mirror with his sword."
+        },
+        {
+          "startUid": "u1702",
+          "endUid": "u1704",
+          "quote": "Unknown: Oh, no, Kenzo Kenzo can. As long as he doesn't do more than 18 damage, Kenzo can deflect it automatically. Nice."
+        },
+        {
+          "startUid": "u1705",
+          "endUid": "u1705",
+          "quote": "DM: Which is impossible, because the maximum you can roll with 0 plus is an 8. So Kenzo bats the sword out of the way as the image finishes,"
+        },
+        {
+          "startUid": "u1706",
+          "endUid": "u1708",
+          "quote": "DM: And he turns and he looks at—he looks at everybody, and he's just like— you've never like, because just rage is just like filling himself, and he just yells at you all, \"Get out!\""
+        },
+        {
+          "startUid": "u1709",
+          "endUid": "u1709",
+          "quote": "Seeker: Yeah, we can. We can come back."
+        },
+        {
+          "startUid": "u1710",
+          "endUid": "u1713",
+          "quote": "DM: And [garbled]—the mystai kind of—and she was, she was watching too, right? She saw everything. She was watching too. She motions, and she like walks towards him, and you hear saying, \"Samraat,\" as listen as you like run out the door."
+        }
+      ],
+      "place": "p12",
+      "observerPlace": "p10",
+      "mode": "vision",
+      "context": "vision",
+      "observedActors": [
+        "Agata"
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1710",
+        "endUid": "u1724"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Seeker",
+        "Delwath",
+        "Riswynn"
+      ],
+      "reading": "Leave the audience hall and wait outside until Abha emerges.",
+      "evidence": [
+        {
+          "startUid": "u1710",
+          "endUid": "u1713",
+          "quote": "DM: And [garbled]—the mystai kind of—and she was, she was watching too, right? She saw everything. She was watching too. She motions, and she like walks towards him, and you hear saying, \"Samraat,\" as listen as you like run out the door."
+        },
+        {
+          "startUid": "u1714",
+          "endUid": "u1714",
+          "quote": "Kenzo: Dude we I don't. I don't run. But I walk away. Yeah, yeah, we're not. We're not. We're not like subjecting ourselves to the moods of a petulant like, man, child King."
+        },
+        {
+          "startUid": "u1715",
+          "endUid": "u1715",
+          "quote": "Seeker: We're surrounded by army. But yeah, but his fucking card-playing, like, rudimentary army."
+        },
+        {
+          "startUid": "u1716",
+          "endUid": "u1716",
+          "quote": "Kenzo: But also we were surrounded by Grash's army, and we came out, okay, I'm not worried about this army."
+        },
+        {
+          "startUid": "u1717",
+          "endUid": "u1717",
+          "quote": "DM: So what do you do?"
+        },
+        {
+          "startUid": "u1718",
+          "endUid": "u1718",
+          "quote": "Kenzo: Just hang out for a few minutes. Yeah. Just hang out outside the tent. Wait for Abha to come out, because, Abha, now clearly, I think, on our side of this whole situation, which is great."
+        },
+        {
+          "startUid": "u1719",
+          "endUid": "u1719",
+          "quote": "Seeker: Probably too suspicious to scry what's going on. Right. Let's not do that. Well, we just don't know if what kind of magical perimeter they have, if any. Well, let's let's not. Let's just let's just chill. That would be very risky. After about"
+        },
+        {
+          "startUid": "u1720",
+          "endUid": "u1720",
+          "quote": "DM: 45 min."
+        },
+        {
+          "startUid": "u1721",
+          "endUid": "u1721",
+          "quote": "Riswynn: We play some cards."
+        },
+        {
+          "startUid": "u1722",
+          "endUid": "u1722",
+          "quote": "Kenzo: Yeah."
+        },
+        {
+          "startUid": "u1723",
+          "endUid": "u1724",
+          "quote": "DM: Abha, Abha comes out. Shh! And she says: That was a more effective demonstration than I could have hoped for."
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "mode": "walk",
+      "completion": "arrived"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1818",
+        "endUid": "u1822"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Seeker",
+        "Delwath",
+        "Riswynn"
+      ],
+      "reading": "Return to Vindristjarna with Abha’s letter and lay the groundwork for talks with Sura.",
+      "evidence": [
+        {
+          "startUid": "u1808",
+          "endUid": "u1811",
+          "quote": "DM: But things are more settled now. So as you take the letter to Sura and tell her about what happened, and spend some more time meditating, like this is this is a— I mean, this is a relationship that's gonna be slow to heal. Sura was clearly"
+        },
+        {
+          "startUid": "u1812",
+          "endUid": "u1812",
+          "quote": "Delwath: Seriously wounded by him."
+        },
+        {
+          "startUid": "u1813",
+          "endUid": "u1817",
+          "quote": "Kenzo: Kenzo also is gonna carve, like, you know, the little figurines that he carves for the people that yeah, he's gonna carve a set like a unified brother and sister set and give them to both— to Abha to give to Karnas, and then also set to give to to Sura, which he delivers by— to remind them."
+        },
+        {
+          "startUid": "u1818",
+          "endUid": "u1822",
+          "quote": "DM: So you you lay the groundwork over, you know, over the rest of that afternoon, after returning to the ship with Abha's letter, and Sura agrees to meet with her. Sur Sura Sura now also, I mean Sura spent some time at the Lakan Monastery when she was young. She spent a couple of years there before Kenzo showed up, and she knows several of the monks there."
+        }
+      ],
+      "from": "p11",
+      "to": "p02",
+      "completion": "arrived",
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "above",
+          "target": "p06"
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1843",
+        "endUid": "u1862"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Depart the Copper Hills for Tollen via Orenlas; stop a day and a half at Orenlas, then arrive at Tollen.",
+      "evidence": [
+        {
+          "startUid": "u1843",
+          "endUid": "u1845",
+          "quote": "DM: So February fourth. Leave for Tokra via Orenlas— add— sorry, Tollen via Orenlas."
+        },
+        {
+          "startUid": "u1846",
+          "endUid": "u1849",
+          "quote": "DM: It is from where you are— how long does that take? So— why does this scroll wheel not work? Okay, scroll. So it's what like 13 ish, I gotta zoom out 1,400 miles to Orenlas"
+        },
+        {
+          "startUid": "u1850",
+          "endUid": "u1855",
+          "quote": "DM: Where you pick up—I'm gonna— It's 1,400 miles to Orenlas. I'm not gonna—I'm gonna come back to the introducing the elf gardener at a later date. We'll do that in a flashback at the beginning of some other session. And then from there it's 600 miles to Tollen. So 14. But— so that's 2,000 miles that you cover in the grand total of 8 and a half days."
+        },
+        {
+          "startUid": "u1862",
+          "endUid": "u1862",
+          "quote": "So around February fourteenth, giving a day and a half in Orenlas, you arrive in Tollen."
+        }
+      ],
+      "from": "p17",
+      "to": "p14",
+      "vehicle": "p02",
+      "mode": "fly aboard Vindristjarna",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Reach Orenlas after the first approximately 1,400 miles and stop for a day and a half.",
+          "place": "p13"
+        },
+        {
+          "reading": "Continue approximately 600 miles onward to Tollen."
+        }
+      ],
+      "distance": {
+        "value": 2000,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM’s combined route distance"
+      },
+      "duration": {
+        "value": 8.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Flight time only; the Orenlas stop adds 1.5 days"
+      },
+      "note": "The deferred gardener introduction is not a played Orenlas exchange in this transcript."
+    },
+    {
+      "id": "l14",
+      "type": "presence",
+      "source": {
+        "startUid": "u1897",
+        "endUid": "u1903"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "During Tollen downtime the party is aboard the ship amid its renovations; Kecha later lands and offers to guide them.",
+      "evidence": [
+        {
+          "startUid": "u1897",
+          "endUid": "u1903",
+          "quote": "So this is, this is probably about a week before you're ready. You been in Tollen for for 3 weeks now. The ship, the repairs on the ship are like 3 quarters done. You know, you've gotten your your stuff from Umli. Kenzo's reconnected with Iskra. You've like— you could have done some Philosophers' Guild stuff. You could have done other sorts of Tollen downtime stuff."
+        },
+        {
+          "startUid": "u1912",
+          "endUid": "u1913",
+          "quote": "DM: Assuming you arrive in Tollen around February fourteenth, and then, you know, there's a lot of bustle and repair on the ship is, you know, all this stuff starts getting constructed. Your various hirelings, except the 2 Orcs, are basically just hiding out in the ship."
+        },
+        {
+          "startUid": "u1914",
+          "endUid": "u1914",
+          "quote": "Delwath: Did they ever find anything? By the way from, didn't we give them a pile of"
+        },
+        {
+          "startUid": "u1915",
+          "endUid": "u1915",
+          "quote": "DM: Yeah, that that's that'll be finished during the Tollen downtime that'll be one of the Tollen downtime thing"
+        },
+        {
+          "startUid": "u1916",
+          "endUid": "u1917",
+          "quote": "DM: The one afternoon, March eighth, late afternoon, after the workmen have left for the day, like the the ship is sort of relatively clear and calm."
+        },
+        {
+          "startUid": "u1918",
+          "endUid": "u1924",
+          "quote": "DM: You see flying in the sky, approaching you, this like, almost like us, like a like white-winged kenku with like like feathers like us, like a snowy owl, flying just kind of silently in your direction. And they— he, she, you're not sure— impossible to tell their age or their gender as they circle over the ship."
+        },
+        {
+          "startUid": "u1925",
+          "endUid": "u1930",
+          "quote": "DM: And there's—I mean, kenku are still a fairly rare sight in even in Tollen, and there's, you know, people looking. Faldrak looks up, you know, from his— He's taken on the role of basically directing everybody. The stone bird flies off his shoulder and begins to like fly around as this kenku is approaching. Fire is still very unimpressive, and it belches. Also, almost like everything— yeah, everything is this like wild new experience for him. He's never met a kenku before. He never met, you know anybody before, so he's just like standing there sort of gawking, leaning against the side."
+        },
+        {
+          "startUid": "u1931",
+          "endUid": "u1934",
+          "quote": "DM: And this kenku lands and looks around at you. Heard you needed a scout to go east. Is this still true? When do you plan to leave?"
+        },
+        {
+          "startUid": "u1935",
+          "endUid": "u1935",
+          "quote": "Delwath: Soon as we find a scout."
+        },
+        {
+          "startUid": "u1936",
+          "endUid": "u1936",
+          "quote": "Riswynn: About a week."
+        },
+        {
+          "startUid": "u1937",
+          "endUid": "u1938",
+          "quote": "DM: He then like hops down onto the deck of the ship, and like looks up at the courtyard and the buildings that are like nearly finished being constructed. Do you know what you'll face?"
+        }
+      ],
+      "place": "p02",
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "at",
+          "target": "p14"
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "presence",
+      "source": {
+        "startUid": "u2101",
+        "endUid": "u2107"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party sleeps in the ship’s quarters at Tollen and awakens to screams from the dock and water.",
+      "evidence": [
+        {
+          "startUid": "u2101",
+          "endUid": "u2107",
+          "quote": "DM: So, Kecha is gonna stay for the week while you get the ship ready to fly, and as you all go to bed that night, sleeping in your sleeping quarters on the ship, you are awakened by screams,"
+        },
+        {
+          "startUid": "u2108",
+          "endUid": "u2108",
+          "quote": "Kenzo: Yeah, we can still"
+        },
+        {
+          "startUid": "u2109",
+          "endUid": "u2114",
+          "quote": "DM: And the sound of like people on the water, people on at the dock shouting, and several shadow hunters who've been waiting for you to be in one place for longer than like 3 days have finally tracked you down. And we will start there next time."
+        }
+      ],
+      "place": "p16",
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "at",
+          "target": "p14"
+        }
+      ]
+    }
+  ]
+}
