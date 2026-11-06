@@ -1,0 +1,1316 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dragonets-001",
+    "sessionYaml": "_sessions/dragonets/dragonets-001/cleaned/dragonets-001-session.yaml",
+    "sessionYamlSha256": "6068525fceba05d6a9888e60b9d198c1839d433f32cdac49fbce14f7bb38731d",
+    "transcriptPath": "_sessions/dragonets/dragonets-001/cleaned/dragonets-001-transcript.md",
+    "transcriptSha256": "273771a9ea93effe06e614f7847747925a8895c37398e75764e97a90d316532a"
+  },
+  "places": {
+    "p01": {
+      "label": "Circular Island",
+      "kind": "island",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0007",
+          "quote": "DM: We start this campaign, and we start this adventure together in a place that… the four of you know well: the Circular Island, which is… for purposes of today, and for the next sessions, part of an endless sea, stretching out as far as the eye and the mind can see."
+        },
+        {
+          "startUid": "u0008",
+          "endUid": "u0015",
+          "quote": "DM: And this island, perfectly circular, dotted with 8 immense statues. And these statues… each representing a… different divine entity, from times long lost. And for you all, and for dragonets, these names are lost and meaningless, but… once upon a time, they were called the Mother, the Father, the Night Queen, the Warlord, the Sibyl, the Wanderer, the Wyrdling, and the Wildling. But… for you all, as dragonets and as part of a very, very special and beautiful community, each of these 8 statues represents home, represents culture, represents community."
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Circular Island.md",
+      "note": "The vault note describes a DR 1749 state; this campaign’s date relative to that state is unresolved. Only identity is imported."
+    },
+    "p02": {
+      "label": "Wanderer statue",
+      "kind": "statue",
+      "evidence": [
+        {
+          "startUid": "u0034",
+          "endUid": "u0043",
+          "quote": "DM: But before we bring into that, I'd like to bring us into the four characters, the four dragonets that are gonna be the heroes and the main characters of our story here: Heska, and Little Tony, and Sculpit, and Zeno. And I'd like to first bring us into one of the very, very special places certainly for Little Tony and Sculpit. And for Little Tony and Sculpit, one of the most important places to the both of them is a very, very special part of the Wanderer statue. And up high, high above the clouds, the Wanderer's hand and palm is reached out, out into the horizon. A symbol for adventure, for journeying, for welcoming the unknown."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0008",
+              "endUid": "u0015",
+              "quote": "DM: And this island, perfectly circular, dotted with 8 immense statues. And these statues… each representing a… different divine entity, from times long lost. And for you all, and for dragonets, these names are lost and meaningless, but… once upon a time, they were called the Mother, the Father, the Night Queen, the Warlord, the Sibyl, the Wanderer, the Wyrdling, and the Wildling. But… for you all, as dragonets and as part of a very, very special and beautiful community, each of these 8 statues represents home, represents culture, represents community."
+            },
+            {
+              "startUid": "u0034",
+              "endUid": "u0043",
+              "quote": "DM: But before we bring into that, I'd like to bring us into the four characters, the four dragonets that are gonna be the heroes and the main characters of our story here: Heska, and Little Tony, and Sculpit, and Zeno. And I'd like to first bring us into one of the very, very special places certainly for Little Tony and Sculpit. And for Little Tony and Sculpit, one of the most important places to the both of them is a very, very special part of the Wanderer statue. And up high, high above the clouds, the Wanderer's hand and palm is reached out, out into the horizon. A symbol for adventure, for journeying, for welcoming the unknown."
+            }
+          ]
+        }
+      ],
+      "note": "This physical statue is distinct from the deity The Wanderer; no separate statue note was found."
+    },
+    "p03": {
+      "label": "Wanderer’s palm",
+      "kind": "statue part",
+      "evidence": [
+        {
+          "startUid": "u0034",
+          "endUid": "u0043",
+          "quote": "the Wanderer's hand and palm is reached out, out into the horizon"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0034",
+              "endUid": "u0043",
+              "quote": "DM: But before we bring into that, I'd like to bring us into the four characters, the four dragonets that are gonna be the heroes and the main characters of our story here: Heska, and Little Tony, and Sculpit, and Zeno. And I'd like to first bring us into one of the very, very special places certainly for Little Tony and Sculpit. And for Little Tony and Sculpit, one of the most important places to the both of them is a very, very special part of the Wanderer statue. And up high, high above the clouds, the Wanderer's hand and palm is reached out, out into the horizon. A symbol for adventure, for journeying, for welcoming the unknown."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Dark Lady statue and neighborhood",
+      "kind": "statue settlement",
+      "evidence": [
+        {
+          "startUid": "u0140",
+          "endUid": "u0141",
+          "quote": "DM: Beautiful, y'all. Well, and so, we'll come back to the palm in a moment, but now, we're gonna shift scenes and go to… the neighborhood and the community of the Dark Lady."
+        },
+        {
+          "startUid": "u0143",
+          "endUid": "u0150",
+          "quote": "DM: And so, the Dark Lady. Again, each, each dragonet community, different, diverse, connected to their own… their own statues. Much of the… of the neighborhoods built in the cracks of the robes, and is the home of… of Heska and Zeno, who also are friends and have known each other for quite some time. And Zeno and Heska, please introduce yourselves and your relationship."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0008",
+              "endUid": "u0015",
+              "quote": "DM: And this island, perfectly circular, dotted with 8 immense statues. And these statues… each representing a… different divine entity, from times long lost. And for you all, and for dragonets, these names are lost and meaningless, but… once upon a time, they were called the Mother, the Father, the Night Queen, the Warlord, the Sibyl, the Wanderer, the Wyrdling, and the Wildling. But… for you all, as dragonets and as part of a very, very special and beautiful community, each of these 8 statues represents home, represents culture, represents community."
+            },
+            {
+              "startUid": "u0143",
+              "endUid": "u0150",
+              "quote": "DM: And so, the Dark Lady. Again, each, each dragonet community, different, diverse, connected to their own… their own statues. Much of the… of the neighborhoods built in the cracks of the robes, and is the home of… of Heska and Zeno, who also are friends and have known each other for quite some time. And Zeno and Heska, please introduce yourselves and your relationship."
+            }
+          ]
+        }
+      ],
+      "note": "The Dark Lady is this statue’s dragonet name; it is not a physical visit to the deity The Night Queen."
+    },
+    "p05": {
+      "label": "Great Temple grounds",
+      "kind": "temple complex",
+      "evidence": [
+        {
+          "startUid": "u0252",
+          "endUid": "u0256",
+          "quote": "the temple that’s located at the center of the island"
+        },
+        {
+          "startUid": "u1119",
+          "endUid": "u1120",
+          "quote": "DM: So as, as, you all kind of, you know, calm down from the end of the performance, and the scene shifts now into the post-opening ceremony, into now the dragonet actual games. And this is very much kind of like a Burning Man sort of vibe, where there's, you know, a bunch of things happening in different spaces across the temple grounds."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0252",
+              "endUid": "u0256",
+              "quote": "DM: And so… as we bring ourselves into the morning of the festival, let’s see here… As we bring ourselves into the morning of the festival, and the festival itself takes place in the temple that’s located at the center of the island. Pilgrimage roads lead from the center all the way out to each of the large eight statues: Brightface, you know, the Wildling, or the Wanderer and beyond. But this morning, what happens is Xena, who is the star of the show, she is in a panic. And there’s basically, in the main temple area, there’s kind of, like, a green room area set over on a side, which is a large cabana area. And this is sort of the dry rehearsal period, where everybody that's gonna be doing some kind of performance, you know, the various musicians are, like, have their instruments out, they're all doing their sound checks, everybody's just kind of trying to get ready in advance before everybody shows up. Obviously, this image has got everybody here, but imagine it, you know, like, this is before it all happens."
+            }
+          ]
+        }
+      ],
+      "note": "The transcript establishes the central-island setting. Vault-only summit geography and DR 1749 conditions are not imported."
+    },
+    "p06": {
+      "label": "Green-room cabana",
+      "kind": "rehearsal area",
+      "evidence": [
+        {
+          "startUid": "u0252",
+          "endUid": "u0256",
+          "quote": "DM: And so… as we bring ourselves into the morning of the festival, let’s see here… As we bring ourselves into the morning of the festival, and the festival itself takes place in the temple that’s located at the center of the island. Pilgrimage roads lead from the center all the way out to each of the large eight statues: Brightface, you know, the Wildling, or the Wanderer and beyond. But this morning, what happens is Xena, who is the star of the show, she is in a panic. And there’s basically, in the main temple area, there’s kind of, like, a green room area set over on a side, which is a large cabana area. And this is sort of the dry rehearsal period, where everybody that's gonna be doing some kind of performance, you know, the various musicians are, like, have their instruments out, they're all doing their sound checks, everybody's just kind of trying to get ready in advance before everybody shows up. Obviously, this image has got everybody here, but imagine it, you know, like, this is before it all happens."
+        },
+        {
+          "startUid": "u0257",
+          "endUid": "u0261",
+          "quote": "DM: And so, we start this scene with, with Sculpit and Xena, but also with, with Little Tony, who Sculpit has brought by, as a part of this preparation. And Xena is lovely. Xena is such a talent— an incredible flyer and acrobat, that’s part of why she’s so famous, but also an incredible vocalist, which is a very, very rare combination. Often in these dragonet parties and these dragonet sing-offs and these competitions that happen, usually, it’s around one skill, and Xena is a particular talent because she can both… has this incredible body control and dexterity and physical performance, but also can sing."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0252",
+              "endUid": "u0256",
+              "quote": "DM: And so… as we bring ourselves into the morning of the festival, let’s see here… As we bring ourselves into the morning of the festival, and the festival itself takes place in the temple that’s located at the center of the island. Pilgrimage roads lead from the center all the way out to each of the large eight statues: Brightface, you know, the Wildling, or the Wanderer and beyond. But this morning, what happens is Xena, who is the star of the show, she is in a panic. And there’s basically, in the main temple area, there’s kind of, like, a green room area set over on a side, which is a large cabana area. And this is sort of the dry rehearsal period, where everybody that's gonna be doing some kind of performance, you know, the various musicians are, like, have their instruments out, they're all doing their sound checks, everybody's just kind of trying to get ready in advance before everybody shows up. Obviously, this image has got everybody here, but imagine it, you know, like, this is before it all happens."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Nearby tent",
+      "kind": "tent",
+      "evidence": [
+        {
+          "startUid": "u0265",
+          "endUid": "u0266",
+          "quote": "DM: But, Heska, you and Zeno are also here as a part of this, this opening ceremony prep part. You know, a lot of the dragonets are just kind of, if you're curious, kind of coming and hanging out. But frankly, a lot of the dragonets are out preparing their own shit, right? Like, the great find is happening, so everybody's getting, you know, the coolest fucking random, you know, hunt that they've gotten, preparing it in the most beautiful way, for the great hunt. For the great find, all the strange objects are being arrayed and set up in the tents. So this is, like, just pre-party, like, major planning moment."
+        },
+        {
+          "startUid": "u0267",
+          "endUid": "u0269",
+          "quote": "DM: And, and so, so, Heska and Zeno, you both are nearby, in a nearby tent, just, just hanging out, checking things out, but we start with, with Sculpit and with Little Tony, and Xena walks up to both of you, and… Xena is, like… she, as a dragonet, has got, like, just ripped arms, and, like, her wings are super, super just svelte, and she’s got this amazing, just, energy about her, but has this huge pot belly. She just has, like, this weird aerodynamic, like, you know, she’s got this, like, pot belly, which is tattooed and decorated with jewels, and is bedazzled. But she’s also, like…"
+        },
+        {
+          "startUid": "u0434",
+          "endUid": "u0438",
+          "quote": "Heska: Heska has been sitting in the tent that… that him and Zeno were talking on, and he’s… he's… he's, like, just fiddling with some… I don't know, a pair of dice or something, just kind of, like… you know, tossing them around in his hand, doing little dice tricks and things like that. Not really paying too much attention to the, to, to the conversation, but when, Xena, is that her name? Xena shouts, “Heska!” He, like, looks over quickly, sees who’s shouting his name, and then, like, drops the dice awkwardly, and ducks behind the bench."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0252",
+              "endUid": "u0256",
+              "quote": "DM: And so… as we bring ourselves into the morning of the festival, let’s see here… As we bring ourselves into the morning of the festival, and the festival itself takes place in the temple that’s located at the center of the island. Pilgrimage roads lead from the center all the way out to each of the large eight statues: Brightface, you know, the Wildling, or the Wanderer and beyond. But this morning, what happens is Xena, who is the star of the show, she is in a panic. And there’s basically, in the main temple area, there’s kind of, like, a green room area set over on a side, which is a large cabana area. And this is sort of the dry rehearsal period, where everybody that's gonna be doing some kind of performance, you know, the various musicians are, like, have their instruments out, they're all doing their sound checks, everybody's just kind of trying to get ready in advance before everybody shows up. Obviously, this image has got everybody here, but imagine it, you know, like, this is before it all happens."
+            },
+            {
+              "startUid": "u0265",
+              "endUid": "u0269",
+              "quote": "DM: But, Heska, you and Zeno are also here as a part of this, this opening ceremony prep part. You know, a lot of the dragonets are just kind of, if you're curious, kind of coming and hanging out. But frankly, a lot of the dragonets are out preparing their own shit, right? Like, the great find is happening, so everybody's getting, you know, the coolest fucking random, you know, hunt that they've gotten, preparing it in the most beautiful way, for the great hunt. For the great find, all the strange objects are being arrayed and set up in the tents. So this is, like, just pre-party, like, major planning moment."
+            },
+            {
+              "startUid": "u0267",
+              "endUid": "u0269",
+              "quote": "DM: And, and so, so, Heska and Zeno, you both are nearby, in a nearby tent, just, just hanging out, checking things out, but we start with, with Sculpit and with Little Tony, and Xena walks up to both of you, and… Xena is, like… she, as a dragonet, has got, like, just ripped arms, and, like, her wings are super, super just svelte, and she’s got this amazing, just, energy about her, but has this huge pot belly. She just has, like, this weird aerodynamic, like, you know, she’s got this, like, pot belly, which is tattooed and decorated with jewels, and is bedazzled. But she’s also, like…"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Quiet practice spot",
+      "kind": "practice clearing",
+      "evidence": [
+        {
+          "startUid": "u0559",
+          "endUid": "u0568",
+          "quote": "Sculpit: As you're… as we're walking, or flying, or whatever, Sculpit’s kind of muttering and kind of waving his hands a little bit. And… I, you know, he, he… about a few minutes, we get somewhere a little bit more quiet, right? And he takes… color… something out of a little pouch or something, and hands it to, apparently, the thin air, where there's now… he’s cast some sort of spell… and sends, it says, “Here, show me, chase that!” And some invisible creature holding a little ball, or… you know, cloth or something, some red thing, starts running off the other direction."
+        },
+        {
+          "startUid": "u0629",
+          "endUid": "u0630",
+          "quote": "DM: As he lands, as he lands, you hear, just kind of, like, bursting from the bushes, like, Xena has been, like, hiding and watching this whole time, and she, like, falls over and is like, “That was so hot.”"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0519",
+              "endUid": "u0522",
+              "quote": "Sculpit: There we go. Yeah, he starts… he starts muttering. Give me… give me a few minutes here. Yeah, let's… let's… let’s… let’s go somewhere where it’s a little less crowded. Right? Like, there's a few people around here, like, like, will you come with me for a minute?"
+            },
+            {
+              "startUid": "u0559",
+              "endUid": "u0568",
+              "quote": "Sculpit: As you're… as we're walking, or flying, or whatever, Sculpit’s kind of muttering and kind of waving his hands a little bit. And… I, you know, he, he… about a few minutes, we get somewhere a little bit more quiet, right? And he takes… color… something out of a little pouch or something, and hands it to, apparently, the thin air, where there's now… he’s cast some sort of spell… and sends, it says, “Here, show me, chase that!” And some invisible creature holding a little ball, or… you know, cloth or something, some red thing, starts running off the other direction."
+            }
+          ],
+          "note": "The PCs leave the crowded tents and arrive a few minutes later; the exact temple-ground boundary is not established."
+        }
+      ]
+    },
+    "p09": {
+      "label": "Zare’s festival station",
+      "kind": "stall",
+      "evidence": [
+        {
+          "startUid": "u0721",
+          "endUid": "u0723",
+          "quote": "Zeno: We're gonna go see what happens. And so we fly over to the… now, where’s the tailor work out of? Just, like, under a tree? We'll do that."
+        },
+        {
+          "startUid": "u0724",
+          "endUid": "u0724",
+          "quote": "DM: At this moment, with the festival, like, everybody’s bringing little stations, and so…"
+        },
+        {
+          "startUid": "u0726",
+          "endUid": "u0726",
+          "quote": "DM: Yeah, there’s a… you know where he is, you know where he is. And Zare? Zare, like, you know, he’s known, he’s known you for quite some time, but he’s getting his whole tailor set up, and you know, again, it’s a whole hustle and bustle, but he sees… he sees the two of you fly over, and he’s like, “Zeno, what’s up?”"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0252",
+              "endUid": "u0256",
+              "quote": "DM: And so… as we bring ourselves into the morning of the festival, let’s see here… As we bring ourselves into the morning of the festival, and the festival itself takes place in the temple that’s located at the center of the island. Pilgrimage roads lead from the center all the way out to each of the large eight statues: Brightface, you know, the Wildling, or the Wanderer and beyond. But this morning, what happens is Xena, who is the star of the show, she is in a panic. And there’s basically, in the main temple area, there’s kind of, like, a green room area set over on a side, which is a large cabana area. And this is sort of the dry rehearsal period, where everybody that's gonna be doing some kind of performance, you know, the various musicians are, like, have their instruments out, they're all doing their sound checks, everybody's just kind of trying to get ready in advance before everybody shows up. Obviously, this image has got everybody here, but imagine it, you know, like, this is before it all happens."
+            },
+            {
+              "startUid": "u0724",
+              "endUid": "u0724",
+              "quote": "DM: At this moment, with the festival, like, everybody’s bringing little stations, and so…"
+            },
+            {
+              "startUid": "u0726",
+              "endUid": "u0726",
+              "quote": "DM: Yeah, there’s a… you know where he is, you know where he is. And Zare? Zare, like, you know, he’s known, he’s known you for quite some time, but he’s getting his whole tailor set up, and you know, again, it’s a whole hustle and bustle, but he sees… he sees the two of you fly over, and he’s like, “Zeno, what’s up?”"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Opening-ceremony circle",
+      "kind": "ceremonial space",
+      "evidence": [
+        {
+          "startUid": "u0878",
+          "endUid": "u0880",
+          "quote": "DM: And so the elders come, and they start their procession. Eight objects are arrayed around the circle. And each one of the elders, again, representing their local community, adorned with the culture of their… of their, larger dragonet community, starts to make their way closer in towards the center of the… the eight-fold circle."
+        },
+        {
+          "startUid": "u0908",
+          "endUid": "u0912",
+          "quote": "DM: And so, the four of you are… very close to the front of the circle, you know, connected to your communities. But Sculpit, in particular, you know it's showtime. And so… Xena is positioned where she's… needs to be, and she gives you a glance, and what do you do?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0849",
+              "endUid": "u0852",
+              "quote": "DM: Xena is super, super ecstatic, and is happy, and prepares for… begins to get the preparations going, as now we're really, really getting down to it and getting close to the sunset. And so, as we shift into the start of the… great festival, and the Eightfold Festival, and to the Jubilee. It’s been a very hectic day, and now, all of the dragonets, as the setup is now complete and everything is about ready to go, the procession is starting to begin, and all across the island, all across these 8 communities of these dragonet communities, they start to come and assemble, flying across the island and making their way to the Great Temple."
+            },
+            {
+              "startUid": "u0853",
+              "endUid": "u0854",
+              "quote": "DM: And… as you all, settle down with your, communities, and I'm guessing, Little Tony and Sculpit, y'all are also part of the Wanderer community, I'm guessing, yeah? Even though this is a… you can… yeah. Does that work?"
+            },
+            {
+              "startUid": "u0908",
+              "endUid": "u0912",
+              "quote": "DM: And so, the four of you are… very close to the front of the circle, you know, connected to your communities. But Sculpit, in particular, you know it's showtime. And so… Xena is positioned where she's… needs to be, and she gives you a glance, and what do you do?"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Call-and-response circle",
+      "kind": "performance space",
+      "evidence": [
+        {
+          "startUid": "u1142",
+          "endUid": "u1144",
+          "quote": "DM: Zeno, Roska is one that you've been eyeing and kind of thinking about and preparing for, because you know that this was something that was likely to happen. And you see the four of you as you're kind of walking around and, you know, checking out various things. This is one of the first things that you come across, is Roska and his crew. Zeno, what do you do?"
+        },
+        {
+          "startUid": "u1191",
+          "endUid": "u1192",
+          "quote": "DM: You should do. So basically, you know, part of what happens now is there's, like, a circle that's forming around you all. And, you know, Heska, Sculpit, Little Tony, y'all are in the circle."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1119",
+              "endUid": "u1120",
+              "quote": "DM: So as, as, you all kind of, you know, calm down from the end of the performance, and the scene shifts now into the post-opening ceremony, into now the dragonet actual games. And this is very much kind of like a Burning Man sort of vibe, where there's, you know, a bunch of things happening in different spaces across the temple grounds."
+            },
+            {
+              "startUid": "u1142",
+              "endUid": "u1144",
+              "quote": "DM: Zeno, Roska is one that you've been eyeing and kind of thinking about and preparing for, because you know that this was something that was likely to happen. And you see the four of you as you're kind of walking around and, you know, checking out various things. This is one of the first things that you come across, is Roska and his crew. Zeno, what do you do?"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Great Feast",
+      "kind": "festival food area",
+      "evidence": [
+        {
+          "startUid": "u1406",
+          "endUid": "u1406",
+          "quote": "DM: There's The Great Find, which is where, you know, people just bring, like, all kinds of crazy fucking awesome objects and, like, share them with each other to look at. There's The Great Feast, where, like, people bring, like, really fucking crazy awesome food to, like, show off and also eat."
+        },
+        {
+          "startUid": "u1418",
+          "endUid": "u1418",
+          "quote": "DM: How about this? How about this? You guys go to, the, to go get food, and each of you, you spend some time there, finding, like, some interesting things, you know, obviously hanging out with other dragonets, but then you go…"
+        },
+        {
+          "startUid": "u1420",
+          "endUid": "u1420",
+          "quote": "DM: And in a moment, describe what you get, because it's sort of like, you know, it's like street fair style, but, like, you also, like, you know, spend time, like, you know, reveling in, like, the awesomeness of the thing with whoever caught the thing. So, you know, pick a cool thing that you're gonna eat for dinner."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1119",
+              "endUid": "u1120",
+              "quote": "DM: So as, as, you all kind of, you know, calm down from the end of the performance, and the scene shifts now into the post-opening ceremony, into now the dragonet actual games. And this is very much kind of like a Burning Man sort of vibe, where there's, you know, a bunch of things happening in different spaces across the temple grounds."
+            },
+            {
+              "startUid": "u1406",
+              "endUid": "u1406",
+              "quote": "DM: There's The Great Find, which is where, you know, people just bring, like, all kinds of crazy fucking awesome objects and, like, share them with each other to look at. There's The Great Feast, where, like, people bring, like, really fucking crazy awesome food to, like, show off and also eat."
+            },
+            {
+              "startUid": "u1418",
+              "endUid": "u1418",
+              "quote": "DM: How about this? How about this? You guys go to, the, to go get food, and each of you, you spend some time there, finding, like, some interesting things, you know, obviously hanging out with other dragonets, but then you go…"
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Temple overlook",
+      "kind": "overlook",
+      "evidence": [
+        {
+          "startUid": "u1421",
+          "endUid": "u1423",
+          "quote": "DM: And then you guys all then, like, head up, you know, to kind of a part of the temple grounds where you can sit up above and kind of look down at everything. So this is the view, basically. You’re kind of looking up at above, like, down at the whole temple grounds, but you finally have a little bit of space, you know, a little bit of… away from the cacophony to have a little moment for just the four of you to hang. So, so what are, what are each of you, eating in this, in this moment?"
+        },
+        {
+          "startUid": "u1430",
+          "endUid": "u1433",
+          "quote": "Heska: And flies back up, and as everybody kind of drifts up to this overlook after getting food, or watching the acrobatics, or what everybody else is doing, Heska’s got, like, two trout grilling over a fire, and he’s just, like, you know, picking… picking through them, eating the fish, like, you know… claws and teeth, you know, ripping the flesh out and… sitting, kind of, maybe with his back to the festival until… everybody starts to show up."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1421",
+              "endUid": "u1423",
+              "quote": "DM: And then you guys all then, like, head up, you know, to kind of a part of the temple grounds where you can sit up above and kind of look down at everything. So this is the view, basically. You’re kind of looking up at above, like, down at the whole temple grounds, but you finally have a little bit of space, you know, a little bit of… away from the cacophony to have a little moment for just the four of you to hang. So, so what are, what are each of you, eating in this, in this moment?"
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Forest river used for trout fishing",
+      "kind": "river",
+      "evidence": [
+        {
+          "startUid": "u1426",
+          "endUid": "u1429",
+          "quote": "Heska: So, so Heska has left the festival a little bit earlier than everybody else, and the Jubilee, and flown up here, just on the way, like, dipping through… dipping down into the forest where, you know, where he… flies around a little, and there’s, you know, there’s these rivers that run down from the top of the mountain. Dips down and catches a few trout. Something simple, something that he reliably knows that he can always catch."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1426",
+              "endUid": "u1429",
+              "quote": "Heska: So, so Heska has left the festival a little bit earlier than everybody else, and the Jubilee, and flown up here, just on the way, like, dipping through… dipping down into the forest where, you know, where he… flies around a little, and there’s, you know, there’s these rivers that run down from the top of the mountain. Dips down and catches a few trout. Something simple, something that he reliably knows that he can always catch."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Air above the temple grounds",
+      "kind": "airspace",
+      "evidence": [
+        {
+          "startUid": "u1606",
+          "endUid": "u1607",
+          "quote": "Heska: I'm trying to get high up so I can, like, try and see if there's anything else in the sky, or like… see this… spot this thing again, or just, like, try and get a sense of… what’s going on?"
+        },
+        {
+          "startUid": "u1661",
+          "endUid": "u1662",
+          "quote": "DM: From where you are now, like, flying there directly would be, like, you know, 10 minutes or so, you know? How fast do dragonets fly? 10-15 minute flight, like, you're… because you're closer to the center of the island right now, but if you, like, flat… if you flew, like, full speed, you could… you could fly across and, like…"
+        },
+        {
+          "startUid": "u1684",
+          "endUid": "u1689",
+          "quote": "Sculpit: 'Kay, that… We look around, like, is there… is there anything up here?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1661",
+              "endUid": "u1662",
+              "quote": "DM: From where you are now, like, flying there directly would be, like, you know, 10 minutes or so, you know? How fast do dragonets fly? 10-15 minute flight, like, you're… because you're closer to the center of the island right now, but if you, like, flat… if you flew, like, full speed, you could… you could fly across and, like…"
+            },
+            {
+              "startUid": "u1684",
+              "endUid": "u1689",
+              "quote": "Sculpit: 'Kay, that… We look around, like, is there… is there anything up here?"
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Ground beneath the burning night sky",
+      "kind": "vision setting",
+      "evidence": [
+        {
+          "startUid": "u1999",
+          "endUid": "u2006",
+          "quote": "DM: And you’re starting to see now, stretched out, this night sky with the skies on fire. And it's burning. Raging fire. Deep, deep, dark fire. There’s still a few points of light in the sky, but you can see them slowly going out, one by one, by one, as you watch."
+        },
+        {
+          "startUid": "u2007",
+          "endUid": "u2021",
+          "quote": "DM: And as you get closer, you realize that there's a figure on the ground. Lying on the ground. And as you get closer and closer, collectively, all of you kind of getting closer to this scene, you realize that, lying on the ground, there’s a dragonet there. And the dragonet is… broken, is… wounded severely. And it's a… it's a purple dragonet. It's an older one. You’ve never seen this one before, huh? But it’s got some, you know, silvery fur, and it’s got some… amethyst-looking skin and scales. But one of its wings is folded back on itself, broken. And it’s lying in a pool of blood, deep, deep, dark blood."
+        }
+      ],
+      "note": "Its location and date are unknown; the PCs experience it in the shared vision."
+    },
+    "p17": {
+      "label": "Sea outside the island’s storm",
+      "kind": "sea",
+      "evidence": [
+        {
+          "startUid": "u2057",
+          "endUid": "u2059",
+          "quote": "DM: And then… you come out. And you see, before you, this sea, this vast, vast sea in this night sky. And you’re hurtling towards that sea, over the sea, and then you see a storm in the distance, this weird, like, vertical storm that’s just, like, hovering."
+        }
+      ],
+      "note": "Seen only within the shared vision’s return trajectory; no external geographical identification is imported."
+    },
+    "p18": {
+      "label": "Storm surrounding the island",
+      "kind": "storm",
+      "evidence": [
+        {
+          "startUid": "u0088",
+          "endUid": "u0092",
+          "quote": "DM: Schwartz, just as a side note, the one other place that you also find that the voices in your head stop is if you fly out over the ocean and you get close to the storm that surrounds the island. But… who goes and flies out there on the regular? But you've noticed… yeah."
+        },
+        {
+          "startUid": "u2060",
+          "endUid": "u2063",
+          "quote": "DM: And then you crash into the storm. It's silent inside the storm. And then finally, you get closer and see these 8 statues and the Wanderer's Palm. And you land, and you crash into that statue."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "surrounds",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0088",
+              "endUid": "u0092",
+              "quote": "DM: Schwartz, just as a side note, the one other place that you also find that the voices in your head stop is if you fly out over the ocean and you get close to the storm that surrounds the island. But… who goes and flies out there on the regular? But you've noticed… yeah."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0034",
+        "endUid": "u0043"
+      },
+      "actors": [
+        "Little Tony",
+        "Sculpit"
+      ],
+      "reading": "Little Tony and Sculpit begin together on the Wanderer’s palm.",
+      "evidence": [
+        {
+          "startUid": "u0034",
+          "endUid": "u0043",
+          "quote": "DM: But before we bring into that, I'd like to bring us into the four characters, the four dragonets that are gonna be the heroes and the main characters of our story here: Heska, and Little Tony, and Sculpit, and Zeno. And I'd like to first bring us into one of the very, very special places certainly for Little Tony and Sculpit. And for Little Tony and Sculpit, one of the most important places to the both of them is a very, very special part of the Wanderer statue. And up high, high above the clouds, the Wanderer's hand and palm is reached out, out into the horizon. A symbol for adventure, for journeying, for welcoming the unknown."
+        },
+        {
+          "startUid": "u0084",
+          "endUid": "u0087",
+          "quote": "Little Tony: And he's up in the hand, because this is one of the very, very few places, I think this is the only place he's found on the island, where nothing talks to him. Like, even though there's, like, trees and plants and moss and rocks and things, like, they're all just quiet, and sometimes he needs to just get away from all of the issues. So it's good to be up here."
+        },
+        {
+          "startUid": "u0100",
+          "endUid": "u0102",
+          "quote": "Sculpit: So Sculpit's up in the… in the hand listening, which is… welcoming Little Tony into this place is not something that happens in one day. Sculpit is…"
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0140",
+        "endUid": "u0141"
+      },
+      "actors": [
+        "Heska",
+        "Zeno"
+      ],
+      "reading": "The focus shifts to Heska and Zeno in the Dark Lady neighborhood.",
+      "evidence": [
+        {
+          "startUid": "u0140",
+          "endUid": "u0141",
+          "quote": "DM: Beautiful, y'all. Well, and so, we'll come back to the palm in a moment, but now, we're gonna shift scenes and go to… the neighborhood and the community of the Dark Lady."
+        },
+        {
+          "startUid": "u0143",
+          "endUid": "u0150",
+          "quote": "DM: And so, the Dark Lady. Again, each, each dragonet community, different, diverse, connected to their own… their own statues. Much of the… of the neighborhoods built in the cracks of the robes, and is the home of… of Heska and Zeno, who also are friends and have known each other for quite some time. And Zeno and Heska, please introduce yourselves and your relationship."
+        }
+      ],
+      "place": "p04"
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0252",
+        "endUid": "u0256"
+      },
+      "actors": [
+        "Little Tony",
+        "Sculpit"
+      ],
+      "reading": "Little Tony and Sculpit prepare with Xena in the Great Temple’s green-room cabana.",
+      "evidence": [
+        {
+          "startUid": "u0252",
+          "endUid": "u0256",
+          "quote": "DM: And so… as we bring ourselves into the morning of the festival, let’s see here… As we bring ourselves into the morning of the festival, and the festival itself takes place in the temple that’s located at the center of the island. Pilgrimage roads lead from the center all the way out to each of the large eight statues: Brightface, you know, the Wildling, or the Wanderer and beyond. But this morning, what happens is Xena, who is the star of the show, she is in a panic. And there’s basically, in the main temple area, there’s kind of, like, a green room area set over on a side, which is a large cabana area. And this is sort of the dry rehearsal period, where everybody that's gonna be doing some kind of performance, you know, the various musicians are, like, have their instruments out, they're all doing their sound checks, everybody's just kind of trying to get ready in advance before everybody shows up. Obviously, this image has got everybody here, but imagine it, you know, like, this is before it all happens."
+        },
+        {
+          "startUid": "u0257",
+          "endUid": "u0261",
+          "quote": "DM: And so, we start this scene with, with Sculpit and Xena, but also with, with Little Tony, who Sculpit has brought by, as a part of this preparation. And Xena is lovely. Xena is such a talent— an incredible flyer and acrobat, that’s part of why she’s so famous, but also an incredible vocalist, which is a very, very rare combination. Often in these dragonet parties and these dragonet sing-offs and these competitions that happen, usually, it’s around one skill, and Xena is a particular talent because she can both… has this incredible body control and dexterity and physical performance, but also can sing."
+        }
+      ],
+      "place": "p06"
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u0265",
+        "endUid": "u0269"
+      },
+      "actors": [
+        "Heska",
+        "Zeno"
+      ],
+      "reading": "Heska and Zeno wait in a nearby festival tent.",
+      "evidence": [
+        {
+          "startUid": "u0265",
+          "endUid": "u0266",
+          "quote": "DM: But, Heska, you and Zeno are also here as a part of this, this opening ceremony prep part. You know, a lot of the dragonets are just kind of, if you're curious, kind of coming and hanging out. But frankly, a lot of the dragonets are out preparing their own shit, right? Like, the great find is happening, so everybody's getting, you know, the coolest fucking random, you know, hunt that they've gotten, preparing it in the most beautiful way, for the great hunt. For the great find, all the strange objects are being arrayed and set up in the tents. So this is, like, just pre-party, like, major planning moment."
+        },
+        {
+          "startUid": "u0267",
+          "endUid": "u0269",
+          "quote": "DM: And, and so, so, Heska and Zeno, you both are nearby, in a nearby tent, just, just hanging out, checking things out, but we start with, with Sculpit and with Little Tony, and Xena walks up to both of you, and… Xena is, like… she, as a dragonet, has got, like, just ripped arms, and, like, her wings are super, super just svelte, and she’s got this amazing, just, energy about her, but has this huge pot belly. She just has, like, this weird aerodynamic, like, you know, she’s got this, like, pot belly, which is tattooed and decorated with jewels, and is bedazzled. But she’s also, like…"
+        },
+        {
+          "startUid": "u0434",
+          "endUid": "u0438",
+          "quote": "Heska: Heska has been sitting in the tent that… that him and Zeno were talking on, and he’s… he's… he's, like, just fiddling with some… I don't know, a pair of dice or something, just kind of, like… you know, tossing them around in his hand, doing little dice tricks and things like that. Not really paying too much attention to the, to, to the conversation, but when, Xena, is that her name? Xena shouts, “Heska!” He, like, looks over quickly, sees who’s shouting his name, and then, like, drops the dice awkwardly, and ducks behind the bench."
+        }
+      ],
+      "place": "p07"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0301",
+        "endUid": "u0303"
+      },
+      "actors": [
+        "Zeno"
+      ],
+      "reading": "Xena calls Zeno over from the nearby tent to speak in the rehearsal cabana.",
+      "evidence": [
+        {
+          "startUid": "u0301",
+          "endUid": "u0301",
+          "quote": "DM: Let's talk about the costume, you two figure this out. Zeno, come over here."
+        },
+        {
+          "startUid": "u0302",
+          "endUid": "u0303",
+          "quote": "Zeno: Zeno’s little… little wings perk up. He spins around, says, “Oh, hello, little sister, you’re all… all ready, aren’t you? All ready for the show?”"
+        }
+      ],
+      "from": "p07",
+      "to": "p06",
+      "completion": "arrived"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0442",
+        "endUid": "u0454"
+      },
+      "actors": [
+        "Zeno",
+        "Sculpit"
+      ],
+      "reading": "Zeno and Sculpit go over to Heska, leaving Xena and Little Tony in the rehearsal area.",
+      "evidence": [
+        {
+          "startUid": "u0442",
+          "endUid": "u0443",
+          "quote": "Zeno: And Zeno strolls over. Yeah, yeah, let's…"
+        },
+        {
+          "startUid": "u0450",
+          "endUid": "u0450",
+          "quote": "Sculpit: I'll be back. Just, just stay here."
+        },
+        {
+          "startUid": "u0454",
+          "endUid": "u0454",
+          "quote": "Sculpit: Right? Sculpit also follows."
+        },
+        {
+          "startUid": "u0459",
+          "endUid": "u0459",
+          "quote": "Heska: Why is she shouting my name?"
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0519",
+        "endUid": "u0568"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The four PCs leave the crowded tents and reach a quiet practice spot; Little Tony’s departure is explicitly clarified.",
+      "evidence": [
+        {
+          "startUid": "u0519",
+          "endUid": "u0522",
+          "quote": "Sculpit: There we go. Yeah, he starts… he starts muttering. Give me… give me a few minutes here. Yeah, let's… let's… let’s… let’s go somewhere where it’s a little less crowded. Right? Like, there's a few people around here, like, like, will you come with me for a minute?"
+        },
+        {
+          "startUid": "u0530",
+          "endUid": "u0530",
+          "quote": "Sculpit: We… as we're walking."
+        },
+        {
+          "startUid": "u0531",
+          "endUid": "u0533",
+          "quote": "Heska: Zeno, you're coming, yeah? Don't leave me with them by myself."
+        },
+        {
+          "startUid": "u0534",
+          "endUid": "u0537",
+          "quote": "DM: So, right now, right now, Xena, Xena is just with, with Little Tony."
+        },
+        {
+          "startUid": "u0559",
+          "endUid": "u0568",
+          "quote": "Sculpit: As you're… as we're walking, or flying, or whatever, Sculpit’s kind of muttering and kind of waving his hands a little bit. And… I, you know, he, he… about a few minutes, we get somewhere a little bit more quiet, right? And he takes… color… something out of a little pouch or something, and hands it to, apparently, the thin air, where there's now… he’s cast some sort of spell… and sends, it says, “Here, show me, chase that!” And some invisible creature holding a little ball, or… you know, cloth or something, some red thing, starts running off the other direction."
+        },
+        {
+          "startUid": "u0622",
+          "endUid": "u0622",
+          "quote": "Little Tony: Elbows Zeno in the ribs, like, “I told you my boy can cook!”"
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk or fly",
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Narrated completed movement."
+      }
+    },
+    {
+      "id": "l08",
+      "type": "presence",
+      "source": {
+        "startUid": "u0695",
+        "endUid": "u0709"
+      },
+      "actors": [
+        "Heska",
+        "Sculpit"
+      ],
+      "reading": "Heska and Sculpit stay with Xena to rehearse while Little Tony and Zeno obtain costume jewelry.",
+      "evidence": [
+        {
+          "startUid": "u0695",
+          "endUid": "u0695",
+          "quote": "DM: I have an idea, I have an idea. Heska, you stay with me, because you should just be by me all the time. Sculpit, you stay by me too, because the three of us gotta work on this a little bit. You two go and get the things. And she's looking at Zeno, like, my brother, like, you make sure that this… okay?"
+        },
+        {
+          "startUid": "u0708",
+          "endUid": "u0709",
+          "quote": "DM: So, we end this scene with, with Heska and Sculpit and Xena staying behind to actually work on some of this choreography and just, you know, the flight patterns, when they’re gonna go up, how it’s gonna align with the music. Sculpit is in the zone now. Sculpit is, like, feeling the… he’s like, “Okay,” now that he’s seen Heska do his thing, this whole thing with the whip and the things coming down, like, in Sculpit’s mind, he’s like, “Oh yeah, this is… this is gonna hit. Everybody’s gonna love this.”"
+        }
+      ],
+      "place": "p08"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0721",
+        "endUid": "u0728"
+      },
+      "actors": [
+        "Little Tony",
+        "Zeno"
+      ],
+      "reading": "Little Tony and Zeno fly to Zare’s festival station and are greeted there.",
+      "evidence": [
+        {
+          "startUid": "u0721",
+          "endUid": "u0723",
+          "quote": "Zeno: We're gonna go see what happens. And so we fly over to the… now, where’s the tailor work out of? Just, like, under a tree? We'll do that."
+        },
+        {
+          "startUid": "u0726",
+          "endUid": "u0726",
+          "quote": "DM: Yeah, there’s a… you know where he is, you know where he is. And Zare? Zare, like, you know, he’s known, he’s known you for quite some time, but he’s getting his whole tailor set up, and you know, again, it’s a whole hustle and bustle, but he sees… he sees the two of you fly over, and he’s like, “Zeno, what’s up?”"
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u0845",
+        "endUid": "u0852"
+      },
+      "actors": [
+        "Little Tony",
+        "Zeno"
+      ],
+      "reading": "Little Tony and Zeno return with the traded jewelry and Xena begins her final preparations.",
+      "evidence": [
+        {
+          "startUid": "u0845",
+          "endUid": "u0848",
+          "quote": "DM: And so, Little Tony, you work with, Zeno, and with your incredible communication and connection with, the various artifacts that are part of, Zare's collection, find five immaculate pieces. And Zare actually, in the end, is so grateful, he throws in a couple extra. So, you have… in a legitimate, objective way, at least as verified by Zeno and his taste, a fucking sick set of really cool jewelry. Like, kind of a belly, a belly, bracelet, like a piercing, like, you've got a really cool collection that you are now able to bring back over to, to Zeno and Heska and to Xena. And so, you do so…"
+        },
+        {
+          "startUid": "u0849",
+          "endUid": "u0852",
+          "quote": "Xena is super, super ecstatic, and is happy, and prepares for… begins to get the preparations going"
+        }
+      ],
+      "from": "p09",
+      "to": "p08",
+      "completion": "arrived"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u0853",
+        "endUid": "u0862"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "All four settle with their respective communities for the opening ceremony; they are near the circle’s front.",
+      "evidence": [
+        {
+          "startUid": "u0853",
+          "endUid": "u0854",
+          "quote": "DM: And… as you all, settle down with your, communities, and I'm guessing, Little Tony and Sculpit, y'all are also part of the Wanderer community, I'm guessing, yeah? Even though this is a… you can… yeah. Does that work?"
+        },
+        {
+          "startUid": "u0855",
+          "endUid": "u0855",
+          "quote": "Sculpit: Yep."
+        },
+        {
+          "startUid": "u0856",
+          "endUid": "u0860",
+          "quote": "DM: So, you all sit with your respective communities and, wait for the opening ceremony to begin. And the opening ceremony for the dragonets is indeed an important one. The open… the opening ceremony is… one of the very, very few times in dragonet culture where there is actual solemnity. And a big part of that is, number one, the appearance of the elders. So, each one of the eight great dragonet communities, they yearly will find one elder to come and represent, themselves, and represent their community as a part of the eight-fold ceremony."
+        },
+        {
+          "startUid": "u0908",
+          "endUid": "u0912",
+          "quote": "DM: And so, the four of you are… very close to the front of the circle, you know, connected to your communities. But Sculpit, in particular, you know it's showtime. And so… Xena is positioned where she's… needs to be, and she gives you a glance, and what do you do?"
+        }
+      ],
+      "from": null,
+      "to": "p10",
+      "completion": "arrived"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1119",
+        "endUid": "u1144"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The four walk around the temple festival and come to Roska and his crew’s call-and-response space.",
+      "evidence": [
+        {
+          "startUid": "u1119",
+          "endUid": "u1120",
+          "quote": "DM: So as, as, you all kind of, you know, calm down from the end of the performance, and the scene shifts now into the post-opening ceremony, into now the dragonet actual games. And this is very much kind of like a Burning Man sort of vibe, where there's, you know, a bunch of things happening in different spaces across the temple grounds."
+        },
+        {
+          "startUid": "u1142",
+          "endUid": "u1144",
+          "quote": "DM: Zeno, Roska is one that you've been eyeing and kind of thinking about and preparing for, because you know that this was something that was likely to happen. And you see the four of you as you're kind of walking around and, you know, checking out various things. This is one of the first things that you come across, is Roska and his crew. Zeno, what do you do?"
+        },
+        {
+          "startUid": "u1191",
+          "endUid": "u1192",
+          "quote": "DM: You should do. So basically, you know, part of what happens now is there's, like, a circle that's forming around you all. And, you know, Heska, Sculpit, Little Tony, y'all are in the circle."
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1418",
+        "endUid": "u1423"
+      },
+      "actors": [
+        "Little Tony",
+        "Zeno",
+        "Sculpit"
+      ],
+      "reading": "Little Tony, Zeno and Sculpit collect food at the Great Feast and reach the temple overlook.",
+      "evidence": [
+        {
+          "startUid": "u1418",
+          "endUid": "u1418",
+          "quote": "DM: How about this? How about this? You guys go to, the, to go get food, and each of you, you spend some time there, finding, like, some interesting things, you know, obviously hanging out with other dragonets, but then you go…"
+        },
+        {
+          "startUid": "u1420",
+          "endUid": "u1420",
+          "quote": "DM: And in a moment, describe what you get, because it's sort of like, you know, it's like street fair style, but, like, you also, like, you know, spend time, like, you know, reveling in, like, the awesomeness of the thing with whoever caught the thing. So, you know, pick a cool thing that you're gonna eat for dinner."
+        },
+        {
+          "startUid": "u1421",
+          "endUid": "u1423",
+          "quote": "DM: And then you guys all then, like, head up, you know, to kind of a part of the temple grounds where you can sit up above and kind of look down at everything. So this is the view, basically. You’re kind of looking up at above, like, down at the whole temple grounds, but you finally have a little bit of space, you know, a little bit of… away from the cacophony to have a little moment for just the four of you to hang. So, so what are, what are each of you, eating in this, in this moment?"
+        },
+        {
+          "startUid": "u1454",
+          "endUid": "u1454",
+          "quote": "Little Tony: Little Tony is super psyched, because he’s eating lobsters, and the thing is, Little Tony never catches and eats lobsters, because lobsters all talk to each other. And if you eat one lobster, like, every other lobster is, like…"
+        },
+        {
+          "startUid": "u1460",
+          "endUid": "u1469",
+          "quote": "Sculpit: Sculpit has somehow ended up with, like, a… He doesn't usually, like, work with people in the… like, he's not usually… he's not really a foodie in any sense, but, like… he, like, knows somebody who, like, worked with, like, and so he ends up, like, talking for a while to one of the, like… fancy hunters who has made this, like, weird seafood delicacy."
+        },
+        {
+          "startUid": "u1488",
+          "endUid": "u1493",
+          "quote": "Zeno: Oh, I was just working on, octofish crab puss concept. Well, it's like, what's the seafood turducken? And it turns out I am better at that than Claude. And it was giving me cooking tips, actually, like, “When are you thinking of preparing this?” There's a timing issue. Zeno is eating… just your basic working man’s fish meatballs on a stick, but he can put away a ton of them."
+        }
+      ],
+      "from": "p11",
+      "to": "p13",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p12",
+          "reading": "Briefly collect dinner at the Great Feast; Sculpit chats with a hunter while choosing his dish."
+        }
+      ],
+      "note": "Heska instead describes leaving earlier and catching his own trout; he is not included in the food-stall arrival."
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1426",
+        "endUid": "u1433"
+      },
+      "actors": [
+        "Heska"
+      ],
+      "reading": "Heska retrospectively establishes his earlier departure, fishing in a forest river, and arrival at the overlook before the others.",
+      "evidence": [
+        {
+          "startUid": "u1426",
+          "endUid": "u1429",
+          "quote": "Heska: So, so Heska has left the festival a little bit earlier than everybody else, and the Jubilee, and flown up here, just on the way, like, dipping through… dipping down into the forest where, you know, where he… flies around a little, and there’s, you know, there’s these rivers that run down from the top of the mountain. Dips down and catches a few trout. Something simple, something that he reliably knows that he can always catch."
+        },
+        {
+          "startUid": "u1430",
+          "endUid": "u1433",
+          "quote": "Heska: And flies back up, and as everybody kind of drifts up to this overlook after getting food, or watching the acrobatics, or what everybody else is doing, Heska’s got, like, two trout grilling over a fire, and he’s just, like, you know, picking… picking through them, eating the fish, like, you know… claws and teeth, you know, ripping the flesh out and… sitting, kind of, maybe with his back to the festival until… everybody starts to show up."
+        }
+      ],
+      "context": "flashback",
+      "from": "p11",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "place": "p14",
+          "reading": "Dips into the forest river, catches a few trout, then flies up to the overlook."
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "presence",
+      "source": {
+        "startUid": "u1494",
+        "endUid": "u1495"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The four are together at the overlook, eating and talking when the strange effects begin.",
+      "evidence": [
+        {
+          "startUid": "u1421",
+          "endUid": "u1423",
+          "quote": "DM: And then you guys all then, like, head up, you know, to kind of a part of the temple grounds where you can sit up above and kind of look down at everything. So this is the view, basically. You’re kind of looking up at above, like, down at the whole temple grounds, but you finally have a little bit of space, you know, a little bit of… away from the cacophony to have a little moment for just the four of you to hang. So, so what are, what are each of you, eating in this, in this moment?"
+        },
+        {
+          "startUid": "u1430",
+          "endUid": "u1433",
+          "quote": "Heska: And flies back up, and as everybody kind of drifts up to this overlook after getting food, or watching the acrobatics, or what everybody else is doing, Heska’s got, like, two trout grilling over a fire, and he’s just, like, you know, picking… picking through them, eating the fish, like, you know… claws and teeth, you know, ripping the flesh out and… sitting, kind of, maybe with his back to the festival until… everybody starts to show up."
+        },
+        {
+          "startUid": "u1494",
+          "endUid": "u1495",
+          "quote": "DM: And as you're all, kind of sitting up and eating and… you know. Is there, is there anything, any other conversation you want to have with each other? Any, any other, any other, either shout-outs to Roska or, you know, love to Heska from, from the day? Anybody wants to share?"
+        },
+        {
+          "startUid": "u1514",
+          "endUid": "u1524",
+          "quote": "Little Tony: Little Tony looks up at the sky, at a cloud overhead and says, like, “Listen, buddy, this is not the time. Like, this is a beautiful moment of calm and peace. Just, like, keep going.” He’s, like, trying to wave this cloud onwards."
+        }
+      ],
+      "place": "p13"
+    },
+    {
+      "id": "l16",
+      "type": "observation",
+      "source": {
+        "startUid": "u1563",
+        "endUid": "u1567"
+      },
+      "actors": [
+        "Sculpit"
+      ],
+      "reading": "Sculpit checks toward the Wanderer from near the overlook; nothing unusual is visible there yet.",
+      "evidence": [
+        {
+          "startUid": "u1557",
+          "endUid": "u1562",
+          "quote": "DM: Sculpit, you reappear, like, about 20 feet away from the group."
+        },
+        {
+          "startUid": "u1563",
+          "endUid": "u1567",
+          "quote": "Sculpit: I walk over that direction, is anything happening over there? Does anything look unusual?"
+        }
+      ],
+      "place": "p02",
+      "mode": "local",
+      "observerPlace": "p13"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u1582",
+        "endUid": "u1689"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The PCs leave the overlook, fly above the temple and regroup in the air while comparing the signals.",
+      "evidence": [
+        {
+          "startUid": "u1582",
+          "endUid": "u1584",
+          "quote": "Heska: I’m gonna… fly up… try and chase it. I’ll tell every… I’ll say to… to… Zeno, and to the crew, “Something’s flying up there that I’m gonna fly after it.”"
+        },
+        {
+          "startUid": "u1585",
+          "endUid": "u1586",
+          "quote": "Little Tony: Yeah, I immediately hop up and bolt as quick as I can. Like, I am profoundly spooked by what is going on."
+        },
+        {
+          "startUid": "u1603",
+          "endUid": "u1603",
+          "quote": "Zeno: I'm following, I'm flying."
+        },
+        {
+          "startUid": "u1673",
+          "endUid": "u1673",
+          "quote": "Little Tony: Little Tony will call out, “Guys, come on up, huddle up, huddle up, we gotta figure this out, we gotta figure this out,” and he’ll sort of pause and hover in the air in one spot."
+        },
+        {
+          "startUid": "u1686",
+          "endUid": "u1686",
+          "quote": "DM: Right now, you're just hovering kind of, like, up above the…"
+        },
+        {
+          "startUid": "u1687",
+          "endUid": "u1687",
+          "quote": "Sculpit: I'm gonna go up above them and just, like, look around, like, did anything… Do I… do I…"
+        }
+      ],
+      "from": "p13",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u1710",
+        "endUid": "u1780"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The four fly from the temple toward the Wanderer, approach its glowing palm, and land beside the egg.",
+      "evidence": [
+        {
+          "startUid": "u1710",
+          "endUid": "u1713",
+          "quote": "DM: So, okay. So, you all bolt off. You take off. Leaving the noise and the cacophony of the festival behind you as you start flying as quickly as you can, towards the Wanderer statue."
+        },
+        {
+          "startUid": "u1714",
+          "endUid": "u1718",
+          "quote": "DM: And… as you fly, and get closer and closer, and it’s a, you know, it’s a reasonably clear night, you notice as you’re getting closer to the statue, and, you know, you’re kind of triangulating now, you’re getting a feel for, like, “Okay, it’s getting, you know, kind of stronger and, you know, kind of louder and or…” like, louder and more silent simultaneously for both of you, like, as you’re getting closer to the statue."
+        },
+        {
+          "startUid": "u1751",
+          "endUid": "u1757",
+          "quote": "Zeno: I wanna, like, buzz over it at a meet… at, like, a moderate speed."
+        },
+        {
+          "startUid": "u1776",
+          "endUid": "u1780",
+          "quote": "DM: Okay. As you land on the palm, you’re looking at what looks like a huge egg. It's, it's like a… it's like a giant, like, yeah. It looks like, like, you know, again, the palm is dark, the whole area around here, you know, you're up super, super high up, and it's dark and windy. But the egg, it's like a larger oval, and there's these engravings in it as well, but everything is still, like, dark right now. Like, it's no longer lit, like what you saw from before, but it looks like there are these different etchings that are forming these, like, really interesting patterns, like, all around the outside of this egg. But it's silent."
+        },
+        {
+          "startUid": "u1819",
+          "endUid": "u1820",
+          "quote": "DM: Yeah, as you’re looking at these etchings, because you kind of get up close to it, and by the way, too, when you touch the egg… or do you touch it, or do you just kind of look?"
+        }
+      ],
+      "from": "p15",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "fly",
+      "note": "The preceding 10–15-minute estimate is revised to roughly an hour at u1659–u1672. No actual travel duration is independently narrated."
+    },
+    {
+      "id": "l19",
+      "type": "observation",
+      "source": {
+        "startUid": "u1988",
+        "endUid": "u2028"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "In the shared vision the party sees a dying purple dragonet beneath a burning sky, then experiences being that dragonet.",
+      "evidence": [
+        {
+          "startUid": "u1988",
+          "endUid": "u1990",
+          "quote": "DM: And… where once you were sitting on the palm of the Wanderer holding an egg, you’re no longer sitting… on the Wanderer, and holding the palm of an egg. You're someplace else now."
+        },
+        {
+          "startUid": "u1999",
+          "endUid": "u2006",
+          "quote": "DM: And you’re starting to see now, stretched out, this night sky with the skies on fire. And it's burning. Raging fire. Deep, deep, dark fire. There’s still a few points of light in the sky, but you can see them slowly going out, one by one, by one, as you watch."
+        },
+        {
+          "startUid": "u2007",
+          "endUid": "u2021",
+          "quote": "DM: And as you get closer, you realize that there's a figure on the ground. Lying on the ground. And as you get closer and closer, collectively, all of you kind of getting closer to this scene, you realize that, lying on the ground, there’s a dragonet there. And the dragonet is… broken, is… wounded severely. And it's a… it's a purple dragonet. It's an older one. You’ve never seen this one before, huh? But it’s got some, you know, silvery fur, and it’s got some… amethyst-looking skin and scales. But one of its wings is folded back on itself, broken. And it’s lying in a pool of blood, deep, deep, dark blood."
+        },
+        {
+          "startUid": "u2022",
+          "endUid": "u2028",
+          "quote": "DM: And as you get closer to this dragonet, you realize it’s dying. And not only is it dying, it’s, like, gonna die very, very soon, that these are his last breaths. And as you get closer now, you’re now inside the dragonet. You're… you are the dragonet, and you are dying. And you're experiencing the last gasps and breaths."
+        }
+      ],
+      "context": "vision",
+      "place": "p16",
+      "mode": "vision",
+      "observerPlace": "p03"
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u2052",
+        "endUid": "u2063"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The shared visionary consciousness travels through impossible geometry, over a sea and through the island’s storm, then crashes into the Wanderer’s palm.",
+      "evidence": [
+        {
+          "startUid": "u2052",
+          "endUid": "u2056",
+          "quote": "DM: And… as… you get closer to the island. Now you're traveling there. You actually feel that you are flying through the air. And before… sorry, as you’re experiencing these images of home, you travel through a space of just… unimaginable… geometry, and it's… you can't even talk about it as, like, a physical place. But just light, energy, patterns… you feel an incredible force as you're moving through this."
+        },
+        {
+          "startUid": "u2057",
+          "endUid": "u2059",
+          "quote": "DM: And then… you come out. And you see, before you, this sea, this vast, vast sea in this night sky. And you’re hurtling towards that sea, over the sea, and then you see a storm in the distance, this weird, like, vertical storm that’s just, like, hovering."
+        },
+        {
+          "startUid": "u2060",
+          "endUid": "u2063",
+          "quote": "DM: And then you crash into the storm. It's silent inside the storm. And then finally, you get closer and see these 8 statues and the Wanderer's Palm. And you land, and you crash into that statue."
+        }
+      ],
+      "context": "vision",
+      "from": null,
+      "to": "p03",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Pass through a space described as light, energy and unimaginable geometry, not a physical place."
+        },
+        {
+          "place": "p17",
+          "reading": "Hurtle over the sea."
+        },
+        {
+          "place": "p18",
+          "reading": "Crash through the silent storm around the island."
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "type": "presence",
+      "source": {
+        "startUid": "u2064",
+        "endUid": "u2074"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The four awaken physically on the Wanderer’s palm beside the darkening egg.",
+      "evidence": [
+        {
+          "startUid": "u2064",
+          "endUid": "u2074",
+          "quote": "DM: And as you now… who were once four dragonets, and then one dragonet, and then… the light… you now merge back into… this space and into this egg. And the four of you… wake up. And you’re lying on the ground next to this dragon egg, or next to this glowing egg. And all of the lights from the egg, as you wake up from this set of visions, slowly start to fade and darken. And the egg itself goes dark. And as the egg goes dark, each of you starts to experience something different."
+        },
+        {
+          "startUid": "u2127",
+          "endUid": "u2133",
+          "quote": "DM: And as you lay there, contemplating… however each of you are contemplating, whatever this experience was, whatever that vision was, and whatever was coursing through your bodies, the camera kind of zooms out to the statue of the Wanderer… palm, and this now… darkened egg that has now settled down back onto the ground, and it’s just lifeless and inanimate."
+        }
+      ],
+      "place": "p03",
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "l18"
+        }
+      ]
+    }
+  ]
+}

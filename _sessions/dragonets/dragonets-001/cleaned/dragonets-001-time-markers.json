@@ -1,0 +1,300 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dragonets-001",
+    "sessionYaml": "_sessions/dragonets/dragonets-001/cleaned/dragonets-001-session.yaml",
+    "sessionYamlSha256": "6068525fceba05d6a9888e60b9d198c1839d433f32cdac49fbce14f7bb38731d",
+    "transcriptPath": "_sessions/dragonets/dragonets-001/cleaned/dragonets-001-transcript.md",
+    "transcriptSha256": "273771a9ea93effe06e614f7847747925a8895c37398e75764e97a90d316532a",
+    "yamlDates": {
+      "start": null,
+      "end": null
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0242",
+        "endUid": "u0244"
+      },
+      "reading": "The Jubilee preparation scene opens on the morning of the festival.",
+      "evidence": [
+        {
+          "startUid": "u0242",
+          "endUid": "u0244",
+          "quote": "DM: And that brings us now into, the great festival, the Jubilee, sometimes formally called, what is it formally called? Well, Jubilee is what it's most commonly known as, but the Eightfold Festival is often… some of the elders will also refer to it that way. And… we bring ourselves into the morning of the festival."
+        },
+        {
+          "startUid": "u0252",
+          "endUid": "u0256",
+          "quote": "As we bring ourselves into the morning of the festival"
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "exact",
+        "basis": "DM explicitly opens the current festival scene in the morning."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0559",
+        "endUid": "u0568"
+      },
+      "reading": "The four PCs reach a quieter practice spot after a few minutes of walking or flying.",
+      "evidence": [
+        {
+          "startUid": "u0559",
+          "endUid": "u0568",
+          "quote": "about a few minutes, we get somewhere a little bit more quiet"
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Sculpit narrates the completed move to the quiet practice spot."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0849",
+        "endUid": "u0852"
+      },
+      "reading": "Preparations finish close to sunset and the communities begin processing to the Great Temple.",
+      "evidence": [
+        {
+          "startUid": "u0849",
+          "endUid": "u0852",
+          "quote": "now, all of the dragonets, as the setup is now complete and everything is about ready to go, the procession is starting to begin"
+        },
+        {
+          "startUid": "u0849",
+          "endUid": "u0852",
+          "quote": "getting close to the sunset"
+        }
+      ],
+      "time": {
+        "partOfDay": "near sunset",
+        "precision": "approximate",
+        "basis": "DM places the completed preparations and start of the procession close to sunset."
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0878",
+        "endUid": "u0880"
+      },
+      "reading": "The elders perform the sunset opening ceremony before the aerial performances.",
+      "evidence": [
+        {
+          "startUid": "u0245",
+          "endUid": "u0248",
+          "quote": "a very important opening ceremony that occurs at sunset"
+        },
+        {
+          "startUid": "u0878",
+          "endUid": "u0880",
+          "quote": "DM: And so the elders come, and they start their procession. Eight objects are arrayed around the circle. And each one of the elders, again, representing their local community, adorned with the culture of their… of their, larger dragonet community, starts to make their way closer in towards the center of the… the eight-fold circle."
+        },
+        {
+          "startUid": "u0895",
+          "endUid": "u0901",
+          "quote": "DM: And this elder walks into the center of the circle with the, with their staff, arrays all of the objects, and, you know, solemnly points at each one, and then points over to each of the large statues that are surrounding the island, and says, “8 homes, 8 roads…” And then, you know, kind of looks at everybody, because everybody knows what the call and response answer is going to be. And then everybody lets out this huge yell of “One family.” And there's a big, big, just kind of cheer, and everybody's, like, you know, hugging each other, and, like, just so fucking stoked to be there, and to be with everyone in this moment of, celebration and unity for this very, very special island."
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "The DM specified sunset for this ceremony; the near-sunset transition and actual ritual support that approximate placement."
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1397",
+        "endUid": "u1397"
+      },
+      "reading": "After Zeno wins, play advances into nighttime and the friends gather for dinner.",
+      "evidence": [
+        {
+          "startUid": "u1397",
+          "endUid": "u1397",
+          "quote": "DM: Alright, so as, as we shift into, to nighttime, and hold on, let me just…"
+        },
+        {
+          "startUid": "u1399",
+          "endUid": "u1405",
+          "quote": "As we shift into, shift into nighttime"
+        },
+        {
+          "startUid": "u1407",
+          "endUid": "u1408",
+          "quote": "as we get towards, you know, kind of into the evening"
+        }
+      ],
+      "time": {
+        "partOfDay": "nighttime",
+        "precision": "approximate",
+        "basis": "DM explicitly shifts to nighttime, also describing it as evening; no numerical hour is established."
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1426",
+        "endUid": "u1429"
+      },
+      "reading": "Earlier that evening, Heska leaves the festival, catches trout, and reaches the overlook before the others.",
+      "evidence": [
+        {
+          "startUid": "u1426",
+          "endUid": "u1429",
+          "quote": "Heska has left the festival a little bit earlier than everybody else"
+        },
+        {
+          "startUid": "u1430",
+          "endUid": "u1433",
+          "quote": "Heska: And flies back up, and as everybody kind of drifts up to this overlook after getting food, or watching the acrobatics, or what everybody else is doing, Heska’s got, like, two trout grilling over a fire, and he’s just, like, you know, picking… picking through them, eating the fish, like, you know… claws and teeth, you know, ripping the flesh out and… sitting, kind of, maybe with his back to the festival until… everybody starts to show up."
+        }
+      ],
+      "actors": [
+        "Heska"
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "reference": "t05",
+          "anchor": "the companions assembling for dinner at the overlook"
+        },
+        "precision": "approximate",
+        "basis": "Heska inserts his earlier departure and fishing into the current dinner scene."
+      },
+      "completion": "completed",
+      "note": "The earlier departure is resolved retrospectively; it supplies neither a quantified duration nor a separate day."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1983",
+        "endUid": "u1990"
+      },
+      "reading": "The shared embrace shifts the party into a vision with a merged consciousness.",
+      "evidence": [
+        {
+          "startUid": "u1983",
+          "endUid": "u1987",
+          "quote": "DM: And as you touch it, and as it lights up, you feel also, in some weird way, that your consciousness is merging together. Like, you're hugging it as kind of, like, four distinct entities, but the longer you hug it, the more that it feels like you're actually just one entity. And as you transition into this feeling of, “Oh, shit. You know, we’re not four things, but we’re actually one thing,” your consciousness starts to fade and shift."
+        },
+        {
+          "startUid": "u1988",
+          "endUid": "u1990",
+          "quote": "DM: And… where once you were sitting on the palm of the Wanderer holding an egg, you’re no longer sitting… on the Wanderer, and holding the palm of an egg. You're someplace else now."
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1999",
+        "endUid": "u2006"
+      },
+      "reading": "The shared vision shows a burning night sky; this is a local vision clock, not an adventure-time advance.",
+      "evidence": [
+        {
+          "startUid": "u1999",
+          "endUid": "u2006",
+          "quote": "DM: And you’re starting to see now, stretched out, this night sky with the skies on fire. And it's burning. Raging fire. Deep, deep, dark fire. There’s still a few points of light in the sky, but you can see them slowly going out, one by one, by one, as you watch."
+        }
+      ],
+      "context": "vision",
+      "time": {
+        "partOfDay": "night",
+        "precision": "exact",
+        "basis": "Night sky is explicitly described inside the vision; its calendar and relationship to the festival are unknown."
+      }
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2064",
+        "endUid": "u2074"
+      },
+      "reading": "The four awaken beside the egg on the Wanderer’s palm, ending the shared vision.",
+      "evidence": [
+        {
+          "startUid": "u2064",
+          "endUid": "u2074",
+          "quote": "And the four of you… wake up. And you’re lying on the ground next to this dragon egg, or next to this glowing egg."
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t05",
+          "note": "Resumes the evening adventure after the vision; the vision’s elapsed adventure time is not stated."
+        }
+      ],
+      "note": "Waking from this vision does not establish sleep, a rest, or a calendar transition."
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2124",
+        "endUid": "u2126"
+      },
+      "reading": "The four experience heightened abilities for approximately a couple of minutes before the effects disappear.",
+      "evidence": [
+        {
+          "startUid": "u2124",
+          "endUid": "u2126",
+          "quote": "DM: And as all of you are experiencing these things in your bodies, in your systems, for maybe, like, you know, a couple of minutes, they disappear. And they're gone."
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM says the powers persist for maybe a couple of minutes."
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No fictional calendar date is spoken. The manifest currently stores drStart/drEnd as the legacy text unknown, rather than ISO dates; these supply no usable date. realWorldDate is recording metadata only.",
+    "expectedDateBoundaries": null,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t10"
+    ],
+    "explanation": "Morning preparations advance through the sunset ceremony into the evening investigation. The initial introductory scenes have no clock, and the vision has an independent undated night frame. No complete calendar-boundary total is established; forecasts, historical recollections, and real-world scheduling do not supply elapsed adventure time."
+  }
+}

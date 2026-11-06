@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dragonets-001",
+    "sessionYaml": "_sessions/dragonets/dragonets-001/cleaned/dragonets-001-session.yaml",
+    "sessionYamlSha256": "6068525fceba05d6a9888e60b9d198c1839d433f32cdac49fbce14f7bb38731d",
+    "transcriptPath": "_sessions/dragonets/dragonets-001/cleaned/dragonets-001-transcript.md",
+    "transcriptSha256": "273771a9ea93effe06e614f7847747925a8895c37398e75764e97a90d316532a"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0033"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0034",
+        "endUid": "u1083"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u1084",
+        "endUid": "u1096"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1097",
+        "endUid": "u1239"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1240",
+        "endUid": "u1380"
+      },
+      "category": "combat",
+      "note": "The nonlethal call-and-response contest enters initiative; initiative is explicitly rerolled for its second round. Roska concedes after two rounds."
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1381",
+        "endUid": "u1396"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1397",
+        "endUid": "u2138"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2139",
+        "endUid": "u2203"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
