@@ -1,0 +1,2087 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "7d3eda88c65caa7ffb24580c3b905654ad755d59646c8134c2c081c9f1fc9a27"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-entity-map.json",
+      "sha256": "0601985ed0432c45166e6f0df4fcd6e1985b3448e0ab9b7735687621dd9313fc"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Eudomes bound Hralgar",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0019",
+        "endUid": "u0024"
+      },
+      "lines": [
+        "%% u0019:0-73, u0020:0-22, u0021:0-53, u0022:0-84, u0023:0-67, u0024:0-127 %%",
+        "DM: Storm Caller Tower passed through many hands until it came to be the home of the wizard Eudomes. A man possessed with great power and skill and magic. He heard the winds and caught them, ensnaring the Storm Giant Hralgar in his spells. But Drankor fell, and the knowledge of Storm Caller Tower was lost. Though the giants are few now, almost never seen on the settled lowlands of Dunmar, the winds still still speak, and carry news."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: I know what I'm forgetting. There we go. Okay.",
+          "DM: Now, as we begin tonight on the plains of Dunmar, camped outside the massive storm gathered around the Storm Caller Tower.",
+          "DM: The winds blow across Dunmar, and the winds have long blown across the plains of what is now Dunmar, bringing news and tidings to those who know how to listen.",
+          "DM: In younger days, when the vast forests of the elves stretched across these lands, a tower stood here, perched on a cliff. The cliff was less weathered then, its former form as a skyship of the storm giants clearer. Then the winds brought news from across the vast kingdom of Alcarinquë. And for those who cared to hear it, even tidings of the humans on the distant island of Hkar. For many years after the fall of Hkar, and the winds blew still, though there was no one to hear them, until the people of Drankor spread across the land and discovered the magic of this place."
+        ],
+        "after": [
+          "DM: The north wind blows cold from the mountains to our travelers' camp near Storm Caller Tower. It speaks of the snow and winter that has already come to the passes, closing the roads to Sabara until spring. And whispers of the relief of a woman fleeing north leaving tracks in the snow that are not her own, hoping the early winter would deter any who would seek to hunt her down.",
+          "DM: The east wind blows dry and hot from the deserts, and wastelands untouched by the monsoons. It speaks of war, the long hard march, long hot march of many iron-booted feet of orcs and skeletons as they prepare for travel, a metallic tang in the air. The eagerness of these warriors for blood and glory.",
+          "DM: The south wind blows from the oceans, carrying the last of the rains to the plains of Dunmar. And yet within the life-giving monsoons is a seed of doubt, of suspicion, for the south wind blows from Daihar. From the savannahs of Western Dunmar, where the Samraat king broods over hags and fears of mind control and plots, and his sister.",
+          "DM: The west wind races from Chardon blowing swiftly across the open lands of Dunmar and the river valleys of Chardon. It's unsettled as it blows. It whispers past shadowy hunters hiding from sunlight, seeking and tracking their prey. Past shepherds sharpening their spears and riding to lend their arms to a righteous cause, past army camps, where the future of Dunmar hangs in the balance.",
+          "DM: And as the winds converge on Storm Caller Tower, joining the massive storm that grows and grows, you return to our adventurers as they contemplate their path forward, staring into the storm."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "The woman fleeing north",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0025",
+        "endUid": "u0029"
+      },
+      "lines": [
+        "%% u0025:0-92, u0026:0-111, u0027:0-52, u0028:0-48, u0029:0-72 %%",
+        "DM: The north wind blows cold from the mountains to our travelers' camp near Storm Caller Tower. It speaks of the snow and winter that has already come to the passes, closing the roads to Sabara until spring. And whispers of the relief of a woman fleeing north leaving tracks in the snow that are not her own, hoping the early winter would deter any who would seek to hunt her down."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: I know what I'm forgetting. There we go. Okay.",
+          "DM: Now, as we begin tonight on the plains of Dunmar, camped outside the massive storm gathered around the Storm Caller Tower.",
+          "DM: The winds blow across Dunmar, and the winds have long blown across the plains of what is now Dunmar, bringing news and tidings to those who know how to listen.",
+          "DM: In younger days, when the vast forests of the elves stretched across these lands, a tower stood here, perched on a cliff. The cliff was less weathered then, its former form as a skyship of the storm giants clearer. Then the winds brought news from across the vast kingdom of Alcarinquë. And for those who cared to hear it, even tidings of the humans on the distant island of Hkar. For many years after the fall of Hkar, and the winds blew still, though there was no one to hear them, until the people of Drankor spread across the land and discovered the magic of this place.",
+          "DM: Storm Caller Tower passed through many hands until it came to be the home of the wizard Eudomes. A man possessed with great power and skill and magic. He heard the winds and caught them, ensnaring the Storm Giant Hralgar in his spells. But Drankor fell, and the knowledge of Storm Caller Tower was lost. Though the giants are few now, almost never seen on the settled lowlands of Dunmar, the winds still still speak, and carry news."
+        ],
+        "after": [
+          "DM: The east wind blows dry and hot from the deserts, and wastelands untouched by the monsoons. It speaks of war, the long hard march, long hot march of many iron-booted feet of orcs and skeletons as they prepare for travel, a metallic tang in the air. The eagerness of these warriors for blood and glory.",
+          "DM: The south wind blows from the oceans, carrying the last of the rains to the plains of Dunmar. And yet within the life-giving monsoons is a seed of doubt, of suspicion, for the south wind blows from Daihar. From the savannahs of Western Dunmar, where the Samraat king broods over hags and fears of mind control and plots, and his sister.",
+          "DM: The west wind races from Chardon blowing swiftly across the open lands of Dunmar and the river valleys of Chardon. It's unsettled as it blows. It whispers past shadowy hunters hiding from sunlight, seeking and tracking their prey. Past shepherds sharpening their spears and riding to lend their arms to a righteous cause, past army camps, where the future of Dunmar hangs in the balance.",
+          "DM: And as the winds converge on Storm Caller Tower, joining the massive storm that grows and grows, you return to our adventurers as they contemplate their path forward, staring into the storm.",
+          "Seeker: Nice! What—in what way do we receive the news of the winds? Are they visions? Or in a metagamey sort of way. Well, that I understand. But did you—do you have a—the in-game? I I didn't, really. That's okay. Who are these shepherds? Check marching to war?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "The Samraat’s fears",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0034",
+        "endUid": "u0038"
+      },
+      "lines": [
+        "%% u0034:0-205, u0035:0-37, u0036:0-39, u0037:0-36, u0038:0-15 %%",
+        "DM: The south wind blows from the oceans, carrying the last of the rains to the plains of Dunmar. And yet within the life-giving monsoons is a seed of doubt, of suspicion, for the south wind blows from Daihar. From the savannahs of Western Dunmar, where the Samraat king broods over hags and fears of mind control and plots, and his sister."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: The winds blow across Dunmar, and the winds have long blown across the plains of what is now Dunmar, bringing news and tidings to those who know how to listen.",
+          "DM: In younger days, when the vast forests of the elves stretched across these lands, a tower stood here, perched on a cliff. The cliff was less weathered then, its former form as a skyship of the storm giants clearer. Then the winds brought news from across the vast kingdom of Alcarinquë. And for those who cared to hear it, even tidings of the humans on the distant island of Hkar. For many years after the fall of Hkar, and the winds blew still, though there was no one to hear them, until the people of Drankor spread across the land and discovered the magic of this place.",
+          "DM: Storm Caller Tower passed through many hands until it came to be the home of the wizard Eudomes. A man possessed with great power and skill and magic. He heard the winds and caught them, ensnaring the Storm Giant Hralgar in his spells. But Drankor fell, and the knowledge of Storm Caller Tower was lost. Though the giants are few now, almost never seen on the settled lowlands of Dunmar, the winds still still speak, and carry news.",
+          "DM: The north wind blows cold from the mountains to our travelers' camp near Storm Caller Tower. It speaks of the snow and winter that has already come to the passes, closing the roads to Sabara until spring. And whispers of the relief of a woman fleeing north leaving tracks in the snow that are not her own, hoping the early winter would deter any who would seek to hunt her down.",
+          "DM: The east wind blows dry and hot from the deserts, and wastelands untouched by the monsoons. It speaks of war, the long hard march, long hot march of many iron-booted feet of orcs and skeletons as they prepare for travel, a metallic tang in the air. The eagerness of these warriors for blood and glory."
+        ],
+        "after": [
+          "DM: The west wind races from Chardon blowing swiftly across the open lands of Dunmar and the river valleys of Chardon. It's unsettled as it blows. It whispers past shadowy hunters hiding from sunlight, seeking and tracking their prey. Past shepherds sharpening their spears and riding to lend their arms to a righteous cause, past army camps, where the future of Dunmar hangs in the balance.",
+          "DM: And as the winds converge on Storm Caller Tower, joining the massive storm that grows and grows, you return to our adventurers as they contemplate their path forward, staring into the storm.",
+          "Seeker: Nice! What—in what way do we receive the news of the winds? Are they visions? Or in a metagamey sort of way. Well, that I understand. But did you—do you have a—the in-game? I I didn't, really. That's okay. Who are these shepherds? Check marching to war?",
+          "DM: I mean, it's a dangerous.",
+          "Seeker: Oh, the the Dunmar conflict. Yeah. And who is the woman fleeing through the snow to the north?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Hralgar speaks through Kenzo and leads them into the storm",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0080",
+        "endUid": "u0214"
+      },
+      "lines": [
+        "%% u0080:0-2, u0081:0-9, u0082:0-75, u0083:0-22, u0084:0-26, u0085:0-3, u0086:0-17, u0087:0-29, u0088:0-34, u0089:0-5, u0090:0-15, u0091:0-15, u0092:0-17, u0093:0-7, u0094:0-25, u0095:0-9 %%",
+        "DM: As Kenzo has sort of turned to sort of meditate and try and commune with nature and feel what's happening here, you see his eyes go blank. And he sort of drops, losing concentration slightly, and turning his eyes, now flashing blue, to look at you. And speaks in a voice that is not his own, or not one you recognize. I see you.",
+        "",
+        "%% u0096:0-2, u0097:0-3, u0098:0-16, u0099:0-24 %%",
+        "Seeker: A—the—who speaks to us? Is that—is that Hralgar?",
+        "",
+        "%% u0100:0-22, u0101:0-22, u0102:0-21, u0103:0-12, u0104:0-1, u0105:0-8, u0106:0-101, u0107:0-12, u0108:0-34 %%",
+        "DM: The Kenzo turns around and holds his hands up in front of his face. And he says, “I see you.” And he blinks and his eyes flash, and there's like clouds and lightning passing in front of his eyes. And he turns and begins to walk into the storm.",
+        "",
+        "%% u0109:0-8, u0110:0-1, u0111:0-22, u0112:0-7, u0113:0-21, u0114:0-2, u0115:0-35, u0116:0-21, u0117:0-12, u0118:0-6, u0119:0-73, u0120:0-66, u0121:0-64, u0122:0-51, u0123:0-23, u0124:0-14 %%",
+        "((Preparing the eyes and animals; discussion of the possession))",
+        "",
+        "%% u0125:0-8, u0126:0-104, u0127:0-57, u0128:0-35 %%",
+        "Seeker: He's—he—perhaps he was surprised to see, because his eyes are missing and seeing through Kenzo's eyes was novel. Maybe we should tell him that we've got his eyes with us. Or how quickly can we get them out?",
+        "",
+        "%% u0129:0-32, u0130:0-261, u0131:0-18, u0132:0-5, u0133:0-6, u0134:0-213, u0135:0-1, u0136:0-110, u0137:0-28, u0138:0-98, u0139:0-39, u0140:0-78, u0141:0-50, u0142:0-8, u0143:0-5, u0144:0-25, u0145:0-69, u0146:0-3, u0147:0-18, u0148:0-3, u0149:0-11, u0150:0-187, u0151:0-204, u0152:0-50, u0153:0-103, u0154:0-28, u0155:0-57, u0156:0-30, u0157:0-132, u0158:0-13, u0159:0-145, u0160:0-27, u0161:0-31, u0162:0-25, u0163:0-74, u0164:0-57, u0165:0-47, u0166:0-66 %%",
+        "((Preparing the eyes and animals; discussion of the possession))",
+        "",
+        "%% u0167:0-8, u0168:0-5, u0169:0-65, u0170:0-48, u0171:0-47 %%",
+        "Seeker: Hralgar, we've, we've brought, we've we've found your eyes and brought them back. But but you'll need to help us get to your body, it's in the storm, and that's dangerous for us.",
+        "",
+        "%% u0172:0-35, u0173:0-32, u0174:0-248, u0175:0-10, u0176:0-14, u0177:0-19, u0178:0-12, u0179:0-37, u0180:0-67, u0181:0-46, u0182:0-198, u0183:0-56, u0184:0-89, u0185:0-17, u0186:0-33, u0187:0-52, u0188:0-10, u0189:0-49, u0190:0-19, u0191:0-39, u0192:0-63, u0193:0-24 %%",
+        "((Preparing the eyes and animals; discussion of the possession))",
+        "",
+        "%% u0194:0-15, u0195:0-51 %%",
+        "DM: And Delwath and Seeker are running towards Kenzo now with the eyes.",
+        "",
+        "%% u0196:0-31, u0197:0-21 %%",
+        "Seeker: Yeah, we've each got one. Okay. Why not? That is yes.",
+        "",
+        "%% u0198:0-6, u0199:0-14, u0200:0-3, u0201:0-13, u0202:0-14, u0203:0-38, u0204:0-12, u0205:0-30, u0206:0-35 %%",
+        "DM: Power. So Kenzo turns and looks at you, and a a smile, like a faint smile cracks on his lips. And he says, “What are you waiting for? Come!” And begins hurrying into the storm.",
+        "",
+        "%% u0207:0-5 %%",
+        "Unknown: Wait!",
+        "",
+        "%% u0208:0-9, u0209:0-80 %%",
+        "Seeker: Last time, the storm almost destroyed us. We'll need your help. Can you make it safe for us?",
+        "",
+        "%% u0210:0-23, u0211:0-95, u0212:0-94, u0213:0-29, u0214:0-26 %%",
+        "DM: Like holds up his hands, just like in—he is now like about a 100 feet from the storm, and there's a light mist falling. Holds up his hands, just enjoying the storm like running his hands hands through Kenzo's hair. It's—the weather's wonderful. And he begins to speed up."
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: My sister.",
+          "Seeker: So he still doesn't know what to make of the situation with sister, I guess.",
+          "DM: Yes.",
+          "Seeker: Let me—yeah. It was being controlled. By whom?",
+          "DM: So it's mid afternoon, although where you are is dark, as your— You know the sun is partially blocked by this giant storm in front of you. And you've spent the past, I don't know, hour or so, scouting and using magic to try and see what's in the storm."
+        ],
+        "after": [
+          "Seeker: So I'm just going to [garbled]. But.",
+          "DM: Matter.",
+          "Seeker: I look back at the others. So much for the plan.",
+          "Riswynn: Any of the plans?",
+          "Seeker: Was there a plan?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Baxter is trusted to guard the pony",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0178",
+        "endUid": "u0193"
+      },
+      "lines": [
+        "%% u0178:0-12, u0179:0-37 %%",
+        "Riswynn: Yes, we did. I was. At least we had a plan. Baxter.",
+        "",
+        "%% u0180:0-67, u0181:0-46 %%",
+        "DM: Baxter can can shepherd the animals? Wellby whispers to Baxter like. I mean, you only have Riswynn's horse, and and.",
+        "",
+        "%% u0182:0-198, u0183:0-56, u0184:0-89, u0185:0-17 %%",
+        "((Recollection of the previous pony and Baxter’s earlier training))",
+        "",
+        "%% u0186:0-33, u0187:0-52 %%",
+        "DM: So I think you can. You can trust, trust Baxter to like, keep keep track of the animals.",
+        "",
+        "%% u0188:0-10 %%",
+        "Riswynn: All right.",
+        "",
+        "%% u0189:0-49, u0190:0-19, u0191:0-39, u0192:0-63, u0193:0-24 %%",
+        "DM: But yes, it takes a little bit of effort to like, calm your pony, and Wellby to talk to Baxter, and, you know, telepathically explain to him the situation like, “Don't run off. Keep an eye on the pony.”"
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Hralgar, we've, we've brought, we've we've found your eyes and brought them back. But but you'll need to help us get to your body, it's in the storm, and that's dangerous for us.",
+          "Riswynn: While Seeker is talking to Hralgar, Wellby and I are like wrangling storm-panicked horses and some [garbled] axe beak, and stuff, and getting them like I don't know in the mirror and the hole, and the something like the plan that we had like if we were going in the storm. We weren't going to bring panicked animals.",
+          "Seeker: All right.",
+          "Riswynn: So we're gonna—",
+          "Delwath: Did we have a plan?"
+        ],
+        "after": [
+          "DM: And Delwath and Seeker are running towards Kenzo now with the eyes.",
+          "Seeker: Yeah, we've each got one. Okay. Why not? That is yes.",
+          "DM: Power. So Kenzo turns and looks at you, and a a smile, like a faint smile cracks on his lips. And he says, “What are you waiting for? Come!” And begins hurrying into the storm.",
+          "Unknown: Wait!",
+          "Seeker: Last time, the storm almost destroyed us. We'll need your help. Can you make it safe for us?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "The long ladder holds the party together",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0239",
+        "endUid": "u0249"
+      },
+      "lines": [
+        "%% u0239:0-8, u0240:0-22, u0241:0-58, u0242:0-47, u0243:0-32 %%",
+        "Seeker: Okay. So I'm holding on to the 50 foot rope ladder and offering it to the others to grab. You can always animate it, if need be, and then I don't know what happened then.",
+        "",
+        "%% u0244:0-39, u0245:0-38, u0246:0-12, u0247:0-8, u0248:0-6, u0249:0-25 %%",
+        "DM: So you all grab onto the 50 foot ladder and fold up the portable hole quickly. Slam it into Wellby's locket and go charge after Kenzo."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Let's let's try to hold together. I search around in my pack for a rope, but come up with only with a rope ladder. It's like, okay, “Take the end of this.” Everybody's grabbing on a different part of the rope ladder. Actually, I think the rope ladder that I have now is the metal one.",
+          "DM: Is that right? What have I got? One rope ladder was that you've got the super long—",
+          "Seeker: 40, 50 foot one. Yeah, that was designed to go into the depths of pandemonium. Right.",
+          "DM: You don't have the the one that got the shorter one from the where they got destroyed by the—",
+          "Seeker: The dragon, right. The hero ladder, greatest of all characters."
+        ],
+        "after": [
+          "Delwath: Put the eyes back in the—",
+          "Unknown: Portable—",
+          "Seeker: Before we charge after Kenzo. You sure—",
+          "Unknown: They're big.",
+          "Seeker: We don't want to drop them. Yeah, we might need 2 hands. Sensible Delwath good thinking. Let's put them back."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Hralgar offers the sight of the winds",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0592",
+        "endUid": "u0649"
+      },
+      "lines": [
+        "%% u0592:0-45, u0593:0-17, u0594:0-3, u0595:0-74, u0596:0-3, u0597:0-16, u0598:0-17, u0599:0-12, u0600:0-43, u0601:0-39, u0602:0-46, u0603:0-19, u0604:0-33, u0605:0-119 %%",
+        "DM: Kenzo continues to run as you as you proceed. And then suddenly the light in front of you that is Kenzo stops moving, and again he turns back. And let's see Wellby you begin to hear this whisper quietly in your mind like under the thunder cutting through the noise of the storm. It almost sounds like Kenzo's voice, but it is the cadence is off and it's speaking a language that when you stop to think about it, you don't you. You know the sounds are foreign, but the meaning is clear in your head.",
+        "",
+        "%% u0606:0-8, u0607:0-24, u0608:0-21, u0609:0-9, u0610:0-17, u0611:0-10 %%",
+        "DM: It says I can see everything now. I can see so clearly. I can see beyond the storm. I can see.",
+        "",
+        "%% u0612:0-11, u0613:0-16, u0614:0-6, u0615:0-15, u0616:0-52 %%",
+        "DM: And then it shifts slightly almost almost gleeful. What would you have me Look at? What would you know?",
+        "",
+        "%% u0617:0-27 %%",
+        "Seeker: All right. I read it right.",
+        "",
+        "%% u0618:0-45, u0619:0-15, u0620:0-42 %%",
+        "Wellby: I'll convey that to the rest of the party too telepathically. Quickly. Now it is the input you can talk.",
+        "",
+        "%% u0621:0-27, u0622:0-23, u0623:0-51, u0624:0-38 %%",
+        "DM: You can talk to Delwath and Seeker, but not Riswynn because too far away out of sight. You can only see about 10 or 15 feet away from oh, wow.",
+        "",
+        "%% u0625:0-117, u0626:0-25 %%",
+        "Wellby: To to the implication. There, what would you have me see locally, or what would you have me see anywhere in the world? In all of time and space?",
+        "",
+        "%% u0627:0-14, u0628:0-39 %%",
+        "DM: You don't know. More the latter than the former, though.",
+        "",
+        "%% u0629:0-57, u0630:0-25, u0631:0-133, u0632:0-19, u0633:0-4, u0634:0-27, u0635:0-11, u0636:0-9, u0637:0-60, u0638:0-5, u0639:0-20, u0640:0-70, u0641:0-12, u0642:0-12, u0643:0-5, u0644:0-20, u0645:0-46, u0646:0-5 %%",
+        "((Discussion of which question to ask))",
+        "",
+        "%% u0647:0-18, u0648:0-27, u0649:0-47 %%",
+        "Wellby: Tell me the place. Tell me what it looks like. The place where the mantle of protection rests."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You'll see the ladder like illuminated in this flash of light.",
+          "Seeker: Occasionally Seeker shoots little sparks between his fingertips seemingly experimenting.",
+          "DM: And as you, as you as you continue the lightning as it gets darker, the lightning almost seems to get brighter and brighter. And it begins to collect. And it almost seems to be like it's gathering around Kenzo like yeah. Lightning is beginning to gather around him. And now he's starting to even glow slightly, as like sparks of lightning are shooting off of his body.",
+          "DM: Which at least makes it easier for you to see him in the mist and fog of the—",
+          "Unknown: And—"
+        ],
+        "after": [
+          "DM: Make an Intelligence saving throw.",
+          "Seeker: Oh, boy.",
+          "DM: I think that's a plus—",
+          "Wellby: I've got my. But I rolled a 16. Oh, sorry, put plus proficiency. So yeah, so 20 altogether, right?",
+          "Delwath: If you're proficient in in intelligence saves."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "The mantle and its orc bearer in the wind vision",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0663",
+        "endUid": "u0733"
+      },
+      "lines": [
+        "%% u0663:0-8, u0664:0-4, u0665:0-20, u0666:0-21, u0667:0-20, u0668:0-37, u0669:0-16, u0670:0-25, u0671:0-3, u0672:0-72, u0673:0-1, u0674:0-26 %%",
+        "DM: You feel this pain cutting through your thoughts, making distraction, making concentrating on anything impossible. Almost like your head is being split open. And for a minute you feel as if you are floating outside your body entirely I just drifting on the wind.",
+        "",
+        "%% u0675:0-22, u0676:0-20, u0677:0-10, u0678:0-55, u0679:0-43, u0680:0-8, u0681:0-108, u0682:0-24, u0683:0-65 %%",
+        "DM: And then you are blown as if by a hurricane somewhere. You're moving too fast to see the land, to see anything. Sweeping past a blur of a desert below you a river not one you've ever seen before, or at least not something that you recognize from this height at this speed. You're being blown east you know that much from the shadows and the direction of the sun.",
+        "",
+        "%% u0684:0-21, u0685:0-18, u0686:0-11, u0687:0-1, u0688:0-6, u0689:0-14, u0690:0-40, u0691:0-40 %%",
+        "DM: And you see below you farms on the river irrigation. A castle built into the the the cliffs in this rough desert land. You're blown through the castle quickly.",
+        "",
+        "%% u0692:0-7, u0693:0-6, u0694:0-19, u0695:0-17 %%",
+        "DM: You see an orc sitting on a throne wearing the cloak.",
+        "",
+        "%% u0696:0-15 %%",
+        "Wellby: We shared with.",
+        "",
+        "%% u0697:0-23, u0698:0-41 %%",
+        "DM: And you are blown away. ((Psychic damage))",
+        "",
+        "%% u0699:0-59 %%",
+        "Seeker: But was that an illusion, or was it like a 1,000 years ago?",
+        "",
+        "%% u0700:0-5 %%",
+        "Riswynn: Yeah.",
+        "",
+        "%% u0701:0-234 %%",
+        "Delwath: No. I think that's current that fits man that fits totally fits. Yeah. We, the leader of the peaceful, the leader of the peaceful Orcs, is, were protecting the orcs from their god, who makes them warlike I thought that river was a dry—",
+        "",
+        "%% u0702:0-17 %%",
+        "Seeker: Riverbed, though.",
+        "",
+        "%% u0703:0-48, u0704:0-18 %%",
+        "Wellby: No, this is another river, this isn't the river. It's further east.",
+        "",
+        "%% u0705:0-30, u0706:0-79 %%",
+        "Delwath: Yeah, yeah, if you look at the it's it's it's: yeah, yeah, yeah, See where it says orcs. Little X. It's there.",
+        "",
+        "%% u0707:0-136 %%",
+        "Wellby: But that also answers why there's an army marching east from Kharsan. Well, you can't just send a team of people east. You need an army.",
+        "",
+        "%% u0708:0-43, u0709:0-48 %%",
+        "Wellby: Because the leader of the Orcs is going to that also makes our task a lot more complicated.",
+        "",
+        "%% u0710:0-4 %%",
+        "Seeker: Why?",
+        "",
+        "%% u0711:0-5, u0712:0-7, u0713:0-37, u0714:0-64, u0715:0-39 %%",
+        "Wellby: Well because if we successfully recover the cloak then the leader of the peaceful Orcs will no longer be protected from the influence of the evil orc god.",
+        "",
+        "%% u0716:0-20 %%",
+        "Delwath: And will become evil.",
+        "",
+        "%% u0717:0-11 %%",
+        "Unknown: Presumably.",
+        "",
+        "%% u0718:0-61, u0719:0-8, u0720:0-55 %%",
+        "Wellby: And even if we wanted to take it, it suggests there's a whole country an army and city and fortress between us and the cloak.",
+        "",
+        "%% u0721:0-4, u0722:0-67, u0723:0-18, u0724:0-57, u0725:0-31, u0726:0-29, u0727:0-7, u0728:0-3, u0729:0-17, u0730:0-12, u0731:0-50, u0732:0-40 %%",
+        "((Speculation about taking a flying castle))",
+        "",
+        "%% u0733:0-128 %%",
+        "DM: Oh, that's it now. Wellby's got a splitting headache and is clutching his head as he was suddenly dislocated back into his body."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: I think that's a plus—",
+          "Wellby: I've got my. But I rolled a 16. Oh, sorry, put plus proficiency. So yeah, so 20 altogether, right?",
+          "Delwath: If you're proficient in in intelligence saves.",
+          "Wellby: I am proficient in Intelligence.",
+          "DM: Okay, as as the whispers get louder and louder and louder just whispering, chanting under under their under not really under your breath, but cutting into your mind—"
+        ],
+        "after": [
+          "Wellby: I mean, wow!",
+          "DM: That was right, but conveniently not driven mad by the experience. Not backstabbing anybody. Done well on your saving throws so far.",
+          "DM: So, after a moment now glowing, Kenzo turns and begins. After this whisper begins heading back, and you've been traveling now for at least an hour or more. It's hard to say. Maybe maybe 2 h. We've gone surely gone at least a mile. Possibly possibly 2. Hard to know how fast you're going. But Kenzo is certainly not moving super fast.",
+          "DM: But you've gone, you know you've clearly gone—",
+          "Unknown: You know—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "The fallen iron device might have controlled the ship",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1396",
+        "endUid": "u1401"
+      },
+      "lines": [
+        "%% u1396:0-45 %%",
+        "Seeker: What was the thing we knocked off the tower?",
+        "",
+        "%% u1397:0-26, u1398:0-61, u1399:0-79 %%",
+        "DM: It was like some iron like twisted spear, with like lots of metal bands criss-crossing. It's got to be somewhere on the ground here. You don't can't see it in the fog.",
+        "",
+        "%% u1400:0-165 %%",
+        "Seeker: It was either like an elaborate art object or the control system for the whole brain. Probably we knocked the steering wheel off the ship. Yes, what one or the other.",
+        "",
+        "%% u1401:0-151 %%",
+        "DM: I mean. If the fog would clear it probably wouldn't be that hard to find. It was big. It was like 5 feet across right he did dwarfish repair work after."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah, you still have, like, you know, 9 min on your flight.",
+          "Delwath: I mean, we might just want to fly up.",
+          "Riswynn: I mean. Last time we went through the tower did have like electricity walls that zapped you.",
+          "Wellby: So that's right.",
+          "Riswynn: That's why."
+        ],
+        "after": [
+          "Riswynn: Reclaim the tower from the twisted mind of these giant.",
+          "DM: So what are you all doing?",
+          "Riswynn: So. What I remember is that that platform was like outside this top chamber room, and that was where Hralgar's eyes used to be, or Hralgar was tied up, or something like that, like.",
+          "Delwath: Yeah, I think we should fly up.",
+          "Riswynn: We've done the top level or the second, the highest level, right that you're raising. Yes, yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "How the binding stones work and whether to use them",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1510",
+        "endUid": "u1590"
+      },
+      "lines": [
+        "%% u1510:0-46, u1511:0-46 %%",
+        "Wellby: All right. Who remembers which stones go where? A thing that we may not ever have seen? Right?",
+        "",
+        "%% u1512:0-51 %%",
+        "Riswynn: Right? Because they stole them before we got there.",
+        "",
+        "%% u1513:0-34, u1514:0-101 %%",
+        "Seeker: Wait. I've zoned out for a second, we're just giving him back his eyes. Right. We don't need to put the binding stones back in the yeah.",
+        "",
+        "%% u1515:0-13, u1516:0-7 %%",
+        "Riswynn: It's still, I—I first—",
+        "",
+        "%% u1517:0-7 %%",
+        "Delwath: I yeah.",
+        "",
+        "%% u1518:0-223 %%",
+        "Seeker: The the the binding stones are a bit of a research project that I'm working on. I I believe that those were used to keep Hralgar in the statue form, and so if we simply leave them off, then perhaps he'll be able to go free.",
+        "",
+        "%% u1519:0-62, u1520:0-9, u1521:0-30, u1522:0-53, u1523:0-5 %%",
+        "Wellby: Yes, and it seems like there's a case to be made, though, that, that he's like totally insane right now. And we might want to calm him down before freeing him. A. P.",
+        "",
+        "%% u1524:0-134 %%",
+        "Seeker: Tim, do I have the sense that there's a particular configuration of the binding stones like does it matter where they go on the crown?",
+        "",
+        "%% u1525:0-74, u1526:0-12, u1527:0-164 %%",
+        "DM: So I mean you've spent a little bit of time with them and looking at them. It's not so. So you definitely have a sense that they that it functions kind of like a circuit, right? Like, if the pieces are not. If it's not correctly wired, nothing happens.",
+        "",
+        "%% u1528:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u1529:0-18, u1530:0-18, u1531:0-65, u1532:0-53, u1533:0-15, u1534:0-4, u1535:0-47 %%",
+        "DM: But you don't know if that is because you you don't know if that's a physical thing, or if that's like, you know, magical energy needs to be flowing. I mean. They're clearly like they clearly require a lot of magical power to.",
+        "",
+        "%% u1536:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u1537:0-21, u1538:0-23, u1539:0-54, u1540:0-38, u1541:0-22, u1542:0-22, u1543:0-22, u1544:0-70, u1545:0-24, u1546:0-8, u1547:0-12, u1548:0-20, u1549:0-8 %%",
+        "((Arcana check, character-sheet troubleshooting and brief agreement))",
+        "",
+        "%% u1550:0-2, u1551:0-34, u1552:0-4, u1553:0-82, u1554:0-32, u1555:0-101, u1556:0-64, u1557:0-81 %%",
+        "DM: So, so yes, from your from your study, like, basically you, you have the sense that there's 2 things that are true. One is that, there is a sort of very specific way these need to be activated. It's not like it's simple as a command word or something. It's like, specific magical energy needs to flow into them to turn them on. But the physical, your sense is, the physical arrangement, is not that important.",
+        "",
+        "%% u1558:0-22, u1559:0-9, u1560:0-30, u1561:0-116, u1562:0-13, u1563:0-16, u1564:0-70, u1565:0-101, u1566:0-13, u1567:0-70 %%",
+        "DM: Although perhaps, like, different physical orders, maybe produce slightly different effects like you're still playing around with it right like. Maybe if you switch 2 of them, it'll, it' you know. Cause a a slight twist in, you know. Maybe maybe you need to switch 2 of them around to trap demons instead of giants, or something like that. It's like that sort of subtle, but most of the complexity is the way in which magical energy needs to be fed into these stones back.",
+        "",
+        "%% u1568:0-6 %%",
+        "Unknown: Right.",
+        "",
+        "%% u1569:0-29, u1570:0-20, u1571:0-18, u1572:0-14 %%",
+        "Seeker: So we were missing something. Well, I'll set about getting the stones onto the crown.",
+        "",
+        "%% u1573:0-29, u1574:0-119, u1575:0-36, u1576:0-21 %%",
+        "Riswynn: So they can get that. I mean, we think that bringing him back trapped is going to put him in a great mood, and he's going to calm down really easily. Whereas if we brought him back free be dangerously angry.",
+        "",
+        "%% u1577:0-37 %%",
+        "Delwath: I kind of think the other way around.",
+        "",
+        "%% u1578:0-42 %%",
+        "Riswynn: Kind of where I was going with that going.",
+        "",
+        "%% u1579:0-35 %%",
+        "Wellby: What if we run upstairs real quick?",
+        "",
+        "%% u1580:0-19 %%",
+        "Delwath: Let's check on him.",
+        "",
+        "%% u1581:0-104 %%",
+        "Wellby: It might also be good to see how Kenzo is doing. You know I feel like we haven't seen them for a minute.",
+        "",
+        "%% u1582:0-10 %%",
+        "Seeker: Fair point.",
+        "",
+        "%% u1583:0-22, u1584:0-1, u1585:0-6, u1586:0-6 %%",
+        "((Arcana check, character-sheet troubleshooting and brief agreement))",
+        "",
+        "%% u1587:0-5, u1588:0-30, u1589:0-12, u1590:0-18 %%",
+        "Seeker: I am, gather the binding stones back so that I'll have them with me."
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: Yeah. I think we need to operate with that that we just got to do what we're doing.",
+          "Wellby: Yeah, I'll. So I'll climb in and get the eyes and the stones.",
+          "DM: Okay.",
+          "Wellby: And then close it back up and put it back in the little lead locket again.",
+          "DM: Okay."
+        ],
+        "after": [
+          "DM: Okay. So, you head upstairs. Oh, look! I had a map for this, for. Oh, look! And it still has your like, drawings from the last time we did this, then again. So you head upstairs.",
+          "DM: And this is this is, you—you remember this top floor from your last journey to this tower. And the first time you came up these stairs it did not lead to a—it did not lead to the top of a tower. It led to elsewhere.",
+          "DM: So you're not that surprised, when you ascend the stairs and find yourself emerging into a mountaintop palace.",
+          "Seeker: Well.",
+          "DM: Giant-sized stairs leading up to a a giant home."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Hralgar welcomes visitors to his dream palace",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e015",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1615",
+        "endUid": "u1677"
+      },
+      "lines": [
+        "%% u1615:0-11, u1616:0-15, u1617:0-7, u1618:0-17, u1619:0-33, u1620:0-22, u1621:0-30, u1622:0-47, u1623:0-40, u1624:0-10, u1625:0-39, u1626:0-37, u1627:0-16, u1628:0-72 %%",
+        "DM: And you see in the distance a giant 20, 30 feet tall towering over a much smaller man, who seems to almost be, be leading him down the steps. The giant is is walking slowly, sort of feeling, that much smaller person is like holding his finger and sort of guiding him down the steps. They're still some distance off, like, 50, 60 feet off, 70 feet. But it's it's clear that this smaller person is in fact, Kenzo.",
+        "",
+        "%% u1629:0-28, u1630:0-8, u1631:0-13, u1632:0-77, u1633:0-14, u1634:0-41, u1635:0-8, u1636:0-37, u1637:0-35, u1638:0-7, u1639:0-8, u1640:0-1, u1641:0-9, u1642:0-31 %%",
+        "DM: Although again his his face, his his, because, like, just the sort of general sort of sense as he doesn't seem to be himself. He's. You don't know, what, but he's looking up at the giant as—as that— He he whispers something quietly, and, you hear the voice booming out now. “Visitor, welcome.” I I seem to, seem to be having some trouble.",
+        "",
+        "%% u1643:0-5 %%",
+        "Unknown: Okay.",
+        "",
+        "%% u1644:0-10, u1645:0-25, u1646:0-5, u1647:0-10, u1648:0-27, u1649:0-24, u1650:0-28 %%",
+        "DM: Don't know what happened. But please come. I'm always eager for stories and tales. And travelers have grown strangely absent these days.",
+        "",
+        "%% u1651:0-52, u1652:0-10, u1653:0-25, u1654:0-26, u1655:0-32 %%",
+        "DM: I hear there is trouble on the plains. My dreams are disturbed. The storms grow stronger. And the future is clouded. Come, I would hear your stories.",
+        "",
+        "%% u1656:0-2, u1657:0-20, u1658:0-7, u1659:0-10, u1660:0-4, u1661:0-19, u1662:0-5 %%",
+        "DM: “My—” Pauses for a minute. “I don't—my friend.” Hmm. Have I lived alone? Come.",
+        "",
+        "%% u1663:0-56, u1664:0-21, u1665:0-74, u1666:0-80 %%",
+        "DM: And he looks. He's like looking way way over your heads. He he will guide you. And he turns, and he and he begins like slowly walking up the stairs, like, you know, he's carrying this giant tree trunk like staff, and he's like tapping.",
+        "",
+        "%% u1667:0-21, u1668:0-3, u1669:0-10, u1670:0-67, u1671:0-9, u1672:0-12, u1673:0-64 %%",
+        "DM: And Kenzo walks down, and he sort of, he sort of gives you a slight bow. He doesn't recognize any of you. And says, “Please come.” Hralgar would be pleased to speak with you and hear your stories.",
+        "",
+        "%% u1674:0-21, u1675:0-26, u1676:0-31, u1677:0-25 %%",
+        "DM: I have guided him for, has it been years already? He sometimes gets confused, but he will welcome visitors."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay. So, you head upstairs. Oh, look! I had a map for this, for. Oh, look! And it still has your like, drawings from the last time we did this, then again. So you head upstairs.",
+          "DM: And this is this is, you—you remember this top floor from your last journey to this tower. And the first time you came up these stairs it did not lead to a—it did not lead to the top of a tower. It led to elsewhere.",
+          "DM: So you're not that surprised, when you ascend the stairs and find yourself emerging into a mountaintop palace.",
+          "Seeker: Well.",
+          "DM: Giant-sized stairs leading up to a a giant home."
+        ],
+        "after": [
+          "DM: And he turns and he like begins walking up these steps, where each step is like 3 feet tall. So for Wellby especially, this is like quite the difficult journey up. You're like basically, doing actually, for the dwarves too—",
+          "Seeker: Hard to climb the stairs in a dignified looking fashion for us from.",
+          "DM: For for Delwath and for Kenzo it's less of a challenge, you know. Here. You're kind of, pushing yourself up a bit, but it's like, just manageable.",
+          "Seeker: But it's, just give up and fly at some point.",
+          "DM: Yeah, you still got some time left on your hour flight. So."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Kenzo’s guide names himself Jorundr",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1720",
+        "endUid": "u1768"
+      },
+      "lines": [
+        "%% u1720:0-50, u1721:0-11, u1722:0-25 %%",
+        "Wellby: I'm going to communicate telepathically with Kenzo, and ask him what's your name, friend?",
+        "",
+        "%% u1723:0-8, u1724:0-4, u1725:0-8, u1726:0-17, u1727:0-4, u1728:0-8, u1729:0-6, u1730:0-21, u1731:0-17 %%",
+        "DM: He says, hmm, odd. You speak in my mind. I am Jorundr. Been a friend to Hralgar for several years now.",
+        "",
+        "%% u1732:0-37, u1733:0-27, u1734:0-48, u1735:0-4, u1736:0-9, u1737:0-5 %%",
+        "((History checks, character-sheet issues and speaker clarification))",
+        "",
+        "%% u1738:0-9, u1739:0-17 %%",
+        "Wellby: I'll say, well met Jorundr.",
+        "",
+        "%% u1740:0-63, u1741:0-71, u1742:0-18, u1743:0-69, u1744:0-15 %%",
+        "((History checks, character-sheet issues and speaker clarification))",
+        "",
+        "%% u1745:0-3, u1746:0-41 %%",
+        "DM: Now, none of you have heard the name, Jorundr.",
+        "",
+        "%% u1747:0-23, u1748:0-91 %%",
+        "Wellby: Going to you. Well met. I'm Wellby Goodbarrel, and my home is on the western edge of the Green Sea. Where's yours?",
+        "",
+        "%% u1749:0-10, u1750:0-22, u1751:0-9, u1752:0-10, u1753:0-34, u1754:0-12, u1755:0-25, u1756:0-23 %%",
+        "DM: Green Sea? Not too far from here. Up in the mountains. I have lived here with Hralgar for 5 years now. Not so much time, and the reckoning of our people.",
+        "",
+        "%% u1757:0-13 %%",
+        "Seeker: With Hralgar.",
+        "",
+        "%% u1758:0-34 %%",
+        "DM: I'm his apprentice, you could say.",
+        "",
+        "%% u1759:0-21 %%",
+        "Wellby: What are you learning?",
+        "",
+        "%% u1760:0-13, u1761:0-5, u1762:0-30, u1763:0-16, u1764:0-29 %%",
+        "DM: For a moment. Come. Let us hear your stories first. Tale for a tale. For telling, for foretelling.",
+        "",
+        "%% u1765:0-24, u1766:0-5, u1767:0-15, u1768:0-8, u1768:8-43 %%",
+        "((History checks, character-sheet issues and speaker clarification))"
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: I like that.",
+          "Riswynn: Helps tell you the stories of a statue in a world that connects to another world.",
+          "Wellby: You know, or or of like imprisoned people who don't realize they're imprisoned. You know. Sort of bit by bit, because we want to like, awaken him to the reality of it without him completely flipping out.",
+          "Riswynn: But also, maybe like weaving some stories of like, there being ways to get out of this, and, like I don't know, friendly groups of 3 to 4 travelers tending to have the way out.",
+          "Delwath: Is there a it's like we're going up the stairs into his castle. Basically?"
+        ],
+        "after": [
+          "Seeker: Okay.",
+          "Wellby: All right.",
+          "Unknown: So.",
+          "Delwath: That was so. I mean, if there's, do we like, is there a place to sit? Is there like a—I mean it's all giant sized.",
+          "DM: We made it to the I mean, as the stairs are not easy to navigate; but as you get up to the, up to the top like. Come into the entry way to this palace."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Introductions and the emperor in Hralgar’s memory",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1814",
+        "endUid": "u1894"
+      },
+      "lines": [
+        "%% u1814:0-87, u1815:0-20, u1816:0-49, u1817:0-6, u1818:0-50, u1819:0-3, u1820:0-13, u1821:0-10, u1822:0-7, u1823:0-31, u1824:0-3, u1825:0-25, u1826:0-17, u1827:0-19 %%",
+        "DM: Glances around and and looks down at—you can see now clearly in the sunlight filtering into the palace like as you saw him before, like his eyes are missing. And he rests for a moment, and then sits forward and says, it— it seems like, I I cannot see it. I don't know why it is so dark. But I can hear you are small and I suppose you come from far away.",
+        "",
+        "%% u1828:0-4, u1829:0-4, u1830:0-33 %%",
+        "Delwath: Yes. From quite the 4 corners of the earth.",
+        "",
+        "%% u1831:0-13, u1832:0-32 %%",
+        "DM: I would know. Who am I welcoming into my home?",
+        "",
+        "%% u1833:0-4, u1834:0-7, u1835:0-7, u1836:0-6, u1837:0-23 %%",
+        "Delwath: I am, Delwath, the elf, lately adopted at the Deno'qai.",
+        "",
+        "%% u1838:0-18, u1839:0-9, u1840:0-36 %%",
+        "DM: Nods for a moment. Yes, your people have a long history together.",
+        "",
+        "%% u1841:0-60, u1842:0-21, u1843:0-46 %%",
+        "Delwath: I have a tale to tell of loss and imprisonment and recovery if you would hear it. When my companions have introduced themselves.",
+        "",
+        "%% u1844:0-25, u1845:0-35, u1846:0-41, u1847:0-26 %%",
+        "DM: I would welcome your tale. Furrows his brow for a moment as he, sort of cocks his head in your direction and then kind of moves on.",
+        "",
+        "%% u1848:0-20, u1849:0-8, u1850:0-47, u1851:0-49 %%",
+        "Wellby: Wellby Goodbarrel, a halfling. The one who's seen both the edges of the ocean. And I, too, have a story to tell if you'd hear it.",
+        "",
+        "%% u1852:0-12 %%",
+        "DM: Nods slowly.",
+        "",
+        "%% u1853:0-68, u1854:0-34 %%",
+        "Seeker: And I am Seeker of High Keep, north of here in the mountains, a dwarf. With stories of my own, of course.",
+        "",
+        "%% u1855:0-54, u1856:0-17 %%",
+        "Riswynn: And Riswynn Brawnanvil, also a dwarf of the mountains. More to the west.",
+        "",
+        "%% u1857:0-22, u1858:0-44 %%",
+        "DM: Mountains to the west. There are not so many mountains west of here.",
+        "",
+        "%% u1859:0-6, u1860:0-6, u1861:0-12 %%",
+        "((Brief cross-talk and break arrangements))",
+        "",
+        "%% u1862:0-12, u1863:0-20, u1864:0-23, u1865:0-14, u1866:0-12, u1867:0-23, u1868:0-31, u1869:0-43, u1870:0-12, u1871:0-18, u1872:0-22, u1873:0-20, u1874:0-19 %%",
+        "DM: That all the Drankorian frontier. But it is good to hear. Should not let humans claim the lands all the land. Well, as you seem to know, I am Hralgar, master of these mountains, and the plains below. Visitor. Sometimes the wizards of Drankor. Keeper of the winds. Welcome to my home.",
+        "",
+        "%% u1875:0-19, u1876:0-16, u1877:0-6 %%",
+        "Delwath: Who is the Emperor in Drankor today? To now.",
+        "",
+        "%% u1878:0-15, u1879:0-4, u1880:0-32, u1881:0-9, u1882:0-8 %%",
+        "DM: Care little for such petty human concerns, I believe. Man named Akaston.",
+        "",
+        "%% u1883:0-21 %%",
+        "Seeker: Do we know this name?",
+        "",
+        "%% u1884:0-66, u1885:0-49, u1886:0-50, u1887:0-27 %%",
+        "((Brief cross-talk and break arrangements))",
+        "",
+        "%% u1888:0-2, u1889:0-28, u1890:0-58, u1891:0-46 %%",
+        "DM: No name is not familiar to you. One of those Drankorian emperors that you are going to ask Nias to send you a list of that. You never did.",
+        "",
+        "%% u1892:0-5 %%",
+        "Seeker: Right.",
+        "",
+        "%% u1893:0-50, u1894:0-43 %%",
+        "Riswynn: That we'll just take a note of this guy's name and, grass, whatever it was. 3 Sunday. Yes, yes."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Well, what what do you imagine you're sitting on? I guess is the question.",
+          "Unknown: Okay.",
+          "DM: You're tired after the journey. And you imagine, as you sit down, you're like, “Oh, it'd be so nice to be sitting on it right soft.” Suddenly it's soft. Almost as if you're sitting on a cloud.",
+          "DM: Hralgar then sort of—",
+          "Unknown: Who."
+        ],
+        "after": [
+          "DM: So let's take a let's take a 5 to 8 min break or so.",
+          "Delwath: Sure.",
+          "Wellby: Cool.",
+          "Unknown: Cool.",
+          "Riswynn: I assume they'll add some sort of date at some point."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Delwath tells of the freed tanshi and receives a warning",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e018",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e021",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1909",
+        "endUid": "u2068"
+      },
+      "lines": [
+        "%% u1909:0-5, u1910:0-2, u1911:0-60, u1912:0-38, u1913:0-12, u1914:0-5, u1915:0-8, u1916:0-4, u1917:0-17, u1918:0-26, u1919:0-7, u1920:0-6, u1921:0-3, u1922:0-72, u1923:0-40, u1924:0-103, u1925:0-8, u1926:0-15 %%",
+        "Delwath: ((Resuming after the break)) Delwath will start: Hralgar, that—this story begins when I was imprisoned in a strange place. And Delwath will digress on the topic of prisons for a couple of minutes and, mental prisons and physical prisons, and, how, you don't always know you're in a prison. And how he didn't really know he was in a prison when he, and then, he'll continue.",
+        "",
+        "%% u1927:0-8, u1928:0-25 %%",
+        "Delwath: This was just after the Great War.",
+        "",
+        "%% u1929:0-3 %%",
+        "Unknown: Has.",
+        "",
+        "%% u1930:0-22 %%",
+        "Delwath: Have you heard of that?",
+        "",
+        "%% u1931:0-36, u1932:0-13, u1933:0-5, u1934:0-44, u1935:0-16, u1936:0-3 %%",
+        "DM: Stops for a minute. He looks at you. It's not look. Well, I guess an elf could be a 1,000 years old as, much as they are 100.",
+        "",
+        "%% u1937:0-20 %%",
+        "Unknown: Different Great War.",
+        "",
+        "%% u1938:0-48, u1939:0-27, u1940:0-14, u1941:0-31, u1942:0-18, u1943:0-20, u1944:0-11 %%",
+        "Delwath: I was trapped for quite some time after the war. Uncounted years, it seemed. When I emerged, the future had come to me as if no time had passed. Can be disorienting. But anyway.",
+        "",
+        "%% u1945:0-15, u1946:0-7, u1947:0-62, u1948:0-28, u1949:0-8, u1950:0-29, u1951:0-30, u1952:0-5, u1953:0-11, u1954:0-12, u1955:0-3, u1956:0-3, u1957:0-38 %%",
+        "Delwath: Trapped with me, in this, place, and I also spend some a little time describing the like, dimension he was trapped in, was that, was a tanshi of the Deno'qai, they called themselves Yezali. But I at the time, knew it not. And was trapped in a cycle of my own imagining.",
+        "",
+        "%% u1958:0-6, u1959:0-6, u1960:0-7, u1961:0-12, u1962:0-41, u1963:0-17, u1964:0-11, u1965:0-49, u1966:0-32, u1967:0-28 %%",
+        "Delwath: Seeing demons hunt my fellows down, over and over again and the world cracked as it should not. I was freed by the actions of someone I knew not at the time, and found myself back on Taelgar after this long imprisonment.",
+        "",
+        "%% u1968:0-3, u1969:0-19, u1970:0-5, u1971:0-51, u1972:0-26, u1973:0-6, u1974:0-42, u1975:0-18, u1976:0-10, u1977:0-7, u1978:0-6, u1979:0-24 %%",
+        "Delwath: For many months did not know why I was freed, or where I was imprisoned, or even who I was imprisoned with. Till I went north to the forests of the Deno'qai, where I learned of, many other, 6 other, tanshi who had been imprisoned.",
+        "",
+        "%% u1980:0-18, u1981:0-5, u1982:0-5, u1983:0-8, u1984:0-29, u1985:0-10, u1986:0-47, u1987:0-24 %%",
+        "Delwath: I just open my and. And I, found it quite. With some companions. We went, into these places where they were in prisons, and we found found ways to free them.",
+        "",
+        "%% u1988:0-9, u1989:0-8, u1990:0-26, u1991:0-2, u1992:0-9, u1993:0-9, u1994:0-23, u1995:0-30, u1996:0-85, u1997:0-16, u1998:0-2, u1999:0-59, u2000:0-6, u2001:0-16, u2002:0-23 %%",
+        "Delwath: ((Looking up the tanshi)) It was K'onisati, at the lover of butterflies and colorful insects that we freed, from a, imaginary from a, trapped dark dimension.",
+        "",
+        "%% u2003:0-17, u2004:0-28, u2005:0-43, u2006:0-15, u2007:0-4, u2008:0-62, u2009:0-36, u2010:0-57, u2011:0-62, u2012:0-31, u2013:0-35, u2014:0-16, u2015:0-18 %%",
+        "Delwath: It was Midri that, tanshi of soil and dirt, and, the seeker of connections among all things. There was Nisir, that protector and watcher over hawks and eagles and birds of prey, of sight, and those who can see far. There was Taraka, the tanshi of campfires and hospitality, tales and stories, and the warmth of a hearth on a cold night. And of course there was Yezali, the spirit of the hunt and the moon, trapped with me. Unbeknownst to me.",
+        "",
+        "%% u2016:0-8, u2017:0-36, u2018:0-31, u2019:0-83, u2020:0-68, u2021:0-32, u2022:0-51, u2023:0-9, u2024:0-53, u2025:0-33 %%",
+        "Delwath: And with some companions we we freed them all, released them back to the world. And Delwath will expound. I mean the story probably takes an hour, I'm not going to, each of the sort of experiences of each of these tanshi being freed. And he'll drop little hints like, oh, a lot of them didn't know they were in prisons. You know, or their prisons were of the mind as much as the body. And sort of end the story with a.",
+        "",
+        "%% u2026:0-15, u2027:0-28, u2028:0-30, u2029:0-22, u2030:0-48, u2031:0-17 %%",
+        "Delwath: And I have been seeking those who might need assistance might be trapped in places like the tanshi. Have you heard any stories of imprisoned people need to be freed?",
+        "",
+        "%% u2032:0-33, u2033:0-3, u2034:0-22, u2035:0-41, u2036:0-4, u2037:0-53, u2038:0-36, u2039:0-7, u2040:0-37, u2041:0-36 %%",
+        "DM: Hralgar turns towards your voice, and furrows his brow again, looks intently sort of in your direction. That, strands of fate and time are twisted around you, elf. You tell me a story of imprisonment, of war. And I see such things in your future. Pauses for a moment, takes a breath.",
+        "",
+        "%% u2042:0-7, u2043:0-8, u2044:0-23, u2045:0-8, u2046:0-36, u2047:0-34, u2048:0-28, u2049:0-26 %%",
+        "DM: I would warn you in thanks for your tale, stay far from armbands of shadow and darkness, do not touch them, for they're the key that will lock you away. To what fate I cannot see.",
+        "",
+        "%% u2050:0-22, u2051:0-34, u2052:0-9, u2053:0-38, u2054:0-67 %%",
+        "DM: But it is strange, for the tale, you tell seems circular. Your life circles upon itself, in endless loops. I do not know how this can be other than your people are strange. I.",
+        "",
+        "%% u2055:0-45 %%",
+        "Delwath: Are you sure it is my life that is circular?",
+        "",
+        "%% u2056:0-4 %%",
+        "Seeker: Hmm—",
+        "",
+        "%% u2057:0-23 %%",
+        "Delwath: You looked at your own?",
+        "",
+        "%% u2058:0-23, u2059:0-2 %%",
+        "((Persuasion check))",
+        "",
+        "%% u2060:0-22 %%",
+        "DM: He pauses and he says—",
+        "",
+        "%% u2061:0-5 %%",
+        "Unknown: Okay.",
+        "",
+        "%% u2062:0-21, u2063:0-18, u2064:0-48 %%",
+        "DM: I will tell my story. But first I would, I forget who else said they had a story. Wellby?",
+        "",
+        "%% u2065:0-26 %%",
+        "Wellby: Yeah, I've got one to tell.",
+        "",
+        "%% u2066:0-23, u2067:0-24, u2068:0-28 %%",
+        "DM: First. He he looks over, says, “First I would hear the tale of the littlest one.”"
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: Cool.",
+          "Riswynn: I assume they'll add some sort of date at some point.",
+          "DM: I wonder what happened to Eric? There's a.",
+          "Seeker: I was just guys.",
+          "DM: So, as we return to Hralgar's palace, Delwath was about to speak, I believe."
+        ],
+        "after": [
+          "Wellby: A, looking over, you see that Wellby sitting on a small folding canvas stool, the kind that we're, or what the halfling caravaners would use there. And, he draws himself up to his full and very small height. And we can—“Brother, you know my people are storytellers. And what we do, as we cross from one end of the ocean and one side of the mountains to the other, is tell the story of the world back to itself.”",
+          "Wellby: Long ago and far away, in an age that was like this one, and, unlike it, there was a prince who ruled his people. He was just, and he was wise. He made treaties with the elves and dwarves, and let the halflings pass through. He had inside him a strength, a power that men envied. His bones were like the bones of a mountain. His hands could summon the storm. He was the envy of men who wanted his power.",
+          "Wellby: Until at last a wizard sought to take it from him; but knowing that the prince could not be defeated by strength alone, he sought to imprison him. To force the Prince's will to his own, in exchange for the promise of freedom. But even imprisoned, even separated from his people, separated from his mountains, the prince wouldn't give the secret of his power, knowing that a man who would take it by force would never use it honorably.",
+          "Wellby: The Wizard was cunning. He couldn't win by strength. And he couldn't win through capture. So he sought at last to win through deceit.",
+          "Wellby: How do you build a prison that wouldn't be a prison? You make your captive forget it. And in a weaving of dreams, the wizard let the prisoner believe that he was free. And in dreams the prince walked his deserted mountains. Roamed the empty halls of his palace, believing himself to be home all the while dreaming himself free while still captured."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Wellby’s tale angers Hralgar",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2069",
+        "endUid": "u2156"
+      },
+      "lines": [
+        "%% u2069:0-1, u2070:0-44, u2071:0-50, u2072:0-48, u2073:0-3, u2074:0-54, u2075:0-11, u2076:0-45, u2077:0-15, u2078:0-37, u2079:0-42, u2080:0-45 %%",
+        "Wellby: A, looking over, you see that Wellby sitting on a small folding canvas stool, the kind that we're, or what the halfling caravaners would use there. And, he draws himself up to his full and very small height. And we can—“Brother, you know my people are storytellers. And what we do, as we cross from one end of the ocean and one side of the mountains to the other, is tell the story of the world back to itself.”",
+        "",
+        "%% u2081:0-21, u2082:0-49, u2083:0-40, u2084:0-110, u2085:0-54, u2086:0-43, u2087:0-78 %%",
+        "Wellby: Long ago and far away, in an age that was like this one, and, unlike it, there was a prince who ruled his people. He was just, and he was wise. He made treaties with the elves and dwarves, and let the halflings pass through. He had inside him a strength, a power that men envied. His bones were like the bones of a mountain. His hands could summon the storm. He was the envy of men who wanted his power.",
+        "",
+        "%% u2088:0-119, u2089:0-26, u2090:0-38, u2091:0-39, u2092:0-82, u2093:0-125 %%",
+        "Wellby: Until at last a wizard sought to take it from him; but knowing that the prince could not be defeated by strength alone, he sought to imprison him. To force the Prince's will to his own, in exchange for the promise of freedom. But even imprisoned, even separated from his people, separated from his mountains, the prince wouldn't give the secret of his power, knowing that a man who would take it by force would never use it honorably.",
+        "",
+        "%% u2094:0-52, u2095:0-36, u2096:0-43 %%",
+        "Wellby: The Wizard was cunning. He couldn't win by strength. And he couldn't win through capture. So he sought at last to win through deceit.",
+        "",
+        "%% u2097:0-26, u2098:0-26, u2099:0-32, u2100:0-81, u2101:0-55, u2102:0-124 %%",
+        "Wellby: How do you build a prison that wouldn't be a prison? You make your captive forget it. And in a weaving of dreams, the wizard let the prisoner believe that he was free. And in dreams the prince walked his deserted mountains. Roamed the empty halls of his palace, believing himself to be home all the while dreaming himself free while still captured.",
+        "",
+        "%% u2103:0-25, u2104:0-20, u2105:0-36, u2106:0-81, u2107:0-18, u2108:0-42, u2109:0-32, u2110:0-27 %%",
+        "Wellby: How do you build a prison that's not a prison? Well, you make the captor forget too. This wizard, pouring all his energy and attention and focus towards his prisoner, watching every day, seeking a way to bend his prisoner's will, didn't see the knife at his side, that unexpectedly slew him.",
+        "",
+        "%% u2111:0-16, u2112:0-34, u2113:0-27, u2114:0-27 %%",
+        "Wellby: The captor died. The prince forgot his imprisonment. And roamed his dream halls, not knowing how to wake up.",
+        "",
+        "%% u2115:0-29, u2116:0-49, u2117:0-5 %%",
+        "((Question about the stored eyes))",
+        "",
+        "%% u2118:0-29, u2119:0-21, u2120:0-16, u2121:0-13, u2122:0-41, u2123:0-15, u2124:0-15, u2125:0-10, u2126:0-31, u2127:0-22 %%",
+        "DM: ((Insight and Persuasion checks)) So you tell this tale, and you watch him. And you can see, you see, almost anger, and, what you can only think must be a deep sense of shame.",
+        "",
+        "%% u2128:0-4, u2129:0-50, u2130:0-62, u2131:0-25 %%",
+        "DM: Like, something in this story clearly connects with him but it's connecting with him in a way that is reminding him of his weakness and failure.",
+        "",
+        "%% u2132:0-12, u2133:0-20, u2134:0-14, u2135:0-25 %%",
+        "DM: And he turns, and he looks at you, hold on a sec. And he stares down at you—",
+        "",
+        "%% u2136:0-9 %%",
+        "((Question about the stored eyes))",
+        "",
+        "%% u2137:0-26, u2138:0-27 %%",
+        "DM: He stares down at you, and, he, like rises up slightly.",
+        "",
+        "%% u2139:0-12, u2140:0-21, u2141:0-9, u2142:0-35, u2143:0-31, u2144:0-5, u2145:0-2, u2146:0-50, u2147:0-7 %%",
+        "DM: And he says, you tell these tales and yet I see the doom that is coming for you. Sometimes. Perhaps it is better here. So dreaming is not always the worst fate that one can suffer.",
+        "",
+        "%% u2148:0-49, u2149:0-10, u2150:0-37 %%",
+        "DM: And he turns, and he looks angrily, and he starts, the omens foretell an ill fate for your people.",
+        "",
+        "%% u2151:0-4 %%",
+        "Unknown: Well.",
+        "",
+        "%% u2152:0-74 %%",
+        "DM: Like shifts in his chair, and like begins to get up, and like shuffle away.",
+        "",
+        "%% u2153:0-36 %%",
+        "Delwath: As he so shuffles away. I'll sort of.",
+        "",
+        "%% u2154:0-4 %%",
+        "Unknown: Yeah.",
+        "",
+        "%% u2155:0-37, u2156:0-33 %%",
+        "DM: Not like shuffling away and like he's leaving like that angry at Wellby."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: He pauses and he says—",
+          "Unknown: Okay.",
+          "DM: I will tell my story. But first I would, I forget who else said they had a story. Wellby?",
+          "Wellby: Yeah, I've got one to tell.",
+          "DM: First. He he looks over, says, “First I would hear the tale of the littlest one.”"
+        ],
+        "after": [
+          "Wellby: He needs a story that that brings him back like to pride and power.",
+          "Seeker: Oh, I have an idea. Hralgar, if I may—",
+          "Seeker: There is a story I encountered one night late in an ancient library in a dusty tome that, for all I knew could be the stories of a untethered, imagining brain, or could well be the true histories of our ancient past, but it told of a party of adventurers brave and powerful ones, who found themselves proudly in possession of a castle. But not an ordinary one. For this castle could rise above the earth and transport them from place to place.",
+          "Seeker: And in this way this party of some, some scaly and some winged adventurers, a became embroiled in a number of complex adventures, which I will not—I bring you through the entire thread of, but suffice to say, that with the help of this wonderful castle they brought down the dragon and brought an end to the Great War itself and are remembered as heroes.",
+          "DM: He looks. It looks towards Seeker again, sort of turning back and and sort of positioning himself so that his back is to Wellby as best he can, and sits and looks towards you again. He says, you are opaque to me. Do you leave no mark on history? Or a mark so great it blots out everything else? Or is your future not of this world?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Seeker’s story of the Great War heroes",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e024",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2157",
+        "endUid": "u2199"
+      },
+      "lines": [
+        "%% u2157:0-50, u2158:0-16 %%",
+        "Wellby: He needs a story that that brings him back like to pride and power.",
+        "",
+        "%% u2159:0-18, u2160:0-18 %%",
+        "Seeker: Oh, I have an idea. Hralgar, if I may—",
+        "",
+        "%% u2161:0-16, u2162:0-72, u2163:0-40, u2164:0-102, u2165:0-21, u2166:0-24, u2167:0-20, u2168:0-21, u2169:0-12, u2170:0-24, u2171:0-26, u2172:0-34, u2173:0-20 %%",
+        "Seeker: There is a story I encountered one night late in an ancient library in a dusty tome that, for all I knew could be the stories of a untethered, imagining brain, or could well be the true histories of our ancient past, but it told of a party of adventurers brave and powerful ones, who found themselves proudly in possession of a castle. But not an ordinary one. For this castle could rise above the earth and transport them from place to place.",
+        "",
+        "%% u2174:0-29, u2175:0-32, u2176:0-12, u2177:0-2, u2178:0-69, u2179:0-60, u2180:0-26, u2181:0-17, u2182:0-72, u2183:0-29 %%",
+        "Seeker: And in this way this party of some, some scaly and some winged adventurers, a became embroiled in a number of complex adventures, which I will not—I bring you through the entire thread of, but suffice to say, that with the help of this wonderful castle they brought down the dragon and brought an end to the Great War itself and are remembered as heroes.",
+        "",
+        "%% u2184:0-142, u2185:0-18, u2186:0-18, u2187:0-7, u2188:0-21, u2189:0-31, u2190:0-21, u2191:0-26, u2192:0-2, u2193:0-14, u2194:0-18 %%",
+        "DM: He looks. It looks towards Seeker again, sort of turning back and and sort of positioning himself so that his back is to Wellby as best he can, and sits and looks towards you again. He says, you are opaque to me. Do you leave no mark on history? Or a mark so great it blots out everything else? Or is your future not of this world?",
+        "",
+        "%% u2195:0-26 %%",
+        "Seeker: I have been to many worlds.",
+        "",
+        "%% u2196:0-9, u2197:0-61, u2198:0-10, u2199:0-21 %%",
+        "DM: You have. He looks again at Seeker, and he's like he's trying to focus, there is a something in the air."
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: Well.",
+          "DM: Like shifts in his chair, and like begins to get up, and like shuffle away.",
+          "Delwath: As he so shuffles away. I'll sort of.",
+          "Unknown: Yeah.",
+          "DM: Not like shuffling away and like he's leaving like that angry at Wellby."
+        ],
+        "after": [
+          "DM: There is a hint of some I would not call it fey, for it was stolen from us. Where did you come by phasing stone?",
+          "Seeker: I know not this name. But I.",
+          "DM: Cracked and split and malformed, into some perverted shape. Beaten with metal. Yeah, the core is there. You tell stories of flying castles, and you come to my palace carrying one of the ancient hearts of the skyships of my people. What game are you playing at, dwarf?",
+          "Seeker: Play no game, but seek only to trade stories. This phasing stone? Perhaps there's more to it, than I know. I'm but its bearer. Is it one of these? And I hold up the gauntlet?",
+          "DM: I cannot cannot see."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "Hralgar recognizes phasing stone in Seeker’s glove",
+      "entities": [
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2200",
+        "endUid": "u2243"
+      },
+      "lines": [
+        "%% u2200:0-10, u2201:0-12, u2202:0-51, u2203:0-13, u2204:0-7, u2205:0-14 %%",
+        "DM: There is a hint of some I would not call it fey, for it was stolen from us. Where did you come by phasing stone?",
+        "",
+        "%% u2206:0-21, u2207:0-5 %%",
+        "Seeker: I know not this name. But I.",
+        "",
+        "%% u2208:0-31, u2209:0-9, u2210:0-15, u2211:0-18, u2212:0-5, u2213:0-18, u2214:0-163 %%",
+        "DM: Cracked and split and malformed, into some perverted shape. Beaten with metal. Yeah, the core is there. You tell stories of flying castles, and you come to my palace carrying one of the ancient hearts of the skyships of my people. What game are you playing at, dwarf?",
+        "",
+        "%% u2215:0-45, u2216:0-46, u2217:0-33, u2218:0-47 %%",
+        "Seeker: Play no game, but seek only to trade stories. This phasing stone? Perhaps there's more to it, than I know. I'm but its bearer. Is it one of these? And I hold up the gauntlet?",
+        "",
+        "%% u2219:0-8, u2220:0-11 %%",
+        "DM: I cannot cannot see.",
+        "",
+        "%% u2221:0-38 %%",
+        "Seeker: Of course. Forgive me, Forgive me that.",
+        "",
+        "%% u2222:0-91, u2223:0-28, u2224:0-29, u2225:0-36, u2226:0-8, u2227:0-25 %%",
+        "DM: Like reaches a hand out that's like basically the size of Seeker like brings a finger down, pointing at your glove. Yes. This cracked and broken, just, shattered to pieces. Small fragments. Twisted, but the pieces are there.",
+        "",
+        "%% u2228:0-89, u2229:0-52, u2230:0-32, u2231:0-41 %%",
+        "Seeker: I came across it in the Feywild. It had come crashing down and burst the crystal mountain, and caused great havoc there which I helped to ease. There was a storm of wild magic. But we put it down the Feywild. Of course.",
+        "",
+        "%% u2232:0-32, u2233:0-22 %%",
+        "DM: Some of the great sky ships were lost during the Riving.",
+        "",
+        "%% u2234:0-10, u2235:0-24, u2236:0-15, u2237:0-39 %%",
+        "Seeker: We met one, long since crashed there, in the realm of it—was that in Amberglow or Shimmersong?",
+        "",
+        "%% u2238:0-67 %%",
+        "DM: That was in the the boundary between Shimmersong and Fortune's Rest.",
+        "",
+        "%% u2239:0-5 %%",
+        "Unknown: Here.",
+        "",
+        "%% u2240:0-28, u2241:0-38, u2242:0-28 %%",
+        "DM: Well, should anyone bear it, one of the dwarves would be my choice. Be careful with such things.",
+        "",
+        "%% u2243:0-13 %%",
+        "Seeker: It's an honor."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: There is a story I encountered one night late in an ancient library in a dusty tome that, for all I knew could be the stories of a untethered, imagining brain, or could well be the true histories of our ancient past, but it told of a party of adventurers brave and powerful ones, who found themselves proudly in possession of a castle. But not an ordinary one. For this castle could rise above the earth and transport them from place to place.",
+          "Seeker: And in this way this party of some, some scaly and some winged adventurers, a became embroiled in a number of complex adventures, which I will not—I bring you through the entire thread of, but suffice to say, that with the help of this wonderful castle they brought down the dragon and brought an end to the Great War itself and are remembered as heroes.",
+          "DM: He looks. It looks towards Seeker again, sort of turning back and and sort of positioning himself so that his back is to Wellby as best he can, and sits and looks towards you again. He says, you are opaque to me. Do you leave no mark on history? Or a mark so great it blots out everything else? Or is your future not of this world?",
+          "Seeker: I have been to many worlds.",
+          "DM: You have. He looks again at Seeker, and he's like he's trying to focus, there is a something in the air."
+        ],
+        "after": [
+          "DM: He looks sort of relaxed, and. There was one crashed on the plains below too in northern Drankor.",
+          "Unknown: And.",
+          "Seeker: Really?",
+          "Delwath: Was it? Perhaps, I'll describe what, what we know of what it looked like.",
+          "DM: Yes, the elves built a tower there. Some, Drankorian mages, I think, live there once. I spoke to them occasionally. Wonder what's happened to it?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "The crashed skyship and Hralgar’s missing sight",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2244",
+        "endUid": "u2293"
+      },
+      "lines": [
+        "%% u2244:0-29, u2245:0-13, u2246:0-14, u2247:0-36 %%",
+        "DM: He looks sort of relaxed, and. There was one crashed on the plains below too in northern Drankor.",
+        "",
+        "%% u2248:0-3 %%",
+        "Unknown: And.",
+        "",
+        "%% u2249:0-6 %%",
+        "Seeker: Really?",
+        "",
+        "%% u2250:0-15, u2251:0-18, u2252:0-7, u2253:0-28 %%",
+        "Delwath: Was it? Perhaps, I'll describe what, what we know of what it looked like.",
+        "",
+        "%% u2254:0-35, u2255:0-4, u2256:0-26, u2257:0-16, u2258:0-29, u2259:0-29 %%",
+        "DM: Yes, the elves built a tower there. Some, Drankorian mages, I think, live there once. I spoke to them occasionally. Wonder what's happened to it?",
+        "",
+        "%% u2260:0-5, u2261:0-23, u2262:0-4, u2263:0-14 %%",
+        "DM: Can't, can't feel it now. It's. Just it's like it's—",
+        "",
+        "%% u2264:0-61 %%",
+        "Seeker: Gone. Wait! Are we talking about the Storm Caller Tower now?",
+        "",
+        "%% u2265:0-11 %%",
+        "DM: Yeah, yeah.",
+        "",
+        "%% u2266:0-6, u2267:0-15, u2268:0-2, u2269:0-20, u2270:0-35, u2271:0-16 %%",
+        "Delwath: Passed by it recently. We—would you like some—you could— We could show it to you, bring you there.",
+        "",
+        "%% u2272:0-19 %%",
+        "DM: If only I could see.",
+        "",
+        "%% u2273:0-4 %%",
+        "Unknown: With.",
+        "",
+        "%% u2274:0-13 %%",
+        "DM: Reaches out I—",
+        "",
+        "%% u2275:0-27 %%",
+        "Delwath: What happened to your eyes?",
+        "",
+        "%% u2276:0-16, u2277:0-6, u2278:0-5, u2279:0-16, u2280:0-27, u2281:0-15, u2282:0-49, u2283:0-27, u2284:0-53 %%",
+        "DM: He looks down at Kenzo. After Jorundr came, I— I woke up, and it was dark. Strangest thing. Can feel the sun, and as he says that it suddenly becomes brighter in the sky. Like it goes from early morning to midday in a blink.",
+        "",
+        "%% u2285:0-5 %%",
+        "Seeker: Whoa.",
+        "",
+        "%% u2286:0-35, u2287:0-27, u2288:0-5 %%",
+        "DM: He turns. It's warm on my face, but, it seems always night to me. In my.",
+        "",
+        "%% u2289:0-1 %%",
+        "Unknown: I.",
+        "",
+        "%% u2290:0-8, u2291:0-17, u2292:0-21, u2293:0-47 %%",
+        "DM: Cloud or rain or wind, and, I can't remember when. Sighs to himself. Please tell your story, dwarf."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: We met one, long since crashed there, in the realm of it—was that in Amberglow or Shimmersong?",
+          "DM: That was in the the boundary between Shimmersong and Fortune's Rest.",
+          "Unknown: Here.",
+          "DM: Well, should anyone bear it, one of the dwarves would be my choice. Be careful with such things.",
+          "Seeker: It's an honor."
+        ],
+        "after": [
+          "Riswynn: It. When I first met these fellow travelers I was seeking to find an object that held the stories of my people of my clan. And in dedicating myself to my gods, I have been chosen for other voyages, looking to complete unfinished old stories.",
+          "Riswynn: And in my journey, to a a different world, one way that I was guided through that place was with an object of power, but I didn't understand it until I talked to the people who were trapped there.",
+          "Riswynn: And it reminded me of having been other times in my travels, where people in also in a restricted place, actually had the key to describing the objects, the places, the tools that would set them free.",
+          "Riswynn: And so, in the dwarven space where I was traveling, they needed to connect to an object of our dwarven gods and then people were released, and I was able to travel with them and help them start new lives in a different time and place than when they had started. But, to a happy conclusion for them.",
+          "Riswynn: And in other parts of my travels I've been given information by an authority, that certain objects, being in a certain place, would be key to another type of release. And so my journeys continue to be, having objects be where they ought to be for people to be free."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "Riswynn’s tale of release and the flickering dream",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e026",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e027",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e028",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e033",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2294",
+        "endUid": "u2410"
+      },
+      "lines": [
+        "%% u2294:0-16, u2295:0-43, u2296:0-19, u2297:0-41, u2298:0-3, u2299:0-2, u2300:0-20, u2301:0-15, u2302:0-11, u2303:0-26, u2304:0-2, u2305:0-8, u2306:0-23 %%",
+        "Riswynn: It. When I first met these fellow travelers I was seeking to find an object that held the stories of my people of my clan. And in dedicating myself to my gods, I have been chosen for other voyages, looking to complete unfinished old stories.",
+        "",
+        "%% u2307:0-17, u2308:0-23, u2309:0-18, u2310:0-25, u2311:0-8, u2312:0-19, u2313:0-79 %%",
+        "Riswynn: And in my journey, to a a different world, one way that I was guided through that place was with an object of power, but I didn't understand it until I talked to the people who were trapped there.",
+        "",
+        "%% u2314:0-21, u2315:0-6, u2316:0-30, u2317:0-5, u2318:0-6, u2319:0-2, u2320:0-26, u2321:0-20, u2322:0-38, u2323:0-9, u2324:0-25 %%",
+        "Riswynn: And it reminded me of having been other times in my travels, where people in also in a restricted place, actually had the key to describing the objects, the places, the tools that would set them free.",
+        "",
+        "%% u2325:0-14, u2326:0-13, u2327:0-5, u2328:0-16, u2329:0-25, u2330:0-30, u2331:0-3, u2332:0-65, u2333:0-83, u2334:0-3, u2335:0-10, u2336:0-20 %%",
+        "Riswynn: And so, in the dwarven space where I was traveling, they needed to connect to an object of our dwarven gods and then people were released, and I was able to travel with them and help them start new lives in a different time and place than when they had started. But, to a happy conclusion for them.",
+        "",
+        "%% u2337:0-3, u2338:0-33, u2339:0-22, u2340:0-15, u2341:0-4, u2342:0-42, u2343:0-15, u2344:0-24, u2345:0-33, u2346:0-40, u2347:0-22 %%",
+        "Riswynn: And in other parts of my travels I've been given information by an authority, that certain objects, being in a certain place, would be key to another type of release. And so my journeys continue to be, having objects be where they ought to be for people to be free.",
+        "",
+        "%% u2348:0-59, u2349:0-46, u2350:0-15 %%",
+        "DM: He turns, and he stands again, and he like faces out to the, out the giant windows. ((Persuasion check))",
+        "",
+        "%% u2351:0-19 %%",
+        "Riswynn: I was the first one.",
+        "",
+        "%% u2352:0-26, u2353:0-21, u2354:0-6, u2355:0-27, u2356:0-98 %%",
+        "DM: He turns, and he looks out the the window and he closes his eyes and sort of leans. And he sort of leans into the wind a little bit, and and you can see there is a faint wind blowing.",
+        "",
+        "%% u2357:0-6, u2358:0-5, u2359:0-49 %%",
+        "DM: And he like looks like he's sort of concentrating or thinking.",
+        "",
+        "%% u2360:0-3 %%",
+        "Unknown: At.",
+        "",
+        "%% u2361:0-28 %%",
+        "DM: Why are there no clouds here?",
+        "",
+        "%% u2362:0-29, u2363:0-8, u2364:0-31, u2365:0-40, u2366:0-31 %%",
+        "Delwath: When I was—Delwath—when I was trapped—the dimension I was trapped in, that's what struck me the most about it. The sameness each day the same.",
+        "",
+        "%% u2367:0-3 %%",
+        "Unknown: She.",
+        "",
+        "%% u2368:0-11, u2369:0-6, u2370:0-11, u2371:0-8, u2372:0-3, u2373:0-65 %%",
+        "Delwath: Each moment seemed to me to be my life. But the patterns repeated over and over again. Nothing truly changed.",
+        "",
+        "%% u2374:0-31, u2375:0-29, u2376:0-11, u2377:0-25, u2378:0-11, u2379:0-37 %%",
+        "Delwath: There was never any weather, no events, not from my own mind. Or from the imaginings of my own mind. It was hard to realize that's what was happening.",
+        "",
+        "%% u2380:0-22, u2381:0-25, u2382:0-17, u2383:0-7, u2384:0-70, u2385:0-10, u2386:0-16, u2387:0-32, u2388:0-15 %%",
+        "Delwath: Of course it was quite, even harder, I think, for Yezali the tanshi for the more power one has, the harder it is to imagine you might be trapped. Of course. A as much power, but even they were trapped here. Not here, there.",
+        "",
+        "%% u2389:0-14, u2390:0-3, u2391:0-11, u2392:0-39, u2393:0-5, u2394:0-28 %%",
+        "Delwath: Trapped there. And I think the hardest thing was realizing it was not truly a place that one could stay.",
+        "",
+        "%% u2395:0-37, u2396:0-12, u2397:0-16, u2398:0-59, u2399:0-49 %%",
+        "DM: He turns and he looks out the window. And he says, time passes here, day, and it turns bright and night, and it's black and day, and it's dawn again, and night and day and night.",
+        "",
+        "%% u2400:0-22, u2401:0-73, u2402:0-25, u2403:0-28, u2404:0-101 %%",
+        "DM: The sun flickering and, not, and setting and rising and setting in rapid succession as he speaks. And I can feel the storm, I can feel its power raging. He reaches out his hand, and he, like clenches his fist. I can feel the lightning striking the ground.",
+        "",
+        "%% u2405:0-4 %%",
+        "Unknown: Like.",
+        "",
+        "%% u2406:0-26, u2407:0-45 %%",
+        "DM: Pushes forward. I can feel the wind and the rain tearing the land apart.",
+        "",
+        "%% u2408:0-8, u2409:0-67, u2410:0-22 %%",
+        "DM: Yet here, it is, night and day, and it starts flickering again night and day. And I can see nothing."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: He looks down at Kenzo. After Jorundr came, I— I woke up, and it was dark. Strangest thing. Can feel the sun, and as he says that it suddenly becomes brighter in the sky. Like it goes from early morning to midday in a blink.",
+          "Seeker: Whoa.",
+          "DM: He turns. It's warm on my face, but, it seems always night to me. In my.",
+          "Unknown: I.",
+          "DM: Cloud or rain or wind, and, I can't remember when. Sighs to himself. Please tell your story, dwarf."
+        ],
+        "after": [
+          "Delwath: Metagame for a minute. Do we have any actual goal here?",
+          "Wellby: Yeah, I—",
+          "Delwath: Hey, can I take a swing, like— Are we trying to get him to leave the tower?",
+          "Riswynn: Yeah, I—do we need him to leave the Tower? Do we just need it to be calm, so that we, when we go back and put his eyes in, he doesn't like, burst out, and like, whack us all.",
+          "Wellby: I do. Great, as I know I, no, I I think that's the thing, too, though. Wellby will say, trying to appeal to his ego without overdoing it."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "Hralgar demands his eyes and tells his own story",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e032",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2424",
+        "endUid": "u2590"
+      },
+      "lines": [
+        "%% u2424:0-48 %%",
+        "Wellby: You know the answers to these questions already.",
+        "",
+        "%% u2425:0-35 %%",
+        "Seeker: You have the strength to face them.",
+        "",
+        "%% u2426:0-37, u2427:0-42, u2428:0-35 %%",
+        "Wellby: There's no one more powerful than you, in a 1,000 miles. There's no one more able to find his way back home than you.",
+        "",
+        "%% u2429:0-16, u2430:0-40, u2431:0-68 %%",
+        "Wellby: If we find a way to restore your sight to you once again, will you find your way out of this place and back to the storm again?",
+        "",
+        "%% u2432:0-79, u2433:0-20, u2434:0-72, u2435:0-16, u2436:0-25, u2437:0-26 %%",
+        "DM: He turns, and he stands, and he stares at you, and draws himself up to his full height, which he has not really done before, and his hair begins to stream behind him, and he lifts his voice. And he looks down at you, and he thinks for a minute.",
+        "",
+        "%% u2438:0-2, u2439:0-30 %%",
+        "Wellby: Is almost 10 times taller than me.",
+        "",
+        "%% u2440:0-5 %%",
+        "Seeker: Nice.",
+        "",
+        "%% u2441:0-32, u2442:0-30, u2443:0-33, u2444:0-49, u2445:0-31, u2446:0-32, u2447:0-24, u2448:0-21 %%",
+        "DM: And he he holds up his hand, and, for a moment there's just this silent calm, and then Kenzo, like, bursts into light lightning flashing through him. And from Kenzo comes this voice, I can see in your friend's mind. I can see what you have. Give me back my eyes.",
+        "",
+        "%% u2449:0-23, u2450:0-25, u2451:0-95 %%",
+        "DM: Reaches out for Wellby, and begins to lift you up, unless you try and dodge. You could probably dance out of the way actually, because he's blind.",
+        "",
+        "%% u2452:0-54, u2453:0-41, u2454:0-23, u2455:0-47, u2456:0-58 %%",
+        "Wellby: I won't. Actually, I'm going to not resist at all. I'm. I'm gonna lean on what the Wizard told me, a few 1,000 miles away, that storm giants are nothing if not honorable, and that's at the core of who he is. And I'm going to say.",
+        "",
+        "%% u2457:0-16, u2458:0-25, u2459:0-76, u2460:0-38, u2461:0-83 %%",
+        "Wellby: We've met before. We promised to find them. And we traveled from one side of this continent to another to retrieve them, we've come back again to set you free. Do you have the strength to find your way back home again when we give them to you?",
+        "",
+        "%% u2462:0-5 %%",
+        "Unknown: Nice.",
+        "",
+        "%% u2463:0-9, u2464:0-37, u2465:0-82, u2466:0-43, u2467:0-4, u2468:0-4, u2469:0-7 %%",
+        "DM: He turns, and he is like now holding Wellby up, Wellby is like 25 feet off the ground. His hand is like twice as big as as Wellby. I am stronger than all of you put together. Just let me see.",
+        "",
+        "%% u2470:0-15, u2471:0-44, u2472:0-46 %%",
+        "Wellby: Then promise us you'll find a way back into the world again that leaves both us and you unharmed and whole.",
+        "",
+        "%% u2473:0-20, u2474:0-6, u2475:0-28, u2476:0-104, u2477:0-23, u2478:0-21, u2479:0-57 %%",
+        "DM: Pauses for a minute. Trying, like trying to breathe. Just, the wind picks up slightly, but there's no cloud. There's no thunder there's nothing just a slight wind. And he shakes his head. You don't understand. Nothing is so simple as you little folk would have it be.",
+        "",
+        "%% u2480:0-6, u2481:0-43, u2482:0-53, u2482:53-83, u2483:0-14 %%",
+        "((Table clarification and brief cross-talk))",
+        "",
+        "%% u2484:0-27 %%",
+        "Seeker: What's happening with Kenzo?",
+        "",
+        "%% u2485:0-39, u2486:0-17 %%",
+        "DM: Kenzo is still like flashing lightning. But has sat down.",
+        "",
+        "%% u2487:0-43, u2488:0-45, u2489:0-26, u2490:0-32 %%",
+        "Wellby: I'll say telepathically to the rest of you, it's like there's a fight going on inside him, between who he is and some, twisted, ghostly version of him.",
+        "",
+        "%% u2491:0-32, u2492:0-37, u2493:0-52 %%",
+        "Seeker: Is there more to this assistant than there seems? Is it a coincidence that the assistant arrives, and he is trapped or no?",
+        "",
+        "%% u2494:0-79, u2495:0-25, u2496:0-33 %%",
+        "DM: As you're speaking as you're saying this, he then interrupts your thought as he, like grasps you and says, I know you have them. Let me see.",
+        "",
+        "%% u2497:0-50, u2498:0-51, u2499:0-19, u2500:0-19 %%",
+        "Delwath: Said this was more complicated than we understood. And you also promised a story in exchange for ours. Tell us your story. Make us understand.",
+        "",
+        "%% u2501:0-4 %%",
+        "Unknown: Nice.",
+        "",
+        "%% u2502:0-2, u2503:0-17, u2504:0-53 %%",
+        "DM: A, it is a fair deal. He like closes his eyes. He does not put down Wellby.",
+        "",
+        "%% u2505:0-5, u2506:0-19, u2507:0-26, u2508:0-14, u2509:0-85, u2510:0-51, u2511:0-22 %%",
+        "DM: For a second, you all see, just briefly, like a giant chained to the top room of the tower, arms stretched like up on the walls with these massive chains. And it flicks, and then it flicks back to the tower, and then flicks again.",
+        "",
+        "%% u2512:0-30, u2513:0-10, u2514:0-22, u2515:0-53 %%",
+        "DM: I have roamed these plains for centuries traveling as the storm bringing tales on the wind to those who would listen.",
+        "",
+        "%% u2516:0-10, u2517:0-17, u2518:0-10, u2519:0-9, u2520:0-8, u2521:0-11, u2522:0-10, u2523:0-44, u2524:0-16, u2525:0-4, u2526:0-32, u2527:0-22, u2528:0-28 %%",
+        "DM: I remember, the vast forests, I remember, the elven kingdom, Alcarinquë, stretching as far as the eye could see, the great trees reaching the sky, out, listening to the news I brought. I was young then, just recently come into my power.",
+        "",
+        "%% u2529:0-5 %%",
+        "((Table clarification and brief cross-talk))",
+        "",
+        "%% u2530:0-20, u2531:0-25, u2532:0-4, u2533:0-43, u2534:0-47 %%",
+        "DM: After the elves fell, I grew bored of the land. Came, to watch the little people scurrying across the plains. Their cities growing and shrinking—",
+        "",
+        "%% u2535:0-5 %%",
+        "((Table clarification and brief cross-talk))",
+        "",
+        "%% u2536:0-34, u2537:0-6, u2538:0-11, u2539:0-17 %%",
+        "DM: Armies marching across the plains. Little did I care. And why should I?",
+        "",
+        "%% u2540:0-46, u2541:0-21, u2542:0-14, u2543:0-46, u2544:0-21, u2545:0-22, u2546:0-25, u2547:0-39, u2548:0-19, u2549:0-6, u2550:0-85 %%",
+        "DM: Stone born? Maybe, yes, they had tales to tell. The dwarves of Ardith, far below here, their passageways, and long roads in the deep. Some would come, yes. Ask me questions about magic and the future, and, there was little good in those visions. Destruction, chaos. Blood. The dwarves stopped coming. They didn't want to hear about the fall of their kingdom.",
+        "",
+        "%% u2551:0-30, u2552:0-33, u2553:0-43 %%",
+        "DM: I know not now whether that is, yet to come, or has already been. Don't know if either of you are from Ardith.",
+        "",
+        "%% u2554:0-8 %%",
+        "Unknown: Has been.",
+        "",
+        "%% u2555:0-3, u2556:0-26 %%",
+        "DM: He, but the wizards of Drankor.",
+        "",
+        "%% u2557:0-34, u2558:0-87, u2559:0-25, u2560:0-32, u2561:0-49, u2562:0-47, u2563:0-23 %%",
+        "DM: I the promise of secrets that even, even the strongest of my people knew not all the secrets unlocked by the magic of those arcanists and artificers. So I was drawn to speak to them. Many would listen, some knew not the way to hear. Others would just flee before the thunderstorm. And then it is a blur I.",
+        "",
+        "%% u2564:0-15, u2565:0-79 %%",
+        "DM: He like goes to, goes to like, put Wellby down, and his arm is just like—he cannot move his arm.",
+        "",
+        "%% u2566:0-14, u2567:0-21, u2568:0-41, u2569:0-13, u2570:0-33, u2571:0-13, u2572:0-12, u2573:0-6 %%",
+        "DM: I know this is. No, this is not real. I can see the flow of time in loops here. I can see the ripples that you just make in the fabric as you walk in your. Looks.",
+        "",
+        "%% u2574:0-4, u2575:0-35, u2576:0-24, u2577:0-29, u2578:0-21, u2579:0-6, u2580:0-24, u2581:0-57 %%",
+        "DM: This creature who is me, and yet not me, pointing at Kenzo, seems the strangest of all. Somehow he is familiar to me. I have dreamed of him, I think. Or he has dreamed of me I cannot remember which is which.",
+        "",
+        "%% u2582:0-7, u2583:0-37, u2584:0-30, u2585:0-38, u2586:0-57, u2587:0-7, u2588:0-19, u2589:0-39, u2590:0-35 %%",
+        "DM: And yet, he like, tries to move his other hand, cannot see what holds me here. I cannot see how to break these bonds. You say you are honorable. You have gone to great lengths to save, to save me. And yet. Why will you not give me back my sight? Let me at least see what you bring."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Yeah, I—",
+          "Delwath: Hey, can I take a swing, like— Are we trying to get him to leave the tower?",
+          "Riswynn: Yeah, I—do we need him to leave the Tower? Do we just need it to be calm, so that we, when we go back and put his eyes in, he doesn't like, burst out, and like, whack us all.",
+          "Wellby: I do. Great, as I know I, no, I I think that's the thing, too, though. Wellby will say, trying to appeal to his ego without overdoing it.",
+          "Seeker: Nice."
+        ],
+        "after": [
+          "Riswynn: Did you connect with it here, or connect with it elsewhere to the greatest benefit?",
+          "Delwath: Is he still holding Wellby?",
+          "DM: He, not he like, can't move his arms now he's like standing like this with his arms. Yes, Wellby is still, I mean. Wellby could climb down. You still have. Well, actually you probably don't really have any. Well, time doesn't really pass here, so. I will say you still have time on your wings.",
+          "Seeker: Nice.",
+          "DM: I know of nowhere else, or."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i021",
+      "title": "The bargain to restore Hralgar’s eyes",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2642",
+        "endUid": "u2708"
+      },
+      "lines": [
+        "%% u2642:0-12, u2643:0-24, u2644:0-3, u2645:0-30, u2646:0-8, u2647:0-6, u2648:0-15, u2649:0-34, u2650:0-13, u2651:0-16, u2652:0-23, u2653:0-10, u2654:0-26, u2655:0-33, u2656:0-24 %%",
+        "Delwath: Delwath will, sort of step forward and, and kind of apologetically, almost, explain, it is, one must always tread cautiously when dealing with great powers. Especially those imprisoned or otherwise, in danger. Please do trust us that we have every intention of returning what was taken from you.",
+        "",
+        "%% u2657:0-3, u2658:0-16, u2659:0-3, u2660:0-8, u2661:0-23 %%",
+        "Delwath: But, how do we do it? And, can you? How do we do it safely?",
+        "",
+        "%% u2662:0-6, u2663:0-7, u2664:0-29, u2665:0-26 %%",
+        "((Gathering thoughts and the player’s return))",
+        "",
+        "%% u2666:0-22 %%",
+        "Riswynn: Last time we were here—",
+        "",
+        "%% u2667:0-2, u2668:0-50, u2669:0-6, u2670:0-75, u2671:0-47, u2672:0-58 %%",
+        "Delwath: At, Kenzo, our companion, who is now under your spell, helped ease your suffering, and enough such that we could leave this place and see the room of the tower where you are imprisoned. Let us leave again, and your eyes will be returned to you.",
+        "",
+        "%% u2673:0-8, u2674:0-42, u2675:0-14, u2676:0-45, u2677:0-47, u2678:0-13, u2679:0-39, u2680:0-11, u2681:0-31, u2682:0-23 %%",
+        "DM: He looks in the direction that you're speaking from, and he, and he, like tries to. He like stumbles to his knees, still seemingly unable to use his hands. ((Wellby’s balance saving throw))",
+        "",
+        "%% u2683:0-48, u2684:0-11, u2685:0-8, u2686:0-9, u2687:0-33, u2688:0-19, u2689:0-24, u2690:0-18, u2691:0-30 %%",
+        "DM: And he sort of leans down as close as he can get to Delwath. There is no safety from the evil that was done here. But if I could see, perhaps I could aid you. And you would have my favor should you need that.",
+        "",
+        "%% u2692:0-6, u2693:0-49, u2694:0-38, u2695:0-38, u2696:0-72, u2697:0-110 %%",
+        "((Gathering thoughts and the player’s return))",
+        "",
+        "%% u2698:0-9, u2699:0-31, u2700:0-15, u2701:0-22, u2702:0-38 %%",
+        "DM: ((The returning player)) So as he turns, Hralgar turns and says, again, “If I could see I could aid you.”",
+        "",
+        "%% u2703:0-35, u2704:0-28, u2705:0-4, u2706:0-22, u2707:0-42, u2708:0-25 %%",
+        "DM: And he reaches forward, and he says, he like, closes his eyes and, bows, bows his head briefly. And he like seems to be meditating almost. It is not easy to let go."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Mostly pretty good ones.",
+          "Delwath: The—",
+          "Unknown: It okay.",
+          "Delwath: At, Delwath will, say, what were you about to—",
+          "Riswynn: That last time we were here, he snapped out of it enough to say, “Get my eyes and bring them back, and that'll set me free.” And so we sort of expected him to get to that level again, and then we could just like, get. We've got them. We'll go put them back right now. But that level didn't get back. But I think we're probably at an okay level."
+        ],
+        "after": [
+          "DM: And the like lightning that's all around Kenzo begins to fade, and Kenzo's eyes snap open. And you are sitting, you're confused for a moment, because you're 30 feet tall, or for like 30 s. You believe that you should be 30 feet tall. But you're in this tiny 6 foot body, and it makes like your, like your, you know, proprioception, everything. It's just like, totally thrown off.",
+          "DM: And this rush of memories comes back to you, I, studying with Hralgar as a as a giant up in the mountains, leaving saying goodbye to him, and then, hearing later that he was captured, that the Drankorians had taken him, had done something. Whether it was, in aid of Apollon, or some desperate attempt to fight against him, or, unrelated to Apollon's rule you. You don't know you never heard.",
+          "DM: But as you, as you set out, across the plains of Drankor the farms and the river valleys to come find your mentor see what was done to him. A choking red mist began to spread across the land, and you fell. You remember dying.",
+          "DM: And as you snap back to Kenzo. You remember the experience Kenzo had in the Land of the Dead and more recently your experience in Motua. Yeah, and it all snaps together. And you look up. You don't know how you got here.",
+          "Kenzo: Perfect for that."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i022",
+      "title": "Kenzo remembers Jorundr and Hralgar’s binding",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e030",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e029",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2709",
+        "endUid": "u2779"
+      },
+      "lines": [
+        "%% u2709:0-62, u2710:0-27, u2711:0-20, u2712:0-37, u2713:0-20, u2714:0-62, u2715:0-59, u2716:0-63, u2717:0-19 %%",
+        "DM: And the like lightning that's all around Kenzo begins to fade, and Kenzo's eyes snap open. And you are sitting, you're confused for a moment, because you're 30 feet tall, or for like 30 s. You believe that you should be 30 feet tall. But you're in this tiny 6 foot body, and it makes like your, like your, you know, proprioception, everything. It's just like, totally thrown off.",
+        "",
+        "%% u2718:0-44, u2719:0-2, u2720:0-58, u2721:0-59, u2722:0-16, u2723:0-24, u2724:0-30, u2725:0-14, u2726:0-36, u2727:0-32, u2728:0-64 %%",
+        "DM: And this rush of memories comes back to you, I, studying with Hralgar as a as a giant up in the mountains, leaving saying goodbye to him, and then, hearing later that he was captured, that the Drankorians had taken him, had done something. Whether it was, in aid of Apollon, or some desperate attempt to fight against him, or, unrelated to Apollon's rule you. You don't know you never heard.",
+        "",
+        "%% u2729:0-11, u2730:0-14, u2731:0-6, u2732:0-21, u2733:0-34, u2734:0-23, u2735:0-25, u2736:0-51, u2737:0-13, u2738:0-19 %%",
+        "DM: But as you, as you set out, across the plains of Drankor the farms and the river valleys to come find your mentor see what was done to him. A choking red mist began to spread across the land, and you fell. You remember dying.",
+        "",
+        "%% u2739:0-58, u2740:0-34, u2741:0-43, u2742:0-32, u2743:0-20, u2744:0-27 %%",
+        "DM: And as you snap back to Kenzo. You remember the experience Kenzo had in the Land of the Dead and more recently your experience in Motua. Yeah, and it all snaps together. And you look up. You don't know how you got here.",
+        "",
+        "%% u2745:0-17 %%",
+        "((Brief player response))",
+        "",
+        "%% u2746:0-79, u2747:0-67 %%",
+        "DM: You know you're—you remember this place. This is like the dream world vision of Hralgar's Mountain palace that you've been in once before long ago.",
+        "",
+        "%% u2748:0-41, u2749:0-3, u2750:0-55, u2751:0-20, u2752:0-7, u2753:0-13, u2754:0-62, u2755:0-18, u2756:0-8, u2757:0-128 %%",
+        "DM: And you have these like scattered flashes, out, of chains growing out of the wall of powerful magic, of, an incantation being chanted in Drankorian, the words: “I bind you now forever here with chains unbreakable, until magic falls. Or until, the first words of Nelawe's the Lament for Lost Thunder are spoken by a human of these lands to free you from your imprisonment.”",
+        "",
+        "%% u2758:0-17, u2759:0-43, u2760:0-15, u2761:0-11, u2762:0-21, u2763:0-12, u2764:0-22, u2765:0-33 %%",
+        "DM: And then you feel, you have a memory of your mind being split, retreating here, part of you, trapped in the statue, bound to it. Part of you here free, creating this world for yourself.",
+        "",
+        "%% u2766:0-23, u2767:0-28, u2768:0-24, u2769:0-3, u2770:0-21, u2771:0-74, u2772:0-18, u2773:0-22 %%",
+        "DM: And you feel flashes of time passing endlessly until there is a searing pain, and you can no longer see. You feel your eyes being like ripped out of your head in this dream world. And then the anger, and the storm growing.",
+        "",
+        "%% u2774:0-15, u2775:0-4, u2776:0-54, u2777:0-10, u2778:0-44, u2779:0-55 %%",
+        "DM: And your memory, shot. All this like comes back in a rush as Kenzo returns to the world. And you see now, Hralgar, looking up at you. Looking down at you. Sorry you're looking up at Hralgar."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Oh, my awesome timing, perfect timing.",
+          "Kenzo: What happened? Because I was sleeping. Or apparently doing other things, lightning all shooting out of my eyes.",
+          "Delwath: Kenzo's possessed by the giant. But, Tim, go ahead. You've been. You've been here with us the whole time. Yes.",
+          "DM: So Kenzo, oh, my God, this is so perfect. So as he turns, Hralgar turns and says, again, “If I could see I could aid you.”",
+          "DM: And he reaches forward, and he says, he like, closes his eyes and, bows, bows his head briefly. And he like seems to be meditating almost. It is not easy to let go."
+        ],
+        "after": [
+          "Kenzo: All in the dream we're all in this this. This the dreamscape.",
+          "Unknown: Yeah.",
+          "Kenzo: Are. Where are the—where is the party?",
+          "DM: Wellby is standing on Hralgar's hand, about 30 feet in the sky. Seeker, Riswynn, and Delwath are like seated, or like standing around by Hralgar's feet.",
+          "Kenzo: And where am I?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i023",
+      "title": "Remembering and reciting the Lament for Lost Thunder",
+      "entities": [
+        {
+          "id": "e030",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e029",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2806",
+        "endUid": "u2895"
+      },
+      "lines": [
+        "%% u2806:0-85 %%",
+        "Wellby: How did we get out of here last time? I don't remember, did we? We just went back to—",
+        "",
+        "%% u2806:85-149 %%",
+        "DM: Back the way you came. The stairs lead right back to the tower.",
+        "",
+        "%% u2806:149-261 %%",
+        "Kenzo: Wait, but metagame aren't I supposed to say some words because I'm a human from the land of the thing it's got?",
+        "",
+        "%% u2807:0-54 %%",
+        "Wellby: Whoa! What are those words? Again? What are those from?",
+        "",
+        "%% u2808:0-39 %%",
+        "Seeker: Lament of the Lost Thunder or something?",
+        "",
+        "%% u2809:0-5 %%",
+        "Riswynn: Teen?",
+        "",
+        "%% u2810:0-61 %%",
+        "Wellby: That's not in the book of poetry that we sold in Darba. Is it?",
+        "",
+        "%% u2811:0-8 %%",
+        "Unknown: Probably.",
+        "",
+        "%% u2812:0-28, u2813:0-8 %%",
+        "Seeker: Tim. Is that a familiar work to any?",
+        "",
+        "%% u2813:8-21, u2814:0-4, u2815:0-67 %%",
+        "DM: Yes, Nelawe's—that that is definitely one of the poems in Nelawe's Lyrics of a New Age.",
+        "",
+        "%% u2816:0-23 %%",
+        "Seeker: That we no longer have.",
+        "",
+        "%% u2817:0-164, u2818:0-31 %%",
+        "Delwath: But we have a sending spell, and we know people who work in libraries out. We probably are. But I mean Delwath read that book a fair bit. I bet you he remembers it. It's just the first line, right?",
+        "",
+        "%% u2819:0-20 %%",
+        "Seeker: First lines. I think.",
+        "",
+        "%% u2820:0-23, u2821:0-6 %%",
+        "DM: It said the first first lines.",
+        "",
+        "%% u2822:0-41, u2823:0-45, u2824:0-29 %%",
+        "Delwath: It was a book of Elvish poetry wasn't it? Yeah, Delwath, Delwath probably remembers it. I I bet, and he remembers it.",
+        "",
+        "%% u2825:0-91, u2826:0-87, u2827:0-5, u2828:0-117, u2829:0-111, u2830:0-17, u2831:0-30, u2832:0-40, u2833:0-46, u2834:0-38, u2835:0-40, u2836:0-28, u2837:0-10, u2838:0-31, u2839:0-15, u2840:0-134, u2841:0-17, u2842:0-33, u2843:0-13, u2844:0-40, u2845:0-20, u2846:0-15, u2847:0-109, u2848:0-52, u2849:0-88, u2850:0-154, u2851:0-2, u2852:0-105, u2853:0-2, u2854:0-2, u2855:0-42, u2856:0-53, u2857:0-273, u2858:0-40, u2859:0-26, u2860:0-18, u2861:0-63, u2862:0-15, u2863:0-33, u2864:0-20, u2865:0-9, u2866:0-43, u2867:0-15, u2868:0-80, u2869:0-10, u2870:0-12, u2871:0-43, u2872:0-11, u2873:0-6, u2874:0-29, u2875:0-13, u2876:0-7, u2877:0-63, u2878:0-9, u2879:0-17, u2880:0-17, u2881:0-56 %%",
+        "((Return downstairs, retrieval, preparations, recall checks and locating the poem))",
+        "",
+        "%% u2882:0-83, u2883:0-69, u2884:0-5, u2885:0-47, u2886:0-20 %%",
+        "DM: You think it's something like: “Gone are the days of giants striding thunder in hand, earth unchanging dreams of ancient lore. The sky's ablaze with storm. Their gaze upon the distant cloud on which they soar.” Something like that.",
+        "",
+        "%% u2887:0-15, u2888:0-19 %%",
+        "Seeker: It seems right. That's probably it.",
+        "",
+        "%% u2889:0-49 %%",
+        "Delwath: Yeah, that sounds right. I'll tell that to Kenzo.",
+        "",
+        "%% u2890:0-18, u2891:0-2, u2892:0-1, u2893:0-27 %%",
+        "Kenzo: I will recite that, as—I—as Wellby inserts the eyes.",
+        "",
+        "%% u2894:0-104, u2895:0-30 %%",
+        "Seeker: Well, I think the dwarves are doing the eyes. Right? Yeah, take one. So they're they're big they're like, like full-sized bowling balls."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Successfully? So far.",
+          "DM: Kenzo, Hralgar is still at this moment kind of meditating.",
+          "Unknown: At—",
+          "Delwath: Does it look like there's a way out?",
+          "Unknown: Wait."
+        ],
+        "after": [
+          "DM: Several things happen at once, as you. Well, I mean the eyes there's not like an easy. They don't like slide there's not like pockets that they easily slide into right. It's like. Something strange is happening with a statue like the stone has filled in, or something like that.",
+          "DM: Or it was, it's not entirely clear exactly, but. So you begin to like, try, and like, you know, I, shake the eyes.",
+          "Seeker: And we have not done anything with the binding stones at this point.",
+          "DM: Begin to like, try and figure out. It's like clear like they don't really quite fit like, sort of, I don't know. Take your hammer and like, try and, smash it a little bit. Try and like, arrange things that the eyes will fit.",
+          "DM: You hear the the walls begin to like, become, yeah, like, lightning is beginning to collect around the walls now. And you hear, app thrashing almost what sounds like, wrestling, from upstairs like the giant is like kicking and tossing around."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i024",
+      "title": "The eyes do not fit the statue; a ghost attacks Hralgar",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e032",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2894",
+        "endUid": "u2943"
+      },
+      "lines": [
+        "%% u2894:0-104, u2895:0-30 %%",
+        "Seeker: Well, I think the dwarves are doing the eyes. Right? Yeah, take one. So they're they're big they're like, like full-sized bowling balls.",
+        "",
+        "%% u2896:0-30, u2897:0-147, u2898:0-98 %%",
+        "DM: Several things happen at once, as you. Well, I mean the eyes there's not like an easy. They don't like slide there's not like pockets that they easily slide into right. It's like. Something strange is happening with a statue like the stone has filled in, or something like that.",
+        "",
+        "%% u2899:0-10, u2900:0-36, u2901:0-46, u2902:0-1, u2903:0-15 %%",
+        "DM: Or it was, it's not entirely clear exactly, but. So you begin to like, try, and like, you know, I, shake the eyes.",
+        "",
+        "%% u2904:0-67 %%",
+        "Seeker: And we have not done anything with the binding stones at this point.",
+        "",
+        "%% u2905:0-88, u2906:0-7, u2907:0-48, u2908:0-74 %%",
+        "DM: Begin to like, try and figure out. It's like clear like they don't really quite fit like, sort of, I don't know. Take your hammer and like, try and, smash it a little bit. Try and like, arrange things that the eyes will fit.",
+        "",
+        "%% u2909:0-9, u2910:0-35, u2911:0-10, u2912:0-55, u2913:0-13, u2914:0-3, u2915:0-33, u2916:0-9, u2917:0-36, u2918:0-27 %%",
+        "DM: You hear the the walls begin to like, become, yeah, like, lightning is beginning to collect around the walls now. And you hear, app thrashing almost what sounds like, wrestling, from upstairs like the giant is like kicking and tossing around.",
+        "",
+        "%% u2919:0-29 %%",
+        "Wellby: I'm going to head straight up.",
+        "",
+        "%% u2920:0-17, u2921:0-54, u2922:0-3, u2923:0-14, u2924:0-74 %%",
+        "DM: You run up, back, appearing back in the cloudscape, and you can see that. The ghostly figure, there's like a ghostly version of Hralgar that is like separated from him.",
+        "",
+        "%% u2925:0-92, u2926:0-43, u2927:0-47, u2928:0-9 %%",
+        "DM: And has his hands around. The ghost has his hands around Hralgar's neck and Hralgar is like, sort of kind of struggling, looking around. Trying to like, find a weapon or something. But, can't see.",
+        "",
+        "%% u2929:0-5, u2930:0-16 %%",
+        "Delwath: Bring, yeah, we need to—",
+        "",
+        "%% u2931:0-19 %%",
+        "DM: Slumps to one knee.",
+        "",
+        "%% u2932:0-79 %%",
+        "Delwath: Can somebody go get the eyes very quickly and bring them into the dream world?",
+        "",
+        "%% u2933:0-17 %%",
+        "Seeker: Riswynn, let's go.",
+        "",
+        "%% u2934:0-39 %%",
+        "Riswynn: All right. We run into the dream world.",
+        "",
+        "%% u2935:0-46 %%",
+        "Wellby: Try and attack the ghost version of him in the—",
+        "",
+        "%% u2936:0-15 %%",
+        "Riswynn: [cross-talk].",
+        "",
+        "%% u2937:0-34, u2938:0-18, u2939:0-30 %%",
+        "DM: As you run up into the dream world, carrying the eyes, they begin to pulse with life.",
+        "",
+        "%% u2940:0-40, u2941:0-45, u2942:0-6, u2943:0-122 %%",
+        "DM: And as you run forwards towards Hralgar, trying to get the eyes to him as Delwath and Wellby begin to attack the ghost version. I'm going to probably stop there. Okay, that's a good point we maybe should stop there."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: No, no, it's better than that. Oh, I put it in the book.",
+          "DM: You think it's something like: “Gone are the days of giants striding thunder in hand, earth unchanging dreams of ancient lore. The sky's ablaze with storm. Their gaze upon the distant cloud on which they soar.” Something like that.",
+          "Seeker: It seems right. That's probably it.",
+          "Delwath: Yeah, that sounds right. I'll tell that to Kenzo.",
+          "Kenzo: I will recite that, as—I—as Wellby inserts the eyes."
+        ],
+        "after": [
+          "Delwath: Well, it's 1215 now. I need to go to bed. I have a I have a, like super long meeting at 8 tomorrow morning that I have to be sharp for.",
+          "Wellby: Nice. So, cliffhanger time it is. But we gotta schedule.",
+          "DM: Yes, we have to schedule.",
+          "Wellby: Well in our plan to try it on the statue, and then give them back to him. If that didn't work.",
+          "Delwath: Well, it's successfully. Exactly."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

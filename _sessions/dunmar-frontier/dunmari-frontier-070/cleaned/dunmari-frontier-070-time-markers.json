@@ -1,0 +1,401 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-070",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-session.yaml",
+    "sessionYamlSha256": "da5fe487c58f849c426d19ce16965c391c47c36c029cc1cc9913ca52f391129d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-transcript.md",
+    "transcriptSha256": "7d3eda88c65caa7ffb24580c3b905654ad755d59646c8134c2c081c9f1fc9a27",
+    "yamlDates": {
+      "start": "1748-11-23",
+      "end": "1748-11-23"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0074",
+        "endUid": "u0079"
+      },
+      "reading": "The party is outside the storm in mid-afternoon; darkness is storm cover.",
+      "evidence": [
+        {
+          "startUid": "u0074",
+          "endUid": "u0079",
+          "quote": "So it's mid afternoon, although where you are is dark"
+        }
+      ],
+      "time": {
+        "partOfDay": "mid-afternoon",
+        "precision": "approximate",
+        "basis": "DM states the part of day; no calendar date is spoken."
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0074",
+        "endUid": "u0079"
+      },
+      "reading": "About an hour of scouting and magical investigation has already elapsed at the camp.",
+      "evidence": [
+        {
+          "startUid": "u0074",
+          "endUid": "u0079",
+          "quote": "And you've spent the past, I don't know, hour or so, scouting and using magic to try and see what's in the storm."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Retrospective elapsed scouting, explicitly narrated by the DM."
+      },
+      "completion": "completed",
+      "actors": [
+        "Kenzo",
+        "Seeker",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0311",
+        "endUid": "u0316"
+      },
+      "reading": "The party follows Kenzo through the storm: five minutes, then 20–30, about 45, about an hour, and later at least an hour, perhaps two. These are cumulative journey checkpoints.",
+      "evidence": [
+        {
+          "startUid": "u0311",
+          "endUid": "u0316",
+          "quote": "after you've gone even 5 min, you can't see your way out."
+        },
+        {
+          "startUid": "u0337",
+          "endUid": "u0344",
+          "quote": "this this goes on for the next 20, 30 min."
+        },
+        {
+          "startUid": "u0345",
+          "endUid": "u0356",
+          "quote": "after you've gone for maybe 45 min."
+        },
+        {
+          "startUid": "u0524",
+          "endUid": "u0537",
+          "quote": "You've been running for about an hour."
+        },
+        {
+          "startUid": "u0738",
+          "endUid": "u0747",
+          "quote": "you've been traveling now for at least an hour or more. It's hard to say. Maybe maybe 2 h."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Seeker",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "duration": {
+        "min": 1,
+        "minInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM cumulative elapsed estimate at the last checkpoint; two hours is a possibility, not a firm upper bound."
+      },
+      "completion": "completed",
+      "note": "No independent duration is given for the remaining approach to the cliff; do not sum the checkpoints."
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0663",
+        "endUid": "u0674"
+      },
+      "reading": "Wellby experiences a brief disembodied interval as the winds show him the mantle; its subjective minute does not independently date the distant castle.",
+      "evidence": [
+        {
+          "startUid": "u0663",
+          "endUid": "u0674",
+          "quote": "And for a minute you feel as if you are floating outside your body entirely I just drifting on the wind."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "context": "vision",
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM describes the subjective floating interval as a minute."
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0733",
+        "endUid": "u0733"
+      },
+      "reading": "Wellby is abruptly returned to his body after the mantle vision.",
+      "evidence": [
+        {
+          "startUid": "u0733",
+          "endUid": "u0733",
+          "quote": "DM: Oh, that's it now. Wellby's got a splitting headache and is clutching his head as he was suddenly dislocated back into his body."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t03"
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1604",
+        "endUid": "u1610"
+      },
+      "reading": "The party enters Hralgar's dream palace. The DM later states that time does not really pass here, preserving flight despite the long conversation.",
+      "evidence": [
+        {
+          "startUid": "u1604",
+          "endUid": "u1610",
+          "quote": "DM: So you're not that surprised, when you ascend the stairs and find yourself emerging into a mountaintop palace."
+        },
+        {
+          "startUid": "u2746",
+          "endUid": "u2747",
+          "quote": "DM: You know you're—you remember this place. This is like the dream world vision of Hralgar's Mountain palace that you've been in once before long ago."
+        },
+        {
+          "startUid": "u2596",
+          "endUid": "u2601",
+          "quote": "Well, time doesn't really pass here, so. I will say you still have time on your wings."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Seeker",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "context": "vision",
+      "note": "The dream is a separately narrated frame; local sunlight and stories do not establish adventure-clock elapsed time."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1909",
+        "endUid": "u1926"
+      },
+      "reading": "Delwath's narrated story to Hralgar takes approximately an hour within the dream frame.",
+      "evidence": [
+        {
+          "startUid": "u1909",
+          "endUid": "u1926",
+          "quote": "And Delwath will digress on the topic of prisons for a couple of minutes"
+        },
+        {
+          "startUid": "u2016",
+          "endUid": "u2025",
+          "quote": "I mean the story probably takes an hour, I'm not going to, each of the sort of experiences of each of these tanshi being freed."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Seeker",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "context": "vision",
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Player estimates the completed storytelling interval; the later DM statement suspends the adventure clock here."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t06"
+        }
+      ],
+      "note": "The opening digression is nested in the approximately hour-long tale; it is not added again to elapsed time."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2276",
+        "endUid": "u2284"
+      },
+      "reading": "The dream sun changes from early morning to midday in a blink; this is an apparent local-clock change, not measured elapsed adventure time.",
+      "evidence": [
+        {
+          "startUid": "u2276",
+          "endUid": "u2284",
+          "quote": "Can feel the sun, and as he says that it suddenly becomes brighter in the sky. Like it goes from early morning to midday in a blink."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Seeker",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "context": "vision",
+      "timeRange": {
+        "start": {
+          "partOfDay": "early morning",
+          "precision": "approximate",
+          "basis": "Description of the dream sky before the instantaneous change."
+        },
+        "end": {
+          "partOfDay": "midday",
+          "precision": "approximate",
+          "basis": "Description of the changed dream sky."
+        }
+      }
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2395",
+        "endUid": "u2399"
+      },
+      "reading": "Hralgar describes repeated days and nights while the dream sun visibly sets and rises in rapid succession; no count of civil date transitions is established.",
+      "evidence": [
+        {
+          "startUid": "u2395",
+          "endUid": "u2399",
+          "quote": "DM: He turns and he looks out the window. And he says, time passes here, day, and it turns bright and night, and it's black and day, and it's dawn again, and night and day and night."
+        },
+        {
+          "startUid": "u2400",
+          "endUid": "u2404",
+          "quote": "DM: The sun flickering and, not, and setting and rising and setting in rapid succession as he speaks. And I can feel the storm, I can feel its power raging. He reaches out his hand, and he, like clenches his fist. I can feel the lightning striking the ground."
+        },
+        {
+          "startUid": "u2408",
+          "endUid": "u2410",
+          "quote": "DM: Yet here, it is, night and day, and it starts flickering again night and day. And I can see nothing."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Seeker",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2836",
+        "endUid": "u2838"
+      },
+      "reading": "All five PCs leave the dream and return to the statue in the tower.",
+      "evidence": [
+        {
+          "startUid": "u2828",
+          "endUid": "u2829",
+          "quote": "Wellby: You know, we we need to move. We need to do this quickly. He's. Yeah, he's struggling. Yeah, go down the stairs. Yes.\n\nRiswynn: Agreed all 5 of us. Yes, we told him we were going to go down the stairs all 5 of us, so he won't be surprised."
+        },
+        {
+          "startUid": "u2836",
+          "endUid": "u2838",
+          "quote": "DM: So you head down the stairs.\n\nWellby: Yeah, yes.\n\nDM: You're back where the statue is."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Seeker",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t01"
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u2920",
+        "endUid": "u2924"
+      },
+      "reading": "Wellby returns upstairs into the dream; Seeker and Riswynn follow carrying the eyes, with Delwath also attacking there at the cutoff.",
+      "evidence": [
+        {
+          "startUid": "u2919",
+          "endUid": "u2924",
+          "quote": "Wellby: I'm going to head straight up.\n\nDM: You run up, back, appearing back in the cloudscape, and you can see that. The ghostly figure, there's like a ghostly version of Hralgar that is like separated from him."
+        },
+        {
+          "startUid": "u2933",
+          "endUid": "u2943",
+          "quote": "Seeker: Riswynn, let's go.\n\nRiswynn: All right. We run into the dream world.\n\nWellby: Try and attack the ghost version of him in the—\n\nRiswynn: [cross-talk].\n\nDM: As you run up into the dream world, carrying the eyes, they begin to pulse with life.\n\nDM: And as you run forwards towards Hralgar, trying to get the eyes to him as Delwath and Wellby begin to attack the ghost version. I'm going to probably stop there. Okay, that's a good point we maybe should stop there."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Seeker",
+        "Delwath",
+        "Wellby",
+        "Riswynn"
+      ],
+      "context": "vision",
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t06"
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No current-play calendar date is independently spoken. November 23, 1748 is conditional on the session YAML; early-morning and midday sunlight belong only to the dream.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": 0,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t10",
+      "t11"
+    ],
+    "explanation": "The continuous afternoon approach, brief tower encounter, dream visit with explicitly suspended external time, and immediate returns cover the same adventure day. Historical lifetimes and dream sun cycles do not extend the session span. This matches the one-day YAML interval conditionally, without independently verifying its absolute date."
+  }
+}
