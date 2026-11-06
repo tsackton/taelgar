@@ -1,0 +1,1404 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-121/cleaned/dunmari-frontier-121-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "1b062b9ee1d606ae8cb4142486bea1b7aebab6de3cc6f312eeadacc360b654c0"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-121/cleaned/dunmari-frontier-121-entity-map.json",
+      "sha256": "c8171d834e517de2a8597c4c41310f7b137d8999022033cd49c8af9d798b3d86"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Arendel’s duel recalled",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0041",
+        "endUid": "u0044"
+      },
+      "lines": [
+        "%% u0041:0-39, u0042:0-106 %%",
+        "DM: While there you spoke to several people including a Lord Soven himself as well as the brash duelist Arendel, who defeated Delwath in single combat.",
+        "",
+        "%% u0043:0-3 %%",
+        "Seeker: Oh!",
+        "",
+        "%% u0044:0-97 %%",
+        "DM: Consequence of which Delwath had to spend the next 2 days telling stories, but he seemed popular.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: How's it going?",
+          "Kenzo: A.",
+          "Seeker: Yeah.",
+          "Kenzo: E.",
+          "DM: We pick up flying across the plains of Emberwine, having left the, the hall of Lord Soven, the master of revels, and the, and the lord of this fey domain, having spent—after the party had spent, you know, it's hard to say exactly how long. It seemed like maybe 2 days. But it's difficult to carefully track time in these fey parties."
+        ],
+        "after": [
+          "DM: Count Vashan, known as the Broken Mask, a former courtier of the Cloud Spinner, who was somehow involved in betraying her, and had come to Emberwine to drown his sorrows and forget his previous life completely, which he nearly succeeded in doing, until Kenzo's cleansing touch dragged him back for a moment.",
+          "DM: And the satyr Valeris, cursed to be brutally honest in every word that he says, unable to tell even a harmless white lie, or even hide his true feelings about anything, who decided to join you in seeking the restoration of the Cloud Spinner under the theory that only a truly selfless act could break his curse.",
+          "DM: And Esmara, a fey scholar from a place called Gleamwater, writing a book on the mundane World, who decided to travel with you for at least a little bit of time to take notes on the peoples of the mundane world while she had the chance.",
+          "DM: So as we begin, your—the—yeah, the material plane.",
+          "DM: So we begin as you are flying on multicolored griffins, with heads of parrots and peacocks instead of eagles."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "The Broken Mask recalled",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0045",
+        "endUid": "u0052"
+      },
+      "lines": [
+        "%% u0045:0-60, u0046:0-77, u0047:0-45, u0048:0-75, u0049:0-47 %%",
+        "DM: Count Vashan, known as the Broken Mask, a former courtier of the Cloud Spinner, who was somehow involved in betraying her, and had come to Emberwine to drown his sorrows and forget his previous life completely, which he nearly succeeded in doing, until Kenzo's cleansing touch dragged him back for a moment.",
+        "",
+        "%% u0049:47-60, u0050:0-153, u0051:0-93, u0052:0-48 %%",
+        "((Valeris’s separate introduction))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: E.",
+          "DM: We pick up flying across the plains of Emberwine, having left the, the hall of Lord Soven, the master of revels, and the, and the lord of this fey domain, having spent—after the party had spent, you know, it's hard to say exactly how long. It seemed like maybe 2 days. But it's difficult to carefully track time in these fey parties.",
+          "DM: While there you spoke to several people including a Lord Soven himself as well as the brash duelist Arendel, who defeated Delwath in single combat.",
+          "Seeker: Oh!",
+          "DM: Consequence of which Delwath had to spend the next 2 days telling stories, but he seemed popular."
+        ],
+        "after": [
+          "DM: And Esmara, a fey scholar from a place called Gleamwater, writing a book on the mundane World, who decided to travel with you for at least a little bit of time to take notes on the peoples of the mundane world while she had the chance.",
+          "DM: So as we begin, your—the—yeah, the material plane.",
+          "DM: So we begin as you are flying on multicolored griffins, with heads of parrots and peacocks instead of eagles.",
+          "Seeker: We're out.",
+          "DM: Except Wellby, who finally took the time here in the Feywild to train the wyvern that's been trapped in the mirror for I—almost a year now, and he is flying on the Wyvern, hoping it doesn't get enraged and turn on him, but for the moment under control."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "News from Chardon and the armies",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0071",
+        "endUid": "u0098"
+      },
+      "lines": [
+        "%% u0071:0-76, u0072:0-60, u0073:0-70, u0074:0-72, u0075:0-81, u0076:0-60 %%",
+        "DM: Flickers and pieces of news back from Chardon comes to Riswynn via the crown: riots, led by a group calling themselves the Eightfold Flame; arson against the Chalyte industry, fighting in the streets, rumors of the Eightfold Flame taking the law into their own hands and trying under suspicious circumstances, anyone suspected to be connected with the chalyte trade, and with the magistrates still, as far as anybody knows, in—",
+        "",
+        "%% u0077:0-98, u0078:0-51 %%",
+        "DM: The magistrate, as far as everybody knows, is still in Darba, negotiating the surrender of Karnas. Who is in control of Chardon is not entirely clear.",
+        "",
+        "%% u0079:0-35 %%",
+        "Delwath: Wait. Who is Karnas surrendering to?",
+        "",
+        "%% u0080:0-38 %%",
+        "DM: The magistrate, the leader of Chardon.",
+        "",
+        "%% u0081:0-68, u0082:0-34 %%",
+        "Delwath: And Sura's like—just so we don't really know what's happening with— we don't really know what happened.",
+        "",
+        "%% u0083:0-79 %%",
+        "DM: The north. There, there were 2 armies that left from Chardon. There was the navy,",
+        "",
+        "%% u0084:0-6 %%",
+        "Delwath: Right.",
+        "",
+        "%% u0085:0-32, u0086:0-79, u0087:0-87, u0088:0-61, u0089:0-55 %%",
+        "DM: Led by Karnas, and there was the the legions. The general of the legions was controlled by Fausto via the Crown. As soon as you took the crown, the general, who was marching against Sura, surrendered, and is now making his way slowly back to Chardon, hunting the fragments of the Cleansed that broke off from his army.",
+        "",
+        "%% u0090:0-41, u0091:0-94, u0092:0-35, u0093:0-65 %%",
+        "DM: However, the navy was never under control of the Cleansed or of Fausto, and, in fact, Fausto tried to delay the navy with Doppel-Wellby, but still sailed, and they defeated Karnas outside of Darba, and lay siege to Darba, and then landed.",
+        "",
+        "%% u0094:0-15, u0095:0-101 %%",
+        "DM: So Sura is now— There's no fighting in anywhere in Chardon or anywhere in Dunmar. But Sura effectively won because of—",
+        "",
+        "%% u0096:0-6 %%",
+        "Delwath: Right.",
+        "",
+        "%% u0097:0-118, u0098:0-85 %%",
+        "DM: You're saying to the general, 'Turn around now,' whereas Karnas effectively lost because the Chardon navy is quite well equipped to defeat Karnas—Dunmar, I mean. Dunmar doesn't even really have a navy. So.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Except Wellby, who finally took the time here in the Feywild to train the wyvern that's been trapped in the mirror for I—almost a year now, and he is flying on the Wyvern, hoping it doesn't get enraged and turn on him, but for the moment under control.",
+          "Wellby: It was a good wyvern.",
+          "DM: As you fly, passing over the rolling fields, heading east towards the Sunset Gate, and then turning north to seek Red Sun Watch, where, according to the stories you heard in Lord Soven's court, the secret to finding the Prismwell still can be found. It just requires breaking the darkness with true sunlight, in order to illuminate the path, although exactly how to illuminate the path, and where the darkness must be broken, is not immediately clear.",
+          "Kenzo: So.",
+          "DM: As you travel."
+        ],
+        "after": [
+          "DM: On the Crown, I mean, you've—several fey have also mentioned, like, you have to learn how to use it before it decides to just keep going. How Fausto controlled it, right? Like, Riswynn hasn't figured out how to—",
+          "Delwath: Right.",
+          "Riswynn: Did I make any progress while I was sort of resting at the court of the— I told you I was gonna try to meditate and pray on it a lot. Not spiraling anymore out of touch with it. If I'm trying, that's my point.",
+          "DM: It's complicated. I mean, right? You can sort of—you're sort of keeping things roughly under control in the sense that, you know, your— there, like, you're—you're not getting— you're not, like, being sucked into the— you know, the—yeah. Sorry. I'm not sure what I'm—you're not getting sucked into the— sorry. Just—",
+          "Riswynn: Version of things."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Riswynn and the Crown’s inherited purpose",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0099",
+        "endUid": "u0125"
+      },
+      "lines": [
+        "%% u0099:0-66, u0100:0-52, u0101:0-87 %%",
+        "DM: On the Crown, I mean, you've—several fey have also mentioned, like, you have to learn how to use it before it decides to just keep going. How Fausto controlled it, right? Like, Riswynn hasn't figured out how to—",
+        "",
+        "%% u0102:0-6 %%",
+        "Delwath: Right.",
+        "",
+        "%% u0103:0-71, u0104:0-29, u0105:0-30, u0106:0-75 %%",
+        "Riswynn: Did I make any progress while I was sort of resting at the court of the— I told you I was gonna try to meditate and pray on it a lot. Not spiraling anymore out of touch with it. If I'm trying, that's my point.",
+        "",
+        "%% u0107:0-100, u0108:0-18, u0109:0-13, u0110:0-37, u0111:0-37, u0112:0-18, u0113:0-63, u0114:0-11 %%",
+        "DM: It's complicated. I mean, right? You can sort of—you're sort of keeping things roughly under control in the sense that, you know, your— there, like, you're—you're not getting— you're not, like, being sucked into the— you know, the—yeah. Sorry. I'm not sure what I'm—you're not getting sucked into the— sorry. Just—",
+        "",
+        "%% u0115:0-17 %%",
+        "Riswynn: Version of things.",
+        "",
+        "%% u0116:0-112, u0117:0-33 %%",
+        "DM: Right, but you don't have any idea like it's not clear that just by studying it you can, you know, invent how to like turn it to your own purpose.",
+        "",
+        "%% u0118:0-118, u0119:0-35 %%",
+        "DM: Right? This is probably something you need, you know. You need to—somebody to show you how to do, or some—to find some clue somewhere, or, I mean, normally,",
+        "",
+        "%% u0120:0-151 %%",
+        "DM: Your feeling, the way—I mean, the way the Crown works normally, if you reject it and it just vanishes, then it sort of resets to its factory conditions.",
+        "",
+        "%% u0121:0-290, u0122:0-197, u0123:0-73 %%",
+        "DM: And the next person who picks it up slowly merges with it and learns how to use it. But it's been in the, you know—it's been passed down from, you know, one leader of the Cleansed to the next leader, like, leader of the Cleansed, for like 150 years, and it's very strongly set in the, like, you know, mind control frame. And so you could just, you could, you know, reset it to factory conditions, and it would skip off somewhere until it was found again. Or you need some kind of powerful information, some sort of powerful way to sort of wrench it back yourself.",
+        "",
+        "%% u0124:0-98 %%",
+        "Riswynn: Okay, that's why it's not sort of just molding to me like it does when it's at factory conditions.",
+        "",
+        "%% u0125:0-61 %%",
+        "DM: I mean, it is a little bit, right? Like, its appearance changed.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Led by Karnas, and there was the the legions. The general of the legions was controlled by Fausto via the Crown. As soon as you took the crown, the general, who was marching against Sura, surrendered, and is now making his way slowly back to Chardon, hunting the fragments of the Cleansed that broke off from his army.",
+          "DM: However, the navy was never under control of the Cleansed or of Fausto, and, in fact, Fausto tried to delay the navy with Doppel-Wellby, but still sailed, and they defeated Karnas outside of Darba, and lay siege to Darba, and then landed.",
+          "DM: So Sura is now— There's no fighting in anywhere in Chardon or anywhere in Dunmar. But Sura effectively won because of—",
+          "Delwath: Right.",
+          "DM: You're saying to the general, 'Turn around now,' whereas Karnas effectively lost because the Chardon navy is quite well equipped to defeat Karnas—Dunmar, I mean. Dunmar doesn't even really have a navy. So."
+        ],
+        "after": [
+          "DM: So you are flying east towards the sunset. From your fey guides, they probably tell you it's probably handful of days journey, although nobody can ever really predict how long any journey will take in the Feywild.",
+          "DM: So I guess the question, you know, is there anything you want to do over the next couple of days?",
+          "Seeker: If.",
+          "Wellby: I think it'd be useful like just to get as much of the lay of the land of the Feywild as possible, like trying to understand the different courts, and where things are. And this is just sort of Wellby's curiosity. I don't think we need to role play through it all, but just kind of understanding the Feywild, understanding that against like what we know already, and trying to put together like a rough map of the place, almost.",
+          "DM: Anybody else?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Esmara on scholarship and changing realms",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0143",
+        "endUid": "u0209"
+      },
+      "lines": [
+        "%% u0143:0-70, u0144:0-89, u0145:0-28, u0146:0-82, u0147:0-66 %%",
+        "Seeker: Oh, and Seeker will spend some time flying alongside the scholar who's writing his book on the mundane world, thinking to perhaps in a tit for tat way, exchange his own experiences with the quirks and arcana and oddities of the mundane world that he can explain in detail, or who knows what insights from this one who's a fey scholar, right?",
+        "",
+        "%% u0148:0-47, u0149:0-185 %%",
+        "DM: Yeah, she's a she's from Gleamwater, which is a a fey city, unlike a lot of the places you've been in, the Feywild, like a city with canals and buildings and libraries and things that seems to be somewhere about like where Chardon is.",
+        "",
+        "%% u0150:0-46 %%",
+        "Seeker: Oh, so yeah, I'll learn about that when I can.",
+        "",
+        "%% u0151:0-80, u0152:0-31, u0153:0-37 %%",
+        "Seeker: And, for example, is there any kind of connection to chalyte that crosses planes? Is there a chalyte analog here? There are {{an orphan kins}} out here?",
+        "",
+        "%% u0154:0-10, u0155:0-18, u0156:0-9, u0157:0-4 %%",
+        "((Brief interjections))",
+        "",
+        "%% u0158:0-65 %%",
+        "Seeker: Tenured university fey—are there fey universities? There must be.",
+        "",
+        "%% u0159:0-113, u0160:0-48 %%",
+        "DM: Yeah, so she's—she's very curious about Seeker as you're flying next to each other, kind of talking as the, as the— no, no, Chalyte is a very much not a fey thing.",
+        "",
+        "%% u0161:0-47, u0162:0-47, u0163:0-45 %%",
+        "DM: As, as you're talking and sort of flying, she's, you know, she's taking notes, very curious about just the idea of like scholarship in general.",
+        "",
+        "%% u0164:0-59, u0165:0-56, u0166:0-76 %%",
+        "DM: And she talks a lot about how, you know, Gleamwater does not— it's not like there's a university, there's not. I mean, time works differently, right? Fey don't age in the same way that people age.",
+        "",
+        "%% u0167:0-47, u0168:0-62, u0169:0-65, u0170:0-37, u0171:0-101 %%",
+        "DM: There's not—you don't write down books because— things in books, because you have to preserve history exactly, and the archfey have been the archfey since ever. Like, there's not— the world doesn't change the way that that the mundane world changes, and that's actually what fascinates her about the mundane world. It's—",
+        "",
+        "%% u0172:0-101, u0173:0-119, u0174:0-63, u0175:0-97, u0176:0-45, u0177:0-40 %%",
+        "DM: She gets to talk, you know, Seeker got a start in scholarship, in part by curiosity about these, like cataclysmic changes in ley lines and mountains and things like that. And she's just totally fascinated by this process. And it's not like the Feywild is static. It just doesn't change in that sort of cataclysmic way. It changes because the archfey changes. It changes because, fine, you know, somebody—a new, you know, an archfey conquers a new domain, or there's a new—",
+        "",
+        "%% u0178:0-54, u0179:0-34, u0180:0-61, u0181:0-75 %%",
+        "DM: There's a new archfey, I mean. She tells you about the in her part of the world, there's a— there's a fey realm called Fate's Ruin, that a long time ago— again, she says it's not clear how to describe time exactly, but in the past—",
+        "",
+        "%% u0182:0-18, u0183:0-69, u0184:0-50, u0185:0-97 %%",
+        "DM: It was a place of— I never traveled there long ago, but it is said it—it was a place of great beauty, where there were many sculptures and statues, and the land itself formed works of art, rising up from the ground until the Baron came.",
+        "",
+        "%% u0186:0-39, u0187:0-53, u0188:0-71, u0189:0-47 %%",
+        "DM: Many of people call him the Rust Baron, and it became a place steeped in decay, a place where everything, no matter how great, eventually crumbles to dust with time, and that time happens at the touch of the Baron.",
+        "",
+        "%% u0190:0-35 %%",
+        "Seeker: And so, where there once used to be—",
+        "",
+        "%% u0191:0-95 %%",
+        "DM: Great statues and enormous mountains carved into beautiful shapes. There is now crumbling dust.",
+        "",
+        "%% u0192:0-69 %%",
+        "DM: So things change, but not because time passes, because the fae change.",
+        "",
+        "%% u0193:0-54 %%",
+        "Seeker: Does she know about the whole Cloud Spinner situation?",
+        "",
+        "%% u0194:0-67, u0195:0-41, u0196:0-97 %%",
+        "DM: Yeah, I mean, everybody knows about the Cloud Spinner disappearing. I don't think you told anybody other than— I actually can't remember if you told her about. You definitely told the satyr about your mission.",
+        "",
+        "%% u0197:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u0198:0-41 %%",
+        "Riswynn: I don't think we did. We told the earlier—",
+        "",
+        "%% u0199:0-53, u0200:0-83, u0201:0-81 %%",
+        "Seeker: But speaking in hypotheticals, if some brave party of very powerful and attractive adventurers were to restore the Cloud Spinner to power, that would actually change the structure of the Feywild itself, you're suggesting?",
+        "",
+        "%% u0202:0-15, u0203:0-84, u0204:0-37 %%",
+        "DM: Oh, yes, I mean, I haven't been to Amberglow. It's too dangerous for the likes of me, I must say, but heard it's a place bleached of color.",
+        "",
+        "%% u0205:0-3 %%",
+        "Seeker: Oh!",
+        "",
+        "%% u0206:0-57, u0207:0-31, u0208:0-77, u0209:0-15 %%",
+        "DM: Even though the afternoon golden light still shines, it's black and white. And, of course, should the Cloud Spinner return, so would the color that lights up her realm. So many reasons.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So—",
+          "Riswynn: Oh, over the course—",
+          "DM: Go ahead!",
+          "Riswynn: We always asked for, like, divine advice about some path we're taking, too. Did we? I mean, I guess we already decided that we're going to something Watch instead of the library place, right?",
+          "DM: Yes."
+        ],
+        "after": [
+          "Wellby: Would be bad for the Cloud Spinner to return? Everyone seems to think it would just be great all around, right?",
+          "Seeker: Hmm.",
+          "Riswynn: Yeah.",
+          "DM: Yeah. The, the satyr chimes in here, like, \"I mean, are you an idiot?\"",
+          "Delwath: Like."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Valeris on restoring the Cloud Spinner and eating pie",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0210",
+        "endUid": "u0244"
+      },
+      "lines": [
+        "%% u0210:0-45, u0211:0-64 %%",
+        "Wellby: Would be bad for the Cloud Spinner to return? Everyone seems to think it would just be great all around, right?",
+        "",
+        "%% u0212:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u0213:0-5 %%",
+        "Riswynn: Yeah.",
+        "",
+        "%% u0214:0-65 %%",
+        "DM: Yeah. The, the satyr chimes in here, like, \"I mean, are you an idiot?\"",
+        "",
+        "%% u0215:0-5 %%",
+        "Delwath: Like.",
+        "",
+        "%% u0216:0-53, u0217:0-26 %%",
+        "DM: I guess if you were, you know, a terror of the night, you might think it was bad.",
+        "",
+        "%% u0218:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u0219:0-17, u0220:0-91 %%",
+        "DM: But you know that she was very strong, right? And everybody carving up her realm has been, you know, unhappy.",
+        "",
+        "%% u0221:0-50, u0222:0-52, u0223:0-55 %%",
+        "DM: There are places, of course, where things are more— I don't know—less chaos. I haven't been to them, but I mean Harrow and Wend are about as nasty as they come.",
+        "",
+        "%% u0224:0-48, u0225:0-25 %%",
+        "DM: And it's not like the Gloom Shaper isn't pretty— it's like a friendly guy.",
+        "",
+        "%% u0226:0-40, u0227:0-6, u0228:0-52 %%",
+        "DM: So no, I mean, nothing bad would happen. Great. Not sure why you have to ask such foolish questions.",
+        "",
+        "%% u0229:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u0230:0-26 %%",
+        "Riswynn: You don't like pie either.",
+        "",
+        "%% u0231:0-21 %%",
+        "DM: Who doesn't like pie?",
+        "",
+        "%% u0232:0-77 %%",
+        "DM: Actually, to be honest, pie is like my only 7th favorite dessert, or something.",
+        "",
+        "%% u0233:0-29, u0234:0-19 %%",
+        "Wellby: What's your favorite dessert? Order one through 6.",
+        "",
+        "%% u0235:0-92, u0236:0-74, u0237:0-147 %%",
+        "DM: Well, cookies, they're just so convenient, you know. You can grab a couple and keep dancing. And they go well with wine. Pie, it's just kind of messy, right? You need a— if you're holding your plate and you're eating with a fork, what do you do with your wine glass? Tell me that. What do you do with your wine glass?",
+        "",
+        "%% u0238:0-21, u0239:0-18, u0240:0-41, u0241:0-73 %%",
+        "DM: So cookies, you know. A nice petit four. Any kind of sweet pastry, dessert breads, really anything you can eat in one hand, I would say, is better than pie.",
+        "",
+        "%% u0242:0-42 %%",
+        "Delwath: You've never heard of hand pies, have you?",
+        "",
+        "%% u0243:0-43 %%",
+        "DM: I—that sounds like a fascinating invention.",
+        "",
+        "%% u0244:0-52 %%",
+        "Delwath: Well, tonight I know what we're having after dinner.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: I don't think we did. We told the earlier—",
+          "Seeker: But speaking in hypotheticals, if some brave party of very powerful and attractive adventurers were to restore the Cloud Spinner to power, that would actually change the structure of the Feywild itself, you're suggesting?",
+          "DM: Oh, yes, I mean, I haven't been to Amberglow. It's too dangerous for the likes of me, I must say, but heard it's a place bleached of color.",
+          "Seeker: Oh!",
+          "DM: Even though the afternoon golden light still shines, it's black and white. And, of course, should the Cloud Spinner return, so would the color that lights up her realm. So many reasons."
+        ],
+        "after": [
+          "DM: Now.",
+          "Seeker: Nice.",
+          "DM: So time passes.",
+          "Wellby: Who knows?",
+          "DM: Sun never sets. Of course it just gets slowly dimmer and dimmer as you head east, the sun gradually sinking in the sky as you travel across the land, so it is not straightforward to tell when one day has ended and the next began."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Esmara’s travels and the shape of the Feywild",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e021",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0259",
+        "endUid": "u0280"
+      },
+      "lines": [
+        "%% u0259:0-68, u0260:0-89, u0261:0-72, u0262:0-33 %%",
+        "DM: But you stop to eat occasionally, and Esmara talks about the sort of lands around here that she passed through from the, from the East. She avoided Fate's Ruin; she traveled through the Fortune's Rest, that court of the Chance Weaver, lord of gambling, Prince of Luck.",
+        "",
+        "%% u0263:0-11, u0264:0-13 %%",
+        "Seeker: Been there. Strange place.",
+        "",
+        "%% u0265:0-31, u0266:0-40, u0267:0-71, u0268:0-95, u0269:0-200, u0270:0-74 %%",
+        "DM: She passed through Shimmersong. Where Lord Egon, the Light Dancer, grows— you know, turns crystals into fruits and fruits into gems with a touch, nestled among the mountains, and she turned south through Everlight's Bloom, a realm of endless afternoon light, eternal warmth, where flowers are always in bloom, and the light of the sun turns everything to gold, and everything is locked in stasis as if it's a field of beautiful glass flowers. And then she passed south from there to into Emberwine, where you met her.",
+        "",
+        "%% u0271:0-77, u0272:0-100, u0273:0-76, u0274:0-143 %%",
+        "DM: She gives you some like details, little bits of color about these places, and nobody really maps the Feywild. The geography, distances are not constant. There’s no way to measure exactly how far something is, because there's no fixed distance. Things that take one person a week to travel might take the next person a day to travel, not because they're going faster, but because the distances change.",
+        "",
+        "%% u0275:0-117, u0276:0-72, u0277:0-32, u0278:0-33, u0279:0-56, u0280:0-47 %%",
+        "DM: So she doesn't. She can't really give you a map exactly, but you get a sense of the relationship between things where Shimmersong and Everlight's Bloom are west of Amberglow, West and north. Emberwine is south of Amberglow. And then, going further west from Shimmersong you have Fortune's Rest, and then Gleamwater with Fate's Ruin sort of to the south of those.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Nice.",
+          "DM: So time passes.",
+          "Wellby: Who knows?",
+          "DM: Sun never sets. Of course it just gets slowly dimmer and dimmer as you head east, the sun gradually sinking in the sky as you travel across the land, so it is not straightforward to tell when one day has ended and the next began.",
+          "DM: Sometimes hunger strikes you, but something about the sense of the—yeah, the odors wafting up from the from the vineyards and all of the food and, and you know, revelry you ate, however many days ago it was now, you don't find yourself hungry that often."
+        ],
+        "after": [
+          "DM: Some of this is, you know, is reported in— is consistent with what's reported by— in The Lore of the Feywild.",
+          "Seeker: Right.",
+          "DM: Yeah. So Fate's Fate's Ruin is is described in there as is Fortune's Rest and Shimmersong and and Gleamwater.",
+          "DM: So the conversation ebbs and flows. You find yourself time passing until after a few nights, 3, 4 nights sleep,",
+          "DM: you see ahead of you the Sunset Gate, a massive wall that stretches as far as you can see into the sky, blocking further travel east. The— the light of the sunset itself, crystallized, and frozen into this shimmering wall that gleams and reflects the light in all directions."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "The companions warn against crossing the Sunset Gate",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0296",
+        "endUid": "u0299"
+      },
+      "lines": [
+        "%% u0296:0-151, u0297:0-143, u0298:0-80, u0299:0-204 %%",
+        "DM: You are warned by both Valeris and Esmara that, you know, time in the Feywild, at least, although distances are inconstant and it’s hard to measure time, time flows in a sort of normal way. But crossing the Sunset Gate, all bets are off. You might find yourself crawling through a tunnel, and then, a year later, emerge at the end, even though it only felt like a moment for you. So it is difficult it is. It is risky to just step through the gate at unsupervised crossings, although there are, you know, borders that pass between realms from one side of the Sunset Gate to the other.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Right.",
+          "DM: Yeah. So Fate's Fate's Ruin is is described in there as is Fortune's Rest and Shimmersong and and Gleamwater.",
+          "DM: So the conversation ebbs and flows. You find yourself time passing until after a few nights, 3, 4 nights sleep,",
+          "DM: you see ahead of you the Sunset Gate, a massive wall that stretches as far as you can see into the sky, blocking further travel east. The— the light of the sunset itself, crystallized, and frozen into this shimmering wall that gleams and reflects the light in all directions.",
+          "DM: There are, you know, the occasional gates and tunnels that look like you could sort of push your way through, although—"
+        ],
+        "after": [
+          "Seeker: What is it made of? Is it? Is it like highly reflective, like mirror, surfaced rock?",
+          "DM: Parts of it are highly reflective. Other parts are sort of orange and reds, and and look like solid crystal, and some of it looks like almost like oil paint, just kind of thrown into the sky and stuck there.",
+          "Seeker: The matte painting thing.",
+          "DM: Yeah, yeah, exactly. It looks like a like the matte painting at the back of a movie screen. But it changes as you watch it like it, sort of shimmers and shifts a little bit, some of the reflective parts glowing brightly, and then sort of becoming dull a little bit, and shifting and solidifying and swirling into a new color.",
+          "DM: It's not a fixed thing. It's not— it's not—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Valeris explains Nocturne Vale and asks about selflessness",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e024",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0390",
+        "endUid": "u0419"
+      },
+      "lines": [
+        "%% u0390:0-79, u0391:0-43, u0392:0-50 %%",
+        "DM: Valeris, the satyr feels he has to interject here, although he doesn't want to. You definitely should keep going north, like, that's your quest. You'd be foolish to turn aside.",
+        "",
+        "%% u0393:0-87, u0394:0-49 %%",
+        "DM: But I have to tell you the other side across from Emberwine is not actually Hollowdark. It's Nocturne Vale, where the Duke of Dreams rules.",
+        "",
+        "%% u0395:0-19, u0396:0-23 %%",
+        "Seeker: The Duke of Dreams. And, and what does he do?",
+        "",
+        "%% u0397:0-29 %%",
+        "DM: I don't know. I've never been.",
+        "",
+        "%% u0398:0-33 %%",
+        "Wellby: What if we hit it on the way back?",
+        "",
+        "%% u0399:0-10 %%",
+        "Riswynn: Good idea.",
+        "",
+        "%% u0400:0-54 %%",
+        "DM: You can do whatever you want once my curse is broken.",
+        "",
+        "%% u0401:0-26 %%",
+        "Wellby: Spoken truly, unselfishly.",
+        "",
+        "%% u0402:0-100, u0403:0-22 %%",
+        "Delwath: You're gonna have to work on this selfishness thing to break your curse. You know, practice, practice, practice makes perfect.",
+        "",
+        "%% u0404:0-71, u0405:0-12 %%",
+        "DM: Who's the most unselfish of you? Who should I—who can I follow around? Not everyone.",
+        "",
+        "%% u0406:0-14 %%",
+        "Delwath: Riswynn. Well—",
+        "",
+        "%% u0407:0-7 %%",
+        "Kenzo: Riswynn.",
+        "",
+        "%% u0408:0-4 %%",
+        "Delwath: Wow!",
+        "",
+        "%% u0409:0-44 %%",
+        "Seeker: Riswynn, who somehow ended up with the crown.",
+        "",
+        "%% u0410:0-120 %%",
+        "Delwath: Kenzo's unselfish. As long as you agree with his goals of crushing the chalyte trade, he'd give up a lot for that. Yeah.",
+        "",
+        "%% u0411:0-55 %%",
+        "Kenzo: I would vote Riswynn first, though Riswynn was selfish.",
+        "",
+        "%% u0412:0-119 %%",
+        "Seeker: Delwath is always cooking for everybody, but Riswynn, sort of like, holds down the fort all by herself all the time, so.",
+        "",
+        "%% u0413:0-10 %%",
+        "Wellby: Thank God!",
+        "",
+        "%% u0414:0-38 %%",
+        "Delwath: Doesn't complain when we abandoned her.",
+        "",
+        "%% u0415:0-74, u0416:0-91 %%",
+        "Wellby: I'd make—all of this is true, but I'd also make the case for Seeker, like, it's just pure foolishness and curiosity like there's no, there's no self-interest in that.",
+        "",
+        "%% u0417:0-85 %%",
+        "Seeker: Yeah, I mean, I'm always unselfishly accumulating artifacts and knowledge for myself.",
+        "",
+        "%% u0418:0-2 %%",
+        "Kenzo: Hi.",
+        "",
+        "%% u0419:0-71 %%",
+        "DM: Tried that kind of unselfishness for a really long time it did not work.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: But also, isn't the other side of this, like, the, the guys who almost killed us’ home domain?",
+          "Seeker: It's the bad place. Yeah.",
+          "Wellby: Yeah.",
+          "Seeker: And we're gonna, like, plug up the hole in the wall, I think. Basically, that's what we're trying to do.",
+          "Delwath: Yeah, we're gonna turn—"
+        ],
+        "after": [
+          "Seeker: And.",
+          "Kenzo: They actually—",
+          "DM: Think it's actual—hey, Mike.",
+          "Kenzo: So I don't qualify for sure. See, Seeker's got most—but strong—strongest fae vibes.",
+          "Seeker: Yeah, a little bit, little bit. I'm touched. Touched by the Fae."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Esmara turns south",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0473",
+        "endUid": "u0484"
+      },
+      "lines": [
+        "%% u0473:0-26, u0474:0-78, u0475:0-33, u0476:0-65, u0477:0-93, u0478:0-97, u0479:0-98 %%",
+        "DM: Well, the satyr Valeris is on this quest for better or worse. Esmara, the scholar, is a little uncertain. \"Amberglow is dangerous,\" she says. I meant to come to the Sunset Gate, but I may turn south here and search for a dream warden to lead me across the Nocturne Vale, for we reached the point where we pass from west of Nocturne Vale to west of Hollowdark, and crossing becomes fraught with peril. So, unless anybody has a strong argument to try and convince her, she turns and bids you farewell.",
+        "",
+        "%% u0480:0-5, u0481:0-37, u0482:0-108 %%",
+        "DM: Okay. Having gone far enough to observe the the sort of borderlands between Emberwine and Amberglow, but not quite willing to cross over into Amberglow.",
+        "",
+        "%% u0483:0-38, u0484:0-34 %%",
+        "DM: So as she leaves, you continue flying. As you begin to reach beyond that.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Yes.",
+          "DM: You travel along the Sunset Gate, watching its colors shift and twist and blend with each other, occasionally catching the scent of dreams on the wind, the taste of the colors of the sunset on your tongue, as you make your way north.",
+          "DM: This part of Emberwine is not inhabited really. And you get the sense that this is pretty far from the like center of center of gravity, of Emberwine. There's rolling hills and sort of valleys, but not any. You know the the vineyards that coat most of the the realm don't stretch here, and everything seems quiet in a way that isn't really characteristic of Emberwine elsewhere.",
+          "DM: Almost as if this is sort of the, you know, the nap after the party that transitions into Nocturne Vale.",
+          "DM: Time passes. You sleep. You eat, sleep again, hard, really, to say exactly how long it’s been. But eventually, you reach a point where you begin to see ahead of you, the color sort of bleaching from the land. I assume you're still flying at this point. So this is maybe 50 60 miles away. It's sort of on the edge of what you can see. The the vines fade, the landscape shifts to these rolling hills. The—sorry, the, the—even the plants begin to sort of turn a bit bleached, a bit gray and faded as you begin to push north and—"
+        ],
+        "after": [
+          "DM: Maybe another half day passes or something, and you see a line of hills in front of you. Stark. The sort of yeah bleached plains of Emberwine in the distance. Sunset Gate still there along along the edge. But the colors sort of fracturing now into more grays and whites and everything sort of desaturated. You're still flying! How high up are you flying?",
+          "Wellby: 100 feet.",
+          "Delwath: Yeah, something like that.",
+          "Wellby: Plus or minus.",
+          "Riswynn: Not pretty."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Refusing the giants’ blood toll",
+      "entities": [
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0501",
+        "endUid": "u0565"
+      },
+      "lines": [
+        "%% u0501:0-85, u0502:0-34, u0503:0-14 %%",
+        "DM: And you see below you, sort of walking along the border of, of Amberglow, a group of 4, very large, maybe 15–20 foot tall, humanoids with—",
+        "",
+        "%% u0504:0-3 %%",
+        "Kenzo: So.",
+        "",
+        "%% u0505:0-121, u0506:0-47 %%",
+        "DM: One of them is is carrying a staff that's got like the skull of some sort of creature on the top of it. That's probably a 15 foot tall staff. He's probably 20 feet tall.",
+        "",
+        "%% u0507:0-37, u0508:0-140 %%",
+        "DM: And the other 3 kind of all sort of, you know, one of their eyes—their eyes are sort of, like, twisted and misshapen a little bit. They're not wearing very much: dirty loincloths,",
+        "",
+        "%% u0509:0-119, u0510:0-26, u0511:0-21 %%",
+        "DM: And they're walking along, and as they look up as they see you, and and the one shouts out in a booming, loud voice, in Sylvan, \"Travelers, stop!\" \"You must pay the toll!\"",
+        "",
+        "%% u0512:0-54, u0513:0-5, u0514:0-30, u0515:0-23, u0516:0-97, u0517:0-24, u0518:0-43, u0519:0-30, u0520:0-9, u0521:0-16, u0522:0-47, u0523:0-38, u0524:0-11, u0525:0-3, u0526:0-16, u0527:0-24, u0528:0-5, u0529:0-17, u0530:0-23, u0531:0-9, u0532:0-41, u0533:0-20, u0534:0-48, u0535:0-30 %%",
+        "((Tactics and circling above the giants))",
+        "",
+        "%% u0536:0-38 %%",
+        "Delwath: And I'll shout down, 'What is the toll?'",
+        "",
+        "%% u0537:0-23 %%",
+        "DM: One vial of blood, each.",
+        "",
+        "%% u0538:0-12 %%",
+        "Seeker: Whose blood?",
+        "",
+        "%% u0539:0-49 %%",
+        "DM: Come on, now, don't do something you might regret.",
+        "",
+        "%% u0540:0-39 %%",
+        "Wellby: We're already doing something we might—",
+        "",
+        "%% u0541:0-17 %%",
+        "Delwath: No, I—I—is there—",
+        "",
+        "%% u0542:0-55 %%",
+        "Seeker: Documented knowledge of the use of blood in the Feywild?",
+        "",
+        "%% u0543:0-83 %%",
+        "Delwath: It. There is nothing good that comes of giving giving a fey your blood just nothing.",
+        "",
+        "%% u0544:0-54 %%",
+        "DM: When he says that, Delwath was like, \"I’m not doing that.\"",
+        "",
+        "%% u0545:0-33 %%",
+        "Delwath: Yeah. Nothing good comes of this.",
+        "",
+        "%% u0546:0-10, u0547:0-5, u0548:0-14 %%",
+        "((Brief interjections))",
+        "",
+        "%% u0549:0-94 %%",
+        "Delwath: We'll circle. We'll circle a few more times. Let's go. I'll angle a little higher, 150 feet up.",
+        "",
+        "%% u0550:0-11 %%",
+        "Wellby: Let's leave.",
+        "",
+        "%% u0551:0-13 %%",
+        "Delwath: No, thank you.",
+        "",
+        "%% u0552:0-12 %%",
+        "DM: Last chance!",
+        "",
+        "%% u0553:0-13 %%",
+        "Delwath: We're leaving.",
+        "",
+        "%% u0554:0-16 %%",
+        "DM: Curse you fools!",
+        "",
+        "%% u0555:0-47, u0556:0-35, u0557:0-53, u0558:0-3, u0559:0-5, u0560:0-24, u0561:0-4, u0562:0-67 %%",
+        "((Soul Sight range check))",
+        "",
+        "%% u0563:0-52, u0564:0-20 %%",
+        "DM: No, it's like 60 or 90 feet something like that. But—okay. So you fly off.",
+        "",
+        "%% u0565:0-4 %%",
+        "Delwath: Yep.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: Not pretty.",
+          "Seeker: What was it?",
+          "Wellby: 100 feet, just like just out of short range for a bow shot. Say.",
+          "Seeker: Nice.",
+          "DM: So as you— So as you fly, you you sort of fly across this sort of bleached plain, and and pass over this line of low hills, you know, very low hills, you know, coming no more than a few 100 feet, but like a sort of rolling, jagged landscape."
+        ],
+        "after": [
+          "DM: They don't immediately start to follow you. The satyr kind of looks over at you like, \"It’s really nice to be able to fly.\"",
+          "Seeker: Yeah.",
+          "DM: Starts laughing.",
+          "Seeker: Is that usual in the Feywild, actually?",
+          "DM: Flight?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Valeris on flight and skyships",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e026",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0566",
+        "endUid": "u0591"
+      },
+      "lines": [
+        "%% u0566:0-43, u0567:0-41, u0568:0-34 %%",
+        "DM: They don't immediately start to follow you. The satyr kind of looks over at you like, \"It’s really nice to be able to fly.\"",
+        "",
+        "%% u0569:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u0570:0-16 %%",
+        "DM: Starts laughing.",
+        "",
+        "%% u0571:0-37 %%",
+        "Seeker: Is that usual in the Feywild, actually?",
+        "",
+        "%% u0572:0-7 %%",
+        "DM: Flight?",
+        "",
+        "%% u0573:0-7 %%",
+        "Seeker: Yeah, e—",
+        "",
+        "%% u0574:0-24, u0575:0-87, u0576:0-59 %%",
+        "DM: A little unusual. I mean there's not, I mean, there's there are, of course, some fey that fly right like there's pixies and sprites and things that have wings, and but most.",
+        "",
+        "%% u0577:0-68, u0578:0-77 %%",
+        "DM: The most common Feywild creatures are like them: satyrs and the like, you know, the, the paragons, like Auntie Mulberry, is like humanoid rabbits, and—",
+        "",
+        "%% u0579:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u0580:0-55, u0581:0-101 %%",
+        "DM: You know, other sort of animal folk, and then the, like, just the sort of generic fey that are sort of slightly elven, but none of them—none of them can fly.",
+        "",
+        "%% u0582:0-59 %%",
+        "Seeker: And is there any—has anyone ever heard of a flying vehicle?",
+        "",
+        "%% u0583:0-14 %%",
+        "DM: Flying vehicle?",
+        "",
+        "%% u0584:0-28 %%",
+        "Seeker: A skyship, you might call it.",
+        "",
+        "%% u0585:0-61 %%",
+        "DM: Somebody must have had a skyship at some point in the Feywild.",
+        "",
+        "%% u0586:0-6 %%",
+        "Seeker: Right.",
+        "",
+        "%% u0587:0-88 %%",
+        "Kenzo: I mean, we don't know. Vindristjarna could have been in the Feywild before at some point.",
+        "",
+        "%% u0588:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u0589:0-20 %%",
+        "DM: But the thoughts are—",
+        "",
+        "%% u0590:0-75, u0591:0-96 %%",
+        "DM: Valeris hasn't like heard of any stories or rumors of skyships necessarily. You know, they were always a giant thing, and giants were never really a big part of the Feywild.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Let's see. Wait a minute.",
+          "Kenzo: Yes.",
+          "Riswynn: Because in range for soul sight would be in range for weapons, right?",
+          "DM: No, it's like 60 or 90 feet something like that. But—okay. So you fly off.",
+          "Delwath: Yep."
+        ],
+        "after": [
+          "Seeker: All this does raise the question of why this wall needs to be infinitely tall, but you'd think to prevent a fey rabbit from crossing it, it could be a couple—",
+          "DM: Because otherwise the sunshine might shine into the dark place.",
+          "Wellby: Hmm.",
+          "Seeker: Oh, it's not to keep, you know, creatures out. It's to keep the the beneficent light of the sun away.",
+          "DM: No, it's just I mean it's the border between light and dark. So if it—if it stopped, it's—if it stopped below the height of the sun—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "The unnamed wyvern and its riders",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e027",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0651",
+        "endUid": "u0675"
+      },
+      "lines": [
+        "%% u0651:0-42, u0652:0-22 %%",
+        "Seeker: Tim, that's the—what's the full group now, aside from the 5 of us?",
+        "",
+        "%% u0653:0-29 %%",
+        "DM: Just just Valeris, the satyr.",
+        "",
+        "%% u0654:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u0655:0-58 %%",
+        "DM: That's 6 of you, and you've got one Wyvern, and 5 griffins.",
+        "",
+        "%% u0656:0-21 %%",
+        "Seeker: And the wyvern's name?",
+        "",
+        "%% u0657:0-47 %%",
+        "DM: I don't know. Wellby, what's the wyvern's name?",
+        "",
+        "%% u0658:0-31, u0659:0-29 %%",
+        "Wellby: Wyvern doesn't have a name yet. It's a good name for a Wyvern.",
+        "",
+        "%% u0660:0-47, u0661:0-43 %%",
+        "((Lego name joke))",
+        "",
+        "%% u0662:0-115 %%",
+        "Wellby: I, yeah, I feel like we're we're sort of waiting for its personality to emerge, to, to give it an appropriate name.",
+        "",
+        "%% u0663:0-20 %%",
+        "Delwath: Yeah, there, you go.",
+        "",
+        "%% u0664:0-11 %%",
+        "Seeker: Well, yeah.",
+        "",
+        "%% u0665:0-5 %%",
+        "Riswynn: Yeah.",
+        "",
+        "%% u0666:0-13 %%",
+        "Kenzo: With you too.",
+        "",
+        "%% u0667:0-28 %%",
+        "Riswynn: Its essence, like the ladder.",
+        "",
+        "%% u0668:0-47 %%",
+        "Delwath: Yeah, we're all—you're on a—you're on a griffin.",
+        "",
+        "%% u0669:0-54 %%",
+        "Kenzo: No, I was—I thought I was riding with the wyvern with—",
+        "",
+        "%% u0670:0-8, u0671:0-13 %%",
+        "Wellby: I think. Is that true?",
+        "",
+        "%% u0672:0-105 %%",
+        "Kenzo: Remember, remember, at the end of the last session I jumped. I was on—I was on the wyvern, and with, with—",
+        "",
+        "%% u0673:0-12 %%",
+        "Delwath: How are you?",
+        "",
+        "%% u0674:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u0675:0-157 %%",
+        "DM: Yeah, I guess 2 people can ride on the 2 of you, right? Cause Wellby's small, so Wellby plus a medium. So one other person can ride on the, ride on the wyvern.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Right.",
+          "Delwath: I don't even—I don't even think we have to scout ahead so much as just fly in a sort of—I don't know, if a dragon comes on us, we don't want to all die in its initial fireball, right?",
+          "Delwath: Let's just fly in a sensible formation slightly spread out.",
+          "Riswynn: Tim,",
+          "Delwath: And, and with, you know, a couple of people in front and a couple of people in back, and, you know—"
+        ],
+        "after": [
+          "DM: So you've got the other—the other griffin carries supplies since your portable hole is almost entirely full of the Cloud Spinner.",
+          "Kenzo: Sweet.",
+          "DM: So you keep flying. Soaring, what, a few 100 feet up? Something like that? Sort of flying a bit of a scouting pattern.",
+          "DM: Some time passes. Are you, like, landing to eat? Like, what's your routine here?",
+          "Delwath: Are we hungry?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Wellby catches his wyvern",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2554",
+        "endUid": "u2571"
+      },
+      "lines": [
+        "%% u2554:0-65 %%",
+        "DM: The Wyvern is nowhere to be seen. Well, is seen, but very far away.",
+        "",
+        "%% u2555:0-43 %%",
+        "Wellby: I'll I'll go track that guy back down again.",
+        "",
+        "%% u2556:0-36, u2557:0-22, u2558:0-68, u2559:0-26, u2560:0-52 %%",
+        "((Animal-handling check and flight equipment))",
+        "",
+        "%% u2561:0-60, u2562:0-29, u2563:0-60, u2564:0-38, u2565:0-67, u2566:0-40, u2567:0-178 %%",
+        "DM: The griffins can't catch him, and it takes you a few minutes to catch up, and then sort of— you basically just fly up beside him and, you know, kind of managed to land on him, and he kind of shakes his shoulders a little bit, and turns back and snaps at you. But doesn't, like, directly throw you off. Flying along the wall, flying in sort of the direction you want to go, but you're not having much luck getting—fine mounting him, not having much luck getting him to slow down.",
+        "",
+        "%% u2568:0-3 %%",
+        "Kenzo: No.",
+        "",
+        "%% u2569:0-65 %%",
+        "Wellby: That's okay. I mean, we're headed in the right direction. This is—",
+        "",
+        "%% u2570:0-13 %%",
+        "Delwath: It'll be fine.",
+        "",
+        "%% u2571:0-10 %%",
+        "Wellby: Slow down!",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Extra dead.",
+          "Delwath: Okay.",
+          "DM: I think that's everything.",
+          "Delwath: That is, everybody that was fun and exciting.",
+          "DM: Wow!"
+        ],
+        "after": [
+          "DM: So everybody else leap into the air and fly after him? Or are you gonna, like, look around?",
+          "Wellby: I mean, you should search those guys first, right?",
+          "Delwath: Yeah, let's look around for a little bit. I mean, is there any clues as to where they came from, or—",
+          "DM: So with, with all of everybody dead scattered around the ground, the—your satyr friend, Valeris is happy, lands, and, you know, is sort of willing to chat and, and talk a little bit.",
+          "DM: I guess, let's see, maybe Seeker could roll a—I'll say history check. So we'll want to roll a d 20 plus 15."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Seeker recalls the hunters’ master",
+      "entities": [
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2582",
+        "endUid": "u2589"
+      },
+      "lines": [
+        "%% u2582:0-106, u2583:0-68, u2584:0-28 %%",
+        "DM: Seeker remembers reading something, a speculative note in one of the appendices of the lore of the Feywild about duskhands, the lieutenants of the Gloom Shaper, Lord Umbraeth, that match this description.",
+        "",
+        "%% u2585:0-71, u2586:0-102, u2587:0-89, u2588:0-92, u2589:0-93 %%",
+        "DM: Lord Umbraeth is the ruler of the fey realm that is north of Amberglow, and has expanded considerably since the Cloud Spinner vanished. It used to be a very small fey realm, and has grown significantly in the years since the Cloud Spinner disappeared, and in that time has grown largely by taking over land that was either part of Amberglow, or was sort of affiliated, like, you know, minor, minor fey borderlands on the northern borders of Amberglow.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: I mean, you should search those guys first, right?",
+          "Delwath: Yeah, let's look around for a little bit. I mean, is there any clues as to where they came from, or—",
+          "DM: So with, with all of everybody dead scattered around the ground, the—your satyr friend, Valeris is happy, lands, and, you know, is sort of willing to chat and, and talk a little bit.",
+          "DM: I guess, let's see, maybe Seeker could roll a—I'll say history check. So we'll want to roll a d 20 plus 15.",
+          "Delwath: Sorry, I just need to find the window switched away from. 30."
+        ],
+        "after": [
+          "DM: Valeris also says, basically confirms this, These are— those are not people you want to meet. I'm glad you killed them.",
+          "DM: Are there going to be more? Long as I can stay a thousand feet up in the air, I'll keep going. I guess that— I guess that didn't sound very selfless, huh! I might be stuck. He sighs, in any case.",
+          "Delwath: We'll do our best. You didn't suffer too badly here.",
+          "DM: Oh, yeah, I'm totally happy if I can stay a thousand feet in the air. Great! It's a really nice place to be.",
+          "DM: But how many more of those do you think we'll find?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Valeris after the battle",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2590",
+        "endUid": "u2614"
+      },
+      "lines": [
+        "%% u2590:0-53, u2591:0-64 %%",
+        "DM: Valeris also says, basically confirms this, These are— those are not people you want to meet. I'm glad you killed them.",
+        "",
+        "%% u2592:0-26, u2593:0-79, u2594:0-45, u2595:0-16, u2596:0-22 %%",
+        "DM: Are there going to be more? Long as I can stay a thousand feet up in the air, I'll keep going. I guess that— I guess that didn't sound very selfless, huh! I might be stuck. He sighs, in any case.",
+        "",
+        "%% u2597:0-18, u2598:0-32 %%",
+        "Delwath: We'll do our best. You didn't suffer too badly here.",
+        "",
+        "%% u2599:0-69, u2600:0-6, u2601:0-31 %%",
+        "DM: Oh, yeah, I'm totally happy if I can stay a thousand feet in the air. Great! It's a really nice place to be.",
+        "",
+        "%% u2602:0-3, u2603:0-46 %%",
+        "DM: But how many more of those do you think we'll find?",
+        "",
+        "%% u2604:0-45, u2605:0-29, u2606:0-68 %%",
+        "Delwath: I don't know. It depends on what we find that— mind when we get to the keep. How how many there are around here is not something I think we know.",
+        "",
+        "%% u2607:0-28, u2608:0-69 %%",
+        "DM: Okay, I guess we keep going. You're the ones who are supposed to be leading this expedition, right?",
+        "",
+        "%% u2609:0-10 %%",
+        "Kenzo: We have to.",
+        "",
+        "%% u2610:0-7, u2611:0-23 %%",
+        "Riswynn: I mean. Wellby's leading us off.",
+        "",
+        "%% u2612:0-50, u2613:0-33 %%",
+        "DM: Oh, yeah, he's long gone, but maybe we follow him. Are there any other clues to find?",
+        "",
+        "%% u2614:0-76 %%",
+        "Riswynn: No, I think we just wanted to poke around long enough to jog Seeker's memory.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So with, with all of everybody dead scattered around the ground, the—your satyr friend, Valeris is happy, lands, and, you know, is sort of willing to chat and, and talk a little bit.",
+          "DM: I guess, let's see, maybe Seeker could roll a—I'll say history check. So we'll want to roll a d 20 plus 15.",
+          "Delwath: Sorry, I just need to find the window switched away from. 30.",
+          "DM: Seeker remembers reading something, a speculative note in one of the appendices of the lore of the Feywild about duskhands, the lieutenants of the Gloom Shaper, Lord Umbraeth, that match this description.",
+          "DM: Lord Umbraeth is the ruler of the fey realm that is north of Amberglow, and has expanded considerably since the Cloud Spinner vanished. It used to be a very small fey realm, and has grown significantly in the years since the Cloud Spinner disappeared, and in that time has grown largely by taking over land that was either part of Amberglow, or was sort of affiliated, like, you know, minor, minor fey borderlands on the northern borders of Amberglow."
+        ],
+        "after": [
+          "DM: Yeah, Seeker's kind of puzzling, looking over them. Yeah, I think definitely read—seen that described. Hmm, hunters of Duskmire. They're a long way from home.",
+          "Riswynn: The southern edge of Amberglow, not the northern edge, right?",
+          "DM: Right, although Lirien also did say that Lord Umbraeth's servants had captured at least one, possibly more amberlights, and so may be able to track the Cloud Spinner that way.",
+          "Delwath: Right.",
+          "DM: Although you did not find any amberlights on this group."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "The captured amberlights and possible pursuit",
+      "entities": [
+        {
+          "id": "e030",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e029",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2615",
+        "endUid": "u2622"
+      },
+      "lines": [
+        "%% u2615:0-103, u2616:0-25, u2617:0-29 %%",
+        "DM: Yeah, Seeker's kind of puzzling, looking over them. Yeah, I think definitely read—seen that described. Hmm, hunters of Duskmire. They're a long way from home.",
+        "",
+        "%% u2618:0-59 %%",
+        "Riswynn: The southern edge of Amberglow, not the northern edge, right?",
+        "",
+        "%% u2619:0-40, u2620:0-134 %%",
+        "DM: Right, although Lirien also did say that Lord Umbraeth's servants had captured at least one, possibly more amberlights, and so may be able to track the Cloud Spinner that way.",
+        "",
+        "%% u2621:0-6 %%",
+        "Delwath: Right.",
+        "",
+        "%% u2622:0-56 %%",
+        "DM: Although you did not find any amberlights on this group.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay, I guess we keep going. You're the ones who are supposed to be leading this expedition, right?",
+          "Kenzo: We have to.",
+          "Riswynn: I mean. Wellby's leading us off.",
+          "DM: Oh, yeah, he's long gone, but maybe we follow him. Are there any other clues to find?",
+          "Riswynn: No, I think we just wanted to poke around long enough to jog Seeker's memory."
+        ],
+        "after": [
+          "DM: So after a moment catching a breath, recouping, Seeker's not that badly damaged. I don't know if anybody else needs any healing.",
+          "Delwath: I'm good.",
+          "Kenzo: I need healing. Why is my computer so slow? Actually, it's not that bad. I need, like, 30 points, 30, 34 points, again.",
+          "DM: Probably don't really, because if you get into another combat before you rest, you can always use your focused metabolism that gives you—",
+          "Delwath: I mean, yeah, I was gonna say, I might—I might cast— if we're—before we set out, I might cast—I'm going to cast a prayer of healing, takes 10 min while, while Seeker's doing his stuff. Just to a—that'll heal 2D. 8."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

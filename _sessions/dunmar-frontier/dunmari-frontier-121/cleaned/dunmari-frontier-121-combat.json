@@ -1,0 +1,789 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-121",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-121/cleaned/dunmari-frontier-121-session.yaml",
+    "sessionYamlSha256": "cd366575bfd470e4056e6deebc0760da858822957bfea0262016edc9e7edc90e",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-121/cleaned/dunmari-frontier-121-transcript.md",
+    "transcriptSha256": "1b062b9ee1d606ae8cb4142486bea1b7aebab6de3cc6f312eeadacc360b654c0",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-121/cleaned/dunmari-frontier-121-segments.json",
+      "sha256": "386fa49f1467108d159a9de9301a10a82d7e9af87e633b51fd6fb928c0fbbcb7",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s008",
+      "encounter": "Mounted duskhands and giant wolves on the Amberglow plain",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Jumps from the wyvern at 600 feet, activates flight at 300 feet, and shoots the center rider, hitting with 27; damage is d6 + 7 without sneak attack. Declines Steady Aim to avoid giving the riders an opening.",
+              "evidence": [
+                {
+                  "startUid": "u1176",
+                  "endUid": "u1200"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts range-doubled Ice Storm at 600 feet on the lead rider and its giant wolf. Both fail DC 19 Dexterity saves; 26 damage is announced for each, half cold, with the rider’s cold resistance acknowledged later. Ice creates difficult terrain and kills the smaller wolf minions in its area.",
+              "evidence": [
+                {
+                  "startUid": "u1201",
+                  "endUid": "u1214"
+                },
+                {
+                  "startUid": "u1318",
+                  "endUid": "u1326"
+                },
+                {
+                  "startUid": "u1391",
+                  "endUid": "u1399"
+                }
+              ]
+            },
+            {
+              "actor": "Lead duskhand",
+              "kind": "turn",
+              "summary": "Fires three longbow shots at Wellby with disadvantage: two miss, one hits for 9 piercing and reduces his speed by 10 until the next initiative pass.",
+              "evidence": [
+                {
+                  "startUid": "u1215",
+                  "endUid": "u1223"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge on the arrow; the DM confirms damage reduced to 4.",
+              "evidence": [
+                {
+                  "startUid": "u1224",
+                  "endUid": "u1235"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses the griffin’s movement, dismounts, activates Raven’s Whistle and dashes with action and bonus action, closing the gap and landing beside the ground-level giant wolf.",
+              "evidence": [
+                {
+                  "startUid": "u1236",
+                  "endUid": "u1262"
+                }
+              ]
+            },
+            {
+              "actor": "Giant wolf beside Kenzo",
+              "kind": "turn",
+              "summary": "Bites three times: first hits with 29 for 19 piercing plus 9 poison; the remaining bites miss.",
+              "evidence": [
+                {
+                  "startUid": "u1263",
+                  "endUid": "u1297"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects 26 of the first bite’s 28 damage, taking 2. Does not spend heroic inspiration to reroll; the later exchange confirms it remains available.",
+              "evidence": [
+                {
+                  "startUid": "u1269",
+                  "endUid": "u1294"
+                },
+                {
+                  "startUid": "u1622",
+                  "endUid": "u1627"
+                }
+              ]
+            },
+            {
+              "actor": "Duskhand beside Kenzo",
+              "kind": "turn",
+              "summary": "Its fear aura has no effect because Kenzo is immune to fear. Three greatsword attacks miss AC 20 but each deals 4 slashing, for 12 total.",
+              "evidence": [
+                {
+                  "startUid": "u1298",
+                  "endUid": "u1317"
+                }
+              ]
+            },
+            {
+              "actor": "Other pursuing rider and mount",
+              "kind": "turn",
+              "summary": "Continue running forward.",
+              "evidence": [
+                {
+                  "startUid": "u1317",
+                  "endUid": "u1317"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Uses three crystal charges, passing DC 14, to extend Telekinesis to 480 feet. The rider next to Kenzo fails its Strength save with 15; Seeker lifts it 30 feet, pushes it backward, and restrains it until his next turn. Bardic inspiration is withheld because allies are too far away.",
+              "evidence": [
+                {
+                  "startUid": "u1327",
+                  "endUid": "u1390"
+                },
+                {
+                  "startUid": "u1709",
+                  "endUid": "u1717"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Dashes forward on her griffin, still roughly 400–500 feet from the closest enemy.",
+              "evidence": [
+                {
+                  "startUid": "u1400",
+                  "endUid": "u1430"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots the same center rider with Vex advantage; damage is corrected from 29 to 36.",
+              "evidence": [
+                {
+                  "startUid": "u1431",
+                  "endUid": "u1440"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Advances 160 feet but remains roughly 350 feet away; casts another range-doubled Ice Storm, dealing 11 bludgeoning plus 13 cold before saves/resistance. The affected giant wolf and duskhand succeed on DC 19 Dexterity saves for half damage; smaller wolves in the area die regardless. The other giant wolf is outside the area. Difficult terrain lasts until the end of Delwath’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u1452",
+                  "endUid": "u1504"
+                }
+              ]
+            },
+            {
+              "actor": "Pursuing duskhands and mounts",
+              "kind": "turn",
+              "summary": "Run forward; one fires three longbow shots at Wellby, hitting once for 10 damage. Another continues closing.",
+              "evidence": [
+                {
+                  "startUid": "u1505",
+                  "endUid": "u1518"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge on the 10-damage arrow.",
+              "evidence": [
+                {
+                  "startUid": "u1512",
+                  "endUid": "u1518"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Soul Sight identifies the rider as CR 8, immune to charm, exhaustion and fear, resistant to cold and necrotic, weak in Intelligence and strong in Constitution. Moves from the wolf to the restrained rider and makes five attacks with advantage: Forest Soul hits for 15 and 9, followed by unarmed hits for 6, 9 and 12 bludgeoning.",
+              "evidence": [
+                {
+                  "startUid": "u1519",
+                  "endUid": "u1642"
+                }
+              ]
+            },
+            {
+              "actor": "Giant wolf beside Kenzo",
+              "kind": "reaction",
+              "summary": "Bites as Kenzo leaves its reach. The opportunity attack still hits with disadvantage and would deal 21 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1554",
+                  "endUid": "u1564"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects that opportunity bite completely, spending one ki to return 21 damage after the wolf fails its Dexterity save.",
+              "evidence": [
+                {
+                  "startUid": "u1556",
+                  "endUid": "u1593"
+                }
+              ]
+            },
+            {
+              "actor": "Restrained duskhand",
+              "kind": "reaction",
+              "summary": "After Kenzo’s first strike, forces a Charisma save. Kenzo’s 12 fails, his ki reroll of 14 also fails, then heroic inspiration produces a successful 21. No retaliation damage is resolved.",
+              "evidence": [
+                {
+                  "startUid": "u1601",
+                  "endUid": "u1633"
+                }
+              ]
+            },
+            {
+              "actor": "Small wolf minions",
+              "kind": "turn",
+              "summary": "Swarm Kenzo for 20 piercing; he succeeds on a Strength save with 20 and stays standing. Other minions continue moving with the pursuing mounts.",
+              "evidence": [
+                {
+                  "startUid": "u1643",
+                  "endUid": "u1655"
+                }
+              ]
+            },
+            {
+              "actor": "Giant wolf beside Kenzo",
+              "kind": "turn",
+              "summary": "Bites Kenzo three times with 23, 29 and a natural 20, leaving him at 13 HP; the final damage recitation gives 19, 26 and 27.",
+              "evidence": [
+                {
+                  "startUid": "u1656",
+                  "endUid": "u1677"
+                }
+              ],
+              "note": "The damage narration includes an intermediate 22 and a repeated minion total; no replacement damage ledger is inferred."
+            },
+            {
+              "actor": "Restrained duskhand",
+              "kind": "turn",
+              "summary": "Attacks Kenzo with disadvantage. The table corrects the greatsword attacks to longbow fire because the rider is hovering 30 feet up; misses cause no damage. Kenzo remains conscious at approximately 4 HP, reversing the initial unconsciousness ruling.",
+              "evidence": [
+                {
+                  "startUid": "u1679",
+                  "endUid": "u1729"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Attempts to maintain Telekinesis with a DC 18 Strength save. The rider breaks a horn to resist, drops to the ground and is freed. Seeker moves closer, gives Riswynn Runic Inspiration and advances toward the other riders.",
+              "evidence": [
+                {
+                  "startUid": "u1730",
+                  "endUid": "u1832"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves roughly 100 feet toward the enemies, keeping within reach for Delwath’s planned Dimension Door, and readies a healing spell. The initial Cure Wounds choice becomes seventh-level Conjure Celestial when it resolves.",
+              "evidence": [
+                {
+                  "startUid": "u1833",
+                  "endUid": "u1864"
+                },
+                {
+                  "startUid": "u1893",
+                  "endUid": "u1919"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots the center rider again with Vex advantage for 36 damage; it survives.",
+              "evidence": [
+                {
+                  "startUid": "u1866",
+                  "endUid": "u1877"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves to Riswynn, then quickens Dimension Door to bring both beside Kenzo. Both are asked for Wisdom saves with advantage; Delwath’s failed 13 is rerolled with heroic inspiration and he is not frightened. After Riswynn’s readied spell resolves, hits the duskhand for 14 and the giant wolf twice for 16 and 11.",
+              "evidence": [
+                {
+                  "startUid": "u1878",
+                  "endUid": "u1950"
+                }
+              ],
+              "note": "Riswynn’s fear-save result is not spoken separately."
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "reaction",
+              "summary": "Releases readied seventh-level Conjure Celestial upon arrival, replacing Cure Wounds. Its pillar deals 43 radiant before saves, half on successful Dexterity saves by the duskhand and giant wolf; all affected minions die. Kenzo heals 31. The effect subsequently triggers on entering or ending a turn inside it.",
+              "evidence": [
+                {
+                  "startUid": "u1893",
+                  "endUid": "u1919"
+                },
+                {
+                  "startUid": "u1985",
+                  "endUid": "u2001"
+                }
+              ]
+            },
+            {
+              "actor": "Duskhand struck by Delwath",
+              "kind": "reaction",
+              "summary": "Forces a Charisma save when hit, then teleports away; Delwath succeeds with 23 and takes no retaliation damage.",
+              "evidence": [
+                {
+                  "startUid": "u1922",
+                  "endUid": "u1935"
+                }
+              ]
+            },
+            {
+              "actor": "Giant wolf beside Kenzo",
+              "kind": "turn",
+              "summary": "Unleashes a dreadful howl requiring Wisdom saves without fear advantage. Kenzo fails even after a ki reroll; he and Delwath take 35 psychic, while Riswynn takes 17. Kenzo falls to 0 HP. Remaining in Conjure Celestial triggers a Dexterity save of 17 and further pillar damage.",
+              "evidence": [
+                {
+                  "startUid": "u1951",
+                  "endUid": "u1974"
+                },
+                {
+                  "startUid": "u1985",
+                  "endUid": "u2001"
+                }
+              ]
+            },
+            {
+              "actor": "Duskhand near Riswynn",
+              "kind": "turn",
+              "summary": "An initial attack of 9 misses; it moves up and misses three greatsword swings, but deals 12 slashing on the misses and requires three concentration checks.",
+              "evidence": [
+                {
+                  "startUid": "u1975",
+                  "endUid": "u1984"
+                }
+              ],
+              "note": "Individual concentration results are not narrated; Conjure Celestial continues in later turns."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "At 0 HP, rolls his death save with advantage and succeeds with 18. At the end of his turn Conjure Celestial heals 31, returning him to consciousness.",
+              "evidence": [
+                {
+                  "startUid": "u2002",
+                  "endUid": "u2020"
+                }
+              ]
+            },
+            {
+              "actor": "Small wolf minions",
+              "kind": "turn",
+              "summary": "Run to keep pace with the remaining giant wolves.",
+              "evidence": [
+                {
+                  "startUid": "u2021",
+                  "endUid": "u2022"
+                }
+              ]
+            },
+            {
+              "actor": "Other duskhands",
+              "kind": "turn",
+              "summary": "Fire longbows with disadvantage: Seeker takes 13 total (7 and 6), succeeds on a Dexterity save against pinning, and succeeds on two Telekinesis concentration saves. All three arrows at Wellby miss.",
+              "evidence": [
+                {
+                  "startUid": "u2029",
+                  "endUid": "u2046"
+                }
+              ],
+              "note": "The narration mentions a third strike at Seeker but resolves two damage amounts and two concentration saves; no third damage amount is invented."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Restrains the giant wolf below Wellby with Telekinesis and animates Ladder as a bonus action.",
+              "evidence": [
+                {
+                  "startUid": "u2047",
+                  "endUid": "u2065"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Slams the wounded rider for 13 damage, killing it.",
+              "evidence": [
+                {
+                  "startUid": "u2058",
+                  "endUid": "u2065"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Strikes the adjacent duskhand with her hammer, hitting with 22.",
+              "evidence": [
+                {
+                  "startUid": "u2066",
+                  "endUid": "u2096"
+                }
+              ]
+            },
+            {
+              "actor": "Duskhand struck by Riswynn",
+              "kind": "reaction",
+              "summary": "Forces a Charisma save; Riswynn takes 16 psychic. Its second horn shatters and it teleports 30 feet away.",
+              "evidence": [
+                {
+                  "startUid": "u2097",
+                  "endUid": "u2103"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots the restrained giant wolf with advantage, hitting for 40, then moves down closer to the ground.",
+              "evidence": [
+                {
+                  "startUid": "u2104",
+                  "endUid": "u2120"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Attacks the giant wolf three times: 15 and 12 miss; a critical hit deals 18 but does not kill it. Ends inside Conjure Celestial and heals 37 to full.",
+              "evidence": [
+                {
+                  "startUid": "u2122",
+                  "endUid": "u2150"
+                }
+              ]
+            },
+            {
+              "actor": "Giant wolf beside Kenzo",
+              "kind": "turn",
+              "summary": "Bites Kenzo with 24 for a proposed 21 damage, followed by two misses (16 and 17), then tries to flee after failing to grab anyone.",
+              "evidence": [
+                {
+                  "startUid": "u2145",
+                  "endUid": "u2169"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the first bite completely and returns 13 damage; the wolf survives.",
+              "evidence": [
+                {
+                  "startUid": "u2151",
+                  "endUid": "u2162"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Hits the fleeing giant wolf with an opportunity attack for 16, dropping it.",
+              "evidence": [
+                {
+                  "startUid": "u2163",
+                  "endUid": "u2175"
+                }
+              ]
+            },
+            {
+              "actor": "Duskhand near Delwath",
+              "kind": "turn",
+              "summary": "Moves and lashes at Delwath with an 8, missing, then fires three longbow attacks that hit with 22, 21 and a natural 20. Delwath fails a Dexterity save with 14 and is restrained by an arrow until the start of the duskhand’s next turn. The final announced damage total is 28.",
+              "evidence": [
+                {
+                  "startUid": "u2171",
+                  "endUid": "u2191"
+                }
+              ],
+              "note": "The spoken damage arithmetic is inconsistent (“14, 14 and 14, 28”); the declared total is retained without recalculation."
+            },
+            {
+              "actor": "Small wolf minions",
+              "kind": "turn",
+              "summary": "Retreat to guard a rider.",
+              "evidence": [
+                {
+                  "startUid": "u2192",
+                  "endUid": "u2199"
+                }
+              ]
+            },
+            {
+              "actor": "Giant wolf whose rider Ladder killed",
+              "kind": "turn",
+              "summary": "Rends Ladder with three bites: natural 20 for 30 damage, 29 for 22, and another natural 20 without a stated damage amount. Ladder is nearly destroyed.",
+              "evidence": [
+                {
+                  "startUid": "u2192",
+                  "endUid": "u2199"
+                }
+              ]
+            },
+            {
+              "actor": "Last mounted duskhand",
+              "kind": "turn",
+              "summary": "Wheels back toward its allies while firing at Wellby with disadvantage. Two shots miss and one hits for 8.",
+              "evidence": [
+                {
+                  "startUid": "u2200",
+                  "endUid": "u2204"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge on that arrow.",
+              "evidence": [
+                {
+                  "startUid": "u2205",
+                  "endUid": "u2205"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Slams the wolf for 10 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2206",
+                  "endUid": "u2212"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Maintains Telekinesis; the wolf fails its Strength save and is pushed 30 feet away from Ladder toward the party, remaining restrained.",
+              "evidence": [
+                {
+                  "startUid": "u2206",
+                  "endUid": "u2212"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves Conjure Celestial along a curving path, killing two minions and a duskhand even with a successful save against the 47-damage roll; the giant wolf takes 23 after saving. Hits the restrained wolf with her hammer for 29 after its restraint grants advantage.",
+              "evidence": [
+                {
+                  "startUid": "u2213",
+                  "endUid": "u2275"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves down and shoots a lightning arrow at the restrained wolf with advantage: 19 hits for 41, killing it before the additional 4d6 lightning matters. The line effect forces DC 15 Dexterity saves: the rider succeeds for 7 lightning and the other wolf fails for 14.",
+              "evidence": [
+                {
+                  "startUid": "u2276",
+                  "endUid": "u2289"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Turns into a cloud of butterflies and escapes restraint, flies through Conjure Celestial for 35 healing after the healing roll is rerolled, then curses the remaining duskhand as a bonus action.",
+              "evidence": [
+                {
+                  "startUid": "u2290",
+                  "endUid": "u2315"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Runs through the pillar for 35 healing and closes on the remaining giant wolf. Soul Sight shows good Wisdom, poor Charisma and no immunities. His first hit deals 13 and stuns it after it fails DC 17 Constitution with 8. Subsequent attacks have advantage: a staff critical deals 24, then unarmed strikes deal 13, 15 and 15, the last a natural 20.",
+              "evidence": [
+                {
+                  "startUid": "u2316",
+                  "endUid": "u2362"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining small wolf minion",
+              "kind": "event",
+              "summary": "The DM treats the last nearby small wolf minion as dead while Kenzo moves to the remaining giant wolf.",
+              "evidence": [
+                {
+                  "startUid": "u2327",
+                  "endUid": "u2328"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining duskhand",
+              "kind": "turn",
+              "summary": "Teleports behind Kenzo and misses three greatsword attacks (13, 15, 19), still dealing 12 slashing on the misses.",
+              "evidence": [
+                {
+                  "startUid": "u2363",
+                  "endUid": "u2374"
+                }
+              ]
+            },
+            {
+              "actor": "Stunned giant wolf",
+              "kind": "turn",
+              "summary": "Cannot act because it is stunned.",
+              "evidence": [
+                {
+                  "startUid": "u2373",
+                  "endUid": "u2374"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Slams the stunned giant wolf for 15.",
+              "evidence": [
+                {
+                  "startUid": "u2376",
+                  "endUid": "u2381"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Attempts Telekinesis on the remaining rider. Its Strength save of 17 fails, but it breaks a horn to succeed instead. Gives Kenzo Runic Inspiration.",
+              "evidence": [
+                {
+                  "startUid": "u2376",
+                  "endUid": "u2384"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves the celestial pillar over allies and enemies. The stunned wolf automatically fails its Dexterity save, taking the 43 radiant and dying; the duskhand saves for half despite the loss of spell-save advantage after breaking a horn. Ladder, Kenzo and Delwath each heal 27. Riswynn then hits the duskhand with her hammer.",
+              "evidence": [
+                {
+                  "startUid": "u2385",
+                  "endUid": "u2423"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining duskhand",
+              "kind": "reaction",
+              "summary": "Retaliates against Riswynn’s hit, forcing a Constitution save. Her 21 succeeds; she takes 4 cold, and it teleports away.",
+              "evidence": [
+                {
+                  "startUid": "u2423",
+                  "endUid": "u2428"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim for advantage, hitting the remaining duskhand with 23. Substitutes three sneak-attack dice for Obscure, correcting damage from 38 to 28 and requiring a DC 18 Dexterity save. Its second horn breaks to resist; it is not blinded.",
+              "evidence": [
+                {
+                  "startUid": "u2429",
+                  "endUid": "u2464"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Attacks the remaining duskhand three times, missing twice and hitting once for a stated 19 damage. The proposed 17-cold retaliation is withdrawn because the duskhand already used its reaction.",
+              "evidence": [
+                {
+                  "startUid": "u2465",
+                  "endUid": "u2485"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Moves to the remaining duskhand and uses Runic Inspiration to turn a 14 miss into a 16 hit. The enemy succeeds on DC 17 Wisdom against Frightening Strike. Staff strikes deal 16 and 12, followed by an unarmed hit for 8; the DM declares it already dead as Kenzo rolls a further natural 20. Kenzo continues with stated postmortem hits of 12 and 11.",
+              "evidence": [
+                {
+                  "startUid": "u2486",
+                  "endUid": "u2549"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Kenzo kills the last duskhand; the DM declares the encounter finished. The hunters and giant wolves are defeated, and the party survives.",
+        "evidence": [
+          {
+            "startUid": "u2542",
+            "endUid": "u2551"
+          }
+        ]
+      }
+    }
+  ]
+}

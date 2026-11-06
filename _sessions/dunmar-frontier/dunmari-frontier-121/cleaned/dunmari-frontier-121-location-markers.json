@@ -1,0 +1,914 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-121",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-121/cleaned/dunmari-frontier-121-session.yaml",
+    "sessionYamlSha256": "cd366575bfd470e4056e6deebc0760da858822957bfea0262016edc9e7edc90e",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-121/cleaned/dunmari-frontier-121-transcript.md",
+    "transcriptSha256": "1b062b9ee1d606ae8cb4142486bea1b7aebab6de3cc6f312eeadacc360b654c0"
+  },
+  "places": {
+    "p01": {
+      "label": "Emberwine",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u0007",
+          "endUid": "u0008",
+          "quote": "Okay. So we pick up, flying over the rolling fields of Emberwine, the 5 of you and your 2 fae companions."
+        },
+        {
+          "startUid": "u0036",
+          "endUid": "u0040",
+          "quote": "We pick up flying across the plains of Emberwine, having left the, the hall of Lord Soven, the master of revels, and the, and the lord of this fey domain, having spent—after the party had spent, you know, it's hard to say exactly how long. It seemed like maybe 2 days. But it's difficult to carefully track time in these fey parties."
+        },
+        {
+          "startUid": "u0452",
+          "endUid": "u0462",
+          "quote": "You travel along the Sunset Gate, watching its colors shift and twist and blend with each other, occasionally catching the scent of dreams on the wind, the taste of the colors of the sunset on your tongue, as you make your way north.\nDM: This part of Emberwine is not inhabited really. And you get the sense that this is pretty far from the like center of center of gravity, of Emberwine. There's rolling hills and sort of valleys, but not any. You know the the vineyards that coat most of the the realm don't stretch here, and everything seems quiet in a way that isn't really characteristic of Emberwine elsewhere.\nDM: Almost as if this is sort of the, you know, the nap after the party that transitions into Nocturne Vale."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Emberwine/Emberwine.md"
+    },
+    "p02": {
+      "label": "Sunset Gate",
+      "kind": "magical boundary",
+      "evidence": [
+        {
+          "startUid": "u0289",
+          "endUid": "u0299",
+          "quote": "you see ahead of you the Sunset Gate, a massive wall that stretches as far as you can see into the sky, blocking further travel east. The— the light of the sunset itself, crystallized, and frozen into this shimmering wall that gleams and reflects the light in all directions.\nDM: There are, you know, the occasional gates and tunnels that look like you could sort of push your way through, although—\nDM: You are warned by both Valeris and Esmara that, you know, time in the Feywild, at least, although distances are inconstant and it’s hard to measure time, time flows in a sort of normal way. But crossing the Sunset Gate, all bets are off. You might find yourself crawling through a tunnel, and then, a year later, emerge at the end, even though it only felt like a moment for you. So it is difficult it is. It is risky to just step through the gate at unsupervised crossings, although there are, you know, borders that pass between realms from one side of the Sunset Gate to the other."
+        },
+        {
+          "startUid": "u0328",
+          "endUid": "u0333",
+          "quote": "In to the north, where Red Sun Watch is, which is where you're going, the fey realm of Hollowdark, which is ruled by the Archfey Wend, the Silence That Follows, has crashed through the Sunset Gate, and darkness is spreading in rivers into Amberglow.\nDM: But the Sunset Gate's always been there. It stretches well, as far as anybody knows.\nSeeker: Is it just a gate between light and darkness?\nDM: Yeah. It's the border between light and dark."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Sunset Gate.md"
+    },
+    "p03": {
+      "label": "Base of the Sunset Gate opposite Nocturne Vale",
+      "kind": "landmark",
+      "evidence": [
+        {
+          "startUid": "u0320",
+          "endUid": "u0323",
+          "quote": "Yeah, you can. As long as you don't try and pass through it. It's it's warm to the touch. Feels pleasant here, at least not burning, but a little bit warm. It feels it feels smooth, even the parts that look sort of jagged, almost soft in places."
+        },
+        {
+          "startUid": "u0340",
+          "endUid": "u0347",
+          "quote": "I assume we're like on the ground at the base of it.\nDM: Yeah, does it—if you're exploring it.\nDelwath: Go up forever? What's the—what, what's above it?\nDM: Yeah, there's nothing above it. It goes up forever.\nSeeker: Oh!\nDM: Or at least as far as you can see.\nDelwath: Right, so, like, disappears into the sky, but it looks like it's still going.\nDM: Yes."
+        },
+        {
+          "startUid": "u0390",
+          "endUid": "u0394",
+          "quote": "Valeris, the satyr feels he has to interject here, although he doesn't want to. You definitely should keep going north, like, that's your quest. You'd be foolish to turn aside.\nDM: But I have to tell you the other side across from Emberwine is not actually Hollowdark. It's Nocturne Vale, where the Duke of Dreams rules."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0390",
+              "endUid": "u0394",
+              "quote": "Valeris, the satyr feels he has to interject here, although he doesn't want to. You definitely should keep going north, like, that's your quest. You'd be foolish to turn aside.\nDM: But I have to tell you the other side across from Emberwine is not actually Hollowdark. It's Nocturne Vale, where the Duke of Dreams rules."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Emberwine–Amberglow borderlands",
+      "kind": "borderland",
+      "evidence": [
+        {
+          "startUid": "u0463",
+          "endUid": "u0484",
+          "quote": "Time passes. You sleep. You eat, sleep again, hard, really, to say exactly how long it’s been. But eventually, you reach a point where you begin to see ahead of you, the color sort of bleaching from the land. I assume you're still flying at this point. So this is maybe 50 60 miles away. It's sort of on the edge of what you can see. The the vines fade, the landscape shifts to these rolling hills. The—sorry, the, the—even the plants begin to sort of turn a bit bleached, a bit gray and faded as you begin to push north and—\nDM: Well, the satyr Valeris is on this quest for better or worse. Esmara, the scholar, is a little uncertain. \"Amberglow is dangerous,\" she says. I meant to come to the Sunset Gate, but I may turn south here and search for a dream warden to lead me across the Nocturne Vale, for we reached the point where we pass from west of Nocturne Vale to west of Hollowdark, and crossing becomes fraught with peril. So, unless anybody has a strong argument to try and convince her, she turns and bids you farewell.\nDM: Okay. Having gone far enough to observe the the sort of borderlands between Emberwine and Amberglow, but not quite willing to cross over into Amberglow.\nDM: So as she leaves, you continue flying. As you begin to reach beyond that."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0480",
+              "endUid": "u0482",
+              "quote": "Okay. Having gone far enough to observe the the sort of borderlands between Emberwine and Amberglow, but not quite willing to cross over into Amberglow."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0480",
+              "endUid": "u0482",
+              "quote": "Okay. Having gone far enough to observe the the sort of borderlands between Emberwine and Amberglow, but not quite willing to cross over into Amberglow."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Amberglow",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u0473",
+          "endUid": "u0484",
+          "quote": "Well, the satyr Valeris is on this quest for better or worse. Esmara, the scholar, is a little uncertain. \"Amberglow is dangerous,\" she says. I meant to come to the Sunset Gate, but I may turn south here and search for a dream warden to lead me across the Nocturne Vale, for we reached the point where we pass from west of Nocturne Vale to west of Hollowdark, and crossing becomes fraught with peril. So, unless anybody has a strong argument to try and convince her, she turns and bids you farewell.\nDM: Okay. Having gone far enough to observe the the sort of borderlands between Emberwine and Amberglow, but not quite willing to cross over into Amberglow.\nDM: So as she leaves, you continue flying. As you begin to reach beyond that."
+        },
+        {
+          "startUid": "u2615",
+          "endUid": "u2620",
+          "quote": "Yeah, Seeker's kind of puzzling, looking over them. Yeah, I think definitely read—seen that described. Hmm, hunters of Duskmire. They're a long way from home.\nRiswynn: The southern edge of Amberglow, not the northern edge, right?\nDM: Right, although Lirien also did say that Lord Umbraeth's servants had captured at least one, possibly more amberlights, and so may be able to track the Cloud Spinner that way."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Amberglow/Amberglow.md"
+    },
+    "p06": {
+      "label": "Low hills and plain at the giant toll collectors",
+      "kind": "plain",
+      "evidence": [
+        {
+          "startUid": "u0485",
+          "endUid": "u0511",
+          "quote": "Maybe another half day passes or something, and you see a line of hills in front of you. Stark. The sort of yeah bleached plains of Emberwine in the distance. Sunset Gate still there along along the edge. But the colors sort of fracturing now into more grays and whites and everything sort of desaturated. You're still flying! How high up are you flying?\nWellby: 100 feet.\nDelwath: Yeah, something like that.\nWellby: Plus or minus.\nRiswynn: Not pretty.\nSeeker: What was it?\nWellby: 100 feet, just like just out of short range for a bow shot. Say.\nSeeker: Nice.\nDM: So as you— So as you fly, you you sort of fly across this sort of bleached plain, and and pass over this line of low hills, you know, very low hills, you know, coming no more than a few 100 feet, but like a sort of rolling, jagged landscape.\nDM: And you see below you, sort of walking along the border of, of Amberglow, a group of 4, very large, maybe 15–20 foot tall, humanoids with—\nKenzo: So.\nDM: One of them is is carrying a staff that's got like the skull of some sort of creature on the top of it. That's probably a 15 foot tall staff. He's probably 20 feet tall.\nDM: And the other 3 kind of all sort of, you know, one of their eyes—their eyes are sort of, like, twisted and misshapen a little bit. They're not wearing very much: dirty loincloths,\nDM: And they're walking along, and as they look up as they see you, and and the one shouts out in a booming, loud voice, in Sylvan, \"Travelers, stop!\" \"You must pay the toll!\""
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0497",
+              "endUid": "u0511",
+              "quote": "So as you— So as you fly, you you sort of fly across this sort of bleached plain, and and pass over this line of low hills, you know, very low hills, you know, coming no more than a few 100 feet, but like a sort of rolling, jagged landscape.\nDM: And you see below you, sort of walking along the border of, of Amberglow, a group of 4, very large, maybe 15–20 foot tall, humanoids with—\nKenzo: So.\nDM: One of them is is carrying a staff that's got like the skull of some sort of creature on the top of it. That's probably a 15 foot tall staff. He's probably 20 feet tall.\nDM: And the other 3 kind of all sort of, you know, one of their eyes—their eyes are sort of, like, twisted and misshapen a little bit. They're not wearing very much: dirty loincloths,\nDM: And they're walking along, and as they look up as they see you, and and the one shouts out in a booming, loud voice, in Sylvan, \"Travelers, stop!\" \"You must pay the toll!\""
+            }
+          ]
+        }
+      ],
+      "note": "The travelers circle overhead and bypass the giants; no landing or blood payment is established."
+    },
+    "p07": {
+      "label": "Southern Amberglow hunting battlefield",
+      "kind": "plain",
+      "evidence": [
+        {
+          "startUid": "u0693",
+          "endUid": "u0716",
+          "quote": "So as you sort of travel, you know, time passes. Like I said, you're not— You're not particularly feeling tired or hungry. But, Wellby, you do notice in—after some amount of time has passed, it’s hard to say exactly how much, but you’re well out of the rate—out of sight of the of the strange giants that you passed before, so few hours. 3, 5, 7 h! Something like that.\nDM: You see running along the plains below, clearly, sort of, you know, in the distance, probably, I don't know, 15 miles away, 10 miles away from you, diagonally, but heading in your direction, what look like 2 or 3 sort of small figures on some kind of mount running in your direction with a sort of pack of something moving around them, hard to say what at this distance.\nDelwath: There's probably check—\nWellby: What's good—\nDelwath: We should probably check it out.\nWellby: Yeah, we'll we'll at least pull the wyvern in their direction, and—\nDelwath: Yeah.\nWellby: Understand what they are.\nDelwath: Wheel sort of towards them.\nDM: Okay,\nDM: So as you do, you see, you know, you turn and you fly in that direction. You see what look like: 2—no, 3 massively large wolves, probably 15–20 feet long, loping along, each of which has mounted on top of it a creature hard to say what it is at this, you know from, you know, maybe maybe a mile away, when it's clear that there's giant wolves running along. But each of the 3 giant wolves is mounted, and then there's probably—\nDM: A few dozen smaller wolves kind of running around, like, running out in different directions. Kind of seems to be maybe a hunting party of some kind."
+        },
+        {
+          "startUid": "u1259",
+          "endUid": "u1262",
+          "quote": "So Kenzo moves like the wind and drops down in front of this creature on the ground here. That ends your turn. Now they will attack you."
+        },
+        {
+          "startUid": "u2615",
+          "endUid": "u2620",
+          "quote": "Yeah, Seeker's kind of puzzling, looking over them. Yeah, I think definitely read—seen that described. Hmm, hunters of Duskmire. They're a long way from home.\nRiswynn: The southern edge of Amberglow, not the northern edge, right?\nDM: Right, although Lirien also did say that Lord Umbraeth's servants had captured at least one, possibly more amberlights, and so may be able to track the Cloud Spinner that way."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u2615",
+              "endUid": "u2620",
+              "quote": "Yeah, Seeker's kind of puzzling, looking over them. Yeah, I think definitely read—seen that described. Hmm, hunters of Duskmire. They're a long way from home.\nRiswynn: The southern edge of Amberglow, not the northern edge, right?\nDM: Right, although Lirien also did say that Lord Umbraeth's servants had captured at least one, possibly more amberlights, and so may be able to track the Cloud Spinner that way."
+            }
+          ]
+        }
+      ],
+      "note": "The encounter spans flyers and ground combatants. Valeris remains high above the fighting, then lands afterward; a shared setting does not put every actor on the ground."
+    },
+    "p08": {
+      "label": "Airspace north along the Sunset Gate",
+      "kind": "airborne route",
+      "evidence": [
+        {
+          "startUid": "u2556",
+          "endUid": "u2567",
+          "quote": "Okay, make an animal handling check. It takes you some time. You can. The only way you can fly faster than him is with your armor.\nWellby: I also have boots of speed.\nDM: Yeah, with using your Boots of Speed and your armor.\nDM: The griffins can't catch him, and it takes you a few minutes to catch up, and then sort of— you basically just fly up beside him and, you know, kind of managed to land on him, and he kind of shakes his shoulders a little bit, and turns back and snaps at you. But doesn't, like, directly throw you off. Flying along the wall, flying in sort of the direction you want to go, but you're not having much luck getting—fine mounting him, not having much luck getting him to slow down."
+        },
+        {
+          "startUid": "u2654",
+          "endUid": "u2659",
+          "quote": "I mean, you haven't—you haven't lost control. You're just—it's just needs a little bit of a head of steam to, you know, dissipate the energy from watching the fight.\nWellby: Yeah, we'll we'll circle back when when it calms down.\nDM: Yeah, or they'll catch up to you at some point. The visibility is great, right? Like you're you can be seen for a mile away, right several miles away, as like a little speck against this giant wall of glowing light on your right hand side. So it's not like you're going to be lost."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2561",
+              "endUid": "u2567",
+              "quote": "The griffins can't catch him, and it takes you a few minutes to catch up, and then sort of— you basically just fly up beside him and, you know, kind of managed to land on him, and he kind of shakes his shoulders a little bit, and turns back and snaps at you. But doesn't, like, directly throw you off. Flying along the wall, flying in sort of the direction you want to go, but you're not having much luck getting—fine mounting him, not having much luck getting him to slow down."
+            }
+          ]
+        }
+      ],
+      "note": "Wellby catches the wyvern here; he remounts but does not immediately make it slow down."
+    },
+    "p09": {
+      "label": "Resting place before the dead-tree river",
+      "kind": "rest stop",
+      "evidence": [
+        {
+          "startUid": "u2725",
+          "endUid": "u2728",
+          "quote": "Okay, so you want to find a place to— so right now, you're, like, a few—you're— hard to say exactly. A few miles, maybe up to a dozen miles from this river, and then beyond the river, it’s maybe 40 to 80 miles to the wall of blackness."
+        },
+        {
+          "startUid": "u2761",
+          "endUid": "u2767",
+          "quote": "We'll just use 1, 1 hit to assume—\nDelwath: Just use a 1 hit die, right? We're short resting.\nKenzo: Okay.\nRiswynn: I will use—\nDelwath: And this spell slot 5 gets—\nDM: Right, and everybody gets heroic inspiration back.\nKenzo: All right, back to full."
+        },
+        {
+          "startUid": "u2773",
+          "endUid": "u2774",
+          "quote": "So you cross the river, the—again, fairly high up—the grove, you know, the grove of dead trees below you. After having taken a short break, had some food. You were starting to get hungry."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u2618",
+              "endUid": "u2620",
+              "quote": "The southern edge of Amberglow, not the northern edge, right?\nDM: Right, although Lirien also did say that Lord Umbraeth's servants had captured at least one, possibly more amberlights, and so may be able to track the Cloud Spinner that way."
+            },
+            {
+              "startUid": "u2661",
+              "endUid": "u2681",
+              "quote": "So you rest a bit, I mean, for 10 min, while Seeker's sort of thinking about the— what he's read about— these duskhands from Duskmire, Duskmire, and you then launch into the air to to catch up to to Wellby and continue flying north on your griffins, who are much better trained than the Wyvern, and when combat is over, all land in a circle once it’s safe to do so with the, with Valeris the satyr, and wait for you to remount. Over the next period of time, hard to say how long, you start to get hungry a bit.\nDM: Don't see anything else moving, although up ahead you can see 2 things now. 1st, in the close distance, maybe 20 miles away, you see what looks like a glittering line of a river.\nDM: Except, weirdly, it looks kind of— you can imagine it almost looks like ice from this distance. Like, it doesn't seem to be moving much. It's like almost plain white, sort of matte line, but there's a—there's a grove of, like, dead trees that are growing around it, and that grow up around the river, stretching away from the wall, and the river itself kind of flows almost into the Sunset Gate.\nDM: Some distance beyond the river with the dead trees, you can see what looks like a smear of blackness on the horizon, and the wall itself. It's much more obvious on the wall itself, because it looks like there's just a giant gash in the sky, maybe 60 miles away, although again it's, like, really hard to judge the distance, but 20, 40, 60, a hundred, something on that order, certainly within sight. It's like the wall is sort of continuing, and you see—you can see this sort of crystal structure, and then there's just nothingness, just like an empty gash, and then a smear that kind of extends across the horizon. You actually can't see past it. It's like almost a wall of blackness."
+            }
+          ],
+          "note": "Inferred continuity of the northbound journey after the southern Amberglow encounter; no later realm crossing is narrated."
+        }
+      ]
+    },
+    "p10": {
+      "label": "River and grove of dead trees",
+      "kind": "river crossing",
+      "evidence": [
+        {
+          "startUid": "u2670",
+          "endUid": "u2676",
+          "quote": "Don't see anything else moving, although up ahead you can see 2 things now. 1st, in the close distance, maybe 20 miles away, you see what looks like a glittering line of a river.\nDM: Except, weirdly, it looks kind of— you can imagine it almost looks like ice from this distance. Like, it doesn't seem to be moving much. It's like almost plain white, sort of matte line, but there's a—there's a grove of, like, dead trees that are growing around it, and that grow up around the river, stretching away from the wall, and the river itself kind of flows almost into the Sunset Gate."
+        },
+        {
+          "startUid": "u2773",
+          "endUid": "u2774",
+          "quote": "So you cross the river, the—again, fairly high up—the grove, you know, the grove of dead trees below you. After having taken a short break, had some food. You were starting to get hungry."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2673",
+              "endUid": "u2676",
+              "quote": "Except, weirdly, it looks kind of— you can imagine it almost looks like ice from this distance. Like, it doesn't seem to be moving much. It's like almost plain white, sort of matte line, but there's a—there's a grove of, like, dead trees that are growing around it, and that grow up around the river, stretching away from the wall, and the river itself kind of flows almost into the Sunset Gate."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Airborne stopping point outside the darkness",
+      "kind": "approach",
+      "evidence": [
+        {
+          "startUid": "u2775",
+          "endUid": "u2782",
+          "quote": "Travel again. It's—it's hard to judge not just distance, but time. And you begin approaching closer and closer to this black wall, and you can see, actually, as you get closer that there's some variation, right? So there's some places where it seems deeper, and it almost seems to stretch—it sort of stretches to the sky, but somehow there's also, you know, pieces of light that that shine through it.\nDM: Where it looks more like a mist lying low to the, the ground. And we’ll stop here, about a few miles out from the edge of the blackness, where you can see—you can't—I mean, you can't see through the night. It's like—it's, it's not even just, like, darkness. It's like looking into a sort of dense black fog."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u2780",
+              "endUid": "u2782",
+              "quote": "Where it looks more like a mist lying low to the, the ground. And we’ll stop here, about a few miles out from the edge of the blackness, where you can see—you can't—I mean, you can't see through the night. It's like—it's, it's not even just, like, darkness. It's like looking into a sort of dense black fog."
+            }
+          ]
+        },
+        {
+          "relation": "in_locality_of",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u2618",
+              "endUid": "u2620",
+              "quote": "The southern edge of Amberglow, not the northern edge, right?\nDM: Right, although Lirien also did say that Lord Umbraeth's servants had captured at least one, possibly more amberlights, and so may be able to track the Cloud Spinner that way."
+            },
+            {
+              "startUid": "u2661",
+              "endUid": "u2681",
+              "quote": "So you rest a bit, I mean, for 10 min, while Seeker's sort of thinking about the— what he's read about— these duskhands from Duskmire, Duskmire, and you then launch into the air to to catch up to to Wellby and continue flying north on your griffins, who are much better trained than the Wyvern, and when combat is over, all land in a circle once it’s safe to do so with the, with Valeris the satyr, and wait for you to remount. Over the next period of time, hard to say how long, you start to get hungry a bit.\nDM: Don't see anything else moving, although up ahead you can see 2 things now. 1st, in the close distance, maybe 20 miles away, you see what looks like a glittering line of a river.\nDM: Except, weirdly, it looks kind of— you can imagine it almost looks like ice from this distance. Like, it doesn't seem to be moving much. It's like almost plain white, sort of matte line, but there's a—there's a grove of, like, dead trees that are growing around it, and that grow up around the river, stretching away from the wall, and the river itself kind of flows almost into the Sunset Gate.\nDM: Some distance beyond the river with the dead trees, you can see what looks like a smear of blackness on the horizon, and the wall itself. It's much more obvious on the wall itself, because it looks like there's just a giant gash in the sky, maybe 60 miles away, although again it's, like, really hard to judge the distance, but 20, 40, 60, a hundred, something on that order, certainly within sight. It's like the wall is sort of continuing, and you see—you can see this sort of crystal structure, and then there's just nothingness, just like an empty gash, and then a smear that kind of extends across the horizon. You actually can't see past it. It's like almost a wall of blackness."
+            },
+            {
+              "startUid": "u2775",
+              "endUid": "u2793",
+              "quote": "Travel again. It's—it's hard to judge not just distance, but time. And you begin approaching closer and closer to this black wall, and you can see, actually, as you get closer that there's some variation, right? So there's some places where it seems deeper, and it almost seems to stretch—it sort of stretches to the sky, but somehow there's also, you know, pieces of light that that shine through it.\nDM: Where it looks more like a mist lying low to the, the ground. And we’ll stop here, about a few miles out from the edge of the blackness, where you can see—you can't—I mean, you can't see through the night. It's like—it's, it's not even just, like, darkness. It's like looking into a sort of dense black fog.\nDM: But there is one tower standing that seems to be on a small rise, or somehow protected from the from the light—or, I mean, from the darkness, because you see shining with sort of faint, dim, kind of weak sunlight, but still shining with sunlight, top maybe 3rd of a tower, the remains of what look like golden decorations on its roof, but having sort of scraped and tarnished and decayed since then, standing above the darkness.\nDM: This obviously must be Red Sun Watch, based on everything that you've seen and heard, although most of the watch seems to have been swallowed up by this darkness,"
+            }
+          ],
+          "note": "Inferred from the continuous northbound journey in Amberglow toward the named watch; no entry into the darkness is narrated."
+        }
+      ]
+    },
+    "p12": {
+      "label": "Wall of blackness at the Sunset Gate breach",
+      "kind": "intruding darkness",
+      "evidence": [
+        {
+          "startUid": "u2677",
+          "endUid": "u2681",
+          "quote": "Some distance beyond the river with the dead trees, you can see what looks like a smear of blackness on the horizon, and the wall itself. It's much more obvious on the wall itself, because it looks like there's just a giant gash in the sky, maybe 60 miles away, although again it's, like, really hard to judge the distance, but 20, 40, 60, a hundred, something on that order, certainly within sight. It's like the wall is sort of continuing, and you see—you can see this sort of crystal structure, and then there's just nothingness, just like an empty gash, and then a smear that kind of extends across the horizon. You actually can't see past it. It's like almost a wall of blackness."
+        },
+        {
+          "startUid": "u2775",
+          "endUid": "u2782",
+          "quote": "Travel again. It's—it's hard to judge not just distance, but time. And you begin approaching closer and closer to this black wall, and you can see, actually, as you get closer that there's some variation, right? So there's some places where it seems deeper, and it almost seems to stretch—it sort of stretches to the sky, but somehow there's also, you know, pieces of light that that shine through it.\nDM: Where it looks more like a mist lying low to the, the ground. And we’ll stop here, about a few miles out from the edge of the blackness, where you can see—you can't—I mean, you can't see through the night. It's like—it's, it's not even just, like, darkness. It's like looking into a sort of dense black fog."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0328",
+              "endUid": "u0331",
+              "quote": "In to the north, where Red Sun Watch is, which is where you're going, the fey realm of Hollowdark, which is ruled by the Archfey Wend, the Silence That Follows, has crashed through the Sunset Gate, and darkness is spreading in rivers into Amberglow.\nDM: But the Sunset Gate's always been there. It stretches well, as far as anybody knows."
+            },
+            {
+              "startUid": "u2677",
+              "endUid": "u2681",
+              "quote": "Some distance beyond the river with the dead trees, you can see what looks like a smear of blackness on the horizon, and the wall itself. It's much more obvious on the wall itself, because it looks like there's just a giant gash in the sky, maybe 60 miles away, although again it's, like, really hard to judge the distance, but 20, 40, 60, a hundred, something on that order, certainly within sight. It's like the wall is sort of continuing, and you see—you can see this sort of crystal structure, and then there's just nothingness, just like an empty gash, and then a smear that kind of extends across the horizon. You actually can't see past it. It's like almost a wall of blackness."
+            }
+          ],
+          "note": "The observed gash is interpreted as the incursion described earlier; its internal geography is not visible."
+        }
+      ]
+    },
+    "p13": {
+      "label": "Red Sun Watch",
+      "kind": "keep",
+      "evidence": [
+        {
+          "startUid": "u2783",
+          "endUid": "u2793",
+          "quote": "But there is one tower standing that seems to be on a small rise, or somehow protected from the from the light—or, I mean, from the darkness, because you see shining with sort of faint, dim, kind of weak sunlight, but still shining with sunlight, top maybe 3rd of a tower, the remains of what look like golden decorations on its roof, but having sort of scraped and tarnished and decayed since then, standing above the darkness.\nDM: This obviously must be Red Sun Watch, based on everything that you've seen and heard, although most of the watch seems to have been swallowed up by this darkness,"
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Amberglow/Redsun Watch.md",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0328",
+              "endUid": "u0331",
+              "quote": "In to the north, where Red Sun Watch is, which is where you're going, the fey realm of Hollowdark, which is ruled by the Archfey Wend, the Silence That Follows, has crashed through the Sunset Gate, and darkness is spreading in rivers into Amberglow.\nDM: But the Sunset Gate's always been there. It stretches well, as far as anybody knows."
+            },
+            {
+              "startUid": "u2677",
+              "endUid": "u2681",
+              "quote": "Some distance beyond the river with the dead trees, you can see what looks like a smear of blackness on the horizon, and the wall itself. It's much more obvious on the wall itself, because it looks like there's just a giant gash in the sky, maybe 60 miles away, although again it's, like, really hard to judge the distance, but 20, 40, 60, a hundred, something on that order, certainly within sight. It's like the wall is sort of continuing, and you see—you can see this sort of crystal structure, and then there's just nothingness, just like an empty gash, and then a smear that kind of extends across the horizon. You actually can't see past it. It's like almost a wall of blackness."
+            },
+            {
+              "startUid": "u2783",
+              "endUid": "u2793",
+              "quote": "But there is one tower standing that seems to be on a small rise, or somehow protected from the from the light—or, I mean, from the darkness, because you see shining with sort of faint, dim, kind of weak sunlight, but still shining with sunlight, top maybe 3rd of a tower, the remains of what look like golden decorations on its roof, but having sort of scraped and tarnished and decayed since then, standing above the darkness.\nDM: This obviously must be Red Sun Watch, based on everything that you've seen and heard, although most of the watch seems to have been swallowed up by this darkness,"
+            }
+          ]
+        }
+      ],
+      "note": "The top third of one tower is observed above the darkness. The vault note Redsun Watch identifies the same keep on Amberglow’s eastern edge; that vault orientation is not a separately observed boundary or a physical visit."
+    },
+    "p14": {
+      "label": "Sunwine Hall",
+      "kind": "court",
+      "evidence": [
+        {
+          "startUid": "u0016",
+          "endUid": "u0021",
+          "quote": "The past 2 days have been spent in the the Sunwine Hall, the court of Lord Soven, the master of revels, although you're not quite sure exactly how much time passed. The days seem a bit fuzzy. You seem to remember eating at least a few times and sleeping at least once.\nDM: But it was also busy. Delwath was telling stories. Wellby spent his time training the Wyvern successfully, miraculously, and now is riding on a giant Wyvern across the Feywild."
+        },
+        {
+          "startUid": "u0036",
+          "endUid": "u0042",
+          "quote": "We pick up flying across the plains of Emberwine, having left the, the hall of Lord Soven, the master of revels, and the, and the lord of this fey domain, having spent—after the party had spent, you know, it's hard to say exactly how long. It seemed like maybe 2 days. But it's difficult to carefully track time in these fey parties.\nDM: While there you spoke to several people including a Lord Soven himself as well as the brash duelist Arendel, who defeated Delwath in single combat."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Emberwine/Sunwine Hall.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0036",
+              "endUid": "u0042",
+              "quote": "We pick up flying across the plains of Emberwine, having left the, the hall of Lord Soven, the master of revels, and the, and the lord of this fey domain, having spent—after the party had spent, you know, it's hard to say exactly how long. It seemed like maybe 2 days. But it's difficult to carefully track time in these fey parties.\nDM: While there you spoke to several people including a Lord Soven himself as well as the brash duelist Arendel, who defeated Delwath in single combat."
+            }
+          ],
+          "note": "The hall is described as the court of the lord of this fey domain."
+        }
+      ],
+      "note": "Opening recap and departure origin, not a new played stop during this session."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0007",
+        "endUid": "u0008"
+      },
+      "actors": [
+        "party",
+        "Valeris",
+        "Esmara"
+      ],
+      "reading": "The five PCs and two fey companions are flying over Emberwine, having left Sunwine Hall.",
+      "evidence": [
+        {
+          "startUid": "u0007",
+          "endUid": "u0015",
+          "quote": "Okay. So we pick up, flying over the rolling fields of Emberwine, the 5 of you and your 2 fae companions.\nDM: Valeris, the satyr, cursed to be brutally honest, seeking redemption on a selfless quest, and Esmara, a fey scholar from a realm to the west, called Gleamwater, that seemed to be somewhere around where Chardon is in the, in the material plane, who is writing a book on the mundane world, and was curious about your about your travels and your feelings, and just who you were, basically, and decided to travel with you for some amount of time."
+        },
+        {
+          "startUid": "u0036",
+          "endUid": "u0040",
+          "quote": "We pick up flying across the plains of Emberwine, having left the, the hall of Lord Soven, the master of revels, and the, and the lord of this fey domain, having spent—after the party had spent, you know, it's hard to say exactly how long. It seemed like maybe 2 days. But it's difficult to carefully track time in these fey parties."
+        },
+        {
+          "startUid": "u0056",
+          "endUid": "u0068",
+          "quote": "So we begin as you are flying on multicolored griffins, with heads of parrots and peacocks instead of eagles.\nSeeker: We're out.\nDM: Except Wellby, who finally took the time here in the Feywild to train the wyvern that's been trapped in the mirror for I—almost a year now, and he is flying on the Wyvern, hoping it doesn't get enraged and turn on him, but for the moment under control.\nWellby: It was a good wyvern.\nDM: As you fly, passing over the rolling fields, heading east towards the Sunset Gate, and then turning north to seek Red Sun Watch, where, according to the stories you heard in Lord Soven's court, the secret to finding the Prismwell still can be found. It just requires breaking the darkness with true sunlight, in order to illuminate the path, although exactly how to illuminate the path, and where the darkness must be broken, is not immediately clear."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0287",
+        "endUid": "u0295"
+      },
+      "actors": [
+        "party",
+        "Valeris",
+        "Esmara"
+      ],
+      "reading": "Fly east across Emberwine and reach the Sunset Gate, landing at its base to examine it without crossing.",
+      "evidence": [
+        {
+          "startUid": "u0287",
+          "endUid": "u0295",
+          "quote": "So the conversation ebbs and flows. You find yourself time passing until after a few nights, 3, 4 nights sleep,\nDM: you see ahead of you the Sunset Gate, a massive wall that stretches as far as you can see into the sky, blocking further travel east. The— the light of the sunset itself, crystallized, and frozen into this shimmering wall that gleams and reflects the light in all directions.\nDM: There are, you know, the occasional gates and tunnels that look like you could sort of push your way through, although—"
+        },
+        {
+          "startUid": "u0320",
+          "endUid": "u0323",
+          "quote": "Yeah, you can. As long as you don't try and pass through it. It's it's warm to the touch. Feels pleasant here, at least not burning, but a little bit warm. It feels it feels smooth, even the parts that look sort of jagged, almost soft in places."
+        },
+        {
+          "startUid": "u0340",
+          "endUid": "u0347",
+          "quote": "I assume we're like on the ground at the base of it.\nDM: Yeah, does it—if you're exploring it.\nDelwath: Go up forever? What's the—what, what's above it?\nDM: Yeah, there's nothing above it. It goes up forever.\nSeeker: Oh!\nDM: Or at least as far as you can see.\nDelwath: Right, so, like, disappears into the sky, but it looks like it's still going.\nDM: Yes."
+        }
+      ],
+      "from": "p01",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Approach the Sunset Gate from the west.",
+          "place": "p02"
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0452",
+        "endUid": "u0482"
+      },
+      "actors": [
+        "party",
+        "Valeris",
+        "Esmara"
+      ],
+      "reading": "Follow the Sunset Gate north through quiet outer Emberwine to the bleached borderlands of Amberglow.",
+      "evidence": [
+        {
+          "startUid": "u0452",
+          "endUid": "u0484",
+          "quote": "You travel along the Sunset Gate, watching its colors shift and twist and blend with each other, occasionally catching the scent of dreams on the wind, the taste of the colors of the sunset on your tongue, as you make your way north.\nDM: This part of Emberwine is not inhabited really. And you get the sense that this is pretty far from the like center of center of gravity, of Emberwine. There's rolling hills and sort of valleys, but not any. You know the the vineyards that coat most of the the realm don't stretch here, and everything seems quiet in a way that isn't really characteristic of Emberwine elsewhere.\nDM: Almost as if this is sort of the, you know, the nap after the party that transitions into Nocturne Vale.\nDM: Time passes. You sleep. You eat, sleep again, hard, really, to say exactly how long it’s been. But eventually, you reach a point where you begin to see ahead of you, the color sort of bleaching from the land. I assume you're still flying at this point. So this is maybe 50 60 miles away. It's sort of on the edge of what you can see. The the vines fade, the landscape shifts to these rolling hills. The—sorry, the, the—even the plants begin to sort of turn a bit bleached, a bit gray and faded as you begin to push north and—\nDM: Well, the satyr Valeris is on this quest for better or worse. Esmara, the scholar, is a little uncertain. \"Amberglow is dangerous,\" she says. I meant to come to the Sunset Gate, but I may turn south here and search for a dream warden to lead me across the Nocturne Vale, for we reached the point where we pass from west of Nocturne Vale to west of Hollowdark, and crossing becomes fraught with peril. So, unless anybody has a strong argument to try and convince her, she turns and bids you farewell.\nDM: Okay. Having gone far enough to observe the the sort of borderlands between Emberwine and Amberglow, but not quite willing to cross over into Amberglow.\nDM: So as she leaves, you continue flying. As you begin to reach beyond that."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Remain on the sunward side of the Sunset Gate; no crossing.",
+          "place": "p02"
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0473",
+        "endUid": "u0484"
+      },
+      "actors": [
+        "Esmara"
+      ],
+      "reading": "Esmara bids farewell at the borderlands and turns south to seek a dream warden for a possible Nocturne Vale crossing.",
+      "evidence": [
+        {
+          "startUid": "u0473",
+          "endUid": "u0484",
+          "quote": "Well, the satyr Valeris is on this quest for better or worse. Esmara, the scholar, is a little uncertain. \"Amberglow is dangerous,\" she says. I meant to come to the Sunset Gate, but I may turn south here and search for a dream warden to lead me across the Nocturne Vale, for we reached the point where we pass from west of Nocturne Vale to west of Hollowdark, and crossing becomes fraught with peril. So, unless anybody has a strong argument to try and convince her, she turns and bids you farewell.\nDM: Okay. Having gone far enough to observe the the sort of borderlands between Emberwine and Amberglow, but not quite willing to cross over into Amberglow.\nDM: So as she leaves, you continue flying. As you begin to reach beyond that."
+        }
+      ],
+      "from": "p04",
+      "to": null,
+      "completion": "underway",
+      "mode": "travel south",
+      "note": "The departure is played; finding a warden and crossing the Sunset Gate remain intentions."
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0485",
+        "endUid": "u0511"
+      },
+      "actors": [
+        "party",
+        "Valeris"
+      ],
+      "reading": "Continue north over the bleached plain and low hills, circling above four giants who demand blood as a toll; bypass them without landing.",
+      "evidence": [
+        {
+          "startUid": "u0485",
+          "endUid": "u0511",
+          "quote": "Maybe another half day passes or something, and you see a line of hills in front of you. Stark. The sort of yeah bleached plains of Emberwine in the distance. Sunset Gate still there along along the edge. But the colors sort of fracturing now into more grays and whites and everything sort of desaturated. You're still flying! How high up are you flying?\nWellby: 100 feet.\nDelwath: Yeah, something like that.\nWellby: Plus or minus.\nRiswynn: Not pretty.\nSeeker: What was it?\nWellby: 100 feet, just like just out of short range for a bow shot. Say.\nSeeker: Nice.\nDM: So as you— So as you fly, you you sort of fly across this sort of bleached plain, and and pass over this line of low hills, you know, very low hills, you know, coming no more than a few 100 feet, but like a sort of rolling, jagged landscape.\nDM: And you see below you, sort of walking along the border of, of Amberglow, a group of 4, very large, maybe 15–20 foot tall, humanoids with—\nKenzo: So.\nDM: One of them is is carrying a staff that's got like the skull of some sort of creature on the top of it. That's probably a 15 foot tall staff. He's probably 20 feet tall.\nDM: And the other 3 kind of all sort of, you know, one of their eyes—their eyes are sort of, like, twisted and misshapen a little bit. They're not wearing very much: dirty loincloths,\nDM: And they're walking along, and as they look up as they see you, and and the one shouts out in a booming, loud voice, in Sylvan, \"Travelers, stop!\" \"You must pay the toll!\""
+        },
+        {
+          "startUid": "u0530",
+          "endUid": "u0554",
+          "quote": "Can our griffins hover? I'll, I'll—\nDM: No, I don't think your griffins can hover.\nRiswynn: How about we circle?\nDelwath: I'll, I'll, like, nudge the griffin to circle a bit,\nWellby: Yeah, let's ask the satyr what—\nDelwath: And I'll shout down, 'What is the toll?'\nDM: One vial of blood, each.\nSeeker: Whose blood?\nDM: Come on, now, don't do something you might regret.\nWellby: We're already doing something we might—\nDelwath: No, I—I—is there—\nSeeker: Documented knowledge of the use of blood in the Feywild?\nDelwath: It. There is nothing good that comes of giving giving a fey your blood just nothing.\nDM: When he says that, Delwath was like, \"I’m not doing that.\"\nDelwath: Yeah. Nothing good comes of this.\nRiswynn: Firefight.\nSeeker: Yeah. Keep circling.\nDelwath: We'll circle. We'll circle a few more times. Let's go. I'll angle a little higher, 150 feet up.\nWellby: Let's leave.\nDelwath: No, thank you.\nDM: Last chance!\nDelwath: We're leaving.\nDM: Curse you fools!"
+        },
+        {
+          "startUid": "u0563",
+          "endUid": "u0570",
+          "quote": "No, it's like 60 or 90 feet something like that. But—okay. So you fly off.\nDelwath: Yep.\nDM: They don't immediately start to follow you. The satyr kind of looks over at you like, \"It’s really nice to be able to fly.\"\nSeeker: Yeah.\nDM: Starts laughing."
+        }
+      ],
+      "from": "p04",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "fly",
+      "duration": {
+        "value": 0.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM narrates another half day before these hills"
+      }
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0693",
+        "endUid": "u0728"
+      },
+      "actors": [
+        "party",
+        "Valeris"
+      ],
+      "reading": "Fly north from the giants, turn toward mounted hunters, then flee before slowing to engage on the southern Amberglow plain.",
+      "evidence": [
+        {
+          "startUid": "u0693",
+          "endUid": "u0728",
+          "quote": "So as you sort of travel, you know, time passes. Like I said, you're not— You're not particularly feeling tired or hungry. But, Wellby, you do notice in—after some amount of time has passed, it’s hard to say exactly how much, but you’re well out of the rate—out of sight of the of the strange giants that you passed before, so few hours. 3, 5, 7 h! Something like that.\nDM: You see running along the plains below, clearly, sort of, you know, in the distance, probably, I don't know, 15 miles away, 10 miles away from you, diagonally, but heading in your direction, what look like 2 or 3 sort of small figures on some kind of mount running in your direction with a sort of pack of something moving around them, hard to say what at this distance.\nDelwath: There's probably check—\nWellby: What's good—\nDelwath: We should probably check it out.\nWellby: Yeah, we'll we'll at least pull the wyvern in their direction, and—\nDelwath: Yeah.\nWellby: Understand what they are.\nDelwath: Wheel sort of towards them.\nDM: Okay,\nDM: So as you do, you see, you know, you turn and you fly in that direction. You see what look like: 2—no, 3 massively large wolves, probably 15–20 feet long, loping along, each of which has mounted on top of it a creature hard to say what it is at this, you know from, you know, maybe maybe a mile away, when it's clear that there's giant wolves running along. But each of the 3 giant wolves is mounted, and then there's probably—\nDM: A few dozen smaller wolves kind of running around, like, running out in different directions. Kind of seems to be maybe a hunting party of some kind.\nWellby: Well, they see us, presumably?\nDM: Oh, yeah, they're wheeling towards you.\nWellby: Do they have ranged weapons that they're carrying, obviously?\nDM: Well from a mile away. It's impossible to see what they're carrying.\nWellby: Oh! From a quarter mile away.\nDM: So you just get closer—they’ve got bows and spear—wait! Hold on.\nDelwath: Wait. Are they sorry I missed that a minute ago? Are they chasing somebody, or just riding across the plains.\nDM: They're riding towards you.\nDelwath: Yeah.\nDM: One of them. One of them has a has a bow.\nDM: Clearly—actually, sorry. No, all 3 of them have bows and swords."
+        },
+        {
+          "startUid": "u0774",
+          "endUid": "u0782",
+          "quote": "So you turn and you begin to fly away. And they they like clearly wheel to follow you. You know, these giant wolves are, you know, running pretty fast. I mean, they're—they've got quite the [garbled] stride.\nDelwath: Yeah.\nDM: Probably moving a little bit faster than them. But but you know your mounts are your griffins are carrying people and stuff. And you know—yeah, they've certainly seen you in turn to follow you. I mean, you're, like, nobody—you're you're ahead of them by a decent amount."
+        },
+        {
+          "startUid": "u0839",
+          "endUid": "u0841",
+          "quote": "After about—so after, I don't know, 45 min, we'll start slowing and letting them slowly catch up.\nDelwath: Let's actually—I mean, I'll start by just slowing down a little bit, right? Give ourselves a little time to—"
+        },
+        {
+          "startUid": "u2615",
+          "endUid": "u2620",
+          "quote": "Yeah, Seeker's kind of puzzling, looking over them. Yeah, I think definitely read—seen that described. Hmm, hunters of Duskmire. They're a long way from home.\nRiswynn: The southern edge of Amberglow, not the northern edge, right?\nDM: Right, although Lirien also did say that Lord Umbraeth's servants had captured at least one, possibly more amberlights, and so may be able to track the Cloud Spinner that way."
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Bypass the giant toll collectors.",
+          "place": "p06"
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "presence",
+      "source": {
+        "startUid": "u1259",
+        "endUid": "u1262"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo reaches the ground on the hunting battlefield while his companions initially remain airborne.",
+      "evidence": [
+        {
+          "startUid": "u1259",
+          "endUid": "u1262",
+          "quote": "So Kenzo moves like the wind and drops down in front of this creature on the ground here. That ends your turn. Now they will attack you."
+        },
+        {
+          "startUid": "u1146",
+          "endUid": "u1149",
+          "quote": "And where's the Wyvern? The Wyvern is—the Wyvern and the satyr are way up in the sky.\nWellby: Yeah, way, way.\nDM: So you're just flying with your armor?\nWellby: Yep."
+        }
+      ],
+      "place": "p07"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1881",
+        "endUid": "u1895"
+      },
+      "actors": [
+        "Delwath",
+        "Riswynn"
+      ],
+      "reading": "Delwath Dimension Doors with Riswynn from the airborne approach into the ground battle beside Kenzo.",
+      "evidence": [
+        {
+          "startUid": "u1881",
+          "endUid": "u1895",
+          "quote": "And then cast it to appear. I'm going to run up to Riswynn. Then from Riswynn's position, right, quicken a dimension door. It's a dimension door.\nDM: Okay.\nDelwath: To right there, and 5—wherever Riswynn wants to be, 5 feet next to me.\nDM: Where do you want to be, Kate?\nRiswynn: I mean, I guess they're—\nDM: Both. Both of you make wisdom saving throws with advantage.\nDelwath: They're 13.\nDM: You are frightened.\nDelwath: Hold on! Hold on! I'm going to heroic inspire that, I think. Okay, that's better.\nDM: Okay, you are not frightened. So, Kate, your spell goes off. What spell are you casting?"
+        },
+        {
+          "startUid": "u1904",
+          "endUid": "u1919",
+          "quote": "So all the bad things experience searing light, so they make a Dex saving throw and take 6d12 radiant damage on a failed save, and half as much on a success.\nDM: Okay.\nDelwath: I mean it rolled the damage 43, and 31.\nDM: That guys succeeds. The Warg also succeeds. Is that half damage on a success?\nDelwath: Don't they die, no matter what?\nDM: I mean, sorry, minions die, no matter what.\nRiswynn: Hmm.\nDM: So all these minions are seared away by the flaming radiance of the divine Bahrazel. Kenzo heals 31 hit points.\nKenzo: Nice.\nDM: Do the other ones take half damage on success?\nRiswynn: Yes. Okay. Take damage on success."
+        }
+      ],
+      "from": "p07",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "Dimension Door"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u2554",
+        "endUid": "u2567"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Leaves the battlefield and flies after the wyvern, catches and remounts it farther north along the wall, without immediately slowing it.",
+      "evidence": [
+        {
+          "startUid": "u2554",
+          "endUid": "u2571",
+          "quote": "The Wyvern is nowhere to be seen. Well, is seen, but very far away.\nWellby: I'll I'll go track that guy back down again.\nDM: Okay, make an animal handling check. It takes you some time. You can. The only way you can fly faster than him is with your armor.\nWellby: I also have boots of speed.\nDM: Yeah, with using your Boots of Speed and your armor.\nDM: The griffins can't catch him, and it takes you a few minutes to catch up, and then sort of— you basically just fly up beside him and, you know, kind of managed to land on him, and he kind of shakes his shoulders a little bit, and turns back and snaps at you. But doesn't, like, directly throw you off. Flying along the wall, flying in sort of the direction you want to go, but you're not having much luck getting—fine mounting him, not having much luck getting him to slow down.\nKenzo: No.\nWellby: That's okay. I mean, we're headed in the right direction. This is—\nDelwath: It'll be fine.\nWellby: Slow down!"
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "flight armor and Boots of Speed",
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM narrates the pursuit before remounting"
+      }
+    },
+    {
+      "id": "l10",
+      "type": "presence",
+      "source": {
+        "startUid": "u2575",
+        "endUid": "u2577"
+      },
+      "actors": [
+        "Delwath",
+        "Riswynn",
+        "Kenzo",
+        "Seeker",
+        "Valeris"
+      ],
+      "reading": "The remaining PCs examine the hunters on the ground; Valeris lands and joins the aftermath conversation.",
+      "evidence": [
+        {
+          "startUid": "u2572",
+          "endUid": "u2577",
+          "quote": "So everybody else leap into the air and fly after him? Or are you gonna, like, look around?\nWellby: I mean, you should search those guys first, right?\nDelwath: Yeah, let's look around for a little bit. I mean, is there any clues as to where they came from, or—\nDM: So with, with all of everybody dead scattered around the ground, the—your satyr friend, Valeris is happy, lands, and, you know, is sort of willing to chat and, and talk a little bit."
+        },
+        {
+          "startUid": "u2631",
+          "endUid": "u2635",
+          "quote": "I mean, yeah, I was gonna say, I might—I might cast— if we're—before we set out, I might cast—I'm going to cast a prayer of healing, takes 10 min while, while Seeker's doing his stuff. Just to a—that'll heal 2D. 8.\nDM: Not to Wellby, though, because Wellby's off.\nDelwath: Correct. Everybody else heals 2D. 8,"
+        }
+      ],
+      "place": "p07"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u2661",
+        "endUid": "u2681"
+      },
+      "actors": [
+        "party",
+        "Valeris"
+      ],
+      "reading": "The ground group takes off to catch Wellby and continues north; the eventual shared short rest is before the dead-tree river.",
+      "evidence": [
+        {
+          "startUid": "u2661",
+          "endUid": "u2681",
+          "quote": "So you rest a bit, I mean, for 10 min, while Seeker's sort of thinking about the— what he's read about— these duskhands from Duskmire, Duskmire, and you then launch into the air to to catch up to to Wellby and continue flying north on your griffins, who are much better trained than the Wyvern, and when combat is over, all land in a circle once it’s safe to do so with the, with Valeris the satyr, and wait for you to remount. Over the next period of time, hard to say how long, you start to get hungry a bit.\nDM: Don't see anything else moving, although up ahead you can see 2 things now. 1st, in the close distance, maybe 20 miles away, you see what looks like a glittering line of a river.\nDM: Except, weirdly, it looks kind of— you can imagine it almost looks like ice from this distance. Like, it doesn't seem to be moving much. It's like almost plain white, sort of matte line, but there's a—there's a grove of, like, dead trees that are growing around it, and that grow up around the river, stretching away from the wall, and the river itself kind of flows almost into the Sunset Gate.\nDM: Some distance beyond the river with the dead trees, you can see what looks like a smear of blackness on the horizon, and the wall itself. It's much more obvious on the wall itself, because it looks like there's just a giant gash in the sky, maybe 60 miles away, although again it's, like, really hard to judge the distance, but 20, 40, 60, a hundred, something on that order, certainly within sight. It's like the wall is sort of continuing, and you see—you can see this sort of crystal structure, and then there's just nothingness, just like an empty gash, and then a smear that kind of extends across the horizon. You actually can't see past it. It's like almost a wall of blackness."
+        },
+        {
+          "startUid": "u2725",
+          "endUid": "u2728",
+          "quote": "Okay, so you want to find a place to— so right now, you're, like, a few—you're— hard to say exactly. A few miles, maybe up to a dozen miles from this river, and then beyond the river, it’s maybe 40 to 80 miles to the wall of blackness."
+        },
+        {
+          "startUid": "u2761",
+          "endUid": "u2767",
+          "quote": "We'll just use 1, 1 hit to assume—\nDelwath: Just use a 1 hit die, right? We're short resting.\nKenzo: Okay.\nRiswynn: I will use—\nDelwath: And this spell slot 5 gets—\nDM: Right, and everybody gets heroic inspiration back.\nKenzo: All right, back to full."
+        },
+        {
+          "startUid": "u2773",
+          "endUid": "u2774",
+          "quote": "So you cross the river, the—again, fairly high up—the grove, you know, the grove of dead trees below you. After having taken a short break, had some food. You were starting to get hungry."
+        }
+      ],
+      "from": "p07",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "fly",
+      "note": "The catch-up itself is compressed; no precise rendezvous point is supplied before the shared rest."
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u2670",
+        "endUid": "u2681"
+      },
+      "actors": [
+        "party",
+        "Valeris"
+      ],
+      "reading": "While approaching, see the pale river and its dead-tree grove ahead, and a farther gash of blackness in the gate.",
+      "evidence": [
+        {
+          "startUid": "u2670",
+          "endUid": "u2681",
+          "quote": "Don't see anything else moving, although up ahead you can see 2 things now. 1st, in the close distance, maybe 20 miles away, you see what looks like a glittering line of a river.\nDM: Except, weirdly, it looks kind of— you can imagine it almost looks like ice from this distance. Like, it doesn't seem to be moving much. It's like almost plain white, sort of matte line, but there's a—there's a grove of, like, dead trees that are growing around it, and that grow up around the river, stretching away from the wall, and the river itself kind of flows almost into the Sunset Gate.\nDM: Some distance beyond the river with the dead trees, you can see what looks like a smear of blackness on the horizon, and the wall itself. It's much more obvious on the wall itself, because it looks like there's just a giant gash in the sky, maybe 60 miles away, although again it's, like, really hard to judge the distance, but 20, 40, 60, a hundred, something on that order, certainly within sight. It's like the wall is sort of continuing, and you see—you can see this sort of crystal structure, and then there's just nothingness, just like an empty gash, and then a smear that kind of extends across the horizon. You actually can't see past it. It's like almost a wall of blackness."
+        }
+      ],
+      "place": "p10",
+      "mode": "local"
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u2677",
+        "endUid": "u2681"
+      },
+      "actors": [
+        "party",
+        "Valeris"
+      ],
+      "reading": "See the distant smear of darkness interrupting the Sunset Gate; the party has not entered it.",
+      "evidence": [
+        {
+          "startUid": "u2677",
+          "endUid": "u2681",
+          "quote": "Some distance beyond the river with the dead trees, you can see what looks like a smear of blackness on the horizon, and the wall itself. It's much more obvious on the wall itself, because it looks like there's just a giant gash in the sky, maybe 60 miles away, although again it's, like, really hard to judge the distance, but 20, 40, 60, a hundred, something on that order, certainly within sight. It's like the wall is sort of continuing, and you see—you can see this sort of crystal structure, and then there's just nothingness, just like an empty gash, and then a smear that kind of extends across the horizon. You actually can't see past it. It's like almost a wall of blackness."
+        },
+        {
+          "startUid": "u2725",
+          "endUid": "u2728",
+          "quote": "Okay, so you want to find a place to— so right now, you're, like, a few—you're— hard to say exactly. A few miles, maybe up to a dozen miles from this river, and then beyond the river, it’s maybe 40 to 80 miles to the wall of blackness."
+        }
+      ],
+      "place": "p12",
+      "mode": "local"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2773",
+        "endUid": "u2782"
+      },
+      "actors": [
+        "party",
+        "Valeris"
+      ],
+      "reading": "After food and the short rest, fly high across the river and grove, continuing to a stopping point a few miles outside the darkness.",
+      "evidence": [
+        {
+          "startUid": "u2773",
+          "endUid": "u2782",
+          "quote": "So you cross the river, the—again, fairly high up—the grove, you know, the grove of dead trees below you. After having taken a short break, had some food. You were starting to get hungry.\nDM: Travel again. It's—it's hard to judge not just distance, but time. And you begin approaching closer and closer to this black wall, and you can see, actually, as you get closer that there's some variation, right? So there's some places where it seems deeper, and it almost seems to stretch—it sort of stretches to the sky, but somehow there's also, you know, pieces of light that that shine through it.\nDM: Where it looks more like a mist lying low to the, the ground. And we’ll stop here, about a few miles out from the edge of the blackness, where you can see—you can't—I mean, you can't see through the night. It's like—it's, it's not even just, like, darkness. It's like looking into a sort of dense black fog."
+        }
+      ],
+      "from": "p09",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Fly over and cross the river and dead-tree grove without landing.",
+          "place": "p10"
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "observation",
+      "source": {
+        "startUid": "u2783",
+        "endUid": "u2793"
+      },
+      "actors": [
+        "party",
+        "Valeris"
+      ],
+      "reading": "From outside the darkness, see the weakly sunlit top third of a tower and identify it as Red Sun Watch; most of the keep is swallowed by darkness.",
+      "evidence": [
+        {
+          "startUid": "u2780",
+          "endUid": "u2793",
+          "quote": "Where it looks more like a mist lying low to the, the ground. And we’ll stop here, about a few miles out from the edge of the blackness, where you can see—you can't—I mean, you can't see through the night. It's like—it's, it's not even just, like, darkness. It's like looking into a sort of dense black fog.\nDM: But there is one tower standing that seems to be on a small rise, or somehow protected from the from the light—or, I mean, from the darkness, because you see shining with sort of faint, dim, kind of weak sunlight, but still shining with sunlight, top maybe 3rd of a tower, the remains of what look like golden decorations on its roof, but having sort of scraped and tarnished and decayed since then, standing above the darkness.\nDM: This obviously must be Red Sun Watch, based on everything that you've seen and heard, although most of the watch seems to have been swallowed up by this darkness,"
+        }
+      ],
+      "place": "p13",
+      "mode": "local",
+      "observerPlace": "p11"
+    }
+  ]
+}
