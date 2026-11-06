@@ -1,0 +1,1151 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "14ec6b5112538a313f32603b4f4b004a71fb0f3e5ca0f15efdfb0c6c52de5a04"
+    },
+    "entityMap": {
+      "path": "_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-entity-map.json",
+      "sha256": "4c0d7fc4c19b4a49e6f26908cf22d183b98279b6254348cf87d301d1a786c29f"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "The labyrinth beast falls and an exit opens",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "present"
+        }
+      ],
+      "source": {
+        "startUid": "u0051",
+        "endUid": "u1383"
+      },
+      "lines": [
+        "%% u0051:0-52, u0052:0-32, u0053:0-29, u0054:0-82, u0055:0-37, u0056:0-90, u0057:0-95, u0058:0-18, u0059:0-34 %%",
+        "DM: ((Omitted incidental discussion)) this huge beast, well, large beast— shaggy white fur, cold, ice for eyes. And it roars as Justas calls out his challenge, and… ((Omitted incidental discussion))",
+        "",
+        "%% u0060:0-48, u0061:0-3, u0062:0-22, u0063:0-33, u0064:0-9, u0065:0-16, u0066:0-4, u0067:0-5, u0068:0-57, u0069:0-105, u0070:0-3, u0071:0-62, u0072:0-120, u0073:0-16, u0074:0-11, u0075:0-9, u0076:0-21, u0077:0-3, u0078:0-16, u0079:0-73, u0080:0-15, u0081:0-20, u0082:0-8, u0083:0-20, u0084:0-34, u0085:0-99, u0086:0-8, u0087:0-14, u0088:0-19, u0089:0-42, u0090:0-38, u0091:0-39, u0092:0-13, u0093:0-48, u0094:0-43, u0095:0-61, u0096:0-37, u0097:0-45, u0098:0-32, u0099:0-28, u0100:0-3, u0101:0-78, u0102:0-47, u0103:0-8, u0104:0-8, u0105:0-10, u0106:0-52, u0107:0-35, u0108:0-48, u0109:0-83, u0110:0-5, u0111:0-65, u0112:0-11, u0113:0-11, u0114:0-3, u0115:0-66, u0116:0-5, u0117:0-5, u0118:0-93, u0119:0-25, u0120:0-19, u0121:0-40, u0122:0-28, u0123:0-10, u0124:0-6, u0125:0-78, u0126:0-60, u0127:0-42, u0128:0-51, u0129:0-5, u0130:0-15, u0131:0-152, u0132:0-34, u0133:0-5, u0134:0-23, u0135:0-59, u0136:0-226, u0137:0-32, u0138:0-72, u0139:0-5, u0140:0-25, u0141:0-59, u0142:0-7, u0143:0-25, u0144:0-5, u0145:0-134, u0146:0-5, u0147:0-22, u0148:0-12, u0149:0-45, u0150:0-24, u0151:0-12, u0152:0-5, u0153:0-69, u0154:0-78, u0155:0-76, u0156:0-100, u0157:0-23, u0158:0-18, u0159:0-17, u0160:0-122, u0161:0-20, u0162:0-13, u0163:0-5, u0164:0-5, u0165:0-79, u0166:0-22, u0167:0-20, u0168:0-88, u0169:0-20, u0170:0-6, u0171:0-36, u0172:0-19, u0173:0-9, u0174:0-7, u0175:0-80, u0176:0-72, u0177:0-57, u0178:0-15, u0179:0-31, u0180:0-52, u0181:0-19, u0182:0-71, u0183:0-219, u0184:0-59, u0185:0-35, u0186:0-80, u0187:0-44, u0188:0-4, u0189:0-40, u0190:0-17, u0191:0-20, u0192:0-62, u0193:0-73, u0194:0-171, u0195:0-50, u0196:0-26, u0197:0-106, u0198:0-18, u0199:0-77, u0200:0-35, u0201:0-13, u0202:0-79, u0203:0-121, u0204:0-97, u0205:0-57, u0206:0-18, u0207:0-65, u0208:0-5, u0209:0-99, u0210:0-77, u0211:0-28, u0212:0-16, u0213:0-41, u0214:0-53, u0215:0-91, u0216:0-49, u0217:0-58, u0218:0-27, u0219:0-36, u0220:0-12, u0221:0-4, u0222:0-34, u0223:0-4, u0224:0-31, u0225:0-3, u0226:0-20, u0227:0-72, u0228:0-37, u0229:0-4, u0230:0-44, u0231:0-22, u0232:0-13, u0233:0-32, u0234:0-69, u0235:0-79, u0236:0-4, u0237:0-25, u0238:0-24, u0239:0-17, u0240:0-15, u0241:0-57, u0242:0-44, u0243:0-115, u0244:0-27, u0245:0-10, u0246:0-50, u0247:0-5, u0248:0-138, u0249:0-20, u0250:0-158, u0251:0-40, u0252:0-19, u0253:0-70, u0254:0-23, u0255:0-11, u0256:0-66, u0257:0-27, u0258:0-94, u0259:0-38, u0260:0-47, u0261:0-71, u0262:0-99, u0263:0-48, u0264:0-23, u0265:0-29, u0266:0-34, u0267:0-66, u0268:0-5, u0269:0-22, u0270:0-16, u0271:0-25, u0272:0-7, u0273:0-110, u0274:0-61, u0275:0-38, u0276:0-3, u0277:0-97, u0278:0-126, u0279:0-5, u0280:0-23, u0281:0-13, u0282:0-151, u0283:0-10, u0284:0-24, u0285:0-124, u0286:0-19, u0287:0-8, u0288:0-69, u0289:0-49, u0290:0-83, u0291:0-89, u0292:0-47, u0293:0-22, u0294:0-6, u0295:0-79, u0296:0-165, u0297:0-38, u0298:0-82, u0299:0-48, u0300:0-32, u0301:0-19, u0302:0-4, u0303:0-43, u0304:0-90, u0305:0-11, u0306:0-59, u0307:0-41, u0308:0-24, u0309:0-35, u0310:0-34, u0311:0-2, u0312:0-2, u0313:0-56, u0314:0-34, u0315:0-10, u0316:0-43, u0317:0-35, u0318:0-110, u0319:0-47, u0320:0-21, u0321:0-38, u0322:0-8, u0323:0-17, u0324:0-10, u0325:0-13, u0326:0-8, u0327:0-22, u0328:0-103, u0329:0-101, u0330:0-40, u0331:0-32, u0332:0-4, u0333:0-53, u0334:0-50, u0335:0-4, u0336:0-19, u0337:0-26, u0338:0-99, u0339:0-90, u0340:0-5, u0341:0-33, u0342:0-52, u0343:0-10, u0344:0-33, u0345:0-108, u0346:0-58, u0347:0-23, u0348:0-88, u0349:0-25, u0350:0-29, u0351:0-24, u0352:0-27, u0353:0-43, u0354:0-55, u0355:0-36, u0356:0-29, u0357:0-70, u0358:0-27, u0359:0-24, u0360:0-43, u0361:0-5, u0362:0-46, u0363:0-46, u0364:0-42, u0365:0-27, u0366:0-30, u0367:0-25, u0368:0-45, u0369:0-16, u0370:0-84, u0371:0-17, u0372:0-5, u0373:0-6, u0374:0-35, u0375:0-65, u0376:0-59, u0377:0-49, u0378:0-93, u0379:0-4, u0380:0-21, u0381:0-5, u0382:0-27, u0383:0-22, u0384:0-50, u0385:0-71, u0386:0-52, u0387:0-96, u0388:0-95, u0389:0-38, u0390:0-39, u0391:0-40, u0392:0-21, u0393:0-16, u0394:0-34, u0395:0-63, u0396:0-41, u0397:0-7, u0398:0-159, u0399:0-47, u0400:0-23, u0401:0-55, u0402:0-8, u0403:0-35, u0404:0-8, u0405:0-58, u0406:0-5, u0407:0-40, u0408:0-56, u0409:0-18, u0410:0-26, u0411:0-31, u0412:0-54, u0413:0-115, u0414:0-49, u0415:0-37, u0416:0-23, u0417:0-17, u0418:0-40, u0419:0-38, u0420:0-10, u0421:0-115, u0422:0-26, u0423:0-20, u0424:0-22, u0425:0-58, u0426:0-7, u0427:0-70, u0428:0-53, u0429:0-3, u0430:0-17, u0431:0-29, u0432:0-11, u0433:0-7, u0434:0-11, u0435:0-6, u0436:0-64, u0437:0-12, u0438:0-5, u0439:0-36, u0440:0-90, u0441:0-52, u0442:0-2, u0443:0-91, u0444:0-84, u0445:0-6, u0446:0-159, u0447:0-4, u0448:0-101, u0449:0-134, u0450:0-4, u0451:0-51, u0452:0-13, u0453:0-120, u0454:0-38, u0455:0-42, u0456:0-17, u0457:0-4, u0458:0-11, u0459:0-9, u0460:0-136, u0461:0-43, u0462:0-48, u0463:0-39, u0464:0-79, u0465:0-53, u0466:0-31, u0467:0-9, u0468:0-61, u0469:0-21, u0470:0-5, u0471:0-13, u0472:0-80, u0473:0-5, u0474:0-35, u0475:0-14, u0476:0-5, u0477:0-97, u0478:0-240, u0479:0-16, u0480:0-18, u0481:0-4, u0482:0-35, u0483:0-5, u0484:0-25, u0485:0-29, u0486:0-15, u0487:0-9, u0488:0-12, u0489:0-17, u0490:0-31, u0491:0-16, u0492:0-49, u0493:0-41, u0494:0-57, u0495:0-85, u0496:0-114, u0497:0-35, u0498:0-14, u0499:0-52, u0500:0-18, u0501:0-5, u0502:0-60, u0503:0-45, u0504:0-72, u0505:0-41, u0506:0-28, u0507:0-5, u0508:0-67, u0509:0-38, u0510:0-78, u0511:0-14, u0512:0-21, u0513:0-34, u0514:0-4, u0515:0-13, u0516:0-5, u0517:0-21, u0518:0-22, u0519:0-15, u0520:0-35, u0521:0-24, u0522:0-66, u0523:0-75, u0524:0-44, u0525:0-19, u0526:0-13, u0527:0-17, u0528:0-17, u0529:0-104, u0530:0-3, u0531:0-28, u0532:0-95, u0533:0-76, u0534:0-66, u0535:0-14, u0536:0-17, u0537:0-4, u0538:0-25, u0539:0-8, u0540:0-35, u0541:0-66, u0542:0-87, u0543:0-16, u0544:0-10, u0545:0-76, u0546:0-5, u0547:0-95, u0548:0-43, u0549:0-6, u0550:0-5, u0551:0-106, u0552:0-44, u0553:0-34, u0554:0-17, u0555:0-70, u0556:0-77, u0557:0-120, u0558:0-6, u0559:0-55, u0560:0-58, u0561:0-10, u0562:0-3, u0563:0-4, u0564:0-19, u0565:0-34, u0566:0-28, u0567:0-58, u0568:0-4, u0569:0-33, u0570:0-66, u0571:0-57, u0572:0-19, u0573:0-42, u0574:0-63, u0575:0-37, u0576:0-22, u0577:0-16, u0578:0-23, u0579:0-83, u0580:0-84, u0581:0-64, u0582:0-3, u0583:0-8, u0584:0-161, u0585:0-32, u0586:0-37, u0587:0-26, u0588:0-44, u0589:0-18, u0590:0-11, u0591:0-27, u0592:0-26, u0593:0-3, u0594:0-27, u0595:0-67, u0596:0-5, u0597:0-19, u0598:0-34, u0599:0-39, u0600:0-56, u0601:0-55, u0602:0-112, u0603:0-48, u0604:0-9, u0605:0-11, u0606:0-108, u0607:0-49, u0608:0-9, u0609:0-8, u0610:0-31, u0611:0-14, u0612:0-5, u0613:0-13, u0614:0-5, u0615:0-22, u0616:0-27, u0617:0-72, u0618:0-20, u0619:0-45, u0620:0-16, u0621:0-18, u0622:0-5, u0623:0-7, u0624:0-4, u0625:0-91, u0626:0-21, u0627:0-3, u0628:0-29, u0629:0-49, u0630:0-22, u0631:0-20, u0632:0-60, u0633:0-45, u0634:0-114, u0635:0-13, u0636:0-20, u0637:0-100, u0638:0-42, u0639:0-16, u0640:0-128, u0641:0-24, u0642:0-10, u0643:0-45, u0644:0-74, u0645:0-25, u0646:0-51, u0647:0-45, u0648:0-91, u0649:0-10, u0650:0-29, u0651:0-52, u0652:0-15, u0653:0-14, u0654:0-22, u0655:0-81, u0656:0-93, u0657:0-36, u0658:0-10, u0659:0-20, u0660:0-24, u0661:0-80, u0662:0-54, u0663:0-26, u0664:0-11, u0665:0-15, u0666:0-10, u0667:0-65, u0668:0-20, u0669:0-38, u0670:0-110, u0671:0-19, u0672:0-8, u0673:0-71, u0674:0-42, u0675:0-86, u0676:0-16, u0677:0-52, u0678:0-15, u0679:0-71, u0680:0-25, u0681:0-69, u0682:0-35, u0683:0-8, u0684:0-10, u0685:0-12, u0686:0-55, u0687:0-162, u0688:0-17, u0689:0-20, u0690:0-39, u0690:39-72, u0691:0-26, u0692:0-45, u0693:0-11, u0694:0-14, u0695:0-13, u0696:0-17, u0697:0-20, u0698:0-34, u0698:34-58, u0699:0-31, u0700:0-24, u0701:0-12, u0702:0-23, u0703:0-9, u0704:0-16, u0705:0-11, u0706:0-57, u0707:0-70, u0708:0-4, u0709:0-65, u0710:0-31, u0711:0-10, u0712:0-47, u0713:0-47, u0714:0-6, u0715:0-32, u0716:0-35, u0717:0-10, u0718:0-16, u0719:0-21, u0720:0-34, u0721:0-42, u0722:0-42, u0723:0-20, u0724:0-66, u0725:0-20, u0726:0-8, u0727:0-26, u0728:0-53, u0729:0-39, u0730:0-5, u0731:0-15, u0732:0-32, u0733:0-48, u0734:0-26, u0735:0-5, u0736:0-38, u0737:0-30, u0738:0-8, u0739:0-47, u0740:0-34, u0741:0-50, u0742:0-9, u0743:0-16, u0744:0-17, u0745:0-30, u0746:0-5, u0747:0-18, u0748:0-40, u0749:0-67, u0750:0-10, u0751:0-27, u0752:0-27, u0753:0-50, u0754:0-8, u0755:0-152, u0756:0-159, u0757:0-45, u0758:0-75, u0759:0-86, u0760:0-25, u0761:0-143, u0762:0-5, u0763:0-8, u0764:0-149, u0765:0-33, u0766:0-71, u0767:0-69, u0768:0-63, u0769:0-8, u0770:0-9, u0771:0-24, u0772:0-24, u0773:0-59, u0774:0-84, u0775:0-62, u0776:0-28, u0777:0-23, u0778:0-65, u0779:0-24, u0780:0-63, u0781:0-35, u0782:0-5, u0783:0-49, u0784:0-69, u0785:0-18, u0786:0-68, u0787:0-25, u0788:0-23, u0789:0-3, u0790:0-31, u0791:0-24, u0792:0-86, u0793:0-58, u0794:0-5, u0795:0-20, u0796:0-73, u0797:0-17, u0798:0-91, u0799:0-34, u0800:0-41, u0801:0-27, u0802:0-50, u0803:0-13, u0804:0-43, u0805:0-66, u0806:0-15, u0807:0-32, u0808:0-77, u0809:0-12, u0810:0-19, u0811:0-101, u0812:0-97, u0813:0-33, u0814:0-5, u0815:0-19, u0816:0-32, u0817:0-22, u0818:0-26, u0819:0-17, u0820:0-16, u0821:0-53, u0822:0-33, u0823:0-7, u0824:0-12, u0825:0-24, u0826:0-18, u0827:0-128, u0828:0-33, u0829:0-70, u0830:0-4, u0831:0-63, u0832:0-8, u0833:0-20, u0834:0-8, u0835:0-56, u0836:0-8, u0837:0-77, u0838:0-34, u0839:0-54, u0840:0-48, u0841:0-48, u0842:0-93, u0843:0-51, u0844:0-32, u0845:0-65, u0846:0-26, u0847:0-7, u0848:0-30, u0849:0-24, u0850:0-15, u0851:0-43, u0852:0-3, u0853:0-36, u0854:0-54, u0855:0-87, u0856:0-45, u0857:0-28, u0858:0-107, u0859:0-66, u0860:0-48, u0861:0-11, u0862:0-64, u0863:0-79, u0864:0-24, u0865:0-39, u0866:0-15, u0867:0-36, u0868:0-17, u0869:0-5, u0870:0-11, u0871:0-5, u0872:0-12, u0873:0-12, u0874:0-17, u0875:0-8, u0876:0-59, u0877:0-10, u0878:0-67, u0879:0-32, u0880:0-36, u0881:0-72, u0882:0-63, u0883:0-54, u0884:0-35, u0885:0-22, u0886:0-38, u0887:0-76, u0888:0-52, u0889:0-46, u0890:0-29, u0891:0-23, u0892:0-5, u0893:0-56, u0894:0-88, u0895:0-25, u0896:0-12, u0897:0-8, u0898:0-37, u0899:0-47, u0900:0-36, u0901:0-3, u0902:0-156, u0903:0-15, u0904:0-10, u0905:0-11, u0906:0-29, u0907:0-30, u0908:0-9, u0909:0-23, u0910:0-11, u0911:0-22, u0912:0-53, u0913:0-71, u0914:0-73, u0915:0-22, u0916:0-74, u0917:0-22, u0918:0-13, u0919:0-13, u0920:0-129, u0921:0-11, u0922:0-17, u0923:0-43, u0924:0-21, u0925:0-41, u0926:0-75, u0927:0-40, u0928:0-25, u0929:0-24, u0930:0-5, u0931:0-34, u0932:0-27, u0933:0-93, u0934:0-5, u0935:0-58, u0936:0-42, u0937:0-27, u0938:0-40, u0939:0-19, u0940:0-2, u0941:0-13, u0942:0-79, u0943:0-10, u0944:0-18, u0945:0-36, u0946:0-22, u0947:0-17, u0948:0-8, u0949:0-32, u0950:0-13, u0951:0-35, u0952:0-53, u0953:0-20, u0954:0-39, u0955:0-43, u0956:0-8, u0957:0-4, u0958:0-8, u0959:0-7, u0960:0-3, u0961:0-3, u0962:0-3, u0963:0-56, u0964:0-10, u0965:0-55, u0966:0-25, u0967:0-63, u0968:0-9, u0969:0-87, u0970:0-23, u0971:0-114, u0972:0-5, u0973:0-64, u0974:0-70, u0975:0-16, u0976:0-21, u0977:0-85, u0978:0-8, u0979:0-6, u0980:0-33, u0981:0-33, u0982:0-14, u0983:0-85, u0984:0-15, u0985:0-12, u0986:0-16, u0987:0-5, u0988:0-13, u0989:0-5, u0990:0-48, u0991:0-135, u0992:0-4, u0993:0-15, u0994:0-30, u0995:0-23, u0996:0-19, u0997:0-5, u0998:0-39, u0999:0-33, u1000:0-17, u1001:0-61, u1002:0-12, u1003:0-29, u1004:0-16, u1005:0-16, u1006:0-19, u1007:0-64, u1008:0-140, u1009:0-41, u1010:0-111, u1011:0-69, u1012:0-3, u1013:0-7, u1014:0-65, u1015:0-41, u1016:0-38, u1017:0-12, u1018:0-31, u1019:0-68, u1020:0-70, u1021:0-5, u1022:0-100, u1023:0-98, u1024:0-46, u1025:0-190, u1026:0-64, u1027:0-32, u1028:0-13, u1029:0-53, u1030:0-59, u1031:0-2, u1032:0-137, u1033:0-33, u1034:0-5, u1035:0-24, u1036:0-34, u1037:0-66, u1038:0-30, u1039:0-5, u1040:0-54, u1041:0-22, u1042:0-15, u1043:0-62, u1044:0-52, u1045:0-17, u1046:0-16, u1047:0-103, u1048:0-42, u1049:0-72, u1050:0-14, u1051:0-49, u1052:0-50, u1053:0-44, u1054:0-8, u1055:0-22, u1056:0-58, u1057:0-43, u1058:0-6, u1059:0-23, u1060:0-17, u1061:0-5, u1062:0-37, u1063:0-98, u1064:0-59, u1065:0-34, u1066:0-53, u1067:0-4, u1068:0-26, u1069:0-8, u1070:0-30, u1071:0-4, u1072:0-4, u1073:0-66, u1074:0-12, u1075:0-24, u1076:0-4, u1077:0-11, u1078:0-29, u1079:0-9, u1080:0-41, u1081:0-49, u1082:0-18, u1083:0-14, u1084:0-12, u1085:0-20, u1086:0-5, u1087:0-8, u1088:0-16, u1089:0-38, u1090:0-5, u1091:0-34, u1092:0-40, u1093:0-54, u1094:0-8, u1095:0-12, u1096:0-16, u1097:0-34, u1098:0-6, u1099:0-8, u1100:0-33, u1101:0-5, u1102:0-9, u1103:0-8, u1104:0-37, u1105:0-7, u1106:0-111, u1107:0-19, u1108:0-14, u1109:0-36, u1110:0-48, u1111:0-16, u1112:0-8, u1113:0-11, u1114:0-35, u1115:0-4, u1116:0-17, u1117:0-5, u1118:0-21, u1119:0-148, u1120:0-42, u1121:0-27, u1122:0-33, u1123:0-5, u1124:0-12, u1125:0-27, u1126:0-11, u1127:0-9, u1128:0-34, u1129:0-53, u1130:0-14, u1131:0-25, u1132:0-21, u1133:0-9, u1134:0-65, u1135:0-46, u1136:0-30, u1137:0-113, u1138:0-30, u1139:0-34, u1140:0-23, u1141:0-23, u1142:0-18, u1143:0-35, u1144:0-18, u1145:0-145, u1146:0-49, u1147:0-43, u1148:0-58, u1149:0-10, u1150:0-9, u1151:0-5, u1152:0-59, u1153:0-83, u1154:0-12, u1155:0-84, u1156:0-72, u1157:0-4, u1158:0-14, u1159:0-17, u1160:0-8, u1161:0-37, u1162:0-5, u1163:0-11, u1164:0-43, u1165:0-12, u1166:0-62, u1167:0-17, u1168:0-61, u1169:0-5, u1170:0-15, u1171:0-42, u1172:0-4, u1173:0-21, u1174:0-17, u1175:0-16, u1176:0-14, u1177:0-36, u1178:0-3, u1179:0-5, u1180:0-8, u1181:0-37, u1182:0-20, u1183:0-7, u1184:0-100, u1184:100-176, u1185:0-27, u1186:0-82, u1187:0-10, u1188:0-34, u1189:0-5, u1190:0-28, u1191:0-12, u1192:0-28, u1193:0-67, u1194:0-10, u1195:0-10, u1196:0-8, u1197:0-21, u1198:0-30, u1199:0-50, u1200:0-4, u1201:0-4, u1202:0-18, u1203:0-5, u1204:0-29, u1205:0-18, u1206:0-97, u1207:0-39, u1208:0-84, u1209:0-40, u1210:0-12, u1211:0-7, u1212:0-9, u1213:0-52, u1214:0-74, u1215:0-30, u1216:0-22, u1217:0-24, u1218:0-16, u1219:0-4, u1220:0-44, u1221:0-11, u1222:0-13, u1223:0-4, u1224:0-25, u1225:0-73, u1226:0-37, u1227:0-31, u1228:0-19, u1229:0-3, u1230:0-9, u1231:0-18, u1232:0-24, u1233:0-30, u1234:0-10, u1235:0-14, u1236:0-16, u1237:0-105, u1238:0-26, u1239:0-28, u1240:0-67, u1241:0-8, u1242:0-83, u1243:0-42, u1244:0-89, u1245:0-9, u1246:0-16, u1247:0-4, u1248:0-18, u1249:0-4, u1250:0-45, u1251:0-5, u1252:0-4, u1253:0-4, u1254:0-42, u1255:0-5, u1256:0-58, u1257:0-10, u1258:0-38, u1259:0-44, u1260:0-11, u1261:0-43, u1262:0-5, u1263:0-28, u1264:0-3, u1265:0-14, u1266:0-5, u1267:0-130, u1268:0-12, u1269:0-32, u1270:0-52, u1271:0-202, u1272:0-7, u1273:0-24, u1274:0-43, u1275:0-30, u1276:0-65, u1277:0-62, u1278:0-14, u1279:0-3, u1280:0-7, u1281:0-119, u1282:0-8, u1283:0-97, u1284:0-3, u1285:0-15, u1286:0-42, u1287:0-3, u1288:0-15, u1289:0-25, u1290:0-22, u1291:0-21, u1292:0-48, u1293:0-42, u1294:0-9, u1295:0-25, u1296:0-12, u1297:0-32, u1298:0-17, u1299:0-19, u1300:0-12, u1301:0-22, u1302:0-48, u1303:0-90, u1304:0-94, u1305:0-35, u1306:0-21, u1307:0-5, u1308:0-8, u1309:0-10, u1310:0-32, u1311:0-37, u1312:0-18, u1313:0-61, u1314:0-8, u1315:0-19, u1316:0-61, u1317:0-38, u1318:0-26, u1319:0-26, u1320:0-28, u1321:0-34, u1322:0-26, u1323:0-5, u1324:0-12, u1325:0-12, u1326:0-2, u1327:0-10, u1328:0-43, u1329:0-21, u1330:0-73, u1331:0-10, u1332:0-35, u1333:0-74, u1334:0-28, u1335:0-10, u1336:0-5, u1337:0-7, u1338:0-14, u1339:0-24, u1340:0-22, u1341:0-13, u1342:0-17, u1343:0-48, u1344:0-14, u1345:0-71, u1346:0-18, u1347:0-14, u1348:0-10, u1349:0-8, u1350:0-70, u1351:0-37, u1352:0-39, u1353:0-14 %%",
+        "((Combat mechanics, attack sequences, and incidental exit discussion))",
+        "",
+        "%% u1354:0-14 %%",
+        "DM: No, it's dead.",
+        "",
+        "%% u1355:0-5 %%",
+        "Ekko: Dude.",
+        "",
+        "%% u1356:0-29 %%",
+        "DM: Falls to the ground, as Eolo…",
+        "",
+        "%% u1357:0-4, u1358:0-35 %%",
+        "((Combat mechanics, attack sequences, and incidental exit discussion))",
+        "",
+        "%% u1359:0-89, u1360:0-63 %%",
+        "DM: ((Omitted incidental discussion)) as it collapses, hey, you managed to keep Kalima alive, too, that was clever of you. ((Omitted incidental discussion))",
+        "",
+        "%% u1361:0-55, u1362:0-193, u1363:0-27, u1364:0-40, u1365:0-106, u1366:0-8, u1367:0-15, u1368:0-111, u1369:0-104 %%",
+        "DM: ((Omitted incidental discussion)) as it collapses, the wind stops as the beast falls dead. The wind, like, the howling that you could still hear from the blackness that you fell down into this pit from, ends. ((Omitted incidental discussion))",
+        "",
+        "%% u1370:0-23, u1371:0-29, u1372:0-88, u1373:0-59 %%",
+        "DM: And you see it sort of… splitting, and you can smell… like, a dirt, like a natural dirt smell, and like a cold earth smell coming out of this… this crack as the, sort of, this tunnel opens in the floor.",
+        "",
+        "%% u1374:0-77, u1375:0-4, u1376:0-58, u1377:0-90, u1378:0-78, u1379:0-31 %%",
+        "((Combat mechanics, attack sequences, and incidental exit discussion))",
+        "",
+        "%% u1380:0-211, u1381:0-28, u1382:0-48, u1383:0-117 %%",
+        "DM: ((Omitted incidental discussion)) where it was granite has become, sort of… earth, and has opened up, and you can see, like, it's… it's… it's a pathway, right? It's going down into the… into the dirt."
+      ],
+      "reviewContext": {
+        "before": [
+          "Finnan: Of course you are. Why am I on your back instead of Ekko's back?",
+          "DM: Oh, burn. Wait. Man, you guys, you know, you guys are… slightly confusing. Okay. One second, let me just… m… okay.",
+          "DM: So, is everybody where they are? So, Justas was, like… Schwartz, where’s… where is Justas? You under… oh, you're right there. Okay. And as you… as Justas screams in… and yells, coming… I forget what he yelled, but something… something clever.",
+          "Justas: Something clever!",
+          "Eolo: Exactly."
+        ],
+        "after": [
+          "Jrain: And our other theoretical exit would be back up the sort of slide thing that we slid down, or is that no longer there because it was made out of ice? There.",
+          "DM: You could climb back into the labyrinth, I guess, yes, you could go that way.",
+          "Jrain: Just making sure that it was still there. Yeah.",
+          "DM: Yes, it's still there.",
+          "Jrain: I like the hole better. Everybody want to go down this hole?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Kalima recognizes the exit and fears losing it",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1399",
+        "endUid": "u1464"
+      },
+      "lines": [
+        "%% u1399:0-29, u1400:0-7, u1401:0-17, u1402:0-221, u1403:0-35, u1404:0-34, u1405:0-27 %%",
+        "DM: She… she kind of is… huddled… [garbled]… against the wall, not even… she hasn't even looked up, like, the whole combat, she was just, like, huddled in a ball, like, with her face between her legs, and… and staring into the… like, and just, like, trying to be as small as possible. As the, the sort of noise and… and… sound of battle roared around her. So you go over to her, and…",
+        "",
+        "%% u1406:0-52, u1407:0-108 %%",
+        "Finnan: So I wanted to tell her the beast is dead, and then… basically ask if there's any… like, what's the… what are the legends, what's the stories about what happens?",
+        "",
+        "%% u1408:0-8 %%",
+        "DM: Must be…",
+        "",
+        "%% u1409:0-56 %%",
+        "Finnan: Myths, at least, of people of the labyrinth and the end.",
+        "",
+        "%% u1410:0-57, u1411:0-32, u1412:0-124, u1413:0-4, u1414:0-85, u1415:0-22, u1416:0-5, u1417:0-34, u1418:0-4, u1419:0-11, u1420:0-42 %%",
+        "DM: So when you, when you, like, tap her on the shoulder and… tell her the beast is dead. She… she sort of looks up for a minute, and before even answering your question, she sort of looks around, and when she sees the… the… tunnel, like, when she sees the sort of earthen space in the center of the labyrinth, she… she, like, yelps. Like, excitedly, in a way, almost? Like… and… and shouts, this… ‘This leads out!’ And runs towards it.",
+        "",
+        "%% u1421:0-17 %%",
+        "Finnan: Let's follow her.",
+        "",
+        "%% u1422:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u1423:0-48 %%",
+        "Jrain: I thought you might like that. Let's follow her.",
+        "",
+        "%% u1424:0-69, u1425:0-7, u1426:0-56, u1427:0-38, u1428:0-8, u1429:0-5, u1430:0-46, u1431:0-47, u1432:0-72, u1433:0-68 %%",
+        "((Omitted incidental discussion))",
+        "",
+        "%% u1434:0-73 %%",
+        "Justas: Just a sec, Kalima, just one, wait, just one… one second, one second, we…",
+        "",
+        "%% u1435:0-75, u1436:0-65 %%",
+        "Finnan: I'll just say, let's go together, and, like, try and grab her hand, ((Omitted incidental discussion))",
+        "",
+        "%% u1437:0-11, u1438:0-52, u1439:0-39, u1440:0-6, u1440:6-25, u1441:0-49, u1442:0-58, u1443:0-152, u1444:0-20 %%",
+        "((Omitted incidental discussion))",
+        "",
+        "%% u1445:0-101, u1446:0-73, u1447:0-65, u1448:0-73, u1449:0-143, u1450:0-82 %%",
+        "DM: Yeah. Kalima, like, as you, like, grab her hand and sort of stay to wait, I mean, she would wait for… a few sec… she's like, I don't know how long it'll last, it's time to go. She's very, very, very hesitant to stay for more than a couple of seconds. Like, she's… she's terrified, and almost, sort of, a little bit… out of her mind, and… and desperately wants to run through the tunnel. ((Omitted incidental discussion))",
+        "",
+        "%% u1451:0-52, u1452:0-54, u1453:0-46, u1454:0-45, u1455:0-54 %%",
+        "Finnan: I'm basically just telling her, you know, we… we've… sticking together is what got us to this point so far. And… you think it's safe, but it might not be. This could be another one of… Zeyfa’s tricks. So let's just give us a moment, and let's go together.",
+        "",
+        "%% u1456:0-32, u1457:0-36 %%",
+        "((Omitted incidental discussion))",
+        "",
+        "%% u1458:0-121, u1459:0-20, u1460:0-129, u1461:0-11, u1462:0-47, u1463:0-18, u1464:0-10 %%",
+        "DM: Yeah, I mean, it'll take… okay, well, she pauses for a minute, then. She's like… she, like, catches her breath and, like… sort of holds on to… Justas for a minute, like, holding onto your shield or something, and, like, pauses, and, like, catches her breath, and is, like, ‘Be quicker. Last time, I… I don't know how long it'll last. I saw this before. Last time.’"
+      ],
+      "reviewContext": {
+        "before": [
+          "Finnan: I wanted to go talk to her, and…",
+          "DM: Okay.",
+          "Finnan: Yeah, just ask…",
+          "DM: She…",
+          "Finnan: See how she's doing right now."
+        ],
+        "after": [
+          "Finnan: So I'll use my magic action while Justas, hopefully, in less than…",
+          "DM: 30 seconds can…",
+          "Finnan: Grab some.",
+          "DM: You're just trying to, like, carve a piece off the…",
+          "Finnan: Cut off its claw or something, I don't know."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Three true facts about the beast",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1493",
+        "endUid": "u1524"
+      },
+      "lines": [
+        "%% u1493:0-82, u1494:0-12, u1495:0-23, u1496:0-12, u1497:0-13, u1498:0-209, u1499:0-10, u1500:0-8 %%",
+        "((Omitted incidental discussion))",
+        "",
+        "%% u1501:0-40, u1502:0-10, u1503:0-46 %%",
+        "DM: The beast was… was born, of a fey curse. ((Omitted incidental discussion))",
+        "",
+        "%% u1504:0-19, u1505:0-38 %%",
+        "DM: The beast’s master is For… is Forquarion the Frostbinder.",
+        "",
+        "%% u1506:0-14, u1507:0-10, u1508:0-47 %%",
+        "DM: And the beast… the beast… can never truly die while the labyrinth stands.",
+        "",
+        "%% u1509:0-9 %%",
+        "Ekko: Oh, shit.",
+        "",
+        "%% u1510:0-16 %%",
+        "Justas: Oh, interesting.",
+        "",
+        "%% u1511:0-15 %%",
+        "Finnan: Get outta here.",
+        "",
+        "%% u1512:0-23 %%",
+        "Ekko: That seems really hard.",
+        "",
+        "%% u1513:0-39, u1514:0-34, u1515:0-14 %%",
+        "Justas: Justas takes a second look at its head. I mean, it looks real dead, right? Yeah, alright.",
+        "",
+        "%% u1516:0-106 %%",
+        "Ekko: And isn't that… it's just the Beast Master. There's another… there's some of these… the beast is just the…",
+        "",
+        "%% u1517:0-60, u1518:0-74 %%",
+        "Finnan: Some other… the beast is gonna reform from ice or something. But we're gonna escape the labyrinth, so we don't have to care about that.",
+        "",
+        "%% u1519:0-5 %%",
+        "Justas: Good.",
+        "",
+        "%% u1520:0-8 %%",
+        "Finnan: For now.",
+        "",
+        "%% u1521:0-122, u1522:0-45 %%",
+        "Jrain: Yeah, Justas is just gonna have to deal with the fact that there's other people with Beasthead accessories, and, you know… they were… they're a renewable resource, and…",
+        "",
+        "%% u1523:0-63, u1524:0-22 %%",
+        "Justas: You try to have a really unique look, but sometimes it happens. Let's get out of here."
+      ],
+      "reviewContext": {
+        "before": [
+          "Finnan: The head is crazy, just take the head.",
+          "DM: If you want to skin it, it would take you a lot more than the, like, 30 seconds to a minute that Kalima's willing to wait. That would take you, like, 20 minutes, probably, to skin it.",
+          "Ekko: I say we stay, skin it, and then get the sweet coat, and then we'll see what happens with Kalima.",
+          "Justas: I’m… well, with… with the head….",
+          "Ekko: Sweet beast. Hold it up. Like, bathrobe, like… come on."
+        ],
+        "after": [
+          "Finnan: Let's get out of here.",
+          "DM: Solid.",
+          "DM: You go through the tunnel. It twists and turns a couple of times. Kalima… but it’s not… I mean, it’s… it’s… it's a little narrow, crawling through it, but, it's not really that hard to, to crawl through. And… after about… 10 minutes of sort of… it's… it's… it's odd. You're, like, in the dark. I mean, you have your light spell, but you're in the dark. It's not very clear where the… where the… It's not very clear where the… the… tunnel is going, it twists a few times, it splits once, but, you know, one branch is clearly a dead end. It's… it's like cold, permafrosty kind of earth that you're… that you're crawling through. And after… maybe 10 minutes you emerge from this tunnel which seems to almost vanish into snow and ice behind you as you find yourself staring… standing on a strange and narrow pathway on a cliff face.",
+          "DM: The sun hangs low in the sky, above you, although it's barely peeking through these dense, gray, late winter… late afternoon winter clouds hanging across the sky. And you're on a… you're on a cliff face, right? So, you're looking… you're standing on a narrow path carved into a cliff, you know, looking out over this big empty space.",
+          "DM: You can't see the other side, there's, like, fog hanging, but floating in the empty space… are 3 massive rocks, like… the size of… I don't know, a city block, or even bigger. On one of the three rocks is an elaborate Palace of Ice. It's like, it… it looks like maybe it has… 50 rooms, and it has… it's not defensive, I mean, it's floating on a rock in the middle of the… in the middle of the… of a chasm. Carved out of ice, it has 3 towers that… that sort of… come up and then form together in, like, a peak at the top. And there's, like, a… chamber at the top, of the three towers, as where they… where they join together. They're, like, arched inward."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Kalima guides the party toward her sister’s shelter",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1653",
+        "endUid": "u1758"
+      },
+      "lines": [
+        "%% u1653:0-21, u1654:0-8, u1655:0-47, u1656:0-45, u1657:0-5, u1658:0-31, u1659:0-31, u1660:0-18, u1661:0-5, u1662:0-60, u1663:0-4, u1664:0-36, u1665:0-9, u1666:0-47 %%",
+        "DM: Kalima, as you, like… up here… Here, come out on the cliff face here, sort of… looks at Finnan and Justas and is like, “Come. Wait.” I… she’s like, “I never thought… I don't know how I'm back here, how I’m back home. Come. Come… if Zeyfa… finds you, I… I don’t think… he’ll be happy. But… Stay hidden. Stay hidden if you can. Can… can… Can your… can your friends be less conspicuous?”",
+        "",
+        "%% u1667:0-19 %%",
+        "Unidentified player: Who's gonna see us?",
+        "",
+        "%% u1668:0-14, u1669:0-20, u1670:0-13 %%",
+        "DM: Come, come to… come to my sister’s. Come with me.",
+        "",
+        "%% u1671:0-32 %%",
+        "Justas: Yeah, we'll go. Yeah, of course.",
+        "",
+        "%% u1672:0-42, u1673:0-36, u1674:0-5, u1675:0-12 %%",
+        "((Omitted incidental discussion))",
+        "",
+        "%% u1676:0-22, u1677:0-25, u1678:0-17, u1679:0-5, u1680:0-26, u1681:0-20, u1682:0-12, u1683:0-65, u1684:0-55 %%",
+        "DM: The, the, the village! Not… not all of them are, Zeyfa’s, Zeyfa’s… some… will tell of you to Zeyfa as soon as they can. Stay hidden. ((Omitted incidental discussion))",
+        "",
+        "%% u1685:0-38, u1686:0-19, u1687:0-59, u1688:0-23, u1689:0-12, u1690:0-11, u1691:0-48, u1692:0-131, u1693:0-196 %%",
+        "((Omitted incidental discussion))",
+        "",
+        "%% u1694:0-77 %%",
+        "Jrain: So… can we ask Kalima if this is the view she's used to looking at from home?",
+        "",
+        "%% u1695:0-200 %%",
+        "DM: Yeah, she seems, like, totally… yeah, this seems very normal. This is home and very normal, but she’s, like, hushing you, like, ‘Don’t let anybody see you when we get to the top, stay hidden, stay low.’",
+        "",
+        "%% u1696:0-77 %%",
+        "Justas: Kalima, where can you hide us for at least a few hours? Where can we lay low?",
+        "",
+        "%% u1697:0-33, u1698:0-22 %%",
+        "DM: My sister will… not tell anybody. We'll go to her house.",
+        "",
+        "%% u1699:0-63 %%",
+        "Ekko: I want to ask her, while we're walking who lives in the palace.",
+        "",
+        "%% u1700:0-6 %%",
+        "DM: Zeyfa.",
+        "",
+        "%% u1701:0-95 %%",
+        "Ekko: When she says home, is she talking generally about this whole area, or specifically the palace?",
+        "",
+        "%% u1702:0-40, u1703:0-51, u1704:0-18 %%",
+        "DM: No, there's a village, she, like, she's… the people, my people, Melusa, it’s up, she points. The village is up!",
+        "",
+        "%% u1705:0-55, u1706:0-235, u1707:0-204, u1708:0-116, u1709:0-151, u1710:0-59, u1711:0-7, u1712:0-24, u1713:0-109, u1714:0-82, u1715:0-173, u1716:0-33 %%",
+        "((Omitted incidental discussion))",
+        "",
+        "%% u1717:0-54, u1718:0-30 %%",
+        "Ekko: Ekko will ask her, like, what's on the floating rocks? The other two, not the palace.",
+        "",
+        "%% u1719:0-9 %%",
+        "DM: Our food.",
+        "",
+        "%% u1720:0-21 %%",
+        "Justas: How do you get there?",
+        "",
+        "%% u1721:0-34 %%",
+        "DM: This rope bridge, I mean, there's.",
+        "",
+        "%% u1722:0-15 %%",
+        "Justas: Oh, okay, okay.",
+        "",
+        "%% u1723:0-30 %%",
+        "DM: She points, like… the bridges.",
+        "",
+        "%% u1724:0-45 %%",
+        "Justas: I don't ask the question if I see the bridge.",
+        "",
+        "%% u1725:0-31 %%",
+        "DM: I know, I know, I know, I know.",
+        "",
+        "%% u1726:0-329, u1727:0-32, u1728:0-27, u1729:0-4, u1730:0-62, u1731:0-34, u1732:0-13, u1733:0-6, u1734:0-63, u1735:0-67, u1736:0-26, u1737:0-114, u1738:0-19, u1739:0-109, u1740:0-37, u1741:0-123, u1742:0-59, u1743:0-56, u1744:0-15 %%",
+        "((Omitted incidental discussion))",
+        "",
+        "%% u1745:0-18 %%",
+        "Justas: What are they for?",
+        "",
+        "%% u1746:0-16 %%",
+        "DM: Quarrying stone.",
+        "",
+        "%% u1747:0-28 %%",
+        "Justas: Why don’t we… hide in these.",
+        "",
+        "%% u1748:0-28 %%",
+        "DM: She, I mean… if you want to.",
+        "",
+        "%% u1749:0-37 %%",
+        "Justas: I think we're safer with your sister?",
+        "",
+        "%% u1750:0-35 %%",
+        "Finnan: Let's get to the village, at least.",
+        "",
+        "%% u1751:0-8 %%",
+        "DM: I think…",
+        "",
+        "%% u1752:0-22 %%",
+        "Finnan: Let’s start somewhere.",
+        "",
+        "%% u1753:0-29, u1754:0-9, u1755:0-50, u1756:0-51, u1757:0-34 %%",
+        "DM: Someone might come down here. It’s not… she kind of looks over her shoulder at the palace and kind of traces the line of sight with her eyes. It's… it's… it's not… very hidden.",
+        "",
+        "%% u1758:0-5 %%",
+        "Justas: Okay."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: What are the rest of you doing? Kalima…",
+          "Finnan: I will give it my last.",
+          "DM: Inspiration. Okay.",
+          "Finnan: In case it has to make any more checks.",
+          "DM: Okay?"
+        ],
+        "after": [
+          "Finnan: That's okay, they're gonna be distracted by the messenger from Gleamwater for a while, so…",
+          "DM: So are you doing… I mean, so you… as you approach the top, like, Kalima motions for you to wait, and, like, goes up herself.",
+          "Finnan: Fine.",
+          "DM: And…",
+          "DM: Just kind of, like, comes up over the lip. I mean, you can now clearly see there's this big ledge, probably about… 500, 600 feet long, like, a substantial… a substantial ledge, and you can, like, see a little bit of smoke coming up. There’s, like, clearly a village and houses here. But there's, like, fog, I mean, it's… the sun is kind of pale in the sky, it's, like, late afternoon, it's not, it's not a… and there's a lot of thick cloud cover, there's a lot of fog drifting around, and there's bits of snow kind of swirling in the air, like it's cold. It feels winter-esque, right? Yeah, there's…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Something has changed in Melusa",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1760",
+        "endUid": "u1781"
+      },
+      "lines": [
+        "%% u1760:0-124 %%",
+        "DM: So are you doing… I mean, so you… as you approach the top, like, Kalima motions for you to wait, and, like, goes up herself.",
+        "",
+        "%% u1761:0-5 %%",
+        "Finnan: Fine.",
+        "",
+        "%% u1762:0-4 %%",
+        "DM: And…",
+        "",
+        "%% u1763:0-114, u1764:0-14, u1765:0-153, u1766:0-111, u1767:0-11, u1768:0-177, u1769:0-14 %%",
+        "DM: Just kind of, like, comes up over the lip. I mean, you can now clearly see there's this big ledge, probably about… 500, 600 feet long, like, a substantial… a substantial ledge, and you can, like, see a little bit of smoke coming up. There’s, like, clearly a village and houses here. ((Omitted incidental discussion))",
+        "",
+        "%% u1770:0-102, u1771:0-73, u1772:0-122, u1773:0-33, u1774:0-37, u1775:0-34, u1776:0-89, u1777:0-20, u1778:0-18 %%",
+        "DM: There's not a lot of… so when she… when she… she sort of comes out and sort of walks around, you know. She stops, like, when she gets to the top, and then she sort of… motions, but also, yeah, she sort of… she actually, when she comes over the top, she sort of lets out almost an involuntary little… shout of… soft shout of surprise. And, you actually hear her footsteps, going a little bit away, and then… she kind of comes over back and looks down at you, sort of waiting on the path, and says, ‘Something’s changed. Something’s wrong.’",
+        "",
+        "%% u1779:0-122, u1780:0-30 %%",
+        "Finnan: I'll… I'll be reassuring, we can help, we just need a place where we can be hidden and plan for a few… for a little while. We’ll… we’ll help, we promise.",
+        "",
+        "%% u1781:0-79 %%",
+        "DM: I don't know if you'll be seen. Come quickly, I guess, or… quietly, if you can."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: I think…",
+          "Finnan: Let’s start somewhere.",
+          "DM: Someone might come down here. It’s not… she kind of looks over her shoulder at the palace and kind of traces the line of sight with her eyes. It's… it's… it's not… very hidden.",
+          "Justas: Okay.",
+          "Finnan: That's okay, they're gonna be distracted by the messenger from Gleamwater for a while, so…"
+        ],
+        "after": [
+          "Finnan: I'll look over at Jrain. Can you do that thing again?",
+          "Jrain: Can I do that thing again?",
+          "DM: Pass Without Trace.",
+          "Jrain: Yeah. I can do that thing again one more time.",
+          "Finnan: Let’s do our best to sneak through the outskirts of the village to wherever Kalima is leading us."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Kalima introduces Nura, Khaled and Samir",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1911",
+        "endUid": "u1929"
+      },
+      "lines": [
+        "%% u1911:0-99, u1912:0-37, u1913:0-26, u1914:0-84, u1915:0-158, u1916:0-132 %%",
+        "DM: Well, there’s two… there’s a woman, ((Omitted incidental discussion)) with holding a baby, maybe… a year old or less. And a man, the… the woman is sort of… wide-eyed, looks like she's maybe been crying, you know, is sort of hollow-eyed. The… the man, as the door opens, like, instinctively has pushed her and the baby behind him, and is, like, you know, has what look like strong hands and kind of a, caring face, and they both sort of look in shock as Kalima walks in, and then even more shock as the five of you come in behind her.",
+        "",
+        "%% u1917:0-119, u1918:0-10, u1919:0-53, u1920:0-52, u1921:0-95, u1922:0-22, u1923:0-68, u1924:0-5, u1925:0-27 %%",
+        "DM: And she starts… she immediately introduces you to Nura and Khaled, her sister and brother-in-law, and their baby Samir. And, says, these… these safe… these… these… heroes… this priest saved me, and she, she holds the stone that, Justas… enchanted with light once or twice, and says, I felt the god, I felt the Kestavo. They're real. And… kind of welcomes… like, motions for you to come in and shut the door, right? And… and… here. There’s… Nura and her baby.",
+        "",
+        "%% u1926:0-10, u1927:0-19 %%",
+        "((Omitted incidental discussion))",
+        "",
+        "%% u1928:0-45 %%",
+        "Finnan: Well, come in and shut the door for starters.",
+        "",
+        "%% u1929:0-4 %%",
+        "DM: Yes."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: The other's just like a… it's like a bedroom, like, it's just a single-family, like, peasant house, basically, right? Like, there's a… there's a… there's a hearth, there's, a, you know, a table, you know, Kalima kind of bursts in, and… inside the house are two, two people, a man and a woman. The woman… what is a good, I don't really know how to share… pictures. Anyway, I have a picture of the man… of the woman, but…",
+          "Finnan: Just… just share your screen. I mean, in Roll20, you can drag it onto Roll20, but with… right. Without having Roll20 all set up, just sharing your screen is best.",
+          "DM: Let me see how I share my screen without sharing my DM notes.",
+          "Finnan: Just share… you can share one window.",
+          "DM: Yeah. Hold on a sec. M…"
+        ],
+        "after": [
+          "Finnan: Sharing an image shuts off the music, so you have to restart the music, by the way.",
+          "Unidentified player: I sit quietly and try to look non-threatening, because I can't speak their language.",
+          "DM: Mechanical note on language, so… can you guys hear the music now?",
+          "DM: Mechanical note on language, three of you don't speak their language, but in the interest of… not it being, like, super boring. The idea… my… Tim and I were actually talking about various language mechanics, that would be fun. The thing I'm gonna try out is basically, if you spend… a long rest. If you spend, like, a day or more in… amongst these people, I'll just assume you've picked up enough to communicate basic concepts, but any checks that would require language would be a disadvantage. But you can always communicate as part of, like, roleplaying or… or… just plot and things like that. Not until you've spent a day here, but… we just sort of assumed…",
+          "Jrain: Talking to the dead guy?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "The family’s wonder at the Kestavo",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1973",
+        "endUid": "u2022"
+      },
+      "lines": [
+        "%% u1973:0-48, u1974:0-119, u1975:0-359, u1976:0-8, u1977:0-166 %%",
+        "DM: ((Omitted incidental discussion)) But the… but Justas seems… they seem… everybody's, like, crowding… I mean, the first thing that happens is everybody's, like, crowding around Justas, asking for your blessing.",
+        "",
+        "%% u1978:0-8, u1979:0-71, u1980:0-89 %%",
+        "Justas: Oh yeah. Absolutely, and I'll name different, like, Kestavo in the process, and… talk about them, and the places they're from, and the things they represent, all of that.",
+        "",
+        "%% u1981:0-32, u1982:0-73, u1983:0-63 %%",
+        "DM: They seem very… I mean, they're… very grateful for this, and like, they almost seem awestruck, like, like… this is not something they would have expected to ever be real.",
+        "",
+        "%% u1984:0-96 %%",
+        "Justas: And they're not familiar, like, they don't have any Kestavo whatsoever except for the West Wind?",
+        "",
+        "%% u1985:0-57, u1986:0-87 %%",
+        "DM: Wow, so… they remember some stories of some of the, like… big… like, some of the more famous Kestavo, like Romil, this glacier king who is, like…",
+        "",
+        "%% u1987:0-5 %%",
+        "Justas: Yeah.",
+        "",
+        "%% u1988:0-50, u1989:0-169 %%",
+        "DM: Well-known across the region as sort of one of the Kestavo that people go… would go on pilgrimages to his glacier, they… they'd recall. But a lot of… but no, they don't have any of their own gods. They don't… they don't…",
+        "",
+        "%% u1990:0-5 %%",
+        "Justas: Good.",
+        "",
+        "%% u1991:0-28, u1992:0-102, u1993:0-61, u1994:0-176, u1995:0-5 %%",
+        "DM: To them, Kestavo are a myth. The whole idea of religion almost seems to them as a myth. They're, like, very… they're, they're like… they're acting like you've walked out of a storybook and are… preaching of… of Kestavo as if they’re real, in a way that they almost don’t really believe. And Kalima did keep saying, like, ‘But he… he did magic. Like, he made a stone glow.’ Yeah.",
+        "",
+        "%% u1996:0-29 %%",
+        "Justas: I'll do that again, too, and…",
+        "",
+        "%% u1997:0-99, u1998:0-161 %%",
+        "DM: Sure, right, you feel a little weird when you're casting the spell, like, you almost have to, like… try a little harder, like, like, like there's something almost in your way when you cast the spell that you kind of have to brush, like, almost like a fog. Yeah.",
+        "",
+        "%% u1999:0-20 %%",
+        "Justas: I only had two bars.",
+        "",
+        "%% u2000:0-126, u2001:0-141, u2002:0-44 %%",
+        "DM: Yeah, exactly, yeah. But they’re, like, they’re, like, totally awestruck by this, in the sense of, like, you know, people who… had to sort of almost stopped believing that the Kestavo were potentially real, and they’re, like, amazed that you’re summoning the light of… of these different… of these different gods.",
+        "",
+        "%% u2003:0-148 %%",
+        "Justas: And, like, just to be clear, like, that… that doesn't, like, really accord with… with Justas's understanding of how Kestavo work. Like, they're not…",
+        "",
+        "%% u2004:0-5 %%",
+        "DM: Like.",
+        "",
+        "%% u2005:0-134 %%",
+        "Justas: They may be competitive, or trickstery, or selfish, but they’re not like, ‘You shall have no other Kestavo before me.’ Like, it’s… it’s…",
+        "",
+        "%% u2006:0-27 %%",
+        "DM: No, no, no, no, definitely.",
+        "",
+        "%% u2007:0-25 %%",
+        "Justas: These things, yeah, yeah.",
+        "",
+        "%% u2008:0-77, u2009:0-99, u2010:0-313, u2011:0-119 %%",
+        "DM: Correct. No, it is definitely the entire religion is very much… Kestavo… are… gods of places, fundamentally. And so, you would never really have two gods of the same place, but… places are small for many of them, and they're not, you know, there's a god of this tree, or this waterfall, or this stream, or… right? And it's not like Romil the Glacier King is mad if some god moves into an ice cave. You can be a god of an ice cave on Romil's Glacier, that's fine, right? It's not… there's no… the whole idea that you're… there's something… I mean, it makes no sense to you, what they're… the way they're talking.",
+        "",
+        "%% u2012:0-77 %%",
+        "Justas: Yeah. I'm like, I'll explain some of that to them, too, in the process, like…",
+        "",
+        "%% u2013:0-13 %%",
+        "DM: It’s strange.",
+        "",
+        "%% u2014:0-23 %%",
+        "Justas: Subverted a little bit.",
+        "",
+        "%% u2015:0-20, u2016:0-91, u2017:0-67, u2018:0-103 %%",
+        "DM: I mean, they're not… they're not saying, like, we're not… their… their sense is not the gods are… are not, like, they're just gone. It's not that they're… it's not that they don't… it's not that I don't want to worship them, or they think that they're… they're just… they're not here.",
+        "",
+        "%% u2019:0-5 %%",
+        "Justas: Yeah.",
+        "",
+        "%% u2020:0-6, u2021:0-54, u2022:0-92 %%",
+        "DM: Right? And there's no way to get to somewhere where they are. So, it’s… it’s more almost like, well, there… there aren’t any Kestavo here, so… and… right."
+      ],
+      "reviewContext": {
+        "before": [
+          "Finnan: But, you know, Finnan, of course, is… I mean, he's… he's willing to probe about those kinds of things, but really what he's interested in is… He's pretty convinced, because… he has this halfling memory of Melusa as an ancient, like…",
+          "DM: Pre-Downfall village on the Teft.",
+          "Finnan: That these people, somehow, are… have been isolated from the rest of humanity for, like, you know, 1700 years. And… really wants to know, like, what are their songs? What are their stories? Like, what's their, like, folklore?",
+          "DM: They… they actually seem, I mean… you catch… I mean, Kalima explains Finnan as some sort of… they don't seem to know what halflings are. They seem to, like, they don't seem to have any clear stories or knowledge. Like, Finnan is, like, explains, sorry, Kalima explains Finnan as, like… a strange… short… human… person… thing. Right? Who seems to be, but don't… and she sort of motions it, wait, but you're still a cat, and you look like a human, right? Eric?",
+          "Finnan: Yeah."
+        ],
+        "after": [
+          "DM: The stories of the outside world to them are very, very, very… scattered, right? Like, as Finnan starts to talk to them, it's like, well, what, like, Sembara? They have no idea what any of these.",
+          "Finnan: No, I'm not talking about… I'm not, like, talking about Sembara.",
+          "DM: No, no.",
+          "Finnan: Or what they're…",
+          "DM: Right, what I mean is your impression from talking to them is that they have no idea of… anything in the outside. Like… like, they have, like, these… these…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Half-remembered stories of Romil and Besla",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2030",
+        "endUid": "u2044"
+      },
+      "lines": [
+        "%% u2030:0-49, u2031:0-61, u2032:0-137 %%",
+        "Finnan: So what are their myths? Like, what… what is the… what are the gods that they do talk about? I mean, obviously they don't, like, worship any gods, but they have stories of Kestavo, right? Who do they have stories of, and what are the sort of myths?",
+        "",
+        "%% u2033:0-36, u2034:0-97, u2035:0-39, u2036:0-177 %%",
+        "DM: I mean, the stories are almost more… about the concept of Kestavo than specific ones. I mean, there’s a handful, like, like, Romil or… there’s a few other names, like, Besla… who is said to be the Kestavo who brings spring, from the… who is, like, the Kestavo who's said to live on the shore… you could read the Obsidian page as fast… as well as I can.",
+        "",
+        "%% u2037:0-78 %%",
+        "((Omitted incidental discussion))",
+        "",
+        "%% u2038:0-130, u2039:0-157, u2040:0-17, u2041:0-207, u2042:0-96, u2043:0-207, u2044:0-26 %%",
+        "DM: ((Omitted incidental discussion)) they've heard of a couple of these, Kestavo, but they… like, like, Besla and Romil in particular are actually common, they don't mention, but, but… they're not… they have stories about having stories, and about Kestavo as, like, well, it used to be that there was a… that we… in the ancient days, we… we would walk along the… the water, you know, the stream, and… and… and give prayers to the… to the waterfall, but they don't actually have any specific stories of… it's not like they… it's not like they're remembering some specific god who they still remember, right? It's more like, well, yes, we think… you know, and you almost… it almost feels like a garbled, sort of… They talk about, you know."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: The stories of the outside world to them are very, very, very… scattered, right? Like, as Finnan starts to talk to them, it's like, well, what, like, Sembara? They have no idea what any of these.",
+          "Finnan: No, I'm not talking about… I'm not, like, talking about Sembara.",
+          "DM: No, no.",
+          "Finnan: Or what they're…",
+          "DM: Right, what I mean is your impression from talking to them is that they have no idea of… anything in the outside. Like… like, they have, like, these… these…"
+        ],
+        "after": [
+          "Finnan: I'm not just interested in gods. I mean, Finnan's interested in… just, like, what… what is their folklore? Like, what is the story they tell of themselves?",
+          "DM: That, I mean… the… the… what… Khaled says, the husband is like… kind of looks at… at… at his… child, and as you start to ask these questions, it's like… Kind of looks at you a little bit like an outsider, like, well… The whole idea of, like, talking to somebody from outside their village strikes him as quite odd. He sort of… glances at… at Kalima, and is like, should… are they one of us now? Well, will they… be trapped here with us?",
+          "Justas: No, sisters.",
+          "DM: Fair. The… when they’re… sunsets, and the… he sort of… he sort of mutters. And sort of… you've noticed that the baby is, like, looking around, the kid is sort of, like, looking around with a sort of odd and unusual little curiosity for a one-year-old, and hasn't cried at all or really made any noise.",
+          "DM: The… so the… I mean, the fundamental story they tell themselves is that they are… here… because they’re here. This is… this is where they live, and life is pers… is sort of… the fog. You can't get through the fog, there's no way up, there's no way down. There's no way across."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Khaled explains life and endurance in Melusa",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "present"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2045",
+        "endUid": "u2084"
+      },
+      "lines": [
+        "%% u2045:0-64, u2046:0-90 %%",
+        "Finnan: I'm not just interested in gods. I mean, Finnan's interested in… just, like, what… what is their folklore? Like, what is the story they tell of themselves?",
+        "",
+        "%% u2047:0-29, u2048:0-33, u2049:0-29, u2050:0-58, u2051:0-63, u2052:0-109, u2053:0-43, u2054:0-23, u2055:0-41 %%",
+        "DM: That, I mean… the… the… what… Khaled says, the husband is like… kind of looks at… at… at his… child, and as you start to ask these questions, it's like… Kind of looks at you a little bit like an outsider, like, well… The whole idea of, like, talking to somebody from outside their village strikes him as quite odd. He sort of… glances at… at Kalima, and is like, should… are they one of us now? Well, will they… be trapped here with us?",
+        "",
+        "%% u2056:0-12 %%",
+        "((Omitted incidental discussion))",
+        "",
+        "%% u2057:0-5, u2058:0-4, u2059:0-63, u2060:0-226 %%",
+        "DM: Fair. The… when they’re… sunsets, and the… he sort of… he sort of mutters. And sort of… you've noticed that the baby is, like, looking around, the kid is sort of, like, looking around with a sort of odd and unusual little curiosity for a one-year-old, and hasn't cried at all or really made any noise.",
+        "",
+        "%% u2061:0-87, u2062:0-85, u2063:0-79, u2064:0-22 %%",
+        "DM: The… so the… I mean, the fundamental story they tell themselves is that they are… here… because they’re here. This is… this is where they live, and life is pers… is sort of… the fog. You can't get through the fog, there's no way up, there's no way down. There's no way across.",
+        "",
+        "%% u2065:0-82, u2066:0-65, u2067:0-18, u2068:0-18 %%",
+        "DM: There’s… there’s the village, there’s the river, Melusa. There’s the… there’s the… the cows. New cows are born. The fish come in… come in the river. The… the sun sets. The night comes…",
+        "",
+        "%% u2069:0-43 %%",
+        "Finnan: When… how long does it take the sun to set?",
+        "",
+        "%% u2070:0-32 %%",
+        "DM: He's seen 3 sunsets in his life.",
+        "",
+        "%% u2071:0-5, u2072:0-134 %%",
+        "Finnan: Okay. And they don't tell them… there's no story of where they came from, they don't have any sense of coming from some other place to here.",
+        "",
+        "%% u2073:0-41, u2074:0-59, u2075:0-24, u2076:0-100 %%",
+        "DM: They… they sorta… I mean, they have this… the way Nura… the way Khaled tells it, it's… it's… they're… their lot. I mean, it’s… they were… they were in pre… their ancestors’ ancestors’ ancestors were… were brought here by Zeyfa.",
+        "",
+        "%% u2077:0-34 %%",
+        "Finnan: Right. And their lot is to endure.",
+        "",
+        "%% u2078:0-54, u2079:0-41, u2080:0-56, u2081:0-66, u2082:0-93, u2083:0-33, u2084:0-74 %%",
+        "DM: Why they endure. Many different people have, you know… You get the sense that there's different… factions or beliefs about the value of endure… but that… Khaled is kind of steering the conversation away from, like, like… if they're here for… they're here tomorrow. They're here for the… for forever. They'll learn. We shouldn't talk of such things. Like, he glances at his kid again, like, we shouldn't talk of such things."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Right, what I mean is your impression from talking to them is that they have no idea of… anything in the outside. Like… like, they have, like, these… these…",
+          "Finnan: So what are their myths? Like, what… what is the… what are the gods that they do talk about? I mean, obviously they don't, like, worship any gods, but they have stories of Kestavo, right? Who do they have stories of, and what are the sort of myths?",
+          "DM: I mean, the stories are almost more… about the concept of Kestavo than specific ones. I mean, there’s a handful, like, like, Romil or… there’s a few other names, like, Besla… who is said to be the Kestavo who brings spring, from the… who is, like, the Kestavo who's said to live on the shore… you could read the Obsidian page as fast… as well as I can.",
+          "Finnan: I guess I can remove the status/check/mike that this might not be canon, then.",
+          "DM: Well, no, because I haven't read the whole thing, but… but the two… the three Kestavo who are mentioned at the top are… are canon. But the… like, they've heard of a couple of these, Kestavo, but they… like, like, Besla and Romil in particular are actually common, they don't mention, but, but… they're not… they have stories about having stories, and about Kestavo as, like, well, it used to be that there was a… that we… in the ancient days, we… we would walk along the… the water, you know, the stream, and… and… and give prayers to the… to the waterfall, but they don't actually have any specific stories of… it's not like they… it's not like they're remembering some specific god who they still remember, right? It's more like, well, yes, we think… you know, and you almost… it almost feels like a garbled, sort of… They talk about, you know."
+        ],
+        "after": [
+          "DM: Like, he kind of doesn’t want to get into… he’s sort of trying to steer the conversation away from the… but they don’t… it seems like the main led… the main story they tell themselves is that… you know, they are born here, and therefore they endure this place, and… that's… right. Fate? They don't… you know, they occasionally talk about, you know, they came here 7…",
+          "Finnan: The only other thing I'll ask them, and then Finnan's gonna take a break and stop monopolizing conversation, is if… if they remember their parents.",
+          "Justas: Yeah.",
+          "Finnan: I'll ask… I'll just ask, what was… what were your parents like? What were your grandparents like?",
+          "DM: They, I mean, yeah, the… Nura talks about her and Kalima's mother's still alive, she lives in the village. Their father's… passed, and when she says that, she sort of, she actually says, our father… is… has… how does she put this? Our father has, our father has gone into the… our father has gone to the mists. But sort of glances over at, her baby when she says that."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Nura fears that Samir’s soul remembers too much",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2091",
+        "endUid": "u2112"
+      },
+      "lines": [
+        "%% u2091:0-97 %%",
+        "Finnan: I'll ask… I'll just ask, what was… what were your parents like? What were your grandparents like?",
+        "",
+        "%% u2092:0-24, u2093:0-105, u2094:0-71, u2095:0-43, u2096:0-63, u2097:0-28, u2098:0-28 %%",
+        "DM: They, I mean, yeah, the… Nura talks about her and Kalima's mother's still alive, she lives in the village. Their father's… passed, and when she says that, she sort of, she actually says, our father… is… has… how does she put this? Our father has, our father has gone into the… our father has gone to the mists. But sort of glances over at, her baby when she says that.",
+        "",
+        "%% u2099:0-34 %%",
+        "Justas: How many in the village graveyard?",
+        "",
+        "%% u2100:0-10 %%",
+        "DM: Graveyard?",
+        "",
+        "%% u2101:0-4 %%",
+        "Justas: Huh.",
+        "",
+        "%% u2102:0-20 %%",
+        "DM: What is a graveyard?",
+        "",
+        "%% u2103:0-57 %%",
+        "Justas: How much does your child understand of what we're saying?",
+        "",
+        "%% u2104:0-28, u2105:0-109, u2106:0-5, u2107:0-17, u2108:0-12, u2109:0-46, u2110:0-78, u2111:0-22, u2112:0-33 %%",
+        "DM: She sort of whispers to you. Sometimes… the soul knows, remembers too much. Doesn’t end well for the child, then. We’re worried about her. Rest. We can talk more if you wish. But she, like… gets you some… cheese and… and… milk, the goats, and… she sort of glances around the… you must be tired, phew. I… I do not. I do not… think you will be disturbed here."
+      ],
+      "reviewContext": {
+        "before": [
+          "Finnan: Right. And their lot is to endure.",
+          "DM: Why they endure. Many different people have, you know… You get the sense that there's different… factions or beliefs about the value of endure… but that… Khaled is kind of steering the conversation away from, like, like… if they're here for… they're here tomorrow. They're here for the… for forever. They'll learn. We shouldn't talk of such things. Like, he glances at his kid again, like, we shouldn't talk of such things.",
+          "DM: Like, he kind of doesn’t want to get into… he’s sort of trying to steer the conversation away from the… but they don’t… it seems like the main led… the main story they tell themselves is that… you know, they are born here, and therefore they endure this place, and… that's… right. Fate? They don't… you know, they occasionally talk about, you know, they came here 7…",
+          "Finnan: The only other thing I'll ask them, and then Finnan's gonna take a break and stop monopolizing conversation, is if… if they remember their parents.",
+          "Justas: Yeah."
+        ],
+        "after": [
+          "Finnan: I'm… I wanna know what… what it's like when the sun sets? Like, do they see a sun… do they know what a sunset is? I'm gonna use a minor illusion to make a picture of a sunset.",
+          "DM: Yeah, so yes, they… they… when the sun sets, they… it's… Kalima will say… will start to describe the last sunset. The last sunset was relatively recently. Like, very recent, like, not that long ago. The… the… I mean… the sun… sinks to the… I mean, there's no horizon, I mean, it's… the sky's never clear.",
+          "Finnan: Right.",
+          "DM: Right? They're actually… the idea of a blue… the sky is gray. There's no… the sky's not blue here, it's gray. It's never clear, but… in the evening, the… I mean, they don't really think of it as evening, but when the sun sets, it… goes down, and there's no brilliant colors or anything like that. It's like a gray winter sunset. It mostly just fades away.",
+          "Finnan: And then it rises again?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Kalima describes the sun, sacrifices and sleeping",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2113",
+        "endUid": "u2150"
+      },
+      "lines": [
+        "%% u2113:0-23, u2114:0-151 %%",
+        "Finnan: I'm… I wanna know what… what it's like when the sun sets? Like, do they see a sun… do they know what a sunset is? I'm gonna use a minor illusion to make a picture of a sunset.",
+        "",
+        "%% u2115:0-56, u2116:0-97, u2117:0-70, u2118:0-78 %%",
+        "DM: Yeah, so yes, they… they… when the sun sets, they… it's… Kalima will say… will start to describe the last sunset. The last sunset was relatively recently. Like, very recent, like, not that long ago. The… the… I mean… the sun… sinks to the… I mean, there's no horizon, I mean, it's… the sky's never clear.",
+        "",
+        "%% u2119:0-6 %%",
+        "Finnan: Right.",
+        "",
+        "%% u2120:0-61, u2121:0-47, u2122:0-22, u2123:0-97, u2124:0-124 %%",
+        "DM: Right? They're actually… the idea of a blue… the sky is gray. There's no… the sky's not blue here, it's gray. It's never clear, but… in the evening, the… I mean, they don't really think of it as evening, but when the sun sets, it… goes down, and there's no brilliant colors or anything like that. It's like a gray winter sunset. It mostly just fades away.",
+        "",
+        "%% u2125:0-24 %%",
+        "Finnan: And then it rises again?",
+        "",
+        "%% u2126:0-91 %%",
+        "DM: Kind of? I mean, it… so, night doesn't end until somebody is sacrificed into the labyrinth.",
+        "",
+        "%% u2127:0-6 %%",
+        "Finnan: Right.",
+        "",
+        "%% u2128:0-59, u2129:0-32, u2130:0-31, u2131:0-215 %%",
+        "DM: And then that causes the sun to rise, but it usually kinda… it’s usually there, you sort of… it doesn't move across the sky. It's more like it goes away, and then, it's night for some period of time, and then it sort of rapidly crosses across the sky and then kind of hangs in the same spot for a long time, and then it goes away, and then…",
+        "",
+        "%% u2132:0-102 %%",
+        "Finnan: Okay, so it sounds like they're willing to let us spend the night such as it is here, is that correct?",
+        "",
+        "%% u2133:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u2134:0-5, u2135:0-9 %%",
+        "Finnan: Okay. Go ahead.",
+        "",
+        "%% u2136:0-45 %%",
+        "DM: I should… yeah, no, no, no, no, no, go ahead.",
+        "",
+        "%% u2137:0-16, u2138:0-87 %%",
+        "Finnan: I have no sense. Well, Finnan has no sense of how long it's been since we've slept. Are we tired at all?",
+        "",
+        "%% u2139:0-5, u2140:0-35, u2141:0-91 %%",
+        "DM: Yeah, it's, I mean… it's been a… strange period of time. It's actually hard to know how much time has passed, but you do feel tired.",
+        "",
+        "%% u2142:0-18, u2143:0-18 %%",
+        "Jrain: Do they long rest? A few times a day.",
+        "",
+        "%% u2144:0-58, u2145:0-90, u2146:0-29, u2147:0-48, u2148:0-160, u2149:0-89, u2150:0-41 %%",
+        "DM: They, I mean, they sleep, I mean, again, they'll, they'll, they'll explain… they'll… I mean, if you start having a conversation about this, the… the… there's a… there's a sort of… gong noise that rings from the ice palace every… 12 hours, basically. And that… they sleep… they go to sleep when the gong rings, and they wake up when the gong rings, and they go to sleep when the gong rings. It hasn’t rung yet, but if you’re tired, you could certainly go to bed, if you wanted to. You've probably been talking for an hour."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Graveyard?",
+          "Justas: Huh.",
+          "DM: What is a graveyard?",
+          "Justas: How much does your child understand of what we're saying?",
+          "DM: She sort of whispers to you. Sometimes… the soul knows, remembers too much. Doesn’t end well for the child, then. We’re worried about her. Rest. We can talk more if you wish. But she, like… gets you some… cheese and… and… milk, the goats, and… she sort of glances around the… you must be tired, phew. I… I do not. I do not… think you will be disturbed here."
+        ],
+        "after": [
+          "Finnan: Yeah. So, I will… before we go to bed, I’m gonna cast Clairvoyance at the Ice… on the Ice Palace.",
+          "DM: Where?",
+          "Finnan: That's what I'm thinking about.",
+          "DM: Kong, you're on mute if you're talking.",
+          "Finnan: Activated Kong."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "The giant ice wolf watches the gashes",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2251",
+        "endUid": "u2327"
+      },
+      "lines": [
+        "%% u2251:0-162, u2252:0-14, u2253:0-114 %%",
+        "DM: ((Omitted incidental discussion)) There's this giant, like, 30-foot-tall ice wolf, right? ((Omitted incidental discussion))",
+        "",
+        "%% u2254:0-17, u2255:0-365, u2256:0-32, u2257:0-78, u2258:0-83, u2259:0-54, u2260:0-26, u2261:0-64, u2261:64-97, u2262:0-22, u2263:0-74, u2264:0-27, u2265:0-24, u2266:0-31, u2267:0-82, u2268:0-11, u2269:0-148, u2270:0-27, u2271:0-77, u2272:0-156, u2273:0-49, u2274:0-229, u2275:0-173, u2276:0-290, u2277:0-53, u2278:0-70, u2279:0-59, u2280:0-285, u2281:0-25, u2282:0-61, u2283:0-43, u2284:0-63, u2285:0-92, u2286:0-133, u2287:0-82, u2288:0-76, u2289:0-42, u2290:0-81, u2291:0-224, u2292:0-5, u2293:0-12, u2294:0-15, u2295:0-66, u2296:0-34, u2297:0-50, u2298:0-93, u2299:0-17, u2300:0-94, u2301:0-5, u2302:0-43, u2303:0-82, u2304:0-40, u2305:0-88, u2306:0-216, u2307:0-54, u2308:0-85, u2309:0-66, u2310:0-94, u2311:0-83, u2312:0-72, u2313:0-95, u2314:0-108, u2315:0-11, u2316:0-65, u2317:0-13, u2318:0-41, u2319:0-54, u2320:0-147, u2321:0-17, u2322:0-44, u2323:0-21, u2324:0-17, u2325:0-5 %%",
+        "((Portal reconnaissance and discussion))",
+        "",
+        "%% u2326:0-48, u2327:0-148 %%",
+        "DM: And as you get a little closer, you can actually… Also, as you're watching, you see the, like, the giant 30-foot-tall wolf occasionally very slowly moves its head, like it's scanning back and forth."
+      ],
+      "reviewContext": {
+        "before": [
+          "Ekko: Okay, head over to the… head over to the gashes.",
+          "DM: Okay, so… how… so when you're about 100 feet away.",
+          "Ekko: Yeah.",
+          "DM: You're pretty… you're a cat, you're pretty stealthy, you made a great stealth roll, right? You're… you're just, like, sneaking along. There is, like, four… guards. Clearly guards. So first of all, there's this…",
+          "Ekko: Human… human guards?"
+        ],
+        "after": [
+          "Ekko: If I kind of, like, like, jump up or whatever, can I see, like, a reflection of myself? Like, is there another cat on the other side?",
+          "DM: No other cat. No, it's, it's, it's… it's… actually, make a perception check.",
+          "Ekko: I was gonna say, like, how similar is it? Advantage?",
+          "DM: No, you don’t have advantage on Perception, only…",
+          "Ekko: I got a plus 7 perception, that's good. 20."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "A Sylvan-inscribed disc in the tower",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2382",
+        "endUid": "u2419"
+      },
+      "lines": [
+        "%% u2382:0-76, u2383:0-45, u2384:0-55, u2385:0-64, u2386:0-95, u2387:0-5 %%",
+        "DM: ((Omitted incidental discussion)) Your… your… sensor appears, it’s a… mostly empty room. ((Omitted incidental discussion)) there is a, large, flat, surface. Like…",
+        "",
+        "%% u2388:0-110, u2389:0-83, u2390:0-141, u2391:0-69, u2392:0-42 %%",
+        "DM: A, like, table, almost? Like, circular… like, perfectly circular, table. And there’s a glowing point of light… sort of… partway… so, like, if it's a flat surface like this, like a disk, sort of… here, like, you can't see what I'm doing, but sort of two-thirds of the way across the disc in, like, an arc from one side to the other side, there's this glowing point of light, and there's… do you read Sylvan? Do you recognize something? What language?",
+        "",
+        "%% u2393:0-81 %%",
+        "Finnan: I'm sure I would recognize Sylvan, I'm not gonna read Sylvan words if I see them.",
+        "",
+        "%% u2394:0-133, u2395:0-4, u2396:0-121, u2397:0-88 %%",
+        "DM: Right. That’s true, you know all the dangers of reading Sylvan words. The… the… there’s dense writing in Sylvan, kind of going across the… the… the disc, like, sort of around the bottom arc. And then there’s just this… this glowing point of light, like a pale… pale… almost like… it actually kind of reminds me of the sun. Like a pale, glowing spot.",
+        "",
+        "%% u2398:0-27 %%",
+        "Finnan: There's nobody in the room.",
+        "",
+        "%% u2399:0-40 %%",
+        "DM: Nobody is in the room at the moment, no.",
+        "",
+        "%% u2400:0-77, u2401:0-58, u2402:0-25, u2403:0-26, u2404:0-3, u2405:0-33, u2406:0-3, u2407:0-68, u2408:0-53, u2409:0-70, u2410:0-5, u2411:0-31, u2412:0-96 %%",
+        "((Omitted incidental discussion))",
+        "",
+        "%% u2413:0-147, u2414:0-28, u2415:0-38, u2416:0-79, u2417:0-199, u2418:0-179, u2419:0-46 %%",
+        "DM: Nothing much seems to be happening in the room, but, I mean, this glowing point of light is clearly, like, it’s not moving over the 8 minutes, but… every once in a while, some… shimmering light runs along the words. ((Omitted incidental discussion)) But what it does is a little bit hard to tell."
+      ],
+      "reviewContext": {
+        "before": [
+          "Justas: That feels like the place to live.",
+          "Finnan: Yeah, let's put it in the chamber at the top.",
+          "DM: Okay, so the top of the tower, I mean, it's… it's a… it's… you can't see it, it's made of ice, right? You don't know what's inside it, but there is a…",
+          "Finnan: Yeah, yeah, that's fine. Throw the… throw clairvoyance there. I'm going with sight to start.",
+          "DM: Okay, so, you… hold on, let me find this…"
+        ],
+        "after": [
+          "DM: But as you… every time you switch back to sound, like, there's… there's some commotion happening, right? Like, you can hear… nobody's being very careful, like, you occasionally hear an order, like, somebody shout… like, a shouted order in… in Old Zimkovan, like… like, you know.",
+          "Finnan: The people in here are speaking Zimkovan.",
+          "DM: Old Zimkovan.",
+          "Finnan: Yeah, yeah.",
+          "DM: The, the, the… you hear occasional words shouted in Old Zimkovan, yes."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "The palace sends soldiers to find the trickster",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2473",
+        "endUid": "u2499"
+      },
+      "lines": [
+        "%% u2473:0-47, u2474:0-87, u2475:0-37, u2476:0-71, u2477:0-26, u2478:0-18, u2479:0-33, u2480:0-98, u2481:0-52, u2482:0-9, u2483:0-22, u2484:0-15, u2485:0-66 %%",
+        "DM: They're… they say, you hear one of them saying, ‘A trickster, Zeyfa said, a trickster. Maybe… if we catch it, something new will happen.’ The other one says, it’s best not to… yeah. The other one says it’s… sorry, I’m just, it’s… it’s best not to… ‘It’s best not to question. Survival is proof.’ And the other one says, ‘Yes, wow. Some novelty in life would be nice occasionally, don’t you think?’ And the other one says, ‘Novelty!’ Like, scoffing. Like, ‘Nothing good has come of that. Survival. That’s why we’re here.’ [garbled] mutters a little bit under their breath that you can't quite hear.",
+        "",
+        "%% u2486:0-55, u2487:0-53, u2488:0-59, u2489:0-10, u2490:0-42, u2491:0-23, u2492:0-95 %%",
+        "DM: You hear somebody else say, remember your orders. Find… finds the, finds the spirit… who taunted the master. It must be around somewhere. Must have come from somewhere. Check the, check with, check with Yassin at the wall. Maybe he saw something. And they start to… I mean, they're marching across now. They're sort of muttering a little bit.",
+        "",
+        "%% u2493:0-5, u2494:0-7, u2495:0-69 %%",
+        "Finnan: Okay. I will… tell Kalima, I will ask Kalima how often people come from the palace.",
+        "",
+        "%% u2496:0-45, u2497:0-23, u2498:0-44 %%",
+        "DM: It's… some… believe… servitude brings safety. They go back and forth. Not… usually, not usually at this time. Why?",
+        "",
+        "%% u2499:0-13 %%",
+        "Finnan: Just curious."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: They look like they could be related to… I mean, Kalima and Nura and Khaled all actually look fairly similar. They all look like they could be related. And these people look similar, right? They look like, air… same sort of… look as the other humans you’ve seen in the village. They’re sort of walking… as the sensor appears, they’re sort of… walking… away, like, into a…",
+          "DM: You can actually see through, like, there's a passageway that leads all the way out. There's, like, a big double door. So you're in a big courtyard, there's a double door that's standing open, and you can see a double door, standing… open on the other side, like, out of the palace on the other side. And you… you can see a bridge of ice is slowly growing from… the front door across to the village.",
+          "Finnan: Okay.",
+          "DM: And the… people are sort of walking as your sensor appears, you can see them sort of… you caught the, like, end of… there's maybe 6 more people in front of them, right? And you hear them… well, that's what you see.",
+          "Finnan: Yeah, I'll… I'll switch to hearing briefly."
+        ],
+        "after": [
+          "DM: Are you guys…",
+          "Finnan: I think at this point, yeah, we're just gonna long rest.",
+          "Justas: Yeah.",
+          "Finnan: And call it a night, I think.",
+          "Justas: I'm fading for the night."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The source attributes the order to Zeyfa and names the master without resolving how those labels relate to Forquarion."
+      }
+    }
+  ]
+}

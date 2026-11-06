@@ -1,0 +1,147 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-session.yaml",
+  "source": {
+    "path": "_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-time-markers.json",
+    "sha256": "68dc7b08db9cd6fb1075a3299bb09f924d2681b04a3a0f2259453a7247455599"
+  },
+  "transcript": {
+    "path": "_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-transcript.md",
+    "sha256": "14ec6b5112538a313f32603b4f4b004a71fb0f3e5ca0f15efdfb0c6c52de5a04"
+  },
+  "dateAssessment": "The working campaign span is January 25–26, 1730, from the session YAML; no year, month, day or completed overnight is spoken in this source. The time extraction is compatible with that span, with the closing boundary open. Melusa’s stationary late-afternoon light is a local reading, not a civil watch or day counter; the noon view through the gash is another local clock. The gong and dinner suggest a local dusk/sleep period without an actual sunset. Elapsed-only rows retain open watches. The one-hour conversation and dinner receive one short-rest credit; the intended long rest is explicitly uncompleted at cutoff. The dated campaign record supplies the recording-date discrepancy and the competing scout ordering flagged above.",
+  "watches": [
+    {
+      "day": "During January 25–26, 1730",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Kalima pauses about a minute before the escape; no clock is established.",
+      "markers": [
+        "t01"
+      ],
+      "dateWindow": [
+        "1730-01-25",
+        "1730-01-26"
+      ]
+    },
+    {
+      "day": "During January 25–26, 1730",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The tunnel crawl takes about ten minutes before the party reaches the cliff.",
+      "markers": [
+        "t02"
+      ],
+      "dateWindow": [
+        "1730-01-25",
+        "1730-01-26"
+      ]
+    },
+    {
+      "day": "Melusa’s stationary sky",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Late-afternoon light remains fixed throughout the village scenes.",
+      "markers": [
+        "t03"
+      ],
+      "clock": "local",
+      "scope": "Melusa"
+    },
+    {
+      "day": "During January 25–26, 1730",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "About 45 minutes pass from the fey’s dispatch to the conversation in the house.",
+      "markers": [
+        "t04"
+      ],
+      "dateWindow": [
+        "1730-01-25",
+        "1730-01-26"
+      ]
+    },
+    {
+      "day": "During January 25–26, 1730",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "About an hour talking and dining earns one short rest; Ekko scouts during the conversation.",
+      "markers": [
+        "t05",
+        "t07"
+      ],
+      "dateWindow": [
+        "1730-01-25",
+        "1730-01-26"
+      ]
+    },
+    {
+      "day": "During Ekko’s reconnaissance",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "Noon-like shadows appear across the gash while Melusa keeps its stationary afternoon light.",
+      "markers": [
+        "t08"
+      ],
+      "clock": "local",
+      "scope": "Beyond the mirror-like gash"
+    },
+    {
+      "day": "Melusa’s dinner and sleep signal",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "The gong rings during dinner, marking local sleep time without a sunset.",
+      "markers": [
+        "t06"
+      ],
+      "clock": "local",
+      "scope": "Household sleep cycle"
+    },
+    {
+      "day": "During January 25–26, 1730",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Two ten-minute castings surround roughly ten minutes of tower observation after Ekko’s return.",
+      "markers": [
+        "t09",
+        "t10",
+        "t11",
+        "t12"
+      ],
+      "dateWindow": [
+        "1730-01-25",
+        "1730-01-26"
+      ],
+      "scope": "Finnan"
+    },
+    {
+      "day": "During January 25–26, 1730",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The party attempts a long rest; completion and next-day waking remain explicitly deferred.",
+      "markers": [
+        "t13"
+      ],
+      "dateWindow": [
+        "1730-01-25",
+        "1730-01-26"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated campaign record",
+      "path": "Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 03.md",
+      "sha256": "133c00568f67768b700da7f0409e63f4ad5a758b7ee8fccfaa2e46609a5e34eb"
+    }
+  ]
+}
