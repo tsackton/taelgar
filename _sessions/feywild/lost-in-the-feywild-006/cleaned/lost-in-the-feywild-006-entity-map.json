@@ -90,6 +90,22 @@
           "source": {
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0532",
+            "endUid": "u0539"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0653",
+            "endUid": "u0660"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
             "startUid": "u0727",
             "endUid": "u0739"
           }
@@ -172,6 +188,14 @@
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
             "startUid": "u0589",
             "endUid": "u0611"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0628",
+            "endUid": "u0628"
           }
         },
         {
@@ -268,7 +292,15 @@
           "source": {
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-            "startUid": "u0972",
+            "startUid": "u0979",
+            "endUid": "u0998"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1004",
             "endUid": "u1023"
           }
         }
@@ -374,7 +406,6 @@
       "kind": "npc",
       "label": "Former head of the Drankorian order",
       "note": "People/Other Humans/Thalestria.md",
-      "identifiedLater": true,
       "importance": "cameo",
       "occurrences": [
         {
@@ -395,10 +426,9 @@
         }
       ],
       "review": {
-        "confidence": "medium",
+        "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "confidenceExplanation": "The unnamed former leader matches Thalestria’s bargain and succession, but this session does not speak her name."
+      }
     },
     {
       "id": "e007",
@@ -642,7 +672,7 @@
         "confidence": "medium",
         "status": "automatedReviewed"
       },
-      "confidenceExplanation": "Txarro invokes his own ancestors and attributes the augury to them, but the source supplies no individual spirit identities or direct manifestation."
+      "confidenceExplanation": "A collective of invoked ancestral spirits is favored, but the session does not distinguish named beings from Txarro’s general religious appeal."
     },
     {
       "id": "e016",
@@ -827,7 +857,7 @@
         "confidence": "medium",
         "status": "automatedReviewed"
       },
-      "confidenceExplanation": "The empty shelf’s special-circulation notice is a concrete discovery about this particular book, though its contribution is brief and explicitly presented as an Easter egg."
+      "confidenceExplanation": "The special-circulation notice identifies a particular book, but its brief bibliographic discovery is borderline item significance."
     },
     {
       "id": "e022",
@@ -862,7 +892,6 @@
       "kind": "item",
       "label": "Book equating curiosity with addiction",
       "note": "Things/Books/The Shape of Discovery.md",
-      "identifiedLater": true,
       "importance": "cameo",
       "occurrences": [
         {
@@ -875,10 +904,9 @@
         }
       ],
       "review": {
-        "confidence": "medium",
+        "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "confidenceExplanation": "The recalled argument matches The Shape of Discovery, but its title is not spoken in this session."
+      }
     },
     {
       "id": "e024",
@@ -899,7 +927,7 @@
         "confidence": "medium",
         "status": "automatedReviewed"
       },
-      "confidenceExplanation": "The recap describes a particular unfinished vessel for Kallipseis’s consciousness, although its identity as a separate item remains borderline."
+      "confidenceExplanation": "The recap identifies a constructed escape vessel, but its independent item identity remains borderline before completion."
     }
   ],
   "exclusions": [
@@ -1229,6 +1257,7 @@
     }
   ],
   "evidenceNotes": [
-    "People/PCs/Other PCs/Tollen Misfits/Txarro.md"
+    "People/PCs/Other PCs/Tollen Misfits/Txarro.md",
+    "Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 05.md"
   ]
 }

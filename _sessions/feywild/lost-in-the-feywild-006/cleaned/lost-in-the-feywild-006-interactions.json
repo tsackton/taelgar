@@ -8,7 +8,7 @@
     },
     "entityMap": {
       "path": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-entity-map.json",
-      "sha256": "dbb71edb544bebd42e2d64eaefd16a0eb4a619b31a2a7c30cb63c5ac8c89dabe"
+      "sha256": "2addf050a9b5221fe803c17d6d22e55b6d80fbbc3ef14236c0a5d9a68214f9e2"
     }
   },
   "interactions": [
@@ -82,7 +82,7 @@
       },
       "lines": [
         "%% u0035:0-216, u0036:0-106, u0037:0-235, u0038:0-140 %%",
-        "DM: ((Earlier material)) In the next room is Clockworks, where the grandfather clocks and desk clocks are manufactured, and Tarek—importantly, I'll remind this because he's not here this session—picks up a desk-sized clock that is working and tracks and, you know, shows you the year and the coordinate location of where you are in each room that you move through. Or, excuse me, shows you the year and coordinate location of the central prison room, location, each time you step from one room to another."
+        "DM: ((Earlier recap)) In the next room is Clockworks, where the grandfather clocks and desk clocks are manufactured, and Tarek—importantly, I'll remind this because he's not here this session—picks up a desk-sized clock that is working and tracks and, you know, shows you the year and the coordinate location of where you are in each room that you move through. Or, excuse me, shows you the year and coordinate location of the central prison room, location, each time you step from one room to another."
       ],
       "review": {
         "confidence": "high",
@@ -166,14 +166,11 @@
       ],
       "source": {
         "startUid": "u0104",
-        "endUid": "u0113"
+        "endUid": "u0108"
       },
       "lines": [
         "%% u0104:0-56, u0105:0-130, u0106:0-105, u0107:0-74, u0108:0-75 %%",
-        "Edric: ((Earlier material)) Longer term, he's… more convinced than ever that the Night Queen must have a purpose for him. But he is… not sure that this… wandering across the planes… it's really it.",
-        "",
-        "%% u0109:0-32, u0110:0-21, u0111:0-100, u0112:0-50, u0113:0-46 %%",
-        "Edric: And he's wondering a little bit how he ended up here. And… I'm not really questioning the mercenary life exactly, but… but… thinking… thoughts that maybe… just maybe he should have a bit more of a purpose. And it would keep him out of messes like this."
+        "Edric: ((Earlier character description)) Longer term, he's… more convinced than ever that the Night Queen must have a purpose for him. But he is… not sure that this… wandering across the planes… it's really it."
       ],
       "review": {
         "confidence": "high",
@@ -188,11 +185,11 @@
           "Edric: Edric is… I mean, he's tall, kinda… with his fancy suited breastplate decorated with the Night Queen's symbol and his… Yeah… slightly too prominent cheekbones, and jaw, and nose, and kind of slightly… big. Tall. Strong. But not necessarily that, you know, definitely not handsome, right? He's, at the micro level, he is… energized by having…"
         ],
         "after": [
+          "Edric: And he's wondering a little bit how he ended up here. And… I'm not really questioning the mercenary life exactly, but… but… thinking… thoughts that maybe… just maybe he should have a bit more of a purpose. And it would keep him out of messes like this.",
           "Ayveen: Ayveen's armor is still shining bright, she's made it through that last conflict without directly getting into the… post-combat fray, but she's… It's wearing on her that there have been so many different people to help, and, you know, goals of do-gooding that are just corrupted and confusing. Like… first, they were hired by Hulda, so they wanted to help Hulda, but now they don't want to help Hulda, and then they wanted to help the, the elf lord of the Manor, because it seems sort of sad that his party was endlessly ending. But we're not really sure. That's all tied up in all this complexity, and maybe the prisoner—prisoner sounds bad, like, maybe you want to help a prisoner, but then if it's the master of mushroom things that's trying to kill them, then maybe, as Edric said, it's… an enemy, and…",
           "Ayveen: Who she really wants to help is her friends. At this point, we all want to go home. We know we need a key to, like, even get out of this… building, so… We have at least that clear of a purpose, is to help ourselves. And she's thinking about what sort of healing Txarro will need, and, you know, how we can… pull ourselves together and get out of here. And she thinks, you know…",
           "Ayveen: I don't know if this society that gave Menestheus so much, you know, confidence that they knew what they were doing would really be helpful if they were… less represented by just one crazy mushroom breeder, and, out-of-his-element mathematician, but I don't know, maybe Tollen has some sort of wise secret societies that need… need volunteers. I don't know, just… it might be nice to be part of something that has some clarity and direction.",
-          "Edric: The aimlessness is really wearing on all of us, it sounds.",
-          "DM: It makes me so happy. I just… I love it."
+          "Edric: The aimlessness is really wearing on all of us, it sounds."
         ]
       }
     },
@@ -251,7 +248,7 @@
         "Kaito Min: Interesting. Kaito will… point at it.",
         "",
         "%% u0180:0-159, u0181:0-25, u0182:0-11, u0183:0-5, u0184:0-119, u0185:0-97, u0186:0-4, u0187:0-118, u0188:0-32, u0189:0-104, u0190:0-44, u0191:0-112, u0192:0-4, u0193:0-161, u0194:0-15, u0195:0-4, u0196:0-132, u0197:0-54, u0198:0-83, u0199:0-153, u0200:0-46, u0201:0-64, u0202:0-4, u0203:0-4, u0204:0-40, u0205:0-44, u0206:0-20, u0207:0-135, u0208:0-8, u0209:0-117, u0210:0-109, u0211:0-83, u0212:0-78, u0213:0-36, u0214:0-65, u0215:0-57, u0216:0-11, u0217:0-39, u0218:0-116, u0219:0-45, u0220:0-96, u0221:0-7, u0222:0-68, u0223:0-54, u0224:0-11, u0225:0-4, u0226:0-18, u0227:0-6, u0228:0-29, u0229:0-7, u0230:0-4, u0231:0-58, u0232:0-41, u0233:0-177, u0234:0-51, u0235:0-49, u0236:0-15, u0237:0-59, u0238:0-97, u0239:0-30, u0240:0-122, u0241:0-28, u0242:0-31, u0243:0-36, u0244:0-20, u0245:0-125, u0246:0-35, u0247:0-42, u0248:0-112, u0249:0-26, u0250:0-61, u0251:0-142, u0252:0-202, u0253:0-46, u0254:0-52, u0255:0-40, u0256:0-15, u0257:0-19, u0258:0-44, u0259:0-5 %%",
-        "((The party examines the door and discusses its options))",
+        "((Door discussion and a whispered exchange interrupt the mirroring))",
         "",
         "%% u0260:0-13 %%",
         "Kaito Min: So I pointed.",
@@ -426,7 +423,7 @@
       },
       "lines": [
         "%% u0236:0-15, u0237:0-59, u0238:0-97, u0239:0-30, u0240:0-122, u0241:0-28, u0242:0-31, u0243:0-36, u0244:0-20, u0245:0-125 %%",
-        "Txarro: ((Earlier material)) he is going to use Augury to ask the ancestors—his ancestors— if… we take this key and leave, and bring it to Lord Endless Ending, is that bad or good? This takes 10 minutes, so you can go around and figure out everybody else's actions and resolve other things while you think.",
+        "Txarro: ((Ritual setup)) he is going to use Augury to ask the ancestors—his ancestors— if… we take this key and leave, and bring it to Lord Endless Ending, is that bad or good? This takes 10 minutes, so you can go around and figure out everybody else's actions and resolve other things while you think.",
         "",
         "%% u0246:0-35, u0247:0-42, u0248:0-112, u0249:0-26, u0250:0-61, u0251:0-142, u0252:0-202, u0253:0-46, u0254:0-52, u0255:0-40, u0256:0-15, u0257:0-19, u0258:0-44, u0259:0-5, u0260:0-13, u0261:0-100, u0262:0-31, u0263:0-10, u0264:0-23, u0265:0-17, u0266:0-4, u0267:0-76, u0268:0-22, u0269:0-20, u0270:0-72, u0271:0-88, u0272:0-26, u0273:0-16, u0274:0-81, u0275:0-6, u0276:0-3, u0277:0-141, u0278:0-127, u0279:0-44, u0280:0-79, u0281:0-49, u0282:0-54, u0283:0-209, u0284:0-77, u0285:0-4, u0286:0-40, u0287:0-56, u0288:0-71, u0289:0-75, u0290:0-98, u0291:0-77, u0292:0-60, u0293:0-82, u0294:0-38, u0295:0-65, u0296:0-180, u0297:0-20, u0298:0-15, u0299:0-38, u0300:0-22, u0301:0-27, u0302:0-104, u0303:0-368, u0304:0-58, u0305:0-67, u0306:0-17, u0307:0-83, u0308:0-79, u0309:0-5, u0310:0-86, u0311:0-35, u0312:0-127, u0313:0-40, u0314:0-39, u0315:0-114, u0316:0-124, u0317:0-61, u0318:0-29, u0319:0-108, u0320:0-54, u0321:0-18, u0322:0-6, u0323:0-42, u0324:0-31, u0325:0-34, u0326:0-156, u0327:0-116, u0328:0-49, u0329:0-42, u0330:0-197, u0331:0-21, u0332:0-103, u0333:0-17, u0334:0-20, u0335:0-72, u0336:0-31, u0337:0-6, u0338:0-309, u0339:0-143, u0340:0-50, u0341:0-124, u0342:0-137, u0343:0-34, u0344:0-37, u0345:0-139, u0346:0-75, u0347:0-82, u0348:0-79, u0349:0-69, u0350:0-47, u0351:0-30, u0352:0-38, u0353:0-80, u0354:0-23, u0355:0-30, u0356:0-27, u0357:0-4, u0358:0-9, u0359:0-50, u0360:0-42, u0361:0-78, u0362:0-78, u0363:0-27, u0364:0-78, u0365:0-90, u0366:0-99, u0367:0-57, u0368:0-12, u0369:0-49, u0370:0-30, u0371:0-3, u0372:0-8, u0373:0-28, u0374:0-41, u0375:0-66, u0376:0-78, u0377:0-87, u0378:0-59, u0379:0-11, u0380:0-78, u0381:0-36, u0382:0-40, u0383:0-32, u0384:0-90, u0385:0-94, u0386:0-64, u0387:0-44, u0388:0-68, u0389:0-47, u0390:0-39, u0391:0-99, u0392:0-57, u0393:0-63, u0394:0-18, u0395:0-33, u0396:0-11, u0397:0-25, u0398:0-8, u0399:0-37, u0400:0-25, u0401:0-38, u0402:0-17, u0403:0-4, u0404:0-14, u0405:0-10, u0406:0-25, u0407:0-35, u0408:0-4, u0409:0-35, u0410:0-10, u0411:0-29, u0412:0-5, u0413:0-38, u0414:0-42, u0415:0-34, u0416:0-98, u0417:0-99, u0418:0-66, u0419:0-49, u0420:0-52, u0421:0-31, u0422:0-4, u0423:0-12, u0424:0-154, u0425:0-14, u0426:0-64, u0427:0-8, u0428:0-63, u0429:0-22, u0430:0-51, u0431:0-8, u0432:0-20, u0433:0-28, u0433:28-51, u0434:0-33, u0435:0-34, u0436:0-65, u0437:0-24, u0438:0-46, u0439:0-5, u0440:0-80, u0441:0-16, u0442:0-10, u0443:0-4, u0444:0-54, u0445:0-97, u0446:0-125, u0447:0-127, u0448:0-163, u0449:0-65, u0450:0-91, u0451:0-20, u0452:0-43, u0453:0-43, u0454:0-26, u0455:0-24, u0456:0-20, u0457:0-55, u0458:0-48, u0459:0-34, u0460:0-35 %%",
         "((The library conversation continues during the ritual))",
@@ -498,7 +495,7 @@
         "Kaito Min: That is amazing. Who were the last people that you met before us?",
         "",
         "%% u0296:0-180, u0297:0-20, u0298:0-15, u0299:0-38, u0300:0-22, u0301:0-27, u0302:0-104, u0303:0-368, u0304:0-58, u0305:0-67, u0306:0-17, u0307:0-83, u0308:0-79, u0309:0-5, u0310:0-86, u0311:0-35, u0312:0-127, u0313:0-40, u0314:0-39, u0315:0-114, u0316:0-124, u0317:0-61, u0318:0-29, u0319:0-108, u0320:0-54, u0321:0-18, u0322:0-6, u0323:0-42, u0324:0-31 %%",
-        "((The assistant pauses while Edric inspects the library))",
+        "((Edric inspects the library while the assistant considers the question))",
         "",
         "%% u0325:0-34, u0326:0-156, u0327:0-116, u0328:0-49 %%",
         "DM: The automaton says, “Some time ago. It's difficult to judge the passage of time in increments smaller than about 50 or 60 years, because of the slow pace of the change in the pages themselves. But sometime relatively recently, there was a human woman who came through who must have been a member of the order, who stopped to talk to me for… for just a moment.”",
@@ -813,7 +810,7 @@
         "DM: I am a keen judge of character.",
         "",
         "%% u0422:0-4, u0423:0-12 %%",
-        "((Brief reaction))",
+        "((Brief table reaction))",
         "",
         "%% u0424:0-154 %%",
         "Kaito Min: And you don't know what happens to… or the… what causes them to be turned into… do you know what happens, what causes them to be turned into mushroom men?",
@@ -861,7 +858,7 @@
         "Edric: Gestures at Kaito Min. “Are we trustworthy? Is… is this fellow trustworthy?”",
         "",
         "%% u0431:0-8, u0432:0-20 %%",
-        "((Clarifying the question and table reactions))",
+        "((Clarifications and brief table reactions))",
         "",
         "%% u0433:0-28 %%",
         "Kaito Min: You're asking the automaton?",
@@ -870,10 +867,10 @@
         "Edric: No, no, the automaton.",
         "",
         "%% u0434:0-33, u0435:0-34, u0436:0-65 %%",
-        "DM: ((Earlier material)) “Yes, though he is not yet certain that he believes himself to be.”",
+        "DM: It… it snaps back again and says—hang on, what does it say exactly?—“Yes, though he is not yet certain that he believes himself to be.”",
         "",
         "%% u0437:0-24, u0438:0-46, u0439:0-5 %%",
-        "((Clarifying the question and table reactions))",
+        "((Clarifications and brief table reactions))",
         "",
         "%% u0440:0-80 %%",
         "DM: And the automaton said, “Yes, but you are not sure that you believe that you are.”",
@@ -882,7 +879,7 @@
         "Kaito Min: Oh, interesting.",
         "",
         "%% u0442:0-10, u0443:0-4, u0444:0-54 %%",
-        "((Clarifying the question and table reactions))",
+        "((Clarifications and brief table reactions))",
         "",
         "%% u0445:0-97, u0446:0-125, u0447:0-127 %%",
         "Kaito Min: Yeah, any advice, cause we're gonna go in there, and so, do you have any advice for us about, so… any tips, again, based on your analysis of those that have come and gone and become mushroom men and not become mushroom men. Do you have any advice for us, so as we can minimize or maximize the likelihood that we do not become mushroom men? Any advice?",
@@ -900,7 +897,7 @@
         "Kaito Min: Kaito, like, pauses genuinely for a moment. You might be the best friend I've ever had.",
         "",
         "%% u0454:0-26 %%",
-        "((Clarifying the question and table reactions))",
+        "((Clarifications and brief table reactions))",
         "",
         "%% u0455:0-24, u0456:0-20 %%",
         "Ayveen: The rest of us act like we didn't hear that.",
@@ -909,7 +906,7 @@
         "Txarro: At this point, I think Tarek gives Kaito Min an… elbow.",
         "",
         "%% u0458:0-48, u0459:0-34 %%",
-        "((Clarifying the question and table reactions))",
+        "((Clarifications and brief table reactions))",
         "",
         "%% u0460:0-35 %%",
         "Kaito Min: I mean, except you guys, of course."
@@ -1054,7 +1051,7 @@
       },
       "lines": [
         "%% u0502:0-109, u0503:0-33 %%",
-        "Kaito Min: ((Earlier material)) And by the way, what's your name?",
+        "Kaito Min: ((Earlier question about the book)) And by the way, what's your name?",
         "",
         "%% u0504:0-25, u0505:0-25 %%",
         "DM: I'm a research assistant. I was never given a name.",
@@ -1106,7 +1103,7 @@
     },
     {
       "id": "i015",
-      "title": "Soul energy as a hypothesis for the prison",
+      "title": "Soul harvesting, sacrifice and the uncertain purpose of the prison",
       "entities": [
         {
           "id": "e003",
@@ -1120,7 +1117,7 @@
         },
         {
           "id": "e001",
-          "role": "supporting",
+          "role": "star",
           "action": "interacted"
         },
         {
@@ -1141,7 +1138,7 @@
         "Ayveen: If I… may… I think that the research assistant was pointing us to the motivation for creating a prison like this, perhaps being to… harness soul power as one puts a hydroelectric dam in a… waterway.",
         "",
         "%% u0518:0-5 %%",
-        "((Acknowledgment))",
+        "((Brief acknowledgment))",
         "",
         "%% u0519:0-32 %%",
         "DM: This is my guess at the purpose.",
@@ -1150,7 +1147,7 @@
         "Ayveen: If our perspective on that is, “Yay, soul energy,” then we probably want to keep this factory running. If our perspective on this is… poor trapped soul, then maybe the prisoner is just… a poor, trapped soul that has been forced to create soul energy for… centuries, and… sure, he's made some mushroom men trying to escape, but… he's been trapped for a long time for somebody else's gain. Maybe that's kind of reasonable?",
         "",
         "%% u0527:0-40 %%",
-        "((Request for opinions))",
+        "Ayveen: I don't know, how do we feel about this…",
         "",
         "%% u0528:0-111, u0529:0-83, u0530:0-16 %%",
         "Kaito Min: Well, what's… what's the soul energy, research assistant, whose name, hopefully, you will come up with shortly? What do you think is the use of the energy that's coming out of this whole system? The soul energy.",
@@ -1158,8 +1155,44 @@
         "%% u0531:0-31 %%",
         "DM: I do not have that information.",
         "",
-        "%% u0532:0-81, u0533:0-66, u0534:0-40, u0535:0-25, u0536:0-35, u0537:0-32, u0538:0-45, u0539:0-79, u0540:0-50, u0541:0-58, u0542:0-25, u0543:0-5, u0544:0-80, u0545:0-18, u0546:0-10, u0547:0-31, u0548:0-42, u0549:0-44, u0550:0-24, u0551:0-31, u0552:0-57, u0553:0-64 %%",
-        "((Moral objections to soul harvesting))",
+        "%% u0532:0-81, u0533:0-66, u0534:0-40, u0535:0-25, u0536:0-35 %%",
+        "Edric: Edric kind of, like, scratched his head, like, “Wait, this doesn't make any sense. You're saying that, like… you're harvesting the energy from souls? Is that what we think is happening here? Like, like a necromancer. Like, the worst thing in the world.”",
+        "",
+        "%% u0537:0-32 %%",
+        "DM: All progress requires sacrifice.",
+        "",
+        "%% u0538:0-45, u0539:0-79 %%",
+        "Edric: No, that's the dumbest thing I've ever heard. Wait, this is, like, taking people's souls? Is that what we think is happening?",
+        "",
+        "%% u0540:0-50 %%",
+        "Ayveen: I don't know if we think it's many people's souls.",
+        "",
+        "%% u0541:0-58 %%",
+        "Kaito Min: I think it's just one person's soul, or one person's soul.",
+        "",
+        "%% u0542:0-25 %%",
+        "Ayveen: Just the prisoner's soul.",
+        "",
+        "%% u0543:0-5 %%",
+        "Kaito Min: Yeah.",
+        "",
+        "%% u0544:0-80 %%",
+        "Ayveen: Is such a… such a powerful soul that it's been used for power for all this time.",
+        "",
+        "%% u0545:0-18 %%",
+        "Kaito Min: But to power what?",
+        "",
+        "%% u0546:0-10 %%",
+        "Ayveen: Who knows?",
+        "",
+        "%% u0547:0-31, u0548:0-42 %%",
+        "Edric: One or many, it's all the same. The crime isn't better for being only one.",
+        "",
+        "%% u0549:0-44, u0550:0-24, u0551:0-31, u0552:0-57 %%",
+        "Ayveen: Well, Edric… what would you think of a soul that was being… trapped, or used for power, or whatever, been… harming others as a way to try to help free itself?",
+        "",
+        "%% u0553:0-64 %%",
+        "Ayveen: It's not… two bads make it good, but it's not bad for no reason.",
         "",
         "%% u0554:0-36, u0555:0-40 %%",
         "Kaito Min: What do we know about this prisoner? Do we know anything about this prisoner?",
@@ -1317,7 +1350,7 @@
         "DM: Yep, yep. We… what are we… where, what are we doing?",
         "",
         "%% u0596:0-28, u0597:0-6, u0598:0-5 %%",
-        "((Confused aside and the Insight roll))",
+        "((Brief historical aside))",
         "",
         "%% u0599:0-52 %%",
         "Edric: Is your entire order interested in destroying souls?",
@@ -1335,10 +1368,10 @@
         "Edric: Does he seem to be telling the truth?",
         "",
         "%% u0606:0-19, u0607:0-10, u0608:0-3 %%",
-        "((Confused aside and the Insight roll))",
+        "((Insight roll))",
         "",
         "%% u0609:0-23, u0610:0-88, u0611:0-199 %%",
-        "DM: ((Earlier material)) It… it… he… You're not hearing from him a denial that this is one of the things that they do or did, sure. But certainly a denial that he knew anything about it. He's still very much convinced and entirely convicted by the idea of policing the boundaries between worlds in order to keep Taelgar safe."
+        "DM: Yeah. Yeah. It… it… he… You're not hearing from him a denial that this is one of the things that they do or did, sure. But certainly a denial that he knew anything about it. He's still very much convinced and entirely convicted by the idea of policing the boundaries between worlds in order to keep Taelgar safe."
       ],
       "review": {
         "confidence": "high",
@@ -1540,7 +1573,7 @@
         "Edric: This place is wrong.",
         "",
         "%% u0752:0-14 %%",
-        "((Kaito begins to respond))",
+        "((Unfinished response))",
         "",
         "%% u0753:0-23 %%",
         "Edric: Or die trying, I guess.",
@@ -1586,21 +1619,12 @@
         }
       ],
       "source": {
-        "startUid": "u0690",
+        "startUid": "u0705",
         "endUid": "u0710"
       },
       "lines": [
-        "%% u0690:0-43, u0691:0-49 %%",
-        "Txarro: I mean, I have lesser restoration, but I'm… I have so few second-level slots, I'm… saving it.",
-        "",
-        "%% u0692:0-80 %%",
-        "Ayveen: You think you could lesser restoration yourself so that you're not contaminated?",
-        "",
-        "%% u0693:0-28, u0694:0-95, u0695:0-31, u0696:0-38, u0697:0-52, u0698:0-10, u0699:0-41, u0700:0-88, u0701:0-13, u0702:0-34, u0703:0-24, u0704:0-28 %%",
-        "((Medicine check and die-display troubleshooting))",
-        "",
         "%% u0705:0-10, u0706:0-111, u0707:0-91, u0708:0-25 %%",
-        "DM: ((Earlier material)) you are… pretty confident that Lesser Restoration would resolve your symptoms, but you are not at all confident—I mean, Menestheus at this point is sort of drifting in and out of consciousness, and it's… He seems pretty far gone.",
+        "DM: With a 19, you are… pretty confident that Lesser Restoration would resolve your symptoms, but you are not at all confident—I mean, Menestheus at this point is sort of drifting in and out of consciousness, and it's… He seems pretty far gone.",
         "",
         "%% u0709:0-21, u0710:0-26 %%",
         "DM: So it seems unlikely that that would be enough."
@@ -1611,11 +1635,11 @@
       },
       "reviewContext": {
         "before": [
-          "DM: It's gonna take me a minute to… Yeah. That's fine.",
-          "Edric: Take your time.",
-          "Ayveen: Did I heal anybody? Does anybody need healing?",
-          "Edric: Um… doesn't our companion Menestheus look kinda bad? But I guess you would need a cure disease to help them.",
-          "Ayveen: Yeah, I don't have any…"
+          "Txarro: That's a 22? Oh no, wait, that's an 8. Why does the… the die says 18, why does it say an 8?",
+          "Ayveen: This is 4. This is what it looked like on my screen.",
+          "Txarro: Mine said, on my screen, it looked like 18. Anyway, it's an 8, so I probably don't know. That's weird.",
+          "DM: Yeah, you can re-roll if you want.",
+          "Txarro: What did that look like? That's a 15, so that's a 19."
         ],
         "after": [
           "Txarro: So… I could just go. And… I believe he'll be killed by the road guards. He has no way of hiding. If we're gonna leave, the best we can do is… send him into the room, or leave him here so he can go into the room after we exit. Or maybe… Wait, we can't leave this room without him, can we? Unless we kill him.",
@@ -1754,7 +1778,7 @@
         "DM: Unfortunately, I was designed without arms, hands, or legs, and I'm unable to fulfill that request.",
         "",
         "%% u0788:0-5 %%",
-        "Txarro: Ciao!",
+        "((Brief farewell))",
         "",
         "%% u0789:0-104 %%",
         "Edric: Can you lie the next time somebody comes here asking about these terrible things, and tell them nothing?",
@@ -1806,11 +1830,6 @@
           "id": "e019",
           "role": "star",
           "action": "interacted"
-        },
-        {
-          "id": "e014",
-          "role": "cameo",
-          "action": "mentioned"
         }
       ],
       "source": {
@@ -1819,7 +1838,7 @@
       },
       "lines": [
         "%% u0799:0-110 %%",
-        "Txarro: ((Earlier material)) who's… who has the book, that, the soul-binding book?",
+        "Txarro: ((Txarro casts Lesser Restoration on himself)) who's… who has the book, that, the soul-binding book?",
         "",
         "%% u0800:0-30 %%",
         "DM: It's on the table next to you.",
@@ -1915,7 +1934,7 @@
         "DM: I would like my name to be Aurae.",
         "",
         "%% u0834:0-21, u0835:0-24, u0836:0-15, u0837:0-28, u0838:0-40, u0839:0-7 %%",
-        "((The table jokes about the name))",
+        "((The table jokes about Aurae’s name))",
         "",
         "%% u0840:0-32 %%",
         "Kaito Min: You're coming with us. Let's go."
@@ -2082,7 +2101,7 @@
       ],
       "source": {
         "startUid": "u0922",
-        "endUid": "u0933"
+        "endUid": "u0931"
       },
       "lines": [
         "%% u0922:0-27, u0923:0-68, u0924:0-57 %%",
@@ -2107,10 +2126,7 @@
         "Edric: Yeah.",
         "",
         "%% u0931:0-15 %%",
-        "Kaito Min: Great, perfect.",
-        "",
-        "%% u0932:0-8, u0933:0-106 %%",
-        "((Table enthusiasm))"
+        "Kaito Min: Great, perfect."
       ],
       "review": {
         "confidence": "high",
@@ -2125,11 +2141,11 @@
           "Edric: Edric'll go first."
         ],
         "after": [
+          "Edric: Why not?",
+          "Kaito Min: Yes! Guys, this is great, we have a fucking… we have an AI NPC with us now. This is… this is fucking epic.",
           "Txarro: You definitely are.",
           "DM: We're coming up at 10.30, and I have a… are we going to 10.30? 11.30? How late do you guys want to go?",
-          "Txarro: Like, 11? Can we do…",
-          "DM: Yeah, yeah.",
-          "Txarro: I mean, you know the pacing better than us."
+          "Txarro: Like, 11? Can we do…"
         ]
       }
     },
@@ -2193,7 +2209,7 @@
       },
       "lines": [
         "%% u0972:0-91, u0973:0-66, u0974:0-47, u0975:0-93, u0976:0-42, u0977:0-175, u0978:0-90 %%",
-        "DM: ((Earlier material)) As you get close to the door, there's an odd… there's an odd thing to it. When you get close, you realize it's not one door exactly, but three different doors simultaneously, almost as if… you could imagine it as 3 different doors, but all occupying the same space, as if it's, like, a superposition of several different things all at once. And each of them has a small window that you can look through, but what you see on the other side of that window is radically different from one to the next.",
+        "DM: ((Crossing the library)) As you get close to the door, there's an odd… there's an odd thing to it. When you get close, you realize it's not one door exactly, but three different doors simultaneously, almost as if… you could imagine it as 3 different doors, but all occupying the same space, as if it's, like, a superposition of several different things all at once. And each of them has a small window that you can look through, but what you see on the other side of that window is radically different from one to the next.",
         "",
         "%% u0979:0-61, u0980:0-39, u0981:0-21, u0982:0-38 %%",
         "DM: In the first, you see a child who's maybe… 9 or 10 years old, sitting on sandy ground next to a well, playing with a stick, making shapes and drawing in the sand.",
@@ -2300,20 +2316,23 @@
         "%% u1038:0-49, u1039:0-72, u1040:0-59 %%",
         "DM: When you, when you head over, Txarro, you realize, as you've been looking through the door and deciding on the possibility, you realize all at once that Menestheus did not follow you.",
         "",
-        "%% u1041:0-12, u1042:0-26, u1043:0-31, u1044:0-88, u1045:0-25, u1046:0-108 %%",
-        "((Questions and Menestheus’s first grab))",
+        "%% u1041:0-12, u1042:0-26, u1043:0-31 %%",
+        "((Questions about Menestheus))",
+        "",
+        "%% u1044:0-88, u1045:0-25, u1046:0-108 %%",
+        "DM: And as the thought crosses your mind, and you turn back to the door, you're unexpectedly reminded of his presence, as his arm, now impossibly long and stretched out, and articulated fingers wrap themselves around your body.",
         "",
         "%% u1047:0-23 %%",
         "DM: And he's completed his…",
         "",
         "%% u1048:0-12 %%",
-        "((Table reaction))",
+        "((Brief table reaction))",
         "",
         "%% u1049:0-15 %%",
         "DM: Transformation.",
         "",
         "%% u1050:0-26, u1051:0-28, u1052:0-8, u1053:0-37, u1054:0-141, u1055:0-110, u1056:0-50, u1057:0-61, u1058:0-8, u1059:0-34, u1060:0-56, u1061:0-142, u1062:0-19, u1063:0-38, u1064:0-54, u1065:0-21, u1066:0-8, u1067:0-17, u1068:0-5, u1069:0-14, u1070:0-14, u1071:0-66, u1072:0-80, u1073:0-102, u1074:0-39, u1075:0-42, u1076:0-5, u1077:0-14, u1078:0-31 %%",
-        "((Txarro evades Menestheus; the party escapes carrying Aurae))",
+        "((Pursuit and carrying arrangements))",
         "",
         "%% u1079:0-35, u1080:0-64, u1081:0-61 %%",
         "DM: You swing the door shut behind you, all five of you, plus Aurae, having made it successfully through with Menestheus now turned to a mushroom man on the far side."
@@ -2351,7 +2370,7 @@
       ],
       "source": {
         "startUid": "u1085",
-        "endUid": "u1092"
+        "endUid": "u1090"
       },
       "lines": [
         "%% u1085:0-21, u1086:0-22 %%",
@@ -2367,10 +2386,7 @@
         "DM: That is, to open the door, the key has to remain in the lock engaged.",
         "",
         "%% u1090:0-8 %%",
-        "Ayveen: I tried.",
-        "",
-        "%% u1091:0-5, u1092:0-162 %%",
-        "DM: Yeah, and as the door swings shut behind you, you're plunged into a complete and utter darkness. Darker than black. Darker than anything you've ever experienced before."
+        "Ayveen: I tried."
       ],
       "review": {
         "confidence": "high",
@@ -2385,11 +2401,11 @@
           "DM: You are left in complete…"
         ],
         "after": [
+          "DM: Yeah, and as the door swings shut behind you, you're plunged into a complete and utter darkness. Darker than black. Darker than anything you've ever experienced before.",
           "Txarro: But my lizard has 30 feet of darkvision, can I see through it?",
           "DM: I think you need true sight to see through this. Or… there is nothing extant inside to be seen, although I guess you'd see the other party members. No, no, there's nothingness. It's entirely obscured.",
           "DM: And in that utter and complete darkness, I think is where I want to leave it and pick up with Eric next time.",
-          "Edric: Yeah?",
-          "Txarro: Okay."
+          "Edric: Yeah?"
         ]
       }
     }
