@@ -1,0 +1,842 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-085/cleaned/dunmari-frontier-085-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "71308c0fa2f8022d0c36d979c3cbf0fc43116b6884a0c240870127013c3de76c"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-085/cleaned/dunmari-frontier-085-entity-map.json",
+      "sha256": "adbb43a24376ac8513d6a0107b5569627b552150a381b1b62b57534c976111ee"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Entrusting the Tollen business to Adam Gower",
+      "source": {
+        "startUid": "u0010",
+        "endUid": "u0015"
+      },
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u0010:0-154, u0011:0-219, u0012:0-140, u0013:0-258, u0014:0-98, u0015:0-45 %%",
+        "DM: You're leaving 22,000 gold lighter than you entered, and without the Flaming Tempest, the various trade goods you've recovered, or any of the Skaer Steel. Some of this coin and material went to the purchase of a number of spell components for Heroes’ Feast, Greater Restoration, Raise Dead should it be necessary, and more ruby dust to restock for more Forbiddance castings, and a darkvision tattoo for Wellby, but most was left behind with Adam Gower, a trusted agent, who's worked with the Goodbarrels in the past. He will coordinate with Umli to have arrows and a shield made and teleported to you via Magical Courier. When they're ready, he'll also coordinate to hire a crew to begin breaking down the Flaming Tempest into useful timber, to sell the trade goods, to begin organizing people to hire to make plans, carpenters, architects, everybody who you'll need for the elaboration on Vindristjarna when you return."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So I guess, having the Tollen background is, I didn't have time to make a lot of new backgrounds for this session, so we'll go with what I've got. Okay. So we begin tonight, the morning of January eighth as the sun shines on Vindristjarna, crossing high above the western hills of Cymea, approaching the presumed location of the cavern complex, known as the Edge of Echoes. Even with the mid-morning sun, the day is cold, at least this high up in the sky, with a light wind blowing from the western gulf.",
+          "DM: Faldrak has perched at the front of the ship, eagerly looking towards the horizon. He's wearing a thick silver gray woollen cloak over a battered, clearly ancient breastplate of sturdy, dwarven make, but clearly not worn or used in a while. He's leaning on his silver steel cane and on his shoulder the stone bird sits flapping, its wings uselessly, unable to fly. His long grey beard is braided with glittering beads that sparkle in the winter sun, and he seems quite thrilled to be on the move.",
+          "DM: So over the past few days—we'll come back to details as you all want to highlight them in your little stories—you've finished your business in Tollen, at least, for now. And said your goodbyes with hope to return soon."
+        ],
+        "after": [
+          "DM: So in addition to this, this business, of course, you've all had your own goodbyes to say and things to do in these roughly 2 and a half days in Tollen. So anybody who has character moments they'd like to share? Now is the time. He's—",
+          "Unknown: Okay.",
+          "DM: Anybody?",
+          "Seeker: So I've I've just a handful of things. The interval of quiet and rest was an occasion for Seeker to ponder the nature of time and wonder about its relation to the planes, recalling the ancient lore known by all dwarven schoolchildren, of course, that time began at the moment of separation of the planes. And thinking about connections between the planes and those who would wish to cross boundaries between them. What might happen if the planes were brought back together again? Is that a way to stop time?",
+          "Seeker: At any rate, thinking about time, also got Seeker thinking about his family. And so he's written a letter updating his parents on his travels, occasionally amazed by his own densely packed adventures, and also asking for any—were there details that you recall about brother’s disappearance? We are hopefully doing investigation."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Kenzo’s time with Iskra",
+      "source": {
+        "startUid": "u0064",
+        "endUid": "u0071"
+      },
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u0064:0-324, u0065:0-181, u0066:0-81, u0067:0-472, u0068:0-51, u0069:0-212, u0070:0-28, u0071:0-69 %%",
+        "Kenzo: Kenzo's conspicuously been spending a lot of time with Iskra, who is maybe his girlfriend now, kinda sorta. Kenzo ken—well, Kenzo Kenzo has an interesting relationship when it comes to women, because, you know, he grew up kind of a rascal, you know. So he was a a you know, a rascally little kid running around Chardon, and he wasn't like a womanizer when he was younger, but he, like kind of, you know, had his has way with the ladies. But then, you know, once he started getting into his, his monk life was really like very scared for his life, like he really kind of was prioritizing initially, just his own survival and then really was on a spiritual path, on on a spiritual journey. And certainly, you know, since we've been adventuring for for a number of years now, you know, Kenzo's been basically been celibate and has been really focused on honing his physical crafts, his martial arts, and this really intense spiritual journey, like how many fucking different gods is he now working with and channeling and feeling through and all of that? And so it's been a real revelation for him to connect with a person who also is on this journey and has her own way, that she's navigating her own spiritual path. And it's been, you know, really nice and different. And so Kenzo's been kind of exploring that, and has been learning about the different again, kind of plant life, communing with nature and with with Iskra."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: So I think Wellby spends a little bit of the time just tending to business, you know, going back and to the map makers, and and, you know, leafing through everything to see if there's more to find, or maps that he has to share back. But then I also think that he's he's taken a little bit more turn back towards halfling roots again, like it's been just about a year plus or minus since he left, and like that whole year has just been nonstop, you know, adventuring and fighting and getting all of these skills and sort of like martial skills and all that stuff. I think he's turning back towards like with curiosity towards the halfling community and communalism. Think that he spends most of that time with elders just listening to stories, and trying to and asking questions and trying to make more sense now out of the lessons that his great-grandfather was trying to teach as a child, or or trying, maybe not trying, just sharing, but this sort of mystical bent. I think.",
+          "Wellby: This is less narrative, but I think that there's like a really deep halfling mysticism like this idea of time not necessarily being a real thing. You know this idea of stories that repeat themselves over and over. You know the this conflation of the universal and the particular that you know, certain things that appear to be unique are actually all you know, a single thing. So it's—and he spends a lot of time listening to elders trying to impart that lesson to like a very concrete, this worldly Wellby, and—",
+          "Unknown: The—",
+          "Wellby: Where it didn't make sense before, necessarily, he's at least trying to wrap his mind around what all of that really means.",
+          "Kenzo: So in the past few days Kenzo has been basically kind of busy with 2 2 principal tasks. One—actually 3. One, Kenzo is continuing to spend loving care and attention cultivating the now continuing-to-blossom garden that's in the center of the top floor of the of the boat. So he's been collecting different little species and things to try to to start cultivating there. Some successes, some failures. He's been doing a little bit of poking in investigation, engaging with other folks in Tollen that actually are able to are experts in the local fauna. And he's learning about that. So, Tim. He's been doing some Commune with Nature and doing some just kind of nature walks. He hasn't been doing that alone, however. He has."
+        ],
+        "after": [
+          "Kenzo: The other thing that Kenzo has begun to do is Kenzo also on the deck—the first deck of the boat—has been starting to do larger inscriptions and drawings of the journey of the party, like on the on the boat or on the the kind of what do you call that? Like the wooden structure? That's sort of the the railing? Yeah, exactly like the railing on that area. He's been working on basically kind of doing a pictographic journey, in very much in the style of honoring Bhishma and the storytelling there of not only our journey, but also the journey of the folks that have been—that we've been meeting along the way. So he's been. He's been engaging in that in that project. And and yeah, and noticeably happier.",
+          "Kenzo: And also he's been eating really well. Including this. I can basically taste it mentally.",
+          "Seeker: I for years I was a pescatarian, but for the past few I've now become back to omnivore. Can we all actually eat steak and cheese one day? Can we? Is that possible? The thing that I could now not eat actually is the bun. But hmm, yeah, steak and cheese on a gluten-free bun. Yeah. Super good. No, they're usually not, unfortunately.",
+          "DM: Not worth doing anything.",
+          "Delwath: Nothing has come to me."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Storytelling in honor of Bhishma",
+      "source": {
+        "startUid": "u0072",
+        "endUid": "u0076"
+      },
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0072:0-42, u0073:0-185, u0074:0-81, u0075:0-358, u0076:0-37 %%",
+        "Kenzo: ((Other details)) He's been working on basically kind of doing a pictographic journey, in very much in the style of honoring Bhishma and the storytelling there of not only our journey, but also the journey of the folks that have been—that we've been meeting along the way. ((Other details))"
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: This is less narrative, but I think that there's like a really deep halfling mysticism like this idea of time not necessarily being a real thing. You know this idea of stories that repeat themselves over and over. You know the this conflation of the universal and the particular that you know, certain things that appear to be unique are actually all you know, a single thing. So it's—and he spends a lot of time listening to elders trying to impart that lesson to like a very concrete, this worldly Wellby, and—",
+          "Unknown: The—",
+          "Wellby: Where it didn't make sense before, necessarily, he's at least trying to wrap his mind around what all of that really means.",
+          "Kenzo: So in the past few days Kenzo has been basically kind of busy with 2 2 principal tasks. One—actually 3. One, Kenzo is continuing to spend loving care and attention cultivating the now continuing-to-blossom garden that's in the center of the top floor of the of the boat. So he's been collecting different little species and things to try to to start cultivating there. Some successes, some failures. He's been doing a little bit of poking in investigation, engaging with other folks in Tollen that actually are able to are experts in the local fauna. And he's learning about that. So, Tim. He's been doing some Commune with Nature and doing some just kind of nature walks. He hasn't been doing that alone, however. He has.",
+          "Kenzo: Kenzo's conspicuously been spending a lot of time with Iskra, who is maybe his girlfriend now, kinda sorta. Kenzo ken—well, Kenzo Kenzo has an interesting relationship when it comes to women, because, you know, he grew up kind of a rascal, you know. So he was a a you know, a rascally little kid running around Chardon, and he wasn't like a womanizer when he was younger, but he, like kind of, you know, had his has way with the ladies. But then, you know, once he started getting into his, his monk life was really like very scared for his life, like he really kind of was prioritizing initially, just his own survival and then really was on a spiritual path, on on a spiritual journey. And certainly, you know, since we've been adventuring for for a number of years now, you know, Kenzo's been basically been celibate and has been really focused on honing his physical crafts, his martial arts, and this really intense spiritual journey, like how many fucking different gods is he now working with and channeling and feeling through and all of that? And so it's been a real revelation for him to connect with a person who also is on this journey and has her own way, that she's navigating her own spiritual path. And it's been, you know, really nice and different. And so Kenzo's been kind of exploring that, and has been learning about the different again, kind of plant life, communing with nature and with with Iskra."
+        ],
+        "after": [
+          "Kenzo: And also he's been eating really well. Including this. I can basically taste it mentally.",
+          "Seeker: I for years I was a pescatarian, but for the past few I've now become back to omnivore. Can we all actually eat steak and cheese one day? Can we? Is that possible? The thing that I could now not eat actually is the bun. But hmm, yeah, steak and cheese on a gluten-free bun. Yeah. Super good. No, they're usually not, unfortunately.",
+          "DM: Not worth doing anything.",
+          "Delwath: Nothing has come to me.",
+          "DM: So as you think back to these—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Faldrak explains the forge expedition",
+      "source": {
+        "startUid": "u0145",
+        "endUid": "u0203"
+      },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0145:0-170, u0146:0-82 %%",
+        "DM: So as you're as you're going up the river, and you're you're cruising along at your 10-ish mile an hour pace maybe an hour from this 20 mile point where you expect to see this like river falling into the sinkhole, Faldrak turns and walks back excitedly.",
+        "",
+        "%% u0147:0-32, u0148:0-32, u0149:0-184 %%",
+        "DM: It's the the river's just there. We must be so close. What do you normally do now like an hour before the adventure starts? You must like prepare, or something, I guess, right? Or maybe you just jump, leap headfirst into danger like proper adventurers.",
+        "",
+        "%% u0150:0-48 %%",
+        "Kenzo: Make it sound foolish when you say it like that—",
+        "",
+        "%% u0151:0-59, u0152:0-51, u0153:0-85 %%",
+        "DM: Oh, no, that's the best way to do things. I'm very excited. Been a decade since I'd been on a proper adventure. And and you are all are very strong, right? Don't have to worry about getting killed.",
+        "",
+        "%% u0154:0-39 %%",
+        "Kenzo: Oh, you don't have to worry about that—",
+        "",
+        "%% u0155:0-46 %%",
+        "Seeker: What? What do we expect to find here, Faldrak?",
+        "",
+        "%% u0156:0-60, u0157:0-28 %%",
+        "DM: I don't know. That's what's exciting about weird elementals. An ancient Drankorian forge.",
+        "",
+        "%% u0158:0-4, u0159:0-47 %%",
+        "Seeker: Hmm! And just wha what are you hoping to gain again?",
+        "",
+        "%% u0160:0-79, u0161:0-95, u0162:0-13, u0163:0-24, u0164:0-37, u0165:0-71, u0166:0-44, u0167:0-44, u0168:0-9 %%",
+        "((Clarification and exchanged looks))",
+        "",
+        "%% u0169:0-32, u0170:0-63 %%",
+        "Wellby: Wellby would say telepathically: \"This guy turns out to be an Agata again, I am gonna be so angry.\"",
+        "",
+        "%% u0171:0-114 %%",
+        "Seeker: He's almost definitely not Agata. He definitely has some kind of fey connection that I'm sure is completely benign.",
+        "",
+        "%% u0172:0-6, u0173:0-15, u0174:0-65 %%",
+        "Kenzo: Seeker, telepathically: We're good, right? Like we're in a good situation, right? Seeker?",
+        "",
+        "%% u0175:0-17, u0176:0-20 %%",
+        "Seeker: I don't know what the problem is here.",
+        "",
+        "%% u0177:0-54 %%",
+        "Kenzo: Yeah, Seeker's not the right one to ask that question.",
+        "",
+        "%% u0178:0-37 %%",
+        "Seeker: Oh, oh, it's the bird, right? The bird.",
+        "",
+        "%% u0179:0-46, u0180:0-40, u0181:0-37 %%",
+        "DM: And and your glove. And didn't you want like a fire blaster for your ship or something? Then you had some cool special metal.",
+        "",
+        "%% u0182:0-115, u0183:0-28, u0184:0-35 %%",
+        "Seeker: And and why is it that? Yeah, exactly. Why is it that this place is the only place? It's because of the elementals. Elemental planes being close to this? Well, I mean, I could take—",
+        "",
+        "%% u0185:0-148, u0186:0-5 %%",
+        "DM: 6 months and laboriously work magic into some piece of metal over the course of years of my life, where I could just dunk it in some elemental forge—done.",
+        "",
+        "%% u0187:0-29 %%",
+        "Seeker: That sounds worthwhile to me.",
+        "",
+        "%% u0188:0-41 %%",
+        "Kenzo: So so we're here to upgrade the offensive—",
+        "",
+        "%% u0189:0-51 %%",
+        "DM: Capabilities. Can learn to fly. Yeah, you don't you—",
+        "",
+        "%% u0190:0-18 %%",
+        "Delwath: Remember his bird?",
+        "",
+        "%% u0191:0-40 %%",
+        "Kenzo: Sure, the bird? But if you keep me alive.",
+        "",
+        "%% u0192:0-111 %%",
+        "DM: and my bird learns to fly, then yes, I'm upgrading the offensive capabilities of your ship and also your glove.",
+        "",
+        "%% u0193:0-15 %%",
+        "Kenzo: Yeah, yeah. And—",
+        "",
+        "%% u0194:0-92 %%",
+        "DM: And I think that's it. Unless you have some hidden sources of elemental metal I can enchant.",
+        "",
+        "%% u0195:0-39, u0196:0-42 %%",
+        "Seeker: What was the metal called? We do have a—yes, I'd like to add that to my glove now.",
+        "",
+        "%% u0197:0-74, u0198:0-50 %%",
+        "DM: Oh, no, we don't need to add anything to your glove. The inkaye is for the the the ship cannon. Your glove is magical enough.",
+        "",
+        "%% u0199:0-16 %%",
+        "Seeker: Good, very good.",
+        "",
+        "%% u0200:0-60, u0201:0-37, u0202:0-2, u0203:0-102 %%",
+        "DM: And or or maybe you don't want a cannon, and maybe you wanna catapult or a hose that shoots water. Or what could you make with air? It already flies. That doesn't seem that useful. Oh, make it fly faster."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Is that a thing?",
+          "DM: There could be.",
+          "Kenzo: Feels like a ship?",
+          "DM: So so as you approach, as you see the the river, and and I assume you're not, I mean, stop me if you wanna do something different. But unless you want to go, look for people to talk to for some reason, I assume you're just following Faldrak’s directions.",
+          "Seeker: Yes."
+        ],
+        "after": [
+          "Kenzo: Could we? Clouds? Speed is yeah. But but being able to create storms around us so we can have like a a little. Yes, yes, yes, we want that. Yes, definitely. Yeah.",
+          "Seeker: So faster. A launcher of some kind, or be a cloud.",
+          "Delwath: I think I think—well, I I think we should— I think we should survive first.",
+          "Kenzo: Well, I think we prioritize shooting fireballs because we wanna speed. No, I think there's still.",
+          "Delwath: Yeah, or a cloud right? Being a cloud."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "The Guild’s letter about Frankar",
+      "source": {
+        "startUid": "u0264",
+        "endUid": "u0296"
+      },
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0264:0-37, u0265:0-116, u0266:0-12, u0267:0-25, u0268:0-44 %%",
+        "DM: Flies up right next to Seeker, and it unrolls itself, unfolds itself into a piece of paper. Air mail. It is. It is a letter. It's the Philosophers’ Guild. And it says—there are words. It says, \"Dear Seeker of Highkeep, brother to Frankar.\"",
+        "",
+        "%% u0269:0-253, u0270:0-50 %%",
+        "DM: Your gift, though generously given, is a common trinket device made in great numbers during the age of Drankor to facilitate logistical support for the armies of the Empire. The trick of their easy construction has been lost, but many 100 still survive. And there's little new to learn from this trinket.",
+        "",
+        "%% u0271:0-4 %%",
+        "Seeker: Hmm!",
+        "",
+        "%% u0272:0-123, u0273:0-30 %%",
+        "DM: Nonetheless, your eagerness to understand the fate of your brother is noble, and some answers are not difficult to come by. So these now I share with you.",
+        "",
+        "%% u0274:0-187, u0275:0-90, u0276:0-100, u0277:0-150 %%",
+        "DM: Your brother, Frankar, was indeed seen alive on the elemental plane of fire some years ago, when exactly, I cannot say, but at least 5 years ago, by the standard reckoning of your people. It is said, a curious dwarf, bearing remarkable resemblance to your description of Frankar, was sighted within the illustrious city of Bronzehall, in the company of an efreet known as Zephyra. Whether he was willingly traveling with this creature or a captive was not clear, and the nature of their association—association is, and was, elusive.",
+        "",
+        "%% u0278:0-168, u0279:0-139, u0280:0-47, u0281:0-75 %%",
+        "DM: While the efreeti are often cruel, they do greatly value those who possess rare talent, so perhaps one can hope, he was travelling as a trusted advisor and not a slave. They were heading, according to those who saw them, towards the Cinder Wastes. Some claim they sought knowledge of the Oracle's Pyre, though what such a thing was or is, is not known to me beyond the obvious link from the name with both fire and divination magic.",
+        "",
+        "%% u0282:0-69, u0283:0-145, u0284:0-84 %%",
+        "DM: More than this I cannot say. Perhaps those who saw him in particular, the Azer may have more to report, should you wish to travel to the elemental plane of fire in the city of Bronzehall, and question them yourself. Signed, a Flame Warden, on behalf of the Ancient and Honorable Guild of Philosophers.",
+        "",
+        "%% u0285:0-17 %%",
+        "Seeker: The Flame Warden.",
+        "",
+        "%% u0286:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u0287:0-20, u0288:0-12, u0289:0-43, u0290:0-31, u0291:0-35, u0292:0-42, u0293:0-9, u0294:0-53, u0295:0-29, u0296:0-5 %%",
+        "Seeker: What does that mean? Hmm. Must be one of the Philosophers’ Guild members that does something to do with flame. Intriguing. I think we will have to investigate this further at a future date. ((Other details))"
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: I'll also stand nearby Seeker, in case I need to catch it.",
+          "DM: As it gets within maybe a hundred foot distance, Wellby, watching still in the spyglass can see like this. It looks like it's made out of folded paper.",
+          "Wellby: Whoa! That is so cool.",
+          "Seeker: I've been messaged.",
+          "Delwath: I've been here."
+        ],
+        "after": [
+          "DM: Climbs up, thumping on the stairs as he goes.",
+          "Seeker: Is this.",
+          "Seeker: It's a message. It turns out it's a message. I have a younger brother who who disappeared years ago, and I inquired of our friends the Philosophers’ Guild in exchange for gift, of course, what they know of him, and as I suspected, he has been seen in the plane of fire, alive. Good news. Just to confirm that he's there. But what his association with that, efreet, is, and what the oracle is. What was it? The Oracle? Pyre, pyre. Some kind of scrying divination place? Well. I hope we get a chance to go there somehow.",
+          "DM: No, why not? I would burn to a crisp. No, it's hot there, right.",
+          "Seeker: But what's he doing there? How is he surviving?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Faldrak reflects after the lake fight",
+      "source": {
+        "startUid": "u1509",
+        "endUid": "u1522"
+      },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u1509:0-47, u1510:0-54 %%",
+        "Kenzo: Kenzo gives gives Faldrak a tap with his staff. How are you feeling about adventuring so far, Faldrak?",
+        "",
+        "%% u1511:0-21, u1512:0-41 %%",
+        "DM: That was pretty good. Should have brought some healing potions.",
+        "",
+        "%% u1513:0-25 %%",
+        "Kenzo: Got some healing potions.",
+        "",
+        "%% u1514:0-7, u1515:0-38, u1516:0-44 %%",
+        "DM: You do. Wonderful! I knew you'd come prepared. Can do a few things here and there, but hmm!",
+        "",
+        "%% u1517:0-29 %%",
+        "Kenzo: Just not so much of a healer.",
+        "",
+        "%% u1518:0-81, u1519:0-41, u1520:0-43 %%",
+        "DM: Oh, the the Fey Step! Yeah. I picked that up when I was traveling in the Feywild. Hard to do, though I can only do it once. Gotta sleep again before I can do it again.",
+        "",
+        "%% u1521:0-12 %%",
+        "Seeker: A nice move!",
+        "",
+        "%% u1522:0-18 %%",
+        "Kenzo: Nice move, indeed!"
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Wasn't there? We were like, we're like in some cavern, and there was like leaking stuff, and there was like a water.",
+          "DM: Those are oozes. Similar, but similar kind of but different.",
+          "DM: Anyway, you find yourself now standing on the shore of this cave. The the water itself is like ere—now that you've gotten the boat off, it's eerily calm, although the the river still, you know, is flowing out. There's like barely a wave sort of lapping on the shore here. With things quiet now, like looking around, you know it's completely dark. No, no light whatsoever. There is a exit like a like not a not like a natural cavern, but like a carved passageway that leads out from this chamber like right, like, right about sort of here. Type of thing. That's like a big carved arch cut out of the stone.",
+          "Seeker: What's the carving style Dwarven?",
+          "DM: I I mean, it's like it's like a. It's like, you know, rough hewn rock. I I don't know that there's a—well, I mean, go ahead and make I guess a history check. Yeah, it's it's sort of hard. I mean, it's not. There's not a lot of detail here, right? It's like, I mean, you're sort of recovering briefly on the shore. You know, looking, seeing like there's a pretty. The lake itself is pretty big, and this sort of stone sloping shore that goes up to the wall is pretty long, and you're just kind of looking at this hole, this passageway sort of carved into the into the wall of the cavern."
+        ],
+        "after": [
+          "DM: So what do we do now?",
+          "Seeker: Well, I don't know.",
+          "Wellby: We got a we got a real quick go grab the rod.",
+          "Seeker: Oh. How are we gonna get that—floating up there, isn't it? Looks up. Oh, yeah, hmm! That's pretty far away, isn't it?",
+          "Wellby: I'll fly over there. So yeah. Wings sprout from the back, right, flap up and grab the rod and fly back down again."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Checking on the stone bird",
+      "source": {
+        "startUid": "u1541",
+        "endUid": "u1548"
+      },
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u1541:0-40, u1542:0-22 %%",
+        "Seeker: Yeah, that's why we adventure, isn't it? How's your bird doing?",
+        "",
+        "%% u1543:0-14 %%",
+        "((Brief interruption))",
+        "",
+        "%% u1544:0-57, u1545:0-15, u1546:0-16 %%",
+        "DM: Reaches into his like—takes it out of his like backpack. A a little wet. Still can't fly.",
+        "",
+        "%% u1547:0-10, u1548:0-5 %%",
+        "Seeker: Yeah. Hmm. Well."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Okay.",
+          "Seeker: Interesting.",
+          "DM: Learn something new every day. Maybe there's stone elementals up ahead.",
+          "Seeker: Or maybe this place isn't what we thought it was at all.",
+          "DM: That could be hard to know."
+        ],
+        "after": [
+          "Wellby: So see what's over there.",
+          "Seeker: I think we should.",
+          "DM: Lead the way.",
+          "Wellby: I guess. Wellby will lead the way. Watching out for elementals and death traps and waterfalls.",
+          "DM: So as you begin to approach this entrance arch, as you get closer you can see in this leads into—there's like a short hallway passageway, and then there's the another larger room. A sort of wide hall that you can't see all of until you like pass through the arch and and look around. All kind of carved out of the rock, you know. Rough, rough-hewn, this isn't—this doesn't seem to be. It's not like really elaborate underground, dwarven architecture as you get closer. And as you get closer you can hear this almost kind of weird, discordant, like very deep, low hum from the next room."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Faldrak breaks open the stone-covered door",
+      "source": {
+        "startUid": "u1998",
+        "endUid": "u2060"
+      },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u1998:0-27 %%",
+        "Kenzo: Faldrak. What do you think?",
+        "",
+        "%% u1999:0-7 %%",
+        "Seeker: Please.",
+        "",
+        "%% u2000:0-31 %%",
+        "DM: Should we do something foolish?",
+        "",
+        "%% u2001:0-53 %%",
+        "Kenzo: What's your suggestion? We love doing foolish things.",
+        "",
+        "%% u2002:0-4 %%",
+        "Seeker: Dab?",
+        "",
+        "%% u2003:0-103, u2004:0-46 %%",
+        "DM: He takes his, takes his—his little, his silver cane, and he reaches, and he fiddles with a few things. Thunderous boom that can break stone and flesh.",
+        "",
+        "%% u2005:0-69 %%",
+        "Seeker: If it pops open the door worth a try. Let's stand back, though. Maybe.",
+        "",
+        "%% u2006:0-15, u2007:0-4, u2008:0-53 %%",
+        "DM: He looks around stas—\"I'm gonna climb on your back,\" and he points to Kenzo.",
+        "",
+        "%% u2009:0-18 %%",
+        "Seeker: So as not to sink.",
+        "",
+        "%% u2010:0-63, u2011:0-43, u2012:0-34, u2013:0-63, u2014:0-35, u2015:0-76, u2015:76-130, u2016:0-16, u2016:16-38, u2017:0-85, u2018:0-38 %%",
+        "((Positioning, carrying and saving-throw mechanics))",
+        "",
+        "%% u2019:0-34 %%",
+        "DM: I mean, where do you want to stand?",
+        "",
+        "%% u2020:0-53, u2021:0-9, u2022:0-51 %%",
+        "Kenzo: Like in the cavern? Is there like a spot that's like, you know, like, if if stuff explodes that there's some cover.",
+        "",
+        "%% u2023:0-46 %%",
+        "DM: Yeah. But like behind one of the pillars, this.",
+        "",
+        "%% u2024:0-146 %%",
+        "Kenzo: Alright, let's do that. You'd be behind one of the pillars so we can duck out of the way if like, you know, rocks start flying at us. Type of thing.",
+        "",
+        "%% u2025:0-6 %%",
+        "DM: Ready?",
+        "",
+        "%% u2026:0-11 %%",
+        "Seeker: Not really.",
+        "",
+        "%% u2027:0-139, u2028:0-28, u2029:0-8 %%",
+        "((Positioning, carrying and saving-throw mechanics))",
+        "",
+        "%% u2030:0-96, u2031:0-24 %%",
+        "DM: He he points his—he points his like he's holding on to the back of Kenzo. He lifts up his cane. He pointed at the door.",
+        "",
+        "%% u2031:24-60 %%",
+        "Wellby: And everybody, how's it been going?",
+        "",
+        "%% u2031:60-66, u2032:0-66, u2033:0-77, u2034:0-68 %%",
+        "DM: And he just at this moment, when Wellby arrives, there's this like little a little sort of black sort of wad of magical energy that flies out. And then there's this huge, ringing, thunderous explosion as he cast shatter.",
+        "",
+        "%% u2035:0-3 %%",
+        "Unknown: And—",
+        "",
+        "%% u2036:0-3, u2037:0-9, u2038:0-44, u2039:0-27 %%",
+        "DM: The the stone that's been weakened by the acid and the ice flies into about 16 shards.",
+        "",
+        "%% u2040:0-34, u2041:0-56, u2042:0-13, u2043:0-20, u2044:0-30 %%",
+        "DM: And suddenly, about half the room—half of the floor basically turns to this oozing mud. ((Other details))",
+        "",
+        "%% u2045:0-12, u2046:0-20, u2047:0-16, u2048:0-10, u2049:0-53, u2050:0-3, u2051:0-16 %%",
+        "((Positioning, carrying and saving-throw mechanics))",
+        "",
+        "%% u2052:0-97, u2053:0-60, u2054:0-70, u2055:0-2, u2056:0-138, u2057:0-43, u2058:0-8, u2059:0-22, u2060:0-17 %%",
+        "DM: And so like as the as the floor is collapsing around you you like do a barrel roll like grabbing Faldrak as you roll landing on solid ground next to this mud pit that just opened up where you were standing behind the the column. As the like door is now like shaking like this, and there's like a pile of rubble that's fallen into the mud, and the door's just been pushed wide open. The the mud now, though, is like crawling almost a walking speed towards the door."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Great.",
+          "DM: And now you can see that some of these other patches are beginning to crawl across the floor as well as the as the damage is becoming more sustained from the acid. Now you could—there's like now, like a V shape that's been carved out of the top of the out of the top of this sort of limestone formation, and you can see now you've also started to like damage the door behind that almost living—this, like sort of oozing limestone, is beginning to crawl now. Like you can see little like globs of it crawling out of some of these patches of mud heading towards the door.",
+          "Seeker: Does it seem to be getting mad?",
+          "DM: It's moving faster? I don't know if that's the same thing.",
+          "Seeker: We don't want it to get."
+        ],
+        "after": [
+          "Kenzo: Do we run into the door?",
+          "Delwath: Is the the door open?",
+          "DM: Yeah, it's open.",
+          "Seeker: But we need to cross the mud somehow without sinking into it.",
+          "Wellby: How much distance over across the room?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Wellby bargains with the whispering wind",
+      "source": {
+        "startUid": "u2107",
+        "endUid": "u2137"
+      },
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e020",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u2107:0-134 %%",
+        "Wellby: I'm not gonna barrel. I'm gonna I'm gonna proceed cautiously and attentively on the alert for attacks and traps and things like that—",
+        "",
+        "%% u2107:134-148, u2108:0-3, u2109:0-93, u2110:0-4, u2111:0-50, u2112:0-200, u2113:0-37, u2114:0-90, u2115:0-18, u2116:0-66, u2117:0-107, u2118:0-170, u2119:0-82, u2120:0-66, u2121:0-17, u2122:0-17 %%",
+        "DM: So as you walk you you begin to hear like a whispering wind, growing louder and louder, seeming to surround you. It's—you have no idea where it's coming from. It's not—it's not like there's an opening anywhere. And it's not like the wind is blowing down the corridor or something. It's just—it's just seem feels like there's this swirling energy around you, and it's it's not quiet, it's chattering, it's hissing. At times it's whispering. It's almost as if you can hear, like little fragments of all of the sort of voices on the winds, the news the winds carry across the world, the fragments of tales of freedom and wildness and unbridled adventure that blow across the world on the winds. And they're sort of clustering around you. Wellby as you walk forward there, you can almost hear them whispering greedily like can almost imagine, there's voices: \"Feed us. We ache. Give us a new tale. Give us a new voyage. Give us a new taste of freedom.\" Getting louder and more insistent whether you go forward or back. They seem to have latched onto you.",
+        "",
+        "%% u2123:0-14, u2124:0-72 %%",
+        "Wellby: I'm gonna say—who knows if this works—I'm gonna say, \"What will you give me in return?\"",
+        "",
+        "%% u2125:0-6 %%",
+        "DM: \"Quiet.\"",
+        "",
+        "%% u2126:0-8, u2127:0-31 %%",
+        "Wellby: Alright. I'll tell him a story. Why not?",
+        "",
+        "%% u2128:0-10 %%",
+        "DM: What story?",
+        "",
+        "%% u2129:0-54 %%",
+        "Kenzo: A really central, important one to your life that you.",
+        "",
+        "%% u2130:0-85, u2131:0-3, u2132:0-48 %%",
+        "Wellby: I'll tell them the story that I heard of the Kenku who flew from the north end of the the the moving islands to the south end. All the way.",
+        "",
+        "%% u2133:0-14 %%",
+        "DM: They go quiet.",
+        "",
+        "%% u2134:0-11 %%",
+        "Unknown: That right?",
+        "",
+        "%% u2135:0-29 %%",
+        "Wellby: Well, keep on, then, I think.",
+        "",
+        "%% u2136:0-5, u2137:0-11 %%",
+        "DM: Okay. Keep going."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Scrolling.",
+          "Wellby: Alright. I can scout that out.",
+          "DM: You go ahead.",
+          "Wellby: Yeah.",
+          "Kenzo: You're just gonna barrel forward?"
+        ],
+        "after": [
+          "DM: You continue walking down this corridor. And you can see in the distance, like edge of your darkvision, you've gone. You've gone maybe 50 feet. About another 50 feet ahead you can see what looks like a iron door faintly glowing with magical runes carved into it. But between you and the iron door there are mist, and air and swirling fogs that are blowing and almost dancing on the air, obscuring your vision. You! You watch it for a moment, make a charisma saving throw.",
+          "Wellby: Yeah. Charisma. Huh? Oh, oh!",
+          "DM: And you you see, its beauty, and you feel it pulling you in trying to draw you into this dance of the mists, and you resist you—you shake your head, you tell yourself it's just air and water and clouds blowing. It's not anything special. And as you step forward, the mists and fog sort of shrink away from you. And you can see this door.",
+          "DM: An iron door with number of sort of pulsating runes. Some kind of magical protection, magical barriers, magical... They don't feel like traps to you. But what do you really know?",
+          "Seeker: Can we read the runes?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Tales of freedom for the wind",
+      "source": {
+        "startUid": "u2160",
+        "endUid": "u2219"
+      },
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e021",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u2160:0-63, u2161:0-50, u2162:0-36 %%",
+        "Wellby: I'll relay back to them what to expect going down the hall, and how to negotiate with the greedy wind spirits, and to watch out for the dancing lights.",
+        "",
+        "%% u2163:0-21, u2164:0-95, u2165:0-17, u2166:0-10, u2167:0-50, u2168:0-11, u2169:0-36, u2170:0-18, u2171:0-147 %%",
+        "DM: So everybody proceeds. So as you all begin to walk these again as as Wellby has, warned you, this wind begins to blow. Asking for a tale, a story, a—becoming more insistent in demanding, asking, for you know, a a tale of a voyage, a tale of a of a adventure. And and again you hear these like fragments of different languages, fragments of different tales all swirling around you, so what tale do each of you tell?",
+        "",
+        "%% u2172:0-18, u2173:0-51 %%",
+        "Kenzo: I tell I tell it a a tale that Kaeso told me of growing up in Chardon.",
+        "",
+        "%% u2174:0-16 %%",
+        "DM: What is it about?",
+        "",
+        "%% u2175:0-17, u2176:0-3, u2177:0-19, u2178:0-32 %%",
+        "Kenzo: The Chalyte mines and yeah. Tell it about how he escaped the Chalyte mines.",
+        "",
+        "%% u2179:0-26, u2180:0-26, u2181:0-37 %%",
+        "((Saving-throw mechanics))",
+        "",
+        "%% u2182:0-5, u2183:0-25, u2184:0-66, u2185:0-54, u2186:0-23 %%",
+        "DM: Okay, they sort of hiss at you. You get you get the feeling this is. There's a bit of anger about. This is a tale of deep in the earth. This is a tale of being trapped, and they.",
+        "",
+        "%% u2187:0-119 %%",
+        "Kenzo: Oh, oh, I see, I see! I see—I like it, but they—well, it's about escape. It's about—it's about freedom and liberation.",
+        "",
+        "%% u2188:0-4, u2189:0-66, u2190:0-93 %%",
+        "DM: They they they finally let you pass as you come to the end of the story like sort of. But there's still this kind of lingering trail of kind of hissing, hissing like—",
+        "",
+        "%% u2191:0-1 %%",
+        "Unknown: I.",
+        "",
+        "%% u2192:0-32, u2193:0-97, u2194:0-66 %%",
+        "DM: Just a little bit of a of a of a—it's not loud enough to be distracting or to really bother you. But it's like this slight kind of—just this lingering anger that fades as you walk down the corridor.",
+        "",
+        "%% u2195:0-46 %%",
+        "DM: Seeker approaches. What tale do you tell them?",
+        "",
+        "%% u2196:0-42, u2197:0-14, u2198:0-60 %%",
+        "Seeker: Story of great-great-grandfather's journey out over land, across the great forests to the neighboring dwarven kingdom.",
+        "",
+        "%% u2199:0-22, u2200:0-100, u2201:0-104, u2202:0-33, u2203:0-80, u2204:0-109, u2205:0-179 %%",
+        "DM: They they accept that, let you pass. As Faldrak approaches, You notice that he is not—his feet have not touched the ground. And he tells them the story of the first time he flew when he launched himself over some treacherous mud and flew past the magic door, and he does a little somersault in the air. And he like clicks his legs, and he says, \"And I—and flew down a corridor, and met this fascinating wind that I could tell about the magical experience of my knee not hurting as I danced down this stone passageway.\" And he clicks his heels together and does a little like twirl in the air as he continues to fly down the passageway.",
+        "",
+        "%% u2206:0-18 %%",
+        "Kenzo: Faldrak's the man.",
+        "",
+        "%% u2207:0-23, u2208:0-21, u2209:0-7, u2210:0-11, u2211:0-4, u2212:0-28, u2213:0-3, u2214:0-27, u2215:0-31, u2216:0-65, u2217:0-15, u2218:0-118 %%",
+        "Delwath: I'll tell it a story of Yezali. A story about hunting and seeking open free spaces on the earth to to, you know, make a lair in or hunting, or you know a story of I don't know. I'm I'm not thinking of the words quite right, but like, you know, hunting hunting some animal in its lair, and but not in the like, hunting it down and killing it sort of way. And like—",
+        "",
+        "%% u2219:0-44 %%",
+        "DM: I get it. Yep, they. They also let you pass."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: An iron door with number of sort of pulsating runes. Some kind of magical protection, magical barriers, magical... They don't feel like traps to you. But what do you really know?",
+          "Seeker: Can we read the runes?",
+          "DM: Well, you're not there. Just Wellby is there.",
+          "Unknown: How far ahead?",
+          "DM: Like a hundred feet."
+        ],
+        "after": [
+          "DM: And as as you pass by the winds, only Kenzo still having them trail slightly, but fading as you continue to walk, you see, ahead the the dancing mists and swirling fogs that Wellby described. And everybody make a charisma saving throw with advantage. Tell me if you roll less than a 13.",
+          "Kenzo: 17.",
+          "Seeker: I rolled less than 13 both times.",
+          "Delwath: 27.",
+          "DM: Okay, let me see what Faldrak rolled here."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "The Drankorian woman’s greeting",
+      "source": {
+        "startUid": "u2312",
+        "endUid": "u2320"
+      },
+      "entities": [
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e024",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u2312:0-43, u2313:0-12, u2314:0-16, u2315:0-210 %%",
+        "DM: And as you as you step into this this small antechamber—stepping through the wall is a woman, maybe 60 or so, elegantly dressed in silk robes, with graying hair cut short, green eyes, and a sharp and angular face marked by like an old burn running from her left eye to her jaw line.",
+        "",
+        "%% u2316:0-269, u2317:0-178 %%",
+        "DM: She bowed slightly and speaks before you can say anything. Kenzo, you recognize this as Drankorian. Translated: \"Greetings, visitors. I hope your journey was not too difficult. I look forward to consulting with you on your needs, but sadly I am indisposed at the moment. Until I return, my servant Claudio will tend to your needs. Please be comfortable, and I will be with you shortly.\" And as she finishes speaking she gives a slight bow. And then.",
+        "",
+        "%% u2318:0-4 %%",
+        "Wellby: Wow!",
+        "",
+        "%% u2319:0-30 %%",
+        "Seeker: Holographic voicemail message.",
+        "",
+        "%% u2320:0-5 %%",
+        "Wellby: Yeah."
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: Obvious.",
+          "Kenzo: Can we open the door?",
+          "DM: It's not locked.",
+          "Kenzo: What's on the other side?",
+          "DM: So you push the door open and you step through, and you see a dusty, ancient chamber, lit by 4 large permanent magical lights. Rusting iron hooks on the wall perhaps once held tapestries or other wall hangings long since rotted away. There's 3 doors. There's a large bronze door straight ahead of you, through which a faint reddish glow can be seen, carved with these same kinds of warding runes of control, to keep elemental chaos at bay. To your right a reinforced wooden door, now dried and mostly rotted away, through which a small complex of living quarters and a storeroom can be seen. And to the left an intact stone door unlocked but closed."
+        ],
+        "after": [
+          "DM: And we will stop here before you explore the forge.",
+          "Kenzo: That'd be cool if that was like Dimitaur's hologram AI assistant.",
+          "DM: Well, when you finally get to Drankor maybe Dimitaur will also have a Programmed Illusion for you.",
+          "Seeker: It's fun to have a classic dungeon crawl, cause we have done that a few times, but it's been a while so.",
+          "Kenzo: Hey, really quick! Before we sign off."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

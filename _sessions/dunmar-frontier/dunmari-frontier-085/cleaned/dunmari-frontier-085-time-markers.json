@@ -1,0 +1,489 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-085",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-085/cleaned/dunmari-frontier-085-session.yaml",
+    "sessionYamlSha256": "5c5e8e092b40174e27ac73ac7a29d5756eb7477d8e1a4ea23dc654329d7fd4ea",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-085/cleaned/dunmari-frontier-085-transcript.md",
+    "transcriptSha256": "71308c0fa2f8022d0c36d979c3cbf0fc43116b6884a0c240870127013c3de76c",
+    "yamlDates": {
+      "start": "1749-01-03",
+      "end": "1749-01-08"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0004"
+      },
+      "reading": "January 8, midmorning: the expedition is aboard Vindristjarna over the western hills of Cymea.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0004",
+          "quote": "we begin tonight, the morning of January eighth"
+        },
+        {
+          "startUid": "u0001",
+          "endUid": "u0004",
+          "quote": "Even with the mid-morning sun, the day is cold"
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 1,
+          "day": 8
+        },
+        "partOfDay": "midmorning",
+        "precision": "approximate",
+        "basis": "January 8 and midmorning are spoken; the year is inherited from session YAML."
+      },
+      "actors": [
+        "Seeker",
+        "Wellby",
+        "Kenzo",
+        "Delwath",
+        "Faldrak"
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0008",
+        "endUid": "u0017"
+      },
+      "reading": "Play returns to the completed Tollen business and personal activities of roughly two and a half days before the airborne opening.",
+      "evidence": [
+        {
+          "startUid": "u0008",
+          "endUid": "u0009",
+          "quote": "So over the past few days—we'll come back to details as you all want to highlight them in your little stories—you've finished your business in Tollen, at least, for now. And said your goodbyes with hope to return soon."
+        },
+        {
+          "startUid": "u0016",
+          "endUid": "u0017",
+          "quote": "things to do in these roughly 2 and a half days in Tollen."
+        }
+      ],
+      "context": "flashback",
+      "duration": {
+        "value": 2.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM explicitly scopes the retrospectively resolved Tollen business to roughly two and a half days."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0110",
+        "endUid": "u0114"
+      },
+      "reading": "Return to the January 8 morning flight after the Tollen recollections.",
+      "evidence": [
+        {
+          "startUid": "u0110",
+          "endUid": "u0114",
+          "quote": "You can now see on this morning, after you've you know, as you've been reminiscing about your last days in Tollen, the sparkling ribbon of the Ampogio River, maybe 40 miles ahead."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 1,
+          "day": 8
+        },
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "January 8 and midmorning are spoken; the year is inherited from session YAML."
+      },
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t01"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0110",
+        "endUid": "u0114"
+      },
+      "reading": "Coastal Cymea and its river valleys were crossed mostly during the night preceding the morning flight.",
+      "evidence": [
+        {
+          "startUid": "u0110",
+          "endUid": "u0114",
+          "quote": "you've crossed the sort of coastal Cymea and the river valleys mostly during the night"
+        }
+      ],
+      "time": {
+        "partOfDay": "night",
+        "relative": {
+          "relation": "before",
+          "reference": "t01",
+          "anchor": "Night preceding the January 8 morning opening"
+        },
+        "precision": "approximate",
+        "basis": "Retrospective description of the completed coastal crossing; no departure date or total flight duration is given."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0240",
+        "endUid": "u0240"
+      },
+      "reading": "About thirty seconds pass while the paper messenger approaches the skyship.",
+      "evidence": [
+        {
+          "startUid": "u0240",
+          "endUid": "u0240",
+          "quote": "Another 30 s or so pass."
+        }
+      ],
+      "duration": {
+        "value": 0.5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM explicitly advances about thirty seconds."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0564",
+        "endUid": "u0567"
+      },
+      "reading": "About ten minutes have passed in the entrance cavern while the rituals and initial scouting occur.",
+      "evidence": [
+        {
+          "startUid": "u0498",
+          "endUid": "u0502",
+          "quote": "As Kenzo and Delwath drift into their magical rituals"
+        },
+        {
+          "startUid": "u0564",
+          "endUid": "u0567",
+          "quote": "He kind of walks up after about 10 min have passed."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed time"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t08",
+          "note": "The rituals and Faldrak’s investigations occur while Wellby scouts through the bat; this is not additional to the hour total."
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0594",
+        "endUid": "u0609"
+      },
+      "reading": "Wellby has followed the bat for twenty minutes in all; roughly ten minutes of that is downriver scouting to and beyond the rapids.",
+      "evidence": [
+        {
+          "startUid": "u0594",
+          "endUid": "u0609",
+          "quote": "It's now been, you know 20 min that you've been following the bat. About 10 min of it flying downriver"
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed time"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t08"
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0642",
+        "endUid": "u0649"
+      },
+      "reading": "The bat-scouting interval reaches roughly an hour and Beast Sense ends; the earlier ten- and twenty-minute reports belong inside this total.",
+      "evidence": [
+        {
+          "startUid": "u0642",
+          "endUid": "u0649",
+          "quote": "And at this point it's been an hour roughly, and Beast Sense ends."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Explicit elapsed hour at Beast Sense expiry, not a duration inferred solely from spell rules."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u0788",
+        "endUid": "u0794"
+      },
+      "reading": "Delwath’s scouting moth returns about fifteen minutes after flying downstream.",
+      "evidence": [
+        {
+          "startUid": "u0779",
+          "endUid": "u0787",
+          "quote": "No, it has darkvision. It doesn't matter, so I'll I'll I'll Delwath will raise this, you know, bring his hands up, and like a little sort of ghostly moth, but you know, like big, pretty wings, like mothy kind of appear, and it'll flutter down like whisper to it. It'll flutter off. I'm just asking it. I'm asking it to go down until the water goes over the cliff right, then go down the waterfall a little bit to the bottom. And then come back."
+        },
+        {
+          "startUid": "u0788",
+          "endUid": "u0794",
+          "quote": "This fluttering moth comes back maybe 15 min later."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 15,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u0859",
+        "endUid": "u0867"
+      },
+      "reading": "After leaving the anchored pause, the boat takes about ten minutes to reach the waterfall lip.",
+      "evidence": [
+        {
+          "startUid": "u0837",
+          "endUid": "u0840",
+          "quote": "So you proceed forward. Yes.\n\nKenzo: Yes."
+        },
+        {
+          "startUid": "u0859",
+          "endUid": "u0867",
+          "quote": "It takes about 10 min for the boat to—you know, for you to navigate the boat through this tunnel"
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1788",
+        "endUid": "u1792"
+      },
+      "reading": "Wellby’s solo exploration reaches the two-exit chamber after about ten minutes.",
+      "evidence": [
+        {
+          "startUid": "u1752",
+          "endUid": "u1754",
+          "quote": "Wellby, Wellby flies off to go investigate the top of the waterfall. While he's doing that, what the rest of you are standing around doing any additional exploration?"
+        },
+        {
+          "startUid": "u1788",
+          "endUid": "u1792",
+          "quote": "you've been going now, maybe about 10 min."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1807",
+        "endUid": "u1810"
+      },
+      "reading": "The passage away from the lake continues roughly south for about five minutes to another branch.",
+      "evidence": [
+        {
+          "startUid": "u1805",
+          "endUid": "u1806",
+          "quote": "You go. You go back. You go the other direction. Okay."
+        },
+        {
+          "startUid": "u1807",
+          "endUid": "u1810",
+          "quote": "That continues turning roughly south for maybe 5 min, until it comes to a a branch left or right."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1812",
+        "endUid": "u1818"
+      },
+      "reading": "Wellby explores the left branch for the proposed two minutes, receives its continuation, and turns back.",
+      "evidence": [
+        {
+          "startUid": "u1812",
+          "endUid": "u1814",
+          "quote": "I'll I'll go like 2 min down the left."
+        },
+        {
+          "startUid": "u1815",
+          "endUid": "u1817",
+          "quote": "Down to the left, begins to rise slightly and and turn sort of roughly south—sorry, roughly north, west. And begins to rise a little bit more and continue roughly straight now almost due west."
+        },
+        {
+          "startUid": "u1818",
+          "endUid": "u1818",
+          "quote": "No, I'm just gonna head back."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Two-minute scouting choice is resolved by the DM’s passage description and Wellby’s decision to return."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1832",
+        "endUid": "u1836"
+      },
+      "reading": "Seeker spends about ten to fifteen minutes chiseling the door while Wellby explores the alternate passages.",
+      "evidence": [
+        {
+          "startUid": "u1758",
+          "endUid": "u1760",
+          "quote": "You'll keep chiseling slowly, chipping away. The are—so while you're doing that Seeker’s kind of slowly working at the stone, gently kind of tapping at it, chipping off little bits."
+        },
+        {
+          "startUid": "u1824",
+          "endUid": "u1826",
+          "quote": "Meanwhile Seeker’s been tapping away while Delwath, and and Kenzo kind of continued to keep an eye out, look at the columns, and Faldrak is kind of like examining the floor, and like sort of pacing around. Seeker, you've—is there any like? Do you have any goal with your tapping? Are you just kind of idly tapping? Are you trying to like?"
+        },
+        {
+          "startUid": "u1832",
+          "endUid": "u1836",
+          "quote": "It takes you taken like maybe 10 or 15 min"
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "min": 10,
+        "max": 15,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s explicit chipping interval."
+      },
+      "completion": "completed",
+      "note": "The chipping is explicitly parallel to Wellby’s outing, but its start and finish relative to his individual branch explorations are not synchronized."
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1935",
+        "endUid": "u1948"
+      },
+      "reading": "The freeze-and-thaw attempt has run about five minutes when the slurry begins repairing the crack; the earlier couple-of-minutes crack is part of this interval.",
+      "evidence": [
+        {
+          "startUid": "u1935",
+          "endUid": "u1939",
+          "quote": "Give it 10 min."
+        },
+        {
+          "startUid": "u1940",
+          "endUid": "u1942",
+          "quote": "After a couple of minutes you see another like big, like a big sort of crack"
+        },
+        {
+          "startUid": "u1948",
+          "endUid": "u1948",
+          "quote": "after doing this like 5 for 5 min or so"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "The ten-minute suggestion is not a completed interval; later narration establishes about five minutes so far."
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "January 8 and the morning opening are independently spoken. The year 1749 and January 3 start come from YAML; January 3 is not independently established in this transcript.",
+    "expectedDateBoundaries": 5,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04"
+    ],
+    "explanation": "The episode resolves roughly two and a half days of Tollen business retrospectively, explicitly recalls an overnight coastal crossing, and plays the January 8 expedition. It does not establish the entire intervening journey or the exact beginning of the Tollen interval. The full five-boundary YAML span is therefore unverified, without an established contradiction. The missing interval has not been supplied from drEnd."
+  }
+}

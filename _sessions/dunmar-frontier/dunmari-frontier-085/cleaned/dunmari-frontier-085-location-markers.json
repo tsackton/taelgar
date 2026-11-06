@@ -1,0 +1,1768 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-085",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-085/cleaned/dunmari-frontier-085-session.yaml",
+    "sessionYamlSha256": "5c5e8e092b40174e27ac73ac7a29d5756eb7477d8e1a4ea23dc654329d7fd4ea",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-085/cleaned/dunmari-frontier-085-transcript.md",
+    "transcriptSha256": "71308c0fa2f8022d0c36d979c3cbf0fc43116b6884a0c240870127013c3de76c"
+  },
+  "places": {
+    "p01": {
+      "label": "Vindristjarna",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0004",
+          "quote": "the sun shines on Vindristjarna, crossing high above the western hills of Cymea"
+        }
+      ],
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "mobile": true
+    },
+    "p02": {
+      "label": "Cymea",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0004",
+          "quote": "crossing high above the western hills of Cymea"
+        }
+      ],
+      "vaultPath": "Gazetteer/Western Green Sea/Realms/Cymea.md"
+    },
+    "p03": {
+      "label": "Tollen",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0008",
+          "endUid": "u0017",
+          "quote": "things to do in these roughly 2 and a half days in Tollen."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Tollen.md"
+    },
+    "p04": {
+      "label": "Edge of Echoes",
+      "kind": "cave complex",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0004",
+          "quote": "approaching the presumed location of the cavern complex, known as the Edge of Echoes."
+        },
+        {
+          "startUid": "u0354",
+          "endUid": "u0360",
+          "quote": "Faldrak is very excited. Figures this must be it. This is exactly what they described: waterfall into an underground river."
+        }
+      ],
+      "vaultPath": "Gazetteer/Western Green Sea/Cymea/Edge of Echoes.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0115",
+              "endUid": "u0122",
+              "quote": "This is where you're going."
+            },
+            {
+              "startUid": "u0115",
+              "endUid": "u0122",
+              "quote": "this middle area here, this like part of Cymea"
+            },
+            {
+              "startUid": "u0124",
+              "endUid": "u0131",
+              "quote": "That is where you're heading."
+            },
+            {
+              "startUid": "u0349",
+              "endUid": "u0352",
+              "quote": "As this—as this scene message ends, you find yourself now drifting over a waterfall that plunges into a sinkhole. And the river just stops—like the waterfall just cascades down. The river must flow underground, because there is no because there's no."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Freccilia River",
+      "kind": "river",
+      "evidence": [
+        {
+          "startUid": "u0124",
+          "endUid": "u0131",
+          "quote": "The Freccilia right here. That is where you're heading."
+        }
+      ],
+      "vaultPath": "Gazetteer/Western Green Sea/Cymea/Freccilia.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0115",
+              "endUid": "u0122",
+              "quote": "this middle area here, this like part of Cymea"
+            },
+            {
+              "startUid": "u0124",
+              "endUid": "u0131",
+              "quote": "Yeah. So this is, this is where this is the Ampogio River here. And this is the—that's the small, the small river. The Freccilia right here. That is where you're heading. This is where I mean, Faldrak has a basic idea of where the the river is supposed to be. You follow the Freccilia up river from its confluence of the Ampogio for some 20 miles. It plunges until you see, like the river goes underground, and that's where the Edge of Echoes. This is where the the Freccilia River goes underground, and that's like—"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Entrance cavern beneath the sinkhole",
+      "kind": "cavern",
+      "evidence": [
+        {
+          "startUid": "u0412",
+          "endUid": "u0426",
+          "quote": "as you slowly drift down you you land on this—a a quite a large cavern"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0354",
+              "endUid": "u0360",
+              "quote": "This is exactly what they described: waterfall into an underground river."
+            },
+            {
+              "startUid": "u0412",
+              "endUid": "u0426",
+              "quote": "as you slowly drift down you you land on this—a a quite a large cavern"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Collapsed western side tunnel",
+      "kind": "tunnel",
+      "evidence": [
+        {
+          "startUid": "u0578",
+          "endUid": "u0585",
+          "quote": "a place where the roof has collapsed, and the tunnel itself is filled with a jumble of boulders"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0505",
+              "endUid": "u0521",
+              "quote": "The river flows out at the north end of the cavern."
+            },
+            {
+              "startUid": "u0505",
+              "endUid": "u0521",
+              "quote": "Okay, so Wellby, as you as you glide into the senses of this bat and send it flying around kind of looking for an exit, you're able to get a pretty good sense of the layout of this cavern. So it's a it's probably a hundred feet. It's like a hundred foot long, oval, about 40 wide. The river flows out at the north end of the cavern. So, going downstream, there is one other passageway. That exits—the the waterfall itself, it's falling near the south end of the—pretty much at the exact south end of this large cavern. And the—there's one other passage that's sort of about the midway point on the western wall. That exit sort of that exits to the sort of Northwest."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Underground river and rapids",
+      "kind": "waterway",
+      "evidence": [
+        {
+          "startUid": "u0594",
+          "endUid": "u0609",
+          "quote": "the river keeps going, and and the slope picks up"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0505",
+              "endUid": "u0521",
+              "quote": "The river flows out at the north end of the cavern."
+            },
+            {
+              "startUid": "u0594",
+              "endUid": "u0609",
+              "quote": "It goes maybe 200 feet and comes to—there's a like the the tunnel. The tunnel narrows. And it gets to a point where, like the river is just flowing along the walls of the cave, right, so there's no shore on either side where you can stand, and the river picks up a little bit of speed. And then goes quickly past a a passage on the left and the right that that branch east and west, left and right, and then the river keeps going, and and the slope picks up, but it's still in the sort of tunnel that's maybe 20 feet across and no beaches. It's just going another roughly a 200 feet. It comes to another pair of tunnels left and right and then picks up into a a steeper slope that goes into a is almost like a rapids, right? Like it's got a bit of an angle to it. And so the rivers running quite quickly for some distance. It's now been, you know 20 min that you've been following the bat. About 10 min of it flying downriver, and once it got past the 2 sets of passages branching left, right, left, right, and came to these rapids. It was it was going for, I don't know, 10 min. Do you wanna ask it to turn around?"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Eastern loop off the river",
+      "kind": "tunnel",
+      "evidence": [
+        {
+          "startUid": "u0611",
+          "endUid": "u0623",
+          "quote": "The the passages on the right, the eastern passages actually connect."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0505",
+              "endUid": "u0521",
+              "quote": "The river flows out at the north end of the cavern."
+            },
+            {
+              "startUid": "u0611",
+              "endUid": "u0623",
+              "quote": "The the passages on the right, the eastern passages actually connect. It's like one tunnel that goes up like this above the river goes through the rock and then comes back down. So the 2 passages that branch out, and there doesn't seem to be any other [garbled] passages that branch out from there. The left hand passage close to the river or close to the rapids, continues getting narrower and starting to slope down for some some distance a few 100 feet. And it gets to be a pretty narrow space again. The bat could fly through it. A person could probably crawl through it. But it gets tight. And it seems to continue in this vein for some ways. No other branches. You could send the bat down there. Might not have time to investigate the other passage depending on how far it goes."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Western Y passage with fissure and flowstone ends",
+      "kind": "tunnel",
+      "evidence": [
+        {
+          "startUid": "u0625",
+          "endUid": "u0634",
+          "quote": "The other passage splits quite quickly after maybe 25, 30 feet in at a Y intersection."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0505",
+              "endUid": "u0521",
+              "quote": "The river flows out at the north end of the cavern."
+            },
+            {
+              "startUid": "u0625",
+              "endUid": "u0634",
+              "quote": "The other passage splits quite quickly after maybe 25, 30 feet in at a Y intersection. One of the intersections begins to slope significantly up and comes to a sort of fissure where there's you can see light. There's a crack light shining in from above. It looks like some—the bottom of some additional minor sinkhole, or something like that. Passage does not continue. The other branch of this y comes to a very large flat, open rock where water is dripping down, and it's like elaborate sort of one of these like I I don't know. I forget what they're called, but like limestone formation was just like wave after wave of like limestone built up over time that's all very smooth. Huge 40 feet across. Something like that, with water dripping down."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Narrow western crawl passage",
+      "kind": "tunnel",
+      "evidence": [
+        {
+          "startUid": "u0611",
+          "endUid": "u0623",
+          "quote": "The left hand passage close to the river or close to the rapids, continues getting narrower and starting to slope down"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0505",
+              "endUid": "u0521",
+              "quote": "The river flows out at the north end of the cavern."
+            },
+            {
+              "startUid": "u0611",
+              "endUid": "u0623",
+              "quote": "The the passages on the right, the eastern passages actually connect. It's like one tunnel that goes up like this above the river goes through the rock and then comes back down. So the 2 passages that branch out, and there doesn't seem to be any other [garbled] passages that branch out from there. The left hand passage close to the river or close to the rapids, continues getting narrower and starting to slope down for some some distance a few 100 feet. And it gets to be a pretty narrow space again. The bat could fly through it. A person could probably crawl through it. But it gets tight. And it seems to continue in this vein for some ways. No other branches. You could send the bat down there. Might not have time to investigate the other passage depending on how far it goes."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Waterfall lake chamber",
+      "kind": "cavern",
+      "evidence": [
+        {
+          "startUid": "u0924",
+          "endUid": "u0941",
+          "quote": "this waterfall cascade down into a pretty large lake that almost fills this like pretty substantial chamber"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0703",
+              "endUid": "u0716",
+              "quote": "the minute you exit this large cavern"
+            },
+            {
+              "startUid": "u0859",
+              "endUid": "u0867",
+              "quote": "you now see, as you're approaching the waterfall"
+            },
+            {
+              "startUid": "u0924",
+              "endUid": "u0941",
+              "quote": "this waterfall cascade down into a pretty large lake"
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Western shore of the lake chamber",
+      "kind": "shore",
+      "evidence": [
+        {
+          "startUid": "u0924",
+          "endUid": "u0941",
+          "quote": "on the western side, there's a there's a a shore here as well."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u0924",
+              "endUid": "u0941",
+              "quote": "on the western side, there's a there's a a shore here as well."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Upper waterfall side landing",
+      "kind": "passage entrance",
+      "evidence": [
+        {
+          "startUid": "u0859",
+          "endUid": "u0867",
+          "quote": "a landing spot on the—there's like a big open area on the top of the waterfall like a tunnel that goes off to the west."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0859",
+              "endUid": "u0867",
+              "quote": "It takes about 10 min for the boat to—you know, for you to navigate the boat through this tunnel, and and you now see, as you're approaching the waterfall, the current picks up again, and you can hear this roar in the distance, and there are—you're sort of what you're preparing yourself. You're getting ready to just like shoot over the edge right? As you're like speeding by, you see that there's like a landing spot on the—there's like a big open area on the top of the waterfall like a tunnel that goes off to the west.\n\nWellby: I'm gonna make a hard, hard turn and landing and immovable rod."
+            }
+          ],
+          "note": "A corridor opening at the waterfall lip, not a constructed dock."
+        },
+        {
+          "relation": "above",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u0924",
+              "endUid": "u0941",
+              "quote": "this waterfall cascade down into a pretty large lake"
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Colonnaded hall with the stone-sealed door",
+      "kind": "hall",
+      "evidence": [
+        {
+          "startUid": "u1565",
+          "endUid": "u1583",
+          "quote": "a row of columns in leading to a double door"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1485",
+              "endUid": "u1499",
+              "quote": "a carved passageway that leads out from this chamber"
+            },
+            {
+              "startUid": "u1555",
+              "endUid": "u1564",
+              "quote": "a short hallway passageway, and then there's the another larger room."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Passages behind the waterfall",
+      "kind": "tunnel network",
+      "evidence": [
+        {
+          "startUid": "u1761",
+          "endUid": "u1792",
+          "quote": "it actually passes behind the waterfall."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1761",
+              "endUid": "u1777",
+              "quote": "Over time Wellby flies up to the top of the waterfall. So this this landing area? It's not really a not really like a polished landing area. Right? It's not. There's no dock or anything. Right now that you're not moving quickly in a boat down a river, you can see that this is really basically just a side corridor that that turns off and you—so you you follow the corridor. So it winds. It actually winds around slightly, and it comes out. There's like a park where it comes out and you can see—well, you can't. Yeah, I guess you can see it's it begins to wind. You know, initially due west, like straight into the wall, and then turns and begins to descend. And it comes. And it turns 180 degrees. So it's going now east as it descends. And you see now, actually, as it's descending, it actually passes behind the waterfall."
+            },
+            {
+              "startUid": "u1779",
+              "endUid": "u1786",
+              "quote": "You can see out like from the waterfall to the lake. Continues to go down, and then and then turns again. And begins to open up into a sort of wider space. You figure now you must be close to the level of the lake. But there's like, but the wall that's on your left would be the wall that was on the right of the lake, right? So like the yeah western wall of the chamber that's sort of opening up here is close to the eastern wall of the lake, so the opposite side of the lake from the from the that from the room that you're in."
+            }
+          ],
+          "note": "Explored by Wellby alone from the upper landing; no connection to the colonnaded hall is established."
+        }
+      ]
+    },
+    "p17": {
+      "label": "Forked worked hallway beyond the stone door",
+      "kind": "hallway",
+      "evidence": [
+        {
+          "startUid": "u2078",
+          "endUid": "u2090",
+          "quote": "it actually splits the corridor in 2, so left or right?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u2078",
+              "endUid": "u2085",
+              "quote": "you all fly across the mud into the door, into a tunnel."
+            },
+            {
+              "startUid": "u2086",
+              "endUid": "u2090",
+              "quote": "But after you go maybe 15 feet you can see that there's like it almost jutting up from the floor and then blocking the—splitting the 20 foot wide corridor into 2 narrower 10 foot wide corridors is this giant like prow of stone that's just plowed up through the floor and continued, it's not like just a barrier. It’s like it actually splits the corridor in 2, so left or right?"
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Left corridor of whispering winds and dancing mists",
+      "kind": "corridor",
+      "evidence": [
+        {
+          "startUid": "u2100",
+          "endUid": "u2122",
+          "quote": "you begin to hear like a whispering wind, growing louder and louder"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u2098",
+              "endUid": "u2101",
+              "quote": "Split. Second left.\n\nSeeker: Umhm.\n\nKenzo: Do we continue following the unnaturally dead energy? Let's do it. Left. Yep. You go, do you wanna send scouts or anything, or we just like just barrel forward?"
+            },
+            {
+              "startUid": "u2107",
+              "endUid": "u2122",
+              "quote": "I'm not gonna barrel. I'm gonna I'm gonna proceed cautiously and attentively on the alert for attacks and traps and things like that—\n\nDM: So as you walk you you begin to hear like a whispering wind, growing louder and louder, seeming to surround you. It's—you have no idea where it's coming from. It's not—it's not like there's an opening anywhere. And it's not like the wind is blowing down the corridor or something. It's just—it's just seem feels like there's this swirling energy around you, and it's it's not quiet, it's chattering, it's hissing. At times it's whispering. It's almost as if you can hear, like little fragments of all of the sort of voices on the winds, the news the winds carry across the world, the fragments of tales of freedom and wildness and unbridled adventure that blow across the world on the winds. And they're sort of clustering around you. Wellby as you walk forward there, you can almost hear them whispering greedily like can almost imagine, there's voices: \"Feed us. We ache. Give us a new tale. Give us a new voyage. Give us a new taste of freedom.\" Getting louder and more insistent whether you go forward or back. They seem to have latched onto you."
+            }
+          ]
+        },
+        {
+          "relation": "connected_to",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u2098",
+              "endUid": "u2101",
+              "quote": "Split. Second left.\n\nSeeker: Umhm.\n\nKenzo: Do we continue following the unnaturally dead energy? Let's do it. Left. Yep. You go, do you wanna send scouts or anything, or we just like just barrel forward?"
+            },
+            {
+              "startUid": "u2107",
+              "endUid": "u2122",
+              "quote": "I'm not gonna barrel. I'm gonna I'm gonna proceed cautiously and attentively on the alert for attacks and traps and things like that—\n\nDM: So as you walk you you begin to hear like a whispering wind, growing louder and louder, seeming to surround you. It's—you have no idea where it's coming from. It's not—it's not like there's an opening anywhere. And it's not like the wind is blowing down the corridor or something. It's just—it's just seem feels like there's this swirling energy around you, and it's it's not quiet, it's chattering, it's hissing. At times it's whispering. It's almost as if you can hear, like little fragments of all of the sort of voices on the winds, the news the winds carry across the world, the fragments of tales of freedom and wildness and unbridled adventure that blow across the world on the winds. And they're sort of clustering around you. Wellby as you walk forward there, you can almost hear them whispering greedily like can almost imagine, there's voices: \"Feed us. We ache. Give us a new tale. Give us a new voyage. Give us a new taste of freedom.\" Getting louder and more insistent whether you go forward or back. They seem to have latched onto you."
+            }
+          ],
+          "note": "The party chooses the left branch; the wind corridor continues toward the warded iron door."
+        }
+      ]
+    },
+    "p19": {
+      "label": "Warded iron doorway",
+      "kind": "threshold",
+      "evidence": [
+        {
+          "startUid": "u2154",
+          "endUid": "u2155",
+          "quote": "An iron door with number of sort of pulsating runes."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u2138",
+              "endUid": "u2145",
+              "quote": "You continue walking down this corridor. And you can see in the distance, like edge of your darkvision, you've gone. You've gone maybe 50 feet. About another 50 feet ahead you can see what looks like a iron door faintly glowing with magical runes carved into it. But between you and the iron door there are mist, and air and swirling fogs that are blowing and almost dancing on the air, obscuring your vision. You! You watch it for a moment, make a charisma saving throw."
+            },
+            {
+              "startUid": "u2154",
+              "endUid": "u2155",
+              "quote": "An iron door with number of sort of pulsating runes. Some kind of magical protection, magical barriers, magical... They don't feel like traps to you. But what do you really know?"
+            }
+          ]
+        }
+      ]
+    },
+    "p20": {
+      "label": "Antechamber of the Drankorian forge",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2305",
+          "endUid": "u2317",
+          "quote": "you push the door open and you step through, and you see a dusty, ancient chamber"
+        }
+      ],
+      "note": "Only the antechamber is entered. The bronze doorway, decayed living quarters, and closed left-hand door are seen from here.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p21",
+          "evidence": [
+            {
+              "startUid": "u2305",
+              "endUid": "u2317",
+              "quote": "So you push the door open and you step through, and you see a dusty, ancient chamber, lit by 4 large permanent magical lights. Rusting iron hooks on the wall perhaps once held tapestries or other wall hangings long since rotted away. There's 3 doors. There's a large bronze door straight ahead of you, through which a faint reddish glow can be seen, carved with these same kinds of warding runes of control, to keep elemental chaos at bay. To your right a reinforced wooden door, now dried and mostly rotted away, through which a small complex of living quarters and a storeroom can be seen. And to the left an intact stone door unlocked but closed.\n\nDM: And as you as you step into this this small antechamber—stepping through the wall is a woman, maybe 60 or so, elegantly dressed in silk robes, with graying hair cut short, green eyes, and a sharp and angular face marked by like an old burn running from her left eye to her jaw line.\n\nDM: She bowed slightly and speaks before you can say anything. Kenzo, you recognize this as Drankorian. Translated: \"Greetings, visitors. I hope your journey was not too difficult. I look forward to consulting with you on your needs, but sadly I am indisposed at the moment. Until I return, my servant Claudio will tend to your needs. Please be comfortable, and I will be with you shortly.\" And as she finishes speaking she gives a slight bow. And then."
+            },
+            {
+              "startUid": "u2321",
+              "endUid": "u2321",
+              "quote": "before you explore the forge."
+            }
+          ]
+        }
+      ]
+    },
+    "p21": {
+      "label": "Drankorian forge",
+      "kind": "workshop complex",
+      "evidence": [
+        {
+          "startUid": "u0155",
+          "endUid": "u0157",
+          "quote": "An ancient Drankorian forge."
+        },
+        {
+          "startUid": "u2321",
+          "endUid": "u2321",
+          "quote": "before you explore the forge."
+        }
+      ],
+      "vaultPath": "Gazetteer/Western Green Sea/Cymea/Elemental Forge.md",
+      "note": "The vault calls the larger workshop the Elemental Forge; the session ends at its entrance before the interior exploration.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0004",
+              "quote": "the cavern complex, known as the Edge of Echoes."
+            },
+            {
+              "startUid": "u0155",
+              "endUid": "u0157",
+              "quote": "An ancient Drankorian forge."
+            },
+            {
+              "startUid": "u2305",
+              "endUid": "u2317",
+              "quote": "So you push the door open and you step through, and you see a dusty, ancient chamber, lit by 4 large permanent magical lights. Rusting iron hooks on the wall perhaps once held tapestries or other wall hangings long since rotted away. There's 3 doors. There's a large bronze door straight ahead of you, through which a faint reddish glow can be seen, carved with these same kinds of warding runes of control, to keep elemental chaos at bay. To your right a reinforced wooden door, now dried and mostly rotted away, through which a small complex of living quarters and a storeroom can be seen. And to the left an intact stone door unlocked but closed.\n\nDM: And as you as you step into this this small antechamber—stepping through the wall is a woman, maybe 60 or so, elegantly dressed in silk robes, with graying hair cut short, green eyes, and a sharp and angular face marked by like an old burn running from her left eye to her jaw line.\n\nDM: She bowed slightly and speaks before you can say anything. Kenzo, you recognize this as Drankorian. Translated: \"Greetings, visitors. I hope your journey was not too difficult. I look forward to consulting with you on your needs, but sadly I am indisposed at the moment. Until I return, my servant Claudio will tend to your needs. Please be comfortable, and I will be with you shortly.\" And as she finishes speaking she gives a slight bow. And then."
+            },
+            {
+              "startUid": "u2321",
+              "endUid": "u2321",
+              "quote": "And we will stop here before you explore the forge."
+            }
+          ],
+          "note": "The desired forge is approached through the cave complex and reached at the closing antechamber."
+        }
+      ]
+    },
+    "p22": {
+      "label": "Below decks on Vindristjarna",
+      "kind": "interior",
+      "evidence": [
+        {
+          "startUid": "u0234",
+          "endUid": "u0235",
+          "quote": "I escort him downstairs bodily."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0230",
+              "endUid": "u0235",
+              "quote": "Maybe below decks for Faldrak, just in case.\n\nDM: What? What? What do you see?\n\nSeeker: Sort of squints in the direction of the—\n\nDM: Of the horizon.\n\nKenzo: Let's just I escort him downstairs bodily.\n\nDM: Okay, okay, I get it."
+            },
+            {
+              "startUid": "u0287",
+              "endUid": "u0297",
+              "quote": "You can come back up Faldrak. Yeah."
+            }
+          ]
+        }
+      ]
+    },
+    "p23": {
+      "label": "Folding boat",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u0674",
+          "endUid": "u0682",
+          "quote": "a 10 foot by 4 foot boat"
+        }
+      ],
+      "mobile": true
+    },
+    "p24": {
+      "label": "Air above the sinkhole entrance",
+      "kind": "airspace",
+      "evidence": [
+        {
+          "startUid": "u0349",
+          "endUid": "u0360",
+          "quote": "you find yourself now drifting over a waterfall that plunges into a sinkhole."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0349",
+              "endUid": "u0360",
+              "quote": "As this—as this scene message ends, you find yourself now drifting over a waterfall that plunges into a sinkhole. And the river just stops—like the waterfall just cascades down. The river must flow underground, because there is no because there's no.\n\nKenzo: Next campaign, you're playing a character with an 8 Wisdom instead of a 16 Wisdom. I don't think wisdom correlates to planning, but anyways.\n\nDM: Maybe not. The—so this this river that's flowing down through these hills, these, these sort of rugged, rocky hills, just cascades into this sinkhole, and you're still fairly high up, right? You're, you know, 100 feet up, maybe, or a few 100 feet up. So you know, details are not readily apparent. But you can certainly see the water cascades down into the darkness of some cavern below. Faldrak is very excited. Figures this must be it. This is exactly what they described: waterfall into an underground river. Let's go."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0115",
+              "endUid": "u0122",
+              "quote": "this middle area here, this like part of Cymea"
+            },
+            {
+              "startUid": "u0349",
+              "endUid": "u0360",
+              "quote": "As this—as this scene message ends, you find yourself now drifting over a waterfall that plunges into a sinkhole. And the river just stops—like the waterfall just cascades down. The river must flow underground, because there is no because there's no.\n\nKenzo: Next campaign, you're playing a character with an 8 Wisdom instead of a 16 Wisdom. I don't think wisdom correlates to planning, but anyways.\n\nDM: Maybe not. The—so this this river that's flowing down through these hills, these, these sort of rugged, rocky hills, just cascades into this sinkhole, and you're still fairly high up, right? You're, you know, 100 feet up, maybe, or a few 100 feet up. So you know, details are not readily apparent. But you can certainly see the water cascades down into the darkness of some cavern below. Faldrak is very excited. Figures this must be it. This is exactly what they described: waterfall into an underground river. Let's go."
+            }
+          ]
+        }
+      ]
+    },
+    "p25": {
+      "label": "Water of the lake",
+      "kind": "water",
+      "evidence": [
+        {
+          "startUid": "u0924",
+          "endUid": "u0941",
+          "quote": "The plop as the 2 dwarves go in the lake."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u0924",
+              "endUid": "u0941",
+              "quote": "The plop as the 2 dwarves go in the lake."
+            }
+          ]
+        }
+      ]
+    },
+    "p26": {
+      "label": "Air above the lake",
+      "kind": "airspace",
+      "evidence": [
+        {
+          "startUid": "u0924",
+          "endUid": "u0941",
+          "quote": "Wellby's hanging 50 feet in the air above this lake"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u0924",
+              "endUid": "u0941",
+              "quote": "Wellby's hanging 50 feet in the air above this lake"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0007"
+      },
+      "actors": [
+        "Seeker",
+        "Wellby",
+        "Kenzo",
+        "Delwath",
+        "Faldrak"
+      ],
+      "reading": "The expedition is aboard Vindristjarna over western Cymea.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0004",
+          "quote": "the sun shines on Vindristjarna, crossing high above the western hills of Cymea"
+        },
+        {
+          "startUid": "u0005",
+          "endUid": "u0007",
+          "quote": "Faldrak has perched at the front of the ship"
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p02"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0008",
+        "endUid": "u0017"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The table retrospectively resolves the party’s final Tollen business and goodbyes.",
+      "evidence": [
+        {
+          "startUid": "u0008",
+          "endUid": "u0009",
+          "quote": "So over the past few days—we'll come back to details as you all want to highlight them in your little stories—you've finished your business in Tollen, at least, for now. And said your goodbyes with hope to return soon."
+        },
+        {
+          "startUid": "u0016",
+          "endUid": "u0017",
+          "quote": "So in addition to this, this business, of course, you've all had your own goodbyes to say and things to do in these roughly 2 and a half days in Tollen. So anybody who has character moments they'd like to share? Now is the time. He's—"
+        }
+      ],
+      "place": "p03",
+      "context": "flashback"
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0059",
+        "endUid": "u0071"
+      },
+      "actors": [
+        "Kenzo",
+        "Iskra"
+      ],
+      "reading": "Kenzo recalls nature walks and learning local flora and fauna with Iskra during the Tollen interval.",
+      "evidence": [
+        {
+          "startUid": "u0059",
+          "endUid": "u0063",
+          "quote": "engaging with other folks in Tollen"
+        },
+        {
+          "startUid": "u0064",
+          "endUid": "u0071",
+          "quote": "communing with nature and with with Iskra."
+        }
+      ],
+      "place": "p03",
+      "context": "flashback",
+      "note": "This retrospective involvement does not place Iskra aboard the expedition. At u0103 the DM says Faldrak is the only addition traveling with the party."
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0110",
+        "endUid": "u0146"
+      },
+      "actors": [
+        "Seeker",
+        "Wellby",
+        "Kenzo",
+        "Delwath",
+        "Faldrak"
+      ],
+      "reading": "The skyship crosses coastal Cymea and follows Faldrak’s river directions to the sinkhole entrance of the Edge of Echoes.",
+      "evidence": [
+        {
+          "startUid": "u0110",
+          "endUid": "u0114",
+          "quote": "you've crossed the sort of coastal Cymea and the river valleys mostly during the night"
+        },
+        {
+          "startUid": "u0124",
+          "endUid": "u0131",
+          "quote": "Yeah. So this is, this is where this is the Ampogio River here. And this is the—that's the small, the small river. The Freccilia right here. That is where you're heading. This is where I mean, Faldrak has a basic idea of where the the river is supposed to be. You follow the Freccilia up river from its confluence of the Ampogio for some 20 miles. It plunges until you see, like the river goes underground, and that's where the Edge of Echoes. This is where the the Freccilia River goes underground, and that's like—"
+        },
+        {
+          "startUid": "u0142",
+          "endUid": "u0146",
+          "quote": "So so as you approach, as you see the the river, and and I assume you're not, I mean, stop me if you wanna do something different. But unless you want to go, look for people to talk to for some reason, I assume you're just following Faldrak’s directions.\n\nSeeker: Yes.\n\nDM: So as you're as you're going up the river, and you're you're cruising along at your 10-ish mile an hour pace maybe an hour from this 20 mile point where you expect to see this like river falling into the sinkhole, Faldrak turns and walks back excitedly."
+        },
+        {
+          "startUid": "u0349",
+          "endUid": "u0352",
+          "quote": "you find yourself now drifting over a waterfall that plunges into a sinkhole."
+        },
+        {
+          "startUid": "u0354",
+          "endUid": "u0360",
+          "quote": "This is exactly what they described: waterfall into an underground river."
+        }
+      ],
+      "from": null,
+      "to": "p24",
+      "completion": "arrived",
+      "mode": "fly",
+      "vehicle": "p01",
+      "route": [
+        {
+          "reading": "Cross coastal Cymea and the river valleys at night.",
+          "place": "p02"
+        },
+        {
+          "reading": "Approach the Ampogio and follow the Freccilia upstream, including the section where it re-emerges before the sinkhole.",
+          "place": "p05"
+        }
+      ],
+      "note": "The current transcript establishes the coastal and river approach, not the duration or full route from Tollen. Arrival here is above the entrance while aboard Vindristjarna, before the descent.",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p04"
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0230",
+        "endUid": "u0235"
+      },
+      "actors": [
+        "Faldrak"
+      ],
+      "reading": "Kenzo escorts Faldrak below decks as the unidentified messenger approaches.",
+      "evidence": [
+        {
+          "startUid": "u0230",
+          "endUid": "u0235",
+          "quote": "Maybe below decks for Faldrak, just in case.\n\nDM: What? What? What do you see?\n\nSeeker: Sort of squints in the direction of the—\n\nDM: Of the horizon.\n\nKenzo: Let's just I escort him downstairs bodily.\n\nDM: Okay, okay, I get it."
+        }
+      ],
+      "from": "p01",
+      "to": "p22",
+      "completion": "arrived"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0287",
+        "endUid": "u0297"
+      },
+      "actors": [
+        "Faldrak"
+      ],
+      "reading": "After the letter is recognized, Faldrak climbs back up to the others.",
+      "evidence": [
+        {
+          "startUid": "u0287",
+          "endUid": "u0296",
+          "quote": "You can come back up Faldrak. Yeah."
+        },
+        {
+          "startUid": "u0297",
+          "endUid": "u0297",
+          "quote": "Climbs up, thumping on the stairs as he goes."
+        }
+      ],
+      "from": "p22",
+      "to": "p01",
+      "completion": "arrived"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0397",
+        "endUid": "u0426"
+      },
+      "actors": [
+        "Seeker",
+        "Wellby",
+        "Kenzo",
+        "Delwath",
+        "Faldrak"
+      ],
+      "reading": "The expedition jumps from the ship and feather-falls into the entrance cavern beside the underground river.",
+      "evidence": [
+        {
+          "startUid": "u0401",
+          "endUid": "u0402",
+          "quote": "Let's jump, so we'll give Faldrak some brief instructions, and then all dive and push him off the edge."
+        },
+        {
+          "startUid": "u0412",
+          "endUid": "u0426",
+          "quote": "as you slowly drift down you you land on this—a a quite a large cavern"
+        }
+      ],
+      "from": "p01",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "feather fall"
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u0505",
+        "endUid": "u0585"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Through the bat, Wellby finds a collapsed western tunnel off the entrance cavern; the party remains at the entrance.",
+      "evidence": [
+        {
+          "startUid": "u0505",
+          "endUid": "u0521",
+          "quote": "Okay, so Wellby, as you as you glide into the senses of this bat and send it flying around kind of looking for an exit, you're able to get a pretty good sense of the layout of this cavern. So it's a it's probably a hundred feet. It's like a hundred foot long, oval, about 40 wide. The river flows out at the north end of the cavern. So, going downstream, there is one other passageway. That exits—the the waterfall itself, it's falling near the south end of the—pretty much at the exact south end of this large cavern. And the—there's one other passage that's sort of about the midway point on the western wall. That exit sort of that exits to the sort of Northwest."
+        },
+        {
+          "startUid": "u0578",
+          "endUid": "u0585",
+          "quote": "So this is taking a little bit more time. But eventually following this this this course, you—the bat comes to like a cave-in. The—maybe a hundred feet down this tunnel. There's a room—200 feet, something like that. There's a place where the roof has collapsed, and the tunnel itself is filled with a jumble of boulders, and the the bat could maybe squeeze past if it really tried, but it's pretty reluctant to it. Doesn't look super comfortable."
+        }
+      ],
+      "place": "p07",
+      "mode": "remote",
+      "observerPlace": "p06"
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u0594",
+        "endUid": "u0609"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "The bat scouts downstream past two pairs of side passages into a steeper stretch of rapids.",
+      "evidence": [
+        {
+          "startUid": "u0594",
+          "endUid": "u0609",
+          "quote": "It goes maybe 200 feet and comes to—there's a like the the tunnel. The tunnel narrows. And it gets to a point where, like the river is just flowing along the walls of the cave, right, so there's no shore on either side where you can stand, and the river picks up a little bit of speed. And then goes quickly past a a passage on the left and the right that that branch east and west, left and right, and then the river keeps going, and and the slope picks up, but it's still in the sort of tunnel that's maybe 20 feet across and no beaches. It's just going another roughly a 200 feet. It comes to another pair of tunnels left and right and then picks up into a a steeper slope that goes into a is almost like a rapids, right? Like it's got a bit of an angle to it. And so the rivers running quite quickly for some distance. It's now been, you know 20 min that you've been following the bat. About 10 min of it flying downriver, and once it got past the 2 sets of passages branching left, right, left, right, and came to these rapids. It was it was going for, I don't know, 10 min. Do you wanna ask it to turn around?"
+        }
+      ],
+      "place": "p08",
+      "mode": "remote",
+      "observerPlace": "p06"
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u0611",
+        "endUid": "u0623"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "The eastern side passages form a connecting loop above the river.",
+      "evidence": [
+        {
+          "startUid": "u0611",
+          "endUid": "u0623",
+          "quote": "The the passages on the right, the eastern passages actually connect. It's like one tunnel that goes up like this above the river goes through the rock and then comes back down."
+        }
+      ],
+      "place": "p09",
+      "mode": "remote",
+      "observerPlace": "p06"
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u0625",
+        "endUid": "u0641"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "A western Y passage terminates in a lighted fissure on one branch and a broad flowstone formation on the other.",
+      "evidence": [
+        {
+          "startUid": "u0625",
+          "endUid": "u0634",
+          "quote": "The other passage splits quite quickly after maybe 25, 30 feet in at a Y intersection. One of the intersections begins to slope significantly up and comes to a sort of fissure where there's you can see light. There's a crack light shining in from above. It looks like some—the bottom of some additional minor sinkhole, or something like that. Passage does not continue. The other branch of this y comes to a very large flat, open rock where water is dripping down, and it's like elaborate sort of one of these like I I don't know. I forget what they're called, but like limestone formation was just like wave after wave of like limestone built up over time that's all very smooth. Huge 40 feet across. Something like that, with water dripping down."
+        },
+        {
+          "startUid": "u0641",
+          "endUid": "u0641",
+          "quote": "But this again seems to be a dead end."
+        }
+      ],
+      "place": "p10",
+      "mode": "remote",
+      "observerPlace": "p06"
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u0642",
+        "endUid": "u0649"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "The bat follows the narrowing western crawl, which curves north and upward before Beast Sense ends.",
+      "evidence": [
+        {
+          "startUid": "u0611",
+          "endUid": "u0623",
+          "quote": "The left hand passage close to the river or close to the rapids, continues getting narrower"
+        },
+        {
+          "startUid": "u0642",
+          "endUid": "u0649",
+          "quote": "All right. I'll send it down the little tunnel as far as it can go before we run.\n\nDM: The little tunnel begins to now, after some time it begins to curve. So it's mostly heading west. It begins to curve north and begins to turn up. And at this point it's been an hour roughly, and Beast Sense ends."
+        }
+      ],
+      "place": "p11",
+      "mode": "remote",
+      "observerPlace": "p06"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u0674",
+        "endUid": "u0743"
+      },
+      "actors": [
+        "Seeker",
+        "Wellby",
+        "Kenzo",
+        "Delwath",
+        "Faldrak"
+      ],
+      "reading": "The party boards the folding boat and steers downstream through the rapids, then anchors in a calm patch before the next waterfall.",
+      "evidence": [
+        {
+          "startUid": "u0674",
+          "endUid": "u0682",
+          "quote": "Alright. So pull out this little box, and then start unfolding the thing and unfolding the thing until we end up with a, I think, a 10 foot by 4 foot boat more or less. Something like that. Where did we get this boat from again?\n\nDelwath: The bad guys, Kadmos.\n\nWellby: We liberated it. Cursed in some way right?\n\nDelwath: No. They used it right before we killed them. They didn't have time to curse it.\n\nDM: Yeah, it's it's a it's a tiny bit of a tight squeeze with all of you, but not really too bad, because there's 2 dwarfs and a halfling. So."
+        },
+        {
+          "startUid": "u0699",
+          "endUid": "u0716",
+          "quote": "So you set sail. Faldrak is. Faldrak is like tapping on the boat. He's like: that's that's a good trick. Where'd you get that? Who made that for you?\n\nKenzo: Slain enemies?\n\nWellby: Yeah, [garbled] bodies of our [garbled]. So back by the tiller.\n\nDM: So you set sail. Or I guess you're I mean there's no wind here. Right? So you're presumably it has oars as well. And actually, you don't even really need oars or sail. The current is fast enough. You just need to steer.\n\nWellby: So I'll be sitting back by the tiller.\n\nDM: You know, keeping an eye out. It gets quite dark the minute you exit this large cavern, like it—this would be pitch blackness if it wasn't for your darkvision.\n\nDelwath: We can solve this easily. Not right? Then we still have some driftglobes.\n\nDM: Yeah, if you want it brighter. Faldrak also has his his, you know, flashlight staff. This is so cool we can all see in the dark now, but you can all see in the dark now.\n\nDM: So you begin to row. You begin to steer, and and you you you know you have this. This memory echo in your mind of the passages, and where the rapids come from—from the from your time inside the head of the bat. And so you're prepared when you hit this patch where the boat begins to pick up speed. Starts pretty easy to navigate but quickly as it as the tunnel begins to curve slightly, make a guess this would be dexterity plus proficiency, because you're proficient in boat handling."
+        },
+        {
+          "startUid": "u0718",
+          "endUid": "u0731",
+          "quote": "Get past this this one rapid stretch."
+        },
+        {
+          "startUid": "u0738",
+          "endUid": "u0743",
+          "quote": "You are now all sitting in a stopped, anchored boat."
+        }
+      ],
+      "from": "p06",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "boat",
+      "vehicle": "p23",
+      "distance": {
+        "min": 500,
+        "max": 1000,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "foot",
+        "precision": "approximate",
+        "basis": "DM’s approximate distance traveled before the calm patch."
+      },
+      "locationContext": [
+        {
+          "subject": "p23",
+          "relation": "in",
+          "target": "p08"
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "observation",
+      "source": {
+        "startUid": "u0779",
+        "endUid": "u0815"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "The summoned moth scouts the waterfall and returns with limited answers about the drop and the calm water below.",
+      "evidence": [
+        {
+          "startUid": "u0779",
+          "endUid": "u0787",
+          "quote": "No, it has darkvision. It doesn't matter, so I'll I'll I'll Delwath will raise this, you know, bring his hands up, and like a little sort of ghostly moth, but you know, like big, pretty wings, like mothy kind of appear, and it'll flutter down like whisper to it. It'll flutter off. I'm just asking it. I'm asking it to go down until the water goes over the cliff right, then go down the waterfall a little bit to the bottom. And then come back."
+        },
+        {
+          "startUid": "u0788",
+          "endUid": "u0815",
+          "quote": "Okay. Flies away downstream. This fluttering moth comes back maybe 15 min later. Doesn't really have a clear way to communicate with you, correct?\n\nDelwath: I mean. It's not like the sense I've always assumed. You could ask it like a couple of questions—understand the languages you speak, and it can sort of—\n\nDM: But you can't see through its senses?\n\nSeeker: No, it's it's like, yes or no questions. Basically. Yeah, yeah.\n\nDelwath: Like—\n\nDelwath: You know, how was was it a far drop, you know, is it a straight drop?\n\nDM: Mostly. Yes.\n\nUnknown: And—\n\nSeeker: Addressed.\n\nDelwath: Let's see, what would a moth understand in terms of distance? Was it a very—was the fall— Did it take a long time? Did it take minutes to get to the bottom?\n\nDM: No.\n\nDelwath: Yeah. I think we can do it. Yeah. Okay.\n\nUnknown: Was there any danger? Did you sense any danger?\n\nDelwath: There anything that scared you down there?\n\nDM: No.\n\nSeeker: Thing that ate moths was down.\n\nWellby: Feeling calm at the bottom?\n\nDM: Mostly."
+        }
+      ],
+      "place": "p12",
+      "mode": "remote",
+      "observerPlace": "p08",
+      "note": "Delwath questions the returning moth; he does not see through its senses."
+    },
+    {
+      "id": "l15",
+      "type": "observation",
+      "source": {
+        "startUid": "u0859",
+        "endUid": "u0867"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "A westward opening at the waterfall lip becomes visible as the boat approaches; the attempted turn does not reach it.",
+      "evidence": [
+        {
+          "startUid": "u0859",
+          "endUid": "u0867",
+          "quote": "It takes about 10 min for the boat to—you know, for you to navigate the boat through this tunnel, and and you now see, as you're approaching the waterfall, the current picks up again, and you can hear this roar in the distance, and there are—you're sort of what you're preparing yourself. You're getting ready to just like shoot over the edge right? As you're like speeding by, you see that there's like a landing spot on the—there's like a big open area on the top of the waterfall like a tunnel that goes off to the west.\n\nWellby: I'm gonna make a hard, hard turn and landing and immovable rod."
+        },
+        {
+          "startUid": "u0887",
+          "endUid": "u0895",
+          "quote": "you just click it like a second after the boat shoots over the edge."
+        }
+      ],
+      "place": "p14",
+      "mode": "local",
+      "observerPlace": "p08"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u0887",
+        "endUid": "u0941"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath"
+      ],
+      "reading": "The boat goes over the waterfall; Kenzo refolds and reopens it, and he and Delwath land aboard in the lake chamber.",
+      "evidence": [
+        {
+          "startUid": "u0887",
+          "endUid": "u0912",
+          "quote": "So you're you're like you know, you're you see this sort of open area to the left, just as you're speeding up to shoot over the waterfall. And Wellby like jams the oar into the into the water and tries to turn the boat and clicks—the tries to click the immovable rod basically to just stop you suddenly. But as you're trying to do all this at once, you just click it like a second after the boat shoots over the edge. So now the boat is falling. Wellby’s hanging in the air like this, and everybody else is falling with the boat. But Wellby is just hanging here. Yeah, you can still featherfall. Acrobatics check for folding the boat.\n\nKenzo: Well, I'm nervous now. Nice. 25.\n\nDM: Okay, so undeterred by Wellby's like sudden change of the plans, you as as you fall you see the boat, and you just reach that—you shout the command word. Wellby is still hanging up there in the sky. You reach down, shout the command word, and as the boat is folding up, you grab it and toss it. Trying to like aim to to shout the command word again, so that it will land properly. Make a make a dexterity check.\n\nKenzo: 21.\n\nDM: Okay, not a save, but a check, but it's it doesn't matter. That would be like a 16 or something. So you aim it perfectly, and you shout the command word, and you, and the boat like opens up right at your feet, while Wellby, of course, still hanging in the sky on the rod. Everybody else trying to now aim to land on the boat beneath your feet. Everybody make an acrobatics check, including Faldrak. Yup. This might go poorly. He does have a minus one to acrobatics. Yeah. Wait. Where did Faldrak’s Excel go? Oops. Okay. He rolled a one."
+        },
+        {
+          "startUid": "u0924",
+          "endUid": "u0941",
+          "quote": "Delwath, and and Kenzo more or less gracefully—well, Kenzo incredibly, gracefully, Delwath slightly less gracefully, land, feather falling onto the surface of the folding boat"
+        }
+      ],
+      "from": "p08",
+      "to": "p23",
+      "completion": "arrived",
+      "mode": "feather fall",
+      "vehicle": "p23",
+      "locationContext": [
+        {
+          "subject": "p23",
+          "relation": "in",
+          "target": "p12"
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u0887",
+        "endUid": "u0941"
+      },
+      "actors": [
+        "Seeker",
+        "Faldrak"
+      ],
+      "reading": "Seeker and Faldrak miss the boat and feather-fall into the water below the waterfall.",
+      "evidence": [
+        {
+          "startUid": "u0914",
+          "endUid": "u0941",
+          "quote": "The plop as the 2 dwarves go in the lake."
+        }
+      ],
+      "from": "p08",
+      "to": "p25",
+      "completion": "arrived",
+      "mode": "feather fall"
+    },
+    {
+      "id": "l18",
+      "type": "presence",
+      "source": {
+        "startUid": "u0924",
+        "endUid": "u0941"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby remains suspended from the Immovable Rod roughly fifty feet above the lake.",
+      "evidence": [
+        {
+          "startUid": "u0924",
+          "endUid": "u0941",
+          "quote": "Wellby's hanging 50 feet in the air above this lake"
+        }
+      ],
+      "place": "p26",
+      "note": "He has not landed in the water or joined Kenzo and Delwath aboard the boat."
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u1170",
+        "endUid": "u1175"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby flies to the lake’s western shore before firing at the sparks.",
+      "evidence": [
+        {
+          "startUid": "u1170",
+          "endUid": "u1175",
+          "quote": "Alright, I'm gonna fly over to shore and shoot. This is shore, right?\n\nDM: Yeah, that's shore.\n\nWellby: And actually, I'm gonna put myself like there. And now am I gonna do myself here? And no, I keep waffling. I'm putting myself there once and for all. And I'm shooting at the the minions, the row of minions that are there."
+        }
+      ],
+      "from": "p26",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u1239",
+        "endUid": "u1287"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Released forty feet underwater when the elemental is banished, Seeker uses Dimension Door to reach shore.",
+      "evidence": [
+        {
+          "startUid": "u1244",
+          "endUid": "u1244",
+          "quote": "So I'm suddenly released. But I'm deep underwater.\n\nDM: You are 40 feet underwater, and you are suddenly released."
+        },
+        {
+          "startUid": "u1283",
+          "endUid": "u1287",
+          "quote": "I will cast dimension door. Oh, you know what wait, is Faldrak— Hold on! All done.\n\nDelwath: Is Faldrak—he's not really fighting right? He's just swimming there.\n\nDM: He hasn't even had a turn yet. He's he's got these 3.\n\nDelwath: Never mind, I can't. I can't. Never mind, never mind, I can't. I forgot he can't cast 2 leveled spells.\n\nSeeker: So you we don't actually see Seeker surface at all. He just pops out of the water over here on the shore. Yeah, just a straight line over there."
+        }
+      ],
+      "from": "p25",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "Dimension Door",
+      "note": "The narrated ladder ascent is replaced by this accepted escape; no ladder rescue is recorded as completed."
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u1288",
+        "endUid": "u1307"
+      },
+      "actors": [
+        "Faldrak"
+      ],
+      "reading": "Faldrak teleports out of the water and steps onto land; the initial boat destination is corrected.",
+      "evidence": [
+        {
+          "startUid": "u1288",
+          "endUid": "u1294",
+          "quote": "Faldrak is like treading water on the surface of of the of the water. And looks like he's kind of—he almost looks like he's enjoying himself a little bit. Let's see how far is the way, and he pauses for a moment, and you can see he grabs—he like grabs one of the little glittering beads in his beard, and he like, holds it up and gives it a little kiss, and he vanishes and reappears on the boat."
+        },
+        {
+          "startUid": "u1297",
+          "endUid": "u1302",
+          "quote": "He reappears right there and then he like steps on to land"
+        }
+      ],
+      "from": "p25",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "Fey Step"
+    },
+    {
+      "id": "l22",
+      "type": "presence",
+      "source": {
+        "startUid": "u1468",
+        "endUid": "u1499"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After the elementals are defeated, the expedition regroups with the boat on the western shore.",
+      "evidence": [
+        {
+          "startUid": "u1468",
+          "endUid": "u1471",
+          "quote": "Faldrak will again take—between Faldrak, Kenzo and and Wellby, these 2 die quickly, and you are able to scramble back onto the boat, and I presume, drag it to shore.\n\nSeeker: Yeah, yeah."
+        },
+        {
+          "startUid": "u1485",
+          "endUid": "u1499",
+          "quote": "you find yourself now standing on the shore of this cave."
+        }
+      ],
+      "place": "p13"
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u1525",
+        "endUid": "u1530"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby flies up to retrieve the suspended rod and returns down to the shore.",
+      "evidence": [
+        {
+          "startUid": "u1525",
+          "endUid": "u1530",
+          "quote": "We got a we got a real quick go grab the rod.\n\nSeeker: Oh. How are we gonna get that—floating up there, isn't it? Looks up. Oh, yeah, hmm! That's pretty far away, isn't it?\n\nWellby: I'll fly over there. So yeah. Wings sprout from the back, right, flap up and grab the rod and fly back down again."
+        }
+      ],
+      "from": "p13",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Fly above the lake to retrieve the Immovable Rod, then return.",
+          "place": "p12"
+        }
+      ]
+    },
+    {
+      "id": "l24",
+      "type": "observation",
+      "source": {
+        "startUid": "u1555",
+        "endUid": "u1583"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the approach arch, the party sees the colonnaded hall and stone-covered door before entering.",
+      "evidence": [
+        {
+          "startUid": "u1555",
+          "endUid": "u1564",
+          "quote": "So as you begin to approach this entrance arch, as you get closer you can see in this leads into—there's like a short hallway passageway, and then there's the another larger room. A sort of wide hall that you can't see all of until you like pass through the arch and and look around. All kind of carved out of the rock, you know. Rough, rough-hewn, this isn't—this doesn't seem to be. It's not like really elaborate underground, dwarven architecture as you get closer. And as you get closer you can hear this almost kind of weird, discordant, like very deep, low hum from the next room."
+        },
+        {
+          "startUid": "u1565",
+          "endUid": "u1576",
+          "quote": "this next room that you haven't entered yet, but you're staring at."
+        }
+      ],
+      "place": "p15",
+      "mode": "local",
+      "observerPlace": "p13"
+    },
+    {
+      "id": "l25",
+      "type": "movement",
+      "source": {
+        "startUid": "u1632",
+        "endUid": "u1692"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Faldrak"
+      ],
+      "reading": "Seeker, Delwath, Kenzo and Faldrak investigate inside the colonnaded hall.",
+      "evidence": [
+        {
+          "startUid": "u1632",
+          "endUid": "u1635",
+          "quote": "Sure. So Seeker is going into the room and sort of trying to investigate the the sort of row of pillars. So.\n\nSeeker: I’ll just keep a lookout. I’ll ask Delwath to come and look at them with—"
+        },
+        {
+          "startUid": "u1642",
+          "endUid": "u1664",
+          "quote": "And I guess I'll come and look at the columns as well as I see if there's anything else interesting I can do. How tall is this? How tall are the pillars?\n\nDM: The ceiling is about 20 feet up.\n\nKenzo: Kenzo will like pick a sturdy looking pillar and slowly run up it.\n\nDM: Okay. Seeker and Delwath investigation checks.\n\nKenzo: Can I investigate as I go up the pillar?\n\nDM: Sure.\n\nKenzo: 13.\n\nDM: So. Seeker you as you—so let's see. So Delwath and Delwath and Seeker are kind of you know, looking around kind of examining these working together, you do—you do notice that a couple of things. One is that. So this kind of low, discordant hum seems to be coming from—it almost seems like it's resonating from within this sort of crust of stone that's covering everything. It almost seems like a discordant harmony coming from the stone itself, like it's vibrating very deep, almost so low you can't hear it. The stone that's grown over the pillars is very different than the pillars themselves. Pillars are—were probably carved of this limestone that's here. But they were clearly worked, right? They were carved. Looking more closely now, you know, this looks like Drankorian architectural styles.\n\nKenzo: Oh, shit! That's what we expected."
+        },
+        {
+          "startUid": "u1675",
+          "endUid": "u1681",
+          "quote": "now, standing in the middle of the room"
+        },
+        {
+          "startUid": "u1689",
+          "endUid": "u1692",
+          "quote": "Elemental stuff. And so what's Faldrak doing?\n\nDM: He's kind of poking around sort of like, you know, investigating things a little bit sort of you know, tapping away slightly."
+        }
+      ],
+      "from": "p13",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l26",
+      "type": "movement",
+      "source": {
+        "startUid": "u1752",
+        "endUid": "u1820"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby investigates the upper waterfall opening and winding passages behind it, then returns into the colonnaded hall as Faldrak casts Shatter.",
+      "evidence": [
+        {
+          "startUid": "u1752",
+          "endUid": "u1754",
+          "quote": "Wellby, Wellby flies off to go investigate the top of the waterfall. While he's doing that, what the rest of you are standing around doing any additional exploration?"
+        },
+        {
+          "startUid": "u1761",
+          "endUid": "u1792",
+          "quote": "Over time Wellby flies up to the top of the waterfall. So this this landing area? It's not really a not really like a polished landing area. Right? It's not. There's no dock or anything. Right now that you're not moving quickly in a boat down a river, you can see that this is really basically just a side corridor that that turns off and you—so you you follow the corridor. So it winds. It actually winds around slightly, and it comes out. There's like a park where it comes out and you can see—well, you can't. Yeah, I guess you can see it's it begins to wind. You know, initially due west, like straight into the wall, and then turns and begins to descend. And it comes. And it turns 180 degrees. So it's going now east as it descends. And you see now, actually, as it's descending, it actually passes behind the waterfall.\n\nWellby: Okay.\n\nDM: You can see out like from the waterfall to the lake. Continues to go down, and then and then turns again. And begins to open up into a sort of wider space. You figure now you must be close to the level of the lake. But there's like, but the wall that's on your left would be the wall that was on the right of the lake, right? So like the yeah western wall of the chamber that's sort of opening up here is close to the eastern wall of the lake, so the opposite side of the lake from the from the that from the room that you're in.\n\nWellby: Okay.\n\nDM: And it opens into. So you've been going now, maybe about 10 min. It sort of opens into a a decently sized chamber with 2 exits. One that conceivably is heading sort of towards the lake, and one that's heading away from the lake."
+        },
+        {
+          "startUid": "u1803",
+          "endUid": "u1820",
+          "quote": "I'll go the other way. I don't like this. I'm freaking myself out here.\n\nSeeker: Hmm!\n\nDM: You go. You go back. You go the other direction. Okay.\n\nDM: That continues turning roughly south for maybe 5 min, until it comes to a a branch left or right.\n\nUnknown: Right.\n\nDM: That begins to spiral downward and slightly east.\n\nWellby: Now I'm just heading back. I don't think this goes anywhere. I'll I'll go like 2 min down the left.\n\nDM: Down to the left, begins to rise slightly and and turn sort of roughly south—sorry, roughly north, west. And begins to rise a little bit more and continue roughly straight now almost due west.\n\nWellby: No, I'm just gonna head back.\n\nDM: Okay. Retrace your footsteps. Fly back down."
+        },
+        {
+          "startUid": "u2010",
+          "endUid": "u2012",
+          "quote": "I like to think that right in the split second, as he's casting that Wellby comes back into the room again.\n\nSeeker: Yes. Yeah, we can. We can actually."
+        },
+        {
+          "startUid": "u2030",
+          "endUid": "u2034",
+          "quote": "just at this moment, when Wellby arrives"
+        }
+      ],
+      "from": null,
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "fly and walk",
+      "route": [
+        {
+          "reading": "Reach the upper opening and follow its corridor behind the waterfall.",
+          "place": "p14"
+        },
+        {
+          "reading": "Explore a two-exit chamber, withdraw from the damp lakeward passage, inspect the southern route and its left branch, then retrace the route.",
+          "place": "p16"
+        }
+      ],
+      "note": "The passages do not establish an alternate connection to the sealed hall. Other characters remain at the stone door."
+    },
+    {
+      "id": "l27",
+      "type": "movement",
+      "source": {
+        "startUid": "u2078",
+        "endUid": "u2090"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Everyone flies over the mud through the opened stone door into the worked hallway, where an upthrust stone wedge divides the way.",
+      "evidence": [
+        {
+          "startUid": "u2078",
+          "endUid": "u2085",
+          "quote": "you all fly across the mud into the door, into a tunnel."
+        },
+        {
+          "startUid": "u2086",
+          "endUid": "u2090",
+          "quote": "But after you go maybe 15 feet you can see that there's like it almost jutting up from the floor and then blocking the—splitting the 20 foot wide corridor into 2 narrower 10 foot wide corridors is this giant like prow of stone that's just plowed up through the floor and continued, it's not like just a barrier. It’s like it actually splits the corridor in 2, so left or right?"
+        }
+      ],
+      "from": "p15",
+      "to": "p17",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l28",
+      "type": "movement",
+      "source": {
+        "startUid": "u2103",
+        "endUid": "u2159"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby scouts the left corridor alone, bargains with the wind, resists the mist, and reaches the warded iron door.",
+      "evidence": [
+        {
+          "startUid": "u2103",
+          "endUid": "u2122",
+          "quote": "Alright. I can scout that out.\n\nDM: You go ahead.\n\nWellby: Yeah.\n\nKenzo: You're just gonna barrel forward?\n\nWellby: I'm not gonna barrel. I'm gonna I'm gonna proceed cautiously and attentively on the alert for attacks and traps and things like that—\n\nDM: So as you walk you you begin to hear like a whispering wind, growing louder and louder, seeming to surround you. It's—you have no idea where it's coming from. It's not—it's not like there's an opening anywhere. And it's not like the wind is blowing down the corridor or something. It's just—it's just seem feels like there's this swirling energy around you, and it's it's not quiet, it's chattering, it's hissing. At times it's whispering. It's almost as if you can hear, like little fragments of all of the sort of voices on the winds, the news the winds carry across the world, the fragments of tales of freedom and wildness and unbridled adventure that blow across the world on the winds. And they're sort of clustering around you. Wellby as you walk forward there, you can almost hear them whispering greedily like can almost imagine, there's voices: \"Feed us. We ache. Give us a new tale. Give us a new voyage. Give us a new taste of freedom.\" Getting louder and more insistent whether you go forward or back. They seem to have latched onto you."
+        },
+        {
+          "startUid": "u2138",
+          "endUid": "u2155",
+          "quote": "You continue walking down this corridor. And you can see in the distance, like edge of your darkvision, you've gone. You've gone maybe 50 feet. About another 50 feet ahead you can see what looks like a iron door faintly glowing with magical runes carved into it. But between you and the iron door there are mist, and air and swirling fogs that are blowing and almost dancing on the air, obscuring your vision. You! You watch it for a moment, make a charisma saving throw.\n\nWellby: Yeah. Charisma. Huh? Oh, oh!\n\nDM: And you you see, its beauty, and you feel it pulling you in trying to draw you into this dance of the mists, and you resist you—you shake your head, you tell yourself it's just air and water and clouds blowing. It's not anything special. And as you step forward, the mists and fog sort of shrink away from you. And you can see this door.\n\nDM: An iron door with number of sort of pulsating runes. Some kind of magical protection, magical barriers, magical... They don't feel like traps to you. But what do you really know?"
+        },
+        {
+          "startUid": "u2156",
+          "endUid": "u2159",
+          "quote": "Can we read the runes?\n\nDM: Well, you're not there. Just Wellby is there.\n\nUnknown: How far ahead?\n\nDM: Like a hundred feet."
+        }
+      ],
+      "from": "p17",
+      "to": "p19",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Pass through the whispering wind and dancing mist.",
+          "place": "p18"
+        }
+      ],
+      "note": "At u2157 the DM explicitly states that only Wellby is at the door."
+    },
+    {
+      "id": "l29",
+      "type": "movement",
+      "source": {
+        "startUid": "u2160",
+        "endUid": "u2236"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Faldrak"
+      ],
+      "reading": "Warned by Wellby, Kenzo, Delwath and Faldrak pass the wind and mist toward the iron doorway; Seeker is held in the mist behind them.",
+      "evidence": [
+        {
+          "startUid": "u2160",
+          "endUid": "u2171",
+          "quote": "I'll relay back to them what to expect going down the hall, and how to negotiate with the greedy wind spirits, and to watch out for the dancing lights.\n\nDM: So everybody proceeds. So as you all begin to walk these again as as Wellby has, warned you, this wind begins to blow. Asking for a tale, a story, a—becoming more insistent in demanding, asking, for you know, a a tale of a voyage, a tale of a of a adventure. And and again you hear these like fragments of different languages, fragments of different tales all swirling around you, so what tale do each of you tell?"
+        },
+        {
+          "startUid": "u2199",
+          "endUid": "u2205",
+          "quote": "They they accept that, let you pass. As Faldrak approaches, You notice that he is not—his feet have not touched the ground. And he tells them the story of the first time he flew when he launched himself over some treacherous mud and flew past the magic door, and he does a little somersault in the air. And he like clicks his legs, and he says, \"And I—and flew down a corridor, and met this fascinating wind that I could tell about the magical experience of my knee not hurting as I danced down this stone passageway.\" And he clicks his heels together and does a little like twirl in the air as he continues to fly down the passageway."
+        },
+        {
+          "startUid": "u2220",
+          "endUid": "u2236",
+          "quote": "Everybody except Seeker passes through this mist and fog."
+        }
+      ],
+      "from": "p17",
+      "to": "p19",
+      "completion": "arrived",
+      "mode": "walk and fly",
+      "route": [
+        {
+          "reading": "Negotiate with the wind and pass the mist after Wellby’s warning.",
+          "place": "p18"
+        }
+      ]
+    },
+    {
+      "id": "l30",
+      "type": "presence",
+      "source": {
+        "startUid": "u2229",
+        "endUid": "u2246"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker stops in the mist corridor, fascinated by its colors, while the others pass through.",
+      "evidence": [
+        {
+          "startUid": "u2229",
+          "endUid": "u2236",
+          "quote": "the rest of you sees Seeker just stop and stare at the wall of the cavern."
+        },
+        {
+          "startUid": "u2242",
+          "endUid": "u2242",
+          "quote": "You guys go ahead."
+        }
+      ],
+      "place": "p18"
+    },
+    {
+      "id": "l31",
+      "type": "movement",
+      "source": {
+        "startUid": "u2247",
+        "endUid": "u2296"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker"
+      ],
+      "reading": "Kenzo goes to Seeker in the mist and repeatedly attempts cleansing; once the charm ends, they reach the warded door.",
+      "evidence": [
+        {
+          "startUid": "u2247",
+          "endUid": "u2251",
+          "quote": "Am I? Yeah, I? I cleansing touch.\n\nDM: Yeah, he's charmed. So you walk up to Seeker and Seeker, you see, Kenzo sort of walking up to you with like, you know, holding his hand out like preparing to touch you seems very distracting, like why would he be trying to like—the cut—as soon as he approaches like this color like that. You were just trying to describe what it was. It was like some weird combination of 4 different colors, and the word for it was just on the tip of your tongue, and it like vanishes in a flash as Kenzo steps close to—"
+        },
+        {
+          "startUid": "u2288",
+          "endUid": "u2296",
+          "quote": "I got.\n\nDM: So finally, Kenzo like—and suddenly, like this whole illusion falls from your mind Seeker, and you can see like it's just mist. There was nothing there. There's just this slight echo of like: was that what the plane of air is really like?\n\nSeeker: Every colors? Wow!\n\nDM: And you walk forward to the door. Seeker, you rec—you actually recognize like these runes are obvious. These are wards against elemental magic."
+        }
+      ],
+      "from": "p18",
+      "to": "p19",
+      "completion": "arrived",
+      "note": "Kenzo’s return from the doorway to touch Seeker is part of the rescue, not proof that Seeker had previously passed the mist."
+    },
+    {
+      "id": "l32",
+      "type": "movement",
+      "source": {
+        "startUid": "u2304",
+        "endUid": "u2317"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party opens the unlocked iron door and enters the ancient illuminated antechamber, where the greeting appears.",
+      "evidence": [
+        {
+          "startUid": "u2304",
+          "endUid": "u2311",
+          "quote": "Can we open the door?\n\nDM: It's not locked.\n\nKenzo: What's on the other side?\n\nDM: So you push the door open and you step through, and you see a dusty, ancient chamber, lit by 4 large permanent magical lights. Rusting iron hooks on the wall perhaps once held tapestries or other wall hangings long since rotted away. There's 3 doors. There's a large bronze door straight ahead of you, through which a faint reddish glow can be seen, carved with these same kinds of warding runes of control, to keep elemental chaos at bay. To your right a reinforced wooden door, now dried and mostly rotted away, through which a small complex of living quarters and a storeroom can be seen. And to the left an intact stone door unlocked but closed."
+        },
+        {
+          "startUid": "u2312",
+          "endUid": "u2317",
+          "quote": "And as you as you step into this this small antechamber—stepping through the wall is a woman, maybe 60 or so, elegantly dressed in silk robes, with graying hair cut short, green eyes, and a sharp and angular face marked by like an old burn running from her left eye to her jaw line.\n\nDM: She bowed slightly and speaks before you can say anything. Kenzo, you recognize this as Drankorian. Translated: \"Greetings, visitors. I hope your journey was not too difficult. I look forward to consulting with you on your needs, but sadly I am indisposed at the moment. Until I return, my servant Claudio will tend to your needs. Please be comfortable, and I will be with you shortly.\" And as she finishes speaking she gives a slight bow. And then."
+        }
+      ],
+      "from": "p19",
+      "to": "p20",
+      "completion": "arrived",
+      "mode": "walk"
+    }
+  ]
+}

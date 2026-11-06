@@ -1,0 +1,94 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-085",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-085/cleaned/dunmari-frontier-085-session.yaml",
+    "sessionYamlSha256": "5c5e8e092b40174e27ac73ac7a29d5756eb7477d8e1a4ea23dc654329d7fd4ea",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-085/cleaned/dunmari-frontier-085-transcript.md",
+    "transcriptSha256": "71308c0fa2f8022d0c36d979c3cbf0fc43116b6884a0c240870127013c3de76c"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0078"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0079",
+        "endUid": "u0081"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0082",
+        "endUid": "u0087"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0088",
+        "endUid": "u0109"
+      },
+      "category": "meta_discussion",
+      "note": "Crew recruitment and labor planning dominate this mixed discussion; the shared u0103 group also includes a proposed retrospective farewell."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0110",
+        "endUid": "u0824"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0825",
+        "endUid": "u0836"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0837",
+        "endUid": "u0923"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0924",
+        "endUid": "u1471"
+      },
+      "category": "combat",
+      "note": "Initiative begins in the shared u0924–u0941 group. The map preparation, break, rules discussion, and compressed cleanup remain in the continuous encounter."
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1472",
+        "endUid": "u2320"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2321",
+        "endUid": "u2325"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
