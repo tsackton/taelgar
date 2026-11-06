@@ -1,0 +1,233 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-113",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-113/cleaned/dunmari-frontier-113-session.yaml",
+    "sessionYamlSha256": "7f0675b3337706cc595ba823533a1a7881ad763ad216b642608ae6d81fe99137",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-113/cleaned/dunmari-frontier-113-transcript.md",
+    "transcriptSha256": "e6ba63fd5743e24bca72a00fa6b48c789049d20b5b0055cd9c00d422f8d24539",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-113/cleaned/dunmari-frontier-113-segments.json",
+      "sha256": "dda86fbaf10a6c0edca76331f477553400c370ef2a2a3e14341daa2d35269fd0",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s009",
+      "encounter": "Shades and dreadlord in Valanthe’s courtyard",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "After swapping initiative with Kenzo to act first, uses Turn Undead against all undead within 30 feet (Wisdom DC 18; failed saves take 5d8 radiant and turn/frighten and incapacitate them). About 20 shades are destroyed; 10 remain outside range. The armored dreadlord resists; her two wraith lieutenants fail, take damage and flee. No radiant damage total is stated.",
+              "evidence": [
+                {
+                  "startUid": "u2198",
+                  "endUid": "u2261"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Soul Sight reveals the dreadlord’s elemental resistances (acid, cold, fire, lightning and thunder) and immunity to charmed, exhausted, grappled, paralyzed, petrified, poisoned, prone and restrained, but not frightened or stunned. Rushes into melee: hits for 15 and 13, misses one unarmed strike, then hits for 10 and 10. The dreadlord succeeds on the DC 16 Constitution save against Stunning Strike with 19.",
+              "evidence": [
+                {
+                  "startUid": "u2264",
+                  "endUid": "u2282"
+                }
+              ]
+            },
+            {
+              "actor": "Dreadlord",
+              "kind": "event",
+              "summary": "Exhales red mist when Kenzo lands his final hit; Kenzo succeeds on a Constitution save with 22 and is not poisoned. His poison resistance is also acknowledged.",
+              "evidence": [
+                {
+                  "startUid": "u2283",
+                  "endUid": "u2290"
+                }
+              ]
+            },
+            {
+              "actor": "Ten shades",
+              "kind": "turn",
+              "summary": "Close around Kenzo and attack with grasping hands; 18 misses his AC 19.",
+              "evidence": [
+                {
+                  "startUid": "u2291",
+                  "endUid": "u2295"
+                },
+                {
+                  "startUid": "u2296",
+                  "endUid": "u2301"
+                }
+              ]
+            },
+            {
+              "actor": "Dreadlord",
+              "kind": "turn",
+              "summary": "Creates a 20-foot-radius sphere of spectral arms around Delwath and Wellby, calling for Dexterity saves against DC 17. Delwath fails and is restrained; Wellby succeeds with 22 and is not restrained. Moves out of Kenzo’s reach, provoking his opportunity attack, then fires two energy blasts with advantage at restrained Delwath. The first attack is corrected to 25 and is stopped by Shield; the second, 26, hits for 15 necrotic damage.",
+              "evidence": [
+                {
+                  "startUid": "u2296",
+                  "endUid": "u2311"
+                },
+                {
+                  "startUid": "u2314",
+                  "endUid": "u2322"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Hits the departing dreadlord with an opportunity attack (29) for 15 damage, before her two blasts at Delwath.",
+              "evidence": [
+                {
+                  "startUid": "u2308",
+                  "endUid": "u2313"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Casts Shield against the dreadlord’s first blast; the second blast still hits.",
+              "evidence": [
+                {
+                  "startUid": "u2314",
+                  "endUid": "u2322"
+                }
+              ],
+              "note": "The table proceeds from Shield to the second blast hitting; the first blast’s miss is implicit in that adjudication."
+            },
+            {
+              "actor": "Two wraiths",
+              "kind": "turn",
+              "summary": "Continue fleeing and huddle against the wall as far from Riswynn as possible. The table rules that they receive no new save unless damaged.",
+              "evidence": [
+                {
+                  "startUid": "u2319",
+                  "endUid": "u2326"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Withdraws Lightning Arrow because it was used earlier today. Instead uses Steady Aim and shoots through the minions for 35 damage, destroying four shades and leaving six.",
+              "evidence": [
+                {
+                  "startUid": "u2328",
+                  "endUid": "u2346"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "While restrained, casts Sickening Radiance over the dreadlord and six remaining minions in a 30-foot-radius sphere; the two fleeing wraiths are outside it. Uses Careful Spell to protect Kenzo and Riswynn, with capacity for five creatures. Its damage waits until targets’ turns. The DM also clarifies the enemies’ necrotic immunity.",
+              "evidence": [
+                {
+                  "startUid": "u2347",
+                  "endUid": "u2374"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Approaches and hits the dreadlord with Shatterstorm (20 to hit), rolling 32 damage. Thunder resistance reduces the total by an unstated amount. The dreadlord is left badly wounded and surrounded by vibrating energy that will hurt her if she moves.",
+              "evidence": [
+                {
+                  "startUid": "u2373",
+                  "endUid": "u2385"
+                }
+              ]
+            },
+            {
+              "actor": "Dreadlord",
+              "kind": "event",
+              "summary": "The poison mist triggered by Riswynn’s strike is resolved retrospectively after Kenzo’s turn: Riswynn succeeds on her Constitution save and avoids poisoning; the DM specifies a normal roll rather than advantage.",
+              "evidence": [
+                {
+                  "startUid": "u2376",
+                  "endUid": "u2385"
+                },
+                {
+                  "startUid": "u2402",
+                  "endUid": "u2414"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks the dreadlord: the first attack (28) hits and the table rules her stunned after the Constitution-save exchange. Subsequent attacks have advantage, hit, and deal 13, 7, 9 and finally 15 damage; the first attack’s damage is not stated. The final strike destroys her in black smoke.",
+              "evidence": [
+                {
+                  "startUid": "u2386",
+                  "endUid": "u2407"
+                }
+              ],
+              "note": "The “14” in the Constitution-save exchange is not clearly identified as the DC or rolled total."
+            },
+            {
+              "actor": "Dreadlord",
+              "kind": "event",
+              "summary": "The mist from Kenzo’s final strike is resolved with a successful Constitution save of 21, preventing poisoning.",
+              "evidence": [
+                {
+                  "startUid": "u2402",
+                  "endUid": "u2414"
+                }
+              ]
+            },
+            {
+              "actor": "Six remaining shades",
+              "kind": "turn",
+              "summary": "At the start of their turn, fail their Sickening Radiance saves and all die before making attacks. The saving-throw ability and damage total are not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u2415",
+                  "endUid": "u2419"
+                }
+              ]
+            },
+            {
+              "actor": "Party",
+              "kind": "event",
+              "summary": "Pick off the two wraiths while they remain forced to flee; the source resolves this without individual attack rolls or further recorded turns.",
+              "evidence": [
+                {
+                  "startUid": "u2416",
+                  "endUid": "u2419"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The dreadlord and all shades are destroyed, and the two fleeing wraiths are easily eliminated. The courtyard is clear for the search for Valanthe’s token.",
+        "evidence": [
+          {
+            "startUid": "u2416",
+            "endUid": "u2419"
+          }
+        ]
+      }
+    }
+  ]
+}

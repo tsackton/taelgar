@@ -1,0 +1,654 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-113",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-113/cleaned/dunmari-frontier-113-session.yaml",
+    "sessionYamlSha256": "7f0675b3337706cc595ba823533a1a7881ad763ad216b642608ae6d81fe99137",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-113/cleaned/dunmari-frontier-113-transcript.md",
+    "transcriptSha256": "e6ba63fd5743e24bca72a00fa6b48c789049d20b5b0055cd9c00d422f8d24539",
+    "yamlDates": {
+      "start": "1749-05-22",
+      "end": "1749-05-22"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0039",
+        "endUid": "u0040"
+      },
+      "reading": "The shipboard opening is about 10 a.m., immediately after the battle.",
+      "evidence": [
+        {
+          "startUid": "u0039",
+          "endUid": "u0040",
+          "quote": "DM: It's like 10 in the morning. You have not rested since the battle."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "clock": "10:00",
+        "partOfDay": "morning",
+        "basis": "DM’s approximate clock; no absolute date supplied at this point."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0191",
+        "endUid": "u0197"
+      },
+      "reading": "The party takes an hour’s short rest while discussing the search, completed before entering the temple.",
+      "evidence": [
+        {
+          "startUid": "u0191",
+          "endUid": "u0197",
+          "quote": "DM: You can short rest now, if you'd like to—you as well.\nKenzo: I just want—I just want to get all my ki back.\nDM: Can—you wanna just take an hour to short rest while you're discussing and—\nKenzo: Yeah, while while all of this is happening, on a short rest. So what Kenzo will do is cause Kenzo has the unique— I don't even know what, advantage slash disadvantage—I actually know Apollyon. I've like stared at him, and like spent a bunch of time with Apollyon in the soul, in the plane of consciousness."
+        },
+        {
+          "startUid": "u0226",
+          "endUid": "u0226",
+          "quote": "DM: If anybody wants to use hit dice or do any other short rest stuff."
+        },
+        {
+          "startUid": "u0532",
+          "endUid": "u0534",
+          "quote": "DM: So it's close to noon. You've rested and spoke for a while. The temple's right there. You can set up your telepathy, and off the ship, go in. Any last words for Faldrak?"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "DM explicitly offers an hour and later confirms the rest was taken."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0532",
+        "endUid": "u0534"
+      },
+      "reading": "It is close to noon when the rested party prepares to leave the ship.",
+      "evidence": [
+        {
+          "startUid": "u0532",
+          "endUid": "u0534",
+          "quote": "DM: So it's close to noon. You've rested and spoke for a while. The temple's right there. You can set up your telepathy, and off the ship, go in. Any last words for Faldrak?"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "clock": "12:00",
+        "partOfDay": "noon",
+        "basis": "DM says close to noon after resting and talking."
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0658",
+        "endUid": "u0662"
+      },
+      "reading": "The temple exploration is on May 22.",
+      "evidence": [
+        {
+          "startUid": "u0658",
+          "endUid": "u0662",
+          "quote": "DM: Yeah, the last mirror vision was May 19th. So it's gonna be another— it's May 20 second now. So it would be May 26th that it recharged, if you're like halfway till it recharges. Yeah, sometimes you get lucky, and it recharges a day. No easy mirror uses right now."
+        },
+        {
+          "startUid": "u1067",
+          "endUid": "u1073",
+          "quote": "1749 years ago."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 22
+        },
+        "precision": "exact",
+        "basis": "DM independently states May 22; the year is YAML-derived, with 1749 also spoken in historical calendar discussion at u1067–u1073."
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0782",
+        "endUid": "u0791"
+      },
+      "reading": "Wellby and Kenzo spend 10–15 minutes searching the chamber and side chapels.",
+      "evidence": [
+        {
+          "startUid": "u0782",
+          "endUid": "u0791",
+          "quote": "DM: Wellby and Kenzo spend some time sort of crisscrossing the chamber, starting around the outside and and looking again in all of these— you know, these side chapels. It takes 10 or 15 min to do this. There's—there's a—I mean, there's a lot of silver here. Like there's a lot of silver work and fine marble, and you know these large sort of candle holders candlesticks, candelabra on each of the altars. There's a lot of statuary work, you know. If one wanted to loot the holy Temple of the 8 Divines, one could make off with quite a lot of treasure. But at least passing through all the side chambers, you don't—there's nothing. There's no signs of occupation. There is a faint layer of dust the further you get from the central chamber that gets sort of thicker as you get to the side chambers. It almost seems as if there's something in the altar itself that is some magic in the altar that's keeping the temple clean."
+        }
+      ],
+      "duration": {
+        "min": 10,
+        "minInclusive": true,
+        "max": 15,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s narrated completed search."
+      },
+      "actors": [
+        "Wellby",
+        "Kenzo"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0792",
+        "endUid": "u0799"
+      },
+      "reading": "A vision shifts to Rai warning Dimitaur before leaving Drankor.",
+      "evidence": [
+        {
+          "startUid": "u0792",
+          "endUid": "u0799",
+          "quote": "DM: As you sort of then cross again and circle back to the altar, for a— for a second, as you walk past the altar, you see like this weird flash of a vision, seemingly coming from Kenzo's staff. You see Rai and Dimitaur flashing back, the statue of Rai standing in front of the altar, Dimitaur flying over him, Rai made entirely of jade, like a statue, but somehow speaking, his voice echoing and sounding somewhat gravelly to Dimitaur. And for a second, you can all hear this. He seems to be telling Dimitaur,"
+        }
+      ],
+      "context": "vision",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "Rai’s departure from Drankor"
+        },
+        "precision": "approximate",
+        "basis": "Rai says he will return after departing; this is a historical vision, not elapsed current play."
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0829",
+        "endUid": "u0831"
+      },
+      "reading": "Play returns to Delwath’s current search through the temple floor.",
+      "evidence": [
+        {
+          "startUid": "u0829",
+          "endUid": "u0831",
+          "quote": "DM: Mike, where does Delwath, given the information, where does Delwath want to look with Ghostly Gaze?\nDelwath: Well, how much of the—so the altar floor, mostly the area around the altar, and then as much of the floor as I can cover."
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t03"
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0996",
+        "endUid": "u1005"
+      },
+      "reading": "A second vision shows Rai concealing the stairway and carrying the chest below.",
+      "evidence": [
+        {
+          "startUid": "u0996",
+          "endUid": "u1005",
+          "quote": "DM: So as you all—as you follow Wellby, like— despite your protestations that the back, there's nothing there, I was like, yeah. And you all just follow him, and as you do, as Kenzo reaches the back of the temple, his staff flares again, and you see another faint vision for a moment, a sort of glowing, greenish spirit version of Rai, a cord, a green cord stretching back towards the statue in the middle of the floor, working magic into the stones, weaving threads of magical energy, chanting in Elvish words about hiding and concealment. A chest floating in the air behind him as he passes through the floor. And you say, 'No worries.'"
+        }
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1007",
+        "endUid": "u1010"
+      },
+      "reading": "Current play resumes as the party descends into the crypt.",
+      "evidence": [
+        {
+          "startUid": "u1007",
+          "endUid": "u1010",
+          "quote": "DM: As you step through the floor, you come to stairs that lead down into a short passageway that becomes wider and wider as it goes, and opens into this this large central chamber that Delwath saw by glancing through the floor."
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t07"
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1181",
+        "endUid": "u1197"
+      },
+      "reading": "A vision shows Rai warding the vault passage, then shifts to the doubles fighting its guardians.",
+      "evidence": [
+        {
+          "startUid": "u1181",
+          "endUid": "u1197",
+          "quote": "DM: In—as you begin to enter the passageway that leads to the grand vault, you see another— the staff flashes again, and you see another echo of Rai, chest floating next to him, the same spiritual version of Rai. And he's he's kneeling on the floor. Clearly putting a spell on the floor. And the vision sort of cracks and shifts halfway through, and you see superimposed on this, you can see a— there's like, and an elven angel, basically, like a a— clearly an elf, but also clearly like divine, celestial somehow, mounted on a huge stag with like horns that are made of this glowing magical energy. And the the elf, who's mounted on this, has a—this spear made of wood, but also magic, and is charging on the stag at Delwath—oh— who then flashes up a shield of magic, but the spear penetrates straight through it, as the stag calls a magical shower of stars to rain down on, let's see, Seeker, who burns with radiant light as the stars sort of flash against Bizarro Seeker's skin, and then the vision fades."
+        }
+      ],
+      "context": "vision",
+      "note": "The superimposed historical scenes have no established interval between them."
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1198",
+        "endUid": "u1217"
+      },
+      "reading": "The party discusses the vision and resumes the current approach to the vault.",
+      "evidence": [
+        {
+          "startUid": "u1198",
+          "endUid": "u1217",
+          "quote": "Seeker: Or what—what was that?\nKenzo: Yes.\nRiswynn: Vision of when our Bizarro selves tried to investigate in here.\nDelwath: Yeah.\nSeeker: But what—what were we fighting?\nRiswynn: The protective spirit.\nDelwath: Right? Yeah, I think so. Right. Whatever Rai summoned.\nSeeker: But just to—to my point again, what was that?\nDM: You haven't seen anything like those creatures before, but they seem to be beings of the realm of the Elven firstborn.\nSeeker: Oh, look! Look!\nWellby: The sort of thing that an elf would say they were descended from.\nDM: Well, not the gods themselves, but like angels or elven angels.\nSeeker: Oh! Oh!\nDM: So you—\nRiswynn: So that vision was set in this room?\nDM: It was in the passageway that leads to the grand vault."
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t09"
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1220",
+        "endUid": "u1228"
+      },
+      "reading": "The next vision shows Rai hiding the chest and leaving without it.",
+      "evidence": [
+        {
+          "startUid": "u1220",
+          "endUid": "u1228",
+          "quote": "DM: Okay. So you keep walking into the grand vault. You see again, now, as you enter the grand vault, the chest floating next to Rai, the spirit Rai, and again the chest vanishes. Rai is not—\nDelwath: Yes.\nDM: Vanishes into thin air, and Rai seems to be working more magic, and then, although on what is not clear because you can't see the chest, and then floats up through the ceiling into the temple above.\nKenzo: Rai floats up through the—\nDM: Rai goes up, no chest following him."
+        }
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1234",
+        "endUid": "u1236"
+      },
+      "reading": "Current discussion resumes with the translation of Rai’s faintly heard words.",
+      "evidence": [
+        {
+          "startUid": "u1234",
+          "endUid": "u1236",
+          "quote": "DM: Naun Tarvanos.\nKenzo: Which we translate?\nDelwath: Do you need anything?\nDM: It's an Elvish place name. It means the Valley of the Hidden Forest."
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t11"
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1284",
+        "endUid": "u1297"
+      },
+      "reading": "The communication gem shows Dimitaur at a noon feast on the Circular Island.",
+      "evidence": [
+        {
+          "startUid": "u1284",
+          "endUid": "u1297",
+          "quote": "DM: You take out the gem from the—put down the portable hole, I guess, climb down, dig around, find your bag of gemstones, lift it up, hold it open and see. I think it's I think it says like the vision is projected on the the back of the chest or something like that, so you can all see. It's like, you know, noon, and you're looking out what seems to be something of a feast. Dimitaur's got a whole like—is—the throne is set up like along the coast, like in one of these, in the ruined town, not where the the black dragon's lair was. Somehow they figured out how to move it with, you know, several 100 dragonets, and there's a long table that's set, and there's like fish and like all sorts of of stuff piled onto the table. And Dimitaur is in the middle of like raising a glass to a toast to the new and improved rulers of the circular island. 'Drink to yourselves, friends.' And then he's like, 'Oh, wait!' He turns and stares at the gem. 'Who's there?' Anybody?"
+        }
+      ],
+      "actors": [
+        "Dimitaur"
+      ],
+      "time": {
+        "precision": "approximate",
+        "clock": "12:00",
+        "partOfDay": "noon",
+        "basis": "DM’s clock describes the remotely seen feast; no synchronization with the party’s clock is stated."
+      }
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1460",
+        "endUid": "u1461"
+      },
+      "reading": "The party has spent about half an hour or a little longer in the grand vault by the chest’s discovery.",
+      "evidence": [
+        {
+          "startUid": "u1460",
+          "endUid": "u1461",
+          "quote": "DM: So Delwath, the rest of you are kind of standing around talking. Delwath is pacing around. After about 5 min, 10, maybe a little more, so you've been in here like maybe half an hour, maybe a little longer than half an hour by now, you stub your toe—"
+        }
+      ],
+      "duration": {
+        "text": "about half an hour, perhaps a little longer",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM’s cumulative time in the vault, including the conversation and Delwath’s roughly 5–10 minute search."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u1627",
+        "endUid": "u1630"
+      },
+      "reading": "Studying the dagger and research notes takes 3–4 hours with Seeker and Kenzo’s help.",
+      "evidence": [
+        {
+          "startUid": "u1627",
+          "endUid": "u1630",
+          "quote": "DM: No, should have been. And you can—and you— actually maybe not all humans. A couple of them, there was like mixed species, but all Drankorians, all lived in the city, all, you know, were brought—were were brought, usually on trumped-up charges of some crime, to be punished, and then were taken to the island and sacrificed by Apollyon. And as—as you sort of begin to—it's like 3, 4 h now that it's—that it's taking. So anybody who wants to can take a short rest. It's like probably— No."
+        }
+      ],
+      "duration": {
+        "min": 3,
+        "minInclusive": true,
+        "max": 4,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM narrates actual study after the earlier 1–3 hour forecast."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u1633",
+        "endUid": "u1635"
+      },
+      "reading": "Riswynn sends to Faldrak during the study, around mid-afternoon.",
+      "evidence": [
+        {
+          "startUid": "u1633",
+          "endUid": "u1635",
+          "quote": "DM: Okay, so let's—let me—sorry, I just need to make a note here. So— so while—while you guys are all studying this, right, like, you know, maybe mid-afternoon. What do you want to send to Fausto? Just—or Faldrak? Just how's it going?"
+        }
+      ],
+      "actors": [
+        "Riswynn"
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "mid-afternoon",
+        "basis": "DM explicitly places the Sending while the others study."
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t16"
+        }
+      ]
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u1648",
+        "endUid": "u1652"
+      },
+      "reading": "The weakness in the phylactery is discovered late in the afternoon.",
+      "evidence": [
+        {
+          "startUid": "u1648",
+          "endUid": "u1652",
+          "quote": "DM: And there's actually some notes about this, because Apollyon was concerned about destroying, you know. Could the phylactery even be destroyed? And he seemed to think it was basically indestructible, except there's 1 sort of like hidden, hidden passage that you discover like late in the afternoon, as the sun's getting low in the sky, that describes one— one possible weakness of the phylactery."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "late afternoon",
+        "basis": "DM describes the sun getting low during discovery."
+      }
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u1729",
+        "endUid": "u1730"
+      },
+      "reading": "The following decision to search outside is placed at about 3:30 p.m.",
+      "evidence": [
+        {
+          "startUid": "u1729",
+          "endUid": "u1730",
+          "quote": "DM: Okay. So somebody's staying here. It's now about like 3 or 4, like say 3, 30 in the afternoon. So who's going outside? Who's—who's doing what? Let's get some action going."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "clock": "15:30",
+        "partOfDay": "afternoon",
+        "basis": "DM narrows about three or four to about three thirty."
+      }
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u1756",
+        "endUid": "u1769"
+      },
+      "reading": "Wellby and companions spend approximately 30–45 minutes finding and searching the temple records.",
+      "evidence": [
+        {
+          "startUid": "u1756",
+          "endUid": "u1757",
+          "quote": "DM: You spend an hour search, maybe— actually, go ahead and roll investigation, just to get a sense of how long you spend searching."
+        },
+        {
+          "startUid": "u1761",
+          "endUid": "u1769",
+          "quote": "DM: You you spend, I don't know, 45 min poking around, 30 min. And you do find that like the—there's a— what's basically a hall of records. It's got—it's actually got a—it's a large archive. It's got, you know, a bunch of of information. It's got records of of who's buried, but it also has just like a whole host of like temple records, you know, things like marriages, and there's no tradition of like baptism or anything, so there's not birth records, but there are death records. There's marriages, there's like, you know, some other, just other details about, you know the people who not everybody in Drankor—I mean, Drankor was a huge city, right? Like not everybody in Drankor would have been associated with this particular temple, despite it being the largest and most famous, right? But you do definitely, you know, you are able to find for sure, collate 4 of the people that you have names for. So 3—and I really should have made up some names, but I didn't, so feel free to invent your own names in your heads."
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "companions not individually identified"
+      ],
+      "duration": {
+        "min": 30,
+        "minInclusive": true,
+        "max": 45,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated 45/30 minute estimate supersedes the initial hour proposal after the investigation roll."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t21",
+      "source": {
+        "startUid": "u1810",
+        "endUid": "u1815"
+      },
+      "reading": "The DM corrects Heroes’ Feast to three hours remaining, placing the records work around 4 p.m.",
+      "evidence": [
+        {
+          "startUid": "u0543",
+          "endUid": "u0545",
+          "quote": "Delwath: Although I guess Seeker and Riswynn are the only long rest dependent. The rest of us are totally fine with a short— your Heroes' Feast runs out at 7 Pm."
+        },
+        {
+          "startUid": "u1810",
+          "endUid": "u1815",
+          "quote": "Riswynn: We have left on our Heroes' Feast about 2 h.\nDM: 3 h. A—you see— so other things that you find—I'm so sorry, before I come back to what Wellby's searching for, what's—what's everybody else doing in the meantime? [garbled]"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "clock": "16:00",
+        "partOfDay": "afternoon",
+        "basis": "Three hours remaining before the stated 7 p.m. expiry; inferred current clock, retaining the correction from two hours."
+      }
+    },
+    {
+      "id": "t22",
+      "source": {
+        "startUid": "u1898",
+        "endUid": "u1905"
+      },
+      "reading": "Wellby enters the ancestral memory to reconstruct Seraphina’s life.",
+      "evidence": [
+        {
+          "startUid": "u1898",
+          "endUid": "u1905",
+          "quote": "Wellby: So I do that, traveling back through the collective memory of the halflings to the life of this one person.\nDM: Yep.\nDM: So the—the halfling name is Seraphina Appleblossom, and you— Wellby sort of pauses for a moment and and, you know, goes into a bit of a trance, and you reach back, and you're in the memory of the sort of halfling memory, stretching your mind back into the past, catching the sort of echoes of the Appleblossom family descending down and down through time and tracing them back, and you catch glimpses and images in the sort of— in this sort of the sort of ancestral memory of the halflings that are—that you really find yourself sort of reconstructing something about Seraphina from what's missing, because of course her memories, her soul has never been able to join the ancestral consciousness, being trapped as part of Apollyon's."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t23",
+      "source": {
+        "startUid": "u1917",
+        "endUid": "u1919"
+      },
+      "reading": "The discussion returns to the current search for the remaining victims.",
+      "evidence": [
+        {
+          "startUid": "u1917",
+          "endUid": "u1919",
+          "quote": "Wellby: I saw him in.\nDelwath: So one to go.\nDM: Yeah, one human and one Peronar."
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t20"
+        }
+      ]
+    },
+    {
+      "id": "t24",
+      "source": {
+        "startUid": "u2152",
+        "endUid": "u2157"
+      },
+      "reading": "It is about 4 p.m. as the four explorers approach the elven courtyard.",
+      "evidence": [
+        {
+          "startUid": "u2152",
+          "endUid": "u2157",
+          "quote": "DM: You—you pass—you pass a wide road that's in places still paved with marble. It seems unnaturally dark underneath the trees, like there's— the shadows stretch longer than they should, even at at 4 o'clock this far south. I mean, the sun is pretty low. Twilight doesn't last very long. But there's a sort of darkness that seems to be pressing even more than just the the night, the approaching night itself."
+        }
+      ],
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Riswynn",
+        "Wellby"
+      ],
+      "time": {
+        "precision": "approximate",
+        "clock": "16:00",
+        "partOfDay": "afternoon",
+        "basis": "DM’s explicit clock on the approach."
+      }
+    },
+    {
+      "id": "t25",
+      "source": {
+        "startUid": "u2461",
+        "endUid": "u2461"
+      },
+      "reading": "The explorers have returned to the temple at about 6 p.m.",
+      "evidence": [
+        {
+          "startUid": "u2461",
+          "endUid": "u2461",
+          "quote": "DM: About 6, 6 pm."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "clock": "18:00",
+        "partOfDay": "evening",
+        "basis": "DM answers the return-time question."
+      }
+    },
+    {
+      "id": "t26",
+      "source": {
+        "startUid": "u2543",
+        "endUid": "u2547"
+      },
+      "reading": "The party accepts a safe overnight long rest and permission to reset; morning is deferred to the next session.",
+      "evidence": [
+        {
+          "startUid": "u2543",
+          "endUid": "u2547",
+          "quote": "DM: Temple is definitely a safe place to rest, so I assume you probably want to rest, and we'll pick up next session in the morning.\nDelwath: Yeah.\nKenzo: Yeah.\nRiswynn: That's great. Thanks, Tim.\nDM: Yeah, so there's nobody—nobody will interrupt you in the night. You can long rest and reset all."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention for the granted rest; no waking or precise start is narrated."
+      },
+      "completion": "begun",
+      "note": "The DM says next session will pick up in the morning. Granted benefits do not independently establish a played arrival at morning."
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "May 22 is independently spoken at u0658–u0662. YAML supplies the working year 1749, also spoken in historical calendar discussion at u1067–u1073.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t03",
+      "t04",
+      "t19",
+      "t21",
+      "t24",
+      "t25",
+      "t26"
+    ],
+    "explanation": "Played current events run from about 10 a.m. to the evening of May 22. Historical visions and Dimitaur’s remote feast do not extend that span. The closing rest is accepted with benefits granted, but morning is explicitly deferred; the transcript does not settle whether the recorded interval includes completion of that overnight."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "end",
+      "evidence": [
+        "t25",
+        "t26"
+      ],
+      "reading": "The session closes in the evening with an accepted safe rest and a promise to resume next morning.",
+      "alternatives": [
+        {
+          "reading": "End on the evening when the rest is accepted; this agrees with YAML.",
+          "date": "1749-05-22"
+        },
+        {
+          "reading": "Include the granted overnight through the next morning; conditional on the May 22 anchor, that reaches May 23.",
+          "date": "1749-05-23"
+        }
+      ]
+    }
+  ]
+}

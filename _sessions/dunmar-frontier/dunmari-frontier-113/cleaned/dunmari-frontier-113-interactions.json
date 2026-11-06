@@ -1,0 +1,2020 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-113/cleaned/dunmari-frontier-113-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "e6ba63fd5743e24bca72a00fa6b48c789049d20b5b0055cd9c00d422f8d24539"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-113/cleaned/dunmari-frontier-113-entity-map.json",
+      "sha256": "bd1438d317f08a8b2016bdebd20bbc1a814cbeac6e5cb87a54a3a9ecf03b691b"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "The souls woven into the dagger",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0180",
+        "endUid": "u0186"
+      },
+      "lines": [
+        "%% u0180:0-54 %%",
+        "Kenzo: So the phylactery, what is actually inside the dagger?",
+        "",
+        "%% u0181:0-26, u0182:0-13, u0183:0-19, u0184:0-114, u0185:0-95, u0186:0-117 %%",
+        "DM: Your understanding is that it is like a— the dagger is like, woven somehow with a bunch of souls of people that Apollyon killed when they were tied up with the manacles in his tower on the circular island, and they all form like a protective cocoon around Apollyon's soul that hides in the phylactery, and as long as it's in the phylactery he can always create a new body whenever he dies."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Yeah.",
+          "Delwath: Hmm.",
+          "Kenzo: Hey! Tim!",
+          "Seeker: Standard.",
+          "DM: Yep."
+        ],
+        "after": [
+          "Kenzo: Okay, great. So Kenzo is gonna— I'm gonna use my kind of sense aura like consciousness ability. But I'm gonna like do—I'm—I'm assuming that we could have short rested at some point, right?",
+          "DM: You can short rest now, if you'd like to—you as well.",
+          "Kenzo: I just want—I just want to get all my ki back.",
+          "DM: Can—you wanna just take an hour to short rest while you're discussing and—",
+          "Kenzo: Yeah, while while all of this is happening, on a short rest. So what Kenzo will do is cause Kenzo has the unique— I don't even know what, advantage slash disadvantage—I actually know Apollyon. I've like stared at him, and like spent a bunch of time with Apollyon in the soul, in the plane of consciousness."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Why Rai held the phylactery",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0290",
+        "endUid": "u0304"
+      },
+      "lines": [
+        "%% u0290:0-62, u0291:0-63, u0292:0-46, u0293:0-49, u0294:0-67, u0295:0-76 %%",
+        "DM: I mean what you know about the phylactery is Apollyon made it. He was separated from it by Cha'mutte, but it wasn't destroyed. When Cha'mutte died, Rai caught it in his hand and kept it from cutting open Cha'mutte's prison. And, as far as you know, Rai guarded it up until the moment he left to go deal with the Limbo chaos, Cha'mutte echoes in Isingue with the monks.",
+        "",
+        "%% u0296:0-28 %%",
+        "Kenzo: You meant Apollyon's prison.",
+        "",
+        "%% u0297:0-9 %%",
+        "DM: Apollyon.",
+        "",
+        "%% u0298:0-20 %%",
+        "Kenzo: Okay, okay, hold on.",
+        "",
+        "%% u0299:0-63 %%",
+        "DM: Well. Cha'mutte was the one who originally imprisoned Apollyon.",
+        "",
+        "%% u0300:0-10 %%",
+        "Kenzo: Yes. Okay.",
+        "",
+        "%% u0301:0-25 %%",
+        "DM: Right. Apollyon's prison.",
+        "",
+        "%% u0302:0-46, u0303:0-94, u0304:0-77 %%",
+        "DM: And you're pretty sure that Apollyon has never been anywhere near the phylactery, because if he was, he could cut himself free of his prison. The only reason he's still imprisoned is because he can't get the phylactery."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: This is like I—",
+          "Kenzo: [garbled]",
+          "DM: Isaac's running a campaign in Spelljammer now and there. It's all like pirates in space. Basically.",
+          "Seeker: Play. That sounds awesome. Okay. Do we have any— So what do we know about the connections that Apollyon has with other planes?",
+          "Delwath: Don't think we know much right."
+        ],
+        "after": [
+          "Delwath: Great.",
+          "Riswynn: Which would explain him, actually having his lackeys search for it.",
+          "Kenzo: Out of that.",
+          "Delwath: That's a good point. Actually, I didn't even think of that. But yes, obviously he would have had his lackeys try to find it, right? Because if they could have found it, they could have brought it to him and freed him.",
+          "Kenzo: How the fuck are we gonna find it, [garbled]? Oh, don't we have like a—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Arheste’s recalled advice on unmaking a phylactery",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0433",
+        "endUid": "u0445"
+      },
+      "lines": [
+        "%% u0433:0-69 %%",
+        "DM: Okay. So, wondering why Rai didn't destroy the phylactery, you recall—",
+        "",
+        "%% u0434:0-49, u0435:0-28, u0436:0-55 %%",
+        "((Clarifying the question))",
+        "",
+        "%% u0437:0-51, u0438:0-30, u0439:0-124, u0440:0-55, u0441:0-40, u0442:0-48, u0443:0-54, u0444:0-68, u0445:0-53 %%",
+        "DM: Arheste might not know where Rai put the phylactery, but in terms of destroying it, you know you recall her spending a long time talking about all the complexities of the magic of undeath that creates liches. Phylacteries are not simple to destroy, or often not so. And it's often the case, as she tells it, but unless you know how the phylactery was made, it might be impossible to figure out how to unmake it. And is only with the knowledge of its creation that one can decipher the ritual needed to ensure its complete destruction."
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: Sorry, the elf could give us a basis.",
+          "DM: No, when, when when the last—at 1 point when they were—when they're—when Riswynn was valiantly defending the orcs and cementing her status as the hero of Uzgukhar, and—",
+          "Kenzo: The rest of the party was dawdling on their way back from Tollen, stopping everywhere they could.",
+          "DM: They stopped in Orenlas, the elven kingdom, and they spoke to this ancient elf woman, Arheste, who had fought— who was old enough to have fought Apollyon when he was—before he became a lich, and they spent it—the—everybody's—the party spent an afternoon, like most of a day, like talking to her, and like Kenzo like healed her a little bit. And all this stuff happened, and rather than— rather than like give you information then, we decided there was like a meta resource where I— 5 times you can ask a question, 'What would Arheste's advice be about this?' And then we'll just pretend that was the advice that she gave the party.",
+          "Seeker: I think it's good good idea to use it now."
+        ],
+        "after": [
+          "Seeker: Kind of. We kind of watched it being made, didn't we?",
+          "Delwath: Did!",
+          "Kenzo: Only watched it being made.",
+          "DM: Have Apollyon's notes, right? That detailed precise detail, how he made it.",
+          "Kenzo: So this is gonna involve us like doing something to free the souls that are binding the dagger."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Apollyon’s notes identify the sacrifices",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0449",
+        "endUid": "u0460"
+      },
+      "lines": [
+        "%% u0449:0-75 %%",
+        "DM: Have Apollyon's notes, right? That detailed precise detail, how he made it.",
+        "",
+        "%% u0450:0-32, u0451:0-62 %%",
+        "Kenzo: So this is gonna involve us like doing something to free the souls that are binding the dagger.",
+        "",
+        "%% u0452:0-12 %%",
+        "DM: Very likely.",
+        "",
+        "%% u0453:0-5 %%",
+        "((Brief interruption))",
+        "",
+        "%% u0454:0-39 %%",
+        "Kenzo: Did we see more detail about the souls?",
+        "",
+        "%% u0455:0-87, u0456:0-54, u0457:0-36, u0458:0-116 %%",
+        "DM: In Seeker's, like when Seeker spent an afternoon or a day like, or an afternoon reading the notes, you were mostly focused on figuring out the the details of how to use the forge. But you're pretty sure that, like I mean, it was all in code. You'd have to spend a little bit more time reading it.",
+        "",
+        "%% u0459:0-51, u0460:0-78 %%",
+        "DM: You're pretty sure there was a whole section on the the victims that were used to—like Apollyon had notes on everybody he killed."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Let—let's start with just not destroy, and then we'll—",
+          "DM: Arheste might not know where Rai put the phylactery, but in terms of destroying it, you know you recall her spending a long time talking about all the complexities of the magic of undeath that creates liches. Phylacteries are not simple to destroy, or often not so. And it's often the case, as she tells it, but unless you know how the phylactery was made, it might be impossible to figure out how to unmake it. And is only with the knowledge of its creation that one can decipher the ritual needed to ensure its complete destruction.",
+          "Seeker: Kind of. We kind of watched it being made, didn't we?",
+          "Delwath: Did!",
+          "Kenzo: Only watched it being made."
+        ],
+        "after": [
+          "Kenzo: Nice. Yeah. So I think when we find the dagger, that's what we'll have to do. We'll have to do some like, you know, healing stuff around those people.",
+          "Delwath: Right.",
+          "Kenzo: And like free them, they—they—all those souls need to be like freed from the dagger, and then that'll expose Apollyon's blackened, crispy soul for us to eat.",
+          "DM: But Rai, of course, did not have Apollyon's notes.",
+          "Delwath: Right, right, right, right, right."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Faldrak agrees to send help if needed",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0554",
+        "endUid": "u0563"
+      },
+      "lines": [
+        "%% u0554:0-5, u0555:0-93 %%",
+        "Seeker: Okay. What—what do—do we want to tell Faldrak to do anything in particular if we don't come back?",
+        "",
+        "%% u0556:0-22 %%",
+        "Kenzo: We're gonna come back.",
+        "",
+        "%% u0557:0-30, u0558:0-56 %%",
+        "Seeker: So just tell him not to worry. Tell him to like assign a party to come search for us.",
+        "",
+        "%% u0559:0-24 %%",
+        "DM: Oh, yeah, he's on board.",
+        "",
+        "%% u0560:0-5 %%",
+        "Seeker: Okay.",
+        "",
+        "%% u0561:0-5 %%",
+        "Riswynn: Cool.",
+        "",
+        "%% u0562:0-106 %%",
+        "Seeker: Yeah, you stay on the ship, but you can send out a search party if we don't come back after 7 pm tonight.",
+        "",
+        "%% u0563:0-18 %%",
+        "DM: We'll do our best."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Oh, okay.",
+          "Kenzo: Gets everybody moving.",
+          "DM: Well, yes, okay, not Kenzo.",
+          "Seeker: So if we consider that our deadline—",
+          "Delwath: I think it's more reasonable to assume we're gonna explore for a couple of hours and come back."
+        ],
+        "after": [
+          "Riswynn: I mean, are we gonna try to stay in communication like we did before?",
+          "DM: Well, that lasts for—that lasts for an hour, and then re-up it.",
+          "Seeker: All right. Let's go.",
+          "DM: Okay, so.",
+          "Delwath: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Rai warns Dimitaur to keep the dagger safe",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0792",
+        "endUid": "u0814"
+      },
+      "lines": [
+        "%% u0792:0-68, u0793:0-41, u0794:0-79, u0795:0-24, u0796:0-72, u0797:0-58, u0798:0-100, u0799:0-54 %%",
+        "DM: As you sort of then cross again and circle back to the altar, for a— for a second, as you walk past the altar, you see like this weird flash of a vision, seemingly coming from Kenzo's staff. You see Rai and Dimitaur flashing back, the statue of Rai standing in front of the altar, Dimitaur flying over him, Rai made entirely of jade, like a statue, but somehow speaking, his voice echoing and sounding somewhat gravelly to Dimitaur. And for a second, you can all hear this. He seems to be telling Dimitaur,",
+        "",
+        "%% u0800:0-40, u0801:0-96, u0802:0-38, u0803:0-75, u0804:0-65 %%",
+        "DM: 'The preparations must be made in secret. I know not the power of Apollyon, when I'm not here, to read your mind and force answers from you. A temple should offer some protection. Dare not take the dagger outside these walls where Apollyon's minions loom, and here, at least, the power of the human gods is the strongest.'",
+        "",
+        "%% u0805:0-36, u0806:0-37, u0807:0-105, u0808:0-142, u0809:0-43 %%",
+        "DM: Goes on for a bit, saying, you know, 'Stay safe. I shall be back in a week. If I don't return, things may get much more dangerous. You have to flee. Go find your people to the east, or flee to the Feywild.' And there's a small plain chest sitting right in front of the altar, lined with lead, in which Apollyon's dagger sits. The chest does not seem to be here anymore.",
+        "",
+        "%% u0810:0-88 %%",
+        "Seeker: The lead lining would prevent the Stone Sense from seeing it, right, or is that not true?",
+        "",
+        "%% u0811:0-25 %%",
+        "DM: No, prevent Detect Magic.",
+        "",
+        "%% u0812:0-20 %%",
+        "Seeker: But not Stone Sense.",
+        "",
+        "%% u0813:0-23 %%",
+        "Riswynn: Prevent locate objects.",
+        "",
+        "%% u0814:0-64 %%",
+        "DM: It would prevent locate object. It wouldn't prevent Stone Sense."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Right.",
+          "DM: Chamber in between 2 of these arches or something, you know. There's—there's windows everywhere. There's light coming in. There are stairs up in the back go up to, presumably, the dome, but other than like, you know, looking at the floor or something, it's not obvious where you might search.",
+          "DM: Seeker spends a while poking at the at the altar, and it definitely seems like there is some—I mean, this seems magical, like, you know, when you put your hand on it, you feel the sort of warmth glowing. The—the sort of glow that's seeping through the—you actually, as Seeker like looks at the stonework, you can see that the— but the glow that, you know, you—there's this feeling of warmth. There's this glow that's coming from the floor, and it seems to be coming from the altar itself, right? Like you can—that's where it feels the strongest. That's where it feels the sort of most most powerful. There's—this is—",
+          "Seeker: This—there's clearly some divine magic here.",
+          "DM: Wellby and Kenzo spend some time sort of crisscrossing the chamber, starting around the outside and and looking again in all of these— you know, these side chapels. It takes 10 or 15 min to do this. There's—there's a—I mean, there's a lot of silver here. Like there's a lot of silver work and fine marble, and you know these large sort of candle holders candlesticks, candelabra on each of the altars. There's a lot of statuary work, you know. If one wanted to loot the holy Temple of the 8 Divines, one could make off with quite a lot of treasure. But at least passing through all the side chambers, you don't—there's nothing. There's no signs of occupation. There is a faint layer of dust the further you get from the central chamber that gets sort of thicker as you get to the side chambers. It almost seems as if there's something in the altar itself that is some magic in the altar that's keeping the temple clean."
+        ],
+        "after": [
+          "Seeker: Couldn't we.",
+          "Wellby: Could locate the chest, though, right?",
+          "Seeker: Interesting.",
+          "DM: You could try Stone Sense on lead. I might just light up Wellby's necklace.",
+          "Seeker: Oh, cause I can do it 2 more times today, right?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Riswynn asks the Bahrazel about the crypt",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0915",
+        "endUid": "u0928"
+      },
+      "lines": [
+        "%% u0915:0-25, u0916:0-92, u0917:0-47, u0918:0-105 %%",
+        "Riswynn: If we search below in the architectural space below this temple—call it the crypt, whatever, they'll know what I mean— will we find the chest holding what Rai guarded? I mean, I don't have to be cagey. They're my gods! They're on my side. Will we find Apollyon's phylactery?",
+        "",
+        "%% u0919:0-23, u0920:0-81, u0921:0-32, u0922:0-5, u0923:0-5 %%",
+        "((Divination response format))",
+        "",
+        "%% u0924:0-13, u0925:0-70 %%",
+        "DM: The response, 'Arcane powers block our sight, but what you seek was placed below you.'",
+        "",
+        "%% u0926:0-110, u0927:0-32 %%",
+        "Riswynn: So it was placed below us. Bahrazel can't tell if it's still there, because there's so much magic guarding it, but it is below us is promising.",
+        "",
+        "%% u0928:0-4 %%",
+        "DM: Yes."
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: Event or activity to occur within the next 7 days.",
+          "DM: So it's like, if we do this, will that happen, right? Is this a good—",
+          "Riswynn: So like, if we search the crypt, will we find—",
+          "Delwath: And the yeah.",
+          "DM: So, sorry, what was the question?"
+        ],
+        "after": [
+          "Riswynn: Alright!",
+          "Seeker: We're going to find the empty lead-lined chest, aren't we?",
+          "Delwath: No? Well, maybe. I don't know.",
+          "Seeker: The entry be outside the building?",
+          "DM: So that Wellby is dubious of Delwath's inability to find it, as Delwath was poking around, right? What is anybody else doing?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Rai conceals the descent",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0996",
+        "endUid": "u1005"
+      },
+      "lines": [
+        "%% u0996:0-41, u0997:0-80, u0998:0-128, u0999:0-44, u1000:0-200, u1001:0-35, u1002:0-38, u1003:0-31, u1004:0-11, u1005:0-11 %%",
+        "DM: So as you all—as you follow Wellby, like— despite your protestations that the back, there's nothing there, I was like, yeah. And you all just follow him, and as you do, as Kenzo reaches the back of the temple, his staff flares again, and you see another faint vision for a moment, a sort of glowing, greenish spirit version of Rai, a cord, a green cord stretching back towards the statue in the middle of the floor, working magic into the stones, weaving threads of magical energy, chanting in Elvish words about hiding and concealment. A chest floating in the air behind him as he passes through the floor. And you say, 'No worries.'"
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Meaning the—",
+          "Delwath: No, no, no, sorry! Go down the steps. Save the Passwall.",
+          "DM: Save Passwall, go through, go down the steps.",
+          "Seeker: Yeah, yeah, yeah. Let's save the Passwall.",
+          "Delwath: I meant go through the illusionary, not go through the tunneling floor."
+        ],
+        "after": [
+          "Seeker: We're on the right track. Approximately.",
+          "DM: As you step through the floor, you come to stairs that lead down into a short passageway that becomes wider and wider as it goes, and opens into this this large central chamber that Delwath saw by glancing through the floor.",
+          "DM: In the central chamber, you can see this is— you know, this is a—this is a crypt, but it's also, you know, it's a— it's decorated with like statues. It's a memorial, right? It's like there's, you know, it's what you might find in a cathedral crypt or something like that. There's monuments, and there's statues to the dead of Drankor, all in very good shape, many of which have like gold or silver or bronze or other kind of metal sort of death masks over the the statue, or sometimes just death masks mounted on the wall, perhaps in front of a of a— what do you call the like little holes in a crypt where you put people's ashes? There must be a—I think there's a word for that.",
+          "Delwath: Oh, yeah.",
+          "Seeker: They're niches. Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "The altars protect the temple",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1137",
+        "endUid": "u1153"
+      },
+      "lines": [
+        "%% u1137:0-70, u1138:0-15, u1139:0-92, u1140:0-77, u1141:0-162, u1142:0-29, u1143:0-73 %%",
+        "DM: Okay. So these altars are part of—it seems like they're all part of a of a network of altars that are generating a Hallow spell, which wards the area, seemingly this entire temple. Fiends, elementals, undead and aberrations cannot willingly enter the temple, and any creature that is charmed or frightened from such a—possessed, charmed, or frightened by such a creature ceases to have those conditions while in the area, and creatures, humanoids, and, you know, basically anybody good cannot be frightened while in the area.",
+        "",
+        "%% u1144:0-68 %%",
+        "Seeker: So it's the altars themselves driving the entire temple protection.",
+        "",
+        "%% u1145:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u1146:0-64 %%",
+        "Seeker: And Apollyon is in one of those categories because he is undead.",
+        "",
+        "%% u1147:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u1148:0-5, u1149:0-5 %%",
+        "Seeker: Okay. Cool.",
+        "",
+        "%% u1150:0-45, u1151:0-106 %%",
+        "DM: Actually, it's probably not fear, it would be— it's various effects depending on each altar, but the—the main effect is these things can't enter, undead—",
+        "",
+        "%% u1152:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u1153:0-33 %%",
+        "DM: Fiends, aberrations cannot enter."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: The god. That's what you do with an altar. I don't think this will hold a clue to the—",
+          "Riswynn: Yeah, phylactery.",
+          "Seeker: Yeah.",
+          "DM: So, sorry, are you doing it or not?",
+          "Seeker: I mean, we don't have anything else to investigate. So yeah, I'll try it."
+        ],
+        "after": [
+          "Riswynn: The constructs, the other us's apparitions, were just people.",
+          "DM: They were just people. They could have entered. They probably did, although they probably wouldn't have been very comfortable for them, given their connection to Apollyon, but—",
+          "Seeker: Good morning!",
+          "DM: This wouldn't have prevented them, the—your double Bizarro doppelgangers, from searching the temple. Oh.",
+          "Seeker: Right."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "The warding vision and the elven guardians",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e032",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e033",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e034",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e035",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1181",
+        "endUid": "u1217"
+      },
+      "lines": [
+        "%% u1181:0-70, u1182:0-16, u1183:0-56, u1184:0-62, u1185:0-36, u1186:0-37, u1187:0-91, u1188:0-13, u1189:0-51, u1190:0-86, u1191:0-69, u1192:0-92, u1193:0-23, u1194:0-3, u1195:0-145, u1196:0-58, u1197:0-71 %%",
+        "DM: In—as you begin to enter the passageway that leads to the grand vault, you see another— the staff flashes again, and you see another echo of Rai, chest floating next to him, the same spiritual version of Rai. And he's he's kneeling on the floor. Clearly putting a spell on the floor. And the vision sort of cracks and shifts halfway through, and you see superimposed on this, you can see a— there's like, and an elven angel, basically, like a a— clearly an elf, but also clearly like divine, celestial somehow, mounted on a huge stag with like horns that are made of this glowing magical energy. And the the elf, who's mounted on this, has a—this spear made of wood, but also magic, and is charging on the stag at Delwath—oh— who then flashes up a shield of magic, but the spear penetrates straight through it, as the stag calls a magical shower of stars to rain down on, let's see, Seeker, who burns with radiant light as the stars sort of flash against Bizarro Seeker's skin, and then the vision fades.",
+        "",
+        "%% u1198:0-22 %%",
+        "Seeker: Or what—what was that?",
+        "",
+        "%% u1199:0-4 %%",
+        "Kenzo: Yes.",
+        "",
+        "%% u1200:0-63 %%",
+        "Riswynn: Vision of when our Bizarro selves tried to investigate in here.",
+        "",
+        "%% u1201:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u1202:0-32 %%",
+        "Seeker: But what—what were we fighting?",
+        "",
+        "%% u1203:0-22 %%",
+        "Riswynn: The protective spirit.",
+        "",
+        "%% u1204:0-6, u1205:0-17, u1206:0-29 %%",
+        "Delwath: Right? Yeah, I think so. Right. Whatever Rai summoned.",
+        "",
+        "%% u1207:0-45 %%",
+        "Seeker: But just to—to my point again, what was that?",
+        "",
+        "%% u1208:0-88, u1209:0-29 %%",
+        "DM: You haven't seen anything like those creatures before, but they seem to be beings of the realm of the Elven firstborn.",
+        "",
+        "%% u1210:0-15 %%",
+        "Seeker: Oh, look! Look!",
+        "",
+        "%% u1211:0-65 %%",
+        "Wellby: The sort of thing that an elf would say they were descended from.",
+        "",
+        "%% u1212:0-63 %%",
+        "DM: Well, not the gods themselves, but like angels or elven angels.",
+        "",
+        "%% u1213:0-3, u1214:0-3 %%",
+        "Seeker: Oh! Oh!",
+        "",
+        "%% u1215:0-7 %%",
+        "DM: So you—",
+        "",
+        "%% u1216:0-36 %%",
+        "Riswynn: So that vision was set in this room?",
+        "",
+        "%% u1217:0-55 %%",
+        "DM: It was in the passageway that leads to the grand vault."
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: So we thoroughly explore those and see if there's an obvious stone chest that—",
+          "Delwath: Yeah, I—",
+          "DM: Okay.",
+          "Delwath: Yeah, I mean.",
+          "DM: So the 4—the 4 other deities are very similar, and again, like magic altars. The—the vibe is quite similar."
+        ],
+        "after": [
+          "Kenzo: Hello!",
+          "Riswynn: Let's go to the passageway that leads to the grand vault.",
+          "DM: Okay. So you keep walking into the grand vault. You see again, now, as you enter the grand vault, the chest floating next to Rai, the spirit Rai, and again the chest vanishes. Rai is not—",
+          "Delwath: Yes.",
+          "DM: Vanishes into thin air, and Rai seems to be working more magic, and then, although on what is not clear because you can't see the chest, and then floats up through the ceiling into the temple above."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "The hidden chest and Naun Tarvanos",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1220",
+        "endUid": "u1243"
+      },
+      "lines": [
+        "%% u1220:0-46, u1221:0-68, u1222:0-69 %%",
+        "DM: Okay. So you keep walking into the grand vault. You see again, now, as you enter the grand vault, the chest floating next to Rai, the spirit Rai, and again the chest vanishes. Rai is not—",
+        "",
+        "%% u1223:0-4 %%",
+        "Delwath: Yes.",
+        "",
+        "%% u1224:0-63, u1225:0-9, u1226:0-125 %%",
+        "DM: Vanishes into thin air, and Rai seems to be working more magic, and then, although on what is not clear because you can't see the chest, and then floats up through the ceiling into the temple above.",
+        "",
+        "%% u1227:0-26 %%",
+        "Kenzo: Rai floats up through the—",
+        "",
+        "%% u1228:0-36 %%",
+        "DM: Rai goes up, no chest following him.",
+        "",
+        "%% u1229:0-90, u1230:0-19, u1231:0-4 %%",
+        "((Jokes about reading Rai’s lips))",
+        "",
+        "%% u1232:0-70 %%",
+        "DM: Cannot read his lips, but there is actually a faint echo of the words.",
+        "",
+        "%% u1233:0-10 %%",
+        "Kenzo: Thank you.",
+        "",
+        "%% u1234:0-15 %%",
+        "DM: Naun Tarvanos.",
+        "",
+        "%% u1234:15-34 %%",
+        "Kenzo: Which we translate?",
+        "",
+        "%% u1235:0-21 %%",
+        "Delwath: Do you need anything?",
+        "",
+        "%% u1236:0-69 %%",
+        "DM: It's an Elvish place name. It means the Valley of the Hidden Forest.",
+        "",
+        "%% u1237:0-52, u1238:0-5, u1239:0-20, u1240:0-30, u1241:0-8 %%",
+        "((Immediate speculation))",
+        "",
+        "%% u1242:0-27, u1243:0-40 %%",
+        "DM: Wellby's never heard of it. That's where Rai met Dimitaur obviously."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So you—",
+          "Riswynn: So that vision was set in this room?",
+          "DM: It was in the passageway that leads to the grand vault.",
+          "Kenzo: Hello!",
+          "Riswynn: Let's go to the passageway that leads to the grand vault."
+        ],
+        "after": [
+          "Seeker: Naun Tarvanos.",
+          "Riswynn: You want to remind me who Dimitaur is?",
+          "DM: Dimitaur.",
+          "Seeker: Oh, yeah.",
+          "DM: He—or is—he was the familiar of Rai in high school, you know, the like wisecracking DM insert to make fun of the players."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Dimitaur remembers Rai’s precautions",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1284",
+        "endUid": "u1434"
+      },
+      "lines": [
+        "%% u1284:0-20, u1285:0-97, u1286:0-33, u1287:0-64, u1288:0-116, u1289:0-38, u1290:0-51, u1291:0-210, u1292:0-87, u1293:0-32, u1294:0-42, u1295:0-43, u1296:0-104, u1297:0-8 %%",
+        "DM: ((Incidental setup)) It's like, you know, noon, and you're looking out what seems to be something of a feast. Dimitaur's got a whole like—is—the throne is set up like along the coast, like in one of these, in the ruined town, not where the the black dragon's lair was. Somehow they figured out how to move it with, you know, several 100 dragonets, and there's a long table that's set, and there's like fish and like all sorts of of stuff piled onto the table. And Dimitaur is in the middle of like raising a glass to a toast to the new and improved rulers of the circular island. 'Drink to yourselves, friends.' And then he's like, 'Oh, wait!' He turns and stares at the gem. 'Who's there?' Anybody?",
+        "",
+        "%% u1298:0-9 %%",
+        "Kenzo: Dimitaur.",
+        "",
+        "%% u1299:0-22 %%",
+        "DM: Oh, not—knock, knock.",
+        "",
+        "%% u1300:0-9 %%",
+        "Kenzo: Dimitaur.",
+        "",
+        "%% u1301:0-25 %%",
+        "DM: Yes, yes, oh, yes, Kenzo.",
+        "",
+        "%% u1302:0-47, u1303:0-91 %%",
+        "Kenzo: It's us. Yeah, it's Kenzo. It's Kenzo, and it's, you know, your your your friends and companions. Hey, so we're in Drankor and we're looking—",
+        "",
+        "%% u1304:0-16 %%",
+        "DM: Like a bad idea.",
+        "",
+        "%% u1305:0-80, u1306:0-220, u1307:0-152, u1308:0-201, u1309:0-29 %%",
+        "Kenzo: Yeah, yeah, yeah, we've had better ideas. So we're in Drankor, we're looking for Apollyon's phylactery. It's this adamantine dagger. I think you may or may not be aware of that. And anyways, we're inside the Temple place now, and we keep seeing visions of Rai. You're in some of these visions as well. And anyways, there's a—we know that Rai had the phylactery last, you know, like the daggers flying through there, Rai caught it, and then, you know, was holding on to it for safekeeping for some period of time, and then he did something with it. He cast some kind of spell or something. The—the phylactery was inside a chest, and then the chest vanished. And what was the word again?",
+        "",
+        "%% u1310:0-14 %%",
+        "DM: Naun Tarvanos.",
+        "",
+        "%% u1311:0-68 %%",
+        "Kenzo: Naun Tarvanos. Yeah, does that—does that word bring anything to you?",
+        "",
+        "%% u1312:0-104, u1313:0-71 %%",
+        "DM: Oh, yeah, Naun Tarvanos, that's—that's where—that's the place. That's where Rai and I met, like up in the north. I don't know if it's still there or not, destroyed in the war or—",
+        "",
+        "%% u1314:0-4 %%",
+        "Seeker: But.",
+        "",
+        "%% u1315:0-40, u1316:0-21, u1317:0-87, u1318:0-118 %%",
+        "DM: When Rai, before he was a powerful mage, you know, we traveled— I don't know what. I don't really remember why we actually went there in the 1st place, or why he went in the 1st place. Maybe to learn stuff. I guess he was trying to learn about his ancestry or something.",
+        "",
+        "%% u1319:0-98 %%",
+        "Kenzo: Right, okay. So any idea where the the chest went, and what that has to do with where you guys met?",
+        "",
+        "%% u1320:0-229, u1321:0-101, u1322:0-23 %%",
+        "DM: Oh, I'm sure he didn't bring the chest there. He told me a lot of times like it would be too dangerous to take it out of the temple, because there's hundreds, maybe thousands, of plague echoes and undead floating around the city. And well, they don't usually all bunch up into a giant army, the minute they sense that stupid dagger, that would be bad news.",
+        "",
+        "%% u1323:0-46 %%",
+        "Kenzo: So you think the dagger's still in the temple?",
+        "",
+        "%% u1324:0-44 %%",
+        "DM: If Apollyon doesn't have it, it's got to be.",
+        "",
+        "%% u1325:0-12 %%",
+        "Kenzo: Good to know.",
+        "",
+        "%% u1326:0-22, u1327:0-32 %%",
+        "DM: But not—why would Rai— how did you hear Naun Tarvanos?",
+        "",
+        "%% u1328:0-50 %%",
+        "Kenzo: How do we hear that again, guys? There's the echo.",
+        "",
+        "%% u1329:0-49 %%",
+        "Delwath: Rai said it when he was casting some spell, right?",
+        "",
+        "%% u1330:0-125, u1331:0-3 %%",
+        "Kenzo: Oh, yeah, yeah, right? Yeah, right. Rai said it when he was casting a spell of some kind, and then the the chest disappeared. Oh.",
+        "",
+        "%% u1332:0-69 %%",
+        "DM: Oh, he was always doing like super magic. He had all sorts of spells.",
+        "",
+        "%% u1333:0-24 %%",
+        "Kenzo: Well, why say that word?",
+        "",
+        "%% u1334:0-13 %%",
+        "DM: I don't know.",
+        "",
+        "%% u1335:0-32 %%",
+        "Seeker: Maybe that's where he was going.",
+        "",
+        "%% u1336:0-35 %%",
+        "DM: No, he was going to Isingue monks.",
+        "",
+        "%% u1337:0-4 %%",
+        "Kenzo: Hmm.",
+        "",
+        "%% u1338:0-44 %%",
+        "DM: I don't know. Maybe it's a key or something.",
+        "",
+        "%% u1339:0-4 %%",
+        "Kenzo: One.",
+        "",
+        "%% u1340:0-20, u1341:0-92, u1342:0-79, u1343:0-5, u1344:0-3, u1345:0-38, u1346:0-24, u1347:0-167, u1348:0-206, u1349:0-12, u1350:0-53, u1351:0-107, u1352:0-22, u1353:0-18, u1354:0-155, u1355:0-34, u1356:0-78, u1357:0-13, u1358:0-16, u1359:0-67, u1360:0-22, u1361:0-88, u1362:0-17, u1363:0-41, u1364:0-39, u1365:0-5, u1366:0-50, u1367:0-11, u1368:0-5 %%",
+        "((The party examines the vault and tries the spoken phrase))",
+        "",
+        "%% u1369:0-211 %%",
+        "Kenzo: Hey, we're still talking to Dimitaur. What else do I ask Dimitaur? So Dimitaur, wait, where—where was it? And then, if Rai made it disappear, where would he make it disappear to if it's still inside the temple?",
+        "",
+        "%% u1370:0-42 %%",
+        "DM: Where did he make the dagger disappear to?",
+        "",
+        "%% u1371:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u1372:0-97 %%",
+        "DM: Oh, I don't know. He was always fiddling around with magic. There's all kinds of wizardly tricks.",
+        "",
+        "%% u1373:0-30 %%",
+        "Kenzo: But you think it's still here?",
+        "",
+        "%% u1374:0-23 %%",
+        "DM: Invisible, make things—",
+        "",
+        "%% u1375:0-10 %%",
+        "Seeker: Invisible.",
+        "",
+        "%% u1376:0-137 %%",
+        "DM: I don't know, send them to another plane, make them—I don't know. Don't you have some little pouch that—cloth that opens up into a hole?",
+        "",
+        "%% u1377:0-4 %%",
+        "Kenzo: Hmm.",
+        "",
+        "%% u1378:0-16, u1379:0-40, u1380:0-63, u1381:0-72, u1382:0-38, u1383:0-59, u1384:0-39 %%",
+        "((Current search suggestions and See Invisibility))",
+        "",
+        "%% u1385:0-80 %%",
+        "Kenzo: Dimitaur, you think it's here? You think—you think it has not left the premises?",
+        "",
+        "%% u1386:0-44, u1387:0-78, u1388:0-57 %%",
+        "DM: I really don't think it's left the premises. I mean, Rai could change his mind sometime, but he told—must have told me like 500 times, 'Do not take that dagger out of here, Dimitaur.'",
+        "",
+        "%% u1389:0-6 %%",
+        "Kenzo: Sorry.",
+        "",
+        "%% u1390:0-5, u1391:0-23 %%",
+        "DM: Yeah. Maybe a thousand times.",
+        "",
+        "%% u1392:0-43 %%",
+        "Delwath: Okay must have been to see if he was right.",
+        "",
+        "%% u1393:0-44 %%",
+        "Kenzo: And wait, did you ever take it out of there?",
+        "",
+        "%% u1394:0-56 %%",
+        "DM: No cause. He was pretty convincing when he wanted to be.",
+        "",
+        "%% u1395:0-11 %%",
+        "Kenzo: Okay. Okay.",
+        "",
+        "%% u1396:0-65, u1397:0-50 %%",
+        "DM: I thought about it, but I thought, 'Well, do I really want to die?' What if like a thousand undead do descend on me?",
+        "",
+        "%% u1398:0-54 %%",
+        "Kenzo: Wait, and where—but where was it when you were there?",
+        "",
+        "%% u1399:0-66 %%",
+        "DM: Oh, usually kept it on the altar. It seemed like the safest place.",
+        "",
+        "%% u1400:0-4 %%",
+        "Kenzo: Hmm.",
+        "",
+        "%% u1401:0-49 %%",
+        "DM: Big altars like the center of gods, or something.",
+        "",
+        "%% u1402:0-8 %%",
+        "Seeker: Alright!",
+        "",
+        "%% u1403:0-45 %%",
+        "Wellby: Do you ever go down to the basement into the—",
+        "",
+        "%% u1404:0-95 %%",
+        "DM: Yeah, I once gathered up all of the necklaces and stuff, and then Rai told me to put them back.",
+        "",
+        "%% u1405:0-3, u1406:0-69 %%",
+        "Wellby: Me. Was there another level below that, or was there just that one crypt?",
+        "",
+        "%% u1407:0-31 %%",
+        "DM: No, there's just the one crypt.",
+        "",
+        "%% u1408:0-40, u1409:0-36 %%",
+        "Wellby: What was the coolest part of that crypt? Where would Rai hang out down there?",
+        "",
+        "%% u1410:0-101 %%",
+        "DM: Oh, well, right, I mean he didn't go down there that much, you know. It's hard for him to move, right?",
+        "",
+        "%% u1411:0-15 %%",
+        "Wellby: Being a statue.",
+        "",
+        "%% u1412:0-65 %%",
+        "DM: You know he was a statue made of jade, right? So he couldn't walk.",
+        "",
+        "%% u1413:0-16 %%",
+        "Wellby: Yeah, but still.",
+        "",
+        "%% u1414:0-17 %%",
+        "Delwath: Which is awesome.",
+        "",
+        "%% u1415:0-30 %%",
+        "Wellby: Can't talk, but he could talk.",
+        "",
+        "%% u1416:0-47 %%",
+        "Delwath: And I've seen statues walk so I mean, you know.",
+        "",
+        "%% u1417:0-77 %%",
+        "DM: Well, I guess he was not that kind of statue. He wasn't maybe skilled enough.",
+        "",
+        "%% u1418:0-33 %%",
+        "Kenzo: So let me ask you this, Dimitaur—",
+        "",
+        "%% u1419:0-57 %%",
+        "Wellby: But hold up! Hold up, though! Did you ever go down there?",
+        "",
+        "%% u1420:0-150, u1421:0-157, u1422:0-63, u1423:0-32 %%",
+        "DM: He would—he'd do this astral projection thing. Sometimes he turned into this like spirit, but I think it took a lot of energy, because he always like had to rest for a long time afterward. So he didn't go down there that much. No, he did. He did say that he had put a ward on it, so nobody could go explore, because he wanted to make a safe place if he ever had to leave. Where was this safe place? Crypt.",
+        "",
+        "%% u1424:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u1425:0-41 %%",
+        "Kenzo: The whole—so the whole crypt was simply—",
+        "",
+        "%% u1426:0-122 %%",
+        "DM: There was like a ward. He said that if anybody tried to find it, they'd just be confused and think there was nothing there.",
+        "",
+        "%% u1427:0-33 %%",
+        "Kenzo: Yeah, I think we solved that one.",
+        "",
+        "%% u1428:0-23 %%",
+        "DM: Oh, you're pretty good.",
+        "",
+        "%% u1429:0-152, u1430:0-14 %%",
+        "Kenzo: Yeah, yeah, you know that. I mean, if—okay, so, but you said that you kept—he kept it at the altar, because that's where like the most god energy was. Is there like—",
+        "",
+        "%% u1431:0-17 %%",
+        "DM: Most of the time.",
+        "",
+        "%% u1432:0-65 %%",
+        "Kenzo: Is there like a second most god energy place inside this temple?",
+        "",
+        "%% u1433:0-77 %%",
+        "DM: I don't think he trusted the god energy to hide it. Kept weaving these spells.",
+        "",
+        "%% u1434:0-4 %%",
+        "Kenzo: Hmm."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Dimitaur definitely might.",
+          "Kenzo: Let's talk to Dimitaur.",
+          "Seeker: Nice.",
+          "Delwath: Yeah.",
+          "DM: Okay?"
+        ],
+        "after": [
+          "Wellby: We're really good Detect Magic or Dispel Magic.",
+          "Delwath: Yeah, I mean, there's no ma—I'm detecting magic. There's no magic down here, right?",
+          "Riswynn: And I can't Dispel Magic if I don't have a magic to point Dispel Magic at. I mean, I guess I could try just sort of shouting Dispel Magic out in space, and see if if I counter something.",
+          "Wellby: We could all try it.",
+          "Riswynn: Like, that's how it works, right? Like I need to be intentionally dispelling something that I know is magic. I can't just like say, 'Stop being magic, room.'"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Finding and opening Rai’s guarded chest",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1460",
+        "endUid": "u1587"
+      },
+      "lines": [
+        "%% u1460:0-180, u1461:0-65 %%",
+        "DM: So Delwath, the rest of you are kind of standing around talking. Delwath is pacing around. After about 5 min, 10, maybe a little more, so you've been in here like maybe half an hour, maybe a little longer than half an hour by now, you stub your toe—",
+        "",
+        "%% u1462:0-16 %%",
+        "Kenzo: Very satisfying.",
+        "",
+        "%% u1463:0-15 %%",
+        "DM: On empty space.",
+        "",
+        "%% u1464:0-3 %%",
+        "Delwath: Ow.",
+        "",
+        "%% u1465:0-9 %%",
+        "Riswynn: Good job.",
+        "",
+        "%% u1466:0-67 %%",
+        "DM: There's nothing there. You can't see anything with See Invisibility.",
+        "",
+        "%% u1467:0-53 %%",
+        "Delwath: Well, I'm gonna feel down to the thing. I mean, I'll—",
+        "",
+        "%% u1468:0-45 %%",
+        "DM: There is, you can feel something there. Yeah.",
+        "",
+        "%% u1469:0-23 %%",
+        "Delwath: What does it feel like?",
+        "",
+        "%% u1470:0-15 %%",
+        "Kenzo: Is it a dagger?",
+        "",
+        "%% u1471:0-35 %%",
+        "DM: It's not a dagger. Might be a chest.",
+        "",
+        "%% u1472:0-90, u1473:0-13, u1474:0-4 %%",
+        "((Dispelling proposal))",
+        "",
+        "%% u1475:0-40 %%",
+        "Delwath: I mean, what does the surface feel like?",
+        "",
+        "%% u1476:0-11 %%",
+        "DM: Cold stone.",
+        "",
+        "%% u1477:0-13, u1478:0-9, u1479:0-4 %%",
+        "((Checking for magic))",
+        "",
+        "%% u1480:0-25, u1481:0-3 %%",
+        "Wellby: Does it have a mechanism? So.",
+        "",
+        "%% u1482:0-13 %%",
+        "DM: Yeah, a lock.",
+        "",
+        "%% u1483:0-11 %%",
+        "Wellby: Yeah, yeah.",
+        "",
+        "%% u1484:0-28 %%",
+        "DM: There's a mechanism to open.",
+        "",
+        "%% u1485:0-24 %%",
+        "Delwath: Yeah, I'm gonna open it.",
+        "",
+        "%% u1486:0-7 %%",
+        "DM: Locked.",
+        "",
+        "%% u1487:0-27, u1488:0-22, u1489:0-92, u1490:0-13, u1491:0-55, u1492:0-52, u1493:0-3, u1494:0-17, u1495:0-75, u1496:0-46, u1497:0-41, u1498:0-43, u1499:0-60, u1500:0-26, u1501:0-21, u1502:0-8, u1503:0-69, u1504:0-23, u1505:0-25, u1506:0-4, u1507:0-21, u1508:0-16, u1509:0-91, u1510:0-97, u1511:0-7, u1512:0-6 %%",
+        "((Attempts with the chime and lock tools))",
+        "",
+        "%% u1513:0-25, u1514:0-63 %%",
+        "DM: 20. Okay, interesting, the— you feel like—you do feel like you've maybe unlocked something.",
+        "",
+        "%% u1515:0-13, u1516:0-34 %%",
+        "Wellby: Does it open? Everyone, I've unlocked something.",
+        "",
+        "%% u1517:0-35 %%",
+        "DM: Just really try and open the chest?",
+        "",
+        "%% u1518:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u1519:0-53, u1520:0-44, u1521:0-17, u1522:0-27 %%",
+        "((Trap concerns and a suggestion))",
+        "",
+        "%% u1523:0-114 %%",
+        "Delwath: Yeah. Oh, that's a great idea. I'm gonna sprinkle—I'm gonna sprinkle some cooking ingredients all over it. Flour.",
+        "",
+        "%% u1524:0-5, u1525:0-38, u1526:0-11, u1527:0-3, u1528:0-5, u1529:0-52 %%",
+        "((Ingredient banter))",
+        "",
+        "%% u1530:0-49 %%",
+        "DM: See the shape of the chest emerging in the flour.",
+        "",
+        "%% u1531:0-41, u1532:0-27, u1533:0-66 %%",
+        "((Suggestion to dispel the concealment))",
+        "",
+        "%% u1534:0-120 %%",
+        "Riswynn: If we're willing to actually let me try to cast a spell instead of just saying won't work, I'm perfectly happy to cast—",
+        "",
+        "%% u1535:0-7 %%",
+        "DM: Dispel.",
+        "",
+        "%% u1536:0-67, u1537:0-79 %%",
+        "Riswynn: Illusion, which I've been saying I wanted to do for the past 10 min. I cast Dispel Illusion, cast Dispel Magic focused on the illusion on the chest.",
+        "",
+        "%% u1538:0-69, u1539:0-99, u1540:0-44, u1541:0-103, u1542:0-4, u1543:0-48, u1544:0-39, u1545:0-9, u1546:0-19, u1547:0-5, u1548:0-16, u1549:0-54, u1550:0-14, u1551:0-3, u1552:0-39, u1553:0-28, u1554:0-21 %%",
+        "((Resolving Dispel Magic checks))",
+        "",
+        "%% u1555:0-26, u1556:0-63, u1557:0-226, u1558:0-3 %%",
+        "DM: Those are very good rolls. So the chest appears, the magic keeping it locked is dispelled. The Sequester spell that makes it impossible to detect with any magic, invisible to Detect Magic and immune to divination magic of all kinds, vanishes, and the 2 Symbol spells that trigger when you see the chest are dispelled. Oh.",
+        "",
+        "%% u1559:0-25, u1560:0-25, u1561:0-26, u1562:0-76, u1563:0-5, u1564:0-48, u1565:0-43, u1566:0-67, u1567:0-184, u1568:0-5, u1569:0-13, u1570:0-63, u1571:0-18, u1572:0-20, u1573:0-67, u1574:0-29 %%",
+        "((Spell names and checking for remaining traps))",
+        "",
+        "%% u1575:0-50 %%",
+        "Delwath: I'll open it with Mage Hand standing away from it.",
+        "",
+        "%% u1576:0-5, u1577:0-89, u1578:0-35 %%",
+        "DM: Okay. Riswynn already dispelled the glyph that would teleport you to the Elven divine realm, so you don't have to worry about that.",
+        "",
+        "%% u1579:0-3 %%",
+        "Seeker: Oh!",
+        "",
+        "%% u1580:0-43 %%",
+        "Delwath: But I want to go to the Elven divine realm.",
+        "",
+        "%% u1581:0-34 %%",
+        "Seeker: They had to say its name aloud in—",
+        "",
+        "%% u1582:0-75 %%",
+        "DM: You had said its name aloud, you wouldn't have had to dispel all the magic.",
+        "",
+        "%% u1583:0-60 %%",
+        "Delwath: Oh, you mean it didn't count because we didn't know we were—",
+        "",
+        "%% u1584:0-92 %%",
+        "DM: No, it doesn't. You can't just shout it. You have to know the chest is there for it to work.",
+        "",
+        "%% u1585:0-7 %%",
+        "Delwath: Oh God!",
+        "",
+        "%% u1586:0-73, u1587:0-19 %%",
+        "DM: The chest opens, and you see lying inside the chest a thin, plain dagger made of adamantine."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Okay.",
+          "Riswynn: So I've got 5th and 4th Level spell slots. I could just throw like a—I'm dispelling—",
+          "Delwath: But I think you have to know that there's a magical effect. That's what Tim just said.",
+          "Riswynn: What I can convince myself that there has to be an an invisible, you know, a— like.",
+          "Delwath: So similarly, so the walls are all the niches for the for the—"
+        ],
+        "after": [
+          "Riswynn: Okay.",
+          "Seeker: There, there it— There it is! Oh, and now what?",
+          "Delwath: Now we destroy it. Awesome sense.",
+          "Seeker: 2.",
+          "Delwath: Do we have a plan on destroying it?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Seven souls and the phylactery’s weakness",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1621",
+        "endUid": "u1687"
+      },
+      "lines": [
+        "%% u1621:0-80, u1622:0-260, u1623:0-87, u1624:0-112, u1625:0-67 %%",
+        "DM: Okay, so that helps a little. Kenzo's—Kenzo's pretty quick to, you know, kind of able to sort of look—you're—you can—you can actually like soul sight the dagger, basically. And you see there seem to be 7 souls, 7 sacrifices that make up the sort of shell of this dagger, that are the—that are forming the container in which Apollyon's soul thrives. And you can start to see, like as Seeker is sort of reading through the notes, you—you find—you find details. You start to find little pieces of of information about these 7 people, 7 names. They're all Drankorians. They're all humans that lived in the city.",
+        "",
+        "%% u1626:0-22 %%",
+        "((Joke about the victims))",
+        "",
+        "%% u1627:0-40, u1628:0-157, u1629:0-276, u1630:0-3 %%",
+        "DM: No, should have been. And you can—and you— actually maybe not all humans. A couple of them, there was like mixed species, but all Drankorians, all lived in the city, all, you know, were brought—were were brought, usually on trumped-up charges of some crime, to be punished, and then were taken to the island and sacrificed by Apollyon. And as—as you sort of begin to—it's like 3, 4 h now that it's—that it's taking. So anybody who wants to can take a short rest. It's like probably— No.",
+        "",
+        "%% u1631:0-83, u1632:0-79, u1633:0-65, u1634:0-73, u1635:0-88, u1636:0-65, u1637:0-62, u1638:0-29, u1639:0-38, u1640:0-11 %%",
+        "((Riswynn contacts Faldrak during the study))",
+        "",
+        "%% u1641:0-74, u1642:0-85, u1643:0-39, u1644:0-201, u1645:0-48, u1646:0-87, u1647:0-45 %%",
+        "DM: The—okay. So you get—you get these names. You get the sort of sense of the, you know, of of how this was constructed, this sort of trap that—or this this sort of cocoon that the that the souls make and what you sort of begin to discover with Kenzo's sense and Seeker's arcane knowledge and reading these notes. The—the—these souls are the seeds of the destruction of the phylactery. Because if you can, if you can free the souls, especially if you can guide the souls through the Land of the Dead and to their divine realms to be taken up, the phylactery will unravel and be shattered.",
+        "",
+        "%% u1648:0-142, u1649:0-93, u1650:0-60, u1651:0-55, u1652:0-40 %%",
+        "DM: And there's actually some notes about this, because Apollyon was concerned about destroying, you know. Could the phylactery even be destroyed? And he seemed to think it was basically indestructible, except there's 1 sort of like hidden, hidden passage that you discover like late in the afternoon, as the sun's getting low in the sky, that describes one— one possible weakness of the phylactery.",
+        "",
+        "%% u1653:0-6, u1654:0-49, u1655:0-95, u1656:0-33, u1657:0-58, u1658:0-5, u1659:0-58, u1660:0-85, u1661:0-127, u1662:0-105, u1663:0-52, u1664:0-149, u1665:0-142, u1666:0-105, u1667:0-43, u1668:0-75, u1669:0-148, u1670:0-62 %%",
+        "DM: If the— if a portal to the Land of the Dead can be opened, and the dagger is brought to the Land of the Dead, and somebody skilled enough can restore the, you know, give back the souls and essence of themselves, something to remember themselves by, then, theoretically, Apollyon says, the binding could be undone. But he's not concerned about this, because in order to do this, you would need to 1st find a way to actually open a portal to the Land of the Dead, which, as far as anybody knows, the only way to do that is to die, so like Kenzo's been there on the Bhishma initiation, right? But to be—to travel to the Land of the Dead, Apollyon knows of no way to do it other than to die. And then, although theoretically there are ways, you know, that a dying soul could open a passage for many others, or maybe there's a back way around that your like arcane knowledge could uncover. But any case, this is what Apollyon says: the only way to get to the Land of the Dead is to die, that somebody would have to kill themself and then bring the dagger with them, and then at the same time know enough about the victims that they can piece together enough of their lives to remind the victims of who they are, which Apollyon says should not be possible, because nobody knows who the victims are but him, although in his arrogance he did record their names in his notebook, and only then could the phylactery be destroyed.",
+        "",
+        "%% u1671:0-180 %%",
+        "Delwath: So is there information beyond the names? I'm trying to understand. Do we have to go research the victims? Or is it sufficient to just kill ourselves and go to the Land of the Dead?",
+        "",
+        "%% u1672:0-54 %%",
+        "DM: You would need more information than just their names.",
+        "",
+        "%% u1673:0-5 %%",
+        "Delwath: Okay.",
+        "",
+        "%% u1674:0-80, u1675:0-49, u1676:0-120 %%",
+        "DM: I mean, you have—there is enough—there is some information, right? Like there's, you know, there's names, and they're sort of like— there's a bit of information, but you would probably need to go like find their house, and like artifact or something.",
+        "",
+        "%% u1677:0-285 %%",
+        "Delwath: That's what I was trying to figure out, is is our next step here to take this list of names and go poke around Drankor and find all their—find some evidence of their lives, right? Or—or is it to go to the Land of the Dead? But it sounds like we need more information than what we have.",
+        "",
+        "%% u1678:0-12, u1679:0-11 %%",
+        "((Brief interruption))",
+        "",
+        "%% u1680:0-60 %%",
+        "Riswynn: Does Kenzo like sense the 7 individuals individually, like—",
+        "",
+        "%% u1681:0-5, u1682:0-216, u1683:0-65, u1684:0-145 %%",
+        "DM: Yeah. So you can get—I mean, you get some—you get some like sort of echoes from the from the dagger of of these 7 individuals. You get a bit of like of of color, like you can pick up—Kenzo can pick up things like, you know, the fate—you know, the place they like to walk, or like, you know, not necessarily as specific as where they live, but I mean, for all you know, some of them might be memorialized in this very temple, right? Like—",
+        "",
+        "%% u1685:0-20 %%",
+        "Delwath: Right, right, right.",
+        "",
+        "%% u1686:0-255, u1687:0-17 %%",
+        "DM: you can—I think, you know, Kenzo can pick up enough that if you, you know, if—if you sort of—if Kenzo like focuses and soul sights—what—focuses soul sight on 1, 1 sort of particular person and name, you could pick up some clues from Kenzo's soul sight about about the person."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: And then maybe—oh.",
+          "Riswynn: About the worst possible roll. It's gonna take a few hours.",
+          "Seeker: Man.",
+          "DM: Add Guidance, add a d4. And then Kenzo—Kong, can you roll up a—I'll say insight check for Kenzo to like study the souls that are bound up in the dagger, and like try and figure out—",
+          "Kenzo: 23."
+        ],
+        "after": [
+          "Riswynn: Can we get our crack research team like poring over this place? Like how—how do we get people off of the stupid ship, and in— like we're always flying or teleporting or something, but we're around—",
+          "DM: A big ladder. You've got a 50 foot ladder, so if you come close to the—you just— the ground, people can just climb down.",
+          "Delwath: Right.",
+          "Riswynn: All right.",
+          "Delwath: Are we thinking we would—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Faldrak reports that the ship fled specters",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1631",
+        "endUid": "u1640"
+      },
+      "lines": [
+        "%% u1631:0-83, u1632:0-79 %%",
+        "Riswynn: I'm gonna Sending to Faldrak and just make sure that like, you know, Fausto hasn't appeared on the ship and tried to take over the airship, or anything like that.",
+        "",
+        "%% u1633:0-65, u1634:0-73, u1635:0-88 %%",
+        "DM: Okay, so let's—let me—sorry, I just need to make a note here. So— so while—while you guys are all studying this, right, like, you know, maybe mid-afternoon. What do you want to send to Fausto? Just—or Faldrak? Just how's it going?",
+        "",
+        "%% u1636:0-65 %%",
+        "Riswynn: How—everything's going great here. How are things going with you?",
+        "",
+        "%% u1637:0-62 %%",
+        "DM: Not good. Some specters came. We had to flee. We'll come back.",
+        "",
+        "%% u1638:0-29 %%",
+        "Riswynn: How far did you have to flee?",
+        "",
+        "%% u1639:0-38 %%",
+        "DM: Well, you can only—well, you, I guess—",
+        "",
+        "%% u1640:0-11 %%",
+        "Riswynn: Never mind."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Add Guidance, add a d4. And then Kenzo—Kong, can you roll up a—I'll say insight check for Kenzo to like study the souls that are bound up in the dagger, and like try and figure out—",
+          "Kenzo: 23.",
+          "DM: Okay, so that helps a little. Kenzo's—Kenzo's pretty quick to, you know, kind of able to sort of look—you're—you can—you can actually like soul sight the dagger, basically. And you see there seem to be 7 souls, 7 sacrifices that make up the sort of shell of this dagger, that are the—that are forming the container in which Apollyon's soul thrives. And you can start to see, like as Seeker is sort of reading through the notes, you—you find—you find details. You start to find little pieces of of information about these 7 people, 7 names. They're all Drankorians. They're all humans that lived in the city.",
+          "Riswynn: They weren't 7 dwarfs.",
+          "DM: No, should have been. And you can—and you— actually maybe not all humans. A couple of them, there was like mixed species, but all Drankorians, all lived in the city, all, you know, were brought—were were brought, usually on trumped-up charges of some crime, to be punished, and then were taken to the island and sacrificed by Apollyon. And as—as you sort of begin to—it's like 3, 4 h now that it's—that it's taking. So anybody who wants to can take a short rest. It's like probably— No."
+        ],
+        "after": [
+          "DM: The—okay. So you get—you get these names. You get the sort of sense of the, you know, of of how this was constructed, this sort of trap that—or this this sort of cocoon that the that the souls make and what you sort of begin to discover with Kenzo's sense and Seeker's arcane knowledge and reading these notes. The—the—these souls are the seeds of the destruction of the phylactery. Because if you can, if you can free the souls, especially if you can guide the souls through the Land of the Dead and to their divine realms to be taken up, the phylactery will unravel and be shattered.",
+          "DM: And there's actually some notes about this, because Apollyon was concerned about destroying, you know. Could the phylactery even be destroyed? And he seemed to think it was basically indestructible, except there's 1 sort of like hidden, hidden passage that you discover like late in the afternoon, as the sun's getting low in the sky, that describes one— one possible weakness of the phylactery.",
+          "DM: If the— if a portal to the Land of the Dead can be opened, and the dagger is brought to the Land of the Dead, and somebody skilled enough can restore the, you know, give back the souls and essence of themselves, something to remember themselves by, then, theoretically, Apollyon says, the binding could be undone. But he's not concerned about this, because in order to do this, you would need to 1st find a way to actually open a portal to the Land of the Dead, which, as far as anybody knows, the only way to do that is to die, so like Kenzo's been there on the Bhishma initiation, right? But to be—to travel to the Land of the Dead, Apollyon knows of no way to do it other than to die. And then, although theoretically there are ways, you know, that a dying soul could open a passage for many others, or maybe there's a back way around that your like arcane knowledge could uncover. But any case, this is what Apollyon says: the only way to get to the Land of the Dead is to die, that somebody would have to kill themself and then bring the dagger with them, and then at the same time know enough about the victims that they can piece together enough of their lives to remind the victims of who they are, which Apollyon says should not be possible, because nobody knows who the victims are but him, although in his arrogance he did record their names in his notebook, and only then could the phylactery be destroyed.",
+          "Delwath: So is there information beyond the names? I'm trying to understand. Do we have to go research the victims? Or is it sufficient to just kill ourselves and go to the Land of the Dead?",
+          "DM: You would need more information than just their names."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "The Book of Martyrs and the Radiant Path",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e024",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1761",
+        "endUid": "u1836"
+      },
+      "lines": [
+        "%% u1761:0-3, u1762:0-92, u1763:0-35, u1764:0-82, u1765:0-137, u1766:0-203, u1767:0-23, u1768:0-234, u1769:0-196 %%",
+        "DM: You you spend, I don't know, 45 min poking around, 30 min. And you do find that like the—there's a— what's basically a hall of records. It's got—it's actually got a—it's a large archive. It's got, you know, a bunch of of information. It's got records of of who's buried, but it also has just like a whole host of like temple records, you know, things like marriages, and there's no tradition of like baptism or anything, so there's not birth records, but there are death records. There's marriages, there's like, you know, some other, just other details about, you know the people who not everybody in Drankor—I mean, Drankor was a huge city, right? Like not everybody in Drankor would have been associated with this particular temple, despite it being the largest and most famous, right? But you do definitely, you know, you are able to find for sure, collate 4 of the people that you have names for. So 3—and I really should have made up some names, but I didn't, so feel free to invent your own names in your heads.",
+        "",
+        "%% u1770:0-22 %%",
+        "((Joke about names))",
+        "",
+        "%% u1771:0-77, u1772:0-15, u1773:0-67, u1774:0-208, u1775:0-196, u1776:0-237, u1777:0-34 %%",
+        "DM: That's not appropriately Drankorian. And so so 3 of them are, in fact, buried in this temple. They are, in fact, not buried in this temple. They are memorialized because their bodies were never recovered. And these are—so this is—this is in the sort of late period, right? This is when the temple hierarchy was acting in some ways as kind of a counterinsurgency against Apollyon's rule, right? Apollyon was very eager to suppress the the worship of the of Mos Numena because he wanted to replace them. But it seems like there—there actually was a interest by these by the priests and priestesses who are writing this record, whose names have been lost to time, in memorializing the martyrs of Apollyon, which is a large list of names. Like the, you know, there's a bunch of people who were disappeared or murdered or imprisoned, and never—",
+        "",
+        "%% u1778:0-4, u1779:0-6, u1780:0-80 %%",
+        "((Brief confirmation))",
+        "",
+        "%% u1781:0-90, u1782:0-61, u1783:0-69, u1784:0-57, u1785:0-95, u1786:0-87, u1787:0-76 %%",
+        "DM: Yeah, and in fact, 3 of their names are on this martyrs of Apollyon sort of secret record, and they're all the—the—the particular priest, or the sort of society, this like group of of people who were—this group of of divine magic users, divine people who were memorializing the the the dead were—were part of what seemed to be an order of not just divine magic users, but other— one of these—these secret societies of Drankor that was devoted to the Father, I think. Yeah, and and were—were sort of known as the Radiant Path, or or Ordo Lucis.",
+        "",
+        "%% u1788:0-38, u1789:0-33, u1790:0-16 %%",
+        "((Comparison with another society))",
+        "",
+        "%% u1791:0-10, u1792:0-97, u1793:0-33, u1794:0-66, u1795:0-65, u1796:0-44, u1797:0-52, u1798:0-61, u1799:0-89, u1800:0-36 %%",
+        "DM: Prior one. So your suspicion is that the the the martyrs of Apollyon would be memorialized somewhere in the chapel of the Father, that's all. So 3 of them you could probably find some information about there. The 4th was not—was not buried here. The 4th was not buried here because she was not a human. She was an elf. But she was also listed in this martyrs of Apollyon. And there's some information. There was a elven neighborhood, an elven sort of collection of of places where elves lived, just to the north of where the is, and and that is where she lived.",
+        "",
+        "%% u1801:0-78, u1802:0-120, u1803:0-68, u1804:0-63, u1805:0-11, u1806:0-57, u1807:0-52, u1808:0-53, u1809:0-16 %%",
+        "DM: There's a—there's like a, you know, all of these martyrs, there's like a little short little paragraph about like each one, right? Like where they, you know, some memorial, some record of who they were, sort of in the same vibe as like the Hall of Stories, but more of a, you know, keeping the memory alive of the Apollyon-disappeared type thing. So there is very, very likely enough information to find her home, or at least some place associated with her in the neighborhood, just to the north of the Temple. Okay, you don't—",
+        "",
+        "%% u1810:0-44, u1811:0-4, u1812:0-10, u1813:0-92, u1814:0-51, u1815:0-10, u1816:0-13, u1817:0-23, u1818:0-32, u1819:0-59, u1820:0-6, u1821:0-88, u1822:0-81, u1823:0-110, u1824:0-52, u1825:0-11, u1826:0-7, u1827:0-6, u1828:0-106 %%",
+        "((Time remaining and organizing the follow-up search))",
+        "",
+        "%% u1829:0-127 %%",
+        "DM: But you do have a—from this, from this like Book of Martyrs, you do have this little like a little paragraph about each person.",
+        "",
+        "%% u1830:0-28 %%",
+        "Delwath: Is that enough, do we think?",
+        "",
+        "%% u1831:0-118 %%",
+        "DM: Well, you really you want some physical token as well, but that, plus some physical token, is almost certainly enough.",
+        "",
+        "%% u1832:0-45 %%",
+        "Riswynn: That we have 3 physical, 3 informations, and—",
+        "",
+        "%% u1833:0-28, u1834:0-243 %%",
+        "DM: 4 informations, information. 4 names listed in the Book of Martyrs, 3 humans and one elf. You have enough in the paragraph to find her house or find her neighborhood, but she was not buried in that—she was not memorialized in the temple because she didn't—she's an elf.",
+        "",
+        "%% u1835:0-6 %%",
+        "Delwath: Right.",
+        "",
+        "%% u1836:0-36 %%",
+        "DM: That's why she's in the book. Sorry."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Far away. So, yeah, so we search, right?",
+          "DM: You spend an hour search, maybe— actually, go ahead and roll investigation, just to get a sense of how long you spend searching.",
+          "Wellby: Should we roll with advantage, since there's a couple of us?",
+          "DM: Yes, advantage. You should roll with advantage.",
+          "Wellby: 23."
+        ],
+        "after": [
+          "Riswynn: So like I said, some of us are already gone to the— so we're looking for tokens there, if anything was buried, but then we'll plan an expedition before our Heroes' Feast runs out to go to the north to look for the elf house. But that's only 4.",
+          "DM: Yes, oh.",
+          "Riswynn: Do we know the races of the other 3?",
+          "DM: So from Kenzo's soul sight, yeah, I think you probably would know one of the other— so of the 7, four are humans, one is— one is an elf, one is a halfling, and one is Peronar, like one of the—an elf, but like one of these elves that was like associated with humans. Oh, and and of the 4 humans, 3 are memorialized in the temple. The elf, you know, you can at least know their neighborhood. That still leaves one human, the Peronar and the halfling that you are uncertain of.",
+          "Delwath: So go to the elves' neighborhood is another plan. That'll be scary, but okay. Try and find tokens for the 3 people buried here, we knock that off quickly. Do that. Yeah, yeah, at least 2, right?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "The remaining unidentified victims",
+      "entities": [
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e026",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e024",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e025",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1842",
+        "endUid": "u1858"
+      },
+      "lines": [
+        "%% u1842:0-83, u1843:0-12, u1844:0-16, u1845:0-6, u1846:0-14, u1847:0-18, u1848:0-108, u1849:0-3, u1850:0-3, u1851:0-114, u1852:0-85 %%",
+        "DM: So from Kenzo's soul sight, yeah, I think you probably would know one of the other— so of the 7, four are humans, one is— one is an elf, one is a halfling, and one is Peronar, like one of the—an elf, but like one of these elves that was like associated with humans. Oh, and and of the 4 humans, 3 are memorialized in the temple. The elf, you know, you can at least know their neighborhood. That still leaves one human, the Peronar and the halfling that you are uncertain of.",
+        "",
+        "%% u1853:0-76, u1854:0-76, u1855:0-38, u1856:0-30, u1857:0-51 %%",
+        "((Planning and a count clarification))",
+        "",
+        "%% u1858:0-71 %%",
+        "DM: One more human, one more human who's not listed in the Book of Martyrs."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Right.",
+          "DM: That's why she's in the book. Sorry.",
+          "Riswynn: So like I said, some of us are already gone to the— so we're looking for tokens there, if anything was buried, but then we'll plan an expedition before our Heroes' Feast runs out to go to the north to look for the elf house. But that's only 4.",
+          "DM: Yes, oh.",
+          "Riswynn: Do we know the races of the other 3?"
+        ],
+        "after": [
+          "Delwath: The halfling, the elf, the Peronar, and 4 humans. Yeah, that's 7. Okay, I was somehow adding 3 and 3 and getting 7. Bound. Eric and Kong are fast asleep.",
+          "Riswynn: Yep.",
+          "Kenzo: No, we're not.",
+          "DM: I don't lie.",
+          "Kenzo: We were communicating with each other."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "Death masks for Antonius, Floria and Marius",
+      "entities": [
+        {
+          "id": "e028",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e029",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e030",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e021",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e023",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1875",
+        "endUid": "u1887"
+      },
+      "lines": [
+        "%% u1875:0-88, u1876:0-188, u1877:0-41, u1878:0-235, u1879:0-30, u1880:0-99, u1881:0-111 %%",
+        "DM: Yeah, yeah, okay, so that takes it. Well, well, Wellby is still like digging through the right records and stuff. Every time you find a name, you're like, 'Oh, this matches,' like, 'Go look,' right, right, right, you know. Somebody goes and looks around in the in the under chapel of the of the father, and you do find memorials. There's—there's actually, now that you know what you're looking for, there's like a corner of the corner of this of this under chapel, actually a reasonably big section of wall that's sort of decorated all in a sort of similar style, where there's a whole bunch of of of these sort of death masks that are like shaped like the the faces of the people who died, but where the eye—normally the eyes would be painted sort of like lifelike, right? But the eyes are painted closed.",
+        "",
+        "%% u1882:0-114, u1883:0-306, u1884:0-144, u1885:0-17, u1886:0-256, u1887:0-52 %%",
+        "DM: And it's done in this very particular style where they're—they're almost—they're almost painted with this sort of sort of mourning look. Normally, normally, actually, these, like looking around at the style, like most of these tokens and memorials and things seem like they're sort of cheerful, right? They're like happy memories. They're—they're kind of like the best of what people remembered of of these people they're memorializing. But there's these 3—well, there's this whole section where everything's sort of painted in a different style, and you find the 3, Antonius, Floria, Marius, 2 men and a woman. All were with their death masks painted in this sort of detail, with the eyes painted closed, mourning, like tears, a few tears down their face, like clearly a different style. The death masks alone would probably be sufficient to serve as a token of these 3 souls, to separate them."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: We were communicating with each other.",
+          "DM: What just happened?",
+          "Kenzo: Well, Eric and I were having a parallel adventure in the dream world, enter the plane of consciousness. We're looking for things.",
+          "Delwath: We need to find information in the dream world. That's not a bad idea, actually. We're—we're trying to find—so okay, let's—let's at least search the 3, find the 3 humans.",
+          "Riswynn: Yeah."
+        ],
+        "after": [
+          "Riswynn: Okay, good cause there's nothing else. So— oh, Wellby, is there any like family lineage connection, ancestral knowledge, halfling thing that you can pull up about a halfling who was sacrificed to Apollyon?",
+          "Wellby: That is such an interesting idea, of course. Yes, definitely. I forget what we agreed mechanically, how that works, but definitely Wellby goes into a—",
+          "DM: Yeah, it's like you spend all your—instead of one use, you can spend all your uses and like just get an automatic bonus—",
+          "Wellby: Yes.",
+          "DM: Thing."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "Wellby reconstructs Seraphina’s life",
+      "entities": [
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1898",
+        "endUid": "u1916"
+      },
+      "lines": [
+        "%% u1898:0-107 %%",
+        "Wellby: So I do that, traveling back through the collective memory of the halflings to the life of this one person.",
+        "",
+        "%% u1899:0-4 %%",
+        "DM: Yep.",
+        "",
+        "%% u1900:0-58, u1901:0-42, u1902:0-113, u1903:0-170, u1904:0-34, u1905:0-307 %%",
+        "DM: So the—the halfling name is Seraphina Appleblossom, and you— Wellby sort of pauses for a moment and and, you know, goes into a bit of a trance, and you reach back, and you're in the memory of the sort of halfling memory, stretching your mind back into the past, catching the sort of echoes of the Appleblossom family descending down and down through time and tracing them back, and you catch glimpses and images in the sort of— in this sort of the sort of ancestral memory of the halflings that are—that you really find yourself sort of reconstructing something about Seraphina from what's missing, because of course her memories, her soul has never been able to join the ancestral consciousness, being trapped as part of Apollyon's.",
+        "",
+        "%% u1906:0-5 %%",
+        "Wellby: Sure.",
+        "",
+        "%% u1907:0-181, u1908:0-90, u1909:0-30, u1910:0-72, u1911:0-56, u1912:0-23 %%",
+        "DM: But you see the places, you see the things that are missed in that sort of Appleblossom lineage. The—she ran a tavern. She was known as a great cook. In fact, her tavern was popular primarily for its food. It was—you—you sort of catch these almost sense in your memory of fish stew with complex spices. Like a vague sense. This—this tavern, I mean it was in Drankor, for sure. The—what's a good halfling tavern name? The—the Dancing— I use Dolphin too much.",
+        "",
+        "%% u1913:0-14 %%",
+        "Delwath: Laughing wave.",
+        "",
+        "%% u1914:0-18 %%",
+        "DM: The Laughing Wave.",
+        "",
+        "%% u1915:0-100, u1916:0-228 %%",
+        "DM: You can see. You can sort of see in your memories like glimpses of the people that came through, and then the sort of darkness as the tavern closed and was destroyed as Seraphina vanished. And and you—you could—I mean this, you see enough. You get enough sort of context that you could find the tavern. It's—it's near the docks."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah, it's like you spend all your—instead of one use, you can spend all your uses and like just get an automatic bonus—",
+          "Wellby: Yes.",
+          "DM: Thing.",
+          "Wellby: Yeah, yeah, and so.",
+          "DM: Right."
+        ],
+        "after": [
+          "Wellby: I saw him in.",
+          "Delwath: So one to go.",
+          "DM: Yeah, one human and one Peronar.",
+          "Delwath: Wait, the elf we got—",
+          "Riswynn: Their neighborhood."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "The foreign victim came from the south",
+      "entities": [
+        {
+          "id": "e026",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1926",
+        "endUid": "u1945"
+      },
+      "lines": [
+        "%% u1926:0-77, u1927:0-92, u1928:0-39, u1929:0-132, u1930:0-27, u1931:0-78 %%",
+        "DM: There is—there is one human. Now I'm making up all the names. So the human is— so the one thing about the human, the other—the last human who's not in the Book of Martyrs, their name—their name is not very it's, which is—which is definitely not—I mean, that's not—that's not a typical Drankorian name. And of course Apollyon has not recorded details about these people. But it certainly sounds like somebody who was perhaps a foreigner in the city.",
+        "",
+        "%% u1932:0-69 %%",
+        "Wellby: Do we know what the origin, like what nationality that name might be?",
+        "",
+        "%% u1933:0-106, u1934:0-121, u1935:0-18, u1936:0-5, u1937:0-56, u1938:0-32 %%",
+        "((History check))",
+        "",
+        "%% u1939:0-222, u1940:0-44, u1941:0-154, u1942:0-111, u1943:0-37, u1944:0-117, u1945:0-16 %%",
+        "DM: Yeah, okay. So I mean the Drankorian—the Drankorian Empire was large, and there were people from all over. Of course, many people from like, you know, what is now, you know, Isingue or Sembara and things, but this is not— this is not that. This was not—this is not a— Seeker doesn't know precisely the language, but this is almost certainly a name from somebody who came from the south, probably on a ship, probably not a— not somebody who actually lived in the city, but somebody who would have been, you know, on the docks, basically anywhere where you can find a port or places where ships docked, you might be able to find traces of this person. Perhaps they stayed at the Laughing Wave. Those are clues."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Wait, the elf we got—",
+          "Riswynn: Their neighborhood.",
+          "DM: Is in the Book of Martyrs.",
+          "Delwath: Oh, oh, right! So we know where they went. We could find their house. We know where they lived. Do we know any—we know nothing about the human?",
+          "Riswynn: Or the Peronar."
+        ],
+        "after": [
+          "Delwath: Oh!",
+          "Riswynn: I mean, we're going towards docks, anyway, for the Laughing Wave. So.",
+          "DM: Right. And remember, Kenzo can can like soul sight and get— if you're close, can get like traces of these souls, right? You can find echoes of them in the land.",
+          "Riswynn: That we just need—",
+          "Kenzo: Sorry, what are we doing? What are we doing right now?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i021",
+      "title": "Keeping the dagger beyond scrying",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2085",
+        "endUid": "u2091"
+      },
+      "lines": [
+        "%% u2085:0-60, u2086:0-68 %%",
+        "Riswynn: Okay. But somebody's gotta stay in this space with the thing in case somebody walks in, now that it's not like invisible, I mean—",
+        "",
+        "%% u2087:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u2088:0-94 %%",
+        "Riswynn: Sorry, even it is currently not visible because it's inside a lead-lined thing inside a thing.",
+        "",
+        "%% u2089:0-37, u2090:0-76, u2091:0-65 %%",
+        "DM: And not scryable, which is fortunate, because Apollyon almost certainly checks every day, 'Can I scry on my dagger?' But if you take it out of the portable hole, it becomes scryable."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: That—at that moment, I think it would have been very reasonable for us to have been spinning that.",
+          "Delwath: No, I had—",
+          "DM: Delwath had See Invisibility up. If he'd been scrying you the moment you open the chest, you would—",
+          "Delwath: I would have seen the sensor.",
+          "Kenzo: Okay, okay, all right. That's good."
+        ],
+        "after": [
+          "Kenzo: Cool.",
+          "Riswynn: But is it extra safe for someone to be in here with it compared to out there with it? Like should we not split up the party and just trust the portable hole, or should we split up the party and leave someone here with it?",
+          "Kenzo: Wait, why? Why would we split up? Shouldn't we all stay together?",
+          "Delwath: Because we're not convinced it's safe to take the dagger out of—",
+          "Kenzo: Cool."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i022",
+      "title": "Valanthe’s surviving silver quill nib",
+      "entities": [
+        {
+          "id": "e031",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2440",
+        "endUid": "u2444"
+      },
+      "lines": [
+        "%% u2440:0-33 %%",
+        "Wellby: Oh, pull it out! What—what is it?",
+        "",
+        "%% u2441:0-21, u2442:0-127, u2443:0-41, u2444:0-39 %%",
+        "DM: It is the nib, like a part of a quill, like the ink part of a silver quill. I mean, Kenzo, when you touch this, you can—you can sense immediately that Valanthe, this elven woman, was a writer, and this is what's left of her writing."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: 32.",
+          "Kenzo: Only at 32.",
+          "Delwath: 17.",
+          "DM: Wellby heads over towards one of the windows, like a window in the courtyard that—so there's like— it's like the interior courtyard around an apartment complex, and goes over to the to the window and kind of looks inside and sort of peers—here's—peers down.",
+          "DM: And you can see—Wellby, you see like inside, this is—this was like a sun room or a sort of a sun porch. There's like a series of windows. There's a doorway that is filled in with rubble, but in the window you can see it's, you know, it's—it's mostly filled with rubble. There's—there's not much left, but there's something that's glinting in a corner."
+        ],
+        "after": [
+          "Delwath: Well, that seems like success, right?",
+          "Kenzo: I like it.",
+          "Riswynn: Double-time it back to the temple.",
+          "DM: Thanks.",
+          "Delwath: Oh, yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i023",
+      "title": "Faldrak is heading north",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2501",
+        "endUid": "u2522"
+      },
+      "lines": [
+        "%% u2501:0-80, u2502:0-81, u2503:0-50 %%",
+        "Riswynn: Alright. So I will say all the appropriate authentication codes, and we're gonna spend the night here. But we need to know your status, or we'll change our plans. And where exactly are you, and what's your status?",
+        "",
+        "%% u2504:0-27, u2505:0-32, u2506:0-27, u2507:0-14 %%",
+        "DM: The message you get back is: 'It seemed too dangerous to stay. Not sure we were up for it. Heading north.'",
+        "",
+        "%% u2508:0-64 %%",
+        "Wellby: It's doesn't seem like an answer to the question that was asked.",
+        "",
+        "%% u2509:0-24 %%",
+        "Delwath: Yeah, that's suspicious.",
+        "",
+        "%% u2510:0-9, u2511:0-3 %%",
+        "((Brief interruption))",
+        "",
+        "%% u2512:0-41 %%",
+        "Riswynn: There were no appropriate authentication?",
+        "",
+        "%% u2513:0-36 %%",
+        "DM: No, no—appropriate authentications.",
+        "",
+        "%% u2514:0-43 %%",
+        "Wellby: That's like way more terse than he ever is.",
+        "",
+        "%% u2515:0-67 %%",
+        "Delwath: I mean, you only get 25 words with Sending, but still you're right.",
+        "",
+        "%% u2516:0-51 %%",
+        "Kenzo: Wait, but they—he authenticated back that it's him?",
+        "",
+        "%% u2517:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u2518:0-9 %%",
+        "DM: It's him.",
+        "",
+        "%% u2519:0-70 %%",
+        "Wellby: Mind-controlled, under control, taken over, duplicated at that moment.",
+        "",
+        "%% u2520:0-78, u2521:0-67 %%",
+        "Kenzo: That doesn't matter. Let's—we'll go back to the ship later. Let's agree. Stay, finish the thing with the dagger, destroy the dagger, then go back.",
+        "",
+        "%% u2522:0-4 %%",
+        "Delwath: Yep."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Why don't you check in with our ship buddies?",
+          "Kenzo: Let's do that last name.",
+          "Wellby: Yeah, and get—get like the exact position.",
+          "Delwath: Yeah, like where are you exactly?",
+          "Kenzo: Have him drop a PIN."
+        ],
+        "after": [
+          "Kenzo: If all of our mates are dead, oh well. Not oh well, but you know, we'll—we'll—",
+          "Wellby: Compared to the whole world.",
+          "Kenzo: Yeah.",
+          "Riswynn: To get back within 7 days, and I can resurrect them one at a time.",
+          "Seeker: Amazing."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i024",
+      "title": "Fausto’s interest in the dagger",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2571",
+        "endUid": "u2571"
+      },
+      "lines": [
+        "%% u2571:0-60 %%",
+        "DM: Fausto really wants you to chase after him with that dagger."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: A puzzle for another time.",
+          "Delwath: Sounds good.",
+          "Kenzo: We'll kill—we'll kill Fausto later.",
+          "Delwath: Yep.",
+          "Kenzo: Seeker."
+        ],
+        "after": [
+          "Kenzo: Every—well, we—we were so close, too. Nope, gotta stay here. Got to stay here in the safety of the magic Temple thing.",
+          "Delwath: Yep. So—",
+          "DM: Let's stop there. I'm gonna stop recording."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}
