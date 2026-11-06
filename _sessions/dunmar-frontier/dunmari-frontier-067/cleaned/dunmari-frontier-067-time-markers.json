@@ -1,0 +1,248 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-067",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-067/cleaned/dunmari-frontier-067-session.yaml",
+    "sessionYamlSha256": "72f4a85fca57edd5b42bd5cdc5bcb267df83b6e4239f34601fe65f2e3068e709",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-067/cleaned/dunmari-frontier-067-transcript.md",
+    "transcriptSha256": "a3d7a2350dc12c4a83600f13703253c7a96fd0ca1488ae8ea5c0fd129effa1c3",
+    "yamlDates": {
+      "start": "1748-11-13",
+      "end": "1748-11-15"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0021",
+        "endUid": "u0032"
+      },
+      "reading": "Before Wellby's arrival, Kenzo has had an unmeasured interval to rest, sleep, and meditate at Lastlight Falls; the perpetual sunset supplies no civil watch.",
+      "evidence": [
+        {
+          "startUid": "u0021",
+          "endUid": "u0023",
+          "quote": "Well, it's always sunset, so it's hard to judge how long, but long enough to rest and sleep and meditate a little bit."
+        },
+        {
+          "startUid": "u0025",
+          "endUid": "u0032",
+          "quote": "that's where we're going to pick up sort of the moment Wellby arrives."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "completion": "completed",
+      "note": "The source does not establish a long-rest duration or whether this earlier waiting interval belongs inside the YAML span."
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1493",
+        "endUid": "u1500"
+      },
+      "reading": "The group has traveled for half a day; the DM calls this Wellby's first eight hours in the Feywild. Sunset light remains unchanged.",
+      "evidence": [
+        {
+          "startUid": "u1495",
+          "endUid": "u1500",
+          "quote": "We've been traveling now for half a day"
+        },
+        {
+          "startUid": "u1495",
+          "endUid": "u1500",
+          "quote": "this is like your first 8 h in a Feywild, then the light has not changed."
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Caulaus",
+        "Kenzo",
+        "Wellby"
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "The DM equates the narrated half-day travel with Wellby's first eight hours here; this is a Feywild elapsed interval, not a material-plane conversion."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1515",
+        "endUid": "u1523"
+      },
+      "reading": "After further unmeasured hours, including eating and becoming hungry again, the group reaches the dry River of Time.",
+      "evidence": [
+        {
+          "startUid": "u1515",
+          "endUid": "u1518",
+          "quote": "And after another— hard to say how many hours, long enough that you get hungry and eat and continue and get hungry again—"
+        },
+        {
+          "startUid": "u1519",
+          "endUid": "u1523",
+          "quote": "You see this dry river bank just like a empty shell."
+        },
+        {
+          "startUid": "u1694",
+          "endUid": "u1697",
+          "quote": "Some amount of time has passed, but it's hard to say exactly how much."
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Caulaus",
+        "Kenzo",
+        "Wellby"
+      ],
+      "duration": {
+        "text": "Further hours, long enough to eat and become hungry again",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Actual travel advance narrated without a numerical duration."
+      },
+      "completion": "completed",
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t03"
+        },
+        "precision": "approximate",
+        "basis": "Explicit additional travel after the first half day."
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u2056",
+        "endUid": "u2075"
+      },
+      "reading": "Five minutes pass after Seeker places the ring in the Heartwood Tree; laughter begins before a hand emerges.",
+      "evidence": [
+        {
+          "startUid": "u2056",
+          "endUid": "u2060",
+          "quote": "a minute, 2 min, where nothing happens."
+        },
+        {
+          "startUid": "u2065",
+          "endUid": "u2069",
+          "quote": "So for 2, 3 min, nothing happens. 4 min, you start to hear the faint sound of laughter."
+        },
+        {
+          "startUid": "u2070",
+          "endUid": "u2070",
+          "quote": "5 min!"
+        }
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "The successive minute counts describe one accumulating wait, counted once."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u3086",
+        "endUid": "u3099"
+      },
+      "reading": "After returning to Lastlight Falls, the three travelers wait an unmeasured interval until the thread turns burnished red, signaling the crossing.",
+      "evidence": [
+        {
+          "startUid": "u3086",
+          "endUid": "u3096",
+          "quote": "returning again to Lastlight Falls where you wait, watch your thread, until a moment some time later, it turns a burnished red color—"
+        },
+        {
+          "startUid": "u3141",
+          "endUid": "u3143",
+          "quote": "indicating that the portal, the fey crossing here at Lastlight Falls, is open."
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Kenzo",
+        "Wellby"
+      ],
+      "completion": "completed",
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t05"
+        },
+        "precision": "approximate",
+        "basis": "Return travel and waiting follow the grove encounter; neither interval has a measured length."
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u3157",
+        "endUid": "u3168"
+      },
+      "reading": "The three travelers step through the pool to Taelgar in mid-November, as the sun begins to set; the DM corrects late November to mid-November.",
+      "evidence": [
+        {
+          "startUid": "u3158",
+          "endUid": "u3168",
+          "quote": "you find yourself standing on the plains of Dunmar in late November— mid November. You're not sure the time, but it's definitely November, the sun just beginning to set, a camp set up outside the pool."
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Kenzo",
+        "Wellby"
+      ],
+      "time": {
+        "date": {
+          "year": 1748,
+          "month": 11
+        },
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "November and sunset are spoken; 1748 comes from the session YAML. No day of month is spoken."
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "The closing scene independently says mid-November, corrected from late November. The year and November 13–15 bounds come from YAML, not an independently spoken day of month.",
+    "expectedDateBoundaries": 2,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07"
+    ],
+    "explanation": "The session covers the reunion, travel, grove encounter, and return crossing. Eight hours plus additional unmeasured travel, a five-minute wait, and an open return/wait interval do not establish an exact civil-day span. No overnight boundary or Feywild-to-Taelgar rate is supplied. Seeker’s mechanical charge-reset credit at u0745–u0750 establishes no additional elapsed rest."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t01"
+      ],
+      "reading": "Kenzo’s earlier waiting and sleep precede the reunion but have no dated beginning.",
+      "alternatives": [
+        {
+          "reading": "The covered adventure starts at Wellby’s arrival, with earlier rest outside its interval."
+        },
+        {
+          "reading": "The covered adventure includes earlier actor-specific rest or waiting, whose beginning remains undated."
+        }
+      ]
+    }
+  ]
+}

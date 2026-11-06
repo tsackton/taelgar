@@ -1,0 +1,2523 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-067/cleaned/dunmari-frontier-067-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "a3d7a2350dc12c4a83600f13703253c7a96fd0ca1488ae8ea5c0fd129effa1c3"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-067/cleaned/dunmari-frontier-067-entity-map.json",
+      "sha256": "1e1be34a8a7e82102f91aa1339f67f0faab8a8d2e50367ba6993940c0c05d9e7"
+    }
+  },
+  "interactions": [
+    {
+      "title": "Cloudspinner remembers Amberglow",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e043",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0038",
+        "endUid": "u0070"
+      },
+      "lines": [
+        "%% u0038:0-45, u0039:0-136, u0040:0-36, u0041:0-83, u0042:0-97, u0043:0-94, u0044:0-95 %%",
+        "DM: Lastlight Falls in the fey realm of Amberglow is hidden among rocky cliffs, a place of calm where water cascades from the rocks above to clear—to a clear pool below, the long shadows of sunset spilling across the water. The last light of the day catching the spray and turning it to a glittering rainbow in the empty, desolate realm of Amberglow. This remains one of the few places of color and safety. As a group of travelers gather here, some reunited after long separation, and others newly met, the Cloudspinner feels their presence even from her prison far away, and she drifts in thought.",
+        "",
+        "%% u0045:0-45, u0046:0-112, u0047:0-54, u0048:0-54, u0049:0-65 %%",
+        "DM: She remembers the days of plenty in Amberglow when she ruled as the Queen of Sunsets, when the glorious colors of the evening sun turned the sky and the grass and the water and the rocks to ever-changing paintings, when she spun threads of magic and color from the sky. When her court dazzled any who came with her beauty and elegance.",
+        "",
+        "%% u0050:0-106, u0051:0-35, u0052:0-88, u0053:0-36, u0054:0-48, u0055:0-61, u0056:0-36, u0057:0-56 %%",
+        "DM: She remembers the fateful day she was tricked, bound, and captive. Her tools stolen, her life constrained, Amberglow slowly falling into ruin. She remembers how she could feel the footsteps of decay, a constant reminder of her fate as the color ran out from Amberglow. Her magnificent Cloud Palace fell into disarray. Her court and servants fled or lost, save the few who hung on in desperation or fear or confusion, slowly turning as pale and colorless as the land itself.",
+        "",
+        "%% u0058:0-116, u0059:0-21, u0060:0-77, u0061:0-47, u0062:0-135 %%",
+        "DM: She remembers the darkness that crept over her realm, the cursed ones, the hags and tricksters and malicious spirits of the Unseelie Court who came after she was gone who conquered and claimed Amberglow as their own. Who filled the realm with darkness and despair. She remembers how they hunted down her remaining subjects, and how they desecrated the places that had once held such beauty and light.",
+        "",
+        "%% u0063:0-139, u0064:0-66, u0065:0-46, u0066:0-58, u0067:0-123 %%",
+        "DM: She also remembers the resistance, the brave fey and other creatures who fought back, who formed secret alliances and underground networks, who kept the spark of hope alive even in Amberglow's darkest days: Typhina, the protector of the Heartwood Grove. Lirien, the Lady of the Lake, who drained the River of Time. Bellator the Changeling King, who sacrificed himself to hide the ruins of the Cloud Palace from those that would mean harm.",
+        "",
+        "%% u0068:0-142, u0069:0-105 %%",
+        "DM: So she watches and waits, and she hopes for the day when she will be free, and when Amberglow will once again be a realm of beauty and wonder. Until then she will continue to dream and hold on to the memory of what once was and what could be again.",
+        "",
+        "%% u0070:0-160 %%",
+        "DM: And as our story fades from the Cloudspinner and turns now to the travelers, at Lastlight Falls you may yet have a small role to play in the story of Amberglow."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You—yeah, you've now—so Kenzo has been here for maybe... Well, it's always sunset, so it's hard to judge how long, but long enough to rest and sleep and meditate a little bit.",
+          "Kenzo: I'm just waiting.",
+          "DM: You are waiting. Yeah. And then you saw Seeker and 3 people you didn't know show up. And then 2 of them left. And one stayed behind, and then Wellby showing up, and that's where we're going to pick up sort of the moment Wellby arrives.",
+          "Unknown: Nice.",
+          "DM: Oops. That's a little—okay. Okay. So."
+        ],
+        "after": [
+          "DM: Why don't we introduce the people who are here? Who wants to start?",
+          "Caulaus: Caulaus is a— wow, okay. So you don't know his name yet, obviously. But standing before you is a tall, a human, well-muscled, wearing heavy armor and carrying a great sword.",
+          "Caulaus: A large sword that is— has prominent runes written all the way down the blade, and twisting around there.",
+          "Caulaus: He walks—he's wearing a somewhat tattered. Most of his equipment is in very good shape. He looks like he knows how to use the sword he looks like he is well traveled.",
+          "Caulaus: But on his sort of a he has a tabard which is tattered. It's a bit fallen apart. It's not in very good shape. You can just see on it the Roman numeral 3. And so some writing I forget who would recognize, and which people these would recognize the language."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i001"
+    },
+    {
+      "title": "Caulaus names his legion and emperor",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0233",
+        "endUid": "u0235"
+      },
+      "lines": [
+        "%% u0233:0-6, u0234:0-53, u0235:0-36 %%",
+        "Caulaus: I, I am Caulaus Aportino, captain of the third Sylvan Legion. I'm seeking news of Emperor Vestian."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: So I traveled with this guy for a day or so.",
+          "Unknown: Yeah, that.",
+          "Caulaus: He, he, he calls out— He he calls out to Wellby first a greeting in Drankorian, and then he continues in sort of a heavily accented Common. Like, it's— you can understand him, but it's not— It feels foreign to you in some way.",
+          "Caulaus: Greetings from from the other side. Can you tell me how goes the war?",
+          "Wellby: Well, it depends on the war."
+        ],
+        "after": [
+          "Kenzo: Caulaus, or whoever you are, just to—just pause for 1 s. Wellby.",
+          "Wellby: Hey! I'll hop off of Baxter and the— come over and give each of you big handshakes and hugs.",
+          "Seeker: I—it's good to see you again. Looks like you've been adventuring.",
+          "Wellby: I have had the best time. This has been so good, man. I—",
+          "Seeker: Baxter is well appointed as well as—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i002"
+    },
+    {
+      "title": "The red-and-black dragon in Caulaus’s memory",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0370",
+        "endUid": "u0386"
+      },
+      "lines": [
+        "%% u0370:0-17, u0371:0-26 %%",
+        "Seeker: Oh, one question. What color was the dragon?",
+        "",
+        "%% u0372:0-4 %%",
+        "Unknown: Tim?",
+        "",
+        "%% u0373:0-65 %%",
+        "DM: Go ahead and say something, and I'll decide if it's true later.",
+        "",
+        "%% u0373:65-98, u0374:0-5, u0375:0-70, u0376:0-35, u0377:0-22 %%",
+        "Caulaus: I I recall it being red and black blood— blood red, most of it, but with strikes—stripes of black on its wings. An unusual coloration that I do not recall learning about.",
+        "",
+        "%% u0378:0-30, u0379:0-11 %%",
+        "Seeker: And it was defeated, you said? What is it?",
+        "",
+        "%% u0380:0-24, u0381:0-22, u0382:0-64, u0383:0-53, u0384:0-10, u0385:0-25, u0386:0-55 %%",
+        "Caulaus: No, I I do not know, but it was near death when my dead soldiers rose up from the ground and attacked our mages. As the Mages fell, the chains holding the dragon down collapsed. And it flew into the sky. I do not remember more, but I assume it was not killed."
+      ],
+      "reviewContext": {
+        "before": [
+          "Caulaus: Yeah. And, and, and all turned to blackness after that. And I remember little else except running, running. Escaping, maybe. I do not know.",
+          "Caulaus: But I recalled an ancient story of these treaty stones placed by ancient elven magic.",
+          "Caulaus: I thought perhaps, perhaps I can get some help from the elves or the fey. I don't know what I was thinking. But I ran to them. I awoke here.",
+          "Seeker: It's the same place. It's so easy to get back where you came from.",
+          "Caulaus: It was different when I came here. It was not so desolate."
+        ],
+        "after": [
+          "Seeker: Tim. This thing, apart from what we've seen with Grash, this thing of like raising the dead in battle— [garbled] [garbled] or is it extremely rare?",
+          "DM: It would require powerful magic, to the best of your knowledge. But it's— I mean, certainly this sort of thing happens in stories and tales, right? That necromancer—some sort of necromancer charges onto the field, and—",
+          "Seeker: So when we raise our army, if we wanted to—",
+          "DM: You know it's it's it's it's not an uncommon trope in terms of like, you know, at your experience sort of reading tales and legends of battle magic and things like that.",
+          "Unknown: Right?"
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The DM explicitly leaves the proposed dragon coloration subject to later confirmation; the excerpt preserves that qualification."
+      },
+      "id": "i003"
+    },
+    {
+      "title": "What the scepter vision established",
+      "entities": [
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e025",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e026",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0425",
+        "endUid": "u0444"
+      },
+      "lines": [
+        "%% u0425:0-17, u0426:0-23, u0427:0-18, u0428:0-110, u0429:0-72, u0430:0-34 %%",
+        "Wellby: I haven't, no, but thinking of how to date our friend's life, and whether it might have come before or after the creation of those artifacts, after the creation of the ring. If it, if the ring, along with the cloak, scepter, was made on that island. I don't know. Maybe it was a clue.",
+        "",
+        "%% u0431:0-9, u0432:0-55, u0433:0-18, u0434:0-10 %%",
+        "((Brief table clarification))",
+        "",
+        "%% u0435:0-32, u0436:0-163 %%",
+        "Caulaus: The black tower in the circular— All we know about—you don't—actually, you don't know about them except your, your dreams. We know it from the vision of the Scepter of Command, and Eudomes's mirror.",
+        "",
+        "%% u0437:0-6, u0438:0-13 %%",
+        "DM: Right. That's right.",
+        "",
+        "%% u0439:0-79 %%",
+        "Kenzo: But you didn't—but Schwartz, you were implying that the ring was created there.",
+        "",
+        "%% u0440:0-60 %%",
+        "Wellby: So I'm, looking back at the notes on the Scepter of Command.",
+        "",
+        "%% u0441:0-44 %%",
+        "DM: It's possible the scepter was created there.",
+        "",
+        "%% u0442:0-131, u0443:0-96, u0444:0-18 %%",
+        "Wellby: Yeah, the oldest vision that we had of the scepter was newly made, holding it, looking out the window of that tower on that island. Got that, you know, that's—no, there, there's a bunch of other assumptions in the question, but it— fruitless, anyway."
+      ],
+      "reviewContext": {
+        "before": [
+          "Caulaus: Yes, I—my memories are so fragmented I, I cannot recall, to be honest.",
+          "Unknown: I.",
+          "Caulaus: I remember my appointment ceremony, Emperor Helea, who later died, I think, under dark circumstances. But there was no black tower, circular island that I recall.",
+          "Caulaus: You're on mute.",
+          "Kenzo: Well, the, this tower on this island I've dreamed of often. I've spoken of it. Have you seen it? Have you been there now?"
+        ],
+        "after": [
+          "Caulaus: I was on the frontier more than anywhere else. That was my true home, helping defend the border, and—",
+          "Wellby: Which frontier?",
+          "Caulaus: It was—",
+          "Caulaus: I remember the elves were there. And remember a feast with the elves. I cannot, cannot place it.",
+          "Unknown: Though."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The ring’s identity remains unresolved and the proposed common island origin is speculation, explicitly qualified in the retained exchange."
+      },
+      "id": "i004"
+    },
+    {
+      "title": "The giant and Caulaus’s missing memories",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e045",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0462",
+        "endUid": "u0469"
+      },
+      "lines": [
+        "%% u0462:0-38, u0463:0-23, u0464:0-64, u0465:0-31 %%",
+        "Seeker: Caulaus, that giant with the cauldron, we knocked him down and didn't let him take any of my memories or our other friends. But seems he's taken some of yours.",
+        "",
+        "%% u0466:0-6, u0467:0-25 %%",
+        "Caulaus: I have been to that giant before.",
+        "",
+        "%% u0468:0-28, u0469:0-55 %%",
+        "Seeker: I think that explains a lot. You had a bit of a rough time getting here, my friends."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Which frontier?",
+          "Caulaus: It was—",
+          "Caulaus: I remember the elves were there. And remember a feast with the elves. I cannot, cannot place it.",
+          "Unknown: Though.",
+          "Caulaus: It must have been— must have been to the north somewhere north. And there was a forest for sure. I know much of tracking in the forest that I learned in that frontier."
+        ],
+        "after": [
+          "Kenzo: And where is here, Seeker?",
+          "Seeker: That's right. You've just arrived. Welcome to Feywild friends. You're traveling between the planes. What I, at least I've always dreamed to do. It's not so— the, the—and fluid of transition is— I hope, but we're learning. This is a strange place.",
+          "Seeker: Where's Delwath the Wild? I don't know. You haven't seen him?",
+          "Caulaus: Who is Delwath?",
+          "Kenzo: Is this the one that's all— Don't worry about him. Yeah. Bent on destroying the world is fine. Very shadowy, dark."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i005"
+    },
+    {
+      "title": "Why the obsidian fly will not obey",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e018",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0508",
+        "endUid": "u0518"
+      },
+      "lines": [
+        "%% u0508:0-171, u0509:0-46, u0510:0-9 %%",
+        "Wellby: Extremely important, and Wellby reaches into his bag and takes out the little figure of the obsidian fly that we've been—he's been carrying around ever since Agata's lair, the damn fly that won't ever follow directions, and says—",
+        "",
+        "%% u0511:0-2, u0512:0-27, u0513:0-109, u0514:0-33, u0515:0-29 %%",
+        "Wellby: \"So, the wizard who sent me here, I asked him, 'Why won't this fly ever do what I tell it to?' And he explained very clearly the reason it won't, that it cannot serve a new master until its old master is dead.\"",
+        "",
+        "%% u0516:0-3, u0517:0-19, u0518:0-17 %%",
+        "Seeker: But we burned the body. Or so we thought."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: So I emerged 2,000 miles east of where I last saw you on the eastern edge of the Green Sea. And I met Kenku. They are great. They're awesome. Oh, those guys!",
+          "Seeker: Seeker starts to blink rapidly and and sort of rub his brow a little bit.",
+          "Wellby: And a lot of things happened. But long story short, I found a wizard who was trapped in a mirror dimension and freed him, and then he sent me here.",
+          "Seeker: I, I hate to cut your story short. Apparently I didn't. It was very succinctly put. But I'm hearing from Typhina, the fey spirit trapped in this, in this ring that we collected from Agata's lair, that well, she just—she suggests that we, we get a move on.",
+          "Wellby: Oh, wait! Well, no, no, no, no, no! Because the cottage there reminds me of something extremely—"
+        ],
+        "after": [
+          "Seeker: Yeah, Typhina is suggesting to me that Amberglow is—is this place that we're in right now, by the way—is, is quite dangerous, and she has enemies here. And Agata once, once lived here after the Cloudspinner departed. How strange.",
+          "Caulaus: This place used to be different.",
+          "Seeker: Now.",
+          "Caulaus: Any. It must have been many years ago.",
+          "Seeker: The colors all drained from it. Yes, of course, and, and, and the Lady Eventide gave me this, this thread, and red, I think, is supposed to reveal the Sunset Gate on the other side of the falls where we're trying to get back to to to Taelgar."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i006"
+    },
+    {
+      "title": "The supposed Typhina directs the journey",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e021",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0519",
+        "endUid": "u0629"
+      },
+      "lines": [
+        "%% u0519:0-151, u0520:0-30, u0521:0-32, u0522:0-12 %%",
+        "Seeker: Yeah, Typhina is suggesting to me that Amberglow is—is this place that we're in right now, by the way—is, is quite dangerous, and she has enemies here. And Agata once, once lived here after the Cloudspinner departed. How strange.",
+        "",
+        "%% u0523:0-31, u0524:0-4, u0525:0-4, u0526:0-33, u0527:0-136, u0528:0-6, u0529:0-80, u0530:0-2, u0531:0-11 %%",
+        "((Brief comments about the faded realm and the crossing thread))",
+        "",
+        "%% u0532:0-58 %%",
+        "Seeker: Maybe I should ask Typhina for advice. Where should we go?",
+        "",
+        "%% u0533:0-53, u0534:0-9, u0535:0-21, u0536:0-8, u0537:0-8, u0538:0-52, u0539:0-5 %%",
+        "DM: I'll just say, since Seeker will translate presently: \"Oh, well. But remember I said, my home, that the the grove that I was defending is not far from here. East.\"",
+        "",
+        "%% u0540:0-60, u0541:0-26, u0542:0-152, u0543:0-24, u0544:0-26, u0545:0-71, u0546:0-4, u0547:0-19, u0548:0-110, u0549:0-38, u0550:0-11, u0551:0-26, u0552:0-15, u0553:0-5, u0554:0-6, u0555:0-13, u0556:0-14, u0557:0-28, u0558:0-8, u0559:0-28, u0560:0-32, u0561:0-44, u0562:0-5, u0563:0-2, u0564:0-22 %%",
+        "((The pursuers close and the party prepares to move))",
+        "",
+        "%% u0565:0-8, u0566:0-10, u0567:0-36 %%",
+        "Caulaus: Typhina, were you a disciple of the of the Cloudspinner?",
+        "",
+        "%% u0568:0-36, u0569:0-16 %%",
+        "Seeker: She's still trapped in the ring. But I I can ask her.",
+        "",
+        "%% u0570:0-61, u0571:0-25 %%",
+        "Seeker: I think more to the point. I'll ask her what direction to go. Yes, we'll head that way.",
+        "",
+        "%% u0572:0-12 %%",
+        "DM: So she says:",
+        "",
+        "%% u0573:0-31, u0574:0-3, u0575:0-2, u0576:0-14, u0577:0-3, u0578:0-17 %%",
+        "DM: \"Yes, I, I knew the Cloudspinner. The— go, go towards the, the— towards the east.",
+        "",
+        "%% u0579:0-16, u0580:0-20, u0581:0-15, u0582:0-60, u0583:0-33 %%",
+        "DM: Across the plain there was a, a river, a River of Time that flowed forwards and backwards in time instead of space. Do not know if it is still there.\"",
+        "",
+        "%% u0584:0-20 %%",
+        "Seeker: But across the river?",
+        "",
+        "%% u0585:0-9, u0586:0-24, u0587:0-9, u0588:0-8 %%",
+        "DM: \"A friend, a a nymph by the name of Melusine. She can—",
+        "",
+        "%% u0589:0-25, u0590:0-32, u0591:0-40, u0592:0-3 %%",
+        "DM: She can direct you. I, I, I— I don't know how much I can help find your way without being able to see. But—",
+        "",
+        "%% u0593:0-27, u0594:0-21, u0595:0-19, u0596:0-3 %%",
+        "DM: Melusine was one of the few of the Cloudspinner's Court who remained, and—",
+        "",
+        "%% u0597:0-23, u0598:0-31, u0599:0-17, u0600:0-20 %%",
+        "DM: If, if you can find her, she can lead you, or direct you to to my home, to the Heartwood Grove.\"",
+        "",
+        "%% u0601:0-77 %%",
+        "Seeker: Seeker looks up nervously at the sky. And how do we get you out of this ring?",
+        "",
+        "%% u0602:0-5, u0603:0-24, u0604:0-4, u0605:0-13, u0606:0-14 %%",
+        "((The party begins traveling during the conversation))",
+        "",
+        "%% u0607:0-5, u0608:0-13, u0609:0-10, u0610:0-13, u0611:0-1, u0612:0-15, u0613:0-22, u0614:0-39 %%",
+        "DM: \"Well, in the grove, there is a a great tree, a massive, thick, spindly oak that grows wider than any tree you've seen before.",
+        "",
+        "%% u0615:0-10, u0616:0-7, u0617:0-11, u0618:0-14, u0619:0-14, u0620:0-12 %%",
+        "DM: And it is— it is a, the essence of wood. It is malleable, and life-giving.",
+        "",
+        "%% u0621:0-41, u0622:0-6, u0623:0-27, u0624:0-32 %%",
+        "DM: If you can get me to that tree, I believe I will be able to emerge from this prison I am in into a new body.\"",
+        "",
+        "%% u0625:0-28 %%",
+        "Kenzo: Where's this tree? I didn't—",
+        "",
+        "%% u0626:0-42, u0627:0-12, u0628:0-28, u0629:0-19 %%",
+        "DM: \"It is in the center of the Heartwood Grove, to the east. It was the domain that I was charged to protect.\""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: I, I hate to cut your story short. Apparently I didn't. It was very succinctly put. But I'm hearing from Typhina, the fey spirit trapped in this, in this ring that we collected from Agata's lair, that well, she just—she suggests that we, we get a move on.",
+          "Wellby: Oh, wait! Well, no, no, no, no, no! Because the cottage there reminds me of something extremely—",
+          "Wellby: Extremely important, and Wellby reaches into his bag and takes out the little figure of the obsidian fly that we've been—he's been carrying around ever since Agata's lair, the damn fly that won't ever follow directions, and says—",
+          "Wellby: \"So, the wizard who sent me here, I asked him, 'Why won't this fly ever do what I tell it to?' And he explained very clearly the reason it won't, that it cannot serve a new master until its old master is dead.\"",
+          "Seeker: But we burned the body. Or so we thought."
+        ],
+        "after": [
+          "Caulaus: Have I ever—do I have any recollection of this River of Time place?",
+          "DM: Yes, so you've—you've traveled as far as the river. The river is now dry. There's no water that flows in that. You have not crossed the river bed.",
+          "DM: But you know that you know the direction to the river, and you've heard you've heard of, of the— Melusine, but you never met her. You have a vague sense of where her home is.",
+          "DM: It was once like a— have this vague memory of, of this once vibrant pool. You haven't been— along the river. So on the river. Yeah, along the river. Nope.",
+          "Caulaus: I'll sort of set off towards, like—he seems like he knows where he's going, at least generally, and he, like, occasionally swaps places with his— sometimes the echo disappears, sometimes it reappears, but it's like you kind of shifting back and forth in both the front in the back and trying to keep an eye sort of scout all directions."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i007"
+    },
+    {
+      "title": "Cursed harpies and three questions for a life",
+      "entities": [
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0732",
+        "endUid": "u1341"
+      },
+      "lines": [
+        "%% u0732:0-21, u0733:0-6, u0734:0-81 %%",
+        "DM: They're human looking women, long sort of scraggly hair, sort of ragged robes with great, big, powerful wings.",
+        "",
+        "%% u0735:0-3, u0736:0-25, u0737:0-64, u0738:0-13, u0739:0-39 %%",
+        "DM: The legs like claws of a of a vulture, the big, powerful wings of a vulture. But the torso and arms and head of a woman sort of bearing down on you.",
+        "",
+        "%% u0740:0-47, u0741:0-38, u0742:0-41, u0743:0-5, u0744:0-14, u0745:0-33, u0746:0-67, u0747:0-72, u0748:0-20, u0749:0-70, u0750:0-5, u0751:0-71, u0752:0-4, u0753:0-32, u0754:0-17, u0755:0-28, u0756:0-17, u0757:0-8, u0758:0-3, u0759:0-20, u0760:0-78, u0761:0-15, u0762:0-17, u0763:0-101, u0764:0-47, u0765:0-17, u0766:0-5, u0767:0-23, u0768:0-6, u0769:0-5, u0770:0-82, u0771:0-9, u0772:0-20, u0773:0-55, u0774:0-44, u0775:0-93, u0776:0-19, u0777:0-150, u0778:0-50, u0779:0-23, u0780:0-51, u0781:0-5, u0782:0-21, u0783:0-46, u0784:0-24, u0785:0-10, u0786:0-5, u0787:0-30, u0788:0-104, u0789:0-49, u0790:0-43, u0791:0-13, u0792:0-12, u0793:0-23, u0794:0-10, u0795:0-2, u0796:0-7, u0797:0-11, u0798:0-49, u0799:0-21, u0799:21-86, u0800:0-6, u0801:0-18, u0802:0-7, u0803:0-70, u0804:0-46, u0805:0-62, u0806:0-59, u0807:0-10, u0807:10-36, u0808:0-22, u0809:0-22, u0810:0-27, u0811:0-47, u0812:0-35, u0813:0-77, u0814:0-46, u0815:0-82, u0816:0-5, u0817:0-28, u0818:0-34, u0818:34-79, u0819:0-16, u0820:0-4, u0821:0-67, u0822:0-28, u0823:0-28, u0824:0-26, u0825:0-30, u0826:0-23, u0826:23-54, u0827:0-34, u0828:0-113, u0829:0-28, u0830:0-89, u0831:0-13, u0832:0-93, u0833:0-8, u0833:8-28, u0834:0-37, u0835:0-18, u0836:0-46, u0837:0-58, u0838:0-57, u0839:0-38, u0840:0-74, u0841:0-25, u0842:0-16, u0843:0-16, u0844:0-13, u0845:0-5, u0846:0-26, u0847:0-7, u0848:0-67, u0849:0-63, u0850:0-9, u0851:0-69, u0852:0-52, u0853:0-19, u0853:19-75, u0854:0-50, u0855:0-29, u0856:0-47, u0857:0-45, u0858:0-82, u0858:82-111, u0859:0-37, u0860:0-42, u0861:0-7, u0862:0-29, u0863:0-16, u0864:0-7, u0865:0-20, u0866:0-42, u0867:0-14, u0867:14-39, u0867:39-143, u0868:0-50, u0869:0-4, u0870:0-50, u0870:50-134, u0871:0-131, u0871:131-241, u0872:0-63, u0873:0-66, u0874:0-5, u0875:0-76, u0876:0-95, u0877:0-55, u0877:55-132, u0878:0-31, u0879:0-122, u0880:0-31, u0881:0-42, u0882:0-4, u0883:0-31, u0884:0-13, u0885:0-65, u0886:0-26, u0887:0-62, u0888:0-16, u0889:0-75, u0890:0-8, u0891:0-59, u0892:0-5, u0893:0-20, u0894:0-41, u0895:0-27, u0896:0-2, u0897:0-56, u0898:0-19, u0899:0-45, u0900:0-9, u0901:0-18, u0902:0-18, u0903:0-22, u0904:0-10, u0905:0-33, u0906:0-187, u0907:0-91, u0908:0-24, u0908:24-83, u0909:0-20, u0910:0-76, u0910:76-91, u0911:0-68, u0912:0-75, u0913:0-5, u0914:0-20, u0915:0-19, u0916:0-82, u0917:0-120, u0917:120-172, u0917:172-312, u0918:0-33, u0919:0-5, u0920:0-9, u0921:0-53, u0922:0-27, u0923:0-34, u0924:0-39, u0925:0-5, u0926:0-6, u0927:0-80, u0928:0-39, u0929:0-15, u0930:0-5, u0931:0-30, u0932:0-14, u0933:0-5, u0934:0-5, u0935:0-12, u0936:0-89, u0937:0-72, u0938:0-35, u0939:0-3, u0940:0-19, u0941:0-21, u0942:0-69, u0943:0-27, u0944:0-26, u0945:0-58, u0946:0-33, u0947:0-33, u0948:0-30, u0949:0-70, u0949:70-98, u0949:98-142, u0949:142-168, u0950:0-42, u0951:0-4, u0952:0-14, u0953:0-58, u0953:58-76, u0953:76-89, u0954:0-81, u0955:0-14, u0956:0-140, u0957:0-48, u0958:0-19, u0959:0-54, u0960:0-15, u0961:0-15, u0962:0-59, u0963:0-37, u0964:0-66, u0965:0-33, u0966:0-100, u0967:0-27, u0968:0-25, u0969:0-49, u0970:0-19, u0971:0-49, u0972:0-5, u0973:0-10, u0974:0-34, u0975:0-13, u0976:0-36, u0977:0-45, u0978:0-22, u0979:0-1, u0980:0-38, u0981:0-120, u0982:0-25, u0983:0-37, u0984:0-96, u0985:0-158, u0986:0-80, u0987:0-68, u0988:0-35, u0989:0-209, u0990:0-177, u0991:0-94, u0992:0-7, u0993:0-16, u0994:0-80, u0995:0-83, u0996:0-39, u0997:0-54, u0997:54-68, u0997:68-73, u0998:0-5, u0999:0-22, u1000:0-8, u1001:0-5, u1002:0-22, u1003:0-38, u1004:0-9, u1005:0-85, u1006:0-138, u1007:0-174, u1008:0-37, u1009:0-52, u1010:0-71, u1011:0-94, u1012:0-88, u1012:88-189, u1013:0-291, u1014:0-3, u1015:0-25, u1016:0-9, u1017:0-17, u1018:0-11, u1019:0-159, u1020:0-14, u1021:0-24, u1022:0-3, u1023:0-32, u1024:0-13, u1025:0-11, u1025:11-62, u1026:0-68, u1027:0-49, u1028:0-105, u1029:0-41, u1030:0-37, u1031:0-15, u1032:0-26, u1033:0-13, u1034:0-10, u1035:0-13, u1036:0-32, u1037:0-37, u1038:0-129, u1039:0-15, u1040:0-36, u1041:0-68, u1042:0-46, u1043:0-11, u1044:0-21, u1045:0-34, u1046:0-70, u1047:0-3, u1048:0-41, u1049:0-33, u1050:0-40, u1051:0-4, u1052:0-21, u1053:0-33, u1054:0-109, u1055:0-58, u1055:58-103, u1056:0-53, u1057:0-47, u1058:0-32, u1058:32-220, u1059:0-6, u1060:0-15, u1061:0-8, u1062:0-8, u1063:0-48, u1064:0-28, u1065:0-5, u1066:0-9, u1067:0-27, u1068:0-22, u1069:0-39, u1070:0-80, u1071:0-60, u1072:0-51, u1072:51-66, u1073:0-86, u1074:0-27, u1075:0-42, u1076:0-29, u1077:0-5, u1078:0-15, u1079:0-18, u1080:0-73, u1081:0-85, u1082:0-103, u1083:0-21, u1084:0-37, u1085:0-42, u1086:0-88, u1086:88-125, u1087:0-33, u1088:0-10, u1089:0-32, u1090:0-97, u1091:0-10, u1092:0-5, u1093:0-36, u1094:0-13, u1095:0-104, u1096:0-47, u1097:0-60, u1097:60-128, u1098:0-112, u1099:0-34, u1100:0-86, u1101:0-24, u1102:0-21, u1103:0-77, u1104:0-29, u1105:0-23, u1106:0-84, u1107:0-104, u1108:0-32, u1109:0-23, u1110:0-10, u1111:0-30, u1112:0-10, u1113:0-13, u1114:0-82, u1115:0-24, u1116:0-14, u1117:0-20, u1118:0-10, u1119:0-74, u1120:0-7, u1121:0-39, u1122:0-53, u1123:0-74, u1124:0-27, u1125:0-38, u1126:0-71, u1127:0-4, u1128:0-36, u1129:0-6, u1130:0-27, u1131:0-58, u1132:0-45, u1133:0-29, u1134:0-5, u1135:0-24, u1136:0-19, u1137:0-82, u1138:0-9, u1139:0-28, u1139:28-59, u1139:59-64, u1140:0-24, u1141:0-51, u1142:0-26, u1143:0-16, u1144:0-57, u1145:0-50, u1146:0-82, u1147:0-5, u1148:0-2, u1149:0-78, u1150:0-112, u1151:0-3, u1152:0-18, u1153:0-4, u1154:0-12, u1155:0-30, u1156:0-34, u1157:0-17, u1158:0-72, u1159:0-2, u1160:0-87, u1161:0-54, u1162:0-5, u1163:0-15, u1163:15-87, u1164:0-4, u1165:0-50, u1166:0-5, u1167:0-22, u1168:0-58, u1169:0-14, u1170:0-44, u1171:0-17, u1172:0-10, u1173:0-73, u1174:0-24, u1175:0-87, u1176:0-27, u1177:0-52, u1178:0-21, u1179:0-102, u1180:0-47, u1181:0-47, u1182:0-11, u1182:11-43, u1183:0-112, u1184:0-12, u1185:0-41, u1186:0-65 %%",
+        "((Combat, charms and tactics))",
+        "",
+        "%% u1187:0-83, u1188:0-85, u1189:0-20, u1190:0-40, u1191:0-37 %%",
+        "DM: So, so Wellby, as you're chasing after this, when you see behind you that the other 2— there's 2 that are dead. The other 2 were attempting to leave, but they've both been stunned, and now are of fallen unconscious on the ground, not turning form, so presumably not dead.",
+        "",
+        "%% u1192:0-72, u1193:0-13, u1194:0-20, u1195:0-26, u1196:0-59, u1197:0-20 %%",
+        "DM: But as you speak telepathically into the mind of the one you're chasing, it, it turns, and it looks at you. It says some—it begins to do something, but you can't hear anything because you still stuff in your ears.",
+        "",
+        "%% u1197:20-58, u1198:0-22, u1199:0-43 %%",
+        "Wellby: I tap my—I tap my brain and say again: \"Listen, land and talk. I'll spare your life. So we spared those 2?\"",
+        "",
+        "%% u1200:0-22, u1201:0-16, u1202:0-9, u1203:0-17 %%",
+        "DM: It hisses and it says: \"Been waiting for Dasoclese many, many years.\"",
+        "",
+        "%% u1204:0-40 %%",
+        "Wellby: So it sounds like you're not in a hurry.",
+        "",
+        "%% u1205:0-13 %%",
+        "Seeker: That's right.",
+        "",
+        "%% u1206:0-17 %%",
+        "DM: It begins to land.",
+        "",
+        "%% u1207:0-33, u1208:0-41 %%",
+        "Wellby: All right. Wellby will land, too. I feel this one is pretty wounded, right?",
+        "",
+        "%% u1209:0-22, u1209:22-72, u1209:72-86, u1210:0-10 %%",
+        "((Positioning))",
+        "",
+        "%% u1211:0-22, u1212:0-118, u1213:0-21 %%",
+        "Wellby: So I'll raise my hand. \"Who are you talking about? Who is Dasoclese? Why are you waiting? How come those 2 changed back into elf fairy people? What's going on here?\"",
+        "",
+        "%% u1214:0-17, u1215:0-2, u1216:0-19, u1217:0-50, u1218:0-11 %%",
+        "DM: \"So many questions.\" He hisses again at you like, tries to like sort of snaps at you, and then steps back.",
+        "",
+        "%% u1219:0-47 %%",
+        "Wellby: Wellby doesn't flinch even the smallest amount.",
+        "",
+        "%% u1220:0-12 %%",
+        "Seeker: It's a deal.",
+        "",
+        "%% u1221:0-24 %%",
+        "DM: \"3 questions for my life.\"",
+        "",
+        "%% u1222:0-34, u1223:0-53, u1224:0-57, u1225:0-21 %%",
+        "((Brief interruption about flying))",
+        "",
+        "%% u1226:0-13, u1227:0-14, u1228:0-18, u1229:0-14 %%",
+        "Wellby: I'll say back: \"No more charms on anyone I'm with, no more songs.\"",
+        "",
+        "%% u1230:0-27 %%",
+        "DM: \"And you will spare my life?\"",
+        "",
+        "%% u1231:0-12, u1232:0-8, u1233:0-20, u1234:0-6 %%",
+        "Wellby: \"3 questions, no song. I'll spare your life today.\"",
+        "",
+        "%% u1235:0-4, u1236:0-45 %%",
+        "DM: Hmm. \"Then I will not use my songs or charms today.\"",
+        "",
+        "%% u1237:0-10, u1238:0-25 %%",
+        "Wellby: Very good. I put out a hand to shake.",
+        "",
+        "%% u1239:0-32 %%",
+        "Seeker: It's a, it's a day [garbled]",
+        "",
+        "%% u1240:0-17, u1241:0-49, u1242:0-11, u1243:0-19 %%",
+        "DM: Yeah, she kind of like, bows slightly to you and says, \"We have a deal, little one. What would you ask?\"",
+        "",
+        "%% u1244:0-192, u1245:0-10, u1246:0-36, u1247:0-34, u1248:0-5, u1249:0-48, u1250:0-8, u1251:0-41, u1252:0-4, u1253:0-27, u1254:0-15, u1255:0-47, u1256:0-89, u1257:0-3, u1258:0-3, u1259:0-13, u1260:0-30, u1261:0-23, u1262:0-10, u1263:0-6, u1264:0-14, u1265:0-260, u1266:0-26, u1267:0-16, u1268:0-34, u1269:0-10, u1270:0-5, u1271:0-11 %%",
+        "((The party considers its questions))",
+        "",
+        "%% u1272:0-17 %%",
+        "Wellby: Who is Dasoclese?",
+        "",
+        "%% u1273:0-14, u1274:0-20, u1275:0-39, u1276:0-15 %%",
+        "DM: \"An ancient fey, once of these parts, claimed to be a guardian of this realm, who wronged us.\"",
+        "",
+        "%% u1277:0-54 %%",
+        "Seeker: So we still don't know if Typhina is Dasoclese or not.",
+        "",
+        "%% u1278:0-58 %%",
+        "Caulaus: I'm pretty sure Typhina is Dasoclese here. You should ask.",
+        "",
+        "%% u1279:0-12 %%",
+        "Wellby: Wait, second.",
+        "",
+        "%% u1280:0-28, u1281:0-70 %%",
+        "Seeker: I'm gonna ask you, you know— Oh, can I do that while this is happening? Do we have the appropriate—",
+        "",
+        "%% u1281:70-94 %%",
+        "DM: Yeah. All have telepathy.",
+        "",
+        "%% u1282:0-25, u1283:0-15, u1284:0-35, u1285:0-11 %%",
+        "Seeker: Conference calling? Okay. You know, as it— is this who they're after? Are you— no, here as—",
+        "",
+        "%% u1286:0-27, u1287:0-67 %%",
+        "DM: I'm just typing a response because you don't have any. I mean, I guess you can chat to people.",
+        "",
+        "%% u1288:0-40, u1289:0-53 %%",
+        "Seeker: She admits that she was once called that long ago before she was protector here of the forest.",
+        "",
+        "%% u1290:0-37 %%",
+        "DM: Ask your second question, little one.",
+        "",
+        "%% u1291:0-3, u1292:0-41, u1293:0-58, u1294:0-6, u1295:0-29, u1296:0-22, u1297:0-39, u1298:0-33, u1299:0-70 %%",
+        "((The party considers its remaining questions))",
+        "",
+        "%% u1300:0-54, u1301:0-25 %%",
+        "Wellby: Okay, for a second question, second question, then, is: Who set you to this task?",
+        "",
+        "%% u1302:0-44, u1303:0-47 %%",
+        "DM: \"No one set us to this task. We seek revenge, seek revenge for the wrongs done to our people.\"",
+        "",
+        "%% u1304:0-49 %%",
+        "Caulaus: Ask telepathically, what wrongs did Dasoclese do?",
+        "",
+        "%% u1305:0-4, u1306:0-86 %%",
+        "Wellby: Hmm. I think Wellby is going to ask instead, \"What will free you from this cursed harpy form?\"",
+        "",
+        "%% u1307:0-18, u1308:0-14, u1309:0-11, u1310:0-52 %%",
+        "DM: \"What will free us? Once, long ago, the waters, the River of Time, could have turned back the curse.",
+        "",
+        "%% u1311:0-3, u1312:0-37, u1313:0-18 %%",
+        "DM: Now I know not. Perhaps the Cloudspinner, should she return.\"",
+        "",
+        "%% u1314:0-15 %%",
+        "Seeker: Where'd she go?",
+        "",
+        "%% u1315:0-42 %%",
+        "DM: It would take her magic to heal this land.",
+        "",
+        "%% u1316:0-24 %%",
+        "Wellby: Who is the Cloudspinner?",
+        "",
+        "%% u1317:0-12 %%",
+        "DM: \"3 questions.\"",
+        "",
+        "%% u1318:0-106 %%",
+        "Wellby: Yeah. And I was just looking for a freebie, you know. Sometimes people have conversations with each other.",
+        "",
+        "%% u1319:0-40, u1320:0-15 %%",
+        "Caulaus: Cloudspinner was the queen of this realm many years ago.",
+        "",
+        "%% u1321:0-33 %%",
+        "Wellby: Wasn't Typhina the queen of this?",
+        "",
+        "%% u1322:0-23, u1323:0-25, u1324:0-12, u1325:0-28 %%",
+        "Caulaus: No, she was a guardian, one of the Cloudspinner's advisors and courtiers, but not the Queen.",
+        "",
+        "%% u1326:0-26 %%",
+        "Wellby: Y'all, I smell a side quest.",
+        "",
+        "%% u1327:0-30, u1328:0-17, u1329:0-3 %%",
+        "Caulaus: Free the Cloudspinner. That's— it's a tall task, but—",
+        "",
+        "%% u1330:0-17, u1331:0-6, u1332:0-18 %%",
+        "((Brief aside))",
+        "",
+        "%% u1333:0-27, u1334:0-26, u1335:0-39 %%",
+        "Wellby: Well, ask the harpy. Where? Where is the Cloudspinner? We've got some time. We'll go free her.",
+        "",
+        "%% u1336:0-20, u1337:0-11, u1338:0-21, u1339:0-21 %%",
+        "DM: The harpy begins to fly off and \"Got your 3 questions. I will take my leave.\"",
+        "",
+        "%% u1340:0-21, u1341:0-30 %%",
+        "Wellby: We'll see you around. We'll walk back to the others."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Let's find a defensible position. Kenzo.",
+          "Kenzo: No, I'm just—Seeker, aren't you the one that knows this place?",
+          "Seeker: I mean, I've, I've, I've been here a while and traveled through it. I've never been to this particular part, that's for sure.",
+          "DM: Is there any I mean, I I don't remember any specific spot, right? I mean, these towers are our best bet. Yeah, if you wanted to get some, if you wanted somewhere where you could get cover, you know. One of these pillars is probably your best bet.",
+          "DM: You know, at this point these creatures are maybe 4 or 500 feet away from you. And still gaining. And you can see details now. They, they, they're sort of—"
+        ],
+        "after": [
+          "Seeker: Well, the— I don't know how to say this exactly. You're sure that's you? How can we know? Wellby I know doesn't fly, not like that in the—",
+          "Wellby: Right. So with a with a a sort of a flourish of the hand, my sailors clothes are replaced by the Kenku leather armor that we found in the dragon's hoard.",
+          "Wellby: So it turns out that this was actually broken. I ran into some Kenku, you know, at the edge of the end of the ocean who figured out how to fix it. Is this not— this is—it's great, right?",
+          "Wellby: And I'll reach down around my neck and take off the raven's whistle and hand it over to Kenzo.",
+          "Seeker: And so the, the wings, to clarify, are like dragon wings?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i008"
+    },
+    {
+      "title": "Wellby’s repaired armor and gift to Kenzo",
+      "entities": [
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e028",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1349",
+        "endUid": "u1371"
+      },
+      "lines": [
+        "%% u1349:0-6, u1350:0-9, u1351:0-6, u1352:0-11, u1353:0-21, u1354:0-58, u1355:0-36 %%",
+        "Wellby: Right. So with a with a a sort of a flourish of the hand, my sailors clothes are replaced by the Kenku leather armor that we found in the dragon's hoard.",
+        "",
+        "%% u1356:0-15, u1357:0-53, u1358:0-76, u1359:0-12, u1360:0-25 %%",
+        "Wellby: So it turns out that this was actually broken. I ran into some Kenku, you know, at the edge of the end of the ocean who figured out how to fix it. Is this not— this is—it's great, right?",
+        "",
+        "%% u1361:0-95 %%",
+        "Wellby: And I'll reach down around my neck and take off the raven's whistle and hand it over to Kenzo.",
+        "",
+        "%% u1362:0-54 %%",
+        "Seeker: And so the, the wings, to clarify, are like dragon wings?",
+        "",
+        "%% u1363:0-13, u1364:0-22 %%",
+        "Wellby: Hmm, no. Like giant Kenku bird wings.",
+        "",
+        "%% u1365:0-15 %%",
+        "Seeker: The bird wings.",
+        "",
+        "%% u1366:0-20, u1367:0-5, u1368:0-56, u1369:0-3, u1370:0-5, u1371:0-23 %%",
+        "((Brief appearance clarification))"
+      ],
+      "reviewContext": {
+        "before": [
+          "Caulaus: I did, maybe I'd remember.",
+          "Wellby: Well, ask the harpy. Where? Where is the Cloudspinner? We've got some time. We'll go free her.",
+          "DM: The harpy begins to fly off and \"Got your 3 questions. I will take my leave.\"",
+          "Wellby: We'll see you around. We'll walk back to the others.",
+          "Seeker: Well, the— I don't know how to say this exactly. You're sure that's you? How can we know? Wellby I know doesn't fly, not like that in the—"
+        ],
+        "after": [
+          "Unknown: Hmm.",
+          "Seeker: Good. I was concerned there for a second that the many things in the thing around here or not. That's not— I—I'm pretty sure I'm me, and—",
+          "Unknown: So that's good.",
+          "Seeker: Although for a second there I was pretty confused.",
+          "Kenzo: So where is this grove?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i010"
+    },
+    {
+      "title": "The supposed Typhina explains the curse",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1400",
+        "endUid": "u1463"
+      },
+      "lines": [
+        "%% u1400:0-35, u1401:0-60, u1402:0-9, u1403:0-15 %%",
+        "Seeker: Alright. Also I'll say to Typhina: Do you think there's anything useful we can learn from these creatures about the Agata?",
+        "",
+        "%% u1404:0-12, u1405:0-11, u1406:0-33, u1407:0-27 %%",
+        "DM: \"About Agata? I doubt it. These people have been cursed for many, many, many generation.\"",
+        "",
+        "%% u1408:0-63 %%",
+        "Seeker: Are they correct that the Cloudspinner is the only one that can—",
+        "",
+        "%% u1409:0-22, u1410:0-1, u1411:0-23, u1412:0-8, u1413:0-8, u1414:0-31, u1415:0-78 %%",
+        "DM: \"Do not know entirely. I— the story that I heard was that they who— they wronged the land long ago, and were cursed in this form until they righted the wrongs that they had done.",
+        "",
+        "%% u1416:0-65, u1417:0-28 %%",
+        "DM: But with the Cloudspinner gone, perhaps there is no way that such yeah promises could be kept.\"",
+        "",
+        "%% u1418:0-11, u1419:0-4 %%",
+        "Seeker: Do you know what—",
+        "",
+        "%% u1420:0-23, u1421:0-32 %%",
+        "Caulaus: They did to these folk? Why would they be after revenge?",
+        "",
+        "%% u1422:0-22 %%",
+        "Seeker: Yeah, what did you do?",
+        "",
+        "%% u1423:0-1, u1424:0-9, u1425:0-20, u1426:0-21 %%",
+        "DM: \"I kept them away from the forest as gently as I could.\"",
+        "",
+        "%% u1427:0-10 %%",
+        "Unknown: Oh, really?",
+        "",
+        "%% u1428:0-35 %%",
+        "Seeker: Sounds like maybe the results were—",
+        "",
+        "%% u1429:0-32 %%",
+        "Caulaus: Were you the one who cursed them?",
+        "",
+        "%% u1430:0-36 %%",
+        "DM: \"I am—I am not so old as this curse.\"",
+        "",
+        "%% u1431:0-4 %%",
+        "Seeker: What?",
+        "",
+        "%% u1432:0-22, u1433:0-9, u1434:0-50, u1435:0-18, u1436:0-28, u1437:0-12 %%",
+        "DM: \"They were cursed long, long ago. I have not been in this land for nearly that long. I was young when I took on the guardianship and faced Agata.\"",
+        "",
+        "%% u1438:0-49, u1439:0-14 %%",
+        "Seeker: And that's what they seek revenge for, then, that— since, because—",
+        "",
+        "%% u1440:0-5 %%",
+        "Unknown: Yeah.",
+        "",
+        "%% u1441:0-8, u1442:0-37, u1443:0-23, u1444:0-32, u1445:0-30, u1446:0-20, u1447:0-37, u1448:0-32, u1449:0-25, u1450:0-12, u1451:0-18 %%",
+        "DM: \"They did come to the grove sometimes trying to make their way into the the heart of the forest, perhaps hoping there was some way that— I don't know if they stole something important that could— it could be used to bargain with somebody would free them. I don't know. We drove them off.\"",
+        "",
+        "%% u1452:0-20 %%",
+        "Seeker: How exactly did you?",
+        "",
+        "%% u1453:0-18, u1454:0-21 %%",
+        "DM: She just is silent: \"As gently as I could.\"",
+        "",
+        "%% u1455:0-3, u1456:0-38, u1457:0-32 %%",
+        "((Brief suggestion to keep moving))",
+        "",
+        "%% u1458:0-45 %%",
+        "Seeker: Is is it safe to leave these 2 bound up here?",
+        "",
+        "%% u1459:0-9, u1460:0-43, u1461:0-12, u1462:0-60, u1463:0-13 %%",
+        "DM: \"They will, like all fey, not break their word if given a promise to leave and not bother us in exchange for their lives would be perhaps wise.\""
+      ],
+      "reviewContext": {
+        "before": [
+          "Caulaus: I feel like we can. That just feels cheesy for some reason from a meta perspective, but—",
+          "Seeker: Yeah, yeah.",
+          "Kenzo: Well, I mean, they know anything about Agata, though?",
+          "Seeker: Do they?",
+          "Kenzo: So ask them. It's like a good opportunity to, like, learn more about that."
+        ],
+        "after": [
+          "Caulaus: Yeah, let's— I mean, do you want to just— yeah, you can do that.",
+          "Seeker: Okay. Let's continue towards your grove. We have to cross this dry stream of time.",
+          "DM: \"Yes, it is still some ways east. It should be visible soon from the last— there are—",
+          "DM: As you approach to the river, there are a line of beautiful stone pillars that catch the last rays of the sun, turn gold and orange and red, lighting up the the river bank.",
+          "DM: You should be able to see the grove from the top of one of those pillars, from the—I don't know where you are now.\""
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i011"
+    },
+    {
+      "title": "Melusine receives the travelers",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1754",
+        "endUid": "u1823"
+      },
+      "lines": [
+        "%% u1754:0-13, u1755:0-24, u1756:0-20, u1757:0-8, u1758:0-58 %%",
+        "DM: You hear of a a noise that sounds like like dripping water, and then it's like opening a faucet, and it gets louder and louder.",
+        "",
+        "%% u1759:0-20, u1760:0-19, u1761:0-41, u1762:0-37 %%",
+        "DM: And you see, kind of stepping out of the— into the sort of central entrance area of the glow of this sort of grotto area—",
+        "",
+        "%% u1763:0-1, u1764:0-5, u1765:0-12, u1766:0-16, u1767:0-17, u1768:0-44, u1769:0-24, u1770:0-15, u1771:0-139 %%",
+        "DM: A maybe 6 feet tall, woman dressed in sort of this like deep blue gowns, like voluminous caftans, like robe sort of draped over her entire body in all sorts of colors of blues, but all sort of faded, like it's been through the wash hundreds of times and the color has been washed out.",
+        "",
+        "%% u1772:0-98, u1773:0-110 %%",
+        "DM: Her hair is, like—she has a hood over her head, and her hair sort of flows back, seems to be white. What little of her hair you can see is white, and she has pale, sort of greenish blue, almost colorless eyes.",
+        "",
+        "%% u1774:0-63, u1775:0-75, u1776:0-13, u1777:0-34 %%",
+        "DM: And she walks slowly, and everywhere she steps you can see that she leaves wet footprints, and almost like wherever she steps on the stone, water kind of pools around her feet as she walks—",
+        "",
+        "%% u1778:0-86, u1779:0-10 %%",
+        "DM: When she comes and she sits on the steps, and she looks up at you, and she, she says: \"Who calls?\"",
+        "",
+        "%% u1780:0-6 %%",
+        "Caulaus: I am—",
+        "",
+        "%% u1780:6-21 %%",
+        "DM: \"Who bothers me?\"",
+        "",
+        "%% u1781:0-17, u1782:0-11, u1783:0-31 %%",
+        "Caulaus: Caulaus Aportino. We are here seeking your wisdom and advice.",
+        "",
+        "%% u1784:0-75, u1785:0-10 %%",
+        "((Brief name pronunciation aside))",
+        "",
+        "%% u1786:0-4, u1787:0-7, u1788:0-6, u1789:0-25, u1790:0-16, u1791:0-19, u1792:0-7, u1793:0-14 %%",
+        "Caulaus: That we are, we are friends of Dasoclese, and we were told you may be able to help us find her lost home.",
+        "",
+        "%% u1794:0-3, u1795:0-9 %%",
+        "DM: Her— her home?",
+        "",
+        "%% u1796:0-10 %%",
+        "Caulaus: Her grove.",
+        "",
+        "%% u1797:0-4, u1798:0-12, u1799:0-11, u1800:0-19, u1801:0-16, u1802:0-14, u1803:0-16 %%",
+        "DM: Yes. She did love the wood of the Heartwood Grove, the power of it. But what is it to me or to you?",
+        "",
+        "%% u1804:0-21, u1805:0-16, u1806:0-44 %%",
+        "DM: She has not been seen for a long time. Why do you come here asking information now?",
+        "",
+        "%% u1807:0-33 %%",
+        "Caulaus: Caulaus kind of glances at Seeker.",
+        "",
+        "%% u1808:0-41, u1809:0-3 %%",
+        "Seeker: He holds up his hand with the ring on it. And—",
+        "",
+        "%% u1810:0-9, u1811:0-12, u1812:0-45 %%",
+        "Caulaus: Typhina's here with us. Caulaus sort of gestures over towards Seeker.",
+        "",
+        "%% u1813:0-76, u1814:0-15 %%",
+        "Seeker: She was—she was trapped in this, this ring, you see, and we thought we might bring her home.",
+        "",
+        "%% u1815:0-7, u1816:0-41 %%",
+        "DM: Really? I always suspected that she was not dead.",
+        "",
+        "%% u1817:0-19, u1818:0-6 %%",
+        "Seeker: What do you know of Agata?",
+        "",
+        "%% u1819:0-23 %%",
+        "DM: I don't know that name.",
+        "",
+        "%% u1820:0-28, u1821:0-32 %%",
+        "Seeker: Perhaps she went by another. This is the fey that trapped her.",
+        "",
+        "%% u1822:0-7 %%",
+        "DM: Really?",
+        "",
+        "%% u1823:0-18 %%",
+        "Seeker: As far as we know."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: He— be, be polite for her.",
+          "Seeker: That's it, I—",
+          "DM: How are you? Call out you're friends of Dasoclese?",
+          "Seeker: Well, I'm, I'm a little hesitant, having been susceptible surprisingly to confusing charms. Maybe somebody else might call out this time.",
+          "Caulaus: Caulaus—well."
+        ],
+        "after": [
+          "Kenzo: Seeker, does Typhina know Agata by a different name?",
+          "Seeker: I can ask her.",
+          "Kenzo: We didn't know that.",
+          "Seeker: I ask her.",
+          "DM: I—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i012"
+    },
+    {
+      "title": "The ring-speaker’s account of her supposed survival",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1824",
+        "endUid": "u1927"
+      },
+      "lines": [
+        "%% u1824:0-52 %%",
+        "Kenzo: Seeker, does Typhina know Agata by a different name?",
+        "",
+        "%% u1825:0-14 %%",
+        "Seeker: I can ask her.",
+        "",
+        "%% u1826:0-19 %%",
+        "Kenzo: We didn't know that.",
+        "",
+        "%% u1827:0-10 %%",
+        "Seeker: I ask her.",
+        "",
+        "%% u1828:0-1 %%",
+        "DM: I—",
+        "",
+        "%% u1829:0-28, u1830:0-19, u1831:0-19 %%",
+        "DM: She must have had many names over her long life. I just knew the one.",
+        "",
+        "%% u1832:0-32 %%",
+        "DM: Secretive with their identities.",
+        "",
+        "%% u1833:0-11, u1834:0-13, u1835:0-15, u1836:0-34, u1837:0-20 %%",
+        "DM: I have many false trails, hidden names to mislead the unwary and keep there true identities safe.",
+        "",
+        "%% u1838:0-10, u1839:0-34 %%",
+        "((Unclear brief interjection))",
+        "",
+        "%% u1840:0-32 %%",
+        "DM: I doubt Agata was her true name.",
+        "",
+        "%% u1841:0-11 %%",
+        "Seeker: Fair enough.",
+        "",
+        "%% u1842:0-32 %%",
+        "Kenzo: That you only knew her as Agata.",
+        "",
+        "%% u1843:0-25 %%",
+        "DM: I hardly knew her at all.",
+        "",
+        "%% u1844:0-41 %%",
+        "Seeker: How did she trap you in the first place?",
+        "",
+        "%% u1845:0-49, u1846:0-41 %%",
+        "DM: I've told this story before. She did not trap me. This ring that you bear now was prepared.",
+        "",
+        "%% u1847:0-6, u1848:0-4, u1849:0-24, u1850:0-6, u1851:0-11, u1852:0-44, u1853:0-46 %%",
+        "DM: It was gift from an ancient dwarven wizard scholar who came to my grove seeking knowledge about the the essence of the trees, the essence of wood.",
+        "",
+        "%% u1854:0-19, u1855:0-5, u1856:0-5, u1857:0-26, u1858:0-15 %%",
+        "DM: And I wore it until Agata stole from the festival—from the Heartwood Grove.",
+        "",
+        "%% u1859:0-63, u1860:0-28, u1861:0-29, u1862:0-48, u1863:0-30 %%",
+        "DM: After Cloudspinner passed or vanished, whatever happened to her, protections were weaker, and tricksters and the unkind fey tried to steal, try to drive out those of us who remained to protect this land.",
+        "",
+        "%% u1864:0-11, u1865:0-13, u1866:0-12, u1867:0-17, u1868:0-10, u1869:0-9, u1870:0-12 %%",
+        "DM: And I found— I chased her, I chased her out of this plane to another realm, the desert land.",
+        "",
+        "%% u1871:0-4 %%",
+        "Seeker: Hmm!",
+        "",
+        "%% u1872:0-16, u1873:0-13 %%",
+        "DM: And I fought her and I failed.",
+        "",
+        "%% u1874:0-19, u1875:0-38, u1876:0-19, u1877:0-25, u1878:0-10, u1879:0-35, u1880:0-23 %%",
+        "DM: Little did she know that this ring that you now bear would hold my spirit safe till it could be returned to my home, to a place of power in the Feywild, where I could be reborn.",
+        "",
+        "%% u1881:0-12, u1882:0-14, u1883:0-11, u1884:0-49, u1885:0-28, u1886:0-28 %%",
+        "Wellby: When you say you fought her and failed, does that mean she thought that she killed you, and your body was destroyed, but none the less you lived?",
+        "",
+        "%% u1887:0-5 %%",
+        "DM: Yes.",
+        "",
+        "%% u1887:5-51 %%",
+        "Wellby: That's because it's relevant to our situation.",
+        "",
+        "%% u1888:0-3 %%",
+        "Seeker: -oh.",
+        "",
+        "%% u1889:0-5 %%",
+        "DM: Or so—",
+        "",
+        "%% u1890:0-17, u1891:0-26, u1892:0-70 %%",
+        "Wellby: We killed Agata, but we didn't kill Agata. We don't think she's actually dead. I don't think she's actually dead.",
+        "",
+        "%% u1893:0-31 %%",
+        "Seeker: We did destroy the body, though.",
+        "",
+        "%% u1894:0-12, u1895:0-16 %%",
+        "Wellby: Very much so. Conclusive ways.",
+        "",
+        "%% u1896:0-13, u1897:0-37, u1898:0-5, u1899:0-24, u1900:0-21, u1901:0-31, u1902:0-27, u1903:0-6, u1904:0-67, u1905:0-20, u1906:0-41, u1907:0-13, u1908:0-15, u1909:0-40 %%",
+        "((Recalled lair inventory))",
+        "",
+        "%% u1910:0-21, u1911:0-17, u1912:0-37, u1913:0-22 %%",
+        "DM: Fey have many tricks. And the strongest prepare for eventualities, for our own— things that may happen.",
+        "",
+        "%% u1914:0-6 %%",
+        "Unknown: Right.",
+        "",
+        "%% u1915:0-52, u1916:0-50, u1917:0-29 %%",
+        "Wellby: You said that you needed to be returned back to your home, to your place of power, to be restored again. That's what we're here doing.",
+        "",
+        "%% u1918:0-7 %%",
+        "DM: Indeed.",
+        "",
+        "%% u1919:0-34, u1920:0-3 %%",
+        "Wellby: I wonder what a place of power was— is.",
+        "",
+        "%% u1921:0-43 %%",
+        "Kenzo: How do we find Agata's home in the Feywild?",
+        "",
+        "%% u1922:0-50, u1923:0-14 %%",
+        "DM: Perhaps this is something I could help with if you bring me back.",
+        "",
+        "%% u1924:0-7 %%",
+        "Unknown: And you.",
+        "",
+        "%% u1925:0-5, u1926:0-16, u1927:0-33 %%",
+        "Seeker: Well, let's thank this nymph and get to your grove, then."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: What do you know of Agata?",
+          "DM: I don't know that name.",
+          "Seeker: Perhaps she went by another. This is the fey that trapped her.",
+          "DM: Really?",
+          "Seeker: As far as we know."
+        ],
+        "after": [
+          "DM: Did you say there was a mirror in Agata's home?",
+          "Seeker: Oh, no, nobody mentioned a mirror. Why do you ask?",
+          "Wellby: Yeah, a mirror of soul trapping, the prison.",
+          "DM: A mirror of soul trapping that can trap—",
+          "Seeker: Souls."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i013"
+    },
+    {
+      "title": "Could Agata be hiding in the mirror?",
+      "entities": [
+        {
+          "id": "e029",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e030",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e044",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1928",
+        "endUid": "u1990"
+      },
+      "lines": [
+        "%% u1928:0-31, u1929:0-16 %%",
+        "DM: Did you say there was a mirror in Agata's home?",
+        "",
+        "%% u1930:0-50 %%",
+        "Seeker: Oh, no, nobody mentioned a mirror. Why do you ask?",
+        "",
+        "%% u1931:0-31, u1932:0-11 %%",
+        "Wellby: Yeah, a mirror of soul trapping, the prison.",
+        "",
+        "%% u1933:0-11, u1934:0-13, u1935:0-8, u1936:0-4 %%",
+        "DM: A mirror of soul trapping that can trap—",
+        "",
+        "%% u1937:0-6 %%",
+        "Seeker: Souls.",
+        "",
+        "%% u1938:0-26, u1939:0-62, u1940:0-24 %%",
+        "DM: You explore it thoroughly? Are you sure that Agata's soul does not linger in that mirror? What did you find in the—",
+        "",
+        "%% u1941:0-8, u1942:0-26 %%",
+        "Seeker: In there, we did find several souls.",
+        "",
+        "%% u1943:0-3 %%",
+        "Wellby: Oh.",
+        "",
+        "%% u1944:0-41 %%",
+        "DM: You, you found some of the souls of, of who?",
+        "",
+        "%% u1945:0-20 %%",
+        "Seeker: There was an ancient—",
+        "",
+        "%% u1946:0-28 %%",
+        "((Brief side-quest joke))",
+        "",
+        "%% u1947:0-36, u1948:0-3 %%",
+        "Seeker: No, wasn't there also an ancient, like— and—",
+        "",
+        "%% u1949:0-6 %%",
+        "Kenzo: Goblin.",
+        "",
+        "%% u1950:0-2, u1951:0-4 %%",
+        "Seeker: No what—",
+        "",
+        "%% u1952:0-15 %%",
+        "Caulaus: Hobgoblin mage.",
+        "",
+        "%% u1953:0-20 %%",
+        "Seeker: But she's not Agata.",
+        "",
+        "%% u1954:0-41 %%",
+        "Caulaus: But I'—that totally could have been Sura.",
+        "",
+        "%% u1955:0-28 %%",
+        "Seeker: I think you saw her, though.",
+        "",
+        "%% u1956:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u1957:0-58 %%",
+        "Seeker: Or maybe the, the new Sura is not the same as the old Sura.",
+        "",
+        "%% u1958:0-12 %%",
+        "DM: Who is Sura?",
+        "",
+        "%% u1959:0-62 %%",
+        "Caulaus: Well, I mean, I obviously wasn't saying this any in character.",
+        "",
+        "%% u1960:0-6 %%",
+        "Wellby: Right?",
+        "",
+        "%% u1961:0-42 %%",
+        "Caulaus: I think we'll be having this conversation.",
+        "",
+        "%% u1962:0-29 %%",
+        "DM: But Typhina is asking who is?",
+        "",
+        "%% u1963:0-49, u1964:0-5, u1965:0-29, u1966:0-3 %%",
+        "((Brief clarification of who is speaking))",
+        "",
+        "%% u1967:0-12, u1968:0-21, u1969:0-11, u1970:0-16, u1971:0-68, u1972:0-62, u1973:0-40 %%",
+        "Kenzo: If somebody— If Agata were to have merged with another, and the— there must be some signature of her still, right? She must have some— there must be some way of knowing that it's still Agata, right? Her presence must be detectable somehow.",
+        "",
+        "%% u1974:0-43 %%",
+        "DM: I wish I knew more about the magic of hags.",
+        "",
+        "%% u1975:0-37, u1976:0-10, u1977:0-22, u1978:0-12 %%",
+        "Kenzo: Can we learn more here in the Feywild? Agata must have a lair, a teacher, or acolytes.",
+        "",
+        "%% u1979:0-24, u1980:0-10, u1981:0-29, u1982:0-32 %%",
+        "DM: So much has been lost in Amberglow. There is only a few of us who lingered and defended the realm.",
+        "",
+        "%% u1983:0-52, u1984:0-24, u1985:0-33, u1986:0-146 %%",
+        "((A proposed chain of further quests))",
+        "",
+        "%% u1987:0-43 %%",
+        "DM: No matter what, the first step is the grove.",
+        "",
+        "%% u1988:0-4 %%",
+        "Caulaus: Yes.",
+        "",
+        "%% u1989:0-55, u1990:0-41 %%",
+        "DM: I think, rather than discussing this hag and her tricks any longer, perhaps it is time to proceed."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: I wonder what a place of power was— is.",
+          "Kenzo: How do we find Agata's home in the Feywild?",
+          "DM: Perhaps this is something I could help with if you bring me back.",
+          "Unknown: And you.",
+          "Seeker: Well, let's thank this nymph and get to your grove, then."
+        ],
+        "after": [
+          "Seeker: Shall we go to the grove?",
+          "DM: So you travel. It's, it's not a long—it's not a long journey to the grove from here, actually. The, the nymph does direct you in, like, the safe path, and, and she does— She does warn you to avoid some of the larger mushrooms. She says they are hallucinogenic.",
+          "Kenzo: What? Or ingest.",
+          "DM: Well ingest in a controlled manner, if you wish, but avoid, because they may trick you into thinking your friends are your enemies.",
+          "DM: I—you approach the grove, and you can see these trees now, one of the few places here in the Feywild up—the in this realm of Amberglow, that there is still life, that there is a color of this sort of deep greens."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i014"
+    },
+    {
+      "title": "The ring is placed and Agata emerges",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2019",
+        "endUid": "u2093"
+      },
+      "lines": [
+        "%% u2019:0-29, u2020:0-20 %%",
+        "DM: And as you approach, you hear Seeker, from Typhina:",
+        "",
+        "%% u2021:0-24, u2022:0-9, u2023:0-34, u2024:0-13, u2025:0-29, u2026:0-35, u2027:0-7, u2028:0-36 %%",
+        "DM: \"I can tell you are here. Place me, place me in the tree. Put the ring there. I will pull my spirit into the tree, and you can take the ring back, and I think I think a new body is waiting for me.\"",
+        "",
+        "%% u2029:0-4, u2030:0-48, u2031:0-5, u2032:0-4 %%",
+        "Seeker: Now, I'm glad that we've been able to bring you here, and I— you—",
+        "",
+        "%% u2033:0-23, u2034:0-58, u2035:0-21 %%",
+        "Seeker: I hate to say this, but we've put ourselves at risk, and come a long way to do so. What can you offer us?",
+        "",
+        "%% u2036:0-8, u2037:0-33 %%",
+        "DM: \"In this? Trapped in the ring? Very little.\"",
+        "",
+        "%% u2038:0-21 %%",
+        "Seeker: But once you're free?",
+        "",
+        "%% u2039:0-20 %%",
+        "DM: \"What would you like?\"",
+        "",
+        "%% u2040:0-5, u2041:0-76, u2042:0-14, u2043:0-31, u2044:0-26 %%",
+        "Seeker: Well, our primary concern at the moment is to find our way back to Lastlight Falls so that we can get back to where we came from. Can you help us with that?",
+        "",
+        "%% u2045:0-18, u2046:0-23 %%",
+        "DM: \"Simple enough. You return the way you came.\"",
+        "",
+        "%% u2047:0-27, u2048:0-29 %%",
+        "Kenzo: Help us to find and rid—rid this—rid all planes of Agata.",
+        "",
+        "%% u2049:0-21 %%",
+        "Seeker: That's a worthy goal.",
+        "",
+        "%% u2050:0-29, u2051:0-13, u2052:0-29 %%",
+        "DM: \"I will gladly help you learn Agata's fate. That is a promise I can give.\"",
+        "",
+        "%% u2053:0-9, u2054:0-41, u2055:0-11 %%",
+        "Seeker: I accept. Take the ring from my finger and place it on the tree.",
+        "",
+        "%% u2056:0-5, u2057:0-9, u2058:0-6, u2059:0-22, u2060:0-19, u2061:0-156, u2062:0-38, u2063:0-31, u2064:0-40, u2065:0-6, u2066:0-8, u2067:0-22, u2068:0-18, u2069:0-28, u2070:0-6, u2071:0-7, u2072:0-3, u2073:0-6, u2074:0-9, u2074:9-15, u2075:0-52, u2076:0-2, u2077:0-17 %%",
+        "((The party waits while laughter and a hand emerge from the tree))",
+        "",
+        "%% u2078:0-14, u2079:0-13 %%",
+        "DM: Agata emerges. And she says:",
+        "",
+        "%% u2080:0-10, u2081:0-25, u2082:0-18, u2083:0-33 %%",
+        "DM: \"I told you they have many identities and personalities. But I told you we always prepare.",
+        "",
+        "%% u2084:0-31, u2085:0-33 %%",
+        "DM: Now I have fulfilled my promise, you—you've learned Agata's fate.",
+        "",
+        "%% u2086:0-23, u2087:0-12, u2088:0-8, u2089:0-29 %%",
+        "DM: We could fix this, right, if you wish, send you back to your world right now.",
+        "",
+        "%% u2090:0-29, u2091:0-39 %%",
+        "DM: I'm going to say in gratitude for the chaos you've caused in my name.",
+        "",
+        "%% u2092:0-36, u2093:0-41 %%",
+        "DM: The best civil war is always the one where every side believes they are right.\""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: What? Or ingest.",
+          "DM: Well ingest in a controlled manner, if you wish, but avoid, because they may trick you into thinking your friends are your enemies.",
+          "DM: I—you approach the grove, and you can see these trees now, one of the few places here in the Feywild up—the in this realm of Amberglow, that there is still life, that there is a color of this sort of deep greens.",
+          "DM: And you, as you sort of step into the grove, you can hear the of a, of a deep forest, the silence of a, you know of of of that kind of place where you know there's moss everywhere where there's you know, leaves everywhere where just all the echoes are dampened by just the sort of ancient aura of the forest itself. And you can see this massive tree, this massive oak that stands in the center of this grove.",
+          "DM: The branches stretch 40 feet, one tree sort of fallen over in front of it. And in this sort of—in this grove is kind of split up. This big tree is, like, there's a crack in the tree, possibly where something once was."
+        ],
+        "after": [
+          "Wellby: I—Wellby doesn't hesitate. I lunge.",
+          "Seeker: I don't know.",
+          "DM: Okay, let's roll initiative.",
+          "Seeker: Oh, my God, you guys, what we could get ourselves into!",
+          "Caulaus: It's fine. It's fine."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i015"
+    },
+    {
+      "title": "Agata’s second defeat",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2094",
+        "endUid": "u2612"
+      },
+      "lines": [
+        "%% u2094:0-35 %%",
+        "Wellby: I—Wellby doesn't hesitate. I lunge.",
+        "",
+        "%% u2095:0-13, u2096:0-28, u2097:0-54, u2098:0-21, u2099:0-182, u2100:0-98, u2101:0-5, u2102:0-40, u2103:0-53, u2104:0-12, u2105:0-176, u2106:0-195, u2107:0-30, u2108:0-9, u2109:0-28, u2110:0-48, u2111:0-44, u2112:0-57, u2113:0-67, u2114:0-44, u2115:0-25, u2116:0-5, u2117:0-9, u2118:0-32, u2119:0-12, u2120:0-13, u2121:0-4, u2122:0-76, u2123:0-6, u2124:0-8, u2125:0-17, u2126:0-54, u2127:0-58, u2128:0-5, u2129:0-4, u2130:0-12, u2131:0-52, u2132:0-30, u2133:0-23, u2134:0-41, u2135:0-14, u2136:0-49, u2137:0-8, u2138:0-10, u2139:0-28, u2140:0-99, u2141:0-75, u2142:0-30, u2143:0-34, u2144:0-43, u2145:0-46, u2146:0-14, u2147:0-5, u2148:0-67, u2149:0-5, u2150:0-12, u2151:0-19, u2151:19-39, u2152:0-23, u2153:0-26, u2154:0-19, u2155:0-43, u2156:0-45, u2157:0-65, u2158:0-47, u2159:0-32, u2160:0-4, u2161:0-14, u2162:0-35, u2163:0-113, u2163:113-145, u2163:145-182, u2164:0-45, u2165:0-36, u2166:0-27, u2167:0-9, u2168:0-11, u2169:0-9, u2170:0-121, u2171:0-5, u2172:0-9, u2173:0-28, u2174:0-45, u2175:0-27, u2176:0-15, u2177:0-14, u2178:0-10, u2179:0-5, u2180:0-8, u2181:0-4, u2182:0-82, u2183:0-77, u2184:0-60, u2185:0-122, u2186:0-109, u2187:0-48, u2188:0-122, u2189:0-6, u2190:0-99, u2191:0-13, u2192:0-20, u2193:0-26, u2194:0-53, u2195:0-46, u2196:0-66, u2197:0-13, u2198:0-17, u2199:0-52, u2200:0-46, u2201:0-18, u2201:18-112, u2202:0-53, u2203:0-78, u2204:0-6, u2205:0-123, u2206:0-3, u2207:0-13, u2208:0-11, u2209:0-12, u2210:0-40, u2211:0-20, u2212:0-3, u2213:0-75, u2214:0-45, u2215:0-12, u2216:0-5, u2217:0-89, u2218:0-6, u2219:0-64, u2220:0-7, u2221:0-55, u2222:0-37, u2223:0-166, u2224:0-49, u2225:0-32, u2226:0-13, u2227:0-63, u2228:0-5, u2229:0-25, u2230:0-19, u2231:0-30, u2232:0-13, u2233:0-83, u2234:0-20, u2235:0-34, u2236:0-64, u2237:0-15, u2238:0-12, u2239:0-50, u2240:0-13, u2241:0-18, u2242:0-34, u2243:0-15, u2244:0-4, u2245:0-8, u2246:0-10, u2247:0-5, u2248:0-23, u2249:0-26, u2250:0-42, u2251:0-9, u2252:0-55, u2253:0-41, u2254:0-72, u2255:0-102, u2256:0-46, u2257:0-74, u2258:0-4, u2259:0-11, u2260:0-66, u2261:0-70, u2261:70-104, u2261:104-144, u2262:0-34, u2263:0-10, u2264:0-5, u2265:0-9, u2266:0-43, u2267:0-22, u2268:0-39, u2268:39-117, u2269:0-5, u2270:0-16, u2271:0-23, u2272:0-45, u2273:0-14, u2274:0-49, u2275:0-28, u2276:0-21, u2277:0-9, u2278:0-20, u2279:0-4, u2280:0-19, u2281:0-21, u2282:0-17, u2283:0-23, u2284:0-46, u2285:0-26, u2286:0-99, u2287:0-5, u2288:0-82, u2289:0-30, u2290:0-48, u2291:0-8, u2292:0-25, u2293:0-23, u2294:0-21, u2295:0-42, u2296:0-40, u2297:0-7, u2298:0-3, u2299:0-18, u2300:0-21, u2300:21-69, u2301:0-7, u2302:0-27, u2303:0-7, u2304:0-110, u2305:0-66, u2306:0-56, u2307:0-17, u2308:0-53, u2309:0-33, u2310:0-30, u2311:0-19, u2312:0-26, u2313:0-17, u2314:0-4, u2315:0-11, u2316:0-8, u2317:0-22, u2318:0-9, u2319:0-15, u2320:0-14, u2321:0-30, u2322:0-5, u2323:0-11, u2324:0-5, u2325:0-10, u2326:0-6, u2327:0-55, u2328:0-5, u2329:0-18, u2330:0-3, u2331:0-8, u2332:0-16, u2333:0-44, u2334:0-5, u2335:0-33, u2336:0-11, u2337:0-9, u2338:0-3, u2339:0-44, u2340:0-17, u2341:0-11, u2342:0-22, u2343:0-34, u2344:0-12, u2345:0-27, u2346:0-5, u2347:0-15, u2348:0-25, u2349:0-18, u2349:18-24, u2350:0-10, u2351:0-17, u2352:0-5, u2353:0-2, u2354:0-31, u2355:0-26, u2356:0-29, u2357:0-25, u2358:0-36, u2359:0-39, u2360:0-40, u2361:0-72, u2362:0-53, u2363:0-4, u2364:0-20, u2365:0-167, u2366:0-107, u2367:0-42, u2368:0-51, u2368:51-116, u2369:0-36, u2370:0-8, u2371:0-3, u2372:0-118, u2373:0-79, u2373:79-140, u2374:0-17, u2375:0-46, u2376:0-24, u2377:0-5, u2378:0-26, u2379:0-26, u2380:0-27, u2380:27-55, u2381:0-32, u2382:0-14, u2383:0-18, u2384:0-53, u2385:0-21, u2386:0-53, u2387:0-3, u2388:0-27, u2389:0-23, u2390:0-4, u2391:0-116, u2392:0-5, u2393:0-2, u2394:0-122, u2395:0-19, u2396:0-15, u2396:15-42, u2397:0-12, u2398:0-33, u2399:0-10, u2400:0-12, u2401:0-5, u2402:0-46, u2403:0-45, u2404:0-4, u2405:0-206, u2406:0-32, u2407:0-15, u2408:0-82, u2409:0-12, u2410:0-10, u2411:0-63, u2411:63-71, u2412:0-9, u2413:0-30, u2414:0-36, u2415:0-48, u2416:0-10, u2417:0-43, u2418:0-70, u2419:0-44, u2419:44-136, u2420:0-70, u2421:0-12, u2422:0-123, u2423:0-83, u2424:0-46, u2425:0-12, u2426:0-65, u2427:0-23, u2428:0-22, u2429:0-51, u2430:0-36, u2431:0-19, u2432:0-45, u2432:45-81, u2433:0-22, u2434:0-5, u2435:0-17, u2436:0-24, u2437:0-3, u2438:0-12, u2439:0-26, u2440:0-54, u2441:0-10, u2442:0-46, u2443:0-80, u2444:0-35, u2445:0-81, u2446:0-36, u2447:0-5, u2448:0-5, u2449:0-105, u2449:105-132, u2450:0-82, u2451:0-26, u2452:0-28, u2453:0-15, u2454:0-44, u2455:0-10, u2456:0-52, u2457:0-27, u2458:0-17, u2459:0-14, u2460:0-25, u2461:0-5, u2462:0-62, u2463:0-43, u2464:0-68, u2465:0-5, u2466:0-8, u2467:0-9, u2468:0-30, u2468:30-65, u2469:0-3, u2470:0-19, u2471:0-45, u2472:0-13, u2473:0-4, u2474:0-3, u2475:0-9, u2476:0-46, u2477:0-10, u2478:0-22, u2478:22-36, u2479:0-81, u2480:0-126, u2481:0-51, u2482:0-78, u2482:78-197, u2483:0-17, u2484:0-65, u2484:65-144, u2485:0-68, u2486:0-45, u2487:0-13, u2488:0-8, u2489:0-86, u2490:0-27, u2491:0-71, u2492:0-41, u2493:0-5, u2494:0-46, u2495:0-3, u2496:0-9, u2497:0-14, u2498:0-5, u2499:0-46, u2500:0-34, u2501:0-11, u2502:0-89, u2503:0-6, u2504:0-23, u2505:0-34, u2506:0-85, u2507:0-36, u2508:0-3, u2509:0-15, u2510:0-31, u2511:0-19, u2512:0-10, u2513:0-1, u2514:0-35, u2515:0-23, u2516:0-15, u2517:0-24, u2518:0-58, u2519:0-5, u2520:0-14, u2521:0-19, u2522:0-29, u2523:0-21, u2524:0-115, u2525:0-48, u2526:0-29, u2527:0-89, u2528:0-53, u2528:53-72, u2528:72-107, u2529:0-73, u2530:0-60, u2531:0-17, u2532:0-15, u2532:15-39, u2533:0-33, u2534:0-46, u2535:0-31, u2536:0-70, u2537:0-90 %%",
+        "((Combat and table discussion))",
+        "",
+        "%% u2538:0-15, u2539:0-12 %%",
+        "DM: And she sort of staggers out:",
+        "",
+        "%% u2540:0-32, u2541:0-33 %%",
+        "DM: \"There's so much I can tell you. It doesn't need to end like this.\"",
+        "",
+        "%% u2542:0-7, u2543:0-17, u2544:0-50, u2545:0-21, u2546:0-106, u2547:0-68, u2548:0-8, u2549:0-52, u2550:0-30, u2551:0-113, u2552:0-83, u2553:0-12, u2553:12-59, u2554:0-53, u2554:53-108, u2555:0-75, u2556:0-249, u2557:0-79, u2558:0-108, u2559:0-138, u2560:0-64, u2561:0-86, u2562:0-4, u2563:0-38, u2564:0-15, u2565:0-27, u2566:0-39, u2567:0-37, u2568:0-50, u2569:0-5, u2570:0-86, u2570:86-144, u2571:0-3, u2572:0-9, u2573:0-17, u2574:0-47, u2575:0-157, u2576:0-8, u2577:0-21, u2578:0-5, u2579:0-29, u2580:0-9, u2581:0-5, u2582:0-39, u2582:39-55, u2583:0-46, u2584:0-29, u2585:0-29, u2586:0-62, u2587:0-69, u2588:0-24, u2589:0-32, u2590:0-1, u2591:0-10, u2592:0-26, u2593:0-3, u2594:0-19, u2595:0-41, u2595:41-137, u2596:0-9, u2597:0-70, u2598:0-4, u2599:0-59, u2600:0-32, u2601:0-67, u2602:0-5, u2603:0-4, u2604:0-35, u2604:35-86, u2604:86-137, u2605:0-126, u2606:0-37, u2607:0-103, u2608:0-82, u2609:0-53, u2609:53-108, u2610:0-62, u2611:0-84 %%",
+        "((Combat ends with Agata knocked unconscious))",
+        "",
+        "%% u2612:0-54 %%",
+        "DM: So Agata is unconscious on the ground in front of you."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: \"I told you they have many identities and personalities. But I told you we always prepare.",
+          "DM: Now I have fulfilled my promise, you—you've learned Agata's fate.",
+          "DM: We could fix this, right, if you wish, send you back to your world right now.",
+          "DM: I'm going to say in gratitude for the chaos you've caused in my name.",
+          "DM: The best civil war is always the one where every side believes they are right.\""
+        ],
+        "after": [
+          "Kenzo: I, I talked with plants, and I actually changed it. Yeah, that's what I'm doing right now. I'm gonna talk to the tree.",
+          "Caulaus: Kenzo will also look at all of you and say, \"Somebody, you know—\"",
+          "Seeker: Clearly. Yeah. I got a—",
+          "Kenzo: Unarmed strike, like Stunning Strike is fucking awesome, like great student, but really nice to use that.",
+          "DM: Yeah, you've gotten a lot stronger since you faced Agata the first time."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i016"
+    },
+    {
+      "title": "The DM confirms the long impersonation",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2182",
+        "endUid": "u2196"
+      },
+      "lines": [
+        "%% u2182:0-82 %%",
+        "Kenzo: Was Typhina always Agata, or was that, like, like—did you, like, like add that later?",
+        "",
+        "%% u2183:0-77 %%",
+        "DM: And it's always been Agata. I've just been waiting for, like, a year and a half.",
+        "",
+        "%% u2184:0-60, u2185:0-122, u2186:0-109, u2187:0-48, u2188:0-122, u2189:0-6, u2190:0-99, u2191:0-13, u2192:0-20 %%",
+        "((Discussion of alternate outcomes))",
+        "",
+        "%% u2193:0-26, u2194:0-53, u2195:0-46, u2196:0-66 %%",
+        "DM: I've been waiting for like a year and a half for one of you to look at this ring in Eudomes's mirror, which you never once did, because the whole—Agata's whole story would have been a total lie."
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: Come? Not them.",
+          "Kenzo: Can I hear you?",
+          "DM: Right now? Okay.",
+          "Kenzo: It's in.",
+          "DM: Yep."
+        ],
+        "after": [
+          "Seeker: I—yeah, I do. [garbled] I was 3.",
+          "Kenzo: Only we had done that—it was on our list, wasn't it?",
+          "DM: Yeah, it was on your list. You almost did like like a while ago—",
+          "Seeker: But I just got distracted by the new shiny thing. We killed Agata once, we can kill Agata again.",
+          "Wellby: We'—so many cards in the past year. At the end of it."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i017"
+    },
+    {
+      "title": "The obsidian fly is recovered again",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2524",
+        "endUid": "u2526"
+      },
+      "lines": [
+        "%% u2524:0-115 %%",
+        "Caulaus: Wait, do we want the fly to die? It reverts back to its fly form again. We've been through this before. Yeah, yeah.",
+        "",
+        "%% u2525:0-48 %%",
+        "DM: Yup! The fly reverts back to a little ebony fly.",
+        "",
+        "%% u2526:0-29 %%",
+        "Wellby: I'll hop down and pick it up."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Doesn't want to take one—",
+          "Wellby: Steady Aim and, and stab it. I assume I'm in melee with it.",
+          "DM: Yeah. That, that hits.",
+          "Caulaus: The crit's for sure.",
+          "Wellby: That is a—that's a happy crit. That's going to kill?"
+        ],
+        "after": [
+          "DM: Drops to the ground. Not—cannot be used for, I think, a day or 2. I forget exactly. Which— was that your crit damage, or did it not roll twice?",
+          "Wellby: It's rolled twice.",
+          "DM: Yeah, but it doesn't matter because—",
+          "Caulaus: It's—I was gonna say, you should do a lot more damage than that on a crit.",
+          "DM: You needed, like, 5 more damage to kill it from that total, so Agata is stunned. All she can do—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i018"
+    },
+    {
+      "title": "The Eternal asks for a guardian",
+      "entities": [
+        {
+          "id": "e032",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e033",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e034",
+          "role": "cameo",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2627",
+        "endUid": "u2790"
+      },
+      "lines": [
+        "%% u2627:0-47, u2628:0-105, u2629:0-27, u2630:0-27 %%",
+        "Kenzo: Tim, I—Kenzo—you see Kenzo take his staff and kind of there's in, in the, the roots, and the, the kind of puts it into the roots, like takes his staff and gently puts it into the the a root network of the tree.",
+        "",
+        "%% u2631:0-78, u2632:0-26, u2633:0-20 %%",
+        "Kenzo: And then you see this kind of shimmering blue light kind of start traveling up kind of go into the staff, and he's holding it.",
+        "",
+        "%% u2634:0-22, u2635:0-92 %%",
+        "Kenzo: And his own eyes start kind of glowing a gentle blue from below. His eyes are closed, and Tim, I talked to the tree.",
+        "",
+        "%% u2636:0-53, u2637:0-16, u2638:0-5, u2639:0-17, u2640:0-27 %%",
+        "DM: Very, very slowly, you feel the tree begin to wake up and look at you, or, or commune with you. What do you want to ask it?",
+        "",
+        "%% u2641:0-17, u2642:0-21, u2643:0-11 %%",
+        "Kenzo: My name is Kenzo. I'm here with friends, companions.",
+        "",
+        "%% u2644:0-30, u2645:0-3, u2646:0-26 %%",
+        "Kenzo: What is your relationship with— to— or what's that, Dasoclese?",
+        "",
+        "%% u2647:0-7 %%",
+        "DM: Do you—",
+        "",
+        "%% u2648:0-10 %%",
+        "Unknown: Or do you—",
+        "",
+        "%% u2649:0-94 %%",
+        "DM: The voice comes very slowly, as if this creature is struggling to speak or struggling to wake.",
+        "",
+        "%% u2650:0-8, u2651:0-5, u2652:0-24, u2653:0-18 %%",
+        "DM: \"Creature stole the living wood from me, turned it to evil.\"",
+        "",
+        "%% u2654:0-3 %%",
+        "((Brief interjection))",
+        "",
+        "%% u2655:0-47 %%",
+        "Kenzo: Can we return it? Where is the living wood now?",
+        "",
+        "%% u2656:0-16 %%",
+        "Wellby: We destroyed it?",
+        "",
+        "%% u2657:0-18 %%",
+        "Caulaus: We did destroy it.",
+        "",
+        "%% u2658:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u2659:0-31 %%",
+        "Seeker: What was that, you destroyed it?",
+        "",
+        "%% u2660:0-105 %%",
+        "Caulaus: It was the thing that she was using to make all the wooden people. We decided it was too evil to survive.",
+        "",
+        "%% u2661:0-11 %%",
+        "DM: \"It is gone.\"",
+        "",
+        "%% u2662:0-4 %%",
+        "Unknown: You.",
+        "",
+        "%% u2663:0-20 %%",
+        "DM: \"But I am still here.\"",
+        "",
+        "%% u2664:0-23, u2665:0-3 %%",
+        "((Brief attempted question))",
+        "",
+        "%% u2666:0-9, u2667:0-26, u2668:0-12, u2669:0-56, u2670:0-6 %%",
+        "DM: \"There is— there is much I could ask, but I do not do not place an obligation on you to accept any of this. Grove—",
+        "",
+        "%% u2671:0-4 %%",
+        "Unknown: You.",
+        "",
+        "%% u2672:0-10, u2673:0-21, u2674:0-21, u2675:0-11, u2676:0-18, u2677:0-30, u2678:0-29 %%",
+        "DM: My forest needs a new guardian, someone who can stay, protect us, protect this place until the Cloudspinner returns whenever that time should be.\"",
+        "",
+        "%% u2679:0-41, u2680:0-50, u2681:0-39, u2682:0-58, u2682:58-117 %%",
+        "((Jokes about choosing a guardian))",
+        "",
+        "%% u2683:0-8, u2684:0-8, u2685:0-4, u2686:0-18 %%",
+        "DM: And with Typhina, with with Bellator dead—",
+        "",
+        "%% u2687:0-8 %%",
+        "Unknown: My door.",
+        "",
+        "%% u2688:0-11, u2689:0-17, u2690:0-43, u2691:0-70, u2692:0-18, u2693:0-30 %%",
+        "DM: \"The lady of— the Lady Eventide, lost in the wanderings of the Cloud Palace. There are a precious few who can defend the pockets of Amberglow where people still—where a fey can still tread safely.\"",
+        "",
+        "%% u2694:0-30, u2695:0-78, u2696:0-39, u2696:39-105, u2696:105-121, u2696:121-186, u2697:0-123, u2698:0-1, u2699:0-44, u2700:0-20, u2701:0-2, u2702:0-32, u2703:0-6, u2704:0-78, u2704:78-126, u2705:0-14, u2706:0-38, u2707:0-71, u2708:0-46, u2709:0-51, u2710:0-82, u2711:0-8, u2712:0-53 %%",
+        "((Table clarification of names and the tree’s audience))",
+        "",
+        "%% u2713:0-21, u2714:0-12 %%",
+        "Kenzo: And what is your name, to the tree?",
+        "",
+        "%% u2715:0-1, u2716:0-21, u2717:0-5, u2718:0-21, u2719:0-4 %%",
+        "((Brief table joke))",
+        "",
+        "%% u2720:0-18 %%",
+        "DM: The Heartwood Tree.",
+        "",
+        "%% u2721:0-21 %%",
+        "Kenzo: Heartwood Tree. Yeah.",
+        "",
+        "%% u2722:0-23 %%",
+        "DM: \"I am called the Eternal.\"",
+        "",
+        "%% u2723:0-17, u2724:0-21, u2725:0-18, u2726:0-41 %%",
+        "Kenzo: Dasoclese, Agata, they're not dead yet. She's unconscious. What do you think we should do with them?",
+        "",
+        "%% u2727:0-45 %%",
+        "DM: \"There is no redemption for one such as that.\"",
+        "",
+        "%% u2727:45-66 %%",
+        "Kenzo: Can you imprison her?",
+        "",
+        "%% u2728:0-3 %%",
+        "((Brief interjection))",
+        "",
+        "%% u2729:0-8, u2730:0-16, u2731:0-29, u2732:0-24, u2733:0-7 %%",
+        "DM: \"I could, but I would fear the corruption that she might bring to this grove even trapped.\"",
+        "",
+        "%% u2734:0-4 %%",
+        "Unknown: You.",
+        "",
+        "%% u2735:0-26, u2736:0-40 %%",
+        "Kenzo: Can we leave her with you? Or would you prefer that we destroy her?",
+        "",
+        "%% u2737:0-23, u2738:0-22, u2739:0-18, u2740:0-28, u2741:0-24 %%",
+        "DM: \"The Cloudspinner should pass judgment over her. Until she returns, I'd be happy to imprison her if a guardian will stay.\"",
+        "",
+        "%% u2742:0-30, u2743:0-41, u2744:0-28, u2745:0-24 %%",
+        "Kenzo: Kenzo bows deeply to the tree, and then kind of comes out of his trance, looks back at the companions, relays the conversation.",
+        "",
+        "%% u2746:0-106, u2747:0-5, u2748:0-68, u2749:0-17, u2750:0-92 %%",
+        "((Kenzo relays the request))",
+        "",
+        "%% u2751:0-32, u2752:0-12, u2753:0-9, u2754:0-17 %%",
+        "Caulaus: Caulaus sort of looks around it, the 3 of you, and steps towards the tree.",
+        "",
+        "%% u2755:0-17, u2756:0-21 %%",
+        "Caulaus: I think it was my fate to have met you.",
+        "",
+        "%% u2757:0-137, u2758:0-40 %%",
+        "((Brief clarification of the audience))",
+        "",
+        "%% u2759:0-9, u2760:0-3, u2761:0-82, u2762:0-6, u2763:0-9, u2764:0-19, u2765:0-11, u2766:0-24 %%",
+        "Caulaus: Long ago, and in the clear places in the Feywild like this, I can remember that it was long ago. I did something, cannot recall what, but it hurt the Cloudspinner greatly.",
+        "",
+        "%% u2767:0-2, u2768:0-4, u2769:0-50, u2770:0-25, u2771:0-14 %%",
+        "Caulaus: Is hard to seek redemption for things you cannot remember, but perhaps in this place I can find it.",
+        "",
+        "%% u2772:0-2, u2773:0-16, u2774:0-3, u2775:0-20 %%",
+        "Caulaus: He takes his tabard off and hands it to you.",
+        "",
+        "%% u2776:0-3 %%",
+        "Unknown: You.",
+        "",
+        "%% u2777:0-39, u2778:0-12, u2779:0-25 %%",
+        "Caulaus: Drankor may be gone from the world that you live in, but it was a great ideal.",
+        "",
+        "%% u2780:0-12, u2781:0-6, u2782:0-40, u2783:0-25 %%",
+        "Caulaus: If there are places still like it, I would have you remember what was best of Drankor.",
+        "",
+        "%% u2784:0-35 %%",
+        "Caulaus: Alas, take, take this as a reminder.",
+        "",
+        "%% u2785:0-45, u2786:0-31, u2787:0-103, u2788:0-29, u2789:0-35, u2790:0-16 %%",
+        "Caulaus: And then he, like, he reaches out to the tree, just puts his hand on the tree. His echo kind of is, like, peering about, like, in the branches of the tree. You just—he says something in Drankorian or Sylvan or both, \"I am ready,\" or something like that. Go ahead. Sorry."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Would I say— really nice is Tim just absolutely, like—",
+          "Unknown: To the.",
+          "Seeker: That, that—",
+          "Wellby: And the couple 5 is really, really, really good for a positive.",
+          "Caulaus: But now, what are you going to do with her?"
+        ],
+        "after": [
+          "Kenzo: You know, Kenzo also says that, you know, \"Caulaus, before we leave, tell me your story, and I'll be sure that your story lives on in that Drankor's past, and the goodness of the—\"",
+          "Caulaus: I will tell it to you as best I can. There are many gaps. And I suspect not all I remember is true.",
+          "Kenzo: Well, there's one thing I've learned in my, in my short time in the Feywild, a short time in a long time. We're all about the same, anyways.",
+          "Caulaus: Yes. My story, bye— a—",
+          "Caulaus: I was the only child, much to my parents disappointment. And I don't remember much of my childhood: schooling, military training."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i019"
+    },
+    {
+      "title": "The real Typhina was killed",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2710",
+        "endUid": "u2712"
+      },
+      "lines": [
+        "%% u2710:0-82 %%",
+        "DM: And Typhina was a real person who actually was killed by Agata and never survived.",
+        "",
+        "%% u2711:0-8 %%",
+        "Seeker: Oh, dark.",
+        "",
+        "%% u2712:0-53 %%",
+        "DM: Like, there was a place Agata got the personality from."
+      ],
+      "reviewContext": {
+        "before": [
+          "Caulaus: I'm sorry, I didn't realize that. I, I thought that—right, continue.",
+          "Kenzo: We appreciate your soon to be noble sacrifice like that. No, it's because redemption, come on, it totally is. So wait, wait! I— was, was, was the tree saying anything else?",
+          "DM: Now the tree is done.",
+          "Kenzo: On— so Bellator, Dasoclese, Typhina, Agata, these are like all her multiple—these are all her different like himc names.",
+          "DM: No Bellator is from the, from the intro that you— Bellator was a— another fey, who sacrificed himself to protect the ruins of the Cloud Palace, and Lady Eventide's still alive. Lady—yeah, Lady Eventide's sort of in the sky, still alive. Seeker met her, right? Caulaus met her."
+        ],
+        "after": [
+          "Kenzo: And what is your name, to the tree?",
+          "DM: I—",
+          "Kenzo: GPT-2 is right there.",
+          "DM: What?",
+          "Kenzo: GPT-3 is right there."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i020"
+    },
+    {
+      "title": "Helea’s oath to the ideal of Drankor",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2810",
+        "endUid": "u2830"
+      },
+      "lines": [
+        "%% u2810:0-21, u2811:0-53, u2812:0-1, u2813:0-58, u2814:0-48 %%",
+        "Caulaus: My first clear memory being appointed commander of the third Sylvan legion. I swore allegiance personally to the Emperor. I remember the the place and the ceremony like it was yesterday.",
+        "",
+        "%% u2815:0-14, u2816:0-14, u2817:0-22, u2818:0-94, u2819:0-3, u2820:0-54 %%",
+        "Caulaus: Emperor Helea, a blond woman, she was very striking, wearing the robes of—the ceremonial robes of gold and a golden crown with a diamond set in it. And I gave my oath to her, she holding a powerful scepter.",
+        "",
+        "%% u2821:0-3, u2822:0-7, u2823:0-35, u2824:0-33 %%",
+        "Caulaus: Now she was kind in private, although in public she always seemed quite fearsome.",
+        "",
+        "%% u2825:0-37, u2826:0-77, u2827:0-64, u2828:0-52 %%",
+        "Caulaus: What she said to me, I still remember. She said, \"While your oath is to me, your obligation is to the ideal of Drankor, a haven of safety and peace from the darkness for all humankind. Remember that, and your command will be a great one.\"",
+        "",
+        "%% u2829:0-27, u2830:0-35 %%",
+        "Caulaus: I like to think that I did, although I admit I cannot remember."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: You know, Kenzo also says that, you know, \"Caulaus, before we leave, tell me your story, and I'll be sure that your story lives on in that Drankor's past, and the goodness of the—\"",
+          "Caulaus: I will tell it to you as best I can. There are many gaps. And I suspect not all I remember is true.",
+          "Kenzo: Well, there's one thing I've learned in my, in my short time in the Feywild, a short time in a long time. We're all about the same, anyways.",
+          "Caulaus: Yes. My story, bye— a—",
+          "Caulaus: I was the only child, much to my parents disappointment. And I don't remember much of my childhood: schooling, military training."
+        ],
+        "after": [
+          "Caulaus: My next memory is a battle, of a— fighting in a forest, my soldiers standing fast backed by the war mages. The war mages of Drankor were a sight to see, rank upon rank of mages firing their spells at the enemy.",
+          "Caulaus: I remember being warned by the elves of a danger of an army of giants coming from the mountains.",
+          "Caulaus: The battle was fierce, but I remember clearly the face of this frost giant I defeated. He was huge, 20, 30 feet tall, his head nearly as big as myself, his eyes angry and clouded as I avoided his axe and struck the killing blow.",
+          "Caulaus: I remember peace coming to his face, and a murmur so low that only I could hear it some message, but I can't remember the words.",
+          "Caulaus: Something about a curse, perhaps the Emperor Helea, and a shadowy force. I know not what."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i021"
+    },
+    {
+      "title": "The dying frost giant’s warning",
+      "entities": [
+        {
+          "id": "e036",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2837",
+        "endUid": "u2853"
+      },
+      "lines": [
+        "%% u2837:0-10, u2838:0-85 %%",
+        "Caulaus: I remember being warned by the elves of a danger of an army of giants coming from the mountains.",
+        "",
+        "%% u2839:0-86, u2840:0-12, u2841:0-17, u2842:0-33, u2843:0-26, u2844:0-49 %%",
+        "Caulaus: The battle was fierce, but I remember clearly the face of this frost giant I defeated. He was huge, 20, 30 feet tall, his head nearly as big as myself, his eyes angry and clouded as I avoided his axe and struck the killing blow.",
+        "",
+        "%% u2845:0-49, u2846:0-37, u2847:0-40 %%",
+        "Caulaus: I remember peace coming to his face, and a murmur so low that only I could hear it some message, but I can't remember the words.",
+        "",
+        "%% u2848:0-24, u2849:0-7, u2850:0-11, u2851:0-6, u2852:0-20, u2853:0-16 %%",
+        "Caulaus: Something about a curse, perhaps the Emperor Helea, and a shadowy force. I know not what."
+      ],
+      "reviewContext": {
+        "before": [
+          "Caulaus: Emperor Helea, a blond woman, she was very striking, wearing the robes of—the ceremonial robes of gold and a golden crown with a diamond set in it. And I gave my oath to her, she holding a powerful scepter.",
+          "Caulaus: Now she was kind in private, although in public she always seemed quite fearsome.",
+          "Caulaus: What she said to me, I still remember. She said, \"While your oath is to me, your obligation is to the ideal of Drankor, a haven of safety and peace from the darkness for all humankind. Remember that, and your command will be a great one.\"",
+          "Caulaus: I like to think that I did, although I admit I cannot remember.",
+          "Caulaus: My next memory is a battle, of a— fighting in a forest, my soldiers standing fast backed by the war mages. The war mages of Drankor were a sight to see, rank upon rank of mages firing their spells at the enemy."
+        ],
+        "after": [
+          "Caulaus: I remember an Elven city growing from the trees, all golden, white, and elegance, spiraling in the branches. It was like nothing you would ever have seen. White, [garbled], elves everywhere, many more than I usually would have seen, a world full of life and song and wine and beauty.",
+          "Caulaus: I remember bringing an urgent message to them. I was, I was bringing them a message, but again I can't remember of what, but something, something that had to be kept secret from the Empire, from the imperial channels.",
+          "Caulaus: I remember a messenger coming to my command, her horse nearly ridden to death. She great—greeted me with the handshake, and I don't know why this name stands out, but the Peregrine Fellowship, something I was part of, a society of travelers and pilgrims, a group dedicated to finding fellowship and support on their frontier.",
+          "Caulaus: She was exhausted, her horse ridden almost to death. And I remember the message. The message is the one thing I remember clearly of the whole day.",
+          "Caulaus: \"The Omnis Pura have struck the first blow. Emperor Helea has been killed, and war is coming.\""
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i022"
+    },
+    {
+      "title": "The Peregrine messenger and the first blow",
+      "entities": [
+        {
+          "id": "e037",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e038",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2865",
+        "endUid": "u2878"
+      },
+      "lines": [
+        "%% u2865:0-10, u2866:0-67, u2867:0-44, u2868:0-12, u2869:0-53, u2870:0-24, u2871:0-107 %%",
+        "Caulaus: I remember a messenger coming to my command, her horse nearly ridden to death. She great—greeted me with the handshake, and I don't know why this name stands out, but the Peregrine Fellowship, something I was part of, a society of travelers and pilgrims, a group dedicated to finding fellowship and support on their frontier.",
+        "",
+        "%% u2872:0-52, u2873:0-93 %%",
+        "Caulaus: She was exhausted, her horse ridden almost to death. And I remember the message. The message is the one thing I remember clearly of the whole day.",
+        "",
+        "%% u2874:0-42, u2875:0-49 %%",
+        "Caulaus: \"The Omnis Pura have struck the first blow. Emperor Helea has been killed, and war is coming.\"",
+        "",
+        "%% u2876:0-78, u2877:0-39, u2878:0-15 %%",
+        "Caulaus: I remember that because that's the day the war started, the war I keep asking. I guess it has ended for many years now, I know not how."
+      ],
+      "reviewContext": {
+        "before": [
+          "Caulaus: The battle was fierce, but I remember clearly the face of this frost giant I defeated. He was huge, 20, 30 feet tall, his head nearly as big as myself, his eyes angry and clouded as I avoided his axe and struck the killing blow.",
+          "Caulaus: I remember peace coming to his face, and a murmur so low that only I could hear it some message, but I can't remember the words.",
+          "Caulaus: Something about a curse, perhaps the Emperor Helea, and a shadowy force. I know not what.",
+          "Caulaus: I remember an Elven city growing from the trees, all golden, white, and elegance, spiraling in the branches. It was like nothing you would ever have seen. White, [garbled], elves everywhere, many more than I usually would have seen, a world full of life and song and wine and beauty.",
+          "Caulaus: I remember bringing an urgent message to them. I was, I was bringing them a message, but again I can't remember of what, but something, something that had to be kept secret from the Empire, from the imperial channels."
+        ],
+        "after": [
+          "Caulaus: I remember hosting a feast, a celebration. There was tables heaped with delicacies, meat pies, a roast pig, bread, cheese, even some rare elven delicacies, a cake made with a rare fruit, some tree, the sisila tree, I think. I don't remember what that means, but it was a big deal. The elves were sharing it.",
+          "Caulaus: Wine flowed freely. The soldiers were happy. I remember the songs they sang, \"Long live the new Emperor Vestian! Long may he rule! Long may live Emperor Vestian, swiftly may he defeat the traitors!\"",
+          "Caulaus: The elves, even the elven ambassador was there, and some of the locals. They were these people who worship strange little gods.",
+          "Caulaus: I remember marching at the head of my legion arrayed for war, leaving my camp after several victories against the allies of the Omnis.",
+          "Caulaus: We're marching towards a town. The name sticks in my mind. I do not know why: Erusum."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i023"
+    },
+    {
+      "title": "The soldiers toast Vestian",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2884",
+        "endUid": "u2886"
+      },
+      "lines": [
+        "%% u2884:0-44, u2885:0-85, u2886:0-66 %%",
+        "Caulaus: Wine flowed freely. The soldiers were happy. I remember the songs they sang, \"Long live the new Emperor Vestian! Long may he rule! Long may live Emperor Vestian, swiftly may he defeat the traitors!\""
+      ],
+      "reviewContext": {
+        "before": [
+          "Caulaus: I remember a messenger coming to my command, her horse nearly ridden to death. She great—greeted me with the handshake, and I don't know why this name stands out, but the Peregrine Fellowship, something I was part of, a society of travelers and pilgrims, a group dedicated to finding fellowship and support on their frontier.",
+          "Caulaus: She was exhausted, her horse ridden almost to death. And I remember the message. The message is the one thing I remember clearly of the whole day.",
+          "Caulaus: \"The Omnis Pura have struck the first blow. Emperor Helea has been killed, and war is coming.\"",
+          "Caulaus: I remember that because that's the day the war started, the war I keep asking. I guess it has ended for many years now, I know not how.",
+          "Caulaus: I remember hosting a feast, a celebration. There was tables heaped with delicacies, meat pies, a roast pig, bread, cheese, even some rare elven delicacies, a cake made with a rare fruit, some tree, the sisila tree, I think. I don't remember what that means, but it was a big deal. The elves were sharing it."
+        ],
+        "after": [
+          "Caulaus: The elves, even the elven ambassador was there, and some of the locals. They were these people who worship strange little gods.",
+          "Caulaus: I remember marching at the head of my legion arrayed for war, leaving my camp after several victories against the allies of the Omnis.",
+          "Caulaus: We're marching towards a town. The name sticks in my mind. I do not know why: Erusum.",
+          "Caulaus: I was hoping not to fight, for we were going to destroy the teleportation circle there. There were circles we used to travel many miles through these teleportation circles. Are they not still there?",
+          "Seeker: We know that."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i024"
+    },
+    {
+      "title": "The legion at Erusum’s circle",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e038",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2889",
+        "endUid": "u2907"
+      },
+      "lines": [
+        "%% u2889:0-44, u2890:0-89 %%",
+        "Caulaus: I remember marching at the head of my legion arrayed for war, leaving my camp after several victories against the allies of the Omnis.",
+        "",
+        "%% u2891:0-77, u2892:0-6 %%",
+        "Caulaus: We're marching towards a town. The name sticks in my mind. I do not know why: Erusum.",
+        "",
+        "%% u2893:0-12, u2894:0-74, u2895:0-36, u2896:0-47, u2897:0-25 %%",
+        "Caulaus: I was hoping not to fight, for we were going to destroy the teleportation circle there. There were circles we used to travel many miles through these teleportation circles. Are they not still there?",
+        "",
+        "%% u2898:0-12 %%",
+        "Seeker: We know that.",
+        "",
+        "%% u2899:0-14 %%",
+        "Unknown: Perhaps there.",
+        "",
+        "%% u2900:0-68, u2901:0-22, u2902:0-76, u2903:0-35, u2904:0-89, u2905:0-25, u2906:0-12, u2907:0-14 %%",
+        "Caulaus: Anyway, we were to hold this teleportation circle against the Omnis Pura and their allies, and I remember leading the charge into the great hall where the circle sits, only to discover the mages in wait. The world turned upside down as we were flung to the ceiling, as if gravity had reversed, crushed against the wall. And I do not remember more."
+      ],
+      "reviewContext": {
+        "before": [
+          "Caulaus: \"The Omnis Pura have struck the first blow. Emperor Helea has been killed, and war is coming.\"",
+          "Caulaus: I remember that because that's the day the war started, the war I keep asking. I guess it has ended for many years now, I know not how.",
+          "Caulaus: I remember hosting a feast, a celebration. There was tables heaped with delicacies, meat pies, a roast pig, bread, cheese, even some rare elven delicacies, a cake made with a rare fruit, some tree, the sisila tree, I think. I don't remember what that means, but it was a big deal. The elves were sharing it.",
+          "Caulaus: Wine flowed freely. The soldiers were happy. I remember the songs they sang, \"Long live the new Emperor Vestian! Long may he rule! Long may live Emperor Vestian, swiftly may he defeat the traitors!\"",
+          "Caulaus: The elves, even the elven ambassador was there, and some of the locals. They were these people who worship strange little gods."
+        ],
+        "after": [
+          "Caulaus: My last memory is the one I shared at the beginning of this when we met, how I came to be here, fighting the dragon, red and black scales, losing the fight, a rout, running, finding the elven stones, the treaty stones, reaching one and appearing here.",
+          "Caulaus: Since then it's fragmentary. I remember the Cloudspinner, but can't say how or why, or who she was. I remember wandering, helping travelers, remembering, forgetting, remembering, and forgetting again and again.",
+          "Caulaus: I think it's been my curse: every time I came close to remembering my past and what had happened, and where I was really, and how long it had been, something happened, I'd forget again, go back to that day that I had just come through, believing that there was still a war to win.",
+          "Kenzo: As a—",
+          "Caulaus: That—I just—here is the first place, I think I can remember clearly since I've been done whatever has happened to the Cloudspinner."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i025"
+    },
+    {
+      "title": "Kenzo gives Caulaus a memory of their meeting",
+      "entities": [
+        {
+          "id": "e035",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2931",
+        "endUid": "u2949"
+      },
+      "lines": [
+        "%% u2931:0-32, u2932:0-92, u2933:0-52, u2934:0-27 %%",
+        "Kenzo: And then as he's etching there, he takes out another piece of wood and, and starts, you know, kind of quickly carving into it, and then, after a few moments, hands over to Caulaus little figurine of himself.",
+        "",
+        "%% u2935:0-32, u2936:0-114, u2937:0-2, u2938:0-43, u2939:0-26, u2940:0-27 %%",
+        "Kenzo: But the figurine is like kind of sitting atop this, this base, like a circular base, with some drawings around the base that are basically of, of us, of this, the 3 of us, and some etchings showing the story of what happened today in our time together.",
+        "",
+        "%% u2941:0-35 %%",
+        "Kenzo: And he hands it over to, to Caulaus.",
+        "",
+        "%% u2942:0-63, u2943:0-26, u2944:0-24, u2945:0-40 %%",
+        "Kenzo: \"I've captured your story, so it will not be forgotten, Caulaus. When we return to Taelgar, your story will live on, and may you remember us by this as well.\"",
+        "",
+        "%% u2946:0-6, u2947:0-15, u2948:0-27, u2949:0-16 %%",
+        "Caulaus: I will hope that I do. Memory in this place is not straightforward."
+      ],
+      "reviewContext": {
+        "before": [
+          "Caulaus: Since then it's fragmentary. I remember the Cloudspinner, but can't say how or why, or who she was. I remember wandering, helping travelers, remembering, forgetting, remembering, and forgetting again and again.",
+          "Caulaus: I think it's been my curse: every time I came close to remembering my past and what had happened, and where I was really, and how long it had been, something happened, I'd forget again, go back to that day that I had just come through, believing that there was still a war to win.",
+          "Kenzo: As a—",
+          "Caulaus: That—I just—here is the first place, I think I can remember clearly since I've been done whatever has happened to the Cloudspinner.",
+          "Kenzo: The entire time Caulaus is speaking, Kenzo is alternating between rapidly etching into the, into his staff, which, again, it's very strange. You're kind of watching him etching to the staff, and there's definitely some—seems to be some magic, some, like, kind of glowing light as he's etching. And he seems to be etching in the same place, but it looks like there's more being written. It's a strange optical effect."
+        ],
+        "after": [
+          "Caulaus: And if you do, when you are back in Taelgar, look for the Omnis Pura, look for signs of them.",
+          "Caulaus: I fear something happened. The war was not won by the sides who upheld the ideals of Drankor. I fear—",
+          "Kenzo: I've heard of the Omnis Pura before. I remember that name. That's what—Kenzo glances at Seeker and Wellby.",
+          "Kenzo: When I was in the dream world with Candrosa, however many—it feels like ages ago— I remember seeing Rai battling something, probably Apollyon, the other.",
+          "Kenzo: And that Apollyon stood with a group of mages, and they chanted that name. I didn't understand it at the time: \"Omnis—\""
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i026"
+    },
+    {
+      "title": "Omnis Pura, the dream and Fausto",
+      "entities": [
+        {
+          "id": "e038",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e039",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e040",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e041",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2950",
+        "endUid": "u3002"
+      },
+      "lines": [
+        "%% u2950:0-14, u2951:0-29, u2952:0-23, u2953:0-23 %%",
+        "Caulaus: And if you do, when you are back in Taelgar, look for the Omnis Pura, look for signs of them.",
+        "",
+        "%% u2954:0-6, u2955:0-19, u2956:0-11, u2957:0-14, u2958:0-5, u2959:0-33, u2960:0-6 %%",
+        "Caulaus: I fear something happened. The war was not won by the sides who upheld the ideals of Drankor. I fear—",
+        "",
+        "%% u2961:0-35, u2962:0-21, u2963:0-46 %%",
+        "Kenzo: I've heard of the Omnis Pura before. I remember that name. That's what—Kenzo glances at Seeker and Wellby.",
+        "",
+        "%% u2964:0-29, u2965:0-51, u2966:0-21, u2967:0-19, u2968:0-28 %%",
+        "Kenzo: When I was in the dream world with Candrosa, however many—it feels like ages ago— I remember seeing Rai battling something, probably Apollyon, the other.",
+        "",
+        "%% u2969:0-46, u2970:0-27, u2971:0-34, u2972:0-6 %%",
+        "Kenzo: And that Apollyon stood with a group of mages, and they chanted that name. I didn't understand it at the time: \"Omnis—\"",
+        "",
+        "%% u2973:0-42 %%",
+        "Seeker: But they seem as they've been part of that—",
+        "",
+        "%% u2974:0-14, u2975:0-49 %%",
+        "Kenzo: Pura, P-U-R-A. But they seem to even look for just one of [garbled].",
+        "",
+        "%% u2976:0-24 %%",
+        "((Brief table aside))",
+        "",
+        "%% u2977:0-25, u2978:0-7, u2979:0-12 %%",
+        "Kenzo: They seem to be allies or minions of Apollyon.",
+        "",
+        "%% u2980:0-54 %%",
+        "Seeker: There was another theme of purity that we encountered.",
+        "",
+        "%% u2981:0-10, u2982:0-8, u2983:0-18, u2984:0-5, u2985:0-3 %%",
+        "((Brief language clarification))",
+        "",
+        "%% u2986:0-31 %%",
+        "Seeker: It was the werewolves, wasn't it?",
+        "",
+        "%% u2987:0-20 %%",
+        "Kenzo: Yeah, the werewolves.",
+        "",
+        "%% u2988:0-8 %%",
+        "Seeker: The pure—",
+        "",
+        "%% u2989:0-20 %%",
+        "DM: Wait, the werewolves?",
+        "",
+        "%% u2990:0-56 %%",
+        "Kenzo: Weren't they, weren't they trying to make everybody pure?",
+        "",
+        "%% u2991:0-20 %%",
+        "DM: No, that was Fausto.",
+        "",
+        "%% u2992:0-28 %%",
+        "Seeker: Oh, Fausto, I just remember.",
+        "",
+        "%% u2993:0-25 %%",
+        "Kenzo: Talking about the impure.",
+        "",
+        "%% u2994:0-17 %%",
+        "Caulaus: Bad—the—I'm just—",
+        "",
+        "%% u2995:0-32, u2996:0-43, u2997:0-5 %%",
+        "Kenzo: But—and it's totally Fausto now. They are—no, no, no, he's just a henchman. Yeah.",
+        "",
+        "%% u2998:0-63 %%",
+        "Caulaus: But he's, he's, he's one of the Omnis Pura. Yeah, he probably is.",
+        "",
+        "%% u2999:0-44, u3000:0-5, u3001:0-2, u3002:0-75 %%",
+        "Kenzo: I work with a bad guy working with Apollyon. Well, so so yeah, so, so Caulaus, if you put your hand on the tree, after all, though—"
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: And then as he's etching there, he takes out another piece of wood and, and starts, you know, kind of quickly carving into it, and then, after a few moments, hands over to Caulaus little figurine of himself.",
+          "Kenzo: But the figurine is like kind of sitting atop this, this base, like a circular base, with some drawings around the base that are basically of, of us, of this, the 3 of us, and some etchings showing the story of what happened today in our time together.",
+          "Kenzo: And he hands it over to, to Caulaus.",
+          "Kenzo: \"I've captured your story, so it will not be forgotten, Caulaus. When we return to Taelgar, your story will live on, and may you remember us by this as well.\"",
+          "Caulaus: I will hope that I do. Memory in this place is not straightforward."
+        ],
+        "after": [
+          "DM: Yeah, so as Caulaus—as you put your hand on the tree, you, for a moment you feel sort of blank. And then you, you remember this place, you've traveled here before.",
+          "DM: In fact, you start to remember more of your travels through through Amberglow in the past.",
+          "DM: It's hard to piece together. The time—the distant past is still fragments. Your memories of Drankor are no different than before. Even the early days of when you came here, when Amberglow was full of beauty and light, is still— it feels like looking through a smeared lens. The image is tough to piece together.",
+          "DM: But your time traveling in the past while seems to come into focus, and, and and you can remember now you've, you know you've helped people in this place before. You've brought people here to the grove before who were looking for safety.",
+          "DM: And as those memories come back to you, also the, the sort of feeling that here is—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i027"
+    },
+    {
+      "title": "Caulaus binds himself and the tree takes Agata",
+      "entities": [
+        {
+          "id": "e032",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u3003",
+        "endUid": "u3065"
+      },
+      "lines": [
+        "%% u3003:0-57, u3004:0-29, u3005:0-15, u3006:0-27, u3007:0-28 %%",
+        "DM: Yeah, so as Caulaus—as you put your hand on the tree, you, for a moment you feel sort of blank. And then you, you remember this place, you've traveled here before.",
+        "",
+        "%% u3008:0-30, u3009:0-28, u3010:0-30 %%",
+        "DM: In fact, you start to remember more of your travels through through Amberglow in the past.",
+        "",
+        "%% u3011:0-74, u3012:0-77, u3013:0-19, u3014:0-43, u3015:0-9, u3016:0-83 %%",
+        "DM: It's hard to piece together. The time—the distant past is still fragments. Your memories of Drankor are no different than before. Even the early days of when you came here, when Amberglow was full of beauty and light, is still— it feels like looking through a smeared lens. The image is tough to piece together.",
+        "",
+        "%% u3017:0-8, u3018:0-26, u3019:0-5, u3020:0-32, u3021:0-7, u3022:0-23, u3023:0-37, u3024:0-12, u3025:0-6, u3026:0-40, u3027:0-28 %%",
+        "DM: But your time traveling in the past while seems to come into focus, and, and and you can remember now you've, you know you've helped people in this place before. You've brought people here to the grove before who were looking for safety.",
+        "",
+        "%% u3028:0-3, u3029:0-43, u3030:0-11, u3031:0-12, u3032:0-8 %%",
+        "DM: And as those memories come back to you, also the, the sort of feeling that here is—",
+        "",
+        "%% u3033:0-15, u3034:0-13, u3035:0-37 %%",
+        "DM: Here is a place you can wait. Here is a place you can find purpose.",
+        "",
+        "%% u3036:0-168 %%",
+        "DM: Still knowing that nobody can send you back to Taelgar except the Cloudspinner, although not sure you even necessarily want to go back with what you've just heard, but—",
+        "",
+        "%% u3037:0-86, u3038:0-10 %%",
+        "((A hypothetical future return))",
+        "",
+        "%% u3039:0-16, u3040:0-13, u3041:0-45, u3042:0-29, u3043:0-22, u3044:0-92 %%",
+        "DM: But feeling like your memories somehow this, this tree, somehow this forest, is also holding your memories and helping them stay, stay intact. And as you, as you bind yourself to the tree, those memories come flooding back.",
+        "",
+        "%% u3045:0-73, u3046:0-82, u3047:0-46, u3048:0-41, u3049:0-35, u3050:0-56 %%",
+        "DM: The sense of distortion of time in the Feywild is very hard to fight, and many people who travel here for any length of time find their memories jumbled and out of order and lost. But something about the— something about the nature of this forest helps keep them clear, and you feel you feel more clear-headed than you have in a long time.",
+        "",
+        "%% u3051:0-18, u3052:0-67, u3053:0-9 %%",
+        "((Brief framing question))",
+        "",
+        "%% u3054:0-13, u3055:0-7, u3056:0-37, u3057:0-13 %%",
+        "Seeker: Seeker's been sort of vaguely poking around with a stick at Agata's body.",
+        "",
+        "%% u3058:0-48, u3059:0-79, u3060:0-12 %%",
+        "Kenzo: Oh, yeah, Kenzo relays how the, the tree is gonna— they're going to, they're going to imprison Agata for now until the Cloudspinner comes along.",
+        "",
+        "%% u3061:0-103 %%",
+        "DM: Yeah. So as you're, as you're doing, the Seeker, you see, like, a crack open up in the side of this tree.",
+        "",
+        "%% u3062:0-3 %%",
+        "Seeker: And—",
+        "",
+        "%% u3063:0-60, u3064:0-33, u3065:0-19 %%",
+        "DM: 2 roots reach out and sort of grab Agata's body and whisk it— yank her inside the tree, and the crack closes again."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Talking about the impure.",
+          "Caulaus: Bad—the—I'm just—",
+          "Kenzo: But—and it's totally Fausto now. They are—no, no, no, he's just a henchman. Yeah.",
+          "Caulaus: But he's, he's, he's one of the Omnis Pura. Yeah, he probably is.",
+          "Kenzo: I work with a bad guy working with Apollyon. Well, so so yeah, so, so Caulaus, if you put your hand on the tree, after all, though—"
+        ],
+        "after": [
+          "Seeker: Awesome! That's good.",
+          "Kenzo: I take a little video of that with my iPhone. And—",
+          "Unknown: You. You!",
+          "Kenzo: You should do that, by the way, Seeker. You should create little, like, animations that you can recall that are like little, little, you know, like of a, you know.",
+          "DM: So you're trying to go."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i028"
+    },
+    {
+      "title": "The ring is empty and can shelter another soul",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u3078",
+        "endUid": "u3085"
+      },
+      "lines": [
+        "%% u3078:0-14, u3079:0-24 %%",
+        "Seeker: Seeker kind of gives the ring a shake.",
+        "",
+        "%% u3079:24-90, u3080:0-37 %%",
+        "DM: You hear no voices from the ring, although now, Seeker, if you die, your soul can be trapped in the ring.",
+        "",
+        "%% u3081:0-7 %%",
+        "Seeker: Really?",
+        "",
+        "%% u3082:0-5, u3083:0-191 %%",
+        "DM: Yeah. If, if you, whoever is wearing the ring, if they die, and there's nobody trapped, there's no—nobody's still there, you can choose to remain in the ring instead of passing on to the next world.",
+        "",
+        "%% u3084:0-46 %%",
+        "Kenzo: Oh, my God! Because, like, I would have died now.",
+        "",
+        "%% u3085:0-26 %%",
+        "Seeker: The ring of soul trapping!"
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: You. You!",
+          "Kenzo: You should do that, by the way, Seeker. You should create little, like, animations that you can recall that are like little, little, you know, like of a, you know.",
+          "DM: So you're trying to go.",
+          "Kenzo: Yeah, Kenzo, Kenzo, you know, gives, gives Caulaus a grateful handshake, you know, pat on the back, and then gives a grateful bow to the tree before departing in—",
+          "DM: As you begin to walk back across the Feywild, leaving Caulaus to his new role—"
+        ],
+        "after": [
+          "DM: You walk back across the, across the Feywild, across these fields of grass, dead and mostly colorless, passing the pillars, returning again to Lastlight Falls where you wait, watch your thread, until a moment some time later, it turns a burnished red color—",
+          "DM: And you next time step into the pool, I guess.",
+          "Caulaus: Leave the Feywild.",
+          "DM: Seeker is not ready to leave.",
+          "Seeker: As we wait, I've been jotting down my notes in my—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i029"
+    },
+    {
+      "title": "Delwath waits beyond the crossing",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u3174",
+        "endUid": "u3229"
+      },
+      "lines": [
+        "%% u3174:0-2, u3175:0-41 %%",
+        "Delwath: So you see an elf sitting outside the tent—",
+        "",
+        "%% u3176:0-12 %%",
+        "Kenzo: That we have—",
+        "",
+        "%% u3177:0-2 %%",
+        "Delwath: No—",
+        "",
+        "%% u3178:0-38, u3179:0-35, u3180:0-53, u3181:0-68, u3182:0-31, u3183:0-28, u3184:0-10 %%",
+        "Delwath: No hint of shadow whatsoever. In fact, at first you'd think, wait, is this— you, like, it looks like Delwath. But is it, like, every— nothing's different, exactly. It's not like his face has changed, or anything like that. But he just in lots of little ways looks different.",
+        "",
+        "%% u3185:0-20, u3186:0-9, u3187:0-6, u3188:0-36, u3189:0-89, u3190:0-30, u3191:0-33, u3192:0-73, u3193:0-58, u3194:0-28, u3195:0-8, u3196:0-24, u3197:0-3, u3198:0-19, u3199:0-19, u3200:0-149, u3201:0-70, u3202:0-22, u3203:0-9, u3204:0-31, u3205:0-114, u3206:0-26, u3207:0-23, u3208:0-47, u3208:47-69, u3209:0-9, u3210:0-31, u3211:0-2, u3212:0-118, u3213:0-96, u3214:0-13, u3215:0-85, u3216:0-3, u3217:0-4, u3218:0-2, u3219:0-14, u3220:0-108 %%",
+        "((Equipment description and table clarification))",
+        "",
+        "%% u3221:0-31 %%",
+        "DM: Just supposed to describe him.",
+        "",
+        "%% u3221:31-80, u3222:0-9, u3223:0-17, u3224:0-7, u3225:0-32 %%",
+        "Delwath: Okay, no reaction, no reaction. Fine. So yeah, he stands up and he just looks more at peace than you've ever seen him.",
+        "",
+        "%% u3226:0-31, u3227:0-37, u3228:0-24, u3229:0-25 %%",
+        "Delwath: And there's a—there's sort of a— you almost get the sense of a divine— there's something godly floating around the camp."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Sitting, sitting out of the tent, staying outside the tent, sharpening, holding a sword, holding an elven sword, you see—",
+          "DM: You should [garbled] at whole thing.",
+          "Delwath: I have—didn't have time to prepare it.",
+          "DM: Okay? Well, we'll do that in January.",
+          "Delwath: No, no, no, we could do it now. I just give me 30 s to think. Okay, or 5 s even. I mostly have it ready."
+        ],
+        "after": [
+          "DM: And we will pick up in January.",
+          "Seeker: But—",
+          "Wellby: Wow!",
+          "DM: Sorry, that was spur of the moment, Mike. I thought it would be a nice way to end.",
+          "Delwath: No, no, it was. It was good. Actually, it was perfect. I just—30 seconds' warning, it would have helped me for this slide."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i030"
+    }
+  ]
+}
