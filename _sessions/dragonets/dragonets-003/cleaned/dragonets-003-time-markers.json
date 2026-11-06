@@ -18,12 +18,12 @@
         "startUid": "u0763",
         "endUid": "u0764"
       },
-      "reading": "The party’s further Wanderer experiments are played as a roughly half-hour montage, contained in the later cumulative practice total.",
+      "reading": "The next experiments with the Wanderer occupy roughly half an hour, within the later cumulative practice total.",
       "duration": {
         "value": 30,
         "unit": "minute",
         "precision": "approximate",
-        "basis": "DM opens the next half-hour montage; the ensuing experiments resolve it."
+        "basis": "DM’s compressed montage is followed through the resolved seabed and underwater experiments."
       },
       "completion": "completed",
       "relations": [
@@ -42,6 +42,11 @@
           "startUid": "u0792",
           "endUid": "u0795",
           "quote": "you're able to reach down"
+        },
+        {
+          "startUid": "u0805",
+          "endUid": "u0806",
+          "quote": "you put your head under the water. And you can indeed see."
         }
       ]
     },
@@ -51,20 +56,20 @@
         "startUid": "u0863",
         "endUid": "u0866"
       },
-      "reading": "By the boulder experiment, talking and practicing with the Wanderer have occupied at least about an hour in all, including the half-hour montage.",
+      "reading": "By the successful boulder pickup, talking and practicing have taken at least about an hour in all; this includes the half-hour montage.",
       "duration": {
         "min": 1,
         "minInclusive": true,
         "unit": "hour",
         "precision": "approximate",
-        "basis": "DM’s retrospective cumulative estimate: at least an hour or so."
+        "basis": "DM retrospectively totals the experimentation and conversation; this is not a further hour after the montage."
       },
       "completion": "completed",
       "evidence": [
         {
           "startUid": "u0863",
           "endUid": "u0866",
-          "quote": "this is, like, now, like, at least an hour, you know, or so, that you've been just doing all of this, talking, experimenting, and so on."
+          "quote": "at least an hour, you know, or so, that you've been just doing all of this, talking, experimenting, and so on."
         }
       ]
     },
@@ -74,7 +79,7 @@
         "startUid": "u0917",
         "endUid": "u0927"
       },
-      "reading": "Narration shifts back to the visitors’ crash and discovery during the party’s preceding practice; it does not add a second elapsed interval.",
+      "reading": "While the party travels toward the Dark Lady, narration shifts back to the visitors’ crash during the preceding practice stretch.",
       "context": "flashback",
       "actors": [
         "Shai",
@@ -83,10 +88,10 @@
       "time": {
         "relative": {
           "relation": "before",
-          "anchor": "The party’s arrival near the Dark Lady crash site"
+          "anchor": "The party’s arrival at the Dark Lady crash-site gathering"
         },
         "precision": "approximate",
-        "basis": "DM explicitly places the crash at some point over the past practice stretch."
+        "basis": "DM places the crash at some point over the past stretch of practice."
       },
       "evidence": [
         {
@@ -107,12 +112,12 @@
         "startUid": "u0928",
         "endUid": "u0934"
       },
-      "reading": "The narration returns from the crash account to the party arriving aboard the Wanderer near the visitors.",
+      "reading": "After recounting the visitors’ discovery, narration resumes the party arriving aboard the Wanderer near the beach gathering.",
       "relations": [
         {
           "type": "returns_to",
           "target": "t02",
-          "note": "Resumes the party’s ongoing adventure after the retrospective crash account, now at arrival."
+          "note": "Returns to the party’s ongoing adventure after the retrospective crash account; arrival is later than practice, not the identical instant."
         }
       ],
       "evidence": [
@@ -126,7 +131,7 @@
   ],
   "yamlCheck": {
     "status": "compatible",
-    "dateAnchor": "Neither YAML nor current play supplies an absolute date or time of day. Recollections of two days ago and the previous awakening concern prior sessions.",
+    "dateAnchor": "The session YAML has no in-world dates. Current play supplies no spoken calendar date or usable time-of-day anchor; “two days ago” and the earlier awakening are recollections of previous sessions.",
     "expectedDateBoundaries": null,
     "supportedDateBoundaries": null,
     "evidence": [
@@ -135,6 +140,6 @@
       "t03",
       "t04"
     ],
-    "explanation": "The played interval contains cumulative practice, the visitors’ meeting, battle and rescue, with no established overnight transition. Its exact calendar boundaries remain open. The five-to-ten-minute arrival estimate and revised three-round rescue countdown are forecasts, not measured elapsed time; neither is converted into a calendar span."
+    "explanation": "Practice takes at least about an hour cumulatively, followed by meeting the visitors, the battle and the rescue. No overnight transition is established, but the complete calendar span remains unspecified. The five-to-ten-minute attack forecast, spell durations and revised rescue-round allowance do not independently measure elapsed time. The retrospective crash overlaps the practice stretch and adds no second duration."
   }
 }

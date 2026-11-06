@@ -8,7 +8,7 @@
     "transcriptSha256": "4ff68ebd12dc245cef06400b0c583242a0403a757016f47ba0cbfba91670c9ec",
     "segments": {
       "path": "_sessions/dragonets/dragonets-003/cleaned/dragonets-003-segments.json",
-      "sha256": "a0392c86a87820dfab615476cca75973f4762c3b7ab400af14895afd95bc6281",
+      "sha256": "d96ea79db169d8a99f76de55d5ddf673aa450e4324fe8593f7a874ecb98d0541",
       "schemaVersion": "0.1-transcript-segments-draft"
     }
   },
@@ -255,7 +255,7 @@
             {
               "actor": "Heska",
               "kind": "turn",
-              "summary": "Casts Enlarge on the willing Wanderer without a save, doubling its dimensions; its mirror images enlarge with it. Heska maintains concentration.",
+              "summary": "Casts Enlarge on the Wanderer; the DM accepts it without a Constitution save or other roll. Its dimensions double and its mirror images enlarge too. Heska continues concentrating on Enlarge.",
               "evidence": [
                 {
                   "startUid": "u2165",
@@ -303,7 +303,7 @@
             {
               "actor": "Wanderer (party)",
               "kind": "turn",
-              "summary": "Uses the collective Firstborn action to punch the dreadnought’s iris while enlarged. Two of three coordination checks succeed; Heska’s Steady Aim attack hits with 26. The table accepts 283 damage after a 26d12 roll in place of the announced 25d12 + 100; the shield disintegrates.",
+              "summary": "Uses the collective Firstborn action to punch toward the dreadnought’s iris while enlarged. Two of three coordination checks succeed; Heska uses Steady Aim and hits with 26. The DM announces 25d12 + 100, permits the accidentally rolled extra d12 and accepts 283 damage. The protective shield disintegrates.",
               "evidence": [
                 {
                   "startUid": "u2254",
@@ -359,7 +359,7 @@
                   "endUid": "u2420"
                 }
               ],
-              "note": "The save ability is not stated here; the repeated use in the next cycle explicitly calls for Wisdom."
+              "note": "The saving-throw ability is unstated in this first use; the repeated use in round 4 explicitly requires Wisdom. The resolved response happens on the dreadnought’s turn."
             },
             {
               "actor": "Dreadnought",
@@ -421,7 +421,7 @@
             {
               "actor": "Wanderer (party)",
               "kind": "turn",
-              "summary": "Attempts a collective Hunter’s Pounce through the dreadnought’s iris to extract its pilot. Zeno retains Enhance Ability advantage; Little Tony does not, because Sculpit is concentrating on Bigby’s Hand. Final coordination results include Sculpit 21, Tony 26 and Zeno 17 after a 1d6 boost. Heska rolls 11 on two dice, then Bardic Inspiration raises the attack to 18. The glancing hit deals 87 damage (10d12 + 25); Acrobatics 29 lets Heska extract the occupant, but the giant hand squashes it. The dreadnought loses its bearings.",
+              "summary": "Uses the collective Hunter’s Pounce to break through the iris and extract its pilot. Zeno retains Enhance Ability advantage, while Tony has lost it to Sculpit’s Bigby’s Hand concentration. Sculpit’s coordination check is corrected to 21; Tony rolls 26; Zeno reaches 17 after the separately recorded d6 boost. Heska’s attack is 11 on two dice, raised to 18 by the separately recorded Bardic Inspiration. The glancing hit deals 87 damage (10d12 + 25); Acrobatics 29 extracts the occupant, but the giant hand crushes it. The dreadnought loses its bearings.",
               "evidence": [
                 {
                   "startUid": "u2526",
@@ -444,13 +444,14 @@
             {
               "actor": "Sculpit",
               "kind": "event",
-              "summary": "Offers 1d10 Bardic Inspiration during Heska’s pounce attack; the accepted bonus raises 11 to 18.",
+              "summary": "During Heska’s pounce attack, Sculpit proposes a d10 Bardic Inspiration bonus and the table accepts it, raising 11 to 18; the giver is not expressly restated when the bonus is applied.",
               "evidence": [
                 {
                   "startUid": "u2602",
                   "endUid": "u2610"
                 }
-              ]
+              ],
+              "note": "Sculpit voices the offer and d10 size; Little Tony also responds affirmatively. The exchange does not conclusively identify which bard spends the use."
             },
             {
               "actor": "Escort fighter",
@@ -504,7 +505,7 @@
             {
               "actor": "Dreadnought",
               "kind": "turn",
-              "summary": "Call and Response diverts one regular laser into the ocean. After its separately recorded main-cannon blast, the remaining regular attack misses the village center but scorches buildings on the outskirts.",
+              "summary": "One regular laser is diverted into the ocean by Call and Response. The main-cannon legendary action interrupts this turn and is recorded separately. The remaining regular attack then misses the village center but scorches outlying buildings.",
               "evidence": [
                 {
                   "startUid": "u2731",
@@ -515,7 +516,7 @@
             {
               "actor": "Dreadnought",
               "kind": "legendary_action",
-              "summary": "Uses the main cannon as another explicitly named legendary action during this sequence. Its hit destroys a second mirror image; one remains. The later maul narration mentions both other images, but no image restoration occurs.",
+              "summary": "During the dreadnought’s attack sequence, its main cannon fires as an explicitly named legendary action. The hit destroys another mirror image, leaving one. The later maul narration refers to both other images without restoring an image; that contradictory image count remains qualified.",
               "evidence": [
                 {
                   "startUid": "u2737",
@@ -553,7 +554,7 @@
         }
       ],
       "ending": {
-        "summary": "The dreadnought is wrecked on the shore and the final escort is destroyed. The village is damaged and Aksha and Shai’s vessel has crashed with its occupants silent; their medical outcome is established after initiative.",
+        "summary": "The dreadnought crashes into the shore and is wrecked; the last escort is destroyed. The village has suffered repeated attacks, and the allied vessel is down with both travelers silent. Their medical outcome, the rescue and the dreadnought’s explosion occur after initiative.",
         "evidence": [
           {
             "startUid": "u2811",

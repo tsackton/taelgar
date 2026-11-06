@@ -8,21 +8,17 @@
     },
     "entityMap": {
       "path": "_sessions/dragonets/dragonets-003/cleaned/dragonets-003-entity-map.json",
-      "sha256": "579f21a0392f3c7a20cbd3867a7ecbbfe6b9f367b3807594e619130787db06ed"
+      "sha256": "90fe398d81754658088340b149d318d54f22bb5ff469ad8d68cfb6f7b6624ff4"
     }
   },
   "interactions": [
     {
+      "id": "i001",
       "title": "Two visitors detect the Firstborn",
       "source": {
         "startUid": "u0038",
         "endUid": "u0046"
       },
-      "lines": [
-        "%% u0038:0-33, u0039:0-21, u0040:0-106, u0041:0-37, u0042:0-15, u0043:0-89, u0044:0-67, u0045:0-45, u0046:0-64 %%",
-        "DM: And we begin… with a scene again outside of the storm, with these two humanoid figures staring, standing and staring at some kind of strange energy meter device, and emotional at what they're seeing, and commenting that these signatures are impossible. How could this be here? But that it's unmistakable that indeed, on this strange island on the other side of the storm, there are these four unmistakable signatures. And the scene closes with them saying, “There are Firstborn here.”",
-        ""
-      ],
       "entities": [
         {
           "id": "e001",
@@ -40,11 +36,11 @@
           "action": "mentioned"
         }
       ],
-      "review": {
-        "confidence": "high",
-        "status": "automatedReviewed"
-      },
-      "id": "i001",
+      "lines": [
+        "%% u0038:0-33, u0039:0-21, u0040:0-106, u0041:0-37, u0042:0-15, u0043:0-89, u0044:0-67, u0045:0-45, u0046:0-64 %%",
+        "DM: And we begin… with a scene again outside of the storm, with these two humanoid figures staring, standing and staring at some kind of strange energy meter device, and emotional at what they're seeing, and commenting that these signatures are impossible. How could this be here? But that it's unmistakable that indeed, on this strange island on the other side of the storm, there are these four unmistakable signatures. And the scene closes with them saying, “There are Firstborn here.”",
+        ""
+      ],
       "reviewContext": {
         "before": [
           "DM: Okay. Everyone, why don't we just take a quick moment before we begin? Yeah. Close our eyes. Take a deep breath. Shit. And take… two more breaths at your own pace, and just release… you… whatever was going on in your day. You… just release whatever…",
@@ -58,19 +54,19 @@
           "DM: And as you sit in your seats, reflecting on what has occurred over the past, you know, day or so: you're enjoying this amazing festival with your dragonet community. Some kind of crazy egg appears that you go and hug, you have some insane vision of some terrible land with a burnt red sky, a dragonet dying, a divine light coming, and you somehow becoming that light, shooting across some time-space continuum thing, ending up in the palm of the Wanderer, waking up, having weird, strange abilities and sensations. There's food machines and other things interacting and waking up all over the island, and then you make your way to the Wanderer, somehow get inside, and are here. And we ended last session with each of you trying to make the Wanderer do things collectively. And if you'll remember, you had tried to make the Wanderer walk. And as you had started that process, energy started to surge throughout the space as you were all collectively imagining the Wanderer actually doing something. And as that energy surged throughout the Wanderer, we concluded. And we'll begin this session now, our final session. I'd love for each of you to describe…",
           "DM: How are you feeling right now? Sitting in these seats, inside the chest of the Wanderer, which all of you know, and have been around your entire lives, and, you know, Sculpit and Tony, for both of you, you know, the Wanderer is a particularly special place. And y'all flew through the eyeball of the Wanderer, and ended up in this weird place, and, you know, there are these, like, statues with lasers inside. I mean, it's been a day. So, I'd love for each of you to begin by sharing about your character's state of mind, how you're feeling, and what it's like for you to be sitting in this cockpit. You."
         ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
       }
     },
     {
+      "id": "i002",
       "title": "The Wanderer begins to awaken",
       "source": {
         "startUid": "u0250",
         "endUid": "u0257"
       },
-      "lines": [
-        "%% u0250:0-42, u0251:0-185, u0252:0-173, u0253:0-43, u0254:0-98, u0255:0-251, u0256:0-331, u0257:0-21 %%",
-        "DM: ((Resolution mechanics))You all feel, and this is fucking insane that this is actually happening, because you're like, and again, the Wanderer has not moved here. I'm going to change the POV for a second here. So, the Wanderer… it's a fucking statue, you know what I mean? That you are slowly starting to learn maybe is not just a statue and actually is designed for another purpose. But you actually feel the creaking of toes actually beginning to slightly creak and wiggle. And what's crazy about the feeling in your talons: you have your own talons and the own feeling there, but something… it's like there's this other layer of awakening that is happening in your talons as you start to just kind of creak it a little bit. And it literally feels… it's that feeling of, like… after having slept for a super long time, and, like, you're coming back into your body, and it's sort of like, oh, you're stretching your arms for the first time, and what it feels like when you're waking up and that's happening, that's what this is like… It's like, these toes have not moved in fucking forever, but now it's like… Oh, shit. Toes. Sick.",
-        ""
-      ],
       "entities": [
         {
           "id": "e003",
@@ -78,11 +74,11 @@
           "action": "interacted"
         }
       ],
-      "review": {
-        "confidence": "high",
-        "status": "automatedReviewed"
-      },
-      "id": "i002",
+      "lines": [
+        "%% u0250:0-42, u0251:0-185, u0252:0-173, u0253:0-43, u0254:0-98, u0255:0-251, u0256:0-331, u0257:0-21 %%",
+        "DM: ((Incidental mechanics))You all feel, and this is fucking insane that this is actually happening, because you're like, and again, the Wanderer has not moved here. I'm going to change the POV for a second here. So, the Wanderer… it's a fucking statue, you know what I mean? That you are slowly starting to learn maybe is not just a statue and actually is designed for another purpose. But you actually feel the creaking of toes actually beginning to slightly creak and wiggle. And what's crazy about the feeling in your talons: you have your own talons and the own feeling there, but something… it's like there's this other layer of awakening that is happening in your talons as you start to just kind of creak it a little bit. And it literally feels… it's that feeling of, like… after having slept for a super long time, and, like, you're coming back into your body, and it's sort of like, oh, you're stretching your arms for the first time, and what it feels like when you're waking up and that's happening, that's what this is like… It's like, these toes have not moved in fucking forever, but now it's like… Oh, shit. Toes. Sick.",
+        ""
+      ],
       "reviewContext": {
         "before": [
           "DM: Okay, each of you roll a d20 again. Again, according to the same things: Insight, Acrobatics, Arcana, and Performance.",
@@ -98,26 +94,38 @@
           "Sculpit: Let's try and see.",
           "Little Tony: Yes."
         ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
       }
     },
     {
+      "id": "i003",
       "title": "Seeing through the Wanderer",
       "source": {
         "startUid": "u0464",
         "endUid": "u0486"
       },
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
       "lines": [
         "%% u0464:0-54, u0465:0-35, u0466:0-54, u0467:0-19, u0468:0-137, u0469:0-118 %%",
         "DM: So this is for everybody that's not Sculpit right now. Each of you… Heska, Zeno, and Tony… when you open your eyes and imagine opening your eyes, you open your eyes. And what's crazy is your eyelids feel so heavy and crusty, again, sort of like you've been sleeping for fucking days, or maybe centuries. And there's this kind of creaking feeling of, like, the fucking gnarliest, like, eye boogers you can possibly imagine.",
         "",
         "%% u0470:0-4 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Incidental discussion omitted))",
         "",
         "%% u0471:0-19, u0472:0-33, u0473:0-35, u0474:0-38, u0475:0-73 %%",
         "DM: Things are opening. And what you see in front of you is a giant stone outstretched palm, and you see… in the distance… a storm, and amazing clouds, and… you're looking through the eyes of the Wanderer.",
         "",
         "%% u0476:0-4, u0477:0-4 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Incidental discussion omitted))",
         "",
         "%% u0478:0-66, u0479:0-107, u0480:0-17, u0481:0-46, u0482:0-64, u0483:0-127, u0484:0-163 %%",
         "DM: Also, also, also, also… You feel almost like a voice in your head. If… it's more a sensation, but if the sensation had words, it would say something like, “Discovery unlocked.” Sculpit, for you… because you're, like, actually looking around? You have this weird fucking sensation because you can still see. Like, looking around the cockpit. But it's, like, overlaid over that is, like, another vision of what everybody else is seeing. And it's confusing. Like, it's like if you if you're you really you need to concentrate on which one you're seeing. You can't like, see them both at the same time.",
@@ -129,18 +137,6 @@
         "DM: You can, with enough practice, you can kind of switch around, but you can definitely only do one or the other.",
         ""
       ],
-      "entities": [
-        {
-          "id": "e003",
-          "role": "star",
-          "action": "interacted"
-        }
-      ],
-      "review": {
-        "confidence": "high",
-        "status": "automatedReviewed"
-      },
-      "id": "i003",
       "reviewContext": {
         "before": [
           "DM: Okay.",
@@ -156,14 +152,26 @@
           "Sculpit: I'm going to start thinking about lifting his foot. I'm not going to say anything. Sculpit is just thinking, lift the right foot.",
           "DM: Roll a d20. Oh, well, everybody else think about what you're doing. If you're—is anybody else thinking about moving a foot?"
         ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
       }
     },
     {
+      "id": "i004",
       "title": "Four roles in controlling the Wanderer",
       "source": {
         "startUid": "u0863",
         "endUid": "u0884"
       },
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
       "lines": [
         "%% u0863:0-109, u0864:0-118, u0865:0-196, u0866:0-90 %%",
         "DM: Okay, so all of you, you successfully pick up the boulder, you successfully pick up the rock, and then Heska. You know, again, part of what's happening here, and part of why you're rolling the way it's that you're rolling, okay? As you're, you know, over the course of this now, you know, this is, like, now, like, at least an hour, you know, or so, that you've been just doing all of this, talking, experimenting, and so on. What you're starting to appreciate about how you're actually controlling this whole thing.",
@@ -184,18 +192,6 @@
         "DM: So, you're all kind of realizing, you know, the different ways that you're contributing to this and how if all of you are super aligned, the statue is really doing what you want to do, and if one of you fails, multiple of you fails, it's… it's not gonna work. But, you know, it's pretty fortunate that Heska is on your team, because now it's like, you're kind of not… never, like, doing anything totally poorly, but, but it's pretty sweet. Like, you're all, like, really, really enjoying this time. And as you're experimenting and you're feeling, you know, and you're pretty lost in this kind of experiment.",
         ""
       ],
-      "entities": [
-        {
-          "id": "e003",
-          "role": "star",
-          "action": "interacted"
-        }
-      ],
-      "review": {
-        "confidence": "high",
-        "status": "automatedReviewed"
-      },
-      "id": "i004",
       "reviewContext": {
         "before": [
           "Zeno: Oh, That'll work next time, okay.",
@@ -211,19 +207,19 @@
           "Little Tony: Yeah.",
           "DM: You wanna go over as the statue?"
         ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
       }
     },
     {
+      "id": "i005",
       "title": "Oru summons the party to the crash",
       "source": {
         "startUid": "u0885",
         "endUid": "u0895"
       },
-      "lines": [
-        "%% u0885:0-93, u0886:0-43, u0887:0-21, u0888:0-5, u0889:0-161, u0890:0-63, u0891:0-17, u0892:0-22, u0893:0-34, u0894:0-22, u0895:0-64 %%",
-        "DM: Tony, in between one of the breaks of as you're, like, doing this practice with the Wanderer, you feel a voice very clearly in your head. And it is Shaman Oru… like… doing some Shaman Oru shit, cause as, you know, as funny of a dude as he is, he also is like the eldest dragonet shaman and the most mystical dude on the island. And you get a message in your head that's basically like, “Tony? Bring the others. Come to the Dark Lady. Something has come out of the sky, and it's crashed here. And… you should come and meet us to figure out what is going on.”",
-        ""
-      ],
       "entities": [
         {
           "id": "e004",
@@ -233,14 +229,14 @@
         {
           "id": "e003",
           "role": "cameo",
-          "action": "present"
+          "action": "mentioned"
         }
       ],
-      "review": {
-        "confidence": "high",
-        "status": "automatedReviewed"
-      },
-      "id": "i005",
+      "lines": [
+        "%% u0885:0-93, u0886:0-43, u0887:0-21, u0888:0-5, u0889:0-161, u0890:0-63, u0891:0-17, u0892:0-22, u0893:0-34, u0894:0-22, u0895:0-64 %%",
+        "DM: Tony, in between one of the breaks of as you're, like, doing this practice with the Wanderer, you feel a voice very clearly in your head. And it is Shaman Oru… like… doing some Shaman Oru shit, cause as, you know, as funny of a dude as he is, he also is like the eldest dragonet shaman and the most mystical dude on the island. And you get a message in your head that's basically like, “Tony? Bring the others. Come to the Dark Lady. Something has come out of the sky, and it's crashed here. And… you should come and meet us to figure out what is going on.”",
+        ""
+      ],
       "reviewContext": {
         "before": [
           "DM: Tony, you're having this insight into, like, I have this thing that we collectively want to do and is this, like, thought about what it is that you're trying to do, translating into the system, this whole giant mechanical system. It's like, you're almost, like, kind of helping this coordination around like the connection between the idea and then the translation into the format itself at all, and it's almost like if your shit doesn't work, it's like everybody could be like, “Let's fucking do this thing,” and then the whole system is just getting weird, confused messages about, like, what to do.",
@@ -256,73 +252,19 @@
           "DM: You wanna go over as the statue?",
           "Heska: Oh, yeah."
         ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
       }
     },
     {
+      "id": "i006",
       "title": "Oru insists they leave the cockpit",
       "source": {
         "startUid": "u0987",
         "endUid": "u1019"
       },
-      "lines": [
-        "%% u0987:0-100 %%",
-        "DM: Tony, you hear a voice in your head again, and it's the shaman, and he's saying, “Tony, get here now.”",
-        "",
-        "%% u0988:0-28 %%",
-        "Little Tony: We're here! This is us, man!",
-        "",
-        "%% u0989:0-11 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u0990:0-21 %%",
-        "Heska: Can we at least wave?",
-        "",
-        "%% u0991:0-13 %%",
-        "DM: You can wave.",
-        "",
-        "%% u0992:0-67 %%",
-        "Heska: Let's make it wave and say, like, make it do this, like, come here.",
-        "",
-        "%% u0993:0-5, u0994:0-22, u0995:0-5, u0996:0-9, u0997:0-5 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u0998:0-93 %%",
-        "Little Tony: Yeah, we're gonna walk… I think, like, we should walk over and, like, squat down next to him.",
-        "",
-        "%% u0999:0-4 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u1000:0-3, u1001:0-166 %%",
-        "Little Tony: The… And then we can tell… we can tell the shaman that… that that's who we are, and we'll be like, I'm gonna… we'll do this, I'm gonna go… I'm gonna do a big pointy thing…",
-        "",
-        "%% u1002:0-21, u1003:0-9, u1004:0-4, u1005:0-21, u1006:0-44, u1007:0-50, u1008:0-37 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u1009:0-72 %%",
-        "Little Tony: We'll walk over and squat down next to everybody, give a thumbs up, too.",
-        "",
-        "%% u1010:0-19, u1011:0-4, u1012:0-3 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u1013:0-58, u1014:0-117 %%",
-        "DM: Okay, I mean, they're all, they're all looking at you, but… yeah, I mean, everybody's like, oh, shit, like, it's a giant fucking statue, like, doing a T and whatever, but, like…",
-        "",
-        "%% u1015:0-6 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u1016:0-97 %%",
-        "DM: And then Tony's, and then you hear a voice, shaman's like, we need to speak with you. Like, come.",
-        "",
-        "%% u1017:0-3 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u1018:0-8 %%",
-        "DM: With us.",
-        "",
-        "%% u1019:0-102 %%",
-        "Little Tony: Oh, see, you need to be specific, Shaman. It's, you know, you know. Guys, we should probably go, guys.",
-        ""
-      ],
       "entities": [
         {
           "id": "e004",
@@ -335,11 +277,41 @@
           "action": "interacted"
         }
       ],
-      "review": {
-        "confidence": "high",
-        "status": "automatedReviewed"
-      },
-      "id": "i006",
+      "lines": [
+        "%% u0987:0-100 %%",
+        "DM: Tony, you hear a voice in your head again, and it's the shaman, and he's saying, “Tony, get here now.”",
+        "",
+        "%% u0988:0-28 %%",
+        "Little Tony: We're here! This is us, man!",
+        "",
+        "%% u0989:0-11, u0990:0-21, u0991:0-13, u0992:0-67, u0993:0-5, u0994:0-22, u0995:0-5, u0996:0-9, u0997:0-5, u0998:0-93, u0999:0-4, u1000:0-3, u1001:0-166, u1002:0-21, u1003:0-9, u1004:0-4, u1005:0-21, u1006:0-44, u1007:0-50, u1008:0-37 %%",
+        "((Gestures and incidental replies omitted))",
+        "",
+        "%% u1009:0-72 %%",
+        "Little Tony: We'll walk over and squat down next to everybody, give a thumbs up, too.",
+        "",
+        "%% u1010:0-19, u1011:0-4, u1012:0-3 %%",
+        "((Gestures and incidental replies omitted))",
+        "",
+        "%% u1013:0-58, u1014:0-117 %%",
+        "DM: Okay, I mean, they're all, they're all looking at you, but… yeah, I mean, everybody's like, oh, shit, like, it's a giant fucking statue, like, doing a T and whatever, but, like…",
+        "",
+        "%% u1015:0-6 %%",
+        "((Gestures and incidental replies omitted))",
+        "",
+        "%% u1016:0-97 %%",
+        "DM: And then Tony's, and then you hear a voice, shaman's like, we need to speak with you. Like, come.",
+        "",
+        "%% u1017:0-3 %%",
+        "((Gestures and incidental replies omitted))",
+        "",
+        "%% u1018:0-8 %%",
+        "DM: With us.",
+        "",
+        "%% u1019:0-102 %%",
+        "Little Tony: Oh, see, you need to be specific, Shaman. It's, you know, you know. Guys, we should probably go, guys.",
+        ""
+      ],
       "reviewContext": {
         "before": [
           "Little Tony: Yeah, yeah, yeah, yeah.",
@@ -355,14 +327,36 @@
           "Heska: Yeah, probably.",
           "Little Tony: For it to be like crouching, right?"
         ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
       }
     },
     {
+      "id": "i007",
       "title": "Meeting Shai and Aksha",
       "source": {
         "startUid": "u1076",
         "endUid": "u1237"
       },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
       "lines": [
         "%% u1076:0-462, u1077:0-9, u1078:0-145, u1079:0-56, u1080:0-170, u1081:0-73, u1082:0-4, u1083:0-43 %%",
         "DM: Approach the this this crash site, and these, you know… And then there's basically, as far as you can tell, it feels like some kind of game of call and response is happening. Or it's like they're like a bunch of dragonets or like… And then the two humanoids—you don't sense at all that they're threatening in any way. They're just kind of like, they're, they're engaging. They're trying to like kind of understand each other. And the shaman basically comes over and is like… “Okay, so… The day gets, you know, the past couple days, as crazy as this has been, it's getting weirder, that thing fell out of the sky, and then, these 2 humanoids that are like the statues, except way smaller. And, you know, like, I think we've had a little idea that there were maybe statue-sized things, but, like, not statue-sized things, like, kind of like the humanoids, but… They're trying to say stuff, we don't understand anything they're saying. Hmm. I don't know if you can help us, Tony, but…”",
@@ -371,13 +365,13 @@
         "DM: There seems like a… this is… like, and basically, like, you kind of look over and realize the dragonets are trying to play… it's like some version of charades, and they're trying to be like, you know, and there's kind of this, like, a bunch of, like, gesticulating back and forth, but there's no actual… that you can sense of it yet, you know, real communication happening. What do you do?",
         "",
         "%% u1087:0-21, u1088:0-31, u1089:0-37, u1090:0-83 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Rules and incidental banter omitted))",
         "",
         "%% u1091:0-32, u1092:0-43, u1093:0-47 %%",
         "Little Tony: Oh, okay, I'll give that a shot. I will come over, and I will say… Like, in… in very simple Draconic, like, “Hello, me, Tony.”",
         "",
         "%% u1094:0-7 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Rules and incidental banter omitted))",
         "",
         "%% u1095:0-4 %%",
         "Little Tony: You?",
@@ -401,19 +395,19 @@
         "Little Tony: Aksha. Aksha. Okay, Aksha, Shai, we're getting somewhere.",
         "",
         "%% u1108:0-3 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Rules and incidental banter omitted))",
         "",
         "%% u1109:0-79 %%",
         "Little Tony: Let me level with you guys. It's been a weird-ass day. What are you doing here?",
         "",
         "%% u1110:0-4 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Rules and incidental banter omitted))",
         "",
         "%% u1111:0-63 %%",
         "Little Tony: Why do you look like tiny little flesh versions of the statues?",
         "",
         "%% u1112:0-87, u1113:0-34, u1114:0-17, u1115:0-17, u1116:0-5, u1117:0-237, u1118:0-3, u1119:0-5 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Rules and incidental banter omitted))",
         "",
         "%% u1120:0-35, u1121:0-37, u1122:0-48, u1123:0-85, u1124:0-57, u1125:0-12 %%",
         "DM: You hear them saying to each other, “I think this one is inside our minds, and I think it can understand what we're saying.” And then the other one says, and this is like Shai talking to Aksha and Aksha's like, “I think I feel it too. I wonder if we can… get it to say hello again?”",
@@ -437,16 +431,13 @@
         "Little Tony: Oh, buddy, I'm gonna come over and try and give him a hug.",
         "",
         "%% u1136:0-4 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Rules and incidental banter omitted))",
         "",
         "%% u1137:0-97, u1138:0-27 %%",
         "Little Tony: I'm gonna, like, walk over and, like, reach my arms out, like, come on, bring it in, bring it in. Bring it in, guys, come on.",
         "",
-        "%% u1139:0-31 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u1140:0-10 %%",
-        "DM: I'll just…",
+        "%% u1139:0-31, u1140:0-10 %%",
+        "((Rules and incidental banter omitted))",
         "",
         "%% u1141:0-77 %%",
         "Little Tony: Back to the other three of you, like, come on, they need a hug. This clearly…",
@@ -470,13 +461,13 @@
         "Little Tony: That's really flattering. Thank you. I… you know.",
         "",
         "%% u1165:0-2 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Rules and incidental banter omitted))",
         "",
         "%% u1166:0-143, u1167:0-48 %%",
         "DM: Everybody can communicate now, by the way. We're all, we kind of figured it out. You all know, figured out how to mediate through Tony to talk. None of the other dragonets can do this, though.",
         "",
         "%% u1168:0-63, u1169:0-13, u1170:0-28, u1171:0-5, u1172:0-24, u1173:0-98, u1174:0-10, u1175:0-15, u1176:0-4, u1177:0-31, u1178:0-7, u1179:0-35, u1180:0-22, u1181:0-62, u1182:0-3 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Rules and incidental banter omitted))",
         "",
         "%% u1183:0-36 %%",
         "DM: “How is it possible that you're real?”",
@@ -494,7 +485,7 @@
         "Heska: Same, same, same.",
         "",
         "%% u1188:0-4, u1189:0-16 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Rules and incidental banter omitted))",
         "",
         "%% u1190:0-13 %%",
         "Sculpit: What are you?",
@@ -509,7 +500,7 @@
         "Heska: The woman. But I don't get too close.",
         "",
         "%% u1196:0-76, u1197:0-3, u1198:0-4 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Rules and incidental banter omitted))",
         "",
         "%% u1199:0-111 %%",
         "DM: So, you successfully do it, but she also, like, and, like, grabs your claw, and it's just, like, just grabs it.",
@@ -539,7 +530,7 @@
         "Little Tony: This feels right.",
         "",
         "%% u1210:0-21, u1211:0-12, u1212:0-77, u1213:0-61 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Rules and incidental banter omitted))",
         "",
         "%% u1214:0-74, u1215:0-5, u1216:0-24 %%",
         "Sculpit: Okay, wait, wait, I want to understand this. Let's go a couple of seconds. Wait. Where did you come from?",
@@ -554,7 +545,7 @@
         "Zeno: What else is there?",
         "",
         "%% u1221:0-19 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Rules and incidental banter omitted))",
         "",
         "%% u1222:0-18 %%",
         "Sculpit: Outside the storm?",
@@ -569,28 +560,6 @@
         "DM: It's a big storm. And, we didn't make it all the way through it, that's why we, I mean… The vessel's still functional, but we can… Probably get… we can get it working, but… I'm sure it still works, but that's part of why we crashed. Aksha's an incredible pilot. That's how we were able to survive getting through here. But… Was not easy getting through that storm. But we had to, to come and find you.",
         ""
       ],
-      "entities": [
-        {
-          "id": "e001",
-          "role": "star",
-          "action": "interacted"
-        },
-        {
-          "id": "e002",
-          "role": "star",
-          "action": "interacted"
-        },
-        {
-          "id": "e004",
-          "role": "supporting",
-          "action": "interacted"
-        }
-      ],
-      "review": {
-        "confidence": "high",
-        "status": "automatedReviewed"
-      },
-      "id": "i007",
       "reviewContext": {
         "before": [
           "DM: 26. Even though you're kind of feel like you're babbling and saying a bunch of random stuff. Okay. It stops. Stops. It's like, okay. All right. And as you all fully kind of get within a certain radius away from the eyeball, it… Let's look at it. Now what do you do?",
@@ -606,14 +575,31 @@
           "Sculpit: Wait, yeah, does… I mean, there's the performances, there's the, like, track… does… Best singers and acrobats, like, there's a lot of interesting things.",
           "Little Tony: There is gonna be a restaurant!"
         ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
       }
     },
     {
+      "id": "i008",
       "title": "The visitors recognize the Firstborn",
       "source": {
         "startUid": "u1238",
         "endUid": "u1283"
       },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
       "lines": [
         "%% u1238:0-4 %%",
         "Zeno: Why?",
@@ -631,13 +617,13 @@
         "Little Tony: There is gonna be a restaurant!",
         "",
         "%% u1244:0-9, u1245:0-13, u1246:0-12, u1247:0-25, u1248:0-7, u1249:0-32, u1250:0-8, u1251:0-35 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Incidental discussion omitted))",
         "",
         "%% u1252:0-71, u1253:0-130, u1254:0-269 %%",
         "DM: To the extent that any of you are paying attention to the four of them. Like, to them. Like, the feeling you get is, like, this… on the one hand, this just, like, hilarious, like, what are these beings? What are they talking about? They're so funny, they're so weird. And then at the same time, like the deepest possible sorrow that you can imagine, like so deep and so sorrowful. You don't even relate to the sorrow, obviously, as dragonets and the lives that you've had.",
         "",
         "%% u1255:0-7 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Incidental discussion omitted))",
         "",
         "%% u1256:0-28, u1257:0-115 %%",
         "DM: Almost like this feeling of… “I understand conceptually these things you're describing, but I have never experienced them ever in my entire life.”",
@@ -661,13 +647,13 @@
         "Sculpit: I wasn't born first.",
         "",
         "%% u1268:0-4 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Incidental discussion omitted))",
         "",
         "%% u1269:0-20 %%",
         "Heska: No, I wasn't either.",
         "",
         "%% u1270:0-17 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Incidental discussion omitted))",
         "",
         "%% u1271:0-19 %%",
         "Little Tony: Who was born first?",
@@ -679,7 +665,7 @@
         "DM: Shai and Aksha are just like staring at each other, just like… Like… incredulous.",
         "",
         "%% u1276:0-4 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Incidental discussion omitted))",
         "",
         "%% u1277:0-4, u1278:0-43 %%",
         "DM: Bye… How… were you here when the clutch hatched?",
@@ -691,29 +677,12 @@
         "Little Tony: Is this a",
         "",
         "%% u1282:0-4 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Incidental discussion omitted))",
         "",
         "%% u1283:0-57 %%",
         "Little Tony: Race? Like everyone hatches when it's time to hatch, man!",
         ""
       ],
-      "entities": [
-        {
-          "id": "e001",
-          "role": "star",
-          "action": "interacted"
-        },
-        {
-          "id": "e002",
-          "role": "star",
-          "action": "interacted"
-        }
-      ],
-      "review": {
-        "confidence": "high",
-        "status": "automatedReviewed"
-      },
-      "id": "i008",
       "reviewContext": {
         "before": [
           "DM: Wait, are you from…",
@@ -729,98 +698,97 @@
           "Little Tony: Yo, two days ago, the most…",
           "Zeno: I've…"
         ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
       }
     },
     {
+      "id": "i010",
+      "title": "Roska hears the battle boast",
+      "source": {
+        "startUid": "u1303",
+        "endUid": "u1308"
+      },
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u1303:0-21 %%",
+        "Zeno: I finally beat Roska.",
+        "",
+        "%% u1304:0-7 %%",
+        "((Incidental discussion omitted))",
+        "",
+        "%% u1305:0-38 %%",
+        "Zeno: In a battle, you know what I'm saying?",
+        "",
+        "%% u1306:0-6 %%",
+        "DM: Roska…",
+        "",
+        "%% u1307:0-6 %%",
+        "((Incidental discussion omitted))",
+        "",
+        "%% u1308:0-94 %%",
+        "DM: Behind you and it's just like looks like annoyed, like he's just like, “Dude,” kind of like, “What's…”",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Sculpit: Kind of had to be there, like, none of us were there. Well, I mean, I was there, but none of the rest of us were…",
+          "Zeno: But I…",
+          "Sculpit: Heska…",
+          "Zeno: Finally…",
+          "Sculpit: Don't, don't worry about it. He doesn't want you to, we just, right."
+        ],
+        "after": [
+          "Sculpit: Guys…",
+          "Zeno: I just squashed him like a bug. Wait, I…",
+          "Sculpit: I think they're probably talking about…",
+          "Zeno: Him under the rug.",
+          "Sculpit: Egg?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
       "title": "Retelling the egg and its vision",
       "source": {
-        "startUid": "u1284",
-        "endUid": "u1408"
+        "startUid": "u1351",
+        "endUid": "u1406"
       },
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
       "lines": [
-        "%% u1284:0-73, u1285:0-16, u1286:0-46 %%",
-        "DM: What happened… Like, 2 days ago. Did anything happen here on this island? Have you always… Was this statue always able to walk? Were you…",
-        "",
-        "%% u1287:0-92, u1288:0-28 %%",
-        "Heska: So absolutely nothing at all happened two days ago. Everybody forget that that day occurred. Heska will say emphatically.",
-        "",
-        "%% u1289:0-17, u1290:0-27, u1291:0-5, u1292:0-36, u1293:0-2, u1294:0-27, u1295:0-11, u1296:0-84, u1297:0-33, u1298:0-113, u1299:0-6, u1300:0-6, u1301:0-8, u1302:0-68, u1303:0-21, u1304:0-7, u1305:0-38, u1306:0-6, u1307:0-6, u1308:0-94, u1309:0-5, u1310:0-40 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u1311:0-39 %%",
-        "Sculpit: I think they're probably talking about…",
-        "",
-        "%% u1312:0-18 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u1313:0-4 %%",
-        "Sculpit: Egg?",
-        "",
-        "%% u1314:0-3 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u1315:0-4 %%",
-        "Sculpit: Egg.",
-        "",
-        "%% u1316:0-3, u1317:0-3, u1318:0-5 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u1319:0-63, u1320:0-41 %%",
-        "Sculpit: I know that, like, the competition's more important, like, the… I mean, the restaurant, there's a lot of…",
-        "",
-        "%% u1321:0-31 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u1322:0-27 %%",
-        "Sculpit: The egg is very minor, but…",
-        "",
-        "%% u1323:0-68 %%",
-        "DM: Reenacting? Yeah, please. What happened? Can you do the reenactment?",
-        "",
-        "%% u1324:0-50 %%",
-        "Zeno: The Roska and my battle. Yeah, we could just like…",
-        "",
-        "%% u1325:0-112 %%",
-        "DM: No, no, not that, not that. Reenacting the whatever he's pointing at at Sculpit. Reenacting what? What happened?",
-        "",
-        "%% u1326:0-44, u1327:0-35 %%",
-        "Sculpit: Here we go, okay. I know how to do this now. Sculpit will use Minor Illusion to…",
-        "",
-        "%% u1328:0-5 %%",
-        "DM: Nice.",
-        "",
-        "%% u1329:0-11 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u1330:0-275, u1331:0-149 %%",
-        "Sculpit: Like, a little picture of an egg, and then, like, he… he's still learning how to use Minor Illusion, so he does, like, do-do-do sound effects with his voice, not realizing he can do them with the illusion. And then he, like, changes the illusion again to, like, the next bit. “This… this is what happened. And then… and then we all sit around, and it was really… it was really nice, and like… and like, we were very connected.”",
-        "",
-        "%% u1332:0-5 %%",
-        "Little Tony: Yeah.",
-        "",
-        "%% u1333:0-198, u1334:0-24 %%",
-        "Sculpit: And then we woke up and we, like, started thinking about the restaurant, but mostly these guys. I don't think the restaurant's as good an idea as they do. So, like, that kind of… that kind of, like… broke some of the, like…",
-        "",
-        "%% u1335:0-5, u1336:0-17 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u1337:0-98 %%",
-        "DM: Yeah, we understand the restaurant, maybe let's… we'll come back to the restaurant. What happened?",
-        "",
-        "%% u1338:0-45, u1339:0-5, u1340:0-3, u1341:0-4, u1342:0-61, u1343:0-12, u1344:0-62, u1345:0-46, u1346:0-39, u1347:0-39, u1348:0-13 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u1349:0-54 %%",
-        "Sculpit: Guys, guys, guys, I'm trying to be serious, okay, shh.",
-        "",
-        "%% u1350:0-29 %%",
-        "Little Tony: Focus, we gotta focus, focus.",
-        "",
         "%% u1351:0-28, u1352:0-74 %%",
         "Sculpit: Okay, so there was this egg. And Sculpit will make a picture of the egg, right? And, like, we had this…",
         "",
         "%% u1353:0-4 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Jokes and incidental replies omitted))",
         "",
         "%% u1354:0-7 %%",
         "Sculpit: Vision.",
@@ -850,19 +818,19 @@
         "Zeno: It disappeared in the hand, didn't it?",
         "",
         "%% u1363:0-42 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Jokes and incidental replies omitted))",
         "",
         "%% u1364:0-11 %%",
         "Sculpit: It floated.",
         "",
         "%% u1365:0-3 %%",
-        "((Intervening discussion and actions omitted))",
+        "Zeno: Oh!",
         "",
         "%% u1366:0-8 %%",
         "Sculpit: Sort of.",
         "",
         "%% u1367:0-8, u1368:0-7, u1369:0-12, u1370:0-4 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Jokes and incidental replies omitted))",
         "",
         "%% u1371:0-23 %%",
         "Little Tony: Kind of, like, hovered?",
@@ -877,7 +845,7 @@
         "Little Tony: Man, the same thing we just did to you.",
         "",
         "%% u1375:0-32 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Jokes and incidental replies omitted))",
         "",
         "%% u1376:0-26 %%",
         "Player: No, we gave it a good hug.",
@@ -886,13 +854,13 @@
         "Heska: We gave it a hug.",
         "",
         "%% u1378:0-5 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Jokes and incidental replies omitted))",
         "",
         "%% u1379:0-91 %%",
         "Sculpit: And it must have heard about the restaurant, because the next day, it made food everywhere.",
         "",
         "%% u1380:0-37, u1381:0-3, u1382:0-5, u1383:0-32, u1384:0-3, u1385:0-13, u1386:0-41 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Jokes and incidental replies omitted))",
         "",
         "%% u1387:0-42, u1388:0-76 %%",
         "Sculpit: But so there was like a creature, like like… like a dragonet like one of us who was like dead or dying or something, like…",
@@ -901,7 +869,7 @@
         "Little Tony: Yeah.",
         "",
         "%% u1390:0-3 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Jokes and incidental replies omitted))",
         "",
         "%% u1391:0-27 %%",
         "Little Tony: Sad, like your vibes, yeah.",
@@ -946,128 +914,62 @@
         "Sculpit: We…",
         "",
         "%% u1405:0-26 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Jokes and incidental replies omitted))",
         "",
         "%% u1406:0-11 %%",
         "Sculpit: We woke up.",
-        "",
-        "%% u1407:0-70 %%",
-        "Heska: And then we were hungry and then we ate some food. Okay. And the food.",
-        "",
-        "%% u1408:0-25 %%",
-        "Sculpit: Came out of the bathroom.",
         ""
       ],
-      "entities": [
-        {
-          "id": "e009",
-          "role": "star",
-          "action": "mentioned"
-        },
-        {
-          "id": "e010",
-          "role": "supporting",
-          "action": "mentioned"
-        },
-        {
-          "id": "e011",
-          "role": "supporting",
-          "action": "mentioned"
-        },
-        {
-          "id": "e001",
-          "role": "cameo",
-          "action": "interacted"
-        },
-        {
-          "id": "e002",
-          "role": "cameo",
-          "action": "interacted"
-        }
-      ],
-      "review": {
-        "confidence": "high",
-        "status": "automatedReviewed"
-      },
-      "id": "i009",
       "reviewContext": {
         "before": [
-          "DM: Bye… How… were you here when the clutch hatched?",
-          "Sculpit: Why would you say such silly things? Are you okay? Are you, like, addled a little bit?",
-          "Little Tony: Is this a",
-          "DM: The…",
-          "Little Tony: Race? Like everyone hatches when it's time to hatch, man!"
+          "Little Tony: First in recorded history. That's true.",
+          "Heska: This trap restaurant is not gonna work.",
+          "Zeno: - no, no, no.",
+          "Sculpit: Guys, guys, guys, I'm trying to be serious, okay, shh.",
+          "Little Tony: Focus, we gotta focus, focus."
         ],
         "after": [
+          "Heska: And then we were hungry and then we ate some food. Okay. And the food.",
+          "Sculpit: Came out of the bathroom.",
           "DM: Wait, hold on, wait, wait. I just, I know you, I'm starting to understand you love the food. This is, this is bad. Aksha, the woman's like leading the conversation. She's like, okay, no, no. So you understand, I think we understand. And he's like, she's looking at Shai. We're excited about the restaurant. We can't wait to eat at the restaurant. But before we talk more about the restaurant.",
           "Zeno: Okay.",
-          "DM: Say more about how you got the giant statue to move and do the things that it was doing earlier, just now.",
-          "Little Tony: Wait a minute, wait a minute, wait a minute, wait a minute, wait a minute, wait a minute. It's an exchange of information.",
-          "Heska: Yeah."
+          "DM: Say more about how you got the giant statue to move and do the things that it was doing earlier, just now."
         ]
-      }
-    },
-    {
-      "title": "Roska hears the battle boast",
-      "source": {
-        "startUid": "u1303",
-        "endUid": "u1308"
       },
-      "lines": [
-        "%% u1303:0-21 %%",
-        "Zeno: I finally beat Roska.",
-        "",
-        "%% u1304:0-7 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u1305:0-38 %%",
-        "Zeno: In a battle, you know what I'm saying?",
-        "",
-        "%% u1306:0-6 %%",
-        "DM: Roska…",
-        "",
-        "%% u1307:0-6 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u1308:0-94 %%",
-        "DM: Behind you and it's just like looks like annoyed, like he's just like, “Dude,” kind of like, “What's…”",
-        ""
-      ],
-      "entities": [
-        {
-          "id": "e005",
-          "role": "star",
-          "action": "interacted"
-        }
-      ],
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "id": "i010",
-      "reviewContext": {
-        "before": [
-          "Sculpit: Kind of had to be there, like, none of us were there. Well, I mean, I was there, but none of the rest of us were…",
-          "Zeno: But I…",
-          "Sculpit: Heska…",
-          "Zeno: Finally…",
-          "Sculpit: Don't, don't worry about it. He doesn't want you to, we just, right."
-        ],
-        "after": [
-          "Sculpit: Guys…",
-          "Zeno: I just squashed him like a bug. Wait, I…",
-          "Sculpit: I think they're probably talking about…",
-          "Zeno: Him under the rug.",
-          "Sculpit: Egg?"
-        ]
       }
     },
     {
+      "id": "i011",
       "title": "An offer of home beyond the storm",
       "source": {
         "startUid": "u1409",
         "endUid": "u1523"
       },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
       "lines": [
         "%% u1409:0-346, u1410:0-45 %%",
         "DM: Wait, hold on, wait, wait. I just, I know you, I'm starting to understand you love the food. This is, this is bad. Aksha, the woman's like leading the conversation. She's like, okay, no, no. So you understand, I think we understand. And he's like, she's looking at Shai. We're excited about the restaurant. We can't wait to eat at the restaurant. But before we talk more about the restaurant.",
@@ -1154,7 +1056,7 @@
         "Heska: Why not?",
         "",
         "%% u1450:0-4 %%",
-        "Sculpit: You…",
+        "((Incidental discussion omitted))",
         "",
         "%% u1451:0-5 %%",
         "Little Tony: Yeah.",
@@ -1190,7 +1092,7 @@
         "Sculpit: To be honest, guys, they need some good help.",
         "",
         "%% u1467:0-18 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Incidental discussion omitted))",
         "",
         "%% u1468:0-67, u1469:0-39, u1470:0-83, u1471:0-55, u1472:0-25, u1473:0-27, u1474:0-27, u1475:0-18 %%",
         "DM: “You… you all don't understand what this means… what this all means. You're so generous, and you're so kind. You don't even know that you are and whatever it is that you think you're offering, the world needs it so badly, you don't even understand what it's like out there. This place is a holy place. This place is a holy place. This is Holy Land.”",
@@ -1202,7 +1104,7 @@
         "Sculpit: Is it like a storm all the way up there? Is that why it's so bad? It's just stormy.",
         "",
         "%% u1480:0-4 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Incidental discussion omitted))",
         "",
         "%% u1481:0-15 %%",
         "Sculpit: What's it like?",
@@ -1231,11 +1133,8 @@
         "%% u1503:0-9 %%",
         "Little Tony: Not good.",
         "",
-        "%% u1504:0-5 %%",
-        "Heska: They…",
-        "",
-        "%% u1505:0-5 %%",
-        "((Intervening discussion and actions omitted))",
+        "%% u1504:0-5, u1505:0-5 %%",
+        "((Incidental discussion omitted))",
         "",
         "%% u1506:0-27 %%",
         "Heska: I mean, they've had a hard…",
@@ -1246,14 +1145,8 @@
         "%% u1508:0-13 %%",
         "Heska: Road… crashed…",
         "",
-        "%% u1509:0-44 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u1510:0-33 %%",
-        "Zeno: We're not supposed to smell shit.",
-        "",
-        "%% u1511:0-35, u1512:0-19 %%",
-        "((Intervening discussion and actions omitted))",
+        "%% u1509:0-44, u1510:0-33, u1511:0-35, u1512:0-19 %%",
+        "((Incidental discussion omitted))",
         "",
         "%% u1513:0-47 %%",
         "Heska: We… how do you know what we smell like to them?",
@@ -1262,13 +1155,13 @@
         "Sculpit: Probably fish. The best smell in the world.",
         "",
         "%% u1515:0-21 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Incidental discussion omitted))",
         "",
         "%% u1516:0-44 %%",
         "DM: You smell like fish. You do smell like fish.",
         "",
         "%% u1517:0-4 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Incidental discussion omitted))",
         "",
         "%% u1518:0-50 %%",
         "DM: We like fish. I mean, it's impossible to get, but…",
@@ -1286,33 +1179,6 @@
         "DM: What do we eat? Not fish. I'll tell you that much. It's been a long time since I've tasted fish.",
         ""
       ],
-      "entities": [
-        {
-          "id": "e001",
-          "role": "star",
-          "action": "interacted"
-        },
-        {
-          "id": "e002",
-          "role": "star",
-          "action": "interacted"
-        },
-        {
-          "id": "e007",
-          "role": "cameo",
-          "action": "mentioned"
-        },
-        {
-          "id": "e003",
-          "role": "cameo",
-          "action": "mentioned"
-        }
-      ],
-      "review": {
-        "confidence": "high",
-        "status": "automatedReviewed"
-      },
-      "id": "i011",
       "reviewContext": {
         "before": [
           "Sculpit: We…",
@@ -1328,32 +1194,59 @@
           "Zeno: No, the other stuff.",
           "Sculpit: Not the metal ones, the gloopy."
         ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
       }
     },
     {
+      "id": "i012",
       "title": "The scanner reveals an imminent threat",
       "source": {
         "startUid": "u1531",
         "endUid": "u1597"
       },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
       "lines": [
         "%% u1531:0-81, u1532:0-30, u1533:0-35, u1534:0-32, u1535:0-22, u1536:0-23, u1537:0-72, u1538:0-39, u1539:0-32, u1540:0-33, u1541:0-20, u1542:0-44, u1543:0-28, u1544:0-34 %%",
         "DM: They suddenly kind of get serious as they're looking at each other. Like, “Listen. We may not have a lot of time. I don't know how this all happened, how we've all been able to meet, but we're so grateful to be in your presence. Whatever's happened to you the past few days, it doesn't matter anymore. What we know now is that… you're here? You've been touched by the gods. And now… everything is different. But we're not alone. And… now, this place, this holy place, that… I can't even put into words, it must be protected at all costs.”",
         "",
         "%% u1545:0-8 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Incidental discussion omitted))",
         "",
         "%% u1546:0-27, u1547:0-19, u1548:0-9, u1549:0-16, u1550:0-35 %%",
         "DM: “There are… that are coming to find this place. Terrible… terrible beings are gonna come and find this place.”",
         "",
         "%% u1551:0-4, u1552:0-4 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Incidental discussion omitted))",
         "",
         "%% u1553:0-28 %%",
         "DM: We don't have a lot of time.",
         "",
         "%% u1554:0-21, u1555:0-9, u1556:0-20 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Incidental discussion omitted))",
         "",
         "%% u1557:0-60, u1558:0-47, u1559:0-36, u1560:0-54, u1561:0-20, u1562:0-16, u1563:0-207, u1564:0-53, u1565:0-75, u1566:0-4 %%",
         "DM: The both of them start, like, looking, like, really nervous. “We're forgetting ourselves. Go get the scanner.” Shai, like, runs back into the ship. And, he comes back out with, like, a device some kind. And they both start… looking at this… This system, it's, it's hard, I mean, again, you never see, it's like, you just have it, like, this reminds you of something that you might have seen inside the, inside the, the cockpit of the, the Wanderer. And they look… And their faces go, just… Blank white. Like, complete terror and horror on their faces as they look at each other. You.",
@@ -1395,7 +1288,7 @@
         "Heska: We don't know. Something about these…",
         "",
         "%% u1589:0-16, u1590:0-7 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Incidental discussion omitted))",
         "",
         "%% u1591:0-62, u1592:0-272 %%",
         "DM: Like, they're like, “Look, we don't know exactly what's coming. It's gonna come. I think they're gonna breach the storm. We need to be ready. Everyone needs to go to safety. We're gonna try and do our best to fight it off the best that we can. We need your help. If you can… whatever you can do, but make sure everyone is safe. This is…”",
@@ -1404,33 +1297,6 @@
         "DM: “You don't understand the danger that's coming, and it's hard to describe it, but just… everybody needs to hide, you need to get everyone to safety now. There's no time.” And you sense… the gravity and the urgency. This is not a game. The few kind of sacred, serious things that have ever happened in dragonet history, of which there are very few… You feel like this is one where if you don't do this the right way, there will be death. There will be… clutchlings… eggs. This… something horrible is gonna happen. What do you do?",
         ""
       ],
-      "entities": [
-        {
-          "id": "e001",
-          "role": "star",
-          "action": "interacted"
-        },
-        {
-          "id": "e002",
-          "role": "star",
-          "action": "interacted"
-        },
-        {
-          "id": "e008",
-          "role": "supporting",
-          "action": "observed"
-        },
-        {
-          "id": "e004",
-          "role": "supporting",
-          "action": "interacted"
-        }
-      ],
-      "review": {
-        "confidence": "high",
-        "status": "automatedReviewed"
-      },
-      "id": "i012",
       "reviewContext": {
         "before": [
           "Sculpit: All…",
@@ -1446,14 +1312,31 @@
           "DM: Well. And the best place to hide is the temple. Do we need to get everybody to the temple?",
           "Little Tony: Yeah."
         ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
       }
     },
     {
+      "id": "i013",
       "title": "Oru and Roska organize shelter",
       "source": {
         "startUid": "u1598",
         "endUid": "u1634"
       },
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
       "lines": [
         "%% u1598:0-40 %%",
         "Little Tony: How do we get everyone hidden to safety?",
@@ -1491,11 +1374,8 @@
         "%% u1613:0-125 %%",
         "DM: Dead center of the island. But it's like a structure. Everything else, Dragon Island is just, you're all living like outside.",
         "",
-        "%% u1614:0-4 %%",
-        "Zeno: Mmm.",
-        "",
-        "%% u1615:0-9 %%",
-        "DM: You know.",
+        "%% u1614:0-4, u1615:0-9 %%",
+        "((Incidental replies omitted))",
         "",
         "%% u1616:0-37, u1617:0-31 %%",
         "Zeno: The Groundlings Cave, that monastery that I remember from childhood.",
@@ -1503,11 +1383,8 @@
         "%% u1618:0-26 %%",
         "DM: Okay, that's a good place.",
         "",
-        "%% u1619:0-11 %%",
-        "Zeno: [garbled]",
-        "",
-        "%% u1620:0-4 %%",
-        "DM: The…",
+        "%% u1619:0-11, u1620:0-4 %%",
+        "((Incidental replies omitted))",
         "",
         "%% u1621:0-12 %%",
         "Zeno: Underground…",
@@ -1528,23 +1405,6 @@
         "DM: Shaman. The shaman turns to Roska. Get as many as you can into the temple, get as many as you can underground. A dire emergency. Let's… let's go. And Roska, I mean, this is like Dragonets being serious, like, this shit never happens, and this is like a, like, but a feeling like, okay, let's, let's do what we gotta do. And Roska and, there's a flurry of action and people start, but it's, it's also like, is this a game or like, everybody is trying to figure out like, is this serious? Is it not serious? You know? And… You…",
         ""
       ],
-      "entities": [
-        {
-          "id": "e004",
-          "role": "star",
-          "action": "interacted"
-        },
-        {
-          "id": "e005",
-          "role": "supporting",
-          "action": "interacted"
-        }
-      ],
-      "review": {
-        "confidence": "high",
-        "status": "automatedReviewed"
-      },
-      "id": "i013",
       "reviewContext": {
         "before": [
           "Heska: We don't know. Something about these…",
@@ -1560,31 +1420,19 @@
           "DM: It's coming through the storm. We can see it, it's coming through the storm.",
           "Zeno: Would we go out to meet it with the statue?"
         ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
       }
     },
     {
+      "id": "i014",
       "title": "The dreadnought battle and the allies’ crash",
       "source": {
         "startUid": "u1675",
         "endUid": "u2814"
       },
-      "lines": [
-        "%% u1675:0-5, u1676:0-43, u1677:0-30, u1678:0-55, u1679:0-19, u1680:0-4, u1681:0-53, u1682:0-39, u1683:0-17, u1684:0-23 %%",
-        "DM: Ahem. So, as you all… Get back into the Wanderer, and settle into your cockpits, a massive… fucking… ship has crashed through the storm. And a massive ship also has flying out of it, a small group of smaller ships that are launching out of its… its bay. ((Table reference))",
-        "",
-        "%% u1685:0-3, u1686:0-23, u1687:0-46, u1688:0-56, u1689:0-31, u1690:0-27, u1691:0-40, u1692:0-7, u1693:0-37, u1694:0-52, u1695:0-45, u1696:0-48, u1697:0-69, u1698:0-32, u1699:0-54, u1700:0-95, u1701:0-6, u1702:0-43, u1703:0-122, u1704:0-142, u1705:0-94, u1706:0-4, u1707:0-162, u1708:0-18, u1709:0-42, u1710:0-98, u1711:0-65, u1712:0-47, u1713:0-23, u1714:0-63, u1715:0-4, u1716:0-53, u1717:0-3, u1718:0-29, u1719:0-28, u1720:0-16, u1721:0-8, u1722:0-76, u1723:0-16, u1724:0-12, u1725:0-62, u1726:0-83, u1727:0-37, u1728:0-14, u1729:0-24, u1730:0-15, u1731:0-12, u1732:0-49, u1733:0-39, u1734:0-32, u1735:0-50, u1736:0-5, u1737:0-5, u1738:0-37, u1739:0-3, u1740:0-24, u1741:0-5, u1742:0-61, u1743:0-82, u1744:0-23, u1745:0-12, u1746:0-19, u1747:0-117, u1748:0-33, u1749:0-33, u1750:0-5, u1751:0-21, u1752:0-8, u1753:0-10, u1754:0-5, u1755:0-18, u1756:0-66, u1757:0-5, u1758:0-35, u1759:0-9, u1760:0-29, u1761:0-63, u1762:0-40, u1762:40-67, u1763:0-11, u1764:0-5, u1765:0-22, u1765:22-38, u1766:0-83, u1767:0-34, u1768:0-55, u1769:0-5, u1770:0-10, u1771:0-15, u1772:0-16, u1773:0-26, u1774:0-64, u1775:0-101, u1776:0-21, u1777:0-8, u1778:0-31, u1779:0-73, u1780:0-47, u1781:0-8, u1782:0-44, u1783:0-80, u1784:0-26, u1785:0-65, u1786:0-86, u1787:0-23, u1788:0-16, u1789:0-40, u1790:0-5, u1791:0-26, u1792:0-2, u1793:0-19, u1794:0-5, u1795:0-24, u1796:0-97, u1797:0-5, u1798:0-264, u1799:0-14, u1800:0-16, u1801:0-20, u1802:0-26, u1803:0-29, u1804:0-23, u1805:0-6, u1806:0-24, u1807:0-38, u1808:0-53, u1809:0-54, u1810:0-67, u1811:0-54, u1812:0-30, u1813:0-45, u1814:0-29, u1815:0-4, u1816:0-5, u1817:0-31, u1818:0-36, u1819:0-11, u1820:0-43, u1821:0-56, u1822:0-82, u1823:0-30, u1824:0-7, u1825:0-24, u1826:0-54, u1827:0-6, u1827:6-33, u1828:0-22, u1829:0-38, u1830:0-10, u1831:0-19, u1832:0-31, u1833:0-5, u1834:0-11, u1835:0-14, u1836:0-5, u1837:0-3, u1838:0-3, u1839:0-64, u1840:0-20, u1841:0-11, u1842:0-31, u1843:0-5, u1844:0-10, u1845:0-30, u1846:0-35, u1847:0-21, u1848:0-3, u1849:0-17, u1850:0-27, u1851:0-61, u1852:0-63, u1853:0-30, u1854:0-41, u1855:0-64, u1856:0-59, u1857:0-8, u1858:0-4, u1859:0-4, u1860:0-30, u1861:0-78, u1862:0-5, u1863:0-219, u1864:0-48, u1865:0-96, u1866:0-65, u1867:0-108, u1868:0-4, u1869:0-9, u1870:0-67, u1871:0-4, u1872:0-10, u1873:0-39, u1874:0-21, u1875:0-88, u1876:0-45, u1877:0-4, u1878:0-147, u1879:0-50, u1880:0-10, u1881:0-11, u1882:0-47, u1883:0-35, u1884:0-38, u1885:0-51, u1886:0-168, u1887:0-7, u1888:0-3, u1889:0-83, u1890:0-5, u1891:0-23, u1892:0-10, u1893:0-3, u1894:0-62, u1895:0-5, u1896:0-3, u1897:0-52, u1898:0-19, u1899:0-13, u1900:0-50, u1901:0-28, u1902:0-5, u1903:0-124, u1904:0-6, u1905:0-45, u1906:0-30, u1907:0-31, u1908:0-48, u1909:0-35, u1910:0-96, u1911:0-105, u1912:0-57, u1913:0-5, u1914:0-67, u1915:0-5, u1916:0-5, u1917:0-31, u1918:0-32, u1918:32-81, u1919:0-36, u1920:0-14, u1921:0-11, u1922:0-76, u1923:0-9, u1924:0-36, u1925:0-40, u1926:0-10, u1927:0-8, u1928:0-7, u1929:0-51, u1930:0-47, u1931:0-22, u1932:0-9, u1933:0-11, u1934:0-14, u1935:0-5, u1936:0-35, u1937:0-41, u1938:0-19, u1939:0-4, u1940:0-2, u1941:0-86, u1942:0-4, u1943:0-135, u1944:0-94, u1945:0-180, u1946:0-35, u1947:0-31, u1948:0-80, u1949:0-23, u1950:0-187, u1951:0-37, u1952:0-10, u1953:0-140, u1954:0-22, u1955:0-5, u1956:0-24, u1957:0-24, u1958:0-20, u1959:0-17, u1960:0-11, u1961:0-32, u1962:0-21, u1963:0-40, u1964:0-10, u1965:0-30, u1966:0-13, u1967:0-37, u1968:0-14, u1969:0-23, u1970:0-52, u1971:0-4, u1972:0-22, u1973:0-8, u1974:0-3, u1975:0-3, u1976:0-3, u1977:0-7, u1978:0-3, u1979:0-5, u1980:0-5, u1981:0-3, u1982:0-38, u1983:0-82, u1984:0-31, u1985:0-6, u1986:0-2, u1987:0-5, u1988:0-122, u1989:0-63, u1990:0-22, u1991:0-64, u1992:0-69, u1993:0-15, u1994:0-11, u1995:0-6, u1996:0-15, u1997:0-6, u1998:0-25, u1999:0-22, u2000:0-65, u2001:0-27, u2002:0-4, u2003:0-61, u2004:0-32, u2005:0-59, u2006:0-52, u2007:0-10, u2008:0-4, u2009:0-145, u2010:0-5, u2011:0-6, u2012:0-12, u2013:0-3, u2014:0-35, u2015:0-120, u2016:0-116, u2017:0-4, u2018:0-176, u2019:0-85, u2020:0-46, u2021:0-20, u2022:0-6, u2023:0-3, u2024:0-34, u2025:0-13, u2026:0-7, u2027:0-40, u2028:0-5, u2029:0-21, u2030:0-4, u2031:0-10, u2032:0-4, u2033:0-3, u2034:0-48, u2035:0-9, u2036:0-4, u2037:0-44, u2038:0-4, u2039:0-51, u2040:0-46, u2041:0-8, u2042:0-31, u2043:0-30, u2044:0-37, u2045:0-11, u2046:0-15, u2047:0-12, u2048:0-48, u2049:0-46, u2050:0-82, u2051:0-51, u2052:0-44, u2053:0-3, u2054:0-3, u2055:0-15, u2056:0-50, u2057:0-23, u2058:0-22, u2059:0-96, u2060:0-16, u2061:0-27, u2062:0-52, u2063:0-55, u2064:0-4, u2065:0-11, u2066:0-4, u2067:0-12, u2068:0-20, u2069:0-25, u2070:0-17, u2071:0-88, u2072:0-5, u2073:0-13, u2074:0-4, u2075:0-95, u2075:95-168, u2076:0-55, u2077:0-97, u2078:0-34, u2079:0-5, u2080:0-48, u2081:0-68, u2082:0-3, u2083:0-10, u2084:0-121, u2085:0-180, u2086:0-211, u2087:0-64, u2088:0-67, u2089:0-7, u2090:0-26, u2091:0-81, u2092:0-17, u2093:0-10, u2094:0-176, u2095:0-5, u2096:0-18, u2097:0-61, u2098:0-19, u2099:0-3, u2100:0-5, u2101:0-4, u2102:0-17, u2103:0-26, u2104:0-13, u2105:0-174, u2106:0-164, u2107:0-58, u2108:0-104, u2109:0-62, u2110:0-37, u2111:0-21, u2112:0-63, u2113:0-6, u2114:0-66, u2115:0-88, u2116:0-11, u2117:0-5, u2118:0-8, u2119:0-69, u2120:0-17, u2121:0-78, u2122:0-35, u2123:0-12, u2124:0-3, u2125:0-4, u2126:0-45, u2127:0-62, u2128:0-13, u2129:0-16, u2130:0-143, u2131:0-33, u2132:0-31, u2133:0-98, u2134:0-23, u2135:0-5, u2136:0-40, u2137:0-45, u2138:0-56, u2139:0-24, u2140:0-51, u2141:0-65, u2142:0-21, u2143:0-19, u2144:0-75, u2145:0-5, u2146:0-167, u2147:0-73, u2148:0-63, u2149:0-8, u2150:0-106, u2151:0-6, u2152:0-71, u2153:0-32, u2154:0-69, u2155:0-5, u2156:0-87, u2157:0-4, u2158:0-16, u2159:0-72, u2160:0-10, u2161:0-13, u2162:0-5, u2163:0-114, u2164:0-32, u2165:0-47, u2166:0-26, u2167:0-25, u2168:0-7, u2169:0-4, u2170:0-25, u2171:0-4, u2172:0-13, u2173:0-63, u2174:0-45, u2175:0-59, u2176:0-49, u2177:0-88, u2178:0-53, u2179:0-59, u2180:0-230, u2181:0-17, u2182:0-44, u2183:0-90, u2184:0-72, u2185:0-11, u2186:0-283, u2187:0-10, u2188:0-17, u2189:0-190, u2190:0-51, u2191:0-115, u2192:0-137, u2193:0-20, u2194:0-91, u2195:0-29, u2196:0-33, u2197:0-49, u2198:0-3, u2199:0-144, u2200:0-128, u2201:0-24, u2202:0-142, u2203:0-55, u2204:0-79, u2205:0-10, u2206:0-29, u2207:0-42, u2208:0-15, u2209:0-24, u2210:0-18, u2211:0-35, u2212:0-7, u2213:0-7, u2214:0-19, u2215:0-44, u2216:0-7, u2217:0-12, u2218:0-18, u2219:0-136, u2220:0-27, u2221:0-51, u2222:0-115, u2223:0-6, u2224:0-11, u2225:0-84, u2226:0-65, u2227:0-4, u2228:0-109, u2229:0-38, u2230:0-83, u2231:0-5, u2232:0-9, u2233:0-24, u2234:0-16, u2235:0-38, u2236:0-268, u2237:0-17, u2238:0-129, u2239:0-300, u2240:0-113, u2241:0-74, u2242:0-133, u2243:0-37, u2244:0-46, u2245:0-98, u2246:0-114, u2247:0-101, u2248:0-129, u2249:0-40, u2250:0-58, u2251:0-96, u2252:0-31, u2253:0-70, u2254:0-10, u2255:0-38, u2256:0-61, u2257:0-11, u2258:0-5, u2259:0-10, u2260:0-6, u2261:0-15, u2262:0-5, u2263:0-17, u2264:0-56, u2265:0-82, u2266:0-71, u2267:0-15, u2268:0-51, u2269:0-49, u2270:0-7, u2271:0-43, u2272:0-66, u2273:0-192, u2274:0-11, u2275:0-20, u2276:0-3, u2277:0-12, u2278:0-31, u2279:0-3, u2280:0-27, u2281:0-75, u2282:0-5, u2283:0-29, u2284:0-17, u2285:0-24, u2286:0-5, u2287:0-31, u2288:0-65, u2289:0-4, u2290:0-5, u2291:0-75, u2292:0-54, u2293:0-106, u2294:0-33, u2295:0-6, u2296:0-45, u2297:0-25, u2298:0-6, u2299:0-16, u2300:0-4, u2301:0-4, u2302:0-34, u2303:0-138, u2304:0-14, u2305:0-65, u2306:0-50, u2307:0-162, u2308:0-72, u2309:0-16, u2310:0-11, u2311:0-40, u2312:0-37, u2313:0-78, u2314:0-31, u2315:0-8, u2316:0-8, u2317:0-8, u2318:0-102, u2319:0-4, u2320:0-27, u2321:0-5, u2322:0-90, u2323:0-39, u2324:0-76, u2325:0-39, u2326:0-34, u2327:0-93, u2328:0-113, u2329:0-33, u2330:0-42, u2331:0-171, u2332:0-71, u2333:0-16, u2334:0-24, u2335:0-147, u2336:0-64, u2337:0-8, u2338:0-31, u2339:0-5, u2340:0-5, u2341:0-31, u2342:0-46, u2343:0-57, u2344:0-59, u2345:0-8, u2346:0-45, u2347:0-20, u2348:0-3, u2349:0-12, u2350:0-39, u2351:0-50, u2352:0-83, u2353:0-59, u2354:0-31, u2355:0-29, u2356:0-10, u2357:0-25, u2358:0-98, u2359:0-7, u2360:0-8, u2361:0-51, u2362:0-14, u2363:0-64, u2364:0-10, u2365:0-10, u2366:0-43, u2367:0-5, u2368:0-53, u2369:0-12, u2370:0-31, u2371:0-45, u2372:0-69, u2373:0-36, u2374:0-2, u2375:0-29, u2376:0-15, u2377:0-47, u2378:0-62, u2379:0-123, u2380:0-5, u2381:0-54, u2382:0-38, u2383:0-5, u2384:0-18, u2385:0-60, u2386:0-49, u2387:0-172, u2388:0-63, u2389:0-29, u2390:0-5, u2391:0-5, u2392:0-23, u2393:0-80, u2394:0-31, u2395:0-7, u2396:0-61, u2397:0-25, u2398:0-68, u2399:0-5, u2400:0-15, u2401:0-16, u2402:0-8, u2403:0-91, u2404:0-41, u2405:0-28, u2406:0-27, u2407:0-4, u2408:0-19, u2409:0-25, u2410:0-5, u2411:0-45, u2412:0-38, u2413:0-14, u2414:0-53, u2415:0-16, u2416:0-5, u2417:0-11, u2418:0-5, u2419:0-35, u2420:0-5, u2421:0-75, u2422:0-49, u2423:0-100, u2424:0-48, u2425:0-83, u2426:0-25, u2427:0-50, u2428:0-69, u2429:0-8, u2430:0-8, u2431:0-5, u2432:0-16, u2433:0-81, u2434:0-13, u2435:0-9, u2436:0-79, u2437:0-80, u2438:0-19, u2439:0-30, u2440:0-22, u2441:0-123, u2442:0-48, u2443:0-17, u2444:0-47, u2445:0-8, u2446:0-77, u2447:0-51, u2448:0-94, u2449:0-41, u2450:0-25, u2451:0-34, u2452:0-14, u2453:0-17, u2454:0-12, u2455:0-140, u2456:0-58, u2457:0-61, u2458:0-81, u2459:0-4, u2460:0-102, u2461:0-15, u2462:0-5, u2463:0-106, u2464:0-276, u2465:0-161, u2466:0-31, u2467:0-11, u2468:0-10, u2469:0-46, u2470:0-8, u2471:0-182, u2472:0-60, u2473:0-38, u2474:0-78, u2475:0-15, u2476:0-20, u2477:0-291, u2478:0-5, u2479:0-46, u2480:0-12, u2481:0-9, u2482:0-326, u2483:0-270, u2484:0-28, u2485:0-53, u2486:0-4, u2487:0-59, u2488:0-5, u2489:0-20, u2490:0-68, u2491:0-104, u2492:0-92, u2493:0-11, u2494:0-23, u2495:0-90, u2496:0-8, u2497:0-111, u2498:0-37, u2499:0-22, u2500:0-8, u2501:0-12, u2502:0-492, u2503:0-172, u2504:0-75, u2505:0-16, u2506:0-15, u2507:0-16, u2508:0-114, u2509:0-16, u2510:0-53, u2511:0-16, u2512:0-13, u2513:0-47, u2513:47-113, u2514:0-33, u2515:0-5, u2516:0-17, u2517:0-9, u2518:0-5, u2519:0-3, u2520:0-31, u2521:0-5, u2522:0-10, u2523:0-18, u2524:0-19, u2525:0-61, u2526:0-72, u2527:0-35, u2528:0-36, u2529:0-15, u2530:0-75, u2531:0-25, u2532:0-32, u2533:0-55, u2534:0-40, u2535:0-48, u2536:0-69, u2537:0-12, u2538:0-4, u2539:0-16, u2540:0-40, u2541:0-21, u2542:0-21, u2543:0-52, u2544:0-8, u2545:0-5, u2546:0-24, u2547:0-108, u2548:0-22, u2549:0-31, u2550:0-15, u2551:0-93, u2552:0-4, u2553:0-6, u2554:0-45, u2555:0-3, u2556:0-30, u2557:0-10, u2558:0-26, u2559:0-9, u2560:0-5, u2561:0-5, u2562:0-91, u2563:0-17, u2564:0-16, u2565:0-137, u2566:0-4, u2567:0-26, u2568:0-88, u2569:0-30, u2570:0-97, u2571:0-64, u2572:0-30, u2573:0-69, u2574:0-3, u2575:0-25, u2576:0-9, u2577:0-8, u2578:0-28, u2579:0-63, u2580:0-6, u2581:0-5, u2582:0-7, u2583:0-11, u2584:0-11, u2585:0-26, u2586:0-9, u2587:0-22, u2588:0-17, u2589:0-17, u2590:0-3, u2591:0-9, u2592:0-34, u2593:0-3, u2594:0-75, u2595:0-38, u2596:0-7, u2597:0-22, u2598:0-4, u2599:0-8, u2600:0-25, u2601:0-3, u2602:0-34, u2603:0-16, u2604:0-43, u2605:0-10, u2606:0-49, u2607:0-5, u2608:0-7, u2609:0-16, u2610:0-6, u2611:0-14, u2612:0-88, u2613:0-33, u2614:0-258, u2615:0-5, u2616:0-52, u2617:0-42, u2618:0-18, u2619:0-10, u2620:0-9, u2621:0-74, u2622:0-5, u2623:0-5, u2624:0-3, u2625:0-65, u2626:0-205, u2627:0-15, u2628:0-46, u2629:0-47, u2630:0-125, u2631:0-175, u2632:0-81, u2633:0-35, u2634:0-44, u2635:0-52, u2636:0-4, u2637:0-192 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u2638:0-41, u2639:0-57, u2640:0-152, u2641:0-49, u2642:0-36, u2643:0-4 %%",
-        "DM: ((Combat mechanics))Shai and Aksha have taken a blow and they are going down. Oh. You see their ship. You see them, you see them, you hear them as they're going down. “We'll be fine, we'll be fine, we'll be fine.” And then suddenly… no more, no more sound out of them as they crash. ((Combat accounting))",
-        "",
-        "%% u2644:0-69, u2645:0-14, u2646:0-26, u2647:0-5, u2648:0-2, u2649:0-15, u2650:0-21, u2651:0-3, u2652:0-21, u2653:0-13, u2654:0-44, u2655:0-24, u2656:0-22, u2657:0-6, u2658:0-6, u2659:0-86, u2660:0-89, u2661:0-124, u2662:0-31, u2663:0-54, u2663:54-109, u2663:109-115, u2664:0-19, u2665:0-5, u2666:0-13, u2667:0-14, u2668:0-20, u2669:0-42, u2670:0-23, u2671:0-5, u2672:0-5, u2673:0-53, u2674:0-43, u2675:0-109, u2676:0-9, u2677:0-72, u2678:0-40, u2679:0-78, u2680:0-31, u2681:0-51, u2682:0-51, u2683:0-47, u2684:0-17, u2685:0-5, u2686:0-14, u2687:0-69, u2688:0-15, u2689:0-16, u2690:0-14, u2691:0-29, u2692:0-60, u2693:0-5, u2694:0-33, u2695:0-61, u2696:0-25, u2697:0-122, u2698:0-10, u2699:0-5, u2700:0-6, u2701:0-35, u2702:0-58, u2703:0-18, u2704:0-89, u2705:0-35, u2706:0-63, u2707:0-18, u2708:0-28, u2709:0-5, u2710:0-90, u2711:0-18, u2712:0-33, u2713:0-5, u2714:0-23, u2715:0-15, u2716:0-70, u2717:0-68, u2718:0-83, u2719:0-5, u2720:0-15, u2721:0-65, u2722:0-5, u2723:0-55, u2724:0-36, u2725:0-94, u2726:0-26, u2727:0-5, u2728:0-8, u2729:0-40, u2730:0-19, u2731:0-193, u2732:0-5, u2733:0-74, u2734:0-7, u2735:0-41, u2736:0-10, u2737:0-196, u2738:0-94, u2739:0-29, u2740:0-27, u2741:0-31, u2742:0-3, u2743:0-5, u2744:0-5, u2745:0-39, u2746:0-16, u2747:0-14, u2748:0-113, u2749:0-22, u2750:0-123, u2751:0-4, u2752:0-50, u2753:0-282, u2754:0-9, u2755:0-118, u2756:0-4, u2757:0-23, u2758:0-8, u2759:0-33, u2760:0-82, u2761:0-55, u2762:0-8, u2763:0-6, u2764:0-52, u2765:0-17, u2766:0-12, u2767:0-22, u2768:0-40, u2769:0-82, u2770:0-122, u2771:0-76, u2772:0-8, u2773:0-6, u2774:0-5, u2775:0-61, u2776:0-114, u2777:0-3, u2778:0-5, u2779:0-3, u2780:0-3, u2781:0-167, u2782:0-13, u2783:0-17, u2784:0-8, u2785:0-112, u2786:0-38, u2787:0-3, u2788:0-3, u2789:0-5, u2790:0-3, u2791:0-98, u2792:0-127, u2793:0-374, u2794:0-109, u2795:0-26, u2796:0-22, u2797:0-133, u2798:0-42, u2799:0-90, u2800:0-4, u2801:0-3, u2802:0-40, u2803:0-34, u2804:0-3, u2805:0-28, u2806:0-19, u2807:0-17, u2808:0-5, u2809:0-27, u2810:0-4 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u2811:0-78, u2812:0-50, u2813:0-28, u2814:0-79 %%",
-        "DM: Bring down the dreadnought, which crashes into the shore and is wrecked after… the perfect strike from the Wanderer and his maul. Amazing job. The other ship… you destroy easily. There's one other ship left, but you make short work of it.",
-        ""
-      ],
       "entities": [
         {
           "id": "e012",
@@ -1607,11 +1455,29 @@
           "action": "interacted"
         }
       ],
-      "review": {
-        "confidence": "high",
-        "status": "automatedReviewed"
-      },
-      "id": "i014",
+      "lines": [
+        "%% u1675:0-5, u1676:0-43, u1677:0-30, u1678:0-55, u1679:0-19, u1680:0-4, u1681:0-53, u1682:0-39, u1683:0-17, u1684:0-23 %%",
+        "DM: Ahem. So, as you all… Get back into the Wanderer, and settle into your cockpits, a massive… fucking… ship has crashed through the storm. And a massive ship also has flying out of it, a small group of smaller ships that are launching out of its… its bay.((Table reference))",
+        "",
+        "%% u1685:0-3, u1686:0-23, u1687:0-46, u1688:0-56, u1689:0-31, u1690:0-27, u1691:0-40, u1692:0-7, u1693:0-37, u1694:0-52, u1695:0-45, u1696:0-48, u1697:0-69, u1698:0-32, u1699:0-54, u1700:0-95, u1701:0-6, u1702:0-43, u1703:0-122, u1704:0-142, u1705:0-94, u1706:0-4, u1707:0-162, u1708:0-18, u1709:0-42, u1710:0-98, u1711:0-65, u1712:0-47, u1713:0-23, u1714:0-63, u1715:0-4, u1716:0-53, u1717:0-3, u1718:0-29, u1719:0-28, u1720:0-16, u1721:0-8, u1722:0-76, u1723:0-16, u1724:0-12, u1725:0-62, u1726:0-83, u1727:0-37, u1728:0-14, u1729:0-24, u1730:0-15, u1731:0-12, u1732:0-49, u1733:0-39, u1734:0-32, u1735:0-50, u1736:0-5, u1737:0-5, u1738:0-37, u1739:0-3, u1740:0-24, u1741:0-5, u1742:0-61, u1743:0-82, u1744:0-23, u1745:0-12, u1746:0-19, u1747:0-117, u1748:0-33, u1749:0-33, u1750:0-5, u1751:0-21, u1752:0-8, u1753:0-10, u1754:0-5, u1755:0-18, u1756:0-66, u1757:0-5, u1758:0-35, u1759:0-9, u1760:0-29, u1761:0-63, u1762:0-40, u1762:40-67, u1763:0-11, u1764:0-5, u1765:0-22, u1765:22-38, u1766:0-83, u1767:0-34, u1768:0-55, u1769:0-5, u1770:0-10, u1771:0-15, u1772:0-16, u1773:0-26, u1774:0-64, u1775:0-101, u1776:0-21, u1777:0-8, u1778:0-31, u1779:0-73, u1780:0-47, u1781:0-8, u1782:0-44, u1783:0-80, u1784:0-26, u1785:0-65, u1786:0-86, u1787:0-23, u1788:0-16, u1789:0-40, u1790:0-5, u1791:0-26, u1792:0-2, u1793:0-19, u1794:0-5, u1795:0-24, u1796:0-97, u1797:0-5, u1798:0-264, u1799:0-14, u1800:0-16, u1801:0-20, u1802:0-26, u1803:0-29, u1804:0-23, u1805:0-6, u1806:0-24, u1807:0-38, u1808:0-53, u1809:0-54, u1810:0-67, u1811:0-54, u1812:0-30, u1813:0-45, u1814:0-29, u1815:0-4, u1816:0-5, u1817:0-31, u1818:0-36, u1819:0-11, u1820:0-43, u1821:0-56, u1822:0-82, u1823:0-30, u1824:0-7, u1825:0-24, u1826:0-54, u1827:0-6, u1827:6-33, u1828:0-22, u1829:0-38, u1830:0-10, u1831:0-19, u1832:0-31, u1833:0-5, u1834:0-11, u1835:0-14, u1836:0-5, u1837:0-3, u1838:0-3, u1839:0-64, u1840:0-20, u1841:0-11, u1842:0-31, u1843:0-5, u1844:0-10, u1845:0-30, u1846:0-35, u1847:0-21, u1848:0-3, u1849:0-17, u1850:0-27, u1851:0-61, u1852:0-63, u1853:0-30, u1854:0-41, u1855:0-64, u1856:0-59, u1857:0-8, u1858:0-4, u1859:0-4, u1860:0-30, u1861:0-78, u1862:0-5, u1863:0-219, u1864:0-48, u1865:0-96, u1866:0-65, u1867:0-108, u1868:0-4, u1869:0-9, u1870:0-67, u1871:0-4, u1872:0-10, u1873:0-39, u1874:0-21, u1875:0-88, u1876:0-45, u1877:0-4, u1878:0-147, u1879:0-50, u1880:0-10, u1881:0-11, u1882:0-47, u1883:0-35, u1884:0-38, u1885:0-51, u1886:0-168, u1887:0-7, u1888:0-3, u1889:0-83, u1890:0-5, u1891:0-23, u1892:0-10, u1893:0-3, u1894:0-62, u1895:0-5, u1896:0-3, u1897:0-52, u1898:0-19, u1899:0-13, u1900:0-50, u1901:0-28, u1902:0-5, u1903:0-124, u1904:0-6, u1905:0-45, u1906:0-30, u1907:0-31, u1908:0-48, u1909:0-35, u1910:0-96, u1911:0-105, u1912:0-57, u1913:0-5, u1914:0-67, u1915:0-5, u1916:0-5, u1917:0-31, u1918:0-32, u1918:32-81, u1919:0-36, u1920:0-14, u1921:0-11, u1922:0-76, u1923:0-9, u1924:0-36, u1925:0-40, u1926:0-10, u1927:0-8, u1928:0-7, u1929:0-51, u1930:0-47, u1931:0-22, u1932:0-9, u1933:0-11, u1934:0-14, u1935:0-5, u1936:0-35, u1937:0-41, u1938:0-19, u1939:0-4, u1940:0-2, u1941:0-86, u1942:0-4, u1943:0-135, u1944:0-94, u1945:0-180, u1946:0-35, u1947:0-31, u1948:0-80, u1949:0-23, u1950:0-187, u1951:0-37, u1952:0-10, u1953:0-140, u1954:0-22, u1955:0-5, u1956:0-24, u1957:0-24, u1958:0-20, u1959:0-17, u1960:0-11, u1961:0-32, u1962:0-21, u1963:0-40, u1964:0-10, u1965:0-30, u1966:0-13, u1967:0-37, u1968:0-14, u1969:0-23, u1970:0-52, u1971:0-4, u1972:0-22, u1973:0-8, u1974:0-3, u1975:0-3, u1976:0-3, u1977:0-7, u1978:0-3, u1979:0-5, u1980:0-5, u1981:0-3, u1982:0-38, u1983:0-82, u1984:0-31, u1985:0-6, u1986:0-2, u1987:0-5, u1988:0-122, u1989:0-63, u1990:0-22, u1991:0-64, u1992:0-69, u1993:0-15, u1994:0-11, u1995:0-6, u1996:0-15, u1997:0-6, u1998:0-25, u1999:0-22, u2000:0-65, u2001:0-27, u2002:0-4, u2003:0-61, u2004:0-32, u2005:0-59, u2006:0-52, u2007:0-10, u2008:0-4, u2009:0-145, u2010:0-5, u2011:0-6, u2012:0-12, u2013:0-3, u2014:0-35, u2015:0-120, u2016:0-116, u2017:0-4, u2018:0-176, u2019:0-85, u2020:0-46, u2021:0-20, u2022:0-6, u2023:0-3, u2024:0-34, u2025:0-13, u2026:0-7, u2027:0-40, u2028:0-5, u2029:0-21, u2030:0-4, u2031:0-10, u2032:0-4, u2033:0-3, u2034:0-48, u2035:0-9, u2036:0-4, u2037:0-44, u2038:0-4, u2039:0-51, u2040:0-46, u2041:0-8, u2042:0-31, u2043:0-30, u2044:0-37, u2045:0-11, u2046:0-15, u2047:0-12, u2048:0-48, u2049:0-46, u2050:0-82, u2051:0-51, u2052:0-44, u2053:0-3, u2054:0-3, u2055:0-15, u2056:0-50, u2057:0-23, u2058:0-22, u2059:0-96, u2060:0-16, u2061:0-27, u2062:0-52, u2063:0-55, u2064:0-4, u2065:0-11, u2066:0-4, u2067:0-12, u2068:0-20, u2069:0-25, u2070:0-17, u2071:0-88, u2072:0-5, u2073:0-13, u2074:0-4, u2075:0-95, u2075:95-168, u2076:0-55, u2077:0-97, u2078:0-34, u2079:0-5, u2080:0-48, u2081:0-68, u2082:0-3, u2083:0-10, u2084:0-121, u2085:0-180, u2086:0-211, u2087:0-64, u2088:0-67, u2089:0-7, u2090:0-26, u2091:0-81, u2092:0-17, u2093:0-10, u2094:0-176, u2095:0-5, u2096:0-18, u2097:0-61, u2098:0-19, u2099:0-3, u2100:0-5, u2101:0-4, u2102:0-17, u2103:0-26, u2104:0-13, u2105:0-174, u2106:0-164, u2107:0-58, u2108:0-104, u2109:0-62, u2110:0-37, u2111:0-21, u2112:0-63, u2113:0-6, u2114:0-66, u2115:0-88, u2116:0-11, u2117:0-5, u2118:0-8, u2119:0-69, u2120:0-17, u2121:0-78, u2122:0-35, u2123:0-12, u2124:0-3, u2125:0-4, u2126:0-45, u2127:0-62, u2128:0-13, u2129:0-16, u2130:0-143, u2131:0-33, u2132:0-31, u2133:0-98, u2134:0-23, u2135:0-5, u2136:0-40, u2137:0-45, u2138:0-56, u2139:0-24, u2140:0-51, u2141:0-65, u2142:0-21, u2143:0-19, u2144:0-75, u2145:0-5, u2146:0-167, u2147:0-73, u2148:0-63, u2149:0-8, u2150:0-106, u2151:0-6, u2152:0-71, u2153:0-32, u2154:0-69, u2155:0-5, u2156:0-87, u2157:0-4, u2158:0-16, u2159:0-72, u2160:0-10, u2161:0-13, u2162:0-5, u2163:0-114, u2164:0-32, u2165:0-47, u2166:0-26, u2167:0-25, u2168:0-7, u2169:0-4, u2170:0-25, u2171:0-4, u2172:0-13, u2173:0-63, u2174:0-45, u2175:0-59, u2176:0-49, u2177:0-88, u2178:0-53, u2179:0-59, u2180:0-230, u2181:0-17, u2182:0-44, u2183:0-90, u2184:0-72, u2185:0-11, u2186:0-283, u2187:0-10, u2188:0-17, u2189:0-190, u2190:0-51, u2191:0-115, u2192:0-137, u2193:0-20, u2194:0-91, u2195:0-29, u2196:0-33, u2197:0-49, u2198:0-3 %%",
+        "((Combat sequence, mechanics and tactics omitted))",
+        "",
+        "%% u2199:0-144, u2200:0-128, u2201:0-24, u2202:0-142, u2203:0-55, u2204:0-79, u2205:0-10, u2206:0-29, u2207:0-42, u2208:0-15 %%",
+        "DM: ((Further description of village damage))you see a massive energy beam coming from this ship, obliterating the town square of the Wanderer's village, and all of the nearby homes are eviscerated((Further description of village damage))",
+        "",
+        "%% u2209:0-24, u2210:0-18, u2211:0-35, u2212:0-7, u2213:0-7, u2214:0-19, u2215:0-44, u2216:0-7, u2217:0-12, u2218:0-18, u2219:0-136, u2220:0-27, u2221:0-51, u2222:0-115, u2223:0-6, u2224:0-11, u2225:0-84, u2226:0-65, u2227:0-4, u2228:0-109, u2229:0-38, u2230:0-83, u2231:0-5, u2232:0-9, u2233:0-24, u2234:0-16, u2235:0-38, u2236:0-268, u2237:0-17, u2238:0-129, u2239:0-300, u2240:0-113, u2241:0-74, u2242:0-133, u2243:0-37, u2244:0-46, u2245:0-98, u2246:0-114, u2247:0-101, u2248:0-129, u2249:0-40, u2250:0-58, u2251:0-96, u2252:0-31, u2253:0-70, u2254:0-10, u2255:0-38, u2256:0-61, u2257:0-11, u2258:0-5, u2259:0-10, u2260:0-6, u2261:0-15, u2262:0-5, u2263:0-17, u2264:0-56, u2265:0-82, u2266:0-71, u2267:0-15, u2268:0-51, u2269:0-49, u2270:0-7, u2271:0-43, u2272:0-66, u2273:0-192, u2274:0-11, u2275:0-20, u2276:0-3, u2277:0-12, u2278:0-31, u2279:0-3, u2280:0-27, u2281:0-75, u2282:0-5, u2283:0-29, u2284:0-17, u2285:0-24, u2286:0-5, u2287:0-31, u2288:0-65, u2289:0-4, u2290:0-5, u2291:0-75, u2292:0-54, u2293:0-106, u2294:0-33, u2295:0-6, u2296:0-45, u2297:0-25, u2298:0-6, u2299:0-16, u2300:0-4, u2301:0-4, u2302:0-34, u2303:0-138, u2304:0-14, u2305:0-65, u2306:0-50, u2307:0-162, u2308:0-72, u2309:0-16, u2310:0-11, u2311:0-40, u2312:0-37, u2313:0-78, u2314:0-31, u2315:0-8, u2316:0-8, u2317:0-8, u2318:0-102, u2319:0-4, u2320:0-27, u2321:0-5, u2322:0-90, u2323:0-39, u2324:0-76, u2325:0-39, u2326:0-34, u2327:0-93, u2328:0-113, u2329:0-33, u2330:0-42, u2331:0-171, u2332:0-71, u2333:0-16, u2334:0-24, u2335:0-147, u2336:0-64, u2337:0-8, u2338:0-31, u2339:0-5, u2340:0-5, u2341:0-31, u2342:0-46, u2343:0-57, u2344:0-59, u2345:0-8, u2346:0-45, u2347:0-20, u2348:0-3, u2349:0-12, u2350:0-39, u2351:0-50, u2352:0-83, u2353:0-59, u2354:0-31, u2355:0-29, u2356:0-10, u2357:0-25, u2358:0-98, u2359:0-7, u2360:0-8, u2361:0-51, u2362:0-14, u2363:0-64, u2364:0-10, u2365:0-10, u2366:0-43, u2367:0-5, u2368:0-53, u2369:0-12, u2370:0-31, u2371:0-45, u2372:0-69, u2373:0-36, u2374:0-2, u2375:0-29, u2376:0-15, u2377:0-47, u2378:0-62, u2379:0-123, u2380:0-5, u2381:0-54, u2382:0-38, u2383:0-5, u2384:0-18, u2385:0-60, u2386:0-49, u2387:0-172, u2388:0-63, u2389:0-29, u2390:0-5, u2391:0-5, u2392:0-23, u2393:0-80, u2394:0-31, u2395:0-7, u2396:0-61, u2397:0-25, u2398:0-68, u2399:0-5, u2400:0-15, u2401:0-16, u2402:0-8, u2403:0-91, u2404:0-41, u2405:0-28, u2406:0-27, u2407:0-4, u2408:0-19, u2409:0-25, u2410:0-5, u2411:0-45, u2412:0-38, u2413:0-14, u2414:0-53, u2415:0-16, u2416:0-5, u2417:0-11, u2418:0-5, u2419:0-35, u2420:0-5, u2421:0-75, u2422:0-49, u2423:0-100, u2424:0-48, u2425:0-83, u2426:0-25, u2427:0-50, u2428:0-69, u2429:0-8, u2430:0-8, u2431:0-5, u2432:0-16, u2433:0-81, u2434:0-13, u2435:0-9, u2436:0-79, u2437:0-80, u2438:0-19, u2439:0-30, u2440:0-22, u2441:0-123, u2442:0-48, u2443:0-17, u2444:0-47, u2445:0-8, u2446:0-77, u2447:0-51, u2448:0-94, u2449:0-41, u2450:0-25, u2451:0-34, u2452:0-14, u2453:0-17, u2454:0-12, u2455:0-140, u2456:0-58, u2457:0-61, u2458:0-81, u2459:0-4, u2460:0-102, u2461:0-15, u2462:0-5, u2463:0-106, u2464:0-276, u2465:0-161, u2466:0-31, u2467:0-11, u2468:0-10, u2469:0-46, u2470:0-8, u2471:0-182, u2472:0-60, u2473:0-38, u2474:0-78, u2475:0-15, u2476:0-20, u2477:0-291, u2478:0-5, u2479:0-46, u2480:0-12, u2481:0-9, u2482:0-326, u2483:0-270, u2484:0-28, u2485:0-53, u2486:0-4, u2487:0-59, u2488:0-5, u2489:0-20, u2490:0-68, u2491:0-104, u2492:0-92, u2493:0-11, u2494:0-23, u2495:0-90, u2496:0-8, u2497:0-111, u2498:0-37, u2499:0-22, u2500:0-8, u2501:0-12, u2502:0-492, u2503:0-172, u2504:0-75, u2505:0-16, u2506:0-15, u2507:0-16, u2508:0-114, u2509:0-16, u2510:0-53, u2511:0-16, u2512:0-13, u2513:0-47, u2513:47-113, u2514:0-33, u2515:0-5, u2516:0-17, u2517:0-9, u2518:0-5, u2519:0-3, u2520:0-31, u2521:0-5, u2522:0-10, u2523:0-18, u2524:0-19, u2525:0-61, u2526:0-72, u2527:0-35, u2528:0-36, u2529:0-15, u2530:0-75, u2531:0-25, u2532:0-32, u2533:0-55, u2534:0-40, u2535:0-48, u2536:0-69, u2537:0-12, u2538:0-4, u2539:0-16, u2540:0-40, u2541:0-21, u2542:0-21, u2543:0-52, u2544:0-8, u2545:0-5, u2546:0-24, u2547:0-108, u2548:0-22, u2549:0-31, u2550:0-15, u2551:0-93, u2552:0-4, u2553:0-6, u2554:0-45, u2555:0-3, u2556:0-30, u2557:0-10, u2558:0-26, u2559:0-9, u2560:0-5, u2561:0-5, u2562:0-91, u2563:0-17, u2564:0-16, u2565:0-137, u2566:0-4, u2567:0-26, u2568:0-88, u2569:0-30, u2570:0-97, u2571:0-64, u2572:0-30, u2573:0-69, u2574:0-3, u2575:0-25, u2576:0-9, u2577:0-8, u2578:0-28, u2579:0-63, u2580:0-6, u2581:0-5, u2582:0-7, u2583:0-11, u2584:0-11, u2585:0-26, u2586:0-9, u2587:0-22, u2588:0-17, u2589:0-17, u2590:0-3, u2591:0-9, u2592:0-34, u2593:0-3, u2594:0-75, u2595:0-38, u2596:0-7, u2597:0-22, u2598:0-4, u2599:0-8, u2600:0-25, u2601:0-3, u2602:0-34, u2603:0-16, u2604:0-43, u2605:0-10, u2606:0-49, u2607:0-5, u2608:0-7, u2609:0-16, u2610:0-6, u2611:0-14, u2612:0-88, u2613:0-33, u2614:0-258, u2615:0-5, u2616:0-52, u2617:0-42, u2618:0-18, u2619:0-10, u2620:0-9, u2621:0-74, u2622:0-5, u2623:0-5, u2624:0-3, u2625:0-65, u2626:0-205, u2627:0-15, u2628:0-46, u2629:0-47, u2630:0-125, u2631:0-175, u2632:0-81, u2633:0-35, u2634:0-44, u2635:0-52, u2636:0-4, u2637:0-192 %%",
+        "((Combat sequence, mechanics and tactics omitted))",
+        "",
+        "%% u2638:0-41, u2639:0-57, u2640:0-152, u2641:0-49, u2642:0-36, u2643:0-4 %%",
+        "DM: ((Combat accounting))Shai and Aksha have taken a blow and they are going down. Oh. You see their ship. You see them, you see them, you hear them as they're going down. “We'll be fine, we'll be fine, we'll be fine.” And then suddenly… no more, no more sound out of them as they crash.((Combat accounting))",
+        "",
+        "%% u2644:0-69, u2645:0-14, u2646:0-26, u2647:0-5, u2648:0-2, u2649:0-15, u2650:0-21, u2651:0-3, u2652:0-21, u2653:0-13, u2654:0-44, u2655:0-24, u2656:0-22, u2657:0-6, u2658:0-6, u2659:0-86, u2660:0-89, u2661:0-124, u2662:0-31, u2663:0-54, u2663:54-109, u2663:109-115, u2664:0-19, u2665:0-5, u2666:0-13, u2667:0-14, u2668:0-20, u2669:0-42, u2670:0-23, u2671:0-5, u2672:0-5, u2673:0-53, u2674:0-43, u2675:0-109, u2676:0-9, u2677:0-72, u2678:0-40, u2679:0-78, u2680:0-31, u2681:0-51, u2682:0-51, u2683:0-47, u2684:0-17, u2685:0-5, u2686:0-14, u2687:0-69, u2688:0-15, u2689:0-16, u2690:0-14, u2691:0-29, u2692:0-60, u2693:0-5, u2694:0-33, u2695:0-61, u2696:0-25, u2697:0-122, u2698:0-10, u2699:0-5, u2700:0-6, u2701:0-35, u2702:0-58, u2703:0-18, u2704:0-89, u2705:0-35, u2706:0-63, u2707:0-18, u2708:0-28, u2709:0-5, u2710:0-90, u2711:0-18, u2712:0-33, u2713:0-5, u2714:0-23, u2715:0-15, u2716:0-70, u2717:0-68, u2718:0-83, u2719:0-5, u2720:0-15, u2721:0-65, u2722:0-5, u2723:0-55, u2724:0-36, u2725:0-94, u2726:0-26, u2727:0-5, u2728:0-8, u2729:0-40, u2730:0-19, u2731:0-193, u2732:0-5, u2733:0-74, u2734:0-7, u2735:0-41, u2736:0-10, u2737:0-196, u2738:0-94, u2739:0-29, u2740:0-27, u2741:0-31, u2742:0-3, u2743:0-5, u2744:0-5, u2745:0-39, u2746:0-16, u2747:0-14, u2748:0-113, u2749:0-22, u2750:0-123, u2751:0-4, u2752:0-50, u2753:0-282, u2754:0-9, u2755:0-118, u2756:0-4, u2757:0-23, u2758:0-8, u2759:0-33, u2760:0-82, u2761:0-55, u2762:0-8, u2763:0-6, u2764:0-52, u2765:0-17, u2766:0-12, u2767:0-22, u2768:0-40, u2769:0-82, u2770:0-122, u2771:0-76, u2772:0-8, u2773:0-6, u2774:0-5, u2775:0-61, u2776:0-114, u2777:0-3, u2778:0-5, u2779:0-3, u2780:0-3, u2781:0-167, u2782:0-13, u2783:0-17, u2784:0-8, u2785:0-112, u2786:0-38, u2787:0-3, u2788:0-3, u2789:0-5, u2790:0-3, u2791:0-98, u2792:0-127, u2793:0-374, u2794:0-109, u2795:0-26, u2796:0-22, u2797:0-133, u2798:0-42, u2799:0-90, u2800:0-4, u2801:0-3, u2802:0-40, u2803:0-34, u2804:0-3, u2805:0-28, u2806:0-19, u2807:0-17, u2808:0-5, u2809:0-27, u2810:0-4 %%",
+        "((Combat sequence, mechanics and tactics omitted))",
+        "",
+        "%% u2811:0-78, u2812:0-50, u2813:0-28, u2814:0-79 %%",
+        "DM: Bring down the dreadnought, which crashes into the shore and is wrecked after… the perfect strike from the Wanderer and his maul. Amazing job. The other ship… you destroy easily. There's one other ship left, but you make short work of it.",
+        ""
+      ],
       "reviewContext": {
         "before": [
           "Zeno: Words…",
@@ -1627,17 +1493,34 @@
           "DM: Hold on just there. Little, little, little fan art.",
           "Zeno: Other…"
         ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
       }
     },
     {
+      "id": "i015",
       "title": "Tony questions the hostile dreadnought",
       "source": {
         "startUid": "u2234",
         "endUid": "u2253"
       },
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
       "lines": [
         "%% u2234:0-16, u2235:0-38, u2236:0-268, u2237:0-17 %%",
-        "Little Tony: ((Persuasion mechanics))Glenda the seagull is gonna, after she hears me starting to talk, be like, “No, no, no, no, that is not the way to approach this conversation whatsoever. Try this instead.” ((Persuasion mechanics))",
+        "Little Tony: ((Persuasion mechanics))Glenda the seagull is gonna, after she hears me starting to talk, be like, “No, no, no, no, that is not the way to approach this conversation whatsoever. Try this instead.”((Persuasion mechanics))",
         "",
         "%% u2238:0-129 %%",
         "DM: Okay, so what are you saying to the ship? How are you, what's the conversation right now? What are you trying to say to the ship?",
@@ -1652,26 +1535,9 @@
         "DM: And… but you do get a sense from the ship that, yeah, there's a place that, if you got to it, would hurt me a lot. And you basically, you know, if you kind of look, you know, imagining the, the, the size of the ship. It's essentially like the center of like behind where this big energy beam is. There's sort of like this is the iris of the ship. And there's something behind that, that… if you destroyed it would probably be a pretty good thing.",
         "",
         "%% u2251:0-96, u2252:0-31, u2253:0-70 %%",
-        "Little Tony: Alright, fabulous, I'll relay that, like, that's where we should be focusing our eye blasts, or… any attacks on the ship itself? ((Action accounting))",
+        "Little Tony: Alright, fabulous, I'll relay that, like, that's where we should be focusing our eye blasts, or… any attacks on the ship itself?((Action accounting))",
         ""
       ],
-      "entities": [
-        {
-          "id": "e012",
-          "role": "star",
-          "action": "interacted"
-        },
-        {
-          "id": "e006",
-          "role": "supporting",
-          "action": "interacted"
-        }
-      ],
-      "review": {
-        "confidence": "high",
-        "status": "automatedReviewed"
-      },
-      "id": "i015",
       "reviewContext": {
         "before": [
           "DM: Nice. Okay. So, but, but are you, so if you want, you can spend your entire action on trying to… find consciousness on the ship, is that what you're trying to do? You. But like, what are you trying to, how are you trying to figure out the location of the, of the bridge or the.",
@@ -1687,37 +1553,19 @@
           "Sculpit: Yeah.",
           "Heska: Just like…"
         ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
       }
     },
     {
+      "id": "i016",
       "title": "The wounded allies insist on fighting",
       "source": {
         "startUid": "u2306",
         "endUid": "u2320"
       },
-      "lines": [
-        "%% u2306:0-50, u2307:0-162, u2308:0-72, u2309:0-16, u2310:0-11, u2311:0-40, u2312:0-37 %%",
-        "DM: ((Combat sequence))Aksha and Shai, by the way, are, like, they're, like, bloody. They're, like, not looking good. They're, they're, they're in serious danger. ((Routine combat actions))",
-        "",
-        "%% u2313:0-78 %%",
-        "Sculpit: So… the… the, our buddies are doing poorly, is that what you were just saying?",
-        "",
-        "%% u2314:0-31 %%",
-        "DM: They are. Yeah, they're bloody.",
-        "",
-        "%% u2315:0-8, u2316:0-8, u2317:0-8 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u2318:0-102 %%",
-        "DM: But you also, like, through the telepathic connection, they're like, don't worry about us, we're fine.",
-        "",
-        "%% u2319:0-4 %%",
-        "((Intervening discussion and actions omitted))",
-        "",
-        "%% u2320:0-27 %%",
-        "DM: Bring down the dreadnought.",
-        ""
-      ],
       "entities": [
         {
           "id": "e001",
@@ -1730,11 +1578,29 @@
           "action": "interacted"
         }
       ],
-      "review": {
-        "confidence": "high",
-        "status": "automatedReviewed"
-      },
-      "id": "i016",
+      "lines": [
+        "%% u2306:0-50, u2307:0-162, u2308:0-72, u2309:0-16, u2310:0-11, u2311:0-40, u2312:0-37 %%",
+        "DM: ((Routine combat sequence))Aksha and Shai, by the way, are, like, they're, like, bloody. They're, like, not looking good. They're, they're, they're in serious danger.((Routine combat sequence))",
+        "",
+        "%% u2313:0-78 %%",
+        "Sculpit: So… the… the, our buddies are doing poorly, is that what you were just saying?",
+        "",
+        "%% u2314:0-31 %%",
+        "DM: They are. Yeah, they're bloody.",
+        "",
+        "%% u2315:0-8, u2316:0-8, u2317:0-8 %%",
+        "((Incidental discussion omitted))",
+        "",
+        "%% u2318:0-102 %%",
+        "DM: But you also, like, through the telepathic connection, they're like, don't worry about us, we're fine.",
+        "",
+        "%% u2319:0-4 %%",
+        "((Incidental discussion omitted))",
+        "",
+        "%% u2320:0-27 %%",
+        "DM: Bring down the dreadnought.",
+        ""
+      ],
       "reviewContext": {
         "before": [
           "Heska: [garbled]",
@@ -1750,17 +1616,39 @@
           "DM: Now, so here's kind of an interesting thing, and this happened a little bit with Little Tony. When he cast, because when he cast Dispel Magic, it actually came out of the fingertip of the Wanderer, which was… like, a strange little thing. So… You can… go ahead and cast Lightning Bolt. When you cast Lightning Bolt, like, as a human, like, what happens normally? Like, where does the lightning come from? Does it come from the sky, or does it come from the…",
           "Sculpit: No, no, it comes from you. It's a line. It comes from you, it's a line."
         ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
       }
     },
     {
+      "id": "i017",
       "title": "One traveler survives; lives remain in the wreck",
       "source": {
         "startUid": "u2850",
         "endUid": "u2875"
       },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e012",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
       "lines": [
         "%% u2850:0-122, u2851:0-84 %%",
-        "DM: So when you get there, you realize that one of them is actually dead, and the other one is bloody, still living, but like… about to die. ((Mechanics))But it's still alive.",
+        "DM: So when you get there, you realize that one of them is actually dead, and the other one is bloody, still living, but like… about to die. ((Rules phrasing))But it's still alive.",
         "",
         "%% u2852:0-48 %%",
         "Little Tony: Revivify for one and Healing Word for the other.",
@@ -1793,28 +1681,6 @@
         "DM: I don't know. I mean, this is… This is a warship. I don't know why there'd be beings inside other than… the pilots.",
         ""
       ],
-      "entities": [
-        {
-          "id": "e001",
-          "role": "star",
-          "action": "interacted"
-        },
-        {
-          "id": "e002",
-          "role": "supporting",
-          "action": "interacted"
-        },
-        {
-          "id": "e012",
-          "role": "supporting",
-          "action": "observed"
-        }
-      ],
-      "review": {
-        "confidence": "high",
-        "status": "automatedReviewed"
-      },
-      "id": "i017",
       "reviewContext": {
         "before": [
           "Little Tony: Pop back up again. They are… okay, so, Revivify. The creature revives with 1 hit point. It does not restore any missing body parts if they have missing body parts.",
@@ -1830,25 +1696,19 @@
           "Player: Yeah. Get in there.",
           "DM: How are you? You're just, I mean, and there's definitely wreckage. Like there's like holes and spaces you could try to like fly in if you want to, or you just go, go fly directly in?"
         ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
       }
     },
     {
-      "title": "The dying dreadnought’s specimen vault",
+      "id": "i018",
+      "title": "The dying dreadnought and its trapped specimens",
       "source": {
         "startUid": "u2893",
-        "endUid": "u2914"
+        "endUid": "u2953"
       },
-      "lines": [
-        "%% u2893:0-227, u2894:0-25, u2895:0-16, u2896:0-105, u2897:0-27, u2898:0-101, u2899:0-174, u2900:0-32 %%",
-        "DM: Yeah. Okay. All right. So, you you you fly in and, you know, basically there's a lot of damage and wreckage everywhere. So, there's like kind of sufficient gaps and holes for you to, you know, kind of navigate your way through. And you end up in a room inside the ship, and… you have never seen anything like what you're seeing inside this room because it's hard to describe… other than just to show it. But… It looks like there are just organisms, all kinds of weird organisms like throughout this space. And they're different shapes and just things you've never seen before, like just some things that kind of look familiar to things that you may have seen and other things that… you just have never seen before.",
-        "",
-        "%% u2901:0-172, u2902:0-101, u2903:0-79, u2904:0-31, u2905:0-97, u2906:0-16, u2907:0-64 %%",
-        "DM: And Tony, there's a bunch of things happening all at once for you, because this is all a pretty overwhelming moment. Number one, since you spoke to the dreadnought earlier, and you have a connection with the dreadnought, you can sense for sure that the dreadnought is dying. And not only is the dreadnought dying, but the dreadnought has what feels like… some fire burning inside of it that is going to explode, like, soon, imminently. Like this whole thing is going to go up in flames. Very, very soon. You can communicate that urgency to everybody else here as well.",
-        "",
-        "%% u2908:0-250, u2909:0-4, u2910:0-43, u2911:0-4, u2912:0-13, u2913:0-82, u2914:0-98 %%",
-        "DM: And the other thing that is kind of interesting about this space that you're in, there are all these kind of vessels with all these things, but in the center of the room, there's a particular area with a particular large set of chambers full of eggs. And… They don't look exactly like dragonet eggs, but… close enough. That feels… just… you're… your blood pressure and everything is kind of, you know… But it's behind some kind of structure that looks different from all of the other structures here.",
-        ""
-      ],
       "entities": [
         {
           "id": "e012",
@@ -1861,11 +1721,71 @@
           "action": "observed"
         }
       ],
-      "review": {
-        "confidence": "high",
-        "status": "automatedReviewed"
-      },
-      "id": "i018",
+      "lines": [
+        "%% u2893:0-227, u2894:0-25, u2895:0-16, u2896:0-105, u2897:0-27, u2898:0-101, u2899:0-174, u2900:0-32 %%",
+        "DM: Yeah. Okay. All right. So, you you you fly in and, you know, basically there's a lot of damage and wreckage everywhere. So, there's like kind of sufficient gaps and holes for you to, you know, kind of navigate your way through. And you end up in a room inside the ship, and… you have never seen anything like what you're seeing inside this room because it's hard to describe… other than just to show it. But… It looks like there are just organisms, all kinds of weird organisms like throughout this space. And they're different shapes and just things you've never seen before, like just some things that kind of look familiar to things that you may have seen and other things that… you just have never seen before.",
+        "",
+        "%% u2901:0-172, u2902:0-101, u2903:0-79, u2904:0-31, u2905:0-97, u2906:0-16, u2907:0-64 %%",
+        "DM: And Tony, there's a bunch of things happening all at once for you, because this is all a pretty overwhelming moment. Number one, since you spoke to the dreadnought earlier, and you have a connection with the dreadnought, you can sense for sure that the dreadnought is dying. And not only is the dreadnought dying, but the dreadnought has what feels like… some fire burning inside of it that is going to explode, like, soon, imminently. Like this whole thing is going to go up in flames. Very, very soon. You can communicate that urgency to everybody else here as well.",
+        "",
+        "%% u2908:0-250, u2909:0-4, u2910:0-43, u2911:0-4, u2912:0-13, u2913:0-82, u2914:0-98 %%",
+        "DM: And the other thing that is kind of interesting about this space that you're in, there are all these kind of vessels with all these things, but in the center of the room, there's a particular area with a particular large set of chambers full of eggs. And… They don't look exactly like dragonet eggs, but… close enough. That feels… just… you're… your blood pressure and everything is kind of, you know… But it's behind some kind of structure that looks different from all of the other structures here.",
+        "",
+        "%% u2915:0-139 %%",
+        "((Countdown and escape planning omitted))",
+        "",
+        "%% u2916:0-65, u2917:0-32 %%",
+        "Little Tony: Are the… so all of the creatures that are in here are just, like… running around, and they're all…",
+        "",
+        "%% u2918:0-64, u2919:0-11 %%",
+        "DM: No, they're all, they're all, they're all, they're all trapped. It's, like…",
+        "",
+        "%% u2920:0-197, u2921:0-89, u2922:0-18, u2923:0-38, u2924:0-79 %%",
+        "DM: It's basically… it's like a specimen vault. It's like everything is, like, inside some kind of a weird… but everything's locked up. They're all… they're all, like, behind some kind of a… something.((Rescue countdown))",
+        "",
+        "%% u2925:0-38, u2926:0-42, u2927:0-4, u2928:0-66, u2929:0-5, u2930:0-83, u2931:0-9, u2932:0-54, u2933:0-23 %%",
+        "((Countdown and escape planning omitted))",
+        "",
+        "%% u2934:0-19 %%",
+        "Little Tony: Speak with Animals.",
+        "",
+        "%% u2935:0-16 %%",
+        "DM: Yeah, go for it.",
+        "",
+        "%% u2936:0-8, u2937:0-281, u2938:0-24 %%",
+        "Little Tony: And say… “Guys, what are you guys all doing here? What's your deal? I'm Lil Tony, it's very nice to meet you, it's a pleasure to make your acquaintance, welcome to our islands, it's very nice here, there's all sorts of things, there's armor crabs and, you know, seagulls and stuff, but like… What's your story, guys?”",
+        "",
+        "%% u2939:0-8, u2940:0-13 %%",
+        "DM: “Help us. Just help us.”",
+        "",
+        "%% u2941:0-50 %%",
+        "Little Tony: You aren't gonna, like, eat us or anything, right?",
+        "",
+        "%% u2942:0-3, u2943:0-31 %%",
+        "DM: No. “Help us. Please. We're trapped.”",
+        "",
+        "%% u2944:0-89 %%",
+        "Little Tony: Yeah, right. Fuck. Okay, guys, we have to let all of the animals out, because, you know…",
+        "",
+        "%% u2945:0-16 %%",
+        "DM: Please, help us.",
+        "",
+        "%% u2946:0-15 %%",
+        "Little Tony: Guys, you know?",
+        "",
+        "%% u2947:0-11 %%",
+        "DM: What? What?",
+        "",
+        "%% u2948:0-41 %%",
+        "Heska: How do you know they're not lying to you?",
+        "",
+        "%% u2949:0-21, u2950:0-17, u2951:0-43, u2952:0-36 %%",
+        "Little Tony: Look at him! Come on! What do you mean? This whole place is gonna blow up in, like… the time it takes us to count to 20?",
+        "",
+        "%% u2953:0-42 %%",
+        "DM: It's gonna blow up in a few minutes, yeah.",
+        ""
+      ],
       "reviewContext": {
         "before": [
           "DM: How are you? You're just, I mean, and there's definitely wreckage. Like there's like holes and spaces you could try to like fly in if you want to, or you just go, go fly directly in?",
@@ -1875,20 +1795,37 @@
           "Player: We'll, we'll, we'll… We'll take care of ourselves if we need to."
         ],
         "after": [
-          "DM: I'm not gonna have you roll initiative. You can act in whatever order that you want, but you have five rounds now before the ship explodes.",
-          "Little Tony: Are the… so all of the creatures that are in here are just, like… running around, and they're all…",
-          "DM: No, they're all, they're all, they're all, they're all trapped. It's, like…",
-          "DM: It's basically… it's like a specimen vault. It's like everything is, like, inside some kind of a weird… but everything's locked up. They're all… they're all, like, behind some kind of a… something. So you have 5 rounds, every one of you gets an action to do something, anything you want. We're almost done. We can do 3 rounds. Let's do 3 rounds. And then the ship exploded, or then… bad things were gonna happen. I mean… I'm…",
-          "Heska: I will look around at everybody, like… I think at this point, Heska is just like…"
+          "Zeno: I find the one—I quickly scan around looking for the most identifiably cute looking thing… From the perspective…",
+          "DM: Thank you, thanks.",
+          "Zeno: Dragonet… Which would be like anything that's like even remotely lizard-like… Or scaly, or winged, or anything.",
+          "DM: I mean, the most thing that's resonant to all of you is the thing that looks like dragon eggs in the very center of the room. There's like a specific chamber that looks like it's got a whole bunch of dragon eggs that's right in the middle of the room.",
+          "Sculpit: Okay?"
         ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
       }
     },
     {
+      "id": "i019",
       "title": "Rescuing eggs into the Wanderer",
       "source": {
         "startUid": "u2982",
         "endUid": "u3068"
       },
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "present"
+        }
+      ],
       "lines": [
         "%% u2982:0-64 %%",
         "Sculpit: I'm gonna like go grab some eggs and teleport out. Does it work?",
@@ -1906,10 +1843,10 @@
         "Sculpit: Back to the Wanderer.",
         "",
         "%% u2987:0-22, u2988:0-23, u2989:0-22 %%",
-        "DM: You can make it there. ((Check request))",
+        "DM: You can make it there.((Check request))",
         "",
         "%% u2990:0-6 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Other rescue actions and carrying discussion omitted))",
         "",
         "%% u2991:0-5, u2992:0-14, u2993:0-59 %%",
         "DM: Yeah. You can do it. You're able to take some eggs or whatever you want to grab.",
@@ -1917,14 +1854,8 @@
         "%% u2994:0-37 %%",
         "Sculpit: Yeah. I was grabbing a bunch of eggs.",
         "",
-        "%% u2995:0-5, u2996:0-13, u2997:0-81 %%",
-        "DM: Okay? So, we'll do… You can do this 3 times, if you wanna go back and forth, you can do this 3 times.",
-        "",
-        "%% u2998:0-28, u2999:0-19, u3000:0-9, u3001:0-98 %%",
-        "Sculpit: At… sure, I'll, I'll do it. Hold on one second… I I will… Well, other… I'll just… is three times enough time to get, like, all the… how many eggs are there?",
-        "",
-        "%% u3002:0-153, u3003:0-105 %%",
-        "DM: There's a lot. There's a lot. You're not gonna be able to get all of them. You can get… you can get, like, a good, like, 10 or 20 of them, if you wanted. While, while Heska is, or sorry, while Sculpit is doing this, is anybody else trying to do anything else?",
+        "%% u2995:0-5, u2996:0-13, u2997:0-81, u2998:0-28, u2999:0-19, u3000:0-9, u3001:0-98, u3002:0-153, u3003:0-105 %%",
+        "((Other rescue actions and carrying discussion omitted))",
         "",
         "%% u3004:0-38 %%",
         "Sculpit: Hold on, can you make me bigger again?",
@@ -1933,16 +1864,16 @@
         "Heska: Sure.",
         "",
         "%% u3006:0-4 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Other rescue actions and carrying discussion omitted))",
         "",
         "%% u3007:0-40 %%",
         "Sculpit: Can I carry more eggs if I was enlarged?",
         "",
         "%% u3008:0-4, u3009:0-35, u3010:0-19, u3011:0-11, u3012:0-5, u3013:0-13, u3014:0-40, u3015:0-15, u3016:0-68, u3017:0-25, u3018:0-5, u3019:0-96, u3019:96-165, u3020:0-137, u3020:137-305, u3021:0-125, u3022:0-27, u3023:0-5, u3024:0-130, u3025:0-8, u3026:0-22, u3027:0-40, u3028:0-26, u3029:0-13, u3030:0-22, u3031:0-57, u3032:0-59, u3033:0-7, u3034:0-34, u3035:0-51, u3036:0-241, u3037:0-103, u3038:0-87 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Other rescue actions and carrying discussion omitted))",
         "",
         "%% u3039:0-271, u3040:0-86, u3041:0-15, u3042:0-95, u3043:0-25 %%",
-        "DM: ((Other rescue actions))Sculpit is also effectively now, has moved a bunch of eggs directly into the Wanderer. ((Other rescue actions))",
+        "DM: ((Other rescue actions))Sculpit is also effectively now, has moved a bunch of eggs directly into the Wanderer.((Other rescue actions))",
         "",
         "%% u3044:0-11, u3045:0-11, u3046:0-40 %%",
         "Heska: I'm making… I'm making… Sculpit big so he can carry more things.",
@@ -1951,29 +1882,12 @@
         "DM: Perfect.",
         "",
         "%% u3048:0-82, u3049:0-20, u3050:0-39, u3051:0-28, u3052:0-32, u3053:0-18, u3054:0-33, u3055:0-39 %%",
-        "((Intervening discussion and actions omitted))",
+        "((Other rescue actions and carrying discussion omitted))",
         "",
         "%% u3056:0-25, u3057:0-14, u3058:0-45, u3059:0-32, u3060:0-12, u3061:0-10, u3062:0-39, u3063:0-9, u3064:0-30, u3065:0-13, u3066:0-35, u3067:0-5, u3068:0-23 %%",
         "DM: So, you all successfully… these methods… it's definitely saved, like, a lot of beings. Definitely don't save everybody, but there's… many that… freed. And you're able to pull out some… 20-or-so… of these weird eggs that look… kind of like… I'm not sure exactly what they are. [garbled] And sit into the water.",
         ""
       ],
-      "entities": [
-        {
-          "id": "e013",
-          "role": "star",
-          "action": "interacted"
-        },
-        {
-          "id": "e003",
-          "role": "supporting",
-          "action": "present"
-        }
-      ],
-      "review": {
-        "confidence": "high",
-        "status": "automatedReviewed"
-      },
-      "id": "i019",
       "reviewContext": {
         "before": [
           "DM: Yeah, but you can also teleport things out, right?",
@@ -1989,14 +1903,26 @@
           "DM: “They know that you're here. They're not gonna stop looking for you. You know what this means. You know? [garbled]… You can't stay here.”",
           "Zeno: If you stay here…"
         ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
       }
     },
     {
+      "id": "i020",
       "title": "Zeno rescues his little friend",
       "source": {
         "startUid": "u3048",
         "endUid": "u3055"
       },
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
       "lines": [
         "%% u3048:0-82, u3049:0-20, u3050:0-39, u3051:0-28, u3052:0-32, u3053:0-18 %%",
         "Zeno: Zeno's like, okay, yeah, it's cool. He's got the egg situation under control, but… So I go back to the… now open cage of the one cutest entity, and I'm like… “I'll help you, you individually. Now come here.” And I boop it out.",
@@ -2008,19 +1934,6 @@
         "Zeno: And fly out, rescuing my little friend.",
         ""
       ],
-      "entities": [
-        {
-          "id": "e014",
-          "role": "star",
-          "action": "interacted"
-        }
-      ],
-      "review": {
-        "confidence": "medium",
-        "status": "automatedReviewed",
-        "reason": "The individual is clearly rescued, but the text leaves its identity almost undescribed."
-      },
-      "id": "i020",
       "reviewContext": {
         "before": [
           "Little Tony: We will set them free nonetheless.”",
@@ -2036,14 +1949,26 @@
           "DM: And you go back to go and visit… Aksha, who is… still alive… He's… in the ship… Low hit points. It's… but it's still awake. And he beckons you over. He says to you…",
           "DM: “They know that you're here. They're not gonna stop looking for you. You know what this means. You know? [garbled]… You can't stay here.”"
         ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
       }
     },
     {
+      "id": "i021",
       "title": "Escape before the dreadnought explodes",
       "source": {
         "startUid": "u3069",
         "endUid": "u3081"
       },
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
       "lines": [
         "%% u3069:0-231, u3070:0-50, u3071:0-54 %%",
         "DM: And as all of this is happening, the ship is pulsing, and, you know, you all literally did a giant maul through the center of the thing. There's a giant reactor on the ship, the thing has been, you know, smoking and billowing, and… As you make your final escape, the entire… massive… explodes, and just burns in this huge, fiery wreckage.",
@@ -2052,18 +1977,6 @@
         "DM: And… as the ship… The ship explodes, and as you escape with… whatever these beings… are… Who knows? It was exactly what was going on the ship, and whatever is happening in this space… You fly out now, just, kind of… feeling through… What the hell is going on with this giant ship and these beings?",
         ""
       ],
-      "entities": [
-        {
-          "id": "e012",
-          "role": "star",
-          "action": "interacted"
-        }
-      ],
-      "review": {
-        "confidence": "high",
-        "status": "automatedReviewed"
-      },
-      "id": "i021",
       "reviewContext": {
         "before": [
           "DM: Perfect.",
@@ -2078,14 +1991,26 @@
           "Zeno: If you stay here…",
           "DM: “If you stay here, they're always gonna find you.”"
         ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
       }
     },
     {
+      "id": "i022",
       "title": "The surviving traveler warns them to leave",
       "source": {
         "startUid": "u3082",
         "endUid": "u3097"
       },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
       "lines": [
         "%% u3082:0-32, u3083:0-14, u3084:0-12, u3085:0-5, u3086:0-12, u3087:0-15, u3088:0-27, u3089:0-24, u3090:0-15 %%",
         "DM: And you go back to go and visit… Aksha, who is… still alive… He's… in the ship… Low hit points. It's… but it's still awake. And he beckons you over. He says to you…",
@@ -2100,19 +2025,6 @@
         "DM: “If you stay here, they're always gonna find you.”",
         ""
       ],
-      "entities": [
-        {
-          "id": "e001",
-          "role": "star",
-          "action": "interacted"
-        }
-      ],
-      "review": {
-        "confidence": "medium",
-        "status": "automatedReviewed",
-        "reason": "Retained source names Aksha; attribution follows the explicit Shai correction at u2869 and the preserved legacy recap, without altering the quotation."
-      },
-      "id": "i022",
       "reviewContext": {
         "before": [
           "DM: You have a little football carry.",
@@ -2122,6 +2034,11 @@
           "DM: And… as the ship… The ship explodes, and as you escape with… whatever these beings… are… Who knows? It was exactly what was going on the ship, and whatever is happening in this space… You fly out now, just, kind of… feeling through… What the hell is going on with this giant ship and these beings?"
         ],
         "after": []
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The existing e001 attribution remains unresolved: this passage names Aksha, whereas u2855 and the explicit u2869 correction identify Shai. The literal source wording is retained."
       }
     }
   ]
