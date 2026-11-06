@@ -74,17 +74,20 @@
           "source": {
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-            "startUid": "u0487",
+            "startUid": "u0474",
             "endUid": "u0490"
           }
         }
       ],
       "review": {
-        "confidence": "medium",
+        "confidence": "high",
         "status": "automatedReviewed"
       },
       "note": "People/PCs/Other PCs/Labyrinth Prisoners/Steampup.md",
-      "confidenceExplanation": "The established continuing companion qualifies, but its commanded decoy work could warrant supporting rather than cameo importance."
+      "names": [
+        "steel defender",
+        "magical dog"
+      ]
     },
     {
       "id": "e003",
@@ -522,15 +525,16 @@
         }
       ],
       "review": {
-        "confidence": "high",
+        "confidence": "medium",
         "status": "automatedReviewed"
-      }
+      },
+      "confidenceExplanation": "The accounts reveal concrete family trade history and duplicate books, although their inclusion as a distinct plot object rather than incidental records is borderline."
     }
   ],
   "exclusions": [
     {
       "label": "Hobgoblin smokebinder and crossbow guard",
-      "reason": "Unnamed encounter opponents have no individual identity beyond their patrol and combat roles; the smokebinder lore explains a creature category. Both fights remain fully represented in combat extraction.",
+      "reason": "Anonymous patrol opponents lack individual identity beyond their encounters. Smokebinder lore describes a creature category; the two recorded fights are preserved in combat extraction.",
       "occurrences": [
         {
           "source": {
@@ -568,7 +572,7 @@
     },
     {
       "label": "Shadow cloak and flaming sword",
-      "reason": "The aftermath establishes that the shadows and flame belong to the hobgoblin’s abilities, not distinct magic items.",
+      "reason": "The aftermath explicitly attributes shadow and flame to the hobgoblin’s abilities rather than separate magic items.",
       "occurrences": [
         {
           "source": {
@@ -582,7 +586,7 @@
     },
     {
       "label": "Gaudin’s goblin-detecting ring; Goggles of the Night; experimental elixirs",
-      "reason": "Routine PC equipment and class-ability use, without a separate qualifying acquisition or original item history in this session.",
+      "reason": "Routine PC equipment, infusions and class abilities, without new original item history or a separate plot-object role.",
       "occurrences": [
         {
           "source": {
@@ -628,7 +632,7 @@
     },
     {
       "label": "Silver candlesticks, holy icon, topaz, coins, and alchemist’s fire",
-      "reason": "Ordinary loot or routine crafting supplies; no distinct plot-object role is established. The deity depicted by the icon is included separately.",
+      "reason": "Ordinary loot and routine supplies without distinct plot roles. The Mother is mapped separately; the plate’s proposed mirror role is also separately represented.",
       "occurrences": [
         {
           "source": {
@@ -658,7 +662,7 @@
     },
     {
       "label": "Petrona’s father",
-      "reason": "An unnamed incidental person in a secondhand letter; the captured father has no meaningful individual identity beyond motivating Petrona’s departure.",
+      "reason": "Incidental unnamed person in a secondhand letter, identified only by his capture and relationship to Petrona.",
       "occurrences": [
         {
           "source": {
@@ -672,7 +676,7 @@
     },
     {
       "label": "Headless statues and great-hall victims",
-      "reason": "Generic petrified people without distinguishable individual identities; their plight and the party’s beliefs remain in the basilisk and ghost exchanges.",
+      "reason": "Petrified people have no distinguishable individual identities here. Their predicament and the party’s theories remain in source excerpts without turning guesses into confirmed identities.",
       "occurrences": [
         {
           "source": {
@@ -694,7 +698,7 @@
     },
     {
       "label": "Dilion’s missing dog",
-      "reason": "An incidental unnamed reference to the companion the construct imitates; no substantive new account of the absent dog appears here. Do not conflate the passing Keiko address to Steampup with a second physically present dog.",
+      "reason": "The absent companion is briefly invoked as Steampup’s model, without a substantive new account. The archive’s “dog and the steampup” wording leaves a second animal’s attendance unresolved.",
       "occurrences": [
         {
           "source": {
@@ -718,6 +722,34 @@
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
             "startUid": "u1103",
             "endUid": "u1106"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Drilling troop leaders and recruits",
+      "reason": "Anonymous guard-post voices establish an overheard drill, without individually distinguishable people or a separately identified organization.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1241",
+            "endUid": "u1249"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Loria’s bird swarm",
+      "reason": "A routine swarmkeeper manifestation rather than an independently identified companion.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0979",
+            "endUid": "u0982"
           }
         }
       ]

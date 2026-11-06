@@ -8,7 +8,7 @@
     "transcriptSha256": "3c52e8e4a89dbc11046b0280f1a0748952a8c0e97fdfa5d42c0061d28ba80616",
     "segments": {
       "path": "_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-segments.json",
-      "sha256": "3fbe091679351c571d24f682b08f31336120973e8a7cb1f66b821def4c003f6b",
+      "sha256": "c56148389a6b69eec4ffe0a3ebb98af3bb8e25dc9e7390e163398634c4358582",
       "schemaVersion": "0.1-transcript-segments-draft"
     }
   },
@@ -24,7 +24,7 @@
             {
               "actor": "Hobgoblin smokebinder",
               "kind": "turn",
-              "summary": "Acts first after a high initiative roll, fails the Dexterity save against Grease, and falls prone down the stairs. Its initially successful Dexterity save against Snare is rerolled with disadvantage for falling prone; the 4 fails, leaving it hanging upside down, restrained.",
+              "summary": "Acts first in initiative, fails its Grease Dexterity save and tumbles prone down the stairs. Its initially successful Snare Dexterity save is rerolled with disadvantage because it is falling prone: 4 fails, so the snare hoists it upside down and restrained.",
               "evidence": [
                 {
                   "startUid": "u0656",
@@ -35,7 +35,7 @@
             {
               "actor": "Loria",
               "kind": "turn",
-              "summary": "Attacks with two short swords: 16 misses, 17 hits for 7 damage; her bird swarm adds 1 damage.",
+              "summary": "Approaches with both short swords: 16 misses and 17 hits for 7 damage. Her bird swarm deals another 1 damage.",
               "evidence": [
                 {
                   "startUid": "u0685",
@@ -46,7 +46,7 @@
             {
               "actor": "Acescale",
               "kind": "turn",
-              "summary": "Runs up and attacks twice with daggers at advantage. One attack hits (22); the corrected damage is 3 after removing the inapplicable +2. Backs away rather than safely disengaging.",
+              "summary": "Runs up and slashes twice with daggers at advantage; one attack hits on 22. Corrects damage to 3 by removing the inapplicable +2, then backs away without safely disengaging.",
               "evidence": [
                 {
                   "startUid": "u0700",
@@ -57,7 +57,7 @@
             {
               "actor": "Hobgoblin smokebinder",
               "kind": "reaction",
-              "summary": "Swings at the retreating Acescale with disadvantage from restraint; the 13 misses.",
+              "summary": "Makes an opportunity swing at the retreating Acescale with disadvantage from restraint; 13 misses.",
               "evidence": [
                 {
                   "startUid": "u0712",
@@ -68,19 +68,19 @@
             {
               "actor": "Gaudin",
               "kind": "turn",
-              "summary": "Eldritch Blast hits with advantage (18) for force damage, leaving the hobgoblin badly wounded. The DM folds cracking its head against the stairs into that damage, rather than awarding separate extra damage.",
+              "summary": "Eldritch Blast hits with advantage on 18 and deals substantial force damage, leaving the hobgoblin badly wounded. The DM includes its head cracking against the stairs in the same damage rather than granting extra damage.",
               "evidence": [
                 {
                   "startUid": "u0715",
                   "endUid": "u0723"
                 }
               ],
-              "note": "The numerical damage total is not spoken."
+              "note": "No numerical damage total is spoken."
             },
             {
               "actor": "Dilion",
               "kind": "turn",
-              "summary": "Commands Steampup to attack as a bonus action, then misses his own attack despite advantage; describes hesitating to avoid cutting the snare.",
+              "summary": "Uses his bonus action to command Steampup to attack after him, then misses his own attack despite advantage from restraint. Describes holding back to avoid cutting the snare.",
               "evidence": [
                 {
                   "startUid": "u0724",
@@ -91,7 +91,7 @@
             {
               "actor": "Steampup",
               "kind": "turn",
-              "summary": "Attacks with advantage, with the damage modifier corrected from +3 to +2. Deals 10 damage, grabs the hobgoblin by the neck, and throws it down, killing it.",
+              "summary": "Attacks with advantage. Its damage modifier is corrected from +3 to +2; 10 damage is enough to kill the hobgoblin. It grabs the neck, throws the body beside the torch, and stands over it.",
               "evidence": [
                 {
                   "startUid": "u0732",
@@ -103,7 +103,7 @@
         }
       ],
       "ending": {
-        "summary": "The smokebinder is dead; Steampup stands over it. Looting and the search for the second guard follow outside initiative.",
+        "summary": "Steampup kills the restrained smokebinder and stands over it. The next exchange begins corpse inspection and scouting for the guard above.",
         "evidence": [
           {
             "startUid": "u0738",
@@ -116,7 +116,7 @@
       "id": "c002",
       "segmentId": "s007",
       "encounter": "Second hobgoblin at the reset crypt trap",
-      "note": "The DM waives a new initiative roll, resolves the guard first, and lets the party take their turns in any order; the encounter ends in its first cycle.",
+      "note": "The DM waives a fresh initiative roll, resolves the guard first and allows the party to act in any order. This encounter ends during its first ordered cycle.",
       "rounds": [
         {
           "round": 1,
@@ -124,7 +124,7 @@
             {
               "actor": "Hobgoblin crossbow guard",
               "kind": "turn",
-              "summary": "Fails the Grease Dexterity save, falls down the stairs for 6 damage, and fails the Snare Dexterity save with disadvantage (7), becoming restrained. Shoots Gaudin with its crossbow at disadvantage (18 and 17); the hit deals 8 piercing damage and sets Gaudin on fire. The fire can be put out with an action, otherwise dealing fire damage at the end of his turn.",
+              "summary": "Fails the Grease Dexterity save, falls down the stairs for 6 damage, then fails the Snare Dexterity save with disadvantage on 7 and is hoisted restrained. Shoots Gaudin at disadvantage (18 and 17): the hit deals 8 piercing damage and ignites him. An action can extinguish the fire; otherwise fire damage occurs at the end of his turn.",
               "evidence": [
                 {
                   "startUid": "u0847",
@@ -135,31 +135,31 @@
             {
               "actor": "Attacker labelled Loria in transcript",
               "kind": "turn",
-              "summary": "Attacks the restrained guard with advantage and scores a natural 20. Critical damage is doubled and the guard is nearly dead; no numerical damage or weapon is given.",
+              "summary": "Attacks with advantage from restraint and reports a natural 20 on the second roll. The table doubles critical damage and the guard is nearly dead; no damage total or weapon is spoken.",
               "evidence": [
                 {
                   "startUid": "u0868",
                   "endUid": "u0874"
                 }
               ],
-              "note": "The following passage introduces Loria’s sword attacks separately. Retain the source label without asserting this was a third attack by Loria or silently assigning it to another PC."
+              "note": "A separate short-sword sequence is then introduced as Loria’s. The source does not settle whether the preceding speaker label is mistaken; no other PC is substituted."
             },
             {
               "actor": "Loria",
               "kind": "turn",
-              "summary": "Makes a short-sword attack with a reported 5, then rolls 17 for the second attack. The fight resolves with the guard defeated, but the damage and final blow are not explicitly narrated.",
+              "summary": "Moves in with a short sword and reports 5, then takes a second attack and reports 17. The next dialogue treats the guard as defeated, but no damage or final blow is explicitly resolved.",
               "evidence": [
                 {
                   "startUid": "u0875",
-                  "endUid": "u0888"
+                  "endUid": "u0881"
                 }
               ],
-              "note": "The value 5 is not clearly identified as an attack roll or damage. No missing result is invented."
+              "note": "The value 5 is not clearly an attack roll or damage. The second attack’s hit and damage are not explicitly stated."
             },
             {
               "actor": "Gaudin",
               "kind": "turn",
-              "summary": "Uses his action to put out the fire on himself; no continuing fire damage is reported.",
+              "summary": "Uses his action to put out his own fire; no continuing fire damage is reported.",
               "evidence": [
                 {
                   "startUid": "u0882",
@@ -171,7 +171,7 @@
         }
       ],
       "ending": {
-        "summary": "The fight ends with the second guard defeated: the party counts a second kill, the crypt is quiet, and Gaudin’s ring stops glowing. No other approaching enemy is heard.",
+        "summary": "The party counts the second guard defeated; the crypt is quiet and Gaudin’s warning ring is dark. The source does not narrate a precise killing blow.",
         "evidence": [
           {
             "startUid": "u0883",
@@ -180,5 +180,6 @@
         ]
       }
     }
-  ]
+  ],
+  "limitations": "The post-break recording gap before u1211 contains no surviving combat turns. The dated Labyrinths of the Lost - Session 2 note describes an additional ruined-library fight in that interval; its actions, actors and rounds cannot be reconstructed from this registered transcript."
 }

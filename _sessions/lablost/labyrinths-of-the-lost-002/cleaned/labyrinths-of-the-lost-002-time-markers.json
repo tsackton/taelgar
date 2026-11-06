@@ -18,19 +18,24 @@
         "startUid": "u0001",
         "endUid": "u0012"
       },
-      "reading": "The session opens around six in the evening as the sun sets in mid-October.",
+      "reading": "Opening play is at sunset, about six in the evening in mid-October.",
       "evidence": [
         {
           "startUid": "u0001",
-          "endUid": "u0012",
+          "endUid": "u0007",
           "quote": "It's about 6 o'clock. The sun is setting."
+        },
+        {
+          "startUid": "u0008",
+          "endUid": "u0012",
+          "quote": "it's like mid October"
         }
       ],
       "time": {
         "clock": "18:00",
         "partOfDay": "sunset",
-        "precision": "approximate",
-        "basis": "Opening clock and sunset; month is spoken as mid October, full civil date comes only from YAML."
+        "basis": "Spoken clock and sunset; no year or month-day number is spoken.",
+        "precision": "approximate"
       }
     },
     {
@@ -39,7 +44,7 @@
         "startUid": "u0047",
         "endUid": "u0062"
       },
-      "reading": "The party camps, sleeps, and wakes rested before dawn the following day.",
+      "reading": "The party eats, camps in its former prison, sleeps, and wakes rested before sunrise the next day.",
       "evidence": [
         {
           "startUid": "u0047",
@@ -47,7 +52,17 @@
           "quote": "So go ahead and take a long rest."
         },
         {
-          "startUid": "u0047",
+          "startUid": "u0052",
+          "endUid": "u0057",
+          "quote": "get your camp set up in the in the room that you were locked away in"
+        },
+        {
+          "startUid": "u0058",
+          "endUid": "u0060",
+          "quote": "And yeah, you you get some sleep."
+        },
+        {
+          "startUid": "u0061",
           "endUid": "u0062",
           "quote": "Get up, pre-dawn light, before the sun fully rises, rested."
         }
@@ -56,7 +71,7 @@
         "value": 8,
         "unit": "hour",
         "precision": "exact",
-        "basis": "Long-rest convention; bedtime and wake-up clocks do not independently measure eight hours"
+        "basis": "Long-rest convention; the source establishes overnight sleep, not an independently measured eight hours."
       },
       "dateBoundaries": 1,
       "completion": "completed"
@@ -67,19 +82,19 @@
         "startUid": "u0064",
         "endUid": "u0068"
       },
-      "reading": "Waking is placed at about 4 a.m., with full dawn still one and a half to two hours away.",
+      "reading": "The rested party wakes at about four in the morning; full dawn is still one and a half to two hours away.",
       "evidence": [
         {
           "startUid": "u0064",
           "endUid": "u0068",
-          "quote": "So say, it's like 4 in the morning, right?"
+          "quote": "So say, it's like 4 in the morning, right? You've got an hour and a half, 2 h before full dawn"
         }
       ],
       "time": {
         "clock": "04:00",
         "partOfDay": "pre-dawn",
-        "precision": "approximate",
-        "basis": "DM states the clock after waking."
+        "basis": "DM explicitly dates the waking scene.",
+        "precision": "approximate"
       }
     },
     {
@@ -88,19 +103,19 @@
         "startUid": "u0247",
         "endUid": "u0249"
       },
-      "reading": "A few minutes pass as the party continues and Steampup starts barking in the distance.",
+      "reading": "A few minutes after Steampup leaves east as a decoy, its barking begins while the party continues.",
       "evidence": [
         {
           "startUid": "u0247",
           "endUid": "u0249",
-          "quote": "And a few minutes later you hear barking sound begin."
+          "quote": "So it heads off as you continue on your path. And a few minutes later you hear barking sound begin."
         }
       ],
       "duration": {
         "text": "a few minutes",
         "unit": "minute",
         "precision": "vague",
-        "basis": "Narrated delay after Steampup departs"
+        "basis": "Narrated interval after departure, distinct from the proposed thirty-minute command."
       },
       "completion": "completed"
     },
@@ -110,7 +125,7 @@
         "startUid": "u0298",
         "endUid": "u0303"
       },
-      "reading": "About ten more minutes of stealthy walking cross the overgrown vineyard.",
+      "reading": "The remaining stealthy crossing of the vineyard takes about ten more minutes.",
       "evidence": [
         {
           "startUid": "u0298",
@@ -132,7 +147,7 @@
         "startUid": "u0332",
         "endUid": "u0337"
       },
-      "reading": "Cutting quietly through the hedge takes another ten minutes.",
+      "reading": "Quietly cutting and pushing a way through the hedge takes another ten minutes.",
       "evidence": [
         {
           "startUid": "u0332",
@@ -154,7 +169,7 @@
         "startUid": "u0470",
         "endUid": "u0473"
       },
-      "reading": "Clearing dirt from the chapel trapdoor takes about ten minutes before the party descends.",
+      "reading": "The party spends about ten minutes clearing the dirt over the chapel trapdoor before descending.",
       "evidence": [
         {
           "startUid": "u0470",
@@ -162,7 +177,12 @@
           "quote": "It'll take you sort of 10 min to clear off all the dirt."
         },
         {
-          "startUid": "u0490",
+          "startUid": "u0470",
+          "endUid": "u0473",
+          "quote": "As they're clearing off the dirt,"
+        },
+        {
+          "startUid": "u0491",
           "endUid": "u0493",
           "quote": "You lift off the trap door like disturbing all the dirt around it, and you can see there's stairs down into the darkness."
         }
@@ -171,7 +191,7 @@
         "value": 10,
         "unit": "minute",
         "precision": "approximate",
-        "basis": "Initial estimate followed by clearing in progress and completed descent at u0490–u0493"
+        "basis": "Stated clearing estimate is followed by clearing in progress and opening the uncovered trapdoor."
       },
       "completion": "completed"
     },
@@ -181,7 +201,7 @@
         "startUid": "u0477",
         "endUid": "u0480"
       },
-      "reading": "Dilion performs a one-minute Mending while Gaudin uses Mage Hand to obscure the trapdoor.",
+      "reading": "Dilion performs the one-minute Mending on Steampup during Gaudin’s Mage Hand cover-up.",
       "evidence": [
         {
           "startUid": "u0477",
@@ -192,6 +212,11 @@
           "startUid": "u0498",
           "endUid": "u0499",
           "quote": "You can do mending while he's doing the Mage Hand."
+        },
+        {
+          "startUid": "u0500",
+          "endUid": "u0505",
+          "quote": "7? Okay."
         }
       ],
       "actors": [
@@ -202,7 +227,7 @@
         "value": 1,
         "unit": "minute",
         "precision": "exact",
-        "basis": "Stated casting time, subsequently performed while Mage Hand is used"
+        "basis": "Stated casting duration, followed by authorization to perform it concurrently and a healing result."
       },
       "completion": "completed"
     },
@@ -212,7 +237,7 @@
         "startUid": "u0633",
         "endUid": "u0641"
       },
-      "reading": "The party waits through a minute of silence before the pursuer opens the trapdoor.",
+      "reading": "The waiting party hears a minute of silence after the hobgoblin calls to its companion, before the trapdoor opens.",
       "evidence": [
         {
           "startUid": "u0633",
@@ -234,13 +259,16 @@
         "startUid": "u0979",
         "endUid": "u0982"
       },
-      "reading": "Loria’s swarm spends a minute disguising the closed trapdoor before the party departs.",
+      "reading": "Loria’s swarm spends a minute spreading dirt and weeds over the crypt entrance before departure.",
       "evidence": [
         {
           "startUid": "u0979",
           "endUid": "u0982",
-          "quote": "of the minute with this whole swarm"
+          "quote": "By the end—it looks—of them, of the minute with this whole swarm"
         }
+      ],
+      "actors": [
+        "Loria"
       ],
       "duration": {
         "value": 1,
@@ -248,10 +276,7 @@
         "precision": "exact",
         "basis": "Narrated elapsed time"
       },
-      "completion": "completed",
-      "actors": [
-        "Loria"
-      ]
+      "completion": "completed"
     },
     {
       "id": "t11",
@@ -259,21 +284,26 @@
         "startUid": "u1204",
         "endUid": "u1208"
       },
-      "reading": "The party agrees to a short rest in the archive; the recording skips the resumption and does not establish its completion.",
+      "reading": "The party accepts a short rest in the hidden archive before opening the bookcase exit; completion is absent from the recording.",
       "evidence": [
         {
           "startUid": "u1204",
           "endUid": "u1208",
           "quote": "Hey? Let's do a short rest."
+        },
+        {
+          "startUid": "u1211",
+          "endUid": "u1211",
+          "quote": "I forgot to resume the recording."
         }
       ],
       "completion": "begun",
-      "note": "A completed short rest would conventionally take one hour; the ten-minute break is real-world table time, not an in-world duration."
+      "note": "No elapsed hour is credited: the surviving text ends at acceptance and resumes after omitted play. The ten-minute break is explicitly real-world table time."
     }
   ],
   "yamlCheck": {
     "status": "compatible",
-    "dateAnchor": "Mid October is spoken; October 17–18 and year 1748 are YAML-only. Sunset and the following 4 a.m. are independently narrated.",
+    "dateAnchor": "Mid-October, opening sunset, and the next roughly 4 a.m. are spoken. Year 1748 and October 17–18 come only from YAML.",
     "expectedDateBoundaries": 1,
     "supportedDateBoundaries": null,
     "evidence": [
@@ -282,7 +312,7 @@
       "t03",
       "t11"
     ],
-    "explanation": "One overnight is explicitly played, consistent with the YAML span. Missing play after the archive rest leaves subsequent elapsed time and the exact closing clock unverified; no date contradiction is established."
+    "explanation": "The played overnight establishes one boundary and fits the recorded dates. The archive-break recording gap prevents verifying the complete closing span or rest completion; YAML end is not used to fill it."
   },
-  "limitations": "At u1211 the DM reports failing to resume the recording. The short-rest completion and timing of the omitted archive-exit/scouting sequence are unavailable."
+  "limitations": "The recording omission acknowledged at u1211 removes the archive rest’s conclusion and subsequent exit/scouting interval; their elapsed time is unavailable."
 }
