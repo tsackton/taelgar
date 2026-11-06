@@ -1,0 +1,1114 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-054",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-session.yaml",
+    "sessionYamlSha256": "442e1100b1d30a5e8ea3589be5f8fa508daa2cb55dc520f4348f33e47931aa30",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-transcript.md",
+    "transcriptSha256": "77f63dca9e296271c4861b6add479b294796500f7cdf9958f040ba1e802a885f",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-segments.json",
+      "sha256": "61abd2697b51e4f5579f0f26cf6981e381e1806a738344ccce24c8e895ed949f",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s004",
+      "encounter": "Harpoon shadow in the first ruin",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Iascaire",
+              "kind": "turn",
+              "summary": "Summons a fiery koi beside the shadow. It fails the DC 17 Dexterity save and takes 7 fire damage.",
+              "evidence": [
+                {
+                  "startUid": "u0470",
+                  "endUid": "u0485"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Charges and strikes twice with his sword, adding radiant energy. The first hit is called as 9 damage; 21 damage is then announced with ambiguous total wording.",
+              "evidence": [
+                {
+                  "startUid": "u0486",
+                  "endUid": "u0500"
+                }
+              ],
+              "note": "The speech does not settle whether 21 is the second hit or the combined total; no reconstructed total is imposed."
+            },
+            {
+              "actor": "Harpoon shadow",
+              "kind": "turn",
+              "summary": "Calls for Wisdom saves from Delwath and the wildfire spirit, without spoken outcomes for those initial saves. Its harpoon hits Delwath with 25 for 23 piercing, reels him in, and triggers another Wisdom save followed by 8 psychic damage.",
+              "evidence": [
+                {
+                  "startUid": "u0501",
+                  "endUid": "u0526"
+                }
+              ]
+            },
+            {
+              "actor": "Aristaea",
+              "kind": "turn",
+              "summary": "Returns from her battle vision, steps into reach and attacks twice with the pike. Both miss; the first attack is 13. No smite is spent.",
+              "evidence": [
+                {
+                  "startUid": "u0527",
+                  "endUid": "u0542"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Iascaire",
+              "kind": "turn",
+              "summary": "Produce Flame, enhanced by an extra d8, deals 15 fire damage and kills the shadow; a healing flame remains over it. The resulting flame later heals Delwath for 16, with a memory of a cursed warrior passing into the afterlife.",
+              "evidence": [
+                {
+                  "startUid": "u0550",
+                  "endUid": "u0566"
+                },
+                {
+                  "startUid": "u0568",
+                  "endUid": "u0588"
+                },
+                {
+                  "startUid": "u0605",
+                  "endUid": "u0606"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The shadow is destroyed and a healing flame remains over the body.",
+        "evidence": [
+          {
+            "startUid": "u0560",
+            "endUid": "u0566"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s006",
+      "encounter": "Two harpoon shadows in the collapsed building",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Aristaea",
+              "kind": "turn",
+              "summary": "Withdraws Moonbeam to maintain Protection from Good and Evil on Delwath; the spell slot is returned. Moves up and lands two pike hits, with attack results 21 and 16. The proposed Branding Smite/extra smite is withdrawn.",
+              "evidence": [
+                {
+                  "startUid": "u0915",
+                  "endUid": "u0999"
+                }
+              ],
+              "note": "Pike damage totals are not spoken."
+            },
+            {
+              "actor": "Iascaire",
+              "kind": "turn",
+              "summary": "Moves forward, fails the Wisdom save and is incapacitated by a vision until his next turn. The vision shows the godcaller and wizard dying and two hawk-like spirits vanishing as the armband falls on the western side of the building; Iascaire cannot act.",
+              "evidence": [
+                {
+                  "startUid": "u1001",
+                  "endUid": "u1018"
+                }
+              ]
+            },
+            {
+              "actor": "Wildfire spirit",
+              "kind": "turn",
+              "summary": "Dodges while Iascaire is incapacitated.",
+              "evidence": [
+                {
+                  "startUid": "u1019",
+                  "endUid": "u1019"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves around the back. The Wisdom-save requirement is withdrawn because of Protection from Good and Evil. Attacks with Narëngril for 30 total, killing one shadow and releasing spirits.",
+              "evidence": [
+                {
+                  "startUid": "u1021",
+                  "endUid": "u1033"
+                }
+              ]
+            },
+            {
+              "actor": "One-armed harpoon shadow",
+              "kind": "turn",
+              "summary": "Attacks incapacitated Iascaire with advantage, hitting for 26 piercing and dragging him into the paladin aura. Iascaire succeeds on the Wisdom save with 30 but still takes 8 psychic damage and is grappled.",
+              "evidence": [
+                {
+                  "startUid": "u1034",
+                  "endUid": "u1044"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Aristaea",
+              "kind": "turn",
+              "summary": "Moves past the fallen shadow and Iascaire and hits the surviving shadow with her pike. Cutting its arm is discussed but not attempted.",
+              "evidence": [
+                {
+                  "startUid": "u1045",
+                  "endUid": "u1064"
+                }
+              ],
+              "note": "The spoken record gives one hit without a damage number."
+            },
+            {
+              "actor": "Iascaire",
+              "kind": "turn",
+              "summary": "After returning from the vision, attacks at disadvantage and deals 15 fire damage to the shadow.",
+              "evidence": [
+                {
+                  "startUid": "u1054",
+                  "endUid": "u1056"
+                },
+                {
+                  "startUid": "u1065",
+                  "endUid": "u1077"
+                }
+              ]
+            },
+            {
+              "actor": "Wildfire spirit",
+              "kind": "turn",
+              "summary": "Flies in, then teleports itself and Iascaire away, ending his grapple. The shadow succeeds on its Dexterity save with 21 and takes no additional damage.",
+              "evidence": [
+                {
+                  "startUid": "u1079",
+                  "endUid": "u1088"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves into attack range, misses once and hits once for 15 total damage including radiant damage.",
+              "evidence": [
+                {
+                  "startUid": "u1091",
+                  "endUid": "u1101"
+                }
+              ]
+            },
+            {
+              "actor": "One-armed harpoon shadow",
+              "kind": "turn",
+              "summary": "Its sorrow effect prompts a Wisdom save from Delwath, who succeeds with the aura bonus and suffers no effect. The harpoon then hits Iascaire with 26 for 20 piercing, grapples and drags him back, and deals another 8 psychic after a DC 15 Wisdom save is requested outside the aura.",
+              "evidence": [
+                {
+                  "startUid": "u1102",
+                  "endUid": "u1127"
+                }
+              ],
+              "note": "Iascaire’s second Wisdom-save total and outcome are not explicitly spoken; the 8 psychic result is explicit."
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Aristaea",
+              "kind": "turn",
+              "summary": "Stabs the remaining shadow with the pike, killing it with only two hit points left and releasing the trapped souls.",
+              "evidence": [
+                {
+                  "startUid": "u1128",
+                  "endUid": "u1136"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Both shadows are destroyed and the party turns to searching for the wizard’s armband.",
+        "evidence": [
+          {
+            "startUid": "u1132",
+            "endUid": "u1136"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c003",
+      "segmentId": "s010",
+      "encounter": "Demon corpse and animated forest at Dark Fire",
+      "openingActions": [
+        {
+          "actor": "Iascaire",
+          "kind": "turn",
+          "summary": "Casts Heat Metal through the wildfire spirit at the wrist circlet. The circlet initially shows no damage, but the entwining black growth smokes.",
+          "evidence": [
+            {
+              "startUid": "u1768",
+              "endUid": "u1775"
+            },
+            {
+              "startUid": "u1814",
+              "endUid": "u1835"
+            }
+          ]
+        },
+        {
+          "actor": "Demon corpse",
+          "kind": "event",
+          "summary": "Two fiendish, red-eyed wasp swarms emerge from its body.",
+          "evidence": [
+            {
+              "startUid": "u1830",
+              "endUid": "u1835"
+            }
+          ]
+        },
+        {
+          "actor": "Large animated tree",
+          "kind": "event",
+          "summary": "Immediately steps forward and hits the wildfire spirit with two roots for 8 and 11 bludgeoning damage, grappling it. Iascaire retains concentration; the spirit’s damage does not force his concentration save.",
+          "evidence": [
+            {
+              "startUid": "u1830",
+              "endUid": "u1860"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Aristaea",
+              "kind": "turn",
+              "summary": "Withdraws Moonbeam to retain Protection from Good and Evil on Iascaire. Moves toward the tree and readies one weapon attack for its approach.",
+              "evidence": [
+                {
+                  "startUid": "u1939",
+                  "endUid": "u1962"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves up, plants Narëngril and spends its one charge on a non-concentration, 15-foot-radius magic circle, leaving himself without his sword. Curses the large tree as a bonus action. The circle is confirmed to last four hours while the sword remains planted.",
+              "evidence": [
+                {
+                  "startUid": "u1963",
+                  "endUid": "u2010"
+                },
+                {
+                  "startUid": "u2142",
+                  "endUid": "u2145"
+                }
+              ]
+            },
+            {
+              "actor": "Demonic wolf and wasp swarms",
+              "kind": "turn",
+              "summary": "A wolf detaches from the corpse and advances; both swarms move and dash toward the party.",
+              "evidence": [
+                {
+                  "startUid": "u2011",
+                  "endUid": "u2021"
+                }
+              ]
+            },
+            {
+              "actor": "Large animated tree",
+              "kind": "turn",
+              "summary": "Moves into reach, triggering Aristaea’s readied strike. Then lands two root attacks on the wildfire spirit for 21 total bludgeoning damage, keeping it grappled, and calls for a Dexterity save against a blast that deals 13 necrotic damage.",
+              "evidence": [
+                {
+                  "startUid": "u2019",
+                  "endUid": "u2056"
+                }
+              ],
+              "note": "The Dexterity-save outcome is not spoken."
+            },
+            {
+              "actor": "Aristaea",
+              "kind": "reaction",
+              "summary": "Uses her readied reaction to stab the approaching large tree once; its bark resists the piercing damage.",
+              "evidence": [
+                {
+                  "startUid": "u2022",
+                  "endUid": "u2038"
+                },
+                {
+                  "startUid": "u2314",
+                  "endUid": "u2318"
+                }
+              ]
+            },
+            {
+              "actor": "Iascaire",
+              "kind": "turn",
+              "summary": "Double-moves into the circle and within the required 60-foot spell range. Repeats Heat Metal as a bonus action with an extra d8 allowed by the DM; more tendrils burn away while the circlet remains unharmed.",
+              "evidence": [
+                {
+                  "startUid": "u2065",
+                  "endUid": "u2108"
+                }
+              ]
+            },
+            {
+              "actor": "Wildfire spirit",
+              "kind": "turn",
+              "summary": "Dodges; Iascaire has already used the bonus action needed to command it.",
+              "evidence": [
+                {
+                  "startUid": "u2109",
+                  "endUid": "u2114"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Demon-corrupted battlefield",
+              "kind": "lair_action",
+              "summary": "On initiative count 20, animates numerous smaller trees; the announced two is revised upward.",
+              "evidence": [
+                {
+                  "startUid": "u2115",
+                  "endUid": "u2123"
+                }
+              ]
+            },
+            {
+              "actor": "Aristaea",
+              "kind": "turn",
+              "summary": "Casts Moonbeam over the large tree and one wasp swarm, ending Protection from Good and Evil on Iascaire.",
+              "evidence": [
+                {
+                  "startUid": "u2163",
+                  "endUid": "u2180"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Sickening Radiance over the enemies and activates his ring as a bonus action.",
+              "evidence": [
+                {
+                  "startUid": "u2181",
+                  "endUid": "u2191"
+                }
+              ]
+            },
+            {
+              "actor": "Demonic wolf, large tree and creatures in the radiance",
+              "kind": "turn",
+              "summary": "The wolf and large tree succeed on their Constitution saves, taking no Sickening Radiance damage. The other resolved saves fail; a swarm caught in both spells dies, and little trees in the radiance die. Failed Sickening Radiance saves also confer exhaustion.",
+              "evidence": [
+                {
+                  "startUid": "u2192",
+                  "endUid": "u2215"
+                }
+              ]
+            },
+            {
+              "actor": "Surviving wasp swarm and demonic wolf",
+              "kind": "turn",
+              "summary": "The surviving swarm dashes closer and the wolf advances.",
+              "evidence": [
+                {
+                  "startUid": "u2217",
+                  "endUid": "u2226"
+                }
+              ]
+            },
+            {
+              "actor": "Large animated tree",
+              "kind": "turn",
+              "summary": "Kills the first wildfire spirit with an 11-damage root hit, then hits Delwath with 21 after disadvantage is called for, dealing 12 bludgeoning and grappling him. Iascaire’s Heat Metal persists. At the end of the turn the tree steps away from the spell area, as later corrected in the narration.",
+              "evidence": [
+                {
+                  "startUid": "u2217",
+                  "endUid": "u2235"
+                },
+                {
+                  "startUid": "u2329",
+                  "endUid": "u2344"
+                }
+              ]
+            },
+            {
+              "actor": "Aristaea",
+              "kind": "reaction",
+              "summary": "Makes the opportunity attack caused by that corrected movement and misses. Delwath has no weapon and makes no opportunity attack.",
+              "evidence": [
+                {
+                  "startUid": "u2331",
+                  "endUid": "u2356"
+                }
+              ]
+            },
+            {
+              "actor": "Two smaller trees",
+              "kind": "turn",
+              "summary": "Rush Aristaea and both miss their claw attacks.",
+              "evidence": [
+                {
+                  "startUid": "u2236",
+                  "endUid": "u2244"
+                }
+              ]
+            },
+            {
+              "actor": "Iascaire",
+              "kind": "turn",
+              "summary": "Summons his second wildfire spirit outside Sickening Radiance. The large tree fails its DC 18 Dexterity save and takes 3 fire damage doubled to 6. Repeats Heat Metal: the tendrils burn clear, but the fire-immune demon’s body protects the circlet while it touches the wrist.",
+              "evidence": [
+                {
+                  "startUid": "u2247",
+                  "endUid": "u2288"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Demon-corrupted battlefield",
+              "kind": "lair_action",
+              "summary": "More little trees animate at count 20 and immediately die in the radiance; two medium trees appear outside that lethal placement and are assigned the wasps’ turn.",
+              "evidence": [
+                {
+                  "startUid": "u2284",
+                  "endUid": "u2306"
+                }
+              ]
+            },
+            {
+              "actor": "Aristaea",
+              "kind": "turn",
+              "summary": "Uses her action to move Moonbeam back onto the large tree, rather than making the contemplated regular smite attack. Steps away from a smaller tree.",
+              "evidence": [
+                {
+                  "startUid": "u2345",
+                  "endUid": "u2380"
+                }
+              ]
+            },
+            {
+              "actor": "Smaller tree",
+              "kind": "reaction",
+              "summary": "Its opportunity attack hits the withdrawing Aristaea for 4 piercing damage.",
+              "evidence": [
+                {
+                  "startUid": "u2381",
+                  "endUid": "u2382"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Fires two Eldritch Blasts at the cursed large tree; both are resolved as hits, with +4 Hexblade’s Curse damage on each. Sanctuary is discussed but not cast.",
+              "evidence": [
+                {
+                  "startUid": "u2384",
+                  "endUid": "u2403"
+                }
+              ],
+              "note": "Neither final blast damage total is spoken."
+            },
+            {
+              "actor": "Surviving wasp swarm",
+              "kind": "turn",
+              "summary": "Attacks the wildfire spirit, rolls a natural 1 and misses.",
+              "evidence": [
+                {
+                  "startUid": "u2404",
+                  "endUid": "u2408"
+                }
+              ]
+            },
+            {
+              "actor": "Demonic wolf",
+              "kind": "turn",
+              "summary": "Moves and dashes toward the wasp’s position.",
+              "evidence": [
+                {
+                  "startUid": "u2410",
+                  "endUid": "u2413"
+                }
+              ],
+              "note": "The DM points to “this thing”; the wolf is inferred from the continuing animal turn order."
+            },
+            {
+              "actor": "Large animated tree",
+              "kind": "turn",
+              "summary": "Fails its Constitution save against Moonbeam and takes 11 radiant. Hits the second wildfire spirit twice for 20 total bludgeoning, then calls for a Dexterity save against a further 16 necrotic blast. Steps away, provoking Iascaire.",
+              "evidence": [
+                {
+                  "startUid": "u2414",
+                  "endUid": "u2431"
+                }
+              ],
+              "note": "The Dexterity-save result is not spoken; the resolved total is 36 damage."
+            },
+            {
+              "actor": "Iascaire",
+              "kind": "reaction",
+              "summary": "Misses the opportunity attack with his filleting knife as the large tree withdraws.",
+              "evidence": [
+                {
+                  "startUid": "u2432",
+                  "endUid": "u2439"
+                }
+              ]
+            },
+            {
+              "actor": "Medium trees",
+              "kind": "turn",
+              "summary": "One fails a Constitution save with 15 and takes 33 Sickening Radiance damage. The medium trees move and dash, with one unable to clear the radiance.",
+              "evidence": [
+                {
+                  "startUid": "u2436",
+                  "endUid": "u2446"
+                },
+                {
+                  "startUid": "u2447",
+                  "endUid": "u2455"
+                }
+              ]
+            },
+            {
+              "actor": "Two smaller trees",
+              "kind": "turn",
+              "summary": "Continue attacking Aristaea and both miss.",
+              "evidence": [
+                {
+                  "startUid": "u2447",
+                  "endUid": "u2455"
+                }
+              ]
+            },
+            {
+              "actor": "Demon corpse",
+              "kind": "event",
+              "summary": "A demonic boar emerges from the body.",
+              "evidence": [
+                {
+                  "startUid": "u2460",
+                  "endUid": "u2462"
+                }
+              ]
+            },
+            {
+              "actor": "Iascaire",
+              "kind": "turn",
+              "summary": "Drops Heat Metal concentration and casts a 60-foot Wall of Fire for 31 fire damage, DC 18 Dexterity. The large tree fails and is badly burned, with fire vulnerability established; a smaller tree and the nearly dead wasp swarm are destroyed. The wolf saves with 18 and, after correction, takes no damage rather than half.",
+              "evidence": [
+                {
+                  "startUid": "u2458",
+                  "endUid": "u2509"
+                }
+              ]
+            },
+            {
+              "actor": "Wildfire spirit",
+              "kind": "turn",
+              "summary": "Teleports 15 feet. Both the large tree and wolf fail DC 18 Dexterity saves; the tree is left burning and near death, while the wolf is not much harmed by the fire.",
+              "evidence": [
+                {
+                  "startUid": "u2510",
+                  "endUid": "u2517"
+                }
+              ],
+              "note": "No damage quantity for this teleport is spoken."
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Demon-corrupted battlefield",
+              "kind": "lair_action",
+              "summary": "Another swarm of little trees animates on count 20; formation does not consume their separate normal turn.",
+              "evidence": [
+                {
+                  "startUid": "u2519",
+                  "endUid": "u2523"
+                },
+                {
+                  "startUid": "u2533",
+                  "endUid": "u2539"
+                }
+              ]
+            },
+            {
+              "actor": "Aristaea",
+              "kind": "turn",
+              "summary": "Moves Moonbeam onto the large tree and demonic wolf.",
+              "evidence": [
+                {
+                  "startUid": "u2524",
+                  "endUid": "u2532"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Mind Sliver, DC 17 Intelligence, on the large tree. It fails but is immune to psychic damage; the minus d4 still applies to its next save, correcting the initial reference to an attack penalty.",
+              "evidence": [
+                {
+                  "startUid": "u2554",
+                  "endUid": "u2571"
+                }
+              ]
+            },
+            {
+              "actor": "Large animated tree",
+              "kind": "turn",
+              "summary": "Meets the Moonbeam Constitution DC of 15 after a one-point Mind Sliver penalty, but half damage still kills its six remaining hit points. Its smoldering fallen trunk becomes difficult terrain.",
+              "evidence": [
+                {
+                  "startUid": "u2572",
+                  "endUid": "u2584"
+                }
+              ]
+            },
+            {
+              "actor": "Demonic wolf",
+              "kind": "turn",
+              "summary": "Fails its Moonbeam save and dies.",
+              "evidence": [
+                {
+                  "startUid": "u2585",
+                  "endUid": "u2591"
+                }
+              ]
+            },
+            {
+              "actor": "Demon corpse",
+              "kind": "event",
+              "summary": "Another demonic boar is added at initiative count 4.",
+              "evidence": [
+                {
+                  "startUid": "u2594",
+                  "endUid": "u2594"
+                }
+              ]
+            },
+            {
+              "actor": "Iascaire",
+              "kind": "turn",
+              "summary": "Chooses Produce Flame over a risky Burning Hands position, attacks at disadvantage and kills a little tree south of him.",
+              "evidence": [
+                {
+                  "startUid": "u2601",
+                  "endUid": "u2630"
+                }
+              ]
+            },
+            {
+              "actor": "Wildfire spirit",
+              "kind": "turn",
+              "summary": "Moves and teleports beside two trees; both fail Dexterity saves. A little tree dies and the larger survivor takes 10 fire damage.",
+              "evidence": [
+                {
+                  "startUid": "u2631",
+                  "endUid": "u2648"
+                }
+              ]
+            },
+            {
+              "actor": "Demonic boars",
+              "kind": "turn",
+              "summary": "Rush up to the Wall of Fire and wait rather than crossing it.",
+              "evidence": [
+                {
+                  "startUid": "u2650",
+                  "endUid": "u2652"
+                }
+              ]
+            },
+            {
+              "actor": "Other animated trees",
+              "kind": "turn",
+              "summary": "Maneuver around the fire. A badly hurt blighted tree succeeds on its Constitution save against Sickening Radiance, takes no damage and swings at Delwath with 19, missing AC 20.",
+              "evidence": [
+                {
+                  "startUid": "u2658",
+                  "endUid": "u2672"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Demon-corrupted battlefield",
+              "kind": "lair_action",
+              "summary": "Three more trees animate; the DM confirms the persistent spawning is tied to the demon’s tendrils rather than the now-dead large tree.",
+              "evidence": [
+                {
+                  "startUid": "u2678",
+                  "endUid": "u2686"
+                }
+              ]
+            },
+            {
+              "actor": "Aristaea",
+              "kind": "turn",
+              "summary": "Moves Moonbeam onto two nearby trees.",
+              "evidence": [
+                {
+                  "startUid": "u2676",
+                  "endUid": "u2677"
+                },
+                {
+                  "startUid": "u2690",
+                  "endUid": "u2696"
+                }
+              ]
+            },
+            {
+              "actor": "Newly animated trees",
+              "kind": "turn",
+              "summary": "Receive initiative 14, after Aristaea and before Delwath. One fails a Constitution save and takes 14 radiant from Sickening Radiance plus exhaustion. One attacks the wildfire spirit twice, missing with 8 and 9; the others dash or retreat from the fire.",
+              "evidence": [
+                {
+                  "startUid": "u2696",
+                  "endUid": "u2716"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Summons a winged shadow beast near the corpse, ending Sickening Radiance concentration, and orders it to free the circlet from the demon’s arm.",
+              "evidence": [
+                {
+                  "startUid": "u2718",
+                  "endUid": "u2739"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow beast",
+              "kind": "turn",
+              "summary": "Takes 6 necrotic damage on a Constitution save of 17 while working on the wrist. Its Strength check makes progress, but another turn will be required.",
+              "evidence": [
+                {
+                  "startUid": "u2723",
+                  "endUid": "u2735"
+                },
+                {
+                  "startUid": "u2756",
+                  "endUid": "u2762"
+                }
+              ]
+            },
+            {
+              "actor": "Iascaire",
+              "kind": "turn",
+              "summary": "Begins moving away from a tree to position Burning Hands, provoking its opportunity attack.",
+              "evidence": [
+                {
+                  "startUid": "u2819",
+                  "endUid": "u2825"
+                }
+              ]
+            },
+            {
+              "actor": "Adjacent animated tree",
+              "kind": "reaction",
+              "summary": "Rolls a natural 20 on the opportunity attack against Iascaire. Aristaea’s blessing reduces it to a normal hit: 9 slashing instead of 16. Iascaire succeeds on the Constitution save with the aura available and keeps Wall of Fire concentration.",
+              "evidence": [
+                {
+                  "startUid": "u2824",
+                  "endUid": "u2846"
+                }
+              ]
+            },
+            {
+              "actor": "Aristaea",
+              "kind": "reaction",
+              "summary": "Uses her reaction and one of the freed tanshi’s blessings to turn that critical hit against Iascaire into a normal hit.",
+              "evidence": [
+                {
+                  "startUid": "u2826",
+                  "endUid": "u2847"
+                }
+              ]
+            },
+            {
+              "actor": "Iascaire",
+              "kind": "turn",
+              "summary": "Resumes movement after the interrupted step, stays in reach to avoid a second opportunity attack, and casts first-level Burning Hands over three trees, DC 18 Dexterity. The middle tree succeeds with natural 20 adjusted to 19; the others fail, and all three die, including the successful saver taking 13 after the fire interaction.",
+              "evidence": [
+                {
+                  "startUid": "u2848",
+                  "endUid": "u2890"
+                }
+              ]
+            },
+            {
+              "actor": "Wildfire spirit",
+              "kind": "turn",
+              "summary": "Teleports beside two stronger trees and Aristaea. One tree saves, the other fails and takes 20 fire damage, killing it. Aristaea succeeds and takes no damage.",
+              "evidence": [
+                {
+                  "startUid": "u2891",
+                  "endUid": "u2906"
+                }
+              ]
+            },
+            {
+              "actor": "Demonic boars",
+              "kind": "turn",
+              "summary": "One charges through Wall of Fire and takes half the announced 31 because it resists fire; the other continues around the barrier. Other surviving trees flee the fire.",
+              "evidence": [
+                {
+                  "startUid": "u2907",
+                  "endUid": "u2913"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "entries": [
+            {
+              "actor": "Demon-corrupted battlefield",
+              "kind": "lair_action",
+              "summary": "Animates one more smallish tree; an accidental three-token placement is corrected to one.",
+              "evidence": [
+                {
+                  "startUid": "u2914",
+                  "endUid": "u2922"
+                }
+              ]
+            },
+            {
+              "actor": "Aristaea",
+              "kind": "turn",
+              "summary": "Makes two pike attacks on the adjacent smaller tree, whose bark does not resist piercing like the large tree’s. Adds a first-level Divine Smite for 12 radiant, killing it.",
+              "evidence": [
+                {
+                  "startUid": "u2923",
+                  "endUid": "u2950"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow beast",
+              "kind": "turn",
+              "summary": "Makes the Constitution save and Strength check, taking another 2 necrotic damage. Frees the bracelet as far as the demon’s fingers/palm but has not yet lifted and carried it away.",
+              "evidence": [
+                {
+                  "startUid": "u2954",
+                  "endUid": "u2963"
+                }
+              ]
+            },
+            {
+              "actor": "Demon corpse",
+              "kind": "event",
+              "summary": "A swarm of demonic birds bursts from its chest.",
+              "evidence": [
+                {
+                  "startUid": "u2970",
+                  "endUid": "u2971"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Eldritch Blasts an unwounded, pointed-at opponent: 16 hits for 8 damage; the second blast misses.",
+              "evidence": [
+                {
+                  "startUid": "u2964",
+                  "endUid": "u2984"
+                }
+              ],
+              "note": "The pointed-at target cannot be distinguished from the spoken text alone."
+            },
+            {
+              "actor": "Iascaire",
+              "kind": "turn",
+              "summary": "Produces Flame at disadvantage against a little stick creature outside the group; 16 hits and kills it.",
+              "evidence": [
+                {
+                  "startUid": "u2989",
+                  "endUid": "u2999"
+                }
+              ]
+            },
+            {
+              "actor": "Wildfire spirit",
+              "kind": "turn",
+              "summary": "Teleports; the adjacent opponent saves with 19 and takes no damage.",
+              "evidence": [
+                {
+                  "startUid": "u3000",
+                  "endUid": "u3006"
+                }
+              ],
+              "note": "The target is indicated on the map without an unambiguous spoken label."
+            },
+            {
+              "actor": "Demonic boar",
+              "kind": "turn",
+              "summary": "Reaches the magic-circle boundary. It can attack across the boundary at disadvantage despite being unable to enter; its gore attack of 13 misses. Twig blights are running away.",
+              "evidence": [
+                {
+                  "startUid": "u3007",
+                  "endUid": "u3023"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "entries": [
+            {
+              "actor": "Aristaea",
+              "kind": "turn",
+              "summary": "Moves Moonbeam onto the boar.",
+              "evidence": [
+                {
+                  "startUid": "u3024",
+                  "endUid": "u3028"
+                }
+              ]
+            },
+            {
+              "actor": "Shadow beast",
+              "kind": "turn",
+              "summary": "Takes another 2 damage on the Constitution save at the corpse. With double-digit health still protecting it from the armband’s capture threshold, it lifts the circlet, flies/dashes back and drops it near the party.",
+              "evidence": [
+                {
+                  "startUid": "u3026",
+                  "endUid": "u3045"
+                }
+              ],
+              "note": "The spoken health arithmetic is inconsistent; the accepted ruling is that it still has double-digit hit points and can escape."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Abandons Banishment because the intended opponent is hidden behind Wall of Fire. Uses Eldritch Blast instead: 11 misses, followed by a hit for 5 damage.",
+              "evidence": [
+                {
+                  "startUid": "u3046",
+                  "endUid": "u3073"
+                }
+              ],
+              "note": "The visible replacement target is not identified in speech."
+            },
+            {
+              "actor": "Iascaire",
+              "kind": "turn",
+              "summary": "Casts third-level Burning Hands on the circlet and adjacent small creature, melting the armband and burning the creature to a crisp. Delwath agrees to dismiss the expendable shadow beast.",
+              "evidence": [
+                {
+                  "startUid": "u3075",
+                  "endUid": "u3089"
+                }
+              ]
+            },
+            {
+              "actor": "Wildfire spirit",
+              "kind": "turn",
+              "summary": "Teleports Iascaire instead of letting him provoke another opportunity attack. A demon fails its Dexterity save with 13; 8 fire damage is reduced to 4 by fire resistance.",
+              "evidence": [
+                {
+                  "startUid": "u3090",
+                  "endUid": "u3102"
+                }
+              ]
+            },
+            {
+              "actor": "Yezali",
+              "kind": "event",
+              "summary": "Rushes from the melting bracelet as a bobcat. Each PC receives one d20 reroll usable only while still in the Forest of Nightmares, lost upon leaving, and a Yezali blessing represented as a magic item. Pounces on and destroys one opponent, spirals into Delwath’s shield, and howls through its lynx face, blasting another opponent back about 20 feet. The monsters remain near the demon rather than disappearing.",
+              "evidence": [
+                {
+                  "startUid": "u3103",
+                  "endUid": "u3127"
+                }
+              ],
+              "note": "The two affected enemy tokens are not identified in speech."
+            },
+            {
+              "actor": "Party and hunting-cat spirits",
+              "kind": "event",
+              "summary": "Dash about a mile east out of the clearing. Two to four hunting-cat forms distract pursuit; the party stops safely after nothing has followed for the last two or three minutes, correcting the initial ten-minute wording.",
+              "evidence": [
+                {
+                  "startUid": "u3128",
+                  "endUid": "u3133"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The wrist circlet is destroyed and Yezali is freed. The party escapes about a mile east with hunting-cat spirits covering the retreat; surviving monsters remain tied to the demon’s vicinity. No long rest or departure from the forest is established.",
+        "evidence": [
+          {
+            "startUid": "u3088",
+            "endUid": "u3089"
+          },
+          {
+            "startUid": "u3103",
+            "endUid": "u3133"
+          }
+        ]
+      },
+      "note": "The opening Heat Metal and immediate tree response precede the first announced regular PC turn. Regular cycles follow the repeating Aristaea → Delwath → enemies → Iascaire sequence, retaining separate summon turns, count-20 animation and later initiative-14 arrivals."
+    }
+  ]
+}

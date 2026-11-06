@@ -1,0 +1,866 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "f9b4a17af6acb95cd4910b17916e1dad6d8b15139a85e2be8b7c51672c8609ed",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "77f63dca9e296271c4861b6add479b294796500f7cdf9958f040ba1e802a885f",
+        "transcriptProcessing.artifacts.cleaned": "4027acac4cca82f361675a5e51849139aa16673b33d8a7f3f6dbc38ca177f2a2"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "divine",
+      "label": "Six silent ones",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0015",
+            "endUid": "u0026"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0233",
+            "endUid": "u0244"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Tanshi/Meswati/Meswati.md",
+      "names": [
+        "Lost Ones"
+      ]
+    },
+    {
+      "id": "e002",
+      "kind": "npc",
+      "label": "Cha'mutte",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0015",
+            "endUid": "u0026"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0147",
+            "endUid": "u0154"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Cha'mutte.md"
+    },
+    {
+      "id": "e003",
+      "kind": "divine",
+      "label": "Yezali",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0149",
+            "endUid": "u0160"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1687",
+            "endUid": "u1703"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3103",
+            "endUid": "u3133"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Tanshi/Meswati/Yezali.md"
+    },
+    {
+      "id": "e004",
+      "kind": "npc",
+      "label": "Warrior who vanished on touching an armband",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0112",
+            "endUid": "u0140"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0164",
+            "endUid": "u0173"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Deno'qai/Jotha.md",
+      "confidenceExplanation": "Session 53 names this warrior Jotha; her vault biography disputes the disappearance year, without creating a competing identity.",
+      "identifiedLater": true
+    },
+    {
+      "id": "e005",
+      "kind": "npc",
+      "label": "Village godcaller and sorrowful ghost",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0445",
+            "endUid": "u0463"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0727",
+            "endUid": "u0753"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0829",
+            "endUid": "u0854"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1007",
+            "endUid": "u1018"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1391",
+            "endUid": "u1397"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1465",
+            "endUid": "u1471"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e006",
+      "kind": "npc",
+      "label": "Hobgoblin wizard riding a bat-lizard beast",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0445",
+            "endUid": "u0463"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0829",
+            "endUid": "u0845"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1007",
+            "endUid": "u1018"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1391",
+            "endUid": "u1395"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e007",
+      "kind": "divine",
+      "label": "Nisir",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1007",
+            "endUid": "u1018"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1291",
+            "endUid": "u1321"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Tanshi/Meswati/Nisir.md"
+    },
+    {
+      "id": "e008",
+      "kind": "divine",
+      "label": "Yalik'i",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1007",
+            "endUid": "u1018"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1291",
+            "endUid": "u1321"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Tanshi/Meswati/Yalik'i.md"
+    },
+    {
+      "id": "e009",
+      "kind": "item",
+      "label": "Armband buried with the hobgoblin wizard",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1007",
+            "endUid": "u1018"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1206",
+            "endUid": "u1208"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1229",
+            "endUid": "u1236"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1276",
+            "endUid": "u1299"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1391",
+            "endUid": "u1395"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e010",
+      "kind": "npc",
+      "label": "Dead demon at the Battle of Dark Fire",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1656",
+            "endUid": "u1672"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1699",
+            "endUid": "u1703"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1830",
+            "endUid": "u1835"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2280",
+            "endUid": "u2288"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2683",
+            "endUid": "u2686"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3103",
+            "endUid": "u3124"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The particular demon's cursed remains drive the battle, but its historical identity and present agency remain unnamed."
+    },
+    {
+      "id": "e011",
+      "kind": "item",
+      "label": "Armband on the dead demon's wrist",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1663",
+            "endUid": "u1672"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2280",
+            "endUid": "u2288"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2961",
+            "endUid": "u2963"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3032",
+            "endUid": "u3045"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3086",
+            "endUid": "u3124"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e012",
+      "kind": "item",
+      "label": "Delwath's lynx-painted shield",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0040",
+            "endUid": "u0047"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3103",
+            "endUid": "u3124"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Deno'qai Lynx Shield.md"
+    },
+    {
+      "id": "e013",
+      "kind": "organization",
+      "label": "Cha'mutte's army",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0147",
+            "endUid": "u0148"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0445",
+            "endUid": "u0459"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1699",
+            "endUid": "u1703"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e014",
+      "kind": "item",
+      "label": "Circlet whose destruction freed Delwath",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0112",
+            "endUid": "u0140"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0149",
+            "endUid": "u0155"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e015",
+      "kind": "item",
+      "label": "Other circlet destroyed by Iascaire",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0112",
+            "endUid": "u0140"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0164",
+            "endUid": "u0173"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The conversation distinguishes a second destroyed circlet, while its effect on the vanished warrior remains Delwath's supposition."
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Delwath's unnamed guide and hunting-camp workers",
+      "reason": "A brief guide reference and anonymous workers establish service roles and a crowd, without a developed individual identity.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0033",
+            "endUid": "u0039"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0079",
+            "endUid": "u0086"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Harpoon shadows and unnamed dead villagers",
+      "reason": "Generic sorrow creatures and casualties lack distinct character identities; the personally identified village godcaller is retained separately.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0435",
+            "endUid": "u0444"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0583",
+            "endUid": "u0606"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0641",
+            "endUid": "u0643"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0878",
+            "endUid": "u0892"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1132",
+            "endUid": "u1136"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Wildfire koi and shadow beast",
+      "reason": "Routine summoned creatures perform commanded abilities; the session establishes no independent, continuing companion identity.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0470",
+            "endUid": "u0485"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1752",
+            "endUid": "u1767"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2255",
+            "endUid": "u2259"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2718",
+            "endUid": "u2739"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Animated trees, demonic wolf, wasps, boars and birds",
+      "reason": "Generic encounter creatures and recurring spawned enemies are not individually established NPC identities.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1830",
+            "endUid": "u1835"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2011",
+            "endUid": "u2013"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2460",
+            "endUid": "u2462"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2970",
+            "endUid": "u2971"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Narëngril, pike, filleting knife, armor and ring",
+      "reason": "Routine PC equipment, spell-focus use and power adjudication, without an independent acquisition or plot-object change in this session.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0033",
+            "endUid": "u0076"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0217",
+            "endUid": "u0223"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0350",
+            "endUid": "u0354"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1027",
+            "endUid": "u1033"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1778",
+            "endUid": "u1813"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2190",
+            "endUid": "u2191"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Village tree and altar",
+      "reason": "Fixed parts of the village ritual setting, retained as locations rather than separate portable object entities.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0317",
+            "endUid": "u0336"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0815",
+            "endUid": "u0817"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1492",
+            "endUid": "u1520"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Wooden fish carvings",
+      "reason": "Brief ordinary crafting and offering during the short rest; no separate significant magical object identity.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1612",
+            "endUid": "u1622"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Deno'qai and Stoneborn",
+      "reason": "Peoples and species are not separately established organizations in this conversation.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0107",
+            "endUid": "u0110"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0199",
+            "endUid": "u0209"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 53 (DuFr).md",
+    "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 54 (DuFr).md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Cha'mutte’s Shadow Armband.md",
+    "People/PCs/Dunmar Fellowship/Guests/Aristaea.md",
+    "People/PCs/Dunmar Fellowship/Guests/Iascaire.md"
+  ]
+}
