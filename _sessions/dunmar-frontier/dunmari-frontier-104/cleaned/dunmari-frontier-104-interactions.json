@@ -1,0 +1,1550 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "23fe5307641c6af387a2563764de39e17721dbf511368be8f7da81fb41951e0e"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-entity-map.json",
+      "sha256": "09f28cdad2ef11469a8e97e46cecdd5784765abd8f301b1c545af1dff48e5729"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Recalled doppelganger plot and the weakening prison",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e032",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e033",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0040",
+        "endUid": "u0101"
+      },
+      "lines": [
+        "%% u0040:0-18, u0041:0-52, u0042:0-85, u0043:0-3, u0044:0-14, u0045:0-63 %%",
+        "DM: You recall now, as you wait tensely for news from Kenzo—the Kenzo clone—the information you've recently learned about Apollyon's doppelgangers, the clones of you and your party that were apparently created by some twisted magic of Apollyon.",
+        "",
+        "%% u0046:0-13, u0047:0-13, u0048:0-39, u0049:0-8, u0050:0-7, u0051:0-35, u0052:0-83, u0053:0-48 %%",
+        "DM: You had heard news of them quite some time ago, about 2 weeks ago, when the Delwath doppelganger and Kenzo doppelganger attacked Chardon and opened a rift to Pandemonium, using Fausto's Pandemonium Skull. But since then you've learned considerably more.",
+        "",
+        "%% u0054:0-41, u0055:0-50, u0056:0-45, u0057:0-22, u0058:0-30, u0059:0-61 %%",
+        "DM: When you return to Vindristjarna from the Elemental Plane of Water, you learn from your crew that a Seeker clone had attacked the skyship, killing Yota and Igol, who are resurrected by Riswynn, before being defeated largely by Faldrak and the ice turrets.",
+        "",
+        "%% u0060:0-31, u0061:0-16, u0062:0-6, u0063:0-69, u0064:0-22, u0065:0-43, u0066:0-20, u0067:0-101, u0068:0-9, u0069:0-31 %%",
+        "DM: You also learn from Sura that a—another clone of Wellby rampaging across the Nevos Sea as a pirate, killing indiscriminately, and a clone of Riswynn, you learned from the dwarves of Tharn Todor, was a—was a—had come into Tharn Todor, the main dwarven city, apparently recruiting dwarves for some mission to the depths, which you inferred was a suicide mission.",
+        "",
+        "%% u0070:0-91, u0071:0-14, u0072:0-94, u0073:0-13, u0074:0-136, u0075:0-83 %%",
+        "DM: And the common thread between all of these that you, Delwath, I think, pieced together from talking to the Yota and Igol after they were resurrected, and from watching the dust of Seeker's doppelganger in the mirror, was that the souls of the people killed by the doppelgangers are transported somehow to the magical box that holds Apollyon in his tomb. And as they struggle for freedom, they chip away at the bonds that hold it in place.",
+        "",
+        "%% u0076:0-5 %%",
+        "Kenzo: Damn!",
+        "",
+        "%% u0077:0-33, u0078:0-10, u0079:0-50 %%",
+        "DM: So each time a doppelganger kills, the bonds holding Apollyon in place grow weaker and weaker.",
+        "",
+        "%% u0080:0-24 %%",
+        "Seeker: So we have to stop them.",
+        "",
+        "%% u0081:0-4, u0082:0-43, u0083:0-140 %%",
+        "DM: Wow! Yes, I mean, you don't know how many—the, the—it may be too late already, though. I mean, you know you have some time from Kenzo's dreams. You have about 2 weeks before Apollyon is freed.",
+        "",
+        "%% u0084:0-98, u0085:0-65, u0086:0-16, u0087:0-73 %%",
+        "DM: The souls don't all meet. Everybody who dies doesn't immediately leave the lock. Like, if you recall, Yota like stuck around for a while and didn't try and break free. And so there's a—the number of souls that are probably trapped in the locks at the moment.",
+        "",
+        "%% u0088:0-143, u0089:0-26, u0090:0-11, u0091:0-3, u0092:0-55, u0093:0-32 %%",
+        "DM: You also learned that the doppelgangers seem to have some kind of item or ward that keeps them from dying, and safely returns them to Apollyon because when you scried on the Delwath and Kenzo Clones, you saw them pacing the docks at what you presumed was the city of Drankor.",
+        "",
+        "%% u0094:0-2, u0095:0-14, u0096:0-11, u0097:0-20, u0098:0-49, u0099:0-16, u0100:0-33, u0101:0-29 %%",
+        "DM: ((Table aside))Riswynn teleported to deal with the Riswynn clone with the dwarfs.((Table aside))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Let me recap this. Okay.",
+          "Kenzo: Because.",
+          "Seeker: And stuff you learned.",
+          "DM: Last, last session was the—these doppelgangers of Apollyon, so.",
+          "Seeker: Yeah."
+        ],
+        "after": [
+          "DM: And rather than split the party you created an extra copy of the one of the party. Too bad you can't do more than one at a time.",
+          "Kenzo: Why can't we do one at a time? Because.",
+          "Delwath: No, doesn't.",
+          "DM: How they.",
+          "Seeker: So, so."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Recovering crew under the tree",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0132",
+        "endUid": "u0139"
+      },
+      "lines": [
+        "%% u0132:0-5, u0133:0-60, u0134:0-34, u0135:0-62, u0136:0-45, u0137:0-15, u0138:0-26, u0139:0-36 %%",
+        "DM: The 2—Igol, the orc, and Yota, the Denocai, who you found among the Vargaldi, the people of the North—are looking pale and resting underneath the shade of the tree after being returned from the dead by Riswynn. Agnera, the elf, staying near the 2 of them, tending the tree and bringing water.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And Delwath is now taking out his scrying focus, his bowl and filling it with clear water and starting to cast the scrying spell to make contact with the Kenzo clone to find out what happened in the battle. Standing around.",
+          "Seeker: Your bets.",
+          "DM: Yeah, last chance for your bet. Standing around Vindristjarna, Faldrak is flying now, and now having been promoted to some long, meaningless title that I don't remember last session by Seeker.",
+          "Seeker: Assistant to the Regional Deputy Captain.",
+          "DM: And then the rest of the crew in various states of unease and nervousness."
+        ],
+        "after": [
+          "DM: Amil is pacing with nervous energy, wearing his new helm of telepathy that you gifted him, waiting, curious, looking over at Delwath every now and then trying to see what might have happened.",
+          "DM: Kethra, I think, went with Riswynn.",
+          "DM: And the halflings—Milo Thistlefoot, Tilly Brineheart and their crew—currently feeling a bit cooped up in this, yeah, non-ship, with little or nothing for them to do, but curious, watching over the sides and marking the land as it passes.",
+          "Seeker: Bet on pirate Wellby.",
+          "DM: Oh, they definitely bet on—Milo, Milo. Most of the crew bets on pirate Wellby. Milo bets on pirate Wellby. I think Tilly bets on clone Kenzo."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "The scryed fight ends with pirate Wellby vanishing",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0239",
+        "endUid": "u0312"
+      },
+      "lines": [
+        "%% u0239:0-11, u0240:0-9, u0241:0-10, u0242:0-16, u0243:0-15, u0244:0-3, u0245:0-20, u0246:0-17 %%",
+        "DM: And you see below you a scene of the Kenzo clone standing on the bow of the like foredeck of a pirate ship.",
+        "",
+        "%% u0247:0-26, u0248:0-24, u0249:0-12, u0250:0-31, u0251:0-38, u0252:0-8, u0253:0-10, u0254:0-28, u0255:0-11, u0256:0-52, u0257:0-40, u0258:0-4, u0259:0-19, u0260:0-25, u0261:0-15, u0262:0-3, u0262:3-11, u0263:0-16, u0264:0-3, u0265:0-11, u0266:0-21, u0267:0-57, u0268:0-45, u0269:0-25, u0270:0-4, u0271:0-90, u0272:0-23, u0273:0-49, u0274:0-21, u0275:0-18, u0276:0-9, u0277:0-19, u0278:0-68, u0279:0-22, u0280:0-73, u0281:0-139, u0282:0-6, u0283:0-14, u0284:0-28, u0285:0-12, u0286:0-93, u0287:0-35, u0288:0-45, u0289:0-42, u0290:0-5, u0291:0-33, u0292:0-43, u0293:0-57, u0294:0-24, u0295:0-15, u0296:0-6, u0297:0-20, u0298:0-16, u0299:0-12, u0300:0-21, u0301:0-110, u0302:0-33, u0303:0-8, u0304:0-3, u0305:0-16, u0306:0-13 %%",
+        "((Pirate fight and combat actions))",
+        "",
+        "%% u0307:0-25, u0308:0-10, u0309:0-16, u0310:0-49, u0311:0-32, u0312:0-33 %%",
+        "DM: ((Combat actions))in a flash, the Wellby clone vanishes.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Yeah, Kenzo continues training Amil. He's—he wants to improve his, his ability to fight with the weapons.",
+          "Kenzo: Glances confidently at Wellby, like every—gives him the look.",
+          "Wellby: I think Wellby's in the training hall, too. I think, going through all of the arrows, like checking the fletching. He's in 'prepare for what's ahead' mode, after getting a very good night's sleep last night.",
+          "Wellby: And every so often he'll look up and see the 2 of them like dancing around hitting each other, and just sort of shake his head and go back to the arrows again.",
+          "DM: Okay, so at this moment the scry finishes, targeting Kenzo clone, and this scry—scrying eye appears."
+        ],
+        "after": [
+          "Delwath: Nice.",
+          "Wellby: Well, this confirms that I could definitely beat Kenzo if I also had like 10 other guys helping me, we weren't on a boat, we were in a controlled area of my choosing.",
+          "Delwath: You had your item.",
+          "Seeker: Minutes.",
+          "Delwath: And could fly."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "The simulacrum reports the soul-pulling chain",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0328",
+        "endUid": "u0378"
+      },
+      "lines": [
+        "%% u0328:0-132, u0329:0-24, u0330:0-39, u0331:0-4, u0332:0-15 %%",
+        "DM: The Kenzo clone is, is sort of breathing heavily and swims into the water, and realizing that now that the battle is over, that the, the scry must be active, you hear him begin speaking to himself.((Opening remark))",
+        "",
+        "%% u0333:0-5, u0334:0-39, u0335:0-15, u0336:0-44, u0337:0-9, u0338:0-30, u0339:0-97, u0340:0-13, u0341:0-4, u0342:0-23, u0343:0-25, u0344:0-5, u0345:0-16, u0346:0-20, u0347:0-18, u0348:0-32, u0349:0-26, u0350:0-9, u0351:0-85 %%",
+        "((Recounted battle tactics and table commentary))",
+        "",
+        "%% u0352:0-48, u0353:0-90, u0354:0-20, u0355:0-109, u0356:0-20, u0357:0-46, u0358:0-11, u0359:0-53, u0360:0-8, u0361:0-145 %%",
+        "DM: I have to say there's something weird about him. I should have been able to see him in my soul sight. When I looked, it was just a void, not a darkness, but some strange emptiness that seemed to pull on the souls of everybody around him, trying to grasp and consume them. Drag them somewhere. But it didn't seem to be coming precisely from him. It was—was wearing something around his neck on a chain that I cannot easily look at with my soul sight. But I could tell it was there, that seemed to be the source, but with my regular eyes there was nothing there.",
+        "",
+        "%% u0362:0-12, u0363:0-4, u0364:0-8, u0365:0-33, u0366:0-16, u0367:0-31, u0368:0-17, u0369:0-20, u0370:0-19, u0371:0-34 %%",
+        "DM: He was also—as I hit him, did not feel like punching flesh. It was something more substantial about him than a normal creature, like there was stone woven into his body, made him sturdier than I expected.",
+        "",
+        "%% u0372:0-6, u0373:0-23 %%",
+        "((Recounted battle tactics and table commentary))",
+        "",
+        "%% u0374:0-21, u0375:0-76, u0376:0-114, u0377:0-66, u0378:0-20 %%",
+        "DM: The Kenzo clone then, you know, takes a few more gulps of water, swimming down deep below the ship.((Combat endurance and potion thanks))at the moment I'm headed beneath the waves, and Wellby is gone. So what's next, Seeker?'",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Yeah, to, to be fair, if you could have escape—if you could escape, because real shit, you gotta be able to escape. If you had a place to escape to, you know, much more fair, but I—",
+          "DM: You had your armor. Times I wouldn't—been totally dead.",
+          "Seeker: There, there's that song. I wish I was a little bit taller. I wish I was a baller.",
+          "Kenzo: Wait. I didn't realize this is gonna be a 10 on one situation. But okay, that was cool, though.",
+          "Seeker: It was a good, it was a good fight. I was great."
+        ],
+        "after": [
+          "Seeker: Can we talk back to him? I thought we were scrying.",
+          "DM: Nope.",
+          "Seeker: So we have no.",
+          "Kenzo: We use the helmet of telepathy.",
+          "Wellby: Sending."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "The simulacrum sets its route for Darba",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e021",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0541",
+        "endUid": "u0556"
+      },
+      "lines": [
+        "%% u0541:0-8, u0542:0-48, u0543:0-20, u0544:0-26, u0545:0-164 %%",
+        "DM: Okay. So Kenzo then, as the scry ends, reports back that he's gonna head east till he hit—reaches shore, then drink the antidote and get his lungs back and find Darba, and then go from there. He doesn't know how long it'll take because he has no idea where he is, but—",
+        "",
+        "%% u0546:0-43 %%",
+        "Kenzo: Oh, sorry! And do we know anybody in Darba?",
+        "",
+        "%% u0547:0-38, u0548:0-162 %%",
+        "DM: Yeah, you were in Darba, I mean Kenzo. You all passed through Darba like about a year like 9 months ago. So you know, like, you know that halfling. There's like the Halfling Inn that you stayed at, or.",
+        "",
+        "%% u0549:0-6 %%",
+        "Delwath: Right.",
+        "",
+        "%% u0550:0-38 %%",
+        "DM: You know a few people you met in town.",
+        "",
+        "%% u0551:0-89, u0552:0-16, u0553:0-65 %%",
+        "Kenzo: Yeah, he should go directly to like the halfling inn and like tell everybody there that, 'Hey, I'm a clone.' Like, 'Hey, it's me, Kenzo. I'm a clone. I want to talk to Karnas.'",
+        "",
+        "%% u0554:0-159 %%",
+        "DM: Yeah, Ken—Kenzo has—you would have enough connections to at least have a way to start, given that you had—cause clone Kenzo has all real Kenzo's memories, so.",
+        "",
+        "%% u0555:0-30, u0556:0-184 %%",
+        "Kenzo: Perfect. And then, and then I'm—what was it? Yeah. And then like, so if, if he somehow doesn't get to Karnas or whatever, at least like word will have spread and somebody that we know can like tell us what happened.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Did one of the halflings.",
+          "Seeker: The same.",
+          "DM: Seeker did. I don't know if using the potion of water breathing counts as an exotic outcome or not.",
+          "Seeker: No, no, that's for a tie, basically, or like an unknown outcome like they both disappear or something, or they form an alliance.",
+          "Kenzo: Alright great plan."
+        ],
+        "after": [
+          "DM: Right.",
+          "Kenzo: Great brilliant.",
+          "DM: Okay. So.",
+          "DM: The sun sets on May 14th. 45 or so hours of flying to go before you reach your destination. The desert is lit up in the light of the sinking sun, the sunlight glinting on what looks like a shimmering, shallow lake of some kind before—but—below you. To Wellby's eyes, it seems as if perhaps there is a hint of movement like a swarm of ants gathering around spilled sugar around the shores of this lake. What it could be, you cannot tell from this height.",
+          "DM: As you settle into your evening meal and your rest. I assume at this point you're basically just sticking on the course south. I have like, you know, a few minutes of travel narration. Feel free to interrupt if there's anything you want to talk to—if any of you wanted roleplay any scenes or do anything like that. But unless you jump in and say your character is doing something, I'm just gonna—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "The jade’s journey into a storm in Kenzo’s dream",
+      "entities": [
+        {
+          "id": "e030",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0604",
+        "endUid": "u0649"
+      },
+      "lines": [
+        "%% u0604:0-2, u0605:0-28, u0606:0-4, u0607:0-8, u0608:0-25, u0609:0-60 %%",
+        "DM: So you settle in for the night. That evening, in addition to the normal dreams of Apollyon slowly breaking through from his prison—",
+        "",
+        "%% u0610:0-35, u0611:0-24, u0612:0-22, u0613:0-89, u0614:0-75, u0615:0-35, u0616:0-62, u0617:0-114 %%",
+        "DM: Kenzo, you have a dream of the jade. Jade you're flying to is cracking and bubbling, turning into a mist that floats out of this red sandstone cave, drifting above the jungle. Everything's dark and still until a strong wind sweeps up, and the jade mist swirls and blows across the canopy. You're swept with it and you watch the canopy pass below you, and you see the twinkling of the ocean waves crashing below you, despite the clear skies and seeming lack of winds.",
+        "",
+        "%% u0618:0-95, u0619:0-18, u0620:0-11, u0621:0-76 %%",
+        "DM: In the light of the waxing crescent moon. And then you're quickly blown offshore, swooping past mangroves and over the shoals, your sense of time and distance distorted in the greenscape—dreamscape—until—",
+        "",
+        "%% u0622:0-16, u0623:0-28, u0624:0-4, u0625:0-67, u0626:0-18, u0627:0-48, u0628:0-11, u0629:0-34 %%",
+        "DM: You see ahead a wall of wind, a raging storm, like crashing waves crashing into each other in the middle of the ocean, clouds reaching up into the sky and then miles in both directions. A maelstrom that the jade cloud is swept into.",
+        "",
+        "%% u0630:0-28, u0631:0-50, u0632:0-38, u0633:0-28, u0634:0-4, u0635:0-47, u0636:0-29 %%",
+        "DM: And then, as you jolt awake, you no longer have any sense of where the jade is. You still remember the location of the jungle in the cliff where it was, but you can no longer sense it as you sit down for breakfast in the morning.",
+        "",
+        "%% u0637:0-24, u0638:0-7 %%",
+        "((Brief interjections))",
+        "",
+        "%% u0639:0-91, u0640:0-9 %%",
+        "Kenzo: Jade was moved, or does it feel like my ability to sense it is gone? Can I sense it at all anywhere?",
+        "",
+        "%% u0641:0-3 %%",
+        "DM: No.",
+        "",
+        "%% u0642:0-60 %%",
+        "Kenzo: So do I have an intuition? Was it moved, or do I—or was it—",
+        "",
+        "%% u0643:0-57 %%",
+        "DM: I mean the whole dream you had was about the jade moving.",
+        "",
+        "%% u0644:0-40 %%",
+        "Kenzo: But why can't I sense it at all anymore?",
+        "",
+        "%% u0645:0-20 %%",
+        "Wellby: Another plane, dude.",
+        "",
+        "%% u0646:0-15 %%",
+        "DM: You don't know.",
+        "",
+        "%% u0647:0-10 %%",
+        "Delwath: Gonna say.",
+        "",
+        "%% u0648:0-74 %%",
+        "Kenzo: I could—I? So I could—I couldn't sense the jade in the other plane, right?",
+        "",
+        "%% u0649:0-91 %%",
+        "DM: Yeah, you could, you could. It was faint and not super directional, but you could sense it.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah, so.",
+          "Seeker: Going there.",
+          "DM: No, all you know is the vision that you saw of it, apparently in a cave in a cliff in the desert—in the jungle. You have really no information other than Kenzo has a very strong sense of directional compass.",
+          "Delwath: Great.",
+          "DM: Exactly the direction to go to find."
+        ],
+        "after": [
+          "Kenzo: Hmm.",
+          "DM: As you all sit puzzled in the morning, wondering about this, you can see, as the sun rises off to the east, the land begins to tumble down in a series of broken rocky cliffs. To the west continues the vast expanse of sand and emptiness broken incongruously by a pure white marble tower, standing alone in the desert, half buried in the sand.",
+          "Seeker: Go there! Go there! Go there!",
+          "DM: You fly south.",
+          "Seeker: We're gonna stop. Well, so we can look at it without flying down somehow. Maybe. Well, we could send a bird down or something."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Faldrak’s instructions while the party investigates",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e023",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0864",
+        "endUid": "u0910"
+      },
+      "lines": [
+        "%% u0864:0-31 %%",
+        "Seeker: Okay. Faldrak just keep flying.",
+        "",
+        "%% u0865:0-108, u0866:0-78 %%",
+        "Delwath: I mean, it might be worth dipping down a little bit lower, so that we are a little close like he may as well bring us within a thousand feet, so that when we jump off we have less to fly.",
+        "",
+        "%% u0867:0-70 %%",
+        "Seeker: Yeah, and then just take it back up to cruising altitude and continue.",
+        "",
+        "%% u0868:0-11 %%",
+        "Delwath: Yeah, yeah.",
+        "",
+        "%% u0869:0-29, u0870:0-39, u0871:0-29, u0872:0-31 %%",
+        "Seeker: If you do not hear from us in 8 h you might want to circle back, and you know, approach the tower but that's not likely to occur.",
+        "",
+        "%% u0873:0-5, u0874:0-13 %%",
+        "DM: Okay. I would love.",
+        "",
+        "%% u0875:0-51 %%",
+        "Delwath: Say 8 h, give it longer, because if we had to rest.",
+        "",
+        "%% u0876:0-2, u0877:0-8 %%",
+        "Seeker: 12 6 times.",
+        "",
+        "%% u0878:0-38, u0879:0-8 %%",
+        "Delwath: Say, what time of day is it right now? Morning.",
+        "",
+        "%% u0880:0-11 %%",
+        "Seeker: Which does.",
+        "",
+        "%% u0881:0-15 %%",
+        "DM: In the morning.",
+        "",
+        "%% u0882:0-31, u0883:0-38, u0884:0-11 %%",
+        "Seeker: Time are we gonna waste on this side, quest that Tim dropped in there? I think we.",
+        "",
+        "%% u0885:0-10, u0886:0-15, u0887:0-28, u0888:0-5, u0889:0-13 %%",
+        "Delwath: Can safely assume that he—I think he should keep going until next morning.",
+        "",
+        "%% u0890:0-5 %%",
+        "Seeker: Okay.",
+        "",
+        "%% u0891:0-13, u0892:0-68, u0893:0-15, u0894:0-69 %%",
+        "Delwath: And come back tomorrow morning. We're not on the ship, or he hasn't heard from us, then come back, recover our bones and then flee as far away from Apollyon as he can.",
+        "",
+        "%% u0895:0-13, u0896:0-45 %%",
+        "DM: Kind of nods. 'I, I guess if necessary, I'll run to Riswynn.'",
+        "",
+        "%% u0897:0-15, u0898:0-43 %%",
+        "Delwath: Probably smart. But maybe try and go to another plane, too.",
+        "",
+        "%% u0899:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u0900:0-47, u0901:0-98 %%",
+        "Delwath: Come back for us first. Come back for us first. But if we're all dead, I suggest running to another plane because this one's not gonna be so good.",
+        "",
+        "%% u0902:0-25 %%",
+        "DM: Okay. I'll do what I can.",
+        "",
+        "%% u0903:0-55 %%",
+        "Delwath: Go find Seeker's Seeker's brother in the Plane of Fire.",
+        "",
+        "%% u0904:0-7, u0905:0-22 %%",
+        "DM: I don't think I could do that.",
+        "",
+        "%% u0906:0-22 %%",
+        "Delwath: Riswynn will help you.",
+        "",
+        "%% u0907:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u0908:0-24 %%",
+        "Kenzo: Added to Riswynn's list.",
+        "",
+        "%% u0909:0-36 %%",
+        "DM: Riswynn will just resurrect you all.",
+        "",
+        "%% u0910:0-59 %%",
+        "Seeker: He's really competent, just always gets things done for us.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: No keep going.",
+          "DM: We're gonna right, are you gonna do? Okay?",
+          "Delwath: I think he keeps going, and we just teleport back.",
+          "Seeker: Fair, fair.",
+          "Wellby: Let's do it."
+        ],
+        "after": [
+          "Delwath: So we're jumping off the thing and flying.",
+          "DM: Okay, so you—Faldrak drops you low enough so that it's like, you know, of 5 min flight to the top of the tower.",
+          "Delwath: I'm tempted to just fall for a while and then cast fly like when we're you know.",
+          "DM: Okay, that's fair enough, too. Down the tower—so as you fly down to the tower, let's get some—",
+          "Delwath: Oh, then we've long rested."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Magical telescope lenses recovered",
+      "entities": [
+        {
+          "id": "e034",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1205",
+        "endUid": "u1239"
+      },
+      "lines": [
+        "%% u1205:0-23, u1206:0-17, u1207:0-58, u1208:0-39, u1209:0-13, u1210:0-76, u1211:0-102 %%",
+        "DM: They—so they look like possibly parts to spyglass, but they're much nicer than anything you've seen. Like they're finer construction, where—like really—somehow even despite lying in the desert for some—who knows how many years—and the sand and everything else decaying around them, they do not seem to be harmed in the slightest.",
+        "",
+        "%% u1212:0-26, u1213:0-9, u1214:0-76, u1215:0-102, u1216:0-54, u1217:0-63 %%",
+        "((Questions about prior mirror use and routine Identify mechanics))",
+        "",
+        "%% u1218:0-68, u1219:0-10 %%",
+        "DM: So Seeker looks at thee—is staring at them with his arcane goggles. These are—",
+        "",
+        "%% u1220:0-45, u1221:0-38, u1222:0-20 %%",
+        "DM: They're magical lenses. They're components of what seems like some sort of telescope. Lenses of far seeing.",
+        "",
+        "%% u1223:0-4 %%",
+        "Seeker: And.",
+        "",
+        "%% u1224:0-21, u1225:0-36, u1226:0-102 %%",
+        "DM: They would need to be mounted in some way. They don't—the, the—but whatever housing was holding them was apparently not magical and has disintegrated over time.",
+        "",
+        "%% u1227:0-89, u1228:0-12, u1229:0-10 %%",
+        "DM: But the lenses themselves, with probably a little bit of tinkering, could be used to make quite a nice telescope.",
+        "",
+        "%% u1230:0-15, u1231:0-9, u1232:0-5, u1233:0-34, u1234:0-4 %%",
+        "((Questions about prior mirror use and routine Identify mechanics))",
+        "",
+        "%% u1235:0-100, u1236:0-29, u1237:0-55, u1238:0-29, u1239:0-20 %%",
+        "Seeker: ((Verbal scaffolding and next subject))Well, I'll, I'll gather them up carefully and make a mental note to have Faldrak look at them with me. He could probably fabricate whatever housing is needed.((Verbal scaffolding and next subject))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Nobody's cast Detect Magic yet.",
+          "Delwath: True tower could be magical. What are these crystal.",
+          "Seeker: Oh, yeah, yeah, yeah of lenses.",
+          "Delwath: Yeah, I was gonna say, let's switch gears for a moment.",
+          "Seeker: See."
+        ],
+        "after": [
+          "DM: My spell has ended.",
+          "Seeker: Yeah.",
+          "Delwath: The fly spell.",
+          "Seeker: I did when I.",
+          "Delwath: Cast ghostly gaze. It also requires concentration."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "The legend of the Shaking Tooth",
+      "entities": [
+        {
+          "id": "e028",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1310",
+        "endUid": "u1337"
+      },
+      "lines": [
+        "%% u1310:0-182, u1311:0-27, u1312:0-200, u1313:0-10, u1314:0-32 %%",
+        "DM: In your younger days, just, you know, kind of reading as you were trying to learn about the Dunmari, and piecing together some history and stories and things before you traveled here, you remembered some sort of—what you thought was a nonsensical tale or legend or ghost story of the Dunmari recorded from before the Great War, back when this land that you're on now used to be the sort of central part of Dunmar. And it was the legend of the Shaking Tooth.",
+        "",
+        "%% u1315:0-20 %%",
+        "DM: And the legend goes.",
+        "",
+        "%% u1316:0-6 %%",
+        "((Brief table interjection))",
+        "",
+        "%% u1317:0-21, u1318:0-6, u1319:0-42, u1320:0-18, u1321:0-19, u1322:0-25, u1323:0-10, u1324:0-35, u1325:0-48, u1326:0-20, u1327:0-12, u1328:0-12, u1329:0-6, u1330:0-17, u1331:0-21, u1332:0-16, u1333:0-86 %%",
+        "DM: There's a white tower shaped like a fang sticking up out of the plains. Nothing grows for—it's a hundred feet on any side of the tower. And if you sneak up close across the dead land and rest your hand against the solid white walls of the tower itself, you can feel the pounding of the heart of the fang, an irregular beating. But nobody dared enter, or at least there are no stories of anybody who entered the tower and returned.",
+        "",
+        "%% u1334:0-25, u1335:0-19, u1336:0-43, u1337:0-9 %%",
+        "DM: So your inference is that this thing has been pounding on the walls for several 100 years at least.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: 5.",
+          "DM: You guys are good skills these days. You, as Seeker and Wellby—the Seeker spends a few minutes kind of looking at the stone, like putting his goggles on, just like finally—",
+          "Seeker: It's at 30.",
+          "DM: You know, poking around a little bit. This is—this is clearly dates to the Drankorian days based on the like—the weathering of the sand. It's been here, you know, since this was desert, clearly, which dates to the, the end of the Great War. This has only been desert for 200 years. The—what else can you learn?",
+          "DM: So it's constructed probably early in the—it—during the Drankorian Empire. There's probably like more than a thousand—it's probably around a thousand years old, something like that, this tower. And now you're—now that you're thinking about it and you're here, you're, you're starting to put 2 and 2 together."
+        ],
+        "after": [
+          "Wellby: Maybe let's talk to it and be prepared to leave very, very quickly.",
+          "Seeker: Yeah. Halloween, I.",
+          "Delwath: Supposing he's just gonna try with the range of halfling telepathy 100.",
+          "DM: Would be within.",
+          "Delwath: And you can go through. You don't have to see. You can telepathize to."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "The damaged colossus is destroyed",
+      "entities": [
+        {
+          "id": "e028",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1423",
+        "endUid": "u2130"
+      },
+      "lines": [
+        "%% u1423:0-131, u1424:0-36, u1425:0-29, u1426:0-52, u1427:0-30, u1428:0-9 %%",
+        "DM: It looks like a, like a slightly smaller version of like the Argonath from Lord of the Rings or something like that, just like some 40-foot-tall statue carved of stone.((Further positioning))",
+        "",
+        "%% u1429:0-51, u1430:0-11, u1431:0-14, u1432:0-47, u1433:0-7, u1434:0-74, u1435:0-6, u1436:0-104, u1437:0-7, u1438:0-87, u1439:0-43 %%",
+        "DM: One entire side of its face is completely caved in. The head is—head is empty.((Physical positioning and eye effects))",
+        "",
+        "%% u1440:0-18, u1441:0-16, u1442:0-50, u1443:0-37, u1444:0-53, u1445:0-8, u1446:0-17, u1447:0-21, u1448:0-32, u1449:0-29, u1450:0-4, u1451:0-119, u1452:0-51, u1453:0-44, u1454:0-58, u1455:0-56, u1456:0-79, u1457:0-102, u1458:0-16, u1459:0-11, u1460:0-7, u1461:0-13, u1462:0-3, u1463:0-51, u1464:0-49, u1465:0-8, u1466:0-62, u1467:0-49, u1468:0-6, u1469:0-50, u1470:0-23, u1471:0-28, u1472:0-43, u1473:0-12, u1474:0-22, u1475:0-5, u1476:0-13, u1477:0-19, u1478:0-15, u1479:0-36, u1480:0-36, u1481:0-4, u1482:0-52, u1483:0-9, u1484:0-32, u1485:0-50, u1486:0-9, u1487:0-6, u1488:0-64, u1489:0-27, u1490:0-31, u1491:0-45, u1492:0-13, u1493:0-6, u1494:0-17, u1495:0-16, u1496:0-85, u1497:0-39, u1498:0-5, u1499:0-31, u1500:0-4, u1501:0-29, u1502:0-5, u1503:0-5, u1504:0-43, u1505:0-26, u1506:0-37, u1507:0-9, u1508:0-84, u1509:0-66, u1510:0-38, u1511:0-51, u1512:0-28, u1513:0-96, u1514:0-38, u1515:0-33, u1516:0-53, u1517:0-11, u1518:0-5, u1519:0-12, u1520:0-7, u1521:0-5, u1522:0-4, u1523:0-34, u1524:0-35, u1525:0-28, u1526:0-27, u1527:0-12, u1528:0-12, u1529:0-7, u1530:0-40, u1531:0-27, u1532:0-16, u1533:0-54, u1534:0-28, u1535:0-5, u1536:0-3, u1537:0-24, u1538:0-19, u1539:0-28, u1540:0-5, u1541:0-37, u1542:0-9, u1543:0-73, u1544:0-5, u1545:0-8, u1546:0-19, u1547:0-55, u1548:0-22, u1549:0-37, u1550:0-34, u1551:0-5, u1552:0-59, u1553:0-24, u1554:0-86, u1555:0-25, u1556:0-24, u1557:0-5, u1558:0-32, u1559:0-114, u1560:0-73, u1561:0-39, u1562:0-72, u1563:0-38, u1564:0-37, u1565:0-27, u1566:0-85, u1567:0-21, u1568:0-3, u1569:0-90, u1570:0-18, u1571:0-7, u1572:0-2, u1573:0-42, u1574:0-31, u1575:0-3, u1576:0-5, u1577:0-7, u1578:0-4, u1579:0-59, u1580:0-44, u1581:0-14, u1582:0-70, u1583:0-9, u1584:0-8, u1585:0-45, u1586:0-14, u1587:0-16, u1588:0-5, u1589:0-23, u1590:0-29, u1591:0-4, u1592:0-40, u1593:0-51, u1594:0-54, u1595:0-6, u1596:0-19, u1597:0-82, u1598:0-10, u1599:0-14, u1600:0-49, u1601:0-16, u1602:0-19, u1603:0-57, u1604:0-113, u1605:0-71, u1606:0-27, u1607:0-7, u1608:0-58, u1609:0-97, u1610:0-38, u1611:0-23, u1612:0-66, u1613:0-14, u1614:0-8, u1615:0-46, u1616:0-13, u1617:0-62, u1618:0-39, u1619:0-21, u1620:0-61, u1621:0-25, u1622:0-28, u1623:0-82, u1624:0-8, u1625:0-38, u1626:0-13, u1627:0-21, u1628:0-12, u1629:0-25, u1630:0-3, u1631:0-24, u1632:0-27, u1633:0-81, u1634:0-125, u1635:0-8, u1636:0-6, u1637:0-40, u1638:0-7, u1639:0-28, u1640:0-5, u1641:0-21, u1642:0-30, u1643:0-58, u1644:0-4, u1645:0-5, u1646:0-5, u1647:0-8, u1648:0-31, u1649:0-24, u1650:0-36, u1651:0-26, u1652:0-30, u1653:0-66, u1654:0-38, u1655:0-53, u1656:0-37, u1657:0-53, u1658:0-17, u1659:0-41, u1660:0-9, u1661:0-167, u1662:0-112, u1663:0-7, u1664:0-14, u1665:0-27, u1666:0-11, u1667:0-22, u1668:0-6, u1669:0-6, u1670:0-30, u1671:0-13, u1672:0-52, u1673:0-111, u1674:0-7, u1675:0-115, u1676:0-13, u1677:0-36, u1678:0-26, u1679:0-19, u1680:0-18, u1681:0-40, u1682:0-92, u1683:0-14, u1684:0-15, u1685:0-103, u1686:0-32, u1687:0-24, u1688:0-11, u1689:0-4, u1690:0-172, u1691:0-14, u1692:0-95, u1693:0-27, u1694:0-13, u1695:0-62, u1696:0-30, u1697:0-12, u1698:0-10, u1699:0-10, u1700:0-23, u1701:0-2, u1702:0-39, u1703:0-35, u1704:0-5, u1705:0-44, u1706:0-16, u1707:0-32, u1708:0-45, u1709:0-22, u1710:0-29, u1711:0-17, u1712:0-26, u1713:0-58, u1714:0-61, u1715:0-13, u1716:0-101, u1717:0-23, u1718:0-20, u1719:0-80, u1720:0-5, u1721:0-27, u1722:0-2, u1723:0-68, u1724:0-150, u1725:0-73, u1726:0-80, u1727:0-117, u1728:0-16, u1729:0-27, u1730:0-39, u1731:0-79, u1732:0-56, u1733:0-62, u1734:0-36, u1735:0-104, u1736:0-14, u1737:0-15, u1738:0-21, u1739:0-18, u1740:0-60, u1741:0-50, u1742:0-12, u1743:0-74, u1744:0-22, u1745:0-32, u1746:0-57, u1747:0-58, u1748:0-4, u1749:0-2, u1750:0-6, u1751:0-120, u1752:0-72, u1753:0-105, u1754:0-3, u1755:0-55, u1756:0-7, u1757:0-14, u1758:0-63, u1759:0-98, u1760:0-55, u1761:0-38, u1762:0-62, u1763:0-23, u1764:0-159, u1765:0-12, u1766:0-24, u1767:0-25, u1768:0-49, u1769:0-8, u1770:0-7, u1771:0-8, u1772:0-28, u1773:0-8, u1774:0-18, u1775:0-40, u1776:0-37, u1777:0-13, u1778:0-23, u1779:0-33, u1780:0-62, u1781:0-30, u1782:0-56, u1783:0-22, u1784:0-18, u1785:0-21, u1786:0-26, u1787:0-42, u1788:0-3, u1789:0-40, u1790:0-23, u1791:0-35, u1792:0-20, u1793:0-50, u1794:0-9, u1795:0-30, u1796:0-42, u1797:0-38, u1798:0-3, u1799:0-33, u1800:0-46, u1801:0-39, u1802:0-16, u1803:0-78, u1804:0-22, u1805:0-27, u1806:0-119, u1807:0-90, u1808:0-20, u1809:0-27, u1810:0-64, u1811:0-23, u1812:0-51, u1813:0-8, u1814:0-6, u1815:0-4, u1816:0-18, u1817:0-18, u1818:0-48, u1819:0-6, u1820:0-10, u1821:0-36, u1822:0-10, u1823:0-12, u1824:0-5, u1825:0-50, u1826:0-12, u1827:0-17, u1828:0-40, u1829:0-82, u1830:0-9, u1831:0-6, u1832:0-3, u1833:0-45, u1834:0-10, u1835:0-81, u1836:0-9, u1837:0-29, u1838:0-61, u1839:0-17, u1840:0-27, u1841:0-27, u1842:0-69, u1843:0-169, u1844:0-54, u1845:0-5, u1846:0-30, u1847:0-55, u1848:0-7, u1849:0-40, u1850:0-111, u1851:0-107, u1852:0-80, u1853:0-17, u1854:0-52, u1855:0-6, u1856:0-6, u1857:0-10, u1858:0-9, u1859:0-19, u1860:0-88, u1861:0-5, u1862:0-3, u1863:0-3, u1864:0-105, u1865:0-20, u1866:0-25, u1867:0-87, u1868:0-145, u1869:0-45, u1870:0-135, u1871:0-25, u1872:0-51, u1873:0-2, u1874:0-18, u1875:0-27, u1876:0-68, u1877:0-22, u1878:0-12, u1879:0-4, u1880:0-30, u1881:0-4, u1882:0-3, u1883:0-15, u1884:0-14, u1885:0-8, u1886:0-64, u1887:0-20, u1888:0-49, u1889:0-13, u1890:0-28, u1891:0-5, u1892:0-41, u1893:0-5, u1894:0-21, u1895:0-28, u1896:0-29, u1897:0-71, u1898:0-40, u1899:0-60, u1900:0-48, u1901:0-46, u1902:0-21, u1903:0-10, u1904:0-62, u1905:0-20, u1906:0-55, u1907:0-24, u1908:0-73, u1909:0-44, u1910:0-11, u1911:0-37, u1912:0-4, u1913:0-32, u1914:0-22, u1915:0-20, u1916:0-5, u1917:0-188, u1918:0-22, u1919:0-24, u1920:0-30, u1921:0-37, u1922:0-53, u1923:0-12, u1924:0-64, u1925:0-32, u1926:0-49, u1927:0-24, u1928:0-3, u1929:0-20, u1930:0-39, u1931:0-18, u1932:0-41, u1933:0-48, u1934:0-31, u1935:0-16, u1936:0-63, u1937:0-1, u1938:0-8, u1939:0-20, u1940:0-75, u1941:0-6, u1942:0-52, u1943:0-39, u1944:0-88, u1945:0-3, u1946:0-10, u1947:0-5, u1948:0-8, u1949:0-50, u1950:0-17, u1951:0-11, u1952:0-63, u1953:0-13, u1954:0-38, u1955:0-33, u1956:0-7, u1957:0-9, u1958:0-104, u1959:0-47, u1960:0-63, u1961:0-15, u1962:0-86, u1963:0-11, u1964:0-13, u1965:0-11, u1966:0-64, u1967:0-15, u1968:0-24, u1969:0-28, u1970:0-5, u1971:0-13, u1972:0-126, u1973:0-64, u1974:0-64, u1975:0-10, u1976:0-70, u1977:0-82, u1978:0-37, u1979:0-4, u1980:0-24, u1981:0-90, u1982:0-5, u1983:0-67, u1984:0-17, u1985:0-33, u1986:0-86, u1987:0-48, u1988:0-19, u1989:0-5, u1990:0-23, u1991:0-5, u1992:0-8, u1993:0-43, u1994:0-22, u1995:0-3, u1996:0-4, u1997:0-32, u1998:0-160, u1999:0-9, u2000:0-47, u2001:0-9, u2002:0-3, u2003:0-21, u2004:0-29, u2005:0-8, u2006:0-1, u2007:0-27, u2008:0-39, u2009:0-24, u2010:0-14, u2011:0-13, u2012:0-8, u2013:0-30, u2014:0-2, u2015:0-11, u2016:0-29, u2017:0-24, u2018:0-37, u2019:0-13, u2020:0-20, u2021:0-16, u2022:0-37, u2023:0-4, u2024:0-41, u2025:0-5, u2026:0-34, u2027:0-27, u2028:0-19, u2029:0-7, u2030:0-23, u2031:0-32, u2032:0-57, u2033:0-16, u2034:0-39, u2035:0-80, u2036:0-5, u2037:0-3, u2038:0-16, u2039:0-7, u2040:0-19, u2041:0-6, u2042:0-71, u2043:0-9, u2044:0-50, u2045:0-23, u2046:0-15, u2047:0-45, u2048:0-126, u2049:0-33, u2050:0-7, u2051:0-99, u2052:0-4, u2053:0-12, u2054:0-34, u2055:0-36, u2056:0-62, u2057:0-56, u2058:0-73, u2059:0-6, u2060:0-25, u2061:0-22, u2062:0-10, u2063:0-84, u2064:0-26, u2065:0-27, u2066:0-107, u2067:0-131, u2068:0-31, u2069:0-91, u2070:0-20, u2071:0-16, u2072:0-203, u2073:0-15, u2074:0-12, u2075:0-6, u2076:0-18, u2077:0-5, u2078:0-2, u2079:0-4, u2080:0-20, u2081:0-44, u2082:0-11, u2083:0-35, u2084:0-5, u2085:0-101, u2086:0-128, u2087:0-6, u2088:0-5, u2089:0-6, u2090:0-10, u2091:0-82, u2092:0-30, u2093:0-148, u2094:0-54, u2095:0-89, u2096:0-69, u2097:0-34, u2098:0-3, u2099:0-42, u2100:0-98, u2101:0-13, u2102:0-62, u2103:0-32, u2104:0-53, u2105:0-24, u2106:0-13, u2107:0-10, u2108:0-27, u2109:0-44, u2110:0-8, u2111:0-5, u2112:0-18, u2113:0-5, u2114:0-40, u2115:0-19, u2116:0-70, u2117:0-5, u2118:0-5, u2119:0-20, u2120:0-5, u2121:0-23, u2122:0-26, u2123:0-5, u2124:0-16, u2125:0-67, u2126:0-5, u2127:0-27, u2128:0-68, u2129:0-14 %%",
+        "((Tactical discussion, failed communication, attacks, healing and repeated Radiance mechanics))",
+        "",
+        "%% u2130:0-24 %%",
+        "DM: It is really dead. Okay.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: After about 3 min or so the pounding resumes but it seems to be somewhat more regular now, and you can hear like rubble shifting around beneath you in the like in the ground below, like rubble, like cascading off the back of something that's trying to stand up, or something like that.",
+          "Wellby: I'll try again in the rest of my languages. Dunmari, Eastros, Urskan.",
+          "DM: Doesn't seem to be able to respond or willing to respond.",
+          "Wellby: Well, actually, I'll try saying in all of those various languages, and then giving it time to respond, 'If you can hear me, clap twice.' Or like, 'If you speak this language or comprehend.'",
+          "DM: After about 3 or 4 min, you start to see this massive—the like shoulders and head of some massive stone creature. I mean it looks—"
+        ],
+        "after": [
+          "Delwath: What's down? Let's go. What's down there?",
+          "Wellby: I feel a little pang of conscience at having ended like a thousand year old myth of this whole area of the world.",
+          "Delwath: Yeah.",
+          "DM: So how are you getting down?",
+          "Delwath: Cast Fly again."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Seeker encounters a smaller golem and escapes",
+      "entities": [
+        {
+          "id": "e029",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2381",
+        "endUid": "u2489"
+      },
+      "lines": [
+        "%% u2381:0-19, u2382:0-67, u2383:0-22, u2384:0-8, u2385:0-2, u2386:0-29, u2387:0-18, u2388:0-24, u2389:0-13, u2390:0-18, u2391:0-14 %%",
+        "DM: ((Table lookup))You see—see standing in front of you is a much smaller—((Table lookup))a much smaller creature, made of human—humanoid creature made of stone.",
+        "",
+        "%% u2392:0-22, u2393:0-13, u2394:0-3, u2395:0-12, u2396:0-28, u2397:0-55, u2398:0-11, u2399:0-12, u2400:0-64 %%",
+        "DM: This one is only about 10 feet tall.((Golem activation))Again, it looks like a chiseled stone statue about 10 feet tall.",
+        "",
+        "%% u2401:0-9, u2402:0-29, u2403:0-86, u2404:0-5, u2405:0-16, u2406:0-8, u2407:0-18, u2408:0-10, u2409:0-19, u2410:0-37, u2411:0-55, u2412:0-54, u2413:0-19, u2414:0-24, u2415:0-35, u2416:0-66, u2417:0-26, u2418:0-12, u2419:0-9, u2420:0-15, u2421:0-6, u2422:0-37, u2423:0-9, u2424:0-12, u2425:0-29, u2426:0-3, u2427:0-67, u2428:0-9, u2429:0-14, u2430:0-12, u2431:0-77, u2432:0-11, u2433:0-8, u2434:0-21, u2435:0-42, u2436:0-6, u2437:0-17, u2438:0-5, u2439:0-29, u2440:0-12, u2441:0-15, u2442:0-46, u2443:0-3, u2444:0-48, u2445:0-35, u2446:0-147, u2447:0-65, u2448:0-48, u2449:0-23, u2450:0-21, u2451:0-7, u2452:0-9, u2453:0-23, u2454:0-6, u2455:0-44, u2456:0-37, u2457:0-5, u2458:0-18, u2459:0-3, u2460:0-97, u2461:0-17, u2462:0-70, u2463:0-16, u2464:0-39, u2465:0-27, u2466:0-144, u2467:0-85, u2468:0-37, u2469:0-110, u2470:0-55, u2471:0-13, u2472:0-16, u2473:0-54, u2474:0-54, u2475:0-8, u2476:0-41, u2477:0-5, u2478:0-23, u2479:0-6, u2480:0-120, u2481:0-60, u2482:0-140 %%",
+        "((Combat mechanics, Wall of Stone attempt, slowing and tactical discussion))",
+        "",
+        "%% u2483:0-38, u2484:0-7, u2485:0-31, u2486:0-23, u2487:0-42, u2488:0-14, u2489:0-4 %%",
+        "Seeker: ((Spell resources))I, I Dimension Door back up vertically, as Wellby suggests,((Spell resources))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Score.",
+          "DM: I mean, they've been sitting here for a long time. It looks like one touch might disintegrate them.",
+          "DM: On the, on the right-hand side you can see there is—there are 2 chests, both of which are shut and locked, and—",
+          "DM: Standing in front of you on the—the door in front—or sorry, on the wall of the—the wall of the tower—you see—",
+          "Seeker: Oh, God!"
+        ],
+        "after": [
+          "Delwath: Honestly, shouldn't we just—shouldn't we just make camp here and like—",
+          "Seeker: In the pitch dark room full of sand?",
+          "Delwath: Yeah. Wow, we can go back up to the nice room. Like mark the spot, right? Wherever Seeker appears, we're gonna mark it. And do we know how, how deep you are?",
+          "DM: You can judge roughly based on the your experiences of like.",
+          "Seeker: As a badger."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "The party returns and breaks the basement golem",
+      "entities": [
+        {
+          "id": "e029",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2873",
+        "endUid": "u3025"
+      },
+      "lines": [
+        "%% u2873:0-18, u2874:0-5, u2875:0-62, u2876:0-100, u2877:0-29, u2878:0-113, u2879:0-49, u2880:0-37, u2881:0-38 %%",
+        "DM: So you all appear. Yeah, Kenzo, getting the jump on this stone creature as it begins to move towards you.((Room measurements and shelves))",
+        "",
+        "%% u2882:0-49, u2883:0-22, u2884:0-4, u2885:0-3, u2886:0-36, u2887:0-60, u2888:0-19, u2889:0-4, u2890:0-33, u2891:0-76, u2892:0-31, u2893:0-30, u2894:0-5, u2895:0-12, u2896:0-21, u2897:0-17, u2898:0-2, u2899:0-4, u2900:0-10, u2901:0-17, u2902:0-52, u2903:0-21, u2904:0-25, u2905:0-46, u2906:0-21, u2907:0-23, u2908:0-8, u2909:0-14, u2910:0-123, u2911:0-30, u2912:0-3, u2913:0-5, u2914:0-59, u2915:0-33, u2916:0-50, u2917:0-5, u2918:0-31, u2919:0-3, u2920:0-4, u2921:0-10, u2922:0-40, u2923:0-8, u2924:0-10, u2925:0-23, u2926:0-3, u2927:0-15, u2928:0-14, u2929:0-5, u2930:0-70, u2931:0-85, u2932:0-9, u2933:0-71, u2934:0-8, u2935:0-3, u2936:0-3, u2937:0-7, u2938:0-42, u2939:0-30, u2940:0-9, u2941:0-25, u2942:0-31, u2943:0-77, u2944:0-5, u2945:0-13, u2946:0-2, u2947:0-21, u2948:0-24, u2949:0-104, u2950:0-18, u2951:0-63, u2952:0-59, u2953:0-19, u2954:0-5, u2955:0-24, u2956:0-25, u2957:0-38, u2958:0-9, u2959:0-6, u2960:0-5, u2961:0-5, u2962:0-12, u2963:0-102, u2964:0-13, u2965:0-5, u2966:0-23, u2967:0-31, u2968:0-5, u2969:0-26, u2970:0-22, u2971:0-9, u2972:0-11, u2973:0-16, u2974:0-9, u2975:0-11, u2976:0-30, u2977:0-22, u2978:0-26, u2979:0-8, u2980:0-32, u2981:0-5, u2982:0-38, u2983:0-12, u2984:0-28, u2985:0-14, u2986:0-15, u2987:0-54, u2988:0-6, u2989:0-5, u2990:0-56, u2991:0-34, u2992:0-40, u2993:0-61, u2994:0-2, u2995:0-26, u2996:0-5, u2997:0-58, u2998:0-79, u2999:0-56, u3000:0-79, u3001:0-8, u3002:0-14, u3003:0-10, u3004:0-16, u3005:0-20, u3006:0-9, u3007:0-29, u3008:0-47, u3009:0-22, u3010:0-50, u3011:0-84, u3012:0-25, u3013:0-40, u3014:0-20, u3015:0-16, u3016:0-19, u3017:0-2, u3018:0-10, u3019:0-5, u3020:0-26, u3021:0-28, u3022:0-4, u3023:0-13 %%",
+        "((Initiative, attacks, spells, saves, damage and combat rules))",
+        "",
+        "%% u3024:0-59, u3025:0-58 %%",
+        "DM: So with that punch it falls over backwards, cracks in half. And now there is a stone Golem lying on the floor of this.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Sweet.",
+          "DM: What was—Delwath was—where do you roll, Mike? 4. Okay.",
+          "Kenzo: I.",
+          "DM: So.",
+          "Kenzo: 23."
+        ],
+        "after": [
+          "Seeker: All right, everybody.",
+          "Delwath: Okay.",
+          "Seeker: We decided, right?",
+          "Wellby: All right! Open up those chests.",
+          "Kenzo: Let's open them up all right now."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Six literary samples and a sturdy epic",
+      "entities": [
+        {
+          "id": "e041",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e042",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u3326",
+        "endUid": "u3359"
+      },
+      "lines": [
+        "%% u3326:0-53, u3327:0-21, u3328:0-33 %%",
+        "Delwath: I don't know if it's worth it, but I'll fix it. Yeah okay, so I'm doing 6. And I succeeded in all 6 of them.",
+        "",
+        "%% u3329:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u3330:0-144, u3331:0-38, u3332:0-6, u3333:0-29, u3334:0-16, u3335:0-15 %%",
+        "DM: So with 6, you, you—ha—you start to get a sense of this library. Like it's definitely a literary collection. Like it's, it's, it's poems and plays so far, that all that you've uncovered. It's a—4 of the 6 are in Drankorian. 2 are in Elvish. They seem to be—",
+        "",
+        "%% u3336:0-5, u3337:0-58, u3338:0-75, u3339:0-5, u3340:0-2, u3341:0-61, u3342:0-6, u3343:0-13 %%",
+        "((Proposed later mirror examinations))",
+        "",
+        "%% u3344:0-27, u3345:0-5, u3346:0-17, u3347:0-19, u3348:0-45 %%",
+        "Delwath: I mean, I can try again to—if we—we'd have to like—before we teleport, I'll try again to pick one up with Mage Hand.",
+        "",
+        "%% u3349:0-112 %%",
+        "Kenzo: The sturdiest one—that you've picked up 6 of them already. You know which one is sturdy. Pick up the sturdy one.",
+        "",
+        "%% u3350:0-49 %%",
+        "Delwath: There you go. Is one of these particularly sturdy?",
+        "",
+        "%% u3351:0-92 %%",
+        "DM: Yes, one of—one of—there's a—there's 1 that's a long sort of epic poem that's fairly sturdy.",
+        "",
+        "%% u3352:0-5 %%",
+        "Delwath: Okay.",
+        "",
+        "%% u3353:0-9 %%",
+        "DM: Oh, yeah.",
+        "",
+        "%% u3354:0-28 %%",
+        "Delwath: Will bring that one with us.",
+        "",
+        "%% u3355:0-44 %%",
+        "Kenzo: Oh, yeah, we'll show that one to the mirror.",
+        "",
+        "%% u3356:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u3357:0-30 %%",
+        "Kenzo: And or the other things. Yeah.",
+        "",
+        "%% u3358:0-46 %%",
+        "Delwath: Okay. So it's literary. But we don't know how.",
+        "",
+        "%% u3359:0-102 %%",
+        "DM: Scrolls are all like works of literature. They're like poems and epics and plays and things like that.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: 20.",
+          "DM: But that means you've got a 50% chance for each item. That one's great.",
+          "Kenzo: Working on.",
+          "Delwath: Well, but hold on, I can—I can—at—I can fix one failure with my Favor of the Gods.",
+          "DM: Okay, so that."
+        ],
+        "after": [
+          "Kenzo: It's a it's a written by Apollyon. But when he was a ghost writer yeah.",
+          "Delwath: Okay, so let's.",
+          "DM: Stone chests, both of which are too heavy. And you're weak.",
+          "Delwath: We gotta open them.",
+          "Kenzo: But but we're doing it after."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "The chests are opened and treasure escapes the airless room",
+      "entities": [
+        {
+          "id": "e035",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e036",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e037",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e038",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e039",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e040",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u3376",
+        "endUid": "u3539"
+      },
+      "lines": [
+        "%% u3376:0-15, u3377:0-7, u3378:0-16, u3379:0-9, u3380:0-67, u3381:0-27 %%",
+        "DM: The, the chests. Yes, so one chest, which as far as Wellby could see anyway didn't seem to be trapped but is locked, has inside it a magic book.",
+        "",
+        "%% u3382:0-46, u3383:0-55, u3384:0-47, u3385:0-45, u3386:0-109, u3387:0-74, u3388:0-11 %%",
+        "DM: The other chest, which does seem to be trapped with—well, Wellby noticed like a little arcane sort of sigil, very small faint writing near the lock, which you presume is some kind of magic trap. That one had 4 scrolls in it, plus what seemed like scrollmaking or magic writing supplies, also all magical. Both of the chests are quite heavy. Like they're, yeah, hundreds of pounds themselves.",
+        "",
+        "%% u3389:0-44, u3390:0-46, u3391:0-10, u3392:0-60, u3393:0-16, u3394:0-24, u3395:0-10, u3396:0-105, u3397:0-53, u3398:0-41, u3399:0-19, u3400:0-13, u3401:0-37, u3402:0-5, u3403:0-35, u3404:0-21, u3405:0-88, u3406:0-15, u3407:0-3, u3408:0-7, u3409:0-8, u3410:0-7, u3411:0-59, u3412:0-3 %%",
+        "((Lock arithmetic, spell-component rules, checks and teleport probability discussion))",
+        "",
+        "%% u3413:0-64, u3414:0-46, u3415:0-3, u3416:0-58, u3417:0-26, u3418:0-9 %%",
+        "DM: So Wellby bends down and is working a little bit on the lock, and you hear the click as the lock opens, and then the—as you push the lid open, you also hear a whooshing sound as all the air in the room vanishes.",
+        "",
+        "%% u3419:0-8, u3420:0-29, u3421:0-5 %%",
+        "((Lock arithmetic, spell-component rules, checks and teleport probability discussion))",
+        "",
+        "%% u3422:0-96 %%",
+        "Delwath: All the air in the room vanishes. So now we can't breathe. Is that where you're going with this?",
+        "",
+        "%% u3423:0-58 %%",
+        "Seeker: You guys waited till after I was awake. Right? Yeah, yeah.",
+        "",
+        "%% u3424:0-12 %%",
+        "Delwath: Long rested.",
+        "",
+        "%% u3425:0-14, u3426:0-120 %%",
+        "Wellby: Piece of cake. I'll telepathically say, 'Grab the stuff from this one. I'm gonna open the other and then we'll teleport on out of here.'",
+        "",
+        "%% u3427:0-45, u3428:0-39, u3429:0-44 %%",
+        "DM: Okay, you've got like—I don't know who's the—you all have a plus 2 Con, right? Yeah. So you have 3 min before you're suffocating.",
+        "",
+        "%% u3430:0-15, u3431:0-24, u3432:0-5 %%",
+        "((Lock arithmetic, spell-component rules, checks and teleport probability discussion))",
+        "",
+        "%% u3433:0-67, u3434:0-12 %%",
+        "DM: This one is trapped, you know. There's a little arcane sigil on it. Can we just.",
+        "",
+        "%% u3435:0-13, u3436:0-13, u3437:0-27, u3438:0-22, u3439:0-9, u3440:0-8, u3441:0-36 %%",
+        "((Lock arithmetic, spell-component rules, checks and teleport probability discussion))",
+        "",
+        "%% u3442:0-13 %%",
+        "Seeker: Dispel Magic.",
+        "",
+        "%% u3443:0-24, u3444:0-41, u3445:0-5, u3446:0-70, u3447:0-37, u3448:0-23, u3449:0-25, u3450:0-7, u3451:0-13, u3452:0-16, u3453:0-25, u3454:0-23, u3455:0-71, u3456:0-36, u3457:0-39, u3458:0-35, u3459:0-96, u3460:0-16, u3461:0-38, u3462:0-12, u3463:0-9, u3464:0-26, u3465:0-4 %%",
+        "((Lock arithmetic, spell-component rules, checks and teleport probability discussion))",
+        "",
+        "%% u3466:0-5, u3467:0-18 %%",
+        "DM: Okay trap is dispelled.",
+        "",
+        "%% u3468:0-22 %%",
+        "((Lock arithmetic, spell-component rules, checks and teleport probability discussion))",
+        "",
+        "%% u3469:0-19 %%",
+        "Wellby: I'm gonna open the.",
+        "",
+        "%% u3470:0-39, u3471:0-31, u3472:0-32, u3473:0-26, u3474:0-50, u3475:0-5, u3476:0-13, u3477:0-11, u3478:0-21, u3479:0-11, u3480:0-32, u3481:0-6, u3482:0-14, u3483:0-16 %%",
+        "((Lock arithmetic, spell-component rules, checks and teleport probability discussion))",
+        "",
+        "%% u3484:0-12 %%",
+        "DM: 23 opens it.",
+        "",
+        "%% u3485:0-5 %%",
+        "Seeker: Nice.",
+        "",
+        "%% u3486:0-3, u3487:0-39 %%",
+        "DM: 22, and this one you've dispelled the trap.",
+        "",
+        "%% u3488:0-41 %%",
+        "Kenzo: Let's get the shit and and go. It's fine.",
+        "",
+        "%% u3489:0-16, u3490:0-11 %%",
+        "Wellby: Get out of here. Yeah, yeah.",
+        "",
+        "%% u3491:0-4, u3492:0-53 %%",
+        "Seeker: Kath—Seeker uses the last of his remaining breath to cast—",
+        "",
+        "%% u3493:0-5 %%",
+        "Delwath: Help!",
+        "",
+        "%% u3494:0-10 %%",
+        "Seeker: Teleports.",
+        "",
+        "%% u3495:0-9, u3496:0-9, u3497:0-11, u3498:0-10, u3499:0-87, u3500:0-9, u3501:0-32, u3502:0-35, u3503:0-8, u3504:0-68, u3505:0-19, u3506:0-29, u3507:0-15, u3508:0-11, u3509:0-35, u3510:0-66, u3511:0-11, u3512:0-46, u3513:0-20, u3514:0-5, u3515:0-104, u3516:0-8, u3517:0-8, u3518:0-55, u3519:0-3, u3520:0-76, u3521:0-19, u3522:0-50, u3523:0-18, u3524:0-13, u3525:0-6, u3526:0-23, u3527:0-65, u3528:0-33, u3529:0-41, u3530:0-10, u3531:0-13, u3532:0-5, u3533:0-7 %%",
+        "((Lock arithmetic, spell-component rules, checks and teleport probability discussion))",
+        "",
+        "%% u3534:0-23 %%",
+        "DM: Sweet, but you succeed.",
+        "",
+        "%% u3535:0-10 %%",
+        "Kenzo: For Adele.",
+        "",
+        "%% u3536:0-26 %%",
+        "Wellby: No, not never. Yeah, yeah.",
+        "",
+        "%% u3537:0-8 %%",
+        "Seeker: Amazing.",
+        "",
+        "%% u3538:0-46, u3539:0-8 %%",
+        "DM: And you appear on the surface of Vindristjarna above a.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: But but we're doing it after.",
+          "Delwath: Wait, wait, wait, wait! Wait, hold on! Couldn't—oh, he can't cast spells. Polymorph. Never mind, I was gonna say—oh, wait, could Seeker polymorph one of us into a super strong something, and then pick up the chest? The super strong person would pick up the chest and then we teleport back to the ship as the polymorphed.",
+          "Wellby: I am very good at opening chests and disarming chests. I.",
+          "Delwath: Kenzo volunteered to take the blast. That one will stay far away.",
+          "Wellby: Detect magic on them. They're."
+        ],
+        "after": [
+          "Seeker: Longer! Oh!",
+          "DM: Is like pacing back and forth, having an argument with—no, I guess Kethra is gone, so he's like—he's like standing like, 'Yes, give him'—he's like saying, 'Give him 30 more minutes, I know they'll be back,' to, to Amil, like 'Are you sure?' And then you appear and he's like, 'I told you. No problem. Hey, we're flying over a jungle now. Was that supposed to happen?'",
+          "Delwath: Yes.",
+          "Kenzo: Yes.",
+          "Delwath: It's all good."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Faldrak takes the lenses to his workshop",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e034",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e026",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u3561",
+        "endUid": "u3596"
+      },
+      "lines": [
+        "%% u3561:0-97, u3562:0-26 %%",
+        "Seeker: Here, look, Faldrak, we got—we found these lenses. Can you figure out how to assemble them into a—some kind of useful thing?",
+        "",
+        "%% u3563:0-3, u3564:0-14, u3565:0-5, u3566:0-24, u3567:0-27, u3568:0-4, u3569:0-12, u3570:0-4 %%",
+        "DM: See—like holds it. 'Whoa, that's quite impressive. Fascinating. Where did you—hmm. I only knew—hmm.'",
+        "",
+        "%% u3571:0-56, u3572:0-36, u3573:0-11, u3574:0-18, u3575:0-7, u3576:0-20, u3577:0-86, u3578:0-78 %%",
+        "DM: 'I think I can definitely do something with this. I gotta dig back through my notes. You know, there was a telescope maker in Sembara, dwarf I had heard of. They were—they would be perfect for this. I, I got them. Maybe I can write to them and ask about their designs, if we could figure out just how to set this up right.'",
+        "",
+        "%% u3579:0-43 %%",
+        "Seeker: What, what do you think it would let us do?",
+        "",
+        "%% u3580:0-25 %%",
+        "DM: Well, see quite far away.",
+        "",
+        "%% u3581:0-40, u3582:0-58 %%",
+        "Seeker: But they're magical lenses, aren't they? These aren't—this isn't just optics we're talking about.",
+        "",
+        "%% u3583:0-30, u3584:0-40, u3585:0-39 %%",
+        "DM: I think we have to experiment, but magical lenses let—might let you see a distance that a normal eye could not.",
+        "",
+        "%% u3586:0-6, u3587:0-50, u3588:0-17 %%",
+        "Seeker: Indeed, see what you can do aboard the ship, because we're—we might want to—",
+        "",
+        "%% u3589:0-11 %%",
+        "DM: Need a way.",
+        "",
+        "%% u3590:0-32 %%",
+        "Seeker: Useful sooner rather than later.",
+        "",
+        "%% u3591:0-10, u3592:0-106 %%",
+        "DM: Hmm, okay. And he like completely ignores the fact that he was just flying the ship and goes to work in his workshop.",
+        "",
+        "%% u3593:0-5, u3594:0-37 %%",
+        "Seeker: Nice. Well, I'll take over flying the ship.",
+        "",
+        "%% u3595:0-57, u3596:0-4 %%",
+        "DM: Well, it keeps going straight as long as you're just—yeah—bad.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Job.",
+          "DM: He's like staring at intently at the book.",
+          "Seeker: Don't. Don't worry about that.",
+          "DM: What did you find? Yeah, what did.",
+          "Delwath: We find. Can you identify it?"
+        ],
+        "after": [
+          "DM: The book, you cast Identify on it?",
+          "Delwath: Yeah.",
+          "DM: It is a manual of stone golems.",
+          "Delwath: What is that?",
+          "Seeker: Interesting."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "The recovered book is a manual of stone golems",
+      "entities": [
+        {
+          "id": "e035",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u3597",
+        "endUid": "u3616"
+      },
+      "lines": [
+        "%% u3597:0-8, u3598:0-24 %%",
+        "DM: The book, you cast Identify on it?",
+        "",
+        "%% u3599:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u3600:0-31 %%",
+        "DM: It is a manual of stone golems.",
+        "",
+        "%% u3601:0-13 %%",
+        "Delwath: What is that?",
+        "",
+        "%% u3602:0-12 %%",
+        "Seeker: Interesting.",
+        "",
+        "%% u3603:0-26 %%",
+        "DM: Like that one we took out.",
+        "",
+        "%% u3604:0-21 %%",
+        "Delwath: Create a stone golem.",
+        "",
+        "%% u3605:0-15 %%",
+        "DM: A stone golem.",
+        "",
+        "%% u3606:0-4 %%",
+        "Kenzo: Yes.",
+        "",
+        "%% u3607:0-12, u3608:0-42 %%",
+        "DM: Now it takes 90 days and 80,000 gold worth of supplies.",
+        "",
+        "%% u3609:0-22, u3610:0-9, u3611:0-27, u3612:0-3 %%",
+        "((Brief reactions))",
+        "",
+        "%% u3613:0-25 %%",
+        "Kenzo: Man. We have 80,000 gold.",
+        "",
+        "%% u3614:0-11 %%",
+        "DM: Is, though.",
+        "",
+        "%% u3615:0-22 %%",
+        "Delwath: We don't have 90 days.",
+        "",
+        "%% u3616:0-56 %%",
+        "DM: Takes 90 days of work and 80,000 gold worth of supplies.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Need a way.",
+          "Seeker: Useful sooner rather than later.",
+          "DM: Hmm, okay. And he like completely ignores the fact that he was just flying the ship and goes to work in his workshop.",
+          "Seeker: Nice. Well, I'll take over flying the ship.",
+          "DM: Well, it keeps going straight as long as you're just—yeah—bad."
+        ],
+        "after": [
+          "Kenzo: Wait, but 90 days in what dimension?",
+          "Seeker: I like the way you think, but no, we don't know—we—I don't think we can do that.",
+          "Kenzo: No, seriously, like if we were on the Feywild, could we do 90 days in the Feywild with 80,000 gold and then make a golem there?",
+          "DM: Yeah, but then you might come back 2 years later.",
+          "Kenzo: Or one day later."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "The four scrolls are identified",
+      "entities": [
+        {
+          "id": "e036",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e037",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e038",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e039",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u3633",
+        "endUid": "u3688"
+      },
+      "lines": [
+        "%% u3633:0-17, u3634:0-51, u3635:0-23 %%",
+        "DM: Let's see, one is—I'm just gonna pick some random wizard spells here—one is Reverse Gravity.",
+        "",
+        "%% u3636:0-38, u3637:0-28, u3638:0-100, u3639:0-49, u3640:0-84, u3641:0-7, u3642:0-5 %%",
+        "((Initial class-list confusion and general scroll-casting rules))",
+        "",
+        "%% u3643:0-18, u3644:0-53 %%",
+        "Delwath: I could cast that. Do you have to? You don't have to have slots, do you?",
+        "",
+        "%% u3645:0-57 %%",
+        "DM: Is that on the war that's not on the Warlock list, is it?",
+        "",
+        "%% u3646:0-19 %%",
+        "Delwath: Sorcerer, sorcerer.",
+        "",
+        "%% u3647:0-28 %%",
+        "DM: Oh, yeah, you could cast it.",
+        "",
+        "%% u3648:0-5 %%",
+        "((Initial class-list confusion and general scroll-casting rules))",
+        "",
+        "%% u3649:0-7, u3650:0-35, u3651:0-9, u3652:0-9, u3653:0-16, u3654:0-2, u3655:0-8, u3656:0-5, u3657:0-12, u3658:0-16, u3659:0-11, u3660:0-5 %%",
+        "DM: One is—let's pick another random one here—Passwall. So that's—that, I think, is on Seeker's class list. One is Private Sanctum and one is—yeah.",
+        "",
+        "%% u3661:0-36, u3662:0-21 %%",
+        "Delwath: None of us can cast Private Sanctum. That's pretty useful.",
+        "",
+        "%% u3663:0-55 %%",
+        "((Initial class-list confusion and general scroll-casting rules))",
+        "",
+        "%% u3664:0-56, u3665:0-55 %%",
+        "Delwath: Now the nice thing about Private Sanctum is you cannot—it's completely warded. You can't—no planar travel, no—",
+        "",
+        "%% u3666:0-18, u3667:0-8 %%",
+        "DM: And one is Sending. Sending.",
+        "",
+        "%% u3668:0-8, u3669:0-40, u3670:0-29, u3671:0-26, u3672:0-29, u3673:0-15, u3674:0-45, u3675:0-23, u3676:0-5, u3677:0-5, u3678:0-56, u3679:0-29, u3680:0-85, u3681:0-80, u3682:0-108, u3683:0-85, u3684:0-66 %%",
+        "((Initial class-list confusion and general scroll-casting rules))",
+        "",
+        "%% u3685:0-4, u3686:0-40, u3687:0-35, u3688:0-49 %%",
+        "DM: Yes, so Seeker can cast Passwall and Sending, nobody can cast Private Sanctum, and Delwath can cast Reverse Gravity. There are also—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You don't know.",
+          "Delwath: Yeah, no, let's do this after we kill Apollyon. I agree.",
+          "Kenzo: Wait, wait. Don't you think this we should figure out how to use? Like I feel like, I feel—okay, okay, alright. Well, let's do Identify the scrolls at least. What are the scrolls? What are the magic scrolls?",
+          "DM: Okay, there's there are 4 scrolls. I just wrote down 4 spells. I didn't decide what spells they were. They are all spells. There are some good spells and some spells that you don't know how to use.",
+          "Seeker: That's kind."
+        ],
+        "after": [
+          "DM: Materials that would allow you to scribe, all prepared, would allow you to scribe with a day's work up to 3 spells of up to 3rd level, and one spell up, up to 5th level.",
+          "Seeker: That's of any kind?",
+          "Delwath: It has to be a spell, we know, presumably.",
+          "DM: It has to be a spell, you know.",
+          "Delwath: But that could be useful."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "The scroll kit’s limits",
+      "entities": [
+        {
+          "id": "e040",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u3689",
+        "endUid": "u3740"
+      },
+      "lines": [
+        "%% u3689:0-40, u3690:0-44, u3691:0-13, u3692:0-14, u3693:0-18, u3694:0-3, u3695:0-29 %%",
+        "DM: Materials that would allow you to scribe, all prepared, would allow you to scribe with a day's work up to 3 spells of up to 3rd level, and one spell up, up to 5th level.",
+        "",
+        "%% u3696:0-19 %%",
+        "Seeker: That's of any kind?",
+        "",
+        "%% u3697:0-42 %%",
+        "Delwath: It has to be a spell, we know, presumably.",
+        "",
+        "%% u3698:0-31 %%",
+        "DM: It has to be a spell, you know.",
+        "",
+        "%% u3699:0-25, u3700:0-11, u3701:0-52, u3702:0-72, u3703:0-32, u3704:0-39, u3705:0-48, u3706:0-46, u3707:0-106, u3708:0-66, u3709:0-21, u3710:0-14, u3711:0-5, u3712:0-100, u3713:0-14, u3714:0-20, u3715:0-18, u3716:0-81, u3717:0-7, u3718:0-2, u3719:0-114, u3720:0-6, u3721:0-16, u3722:0-45, u3723:0-5, u3724:0-60, u3725:0-30, u3726:0-55, u3727:0-23, u3728:0-36, u3729:0-44, u3730:0-13, u3731:0-21, u3732:0-24, u3733:0-14, u3734:0-8, u3735:0-29 %%",
+        "((Plans for which spells to scribe and onward travel))",
+        "",
+        "%% u3736:0-65 %%",
+        "Delwath: Yeah, there was a kit, basically of, make your own spell scrolls.",
+        "",
+        "%% u3737:0-70 %%",
+        "DM: There's a make your own spell kit, basically make your own scroll kit.",
+        "",
+        "%% u3738:0-25 %%",
+        "Kenzo: How many scrolls we make?",
+        "",
+        "%% u3739:0-70, u3740:0-56 %%",
+        "DM: You can make 4, 3 can be up the 3rd level, one can be up to 5th level. Yeah. And with the kit, each one only takes 8 h of work.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: You have to have the spell to be able to use the scroll.",
+          "DM: So if the spell is on your—so if you, if you have, if you have a scroll and the spell is on your classes spell list—",
+          "DM: You can read the scroll and cast the spell without providing material components. If it's on your class list but a higher level than you can normally cast, you have to make an ability check using your spell casting ability modifier to determine if you succeed in casting it.",
+          "Delwath: Right, so I'd have to make a check to cast the 7th-level ones. Oh.",
+          "DM: Yes, so Seeker can cast Passwall and Sending, nobody can cast Private Sanctum, and Delwath can cast Reverse Gravity. There are also—"
+        ],
+        "after": [
+          "Kenzo: And then what's the deal with the lenses again?",
+          "DM: You can make a telescope with them presumably one that's somewhat better than Wellby's crappy spyglass. That doesn't let you see very far at all.",
+          "Seeker: He's got tall.",
+          "DM: Around, with that.",
+          "Delwath: Like a a proper telescope."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "Milo’s knowledge of the Sea of Storms",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u3822",
+        "endUid": "u3829"
+      },
+      "lines": [
+        "%% u3822:0-44 %%",
+        "Delwath: What does Milo know about the Sea of Storms?",
+        "",
+        "%% u3823:0-4 %%",
+        "Wellby: Hmm.",
+        "",
+        "%% u3824:0-134, u3825:0-26, u3826:0-9, u3827:0-132, u3828:0-4, u3829:0-87 %%",
+        "DM: It's difficult to sail. He's never tried to approach too close to Drankor because the closer you get to shore, the worse it is. There's unexpected shoals, there's, you know, wind that seems to come from a unpredictable direction and shifts. He's not—he's not come this close to shore. He's, he's sailed like—like from Nevos, like through this, the like western edge of the Sea of Storms to the south.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I mean, the vision where I had—or rye—vision Kenzo had was of a storm, right?",
+          "DM: Yup!",
+          "Kenzo: The jade was not.",
+          "Seeker: Really strong.",
+          "DM: It disappeared into a storm. Yes."
+        ],
+        "after": [
+          "Delwath: Isn't the jade obviously on the creepy circular, perfectly circular island? Like it's gotta be, right?",
+          "Kenzo: Is that? Is that where we are?",
+          "Delwath: Wow! It's in the sea of storms. But like.",
+          "Seeker: That's.",
+          "Delwath: But that's where we're going to end up at some point. We have to end up there at some point, right? Like yes, so—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "Speculation about Dimitaur and the last jade",
+      "entities": [
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e030",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u3838",
+        "endUid": "u3843"
+      },
+      "lines": [
+        "%% u3838:0-73 %%",
+        "Kenzo: Isn't the perfectly circular place where Apollyon's—and where's Dimitaur?",
+        "",
+        "%% u3839:0-46, u3840:0-89, u3841:0-21, u3842:0-3, u3843:0-42 %%",
+        "Delwath: He's probably guarding the last piece of jade. My gut feeling says the cave is a dead end, and we should head into the sea of storms and try and find our way. But it could also be a suicidally stupid idea.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Isn't the jade obviously on the creepy circular, perfectly circular island? Like it's gotta be, right?",
+          "Kenzo: Is that? Is that where we are?",
+          "Delwath: Wow! It's in the sea of storms. But like.",
+          "Seeker: That's.",
+          "Delwath: But that's where we're going to end up at some point. We have to end up there at some point, right? Like yes, so—"
+        ],
+        "after": [
+          "Seeker: I feel like there's gonna be some evidence of something in the cave. So we should spend an hour looking there and then.",
+          "Kenzo: Yeah, we gotta go check it out first because there might be something in there that gives us. Otherwise we're just going straight into the into the ocean, and we don't know what the fuck about anything, but we might find stuff, you know.",
+          "Delwath: Alright!",
+          "Seeker: Yeah.",
+          "Kenzo: So here's the other question, and actually, okay, this—maybe will be smart people for this. I was going to say before we go, we should show the book to the mirror because that'd be fun, but maybe we should save the mirror charge if there is one, because if we find something in the cave, we should show it to the mirror to figure out what the fuck happened with jade."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

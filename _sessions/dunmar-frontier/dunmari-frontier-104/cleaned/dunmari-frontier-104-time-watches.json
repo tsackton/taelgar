@@ -1,0 +1,159 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-time-markers.json",
+    "sha256": "e1462b591a01863494f56cf862a0564283d083e3e555e03d08e521d83b8deeda"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-transcript.md",
+    "sha256": "23fe5307641c6af387a2563764de39e17721dbf511368be8f7da81fb41951e0e"
+  },
+  "dateAssessment": "The working calendar is YAML’s May 14–16, 1749, independently anchored to May 14 by t03/t04 and extended by two completed overnights (t05/t19). The transcript-only assessment is matched. Session 103 closes with the simulacrum’s teleport in late afternoon May 14 (u3073–u3116); session 104 resumes about fifteen minutes later. Session 105 opens over the same jungle cave in the afternoon of May 16 (u0001–u0039), supporting the closing arrival watch. The second golem fight occurs before the second overnight in this extraction; the earlier rest-first plan was superseded (u2669–u2671, u2706–u2720, u2826–u3025, u3135, u3390–u3424). Exact start/end clocks for that rest remain approximate: its dusk-to-dawn placement is inferred before the post-return 06:00–06:30 clock. The separately registered session 107 is a May 18 narrative covering the beach landing, camp and pilgrimage hostel; it is an intervening episode, not a direct transcript handoff from session 106 to 108.",
+  "watches": [
+    {
+      "day": "May 14, 1749",
+      "startDate": "1749-05-14",
+      "endDate": "1749-05-14",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Hot afternoon aboard ship; scry finishes roughly fifteen minutes after the simulacrum’s teleport.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03"
+      ]
+    },
+    {
+      "day": "May 14, 1749",
+      "startDate": "1749-05-14",
+      "endDate": "1749-05-14",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Sunset explicitly dated May 14 during the continuing southbound flight.",
+      "markers": [
+        "t04"
+      ]
+    },
+    {
+      "day": "May 14–15, 1749",
+      "startDate": "1749-05-14",
+      "endDate": "1749-05-15",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Completed overnight rest spans sunset to waking; Kenzo’s dream has its own unmeasured internal time.",
+      "markers": [
+        "t05",
+        "t06"
+      ],
+      "sourceRanges": [
+        [
+          "u0651",
+          "u0657"
+        ]
+      ]
+    },
+    {
+      "day": "May 15, 1749",
+      "startDate": "1749-05-15",
+      "endDate": "1749-05-15",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Morning tower approach; brief investigations and three ten-minute Radiance intervals precede Seeker’s digging.",
+      "markers": [
+        "t07",
+        "t08",
+        "t09",
+        "t10",
+        "t11",
+        "t12",
+        "t13",
+        "t14",
+        "t15",
+        "t16"
+      ],
+      "sourceRanges": [
+        [
+          "u0878",
+          "u0881"
+        ]
+      ]
+    },
+    {
+      "day": "May 15, 1749",
+      "startDate": "1749-05-15",
+      "endDate": "1749-05-15",
+      "startWatch": "morning",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Waiting through the day reaches afternoon/evening; short-rest credit precedes the return fight.",
+      "markers": [
+        "t17",
+        "t18"
+      ]
+    },
+    {
+      "day": "May 15–16, 1749",
+      "startDate": "1749-05-15",
+      "endDate": "1749-05-16",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Completed overnight rest precedes chest opening; Delwath’s ten-minute examination overlaps Seeker settling to sleep.",
+      "markers": [
+        "t19",
+        "t20"
+      ]
+    },
+    {
+      "day": "May 16, 1749",
+      "startDate": "1749-05-16",
+      "endDate": "1749-05-16",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Back aboard ship, the DM states approximately 06:00–06:30.",
+      "markers": [
+        "t21"
+      ]
+    },
+    {
+      "day": "May 16, 1749",
+      "startDate": "1749-05-16",
+      "endDate": "1749-05-16",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "Onward flight reaches the cave; session 105 retrospectively confirms this afternoon jungle setting.",
+      "markers": [
+        "t22"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 103 handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-transcript.md",
+      "sha256": "9e2d6660df0c2bc3a80e4c5694cc7e28f029639db7a14f11e4123dea3a808490"
+    },
+    {
+      "label": "Session 105 handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-transcript.md",
+      "sha256": "e39d9a4ca7c6eb7fbac87daab1d0b30a1651353e6e240d0db648d0cd20ca1b6b"
+    },
+    {
+      "label": "Session 107 registered narrative",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-107/cleaned/dunmari-frontier-107-source-prepared.md",
+      "sha256": "39682711279b31db958790d59901476d5669c1649af079b8c5275be5c19bd9ef"
+    },
+    {
+      "label": "Existing Session 104 note",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 104 (DuFr).md",
+      "sha256": "c8eacfef6133be20231ec03892e7b63ae752847c3b021e8c4345ba85ced8999e"
+    }
+  ]
+}
