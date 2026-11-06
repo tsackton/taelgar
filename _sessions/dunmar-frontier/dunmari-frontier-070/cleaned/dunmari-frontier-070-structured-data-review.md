@@ -18,7 +18,7 @@ Working adventure date: November 23, 1748, from the session YAML. The transcript
 | Dream palace | Morning → midday (local) | stated | **Hralgar's dream** · Dream sunlight changes from early morning to midday in a blink; no measured adventure time. | t08 |
 | Dream palace | Open (local) | — | **Hralgar's dream** · Dream sun repeatedly rises and sets as Hralgar speaks; no civil dates can be counted. | t09 |
 | November 23, 1748 | Afternoon | inferred | Return to the tower after the dream; no external elapsed interval is established. | t10 |
-| Dream palace | Open (local) | — | **Hralgar's dream** · Reentry into the dream struggle; its local sky and elapsed time are unspecified. | t11 |
+| Dream palace | Open (local) | — | **Hralgar's dream** · Wellby returns; Seeker and Riswynn follow; Delwath attacks there. Kenzo’s position after the recitation remains unknown. | t11 |
 
 ## Locations
 
