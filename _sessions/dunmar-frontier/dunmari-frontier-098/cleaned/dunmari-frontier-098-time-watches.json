@@ -1,0 +1,225 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-098/cleaned/dunmari-frontier-098-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-098/cleaned/dunmari-frontier-098-time-markers.json",
+    "sha256": "cdbaa1cf77cb78807c4441e1405a3ec50fa2b25c1b26e3d5531d40a6aa1f2950"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-098/cleaned/dunmari-frontier-098-transcript.md",
+    "sha256": "0187460ec4860892c91cc533f7affde6c2d0b7d354a5dfb2c480b3f45edd1d0f"
+  },
+  "dateAssessment": "Working dates follow the YAML calendar, May 5–7, 1749, conditional on its May 5 start. The transcript independently names only the beginning of May. Two explicit overnight transitions fit that span; the later “three days / 22 days left” remark remains unresolved in t18, so yamlCheck is compatible rather than matched. All May 7 rows use the third played date; a human decision that t18 implies an extra day would require revisiting those rows. The dated Session 98 record instead says 23 days remain. Closing bedtime is played; the four o’clock departure is still a plan. The first sailing day’s greater-than-twelve-hour total includes its earlier legs, and the simultaneous scout/recruitment tracks add no extra days. No interval is imported across sessions 095–097, including the intervening narrative-only 096.",
+  "watches": [
+    {
+      "day": "May 5, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Nevium arrival is pre-dawn, about 4 a.m.; Ursk had morning light.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1749-05-05",
+      "endDate": "1749-05-05"
+    },
+    {
+      "day": "May 5, 1749",
+      "startWatch": "dawn",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Early outbound leg takes three or four hours; noon minus the next four hours puts its end in morning.",
+      "markers": [
+        "t02"
+      ],
+      "startDate": "1749-05-05",
+      "endDate": "1749-05-05",
+      "sourceRanges": [
+        [
+          "u0569",
+          "u0577"
+        ]
+      ]
+    },
+    {
+      "day": "May 5, 1749",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "Another four hours of sailing reaches noon.",
+      "markers": [
+        "t03"
+      ],
+      "startDate": "1749-05-05",
+      "endDate": "1749-05-05"
+    },
+    {
+      "day": "May 5, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Sunset after more than twelve hours’ sailing in all; Delwath’s ten-minute scry follows.",
+      "markers": [
+        "t04",
+        "t05"
+      ],
+      "startDate": "1749-05-05",
+      "endDate": "1749-05-05"
+    },
+    {
+      "day": "May 5–6, 1749",
+      "startWatch": "midnight",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Overnight rest ends in morning; the eight-hour convention places its start in the midnight watch.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1749-05-05",
+      "endDate": "1749-05-06"
+    },
+    {
+      "day": "May 6, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Morning coastal return takes about an hour and a half.",
+      "markers": [
+        "t07"
+      ],
+      "scope": "Party",
+      "startDate": "1749-05-06",
+      "endDate": "1749-05-06"
+    },
+    {
+      "day": "May 6, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Morning approach precedes about an hour recruiting at the inn.",
+      "markers": [
+        "t08",
+        "t09"
+      ],
+      "scope": "Delwath",
+      "startDate": "1749-05-06",
+      "endDate": "1749-05-06"
+    },
+    {
+      "day": "May 6, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Martino visit overlaps the companions’ sailing; Delwath returns down by lunchtime.",
+      "markers": [
+        "t10"
+      ],
+      "scope": "Split-party visit and sailing",
+      "startDate": "1749-05-06",
+      "endDate": "1749-05-06",
+      "sourceRanges": [
+        [
+          "u1778",
+          "u1781"
+        ]
+      ]
+    },
+    {
+      "day": "May 6, 1749",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Lunchtime reunion; crew emerges five minutes later; everyone aboard by noon or one.",
+      "markers": [
+        "t11",
+        "t12",
+        "t13"
+      ],
+      "startDate": "1749-05-06",
+      "endDate": "1749-05-06"
+    },
+    {
+      "day": "May 6, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Sunset wind shifts easterly; sailing continues toward Castrella, with the remaining hours only estimated.",
+      "markers": [
+        "t14"
+      ],
+      "startDate": "1749-05-06",
+      "endDate": "1749-05-06"
+    },
+    {
+      "day": "May 7, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Daybreak reveals Castrella; exact harbor-entry time remains open.",
+      "markers": [
+        "t15"
+      ],
+      "startDate": "1749-05-07",
+      "endDate": "1749-05-07"
+    },
+    {
+      "day": "May 7, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Half an hour passes in Tullus’s shop during the morning errands.",
+      "markers": [
+        "t16"
+      ],
+      "scope": "Wellby",
+      "startDate": "1749-05-07",
+      "endDate": "1749-05-07"
+    },
+    {
+      "day": "May 7, 1749",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Errands corrected to lunchtime; later three-days / 22-left remark remains unresolved.",
+      "markers": [
+        "t17",
+        "t18"
+      ],
+      "startDate": "1749-05-07",
+      "endDate": "1749-05-07"
+    },
+    {
+      "day": "May 7, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Mid-afternoon when the party returns to town for rumors.",
+      "markers": [
+        "t19"
+      ],
+      "startDate": "1749-05-07",
+      "endDate": "1749-05-07"
+    },
+    {
+      "day": "May 7, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Evening songs precede dinner about 9 p.m.; bedtime follows, with departure still planned.",
+      "markers": [
+        "t20",
+        "t21",
+        "t22"
+      ],
+      "startDate": "1749-05-07",
+      "endDate": "1749-05-07"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated Session 98 record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 98 (DuFr).md",
+      "sha256": "4708096deef57398e1dcc9a6b6c259e263917bb3a4b54f9fc9796cefe6d4ba43"
+    }
+  ]
+}

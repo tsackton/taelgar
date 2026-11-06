@@ -1,0 +1,730 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-098",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-098/cleaned/dunmari-frontier-098-session.yaml",
+    "sessionYamlSha256": "7861119b82b6209df7f142ee5e46336f753d00e339fe7ffc9b7d2107c41f7bf2",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-098/cleaned/dunmari-frontier-098-transcript.md",
+    "transcriptSha256": "0187460ec4860892c91cc533f7affde6c2d0b7d354a5dfb2c480b3f45edd1d0f",
+    "yamlDates": {
+      "start": "1749-05-05",
+      "end": "1749-05-07"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0041",
+        "endUid": "u0044"
+      },
+      "reading": "Teleportation changes the party’s local light from morning in Ursk to pre-dawn at Nevium; Delwath estimates about 4 a.m.",
+      "evidence": [
+        {
+          "startUid": "u0041",
+          "endUid": "u0044",
+          "quote": "DM: The second thing you notice is the darkness: from morning light in Ursk to the pre-dawn inky blackness, only a thin crescent moon casting a faint light on the water.\n\n"
+        },
+        {
+          "startUid": "u0148",
+          "endUid": "u0154",
+          "quote": "Delwath: Okay, it’s actually right, cause it’s still like 4 am. We will be very quiet. Yeah, let’s just, you know, slip into the— drop our boat in the water and— is that a way? I guess.\n\n"
+        },
+        {
+          "startUid": "u0036",
+          "endUid": "u0040",
+          "quote": "where the beginning of May is barely the beginning of spring"
+        }
+      ],
+      "time": {
+        "date": {
+          "month": 5
+        },
+        "partOfDay": "pre-dawn",
+        "clock": "04:00",
+        "precision": "approximate",
+        "basis": "DM states pre-dawn; Delwath estimates 4 a.m.; only May is independently named."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0458",
+        "endUid": "u0473"
+      },
+      "reading": "The party clears Nevium’s harbor and barrier island by dawn; the early outbound leg is described as roughly three or four hours.",
+      "evidence": [
+        {
+          "startUid": "u0458",
+          "endUid": "u0473",
+          "quote": "it’s dawn by the time you’re really— can see the—the— you’re past the Barrier Island and sort of out of the harbor itself"
+        },
+        {
+          "startUid": "u0480",
+          "endUid": "u0486",
+          "quote": "DM: So it’s a—it’s a few—where’s my better map? Here. Okay, so it’s like, you know, it's like 3, 4 h to get at, you know, sort of heading out.\n\n"
+        },
+        {
+          "startUid": "u0612",
+          "endUid": "u0613",
+          "quote": "DM: But at this point Wellby has been sailing for more than 12 h. So it's gonna be tough to keep going at this stage.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "dawn",
+        "precision": "approximate",
+        "basis": "DM’s stated harbor-exit watch."
+      },
+      "duration": {
+        "min": 3,
+        "minInclusive": true,
+        "max": 4,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s rough description of the early outbound leg; its exact endpoint is unclear."
+      },
+      "note": "The rough duration and dawn label do not supply a precise clock reading.",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t04"
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0569",
+        "endUid": "u0577"
+      },
+      "reading": "By noon the party has made another four hours of sailing and about 28 miles of progress.",
+      "evidence": [
+        {
+          "startUid": "u0569",
+          "endUid": "u0577",
+          "quote": "DM: So okay, so, I mean, you're having to tack across the wind. But Wellby is a good— good sailor, good enough sailor. You managed to make, you know, by—by noon, another, like, 4 h, you manage to make another, like, 28 miles of progress, like out now in the middle of the ocean.\n\n"
+        },
+        {
+          "startUid": "u0612",
+          "endUid": "u0613",
+          "quote": "DM: But at this point Wellby has been sailing for more than 12 h. So it's gonna be tough to keep going at this stage.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "midday",
+        "clock": "12:00",
+        "precision": "approximate",
+        "basis": "DM says by noon."
+      },
+      "duration": {
+        "value": 4,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t04"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0589",
+        "endUid": "u0593"
+      },
+      "reading": "By sunset the first day’s sailing has covered about 80 miles and reached a rocky coast; Wellby has sailed for more than twelve hours in all.",
+      "evidence": [
+        {
+          "startUid": "u0589",
+          "endUid": "u0593",
+          "quote": "DM: And so by the time the sun is set, you've traveled another probably almost 50 miles, so a total of a total of something like 80-ish miles. And you.\n\n"
+        },
+        {
+          "startUid": "u0594",
+          "endUid": "u0601",
+          "quote": "DM: So that's 1, 2— and have, based on Wellby’s dead reckoning, find yourself as the sun is setting— of a—this view is not of sunset, but seeing in the distance a rocky coast.\n\n"
+        },
+        {
+          "startUid": "u0612",
+          "endUid": "u0613",
+          "quote": "DM: But at this point Wellby has been sailing for more than 12 h. So it's gonna be tough to keep going at this stage.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM places the coastal sighting at sunset."
+      },
+      "duration": {
+        "min": 12,
+        "minInclusive": false,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "DM says Wellby has been sailing more than twelve hours; this is the whole day’s sailing, including t02 and t03."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0760",
+        "endUid": "u0761"
+      },
+      "reading": "Delwath watches the fishing-town docks during a ten-minute scry, after the party settles into its evening cove.",
+      "evidence": [
+        {
+          "startUid": "u0645",
+          "endUid": "u0645",
+          "quote": "DM: So you settle into a small cove for the evening.\n\n"
+        },
+        {
+          "startUid": "u0731",
+          "endUid": "u0734",
+          "quote": "DM: So you get the sense from kind of the chatter on the docks in minutes that you can—that scry lasts, like—\n\n"
+        },
+        {
+          "startUid": "u0760",
+          "endUid": "u0761",
+          "quote": "DM: But there is a guard. I mean, there is a guard here. You do, like— you do see in the 10 min the Chardonian Legion patrolling the dock.\n\n"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "The scry follows the evening cove arrival and precedes dinner."
+      },
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM explicitly describes what Delwath sees in the ten minutes of scrying."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0978",
+        "endUid": "u0983"
+      },
+      "reading": "The party sleeps at the cove, completes its overnight rest, and breaks camp the following morning.",
+      "evidence": [
+        {
+          "startUid": "u0978",
+          "endUid": "u0983",
+          "quote": "DM: So you go to sleep, get your rest, And in the morning unfold the boat, break down camp, and—\n\n"
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "partOfDay": "night",
+          "precision": "approximate",
+          "basis": "The established sleep follows camp and dinner; its clock is not stated."
+        },
+        "end": {
+          "partOfDay": "morning",
+          "precision": "approximate",
+          "basis": "DM explicitly resumes in the morning."
+        }
+      },
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Eight-hour long-rest convention for the established overnight rest."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1202",
+        "endUid": "u1205"
+      },
+      "reading": "The following morning the party sails about eight miles back along the coast in roughly an hour and a half, stopping short of town.",
+      "evidence": [
+        {
+          "startUid": "u1202",
+          "endUid": "u1205",
+          "quote": "Delwath: Morning we embiggened the boat, and we sailed 8 miles or so back along the coast. That’s probably, what, an hour and a half or something. Yeah, so—\n\n"
+        },
+        {
+          "startUid": "u1206",
+          "endUid": "u1206",
+          "quote": "DM: Something like that.\n\n"
+        },
+        {
+          "startUid": "u1207",
+          "endUid": "u1212",
+          "quote": "Delwath: And when we got sort of not quite, like, obviously within sight of town, right? We’re hugging the coast when we’re close to town, but not, like, “Hey, the town can see the boat” close. We find a little cove with a not-sheer cliff, and Delwath and Kenzo, I guess, scramble up to the— how are you not going to get recognized, Kenzo? Do you have a disguise ability?\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Retrospective account explicitly dates the accepted sailing leg to this morning."
+      },
+      "duration": {
+        "value": 1.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Delwath’s retrospective travel duration accepted by the DM."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1240",
+        "endUid": "u1241"
+      },
+      "reading": "Delwath approaches the fishing town during the morning.",
+      "evidence": [
+        {
+          "startUid": "u1240",
+          "endUid": "u1241",
+          "quote": "DM: So you, as you approach from the cliff side, you can see basically what you saw before. The town's like fairly quiet in the morning.\n\n"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "DM explicitly describes the town as quiet in the morning."
+      }
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1320",
+        "endUid": "u1321"
+      },
+      "reading": "Delwath spends about an hour recruiting at the inn, recasting his disguise once.",
+      "evidence": [
+        {
+          "startUid": "u1320",
+          "endUid": "u1321",
+          "quote": "DM: So you spend a little—a little—wait, a little while, maybe an hour or so, just kind of sitting in the inn.\n\n"
+        },
+        {
+          "startUid": "u1328",
+          "endUid": "u1330",
+          "quote": "DM: So yeah, you you you end up recasting it once and and after maybe an hour in town, you’re not—I mean, the inn is quiet. You’re not getting a lot of bites.\n\n"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1455",
+        "endUid": "u1455"
+      },
+      "reading": "Delwath’s visit to Martino is played while his companions sail toward the halfling ship.",
+      "evidence": [
+        {
+          "startUid": "u1455",
+          "endUid": "u1455",
+          "quote": "Delwath: I—while they’re sailing out, while they’re doing this, I will hike up and talk to Martino.\n\n"
+        },
+        {
+          "startUid": "u1483",
+          "endUid": "u1486",
+          "quote": "DM: Okay, so you're heading up to Martino. The rest of you are sailing. So when you get close, you can see the ship. It’s a— it’s a reasonably—\n\n"
+        },
+        {
+          "startUid": "u1631",
+          "endUid": "u1634",
+          "quote": "DM: Meanwhile, Delwath, unaware of you hiring the— yourself out as crew for the halflings, approaches the house of Martino.\n\n"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "time": {
+        "relative": {
+          "relation": "same_time",
+          "anchor": "The other four PCs sailing from their cove toward the halfling ship."
+        },
+        "precision": "approximate",
+        "basis": "Delwath explicitly says while they are sailing; the DM switches back with meanwhile."
+      }
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1781",
+        "endUid": "u1781"
+      },
+      "reading": "It is lunchtime when Delwath returns down from Martino’s house and sees the two boats alongside one another.",
+      "evidence": [
+        {
+          "startUid": "u1781",
+          "endUid": "u1781",
+          "quote": "DM: It's like lunchtime at this point.\n\n"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "time": {
+        "partOfDay": "midday",
+        "precision": "approximate",
+        "basis": "DM states lunchtime at this point."
+      }
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1832",
+        "endUid": "u1836"
+      },
+      "reading": "About five minutes after Wellby questions the absent crew, the first crew member emerges on deck.",
+      "evidence": [
+        {
+          "startUid": "u1830",
+          "endUid": "u1831",
+          "quote": "Wellby: Have we seen any of the rest of the crew? It’s been like a minute. Like, this is actually a ship crewed by halflings, not, like, zombies or something?\n\n"
+        },
+        {
+          "startUid": "u1832",
+          "endUid": "u1836",
+          "quote": "DM: Have not seen any of the rest of the crew, although about 5 min after Wellby looks inquisitively, you can see the first halfling like begin to like, comes up out—out from the lower deck. And, like, it’s a—it’s like a younger woman. Looks probably related to—to Pippa.\n\n"
+        },
+        {
+          "startUid": "u1861",
+          "endUid": "u1864",
+          "quote": "DM: Everybody, like, coming a little bit—you get the sense it’s not—it’s not entirely that they’re hung over. It’s also, like, they were, like—a good number of them, apparently, were up until 6 or 7 in the morning, and it’s only, like, noon now, so a bit short of sleep.\n\n"
+        }
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM explicitly advances five minutes before the first crew member appears."
+      },
+      "time": {
+        "partOfDay": "midday",
+        "clock": "12:00",
+        "precision": "approximate",
+        "basis": "DM confirms it is only about noon during the crew’s appearance."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1927",
+        "endUid": "u1930"
+      },
+      "reading": "By about noon or one, everyone, including Martino, is aboard Summer’s Breeze for the departure.",
+      "evidence": [
+        {
+          "startUid": "u1922",
+          "endUid": "u1926",
+          "quote": "DM: And as they finish their song they bring up some food and set lunch for you. And everybody is pretty merry, and they’re clearly intending to eat before they set sail. Well, you’re—well, the poor guy who drew the short straws picking up the pilot.\n\n"
+        },
+        {
+          "startUid": "u1927",
+          "endUid": "u1930",
+          "quote": "DM: So by noon, by one or so everybody’s on board. Halflings are introduced. Pippa is introduced to Martino. Martino is impressed that you somehow manage to magically have a halfling ship.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "midday",
+        "clock": "13:00",
+        "precision": "approximate",
+        "basis": "DM says by noon, by one or so; 13:00 is approximate, not an exact departure time."
+      }
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u2002",
+        "endUid": "u2005"
+      },
+      "reading": "During the westward voyage the sun begins to set and the wind shifts easterly; the ship continues toward Castrella.",
+      "evidence": [
+        {
+          "startUid": "u1996",
+          "endUid": "u2001",
+          "quote": "DM: So you—you go. You—you’re making good time, and the halfling slept late, so they have no problem pushing into the evening. You travel another, you know, making making good time on on the evening breeze.\n\n"
+        },
+        {
+          "startUid": "u2002",
+          "endUid": "u2005",
+          "quote": "DM: The wind—the wind shifts a little bit as—as the sun begins to set, so that it’s— it’s blowing up— It's blowing directly from the east.\n\n"
+        },
+        {
+          "startUid": "u2006",
+          "endUid": "u2008",
+          "quote": "DM: And you managed to go— you’re making, you know, 8, 9 miles an hour for for most of the afternoon.\n\n"
+        },
+        {
+          "startUid": "u2020",
+          "endUid": "u2024",
+          "quote": "DM: It's another 20 ish miles, but with a little convincing the halflings are willing to get you there tonight. It’s probably another 2 or 3 h of sailing, which I assume is what you’re interested in, yeah? Okay.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM states the sun begins to set; another two or three hours is a forecast for the remaining leg."
+      }
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u2036",
+        "endUid": "u2037"
+      },
+      "reading": "After the intervening night, day breaks with Castrella visible before the party and its port becoming active.",
+      "evidence": [
+        {
+          "startUid": "u2034",
+          "endUid": "u2035",
+          "quote": "DM: Okay. Anything anybody else is doing before dawn?\n\n"
+        },
+        {
+          "startUid": "u2036",
+          "endUid": "u2037",
+          "quote": "DM: Okay, so day breaks, and you see the city of Castrella before you. This is a much bigger city than what—the one you were in before, which—which never actually got the name. It was Artevus.\n\n"
+        },
+        {
+          "startUid": "u2038",
+          "endUid": "u2046",
+          "quote": "DM: Castrella is also set like Artevus on a hill on a sort of flat ground below the hills, but it’s— it's easily 5 times the size, right? It’s at least—there’s gotta be 3, 4,000, 5,000 people that live here. This is a substantial town. The harbor is full: big ships, small ships, trading ships, mostly. You don’t see any evidence of of the Chardonian navy or anything like that, but lots of activity in the port as— as of— as day dawns.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "dawn",
+        "precision": "approximate",
+        "basis": "DM explicitly says day breaks and as day dawns."
+      },
+      "dateBoundaries": 1,
+      "note": "This anchors the next morning’s view, not the exact moment the ship entered the harbor. No overnight rest is independently established."
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u2268",
+        "endUid": "u2270"
+      },
+      "reading": "Wellby spends about half an hour listening to Tullus explain maps and the peninsula.",
+      "evidence": [
+        {
+          "startUid": "u2268",
+          "endUid": "u2270",
+          "quote": "DM: He’s, like, going on and on, telling you the story of, like, every place as he, like, pushes that map aside and then, like, “Oh, this one better.” This, like, looks off, and in, like, half an hour is gone. And you basically get the sense from him, like, okay, so there’s 3 main provinces on the peninsula:\n\n"
+        },
+        {
+          "startUid": "u2702",
+          "endUid": "u2704",
+          "quote": "DM: So it’s probably mid-after, you know—well, I guess it was morning when you join. It’s probably about lunchtime by the time you’re done with your errands and reconvene, unless there’s anything else you wanna talk to Juliana about.\n\n"
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "value": 0.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "The later correction at t17 confirms the errands began in the morning."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u2702",
+        "endUid": "u2704"
+      },
+      "reading": "The errands end and the party reconvenes around lunchtime; the DM corrects an initial mid-afternoon estimate.",
+      "evidence": [
+        {
+          "startUid": "u2702",
+          "endUid": "u2704",
+          "quote": "DM: So it’s probably mid-after, you know—well, I guess it was morning when you join. It’s probably about lunchtime by the time you’re done with your errands and reconvene, unless there’s anything else you wanna talk to Juliana about.\n\n"
+        },
+        {
+          "startUid": "u2717",
+          "endUid": "u2718",
+          "quote": "DM: So you’re all gathering back together at Kenzo’s cafe, like, what is— How is the day progressing for all of you?\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "midday",
+        "precision": "approximate",
+        "basis": "DM corrects mid-afternoon to about lunchtime."
+      }
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u2886",
+        "endUid": "u2887"
+      },
+      "reading": "Back on the ship, the DM says three days have passed and twenty-two days remain; it is unclear whether three days counts the played dates inclusively or adds an unshown day.",
+      "evidence": [
+        {
+          "startUid": "u0296",
+          "endUid": "u0296",
+          "quote": "And we only have 25 days until Apollyon wakes up."
+        },
+        {
+          "startUid": "u2886",
+          "endUid": "u2887",
+          "quote": "DM: It's already been 3 days. We're down to 22 days.\n\n"
+        },
+        {
+          "startUid": "u2888",
+          "endUid": "u2888",
+          "quote": "Kenzo: Has it been 3 days already? I’m sure.\n\n"
+        }
+      ],
+      "note": "The source explicitly plays two overnight transitions (t06, t15). Preserve the countdown discrepancy without inserting a third night or revising YAML."
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u2969",
+        "endUid": "u2974"
+      },
+      "reading": "It is mid-afternoon when the party returns to town to ask about underwater magic.",
+      "evidence": [
+        {
+          "startUid": "u2958",
+          "endUid": "u2961",
+          "quote": "DM: Okay so go back into town after failing to scry. Do what?\n\n"
+        },
+        {
+          "startUid": "u2969",
+          "endUid": "u2974",
+          "quote": "DM: So I mean, the way—just, like, the vibe of the city, right, is like there’s, you know, cafes and inns and things and taverns along the docks. You know, there’s the rich people houses. There’s the market, like, it’s mid-afternoon at this point, so, you know, the people are starting to file into the taverns. Like, you guys are only— spend—you can certainly, like, poke around a little bit, spend a little time, like, seeing if you can—\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "DM explicitly says it is mid-afternoon at this point."
+      }
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u3119",
+        "endUid": "u3120"
+      },
+      "reading": "The party spends the evening wandering the taverns and hearing merfolk ballads.",
+      "evidence": [
+        {
+          "startUid": "u3119",
+          "endUid": "u3120",
+          "quote": "DM: You spend the evening.\n\n"
+        },
+        {
+          "startUid": "u3125",
+          "endUid": "u3125",
+          "quote": "DM: And as you wander, you hear the—\n\n"
+        },
+        {
+          "startUid": "u3147",
+          "endUid": "u3147",
+          "quote": "DM: Keep wandering around a little bit, poking in some other taverns.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "DM explicitly advances play into the evening."
+      }
+    },
+    {
+      "id": "t21",
+      "source": {
+        "startUid": "u3224",
+        "endUid": "u3231"
+      },
+      "reading": "The party returns to the halflings’ elaborate dinner around 9 p.m.",
+      "evidence": [
+        {
+          "startUid": "u3224",
+          "endUid": "u3231",
+          "quote": "DM: So the night ends with you back with some more information. And now left trying to decide how you're going to convince the halflings who are now seem to be at, like, 9 pm about halfway through quite elaborate dinner.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "clock": "21:00",
+        "precision": "approximate",
+        "basis": "DM states about 9 p.m. during dinner."
+      }
+    },
+    {
+      "id": "t22",
+      "source": {
+        "startUid": "u3361",
+        "endUid": "u3362"
+      },
+      "reading": "The party goes to bed for the night; the next pre-dawn departure remains a plan.",
+      "evidence": [
+        {
+          "startUid": "u3361",
+          "endUid": "u3362",
+          "quote": "DM: So I think we can end there. So as you go to bed for the night, the halflings are preparing. They need to take on—I mean, they need to restock a little bit. They need to finish their dinner and take on water and stuff. And—and so it’s gonna be first—it’s gonna be pre-dawn that they leave.\n\n"
+        },
+        {
+          "startUid": "u3363",
+          "endUid": "u3369",
+          "quote": "DM: But they’ve made plans to—Pippa apparently stays up all night fairly frequently, and is going to wake the—wake Wellby and the crew at 4, and get the boat underway early dawn, heading fast as can be northwest up the coast, Looking for Milo, worried that he’s lost somewhere, and keeping an eye out on the side for caves where a stoneborn hermit might live.\n\n"
+        }
+      ],
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "The current action is going to bed after the 9 p.m. dinner; waking at four and departing early dawn are prospective."
+      },
+      "completion": "begun"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "The transcript independently names the beginning of May but no calendar day or year. May 5–7, 1749 is the YAML working calendar, conditional on its start date.",
+    "expectedDateBoundaries": 2,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t06",
+      "t15",
+      "t18",
+      "t22"
+    ],
+    "explanation": "Two completed overnight transitions support three played dates and fit May 5–7. The later three-days/22-days-left remark is ambiguous against the opening 25-day countdown, so an exact total is not certified. Closing bedtime does not establish the planned next morning. No neighboring-session interval or YAML end date supplies missing time."
+  }
+}

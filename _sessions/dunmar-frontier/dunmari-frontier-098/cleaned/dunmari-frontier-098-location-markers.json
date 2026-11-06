@@ -1,0 +1,2031 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-098",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-098/cleaned/dunmari-frontier-098-session.yaml",
+    "sessionYamlSha256": "7861119b82b6209df7f142ee5e46336f753d00e339fe7ffc9b7d2107c41f7bf2",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-098/cleaned/dunmari-frontier-098-transcript.md",
+    "transcriptSha256": "0187460ec4860892c91cc533f7affde6c2d0b7d354a5dfb2c480b3f45edd1d0f",
+    "timeMarkers": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-098/cleaned/dunmari-frontier-098-time-markers.json",
+      "sha256": "cdbaa1cf77cb78807c4441e1405a3ec50fa2b25c1b26e3d5531d40a6aa1f2950",
+      "schemaVersion": "0.5-time-markers-draft"
+    }
+  },
+  "places": {
+    "p01": {
+      "label": "Ursk",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u0036",
+          "endUid": "u0040",
+          "quote": "DM: So we begin. As Seeker finishes his teleport spell, and the cold of Ursk fades around you in an instant as you’re pulled through space. The first thing you notice is the heat, the jarring shift from the cold north, where the beginning of May is barely the beginning of spring to the warmth of the Gulf of Chardon, where it feels practically summer.\n\n"
+        }
+      ],
+      "vaultPath": "Gazetteer/Northern Green Sea/Ursk/Ursk.md"
+    },
+    "p02": {
+      "label": "Nevium docks",
+      "kind": "docks",
+      "evidence": [
+        {
+          "startUid": "u0062",
+          "endUid": "u0068",
+          "quote": "DM: As you recall these stories in these little tiny scraps of information, that is all you have to go on as you search for a piece of jade in a vast— the vast western oceans. You look around and you see you’re on the docks of a city, the city Nevium, the provincial capital of Portalia, a province in the Chardonian Empire.\n\n"
+        },
+        {
+          "startUid": "u0069",
+          "endUid": "u0077",
+          "quote": "DM: This is the city that you docked at after you left the canal when you traveled through a year—almost a year ago now, and it’s the closest point to the canal where Seeker had ever seen, because, as you recall, you all traveled through the canal in the mirror, except for Wellby. So the closest to the canal you could reasonably teleport right now. Everything is dark and quiet. The air smells of fish and damp wood, the morning silence broken by the creak of ships at dock and ships anchored out to sea in the harbor. The city itself is built over the ocean, mostly over marsh—tidal marshes, it seems—on great wooden pilings. And they—so—\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0062",
+              "endUid": "u0068",
+              "quote": "DM: As you recall these stories in these little tiny scraps of information, that is all you have to go on as you search for a piece of jade in a vast— the vast western oceans. You look around and you see you’re on the docks of a city, the city Nevium, the provincial capital of Portalia, a province in the Chardonian Empire.\n\n"
+            },
+            {
+              "startUid": "u0069",
+              "endUid": "u0077",
+              "quote": "DM: This is the city that you docked at after you left the canal when you traveled through a year—almost a year ago now, and it’s the closest point to the canal where Seeker had ever seen, because, as you recall, you all traveled through the canal in the mirror, except for Wellby. So the closest to the canal you could reasonably teleport right now. Everything is dark and quiet. The air smells of fish and damp wood, the morning silence broken by the creak of ships at dock and ships anchored out to sea in the harbor. The city itself is built over the ocean, mostly over marsh—tidal marshes, it seems—on great wooden pilings. And they—so—\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Nevium",
+      "kind": "city",
+      "evidence": [
+        {
+          "startUid": "u0062",
+          "endUid": "u0068",
+          "quote": "DM: As you recall these stories in these little tiny scraps of information, that is all you have to go on as you search for a piece of jade in a vast— the vast western oceans. You look around and you see you’re on the docks of a city, the city Nevium, the provincial capital of Portalia, a province in the Chardonian Empire.\n\n"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Nevium.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0062",
+              "endUid": "u0068",
+              "quote": "DM: As you recall these stories in these little tiny scraps of information, that is all you have to go on as you search for a piece of jade in a vast— the vast western oceans. You look around and you see you’re on the docks of a city, the city Nevium, the provincial capital of Portalia, a province in the Chardonian Empire.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Portalia",
+      "kind": "province",
+      "evidence": [
+        {
+          "startUid": "u0062",
+          "endUid": "u0068",
+          "quote": "DM: As you recall these stories in these little tiny scraps of information, that is all you have to go on as you search for a piece of jade in a vast— the vast western oceans. You look around and you see you’re on the docks of a city, the city Nevium, the provincial capital of Portalia, a province in the Chardonian Empire.\n\n"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Portalia.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0062",
+              "endUid": "u0068",
+              "quote": "DM: As you recall these stories in these little tiny scraps of information, that is all you have to go on as you search for a piece of jade in a vast— the vast western oceans. You look around and you see you’re on the docks of a city, the city Nevium, the provincial capital of Portalia, a province in the Chardonian Empire.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Chardonian Empire",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u0062",
+          "endUid": "u0068",
+          "quote": "DM: As you recall these stories in these little tiny scraps of information, that is all you have to go on as you search for a piece of jade in a vast— the vast western oceans. You look around and you see you’re on the docks of a city, the city Nevium, the provincial capital of Portalia, a province in the Chardonian Empire.\n\n"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardonian Empire.md"
+    },
+    "p06": {
+      "label": "Gulf of Chardon",
+      "kind": "gulf",
+      "evidence": [
+        {
+          "startUid": "u0478",
+          "endUid": "u0479",
+          "quote": "DM: So you kinda just tack out into the ocean into the Gulf of Chardon and just avoiding any close approach to any of the canal business going on here.\n\n"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Gulf of Chardon.md"
+    },
+    "p07": {
+      "label": "Folding boat",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u0132",
+          "endUid": "u0132",
+          "quote": "DM: Have a folding boat.\n\n"
+        },
+        {
+          "startUid": "u0155",
+          "endUid": "u0158",
+          "quote": "DM: Your boat has 2 sizes. It has a small boat with one sail and a pair of oars that can hold, I think, 4 medium creatures. But theoretically the 5 of you could squeeze in, since you’ve got one small and 2 dwarves.\n\n"
+        },
+        {
+          "startUid": "u1199",
+          "endUid": "u1200",
+          "quote": "Delwath: This morning. Okay. Here's the system.\n\n"
+        },
+        {
+          "startUid": "u1202",
+          "endUid": "u1205",
+          "quote": "Delwath: Morning we embiggened the boat, and we sailed 8 miles or so back along the coast. That’s probably, what, an hour and a half or something. Yeah, so—\n\n"
+        }
+      ],
+      "mobile": true,
+      "aliases": [
+        "small boat",
+        "big boat"
+      ]
+    },
+    "p08": {
+      "label": "Chardonian naval warship",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u0200",
+          "endUid": "u0204",
+          "quote": "DM: As you look back at the city, you can see—so this is— the city itself is built on a marsh. Basically, there’s a bunch of of wooden pilings and things that extend out. There’s a little bit of a barrier island that forms a sheltered harbor, and there is a— what looks like a naval warship, anchored sort of in the middle of the harbor.\n\n"
+        }
+      ],
+      "mobile": true
+    },
+    "p09": {
+      "label": "Northern canal entrance",
+      "kind": "waterway",
+      "evidence": [
+        {
+          "startUid": "u0458",
+          "endUid": "u0473",
+          "quote": "DM: It takes you a bit. It takes you some—a little bit of time to sort of navigate out of the harbor and and catch the wind. So by the time you’re— it’s, you know, it’s dawn by the time you’re really— can see the—the— you’re past the Barrier Island and sort of out of the harbor itself, and can see now the coastline spread across your field of vision, and—and you can see— so you can see the canal ahead. There’s a fort at the entrance to the canal. The canal—this northern end of the canal is basically a dredged channel through a massive river delta, salt marsh. So it’s—you know, it’s—there’s all these, like, little passageways that cut through the marsh, and then on an island guarding the entrance to the canal there’s this Chardonian fort. I presume you’re steering away from— and there’s some—you can see that there’s ship traffic now sort of piling up to go into the canal. So— Bada.\n\n"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Old Chardon Canal.md",
+      "note": "The session calls this the canal; the northern delta entrance matches the Old Chardon Canal note.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u2271",
+              "endUid": "u2272",
+              "quote": "DM: Portalia, which is where the canal is, like, super Chardonian. Like, that’s where—that’s, like, very closely connected to Chardon itself.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Island fort at the canal entrance",
+      "kind": "fort",
+      "evidence": [
+        {
+          "startUid": "u0458",
+          "endUid": "u0473",
+          "quote": "DM: It takes you a bit. It takes you some—a little bit of time to sort of navigate out of the harbor and and catch the wind. So by the time you’re— it’s, you know, it’s dawn by the time you’re really— can see the—the— you’re past the Barrier Island and sort of out of the harbor itself, and can see now the coastline spread across your field of vision, and—and you can see— so you can see the canal ahead. There’s a fort at the entrance to the canal. The canal—this northern end of the canal is basically a dredged channel through a massive river delta, salt marsh. So it’s—you know, it’s—there’s all these, like, little passageways that cut through the marsh, and then on an island guarding the entrance to the canal there’s this Chardonian fort. I presume you’re steering away from— and there’s some—you can see that there’s ship traffic now sort of piling up to go into the canal. So— Bada.\n\n"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Fort Varian.md",
+      "note": "Fort Varian and Old Chardon Canal identify the unnamed northern-mouth island fort; the party only sees and bypasses it.",
+      "relations": [
+        {
+          "relation": "at_entrance_to",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u0458",
+              "endUid": "u0473",
+              "quote": "DM: It takes you a bit. It takes you some—a little bit of time to sort of navigate out of the harbor and and catch the wind. So by the time you’re— it’s, you know, it’s dawn by the time you’re really— can see the—the— you’re past the Barrier Island and sort of out of the harbor itself, and can see now the coastline spread across your field of vision, and—and you can see— so you can see the canal ahead. There’s a fort at the entrance to the canal. The canal—this northern end of the canal is basically a dredged channel through a massive river delta, salt marsh. So it’s—you know, it’s—there’s all these, like, little passageways that cut through the marsh, and then on an island guarding the entrance to the canal there’s this Chardonian fort. I presume you’re steering away from— and there’s some—you can see that there’s ship traffic now sort of piling up to go into the canal. So— Bada.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Rocky-coast overnight cove",
+      "kind": "cove",
+      "evidence": [
+        {
+          "startUid": "u0645",
+          "endUid": "u0645",
+          "quote": "DM: So you settle into a small cove for the evening.\n\n"
+        },
+        {
+          "startUid": "u0594",
+          "endUid": "u0601",
+          "quote": "DM: So that's 1, 2— and have, based on Wellby’s dead reckoning, find yourself as the sun is setting— of a—this view is not of sunset, but seeing in the distance a rocky coast.\n\n"
+        },
+        {
+          "startUid": "u0962",
+          "endUid": "u0967",
+          "quote": "DM: Okay, so, as you make dinner and settle in, presumably on the shore. There’s not really a lot of—there’s not really enough space for you to sleep on the boat. That's too small.\n\n"
+        }
+      ],
+      "note": "Distinct from the later near-town cove. Town-distance estimates shift from fifty to fifteen and later about ten miles; the cove’s province is not named.",
+      "relations": [
+        {
+          "relation": "on_coast_of",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0478",
+              "endUid": "u0479",
+              "quote": "DM: So you kinda just tack out into the ocean into the Gulf of Chardon and just avoiding any close approach to any of the canal business going on here.\n\n"
+            },
+            {
+              "startUid": "u0594",
+              "endUid": "u0601",
+              "quote": "DM: So that's 1, 2— and have, based on Wellby’s dead reckoning, find yourself as the sun is setting— of a—this view is not of sunset, but seeing in the distance a rocky coast.\n\n"
+            },
+            {
+              "startUid": "u0645",
+              "endUid": "u0645",
+              "quote": "DM: So you settle into a small cove for the evening.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Hill lookout above the first cove",
+      "kind": "lookout",
+      "evidence": [
+        {
+          "startUid": "u0646",
+          "endUid": "u0652",
+          "quote": "Delwath: I'm gonna go scout. I think if we’re not gonna—if we’re just settling in, I’m just gonna—I’ll fly up to—I mean, this is, like, hilly, right? Like, it would—10 min of flying. Presumably I can get relatively high, like towards the tops of one of these hills, and then just look around. Is there any towns? Any signs of—?\n\n"
+        }
+      ],
+      "note": "Delwath flies uphill and later comes back down; the precise lookout is unnamed.",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u0645",
+              "endUid": "u0645",
+              "quote": "DM: So you settle into a small cove for the evening.\n\n"
+            },
+            {
+              "startUid": "u0646",
+              "endUid": "u0652",
+              "quote": "Delwath: I'm gonna go scout. I think if we’re not gonna—if we’re just settling in, I’m just gonna—I’ll fly up to—I mean, this is, like, hilly, right? Like, it would—10 min of flying. Presumably I can get relatively high, like towards the tops of one of these hills, and then just look around. Is there any towns? Any signs of—?\n\n"
+            },
+            {
+              "startUid": "u0774",
+              "endUid": "u0777",
+              "quote": "Delwath: Okay. I’ll come back down, share with everybody that we missed the town.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Fishing town, later named Artevus",
+      "kind": "town",
+      "evidence": [
+        {
+          "startUid": "u2036",
+          "endUid": "u2037",
+          "quote": "DM: Okay, so day breaks, and you see the city of Castrella before you. This is a much bigger city than what—the one you were in before, which—which never actually got the name. It was Artevus.\n\n"
+        },
+        {
+          "startUid": "u0662",
+          "endUid": "u0664",
+          "quote": "DM: Some activity. There’s, you know, there’s fishing boats coming in for the evening. People docked. It seems substantially smaller than Nevium, where you were before. It—from a distance, it’s hard to gather much more details.\n\n"
+        },
+        {
+          "startUid": "u0769",
+          "endUid": "u0773",
+          "quote": "DM: Nevium is probably a city of 5,000 people. This is substantially smaller than that. 800 to a thousand would be your guess. It’s sort of the—the biggest— It's like the westernmost point of this province.\n\n"
+        },
+        {
+          "startUid": "u1256",
+          "endUid": "u1263",
+          "quote": "DM: So you kind of make your way—pick your way down the rocks into the sort of main square, definitely getting some looks. It's small enough that everybody kinda knows everybody in town. So you know, them— rumor, or the sort of chatter starts going around like, “Oh, there’s a stranger in town.” It's big enough that you're not immediately questioned, but small enough that it's obvious you're not like from here.\n\n"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Artevus.md",
+      "aliases": [
+        "Artevus"
+      ],
+      "note": "Named retrospectively at u2036–u2037. The Artevus reference note places it in Portalia, but the current transcript’s this-province reference at u0769–u0773 does not explicitly name the province; no provincial containment is asserted here."
+    },
+    "p14": {
+      "label": "Cove short of Artevus",
+      "kind": "cove",
+      "evidence": [
+        {
+          "startUid": "u1207",
+          "endUid": "u1212",
+          "quote": "Delwath: And when we got sort of not quite, like, obviously within sight of town, right? We’re hugging the coast when we’re close to town, but not, like, “Hey, the town can see the boat” close. We find a little cove with a not-sheer cliff, and Delwath and Kenzo, I guess, scramble up to the— how are you not going to get recognized, Kenzo? Do you have a disguise ability?\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "west_of",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u1173",
+              "endUid": "u1176",
+              "quote": "DM: You're currently sailing the big boat into town, which is about 10 miles back east. Okay. So, correct.\n\n"
+            },
+            {
+              "startUid": "u1179",
+              "endUid": "u1182",
+              "quote": "Delwath: We should probably stop. Probably shouldn't sail straight into the harbor. But we don't want to be too far away. Right? Yeah, are there, like—when we’re like 2 miles from town, are there, like, tracks along the shore? Like, is there a cove and a walking path?\n\n"
+            },
+            {
+              "startUid": "u1202",
+              "endUid": "u1205",
+              "quote": "Delwath: Morning we embiggened the boat, and we sailed 8 miles or so back along the coast. That’s probably, what, an hour and a half or something. Yeah, so—\n\n"
+            },
+            {
+              "startUid": "u1207",
+              "endUid": "u1212",
+              "quote": "Delwath: And when we got sort of not quite, like, obviously within sight of town, right? We’re hugging the coast when we’re close to town, but not, like, “Hey, the town can see the boat” close. We find a little cove with a not-sheer cliff, and Delwath and Kenzo, I guess, scramble up to the— how are you not going to get recognized, Kenzo? Do you have a disguise ability?\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Artevus inn",
+      "kind": "inn",
+      "evidence": [
+        {
+          "startUid": "u1276",
+          "endUid": "u1277",
+          "quote": "DM: There’s—there’s an inn. It’s—it’s—it’s basically a, you know, one-inn town, but you know there are ships that come in, and there's, you know, the sailors.\n\n"
+        },
+        {
+          "startUid": "u1320",
+          "endUid": "u1321",
+          "quote": "DM: So you spend a little—a little—wait, a little while, maybe an hour or so, just kind of sitting in the inn.\n\n"
+        },
+        {
+          "startUid": "u1331",
+          "endUid": "u1338",
+          "quote": "DM: Eventually, it seems like the innkeeper takes pity on you, and you know, comes over and is basically like, “You know, you’re not gonna find a lot of sailors here. Anybody who wasn't pressed into the Navy 2 days ago, probably not somebody you want sailing on your ships anyway, unless you can get one of those halflings to join your crew.”\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u1256",
+              "endUid": "u1263",
+              "quote": "DM: So you kind of make your way—pick your way down the rocks into the sort of main square, definitely getting some looks. It's small enough that everybody kinda knows everybody in town. So you know, them— rumor, or the sort of chatter starts going around like, “Oh, there’s a stranger in town.” It's big enough that you're not immediately questioned, but small enough that it's obvious you're not like from here.\n\n"
+            },
+            {
+              "startUid": "u1276",
+              "endUid": "u1277",
+              "quote": "DM: There’s—there’s an inn. It’s—it’s—it’s basically a, you know, one-inn town, but you know there are ships that come in, and there's, you know, the sailors.\n\n"
+            },
+            {
+              "startUid": "u1300",
+              "endUid": "u1302",
+              "quote": "Delwath: I'll start at the inn. I mean, I I don't need to like play out every moment in detail, but the basic idea is to kind of spend money right? I brought a bunch of gold. I don't know. We have tons of gold, right? Lots of mixed coins, right? So I can—I mean, pay out silver, not just gold.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Martino’s house in the hills",
+      "kind": "house",
+      "evidence": [
+        {
+          "startUid": "u1631",
+          "endUid": "u1634",
+          "quote": "DM: Meanwhile, Delwath, unaware of you hiring the— yourself out as crew for the halflings, approaches the house of Martino.\n\n"
+        },
+        {
+          "startUid": "u1389",
+          "endUid": "u1392",
+          "quote": "DM: Sort of waves his hand up that way, like clearly he lives nearish this. I mean, he's pointing in a direction you could probably find with me.\n\n"
+        },
+        {
+          "startUid": "u1635",
+          "endUid": "u1642",
+          "quote": "DM: An old sailor, tanned skin, he’s sitting—he’s sitting on his do, basically looking out, like, Bab— whittling something. And you can see that his left hand is sort of like badly injured, like he’s got a scar down the middle, and it doesn’t really move. Right hand seems fine. I mean, he’s whittling with his right hand, tangled gray beard, and looks up as—as Delwath approaches.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u1380",
+              "endUid": "u1387",
+              "quote": "DM: Oh, well, you know, Martino might be interested. Piloting— doesn't sail much these days. He hurt his hand fishing accident, 5 years ago now, but to hike up up into the hills to fetch him and think he gets bored, might be interested in your offer.\n\n"
+            },
+            {
+              "startUid": "u1389",
+              "endUid": "u1392",
+              "quote": "DM: Sort of waves his hand up that way, like clearly he lives nearish this. I mean, he's pointing in a direction you could probably find with me.\n\n"
+            },
+            {
+              "startUid": "u1452",
+              "endUid": "u1454",
+              "quote": "DM: No, it’ll probably take you 20 min. I mean, obviously this guy was just like, “I’m not gonna drop everything and hike right this second, but, like, I can send a message,” you know.\n\n"
+            },
+            {
+              "startUid": "u1631",
+              "endUid": "u1634",
+              "quote": "DM: Meanwhile, Delwath, unaware of you hiring the— yourself out as crew for the halflings, approaches the house of Martino.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Summer’s Breeze",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u1497",
+          "endUid": "u1504",
+          "quote": "DM: She is a sort of stout halfling, wearing a wide-brimmed hat, green—green cloak, like, nice boots, curly brownish hair underneath the hat, smile on her face. Just kind of looking out over the rail, and when she realized you’re a halfling she, like, gives you a big wave, and you can see the ships called the Summer’s Breeze. It seems—the ship seems pretty quiet, actually. Not—\n\n"
+        }
+      ],
+      "vaultPath": "Things/Ships/Summer's Breeze.md",
+      "mobile": true
+    },
+    "p18": {
+      "label": "Castrella",
+      "kind": "city",
+      "evidence": [
+        {
+          "startUid": "u2036",
+          "endUid": "u2037",
+          "quote": "DM: Okay, so day breaks, and you see the city of Castrella before you. This is a much bigger city than what—the one you were in before, which—which never actually got the name. It was Artevus.\n\n"
+        },
+        {
+          "startUid": "u2038",
+          "endUid": "u2046",
+          "quote": "DM: Castrella is also set like Artevus on a hill on a sort of flat ground below the hills, but it’s— it's easily 5 times the size, right? It’s at least—there’s gotta be 3, 4,000, 5,000 people that live here. This is a substantial town. The harbor is full: big ships, small ships, trading ships, mostly. You don’t see any evidence of of the Chardonian navy or anything like that, but lots of activity in the port as— as of— as day dawns.\n\n"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Castrella.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p19",
+          "evidence": [
+            {
+              "startUid": "u2273",
+              "endUid": "u2276",
+              "quote": "DM: Then there's the hills, that kind of separate Portalia from the the 2 other peninsula provinces. And the other—the Cedrano is where you are now, and then Raziolo is the, like, province at the very far tip.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p19": {
+      "label": "Cedrano",
+      "kind": "province",
+      "evidence": [
+        {
+          "startUid": "u2273",
+          "endUid": "u2276",
+          "quote": "DM: Then there's the hills, that kind of separate Portalia from the the 2 other peninsula provinces. And the other—the Cedrano is where you are now, and then Raziolo is the, like, province at the very far tip.\n\n"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Cedrano.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u2259",
+              "endUid": "u2267",
+              "quote": "DM: Yeah, it’s a— quite a ways out to the— to the tip, to the far end of path— Raziolo, the province. Marks it on the map, like, that’s the province that’s further northwest of where you are now. Like, it’s a whole nother province of the of the Empire.\n\n"
+            },
+            {
+              "startUid": "u2268",
+              "endUid": "u2270",
+              "quote": "DM: He’s, like, going on and on, telling you the story of, like, every place as he, like, pushes that map aside and then, like, “Oh, this one better.” This, like, looks off, and in, like, half an hour is gone. And you basically get the sense from him, like, okay, so there’s 3 main provinces on the peninsula:\n\n"
+            },
+            {
+              "startUid": "u2273",
+              "endUid": "u2276",
+              "quote": "DM: Then there's the hills, that kind of separate Portalia from the the 2 other peninsula provinces. And the other—the Cedrano is where you are now, and then Raziolo is the, like, province at the very far tip.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p20": {
+      "label": "Bay leading into Castrella",
+      "kind": "bay",
+      "evidence": [
+        {
+          "startUid": "u2013",
+          "endUid": "u2019",
+          "quote": "DM: And you can see here now, you—so you’ve traveled up the coast far enough that you can see there’s, like, a—a gulf or a—a— a bay that cuts in. You can see that on—on Roll20, this, like, thing right here. You’re basically at the mouth of this bay, and there— Castrella is at the far end of this bay. They’re heading— they're heading in.\n\n"
+        }
+      ],
+      "note": "The source distinguishes the bay mouth from Castrella at its far end; no exact harbor-entry time is stated."
+    },
+    "p21": {
+      "label": "Castrella docks",
+      "kind": "docks",
+      "evidence": [
+        {
+          "startUid": "u2130",
+          "endUid": "u2132",
+          "quote": "DM: Okay, so who—who is doing what, as you pull up to the dock and approach the town of the harbor of Castrella.\n\n"
+        },
+        {
+          "startUid": "u2077",
+          "endUid": "u2079",
+          "quote": "DM: So you’ve got the dock. The—the docks are by far the most active, right? Like, breakwaters extending out forming a harbor. There's nice buildings here, like some of these buildings are probably old. Found mute—\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p18",
+          "evidence": [
+            {
+              "startUid": "u2130",
+              "endUid": "u2132",
+              "quote": "DM: Okay, so who—who is doing what, as you pull up to the dock and approach the town of the harbor of Castrella.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p22": {
+      "label": "Kenzo’s waterfront cafe",
+      "kind": "cafe",
+      "evidence": [
+        {
+          "startUid": "u2198",
+          "endUid": "u2201",
+          "quote": "DM: We pick up as Kenzo strolls along the, like, promenade of the harbor, looking for a—a friendly cafe, and you see one that’s bustling but not too bustling, has a nice view out of the harbor. You can actually see from—from sitting outside, there’s, like, some waterfalls that are cascading down a cliff off to the east. Stop!\n\n"
+        },
+        {
+          "startUid": "u2202",
+          "endUid": "u2205",
+          "quote": "DM: Great—great view, pleasant atmosphere. It’s May, it’s nice and warm. There’s a bit of a sea breeze that’s just picking up. You sit down and just—just kinda take in the vibe, right? Like, get—get a nice coffee, little pastry, or something.\n\n"
+        },
+        {
+          "startUid": "u2717",
+          "endUid": "u2718",
+          "quote": "DM: So you’re all gathering back together at Kenzo’s cafe, like, what is— How is the day progressing for all of you?\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p18",
+          "evidence": [
+            {
+              "startUid": "u2198",
+              "endUid": "u2201",
+              "quote": "DM: We pick up as Kenzo strolls along the, like, promenade of the harbor, looking for a—a friendly cafe, and you see one that’s bustling but not too bustling, has a nice view out of the harbor. You can actually see from—from sitting outside, there’s, like, some waterfalls that are cascading down a cliff off to the east. Stop!\n\n"
+            },
+            {
+              "startUid": "u2202",
+              "endUid": "u2205",
+              "quote": "DM: Great—great view, pleasant atmosphere. It’s May, it’s nice and warm. There’s a bit of a sea breeze that’s just picking up. You sit down and just—just kinda take in the vibe, right? Like, get—get a nice coffee, little pastry, or something.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p23": {
+      "label": "Tullus’s map shop",
+      "kind": "shop",
+      "evidence": [
+        {
+          "startUid": "u2231",
+          "endUid": "u2233",
+          "quote": "DM: You kind of poke your way around the—the little alleys around the main market, and you can see that you—you find this one shop that— unassuming. There’s, like, only a small sign that has a little scroll on it. But you can see in the, like, one window that is just, like, a messy pile of all sorts of papers and maps and books. This is, like, your—you know, your sort of place.\n\n"
+        },
+        {
+          "startUid": "u2234",
+          "endUid": "u2237",
+          "quote": "DM: Push your way in, in this—this sort of older man, portly man, white hair that’s kind of, like, balding on the top, spectacles, like, down on his nose, right? Like, peering down at something, and hears the bell ring, and he looks up. “Who’s there?”\n\n"
+        },
+        {
+          "startUid": "u2332",
+          "endUid": "u2333",
+          "quote": "DM: He gives you a little bow. “Tullus is the name. If you ever need more maps—”\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p18",
+          "evidence": [
+            {
+              "startUid": "u2227",
+              "endUid": "u2230",
+              "quote": "DM: We cut over to Wellby, who is poking through the market looking for a map seller, right? And, you've got a good nose. Wellby’s got a good nose for these things.\n\n"
+            },
+            {
+              "startUid": "u2231",
+              "endUid": "u2233",
+              "quote": "DM: You kind of poke your way around the—the little alleys around the main market, and you can see that you—you find this one shop that— unassuming. There’s, like, only a small sign that has a little scroll on it. But you can see in the, like, one window that is just, like, a messy pile of all sorts of papers and maps and books. This is, like, your—you know, your sort of place.\n\n"
+            },
+            {
+              "startUid": "u2234",
+              "endUid": "u2237",
+              "quote": "DM: Push your way in, in this—this sort of older man, portly man, white hair that’s kind of, like, balding on the top, spectacles, like, down on his nose, right? Like, peering down at something, and hears the bell ring, and he looks up. “Who’s there?”\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p24": {
+      "label": "Juliana Maris’s merchant-house manor",
+      "kind": "manor",
+      "evidence": [
+        {
+          "startUid": "u2097",
+          "endUid": "u2100",
+          "quote": "DM: Information, yeah, yeah. So—so Juliana Maris, she is known as a collector of— She has a reputation, both being rich, and for buying any merfolk artifacts that one sell—have to sell to her, And also being somewhat eccentric. She probably lives in one of these old merchant houses turned into a rich person’s manor, but Martino just notes her by name and description.\n\n"
+        },
+        {
+          "startUid": "u2365",
+          "endUid": "u2375",
+          "quote": "DM: “Okay, my pleasure.” Skipping over to Juliana, after a bit of asking around, you find her—your—her house, and you sort of knock on— on the door, and—and servant comes and lets you in, and and you hear this yelling in in the background like an older woman kind of yelling it in anger at somebody, like, “This is all fraudulent. Never—blacklist him. Never buy anything from that scum Lucas again. None of this is magical at all. Claim merfolk magic. Screw him, he’s never gonna sell anything in this town again.”\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p18",
+          "evidence": [
+            {
+              "startUid": "u2097",
+              "endUid": "u2100",
+              "quote": "DM: Information, yeah, yeah. So—so Juliana Maris, she is known as a collector of— She has a reputation, both being rich, and for buying any merfolk artifacts that one sell—have to sell to her, And also being somewhat eccentric. She probably lives in one of these old merchant houses turned into a rich person’s manor, but Martino just notes her by name and description.\n\n"
+            },
+            {
+              "startUid": "u2365",
+              "endUid": "u2375",
+              "quote": "DM: “Okay, my pleasure.” Skipping over to Juliana, after a bit of asking around, you find her—your—her house, and you sort of knock on— on the door, and—and servant comes and lets you in, and and you hear this yelling in in the background like an older woman kind of yelling it in anger at somebody, like, “This is all fraudulent. Never—blacklist him. Never buy anything from that scum Lucas again. None of this is magical at all. Claim merfolk magic. Screw him, he’s never gonna sell anything in this town again.”\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p25": {
+      "label": "Juliana’s study",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2376",
+          "endUid": "u2381",
+          "quote": "DM: And then, like, “Oh, yeah, yeah, show them in,” and you’re led into this study. Quite quite eclectic mix of things. Juliana is a woman in her late fifties. Silver hair, clearly, like, imported Chardonian-style, like, silk robes, elegantly dressed. A couple of silver rings on her fingers, like her hair sort of done up with a—in a bun, sort of tan, blue eyes. Quiet, as you—as you come, and there’s a—a—a younger man who sort of bows and backs out as—as you approach.\n\n"
+        },
+        {
+          "startUid": "u2382",
+          "endUid": "u2383",
+          "quote": "DM: She looks up at me, she says, “Welcome!” And you could see, like, scattered around this study there’s, like, probably a hundred different little trinkets of various kinds, like some made of coral, some made of shell, all something, like, ocean-related.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p24",
+          "evidence": [
+            {
+              "startUid": "u2365",
+              "endUid": "u2375",
+              "quote": "DM: “Okay, my pleasure.” Skipping over to Juliana, after a bit of asking around, you find her—your—her house, and you sort of knock on— on the door, and—and servant comes and lets you in, and and you hear this yelling in in the background like an older woman kind of yelling it in anger at somebody, like, “This is all fraudulent. Never—blacklist him. Never buy anything from that scum Lucas again. None of this is magical at all. Claim merfolk magic. Screw him, he’s never gonna sell anything in this town again.”\n\n"
+            },
+            {
+              "startUid": "u2376",
+              "endUid": "u2381",
+              "quote": "DM: And then, like, “Oh, yeah, yeah, show them in,” and you’re led into this study. Quite quite eclectic mix of things. Juliana is a woman in her late fifties. Silver hair, clearly, like, imported Chardonian-style, like, silk robes, elegantly dressed. A couple of silver rings on her fingers, like her hair sort of done up with a—in a bun, sort of tan, blue eyes. Quiet, as you—as you come, and there’s a—a—a younger man who sort of bows and backs out as—as you approach.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p26": {
+      "label": "Crowded pan-pipe tavern",
+      "kind": "tavern",
+      "evidence": [
+        {
+          "startUid": "u3148",
+          "endUid": "u3150",
+          "quote": "DM: You hear one more song: a woman who seems to have drawn quite a crowd, who’s, like, playing on—on pan pipes and—and singing a ballad echoing from from a tavern that’s, like, people are spilling out. Like, she seems to be very popular.\n\n"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/The Drunken Dolphin.md",
+      "note": "The dated Session 98 record identifies Isabetta’s crowded tavern as The Drunken Dolphin; the reference note corroborates its identity. The polished source does not name it.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p18",
+          "evidence": [
+            {
+              "startUid": "u3039",
+              "endUid": "u3043",
+              "quote": "DM: Okay, well, I mean, you do—you do pick up a bunch of rumors as you sort of wander the the the docks, mostly.\n\n"
+            },
+            {
+              "startUid": "u3147",
+              "endUid": "u3147",
+              "quote": "DM: Keep wandering around a little bit, poking in some other taverns.\n\n"
+            },
+            {
+              "startUid": "u3148",
+              "endUid": "u3150",
+              "quote": "DM: You hear one more song: a woman who seems to have drawn quite a crowd, who’s, like, playing on—on pan pipes and—and singing a ballad echoing from from a tavern that’s, like, people are spilling out. Like, she seems to be very popular.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p27": {
+      "label": "Castrella dockside taverns",
+      "kind": "district",
+      "evidence": [
+        {
+          "startUid": "u3039",
+          "endUid": "u3043",
+          "quote": "DM: Okay, well, I mean, you do—you do pick up a bunch of rumors as you sort of wander the the the docks, mostly.\n\n"
+        },
+        {
+          "startUid": "u3113",
+          "endUid": "u3113",
+          "quote": "DM: If you walk around town asking about merfolk, everybody’s like, “Oh yeah, you should go listen to the ballads in the taverns.”\n\n"
+        },
+        {
+          "startUid": "u3119",
+          "endUid": "u3120",
+          "quote": "DM: You spend the evening.\n\n"
+        },
+        {
+          "startUid": "u3147",
+          "endUid": "u3147",
+          "quote": "DM: Keep wandering around a little bit, poking in some other taverns.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p18",
+          "evidence": [
+            {
+              "startUid": "u2958",
+              "endUid": "u2961",
+              "quote": "DM: Okay so go back into town after failing to scry. Do what?\n\n"
+            },
+            {
+              "startUid": "u2969",
+              "endUid": "u2974",
+              "quote": "DM: So I mean, the way—just, like, the vibe of the city, right, is like there’s, you know, cafes and inns and things and taverns along the docks. You know, there’s the rich people houses. There’s the market, like, it’s mid-afternoon at this point, so, you know, the people are starting to file into the taverns. Like, you guys are only— spend—you can certainly, like, poke around a little bit, spend a little time, like, seeing if you can—\n\n"
+            },
+            {
+              "startUid": "u3039",
+              "endUid": "u3043",
+              "quote": "DM: Okay, well, I mean, you do—you do pick up a bunch of rumors as you sort of wander the the the docks, mostly.\n\n"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0036",
+        "endUid": "u0040"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Teleport from Ursk to the docks of Nevium.",
+      "evidence": [
+        {
+          "startUid": "u0036",
+          "endUid": "u0040",
+          "quote": "DM: So we begin. As Seeker finishes his teleport spell, and the cold of Ursk fades around you in an instant as you’re pulled through space. The first thing you notice is the heat, the jarring shift from the cold north, where the beginning of May is barely the beginning of spring to the warmth of the Gulf of Chardon, where it feels practically summer.\n\n"
+        },
+        {
+          "startUid": "u0041",
+          "endUid": "u0044",
+          "quote": "DM: The second thing you notice is the darkness: from morning light in Ursk to the pre-dawn inky blackness, only a thin crescent moon casting a faint light on the water.\n\n"
+        },
+        {
+          "startUid": "u0062",
+          "endUid": "u0068",
+          "quote": "DM: As you recall these stories in these little tiny scraps of information, that is all you have to go on as you search for a piece of jade in a vast— the vast western oceans. You look around and you see you’re on the docks of a city, the city Nevium, the provincial capital of Portalia, a province in the Chardonian Empire.\n\n"
+        }
+      ],
+      "from": "p01",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "teleport",
+      "timeRefs": [
+        "t01"
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0183",
+        "endUid": "u0193"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Launch the small folding boat and row away from the docks into Nevium’s harbor.",
+      "evidence": [
+        {
+          "startUid": "u0183",
+          "endUid": "u0193",
+          "quote": "DM: Okay. So Wellby manages to slip the boat in the water pretty gracefully, and there's enough creaks and clacks and things like that going on that, you know, a little bit of noise is not super obvious. Like, you’re—you basically look like a— there’s a—a—not—there’s a handful of other boats roughly this size that are going out fishing with the morning tide.\n\n"
+        },
+        {
+          "startUid": "u0194",
+          "endUid": "u0199",
+          "quote": "DM: Otherwise there’s not—there’s no, like, trading ships or anything on this— at this time of day, but a few other small boats. And so you manage to slip out into the harbor, out and rowing because the—the— and—and going out with the tide.\n\n"
+        }
+      ],
+      "from": "p02",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "row",
+      "locationContext": [
+        {
+          "subject": "p07",
+          "relation": "in_harbor_of",
+          "target": "p03"
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0200",
+        "endUid": "u0204"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From their boat, see a Chardonian naval warship anchored in the harbor.",
+      "evidence": [
+        {
+          "startUid": "u0200",
+          "endUid": "u0204",
+          "quote": "DM: As you look back at the city, you can see—so this is— the city itself is built on a marsh. Basically, there’s a bunch of of wooden pilings and things that extend out. There’s a little bit of a barrier island that forms a sheltered harbor, and there is a— what looks like a naval warship, anchored sort of in the middle of the harbor.\n\n"
+        },
+        {
+          "startUid": "u0221",
+          "endUid": "u0226",
+          "quote": "DM: But I mean, there's definitely people standing on the deck on watch. They don't seem particularly concerned by— like, they’re not challenging the fishing boats necessarily.\n\n"
+        },
+        {
+          "startUid": "u0236",
+          "endUid": "u0236",
+          "quote": "DM: Yeah, Chardonian navy for sure.\n\n"
+        }
+      ],
+      "place": "p08",
+      "mode": "local",
+      "observerPlace": "p07",
+      "locationContext": [
+        {
+          "subject": "p08",
+          "relation": "in_harbor_of",
+          "target": "p03"
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0458",
+        "endUid": "u0473"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Sail northwest across the Gulf of Chardon and settle into a small cove on the rocky coast by evening, after about eighty miles in all.",
+      "evidence": [
+        {
+          "startUid": "u0458",
+          "endUid": "u0473",
+          "quote": "DM: It takes you a bit. It takes you some—a little bit of time to sort of navigate out of the harbor and and catch the wind. So by the time you’re— it’s, you know, it’s dawn by the time you’re really— can see the—the— you’re past the Barrier Island and sort of out of the harbor itself, and can see now the coastline spread across your field of vision, and—and you can see— so you can see the canal ahead. There’s a fort at the entrance to the canal. The canal—this northern end of the canal is basically a dredged channel through a massive river delta, salt marsh. So it’s—you know, it’s—there’s all these, like, little passageways that cut through the marsh, and then on an island guarding the entrance to the canal there’s this Chardonian fort. I presume you’re steering away from— and there’s some—you can see that there’s ship traffic now sort of piling up to go into the canal. So— Bada.\n\n"
+        },
+        {
+          "startUid": "u0478",
+          "endUid": "u0479",
+          "quote": "DM: So you kinda just tack out into the ocean into the Gulf of Chardon and just avoiding any close approach to any of the canal business going on here.\n\n"
+        },
+        {
+          "startUid": "u0569",
+          "endUid": "u0577",
+          "quote": "DM: So okay, so, I mean, you're having to tack across the wind. But Wellby is a good— good sailor, good enough sailor. You managed to make, you know, by—by noon, another, like, 4 h, you manage to make another, like, 28 miles of progress, like out now in the middle of the ocean.\n\n"
+        },
+        {
+          "startUid": "u0589",
+          "endUid": "u0593",
+          "quote": "DM: And so by the time the sun is set, you've traveled another probably almost 50 miles, so a total of a total of something like 80-ish miles. And you.\n\n"
+        },
+        {
+          "startUid": "u0594",
+          "endUid": "u0601",
+          "quote": "DM: So that's 1, 2— and have, based on Wellby’s dead reckoning, find yourself as the sun is setting— of a—this view is not of sunset, but seeing in the distance a rocky coast.\n\n"
+        },
+        {
+          "startUid": "u0645",
+          "endUid": "u0645",
+          "quote": "DM: So you settle into a small cove for the evening.\n\n"
+        },
+        {
+          "startUid": "u0962",
+          "endUid": "u0967",
+          "quote": "DM: Okay, so, as you make dinner and settle in, presumably on the shore. There’s not really a lot of—there’s not really enough space for you to sleep on the boat. That's too small.\n\n"
+        }
+      ],
+      "from": "p03",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "row and sail",
+      "vehicle": "p07",
+      "distance": {
+        "value": 80,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM’s approximate total for the first day’s voyage."
+      },
+      "route": [
+        {
+          "reading": "Pass beyond Nevium’s barrier island."
+        },
+        {
+          "place": "p09",
+          "reading": "Avoid the canal entrance and its traffic; do not enter."
+        },
+        {
+          "place": "p06",
+          "reading": "Cross open water out of sight of land, heading due northwest."
+        }
+      ],
+      "timeRefs": [
+        "t02",
+        "t03",
+        "t04"
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0458",
+        "endUid": "u0473"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "See the northern canal’s delta channels and island fort from offshore while steering clear.",
+      "evidence": [
+        {
+          "startUid": "u0458",
+          "endUid": "u0473",
+          "quote": "DM: It takes you a bit. It takes you some—a little bit of time to sort of navigate out of the harbor and and catch the wind. So by the time you’re— it’s, you know, it’s dawn by the time you’re really— can see the—the— you’re past the Barrier Island and sort of out of the harbor itself, and can see now the coastline spread across your field of vision, and—and you can see— so you can see the canal ahead. There’s a fort at the entrance to the canal. The canal—this northern end of the canal is basically a dredged channel through a massive river delta, salt marsh. So it’s—you know, it’s—there’s all these, like, little passageways that cut through the marsh, and then on an island guarding the entrance to the canal there’s this Chardonian fort. I presume you’re steering away from— and there’s some—you can see that there’s ship traffic now sort of piling up to go into the canal. So— Bada.\n\n"
+        },
+        {
+          "startUid": "u0478",
+          "endUid": "u0479",
+          "quote": "DM: So you kinda just tack out into the ocean into the Gulf of Chardon and just avoiding any close approach to any of the canal business going on here.\n\n"
+        }
+      ],
+      "place": "p10",
+      "mode": "local",
+      "observerPlace": "p07"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0646",
+        "endUid": "u0652"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Fly up to a hill lookout, scout the coast and town, then return down to the companions at the cove.",
+      "evidence": [
+        {
+          "startUid": "u0646",
+          "endUid": "u0652",
+          "quote": "Delwath: I'm gonna go scout. I think if we’re not gonna—if we’re just settling in, I’m just gonna—I’ll fly up to—I mean, this is, like, hilly, right? Like, it would—10 min of flying. Presumably I can get relatively high, like towards the tops of one of these hills, and then just look around. Is there any towns? Any signs of—?\n\n"
+        },
+        {
+          "startUid": "u0653",
+          "endUid": "u0656",
+          "quote": "DM: So there is—there is a small city, town-ish, something like that, that’s actually back a little ways along the coast that you sailed past, maybe 50 miles or so. Didn’t—\n\n"
+        },
+        {
+          "startUid": "u0658",
+          "endUid": "u0661",
+          "quote": "DM: There’s, you know, there’s some ships. It looks like maybe mostly fishing. There’s—you can see some—are you—? So you’re looking at a distance in this direction, maybe—maybe 15 miles west along the coast, or east along the coast from where you are, so you kind of missed it in your navigation before you hit the land.\n\n"
+        },
+        {
+          "startUid": "u0662",
+          "endUid": "u0664",
+          "quote": "DM: Some activity. There’s, you know, there’s fishing boats coming in for the evening. People docked. It seems substantially smaller than Nevium, where you were before. It—from a distance, it’s hard to gather much more details.\n\n"
+        },
+        {
+          "startUid": "u0774",
+          "endUid": "u0777",
+          "quote": "Delwath: Okay. I’ll come back down, share with everybody that we missed the town.\n\n"
+        }
+      ],
+      "from": "p11",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "place": "p12",
+          "reading": "Scout from higher ground near the cove; return down after the observations."
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u0653",
+        "endUid": "u0656"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "From the hill, see a smaller fishing town back along the coast; the estimate is corrected to about fifteen miles east.",
+      "evidence": [
+        {
+          "startUid": "u0653",
+          "endUid": "u0656",
+          "quote": "DM: So there is—there is a small city, town-ish, something like that, that’s actually back a little ways along the coast that you sailed past, maybe 50 miles or so. Didn’t—\n\n"
+        },
+        {
+          "startUid": "u0658",
+          "endUid": "u0661",
+          "quote": "DM: There’s, you know, there’s some ships. It looks like maybe mostly fishing. There’s—you can see some—are you—? So you’re looking at a distance in this direction, maybe—maybe 15 miles west along the coast, or east along the coast from where you are, so you kind of missed it in your navigation before you hit the land.\n\n"
+        },
+        {
+          "startUid": "u0662",
+          "endUid": "u0664",
+          "quote": "DM: Some activity. There’s, you know, there’s fishing boats coming in for the evening. People docked. It seems substantially smaller than Nevium, where you were before. It—from a distance, it’s hard to gather much more details.\n\n"
+        }
+      ],
+      "place": "p13",
+      "mode": "local",
+      "observerPlace": "p12"
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u0670",
+        "endUid": "u0671"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scry the fishing town’s docks, hearing ordinary trade and unease about war and seeing a Legion patrol.",
+      "evidence": [
+        {
+          "startUid": "u0670",
+          "endUid": "u0671",
+          "quote": "Delwath: Scrying on the docks now that I can see it, which is the next thing I'm gonna do.\n\n"
+        },
+        {
+          "startUid": "u0674",
+          "endUid": "u0676",
+          "quote": "DM: Okay, so you see the docks. You know, most of it is just kind of the normal bustle. There’s—there’s people hauling fish, you know a little bit of chatter back and forth, people talking Chardonian. And do you speak Chardonian?\n\n"
+        },
+        {
+          "startUid": "u0746",
+          "endUid": "u0756",
+          "quote": "DM: There’s definitely a lot of chatter about Chardon, like not in any clear way, right? You don’t hear your names mentioned. You don’t hear, you know, “So Kenzo and Delwath escaped from their execution and are the most wanted.” But there’s a lot of chatter about, like, “What happens? Like, is there gonna be war? Who did this?” Like, you know, things are bad. “Is—you know, are they gonna—is there gonna be a tax? Is there gonna be a levy? Are we gonna get drafted into the navy?”\n\n"
+        },
+        {
+          "startUid": "u0760",
+          "endUid": "u0761",
+          "quote": "DM: But there is a guard. I mean, there is a guard here. You do, like— you do see in the 10 min the Chardonian Legion patrolling the dock.\n\n"
+        }
+      ],
+      "place": "p13",
+      "mode": "remote",
+      "observerPlace": "p12",
+      "timeRefs": [
+        "t05"
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1202",
+        "endUid": "u1205"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The next morning, sail about eight miles east and stop in a second cove short of Artevus.",
+      "evidence": [
+        {
+          "startUid": "u1173",
+          "endUid": "u1176",
+          "quote": "DM: You're currently sailing the big boat into town, which is about 10 miles back east. Okay. So, correct.\n\n"
+        },
+        {
+          "startUid": "u1202",
+          "endUid": "u1205",
+          "quote": "Delwath: Morning we embiggened the boat, and we sailed 8 miles or so back along the coast. That’s probably, what, an hour and a half or something. Yeah, so—\n\n"
+        },
+        {
+          "startUid": "u1206",
+          "endUid": "u1206",
+          "quote": "DM: Something like that.\n\n"
+        },
+        {
+          "startUid": "u1207",
+          "endUid": "u1212",
+          "quote": "Delwath: And when we got sort of not quite, like, obviously within sight of town, right? We’re hugging the coast when we’re close to town, but not, like, “Hey, the town can see the boat” close. We find a little cove with a not-sheer cliff, and Delwath and Kenzo, I guess, scramble up to the— how are you not going to get recognized, Kenzo? Do you have a disguise ability?\n\n"
+        }
+      ],
+      "from": "p11",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "sail",
+      "vehicle": "p07",
+      "distance": {
+        "value": 8,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "Accepted retrospective account of the completed morning leg."
+      },
+      "duration": {
+        "value": 1.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Accepted retrospective duration, approximately an hour and a half."
+      },
+      "timeRefs": [
+        "t07"
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1221",
+        "endUid": "u1221"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Go alone from the near-town cove, down the rocks through Artevus’s main square, and into the inn.",
+      "evidence": [
+        {
+          "startUid": "u1216",
+          "endUid": "u1216",
+          "quote": "Kenzo: And maybe not me.\n\n"
+        },
+        {
+          "startUid": "u1218",
+          "endUid": "u1218",
+          "quote": "Kenzo: Oh, yeah, that's right. We are the 2 terrorists. Fine.\n\n"
+        },
+        {
+          "startUid": "u1221",
+          "endUid": "u1221",
+          "quote": "Delwath: I can go by myself. It’s fine. Does our telepathy last that range?\n\n"
+        },
+        {
+          "startUid": "u1240",
+          "endUid": "u1241",
+          "quote": "DM: So you, as you approach from the cliff side, you can see basically what you saw before. The town's like fairly quiet in the morning.\n\n"
+        },
+        {
+          "startUid": "u1256",
+          "endUid": "u1263",
+          "quote": "DM: So you kind of make your way—pick your way down the rocks into the sort of main square, definitely getting some looks. It's small enough that everybody kinda knows everybody in town. So you know, them— rumor, or the sort of chatter starts going around like, “Oh, there’s a stranger in town.” It's big enough that you're not immediately questioned, but small enough that it's obvious you're not like from here.\n\n"
+        },
+        {
+          "startUid": "u1290",
+          "endUid": "u1292",
+          "quote": "Delwath: So I'll go to the inn. I mean the—\n\n"
+        },
+        {
+          "startUid": "u1300",
+          "endUid": "u1302",
+          "quote": "Delwath: I'll start at the inn. I mean, I I don't need to like play out every moment in detail, but the basic idea is to kind of spend money right? I brought a bunch of gold. I don't know. We have tons of gold, right? Lots of mixed coins, right? So I can—I mean, pay out silver, not just gold.\n\n"
+        },
+        {
+          "startUid": "u1320",
+          "endUid": "u1321",
+          "quote": "DM: So you spend a little—a little—wait, a little while, maybe an hour or so, just kind of sitting in the inn.\n\n"
+        }
+      ],
+      "from": "p14",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "place": "p13",
+          "reading": "Enter the town through the rocks and main square."
+        }
+      ],
+      "timeRefs": [
+        "t08",
+        "t09"
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1483",
+        "endUid": "u1486"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Approach Summer’s Breeze with the companions’ boat, tie alongside, and climb aboard to meet the captain.",
+      "evidence": [
+        {
+          "startUid": "u1483",
+          "endUid": "u1486",
+          "quote": "DM: Okay, so you're heading up to Martino. The rest of you are sailing. So when you get close, you can see the ship. It’s a— it’s a reasonably—\n\n"
+        },
+        {
+          "startUid": "u1494",
+          "endUid": "u1494",
+          "quote": "Wellby: I’ll sort of, like, hail the captain or mate or whoever I can see on deck telepathically, and come out and give him a wave and ask, “Come aboard?”\n\n"
+        },
+        {
+          "startUid": "u1497",
+          "endUid": "u1504",
+          "quote": "DM: She is a sort of stout halfling, wearing a wide-brimmed hat, green—green cloak, like, nice boots, curly brownish hair underneath the hat, smile on her face. Just kind of looking out over the rail, and when she realized you’re a halfling she, like, gives you a big wave, and you can see the ships called the Summer’s Breeze. It seems—the ship seems pretty quiet, actually. Not—\n\n"
+        },
+        {
+          "startUid": "u1509",
+          "endUid": "u1509",
+          "quote": "Wellby: I’ll climb aboard, and, like, we’ll tie a little ship against theirs and—\n\n"
+        },
+        {
+          "startUid": "u1510",
+          "endUid": "u1510",
+          "quote": "DM: Yeah, yeah.\n\n"
+        }
+      ],
+      "from": "p14",
+      "to": "p17",
+      "completion": "arrived",
+      "mode": "row and board",
+      "vehicle": "p07",
+      "locationContext": [
+        {
+          "subject": "p17",
+          "relation": "in_harbor_of",
+          "target": "p13"
+        },
+        {
+          "subject": "p07",
+          "relation": "alongside",
+          "target": "p17"
+        }
+      ],
+      "note": "Only Wellby’s boarding is explicit here; the others’ completed boarding is confirmed at l14."
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1631",
+        "endUid": "u1634"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Visit Martino at his house in the hills while the others approach the halflings.",
+      "evidence": [
+        {
+          "startUid": "u1455",
+          "endUid": "u1455",
+          "quote": "Delwath: I—while they’re sailing out, while they’re doing this, I will hike up and talk to Martino.\n\n"
+        },
+        {
+          "startUid": "u1631",
+          "endUid": "u1634",
+          "quote": "DM: Meanwhile, Delwath, unaware of you hiring the— yourself out as crew for the halflings, approaches the house of Martino.\n\n"
+        },
+        {
+          "startUid": "u1635",
+          "endUid": "u1642",
+          "quote": "DM: An old sailor, tanned skin, he’s sitting—he’s sitting on his do, basically looking out, like, Bab— whittling something. And you can see that his left hand is sort of like badly injured, like he’s got a scar down the middle, and it doesn’t really move. Right hand seems fine. I mean, he’s whittling with his right hand, tangled gray beard, and looks up as—as Delwath approaches.\n\n"
+        }
+      ],
+      "from": "p15",
+      "to": "p16",
+      "completion": "arrived",
+      "mode": "walk",
+      "timeRefs": [
+        "t10"
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1778",
+        "endUid": "u1779"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Descend to town and swim underwater to the companions’ boat tied beside Summer’s Breeze, climbing aboard with gills and fins.",
+      "evidence": [
+        {
+          "startUid": "u1778",
+          "endUid": "u1779",
+          "quote": "DM: Okay. So you head down. You see the ship in—you see your ship dock next to the halfling ship in the harbor.\n\n"
+        },
+        {
+          "startUid": "u1781",
+          "endUid": "u1781",
+          "quote": "DM: It's like lunchtime at this point.\n\n"
+        },
+        {
+          "startUid": "u1796",
+          "endUid": "u1799",
+          "quote": "Delwath: So, so I’ll—when I— when there’s nobody looking, right, I’ll just, like, slip into the water. And then once I’m 3 quarter, you know, once I’m in the water, I’ll turn aquatic, right?\n\n"
+        },
+        {
+          "startUid": "u1800",
+          "endUid": "u1803",
+          "quote": "Delwath: But that—Delwath swims underwater. You’ve not seen them do this before, deep underwater at the bottom of the water, and come up by the boat right, and climb up into the boat, like, not visible from town, but with, like, gills and fins.\n\n"
+        },
+        {
+          "startUid": "u1804",
+          "endUid": "u1806",
+          "quote": "DM: Pippa looks at you a bit strangely. “That’s one of yours?”\n\n"
+        },
+        {
+          "startUid": "u1811",
+          "endUid": "u1815",
+          "quote": "Wellby: Delwath, Pippa. Pippa, Delwath. Delwath, real brief, We're gonna sail. They're gonna take us. They're gonna take us. Yeah. I—\n\n"
+        }
+      ],
+      "from": "p16",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk and swim",
+      "route": [
+        {
+          "place": "p13",
+          "reading": "Return down to the town’s waterfront before swimming out."
+        }
+      ],
+      "locationContext": [
+        {
+          "subject": "p07",
+          "relation": "alongside",
+          "target": "p17"
+        },
+        {
+          "subject": "p17",
+          "relation": "in_harbor_of",
+          "target": "p13"
+        }
+      ],
+      "timeRefs": [
+        "t11"
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "presence",
+      "source": {
+        "startUid": "u1927",
+        "endUid": "u1930"
+      },
+      "actors": [
+        "party",
+        "Martino"
+      ],
+      "reading": "Everyone is now aboard Summer’s Breeze, including Martino fetched by the launch.",
+      "evidence": [
+        {
+          "startUid": "u1907",
+          "endUid": "u1916",
+          "quote": "DM: Oh yes, the pilot. Let’s— Let's bring them on board. What harm could it do? Aha! Sends a launch out and and as they do, The—you can hear the—the crew down below is prepare—preparing lunch. Beginning— just sing a song. Alice. Oh, yes.\n\n"
+        },
+        {
+          "startUid": "u1922",
+          "endUid": "u1926",
+          "quote": "DM: And as they finish their song they bring up some food and set lunch for you. And everybody is pretty merry, and they’re clearly intending to eat before they set sail. Well, you’re—well, the poor guy who drew the short straws picking up the pilot.\n\n"
+        },
+        {
+          "startUid": "u1927",
+          "endUid": "u1930",
+          "quote": "DM: So by noon, by one or so everybody’s on board. Halflings are introduced. Pippa is introduced to Martino. Martino is impressed that you somehow manage to magically have a halfling ship.\n\n"
+        }
+      ],
+      "place": "p17",
+      "locationContext": [
+        {
+          "subject": "p17",
+          "relation": "in_harbor_of",
+          "target": "p13"
+        }
+      ],
+      "timeRefs": [
+        "t12",
+        "t13"
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1983",
+        "endUid": "u1988"
+      },
+      "actors": [
+        "party",
+        "Martino"
+      ],
+      "reading": "Sail from Artevus toward Castrella on Summer’s Breeze; continue past sunset into the bay and reach the Castrella harbor anchorage by the following morning.",
+      "evidence": [
+        {
+          "startUid": "u1983",
+          "endUid": "u1988",
+          "quote": "DM: Sal— you set off sailing on the Summer’s Breeze captained by by Pippa.\n\n"
+        },
+        {
+          "startUid": "u1996",
+          "endUid": "u2001",
+          "quote": "DM: So you—you go. You—you’re making good time, and the halfling slept late, so they have no problem pushing into the evening. You travel another, you know, making making good time on on the evening breeze.\n\n"
+        },
+        {
+          "startUid": "u2002",
+          "endUid": "u2005",
+          "quote": "DM: The wind—the wind shifts a little bit as—as the sun begins to set, so that it’s— it’s blowing up— It's blowing directly from the east.\n\n"
+        },
+        {
+          "startUid": "u2013",
+          "endUid": "u2019",
+          "quote": "DM: And you can see here now, you—so you’ve traveled up the coast far enough that you can see there’s, like, a—a gulf or a—a— a bay that cuts in. You can see that on—on Roll20, this, like, thing right here. You’re basically at the mouth of this bay, and there— Castrella is at the far end of this bay. They’re heading— they're heading in.\n\n"
+        },
+        {
+          "startUid": "u2020",
+          "endUid": "u2024",
+          "quote": "DM: It's another 20 ish miles, but with a little convincing the halflings are willing to get you there tonight. It’s probably another 2 or 3 h of sailing, which I assume is what you’re interested in, yeah? Okay.\n\n"
+        },
+        {
+          "startUid": "u2036",
+          "endUid": "u2037",
+          "quote": "DM: Okay, so day breaks, and you see the city of Castrella before you. This is a much bigger city than what—the one you were in before, which—which never actually got the name. It was Artevus.\n\n"
+        },
+        {
+          "startUid": "u2038",
+          "endUid": "u2046",
+          "quote": "DM: Castrella is also set like Artevus on a hill on a sort of flat ground below the hills, but it’s— it's easily 5 times the size, right? It’s at least—there’s gotta be 3, 4,000, 5,000 people that live here. This is a substantial town. The harbor is full: big ships, small ships, trading ships, mostly. You don’t see any evidence of of the Chardonian navy or anything like that, but lots of activity in the port as— as of— as day dawns.\n\n"
+        },
+        {
+          "startUid": "u2104",
+          "endUid": "u2104",
+          "quote": "DM: Go ahead. I was gonna say, you have the boat ride from the halfling ship anchored in the harbor to the docks. Decide what you want to do.\n\n"
+        }
+      ],
+      "from": "p13",
+      "to": "p18",
+      "completion": "arrived",
+      "mode": "sail",
+      "vehicle": "p17",
+      "route": [
+        {
+          "reading": "Follow the coast northwest with the evening breeze."
+        },
+        {
+          "place": "p20",
+          "reading": "Enter the bay; the remaining leg is estimated at twenty miles and two or three hours."
+        }
+      ],
+      "locationContext": [
+        {
+          "subject": "p17",
+          "relation": "in_harbor_of",
+          "target": "p18"
+        }
+      ],
+      "timeRefs": [
+        "t14",
+        "t15"
+      ],
+      "note": "The next-day dawn view is explicit; the exact harbor-entry watch remains open."
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2069",
+        "endUid": "u2072"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Take the little boat ashore to Castrella’s docks; Martino remains aboard Summer’s Breeze.",
+      "evidence": [
+        {
+          "startUid": "u2055",
+          "endUid": "u2058",
+          "quote": "DM: Martino knows the city well. He’s not—he wants to just hang out on the boat. He’s not coming into town, but he’s sailed through here many a time on his little fishing sloop back when he used to go out fishing in the—in the—up the coast more regularly. So what do you want to do?\n\n"
+        },
+        {
+          "startUid": "u2069",
+          "endUid": "u2072",
+          "quote": "DM: Okay. So you take your little boat, head into town.\n\n"
+        },
+        {
+          "startUid": "u2104",
+          "endUid": "u2104",
+          "quote": "DM: Go ahead. I was gonna say, you have the boat ride from the halfling ship anchored in the harbor to the docks. Decide what you want to do.\n\n"
+        },
+        {
+          "startUid": "u2130",
+          "endUid": "u2132",
+          "quote": "DM: Okay, so who—who is doing what, as you pull up to the dock and approach the town of the harbor of Castrella.\n\n"
+        }
+      ],
+      "from": "p17",
+      "to": "p21",
+      "completion": "arrived",
+      "mode": "boat"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2198",
+        "endUid": "u2201"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Find a waterfront cafe and sit outside with coffee, a pastry, and a harbor view.",
+      "evidence": [
+        {
+          "startUid": "u2141",
+          "endUid": "u2141",
+          "quote": "Kenzo: Yeah, Kenzo will go to that. Kenzo will do that, and then go find a nice little cafe, and then, you know, make some small—small talk and banter with the locals. See if you can learn anything about—\n\n"
+        },
+        {
+          "startUid": "u2144",
+          "endUid": "u2144",
+          "quote": "Kenzo: Cafe with the view, Tim, by the water.\n\n"
+        },
+        {
+          "startUid": "u2198",
+          "endUid": "u2201",
+          "quote": "DM: We pick up as Kenzo strolls along the, like, promenade of the harbor, looking for a—a friendly cafe, and you see one that’s bustling but not too bustling, has a nice view out of the harbor. You can actually see from—from sitting outside, there’s, like, some waterfalls that are cascading down a cliff off to the east. Stop!\n\n"
+        },
+        {
+          "startUid": "u2202",
+          "endUid": "u2205",
+          "quote": "DM: Great—great view, pleasant atmosphere. It’s May, it’s nice and warm. There’s a bit of a sea breeze that’s just picking up. You sit down and just—just kinda take in the vibe, right? Like, get—get a nice coffee, little pastry, or something.\n\n"
+        }
+      ],
+      "from": "p21",
+      "to": "p22",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u2227",
+        "endUid": "u2230"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Search the market alleys, find the map shop, and enter to speak with its proprietor.",
+      "evidence": [
+        {
+          "startUid": "u2227",
+          "endUid": "u2230",
+          "quote": "DM: We cut over to Wellby, who is poking through the market looking for a map seller, right? And, you've got a good nose. Wellby’s got a good nose for these things.\n\n"
+        },
+        {
+          "startUid": "u2231",
+          "endUid": "u2233",
+          "quote": "DM: You kind of poke your way around the—the little alleys around the main market, and you can see that you—you find this one shop that— unassuming. There’s, like, only a small sign that has a little scroll on it. But you can see in the, like, one window that is just, like, a messy pile of all sorts of papers and maps and books. This is, like, your—you know, your sort of place.\n\n"
+        },
+        {
+          "startUid": "u2234",
+          "endUid": "u2237",
+          "quote": "DM: Push your way in, in this—this sort of older man, portly man, white hair that’s kind of, like, balding on the top, spectacles, like, down on his nose, right? Like, peering down at something, and hears the bell ring, and he looks up. “Who’s there?”\n\n"
+        }
+      ],
+      "from": "p21",
+      "to": "p23",
+      "completion": "arrived",
+      "mode": "walk",
+      "timeRefs": [
+        "t16"
+      ]
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u2365",
+        "endUid": "u2375"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "Find Juliana’s house and follow a servant into her study.",
+      "evidence": [
+        {
+          "startUid": "u2188",
+          "endUid": "u2188",
+          "quote": "Seeker: I think Seeker should go with Delwath, because I can use Arcana knowledge to kind of like, try to understand what we're looking at, because presumably there'll be some artifact.\n\n"
+        },
+        {
+          "startUid": "u2365",
+          "endUid": "u2375",
+          "quote": "DM: “Okay, my pleasure.” Skipping over to Juliana, after a bit of asking around, you find her—your—her house, and you sort of knock on— on the door, and—and servant comes and lets you in, and and you hear this yelling in in the background like an older woman kind of yelling it in anger at somebody, like, “This is all fraudulent. Never—blacklist him. Never buy anything from that scum Lucas again. None of this is magical at all. Claim merfolk magic. Screw him, he’s never gonna sell anything in this town again.”\n\n"
+        },
+        {
+          "startUid": "u2376",
+          "endUid": "u2381",
+          "quote": "DM: And then, like, “Oh, yeah, yeah, show them in,” and you’re led into this study. Quite quite eclectic mix of things. Juliana is a woman in her late fifties. Silver hair, clearly, like, imported Chardonian-style, like, silk robes, elegantly dressed. A couple of silver rings on her fingers, like her hair sort of done up with a—in a bun, sort of tan, blue eyes. Quiet, as you—as you come, and there’s a—a—a younger man who sort of bows and backs out as—as you approach.\n\n"
+        },
+        {
+          "startUid": "u2382",
+          "endUid": "u2383",
+          "quote": "DM: She looks up at me, she says, “Welcome!” And you could see, like, scattered around this study there’s, like, probably a hundred different little trinkets of various kinds, like some made of coral, some made of shell, all something, like, ocean-related.\n\n"
+        }
+      ],
+      "from": "p21",
+      "to": "p25",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "place": "p24",
+          "reading": "Enter Juliana Maris’s merchant-house manor."
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "type": "presence",
+      "source": {
+        "startUid": "u2676",
+        "endUid": "u2678"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Sightsee through Castrella’s trade streets without finding a substantial craft district or dwarven community.",
+      "evidence": [
+        {
+          "startUid": "u2676",
+          "endUid": "u2678",
+          "quote": "DM: We can come back if there’s anything else you wanna say. But skipping over to Riswynn for a minute, so, wandering through town, looking for—just, like, trying to get a sense of the place and—and looking, you don’t—you don’t get the sense that this is a heavily sort of craft-oriented city, right? I mean, obviously there’s, like, a handful of—I mean, there’s some blacksmith. There’s—there’s barrelwrights and things, but it’s not the sort of place that has a huge— I'll be—\n\n"
+        },
+        {
+          "startUid": "u2680",
+          "endUid": "u2680",
+          "quote": "DM: You know, crafting district or something like that. Like,\n\n"
+        },
+        {
+          "startUid": "u2681",
+          "endUid": "u2686",
+          "quote": "DM: You know, there’s the—the sort of heart of the city has, like—trade seems to be its main wealth, right? Like, there’s merchant houses, there’s— I mean, you see, like big barrels of olive oil being rolled into warehouses, and me— you know, wine and and cheese and salted fish, lots of salted fish.\n\n"
+        },
+        {
+          "startUid": "u2700",
+          "endUid": "u2701",
+          "quote": "DM: Yeah, Riswynn is mostly just sightseeing. I mean, you don't hear much. You don't like pick up a lot of obvious news. Kenzo and Riswynn are kind of chilling.\n\n"
+        }
+      ],
+      "place": "p18"
+    },
+    {
+      "id": "l21",
+      "type": "presence",
+      "source": {
+        "startUid": "u2717",
+        "endUid": "u2718"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Reconvene at Kenzo’s cafe after the separate errands.",
+      "evidence": [
+        {
+          "startUid": "u2702",
+          "endUid": "u2704",
+          "quote": "DM: So it’s probably mid-after, you know—well, I guess it was morning when you join. It’s probably about lunchtime by the time you’re done with your errands and reconvene, unless there’s anything else you wanna talk to Juliana about.\n\n"
+        },
+        {
+          "startUid": "u2717",
+          "endUid": "u2718",
+          "quote": "DM: So you’re all gathering back together at Kenzo’s cafe, like, what is— How is the day progressing for all of you?\n\n"
+        },
+        {
+          "startUid": "u2719",
+          "endUid": "u2720",
+          "quote": "Seeker: And sure, you know it's the cafe.\n\n"
+        },
+        {
+          "startUid": "u2721",
+          "endUid": "u2721",
+          "quote": "Kenzo: Yeah.\n\n"
+        }
+      ],
+      "place": "p22",
+      "timeRefs": [
+        "t17"
+      ]
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u2874",
+        "endUid": "u2878"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Return to the halfling ship to discuss onward passage.",
+      "evidence": [
+        {
+          "startUid": "u2874",
+          "endUid": "u2878",
+          "quote": "DM: So you're back on the ship, you basically just wanna convince them to— you wanna try and convince the halflings to take you north.\n\n"
+        }
+      ],
+      "from": "p22",
+      "to": "p17",
+      "completion": "arrived",
+      "mode": "return",
+      "locationContext": [
+        {
+          "subject": "p17",
+          "relation": "in_harbor_of",
+          "target": "p18"
+        }
+      ]
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u2958",
+        "endUid": "u2961"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Go back into Castrella and ask around the docks about merfolk and water-breathing magic.",
+      "evidence": [
+        {
+          "startUid": "u2958",
+          "endUid": "u2961",
+          "quote": "DM: Okay so go back into town after failing to scry. Do what?\n\n"
+        },
+        {
+          "startUid": "u2969",
+          "endUid": "u2974",
+          "quote": "DM: So I mean, the way—just, like, the vibe of the city, right, is like there’s, you know, cafes and inns and things and taverns along the docks. You know, there’s the rich people houses. There’s the market, like, it’s mid-afternoon at this point, so, you know, the people are starting to file into the taverns. Like, you guys are only— spend—you can certainly, like, poke around a little bit, spend a little time, like, seeing if you can—\n\n"
+        },
+        {
+          "startUid": "u3039",
+          "endUid": "u3043",
+          "quote": "DM: Okay, well, I mean, you do—you do pick up a bunch of rumors as you sort of wander the the the docks, mostly.\n\n"
+        }
+      ],
+      "from": "p17",
+      "to": "p21",
+      "completion": "arrived",
+      "mode": "return",
+      "timeRefs": [
+        "t19"
+      ]
+    },
+    {
+      "id": "l24",
+      "type": "presence",
+      "source": {
+        "startUid": "u3119",
+        "endUid": "u3120"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Spend the evening among the dockside taverns listening to merfolk songs.",
+      "evidence": [
+        {
+          "startUid": "u3039",
+          "endUid": "u3043",
+          "quote": "DM: Okay, well, I mean, you do—you do pick up a bunch of rumors as you sort of wander the the the docks, mostly.\n\n"
+        },
+        {
+          "startUid": "u3113",
+          "endUid": "u3113",
+          "quote": "DM: If you walk around town asking about merfolk, everybody’s like, “Oh yeah, you should go listen to the ballads in the taverns.”\n\n"
+        },
+        {
+          "startUid": "u3119",
+          "endUid": "u3120",
+          "quote": "DM: You spend the evening.\n\n"
+        },
+        {
+          "startUid": "u3125",
+          "endUid": "u3125",
+          "quote": "DM: And as you wander, you hear the—\n\n"
+        },
+        {
+          "startUid": "u3147",
+          "endUid": "u3147",
+          "quote": "DM: Keep wandering around a little bit, poking in some other taverns.\n\n"
+        }
+      ],
+      "place": "p27",
+      "timeRefs": [
+        "t20"
+      ]
+    },
+    {
+      "id": "l25",
+      "type": "observation",
+      "source": {
+        "startUid": "u3148",
+        "endUid": "u3150"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Hear the popular woman’s pan-pipe ballad from a crowded tavern; the source does not settle whether the listeners enter.",
+      "evidence": [
+        {
+          "startUid": "u3148",
+          "endUid": "u3150",
+          "quote": "DM: You hear one more song: a woman who seems to have drawn quite a crowd, who’s, like, playing on—on pan pipes and—and singing a ballad echoing from from a tavern that’s, like, people are spilling out. Like, she seems to be very popular.\n\n"
+        },
+        {
+          "startUid": "u3151",
+          "endUid": "u3153",
+          "quote": "Recorded song: In the depths, beneath storm and ocean’s, a garden lush, when merfolk’s secrets do abide. Oh, sing of the kelp so green, rich jade lies deep and still unseen. 100 leagues, secret sleep ’neath waves of gray. A.\n\n"
+        },
+        {
+          "startUid": "u3154",
+          "endUid": "u3158",
+          "quote": "Recorded song: The merfolk dance with silken fins among the kelp. They tend the jade with gentle care, each name a whisper soft as air. Oh, sing of the kelp so green, rich jade lies deep and still unseen, a hundred— west o’ Tamaro Bay, where secret sleep ’neath waves of gray. A. A. A.\n\n"
+        },
+        {
+          "startUid": "u3159",
+          "endUid": "u3160",
+          "quote": "Recorded song: From the deep the jade does grow, glowing faint with mystic show. Names of old, names and new sprout in gardens deep and blue. Oh, sing of the kelp so green, rich jade lies deep and still unseen, a 100— sleep ’neath waves of grey. Tales are told of those who find the garden left behind. Merfolk’s whispers call, in the jade, names of all.\n\n"
+        }
+      ],
+      "place": "p26",
+      "mode": "local",
+      "observerPlace": "p27"
+    },
+    {
+      "id": "l26",
+      "type": "movement",
+      "source": {
+        "startUid": "u3224",
+        "endUid": "u3231"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Return to Summer’s Breeze at its Castrella anchorage for the halflings’ late dinner.",
+      "evidence": [
+        {
+          "startUid": "u3224",
+          "endUid": "u3231",
+          "quote": "DM: So the night ends with you back with some more information. And now left trying to decide how you're going to convince the halflings who are now seem to be at, like, 9 pm about halfway through quite elaborate dinner.\n\n"
+        },
+        {
+          "startUid": "u3232",
+          "endUid": "u3235",
+          "quote": "DM: Pippa looks up and waves you over and is like, “You still hungry? We’ve got salt cod pie, we’ve got— oh, you’ve got to try this— cinnamon cakes! You ever had cinnamon?”\n\n"
+        },
+        {
+          "startUid": "u3239",
+          "endUid": "u3244",
+          "quote": "DM: “Comes from down south, down south of Illoria. I might even have some dried fruit from the last time that Milo came up, this fruit leather that’s sweet and tangy is amazing. Come, eat.”\n\n"
+        }
+      ],
+      "from": "p27",
+      "to": "p17",
+      "completion": "arrived",
+      "mode": "return",
+      "locationContext": [
+        {
+          "subject": "p17",
+          "relation": "in_harbor_of",
+          "target": "p18"
+        }
+      ],
+      "timeRefs": [
+        "t21",
+        "t22"
+      ]
+    },
+    {
+      "id": "l27",
+      "type": "movement",
+      "source": {
+        "startUid": "u3363",
+        "endUid": "u3369"
+      },
+      "actors": [
+        "party",
+        "Summer’s Breeze crew"
+      ],
+      "reading": "Plan to leave Castrella around four or early dawn and sail northwest, looking for Milo and caves where the stoneborn hermit may live.",
+      "evidence": [
+        {
+          "startUid": "u3361",
+          "endUid": "u3362",
+          "quote": "DM: So I think we can end there. So as you go to bed for the night, the halflings are preparing. They need to take on—I mean, they need to restock a little bit. They need to finish their dinner and take on water and stuff. And—and so it’s gonna be first—it’s gonna be pre-dawn that they leave.\n\n"
+        },
+        {
+          "startUid": "u3363",
+          "endUid": "u3369",
+          "quote": "DM: But they’ve made plans to—Pippa apparently stays up all night fairly frequently, and is going to wake the—wake Wellby and the crew at 4, and get the boat underway early dawn, heading fast as can be northwest up the coast, Looking for Milo, worried that he’s lost somewhere, and keeping an eye out on the side for caves where a stoneborn hermit might live.\n\n"
+        }
+      ],
+      "from": "p18",
+      "to": null,
+      "completion": "planned",
+      "context": "planned",
+      "mode": "sail",
+      "vehicle": "p17",
+      "route": [
+        {
+          "reading": "Head northwest along the coast, watching for the hermit’s cave; no reached destination is established."
+        }
+      ]
+    }
+  ]
+}
