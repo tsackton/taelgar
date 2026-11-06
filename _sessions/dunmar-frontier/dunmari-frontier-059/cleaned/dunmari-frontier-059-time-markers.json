@@ -1,0 +1,349 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-059",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-session.yaml",
+    "sessionYamlSha256": "389d3a6d8067dc46982457b47de1b8d73e49c995632c857569c7b02791c0a44e",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-transcript.md",
+    "transcriptSha256": "868ab075c0abbb79b21602bcd6ff02750330e254b7697dcba9829758e7deb101",
+    "yamlDates": {
+      "start": "1748-11-02",
+      "end": "1748-11-06"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0215",
+        "endUid": "u0219"
+      },
+      "reading": "The elders’ blessing and selection ceremony occurs this afternoon, before the riverbank meeting.",
+      "evidence": [
+        {
+          "startUid": "u0215",
+          "endUid": "u0219",
+          "quote": "This afternoon the elders gathered and asked the ancestors to bless the journey, and to help choose who of the handful of champions who had gathered will be sent, who will be blessed to complete the journey."
+        }
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "The opening narration dates this day’s completed ceremony; it gives no calendar date."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0224",
+        "endUid": "u0228"
+      },
+      "reading": "Kenzo meets Izzarak and the babies on Bedez’s riverbank as the sun sinks; Enari joins during this sunset conversation.",
+      "evidence": [
+        {
+          "startUid": "u0224",
+          "endUid": "u0228",
+          "quote": "at the edge of the river, as the sun is sinking, gazing across the cultivated plots of urtaro floating in the peaceful evening light"
+        },
+        {
+          "startUid": "u0318",
+          "endUid": "u0328",
+          "quote": "not disturb the peaceful sunset scene"
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "The DM places the meeting in sinking sunlight and later confirms the sunset scene."
+      },
+      "actors": [
+        "Kenzo",
+        "Izzarak",
+        "Enari"
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0679",
+        "endUid": "u0690"
+      },
+      "reading": "Izzarak separates from the others for the night and completes his divination before the next breakfast.",
+      "evidence": [
+        {
+          "startUid": "u0679",
+          "endUid": "u0690",
+          "quote": "we'll separate for the night because I have to do my divination ritual and everything."
+        },
+        {
+          "startUid": "u0693",
+          "endUid": "u0696",
+          "quote": "you meditate, and you you sort of reach into the sort of spirit of the jungle and the Tharzen Anzinakoa"
+        },
+        {
+          "startUid": "u0707",
+          "endUid": "u0714",
+          "quote": "“Earth, Air, fire, water; the forest bleeds; the dangers come. Earth, air, fire, water; the forest bleeds—”"
+        },
+        {
+          "startUid": "u0715",
+          "endUid": "u0718",
+          "quote": "So over breakfast will we'll have fun interpreting this together."
+        }
+      ],
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "The accepted night separation precedes the played meditation and next breakfast."
+      },
+      "actors": [
+        "Izzarak"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0715",
+        "endUid": "u0721"
+      },
+      "reading": "The next breakfast and departure preparations follow the night in Bedez; the party then sets out on its first travel day.",
+      "evidence": [
+        {
+          "startUid": "u0715",
+          "endUid": "u0718",
+          "quote": "So over breakfast will we'll have fun interpreting this together."
+        },
+        {
+          "startUid": "u0719",
+          "endUid": "u0721",
+          "quote": "as you're preparing to set out"
+        },
+        {
+          "startUid": "u0618",
+          "endUid": "u0619",
+          "quote": "perhaps we set out in the morning and see what the jungle reveals as we walk."
+        },
+        {
+          "startUid": "u0831",
+          "endUid": "u0834",
+          "quote": "So you head out."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Breakfast/preparations follow the night divination, fulfilling the morning departure agreed earlier."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0831",
+        "endUid": "u0834"
+      },
+      "reading": "The party journeys toward the volcano for about two days; the approach is resolved in the late afternoon of its second travel day.",
+      "evidence": [
+        {
+          "startUid": "u0831",
+          "endUid": "u0834",
+          "quote": "So you head out. You travel it's about, takes you about two days to journey towards the volcano"
+        },
+        {
+          "startUid": "u0925",
+          "endUid": "u0927",
+          "quote": "towards late afternoon of the second of your second day of travel"
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "The DM narrates about two days of travel, then identifies the approach as late afternoon on travel day two; this is not an exact forty-eight-hour measurement."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0893",
+        "endUid": "u0901"
+      },
+      "reading": "During the first travel day, Kenzo examines the happy, playing babies around midday.",
+      "evidence": [
+        {
+          "startUid": "u0893",
+          "endUid": "u0901",
+          "quote": "at this this point, like sort of midday through the through the the first day of your journey"
+        },
+        {
+          "startUid": "u0893",
+          "endUid": "u0901",
+          "quote": "They're both at this moment pretty happy and content."
+        }
+      ],
+      "time": {
+        "partOfDay": "midday",
+        "precision": "approximate",
+        "basis": "The DM explicitly scopes the examination to midday on the first travel day."
+      },
+      "actors": [
+        "Kenzo",
+        "Izzarak",
+        "Suzanne",
+        "Zach"
+      ],
+      "relations": [
+        {
+          "type": "during",
+          "target": "t05"
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0925",
+        "endUid": "u0927"
+      },
+      "reading": "Enari halts the party near the Footprint as they approach the volcano in the late afternoon of the second travel day.",
+      "evidence": [
+        {
+          "startUid": "u0925",
+          "endUid": "u0927",
+          "quote": "towards late afternoon of the second of your second day of travel"
+        },
+        {
+          "startUid": "u0925",
+          "endUid": "u0927",
+          "quote": "he like, holds up his hand as you're starting to get close, and says, Do you hear that?"
+        }
+      ],
+      "time": {
+        "partOfDay": "late afternoon",
+        "precision": "approximate",
+        "basis": "The DM identifies the second travel day and late-afternoon approach; no month/day is spoken."
+      },
+      "dateBoundaries": 1,
+      "relations": [
+        {
+          "type": "during",
+          "target": "t05"
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0983",
+        "endUid": "u0985"
+      },
+      "reading": "While the scouts stand watching the lava flow, the hissing grows louder for a few minutes as a tree sinks into it.",
+      "evidence": [
+        {
+          "startUid": "u0983",
+          "endUid": "u0985",
+          "quote": "the hissing gets much louder, for, like um, for like a few minutes as you uh, standing, there"
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "The DM establishes a brief observation interval while the scouts are standing at the lava flow."
+      },
+      "actors": [
+        "Izzarak",
+        "Enari"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u0998",
+        "endUid": "u1001"
+      },
+      "reading": "Kenzo completes a one- or two-minute communion ritual while Izzarak and Enari watch the approaching fire creatures.",
+      "evidence": [
+        {
+          "startUid": "u0998",
+          "endUid": "u1001",
+          "quote": "it takes a a minute or two for you to, like, do this ritual"
+        },
+        {
+          "startUid": "u1010",
+          "endUid": "u1017",
+          "quote": "while, Kenzo is communing with nature"
+        },
+        {
+          "startUid": "u1046",
+          "endUid": "u1055",
+          "quote": "Well, you are right now, finishing your ritual."
+        }
+      ],
+      "duration": {
+        "min": 1,
+        "minInclusive": true,
+        "max": 2,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "The DM gives a minute or two for the ritual and confirms its completion while the other two characters watch the river."
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1372",
+        "endUid": "u1374"
+      },
+      "reading": "Izzarak retrospectively dates his Cosmic Omen roll to waking that morning, before the lava-river fight on the second travel day.",
+      "evidence": [
+        {
+          "startUid": "u1372",
+          "endUid": "u1374",
+          "quote": "when we woke up this morning, I rolled a die."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "The morning is recalled during the late-second-day fight; no new day is advanced."
+      },
+      "actors": [
+        "Izzarak"
+      ],
+      "relations": [
+        {
+          "type": "during",
+          "target": "t05"
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No calendar date is spoken. November 2–6, 1748 comes entirely from YAML. The ceremony, sunset meeting, following breakfast, first travel-day midday and second travel-day afternoon establish relative timing only.",
+    "expectedDateBoundaries": 4,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t10"
+    ],
+    "explanation": "The covered adventure begins with the present-day ceremony and riverbank meeting, then follows the next morning’s departure and two travel days to the lava river. Two calendar transitions are identifiable (the departure morning and the second travel day); the approximate montage and undated opening do not account for the entire four-boundary YAML span. There is no independently dated contradiction. Starting the opening on the YAML start date would put the late-second-day encounter around November 4, but the YAML end date is not used to supply unspoken days. The preceding month, old rituals and months of volcanic trouble are background, not additional played elapsed time."
+  }
+}

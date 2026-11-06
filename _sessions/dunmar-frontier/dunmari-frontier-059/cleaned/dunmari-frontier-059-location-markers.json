@@ -1,0 +1,651 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-059",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-session.yaml",
+    "sessionYamlSha256": "389d3a6d8067dc46982457b47de1b8d73e49c995632c857569c7b02791c0a44e",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-transcript.md",
+    "transcriptSha256": "868ab075c0abbb79b21602bcd6ff02750330e254b7697dcba9829758e7deb101",
+    "timeMarkers": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-time-markers.json",
+      "sha256": "18ceccfff95d9d091b9f0d2d76ef1293c430c2b4e5be36bc3d065b86b62db018",
+      "schemaVersion": "0.5-time-markers-draft"
+    }
+  },
+  "places": {
+    "p01": {
+      "label": "Orekatu",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u0186",
+          "endUid": "u0200",
+          "quote": "the Lizard Folk village of Bedez, a small settlement on the western edge of the kingdom of Orekatu"
+        }
+      ],
+      "vaultPath": "Gazetteer/Faraway Places/Orekatu.md"
+    },
+    "p02": {
+      "label": "Bedez",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0186",
+          "endUid": "u0200",
+          "quote": "the Lizard Folk village of Bedez, a small settlement on the western edge of the kingdom of Orekatu"
+        }
+      ],
+      "vaultPath": "Gazetteer/Faraway Places/Bedez.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0186",
+              "endUid": "u0200",
+              "quote": "the Lizard Folk village of Bedez, a small settlement on the western edge of the kingdom of Orekatu"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Bedez riverbank",
+      "kind": "riverbank",
+      "evidence": [
+        {
+          "startUid": "u0186",
+          "endUid": "u0200",
+          "quote": "the Lizard Folk village of Bedez, a small settlement on the western edge of the kingdom of Orekatu"
+        },
+        {
+          "startUid": "u0224",
+          "endUid": "u0228",
+          "quote": "at the edge of the river, as the sun is sinking, gazing across the cultivated plots of urtaro floating in the peaceful evening light"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0186",
+              "endUid": "u0200",
+              "quote": "the Lizard Folk village of Bedez, a small settlement on the western edge of the kingdom of Orekatu"
+            },
+            {
+              "startUid": "u0224",
+              "endUid": "u0228",
+              "quote": "at the edge of the river, as the sun is sinking, gazing across the cultivated plots of urtaro floating in the peaceful evening light"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Azta Lekua / Footprint of the Gods",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0186",
+          "endUid": "u0200",
+          "quote": "the footprint of the gods known to the Lizard folk as the Azta Lekua"
+        },
+        {
+          "startUid": "u0855",
+          "endUid": "u0857",
+          "quote": "the footprint of the gods is sort of the western edge of the kingdom"
+        },
+        {
+          "startUid": "u0949",
+          "endUid": "u0949",
+          "quote": "you're sort of right on the edge of the footprint."
+        },
+        {
+          "startUid": "u0950",
+          "endUid": "u0952",
+          "quote": "the volcano is usually taken to be the eastern edge, and you're not quite at the foot of the volcano yet"
+        }
+      ],
+      "vaultPath": "Gazetteer/Faraway Places/Azta Lekua.md",
+      "aliases": [
+        "Footprint of the Gods"
+      ],
+      "relations": [
+        {
+          "relation": "on_western_edge_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0855",
+              "endUid": "u0857",
+              "quote": "the footprint of the gods is sort of the western edge of the kingdom"
+            }
+          ]
+        }
+      ],
+      "note": "The transcript treats the Footprint as Orekatu’s western edge and says its boundary expands and contracts (u0950–u0952). The current Azta Lekua note places it just west of the border while its metadata puts it in Orekatu; no strict political containment is asserted here."
+    },
+    "p05": {
+      "label": "Sugarra / Somi-nai volcano",
+      "kind": "volcano",
+      "evidence": [
+        {
+          "startUid": "u0831",
+          "endUid": "u0834",
+          "quote": "journey towards the volcano"
+        },
+        {
+          "startUid": "u1800",
+          "endUid": "u1809",
+          "quote": "He looks up at them at the uh volcano.\n\nDM: Somi-nai, that is me. That is my home, the Lizard folk um call it Sugarra."
+        }
+      ],
+      "aliases": [
+        "volcano",
+        "Sugarra"
+      ],
+      "relations": [
+        {
+          "relation": "on_eastern_edge_of",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0950",
+              "endUid": "u0952",
+              "quote": "the volcano is usually taken to be the eastern edge, and you're not quite at the foot of the volcano yet"
+            }
+          ]
+        }
+      ],
+      "note": "The mountain and its personified spirit share Somi-nai’s wording; Sugarra names the physical home in this passage. No separate volcano note was found."
+    },
+    "p06": {
+      "label": "Jungle bank of the lava river",
+      "kind": "riverbank",
+      "evidence": [
+        {
+          "startUid": "u0988",
+          "endUid": "u0990",
+          "quote": "you're, you're like on the shore, and there's a river that you're looking at. That looks kind of like just a normal river, but it's lava."
+        },
+        {
+          "startUid": "u1260",
+          "endUid": "u1269",
+          "quote": "you're all hidden on the banks about ten feet away."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0949",
+              "endUid": "u0949",
+              "quote": "you're sort of right on the edge of the footprint."
+            },
+            {
+              "startUid": "u0950",
+              "endUid": "u0952",
+              "quote": "the volcano is usually taken to be the eastern edge, and you're not quite at the foot of the volcano yet"
+            },
+            {
+              "startUid": "u0988",
+              "endUid": "u0990",
+              "quote": "you're, you're like on the shore, and there's a river that you're looking at. That looks kind of like just a normal river, but it's lava."
+            }
+          ]
+        },
+        {
+          "relation": "south_of",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1919",
+              "endUid": "u1920",
+              "quote": "the volcano is sort of north of here"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Lava river",
+      "kind": "river",
+      "evidence": [
+        {
+          "startUid": "u0978",
+          "endUid": "u0980",
+          "quote": "Through the trees there is a flow of lava that is pouring"
+        },
+        {
+          "startUid": "u0988",
+          "endUid": "u0990",
+          "quote": "you're, you're like on the shore, and there's a river that you're looking at. That looks kind of like just a normal river, but it's lava."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0988",
+              "endUid": "u0990",
+              "quote": "you're, you're like on the shore, and there's a river that you're looking at. That looks kind of like just a normal river, but it's lava."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Rift to the Elemental Plane of Fire beneath the lava",
+      "kind": "planar rift",
+      "evidence": [
+        {
+          "startUid": "u1046",
+          "endUid": "u1055",
+          "quote": "there is just this blazing ah rift of extraplanar energy"
+        },
+        {
+          "startUid": "u1046",
+          "endUid": "u1055",
+          "quote": "if you swam down to the bottom of this lava pool, you would emerge in the plane of fire."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1046",
+              "endUid": "u1055",
+              "quote": "right where this river of lava is, there is just this blazing ah rift of extraplanar energy"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Spiritual maelstrom at the center of the Footprint",
+      "kind": "spiritual disturbance",
+      "evidence": [
+        {
+          "startUid": "u1063",
+          "endUid": "u1073",
+          "quote": "towards the center of the of this area of the footprint of the gods, it almost is like maelstrom, like a tornado"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1063",
+              "endUid": "u1073",
+              "quote": "towards the center of the of this area of the footprint of the gods"
+            }
+          ]
+        }
+      ],
+      "note": "Motua is not directly seen in this perception."
+    },
+    "p10": {
+      "label": "Jungle approach and communion position",
+      "kind": "jungle",
+      "evidence": [
+        {
+          "startUid": "u0925",
+          "endUid": "u0927",
+          "quote": "he like, holds up his hand as you're starting to get close"
+        },
+        {
+          "startUid": "u0998",
+          "endUid": "u1001",
+          "quote": "center yourself and kind of reach out your um, your you know experience through the staff"
+        },
+        {
+          "startUid": "u1046",
+          "endUid": "u1055",
+          "quote": "one hundred and fifty, one hundred and eighty feet away. Something like that, right where this river of lava is"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0949",
+              "endUid": "u0949",
+              "quote": "you're sort of right on the edge of the footprint."
+            },
+            {
+              "startUid": "u0950",
+              "endUid": "u0952",
+              "quote": "the volcano is usually taken to be the eastern edge, and you're not quite at the foot of the volcano yet"
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1046",
+              "endUid": "u1055",
+              "quote": "one hundred and fifty, one hundred and eighty feet away. Something like that, right where this river of lava is"
+            }
+          ]
+        }
+      ],
+      "note": "Near the Footprint’s shifting eastern edge; the party has not yet reached the foot of the volcano."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0224",
+        "endUid": "u0255"
+      },
+      "actors": [
+        "Kenzo",
+        "Izzarak",
+        "Suzanne",
+        "Zach",
+        "Enari"
+      ],
+      "reading": "Kenzo meets Izzarak and the two babies beside Bedez’s river; Enari joins the ongoing sunset conversation.",
+      "evidence": [
+        {
+          "startUid": "u0224",
+          "endUid": "u0228",
+          "quote": "at the edge of the river, as the sun is sinking, gazing across the cultivated plots of urtaro floating in the peaceful evening light"
+        },
+        {
+          "startUid": "u0243",
+          "endUid": "u0255",
+          "quote": "Cradling in front of him, the smallest lizardfolk person you've ever seen."
+        },
+        {
+          "startUid": "u0285",
+          "endUid": "u0289",
+          "quote": "his twin sister in my pack. There, there's two."
+        },
+        {
+          "startUid": "u0315",
+          "endUid": "u0317",
+          "quote": "as you two are talking, you see now approaching"
+        }
+      ],
+      "place": "p03",
+      "timeRefs": [
+        "t02"
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0719",
+        "endUid": "u0731"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Kenzo, Izzarak and Enari prepare to depart Bedez with the babies; Elazar and Arrosa see them off.",
+      "evidence": [
+        {
+          "startUid": "u0719",
+          "endUid": "u0721",
+          "quote": "as you're preparing to set out, like you know, Elazar is there, Enari is there"
+        },
+        {
+          "startUid": "u0727",
+          "endUid": "u0731",
+          "quote": "Arrosa is kind of what is like helping sort of get everybody organized to see you off"
+        },
+        {
+          "startUid": "u0818",
+          "endUid": "u0823",
+          "quote": "those babies don't slow us down too much.\n\nIzzarak: Oh, they won't. I can guarantee it. Once they're underway, they'll They'll sleep in my pack."
+        }
+      ],
+      "place": "p02",
+      "timeRefs": [
+        "t04"
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0831",
+        "endUid": "u0837"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Walk west from Bedez through the jungle for about two days, halting near the Footprint’s eastern edge with the volcano still ahead; this is arrival at the approach halt, not the volcano.",
+      "evidence": [
+        {
+          "startUid": "u0831",
+          "endUid": "u0834",
+          "quote": "So you head out. You travel it's about, takes you about two days to journey towards the volcano"
+        },
+        {
+          "startUid": "u0853",
+          "endUid": "u0854",
+          "quote": "You're traveling west from the village."
+        },
+        {
+          "startUid": "u0925",
+          "endUid": "u0927",
+          "quote": "towards late afternoon of the second of your second day of travel, um, he like, holds up his hand as you're starting to get close"
+        },
+        {
+          "startUid": "u0950",
+          "endUid": "u0952",
+          "quote": "the volcano is usually taken to be the eastern edge, and you're not quite at the foot of the volcano yet"
+        }
+      ],
+      "from": "p02",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk",
+      "duration": {
+        "value": 2,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Narrated journey of about two days; the subsequent halt is placed late on the second travel day."
+      },
+      "route": [
+        {
+          "reading": "Proceed west through the jungle toward the volcano and the Footprint of the Gods.",
+          "place": "p04"
+        }
+      ],
+      "timeRefs": [
+        "t05",
+        "t06",
+        "t07"
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0971",
+        "endUid": "u0977"
+      },
+      "actors": [
+        "Izzarak",
+        "Enari"
+      ],
+      "reading": "Izzarak advances with Enari to the lava river’s jungle bank while Kenzo remains at the communion position.",
+      "evidence": [
+        {
+          "startUid": "u0971",
+          "endUid": "u0977",
+          "quote": "you walk forward, and Enari is going to kind of sneak behind you"
+        },
+        {
+          "startUid": "u0988",
+          "endUid": "u0990",
+          "quote": "you're, you're like on the shore, and there's a river that you're looking at. That looks kind of like just a normal river, but it's lava."
+        },
+        {
+          "startUid": "u1039",
+          "endUid": "u1040",
+          "quote": "Probably ten feet from the edge. Okay, fifteen feet."
+        },
+        {
+          "startUid": "u1010",
+          "endUid": "u1017",
+          "quote": "while, Kenzo is communing with nature"
+        }
+      ],
+      "from": "p10",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk",
+      "timeRefs": [
+        "t08"
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u1046",
+        "endUid": "u1059"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "During communion, senses a rift beneath the lava that opens into the Plane of Fire and runs toward the volcano for several miles.",
+      "evidence": [
+        {
+          "startUid": "u1046",
+          "endUid": "u1055",
+          "quote": "if you swam down to the bottom of this lava pool, you would emerge in the plane of fire."
+        },
+        {
+          "startUid": "u1057",
+          "endUid": "u1059",
+          "quote": "sense this rift running quite some distance back towards the volcano for several miles."
+        }
+      ],
+      "place": "p08",
+      "mode": "remote",
+      "observerPlace": "p10",
+      "timeRefs": [
+        "t09"
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u1063",
+        "endUid": "u1077"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Senses a separate spiritual maelstrom drawing jungle energy toward the Footprint’s center, beyond the volcano.",
+      "evidence": [
+        {
+          "startUid": "u1063",
+          "endUid": "u1073",
+          "quote": "towards the sort of past the volcano like towards the center of the of this area of the footprint of the gods, it almost is like maelstrom, like a tornado that's pulling all of the spiritual energy of the jungle towards the center"
+        },
+        {
+          "startUid": "u1075",
+          "endUid": "u1077",
+          "quote": "there's two distinct phenomena that are occurring that seem to be like you know, massively disrupting like, you know, planes in the universe right now?\n\nDM: Yep."
+        }
+      ],
+      "place": "p09",
+      "mode": "remote",
+      "observerPlace": "p10",
+      "timeRefs": [
+        "t09"
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1101",
+        "endUid": "u1107"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Moves up to the river to examine the magma dancer, rejoining Izzarak and Enari on the bank; the fight and ensuing conversation occur here.",
+      "evidence": [
+        {
+          "startUid": "u1101",
+          "endUid": "u1107",
+          "quote": "you move up towards the at the river, river and soul sight the magma dancer?\n\nKenzo: Yes."
+        },
+        {
+          "startUid": "u1260",
+          "endUid": "u1269",
+          "quote": "you're all hidden on the banks about ten feet away."
+        },
+        {
+          "startUid": "u1741",
+          "endUid": "u1750",
+          "quote": "fire dancer kind of looks warily across at you at the three of you"
+        }
+      ],
+      "from": "p10",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u2063",
+        "endUid": "u2064"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Crossing the lava river remains a plan for the next session; no party member is established as having crossed.",
+      "evidence": [
+        {
+          "startUid": "u2063",
+          "endUid": "u2063",
+          "quote": "We will deal with how you will cross the Lava River tomorrow—next time."
+        },
+        {
+          "startUid": "u2064",
+          "endUid": "u2064",
+          "quote": "you can fly, so you don't have any problem."
+        }
+      ],
+      "from": "p06",
+      "to": null,
+      "completion": "planned",
+      "context": "planned",
+      "route": [
+        {
+          "reading": "Intended crossing of the lava river.",
+          "place": "p07"
+        }
+      ]
+    }
+  ]
+}

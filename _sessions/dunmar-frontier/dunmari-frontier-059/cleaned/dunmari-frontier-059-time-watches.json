@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-time-markers.json",
+    "sha256": "18ceccfff95d9d091b9f0d2d76ef1293c430c2b4e5be36bc3d065b86b62db018"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-transcript.md",
+    "sha256": "868ab075c0abbb79b21602bcd6ff02750330e254b7697dcba9829758e7deb101"
+  },
+  "dateAssessment": "YAML supplies the working calendar span, November 2–6, 1748; no calendar date is spoken. The time extraction is compatible, with incomplete coverage: a ceremony and sunset meeting are followed by the next breakfast and two travel days, ending in late afternoon on travel day two. The windows below bound that same relative sequence within YAML; the opening can fall November 2–4, travel day one November 3–5, and travel day two November 4–6. They do not supply unspoken extra days or independently date each scene. The existing Session 59 note dates the ceremony November 3, departure November 4, and lava encounter November 6; those dates remain competing calendar evidence, pending human review. The earlier month of training, ancient rituals and months of volcanic trouble are background.",
+  "watches": [
+    {
+      "day": "During November 2–4, 1748",
+      "dateWindow": [
+        "1748-11-02",
+        "1748-11-04"
+      ],
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "The elders bless the expedition and select champions this afternoon.",
+      "markers": [
+        "t01"
+      ],
+      "scope": "Opening day"
+    },
+    {
+      "day": "During November 2–4, 1748",
+      "dateWindow": [
+        "1748-11-02",
+        "1748-11-04"
+      ],
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Sunset meeting; Izzarak’s subsequent night divination is tentatively placed in the same dusk watch.",
+      "markers": [
+        "t02",
+        "t03"
+      ],
+      "scope": "Opening evening"
+    },
+    {
+      "day": "During November 3–5, 1748",
+      "dateWindow": [
+        "1748-11-03",
+        "1748-11-05"
+      ],
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Breakfast and departure preparations follow the night divination; the agreed morning departure is fulfilled.",
+      "markers": [
+        "t04"
+      ],
+      "scope": "First travel day"
+    },
+    {
+      "day": "During November 3–5, 1748",
+      "dateWindow": [
+        "1748-11-03",
+        "1748-11-05"
+      ],
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "The DM explicitly places Kenzo’s examination of the babies at midday on travel day one.",
+      "markers": [
+        "t06"
+      ],
+      "scope": "First travel day"
+    },
+    {
+      "day": "During November 4–6, 1748",
+      "dateWindow": [
+        "1748-11-04",
+        "1748-11-06"
+      ],
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Izzarak recalls waking and rolling his omen that morning, before the river fight.",
+      "markers": [
+        "t10"
+      ],
+      "scope": "Second travel day"
+    },
+    {
+      "day": "During November 4–6, 1748",
+      "dateWindow": [
+        "1748-11-04",
+        "1748-11-06"
+      ],
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Late afternoon on travel day two; about two days’ travel, then brief observation and communion.",
+      "markers": [
+        "t05",
+        "t07",
+        "t08",
+        "t09"
+      ],
+      "scope": "Second travel day"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 59 calendar record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 59 (DuFr).md",
+      "sha256": "4bd6a3c0bb32e56958a3ce26302fee62649b58bee0e820acf327a6db0a86626c"
+    }
+  ]
+}
