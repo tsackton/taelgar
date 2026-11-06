@@ -1,0 +1,28 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-068/cleaned/dunmari-frontier-068-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-068/cleaned/dunmari-frontier-068-time-markers.json",
+    "sha256": "2950c5b952a41ad87af006806db56c1b9b900a5c899e0a79bafa998e69e84354"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-068/cleaned/dunmari-frontier-068-transcript.md",
+    "sha256": "13e4287ba193f4b7e7f9ddcd69631a97b089b24c4e464ffba71adba3c1cfd579"
+  },
+  "dateAssessment": "The working calendar uses the YAML year 1748 and the spoken November 15 reunion (t01), matching the recorded same-date span. Delwath and Riswynn are already waiting; Seeker, Kenzo, Wellby, and Baxter arrive through Lastlight Falls at sunset. This actor-specific reunion supplies the handoff. The later ten-minute ritual (t02) is grouped with dusk as a rough estimate within the continuing camp conversation; its exact clock is unstated. The solo adventures and dated scrying reports are recounted background. The real-world midnight closing and next meeting date do not advance the fictional calendar.",
+  "watches": [
+    {
+      "day": "November 15, 1748",
+      "startDate": "1748-11-15",
+      "endDate": "1748-11-15",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "The reunion is explicitly at sunset; the later ten-minute telepathy ritual is grouped with the continuing camp conversation.",
+      "markers": [
+        "t01",
+        "t02"
+      ]
+    }
+  ]
+}

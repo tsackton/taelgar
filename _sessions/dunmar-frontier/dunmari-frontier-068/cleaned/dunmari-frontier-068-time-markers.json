@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-068",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-068/cleaned/dunmari-frontier-068-session.yaml",
+    "sessionYamlSha256": "ff96c9a56cda04ba79a008427d74179076edb7a6f25fcec24fee96c35b6050e5",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-068/cleaned/dunmari-frontier-068-transcript.md",
+    "transcriptSha256": "13e4287ba193f4b7e7f9ddcd69631a97b089b24c4e464ffba71adba3c1cfd579",
+    "yamlDates": {
+      "start": "1748-11-15",
+      "end": "1748-11-15"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0026",
+        "endUid": "u0035"
+      },
+      "reading": "Seeker, Kenzo, and Wellby emerge from the falls and reunite with Delwath and Riswynn on November 15 at sunset.",
+      "actors": [
+        "Seeker",
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Riswynn"
+      ],
+      "time": {
+        "date": {
+          "year": 1748,
+          "month": 11,
+          "day": 15
+        },
+        "partOfDay": "sunset",
+        "precision": "exact",
+        "basis": "November 15 is spoken in the opening; sunset is confirmed in Kenzo’s description; the year is inherited from YAML."
+      },
+      "evidence": [
+        {
+          "startUid": "u0026",
+          "endUid": "u0035",
+          "quote": "DM: Until on November fifteenth— so, nearly 3 months since you last saw Riswynn, and a month and a half or so, 2 months since you last saw each other— you see emerging out of the waterfall your friends: Seeker, Kenzo and Wellby."
+        },
+        {
+          "startUid": "u0265",
+          "endUid": "u0268",
+          "quote": "DM: Yeah, that sunset. You can only pass through Lastlight Falls at sunset each day."
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u3004",
+        "endUid": "u3021"
+      },
+      "reading": "The party switches to Seeker’s telepathic link, completing the ten-minute ritual casting.",
+      "actors": [
+        "Seeker",
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "The DM specifies ten minutes to ritual-cast; Seeker accepts the completed action with “Cool done.”"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u3004",
+          "endUid": "u3004",
+          "quote": "Seeker: We switch over to that. Yes."
+        },
+        {
+          "startUid": "u3020",
+          "endUid": "u3021",
+          "quote": "DM: It just means if you take 10 min to cast it instead of an action, you don't need to spend the spell slot. Okay.\n\nSeeker: Cool done."
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "The reunion is explicitly November 15; sunset is independently confirmed. The year 1748 comes from YAML. Recounted solo adventures and dated scryings are background accounts, not earlier scenes played out in this session.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": 0,
+    "evidence": [
+      "t01",
+      "t02"
+    ],
+    "explanation": "Play remains at the reunion camp on the same evening, with a completed ten-minute ritual and no narrated overnight or departure. The DM’s “half midnight now” and “seventeenth” concern the real-world session closing and next meeting, not the fictional calendar."
+  }
+}

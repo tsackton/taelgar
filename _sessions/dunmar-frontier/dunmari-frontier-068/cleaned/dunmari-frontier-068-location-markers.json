@@ -1,0 +1,237 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-068",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-068/cleaned/dunmari-frontier-068-session.yaml",
+    "sessionYamlSha256": "ff96c9a56cda04ba79a008427d74179076edb7a6f25fcec24fee96c35b6050e5",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-068/cleaned/dunmari-frontier-068-transcript.md",
+    "transcriptSha256": "13e4287ba193f4b7e7f9ddcd69631a97b089b24c4e464ffba71adba3c1cfd579"
+  },
+  "places": {
+    "p01": {
+      "label": "Camp beside Lastlight Falls",
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0002",
+              "endUid": "u0015",
+              "quote": "DM: Okay. So we begin tonight in the deserts east of the Dunmari border, a camp, a— made by Delwath and Riswynn outside a pool of water, where a waterfall, with no obvious source of where the water comes from, cascades down a cliff into I— a a faint, shimmering pool at the bottom that rapidly dries in the desert sun."
+            },
+            {
+              "startUid": "u0016",
+              "endUid": "u0025",
+              "quote": "where you were supposed to meet"
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0002",
+              "endUid": "u0015",
+              "quote": "DM: Okay. So we begin tonight in the deserts east of the Dunmari border, a camp, a— made by Delwath and Riswynn outside a pool of water, where a waterfall, with no obvious source of where the water comes from, cascades down a cliff into I— a a faint, shimmering pool at the bottom that rapidly dries in the desert sun."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0015",
+          "quote": "DM: Okay. So we begin tonight in the deserts east of the Dunmari border, a camp, a— made by Delwath and Riswynn outside a pool of water, where a waterfall, with no obvious source of where the water comes from, cascades down a cliff into I— a a faint, shimmering pool at the bottom that rapidly dries in the desert sun."
+        },
+        {
+          "startUid": "u0062",
+          "endUid": "u0076",
+          "quote": "the camp just feels very, very homey"
+        }
+      ]
+    },
+    "p02": {
+      "label": "Lastlight Falls",
+      "kind": "planar link",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Amberglow/Lastlight Falls.md",
+      "note": "This record identifies the crossing, whose material endpoint is played here. The vault note places that endpoint in the Nashtkar and the Feywild endpoint in Amberglow; that vault orientation does not move the desert camp into Amberglow.",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0015",
+          "quote": "DM: Okay. So we begin tonight in the deserts east of the Dunmari border, a camp, a— made by Delwath and Riswynn outside a pool of water, where a waterfall, with no obvious source of where the water comes from, cascades down a cliff into I— a a faint, shimmering pool at the bottom that rapidly dries in the desert sun."
+        },
+        {
+          "startUid": "u0265",
+          "endUid": "u0268",
+          "quote": "DM: Yeah, that sunset. You can only pass through Lastlight Falls at sunset each day."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "note": "Applies to the material endpoint described in the opening.",
+          "evidence": [
+            {
+              "startUid": "u0002",
+              "endUid": "u0015",
+              "quote": "DM: Okay. So we begin tonight in the deserts east of the Dunmari border, a camp, a— made by Delwath and Riswynn outside a pool of water, where a waterfall, with no obvious source of where the water comes from, cascades down a cliff into I— a a faint, shimmering pool at the bottom that rapidly dries in the desert sun."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Deserts east of the Dunmari border",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0015",
+          "quote": "we begin tonight in the deserts east of the Dunmari border"
+        }
+      ]
+    },
+    "p04": {
+      "label": "Other side of Lastlight Falls in the Feywild",
+      "kind": "planar endpoint",
+      "evidence": [
+        {
+          "startUid": "u2170",
+          "endUid": "u2174",
+          "quote": "DM: Yeah, any any time at sunset you can cross the portal at the moment the sunset—the light of sunset hits the water, the portal, for like 10 min.\n\nRiswynn: We have water on their side, as indicated by the thread.\n\nDM: On the other side. You need the thread because it's always sunset."
+        },
+        {
+          "startUid": "u0871",
+          "endUid": "u0871",
+          "quote": "I never made it to the fey realm."
+        }
+      ],
+      "note": "The arriving trio crossed from this side. The present conversation remains in the material-plane camp."
+    },
+    "p05": {
+      "label": "Eudomes’s Tower",
+      "kind": "tower",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower.md",
+      "evidence": [
+        {
+          "startUid": "u2161",
+          "endUid": "u2163",
+          "quote": "DM: Yeah, you're sort of east of Raven's. You're like— You're like about a 100, and you're about 200 miles from Eudomes's Tower."
+        },
+        {
+          "startUid": "u2688",
+          "endUid": "u2688",
+          "quote": "DM: Tower, which is originally an elven Tower, is built on top of a crashed storm Giant airship."
+        }
+      ],
+      "note": "The vault note verifies Eudomes’s tower as Stormcaller Tower. Its crashed skyship is discussed as a prospective transport, not visited in this session."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0025"
+      },
+      "actors": [
+        "Delwath",
+        "Riswynn"
+      ],
+      "place": "p01",
+      "reading": "Delwath and Riswynn are waiting in their prepared desert camp beside the falls.",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0015",
+          "quote": "DM: Okay. So we begin tonight in the deserts east of the Dunmari border, a camp, a— made by Delwath and Riswynn outside a pool of water, where a waterfall, with no obvious source of where the water comes from, cascades down a cliff into I— a a faint, shimmering pool at the bottom that rapidly dries in the desert sun."
+        },
+        {
+          "startUid": "u0016",
+          "endUid": "u0025",
+          "quote": "DM: And they've been camped here waiting, watching the sunset each night, not knowing exactly how or what this place is but knowing that this is the fey crossing that Wellby spoke of, and that you've all known of, and where you were supposed to meet when you were scattered to basically the 4 corners of Taelgar, after leaving the village of the Te'kula in the Elderwood."
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0026",
+        "endUid": "u0035"
+      },
+      "actors": [
+        "Seeker",
+        "Kenzo",
+        "Wellby",
+        "Baxter"
+      ],
+      "from": "p04",
+      "to": "p01",
+      "mode": "cross the fey portal",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Emerge from the waterfall at sunset.",
+          "place": "p02"
+        }
+      ],
+      "reading": "Seeker, Kenzo, and Wellby cross out of the falls and join Delwath and Riswynn’s camp; Baxter accompanies Wellby.",
+      "evidence": [
+        {
+          "startUid": "u0026",
+          "endUid": "u0035",
+          "quote": "DM: Until on November fifteenth— so, nearly 3 months since you last saw Riswynn, and a month and a half or so, 2 months since you last saw each other— you see emerging out of the waterfall your friends: Seeker, Kenzo and Wellby."
+        },
+        {
+          "startUid": "u0203",
+          "endUid": "u0207",
+          "quote": "Wellby: On your next— so Wellby walks out with Baxter at his side, which I forgot about.\n\nWellby: Baxter absolutely looms over him. Wellby could probably walk underneath Baxter between his legs, and not brush his head at all. The axe beak's probably 9—8 or 9 feet tall, all together."
+        },
+        {
+          "startUid": "u0289",
+          "endUid": "u0298",
+          "quote": "we're just all in camp"
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u2955",
+        "endUid": "u2963"
+      },
+      "actors": [
+        "Seeker",
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Riswynn"
+      ],
+      "from": "p01",
+      "to": "p05",
+      "completion": "planned",
+      "context": "planned",
+      "reading": "The party agrees to seek Hralgar at Eudomes’s Tower, then head east; no departure occurs in this transcript.",
+      "route": [
+        {
+          "reading": "First go to Hralgar; then go east as fast as possible."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2955",
+          "endUid": "u2964",
+          "quote": "Delwath: Right? I think I think the plan, I think our next steps really have to be: go to Hralgar, think if there's anything we can do to try to keep Dunmar from falling apart in the next month, and then go east as fast as we can, and see what we learn.\n\nSeeker: That sounds good to me."
+        }
+      ]
+    }
+  ]
+}
