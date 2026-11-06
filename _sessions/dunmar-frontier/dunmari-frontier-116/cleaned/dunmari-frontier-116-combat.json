@@ -1,0 +1,549 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-session.yaml",
+    "sessionYamlSha256": "f4ef84a3bf471308a1890283277543b1373fe59bc7db5cee7101dea3e3912203",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-transcript.md",
+    "sessionId": "dunmari-frontier-116",
+    "transcriptSha256": "424a2e070fe8ec6b107afda56d6fbfa579b0539fd2cc1839ea9f58d12e257aca",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-segments.json",
+      "sha256": "6666bd71251d2ce1aff563a3f9e5f7e451053843869dafc5a4d1a087929453a9",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s009",
+      "encounter": "Fausto, seven war wizards and the chalyte knight",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Soul sights Fausto: level 16, strongest Intelligence/Constitution saves and weakest Strength/Dexterity; gray crown tendrils connect to the knight, three prisoners in Wellby’s locket and many distant people. Throws one necklace bead: Fausto and all seven minions succeed on DC 15 Dexterity saves and take damage (Fausto 12); the knight fails and takes 25. No minion dies. Moves into melee and lands three Flurry of Blows punches for 11, 6 and 15; Fausto succeeds on the DC 16 Wisdom save against Frightening Strike.",
+              "evidence": [
+                {
+                  "startUid": "u0336",
+                  "endUid": "u0443"
+                }
+              ]
+            },
+            {
+              "actor": "Fausto",
+              "kind": "turn",
+              "summary": "Casts the spell subsequently identified at the table as doubled domination at Delwath and Seeker. Both make private Wisdom saves with advantage. Seeker becomes controlled; Delwath continues acting freely.",
+              "evidence": [
+                {
+                  "startUid": "u0444",
+                  "endUid": "u0494"
+                },
+                {
+                  "startUid": "u0518",
+                  "endUid": "u0518"
+                },
+                {
+                  "startUid": "u1303",
+                  "endUid": "u1304"
+                }
+              ],
+              "note": "Private save totals and messages are not reproduced; Seeker later reports rolling 16 with advantage (u1277–u1278)."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Casts third-level Counterspell against Fausto’s domination spell; Fausto passes the Constitution save and the spell continues.",
+              "evidence": [
+                {
+                  "startUid": "u0449",
+                  "endUid": "u0475"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "While controlled, casts eighth-level Rune of Psychic Disruption at Riswynn: her Intelligence save of 15 fails, she takes 38 psychic damage and is incapacitated until the beginning of Seeker’s next turn. Gives Fausto his last Runic Inspiration as a bonus action and moves towards the chalyte knight.",
+              "evidence": [
+                {
+                  "startUid": "u0495",
+                  "endUid": "u0531"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Cannot act because Seeker’s spell has incapacitated her.",
+              "evidence": [
+                {
+                  "startUid": "u0530",
+                  "endUid": "u0534"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses the clockwork amulet to hit Fausto with a 22 for a final 34 damage. Fausto succeeds on the DC 18 Dexterity save against blinding using a luck point for advantage, and just passes the DC 17 concentration check. Wellby activates Boots of Speed and moves 90 feet; his hit grants allies advantage against Fausto until Wellby’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u0553",
+                  "endUid": "u0580"
+                },
+                {
+                  "startUid": "u0328",
+                  "endUid": "u0328"
+                }
+              ]
+            },
+            {
+              "actor": "Fausto",
+              "kind": "reaction",
+              "summary": "Uses instinctive charm when Wellby attacks, trying to divert the shot; Wellby succeeds on his Wisdom save and the attack stays on Fausto.",
+              "evidence": [
+                {
+                  "startUid": "u0554",
+                  "endUid": "u0558"
+                }
+              ]
+            },
+            {
+              "actor": "Seven Chardonian war wizards",
+              "kind": "turn",
+              "summary": "Move to surround Kenzo and resolve their psychic grasp attack collectively; a natural 1 misses.",
+              "evidence": [
+                {
+                  "startUid": "u0581",
+                  "endUid": "u0593"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Quickens Conjure Animals, sending spectral lynxes into the wizards: all seven fail DC 19 Dexterity saves and die; Fausto succeeds and takes no damage. Kenzo is excluded from the chosen targets. Advances and strikes Fausto three times with advantage from Wellby, spending heroic inspiration to replace a failed roll; the hits deal 16, 13 and 13. Fausto maintains concentration on the stated Constitution checks.",
+              "evidence": [
+                {
+                  "startUid": "u0599",
+                  "endUid": "u0650"
+                }
+              ]
+            },
+            {
+              "actor": "chalyte knight",
+              "kind": "turn",
+              "summary": "Moves through the lynxes, fails a Dexterity save with 18 and takes 31 damage. Makes two greatsword attacks against Kenzo: the first (27) deals 15 slashing plus 13 necrotic before deflection; Kenzo succeeds on Strength 18 and holds ground. The second (25) deals a final 21 damage; Kenzo fails Strength with 7, is pushed 10 feet and knocked prone. The knight then steps towards Delwath and hits with its gauntlet (27) for 11 bludgeoning plus 13 necrotic, 24 total. Delwath declines Shield and succeeds on the DC 12 concentration check with 18.",
+              "evidence": [
+                {
+                  "startUid": "u0651",
+                  "endUid": "u0733"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects 27 of the first greatsword attack’s 28 damage, leaving 1 damage; the later sword attack is not also deflected.",
+              "evidence": [
+                {
+                  "startUid": "u0663",
+                  "endUid": "u0679"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Stands, reaches Seeker and uses Cleansing Touch to end the controlling spell with a 19. Rejects grappling/shoving and instead lands three bonus-action punches on Fausto with advantage, dealing 10, 15 and 8.",
+              "evidence": [
+                {
+                  "startUid": "u0734",
+                  "endUid": "u0803"
+                }
+              ]
+            },
+            {
+              "actor": "Crown of Purity",
+              "kind": "event",
+              "summary": "As Fausto begins to fall from Kenzo’s punches, a gray tendril snaps; Fausto stands laughing, sustained by the crown. A d100 result of 92 is rolled without naming the affected person.",
+              "evidence": [
+                {
+                  "startUid": "u0802",
+                  "endUid": "u0819"
+                }
+              ]
+            },
+            {
+              "actor": "Fausto",
+              "kind": "turn",
+              "summary": "Attempts another spell, which Seeker stops. At the end of this turn he fails the lynxes’ Dexterity save with 17, triggering another gray tendril’s destruction; the source resolves this missed end-of-turn effect later during Delwath’s turn.",
+              "evidence": [
+                {
+                  "startUid": "u0820",
+                  "endUid": "u0835"
+                },
+                {
+                  "startUid": "u1067",
+                  "endUid": "u1076"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Successfully Counterspells Fausto’s second spell.",
+              "evidence": [
+                {
+                  "startUid": "u0827",
+                  "endUid": "u0834"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Riswynn’s incapacitation ends at the beginning of this turn. Moves to line up Fausto and the knight, then casts fifth-level Catapult with his chain net and fire from the Glove of Crystalized Magic, aiming to remove the crown. Fausto succeeds on the Dexterity save (the crown-targeting attempt is granted advantage); the knight fails and takes the net for 30 bludgeoning plus 6 fire damage. No bonus action is taken.",
+              "evidence": [
+                {
+                  "startUid": "u0835",
+                  "endUid": "u0977"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Runs up and strikes Fausto’s head with Shatterstorm. The attack hits, cracking bone before another gray thread breaks and the wound closes. The crown remains firmly on his head.",
+              "evidence": [
+                {
+                  "startUid": "u0978",
+                  "endUid": "u1014"
+                }
+              ],
+              "note": "The source refers to thunder and radiant damage but gives no settled numeric damage total for this strike."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Runs in and tries to pull off the crown with contested Sleight of Hand. Uses Runic Inspiration and then heroic inspiration; the compulsory new roll leaves a final 14, tying Fausto, so the crown stays. Disengages and moves away.",
+              "evidence": [
+                {
+                  "startUid": "u1015",
+                  "endUid": "u1066"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Quickens old-rules Sleep for a rolled 56 hit points. Resists Fausto’s Counterspell with a final Constitution save of 26 using bardic inspiration; Fausto falls asleep and prone. Uses his action to take the crown, but fails the Charisma save on a natural 1.",
+              "evidence": [
+                {
+                  "startUid": "u1077",
+                  "endUid": "u1121"
+                }
+              ]
+            },
+            {
+              "actor": "Fausto",
+              "kind": "reaction",
+              "summary": "Counterspells Delwath’s quickened Sleep; Delwath’s boosted save succeeds so Sleep still takes effect.",
+              "evidence": [
+                {
+                  "startUid": "u1097",
+                  "endUid": "u1107"
+                }
+              ]
+            },
+            {
+              "actor": "Crown of Purity",
+              "kind": "event",
+              "summary": "Repels Delwath’s attempted seizure with 40 psychic damage, throwing him 40 feet backwards and prone. He fails to obtain the crown and loses Conjure Animals concentration; Sleep continues without concentration.",
+              "evidence": [
+                {
+                  "startUid": "u1122",
+                  "endUid": "u1138"
+                }
+              ]
+            },
+            {
+              "actor": "chalyte knight",
+              "kind": "turn",
+              "summary": "Uses its action to nudge Fausto awake, then stands facing the party with weapons drawn; no further attack is resolved.",
+              "evidence": [
+                {
+                  "startUid": "u1139",
+                  "endUid": "u1143"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Takes the crown from prone Fausto with Sleight of Hand 16 against 6. His Charisma save of 13 initially fails, but adding 11 Runic Inspiration succeeds. Grabs the crown and, after a private choice, becomes its attuned wearer.",
+              "evidence": [
+                {
+                  "startUid": "u1144",
+                  "endUid": "u1183"
+                },
+                {
+                  "startUid": "u1314",
+                  "endUid": "u1345"
+                }
+              ]
+            },
+            {
+              "actor": "Crown of Purity",
+              "kind": "event",
+              "summary": "A psychic wave marks the transfer. The chalyte knight kneels to Kenzo. Fausto, no longer sustained by the crown, drains of blood, collapses and dies; the DM confirms both his death and Kenzo wearing the crown.",
+              "evidence": [
+                {
+                  "startUid": "u1314",
+                  "endUid": "u1345"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Kenzo takes and attunes to the Crown of Purity. Fausto loses its sustaining power and dies; the surviving chalyte knight kneels to Kenzo.",
+        "evidence": [
+          {
+            "startUid": "u1314",
+            "endUid": "u1345"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s013",
+      "encounter": "Apollyon in his temple",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and shoots Apollyon; the corrected attack total of 20 misses, deflecting from the force shimmering around him.",
+              "evidence": [
+                {
+                  "startUid": "u3292",
+                  "endUid": "u3310"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Quickens Scatter to reposition everyone except Wellby within 120 feet, bringing himself and the knight beside Apollyon’s statue. Makes three attacks: first misses, second hits with 21 for 21 damage, third misses with disadvantage imposed by Foul Rebuke.",
+              "evidence": [
+                {
+                  "startUid": "u3312",
+                  "endUid": "u3367"
+                }
+              ]
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "reaction",
+              "summary": "After Delwath’s hit, Foul Rebuke deals 12 necrotic damage to Delwath and gives his next attack disadvantage.",
+              "evidence": [
+                {
+                  "startUid": "u3358",
+                  "endUid": "u3365"
+                }
+              ]
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "turn",
+              "summary": "Commands Kenzo to kneel: Wisdom 17 fails even after inspiration. His speed becomes 0 and cannot increase, and attacks have disadvantage; this is neither charm nor fear. He may save at turn end, or another creature can use an action or bonus action for a Charisma/Persuasion check to end it. Apollyon reaches for Delwath three times: 19 misses, 24 is stopped by Shield, and 25 hits for 37 psychic damage. The resulting pain halves Delwath’s attack damage, with a Constitution save after each attack to end it. The hit also ultimately ends Fly when Delwath’s concentration save is corrected to a failure.",
+              "evidence": [
+                {
+                  "startUid": "u3369",
+                  "endUid": "u3439"
+                },
+                {
+                  "startUid": "u3449",
+                  "endUid": "u3454"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Provides Runic Inspiration on Kenzo’s Wisdom save against the command to kneel; the resulting 17 still fails. No pre-distributed inspirations are assumed for this fight.",
+              "evidence": [
+                {
+                  "startUid": "u3384",
+                  "endUid": "u3419"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Casts Shield against Apollyon’s second reaching attack, causing the 24 to miss; the subsequent 25 still hits.",
+              "evidence": [
+                {
+                  "startUid": "u3424",
+                  "endUid": "u3439"
+                }
+              ]
+            },
+            {
+              "actor": "chalyte knight",
+              "kind": "turn",
+              "summary": "Under Riswynn’s command makes two greatsword attacks and one gauntlet attack: both swords hit, the gauntlet misses. Apollyon is immune to the necrotic portion. The DM corrects the sword damage to a final 34 slashing total. Fly ends during this resolution, but the knight is standing atop the statue.",
+              "evidence": [
+                {
+                  "startUid": "u3440",
+                  "endUid": "u3459"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Soul sights Apollyon: CR 26; immune to necrotic, poison, charmed, exhausted, frightened, paralyzed, poisoned and stunned; resistant to cold and fire; Strength is the weak save, Constitution/Intelligence/Wisdom/Charisma strong. Still kneeling, uses Fist of Planar Power: Apollyon fails Strength with corrected 15, takes 11 damage and is left in place. Kenzo fails his end-turn Wisdom save with 12, then heroic inspiration rerolls to 19 and breaks the compulsion.",
+              "evidence": [
+                {
+                  "startUid": "u3460",
+                  "endUid": "u3507"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts Sunburst with Apollyon at the edge and allies outside. Resists his Counterspell with her Constitution save, using the left die rather than advantage. Apollyon succeeds on DC 18 Constitution and takes half damage, corrected from 22 to 21.",
+              "evidence": [
+                {
+                  "startUid": "u3508",
+                  "endUid": "u3546"
+                }
+              ]
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "reaction",
+              "summary": "Attempts to Counterspell Riswynn’s Sunburst, but her Constitution save succeeds and the spell resolves.",
+              "evidence": [
+                {
+                  "startUid": "u3524",
+                  "endUid": "u3533"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts eighth-level Summon Construct, creating a metal construct beside Apollyon on top of the statue within the spell’s 90-foot range.",
+              "evidence": [
+                {
+                  "startUid": "u3547",
+                  "endUid": "u3574"
+                }
+              ]
+            },
+            {
+              "actor": "Metal construct",
+              "kind": "turn",
+              "summary": "Makes four attacks: two hit for 18 each (36 total) and two miss. Its second attack has disadvantage from Apollyon’s rebuke after the first.",
+              "evidence": [
+                {
+                  "startUid": "u3575",
+                  "endUid": "u3597"
+                }
+              ]
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "reaction",
+              "summary": "Uses the last of his three reactions to Foul Rebuke the metal construct after its first attack, dealing a corrected 12 necrotic damage and imposing disadvantage on its next attack.",
+              "evidence": [
+                {
+                  "startUid": "u3578",
+                  "endUid": "u3586"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Fires an Arrow of Seeking, hits with the reported 22 and deals 27 damage. Apollyon fails DC 18 Dexterity with 12 and is blinded. Wellby activates Boots of Speed and moves to the other side of the room.",
+              "evidence": [
+                {
+                  "startUid": "u3598",
+                  "endUid": "u3619"
+                },
+                {
+                  "startUid": "u3635",
+                  "endUid": "u3636"
+                }
+              ],
+              "note": "Wellby describes the blindness as lasting roughly one round, saying “6 seconds, 10 seconds whatever a round is”; no exact seconds are assigned."
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "villain_action",
+              "summary": "At the end of Wellby’s turn, despite blindness, speaks Word of Death (“Elves die”) and kills Delwath outright. The DM explicitly identifies a villain action, not ordinary hit-point damage.",
+              "evidence": [
+                {
+                  "startUid": "u3620",
+                  "endUid": "u3633"
+                }
+              ]
+            },
+            {
+              "actor": "Apollyon",
+              "kind": "event",
+              "summary": "Still blinded, becomes mist and escapes through the floor, ending the immediate exchange. Kenzo later senses his soul travelling deep underground; no defeat or completed pursuit is established.",
+              "evidence": [
+                {
+                  "startUid": "u3634",
+                  "endUid": "u3634"
+                },
+                {
+                  "startUid": "u3659",
+                  "endUid": "u3660"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Apollyon kills Delwath with Word of Death, then escapes through the floor as mist while blinded. He remains alive and the party has not pursued; Delwath’s revival occurs after initiative ends.",
+        "evidence": [
+          {
+            "startUid": "u3620",
+            "endUid": "u3634"
+          }
+        ]
+      }
+    }
+  ]
+}
