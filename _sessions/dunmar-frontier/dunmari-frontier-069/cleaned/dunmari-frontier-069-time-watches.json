@@ -1,0 +1,242 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-069/cleaned/dunmari-frontier-069-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-069/cleaned/dunmari-frontier-069-time-markers.json",
+    "sha256": "b26c3a7a780820ef458b8b2b374bbbe869544333f97da8049573040567cc9760"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-069/cleaned/dunmari-frontier-069-transcript.md",
+    "sha256": "843478f8bb9a2ff8ba23528b874c1672d2ab7492a6ed7086f3755f4cadcd4976"
+  },
+  "dateAssessment": "The review uses YAML’s 1748-11-15–1748-11-23 calendar for the reunited-party journey, supported by the spoken November 20 cure and the fourth-day / four-day travel anchors. Session 068’s closing campfire plans (u3214–u3218) and this transcript’s u0333–u0403 establish the same reunited actors and late-night setting. The earlier forest party is Kenzo, Wellby, Delwath and Seeker, as recorded in Session 52; Riswynn’s table speech does not put her in that earlier party. The two opening examinations are separately dated September 14 and September 22 by their vision records and Session 52; their watches are unestablished. The time extraction therefore retains a compatible assessment and an open overall start boundary, rather than extending the November journey by those historical gaps. Hektor’s first-day late-afternoon scry is shown on November 16 following t07; the dated Session 69 record instead lists November 17, pending human reconciliation. Nested November 20 scenes and yesterday’s Commune add no days to the four-day montage.",
+  "watches": [
+    {
+      "day": "Earlier forest examinations",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Earlier forest frame; dated vision records separately assign September 14 and September 22.",
+      "markers": [
+        "t01"
+      ],
+      "scope": "Kenzo, Wellby, Delwath, Seeker"
+    },
+    {
+      "day": "November 15, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "inferred",
+      "summary": "Reunited for two or three hours; the DM places the campfire late at night.",
+      "markers": [
+        "t02"
+      ],
+      "startDate": "1748-11-15",
+      "endDate": "1748-11-15"
+    },
+    {
+      "day": "November 15–16, 1748",
+      "startWatch": "midnight",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Sleep follows the late-night camp; the next waking leads into Kenzo’s dawn ceremony.",
+      "markers": [
+        "t03"
+      ],
+      "startDate": "1748-11-15",
+      "endDate": "1748-11-16"
+    },
+    {
+      "day": "November 16, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Kenzo explicitly sets the curse-breaking ceremony at dawn.",
+      "markers": [
+        "t04"
+      ],
+      "startDate": "1748-11-16",
+      "endDate": "1748-11-16"
+    },
+    {
+      "day": "November 16, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Retrospective first-day scry: Hektor and Vola share the party’s late afternoon; dated note differs.",
+      "markers": [
+        "t07"
+      ],
+      "scope": "Delwath / Hektor and Vola",
+      "startDate": "1748-11-16",
+      "endDate": "1748-11-16"
+    },
+    {
+      "day": "November 16, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "First thirty-mile camp; Delwath cooks dinner while Riswynn contacts Johar.",
+      "markers": [
+        "t05"
+      ],
+      "startDate": "1748-11-16",
+      "endDate": "1748-11-16"
+    },
+    {
+      "day": "November 17, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "The next morning resumes prayer, travel and Sending.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1748-11-17",
+      "endDate": "1748-11-17"
+    },
+    {
+      "day": "November 18, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Another next morning brings Johar’s summons to Karnas.",
+      "markers": [
+        "t08"
+      ],
+      "startDate": "1748-11-18",
+      "endDate": "1748-11-18"
+    },
+    {
+      "day": "November 18, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "After ninety miles total, Johar reports Karnas’s accusations that evening.",
+      "markers": [
+        "t09"
+      ],
+      "startDate": "1748-11-18",
+      "endDate": "1748-11-18"
+    },
+    {
+      "day": "November 19, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Fourth travel day: the DM corrects midday to mid-afternoon at the scouting camp.",
+      "markers": [
+        "t10"
+      ],
+      "startDate": "1748-11-19",
+      "endDate": "1748-11-19"
+    },
+    {
+      "day": "November 20, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "The morning after Raven’s Hold is explicitly dated November twentieth; Havdar’s curse breaks.",
+      "markers": [
+        "t12"
+      ],
+      "scope": "Party / Havdar",
+      "startDate": "1748-11-20",
+      "endDate": "1748-11-20"
+    },
+    {
+      "day": "November 20, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "During that day’s lunch break, Havdar is seen praying in his tent.",
+      "markers": [
+        "t13"
+      ],
+      "scope": "Delwath / Havdar",
+      "startDate": "1748-11-20",
+      "endDate": "1748-11-20"
+    },
+    {
+      "day": "November 20, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "The party makes camp while Havdar and Sura dine; their clocks are explicitly joined.",
+      "markers": [
+        "t14"
+      ],
+      "scope": "Party / Havdar and Sura",
+      "startDate": "1748-11-20",
+      "endDate": "1748-11-20"
+    },
+    {
+      "day": "November 22, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The Cleansing question is assigned to yesterday; no civil watch is supplied.",
+      "markers": [
+        "t16"
+      ],
+      "startDate": "1748-11-22",
+      "endDate": "1748-11-22"
+    },
+    {
+      "day": "November 23, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Four-day travel ends mid-afternoon; storm study takes half an hour, followed by Clairvoyance and Augury.",
+      "markers": [
+        "t11",
+        "t15",
+        "t17",
+        "t18",
+        "t19",
+        "t20"
+      ],
+      "startDate": "1748-11-23",
+      "endDate": "1748-11-23"
+    },
+    {
+      "day": "November 23, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "The sun sinks toward evening while the party remains camped outside the storm.",
+      "markers": [
+        "t21"
+      ],
+      "startDate": "1748-11-23",
+      "endDate": "1748-11-23"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 068 handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-068/cleaned/dunmari-frontier-068-transcript.md",
+      "sha256": "13e4287ba193f4b7e7f9ddcd69631a97b089b24c4e464ffba71adba3c1cfd579"
+    },
+    {
+      "label": "Earlier forest party",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 52 (DuFr).md",
+      "sha256": "6641e51b6efa1c14ac3db01593ec8da3676d565b4941b255494fb99ec5715dfd"
+    },
+    {
+      "label": "Mace vision date",
+      "path": "Campaigns/Dunmari Frontier Campaign/Mirror Visions/Mace of Terror Vision.md",
+      "sha256": "f450c4271c63a5c01634d09d1fa983f7c2c09134be47f9dcfa3d5f1c80885545"
+    },
+    {
+      "label": "Eyes vision date",
+      "path": "Campaigns/Dunmari Frontier Campaign/Mirror Visions/Hralgar's Eyes Vision.md",
+      "sha256": "797bfde205c5e955bd8ec4ec68c0296868fdd65504ea7bee9a6ff7ed793a04ec"
+    },
+    {
+      "label": "Session 069 dated record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 69 (DuFr).md",
+      "sha256": "8b518e40f63fb9be7a5b4735bc488217604370f03901b9e6b2e40c88322dae32"
+    }
+  ]
+}

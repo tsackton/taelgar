@@ -1,0 +1,1456 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-069",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-069/cleaned/dunmari-frontier-069-session.yaml",
+    "sessionYamlSha256": "4c6e2f597281ca0748cc57ce5eb0bddc0cb7a1661eb57b8a7e2208d66b9d078d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-069/cleaned/dunmari-frontier-069-transcript.md",
+    "transcriptSha256": "843478f8bb9a2ff8ba23528b874c1672d2ab7492a6ed7086f3755f4cadcd4976"
+  },
+  "places": {
+    "p01": {
+      "label": "Forest of the earlier mirror examinations",
+      "kind": "forest",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "DM: And then we'll come back to—oh, I, I never wrote my intro. That's okay. [garbled] with the recorded mirror visions from the from the forest, and then we'll come back to the current day as we approach late evening, and you pull out the Shadow Armband to show it to the mirror."
+        }
+      ],
+      "vaultPath": "Gazetteer/Central Highlands/Elderwood.md",
+      "note": "Session 52 and the two dated vision records identify this earlier forest arc as the Elderwood; the current transcript does not distinguish the two examination sites."
+    },
+    "p02": {
+      "label": "Fort in the Mace of Terror vision",
+      "kind": "fort",
+      "evidence": [
+        {
+          "startUid": "u0049",
+          "endUid": "u0062",
+          "quote": "DM: And the first thing you see is a vision of what looks like in the middle of some massive war. Everything is just totally chaotic. There's that—a, a human man wearing plate armor seems to be holding the mace, and there's trolls, hobgoblins streaming over the, the—this. This person is standing in the the gates of of some sort of fort, like, you—You can't see much, but you see, like a big gate and walls and.\n\nUnknown: The—\n\nDM: Trolls have this giant battering ram, and are crashing through the gates. The fort is basically in the process of being overrun."
+        },
+        {
+          "startUid": "u0097",
+          "endUid": "u0101",
+          "quote": "DM: And they are both examining a skeleton in the same fort, apparently, but much later. It's overgrown, now covered in woods."
+        }
+      ],
+      "note": "The same fort is shown during a battle and much later when overgrown; its name and wider region are not established."
+    },
+    "p03": {
+      "label": "Fausto’s tower",
+      "kind": "tower",
+      "evidence": [
+        {
+          "startUid": "u0128",
+          "endUid": "u0150",
+          "quote": "DM: And then just blackness until you see the same dwarf paladin or knight, heavily armored dwarf, taking the mace out of this bag in the sitting room, the like lower floor, sort of entry dining hall of Fausto's tower and placing it on the table, and it looks like there's sort of a—and—speaking with Fausto. Fausto is sitting there. There's kind of a not super pleasant conversation between the 2 of them.\n\nDM: And then the dwarf turns and storms off, and motions, and you see there's like a—in addition to the same woman. There is a a stoneborn fighter like, with a big sword slung over his back. And the 3 of them leave Fausto's tower together. And that's where the Mirror fades."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Fausto's Tower.md"
+    },
+    "p04": {
+      "label": "Lower sitting and dining hall",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0128",
+          "endUid": "u0142",
+          "quote": "DM: And then just blackness until you see the same dwarf paladin or knight, heavily armored dwarf, taking the mace out of this bag in the sitting room, the like lower floor, sort of entry dining hall of Fausto's tower and placing it on the table, and it looks like there's sort of a—and—speaking with Fausto. Fausto is sitting there. There's kind of a not super pleasant conversation between the 2 of them."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0128",
+              "endUid": "u0142",
+              "quote": "DM: And then just blackness until you see the same dwarf paladin or knight, heavily armored dwarf, taking the mace out of this bag in the sitting room, the like lower floor, sort of entry dining hall of Fausto's tower and placing it on the table, and it looks like there's sort of a—and—speaking with Fausto. Fausto is sitting there. There's kind of a not super pleasant conversation between the 2 of them."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Workshop where the eyes are crafted",
+      "kind": "workshop",
+      "evidence": [
+        {
+          "startUid": "u0218",
+          "endUid": "u0238",
+          "quote": "DM: And the first thing that you see, as the mirror clears, first thing that you see is that the mirror—normally it's just black transitions, but it almost looks like clouds are blowing away when you hold the eyes up to the mirror. And you see—you see a workshop somewhere, not a—not a place you recognize from the tower. Not a room that you've been in before. It's big. It's bigger than you expected, and there's maybe a half a dozen people scurrying around like tapping, carefully, seeming to be crafting the eyes from something, from stone, from gems.\n\nDM: And there are spells being cast as these wizards and artificers work their—\n\nUnknown: And—\n\nDM: Polishing. They're sort of—you, you know, you'll see this like fine, you know, cloth being rubbed over the surface of the eyes. Things being painted on the eyes and the—just a sense, and it you get the sense this is happening over weeks or months that slowly these things are being constructed."
+        }
+      ],
+      "note": "The narrator explicitly says this is not a recognized room from the tower; its enclosing site remains unresolved."
+    },
+    "p06": {
+      "label": "Stormcaller Tower",
+      "kind": "tower",
+      "evidence": [
+        {
+          "startUid": "u0640",
+          "endUid": "u0655",
+          "quote": "DM: Waking in the morning to a—even so, this far East it's still fairly deserty. But what rains come have fallen in the past few months. And so there's, you know, flowers in bloom across the landscape. The waters of the—of the Lastlight Falls, you know, support like a little oasis almost in the desert here. The camp that Delwath and Riswynn have made is homey. But it's 230 miles basically due west to Eudomes, to Eudomes's tower. It's also known as Stormcaller Tower.\n\nKenzo: That's Stormcaller?\n\nDM: Stormcaller.\n\nKenzo: Like caller?\n\nDM: Like, \"Hello.\""
+        },
+        {
+          "startUid": "u2239",
+          "endUid": "u2263",
+          "quote": "DM: 19. Pretty good! So your Clairvoyance eye appears in the room at the top of the tower.\n\nKenzo: Wow.\n\nWellby: Sweet! Whoa! Whoa! Whoa!\n\nDM: Oh, wait! Hold on! Just check one thing about the spell.\n\nSeeker: I mean, the meta-magic powers of the glove are, are pretty untested, so it could have some unanticipated [garbled].\n\nDM: You see—you see the bare—a bare room with, with Hralgar the giant chained to the floor just as you saw him once 8 months ago, just chained with his arms bound to the wall like missed, blind, caught, like thrashing and tossing and turning, and you're sort of reporting this. He's—and the storm as you're, as you're seeing this and saying what you're seeing, the storm is intense. There's like lightning crashing."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower.md"
+    },
+    "p07": {
+      "label": "Statue chamber in the eyes vision",
+      "kind": "chamber",
+      "evidence": [
+        {
+          "startUid": "u0239",
+          "endUid": "u0267",
+          "quote": "DM: You don't see Eudomes much during this time. Occasionally he'll show up and walk through until the scene shifts suddenly. And you can see the statue of Hralgar's like face and upper part of his chest, wearing this crown with the 5 stones that were missing that were taken by Dee and Dain and Alban as well, and, and there's like lightning crackling in between these 5 stones like sparking between them. Creating this sort of web of like sparking, lightning energy over the top of the statue, and it's like you're looking directly at the statue. And there's, there's a—there's a spell being cast, something, because the statue is suddenly like slumping slowly like it almost becomes malleable, and you can see that the 2 stones being these 2 stone eyes being shoved into the statue.\n\nDM: As it turns—that—something must be happening to it, because you know, these these stone eyes, or gem eyes, or whatever they are at this point are being just shoved into this solid stone. And as that happens, there's a massive strike of lightning that hits the tower and your perspective shakes for a moment, and you can see Eudomes now, standing there. You know, chanting some sort of magic."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0239",
+              "endUid": "u0267",
+              "quote": "DM: You don't see Eudomes much during this time. Occasionally he'll show up and walk through until the scene shifts suddenly. And you can see the statue of Hralgar's like face and upper part of his chest, wearing this crown with the 5 stones that were missing that were taken by Dee and Dain and Alban as well, and, and there's like lightning crackling in between these 5 stones like sparking between them. Creating this sort of web of like sparking, lightning energy over the top of the statue, and it's like you're looking directly at the statue. And there's, there's a—there's a spell being cast, something, because the statue is suddenly like slumping slowly like it almost becomes malleable, and you can see that the 2 stones being these 2 stone eyes being shoved into the statue.\n\nDM: As it turns—that—something must be happening to it, because you know, these these stone eyes, or gem eyes, or whatever they are at this point are being just shoved into this solid stone. And as that happens, there's a massive strike of lightning that hits the tower and your perspective shakes for a moment, and you can see Eudomes now, standing there. You know, chanting some sort of magic."
+            },
+            {
+              "startUid": "u0640",
+              "endUid": "u0655",
+              "quote": "DM: Waking in the morning to a—even so, this far East it's still fairly deserty. But what rains come have fallen in the past few months. And so there's, you know, flowers in bloom across the landscape. The waters of the—of the Lastlight Falls, you know, support like a little oasis almost in the desert here. The camp that Delwath and Riswynn have made is homey. But it's 230 miles basically due west to Eudomes, to Eudomes's tower. It's also known as Stormcaller Tower.\n\nKenzo: That's Stormcaller?\n\nDM: Stormcaller.\n\nKenzo: Like caller?\n\nDM: Like, \"Hello.\""
+            }
+          ],
+          "note": "The vision’s statue and lightning-struck tower are identified in the discussion as Hralgar’s prison at Eudomes’s tower."
+        }
+      ]
+    },
+    "p08": {
+      "label": "Plains of Dunmar",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0333",
+          "endUid": "u0355",
+          "quote": "DM: We now return to the current day. Where you now jumping ahead to our intro—let's get some—where is my—Oh, my God! I've got way too many queued here. Okay, this this should work. Jumping ahead to the plains of Dunmar, where you have reunited only hours ago, and spent the past 2 or 3 h over the campfire catching up listening to the stories of your adventures in—the islands and jungles of the East. The dwarven planes and Shadowfell domains of Morkalan, the Feywilds, and the—forests and battlefields of the Great War far to the north. And also hearing from Delwath news about what's happening in the world as you've been scattered to the 4 corners."
+        },
+        {
+          "startUid": "u1303",
+          "endUid": "u1317",
+          "quote": "DM: So over the next day again you continue riding. Aiming for a point like you know, 10 miles south of Raven's Hold, something like that, somewhere not obviously recognizable. But where you can do a little bit of scouting, and you know by midday on your—by, say, mid afternoon on your fourth day of travel, you sort of come to a point where, if you made camp here, you could spend a little time scouting, exploring a little bit, and then still have, like 4 days of travel to get to—get to the Tower."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Dunmar.md"
+    },
+    "p09": {
+      "label": "Lastlight Falls",
+      "kind": "waterfall",
+      "evidence": [
+        {
+          "startUid": "u0640",
+          "endUid": "u0650",
+          "quote": "DM: Waking in the morning to a—even so, this far East it's still fairly deserty. But what rains come have fallen in the past few months. And so there's, you know, flowers in bloom across the landscape. The waters of the—of the Lastlight Falls, you know, support like a little oasis almost in the desert here. The camp that Delwath and Riswynn have made is homey. But it's 230 miles basically due west to Eudomes, to Eudomes's tower. It's also known as Stormcaller Tower."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Amberglow/Lastlight Falls.md",
+      "note": "This camp is on the material-plane side, as established by the session 068 reunion; the vault page also describes the Feywild crossing."
+    },
+    "p10": {
+      "label": "Reunion camp beside Lastlight Falls",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0333",
+          "endUid": "u0355",
+          "quote": "DM: We now return to the current day. Where you now jumping ahead to our intro—let's get some—where is my—Oh, my God! I've got way too many queued here. Okay, this this should work. Jumping ahead to the plains of Dunmar, where you have reunited only hours ago, and spent the past 2 or 3 h over the campfire catching up listening to the stories of your adventures in—the islands and jungles of the East. The dwarven planes and Shadowfell domains of Morkalan, the Feywilds, and the—forests and battlefields of the Great War far to the north. And also hearing from Delwath news about what's happening in the world as you've been scattered to the 4 corners."
+        },
+        {
+          "startUid": "u0640",
+          "endUid": "u0650",
+          "quote": "DM: Waking in the morning to a—even so, this far East it's still fairly deserty. But what rains come have fallen in the past few months. And so there's, you know, flowers in bloom across the landscape. The waters of the—of the Lastlight Falls, you know, support like a little oasis almost in the desert here. The camp that Delwath and Riswynn have made is homey. But it's 230 miles basically due west to Eudomes, to Eudomes's tower. It's also known as Stormcaller Tower."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u0640",
+              "endUid": "u0650",
+              "quote": "DM: Waking in the morning to a—even so, this far East it's still fairly deserty. But what rains come have fallen in the past few months. And so there's, you know, flowers in bloom across the landscape. The waters of the—of the Lastlight Falls, you know, support like a little oasis almost in the desert here. The camp that Delwath and Riswynn have made is homey. But it's 230 miles basically due west to Eudomes, to Eudomes's tower. It's also known as Stormcaller Tower."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0333",
+              "endUid": "u0355",
+              "quote": "DM: We now return to the current day. Where you now jumping ahead to our intro—let's get some—where is my—Oh, my God! I've got way too many queued here. Okay, this this should work. Jumping ahead to the plains of Dunmar, where you have reunited only hours ago, and spent the past 2 or 3 h over the campfire catching up listening to the stories of your adventures in—the islands and jungles of the East. The dwarven planes and Shadowfell domains of Morkalan, the Feywilds, and the—forests and battlefields of the Great War far to the north. And also hearing from Delwath news about what's happening in the world as you've been scattered to the 4 corners."
+            },
+            {
+              "startUid": "u0640",
+              "endUid": "u0650",
+              "quote": "DM: Waking in the morning to a—even so, this far East it's still fairly deserty. But what rains come have fallen in the past few months. And so there's, you know, flowers in bloom across the landscape. The waters of the—of the Lastlight Falls, you know, support like a little oasis almost in the desert here. The camp that Delwath and Riswynn have made is homey. But it's 230 miles basically due west to Eudomes, to Eudomes's tower. It's also known as Stormcaller Tower."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Outcropping overlooking the plains",
+      "kind": "outcropping",
+      "evidence": [
+        {
+          "startUid": "u0684",
+          "endUid": "u0694",
+          "quote": "Kenzo: So at dawn, Riswynn and I set off to a beautiful outcropping overlooking the plains. Kenzo brings forth the first item, one of the first items from our travel that has been significant to him from this chapter of his life. So much has changed since when I, when this this horn was first acquired, and he gives it to Riswynn, and sits prayerfully and closes his eyes."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u0662",
+              "endUid": "u0694",
+              "quote": "DM: So as you wake, get breakfast ready. What is your—what is your sort of goal for travel here? Are you trying to avoid people? Are you trying to go as fast as you can? Are you trying to find people and talk to them?\n\nSeeker: Well, first thing we want to stay hidden, we're going to make a travel plans using my—\n\nDelwath: But, but I think we go as fast as we can, staying out of the way. We do not want to get sucked into it.\n\nSeeker: Yeah, we look at the map here.\n\nKenzo: But before we do any of that, can Riswynn uncurse me?\n\nSeeker: Oh, nice.\n\nDM: Yes, so if you recall the way—what Motua had told you to free yourself is you need the spell Greater Restoration, And you need to sacrifice something of meaning to you which you had suggested that Horn of Silent Alarm that you've been carrying for almost a year now, and then Riswynn can attempt to cure you.\n\nRiswynn: Is the Horn of Silent Alarm instead of a big mound of diamond dust or—\n\nDM: No, in addition to.\n\nRiswynn: But you said I had that.\n\nDM: Yes.\n\nKenzo: And then.\n\nKenzo: So at dawn, Riswynn and I set off to a beautiful outcropping overlooking the plains. Kenzo brings forth the first item, one of the first items from our travel that has been significant to him from this chapter of his life. So much has changed since when I, when this this horn was first acquired, and he gives it to Riswynn, and sits prayerfully and closes his eyes."
+            }
+          ],
+          "note": "The ceremony is a short excursion from the morning camp; no distance is stated."
+        }
+      ]
+    },
+    "p12": {
+      "label": "Underground weapons store",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0484",
+          "endUid": "u0527",
+          "quote": "DM: You hold up the mirror trying to see something of its first use or its first first trip. The mirror, as usual, goes black, and you see you see for a moment this—or maybe—a—vast store in some underground room lit by flickering lanterns where there are you know, weapons of all kinds, swords, axes, glaives, polearms, armor. And being—driven, dragged into this—into this room, you see 2 kenku. Iron bands on their wrists. Pretty disheveled looking. There was a hobgoblin who's sort of—poking them with a spear as they go—\n\nDM: And stepping out of the shadows in front of the arm band in front of the 2—the two kenku, is a man, a tall—6, 7 foot tall wearing a black cloak, shadowing his face, around sort of—tall black leather boots, chainmail armor, but looks more decorative than anything else. And red eyes. And he picks up the arm band. And he hands that to one of them—and does something magical like waves his hand, or something like that—and then gives the hobgoblin a brief—the hobgoblin puts the the spear down, and the one who took the armband and the other one as well. The 2 of them scurry out of the room."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u0484",
+              "endUid": "u0552",
+              "quote": "DM: You hold up the mirror trying to see something of its first use or its first first trip. The mirror, as usual, goes black, and you see you see for a moment this—or maybe—a—vast store in some underground room lit by flickering lanterns where there are you know, weapons of all kinds, swords, axes, glaives, polearms, armor. And being—driven, dragged into this—into this room, you see 2 kenku. Iron bands on their wrists. Pretty disheveled looking. There was a hobgoblin who's sort of—poking them with a spear as they go—\n\nDM: And stepping out of the shadows in front of the arm band in front of the 2—the two kenku, is a man, a tall—6, 7 foot tall wearing a black cloak, shadowing his face, around sort of—tall black leather boots, chainmail armor, but looks more decorative than anything else. And red eyes. And he picks up the arm band. And he hands that to one of them—and does something magical like waves his hand, or something like that—and then gives the hobgoblin a brief—the hobgoblin puts the the spear down, and the one who took the armband and the other one as well. The 2 of them scurry out of the room.\n\nDM: And you see then, from the perspective of the arm band taking off in the, in the courtyard of this castle, and then flying up, seeing the land below you. A row of black mountains, dark, snow on some peaks, but one which has lava flowing down from the side. That castle now getting smaller sort of set on the side of these mountains, and you can see vast camps, army camps, arrayed, must be 10,000 troops, maybe more, just in rows next to this this castle. And as you fly higher, you can see that this is just one of many fortresses laid along the border of this land. You keep flying. Heading east now. Like following the line of mountains, runs west to east, east to west, you’re following the line of the mountains."
+            }
+          ],
+          "note": "The continuous account moves from the weapons room to the courtyard of this castle."
+        }
+      ]
+    },
+    "p13": {
+      "label": "Castle in the armband vision",
+      "kind": "castle",
+      "evidence": [
+        {
+          "startUid": "u0528",
+          "endUid": "u0552",
+          "quote": "DM: And you see then, from the perspective of the arm band taking off in the, in the courtyard of this castle, and then flying up, seeing the land below you. A row of black mountains, dark, snow on some peaks, but one which has lava flowing down from the side. That castle now getting smaller sort of set on the side of these mountains, and you can see vast camps, army camps, arrayed, must be 10,000 troops, maybe more, just in rows next to this this castle. And as you fly higher, you can see that this is just one of many fortresses laid along the border of this land. You keep flying. Heading east now. Like following the line of mountains, runs west to east, east to west, you’re following the line of the mountains."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u0528",
+              "endUid": "u0552",
+              "quote": "DM: And you see then, from the perspective of the arm band taking off in the, in the courtyard of this castle, and then flying up, seeing the land below you. A row of black mountains, dark, snow on some peaks, but one which has lava flowing down from the side. That castle now getting smaller sort of set on the side of these mountains, and you can see vast camps, army camps, arrayed, must be 10,000 troops, maybe more, just in rows next to this this castle. And as you fly higher, you can see that this is just one of many fortresses laid along the border of this land. You keep flying. Heading east now. Like following the line of mountains, runs west to east, east to west, you’re following the line of the mountains."
+            },
+            {
+              "startUid": "u0610",
+              "endUid": "u0620",
+              "quote": "Kenzo: [garbled] the sceptre of the separate powers after we build it and conquer Taelgar. You're late. I mean it's Cha'mutte's place right? That's like the part of the North right?\n\nDM: Pandar it was called.\n\nSeeker: Yeah.\n\nKenzo: Pandar was the home that kenku—\n\nDM: The kenku were enslaved by Cha'mutte. Yeah. That was Arryn's whole thing is freeing the kenku.\n\nKenzo: Right? I think they—\n\nWellby: At least at the end of that, a tribe they claim to as their homeland.\n\nDM: No, they all have moved on the other side of the mountains.\n\nWellby: Was Pandar, and that was on the west, the kenku moved on the east."
+            }
+          ],
+          "note": "The table identifies the land in the vision as Cha’mutte’s Pandar; no named castle is established."
+        }
+      ]
+    },
+    "p14": {
+      "label": "Castle courtyard",
+      "kind": "courtyard",
+      "evidence": [
+        {
+          "startUid": "u0528",
+          "endUid": "u0552",
+          "quote": "DM: And you see then, from the perspective of the arm band taking off in the, in the courtyard of this castle, and then flying up, seeing the land below you. A row of black mountains, dark, snow on some peaks, but one which has lava flowing down from the side. That castle now getting smaller sort of set on the side of these mountains, and you can see vast camps, army camps, arrayed, must be 10,000 troops, maybe more, just in rows next to this this castle. And as you fly higher, you can see that this is just one of many fortresses laid along the border of this land. You keep flying. Heading east now. Like following the line of mountains, runs west to east, east to west, you’re following the line of the mountains."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u0528",
+              "endUid": "u0552",
+              "quote": "DM: And you see then, from the perspective of the arm band taking off in the, in the courtyard of this castle, and then flying up, seeing the land below you. A row of black mountains, dark, snow on some peaks, but one which has lava flowing down from the side. That castle now getting smaller sort of set on the side of these mountains, and you can see vast camps, army camps, arrayed, must be 10,000 troops, maybe more, just in rows next to this this castle. And as you fly higher, you can see that this is just one of many fortresses laid along the border of this land. You keep flying. Heading east now. Like following the line of mountains, runs west to east, east to west, you’re following the line of the mountains."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Pandar",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u0610",
+          "endUid": "u0620",
+          "quote": "Kenzo: [garbled] the sceptre of the separate powers after we build it and conquer Taelgar. You're late. I mean it's Cha'mutte's place right? That's like the part of the North right?\n\nDM: Pandar it was called.\n\nSeeker: Yeah.\n\nKenzo: Pandar was the home that kenku—\n\nDM: The kenku were enslaved by Cha'mutte. Yeah. That was Arryn's whole thing is freeing the kenku.\n\nKenzo: Right? I think they—\n\nWellby: At least at the end of that, a tribe they claim to as their homeland.\n\nDM: No, they all have moved on the other side of the mountains.\n\nWellby: Was Pandar, and that was on the west, the kenku moved on the east."
+        }
+      ],
+      "vaultPath": "History/Historical Realms/Pandar.md"
+    },
+    "p16": {
+      "label": "Ledge in the mountain foothills",
+      "kind": "ledge",
+      "evidence": [
+        {
+          "startUid": "u0554",
+          "endUid": "u0584",
+          "quote": "DM: Flying over these just land that is prepared for war. Many armies, many like 3 or 4 other forts, with the same number of troops, same size camps next to them, until you come to sort of a flat area high up on a sort of ledge of one of these sort of in the foothills.\n\nDM: And you land and you—the armband sort of clatters to the ground for a moment until it's picked up and—\n\nUnknown: Yes.\n\nDM: Placed on the arm of one of these—one of these kenku, and you can see these like little black tendrils, sort of creep up from the armband and embed themselves in the in the flesh of this creature, until suddenly—\n\nDM: With a—not really any—it's just 1 min, it's not there. The next minute it is. You can see the side of this mountain, a pool of darkness. And—"
+        }
+      ],
+      "note": "Reached eastward along the mountain line; its precise relation to Pandar’s boundary is not stated."
+    },
+    "p17": {
+      "label": "Flat shadowland beyond the portal",
+      "kind": "shadow realm",
+      "evidence": [
+        {
+          "startUid": "u0585",
+          "endUid": "u0595",
+          "quote": "DM: You step in and see just this flat, black expanse of shadow. Nothing there except in the distance you see what seems like a deeper darkness like this is twilight. This is gray. And in the distance there's something black. And the other kenku, the one not wearing—wearing the armband. You step out as the other kenku begins walking through the shadowland.\n\nDM: And then the vision ends."
+        }
+      ],
+      "note": "Delwath recognizes the kind of shadow realm, but the particular realm is unnamed."
+    },
+    "p18": {
+      "label": "First travel camp, about thirty miles west",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0925",
+          "endUid": "u0933",
+          "quote": "DM: The first—the first couple of days passed relatively uneventfully. You get into a routine of standing and Sending in the morning and night. So you, you come to camp about 30 miles west, and cast again, talking to to Johar as Delwath is cooking dinner. Getting across the message that he's got to be brief, and so he says."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0849",
+              "endUid": "u0853",
+              "quote": "DM: So you set out heading west across the plains. Riding through or I guess walking. None of you have horses at the moment. Jason might have a—"
+            },
+            {
+              "startUid": "u0925",
+              "endUid": "u0933",
+              "quote": "DM: The first—the first couple of days passed relatively uneventfully. You get into a routine of standing and Sending in the morning and night. So you, you come to camp about 30 miles west, and cast again, talking to to Johar as Delwath is cooking dinner. Getting across the message that he's got to be brief, and so he says."
+            }
+          ]
+        }
+      ]
+    },
+    "p19": {
+      "label": "Desert south of the party’s route",
+      "kind": "desert",
+      "evidence": [
+        {
+          "startUid": "u1066",
+          "endUid": "u1103",
+          "quote": "DM: Heading—where they are is much more deserted than where you are. Hektor is—seems to be scouting ahead silently with Vola, the 2 of them walking, like looking for a good place to camp, and it's—you know this is getting into—this is fairly deserty territory. It's much more like you know, around where Pava and Avaras live, or, or Agata, that sort of terrain then up north here where it’s much more plains. So they seem to be some distance south of you. They're not currently—they're not talking to each other. They're just walking and sort of looking full and sort of on the lookout for danger, and Hektor is kind of looking around trying to find some sort of shelter spot to camp in.\n\nKenzo: Do we have a sense where they're going?\n\nWellby: Yeah, well, like, what cardinal direction are they headed in back there? Yeah.\n\nDM: They're definitely headed east.\n\nDM: I mean, based on what you know of topography, the geology and geography of Dunmar, like, a week ago or so they were in—they were in the Hara—they were crossing—they were in the Hara River valley. Now they're in desert. That means they're going east. But where exactly east—\n\nKenzo: They're going east, and there's some distance south of you, and they—we think that there are some—there's some point west of us right now.\n\nDM: I don't know, it could be due south of you, for all you know.\n\nKenzo: I mean, what are we like—like, we because we're, we're going west right now. Yeah, you're—you could be doing this or we could be doing this.\n\nDM: Well, there, there are—based on the geography of Dunmar, they are definitely a fair bit south of you, okay, whether they're planning on turning north to intercept you, you know. And there are—\n\nWellby: Going overland.\n\nDM: There's not really. I mean, there's very few roads in Dunmar.\n\nWellby: Well, so Tokra to Karawa.\n\nDM: Yeah, there's—they're not on the Tokra to—they're south of that."
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Garamjala Plateau/Garamjala Desert.md",
+      "note": "Session 69’s dated record calls this the Garamjala Desert. The scry gives terrain and relative direction, without an exact location or a visit by the observing party."
+    },
+    "p20": {
+      "label": "Canyon containing four ogres",
+      "kind": "canyon",
+      "evidence": [
+        {
+          "startUid": "u1134",
+          "endUid": "u1144",
+          "quote": "DM: So as you—as you ride across the plains, Baxter and Wellby sort of circling ahead, you see—\n\nWellby: I'll say telepathically to everyone, \"Four ogres in the canyon ahead.\" See this time I'm not just trotting over to say hello to them. This time I'm reporting back first. Look at this growth."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1134",
+              "endUid": "u1144",
+              "quote": "DM: So as you—as you ride across the plains, Baxter and Wellby sort of circling ahead, you see—\n\nWellby: I'll say telepathically to everyone, \"Four ogres in the canyon ahead.\" See this time I'm not just trotting over to say hello to them. This time I'm reporting back first. Look at this growth."
+            }
+          ]
+        }
+      ]
+    },
+    "p21": {
+      "label": "Scouting camp south of Raven’s Hold",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u1303",
+          "endUid": "u1317",
+          "quote": "DM: So over the next day again you continue riding. Aiming for a point like you know, 10 miles south of Raven's Hold, something like that, somewhere not obviously recognizable. But where you can do a little bit of scouting, and you know by midday on your—by, say, mid afternoon on your fourth day of travel, you sort of come to a point where, if you made camp here, you could spend a little time scouting, exploring a little bit, and then still have, like 4 days of travel to get to—get to the Tower."
+        },
+        {
+          "startUid": "u1375",
+          "endUid": "u1379",
+          "quote": "DM: But at the moment, as we return, you are setting up the camp a few miles south of Raven's Hold, familiar looking territory about where you met Tharandros, the centaur for the first time, 9 months ago. Something like that."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p22",
+          "evidence": [
+            {
+              "startUid": "u1303",
+              "endUid": "u1317",
+              "quote": "DM: So over the next day again you continue riding. Aiming for a point like you know, 10 miles south of Raven's Hold, something like that, somewhere not obviously recognizable. But where you can do a little bit of scouting, and you know by midday on your—by, say, mid afternoon on your fourth day of travel, you sort of come to a point where, if you made camp here, you could spend a little time scouting, exploring a little bit, and then still have, like 4 days of travel to get to—get to the Tower."
+            },
+            {
+              "startUid": "u1375",
+              "endUid": "u1379",
+              "quote": "DM: But at the moment, as we return, you are setting up the camp a few miles south of Raven's Hold, familiar looking territory about where you met Tharandros, the centaur for the first time, 9 months ago. Something like that."
+            }
+          ],
+          "note": "The target is initially about ten miles south; the established camp is described as a few miles south."
+        },
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1303",
+              "endUid": "u1317",
+              "quote": "DM: So over the next day again you continue riding. Aiming for a point like you know, 10 miles south of Raven's Hold, something like that, somewhere not obviously recognizable. But where you can do a little bit of scouting, and you know by midday on your—by, say, mid afternoon on your fourth day of travel, you sort of come to a point where, if you made camp here, you could spend a little time scouting, exploring a little bit, and then still have, like 4 days of travel to get to—get to the Tower."
+            }
+          ]
+        }
+      ]
+    },
+    "p22": {
+      "label": "Raven’s Hold",
+      "kind": "fort",
+      "evidence": [
+        {
+          "startUid": "u1403",
+          "endUid": "u1446",
+          "quote": "DM: Okay. Raven's Hold is mostly empty when you fly over it. That—you see a few things. There are what looks like a pile of like crude weapons piled up next to a mass grave that wasn't there before, outside of—outside of the dwarven outpost on the dwarven side of the, of the valley. Like it's basically a bunch of crummy gear that's just been tossed out, and then a mass grave where some 20 some odd, probably judging by the size, bodies have been buried.\n\nDM: There is—so the one thing. So you see in Raven's Hold just nobody is occupying it, right? There's no creatures here.\n\nDM: So was that big pool of water that you still have like a vial of, that has dried up. But there are on the ground that used to be in this big pool, like the ground is cracked and caked with like lines of what look like sort of purply, like bruised, the color of like a bruise, mud that just kind of runs in lines around that—I—that cracked earth. See, is there anything you missed the first time around?\n\nKenzo: There was one side quest we did not go on, and Raven's Hold. I remember there was like a statue and some kind of a tunnel, and we didn't go there because, remember this? There was like one side quest we didn't go on. We like did all the things. But there was one thing we'd not do.\n\nDM: Oh, there was the dwarven—that was the dwarven—the animated statue in the dwarven—yes, side. But yeah, we can see that from flying up overhead.\n\nSeeker: My bad.\n\nKenzo: We go to the statue.\n\nSeeker: Side quest.\n\nDM: Other than that, yeah, Raven's Hold itself seems pretty empty, actually. Like, there's no—there's no sign of movement whatsoever anywhere you look. And, yeah, I mean, what if there anything else you want to look for specifically or anywhere you want to land?"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Raven's Hold.md"
+    },
+    "p23": {
+      "label": "Ground outside the dwarven outpost",
+      "kind": "grounds",
+      "evidence": [
+        {
+          "startUid": "u1403",
+          "endUid": "u1417",
+          "quote": "DM: Okay. Raven's Hold is mostly empty when you fly over it. That—you see a few things. There are what looks like a pile of like crude weapons piled up next to a mass grave that wasn't there before, outside of—outside of the dwarven outpost on the dwarven side of the, of the valley. Like it's basically a bunch of crummy gear that's just been tossed out, and then a mass grave where some 20 some odd, probably judging by the size, bodies have been buried."
+        }
+      ],
+      "note": "The outpost and grave lie on the dwarven side of the valley; they are distinct from the fort, not rooms inside Raven’s Hold.",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p22",
+          "evidence": [
+            {
+              "startUid": "u1403",
+              "endUid": "u1417",
+              "quote": "DM: Okay. Raven's Hold is mostly empty when you fly over it. That—you see a few things. There are what looks like a pile of like crude weapons piled up next to a mass grave that wasn't there before, outside of—outside of the dwarven outpost on the dwarven side of the, of the valley. Like it's basically a bunch of crummy gear that's just been tossed out, and then a mass grave where some 20 some odd, probably judging by the size, bodies have been buried."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p30",
+          "evidence": [
+            {
+              "startUid": "u1403",
+              "endUid": "u1417",
+              "quote": "DM: Okay. Raven's Hold is mostly empty when you fly over it. That—you see a few things. There are what looks like a pile of like crude weapons piled up next to a mass grave that wasn't there before, outside of—outside of the dwarven outpost on the dwarven side of the, of the valley. Like it's basically a bunch of crummy gear that's just been tossed out, and then a mass grave where some 20 some odd, probably judging by the size, bodies have been buried."
+            }
+          ]
+        }
+      ]
+    },
+    "p24": {
+      "label": "Dry camp at the edge of the enlarged storm",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u1758",
+          "endUid": "u1770",
+          "quote": "DM: Okay. So you arrive. You arrive at the storm. It is before you reach out or anything like it is a good, probably a few extra miles across than it was before, and much more like intense and lightning-y than you—than you remember. Like this storm has clearly grown, and it's, it's been raining. And so there's like mud everywhere. There's like little pools forming. There's rivulets of of just like mud, and it's, it's not a—it's not really the like—outskirts of this storm are not really a particularly pleasant place to set up camp, but like you can, you know, you find a sort of dry area, so you can—you can a poker, you know, you can—plan your attack, and you know, make some—"
+        },
+        {
+          "startUid": "u2555",
+          "endUid": "u2559",
+          "quote": "DM: All right. So we will end there as you camp before the storm, preparing, as it—as the sun sinks towards evening. And we will pick up again. Oh, we didn't—do we have another session scheduled, right?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1734",
+              "endUid": "u1739",
+              "quote": "DM: So let's just refocus a little bit, so it's mid afternoon when you arrive here a few days later. If there's any other like scrying or information you want to get from the travel, and you certainly can get more information. We don't have to play it all out. But like if this stuff you want to know or are you happy with the state of your knowledge?\n\nKenzo: Oh, we definitely want to do some. Some. Can we scry inside there? Can we do some clairvoyance if we could because we're a mile away. We can just Clairvoyance inside there.\n\nDM: Oh, yeah, definitely, I'm saying, before you arrive at the storm, is there anything else you want to like, wrap up like in terms of the travel?"
+            },
+            {
+              "startUid": "u1758",
+              "endUid": "u1770",
+              "quote": "DM: Okay. So you arrive. You arrive at the storm. It is before you reach out or anything like it is a good, probably a few extra miles across than it was before, and much more like intense and lightning-y than you—than you remember. Like this storm has clearly grown, and it's, it's been raining. And so there's like mud everywhere. There's like little pools forming. There's rivulets of of just like mud, and it's, it's not a—it's not really the like—outskirts of this storm are not really a particularly pleasant place to set up camp, but like you can, you know, you find a sort of dry area, so you can—you can a poker, you know, you can—plan your attack, and you know, make some—"
+            },
+            {
+              "startUid": "u2239",
+              "endUid": "u2263",
+              "quote": "DM: 19. Pretty good! So your Clairvoyance eye appears in the room at the top of the tower.\n\nKenzo: Wow.\n\nWellby: Sweet! Whoa! Whoa! Whoa!\n\nDM: Oh, wait! Hold on! Just check one thing about the spell.\n\nSeeker: I mean, the meta-magic powers of the glove are, are pretty untested, so it could have some unanticipated [garbled].\n\nDM: You see—you see the bare—a bare room with, with Hralgar the giant chained to the floor just as you saw him once 8 months ago, just chained with his arms bound to the wall like missed, blind, caught, like thrashing and tossing and turning, and you're sort of reporting this. He's—and the storm as you're, as you're seeing this and saying what you're seeing, the storm is intense. There's like lightning crashing."
+            }
+          ],
+          "note": "The party stays at the storm’s outskirts; only Clairvoyance reaches the tower room."
+        },
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1517",
+              "endUid": "u1543",
+              "quote": "DM: Okay. So over the next 4 days, vigorous grasses—over the next 4 days, you, you sort of get, after a scouting Raven’s Hold, you sort of get into this routine of prayer, sending, prayer, scrying, prayer, sending, like, you, you do have to like, dodge out of the way of—there's more people now that you've passed Raven's Hold, so you do spend, you know some, but you know Wellby is pretty much on top of it, and nobody sneaks up when you know nobody is catching you unawares. You have to make a couple of detours to avoid encountering people. You don't necessarily want to get into conversations with.\n\nDM: And the travel, you know, passes peacefully, really, until you start to see from, you know, 30 miles off, the growing thundercloud in the on the horizon that is much bigger than it was before. Yes, and as you approach—yeah, Riswynn, roll four more divine interventions. And then we can do a few communes and scries and sendings and stuff."
+            },
+            {
+              "startUid": "u1758",
+              "endUid": "u1770",
+              "quote": "DM: Okay. So you arrive. You arrive at the storm. It is before you reach out or anything like it is a good, probably a few extra miles across than it was before, and much more like intense and lightning-y than you—than you remember. Like this storm has clearly grown, and it's, it's been raining. And so there's like mud everywhere. There's like little pools forming. There's rivulets of of just like mud, and it's, it's not a—it's not really the like—outskirts of this storm are not really a particularly pleasant place to set up camp, but like you can, you know, you find a sort of dry area, so you can—you can a poker, you know, you can—plan your attack, and you know, make some—"
+            }
+          ]
+        }
+      ]
+    },
+    "p25": {
+      "label": "Room at the top of the tower",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2239",
+          "endUid": "u2263",
+          "quote": "DM: 19. Pretty good! So your Clairvoyance eye appears in the room at the top of the tower.\n\nKenzo: Wow.\n\nWellby: Sweet! Whoa! Whoa! Whoa!\n\nDM: Oh, wait! Hold on! Just check one thing about the spell.\n\nSeeker: I mean, the meta-magic powers of the glove are, are pretty untested, so it could have some unanticipated [garbled].\n\nDM: You see—you see the bare—a bare room with, with Hralgar the giant chained to the floor just as you saw him once 8 months ago, just chained with his arms bound to the wall like missed, blind, caught, like thrashing and tossing and turning, and you're sort of reporting this. He's—and the storm as you're, as you're seeing this and saying what you're seeing, the storm is intense. There's like lightning crashing."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2239",
+              "endUid": "u2263",
+              "quote": "DM: 19. Pretty good! So your Clairvoyance eye appears in the room at the top of the tower.\n\nKenzo: Wow.\n\nWellby: Sweet! Whoa! Whoa! Whoa!\n\nDM: Oh, wait! Hold on! Just check one thing about the spell.\n\nSeeker: I mean, the meta-magic powers of the glove are, are pretty untested, so it could have some unanticipated [garbled].\n\nDM: You see—you see the bare—a bare room with, with Hralgar the giant chained to the floor just as you saw him once 8 months ago, just chained with his arms bound to the wall like missed, blind, caught, like thrashing and tossing and turning, and you're sort of reporting this. He's—and the storm as you're, as you're seeing this and saying what you're seeing, the storm is intense. There's like lightning crashing."
+            }
+          ]
+        }
+      ]
+    },
+    "p26": {
+      "label": "Havdar’s tent and camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u1561",
+          "endUid": "u1585",
+          "quote": "DM: And then there's this loud, like echoing across the entire camp, like this loud like sound of, you know, like a bell, like a hammer or hitting a church bell. It just starts ringing and ringing and ringing and ringing, echoing like across the echoing as if you're in a cavern, even though you're in empty plains. And you see, Riswynn, you see Havdar in just waking up in his camp in his tent, tossing and turning and, and waking, and he goes to reach for his sword, as he seems to do every morning, and a hand reaches out, a dwarven hand and grabs his hand as he's going to grab the sword. And like grasps it like this, grasped his hand between their hands. And says in Dwarvish, \"No. You are free.\"\n\nDM: And he like rolls over and looks stunned for a moment and then looks at the sword, and the sword has turned into—like where there was the blade of the sword is now a snake that's crawling out of the tent."
+        },
+        {
+          "startUid": "u1636",
+          "endUid": "u1691",
+          "quote": "DM: So, so you see late the, the first first attempt after he is uncursed when you break for lunch that day, you see him just—he's got—he's sitting in his tent. He's no nobody in or out. There's nobody else in the tent, and he has about like 20 of these like little sculpted figures of Dunmari gods. So like not just—so often many Dunmari—you, you've seen this in a few places will carry around these little wooden sculpted figures, or painted or clay figures of of the gods they set up as like little traveling altars. And he's got not just his, but like he's obviously asked other people, or he has gotten him from his troop or something. There was like this just big forest of god statues in front of him, and he's just praying, both thanks, and also wondering why, like what did the dwarves—what do the dwarfs want with him? And what does it all mean? He seems confused or unsettled but not necessarily in a bad way.\n\nDM: Later, you, you see him. You scry him when he’s having dinner with, as you’re setting up camp, when he’s having dinner with Sura and a few other of his most trusted followers are Faram, who you met, a couple of others and they seem to be talking about the sword. You seem to have come in in the middle of a conversation, and, and Havdar is saying, \"Clearly it was cursed. That must have been the Chardonians. Who else would it have been? I would trust the whatever you guys are called, Delwath and Seeker and Wellby and all them with my life. They saved me several times. Kind of—they wouldn’t have done this. It must have been—\"\n\nUnknown: Yeah.\n\nDM: And Sura is saying, \"It came from—that sword came from Agata. Maybe they didn’t know.\" Havdar’s convinced now it must have been the Chardonians. \"We should—we should settle with whatever we have to do. We should make peace with Nayan Karnas and ride against Chardon. They are threatening us with magic.\" Conversation goes on."
+        }
+      ],
+      "mobile": true
+    },
+    "p27": {
+      "label": "Great staircase and temple platform in Hralgar’s dream",
+      "kind": "dream site",
+      "evidence": [
+        {
+          "startUid": "u2264",
+          "endUid": "u2305",
+          "quote": "DM: And then the—what you're seeing through the clairvoyance sensor shifts like about 4 min in or something, maybe halfway through the spell, and you see—you see a clear mountain range. You see mountains stretching in the distance to the north and the south, a huge stone staircase leading up to a open like temple-like platform.\n\nKenzo: We recognize the staircase, not just any basic stairs?\n\nSeeker: This was—yeah.\n\nDM: Yeah, Hralgar's dream state.\n\nKenzo: Yeah.\n\nSeeker: Fuck. Whoa, the Clairvoyance tunneled into the—well—\n\nDM: And as your—as you're watching this, you see Hralgar coming down the, the stairs from this like palace that's a little bit out of sight, walking slowly, leaning on a cane kind of, you know, 25-ish feet tall, sort of stone gray, slate gray skin, a sort of got chiseled face, wearing white robes that are kind of swirling with whites and grays.\n\nDM: Walking slowly like.\n\nUnknown: With this.\n\nDM: Holding this, this like staff, cane, which is like 4 times taller than Seeker is, and like stopping and sort of looking, looking almost confused like, \"Why is it, you know, why can’t I see?\" As he sort of feels his way down the steps. And then just sits and like, puts his, his head in his hand, sitting on these steps, and the spell ends."
+        }
+      ],
+      "note": "The familiar dream setting is observed through Clairvoyance; no embodied party movement into it is established.",
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p28",
+          "evidence": [
+            {
+              "startUid": "u2285",
+              "endUid": "u2305",
+              "quote": "DM: And as your—as you're watching this, you see Hralgar coming down the, the stairs from this like palace that's a little bit out of sight, walking slowly, leaning on a cane kind of, you know, 25-ish feet tall, sort of stone gray, slate gray skin, a sort of got chiseled face, wearing white robes that are kind of swirling with whites and grays.\n\nDM: Walking slowly like.\n\nUnknown: With this.\n\nDM: Holding this, this like staff, cane, which is like 4 times taller than Seeker is, and like stopping and sort of looking, looking almost confused like, \"Why is it, you know, why can’t I see?\" As he sort of feels his way down the steps. And then just sits and like, puts his, his head in his hand, sitting on these steps, and the spell ends."
+            }
+          ],
+          "note": "Hralgar comes down the stairs from the partly unseen palace; the steps are not asserted to be inside the building."
+        }
+      ]
+    },
+    "p28": {
+      "label": "Palace partly out of sight in Hralgar’s dream",
+      "kind": "palace",
+      "evidence": [
+        {
+          "startUid": "u2285",
+          "endUid": "u2294",
+          "quote": "DM: And as your—as you're watching this, you see Hralgar coming down the, the stairs from this like palace that's a little bit out of sight, walking slowly, leaning on a cane kind of, you know, 25-ish feet tall, sort of stone gray, slate gray skin, a sort of got chiseled face, wearing white robes that are kind of swirling with whites and grays."
+        }
+      ],
+      "note": "Hralgar’s Palace is a plausible physical analogue, but this image does not independently fix that geographical identity."
+    },
+    "p29": {
+      "label": "Apparent passage through the storm",
+      "kind": "vision",
+      "evidence": [
+        {
+          "startUid": "u2077",
+          "endUid": "u2103",
+          "quote": "DM: And the rest of you, as you're watching Kenzo, he just starts to go dull, almost completely still. And Kenzo, you see—you actually see now the storm start to fade in front of you. Oh, great! And like the clouds, begin to open up like opening up a passage in through the middle of the storm. Someone's beckoning you in.\n\nKenzo: But I resist.\n\nDM: Yeah, you don't have to go in.\n\nKenzo: Or well, the—I would tell you all that. Yeah, I was just thinking, I wonder if I could make that? I think Kenzo's got enough enough wherewithal not to go in at this moment in time, but he looks at the opening. What's in—what's in the opening? Can I see far down it? Anything in the center?\n\nDM: So it's—it fades after like 300. It's like a tunnel that sort of—it gets dimmer as it goes further in, and it sort of fades into mist after a few 100 feet.\n\nKenzo: Can I talk?\n\nDM: Yeah.\n\nKenzo: I tell—I, I tell everybody what I'm seeing.\n\nDM: The rest of you don't see anything. I mean, the storm is just the storm.\n\nUnknown: Thank you.\n\nKenzo: I don't know what this means, but it would be best for me not to walk into it right now."
+        }
+      ],
+      "note": "Visible to Kenzo alone during his trance; the other observers see no opening."
+    },
+    "p30": {
+      "label": "Dwarven outpost beside Raven’s Hold",
+      "kind": "outpost",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Dwarven Outpost (Raven's Hold).md",
+      "evidence": [
+        {
+          "startUid": "u1403",
+          "endUid": "u1417",
+          "quote": "DM: Okay. Raven's Hold is mostly empty when you fly over it. That—you see a few things. There are what looks like a pile of like crude weapons piled up next to a mass grave that wasn't there before, outside of—outside of the dwarven outpost on the dwarven side of the, of the valley. Like it's basically a bunch of crummy gear that's just been tossed out, and then a mass grave where some 20 some odd, probably judging by the size, bodies have been buried."
+        }
+      ],
+      "note": "The paired dwarven outpost is a separate structure on the other side of the valley, not a room within the fort."
+    },
+    "p31": {
+      "label": "Airspace over the fort",
+      "kind": "airspace",
+      "evidence": [
+        {
+          "startUid": "u1401",
+          "endUid": "u1417",
+          "quote": "Wellby: I mean I can fly for an hour at a time, too. Just fly over there and invisibly check it out and come back.\n\nSeeker: Yeah. So that sounds good. Actually.\n\nDM: Okay. Raven's Hold is mostly empty when you fly over it. That—you see a few things. There are what looks like a pile of like crude weapons piled up next to a mass grave that wasn't there before, outside of—outside of the dwarven outpost on the dwarven side of the, of the valley. Like it's basically a bunch of crummy gear that's just been tossed out, and then a mass grave where some 20 some odd, probably judging by the size, bodies have been buried."
+        },
+        {
+          "startUid": "u1442",
+          "endUid": "u1446",
+          "quote": "DM: Other than that, yeah, Raven's Hold itself seems pretty empty, actually. Like, there's no—there's no sign of movement whatsoever anywhere you look. And, yeah, I mean, what if there anything else you want to look for specifically or anywhere you want to land?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p22",
+          "evidence": [
+            {
+              "startUid": "u1401",
+              "endUid": "u1417",
+              "quote": "Wellby: I mean I can fly for an hour at a time, too. Just fly over there and invisibly check it out and come back.\n\nSeeker: Yeah. So that sounds good. Actually.\n\nDM: Okay. Raven's Hold is mostly empty when you fly over it. That—you see a few things. There are what looks like a pile of like crude weapons piled up next to a mass grave that wasn't there before, outside of—outside of the dwarven outpost on the dwarven side of the, of the valley. Like it's basically a bunch of crummy gear that's just been tossed out, and then a mass grave where some 20 some odd, probably judging by the size, bodies have been buried."
+            },
+            {
+              "startUid": "u1442",
+              "endUid": "u1446",
+              "quote": "DM: Other than that, yeah, Raven's Hold itself seems pretty empty, actually. Like, there's no—there's no sign of movement whatsoever anywhere you look. And, yeah, I mean, what if there anything else you want to look for specifically or anywhere you want to land?"
+            }
+          ]
+        }
+      ]
+    },
+    "p32": {
+      "label": "Storm surrounding Stormcaller Tower",
+      "kind": "storm",
+      "evidence": [
+        {
+          "startUid": "u1923",
+          "endUid": "u1928",
+          "quote": "Delwath: Can we just fly up until we can see the whole thing, and then figure it out and fly back there? Yes.\n\nDM: I don't know. It's probably 6 miles across. There is no center of the storm. Yeah, sorry, yes. But it's circular, right? Yeah, yeah, it's circular. But last time there was an eye, and you could see the tower. There is no sighting of the tower."
+        },
+        {
+          "startUid": "u1970",
+          "endUid": "u1983",
+          "quote": "DM: I mean, it could kick you. The storm also, like, I assume it was—I assume, Wellby, you are the one who flew up to scout or go with your spell?\n\nDelwath: Does your thing run out of charge?\n\nDM: It's a number of charges per day, right? Okay?\n\nDelwath: So you should use your first. But I guess I could use a spell, and we could rest. And I mean, we're going to take an hour planning, anyway. Right so.\n\nKenzo: Oh, we're not a rush. We're going to figure this out.\n\nDM: So it's like I mean you had to go like a good 15, I mean, you couldn't really, you couldn't actually fly above the storm.\n\nUnknown: Right.\n\nDM: Like it's like goes up a mile or something. It's like really tall. You flew around, right, so you can get it. You can get up enough so that you've got an angle down, and you can sort of see their circumference. But this is not like—I mean, this is a thunderhead that goes way up."
+        }
+      ],
+      "note": "The circling scout measures the storm; the tower itself remains hidden."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0006"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "Earlier forest mirror examinations are resolved retrospectively.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "DM: And then we'll come back to—oh, I, I never wrote my intro. That's okay. [garbled] with the recorded mirror visions from the from the forest, and then we'll come back to the current day as we approach late evening, and you pull out the Shadow Armband to show it to the mirror."
+        }
+      ],
+      "place": "p01",
+      "context": "flashback",
+      "note": "Actor scope follows the earlier forest party in Session 52; Riswynn’s table speech does not place her there."
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0049",
+        "endUid": "u0062"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "The mace shows a fort under assault and later the same fort overgrown with forest.",
+      "evidence": [
+        {
+          "startUid": "u0049",
+          "endUid": "u0077",
+          "quote": "DM: And the first thing you see is a vision of what looks like in the middle of some massive war. Everything is just totally chaotic. There's that—a, a human man wearing plate armor seems to be holding the mace, and there's trolls, hobgoblins streaming over the, the—this. This person is standing in the the gates of of some sort of fort, like, you—You can't see much, but you see, like a big gate and walls and.\n\nUnknown: The—\n\nDM: Trolls have this giant battering ram, and are crashing through the gates. The fort is basically in the process of being overrun.\n\nDM: And over the 30 s or so you see this scene, this knight wielding this mace is forced back. Some hobgoblins flee, flee from him. The, the hobgoblin troops seem to be unable to approach, but hobgoblin spellcaster steps in front of the steps in the front of the gate, and and shoots a lightning bolt, and it strikes the mace, and whoever was holding the mace falls over, presumably dead.\n\nSeeker: It strikes the mace itself?\n\nDM: Strikes them—the entire—it's a giant lightning bolt. It like flashes from a spellcaster, like, the mace, the armor, the knight, everybody in between the spellcaster and the knight."
+        },
+        {
+          "startUid": "u0082",
+          "endUid": "u0106",
+          "quote": "DM: And then another scene. You see a, a human dressed in light armor in traveling clothes. A woman wearing a sort of green brown leather armor, a bow strung on her back. A—that—that—pipes, like panpipes, slung on her side. She seems to be humming a low tune from what you judge from her position. She's standing next to a dwarf, heavily armored.\n\nDM: And they are both examining a skeleton in the same fort, apparently, but much later. It's overgrown, now covered in woods.\n\nDM: And she, the woman, points at the mace. And the dwarf just looks at it, picks it up, opens a small pouch, like maybe this big, just drops the mace in, and it vanishes into the pouch."
+        },
+        {
+          "startUid": "u0125",
+          "endUid": "u0127",
+          "quote": "DM: It's in a, in a—a forest seems to have grown over the fort. And you—but otherwise not really."
+        }
+      ],
+      "place": "p02",
+      "observerPlace": "p01",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0128",
+        "endUid": "u0150"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "The mace’s history ends in Fausto’s lower hall as the dwarf delivers it and departs.",
+      "evidence": [
+        {
+          "startUid": "u0128",
+          "endUid": "u0150",
+          "quote": "DM: And then just blackness until you see the same dwarf paladin or knight, heavily armored dwarf, taking the mace out of this bag in the sitting room, the like lower floor, sort of entry dining hall of Fausto's tower and placing it on the table, and it looks like there's sort of a—and—speaking with Fausto. Fausto is sitting there. There's kind of a not super pleasant conversation between the 2 of them.\n\nDM: And then the dwarf turns and storms off, and motions, and you see there's like a—in addition to the same woman. There is a a stoneborn fighter like, with a big sword slung over his back. And the 3 of them leave Fausto's tower together. And that's where the Mirror fades."
+        }
+      ],
+      "place": "p04",
+      "observerPlace": "p01",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0218",
+        "endUid": "u0238"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "The eyes show their manufacture in an unfamiliar workshop.",
+      "evidence": [
+        {
+          "startUid": "u0213",
+          "endUid": "u0238",
+          "quote": "DM: So you hold up the eyes to the mirror, trying to see how they ended up this way, how they—how Hralgar was bound and, and caught.\n\nDM: And the first thing that you see, as the mirror clears, first thing that you see is that the mirror—normally it's just black transitions, but it almost looks like clouds are blowing away when you hold the eyes up to the mirror. And you see—you see a workshop somewhere, not a—not a place you recognize from the tower. Not a room that you've been in before. It's big. It's bigger than you expected, and there's maybe a half a dozen people scurrying around like tapping, carefully, seeming to be crafting the eyes from something, from stone, from gems.\n\nDM: And there are spells being cast as these wizards and artificers work their—\n\nUnknown: And—\n\nDM: Polishing. They're sort of—you, you know, you'll see this like fine, you know, cloth being rubbed over the surface of the eyes. Things being painted on the eyes and the—just a sense, and it you get the sense this is happening over weeks or months that slowly these things are being constructed."
+        }
+      ],
+      "place": "p05",
+      "observerPlace": "p01",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0239",
+        "endUid": "u0267"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "The vision shifts to the statue chamber where Eudomes binds Hralgar.",
+      "evidence": [
+        {
+          "startUid": "u0239",
+          "endUid": "u0278",
+          "quote": "DM: You don't see Eudomes much during this time. Occasionally he'll show up and walk through until the scene shifts suddenly. And you can see the statue of Hralgar's like face and upper part of his chest, wearing this crown with the 5 stones that were missing that were taken by Dee and Dain and Alban as well, and, and there's like lightning crackling in between these 5 stones like sparking between them. Creating this sort of web of like sparking, lightning energy over the top of the statue, and it's like you're looking directly at the statue. And there's, there's a—there's a spell being cast, something, because the statue is suddenly like slumping slowly like it almost becomes malleable, and you can see that the 2 stones being these 2 stone eyes being shoved into the statue.\n\nDM: As it turns—that—something must be happening to it, because you know, these these stone eyes, or gem eyes, or whatever they are at this point are being just shoved into this solid stone. And as that happens, there's a massive strike of lightning that hits the tower and your perspective shakes for a moment, and you can see Eudomes now, standing there. You know, chanting some sort of magic.\n\nDM: And as you do—as you watch you can see Eudomes looking at you, and almost—it almost looks like as he finishes this ritual, whatever he's casting, he's now speaking to the statue. There's no other people in the room that you can see, and yet he begins to talk. Begins to—you can't tell what he's saying because there's no sound. Shit, I should have done this—"
+        }
+      ],
+      "place": "p07",
+      "observerPlace": "p01",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l06",
+      "type": "presence",
+      "source": {
+        "startUid": "u0333",
+        "endUid": "u0355"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The reunited party is camped on the Dunmari plains at Lastlight Falls.",
+      "evidence": [
+        {
+          "startUid": "u0333",
+          "endUid": "u0355",
+          "quote": "DM: We now return to the current day. Where you now jumping ahead to our intro—let's get some—where is my—Oh, my God! I've got way too many queued here. Okay, this this should work. Jumping ahead to the plains of Dunmar, where you have reunited only hours ago, and spent the past 2 or 3 h over the campfire catching up listening to the stories of your adventures in—the islands and jungles of the East. The dwarven planes and Shadowfell domains of Morkalan, the Feywilds, and the—forests and battlefields of the Great War far to the north. And also hearing from Delwath news about what's happening in the world as you've been scattered to the 4 corners."
+        },
+        {
+          "startUid": "u0387",
+          "endUid": "u0403",
+          "quote": "DM: But as you realize belatedly to shift your conversation to telepathy, using Seeker's newly acquired magic. We start late at night at the campfire, as you prepare to show the Shadow Armband of Cha'mutte that Delwath acquired on one of the lost battlefields of the Great War to the mirror before resting and preparing to hopefully cure some curses by divine magic in the morning before—\n\nRiswynn: And I also gonna Sending talk to—\n\nDM: Johar.\n\nUnknown: Yeah.\n\nDM: Yes. I think he would probably do that in the morning because it's fairly late at night at this point."
+        },
+        {
+          "startUid": "u0640",
+          "endUid": "u0650",
+          "quote": "DM: Waking in the morning to a—even so, this far East it's still fairly deserty. But what rains come have fallen in the past few months. And so there's, you know, flowers in bloom across the landscape. The waters of the—of the Lastlight Falls, you know, support like a little oasis almost in the desert here. The camp that Delwath and Riswynn have made is homey. But it's 230 miles basically due west to Eudomes, to Eudomes's tower. It's also known as Stormcaller Tower."
+        }
+      ],
+      "place": "p10"
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u0484",
+        "endUid": "u0527"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The armband shows enslaved kenku receiving it in a castle’s underground weapons store.",
+      "evidence": [
+        {
+          "startUid": "u0484",
+          "endUid": "u0527",
+          "quote": "DM: You hold up the mirror trying to see something of its first use or its first first trip. The mirror, as usual, goes black, and you see you see for a moment this—or maybe—a—vast store in some underground room lit by flickering lanterns where there are you know, weapons of all kinds, swords, axes, glaives, polearms, armor. And being—driven, dragged into this—into this room, you see 2 kenku. Iron bands on their wrists. Pretty disheveled looking. There was a hobgoblin who's sort of—poking them with a spear as they go—\n\nDM: And stepping out of the shadows in front of the arm band in front of the 2—the two kenku, is a man, a tall—6, 7 foot tall wearing a black cloak, shadowing his face, around sort of—tall black leather boots, chainmail armor, but looks more decorative than anything else. And red eyes. And he picks up the arm band. And he hands that to one of them—and does something magical like waves his hand, or something like that—and then gives the hobgoblin a brief—the hobgoblin puts the the spear down, and the one who took the armband and the other one as well. The 2 of them scurry out of the room."
+        },
+        {
+          "startUid": "u0528",
+          "endUid": "u0552",
+          "quote": "DM: And you see then, from the perspective of the arm band taking off in the, in the courtyard of this castle, and then flying up, seeing the land below you. A row of black mountains, dark, snow on some peaks, but one which has lava flowing down from the side. That castle now getting smaller sort of set on the side of these mountains, and you can see vast camps, army camps, arrayed, must be 10,000 troops, maybe more, just in rows next to this this castle. And as you fly higher, you can see that this is just one of many fortresses laid along the border of this land. You keep flying. Heading east now. Like following the line of mountains, runs west to east, east to west, you’re following the line of the mountains."
+        }
+      ],
+      "place": "p12",
+      "observerPlace": "p10",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u0528",
+        "endUid": "u0552"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The armband viewpoint flies out from the castle courtyard over fortresses and armies along the mountains.",
+      "evidence": [
+        {
+          "startUid": "u0528",
+          "endUid": "u0563",
+          "quote": "DM: And you see then, from the perspective of the arm band taking off in the, in the courtyard of this castle, and then flying up, seeing the land below you. A row of black mountains, dark, snow on some peaks, but one which has lava flowing down from the side. That castle now getting smaller sort of set on the side of these mountains, and you can see vast camps, army camps, arrayed, must be 10,000 troops, maybe more, just in rows next to this this castle. And as you fly higher, you can see that this is just one of many fortresses laid along the border of this land. You keep flying. Heading east now. Like following the line of mountains, runs west to east, east to west, you’re following the line of the mountains.\n\nUnknown: And—\n\nDM: Flying over these just land that is prepared for war. Many armies, many like 3 or 4 other forts, with the same number of troops, same size camps next to them, until you come to sort of a flat area high up on a sort of ledge of one of these sort of in the foothills."
+        }
+      ],
+      "place": "p14",
+      "observerPlace": "p10",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u0554",
+        "endUid": "u0584"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The viewpoint reaches a foothill ledge where a kenku puts on the armband and opens a dark portal.",
+      "evidence": [
+        {
+          "startUid": "u0554",
+          "endUid": "u0584",
+          "quote": "DM: Flying over these just land that is prepared for war. Many armies, many like 3 or 4 other forts, with the same number of troops, same size camps next to them, until you come to sort of a flat area high up on a sort of ledge of one of these sort of in the foothills.\n\nDM: And you land and you—the armband sort of clatters to the ground for a moment until it's picked up and—\n\nUnknown: Yes.\n\nDM: Placed on the arm of one of these—one of these kenku, and you can see these like little black tendrils, sort of creep up from the armband and embed themselves in the in the flesh of this creature, until suddenly—\n\nDM: With a—not really any—it's just 1 min, it's not there. The next minute it is. You can see the side of this mountain, a pool of darkness. And—"
+        }
+      ],
+      "place": "p16",
+      "observerPlace": "p10",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u0585",
+        "endUid": "u0595"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Beyond the portal the vision reveals a flat shadowland; the party remains at its camp.",
+      "evidence": [
+        {
+          "startUid": "u0585",
+          "endUid": "u0595",
+          "quote": "DM: You step in and see just this flat, black expanse of shadow. Nothing there except in the distance you see what seems like a deeper darkness like this is twilight. This is gray. And in the distance there's something black. And the other kenku, the one not wearing—wearing the armband. You step out as the other kenku begins walking through the shadowland.\n\nDM: And then the vision ends."
+        },
+        {
+          "startUid": "u0622",
+          "endUid": "u0626",
+          "quote": "Seeker: What was the shadowy place? Does that match anything we know of?\n\nDM: I mean, it looks familiar to Delwath.\n\nSeeker: Right? The shadow realm.\n\nDM: Yeah."
+        }
+      ],
+      "place": "p17",
+      "observerPlace": "p10",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l11",
+      "type": "presence",
+      "source": {
+        "startUid": "u0684",
+        "endUid": "u0694"
+      },
+      "actors": [
+        "Kenzo",
+        "Riswynn",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "The curse-breaking ceremony takes place on an outcropping overlooking the plains.",
+      "evidence": [
+        {
+          "startUid": "u0684",
+          "endUid": "u0694",
+          "quote": "Kenzo: So at dawn, Riswynn and I set off to a beautiful outcropping overlooking the plains. Kenzo brings forth the first item, one of the first items from our travel that has been significant to him from this chapter of his life. So much has changed since when I, when this this horn was first acquired, and he gives it to Riswynn, and sits prayerfully and closes his eyes."
+        },
+        {
+          "startUid": "u0716",
+          "endUid": "u0719",
+          "quote": "Delwath: Delwath will take some of the ash from the hearth, and offer it up to Taraka, the spirit of hearths and houses. And ask them to to watch over Kenzo."
+        },
+        {
+          "startUid": "u0743",
+          "endUid": "u0759",
+          "quote": "DM: So, as you begin to cast the spell on this, the Horn of Silent Alarm begins to flicker. You can see, all of you actually who are there can see now, like, become visible, this like, this like black chain that's wrapped around Kenzo, and as Riswynn offers her prayer, it begins. It begins to disintegrate, and it's, it's sort of flickering in and out, and Seeker, and then—all the all the prayers to all the gods, the dwarven gods, the tanshi, the Dunmari God, everybody isn't doing quite enough.\n\nDM: Seeker just kind of reaches out, and with your rune as this dwarven rune just kind of floats over and touches the chain. The 2 links where the rune, this rune touches, it just snaps, and then the entire thing just disintegrates quickly all around Kenzo, and the horn vanishes in a flash. Then you are uncursed."
+        }
+      ],
+      "place": "p11"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u0849",
+        "endUid": "u0853"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party heads west across the plains and reaches the first camp about thirty miles from Lastlight Falls.",
+      "evidence": [
+        {
+          "startUid": "u0849",
+          "endUid": "u0853",
+          "quote": "DM: So you set out heading west across the plains. Riding through or I guess walking. None of you have horses at the moment. Jason might have a—"
+        },
+        {
+          "startUid": "u0885",
+          "endUid": "u0893",
+          "quote": "Kenzo: All right. We'll walk. Enjoy the view.\n\nDM: Yeah, I mean, you know you can. You can go thirty-ish miles a day, but it's still going to take you—it's going to take you a week, right? I mean.\n\nKenzo: Little more than a week. Why are we in such a rush?\n\nSeeker: And then I use the catapult spell to launch the hole up, myself inside of it, and then it flies straight, and then I get out and do that again.\n\nDM: So you, you continue walking quickly. Wellby scouting ahead. You're still pretty far East at this point."
+        },
+        {
+          "startUid": "u0925",
+          "endUid": "u0933",
+          "quote": "DM: The first—the first couple of days passed relatively uneventfully. You get into a routine of standing and Sending in the morning and night. So you, you come to camp about 30 miles west, and cast again, talking to to Johar as Delwath is cooking dinner. Getting across the message that he's got to be brief, and so he says."
+        }
+      ],
+      "from": "p10",
+      "to": "p18",
+      "completion": "arrived",
+      "mode": "walk",
+      "distance": {
+        "value": 30,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "Narrated distance west to the camp"
+      }
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u1062",
+        "endUid": "u1078"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scrying shows Hektor and Vola looking for camp in desert country south of the party, heading east.",
+      "evidence": [
+        {
+          "startUid": "u1062",
+          "endUid": "u1098",
+          "quote": "DM: You see, you do see Hektor in the sort of late afternoon before you may, you know, while you're making camp. They are traveling same time as it is for you. So not too far east or west of you.\n\nDM: Heading—where they are is much more deserted than where you are. Hektor is—seems to be scouting ahead silently with Vola, the 2 of them walking, like looking for a good place to camp, and it's—you know this is getting into—this is fairly deserty territory. It's much more like you know, around where Pava and Avaras live, or, or Agata, that sort of terrain then up north here where it’s much more plains. So they seem to be some distance south of you. They're not currently—they're not talking to each other. They're just walking and sort of looking full and sort of on the lookout for danger, and Hektor is kind of looking around trying to find some sort of shelter spot to camp in.\n\nKenzo: Do we have a sense where they're going?\n\nWellby: Yeah, well, like, what cardinal direction are they headed in back there? Yeah.\n\nDM: They're definitely headed east.\n\nDM: I mean, based on what you know of topography, the geology and geography of Dunmar, like, a week ago or so they were in—they were in the Hara—they were crossing—they were in the Hara River valley. Now they're in desert. That means they're going east. But where exactly east—\n\nKenzo: They're going east, and there's some distance south of you, and they—we think that there are some—there's some point west of us right now.\n\nDM: I don't know, it could be due south of you, for all you know.\n\nKenzo: I mean, what are we like—like, we because we're, we're going west right now. Yeah, you're—you could be doing this or we could be doing this.\n\nDM: Well, there, there are—based on the geography of Dunmar, they are definitely a fair bit south of you, okay, whether they're planning on turning north to intercept you, you know. And there are—"
+        },
+        {
+          "startUid": "u1101",
+          "endUid": "u1103",
+          "quote": "Wellby: Well, so Tokra to Karawa.\n\nDM: Yeah, there's—they're not on the Tokra to—they're south of that."
+        }
+      ],
+      "place": "p19",
+      "observerPlace": "p18",
+      "mode": "remote",
+      "observedActors": [
+        "Hektor",
+        "Vola"
+      ],
+      "note": "The first-day camp is inferred from the retrospective first-day scry and the narration of making camp; longitude remains open."
+    },
+    {
+      "id": "l14",
+      "type": "observation",
+      "source": {
+        "startUid": "u1134",
+        "endUid": "u1144"
+      },
+      "actors": [
+        "Wellby",
+        "Baxter"
+      ],
+      "reading": "The forward scouts find four ogres in a canyon; the party avoids the canyon.",
+      "evidence": [
+        {
+          "startUid": "u1134",
+          "endUid": "u1144",
+          "quote": "DM: So as you—as you ride across the plains, Baxter and Wellby sort of circling ahead, you see—\n\nWellby: I'll say telepathically to everyone, \"Four ogres in the canyon ahead.\" See this time I'm not just trotting over to say hello to them. This time I'm reporting back first. Look at this growth."
+        },
+        {
+          "startUid": "u1165",
+          "endUid": "u1180",
+          "quote": "DM: You take a detour around them quite easy, given, you know, Wellby's skill, and you know, just scouting and everything, and you know they don't—they don't spot you at all. You go back to the party. You lead them a little way south past the rise of the land. A, you know, a good—you know, a good few miles south of them. Easy to avoid and cover now another 30 miles. So having gone about 90 miles total, you are now approaching Raven's Hold. You're—you're maybe a little bit—a day and a half travel from Raven's Hold."
+        }
+      ],
+      "place": "p20",
+      "observerPlace": "p08",
+      "mode": "local"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1165",
+        "endUid": "u1180"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Continuing west with a southern detour around the ogres, the party reaches its fourth-day scouting camp south of Raven’s Hold.",
+      "evidence": [
+        {
+          "startUid": "u1165",
+          "endUid": "u1180",
+          "quote": "DM: You take a detour around them quite easy, given, you know, Wellby's skill, and you know, just scouting and everything, and you know they don't—they don't spot you at all. You go back to the party. You lead them a little way south past the rise of the land. A, you know, a good—you know, a good few miles south of them. Easy to avoid and cover now another 30 miles. So having gone about 90 miles total, you are now approaching Raven's Hold. You're—you're maybe a little bit—a day and a half travel from Raven's Hold."
+        },
+        {
+          "startUid": "u1303",
+          "endUid": "u1317",
+          "quote": "DM: So over the next day again you continue riding. Aiming for a point like you know, 10 miles south of Raven's Hold, something like that, somewhere not obviously recognizable. But where you can do a little bit of scouting, and you know by midday on your—by, say, mid afternoon on your fourth day of travel, you sort of come to a point where, if you made camp here, you could spend a little time scouting, exploring a little bit, and then still have, like 4 days of travel to get to—get to the Tower."
+        },
+        {
+          "startUid": "u1375",
+          "endUid": "u1379",
+          "quote": "DM: But at the moment, as we return, you are setting up the camp a few miles south of Raven's Hold, familiar looking territory about where you met Tharandros, the centaur for the first time, 9 months ago. Something like that."
+        }
+      ],
+      "from": "p18",
+      "to": "p21",
+      "completion": "arrived",
+      "mode": "overland",
+      "route": [
+        {
+          "reading": "Bypass the ogre canyon a few miles south, without entering it."
+        },
+        {
+          "reading": "Complete ninety miles total by the third-day approach, then continue to the camp south of Raven’s Hold."
+        }
+      ],
+      "note": "Narration alternates walking and riding; no new horse acquisition is established."
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u1401",
+        "endUid": "u1417"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby flies invisibly over Raven’s Hold to scout; no landing is established.",
+      "evidence": [
+        {
+          "startUid": "u1401",
+          "endUid": "u1417",
+          "quote": "Wellby: I mean I can fly for an hour at a time, too. Just fly over there and invisibly check it out and come back.\n\nSeeker: Yeah. So that sounds good. Actually.\n\nDM: Okay. Raven's Hold is mostly empty when you fly over it. That—you see a few things. There are what looks like a pile of like crude weapons piled up next to a mass grave that wasn't there before, outside of—outside of the dwarven outpost on the dwarven side of the, of the valley. Like it's basically a bunch of crummy gear that's just been tossed out, and then a mass grave where some 20 some odd, probably judging by the size, bodies have been buried."
+        },
+        {
+          "startUid": "u1442",
+          "endUid": "u1446",
+          "quote": "DM: Other than that, yeah, Raven's Hold itself seems pretty empty, actually. Like, there's no—there's no sign of movement whatsoever anywhere you look. And, yeah, I mean, what if there anything else you want to look for specifically or anywhere you want to land?"
+        }
+      ],
+      "from": "p21",
+      "to": "p31",
+      "completion": "arrived",
+      "mode": "fly",
+      "note": "The destination is the airspace over the fort, not an entry into the buildings; the return is not explicitly narrated."
+    },
+    {
+      "id": "l17",
+      "type": "observation",
+      "source": {
+        "startUid": "u1403",
+        "endUid": "u1417"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "From the flyover Wellby sees discarded weapons and a mass grave outside the dwarven outpost.",
+      "evidence": [
+        {
+          "startUid": "u1403",
+          "endUid": "u1417",
+          "quote": "DM: Okay. Raven's Hold is mostly empty when you fly over it. That—you see a few things. There are what looks like a pile of like crude weapons piled up next to a mass grave that wasn't there before, outside of—outside of the dwarven outpost on the dwarven side of the, of the valley. Like it's basically a bunch of crummy gear that's just been tossed out, and then a mass grave where some 20 some odd, probably judging by the size, bodies have been buried."
+        }
+      ],
+      "place": "p23",
+      "observerPlace": "p31",
+      "mode": "local"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u1517",
+        "endUid": "u1543"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The group continues west for four travel days, avoids other travelers, and reaches dry ground at the edge of the growing storm.",
+      "evidence": [
+        {
+          "startUid": "u1517",
+          "endUid": "u1543",
+          "quote": "DM: Okay. So over the next 4 days, vigorous grasses—over the next 4 days, you, you sort of get, after a scouting Raven’s Hold, you sort of get into this routine of prayer, sending, prayer, scrying, prayer, sending, like, you, you do have to like, dodge out of the way of—there's more people now that you've passed Raven's Hold, so you do spend, you know some, but you know Wellby is pretty much on top of it, and nobody sneaks up when you know nobody is catching you unawares. You have to make a couple of detours to avoid encountering people. You don't necessarily want to get into conversations with.\n\nDM: And the travel, you know, passes peacefully, really, until you start to see from, you know, 30 miles off, the growing thundercloud in the on the horizon that is much bigger than it was before. Yes, and as you approach—yeah, Riswynn, roll four more divine interventions. And then we can do a few communes and scries and sendings and stuff."
+        },
+        {
+          "startUid": "u1734",
+          "endUid": "u1737",
+          "quote": "DM: So let's just refocus a little bit, so it's mid afternoon when you arrive here a few days later. If there's any other like scrying or information you want to get from the travel, and you certainly can get more information. We don't have to play it all out. But like if this stuff you want to know or are you happy with the state of your knowledge?"
+        },
+        {
+          "startUid": "u1758",
+          "endUid": "u1770",
+          "quote": "DM: Okay. So you arrive. You arrive at the storm. It is before you reach out or anything like it is a good, probably a few extra miles across than it was before, and much more like intense and lightning-y than you—than you remember. Like this storm has clearly grown, and it's, it's been raining. And so there's like mud everywhere. There's like little pools forming. There's rivulets of of just like mud, and it's, it's not a—it's not really the like—outskirts of this storm are not really a particularly pleasant place to set up camp, but like you can, you know, you find a sort of dry area, so you can—you can a poker, you know, you can—plan your attack, and you know, make some—"
+        }
+      ],
+      "from": "p21",
+      "to": "p24",
+      "completion": "arrived",
+      "mode": "overland",
+      "duration": {
+        "value": 4,
+        "unit": "day",
+        "precision": "exact",
+        "basis": "Completed travel montage after Raven’s Hold"
+      },
+      "note": "Wellby’s reconnaissance return is compressed into the subsequent group travel; the party does not physically reach the tower room."
+    },
+    {
+      "id": "l19",
+      "type": "observation",
+      "source": {
+        "startUid": "u1561",
+        "endUid": "u1585"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "A divine vision shows Havdar waking in his tent as his curse is broken.",
+      "evidence": [
+        {
+          "startUid": "u1546",
+          "endUid": "u1585",
+          "quote": "DM: The day after Raven's Hold as you're as you're breaking camp before leaving Raven's, Riswynn is praying in the vigorous grass. Yes. Riswynn is praying for—for Havdar to be—Havdar to be freed of his curse, give you a release from whatever, whatever spell or whatever magic of this sword is is binding him. And everybody's—you've gotten sort of used to Riswynn praying every morning and nothing happening. So everybody's kind of going about their business, making breakfast, packing camp.\n\nDM: And then there's this loud, like echoing across the entire camp, like this loud like sound of, you know, like a bell, like a hammer or hitting a church bell. It just starts ringing and ringing and ringing and ringing, echoing like across the echoing as if you're in a cavern, even though you're in empty plains. And you see, Riswynn, you see Havdar in just waking up in his camp in his tent, tossing and turning and, and waking, and he goes to reach for his sword, as he seems to do every morning, and a hand reaches out, a dwarven hand and grabs his hand as he's going to grab the sword. And like grasps it like this, grasped his hand between their hands. And says in Dwarvish, \"No. You are free.\"\n\nDM: And he like rolls over and looks stunned for a moment and then looks at the sword, and the sword has turned into—like where there was the blade of the sword is now a snake that's crawling out of the tent."
+        }
+      ],
+      "place": "p26",
+      "mode": "vision",
+      "context": "vision",
+      "observedActors": [
+        "Havdar"
+      ],
+      "note": "This is the earlier morning within the journey montage; the party’s particular camp is not identified."
+    },
+    {
+      "id": "l20",
+      "type": "observation",
+      "source": {
+        "startUid": "u1636",
+        "endUid": "u1659"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "At lunch after the cure, Delwath scries Havdar praying alone in his tent.",
+      "evidence": [
+        {
+          "startUid": "u1636",
+          "endUid": "u1659",
+          "quote": "DM: So, so you see late the, the first first attempt after he is uncursed when you break for lunch that day, you see him just—he's got—he's sitting in his tent. He's no nobody in or out. There's nobody else in the tent, and he has about like 20 of these like little sculpted figures of Dunmari gods. So like not just—so often many Dunmari—you, you've seen this in a few places will carry around these little wooden sculpted figures, or painted or clay figures of of the gods they set up as like little traveling altars. And he's got not just his, but like he's obviously asked other people, or he has gotten him from his troop or something. There was like this just big forest of god statues in front of him, and he's just praying, both thanks, and also wondering why, like what did the dwarves—what do the dwarfs want with him? And what does it all mean? He seems confused or unsettled but not necessarily in a bad way."
+        }
+      ],
+      "place": "p26",
+      "mode": "remote",
+      "observedActors": [
+        "Havdar"
+      ]
+    },
+    {
+      "id": "l21",
+      "type": "observation",
+      "source": {
+        "startUid": "u1660",
+        "endUid": "u1691"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Later scrying shows Havdar dining with Sura and trusted followers in camp.",
+      "evidence": [
+        {
+          "startUid": "u1660",
+          "endUid": "u1691",
+          "quote": "DM: Later, you, you see him. You scry him when he’s having dinner with, as you’re setting up camp, when he’s having dinner with Sura and a few other of his most trusted followers are Faram, who you met, a couple of others and they seem to be talking about the sword. You seem to have come in in the middle of a conversation, and, and Havdar is saying, \"Clearly it was cursed. That must have been the Chardonians. Who else would it have been? I would trust the whatever you guys are called, Delwath and Seeker and Wellby and all them with my life. They saved me several times. Kind of—they wouldn’t have done this. It must have been—\"\n\nUnknown: Yeah.\n\nDM: And Sura is saying, \"It came from—that sword came from Agata. Maybe they didn’t know.\" Havdar’s convinced now it must have been the Chardonians. \"We should—we should settle with whatever we have to do. We should make peace with Nayan Karnas and ride against Chardon. They are threatening us with magic.\" Conversation goes on."
+        }
+      ],
+      "place": "p26",
+      "mode": "remote",
+      "observedActors": [
+        "Havdar",
+        "Sura"
+      ]
+    },
+    {
+      "id": "l22",
+      "type": "observation",
+      "source": {
+        "startUid": "u1923",
+        "endUid": "u1928"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "A flying circuit establishes the storm’s circumference; Wellby cannot fly above the thunderhead and the tower is not visible.",
+      "evidence": [
+        {
+          "startUid": "u1923",
+          "endUid": "u1928",
+          "quote": "Delwath: Can we just fly up until we can see the whole thing, and then figure it out and fly back there? Yes.\n\nDM: I don't know. It's probably 6 miles across. There is no center of the storm. Yeah, sorry, yes. But it's circular, right? Yeah, yeah, it's circular. But last time there was an eye, and you could see the tower. There is no sighting of the tower."
+        },
+        {
+          "startUid": "u1970",
+          "endUid": "u1983",
+          "quote": "DM: I mean, it could kick you. The storm also, like, I assume it was—I assume, Wellby, you are the one who flew up to scout or go with your spell?\n\nDelwath: Does your thing run out of charge?\n\nDM: It's a number of charges per day, right? Okay?\n\nDelwath: So you should use your first. But I guess I could use a spell, and we could rest. And I mean, we're going to take an hour planning, anyway. Right so.\n\nKenzo: Oh, we're not a rush. We're going to figure this out.\n\nDM: So it's like I mean you had to go like a good 15, I mean, you couldn't really, you couldn't actually fly above the storm.\n\nUnknown: Right.\n\nDM: Like it's like goes up a mile or something. It's like really tall. You flew around, right, so you can get it. You can get up enough so that you've got an angle down, and you can sort of see their circumference. But this is not like—I mean, this is a thunderhead that goes way up."
+        }
+      ],
+      "place": "p32",
+      "observerPlace": "p24",
+      "mode": "local",
+      "note": "The observation concerns the storm surrounding this known destination; no line of sight to the tower or precise flight endpoint is supplied.",
+      "locationContext": [
+        {
+          "subject": "p32",
+          "relation": "around",
+          "target": "p06"
+        }
+      ]
+    },
+    {
+      "id": "l23",
+      "type": "observation",
+      "source": {
+        "startUid": "u2077",
+        "endUid": "u2103"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo alone perceives an apparent opening through the storm and declines to enter.",
+      "evidence": [
+        {
+          "startUid": "u2077",
+          "endUid": "u2103",
+          "quote": "DM: And the rest of you, as you're watching Kenzo, he just starts to go dull, almost completely still. And Kenzo, you see—you actually see now the storm start to fade in front of you. Oh, great! And like the clouds, begin to open up like opening up a passage in through the middle of the storm. Someone's beckoning you in.\n\nKenzo: But I resist.\n\nDM: Yeah, you don't have to go in.\n\nKenzo: Or well, the—I would tell you all that. Yeah, I was just thinking, I wonder if I could make that? I think Kenzo's got enough enough wherewithal not to go in at this moment in time, but he looks at the opening. What's in—what's in the opening? Can I see far down it? Anything in the center?\n\nDM: So it's—it fades after like 300. It's like a tunnel that sort of—it gets dimmer as it goes further in, and it sort of fades into mist after a few 100 feet.\n\nKenzo: Can I talk?\n\nDM: Yeah.\n\nKenzo: I tell—I, I tell everybody what I'm seeing.\n\nDM: The rest of you don't see anything. I mean, the storm is just the storm.\n\nUnknown: Thank you.\n\nKenzo: I don't know what this means, but it would be best for me not to walk into it right now."
+        }
+      ],
+      "place": "p29",
+      "observerPlace": "p24",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l24",
+      "type": "observation",
+      "source": {
+        "startUid": "u2239",
+        "endUid": "u2263"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Clairvoyance reaches the tower’s top room and reveals Hralgar; Seeker remains outside at camp.",
+      "evidence": [
+        {
+          "startUid": "u2219",
+          "endUid": "u2235",
+          "quote": "Seeker: Thank you, Mr. This is like the maiden voyage of the glove, too. It's very exciting. So there—one of the 2 gems in the glove powers up, glowing and humming as I, with the other hand construct the Clairvoyance rune in the air, sending it forth, and then it suddenly, dramatically accelerates into the center of the storm with the power of the Glove of Crystalized Magic. But does it get there?\n\nDM: Oh, yeah, easily.\n\nSeeker: So I have to say where I'm sending it though. I'm trying to see Hralgar. So where should I try to put it, like right directly in the middle of the tower? It's like, where do we—Oh, man.\n\nDM: Or top floor?\n\nSeeker: All right, all right. That's what it is."
+        },
+        {
+          "startUid": "u2239",
+          "endUid": "u2263",
+          "quote": "DM: 19. Pretty good! So your Clairvoyance eye appears in the room at the top of the tower.\n\nKenzo: Wow.\n\nWellby: Sweet! Whoa! Whoa! Whoa!\n\nDM: Oh, wait! Hold on! Just check one thing about the spell.\n\nSeeker: I mean, the meta-magic powers of the glove are, are pretty untested, so it could have some unanticipated [garbled].\n\nDM: You see—you see the bare—a bare room with, with Hralgar the giant chained to the floor just as you saw him once 8 months ago, just chained with his arms bound to the wall like missed, blind, caught, like thrashing and tossing and turning, and you're sort of reporting this. He's—and the storm as you're, as you're seeing this and saying what you're seeing, the storm is intense. There's like lightning crashing."
+        },
+        {
+          "startUid": "u2317",
+          "endUid": "u2343",
+          "quote": "DM: I didn't have it in my Hralgar notes. But maybe you did. He's in whatever state you left him before. If you unchained him, he's unchained.\n\nWellby: Well, whether he's unchained or chained, we know that in the dream state he's not chained.\n\nDM: Right.\n\nKenzo: Can we communicate with him by a Sending?\n\nWellby: No, why not?\n\nSeeker: Oh, what are we doing—\n\nKenzo: This we were very careful about.\n\nUnknown: Yeah.\n\nKenzo: So there's 2 routes here.\n\nUnknown: Kenzo pauses.\n\nKenzo: Actually, Tim, let me see if I do go to the dream world, is it just me going to the dream world, or does like a portal open? Can I bring others to the dream world? Can I bring everybody?\n\nUnknown: Oh, fuck.\n\nSeeker: Oh, Hralgar told us he could free himself if only he could see.\n\nDM: Yeah, I don’t think you unchained him. You—there was that like stone sphere that was somehow part of the magic that was originally used to trap him that you spent forever trying to like, take with you or something, and you ended up knocking it off the platform.\n\nKenzo: Yeah, I remember that. I remember like knocking something off of a tower off the tower, and then like.\n\nWellby: That having no effect.\n\nDM: Right. But you didn't actually unchain him. He said that he could free himself if his eyes were returned to him, although how exactly to return his eyes was unclear, and whether he was correct about that is also unclear."
+        }
+      ],
+      "place": "p25",
+      "observerPlace": "p24",
+      "mode": "remote",
+      "observedActors": [
+        "Hralgar"
+      ],
+      "note": "The initial chained description is queried; the later recollection confirms the party did not unchain him. This observes a prison, not a completed rescue."
+    },
+    {
+      "id": "l25",
+      "type": "observation",
+      "source": {
+        "startUid": "u2264",
+        "endUid": "u2305"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "The sensor view changes to Hralgar’s familiar dream staircase, with a partly unseen palace; Hralgar descends and sits.",
+      "evidence": [
+        {
+          "startUid": "u2264",
+          "endUid": "u2309",
+          "quote": "DM: And then the—what you're seeing through the clairvoyance sensor shifts like about 4 min in or something, maybe halfway through the spell, and you see—you see a clear mountain range. You see mountains stretching in the distance to the north and the south, a huge stone staircase leading up to a open like temple-like platform.\n\nKenzo: We recognize the staircase, not just any basic stairs?\n\nSeeker: This was—yeah.\n\nDM: Yeah, Hralgar's dream state.\n\nKenzo: Yeah.\n\nSeeker: Fuck. Whoa, the Clairvoyance tunneled into the—well—\n\nDM: And as your—as you're watching this, you see Hralgar coming down the, the stairs from this like palace that's a little bit out of sight, walking slowly, leaning on a cane kind of, you know, 25-ish feet tall, sort of stone gray, slate gray skin, a sort of got chiseled face, wearing white robes that are kind of swirling with whites and grays.\n\nDM: Walking slowly like.\n\nUnknown: With this.\n\nDM: Holding this, this like staff, cane, which is like 4 times taller than Seeker is, and like stopping and sort of looking, looking almost confused like, \"Why is it, you know, why can’t I see?\" As he sort of feels his way down the steps. And then just sits and like, puts his, his head in his hand, sitting on these steps, and the spell ends.\n\nWellby: How does that map to what the storm is doing?\n\nDM: Good question. It's definitely calmer for the second half of the vision. I mean calmer here is a relative term, though."
+        }
+      ],
+      "place": "p27",
+      "observerPlace": "p24",
+      "mode": "vision",
+      "context": "vision",
+      "observedActors": [
+        "Hralgar"
+      ]
+    }
+  ]
+}
