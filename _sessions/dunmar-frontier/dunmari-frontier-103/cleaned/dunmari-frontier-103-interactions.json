@@ -1,0 +1,2797 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "9e2d6660df0c2bc3a80e4c5694cc7e28f029639db7a14f11e4123dea3a808490"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-entity-map.json",
+      "sha256": "185584609ca03ca6b2a6500d4432bc7e6801d546035460f39e1e90e1b2ec7197"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Tilly checks on the transformed crew",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "present"
+        }
+      ],
+      "source": {
+        "startUid": "u0039",
+        "endUid": "u0051"
+      },
+      "lines": [
+        "%% u0039:0-16, u0040:0-14, u0041:0-35, u0042:0-58, u0043:0-49, u0044:0-43, u0045:0-3, u0046:0-15, u0047:0-139, u0048:0-21, u0049:0-59, u0050:0-19, u0051:0-45 %%",
+        "DM: The 2 halflings, Milo and Tilly are standing looking around in some curiosity and a bit of surprise as they just watched their shark transformed crew dive into the river below. And you see Tilly give Milo a quick look and whisper to him: “I must check on the crew. Find out what’s going on, my love.” And then she turns into a seagull and dives into the water, following the crew to make sure that the shark halflings are okay in swimming in the river below and warn anybody not to hurt them until they can be transformed back."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "DM: And let's get some music.",
+          "DM: Okay, so we will begin on Vindristjarna. Just past dawn, the ship hovering over— let's see— the orcish city of Uzgukhar. In the desert you can still see below you the the ruined walls, the, um, the pieces of the city, the buildings that were destroyed and and crushed when the massive trebuchet was firing boulders, until {{bolder hero!}} {{Or stop that}} most epic rolls in this entire campaign.",
+          "Seeker: True. That was crazy.",
+          "DM: But it's, it's— it's early morning. The sun has just risen. There's a lot of activity down below in this not yet super hot part of the day. The city seems vibrant and alive, you can see, you know, orcs running around, repairing the walls. Looking, you know, people looking up and waving at you. They recognize the ship. Nobody seems too surprised to see you, so you guess that Faldrak or somebody warned orcs that the ship was coming. You might have even warned them that you were coming when you sent out a bunch of messages about your “Don’t trust anybody because you have doppelgangers,” before you left for the Peninsula.",
+          "DM: You still can see now the dripping, wet body of a merfolk warlock you just killed some seconds ago, lying wrapped in a cloak on the Vindristjarna."
+        ],
+        "after": [
+          "DM: You see, now, as— on the deck of Vindristjarna here I'm standing sort of in the the open area around the the growing tree— Faldrak limping on his silver cane, as he usually does, walking as quickly as he can in your direction. The dwarf Kethra emerging armored and Amil also from the decks below, prepared to fight.",
+          "DM: And as you approach, this, this fight, your, your attack on the on Buruli, you know, was over in seconds, with Delwath drawing his sword and and attacking this warlock in his vulnerable position.",
+          "DM: And Faldrak is just running, is now limping quickly towards you, looking somewhat sombre, lifting his silver cane, pointing it at Seeker as he runs, yelling, \"The passcode, dwarf, quickly, before I shoot!\"",
+          "Seeker: What are you talking about?",
+          "DM: Who are—"
+        ]
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Faldrak demands the passcode",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0066",
+        "endUid": "u0090"
+      },
+      "lines": [
+        "%% u0066:0-43, u0067:0-111, u0068:0-47 %%",
+        "DM: And Faldrak is just running, is now limping quickly towards you, looking somewhat sombre, lifting his silver cane, pointing it at Seeker as he runs, yelling, \"The passcode, dwarf, quickly, before I shoot!\"",
+        "",
+        "%% u0069:0-27 %%",
+        "Seeker: What are you talking about?",
+        "",
+        "%% u0070:0-8 %%",
+        "DM: Who are—",
+        "",
+        "%% u0071:0-3 %%",
+        "Riswynn: Go.",
+        "",
+        "%% u0072:0-3, u0073:0-3 %%",
+        "Seeker: Oh. But—",
+        "",
+        "%% u0074:0-30 %%",
+        "DM: You would have made something.",
+        "",
+        "%% u0075:0-53 %%",
+        "Seeker: Oh, did—I thought we had, but I just don't remember.",
+        "",
+        "%% u0076:0-60, u0077:0-74, u0078:0-75 %%",
+        "DM: I don't remember what it is, either. You had made something. It was some like you came up with some phrase that nobody would know about what you did in the battle of the battle against the vampire, or something.",
+        "",
+        "%% u0079:0-5 %%",
+        "Seeker: That.",
+        "",
+        "%% u0080:0-42 %%",
+        "Riswynn: No, no chasing sky pirates. Was that your—",
+        "",
+        "%% u0081:0-44, u0082:0-29 %%",
+        "Seeker: No, no, it was. I made an image of this, the vampire and troll slow dance.",
+        "",
+        "%% u0083:0-6 %%",
+        "DM: Right!",
+        "",
+        "%% u0084:0-109, u0085:0-12 %%",
+        "Seeker: The slow dancing vampire and troll, or was it dancing troll slow dance with the vampire? Something like that? It's us, man.",
+        "",
+        "%% u0086:0-19, u0087:0-2, u0088:0-48, u0089:0-49, u0090:0-46 %%",
+        "DM: You—so he, he looks, um, somewhat reassured, looking across at all of you, somewhat surprised. ((Other crew emerging))"
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "DM: But it's, it's— it's early morning. The sun has just risen. There's a lot of activity down below in this not yet super hot part of the day. The city seems vibrant and alive, you can see, you know, orcs running around, repairing the walls. Looking, you know, people looking up and waving at you. They recognize the ship. Nobody seems too surprised to see you, so you guess that Faldrak or somebody warned orcs that the ship was coming. You might have even warned them that you were coming when you sent out a bunch of messages about your “Don’t trust anybody because you have doppelgangers,” before you left for the Peninsula.",
+          "DM: You still can see now the dripping, wet body of a merfolk warlock you just killed some seconds ago, lying wrapped in a cloak on the Vindristjarna.",
+          "DM: The 2 halflings, Milo and Tilly are standing looking around in some curiosity and a bit of surprise as they just watched their shark transformed crew dive into the river below. And you see Tilly give Milo a quick look and whisper to him: “I must check on the crew. Find out what’s going on, my love.” And then she turns into a seagull and dives into the water, following the crew to make sure that the shark halflings are okay in swimming in the river below and warn anybody not to hurt them until they can be transformed back.",
+          "DM: You see, now, as— on the deck of Vindristjarna here I'm standing sort of in the the open area around the the growing tree— Faldrak limping on his silver cane, as he usually does, walking as quickly as he can in your direction. The dwarf Kethra emerging armored and Amil also from the decks below, prepared to fight.",
+          "DM: And as you approach, this, this fight, your, your attack on the on Buruli, you know, was over in seconds, with Delwath drawing his sword and and attacking this warlock in his vulnerable position."
+        ],
+        "after": [
+          "DM: No sign as of yet of the Deno'qai Jotha who you picked up in the north, or Aygul, the other orc sister and—",
+          "DM: Faldrak, as he sort of approaches you then, is like looking. Everybody’s looking a bit shocked to see back. And, and looking at everybody, like, Kethra and Amil look nervous and somewhat. Everybody, all of your crew seems somewhat more—less innocent than they were when you last saw them before they went off on all their side quests of their own, and then somehow managed to get the ship here.",
+          "DM: And as the scene unfolds, why don't, briefly, you all describe your characters in this moment, having just emerged from the plane of water.",
+          "Seeker: Wellby! Wet, right?",
+          "DM: Yeah, I think you would probably be wet. Death."
+        ]
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Magical objects on Buruli’s body",
+      "entities": [
+        {
+          "id": "e037",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e038",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e039",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0184",
+        "endUid": "u0200"
+      },
+      "lines": [
+        "%% u0184:0-116, u0185:0-89, u0186:0-73, u0187:0-156, u0188:0-13, u0189:0-60 %%",
+        "DM: Getting a better look at at Buruli now, you can see that—so he's wearing this cloak made of some kind of billowing kelp fronds woven into fabric. That sort of seems to wrap around him almost protectively. He has one of these amulets of Gazankoa as well, much more elaborate than any of the others that you've seen made of ivory and gold with these like squid tentacles, kind of moving out in a circle and then decorated with sapphires. Definitely a— you know, somebody spent a lot of time and effort crafting.",
+        "",
+        "%% u0190:0-59, u0191:0-10 %%",
+        "Riswynn: Let's put that in a lead box in an extradimensional portal. [garbled]",
+        "",
+        "%% u0192:0-56, u0193:0-129, u0194:0-200, u0195:0-76 %%",
+        "DM: He's also wearing like a silver circlet around his head that almost looks like tentacles encircling his head, decorated with these black, small, black sort of smoky, obsidian opal gems, as well as a ring, strange, shadowy thing that looks like currents of the ocean depths in solid form, solidified around his finger, and 3 silver armbands, each finely worked and decorated with pearls. Doesn't seem to be carrying anything. No pouches or anything else like that.",
+        "",
+        "%% u0196:0-20 %%",
+        "Delwath: Are these all magic?",
+        "",
+        "%% u0197:0-47 %%",
+        "DM: The cloak, the circlet, and the ring are magic.",
+        "",
+        "%% u0198:0-20 %%",
+        "Delwath: The armband is just—",
+        "",
+        "%% u0199:0-12, u0200:0-28 %%",
+        "DM: And and then amulet are just art objects."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "Seeker: A.",
+          "DM: And he can— They can, you know, toss a ladder down without too much.",
+          "Seeker: A real player.",
+          "Seeker: Seeker sort of thoughtfully peers over the edge, pats the side, and then shakes his head a little bit and starts to— I'll try to wring his beard out, squeezing as much water out as possible, and he's like trying to fix his hair, and then all of a sudden sweeps off his Tollen red cloak, balls it up, tries to wring it out over the edge, sort of turns back to the phasing stone control area and shuffles over to make sure things are okay there.",
+          "DM: As everybody's kind of getting settled and and Delwath is looking down at them— at Buruli's body. Faldrak is kind of, you know, as he does, like shuffling, limping a bit, walking with Seeker. Delwath sort of glancing down at the body."
+        ],
+        "after": [
+          "Riswynn: First, we’ll take some ritual time to identify them at some point.",
+          "DM: Faldrak is like walking over with Seeker at this point as Wellby’s catching up with Baxter and Riswynn's catching up with Kethra. Kenzo is catching up with Amil.",
+          "DM: “I don’t know how to tell you this, Seeker.”",
+          "Seeker: [garbled]",
+          "DM: In you. Oh."
+        ]
+      }
+    },
+    {
+      "id": "i004",
+      "title": "The survivors describe the hostile Seeker’s attack",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "interacted"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e052",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0203",
+        "endUid": "u0378"
+      },
+      "lines": [
+        "%% u0203:0-121, u0204:0-39 %%",
+        "DM: Faldrak is like walking over with Seeker at this point as Wellby’s catching up with Baxter and Riswynn's catching up with Kethra. Kenzo is catching up with Amil.",
+        "",
+        "%% u0205:0-42 %%",
+        "DM: “I don’t know how to tell you this, Seeker.”",
+        "",
+        "%% u0206:0-15, u0207:0-7, u0208:0-3, u0209:0-11 %%",
+        "((Repeated clarification and discussion of simulacrum limits))",
+        "",
+        "%% u0210:0-7, u0211:0-28 %%",
+        "DM: Wasn’t— it wasn’t good. Two days ago—",
+        "",
+        "%% u0212:0-10 %%",
+        "Seeker: Found out.",
+        "",
+        "%% u0213:0-12, u0214:0-28, u0215:0-13, u0216:0-9, u0217:0-38, u0218:0-94 %%",
+        "DM: Plaguelands, you appeared like in a flash from your own teleport, shouting about, “It all went wrong, and Kenzo and Delwath were trapped by Fausto, and we had to get to Chardon as quickly as we could.”",
+        "",
+        "%% u0219:0-5, u0220:0-3 %%",
+        "((Repeated clarification and discussion of simulacrum limits))",
+        "",
+        "%% u0221:0-3, u0222:0-15, u0223:0-30, u0224:0-28, u0225:0-14, u0226:0-30 %%",
+        "DM: But I knew my duty. I don't know. Something seemed— well, to be honest, it seemed plausible, but you didn't know the pass code.",
+        "",
+        "%% u0227:0-12 %%",
+        "((Repeated clarification and discussion of simulacrum limits))",
+        "",
+        "%% u0228:0-10, u0229:0-6, u0230:0-17 %%",
+        "DM: And when I asked, you turned on us.",
+        "",
+        "%% u0231:0-5, u0232:0-18, u0233:0-16 %%",
+        "((Repeated clarification and discussion of simulacrum limits))",
+        "",
+        "%% u0234:0-84, u0235:0-64, u0236:0-41, u0237:0-34, u0238:0-95 %%",
+        "DM: I don't know in the end, really, how we beat you. Jotha was on watch with me, and I— running to get the icicle turret up as fast as I could, but this shimmering rune flew out of your hand and crashed into her mind somehow, and she screamed and stood dazed as a ladder swooped up from the side of the ship and attacked her.",
+        "",
+        "%% u0239:0-55, u0240:0-121, u0241:0-30, u0242:0-4, u0243:0-81, u0244:0-32, u0245:0-28, u0246:0-49, u0247:0-44, u0248:0-64 %%",
+        "DM: And then everybody was running to try and do something. Aygul tried to hold the ladder down and keep it occupied somehow, and Amil and Kethra ran for you attacking, but you just kept blasting these runes, and then Jotha’s standing dazed and Aygul tangled, tangled in the ladder, and suddenly the deck of the ship erupted in this blast of rock and stone just erupting from the earth and bludgeoning them. And I couldn't see what happened next, because I got to the control room and I I started shooting icicles at you.",
+        "",
+        "%% u0249:0-4 %%",
+        "((Repeated clarification and discussion of simulacrum limits))",
+        "",
+        "%% u0250:0-38, u0251:0-13, u0252:0-19, u0253:0-5, u0254:0-28, u0255:0-29, u0256:0-95, u0257:0-13, u0258:0-44, u0259:0-10, u0260:0-77, u0261:0-14, u0262:0-32, u0263:0-120, u0264:0-43, u0265:0-31, u0266:0-35, u0267:0-19, u0268:0-13 %%",
+        "DM: They hurt. I think you staggered back. I got another round off, and then heard my name somehow shouted as a curse and this rune found me. And it slammed into me, and I was stunned. I don't know for how long, maybe only a few seconds. Maybe longer. I think that almost killed me, that one hit. And when I came back out—came to—it was quiet. I stumbled out. Jotha and Aygul are lying twisted in the middle of the rubble not moving. Kethra looked like she'd been struck by some massive rock launched from some magical catapult straight in the chest, and Amil was standing over her yelling for help. I can’t really run anymore. And we're not well stocked on healing. Had one potion, and I don't know.",
+        "",
+        "%% u0269:0-7, u0270:0-38, u0271:0-3 %%",
+        "Seeker: [garbled] How did you destroy this false Seeker? Oh.",
+        "",
+        "%% u0272:0-100 %%",
+        "DM: Think it must have been Kethra, Amil. I didn’t see. Without the icicle turret, we would all be dead.",
+        "",
+        "%% u0273:0-2 %%",
+        "((Repeated clarification and discussion of simulacrum limits))",
+        "",
+        "%% u0274:0-39, u0275:0-17, u0276:0-58 %%",
+        "DM: But that thing shoots a lot of icicles. It's good [garbled]. Even your doppelganger form is not good at dodging things.",
+        "",
+        "%% u0277:0-38, u0278:0-35, u0279:0-94, u0280:0-86, u0281:0-53, u0282:0-9, u0283:0-10 %%",
+        "Seeker: This confirms our suspicion that these doubles retain all of the abilities of the original, which is frightening because we've become quite powerful. It sounds like this other Seeker could cast all my spells, even to the point of animating the ladder, which—we can. Just, we just have to hope we don't encounter our party facing us.",
+        "",
+        "%% u0284:0-29 %%",
+        "Delwath: What became of this creature?",
+        "",
+        "%% u0285:0-28 %%",
+        "DM: When I came out it was gone.",
+        "",
+        "%% u0286:0-53, u0287:0-18, u0288:0-11 %%",
+        "Delwath: We should get everybody together and talk about this. There must be some fears, too.",
+        "",
+        "%% u0289:0-37, u0290:0-29, u0291:0-9, u0292:0-6, u0293:0-25 %%",
+        "DM: He, he seems like struggling slightly. “We should ask Kethra and Amil. Jotha and Aygul, they, they didn't make it.”",
+        "",
+        "%% u0294:0-17 %%",
+        "Seeker: They were killed.",
+        "",
+        "%% u0295:0-28, u0296:0-12 %%",
+        "DM: You—you killed them, Seeker. I'm—not you.",
+        "",
+        "%% u0297:0-37, u0298:0-7 %%",
+        "Seeker: It was not me. That is terrible news. Thanks.",
+        "",
+        "%% u0299:0-30, u0300:0-46, u0301:0-2 %%",
+        "Riswynn: But we need to prepare better. Shouldn't have left you with so few resources. A.",
+        "",
+        "%% u0302:0-55, u0303:0-10, u0304:0-37, u0305:0-26, u0306:0-20, u0307:0-49, u0308:0-49, u0309:0-24 %%",
+        "DM: We're not. We're not weak. We've been around the block. Kethra and Amil are getting stronger by the day. Jotha was strong, too, but you are very strong. Think you've surpassed almost anything I've seen. I don't know what we could have done differently. Get to the icicle sooner.",
+        "",
+        "%% u0310:0-53 %%",
+        "DM: This point everybody's sort of gathered together and—",
+        "",
+        "%% u0311:0-23, u0312:0-13, u0313:0-8, u0314:0-6, u0315:0-42, u0316:0-4, u0317:0-27, u0318:0-52, u0319:0-72, u0320:0-37, u0321:0-6, u0322:0-56, u0323:0-27, u0324:0-18, u0325:0-33, u0326:0-17, u0327:0-7, u0328:0-2, u0329:0-39, u0330:0-44, u0331:0-50, u0332:0-50, u0333:0-30, u0334:0-8, u0335:0-15, u0336:0-6, u0337:0-3, u0338:0-21, u0339:0-4, u0340:0-25, u0341:0-69, u0342:0-25, u0343:0-43, u0344:0-24, u0345:0-46, u0346:0-13, u0347:0-22, u0348:0-19, u0349:0-5, u0350:0-22, u0351:0-73, u0352:0-19, u0353:0-17 %%",
+        "((Repeated clarification and discussion of simulacrum limits))",
+        "",
+        "%% u0354:0-65, u0355:0-14, u0356:0-11, u0357:0-23, u0358:0-14, u0359:0-31, u0360:0-25, u0361:0-47, u0362:0-3, u0363:0-98, u0364:0-18, u0365:0-29, u0366:0-44 %%",
+        "DM: Amil’s also kind of looking nervous, and a bit of his like joyful cheer is gone. But he says, “I don't know if this is useful to you. It was just me left standing. I— Faldrak had run into the control room and and was firing the icicles and bad— Jotha and Aygul were down, tangled with the ladder and caught in this rubble, and then Seeker, you—it's just launched one of the stone benches just across the field, smashing into Kethra, and I—",
+        "",
+        "%% u0367:0-53, u0368:0-81, u0369:0-42, u0370:0-12, u0371:0-27, u0372:0-57, u0373:0-57, u0374:0-51, u0375:0-31, u0376:0-9, u0377:0-11, u0378:0-34 %%",
+        "DM: I froze for a moment. I didn't know what to do. But I—you weren't paying attention to me, and even though she was screaming for help, I focused on what Kenzo has taught me, and I punched you. And it was strange, because after the 1st couple of hits, you staggered back, and you you were leaning and panting, and it looked like you were at least about to fall unconscious. But on that 3rd punch, your body just vanished, just gone, like it was whisked away by some magical cord.”"
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "Delwath: Are these all magic?",
+          "DM: The cloak, the circlet, and the ring are magic.",
+          "Delwath: The armband is just—",
+          "DM: And and then amulet are just art objects.",
+          "Riswynn: First, we’ll take some ritual time to identify them at some point."
+        ],
+        "after": [
+          "Seeker: Does that indicate anything to me? Is it—I mean, it's the same as my simulacrum spell.",
+          "DM: So why don't you make—",
+          "Seeker: No, no, because the destruction of that type of simulacrum basically makes it melt.",
+          "DM: Would turn into a pile of snow.",
+          "Seeker: There's something somewhat different."
+        ]
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Amil preserved the double’s powdered stone",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e036",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e012",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0408",
+        "endUid": "u0423"
+      },
+      "lines": [
+        "%% u0408:0-31, u0409:0-49, u0410:0-12, u0411:0-92, u0412:0-47, u0413:0-6, u0414:0-14, u0415:0-12, u0416:0-11, u0417:0-55, u0418:0-42, u0419:0-16, u0420:0-55, u0421:0-37 %%",
+        "DM: The other thing that Amil says: “The other, the other strange thing, Seeker, maybe this is not— I don't know what to make of this. But maybe you do. Maybe you can say something about this. Didn't—or your clone, your double didn't bleed when I— there was just dust or sand on my fists and pooling around your feet from where the icicles hit was just little trails of what looked like ground up stone. It was very strange, but—” And he, he takes out this vial. “I saved it. I—if it’s helpful to you.”",
+        "",
+        "%% u0422:0-33 %%",
+        "Seeker: Oh, yes, thank you. Good morning.",
+        "",
+        "%% u0423:0-25 %%",
+        "DM: Maybe you can learn that."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "DM: Okay.",
+          "Riswynn: Underwater throne room.",
+          "DM: Yeah, let me move you back to the actual world map on Roll20. A 31, you said?",
+          "Seeker: Yeah.",
+          "DM: So."
+        ],
+        "after": [
+          "Seeker: In a way, the most important thing we've learned is that while these simulacra know of our party's abilities, they don't seem too wary about what everyone else on the ship can do, and that makes the crew’s capabilities that much more important.",
+          "Delwath: Do we know it's aware of our—I mean, and presumably they know our abilities because they can copy them, although—",
+          "Seeker: Yeah.",
+          "Delwath: We don't know how well they can copy them, and exactly how they can copy them, right? Like—",
+          "Seeker: Well. I mean, he described casting all of my attack spells basically."
+        ]
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Contingency magic and the powder’s appearance",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e036",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e021",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0447",
+        "endUid": "u0514"
+      },
+      "lines": [
+        "%% u0447:0-90 %%",
+        "DM: This is clearly somehow related to your simulacrum magic. But it's obviously not the same.",
+        "",
+        "%% u0448:0-10 %%",
+        "Seeker: Yeah. The.",
+        "",
+        "%% u0449:0-64, u0450:0-34, u0451:0-39, u0452:0-29, u0453:0-38, u0454:0-36, u0455:0-162, u0456:0-26 %%",
+        "DM: The teleportation actually, like the way that Amil described it. You're aware of this of this magic contingent, basically contingency magic that lets a magical effect be triggered by something else happening. Something like teleport triggered by being at, you know, being near death or something like that. It didn't—from, from Amil's description, it didn't seem like it was anything that the Seeker clone did; just happened to the body.",
+        "",
+        "%% u0457:0-24 %%",
+        "Seeker: So it was snatched back.",
+        "",
+        "%% u0458:0-14 %%",
+        "DM: Snatched back.",
+        "",
+        "%% u0459:0-8, u0460:0-42 %%",
+        "Seeker: Teleport being triggered. Okay, that's interesting.",
+        "",
+        "%% u0461:0-32, u0462:0-53, u0463:0-134, u0464:0-40 %%",
+        "DM: Now, if this works anything like that simulacrum—simulacrum that you’re familiar with— creatures do not heal and recover resources naturally, which doesn't mean that they can't do those things. Also the sort of contingency that you're aware of only triggers once.",
+        "",
+        "%% u0465:0-29, u0466:0-65, u0467:0-112, u0468:0-55, u0469:0-33 %%",
+        "DM: And the other thing, although nobody noticed anything in particular and and Seeker was dressed by their description in the same way that you typically dress, wearing the Tollen cloak, and with your beard and with your, you know your glove and everything. Although glove didn't seem to do anything.",
+        "",
+        "%% u0470:0-19, u0471:0-47 %%",
+        "Seeker: That's a key point. The items aren't carried across just abilities.",
+        "",
+        "%% u0472:0-174, u0473:0-131, u0474:0-5 %%",
+        "DM: The thing about this contingency spell: if this is what's going on, there's always some locus of the magic that has to be on the target's person for the spell to take effect. So there's something that something the spell has to be cast into that's like a material component that has to stay on the person's body.",
+        "",
+        "%% u0475:0-3, u0476:0-38, u0477:0-24 %%",
+        "Seeker: And is it possible to restore spell slots? Or is that not possible?",
+        "",
+        "%% u0478:0-96 %%",
+        "DM: I mean the normal simulacrum can’t restore spell slots. This is clearly not a normal simulacrum.",
+        "",
+        "%% u0479:0-15 %%",
+        "((Unrelated discussion and repeated mechanics))",
+        "",
+        "%% u0480:0-53, u0481:0-24, u0482:0-13, u0483:0-82 %%",
+        "Delwath: I think I think possibly the implication here is that the coffins, or whatever strange thing Apollyon is using to create us, could rest—I mean, simulacrum can restore health.",
+        "",
+        "%% u0484:0-80 %%",
+        "DM: Right. It just—it's not by normal rest, right? Things cannot restore resources.",
+        "",
+        "%% u0485:0-104, u0486:0-10, u0487:0-85, u0488:0-2, u0489:0-30, u0490:0-46, u0491:0-16, u0492:0-50 %%",
+        "Delwath: Yeah. Yeah. But if they have a contingency to teleport back to Apollyon whenever they get too badly hurt, right, then there, and that he fixes them up with his little screwdrivers and hammers and things. M. And sends them back out again. They're hard to defeat unless you take out the contingency item, right, to prevent them from going back to Apollyon.",
+        "",
+        "%% u0493:0-30 %%",
+        "Riswynn: We have to remove the leashes.",
+        "",
+        "%% u0494:0-5, u0495:0-38 %%",
+        "Seeker: I am—look closely at the dust and sniff it.",
+        "",
+        "%% u0496:0-25, u0497:0-30, u0498:0-75, u0499:0-54, u0500:0-26, u0501:0-61, u0502:0-19, u0503:0-50, u0504:0-41, u0505:0-16, u0506:0-9 %%",
+        "DM: What it looks like to you is actually ground up masonry. It's not—this isn't, like, this isn't dust. It's like finely powdered stone. But it looks—this is not soil, it's not, and it's not natural erosion. It's like cause it’s all like a very even—I mean, it could be natural wear, somehow, like you're not—I don't know. You're not clear exactly what, but it's like a very fine powder of ground up stone. It looks—",
+        "",
+        "%% u0507:0-8 %%",
+        "Seeker: Uniform.",
+        "",
+        "%% u0508:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u0509:0-4 %%",
+        "Seeker: See!",
+        "",
+        "%% u0510:0-18, u0511:0-105, u0512:0-52, u0513:0-17, u0514:0-5 %%",
+        "DM: Fine. It's like 2— it, it looks too even and and sort of almost unnatural, right? Like, if it was naturally worn, it would be different grain sizes and be like different things, things like that. Okay."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "Seeker: Thanks.",
+          "Delwath: Is anybody else—?",
+          "DM: Let me tell Seeker the other thing.",
+          "Delwath: Yeah.",
+          "DM: Tell, like, the other thing Seeker recognizes. So—"
+        ],
+        "after": [
+          "DM: Mike, did Delwath want to ask Yezali something?",
+          "Delwath: Yeah, is— is there is the fake second Delwath somehow drawing on that Meswati’s power?",
+          "Seeker: Or do you have an imposter?",
+          "Delwath: Or have you not thought of the answer to that? It's not urgent to answer.",
+          "DM: Yes or no question, but I don't want it to be misleading. Not exactly."
+        ]
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Delwath asks Yezali about his double",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0515",
+        "endUid": "u0527"
+      },
+      "lines": [
+        "%% u0515:0-30, u0516:0-17 %%",
+        "DM: Mike, did Delwath want to ask Yezali something?",
+        "",
+        "%% u0517:0-9, u0518:0-54, u0519:0-4, u0520:0-16 %%",
+        "Delwath: Yeah, is— is there is the fake second Delwath somehow drawing on that Meswati’s power?",
+        "",
+        "%% u0521:0-2, u0522:0-24 %%",
+        "Seeker: Or do you have an imposter?",
+        "",
+        "%% u0523:0-73 %%",
+        "Delwath: Or have you not thought of the answer to that? It's not urgent to answer.",
+        "",
+        "%% u0524:0-57, u0525:0-12 %%",
+        "DM: Yes or no question, but I don't want it to be misleading. Not exactly.",
+        "",
+        "%% u0526:0-27, u0527:0-31 %%",
+        "Seeker: It's not comforting, though a clear no would be comforting."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "DM: What it looks like to you is actually ground up masonry. It's not—this isn't, like, this isn't dust. It's like finely powdered stone. But it looks—this is not soil, it's not, and it's not natural erosion. It's like cause it’s all like a very even—I mean, it could be natural wear, somehow, like you're not—I don't know. You're not clear exactly what, but it's like a very fine powder of ground up stone. It looks—",
+          "Seeker: Uniform.",
+          "DM: Yeah.",
+          "Seeker: See!",
+          "DM: Fine. It's like 2— it, it looks too even and and sort of almost unnatural, right? Like, if it was naturally worn, it would be different grain sizes and be like different things, things like that. Okay."
+        ],
+        "after": [
+          "Riswynn: Yeah, I'm gonna ask the Bahrâzel with Commune: “Does the copy of myself wandering this land have the ability to call your blessings?”",
+          "DM: No.",
+          "Delwath: Neither of those mean they can't cast spells.",
+          "Riswynn: You’re Mega.",
+          "Seeker: How did they get to the ship? How did this other Seeker get to the ship? How did they find us? Where was the ship when this happened?"
+        ]
+      }
+    },
+    {
+      "id": "i008",
+      "title": "The Bahrâzel deny blessing Riswynn’s copy",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0528",
+        "endUid": "u0533"
+      },
+      "lines": [
+        "%% u0528:0-46, u0529:0-4, u0530:0-38, u0531:0-40 %%",
+        "Riswynn: Yeah, I'm gonna ask the Bahrâzel with Commune: “Does the copy of myself wandering this land have the ability to call your blessings?”",
+        "",
+        "%% u0532:0-3 %%",
+        "DM: No.",
+        "",
+        "%% u0533:0-45 %%",
+        "Delwath: Neither of those mean they can't cast spells."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "Delwath: Yeah, is— is there is the fake second Delwath somehow drawing on that Meswati’s power?",
+          "Seeker: Or do you have an imposter?",
+          "Delwath: Or have you not thought of the answer to that? It's not urgent to answer.",
+          "DM: Yes or no question, but I don't want it to be misleading. Not exactly.",
+          "Seeker: It's not comforting, though a clear no would be comforting."
+        ],
+        "after": [
+          "Riswynn: You’re Mega.",
+          "Seeker: How did they get to the ship? How did this other Seeker get to the ship? How did they find us? Where was the ship when this happened?",
+          "Riswynn: With the Plaguelands, he said.",
+          "Seeker: Over the Plaguelands.",
+          "DM: Faldrak is, is like, “It was 2 days ago. We were 300, some miles out. Just over the Plaguelands flying high. But it seemed like you teleported.”"
+        ]
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Kethra asks whether the dead can return",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0574",
+        "endUid": "u0595"
+      },
+      "lines": [
+        "%% u0574:0-94, u0575:0-26, u0576:0-17, u0577:0-10, u0578:0-27, u0579:0-14 %%",
+        "DM: While while you're sort of talking, Kethra has been sort of standing next to Riswynn, and then looks, looks up at you, and: “Is there anything you can do about Jotha and Aygul? I’ve heard stories.”",
+        "",
+        "%% u0580:0-50 %%",
+        "Delwath: Yeah, wait. Can you bring them back from the dead?",
+        "",
+        "%% u0581:0-4 %%",
+        "Riswynn: Yes.",
+        "",
+        "%% u0582:0-9, u0583:0-7, u0584:0-37, u0585:0-25 %%",
+        "DM: “I, I feel— Faldrak ran to me. I guess I was closest, but they shouldn’t have died.”",
+        "",
+        "%% u0586:0-37 %%",
+        "Riswynn: Thank you for mentioning that Kethra.",
+        "",
+        "%% u0587:0-44, u0588:0-27, u0589:0-34 %%",
+        "DM: “Is it so? There is something you, you can do? I mean, the story is of you would say you can do anything, but—”",
+        "",
+        "%% u0590:0-50, u0591:0-6 %%",
+        "Riswynn: Well, the Bahrâzel can do anything. I'm just their actor.",
+        "",
+        "%% u0592:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u0593:0-14, u0594:0-16 %%",
+        "DM: But they could bring them back.",
+        "",
+        "%% u0595:0-47 %%",
+        "Riswynn: Yeah, let's not contact the families quite yet."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "Delwath: {{Non slate on it.}}",
+          "Riswynn: Anything.",
+          "Delwath: Sane idea, right? Like, that's—",
+          "Seeker: Repaint, rearrange, redesign, new tree.",
+          "DM: Sorry, go ahead. Were you about to say something?"
+        ],
+        "after": [
+          "Seeker: Breath.",
+          "Riswynn: I assume that we have a couple really nice diamonds still in our inventory.",
+          "DM: I think you've got a few on your character sheet, right?",
+          "Riswynn: Really nice diamonds listed in my inventory. I mean, I've got some ball bearings at me—",
+          "DM: Yeah, you've got 2 diamonds."
+        ]
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Kethra’s resurrection talisman",
+      "entities": [
+        {
+          "id": "e042",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0626",
+        "endUid": "u0637"
+      },
+      "lines": [
+        "%% u0626:0-30, u0627:0-62, u0628:0-33 %%",
+        "DM: You can. So I it's been 8 days so they could have prepared one for you so you could have one. You can have one free Raise Dead.",
+        "",
+        "%% u0629:0-13 %%",
+        "Delwath: Seems useful.",
+        "",
+        "%% u0630:0-13, u0631:0-33, u0632:0-23 %%",
+        "DM: Talisman that Kethra would have prepared in the shrine of the Bahrâzel.",
+        "",
+        "%% u0633:0-6, u0634:0-31 %%",
+        "Riswynn: It's a removes the material component.",
+        "",
+        "%% u0635:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u0636:0-28, u0637:0-62 %%",
+        "Riswynn: Ritual thing token. Okay? So one fewer diamond to spend. But I still need the spell slots."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "DM: I think at 1 point you like in Tollen or somewhere, you stocked up on a bunch of gems for all of you that you need, the like Heroes’ Feast and greater restoration, and Raise Dead, and all of those things.",
+          "Delwath: Don't you have some ability from the Vindristjarna to do one thing without a material component?",
+          "Riswynn: Yeah. Well, I'm going to 1st have to take a long rest and then spend the next 2 days like taking care of these folks that we need to have rejoin our group. But I can only do one resurrection a day. And I've already done that level of magic today coming out of that battle.",
+          "DM: Oh, yeah.",
+          "Riswynn: Series of battles."
+        ],
+        "after": [
+          "Delwath: Yes.",
+          "DM: Of course, then you need to change your prepared spells and all of that. Yes.",
+          "Riswynn: I think they still have that prepared. I just—come— don’t have a 7th—well, 1st Level, I have Resurrection.",
+          "DM: Oh, no, you don't want to use the 7th level spell, because that's way more expensive. You want to use the 5th Level spell. 5th level, the—",
+          "Riswynn: Greater restoration."
+        ]
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Milo weighs another voyage and insists on recovering his crew",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e048",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e050",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e026",
+          "role": "cameo",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0951",
+        "endUid": "u1142"
+      },
+      "lines": [
+        "%% u0951:0-16, u0952:0-34 %%",
+        "DM: Okay, Milo. Milo would like to get back to Apporia.",
+        "",
+        "%% u0953:0-13 %%",
+        "Wellby: Is all right—",
+        "",
+        "%% u0954:0-6 %%",
+        "Delwath: About—",
+        "",
+        "%% u0955:0-53 %%",
+        "Wellby: I would very much like Milo to crew this ship for us.",
+        "",
+        "%% u0956:0-140 %%",
+        "Delwath: My—but we are happy to take Milo back to Apporia once we deal with this little trouble south of here that will take us about 20 to 21 days.",
+        "",
+        "%% u0957:0-43, u0958:0-44, u0959:0-11 %%",
+        "DM: Milo, Milo looks at you and sort of laughs. “The second time you’ve used that line on me, I must say.”",
+        "",
+        "%% u0960:0-5 %%",
+        "Delwath: True.",
+        "",
+        "%% u0961:0-10 %%",
+        "DM: Of course.",
+        "",
+        "%% u0962:0-9 %%",
+        "Delwath: Shit, so—",
+        "",
+        "%% u0963:0-27, u0964:0-19, u0965:0-44 %%",
+        "DM: Intensely grateful for your rescue efforts. But is this going to be worse than the last one?",
+        "",
+        "%% u0966:0-5 %%",
+        "Delwath: Much.",
+        "",
+        "%% u0967:0-31 %%",
+        "Wellby: Oh! To an enormous degree, like—",
+        "",
+        "%% u0968:0-19 %%",
+        "Delwath: 10, 20 times worse.",
+        "",
+        "%% u0969:0-55 %%",
+        "Wellby: And the consequences of failure are so much worse, too.",
+        "",
+        "%% u0970:0-64 %%",
+        "Delwath: But look, if—I mean, if we fail, you'll probably die anyway, so—",
+        "",
+        "%% u0971:0-29 %%",
+        "Wellby: Yeah, probably everyone will.",
+        "",
+        "%% u0972:0-45 %%",
+        "Delwath: I mean, unless you're pure blood Chardonian.",
+        "",
+        "%% u0973:0-3, u0974:0-22, u0975:0-42 %%",
+        "DM: No. He sighs a little bit. “But the desert isn’t really my place, but—”",
+        "",
+        "%% u0976:0-171 %%",
+        "Delwath: I'm not trying to convince you to come with us. I think it's probably a terrible idea. We just can't afford to take you back to Apporia until we're done with this errand.",
+        "",
+        "%% u0977:0-43, u0978:0-121, u0979:0-61 %%",
+        "Wellby: Leaving aside what my elven companion says. Who else has done this before? Who else? 1st of all, has captained a flying boat that's millennia old, built by giants to cross the desolation of Cha’mutte inside a Drankor, like who—?",
+        "",
+        "%% u0980:0-77 %%",
+        "Delwath: Wellby’s a big fan of terrible ideas, I think, is what we're getting at here.",
+        "",
+        "%% u0981:0-255, u0982:0-44 %%",
+        "Wellby: Hang on! Hang on, Milo! Think of all the times you wanted to go to Drankor! I mean, I am looking at you. I am seeing a man who wanted to go to Drankor and didn't have the opportunity. Didn't have the boat, didn't have the companions, didn't have the crew. When are you going to get this chance again?",
+        "",
+        "%% u0983:0-5, u0984:0-48 %%",
+        "DM: He, he—he sort of laughs. “You, you know, we tried once.”",
+        "",
+        "%% u0985:0-24 %%",
+        "Wellby: This is what I'm saying.",
+        "",
+        "%% u0986:0-18, u0987:0-25, u0988:0-35, u0989:0-58, u0990:0-20, u0991:0-15 %%",
+        "DM: Approaching by air, that has a lot of pluses. How does the ship handle in storms? Don't have a feel for it yet. He sort of touches the deck. There's a hum to it. You can create.",
+        "",
+        "%% u0992:0-21 %%",
+        "Riswynn: Made by storm giants.",
+        "",
+        "%% u0993:0-28, u0994:0-25, u0995:0-38 %%",
+        "DM: It was made by storm giants. Well, then, it's destiny. My ship was the Stormdancer, you know.",
+        "",
+        "%% u0996:0-2 %%",
+        "Seeker: S.",
+        "",
+        "%% u0997:0-55 %%",
+        "DM: But I cannot leave my crew swimming in the river below.",
+        "",
+        "%% u0998:0-119 %%",
+        "Riswynn: Are they even still swimming? I was pretty sure that I untransformed them all before the ice shield went down, because—",
+        "",
+        "%% u0999:0-61 %%",
+        "DM: Well, no, you don't have 13 spell slots to cast Dispel Magic.",
+        "",
+        "%% u1000:0-48 %%",
+        "Riswynn: All right. Well, Tilly and I were working on it.",
+        "",
+        "%% u1001:0-91, u1002:0-63 %%",
+        "DM: Yeah. Tilly cast—there’s like 3 or 4 that were dispelled. But you’re, you know, everybody’s limited to in the number of the number they can dispel per day.",
+        "",
+        "%% u1003:0-6 %%",
+        "Riswynn: Right.",
+        "",
+        "%% u1004:0-33, u1005:0-27, u1006:0-6, u1007:0-55, u1008:0-37, u1009:0-29, u1010:0-66, u1011:0-51, u1012:0-93, u1013:0-23, u1014:0-43, u1015:0-38, u1016:0-14, u1017:0-11, u1018:0-32, u1019:0-38, u1020:0-16, u1021:0-32, u1022:0-146, u1023:0-80, u1024:0-30, u1025:0-25, u1026:0-53, u1027:0-24, u1028:0-5, u1029:0-2, u1030:0-95, u1031:0-2, u1032:0-7, u1033:0-17, u1034:0-47, u1035:0-64, u1036:0-15, u1037:0-45, u1038:0-12, u1039:0-62, u1040:0-9, u1041:0-10, u1042:0-4, u1043:0-22, u1044:0-122, u1045:0-44, u1046:0-76, u1047:0-3, u1048:0-10, u1049:0-194, u1050:0-45, u1051:0-15, u1052:0-93, u1053:0-37, u1054:0-30, u1055:0-43, u1056:0-14, u1057:0-27, u1058:0-34, u1059:0-53, u1060:0-32, u1061:0-30, u1062:0-93, u1063:0-9, u1064:0-49, u1065:0-6, u1066:0-44, u1067:0-34, u1068:0-136, u1069:0-64, u1070:0-14, u1071:0-11, u1072:0-13, u1073:0-31, u1074:0-36, u1075:0-67, u1076:0-5, u1077:0-68, u1078:0-70, u1079:0-8, u1080:0-117, u1081:0-66, u1082:0-70, u1083:0-105, u1084:0-4, u1085:0-56, u1086:0-52, u1087:0-45, u1088:0-58, u1089:0-27, u1090:0-5, u1091:0-3, u1092:0-10, u1093:0-6, u1094:0-99, u1095:0-97, u1096:0-56, u1097:0-4, u1098:0-41, u1099:0-10, u1100:0-2, u1101:0-13, u1102:0-6, u1103:0-13, u1104:0-18, u1105:0-7, u1106:0-37, u1107:0-8, u1108:0-12, u1109:0-3, u1110:0-20, u1111:0-5, u1112:0-89, u1113:0-50, u1114:0-279, u1115:0-8, u1116:0-5, u1117:0-14, u1118:0-23, u1119:0-12, u1120:0-78, u1121:0-14, u1122:0-73, u1123:0-68, u1124:0-10, u1125:0-27 %%",
+        "((Water-helmet planning, spell-slot accounting and route discussion))",
+        "",
+        "%% u1126:0-77, u1127:0-4, u1128:0-57, u1129:0-64, u1130:0-2, u1131:0-46, u1132:0-126, u1133:0-72, u1134:0-17, u1135:0-6, u1136:0-1 %%",
+        "DM: So in the bustle of activity, it—I mean, it takes, it ends up taking more like 5 h. By the time you find the Wizard and get everybody settled tasks and end up having to spend a little bit of time talking to to Lubash the chief, and just in general kind of, you know, making your presence known and accepting their thanks again for everything you did. So it's not really until sort of early afternoon, just after just after a a sort of quick lunch, that you you begin heading south. A—",
+        "",
+        "%% u1137:0-18, u1138:0-24, u1139:0-15, u1140:0-15, u1141:0-9, u1142:0-70 %%",
+        "DM: Traveling now with 13 additional halflings, Milo and Tilly, as well as your followers and the dead, but soon to be no longer dead bodies of Jotha and Aygul."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "Delwath: Is there?",
+          "DM: Now—",
+          "Delwath: Yeah, okay. Let's get the ship flying south as step one. And then while—are Milo’s people on board? And what do they wanna do?",
+          "Seeker: Oh, yeah, but—",
+          "Delwath: Where would they like to be set free?"
+        ],
+        "after": [
+          "DM: In the meantime, during this, Riswynn identifies the 3 magic items on Buruli’s body. The cloak is a cloak of protection. It's similar. It’s—It’s mechanically equivalent to the dragon hide cloaks that you got in Uzgukhar. The tiara with the tentacles is a helm of telepathy. These are all should be on D&D Beyond. It lets you cast—they all require— I don't know if they're gonna be worth anybody attuned to. Lets you cast Detect Thoughts at will.",
+          "Seeker: From that area—distributing magic items to crew members. And then, yeah.",
+          "Wellby: Let's swap out the celestial gem of protection for a cloak of protection.",
+          "Delwath: Cloak of Protection is better cause it gives you AC too.",
+          "DM: That gives you saves, too, the—"
+        ]
+      }
+    },
+    {
+      "id": "i012",
+      "title": "The three recovered magic items are identified",
+      "entities": [
+        {
+          "id": "e037",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e038",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e039",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1143",
+        "endUid": "u1165"
+      },
+      "lines": [
+        "%% u1143:0-28, u1144:0-54, u1145:0-135, u1146:0-52, u1147:0-37, u1148:0-34, u1149:0-38, u1150:0-19, u1151:0-30, u1152:0-8 %%",
+        "DM: In the meantime, during this, Riswynn identifies the 3 magic items on Buruli’s body. The cloak is a cloak of protection. It's similar. It’s—It’s mechanically equivalent to the dragon hide cloaks that you got in Uzgukhar. The tiara with the tentacles is a helm of telepathy. ((Standard item mechanics))",
+        "",
+        "%% u1153:0-15, u1154:0-41, u1155:0-15, u1156:0-73, u1157:0-56, u1158:0-31, u1159:0-31, u1160:0-1, u1161:0-58 %%",
+        "((Other equipment comparison))",
+        "",
+        "%% u1162:0-44, u1163:0-25, u1164:0-89, u1165:0-45 %%",
+        "DM: Then the the last item is a ring of shadows. ((Standard ring mechanics))"
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "Delwath: And then get kind of organized, and try and leave here in like 2 or 3 h, right? Heading south. Tilly with his, with Milo with his crew, and once we're on the move, will talk more with everybody. That's when Faldrak, can we can, you know—",
+          "Seeker: But still.",
+          "Delwath: Present, bestow honors and—",
+          "DM: So in the bustle of activity, it—I mean, it takes, it ends up taking more like 5 h. By the time you find the Wizard and get everybody settled tasks and end up having to spend a little bit of time talking to to Lubash the chief, and just in general kind of, you know, making your presence known and accepting their thanks again for everything you did. So it's not really until sort of early afternoon, just after just after a a sort of quick lunch, that you you begin heading south. A—",
+          "DM: Traveling now with 13 additional halflings, Milo and Tilly, as well as your followers and the dead, but soon to be no longer dead bodies of Jotha and Aygul."
+        ],
+        "after": [
+          "Seeker: What's that?",
+          "DM: It makes one target think everybody around them is their enemy.",
+          "Seeker: Whoa!",
+          "Delwath: I had that spell for a while. I literally never had an opportunity where it made sense to cast. I swapped it out, yeah. It's tricky, because you need to be in a situation where you have a moderately powerful bad guy,",
+          "Seeker: Surrounded by other bad guys."
+        ]
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Rewards for the defenders and trust in Faldrak as pilot",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e037",
+          "role": "cameo",
+          "action": "interacted"
+        },
+        {
+          "id": "e038",
+          "role": "cameo",
+          "action": "interacted"
+        },
+        {
+          "id": "e039",
+          "role": "cameo",
+          "action": "interacted"
+        },
+        {
+          "id": "e040",
+          "role": "cameo",
+          "action": "interacted"
+        },
+        {
+          "id": "e041",
+          "role": "cameo",
+          "action": "interacted"
+        },
+        {
+          "id": "e048",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1189",
+        "endUid": "u1286"
+      },
+      "lines": [
+        "%% u1189:0-27, u1190:0-14, u1191:0-27, u1192:0-56 %%",
+        "Seeker: Right? Right? Right? Right. Could we award Faldrak for his leadership? Any one of these things, or something else that we have?",
+        "",
+        "%% u1193:0-133 %%",
+        "DM: I mean, certainly Amil or Faldrak or Kethra would be happy with the celestial gem of protection, if that is just gonna trickle down.",
+        "",
+        "%% u1194:0-5 %%",
+        "Seeker: Cool.",
+        "",
+        "%% u1195:0-5 %%",
+        "Wellby: Yeah.",
+        "",
+        "%% u1196:0-53 %%",
+        "Seeker: I guess we should give something to each of them for—",
+        "",
+        "%% u1197:0-36, u1198:0-109, u1199:0-10, u1200:0-41, u1201:0-67, u1202:0-21, u1203:0-13, u1204:0-20, u1205:0-7, u1206:0-48, u1207:0-3 %%",
+        "((Item comparison, redundant proposals and inventory bookkeeping))",
+        "",
+        "%% u1208:0-24, u1209:0-32, u1210:0-85, u1211:0-76, u1212:0-74, u1213:0-34 %%",
+        "Delwath: I would give Faldrak the last—well, I'd give Faldrak the—I was gonna say the celestial gem, but actually, somebody who's more likely to be in— Maybe we should give Faldrak the ring of shadows. Short-action—short-action— short action teleport is quite useful for him, although obviously he has— but he could use it to get, I mean—",
+        "",
+        "%% u1214:0-2, u1215:0-27 %%",
+        "Seeker: A, because he's like disabled.",
+        "",
+        "%% u1216:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u1217:0-30 %%",
+        "Seeker: That's kind of cool, actually.",
+        "",
+        "%% u1218:0-76, u1219:0-31 %%",
+        "Delwath: And we could give Kethra the celestial gem protection, it seems appropriate, given it started with Riswynn.",
+        "",
+        "%% u1220:0-4 %%",
+        "Riswynn: Yep.",
+        "",
+        "%% u1221:0-59, u1222:0-6 %%",
+        "Delwath: Maybe we could trust Amil with the helm of Detect Thoughts. Don't—",
+        "",
+        "%% u1223:0-55 %%",
+        "Seeker: That I think that all kind of makes sense. I like that.",
+        "",
+        "%% u1224:0-5, u1225:0-11 %%",
+        "Riswynn: Yeah. So I don't—",
+        "",
+        "%% u1226:0-30 %%",
+        "Seeker: Little ceremony to thank them.",
+        "",
+        "%% u1227:0-43, u1228:0-8 %%",
+        "((Item comparison, redundant proposals and inventory bookkeeping))",
+        "",
+        "%% u1229:0-80 %%",
+        "Delwath: The 2 who died should probably get stuff, too, if we have anything to give them.",
+        "",
+        "%% u1230:0-26 %%",
+        "Seeker: Their life back. But yeah.",
+        "",
+        "%% u1231:0-7, u1232:0-81 %%",
+        "DM: I mean. Yeah, I mean, Jotha would also use the gem of protection like she's a frontliner.",
+        "",
+        "%% u1233:0-71, u1234:0-43 %%",
+        "Delwath: I mean, I could give Jotha my ring of displa—, my ring of displacement, which has slid down off my attunement list.",
+        "",
+        "%% u1235:0-27, u1236:0-23 %%",
+        "DM: Yeah, she totally use that. Yeah. Okay, that's all.",
+        "",
+        "%% u1237:0-12 %%",
+        "Delwath: And the art—",
+        "",
+        "%% u1238:0-91, u1239:0-40 %%",
+        "DM: Protection. Amil, Helm of Telepathy. Faldrak, Ring of Shadows. Jotha, Ring of Displacement. Kenzo—sorry, Wellby, cloak of protection.",
+        "",
+        "%% u1240:0-75, u1241:0-3, u1242:0-10, u1243:0-21, u1244:0-67, u1245:0-11, u1246:0-27, u1247:0-60, u1248:0-5, u1249:0-7, u1250:0-27, u1251:0-15, u1252:0-44, u1253:0-30, u1254:0-58, u1255:0-21, u1256:0-40, u1257:0-5 %%",
+        "((Item comparison, redundant proposals and inventory bookkeeping))",
+        "",
+        "%% u1258:0-62, u1259:0-40, u1260:0-17, u1261:0-25, u1262:0-85, u1263:0-15, u1264:0-12, u1265:0-60, u1266:0-54, u1267:0-23, u1268:0-158 %%",
+        "DM: Any case, by around one ish, you're setting off now with these— I need some good setting off music here. Setting off into— You're, you're setting off—spend a couple of hours giving, as you travel across the desert in the hot sun, giving everybody these these items. Doing this little ceremony. You know Faldrak is very pleased very, very excited, that he's finally being, you know, trusted, and, you know, given some real charge over piloting, which, honestly, if you want to let him just keep the phasing stone attunement, Seeker can get an attunement slot back.",
+        "",
+        "%% u1269:0-34 %%",
+        "Seeker: Wait. Do we wanna do that, though?",
+        "",
+        "%% u1270:0-20 %%",
+        "DM: It's up to you, but—",
+        "",
+        "%% u1271:0-36 %%",
+        "Delwath: He, he seems to have proven himself.",
+        "",
+        "%% u1272:0-20 %%",
+        "Seeker: He did save the day.",
+        "",
+        "%% u1273:0-143, u1274:0-6, u1275:0-43, u1276:0-4, u1277:0-13 %%",
+        "((Item comparison, redundant proposals and inventory bookkeeping))",
+        "",
+        "%% u1278:0-40 %%",
+        "Seeker: Alright! Let's let him have it, for now.",
+        "",
+        "%% u1279:0-63 %%",
+        "Delwath: I mean, don't we need 2 pilots to keep it going 20 hours a day?",
+        "",
+        "%% u1280:0-170, u1281:0-100, u1282:0-37, u1283:0-49 %%",
+        "DM: No, now that, now that, because now that Faldrak’s piloted it long enough, you don't need to maintain concentration to keep it. You can't steer, but he can set it on course. Somebody has to go wake up the pilot if he needs to move the ship, now that he’s piloted it for like 100 h or something. You don't have to maintain concentration to keep it moving forward.",
+        "",
+        "%% u1284:0-5, u1285:0-81 %%",
+        "Seeker: Cool. Alright. So we'll just we just keep things as is basically is what you're saying.",
+        "",
+        "%% u1286:0-5 %%",
+        "DM: Yeah."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "DM: He tried to use it on Kenzo when he was escaping from the—",
+          "Delwath: Right, but—it's not, it's not massively— I don't know that it's—",
+          "DM: The bonus action teleport is much more useful, but it's—",
+          "Delwath: Yeah.",
+          "DM: Unlimited, but it's limited by being in dim light or darkness, so I don't know if that's worth the attunement."
+        ],
+        "after": [
+          "Delwath: -Oh! There's 2 secrets on the Garamjala desert page.",
+          "DM: Yeah.",
+          "Delwath: So all the all the like Taelgar notes, when Tim has secrets that that I shouldn't know, they, they come through as little secrets. They get stripped in his whole git push thing, and they come through in my version. It's just secret one, secret 2. So I can walk and see if he has secrets. I was trying to look at the Garamjala Desert. I mean, I didn't need—I wasn't going to look for secrets. I was trying to just—",
+          "DM: I will say sometimes I just put a secret that's, “There should be something weird here to make up. Leave that.”",
+          "Delwath: Yeah, yeah."
+        ]
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Sura warns of invasion and the pirate Wellby",
+      "entities": [
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e025",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e024",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e032",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1296",
+        "endUid": "u1659"
+      },
+      "lines": [
+        "%% u1296:0-77, u1297:0-39, u1298:0-40, u1299:0-36, u1300:0-10, u1301:0-59 %%",
+        "DM: But I'm not saying that's what's happening with the Garamjala, anyway, around 1:30, 2, as as the ceremony is going on, Wellby, you hear, coming from your pouch: “Wellby and friends, can you hear me? It's Sura. I’ve been trying to reach you for a while now. There’s news.”",
+        "",
+        "%% u1302:0-9 %%",
+        "Seeker: [garbled]",
+        "",
+        "%% u1303:0-31 %%",
+        "Wellby: Yeah, this is the sending time?",
+        "",
+        "%% u1304:0-23 %%",
+        "DM: The sending stone. Yep.",
+        "",
+        "%% u1305:0-5, u1306:0-15 %%",
+        "Wellby: Right, Sura, go ahead!",
+        "",
+        "%% u1307:0-117, u1308:0-68, u1309:0-44, u1310:0-11, u1311:0-9, u1312:0-6 %%",
+        "DM: She starts talking quickly, because, you know, you've only got 5 min on these stones before they run out for the day. Where have you been? Don’t, don’t tell me yet. Let me, let me finish. I tried to reach you 3 or 4 times yesterday. It did not— There was quiet.",
+        "",
+        "%% u1313:0-27, u1314:0-133, u1315:0-42, u1316:0-121, u1317:0-114, u1318:0-118 %%",
+        "DM: Chardon is mobilizing fast. Our scouts report that 3 legions are already marching from Chardon. It's gonna be another month or so before they reach our positions along the Songara frontier, I would think. And although those Mages on the border that have harassed us a little bit, they've made no attempt at a sustained attack. We hope to fall back and draw them into a chase across the plains when they catch up to us where they'll struggle. They certainly won't be able to keep up with us, even with their vaunted legions. She sort of scoffs a little bit, but—",
+        "",
+        "%% u1319:0-18, u1320:0-13, u1321:0-25, u1322:0-81, u1323:0-115 %%",
+        "DM: I need your advice. At what cost? We let them sack Songara? It might buy an extra week or 10 days. I do not think we can let Tokra be sacked. And if the legions reach the outskirts of Tokra, we must attack. But before you answer that, there’s far worse news.",
+        "",
+        "%% u1324:0-81 %%",
+        "DM: I've just received word from Darba that Wellby is leading a rebellion in Illoria.",
+        "",
+        "%% u1325:0-3 %%",
+        "Seeker: Oh!",
+        "",
+        "%% u1326:0-27, u1327:0-183, u1328:0-86, u1329:0-101, u1330:0-12, u1331:0-62, u1332:0-100, u1333:0-15, u1334:0-97, u1335:0-20 %%",
+        "DM: Burst out of nowhere, maybe a week ago, but I just received the news yesterday. His forces have apparently sunk a bunch of ships in the canal, are now attacking anything that moves on the water indiscriminately. Karnas is livid. I tried to explain it’s not you. Thanks for the warning, by the way. I think I might have guessed something was wrong when I heard you were attacking even halfling ships. But without— I might not have made the connection without being forewarned. I fear all our hard work to reach a resolution will be in vain if this Wellby attacks Darba itself. Karnas has sent Abha, who was the mystai of Sonkar who you met in the Copper Hills, who was like your go-between— Dread Pirate Wellby.",
+        "",
+        "%% u1336:0-8 %%",
+        "Seeker: Totally.",
+        "",
+        "%% u1337:0-55, u1338:0-12, u1339:0-96 %%",
+        "DM: To investigate along with a cohort of Aagir Mystai. But I'm not sure— I don’t know what to do about this, to be honest. And then she stops, waiting for you to respond.",
+        "",
+        "%% u1340:0-9, u1341:0-2, u1342:0-44, u1343:0-8, u1344:0-4, u1345:0-8, u1346:0-31, u1347:0-14, u1348:0-5, u1349:0-30, u1350:0-22, u1351:0-4, u1352:0-2, u1353:0-6, u1354:0-39, u1355:0-8, u1356:0-24, u1357:0-3, u1358:0-10, u1359:0-42, u1360:0-24, u1361:0-45, u1362:0-38, u1363:0-5, u1364:0-9, u1365:0-40, u1366:0-14, u1367:0-32, u1368:0-28, u1369:0-13, u1370:0-9, u1371:0-80, u1372:0-86, u1373:0-7, u1374:0-11, u1375:0-54, u1376:0-23, u1377:0-33, u1378:0-24, u1379:0-22, u1380:0-16, u1381:0-162, u1382:0-15, u1383:0-6, u1384:0-43, u1385:0-12, u1386:0-12, u1387:0-32, u1388:0-65, u1389:0-71, u1390:0-15, u1391:0-15, u1392:0-14, u1393:0-5, u1394:0-10 %%",
+        "((Party debate about how to respond, other artifacts and duplicate countermeasures))",
+        "",
+        "%% u1395:0-32, u1396:0-50, u1397:0-11, u1398:0-6, u1399:0-8, u1400:0-67, u1401:0-38, u1402:0-18 %%",
+        "Delwath: I mean to answer Sura’s question about Songara, does, does she think that troops are hellbent on blood? Are they a disciplined military force that's gonna bypass an undefended city rather than just viciously destroy it? It's hard to know.",
+        "",
+        "%% u1403:0-37, u1404:0-26, u1405:0-21 %%",
+        "Wellby: We'd sort of been assuming expansion. You know that it becomes a colony or possession.",
+        "",
+        "%% u1406:0-110 %%",
+        "Riswynn: And to repeat Riswynn’s question, has there been any sort of evacuation of noncombatants, or is it just fully—",
+        "",
+        "%% u1407:0-10 %%",
+        "DM: There are.",
+        "",
+        "%% u1408:0-9 %%",
+        "Riswynn: Populous?",
+        "",
+        "%% u1409:0-59, u1410:0-15, u1411:0-129, u1412:0-21, u1413:0-28 %%",
+        "DM: As far as you—I mean, certain you could ask her. She says, “No, we haven’t. We haven't evacuated yet, but of course we could, and we don't have to make a decision immediately. I'm much more concerned about the Wellby situation than Songara at the moment.”",
+        "",
+        "%% u1414:0-30, u1415:0-5, u1416:0-91, u1417:0-45, u1418:0-99, u1419:0-74, u1420:0-24, u1421:0-9, u1422:0-25, u1423:0-44, u1424:0-4, u1425:0-48, u1426:0-24, u1427:0-11, u1428:0-16, u1429:0-18, u1430:0-71, u1431:0-37, u1432:0-7, u1433:0-36, u1434:0-6, u1435:0-16, u1436:0-146, u1437:0-12, u1438:0-19, u1439:0-53, u1440:0-28, u1441:0-14, u1442:0-3, u1443:0-12, u1444:0-7, u1445:0-38, u1446:0-33, u1447:0-8, u1448:0-10, u1449:0-6, u1450:0-4, u1451:0-24, u1452:0-7, u1453:0-23, u1454:0-115, u1455:0-16, u1456:0-43, u1457:0-66, u1458:0-33, u1459:0-5, u1460:0-78, u1461:0-11, u1462:0-4, u1463:0-70, u1464:0-19, u1465:0-35, u1466:0-4, u1467:0-19, u1468:0-6, u1469:0-27, u1470:0-35, u1471:0-19, u1472:0-62, u1473:0-123, u1474:0-37, u1475:0-7, u1476:0-44, u1477:0-3, u1478:0-5, u1479:0-17, u1480:0-16, u1481:0-34, u1482:0-9, u1483:0-12, u1484:0-7, u1485:0-23, u1486:0-34, u1487:0-86, u1488:0-10, u1489:0-75, u1490:0-80, u1491:0-23, u1492:0-94, u1493:0-10, u1494:0-63, u1495:0-5, u1496:0-22, u1497:0-187, u1498:0-49, u1499:0-57, u1500:0-2, u1501:0-8, u1502:0-9, u1503:0-6, u1504:0-12, u1505:0-99, u1506:0-19, u1507:0-57, u1508:0-45, u1509:0-45, u1510:0-12, u1511:0-9, u1512:0-10, u1513:0-13, u1514:0-19 %%",
+        "((Party debate about how to respond, other artifacts and duplicate countermeasures))",
+        "",
+        "%% u1515:0-45 %%",
+        "Delwath: I just don't see what we can do about Wellby.",
+        "",
+        "%% u1516:0-33, u1517:0-73 %%",
+        "Wellby: No, I think we let it go for now. Also we're we're on a faster timeline, right? We're 3 days away from the—",
+        "",
+        "%% u1518:0-4, u1519:0-9, u1520:0-112, u1521:0-6, u1522:0-45, u1523:0-3, u1524:0-19, u1525:0-29, u1526:0-73, u1527:0-3, u1528:0-8, u1529:0-32, u1530:0-21, u1531:0-10, u1532:0-31, u1533:0-4, u1534:0-3, u1535:0-37, u1536:0-11, u1537:0-21, u1538:0-25, u1539:0-41, u1540:0-7, u1541:0-57, u1542:0-9, u1543:0-48, u1544:0-6, u1545:0-6, u1546:0-61, u1547:0-16, u1548:0-54, u1549:0-29, u1550:0-86, u1551:0-57, u1552:0-34, u1553:0-8, u1554:0-9, u1555:0-5, u1556:0-9, u1557:0-5, u1558:0-24, u1559:0-29, u1560:0-2, u1561:0-19, u1562:0-70, u1563:0-34, u1564:0-11, u1565:0-29, u1566:0-110, u1567:0-23, u1568:0-140, u1569:0-85, u1570:0-59, u1571:0-99, u1572:0-6, u1573:0-21, u1574:0-8, u1575:0-5, u1576:0-53, u1577:0-7, u1578:0-34, u1579:0-32, u1580:0-4, u1581:0-55, u1582:0-41, u1583:0-14, u1584:0-103, u1585:0-48, u1586:0-15, u1587:0-8, u1588:0-42, u1589:0-21, u1590:0-21, u1591:0-21, u1592:0-14, u1593:0-97, u1594:0-29, u1595:0-12, u1596:0-74, u1597:0-14, u1598:0-6, u1599:0-17, u1600:0-29, u1601:0-13, u1602:0-39, u1603:0-38, u1604:0-76, u1605:0-4, u1606:0-35, u1607:0-67, u1608:0-105, u1609:0-18, u1610:0-25, u1611:0-12, u1612:0-36, u1613:0-6, u1614:0-23, u1615:0-54, u1616:0-4, u1617:0-7, u1618:0-47, u1619:0-11, u1620:0-2 %%",
+        "((Party debate about how to respond, other artifacts and duplicate countermeasures))",
+        "",
+        "%% u1621:0-40, u1622:0-13, u1623:0-8, u1624:0-5, u1625:0-91, u1626:0-3, u1627:0-35, u1628:0-4, u1629:0-3, u1630:0-50 %%",
+        "Delwath: I think that's what we tell Sura is that it's 18 days. Hold out a lot— we can't. We can't divert. We can't do anything except continue on our path towards Drankor, but I will—Delwath will try and talk to Abha to— We have some more information on these duplicates.",
+        "",
+        "%% u1631:0-26 %%",
+        "Riswynn: Provide some tips and try—",
+        "",
+        "%% u1632:0-24, u1633:0-55, u1634:0-27 %%",
+        "Delwath: And try and give up some tips and tricks and and, right, and if nothing else also she has Karnas's ear, right?",
+        "",
+        "%% u1635:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u1636:0-16 %%",
+        "Riswynn: Abha those yeah.",
+        "",
+        "%% u1637:0-6, u1638:0-168 %%",
+        "Delwath: I mean calling her up and being like, “Here is all of a detailed list of our weaknesses,” is definitely not the move you make if you’re, if it’s actually a—do not, you know, it’s a—",
+        "",
+        "%% u1639:0-11 %%",
+        "DM: Yeah, okay.",
+        "",
+        "%% u1640:0-11, u1641:0-24, u1642:0-6 %%",
+        "Delwath: The helpful trust building exercise, right?",
+        "",
+        "%% u1643:0-9 %%",
+        "DM: So, yeah.",
+        "",
+        "%% u1644:0-27, u1645:0-9 %%",
+        "Delwath: But otherwise that's that's— hold out.",
+        "",
+        "%% u1646:0-67, u1647:0-11, u1648:0-13, u1649:0-6 %%",
+        "DM: So you communicate this, and then over the course of the afternoon, just travel best you can, right?",
+        "",
+        "%% u1650:0-11 %%",
+        "Riswynn: Yeah, yeah.",
+        "",
+        "%% u1651:0-13, u1652:0-30, u1653:0-7 %%",
+        "DM: Until you can sleep and rest and regain your spells.",
+        "",
+        "%% u1654:0-38 %%",
+        "Seeker: Highest comfortable altitude. I think.",
+        "",
+        "%% u1655:0-4 %%",
+        "Delwath: Yep.",
+        "",
+        "%% u1656:0-51, u1657:0-48, u1658:0-7, u1659:0-83 %%",
+        "DM: Yeah. So you're going up a little bit as the as the plateau rises below you and go through the night. Dreams— So you communicate all this to Sura, basically that you've just been talking about."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "DM: Yeah.",
+          "Delwath: So all the all the like Taelgar notes, when Tim has secrets that that I shouldn't know, they, they come through as little secrets. They get stripped in his whole git push thing, and they come through in my version. It's just secret one, secret 2. So I can walk and see if he has secrets. I was trying to look at the Garamjala Desert. I mean, I didn't need—I wasn't going to look for secrets. I was trying to just—",
+          "DM: I will say sometimes I just put a secret that's, “There should be something weird here to make up. Leave that.”",
+          "Delwath: Yeah, yeah.",
+          "DM: For Mike."
+        ],
+        "after": [
+          "Delwath: I'll have a longer conversation, I mean if anything, if there's any other news she wants to share things like that. And then that's sort of the— with Abha. Same idea, right? Like the basic idea of, “Here’s a list of all these weaknesses.” I also—does she have further news she’s willing to share? But what’s—",
+          "DM: So Abha is—Abha is a day out of Darba right now. She—",
+          "Delwath: On the water?",
+          "DM: No, approaching Darba.",
+          "Delwath: Oh, okay, a day out towards, yeah, I get it. Okay."
+        ]
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Abha’s dream report and the politics of the pirate attacks",
+      "entities": [
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e035",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e034",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e032",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e025",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e027",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e033",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1660",
+        "endUid": "u1757"
+      },
+      "lines": [
+        "%% u1660:0-40, u1661:0-75, u1662:0-8, u1663:0-18, u1664:0-33, u1665:0-128 %%",
+        "Delwath: I'll have a longer conversation, I mean if anything, if there's any other news she wants to share things like that. And then that's sort of the— with Abha. Same idea, right? Like the basic idea of, “Here’s a list of all these weaknesses.” I also—does she have further news she’s willing to share? But what’s—",
+        "",
+        "%% u1666:0-49, u1667:0-4 %%",
+        "DM: So Abha is—Abha is a day out of Darba right now. She—",
+        "",
+        "%% u1668:0-13 %%",
+        "Delwath: On the water?",
+        "",
+        "%% u1669:0-21 %%",
+        "DM: No, approaching Darba.",
+        "",
+        "%% u1670:0-50 %%",
+        "Delwath: Oh, okay, a day out towards, yeah, I get it. Okay.",
+        "",
+        "%% u1671:0-16 %%",
+        "Riswynn: Has no new news.",
+        "",
+        "%% u1672:0-62 %%",
+        "DM: She does have. She has more news than Sura. She's much closer.",
+        "",
+        "%% u1673:0-16, u1674:0-128, u1675:0-100, u1676:0-123 %%",
+        "DM: Her news is that—so, so well, the, the pirate fleet, and she explicitly describes it as Wellby’s pirate fleet. She thinks there’s at least 3 ships. They, as far as she can tell, their goal seems to be cause as much death and destruction as possible on the—I mean, the Illoria—this, the Emerald Bay, the Nevos Sea, is full of trading ships. Right, like this is a major trade—",
+        "",
+        "%% u1677:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u1678:0-13, u1679:0-27, u1680:0-103, u1681:0-78, u1682:0-82, u1683:0-97, u1684:0-74, u1685:0-30 %%",
+        "DM: Into Chardon. Yes, they've attacked some you know, military, some naval ships, but they've tended to avoid—her, her information anyway is that they've been sinking ships. They've been burning ships, they take no captives. They they take some captives, but only captives who are willing to join the fleet. So the fleet has grown, and anybody who stands against them is just indiscriminately slaughtered. So she’s, she’s her goal is, I mean, she knows this isn’t Wellby, right, like this is very uncharacteristic.",
+        "",
+        "%% u1686:0-50, u1687:0-33, u1688:0-105, u1689:0-129, u1690:0-42, u1691:0-7, u1692:0-36, u1693:0-47, u1694:0-13, u1695:0-59, u1696:0-90 %%",
+        "DM: Darba—Dunmar has absolutely no navy to speak of. Her main goal is to fortify Darba. Like, she's not going after the pirate fleet by herself, she would be slaughtered. What she wants to do is fortify Darba, and make sure that—I mean, there's an old Chardonian fort there, right? Like, you know, it's not defenseless, right? Make sure that it can't be easily attacked by sea. And and this is, and she's convinced Karnas to send. She's traveling with a bunch of Aagir Mystai, who are like the Dunmari paladins, and they are planning on fortifying Darba. But there's nothing they can do about a pirate fleet in the Emerald Bay.",
+        "",
+        "%% u1697:0-99, u1698:0-13, u1699:0-72, u1700:0-47, u1701:0-12, u1702:0-63 %%",
+        "DM: Chardon is apparently working as far as anybody can assume, working quickly to clear the canal, but—Wellby is not— The opening stroke was basically to scuttle a huge fleet of ships in the most challenging part of the canal to navigate. And this has essentially shut off Chardonian naval support to the Nevos Bay.",
+        "",
+        "%% u1703:0-2, u1704:0-15, u1705:0-27, u1706:0-31 %%",
+        "Delwath: So I don't know if Abha can help us with this. Or who could help us with this.",
+        "",
+        "%% u1707:0-77, u1708:0-12, u1709:0-23, u1710:0-3, u1711:0-23, u1712:0-23, u1713:0-33, u1714:0-41 %%",
+        "Delwath: But it's puzzling to all—just be open about it—it's very puzzling to us why our enemies, who have a very limited set of doppelgangers of us, would be sending Wellby to bring terror to the Nevos Sea. Is there something there that's valuable?",
+        "",
+        "%% u1715:0-82, u1716:0-116 %%",
+        "DM: I mean, Illoria, Abha says, “Illoria attracts all sorts of rumors of lost treasure, but Wellby doesn’t—the well, the pirate fleet doesn’t seem to be particularly interested in searching for treasure.”",
+        "",
+        "%% u1717:0-56, u1718:0-45, u1719:0-17, u1720:0-32, u1721:0-34 %%",
+        "((Brief speculation about the enemies’ tactics))",
+        "",
+        "%% u1722:0-36, u1723:0-84 %%",
+        "Delwath: Unless there's a power—I mean, it's—it would be possible that the Chardonian Navy is not under Fausto’s group's control.",
+        "",
+        "%% u1724:0-45 %%",
+        "Riswynn: Yeah, maybe it's a Chardonian politics thing.",
+        "",
+        "%% u1725:0-68 %%",
+        "Seeker: Oh, yeah, wasn't there something funny about how Chardon was set up?",
+        "",
+        "%% u1726:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u1727:0-35 %%",
+        "Seeker: Maybe under under separate control.",
+        "",
+        "%% u1728:0-31, u1729:0-120 %%",
+        "DM: You seem to remember some vague stories about how the young new magister of Chardon, his power base, was really among the navy, and the windcallers and—",
+        "",
+        "%% u1730:0-10 %%",
+        "Delwath: Then sure.",
+        "",
+        "%% u1731:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u1732:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u1733:0-77 %%",
+        "DM: The Chardonian, like old school wizards, were kind of pissed at him for that.",
+        "",
+        "%% u1734:0-100, u1735:0-17 %%",
+        "Delwath: Okay, that would explain quite a bit, right? It's a play against the magist—against the the magister who's power—but—",
+        "",
+        "%% u1736:0-12 %%",
+        "Seeker: Yes, he did.",
+        "",
+        "%% u1737:0-77, u1738:0-66, u1739:0-5, u1740:0-12 %%",
+        "Delwath: Navy. And this is embarrassing the navy and making them seem incompetent. And then they're gonna be set up for other kinds of problems. Because— okay. I wonder if—",
+        "",
+        "%% u1741:0-13, u1742:0-9, u1743:0-57, u1744:0-10, u1745:0-49, u1746:0-11, u1747:0-8, u1748:0-19, u1749:0-23, u1750:0-96, u1751:0-3, u1752:0-7 %%",
+        "((Brief speculation about the enemies’ tactics))",
+        "",
+        "%% u1753:0-62 %%",
+        "DM: So I assume this conversation is all happening in the morning.",
+        "",
+        "%% u1754:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u1755:0-24 %%",
+        "DM: Delwath has reported on—",
+        "",
+        "%% u1756:0-4 %%",
+        "Delwath: Yes.",
+        "",
+        "%% u1757:0-100 %%",
+        "DM: Abha's dream. So everybody gets their spell slots back. You can raise the dead if you wish to do so."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "Riswynn: Yeah, yeah.",
+          "DM: Until you can sleep and rest and regain your spells.",
+          "Seeker: Highest comfortable altitude. I think.",
+          "Delwath: Yep.",
+          "DM: Yeah. So you're going up a little bit as the as the plateau rises below you and go through the night. Dreams— So you communicate all this to Sura, basically that you've just been talking about."
+        ],
+        "after": [
+          "Riswynn: Just one, just one today.",
+          "DM: Just one today. Who are you gonna raise?",
+          "Delwath: Wait, why can't you, like, can't you—",
+          "Riswynn: No, I can do 2. Sorry, I thought it was—I thought it was 7th level. Sorry.",
+          "DM: And so—"
+        ]
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Aygul returns and describes her passage through death",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e042",
+          "role": "cameo",
+          "action": "interacted"
+        },
+        {
+          "id": "e048",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1769",
+        "endUid": "u1865"
+      },
+      "lines": [
+        "%% u1769:0-85, u1770:0-23, u1771:0-19, u1772:0-3, u1773:0-5, u1774:0-6, u1775:0-21, u1776:0-30, u1777:0-65, u1778:0-7, u1779:0-67, u1780:0-15, u1781:0-27, u1782:0-100 %%",
+        "DM: You settle into a morning ritual, you need to spend one of your 2 diamonds, plus your Bahrâzel token from the from Vindristjarna. And Aygul comes—opens her eyes first, sort of blinking in the in the the temple, the shrine to the Bahrâzel where you’re casting this. And she, she looks around, and I assume, like you know, her sister is there. And she kind of flinches back for a moment. And then relaxes and and looks at you like almost like she was prepared to like strike or something.",
+        "",
+        "%% u1783:0-23, u1784:0-29, u1785:0-30, u1786:0-21, u1787:0-82, u1788:0-69, u1789:0-6 %%",
+        "DM: And then she sighs, and: “That was not what I expected,” she says, sort of to to Nuzkar, sort of blinks again. Sits up weak, very weak, because being returned from the dead makes you very weak. She, she’s sort of struggling to speak a little bit. Drink some water. Shape.",
+        "",
+        "%% u1790:0-34, u1791:0-37, u1792:0-13, u1793:0-8, u1794:0-6 %%",
+        "((Healing clarification and brief interjections))",
+        "",
+        "%% u1795:0-5, u1796:0-31, u1797:0-28, u1798:0-139 %%",
+        "DM: [garbled] sits, sits up, though, and then kind of shakes her head, and it's like sort of struggling to to put thoughts together. And Nuzkar is telling her, you know, “Take your time.” And and as as she's waiting:",
+        "",
+        "%% u1799:0-62, u1800:0-15, u1801:0-37, u1802:0-36, u1803:0-35, u1804:0-11, u1805:0-87, u1806:0-21, u1807:0-65, u1808:0-22, u1809:0-27, u1810:0-52, u1811:0-2, u1812:0-24, u1813:0-41 %%",
+        "DM: Nuzkar explains to you all that the the People of the Rainbow, so they believe a life well lived is poison to Thark, the god that they've broken free of. And they believe that when they die they don't— Their souls don't live on, because where would they live? They don't belong to any god. But each each orc can cause Thark some small measure of pain if they've lived a good, happy life, if they've done good deeds, if they've defended their brethren, brethren, and helped others by being a spear of poison, striking at him as they reach his domain.",
+        "",
+        "%% u1814:0-5, u1815:0-3, u1816:0-3 %%",
+        "((Healing clarification and brief interjections))",
+        "",
+        "%% u1817:0-115, u1818:0-134, u1819:0-67, u1820:0-81, u1821:0-44 %%",
+        "DM: And the other, the other thing, just to remind everybody. So the mythology of death which Wellby has experienced and Kenzo’s experienced but nobody else is that all souls, everybody who dies in Taelgar, goes 1st to the land of the dead, which is like a variously described as a River of Souls, or a vast open plain, or a maze, or it has many descriptions. Wellby would have experienced it when he died. But there's myths about this everywhere, and—",
+        "",
+        "%% u1822:0-18, u1823:0-45, u1824:0-31, u1825:0-21, u1826:0-13, u1827:0-6, u1828:0-17, u1829:0-4, u1830:0-12, u1831:0-14, u1832:0-5, u1833:0-97, u1834:0-55, u1835:0-16, u1836:0-30, u1837:0-52, u1838:0-16, u1839:0-13, u1840:0-36, u1841:0-56, u1842:0-37, u1843:0-65, u1844:0-107 %%",
+        "DM: When Aygul finally sort of catches her breath to speak, she says: “It, it wasn’t like that at all. When I died, when the pain founded—faded, I found myself in some tight space. A prison, maybe cell. I don’t know how to describe it. I thought this must be what Thark’s prison is like, I guess. But I had not passed the land of the dead, as far as I knew. There were other souls around me, not orcs, just struggling to reach some strange, uncanny light that shone somewhere. But I assumed— I don't know. I don't know why these people who weren’t orcs were here. I assume that must be Thark’s light, some uncanny light that shone. Of course that was Thark’s domain, and if I could reach it I could be the righteous spear in death, and cause him some small measure of pain before the eternal sleep.",
+        "",
+        "%% u1845:0-8, u1846:0-38, u1847:0-27, u1848:0-73, u1849:0-13 %%",
+        "DM: And so I push through that crack, and something shifted or broke behind me, the light getting stronger and darker at the same time, somehow. And then I was fading.",
+        "",
+        "%% u1850:0-37, u1851:0-61, u1852:0-42, u1853:0-89, u1854:0-51, u1855:0-61, u1856:0-17, u1857:0-14, u1858:0-13, u1859:0-6 %%",
+        "DM: Found myself in land of the dead. But if I had passed through Thark’s domain, how was I in the land of the dead? How did I even have memories? This vast open plain, dark, but lit by the light of my soul shining on a rocky path. Even— I began to follow it, because what else could I do? And I was still walking on that path when you pulled me back. But what was that prison in that crack, if not Thark?”",
+        "",
+        "%% u1860:0-16, u1861:0-45, u1862:0-38 %%",
+        "Seeker: Maybe it was not— the path thing seem familiar to anybody else? From one of our mirror visions, maybe?",
+        "",
+        "%% u1863:0-27, u1864:0-48, u1865:0-30 %%",
+        "DM: She struggles a little bit, as if speaking that much was an effort, and then shakes her head. “Missed you.”"
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "Riswynn: No, I can do 2. Sorry, I thought it was—I thought it was 7th level. Sorry.",
+          "DM: And so—",
+          "Riswynn: Using my 7th—5th Level slots. Oh. All right, I'll raise both the dead.",
+          "DM: Okay! So—",
+          "Seeker: Nice."
+        ],
+        "after": [
+          "Delwath: Did—would it— Jotha experience?",
+          "DM: So Jotha says something different.",
+          "DM: And she is raised from the dead. She says: “When I died I was lost without a guide. I didn't know what would happen to me, I thought. Well,” she turns and looks at Delwath, “I had hoped maybe you'd come back before my soul was lost forever, and how bring a soul to to guide me?” Kong? Hey.",
+          "Seeker: A.",
+          "DM: Yeah."
+        ]
+      }
+    },
+    {
+      "id": "i017",
+      "title": "Jotha’s return after the double’s attack",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e048",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1872",
+        "endUid": "u2006"
+      },
+      "lines": [
+        "%% u1872:0-42, u1873:0-17, u1874:0-21, u1875:0-49, u1876:0-49, u1877:0-21, u1878:0-40, u1879:0-7, u1880:0-20, u1881:0-5, u1882:0-4 %%",
+        "DM: And she is raised from the dead. She says: “When I died I was lost without a guide. I didn't know what would happen to me, I thought. Well,” she turns and looks at Delwath, “I had hoped maybe you'd come back before my soul was lost forever, and how bring a soul to to guide me?” ((Player greeting))",
+        "",
+        "%% u1883:0-2, u1884:0-5, u1885:0-11, u1886:0-6, u1887:0-15, u1888:0-11, u1889:0-32, u1890:0-12, u1891:0-131 %%",
+        "((Player arrival, recap questions and video-call interruption))",
+        "",
+        "%% u1892:0-103, u1893:0-15, u1894:0-7 %%",
+        "DM: No worries, Seeker’s, Seeker’s Doppelganger showed up and attacked Vindristjarna, while you were in the plane of water. Killed—",
+        "",
+        "%% u1895:0-10 %%",
+        "Kenzo: Basically.",
+        "",
+        "%% u1896:0-89 %%",
+        "DM: Killed Aygul, one of the Orcs, and Jotha, the Deno’qai that you had rescued in the north.",
+        "",
+        "%% u1897:0-3 %%",
+        "Kenzo: No.",
+        "",
+        "%% u1898:0-54, u1899:0-32 %%",
+        "DM: Until Faldrak managed to kill him with the ice turret. And plus Amil and Kethra helped.",
+        "",
+        "%% u1900:0-11, u1901:0-48, u1902:0-30, u1903:0-18, u1904:0-5, u1905:0-16, u1906:0-7, u1907:0-17, u1908:0-127, u1909:0-15, u1910:0-22, u1911:0-10, u1912:0-14, u1913:0-6, u1914:0-77, u1915:0-71, u1916:0-361, u1917:0-9, u1918:0-71, u1919:0-26, u1920:0-9, u1921:0-89, u1922:0-33, u1923:0-80, u1924:0-73, u1925:0-110, u1926:0-55, u1927:0-70, u1928:0-40, u1929:0-30, u1930:0-43, u1931:0-9, u1932:0-12, u1933:0-54, u1934:0-9, u1935:0-4, u1936:0-2, u1937:0-24, u1938:0-15, u1939:0-23, u1940:0-189, u1941:0-80, u1942:0-46, u1943:0-18, u1944:0-12, u1945:0-22, u1946:0-39, u1947:0-65, u1948:0-24, u1949:0-11, u1950:0-43, u1951:0-5, u1952:0-48, u1953:0-9, u1954:0-17, u1955:0-48, u1956:0-5, u1957:0-72, u1958:0-27, u1959:0-40, u1960:0-39, u1961:0-24, u1962:0-24, u1963:0-23, u1964:0-17, u1965:0-35, u1966:0-32, u1967:0-94, u1968:0-5, u1969:0-10, u1970:0-51, u1971:0-70, u1972:0-122, u1973:0-5, u1974:0-76, u1975:0-15, u1976:0-11, u1977:0-12, u1978:0-9 %%",
+        "((Player arrival, recap questions and video-call interruption))",
+        "",
+        "%% u1979:0-23, u1980:0-37, u1981:0-108, u1982:0-18, u1983:0-31, u1984:0-60 %%",
+        "DM: Okay. So back to Jotha. As she describes what she experienced as she died at Seeker’s hand, she was lost without a guide, as I just said, and pulled, it felt like, to some strange place that felt—she described like she was encased in something, buried in stone, or something like that.",
+        "",
+        "%% u1985:0-26, u1986:0-45, u1987:0-70, u1988:0-51, u1989:0-48, u1990:0-15 %%",
+        "DM: She knew that this was not the land of the dead. She couldn’t really see, not really, but it felt like there were others around her, other souls. It felt like she was being trapped or crushed, even, lost and confused. And the only way out was this crack of light.",
+        "",
+        "%% u1991:0-6, u1992:0-27, u1993:0-46, u1994:0-94, u1995:0-215, u1996:0-14 %%",
+        "DM: But it felt wrong. Somehow it felt—she doesn't quite know how to describe it, but it felt like something that Tanshi would shy away from, not like something they were drawn to. And even though it was the only way through, and she seemed—she saw other souls like push through the crack and vanish, and as they did, it seemed to grow bigger and bigger and the light, again, darker and stronger. She held back.",
+        "",
+        "%% u1997:0-17, u1998:0-60, u1999:0-13, u2000:0-24, u2001:0-24, u2002:0-42, u2003:0-21, u2004:0-21 %%",
+        "DM: Doesn't know for—since she died, obviously, so you would know it’d been 3 days, just waiting—sure what to do, but not— certainly not wanting to go into this light that the god shied from and worried about the crack growing bigger.",
+        "",
+        "%% u2005:0-8 %%",
+        "Riswynn: Oh dear!",
+        "",
+        "%% u2006:0-43 %%",
+        "DM: And she was pulled back by Riswynn's magic."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "DM: Found myself in land of the dead. But if I had passed through Thark’s domain, how was I in the land of the dead? How did I even have memories? This vast open plain, dark, but lit by the light of my soul shining on a rocky path. Even— I began to follow it, because what else could I do? And I was still walking on that path when you pulled me back. But what was that prison in that crack, if not Thark?”",
+          "Seeker: Maybe it was not— the path thing seem familiar to anybody else? From one of our mirror visions, maybe?",
+          "DM: She struggles a little bit, as if speaking that much was an effort, and then shakes her head. “Missed you.”",
+          "Delwath: Did—would it— Jotha experience?",
+          "DM: So Jotha says something different."
+        ],
+        "after": [
+          "Riswynn: Can we ask the Deno’qai and Tanshi if Apollyon is messing with the afterlife?",
+          "Wellby: And.",
+          "Delwath: Contact Other Plane give you one question, or I forget?",
+          "DM: Five questions once per day, and it’s restarted.",
+          "Delwath: As an aside, or I think of my 5 questions. If we’re gonna use the mirror for something, we better do it like right now, cause we need to have a charge available when we get the next piece of jade."
+        ]
+      }
+    },
+    {
+      "id": "i018",
+      "title": "The dust’s history in the Mirror of the Past",
+      "entities": [
+        {
+          "id": "e036",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e012",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e021",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e044",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e053",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2036",
+        "endUid": "u2104"
+      },
+      "lines": [
+        "%% u2036:0-38 %%",
+        "Delwath: I think, mirror on the dust of Seeker.",
+        "",
+        "%% u2037:0-23, u2038:0-18 %%",
+        "Seeker: And the dust of Seeker. Okay, let's do it.",
+        "",
+        "%% u2039:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u2040:0-35, u2041:0-3, u2042:0-21, u2043:0-2, u2044:0-11, u2045:0-19, u2046:0-13 %%",
+        "DM: You hold up the dust to the mirror, and the 1st thing you see is Amil’s fist flying at your face, and a crunch.",
+        "",
+        "%% u2047:0-36, u2048:0-36, u2049:0-8, u2050:0-61, u2051:0-74, u2052:0-27 %%",
+        "DM: And then you shift quickly backward, drifting as a cloud high in the sky, waiting, lingering above the Plaguelands where you've been told to be. You wouldn't actually know that. You just see that you're a cloud floating high above the Plaguelands.",
+        "",
+        "%% u2053:0-22, u2054:0-7, u2055:0-3, u2056:0-9, u2057:0-29, u2058:0-11, u2059:0-47, u2060:0-30, u2061:0-75, u2062:0-59, u2063:0-76, u2064:0-85, u2065:0-4, u2066:0-10 %%",
+        "DM: And then shifting back further, the form now, not the Seeker clone, standing in front of Apollyon. So you're looking at Apollyon's back, the front of the Seeker clone. Apollyon seems to be sitting in meditation, almost, his skeletal head bare, pale, strange echo of a cloud crown floating over his head, a black crown made of some kind of matte, black iron, with 4 dark dark gems. The same crown that you've seen on Fausto's head. But here, reflected in some sort of pale echo form.",
+        "",
+        "%% u2067:0-17, u2068:0-25, u2069:0-24, u2070:0-12, u2071:0-68 %%",
+        "DM: And as you watch, there seem to be tendrils leaking out of the crown and touching the unformed creature, and you watch as it slowly turns into Seeker.",
+        "",
+        "%% u2072:0-8, u2073:0-25, u2074:0-18, u2075:0-61, u2076:0-38, u2077:0-7, u2078:0-23, u2079:0-30, u2080:0-70, u2081:0-104, u2082:0-28 %%",
+        "DM: And then the partially formed body lying in a coffin, complete, but blank and unformed, not even in humanoid shape, and Apollyon standing over it, holding a book, reading from this book, glancing as he turns to pages, probably chanting something not in any language Delwath can recognize. And this seems to go on for a very, very long time, like the mirror shows the scene over and over again like this is months of work.",
+        "",
+        "%% u2083:0-15, u2084:0-4, u2085:0-34, u2086:0-21, u2087:0-30, u2088:0-99, u2089:0-21 %%",
+        "DM: And then slowly back to the stone of Apollyon’s prison. You see in the mirror the walls of this chamber that that you saw in Delwath’s scrying, 5 coffins which you can’t see now, just looking at the blank wall of Drankorian marble.",
+        "",
+        "%% u2090:0-29, u2091:0-25, u2092:0-15, u2093:0-41, u2094:0-38 %%",
+        "DM: Apollyon slowly chipping away at the edge of the stone. Must have taken decades to make enough dust for 5 people, but not formed until much, much later.",
+        "",
+        "%% u2095:0-7, u2096:0-5 %%",
+        "((Brief table interjections))",
+        "",
+        "%% u2097:0-77 %%",
+        "Seeker: He really has something against us if he's willing to go to all that effort.",
+        "",
+        "%% u2098:0-56, u2099:0-28, u2100:0-17 %%",
+        "Delwath: Well, I think he didn't know it was gonna be us until he—until recently, right? Like, it's always, yeah—",
+        "",
+        "%% u2101:0-20 %%",
+        "Seeker: Fausto’s in trouble.",
+        "",
+        "%% u2102:0-6, u2103:0-25 %%",
+        "Delwath: Create 5 duplicates of whatever.",
+        "",
+        "%% u2104:0-6 %%",
+        "Seeker: Right."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "Seeker: What about that?",
+          "Delwath: Dust from Seeker?",
+          "Seeker: Good idea.",
+          "Wellby: Trust you.",
+          "Riswynn: Yeah, what if that's made up of the crushed up souls of people died recently? Maybe we're killing people in the Green Sea just to kill people because it helps Apollyon somehow."
+        ],
+        "after": [
+          "DM: So. Do you want to ask questions of your—?",
+          "Delwath: Yeah.",
+          "Delwath: Have the Tanshi been—I’ll ask: “Have you been unable to find souls of the dead recently?”",
+          "Seeker: That's interesting!",
+          "DM: Just once!"
+        ]
+      }
+    },
+    {
+      "id": "i019",
+      "title": "Yezali’s answers about Jotha’s soul and the duplicate",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2105",
+        "endUid": "u2131"
+      },
+      "lines": [
+        "%% u2105:0-41 %%",
+        "DM: So. Do you want to ask questions of your—?",
+        "",
+        "%% u2106:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u2107:0-31, u2108:0-13, u2109:0-14, u2110:0-27 %%",
+        "Delwath: Have the Tanshi been—I’ll ask: “Have you been unable to find souls of the dead recently?”",
+        "",
+        "%% u2111:0-19 %%",
+        "Seeker: That's interesting!",
+        "",
+        "%% u2112:0-10 %%",
+        "DM: Just once!",
+        "",
+        "%% u2113:0-44 %%",
+        "Delwath: Was it Jotha’s soul you were unable to find?",
+        "",
+        "%% u2114:0-4, u2115:0-2 %%",
+        "DM: Yes. A—",
+        "",
+        "%% u2116:0-8, u2117:0-61, u2118:0-9 %%",
+        "Delwath: Have you successfully guided other souls through the land of the dead recently?",
+        "",
+        "%% u2119:0-20 %%",
+        "DM: Many, far from here.",
+        "",
+        "%% u2120:0-3, u2121:0-58, u2122:0-2, u2123:0-12, u2124:0-6, u2125:0-31, u2126:0-10, u2127:0-54, u2128:0-26 %%",
+        "Delwath: I'm— that might be the only questions I can think of right now. Is—can you tell if the clone of Delwath is using magic? Like, when— do they have any way of knowing, like, when it's active, is what I'm trying to say.",
+        "",
+        "%% u2129:0-3 %%",
+        "DM: No.",
+        "",
+        "%% u2130:0-34 %%",
+        "Delwath: Can you tell when I'm using magic?",
+        "",
+        "%% u2131:0-4 %%",
+        "DM: Yes."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "Seeker: He really has something against us if he's willing to go to all that effort.",
+          "Delwath: Well, I think he didn't know it was gonna be us until he—until recently, right? Like, it's always, yeah—",
+          "Seeker: Fausto’s in trouble.",
+          "Delwath: Create 5 duplicates of whatever.",
+          "Seeker: Right."
+        ],
+        "after": [
+          "Delwath: That's 5. It’s a localized phenomenon. Does Jotha, the Jotha soul, have any sense of how many souls were trapped with them? Like, did it feel like an uncounted, untold multitude, or like 6 or—?",
+          "DM: Well.",
+          "DM: Aygul tried to break free very quickly and pass through this crack, so doesn't really know. As far as she knows she was just— I mean, she’s confused about the whole chronology. She’s like, she thought she was in Thark’s prison, right? Then she was in the land of the dead, right, not having reached Thark’s prison, and then she was back here, right?",
+          "DM: Jotha’s a bit more thoughtful about that. Wasn't—it wasn’t a lot, more kept coming, maybe, maybe a hundred, on that order, not untold millions, not 3, when I 1st arrived.",
+          "Delwath: Wellby, do you have any way of finding out if something's going wrong with halfling souls and the Nevos Sea? How would we even figure that out? Could it be that this is something only— mean, somebody said this earlier. But maybe it's true. The the point of Wellby is to kill people. Like, what's unique about these 2 people? They were killed by Seeker."
+        ]
+      }
+    },
+    {
+      "id": "i020",
+      "title": "Jotha estimates the trapped souls",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2132",
+        "endUid": "u2148"
+      },
+      "lines": [
+        "%% u2132:0-9, u2133:0-111, u2134:0-68 %%",
+        "Delwath: That's 5. It’s a localized phenomenon. Does Jotha, the Jotha soul, have any sense of how many souls were trapped with them? Like, did it feel like an uncounted, untold multitude, or like 6 or—?",
+        "",
+        "%% u2135:0-5 %%",
+        "DM: Well.",
+        "",
+        "%% u2136:0-5, u2137:0-61, u2138:0-23, u2139:0-33, u2140:0-219 %%",
+        "DM: Aygul tried to break free very quickly and pass through this crack, so doesn't really know. As far as she knows she was just— I mean, she’s confused about the whole chronology. She’s like, she thought she was in Thark’s prison, right? Then she was in the land of the dead, right, not having reached Thark’s prison, and then she was back here, right?",
+        "",
+        "%% u2141:0-41, u2142:0-6, u2143:0-16, u2144:0-17, u2145:0-5, u2146:0-15, u2147:0-42, u2148:0-19 %%",
+        "DM: Jotha’s a bit more thoughtful about that. Wasn't—it wasn’t a lot, more kept coming, maybe, maybe a hundred, on that order, not untold millions, not 3, when I 1st arrived."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "DM: Many, far from here.",
+          "Delwath: I'm— that might be the only questions I can think of right now. Is—can you tell if the clone of Delwath is using magic? Like, when— do they have any way of knowing, like, when it's active, is what I'm trying to say.",
+          "DM: No.",
+          "Delwath: Can you tell when I'm using magic?",
+          "DM: Yes."
+        ],
+        "after": [
+          "Delwath: Wellby, do you have any way of finding out if something's going wrong with halfling souls and the Nevos Sea? How would we even figure that out? Could it be that this is something only— mean, somebody said this earlier. But maybe it's true. The the point of Wellby is to kill people. Like, what's unique about these 2 people? They were killed by Seeker.",
+          "Wellby: Interesting.",
+          "Seeker: Now.",
+          "Wellby: Don't know.",
+          "Delwath: You ask your racial memory if it’s gone wrong? I don't know how that would work. If there's something going missing from the halfling—"
+        ]
+      }
+    },
+    {
+      "id": "i021",
+      "title": "The pirate victims are missing from halfling ancestral memory",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2149",
+        "endUid": "u2206"
+      },
+      "lines": [
+        "%% u2149:0-97, u2150:0-45, u2151:0-39, u2152:0-54, u2153:0-41, u2154:0-68 %%",
+        "Delwath: Wellby, do you have any way of finding out if something's going wrong with halfling souls and the Nevos Sea? How would we even figure that out? Could it be that this is something only— mean, somebody said this earlier. But maybe it's true. The the point of Wellby is to kill people. Like, what's unique about these 2 people? They were killed by Seeker.",
+        "",
+        "%% u2155:0-12, u2156:0-4, u2157:0-11, u2158:0-46, u2159:0-33, u2160:0-53, u2161:0-62, u2162:0-14, u2163:0-70, u2164:0-17, u2165:0-22, u2166:0-38, u2167:0-28, u2168:0-17, u2169:0-81, u2170:0-74, u2171:0-8, u2172:0-36, u2173:0-4, u2174:0-29, u2175:0-48, u2176:0-44, u2177:0-13, u2178:0-3, u2179:0-22, u2180:0-19, u2181:0-50, u2182:0-5, u2183:0-3, u2184:0-12, u2185:0-12, u2186:0-18, u2187:0-21, u2188:0-13, u2189:0-55, u2190:0-8, u2191:0-13, u2192:0-5, u2193:0-9, u2194:0-6, u2195:0-28 %%",
+        "((Halfling ancestry ability discussion and dice rolls))",
+        "",
+        "%% u2196:0-4, u2197:0-16, u2198:0-26, u2199:0-86, u2200:0-25, u2201:0-39, u2202:0-70, u2203:0-72, u2204:0-39 %%",
+        "DM: With people who have— There's been, there's been—your sense, you don’t know exactly how many, but at least a couple, maybe as many as 4 ships that have been lost at sea recently. No news has come back. But of course everybody assumes that they're killed by the mad Wellby. And no memories of theirs have—none of their stories have made it to the this, you know, the halfling ancestral—",
+        "",
+        "%% u2205:0-5, u2206:0-15 %%",
+        "Wellby: Yeah. So great. Yeah."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "DM: Yes.",
+          "Delwath: That's 5. It’s a localized phenomenon. Does Jotha, the Jotha soul, have any sense of how many souls were trapped with them? Like, did it feel like an uncounted, untold multitude, or like 6 or—?",
+          "DM: Well.",
+          "DM: Aygul tried to break free very quickly and pass through this crack, so doesn't really know. As far as she knows she was just— I mean, she’s confused about the whole chronology. She’s like, she thought she was in Thark’s prison, right? Then she was in the land of the dead, right, not having reached Thark’s prison, and then she was back here, right?",
+          "DM: Jotha’s a bit more thoughtful about that. Wasn't—it wasn’t a lot, more kept coming, maybe, maybe a hundred, on that order, not untold millions, not 3, when I 1st arrived."
+        ],
+        "after": [
+          "Riswynn: So it's been mentioned that nobody knows what the Riswynn is up to. But if I'm gonna contact the Bahrâzel, maybe I should ask them about whether they're missing any contact with deceased dwarves.",
+          "Seeker: What would the Riswynn play be? Don't worry.",
+          "Delwath: So.",
+          "Seeker: Something terrible.",
+          "Delwath: Yeah. But Riswynn’s also gotta be like what would Riswynn—what would the fake Riswynn even be worshiping? That's what's a little frightening to me like, where's fake Riswynn getting her divine magic? It can't be good."
+        ]
+      }
+    },
+    {
+      "id": "i022",
+      "title": "A warning from Tharn Todor about Riswynn’s double",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e051",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2240",
+        "endUid": "u2288"
+      },
+      "lines": [
+        "%% u2240:0-7, u2241:0-18, u2242:0-42 %%",
+        "DM: Riswynn receives a sending from a friend of hers back in Tharn Todor:",
+        "",
+        "%% u2243:0-27 %%",
+        "((Initial reactions to the message))",
+        "",
+        "%% u2244:0-44, u2245:0-60, u2246:0-53 %%",
+        "DM: “Doppelganger marched into Tharn Todor today, recruiting many to march south along the abandoned long road into danger and death. Need help to stop. Please come.”",
+        "",
+        "%% u2247:0-9, u2248:0-3, u2249:0-59, u2250:0-37, u2251:0-11, u2252:0-6, u2253:0-24, u2254:0-18, u2255:0-51, u2256:0-4, u2257:0-2, u2258:0-40 %%",
+        "((Initial reactions to the message))",
+        "",
+        "%% u2259:0-31, u2260:0-38 %%",
+        "Riswynn: Well are we going south to like through the Yuvanti Mountains towards—",
+        "",
+        "%% u2261:0-2, u2262:0-12 %%",
+        "DM: So the benefit—",
+        "",
+        "%% u2263:0-51 %%",
+        "Riswynn: Way south towards the ocean, or towards the desert?",
+        "",
+        "%% u2264:0-83 %%",
+        "DM: Towards the desert. So what you would, you would interpret this—Riswynn would know.",
+        "",
+        "%% u2265:0-86, u2266:0-74, u2267:0-197 %%",
+        "DM: So the dwarves have these long roads. You, you encountered one in in leading north from from Raven’s Hold that lead for like hundreds of miles into the mountains. Yuvanti Mountains are new, right? They didn't really exist before the Great War. So the dwarves carved a long road that leads from Tharn Todor up to near Darba, and that's like a major trade route.",
+        "",
+        "%% u2268:0-35, u2269:0-56, u2270:0-32, u2271:0-16, u2272:0-144, u2273:0-21 %%",
+        "DM: They also started carving one south and got, you know, a good distance south of Tharn Todor. You know, maybe 200 miles or so. And then stopped because they ran into something—nobody quite knows what— because none of the dwarves who were carving it came back, but the decision was made to collapse the tunnel.",
+        "",
+        "%% u2274:0-47 %%",
+        "Riswynn: Cause, don’t go that way, cause it’s dangerous.",
+        "",
+        "%% u2275:0-76 %%",
+        "DM: Go that way because it’s dangerous. And now Riswynn has shown up and saying,",
+        "",
+        "%% u2276:0-22 %%",
+        "Riswynn: Let's all go that way.",
+        "",
+        "%% u2277:0-56, u2278:0-69, u2279:0-38, u2280:0-80 %%",
+        "DM: “I’m Riswynn. I brought the dwarves back from Morkalan. I saved the orcs of Uzgukhar. I’m gonna reopen the lost passages south.” And everybody apparently believes her. But of course, what it's actually gonna do is abandon everybody to their deaths.",
+        "",
+        "%% u2281:0-34, u2282:0-14, u2283:0-7, u2284:0-29 %%",
+        "Riswynn: Then there will be some souls the Bahrâzel can't contact if they're not there already.",
+        "",
+        "%% u2285:0-47 %%",
+        "DM: No, Riswynn just showed up in Tharn Todor today.",
+        "",
+        "%% u2286:0-11 %%",
+        "Riswynn: Okay, like—",
+        "",
+        "%% u2287:0-16, u2288:0-5 %%",
+        "DM: A few hours ago. Here."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "Riswynn: Hey, Maybe there isn't a Riswynn double.",
+          "Delwath: No one's—",
+          "Riswynn: Ridiculous.",
+          "DM: So.",
+          "Delwath: There were 5 coffins."
+        ],
+        "after": [
+          "Riswynn: So it's not a lost cause, but—",
+          "Delwath: You could teleport to Tharn Todor right now. Wait. Does Riswynn know Teleport, or would Seeker have to go with you?",
+          "DM: Riswynn knows Word of Recall, so she can teleport to Tharn Todor. I would assume at this point she’s managed to cast Hallow on the shrine of Bahrâzel, so she could also teleport to the shrine of Bahrâzel. But you can only cast—teleport to places that are for your God.",
+          "Riswynn: So I can go to the blessed places of Tharn Todor, blessed places on",
+          "DM: Vindristjarna."
+        ]
+      }
+    },
+    {
+      "id": "i023",
+      "title": "The party connects the killings with Apollyon’s prison",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e048",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2303",
+        "endUid": "u2339"
+      },
+      "lines": [
+        "%% u2303:0-36, u2304:0-95, u2305:0-146 %%",
+        "Delwath: It's, it's clearly the case that this prison in the land of the dead is something that Apollyon is using our doppelgangers to fill up—what he does with it, that’s unclear, but I don’t think like, I don’t know. I might not know much, but giving a lich a giant bubble of dead souls—",
+        "",
+        "%% u2306:0-4 %%",
+        "DM: Wow!",
+        "",
+        "%% u2307:0-8 %%",
+        "Delwath: But [garbled]",
+        "",
+        "%% u2308:0-79, u2309:0-3, u2310:0-40 %%",
+        "DM: Jotha just said is that most of the souls were squeezing out through this crack and chipping away at the prison as they did.",
+        "",
+        "%% u2311:0-59, u2312:0-109 %%",
+        "Delwath: Oh, that's how he's breaking the goddamn prison. Of course. That's how he's breaking out is by killing people. Yeah, yeah, yeah. Yeah. Yeah. Yeah, yeah, yeah, of course.",
+        "",
+        "%% u2313:0-49 %%",
+        "Riswynn: But all the souls in his virtual phylactery, and—",
+        "",
+        "%% u2314:0-35, u2315:0-82 %%",
+        "Delwath: Correct. Yes, and they're escaping. That’s why, that’s why, that’s why Delwath. And yeah, okay, okay, so Delwath, and—",
+        "",
+        "%% u2316:0-50 %%",
+        "Riswynn: I was like, I shouldn’t do this. This would be bad.",
+        "",
+        "%% u2317:0-5, u2318:0-3, u2319:0-31 %%",
+        "((Brief reactions and repeated conclusions))",
+        "",
+        "%% u2320:0-48, u2321:0-144, u2322:0-28 %%",
+        "Delwath: That's where the prison cracks. That's the whole whole reason why the prison started cracking fast was because Delwath Doppelganger and Kenzo Doppelganger went and killed a whole lot of people. That's where it all started.",
+        "",
+        "%% u2323:0-5, u2324:0-8, u2325:0-49, u2326:0-11, u2327:0-20 %%",
+        "((Brief reactions and repeated conclusions))",
+        "",
+        "%% u2328:0-46 %%",
+        "Riswynn: Wellby doppelganger, and Riswynn doppelganger.",
+        "",
+        "%% u2329:0-56 %%",
+        "Delwath: So like Wellby the pirate, is definitely a step up from—",
+        "",
+        "%% u2330:0-221 %%",
+        "Delwath: And, and Riswynn, the leader of the dwarves, is even a step up from that, right? Like, you just march a whole bunch of dwarves off to the death. I don’t know what Seeker—Seeker seems to be punching below his weight here, but—",
+        "",
+        "%% u2331:0-20 %%",
+        "DM: Well, there's a lot—",
+        "",
+        "%% u2332:0-5 %%",
+        "Delwath: Kept—",
+        "",
+        "%% u2333:0-32 %%",
+        "DM: People—capturing Vindristjarna.",
+        "",
+        "%% u2334:0-18 %%",
+        "Delwath: Well, that's true.",
+        "",
+        "%% u2335:0-64 %%",
+        "DM: Crashing Vindristjarna into Uzgukhar would kill a lot of people.",
+        "",
+        "%% u2336:0-20, u2337:0-11 %%",
+        "Delwath: That's a good point. That is it.",
+        "",
+        "%% u2338:0-19 %%",
+        "DM: A massive resource.",
+        "",
+        "%% u2339:0-11 %%",
+        "Delwath: Good point."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "Riswynn: So I can go to the blessed places of Tharn Todor, blessed places on",
+          "DM: Vindristjarna.",
+          "Riswynn: Word of recall, maybe stop hundreds of thousands of dwarves from dying, since it's probably something Apollyon wants.",
+          "Seeker: What's the tactical importance of those dwarves in that place?",
+          "Delwath: It could be a soul harvest."
+        ],
+        "after": [
+          "Riswynn: Paul. Yeah.",
+          "Wellby: Interesting.",
+          "Riswynn: Count on our crew being—",
+          "DM: I have not counted on your crew. You know nothing about—",
+          "Seeker: Assistant to the regional manager."
+        ]
+      }
+    },
+    {
+      "id": "i024",
+      "title": "Scrying the hostile doubles at the ruined river dock",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e015",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e036",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2507",
+        "endUid": "u2586"
+      },
+      "lines": [
+        "%% u2507:0-23, u2508:0-35, u2509:0-38 %%",
+        "Delwath: Okay, can I scry first? I'm going to take some of the dust, which I presume counts as a body part.",
+        "",
+        "%% u2510:0-16 %%",
+        "DM: Yep, and I mean.",
+        "",
+        "%% u2511:0-25 %%",
+        "Delwath: Scry the existing Seeker.",
+        "",
+        "%% u2512:0-17, u2513:0-10, u2514:0-2, u2515:0-27, u2516:0-26, u2517:0-62, u2518:0-49, u2519:0-29, u2520:0-28, u2521:0-34, u2522:0-16, u2523:0-27, u2524:0-29, u2525:0-6, u2526:0-115, u2527:0-2 %%",
+        "((Scrying modifiers and saving-throw adjudication))",
+        "",
+        "%% u2528:0-14, u2529:0-11, u2530:0-17, u2531:0-21, u2532:0-12, u2533:0-8, u2534:0-22, u2535:0-11, u2536:0-25, u2537:0-17, u2538:0-8, u2539:0-60, u2540:0-9, u2541:0-5, u2542:0-18, u2543:0-83, u2544:0-18 %%",
+        "DM: Delwath casts Scry on the Seeker duplicate. And you find yourself looking down like on—I guess it's like a a— It's like a little camp or something, on a marble dock. You see, surrounded by jungles like you're looking down at a scene of 3 people, Kenzo, Delwath and Seeker sitting around a campfire, just kind of staring off into space, watching the river, sitting on a dock.",
+        "",
+        "%% u2545:0-38 %%",
+        "Delwath: Dock on a river or a dock on a ocean?",
+        "",
+        "%% u2546:0-11 %%",
+        "DM: On a river.",
+        "",
+        "%% u2547:0-5 %%",
+        "Delwath: Okay.",
+        "",
+        "%% u2548:0-52, u2549:0-3, u2550:0-11 %%",
+        "DM: Fancy dock, like it’s completely overgrown by jungle. But— Drankorian.",
+        "",
+        "%% u2551:0-66 %%",
+        "Delwath: Of course, is this, I mean, does this look like a Drankorian dock?",
+        "",
+        "%% u2552:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u2553:0-35, u2554:0-77, u2555:0-54, u2556:0-62, u2557:0-51, u2558:0-58, u2559:0-142 %%",
+        "DM: They seem to be watching the river. And they don't seem to be doing anything. They're just kind of sitting there. But there's but there's clearly been some effort, some half-hearted effort to create the illusion of like a campsite. But Delwath is, you know, skilled enough to—this is— you’ve quartermastered tons. Yeah, clearly somebody who’s a knowledgeable quartermaster who’s creating the illusion of a active site, but isn’t actually—like, nobody’s eating food. There’s no—to these—",
+        "",
+        "%% u2560:0-120 %%",
+        "Delwath: Creatures, like, do they blink? Do they move around? They like scratch their cheek, or they just like stone still, like—",
+        "",
+        "%% u2561:0-30 %%",
+        "DM: Like, how long does scry last?",
+        "",
+        "%% u2562:0-7 %%",
+        "Delwath: 10 min.",
+        "",
+        "%% u2563:0-97, u2564:0-58, u2565:0-98, u2566:0-65, u2567:0-7, u2568:0-113, u2569:0-30, u2570:0-5 %%",
+        "DM: So, about halfway through, Kenzo stands up, and sort of looks like patrolling, walks to the river, walks out of your sight, but in the direction of the river and doesn't come back for the rest of the scry. But the other 2 are just kind of sitting silently. It's not completely like they're deactivated, but they seem to be somehow—I don’t know, they’re not. They’re clearly not like, they’re not talking. They blink occasionally, but they’re just almost mindless at this point. Okay.",
+        "",
+        "%% u2571:0-38 %%",
+        "Delwath: So they're gonna be guarding the jade.",
+        "",
+        "%% u2572:0-20 %%",
+        "Seeker: That's good to know.",
+        "",
+        "%% u2573:0-13, u2574:0-4, u2575:0-9, u2576:0-74 %%",
+        "Delwath: Or something. Wait—how close to—was there? There’s just jungle in a dock. There was no other buildings?",
+        "",
+        "%% u2577:0-92, u2578:0-76, u2579:0-12, u2580:0-37 %%",
+        "DM: So, because of the direction the scry sensors pointed, you weren't able to see what's behind Seeker. You're looking like out, but you get the feeling like this is not a— This is like a dock on a city, right? There’s like—",
+        "",
+        "%% u2581:0-12 %%",
+        "Delwath: Right? Okay.",
+        "",
+        "%% u2582:0-37, u2583:0-49, u2584:0-18, u2585:0-84, u2586:0-45 %%",
+        "DM: Sense of buildings, all of that right? Trees growing through them. Jung—you know, vines, right, covering the marble road. There’s like a paved marble road that’s broken up, that they’re sitting— broken up by like vines and roots growing up."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "Wellby: No, no, plus 3, actually.",
+          "Delwath: Net out total at plus 3.",
+          "DM: It's plus 3 from his from his wisdom mod, And then an additional plus 3 from the—so it's plus 6. So there's a decent chance that, I mean, have to roll a 13.",
+          "Delwath: Death.",
+          "DM: That's better than even odds. Right? Because the met—the plus one from the cloak of protection is not effective, does not count."
+        ],
+        "after": [
+          "Delwath: If I try and scry myself, am I considered familiar?",
+          "DM: No, cause it’s—you’re scrying a construct. But you were sitting directly next to—",
+          "Delwath: Yeah. Don't know why that—",
+          "DM: And so at Seeker we’re all in the same place.",
+          "Delwath: I was just thinking, facing the other direction, I might get a better view, but it's not, it's not worth it if if there's not a bonus. I'll try Wellby with my other slot."
+        ]
+      }
+    },
+    {
+      "id": "i025",
+      "title": "Scrying Dread Pirate Wellby aboard Vengeance",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e049",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2612",
+        "endUid": "u2682"
+      },
+      "lines": [
+        "%% u2612:0-9, u2613:0-13, u2614:0-15, u2615:0-55, u2616:0-59, u2617:0-25, u2618:0-71, u2619:0-39, u2620:0-33, u2621:0-47, u2622:0-31, u2623:0-40 %%",
+        "DM: So Wellby is on a ship. It seems to be— He’s currently—so it’s like mid afternoon right now. So the the ship is sailing again with a strong wind behind it. Wellby is standing on the the like, the, the what do you call it? The deck that goes up in the bow with a spyglass looking at the horizon, and seems to be signaling back to the crew. And you can see, there's this massive like catapult-like contraption that's mounted on the deck of this ship.",
+        "",
+        "%% u2624:0-73, u2625:0-24, u2626:0-45, u2627:0-162, u2628:0-67, u2629:0-117, u2630:0-128, u2631:0-28, u2632:0-36, u2633:0-8, u2634:0-100, u2635:0-41, u2636:0-5, u2637:0-73, u2638:0-39, u2639:0-23 %%",
+        "DM: ((Catapult launch)) You hear in the distance this crack, and then a, like, screams coming up from some ship that was apparently just hit by some giant flaming catapult. And then Wellby turns like pumps his fist, like, gives a little smile, and, like, you know, eggs on his crew a little bit. Puts on more sails to try and reach the the destroyed ship, now.",
+        "",
+        "%% u2640:0-22, u2641:0-73, u2642:0-28, u2643:0-5, u2644:0-12, u2645:0-35, u2646:0-24 %%",
+        "((Brief comments about the pirate’s clothing))",
+        "",
+        "%% u2647:0-95, u2648:0-85, u2649:0-11, u2650:0-26, u2651:0-42, u2652:0-24, u2653:0-132, u2654:0-49, u2655:0-31, u2656:0-105, u2657:0-23 %%",
+        "DM: He’s changed his, he’s changed his clothes from the, from the normal Wellby, but he’s, he doesn’t have any of his magic, obviously, so he doesn't have the glamoured armor or anything. And then he climbs down from this deck like, congratulates a few people. You see, yeah, it's basically all humans. You don't see any halflings on the ship that he's talking to, and he's, you know, he's greeting people. He's like, you know, “Good shot.” He’s congratulating the catapult crew, encouraging, encouraging people, and then scampers up the the mainmast to kind of get a better look at the scenes of carnage from the top. And then the scry ends.",
+        "",
+        "%% u2658:0-58, u2659:0-44 %%",
+        "DM: The ship is called—what would Wellby name his pirate ship? What would evil Wellby name his pirate ship?",
+        "",
+        "%% u2660:0-5 %%",
+        "Seeker: Nice.",
+        "",
+        "%% u2661:0-29 %%",
+        "DM: Schwartz. I'm looking at you.",
+        "",
+        "%% u2662:0-75 %%",
+        "Wellby: Yeah, yeah, I’m, I’m—I think it would be like the Vengeance or or something.",
+        "",
+        "%% u2663:0-27, u2664:0-3, u2665:0-19, u2666:0-38, u2667:0-75, u2668:0-25, u2669:0-28 %%",
+        "DM: So I was thinking like some, the one word noun, right? The ship is the Vengeance and it's got—it's not flying a normal skull. It’s not flying like a skull and crossbones pirate flag. It's flying, what? Maybe a flaming arrow?",
+        "",
+        "%% u2670:0-5, u2671:0-23, u2672:0-9, u2673:0-27, u2674:0-14, u2675:0-47 %%",
+        "Wellby: Yeah. What's, what's something dramatic? I think I think it's like a just blood red like red crossed with red. Something like that.",
+        "",
+        "%% u2676:0-15 %%",
+        "DM: Blood red flag.",
+        "",
+        "%% u2677:0-74, u2678:0-25, u2679:0-74, u2680:0-7 %%",
+        "DM: I mean, this is a recognizable ship, right? Like, now that you’ve scried it, think you could probably— you could describe this to people. You’ve—you could, you would recognize it. Bloody—",
+        "",
+        "%% u2681:0-6 %%",
+        "Seeker: If we—",
+        "",
+        "%% u2682:0-19 %%",
+        "DM: Design of the flag."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "Delwath: That’s so, it’s—he’d have a plus 5. So minus 2, plus 6 total. So a net—",
+          "DM: Wellby, roll Wisdom save, and then add 2.",
+          "Wellby: Swear that didn't get there. I rolled a 3 for the base roll, so.",
+          "DM: Okay, Wellby fails.",
+          "Delwath: What’s Wellby up to?"
+        ],
+        "after": [
+          "Seeker: And if the teleport misses by a little bit, Kenzo’s in water. But he could swim, right?",
+          "Delwath: Yeah.",
+          "Wellby: Older.",
+          "DM: Oh, Kenzo, doesn’t—the simulacrum doesn’t—",
+          "Delwath: We we could give this simulacrum the cloak of the Manta Ray."
+        ]
+      }
+    },
+    {
+      "id": "i026",
+      "title": "Seeker creates the allied Kenzo duplicate",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e048",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e043",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2990",
+        "endUid": "u3020"
+      },
+      "lines": [
+        "%% u2990:0-8, u2991:0-10, u2992:0-6, u2993:0-13, u2994:0-58, u2995:0-14, u2996:0-7 %%",
+        "DM: Okay, so to wrap up, as you— and as Seeker uses the icicle turret to generate a bunch of ice and then grinds it into powder.",
+        "",
+        "%% u2997:0-10 %%",
+        "Seeker: All right.",
+        "",
+        "%% u2998:0-35, u2999:0-7, u3000:0-70 %%",
+        "DM: And shapes a snow version of Kenzo. Perhaps, not resisting the urge to take a few little snacks of ice, as he does.",
+        "",
+        "%% u3001:0-23 %%",
+        "Seeker: Won't need those later.",
+        "",
+        "%% u3002:0-131, u3003:0-107, u3004:0-109, u3005:0-14 %%",
+        "DM: And then, and then, as the snow version of Kenzo is shaped, takes out this powdered ruby and sprinkles it over and begins to chant. This is like 4 in the afternoon. The rest of you drift off to sleep, keeping watch as Faldrak keeps the ship moving steadily southwest towards, following Kenzo’s direction, towards the location of the final piece of jade. Seeker chants.",
+        "",
+        "%% u3006:0-66, u3007:0-26, u3008:0-2, u3009:0-77, u3010:0-49, u3011:0-6, u3012:0-39, u3013:0-12, u3014:0-18, u3015:0-17, u3016:0-31, u3017:0-9, u3018:0-14, u3019:0-39, u3020:0-24 %%",
+        "DM: Well, Kenzo has to also be there. You have to be like touching the person you're duplicating. So Kenzo meditates as Seeker chants, and slowly the snow solidifies and hardens, and you begin to see Kenzo's features take shape. And by the early morning, pre dawn, like 4, 5 AM, suddenly the pile of snow, like, snaps into place, and an exact duplicate of Kenzo stands up and greets you, shakes Kenzo's hand and looks at Seeker, like, “What is my mission?”"
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "Delwath: App.",
+          "Kenzo: Damn! Wait, are we going to Drankor now? Is that what’s happening there?",
+          "Delwath: Yeah, yeah.",
+          "DM: Well, the jade is like 300 miles west of Drankor.",
+          "Kenzo: Okay. Okay, okay. Okay. Got it. Wow. Very exciting. All right. Well, I'll listen in for that for the last bit. Yep."
+        ],
+        "after": [
+          "Seeker: We are sending you to destroy an evil simulacrum of our friend Wellby. He is a pirate on a ship. He will have a crew defending him, and your goal is to destroy Wellby and sink the ship if possible.",
+          "Delwath: Let's say it the other way around. Sink the ship and destroy Wellby, if possible.",
+          "Seeker: I actually disagree with that, because I think if they’re seafarers, ship sinks, they swim, they pick each other up. You might be right, actually. It would just slow them down a little bit. It’s not actually—",
+          "Delwath: They lose their giant catapult of death.",
+          "Seeker: Fair. The real weapon, I think, is Wellby, though, at least."
+        ]
+      }
+    },
+    {
+      "id": "i027",
+      "title": "The allied Kenzo receives his mission",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e049",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u3021",
+        "endUid": "u3072"
+      },
+      "lines": [
+        "%% u3021:0-18, u3022:0-10, u3023:0-18, u3024:0-21, u3025:0-14, u3026:0-10, u3027:0-48, u3028:0-51 %%",
+        "Seeker: We are sending you to destroy an evil simulacrum of our friend Wellby. He is a pirate on a ship. He will have a crew defending him, and your goal is to destroy Wellby and sink the ship if possible.",
+        "",
+        "%% u3029:0-81 %%",
+        "Delwath: Let's say it the other way around. Sink the ship and destroy Wellby, if possible.",
+        "",
+        "%% u3030:0-49, u3031:0-158 %%",
+        "Seeker: I actually disagree with that, because I think if they’re seafarers, ship sinks, they swim, they pick each other up. You might be right, actually. It would just slow them down a little bit. It’s not actually—",
+        "",
+        "%% u3032:0-40 %%",
+        "Delwath: They lose their giant catapult of death.",
+        "",
+        "%% u3033:0-5, u3034:0-43, u3035:0-9 %%",
+        "Seeker: Fair. The real weapon, I think, is Wellby, though, at least.",
+        "",
+        "%% u3036:0-55 %%",
+        "Delwath: You might be right. I, I’m not. I’m not. I’m not wedded—",
+        "",
+        "%% u3037:0-38 %%",
+        "DM: Well, it's Seeker’s spell, so he gets—",
+        "",
+        "%% u3038:0-37 %%",
+        "Delwath: Yeah, yeah, yeah, yeah, yeah, I mean—",
+        "",
+        "%% u3039:0-62, u3040:0-36 %%",
+        "Seeker: I put them in that order. It’s the top priority is taking out—this is like an assassination. Yeah.",
+        "",
+        "%% u3041:0-126, u3042:0-54, u3043:0-12, u3044:0-3, u3045:0-60 %%",
+        "Seeker: And we're giving you this potion of water breathing, so that if you need to get off the ship in order to sink it from beneath, or for whatever other reason, you can hop in the water and be okay. And are we giving him the fire breathing potion? Yeah, why not?",
+        "",
+        "%% u3046:0-14 %%",
+        "Delwath: Sure, why not?",
+        "",
+        "%% u3047:0-18, u3048:0-41, u3049:0-17, u3050:0-5 %%",
+        "Seeker: Of fire breathing. That's 1 way to create chaos while you're in the in battle. And a—",
+        "",
+        "%% u3051:0-49 %%",
+        "Seeker: Oh! And Delwath here can also make you invisible.",
+        "",
+        "%% u3052:0-13, u3053:0-78, u3054:0-3, u3055:0-24, u3056:0-30, u3057:0-5 %%",
+        "Delwath: Invisibility. So you’ll be invisible until you fight. Well, you know how invisibility works, but helps you when you land not be immediately in trouble. Just—",
+        "",
+        "%% u3058:0-80 %%",
+        "Seeker: Throw everything in it you can against Wellby. That’s your instinct, anyway, so—",
+        "",
+        "%% u3059:0-22, u3060:0-30, u3061:0-36, u3062:0-31 %%",
+        "DM: Duplicate Kenzo looks intrigued at this possibility. “Wellby’s arrows are no match for me.” But of course you have to wait—",
+        "",
+        "%% u3063:0-57, u3064:0-21, u3065:0-16 %%",
+        "Wellby: I mean, duplicate, to be clear, duplicate Wellby’s arrows—no match against you. So that's clear.",
+        "",
+        "%% u3066:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u3067:0-13, u3068:0-42, u3069:0-76, u3070:0-103, u3071:0-22, u3072:0-7 %%",
+        "Seeker: And you know, this whole thing really just comes down to a roll of the dice. We're giving this a try. We're putting our faith in you, simulacrum Kenzo. We hope it can work, but we don’t know what’s going to happen, and Seeker’s tossing a a strangely iridescent cuboid."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "Seeker: All right.",
+          "DM: And shapes a snow version of Kenzo. Perhaps, not resisting the urge to take a few little snacks of ice, as he does.",
+          "Seeker: Won't need those later.",
+          "DM: And then, and then, as the snow version of Kenzo is shaped, takes out this powdered ruby and sprinkles it over and begins to chant. This is like 4 in the afternoon. The rest of you drift off to sleep, keeping watch as Faldrak keeps the ship moving steadily southwest towards, following Kenzo’s direction, towards the location of the final piece of jade. Seeker chants.",
+          "DM: Well, Kenzo has to also be there. You have to be like touching the person you're duplicating. So Kenzo meditates as Seeker chants, and slowly the snow solidifies and hardens, and you begin to see Kenzo's features take shape. And by the early morning, pre dawn, like 4, 5 AM, suddenly the pile of snow, like, snaps into place, and an exact duplicate of Kenzo stands up and greets you, shakes Kenzo's hand and looks at Seeker, like, “What is my mission?”"
+        ],
+        "after": [
+          "DM: So, so this is after you’ve, after you’ve all rested so that the teleport spell is active now. So it's like late afternoon on May 14.",
+          "DM: So at this point also, Riswynn says goodbye, teleports away. “We’ll see you in Drankor,” or wherever, because she can teleport back to Vindristjarna once the Riswynn problem is dealt with. Which will conveniently take exactly as much time as it takes us to run whatever adventure we have between now and when we return from them— Colorado.",
+          "Wellby: How do you solve a problem like Riswynn?",
+          "DM: Exactly. And then Kenzo is loaded up with all the buffs, invisible. Well, invisibility— invisibility will end as soon as you—isn’t Scrying concentration?",
+          "Delwath: That's a good point. Let me check. But I, I might wait 15 min to see."
+        ]
+      }
+    },
+    {
+      "id": "i028",
+      "title": "The successful teleport onto Vengeance",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e049",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u3094",
+        "endUid": "u3116"
+      },
+      "lines": [
+        "%% u3094:0-104 %%",
+        "DM: Alright, can you just roll so I can see what the roll would be if you hadn’t used the Chanceweaver dice?",
+        "",
+        "%% u3095:0-3, u3096:0-15, u3097:0-7, u3098:0-44 %%",
+        "Seeker: Oh. This is a d100. 30, 34. That would have been a dramatic miss, right?",
+        "",
+        "%% u3099:0-55, u3100:0-24, u3101:0-1, u3102:0-19, u3103:0-28, u3104:0-40, u3105:0-6, u3106:0-14, u3107:0-48, u3108:0-21, u3109:0-15, u3110:0-9, u3111:0-20, u3112:0-9, u3113:0-26, u3114:0-2, u3115:0-54, u3116:0-48 %%",
+        "DM: Yeah, that would have been a dramatic miss. So you see, as Seeker casts Teleport, 2 versions of reality superimposed upon each other for a brief moment. You see, 1st of all, Kenzo, sailing off to some other ship, a pirate ship on the Green Sea, and then that reality decays quickly, and Kenzo vanishes in a flash, appearing by the Chanceweaver’s fate, on the deck of Dread Pirate Wellby’s ship, the Vengeance. And that is where we’ll end the session tonight."
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "reviewContext": {
+        "before": [
+          "DM: Exactly. And then Kenzo is loaded up with all the buffs, invisible. Well, invisibility— invisibility will end as soon as you—isn’t Scrying concentration?",
+          "Delwath: That's a good point. Let me check. But I, I might wait 15 min to see.",
+          "DM: Right, give him a little invisibility before. Yeah.",
+          "Delwath: I'm pretty sure it is concentration.",
+          "DM: Concentration. It’s a ten-minute casting time anyways, that you don’t have—you can’t do it immediately. He’s invisible. He’s got his potions. And—"
+        ],
+        "after": [
+          "Seeker: Did you guess that we would do anything like that?"
+        ]
+      }
+    }
+  ]
+}

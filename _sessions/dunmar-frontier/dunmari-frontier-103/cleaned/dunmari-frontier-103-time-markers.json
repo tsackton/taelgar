@@ -1,0 +1,803 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-103",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-session.yaml",
+    "sessionYamlSha256": "d5d6fcf62b5904a5e9120e944cd86197d9b74f5cedf1c2576290492c2fe6bcd0",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-transcript.md",
+    "transcriptSha256": "9e2d6660df0c2bc3a80e4c5694cc7e28f029639db7a14f11e4123dea3a808490",
+    "yamlDates": {
+      "start": "1749-05-12",
+      "end": "1749-05-14"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0018"
+      },
+      "reading": "The party resumes aboard Vindristjarna above Uzgukhar just after dawn on May 12.",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0018",
+          "quote": "DM: Okay, so we will begin on Vindristjarna. Just past dawn, the ship hovering over— let's see— the orcish city of Uzgukhar. In the desert you can still see below you the the ruined walls, the, um, the pieces of the city, the buildings that were destroyed and and crushed when the massive trebuchet was firing boulders, until {{bolder hero!}} {{Or stop that}} most epic rolls in this entire campaign."
+        },
+        {
+          "startUid": "u0019",
+          "endUid": "u0019",
+          "quote": "Seeker: True. That was crazy."
+        },
+        {
+          "startUid": "u0020",
+          "endUid": "u0032",
+          "quote": "DM: But it's, it's— it's early morning. The sun has just risen. There's a lot of activity down below in this not yet super hot part of the day. The city seems vibrant and alive, you can see, you know, orcs running around, repairing the walls. Looking, you know, people looking up and waving at you. They recognize the ship. Nobody seems too surprised to see you, so you guess that Faldrak or somebody warned orcs that the ship was coming. You might have even warned them that you were coming when you sent out a bunch of messages about your “Don’t trust anybody because you have doppelgangers,” before you left for the Peninsula."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Dawn is spoken here; the later departure date at u2856–u2862 dates this same morning; year from YAML.",
+        "partOfDay": "just past dawn",
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 12
+        }
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u1126",
+        "endUid": "u1136"
+      },
+      "reading": "Preparations take about five hours; the ship leaves Uzgukhar after lunch, around 1 p.m. on May 12.",
+      "evidence": [
+        {
+          "startUid": "u1126",
+          "endUid": "u1136",
+          "quote": "DM: So in the bustle of activity, it—I mean, it takes, it ends up taking more like 5 h. By the time you find the Wizard and get everybody settled tasks and end up having to spend a little bit of time talking to to Lubash the chief, and just in general kind of, you know, making your presence known and accepting their thanks again for everything you did. So it's not really until sort of early afternoon, just after just after a a sort of quick lunch, that you you begin heading south. A—"
+        },
+        {
+          "startUid": "u1258",
+          "endUid": "u1268",
+          "quote": "DM: Any case, by around one ish, you're setting off now with these— I need some good setting off music here. Setting off into— You're, you're setting off—spend a couple of hours giving, as you travel across the desert in the hot sun, giving everybody these these items. Doing this little ceremony. You know Faldrak is very pleased very, very excited, that he's finally being, you know, trusted, and, you know, given some real charge over piloting, which, honestly, if you want to let him just keep the phasing stone attunement, Seeker can get an attunement slot back."
+        },
+        {
+          "startUid": "u2856",
+          "endUid": "u2862",
+          "quote": "DM: So let me just see how far. So let's see, you left the afternoon of the 12th. It’s now the afternoon of the 13th, so you’ve gone 240 miles. By the time you send the simulacrum, you'll have gone another 240 miles. So you'll be something like a day in three-quarters travel, really, basically 2 days travel. So you would have time. You would theoretically be able to do it once more if you wanted to."
+        }
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM resolves the proposed two or three hours as more like five hours."
+      },
+      "time": {
+        "precision": "approximate",
+        "basis": "Around one-ish and after lunch are the departure anchor; u2856–u2862 supplies May 12, YAML supplies year.",
+        "partOfDay": "early afternoon",
+        "clock": "13:00",
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 12
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1258",
+        "endUid": "u1268"
+      },
+      "reading": "The party spends a couple of hours distributing items and honoring the crew while flying across the desert.",
+      "evidence": [
+        {
+          "startUid": "u1258",
+          "endUid": "u1268",
+          "quote": "DM: Any case, by around one ish, you're setting off now with these— I need some good setting off music here. Setting off into— You're, you're setting off—spend a couple of hours giving, as you travel across the desert in the hot sun, giving everybody these these items. Doing this little ceremony. You know Faldrak is very pleased very, very excited, that he's finally being, you know, trusted, and, you know, given some real charge over piloting, which, honestly, if you want to let him just keep the phasing stone attunement, Seeker can get an attunement slot back."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated couple of hours giving items and holding the ceremony while traveling."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t12"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1296",
+        "endUid": "u1301"
+      },
+      "reading": "Sura contacts the party around 1:30–2 p.m., during the crew ceremony.",
+      "evidence": [
+        {
+          "startUid": "u1296",
+          "endUid": "u1301",
+          "quote": "DM: But I'm not saying that's what's happening with the Garamjala, anyway, around 1:30, 2, as as the ceremony is going on, Wellby, you hear, coming from your pouch: “Wellby and friends, can you hear me? It's Sura. I’ve been trying to reach you for a while now. There’s news.”"
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "Lower end of the approximate around 1:30, 2 anchor.",
+          "clock": "13:30"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "Upper end of the approximate around 1:30, 2 anchor.",
+          "clock": "14:00"
+        }
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t03"
+        }
+      ],
+      "note": "This bounds the uncertain time of the call; it is not a thirty-minute call duration."
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1646",
+        "endUid": "u1659"
+      },
+      "reading": "Southbound flight continues through the afternoon and night; the party sleeps and regains spells before the following morning.",
+      "evidence": [
+        {
+          "startUid": "u1646",
+          "endUid": "u1649",
+          "quote": "DM: So you communicate this, and then over the course of the afternoon, just travel best you can, right?"
+        },
+        {
+          "startUid": "u1650",
+          "endUid": "u1650",
+          "quote": "Riswynn: Yeah, yeah."
+        },
+        {
+          "startUid": "u1651",
+          "endUid": "u1653",
+          "quote": "DM: Until you can sleep and rest and regain your spells."
+        },
+        {
+          "startUid": "u1654",
+          "endUid": "u1654",
+          "quote": "Seeker: Highest comfortable altitude. I think."
+        },
+        {
+          "startUid": "u1655",
+          "endUid": "u1655",
+          "quote": "Delwath: Yep."
+        },
+        {
+          "startUid": "u1656",
+          "endUid": "u1659",
+          "quote": "DM: Yeah. So you're going up a little bit as the as the plateau rises below you and go through the night. Dreams— So you communicate all this to Sura, basically that you've just been talking about."
+        },
+        {
+          "startUid": "u1753",
+          "endUid": "u1753",
+          "quote": "DM: So I assume this conversation is all happening in the morning."
+        },
+        {
+          "startUid": "u1754",
+          "endUid": "u1754",
+          "quote": "Delwath: Yeah."
+        },
+        {
+          "startUid": "u1755",
+          "endUid": "u1755",
+          "quote": "DM: Delwath has reported on—"
+        },
+        {
+          "startUid": "u1756",
+          "endUid": "u1756",
+          "quote": "Delwath: Yes."
+        },
+        {
+          "startUid": "u1757",
+          "endUid": "u1757",
+          "quote": "DM: Abha's dream. So everybody gets their spell slots back. You can raise the dead if you wish to do so."
+        },
+        {
+          "startUid": "u2856",
+          "endUid": "u2862",
+          "quote": "DM: So let me just see how far. So let's see, you left the afternoon of the 12th. It’s now the afternoon of the 13th, so you’ve gone 240 miles. By the time you send the simulacrum, you'll have gone another 240 miles. So you'll be something like a day in three-quarters travel, really, basically 2 days travel. So you would have time. You would theoretically be able to do it once more if you wanted to."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention for the established overnight rest and restored spell slots; the flight lasts longer than the rest."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t12"
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1753",
+        "endUid": "u1757"
+      },
+      "reading": "The next morning, May 13, the group discusses Abha’s dream report and Riswynn raises Aygul and Jotha.",
+      "evidence": [
+        {
+          "startUid": "u1753",
+          "endUid": "u1753",
+          "quote": "DM: So I assume this conversation is all happening in the morning."
+        },
+        {
+          "startUid": "u1754",
+          "endUid": "u1754",
+          "quote": "Delwath: Yeah."
+        },
+        {
+          "startUid": "u1755",
+          "endUid": "u1755",
+          "quote": "DM: Delwath has reported on—"
+        },
+        {
+          "startUid": "u1756",
+          "endUid": "u1756",
+          "quote": "Delwath: Yes."
+        },
+        {
+          "startUid": "u1757",
+          "endUid": "u1757",
+          "quote": "DM: Abha's dream. So everybody gets their spell slots back. You can raise the dead if you wish to do so."
+        },
+        {
+          "startUid": "u1758",
+          "endUid": "u1758",
+          "quote": "Riswynn: Just one, just one today."
+        },
+        {
+          "startUid": "u1759",
+          "endUid": "u1759",
+          "quote": "DM: Just one today. Who are you gonna raise?"
+        },
+        {
+          "startUid": "u1760",
+          "endUid": "u1760",
+          "quote": "Delwath: Wait, why can't you, like, can't you—"
+        },
+        {
+          "startUid": "u1761",
+          "endUid": "u1761",
+          "quote": "Riswynn: No, I can do 2. Sorry, I thought it was—I thought it was 7th level. Sorry."
+        },
+        {
+          "startUid": "u1762",
+          "endUid": "u1762",
+          "quote": "DM: And so—"
+        },
+        {
+          "startUid": "u1763",
+          "endUid": "u1765",
+          "quote": "Riswynn: Using my 7th—5th Level slots. Oh. All right, I'll raise both the dead."
+        },
+        {
+          "startUid": "u1766",
+          "endUid": "u1767",
+          "quote": "DM: Okay! So—"
+        },
+        {
+          "startUid": "u1768",
+          "endUid": "u1768",
+          "quote": "Seeker: Nice."
+        },
+        {
+          "startUid": "u1769",
+          "endUid": "u1782",
+          "quote": "DM: You settle into a morning ritual, you need to spend one of your 2 diamonds, plus your Bahrâzel token from the from Vindristjarna. And Aygul comes—opens her eyes first, sort of blinking in the in the the temple, the shrine to the Bahrâzel where you’re casting this. And she, she looks around, and I assume, like you know, her sister is there. And she kind of flinches back for a moment. And then relaxes and and looks at you like almost like she was prepared to like strike or something."
+        },
+        {
+          "startUid": "u1872",
+          "endUid": "u1882",
+          "quote": "DM: And she is raised from the dead. She says: “When I died I was lost without a guide. I didn't know what would happen to me, I thought. Well,” she turns and looks at Delwath, “I had hoped maybe you'd come back before my soul was lost forever, and how bring a soul to to guide me?” Kong? Hey."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Morning is stated; the night after the May 12 departure and the later May 13 anchor identify the day; year from YAML.",
+        "partOfDay": "morning",
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 13
+        }
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u2036",
+        "endUid": "u2046"
+      },
+      "reading": "The dust examination shifts narration into its earlier history in the Mirror of the Past.",
+      "evidence": [
+        {
+          "startUid": "u2036",
+          "endUid": "u2036",
+          "quote": "Delwath: I think, mirror on the dust of Seeker."
+        },
+        {
+          "startUid": "u2037",
+          "endUid": "u2038",
+          "quote": "Seeker: And the dust of Seeker. Okay, let's do it."
+        },
+        {
+          "startUid": "u2039",
+          "endUid": "u2039",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u2040",
+          "endUid": "u2046",
+          "quote": "DM: You hold up the dust to the mirror, and the 1st thing you see is Amil’s fist flying at your face, and a crunch."
+        },
+        {
+          "startUid": "u2047",
+          "endUid": "u2052",
+          "quote": "DM: And then you shift quickly backward, drifting as a cloud high in the sky, waiting, lingering above the Plaguelands where you've been told to be. You wouldn't actually know that. You just see that you're a cloud floating high above the Plaguelands."
+        },
+        {
+          "startUid": "u2053",
+          "endUid": "u2066",
+          "quote": "DM: And then shifting back further, the form now, not the Seeker clone, standing in front of Apollyon. So you're looking at Apollyon's back, the front of the Seeker clone. Apollyon seems to be sitting in meditation, almost, his skeletal head bare, pale, strange echo of a cloud crown floating over his head, a black crown made of some kind of matte, black iron, with 4 dark dark gems. The same crown that you've seen on Fausto's head. But here, reflected in some sort of pale echo form."
+        },
+        {
+          "startUid": "u2067",
+          "endUid": "u2071",
+          "quote": "DM: And as you watch, there seem to be tendrils leaking out of the crown and touching the unformed creature, and you watch as it slowly turns into Seeker."
+        },
+        {
+          "startUid": "u2072",
+          "endUid": "u2082",
+          "quote": "DM: And then the partially formed body lying in a coffin, complete, but blank and unformed, not even in humanoid shape, and Apollyon standing over it, holding a book, reading from this book, glancing as he turns to pages, probably chanting something not in any language Delwath can recognize. And this seems to go on for a very, very long time, like the mirror shows the scene over and over again like this is months of work."
+        },
+        {
+          "startUid": "u2083",
+          "endUid": "u2089",
+          "quote": "DM: And then slowly back to the stone of Apollyon’s prison. You see in the mirror the walls of this chamber that that you saw in Delwath’s scrying, 5 coffins which you can’t see now, just looking at the blank wall of Drankorian marble."
+        },
+        {
+          "startUid": "u2090",
+          "endUid": "u2094",
+          "quote": "DM: Apollyon slowly chipping away at the edge of the stone. Must have taken decades to make enough dust for 5 people, but not formed until much, much later."
+        }
+      ],
+      "context": "vision",
+      "completion": "completed",
+      "note": "The months and decades shown belong to the dust’s history; they do not advance the adventure clock."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2097",
+        "endUid": "u2105"
+      },
+      "reading": "After the mirror account, the party resumes current discussion and questioning Delwath’s patron.",
+      "evidence": [
+        {
+          "startUid": "u2097",
+          "endUid": "u2097",
+          "quote": "Seeker: He really has something against us if he's willing to go to all that effort."
+        },
+        {
+          "startUid": "u2098",
+          "endUid": "u2100",
+          "quote": "Delwath: Well, I think he didn't know it was gonna be us until he—until recently, right? Like, it's always, yeah—"
+        },
+        {
+          "startUid": "u2101",
+          "endUid": "u2101",
+          "quote": "Seeker: Fausto’s in trouble."
+        },
+        {
+          "startUid": "u2102",
+          "endUid": "u2103",
+          "quote": "Delwath: Create 5 duplicates of whatever."
+        },
+        {
+          "startUid": "u2104",
+          "endUid": "u2104",
+          "quote": "Seeker: Right."
+        },
+        {
+          "startUid": "u2105",
+          "endUid": "u2105",
+          "quote": "DM: So. Do you want to ask questions of your—?"
+        },
+        {
+          "startUid": "u2106",
+          "endUid": "u2106",
+          "quote": "Delwath: Yeah."
+        },
+        {
+          "startUid": "u2107",
+          "endUid": "u2110",
+          "quote": "Delwath: Have the Tanshi been—I’ll ask: “Have you been unable to find souls of the dead recently?”"
+        },
+        {
+          "startUid": "u2111",
+          "endUid": "u2111",
+          "quote": "Seeker: That's interesting!"
+        },
+        {
+          "startUid": "u2112",
+          "endUid": "u2112",
+          "quote": "DM: Just once!"
+        },
+        {
+          "startUid": "u2113",
+          "endUid": "u2113",
+          "quote": "Delwath: Was it Jotha’s soul you were unable to find?"
+        },
+        {
+          "startUid": "u2114",
+          "endUid": "u2115",
+          "quote": "DM: Yes. A—"
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t06"
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2561",
+        "endUid": "u2570"
+      },
+      "reading": "Delwath’s scry on the hostile Seeker duplicate runs for ten minutes; Kenzo’s double leaves the view about halfway through.",
+      "evidence": [
+        {
+          "startUid": "u2561",
+          "endUid": "u2561",
+          "quote": "DM: Like, how long does scry last?"
+        },
+        {
+          "startUid": "u2562",
+          "endUid": "u2562",
+          "quote": "Delwath: 10 min."
+        },
+        {
+          "startUid": "u2563",
+          "endUid": "u2570",
+          "quote": "DM: So, about halfway through, Kenzo stands up, and sort of looks like patrolling, walks to the river, walks out of your sight, but in the direction of the river and doesn't come back for the rest of the scry. But the other 2 are just kind of sitting silently. It's not completely like they're deactivated, but they seem to be somehow—I don’t know, they’re not. They’re clearly not like, they’re not talking. They blink occasionally, but they’re just almost mindless at this point. Okay."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "The ten-minute spell length is stated and the DM narrates the remainder of that scry."
+      },
+      "completion": "completed",
+      "note": "The precise starting clock is unstated; source order places it before the next mid-afternoon anchor."
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2612",
+        "endUid": "u2623"
+      },
+      "reading": "It is mid-afternoon when Delwath scries the pirate Wellby on his ship.",
+      "evidence": [
+        {
+          "startUid": "u2612",
+          "endUid": "u2623",
+          "quote": "DM: So Wellby is on a ship. It seems to be— He’s currently—so it’s like mid afternoon right now. So the the ship is sailing again with a strong wind behind it. Wellby is standing on the the like, the, the what do you call it? The deck that goes up in the bow with a spyglass looking at the horizon, and seems to be signaling back to the crew. And you can see, there's this massive like catapult-like contraption that's mounted on the deck of this ship."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM says it is mid-afternoon right now; the same day is explicitly May 13 at u2837–u2847; year from YAML.",
+        "partOfDay": "mid-afternoon",
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 13
+        }
+      }
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u2837",
+        "endUid": "u2847"
+      },
+      "reading": "The planning has reached about 4 p.m. on May 13; Seeker can begin the Kenzo simulacrum.",
+      "evidence": [
+        {
+          "startUid": "u2837",
+          "endUid": "u2843",
+          "quote": "DM: So it's at this stage as you've been planning this, it's afternoon on on May 13th, Seeker, you do currently have your 7th level slot, right, so you could start the simulacrum now."
+        },
+        {
+          "startUid": "u2844",
+          "endUid": "u2844",
+          "quote": "Delwath: But yes."
+        },
+        {
+          "startUid": "u2845",
+          "endUid": "u2847",
+          "quote": "DM: It’s like 4 in the afternoon. It’s 12 h, so we’d go till four at night. But I mean—"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM explicitly gives May 13 and about four in the afternoon; year from YAML.",
+        "partOfDay": "afternoon",
+        "clock": "16:00",
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 13
+        }
+      }
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u2856",
+        "endUid": "u2862"
+      },
+      "reading": "One day of flight, about 240 miles, has elapsed since the afternoon departure on May 12.",
+      "evidence": [
+        {
+          "startUid": "u2856",
+          "endUid": "u2862",
+          "quote": "DM: So let me just see how far. So let's see, you left the afternoon of the 12th. It’s now the afternoon of the 13th, so you’ve gone 240 miles. By the time you send the simulacrum, you'll have gone another 240 miles. So you'll be something like a day in three-quarters travel, really, basically 2 days travel. So you would have time. You would theoretically be able to do it once more if you wanted to."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM dates departure to the afternoon of May 12 and the current point to the afternoon of May 13."
+      },
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "DM’s retrospective departure date; year from YAML.",
+          "partOfDay": "afternoon",
+          "date": {
+            "year": 1749,
+            "month": 5,
+            "day": 12
+          }
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "DM’s current May 13 afternoon anchor; year from YAML.",
+          "partOfDay": "afternoon",
+          "date": {
+            "year": 1749,
+            "month": 5,
+            "day": 13
+          }
+        }
+      },
+      "completion": "completed",
+      "note": "This includes the overnight passage in t05; the next 240 miles are a forecast, not a completed second travel day."
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u2901",
+        "endUid": "u2904"
+      },
+      "reading": "Riswynn’s departure is placed alongside the May 13 ruby preparation in one summary and at the May 14 closing scene in another; its date remains unresolved.",
+      "evidence": [
+        {
+          "startUid": "u2888",
+          "endUid": "u2889",
+          "quote": "DM: End a little bit early tonight, yeah, and then we’ll pick up the—so Riswynn will, Riswynn will teleport—Riswynn— just to sort of summarize what happened. So May 13th,"
+        },
+        {
+          "startUid": "u2890",
+          "endUid": "u2896",
+          "quote": "DM: Seeker, you grind up some of your rubies. I don’t, you probably don’t care the ruby, so you've got 3 rubies from Shadowkeep and 2 rubies from the elemental forge, that—Elemental Forge rubies are bigger. So either both of the Elemental Forge rubies, or all 3 of the Shadowkeep rubies would be enough for Simulacrum. I assume you don't care what you use."
+        },
+        {
+          "startUid": "u2897",
+          "endUid": "u2900",
+          "quote": "Delwath: Now, I mean, probably the Shadowkeep ones just cause they seem more something."
+        },
+        {
+          "startUid": "u2901",
+          "endUid": "u2904",
+          "quote": "DM: As you grind up those rubies, [garbled] Riswynn as she leaves. Now Kong gets to hear the craziness."
+        },
+        {
+          "startUid": "u3073",
+          "endUid": "u3075",
+          "quote": "DM: So, so this is after you’ve, after you’ve all rested so that the teleport spell is active now. So it's like late afternoon on May 14."
+        },
+        {
+          "startUid": "u3076",
+          "endUid": "u3082",
+          "quote": "DM: So at this point also, Riswynn says goodbye, teleports away. “We’ll see you in Drankor,” or wherever, because she can teleport back to Vindristjarna once the Riswynn problem is dealt with. Which will conveniently take exactly as much time as it takes us to run whatever adventure we have between now and when we return from them— Colorado."
+        }
+      ],
+      "actors": [
+        "Riswynn"
+      ],
+      "completion": "completed",
+      "note": "Both passages describe leaving; neither explicitly retracts the other. No single departure date is selected."
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u2990",
+        "endUid": "u3020"
+      },
+      "reading": "Seeker creates the allied Kenzo duplicate from about 4 p.m. until roughly 4–5 a.m. the following day, May 14.",
+      "evidence": [
+        {
+          "startUid": "u2990",
+          "endUid": "u2996",
+          "quote": "DM: Okay, so to wrap up, as you— and as Seeker uses the icicle turret to generate a bunch of ice and then grinds it into powder."
+        },
+        {
+          "startUid": "u2997",
+          "endUid": "u2997",
+          "quote": "Seeker: All right."
+        },
+        {
+          "startUid": "u2998",
+          "endUid": "u3000",
+          "quote": "DM: And shapes a snow version of Kenzo. Perhaps, not resisting the urge to take a few little snacks of ice, as he does."
+        },
+        {
+          "startUid": "u3001",
+          "endUid": "u3001",
+          "quote": "Seeker: Won't need those later."
+        },
+        {
+          "startUid": "u3002",
+          "endUid": "u3005",
+          "quote": "DM: And then, and then, as the snow version of Kenzo is shaped, takes out this powdered ruby and sprinkles it over and begins to chant. This is like 4 in the afternoon. The rest of you drift off to sleep, keeping watch as Faldrak keeps the ship moving steadily southwest towards, following Kenzo’s direction, towards the location of the final piece of jade. Seeker chants."
+        },
+        {
+          "startUid": "u3006",
+          "endUid": "u3020",
+          "quote": "DM: Well, Kenzo has to also be there. You have to be like touching the person you're duplicating. So Kenzo meditates as Seeker chants, and slowly the snow solidifies and hardens, and you begin to see Kenzo's features take shape. And by the early morning, pre dawn, like 4, 5 AM, suddenly the pile of snow, like, snaps into place, and an exact duplicate of Kenzo stands up and greets you, shakes Kenzo's hand and looks at Seeker, like, “What is my mission?”"
+        },
+        {
+          "startUid": "u2845",
+          "endUid": "u2847",
+          "quote": "DM: It’s like 4 in the afternoon. It’s 12 h, so we’d go till four at night. But I mean—"
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Kenzo"
+      ],
+      "duration": {
+        "value": 12,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "The stated twelve-hour casting is completed in narration, with the endpoint approximately four or five a.m."
+      },
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "DM repeats the four p.m. start after the May 13 anchor.",
+          "partOfDay": "afternoon",
+          "clock": "16:00",
+          "date": {
+            "year": 1749,
+            "month": 5,
+            "day": 13
+          }
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "DM gives four or five a.m. the following morning; date follows the May 13 start and is confirmed by t14.",
+          "partOfDay": "pre-dawn / early morning",
+          "date": {
+            "year": 1749,
+            "month": 5,
+            "day": 14
+          }
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "note": "Kenzo meditates with Seeker during casting. The other characters’ sleep during this interval is not a second additional overnight boundary."
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u3073",
+        "endUid": "u3075"
+      },
+      "reading": "After rest restores Seeker’s teleport slot, the allied Kenzo duplicate is sent away in late afternoon on May 14.",
+      "evidence": [
+        {
+          "startUid": "u3073",
+          "endUid": "u3075",
+          "quote": "DM: So, so this is after you’ve, after you’ve all rested so that the teleport spell is active now. So it's like late afternoon on May 14."
+        },
+        {
+          "startUid": "u3099",
+          "endUid": "u3116",
+          "quote": "DM: Yeah, that would have been a dramatic miss. So you see, as Seeker casts Teleport, 2 versions of reality superimposed upon each other for a brief moment. You see, 1st of all, Kenzo, sailing off to some other ship, a pirate ship on the Green Sea, and then that reality decays quickly, and Kenzo vanishes in a flash, appearing by the Chanceweaver’s fate, on the deck of Dread Pirate Wellby’s ship, the Vengeance. And that is where we’ll end the session tonight."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM explicitly says late afternoon on May 14; year from YAML.",
+        "partOfDay": "late afternoon",
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 14
+        }
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention for the explicitly completed rest restoring the seventh-level teleport slot."
+      },
+      "completion": "completed",
+      "note": "The rest’s exact beginning and the unmeasured gap after the pre-dawn completion remain open. Riswynn’s conflicting departure dates are retained separately in t15."
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "The DM explicitly dates the ship departure to May 12, the following afternoon to May 13, and the allied Kenzo teleport to May 14. The year 1749 comes from YAML.",
+    "expectedDateBoundaries": 2,
+    "supportedDateBoundaries": 2,
+    "evidence": [
+      "t01",
+      "t02",
+      "t05",
+      "t06",
+      "t11",
+      "t12",
+      "t13",
+      "t14"
+    ],
+    "explanation": "The opening morning and same-day departure are followed by an overnight flight and May 13 morning resurrection, then the overnight simulacrum casting reaches May 14. Rest and the allied Kenzo teleport remain on May 14. Riswynn’s conflicting departure date in t15 does not alter this independently supported session span. The prior attack, piracy reports and historical mirror scenes do not extend the played interval."
+  }
+}

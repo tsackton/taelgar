@@ -1,0 +1,172 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-time-markers.json",
+    "sha256": "aefeeffeeec9d5bd758ce2c90fa0d1cec84030d5eb0db7b4bb99e2f133a9c0fc"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-transcript.md",
+    "sha256": "9e2d6660df0c2bc3a80e4c5694cc7e28f029639db7a14f11e4123dea3a808490"
+  },
+  "dateAssessment": "Working calendar: May 12–14, 1749 from YAML. The transcript independently states May 12, May 13 and May 14; the year is inherited. Two overnight transitions support the full span (matched). The opening sun-rise watch is approximate. Session 102 ends the same escape aboard Vindristjarna above Uzgukhar (u3845–u3851, u3915–u3932); session 103 opens with Buruli just slain (u0003–u0038). Session 104 explicitly begins about fifteen minutes after this session’s allied Kenzo teleport (u0017–u0029). Continuity follows these identified events, rather than session-number adjacency. Reported attacks, remote observations and the mirror’s historical months/decades add no adventure days. Riswynn’s departure remains May 13 or May 14 (t15); the dated session note selects May 13 and adds Kethra. That disagreement does not change the independently supported session span.",
+  "watches": [
+    {
+      "day": "May 12, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Just past dawn above Uzgukhar; the sun has just risen.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1749-05-12",
+      "endDate": "1749-05-12"
+    },
+    {
+      "day": "May 12, 1749",
+      "startWatch": "morning",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Five hours of preparation end with departure around 1 p.m.",
+      "markers": [
+        "t02"
+      ],
+      "startDate": "1749-05-12",
+      "endDate": "1749-05-12"
+    },
+    {
+      "day": "May 12, 1749",
+      "startWatch": "midday",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "A couple of hours honoring the crew during flight; Sura calls around 1:30–2.",
+      "markers": [
+        "t03",
+        "t04"
+      ],
+      "startDate": "1749-05-12",
+      "endDate": "1749-05-12"
+    },
+    {
+      "day": "May 12–13, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Flight continues through the night; sleep restores spells before the next morning.",
+      "markers": [
+        "t05"
+      ],
+      "startDate": "1749-05-12",
+      "endDate": "1749-05-13"
+    },
+    {
+      "day": "May 13, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Morning resurrection ritual; current discussion resumes after the mirror account.",
+      "markers": [
+        "t06",
+        "t08"
+      ],
+      "startDate": "1749-05-13",
+      "endDate": "1749-05-13"
+    },
+    {
+      "day": "Undated mirror history",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The dust’s earlier creation is viewed; historical months and decades add no adventure time.",
+      "markers": [
+        "t07"
+      ],
+      "clock": "local",
+      "scope": "Mirror history"
+    },
+    {
+      "day": "May 13, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "First scry lasts ten minutes; the pirate scry is explicitly mid-afternoon.",
+      "markers": [
+        "t09",
+        "t10"
+      ],
+      "startDate": "1749-05-13",
+      "endDate": "1749-05-13"
+    },
+    {
+      "day": "May 13, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "About 4 p.m.: one day and roughly 240 miles flown since departure.",
+      "markers": [
+        "t11",
+        "t12"
+      ],
+      "startDate": "1749-05-13",
+      "endDate": "1749-05-13"
+    },
+    {
+      "day": "May 13–14, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Seeker’s twelve-hour casting runs from about 4 p.m. until roughly 4–5 a.m.",
+      "markers": [
+        "t13"
+      ],
+      "startDate": "1749-05-13",
+      "endDate": "1749-05-14",
+      "scope": "Seeker and Kenzo"
+    },
+    {
+      "day": "During May 13–14, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "open",
+      "summary": "Riswynn’s departure: May 13 summary versus May 14 closing scene; date unresolved.",
+      "markers": [
+        "t15"
+      ],
+      "dateWindow": [
+        "1749-05-13",
+        "1749-05-14"
+      ],
+      "scope": "Riswynn"
+    },
+    {
+      "day": "May 14, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "By late afternoon, Seeker has rested and teleports the allied Kenzo; the rest’s precise endpoint remains open.",
+      "markers": [
+        "t14"
+      ],
+      "startDate": "1749-05-14",
+      "endDate": "1749-05-14"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 102 handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-transcript.md",
+      "sha256": "f3496b8ba3fd22650dc9ffbb406687e863718db265b05055d793eb958ed75424"
+    },
+    {
+      "label": "Session 104 opening",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-transcript.md",
+      "sha256": "23fe5307641c6af387a2563764de39e17721dbf511368be8f7da81fb41951e0e"
+    },
+    {
+      "label": "Dated session 103 note",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 103 (DuFr).md",
+      "sha256": "785879561ea595c8aa396a4cbed77ecdff3144e44b94a03a032bf4ed546c6f31"
+    }
+  ]
+}
