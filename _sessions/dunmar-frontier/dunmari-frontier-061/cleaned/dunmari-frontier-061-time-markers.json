@@ -1,0 +1,212 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-061",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-061/cleaned/dunmari-frontier-061-session.yaml",
+    "sessionYamlSha256": "276f6173f5ab49390ae3c4c5dd4b4862faa18d3f04c613ecd59a882d2dd015aa",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-061/cleaned/dunmari-frontier-061-transcript.md",
+    "transcriptSha256": "4566306a1e4d67ffe007e1d77ad1f3bec9120ab2670b12725ae5b8e9d286e92c",
+    "yamlDates": {
+      "start": "1748-09-30",
+      "end": "1748-10-03"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0015",
+        "endUid": "u0022"
+      },
+      "reading": "Seeker arrives in late-afternoon Feywild light; this is the local lighting state, not an adventure-clock reading.",
+      "evidence": [
+        {
+          "startUid": "u0015",
+          "endUid": "u0022",
+          "quote": "The sun sits low in the sky, late afternoon, bathing the landscape in a golden light, giving the place a timeless quality that you can't quite shake."
+        },
+        {
+          "startUid": "u0121",
+          "endUid": "u0127",
+          "quote": "the Feywild: the sun never moves. The sun doesn't move in time; the sun moves in space."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "time": {
+        "partOfDay": "late afternoon",
+        "precision": "approximate",
+        "basis": "Stated local lighting; the book explains that the Feywild sun stays fixed at a location."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0232",
+        "endUid": "u0253"
+      },
+      "reading": "The pixies’ laughter falls quiet for about a minute before they appear to Seeker.",
+      "evidence": [
+        {
+          "startUid": "u0232",
+          "endUid": "u0253",
+          "quote": "the laughter goes quiet for a minute"
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates a brief quiet interval before the pixies appear."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0282",
+        "endUid": "u0300"
+      },
+      "reading": "Seeker follows the pixies through the forest for about an hour as a dragonfly before reaching their court.",
+      "evidence": [
+        {
+          "startUid": "u0282",
+          "endUid": "u0300",
+          "quote": "you fly for maybe about an hour into the forest"
+        },
+        {
+          "startUid": "u0320",
+          "endUid": "u0326",
+          "quote": "suddenly turned back into Seeker, tumbling from the sky"
+        },
+        {
+          "startUid": "u0329",
+          "endUid": "u0329",
+          "quote": "DM: The court of the Chanceweaver. Where else?"
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM narrates approximately an hour of actual flight."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0337",
+        "endUid": "u0342"
+      },
+      "reading": "After the flight, Seeker is still in afternoon light, perhaps slightly more golden; displacement versus glamour remains unclear.",
+      "evidence": [
+        {
+          "startUid": "u0337",
+          "endUid": "u0338",
+          "quote": "Seeker: Um, there's a—I have traveled to the east into the afternoon?"
+        },
+        {
+          "startUid": "u0339",
+          "endUid": "u0342",
+          "quote": "DM: You've traveled maybe a little bit into the afternoon, but it's not really that different than where you landed. To be honest, it's hard to judge. It's still afternoon, maybe a little bit more golden, but whether that's because of um, whether that's the—you know, whether that's because of the atmosphere of this place and the, you know, just the fey glamour, or whether that's because you've actually moved far is hard to judge."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "DM explicitly describes local light on arrival; this is not a measured change in the adventure clock."
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0393",
+        "endUid": "u0407"
+      },
+      "reading": "The court falls silent and stares at Seeker for about a minute before the band resumes.",
+      "evidence": [
+        {
+          "startUid": "u0393",
+          "endUid": "u0407",
+          "quote": "the music stops, like everybody is just kind of staring for a minute."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM describes an approximate pause in the court’s revels."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0853",
+        "endUid": "u0860"
+      },
+      "reading": "Seeker spends an unmeasured stretch wandering towards the palace, eventually reaching its formal garden; he cannot tell whether days passed.",
+      "evidence": [
+        {
+          "startUid": "u0853",
+          "endUid": "u0860",
+          "quote": "You—you spend a while walking around"
+        },
+        {
+          "startUid": "u0853",
+          "endUid": "u0860",
+          "quote": "you have no idea how much time has passed. It could have been— it could have been days."
+        },
+        {
+          "startUid": "u0861",
+          "endUid": "u0869",
+          "quote": "eventually you find yourself in what is a much more formal garden"
+        },
+        {
+          "startUid": "u0870",
+          "endUid": "u0882",
+          "quote": "You don't fully remember the journey. You're not entirely sure how you got here."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "text": "an unmeasured while, possibly days",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "The DM explicitly leaves the elapsed wandering indeterminate; days are a possibility, not an established count."
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No campaign date or year is spoken. The absolute 1748-09-30–1748-10-03 dates come from YAML; afternoon describes stationary Feywild lighting.",
+    "expectedDateBoundaries": 3,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06"
+    ],
+    "explanation": "Opening departure and Seeker’s Feywild arrival lead through about an hour’s flight and brief pauses to unmeasured wandering that could have lasted days. That open interval can fit the YAML span, but establishes neither a total day count nor the closing date. Food stories, recharge rules and future hanging out add no played elapsed time."
+  }
+}
