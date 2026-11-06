@@ -1,0 +1,655 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-084",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-084/cleaned/dunmari-frontier-084-session.yaml",
+    "sessionYamlSha256": "e20c01cf92ba085e6c397ce7f7b2e1823233daa5eb6ee27ebd16649c71915db1",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-084/cleaned/dunmari-frontier-084-transcript.md",
+    "transcriptSha256": "2a38d552137525ee0ca91b96bb121d1f4e6ccbcffd650d16cf3d9e6a0aa61000"
+  },
+  "places": {
+    "p01": {
+      "label": "Tollen",
+      "kind": "city",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0003",
+          "quote": "in Tollen"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Tollen.md"
+    },
+    "p02": {
+      "label": "Vindristjarna",
+      "kind": "skyship",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0004",
+          "quote": "On the skyship Vindristjarna."
+        }
+      ],
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "mobile": true
+    },
+    "p03": {
+      "label": "garden at the center of the top of the ship",
+      "kind": "garden",
+      "evidence": [
+        {
+          "startUid": "u0039",
+          "endUid": "u0043",
+          "quote": "this little, little, slowly, slowly budding garden that's at the center of the top of the ship."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0039",
+              "endUid": "u0043",
+              "quote": "at the center of the top of the ship"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Seeker’s alcove",
+      "kind": "work area",
+      "evidence": [
+        {
+          "startUid": "u0047",
+          "endUid": "u0058",
+          "quote": "Seeker goes back to his just a little alcove containing phasing stones and his growing collection of craft materials and tools and magic items in various states of investigation and repair."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0002",
+              "endUid": "u0004",
+              "quote": "On the skyship Vindristjarna."
+            },
+            {
+              "startUid": "u0047",
+              "endUid": "u0058",
+              "quote": "Seeker goes back to his just a little alcove containing phasing stones and his growing collection of craft materials and tools and magic items in various states of investigation and repair."
+            }
+          ],
+          "note": "The alcove belongs to Seeker’s opening onboard vignette; its precise deck is not identified."
+        }
+      ]
+    },
+    "p05": {
+      "label": "map room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0080",
+          "endUid": "u0081",
+          "quote": "Wellby's in the map room and Baxter is in one corner"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1140",
+              "endUid": "u1143",
+              "quote": "Wellby's maps are fascinating, and his map room, a fascinating place to study the world."
+            },
+            {
+              "startUid": "u1148",
+              "endUid": "u1149",
+              "quote": "There's much about the ship that is fascinating"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Skepwalk",
+      "kind": "ward",
+      "evidence": [
+        {
+          "startUid": "u0305",
+          "endUid": "u0315",
+          "quote": "The Philosopher's Guild itself is in the the old, the oldest part of the city, the Skepwalk."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Wards/Skepwalk.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0304",
+              "endUid": "u0304",
+              "quote": "So, most of the guilds in Tollen"
+            },
+            {
+              "startUid": "u0305",
+              "endUid": "u0315",
+              "quote": "the oldest part of the city, the Skepwalk."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "quiet plaza outside the Guildhall",
+      "kind": "plaza",
+      "evidence": [
+        {
+          "startUid": "u0305",
+          "endUid": "u0315",
+          "quote": "you you come to this sort of minor plaza in Skepwalk"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0305",
+              "endUid": "u0315",
+              "quote": "you you come to this sort of minor plaza in Skepwalk"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Philosopher’s Guildhall",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0323",
+          "endUid": "u0328",
+          "quote": "The Guildhall itself is, unassuming, like a 4 story building"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0305",
+              "endUid": "u0315",
+              "quote": "The Philosopher's Guild itself is in the the old, the oldest part of the city, the Skepwalk."
+            }
+          ]
+        }
+      ],
+      "vaultPath": "Groups/Tollen Guilds/Ancient and Honorable Guild of Philosophers.md",
+      "note": "The link targets the guild’s institutional page, whose Guildhall section describes this building."
+    },
+    "p09": {
+      "label": "sitting room antechamber",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0323",
+          "endUid": "u0328",
+          "quote": "you can see that there's a brightly lit sitting room antechamber in here."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0323",
+              "endUid": "u0328",
+              "quote": "as you walk up the doors swing open without knocking or anything, and you can see that there's a brightly lit sitting room antechamber in here."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0004"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "The four travelers begin the New Year aboard Vindristjarna in Tollen.",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0003",
+          "quote": "as the sun rises on the New Year in Tollen"
+        },
+        {
+          "startUid": "u0004",
+          "endUid": "u0004",
+          "quote": "On the skyship Vindristjarna."
+        }
+      ],
+      "place": "p02",
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "in_locality_of",
+          "target": "p01"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0034",
+        "endUid": "u0043"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo tends and meditates in the top-deck garden.",
+      "evidence": [
+        {
+          "startUid": "u0034",
+          "endUid": "u0037",
+          "quote": "has been spending this morning in the garden."
+        },
+        {
+          "startUid": "u0039",
+          "endUid": "u0043",
+          "quote": "at the center of the top of the ship"
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0044",
+        "endUid": "u0058"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker plays and tinkers nearby, then returns to his alcove aboard the ship.",
+      "evidence": [
+        {
+          "startUid": "u0044",
+          "endUid": "u0046",
+          "quote": "Not far away from there"
+        },
+        {
+          "startUid": "u0047",
+          "endUid": "u0058",
+          "quote": "Seeker goes back to his just a little alcove"
+        }
+      ],
+      "place": "p04"
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u0060",
+        "endUid": "u0079"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath walks along the castle’s edges and sometimes climbs down its outer side.",
+      "evidence": [
+        {
+          "startUid": "u0060",
+          "endUid": "u0064",
+          "quote": "Delwath is also sort of hanging around on the edges of the of the castle"
+        },
+        {
+          "startUid": "u0065",
+          "endUid": "u0073",
+          "quote": "occasionally he'll like climb down the side of the ship a little bit"
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l05",
+      "type": "presence",
+      "source": {
+        "startUid": "u0080",
+        "endUid": "u0081"
+      },
+      "actors": [
+        "Wellby",
+        "Baxter"
+      ],
+      "reading": "Wellby works in the map room while Baxter naps there.",
+      "evidence": [
+        {
+          "startUid": "u0080",
+          "endUid": "u0081",
+          "quote": "Wellby's in the map room and Baxter is in one corner with his head tucked under a wing napping"
+        }
+      ],
+      "place": "p05"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0300",
+        "endUid": "u0322"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "The next morning the four PCs leave the ship, follow directions through Skepwalk and reach the quiet guild plaza.",
+      "evidence": [
+        {
+          "startUid": "u0300",
+          "endUid": "u0303",
+          "quote": "as you all exit the the ship, all bundled up"
+        },
+        {
+          "startUid": "u0305",
+          "endUid": "u0315",
+          "quote": "you you come to this sort of minor plaza in Skepwalk"
+        },
+        {
+          "startUid": "u0316",
+          "endUid": "u0322",
+          "quote": "when you when you step into the plaza"
+        }
+      ],
+      "from": "p02",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Follow directions through Skepwalk to the guild plaza.",
+          "place": "p06"
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0323",
+        "endUid": "u0344"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "The visitors enter the guild’s sitting antechamber and are greeted; Delios subsequently approaches all four.",
+      "evidence": [
+        {
+          "startUid": "u0329",
+          "endUid": "u0330",
+          "quote": "And as you enter"
+        },
+        {
+          "startUid": "u0337",
+          "endUid": "u0344",
+          "quote": "walks up to you, looking at the 4 of you"
+        }
+      ],
+      "from": "p07",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0949",
+        "endUid": "u0960"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "After the guild visit the four PCs return to the skyship and prepare to host dinner.",
+      "evidence": [
+        {
+          "startUid": "u0949",
+          "endUid": "u0960",
+          "quote": "So, hurry back to the skyship, and and sort of get set up, and—and you know, prepared to host him and settle in"
+        }
+      ],
+      "from": "p09",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l09",
+      "type": "presence",
+      "source": {
+        "startUid": "u0961",
+        "endUid": "u0976"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker",
+        "Melindir",
+        "Elwis"
+      ],
+      "reading": "Melindir and Elwis come aboard for the dinner visit.",
+      "evidence": [
+        {
+          "startUid": "u0961",
+          "endUid": "u0962",
+          "quote": "Melindir comes over"
+        },
+        {
+          "startUid": "u0965",
+          "endUid": "u0968",
+          "quote": "So they both come in. She's—she's a painter"
+        },
+        {
+          "startUid": "u0965",
+          "endUid": "u0968",
+          "quote": "They're both quite interested in the in the skyship"
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1185",
+        "endUid": "u1197"
+      },
+      "actors": [
+        "Ladder",
+        "Faldrak"
+      ],
+      "reading": "Ladder returns carrying Faldrak to the ship; Faldrak lands and greets Seeker.",
+      "evidence": [
+        {
+          "startUid": "u1185",
+          "endUid": "u1186",
+          "quote": "send the ladder to fetch Faldrak"
+        },
+        {
+          "startUid": "u1188",
+          "endUid": "u1192",
+          "quote": "as the ladder lands with this dwarf"
+        },
+        {
+          "startUid": "u1194",
+          "endUid": "u1196",
+          "quote": "He lands, and he limps up straight to Seeker"
+        }
+      ],
+      "from": null,
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l11",
+      "type": "presence",
+      "source": {
+        "startUid": "u1194",
+        "endUid": "u1211"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Kenzo",
+        "Faldrak"
+      ],
+      "reading": "Faldrak greets Seeker, Delwath steps out, and Kenzo joins their onboard breakfast negotiation.",
+      "evidence": [
+        {
+          "startUid": "u1194",
+          "endUid": "u1196",
+          "quote": "He lands, and he limps up straight to Seeker"
+        },
+        {
+          "startUid": "u1201",
+          "endUid": "u1201",
+          "quote": "Sort of step out, nod to him."
+        },
+        {
+          "startUid": "u1210",
+          "endUid": "u1210",
+          "quote": "Seeker is sadly misinformed."
+        },
+        {
+          "startUid": "u1552",
+          "endUid": "u1553",
+          "quote": "Right, you're staying here on the ship with us."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1292",
+        "endUid": "u1293"
+      },
+      "actors": [
+        "Faldrak"
+      ],
+      "reading": "Faldrak reports an earlier visit to the Philosophers this same morning to buy directions.",
+      "evidence": [
+        {
+          "startUid": "u1291",
+          "endUid": "u1291",
+          "quote": "if you trade magic items to the Philosopher's Guild, they will tell you information."
+        },
+        {
+          "startUid": "u1292",
+          "endUid": "u1293",
+          "quote": "early this morning I went over there and I gave it to them"
+        }
+      ],
+      "from": null,
+      "to": "p08",
+      "completion": "arrived",
+      "context": "reported"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1295",
+        "endUid": "u1303"
+      },
+      "actors": [
+        "Seeker",
+        "Faldrak"
+      ],
+      "reading": "Seeker escorts Faldrak down to the map room, where they locate the proposed destination on the map.",
+      "evidence": [
+        {
+          "startUid": "u1296",
+          "endUid": "u1298",
+          "quote": "You said you have a map room. It must be labeled up there, right?"
+        },
+        {
+          "startUid": "u1299",
+          "endUid": "u1299",
+          "quote": "Let me show you around a little bit. We go down to—"
+        },
+        {
+          "startUid": "u1300",
+          "endUid": "u1300",
+          "quote": "Yeah, okay, so it's right there, like, that's not that far, actually."
+        }
+      ],
+      "from": "p02",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "The endpoint is inferred from the request, accepted escort and resulting map reference; companions speaking afterward are not independently placed in the room."
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1591",
+        "endUid": "u1592"
+      },
+      "actors": [
+        "Seeker",
+        "Faldrak"
+      ],
+      "reading": "Seeker and Faldrak go off to work on his quarters somewhere aboard the ship.",
+      "evidence": [
+        {
+          "startUid": "u1585",
+          "endUid": "u1589",
+          "quote": "\"Guess I'll find a room. Make a room.\""
+        },
+        {
+          "startUid": "u1591",
+          "endUid": "u1592",
+          "quote": "Seeker and and him go off."
+        }
+      ],
+      "from": null,
+      "to": null,
+      "completion": "underway",
+      "note": "No specific quarters or workshop is identified; this is movement within the ship, not departure from Tollen."
+    }
+  ]
+}

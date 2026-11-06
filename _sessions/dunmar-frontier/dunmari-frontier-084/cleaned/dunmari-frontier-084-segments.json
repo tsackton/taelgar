@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-084",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-084/cleaned/dunmari-frontier-084-session.yaml",
+    "sessionYamlSha256": "e20c01cf92ba085e6c397ce7f7b2e1823233daa5eb6ee27ebd16649c71915db1",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-084/cleaned/dunmari-frontier-084-transcript.md",
+    "transcriptSha256": "2a38d552137525ee0ca91b96bb121d1f4e6ccbcffd650d16cf3d9e6a0aa61000"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0001"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0004"
+      },
+      "category": "gameplay",
+      "note": "The sunrise opening advances current play; the following calendar comparison is a separate non-advancing overview."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0005",
+        "endUid": "u0012"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0013",
+        "endUid": "u0081"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0082",
+        "endUid": "u0299"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0300",
+        "endUid": "u0771"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0772",
+        "endUid": "u0845"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0846",
+        "endUid": "u1173"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1174",
+        "endUid": "u1183"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1184",
+        "endUid": "u1590"
+      },
+      "category": "gameplay",
+      "note": "u1184 contains a brief mixed table exchange and the narrated sleep/next-morning transition; the group remains intact."
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1591",
+        "endUid": "u1805"
+      },
+      "category": "meta_discussion",
+      "note": "The inseparable u1591–u1592 turn ends the character exchange and opens the substantial out-of-character downtime planning."
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u1806",
+        "endUid": "u1813"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
