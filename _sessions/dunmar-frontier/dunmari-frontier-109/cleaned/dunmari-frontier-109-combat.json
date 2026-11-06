@@ -1,0 +1,982 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-109",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-session.yaml",
+    "sessionYamlSha256": "3cb847415bd9208455b54ab70231b68899be7ac547cea3489305c49c8124ca3b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-transcript.md",
+    "transcriptSha256": "bc3f08c9837ed8f1553993327bf05e5c45b979655630ae6d05ec31e11aa4d69b",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-segments.json",
+      "sha256": "de7edaedc65915254ec0b8438cefffca54cca800f2a2eb343cea08bd1e0dc92a",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s011",
+      "encounter": "Escape from the tower roof guardians",
+      "note": "The party leaves this initiative cycle through the roof hatch. The earlier dart volley precedes initiative; the pursuers enter a fresh initiative cycle at u2277.",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Acts first by agreement, uses the Chime of Opening to open the hatch, and jumps ten feet into the room below.",
+              "evidence": [
+                {
+                  "startUid": "u1540",
+                  "endUid": "u1556"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Soul Sight: the guardians are CR 13, immune to poison damage and charmed, exhaustion, frightened, paralyzed, petrified and poisoned; resistant to force, psychic and nonmagical bludgeoning, piercing and slashing; strong Strength/Constitution and weak Charisma. Uses Step of the Wind to carry Seeker down through the hatch.",
+              "evidence": [
+                {
+                  "startUid": "u1577",
+                  "endUid": "u1622"
+                },
+                {
+                  "startUid": "u1658",
+                  "endUid": "u1663"
+                }
+              ]
+            },
+            {
+              "actor": "Tower guardians",
+              "kind": "turn",
+              "summary": "Fire four darts at Delwath: three miss and one hits for 10 damage. Fly over and land beside him.",
+              "evidence": [
+                {
+                  "startUid": "u1665",
+                  "endUid": "u1702"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Runs down through the open hatch, following its escape command.",
+              "evidence": [
+                {
+                  "startUid": "u1707",
+                  "endUid": "u1708"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Disengages, climbs down, closes the hatch and hangs from it inside. The proposed spell if the guardians open it does not trigger.",
+              "evidence": [
+                {
+                  "startUid": "u1797",
+                  "endUid": "u1839"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The party is inside with the hatch closed. Both guardians remain active outside; this escape ends the recorded cycle, rather than defeating them.",
+        "evidence": [
+          {
+            "startUid": "u1830",
+            "endUid": "u1839"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s013",
+      "encounter": "Tower guardians pursue into the upper stairs",
+      "openingActions": [
+        {
+          "actor": "Delwath",
+          "kind": "event",
+          "summary": "Conjures shadowy lynxes on the stairs. Both guardians pass through the effect and succeed on Dexterity saves, taking no damage.",
+          "evidence": [
+            {
+              "startUid": "u2324",
+              "endUid": "u2353"
+            },
+            {
+              "startUid": "u2412",
+              "endUid": "u2424"
+            },
+            {
+              "startUid": "u3297",
+              "endUid": "u3301"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and attacks the front guardian with advantage for 29 damage. It fails the DC 18 Dexterity save and is blinded until the end of its next turn.",
+              "evidence": [
+                {
+                  "startUid": "u2430",
+                  "endUid": "u2482"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks the blinded front guardian with advantage: staff hits for 8 and 14, then three unarmed hits for 13, 14 and a critical 23 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2500",
+                  "endUid": "u2598"
+                }
+              ]
+            },
+            {
+              "actor": "Front guardian",
+              "kind": "turn",
+              "summary": "Attacks Ladder twice with disadvantage for 21 and 19 bludgeoning damage. The proposed push is withdrawn because Ladder is Large. Its blindness ends after this turn.",
+              "evidence": [
+                {
+                  "startUid": "u2608",
+                  "endUid": "u2637"
+                }
+              ]
+            },
+            {
+              "actor": "Rear guardian",
+              "kind": "turn",
+              "summary": "Fires two force darts at Ladder: one misses against its cover-adjusted AC 18, one hits for 17 force damage. Cannot advance through the front guardian.",
+              "evidence": [
+                {
+                  "startUid": "u2631",
+                  "endUid": "u2665"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Sanctuary on Ladder, requiring a DC 18 Wisdom save before attacking it. Sorcerous Burst acid is reflected by the guardian: its initial target Ladder is replaced by Kenzo because of Sanctuary. The guardian takes no damage.",
+              "evidence": [
+                {
+                  "startUid": "u2761",
+                  "endUid": "u2810"
+                },
+                {
+                  "startUid": "u2840",
+                  "endUid": "u2855"
+                },
+                {
+                  "startUid": "u3008",
+                  "endUid": "u3013"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the reflected 18 acid damage to zero; lets the acid splash on the wall instead of redirecting it toward Delwath.",
+              "evidence": [
+                {
+                  "startUid": "u2840",
+                  "endUid": "u2855"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Gives Kenzo Bardic Inspiration, becomes a medium dire bird with 68 temporary hit points, and maintains Animal Shapes.",
+              "evidence": [
+                {
+                  "startUid": "u2942",
+                  "endUid": "u2964"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Holds its blocking position without attacking, preserving Sanctuary.",
+              "evidence": [
+                {
+                  "startUid": "u2958",
+                  "endUid": "u3025"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Hits the front guardian for 26 damage; it fails its DC 18 Dexterity save and is blinded again. It is bloodied.",
+              "evidence": [
+                {
+                  "startUid": "u3029",
+                  "endUid": "u3051"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks with advantage: staff hits for 7 and 13, then three unarmed hits for 13, 13 and 15 damage.",
+              "evidence": [
+                {
+                  "startUid": "u3058",
+                  "endUid": "u3087"
+                }
+              ]
+            },
+            {
+              "actor": "Front guardian",
+              "kind": "turn",
+              "summary": "Attacks Kenzo with disadvantage. The first hit deals 20 bludgeoning, reduced to zero by his reaction. The second deals 23 bludgeoning and pushes him ten feet diagonally upward; his successful Constitution 14 save preserves flight.",
+              "evidence": [
+                {
+                  "startUid": "u3093",
+                  "endUid": "u3176"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the first punch to zero and tries to redirect it; the guardian succeeds on its DC 16 Dexterity save and takes no redirected damage.",
+              "evidence": [
+                {
+                  "startUid": "u3105",
+                  "endUid": "u3140"
+                }
+              ]
+            },
+            {
+              "actor": "Rear guardian",
+              "kind": "turn",
+              "summary": "Hits Kenzo with two force darts despite half cover. The combined damage is corrected from 20 to 28 force.",
+              "evidence": [
+                {
+                  "startUid": "u3180",
+                  "endUid": "u3217"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Drops between the guardians on the stairs. His first melee attack hits for 15; his second misses, including a Heroic Inspiration reroll; his third hits for 12. Banishing Smite adds 19 damage, but the guardian automatically succeeds on the Charisma save against banishment. Ends concentration on the ineffective Conjure Animals.",
+              "evidence": [
+                {
+                  "startUid": "u3242",
+                  "endUid": "u3367"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Uses Flyby to attack and return: first beak misses, second hits for 8 piercing damage, corrected from slashing.",
+              "evidence": [
+                {
+                  "startUid": "u3382",
+                  "endUid": "u3418"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Attacks with a 15 and misses.",
+              "evidence": [
+                {
+                  "startUid": "u3420",
+                  "endUid": "u3445"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots the rear guardian for 29 damage, ignoring cover with Sharpshooter. It fails the DC 18 Dexterity save and is blinded.",
+              "evidence": [
+                {
+                  "startUid": "u3452",
+                  "endUid": "u3466"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "His first staff attack, without advantage, deals 12 and destroys the front guardian. Flies over Delwath and lands behind the rear guardian on the stairs; attacks that blinded guardian with advantage for 14 staff damage and 12, 13 and 8 unarmed damage.",
+              "evidence": [
+                {
+                  "startUid": "u3481",
+                  "endUid": "u3551"
+                }
+              ]
+            },
+            {
+              "actor": "Rear guardian",
+              "kind": "turn",
+              "summary": "Attacks with disadvantage. Its 21 against Delwath is stopped by Shield; its 19 hits Kenzo for 29 bludgeoning damage, which he deflects completely.",
+              "evidence": [
+                {
+                  "startUid": "u3553",
+                  "endUid": "u3573"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Casts Shield for +5 AC, stopping the guardian’s attack against him.",
+              "evidence": [
+                {
+                  "startUid": "u3558",
+                  "endUid": "u3564"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Reduces 29 damage to zero with a 30-point deflection roll. Redirects the attack; the guardian fails its Dexterity save and takes 18 damage. The 30 is not damage.",
+              "evidence": [
+                {
+                  "startUid": "u3573",
+                  "endUid": "u3638"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hits the rear guardian for 12 and 14 damage; the third attack misses.",
+              "evidence": [
+                {
+                  "startUid": "u3651",
+                  "endUid": "u3671"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Makes two Flyby beak hits for 7 and 5 piercing damage, then returns.",
+              "evidence": [
+                {
+                  "startUid": "u3696",
+                  "endUid": "u3720"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Cannot reach the guardian because of its Large size and the stair positions; moves near Seeker.",
+              "evidence": [
+                {
+                  "startUid": "u3676",
+                  "endUid": "u3688"
+                },
+                {
+                  "startUid": "u3719",
+                  "endUid": "u3720"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses advantage to shoot the remaining guardian. Damage is corrected from 32 to 27 after correcting the bonus from +11 to +6. It fails its Dexterity save and is blinded.",
+              "evidence": [
+                {
+                  "startUid": "u3726",
+                  "endUid": "u3784"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "With advantage, hits with staff attacks for 8 and 16, then an unarmed critical announced as 8 and another unarmed hit for 11. No additional attack is resolved.",
+              "evidence": [
+                {
+                  "startUid": "u3789",
+                  "endUid": "u3808"
+                }
+              ],
+              "note": "Retains the announced critical damage rather than replacing its inconsistent spoken arithmetic."
+            },
+            {
+              "actor": "Rear guardian",
+              "kind": "turn",
+              "summary": "Attacks with disadvantage: its 17 against Delwath misses; its 28 hits Kenzo for 27 bludgeoning, fully deflected.",
+              "evidence": [
+                {
+                  "startUid": "u3813",
+                  "endUid": "u3846"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects 27 damage to zero with a 10+20 roll. The guardian fails its Dexterity save against the redirected attack and takes 24 damage.",
+              "evidence": [
+                {
+                  "startUid": "u3825",
+                  "endUid": "u3846"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Two hits deal a combined 28 damage, destroying the remaining guardian.",
+              "evidence": [
+                {
+                  "startUid": "u3859",
+                  "endUid": "u3874"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Both guardians crumble to dust and the tower becomes quiet.",
+        "evidence": [
+          {
+            "startUid": "u3871",
+            "endUid": "u3874"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c003",
+      "segmentId": "s017",
+      "encounter": "Void blade and force hands at the lower forge",
+      "openingActions": [
+        {
+          "actor": "Seeker",
+          "kind": "event",
+          "summary": "Resummons Ladder with a third-level slot; its full 85 hit points are accepted when its turn is checked.",
+          "evidence": [
+            {
+              "startUid": "u6652",
+              "endUid": "u6684"
+            },
+            {
+              "startUid": "u7144",
+              "endUid": "u7155"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Soul Sight on the blade: CR 24; immune to all conditions and poison, psychic and necrotic damage; no damage resistances; strong Constitution and weak Intelligence. Makes no attack and readies closing the door after Delwath’s spell and retreat.",
+              "evidence": [
+                {
+                  "startUid": "u6632",
+                  "endUid": "u6681"
+                },
+                {
+                  "startUid": "u6783",
+                  "endUid": "u6803"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Sickening Radiance in the forge, DC 19, and moves back out.",
+              "evidence": [
+                {
+                  "startUid": "u6818",
+                  "endUid": "u6826"
+                },
+                {
+                  "startUid": "u6889",
+                  "endUid": "u6894"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Closes the door after Delwath casts and retreats; this timing is explicitly allowed.",
+              "evidence": [
+                {
+                  "startUid": "u6783",
+                  "endUid": "u6803"
+                },
+                {
+                  "startUid": "u6828",
+                  "endUid": "u6833"
+                },
+                {
+                  "startUid": "u6889",
+                  "endUid": "u6894"
+                }
+              ]
+            },
+            {
+              "actor": "Void sword",
+              "kind": "turn",
+              "summary": "Succeeds on its Constitution save with 20 against Sickening Radiance and takes no damage. Phases through the closed door, hits Wellby for 27 force (reduced to 14), then Ladder for 20 force. Its position is corrected to between Wellby and Ladder.",
+              "evidence": [
+                {
+                  "startUid": "u6897",
+                  "endUid": "u6951"
+                },
+                {
+                  "startUid": "u6990",
+                  "endUid": "u6993"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge on the sword’s first hit; 14 damage is accepted.",
+              "evidence": [
+                {
+                  "startUid": "u6929",
+                  "endUid": "u6935"
+                }
+              ]
+            },
+            {
+              "actor": "Force hands",
+              "kind": "turn",
+              "summary": "One fails its Constitution save, takes 24 radiant damage and loses invisibility; the other succeeds with 19 and stays invisible. During Seeker’s later spell narration, the DM supplies their omitted actions here: one forces the door, knocking Wellby prone despite his Strength 20 with inspiration; the other attacks Wellby invisibly and misses AC 19.",
+              "evidence": [
+                {
+                  "startUid": "u6956",
+                  "endUid": "u6970"
+                },
+                {
+                  "startUid": "u7172",
+                  "endUid": "u7253"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Crawls twenty feet away while prone after the hands act. As a Small creature he can pass through the sword’s space; no opportunity attack occurs.",
+              "evidence": [
+                {
+                  "startUid": "u7290",
+                  "endUid": "u7305"
+                },
+                {
+                  "startUid": "u7477",
+                  "endUid": "u7481"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts sixth-level Psychic Disruption converted to fire: the blade fails its Intelligence save and takes 38 fire. A glove attack hits with 16 for another 12 fire, totaling 50. Incapacitation does not apply because of immunity. Retreats thirty feet.",
+              "evidence": [
+                {
+                  "startUid": "u7052",
+                  "endUid": "u7138"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Its Force Slam hits with 22 for 15 force damage.",
+              "evidence": [
+                {
+                  "startUid": "u7142",
+                  "endUid": "u7291"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Stands and shoots without advantage; a critical deals 86 damage and bloodies the sword. Retreats toward the storeroom.",
+              "evidence": [
+                {
+                  "startUid": "u7316",
+                  "endUid": "u7380"
+                }
+              ]
+            },
+            {
+              "actor": "Void sword",
+              "kind": "event",
+              "summary": "Takes its extra action, hitting Ladder for 19 damage, then moving past it to hit Seeker for 31 force.",
+              "evidence": [
+                {
+                  "startUid": "u7384",
+                  "endUid": "u7463"
+                }
+              ],
+              "note": "The source describes two actions per turn without identifying this as a legendary action. Ladder’s opportunity attack interrupts the movement before the hit on Seeker."
+            },
+            {
+              "actor": "Ladder",
+              "kind": "reaction",
+              "summary": "As the sword leaves its reach, hits it with an opportunity attack for 12 force damage, before the sword strikes Seeker.",
+              "evidence": [
+                {
+                  "startUid": "u7400",
+                  "endUid": "u7420"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Activates Lengau’s Claw for one minute, gaining fifteen-foot reach and an additional d6 force per attack. Makes five unarmed attacks with advantage, dealing 9, 15, 15, 13 and 17 damage, then retreats. These are fists, not staff attacks; no psychic Planar Power damage is added.",
+              "evidence": [
+                {
+                  "startUid": "u7531",
+                  "endUid": "u7668"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "event",
+              "summary": "Telepathically demands an explanation from the blade; it ignores him.",
+              "evidence": [
+                {
+                  "startUid": "u7821",
+                  "endUid": "u7827"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Quickens sixth-level Scatter to swap only himself and Seeker. Broader target proposals are withdrawn for visibility/range; no hand or Ladder is moved. Attacks with advantage: first melee hit deals 14, corrected from 12 after the reroll; second is a critical with Eldritch Smite for 55, shattering the sword into four daggers.",
+              "evidence": [
+                {
+                  "startUid": "u7844",
+                  "endUid": "u7876"
+                },
+                {
+                  "startUid": "u7901",
+                  "endUid": "u7946"
+                }
+              ],
+              "note": "The sword’s reaction below triggers after the first hit, before the critical second hit. No third attack resolves."
+            },
+            {
+              "actor": "Void sword",
+              "kind": "reaction",
+              "summary": "After Delwath’s first hit, attacks him with a 26 for 19 force damage. The proposed Shield would not stop it and is not cast. This happens before the sword shatters.",
+              "evidence": [
+                {
+                  "startUid": "u7913",
+                  "endUid": "u7922"
+                }
+              ]
+            },
+            {
+              "actor": "Four void daggers",
+              "kind": "turn",
+              "summary": "Each attacks Delwath once: rolls 20, 22, 17 and 26. Shield stops the 22; the 20 and 17 miss, while 26 still hits for 15 damage.",
+              "evidence": [
+                {
+                  "startUid": "u7948",
+                  "endUid": "u7968"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Casts Shield against the 22, raising his AC to 26; the later 26 still hits.",
+              "evidence": [
+                {
+                  "startUid": "u7954",
+                  "endUid": "u7958"
+                }
+              ]
+            },
+            {
+              "actor": "Force hands",
+              "kind": "turn",
+              "summary": "One succeeds on its Constitution save against Sickening Radiance; the other fails and takes 19 radiant, making both hands visible. The leading hand misses Ladder; the rear hand cannot pass it.",
+              "evidence": [
+                {
+                  "startUid": "u7973",
+                  "endUid": "u7998"
+                },
+                {
+                  "startUid": "u8483",
+                  "endUid": "u8486"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Slow on all four daggers, DC 18 Wisdom: three fail and the far one succeeds. Drops Animal Shapes, losing flight. Slowed daggers have half speed, -2 AC/Dexterity saves, no reactions, and only an action or bonus action with at most one attack.",
+              "evidence": [
+                {
+                  "startUid": "u8067",
+                  "endUid": "u8087"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Grapples the leading hand after its failed DC 17 Strength save. That hand cannot move and has disadvantage attacking targets other than Ladder.",
+              "evidence": [
+                {
+                  "startUid": "u8091",
+                  "endUid": "u8116"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and critically hits the unslowed dagger for 72 damage. It explodes and vanishes.",
+              "evidence": [
+                {
+                  "startUid": "u8125",
+                  "endUid": "u8184"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Keeps fifteen-foot reach, attacks without advantage and deals 14, 14, 9, 19 and 16 with five unarmed hits, destroying one slowed dagger.",
+              "evidence": [
+                {
+                  "startUid": "u8196",
+                  "endUid": "u8270"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hits another slowed dagger for 18, 15 and a critical 27 damage, destroying it. Does not use a smite.",
+              "evidence": [
+                {
+                  "startUid": "u8273",
+                  "endUid": "u8289"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining void dagger",
+              "kind": "turn",
+              "summary": "Makes its one slowed attack against Delwath; 20 misses AC 21.",
+              "evidence": [
+                {
+                  "startUid": "u8297",
+                  "endUid": "u8303"
+                }
+              ]
+            },
+            {
+              "actor": "Force hands",
+              "kind": "turn",
+              "summary": "The leading hand misses Ladder; the rear remains blocked behind it. Their accumulated radiance damage and exhaustion are confirmed later; the table discusses a -2 exhaustion penalty. No additional save roll or damage number is supplied this cycle.",
+              "evidence": [
+                {
+                  "startUid": "u8313",
+                  "endUid": "u8321"
+                },
+                {
+                  "startUid": "u8453",
+                  "endUid": "u8468"
+                },
+                {
+                  "startUid": "u8483",
+                  "endUid": "u8486"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts fifth-level Catapult at the last dagger. It succeeds on Dexterity with 23-2=21 against DC 18; the projectile hits the wall, doing no damage. Maintains Slow.",
+              "evidence": [
+                {
+                  "startUid": "u8336",
+                  "endUid": "u8362"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Attacks with 13 and misses; continues grappling the hand.",
+              "evidence": [
+                {
+                  "startUid": "u8365",
+                  "endUid": "u8378"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves toward the hall without an opportunity attack. His bow roll of 15 misses, but an inspiration reroll of 23 hits; advantage is also confirmed by the table. Expends the remaining flaming-bowstring charge for 48 combined damage; the hand has no fire protection. Target is corrected to the rear hand, which is destroyed.",
+              "evidence": [
+                {
+                  "startUid": "u8390",
+                  "endUid": "u8488"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks the last slowed dagger: hits for 14, misses, critically hits for 19, hits for 19, then initially misses the final attack. Seeker’s inspiration turns that last roll into a hit and the dagger is destroyed.",
+              "evidence": [
+                {
+                  "startUid": "u8494",
+                  "endUid": "u8576"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "event",
+              "summary": "Grants Kenzo inspiration during his final attack, enabling the killing hit.",
+              "evidence": [
+                {
+                  "startUid": "u8563",
+                  "endUid": "u8572"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Fires three cantrip beams at the remaining hand through Ladder’s +2 cover: two hit and one misses, for 6 combined damage.",
+              "evidence": [
+                {
+                  "startUid": "u8582",
+                  "endUid": "u8601"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining force hand",
+              "kind": "turn",
+              "summary": "Hits Ladder for 18 damage, pushes it ten feet and knocks it prone, breaking the grapple. Advances beside it.",
+              "evidence": [
+                {
+                  "startUid": "u8618",
+                  "endUid": "u8645"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Holds without taking an action.",
+              "evidence": [
+                {
+                  "startUid": "u8650",
+                  "endUid": "u8655"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Attacks with 16 and misses.",
+              "evidence": [
+                {
+                  "startUid": "u8656",
+                  "endUid": "u8659"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and shoots the final hand, destroying it. It had 22 hit points left; the final damage total is not announced.",
+              "evidence": [
+                {
+                  "startUid": "u8660",
+                  "endUid": "u8669"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All four daggers and both force hands are destroyed and the encounter ends.",
+        "evidence": [
+          {
+            "startUid": "u8660",
+            "endUid": "u8669"
+          }
+        ]
+      }
+    }
+  ]
+}

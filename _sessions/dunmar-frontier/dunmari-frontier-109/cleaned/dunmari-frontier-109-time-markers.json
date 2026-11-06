@@ -1,0 +1,647 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-109",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-session.yaml",
+    "sessionYamlSha256": "3cb847415bd9208455b54ab70231b68899be7ac547cea3489305c49c8124ca3b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-transcript.md",
+    "transcriptSha256": "bc3f08c9837ed8f1553993327bf05e5c45b979655630ae6d05ec31e11aa4d69b",
+    "yamlDates": {
+      "start": "1749-05-19",
+      "end": "1749-05-19"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0003"
+      },
+      "reading": "Play opens at sunrise on the mountain, after the party has long rested.",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0003",
+          "quote": "DM: So we pick up in the morning."
+        },
+        {
+          "startUid": "u0012",
+          "endUid": "u0016",
+          "quote": "Wellby: All right. Long rest?\n\nUnknown: Mm-hmm.\n\nDM: Yeah.\n\nWellby: Hm.\n\nDM: Reset your charges on things."
+        },
+        {
+          "startUid": "u0038",
+          "endUid": "u0043",
+          "quote": "DM: So from the peak of the mountain, you look out as the sun rises across the forests of the island below you. You can see from the mountain, from this perspective up here, especially in the morning light, that there's seven rivers that, like, run down and, and they actually, they do the reverse thing that rivers go. As they run down, they split into more and more smaller streams as they get towards the edge of the forest, and all of them stop at some point in these little pools."
+        }
+      ],
+      "time": {
+        "partOfDay": "sunrise",
+        "precision": "approximate",
+        "basis": "DM explicitly opens in the morning and describes the sun rising; the working May 19 date comes only from YAML."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0103",
+        "endUid": "u0104"
+      },
+      "reading": "The table returns to the dark evening before that long rest to resolve Seeker’s clairvoyance and Kenzo’s aura sensing.",
+      "evidence": [
+        {
+          "startUid": "u0103",
+          "endUid": "u0104",
+          "quote": "DM: Uh, you can discuss it. You have to roll... So before, we'll retcon back to before the long rest."
+        },
+        {
+          "startUid": "u0115",
+          "endUid": "u0115",
+          "quote": "Seeker: And this is, we're about to go to sleep."
+        },
+        {
+          "startUid": "u0122",
+          "endUid": "u0123",
+          "quote": "DM: Tower's too far. Tower's 15 miles away. Plus you can't see it in the dark."
+        },
+        {
+          "startUid": "u0128",
+          "endUid": "u0129",
+          "quote": "DM: Oh, that's true. Except you can't see it in the dark. You don't know it's there until you wake up in the morning."
+        },
+        {
+          "startUid": "u0140",
+          "endUid": "u0142",
+          "quote": "DM: Yeah, you can't do the tower simply because you don't know it exists until you wake up in the morning and see it in the sun.\n\nSeeker: It's, it's dark. Okay. Okay, I gotcha, I gotcha. So I'm expending-"
+        }
+      ],
+      "context": "flashback",
+      "time": {
+        "partOfDay": "night",
+        "relative": {
+          "relation": "before",
+          "reference": "t01"
+        },
+        "precision": "approximate",
+        "basis": "Explicit retcon before the rest preceding the opening sunrise."
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0391",
+        "endUid": "u0392"
+      },
+      "reading": "Narration resumes the opening morning after the intervening overnight long rest.",
+      "evidence": [
+        {
+          "startUid": "u0391",
+          "endUid": "u0392",
+          "quote": "DM: So in the morning, say goodbye to Dimitaur. Where do you wanna go?"
+        },
+        {
+          "startUid": "u0012",
+          "endUid": "u0016",
+          "quote": "Wellby: All right. Long rest?\n\nUnknown: Mm-hmm.\n\nDM: Yeah.\n\nWellby: Hm.\n\nDM: Reset your charges on things."
+        },
+        {
+          "startUid": "u0128",
+          "endUid": "u0129",
+          "quote": "DM: Oh, that's true. Except you can't see it in the dark. You don't know it's there until you wake up in the morning."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "relative": {
+          "relation": "after",
+          "reference": "t02"
+        },
+        "precision": "approximate",
+        "basis": "The night before the long rest is followed by the explicitly resumed morning."
+      },
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention; the dark-before-rest and morning-after-rest are independently established"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t01"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1005",
+        "endUid": "u1021"
+      },
+      "reading": "A couple of hours of the westward osprey flight pass before the party approaches the rugged terrain near the tower.",
+      "evidence": [
+        {
+          "startUid": "u0970",
+          "endUid": "u0976",
+          "quote": "DM: Okay. So you head, you fly west. Um, flying pretty fast as ospreys, uh, you quickly descend from the mountain to past the forest, uh, and come out into this sort of open plain about five or six miles between the forest and the edge of this sort of rocky terrain. You can see that there's two, again, there's these divine towers, the statues. Um, they both are, like, Apollyon's Tower is sort of placed equidistant between-"
+        },
+        {
+          "startUid": "u1005",
+          "endUid": "u1021",
+          "quote": "DM: Awesome. So, you know, a couple hours pass as you fly and find yourself now approaching the sort of upturned black rugged terrain about six miles from the tower. Um, you know, it's jagged rocks below you. You're, I mean, there's other birds around, right? So now you're close to, relatively close to the coast. They, they seem to be, I mean, they seem to avoid the tower, right? You don't see any birds flying around the tower, just kind of on the outskirts. And the further you fly towards the tower, the more oppressive the atmosphere feels. There's, it almost is difficult to even keep flying. The air feels thick. It doesn't stop you. You can, you're, you know, powerful adventurers. You can push through, but you can see why sort of normal birds would probably feel very dubious of this."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM narrates a couple of hours passing during actual flight"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1383",
+        "endUid": "u1388"
+      },
+      "reading": "Wellby’s rooftop hatch investigation takes a minute or two; Detect Magic is also completed during this interval.",
+      "evidence": [
+        {
+          "startUid": "u1331",
+          "endUid": "u1338",
+          "quote": "Delwath: Yeah. I guess it takes me a minute.\n\nDM: So it still takes you a minute.\n\nDelwath: Yeah, okay. Hmm. It's probably, he's investigating.\n\nDM: Well, Wellby's investigating, what's everybody else doing?\n\nDelwath: I'm gonna cast detect magic.\n\nDM: Okay."
+        },
+        {
+          "startUid": "u1383",
+          "endUid": "u1388",
+          "quote": "DM: Okay. Um, a, a minute or two passes as Wellby looks around. Um, you can see, so you do see a sort of re- recessed, like a faintly recessed area that looks like the way this is designed is it's not designed for you to be able to come from the outside. It's designed that you open it and there's like a, a little notch that it latches into, and it stays open while you're up, and then you close it when you come down. But if, if you're, it's not open, it's not designed to open from the top."
+        },
+        {
+          "startUid": "u1430",
+          "endUid": "u1431",
+          "quote": "Delwath: Has detect magic already been cast?\n\nDM: Yeah."
+        }
+      ],
+      "duration": {
+        "min": 1,
+        "minInclusive": true,
+        "max": 2,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM explicitly says a minute or two passes."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t10"
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1927",
+        "endUid": "u1930"
+      },
+      "reading": "About a minute passes while Seeker identifies the soul-binding manacles and the others inspect or guard the chamber.",
+      "evidence": [
+        {
+          "startUid": "u1897",
+          "endUid": "u1899",
+          "quote": "DM: Okay. Um, so Identify takes a minute to touch and, or cast, and you have to touch the thing you're identifying, just to let you know."
+        },
+        {
+          "startUid": "u1927",
+          "endUid": "u1930",
+          "quote": "DM: A, a, a minute or so passes. The-\n\nUnknown: Like-\n\nDM: ... it doesn't seem like anything's coming immediately from the top."
+        },
+        {
+          "startUid": "u1940",
+          "endUid": "u1942",
+          "quote": "DM: Um, while you are search- so you're searching, um, there does not... You, you're pretty confident that these, this top of the stairs is safe. But you do just about, as you finish like checking quickly, as Seeker's finishing off with identification, you hear what sounds like a door shutting below."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed identification time"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t10"
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u4227",
+        "endUid": "u4232"
+      },
+      "reading": "The mirror consultation darkens the ritual chamber for a minute and opens an earlier view from the manacles.",
+      "evidence": [
+        {
+          "startUid": "u4030",
+          "endUid": "u4033",
+          "quote": "DM: No, it just takes a few minutes. I mean, it takes you a couple minutes to get it out of the hole, right?\n\nUnknown: 10.\n\nDM: Probably takes 10 minutes all told to-"
+        },
+        {
+          "startUid": "u4227",
+          "endUid": "u4232",
+          "quote": "DM: So Kenzo takes out the mirror.\n\nSeeker: Nice.\n\nDM: And for a minute the room goes dark and you see, um, Apollyon with his back turned. Like, again, it's from the perspective of the manacles. Apollyon with his back turned, standing by the forge."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM narrates the room going dark for a minute"
+      },
+      "completion": "completed",
+      "note": "The earlier ten-minute estimate includes setup; it is not a separately confirmed ten-minute advance.",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t10"
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u4233",
+        "endUid": "u4237"
+      },
+      "reading": "The mirror shows an earlier human Apollyon; the vision later shifts from forging to sacrifices and then to preparing a potion.",
+      "evidence": [
+        {
+          "startUid": "u4233",
+          "endUid": "u4237",
+          "quote": "Kenzo: What does he look like? Is, is, he's a human right now.\n\nDM: He's a human right now.\n\nUnknown: Yeah.\n\nDM: He's, like, wearing, um, he's wearing the, the crown that you seen Fausto have, and he's wearing the cloak."
+        },
+        {
+          "startUid": "u4316",
+          "endUid": "u4324",
+          "quote": "DM: Yeah. And he's like tracing with his hand, and as he does, um, letters appear on this like thin sheet of this metal. And then he puts the dagger down and he like wraps the metal around it and he starts beating it again. This goes on for, you know, a while. It seems like he's just doing layer after layer where he's putting some spells on it and then beating something into the dagger. And then the scene shifts, and it seems some time later, and there is, um, like you can't quite... You can't see what it is, but there's clearly a person chained in the manacles. But your, your perspective is looking down-"
+        },
+        {
+          "startUid": "u4333",
+          "endUid": "u4343",
+          "quote": "DM: And it gets... It's drying out and it gets darker and thicker as it dries out. And the mirror shifts again, and you can see now Apollyon standing. The manacle's empty, and he is kneeling on the floor. The blood all dried except for in this very well in the very center, which now looks black, and he draws a clear vial, like a potion vial out from his, from his robes, and he begins... The, the, the gems in the crown, there's like shadow flowing out of the crown into the blood. It begins to swirl, and this sort of dark black viscous liquid floats up and pours itself into the vial, which he then stoppers. And Seeker recalls that the lore of liches is typically that they are... To become a lich you need to create a phylactery, and then you need to make a potion somehow, the rituals are not known, from involving somehow the souls of the people who fed your phylactery."
+        },
+        {
+          "startUid": "u4418",
+          "endUid": "u4423",
+          "quote": "Kenzo: Do we have any sense of when the... So he was 50 years old, so he w- this would've been like-\n\nDM: This was probably tw- close towards the end of his reign.\n\nUnknown: Okay.\n\nDM: Like not at the very last moment, but within the last 10 years.\n\nKenzo: Yeah, 'cause he was in civil war with Cha’mutte, or he was in conflict with Cha’mutte.\n\nDM: He, yeah, he was in conflict with Cha’mutte."
+        }
+      ],
+      "context": "vision",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "Apollyon’s lich transformation, within the last ten years of his reign according to the later clarification"
+        },
+        "precision": "approximate",
+        "basis": "Historical frame shown in the mirror and subsequently dated relative to his reign."
+      },
+      "note": "The vision’s internal intervals do not extend the adventure calendar."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u4389",
+        "endUid": "u4395"
+      },
+      "reading": "The party returns to present investigation of the tower after the mirror vision and considers how to find the dagger.",
+      "evidence": [
+        {
+          "startUid": "u4389",
+          "endUid": "u4397",
+          "quote": "Wellby: Have we ever seen this dagger before?\n\nDM: I mean, you've seen hundreds of daggers that look very similar to it, right? Like part of the... It's clear that part of the design is to make it look as uninteresting as possible.\n\nUnknown: Right.\n\nDM: It just looks like a normal dagger.\n\nSeeker: Well, 1,000 feet of stone sense would cover the entirety of the tower that we're in now. It's probably not here though."
+        },
+        {
+          "startUid": "u4426",
+          "endUid": "u4439",
+          "quote": "Seeker: I will use stone sense to-\n\nDM: Okay.\n\nSeeker: ... search for adamantine.\n\nDM: Okay. There are, there is adamantine. There's scraps of it on the floor in front of you. That's the only adamantine in the tower.\n\nUnknown: Yeah, that makes sense.\n\nUnknown: Wow.\n\nSeeker: Just verifying. Well, that was a good use of the mirror I think, everybody.\n\nUnknown: That was, that was-\n\nDM: Oh, yeah. Excellent. [laughs]\n\nKenzo: That, that was, that, that was one of the best.\n\nSeeker: We learned something absolutely crucial.\n\nKenzo: That was, that was, that was one of the most important uses ever."
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t07"
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u5410",
+        "endUid": "u5413"
+      },
+      "reading": "At the audience-chamber door, less than an hour has passed since the ladder was animated on the approach; later the DM estimates about an hour exploring the tower.",
+      "evidence": [
+        {
+          "startUid": "u5410",
+          "endUid": "u5413",
+          "quote": "Seeker: Uh, the, the ladder has gone back to sleep, I think. Oh, no, actually, it's been an hour.\n\nUnknown: It hasn't been an hour.\n\nDM: It hasn't been an hour."
+        },
+        {
+          "startUid": "u6164",
+          "endUid": "u6165",
+          "quote": "DM: It's taking you about an hour to explore I guess. Yeah, yeah, yeah. But you've got third level slots, right?"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "The later estimate retrospectively measures the tower exploration before the first short rest."
+      },
+      "completion": "completed",
+      "note": "The earlier “not an hour” corrects the proposed expiry at that earlier moment. The exploration includes the smaller investigation and mirror intervals, rather than adding another hour to each."
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u5701",
+        "endUid": "u5708"
+      },
+      "reading": "The skeletons die during Delwath’s Sickening Radiance while the party resolves Seeker’s possession; the full ten-minute spell need not elapse.",
+      "evidence": [
+        {
+          "startUid": "u5701",
+          "endUid": "u5708",
+          "quote": "DM: Ah, meanwhile, you hear the sounds of skeletons falling dead.\n\nKenzo: Oh, you were... You cast Sickening Radiance.\n\nDM: After you got hit, I assume-\n\nUnknown: Yeah.\n\nDM: ... you still cast the spell.\n\nDelwath: Yeah, I still cast it. Lasts for 10 minutes, I assume they just all die.\n\nDM: Yeah, yeah, they all die."
+        }
+      ],
+      "duration": {
+        "max": 10,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "The completed destruction occurs within a spell stated to last ten minutes; the source never says the full duration passes."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t10"
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u6152",
+        "endUid": "u6157"
+      },
+      "reading": "The party completes a short rest with Delwath’s biscuits and tea before returning to the lower door.",
+      "evidence": [
+        {
+          "startUid": "u6132",
+          "endUid": "u6141",
+          "quote": "DM: Are you gonna short, like, right here outside the door?\n\nUnknown: No, no, no, no, no, no. Let's-\n\nWellby: Back up in the throne room?\n\nKenzo: Let's go back into the throne room and, like- Yeah, where there's full of skeletons and stuff ...\n\nUnknown: With the dead bodies and stuff.\n\nWellby: Skeleton powder.\n\nDelwath: But it's powdered skeletons.\n\nUnknown: [laughs] Not that one.\n\nWellby: Oh, did they just disintegrate up?\n\nDM: Yeah. They kind of... That much radiant damage, I figure skeletons just kind of disintegrate."
+        },
+        {
+          "startUid": "u6152",
+          "endUid": "u6157",
+          "quote": "Wellby: [laughs] All right, short rest.\n\nDM: Let's short rest. Okay. Yeah, you can short rest.\n\nKenzo: Nice. So now we get hit dice or what's this how this works?\n\nUnknown: You can roll hit dice. How does that work?\n\nDM: Just D&D Beyond should handle it for you. Just, like, click short rest."
+        },
+        {
+          "startUid": "u6184",
+          "endUid": "u6199",
+          "quote": "Delwath: And Delwath is gonna cook a little... We're doing the short rest, we're gonna cook a little meal. Everybody gets heroic inspiration too.\n\nUnknown: Hell yeah.\n\nKenzo: All right. Nice. Focus points back up.\n\nUnknown: That's 10. Good as new.\n\nSeeker: Six, seven.\n\nKenzo: Best thing we've done all day. Yep. And now, and now we get the heroic things back again?\n\nDelwath: Yeah. You... Delwath makes some nice biscuits and tea.\n\nKenzo: Fucking love these biscuits, man. Heroic, heroic biscuits.\n\nDelwath: Delicious. Everybody ready?\n\nUnknown: Yep. Okay.\n\nDelwath: Ghostly gaze through the door.\n\nDM: So you go back down to the door, you ghostly gaze."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u9071",
+        "endUid": "u9078"
+      },
+      "reading": "The party spends a little time examining the etching workshop before continuing the forge investigation.",
+      "evidence": [
+        {
+          "startUid": "u9071",
+          "endUid": "u9078",
+          "quote": "DM: Okay. So the other room, like, you spend a little bit... You go in there and you spend a little time looking around. Like, the Seeker recognizes this is clearly, um, like, the wor- a workshop for, like, etching metal. There's, like, a ceramic basin, there's, like, acid. There's, um, there's, like, vials of different chemicals that you can pour on things, various ways that you could etch metal here.\n\nUnknown: Mm.\n\nDM: Nothing magical."
+        }
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u9836",
+        "endUid": "u9839"
+      },
+      "reading": "Seeker’s first hour deciphering the private notes ends at about four in the afternoon.",
+      "evidence": [
+        {
+          "startUid": "u9833",
+          "endUid": "u9839",
+          "quote": "DM: Um, how long are you willing to spend at this?\n\nSeeker: Oh, I'm, I'm... I mean, this potentially tells us the secrets of the forge.\n\nDM: It's like an hour and you're like, [sighs] \"I sort of think I'm piecing this together. Like, maybe if I had another hour or two.\"\n\nWellby: What time is it now?\n\nDM: Now it's, like, 4:00 in the afternoon."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "time": {
+        "clock": "16:00",
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "Explicit DM clock reading after the first hour."
+      },
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "DM explicitly advances an hour"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u9861",
+        "endUid": "u9862"
+      },
+      "reading": "A second hour of deciphering passes, reaching about five by the earlier four o’clock anchor.",
+      "evidence": [
+        {
+          "startUid": "u9861",
+          "endUid": "u9862",
+          "quote": "DM: Like, another hour. You're like, [sighs] \"I just need another hour.\"\n\nSeeker: Yeah. It's, I'm almost there. I'm starting to see the patterns."
+        },
+        {
+          "startUid": "u9838",
+          "endUid": "u9839",
+          "quote": "Wellby: What time is it now?\n\nDM: Now it's, like, 4:00 in the afternoon."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "time": {
+        "clock": "17:00",
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "One narrated hour after the explicit approximate 16:00 reading."
+      },
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "DM explicitly advances another hour"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u9863",
+        "endUid": "u9875"
+      },
+      "reading": "The third hour of deciphering finishes at about six; Seeker can now read the contents and the forge instructions.",
+      "evidence": [
+        {
+          "startUid": "u9863",
+          "endUid": "u9863",
+          "quote": "DM: Another hour."
+        },
+        {
+          "startUid": "u9868",
+          "endUid": "u9875",
+          "quote": "DM: ... 6:00. You've tr- you've pretty much figured it out. You're not sure you've got all the information, but you get the sort of... So there's a, like, you ha- like, there's a lot of notes here, and it's take some time. And you've managed to figure out, like, the, the way that the table of contents is ordered. So it's like, you know, how to become a lich, you know. Uh."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "time": {
+        "clock": "18:00",
+        "precision": "approximate",
+        "basis": "DM explicitly says six after the third hour."
+      },
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "DM explicitly advances the third hour"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u9864",
+        "endUid": "u9865"
+      },
+      "reading": "Wellby and Kenzo take short rests during Seeker’s deciphering, without an independently located hour within the three-hour study.",
+      "evidence": [
+        {
+          "startUid": "u9864",
+          "endUid": "u9865",
+          "quote": "Wellby: I'm gonna short rest while he's doing this.\n\nKenzo: Yeah, I'll short rest too."
+        },
+        {
+          "startUid": "u9868",
+          "endUid": "u9875",
+          "quote": "DM: ... 6:00. You've tr- you've pretty much figured it out. You're not sure you've got all the information, but you get the sort of... So there's a, like, you ha- like, there's a lot of notes here, and it's take some time. And you've managed to figure out, like, the, the way that the table of contents is ordered. So it's like, you know, how to become a lich, you know. Uh."
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Kenzo"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention; awarded during the already counted study"
+      },
+      "completion": "completed",
+      "time": {
+        "relative": {
+          "relation": "same_time",
+          "anchor": "An unspecified hour within Seeker’s three-hour study, ending about 18:00"
+        },
+        "precision": "approximate",
+        "basis": "The players explicitly rest while Seeker is doing the reading."
+      },
+      "note": "These parallel rests add no further adventure time."
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u10076",
+        "endUid": "u10085"
+      },
+      "reading": "At sunset, immediately corrected from “dark,” the party teleports back to Dimitaur at the Sibyl’s temple.",
+      "evidence": [
+        {
+          "startUid": "u10074",
+          "endUid": "u10085",
+          "quote": "DM: And you're leaving, teleporting back?\n\nUnknown: Yeah.\n\nDM: It's gotten dark. Sun... Well, it's not quite dark. The sun is setting.\n\nSeeker: So we teleport back to the temple of s- the Sibyl?\n\nUnknown: Yeah.\n\nDM: Where Dimitaur is?\n\nUnknown: Yeah.\n\nWellby: Yeah.\n\nSeeker: Yeah. Yeah.\n\nDM: Okay."
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM immediately corrects dark to the sun setting."
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No month, day, or year is independently spoken. Using the YAML opening morning of May 19, 1749 conditionally dates the played pre-rest flashback to May 18.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t18"
+    ],
+    "explanation": "The played night-to-morning sequence establishes one overnight, with subsequent play ending at sunset. A whole-covered-adventure start includes that earlier flashback; an opening-scene boundary convention retains the registered May 19–19 endpoints. The preserved timeline files acknowledge the May 18 flashback while choosing May 19 endpoints, but do not authorize a human decision here. This unresolved start-boundary convention prevents an exact match and does not contradict every reasonable reading. The closing proposal to sleep at u10246 establishes no additional overnight."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t01",
+        "t02",
+        "t03"
+      ],
+      "reading": "The pre-rest flashback is actually played, but the registered date range and timeline sidecars use the opening-morning boundary. Keep both conventions open for human review.",
+      "alternatives": [
+        {
+          "reading": "Whole covered adventure: include the earlier played night; May 18 is conditional on the YAML opening morning being May 19.",
+          "date": "1749-05-18"
+        },
+        {
+          "reading": "Opening-scene convention: retain May 19 as the session boundary, with the previous-night material explicitly marked as a flashback.",
+          "date": "1749-05-19"
+        }
+      ]
+    }
+  ]
+}
