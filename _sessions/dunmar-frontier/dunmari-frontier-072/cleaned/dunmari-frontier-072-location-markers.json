@@ -1,0 +1,631 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-072",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-072/cleaned/dunmari-frontier-072-session.yaml",
+    "sessionYamlSha256": "e8a77e36f8d7db1105a305a206e96fce87051c101a1e35eff4efb59e736baad3",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-072/cleaned/dunmari-frontier-072-transcript.md",
+    "transcriptSha256": "fa4df14551f7e7bc047d306c7ee5409d2399d5bddca7203af8164f0402c440e4"
+  },
+  "places": {
+    "p01": {
+      "label": "Camp beside the grounded skyship",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0006",
+          "endUid": "u0013",
+          "quote": "DM: As Hralgar returns from his hunt with a— like a brace of 3 antelope slung over his shoulder, and approaches a dry spot in the shelter of the— of the ruined, crashed, grounded skyship, and hands off the antelope to Delwath to begin cooking a late dinner, as he prepares to sit and talk with you all before vanishing into the storms, to explore Taelgar in a different form."
+        },
+        {
+          "startUid": "u0117",
+          "endUid": "u0121",
+          "quote": "DM: So as as you are all scattered across camp, Hralgar walks forward, and you can feel, Kenzo, in your meditation, Seeker in your fiddling with your books, Wellby with his eyes closed, Delwath cooking, Riswynn praying—you can feel the earth shake every time Hralgar steps. And at his full height is about 25–30 feet tall. Like nearly that. This—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0013",
+              "quote": "DM: So as the sun sets across the plains of Dunmar, and the storm that has lingered in this— this part of the north of the country disperses, the light of the setting sun illuminating the pools of mud and rivulets of water running across the land, caused by months and months of rainfall.\n\nDM: As Hralgar returns from his hunt with a— like a brace of 3 antelope slung over his shoulder, and approaches a dry spot in the shelter of the— of the ruined, crashed, grounded skyship, and hands off the antelope to Delwath to begin cooking a late dinner, as he prepares to sit and talk with you all before vanishing into the storms, to explore Taelgar in a different form."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0006",
+              "endUid": "u0013",
+              "quote": "DM: As Hralgar returns from his hunt with a— like a brace of 3 antelope slung over his shoulder, and approaches a dry spot in the shelter of the— of the ruined, crashed, grounded skyship, and hands off the antelope to Delwath to begin cooking a late dinner, as he prepares to sit and talk with you all before vanishing into the storms, to explore Taelgar in a different form."
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "Dunmar",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0005",
+          "quote": "DM: So as the sun sets across the plains of Dunmar, and the storm that has lingered in this— this part of the north of the country disperses, the light of the setting sun illuminating the pools of mud and rivulets of water running across the land, caused by months and months of rainfall."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Dunmar.md"
+    },
+    "p03": {
+      "label": "Vindristjarna, the Star of the Wind",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u0006",
+          "endUid": "u0013",
+          "quote": "DM: As Hralgar returns from his hunt with a— like a brace of 3 antelope slung over his shoulder, and approaches a dry spot in the shelter of the— of the ruined, crashed, grounded skyship, and hands off the antelope to Delwath to begin cooking a late dinner, as he prepares to sit and talk with you all before vanishing into the storms, to explore Taelgar in a different form."
+        },
+        {
+          "startUid": "u0491",
+          "endUid": "u0495",
+          "quote": "DM: Well, then, between the 3 of you I have full faith you will figure it out. You might also look while you're there. There's a little book, only four or five feet tall, half again as wide. Might be missing. If you can find it, it tells the story of Vindristjarna, the Star of the Wind, this ship that's crashed."
+        }
+      ],
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "note": "The ship is grounded in this session; its modern vault note also describes its later restoration. Camp is beside it, not an attestation that the party is aboard."
+    },
+    "p04": {
+      "label": "Hralgar’s palace",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0469",
+          "endUid": "u0476",
+          "quote": "DM: If you reach my palace, my former home, the— the lower floor of that building was once my library, and study. The light that shone through the skylights illuminating—it's quite pretty in the—when the morning snow fell in, twinkled in the light.\n\nDM: If you can find that place in the center of the library, there's a vast stone pillar stretching maybe 80 feet, going from top to bottom of the floor."
+        },
+        {
+          "startUid": "u1148",
+          "endUid": "u1159",
+          "quote": "DM: As the second hour approaches, you see— you can see ahead of you in in the distance a a familiar looking scene, the palace that you saw in the dream world, although in a somewhat ruined state, the roof gone, elaborate sculptures of ice dotting the landscape leading up the stairs, coated with what look like just sort of jagged spikes of ice, like like ice stalagmites, like reaching up from the stairs, of these pillars."
+        },
+        {
+          "startUid": "u1216",
+          "endUid": "u1219",
+          "quote": "DM: So this palace is built in the side of a mountain. So there's the stairs, go up, so there's the ground floor, and then below the ground floor is the library, but it's all carved into the mountain. So there's—\n\nDelwath: Okay, so it's like, it's like a, it's like a, it's on a big enough of a slope that it's basically a basement, but with full-scale windows.\n\nDM: Exactly."
+        }
+      ],
+      "vaultPath": "Gazetteer/Central Highlands/Hralgar's Palace.md",
+      "note": "The vault note identifies this mountain palace with the Sentinel Range. The transcript calls these the northern high mountains without naming the range; that vault-only orientation is not encoded as transcript containment."
+    },
+    "p05": {
+      "label": "Air above the palace approach",
+      "kind": "airspace",
+      "evidence": [
+        {
+          "startUid": "u1162",
+          "endUid": "u1186",
+          "quote": "DM: And you—but you can see the palace below you. So you can see the the layout is basically the stairs go off the mountains. They're covered in ice. The top of the stairs, you see the— you see the palace itself, this giant sized palace.\n\nDM: In the dream world, it had a roof, and there was this grand hall with huge columns. You never went further than the grand hall, but you could see there were more rooms in the back. Here, it instead seems as if the— the the roof is is basically gone. There are still these pillars sticking up, but many of them are cracked about halfway up. Halfway up would be about 40 feet or so, 30 feet. Everything is still a giant scale, right? It's, you know, huge.\n\nDM: And and there's definitely just this chill aura in the air as you approach.\n\nSeeker: Is there anything that looks like that central pillar?\n\nDM: A— no. So the way that he described the layout is like, at least historic—like when he created this palace, there was all straight—there was the entryway that had this like grand hall. Then there was like a stair that went up, and on the upper floor there was like the living space for Hralgar. And then there were stairs that went down, and on the bottom floor there was like skylights car—carved into the side of the mountain to let light into this library that was bottom floor.\n\nDM: As far as you can tell, the main floor is intact. You. You do see stairs that go down, although there seems to be shadows that are almost bubbling up from the stairs below, like like almost like night is spilling out of the basement. But it's probably still intact. You don't see any cracks in the floor. You do see, and you're still far away, right? You're still a few 1,000 feet in the air. So you're looking at this for maybe a half a mile distance, and you can't really make out people or anything. If—well, you could make out giants if there were any giants there. Don't seem to be any giants here. I mean the— so these this stairs that go down into the library at least seem to be intact. As just the upper floor that has been destroyed, the top floor above the main level that's been destroyed."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1162",
+              "endUid": "u1163",
+              "quote": "DM: And you—but you can see the palace below you. So you can see the the layout is basically the stairs go off the mountains. They're covered in ice. The top of the stairs, you see the— you see the palace itself, this giant sized palace."
+            },
+            {
+              "startUid": "u1181",
+              "endUid": "u1186",
+              "quote": "DM: As far as you can tell, the main floor is intact. You. You do see stairs that go down, although there seems to be shadows that are almost bubbling up from the stairs below, like like almost like night is spilling out of the basement. But it's probably still intact. You don't see any cracks in the floor. You do see, and you're still far away, right? You're still a few 1,000 feet in the air. So you're looking at this for maybe a half a mile distance, and you can't really make out people or anything. If—well, you could make out giants if there were any giants there. Don't seem to be any giants here. I mean the— so these this stairs that go down into the library at least seem to be intact. As just the upper floor that has been destroyed, the top floor above the main level that's been destroyed."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Landing below the main entrance",
+      "kind": "mountainside",
+      "evidence": [
+        {
+          "startUid": "u1269",
+          "endUid": "u1275",
+          "quote": "DM: So you slowly condense into 5 shivering humanoids in the freezing cold, about a 100 feet from the— from the entrance, from the like main entrance to the main floor. That's what you mean?\n\nSeeker: Sure, yeah.\n\nRiswynn: From the main entrance.\n\nDM: Okay."
+        },
+        {
+          "startUid": "u1375",
+          "endUid": "u1379",
+          "quote": "DM: Maybe 60 or 80 feet. They're down—they're down these steps, maybe a 100 feet. They're down these steps that are tricky to climb because they're both slippery and giant, and you're sort of peeking up from the top top step just looking over into this. So everybody else is substantially below the level of this woman's eyesight."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1269",
+              "endUid": "u1275",
+              "quote": "DM: So you slowly condense into 5 shivering humanoids in the freezing cold, about a 100 feet from the— from the entrance, from the like main entrance to the main floor. That's what you mean?\n\nSeeker: Sure, yeah.\n\nRiswynn: From the main entrance.\n\nDM: Okay."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Ruined main hall and entrance steps",
+      "kind": "hall",
+      "evidence": [
+        {
+          "startUid": "u1164",
+          "endUid": "u1171",
+          "quote": "DM: In the dream world, it had a roof, and there was this grand hall with huge columns. You never went further than the grand hall, but you could see there were more rooms in the back. Here, it instead seems as if the— the the roof is is basically gone. There are still these pillars sticking up, but many of them are cracked about halfway up. Halfway up would be about 40 feet or so, 30 feet. Everything is still a giant scale, right? It's, you know, huge."
+        },
+        {
+          "startUid": "u1202",
+          "endUid": "u1205",
+          "quote": "DM: The upper floor—the ground floor, rather, the upper floor is is destroyed. There is— so the like the open area, the like greeting hall, the place where you sat in Hralgar's dreams and spoke with him, is just completely exposed to the elements, and and there's all these like twisting sort of like ice, just kind of sticking off everything like rime that forms when you know, up in the mountains, the wind blows just forming these like fans sticking out of the ruined pillars and things like that."
+        },
+        {
+          "startUid": "u1333",
+          "endUid": "u1336",
+          "quote": "DM: Wellby, as you creep up the stairs and come to the sort of top entrance to this— to this first sort of main place, and you can see about 50 feet across the the icy stone."
+        },
+        {
+          "startUid": "u1487",
+          "endUid": "u1489",
+          "quote": "DM: There's like stairs that go down. And there's like—this is like where the shadow is coming up from these stairs. There's like darkness bubbling up from those stairs. Then the big, the like big main stairs that that go up are like are like here coming up."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1176",
+              "endUid": "u1186",
+              "quote": "DM: A— no. So the way that he described the layout is like, at least historic—like when he created this palace, there was all straight—there was the entryway that had this like grand hall. Then there was like a stair that went up, and on the upper floor there was like the living space for Hralgar. And then there were stairs that went down, and on the bottom floor there was like skylights car—carved into the side of the mountain to let light into this library that was bottom floor.\n\nDM: As far as you can tell, the main floor is intact. You. You do see stairs that go down, although there seems to be shadows that are almost bubbling up from the stairs below, like like almost like night is spilling out of the basement. But it's probably still intact. You don't see any cracks in the floor. You do see, and you're still far away, right? You're still a few 1,000 feet in the air. So you're looking at this for maybe a half a mile distance, and you can't really make out people or anything. If—well, you could make out giants if there were any giants there. Don't seem to be any giants here. I mean the— so these this stairs that go down into the library at least seem to be intact. As just the upper floor that has been destroyed, the top floor above the main level that's been destroyed."
+            },
+            {
+              "startUid": "u1202",
+              "endUid": "u1205",
+              "quote": "DM: The upper floor—the ground floor, rather, the upper floor is is destroyed. There is— so the like the open area, the like greeting hall, the place where you sat in Hralgar's dreams and spoke with him, is just completely exposed to the elements, and and there's all these like twisting sort of like ice, just kind of sticking off everything like rime that forms when you know, up in the mountains, the wind blows just forming these like fans sticking out of the ruined pillars and things like that."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Ice enclosure at the back of the main hall",
+      "kind": "structure",
+      "evidence": [
+        {
+          "startUid": "u1206",
+          "endUid": "u1211",
+          "quote": "DM: Further back. You know, beyond this sort of entrance hall, there is almost what looks like a roof of ice that's that's formed like a sheet of ice on top of some of these ruined pillars. That's the sheet of ice is maybe 25–30 feet off the ground, forming almost like an ice enclosure in the back of this main pillar, this main hall."
+        },
+        {
+          "startUid": "u1337",
+          "endUid": "u1340",
+          "quote": "DM: You can see now underneath where this sheet of ice was, into this sort of ice structure in the back. And there's some one pacing back and forth."
+        },
+        {
+          "startUid": "u1483",
+          "endUid": "u1503",
+          "quote": "DM: There's like the sort of icy structure that sort of curves in like this. Right? And then like over here,\n\nDM: There's like stairs that go down. And there's like—this is like where the shadow is coming up from these stairs. There's like darkness bubbling up from those stairs. Then the big, the like big main stairs that that go up are like are like here coming up.\n\nSeeker: Hmm.\n\nDM: And then there's like these pillars that are all about like 30, 40 feet tall that are broken off. And then there's also pillars, that sort of form the supports of this ice structure.\n\nDM: And then the—what? The woman who is pacing around—oops— who's pacing around is is like right there right now, but she'll like occasionally walk past this entrance and seems to be. And it seems to be like concentrating, like she's not—so Kenzo kind of was like sneaking across to like, you know, somewhere like that, right somewhere like over by one of these pillars. Wellby can also is also maybe I don't know if you're also sneaking closer, and everybody else is like back here at the stairs. That roughly right?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1206",
+              "endUid": "u1211",
+              "quote": "DM: Further back. You know, beyond this sort of entrance hall, there is almost what looks like a roof of ice that's that's formed like a sheet of ice on top of some of these ruined pillars. That's the sheet of ice is maybe 25–30 feet off the ground, forming almost like an ice enclosure in the back of this main pillar, this main hall."
+            },
+            {
+              "startUid": "u1483",
+              "endUid": "u1503",
+              "quote": "DM: There's like the sort of icy structure that sort of curves in like this. Right? And then like over here,\n\nDM: There's like stairs that go down. And there's like—this is like where the shadow is coming up from these stairs. There's like darkness bubbling up from those stairs. Then the big, the like big main stairs that that go up are like are like here coming up.\n\nSeeker: Hmm.\n\nDM: And then there's like these pillars that are all about like 30, 40 feet tall that are broken off. And then there's also pillars, that sort of form the supports of this ice structure.\n\nDM: And then the—what? The woman who is pacing around—oops— who's pacing around is is like right there right now, but she'll like occasionally walk past this entrance and seems to be. And it seems to be like concentrating, like she's not—so Kenzo kind of was like sneaking across to like, you know, somewhere like that, right somewhere like over by one of these pillars. Wellby can also is also maybe I don't know if you're also sneaking closer, and everybody else is like back here at the stairs. That roughly right?"
+            }
+          ]
+        }
+      ],
+      "note": "Observed from the hall; the negotiation and fight do not establish a separate party entry into the enclosure."
+    },
+    "p09": {
+      "label": "Lower library under the main floor",
+      "kind": "library",
+      "evidence": [
+        {
+          "startUid": "u1176",
+          "endUid": "u1190",
+          "quote": "DM: A— no. So the way that he described the layout is like, at least historic—like when he created this palace, there was all straight—there was the entryway that had this like grand hall. Then there was like a stair that went up, and on the upper floor there was like the living space for Hralgar. And then there were stairs that went down, and on the bottom floor there was like skylights car—carved into the side of the mountain to let light into this library that was bottom floor.\n\nDM: As far as you can tell, the main floor is intact. You. You do see stairs that go down, although there seems to be shadows that are almost bubbling up from the stairs below, like like almost like night is spilling out of the basement. But it's probably still intact. You don't see any cracks in the floor. You do see, and you're still far away, right? You're still a few 1,000 feet in the air. So you're looking at this for maybe a half a mile distance, and you can't really make out people or anything. If—well, you could make out giants if there were any giants there. Don't seem to be any giants here. I mean the— so these this stairs that go down into the library at least seem to be intact. As just the upper floor that has been destroyed, the top floor above the main level that's been destroyed.\n\nDM: But it seems dark, like there's there's dark, almost like dark clouds that seem to be like almost dripping down from where these skylights are carved into to the side of the mountain.\n\nSeeker: And you can't see anything from this distance, anyway, of this—\n\nDM: Lower level library."
+        },
+        {
+          "startUid": "u1216",
+          "endUid": "u1219",
+          "quote": "DM: So this palace is built in the side of a mountain. So there's the stairs, go up, so there's the ground floor, and then below the ground floor is the library, but it's all carved into the mountain. So there's—\n\nDelwath: Okay, so it's like, it's like a, it's like a, it's on a big enough of a slope that it's basically a basement, but with full-scale windows.\n\nDM: Exactly."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1216",
+              "endUid": "u1219",
+              "quote": "DM: So this palace is built in the side of a mountain. So there's the stairs, go up, so there's the ground floor, and then below the ground floor is the library, but it's all carved into the mountain. So there's—\n\nDelwath: Okay, so it's like, it's like a, it's like a, it's on a big enough of a slope that it's basically a basement, but with full-scale windows.\n\nDM: Exactly."
+            }
+          ]
+        }
+      ],
+      "note": "The party sees shadow spilling from its stairs and windows, but does not descend in this session."
+    },
+    "p10": {
+      "label": "Student’s temporary room in the book vision",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0956",
+          "endUid": "u0972",
+          "quote": "DM: Okay. So you you hold up, you hold up the book to the mirror, and for for a moment the mirror fades to black, and then you see, appearing in an image, the face of a young woman, maybe 17–18, blonde hair tied back, sort of gray, gray brown eyes, sort of tan skin, wearing what look like pretty elegant clothes.\n\nDM: She seems to be looking—sitting at a desk, looking down. But you, like your perspective, is looking up at her face as if you're on the desk, and she seems—she seems almost maybe to be a student, like the this—this looks like a like a pretty spare, you know, it has that sort of dorm room vibe a little bit, right? Like, there's a desk. There's a bed. There's not a lot of other— you know. This is a this is a temporary living space."
+        }
+      ],
+      "note": "Unknown historical place seen through the book’s mirror vision; its country and era remain unidentified."
+    },
+    "p11": {
+      "label": "Elegant chamber in the book vision",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1005",
+          "endUid": "u1015",
+          "quote": "DM: And you are in a much more elegant room, a— still, still, you know, just like a stone chamber, but there's a stained glass window that's casting a multicolored, multihued light across the room. There's a tapestry hanging up that spans, you know, a large section of one wall next to the stained glass window, that seems to be depicting a scene of ships sailing across a stormy sea, like lightning and and fire shooting off out from the ships as if by magic. And some great black armada, like dark sails chasing after them, with like lightning in the background, and storms and waves. And just this sort of chaotic battle scene, that like naval battle scene.\n\nDM: And there is, you know, like a candelabra of gold, with with candles in it, casting—not lit because you have the sunlight, but everything about this room seems seems elegant, although it's not a room you recognize."
+        }
+      ],
+      "note": "A second historical image. No geographical link to the first room is established."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0013"
+      },
+      "actors": [
+        "party",
+        "Hralgar",
+        "Baxter"
+      ],
+      "reading": "The party camps beside the grounded skyship in the northern plains of Dunmar; Hralgar returns from hunting and sits with them.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0013",
+          "quote": "DM: So as the sun sets across the plains of Dunmar, and the storm that has lingered in this— this part of the north of the country disperses, the light of the setting sun illuminating the pools of mud and rivulets of water running across the land, caused by months and months of rainfall.\n\nDM: As Hralgar returns from his hunt with a— like a brace of 3 antelope slung over his shoulder, and approaches a dry spot in the shelter of the— of the ruined, crashed, grounded skyship, and hands off the antelope to Delwath to begin cooking a late dinner, as he prepares to sit and talk with you all before vanishing into the storms, to explore Taelgar in a different form."
+        },
+        {
+          "startUid": "u0066",
+          "endUid": "u0072",
+          "quote": "Wellby: Wellby's sitting leaning back against Baxter, sort of being a a makeshift [garbled] behind him. And almost all the time that we've traveled together, you've known Wellby as like this creature of habit, that every night, almost every night, he'll unpack all of his belongings. He'll check every arrow and resharpen it again, and so he's got that laid out in front of him, the bag."
+        },
+        {
+          "startUid": "u0117",
+          "endUid": "u0121",
+          "quote": "DM: So as as you are all scattered across camp, Hralgar walks forward, and you can feel, Kenzo, in your meditation, Seeker in your fiddling with your books, Wellby with his eyes closed, Delwath cooking, Riswynn praying—you can feel the earth shake every time Hralgar steps. And at his full height is about 25–30 feet tall. Like nearly that. This—"
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "within",
+          "target": "p02",
+          "note": "Grounded ship at this session’s camp; no enduring geographic parent is assigned to the vessel."
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0956",
+        "endUid": "u0972"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The mirror shows a young woman studying the handbook in a spare temporary room, without moving the observers from camp.",
+      "evidence": [
+        {
+          "startUid": "u0932",
+          "endUid": "u0936",
+          "quote": "DM: So take out the mirror before you transform into clouds.\n\nSeeker: Yeah, and hauled out the book.\n\nDM: Wondering, \"How is the how are the words of this book hidden and revealed?\""
+        },
+        {
+          "startUid": "u0956",
+          "endUid": "u1002",
+          "quote": "DM: Okay. So you you hold up, you hold up the book to the mirror, and for for a moment the mirror fades to black, and then you see, appearing in an image, the face of a young woman, maybe 17–18, blonde hair tied back, sort of gray, gray brown eyes, sort of tan skin, wearing what look like pretty elegant clothes.\n\nDM: She seems to be looking—sitting at a desk, looking down. But you, like your perspective, is looking up at her face as if you're on the desk, and she seems—she seems almost maybe to be a student, like the this—this looks like a like a pretty spare, you know, it has that sort of dorm room vibe a little bit, right? Like, there's a desk. There's a bed. There's not a lot of other— you know. This is a this is a temporary living space.\n\nKenzo: Any any any indication of like period of history, based on clothing, furniture?\n\nDM: Hard to tell at— None of you are really fashion experts. It it it seems it's like not—it's foreign. It's either archaic or far away, right? It's not like you know the current Chardonian garb or anything.\n\nKenzo: Got it. It was hard to know, really.\n\nDM: And and she has like a a quill, and you know it looks like there's sort of papers spread out, and she turns, turns a page. And then begins chanting some sort of incantation, and then her hand reaches down and makes a streak across—like it looks like it's a streak, like right across the surface of the mirror.\n\nSeeker: Hmm!\n\nDM: After whatever incantation that she chanted was. And that is just as if you're watching somebody studying, like, you know, the the quill comes out. It's like, you know, just taking notes or something. She's sort of flipping, turning pages. As the pages turn, you can see those words on them. And then.\n\nDM: This time seems to pass in this sort of indeterminate way until she glances up, and like looks like there was a knock at the door. There was some noise in the distance or something, and she—\n\nDM: So she says another incantation, some other magic, like you don't quite know what it is, but something magic, and makes another sort of symbol, like almost like this in front of the book, and then quickly it's as if you're— you know, your— you're like jumbled with a whole bunch of stuff tossed into a bag, right? Like the perspective, as if you're the book. It's like you're picked up with notes and quills and everything just sort of quickly shoved into shoved into a pouch, and then everything's dark."
+        }
+      ],
+      "place": "p10",
+      "mode": "vision",
+      "observerPlace": "p01",
+      "observedActors": [
+        "Young blonde student"
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u1003",
+        "endUid": "u1025"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The book’s mirror vision changes to an elegant chamber where someone writes with an unusual quill and silvery ink.",
+      "evidence": [
+        {
+          "startUid": "u1003",
+          "endUid": "u1033",
+          "quote": "DM: And then the scene flashes.\n\nDM: And you are in a much more elegant room, a— still, still, you know, just like a stone chamber, but there's a stained glass window that's casting a multicolored, multihued light across the room. There's a tapestry hanging up that spans, you know, a large section of one wall next to the stained glass window, that seems to be depicting a scene of ships sailing across a stormy sea, like lightning and and fire shooting off out from the ships as if by magic. And some great black armada, like dark sails chasing after them, with like lightning in the background, and storms and waves. And just this sort of chaotic battle scene, that like naval battle scene.\n\nDM: And there is, you know, like a candelabra of gold, with with candles in it, casting—not lit because you have the sunlight, but everything about this room seems seems elegant, although it's not a room you recognize.\n\nDM: And somebody is writing in the book with a quill. But the quill itself almost seems to be it—it looks so—it's not like just a bird feather, right? It it looks like you don't quite. You can't quite tell what it is, but like it's the quill of some strange creature, or something like a hippogriff feather or something or something. This is not like just the feather of a goose, or something like that. It's got like almost like threads of like actual silver running through some of the feathers.\n\nDM: And as this as this— as this quill gets written— as this quill is writing, it's— you know that person will go dip in this this well of like silvery ink, and everything that's written vanishes immediately in the book. And then the mirror goes black.\n\nSeeker: Hmm. The second part was its creation, perhaps?\n\nDM: Probably.\n\nSeeker: Episodes in the mirror go generally backwards in time?\n\nDM: Historically gone backwards, right? Almost always go backwards. When you see more than one scene, it almost always goes backwards.\n\nSeeker: And so the student was revealing the contents with a combination of a spell or incantation, and writing in the book.\n\nDM: The student wasn't, writing in the book, was writing notes next to the book. Revealing the contents of the book with some kind of spell."
+        }
+      ],
+      "place": "p11",
+      "mode": "vision",
+      "observerPlace": "p01",
+      "observedActors": [
+        "Unidentified writer"
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u1134",
+        "endUid": "u1159"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Transform into clouds, fly north from the skyship through foothills and snowy peaks, and land about a hundred feet below the palace’s main entrance.",
+      "evidence": [
+        {
+          "startUid": "u1134",
+          "endUid": "u1159",
+          "quote": "DM: You spend a minute and you feel yourself slowly becoming wispy and insubstantial and floating up into the sky, and you you find that even with just a just a slight thought, you can change the way you blow across the landscape as you drift higher and higher and higher, a few 100 feet, 1,000 feet, 2,000 feet up in the sky, and you begin just kind of blowing across the land, heading north into the mountains, following the directions that Hralgar gave you to get to his palace. And it takes you—unless you're like pushing real hard to like run, in which case you need to make saves to avoid becoming tired, but assuming you're going at a comfortably fast pace, but not exhausting yourself—\n\nDM: Takes you a couple hours. Over the course of the first hour, you sort of see yourself drifting—what you see below, the the landscape becoming hillier. And you become—you start to come to the foothills of the mountains. You begin to blow up into the higher elevations, drifting, or really not so much drifting as as blowing on the wind, the wind that you find you can control. Okay.\n\nDM: You blow higher and higher and it becomes snowy and cold. You can see—you're—you're passing now into the like high peaks, the the inhospitable mountains where even in—where late November is the depths of winter, as you drift higher and higher into these sharp, jagged peaks.\n\nDM: As the second hour approaches, you see— you can see ahead of you in in the distance a a familiar looking scene, the palace that you saw in the dream world, although in a somewhat ruined state, the roof gone, elaborate sculptures of ice dotting the landscape leading up the stairs, coated with what look like just sort of jagged spikes of ice, like like ice stalagmites, like reaching up from the stairs, of these pillars."
+        },
+        {
+          "startUid": "u1269",
+          "endUid": "u1275",
+          "quote": "DM: So you slowly condense into 5 shivering humanoids in the freezing cold, about a 100 feet from the— from the entrance, from the like main entrance to the main floor. That's what you mean?\n\nSeeker: Sure, yeah.\n\nRiswynn: From the main entrance.\n\nDM: Okay."
+        }
+      ],
+      "from": "p01",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "cloud flight",
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated couple-hour journey; later accepted landing establishes arrival."
+      },
+      "route": [
+        {
+          "reading": "Pass north into foothills, then climb into snowy high peaks."
+        },
+        {
+          "reading": "Approach the palace from a few thousand feet above it.",
+          "place": "p05"
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u1162",
+        "endUid": "u1190"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "While still airborne above and away from the palace, observe its ruined main hall and dark lower-library openings.",
+      "evidence": [
+        {
+          "startUid": "u1162",
+          "endUid": "u1190",
+          "quote": "DM: And you—but you can see the palace below you. So you can see the the layout is basically the stairs go off the mountains. They're covered in ice. The top of the stairs, you see the— you see the palace itself, this giant sized palace.\n\nDM: In the dream world, it had a roof, and there was this grand hall with huge columns. You never went further than the grand hall, but you could see there were more rooms in the back. Here, it instead seems as if the— the the roof is is basically gone. There are still these pillars sticking up, but many of them are cracked about halfway up. Halfway up would be about 40 feet or so, 30 feet. Everything is still a giant scale, right? It's, you know, huge.\n\nDM: And and there's definitely just this chill aura in the air as you approach.\n\nSeeker: Is there anything that looks like that central pillar?\n\nDM: A— no. So the way that he described the layout is like, at least historic—like when he created this palace, there was all straight—there was the entryway that had this like grand hall. Then there was like a stair that went up, and on the upper floor there was like the living space for Hralgar. And then there were stairs that went down, and on the bottom floor there was like skylights car—carved into the side of the mountain to let light into this library that was bottom floor.\n\nDM: As far as you can tell, the main floor is intact. You. You do see stairs that go down, although there seems to be shadows that are almost bubbling up from the stairs below, like like almost like night is spilling out of the basement. But it's probably still intact. You don't see any cracks in the floor. You do see, and you're still far away, right? You're still a few 1,000 feet in the air. So you're looking at this for maybe a half a mile distance, and you can't really make out people or anything. If—well, you could make out giants if there were any giants there. Don't seem to be any giants here. I mean the— so these this stairs that go down into the library at least seem to be intact. As just the upper floor that has been destroyed, the top floor above the main level that's been destroyed.\n\nDM: But it seems dark, like there's there's dark, almost like dark clouds that seem to be like almost dripping down from where these skylights are carved into to the side of the mountain.\n\nSeeker: And you can't see anything from this distance, anyway, of this—\n\nDM: Lower level library."
+        },
+        {
+          "startUid": "u1194",
+          "endUid": "u1211",
+          "quote": "DM: So you drift a little bit closer, still as clouds, sort of drifting lower down to the mountainside.\n\nDM: You can see a few more details. One is, you can see a— So there are 3 large windows that are basically carved out of the side of the mountain. But there is— there is like a black shadow that's spilling out of them almost like a purely opaque cloud of darkness.\n\nDM: The upper floor—the ground floor, rather, the upper floor is is destroyed. There is— so the like the open area, the like greeting hall, the place where you sat in Hralgar's dreams and spoke with him, is just completely exposed to the elements, and and there's all these like twisting sort of like ice, just kind of sticking off everything like rime that forms when you know, up in the mountains, the wind blows just forming these like fans sticking out of the ruined pillars and things like that.\n\nDM: Further back. You know, beyond this sort of entrance hall, there is almost what looks like a roof of ice that's that's formed like a sheet of ice on top of some of these ruined pillars. That's the sheet of ice is maybe 25–30 feet off the ground, forming almost like an ice enclosure in the back of this main pillar, this main hall."
+        }
+      ],
+      "place": "p09",
+      "mode": "local",
+      "observerPlace": "p05",
+      "note": "The stairs and windows, not the interior contents, are visible. This is not entry into the lower library."
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1278",
+        "endUid": "u1279"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby scouts up the icy entrance steps to the lip of the main hall, while the rest stay below.",
+      "evidence": [
+        {
+          "startUid": "u1278",
+          "endUid": "u1279",
+          "quote": "Wellby: Wellby will head towards the entrance. Okay, take a close close look around as he goes."
+        },
+        {
+          "startUid": "u1333",
+          "endUid": "u1364",
+          "quote": "DM: Wellby, as you creep up the stairs and come to the sort of top entrance to this— to this first sort of main place, and you can see about 50 feet across the the icy stone.\n\nDM: You can see now underneath where this sheet of ice was, into this sort of ice structure in the back. And there's some one pacing back and forth.\n\nDM: A woman maybe, wearing— like it, almost like coming off of her body, are all of these like icicles, basically like long spikes of ice.\n\nDM: She's wearing like a a crown almost. But it's made of ice, and it seems to be fused in with her head. And there's like a whole like complicated sort of ice, like— icicle formation sort of coming out of her head. Her skin is is— pale blue.\n\nDM: She's maybe 10 feet tall, and she's she's pacing back and forth, and and and everywhere she steps you can see, like you can almost see the intense cold that's radiating off of her footsteps. And and every now and then she's looking looking sort of off in the distance, not seeing you, but just kind of staring out, and she seems to be concentrating on something.\n\nKenzo: Evil magic spells.\n\nDM: What exactly is not entirely clear, but she'll [garbled]. She'll gaze off in the distance occasionally, and then, and then resume pacing, and and every now and then it's just pacing. You'll see sort of almost a little bit of sort of snow flurries around her head.\n\nWellby: I'll relay this back to everyone telepathically. What what do we know about—is this an ice giant? Do we know? Do I know what this is?\n\nDM: It's too small to be any kind of giant. You don't really know what this is. Nothing. It's not like a common sort of creature that you recognize."
+        },
+        {
+          "startUid": "u1375",
+          "endUid": "u1379",
+          "quote": "DM: Maybe 60 or 80 feet. They're down—they're down these steps, maybe a 100 feet. They're down these steps that are tricky to climb because they're both slippery and giant, and you're sort of peeking up from the top top step just looking over into this. So everybody else is substantially below the level of this woman's eyesight."
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "sneak"
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u1337",
+        "endUid": "u1364"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "From the top step, Wellby observes the ice-crowned woman pacing inside the ice enclosure at the back of the hall.",
+      "evidence": [
+        {
+          "startUid": "u1337",
+          "endUid": "u1364",
+          "quote": "DM: You can see now underneath where this sheet of ice was, into this sort of ice structure in the back. And there's some one pacing back and forth.\n\nDM: A woman maybe, wearing— like it, almost like coming off of her body, are all of these like icicles, basically like long spikes of ice.\n\nDM: She's wearing like a a crown almost. But it's made of ice, and it seems to be fused in with her head. And there's like a whole like complicated sort of ice, like— icicle formation sort of coming out of her head. Her skin is is— pale blue.\n\nDM: She's maybe 10 feet tall, and she's she's pacing back and forth, and and and everywhere she steps you can see, like you can almost see the intense cold that's radiating off of her footsteps. And and every now and then she's looking looking sort of off in the distance, not seeing you, but just kind of staring out, and she seems to be concentrating on something.\n\nKenzo: Evil magic spells.\n\nDM: What exactly is not entirely clear, but she'll [garbled]. She'll gaze off in the distance occasionally, and then, and then resume pacing, and and every now and then it's just pacing. You'll see sort of almost a little bit of sort of snow flurries around her head.\n\nWellby: I'll relay this back to everyone telepathically. What what do we know about—is this an ice giant? Do we know? Do I know what this is?\n\nDM: It's too small to be any kind of giant. You don't really know what this is. Nothing. It's not like a common sort of creature that you recognize."
+        },
+        {
+          "startUid": "u1370",
+          "endUid": "u1380",
+          "quote": "DM: Definitely not a prison. I mean, it doesn't look very hospit—it doesn't look very homely to you, but like there's a there's an entry way that this woman could walk out of. It's not like she's trapped here, right? It seems to be— I I mean, it looks to you like a structure of her own creation.\n\nWellby: And then how far away is she for me right now? How far is—how far into the structure is she?\n\nDM: 80 feet.\n\nWellby: And how how far am I from the rest of the party at this point?\n\nDM: Maybe 60 or 80 feet. They're down—they're down these steps, maybe a 100 feet. They're down these steps that are tricky to climb because they're both slippery and giant, and you're sort of peeking up from the top top step just looking over into this. So everybody else is substantially below the level of this woman's eyesight.\n\nDelwath: She's in the icy part. Not the dark cloudy part. Right?\n\nDM: Exactly. Yeah.\n\nDelwath: Okay."
+        }
+      ],
+      "place": "p08",
+      "mode": "local",
+      "observerPlace": "p07",
+      "observedActors": [
+        "Ice-crowned woman"
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1459",
+        "endUid": "u1473"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "Kenzo and Wellby move across the hall toward pillars near the ice enclosure; the other three remain near the entrance stairs.",
+      "evidence": [
+        {
+          "startUid": "u1459",
+          "endUid": "u1473",
+          "quote": "Delwath: All right, I'll cast it. We're all invisible.\n\nKenzo: Perfect.\n\nDelwath: And everybody except Wellby.\n\nKenzo: Kenzo will get within range and Soul Sight, Tim.\n\nDM: Okay, make a Stealth check.\n\nKenzo: Plus 9, nice.\n\nDM: What was—sorry, what was call as— Kenzo's Stealth check? Where did that go?\n\nKenzo: 27, 27, Stealthy as a motherfucker!\n\nRiswynn: So are we all Stealth checking?\n\nDM: Yes.\n\nSeeker: Think stealthy, Seeker, think stealthy, so stealthy.\n\nDelwath: Not so stealthy, but we're also invisible, so like.\n\nSeeker: And.\n\nKenzo: Shivering a little bit, but also I'm the only one that's getting like really close, so everybody else is like [garbled] the stairs, right? We're not—everybody is coming up the top of the stairs."
+        },
+        {
+          "startUid": "u1494",
+          "endUid": "u1505",
+          "quote": "DM: And then the—what? The woman who is pacing around—oops— who's pacing around is is like right there right now, but she'll like occasionally walk past this entrance and seems to be. And it seems to be like concentrating, like she's not—so Kenzo kind of was like sneaking across to like, you know, somewhere like that, right somewhere like over by one of these pillars. Wellby can also is also maybe I don't know if you're also sneaking closer, and everybody else is like back here at the stairs. That roughly right?\n\nWellby: Yeah, I'll be somewhere on the right, so I can have a clear shot if I need it. But I want to be like behind this pillar.\n\nDelwath: Well, here, why don't you just here?"
+        },
+        {
+          "startUid": "u1512",
+          "endUid": "u1517",
+          "quote": "DM: So so as you're all sort of moving into position. You know, she— she looks up. She seems she's sort of walking in this direction, and she turns, and she sort of starts moving towards the door as Kenzo Soul Sights. Here we need— actually, this is pretty good for now."
+        }
+      ],
+      "from": null,
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "sneak",
+      "note": "Kenzo joins from the lower approach; Wellby is already at the top step. The marker records their established forward hall positions rather than a shared starting position."
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1606",
+        "endUid": "u1640"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath advances into the main hall, moving as he speaks invisibly to the ice-crowned woman.",
+      "evidence": [
+        {
+          "startUid": "u1606",
+          "endUid": "u1621",
+          "quote": "Delwath: I am going to use Minor Illusion to speak. Nothing says that you can't change what you say, so it's— sounds like you could just use it to cast your voice from somewhere else. Yeah.\n\nDelwath: Okay. So let me just look at the map for a minute. Is there any? What's the weather like?\n\nDM: Bitterly cold and cloudy. There seems to be like off to the west somewhere. The clouds are darker. There is like, maybe a storm blowing past.\n\nDelwath: Okay, so, but it's not snowing at the moment here. It's the range of—what was the range of Minor Illusion? It's 30 feet there. They, she— So I'll just like take a few steps like here, so that I can make an illusion, basically a—so the voice coming from here, like right in front.\n\nDM: But if you cast minor illusion you will no longer be invisible. Is it any spell? Is it any spell?\n\nDelwath: Yeah, I thought it was only if you attacked.\n\nDM: If you cast a spell or attack—Minor Illusion, that or—Invisibility ends.\n\nDelwath: Oh, I don't want to cast a spell and become visible again. That defeats the whole purpose of casting invisible. A—"
+        },
+        {
+          "startUid": "u1633",
+          "endUid": "u1649",
+          "quote": "Delwath: I mean. I could just talk to her right. That's the thing basically—you talk to her. If she shoots some ice at you, we shoot some fire at her. I mean, I'm—so I can talk to her invisibly, right? There's no reason to become visible. Yeah, yeah, right? Yeah, fine. I will not. I will just. I will. Just. I'll move over here-ish, so I'm not like right next to anybody.\n\nRiswynn: Thank you.\n\nDelwath: And I will call out, and I'll move around as I'm talking to her so it's not like I'm always in one spot or anything like that. And I will call out.\n\nDelwath: And I will say that we've been sent by the wind. We've traveled here in a cloud at the behest of the owner of this place. Hralgar, to recover a lost item, and I'll ask if she'll grant us passage to search, and we will leave her in peace.\n\nDelwath: But I'll try and play up the like— we were sent by it, like I try and be mysterious, and play it up a bit, moving around, like every time you say a sentence, I'll move sort of around in a pattern, but it's hard to pinpoint exactly where I am."
+        }
+      ],
+      "from": null,
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l10",
+      "type": "presence",
+      "source": {
+        "startUid": "u2319",
+        "endUid": "u2338"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The encounter ends in the ruined palace hall; the party rests there before any descent into the dark lower level.",
+      "evidence": [
+        {
+          "startUid": "u2319",
+          "endUid": "u2324",
+          "quote": "DM: The ice right through the center cracks, and the this like shard falls, splits in half, and the 2 sides fall to the ground, and as they land, falling to the ground, they begin to melt as well, and in this like intense cold that is near Kenzo fades. It's still winter, right? It's still quite cold as she—as this like icy heart just cracks in 2 and begins to just scatter as shards across the ground."
+        },
+        {
+          "startUid": "u2334",
+          "endUid": "u2338",
+          "quote": "DM: So as she cracks in half, and silence falls over the— over this ice palace, we will end there, before descending into the step down into the darkness next session, and I'll just assume that you can all take a short rest, so we can roll that now, so you don't forget about it."
+        },
+        {
+          "startUid": "u2357",
+          "endUid": "u2360",
+          "quote": "DM: Normally it would be quite difficult to rest. I'm gonna say that instead of the the plus 2 to— instead of getting plus 2 per hit die that you would normally get from from Delwath, right? Okay, meal, it instead cancels out the disadvantages of trying to rest in the cold."
+        },
+        {
+          "startUid": "u2366",
+          "endUid": "u2366",
+          "quote": "Kenzo: I'm gonna use the rest of my hit dice because I still need way more.\n\nSeeker: My my strategy of bravely standing over by the entrance."
+        }
+      ],
+      "place": "p07"
+    }
+  ]
+}

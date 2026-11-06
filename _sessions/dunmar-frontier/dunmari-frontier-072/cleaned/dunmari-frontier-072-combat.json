@@ -1,0 +1,298 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-072",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-072/cleaned/dunmari-frontier-072-session.yaml",
+    "sessionYamlSha256": "e8a77e36f8d7db1105a305a206e96fce87051c101a1e35eff4efb59e736baad3",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-072/cleaned/dunmari-frontier-072-transcript.md",
+    "transcriptSha256": "fa4df14551f7e7bc047d306c7ee5409d2399d5bddca7203af8164f0402c440e4",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-072/cleaned/dunmari-frontier-072-segments.json",
+      "sha256": "6490cba164df858e66ba2d9fd8d980616dbb43059ea71e6448f26710211c26d5",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s009",
+      "encounter": "Ice-crowned woman in Hralgar’s ruined palace",
+      "openingActions": [
+        {
+          "actor": "Wellby",
+          "kind": "turn",
+          "summary": "Attacks from hiding with advantage, spending all four Flaming Bowstring charges. The arrow hits for a stated 22 damage plus 14 fire against her fire-vulnerable woman form; he then moves behind cover and hides again. The table corrects that he was hidden, not invisible.",
+          "evidence": [
+            {
+              "startUid": "u1777",
+              "endUid": "u1798"
+            }
+          ]
+        },
+        {
+          "actor": "Kenzo",
+          "kind": "turn",
+          "summary": "Rushes over the slippery difficult terrain and becomes visible. His staff attack initially misses at 15, then Seeker’s d10 Inspiration turns it into a hit; the table places that strike before the planar fist. The staff deals a stated 15, with Seeker’s rune adding a burst of thunder. Soul Strike is invoked, without a separately stated psychic total. Fist of Planar Power forces a failed Strength save, deals 14 damage and slides her 20 feet beside Delwath. Two Flurry attacks hit for 6 and a critical 15, leaving her badly wounded.",
+          "evidence": [
+            {
+              "startUid": "u1799",
+              "endUid": "u1867"
+            }
+          ],
+          "note": "The thunder burst is described as 2d10, but its resolved total is not spoken. The retroactive staff-before-fist correction is applied once."
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Banishing Smite and attacks with advantage for a confirmed 44 damage, collapsing the icy woman into a crystalline-heart second form. The table rules that transformation precedes any banishment threshold; the heart remains in the fight. A second sword attack is declared, but no roll or result is recorded.",
+              "evidence": [
+                {
+                  "startUid": "u1877",
+                  "endUid": "u1935"
+                }
+              ]
+            },
+            {
+              "actor": "Ice-crowned woman / crystalline heart",
+              "kind": "legendary_action",
+              "summary": "After Delwath’s turn, creates an intensely cold aura in a 10-foot radius.",
+              "evidence": [
+                {
+                  "startUid": "u1936",
+                  "endUid": "u1945"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots from hiding: 27 hits the crystalline heart for 23 damage. Moves and hides again.",
+              "evidence": [
+                {
+                  "startUid": "u1946",
+                  "endUid": "u1954"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker’s summoned fey",
+              "kind": "turn",
+              "summary": "Moves across difficult terrain and teleports 30 feet to reach the heart. Its shortsword attack misses at 13; charm immunity prevents its mirthful feature.",
+              "evidence": [
+                {
+                  "startUid": "u1966",
+                  "endUid": "u1987"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Uses one glove charge to change a fifth-level Psychic Lance into fire. The heart is no longer fire-vulnerable. Its Intelligence save of 16 initially fails, but legendary resistance changes it to a success: the previously stated 25 fire damage is revised to half damage and no incapacitation.",
+              "evidence": [
+                {
+                  "startUid": "u1988",
+                  "endUid": "u2011"
+                },
+                {
+                  "startUid": "u2180",
+                  "endUid": "u2186"
+                }
+              ],
+              "note": "The final numeric damage is not restated after legendary resistance; the correction is retained without inventing a total."
+            },
+            {
+              "actor": "Ice-crowned woman / crystalline heart",
+              "kind": "legendary_action",
+              "summary": "Uses its last legendary action to fire a cold beam at Delwath before Riswynn acts.",
+              "evidence": [
+                {
+                  "startUid": "u2012",
+                  "endUid": "u2017"
+                }
+              ],
+              "note": "No hit, miss or damage result is stated for this beam."
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves about 10 feet over the ice and sends a 10-foot-radius, 40-foot-high cylinder of fire onto the heart. It fails its Dexterity save at 9 and takes 29 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2027",
+                  "endUid": "u2042"
+                }
+              ]
+            },
+            {
+              "actor": "Ice-crowned woman / crystalline heart",
+              "kind": "turn",
+              "summary": "At the start of its turn the cold aura deals 20 cold to Delwath and the summoned fey. Fires frost beams: 15 misses Delwath; 20 hits Kenzo for 9 cold. Forms a heavily obscuring blizzard within 30 feet. The table uses straight attacks within it because unseen-attacker and defender modifiers cancel, and disadvantage from outside. The earlier flaming-arrow effect ended when the woman form melted.",
+              "evidence": [
+                {
+                  "startUid": "u2041",
+                  "endUid": "u2070"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Marks the heart with Yezali’s Mark and lands two sword strikes for 11 and 17 damage. A later correction adds 8 damage from the mark to those strikes.",
+              "evidence": [
+                {
+                  "startUid": "u2071",
+                  "endUid": "u2087"
+                },
+                {
+                  "startUid": "u2187",
+                  "endUid": "u2187"
+                }
+              ]
+            },
+            {
+              "actor": "Ice-crowned woman / crystalline heart",
+              "kind": "legendary_action",
+              "summary": "At the end of Delwath’s turn, renews the intensely cold aura around itself.",
+              "evidence": [
+                {
+                  "startUid": "u2085",
+                  "endUid": "u2087"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Cannot safely place Wall of Fire through the blizzard without risking Delwath, so instead dashes carefully closer across the icy difficult terrain.",
+              "evidence": [
+                {
+                  "startUid": "u2088",
+                  "endUid": "u2123"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Attacks from hiding, canceling the blizzard’s disadvantage to a straight attack. Uses the clockwork amulet for an 18, which misses; the proposed Inspiration is disallowed on that fixed amulet result.",
+              "evidence": [
+                {
+                  "startUid": "u2124",
+                  "endUid": "u2150"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker’s summoned fey",
+              "kind": "turn",
+              "summary": "Attacks with modifiers canceling to a straight roll, critically hits with its shortsword and deals the table’s stated 14 damage, with piercing and force components.",
+              "evidence": [
+                {
+                  "startUid": "u2151",
+                  "endUid": "u2162"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Cannot target the unseen, unnamed heart with another Psychic Lance. Instead casts Erupting Earth; placement scatters, catches the fey and makes it vanish. The heart fails its Dexterity save and takes 24 bludgeoning damage, leaving disrupted difficult terrain.",
+              "evidence": [
+                {
+                  "startUid": "u2163",
+                  "endUid": "u2186"
+                },
+                {
+                  "startUid": "u2188",
+                  "endUid": "u2206"
+                },
+                {
+                  "startUid": "u2223",
+                  "endUid": "u2229"
+                }
+              ]
+            },
+            {
+              "actor": "Ice-crowned woman / crystalline heart",
+              "kind": "legendary_action",
+              "summary": "Teleports at the end of Seeker’s turn, taking its 30-foot-radius blizzard with it. Wellby is on its edge; Seeker remains outside.",
+              "evidence": [
+                {
+                  "startUid": "u2207",
+                  "endUid": "u2222"
+                },
+                {
+                  "startUid": "u2275",
+                  "endUid": "u2276"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attempts Fist of Planar Power, but the heart’s natural-20 Strength save totals 15 and succeeds: it takes 6 damage, with no forced movement. A staff hit deals 8 plus 8 psychic from Soul Strike. His first Flurry attack initially misses at 18, then d10 Inspiration raises it to a 20 hit for 6; the second misses at 11.",
+              "evidence": [
+                {
+                  "startUid": "u2223",
+                  "endUid": "u2269"
+                }
+              ]
+            },
+            {
+              "actor": "Ice-crowned woman / crystalline heart",
+              "kind": "turn",
+              "summary": "At its turn’s start the aura deals Kenzo 20 cold. Its blizzard becomes an ice-pellet storm requiring Dexterity saves: Delwath and Riswynn fail and take 27 cold each; Kenzo and Wellby succeed and take zero through Evasion. Delwath declines Favored by the Gods. The blizzard vanishes. Two ice rays hit Kenzo, one at 19 for 14 cold and one natural-20 critical for 28 cold. Death Ward prevents unconsciousness and leaves Kenzo at 1 hit point.",
+              "evidence": [
+                {
+                  "startUid": "u2270",
+                  "endUid": "u2299"
+                },
+                {
+                  "startUid": "u2326",
+                  "endUid": "u2333"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves but cannot reach the floating heart over the difficult terrain, so uses Eldritch Blast. The second beam is a critical hit for 13 damage, corrected from 14; the third initially misses, then is raised to a 26 hit for 7. The heart splits, falls and melts, ending the unnatural nearby cold. Delwath gains hit points on its death.",
+              "evidence": [
+                {
+                  "startUid": "u2300",
+                  "endUid": "u2325"
+                }
+              ],
+              "note": "The first beam’s result, the method used to turn the third into a hit and the healing amount are not spoken."
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The crystalline heart cracks in two and melts after Delwath’s blasts. The woman is dead and the unnatural cold fades; winter cold remains. The party has not descended into the darkness.",
+        "evidence": [
+          {
+            "startUid": "u2319",
+            "endUid": "u2333"
+          }
+        ]
+      }
+    }
+  ]
+}

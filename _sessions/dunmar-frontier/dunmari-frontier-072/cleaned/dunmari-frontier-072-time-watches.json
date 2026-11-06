@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-072/cleaned/dunmari-frontier-072-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-072/cleaned/dunmari-frontier-072-time-markers.json",
+    "sha256": "b453ea35e92e5eb712e68639c81f8b37a1d99a6af6da5e799babc95bf6b92f7d"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-072/cleaned/dunmari-frontier-072-transcript.md",
+    "sha256": "fa4df14551f7e7bc047d306c7ee5409d2399d5bddca7203af8164f0402c440e4"
+  },
+  "dateAssessment": "Working dates use the session YAML, November 23–24, 1748. The transcript independently says late November and establishes one overnight from sunset to sunrise, followed by the cloud journey, palace encounter and short rest. The time extraction therefore matches the one-night span conditionally on the YAML start. Dawn and morning watches after waking are estimates from the sunrise anchor and narrated durations; no clock time, second overnight, return flight or descent is supplied. Kenzo’s one-hour scan is resolved retrospectively on the preceding night. The handbook’s undated historical images do not extend the adventure calendar.",
+  "watches": [
+    {
+      "day": "November 23, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Sunset opens the camp scene; Hralgar later notes it is well dark.",
+      "markers": [
+        "t01",
+        "t02"
+      ],
+      "startDate": "1748-11-23",
+      "endDate": "1748-11-23"
+    },
+    {
+      "day": "November 23–24, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Overnight rest ends at sunrise; Kenzo’s hour-long scan precedes the same waking.",
+      "markers": [
+        "t03",
+        "t04"
+      ],
+      "startDate": "1748-11-23",
+      "endDate": "1748-11-24",
+      "scope": "Camp overnight; Kenzo’s retrospective scan"
+    },
+    {
+      "day": "November 24, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "After sunrise farewells, a one-minute cloud transformation begins the northward journey.",
+      "markers": [
+        "t05"
+      ],
+      "startDate": "1748-11-24",
+      "endDate": "1748-11-24",
+      "sourceRanges": [
+        [
+          "u0796",
+          "u0800"
+        ]
+      ]
+    },
+    {
+      "day": "November 24, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Two-hour flight reaches palace; ten-minute preparations and a one-hour short rest follow.",
+      "markers": [
+        "t06",
+        "t07",
+        "t08"
+      ],
+      "startDate": "1748-11-24",
+      "endDate": "1748-11-24"
+    }
+  ]
+}
