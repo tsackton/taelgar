@@ -1,0 +1,92 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-093/cleaned/dunmari-frontier-093-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-093/cleaned/dunmari-frontier-093-time-markers.json",
+    "sha256": "365f24a585e35467a2e31a6dbcf51ca7d2f5e5817c92da6f869c9855f13b213f"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-093/cleaned/dunmari-frontier-093-transcript.md",
+    "sha256": "15462a31547e512fcbb3b470bff9d3117a91b439206c338568584a42c47c0df9"
+  },
+  "dateAssessment": "The working date is March 21, 1749 from YAML. The current year 1749 is spoken at u0460–u0469; month and day are inherited. The time extraction matches a single afternoon-to-evening day, with zero calendar transitions. Ancestral memories are a separate historical frame. The short rest is credited within the camp conversations. The two-week stay and onward journey at u2463–u2484 remain future plans; the midnight comment there is table wrap-up. Jotha’s historical displacement claim does not extend the adventure interval.",
+  "watches": [
+    {
+      "day": "Ancestral past, before Drankor",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "stated",
+      "summary": "Wellby enters ancestral memories from before Drankor; the vision supplies no adventure-clock duration.",
+      "markers": [
+        "t04"
+      ],
+      "clock": "local",
+      "scope": "Ancestral memory"
+    },
+    {
+      "day": "March 21, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Afternoon arrival; conversations at 2:30 p.m., with short-rest credit completed before the roughly 4 p.m. reunion.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t05"
+      ],
+      "startDate": "1749-03-21",
+      "endDate": "1749-03-21"
+    },
+    {
+      "day": "March 21, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "After the 4 p.m. reunion, Wellby flies outward for fifteen minutes; return duration is unstated.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1749-03-21",
+      "endDate": "1749-03-21",
+      "scope": "Wellby"
+    },
+    {
+      "day": "March 21, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "Camp evacuation takes about half an hour, after scouting and before the sunset ambush.",
+      "markers": [
+        "t07"
+      ],
+      "startDate": "1749-03-21",
+      "endDate": "1749-03-21"
+    },
+    {
+      "day": "March 21, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Sunset and twilight at the ambush; the sun is fully set by the return to the ship.",
+      "markers": [
+        "t08",
+        "t09"
+      ],
+      "startDate": "1749-03-21",
+      "endDate": "1749-03-21"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Jotha chronology",
+      "path": "People/Deno'qai/Jotha.md",
+      "sha256": "83fb481d7602526c22aa07957acc5af16a2072f3afac02d7b0804dea8ce25623"
+    },
+    {
+      "label": "Faldrak’s journal",
+      "path": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Faldrak's Journal Notes.md",
+      "sha256": "79b0290e0f648ff5932c2a75311c5fec91ad5c369404d8372fdfe688ab8ff9de"
+    }
+  ]
+}

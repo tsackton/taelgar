@@ -1,0 +1,867 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-093",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-093/cleaned/dunmari-frontier-093-session.yaml",
+    "sessionYamlSha256": "526727d33ff7095c688b294b8a8033c98f9b7dd30d2101770367749d84857e39",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-093/cleaned/dunmari-frontier-093-transcript.md",
+    "transcriptSha256": "15462a31547e512fcbb3b470bff9d3117a91b439206c338568584a42c47c0df9"
+  },
+  "places": {
+    "p01": {
+      "label": "northern forests",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0017",
+          "endUid": "u0028",
+          "quote": "DM: Let's get started in the northern forests, where for the past more than a week now you've been traveling across the vast boreal forest that stretches all the way from the Sentinel Range in the east, across the highlands of Sembara, through the northern part of northern and central interior of Vostok, across the Svinjo Mountains, where the frost giants live, and then stretching far into the east. No, alright. Perfect. Along the river valley of the great northern river Ket. It is these northern forests, a place of much danger and hardship."
+        },
+        {
+          "startUid": "u0051",
+          "endUid": "u0057",
+          "quote": "DM: Across the forest, the Vargold live isolated in small groups and camps, fleeing from dragons and seeking to avoid the deadly ice worms that roam across the lands and the other dangers that lurk in the darker parts of the forest, especially to the south, where rumors of a vampire and giant bat guardians create, excuse me, an air of darkness."
+        }
+      ],
+      "vaultPath": "Gazetteer/Northern Green Sea/Great Northern Forest.md"
+    },
+    "p02": {
+      "label": "Vargold camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0082",
+          "endUid": "u0084",
+          "quote": "DM: We're good. Anyway, so now we start in the Vargold camp where you have landed."
+        },
+        {
+          "startUid": "u0085",
+          "endUid": "u0093",
+          "quote": "DM: Hey? A small collection of 20 or 30 tents, banked fires nestled among the trees, where probably 40 or 50 people live. Standing before you is an unexpected group. You can see people beginning to shift from bears, birds, foxes, even squirrels, and smaller mammals into humans. And standing among them are some halflings and some stoneborn."
+        },
+        {
+          "startUid": "u0820",
+          "endUid": "u0829",
+          "quote": "DM: As you kind of walk around the outside of the camp, you, you very quickly, as you get into the trees, like the tents, begin to vanish. And, mean, this is— This area is designed to be camouflaged. It's not, it's not gonna, you know, defy close inspection as Wellby said, but you know, certainly. And there isn't. There's no permanent structures, like this is definitely a place, a camp that could be disassembled and moved. You know, if enough of these people are elk, or bears, or any other sort of somewhat large animal, they could probably pack up and carry this camp, a, in a few hours. There's no stone structures, there's no permanent construction. There's no—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0017",
+              "endUid": "u0028",
+              "quote": "DM: Let's get started in the northern forests, where for the past more than a week now you've been traveling across the vast boreal forest that stretches all the way from the Sentinel Range in the east, across the highlands of Sembara, through the northern part of northern and central interior of Vostok, across the Svinjo Mountains, where the frost giants live, and then stretching far into the east. No, alright. Perfect. Along the river valley of the great northern river Ket. It is these northern forests, a place of much danger and hardship."
+            },
+            {
+              "startUid": "u0051",
+              "endUid": "u0057",
+              "quote": "DM: Across the forest, the Vargold live isolated in small groups and camps, fleeing from dragons and seeking to avoid the deadly ice worms that roam across the lands and the other dangers that lurk in the darker parts of the forest, especially to the south, where rumors of a vampire and giant bat guardians create, excuse me, an air of darkness."
+            },
+            {
+              "startUid": "u0082",
+              "endUid": "u0084",
+              "quote": "DM: We're good. Anyway, so now we start in the Vargold camp where you have landed."
+            },
+            {
+              "startUid": "u0085",
+              "endUid": "u0093",
+              "quote": "DM: Hey? A small collection of 20 or 30 tents, banked fires nestled among the trees, where probably 40 or 50 people live. Standing before you is an unexpected group. You can see people beginning to shift from bears, birds, foxes, even squirrels, and smaller mammals into humans. And standing among them are some halflings and some stoneborn."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "skyship",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u0094",
+          "endUid": "u0098",
+          "quote": "DM: All beginning to gather as you, your giant 200 foot long sky ship, with a frost giant sitting on top of it, and a tree growing from upper deck descends. Is the frost giant in the lower section? I guess he's probably— I was thinking about this. How? How would he get into the lower section?"
+        },
+        {
+          "startUid": "u2226",
+          "endUid": "u2245",
+          "quote": "DM: And as you return, you, I mean, you don't [garbled]. I guess the, the giant is now visible, because— But otherwise, like everything is still— The ship is still hidden. Still this, like, hill and trees around it. And as you, as you approach, you see, like, faces start to poke out of the, out of the hill. One, and then 2 more. And then 5 more. And then there's just like cheering. Like 20 faces sticking out over the hill, looking at you as you return, board your ship again, like, everybody is just super grateful, happy. Torsten comes up and says, \"Did not think it could be done. There is anything we can do for you, anything, just ask it, and it will be so.\""
+        }
+      ],
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "aliases": [
+        "flying castle",
+        "ship"
+      ],
+      "note": "The dated Session 93 record identifies this ship as Vindristjarna; the transcript uses descriptive labels."
+    },
+    "p04": {
+      "label": "Ket",
+      "kind": "river",
+      "evidence": [
+        {
+          "startUid": "u0606",
+          "endUid": "u0610",
+          "quote": "DM: So. Okay, well, while you're, you know, kind of all reconvening slightly in the camp, Kenzo senses. So a few things that Kong, that Kenzo notices from just kind of communing and, and reaching out. One is that— So there's definitely something strange, not strange in a bad way, strange in a way that you've not experienced about this forest. Like, there is some kind of primal energy running through here, running along this river, the Ket, which is not far from you. It's, you know, 15 miles to the north."
+        },
+        {
+          "startUid": "u1112",
+          "endUid": "u1120",
+          "quote": "DM: About 15 miles away. Hmm! Maybe 10 miles away. You can see the like glittering icy river of the Ket. And on the other side you can see these low hills. They're still, there are still forested, except for the very tops are sort of somewhat barren. It's very far away. It's like 15 miles away. Dragons are big, but they're not, you know, the size of your ship. But you think there's certainly something circling the mountains in the air. It's a little bit hard to say what it is."
+        }
+      ],
+      "vaultPath": "Gazetteer/Northern Green Sea/Rivers/Ket.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0017",
+              "endUid": "u0028",
+              "quote": "DM: Let's get started in the northern forests, where for the past more than a week now you've been traveling across the vast boreal forest that stretches all the way from the Sentinel Range in the east, across the highlands of Sembara, through the northern part of northern and central interior of Vostok, across the Svinjo Mountains, where the frost giants live, and then stretching far into the east. No, alright. Perfect. Along the river valley of the great northern river Ket. It is these northern forests, a place of much danger and hardship."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "low hills north of the Ket",
+      "kind": "hills",
+      "evidence": [
+        {
+          "startUid": "u0876",
+          "endUid": "u0881",
+          "quote": "DM: There is a series of, like, low hills on the north bank of the Ket that it's probably, tends to hang out in. It's not a, it's not the biggest dragon, like everybody has heard rumors of the massive ancient white dragon that attacked Ursk last winter, and this is not that, like, it's not— It's not a baby. It's not like one of the sort of ancient elder dragons."
+        },
+        {
+          "startUid": "u1112",
+          "endUid": "u1120",
+          "quote": "DM: About 15 miles away. Hmm! Maybe 10 miles away. You can see the like glittering icy river of the Ket. And on the other side you can see these low hills. They're still, there are still forested, except for the very tops are sort of somewhat barren. It's very far away. It's like 15 miles away. Dragons are big, but they're not, you know, the size of your ship. But you think there's certainly something circling the mountains in the air. It's a little bit hard to say what it is."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "north_of",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0876",
+              "endUid": "u0881",
+              "quote": "DM: There is a series of, like, low hills on the north bank of the Ket that it's probably, tends to hang out in. It's not a, it's not the biggest dragon, like everybody has heard rumors of the massive ancient white dragon that attacked Ursk last winter, and this is not that, like, it's not— It's not a baby. It's not like one of the sort of ancient elder dragons."
+            },
+            {
+              "startUid": "u1112",
+              "endUid": "u1120",
+              "quote": "DM: About 15 miles away. Hmm! Maybe 10 miles away. You can see the like glittering icy river of the Ket. And on the other side you can see these low hills. They're still, there are still forested, except for the very tops are sort of somewhat barren. It's very far away. It's like 15 miles away. Dragons are big, but they're not, you know, the size of your ship. But you think there's certainly something circling the mountains in the air. It's a little bit hard to say what it is."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1112",
+              "endUid": "u1120",
+              "quote": "DM: About 15 miles away. Hmm! Maybe 10 miles away. You can see the like glittering icy river of the Ket. And on the other side you can see these low hills. They're still, there are still forested, except for the very tops are sort of somewhat barren. It's very far away. It's like 15 miles away. Dragons are big, but they're not, you know, the size of your ship. But you think there's certainly something circling the mountains in the air. It's a little bit hard to say what it is."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "trees on the camp perimeter",
+      "kind": "woodland",
+      "evidence": [
+        {
+          "startUid": "u0665",
+          "endUid": "u0668",
+          "quote": "Seeker: Seeker will activate the stone sense, Sense Valuable, or I think it's called, and just wander off, look at the, the fringes of the camp, partly wondering, looking for like, are there functional buildings, meaning, \"Oh, this is where they render the iceworm fat, or whatever,\" like, you know, I'm saying the non-dwelling buildings."
+        },
+        {
+          "startUid": "u0810",
+          "endUid": "u0813",
+          "quote": "DM: Let, let me cut over to Seeker, and then I'll come back to this jump in. So, Eric, as Seeker's wandering around the outside of camp, just, you know, with this sense, sense, or of just, you know, trying to see, trying to get a feeling of the land. Really, make a nature check."
+        },
+        {
+          "startUid": "u0820",
+          "endUid": "u0829",
+          "quote": "DM: As you kind of walk around the outside of the camp, you, you very quickly, as you get into the trees, like the tents, begin to vanish. And, mean, this is— This area is designed to be camouflaged. It's not, it's not gonna, you know, defy close inspection as Wellby said, but you know, certainly. And there isn't. There's no permanent structures, like this is definitely a place, a camp that could be disassembled and moved. You know, if enough of these people are elk, or bears, or any other sort of somewhat large animal, they could probably pack up and carry this camp, a, in a few hours. There's no stone structures, there's no permanent construction. There's no—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0810",
+              "endUid": "u0813",
+              "quote": "DM: Let, let me cut over to Seeker, and then I'll come back to this jump in. So, Eric, as Seeker's wandering around the outside of camp, just, you know, with this sense, sense, or of just, you know, trying to see, trying to get a feeling of the land. Really, make a nature check."
+            },
+            {
+              "startUid": "u0820",
+              "endUid": "u0829",
+              "quote": "DM: As you kind of walk around the outside of the camp, you, you very quickly, as you get into the trees, like the tents, begin to vanish. And, mean, this is— This area is designed to be camouflaged. It's not, it's not gonna, you know, defy close inspection as Wellby said, but you know, certainly. And there isn't. There's no permanent structures, like this is definitely a place, a camp that could be disassembled and moved. You know, if enough of these people are elk, or bears, or any other sort of somewhat large animal, they could probably pack up and carry this camp, a, in a few hours. There's no stone structures, there's no permanent construction. There's no—"
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0820",
+              "endUid": "u0829",
+              "quote": "DM: As you kind of walk around the outside of the camp, you, you very quickly, as you get into the trees, like the tents, begin to vanish. And, mean, this is— This area is designed to be camouflaged. It's not, it's not gonna, you know, defy close inspection as Wellby said, but you know, certainly. And there isn't. There's no permanent structures, like this is definitely a place, a camp that could be disassembled and moved. You know, if enough of these people are elk, or bears, or any other sort of somewhat large animal, they could probably pack up and carry this camp, a, in a few hours. There's no stone structures, there's no permanent construction. There's no—"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "air northward from the camp",
+      "kind": "airspace",
+      "evidence": [
+        {
+          "startUid": "u1098",
+          "endUid": "u1098",
+          "quote": "Wellby: Delwath. Make me invisible. I'll fly up and take a look to see if the dragon's out."
+        },
+        {
+          "startUid": "u1102",
+          "endUid": "u1102",
+          "quote": "Wellby: I flap and bend all my keen powers of perception to look for dragons."
+        },
+        {
+          "startUid": "u1125",
+          "endUid": "u1127",
+          "quote": "Wellby: Sure. I'll fly that direction for 15 min. I'll whip out that spyglass that I keep around. Oh, yeah, it's definitely a dragon. Yeah, I'll fly back right quick."
+        }
+      ],
+      "note": "Wellby flies toward the Ket and the distant dragon; no arrival at the river or hills is established."
+    },
+    "p08": {
+      "label": "makeshift ambush camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u1406",
+          "endUid": "u1406",
+          "quote": "Wellby: Let's go quarter mile away."
+        },
+        {
+          "startUid": "u1451",
+          "endUid": "u1452",
+          "quote": "Wellby: We don't need the river anymore. Like, are we trying to, are some of us trying to ambush the dragon? Is that the idea? Yes, we're gonna set up a very, like, makeshift camp. A couple of quick fire pit and then get in hiding nearby."
+        },
+        {
+          "startUid": "u1471",
+          "endUid": "u1473",
+          "quote": "DM: So you've got a campfire and you've got a tent quickly set up."
+        },
+        {
+          "startUid": "u1480",
+          "endUid": "u1480",
+          "quote": "Riswynn: Sitting by the fire."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1406",
+              "endUid": "u1406",
+              "quote": "Wellby: Let's go quarter mile away."
+            },
+            {
+              "startUid": "u1451",
+              "endUid": "u1452",
+              "quote": "Wellby: We don't need the river anymore. Like, are we trying to, are some of us trying to ambush the dragon? Is that the idea? Yes, we're gonna set up a very, like, makeshift camp. A couple of quick fire pit and then get in hiding nearby."
+            },
+            {
+              "startUid": "u1471",
+              "endUid": "u1473",
+              "quote": "DM: So you've got a campfire and you've got a tent quickly set up."
+            }
+          ],
+          "note": "The accepted plan places the bait camp about a quarter mile from the evacuated camp; compass direction is not independently fixed."
+        },
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1471",
+              "endUid": "u1473",
+              "quote": "DM: So you've got a campfire and you've got a tent quickly set up."
+            },
+            {
+              "startUid": "u1477",
+              "endUid": "u1478",
+              "quote": "DM: And now it's, the sun is setting. It's twilight, so everything's dim light but still visible. Right, so not impossible to see, but it will help you hide, for those of you are hiding. So where is where is everybody?"
+            },
+            {
+              "startUid": "u1482",
+              "endUid": "u1482",
+              "quote": "Riswynn: Do we have any cover? Like, is there also some rocks or anything? There's trees."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "rocky coast in the ancestral memory",
+      "kind": "coast",
+      "evidence": [
+        {
+          "startUid": "u1039",
+          "endUid": "u1045",
+          "quote": "DM: But the image that you see is small ships landing on a rocky coast, and halflings, if anything, kind of kindred spirits to yourself, just wanting to see what was across the next mountain range and deciding to go and look for themselves."
+        }
+      ],
+      "note": "Historical memory; its exact coast is not identified."
+    },
+    "p10": {
+      "label": "forests in the ancestral memory",
+      "kind": "forest",
+      "evidence": [
+        {
+          "startUid": "u1046",
+          "endUid": "u1054",
+          "quote": "DM: And then, as they— And another image, a flash. Again, the world still feeling young, in a sense. Traveling through the forests, the, the, the land less dangerous than you feel it is now, and learning to speak with animals and asking them their stories and sharing the songs of their people."
+        },
+        {
+          "startUid": "u1055",
+          "endUid": "u1068",
+          "quote": "DM: And then just time passing. And again you get the sense that this was all like long ago, like even before humans came, like before, certainly before Drankor, before, you know, the Empire started spreading, anything like that. But humans did come. Humans much like the people that you are talking to now, the the Vargold. And they also somehow learned to speak with the animals, and brought with them some divinity of some kind. They brought with them animals within them, animal spirits, animal gods, and they learned how to kind of ask those animal spirits for protection, and the humans made the animals stronger and the animals made the humans stronger."
+        },
+        {
+          "startUid": "u1069",
+          "endUid": "u1082",
+          "quote": "DM: And as they settled and traveled in the land, the halflings were curious. And so they learned the magic of shapeshifting that seem to lie heavy on this land, some unusual power, some unusual strength of that particular magic from growing from the humans and the spirits that they brought with them. And sometimes some leave and sometimes new halflings come. Not everybody stays forever in this land, and over the generations the newcomers become assimilated and learn. And over time those who leave lose the spirit. That's their story."
+        }
+      ],
+      "note": "The memory concerns the local halflings and Vargold, but no precise historical coastline or route is supplied."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0082",
+        "endUid": "u0098"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The skyship has landed at the Vargold camp in the northern forests.",
+      "evidence": [
+        {
+          "startUid": "u0082",
+          "endUid": "u0084",
+          "quote": "DM: We're good. Anyway, so now we start in the Vargold camp where you have landed."
+        },
+        {
+          "startUid": "u0085",
+          "endUid": "u0093",
+          "quote": "DM: Hey? A small collection of 20 or 30 tents, banked fires nestled among the trees, where probably 40 or 50 people live. Standing before you is an unexpected group. You can see people beginning to shift from bears, birds, foxes, even squirrels, and smaller mammals into humans. And standing among them are some halflings and some stoneborn."
+        },
+        {
+          "startUid": "u0094",
+          "endUid": "u0098",
+          "quote": "DM: All beginning to gather as you, your giant 200 foot long sky ship, with a frost giant sitting on top of it, and a tree growing from upper deck descends. Is the frost giant in the lower section? I guess he's probably— I was thinking about this. How? How would he get into the lower section?"
+        }
+      ],
+      "place": "p03",
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "at",
+          "target": "p02"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0165",
+        "endUid": "u0239"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The five PCs descend from the ship to meet the people of the Vargold camp.",
+      "evidence": [
+        {
+          "startUid": "u0165",
+          "endUid": "u0165",
+          "quote": "Seeker: I just said, this isn't something we need to discuss right now. Yeah. So we come out of the ship."
+        },
+        {
+          "startUid": "u0170",
+          "endUid": "u0176",
+          "quote": "Delwath: So Delwath strides confidently out of the ship. Sort of dressed in his, his armor, his Denocae style, sort of metal and hide and leather armor with blue and yellow highlights with his shield swung over his back, but no other obvious weapons, as always. Has shoulder length silvery hair pulled back."
+        },
+        {
+          "startUid": "u0194",
+          "endUid": "u0202",
+          "quote": "Seeker: Seeker strolls down the ramp, gazing around interestedly, absent-mindedly rolls up the sleeves of his Tollen red robes, and he's also kind of nibbling on what appears to be a tiny ice sculpture that he's made representing the frost giant's fortress, and he's like biting off, like, turrets and columns and stuff, crunching on the— It's just, you know, lingering side effects."
+        },
+        {
+          "startUid": "u0203",
+          "endUid": "u0209",
+          "quote": "Riswynn: Riswynn would also stride down the ramp easily and looking about for familiar members of her race. And she's, she's pretty wet looking, cause she had to do a quick douse to get off the stomach acid. But you know she always goes into battle, with her braids tied and her, and her armor in great condition. So a quick rinse, she's looking fit, if soggy. And of course it's cold. So, looking a bit frosty."
+        },
+        {
+          "startUid": "u0211",
+          "endUid": "u0215",
+          "quote": "Wellby: Shifted his armor to match the dress of people here, sort of bundled up and fur-lined sort of greens and whites to blend in, and is, raises a hand to the halflings and reaches out telepathically to offer a greeting: \"Hello!\" In halfling to them."
+        },
+        {
+          "startUid": "u0216",
+          "endUid": "u0221",
+          "quote": "Kenzo: Kenzo. So, so one thing, you know, when the drawbridge lowers, I feel like, like in my imagination I was like imagining this is like the ultimate, the cool like group shot. You know, it's, we're all standing like— So, like, the, the thing lowers. Then we can all see us, like, kind of standing in our head cool, like, superhero poses. And that's like when you take the, you know, group shot. Kenzo. Kenzo is very content to be in the back. You know, he's like, this is, he's a little out of his element. Hey, how? What's the, how, temperature in Chardon? Tim, Chardon's like San Francisco? Yeah. And this is like really fucking cold. Right? Yeah. So so Kenzo is like very out of his element, this whole, you know, being up in the— I mean, you know again, he's a fucking monk, so it's like the cold doesn't bother him from a temperature perspective. He's just like, you know, like not used to this type of environment. And so he's content to sort of chill on the back a little bit. And he's really observing, like he's just gonna soul sight, like, really kind of study the energy of everybody, but he's very content to, you know, kind of be in the back and let let everybody else figure out what the hell's gonna go on, going on here."
+        },
+        {
+          "startUid": "u0222",
+          "endUid": "u0239",
+          "quote": "DM: So as you all descend, and and the 2 elk people that you freed kind of run past you and run into the crowd, and there's like hugs and, and greetings. And the, the woman, the the Denocae woman, kind of exchanges significant glances with 2 others: of very tall, white-haired, white, bearded man, wearing thick furs, bushy eyebrows, probably in his mid-sixties, at least 6 foot 4, 6 foot 5. Big, like burly guy. And then also standing nearby him, an older woman looks almost, almost sort of— There's like a, a, a bird, bird, birdie vibe to her, like she's kind of a little bit withdrawn and and almost shrunken. She has wrinkled eyes and sort of almost like a beak-like nose. And despite her apparent age, maybe, maybe, you know, 50 s or 60 s, her hair is like jet raven black and sort of mid length."
+        }
+      ],
+      "from": "p03",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0240",
+        "endUid": "u0254"
+      },
+      "actors": [
+        "Aelgurd"
+      ],
+      "reading": "Aelgurd remains aboard, looking over the rail and recording the encounter.",
+      "evidence": [
+        {
+          "startUid": "u0240",
+          "endUid": "u0254",
+          "quote": "DM: Sort of to the middle of her back. And she's wearing a black cloak of, decorated with raven's feathers. And this this woman in the front glances at them. And then you, you, Kenzo, would notice for sure, paying attention to everybody, there's kind of like a subtle nod. And she steps forward, she introduces herself as Yota, having heard you speak Denocae, just sort of addresses Delwath, and also kind of glances at you all, and is sort of taken aback slightly by the species diversity represented here. Looking up at your ship and seeing Aelgurd, kind of, you know, he's curious. He's got a, he's got a book out. He's like, you know, taking notes, basically in this massive book the size of a person. And he's looking. He look and peers over, and he yells down in, in Dwarven, \"Make sure they speak up so I can hear, for the records,\" you know."
+        }
+      ],
+      "place": "p03",
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "at",
+          "target": "p02"
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0665",
+        "endUid": "u0668"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker wanders around the camp perimeter into the trees, where the camouflaged tents fade from view.",
+      "evidence": [
+        {
+          "startUid": "u0665",
+          "endUid": "u0668",
+          "quote": "Seeker: Seeker will activate the stone sense, Sense Valuable, or I think it's called, and just wander off, look at the, the fringes of the camp, partly wondering, looking for like, are there functional buildings, meaning, \"Oh, this is where they render the iceworm fat, or whatever,\" like, you know, I'm saying the non-dwelling buildings."
+        },
+        {
+          "startUid": "u0810",
+          "endUid": "u0813",
+          "quote": "DM: Let, let me cut over to Seeker, and then I'll come back to this jump in. So, Eric, as Seeker's wandering around the outside of camp, just, you know, with this sense, sense, or of just, you know, trying to see, trying to get a feeling of the land. Really, make a nature check."
+        },
+        {
+          "startUid": "u0820",
+          "endUid": "u0829",
+          "quote": "DM: As you kind of walk around the outside of the camp, you, you very quickly, as you get into the trees, like the tents, begin to vanish. And, mean, this is— This area is designed to be camouflaged. It's not, it's not gonna, you know, defy close inspection as Wellby said, but you know, certainly. And there isn't. There's no permanent structures, like this is definitely a place, a camp that could be disassembled and moved. You know, if enough of these people are elk, or bears, or any other sort of somewhat large animal, they could probably pack up and carry this camp, a, in a few hours. There's no stone structures, there's no permanent construction. There's no—"
+        }
+      ],
+      "from": "p02",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u1024",
+        "endUid": "u1082"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Ancestral memories show halflings landing on an unidentified rocky coast and later moving through forests.",
+      "evidence": [
+        {
+          "startUid": "u1024",
+          "endUid": "u1038",
+          "quote": "DM: So Wellby now is trying to reach back into the past of the halflings and kind of get a feel for the land and a vision of who these halflings are, and how they ended up here. And, and what you see is, you kind of reach back into the past. Just expending your [garbled]— Expending your, expending your use, your ability to sort of perceive the history of your ancestors. Do you see? You see 3 sort of flashes of of images of of lore. And the first you can tell is very long ago, because the image is almost— It's almost like the memory itself is frayed and faded. And it's— And you, you've experienced this when you were younger, sailing on the Green Sea. Like, halflings have been sailing on the Green Sea for forever, basically. Like, this was a, you know, this was kind of one of the things halflings did as soon as they were created by the First Ones is travel the Green Sea."
+        },
+        {
+          "startUid": "u1039",
+          "endUid": "u1045",
+          "quote": "DM: But the image that you see is small ships landing on a rocky coast, and halflings, if anything, kind of kindred spirits to yourself, just wanting to see what was across the next mountain range and deciding to go and look for themselves."
+        },
+        {
+          "startUid": "u1046",
+          "endUid": "u1054",
+          "quote": "DM: And then, as they— And another image, a flash. Again, the world still feeling young, in a sense. Traveling through the forests, the, the, the land less dangerous than you feel it is now, and learning to speak with animals and asking them their stories and sharing the songs of their people."
+        },
+        {
+          "startUid": "u1069",
+          "endUid": "u1082",
+          "quote": "DM: And as they settled and traveled in the land, the halflings were curious. And so they learned the magic of shapeshifting that seem to lie heavy on this land, some unusual power, some unusual strength of that particular magic from growing from the humans and the spirits that they brought with them. And sometimes some leave and sometimes new halflings come. Not everybody stays forever in this land, and over the generations the newcomers become assimilated and learn. And over time those who leave lose the spirit. That's their story."
+        }
+      ],
+      "place": "p09",
+      "mode": "vision",
+      "observerPlace": "p02",
+      "context": "vision",
+      "note": "The adjoining forest memory is retained as p10; neither image is a physical party visit."
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u1046",
+        "endUid": "u1082"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "The next ancestral images show the forest and the later joining of humans, animal spirits, and halflings.",
+      "evidence": [
+        {
+          "startUid": "u1046",
+          "endUid": "u1054",
+          "quote": "DM: And then, as they— And another image, a flash. Again, the world still feeling young, in a sense. Traveling through the forests, the, the, the land less dangerous than you feel it is now, and learning to speak with animals and asking them their stories and sharing the songs of their people."
+        },
+        {
+          "startUid": "u1055",
+          "endUid": "u1068",
+          "quote": "DM: And then just time passing. And again you get the sense that this was all like long ago, like even before humans came, like before, certainly before Drankor, before, you know, the Empire started spreading, anything like that. But humans did come. Humans much like the people that you are talking to now, the the Vargold. And they also somehow learned to speak with the animals, and brought with them some divinity of some kind. They brought with them animals within them, animal spirits, animal gods, and they learned how to kind of ask those animal spirits for protection, and the humans made the animals stronger and the animals made the humans stronger."
+        },
+        {
+          "startUid": "u1069",
+          "endUid": "u1082",
+          "quote": "DM: And as they settled and traveled in the land, the halflings were curious. And so they learned the magic of shapeshifting that seem to lie heavy on this land, some unusual power, some unusual strength of that particular magic from growing from the humans and the spirits that they brought with them. And sometimes some leave and sometimes new halflings come. Not everybody stays forever in this land, and over the generations the newcomers become assimilated and learn. And over time those who leave lose the spirit. That's their story."
+        }
+      ],
+      "place": "p10",
+      "mode": "vision",
+      "observerPlace": "p02",
+      "context": "vision"
+    },
+    {
+      "id": "l08",
+      "type": "presence",
+      "source": {
+        "startUid": "u1086",
+        "endUid": "u1096"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party reconvenes in the camp after its separate conversations and investigations.",
+      "evidence": [
+        {
+          "startUid": "u1086",
+          "endUid": "u1096",
+          "quote": "DM: The North. Strange North. So at this point you all reconvene at like 4 in the afternoon. Something like that, to plan and discuss. Having taken a short rest, I would say, in the course of these conversations, and catching up, the sun beginning to sink low in the sky. Torsten and Yota, increasingly nervous and basically asking, like, \"We can pack up in 30 min. Like, what do you think? Should we stay, or should we run?\""
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1098",
+        "endUid": "u1131"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby scouts from above the camp, flies northward toward the distant dragon for fifteen minutes, and flies back.",
+      "evidence": [
+        {
+          "startUid": "u1098",
+          "endUid": "u1098",
+          "quote": "Wellby: Delwath. Make me invisible. I'll fly up and take a look to see if the dragon's out."
+        },
+        {
+          "startUid": "u1099",
+          "endUid": "u1100",
+          "quote": "Delwath: Brilliant, sure. Let's do it. Yeah, you're invisible."
+        },
+        {
+          "startUid": "u1102",
+          "endUid": "u1102",
+          "quote": "Wellby: I flap and bend all my keen powers of perception to look for dragons."
+        },
+        {
+          "startUid": "u1125",
+          "endUid": "u1127",
+          "quote": "Wellby: Sure. I'll fly that direction for 15 min. I'll whip out that spyglass that I keep around. Oh, yeah, it's definitely a dragon. Yeah, I'll fly back right quick."
+        },
+        {
+          "startUid": "u1130",
+          "endUid": "u1131",
+          "quote": "DM: It's, so, It hasn't turned south yet. It's clearly, like, it looks like it's, it kind of looks like a, like a vulture soaring at the moment."
+        }
+      ],
+      "from": "p02",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Ascend above the camp, then fly toward the distant dragon.",
+          "place": "p07"
+        }
+      ],
+      "duration": {
+        "value": 15,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Outward leg only; the return is accepted but not timed."
+      }
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u1112",
+        "endUid": "u1120"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "From the air Wellby sees the icy Ket and forested hills on its far bank, with something circling above them.",
+      "evidence": [
+        {
+          "startUid": "u1112",
+          "endUid": "u1120",
+          "quote": "DM: About 15 miles away. Hmm! Maybe 10 miles away. You can see the like glittering icy river of the Ket. And on the other side you can see these low hills. They're still, there are still forested, except for the very tops are sort of somewhat barren. It's very far away. It's like 15 miles away. Dragons are big, but they're not, you know, the size of your ship. But you think there's certainly something circling the mountains in the air. It's a little bit hard to say what it is."
+        },
+        {
+          "startUid": "u1125",
+          "endUid": "u1127",
+          "quote": "Wellby: Sure. I'll fly that direction for 15 min. I'll whip out that spyglass that I keep around. Oh, yeah, it's definitely a dragon. Yeah, I'll fly back right quick."
+        },
+        {
+          "startUid": "u1130",
+          "endUid": "u1131",
+          "quote": "DM: It's, so, It hasn't turned south yet. It's clearly, like, it looks like it's, it kind of looks like a, like a vulture soaring at the moment."
+        }
+      ],
+      "place": "p05",
+      "mode": "remote",
+      "observerPlace": "p07",
+      "note": "The spyglass confirms a dragon; the observation establishes no arrival at the hills."
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1260",
+        "endUid": "u1384"
+      },
+      "actors": [
+        "Vargold tribe"
+      ],
+      "reading": "The camp residents pack up and board the hidden skyship, with Faldrak helping settle them.",
+      "evidence": [
+        {
+          "startUid": "u1260",
+          "endUid": "u1265",
+          "quote": "DM: Right? Okay. So everybody begins to pile onto the ship, and the, Aelgurd is like, \"That's a lot of people. Have any of you seen my sister? She would look like me, but a woman. Could you tell me, if you have, please?\""
+        },
+        {
+          "startUid": "u1277",
+          "endUid": "u1278",
+          "quote": "DM: Everybody begins to pile into the ship, they are inevitably brought face to face with the motley crew."
+        },
+        {
+          "startUid": "u1358",
+          "endUid": "u1362",
+          "quote": "DM: So everybody's piling onto the ship. The camp is rapidly disappearing. You know, everybody is grateful, a little bit, like, disturbed by the Orcs, almost looking at Kenzo, like, \"Am I actually gonna see a dragon?\""
+        },
+        {
+          "startUid": "u1377",
+          "endUid": "u1381",
+          "quote": "DM: The camp is now almost gone. Faldrak's like, you know, fluttering around as everybody is like this huge crowd of people descending on the ship, like, \"Is there space for everybody? Like, let's get them stowed. You might have to fly. Nobody hanging off the edge.\""
+        },
+        {
+          "startUid": "u1382",
+          "endUid": "u1382",
+          "quote": "Kenzo: Yeah, our crew is helping. We've instructed, manage, get everybody settled and feeling comfortable and stuff. And."
+        },
+        {
+          "startUid": "u1383",
+          "endUid": "u1384",
+          "quote": "DM: And this is taking about half an hour, and at this point all of you can clearly see the dragon growing bigger. Not particularly fast. Like, it seems like it's just sort of curious, like, \"What was that thing that I saw?\""
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "walk",
+      "duration": {
+        "value": 0.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM gives the camp loading time as about half an hour."
+      },
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "at",
+          "target": "p02"
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "presence",
+      "source": {
+        "startUid": "u1280",
+        "endUid": "u1287"
+      },
+      "actors": [
+        "Ketcha"
+      ],
+      "reading": "Ketcha lands among the group during boarding and warns that the dragon is crossing the river.",
+      "evidence": [
+        {
+          "startUid": "u1280",
+          "endUid": "u1285",
+          "quote": "DM: Yes. Ketcha actually has been also like scouting a bit. Comes, has, has been flying around and just lands, and he says to, to Wellby, or to all of you. Whoever's nearby. You know there's a dragon coming, right?"
+        },
+        {
+          "startUid": "u1287",
+          "endUid": "u1287",
+          "quote": "DM: I don't know if it's coming towards us. Crossing the river."
+        }
+      ],
+      "place": "p02",
+      "note": "The exact landing point, aboard or beside the ship, is unstated; his flight route is not supplied."
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1444",
+        "endUid": "u1480"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The five PCs set up their bait camp about a quarter mile away and take ambush positions around its tent and fire.",
+      "evidence": [
+        {
+          "startUid": "u1406",
+          "endUid": "u1406",
+          "quote": "Wellby: Let's go quarter mile away."
+        },
+        {
+          "startUid": "u1444",
+          "endUid": "u1449",
+          "quote": "Delwath: One quick question? It would be very helpful if I had 1 min before the battle, when I could drop between when I cast Fly and when I dropped invisibility? Do you think there's any downtime? Then I could get back a spell slot, is all. I can have 2 spell slots going into battle instead of one. I mean, it's, sorry, I would not actually get back a spell slot. I would be able to cast my temporary healing, temporary hit point spell and not have it count as a spell slot. It might have been worth it, though. Like, do we want to stay invisible until the very last minute? Or do we actually not care if we stand? Let's get to the position and then figure it out."
+        },
+        {
+          "startUid": "u1451",
+          "endUid": "u1452",
+          "quote": "Wellby: We don't need the river anymore. Like, are we trying to, are some of us trying to ambush the dragon? Is that the idea? Yes, we're gonna set up a very, like, makeshift camp. A couple of quick fire pit and then get in hiding nearby."
+        },
+        {
+          "startUid": "u1471",
+          "endUid": "u1473",
+          "quote": "DM: So you've got a campfire and you've got a tent quickly set up."
+        },
+        {
+          "startUid": "u1477",
+          "endUid": "u1478",
+          "quote": "DM: And now it's, the sun is setting. It's twilight, so everything's dim light but still visible. Right, so not impossible to see, but it will help you hide, for those of you are hiding. So where is where is everybody?"
+        },
+        {
+          "startUid": "u1480",
+          "endUid": "u1480",
+          "quote": "Riswynn: Sitting by the fire."
+        }
+      ],
+      "from": "p03",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk",
+      "distance": {
+        "value": 0.25,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "Accepted quarter-mile ambush proposal, followed by the completed camp setup."
+      },
+      "note": "The ship and evacuees stay hidden at the old camp; only the PCs are established at the ambush."
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2218",
+        "endUid": "u2245"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After harvesting the dragon, the party returns to the skyship and boards amid the Vargold welcome.",
+      "evidence": [
+        {
+          "startUid": "u2218",
+          "endUid": "u2222",
+          "quote": "DM: After, as the sun is now fully set, and the dragon's carcass is beginning to melt and steam. Anyway, the Wall of Fire is gone. You return to camp, I guess, or return to the ship, I guess."
+        },
+        {
+          "startUid": "u2224",
+          "endUid": "u2224",
+          "quote": "Seeker: The ship. That's where the shower room is. Yeah, carrying another."
+        },
+        {
+          "startUid": "u2226",
+          "endUid": "u2245",
+          "quote": "DM: And as you return, you, I mean, you don't [garbled]. I guess the, the giant is now visible, because— But otherwise, like everything is still— The ship is still hidden. Still this, like, hill and trees around it. And as you, as you approach, you see, like, faces start to poke out of the, out of the hill. One, and then 2 more. And then 5 more. And then there's just like cheering. Like 20 faces sticking out over the hill, looking at you as you return, board your ship again, like, everybody is just super grateful, happy. Torsten comes up and says, \"Did not think it could be done. There is anything we can do for you, anything, just ask it, and it will be so.\""
+        }
+      ],
+      "from": "p08",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "walk",
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "at",
+          "target": "p02"
+        }
+      ]
+    }
+  ]
+}
