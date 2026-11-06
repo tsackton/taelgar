@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-077",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-077/cleaned/dunmari-frontier-077-session.yaml",
+    "sessionYamlSha256": "d2ee67dccacf80b5f06b60df0a344384976b0bd4350d2c082f5b53029429420c",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-077/cleaned/dunmari-frontier-077-transcript.md",
+    "transcriptSha256": "dc94ed0070fc4aa7009b8297803c7524c66186b799e973b3c5c55d76a995290f"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0003"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u1941"
+      },
+      "category": "gameplay",
+      "note": "Tactical discussion is embedded in active telepathic planning, dinner and the narrated palace tour; brief connection and map interruptions remain in that ongoing activity."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u1942",
+        "endUid": "u1964"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1965",
+        "endUid": "u2496"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u2497",
+        "endUid": "u2551"
+      },
+      "category": "meta_discussion",
+      "note": "Rolls prepare the next session’s narrated day; they do not establish that an overnight or that day has elapsed in this transcript."
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2552",
+        "endUid": "u2566"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-077/cleaned/dunmari-frontier-077-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-077/cleaned/dunmari-frontier-077-time-markers.json",
+    "sha256": "3fb238ecb218062489009e5e15b668ea954ecd67dc0bd1703575745d5e6c287f"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-077/cleaned/dunmari-frontier-077-transcript.md",
+    "sha256": "dc94ed0070fc4aa7009b8297803c7524c66186b799e973b3c5c55d76a995290f"
+  },
+  "dateAssessment": "December 5, 1748 is spoken in this transcript (t04, u1954–u1955), and agrees with the YAML start. The afternoon opening and dusk dinner/late planning watches are rough inferences from the earlier audience being “this afternoon,” the evening meal, and about two hours of palace plotting. No new day is inferred at the session boundary. YAML ends December 6, but the party only returns to rest (t06); waking and the next day are deferred to the next session. The time extraction therefore remains compatible, with the end boundary open. Session 076’s closing “nears midnight” occurs in session-wrap-up discussion and supplies no secure in-world clock to carry across the handoff.",
+  "watches": [
+    {
+      "day": "December 5, 1748",
+      "startDate": "1748-12-05",
+      "endDate": "1748-12-05",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "Earlier audience was this afternoon; the half-hour ship interval and dinner countdowns follow.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03"
+      ],
+      "sourceRanges": [
+        [
+          "u0974",
+          "u0975"
+        ]
+      ]
+    },
+    {
+      "day": "December 5, 1748",
+      "startDate": "1748-12-05",
+      "endDate": "1748-12-05",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Evening dinner, then about two hours plotting; the party returns to rest without a narrated waking.",
+      "markers": [
+        "t04",
+        "t05",
+        "t06"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 076 handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-076/cleaned/dunmari-frontier-076-transcript.md",
+      "sha256": "2ddcbe080083e6bccf89f6f9dc80d225556338e393fd1bda6ac199eff18da831"
+    }
+  ]
+}
