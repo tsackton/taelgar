@@ -1,0 +1,143 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-083/cleaned/dunmari-frontier-083-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-083/cleaned/dunmari-frontier-083-time-markers.json",
+    "sha256": "970549dcc8196ee8e5b95d31882adf661c88e6ece36e7a787ef0b0ac9c8b7479"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-083/cleaned/dunmari-frontier-083-transcript.md",
+    "sha256": "b96c570d4fcaf610db1d2b90fc0b726de772416da1f5313403b67e22da05bdd8"
+  },
+  "dateAssessment": "The working calendar is December 30, 1748 through January 1, 1749, matching the YAML. The transcript independently says Tuesday/the second festival day, plays the following third day through evening, and explicitly reaches Thursday, January 1, 1749 at dawn (t01, t12–t15). This supports both calendar transitions without adding a metadata-only day. The opening recap of yesterday is not newly played downtime. Watch names use the fixed civil clock bands: the roughly 5–5:30 p.m. arrival falls in afternoon even though the DM describes seasonal sunset. The two-hour repair interval overlaps the late party; it is counted once.",
+  "watches": [
+    {
+      "day": "December 30, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Tuesday afternoon opening; guild arrival around 5–5:30 p.m., alongside seasonal sunset.",
+      "markers": [
+        "t01",
+        "t02"
+      ],
+      "startDate": "1748-12-30",
+      "endDate": "1748-12-30"
+    },
+    {
+      "day": "December 30, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Twenty-minute fireworks finish after 6 p.m.; final ship preparations follow.",
+      "markers": [
+        "t03",
+        "t04"
+      ],
+      "startDate": "1748-12-30",
+      "endDate": "1748-12-30"
+    },
+    {
+      "day": "December 30, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "mixed",
+      "summary": "Party begins around 10 p.m.; opening 30–45 minutes and roughly 11 p.m. crowd follow.",
+      "markers": [
+        "t05",
+        "t06",
+        "t07"
+      ],
+      "startDate": "1748-12-30",
+      "endDate": "1748-12-30"
+    },
+    {
+      "day": "December 30–31, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "mixed",
+      "summary": "Two-hour tinkering ends around 1:30 a.m.; inferred start around 11:30 p.m.",
+      "markers": [
+        "t10"
+      ],
+      "startDate": "1748-12-30",
+      "endDate": "1748-12-31",
+      "scope": "Seeker and Faldrak"
+    },
+    {
+      "day": "December 31, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "mixed",
+      "summary": "Past midnight, the party winds down around 1–1:30 a.m., approaching two.",
+      "markers": [
+        "t08",
+        "t09"
+      ],
+      "startDate": "1748-12-31",
+      "endDate": "1748-12-31"
+    },
+    {
+      "day": "December 31, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Party ends around 2 a.m.; Faldrak asks for transport home.",
+      "markers": [
+        "t11"
+      ],
+      "startDate": "1748-12-31",
+      "endDate": "1748-12-31"
+    },
+    {
+      "day": "December 31, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Kenzo confirms a morning return after the late-night departure; sleep duration remains unstated.",
+      "markers": [
+        "t12"
+      ],
+      "startDate": "1748-12-31",
+      "endDate": "1748-12-31",
+      "scope": "Kenzo"
+    },
+    {
+      "day": "December 31, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The final festival day passes in separate pursuits; its starting watch is unstated.",
+      "markers": [
+        "t13"
+      ],
+      "startDate": "1748-12-31",
+      "endDate": "1748-12-31"
+    },
+    {
+      "day": "December 31, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Seeker observes the quiet city from afternoon into evening, as the sun sinks and bonfires gather.",
+      "markers": [
+        "t14"
+      ],
+      "startDate": "1748-12-31",
+      "endDate": "1748-12-31",
+      "scope": "Seeker"
+    },
+    {
+      "day": "January 1, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "The festival and year end; Thursday, January 1, 1749 dawns.",
+      "markers": [
+        "t15"
+      ],
+      "startDate": "1749-01-01",
+      "endDate": "1749-01-01"
+    }
+  ]
+}

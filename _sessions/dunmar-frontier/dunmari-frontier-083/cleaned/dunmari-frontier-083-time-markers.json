@@ -1,0 +1,508 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-083",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-083/cleaned/dunmari-frontier-083-session.yaml",
+    "sessionYamlSha256": "e9d819e3aae795d0489b823719e3b75e7b8628a821a6c66a5632eaec16716555",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-083/cleaned/dunmari-frontier-083-transcript.md",
+    "transcriptSha256": "b96c570d4fcaf610db1d2b90fc0b726de772416da1f5313403b67e22da05bdd8",
+    "yamlDates": {
+      "start": "1748-12-30",
+      "end": "1749-01-01"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0018",
+        "endUid": "u0026"
+      },
+      "reading": "Play opens Tuesday afternoon, the second day of Pyravela, in Tollen.",
+      "evidence": [
+        {
+          "startUid": "u0018",
+          "endUid": "u0026",
+          "quote": "we begin on the afternoon of—a Tuesday afternoon, the second of the 3 days of the Pyravela festival."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Opening says Tuesday, second festival day; December 30 follows backward from the played third day and explicit January 1, 1749 endpoint, consistent with YAML.",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 30
+        },
+        "partOfDay": "afternoon"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0198",
+        "endUid": "u0207"
+      },
+      "reading": "The four companions reach the Dyer’s Guild party around 5–5:30 p.m., as sunset begins.",
+      "evidence": [
+        {
+          "startUid": "u0198",
+          "endUid": "u0207",
+          "quote": "you arrived there around 5, 5, 30 or so, as the sun is beginning to set"
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "Stated approximate arrival window; date from opening calendar.",
+          "date": {
+            "year": 1748,
+            "month": 12,
+            "day": 30
+          },
+          "clock": "17:00"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "Stated approximate arrival window; date from opening calendar.",
+          "date": {
+            "year": 1748,
+            "month": 12,
+            "day": 30
+          },
+          "clock": "17:30"
+        }
+      },
+      "note": "Sunset is narrated alongside the clock window; the review uses the fixed civil-watch clock bands without replacing this seasonal description."
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0926",
+        "endUid": "u0949"
+      },
+      "reading": "The guild’s magical fireworks play for about twenty minutes.",
+      "evidence": [
+        {
+          "startUid": "u0926",
+          "endUid": "u0936",
+          "quote": "the first fireworks launch off"
+        },
+        {
+          "startUid": "u0945",
+          "endUid": "u0949",
+          "quote": "And goes on for maybe 20 min or so."
+        }
+      ],
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates the completed fireworks display."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0950",
+        "endUid": "u0953"
+      },
+      "reading": "The fireworks end after 6 p.m.; the companions leave for final ship preparations.",
+      "evidence": [
+        {
+          "startUid": "u0950",
+          "endUid": "u0953",
+          "quote": "as the fireworks end, you realize, like, you know, it's past 6 now."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM says past six, an approximate lower clock anchor.",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 30
+        },
+        "clock": "18:00"
+      },
+      "note": "The three or four hours until the party is a forecast, superseded by its actual ten o’clock opening."
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1041",
+        "endUid": "u1043"
+      },
+      "reading": "The party aboard Vindristjarna begins around 10 p.m.",
+      "evidence": [
+        {
+          "startUid": "u1041",
+          "endUid": "u1043",
+          "quote": "party begins around 10, something like that."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated party opening; evening context makes this 22:00.",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 30
+        },
+        "clock": "22:00"
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1070",
+        "endUid": "u1075"
+      },
+      "reading": "The first half hour to forty-five minutes of the ship’s party is almost entirely nonhuman guests.",
+      "evidence": [
+        {
+          "startUid": "u1070",
+          "endUid": "u1075",
+          "quote": "the first, I don't know, half hour or so, 45 min"
+        }
+      ],
+      "duration": {
+        "min": 30,
+        "minInclusive": true,
+        "max": 45,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s approximate elapsed opening interval."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1144",
+        "endUid": "u1155"
+      },
+      "reading": "By about 11 p.m. roughly a hundred guests are aboard and the performance is underway.",
+      "evidence": [
+        {
+          "startUid": "u1144",
+          "endUid": "u1155",
+          "quote": "beginning to get a crowd by, you know, 11, something like that"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s explicit approximate crowd anchor.",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 30
+        },
+        "clock": "23:00"
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1577",
+        "endUid": "u1583"
+      },
+      "reading": "It is past midnight; the party is winding down while Seeker and Faldrak still tinker.",
+      "evidence": [
+        {
+          "startUid": "u1577",
+          "endUid": "u1583",
+          "quote": "Now, sort of past midnight, and the party's winding down a little bit."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "The following morning is the third festival day; its evening precedes the explicit January 1, 1749 dawn.",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 31
+        },
+        "partOfDay": "after midnight"
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1625",
+        "endUid": "u1626"
+      },
+      "reading": "The party winds down around 1–1:30 a.m., approaching two.",
+      "evidence": [
+        {
+          "startUid": "u1625",
+          "endUid": "u1626",
+          "quote": "one am, 1 30, like, as it creeps towards two"
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "Narrated approximate winding-down interval.",
+          "date": {
+            "year": 1748,
+            "month": 12,
+            "day": 31
+          },
+          "clock": "01:00"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "Approaching two; the endpoint remains approximate.",
+          "date": {
+            "year": 1748,
+            "month": 12,
+            "day": 31
+          },
+          "clock": "02:00"
+        }
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1628",
+        "endUid": "u1639"
+      },
+      "reading": "Seeker and Faldrak finish repairing the pinball machine around 1:30 a.m., after two hours of tinkering.",
+      "evidence": [
+        {
+          "startUid": "u1628",
+          "endUid": "u1639",
+          "quote": "They finally like at 1 30"
+        },
+        {
+          "startUid": "u1628",
+          "endUid": "u1639",
+          "quote": "after Seeker and Faldrak have spent 2 h tinkering with it."
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Faldrak"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s approximate completion clock.",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 31
+        },
+        "clock": "01:30"
+      },
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Explicitly completed two-hour tinkering interval."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1654",
+        "endUid": "u1659"
+      },
+      "reading": "The party has ended around two a.m.; Faldrak asks for transport home.",
+      "evidence": [
+        {
+          "startUid": "u1654",
+          "endUid": "u1659",
+          "quote": "Parties basically ended."
+        },
+        {
+          "startUid": "u1654",
+          "endUid": "u1659",
+          "quote": "I don't want to walk 2 h at 2 A. M."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Party ending and Faldrak’s immediate two-a.m. request.",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 31
+        },
+        "clock": "02:00"
+      }
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1697",
+        "endUid": "u1701"
+      },
+      "reading": "The table closes the night with late sleep; Kenzo confirms returning to the ship the next morning.",
+      "evidence": [
+        {
+          "startUid": "u1697",
+          "endUid": "u1699",
+          "quote": "You all sleep late. Does Kenzo come back to the ship?"
+        },
+        {
+          "startUid": "u1700",
+          "endUid": "u1701",
+          "quote": "Yeah, the next day or in the morning"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "The following morning is the third festival day; its evening precedes the explicit January 1, 1749 dawn.",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 31
+        },
+        "partOfDay": "morning"
+      },
+      "completion": "completed",
+      "note": "No long rest or eight-hour duration is stated. Sleeping after the two-a.m. ending does not add another calendar transition.",
+      "actors": [
+        "Kenzo"
+      ]
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1758",
+        "endUid": "u1767"
+      },
+      "reading": "The final festival day passes in separate personal pursuits, at the end of December.",
+      "evidence": [
+        {
+          "startUid": "u1758",
+          "endUid": "u1767",
+          "quote": "the day passes, all you in your separate pursuits."
+        },
+        {
+          "startUid": "u1758",
+          "endUid": "u1767",
+          "quote": "It's end of December, right?"
+        }
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "The following morning is the third festival day; its evening precedes the explicit January 1, 1749 dawn.",
+        "date": {
+          "year": 1748,
+          "month": 12,
+          "day": 31
+        }
+      },
+      "duration": {
+        "text": "the remaining festival day",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Narrated day montage, not a measured twenty-four-hour interval."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1803",
+        "endUid": "u1817"
+      },
+      "reading": "Seeker observes the city through the afternoon into evening, as the low sun and public bonfires mark the final festival observances.",
+      "evidence": [
+        {
+          "startUid": "u1803",
+          "endUid": "u1817",
+          "quote": "this afternoon and into the evening of this third day."
+        },
+        {
+          "startUid": "u1803",
+          "endUid": "u1817",
+          "quote": "as the sun begins to sink low in the sky"
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "The following morning is the third festival day; its evening precedes the explicit January 1, 1749 dawn.",
+          "date": {
+            "year": 1748,
+            "month": 12,
+            "day": 31
+          },
+          "partOfDay": "afternoon"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "Low sun as bonfires gather; date from final festival day.",
+          "date": {
+            "year": 1748,
+            "month": 12,
+            "day": 31
+          },
+          "partOfDay": "sunset"
+        }
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t13"
+        }
+      ]
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1836",
+        "endUid": "u1848"
+      },
+      "reading": "After the final day and evening, the festival and year end; January 1, 1749 dawns, a Thursday.",
+      "evidence": [
+        {
+          "startUid": "u1836",
+          "endUid": "u1848",
+          "quote": "the festival ends, year ends. 1749 dawns, January first."
+        },
+        {
+          "startUid": "u1836",
+          "endUid": "u1848",
+          "quote": "this is Thursday"
+        }
+      ],
+      "time": {
+        "precision": "exact",
+        "basis": "DM explicitly states year, month/day, dawn, and weekday.",
+        "date": {
+          "year": 1749,
+          "month": 1,
+          "day": 1
+        },
+        "partOfDay": "dawn"
+      },
+      "dateBoundaries": 1
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "January 1, 1749 and Thursday are spoken at u1836–u1848. The preceding third festival day is December 31, and its preceding Tuesday opening is December 30. YAML supplies the same start/end; no metadata day is inserted.",
+    "expectedDateBoundaries": 2,
+    "supportedDateBoundaries": 2,
+    "evidence": [
+      "t01",
+      "t08",
+      "t12",
+      "t13",
+      "t15"
+    ],
+    "explanation": "The second-day afternoon and late party cross midnight once; the following third-day montage continues into evening and then explicitly reaches New Year’s dawn. The initial recap of yesterday is framing, not newly played retrospective downtime. Sleeping after 2 a.m. stays on December 31. Proposed future days and weeks do not extend this played interval."
+  }
+}

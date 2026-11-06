@@ -1,0 +1,557 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-083",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-083/cleaned/dunmari-frontier-083-session.yaml",
+    "sessionYamlSha256": "e9d819e3aae795d0489b823719e3b75e7b8628a821a6c66a5632eaec16716555",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-083/cleaned/dunmari-frontier-083-transcript.md",
+    "transcriptSha256": "b96c570d4fcaf610db1d2b90fc0b726de772416da1f5313403b67e22da05bdd8"
+  },
+  "places": {
+    "p01": {
+      "label": "Tollen",
+      "evidence": [
+        {
+          "startUid": "u0018",
+          "endUid": "u0026",
+          "quote": "DM: So, we begin on the afternoon of—a Tuesday afternoon, the second of the 3 days of the Pyravela festival. You've spent the past day and a half, since arriving back in Tollen, connecting with contacts, preparing to host your own party on on Vindristjarna, your skyship, making some initial inquiries around Tollen about stuff you might want to buy or purchase while you're here, not only with Umli, but also, you know, at least beginning to plan out how you might improve or pay to have some work done on your skyship."
+        }
+      ],
+      "kind": "city",
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Tollen.md"
+    },
+    "p02": {
+      "label": "Fire and Stone",
+      "evidence": [
+        {
+          "startUid": "u0065",
+          "endUid": "u0075",
+          "quote": "DM: Yeah, yeah. Yeah. Now, after leaving the Fire and Stone, the dwarven bar where Umli hangs out, you are heading, after a brief stop for some final prep, to the Dyer's Guildhall, where you've been in—well, nobody's invited to these parties specifically—where you have heard that the Dyer's Guild party takes place, starting around sunset around 5 Pm. And you have been. Kenzo has learned from from his tattoo artist friends, Cecilia Lister, that the merchant ship Captain Jane Chapman, is the person to speak to should you wish to learn something of Ursk. And she is expected to be here at this—at this party. Hold on 1 s."
+        }
+      ],
+      "kind": "tavern",
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Places/The Fire and Stone.md",
+      "note": "Named departure in Tollen’s opening context; the transcript does not revisit the consultation here."
+    },
+    "p03": {
+      "label": "Guildgate",
+      "evidence": [
+        {
+          "startUid": "u0198",
+          "endUid": "u0207",
+          "quote": "DM: Okay. So as you proceed to the Dyer's Guild party, you arrived there around 5, 5, 30 or so, as the sun is beginning to set and it's held in this quite—it's, it's the—so, The Guildgate district of—or ward of Tollen is a bit away from the river, and it's—it's full of these elaborate, you know, almost like Italian piazza type buildings, not like huge extensive grounds or anything. Right? They they're like nestled within the tight walls of the city. There's still very few open spaces. But you can, you can tell you've moved like away from the river here into a a less commercial and less and richer area of the city."
+        }
+      ],
+      "kind": "ward",
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Wards/Guildgate.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0198",
+              "endUid": "u0207",
+              "quote": "The Guildgate district of—or ward of Tollen"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Dyer's Guildhall",
+      "evidence": [
+        {
+          "startUid": "u0208",
+          "endUid": "u0218",
+          "quote": "DM: And the Dyer's Guild Building itself is this elaborate 4-story, app, palace, basically, that's that's been decorated for this party with these incredible banners of multi—of this just rainbow multihued huge fabric draped across the outsides of the building was just, you know, a riot of color everywhere, and the party itself, even at 5 something is extremely crowded. Right? There's hundreds of people packed into this sort of courtyard space in front of this piazza. There's like one of those, you know, there's like a row of arches that you know leads into the sort of main main building, the the great hall and and these are, you know, thrown open, and there's people streaming in and out, and it's you know, everywhere. You—you know, you're pushing through a crowd here. Right? This is—this is clearly sounds. This is, it's less familiar than the than the Isingue party which was really, you know, everybody knew each other was fairly small, and it's less about a show than the university party, where, you know, there was all these like magic lights, and you know Thomas Hawke was reciting a a monologue from his one of his plays, and there were performers and games of chance. This is, you know, a whirlwind of eating and and drinking mostly."
+        }
+      ],
+      "kind": "guildhall",
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Places/Dyer's Guildhall.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0198",
+              "endUid": "u0218",
+              "quote": "the Dyer's Guild Building itself is this elaborate 4-story"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Guildhall courtyard and piazza",
+      "evidence": [
+        {
+          "startUid": "u0208",
+          "endUid": "u0218",
+          "quote": "DM: And the Dyer's Guild Building itself is this elaborate 4-story, app, palace, basically, that's that's been decorated for this party with these incredible banners of multi—of this just rainbow multihued huge fabric draped across the outsides of the building was just, you know, a riot of color everywhere, and the party itself, even at 5 something is extremely crowded. Right? There's hundreds of people packed into this sort of courtyard space in front of this piazza. There's like one of those, you know, there's like a row of arches that you know leads into the sort of main main building, the the great hall and and these are, you know, thrown open, and there's people streaming in and out, and it's you know, everywhere. You—you know, you're pushing through a crowd here. Right? This is—this is clearly sounds. This is, it's less familiar than the than the Isingue party which was really, you know, everybody knew each other was fairly small, and it's less about a show than the university party, where, you know, there was all these like magic lights, and you know Thomas Hawke was reciting a a monologue from his one of his plays, and there were performers and games of chance. This is, you know, a whirlwind of eating and and drinking mostly."
+        }
+      ],
+      "kind": "courtyard",
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0208",
+              "endUid": "u0218",
+              "quote": "courtyard space in front of this piazza"
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0198",
+              "endUid": "u0218",
+              "quote": "hundreds of people packed into this sort of courtyard space"
+            }
+          ]
+        }
+      ],
+      "note": "The party flows between the courtyard, arches, and great hall; the outdoor courtyard is not placed inside the guildhall building."
+    },
+    "p06": {
+      "label": "Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u0018",
+          "endUid": "u0026",
+          "quote": "DM: So, we begin on the afternoon of—a Tuesday afternoon, the second of the 3 days of the Pyravela festival. You've spent the past day and a half, since arriving back in Tollen, connecting with contacts, preparing to host your own party on on Vindristjarna, your skyship, making some initial inquiries around Tollen about stuff you might want to buy or purchase while you're here, not only with Umli, but also, you know, at least beginning to plan out how you might improve or pay to have some work done on your skyship."
+        }
+      ],
+      "mobile": true,
+      "aliases": [
+        "skyship",
+        "ship"
+      ],
+      "kind": "skyship",
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p07": {
+      "label": "Steering chamber",
+      "evidence": [
+        {
+          "startUid": "u1474",
+          "endUid": "u1478",
+          "quote": "DM: Yeah, yeah, I get it. Okay. So while Wellby's circulating, or, well, while Seeker is like disappearing into the—like, you guys sort of noticed like, Seeker's like leading this like weird dwarf into the steering chamber where the phasing stone is."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1474",
+              "endUid": "u1478",
+              "quote": "steering chamber where the phasing stone is"
+            }
+          ]
+        }
+      ],
+      "note": "The narrated visit is immediately corrected; Seeker and Faldrak stay at the pinball machine."
+    },
+    "p08": {
+      "label": "Small boat beneath the ship",
+      "evidence": [
+        {
+          "startUid": "u1640",
+          "endUid": "u1652",
+          "quote": "Seeker: Oh, I'll show him the acid damage."
+        }
+      ],
+      "mobile": true,
+      "kind": "boat"
+    },
+    "p09": {
+      "label": "Faldrak's house",
+      "evidence": [
+        {
+          "startUid": "u1654",
+          "endUid": "u1659",
+          "quote": "DM: So, so, then it's like, you know, to something like that. The halflings have pretty much all left since music is over. Kaupa leaves. Iskra still hanging around chilling with Kenzo. Parties basically ended. Faldrak asks if you can fly back to his—back to his house. \"I don't want to walk 2 h at 2 A. M. You got a place to sleep, or maybe you can just fly me home?\""
+        }
+      ],
+      "kind": "home",
+      "note": "Faldrak’s intended homeward destination. His earlier “Give Northgate” reply at u1234 is uncertain; no ward or house identity is imposed, and arrival is not narrated."
+    },
+    "p10": {
+      "label": "Iskra's home",
+      "evidence": [
+        {
+          "startUid": "u1687",
+          "endUid": "u1688",
+          "quote": "Kenzo: Kenzo. Kenzo will be a gentleman and walk Iskra home."
+        }
+      ],
+      "kind": "home",
+      "note": "The homeward destination is unnamed; her temple is not assumed to be this residence."
+    },
+    "p11": {
+      "label": "City squares and bonfires",
+      "evidence": [
+        {
+          "startUid": "u1803",
+          "endUid": "u1817",
+          "quote": "DM: Seeker kind of wanders around a bit, I guess. Just kind of you know observing a little bit, and like, it's the city is really quiet this time of this, you know, this afternoon and into the evening of this third day. Right, you you have to send. A lot of people are like kind of in small family groups, right? And and as the sun begins to sink low in the sky, you know, people start to come out to the squares, to the sort of open places, a. And like there are, you know, the guild parties. Right? There's there's bonfires. There's actually this seems to be almost like an official city thing, right, where there's the like—the the, you know, the Tollen guard, right, the same uniforms as the people who originally boarded your your ship when you first—are like, you know, piling up law, you know, logs in all these open squares, right, and, you know, people are beginning to gather right as as the bonfires are, are start to be made, and but people are just mostly just kind of sitting quietly, right? Sometimes people throw things on the fire. And you know there's kind of a—it. It all seems very foreign to Seeker. I would think, right? Like, it's you know, people sitting quietly by themselves in prayer. It's kind of staring into the fire, right? Like, there's no there's no obvious magic, right? But you certainly get the sense that there is this kind of divine—I think [garbled] divine blanket sort of lie lightly over the—looks like a fog—[garbled]. It's kind of experiencing it and and Delwath, too, right? Delwath is sort of."
+        }
+      ],
+      "kind": "public squares",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1803",
+              "endUid": "u1817",
+              "quote": "the city is really quiet"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0065",
+        "endUid": "u0075"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "Leave the Fire and Stone, make a brief final-preparation stop, and reach the Dyer’s Guild celebration in Guildgate.",
+      "evidence": [
+        {
+          "startUid": "u0065",
+          "endUid": "u0075",
+          "quote": "after leaving the Fire and Stone, the dwarven bar where Umli hangs out, you are heading, after a brief stop for some final prep, to the Dyer's Guildhall"
+        },
+        {
+          "startUid": "u0198",
+          "endUid": "u0218",
+          "quote": "you arrived there around 5, 5, 30 or so"
+        },
+        {
+          "startUid": "u0208",
+          "endUid": "u0218",
+          "quote": "hundreds of people packed into this sort of courtyard space"
+        }
+      ],
+      "from": "p02",
+      "to": "p05",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Brief final-preparation stop; its location is not independently stated."
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0950",
+        "endUid": "u0953"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "Leave the fireworks and return to Vindristjarna to prepare and host the late party.",
+      "evidence": [
+        {
+          "startUid": "u0950",
+          "endUid": "u0953",
+          "quote": "you make your way away from the Dyer's Guild party heading back to the ship."
+        },
+        {
+          "startUid": "u1044",
+          "endUid": "u1052",
+          "quote": "They show up. They're like, you know, you know, crowding around Wellby"
+        },
+        {
+          "startUid": "u1188",
+          "endUid": "u1206",
+          "quote": "solid stone beneath his feet"
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "locationContext": [
+        {
+          "subject": "p06",
+          "relation": "in_locality_of",
+          "target": "p01"
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u1474",
+        "endUid": "u1479"
+      },
+      "actors": [
+        "Seeker",
+        "Faldrak"
+      ],
+      "reading": "A narrated steering-chamber visit is withdrawn after Seeker says it was deferred; they remain fixing the pinball machine.",
+      "evidence": [
+        {
+          "startUid": "u1474",
+          "endUid": "u1479",
+          "quote": "Seeker's like leading this like weird dwarf into the steering chamber"
+        },
+        {
+          "startUid": "u1474",
+          "endUid": "u1479",
+          "quote": "Oh, I did tell him that we would do that when he came back in a couple days."
+        },
+        {
+          "startUid": "u1474",
+          "endUid": "u1479",
+          "quote": "Okay so you're not doing that."
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "canceled",
+      "context": "planned"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u1640",
+        "endUid": "u1652"
+      },
+      "actors": [
+        "Seeker",
+        "Faldrak"
+      ],
+      "reading": "Use a small boat beneath Vindristjarna to inspect the patched acid damage.",
+      "evidence": [
+        {
+          "startUid": "u1640",
+          "endUid": "u1642",
+          "quote": "We'd have to get in a regular boat underneath to look at it."
+        },
+        {
+          "startUid": "u1640",
+          "endUid": "u1642",
+          "quote": "But yeah, he, you know he looks at that."
+        },
+        {
+          "startUid": "u1647",
+          "endUid": "u1652",
+          "quote": "you shine your flashlight in there. You can see, like you know, the patch job that you've done."
+        }
+      ],
+      "from": "p06",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "boat",
+      "locationContext": [
+        {
+          "subject": "p08",
+          "relation": "below",
+          "target": "p06"
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1654",
+        "endUid": "u1686"
+      },
+      "actors": [
+        "Seeker",
+        "Faldrak"
+      ],
+      "reading": "Seeker agrees to take Faldrak home on Ladder; the two fly off, without a narrated home arrival.",
+      "evidence": [
+        {
+          "startUid": "u1654",
+          "endUid": "u1659",
+          "quote": "Faldrak asks if you can fly back to his—back to his house."
+        },
+        {
+          "startUid": "u1685",
+          "endUid": "u1686",
+          "quote": "I'll just go with it."
+        },
+        {
+          "startUid": "u1686",
+          "endUid": "u1686",
+          "quote": "Seeker and this dwarf fly off."
+        }
+      ],
+      "from": "p06",
+      "to": "p09",
+      "completion": "underway",
+      "mode": "fly on Ladder",
+      "note": "Their return from the underside inspection is compressed into the party’s ending and departure; no separate unseen route is reconstructed."
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1687",
+        "endUid": "u1688"
+      },
+      "actors": [
+        "Kenzo",
+        "Iskra"
+      ],
+      "reading": "Kenzo sets out to walk Iskra home; the destination itself is not shown.",
+      "evidence": [
+        {
+          "startUid": "u1687",
+          "endUid": "u1688",
+          "quote": "Kenzo will be a gentleman and walk Iskra home."
+        },
+        {
+          "startUid": "u1687",
+          "endUid": "u1688",
+          "quote": "DM: Okay."
+        }
+      ],
+      "from": "p06",
+      "to": "p10",
+      "completion": "underway",
+      "mode": "walk"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1697",
+        "endUid": "u1701"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo confirms returning to the ship the following morning.",
+      "evidence": [
+        {
+          "startUid": "u1697",
+          "endUid": "u1699",
+          "quote": "Does Kenzo come back to the ship?"
+        },
+        {
+          "startUid": "u1700",
+          "endUid": "u1701",
+          "quote": "Yeah, the next day or in the morning"
+        }
+      ],
+      "from": null,
+      "to": "p06",
+      "completion": "arrived"
+    },
+    {
+      "id": "l08",
+      "type": "presence",
+      "source": {
+        "startUid": "u1732",
+        "endUid": "u1745"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby spends the final festival day reconnecting and telling stories with the local halflings in Tollen; no specific tavern is chosen.",
+      "evidence": [
+        {
+          "startUid": "u1732",
+          "endUid": "u1739",
+          "quote": "I think that's what he's doing and like catching up with relatives"
+        },
+        {
+          "startUid": "u1758",
+          "endUid": "u1767",
+          "quote": "the day passes, all you in your separate pursuits."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l09",
+      "type": "presence",
+      "source": {
+        "startUid": "u1753",
+        "endUid": "u1757"
+      },
+      "actors": [
+        "Kenzo",
+        "Iskra"
+      ],
+      "reading": "Kenzo spends the day with Iskra, letting her guide him through traditions around Tollen.",
+      "evidence": [
+        {
+          "startUid": "u1753",
+          "endUid": "u1757",
+          "quote": "Kenzo basically spends the day with Iskra"
+        },
+        {
+          "startUid": "u1783",
+          "endUid": "u1785",
+          "quote": "there, in a place like Tollen"
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l10",
+      "type": "presence",
+      "source": {
+        "startUid": "u1803",
+        "endUid": "u1817"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath"
+      ],
+      "reading": "Seeker observes the city squares and bonfires; Delwath also experiences the festival while communing with the tanshi.",
+      "evidence": [
+        {
+          "startUid": "u1803",
+          "endUid": "u1817",
+          "quote": "people start to come out to the squares"
+        },
+        {
+          "startUid": "u1803",
+          "endUid": "u1817",
+          "quote": "and Delwath, too, right? Delwath is sort of."
+        },
+        {
+          "startUid": "u1818",
+          "endUid": "u1832",
+          "quote": "Praying or or not really praying exactly, but communing with, talking to tanshi"
+        }
+      ],
+      "place": "p11"
+    }
+  ]
+}
