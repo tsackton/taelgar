@@ -1,0 +1,375 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-130",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-130/cleaned/dunmari-frontier-130-session.yaml",
+    "sessionYamlSha256": "97edff73efbf4c346c1c286a0744e07fc6047c1dee656d1094c49a1b539e0b26",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-130/cleaned/dunmari-frontier-130-transcript.md",
+    "transcriptSha256": "4d36e7c23579f9991e3c8ec7501b1debe2548ff07a5e3070e1c7648fed254938",
+    "yamlDates": {
+      "start": "1749-08-07",
+      "end": "1749-08-07"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0015"
+      },
+      "reading": "Play resumes on the morning of August 7 at the dry hillock in the upper Aursen marshes.",
+      "time": {
+        "precision": "approximate",
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 7
+        },
+        "partOfDay": "morning",
+        "basis": "DM states month, day and morning at u0200–u0203; year comes from compatible YAML."
+      },
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0015",
+          "quote": "we pick up in the morning"
+        },
+        {
+          "startUid": "u0200",
+          "endUid": "u0203",
+          "quote": "It's August 7th in the morning."
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0626",
+        "endUid": "u0639"
+      },
+      "reading": "The five travelers complete a flight of a couple of hours upriver to Three Wells.",
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker",
+        "Seeker IV"
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM narrates a couple of hours of completed flight."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0626",
+          "endUid": "u0639",
+          "quote": "it takes you a couple of hours"
+        },
+        {
+          "startUid": "u0697",
+          "endUid": "u0702",
+          "quote": "you land, you shift back into people."
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0656",
+        "endUid": "u0657"
+      },
+      "reading": "The arrival discussion at Three Wells is placed at about 11:30 a.m.",
+      "time": {
+        "precision": "approximate",
+        "clock": "11:30",
+        "basis": "DM contrasts current 11:30 with the ship’s 9 a.m. estimate; morning-to-midday flight supplies a.m. context."
+      },
+      "evidence": [
+        {
+          "startUid": "u0656",
+          "endUid": "u0657",
+          "quote": "9 AM was 96 hours away. It's now… say, 11.30, so it's 93 and a half hours away."
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1933",
+        "endUid": "u1934"
+      },
+      "reading": "Delwath’s thought-reading interrogation runs to the end of its one-minute spell.",
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Spell duration explicitly stated and its ending narrated during the interrogation."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1933",
+          "endUid": "u1934",
+          "quote": "Detect Thoughts only lasts a minute"
+        },
+        {
+          "startUid": "u1970",
+          "endUid": "u1971",
+          "quote": "Detect Thoughts is ending as he’s thinking."
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u2120",
+        "endUid": "u2135"
+      },
+      "reading": "Around midday Delwath takes an accepted short rest before scrying.",
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Short-rest convention; the DM accepts the rest-then-scry sequence and resolves the scry."
+      },
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "middle of the day",
+        "basis": "Delwath calls it the middle of the day before the rest, and the DM accepts the sequence."
+      },
+      "completion": "completed",
+      "note": "The Dream proposal is not carried out after scrying shows the Empress awake.",
+      "evidence": [
+        {
+          "startUid": "u2120",
+          "endUid": "u2124",
+          "quote": "I want a short rest, and then I want to scry."
+        },
+        {
+          "startUid": "u2126",
+          "endUid": "u2129",
+          "quote": "I’m gonna short rest, and then scry, and then cast Dream."
+        },
+        {
+          "startUid": "u2132",
+          "endUid": "u2135",
+          "quote": "Scrying. Plus 5."
+        },
+        {
+          "startUid": "u2155",
+          "endUid": "u2163",
+          "quote": "you… see… the camp."
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u2170",
+        "endUid": "u2174"
+      },
+      "reading": "Delwath’s scrying lasts ten minutes and ends after the sensor is blinded and shows strange flashes.",
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Duration confirmed at the table; the spell’s ending is then narrated."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2170",
+          "endUid": "u2174",
+          "quote": "Scry lasts for 10 minutes."
+        },
+        {
+          "startUid": "u2175",
+          "endUid": "u2177",
+          "quote": "Scry lasts for 10, I'm double checking. … what's the duration? Ten, that's yes."
+        },
+        {
+          "startUid": "u2189",
+          "endUid": "u2205",
+          "quote": "and then the spell ends."
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u2178",
+        "endUid": "u2188"
+      },
+      "reading": "Two or three minutes into the scrying, the Empress blinds the sensor with flowing metal.",
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "min": 2,
+        "minInclusive": true,
+        "max": 3,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s elapsed pacing interval before the Empress notices the sensor."
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t06",
+          "note": "This interval is inside the ten-minute scry and adds no extra elapsed time."
+        }
+      ],
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2178",
+          "endUid": "u2188",
+          "quote": "after, like, 2-3 minutes, she stops."
+        },
+        {
+          "startUid": "u2178",
+          "endUid": "u2188",
+          "quote": "wraps itself around the eye, which I’m gonna say blinds it, although you can still hear, I guess."
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2234",
+        "endUid": "u2243"
+      },
+      "reading": "A good part of the afternoon passes while Delwath sends orders by lynx and the camp organizes troop movements.",
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "text": "a good part of the afternoon",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Narrated elapsed logistics; individual messenger journeys are nested, not separate party travel."
+      },
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "afternoon",
+        "basis": "DM explicitly places the message-sending interval in the afternoon."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2234",
+          "endUid": "u2243",
+          "quote": "The afternoon passes with messages being sent."
+        },
+        {
+          "startUid": "u2234",
+          "endUid": "u2243",
+          "quote": "This ends up taking… you know… a good part of the afternoon"
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2245",
+        "endUid": "u2248"
+      },
+      "reading": "By dinner time news of the plans has spread through Three Wells.",
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "dinner time",
+        "basis": "DM’s current-play endpoint after the afternoon logistics."
+      },
+      "evidence": [
+        {
+          "startUid": "u2245",
+          "endUid": "u2248",
+          "quote": "by, you know, dinner time… you know, news has spread… through the… through Three Wells"
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2495",
+        "endUid": "u2499"
+      },
+      "reading": "After the afternoon planning, the party settles into camp at night and catches up with Marcella.",
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "night",
+        "basis": "DM explicitly establishes the night-camp conversation after the afternoon planning."
+      },
+      "note": "The afternoon planning overlaps the already narrated message-sending period; it is not another afternoon.",
+      "evidence": [
+        {
+          "startUid": "u2495",
+          "endUid": "u2499",
+          "quote": "you spend the afternoon plotting and planning."
+        },
+        {
+          "startUid": "u2495",
+          "endUid": "u2499",
+          "quote": "As you settle in… to camp this night"
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u2621",
+        "endUid": "u2622"
+      },
+      "reading": "The party drifts off for the night as the session ends; the overnight rest has begun.",
+      "completion": "begun",
+      "time": {
+        "precision": "approximate",
+        "partOfDay": "night",
+        "basis": "Closing narration establishes drifting off, without waking or completed overnight passage."
+      },
+      "evidence": [
+        {
+          "startUid": "u2616",
+          "endUid": "u2620",
+          "quote": "Leaves you to your rest"
+        },
+        {
+          "startUid": "u2621",
+          "endUid": "u2622",
+          "quote": "As you drift off for the night"
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "August 7 and morning are spoken at u0200–u0203. The year 1749 is YAML-derived. The resumed morning, flight, midday spell sequence, afternoon logistics and night camp all belong to this same date.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": 0,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t05",
+      "t08",
+      "t09",
+      "t10",
+      "t11"
+    ],
+    "explanation": "The full played interval runs from the resumed morning through drifting off that night. No waking, completed overnight rest or next-day event is established. The remembered 2 a.m. Marcella conversation belongs to the previous session’s handoff; forecasts, imagined sunset during an oath, and future attacks do not extend this session."
+  }
+}

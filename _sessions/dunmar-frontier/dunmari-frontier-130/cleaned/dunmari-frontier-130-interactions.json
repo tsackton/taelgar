@@ -1,0 +1,2346 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-130/cleaned/dunmari-frontier-130-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "4d36e7c23579f9991e3c8ec7501b1debe2548ff07a5e3070e1c7648fed254938"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-130/cleaned/dunmari-frontier-130-entity-map.json",
+      "sha256": "8797d45bcd8c0a189b3d6b078efc9155005051bb34ff9986b4dadd891640d655"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Szoltár describes the Empress and Iron Fang",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0056",
+        "endUid": "u0172"
+      },
+      "lines": [
+        "%% u0056:0-103 %%",
+        "Wellby: Where did the… where did the Empress come from? She's been planning this… how long has she been around?",
+        "",
+        "%% u0057:0-42 %%",
+        "Kenzo: Yeah, tell us the story about the Empress.",
+        "",
+        "%% u0058:0-11 %%",
+        "Wellby: Yeah, yeah.",
+        "",
+        "%% u0059:0-44, u0060:0-27, u0061:0-18, u0062:0-4, u0063:0-11 %%",
+        "DM: Takes his sword, and he… and he holds it up: “The Empress! Great Empress! She has been here… wow… many years.”",
+        "",
+        "%% u0064:0-16, u0065:0-5, u0066:0-4, u0067:0-6, u0068:0-28, u0069:0-65, u0070:0-139, u0071:0-146, u0072:0-97, u0073:0-19, u0074:0-30, u0075:0-6, u0076:0-44, u0077:0-27, u0078:0-95, u0079:0-15, u0080:0-65, u0081:0-14, u0082:0-59, u0083:0-8, u0084:0-34, u0085:0-14, u0086:0-63, u0087:0-16, u0088:0-54, u0089:0-33, u0090:0-47, u0091:0-46, u0092:0-5, u0093:0-5, u0094:0-40, u0095:0-33, u0096:0-4, u0097:0-11, u0098:0-7, u0099:0-5, u0100:0-22, u0101:0-50, u0102:0-84, u0103:0-4, u0104:0-14, u0105:0-5, u0106:0-10, u0107:0-39, u0108:0-5, u0109:0-8, u0110:0-67, u0111:0-70, u0112:0-10, u0113:0-190, u0114:0-51, u0115:0-11, u0116:0-9, u0117:0-31, u0118:0-15, u0119:0-5, u0120:0-9 %%",
+        "((Arrival chatter and discussion of chaos-metal appearances))",
+        "",
+        "%% u0121:0-98 %%",
+        "DM: Seeker is lost in thought, as Szoltár the Hobgoblin is telling the story of… The Empress of Chaos.",
+        "",
+        "%% u0122:0-44 %%",
+        "Seeker: Writing down runic equations for combustion.",
+        "",
+        "%% u0123:0-54, u0124:0-42, u0125:0-68 %%",
+        "DM: “Even… even when I was a small one, she was leading us. She has… ruled the Iron Fang for… decades. Some say she cannot die. She has been with us for a century or more.”",
+        "",
+        "%% u0126:0-105, u0127:0-55, u0128:0-10, u0129:0-18, u0130:0-33 %%",
+        "DM: “Our… history, though, since the… horrific betrayal by the Shattered Ice Hobgoblins, we have lived in the… Scraplands, east of the Istaros. She has kept us alive. Of course, the Great Empress. But now… finally, we will thrive.”",
+        "",
+        "%% u0131:0-24, u0132:0-17 %%",
+        "DM: And he points his sword. “And you will pay.”",
+        "",
+        "%% u0133:0-74 %%",
+        "Delwath: And… you must have some… plan for… defeating… the humans scattered here.",
+        "",
+        "%% u0134:0-16, u0135:0-43, u0136:0-23 %%",
+        "DM: Pathetic humans? They will die to our swords and our spears! No challenge they pose.",
+        "",
+        "%% u0137:0-23, u0138:0-45, u0139:0-65 %%",
+        "Seeker: And… the Shattered Ice. To where have they fled? Supposing we wished to help you defeat these enemies of yours, which way would we go?",
+        "",
+        "%% u0140:0-29, u0141:0-22 %%",
+        "DM: I know not the Shattered Ice, what happened to them.",
+        "",
+        "%% u0142:0-22 %%",
+        "Seeker: Totally, they love it.",
+        "",
+        "%% u0143:0-25, u0144:0-19, u0145:0-33 %%",
+        "DM: Maybe they're all killed by the… human scum. Scum killing scum, good riddance.",
+        "",
+        "%% u0146:0-38, u0147:0-53, u0148:0-16 %%",
+        "Kenzo: … Tell us again your plans in Isingue. Your story. Tell us the story of what you hope to do. In great detail.",
+        "",
+        "%% u0149:0-53, u0150:0-51 %%",
+        "DM: I will do nothing but bow before my empress, and she… pierces the heart of the land with the Chaos Spear.",
+        "",
+        "%% u0151:0-4 %%",
+        "Kenzo: Hmm.",
+        "",
+        "%% u0152:0-31, u0153:0-29, u0154:0-20 %%",
+        "DM: And in doing so, takes control of the… what did she call it? The Vertex of Limbo?",
+        "",
+        "%% u0155:0-4 %%",
+        "Wellby: Huh.",
+        "",
+        "%% u0156:0-16 %%",
+        "Seeker: Seems important.",
+        "",
+        "%% u0157:0-57, u0158:0-14 %%",
+        "Wellby: Another person trying to smush different planes together? We're, we're…",
+        "",
+        "%% u0159:0-11 %%",
+        "Seeker: With Limbo.",
+        "",
+        "%% u0160:0-87 %%",
+        "Wellby: Where is the heart of the land? For truly, we wish to avoid it due to our great terror.",
+        "",
+        "%% u0161:0-72, u0162:0-18, u0163:0-26 %%",
+        "DM: The Empress of Chaos tells us all will be revealed when it is necessary. She knows the way. She will lead us to glory!",
+        "",
+        "%% u0164:0-30, u0165:0-48, u0166:0-27 %%",
+        "Delwath: How many spears does she lead? Your swords. How many swords… how many soldiers? How mighty an army are you?",
+        "",
+        "%% u0167:0-11 %%",
+        "DM: As… as you…",
+        "",
+        "%% u0168:0-16 %%",
+        "Delwath: You would count.",
+        "",
+        "%% u0169:0-152 %%",
+        "DM: 4,200 strong, more than enough to wipe out all the puny creatures: elves, dwarves, halflings, humans. All of you will die on this plateau to our swords.",
+        "",
+        "%% u0170:0-49 %%",
+        "Delwath: And is that your full strength? None left behind?",
+        "",
+        "%% u0171:0-20, u0172:0-112 %%",
+        "DM: That is mighty army. Only the weak and the old stay behind, the cowardly fools, who will not ride to glory with the Empress of Chaos."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Right, Delwath?",
+          "Delwath: We can try and scry her, yeah.",
+          "Wellby: Why not?",
+          "DM: At the moment, there's a Hobgoblin standing in front of you, still under Delwath's suggestion.",
+          "Kenzo: Right. What else do we want to learn from this guy?"
+        ],
+        "after": [
+          "Delwath: Oh, hmm. Hmm, that's… that's a good idea. We should… we should… we should… that's perfect. …",
+          "Seeker: Hmm. We could, like, teleport her in.",
+          "Delwath: Wellby, let's put this guy in the mirror, that's a good idea.",
+          "Kenzo: Oh, yeah. Hey, what happened to the wyvern? What happens in the mirror these days? Mirror. No, we took it out and flew it. Like, you rode it.",
+          "Wellby: Put it back in when it's done."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Szoltár boasts of the Iron Scourge",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0198",
+        "endUid": "u0223"
+      },
+      "lines": [
+        "%% u0198:0-43, u0199:0-63 %%",
+        "Delwath: When… when… should we anticipate our death, mighty warrior, from your… from your… compatriots and soldiers?",
+        "",
+        "%% u0200:0-67, u0201:0-28, u0202:0-65, u0203:0-40 %%",
+        "DM: You wish to die with honor and prepare. That is… that is wise, elf. Your death will be upon you… N… wait, what is today? Hold on, I need to look at my timeline. One sec. It's August 7th in the morning.",
+        "",
+        "%% u0204:0-34 %%",
+        "Kenzo: Add this to my iCal, will die on…",
+        "",
+        "%% u0205:0-10 %%",
+        "DM: In 6 days.",
+        "",
+        "%% u0206:0-64, u0207:0-45 %%",
+        "Delwath: And you will attack in the dawn or the evening? What's the plan? I would not wish to be surprised by my death.",
+        "",
+        "%% u0208:0-78 %%",
+        "DM: The Empress will make battle plans appropriate to the situation that we find.",
+        "",
+        "%% u0208:78-88 %%",
+        "Delwath: Of course.",
+        "",
+        "%% u0209:0-24, u0210:0-44 %%",
+        "DM: We expect no opposition, for the Iron Scourge will eat all before it.",
+        "",
+        "%% u0211:0-29 %%",
+        "Wellby: Just the big centipede thing?",
+        "",
+        "%% u0212:0-24 %%",
+        "DM: It is our warbeast, yes!",
+        "",
+        "%% u0213:0-15, u0214:0-49 %%",
+        "Delwath: What can it do? Do you have any stories of its prowess and valor?",
+        "",
+        "%% u0215:0-31 %%",
+        "Seeker: It was honestly a little scary.",
+        "",
+        "%% u0216:0-19 %%",
+        "Wellby: Well, what do you…",
+        "",
+        "%% u0217:0-69 %%",
+        "DM: Wellby spins around, looking at something behind him, as… as he says…",
+        "",
+        "%% u0218:0-4 %%",
+        "Delwath: Bet.",
+        "",
+        "%% u0219:0-43, u0220:0-20, u0221:0-66 %%",
+        "DM: What can Iron Scourge do? What can't it do? Eat, climb, destroy! You think your plateau keeps you safe? Ha! I spit on your plateau.",
+        "",
+        "%% u0222:0-28 %%",
+        "Wellby: Does he spit on the plateau?",
+        "",
+        "%% u0223:0-45 %%",
+        "DM: Yeah, he literally spits on the plateau, yes."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: It's like the rest of us.",
+          "Wellby: Due to my massive animal charisma.",
+          "DM: So, it's not something you really want to just leave around, just out in the open.",
+          "Delwath: Right.",
+          "Kenzo: I'll say to… I'll say to everybody else in, I don't know, Dunmari or something, is there anything else we ask this guy, or should we put him in the mirror? I think we’ve, we’ve learned a good amount. Yeah, let’s put them in the mirror."
+        ],
+        "after": [
+          "Wellby: Wellby gives a… a little wave, and… and calls out, “Don’t… don’t worry, this is just… this is typical… this is how this always… we’re taking care of this, don’t… don’t sweat it. Do you wanna… do you want to meet a hobgoblin?”",
+          "DM: Creeping out from behind a tree, you see a small lizardfolk boy, maybe… 10 or 12 years old, fishing gear strapped to his back.",
+          "DM: A little… pack of, like, two or three, like, two or three lizardfolk and humans, kind of in the dis- like, hiding behind… some fallen logs. [garbled]… He, like, begins to creep out. His eyes are wide, bright, interested, and also scared, and super curious, and… says, in halting Common, “Is… is it dangerous?”",
+          "Wellby: The lizardfolk spins…",
+          "Delwath: Yes."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Leizar asks Seeker for magic",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0224",
+        "endUid": "u0287"
+      },
+      "lines": [
+        "%% u0224:0-102, u0225:0-74, u0226:0-48 %%",
+        "Wellby: Wellby gives a… a little wave, and… and calls out, “Don’t… don’t worry, this is just… this is typical… this is how this always… we’re taking care of this, don’t… don’t sweat it. Do you wanna… do you want to meet a hobgoblin?”",
+        "",
+        "%% u0227:0-93, u0228:0-34 %%",
+        "DM: Creeping out from behind a tree, you see a small lizardfolk boy, maybe… 10 or 12 years old, fishing gear strapped to his back.",
+        "",
+        "%% u0229:0-89, u0230:0-50, u0231:0-66, u0232:0-85, u0233:0-20 %%",
+        "DM: A little… pack of, like, two or three, like, two or three lizardfolk and humans, kind of in the dis- like, hiding behind… some fallen logs. [garbled]… He, like, begins to creep out. His eyes are wide, bright, interested, and also scared, and super curious, and… says, in halting Common, “Is… is it dangerous?”",
+        "",
+        "%% u0234:0-22 %%",
+        "Wellby: The lizardfolk spins…",
+        "",
+        "%% u0235:0-4 %%",
+        "Delwath: Yes.",
+        "",
+        "%% u0236:0-84, u0237:0-11, u0238:0-89, u0239:0-5, u0240:0-76, u0241:0-44, u0242:0-69, u0243:0-34, u0244:0-30, u0245:0-89, u0246:0-36, u0247:0-31, u0248:0-39, u0249:0-65, u0250:0-5, u0251:0-45, u0252:0-20, u0253:0-108 %%",
+        "((Szoltár threatens the children while Delwath holds him back))",
+        "",
+        "%% u0254:0-93, u0255:0-23, u0256:0-98 %%",
+        "Delwath: I’ll turn to the humans and lizardfolk and tell them, “This is… this is a dangerous… hobgoblin… we’ve captured. Please, go away, before he… you know, back off, go back into hiding, don’t come out. He’s, he’s not safe.”",
+        "",
+        "%% u0257:0-50, u0258:0-211, u0259:0-18 %%",
+        "Seeker: But Seeker sneaks over to the child and said, “But… If you can hide and listen, perhaps reveal yourself just a bit, because this creature likes to think he's very scary. He's not, actually. But he likes to think he is, so just shiver a little bit and look afraid. That will help us.”",
+        "",
+        "%% u0260:0-51, u0261:0-27 %%",
+        "DM: He kind of opens his eyes and, like, crouches down. “Do you do… do you do magic?”",
+        "",
+        "%% u0262:0-10 %%",
+        "Seeker: Sometimes.",
+        "",
+        "%% u0263:0-18 %%",
+        "DM: I wanna see magic.",
+        "",
+        "%% u0264:0-7, u0265:0-30, u0266:0-113 %%",
+        "Seeker: … Okay. [garbled]… takes… finds… something. He scuffs with his foot around, on the forest floor near us, or were we under some trees or something?",
+        "",
+        "%% u0267:0-190, u0268:0-125, u0269:0-79, u0270:0-83, u0271:0-73, u0272:0-19, u0273:0-5 %%",
+        "((Location clarification))",
+        "",
+        "%% u0274:0-141, u0275:0-81, u0276:0-30 %%",
+        "Seeker: Pine trees suppress undergrowth with the acidity of their needles, with the exception of mosses. And so, Seeker lifts a little patch of moss, breathes a puff of magic into it, and it crawls off of his hand onto a tree root and wanders around… exploring.",
+        "",
+        "%% u0277:0-23 %%",
+        "DM: You are so cool, dwarf!",
+        "",
+        "%% u0278:0-53 %%",
+        "Seeker: That’s your new pet, Mossy. It will only last an hour.",
+        "",
+        "%% u0279:0-47 %%",
+        "DM: My… my name's Leizar, what's… what's your name?",
+        "",
+        "%% u0280:0-11 %%",
+        "Seeker: I'm Seeker.",
+        "",
+        "%% u0281:0-69 %%",
+        "DM: I'm gonna go hide like the elf said, but can you do more magic later?",
+        "",
+        "%% u0282:0-69 %%",
+        "Seeker: Of course, remember, just act scared of the hobgoblin; he likes that.",
+        "",
+        "%% u0283:0-41, u0284:0-119, u0285:0-7, u0286:0-10, u0287:0-14 %%",
+        "DM: “You’re so scary,” he says as he backs out. And he, like, goes, and he’s clearly, like, the leader of this little group. He goes to shush all the other kids, like… scared… Hi, Uncle… and back away."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Wellby spins around, looking at something behind him, as… as he says…",
+          "Delwath: Bet.",
+          "DM: What can Iron Scourge do? What can't it do? Eat, climb, destroy! You think your plateau keeps you safe? Ha! I spit on your plateau.",
+          "Wellby: Does he spit on the plateau?",
+          "DM: Yeah, he literally spits on the plateau, yes."
+        ],
+        "after": [
+          "DM: “Your younglings are pathetic!”",
+          "Seeker: They're terrified of you, of course.",
+          "DM: I am terrifying!",
+          "Seeker: That's right.",
+          "Delwath: I’ll say again in Dunmari, “Any other questions?”"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Szoltár is captured in the mirror",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e012",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0295",
+        "endUid": "u0304"
+      },
+      "lines": [
+        "%% u0295:0-5, u0296:0-27 %%",
+        "Wellby: Good. Put this guy in the mirror?",
+        "",
+        "%% u0297:0-11, u0298:0-29, u0299:0-103, u0300:0-32 %%",
+        "Delwath: I think so. I’ll tell him, “There’s… there's something we… I'd like… I'd like you to be able to see your own prowess. It's quite terrifying. Could you just hold on a minute?”",
+        "",
+        "%% u0301:0-82 %%",
+        "Wellby: Wellby spreads out the hole and climbs down in to bring the mirror out, set it up.",
+        "",
+        "%% u0302:0-22 %%",
+        "Delwath: I just show it to him.",
+        "",
+        "%% u0303:0-23, u0304:0-40 %%",
+        "DM: He looks… “I am, indeed… I am indeed quite te-” and then vanishes."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: I am terrifying!",
+          "Seeker: That's right.",
+          "Delwath: I’ll say again in Dunmari, “Any other questions?”",
+          "Wellby: I wonder if any of the lizardfolk or humans might have ideas about where this heart of the land is that they're going to?",
+          "Delwath: I think we bring that up at the meeting Marcella suggested is happening later."
+        ],
+        "after": [
+          "Delwath: While the mirror's out, I'm gonna call up, … let's call up, … what's her name? Revaka? Was that her name?",
+          "DM: Revaka, yeah.",
+          "Delwath: Revaka.",
+          "DM: The mirror clears, and Revaka appears. “What?”",
+          "Delwath: Remember, I still have Glibness? I still have Glibness."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Revaka considers taking over the Iron Fang",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e025",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0305",
+        "endUid": "u0551"
+      },
+      "lines": [
+        "%% u0305:0-105 %%",
+        "Delwath: While the mirror's out, I'm gonna call up, … let's call up, … what's her name? Revaka? Was that her name?",
+        "",
+        "%% u0306:0-13 %%",
+        "DM: Revaka, yeah.",
+        "",
+        "%% u0307:0-7 %%",
+        "Delwath: Revaka.",
+        "",
+        "%% u0308:0-38, u0309:0-5 %%",
+        "DM: The mirror clears, and Revaka appears. “What?”",
+        "",
+        "%% u0310:0-32, u0311:0-22 %%",
+        "Delwath: Remember, I still have Glibness? I still have Glibness.",
+        "",
+        "%% u0312:0-4 %%",
+        "DM: Yep.",
+        "",
+        "%% u0313:0-18, u0314:0-92, u0315:0-34, u0316:0-69, u0317:0-84 %%",
+        "Delwath: … Let you go… Mmm. You haven't done anything to convince us that that would be a wise or safe course of action. But I did have a question for you. If you… answered it, it might allow us to reconsider some of our… decisions over time. You build trust, you know, by answering questions now and then.",
+        "",
+        "%% u0318:0-22 %%",
+        "DM: What is your question?",
+        "",
+        "%% u0319:0-46 %%",
+        "Delwath: The Iron Fang Clan and the Shattered Ice Clan.",
+        "",
+        "%% u0320:0-14 %%",
+        "Wellby: Of hobgoblins.",
+        "",
+        "%% u0321:0-29, u0322:0-11 %%",
+        "Delwath: Do they mean anything to you? Either one.",
+        "",
+        "%% u0323:0-3 %%",
+        "DM: No.",
+        "",
+        "%% u0324:0-31 %%",
+        "Delwath: They must come after your time.",
+        "",
+        "%% u0325:0-43 %%",
+        "Wellby: How about Chaos Metal? I'll say to Delwath.",
+        "",
+        "%% u0326:0-31 %%",
+        "Delwath: I'll ask her about Chaos Metal.",
+        "",
+        "%% u0327:0-26, u0328:0-12 %%",
+        "DM: Never heard of such thing. Makes sense.",
+        "",
+        "%% u0329:0-11, u0330:0-18, u0331:0-50, u0332:0-43, u0333:0-55, u0334:0-2, u0335:0-13, u0336:0-38, u0337:0-10, u0338:0-54, u0339:0-107, u0340:0-149, u0341:0-42, u0342:0-30, u0343:0-41, u0344:0-118, u0345:0-6, u0346:0-30, u0347:0-25, u0348:0-112, u0349:0-24, u0350:0-2, u0351:0-209, u0352:0-6, u0353:0-5, u0354:0-5, u0355:0-52, u0356:0-103, u0357:0-47, u0358:0-40, u0359:0-68, u0360:0-5, u0361:0-123, u0362:0-49, u0363:0-76, u0364:0-108, u0365:0-8, u0366:0-30, u0367:0-28, u0368:0-120, u0369:0-108, u0370:0-45, u0371:0-56, u0372:0-54, u0373:0-30, u0374:0-112, u0375:0-61, u0376:0-86, u0377:0-52, u0378:0-99, u0379:0-97, u0380:0-116, u0381:0-67, u0382:0-48, u0383:0-93, u0384:0-16, u0385:0-49, u0386:0-35, u0387:0-88, u0388:0-176, u0389:0-43, u0390:0-59, u0391:0-46, u0392:0-94, u0393:0-95, u0394:0-116, u0395:0-110 %%",
+        "((Background and political discussion before the proposal))",
+        "",
+        "%% u0396:0-67, u0397:0-49, u0398:0-51, u0399:0-66, u0400:0-70, u0401:0-68, u0402:0-50, u0403:0-69 %%",
+        "Delwath: So… I'm actually just gonna… why not just ask? I'm gonna ask her. … We have a bit of a… problem… with, … a hobgoblin… clan… clan’s the right word, right? Hobgoblin clan. The Iron Fang, who seemed to be ruled by some… powerful empress. They’re… spreading… out of their territory in a very aggressive way. And we’re not… too bothered about whether they keep their territory, if they… as long as they… stop trying to spread and come out to the west and the north and attack the human kingdoms.",
+        "",
+        "%% u0404:0-28, u0405:0-23, u0406:0-23, u0407:0-85 %%",
+        "Delwath: We wonder… if you would… if we found a way to… overthrow their leader, would you take… would you be in a position to take control and make a treaty with us?",
+        "",
+        "%% u0408:0-23 %%",
+        "DM: She's clearly thinking.",
+        "",
+        "%% u0409:0-14 %%",
+        "Delwath: It seemed to…",
+        "",
+        "%% u0410:0-44, u0411:0-50, u0412:0-3, u0413:0-10, u0414:0-2, u0415:0-4 %%",
+        "((Persuasion check))",
+        "",
+        "%% u0416:0-12, u0417:0-23, u0418:0-25 %%",
+        "DM: I… you know… Certainly give it a go. Where is their territory?",
+        "",
+        "%% u0419:0-47, u0420:0-61, u0421:0-49, u0422:0-52, u0423:0-25 %%",
+        "Delwath: Well, there's… there's a small catch. It's not… it’s… it’s not what I describe as the best land in the world. So, Cha’mutte… did a bit of damage to the land. And… these days, the humans call it the Plaguelands? It's… it's not quite as…",
+        "",
+        "%% u0424:0-11 %%",
+        "Kenzo: Bad market.",
+        "",
+        "%% u0425:0-4 %%",
+        "Delwath: As…",
+        "",
+        "%% u0426:0-9 %%",
+        "Kenzo: Bad part.",
+        "",
+        "%% u0427:0-245, u0428:0-65, u0429:0-176 %%",
+        "Delwath: It's not… it's not quite as… I'm just giving her… this is like… that wasn't saying this in a persuasive way, right? It's… it's not… the… the point is to be like, yeah, there's… there's a little bit of a catch, but, like, this is the catch, like… it’s like the… why would we be offering this? Well, the catch is… the land is kind of… it's kind of rough. It's not like you can't survive… it's not like you can't survive there, but the humans call it the Plaguelands and think it's totally…",
+        "",
+        "%% u0430:0-43 %%",
+        "Kenzo: It's a little plaggy. Just a little plaggy.",
+        "",
+        "%% u0431:0-165, u0432:0-129 %%",
+        "Delwath: But it's not still play… I mean, the point is, it's just… it's been ruined by Cha'mutte, but, like, maybe it'll come back someday. It's not impossible that it could. Especially with the right, you know, stewards of the land, and the Hobgoblins clearly make a living, you know, survive out there.",
+        "",
+        "%% u0433:0-122 %%",
+        "Wellby: Totally, and with the right sort of wizard who could use their great intellect and magical powers to find solutions to it?",
+        "",
+        "%% u0434:0-33, u0435:0-32, u0436:0-55 %%",
+        "Delwath: But, but the point is to be like… That was my goal, is to be, like… make her think this is, like, why are we offering this?",
+        "",
+        "%% u0437:0-28 %%",
+        "DM: Yeah, no, no, I get it, yep.",
+        "",
+        "%% u0438:0-37, u0439:0-59 %%",
+        "Delwath: We could… it’s not a land that I’m… deeply familiar with, but we could certainly find out more.",
+        "",
+        "%% u0440:0-21, u0441:0-20 %%",
+        "DM: I'm not gonna say no. I'm only hesitating.",
+        "",
+        "%% u0442:0-6 %%",
+        "Delwath: I am…",
+        "",
+        "%% u0443:0-30 %%",
+        "DM: Shall we say, under-resourced?",
+        "",
+        "%% u0444:0-54, u0445:0-3, u0446:0-29, u0447:0-79, u0448:0-34, u0449:0-46 %%",
+        "((Soul Sight and phrasing the spell question))",
+        "",
+        "%% u0450:0-58, u0451:0-39 %%",
+        "Delwath: I'll ask her what the highest level spell she can cast is. You probably haven't made up her stats.",
+        "",
+        "%% u0452:0-10, u0453:0-178, u0454:0-5 %%",
+        "((DM preparation aside))",
+        "",
+        "%% u0455:0-10 %%",
+        "DM: … Seventh.",
+        "",
+        "%% u0456:0-21, u0457:0-18, u0458:0-27, u0459:0-32, u0460:0-54, u0461:0-66, u0462:0-11, u0463:0-5, u0464:0-34, u0465:0-48, u0466:0-119, u0467:0-60, u0468:0-100 %%",
+        "((Release and simulacrum speculation))",
+        "",
+        "%% u0469:0-15, u0470:0-42 %%",
+        "Wellby: Counterspelled? What do you mean, under-resourced, though?",
+        "",
+        "%% u0471:0-74 %%",
+        "DM: She, like, looks over her shoulder, her other shoulder. “It’s just me here.”",
+        "",
+        "%% u0472:0-17 %%",
+        "Wellby: What do you need?",
+        "",
+        "%% u0473:0-34 %%",
+        "Delwath: I was gonna ask the same question.",
+        "",
+        "%% u0474:0-44 %%",
+        "DM: I need more information about the Iron Fang.",
+        "",
+        "%% u0475:0-21 %%",
+        "Delwath: They must have been…",
+        "",
+        "%% u0476:0-31 %%",
+        "DM: What, part of Cha'mutte's army?",
+        "",
+        "%% u0477:0-4 %%",
+        "Delwath: Yes.",
+        "",
+        "%% u0478:0-19, u0479:0-37, u0480:0-33, u0481:0-41 %%",
+        "DM: I need information. And I need to be sure that… there is… total chaos among the leadership, to create a power vacuum I can walk into.",
+        "",
+        "%% u0482:0-69 %%",
+        "Wellby: Do we want to… do we want to give her the other hobgoblin to talk to?",
+        "",
+        "%% u0483:0-4, u0484:0-35, u0485:0-37 %%",
+        "Delwath: Hmm. Would you… would you like… to meet one of the warriors of the Iron Fang?",
+        "",
+        "%% u0486:0-22 %%",
+        "Wellby: He's sort of an idiot.",
+        "",
+        "%% u0487:0-51 %%",
+        "Delwath: But… You might be able to learn something from him.",
+        "",
+        "%% u0488:0-43 %%",
+        "Wellby: Yeah, we may be asking the wrong questions.",
+        "",
+        "%% u0489:0-4, u0490:0-5, u0491:0-52 %%",
+        "DM: Mmm. Sure. I'm sure I could learn something even from an idiot.",
+        "",
+        "%% u0492:0-48, u0493:0-5, u0494:0-26, u0495:0-9, u0496:0-65, u0497:0-100, u0498:0-193, u0499:0-23, u0500:0-162, u0501:0-124, u0502:0-9, u0503:0-114, u0504:0-67, u0505:0-14, u0506:0-100, u0507:0-13, u0508:0-85, u0509:0-156, u0510:0-5, u0511:0-31, u0512:0-75, u0513:0-45, u0514:0-74 %%",
+        "((Alternative arrangements and party debate))",
+        "",
+        "%% u0515:0-28, u0516:0-50, u0517:0-49 %%",
+        "Delwath: Maybe we wait. Why don't we… Why don't we just… I'm gonna… Let's tell her that… I’m just gonna tell her, you know, “We do have…”",
+        "",
+        "%% u0518:0-8 %%",
+        "Kenzo: Captive.",
+        "",
+        "%% u0519:0-18, u0520:0-29, u0521:0-57 %%",
+        "Delwath: “They’re a captive in this mirror with you, and… once we’re done interrogating him, we’ll give you a shot.”",
+        "",
+        "%% u0522:0-133 %%",
+        "Kenzo: But isn't it… isn't it the case? Like, I mean, literally, can't we just pull him out of the mirror and then just put him in her cell?",
+        "",
+        "%% u0523:0-16, u0524:0-158, u0525:0-99 %%",
+        "DM: No, the cells… You can't… you can't put two people in one cell, because they… the cells fit… you can only… the… the next empty cell gets filled whenever you put a person in. You can't choose which cell to put somebody in. You can collapse… you can merge two cells together.",
+        "",
+        "%% u0526:0-5 %%",
+        "Kenzo: Okay.",
+        "",
+        "%% u0527:0-30, u0528:0-111 %%",
+        "DM: But that just creates another… empty, so you can only merge cells together if they’re already occupied. Then you can have two people together.",
+        "",
+        "%% u0529:0-114 %%",
+        "Kenzo: But that just creates one… that just means you have one fewer cells. Yeah. Until we figure out how to split cells.",
+        "",
+        "%% u0530:0-61 %%",
+        "DM: Yeah, at some point, you might figure out how to split cells.",
+        "",
+        "%% u0531:0-175, u0532:0-138, u0533:0-16 %%",
+        "((Research plans))",
+        "",
+        "%% u0534:0-29, u0535:0-86, u0536:0-6 %%",
+        "Delwath: For now, let's just tell her… as soon as we're done interrogating this guy, we're gonna give her to him. Him to her. Right?",
+        "",
+        "%% u0537:0-3 %%",
+        "DM: No.",
+        "",
+        "%% u0538:0-76 %%",
+        "Delwath: And… that once we have more information about the Iron Fang, we’ll share it.",
+        "",
+        "%% u0539:0-57, u0540:0-34, u0541:0-41, u0542:0-58, u0543:0-5, u0544:0-59, u0545:0-21, u0546:0-32, u0547:0-26 %%",
+        "((Leizar asks about the mirror))",
+        "",
+        "%% u0548:0-27 %%",
+        "DM: So you're done with Revaka?",
+        "",
+        "%% u0549:0-16, u0550:0-123, u0551:0-22 %%",
+        "Delwath: Yes, well, well… After the… after we meet with the… with the council and see if there's any other questions they want to ask of our captive. We'll merge the cells."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Good. Put this guy in the mirror?",
+          "Delwath: I think so. I’ll tell him, “There’s… there's something we… I'd like… I'd like you to be able to see your own prowess. It's quite terrifying. Could you just hold on a minute?”",
+          "Wellby: Wellby spreads out the hole and climbs down in to bring the mirror out, set it up.",
+          "Delwath: I just show it to him.",
+          "DM: He looks… “I am, indeed… I am indeed quite te-” and then vanishes."
+        ],
+        "after": [
+          "DM: So, the mirror fades… you see… a… older… lizardfolk woman kind of walking… walking up towards you from down by the swamps, clearly, like, looking… looking… after these children, coming from the little cluster of huts. And she kind of waves. Shouts and, again, sort of halting Common. Actually, good Common. “Strangers, these children are not bothering you, are they?”",
+          "Delwath: No.",
+          "Seeker: No. We ourselves appreciate curiosity.",
+          "DM: She kind of pushes… pushes her way through the… the… the kid… like, towards the kids, and, like, shoos them all together. “Come, children, don’t… don’t bother the… travelers. You… you must be… Marcella’s friends, no?”",
+          "Delwath: Yes."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "The caregiver offers food",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0552",
+        "endUid": "u0569"
+      },
+      "lines": [
+        "%% u0552:0-42, u0553:0-114, u0554:0-61, u0555:0-22, u0556:0-78, u0557:0-47 %%",
+        "DM: So, the mirror fades… you see… a… older… lizardfolk woman kind of walking… walking up towards you from down by the swamps, clearly, like, looking… looking… after these children, coming from the little cluster of huts. And she kind of waves. Shouts and, again, sort of halting Common. Actually, good Common. “Strangers, these children are not bothering you, are they?”",
+        "",
+        "%% u0558:0-3 %%",
+        "Delwath: No.",
+        "",
+        "%% u0559:0-38 %%",
+        "Seeker: No. We ourselves appreciate curiosity.",
+        "",
+        "%% u0560:0-121, u0561:0-51, u0562:0-41, u0563:0-4, u0564:0-64, u0565:0-58 %%",
+        "((The caregiver gathers the children and recognizes Marcella’s friends))",
+        "",
+        "%% u0566:0-30, u0567:0-71 %%",
+        "DM: “Are you… staying? Do you need… food? There’s not much to go around, but… we can provide, if necessary.”",
+        "",
+        "%% u0568:0-36, u0569:0-25 %%",
+        "Delwath: We do… we appreciate the offer, but… save it for your own use."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: I mean, but yes, it is a magic mirror, it's pretty amazing.",
+          "DM: “You guys are so cool! I oughta grow up to be like you.”",
+          "Kenzo: This is all very adorable.",
+          "DM: So you're done with Revaka?",
+          "Delwath: Yes, well, well… After the… after we meet with the… with the council and see if there's any other questions they want to ask of our captive. We'll merge the cells."
+        ],
+        "after": [
+          "DM: Okay. “Come, children, stop,” and the little… the little boy’s, like, pointing at Seeker. “He does magic!” “No, child, let’s… let’s let them be. I’m sure they have important things to do.”",
+          "DM: Begins to, like, shuffle the kids away… heading back down towards this, like, little cluster of huts. There doesn't seem to be that many people around, besides her and the children.",
+          "Delwath: … I'm gonna just look at one second, …",
+          "DM: So, what do you want to do next?",
+          "Delwath: Marcella… was supposed to meet us in the… I forget what the plan was with Marcella."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Marcella brings the party to council",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e044",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e045",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e043",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e037",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e038",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0704",
+        "endUid": "u0757"
+      },
+      "lines": [
+        "%% u0704:0-266, u0705:0-43, u0706:0-8, u0707:0-15 %%",
+        "DM: No, she's probably already here. I mean, you didn't… you didn't notice her in the crowd, but, like, now you see, actually, her, like, walking towards you as you shift back, now having drawn attention to yourself, coming out from a tent and, like, following the sign. She sees you, and she… she walks up to you. Made it. You bring news?",
+        "",
+        "%% u0708:0-10, u0709:0-23 %%",
+        "Delwath: Much news. Mmm… little of it good.",
+        "",
+        "%% u0710:0-54, u0711:0-38, u0712:0-68, u0713:0-27, u0714:0-53 %%",
+        "DM: I am… I am sure the Council will wish to speak to you. Come, I… I’ve already… told them that… I was hoping that you would show up, and they've agreed to hear you. Hope something can be done. She begins to lead you towards the… you need… moment?",
+        "",
+        "%% u0715:0-12 %%",
+        "Delwath: No. Proceed.",
+        "",
+        "%% u0716:0-41, u0717:0-31, u0718:0-91, u0719:0-69, u0720:0-71, u0721:0-35, u0722:0-48 %%",
+        "DM: She leads you towards the big tent, and… as she gets to the door, she… she says a couple… she turns and says a couple of things… before you… enter the… council. “I guess I should have told you this before, it is tradition to… knot… green ribbons around your weapons at Three Wells as a symbol of… peace.” She hands some out… to Kenzo and… Wellby, who are the only ones who carry weapons.",
+        "",
+        "%% u0723:0-33 %%",
+        "Delwath: Right, I was gonna say. But yeah.",
+        "",
+        "%% u0724:0-4 %%",
+        "Wellby: Yep.",
+        "",
+        "%% u0725:0-30, u0726:0-33, u0727:0-30, u0728:0-71, u0729:0-62, u0730:0-62, u0731:0-37 %%",
+        "DM: “Council has… been arguing for… an hour now, I… I’m worried that… nobody knows quite what to do. There are many… considerations here. There are people from Aursenbourg. From the militias on the plateau, the rangers, the lizardfolk. I believe a stoneborn messenger arrived this morning to speak. So… I don’t know what news you bring.”",
+        "",
+        "%% u0732:0-34 %%",
+        "Delwath: We will share it with the council.",
+        "",
+        "%% u0733:0-27 %%",
+        "DM: Many voices [garbled].",
+        "",
+        "%% u0734:0-38 %%",
+        "Delwath: It's easiest to tell them all at once.",
+        "",
+        "%% u0735:0-17, u0736:0-57, u0737:0-35, u0738:0-37, u0739:0-66, u0740:0-12, u0741:0-28, u0742:0-21 %%",
+        "DM: Okay, then… come. And I… I would say for myself, I’m… I know that there is… much pressing news to discuss, but… if you have time, maybe this evening, I would love to hear more of… what’s happened to… Hektor and Vola, and Chardon. Was my home once, after all. They were my friends.",
+        "",
+        "%% u0743:0-51 %%",
+        "Delwath: Wait, Hektor joined us on the Vindristjarna, right?",
+        "",
+        "%% u0744:0-4 %%",
+        "DM: Yep.",
+        "",
+        "%% u0745:0-34 %%",
+        "Delwath: Hektor will be here in a few days.",
+        "",
+        "%% u0746:0-26, u0747:0-18 %%",
+        "DM: Oh, that is… good to hear. I'm… I am pleased.",
+        "",
+        "%% u0748:0-71, u0749:0-22 %%",
+        "Delwath: But yes, we can… we can share… more tales of… goings-on in Chardon… when we have a moment.",
+        "",
+        "%% u0750:0-5, u0751:0-5, u0752:0-89, u0753:0-7, u0754:0-56, u0755:0-56, u0756:0-30, u0757:0-34 %%",
+        "DM: Okay. Okay. She… pushes the tent aside, and you step… the flaps of the tent aside, and you step into a room. There's a table with a big map spread out on the bottom. And the map is in Roll20, if you want to go into Roll20. And 9… people standing around, arguing, speaking with each other."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: We land in front of the tent and change into people, yeah.",
+          "Delwath: Yes.",
+          "Seeker: Or a respectful distance away, anyway.",
+          "DM: Okay. So… you land, you shift back into people. Murmur goes through the crowd… you know, a little… a little surprise at… you know, people just appearing… out of nowhere. Some… some silence… some… you know, a little bit of quiet kind of spreads to the crowd a little bit.",
+          "Delwath: Did we pass… I mean, did we pass Marcella, by the way, or do we think she's already here?"
+        ],
+        "after": [
+          "DM: As soon as you enter, there's… there seems… you seem to have come in in the middle of the conversation, a loud… intense conversation. A lizardfolk woman is speaking, arguing that more… the more lizardfolk and others skilled in archery and swamp travel that can be spared, the more they can delay the advance. And glancing at the Stoneborn messenger, “If the Stoneborn arrive in time, that will… make our defenses that much easier.” Another woman with red hair wearing sort of patched-together armor is… speaking back against her, that… it’s too risky, lives cannot be spared, we have to defend the plateau, and a few others are, “Hear, hear.” Sort of older, bald man in woolen clothes, woolen cloaks, nice, sort of impeccably dressed, as… shaking his head at that, and turns in nervously, but in… but loudly, “But what about Aursenbourg? Who will defend us if you put all your troops on the ridgeline? Spread out in any position will be overwhelmed. Better to defend our walls, especially as it’s already packed with refugees. Leave it undefended, and the people of my city may be slaughtered by hobgoblins.”",
+          "DM: And with that, everybody, the argument sort of dies as everybody turns to look at you. And you look around the room, there's two lizardfolk, one older, one younger. A Stoneborn… standing in the corner. A map spread out on the table. And 1, 2, 3, 4…",
+          "Delwath: I assume these pictures in Roll 20 are all the people, right?",
+          "DM: Yeah, these are… this is the council.",
+          "Delwath: You should have put names on them, though, that would have been helpful."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Cateline offers water before words",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0843",
+        "endUid": "u0880"
+      },
+      "lines": [
+        "%% u0843:0-75, u0844:0-31, u0845:0-83, u0846:0-44, u0847:0-44 %%",
+        "DM: And as he does, the older, dark-skinned woman raises up her staff and says, “A moment,” and brings forth a… sort of a leather water skin and takes some wooden glasses off the table and pours… 5… is… wait, is Seek… is Seeker 4 here, too? Or is Seeker Four still waiting as an eagle?",
+        "",
+        "%% u0848:0-97, u0849:0-27, u0850:0-129, u0851:0-37, u0852:0-32, u0853:0-4 %%",
+        "((The players discuss Seeker’s double))",
+        "",
+        "%% u0854:0-159, u0855:0-36, u0856:0-48, u0857:0-32, u0858:0-34, u0859:0-70, u0860:0-28 %%",
+        "DM: Gives the double… the Seeker doubles a little bit of a double take, but obviously has heard, like, from Marcella, like, these are powerful people, right? And… walks… walks over. “I am… Cateline. Please, water before words. Drink from the well. And then you may say your piece.” And she hands you each your glass. And as she bows, you can see that she’s got a… beryl gemstone, worn prominently around her neck.",
+        "",
+        "%% u0861:0-16, u0862:0-4, u0863:0-8, u0864:0-6, u0865:0-21, u0866:0-2, u0867:0-30, u0868:0-15 %%",
+        "((Beryl gemstone clarification))",
+        "",
+        "%% u0869:0-93, u0870:0-8, u0871:0-80 %%",
+        "Delwath: Delwath will introduce… I mean, I’ll introduce… Delwath will introduce himself as… Delwath, the elf. I always forget, where is Delwath originally from? What's the name of the place?",
+        "",
+        "%% u0872:0-10 %%",
+        "DM: Ainumarya.",
+        "",
+        "%% u0873:0-29, u0874:0-16, u0875:0-60, u0876:0-62 %%",
+        "Delwath: Ainumarya. Once of Ainumarya. Now… a wanderer. And… is there some… and, you know, raise the glass, I guess. And sort of… are we all supposed to drink? [garbled].",
+        "",
+        "%% u0877:0-43, u0878:0-36, u0879:0-35, u0880:0-19 %%",
+        "DM: Just… yes, she says, “Oh, no ceremony, just… just drink, and then speak in peace. It is… it is just to acknowledge our ancestors here.”"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Play… player video avatar size… names.",
+          "Delwath: Names only. Yeah, I see it.",
+          "Seeker: Wow, what a terrible place for that.",
+          "Delwath: That's like, oh my god, could you find a worse spot for it? Okay. I just… it was getting in my way, I couldn't see all the cool map stuff. Okay.",
+          "DM: Martin Strongbow says, “I… by the grace of my… by the grace of the rangers, I lead the contingent here. Please, tell us who you are and give us your news.”"
+        ],
+        "after": [
+          "Seeker: Now I'll try and introduce the other one.",
+          "Delwath: And gesture to, you know, his companions to introduce themselves.",
+          "Seeker: I am… Seeker of Highkeep. And my simulacrum, Seeker IV, who quietly nods, and we both drink with an eerie simultaneity.",
+          "Delwath: The exact same gesture.",
+          "Seeker: And then wipe our beards identically."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Oaths and Cateline’s account of the Heartroot",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e019",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e024",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e025",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e028",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e029",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e030",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e032",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e033",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e034",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e037",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e043",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e052",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0950",
+        "endUid": "u1188"
+      },
+      "lines": [
+        "%% u0950:0-36, u0951:0-73, u0952:0-28 %%",
+        "Seeker: It is something to worry about, but… what these hobgoblins intend to do is to destroy… the heart of the land. That's what we need to know.",
+        "",
+        "%% u0953:0-5, u0954:0-20, u0955:0-22 %%",
+        "Delwath: Yeah. A place, or a thing? The heart of the land?",
+        "",
+        "%% u0956:0-28 %%",
+        "Wellby: That's where they're headed.",
+        "",
+        "%% u0957:0-94, u0958:0-29 %%",
+        "DM: Cateline looks up, and… she says, her voice kind of shaking, “And they say by this, they would… control the magic of Isingue?”",
+        "",
+        "%% u0959:0-29 %%",
+        "Delwath: Well, the Ooze, specifically.",
+        "",
+        "%% u0960:0-98, u0961:0-47 %%",
+        "Wellby: Yeah, and it seemed like there were some bad side effects, too, like… bringing… Chaos… everywhere. Forgetting the specifics, but it's… it's worse.",
+        "",
+        "%% u0962:0-45 %%",
+        "Delwath: The, … Have you heard of the vertex of Limbo?",
+        "",
+        "%% u0963:0-3 %%",
+        "DM: No.",
+        "",
+        "%% u0964:0-29, u0965:0-79 %%",
+        "Delwath: Hmm, that might be her thing. I think she intends to bring the vertex of Limbo to the magic. Turn it chaotic?",
+        "",
+        "%% u0966:0-12 %%",
+        "Seeker: Interesting.",
+        "",
+        "%% u0967:0-69, u0968:0-4, u0969:0-3, u0970:0-45 %%",
+        "DM: She… she, like, holds on to the… grabs this gemstone around her neck. Hmm. No. Can’t be. How could the… how could they know?",
+        "",
+        "%% u0971:0-33 %%",
+        "Delwath: Move past your doubts, they know.",
+        "",
+        "%% u0972:0-9, u0973:0-21, u0974:0-39, u0975:0-6, u0976:0-20, u0977:0-14 %%",
+        "DM: There is… we have long guarded… as far as we know, the last… surviving… piece… of… Isingue’s magic, the Heartroot.",
+        "",
+        "%% u0978:0-10 %%",
+        "Seeker: It wasn't.",
+        "",
+        "%% u0979:0-10 %%",
+        "DM: Heartroot.",
+        "",
+        "%% u0980:0-26 %%",
+        "Kenzo: The what? The heart fruit?",
+        "",
+        "%% u0981:0-10 %%",
+        "DM: Heartroot.",
+        "",
+        "%% u0982:0-3 %%",
+        "Seeker: No.",
+        "",
+        "%% u0983:0-11 %%",
+        "Delwath: What is it?",
+        "",
+        "%% u0984:0-5 %%",
+        "Wellby: Damn.",
+        "",
+        "%% u0985:0-59, u0986:0-8, u0987:0-37, u0988:0-13, u0989:0-6, u0990:0-32, u0991:0-71, u0992:0-6, u0993:0-11, u0994:0-67, u0995:0-47 %%",
+        "DM: She looks around. Specifically, she looks at the Stoneborn, Zimkala. And then she nods to the five of you, and… “Seekers, Kenzo, Wellby and Delwath, you are not… part of our community, and those secrets have not been shared with you. Trust… all of you. But I must ask… that you… swear an oath… on whatever will bind you. That this information does not leave this room.”",
+        "",
+        "%% u0996:0-51, u0997:0-1, u0998:0-5, u0999:0-18, u1000:0-63, u1001:0-76, u1002:0-192, u1003:0-6, u1004:0-22, u1005:0-47, u1006:0-21, u1007:0-25, u1008:0-22, u1009:0-20, u1010:0-97, u1011:0-96, u1012:0-77, u1013:0-74, u1014:0-55, u1015:0-59, u1016:0-62, u1017:0-82, u1018:0-87, u1019:0-42, u1020:0-5, u1021:0-35, u1022:0-34, u1023:0-69, u1024:0-28, u1025:0-10, u1026:0-17, u1027:0-82, u1028:0-65, u1029:0-34, u1030:0-8, u1031:0-71, u1032:0-65, u1033:0-102, u1034:0-9, u1035:0-81 %%",
+        "((Soul Sight and anti-scrying checks))",
+        "",
+        "%% u1036:0-47, u1037:0-64, u1038:0-44, u1039:0-53, u1040:0-40, u1041:0-39, u1042:0-23, u1043:0-53, u1044:0-8 %%",
+        "DM: She turns and looks in this, and the Stoneborn… stands and he says, in a deep sort of rumbling voice, “Of course. We have long been friends and allies to you. And… hope to continue to be so in these trying times. I would be honored to hear your secrets. And I swear by… Great Mountain Entamba, the creator of my race, that I will not reveal what is told to me here today.” He nods.",
+        "",
+        "%% u1045:0-30, u1046:0-26, u1047:0-15, u1048:0-68, u1049:0-6, u1050:0-59, u1051:0-117 %%",
+        "Delwath: I will not share your secrets. I will… swear by the gods I respect, old… Aldanor and Elmerca, the gods of my people, and new, Yezali… Taraka… Midri… Nisir, the gods I’ve adopted. They will hold me to an oath. When he says that, they're, like, two lynxes would leap off his shield and kind of start walking around a little bit.",
+        "",
+        "%% u1052:0-25, u1053:0-15 %%",
+        "DM: I thank you, honored elf, for your words.",
+        "",
+        "%% u1054:0-48, u1055:0-198, u1056:0-28 %%",
+        "Seeker: I… I swear by… the honor of my ancient people, the magic of the runes, holding up the glove of crystalline magic, and bowing with it before me, before awkwardly turning to Seeker 4 and passing him the glove, that he could put it on and also bow, and then pass it back to me.",
+        "",
+        "%% u1057:0-64, u1058:0-38, u1059:0-12 %%",
+        "DM: “Dwarf and… dwarf, kind…” She looks a little confused at Seeker 4. Our people have always been honorable. Pass to you.",
+        "",
+        "%% u1060:0-97 %%",
+        "Wellby: Wellby would say, “I swear it by all the songs of my people, and the memory of the timeless world.”",
+        "",
+        "%% u1061:0-56, u1062:0-24, u1063:0-40, u1064:0-25, u1065:0-18 %%",
+        "DM: She smiles a little and glances over it at the halfling, and kind of gives a bow. “I’ve always enjoyed your people’s songs, the most in trying times. Thank you, Wellby.”",
+        "",
+        "%% u1066:0-32, u1067:0-41, u1068:0-7 %%",
+        "Kenzo: And I, too, will swear upon… I’m… Kenzo lists all the gods that he, … Yeah. My God.",
+        "",
+        "%% u1069:0-16, u1070:0-140, u1071:0-23, u1072:0-76 %%",
+        "((A joke about Kenzo’s lengthy oath))",
+        "",
+        "%% u1073:0-29, u1074:0-44 %%",
+        "Kenzo: And, and, all of the stories, told to me by all beings… living and gone.",
+        "",
+        "%% u1075:0-72, u1076:0-79 %%",
+        "DM: She gives a little bow to Kenzo as well, and she says, “Thank you, Kenzo. The stories of those gone are among the most honorable and dear things we hold.”",
+        "",
+        "%% u1077:0-64, u1078:0-174, u1079:0-35, u1080:0-1 %%",
+        "DM: She kind of… clutches the stone and looks up at the sky briefly. And then she walks forward with her staff, leaning on her staff as she walks. She's probably the oldest person in the room, although it's hard to judge the age of lizardfolk. So this lizard folk might be older. …",
+        "",
+        "%% u1081:0-9, u1082:0-65, u1083:0-58, u1084:0-32, u1085:0-59, u1086:0-29, u1087:0-47, u1088:0-45, u1089:0-9, u1090:0-37, u1091:0-24, u1092:0-25, u1093:0-42, u1094:0-22, u1095:0-31, u1096:0-22 %%",
+        "DM: “Long ago…” And she looks… “Those of you who have heard this story many times, I know you will be patient with these newcomers. Long ago, the city of Isingue was blessed. There are many beliefs as to where this blessing came from. Gods, maybe. The land itself, some beneficent… plane, entangled with our own. But for our people, our ancestors in Isingue… not care so much where the blessing came from, just what it did for us. It grew through the soil. Spread like roots growing between… plants, a network that spread and made everything it touched bountiful and fertile.”",
+        "",
+        "%% u1097:0-10, u1098:0-43, u1099:0-14, u1100:0-7, u1101:0-20, u1102:0-11, u1103:0-9, u1104:0-26, u1105:0-28, u1106:0-44, u1107:0-38, u1108:0-29, u1109:0-23, u1110:0-20, u1111:0-37, u1112:0-42, u1113:0-44 %%",
+        "DM: “Our vines… Our ancestors' vines grew laden with fruit. Our ancestors’… fields, wheat… grew heavy with grain. It was a… the stories of that place tell of such… joyous bounty. And even the people… who lived in that soil, who drank the water, who ate the food, were fruitful and multiplied. That, of course, ended when Cha’mutte came and the Great War fell upon our city. This blessing, though… was a living thing. So some pieces of it may be… were corrupted.”",
+        "",
+        "%% u1114:0-12, u1115:0-23, u1116:0-13 %%",
+        "DM: “The Rangers…” Glances over at Martin, the halfling.",
+        "",
+        "%% u1117:0-42, u1118:0-20, u1119:0-26, u1120:0-25, u1121:0-11, u1122:0-36, u1123:0-46, u1124:0-72, u1125:0-65, u1126:0-43, u1127:0-29, u1128:0-27, u1129:0-49, u1130:0-49, u1131:0-35, u1132:0-35, u1133:0-30, u1134:0-28, u1135:0-19, u1136:0-29, u1137:0-30 %%",
+        "DM: “One of the first… missions that Beryl set our organization to was to save some fragment of this piece of Isingue. We took it. We harvested the soil, and we… fled, as the war was ending, deep into the mountains. There were many years there, early in… the days of… back then… not even… anything more than a handful of refugees hiding in the mountains, when we thought we… would surely be killed. Wasn’t until… 10 years later, during the Three Kin’s War, human, lizardfolk, and Stoneborn joined together to defend the plateau, fight off… the hobgoblins spilling out from the plains below, we finally… had a moment of safety. And we took this… living soil from Isingue and brought it to a hidden valley some… 50 miles north of here. And there… we’ve kept it safe.”",
+        "",
+        "%% u1138:0-19, u1139:0-87, u1140:0-38, u1141:0-77, u1142:0-26, u1143:0-57, u1144:0-30, u1145:0-32, u1146:0-32, u1147:0-45, u1148:0-36, u1149:0-8, u1150:0-11, u1151:0-29, u1152:0-11, u1153:0-8, u1154:0-81, u1155:0-28, u1156:0-14, u1157:0-35, u1158:0-33 %%",
+        "DM: “That valley itself, now rich and bountiful, although… whatever magic there is in the soil does not seem to… thrive here the way it did in Isingue. Maybe it’s something about the… ash that still sometimes blows in the summer, or… the water’s not right, or maybe it was just… because the planar alignments… not… are not correct here to allow the… soil to thrive the way that the living soil of Isingue grew and spread along the Istaros back in the day. So now we guard this secret in hope, someday, to fulfill a mission that Beryl gave us: restore it… Isingue. But now I fear all may be lost. If you say it is true that this Empress of Chaos… knows of… heart of the land, the Heartroot… corrupt the last uncorrupted piece… that would be a devastating fate.”",
+        "",
+        "%% u1159:0-16, u1160:0-26, u1161:0-17 %%",
+        "Delwath: Can it be moved? Or is it part of the soil? Part of the land.",
+        "",
+        "%% u1162:0-35 %%",
+        "Seeker: Well, it was moved once, wasn't it?",
+        "",
+        "%% u1163:0-8, u1164:0-14, u1165:0-11, u1166:0-23, u1167:0-10, u1168:0-58, u1169:0-14, u1170:0-15, u1171:0-38, u1172:0-19, u1173:0-45, u1174:0-5, u1175:0-5, u1176:0-27, u1177:0-17 %%",
+        "DM: You can. Fear to do so, for… it is… the stories of Isingue… Heartroot… they speak almost as if this was a… a living thing itself, mesh of a web, bound the land and the things growing on it together, vibrant and strong. And here, in the valley we’ve hidden, it is… thin, weak. It seems to barely survive. Much less thrive.",
+        "",
+        "%% u1178:0-8, u1179:0-11, u1180:0-6, u1181:0-32 %%",
+        "DM: I worry… transplant… again… how do we know it would survive?",
+        "",
+        "%% u1182:0-74, u1183:0-46, u1184:0-20 %%",
+        "Delwath: Taking it on Vindristjarna, our… flying castle, and… using it to… [garbled]… draw the Empress of Chaos away is perhaps not… our first best plan.",
+        "",
+        "%% u1185:0-44, u1186:0-33, u1187:0-10, u1188:0-43 %%",
+        "DM: I would have to speak to others of my order. It may be a… last desperate hope, necessary, although… perhaps there is no other choice."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Very cool.",
+          "Wellby: We've been in worse spots, it's turned out okay.",
+          "Delwath: We… we have. They… they are led by… someone who calls herself the Empress of Chaos? And claims… her goal… is to… control… the magic of Isingue, and take the ooze that currently lives there, as her… servant, and overthrow the world. Or at least this part of it.",
+          "Seeker: I believe it's an Ooze Titan. Technically.",
+          "Delwath: We did see this ooze, … We flew over Isingue some months ago. You may not be aware of what’s there, but it’s a… it’s quite large, 3-400 feet across."
+        ],
+        "after": [
+          "DM: As the silence stretches, the woman… with red hair, wearing armor, sort of nods at you. “Surely, that is not the only choice.” And she… she looks over at you. “I’m… Marguerite, by the way, representing the militias of the Plateau. We are not… hopeless here. There is a chance to defend this place if this is what we know their destination is. If they will seek this out, {{the Evoque}}… families and farms?” And looks over her. “And yes, Guilhem, even your… walled city? Can we not make a stand? Should we not fight? You have a flying castle, you say? We have some thousands strong who are willing to stand up,” and she… looks over it… Martin. “And some of the rangers are… far more skilled than… us ordinary folk. This is not an impossible fight.”",
+          "Delwath: I did not say it was.",
+          "Wellby: How many can you muster? In that valley? In 4 days?",
+          "DM: She kind of… rubs her hand along her chin. “The musters… happening now, there are… some… hundreds… now gathered at every stair and every watchfort along the plateau, hundreds more still making their way from the interior… mountains. We could have some… 3,000 troops, in… two days, though it’ll take some time to position them, and maybe another… twice that again, sometime after, although… Hobgoblins, not… not every one of us is well-trained to face such a devastating foe. But we were certainly better prepared than the… War of the Ashen Horde, and we survived that, so… but that’s… see what we can do.”",
+          "Kenzo: What's the War of the Ashen Horde? Have we heard about that? Is that, like, something we know about?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Marguerite argues for defending the Heartroot",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e038",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e036",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e039",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e037",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "present"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "present"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1189",
+        "endUid": "u1274"
+      },
+      "lines": [
+        "%% u1189:0-25, u1190:0-42, u1191:0-20, u1192:0-36, u1193:0-60, u1194:0-41, u1195:0-11, u1196:0-14, u1197:0-68, u1198:0-15, u1199:0-43, u1200:0-19, u1201:0-61, u1202:0-24, u1203:0-20, u1204:0-34, u1205:0-82, u1206:0-7, u1207:0-69, u1208:0-32 %%",
+        "DM: As the silence stretches, the woman… with red hair, wearing armor, sort of nods at you. “Surely, that is not the only choice.” And she… she looks over at you. “I’m… Marguerite, by the way, representing the militias of the Plateau. We are not… hopeless here. There is a chance to defend this place if this is what we know their destination is. If they will seek this out, {{the Evoque}}… families and farms?” And looks over her. “And yes, Guilhem, even your… walled city? Can we not make a stand? Should we not fight? You have a flying castle, you say? We have some thousands strong who are willing to stand up,” and she… looks over it… Martin. “And some of the rangers are… far more skilled than… us ordinary folk. This is not an impossible fight.”",
+        "",
+        "%% u1209:0-21 %%",
+        "Delwath: I did not say it was.",
+        "",
+        "%% u1210:0-24, u1211:0-26 %%",
+        "Wellby: How many can you muster? In that valley? In 4 days?",
+        "",
+        "%% u1212:0-44, u1213:0-27, u1214:0-93, u1215:0-20, u1216:0-35, u1217:0-10, u1218:0-19, u1219:0-73, u1220:0-18, u1221:0-17, u1222:0-25, u1223:0-53, u1224:0-31, u1225:0-47, u1226:0-81 %%",
+        "DM: She kind of… rubs her hand along her chin. “The musters… happening now, there are… some… hundreds… now gathered at every stair and every watchfort along the plateau, hundreds more still making their way from the interior… mountains. We could have some… 3,000 troops, in… two days, though it’ll take some time to position them, and maybe another… twice that again, sometime after, although… Hobgoblins, not… not every one of us is well-trained to face such a devastating foe. But we were certainly better prepared than the… War of the Ashen Horde, and we survived that, so… but that’s… see what we can do.”",
+        "",
+        "%% u1227:0-34, u1228:0-65 %%",
+        "Kenzo: What's the War of the Ashen Horde? Have we heard about that? Is that, like, something we know about?",
+        "",
+        "%% u1229:0-38, u1230:0-53, u1231:0-139, u1232:0-53, u1233:0-80, u1234:0-104, u1235:0-74, u1236:0-13, u1237:0-112, u1238:0-89, u1239:0-84, u1240:0-46, u1241:0-61 %%",
+        "DM: I mean, Seeker is presumably better, … Wellby might have heard about it, this was, like, in… about 30 years ago or something, so this would have been, like, you might have heard vague rumors of it during your childhood or something. … The exact details are a little bit murky, … a… war… The biggest thing that, like, the sort of famous thing, it was… it was led by… it was an attack out of the Plaguelands by… the Ashen Worm, some… giant, dragon-like creature, although… people say it wasn't actually a dragon, it was some sort of chaos monster that spawned… ash spawn as it flew. They’d, like, drop off of its body, and these armies would appear of, like, ash creatures. And this was sort of when the sort of militias originally formed, it was, like, when the… what's now called the Refounded Alliance of Aurbez was sort of forged itself into a… mutual defense pact to defeat the Ashen Horde. You probably haven't really heard any more details than that.",
+        "",
+        "%% u1242:0-49, u1243:0-62 %%",
+        "Delwath: Whatever… orders or messages you need to send to… effect a muster, I think, should be… sent as soon as possible.",
+        "",
+        "%% u1244:0-16, u1245:0-42, u1246:0-108, u1247:0-19 %%",
+        "DM: “Question is not to effect a muster,” Marguerite says, “it’s… where to position the troops. Now we are back to the same argument that we’ve been having for the past hour.” And then she turns.",
+        "",
+        "%% u1248:0-89, u1249:0-10, u1250:0-10, u1251:0-48 %%",
+        "((The party asks where the Heartroot is))",
+        "",
+        "%% u1252:0-46 %%",
+        "DM: This… this fortress here guards the Heartroot.",
+        "",
+        "%% u1253:0-22, u1254:0-27 %%",
+        "Delwath: I guess [garbled]. Wait, where are we? Where…",
+        "",
+        "%% u1255:0-21 %%",
+        "Wellby: Which fortress again?",
+        "",
+        "%% u1256:0-13, u1257:0-14, u1258:0-21 %%",
+        "DM: You are here. This fortress guards the Heartroot.",
+        "",
+        "%% u1259:0-17, u1260:0-20, u1261:0-40, u1262:0-23, u1263:0-17 %%",
+        "((Map-position clarification))",
+        "",
+        "%% u1264:0-94 %%",
+        "Wellby: Was the direction of its travel, like, was it moving straight towards the… Heartroot location?",
+        "",
+        "%% u1265:0-20, u1266:0-68 %%",
+        "DM: … Y-ye… yeah, maybe. Now, looking at a map, you can sort of see that… That's about right.",
+        "",
+        "%% u1267:0-33, u1268:0-65, u1269:0-35, u1270:0-56, u1271:0-71, u1272:0-88, u1273:0-119, u1274:0-37 %%",
+        "Wellby: I mean, I… I think we'll be safe. Defending the stairs are meaningless, it doesn't need the stairs. The walls of the city don't matter. It'll go right over them. They won't provide protection. I think from what we could tell, it's going straight towards the heart. So that’s the place to defend. And it seems, from interrogating the prisoner, that… mmm… it would be to their advantage to accomplish that one aim first, and then destroy the rest of the plateau, rather than… reverse the order, but… do you agree?"
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Well, it was moved once, wasn't it?",
+          "DM: You can. Fear to do so, for… it is… the stories of Isingue… Heartroot… they speak almost as if this was a… a living thing itself, mesh of a web, bound the land and the things growing on it together, vibrant and strong. And here, in the valley we’ve hidden, it is… thin, weak. It seems to barely survive. Much less thrive.",
+          "DM: I worry… transplant… again… how do we know it would survive?",
+          "Delwath: Taking it on Vindristjarna, our… flying castle, and… using it to… [garbled]… draw the Empress of Chaos away is perhaps not… our first best plan.",
+          "DM: I would have to speak to others of my order. It may be a… last desperate hope, necessary, although… perhaps there is no other choice."
+        ],
+        "after": [
+          "Delwath: Perhaps we should… Although I do not know if the prisoner will be helpful anymore. But we could, …",
+          "DM: By now.",
+          "Delwath: Suggestion's worn off. But… We could bring them out again. I mean, we could… bring them out of the mirror, right?",
+          "DM: Yeah.",
+          "Delwath: And…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "The council agrees to muster at the Heartroot",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "interacted"
+        },
+        {
+          "id": "e035",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e036",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e037",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e038",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1368",
+        "endUid": "u1834"
+      },
+      "lines": [
+        "%% u1368:0-43, u1369:0-30, u1370:0-77, u1371:0-51 %%",
+        "DM: Martin… Martin stands up and says, “I would… love to hear what you propose. Zimkala, when… do you think the stoneborn might arrive, and in what strength? Seems useful information for our planning purposes.”",
+        "",
+        "%% u1372:0-43, u1373:0-38, u1374:0-23, u1375:0-23, u1376:0-12, u1377:0-49, u1378:0-14, u1379:0-34 %%",
+        "DM: And the Stoneborn turns and looks and says, “I have ridden… through several nights to bring you this news. Even the fastest of us must muster, and reach the battlefield with strength to fight. It is… a week before you can expect us in force.”",
+        "",
+        "%% u1380:0-45, u1381:0-33 %%",
+        "DM: “Do we know,” he says, looking around the room, “when the hobgoblins might arrive?”",
+        "",
+        "%% u1382:0-7 %%",
+        "Delwath: 6 days.",
+        "",
+        "%% u1383:0-43 %%",
+        "DM: 6 days to reach… the heart, or the plateau?",
+        "",
+        "%% u1384:0-42, u1385:0-64 %%",
+        "Delwath: Our prisoner was… not clear on that point. It seems his empress has held her battle plans relatively close.",
+        "",
+        "%% u1386:0-40, u1387:0-14, u1388:0-54, u1389:0-55, u1390:0-10, u1391:0-43, u1392:0-18, u1393:0-65, u1394:0-16, u1395:0-10, u1396:0-16, u1397:0-112, u1398:0-53 %%",
+        "DM: Though, halfling looks up at this point. “I,” she says… “unless they are traveling at some exceptional rate, I… it seems hard to believe they could be 6 days from the… Heartroot. That’s… 60, 70 miles from the plateau edge, as the crow flies, and that’s going through forests. More if you follow a clear path. Are they really… traveling… at such a speed? They are far enough away now, at least, that our scouts cannot see them from watchtowers along the plateau edge. So they must be… 100 miles off the plateau, at least.”",
+        "",
+        "%% u1399:0-8 %%",
+        "Delwath: I mean…",
+        "",
+        "%% u1400:0-5 %%",
+        "DM: More?",
+        "",
+        "%% u1401:0-56, u1402:0-37 %%",
+        "Delwath: We have little… don't we have little… illusionary little… yeah. Showing exactly where they are?",
+        "",
+        "%% u1403:0-29, u1404:0-47, u1405:0-42, u1406:0-14, u1407:0-4 %%",
+        "DM: She looks, and she says, “Wow. We, of course, don’t know their rate of travel. That is the crucial variable to calculate their arrival. Yes.”",
+        "",
+        "%% u1408:0-4 %%",
+        "Delwath: Wow.",
+        "",
+        "%% u1409:0-35, u1410:0-24, u1411:0-46, u1412:0-22, u1413:0-65 %%",
+        "DM: If they are expected to… be 6 days… as the crow flies… from… from the… Heartroot itself… must be traveling… almost 40 miles a day? Did they seem to be going that fast to you when you watched them?",
+        "",
+        "%% u1414:0-33, u1415:0-132 %%",
+        "Wellby: Our scouts have not gotten close. What's my take if Wellby's gonna do, like, his best estimate based on his scouting skills and nature and mapping and all that stuff?",
+        "",
+        "%% u1416:0-124 %%",
+        "DM: The big unknown, from Wellby's point of view, the big unknown is if they're traveling 24 hours a day, or if they're resting.",
+        "",
+        "%% u1417:0-4 %%",
+        "Wellby: Hmm.",
+        "",
+        "%% u1418:0-6 %%",
+        "DM: There.",
+        "",
+        "%% u1419:0-4, u1420:0-24 %%",
+        "Delwath: Wow. Our guy would know that.",
+        "",
+        "%% u1421:0-5, u1422:0-54, u1423:0-76, u1424:0-61, u1425:0-8, u1426:0-135, u1427:0-15, u1428:0-46, u1429:0-49, u1430:0-29, u1431:0-42, u1432:0-57 %%",
+        "DM: Yeah. If they’re… if they’re traveling… they were not going… So, if they were traveling, say, 12 hours a day, then 40 miles a day implies they’re going something like… between 3 and 4 miles per hour, like, a… good walking pace. They were moving slower than that, right? It was… you could walk… you could definitely have walked faster than them… than the beast. Like, probably it was… it was going more like… 1 to 2 miles an hour. Like, it seems slow to you. But of course, if it's going… If they're traveling 24 hours a day, then… 40 miles… that they could easily be making 40 miles a day.",
+        "",
+        "%% u1433:0-2, u1434:0-18, u1435:0-29, u1436:0-67, u1437:0-41, u1438:0-183, u1439:0-50, u1440:0-26, u1441:0-5, u1442:0-12, u1443:0-44, u1444:0-52, u1444:52-61, u1445:0-26, u1446:0-95, u1447:0-13, u1448:0-32, u1449:0-8, u1450:0-87, u1451:0-41, u1452:0-6, u1453:0-38, u1454:0-55, u1455:0-22, u1456:0-124, u1457:0-68, u1458:0-55, u1459:0-70, u1460:0-64, u1461:0-50, u1462:0-35, u1463:0-65, u1464:0-25, u1465:0-5 %%",
+        "((Prisoner-questioning options))",
+        "",
+        "%% u1466:0-20, u1467:0-17, u1468:0-12, u1469:0-14, u1470:0-21, u1471:0-19, u1472:0-43, u1473:0-91, u1474:0-92, u1475:0-73, u1476:0-66 %%",
+        "Kenzo: So here’s the thing. Here's the thing. The Empress… well powerful, and… we respect them. I feel confident… my colleagues and I can handle the Empress. Now… if we’re able… in this situation, and what we’ve gathered as well from the hobgoblins… This appears to be a situation where, upon the death of the Empress, the Hobgoblin army may… surrender, run away, etc. It’s very… it feels, this is… this is a very… top-heavy organization, at least as it relates to this… this army.",
+        "",
+        "%% u1477:0-87, u1478:0-66, u1479:0-34, u1480:0-24, u1481:0-51, u1482:0-17 %%",
+        "Kenzo: If we’re able to separate the Empress, if the five of us can, or if the four of us can… the five of us, pointing at… for… Seeker 4. If the five of us can… focus our energies on the Empress, we’ll be in a very good… we’ll have a good opportunity of ending the battle decisively there.",
+        "",
+        "%% u1483:0-31, u1484:0-19, u1485:0-65, u1486:0-22, u1487:0-58, u1488:0-67, u1489:0-22, u1490:0-130, u1491:0-32, u1492:0-43, u1493:0-56, u1494:0-47, u1495:0-28 %%",
+        "DM: The… the… man in the straw hat… speaks up. He says… gives you a little nod… “Due respect, sir… Perrin, my name is. You’re gambling a lot on the assumption that the… hobgoblins will… disperse, or… not just slaughter us if their leader is killed, are you not? I am… I am… I am sorry to, … question your wisdom. You are obviously more experienced in such matters than a lonely… a lowly beekeeper like myself, but I must… I must speak for the people who… elected me to come to this council and say, this is a risk I’m not sure that we are willing to take. {{But it's some thought to what is given}}, if… your hopes are not true, no?”",
+        "",
+        "%% u1496:0-239, u1497:0-73, u1498:0-41 %%",
+        "Kenzo: Well, what I'm saying is, also, it is a best-case scenario, because you're right, you know, if they do stay and fight, then we'll have to figure out how to kill 4,000 hobgoblins and the Empress. No matter what, we have to kill the Empress. You know, so this is, separating, separating the, the Empress from the, … the army is a logistical concern that’s…",
+        "",
+        "%% u1499:0-6 %%",
+        "DM: I am…",
+        "",
+        "%% u1500:0-45 %%",
+        "Kenzo: [garbled] for us, but yeah.",
+        "",
+        "%% u1501:0-44, u1502:0-94 %%",
+        "DM: Marguerite, the red-haired woman, speaks up. “I am less worried about 4,000 hobgoblins than that strange beast you described they ride upon.”",
+        "",
+        "%% u1503:0-41 %%",
+        "Wellby: If there's any way you can disable that…",
+        "",
+        "%% u1504:0-22 %%",
+        "DM: Delay them until the…",
+        "",
+        "%% u1505:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u1506:0-42, u1507:0-53, u1508:0-28, u1509:0-48, u1510:0-45, u1511:0-47 %%",
+        "DM: Stoneborn arrive, and she looks over at… She looks over at the younger of the… the lizardfolk. “Between… Eztain, myself and… Zimkala… will be the Three Kin’s War once again. I’m sure we can ride to victory without this… terrifying, supernatural element to the battle.”",
+        "",
+        "%% u1512:0-9 %%",
+        "Kenzo: So, okay.",
+        "",
+        "%% u1513:0-15, u1514:0-59, u1515:0-73 %%",
+        "DM: The lizardfolk… woman that, like, bares her teeth and says, “Yes, my friend! I am eager to… ride and battle with you, but… I, too, fear this creature.”",
+        "",
+        "%% u1516:0-88, u1517:0-107, u1518:0-19, u1519:0-91, u1520:0-51, u1521:0-70, u1522:0-45, u1523:0-55, u1524:0-16, u1525:0-13 %%",
+        "Kenzo: Okay, so I think y'all are on the right track, and I actually agree totally. We should, … slow down this, this, centipede monster carrying the 4,000 hobgoblins. And perhaps we do have the advantage in the coming days… to do, you know, repeated small attacks. And here’s the thing, in drawing away the Empress, I think if we did manage to sabotage the centipede, perhaps even from a distance, using other, you know, magic traps, etc., we could draw the Empress away from the army, away from… before… before it arrives close to the camp. Or we just wait. We just wait.",
+        "",
+        "%% u1526:0-29, u1527:0-46, u1528:0-40, u1529:0-45, u1530:0-23, u1531:0-24, u1532:0-71, u1533:0-143, u1534:0-3, u1535:0-103, u1536:0-47, u1537:0-32, u1538:0-57, u1539:0-32, u1540:0-94 %%",
+        "Delwath: I… that all said, I… I think… this is not a time when… to Perrin, he’ll say, “The choice is not… to f- fight, or… not. These… this army is… is coming to this place, and… we must defend it. There's no choice there. The alternative is… yeah, exactly, right? The alternative is, I’m just… you know, [garbled]. The alternative is to give up the Heartroot to the Empress of Chaos and see the end of all human life in Aurbez. So… The muster must come, and I think it must come now, and it must be at the fortress that defends Aurbez. We will… see more in the coming days as to who… as to how fast they travel, and… what we might be able to do to disrupt them as they come. We are not without… ways to aid. We could create… I mean, would some of you be willing to become scorpions the size of… horses?”",
+        "",
+        "%% u1541:0-33, u1542:0-22, u1543:0-10, u1544:0-19, u1545:0-18, u1546:0-15, u1547:0-80, u1548:0-106, u1549:0-239, u1550:0-36, u1551:0-104, u1552:0-40, u1553:0-7, u1554:0-145, u1555:0-109, u1556:0-4, u1557:0-42, u1558:0-4, u1559:0-113, u1560:0-72, u1561:0-150, u1562:0-189, u1563:0-205, u1564:0-54, u1565:0-12, u1566:0-29, u1567:0-4, u1568:0-48, u1569:0-34, u1570:0-171, u1571:0-39, u1572:0-39, u1573:0-42, u1574:0-32, u1575:0-200, u1576:0-48, u1577:0-4, u1578:0-84, u1579:0-5, u1580:0-87, u1581:0-10, u1582:0-18, u1583:0-11, u1584:0-44, u1585:0-15, u1586:0-65, u1587:0-7, u1588:0-139, u1589:0-26, u1590:0-27, u1591:0-37, u1592:0-60, u1593:0-110, u1594:0-80, u1595:0-25, u1596:0-107, u1597:0-96, u1598:0-16, u1599:0-82, u1600:0-92, u1601:0-27, u1602:0-6, u1603:0-57, u1604:0-125, u1605:0-45, u1606:0-13, u1607:0-74, u1608:0-6, u1609:0-25, u1610:0-10, u1611:0-45, u1612:0-16, u1613:0-21, u1614:0-5, u1615:0-9, u1616:0-51, u1617:0-17, u1618:0-36, u1619:0-29, u1620:0-15, u1621:0-9, u1622:0-32, u1623:0-218, u1624:0-4, u1625:0-102, u1626:0-68, u1627:0-35 %%",
+        "((Hypothetical animal-army tactics and a private Revaka plan))",
+        "",
+        "%% u1628:0-29, u1629:0-53, u1630:0-48, u1631:0-55, u1632:0-16, u1633:0-38, u1634:0-27 %%",
+        "Delwath: N… I’ll say out loud to them, “The battle plan will have to evolve as we learn more. But I think the… this group, this council, this… the… the heart of your… our defenses, of your defenses, should relocate to… to Heartroot, as soon as possible, and prepare to fight there.”",
+        "",
+        "%% u1635:0-27, u1636:0-18, u1637:0-26, u1638:0-44, u1639:0-55, u1640:0-33, u1641:0-11, u1642:0-34, u1643:0-8, u1644:0-23, u1645:0-38, u1646:0-38, u1647:0-72 %%",
+        "DM: Cateline sort of stands up. And takes out the… gemstone that she wears. “Until now, we have always relied on secrecy, the hidden… ways of the… Rangers and the… hidden paths through the mountains to protect this relic. Seems now secrecy is lost somehow. Perhaps… if it is true, you say… Do you think it is possible that this… Empress of Chaos has explored Isingue? I’m sure the rangers did not take every secret with them when they left.”",
+        "",
+        "%% u1648:0-36 %%",
+        "Delwath: I think it is… certain that she has.",
+        "",
+        "%% u1649:0-27, u1650:0-57, u1651:0-41, u1652:0-80, u1653:0-36, u1654:0-58, u1655:0-22, u1656:0-29, u1657:0-23 %%",
+        "DM: Sort of closing their eyes. “And maybe… indeed, it is time that… secrecy be put aside. Before we do, I must… ask if it is okay.” She takes out her… She, like, holds up this… this gemstone, and, like, it's a… spell focus and she begins speaking… spell, and then she says… “Fox and Hunter, please guide us. Would it be a mistake to move our troops to defend the Heartroot in force?”",
+        "",
+        "%% u1658:0-33, u1659:0-35, u1660:0-44, u1661:0-15, u1662:0-27, u1663:0-27, u1664:0-66, u1665:0-17, u1666:0-31 %%",
+        "DM: She closes her eyes for a moment. She opens them again, and she says, “It seems that is the right course of action. Let it be done.” She looks around the table. “Marguerite, Martin… Eztain, will you… do this… Zimkala, when you can, when your troops arrive, bring our forces all together to meet this army?”",
+        "",
+        "%% u1667:0-61, u1668:0-26, u1669:0-23, u1670:0-36, u1671:0-16, u1672:0-41 %%",
+        "DM: The three of them, the three commanders, sort of look around. Martin stands up and says, “This is… your guidance, Cateline, you’ve never led us wrong. I will be there. Marguerite, can we count on the militias?”",
+        "",
+        "%% u1673:0-25, u1674:0-9, u1675:0-16, u1676:0-19, u1677:0-51, u1678:0-15, u1679:0-16, u1680:0-55, u1681:0-24, u1682:0-37, u1683:0-22, u1684:0-102, u1685:0-30, u1686:0-20, u1687:0-18, u1688:0-65, u1689:0-10, u1690:0-50, u1691:0-48, u1692:0-15, u1693:0-15 %%",
+        "DM: She looks over, she says… looks at… specifically it… Perrin and Guilhem. “You speak for your people in the city and the Vale. Is this a risk you should take? Our… guests and… hopefully, saviors have… told us this… army can cross any wall. Guilhem, I do not think… Aursenbourg offers any protection. Perrin, I know that most of the people of… Aurbez have already… fled into… whatever hideouts they can. Maybe now is the time to hide. I know it is a risk. Maybe… starvation, if the hobgoblins burn our fields and slaughter our animals… but… if we win… maybe… you heard they have a flying castle, right? Maybe they can… bring the magic back to Isingue and fix it all. No famine then.”",
+        "",
+        "%% u1694:0-66, u1695:0-61, u1696:0-32, u1697:0-29, u1698:0-28 %%",
+        "DM: Guilhem, the guy with the bald head, and Perrin with the straw hat, kind of look at each other. Guilhem sort of shifts nervously, hemming and hawing a little bit. Perrin speaks first and says, “This is a risk we will take.”",
+        "",
+        "%% u1699:0-63, u1700:0-10, u1701:0-50, u1702:0-29, u1703:0-25, u1704:0-27, u1705:0-47, u1706:0-53, u1707:0-40, u1708:0-24 %%",
+        "DM: There's a long moment of silence as Guilhem kind of… hesitates… hesitates. “I will not be the one to stand in the way of this. My people have nowhere to go. And we are… very exposed. There’s nothing you can do?” He looks kind of pleadingly at the five of you. “If we are even slightly wrong about their intentions, they will find a city of some thousands ripe… for the devouring.”",
+        "",
+        "%% u1709:0-25, u1710:0-16 %%",
+        "Wellby: Is this something to ask… your gods about?",
+        "",
+        "%% u1711:0-31 %%",
+        "Delwath: Gods cannot predict the future.",
+        "",
+        "%% u1712:0-6 %%",
+        "Wellby: Right.",
+        "",
+        "%% u1713:0-45, u1714:0-49, u1715:0-39, u1716:0-19 %%",
+        "Delwath: But… we… we are not done seeking information. Mustering in… mustering towards… the heart… root… does not… prevent us from… redirecting, if it is necessary.",
+        "",
+        "%% u1717:0-67, u1718:0-79 %%",
+        "DM: It’s 80 miles from Aursenbourg to… the fortresses in the mountains. It will be hard to move an army of some thousands with any speed that distance.",
+        "",
+        "%% u1719:0-22, u1720:0-78 %%",
+        "Delwath: Let us… consider this. I’ll say that with a look at Wellby. “Perhaps we should bring out the prisoner.”",
+        "",
+        "%% u1721:0-5, u1722:0-2 %%",
+        "Wellby: True. …",
+        "",
+        "%% u1723:0-38, u1724:0-10 %%",
+        "Kenzo: Like, not here, with everybody, right? Privately?",
+        "",
+        "%% u1725:0-18, u1726:0-126 %%",
+        "Wellby: Yeah, this may be… too many… we have the prisoner captured and held. I think it would be wiser not to bring him out in the middle of all of this.",
+        "",
+        "%% u1727:0-30, u1728:0-32 %%",
+        "DM: Martin says, “No, please don’t. It’s enough… going on right now.”",
+        "",
+        "%% u1729:0-32 %%",
+        "Wellby: Do you have a tent we could use?",
+        "",
+        "%% u1730:0-4, u1731:0-24, u1732:0-29, u1733:0-7, u1734:0-40, u1735:0-25, u1736:0-78 %%",
+        "DM: Yes. But let us… resolve our… first step at a plan, anyway. Let us… it will take some time to… send beacons and ravens to all of the… fortresses in which rangers and militias are stationed along the plateau edge.",
+        "",
+        "%% u1737:0-25 %%",
+        "Delwath: How far are those places?",
+        "",
+        "%% u1738:0-48 %%",
+        "DM: As the crow flies. Some hundred miles from here.",
+        "",
+        "%% u1739:0-16 %%",
+        "Delwath: Delwath will, …",
+        "",
+        "%% u1740:0-72, u1741:0-59 %%",
+        "DM: But there are few stationed on the northern reaches of that plateau, as… we had little reason to suspect the army was heading there.",
+        "",
+        "%% u1742:0-2 %%",
+        "Delwath: …",
+        "",
+        "%% u1743:0-69 %%",
+        "DM: Most of our troops are concentrated within 50-some-odd miles of here.",
+        "",
+        "%% u1744:0-28, u1745:0-83, u1746:0-60, u1747:0-42, u1748:0-28, u1749:0-60, u1750:0-31, u1751:0-35, u1752:0-76, u1753:0-70 %%",
+        "((Messenger mechanics))",
+        "",
+        "%% u1754:0-5, u1755:0-25, u1756:0-172, u1757:0-45, u1758:0-48 %%",
+        "Delwath: Okay. So, Delwath will offer, … The… well, sort of gesture to one of the lynxes, which will pace over. They came out of his shield when he pledged the oath, it was actually kind of pacing around the room. “Any messages you wish to carry, I can send… within 50 miles, it will take mere… a mere hour.”",
+        "",
+        "%% u1759:0-76, u1760:0-31, u1761:0-40, u1762:0-23, u1763:0-65, u1764:0-35, u1765:0-36, u1766:0-28, u1767:0-62, u1768:0-61, u1769:0-32, u1770:0-37 %%",
+        "DM: “Let us… I will have messages to send, yes, and… Marguerite as well, perhaps? Eztain, what about your people?” And she looks up, and she looks over it. You hear what she says, “Yes, we will set… have messages to send as well, and… I would be… keen to hear more of this… plan to… transform us into an army of beasts. We would volunteer for that. We have been eager to harass these creatures as they approach. That seems safer than trying to hide in the swamps ourselves. Can promise some 600 volunteers. So yes, let us plan to send messages.”",
+        "",
+        "%% u1771:0-30, u1772:0-15, u1773:0-51, u1774:0-5, u1775:0-34, u1776:0-78, u1777:0-38, u1778:0-50, u1779:0-58, u1780:0-80, u1781:0-65 %%",
+        "DM: Martin says… turns to the hal- halfling. “Daisy, you know the terrain better than anybody. Will you stay? If they have questions on the map, make sure they know. We will prepare. We must go soon to prepare our messages to be sent out to implement this plan. And Guilhem, we will not forget about Aursenbourg. There must be something we can do, not just for that, but… for the other small communities along the road who look to us for their defense. Should not leave them helpless and vulnerable if we can avoid it.”",
+        "",
+        "%% u1782:0-42 %%",
+        "Wellby: Well, and evacuate everything in the path.",
+        "",
+        "%% u1783:0-23, u1784:0-53, u1785:0-29 %%",
+        "DM: Many have already fled. It is just they have fled to the safety of the walls, which now seemed not so safe.",
+        "",
+        "%% u1786:0-63, u1787:0-121 %%",
+        "Delwath: I think we have some hope of learning in the next… day or less… whether they truly intend to bypass the wall… bypass all temptations on their way and head straight for the heart or not.",
+        "",
+        "%% u1788:0-37, u1789:0-40, u1790:0-31, u1791:0-33, u1792:0-144, u1793:0-46, u1794:0-25, u1795:0-107, u1796:0-44, u1797:0-28, u1798:0-31 %%",
+        "DM: Guilhem looks up, he says nervously, “I hope, indeed, you can learn this. I… I would feel much reassured to… returned to my city, even though… with their heading straight for the heart, it could mean the end of us all, if I’ve understood properly what you’ve been speaking of here today. But… if that is indeed the goal, I would feel…” Looks at the five of you. “Like, this is something you could face more confidently, not worrying about us civilians on the back lines. So yes, that would reassure me, and I would… take that back to my people, if you could know such a thing.”",
+        "",
+        "%% u1799:0-17, u1800:0-50, u1801:0-101, u1802:0-71, u1803:0-27, u1804:0-52, u1805:0-79, u1806:0-37, u1807:0-32, u1808:0-6, u1809:0-38, u1810:0-20, u1811:0-15 %%",
+        "DM: Martin stands up. “Is there anything more we must discuss as a group? Believe it is the will of this council, speaking for the people of the Refounded Alliance of… Aurbez, that we muster whatever troops… can be brought to defend the Heartroot within the next… five days. That these… valiant heroes who have come to our aid… will seek to learn what they can about the true purpose of this hobgoblin army. And… we will assist them in whatever… is needed to delay and distract… beast, to give us the best chance of success in the wars to come. Is this agreed?”",
+        "",
+        "%% u1812:0-75, u1813:0-47, u1814:0-35, u1815:0-93, u1816:0-47, u1817:0-96, u1818:0-23, u1819:0-12, u1820:0-57, u1821:0-61, u1822:0-71, u1823:0-41 %%",
+        "DM: He looks at everybody, and… Daisy and Marguerite nod vigorously right away. Cateline… says a small prayer under her breath, then looks up and gives a slow nod. The two lizardfolk, Eztain and Aritza, who has not spoken much, look at each other, and then… give nods as well. Eztain, eager; Aritza, slow. Zimkala stands aside, not part of the Council, but agreeing the Stoneborn will help as they can. As soon as they arrive. Perrin nods. And then last, slowly, Guilhem… gives a nod of agreement. And everybody stands as Cateline says a brief closing prayer, pours another… drink of water from the well for everybody to drink. And then… the council begins to break up.",
+        "",
+        "%% u1824:0-74, u1825:0-37, u1826:0-44, u1827:0-93, u1828:0-15, u1829:0-95, u1830:0-40 %%",
+        "DM: Daisy, hanging back with you in case you want to plan anything on the map. The… the battlefield commanders, the… Marguerite for the militias, Martin for the… Rangers and Eztain for the lizardfolk, as well as Zimkala for the Stoneborn, break off to go… write messages. The civilian representatives, Perrin, Aritza and Guilhem, go back to… prepare messages and… and… speak to the people that they represent.",
+        "",
+        "%% u1831:0-75, u1832:0-28, u1833:0-50, u1834:0-82 %%",
+        "DM: You are now… left in the tent with the map to make any plans that you want. For… a little bit of time. Daisy is still there, but nobody else, until… the… captains will come back with messages to send in the next, like, 30 to 60 minutes."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: And we'll switch to… we, like, were telepathically, like, our eyes were darting around.",
+          "DM: [garbled].",
+          "Delwath: Talking, right?",
+          "Kenzo: But…",
+          "Delwath: Delwath will say, “We should include the…” and then saying, “We’ve… we’ve been discuss… just,” we’ll say, “We’ve been discussing some options here. But we should include you in our deliberations.”"
+        ],
+        "after": [
+          "Delwath: Let's… I mean, the main thing I want to do is pull out the Hobgoblin. But I think we should do this by ourselves, and then… cast Detect Thoughts, and…",
+          "Kenzo: Yeah.",
+          "Delwath: Probe his brain to try and see what his… expectations were on… plunder, like, like… Was he expecting to plunder a city? Was he told there would be… you know, were they stopping anyway?",
+          "Kenzo: Also, I mean, they must have been, like, they must have, like, trained and shit, you know what I mean? So, like, what were their plans? Were they, like, fighting in formations? Were they just gonna, like, you know… Also, how are they organized? Are there generals? You know, like, what's the… what's the thought.",
+          "Delwath: Oh, that's a good idea, like… Try and get… read some of his thoughts about battle tactics, right? Like…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Szoltár’s thoughts reveal the army’s intentions",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1864",
+        "endUid": "u1992"
+      },
+      "lines": [
+        "%% u1864:0-6, u1865:0-28, u1866:0-15 %%",
+        "Kenzo: Great. Let's get the hobgoblin out. We interrogate.",
+        "",
+        "%% u1867:0-5, u1868:0-2, u1869:0-63, u1870:0-42, u1871:0-117, u1872:0-5 %%",
+        "((Threat preparation))",
+        "",
+        "%% u1873:0-66, u1874:0-76, u1875:0-86, u1876:0-85, u1877:0-117 %%",
+        "Delwath: And just [garbled]… right? Like, tie them up, like, make sure up. Swords out, threaten, threatening position, you know, tell us what you know. It doesn't matter if he… the goal is to ask him questions and then probe his thoughts. Right? Right. For the answers to the questions, not actually wait for him to respond. Two key things are, were they planning on stopping, and what… how are they trained? Like, how do they fight on this…",
+        "",
+        "%% u1878:0-16 %%",
+        "Kenzo: Yeah, dude, bro.",
+        "",
+        "%% u1879:0-3 %%",
+        "DM: Oh.",
+        "",
+        "%% u1880:0-107 %%",
+        "Kenzo: How are they trained? Like, what are their tactics, and then what's the structure? What's the organization?",
+        "",
+        "%% u1881:0-51 %%",
+        "DM: So, so he, he emerges from the mirror, like, in a…",
+        "",
+        "%% u1882:0-9 %%",
+        "Delwath: You know.",
+        "",
+        "%% u1883:0-20, u1884:0-53, u1885:0-69, u1886:0-79, u1887:0-25 %%",
+        "DM: A bit of a, sort of… state, right? He’s, like, starting to draw his sword. You obviously get the jump on him and subdue him without any trouble. And he’s… pretty… you know, he’s angry, he’s, like, snarling at you, kind of… basically, just pissed…",
+        "",
+        "%% u1888:0-4, u1889:0-21, u1890:0-49, u1891:0-33 %%",
+        "((Intimidation check))",
+        "",
+        "%% u1892:0-83, u1893:0-48, u1894:0-76, u1895:0-22 %%",
+        "DM: He’s… he’s reacting kind of… I mean, he failed his… save against Detect Thoughts. He’s sullen, he’s like… you know, “Do your worst,” kind of spits at you and just kind of shakes his head and turns away as you… as you demand to know.",
+        "",
+        "%% u1896:0-25, u1897:0-2, u1898:0-60 %%",
+        "((Intimidation rolls))",
+        "",
+        "%% u1899:0-93, u1900:0-87 %%",
+        "DM: But, so what are you asking him? I mean, you're probing his thoughts, right? So he's pretty… Which, it doesn't really matter that he's not really responding to your interrogation.",
+        "",
+        "%% u1900:87-136, u1901:0-30 %%",
+        "Delwath: The first question is, do they stop to make camp? What's the day like on travel?",
+        "",
+        "%% u1902:0-33, u1903:0-37, u1904:0-16, u1905:0-40, u1906:0-86, u1907:0-32, u1908:0-75, u1909:0-48, u1910:0-43 %%",
+        "DM: He’s… he’s like, “I’m not gonna… not gonna speak to you, horrible elf, magic trickster.” And is, you know, clearly thinking, he’s… clearly not smart enough to avoid thinking about exactly the answer to every question. And is thinking, “Don’t tell him. Don’t let them know that we stop for the 6 hours in the middle of each day. Sometimes more. 8, 10, depends on how hot it is. Whether there’s clouds… probably not. Okay.”",
+        "",
+        "%% u1911:0-16 %%",
+        "Delwath: Detect Thoughts.",
+        "",
+        "%% u1912:0-15 %%",
+        "DM: Tell them that.",
+        "",
+        "%% u1913:0-21 %%",
+        "Kenzo: Great. Next question.",
+        "",
+        "%% u1914:0-7 %%",
+        "Delwath: Battle.",
+        "",
+        "%% u1915:0-35, u1916:0-53, u1917:0-134 %%",
+        "Kenzo: Yeah, what have they been training? What are they training to do? What are their tactics? Are they trying to… are they planning to fight all at once? Do they have archers? What's their… what are their strategies and tactics?",
+        "",
+        "%% u1918:0-65, u1919:0-49, u1920:0-55, u1921:0-84, u1922:0-38, u1923:0-62, u1924:0-56, u1925:0-73, u1926:0-21, u1927:0-40 %%",
+        "DM: He, like, shakes his head, kinda… snarls in your direction, like, “You will see our tactics in battle, pathetic elf.” And you can see, in his mind, him imagining, like, the… I mean, the Hobgoblins are pretty… it's a pretty disciplined army, right? It's like… you know, rank companies of about 800, mixed companies split between battle mages, archers, soldiers, visualizing the… a line of… three fireballs exploding as arrows rained down, and then the art… the… sword- and spearmen charge the decimated troops, shocked by the… explosions of fireballs.",
+        "",
+        "%% u1928:0-85 %%",
+        "Delwath: Are they jumping off the thing before they fight, or is he not picturing that at all?",
+        "",
+        "%% u1929:0-54, u1930:0-61 %%",
+        "DM: Are they, like… not picturing the Iron Scourge at all. It seems more transportation than part of their battle plans.",
+        "",
+        "%% u1931:0-224, u1932:0-229, u1933:0-3, u1934:0-142, u1935:0-189 %%",
+        "((Tactical aside and the next question))",
+        "",
+        "%% u1936:0-209, u1937:0-51, u1938:0-31 %%",
+        "DM: Yeah, you pretty much already. It seems like, at least the way he was visualizing it, if you assume that each fireball is a mage, you know, a battalion of 800 might have between 3 and 5 battle mages, and then… a bank, you know, a good bank of archers, and then… most of them are just soldiers.",
+        "",
+        "%% u1939:0-40 %%",
+        "Kenzo: So there's, like, 5 of these, basically.",
+        "",
+        "%% u1940:0-20 %%",
+        "DM: Yeah, there’s, like…",
+        "",
+        "%% u1941:0-4, u1942:0-34 %%",
+        "Delwath: Wow. There's 5 battalions, right? Yeah.",
+        "",
+        "%% u1943:0-34 %%",
+        "DM: Yeah, there's, like, 5 battalions.",
+        "",
+        "%% u1944:0-5, u1945:0-5, u1946:0-14, u1947:0-15, u1948:0-12, u1949:0-52 %%",
+        "((Minor reactions and tactical aside))",
+        "",
+        "%% u1950:0-57, u1951:0-73, u1952:0-29, u1953:0-5 %%",
+        "Delwath: What’s… is there anything else you want to ask him? Oh! Were they planning on sacking any cities or taking plunder before they… before they got to the heart? Wait.",
+        "",
+        "%% u1954:0-1, u1955:0-71, u1956:0-45, u1957:0-94, u1958:0-24, u1959:0-27, u1960:0-38, u1961:0-24, u1962:0-39, u1963:0-104, u1964:0-30, u1965:0-9 %%",
+        "DM: … “That’s for us to know, and you to find out when we plunder your cities.” And in his mind, he’s listening to his… he’s… thinking back to the, like, rousing speech the Empress of Chaos gave as they were setting out, where she says… “We will… we will corrupt their land as soon as we reach… the Secret Heart, and chaos takes it over. Darkness will flow through their water. The people will die, and the cities will be yours for the taking. All the plunder will be yours with no… concern. Let us first corrupt… the land.”",
+        "",
+        "%% u1966:0-209, u1967:0-29 %%",
+        "Kenzo: Okay, I was literally gonna ask, what do they eat? Like, we need to poison all of them. Like, like, at night, like, their camp. Like, poison all their food and shit? Like, what are they eating? The hobgoblins. What, like, what do they eat?",
+        "",
+        "%% u1968:0-62 %%",
+        "DM: Awesome… yeah, okay, you’ve got… this is your last question.",
+        "",
+        "%% u1969:0-16 %%",
+        "Kenzo: Yeah, it's fine.",
+        "",
+        "%% u1970:0-43, u1971:0-81 %%",
+        "DM: Detect Thoughts is ending as he’s thinking. He looks up at you, and he smiles, and bares his teeth, and he says, “Human flesh!”",
+        "",
+        "%% u1972:0-2 %%",
+        "Kenzo: …",
+        "",
+        "%% u1973:0-43 %%",
+        "DM: And then he’s thinking, like… apparently…",
+        "",
+        "%% u1974:0-13 %%",
+        "Wellby: And somehow…",
+        "",
+        "%% u1975:0-30, u1976:0-29, u1977:0-85 %%",
+        "DM: At least in his visualization… the… when they camp at night, somehow, this, like, food grows off of the centipede, and that’s what they’re eating.",
+        "",
+        "%% u1978:0-20 %%",
+        "Wellby: Oh, that's so gross!",
+        "",
+        "%% u1979:0-15 %%",
+        "Delwath: Nothing at all.",
+        "",
+        "%% u1980:0-18 %%",
+        "Kenzo: What kind of food?",
+        "",
+        "%% u1981:0-2 %%",
+        "DM: …",
+        "",
+        "%% u1982:0-48 %%",
+        "Kenzo: Like, what are they eating in the visualization?",
+        "",
+        "%% u1983:0-19 %%",
+        "DM: Like, meat, mostly?",
+        "",
+        "%% u1984:0-35 %%",
+        "Kenzo: Grown from the centipede? The fuck?",
+        "",
+        "%% u1985:0-100, u1986:0-92 %%",
+        "DM: Yeah? They're, like, there's, you know, hobgoblins going through with machetes and, like, harvesting steaks off the side of the centipede, and then throwing them on big fires and roasting them.",
+        "",
+        "%% u1987:0-5, u1988:0-5, u1989:0-13 %%",
+        "((Minor reactions))",
+        "",
+        "%% u1990:0-48, u1991:0-20 %%",
+        "Delwath: There's… there's somebody we'd like you to meet. Show him the mirror.",
+        "",
+        "%% u1992:0-9 %%",
+        "DM: Vanishes."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You can teleport yourselves, but you can't teleport 400 people. Teleport, specifically, is only 8 people.",
+          "Delwath: Yeah. I think step one is probe the hobgoblin.",
+          "Kenzo: Yeah, let's do that right now.",
+          "Delwath: Then put him back in the mirror, and then… connect him to Revaka.",
+          "DM: Okay."
+        ],
+        "after": [
+          "Delwath: I'll bring Revaka back.",
+          "DM: Oh, almost made his save. Nope, but failed.",
+          "Delwath: … We'll bring Revaka back. And I will tell her… that one of the Iron Fang soldiers is trapped here, and we’re going to… release him into her cell.",
+          "Delwath: Learn from him what you can.",
+          "DM: Okay."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Revaka and Szoltár’s cells are joined",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e012",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1993",
+        "endUid": "u2008"
+      },
+      "lines": [
+        "%% u1993:0-23 %%",
+        "Delwath: I'll bring Revaka back.",
+        "",
+        "%% u1994:0-43 %%",
+        "((Szoltár’s trapping save is resolved))",
+        "",
+        "%% u1995:0-26, u1996:0-20, u1997:0-53, u1998:0-48 %%",
+        "Delwath: … We'll bring Revaka back. And I will tell her… that one of the Iron Fang soldiers is trapped here, and we’re going to… release him into her cell.",
+        "",
+        "%% u1999:0-28 %%",
+        "Delwath: Learn from him what you can.",
+        "",
+        "%% u2000:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u2001:0-16 %%",
+        "Delwath: We'll talk soon.",
+        "",
+        "%% u2002:0-17, u2003:0-22 %%",
+        "DM: This will be fun. Okay, so… Let's do it.",
+        "",
+        "%% u2004:0-33 %%",
+        "Delwath: Right? We're combining the cells?",
+        "",
+        "%% u2005:0-12 %%",
+        "Wellby: Let's do it.",
+        "",
+        "%% u2006:0-15 %%",
+        "Delwath: We're doing it!",
+        "",
+        "%% u2007:0-5, u2008:0-19 %%",
+        "DM: Okay. Cells are combined."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Cool.",
+          "Delwath: Okay.",
+          "DM: Probably mad.",
+          "Delwath: There's… there's somebody we'd like you to meet. Show him the mirror.",
+          "DM: Vanishes."
+        ],
+        "after": [
+          "Delwath: That’s… put that aside… let’s report back. I’ll report back to the… Perrin in particular, get… what was his name? Gooseme… who is the, who is the Aursenbourg?",
+          "DM: Guilhem?",
+          "Delwath: Yo. But to Perrin and Guilhem in particular, that… are…",
+          "DM: Yeah, I hear you, Eric. We'll probably stop in the next, like, half hour. We won't do any major battles tonight, for sure.",
+          "DM: Good night."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Perrin and Guilhem receive the intelligence",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e036",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2009",
+        "endUid": "u2033"
+      },
+      "lines": [
+        "%% u2009:0-44, u2010:0-72, u2011:0-44 %%",
+        "Delwath: That’s… put that aside… let’s report back. I’ll report back to the… Perrin in particular, get… what was his name? Gooseme… who is the, who is the Aursenbourg?",
+        "",
+        "%% u2012:0-8 %%",
+        "DM: Guilhem?",
+        "",
+        "%% u2013:0-3, u2014:0-54 %%",
+        "Delwath: Yo. But to Perrin and Guilhem in particular, that… are…",
+        "",
+        "%% u2015:0-44, u2016:0-29, u2017:0-48, u2018:0-11, u2019:0-6, u2020:0-14 %%",
+        "((Player farewell))",
+        "",
+        "%% u2021:0-80, u2022:0-26, u2023:0-49, u2024:0-49, u2025:0-28 %%",
+        "Delwath: So I’ll tell them that we interrogated the… our hobgoblin prisoner with magic, and his thoughts revealed… that’s… the Empress’s speech to them, at least… was… that they were gonna corrupt the land first, and then plunder the cities.",
+        "",
+        "%% u2026:0-57, u2027:0-225, u2028:0-57, u2029:0-93, u2030:0-84, u2031:0-66, u2032:0-113, u2033:0-32 %%",
+        "DM: They… they sort of nod, like, there's, you know, there's… crowds kind of milling about as you go talk, and, like, people are very curious about you, and they're sort of following you around, and you pull them aside, and they're… they're clearly sort of trading a little bit on their… the fact that you're coming to bring them messages, like… I mean, this is all… like, everything in Aurbez operates purely… it’s, like, very much, like… you know, representative democracy style, right? So these… these are folks who were… chosen by their communities to represent their communities at the… at this council, and there’s a little bit of, like, politicians in them, and they’re, like, playing up the, like… but they appreciate the message."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: This will be fun. Okay, so… Let's do it.",
+          "Delwath: Right? We're combining the cells?",
+          "Wellby: Let's do it.",
+          "Delwath: We're doing it!",
+          "DM: Okay. Cells are combined."
+        ],
+        "after": [
+          "Delwath: … And then separately, we should get the militias together. We should get the commanders of the militias together, I mean… I think Kenzo’s right, like, guerrilla attacks here. They camp… they camp at night. Sorry, they camp during the day, they camp during the hottest part of the day. So, like… what can we do during the hottest part? Like, they won't be going… it'll take them longer to get here than we thought. They're definitely camping. It won't be 6 days when they're here. And we should, like, come up with plans for…",
+          "DM: They might hit the plateau in 6 days. Yeah, yeah, yeah.",
+          "Delwath: Correct.",
+          "DM: Then it might be another day or two. Probably another 2 days for them to hit the…",
+          "Delwath: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Delwath scries the Empress’s camp",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e053",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2120",
+        "endUid": "u2233"
+      },
+      "lines": [
+        "%% u2120:0-49, u2121:0-109, u2122:0-19, u2123:0-13, u2124:0-110 %%",
+        "Delwath: Oh, I want a short rest, and then I want to scry. Okay. And see if… see if… I don’t know how useful scrying is, but I want to try and scry, and I also want to… I also want to, … cast Dream. It’s the middle of the day, right? I want to try and catch it, see if she’s sleeping in the middle of the day.",
+        "",
+        "%% u2125:0-5, u2126:0-58, u2127:0-65, u2128:0-61, u2129:0-93, u2130:0-5, u2131:0-75, u2132:0-5, u2133:0-1, u2134:0-8, u2135:0-49, u2136:0-70, u2137:0-61, u2138:0-2, u2139:0-7, u2140:0-14, u2141:0-20, u2142:0-5, u2143:0-65, u2144:0-55, u2145:0-4, u2146:0-54, u2147:0-18, u2148:0-10, u2149:0-58, u2150:0-6, u2151:0-13, u2152:0-18, u2153:0-36, u2154:0-3 %%",
+        "((Rest and scrying adjudication))",
+        "",
+        "%% u2155:0-27, u2156:0-68, u2157:0-12, u2158:0-126, u2159:0-87, u2160:0-16, u2161:0-164, u2162:0-63, u2163:0-90 %%",
+        "DM: Okay… you… see… the camp. Most of the Hobgoblins are just, like, passed out across the ground. The… your… you're inside an ash cloud, because the sensor appears within 10 feet of the creature that you're targeting. There's, like, a… billowing cloud of ash that’s up above you, blocking the sun, and extends as far, like… 60, 70, 80 feet, as far as you can see, essentially covering this entire… probably more than, actually, because, like, all of the hobgoblins are off the beast now. Most of them are… just, like, sort of crashed on the ground, wrapped in cloaks, resting… in, you know, small haphazard groups, all underneath this, like, billowing cloud.",
+        "",
+        "%% u2164:0-20, u2165:0-15, u2166:0-14, u2167:0-45 %%",
+        "DM: The Empress herself… is… standing, pacing around, kind of walking the perimeter a little bit.",
+        "",
+        "%% u2168:0-42, u2169:0-4 %%",
+        "((Sensor hearing clarification))",
+        "",
+        "%% u2170:0-46, u2171:0-45, u2172:0-91, u2173:0-38, u2174:0-26 %%",
+        "DM: You can hear, there’s clearly several patrols that are marching just outside the ash cloud. And every now and then, she’ll, like, shout a check, just like some, you know, all-clear… “All’s clear,” reply, call and response. Scry lasts for 10 minutes.",
+        "",
+        "%% u2175:0-39, u2176:0-22, u2177:0-16 %%",
+        "((Spell duration check))",
+        "",
+        "%% u2178:0-55, u2179:0-76, u2180:0-65, u2181:0-10, u2182:0-85, u2183:0-45, u2184:0-22, u2185:0-110, u2186:0-45, u2187:0-42, u2188:0-68 %%",
+        "DM: The sensor’s following her as she moves, and after… you notice that the, like, metal of her armor is kind of, you know, flowing, moving around her, and… as she paces… after, like, 2-3 minutes, she stops. And the… the armor, the, like, metal sort of drops down over her eyes, and she turns, and she looks directly at the scrying sensor. She holds up her hand. I'm just gonna say this happens. I don't know if this is actually right, but she takes… she holds up her hand. She tosses, and this glob of metal flies off… her hand, and wraps itself around the eye, which I’m gonna say blinds it, although you can still hear, I guess.",
+        "",
+        "%% u2189:0-1, u2190:0-43, u2191:0-42, u2192:0-54, u2193:0-176, u2194:0-44, u2195:0-13, u2196:0-75, u2197:0-81, u2198:0-53, u2199:0-138, u2200:0-44, u2201:0-28, u2202:0-97, u2203:0-44, u2204:0-39, u2205:0-24 %%",
+        "DM: … And then you hear her footsteps retreating. And you see, actually, occasional flashes. As the metal is wrapped around the eye, you see… like… It’s almost like a flashing after effect, like, you know, you stare at a bright light, and then you close your eyes, and… but it’s not… it’s not just an abstract pattern, like… very briefly see… what looks like… a rock, a giant rock, floating in a mist, like a misty cloud of multicolored lights, and there’s… there’s, like, tendrils reaching up out of the cloud, like… stretching like that. And as that happens, the rock… turns from solid rock… into cloud itself, begins to sink down into the cloud, then the cloud turns into liquid and spreads apart and then slowly begins freezing. A rock, now cloud, begins to touch the liquid. And then that flashes… away. And you can hear the… still the sounds of the all-clear checks as she's patrolling the perimeter. And then you see another flash, just like a… very chaotic, random pattern of lights, and then the spell ends.",
+        "",
+        "%% u2206:0-37 %%",
+        "Delwath: She was the one doing the patrolling.",
+        "",
+        "%% u2207:0-25, u2208:0-45 %%",
+        "DM: She was patrolling, yeah. Well, there was obviously hobgoblins outside.",
+        "",
+        "%% u2209:0-4 %%",
+        "Delwath: Yay!",
+        "",
+        "%% u2210:0-56 %%",
+        "DM: She was, like, doing a circuit around the ash perimeter.",
+        "",
+        "%% u2211:0-83 %%",
+        "Delwath: And the ash perimeter was… fully obscure, right? Like, you couldn't see through it.",
+        "",
+        "%% u2212:0-31 %%",
+        "DM: Yeah, you can't see through it.",
+        "",
+        "%% u2213:0-49, u2214:0-13, u2215:0-91, u2216:0-56, u2217:0-9, u2218:0-32, u2219:0-41, u2220:0-166, u2221:0-5, u2222:0-87, u2223:0-32, u2224:0-57, u2225:0-29 %%",
+        "((Hypothetical spell attacks))",
+        "",
+        "%% u2226:0-6, u2227:0-29, u2228:0-2 %%",
+        "DM: Right. Okay, so as the scrying ends…",
+        "",
+        "%% u2229:0-4 %%",
+        "Delwath: Yep.",
+        "",
+        "%% u2230:0-29 %%",
+        "DM: She's obviously not sleeping.",
+        "",
+        "%% u2231:0-14 %%",
+        "Delwath: Yeah. So… Yes.",
+        "",
+        "%% u2232:0-24 %%",
+        "DM: Probably not worthwhile.",
+        "",
+        "%% u2233:0-9 %%",
+        "Delwath: Yes, yes."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah.",
+          "Delwath: Right? Like…",
+          "DM: So, so just, just metagame. Basically, your idea is… starting tomorrow, run harassment, much as you can, for as long as you can. Yeah. See what happens.",
+          "Delwath: Yes, I think that's right. Does that sound right? Sounds right to me.",
+          "DM: Okay, so… Unless there's anything else you wanna… discuss."
+        ],
+        "after": [
+          "DM: … The afternoon passes with messages being sent. Delwath sort of turns into the command center with lynxes running out. They also have ravens, you know, they have pigeons that are gonna distribute messages as well, but, anything… that the lynx can do will happen faster, and so there’s a lot of messages going about repositioning, about… you know, pulling forces into the, central… part of the plateau, a battle plan begins to be drawn up. Troop movements are planned for. This ends up taking… you know… a good part of the afternoon, as sort of logistics, and, you know, because the lynx, it’ll go an hour, then it comes back, and then it has to go out for another message, so… so just, you know, it’s not instantaneous, right?",
+          "Delwath: Yeah, yeah.",
+          "DM: Completely speeds up the whole process. And… by, you know, dinner time… you know, news has spread… through the… through Three Wells, everything that’s happening.",
+          "DM: And… at this point, you know, you have a quiet minute. I think… maybe I'll just wait, like, a couple minutes for Schwartz.",
+          "Delwath: Yeah. And we…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Marcella catches up at night",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e048",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e041",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e044",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e045",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e046",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e047",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e049",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e050",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e051",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e037",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e043",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2500",
+        "endUid": "u2620"
+      },
+      "lines": [
+        "%% u2500:0-99, u2501:0-38, u2502:0-63, u2503:0-50, u2504:0-38, u2505:0-86, u2506:0-98, u2507:0-59 %%",
+        "DM: She looks… first thing she said, like, as you sit, she’s… I mean, she’s super grateful, she’s like… “It was a… it was… it was just a guess. Maybe you’d get my message, and maybe you’d come, and… I can’t… I am… I don’t know what’s gonna happen, but… I am… I’m deeply grateful that you are here. But, let’s… not talk of… the future now, I’d love to hear what’s happening in Chardon. Heard some rather crazy rumors about… Fausto and… the Academy falling apart, and… riots, and… and… how is Hektor, and how is Vola, and… how’s everybody doing?”",
+        "",
+        "%% u2508:0-25, u2509:0-13, u2510:0-24, u2511:0-59, u2512:0-27, u2513:0-6 %%",
+        "Kenzo: Fausto’s dead. Chardon… reorganizing. Emperor trying his best. Chalyte… hopefully soon, out of the hands of the oligarchs. Potential for some justice. 50-50.",
+        "",
+        "%% u2514:0-15, u2515:0-71, u2516:0-51 %%",
+        "Delwath: Your… duh, duh… those have… those of your friends who had been caught in the… magic of… Fausto’s corruption have all been released from it.",
+        "",
+        "%% u2517:0-20 %%",
+        "DM: That's good to hear.",
+        "",
+        "%% u2518:0-18, u2519:0-67, u2520:0-37 %%",
+        "Delwath: Hektor is with us. … He should be here soon, as we said, he's traveling with our ship. Vola… wished to… escape bad memories.",
+        "",
+        "%% u2521:0-106, u2522:0-64, u2523:0-9, u2524:0-23, u2525:0-23, u2526:0-19 %%",
+        "DM: We left her… where did we leave her? Tokra? Did we leave her in Tokra? I can't remember where we left her. She… left Chardon to go towards Apporia, and see what she found. It seems… well… I can’t complain. And… Kadmos and Casian? Brought to justice?",
+        "",
+        "%% u2527:0-4, u2528:0-15, u2529:0-13, u2530:0-40, u2531:0-13, u2532:0-17, u2533:0-16 %%",
+        "Delwath: Yes. They are… gone. They did not… unlike… many, they were… true believers. They did not… seek or wish for… a second chance.",
+        "",
+        "%% u2534:0-3, u2535:0-53, u2536:0-53, u2537:0-60, u2538:0-21, u2539:0-44, u2540:0-43, u2541:0-22, u2542:0-23 %%",
+        "DM: Oh. I know, Kadmos's mask came off there towards the end. When we first met you, I was… certain I was gonna be… Well… nobody ever clearly explained what… consequences were. Said something about… “Do it, or… you won’t remember your failures, because you won’t even be yourself anymore.” It's a bad time. Yeah. But he’s… dead, I hope?",
+        "",
+        "%% u2543:0-4 %%",
+        "Delwath: Yes.",
+        "",
+        "%% u2544:0-18, u2545:0-25, u2546:0-74 %%",
+        "DM: She kind of sighs. “I’m glad to hear there’s… some chance of justice in that city, I… I don’t think I’m ever going back.”",
+        "",
+        "%% u2547:0-15 %%",
+        "Kenzo: Give it a year.",
+        "",
+        "%% u2548:0-31 %%",
+        "Wellby: How has life been for you here?",
+        "",
+        "%% u2549:0-15, u2550:0-55, u2551:0-58, u2552:0-13, u2553:0-75, u2554:0-39, u2555:0-93, u2556:0-23, u2557:0-51, u2558:0-49 %%",
+        "DM: It's been good. The people here, it’s not… it’s a small community, and… pretty… insular in some ways, but… they’re very welcoming… of those who… wish to join, anyway. Come not trying to make waves, but… learn their ways. And the Rangers… you know, I joined up. And… trying to put my skills to some better use than… in the service of… Kadmos, out of fear. Trying to do something… out of… I don’t know if joy is the right word, but… well, it’s nice when… people are grateful, right?",
+        "",
+        "%% u2559:0-39, u2560:0-21, u2561:0-12, u2562:0-40, u2563:0-39, u2564:0-31, u2565:0-31, u2566:0-33 %%",
+        "DM: So, I've been in the Plaguelands a bit. Fought some monsters. Survived it. Nothing like what you've done, I'm sure. Traveled with… a few interesting folks. Not many halflings, but… Daisy. She's got an interesting story. Should ask her about it sometime.",
+        "",
+        "%% u2567:0-12 %%",
+        "Wellby: There we go.",
+        "",
+        "%% u2568:0-48, u2569:0-32, u2570:0-45, u2571:0-34 %%",
+        "DM: She's quite eager for revenge on the Hobgoblins. It’s been… yeah, it’s been good. So… home I never thought I’d find when I was… just doing everything out of fear.",
+        "",
+        "%% u2572:0-14, u2573:0-55 %%",
+        "DM: How about you? You seem like… you’ve made quite a name for yourselves.",
+        "",
+        "%% u2574:0-28, u2575:0-24, u2576:0-80 %%",
+        "Wellby: We've got up to some things. Saw a lot of new places. Seemed for a minute there like it was quieting back down again, but … Maybe not.",
+        "",
+        "%% u2577:0-32, u2578:0-37, u2579:0-53, u2580:0-26, u2581:0-45, u2582:0-24 %%",
+        "DM: Yeah, I don't know, this… never… heard of anything like this, I guess… since the War of the Ashen Horde, maybe 30 years ago. But… we'll get through it. When did you get a flying castle, by the way? I’m excited to see that.",
+        "",
+        "%% u2583:0-23, u2584:0-21, u2585:0-55 %%",
+        "Delwath: It was… not long after… we left you, I think. After, after we… after we left Chardon, the first time.",
+        "",
+        "%% u2586:0-48, u2587:0-75, u2588:0-79, u2589:0-54 %%",
+        "DM: “Wellby, I… I’m sure that you have… many powerful… magic now,” and she looks down at her boots, “these… boots are of… I hope no… big loss to you. They, I must say, have acquired some sentimental value for me. But I… I will offer them back, if you would like them.”",
+        "",
+        "%% u2590:0-55, u2591:0-43 %%",
+        "Wellby: Yeah, trade you back, at least… at least for this week, these boots… are not too slow themselves.",
+        "",
+        "%% u2592:0-4, u2593:0-43 %%",
+        "DM: Hmm. Wait, where did you get the Boots of Speed?",
+        "",
+        "%% u2594:0-50 %%",
+        "Wellby: I don't- wait, are those hers? I thought she'd, …",
+        "",
+        "%% u2595:0-115 %%",
+        "DM: No, you let her keep all her magic items. They might have been Hektor's, the Boots of Speed were Hektor's, I think.",
+        "",
+        "%% u2596:0-29 %%",
+        "Wellby: Does she have boots of haste?",
+        "",
+        "%% u2597:0-61 %%",
+        "DM: She did not have any… you gave her the Boots of False Tracks.",
+        "",
+        "%% u2598:0-27 %%",
+        "Wellby: False Tracks, that’s right.",
+        "",
+        "%% u2599:0-97, u2600:0-34 %%",
+        "DM: But they were Agata's, you gave them to her, and she used them… that was part of how she escaped. By pretending to be kobold tracks.",
+        "",
+        "%% u2601:0-71, u2602:0-50 %%",
+        "Wellby: I’ll tell her, “No, no, no, keep, keep them, keep them. Those are yours. I leave fewer and fewer tracks anyways these days.”",
+        "",
+        "%% u2603:0-10, u2604:0-4, u2605:0-37, u2606:0-28, u2607:0-32, u2608:0-64, u2609:0-57, u2610:0-92, u2611:0-21, u2612:0-43, u2613:0-37 %%",
+        "DM: Thank you. Wow. Feel like it’s gonna be a busy… week. I think I will turn in soon. Happy to… catch up anytime, and… certainly let me know when Hektor gets here, I’m sure I will be… I'm sure I'll be very busy, and… leading a band or two of rangers in the fight, and… at some point, we’ll have to talk tactics and see what we can do… to help you the most. For tonight, let's just get some rest, and… there will be battles in the morning.",
+        "",
+        "%% u2614:0-5 %%",
+        "DM: Yeah?",
+        "",
+        "%% u2615:0-5 %%",
+        "Delwath: Yeah?",
+        "",
+        "%% u2616:0-69, u2617:0-44, u2618:0-51, u2619:0-49, u2620:0-16 %%",
+        "DM: Kind of… gives you a nod, like… raises her… water, glass, and… toast. Leaves you to your rest as she walks off to… catch up with… she seems to know a bunch of people… camps, and she walks off to catch up with people. We'll end there."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Between 7th and 8th. But Seeker would have to use his wish every day.",
+          "DM: They're all Wish, they all require Seeker's 9th level slot, because nobody knows any of those spells.",
+          "Delwath: Correct.",
+          "Kenzo: Cool, let's do it. I like it.",
+          "DM: Okay, so… you spend the afternoon plotting and planning. And before we wrap for tonight, let's take 10 minutes or so to… include the conversation with Marcella. As you settle in… to camp this night, after having made plans and sent a lot of messages, and have a strategy for the next day, settle down just to catch up a little bit."
+        ],
+        "after": [
+          "DM: As you drift off for the night, and we’ll pick up again… on… when’s our next session?",
+          "Delwath: Don't know.",
+          "DM: September 11th.",
+          "Delwath: I was gonna say, it's not for a while, it's after Burning Man.",
+          "DM: After Burning Man."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

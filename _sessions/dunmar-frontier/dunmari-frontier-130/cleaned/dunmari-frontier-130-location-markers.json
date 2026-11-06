@@ -1,0 +1,338 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-130",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-130/cleaned/dunmari-frontier-130-session.yaml",
+    "sessionYamlSha256": "97edff73efbf4c346c1c286a0744e07fc6047c1dee656d1094c49a1b539e0b26",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-130/cleaned/dunmari-frontier-130-transcript.md",
+    "transcriptSha256": "4d36e7c23579f9991e3c8ec7501b1debe2548ff07a5e3070e1c7648fed254938"
+  },
+  "places": {
+    "p01": {
+      "label": "Pine-grove hillock",
+      "kind": "hillock",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0015",
+              "quote": "a small… hillock of dry land in the marshes of the upper… Aursen River."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0015",
+          "quote": "a small… hillock of dry land in the marshes of the upper… Aursen River."
+        },
+        {
+          "startUid": "u0267",
+          "endUid": "u0271",
+          "quote": "small hill, where there’s, like, a grove of pine trees growing on the hill"
+        }
+      ]
+    },
+    "p02": {
+      "label": "Marshes of the upper Aursen River",
+      "kind": "wetlands",
+      "vaultPath": "Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Aursen Marshes.md",
+      "note": "Verified as the Aursen Marshes from the upper-river wetland setting and Leizar’s matching vault identity. The Aursen Marshes note places the basin by the Aurbez Plateau escarpment; that vault orientation is not an additional transcript containment claim.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0015",
+          "quote": "in the marshes of the upper… Aursen River."
+        }
+      ]
+    },
+    "p03": {
+      "label": "Three Wells",
+      "kind": "fortified meeting camp",
+      "vaultPath": "Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Three Wells.md",
+      "note": "The Three Wells vault note places this meeting camp on the Aurbez Plateau in the Refounded Alliance. The transcript directly establishes the tributary valley, wells, watchtower and council camp.",
+      "evidence": [
+        {
+          "startUid": "u0626",
+          "endUid": "u0639",
+          "quote": "Three Wells itself is on a small stream that feeds into the river."
+        },
+        {
+          "startUid": "u0640",
+          "endUid": "u0647",
+          "quote": "at the heart of the valley, there's 3 stone wells"
+        }
+      ]
+    },
+    "p04": {
+      "label": "Council tent",
+      "kind": "tent",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0640",
+              "endUid": "u0647",
+              "quote": "just beyond, set slightly beyond the, the… cluster of wells, there’s a larger tent"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0640",
+          "endUid": "u0647",
+          "quote": "there’s a larger tent… a… like, like an officer’s tent"
+        },
+        {
+          "startUid": "u0750",
+          "endUid": "u0757",
+          "quote": "you step into a room. There's a table with a big map"
+        }
+      ]
+    },
+    "p05": {
+      "label": "Iron Fang camp beneath the ash cloud",
+      "kind": "army camp",
+      "note": "Seen remotely by Delwath; the session does not establish a party visit or a new measured map position.",
+      "evidence": [
+        {
+          "startUid": "u2155",
+          "endUid": "u2163",
+          "quote": "you… see… the camp."
+        },
+        {
+          "startUid": "u2155",
+          "endUid": "u2163",
+          "quote": "all of the hobgoblins are off the beast now."
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0015"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The four PCs and Seeker IV stand in the pine-grove hillock with Szoltár; Leizar and the caregiver later approach this same ongoing position.",
+      "place": "p01",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0015",
+          "quote": "the four of you, plus simulacrum Seeker"
+        },
+        {
+          "startUid": "u0267",
+          "endUid": "u0271",
+          "quote": "that’s where you’re standing now."
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0618",
+        "endUid": "u0651"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker",
+        "Seeker IV"
+      ],
+      "reading": "The five turn into eagles and fly up the Aursen and its tributary to Three Wells, landing near the large council tent.",
+      "from": "p01",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "fly as eagles",
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated couple of hours of flight."
+      },
+      "route": [
+        {
+          "reading": "Follow the river upriver, then its small tributary up the valley."
+        },
+        {
+          "reading": "Refugee huts and nearby tents are seen from the air; no landing there is established."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0618",
+          "endUid": "u0625",
+          "quote": "you turn into birds and you… launch into the sky."
+        },
+        {
+          "startUid": "u0626",
+          "endUid": "u0639",
+          "quote": "you follow the stream, up a valley to a camp."
+        },
+        {
+          "startUid": "u0694",
+          "endUid": "u0696",
+          "quote": "We land in front of the tent and change into people, yeah."
+        },
+        {
+          "startUid": "u0697",
+          "endUid": "u0702",
+          "quote": "you land, you shift back into people."
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0704",
+        "endUid": "u0757"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker",
+        "Seeker IV",
+        "Marcella"
+      ],
+      "reading": "Marcella meets the five and leads them into the council tent at Three Wells.",
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk",
+      "evidence": [
+        {
+          "startUid": "u0710",
+          "endUid": "u0714",
+          "quote": "Come, I… I’ve already… told them"
+        },
+        {
+          "startUid": "u0750",
+          "endUid": "u0757",
+          "quote": "the flaps of the tent aside, and you step into a room."
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u2009",
+        "endUid": "u2033"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After the private interrogation, the PCs go among the crowd at Three Wells and pull Perrin and Guilhem aside to report the prisoner’s thoughts.",
+      "from": "p04",
+      "to": "p03",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u2009",
+          "endUid": "u2011",
+          "quote": "let’s report back."
+        },
+        {
+          "startUid": "u2026",
+          "endUid": "u2033",
+          "quote": "crowds kind of milling about as you go talk"
+        },
+        {
+          "startUid": "u2026",
+          "endUid": "u2033",
+          "quote": "you pull them aside"
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u2155",
+        "endUid": "u2212"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath scries the resting Iron Fang camp and the Empress patrolling its perimeter. She blinds the sensor; strange transforming-landscape flashes follow.",
+      "place": "p05",
+      "mode": "remote",
+      "observerPlace": "p03",
+      "observedActors": [
+        "Empress of Chaos"
+      ],
+      "note": "The flashes do not establish travel to Limbo or a verified identity for the viewed landscape.",
+      "evidence": [
+        {
+          "startUid": "u2155",
+          "endUid": "u2163",
+          "quote": "you… see… the camp."
+        },
+        {
+          "startUid": "u2164",
+          "endUid": "u2167",
+          "quote": "The Empress herself… is… standing, pacing around"
+        },
+        {
+          "startUid": "u2178",
+          "endUid": "u2188",
+          "quote": "wraps itself around the eye"
+        },
+        {
+          "startUid": "u2189",
+          "endUid": "u2205",
+          "quote": "what looks like… a rock, a giant rock, floating in a mist"
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "presence",
+      "source": {
+        "startUid": "u2495",
+        "endUid": "u2499"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party settles at the Three Wells camp for the night and talk with Marcella.",
+      "place": "p03",
+      "note": "The location continues from the afternoon camp; the source does not specify a separate sleeping tent.",
+      "evidence": [
+        {
+          "startUid": "u2245",
+          "endUid": "u2248",
+          "quote": "through the… through Three Wells"
+        },
+        {
+          "startUid": "u2495",
+          "endUid": "u2499",
+          "quote": "As you settle in… to camp this night"
+        },
+        {
+          "startUid": "u2500",
+          "endUid": "u2507",
+          "quote": "as you sit"
+        }
+      ]
+    }
+  ]
+}

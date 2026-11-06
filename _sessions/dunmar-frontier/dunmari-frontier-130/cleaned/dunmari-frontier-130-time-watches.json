@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-130/cleaned/dunmari-frontier-130-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-130/cleaned/dunmari-frontier-130-time-markers.json",
+    "sha256": "03d9069b4f4e7e9f3c644623e1d794a61b5259769bdf641a352883a10771464c"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-130/cleaned/dunmari-frontier-130-transcript.md",
+    "sha256": "4d36e7c23579f9991e3c8ec7501b1debe2548ff07a5e3070e1c7648fed254938"
+  },
+  "dateAssessment": "The working calendar uses YAML’s year 1749 and the spoken August 7 morning anchor (t01, u0200–u0203). All played activity fits August 7: the party reaches Three Wells about 11:30, Delwath rests and scries around midday, messages occupy the afternoon, and the party settles for the night. YAML assessment: matched, zero date boundaries. The remembered 2 a.m. conversation is prior-session context; forecasts, the joking sunset during Kenzo’s oath and the proposed raids establish no additional elapsed play. The ten-minute scry includes t07’s two-to-three-minute advance; count that interval once. Closing sleep has begun, with no completed long rest or waking. Dinner and the contiguous night conversation are shown as an inferred dusk watch; an exact bedtime is not established.",
+  "watches": [
+    {
+      "day": "August 7, 1749",
+      "startDate": "1749-08-07",
+      "endDate": "1749-08-07",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "August 7 morning explicitly anchors the resumed hillock interrogation.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "August 7, 1749",
+      "startDate": "1749-08-07",
+      "endDate": "1749-08-07",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Two-hour flight ends about 11:30; interrogation, one-hour short rest and ten-minute scry follow around midday.",
+      "markers": [
+        "t02",
+        "t03",
+        "t04",
+        "t05",
+        "t06",
+        "t07"
+      ]
+    },
+    {
+      "day": "August 7, 1749",
+      "startDate": "1749-08-07",
+      "endDate": "1749-08-07",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "A good part of the afternoon passes sending messages and organizing troop movements.",
+      "markers": [
+        "t08"
+      ]
+    },
+    {
+      "day": "August 7, 1749",
+      "startDate": "1749-08-07",
+      "endDate": "1749-08-07",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Dinner is followed by night-camp conversation; the party then drifts off, with the overnight rest incomplete.",
+      "markers": [
+        "t09",
+        "t10",
+        "t11"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Szoltár date record",
+      "path": "People/Other Nonhumans/Szoltar.md",
+      "sha256": "b86762a2f6874a8481e37cfb50f4beb5435a6c328e03ed82ad53440900a0231d"
+    },
+    {
+      "label": "Empress date record",
+      "path": "People/Other Nonhumans/Empress of Chaos.md",
+      "sha256": "aefbc4163b6acfc3862e0cdffcb441c8f573bcd1aba62b58f23ce90b211447df"
+    },
+    {
+      "label": "Alliance historical sequence",
+      "path": "Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Refounded Alliance of Aurbez.md",
+      "sha256": "150311e32c57fe5f63215e1d270b22011e7a0e932586eba005d42906c686f55d"
+    },
+    {
+      "label": "Martin identity",
+      "path": "People/Aurbeze/Martin Strongbow.md",
+      "sha256": "9a78039697124d641250da451dd35fa4a70c5f08daf6e30ade72e7074cbe7221"
+    },
+    {
+      "label": "Daisy identity",
+      "path": "People/Halflings/Daisy Lightfoot.md",
+      "sha256": "58b3183f361f9dae11ff2e5dcbae8909a811d2c11500eb2af1618ce223da80df"
+    }
+  ]
+}
