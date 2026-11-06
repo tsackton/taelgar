@@ -1,0 +1,422 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-064",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-session.yaml",
+    "sessionYamlSha256": "c9984e81f354ffc4c8201415cebcd4960327c07bbc6887bcd706a61707fff621",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-transcript.md",
+    "transcriptSha256": "ec151cf1f650aec55dc7f148ee0d0a560003aa922e0646c635293ae8148929bb",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-segments.json",
+      "sha256": "63687035bd366887c1a8529f1ab03b67adc471dfcc2d17e9f281b203f016f221",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s007",
+      "encounter": "Vortex and grasping water",
+      "note": "No initiative roll is made; four recorded cycles follow Kenzo, Enari and Izzarak. The final cycle records only Kenzo’s exit.",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Runs and jumps about one-third of the way around the vortex.",
+              "evidence": [
+                {
+                  "startUid": "u1121",
+                  "endUid": "u1127"
+                }
+              ]
+            },
+            {
+              "actor": "Enari",
+              "kind": "turn",
+              "summary": "Swims about one-third of the way around without trouble.",
+              "evidence": [
+                {
+                  "startUid": "u1121",
+                  "endUid": "u1127"
+                }
+              ]
+            },
+            {
+              "actor": "Izzarak",
+              "kind": "turn",
+              "summary": "Tries to swim a wider radius but makes no progress; the constricting current pulls him closer and deals 11 bludgeoning damage.",
+              "evidence": [
+                {
+                  "startUid": "u1128",
+                  "endUid": "u1139"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Reaches about two-thirds of the way around, then slips prone and begins being pulled under.",
+              "evidence": [
+                {
+                  "startUid": "u1140",
+                  "endUid": "u1159"
+                }
+              ]
+            },
+            {
+              "actor": "Enari",
+              "kind": "turn",
+              "summary": "Swims after Kenzo, catches his leg and holds him against the current, preventing further dragging.",
+              "evidence": [
+                {
+                  "startUid": "u1146",
+                  "endUid": "u1159"
+                }
+              ]
+            },
+            {
+              "actor": "Izzarak",
+              "kind": "turn",
+              "summary": "Uses Wild Shape to become a large salmon, incorporating both babies; swims about one-third of the way around, behind the other two.",
+              "evidence": [
+                {
+                  "startUid": "u1161",
+                  "endUid": "u1182"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "With an Acrobatics result of 20 and Enari’s boost, gets moving away from the vortex again; grasping water deals 10 bludgeoning damage.",
+              "evidence": [
+                {
+                  "startUid": "u1183",
+                  "endUid": "u1198"
+                }
+              ]
+            },
+            {
+              "actor": "Enari",
+              "kind": "event",
+              "summary": "Boosts Kenzo up out of the water to help him resume moving.",
+              "evidence": [
+                {
+                  "startUid": "u1192",
+                  "endUid": "u1196"
+                }
+              ]
+            },
+            {
+              "actor": "Enari",
+              "kind": "turn",
+              "summary": "Continues swimming but is caught by the current and tentacles, taking 6 damage and being pulled toward the vortex; the damage type is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u1199",
+                  "endUid": "u1204"
+                }
+              ]
+            },
+            {
+              "actor": "Izzarak",
+              "kind": "turn",
+              "summary": "Continues swimming and reaches dry land beyond the wall of mist with the babies still incorporated in his salmon form.",
+              "evidence": [
+                {
+                  "startUid": "u1171",
+                  "endUid": "u1182"
+                },
+                {
+                  "startUid": "u1205",
+                  "endUid": "u1213"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Continues running with an Acrobatics result of 26, crosses the mist and reaches dry land.",
+              "evidence": [
+                {
+                  "startUid": "u1217",
+                  "endUid": "u1231"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Izzarak and Kenzo reach the dry, mist-covered side of the vortex. Enari’s final crossing is not narrated here; his last recorded attempt is still in the current. Later play places him with them at Motua.",
+        "evidence": [
+          {
+            "startUid": "u1208",
+            "endUid": "u1213"
+          },
+          {
+            "startUid": "u1220",
+            "endUid": "u1231"
+          },
+          {
+            "startUid": "u1199",
+            "endUid": "u1204"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s009",
+      "encounter": "Healing Motua while the severed chains attack",
+      "note": "The first wound was healed immediately before the ordered fight. Kenzo’s subsequent dream scenes and Izzarak’s defenses stay within this single encounter; Enari’s shadow fight is resolved in broad narration.",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Three severed chains",
+              "kind": "turn",
+              "summary": "Burst from the first healed wound and attack Izzarak; all three miss his AC 18. Kenzo emerges from that dream.",
+              "evidence": [
+                {
+                  "startUid": "u1500",
+                  "endUid": "u1514"
+                }
+              ]
+            },
+            {
+              "actor": "Enari",
+              "kind": "event",
+              "summary": "Holds off shadows emerging from the ground while the chains reach for Izzarak or the babies, telling the others to deal with Motua.",
+              "evidence": [
+                {
+                  "startUid": "u1521",
+                  "endUid": "u1527"
+                }
+              ]
+            },
+            {
+              "actor": "Izzarak",
+              "kind": "turn",
+              "summary": "Casts Wrath of Nature in a 60-foot cube. A rock attack made with disadvantage in melee hits on 15, deals 18 bludgeoning damage and destroys one chain; its backlash deals him 8 psychic damage. The other two fail Strength saves (15 and 11), becoming restrained with disadvantage on attacks, but Izzarak then fails his Constitution concentration save on 9; the spell and restraints end.",
+              "evidence": [
+                {
+                  "startUid": "u1573",
+                  "endUid": "u1607"
+                },
+                {
+                  "startUid": "u1728",
+                  "endUid": "u1737"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Enters the second wound, taking 16 necrotic damage. Offers to record a dying traveler’s final message to her family and carves it on his staff. A Wisdom check is made with advantage, its result garbled; Motua emerges through her image and reveals how the scroll empowered the ring and glaive. The wound closes and three more chains emerge.",
+              "evidence": [
+                {
+                  "startUid": "u1629",
+                  "endUid": "u1703"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Five severed chains",
+              "kind": "turn",
+              "summary": "The three newly released chains join the two remaining; all five attack Izzarak and miss.",
+              "evidence": [
+                {
+                  "startUid": "u1700",
+                  "endUid": "u1703"
+                }
+              ]
+            },
+            {
+              "actor": "Izzarak",
+              "kind": "turn",
+              "summary": "Uses his bonus action for Starry Form of the Dragon (duration corrected to ten minutes), then recasts Wrath of Nature. Four chains are restrained by roots and vines; one avoids restraint. The dragon form provides a minimum concentration roll of 10, as later applied to the separate backlash hits.",
+              "evidence": [
+                {
+                  "startUid": "u1709",
+                  "endUid": "u1737"
+                },
+                {
+                  "startUid": "u1810",
+                  "endUid": "u1817"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Enters the third wound, taking 13 necrotic damage. Finds a holy warrior protecting escaping people and fearing damnation. Offers to preserve his story and joins his fight; the Wisdom check without advantage is low, the monsters deal Kenzo 6 psychic damage, and the warrior still wants to flee.",
+              "evidence": [
+                {
+                  "startUid": "u1739",
+                  "endUid": "u1803"
+                }
+              ],
+              "note": "The low check is described as both five and six; no single final total is settled."
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Izzarak’s Wrath of Nature",
+              "kind": "event",
+              "summary": "The whipping branches force Dexterity saves: one chain succeeds and four fail against 4d6 slashing damage. Those four chains burst, causing Izzarak 34 psychic damage in separate hits (later itemized as 9, 5, 10 and 10). Dragon form automatically preserves concentration on each hit.",
+              "evidence": [
+                {
+                  "startUid": "u1789",
+                  "endUid": "u1817"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining severed chain",
+              "kind": "turn",
+              "summary": "The unrestrained surviving chain attacks Izzarak and misses.",
+              "evidence": [
+                {
+                  "startUid": "u1819",
+                  "endUid": "u1822"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Merges his strength and spirit into the frightened paladin. A Wisdom check with advantage produces 10 and 8; Kenzo loses 2 necrotic hit points and feels drained, but the warrior is bolstered. Kenzo sees his orphaned youth, theft without murder, and search for forgiveness at the Wildling’s temple, continuing to record the story.",
+              "evidence": [
+                {
+                  "startUid": "u1824",
+                  "endUid": "u1902"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Izzarak’s Wrath of Nature",
+              "kind": "event",
+              "summary": "The remaining detached chain fails its Dexterity save against 4d6 slashing damage and dies; the backlash deals Izzarak 7 psychic damage.",
+              "evidence": [
+                {
+                  "startUid": "u1903",
+                  "endUid": "u1911"
+                }
+              ]
+            },
+            {
+              "actor": "Motua and Enari",
+              "kind": "event",
+              "summary": "The first two wounds are closed; Motua calms, tail-thrashing slows and no further shadows emerge. Enari is still fighting two remaining shadows. Three chains remain attached to the final wound.",
+              "evidence": [
+                {
+                  "startUid": "u1912",
+                  "endUid": "u1924"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Explains his own orphaned, abused childhood and tells the paladin that redemption is before him. The warrior regains hope and returns to protect the fleeing people; no further roll is required, and the last wound closes. The vision becomes Motua’s battle with Grash: the burning glaive wounds and binds Motua, while the ring harvests souls through the planar marks.",
+              "evidence": [
+                {
+                  "startUid": "u1925",
+                  "endUid": "u1978"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Three final severed chains",
+              "kind": "turn",
+              "summary": "Kenzo emerges beside Izzarak. One chain hits Kenzo for 7 damage, leaving him conscious at 1 hit point instead of unconscious; it wraps around his soul and imposes disadvantage on death saves until removed.",
+              "evidence": [
+                {
+                  "startUid": "u1983",
+                  "endUid": "u1999"
+                }
+              ]
+            },
+            {
+              "actor": "Izzarak’s Wrath of Nature",
+              "kind": "event",
+              "summary": "The trees promptly destroy the other two chains. No damage roll or final backlash amount is stated.",
+              "evidence": [
+                {
+                  "startUid": "u2002",
+                  "endUid": "u2006"
+                }
+              ]
+            },
+            {
+              "actor": "Motua",
+              "kind": "event",
+              "summary": "Slithers forward, bows their head and thanks the party as calm spreads across the realm.",
+              "evidence": [
+                {
+                  "startUid": "u2007",
+                  "endUid": "u2015"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All three wounds are healed and Motua is calm. Eight chains have been destroyed and one remains bound to Kenzo’s soul; he is conscious at 1 hit point with disadvantage on death saves. No final fate is separately narrated for Enari’s two remaining shadows.",
+        "evidence": [
+          {
+            "startUid": "u1954",
+            "endUid": "u1954"
+          },
+          {
+            "startUid": "u1996",
+            "endUid": "u1999"
+          },
+          {
+            "startUid": "u2002",
+            "endUid": "u2015"
+          }
+        ]
+      }
+    }
+  ]
+}

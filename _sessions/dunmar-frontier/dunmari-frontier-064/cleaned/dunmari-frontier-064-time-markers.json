@@ -1,0 +1,329 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-064",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-session.yaml",
+    "sessionYamlSha256": "c9984e81f354ffc4c8201415cebcd4960327c07bbc6887bcd706a61707fff621",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-transcript.md",
+    "transcriptSha256": "ec151cf1f650aec55dc7f148ee0d0a560003aa922e0646c635293ae8148929bb",
+    "yamlDates": {
+      "start": "1748-11-06",
+      "end": "1748-11-13"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0196",
+        "endUid": "u0197"
+      },
+      "reading": "Kenzo and Enari take the short rest after the lava crossing; Izzarak scouts during that resting interval.",
+      "evidence": [
+        {
+          "startUid": "u0196",
+          "endUid": "u0197",
+          "quote": "And yeah, if you want to take a short rest, go ahead. Enari is going to roll a few hit dice."
+        },
+        {
+          "startUid": "u0207",
+          "endUid": "u0211",
+          "quote": "So while this is happening, the pteranodon, technically I will circle up above the I will leave in the care of the others temporarily, and circle up above the trees briefly."
+        },
+        {
+          "startUid": "u0218",
+          "endUid": "u0218",
+          "quote": "So while you're resting, you hear in your mind, Kenzo, I'm having the time of my life on the edge of the endless sea. There's islands that move and kenku are rad as hell and evil sharks. I miss you, man, How are things?"
+        },
+        {
+          "startUid": "u0388",
+          "endUid": "u0392",
+          "quote": "Uh, okay. So moving through the jungle itself is not that difficult. And you're you're able to be pretty uh pretty stealthy. Ah."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Enari"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Short-rest convention; the DM authorizes the rest, hit dice are spent, and subsequent play proceeds into the jungle."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0393",
+        "endUid": "u0398"
+      },
+      "reading": "The group travels from the far bank through the jungle to the flooded basin in about an hour.",
+      "evidence": [
+        {
+          "startUid": "u0393",
+          "endUid": "u0398",
+          "quote": "It takes a couple... An hour, maybe, to get to the edge of this lake the sort of flooded jungle, and you can see that the... So you're you're sort of coming down off the slope, off a gentle slope off the side of the volcano into what used to be um a basin like a a low point in the ground, and you and now it's now it's like you're looking at a at just an expanse of of water that starts quite shallow. But as you look out you can see there it gets deeper and deeper because the the tops of the trees get lower, and the water gets higher relative to the tops of the trees."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Izzarak",
+        "Enari",
+        "Crushu",
+        "Kaisa"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "The DM settles on an hour, maybe, in the actual arrival narration."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0644",
+        "endUid": "u0651"
+      },
+      "reading": "Kenzo spends a little time learning to perceive and follow the sensory trail that Tree provided.",
+      "evidence": [
+        {
+          "startUid": "u0644",
+          "endUid": "u0651",
+          "quote": "Uh? So you? It takes you a little bit of time to sort of get a sense of like even how to perceive this, that it's trying to communicate to you, and it seems to be so you sort of can follow. After a little while you can sort of follow, you know. You get a sense where you can sort of follow where this sensation is weaker, and where it's stronger, it seems to be running in towards the middle of the of the um, flooded jungle. You just follow it."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1400",
+        "endUid": "u1414"
+      },
+      "reading": "Narration shifts into the first dream wound with Kenzo, who encounters the forgotten warrior.",
+      "evidence": [
+        {
+          "startUid": "u1400",
+          "endUid": "u1402",
+          "quote": "So as you dive into the wound. Ah, um."
+        },
+        {
+          "startUid": "u1403",
+          "endUid": "u1414",
+          "quote": "The first one that you see is... So, First of all, you take ten points of necrotic damage, Kenzo, and you see a lonely warrior nondescript at the end of their life, forgotten, afraid of dying alone, and nobody caring, spitting old, their sword hanging uselessly by their side. And they, this warrior looks up at you and says, I am forgotten, aren't I? No one remembers."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "context": "vision",
+      "completion": "begun",
+      "note": "Izzarak proposes joining at u1396–u1398, but u1500–u1505 explicitly places him outside Motua; his entry is not established."
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1507",
+        "endUid": "u1514"
+      },
+      "reading": "The first wound closes and Kenzo emerges from its dream, returning the narration to the physical confrontation.",
+      "evidence": [
+        {
+          "startUid": "u1498",
+          "endUid": "u1499",
+          "quote": "And then you feel the wound begin to close. Ah."
+        },
+        {
+          "startUid": "u1507",
+          "endUid": "u1514",
+          "quote": "Oh, but none of them hit. Three chains writhing, crashing against you, severed from this wound that's now healed itself. Kenzo, um emerging like I guess you were just sort of meditating focused on this wound. Step out, Come back! Motua."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t04",
+          "anchor": "Completion of the first wound dream"
+        },
+        "precision": "exact",
+        "basis": "Explicit wound closure and emergence; no elapsed duration is given."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1629",
+        "endUid": "u1648"
+      },
+      "reading": "Kenzo enters the second dream wound and encounters the dying desert traveler.",
+      "evidence": [
+        {
+          "startUid": "u1629",
+          "endUid": "u1630",
+          "quote": "Next turn it's your turn now. Are you going into another wound?"
+        },
+        {
+          "startUid": "u1632",
+          "endUid": "u1648",
+          "quote": "So you take you, take sixteen points of necrotic damage as you dive into the next wound, and you see um a nondescript traveler in a vast, empty desert, lying lost um, clearly clearly dying of thirst, and seem to be trying to like, scratch out a like a letter or a note on a stone or on in the sand, or they're sort of obsessively trying to write um Traveler, she looks up as you as you turn and says in a croaking voice when you come towards me."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "context": "vision",
+      "completion": "begun"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1700",
+        "endUid": "u1703"
+      },
+      "reading": "The second wound releases its chains and narration returns to Izzarak outside Motua.",
+      "evidence": [
+        {
+          "startUid": "u1700",
+          "endUid": "u1703",
+          "quote": "And three more chains burst out of the wound. There are now five chains swarming towards, Izzarak. Ah, oh, man, and what is your ac is eighteen? Yeah, none of them hit you."
+        },
+        {
+          "startUid": "u1919",
+          "endUid": "u1924",
+          "quote": "the other two wounds, have been closed"
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Izzarak"
+      ],
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t06",
+          "anchor": "The second wound dream"
+        },
+        "precision": "approximate",
+        "basis": "The chains burst free; later narration confirms that both earlier wounds have closed."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1739",
+        "endUid": "u1748"
+      },
+      "reading": "Kenzo enters the third dream wound and finds a holy warrior protecting fleeing people.",
+      "evidence": [
+        {
+          "startUid": "u1739",
+          "endUid": "u1739",
+          "quote": "Back to healing again! Let's go into the last wound."
+        },
+        {
+          "startUid": "u1740",
+          "endUid": "u1748",
+          "quote": "And you see a holy warrior, a paladin, in a hopeless battle fighting against dozens of of monsters, of forms shifting. It's not clear. But, uh, you can. You can see behind them like they're like guarding a door. There's uh people fleeing people trying to get out, and they are standing and fighting, heavy armor like plate mail sword, and shield, like holy Avenger style. Um."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "context": "vision",
+      "completion": "begun"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1983",
+        "endUid": "u1986"
+      },
+      "reading": "After the third wound closes and Grash’s attack is shown, Kenzo falls back into the physical confrontation.",
+      "evidence": [
+        {
+          "startUid": "u1954",
+          "endUid": "u1954",
+          "quote": "The wound closes."
+        },
+        {
+          "startUid": "u1983",
+          "endUid": "u1986",
+          "quote": "And then you fall back. Three writhing chains now surrounding both Kenzo and Izzarak. I guess I shouldn't skip to have happy music yet."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t08",
+          "anchor": "Completion of the third wound dream and Motua’s remembered fight"
+        },
+        "precision": "exact",
+        "basis": "The DM explicitly closes the wound and narrates Kenzo falling back among the chains."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2225",
+        "endUid": "u2233"
+      },
+      "reading": "Days pass while Kenzo studies with Motua and Lengau; the jungle feels timeless, but the narration establishes elapsed days.",
+      "evidence": [
+        {
+          "startUid": "u2225",
+          "endUid": "u2233",
+          "quote": "So as as as the this adventure ends and you um have spent some time in this seeming somewhat timeless place. So days go by, and it, and time seems not to pass for you. Um."
+        },
+        {
+          "startUid": "u2234",
+          "endUid": "u2235",
+          "quote": "Enari returns to the lizardfolk village to report back on what's happened and tell them things are safe. Izzarak um establish... It begins to sort of figure out how he will help heal the land."
+        },
+        {
+          "startUid": "u2275",
+          "endUid": "u2277",
+          "quote": "I don't."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "duration": {
+        "text": "days",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Explicit narrated passage of days, without a count or ordinary clock anchor."
+      },
+      "completion": "completed",
+      "note": "Enari returns to the village and Izzarak begins helping heal the land during the closing montage. Kenzo then departs by magical transport; the transcript does not date that departure."
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No calendar date is spoken in session 064. November 6–13, 1748 is supplied by YAML. The same-actor lava-river continuation from session 059 establishes continuity, not an independently dated day.",
+    "expectedDateBoundaries": 7,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t10"
+    ],
+    "explanation": "The covered adventure resumes at the lava river, proceeds through a short rest and about one hour of travel, includes three dream-wound frames, and ends after days of training with Kenzo’s magical departure. The number of days is not stated, so seven calendar transitions cannot be independently recovered. The dreams and Grash’s attack a year earlier do not add adventure days. The last-light portal description states an operating condition, not the watch when Kenzo arrives. No spoken date contradicts YAML."
+  }
+}

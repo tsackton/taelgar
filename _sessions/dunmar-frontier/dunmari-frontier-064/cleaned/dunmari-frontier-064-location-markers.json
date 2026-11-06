@@ -1,0 +1,1107 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-064",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-session.yaml",
+    "sessionYamlSha256": "c9984e81f354ffc4c8201415cebcd4960327c07bbc6887bcd706a61707fff621",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-transcript.md",
+    "transcriptSha256": "ec151cf1f650aec55dc7f148ee0d0a560003aa922e0646c635293ae8148929bb"
+  },
+  "places": {
+    "p01": {
+      "label": "Lava river, near bank",
+      "kind": "riverbank",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0005",
+          "quote": "Okay. So we start at the river of lava, bubbling slowly as it flows through the lush jungle of the Azta Lekua, the footprint of the gods. You've come here to this place in hopes of finding the source of the elemental corruption that's spreading, seeping into the land, and once you find the source figuring out how to stop it."
+        },
+        {
+          "startUid": "u0026",
+          "endUid": "u0036",
+          "quote": "From Kenzo's communion with the jungle, you know that Motua is at the center of this place beyond the lava river, and no more than a day's journey west. So now it is just a matter of finding a way across the lava, which, while you can feel the heat rising from it, and whenever a branch, or a uh wood, or anything seems to fall into the lava, it immediately bursts into flame. The trees themselves along the shore do not seem to be catching fire, and the lava itself is not causing a forest fire or anything, and once you find your way across the lava, avoiding whatever dangers may still lurk in the disordered jungle, and then confronting Motua, killing them, or otherwise, uh driving them off, or convincing them to stop the destruction that they are causing."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0005",
+              "quote": "Okay. So we start at the river of lava, bubbling slowly as it flows through the lush jungle of the Azta Lekua, the footprint of the gods. You've come here to this place in hopes of finding the source of the elemental corruption that's spreading, seeping into the land, and once you find the source figuring out how to stop it."
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "Lava river, far-bank resting place",
+      "kind": "riverbank",
+      "evidence": [
+        {
+          "startUid": "u0186",
+          "endUid": "u0192",
+          "quote": "And Enari, he looks up. Yeah, I can ride that, if you don't mind. Steps onto your back, like grabs one of the babies, hands one to Kenzo. Kenzo just like you barely even have to run you just like, take a step, and you know, soar fifty feet in the air."
+        },
+        {
+          "startUid": "u0193",
+          "endUid": "u0195",
+          "quote": "And the the other two of you fly across um, landing on the other side without any issue."
+        },
+        {
+          "startUid": "u0196",
+          "endUid": "u0197",
+          "quote": "And yeah, if you want to take a short rest, go ahead. Enari is going to roll a few hit dice."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0005",
+              "quote": "Okay. So we start at the river of lava, bubbling slowly as it flows through the lush jungle of the Azta Lekua, the footprint of the gods. You've come here to this place in hopes of finding the source of the elemental corruption that's spreading, seeping into the land, and once you find the source figuring out how to stop it."
+            },
+            {
+              "startUid": "u0193",
+              "endUid": "u0195",
+              "quote": "And the the other two of you fly across um, landing on the other side without any issue."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Azta Lekua, the Footprint of the Gods",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0005",
+          "quote": "Okay. So we start at the river of lava, bubbling slowly as it flows through the lush jungle of the Azta Lekua, the footprint of the gods. You've come here to this place in hopes of finding the source of the elemental corruption that's spreading, seeping into the land, and once you find the source figuring out how to stop it."
+        },
+        {
+          "startUid": "u0460",
+          "endUid": "u0462",
+          "quote": "You you know it's. It's the the footprint of the gods describes this whole area. But this basin, this sort of central basin is clearly sort of the spiritual center of the place, but that's still some ways off."
+        }
+      ],
+      "note": "The transcript calls Orekatu the kingdom the group is in (u0044–u0045). The Azta Lekua vault note places the jungle just west of that border while its metadata puts it within Orekatu; no disputed realm containment is asserted here.",
+      "vaultPath": "Gazetteer/Faraway Places/Azta Lekua.md"
+    },
+    "p04": {
+      "label": "Edge of the flooded jungle",
+      "kind": "shore",
+      "evidence": [
+        {
+          "startUid": "u0393",
+          "endUid": "u0398",
+          "quote": "It takes a couple... An hour, maybe, to get to the edge of this lake the sort of flooded jungle, and you can see that the... So you're you're sort of coming down off the slope, off a gentle slope off the side of the volcano into what used to be um a basin like a a low point in the ground, and you and now it's now it's like you're looking at a at just an expanse of of water that starts quite shallow. But as you look out you can see there it gets deeper and deeper because the the tops of the trees get lower, and the water gets higher relative to the tops of the trees."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0393",
+              "endUid": "u0398",
+              "quote": "It takes a couple... An hour, maybe, to get to the edge of this lake the sort of flooded jungle, and you can see that the... So you're you're sort of coming down off the slope, off a gentle slope off the side of the volcano into what used to be um a basin like a a low point in the ground, and you and now it's now it's like you're looking at a at just an expanse of of water that starts quite shallow. But as you look out you can see there it gets deeper and deeper because the the tops of the trees get lower, and the water gets higher relative to the tops of the trees."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Flooded central basin",
+      "kind": "basin",
+      "evidence": [
+        {
+          "startUid": "u0233",
+          "endUid": "u0236",
+          "quote": "It's hard to judge from the air. I mean you sort of fly down, and you scout around a little bit. And um, it seems I mean there's trees that would normally be one hundred feet tall. The water comes halfway up right, so it's quite deep in places. It seems like there's like the land slopes down from the jungle into this sort of basin, and this whole basin has filled with water the footprint itself."
+        },
+        {
+          "startUid": "u0460",
+          "endUid": "u0462",
+          "quote": "You you know it's. It's the the footprint of the gods describes this whole area. But this basin, this sort of central basin is clearly sort of the spiritual center of the place, but that's still some ways off."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0460",
+              "endUid": "u0462",
+              "quote": "You you know it's. It's the the footprint of the gods describes this whole area. But this basin, this sort of central basin is clearly sort of the spiritual center of the place, but that's still some ways off."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Tree, the old emergent tree",
+      "kind": "tree",
+      "evidence": [
+        {
+          "startUid": "u0469",
+          "endUid": "u0474",
+          "quote": "Yeah, I mean, you pass a few that are, you mean, Yeah, there's definitely again. These emergent trees are fairly rare, right? But like every you know thousand feet or so you'll see one, and you you see one, you pass another, then the third one you come to after you've gone, maybe a little more than half a mile, you know, is really tall. Seems old like, Has all these vines drooping off of it like you can hear like almost like you can hear the sort of swaying of the upper branches that are, and that's sticking way above the water, because it's substantially taller than the canopy."
+        },
+        {
+          "startUid": "u0480",
+          "endUid": "u0483",
+          "quote": "And you see, Kenzo, you know again, like inside this I'm imagining this, you know. There, there's the basin, and then this massive tree, with these large, you know, rooted vines and stuff you know kind of from the bottom of the water like rolling up and Kenzo kind of hops onto one of these big like giant root structures. That's kind of coming up from the bottom of this this huge tree, you know, kind of pauses and looks up at the tree, and he gives a deep, deep bow to the tree."
+        },
+        {
+          "startUid": "u0508",
+          "endUid": "u0508",
+          "quote": "I am Tree."
+        }
+      ],
+      "note": "A physical tree and the speaking individual Tree share this location; the separate daughter-tree houses Eleuha.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0464",
+              "endUid": "u0474",
+              "quote": "Are there any of these like big ancient trees like in the basin that are just like ascending out from the basin?"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Eleuha’s nearly submerged tree",
+      "kind": "tree",
+      "evidence": [
+        {
+          "startUid": "u0694",
+          "endUid": "u0700",
+          "quote": "Kenzo, you see this. What you can sense is the source of this sensation. There is a tree that's you know. Maybe, uh the water comes up almost to the top of the tree."
+        },
+        {
+          "startUid": "u0730",
+          "endUid": "u0743",
+          "quote": "And you see kind of climbing out of the top of the branches. A a woman, a sort of vaguely tree-like woman."
+        },
+        {
+          "startUid": "u0754",
+          "endUid": "u0758",
+          "quote": "She's... She's clearly connected to this tree in some sort of deep way. Um like this tree is part of her, and she is part of the tree, and you can feel the sort of spiritual links between the tree and her. She looks at you again. Who are you? You are not from here."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0694",
+              "endUid": "u0700",
+              "quote": "Kenzo, you see this. What you can sense is the source of this sensation. There is a tree that's you know. Maybe, uh the water comes up almost to the top of the tree."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Vortex perimeter",
+      "kind": "hazard",
+      "evidence": [
+        {
+          "startUid": "u1088",
+          "endUid": "u1094",
+          "quote": "And it's it's now like you're trying to slow yourself down as you approach um, and you can start to see now the the um, so you can see like in the distance. There's like uh you know those um like a giant whirlpool, but basically um, but it's like if you've ever seen these those pictures of like ah lakes behind dams where there's a drain from the dam under the water, and it's just this like clear surface. Then there's just this, like. Ah, massive, whirl sort of like."
+        },
+        {
+          "startUid": "u1107",
+          "endUid": "u1110",
+          "quote": "Uh That's where the that's where the portal to the elemental plane of water is. Motua is on the other side of the por... The whirlpool. What's the like... There's like mists and fog on the other side of the whirlpool, like if you can somehow manage to get around it. There's like mist and fog on the other side."
+        }
+      ],
+      "note": "A whirlpool draining toward the Elemental Plane of Water. The group goes around it; crossing the surrounding mist does not establish entry into that plane.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1084",
+              "endUid": "u1094",
+              "quote": "Let's go to the vortex."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Dry, misty jungle beyond the vortex",
+      "kind": "forest",
+      "evidence": [
+        {
+          "startUid": "u1208",
+          "endUid": "u1213",
+          "quote": "You make it to the shore to the other... You cross into the mists, and you, like suddenly find yourself on dry land, like the instant you pass into this sort of misty area on the other side of the vortex. The water is gone. You can't tell if it's an island or just something strange."
+        },
+        {
+          "startUid": "u1220",
+          "endUid": "u1231",
+          "quote": "Okay, you make it to the other side also, as you step across like, you step into it. It's almost like a wall of mist, and as you step into the wall of the mist you see um, the water is just is just gone. You're on uh, you're on dry land. You're on um here. Where is my image? Nope, not that I don't know um."
+        },
+        {
+          "startUid": "u1290",
+          "endUid": "u1297",
+          "quote": "Not really. No, I mean you're in sort of uh, I mean you can walk into the jungle a little bit. It's, but it's dense. This is like dense forest. There's, you know, not a ton of growth in the understory right, because most of the life is up the canopy, but it's still like everything is misty. There's very low visibility. You'll see like a tree looming in front of you from fifteen feet away, and not have noticed it before."
+        }
+      ],
+      "note": "The source leaves open whether this dry land is an island or a stranger spatial effect.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0026",
+              "endUid": "u0036",
+              "quote": "From Kenzo's communion with the jungle, you know that Motua is at the center of this place beyond the lava river, and no more than a day's journey west. So now it is just a matter of finding a way across the lava, which, while you can feel the heat rising from it, and whenever a branch, or a uh wood, or anything seems to fall into the lava, it immediately bursts into flame. The trees themselves along the shore do not seem to be catching fire, and the lava itself is not causing a forest fire or anything, and once you find your way across the lava, avoiding whatever dangers may still lurk in the disordered jungle, and then confronting Motua, killing them, or otherwise, uh driving them off, or convincing them to stop the destruction that they are causing."
+            },
+            {
+              "startUid": "u1107",
+              "endUid": "u1110",
+              "quote": "Uh That's where the that's where the portal to the elemental plane of water is. Motua is on the other side of the por... The whirlpool. What's the like... There's like mists and fog on the other side of the whirlpool, like if you can somehow manage to get around it. There's like mist and fog on the other side."
+            },
+            {
+              "startUid": "u1220",
+              "endUid": "u1231",
+              "quote": "Okay, you make it to the other side also, as you step across like, you step into it. It's almost like a wall of mist, and as you step into the wall of the mist you see um, the water is just is just gone. You're on uh, you're on dry land. You're on um here. Where is my image? Nope, not that I don't know um."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "First dream wound, the forgotten warrior’s scene",
+      "kind": "dream setting",
+      "evidence": [
+        {
+          "startUid": "u1400",
+          "endUid": "u1402",
+          "quote": "So as you dive into the wound. Ah, um."
+        },
+        {
+          "startUid": "u1403",
+          "endUid": "u1421",
+          "quote": "The first one that you see is... So, First of all, you take ten points of necrotic damage, Kenzo, and you see a lonely warrior nondescript at the end of their life, forgotten, afraid of dying alone, and nobody caring, spitting old, their sword hanging uselessly by their side. And they, this warrior looks up at you and says, I am forgotten, aren't I? No one remembers."
+        }
+      ],
+      "note": "No geographic location is supplied for this dream scene."
+    },
+    "p11": {
+      "label": "Second dream wound, an empty desert",
+      "kind": "dream setting",
+      "evidence": [
+        {
+          "startUid": "u1632",
+          "endUid": "u1648",
+          "quote": "So you take you, take sixteen points of necrotic damage as you dive into the next wound, and you see um a nondescript traveler in a vast, empty desert, lying lost um, clearly clearly dying of thirst, and seem to be trying to like, scratch out a like a letter or a note on a stone or on in the sand, or they're sort of obsessively trying to write um Traveler, she looks up as you as you turn and says in a croaking voice when you come towards me."
+        }
+      ]
+    },
+    "p12": {
+      "label": "Third dream wound, the defended doorway",
+      "kind": "dream setting",
+      "evidence": [
+        {
+          "startUid": "u1740",
+          "endUid": "u1748",
+          "quote": "And you see a holy warrior, a paladin, in a hopeless battle fighting against dozens of of monsters, of forms shifting. It's not clear. But, uh, you can. You can see behind them like they're like guarding a door. There's uh people fleeing people trying to get out, and they are standing and fighting, heavy armor like plate mail sword, and shield, like holy Avenger style. Um."
+        }
+      ],
+      "note": "The warrior’s former city and temple appear in his remembered life; the doorway’s geographic identity remains unknown."
+    },
+    "p13": {
+      "label": "Land of the Dead, River of Souls",
+      "kind": "plane",
+      "evidence": [
+        {
+          "startUid": "u0263",
+          "endUid": "u0274",
+          "quote": "At least according to lizardfolk myth and legend. So there's the there's the land of the dead, where all souls who die go. It's sort of the transition between the spirit realms and between the material plane and the realms of the gods. And that's the sort of barrier there's like the spirit realms that you can easily access, like the the dream world and these other other places. And then you get to the land of the dead, and to go beyond is to go into the realms of the gods, and that's like a much harder to transition beyond the like the plane of consciousness. All of this stuff is like below the land of the dead, and then beyond that is the outer planes. It's the realms of the gods and kind of the veil in between it's... It's a kind of veil. It's it's variously described as like a river of Souls, or the Land of the Dead, or you know a way station."
+        },
+        {
+          "startUid": "u1492",
+          "endUid": "u1497",
+          "quote": "Until a year ago a creature came to the River of Souls, a shadowy, skeletal figure in a long black cloak, substantial, carrying a wicked looking glaive, and wearing a burning ring of dark fire on its hand."
+        },
+        {
+          "startUid": "u1966",
+          "endUid": "u1978",
+          "quote": "This, like black fire created by this scroll that Grash read um pouring off the glaive. You see these chains start to emerge as um as each wound is, is ah, is created by the swing of this glaive, and as each each wound, as three chains emerge from each wound, begins to pull Motua down slower and slower um moving weakly, then almost not at all, and then."
+        }
+      ],
+      "vaultPath": "Cosmology/Land of the Dead.md"
+    },
+    "p14": {
+      "label": "Bedez",
+      "kind": "village",
+      "evidence": [
+        {
+          "startUid": "u0006",
+          "endUid": "u0014",
+          "quote": "You left the lizardfolk village of Bedez a few days ago, traveling with Enari, a lizardfolk hunter who, along with Izzarak, uh were chosen by the Council of Elders to join Kenzo on this quest, and Kenzo's experience in the dream world suggested that this elemental corruption, this imbalance, that's ah spreading from the footprint of the gods was caused by some powerful creature from the spirit realm, wounded, throwing the land of rich connections to extraplanar sources of energy out of balance."
+        },
+        {
+          "startUid": "u2234",
+          "endUid": "u2235",
+          "quote": "Enari returns to the lizardfolk village to report back on what's happened and tell them things are safe. Izzarak um establish... It begins to sort of figure out how he will help heal the land."
+        }
+      ],
+      "note": "The closing return is to the previously named lizardfolk village. Its Orekatu setting is recorded in Gazetteer/Faraway Places/Bedez.md; no new regional journey is inferred from that vault metadata.",
+      "vaultPath": "Gazetteer/Faraway Places/Bedez.md"
+    },
+    "p15": {
+      "label": "Lastlight Falls, Feywild clifftop",
+      "kind": "planar crossing",
+      "evidence": [
+        {
+          "startUid": "u2256",
+          "endUid": "u2259",
+          "quote": "Okay, he's like didn't we agree to meet at the Feywild, the fey crossing here in northern Dunmar, near the mountains and Raven's Hold, and Nimessa's tower. Why don't you go there?"
+        },
+        {
+          "startUid": "u2264",
+          "endUid": "u2273",
+          "quote": "I know the crossing you speak of. That is Lastlight Falls. Cliff, a spring at the top, falling in rainbow colors. The Feywild."
+        },
+        {
+          "startUid": "u2275",
+          "endUid": "u2277",
+          "quote": "I don't."
+        }
+      ],
+      "note": "The destination is the Feywild side, confirmed at u2278–u2280. Northern Dunmar, Raven’s Hold and Nimessa’s tower orient the proposed meeting; they are not additional visits.",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Amberglow/Lastlight Falls.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u2267",
+              "endUid": "u2273",
+              "quote": "When the last light of day touches the water on this plane you will see it glow a brilliant golden hue, and the portal can be crossed. But it is in the realm of Amberglow, a ruined, deserted fey realm, once ruled by the Cloudspinner, the Queen of Sunset, who spun magical thread from the colors of the sky, from the clouds, from the sun, until she vanished. Her realm fell into decay."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Amberglow",
+      "kind": "fey realm",
+      "evidence": [
+        {
+          "startUid": "u2267",
+          "endUid": "u2273",
+          "quote": "When the last light of day touches the water on this plane you will see it glow a brilliant golden hue, and the portal can be crossed. But it is in the realm of Amberglow, a ruined, deserted fey realm, once ruled by the Cloudspinner, the Queen of Sunset, who spun magical thread from the colors of the sky, from the clouds, from the sun, until she vanished. Her realm fell into decay."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Amberglow/Amberglow.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u2264",
+              "endUid": "u2273",
+              "quote": "I know the crossing you speak of. That is Lastlight Falls. Cliff, a spring at the top, falling in rainbow colors. The Feywild."
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Feywild",
+      "kind": "plane",
+      "evidence": [
+        {
+          "startUid": "u2264",
+          "endUid": "u2273",
+          "quote": "I know the crossing you speak of. That is Lastlight Falls. Cliff, a spring at the top, falling in rainbow colors. The Feywild."
+        },
+        {
+          "startUid": "u2275",
+          "endUid": "u2277",
+          "quote": "I don't."
+        }
+      ],
+      "vaultPath": "Cosmology/Feywild.md"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0005"
+      },
+      "actors": [
+        "Kenzo",
+        "Izzarak",
+        "Enari",
+        "Crushu",
+        "Kaisa"
+      ],
+      "reading": "The group resumes at the lava river in Azta Lekua.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0005",
+          "quote": "Okay. So we start at the river of lava, bubbling slowly as it flows through the lush jungle of the Azta Lekua, the footprint of the gods. You've come here to this place in hopes of finding the source of the elemental corruption that's spreading, seeping into the land, and once you find the source figuring out how to stop it."
+        },
+        {
+          "startUid": "u0006",
+          "endUid": "u0014",
+          "quote": "You left the lizardfolk village of Bedez a few days ago, traveling with Enari, a lizardfolk hunter who, along with Izzarak, uh were chosen by the Council of Elders to join Kenzo on this quest, and Kenzo's experience in the dream world suggested that this elemental corruption, this imbalance, that's ah spreading from the footprint of the gods was caused by some powerful creature from the spirit realm, wounded, throwing the land of rich connections to extraplanar sources of energy out of balance."
+        },
+        {
+          "startUid": "u0083",
+          "endUid": "u0085",
+          "quote": "Oh! And in his elaborate frame pack two tiny complaining, infants."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0186",
+        "endUid": "u0195"
+      },
+      "actors": [
+        "Kenzo",
+        "Izzarak",
+        "Enari",
+        "Crushu",
+        "Kaisa"
+      ],
+      "reading": "Kenzo jumps with one infant; Izzarak flies Enari and the other infant across in dinosaur form. Everyone lands safely on the far bank.",
+      "evidence": [
+        {
+          "startUid": "u0186",
+          "endUid": "u0192",
+          "quote": "And Enari, he looks up. Yeah, I can ride that, if you don't mind. Steps onto your back, like grabs one of the babies, hands one to Kenzo. Kenzo just like you barely even have to run you just like, take a step, and you know, soar fifty feet in the air."
+        },
+        {
+          "startUid": "u0193",
+          "endUid": "u0195",
+          "quote": "And the the other two of you fly across um, landing on the other side without any issue."
+        }
+      ],
+      "from": "p01",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "jump / polymorphed flight"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0207",
+        "endUid": "u0242"
+      },
+      "actors": [
+        "Izzarak"
+      ],
+      "reading": "While the others rest, Izzarak flies above the jungle to scout, then transforms back and reports.",
+      "evidence": [
+        {
+          "startUid": "u0207",
+          "endUid": "u0211",
+          "quote": "So while this is happening, the pteranodon, technically I will circle up above the I will leave in the care of the others temporarily, and circle up above the trees briefly."
+        },
+        {
+          "startUid": "u0221",
+          "endUid": "u0226",
+          "quote": "Izzarak, you see from the top, so you can see this volcano in the distance. Um, that's sort of smoking behind you. Now, where the river of lava is coming from ahead you can see what looks like, ah, you know, maybe a couple of miles of just jungle, and then there's just this expanse of water, just like the jungle, is just completely flooded for two, three, four, five miles to a bank of mists and fog in the center, that the other side of the flooded jungle is where you seem to be heading."
+        },
+        {
+          "startUid": "u0241",
+          "endUid": "u0242",
+          "quote": "I transform back and report all of this."
+        }
+      ],
+      "from": "p02",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "polymorphed flight",
+      "route": [
+        {
+          "reading": "Circles above the trees and descends to judge the flooding."
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0221",
+        "endUid": "u0240"
+      },
+      "actors": [
+        "Izzarak"
+      ],
+      "reading": "From his scouting flight, Izzarak sees the newly flooded basin ahead and the smoking volcano behind.",
+      "evidence": [
+        {
+          "startUid": "u0221",
+          "endUid": "u0226",
+          "quote": "Izzarak, you see from the top, so you can see this volcano in the distance. Um, that's sort of smoking behind you. Now, where the river of lava is coming from ahead you can see what looks like, ah, you know, maybe a couple of miles of just jungle, and then there's just this expanse of water, just like the jungle, is just completely flooded for two, three, four, five miles to a bank of mists and fog in the center, that the other side of the flooded jungle is where you seem to be heading."
+        },
+        {
+          "startUid": "u0233",
+          "endUid": "u0240",
+          "quote": "It's hard to judge from the air. I mean you sort of fly down, and you scout around a little bit. And um, it seems I mean there's trees that would normally be one hundred feet tall. The water comes halfway up right, so it's quite deep in places. It seems like there's like the land slopes down from the jungle into this sort of basin, and this whole basin has filled with water the footprint itself."
+        }
+      ],
+      "place": "p05",
+      "mode": "remote"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0388",
+        "endUid": "u0398"
+      },
+      "actors": [
+        "Kenzo",
+        "Izzarak",
+        "Enari",
+        "Crushu",
+        "Kaisa"
+      ],
+      "reading": "Travel through the jungle to the edge of the flooded basin.",
+      "evidence": [
+        {
+          "startUid": "u0388",
+          "endUid": "u0398",
+          "quote": "Uh, okay. So moving through the jungle itself is not that difficult. And you're you're able to be pretty uh pretty stealthy. Ah."
+        }
+      ],
+      "from": "p02",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk",
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "The DM narrates the completed journey as an hour, maybe."
+      }
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0450",
+        "endUid": "u0483"
+      },
+      "actors": [
+        "Kenzo",
+        "Izzarak",
+        "Enari",
+        "Crushu",
+        "Kaisa"
+      ],
+      "reading": "Enter the basin and stop at a particularly old emergent tree; Kenzo runs on the water while the lizardfolk swim.",
+      "evidence": [
+        {
+          "startUid": "u0450",
+          "endUid": "u0459",
+          "quote": "So I mean the the the you're starting to sort of swim and run out across the water. The the you know you're moving not super fast because you're trying to also be quiet and stealthy, and you know you're sort of traveling now. You know the first little bit is fairly shallow, and you can feel the land is kind of dropping down a little bit beneath you, but the level of the water is not changing, and so it's getting deeper as you go. But you still got maybe, you know, Miles, to go to get to the center of this this basin where the um where you think Motua is, and the."
+        },
+        {
+          "startUid": "u0469",
+          "endUid": "u0474",
+          "quote": "Yeah, I mean, you pass a few that are, you mean, Yeah, there's definitely again. These emergent trees are fairly rare, right? But like every you know thousand feet or so you'll see one, and you you see one, you pass another, then the third one you come to after you've gone, maybe a little more than half a mile, you know, is really tall. Seems old like, Has all these vines drooping off of it like you can hear like almost like you can hear the sort of swaying of the upper branches that are, and that's sticking way above the water, because it's substantially taller than the canopy."
+        },
+        {
+          "startUid": "u0476",
+          "endUid": "u0479",
+          "quote": "Let's go talk to that one, I say to my companions, is it all right if we take a stop at this tree?"
+        },
+        {
+          "startUid": "u0480",
+          "endUid": "u0483",
+          "quote": "And you see, Kenzo, you know again, like inside this I'm imagining this, you know. There, there's the basin, and then this massive tree, with these large, you know, rooted vines and stuff you know kind of from the bottom of the water like rolling up and Kenzo kind of hops onto one of these big like giant root structures. That's kind of coming up from the bottom of this this huge tree, you know, kind of pauses and looks up at the tree, and he gives a deep, deep bow to the tree."
+        }
+      ],
+      "from": "p04",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "swim / run on water",
+      "distance": {
+        "text": "a little more than half a mile",
+        "unit": "mile",
+        "precision": "vague",
+        "basis": "Distance narrated before the tree stop, not the full crossing."
+      }
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u0654",
+        "endUid": "u0678"
+      },
+      "actors": [
+        "Izzarak"
+      ],
+      "reading": "During Kenzo’s conversation with Tree, Izzarak dives and finds the flooded jungle largely lifeless, cold and pulled by a current toward the center.",
+      "evidence": [
+        {
+          "startUid": "u0654",
+          "endUid": "u0668",
+          "quote": "While Kenzo talks to the tree, Izzarak will dive to scout under the water to see if there's anything to be seen."
+        },
+        {
+          "startUid": "u0674",
+          "endUid": "u0678",
+          "quote": "And then there's no there's no sign that the surface that the water is flowing. It's just at the bottom. Do we see any like drowned animals floating around?"
+        }
+      ],
+      "place": "p05",
+      "mode": "local",
+      "observerPlace": "p06",
+      "note": "The source explicitly inserts this scouting during the preceding tree conversation."
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0684",
+        "endUid": "u0715"
+      },
+      "actors": [
+        "Kenzo",
+        "Izzarak",
+        "Enari",
+        "Crushu",
+        "Kaisa"
+      ],
+      "reading": "Follow Tree’s sensory trail southwest through the flooded jungle to Eleuha’s nearly submerged daughter-tree.",
+      "evidence": [
+        {
+          "startUid": "u0684",
+          "endUid": "u0700",
+          "quote": "So you're just. You're all following, Kenzo. So as you walk the two swimmers. Now you go. You go maybe a mile, sort of zigging and zagging, following um where Kenzo is going and you can. You can feel now the current is starting to be intense enough that it takes some concentration to avoid, you know, to keep swimming where you want to be swimming and not be pulled. You're sort of going a little bit, say southwest, and the currents pulling you due west is requiring a little bit of concentration to avoid getting pulled off course, Kenzo at the top of the water doesn't you don't feel this."
+        },
+        {
+          "startUid": "u0708",
+          "endUid": "u0715",
+          "quote": "I will perch the babies on a branch of the tree and dive down. What were the babies' names again? Do you remember I made them up last time. I don't know that I wrote it down."
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "swim / run on water",
+      "distance": {
+        "value": 1,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "The narrated zigzag route is maybe a mile."
+      }
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u0796",
+        "endUid": "u0808"
+      },
+      "actors": [
+        "Izzarak"
+      ],
+      "reading": "Scouting underwater at Eleuha’s tree, Izzarak sees its roots lifting from the muddy soil in the stronger current.",
+      "evidence": [
+        {
+          "startUid": "u0794",
+          "endUid": "u0794",
+          "quote": "Well, last time I did, but this time I wanted to scout down under the water. So I just left him back."
+        },
+        {
+          "startUid": "u0796",
+          "endUid": "u0808",
+          "quote": "The roots are starting to come up from the soft, muddy soil."
+        }
+      ],
+      "place": "p07",
+      "mode": "local",
+      "observerPlace": "p07"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1084",
+        "endUid": "u1110"
+      },
+      "actors": [
+        "Kenzo",
+        "Izzarak",
+        "Enari",
+        "Crushu",
+        "Kaisa"
+      ],
+      "reading": "Leave Eleuha’s tree following the current and reach the dangerous edge of the vortex; Motua lies beyond it through the mists.",
+      "evidence": [
+        {
+          "startUid": "u1084",
+          "endUid": "u1087",
+          "quote": "Let's go to the vortex."
+        },
+        {
+          "startUid": "u1088",
+          "endUid": "u1094",
+          "quote": "And it's it's now like you're trying to slow yourself down as you approach um, and you can start to see now the the um, so you can see like in the distance. There's like uh you know those um like a giant whirlpool, but basically um, but it's like if you've ever seen these those pictures of like ah lakes behind dams where there's a drain from the dam under the water, and it's just this like clear surface. Then there's just this, like. Ah, massive, whirl sort of like."
+        },
+        {
+          "startUid": "u1107",
+          "endUid": "u1110",
+          "quote": "Uh That's where the that's where the portal to the elemental plane of water is. Motua is on the other side of the por... The whirlpool. What's the like... There's like mists and fog on the other side of the whirlpool, like if you can somehow manage to get around it. There's like mist and fog on the other side."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "swim / run on water"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1121",
+        "endUid": "u1231"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Run and jump around the vortex, recover from falling in with Enari’s help, and cross the mist onto dry jungle ground.",
+      "evidence": [
+        {
+          "startUid": "u1121",
+          "endUid": "u1127",
+          "quote": "Okay, so you run you you start to like, jump. You get um. You get part, you know, maybe a third of the way around it without any trouble. Um, what is um Enari is just going to make an attempt to swim. Uh. Ah, that will be athletics. Um, He's got a good... Oh, okay. He is totally fine. He swims about a third of the way around. And what are you doing? Izzarak?"
+        },
+        {
+          "startUid": "u1146",
+          "endUid": "u1159",
+          "quote": "You're jumping uh you make it around about another third of the way around. So you're two-thirds of the way around. Um, but you uh you slip halfway and you fall and the water begins to pull you under um Enari is going to, you know, is going to try and swim after you and swims um catches up to you and grabs onto your leg before you can be, uh, swept out. ah, Izzarak, what are you doing? We need slightly more tense music here. Hold on."
+        },
+        {
+          "startUid": "u1192",
+          "endUid": "u1196",
+          "quote": "Ah, okay, I'll say, like as you're as you're um, you know, being pulled down. Enari sort of gives you a boost, and like pushes you up. Ah, the water kind of reaches out to try and grab you, and you take uh you take ten points of bludgeoning damage, but you manage to to get moving a little bit away from the vortex."
+        },
+        {
+          "startUid": "u1220",
+          "endUid": "u1231",
+          "quote": "Okay, you make it to the other side also, as you step across like, you step into it. It's almost like a wall of mist, and as you step into the wall of the mist you see um, the water is just is just gone. You're on uh, you're on dry land. You're on um here. Where is my image? Nope, not that I don't know um."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "run / jump / briefly swim",
+      "route": [
+        {
+          "reading": "Bypasses the whirlpool rather than entering its planar drain."
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1128",
+        "endUid": "u1213"
+      },
+      "actors": [
+        "Izzarak",
+        "Crushu",
+        "Kaisa"
+      ],
+      "reading": "Izzarak changes into a large salmon incorporating the babies and swims around the vortex into dry land beyond the mist.",
+      "evidence": [
+        {
+          "startUid": "u1128",
+          "endUid": "u1139",
+          "quote": "I was just looking at wild shape to see if I should turn into a fish or something. But oh, I can simply try to swim wider, just going to backtrack a little bit, if necessary, to make it a larger radius."
+        },
+        {
+          "startUid": "u1171",
+          "endUid": "u1182",
+          "quote": "They could swim against a stronger on include the babies as well, so I'll change it into..."
+        },
+        {
+          "startUid": "u1208",
+          "endUid": "u1213",
+          "quote": "You make it to the shore to the other... You cross into the mists, and you, like suddenly find yourself on dry land, like the instant you pass into this sort of misty area on the other side of the vortex. The water is gone. You can't tell if it's an island or just something strange."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "wild-shaped swimming"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1346",
+        "endUid": "u1367"
+      },
+      "actors": [
+        "Enari"
+      ],
+      "reading": "Enari also reaches Motua’s misty jungle, established when Motua’s tail strikes him there.",
+      "evidence": [
+        {
+          "startUid": "u1332",
+          "endUid": "u1338",
+          "quote": "As you as you yell out suddenly, um, Appearing in front of you is this massive maybe thirty foot forty foot long, feathered serpent with a head that is almost cat-like, like with cat ears and sort of a a jaw like this that then fades back into the um ah into a long serpentine body."
+        },
+        {
+          "startUid": "u1346",
+          "endUid": "u1367",
+          "quote": "Its tail as it screams in pain. Um, Its tail swings and strikes against Kenzo. Ah, and you dodged out of the way, and then it's. It continues swinging towards um Enari hitting him, and he staggers back. Ah, and blinks for a moment um sort of ducking out of the way and says."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "swim",
+      "note": "His final swimming maneuver is not narrated; later physical presence establishes arrival."
+    },
+    {
+      "id": "l14",
+      "type": "observation",
+      "source": {
+        "startUid": "u1400",
+        "endUid": "u1497"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo enters the first dream wound and encounters the forgotten warrior, then sees Motua’s memory of a skeletal attacker.",
+      "evidence": [
+        {
+          "startUid": "u1400",
+          "endUid": "u1421",
+          "quote": "So as you dive into the wound. Ah, um."
+        },
+        {
+          "startUid": "u1492",
+          "endUid": "u1497",
+          "quote": "Until a year ago a creature came to the River of Souls, a shadowy, skeletal figure in a long black cloak, substantial, carrying a wicked looking glaive, and wearing a burning ring of dark fire on its hand."
+        },
+        {
+          "startUid": "u1507",
+          "endUid": "u1514",
+          "quote": "Oh, but none of them hit. Three chains writhing, crashing against you, severed from this wound that's now healed itself. Kenzo, um emerging like I guess you were just sort of meditating focused on this wound. Step out, Come back! Motua."
+        }
+      ],
+      "place": "p10",
+      "mode": "vision",
+      "observerPlace": "p09",
+      "note": "Kenzo is meditating in the physical jungle. Izzarak’s proposed dream entry is superseded by the DM explicitly placing him outside Motua at u1500–u1505."
+    },
+    {
+      "id": "l15",
+      "type": "observation",
+      "source": {
+        "startUid": "u1632",
+        "endUid": "u1699"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "The second wound shows an empty desert and a dying traveler with a final family message; Motua then describes the attacker’s scroll.",
+      "evidence": [
+        {
+          "startUid": "u1632",
+          "endUid": "u1648",
+          "quote": "So you take you, take sixteen points of necrotic damage as you dive into the next wound, and you see um a nondescript traveler in a vast, empty desert, lying lost um, clearly clearly dying of thirst, and seem to be trying to like, scratch out a like a letter or a note on a stone or on in the sand, or they're sort of obsessively trying to write um Traveler, she looks up as you as you turn and says in a croaking voice when you come towards me."
+        },
+        {
+          "startUid": "u1684",
+          "endUid": "u1699",
+          "quote": "Emerging out of her out of her mouth as she is beginning to speak. You see a snake, this like a miniature version of Motua. It crawls out, and it opens. It grows and opens up, and it says they do not have names anymore."
+        }
+      ],
+      "place": "p11",
+      "mode": "vision",
+      "observerPlace": "p09"
+    },
+    {
+      "id": "l16",
+      "type": "observation",
+      "source": {
+        "startUid": "u1740",
+        "endUid": "u1902"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "The third wound shows a holy warrior defending a doorway, then his remembered life and visit to the Wildling’s temple.",
+      "evidence": [
+        {
+          "startUid": "u1740",
+          "endUid": "u1748",
+          "quote": "And you see a holy warrior, a paladin, in a hopeless battle fighting against dozens of of monsters, of forms shifting. It's not clear. But, uh, you can. You can see behind them like they're like guarding a door. There's uh people fleeing people trying to get out, and they are standing and fighting, heavy armor like plate mail sword, and shield, like holy Avenger style. Um."
+        },
+        {
+          "startUid": "u1877",
+          "endUid": "u1902",
+          "quote": "Much later, like uh, you know, middle age um a price on his head, and then um finding his way to a temple of the Wildling one of the eight Divines that's worshipped in Chardon and Sembara, and saying to the priest, I can't go on like this."
+        }
+      ],
+      "place": "p12",
+      "mode": "vision",
+      "observerPlace": "p09"
+    },
+    {
+      "id": "l17",
+      "type": "observation",
+      "source": {
+        "startUid": "u1955",
+        "endUid": "u1978"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Motua’s memory reveals Grash wounding them in the Land of the Dead and harvesting souls through planar marks.",
+      "evidence": [
+        {
+          "startUid": "u1955",
+          "endUid": "u1965",
+          "quote": "And as he runs into battle. Um, you can see now it's not him fighting. It's Motua fighting this. Ah skeleton creature, this skeleton with dark robes and a smoking glaive, and a ring of burning black fire."
+        },
+        {
+          "startUid": "u1966",
+          "endUid": "u1978",
+          "quote": "This, like black fire created by this scroll that Grash read um pouring off the glaive. You see these chains start to emerge as um as each wound is, is ah, is created by the swing of this glaive, and as each each wound, as three chains emerge from each wound, begins to pull Motua down slower and slower um moving weakly, then almost not at all, and then."
+        }
+      ],
+      "place": "p13",
+      "mode": "vision",
+      "observerPlace": "p09"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u2234",
+        "endUid": "u2235"
+      },
+      "actors": [
+        "Enari"
+      ],
+      "reading": "Enari returns to the lizardfolk village to report the outcome.",
+      "evidence": [
+        {
+          "startUid": "u2234",
+          "endUid": "u2235",
+          "quote": "Enari returns to the lizardfolk village to report back on what's happened and tell them things are safe. Izzarak um establish... It begins to sort of figure out how he will help heal the land."
+        },
+        {
+          "startUid": "u0006",
+          "endUid": "u0014",
+          "quote": "You left the lizardfolk village of Bedez a few days ago, traveling with Enari, a lizardfolk hunter who, along with Izzarak, uh were chosen by the Council of Elders to join Kenzo on this quest, and Kenzo's experience in the dream world suggested that this elemental corruption, this imbalance, that's ah spreading from the footprint of the gods was caused by some powerful creature from the spirit realm, wounded, throwing the land of rich connections to extraplanar sources of energy out of balance."
+        }
+      ],
+      "from": "p09",
+      "to": "p14",
+      "completion": "arrived",
+      "note": "The closing village return refers back to Bedez, named in the opening recap; its route and duration are not given."
+    },
+    {
+      "id": "l19",
+      "type": "presence",
+      "source": {
+        "startUid": "u2234",
+        "endUid": "u2235"
+      },
+      "actors": [
+        "Izzarak",
+        "Crushu",
+        "Kaisa"
+      ],
+      "reading": "Izzarak remains in Azta Lekua to help heal the land and care for the two children.",
+      "evidence": [
+        {
+          "startUid": "u2123",
+          "endUid": "u2139",
+          "quote": "So this um, this sort of Hutsu mark from Motua the the jaguar growls, and actually well, first, the jaguar turns to to Izzarak and says, you have done well to keep open the door to this place that I could travel through. Thank you."
+        },
+        {
+          "startUid": "u2234",
+          "endUid": "u2235",
+          "quote": "Enari returns to the lizardfolk village to report back on what's happened and tell them things are safe. Izzarak um establish... It begins to sort of figure out how he will help heal the land."
+        }
+      ],
+      "place": "p03",
+      "note": "The closing montage gives the region, not a new precise camp or dwelling."
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u2252",
+        "endUid": "u2277"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Lengau sends Kenzo directly to the Feywild clifftop at Lastlight Falls, in ruined Amberglow.",
+      "evidence": [
+        {
+          "startUid": "u2252",
+          "endUid": "u2259",
+          "quote": "Um, so where are you telling, uh, Lengau, that you want to go?"
+        },
+        {
+          "startUid": "u2264",
+          "endUid": "u2273",
+          "quote": "I know the crossing you speak of. That is Lastlight Falls. Cliff, a spring at the top, falling in rainbow colors. The Feywild."
+        },
+        {
+          "startUid": "u2275",
+          "endUid": "u2280",
+          "quote": "I don't."
+        }
+      ],
+      "from": "p09",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "magical transport",
+      "note": "The arrival side is settled explicitly as the Feywild; no crossing from the material plane is played."
+    }
+  ]
+}
