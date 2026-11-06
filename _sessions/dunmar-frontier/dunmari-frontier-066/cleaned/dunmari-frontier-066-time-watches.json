@@ -1,0 +1,160 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-066/cleaned/dunmari-frontier-066-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-066/cleaned/dunmari-frontier-066-time-markers.json",
+    "sha256": "3e5ad8b6853efb6ab59d3999458b66b7cb7e2c3e444291299e9e152c1b9bcaea"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-066/cleaned/dunmari-frontier-066-transcript.md",
+    "sha256": "2b6bd25a3259019ca05247632f911b9ab26fffb411f7e08940977f015ebe2cfe"
+  },
+  "dateAssessment": "Working calendar: YAML October 14–November 13, 1748. The opening follows the same actors and aboleth aftermath as session 062 (u3353–u3362), not session 065; session 062’s morning approach (u0293–u0311) supports only a rough morning opening here. Month/season and the midmorning tower arrival are spoken; day numbers and year are not. The transcript-only YAML assessment remains compatible, with incomplete day coverage. The dated session-066 record gives October 23 departure and November 13 arrival, versus t06’s approximately two-and-a-half-week voyage; that difference remains open. November 13 is the working arrival date, while transient voyage events retain date windows. Morning estimates carry the stated arrival and measured short activities forward; dinner suggests dusk at the closing handoff, without measuring the intervening gap or assigning a Feywild arrival watch.",
+  "watches": [
+    {
+      "day": "October 14, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Wellby’s recovery continues session 062’s morning expedition; he recalls healing about five minutes earlier.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1748-10-14",
+      "endDate": "1748-10-14",
+      "scope": "Wellby and companions"
+    },
+    {
+      "day": "During October 14–31, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Outfitting takes about a week; the return-to-port interval and precise dates remain unmeasured.",
+      "markers": [
+        "t02"
+      ],
+      "dateWindow": [
+        "1748-10-14",
+        "1748-10-31"
+      ]
+    },
+    {
+      "day": "During October 23–November 5, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Late-October departure; first four or five days spent tacking out to sea.",
+      "markers": [
+        "t03"
+      ],
+      "dateWindow": [
+        "1748-10-23",
+        "1748-11-05"
+      ]
+    },
+    {
+      "day": "During October 24–November 12, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "inferred",
+      "summary": "Nighttime anchorage off the wooded island; its particular night within the voyage is unstated.",
+      "markers": [
+        "t04"
+      ],
+      "dateWindow": [
+        "1748-10-24",
+        "1748-11-12"
+      ]
+    },
+    {
+      "day": "During November 8–13, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The squall shelter is placed in November’s second week; no civil watch is supplied.",
+      "markers": [
+        "t05"
+      ],
+      "dateWindow": [
+        "1748-11-08",
+        "1748-11-13"
+      ]
+    },
+    {
+      "day": "November 13, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Midmorning arrival after about two and a half weeks; the day uses the working YAML endpoint.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1748-11-13",
+      "endDate": "1748-11-13"
+    },
+    {
+      "day": "November 13, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "One minute to unlock the door, then an hour’s rest after the midmorning arrival.",
+      "markers": [
+        "t07",
+        "t08"
+      ],
+      "startDate": "1748-11-13",
+      "endDate": "1748-11-13"
+    },
+    {
+      "day": "November 13, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Fifteen-second look, one-minute animal search, fifteen-minute preparation, then one-minute mirror covering; morning carried forward.",
+      "markers": [
+        "t09",
+        "t10",
+        "t11",
+        "t12"
+      ],
+      "startDate": "1748-11-13",
+      "endDate": "1748-11-13"
+    },
+    {
+      "day": "November 13, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Arryn spends a few more minutes examining the fly; no later clock is stated.",
+      "markers": [
+        "t13"
+      ],
+      "startDate": "1748-11-13",
+      "endDate": "1748-11-13"
+    },
+    {
+      "day": "November 13, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Dinner suggests dusk for Alimash and Gyles; Wellby vanishes and Shoal heads for the boat.",
+      "markers": [
+        "t14"
+      ],
+      "startDate": "1748-11-13",
+      "endDate": "1748-11-13"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 062 actor-specific handoff and morning approach",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-062/cleaned/dunmari-frontier-062-transcript.md",
+      "sha256": "3818618f2158aee1ef4a808c5c3248f23723a76e25f4d4e1d33ece534ec8ef09"
+    },
+    {
+      "label": "Dated session 066 campaign record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 66 (DuFr).md",
+      "sha256": "4f61435e48c3a52914b9e779ee6fd73310e7f06baaa602ea0af348c1040c02dd"
+    }
+  ]
+}

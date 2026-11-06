@@ -1,0 +1,626 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-066",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-066/cleaned/dunmari-frontier-066-session.yaml",
+    "sessionYamlSha256": "e5121b3cf09b4f995cfc042ea1eca20bec7b22c8034100a2a18c4610d7082d6a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-066/cleaned/dunmari-frontier-066-transcript.md",
+    "transcriptSha256": "2b6bd25a3259019ca05247632f911b9ab26fffb411f7e08940977f015ebe2cfe",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-066/cleaned/dunmari-frontier-066-segments.json",
+      "sha256": "43bf4a35ff185bf579b950a2f9971c45b5aa5724ff6b93f7514c3b2d8465c62e",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s003",
+      "encounter": "Mirror-shard swarms outside Arryn’s tower",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Mirror swarm initially around Alimash",
+              "kind": "turn",
+              "summary": "Dazzles Alimash with reflected light. He succeeds on the Constitution save, avoids blindness, and takes 8 radiant damage.",
+              "evidence": [
+                {
+                  "startUid": "u0811",
+                  "endUid": "u0819"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "turn",
+              "summary": "Grows large, moves 25 feet toward the others, and attacks a swarm with his glaive: the first strike hits, including lightning and an extra d8 (7); the second misses.",
+              "evidence": [
+                {
+                  "startUid": "u0820",
+                  "endUid": "u0855"
+                }
+              ],
+              "note": "The target is indicated on the map; no total damage is spoken."
+            },
+            {
+              "actor": "Mirror swarm that blinds Shoal",
+              "kind": "turn",
+              "summary": "Moves into Shoal’s reach, survives his missed interception, surrounds him, and blinds him on a failed Constitution save for 19 radiant damage.",
+              "evidence": [
+                {
+                  "startUid": "u0851",
+                  "endUid": "u0869"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "reaction",
+              "summary": "Attempts an opportunity attack as the swarm enters his reach; misses, so its movement continues.",
+              "evidence": [
+                {
+                  "startUid": "u0851",
+                  "endUid": "u0857"
+                }
+              ]
+            },
+            {
+              "actor": "Third mirror swarm",
+              "kind": "turn",
+              "summary": "Moves to Shoal and attacks with advantage against his blindness, hitting AC 24 for 16 slashing damage.",
+              "evidence": [
+                {
+                  "startUid": "u0859",
+                  "endUid": "u0873"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Attempts to pick the tower-door lock using thieves’ tools/Dexterity; the pick sticks and the door remains locked.",
+              "evidence": [
+                {
+                  "startUid": "u0875",
+                  "endUid": "u0891"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "turn",
+              "summary": "Stays by his swarm and hits twice with his one-handed frost spear while carrying his shield. Cold frosts and cracks the glass especially effectively, substantially reducing the swarm.",
+              "evidence": [
+                {
+                  "startUid": "u0892",
+                  "endUid": "u0912"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Mirror swarm initially around Alimash",
+              "kind": "turn",
+              "summary": "Slashes at Alimash, but its attack of 15 misses his AC 20 shield defense.",
+              "evidence": [
+                {
+                  "startUid": "u0914",
+                  "endUid": "u0921"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "reaction",
+              "summary": "Uses a superiority die to Riposte the missed attack; hits, and the spear’s cold cracks more glass.",
+              "evidence": [
+                {
+                  "startUid": "u0921",
+                  "endUid": "u0926"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "turn",
+              "summary": "Makes one attack to either side with disadvantage while blind; both miss (15 and 9). Succeeds on his end-of-turn Constitution save and regains sight.",
+              "evidence": [
+                {
+                  "startUid": "u0927",
+                  "endUid": "u0937"
+                }
+              ]
+            },
+            {
+              "actor": "Mirror swarm that blinds Shoal",
+              "kind": "turn",
+              "summary": "Moves into Wellby’s space and blinds him after his Constitution save fails, dealing 18 radiant damage.",
+              "evidence": [
+                {
+                  "startUid": "u0938",
+                  "endUid": "u0946"
+                }
+              ]
+            },
+            {
+              "actor": "Third mirror swarm",
+              "kind": "turn",
+              "summary": "Attacks Shoal, who now sees and dodges all the shards; misses.",
+              "evidence": [
+                {
+                  "startUid": "u0947",
+                  "endUid": "u0948"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim to cancel blindness disadvantage on a shortsword attack, but misses. Fails his end-of-turn Constitution save and remains blind.",
+              "evidence": [
+                {
+                  "startUid": "u0949",
+                  "endUid": "u0967"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "turn",
+              "summary": "Hits his original swarm once with the frost spear, making the glass brittle and reducing it to about a third of its original size; his second attack misses. Succeeds on a Wisdom save to orient himself and leave the swarm.",
+              "evidence": [
+                {
+                  "startUid": "u0968",
+                  "endUid": "u0990"
+                }
+              ]
+            },
+            {
+              "actor": "Mirror swarm initially around Alimash",
+              "kind": "reaction",
+              "summary": "Makes an opportunity attack as Alimash leaves, but misses. Alimash considers another Riposte and declines to spend the die.",
+              "evidence": [
+                {
+                  "startUid": "u0982",
+                  "endUid": "u0990"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Shoal",
+              "kind": "turn",
+              "summary": "Attacks the swarm on his right: first attack misses, second hits for 18 total including his extra d8, and the bonus polearm attack hits on a 20. The swarms continue surrounding him.",
+              "evidence": [
+                {
+                  "startUid": "u0991",
+                  "endUid": "u1009"
+                }
+              ]
+            },
+            {
+              "actor": "Mirror swarms attacking Wellby",
+              "kind": "turn",
+              "summary": "One attack would hit Wellby but is redirected by Shoal into an already wounded swarm for 16 damage; the other attack misses Wellby.",
+              "evidence": [
+                {
+                  "startUid": "u1010",
+                  "endUid": "u1024"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "reaction",
+              "summary": "Uses Cloud Rune to redirect the hit on Wellby to a different swarm, preserving the attack roll; the redirected shards deal 16 damage to their ally.",
+              "evidence": [
+                {
+                  "startUid": "u1013",
+                  "endUid": "u1024"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Critically hits the swarm occupying his space with his sword, including the vicious damage and doubled dice, for 55 damage. It survives as a very small cloud; Wellby remains blind.",
+              "evidence": [
+                {
+                  "startUid": "u1025",
+                  "endUid": "u1038"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "turn",
+              "summary": "Moves into range of the largest remaining swarm. First spear attack misses; second hits, leaving every swarm below half its original size.",
+              "evidence": [
+                {
+                  "startUid": "u1039",
+                  "endUid": "u1048"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Mirror swarm initially around Alimash",
+              "kind": "turn",
+              "summary": "Moves back around Alimash and slashes, but his shield blocks the attack. No interception occurs: Alimash lacks the required ability and Shoal has already spent his reaction.",
+              "evidence": [
+                {
+                  "startUid": "u1044",
+                  "endUid": "u1055"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "turn",
+              "summary": "Destroys the swarm beside Wellby with his first hit. Hits the swarm Alimash had damaged for 11, then destroys it with his bonus polearm strike (8, with an extra d8 offered and accepted as sufficient).",
+              "evidence": [
+                {
+                  "startUid": "u1056",
+                  "endUid": "u1068"
+                }
+              ]
+            },
+            {
+              "actor": "Last mirror swarm",
+              "kind": "turn",
+              "summary": "Moves onto Shoal and attacks at disadvantage after Alimash’s shield intervention; misses on the low roll of 2.",
+              "evidence": [
+                {
+                  "startUid": "u1070",
+                  "endUid": "u1083"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "reaction",
+              "summary": "Uses his shield to impose disadvantage on the remaining swarm’s attack against Shoal; the attack misses.",
+              "evidence": [
+                {
+                  "startUid": "u1078",
+                  "endUid": "u1083"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves toward the remaining swarm and hits with disadvantage while still blind. Movement prevents Steady Aim and disadvantage prevents Sneak Attack; deals only 5 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1085",
+                  "endUid": "u1093"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "turn",
+              "summary": "First spear attack misses; second hits and destroys the last swarm. The remaining pieces are ground into powder, leaving no reflective sliver.",
+              "evidence": [
+                {
+                  "startUid": "u1094",
+                  "endUid": "u1102"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "All three swarms are destroyed and their glass ground to powder; the tower door is still locked until Wellby opens it afterward.",
+        "evidence": [
+          {
+            "startUid": "u1095",
+            "endUid": "u1102"
+          }
+        ]
+      },
+      "note": "Swarm labels follow their initial targets; later map-pointed attacks are kept collectively where individual targets are not recoverable. No unspoken swarm turn is supplied."
+    },
+    {
+      "id": "c002",
+      "segmentId": "s009",
+      "encounter": "Mirror Alimash and the rescue of Arryn",
+      "openingActions": [
+        {
+          "actor": "Alimash",
+          "kind": "event",
+          "summary": "Voluntarily accepts the reflection’s possession and arrives in the Mirror Realm as initiative begins, facing the workshop wizard.",
+          "evidence": [
+            {
+              "startUid": "u2533",
+              "endUid": "u2542"
+            }
+          ]
+        },
+        {
+          "actor": "Shoal",
+          "kind": "event",
+          "summary": "Uses his bonus transformation to become large as Alimash vanishes; his later turn confirms he is already large.",
+          "evidence": [
+            {
+              "startUid": "u2544",
+              "endUid": "u2544"
+            },
+            {
+              "startUid": "u2635",
+              "endUid": "u2642"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim for advantage and Sneak Attack; an arrow hits mirror Alimash for 30 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2565",
+                  "endUid": "u2582"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "turn",
+              "summary": "In the Mirror Realm, questions the workshop wizard about rescue, the other wizard, his recent contacts and unread notes. The wizard calls this his home and cannot account for the missing people.",
+              "evidence": [
+                {
+                  "startUid": "u2583",
+                  "endUid": "u2605"
+                }
+              ]
+            },
+            {
+              "actor": "Mirror Alimash",
+              "kind": "turn",
+              "summary": "Charges Wellby. First spear hit attempts Disarming Attack; Wellby succeeds on the Strength save and keeps his sword, taking a final spoken 10 damage. Second hit deals 15. Uses Action Surge for two further attacks; one is explicitly dodged and the other’s result is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u2606",
+                  "endUid": "u2625"
+                }
+              ],
+              "note": "The first damage narration runs through “eight ten”; 10 is the last spoken value. No result is invented for the fourth attack."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses his reaction after the attacks to move half his speed away without provoking an opportunity attack.",
+              "evidence": [
+                {
+                  "startUid": "u2626",
+                  "endUid": "u2628"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "reaction",
+              "summary": "Attempts Stone Rune before his turn. Mirror Alimash uses Lucky rather than the proposed Indomitable, rerolls the Wisdom save with advantage, succeeds, and is not charmed or incapacitated.",
+              "evidence": [
+                {
+                  "startUid": "u2629",
+                  "endUid": "u2642"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "turn",
+              "summary": "Already large, attacks mirror Alimash from beyond the duplicate’s reach. Both initial attacks miss, preventing the proposed Riposte. Uses Action Surge and lands the two further attacks, adding the extra d8 once; the bonus polearm attack misses on 17. Steps back beyond spear reach.",
+              "evidence": [
+                {
+                  "startUid": "u2635",
+                  "endUid": "u2660"
+                }
+              ],
+              "note": "Exact damage for the Action Surge hits is not spoken."
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and shoots mirror Alimash for 24 damage; the duplicate begins to lose coherence.",
+              "evidence": [
+                {
+                  "startUid": "u2661",
+                  "endUid": "u2680"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "turn",
+              "summary": "Tests the workshop wizard with the song; he denies ever singing. Refuses the wizard’s offered hand, pushes him away with his shield, and runs to Resenna’s chambers, where a second wizard sits. The first follows. His ring and spear have no magic in this realm.",
+              "evidence": [
+                {
+                  "startUid": "u2681",
+                  "endUid": "u2726"
+                }
+              ]
+            },
+            {
+              "actor": "Mirror Alimash",
+              "kind": "turn",
+              "summary": "Throws a spear at Wellby for 15 damage and attempts to close. Shoal’s interception stops him. Throws another spear for 8 damage (halved by Uncanny Dodge); cannot stab Shoal at ten feet. Uses Second Wind to heal 11. The DM then clarifies he still has another spear.",
+              "evidence": [
+                {
+                  "startUid": "u2727",
+                  "endUid": "u2761"
+                },
+                {
+                  "startUid": "u2771",
+                  "endUid": "u2776"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "reaction",
+              "summary": "Hits mirror Alimash as he enters reach, dealing 17 damage and stopping his movement five feet away from Shoal.",
+              "evidence": [
+                {
+                  "startUid": "u2739",
+                  "endUid": "u2746"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge to halve the second thrown spear’s 8 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2750",
+                  "endUid": "u2752"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "turn",
+              "summary": "Attempts to grapple mirror Alimash twice with advantage on Athletics. The first fails; the second wins with 22, reducing the duplicate’s speed to zero.",
+              "evidence": [
+                {
+                  "startUid": "u2762",
+                  "endUid": "u2777"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Acrobatics against the duplicate’s Athletics to tie him up. Mirror Alimash becomes restrained, with disadvantage on attacks, but retains a spear.",
+              "evidence": [
+                {
+                  "startUid": "u2778",
+                  "endUid": "u2787"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "turn",
+              "summary": "Hums The Lost Lads of Tollen; the downstairs wizard recognizes it. Immediately attacks the other wizard, using his own unused Action Surge for four hits against AC 12. The duplicate bursts into mist and the real Arryn begins emerging from the silver pool in the real world.",
+              "evidence": [
+                {
+                  "startUid": "u2788",
+                  "endUid": "u2812"
+                }
+              ]
+            },
+            {
+              "actor": "Mirror Alimash",
+              "kind": "turn",
+              "summary": "Attacks Wellby twice while restrained, both at disadvantage. First hit is a Disarming Attack: damage is corrected from 19 to 17 because this spear is not the frost spear, and Wellby’s bow is knocked away after the Strength save. The second hit still lands after Runic Shield forces a reroll, dealing 11.",
+              "evidence": [
+                {
+                  "startUid": "u2815",
+                  "endUid": "u2834"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge on the first spear hit; halves the corrected 17 damage rather than the superseded 19.",
+              "evidence": [
+                {
+                  "startUid": "u2820",
+                  "endUid": "u2825"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "reaction",
+              "summary": "Uses Runic Shield to force a reroll of the second spear hit; it still hits for 11 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2828",
+                  "endUid": "u2832"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "turn",
+              "summary": "Attacks the restrained duplicate with advantage. The DM corrects the initially narrated attack sequence: the first hit alone kills his remaining 17 hit points, so the later proposed attacks do not become additional resolved attacks.",
+              "evidence": [
+                {
+                  "startUid": "u2835",
+                  "endUid": "u2837"
+                }
+              ]
+            },
+            {
+              "actor": "Arryn and Alimash",
+              "kind": "event",
+              "summary": "Mirror Alimash bursts into reflective snow; both rescued originals step out of the silver pool.",
+              "evidence": [
+                {
+                  "startUid": "u2838",
+                  "endUid": "u2843"
+                }
+              ]
+            },
+            {
+              "actor": "Arryn",
+              "kind": "event",
+              "summary": "Uses powdered silver and arcane words as soon as Alimash emerges. The portal folds into an opaque ball, ending the mirror connection; thanks the rescuers and acknowledges his mistake.",
+              "evidence": [
+                {
+                  "startUid": "u2844",
+                  "endUid": "u2851"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The false Arryn and mirror Alimash are destroyed. Arryn and Alimash return to the real world; Arryn closes the portal and thanks the party.",
+        "evidence": [
+          {
+            "startUid": "u2838",
+            "endUid": "u2851"
+          }
+        ]
+      }
+    }
+  ]
+}
