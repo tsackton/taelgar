@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "lost-in-the-feywild-002",
+    "sessionYaml": "_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-session.yaml",
+    "sessionYamlSha256": "a420bc1ce3988650f5877a6ed94657ee6f1567488ff3a814c6566f07b39b23be",
+    "transcriptPath": "_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-transcript.md",
+    "transcriptSha256": "4cc894186e1900786cd25bc437fb6cf02dc070244ff71ee821da0211281f0b9d"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0014"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0015",
+        "endUid": "u0065"
+      },
+      "category": "session_framing",
+      "note": "Opening recap ends at the closed door; the DM explicitly resumes active play in the tunnel at u0066."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0066",
+        "endUid": "u0774"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0775",
+        "endUid": "u0826"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0827",
+        "endUid": "u2299"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2300",
+        "endUid": "u2311"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2312",
+        "endUid": "u2336"
+      },
+      "category": "gameplay",
+      "note": "The closing hook and accepted owl-follow instruction advance play; the brief sign-off within this span does not end it."
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2337",
+        "endUid": "u2383"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2384",
+        "endUid": "u2384"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

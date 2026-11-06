@@ -1,0 +1,104 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-session.yaml",
+  "source": {
+    "path": "_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-time-markers.json",
+    "sha256": "f94a773210bb9545596e063dd19b1ebcf07082515e18a01af299e00154249621"
+  },
+  "transcript": {
+    "path": "_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-transcript.md",
+    "sha256": "4cc894186e1900786cd25bc437fb6cf02dc070244ff71ee821da0211281f0b9d"
+  },
+  "dateAssessment": "Working date: **October 5, 1740**, from session YAML only. No calendar date is spoken. The time extraction is **compatible**, not independently matched: the before-dawn Material Plane departure is recalled at the handoff, while Feywild twilight stays fixed. Narrated travel and brief waits establish elapsed time; the ending party and the clock’s zero supply local anchors without a civil-day conversion. No completed rest or overnight is narrated. The halflings’ reported day and the rakshasa’s history do not extend the party’s played interval.",
+  "watches": [
+    {
+      "day": "October 5, 1740",
+      "startDate": "1740-10-05",
+      "endDate": "1740-10-05",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "adventure",
+      "scope": "Material Plane departure",
+      "summary": "The opening recalls a before-dawn departure; active play resumes immediately inside the tunnel.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "October 5, 1740",
+      "startDate": "1740-10-05",
+      "endDate": "1740-10-05",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "adventure",
+      "scope": "Root crossing",
+      "summary": "The climb takes an unspecified amount of time before emergence.",
+      "markers": [
+        "t02"
+      ]
+    },
+    {
+      "day": "October 5, 1740",
+      "startDate": "1740-10-05",
+      "endDate": "1740-10-05",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "scope": "Feywild road",
+      "summary": "Sunset estimates persist; ten minutes, then a couple; at the gate, at least an hour has passed.",
+      "markers": [
+        "t03",
+        "t04",
+        "t05",
+        "t06",
+        "t07"
+      ]
+    },
+    {
+      "day": "October 5, 1740",
+      "startDate": "1740-10-05",
+      "endDate": "1740-10-05",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "scope": "Estate’s repeating moment",
+      "summary": "The same farewell moment recurs with variations, without measurable advancement of the party’s local cycle.",
+      "markers": [
+        "t08"
+      ]
+    },
+    {
+      "day": "October 5, 1740",
+      "startDate": "1740-10-05",
+      "endDate": "1740-10-05",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "scope": "Separately narrated brief intervals",
+      "summary": "Kaito and Ayveen wait about a minute; Tarek rummages about a minute.",
+      "markers": [
+        "t09",
+        "t10"
+      ]
+    },
+    {
+      "day": "October 5, 1740",
+      "startDate": "1740-10-05",
+      "endDate": "1740-10-05",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "scope": "Manor clock",
+      "summary": "Edric’s search coincides with the zero chime; no civil clock or day transition is established.",
+      "markers": [
+        "t11"
+      ]
+    }
+  ]
+}

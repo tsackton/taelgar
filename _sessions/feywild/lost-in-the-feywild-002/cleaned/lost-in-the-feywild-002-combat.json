@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "lost-in-the-feywild-002",
+    "sessionYaml": "_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-session.yaml",
+    "sessionYamlSha256": "a420bc1ce3988650f5877a6ed94657ee6f1567488ff3a814c6566f07b39b23be",
+    "transcriptPath": "_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-transcript.md",
+    "transcriptSha256": "4cc894186e1900786cd25bc437fb6cf02dc070244ff71ee821da0211281f0b9d",
+    "segments": {
+      "path": "_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-segments.json",
+      "sha256": "935492e308504fab4cb87b12c836c3207b3004a597bc9b7ac826b6be27e25203",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": []
+}

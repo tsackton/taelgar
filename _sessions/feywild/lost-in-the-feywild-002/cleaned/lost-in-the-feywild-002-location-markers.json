@@ -1,0 +1,1430 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "lost-in-the-feywild-002",
+    "sessionYaml": "_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-session.yaml",
+    "sessionYamlSha256": "a420bc1ce3988650f5877a6ed94657ee6f1567488ff3a814c6566f07b39b23be",
+    "transcriptPath": "_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-transcript.md",
+    "transcriptSha256": "4cc894186e1900786cd25bc437fb6cf02dc070244ff71ee821da0211281f0b9d"
+  },
+  "places": {
+    "p01": {
+      "label": "Hollow root tunnel",
+      "kind": "planar passage",
+      "evidence": [
+        {
+          "startUid": "u0066",
+          "endUid": "u0072",
+          "quote": "DM: We open in this moment, illuminated by a couple of light spells, I think, as the five of you are crawling single file through this tunnel, barely bigger, barely bigger than you, making your way towards who knows what."
+        },
+        {
+          "startUid": "u0137",
+          "endUid": "u0145",
+          "quote": "DM: As you make the root pun, and I assume have continued sort of inching your way along this tunnel as you've been talking, you realize that the texture of the thing you're crawling through has changed slightly, and it's less woody or fibrous and more… almost, like, coral-like. Harder, but smooth, with… rough, irregular sort of edges to it, almost like, what, like the…"
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Dandelion Root Portal.md",
+      "note": "Tunnel component of the vault’s Dandelion Root Portal."
+    },
+    "p02": {
+      "label": "Lightless bone-root room",
+      "kind": "underground chamber",
+      "evidence": [
+        {
+          "startUid": "u0158",
+          "endUid": "u0162",
+          "quote": "DM: You're coming to the end of the tunnel, and it opens out into a small, lightless room, almost like an echo of the one you left on the far side, except that instead of being covered on all sides, sort of like a womb of roots all around you, it's like a… a pocket of, all… fossilized, like bones. The roots aren't living, and they're not exactly… it's not like a fossilized tree. It's like, pale, white ivory, and bone-like. There's an exit on the far side that mirrors just where the… stairs you came down on the other end of the tunnel were."
+        },
+        {
+          "startUid": "u0172",
+          "endUid": "u0177",
+          "quote": "Kaito Min: Are we now in that antechamber room on the other side? Yeah, yeah. I'm sorry, does this, like, feel like a mirror of the other room, or is it just…"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0158",
+              "endUid": "u0162",
+              "quote": "DM: You're coming to the end of the tunnel, and it opens out into a small, lightless room, almost like an echo of the one you left on the far side, except that instead of being covered on all sides, sort of like a womb of roots all around you, it's like a… a pocket of, all… fossilized, like bones. The roots aren't living, and they're not exactly… it's not like a fossilized tree. It's like, pale, white ivory, and bone-like. There's an exit on the far side that mirrors just where the… stairs you came down on the other end of the tunnel were."
+            }
+          ]
+        },
+        {
+          "relation": "below",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0193",
+              "endUid": "u0201",
+              "quote": "DM: The stairs and the passage that you take up and out look more natural than man-made, or look maybe like someone has sort of hewn the stairs into this— this substrate, this sort of… network of bone-like roots. You go up for some time at… But it's definitely not as deep as it was on the other end, and you can see light above you, this pale blue twilight, and emerging from this passageway, you find yourself standing. Tim, will you put the next, background in for us?"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Ruined root house",
+      "kind": "ruined crossing site",
+      "evidence": [
+        {
+          "startUid": "u0193",
+          "endUid": "u0208",
+          "quote": "DM: The stairs and the passage that you take up and out look more natural than man-made, or look maybe like someone has sort of hewn the stairs into this— this substrate, this sort of… network of bone-like roots. You go up for some time at… But it's definitely not as deep as it was on the other end, and you can see light above you, this pale blue twilight, and emerging from this passageway, you find yourself standing. Tim, will you put the next, background in for us?"
+        }
+      ],
+      "note": "The ruined Feywild house is distinct from Dandelion House in the Material Plane and from the illuminated manor ahead. Dandelion Root Portal identifies the crossing, not a shared building identity.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u1052",
+              "endUid": "u1061",
+              "quote": "DM: In the Twilight Kingdom, there are a dozen dozen houses, homes, and holes, with the setting sun just over the horizon."
+            },
+            {
+              "startUid": "u2061",
+              "endUid": "u2069",
+              "quote": "DM: I came to the Twilight Kingdom, to the dozen dozen houses… because there are certain things you can only find in Twilight. Things that have been lost and can't be found again? Places that can never be returned to, and I… in my younger days, got obsessive about that sort of a time, that moment, the moment all of the past has ended, but before the future's begun yet, the moment when things are beginning… but haven't yet begun. I got, you might say, obsessive over this, and decided… I would spend a day traveling the Twilight Kingdoms."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Roadside rise at the first body",
+      "kind": "roadside",
+      "evidence": [
+        {
+          "startUid": "u0394",
+          "endUid": "u0413",
+          "quote": "DM: You see… I… just up ahead, maybe… 10 feet off… 15 feet off the side of the road, you see what looks like a… a body on the side of the road."
+        },
+        {
+          "startUid": "u0517",
+          "endUid": "u0528",
+          "quote": "Txarro: Well, Tarek searching the body, can you just describe the terrain slightly? So we're on the side of a road. There's rolling hills. Are we… at the bottom of a valley, on top of a valley?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u1052",
+              "endUid": "u1061",
+              "quote": "DM: In the Twilight Kingdom, there are a dozen dozen houses, homes, and holes, with the setting sun just over the horizon."
+            },
+            {
+              "startUid": "u2061",
+              "endUid": "u2069",
+              "quote": "DM: I came to the Twilight Kingdom, to the dozen dozen houses… because there are certain things you can only find in Twilight. Things that have been lost and can't be found again? Places that can never be returned to, and I… in my younger days, got obsessive about that sort of a time, that moment, the moment all of the past has ended, but before the future's begun yet, the moment when things are beginning… but haven't yet begun. I got, you might say, obsessive over this, and decided… I would spend a day traveling the Twilight Kingdoms."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Road beside the burned pyre",
+      "kind": "road",
+      "evidence": [
+        {
+          "startUid": "u0616",
+          "endUid": "u0623",
+          "quote": "DM: Another 10 minutes down the road, and you notice the smell of something burnt? And looking off, a little ways off the path, maybe 30 feet in, you see a patch of burned grass and ashes where… judging from what remains, it looks like wood was piled up over… someone or somebody, and burned completely. All that's left are a few… probably human-sized bones in the fire. Where's the mirror of the past when you need it? Yeah."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u1052",
+              "endUid": "u1061",
+              "quote": "DM: In the Twilight Kingdom, there are a dozen dozen houses, homes, and holes, with the setting sun just over the horizon."
+            },
+            {
+              "startUid": "u2061",
+              "endUid": "u2069",
+              "quote": "DM: I came to the Twilight Kingdom, to the dozen dozen houses… because there are certain things you can only find in Twilight. Things that have been lost and can't be found again? Places that can never be returned to, and I… in my younger days, got obsessive about that sort of a time, that moment, the moment all of the past has ended, but before the future's begun yet, the moment when things are beginning… but haven't yet begun. I got, you might say, obsessive over this, and decided… I would spend a day traveling the Twilight Kingdoms."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Road at the second headless body",
+      "kind": "roadside",
+      "evidence": [
+        {
+          "startUid": "u0645",
+          "endUid": "u0648",
+          "quote": "DM: The next body that you find is only a couple of minutes down the road. This one also, with two arrows in its back, and the head is entirely missing."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u1052",
+              "endUid": "u1061",
+              "quote": "DM: In the Twilight Kingdom, there are a dozen dozen houses, homes, and holes, with the setting sun just over the horizon."
+            },
+            {
+              "startUid": "u2061",
+              "endUid": "u2069",
+              "quote": "DM: I came to the Twilight Kingdom, to the dozen dozen houses… because there are certain things you can only find in Twilight. Things that have been lost and can't be found again? Places that can never be returned to, and I… in my younger days, got obsessive about that sort of a time, that moment, the moment all of the past has ended, but before the future's begun yet, the moment when things are beginning… but haven't yet begun. I got, you might say, obsessive over this, and decided… I would spend a day traveling the Twilight Kingdoms."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Road along the manor hedge",
+      "kind": "road",
+      "evidence": [
+        {
+          "startUid": "u0708",
+          "endUid": "u0718",
+          "quote": "DM: About a half mile…"
+        },
+        {
+          "startUid": "u0831",
+          "endUid": "u0840",
+          "quote": "Txarro: It's like, this hedgerow that we're walking along? It’s running… parallel to the road?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u1052",
+              "endUid": "u1061",
+              "quote": "DM: In the Twilight Kingdom, there are a dozen dozen houses, homes, and holes, with the setting sun just over the horizon."
+            },
+            {
+              "startUid": "u2061",
+              "endUid": "u2069",
+              "quote": "DM: I came to the Twilight Kingdom, to the dozen dozen houses… because there are certain things you can only find in Twilight. Things that have been lost and can't be found again? Places that can never be returned to, and I… in my younger days, got obsessive about that sort of a time, that moment, the moment all of the past has ended, but before the future's begun yet, the moment when things are beginning… but haven't yet begun. I got, you might say, obsessive over this, and decided… I would spend a day traveling the Twilight Kingdoms."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Silver gate",
+      "kind": "estate entrance",
+      "evidence": [
+        {
+          "startUid": "u0864",
+          "endUid": "u0868",
+          "quote": "DM: So, it sees: Maybe a quarter mile up ahead is a silvery gate with two guards leaning against it of fine-wrought silver metal, wide enough that a carriage or maybe even three horses could pass through at once. Behind it, a broad avenue, a broad lane leads maybe a quarter mile back from the road, maybe even a half mile, to a house that stands at the top of a hill."
+        },
+        {
+          "startUid": "u0985",
+          "endUid": "u0995",
+          "quote": "DM: The guards raise a hand in greeting. But then a look of confusion comes over their face. They're two deeply, deeply wrinkled, sort of elderly men. Pot-bellied… with, you know, the sort of hoods that someone wears that's just, like, the separate hood from the cloak. And they… they look at you with a note of confusion, and then…"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "at_boundary_of",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u0833",
+              "endUid": "u0838",
+              "quote": "DM: Exactly, like a wall on one side of the road, and actually cuts off your… view of the manor beyond, so you've… you've a little bit lost track of how close you are, although you hear the sound of the party getting louder as you get closer."
+            },
+            {
+              "startUid": "u0899",
+              "endUid": "u0900",
+              "quote": "DM: Yeah, exactly, and the gates are open behind them, so they're not, like, guarding… sorry, I should say that, they're guarding, like… Hedgerow? Is that… Yes, that's exactly right. Set into it."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Lawn beside the musicians’ patio",
+      "kind": "lawn",
+      "evidence": [
+        {
+          "startUid": "u1452",
+          "endUid": "u1452",
+          "quote": "DM: You can see… oh, sorry, the halflings are down in one of the… in the lawn near one of the patios."
+        },
+        {
+          "startUid": "u1572",
+          "endUid": "u1583",
+          "quote": "DM: The two halflings, you get the impression, are probably about… half drunk, and they're both sitting on the lawn next to each other, having a sort of a long, slow, argument. The sort of argument with, like, raised voices and sharpness, but a real kind of friendly quality of banter and insult of two people who have been long companions and are arguing as much for fun as for anything else."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u1377",
+              "endUid": "u1381",
+              "quote": "DM: You see the long… actually, Tim, will you put on the next, background for us? You see the long, sloping lawn that leads from the river's edge up to the patios and open doors of a bright and handsome house. You see string lights strung in globes going down the hill as the ground falls away ahead of you. You see, groups: 1s and twos and 4s and fives. You see the signs of a party ending."
+            },
+            {
+              "startUid": "u1452",
+              "endUid": "u1452",
+              "quote": "DM: You can see… oh, sorry, the halflings are down in one of the… in the lawn near one of the patios."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Musicians’ patio",
+      "kind": "patio",
+      "evidence": [
+        {
+          "startUid": "u0875",
+          "endUid": "u0882",
+          "quote": "DM: There are little clumps and clusters of guests here and there, on the patio and on the lawns, and even down by the river. There are a couple of people getting into a rowboat, and apparently, you would guess, saying their farewells as they push off. It seems like a party that's coming apart, or that's breaking up, or that's in the process of ending. There are 3, musicians on one of the patios, playing. It's tough to see inside the house, because it's so bright to the owl's eyes. But there are clearly more people in there, and you know, windows flung open, doors opened. And… I think that's the general sense of it."
+        },
+        {
+          "startUid": "u1475",
+          "endUid": "u1477",
+          "quote": "Kaito Min: Yeah, Schwartz, is there, there were still performers, right, someplace?"
+        },
+        {
+          "startUid": "u1512",
+          "endUid": "u1526",
+          "quote": "Kaito Min: Kaito will saunter over to the musicians. What are they playing?"
+        }
+      ],
+      "note": "Also called a balcony at u1476; the source supports the same performers’ outdoor setting without fixing its architectural level.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u0869",
+              "endUid": "u0882",
+              "quote": "DM: Below the house, these broad lawns fall away towards the river on one side. On the other, and behind it, there's, what look like vineyards, fields of grapes growing tended to, a formal garden with paths made of fine crushed stone, kitchen gardens in long, cultivated rows, that back up. The house itself is roughly the same size as Dandelion House, which is to say quite a large manor, in a couple of different sections. On one side of the house, there are broad, sort of, patios that come out above the lawns that go down to the river."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Ballroom",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1901",
+          "endUid": "u1904",
+          "quote": "DM: So you've come through the house, like, through a big entry ballroom, and then through the library where you saw the guy, and then in this other room, sort of on the back side of the house, that is set up with the bar on one side, and very picked-over food tables on the other. And there's a big double doors in that room that opens out onto yet another patio on the far side of the house. And he's sitting in a chair out there. And he notices you walking into the room with the bar, and gives a little, head nod to you, in recognition."
+        },
+        {
+          "startUid": "u2314",
+          "endUid": "u2336",
+          "quote": "DM: And as you're going through the house looking for this other human, you see, at the far end of the ballroom, in an open door, there is the Lord of the House, the Lord Endless Ending. He's facing you… taller than… the human… in front of him, and he has a face… that you get the impression that the face you see him wearing is not actually what his face is. Like, there's something older, or underneath, or below a kind of a human mask, almost, something wilder, or less contained, or less containable."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u1901",
+              "endUid": "u1904",
+              "quote": "DM: So you've come through the house, like, through a big entry ballroom, and then through the library where you saw the guy, and then in this other room, sort of on the back side of the house, that is set up with the bar on one side, and very picked-over food tables on the other. And there's a big double doors in that room that opens out onto yet another patio on the far side of the house. And he's sitting in a chair out there. And he notices you walking into the room with the bar, and gives a little, head nod to you, in recognition."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Library",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1875",
+          "endUid": "u1877",
+          "quote": "DM: Yes, you see two… obvious… mortals. One of whom is in the library, napping behind a couch, in the space between the couch and the wall. Possibly sleeping it off?"
+        },
+        {
+          "startUid": "u1901",
+          "endUid": "u1904",
+          "quote": "DM: So you've come through the house, like, through a big entry ballroom, and then through the library where you saw the guy, and then in this other room, sort of on the back side of the house, that is set up with the bar on one side, and very picked-over food tables on the other. And there's a big double doors in that room that opens out onto yet another patio on the far side of the house. And he's sitting in a chair out there. And he notices you walking into the room with the bar, and gives a little, head nod to you, in recognition."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u1901",
+              "endUid": "u1904",
+              "quote": "DM: So you've come through the house, like, through a big entry ballroom, and then through the library where you saw the guy, and then in this other room, sort of on the back side of the house, that is set up with the bar on one side, and very picked-over food tables on the other. And there's a big double doors in that room that opens out onto yet another patio on the far side of the house. And he's sitting in a chair out there. And he notices you walking into the room with the bar, and gives a little, head nod to you, in recognition."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Bar and buffet room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1901",
+          "endUid": "u1917",
+          "quote": "DM: So you've come through the house, like, through a big entry ballroom, and then through the library where you saw the guy, and then in this other room, sort of on the back side of the house, that is set up with the bar on one side, and very picked-over food tables on the other. And there's a big double doors in that room that opens out onto yet another patio on the far side of the house. And he's sitting in a chair out there. And he notices you walking into the room with the bar, and gives a little, head nod to you, in recognition."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u1901",
+              "endUid": "u1904",
+              "quote": "DM: So you've come through the house, like, through a big entry ballroom, and then through the library where you saw the guy, and then in this other room, sort of on the back side of the house, that is set up with the bar on one side, and very picked-over food tables on the other. And there's a big double doors in that room that opens out onto yet another patio on the far side of the house. And he's sitting in a chair out there. And he notices you walking into the room with the bar, and gives a little, head nod to you, in recognition."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Back porch beside the bar",
+      "kind": "patio",
+      "evidence": [
+        {
+          "startUid": "u1901",
+          "endUid": "u1904",
+          "quote": "DM: So you've come through the house, like, through a big entry ballroom, and then through the library where you saw the guy, and then in this other room, sort of on the back side of the house, that is set up with the bar on one side, and very picked-over food tables on the other. And there's a big double doors in that room that opens out onto yet another patio on the far side of the house. And he's sitting in a chair out there. And he notices you walking into the room with the bar, and gives a little, head nod to you, in recognition."
+        },
+        {
+          "startUid": "u1924",
+          "endUid": "u1931",
+          "quote": "Ayveen: Walk into the room where he is, and I say, “I hope you don’t mind our… intruding in the quiet of this space.”"
+        },
+        {
+          "startUid": "u2015",
+          "endUid": "u2020",
+          "quote": "DM: And… Ayveen and Edric are in a… back porch of the house, where they've stumbled into a Rakshasa, a giant tiger person, smoking a pipe, who's told them that he has figured out the story of the Lord of the party, the lord of the manor here, and is willing to trade it. First, he tried to get a stay in Kate's, excuse me, in Ayveen's parents' home for a month and a day, but she seemed to decide that was a bad idea, and now he's asking for, the key."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u1901",
+              "endUid": "u1904",
+              "quote": "DM: So you've come through the house, like, through a big entry ballroom, and then through the library where you saw the guy, and then in this other room, sort of on the back side of the house, that is set up with the bar on one side, and very picked-over food tables on the other. And there's a big double doors in that room that opens out onto yet another patio on the far side of the house. And he's sitting in a chair out there. And he notices you walking into the room with the bar, and gives a little, head nod to you, in recognition."
+            }
+          ],
+          "note": "A separate outdoor porch opens through the bar room’s double doors."
+        },
+        {
+          "relation": "within",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u1901",
+              "endUid": "u1904",
+              "quote": "DM: So you've come through the house, like, through a big entry ballroom, and then through the library where you saw the guy, and then in this other room, sort of on the back side of the house, that is set up with the bar on one side, and very picked-over food tables on the other. And there's a big double doors in that room that opens out onto yet another patio on the far side of the house. And he's sitting in a chair out there. And he notices you walking into the room with the bar, and gives a little, head nod to you, in recognition."
+            },
+            {
+              "startUid": "u2290",
+              "endUid": "u2295",
+              "quote": "DM: So, as you came through, you cut through the library… There's, you know, sort of a ballroom, there's… you know, whole… cellars, and a second floor to the house, and more and on. Dining rooms, kitchens… I mean, it's a big… It's a big estate, but the public spaces seem to be… What, bar and buffet? Ballroom? Library? And then all of these outdoor spaces."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Manor house",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0864",
+          "endUid": "u0874",
+          "quote": "DM: So, it sees: Maybe a quarter mile up ahead is a silvery gate with two guards leaning against it of fine-wrought silver metal, wide enough that a carriage or maybe even three horses could pass through at once. Behind it, a broad avenue, a broad lane leads maybe a quarter mile back from the road, maybe even a half mile, to a house that stands at the top of a hill."
+        },
+        {
+          "startUid": "u1901",
+          "endUid": "u1904",
+          "quote": "DM: So you've come through the house, like, through a big entry ballroom, and then through the library where you saw the guy, and then in this other room, sort of on the back side of the house, that is set up with the bar on one side, and very picked-over food tables on the other. And there's a big double doors in that room that opens out onto yet another patio on the far side of the house. And he's sitting in a chair out there. And he notices you walking into the room with the bar, and gives a little, head nod to you, in recognition."
+        },
+        {
+          "startUid": "u2290",
+          "endUid": "u2295",
+          "quote": "DM: So, as you came through, you cut through the library… There's, you know, sort of a ballroom, there's… you know, whole… cellars, and a second floor to the house, and more and on. Dining rooms, kitchens… I mean, it's a big… It's a big estate, but the public spaces seem to be… What, bar and buffet? Ballroom? Library? And then all of these outdoor spaces."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u0833",
+              "endUid": "u0838",
+              "quote": "DM: Exactly, like a wall on one side of the road, and actually cuts off your… view of the manor beyond, so you've… you've a little bit lost track of how close you are, although you hear the sound of the party getting louder as you get closer."
+            },
+            {
+              "startUid": "u2290",
+              "endUid": "u2295",
+              "quote": "DM: So, as you came through, you cut through the library… There's, you know, sort of a ballroom, there's… you know, whole… cellars, and a second floor to the house, and more and on. Dining rooms, kitchens… I mean, it's a big… It's a big estate, but the public spaces seem to be… What, bar and buffet? Ballroom? Library? And then all of these outdoor spaces."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Lord Endless Ending’s estate",
+      "kind": "estate",
+      "evidence": [
+        {
+          "startUid": "u0833",
+          "endUid": "u0838",
+          "quote": "DM: Exactly, like a wall on one side of the road, and actually cuts off your… view of the manor beyond, so you've… you've a little bit lost track of how close you are, although you hear the sound of the party getting louder as you get closer."
+        },
+        {
+          "startUid": "u1377",
+          "endUid": "u1386",
+          "quote": "DM: You see the long… actually, Tim, will you put on the next, background for us? You see the long, sloping lawn that leads from the river's edge up to the patios and open doors of a bright and handsome house. You see string lights strung in globes going down the hill as the ground falls away ahead of you. You see, groups: 1s and twos and 4s and fives. You see the signs of a party ending."
+        },
+        {
+          "startUid": "u2077",
+          "endUid": "u2085",
+          "quote": "DM: The height of the party. The neighbors. The neighbors who lived… one house down the street, at the height of the party, came to the lord of this house, whose name was Lord Revel. Revel Beginning. And they wanted from him sort of a bargain. They wanted an agreement. They wanted him to do something for them: that any mortal who visited the party sooner or later, would be sent through the front door of their house, just up the road."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Lord Endless Ending's Manor.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u1052",
+              "endUid": "u1061",
+              "quote": "DM: In the Twilight Kingdom, there are a dozen dozen houses, homes, and holes, with the setting sun just over the horizon."
+            },
+            {
+              "startUid": "u2061",
+              "endUid": "u2069",
+              "quote": "DM: I came to the Twilight Kingdom, to the dozen dozen houses… because there are certain things you can only find in Twilight. Things that have been lost and can't be found again? Places that can never be returned to, and I… in my younger days, got obsessive about that sort of a time, that moment, the moment all of the past has ended, but before the future's begun yet, the moment when things are beginning… but haven't yet begun. I got, you might say, obsessive over this, and decided… I would spend a day traveling the Twilight Kingdoms."
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Twilight Kingdom",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u1052",
+          "endUid": "u1061",
+          "quote": "DM: In the Twilight Kingdom, there are a dozen dozen houses, homes, and holes, with the setting sun just over the horizon."
+        },
+        {
+          "startUid": "u2061",
+          "endUid": "u2069",
+          "quote": "DM: I came to the Twilight Kingdom, to the dozen dozen houses… because there are certain things you can only find in Twilight. Things that have been lost and can't be found again? Places that can never be returned to, and I… in my younger days, got obsessive about that sort of a time, that moment, the moment all of the past has ended, but before the future's begun yet, the moment when things are beginning… but haven't yet begun. I got, you might say, obsessive over this, and decided… I would spend a day traveling the Twilight Kingdoms."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Twilight Kingdom.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p18",
+          "evidence": [
+            {
+              "startUid": "u0213",
+              "endUid": "u0229",
+              "quote": "Kaito Min: Ugh. Metagame. Like, Kaito, he's an elf, he's been around for a bit, like, would he, would he have a, like, idea that this could be the Feywild? Or… he would, right?"
+            },
+            {
+              "startUid": "u1052",
+              "endUid": "u1053",
+              "quote": "DM: In the Twilight Kingdom, there are a dozen dozen houses, homes, and holes, with the setting sun just over the horizon."
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Feywild",
+      "kind": "plane",
+      "evidence": [
+        {
+          "startUid": "u0213",
+          "endUid": "u0229",
+          "quote": "Kaito Min: Ugh. Metagame. Like, Kaito, he's an elf, he's been around for a bit, like, would he, would he have a, like, idea that this could be the Feywild? Or… he would, right?"
+        },
+        {
+          "startUid": "u0431",
+          "endUid": "u0435",
+          "quote": "Txarro: Can I, like… Like, look around a little bit before anybody disturbs the body, and just try and… I don't know, is there any… signs of exactly how long ago it died? Maybe it's impossible to know, because who knows whether things proceed at the same rate in the Feywild as they do elsewhere, but…"
+        },
+        {
+          "startUid": "u2012",
+          "endUid": "u2014",
+          "quote": "DM: Come into the party. Talked to a couple of extremely drunk halflings that may have been in the Feywild for… hundreds upon hundreds of years."
+        }
+      ],
+      "vaultPath": "Cosmology/Feywild.md"
+    },
+    "p19": {
+      "label": "Burned pyre off the road",
+      "kind": "pyre site",
+      "evidence": [
+        {
+          "startUid": "u0616",
+          "endUid": "u0639",
+          "quote": "DM: Another 10 minutes down the road, and you notice the smell of something burnt? And looking off, a little ways off the path, maybe 30 feet in, you see a patch of burned grass and ashes where… judging from what remains, it looks like wood was piled up over… someone or somebody, and burned completely. All that's left are a few… probably human-sized bones in the fire. Where's the mirror of the past when you need it? Yeah."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0616",
+              "endUid": "u0623",
+              "quote": "looking off, a little ways off the path, maybe 30 feet in, you see a patch of burned grass and ashes"
+            }
+          ]
+        }
+      ]
+    },
+    "p20": {
+      "label": "River below the manor lawns",
+      "kind": "river",
+      "evidence": [
+        {
+          "startUid": "u0869",
+          "endUid": "u0874",
+          "quote": "DM: Below the house, these broad lawns fall away towards the river on one side. On the other, and behind it, there's, what look like vineyards, fields of grapes growing tended to, a formal garden with paths made of fine crushed stone, kitchen gardens in long, cultivated rows, that back up. The house itself is roughly the same size as Dandelion House, which is to say quite a large manor, in a couple of different sections. On one side of the house, there are broad, sort of, patios that come out above the lawns that go down to the river."
+        },
+        {
+          "startUid": "u1410",
+          "endUid": "u1432",
+          "quote": "DM: Looking down the hill, you see two people climbing into a rowboat in the river, setting their oars in the oarlocks, getting ready to cast off."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u0869",
+              "endUid": "u0874",
+              "quote": "DM: Below the house, these broad lawns fall away towards the river on one side. On the other, and behind it, there's, what look like vineyards, fields of grapes growing tended to, a formal garden with paths made of fine crushed stone, kitchen gardens in long, cultivated rows, that back up. The house itself is roughly the same size as Dandelion House, which is to say quite a large manor, in a couple of different sections. On one side of the house, there are broad, sort of, patios that come out above the lawns that go down to the river."
+            }
+          ]
+        }
+      ]
+    },
+    "p21": {
+      "label": "Path rise beyond the ruined house",
+      "kind": "path",
+      "evidence": [
+        {
+          "startUid": "u0314",
+          "endUid": "u0317",
+          "quote": "DM: Just as you begin to leave the house behind you, the path goes up a slight rise, and standing at the top, you can see in the distance maybe a couple of miles down the road, lights and a little bit of sound of some sort of a celebration or gathering at a large house, brightly illuminated in the distance."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u1052",
+              "endUid": "u1061",
+              "quote": "DM: In the Twilight Kingdom, there are a dozen dozen houses, homes, and holes, with the setting sun just over the horizon."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0066",
+        "endUid": "u0072"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The session resumes with all five PCs crawling in the narrow root tunnel beyond the closed door.",
+      "evidence": [
+        {
+          "startUid": "u0066",
+          "endUid": "u0072",
+          "quote": "DM: We open in this moment, illuminated by a couple of light spells, I think, as the five of you are crawling single file through this tunnel, barely bigger, barely bigger than you, making your way towards who knows what."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0137",
+        "endUid": "u0177"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Crawl through the changing root/coral tunnel into the lightless bone-root room.",
+      "evidence": [
+        {
+          "startUid": "u0137",
+          "endUid": "u0145",
+          "quote": "DM: As you make the root pun, and I assume have continued sort of inching your way along this tunnel as you've been talking, you realize that the texture of the thing you're crawling through has changed slightly, and it's less woody or fibrous and more… almost, like, coral-like. Harder, but smooth, with… rough, irregular sort of edges to it, almost like, what, like the…"
+        },
+        {
+          "startUid": "u0158",
+          "endUid": "u0162",
+          "quote": "DM: You're coming to the end of the tunnel, and it opens out into a small, lightless room, almost like an echo of the one you left on the far side, except that instead of being covered on all sides, sort of like a womb of roots all around you, it's like a… a pocket of, all… fossilized, like bones. The roots aren't living, and they're not exactly… it's not like a fossilized tree. It's like, pale, white ivory, and bone-like. There's an exit on the far side that mirrors just where the… stairs you came down on the other end of the tunnel were."
+        },
+        {
+          "startUid": "u0172",
+          "endUid": "u0177",
+          "quote": "Kaito Min: Are we now in that antechamber room on the other side? Yeah, yeah. I'm sorry, does this, like, feel like a mirror of the other room, or is it just…"
+        }
+      ],
+      "from": "p01",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "crawl"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0193",
+        "endUid": "u0208"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Climb out of the bone-root chamber and emerge at the ruined root house on the twilight plain.",
+      "evidence": [
+        {
+          "startUid": "u0193",
+          "endUid": "u0201",
+          "quote": "DM: The stairs and the passage that you take up and out look more natural than man-made, or look maybe like someone has sort of hewn the stairs into this— this substrate, this sort of… network of bone-like roots. You go up for some time at… But it's definitely not as deep as it was on the other end, and you can see light above you, this pale blue twilight, and emerging from this passageway, you find yourself standing. Tim, will you put the next, background in for us?"
+        },
+        {
+          "startUid": "u0202",
+          "endUid": "u0208",
+          "quote": "DM: The sun is over the horizon. It's maybe a half hour past sunset. The light is pale and blue. It's a land of low rolling hills. There's a river that goes by, slowly, calmly, placidly, lower down. The wind blows gently. It's like the first evening of fall, like that first evening where you can just start to feel… just start to feel the… the air, the cold of winter."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l25",
+      "type": "movement",
+      "source": {
+        "startUid": "u0314",
+        "endUid": "u0317"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leave the ruined house along the path and reach a slight rise.",
+      "evidence": [
+        {
+          "startUid": "u0314",
+          "endUid": "u0317",
+          "quote": "DM: Just as you begin to leave the house behind you, the path goes up a slight rise, and standing at the top, you can see in the distance maybe a couple of miles down the road, lights and a little bit of sound of some sort of a celebration or gathering at a large house, brightly illuminated in the distance."
+        }
+      ],
+      "from": "p03",
+      "to": "p21",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0314",
+        "endUid": "u0343"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the path’s rise, see the illuminated manor ahead, with other lights far away.",
+      "evidence": [
+        {
+          "startUid": "u0314",
+          "endUid": "u0317",
+          "quote": "DM: Just as you begin to leave the house behind you, the path goes up a slight rise, and standing at the top, you can see in the distance maybe a couple of miles down the road, lights and a little bit of sound of some sort of a celebration or gathering at a large house, brightly illuminated in the distance."
+        },
+        {
+          "startUid": "u0324",
+          "endUid": "u0336",
+          "quote": "DM: Yep. Sorry, this illuminated… house ahead is… as… Hulda said the… You'll see the manor just ahead. Presumably. Okay. There's no other houses that we can see?"
+        }
+      ],
+      "place": "p16",
+      "mode": "local",
+      "observerPlace": "p21"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0394",
+        "endUid": "u0528"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Proceed to the roadside rise where the first body is investigated; Edric explicitly steps over to it.",
+      "evidence": [
+        {
+          "startUid": "u0394",
+          "endUid": "u0407",
+          "quote": "DM: You see… I… just up ahead, maybe… 10 feet off… 15 feet off the side of the road, you see what looks like a… a body on the side of the road."
+        },
+        {
+          "startUid": "u0517",
+          "endUid": "u0528",
+          "quote": "Txarro: Well, Tarek searching the body, can you just describe the terrain slightly? So we're on the side of a road. There's rolling hills. Are we… at the bottom of a valley, on top of a valley?"
+        }
+      ],
+      "from": "p21",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0616",
+        "endUid": "u0623"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Continue ten minutes down the road to where a burned pyre is noticed off the path.",
+      "evidence": [
+        {
+          "startUid": "u0616",
+          "endUid": "u0623",
+          "quote": "DM: Another 10 minutes down the road, and you notice the smell of something burnt? And looking off, a little ways off the path, maybe 30 feet in, you see a patch of burned grass and ashes where… judging from what remains, it looks like wood was piled up over… someone or somebody, and burned completely. All that's left are a few… probably human-sized bones in the fire. Where's the mirror of the past when you need it? Yeah."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk",
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Narrated road travel."
+      }
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u0616",
+        "endUid": "u0639"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Observe burned human-sized bones at the pyre about thirty feet off the road.",
+      "evidence": [
+        {
+          "startUid": "u0616",
+          "endUid": "u0623",
+          "quote": "DM: Another 10 minutes down the road, and you notice the smell of something burnt? And looking off, a little ways off the path, maybe 30 feet in, you see a patch of burned grass and ashes where… judging from what remains, it looks like wood was piled up over… someone or somebody, and burned completely. All that's left are a few… probably human-sized bones in the fire. Where's the mirror of the past when you need it? Yeah."
+        },
+        {
+          "startUid": "u0628",
+          "endUid": "u0639",
+          "quote": "DM: Yeah, just a few bits of… femur that are… [garbled]."
+        }
+      ],
+      "place": "p19",
+      "mode": "local",
+      "observerPlace": "p05",
+      "note": "Seeing and inspecting the remains does not explicitly establish that every PC left the road."
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0645",
+        "endUid": "u0648"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "A couple more minutes down the road reaches a second arrow-shot, headless body.",
+      "evidence": [
+        {
+          "startUid": "u0645",
+          "endUid": "u0648",
+          "quote": "DM: The next body that you find is only a couple of minutes down the road. This one also, with two arrows in its back, and the head is entirely missing."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk",
+      "duration": {
+        "text": "a couple of minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Narrated road interval."
+      }
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0708",
+        "endUid": "u0840"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Follow the road beside the tall hedge enclosing the manor grounds, drawing nearer to its gate.",
+      "evidence": [
+        {
+          "startUid": "u0708",
+          "endUid": "u0718",
+          "quote": "DM: About a half mile…"
+        },
+        {
+          "startUid": "u0831",
+          "endUid": "u0840",
+          "quote": "Txarro: It's like, this hedgerow that we're walking along? It’s running… parallel to the road?"
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "Earlier estimates of two or three miles to the house are approximate, not measured travel distance or duration."
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u0858",
+        "endUid": "u0984"
+      },
+      "actors": [
+        "Txarro"
+      ],
+      "reading": "Scout the gate, manor and party through the owl’s eyes while remaining outside the hedge.",
+      "evidence": [
+        {
+          "startUid": "u0858",
+          "endUid": "u0882",
+          "quote": "Txarro: So I'm telepathically connected to it as long as it is within 100 feet, that I can see through its eyes and ears. So, the first thing I will do is just… have it fly above the hedgerow. I'm gonna fly about 100 feet, and see what it sees."
+        },
+        {
+          "startUid": "u0913",
+          "endUid": "u0924",
+          "quote": "Txarro: I will send the owl to fly… like, fly by over the manor house. Kind of… we'll stay 120 feet up, or so. You know, try and be… owls are… pretty quiet on the wing. Try and be stealthy, just depending on the darkness. Hard to see against the sky."
+        },
+        {
+          "startUid": "u0965",
+          "endUid": "u0984",
+          "quote": "DM: As you're coming up to the gate, the last thing that you see through the owl's eyes, just before the guards notice you, and sort of stand and… rub their eyes and raise a hand to hail you."
+        }
+      ],
+      "place": "p16",
+      "mode": "remote",
+      "observerPlace": "p07",
+      "observedActors": [
+        "Lord Endless Ending"
+      ],
+      "note": "The owl’s later circuit is described beyond the stated telepathic range; the DM nevertheless narrates the view. This is Txarro’s remote observation, not the party’s arrival at the house."
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u0941",
+        "endUid": "u0995"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "All five approach the gate together and are greeted by the two guards.",
+      "evidence": [
+        {
+          "startUid": "u0941",
+          "endUid": "u0950",
+          "quote": "DM: So you're going up to the gate? Alright. One…"
+        },
+        {
+          "startUid": "u0965",
+          "endUid": "u0995",
+          "quote": "DM: As you're coming up to the gate, the last thing that you see through the owl's eyes, just before the guards notice you, and sort of stand and… rub their eyes and raise a hand to hail you."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1374",
+        "endUid": "u1386"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After the dream toll is accepted, enter the estate’s lawns and open party grounds.",
+      "evidence": [
+        {
+          "startUid": "u1374",
+          "endUid": "u1386",
+          "quote": "DM: They gesture for you to step through the gate. Stop. Flipping through."
+        }
+      ],
+      "from": "p08",
+      "to": "p16",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u1410",
+        "endUid": "u1438"
+      },
+      "actors": [
+        "Edric"
+      ],
+      "reading": "Watch the boat at the river repeatedly fail to cast off.",
+      "evidence": [
+        {
+          "startUid": "u1410",
+          "endUid": "u1438",
+          "quote": "DM: Looking down the hill, you see two people climbing into a rowboat in the river, setting their oars in the oarlocks, getting ready to cast off."
+        }
+      ],
+      "place": "p20",
+      "mode": "local",
+      "observerPlace": "p16"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1453",
+        "endUid": "u1470"
+      },
+      "actors": [
+        "Edric"
+      ],
+      "reading": "Return to the gate, step out onto the road, then immediately come back inside the estate.",
+      "evidence": [
+        {
+          "startUid": "u1453",
+          "endUid": "u1463",
+          "quote": "Edric: We're just gonna walk back over to the guard for a minute, just like… 10 steps back towards them. Not in, like… Sweet. It's okay to leave, right? Like, I'll…"
+        },
+        {
+          "startUid": "u1464",
+          "endUid": "u1470",
+          "quote": "Edric: Yeah. Because those people down there don't seem to have left."
+        }
+      ],
+      "from": "p16",
+      "to": "p16",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Return to the gate.",
+          "place": "p08"
+        },
+        {
+          "reading": "Step onto the road outside the gate; then return through it."
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1471",
+        "endUid": "u1583"
+      },
+      "actors": [
+        "Txarro",
+        "Edric"
+      ],
+      "reading": "Approach the two halflings sitting on the lawn near a patio.",
+      "evidence": [
+        {
+          "startUid": "u1452",
+          "endUid": "u1452",
+          "quote": "DM: You can see… oh, sorry, the halflings are down in one of the… in the lawn near one of the patios."
+        },
+        {
+          "startUid": "u1502",
+          "endUid": "u1503",
+          "quote": "Edric: Edric will walk around, everybody wandering off at a minor moment of panic, and then… tag after Txarro, who seems safer than talking to musicians, which is kind of nerve-wracking."
+        },
+        {
+          "startUid": "u1572",
+          "endUid": "u1583",
+          "quote": "DM: The two halflings, you get the impression, are probably about… half drunk, and they're both sitting on the lawn next to each other, having a sort of a long, slow, argument. The sort of argument with, like, raised voices and sharpness, but a real kind of friendly quality of banter and insult of two people who have been long companions and are arguing as much for fun as for anything else."
+        }
+      ],
+      "from": "p16",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "Ayveen initially proposes the halflings but subsequently goes with Kaito to the musicians; the later explicit buddy assignment governs her placement."
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u1500",
+        "endUid": "u1539"
+      },
+      "actors": [
+        "Kaito Min",
+        "Ayveen"
+      ],
+      "reading": "Go to the musicians’ patio and approach the trio.",
+      "evidence": [
+        {
+          "startUid": "u1500",
+          "endUid": "u1501",
+          "quote": "Kaito Min: Kaito will wander over to the, the instrumentalists. We can do these little vignettes separately, or whatever."
+        },
+        {
+          "startUid": "u1512",
+          "endUid": "u1516",
+          "quote": "Kaito Min: Kaito will saunter over to the musicians. What are they playing?"
+        },
+        {
+          "startUid": "u1532",
+          "endUid": "u1539",
+          "quote": "Kaito Min: Kaito, Kaito will, again, you know, with, with, all of the social graces and etiquette of somebody, of his skill and ability, gets close enough and makes eye contact, so they are all… all of the other players are aware that he is approaching. And also, you know, makes aware of his own, stringed instrument, and is kind of just, you know, kind of… like… showing it, like, but approaching slowly. And then also, you know, kind of just giving a glance and eye contact, sort of, like, asking, like, permission to play with you guys a little bit, just, you know, but again, he's very, you know, he knows to not overstep his bounds, but is also just, like, kind of, you know. You're giving a slight glance over."
+        }
+      ],
+      "from": "p16",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u1725",
+        "endUid": "u1732"
+      },
+      "actors": [
+        "Kaito Min"
+      ],
+      "reading": "Join Txarro and the halflings after the musicians’ exchange.",
+      "evidence": [
+        {
+          "startUid": "u1725",
+          "endUid": "u1732",
+          "quote": "DM: You probably wrapped up with the musicians if you want to wander over this way."
+        }
+      ],
+      "from": "p10",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u1741",
+        "endUid": "u1917"
+      },
+      "actors": [
+        "Edric"
+      ],
+      "reading": "Leave the halflings’ lawn and pass through the ballroom and library to the bar.",
+      "evidence": [
+        {
+          "startUid": "u1741",
+          "endUid": "u1741",
+          "quote": "Edric: I'm gonna go and look for some wine."
+        },
+        {
+          "startUid": "u1874",
+          "endUid": "u1877",
+          "quote": "Ayveen: Have Edric and I run into anyone on our way to find wine?"
+        },
+        {
+          "startUid": "u1901",
+          "endUid": "u1904",
+          "quote": "DM: So you've come through the house, like, through a big entry ballroom, and then through the library where you saw the guy, and then in this other room, sort of on the back side of the house, that is set up with the bar on one side, and very picked-over food tables on the other. And there's a big double doors in that room that opens out onto yet another patio on the far side of the house. And he's sitting in a chair out there. And he notices you walking into the room with the bar, and gives a little, head nod to you, in recognition."
+        },
+        {
+          "startUid": "u1914",
+          "endUid": "u1917",
+          "quote": "DM: The bar is unstaffed. You could certainly go behind and look for what's there."
+        }
+      ],
+      "from": "p09",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Pass through the entry ballroom.",
+          "place": "p11"
+        },
+        {
+          "reading": "Pass through the library; observe a sleeping mortal.",
+          "place": "p12"
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u1743",
+        "endUid": "u1917"
+      },
+      "actors": [
+        "Ayveen"
+      ],
+      "reading": "Accompany Edric through the house to the bar; her intervening route from the musicians is unstated.",
+      "evidence": [
+        {
+          "startUid": "u1743",
+          "endUid": "u1743",
+          "quote": "Ayveen: I'm gonna go with Edric."
+        },
+        {
+          "startUid": "u1874",
+          "endUid": "u1877",
+          "quote": "Ayveen: Have Edric and I run into anyone on our way to find wine?"
+        },
+        {
+          "startUid": "u1901",
+          "endUid": "u1904",
+          "quote": "DM: So you've come through the house, like, through a big entry ballroom, and then through the library where you saw the guy, and then in this other room, sort of on the back side of the house, that is set up with the bar on one side, and very picked-over food tables on the other. And there's a big double doors in that room that opens out onto yet another patio on the far side of the house. And he's sitting in a chair out there. And he notices you walking into the room with the bar, and gives a little, head nod to you, in recognition."
+        },
+        {
+          "startUid": "u1914",
+          "endUid": "u1917",
+          "quote": "DM: The bar is unstaffed. You could certainly go behind and look for what's there."
+        }
+      ],
+      "from": null,
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Pass through the entry ballroom.",
+          "place": "p11"
+        },
+        {
+          "reading": "Pass through the library; observe a sleeping mortal.",
+          "place": "p12"
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u1924",
+        "endUid": "u1931"
+      },
+      "actors": [
+        "Edric",
+        "Ayveen"
+      ],
+      "reading": "Take the proposed detour onto the back porch and sit with the tiger-headed guest.",
+      "evidence": [
+        {
+          "startUid": "u1918",
+          "endUid": "u1931",
+          "quote": "Ayveen: Edric, let's take a detour with that."
+        }
+      ],
+      "from": "p13",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u2031",
+        "endUid": "u2060"
+      },
+      "actors": [
+        "Tarek"
+      ],
+      "reading": "While crossing the house, accept the tiger-headed guest’s invitation and trade three keys on the porch.",
+      "evidence": [
+        {
+          "startUid": "u2015",
+          "endUid": "u2020",
+          "quote": "DM: And… Ayveen and Edric are in a… back porch of the house, where they've stumbled into a Rakshasa, a giant tiger person, smoking a pipe, who's told them that he has figured out the story of the Lord of the party, the lord of the manor here, and is willing to trade it. First, he tried to get a stay in Kate's, excuse me, in Ayveen's parents' home for a month and a day, but she seemed to decide that was a bad idea, and now he's asking for, the key."
+        },
+        {
+          "startUid": "u2031",
+          "endUid": "u2035",
+          "quote": "DM: Tarek, as you… cross through one of the rooms in the manor, he catches your eye and waves you over with an immense tiger paw, says, “Come, come, we were just speaking of you, I believe. Your friends have, made a deal in your name. You have keys on you.”"
+        },
+        {
+          "startUid": "u2052",
+          "endUid": "u2060",
+          "quote": "DM: He… brings his whole face over very close, and takes out a pair of spectacles and puts them on, and looks long and deep at each of the keys. And picks 3 with… no discernible reason that you can tell from any of them. And slips them into his waistcoat pocket. Takes off his spectacles, sits back in his chair, takes a long puff on the pipe that he's smoking from, and says, “Mmm… this is… this is a delicious story. A delicious story.”"
+        }
+      ],
+      "from": null,
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u2154",
+        "endUid": "u2156"
+      },
+      "actors": [
+        "Txarro"
+      ],
+      "reading": "Reach the porch during the last third of the rakshasa’s story.",
+      "evidence": [
+        {
+          "startUid": "u2154",
+          "endUid": "u2156",
+          "quote": "Txarro: How long have you been here? What I'll say is I, like… Me and the halflings stumble up on the last, like, third of that story."
+        },
+        {
+          "startUid": "u2252",
+          "endUid": "u2255",
+          "quote": "DM: Drunk halflings did not make it past the bar. They found a variety of half-empties that they've been hard at work on. In fact, you can't see them, but you can hear them behind the bar, by the… clattering of… glass."
+        }
+      ],
+      "from": "p09",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "The accompanying halflings stop at the bar, as later clarified.",
+          "place": "p13"
+        }
+      ],
+      "note": "The initial statement includes the halflings; u2252–u2255 locates them behind the bar instead. Only Txarro is assigned porch arrival here."
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u2299",
+        "endUid": "u2330"
+      },
+      "actors": [
+        "Edric"
+      ],
+      "reading": "Search the house and reach a view across the ballroom toward the Lord and departing human.",
+      "evidence": [
+        {
+          "startUid": "u2299",
+          "endUid": "u2299",
+          "quote": "Edric: I'm gonna walk around just looking for another human."
+        },
+        {
+          "startUid": "u2314",
+          "endUid": "u2330",
+          "quote": "DM: And as you're going through the house looking for this other human, you see, at the far end of the ballroom, in an open door, there is the Lord of the House, the Lord Endless Ending. He's facing you… taller than… the human… in front of him, and he has a face… that you get the impression that the face you see him wearing is not actually what his face is. Like, there's something older, or underneath, or below a kind of a human mask, almost, something wilder, or less contained, or less containable."
+        }
+      ],
+      "from": "p14",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "The Lord beckons from the far doorway; Edric’s arrival beside the Lord is not established."
+    },
+    {
+      "id": "l24",
+      "type": "movement",
+      "source": {
+        "startUid": "u2332",
+        "endUid": "u2334"
+      },
+      "actors": [
+        "Txarro’s owl familiar"
+      ],
+      "reading": "Send the owl to follow the departing human.",
+      "evidence": [
+        {
+          "startUid": "u2324",
+          "endUid": "u2334",
+          "quote": "DM: You can't hear it, but you see him stoop slightly to whisper a word in the ear of a human, who's come up to him just after the clock stops striking zero. And the human… nods, and straightens, and hurries out the door."
+        }
+      ],
+      "from": null,
+      "to": null,
+      "completion": "underway",
+      "mode": "fly",
+      "note": "No destination or result of the pursuit is given before the session ends."
+    }
+  ]
+}
