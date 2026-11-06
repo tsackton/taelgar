@@ -23,7 +23,7 @@
         "endUid": "u0030"
       },
       "category": "session_framing",
-      "note": "Recap includes the opening location; the newly experienced beacon visions begin at u0031."
+      "note": "Opening recap and setting introduction; newly experienced beacon visions begin at u0031."
     },
     {
       "id": "s003",
@@ -32,7 +32,7 @@
         "endUid": "u0814"
       },
       "category": "gameplay",
-      "note": "Wellby’s escape and the airborne pursuit resolve as freeform hazards and planning, without initiative or a repeated ordered turn cycle."
+      "note": "Wellby’s escape and the airborne pursuit use freeform hazards and active tactical planning, without initiative or a repeated ordered turn cycle."
     },
     {
       "id": "s004",
@@ -54,10 +54,26 @@
       "id": "s006",
       "source": {
         "startUid": "u0862",
+        "endUid": "u0865"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0866",
+        "endUid": "u0993"
+      },
+      "category": "combat",
+      "note": "The ambush begins with the arrow volley. Kenzo explicitly accepts rolling initiative for ki recovery at u0955–u0958; the declared responses resolve as one coordinated cycle before Cloudspinner ends the threat. No numerical order is given."
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0994",
         "endUid": "u1022"
       },
-      "category": "gameplay",
-      "note": "The Prismwell attack resolves through one set of declared responses and Cloudspinner’s intervention. At u0955–u0958 Kenzo invokes initiative-related ki recovery, but no initiative order or repeated turn cycle is established; classified as freeform gameplay."
+      "category": "gameplay"
     },
     {
       "id": "s007",

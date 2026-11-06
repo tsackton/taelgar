@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-time-markers.json",
+    "sha256": "3690efa3099faf9253343259e76811223323ada1bd2fc42e6bf11124f85031f3"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-transcript.md",
+    "sha256": "6f8938494ad2622c5547268e3ced9af0627ad3e43157d97b35d542b72b3448d8"
+  },
+  "dateAssessment": "YAML records June 13–14, 1749. The transcript supplies elapsed intervals but no usable civil date or watch, and does not establish the recorded date transition; the time extraction therefore remains compatible, with incomplete coverage. The row below collects elapsed evidence only. About 100 minutes of lead-group flight is established; the returning ship receives no separate clock anchor. The moon necklace’s two or three weeks and four or five sleeps describe the whole earlier Feywild journey, and changing Feywild light supplies no civil watch.",
+  "watches": [
+    {
+      "day": "Feywild interval (civil date unanchored)",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Flight totals about 100 minutes; separate preparations, the Prismwell glare, and pauses add short intervals without establishing a civil watch.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04",
+        "t05",
+        "t06",
+        "t09",
+        "t07",
+        "t08"
+      ]
+    }
+  ]
+}

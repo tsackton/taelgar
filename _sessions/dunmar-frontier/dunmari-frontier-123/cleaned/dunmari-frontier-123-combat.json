@@ -8,9 +8,151 @@
     "transcriptSha256": "6f8938494ad2622c5547268e3ced9af0627ad3e43157d97b35d542b72b3448d8",
     "segments": {
       "path": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-segments.json",
-      "sha256": "515a881885abf580af7eb658882c3e60d3b0b369ffb52ad0a1815aada843f0b5",
+      "sha256": "5f5595e4caa4d81ecd4923373ec5b104c65dbb8a8cf522c0f6b50d85fa2d641b",
       "schemaVersion": "0.1-transcript-segments-draft"
     }
   },
-  "combats": []
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s010",
+      "encounter": "Attack at the Prismwell",
+      "openingActions": [
+        {
+          "actor": "Unseen archers",
+          "kind": "event",
+          "summary": "Fire three arrows through the cloud wall. Two attack rolls are 17; one arrow bounces off Riswynn’s armor and Kenzo steps aside from another. No damage to a PC is resolved.",
+          "evidence": [
+            {
+              "startUid": "u0866",
+              "endUid": "u0878"
+            }
+          ],
+          "note": "The third arrow’s target and outcome are not established; Seeker is suggested, then described as out of the exposed position."
+        },
+        {
+          "actor": "Shadow creatures",
+          "kind": "event",
+          "summary": "Tendrils of darkness begin pushing through the surrounding cloud wall as the party prepares its response.",
+          "evidence": [
+            {
+              "startUid": "u0879",
+              "endUid": "u0881"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Accepts rolling initiative to recover ki and spends 6 ki to repeat aura sense. Detects three shadow creatures just outside the cloud wall, struggling to push through it, and another ten mounted duskhound/warg enemies about 400 feet away.",
+              "evidence": [
+                {
+                  "startUid": "u0942",
+                  "endUid": "u0971"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Runs 30 feet toward the incoming arrows through flat, featureless mist, then casts her eighth-level Sunburst toward the howling shadow creatures (150-foot range, 60-foot sphere). It hits all three shadows, which howl in pain. The cloud lights up for about a minute; no saving throws or damage totals are resolved.",
+              "evidence": [
+                {
+                  "startUid": "u0910",
+                  "endUid": "u0924"
+                },
+                {
+                  "startUid": "u0959",
+                  "endUid": "u0961"
+                },
+                {
+                  "startUid": "u0972",
+                  "endUid": "u0976"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Summons his insect spirit for an hour, keeping it flying nearby inside the cloud as a reserve rather than sending it outside. Draws his sword and faces the threat; the spirit makes no separate attack.",
+              "evidence": [
+                {
+                  "startUid": "u0928",
+                  "endUid": "u0941"
+                },
+                {
+                  "startUid": "u0959",
+                  "endUid": "u0961"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "event",
+              "summary": "Stays watching Cloudspinner’s prison disappear into the Prismwell while the others face outward.",
+              "evidence": [
+                {
+                  "startUid": "u0959",
+                  "endUid": "u0961"
+                },
+                {
+                  "startUid": "u0977",
+                  "endUid": "u0987"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Fires back through the clouds at disadvantage because he cannot see a target. The arrow flies off into the sky without hitting an established target.",
+              "evidence": [
+                {
+                  "startUid": "u0885",
+                  "endUid": "u0888"
+                },
+                {
+                  "startUid": "u0959",
+                  "endUid": "u0961"
+                },
+                {
+                  "startUid": "u0972",
+                  "endUid": "u0976"
+                }
+              ]
+            },
+            {
+              "actor": "Cloudspinner",
+              "kind": "event",
+              "summary": "Emerges from the Prismwell and holds up her hand to manipulate Riswynn’s Sunburst into an expanding, brightening shell around the whole cloud wall. The encroaching darkness shrivels and burns away; shrieks outside give way to silence. Later confirmation states that the duskhounds were burned to a crisp.",
+              "evidence": [
+                {
+                  "startUid": "u0977",
+                  "endUid": "u0993"
+                },
+                {
+                  "startUid": "u1313",
+                  "endUid": "u1314"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Cloudspinner reaches the rim of the pool as the attackers’ shrieks fall silent and the darkness is burned away, ending the immediate attack. No individual fate is separately given for each flying shadow or warg.",
+        "evidence": [
+          {
+            "startUid": "u0977",
+            "endUid": "u0993"
+          }
+        ]
+      },
+      "note": "Initiative is explicitly accepted at u0955–u0958 during this continuous attack. The source resolves the declared responses together and supplies no numerical order; the single recorded cycle preserves those actions without inventing additional turns."
+    }
+  ]
 }

@@ -8,7 +8,7 @@
     },
     "entityMap": {
       "path": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-entity-map.json",
-      "sha256": "46a1ae9d17e1cbafce1b0a2cb836c051a5ee42fd86c98dc4e0925ef23fad0363"
+      "sha256": "189975d3d00bfa5ec16669e4499fa881c2cb98f7240d62551568029da3830661"
     }
   },
   "interactions": [
@@ -154,7 +154,7 @@
         "DM: Okay, no worries. So the Cloudspinner, in Seeker's telekinesis, floats over the pool and then slowly lowered in. Seeker loses his grip. The crystal prison vanishes for a minute.",
         "",
         "%% u0866:0-33, u0867:0-61, u0868:0-9, u0869:0-19, u0870:0-7, u0871:0-3, u0872:0-61, u0873:0-46, u0874:0-7, u0875:0-22, u0876:0-7, u0877:0-32, u0878:0-115, u0879:0-44, u0880:0-102, u0881:0-23, u0882:0-34, u0883:0-12, u0884:0-98, u0885:0-50, u0886:0-78, u0887:0-12, u0888:0-5, u0889:0-33, u0890:0-33, u0891:0-87, u0892:0-82, u0893:0-149, u0894:0-19, u0895:0-10, u0896:0-36, u0897:0-37, u0898:0-48, u0899:0-88, u0900:0-94, u0901:0-86, u0902:0-75, u0903:0-79, u0904:0-43, u0905:0-61, u0906:0-13, u0907:0-8, u0908:0-17, u0909:0-21, u0910:0-111, u0911:0-59, u0912:0-73, u0913:0-24, u0914:0-24, u0915:0-38, u0916:0-63, u0917:0-77, u0918:0-53, u0919:0-58, u0920:0-22, u0921:0-34, u0922:0-4, u0923:0-57, u0924:0-15, u0925:0-5, u0926:0-55, u0927:0-38, u0928:0-3, u0929:0-64, u0930:0-62, u0931:0-9, u0932:0-17, u0933:0-42, u0934:0-59, u0935:0-44, u0936:0-66, u0937:0-104, u0938:0-5, u0939:0-24, u0940:0-7, u0941:0-87, u0942:0-54, u0943:0-13, u0944:0-66, u0945:0-39, u0946:0-51, u0947:0-62, u0948:0-116, u0949:0-19, u0950:0-48, u0951:0-29, u0952:0-43, u0953:0-33, u0954:0-8, u0955:0-89, u0956:0-4, u0957:0-19, u0958:0-5, u0959:0-174, u0960:0-71, u0961:0-22, u0962:0-98, u0963:0-4, u0964:0-76, u0965:0-31, u0966:0-34, u0967:0-41, u0968:0-51, u0969:0-37, u0970:0-216, u0971:0-5, u0972:0-36, u0973:0-75, u0974:0-106, u0975:0-59, u0976:0-97 %%",
-        "((Arrows, defensive preparations and spell resolution))",
+        "((Prismwell attack and defensive actions))",
         "",
         "%% u0977:0-61, u0978:0-44, u0979:0-80, u0980:0-40, u0981:0-88, u0982:0-119, u0983:0-10, u0984:0-135, u0985:0-92, u0986:0-60, u0987:0-112 %%",
         "DM: But strangely, the light of Riswynn's sunburst does not stop. The clouds keep growing lighter and lighter, and this, like, burst of sunlight that you could see on the other side begins to spread in like a shell around the entire wall of clouds, deepening to a red, and then a sort of almost pinkish purple as it does, and these little tendrils of darkness that were beginning to push their way through the clouds shrivel up and burn away as Seeker—all of you are sort of facing out, looking at the danger behind. Seeker is still looking at this well in the middle, and sort of shouts in surprise as you all turn around to look, and you can see floating from the clouds a woman clothed in a red robe, sparkling, like shimmering red, almost—almost fluffy, like almost like a like a red bathrobe, or something sort of wrapped around or made of of clouds.",
@@ -438,10 +438,13 @@
         }
       ],
       "source": {
-        "startUid": "u1099",
+        "startUid": "u1098",
         "endUid": "u1177"
       },
       "lines": [
+        "%% u1098:0-35 %%",
+        "DM: She turns and she looks at Riswynn.",
+        "",
         "%% u1099:0-36, u1100:0-28 %%",
         "Kenzo: Could she help us destroy the crown? Or do we give her the crown?",
         "",
@@ -513,11 +516,11 @@
       ],
       "reviewContext": {
         "before": [
+          "Kenzo: Remember.",
           "DM: \"And—oh, God!—one does not recover instantly from long imprisonment, but I promise you now, should in the future you ask, a boon that I can grant shall be yours.\"",
           "DM: So, metagame, just to be clear, the hat she gave Wellby is a material component for plane shift. So if you ever want to—specifically for Amberglow. You can now cast plane shift to teleport anywhere in Amberglow, using Wellby's hat.",
           "Kenzo: Also, though, we should still have like a room that's like in Howl's Moving Castle, and you just like flip a bunch of doors and you walk through, and then you're in Amberglow. That would also be nice.",
-          "Delwath: Yep.",
-          "DM: She turns and she looks at Riswynn."
+          "Delwath: Yep."
         ],
         "after": [
           "DM: And the Cloudspinner turns to the rest of you and says, \"And what of you? Where do you go next?\"",
@@ -549,7 +552,7 @@
       ],
       "source": {
         "startUid": "u1218",
-        "endUid": "u1239"
+        "endUid": "u1234"
       },
       "lines": [
         "%% u1218:0-6, u1219:0-41 %%",
@@ -580,10 +583,7 @@
         "DM: Well, giants, of course.",
         "",
         "%% u1234:0-72 %%",
-        "Kenzo: I mean, I asked because we have a giant flagship, but we're not giants.",
-        "",
-        "%% u1235:0-55, u1236:0-63, u1237:0-65, u1238:0-66, u1239:0-26 %%",
-        "DM: \"These days much has changed. The old ways, not the same. I suppose you must return, and I would not ask you to keep your crew in suspense. I do not know long how long you have been gone. And you, now that you have taken this mission,\" turning to Riswynn, \"there won't be much to do.\""
+        "Kenzo: I mean, I asked because we have a giant flagship, but we're not giants."
       ],
       "reviewContext": {
         "before": [
@@ -594,11 +594,11 @@
           "Delwath: Yeah, dash."
         ],
         "after": [
+          "DM: \"These days much has changed. The old ways, not the same. I suppose you must return, and I would not ask you to keep your crew in suspense. I do not know long how long you have been gone. And you, now that you have taken this mission,\" turning to Riswynn, \"there won't be much to do.\"",
           "DM: And then she turns and looks at Valeris, the satyr, who's been hiding behind as many people as possible, trying not to be noticed. \"And what would you do, my fey friend?\"",
           "DM: And he blinks for a few minutes, like, really trying not to speak. \"Do you want the truth? It doesn't actually matter if you want the truth, because that's all that I can give you. I want my old life back. You're strong, you're powerful. I think you owe it to me, right? Like, come on, I—well, actually, no, I didn't. Well, literally, I did basically nothing. These people probably—damn it! Shut up, Valeris! This is not the time.\"",
           "Delwath: He was helpful. You are helpful for us. Do not dismiss your contributions.",
-          "Wellby: Under his breath, Wellby says, 'In what sense, Delwath?'",
-          "Delwath: Diplomatic."
+          "Wellby: Under his breath, Wellby says, 'In what sense, Delwath?'"
         ]
       },
       "review": {
@@ -774,7 +774,7 @@
       ],
       "source": {
         "startUid": "u1289",
-        "endUid": "u1314"
+        "endUid": "u1312"
       },
       "lines": [
         "%% u1289:0-24, u1290:0-93, u1291:0-57, u1292:0-41, u1293:0-72, u1294:0-20, u1295:0-34, u1296:0-45 %%",
@@ -805,13 +805,7 @@
         "DM: I would enjoy that.",
         "",
         "%% u1310:0-80, u1311:0-95, u1312:0-38 %%",
-        "DM: And she begins to walk out from the clouds, and as she walks through the clouds, the Prismwell and the clouds surrounding it vanish, and you're left standing on an empty plain, Valeris having gone with Cloudspinner.",
-        "",
-        "%% u1313:0-24 %%",
-        "Delwath: Are the duskhounds gone?",
-        "",
-        "%% u1314:0-32 %%",
-        "DM: Yes, they are burned to a crisp."
+        "DM: And she begins to walk out from the clouds, and as she walks through the clouds, the Prismwell and the clouds surrounding it vanish, and you're left standing on an empty plain, Valeris having gone with Cloudspinner."
       ],
       "reviewContext": {
         "before": [
@@ -822,11 +816,11 @@
           "Wellby: Thank you."
         ],
         "after": [
+          "Delwath: Are the duskhounds gone?",
+          "DM: Yes, they are burned to a crisp.",
           "Delwath: Is Riswynn—are you going off on some quest?",
           "Riswynn: I think that I need to go consult with the People of the Rainbow in the orc city, and see what—I I will not impose on these people my plans, but work with them to create a strategy where we can harness this power for the greater good. But I could stop at Vindristjarna on the way. I don't think I'm gonna—I mean, we're rainbow bridging from here, but—",
-          "Delwath: It's true. Let's return to Vindristjarna.",
-          "Wellby: Yep.",
-          "DM: So you open the Rainbow Bridge, and the portal appears leading you to Vindristjarna. You step across and find yourself floating 40 feet above a desert. The—"
+          "Delwath: It's true. Let's return to Vindristjarna."
         ]
       },
       "review": {
@@ -901,49 +895,26 @@
           "action": "observed"
         },
         {
-          "id": "e022",
-          "role": "cameo",
-          "action": "mentioned"
-        },
-        {
           "id": "e019",
-          "role": "supporting",
+          "role": "cameo",
           "action": "present"
         }
       ],
       "source": {
-        "startUid": "u1343",
+        "startUid": "u1350",
         "endUid": "u1354"
       },
       "lines": [
-        "%% u1343:0-30, u1344:0-23 %%",
-        "DM: Flying over a red stone house. Nobody recognizes this?",
-        "",
-        "%% u1345:0-9 %%",
-        "Delwath: Familiar.",
-        "",
-        "%% u1346:0-30 %%",
-        "Wellby: Was that where the monks were?",
-        "",
-        "%% u1347:0-16 %%",
-        "Kenzo: Avaras and Pava.",
-        "",
-        "%% u1348:0-21 %%",
-        "DM: Pava and Avaras live.",
-        "",
-        "%% u1349:0-5 %%",
-        "Wellby: Yeah.",
-        "",
         "%% u1350:0-46, u1351:0-43, u1352:0-44, u1353:0-52, u1354:0-5 %%",
         "DM: You see, sitting on the ground below you, Amil, Kenzo's apprentice, and Pava in discussion, while Faldrak paces on the deck of the ship, and I think that is where we will pick up next time. Yeah."
       ],
       "reviewContext": {
         "before": [
-          "Delwath: No, don't we fly to the portal? The fey portal?",
-          "Wellby: Yeah. The wine portal.",
-          "Delwath: Yeah. The wine portal.",
-          "Kenzo: You left it by the wine portal? Was that flying over desert, or is that not over a desert?",
-          "Riswynn: But Faldrak can never be counted on to stay anywhere."
+          "Delwath: Familiar.",
+          "Wellby: Was that where the monks were?",
+          "Kenzo: Avaras and Pava.",
+          "DM: Pava and Avaras live.",
+          "Wellby: Yeah."
         ],
         "after": [
           "Kenzo: What are we doing in here?",
