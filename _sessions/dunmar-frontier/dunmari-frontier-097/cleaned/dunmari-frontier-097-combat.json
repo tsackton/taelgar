@@ -1,0 +1,477 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-097",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-097/cleaned/dunmari-frontier-097-session.yaml",
+    "sessionYamlSha256": "e76c10d44b5c9c459ae5c111c33a79443963b5983f15bd662f361aafb3592578",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-097/cleaned/dunmari-frontier-097-transcript.md",
+    "transcriptSha256": "458b71edd5df6df42247804984c6cbb21b8fe8ee2161fa9af64ef3b2bbf18545",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-097/cleaned/dunmari-frontier-097-segments.json",
+      "sha256": "693393e0e9270373c31f0789c2cadb15fb0a75ef0e01502e11d711883302d2a3",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s003",
+      "encounter": "Rhodar von Glauer in the dark corridor and coffin chamber",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim to cancel darkness disadvantage, the Clockwork Amulet for a 22 attack, and two Flaming Bowstring charges. The arrow hits Rhodar for 17 damage without Sneak Attack and grants allies advantage through Ambush Master; it does not actually dispel the darkness.",
+              "evidence": [
+                {
+                  "startUid": "u0283",
+                  "endUid": "u0327"
+                }
+              ]
+            },
+            {
+              "actor": "Rhodar von Glauer",
+              "kind": "event",
+              "summary": "After the arrow hits, splashes the party with a blood-like mark. Dexterity saves are called, but the effect deals no damage.",
+              "evidence": [
+                {
+                  "startUid": "u0329",
+                  "endUid": "u0353"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Advances toward the liquid pool, stops at its edge about 30 feet from Rhodar, and uses Soul Sight: Rhodar is immune to charm, fear, prone, stun, incapacitation and necrotic damage, and resists nonmagical bludgeoning, piercing and slashing. Fist of Planar Power hits after a failed Strength save, deals the stated 60 damage, and pulls Rhodar 20 feet closer. The proposed tattoo activation is unavailable because it was already used. Kenzo steps aside and uses bonus-action Dodge.",
+              "evidence": [
+                {
+                  "startUid": "u0354",
+                  "endUid": "u0472"
+                }
+              ],
+              "note": "The polished damage wording is “60”; no recalculation or silent correction is applied."
+            },
+            {
+              "actor": "Rhodar von Glauer",
+              "kind": "turn",
+              "summary": "Throws shadow spears at Delwath, Kenzo and Riswynn. Delwath is missed; advantage and Dodge cancel for Kenzo. Riswynn takes 11 force damage, is knocked prone and restrained, and then takes 54 damage from two sword hits as Rhodar closes. Kenzo’s apparent 9 force damage and restraint/prone are canceled by his retrospectively resolved Deflect Attack. Delwath succeeds on the Wisdom save against Rhodar’s gaze with advantage. Rhodar fails the DC 13 Constitution save against the bowstring and takes 9 fire damage.",
+              "evidence": [
+                {
+                  "startUid": "u0473",
+                  "endUid": "u0532"
+                },
+                {
+                  "startUid": "u0732",
+                  "endUid": "u0772"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Retroactively deflects the first shadow spear completely, removing its 9 force damage, prone and restrained effects, and spends ki to redirect it at Rhodar. Rhodar succeeds on the Dexterity save with 21 and takes no damage.",
+              "evidence": [
+                {
+                  "startUid": "u0492",
+                  "endUid": "u0499"
+                },
+                {
+                  "startUid": "u0732",
+                  "endUid": "u0772"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts Sunbeam while prone and restrained, angling it away from Delwath. Rhodar fails the Constitution save at disadvantage and takes 23 radiant damage. The sunlight banishes the darkness, though Rhodar can perceive without his eyes and is unaffected by blindness.",
+              "evidence": [
+                {
+                  "startUid": "u0533",
+                  "endUid": "u0592"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts fourth-level Slow; Rhodar succeeds on the Wisdom save without using a legendary resistance. Seeker animates the ladder, which squeezes into the corridor.",
+              "evidence": [
+                {
+                  "startUid": "u0593",
+                  "endUid": "u0650"
+                },
+                {
+                  "startUid": "u0655",
+                  "endUid": "u0677"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Marks Rhodar with Yezali’s Mark of the Hunter and lands three sword attacks for 19, 23 and 27 damage, the third a critical. The proposed smite is withdrawn because the bonus action was already used. The table retrospectively checks the Ambush Master advantage and finds no additional criticals.",
+              "evidence": [
+                {
+                  "startUid": "u0653",
+                  "endUid": "u0711"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and the remaining two Flaming Bowstring charges to hit Rhodar with a 19 attack. Damage is expressed as 3d8 + 4; no resolved numeric total is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u0712",
+                  "endUid": "u0718"
+                }
+              ]
+            },
+            {
+              "actor": "Rhodar von Glauer",
+              "kind": "reaction",
+              "summary": "Burns Wellby with his gaze when the arrow hits. A Wisdom save is called and Wellby takes 9 necrotic damage.",
+              "evidence": [
+                {
+                  "startUid": "u0719",
+                  "endUid": "u0730"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "With the earlier spear effects canceled, closes into melee. Two staff hits deal 13 and 9 damage; three unarmed strikes deal 15, miss, and deal 6 damage. No charm/fear/stun effects can affect Rhodar.",
+              "evidence": [
+                {
+                  "startUid": "u0770",
+                  "endUid": "u0805"
+                }
+              ]
+            },
+            {
+              "actor": "Rhodar von Glauer",
+              "kind": "event",
+              "summary": "Transforms into a huge flaming bat and flies through the group and ladder without provoking opportunity attacks, then stops. Calls DC 20 Dexterity saves. The final adjudication gives Kenzo, Riswynn, Delwath and Seeker 13 fire damage each, and Wellby none through Evasion. Riswynn’s initially announced 27 damage is revised after inspiration; she succeeds on her Constitution concentration save and keeps Sunbeam.",
+              "evidence": [
+                {
+                  "startUid": "u0806",
+                  "endUid": "u0905"
+                }
+              ],
+              "note": "Kenzo rolls 16, below the stated threshold, but is explicitly assigned 13 damage in the final adjudication. No separate fire damage total for the ladder is resolved."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Gives Riswynn Bardic Inspiration on the bat’s Dexterity save. Her d10 result of 6 turns the 15 into a success, reducing the fire damage and granting 6 temporary hit points.",
+              "evidence": [
+                {
+                  "startUid": "u0855",
+                  "endUid": "u0885"
+                },
+                {
+                  "startUid": "u0905",
+                  "endUid": "u0911"
+                }
+              ]
+            },
+            {
+              "actor": "Rhodar von Glauer",
+              "kind": "turn",
+              "summary": "Gazes at Delwath, who again succeeds on the Wisdom save with advantage. Both shadow spears, aimed at Delwath and Wellby, miss. Rhodar retreats just beyond the light and holds his sword ready. Of two DC 13 Constitution saves against the bowstring, he succeeds on one and fails the other, taking 8 fire damage.",
+              "evidence": [
+                {
+                  "startUid": "u0913",
+                  "endUid": "u0944"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Pulls the restraining spear free with a 24 Athletics check, stands and moves a short step behind her allies; crowding prevents moving as far as proposed or safely using Sunbeam. Keeps Sunbeam for its light and casts fourth-level Spiritual Weapon, hitting Rhodar for 19 force damage.",
+              "evidence": [
+                {
+                  "startUid": "u0945",
+                  "endUid": "u1056"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts fifth-level Healing Word on Riswynn for 14 healing and commands the ladder to advance. The table permits swapping the action and bonus-action allocation.",
+              "evidence": [
+                {
+                  "startUid": "u1067",
+                  "endUid": "u1103"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Flies forward under Seeker’s command and reaches attack range. No attack result is resolved in this passage.",
+              "evidence": [
+                {
+                  "startUid": "u1082",
+                  "endUid": "u1103"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Sickening Radiance across the pool area around Rhodar, with its edge leaving the party’s current position clear. Dim green light reveals the coffin; Seeker accepts the risk to the ladder.",
+              "evidence": [
+                {
+                  "startUid": "u1104",
+                  "endUid": "u1147"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and hits Rhodar with a 19 attack for 37 damage, leaving him below roughly one third of his health.",
+              "evidence": [
+                {
+                  "startUid": "u1148",
+                  "endUid": "u1170"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Casts Acid Arrow from about 50 feet away, hitting with 21 for 12 acid damage. A second casting as an extra attack is disallowed. Uses bonus-action Dodge.",
+              "evidence": [
+                {
+                  "startUid": "u1171",
+                  "endUid": "u1211"
+                }
+              ]
+            },
+            {
+              "actor": "Rhodar von Glauer",
+              "kind": "reaction",
+              "summary": "Gazes at Kenzo after Acid Arrow hits. Kenzo fails the Wisdom save with 13 and takes the corrected 13 necrotic damage.",
+              "evidence": [
+                {
+                  "startUid": "u1198",
+                  "endUid": "u1204"
+                }
+              ]
+            },
+            {
+              "actor": "Rhodar von Glauer",
+              "kind": "turn",
+              "summary": "Succeeds on the Constitution save against Sickening Radiance with 20 and against the bowstring fire with 16. Moves within the radiance, throws two spears at Delwath and one at Riswynn, all missing, then gazes at Delwath, who succeeds on the Wisdom save with advantage. Waits with his sword ready for anyone entering melee.",
+              "evidence": [
+                {
+                  "startUid": "u1214",
+                  "endUid": "u1267"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Squeezes past her allies without entering Rhodar’s melee reach. Moves Spiritual Weapon up to 20 feet and hits; its damage total is not spoken. Uses Sunbeam again: Rhodar succeeds on the Constitution save with 20 and takes half of 34, or 17 radiant damage.",
+              "evidence": [
+                {
+                  "startUid": "u1268",
+                  "endUid": "u1314"
+                },
+                {
+                  "startUid": "u1315",
+                  "endUid": "u1324"
+                }
+              ]
+            },
+            {
+              "actor": "Rhodar von Glauer",
+              "kind": "event",
+              "summary": "After Riswynn’s turn, creates a 60-foot area of heavily obscuring dark gray fog and teleports or flies through it, striking Seeker for 27 damage, Delwath for 22, Kenzo for an initial 23 and Riswynn for 25. Dodge cancels attack advantage against Kenzo but the reroll still hits; his deflection then cancels the damage. Riswynn remains standing at 7 hit points and succeeds on her concentration save. The fog is magical but not a spell, so it cannot be Counterspelled.",
+              "evidence": [
+                {
+                  "startUid": "u1315",
+                  "endUid": "u1415"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Uses Deflect Attack against the fog sword strike, reducing 23 damage to zero without reflecting damage.",
+              "evidence": [
+                {
+                  "startUid": "u1353",
+                  "endUid": "u1368"
+                },
+                {
+                  "startUid": "u1386",
+                  "endUid": "u1398"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts sixth-level Dispel Magic and clears the fog, exposing Rhodar around the corner. Commands the ladder to dive-bomb him.",
+              "evidence": [
+                {
+                  "startUid": "u1406",
+                  "endUid": "u1447"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Moves to attack while leaving room for Delwath and Kenzo; its 13 and 15 attacks miss. Fails the Constitution save against Sickening Radiance, takes radiant damage, gains exhaustion (the DM calls this its second level), and glows faintly.",
+              "evidence": [
+                {
+                  "startUid": "u1443",
+                  "endUid": "u1484"
+                }
+              ],
+              "note": "Damage speech includes “maximum”, “43” and “30 s.” without a reliable final numeric total."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Closes with Rhodar and makes three sword attacks: a natural one misses, a hit deals 25 damage, and another hit adds Banishing Smite for a stated 43 damage. Drops concentration on Sickening Radiance. The save is corrected back from Constitution to Charisma; Rhodar succeeds and is not banished. Delwath then describes the combined damage as 67; Rhodar remains badly wounded.",
+              "evidence": [
+                {
+                  "startUid": "u1485",
+                  "endUid": "u1540"
+                }
+              ],
+              "note": "The stated component values (25 and 43) do not match the spoken total of 67; neither is silently normalized."
+            },
+            {
+              "actor": "Rhodar von Glauer",
+              "kind": "reaction",
+              "summary": "Gazes at Delwath, who succeeds on the Wisdom save and takes no damage.",
+              "evidence": [
+                {
+                  "startUid": "u1542",
+                  "endUid": "u1546"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves and shoots without advantage but with Sneak Attack, dealing 37 damage and leaving Rhodar on his last legs.",
+              "evidence": [
+                {
+                  "startUid": "u1547",
+                  "endUid": "u1557"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Closes beside Delwath. A critical staff attack deals 13 damage, a second staff hit deals 7, and an unarmed hit deals 14, reducing Rhodar to a black cloud.",
+              "evidence": [
+                {
+                  "startUid": "u1561",
+                  "endUid": "u1595"
+                }
+              ]
+            },
+            {
+              "actor": "Rhodar von Glauer",
+              "kind": "event",
+              "summary": "As he becomes mist, forces those within 15 feet to make DC 20 Constitution saves. Riswynn succeeds; Seeker is outside the effect. Delwath, Kenzo, Wellby and the ladder fail, take 13 necrotic damage and are confused for the brief six-second resolution. Rhodar’s mist flees to the coffin.",
+              "evidence": [
+                {
+                  "startUid": "u1587",
+                  "endUid": "u1625"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Under confusion, makes one melee attack against Kenzo; 14 misses. The table resolves only a single attack.",
+              "evidence": [
+                {
+                  "startUid": "u1628",
+                  "endUid": "u1639"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo, Wellby and Ladder",
+              "kind": "event",
+              "summary": "Confusion checks produce no forced attacks for Kenzo, Wellby or the ladder; the confusion ends.",
+              "evidence": [
+                {
+                  "startUid": "u1640",
+                  "endUid": "u1663"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Lifts the heavy stone coffin lid after Mage Hand is ruled insufficient.",
+              "evidence": [
+                {
+                  "startUid": "u1678",
+                  "endUid": "u1698"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Turns into a cloud of insects to fly over the surrounding water to the open coffin, then slashes the reforming mist with his radiant sword. A loud crack sounds and Rhodar becomes a dead human body.",
+              "evidence": [
+                {
+                  "startUid": "u1668",
+                  "endUid": "u1706"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Rhodar is permanently destroyed by radiant damage in his opened coffin. His mist becomes a dead human body; looting and the castle collapse follow outside initiative.",
+        "evidence": [
+          {
+            "startUid": "u1697",
+            "endUid": "u1706"
+          }
+        ]
+      }
+    }
+  ]
+}

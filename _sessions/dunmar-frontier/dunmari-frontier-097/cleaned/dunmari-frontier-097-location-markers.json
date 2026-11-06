@@ -1,0 +1,3509 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-097",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-097/cleaned/dunmari-frontier-097-session.yaml",
+    "sessionYamlSha256": "e76c10d44b5c9c459ae5c111c33a79443963b5983f15bd662f361aafb3592578",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-097/cleaned/dunmari-frontier-097-transcript.md",
+    "transcriptSha256": "458b71edd5df6df42247804984c6cbb21b8fe8ee2161fa9af64ef3b2bbf18545"
+  },
+  "places": {
+    "p01": {
+      "label": "castle",
+      "kind": "castle",
+      "evidence": [
+        {
+          "startUid": "u1834",
+          "endUid": "u1838",
+          "quote": "DM: So you're running, you're running down the, the hall, and you come back up into the, the, the room with the organ, which is now cracked, and there's organ pipes falling down. The pews have split. You can see that there's a hole in the ceiling, ceiling, and the walls are beginning to shake."
+        },
+        {
+          "startUid": "u2066",
+          "endUid": "u2071",
+          "quote": "DM: Run through the secret door. It goes straight, like, your, your area sense suggests you're probably moving west outside of the castle itself, and then it turns sharply left, so south, and then you find yourself—"
+        },
+        {
+          "startUid": "u2072",
+          "endUid": "u2072",
+          "quote": "Seeker: But."
+        },
+        {
+          "startUid": "u2073",
+          "endUid": "u2074",
+          "quote": "DM: Against another door."
+        }
+      ],
+      "vaultPath": "Gazetteer/Northern Green Sea/Shadowkeep.md",
+      "note": "The transcript calls Shadowkeep the castle or tower.",
+      "relations": [
+        {
+          "relation": "on",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0007",
+              "endUid": "u0022",
+              "quote": "DM: We begin in the darkness as we catch a glimpse into the mind of Lord Rhodar von Glauer, looking at the sad creatures bumbling in the dark before him in another misguided attempt to take his power, he assumes. Watching them, he thinks back. He can still remember his days among the living. He joined the Eyes of Vedmakov out of a sense of patriotism, he supposes. Misguided, it turned out. In those days the Rodnya Okolov was strong. The eyes and the shield, people said, Okolov and Morozmir, the watchers and the protectors, the heart of the defense of Ursk against the dragons of the North, who are always seeking to reclaim their power, to rise again in another great host, to see another Vimfrost take all the north. He took to the magic of Okolov so easily. Even now the watcher's magic flows through him. Those fool adventurers probably don't realize he's been watching them since they set foot on Drachen's Peak, waiting patiently. They have shown skill and cleverness, though. They'll make good lieutenants. No slow cold death in the snow for them, their minds consumed by Putrid Agnes. The death of servitude in his army is what they deserve and what they'll get."
+            },
+            {
+              "startUid": "u2192",
+              "endUid": "u2192",
+              "quote": "Delwath: Is the mountain stable?"
+            },
+            {
+              "startUid": "u2193",
+              "endUid": "u2195",
+              "quote": "DM: The mountain is—may be stable, although Putrid Agnes seems to have scarpered from the scene. Whether that's a good or a bad sign is not immediately obvious."
+            },
+            {
+              "startUid": "u2274",
+              "endUid": "u2275",
+              "quote": "Delwath: I think we hike right?"
+            },
+            {
+              "startUid": "u2276",
+              "endUid": "u2276",
+              "quote": "Riswynn: Down the mountain to the campsite and rest long enough to get teleported the heck out of here."
+            },
+            {
+              "startUid": "u2277",
+              "endUid": "u2277",
+              "quote": "Seeker: Yeah, if we can sleep, we can teleport."
+            },
+            {
+              "startUid": "u2278",
+              "endUid": "u2287",
+              "quote": "DM: It's, it's mid afternoon now, and it takes you a good 4 h to trek down to somewhere that's sort of comfortable and safe to rest. So the time you reach a safe campground, the sun is setting. It's maybe 7 PM. And you, you know, establish your camp and get settled, and as you think and recall the dangers of the battle in your successful flight from the collapsing tower, you all level up."
+            }
+          ],
+          "note": "The mountain approach and descent identify the setting; no height or exact summit geometry is reconstructed."
+        }
+      ]
+    },
+    "p02": {
+      "label": "Drachen's Peak",
+      "kind": "mountain",
+      "evidence": [
+        {
+          "startUid": "u0007",
+          "endUid": "u0022",
+          "quote": "DM: We begin in the darkness as we catch a glimpse into the mind of Lord Rhodar von Glauer, looking at the sad creatures bumbling in the dark before him in another misguided attempt to take his power, he assumes. Watching them, he thinks back. He can still remember his days among the living. He joined the Eyes of Vedmakov out of a sense of patriotism, he supposes. Misguided, it turned out. In those days the Rodnya Okolov was strong. The eyes and the shield, people said, Okolov and Morozmir, the watchers and the protectors, the heart of the defense of Ursk against the dragons of the North, who are always seeking to reclaim their power, to rise again in another great host, to see another Vimfrost take all the north. He took to the magic of Okolov so easily. Even now the watcher's magic flows through him. Those fool adventurers probably don't realize he's been watching them since they set foot on Drachen's Peak, waiting patiently. They have shown skill and cleverness, though. They'll make good lieutenants. No slow cold death in the snow for them, their minds consumed by Putrid Agnes. The death of servitude in his army is what they deserve and what they'll get."
+        },
+        {
+          "startUid": "u2192",
+          "endUid": "u2192",
+          "quote": "Delwath: Is the mountain stable?"
+        },
+        {
+          "startUid": "u2193",
+          "endUid": "u2195",
+          "quote": "DM: The mountain is—may be stable, although Putrid Agnes seems to have scarpered from the scene. Whether that's a good or a bad sign is not immediately obvious."
+        },
+        {
+          "startUid": "u2274",
+          "endUid": "u2275",
+          "quote": "Delwath: I think we hike right?"
+        },
+        {
+          "startUid": "u2276",
+          "endUid": "u2276",
+          "quote": "Riswynn: Down the mountain to the campsite and rest long enough to get teleported the heck out of here."
+        },
+        {
+          "startUid": "u2277",
+          "endUid": "u2277",
+          "quote": "Seeker: Yeah, if we can sleep, we can teleport."
+        },
+        {
+          "startUid": "u2278",
+          "endUid": "u2287",
+          "quote": "DM: It's, it's mid afternoon now, and it takes you a good 4 h to trek down to somewhere that's sort of comfortable and safe to rest. So the time you reach a safe campground, the sun is setting. It's maybe 7 PM. And you, you know, establish your camp and get settled, and as you think and recall the dangers of the battle in your successful flight from the collapsing tower, you all level up."
+        }
+      ],
+      "vaultPath": "Gazetteer/Northern Green Sea/Drachen Peak.md"
+    },
+    "p03": {
+      "label": "corridor opening onto the pool chamber",
+      "kind": "corridor",
+      "evidence": [
+        {
+          "startUid": "u0090",
+          "endUid": "u0090",
+          "quote": "DM: What order are you coming down the hall, by the way? It's single file."
+        },
+        {
+          "startUid": "u0091",
+          "endUid": "u0093",
+          "quote": "Delwath: Probably, what, Delwath, Kenzo, Riswynn, Seeker, Wellby."
+        },
+        {
+          "startUid": "u0094",
+          "endUid": "u0094",
+          "quote": "Kenzo: Yeah."
+        },
+        {
+          "startUid": "u0095",
+          "endUid": "u0095",
+          "quote": "Wellby: Yeah."
+        },
+        {
+          "startUid": "u0403",
+          "endUid": "u0405",
+          "quote": "DM: You, Kenzo, you sense as you get about, about 25 feet forward, like, there's a, there's a lip here. The ground drops off, and there's, like, a shallow pool of some sort of liquid right in front of you, which I assume you choose not to run into. Or do you run into?"
+        },
+        {
+          "startUid": "u0406",
+          "endUid": "u0406",
+          "quote": "Kenzo: So I'm 35 feet away now."
+        },
+        {
+          "startUid": "u0407",
+          "endUid": "u0407",
+          "quote": "DM: No, you're 25 feet away before you get—you're perceptive and aware enough of your surroundings that as you're running forward—"
+        },
+        {
+          "startUid": "u0408",
+          "endUid": "u0408",
+          "quote": "Kenzo: Oh, no! But."
+        },
+        {
+          "startUid": "u0409",
+          "endUid": "u0409",
+          "quote": "DM: Before you scout."
+        },
+        {
+          "startUid": "u0410",
+          "endUid": "u0410",
+          "quote": "Delwath: Far to the vampire."
+        },
+        {
+          "startUid": "u0411",
+          "endUid": "u0413",
+          "quote": "DM: That—oh, you're 30 feet to the vampire."
+        },
+        {
+          "startUid": "u0414",
+          "endUid": "u0415",
+          "quote": "Kenzo: That's exactly where I want to be. I want to be exactly 30 feet, so as to now, now do a Fist of Planar Power and—"
+        },
+        {
+          "startUid": "u0655",
+          "endUid": "u0655",
+          "quote": "DM: The ladder is—the ladder is big. Where are you? Where is the ladder gonna—it doesn't really fit in the corridor."
+        },
+        {
+          "startUid": "u0656",
+          "endUid": "u0656",
+          "quote": "Wellby: Hi! How high is the corridor?"
+        },
+        {
+          "startUid": "u0657",
+          "endUid": "u0658",
+          "quote": "Seeker: The ladder can be behind us, and—"
+        },
+        {
+          "startUid": "u0659",
+          "endUid": "u0659",
+          "quote": "Delwath: I, Tim, I assume there's walls on both sides?"
+        },
+        {
+          "startUid": "u0660",
+          "endUid": "u0663",
+          "quote": "DM: Yeah, yeah. Yeah. There's space to squeeze past, like. You can't fully block the corridor. It's a little wider than, than your, than your entire—but you can't—yeah, you can, so you can squeeze past."
+        },
+        {
+          "startUid": "u1668",
+          "endUid": "u1670",
+          "quote": "DM: Yeah, where the red side—yeah, the coffin is in, is sat within this water. So there's, like, can you—"
+        },
+        {
+          "startUid": "u1671",
+          "endUid": "u1671",
+          "quote": "Delwath: Stands on top of it. It's not covered by."
+        },
+        {
+          "startUid": "u1672",
+          "endUid": "u1672",
+          "quote": "DM: It's not covered by water."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1787",
+              "endUid": "u1787",
+              "quote": "Kenzo: Don't we also need to pillage this place? Like, there's, like, a fucking shit load of—there's, like, all the treasure and stuff, like diamonds and diamond thing."
+            },
+            {
+              "startUid": "u1788",
+              "endUid": "u1788",
+              "quote": "Wellby: Have we seen anything related to that, that key would conceivably go to?"
+            },
+            {
+              "startUid": "u1789",
+              "endUid": "u1789",
+              "quote": "DM: I mean, you, you, Seeker, slipped under several locked doors as a gaseous cloud."
+            },
+            {
+              "startUid": "u1790",
+              "endUid": "u1790",
+              "quote": "Delwath: There was like a huge tension, but some."
+            },
+            {
+              "startUid": "u1791",
+              "endUid": "u1792",
+              "quote": "Wellby: Is it? It's made of bone. It's a skeleton key."
+            },
+            {
+              "startUid": "u1793",
+              "endUid": "u1796",
+              "quote": "Riswynn: But this whole place is somehow linked to, like, a fiend. So balance the whole pillaging thing with the whole having-to-fight-a-demon thing list, guys."
+            },
+            {
+              "startUid": "u1797",
+              "endUid": "u1797",
+              "quote": "Wellby: Pillage we pillage back on back in the real world right?"
+            },
+            {
+              "startUid": "u1798",
+              "endUid": "u1798",
+              "quote": "Delwath: So I think we get out of here relatively quickly, is the idea."
+            },
+            {
+              "startUid": "u1834",
+              "endUid": "u1838",
+              "quote": "DM: So you're running, you're running down the, the hall, and you come back up into the, the, the room with the organ, which is now cracked, and there's organ pipes falling down. The pews have split. You can see that there's a hole in the ceiling, ceiling, and the walls are beginning to shake."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "coffin in the pool",
+      "kind": "coffin site",
+      "evidence": [
+        {
+          "startUid": "u1668",
+          "endUid": "u1670",
+          "quote": "DM: Yeah, where the red side—yeah, the coffin is in, is sat within this water. So there's, like, can you—"
+        },
+        {
+          "startUid": "u1671",
+          "endUid": "u1671",
+          "quote": "Delwath: Stands on top of it. It's not covered by."
+        },
+        {
+          "startUid": "u1672",
+          "endUid": "u1672",
+          "quote": "DM: It's not covered by water."
+        },
+        {
+          "startUid": "u1697",
+          "endUid": "u1698",
+          "quote": "DM: So Delwath flies over to the now open coffin."
+        },
+        {
+          "startUid": "u1699",
+          "endUid": "u1699",
+          "quote": "Kenzo: Hey, you're muted, by the way, if you've been saying stuff."
+        },
+        {
+          "startUid": "u1700",
+          "endUid": "u1706",
+          "quote": "DM: And stands for a moment and takes his sword, which is flaring with radiant light, and slashes through this black mist. And you hear this loud crack, and the mist falls away, forming into a dead body of a human at your feet."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0403",
+              "endUid": "u0405",
+              "quote": "DM: You, Kenzo, you sense as you get about, about 25 feet forward, like, there's a, there's a lip here. The ground drops off, and there's, like, a shallow pool of some sort of liquid right in front of you, which I assume you choose not to run into. Or do you run into?"
+            },
+            {
+              "startUid": "u0406",
+              "endUid": "u0406",
+              "quote": "Kenzo: So I'm 35 feet away now."
+            },
+            {
+              "startUid": "u0407",
+              "endUid": "u0407",
+              "quote": "DM: No, you're 25 feet away before you get—you're perceptive and aware enough of your surroundings that as you're running forward—"
+            },
+            {
+              "startUid": "u0408",
+              "endUid": "u0408",
+              "quote": "Kenzo: Oh, no! But."
+            },
+            {
+              "startUid": "u0409",
+              "endUid": "u0409",
+              "quote": "DM: Before you scout."
+            },
+            {
+              "startUid": "u0410",
+              "endUid": "u0410",
+              "quote": "Delwath: Far to the vampire."
+            },
+            {
+              "startUid": "u0411",
+              "endUid": "u0413",
+              "quote": "DM: That—oh, you're 30 feet to the vampire."
+            },
+            {
+              "startUid": "u0414",
+              "endUid": "u0415",
+              "quote": "Kenzo: That's exactly where I want to be. I want to be exactly 30 feet, so as to now, now do a Fist of Planar Power and—"
+            },
+            {
+              "startUid": "u1668",
+              "endUid": "u1670",
+              "quote": "DM: Yeah, where the red side—yeah, the coffin is in, is sat within this water. So there's, like, can you—"
+            },
+            {
+              "startUid": "u1671",
+              "endUid": "u1671",
+              "quote": "Delwath: Stands on top of it. It's not covered by."
+            },
+            {
+              "startUid": "u1672",
+              "endUid": "u1672",
+              "quote": "DM: It's not covered by water."
+            },
+            {
+              "startUid": "u1673",
+              "endUid": "u1675",
+              "quote": "Delwath: Down. Delwath will turn into a cloud of bugs and fly to the coffin."
+            },
+            {
+              "startUid": "u1676",
+              "endUid": "u1677",
+              "quote": "DM: Okay. How can I."
+            },
+            {
+              "startUid": "u1678",
+              "endUid": "u1679",
+              "quote": "Delwath: But actually, before I do that, before I do that, how heavy is the lid? Can I Mage Hand it open?"
+            },
+            {
+              "startUid": "u1680",
+              "endUid": "u1681",
+              "quote": "DM: It's 10 feet of solid stone. Definitely cannot Mage Hand it."
+            },
+            {
+              "startUid": "u1682",
+              "endUid": "u1683",
+              "quote": "Delwath: Can we even wait? Wait! Can the ladder open it?"
+            },
+            {
+              "startUid": "u1684",
+              "endUid": "u1684",
+              "quote": "Seeker: The ladder's."
+            },
+            {
+              "startUid": "u1685",
+              "endUid": "u1685",
+              "quote": "DM: Ladder's buff. Yeah, the ladder can."
+            },
+            {
+              "startUid": "u1686",
+              "endUid": "u1686",
+              "quote": "Delwath: Ladder! Open the coffin, please."
+            },
+            {
+              "startUid": "u1687",
+              "endUid": "u1687",
+              "quote": "Seeker: Ladder has a strength of 18."
+            },
+            {
+              "startUid": "u1688",
+              "endUid": "u1688",
+              "quote": "DM: Yeah. The ladder. Okay."
+            },
+            {
+              "startUid": "u1689",
+              "endUid": "u1689",
+              "quote": "Delwath: Then I will—once the ladder lifts the lid, Delwath will turn into a cloud of bugs, cloud of insects, like multiple—"
+            },
+            {
+              "startUid": "u1690",
+              "endUid": "u1690",
+              "quote": "DM: I got it."
+            },
+            {
+              "startUid": "u1691",
+              "endUid": "u1691",
+              "quote": "Delwath: Things, and just fly to the out open coffin and stab the mist with my sword."
+            },
+            {
+              "startUid": "u1692",
+              "endUid": "u1692",
+              "quote": "Kenzo: Quit right."
+            },
+            {
+              "startUid": "u1693",
+              "endUid": "u1693",
+              "quote": "DM: Your sword does radiant damage?"
+            },
+            {
+              "startUid": "u1694",
+              "endUid": "u1694",
+              "quote": "Delwath: Radiant damage."
+            },
+            {
+              "startUid": "u1695",
+              "endUid": "u1695",
+              "quote": "DM: Okay."
+            },
+            {
+              "startUid": "u1696",
+              "endUid": "u1696",
+              "quote": "Kenzo: And in the."
+            },
+            {
+              "startUid": "u1697",
+              "endUid": "u1698",
+              "quote": "DM: So Delwath flies over to the now open coffin."
+            }
+          ],
+          "note": "Reached across the liquid; the coffin stands above its surface."
+        },
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1697",
+              "endUid": "u1698",
+              "quote": "DM: So Delwath flies over to the now open coffin."
+            },
+            {
+              "startUid": "u1699",
+              "endUid": "u1699",
+              "quote": "Kenzo: Hey, you're muted, by the way, if you've been saying stuff."
+            },
+            {
+              "startUid": "u1700",
+              "endUid": "u1706",
+              "quote": "DM: And stands for a moment and takes his sword, which is flaring with radiant light, and slashes through this black mist. And you hear this loud crack, and the mist falls away, forming into a dead body of a human at your feet."
+            },
+            {
+              "startUid": "u1787",
+              "endUid": "u1787",
+              "quote": "Kenzo: Don't we also need to pillage this place? Like, there's, like, a fucking shit load of—there's, like, all the treasure and stuff, like diamonds and diamond thing."
+            },
+            {
+              "startUid": "u1788",
+              "endUid": "u1788",
+              "quote": "Wellby: Have we seen anything related to that, that key would conceivably go to?"
+            },
+            {
+              "startUid": "u1789",
+              "endUid": "u1789",
+              "quote": "DM: I mean, you, you, Seeker, slipped under several locked doors as a gaseous cloud."
+            },
+            {
+              "startUid": "u1790",
+              "endUid": "u1790",
+              "quote": "Delwath: There was like a huge tension, but some."
+            },
+            {
+              "startUid": "u1791",
+              "endUid": "u1792",
+              "quote": "Wellby: Is it? It's made of bone. It's a skeleton key."
+            },
+            {
+              "startUid": "u1793",
+              "endUid": "u1796",
+              "quote": "Riswynn: But this whole place is somehow linked to, like, a fiend. So balance the whole pillaging thing with the whole having-to-fight-a-demon thing list, guys."
+            },
+            {
+              "startUid": "u1797",
+              "endUid": "u1797",
+              "quote": "Wellby: Pillage we pillage back on back in the real world right?"
+            },
+            {
+              "startUid": "u1798",
+              "endUid": "u1798",
+              "quote": "Delwath: So I think we get out of here relatively quickly, is the idea."
+            },
+            {
+              "startUid": "u1834",
+              "endUid": "u1838",
+              "quote": "DM: So you're running, you're running down the, the hall, and you come back up into the, the, the room with the organ, which is now cracked, and there's organ pipes falling down. The pews have split. You can see that there's a hole in the ceiling, ceiling, and the walls are beginning to shake."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "room with the organ",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1834",
+          "endUid": "u1838",
+          "quote": "DM: So you're running, you're running down the, the hall, and you come back up into the, the, the room with the organ, which is now cracked, and there's organ pipes falling down. The pews have split. You can see that there's a hole in the ceiling, ceiling, and the walls are beginning to shake."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1834",
+              "endUid": "u1838",
+              "quote": "DM: So you're running, you're running down the, the hall, and you come back up into the, the, the room with the organ, which is now cracked, and there's organ pipes falling down. The pews have split. You can see that there's a hole in the ceiling, ceiling, and the walls are beginning to shake."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "treasure room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1924",
+          "endUid": "u1924",
+          "quote": "Delwath: This way? Was the treasure right?"
+        },
+        {
+          "startUid": "u1925",
+          "endUid": "u1926",
+          "quote": "DM: The treasure is this way? Okay? So as you open that door with the skeleton key—"
+        },
+        {
+          "startUid": "u1927",
+          "endUid": "u1928",
+          "quote": "Wellby: I am flying over, cause I know there's gonna be like a choppy thing."
+        },
+        {
+          "startUid": "u1969",
+          "endUid": "u1970",
+          "quote": "DM: Palms—Delwath, you step into the treasure room. You see—"
+        },
+        {
+          "startUid": "u1971",
+          "endUid": "u1971",
+          "quote": "Delwath: Wellby, not Delwath."
+        },
+        {
+          "startUid": "u1972",
+          "endUid": "u1972",
+          "quote": "DM: Alright! Wellby."
+        },
+        {
+          "startUid": "u1973",
+          "endUid": "u1973",
+          "quote": "Delwath: Wellby."
+        },
+        {
+          "startUid": "u1974",
+          "endUid": "u1976",
+          "quote": "DM: You see a large pile of coins, probably, I mean, I guess not huge. It's mostly copper, some silver and gold. Floating over the coins is this black mist that you can sense whispering to you."
+        },
+        {
+          "startUid": "u1977",
+          "endUid": "u1977",
+          "quote": "Wellby: Oh, shit."
+        },
+        {
+          "startUid": "u1978",
+          "endUid": "u1980",
+          "quote": "DM: Read about this. \"Breathe me in. Feel my power.\""
+        },
+        {
+          "startUid": "u1981",
+          "endUid": "u1981",
+          "quote": "Wellby: No, thank you."
+        },
+        {
+          "startUid": "u1982",
+          "endUid": "u1988",
+          "quote": "DM: Scattered among—with a quick glance—scattered among the, the coins, you can see 1, 2, 3, 4, 5 potions, and one broken potion bottle where a stone has fallen from the ceiling. There's some 4 suits of full gilded plate armor. There's, like, 50 pounds of gold bars. There's a diamond statue of a dragon, of a—there's a diamond statue out of a dragon, probably about this big."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1924",
+              "endUid": "u1924",
+              "quote": "Delwath: This way? Was the treasure right?"
+            },
+            {
+              "startUid": "u1925",
+              "endUid": "u1926",
+              "quote": "DM: The treasure is this way? Okay? So as you open that door with the skeleton key—"
+            },
+            {
+              "startUid": "u1927",
+              "endUid": "u1928",
+              "quote": "Wellby: I am flying over, cause I know there's gonna be like a choppy thing."
+            },
+            {
+              "startUid": "u1969",
+              "endUid": "u1970",
+              "quote": "DM: Palms—Delwath, you step into the treasure room. You see—"
+            },
+            {
+              "startUid": "u1971",
+              "endUid": "u1971",
+              "quote": "Delwath: Wellby, not Delwath."
+            },
+            {
+              "startUid": "u1972",
+              "endUid": "u1972",
+              "quote": "DM: Alright! Wellby."
+            },
+            {
+              "startUid": "u1973",
+              "endUid": "u1973",
+              "quote": "Delwath: Wellby."
+            },
+            {
+              "startUid": "u1974",
+              "endUid": "u1976",
+              "quote": "DM: You see a large pile of coins, probably, I mean, I guess not huge. It's mostly copper, some silver and gold. Floating over the coins is this black mist that you can sense whispering to you."
+            },
+            {
+              "startUid": "u1977",
+              "endUid": "u1977",
+              "quote": "Wellby: Oh, shit."
+            },
+            {
+              "startUid": "u1978",
+              "endUid": "u1980",
+              "quote": "DM: Read about this. \"Breathe me in. Feel my power.\""
+            },
+            {
+              "startUid": "u1981",
+              "endUid": "u1981",
+              "quote": "Wellby: No, thank you."
+            },
+            {
+              "startUid": "u1982",
+              "endUid": "u1988",
+              "quote": "DM: Scattered among—with a quick glance—scattered among the, the coins, you can see 1, 2, 3, 4, 5 potions, and one broken potion bottle where a stone has fallen from the ceiling. There's some 4 suits of full gilded plate armor. There's, like, 50 pounds of gold bars. There's a diamond statue of a dragon, of a—there's a diamond statue out of a dragon, probably about this big."
+            },
+            {
+              "startUid": "u2066",
+              "endUid": "u2071",
+              "quote": "DM: Run through the secret door. It goes straight, like, your, your area sense suggests you're probably moving west outside of the castle itself, and then it turns sharply left, so south, and then you find yourself—"
+            },
+            {
+              "startUid": "u2072",
+              "endUid": "u2072",
+              "quote": "Seeker: But."
+            },
+            {
+              "startUid": "u2073",
+              "endUid": "u2074",
+              "quote": "DM: Against another door."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "tower room with the poison troll",
+      "kind": "tower room",
+      "evidence": [
+        {
+          "startUid": "u1943",
+          "endUid": "u1949",
+          "quote": "DM: Okay. So he flies. So you open the door, you see the troll in there? It seems to be at—wrestling with something. Hold on, with—there's, like, some strange creature that's, like, perched on top of the troll, and they're fighting, and it's trying to suck its breath."
+        },
+        {
+          "startUid": "u2198",
+          "endUid": "u2198",
+          "quote": "DM: The ladder is attempting to—in the meantime, you can see the, the room with the poison troll seems to have—the tower with the poison troll is sort of completely collapsed, and you can see the poison troll, like, climbing up to the top and just, like, starting to chuck pieces of the tower, like, in all directions."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "at",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2188",
+              "endUid": "u2191",
+              "quote": "DM: Slip through and manage to shut it behind you. The wraiths seem uninterested in leaving the mausoleum. The tower is now almost completely collapsed."
+            },
+            {
+              "startUid": "u2192",
+              "endUid": "u2192",
+              "quote": "Delwath: Is the mountain stable?"
+            },
+            {
+              "startUid": "u2193",
+              "endUid": "u2195",
+              "quote": "DM: The mountain is—may be stable, although Putrid Agnes seems to have scarpered from the scene. Whether that's a good or a bad sign is not immediately obvious."
+            },
+            {
+              "startUid": "u2196",
+              "endUid": "u2196",
+              "quote": "Seeker: Way."
+            },
+            {
+              "startUid": "u2197",
+              "endUid": "u2197",
+              "quote": "Kenzo: Is the ladder getting armor right now?"
+            },
+            {
+              "startUid": "u2198",
+              "endUid": "u2198",
+              "quote": "DM: The ladder is attempting to—in the meantime, you can see the, the room with the poison troll seems to have—the tower with the poison troll is sort of completely collapsed, and you can see the poison troll, like, climbing up to the top and just, like, starting to chuck pieces of the tower, like, in all directions."
+            },
+            {
+              "startUid": "u2199",
+              "endUid": "u2199",
+              "quote": "Kenzo: We will, can, can. We."
+            },
+            {
+              "startUid": "u2200",
+              "endUid": "u2200",
+              "quote": "DM: King Kong esque."
+            },
+            {
+              "startUid": "u2201",
+              "endUid": "u2201",
+              "quote": "Kenzo: Wellby's out now. Can we pull this, pull the mirror out and try to get him back in?"
+            },
+            {
+              "startUid": "u2202",
+              "endUid": "u2202",
+              "quote": "DM: You can try, but remember, it's throwing pieces of rock directly at you."
+            },
+            {
+              "startUid": "u2203",
+              "endUid": "u2203",
+              "quote": "Wellby: I think that was."
+            },
+            {
+              "startUid": "u2204",
+              "endUid": "u2204",
+              "quote": "Delwath: Like. If one of the pieces of rock hits the mirror right, it."
+            },
+            {
+              "startUid": "u2205",
+              "endUid": "u2205",
+              "quote": "DM: Like."
+            },
+            {
+              "startUid": "u2206",
+              "endUid": "u2209",
+              "quote": "Wellby: So I'm, I'm imagining, and I have to switch to phone and jump in the car for a half hour in just a sec, but, like, I'm imagining this scene with, like, Wellby leaning back against the mausoleum door, still unsteady, and the poison troll throwing rocks off the top, and all of us sort of gathered in the front of this building as the ladder lifts out, like, a chain of armor parts."
+            }
+          ],
+          "note": "A tower in the collapsing castle setting; the source does not place it inside the main tower building."
+        }
+      ]
+    },
+    "p08": {
+      "label": "doorway overlooking the poison troll",
+      "kind": "doorway",
+      "evidence": [
+        {
+          "startUid": "u1911",
+          "endUid": "u1911",
+          "quote": "DM: Yeah. Yeah. So who's running? Where?"
+        },
+        {
+          "startUid": "u1912",
+          "endUid": "u1912",
+          "quote": "Kenzo: Blended where the troll used to be."
+        },
+        {
+          "startUid": "u1913",
+          "endUid": "u1913",
+          "quote": "Wellby: Treasure."
+        },
+        {
+          "startUid": "u1914",
+          "endUid": "u1914",
+          "quote": "Seeker: A."
+        },
+        {
+          "startUid": "u1915",
+          "endUid": "u1915",
+          "quote": "DM: Oh, exit! You're on."
+        },
+        {
+          "startUid": "u1916",
+          "endUid": "u1916",
+          "quote": "Seeker: You can all do that."
+        },
+        {
+          "startUid": "u1917",
+          "endUid": "u1918",
+          "quote": "DM: Map, right right."
+        },
+        {
+          "startUid": "u1919",
+          "endUid": "u1919",
+          "quote": "Delwath: Yeah."
+        },
+        {
+          "startUid": "u1920",
+          "endUid": "u1920",
+          "quote": "Riswynn: Map."
+        },
+        {
+          "startUid": "u1921",
+          "endUid": "u1921",
+          "quote": "DM: Okay. So I just run to where you want to run."
+        },
+        {
+          "startUid": "u1922",
+          "endUid": "u1922",
+          "quote": "Seeker: Sure."
+        },
+        {
+          "startUid": "u1923",
+          "endUid": "u1923",
+          "quote": "DM: Be able to open the doors."
+        },
+        {
+          "startUid": "u1930",
+          "endUid": "u1930",
+          "quote": "Kenzo: Wait, Tim, is the troll here? The troll's behind that door, or do we see the troll?"
+        },
+        {
+          "startUid": "u1931",
+          "endUid": "u1931",
+          "quote": "Seeker: Oh, yeah, it goes over to the right."
+        },
+        {
+          "startUid": "u1932",
+          "endUid": "u1932",
+          "quote": "Riswynn: The trolls on the other side, from the from the."
+        },
+        {
+          "startUid": "u1933",
+          "endUid": "u1933",
+          "quote": "DM: Wellby inspired, robbed."
+        },
+        {
+          "startUid": "u1934",
+          "endUid": "u1934",
+          "quote": "Wellby: Inspire me."
+        },
+        {
+          "startUid": "u1935",
+          "endUid": "u1935",
+          "quote": "Seeker: Inspiration."
+        },
+        {
+          "startUid": "u1936",
+          "endUid": "u1936",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u1937",
+          "endUid": "u1937",
+          "quote": "Kenzo: And."
+        },
+        {
+          "startUid": "u1938",
+          "endUid": "u1938",
+          "quote": "DM: Yeah. Wellby is not grabbed."
+        },
+        {
+          "startUid": "u1939",
+          "endUid": "u1939",
+          "quote": "Seeker: A."
+        },
+        {
+          "startUid": "u1940",
+          "endUid": "u1941",
+          "quote": "DM: By a black hand of devil ichor"
+        },
+        {
+          "startUid": "u1942",
+          "endUid": "u1942",
+          "quote": "Seeker: Oh, right!"
+        },
+        {
+          "startUid": "u1943",
+          "endUid": "u1949",
+          "quote": "DM: Okay. So he flies. So you open the door, you see the troll in there? It seems to be at—wrestling with something. Hold on, with—there's, like, some strange creature that's, like, perched on top of the troll, and they're fighting, and it's trying to suck its breath."
+        },
+        {
+          "startUid": "u1964",
+          "endUid": "u1965",
+          "quote": "Riswynn: I mean, Kenzo was scouting. Delwath and I were leaving."
+        },
+        {
+          "startUid": "u1966",
+          "endUid": "u1966",
+          "quote": "Kenzo: Is, the is, the is—is the whole thing collapsing around us right now? Or is this serious?"
+        },
+        {
+          "startUid": "u1967",
+          "endUid": "u1967",
+          "quote": "DM: Oh, yeah, it's collapsing quite rapidly, and it increasing."
+        },
+        {
+          "startUid": "u1968",
+          "endUid": "u1968",
+          "quote": "Kenzo: Alright! Alright! Alright! Get out of here! Fine!"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "at_entrance_to",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1943",
+              "endUid": "u1949",
+              "quote": "DM: Okay. So he flies. So you open the door, you see the troll in there? It seems to be at—wrestling with something. Hold on, with—there's, like, some strange creature that's, like, perched on top of the troll, and they're fighting, and it's trying to suck its breath."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "mausoleum",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u2066",
+          "endUid": "u2071",
+          "quote": "DM: Run through the secret door. It goes straight, like, your, your area sense suggests you're probably moving west outside of the castle itself, and then it turns sharply left, so south, and then you find yourself—"
+        },
+        {
+          "startUid": "u2072",
+          "endUid": "u2072",
+          "quote": "Seeker: But."
+        },
+        {
+          "startUid": "u2073",
+          "endUid": "u2074",
+          "quote": "DM: Against another door."
+        },
+        {
+          "startUid": "u2075",
+          "endUid": "u2077",
+          "quote": "Wellby: Let's find out what's—I'll relay telepathically, incidentally, I found a door and I went down hall, and I'm—I have poor reception."
+        },
+        {
+          "startUid": "u2078",
+          "endUid": "u2078",
+          "quote": "Seeker: Next arc of 5 sessions is just rescuing Wellby."
+        },
+        {
+          "startUid": "u2079",
+          "endUid": "u2080",
+          "quote": "DM: So you, yeah, you gradually push open."
+        },
+        {
+          "startUid": "u2081",
+          "endUid": "u2081",
+          "quote": "Wellby: Cautiously, thoughtfully, appropriate."
+        },
+        {
+          "startUid": "u2082",
+          "endUid": "u2082",
+          "quote": "Seeker: Excuse me."
+        },
+        {
+          "startUid": "u2083",
+          "endUid": "u2083",
+          "quote": "Wellby: Murder on the other side."
+        },
+        {
+          "startUid": "u2084",
+          "endUid": "u2084",
+          "quote": "DM: You are inside the mausoleum."
+        },
+        {
+          "startUid": "u2085",
+          "endUid": "u2085",
+          "quote": "Seeker: Are."
+        },
+        {
+          "startUid": "u2086",
+          "endUid": "u2086",
+          "quote": "Wellby: Oh, that's probably not great."
+        },
+        {
+          "startUid": "u2087",
+          "endUid": "u2087",
+          "quote": "DM: You see 3 wraiths."
+        },
+        {
+          "startUid": "u2088",
+          "endUid": "u2088",
+          "quote": "Seeker: The wraith."
+        },
+        {
+          "startUid": "u2089",
+          "endUid": "u2089",
+          "quote": "DM: Beginning to move towards you."
+        },
+        {
+          "startUid": "u2182",
+          "endUid": "u2186",
+          "quote": "DM: Move. So you basically don't get your bonus action, but that's fine. You still have enough speed. But you come to the door and struggle for a moment to open the door with the wraiths closing in behind you. Push the door open."
+        },
+        {
+          "startUid": "u2187",
+          "endUid": "u2187",
+          "quote": "Wellby: I'm just gonna say, that's bad fire safety to lock from the inside for an exit."
+        },
+        {
+          "startUid": "u2188",
+          "endUid": "u2191",
+          "quote": "DM: Slip through and manage to shut it behind you. The wraiths seem uninterested in leaving the mausoleum. The tower is now almost completely collapsed."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2066",
+              "endUid": "u2071",
+              "quote": "DM: Run through the secret door. It goes straight, like, your, your area sense suggests you're probably moving west outside of the castle itself, and then it turns sharply left, so south, and then you find yourself—"
+            },
+            {
+              "startUid": "u2072",
+              "endUid": "u2072",
+              "quote": "Seeker: But."
+            },
+            {
+              "startUid": "u2073",
+              "endUid": "u2074",
+              "quote": "DM: Against another door."
+            },
+            {
+              "startUid": "u2075",
+              "endUid": "u2077",
+              "quote": "Wellby: Let's find out what's—I'll relay telepathically, incidentally, I found a door and I went down hall, and I'm—I have poor reception."
+            },
+            {
+              "startUid": "u2078",
+              "endUid": "u2078",
+              "quote": "Seeker: Next arc of 5 sessions is just rescuing Wellby."
+            },
+            {
+              "startUid": "u2079",
+              "endUid": "u2080",
+              "quote": "DM: So you, yeah, you gradually push open."
+            },
+            {
+              "startUid": "u2081",
+              "endUid": "u2081",
+              "quote": "Wellby: Cautiously, thoughtfully, appropriate."
+            },
+            {
+              "startUid": "u2082",
+              "endUid": "u2082",
+              "quote": "Seeker: Excuse me."
+            },
+            {
+              "startUid": "u2083",
+              "endUid": "u2083",
+              "quote": "Wellby: Murder on the other side."
+            },
+            {
+              "startUid": "u2084",
+              "endUid": "u2084",
+              "quote": "DM: You are inside the mausoleum."
+            }
+          ],
+          "note": "A secret passage runs probably west outside the castle, then turns south to the mausoleum. The mausoleum is kept separate from the castle building."
+        },
+        {
+          "relation": "near",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2066",
+              "endUid": "u2071",
+              "quote": "DM: Run through the secret door. It goes straight, like, your, your area sense suggests you're probably moving west outside of the castle itself, and then it turns sharply left, so south, and then you find yourself—"
+            },
+            {
+              "startUid": "u2072",
+              "endUid": "u2072",
+              "quote": "Seeker: But."
+            },
+            {
+              "startUid": "u2073",
+              "endUid": "u2074",
+              "quote": "DM: Against another door."
+            },
+            {
+              "startUid": "u2075",
+              "endUid": "u2077",
+              "quote": "Wellby: Let's find out what's—I'll relay telepathically, incidentally, I found a door and I went down hall, and I'm—I have poor reception."
+            },
+            {
+              "startUid": "u2078",
+              "endUid": "u2078",
+              "quote": "Seeker: Next arc of 5 sessions is just rescuing Wellby."
+            },
+            {
+              "startUid": "u2079",
+              "endUid": "u2080",
+              "quote": "DM: So you, yeah, you gradually push open."
+            },
+            {
+              "startUid": "u2081",
+              "endUid": "u2081",
+              "quote": "Wellby: Cautiously, thoughtfully, appropriate."
+            },
+            {
+              "startUid": "u2082",
+              "endUid": "u2082",
+              "quote": "Seeker: Excuse me."
+            },
+            {
+              "startUid": "u2083",
+              "endUid": "u2083",
+              "quote": "Wellby: Murder on the other side."
+            },
+            {
+              "startUid": "u2084",
+              "endUid": "u2084",
+              "quote": "DM: You are inside the mausoleum."
+            },
+            {
+              "startUid": "u2182",
+              "endUid": "u2186",
+              "quote": "DM: Move. So you basically don't get your bonus action, but that's fine. You still have enough speed. But you come to the door and struggle for a moment to open the door with the wraiths closing in behind you. Push the door open."
+            },
+            {
+              "startUid": "u2187",
+              "endUid": "u2187",
+              "quote": "Wellby: I'm just gonna say, that's bad fire safety to lock from the inside for an exit."
+            },
+            {
+              "startUid": "u2188",
+              "endUid": "u2191",
+              "quote": "DM: Slip through and manage to shut it behind you. The wraiths seem uninterested in leaving the mausoleum. The tower is now almost completely collapsed."
+            },
+            {
+              "startUid": "u2192",
+              "endUid": "u2192",
+              "quote": "Delwath: Is the mountain stable?"
+            },
+            {
+              "startUid": "u2193",
+              "endUid": "u2195",
+              "quote": "DM: The mountain is—may be stable, although Putrid Agnes seems to have scarpered from the scene. Whether that's a good or a bad sign is not immediately obvious."
+            },
+            {
+              "startUid": "u2196",
+              "endUid": "u2196",
+              "quote": "Seeker: Way."
+            },
+            {
+              "startUid": "u2197",
+              "endUid": "u2197",
+              "quote": "Kenzo: Is the ladder getting armor right now?"
+            },
+            {
+              "startUid": "u2198",
+              "endUid": "u2198",
+              "quote": "DM: The ladder is attempting to—in the meantime, you can see the, the room with the poison troll seems to have—the tower with the poison troll is sort of completely collapsed, and you can see the poison troll, like, climbing up to the top and just, like, starting to chuck pieces of the tower, like, in all directions."
+            },
+            {
+              "startUid": "u2199",
+              "endUid": "u2199",
+              "quote": "Kenzo: We will, can, can. We."
+            },
+            {
+              "startUid": "u2200",
+              "endUid": "u2200",
+              "quote": "DM: King Kong esque."
+            },
+            {
+              "startUid": "u2201",
+              "endUid": "u2201",
+              "quote": "Kenzo: Wellby's out now. Can we pull this, pull the mirror out and try to get him back in?"
+            },
+            {
+              "startUid": "u2202",
+              "endUid": "u2202",
+              "quote": "DM: You can try, but remember, it's throwing pieces of rock directly at you."
+            },
+            {
+              "startUid": "u2203",
+              "endUid": "u2203",
+              "quote": "Wellby: I think that was."
+            },
+            {
+              "startUid": "u2204",
+              "endUid": "u2204",
+              "quote": "Delwath: Like. If one of the pieces of rock hits the mirror right, it."
+            },
+            {
+              "startUid": "u2205",
+              "endUid": "u2205",
+              "quote": "DM: Like."
+            },
+            {
+              "startUid": "u2206",
+              "endUid": "u2209",
+              "quote": "Wellby: So I'm, I'm imagining, and I have to switch to phone and jump in the car for a half hour in just a sec, but, like, I'm imagining this scene with, like, Wellby leaning back against the mausoleum door, still unsteady, and the poison troll throwing rocks off the top, and all of us sort of gathered in the front of this building as the ladder lifts out, like, a chain of armor parts."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "front of the castle and mausoleum",
+      "kind": "grounds",
+      "evidence": [
+        {
+          "startUid": "u2182",
+          "endUid": "u2186",
+          "quote": "DM: Move. So you basically don't get your bonus action, but that's fine. You still have enough speed. But you come to the door and struggle for a moment to open the door with the wraiths closing in behind you. Push the door open."
+        },
+        {
+          "startUid": "u2187",
+          "endUid": "u2187",
+          "quote": "Wellby: I'm just gonna say, that's bad fire safety to lock from the inside for an exit."
+        },
+        {
+          "startUid": "u2188",
+          "endUid": "u2191",
+          "quote": "DM: Slip through and manage to shut it behind you. The wraiths seem uninterested in leaving the mausoleum. The tower is now almost completely collapsed."
+        },
+        {
+          "startUid": "u2192",
+          "endUid": "u2192",
+          "quote": "Delwath: Is the mountain stable?"
+        },
+        {
+          "startUid": "u2193",
+          "endUid": "u2195",
+          "quote": "DM: The mountain is—may be stable, although Putrid Agnes seems to have scarpered from the scene. Whether that's a good or a bad sign is not immediately obvious."
+        },
+        {
+          "startUid": "u2196",
+          "endUid": "u2196",
+          "quote": "Seeker: Way."
+        },
+        {
+          "startUid": "u2197",
+          "endUid": "u2197",
+          "quote": "Kenzo: Is the ladder getting armor right now?"
+        },
+        {
+          "startUid": "u2198",
+          "endUid": "u2198",
+          "quote": "DM: The ladder is attempting to—in the meantime, you can see the, the room with the poison troll seems to have—the tower with the poison troll is sort of completely collapsed, and you can see the poison troll, like, climbing up to the top and just, like, starting to chuck pieces of the tower, like, in all directions."
+        },
+        {
+          "startUid": "u2199",
+          "endUid": "u2199",
+          "quote": "Kenzo: We will, can, can. We."
+        },
+        {
+          "startUid": "u2200",
+          "endUid": "u2200",
+          "quote": "DM: King Kong esque."
+        },
+        {
+          "startUid": "u2201",
+          "endUid": "u2201",
+          "quote": "Kenzo: Wellby's out now. Can we pull this, pull the mirror out and try to get him back in?"
+        },
+        {
+          "startUid": "u2202",
+          "endUid": "u2202",
+          "quote": "DM: You can try, but remember, it's throwing pieces of rock directly at you."
+        },
+        {
+          "startUid": "u2203",
+          "endUid": "u2203",
+          "quote": "Wellby: I think that was."
+        },
+        {
+          "startUid": "u2204",
+          "endUid": "u2204",
+          "quote": "Delwath: Like. If one of the pieces of rock hits the mirror right, it."
+        },
+        {
+          "startUid": "u2205",
+          "endUid": "u2205",
+          "quote": "DM: Like."
+        },
+        {
+          "startUid": "u2206",
+          "endUid": "u2209",
+          "quote": "Wellby: So I'm, I'm imagining, and I have to switch to phone and jump in the car for a half hour in just a sec, but, like, I'm imagining this scene with, like, Wellby leaning back against the mausoleum door, still unsteady, and the poison troll throwing rocks off the top, and all of us sort of gathered in the front of this building as the ladder lifts out, like, a chain of armor parts."
+        },
+        {
+          "startUid": "u2259",
+          "endUid": "u2263",
+          "quote": "DM: So you take, take a few minutes, put the treasure in the hole. If the, if the, if the mountain is collapsing, it's doing so slowly. The, the biggest danger right now is the, the poison troll, who seems to have decided that this is his kingdom and is, like, wants you gone, is chucking rocks in your direction."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "outside",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2182",
+              "endUid": "u2186",
+              "quote": "DM: Move. So you basically don't get your bonus action, but that's fine. You still have enough speed. But you come to the door and struggle for a moment to open the door with the wraiths closing in behind you. Push the door open."
+            },
+            {
+              "startUid": "u2187",
+              "endUid": "u2187",
+              "quote": "Wellby: I'm just gonna say, that's bad fire safety to lock from the inside for an exit."
+            },
+            {
+              "startUid": "u2188",
+              "endUid": "u2191",
+              "quote": "DM: Slip through and manage to shut it behind you. The wraiths seem uninterested in leaving the mausoleum. The tower is now almost completely collapsed."
+            },
+            {
+              "startUid": "u2192",
+              "endUid": "u2192",
+              "quote": "Delwath: Is the mountain stable?"
+            },
+            {
+              "startUid": "u2193",
+              "endUid": "u2195",
+              "quote": "DM: The mountain is—may be stable, although Putrid Agnes seems to have scarpered from the scene. Whether that's a good or a bad sign is not immediately obvious."
+            },
+            {
+              "startUid": "u2196",
+              "endUid": "u2196",
+              "quote": "Seeker: Way."
+            },
+            {
+              "startUid": "u2197",
+              "endUid": "u2197",
+              "quote": "Kenzo: Is the ladder getting armor right now?"
+            },
+            {
+              "startUid": "u2198",
+              "endUid": "u2198",
+              "quote": "DM: The ladder is attempting to—in the meantime, you can see the, the room with the poison troll seems to have—the tower with the poison troll is sort of completely collapsed, and you can see the poison troll, like, climbing up to the top and just, like, starting to chuck pieces of the tower, like, in all directions."
+            },
+            {
+              "startUid": "u2199",
+              "endUid": "u2199",
+              "quote": "Kenzo: We will, can, can. We."
+            },
+            {
+              "startUid": "u2200",
+              "endUid": "u2200",
+              "quote": "DM: King Kong esque."
+            },
+            {
+              "startUid": "u2201",
+              "endUid": "u2201",
+              "quote": "Kenzo: Wellby's out now. Can we pull this, pull the mirror out and try to get him back in?"
+            },
+            {
+              "startUid": "u2202",
+              "endUid": "u2202",
+              "quote": "DM: You can try, but remember, it's throwing pieces of rock directly at you."
+            },
+            {
+              "startUid": "u2203",
+              "endUid": "u2203",
+              "quote": "Wellby: I think that was."
+            },
+            {
+              "startUid": "u2204",
+              "endUid": "u2204",
+              "quote": "Delwath: Like. If one of the pieces of rock hits the mirror right, it."
+            },
+            {
+              "startUid": "u2205",
+              "endUid": "u2205",
+              "quote": "DM: Like."
+            },
+            {
+              "startUid": "u2206",
+              "endUid": "u2209",
+              "quote": "Wellby: So I'm, I'm imagining, and I have to switch to phone and jump in the car for a half hour in just a sec, but, like, I'm imagining this scene with, like, Wellby leaning back against the mausoleum door, still unsteady, and the poison troll throwing rocks off the top, and all of us sort of gathered in the front of this building as the ladder lifts out, like, a chain of armor parts."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u2206",
+              "endUid": "u2209",
+              "quote": "Wellby: So I'm, I'm imagining, and I have to switch to phone and jump in the car for a half hour in just a sec, but, like, I'm imagining this scene with, like, Wellby leaning back against the mausoleum door, still unsteady, and the poison troll throwing rocks off the top, and all of us sort of gathered in the front of this building as the ladder lifts out, like, a chain of armor parts."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "safe campground after descending the mountain",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u2278",
+          "endUid": "u2287",
+          "quote": "DM: It's, it's mid afternoon now, and it takes you a good 4 h to trek down to somewhere that's sort of comfortable and safe to rest. So the time you reach a safe campground, the sun is setting. It's maybe 7 PM. And you, you know, establish your camp and get settled, and as you think and recall the dangers of the battle in your successful flight from the collapsing tower, you all level up."
+        },
+        {
+          "startUid": "u2904",
+          "endUid": "u2905",
+          "quote": "Seeker: Isn't there some kind of Urskan Watcher network? Anyway?"
+        },
+        {
+          "startUid": "u2906",
+          "endUid": "u2906",
+          "quote": "DM: You're outside of Ursk at the moment."
+        }
+      ],
+      "note": "Reached after four hours of descent; the DM later states the party is outside Ursk. Its exact position on or below the mountain is not fixed."
+    },
+    "p12": {
+      "label": "Voknaz Manor",
+      "kind": "manor estate",
+      "evidence": [
+        {
+          "startUid": "u1814",
+          "endUid": "u1816",
+          "quote": "Delwath: Just Rainbow Bridge back to our base. Oh, I guess that's annoying. No, cause then—wait, what was our play for getting back to the Rodnya?"
+        },
+        {
+          "startUid": "u1817",
+          "endUid": "u1817",
+          "quote": "DM: Well, as soon as you sleep, seeker can teleport you back."
+        },
+        {
+          "startUid": "u1818",
+          "endUid": "u1819",
+          "quote": "Delwath: To the inner sanctum."
+        },
+        {
+          "startUid": "u1820",
+          "endUid": "u1820",
+          "quote": "DM: Well, you Ca, you have a decision back to your yeah."
+        },
+        {
+          "startUid": "u1821",
+          "endUid": "u1823",
+          "quote": "Delwath: We could talk about breakdown, right, but so we could Rainbow Bridge to our base, sleep, and then teleport to the—right."
+        },
+        {
+          "startUid": "u2998",
+          "endUid": "u3007",
+          "quote": "DM: Okay? So you teleport to the outside of the, of the gates where the walls part, as you'd seen before, and you are greeted by the, the man that you had—the scribe who you had spoken to before, and then who invisibly had sent you on this message mission, and he looks somewhat nervous and says, \"Do you have it? Much hangs in the balance.\""
+        },
+        {
+          "startUid": "u3056",
+          "endUid": "u3071",
+          "quote": "DM: We have heard this disturbs your dreams, so I would be careful if I were you, but I give it to you, and thanks for what you have done. Voknaz, Voknaz will be led by our ruler who believes that our future is not in making deals with evil creatures and traitors and betrayers. So anything else I can do for you? There's still much we must settle internally, but the debate is over and the decision has gone the way I hoped. Does the—"
+        },
+        {
+          "startUid": "u3145",
+          "endUid": "u3147",
+          "quote": "DM: If you return, feel free to reach out to the Rodnya Voknaz, and we will do what we can. I cannot promise you anything now."
+        }
+      ],
+      "vaultPath": "Gazetteer/Northern Green Sea/Ursk/Voknaz Manor.md",
+      "note": "The returning scribe, jade bargain and Voknaz affiliation verify the manor identity. Only the exterior gates are visited here; the inner keep and Frostfell portal are discussed."
+    },
+    "p13": {
+      "label": "outside the manor gates",
+      "kind": "gate",
+      "evidence": [
+        {
+          "startUid": "u2998",
+          "endUid": "u3007",
+          "quote": "DM: Okay? So you teleport to the outside of the, of the gates where the walls part, as you'd seen before, and you are greeted by the, the man that you had—the scribe who you had spoken to before, and then who invisibly had sent you on this message mission, and he looks somewhat nervous and says, \"Do you have it? Much hangs in the balance.\""
+        },
+        {
+          "startUid": "u3037",
+          "endUid": "u3045",
+          "quote": "DM: So you wait. Few hours goes by. A woman brings you at some food. \"Be patient, be patient.\" Another couple hours go by. The sun rises in the sky. Lunchtime comes. You get lunch. Early afternoon—"
+        },
+        {
+          "startUid": "u3046",
+          "endUid": "u3055",
+          "quote": "DM: By mid afternoon he comes out again, and he's bearing in front of him a lead box, and he looks quite happy. Adam. He hands it to you, opens it up. You can see there's a piece of jade in it. He closes it quickly after he opens it to shows it. Bomb."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "at_entrance_to",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u2998",
+              "endUid": "u3007",
+              "quote": "DM: Okay? So you teleport to the outside of the, of the gates where the walls part, as you'd seen before, and you are greeted by the, the man that you had—the scribe who you had spoken to before, and then who invisibly had sent you on this message mission, and he looks somewhat nervous and says, \"Do you have it? Much hangs in the balance.\""
+            },
+            {
+              "startUid": "u3056",
+              "endUid": "u3071",
+              "quote": "DM: We have heard this disturbs your dreams, so I would be careful if I were you, but I give it to you, and thanks for what you have done. Voknaz, Voknaz will be led by our ruler who believes that our future is not in making deals with evil creatures and traitors and betrayers. So anything else I can do for you? There's still much we must settle internally, but the debate is over and the decision has gone the way I hoped. Does the—"
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "camp a little way from the manor",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u3612",
+          "endUid": "u3613",
+          "quote": "Delwath: But is that? Wait? We teleported here this morning."
+        },
+        {
+          "startUid": "u3614",
+          "endUid": "u3614",
+          "quote": "DM: You teleported here this morning, so you can't teleport again till."
+        },
+        {
+          "startUid": "u3615",
+          "endUid": "u3615",
+          "quote": "Delwath: We're gonna—so we're gonna do the—we can do the dreams first, and then the teleport."
+        },
+        {
+          "startUid": "u3616",
+          "endUid": "u3627",
+          "quote": "DM: Exactly. Yeah. So you, you go a little ways off, you make camp. It's, you know, evening already by the time you settle in, and, and you've—it's warmer than this now, I guess. You settle in and you've, you've gotten—you make your camp. You're ready to cast your various spells and prepare in the morning for Seeker to teleport you, the morning of May fifth, 3,000 miles west. Seeker's very confident about this, like, nothing can—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u3612",
+              "endUid": "u3613",
+              "quote": "Delwath: But is that? Wait? We teleported here this morning."
+            },
+            {
+              "startUid": "u3614",
+              "endUid": "u3614",
+              "quote": "DM: You teleported here this morning, so you can't teleport again till."
+            },
+            {
+              "startUid": "u3615",
+              "endUid": "u3615",
+              "quote": "Delwath: We're gonna—so we're gonna do the—we can do the dreams first, and then the teleport."
+            },
+            {
+              "startUid": "u3616",
+              "endUid": "u3627",
+              "quote": "DM: Exactly. Yeah. So you, you go a little ways off, you make camp. It's, you know, evening already by the time you settle in, and, and you've—it's warmer than this now, I guess. You settle in and you've, you've gotten—you make your camp. You're ready to cast your various spells and prepare in the morning for Seeker to teleport you, the morning of May fifth, 3,000 miles west. Seeker's very confident about this, like, nothing can—"
+            }
+          ],
+          "note": "The party goes a little way off after its gate visit; no exact distance or estate-boundary position is given."
+        }
+      ]
+    },
+    "p15": {
+      "label": "coast on the north side of the canal",
+      "kind": "coast",
+      "evidence": [
+        {
+          "startUid": "u3938",
+          "endUid": "u3941",
+          "quote": "Seeker: Alright! Now I'm rolling to teleport us to the north side of that canal crossing."
+        },
+        {
+          "startUid": "u3942",
+          "endUid": "u3942",
+          "quote": "DM: Yes, which is a place that I wouldn't say you're very familiar. You've seen casually."
+        },
+        {
+          "startUid": "u3943",
+          "endUid": "u3943",
+          "quote": "Seeker: I mean we were there."
+        },
+        {
+          "startUid": "u3944",
+          "endUid": "u3945",
+          "quote": "DM: Yeah, yeah. So that's"
+        },
+        {
+          "startUid": "u3955",
+          "endUid": "u3957",
+          "quote": "DM: Great. Seeker is so good at this teleporting thing. You are exactly on target. 83's on target."
+        },
+        {
+          "startUid": "u3958",
+          "endUid": "u3958",
+          "quote": "Seeker: Right? Nice."
+        },
+        {
+          "startUid": "u3959",
+          "endUid": "u3963",
+          "quote": "DM: Yep. You appear on the coast of the Chardon Sea on the north side of the canal, and that is where we will pick up next time."
+        }
+      ],
+      "note": "Called the coast of the Chardon Sea in play. No particular port, bank coordinate or modern sea-name equivalence is supplied.",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p19",
+          "evidence": [
+            {
+              "startUid": "u3938",
+              "endUid": "u3941",
+              "quote": "Seeker: Alright! Now I'm rolling to teleport us to the north side of that canal crossing."
+            },
+            {
+              "startUid": "u3942",
+              "endUid": "u3942",
+              "quote": "DM: Yes, which is a place that I wouldn't say you're very familiar. You've seen casually."
+            },
+            {
+              "startUid": "u3943",
+              "endUid": "u3943",
+              "quote": "Seeker: I mean we were there."
+            },
+            {
+              "startUid": "u3944",
+              "endUid": "u3945",
+              "quote": "DM: Yeah, yeah. So that's"
+            },
+            {
+              "startUid": "u3946",
+              "endUid": "u3948",
+              "quote": "Seeker: And alright, everybody take turns blown on the dice, so to speak. We're gonna nail it, I'm sure. And then the low numbers are good for this."
+            },
+            {
+              "startUid": "u3949",
+              "endUid": "u3949",
+              "quote": "Delwath: Numbers."
+            },
+            {
+              "startUid": "u3950",
+              "endUid": "u3951",
+              "quote": "Seeker: High numbers are good. Oh, in America. Okay."
+            },
+            {
+              "startUid": "u3952",
+              "endUid": "u3952",
+              "quote": "Delwath: We have lost from 20. So."
+            },
+            {
+              "startUid": "u3953",
+              "endUid": "u3954",
+              "quote": "Seeker: Here we go, this ancient."
+            },
+            {
+              "startUid": "u3955",
+              "endUid": "u3957",
+              "quote": "DM: Great. Seeker is so good at this teleporting thing. You are exactly on target. 83's on target."
+            },
+            {
+              "startUid": "u3958",
+              "endUid": "u3958",
+              "quote": "Seeker: Right? Nice."
+            },
+            {
+              "startUid": "u3959",
+              "endUid": "u3963",
+              "quote": "DM: Yep. You appear on the coast of the Chardon Sea on the north side of the canal, and that is where we will pick up next time."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "welcoming tea room in Dream",
+      "kind": "dream setting",
+      "evidence": [
+        {
+          "startUid": "u2355",
+          "endUid": "u2358",
+          "quote": "DM: You, you find yourself waiting for a couple of hours until the—button—until the early, almost pre-dawn hours, like 5, 5 AM here, when suddenly you slip into your trance and appear standing next to Archivist Lyra."
+        },
+        {
+          "startUid": "u2359",
+          "endUid": "u2360",
+          "quote": "Delwath: So I'm going to start by telling her—I mean, I'll, I'll make—I can make it look like whatever I want. I'll make it look—"
+        },
+        {
+          "startUid": "u2361",
+          "endUid": "u2361",
+          "quote": "DM: Christ."
+        },
+        {
+          "startUid": "u2362",
+          "endUid": "u2363",
+          "quote": "Delwath: Like a sort of welcoming tea room or something, you know, something like she was the one we met in, like—"
+        },
+        {
+          "startUid": "u2364",
+          "endUid": "u2364",
+          "quote": "DM: Tea with her, and the old rich lady."
+        },
+        {
+          "startUid": "u2365",
+          "endUid": "u2369",
+          "quote": "Delwath: I'll set it up sort of like that, right, like a tea, you know, a tea thing, and I'll be sitting waiting for her. So when she appears, I'll, you know, I'll apologize for intruding on her sleep and tell her that this seems like a easier way to have a conversation than Sending, and that I would like to explain what's been going on and answer further what—my previous message into that—that she's—"
+        }
+      ]
+    },
+    "p17": {
+      "label": "Apollyon's tomb in Kenzo's dream",
+      "kind": "vision setting",
+      "evidence": [
+        {
+          "startUid": "u2383",
+          "endUid": "u2384",
+          "quote": "DM: Kenzo, in the meantime, is having the same dream of Apollyon that you had before, except the cracks in his tomb are now wider."
+        }
+      ]
+    },
+    "p18": {
+      "label": "vast domed room in the dream world",
+      "kind": "vision setting",
+      "evidence": [
+        {
+          "startUid": "u3197",
+          "endUid": "u3200",
+          "quote": "DM: As well. You don't—yeah. But first, as Kenzo takes the—as the, the guy leaves, and Kenzo takes the jade out of the, out of the lead box, and as Kenzo grabs the jade fragment, the world shifts."
+        },
+        {
+          "startUid": "u3201",
+          "endUid": "u3208",
+          "quote": "DM: You're standing in the dream world in a vast domed room. A beam of sunlight shines through the oculus, the circular opening at the crown of the vast ceiling, reflecting from the polished marble floor, somehow lighting the room and sparkling off countless silver stars inside the ceiling. You can feel energy flowing around you, deep, ancient magic of this place that flows beneath your feet."
+        }
+      ],
+      "note": "The sunbeam and silver stars are features of the vision, not an adventure-time anchor or a physical party arrival."
+    },
+    "p19": {
+      "label": "canal",
+      "kind": "waterway",
+      "evidence": [
+        {
+          "startUid": "u3346",
+          "endUid": "u3347",
+          "quote": "Delwath: But also, I mean, we could teleport to somewhere we know, right? Like, would be hard to tell to the—"
+        },
+        {
+          "startUid": "u3348",
+          "endUid": "u3348",
+          "quote": "DM: Sailed through this canal, for example."
+        },
+        {
+          "startUid": "u3349",
+          "endUid": "u3350",
+          "quote": "Seeker: Kai! Aye. That's true."
+        },
+        {
+          "startUid": "u3938",
+          "endUid": "u3941",
+          "quote": "Seeker: Alright! Now I'm rolling to teleport us to the north side of that canal crossing."
+        },
+        {
+          "startUid": "u3942",
+          "endUid": "u3942",
+          "quote": "DM: Yes, which is a place that I wouldn't say you're very familiar. You've seen casually."
+        },
+        {
+          "startUid": "u3943",
+          "endUid": "u3943",
+          "quote": "Seeker: I mean we were there."
+        },
+        {
+          "startUid": "u3944",
+          "endUid": "u3945",
+          "quote": "DM: Yeah, yeah. So that's"
+        },
+        {
+          "startUid": "u3946",
+          "endUid": "u3948",
+          "quote": "Seeker: And alright, everybody take turns blown on the dice, so to speak. We're gonna nail it, I'm sure. And then the low numbers are good for this."
+        },
+        {
+          "startUid": "u3949",
+          "endUid": "u3949",
+          "quote": "Delwath: Numbers."
+        },
+        {
+          "startUid": "u3950",
+          "endUid": "u3951",
+          "quote": "Seeker: High numbers are good. Oh, in America. Okay."
+        },
+        {
+          "startUid": "u3952",
+          "endUid": "u3952",
+          "quote": "Delwath: We have lost from 20. So."
+        },
+        {
+          "startUid": "u3953",
+          "endUid": "u3954",
+          "quote": "Seeker: Here we go, this ancient."
+        },
+        {
+          "startUid": "u3955",
+          "endUid": "u3957",
+          "quote": "DM: Great. Seeker is so good at this teleporting thing. You are exactly on target. 83's on target."
+        },
+        {
+          "startUid": "u3958",
+          "endUid": "u3958",
+          "quote": "Seeker: Right? Nice."
+        },
+        {
+          "startUid": "u3959",
+          "endUid": "u3963",
+          "quote": "DM: Yep. You appear on the coast of the Chardon Sea on the north side of the canal, and that is where we will pick up next time."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Old Chardon Canal.md",
+      "note": "The formerly sailed Chardon canal matches Old Chardon Canal; its canonical route does not establish a more precise teleport landing here."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0090",
+        "endUid": "u0095"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party begins the fight single-file in the corridor that opens onto the pool and coffin chamber.",
+      "evidence": [
+        {
+          "startUid": "u0090",
+          "endUid": "u0090",
+          "quote": "DM: What order are you coming down the hall, by the way? It's single file."
+        },
+        {
+          "startUid": "u0091",
+          "endUid": "u0093",
+          "quote": "Delwath: Probably, what, Delwath, Kenzo, Riswynn, Seeker, Wellby."
+        },
+        {
+          "startUid": "u0094",
+          "endUid": "u0094",
+          "quote": "Kenzo: Yeah."
+        },
+        {
+          "startUid": "u0095",
+          "endUid": "u0095",
+          "quote": "Wellby: Yeah."
+        },
+        {
+          "startUid": "u0403",
+          "endUid": "u0405",
+          "quote": "DM: You, Kenzo, you sense as you get about, about 25 feet forward, like, there's a, there's a lip here. The ground drops off, and there's, like, a shallow pool of some sort of liquid right in front of you, which I assume you choose not to run into. Or do you run into?"
+        },
+        {
+          "startUid": "u0406",
+          "endUid": "u0406",
+          "quote": "Kenzo: So I'm 35 feet away now."
+        },
+        {
+          "startUid": "u0407",
+          "endUid": "u0407",
+          "quote": "DM: No, you're 25 feet away before you get—you're perceptive and aware enough of your surroundings that as you're running forward—"
+        },
+        {
+          "startUid": "u0408",
+          "endUid": "u0408",
+          "quote": "Kenzo: Oh, no! But."
+        },
+        {
+          "startUid": "u0409",
+          "endUid": "u0409",
+          "quote": "DM: Before you scout."
+        },
+        {
+          "startUid": "u0410",
+          "endUid": "u0410",
+          "quote": "Delwath: Far to the vampire."
+        },
+        {
+          "startUid": "u0411",
+          "endUid": "u0413",
+          "quote": "DM: That—oh, you're 30 feet to the vampire."
+        },
+        {
+          "startUid": "u0414",
+          "endUid": "u0415",
+          "quote": "Kenzo: That's exactly where I want to be. I want to be exactly 30 feet, so as to now, now do a Fist of Planar Power and—"
+        },
+        {
+          "startUid": "u0655",
+          "endUid": "u0655",
+          "quote": "DM: The ladder is—the ladder is big. Where are you? Where is the ladder gonna—it doesn't really fit in the corridor."
+        },
+        {
+          "startUid": "u0656",
+          "endUid": "u0656",
+          "quote": "Wellby: Hi! How high is the corridor?"
+        },
+        {
+          "startUid": "u0657",
+          "endUid": "u0658",
+          "quote": "Seeker: The ladder can be behind us, and—"
+        },
+        {
+          "startUid": "u0659",
+          "endUid": "u0659",
+          "quote": "Delwath: I, Tim, I assume there's walls on both sides?"
+        },
+        {
+          "startUid": "u0660",
+          "endUid": "u0663",
+          "quote": "DM: Yeah, yeah. Yeah. There's space to squeeze past, like. You can't fully block the corridor. It's a little wider than, than your, than your entire—but you can't—yeah, you can, so you can squeeze past."
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u1668",
+        "endUid": "u1706"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Flies over the water to the opened coffin and destroys the reforming vampire.",
+      "evidence": [
+        {
+          "startUid": "u1668",
+          "endUid": "u1670",
+          "quote": "DM: Yeah, where the red side—yeah, the coffin is in, is sat within this water. So there's, like, can you—"
+        },
+        {
+          "startUid": "u1671",
+          "endUid": "u1671",
+          "quote": "Delwath: Stands on top of it. It's not covered by."
+        },
+        {
+          "startUid": "u1672",
+          "endUid": "u1672",
+          "quote": "DM: It's not covered by water."
+        },
+        {
+          "startUid": "u1673",
+          "endUid": "u1675",
+          "quote": "Delwath: Down. Delwath will turn into a cloud of bugs and fly to the coffin."
+        },
+        {
+          "startUid": "u1689",
+          "endUid": "u1689",
+          "quote": "Delwath: Then I will—once the ladder lifts the lid, Delwath will turn into a cloud of bugs, cloud of insects, like multiple—"
+        },
+        {
+          "startUid": "u1690",
+          "endUid": "u1690",
+          "quote": "DM: I got it."
+        },
+        {
+          "startUid": "u1691",
+          "endUid": "u1691",
+          "quote": "Delwath: Things, and just fly to the out open coffin and stab the mist with my sword."
+        },
+        {
+          "startUid": "u1692",
+          "endUid": "u1692",
+          "quote": "Kenzo: Quit right."
+        },
+        {
+          "startUid": "u1693",
+          "endUid": "u1693",
+          "quote": "DM: Your sword does radiant damage?"
+        },
+        {
+          "startUid": "u1694",
+          "endUid": "u1694",
+          "quote": "Delwath: Radiant damage."
+        },
+        {
+          "startUid": "u1695",
+          "endUid": "u1695",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u1697",
+          "endUid": "u1698",
+          "quote": "DM: So Delwath flies over to the now open coffin."
+        },
+        {
+          "startUid": "u1699",
+          "endUid": "u1699",
+          "quote": "Kenzo: Hey, you're muted, by the way, if you've been saying stuff."
+        },
+        {
+          "startUid": "u1700",
+          "endUid": "u1706",
+          "quote": "DM: And stands for a moment and takes his sword, which is flaring with radiant light, and slashes through this black mist. And you hear this loud crack, and the mist falls away, forming into a dead body of a human at your feet."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "fly as insects"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u1834",
+        "endUid": "u1838"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Runs back up the hall into the now-collapsing organ room.",
+      "evidence": [
+        {
+          "startUid": "u1829",
+          "endUid": "u1829",
+          "quote": "Delwath: We're leaving. Go, go, go, go before it collapses."
+        },
+        {
+          "startUid": "u1830",
+          "endUid": "u1831",
+          "quote": "Riswynn: The troll. There's remaining vampires. There's I don't know."
+        },
+        {
+          "startUid": "u1832",
+          "endUid": "u1832",
+          "quote": "Delwath: Worried about that."
+        },
+        {
+          "startUid": "u1833",
+          "endUid": "u1833",
+          "quote": "Kenzo: You're."
+        },
+        {
+          "startUid": "u1834",
+          "endUid": "u1838",
+          "quote": "DM: So you're running, you're running down the, the hall, and you come back up into the, the, the room with the organ, which is now cracked, and there's organ pipes falling down. The pews have split. You can see that there's a hole in the ceiling, ceiling, and the walls are beginning to shake."
+        }
+      ],
+      "from": "p03",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "run"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u1925",
+        "endUid": "u1928"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Uses the bone key, avoids a grasping black hand, and enters the treasure room to loot it.",
+      "evidence": [
+        {
+          "startUid": "u1925",
+          "endUid": "u1926",
+          "quote": "DM: The treasure is this way? Okay? So as you open that door with the skeleton key—"
+        },
+        {
+          "startUid": "u1927",
+          "endUid": "u1928",
+          "quote": "Wellby: I am flying over, cause I know there's gonna be like a choppy thing."
+        },
+        {
+          "startUid": "u1929",
+          "endUid": "u1929",
+          "quote": "DM: Make a, make a dexterity saving throw."
+        },
+        {
+          "startUid": "u1930",
+          "endUid": "u1930",
+          "quote": "Kenzo: Wait, Tim, is the troll here? The troll's behind that door, or do we see the troll?"
+        },
+        {
+          "startUid": "u1931",
+          "endUid": "u1931",
+          "quote": "Seeker: Oh, yeah, it goes over to the right."
+        },
+        {
+          "startUid": "u1932",
+          "endUid": "u1932",
+          "quote": "Riswynn: The trolls on the other side, from the from the."
+        },
+        {
+          "startUid": "u1933",
+          "endUid": "u1933",
+          "quote": "DM: Wellby inspired, robbed."
+        },
+        {
+          "startUid": "u1934",
+          "endUid": "u1934",
+          "quote": "Wellby: Inspire me."
+        },
+        {
+          "startUid": "u1935",
+          "endUid": "u1935",
+          "quote": "Seeker: Inspiration."
+        },
+        {
+          "startUid": "u1936",
+          "endUid": "u1936",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u1937",
+          "endUid": "u1937",
+          "quote": "Kenzo: And."
+        },
+        {
+          "startUid": "u1938",
+          "endUid": "u1938",
+          "quote": "DM: Yeah. Wellby is not grabbed."
+        },
+        {
+          "startUid": "u1939",
+          "endUid": "u1939",
+          "quote": "Seeker: A."
+        },
+        {
+          "startUid": "u1940",
+          "endUid": "u1941",
+          "quote": "DM: By a black hand of devil ichor"
+        },
+        {
+          "startUid": "u1969",
+          "endUid": "u1970",
+          "quote": "DM: Palms—Delwath, you step into the treasure room. You see—"
+        },
+        {
+          "startUid": "u1971",
+          "endUid": "u1971",
+          "quote": "Delwath: Wellby, not Delwath."
+        },
+        {
+          "startUid": "u1972",
+          "endUid": "u1972",
+          "quote": "DM: Alright! Wellby."
+        },
+        {
+          "startUid": "u1973",
+          "endUid": "u1973",
+          "quote": "Delwath: Wellby."
+        },
+        {
+          "startUid": "u1974",
+          "endUid": "u1976",
+          "quote": "DM: You see a large pile of coins, probably, I mean, I guess not huge. It's mostly copper, some silver and gold. Floating over the coins is this black mist that you can sense whispering to you."
+        },
+        {
+          "startUid": "u1977",
+          "endUid": "u1977",
+          "quote": "Wellby: Oh, shit."
+        },
+        {
+          "startUid": "u1978",
+          "endUid": "u1980",
+          "quote": "DM: Read about this. \"Breathe me in. Feel my power.\""
+        },
+        {
+          "startUid": "u1981",
+          "endUid": "u1981",
+          "quote": "Wellby: No, thank you."
+        },
+        {
+          "startUid": "u1982",
+          "endUid": "u1988",
+          "quote": "DM: Scattered among—with a quick glance—scattered among the, the coins, you can see 1, 2, 3, 4, 5 potions, and one broken potion bottle where a stone has fallen from the ceiling. There's some 4 suits of full gilded plate armor. There's, like, 50 pounds of gold bars. There's a diamond statue of a dragon, of a—there's a diamond statue out of a dragon, probably about this big."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "fly",
+      "note": "The DM initially says Delwath, then immediately accepts the correction to Wellby."
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u1943",
+        "endUid": "u1949"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Scouting at the doorway reveals the poison troll wrestling with a creature trying to suck out its breath; Kenzo abandons recovery as the structure collapses.",
+      "evidence": [
+        {
+          "startUid": "u1890",
+          "endUid": "u1891",
+          "quote": "Kenzo: Okay, okay, okay, this is what we're gonna do. This is what we're gonna do. Kenzo is gonna, is gonna go and find—"
+        },
+        {
+          "startUid": "u1892",
+          "endUid": "u1892",
+          "quote": "Riswynn: And we can."
+        },
+        {
+          "startUid": "u1893",
+          "endUid": "u1894",
+          "quote": "Kenzo: Oh, yes, we don't even know where the troll is. We still telepathy, right? We can all communicate with each other, right? So, so Wellby, go pillage. Kenzo is just gonna do a little scout, little reconnaissance, figure out where the troll is."
+        },
+        {
+          "startUid": "u1895",
+          "endUid": "u1895",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u1911",
+          "endUid": "u1911",
+          "quote": "DM: Yeah. Yeah. So who's running? Where?"
+        },
+        {
+          "startUid": "u1912",
+          "endUid": "u1912",
+          "quote": "Kenzo: Blended where the troll used to be."
+        },
+        {
+          "startUid": "u1913",
+          "endUid": "u1913",
+          "quote": "Wellby: Treasure."
+        },
+        {
+          "startUid": "u1914",
+          "endUid": "u1914",
+          "quote": "Seeker: A."
+        },
+        {
+          "startUid": "u1915",
+          "endUid": "u1915",
+          "quote": "DM: Oh, exit! You're on."
+        },
+        {
+          "startUid": "u1916",
+          "endUid": "u1916",
+          "quote": "Seeker: You can all do that."
+        },
+        {
+          "startUid": "u1917",
+          "endUid": "u1918",
+          "quote": "DM: Map, right right."
+        },
+        {
+          "startUid": "u1919",
+          "endUid": "u1919",
+          "quote": "Delwath: Yeah."
+        },
+        {
+          "startUid": "u1920",
+          "endUid": "u1920",
+          "quote": "Riswynn: Map."
+        },
+        {
+          "startUid": "u1921",
+          "endUid": "u1921",
+          "quote": "DM: Okay. So I just run to where you want to run."
+        },
+        {
+          "startUid": "u1922",
+          "endUid": "u1922",
+          "quote": "Seeker: Sure."
+        },
+        {
+          "startUid": "u1923",
+          "endUid": "u1923",
+          "quote": "DM: Be able to open the doors."
+        },
+        {
+          "startUid": "u1930",
+          "endUid": "u1930",
+          "quote": "Kenzo: Wait, Tim, is the troll here? The troll's behind that door, or do we see the troll?"
+        },
+        {
+          "startUid": "u1931",
+          "endUid": "u1931",
+          "quote": "Seeker: Oh, yeah, it goes over to the right."
+        },
+        {
+          "startUid": "u1932",
+          "endUid": "u1932",
+          "quote": "Riswynn: The trolls on the other side, from the from the."
+        },
+        {
+          "startUid": "u1933",
+          "endUid": "u1933",
+          "quote": "DM: Wellby inspired, robbed."
+        },
+        {
+          "startUid": "u1934",
+          "endUid": "u1934",
+          "quote": "Wellby: Inspire me."
+        },
+        {
+          "startUid": "u1935",
+          "endUid": "u1935",
+          "quote": "Seeker: Inspiration."
+        },
+        {
+          "startUid": "u1936",
+          "endUid": "u1936",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u1937",
+          "endUid": "u1937",
+          "quote": "Kenzo: And."
+        },
+        {
+          "startUid": "u1938",
+          "endUid": "u1938",
+          "quote": "DM: Yeah. Wellby is not grabbed."
+        },
+        {
+          "startUid": "u1939",
+          "endUid": "u1939",
+          "quote": "Seeker: A."
+        },
+        {
+          "startUid": "u1940",
+          "endUid": "u1941",
+          "quote": "DM: By a black hand of devil ichor"
+        },
+        {
+          "startUid": "u1942",
+          "endUid": "u1942",
+          "quote": "Seeker: Oh, right!"
+        },
+        {
+          "startUid": "u1943",
+          "endUid": "u1949",
+          "quote": "DM: Okay. So he flies. So you open the door, you see the troll in there? It seems to be at—wrestling with something. Hold on, with—there's, like, some strange creature that's, like, perched on top of the troll, and they're fighting, and it's trying to suck its breath."
+        },
+        {
+          "startUid": "u1964",
+          "endUid": "u1965",
+          "quote": "Riswynn: I mean, Kenzo was scouting. Delwath and I were leaving."
+        },
+        {
+          "startUid": "u1966",
+          "endUid": "u1966",
+          "quote": "Kenzo: Is, the is, the is—is the whole thing collapsing around us right now? Or is this serious?"
+        },
+        {
+          "startUid": "u1967",
+          "endUid": "u1967",
+          "quote": "DM: Oh, yeah, it's collapsing quite rapidly, and it increasing."
+        },
+        {
+          "startUid": "u1968",
+          "endUid": "u1968",
+          "quote": "Kenzo: Alright! Alright! Alright! Get out of here! Fine!"
+        }
+      ],
+      "place": "p07",
+      "observerPlace": "p08",
+      "mode": "local",
+      "observedActors": [
+        "poison troll"
+      ],
+      "note": "Opening the door and seeing the troll establishes the doorway vantage, not entry into its room."
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1964",
+        "endUid": "u1965"
+      },
+      "actors": [
+        "Delwath",
+        "Riswynn"
+      ],
+      "reading": "Leave the interior while Kenzo scouts and Wellby loots; they are later gathered in front of the buildings.",
+      "evidence": [
+        {
+          "startUid": "u1964",
+          "endUid": "u1965",
+          "quote": "Riswynn: I mean, Kenzo was scouting. Delwath and I were leaving."
+        },
+        {
+          "startUid": "u1966",
+          "endUid": "u1966",
+          "quote": "Kenzo: Is, the is, the is—is the whole thing collapsing around us right now? Or is this serious?"
+        },
+        {
+          "startUid": "u1967",
+          "endUid": "u1967",
+          "quote": "DM: Oh, yeah, it's collapsing quite rapidly, and it increasing."
+        },
+        {
+          "startUid": "u1968",
+          "endUid": "u1968",
+          "quote": "Kenzo: Alright! Alright! Alright! Get out of here! Fine!"
+        },
+        {
+          "startUid": "u2206",
+          "endUid": "u2209",
+          "quote": "Wellby: So I'm, I'm imagining, and I have to switch to phone and jump in the car for a half hour in just a sec, but, like, I'm imagining this scene with, like, Wellby leaning back against the mausoleum door, still unsteady, and the poison troll throwing rocks off the top, and all of us sort of gathered in the front of this building as the ladder lifts out, like, a chain of armor parts."
+        },
+        {
+          "startUid": "u2210",
+          "endUid": "u2210",
+          "quote": "DM: I mean, I think we should just."
+        },
+        {
+          "startUid": "u2211",
+          "endUid": "u2211",
+          "quote": "Wellby: Call this a win."
+        }
+      ],
+      "from": "p05",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "on foot"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u2066",
+        "endUid": "u2084"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Takes the secret passage out of the treasure room, probably west beyond the castle and then south, arriving inside the mausoleum.",
+      "evidence": [
+        {
+          "startUid": "u2066",
+          "endUid": "u2071",
+          "quote": "DM: Run through the secret door. It goes straight, like, your, your area sense suggests you're probably moving west outside of the castle itself, and then it turns sharply left, so south, and then you find yourself—"
+        },
+        {
+          "startUid": "u2072",
+          "endUid": "u2072",
+          "quote": "Seeker: But."
+        },
+        {
+          "startUid": "u2073",
+          "endUid": "u2074",
+          "quote": "DM: Against another door."
+        },
+        {
+          "startUid": "u2075",
+          "endUid": "u2077",
+          "quote": "Wellby: Let's find out what's—I'll relay telepathically, incidentally, I found a door and I went down hall, and I'm—I have poor reception."
+        },
+        {
+          "startUid": "u2078",
+          "endUid": "u2078",
+          "quote": "Seeker: Next arc of 5 sessions is just rescuing Wellby."
+        },
+        {
+          "startUid": "u2079",
+          "endUid": "u2080",
+          "quote": "DM: So you, yeah, you gradually push open."
+        },
+        {
+          "startUid": "u2081",
+          "endUid": "u2081",
+          "quote": "Wellby: Cautiously, thoughtfully, appropriate."
+        },
+        {
+          "startUid": "u2082",
+          "endUid": "u2082",
+          "quote": "Seeker: Excuse me."
+        },
+        {
+          "startUid": "u2083",
+          "endUid": "u2083",
+          "quote": "Wellby: Murder on the other side."
+        },
+        {
+          "startUid": "u2084",
+          "endUid": "u2084",
+          "quote": "DM: You are inside the mausoleum."
+        },
+        {
+          "startUid": "u2085",
+          "endUid": "u2085",
+          "quote": "Seeker: Are."
+        },
+        {
+          "startUid": "u2086",
+          "endUid": "u2086",
+          "quote": "Wellby: Oh, that's probably not great."
+        },
+        {
+          "startUid": "u2087",
+          "endUid": "u2087",
+          "quote": "DM: You see 3 wraiths."
+        },
+        {
+          "startUid": "u2088",
+          "endUid": "u2088",
+          "quote": "Seeker: The wraith."
+        },
+        {
+          "startUid": "u2089",
+          "endUid": "u2089",
+          "quote": "DM: Beginning to move towards you."
+        }
+      ],
+      "from": "p06",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "run",
+      "route": [
+        {
+          "reading": "Passes through a secret corridor probably west outside the castle, then turns south."
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u2090",
+        "endUid": "u2191"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Attempts to return through the secret passage, finds the exit blocked by falling masonry, then runs back through the wraiths and escapes through the main mausoleum door.",
+      "evidence": [
+        {
+          "startUid": "u2090",
+          "endUid": "u2090",
+          "quote": "Wellby: Move so quickly in the opposite direction."
+        },
+        {
+          "startUid": "u2091",
+          "endUid": "u2091",
+          "quote": "DM: What's your what's your speed?"
+        },
+        {
+          "startUid": "u2092",
+          "endUid": "u2093",
+          "quote": "Wellby: So with the Boots of Speed, it's 80. So that's, what is that? 2 40."
+        },
+        {
+          "startUid": "u2094",
+          "endUid": "u2096",
+          "quote": "DM: Okay, roll, roll a d. 20. Higher than 10 is—lower than 10 is bad. 11 or above is good."
+        },
+        {
+          "startUid": "u2097",
+          "endUid": "u2097",
+          "quote": "Wellby: Let me pass it over."
+        },
+        {
+          "startUid": "u2098",
+          "endUid": "u2098",
+          "quote": "Delwath: Wait! Wait! Hold on! Let me suggest."
+        },
+        {
+          "startUid": "u2099",
+          "endUid": "u2099",
+          "quote": "Wellby: But as a halfling I reroll ones."
+        },
+        {
+          "startUid": "u2100",
+          "endUid": "u2100",
+          "quote": "Kenzo: Oh, Rebecca."
+        },
+        {
+          "startUid": "u2101",
+          "endUid": "u2101",
+          "quote": "Delwath: Entire point of luck that he gets good luck and gets to reroll ones."
+        },
+        {
+          "startUid": "u2102",
+          "endUid": "u2102",
+          "quote": "Kenzo: Reroll one. Let's do it."
+        },
+        {
+          "startUid": "u2103",
+          "endUid": "u2103",
+          "quote": "DM: Roll—you come back, and a chunk of the ceiling has fallen on the secret door."
+        },
+        {
+          "startUid": "u2104",
+          "endUid": "u2104",
+          "quote": "Wellby: Oh! Oh!"
+        },
+        {
+          "startUid": "u2105",
+          "endUid": "u2105",
+          "quote": "Seeker: Oh!"
+        },
+        {
+          "startUid": "u2106",
+          "endUid": "u2107",
+          "quote": "Wellby: No, no! I have something for just this moment. Inventory."
+        },
+        {
+          "startUid": "u2120",
+          "endUid": "u2121",
+          "quote": "Wellby: I've got the key. Boots of Speed give disadvantage on opportunity attacks. I'm moving incredibly fast. I think I can run. Wraiths are insufficient. I can run directly through them and out the door."
+        },
+        {
+          "startUid": "u2122",
+          "endUid": "u2122",
+          "quote": "Kenzo: I like it."
+        },
+        {
+          "startUid": "u2123",
+          "endUid": "u2123",
+          "quote": "Seeker: Oh, my God!"
+        },
+        {
+          "startUid": "u2124",
+          "endUid": "u2124",
+          "quote": "Delwath: Alright! There's no no way."
+        },
+        {
+          "startUid": "u2125",
+          "endUid": "u2126",
+          "quote": "Wellby: Can't work great night."
+        },
+        {
+          "startUid": "u2127",
+          "endUid": "u2127",
+          "quote": "DM: Be."
+        },
+        {
+          "startUid": "u2128",
+          "endUid": "u2128",
+          "quote": "Delwath: But I."
+        },
+        {
+          "startUid": "u2129",
+          "endUid": "u2134",
+          "quote": "DM: Turns around and runs out through the mausoleum. 3 wraiths get opportunity attacks on you with disadvantage. That's a 9. That's a 20."
+        },
+        {
+          "startUid": "u2135",
+          "endUid": "u2135",
+          "quote": "Wellby: Yeah, that's kind of a hit."
+        },
+        {
+          "startUid": "u2136",
+          "endUid": "u2136",
+          "quote": "DM: That's so one hits."
+        },
+        {
+          "startUid": "u2137",
+          "endUid": "u2137",
+          "quote": "Kenzo: But disadvantage."
+        },
+        {
+          "startUid": "u2138",
+          "endUid": "u2138",
+          "quote": "DM: Yeah, thank, you."
+        },
+        {
+          "startUid": "u2139",
+          "endUid": "u2139",
+          "quote": "Kenzo: You. You roll twice and you have to hit."
+        },
+        {
+          "startUid": "u2140",
+          "endUid": "u2140",
+          "quote": "DM: So I'll take twice and take the lower one. I hope you're not super low on health."
+        },
+        {
+          "startUid": "u2141",
+          "endUid": "u2141",
+          "quote": "Wellby: No, I think I actually have the most of all of us right now. But 64 still."
+        },
+        {
+          "startUid": "u2142",
+          "endUid": "u2142",
+          "quote": "Delwath: Oh, yeah, you're fine."
+        },
+        {
+          "startUid": "u2143",
+          "endUid": "u2147",
+          "quote": "DM: Oh, you're, you're probably—you're fine then. The wraith is only able to do—alright, that's the page. Where does the page go? 14 points of psychic damage, and you have to make a wisdom saving throw."
+        },
+        {
+          "startUid": "u2178",
+          "endUid": "u2178",
+          "quote": "DM: You are, you are dazed."
+        },
+        {
+          "startUid": "u2179",
+          "endUid": "u2179",
+          "quote": "Kenzo: The ladder, that you have."
+        },
+        {
+          "startUid": "u2180",
+          "endUid": "u2180",
+          "quote": "DM: Only."
+        },
+        {
+          "startUid": "u2181",
+          "endUid": "u2181",
+          "quote": "Kenzo: Plate armor."
+        },
+        {
+          "startUid": "u2182",
+          "endUid": "u2186",
+          "quote": "DM: Move. So you basically don't get your bonus action, but that's fine. You still have enough speed. But you come to the door and struggle for a moment to open the door with the wraiths closing in behind you. Push the door open."
+        },
+        {
+          "startUid": "u2187",
+          "endUid": "u2187",
+          "quote": "Wellby: I'm just gonna say, that's bad fire safety to lock from the inside for an exit."
+        },
+        {
+          "startUid": "u2188",
+          "endUid": "u2191",
+          "quote": "DM: Slip through and manage to shut it behind you. The wraiths seem uninterested in leaving the mausoleum. The tower is now almost completely collapsed."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "run",
+      "route": [
+        {
+          "reading": "Return toward the treasure-room secret door is blocked; the main mausoleum door is used instead."
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u2198",
+        "endUid": "u2198"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "See the poison troll atop its collapsed tower throwing rubble; it remains at the ruins rather than rejoining the party.",
+      "evidence": [
+        {
+          "startUid": "u2198",
+          "endUid": "u2198",
+          "quote": "DM: The ladder is attempting to—in the meantime, you can see the, the room with the poison troll seems to have—the tower with the poison troll is sort of completely collapsed, and you can see the poison troll, like, climbing up to the top and just, like, starting to chuck pieces of the tower, like, in all directions."
+        },
+        {
+          "startUid": "u2199",
+          "endUid": "u2199",
+          "quote": "Kenzo: We will, can, can. We."
+        },
+        {
+          "startUid": "u2200",
+          "endUid": "u2200",
+          "quote": "DM: King Kong esque."
+        },
+        {
+          "startUid": "u2201",
+          "endUid": "u2201",
+          "quote": "Kenzo: Wellby's out now. Can we pull this, pull the mirror out and try to get him back in?"
+        },
+        {
+          "startUid": "u2202",
+          "endUid": "u2202",
+          "quote": "DM: You can try, but remember, it's throwing pieces of rock directly at you."
+        },
+        {
+          "startUid": "u2259",
+          "endUid": "u2263",
+          "quote": "DM: So you take, take a few minutes, put the treasure in the hole. If the, if the, if the mountain is collapsing, it's doing so slowly. The, the biggest danger right now is the, the poison troll, who seems to have decided that this is his kingdom and is, like, wants you gone, is chucking rocks in your direction."
+        },
+        {
+          "startUid": "u2264",
+          "endUid": "u2265",
+          "quote": "Delwath: It's an honorable retirement for the, for the—"
+        },
+        {
+          "startUid": "u2266",
+          "endUid": "u2267",
+          "quote": "Seeker: I think the poison troll lives here now. This is—we'll come in, we'll visit someday, Kenzo. The legend of PT. Smalls."
+        }
+      ],
+      "place": "p07",
+      "observerPlace": "p10",
+      "mode": "local",
+      "observedActors": [
+        "poison troll"
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "presence",
+      "source": {
+        "startUid": "u2206",
+        "endUid": "u2209"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party is reunited in front of the castle and mausoleum during the collapse.",
+      "evidence": [
+        {
+          "startUid": "u2206",
+          "endUid": "u2209",
+          "quote": "Wellby: So I'm, I'm imagining, and I have to switch to phone and jump in the car for a half hour in just a sec, but, like, I'm imagining this scene with, like, Wellby leaning back against the mausoleum door, still unsteady, and the poison troll throwing rocks off the top, and all of us sort of gathered in the front of this building as the ladder lifts out, like, a chain of armor parts."
+        },
+        {
+          "startUid": "u2210",
+          "endUid": "u2210",
+          "quote": "DM: I mean, I think we should just."
+        },
+        {
+          "startUid": "u2211",
+          "endUid": "u2211",
+          "quote": "Wellby: Call this a win."
+        },
+        {
+          "startUid": "u2232",
+          "endUid": "u2235",
+          "quote": "DM: Yeah. Yeah. Okay, go ahead. Yup. Inspire the ladder. The ladder, from Seeker's inspiration, dodges away, losing one of the 3 pieces of armor it was carrying, but coming away with 2 suits of plate mail and one breastplate."
+        },
+        {
+          "startUid": "u2236",
+          "endUid": "u2236",
+          "quote": "Seeker: Amazing."
+        },
+        {
+          "startUid": "u2237",
+          "endUid": "u2238",
+          "quote": "Riswynn: We throw in the hole and start trekking down the mountain path. Can we just?"
+        },
+        {
+          "startUid": "u2239",
+          "endUid": "u2239",
+          "quote": "Delwath: Jump on the ladder."
+        },
+        {
+          "startUid": "u2240",
+          "endUid": "u2240",
+          "quote": "DM: 2 of you can."
+        },
+        {
+          "startUid": "u2241",
+          "endUid": "u2241",
+          "quote": "Delwath: Guess 2 of us can."
+        },
+        {
+          "startUid": "u2242",
+          "endUid": "u2242",
+          "quote": "DM: Oh, well, it's carrying."
+        },
+        {
+          "startUid": "u2243",
+          "endUid": "u2243",
+          "quote": "Delwath: Yeah."
+        },
+        {
+          "startUid": "u2244",
+          "endUid": "u2244",
+          "quote": "DM: A lot of armor. So."
+        },
+        {
+          "startUid": "u2245",
+          "endUid": "u2245",
+          "quote": "Delwath: It? No, no, probably not. We're gonna pause and put the armor in the hole."
+        }
+      ],
+      "place": "p10"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u2232",
+        "endUid": "u2235"
+      },
+      "actors": [
+        "Ladder"
+      ],
+      "reading": "Retrieves armor from the collapsing treasure room and returns, evading rubble with inspiration but losing one piece in the process.",
+      "evidence": [
+        {
+          "startUid": "u2161",
+          "endUid": "u2161",
+          "quote": "Seeker: The ladder is still up. Can the ladder rescue him?"
+        },
+        {
+          "startUid": "u2162",
+          "endUid": "u2162",
+          "quote": "Delwath: Wait. Can the ladder go get treasure?"
+        },
+        {
+          "startUid": "u2163",
+          "endUid": "u2163",
+          "quote": "Seeker: Ladder."
+        },
+        {
+          "startUid": "u2164",
+          "endUid": "u2164",
+          "quote": "DM: It's."
+        },
+        {
+          "startUid": "u2165",
+          "endUid": "u2165",
+          "quote": "Delwath: It's our time."
+        },
+        {
+          "startUid": "u2166",
+          "endUid": "u2166",
+          "quote": "DM: Very good."
+        },
+        {
+          "startUid": "u2167",
+          "endUid": "u2167",
+          "quote": "Delwath: Can it thread itself through all the suits of armor, and then fly out?"
+        },
+        {
+          "startUid": "u2168",
+          "endUid": "u2168",
+          "quote": "Seeker: That's an interesting idea."
+        },
+        {
+          "startUid": "u2169",
+          "endUid": "u2170",
+          "quote": "Wellby: Love that so much. Maybe tomorrow."
+        },
+        {
+          "startUid": "u2171",
+          "endUid": "u2171",
+          "quote": "DM: Carry all them, but it can get a few."
+        },
+        {
+          "startUid": "u2172",
+          "endUid": "u2172",
+          "quote": "Delwath: What happens if it fails? The ladder gets crushed to death like it always does, but, like—"
+        },
+        {
+          "startUid": "u2173",
+          "endUid": "u2173",
+          "quote": "Kenzo: Us, yeah."
+        },
+        {
+          "startUid": "u2174",
+          "endUid": "u2174",
+          "quote": "Delwath: Yet, right? Yeah."
+        },
+        {
+          "startUid": "u2197",
+          "endUid": "u2197",
+          "quote": "Kenzo: Is the ladder getting armor right now?"
+        },
+        {
+          "startUid": "u2198",
+          "endUid": "u2198",
+          "quote": "DM: The ladder is attempting to—in the meantime, you can see the, the room with the poison troll seems to have—the tower with the poison troll is sort of completely collapsed, and you can see the poison troll, like, climbing up to the top and just, like, starting to chuck pieces of the tower, like, in all directions."
+        },
+        {
+          "startUid": "u2213",
+          "endUid": "u2213",
+          "quote": "DM: Roll a Dex saving throw for the ladder."
+        },
+        {
+          "startUid": "u2214",
+          "endUid": "u2214",
+          "quote": "Seeker: Dexterity saving, throw to the ladder at least."
+        },
+        {
+          "startUid": "u2215",
+          "endUid": "u2215",
+          "quote": "Delwath: Yeah, might get easy participation."
+        },
+        {
+          "startUid": "u2216",
+          "endUid": "u2217",
+          "quote": "Kenzo: PT Smalls—like, Kenzo doesn't care, but I care."
+        },
+        {
+          "startUid": "u2218",
+          "endUid": "u2220",
+          "quote": "DM: The ladder is beneath a giant chunk of rubble."
+        },
+        {
+          "startUid": "u2221",
+          "endUid": "u2221",
+          "quote": "Seeker: Inspiration."
+        },
+        {
+          "startUid": "u2222",
+          "endUid": "u2222",
+          "quote": "Kenzo: And inspire."
+        },
+        {
+          "startUid": "u2223",
+          "endUid": "u2223",
+          "quote": "Seeker: Connect."
+        },
+        {
+          "startUid": "u2224",
+          "endUid": "u2224",
+          "quote": "Delwath: Like you inspire the ladder?"
+        },
+        {
+          "startUid": "u2225",
+          "endUid": "u2225",
+          "quote": "Seeker: I think we have ruled in the past that we can. I believe the."
+        },
+        {
+          "startUid": "u2226",
+          "endUid": "u2226",
+          "quote": "DM: Yeah guys."
+        },
+        {
+          "startUid": "u2227",
+          "endUid": "u2227",
+          "quote": "Seeker: And for the."
+        },
+        {
+          "startUid": "u2228",
+          "endUid": "u2228",
+          "quote": "DM: You have inspiration left?"
+        },
+        {
+          "startUid": "u2229",
+          "endUid": "u2229",
+          "quote": "Seeker: Yeah, I only used, I think, one or 2."
+        },
+        {
+          "startUid": "u2230",
+          "endUid": "u2231",
+          "quote": "Delwath: Used one with—okay, this is one resource."
+        },
+        {
+          "startUid": "u2232",
+          "endUid": "u2235",
+          "quote": "DM: Yeah. Yeah. Okay, go ahead. Yup. Inspire the ladder. The ladder, from Seeker's inspiration, dodges away, losing one of the 3 pieces of armor it was carrying, but coming away with 2 suits of plate mail and one breastplate."
+        }
+      ],
+      "from": "p10",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Enters the treasure room to recover armor, then escapes falling rubble.",
+          "place": "p06"
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2278",
+        "endUid": "u2287"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Treks down from the ruins to a safe campground and establishes camp around sunset.",
+      "evidence": [
+        {
+          "startUid": "u2237",
+          "endUid": "u2238",
+          "quote": "Riswynn: We throw in the hole and start trekking down the mountain path. Can we just?"
+        },
+        {
+          "startUid": "u2239",
+          "endUid": "u2239",
+          "quote": "Delwath: Jump on the ladder."
+        },
+        {
+          "startUid": "u2240",
+          "endUid": "u2240",
+          "quote": "DM: 2 of you can."
+        },
+        {
+          "startUid": "u2241",
+          "endUid": "u2241",
+          "quote": "Delwath: Guess 2 of us can."
+        },
+        {
+          "startUid": "u2242",
+          "endUid": "u2242",
+          "quote": "DM: Oh, well, it's carrying."
+        },
+        {
+          "startUid": "u2243",
+          "endUid": "u2243",
+          "quote": "Delwath: Yeah."
+        },
+        {
+          "startUid": "u2244",
+          "endUid": "u2244",
+          "quote": "DM: A lot of armor. So."
+        },
+        {
+          "startUid": "u2245",
+          "endUid": "u2245",
+          "quote": "Delwath: It? No, no, probably not. We're gonna pause and put the armor in the hole."
+        },
+        {
+          "startUid": "u2259",
+          "endUid": "u2263",
+          "quote": "DM: So you take, take a few minutes, put the treasure in the hole. If the, if the, if the mountain is collapsing, it's doing so slowly. The, the biggest danger right now is the, the poison troll, who seems to have decided that this is his kingdom and is, like, wants you gone, is chucking rocks in your direction."
+        },
+        {
+          "startUid": "u2264",
+          "endUid": "u2265",
+          "quote": "Delwath: It's an honorable retirement for the, for the—"
+        },
+        {
+          "startUid": "u2266",
+          "endUid": "u2267",
+          "quote": "Seeker: I think the poison troll lives here now. This is—we'll come in, we'll visit someday, Kenzo. The legend of PT. Smalls."
+        },
+        {
+          "startUid": "u2268",
+          "endUid": "u2268",
+          "quote": "DM: Yeah."
+        },
+        {
+          "startUid": "u2269",
+          "endUid": "u2270",
+          "quote": "Seeker: Not over yet them."
+        },
+        {
+          "startUid": "u2271",
+          "endUid": "u2271",
+          "quote": "Riswynn: The halflings will tell the tale of the poison troll on the ruined castle."
+        },
+        {
+          "startUid": "u2272",
+          "endUid": "u2273",
+          "quote": "DM: Yes. So what do you do?"
+        },
+        {
+          "startUid": "u2274",
+          "endUid": "u2275",
+          "quote": "Delwath: I think we hike right?"
+        },
+        {
+          "startUid": "u2276",
+          "endUid": "u2276",
+          "quote": "Riswynn: Down the mountain to the campsite and rest long enough to get teleported the heck out of here."
+        },
+        {
+          "startUid": "u2277",
+          "endUid": "u2277",
+          "quote": "Seeker: Yeah, if we can sleep, we can teleport."
+        },
+        {
+          "startUid": "u2278",
+          "endUid": "u2287",
+          "quote": "DM: It's, it's mid afternoon now, and it takes you a good 4 h to trek down to somewhere that's sort of comfortable and safe to rest. So the time you reach a safe campground, the sun is setting. It's maybe 7 PM. And you, you know, establish your camp and get settled, and as you think and recall the dangers of the battle in your successful flight from the collapsing tower, you all level up."
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "trek",
+      "duration": {
+        "value": 4,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM narrates a good four hours of actual descent."
+      }
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u2355",
+        "endUid": "u2369"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Meets Lyra in a magically constructed tea-room dream while physically remaining at camp.",
+      "evidence": [
+        {
+          "startUid": "u2355",
+          "endUid": "u2358",
+          "quote": "DM: You, you find yourself waiting for a couple of hours until the—button—until the early, almost pre-dawn hours, like 5, 5 AM here, when suddenly you slip into your trance and appear standing next to Archivist Lyra."
+        },
+        {
+          "startUid": "u2359",
+          "endUid": "u2360",
+          "quote": "Delwath: So I'm going to start by telling her—I mean, I'll, I'll make—I can make it look like whatever I want. I'll make it look—"
+        },
+        {
+          "startUid": "u2361",
+          "endUid": "u2361",
+          "quote": "DM: Christ."
+        },
+        {
+          "startUid": "u2362",
+          "endUid": "u2363",
+          "quote": "Delwath: Like a sort of welcoming tea room or something, you know, something like she was the one we met in, like—"
+        },
+        {
+          "startUid": "u2364",
+          "endUid": "u2364",
+          "quote": "DM: Tea with her, and the old rich lady."
+        },
+        {
+          "startUid": "u2365",
+          "endUid": "u2369",
+          "quote": "Delwath: I'll set it up sort of like that, right, like a tea, you know, a tea thing, and I'll be sitting waiting for her. So when she appears, I'll, you know, I'll apologize for intruding on her sleep and tell her that this seems like a easier way to have a conversation than Sending, and that I would like to explain what's been going on and answer further what—my previous message into that—that she's—"
+        }
+      ],
+      "place": "p16",
+      "observerPlace": "p11",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l14",
+      "type": "observation",
+      "source": {
+        "startUid": "u2383",
+        "endUid": "u2384"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Has the recurring dream of Apollyon with wider cracks in the tomb.",
+      "evidence": [
+        {
+          "startUid": "u2383",
+          "endUid": "u2384",
+          "quote": "DM: Kenzo, in the meantime, is having the same dream of Apollyon that you had before, except the cracks in his tomb are now wider."
+        }
+      ],
+      "place": "p17",
+      "observerPlace": "p11",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2998",
+        "endUid": "u3007"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Teleports to the outside of the Voknaz manor gates, meets the scribe, and waits there for the jade.",
+      "evidence": [
+        {
+          "startUid": "u2986",
+          "endUid": "u2990",
+          "quote": "DM: So it's morning, and Seeker now has Teleport back. So the decision is, are you gonna follow your discussed plan and show up at the gates with the Watcher's medallion? Or are you going to teleport to the inside the thing and just try and steal the hand? A—"
+        },
+        {
+          "startUid": "u2991",
+          "endUid": "u2991",
+          "quote": "Delwath: Yeah."
+        },
+        {
+          "startUid": "u2992",
+          "endUid": "u2992",
+          "quote": "Seeker: Gonna be legit about it."
+        },
+        {
+          "startUid": "u2993",
+          "endUid": "u2993",
+          "quote": "Delwath: Let's do the discussed plan."
+        },
+        {
+          "startUid": "u2994",
+          "endUid": "u2994",
+          "quote": "DM: Okay. Yep."
+        },
+        {
+          "startUid": "u2995",
+          "endUid": "u2995",
+          "quote": "Kenzo: But what are you doing?"
+        },
+        {
+          "startUid": "u2996",
+          "endUid": "u2996",
+          "quote": "Delwath: We're not just stealing the."
+        },
+        {
+          "startUid": "u2997",
+          "endUid": "u2997",
+          "quote": "Kenzo: Let's not do that. Let's not just do."
+        },
+        {
+          "startUid": "u2998",
+          "endUid": "u3007",
+          "quote": "DM: Okay? So you teleport to the outside of the, of the gates where the walls part, as you'd seen before, and you are greeted by the, the man that you had—the scribe who you had spoken to before, and then who invisibly had sent you on this message mission, and he looks somewhat nervous and says, \"Do you have it? Much hangs in the balance.\""
+        },
+        {
+          "startUid": "u3037",
+          "endUid": "u3045",
+          "quote": "DM: So you wait. Few hours goes by. A woman brings you at some food. \"Be patient, be patient.\" Another couple hours go by. The sun rises in the sky. Lunchtime comes. You get lunch. Early afternoon—"
+        },
+        {
+          "startUid": "u3046",
+          "endUid": "u3055",
+          "quote": "DM: By mid afternoon he comes out again, and he's bearing in front of him a lead box, and he looks quite happy. Adam. He hands it to you, opens it up. You can see there's a piece of jade in it. He closes it quickly after he opens it to shows it. Bomb."
+        }
+      ],
+      "from": "p11",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "teleport"
+    },
+    {
+      "id": "l16",
+      "type": "observation",
+      "source": {
+        "startUid": "u3197",
+        "endUid": "u3208"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Touching the jade opens a dream-world vision of a vast domed room and Apollyon’s bonds; the vision ends when the jade fuses to his staff.",
+      "evidence": [
+        {
+          "startUid": "u3197",
+          "endUid": "u3200",
+          "quote": "DM: As well. You don't—yeah. But first, as Kenzo takes the—as the, the guy leaves, and Kenzo takes the jade out of the, out of the lead box, and as Kenzo grabs the jade fragment, the world shifts."
+        },
+        {
+          "startUid": "u3201",
+          "endUid": "u3208",
+          "quote": "DM: You're standing in the dream world in a vast domed room. A beam of sunlight shines through the oculus, the circular opening at the crown of the vast ceiling, reflecting from the polished marble floor, somehow lighting the room and sparkling off countless silver stars inside the ceiling. You can feel energy flowing around you, deep, ancient magic of this place that flows beneath your feet."
+        },
+        {
+          "startUid": "u3252",
+          "endUid": "u3256",
+          "quote": "DM: But the chains are breaking, will break, and as you watch, time running in all directions and the chains crack, the vision ends, and the jade fuses onto Kenzo's staff."
+        }
+      ],
+      "place": "p18",
+      "observerPlace": "p13",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u3616",
+        "endUid": "u3627"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Moves a little way from the manor, makes camp by evening, and contacts followers through dreams.",
+      "evidence": [
+        {
+          "startUid": "u3612",
+          "endUid": "u3613",
+          "quote": "Delwath: But is that? Wait? We teleported here this morning."
+        },
+        {
+          "startUid": "u3614",
+          "endUid": "u3614",
+          "quote": "DM: You teleported here this morning, so you can't teleport again till."
+        },
+        {
+          "startUid": "u3615",
+          "endUid": "u3615",
+          "quote": "Delwath: We're gonna—so we're gonna do the—we can do the dreams first, and then the teleport."
+        },
+        {
+          "startUid": "u3616",
+          "endUid": "u3627",
+          "quote": "DM: Exactly. Yeah. So you, you go a little ways off, you make camp. It's, you know, evening already by the time you settle in, and, and you've—it's warmer than this now, I guess. You settle in and you've, you've gotten—you make your camp. You're ready to cast your various spells and prepare in the morning for Seeker to teleport you, the morning of May fifth, 3,000 miles west. Seeker's very confident about this, like, nothing can—"
+        }
+      ],
+      "from": "p13",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "on foot"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u3955",
+        "endUid": "u3963"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The next morning, teleports on target to the coast on the north side of the canal.",
+      "evidence": [
+        {
+          "startUid": "u3616",
+          "endUid": "u3627",
+          "quote": "DM: Exactly. Yeah. So you, you go a little ways off, you make camp. It's, you know, evening already by the time you settle in, and, and you've—it's warmer than this now, I guess. You settle in and you've, you've gotten—you make your camp. You're ready to cast your various spells and prepare in the morning for Seeker to teleport you, the morning of May fifth, 3,000 miles west. Seeker's very confident about this, like, nothing can—"
+        },
+        {
+          "startUid": "u3938",
+          "endUid": "u3941",
+          "quote": "Seeker: Alright! Now I'm rolling to teleport us to the north side of that canal crossing."
+        },
+        {
+          "startUid": "u3942",
+          "endUid": "u3942",
+          "quote": "DM: Yes, which is a place that I wouldn't say you're very familiar. You've seen casually."
+        },
+        {
+          "startUid": "u3943",
+          "endUid": "u3943",
+          "quote": "Seeker: I mean we were there."
+        },
+        {
+          "startUid": "u3944",
+          "endUid": "u3945",
+          "quote": "DM: Yeah, yeah. So that's"
+        },
+        {
+          "startUid": "u3955",
+          "endUid": "u3957",
+          "quote": "DM: Great. Seeker is so good at this teleporting thing. You are exactly on target. 83's on target."
+        },
+        {
+          "startUid": "u3958",
+          "endUid": "u3958",
+          "quote": "Seeker: Right? Nice."
+        },
+        {
+          "startUid": "u3959",
+          "endUid": "u3963",
+          "quote": "DM: Yep. You appear on the coast of the Chardon Sea on the north side of the canal, and that is where we will pick up next time."
+        }
+      ],
+      "from": "p14",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "teleport"
+    }
+  ]
+}

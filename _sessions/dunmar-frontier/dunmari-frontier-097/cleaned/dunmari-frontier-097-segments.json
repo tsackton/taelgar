@@ -1,0 +1,93 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-097",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-097/cleaned/dunmari-frontier-097-session.yaml",
+    "sessionYamlSha256": "e76c10d44b5c9c459ae5c111c33a79443963b5983f15bd662f361aafb3592578",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-097/cleaned/dunmari-frontier-097-transcript.md",
+    "transcriptSha256": "458b71edd5df6df42247804984c6cbb21b8fe8ee2161fa9af64ef3b2bbf18545"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0006"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0007",
+        "endUid": "u0047"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0048",
+        "endUid": "u1706"
+      },
+      "category": "combat",
+      "note": "Continuous initiative includes tactical planning, off-turn powers, confusion, and the destruction of Rhodar in his coffin. The later wraith escape has no repeated ordered turn cycle."
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1707",
+        "endUid": "u2755"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u2756",
+        "endUid": "u2853"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2854",
+        "endUid": "u3256"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u3257",
+        "endUid": "u3606"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u3607",
+        "endUid": "u3908"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u3909",
+        "endUid": "u3920"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u3921",
+        "endUid": "u3967"
+      },
+      "category": "gameplay"
+    }
+  ]
+}

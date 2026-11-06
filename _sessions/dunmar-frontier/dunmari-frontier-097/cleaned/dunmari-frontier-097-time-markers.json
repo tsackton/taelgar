@@ -1,0 +1,813 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-097",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-097/cleaned/dunmari-frontier-097-session.yaml",
+    "sessionYamlSha256": "e76c10d44b5c9c459ae5c111c33a79443963b5983f15bd662f361aafb3592578",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-097/cleaned/dunmari-frontier-097-transcript.md",
+    "transcriptSha256": "458b71edd5df6df42247804984c6cbb21b8fe8ee2161fa9af64ef3b2bbf18545",
+    "yamlDates": {
+      "start": "1749-05-03",
+      "end": "1749-05-05"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u1624",
+        "endUid": "u1624"
+      },
+      "reading": "The post-defeat confusion lasts six seconds and is then resolved.",
+      "evidence": [
+        {
+          "startUid": "u1624",
+          "endUid": "u1624",
+          "quote": "DM: Everybody but Riswynn and Seeker, just, just for 6 s."
+        },
+        {
+          "startUid": "u1656",
+          "endUid": "u1657",
+          "quote": "DM: The coffin is sat. So, okay, so the confusion is over."
+        },
+        {
+          "startUid": "u1658",
+          "endUid": "u1658",
+          "quote": "Seeker: But the ladder got confused, too, just like."
+        },
+        {
+          "startUid": "u1659",
+          "endUid": "u1659",
+          "quote": "DM: The ladder got confused, too."
+        },
+        {
+          "startUid": "u1660",
+          "endUid": "u1660",
+          "quote": "Delwath: Roll a d10, a d10."
+        },
+        {
+          "startUid": "u1661",
+          "endUid": "u1661",
+          "quote": "DM: For the ladder."
+        },
+        {
+          "startUid": "u1662",
+          "endUid": "u1662",
+          "quote": "Kenzo: Down, with with with."
+        },
+        {
+          "startUid": "u1663",
+          "endUid": "u1663",
+          "quote": "DM: Nope, ladder can act normally."
+        }
+      ],
+      "duration": {
+        "value": 0.1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Explicit six seconds, converted to minutes."
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Wellby",
+        "Ladder"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u2026",
+        "endUid": "u2035"
+      },
+      "reading": "Wellby spends about five minutes collecting treasure while the castle collapses; fewer than ten minutes have passed since combat.",
+      "evidence": [
+        {
+          "startUid": "u2026",
+          "endUid": "u2035",
+          "quote": "DM: Make a, make a acrobatics check. Alright, why am I telling you to make it? Your minimum is, like, a 40. You dodge. You spend about 5 min tossing stuff in the hole, dodging falling, falling pieces. You notice, as you start to clear—basically, what you're able to get is the 50 pounds of gold, the diamond statue. What was the other stuff you prioritized?"
+        },
+        {
+          "startUid": "u2047",
+          "endUid": "u2050",
+          "quote": "Wellby: Going. I'm going. I'll say Boots of Speed are still up from—cause it hasn't been 10 min since combat yet. We're only 5 min, so I'm moving very, very quickly."
+        }
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates about five minutes of looting; Wellby confirms the interval."
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u2259",
+        "endUid": "u2263"
+      },
+      "reading": "The party spends a few minutes packing the recovered treasure before descending.",
+      "evidence": [
+        {
+          "startUid": "u2245",
+          "endUid": "u2245",
+          "quote": "Delwath: It? No, no, probably not. We're gonna pause and put the armor in the hole."
+        },
+        {
+          "startUid": "u2246",
+          "endUid": "u2246",
+          "quote": "Seeker: While everything collapses around that."
+        },
+        {
+          "startUid": "u2247",
+          "endUid": "u2247",
+          "quote": "Delwath: Take 2 min, take a minute, open up the hole right?"
+        },
+        {
+          "startUid": "u2248",
+          "endUid": "u2248",
+          "quote": "Seeker: Yeah."
+        },
+        {
+          "startUid": "u2249",
+          "endUid": "u2250",
+          "quote": "Riswynn: We don't want to carry heavy stuff when we have an extradimensional hole."
+        },
+        {
+          "startUid": "u2251",
+          "endUid": "u2251",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u2252",
+          "endUid": "u2252",
+          "quote": "Riswynn: Around."
+        },
+        {
+          "startUid": "u2253",
+          "endUid": "u2253",
+          "quote": "DM: Yes."
+        },
+        {
+          "startUid": "u2254",
+          "endUid": "u2254",
+          "quote": "Seeker: Not greedy."
+        },
+        {
+          "startUid": "u2255",
+          "endUid": "u2256",
+          "quote": "DM: Take a minute. Yeah. Also, there's like 50 pounds of gold. There's a bunch of potions."
+        },
+        {
+          "startUid": "u2259",
+          "endUid": "u2263",
+          "quote": "DM: So you take, take a few minutes, put the treasure in the hole. If the, if the, if the mountain is collapsing, it's doing so slowly. The, the biggest danger right now is the, the poison troll, who seems to have decided that this is his kingdom and is, like, wants you gone, is chucking rocks in your direction."
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Accepted narration of packing time."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u2278",
+        "endUid": "u2287"
+      },
+      "reading": "It is midafternoon when the party begins its descent from the collapsing castle.",
+      "evidence": [
+        {
+          "startUid": "u2278",
+          "endUid": "u2287",
+          "quote": "DM: It's, it's mid afternoon now, and it takes you a good 4 h to trek down to somewhere that's sort of comfortable and safe to rest. So the time you reach a safe campground, the sun is setting. It's maybe 7 PM. And you, you know, establish your camp and get settled, and as you think and recall the dangers of the battle in your successful flight from the collapsing tower, you all level up."
+        }
+      ],
+      "time": {
+        "partOfDay": "midafternoon",
+        "precision": "approximate",
+        "basis": "DM explicitly dates the start of the descent."
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u2278",
+        "endUid": "u2287"
+      },
+      "reading": "A good four hours of descent ends at a safe campground at sunset, about 7 p.m.",
+      "evidence": [
+        {
+          "startUid": "u2278",
+          "endUid": "u2287",
+          "quote": "DM: It's, it's mid afternoon now, and it takes you a good 4 h to trek down to somewhere that's sort of comfortable and safe to rest. So the time you reach a safe campground, the sun is setting. It's maybe 7 PM. And you, you know, establish your camp and get settled, and as you think and recall the dangers of the battle in your successful flight from the collapsing tower, you all level up."
+        }
+      ],
+      "duration": {
+        "value": 4,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated actual descent, described as a good four hours."
+      },
+      "time": {
+        "clock": "19:00",
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM explicitly estimates seven p.m. at arrival."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u2296",
+        "endUid": "u2296"
+      },
+      "reading": "The companions rest at camp overnight and regain their resources by morning; Delwath completes his own rest before the dream contacts.",
+      "evidence": [
+        {
+          "startUid": "u2296",
+          "endUid": "u2296",
+          "quote": "DM: So you rest, you recover."
+        },
+        {
+          "startUid": "u2338",
+          "endUid": "u2340",
+          "quote": "DM: Okay. So you prepare for sleep. Everybody rests."
+        },
+        {
+          "startUid": "u2341",
+          "endUid": "u2341",
+          "quote": "Delwath: I am going to cast Dream."
+        },
+        {
+          "startUid": "u2342",
+          "endUid": "u2344",
+          "quote": "DM: Okay. E—let's say—"
+        },
+        {
+          "startUid": "u2345",
+          "endUid": "u2345",
+          "quote": "Delwath: Late at night, I think, right? Like, the—what's the direction of the—"
+        },
+        {
+          "startUid": "u2346",
+          "endUid": "u2347",
+          "quote": "DM: Chardon's west, so it's earlier, right."
+        },
+        {
+          "startUid": "u2348",
+          "endUid": "u2350",
+          "quote": "Delwath: So I will long rest first, cast Dream at, like, 2 in the morning after I've done my trance, and I'm ready for—"
+        },
+        {
+          "startUid": "u2351",
+          "endUid": "u2351",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u2986",
+          "endUid": "u2990",
+          "quote": "DM: So it's morning, and Seeker now has Teleport back. So the decision is, are you gonna follow your discussed plan and show up at the gates with the Watcher's medallion? Or are you going to teleport to the inside the thing and just try and steal the hand? A—"
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention for the companions; Delwath’s trance has its separately stated completion."
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Riswynn",
+        "Seeker"
+      ],
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u2345",
+        "endUid": "u2351"
+      },
+      "reading": "After finishing his rest/trance, Delwath casts Dream at about two in the morning.",
+      "evidence": [
+        {
+          "startUid": "u2345",
+          "endUid": "u2345",
+          "quote": "Delwath: Late at night, I think, right? Like, the—what's the direction of the—"
+        },
+        {
+          "startUid": "u2346",
+          "endUid": "u2347",
+          "quote": "DM: Chardon's west, so it's earlier, right."
+        },
+        {
+          "startUid": "u2348",
+          "endUid": "u2350",
+          "quote": "Delwath: So I will long rest first, cast Dream at, like, 2 in the morning after I've done my trance, and I'm ready for—"
+        },
+        {
+          "startUid": "u2351",
+          "endUid": "u2351",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u2352",
+          "endUid": "u2352",
+          "quote": "Delwath: Or something, and it lasts for 8 h, so as long as she goes to sleep."
+        },
+        {
+          "startUid": "u2353",
+          "endUid": "u2353",
+          "quote": "DM: Oh, yeah."
+        },
+        {
+          "startUid": "u2354",
+          "endUid": "u2354",
+          "quote": "Delwath: Time, in those 8 h."
+        }
+      ],
+      "time": {
+        "clock": "02:00",
+        "precision": "approximate",
+        "basis": "Delwath’s accepted casting time after his own rest."
+      },
+      "actors": [
+        "Delwath"
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2355",
+        "endUid": "u2358"
+      },
+      "reading": "Delwath waits a couple of hours for Lyra to sleep and makes contact at about five a.m. by his local clock.",
+      "evidence": [
+        {
+          "startUid": "u2355",
+          "endUid": "u2358",
+          "quote": "DM: You, you find yourself waiting for a couple of hours until the—button—until the early, almost pre-dawn hours, like 5, 5 AM here, when suddenly you slip into your trance and appear standing next to Archivist Lyra."
+        }
+      ],
+      "duration": {
+        "text": "a couple of hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "DM narrates actual waiting; approximate two-to-five clock anchors are not made into an exact duration."
+      },
+      "time": {
+        "clock": "05:00",
+        "partOfDay": "pre-dawn",
+        "precision": "approximate",
+        "basis": "DM explicitly says five a.m. here, at Delwath’s location, rather than Lyra’s western clock."
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2383",
+        "endUid": "u2384"
+      },
+      "reading": "While Delwath speaks with Lyra, Kenzo has the recurring dream of Apollyon with wider cracks in his tomb.",
+      "evidence": [
+        {
+          "startUid": "u2383",
+          "endUid": "u2384",
+          "quote": "DM: Kenzo, in the meantime, is having the same dream of Apollyon that you had before, except the cracks in his tomb are now wider."
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "same_time",
+          "reference": "t08",
+          "anchor": "Delwath’s contact with Lyra"
+        },
+        "precision": "approximate",
+        "basis": "The DM says Kenzo dreams in the meantime."
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "context": "vision",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t06"
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2986",
+        "endUid": "u2990"
+      },
+      "reading": "It is morning when the rested party prepares to teleport to the manor gates.",
+      "evidence": [
+        {
+          "startUid": "u2986",
+          "endUid": "u2990",
+          "quote": "DM: So it's morning, and Seeker now has Teleport back. So the decision is, are you gonna follow your discussed plan and show up at the gates with the Watcher's medallion? Or are you going to teleport to the inside the thing and just try and steal the hand? A—"
+        },
+        {
+          "startUid": "u2991",
+          "endUid": "u2991",
+          "quote": "Delwath: Yeah."
+        },
+        {
+          "startUid": "u2992",
+          "endUid": "u2992",
+          "quote": "Seeker: Gonna be legit about it."
+        },
+        {
+          "startUid": "u2993",
+          "endUid": "u2993",
+          "quote": "Delwath: Let's do the discussed plan."
+        },
+        {
+          "startUid": "u2994",
+          "endUid": "u2994",
+          "quote": "DM: Okay. Yep."
+        },
+        {
+          "startUid": "u2998",
+          "endUid": "u3007",
+          "quote": "DM: Okay? So you teleport to the outside of the, of the gates where the walls part, as you'd seen before, and you are greeted by the, the man that you had—the scribe who you had spoken to before, and then who invisibly had sent you on this message mission, and he looks somewhat nervous and says, \"Do you have it? Much hangs in the balance.\""
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "DM explicitly resumes morning play with Teleport restored."
+      }
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u3037",
+        "endUid": "u3045"
+      },
+      "reading": "Waiting at the gates occupies several hours through lunchtime; the party receives food and lunch.",
+      "evidence": [
+        {
+          "startUid": "u3037",
+          "endUid": "u3045",
+          "quote": "DM: So you wait. Few hours goes by. A woman brings you at some food. \"Be patient, be patient.\" Another couple hours go by. The sun rises in the sky. Lunchtime comes. You get lunch. Early afternoon—"
+        }
+      ],
+      "time": {
+        "partOfDay": "lunchtime",
+        "precision": "approximate",
+        "basis": "Explicit lunch anchor during the narrated wait."
+      },
+      "duration": {
+        "text": "a few hours and another couple of hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "The DM narrates the waiting in two loose increments, not exact clock measurements."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u3046",
+        "endUid": "u3055"
+      },
+      "reading": "The scribe delivers the jade by midafternoon on May 4.",
+      "evidence": [
+        {
+          "startUid": "u3046",
+          "endUid": "u3055",
+          "quote": "DM: By mid afternoon he comes out again, and he's bearing in front of him a lead box, and he looks quite happy. Adam. He hands it to you, opens it up. You can see there's a piece of jade in it. He closes it quickly after he opens it to shows it. Bomb."
+        },
+        {
+          "startUid": "u3468",
+          "endUid": "u3469",
+          "quote": "Delwath: Wow! We have a bucket right? Isn't it like May second, or something like that?"
+        },
+        {
+          "startUid": "u3470",
+          "endUid": "u3470",
+          "quote": "DM: It's May fourth."
+        },
+        {
+          "startUid": "u3471",
+          "endUid": "u3471",
+          "quote": "Delwath: Okay? So we have a month. We have 26 days."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 4
+        },
+        "partOfDay": "midafternoon",
+        "precision": "approximate",
+        "basis": "Midafternoon is spoken at delivery; later present-day correction says May fourth. The year comes from YAML."
+      }
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u3197",
+        "endUid": "u3200"
+      },
+      "reading": "Touching the jade shifts Kenzo into the dream-world vision; its sunlight establishes no adventure clock.",
+      "evidence": [
+        {
+          "startUid": "u3197",
+          "endUid": "u3200",
+          "quote": "DM: As well. You don't—yeah. But first, as Kenzo takes the—as the, the guy leaves, and Kenzo takes the jade out of the, out of the lead box, and as Kenzo grabs the jade fragment, the world shifts."
+        },
+        {
+          "startUid": "u3201",
+          "endUid": "u3208",
+          "quote": "DM: You're standing in the dream world in a vast domed room. A beam of sunlight shines through the oculus, the circular opening at the crown of the vast ceiling, reflecting from the polished marble floor, somehow lighting the room and sparkling off countless silver stars inside the ceiling. You can feel energy flowing around you, deep, ancient magic of this place that flows beneath your feet."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "context": "vision",
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t12",
+          "anchor": "Receipt and opening of the jade box"
+        },
+        "precision": "approximate",
+        "basis": "The vision starts when Kenzo takes the fragment."
+      }
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u3234",
+        "endUid": "u3241"
+      },
+      "reading": "Within the vision, time ruptures into past, present and future at once; this is not elapsed adventure time.",
+      "evidence": [
+        {
+          "startUid": "u3234",
+          "endUid": "u3235",
+          "quote": "DM: Suddenly, as you pull all of these chains and locks and bonds in your hand, time ruptures, and the vision splinters."
+        },
+        {
+          "startUid": "u3236",
+          "endUid": "u3241",
+          "quote": "DM: You see the past, the present, the future all at once. Magical bonds that keep Apollyon powerless and that chained him immobile to his tomb fracture, have been fractured for many years. The flow of energy shifts and is shifting now, and magic pours into Apollyon's tomb. Yet his soulstone is still trapped."
+        },
+        {
+          "startUid": "u3242",
+          "endUid": "u3246",
+          "quote": "DM: The souls of the dead killed in Apollyon's name give him power. They pour into Drankor. They're still pouring into Drankor. Many, but too few, far too few. Hundreds only, when thousands or more would have been better."
+        },
+        {
+          "startUid": "u3247",
+          "endUid": "u3251",
+          "quote": "DM: Still, hundreds are enough, maybe, to shatter the last wards and locks and be free. But it'll take time. Weeks to do it now, instead of instantaneously in the vision where thousands are dead."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u3252",
+        "endUid": "u3256"
+      },
+      "reading": "The vision ends and present play resumes as the jade fuses to Kenzo’s staff.",
+      "evidence": [
+        {
+          "startUid": "u3252",
+          "endUid": "u3256",
+          "quote": "DM: But the chains are breaking, will break, and as you watch, time running in all directions and the chains crack, the vision ends, and the jade fuses onto Kenzo's staff."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t12"
+        }
+      ]
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u3616",
+        "endUid": "u3627"
+      },
+      "reading": "The party makes a nearby camp and is settled by evening on May 4.",
+      "evidence": [
+        {
+          "startUid": "u3612",
+          "endUid": "u3613",
+          "quote": "Delwath: But is that? Wait? We teleported here this morning."
+        },
+        {
+          "startUid": "u3614",
+          "endUid": "u3614",
+          "quote": "DM: You teleported here this morning, so you can't teleport again till."
+        },
+        {
+          "startUid": "u3615",
+          "endUid": "u3615",
+          "quote": "Delwath: We're gonna—so we're gonna do the—we can do the dreams first, and then the teleport."
+        },
+        {
+          "startUid": "u3616",
+          "endUid": "u3627",
+          "quote": "DM: Exactly. Yeah. So you, you go a little ways off, you make camp. It's, you know, evening already by the time you settle in, and, and you've—it's warmer than this now, I guess. You settle in and you've, you've gotten—you make your camp. You're ready to cast your various spells and prepare in the morning for Seeker to teleport you, the morning of May fifth, 3,000 miles west. Seeker's very confident about this, like, nothing can—"
+        },
+        {
+          "startUid": "u3470",
+          "endUid": "u3470",
+          "quote": "DM: It's May fourth."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 4
+        },
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "Narrated evening after the explicit May fourth present-day correction; year from YAML."
+      }
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u3662",
+        "endUid": "u3672"
+      },
+      "reading": "The follower dream contacts take place concurrently during the second camp’s night.",
+      "evidence": [
+        {
+          "startUid": "u3662",
+          "endUid": "u3672",
+          "quote": "DM: So you all cast these spells, and everybody appears in your dreams. So let's see. Kethra goes first. She, she says, \"Riswynn! It's so great to see you. We've had quite the adventure. Hope you're okay. Are you coming back soon? Not quite sure where Faldrak is taking us right now?\""
+        },
+        {
+          "startUid": "u3755",
+          "endUid": "u3755",
+          "quote": "Delwath: You can. Yeah, you can. These dreams all happen concurrently."
+        },
+        {
+          "startUid": "u3756",
+          "endUid": "u3756",
+          "quote": "DM: Yeah, yeah."
+        },
+        {
+          "startUid": "u3757",
+          "endUid": "u3757",
+          "quote": "Riswynn: Yeah, every day."
+        },
+        {
+          "startUid": "u3758",
+          "endUid": "u3758",
+          "quote": "Delwath: Asleep. Right? That's how the dream works. Yes."
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t16",
+          "anchor": "Settling at the second camp"
+        },
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "Spells are cast after evening camp; dialogue explicitly confirms these dreams all happen concurrently."
+      },
+      "actors": [
+        "Delwath",
+        "Riswynn",
+        "Seeker",
+        "Kenzo"
+      ]
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u3955",
+        "endUid": "u3963"
+      },
+      "reading": "After the second overnight rest, the party teleports on target to the canal coast on the morning of May 5.",
+      "evidence": [
+        {
+          "startUid": "u3612",
+          "endUid": "u3613",
+          "quote": "Delwath: But is that? Wait? We teleported here this morning."
+        },
+        {
+          "startUid": "u3614",
+          "endUid": "u3614",
+          "quote": "DM: You teleported here this morning, so you can't teleport again till."
+        },
+        {
+          "startUid": "u3615",
+          "endUid": "u3615",
+          "quote": "Delwath: We're gonna—so we're gonna do the—we can do the dreams first, and then the teleport."
+        },
+        {
+          "startUid": "u3616",
+          "endUid": "u3627",
+          "quote": "DM: Exactly. Yeah. So you, you go a little ways off, you make camp. It's, you know, evening already by the time you settle in, and, and you've—it's warmer than this now, I guess. You settle in and you've, you've gotten—you make your camp. You're ready to cast your various spells and prepare in the morning for Seeker to teleport you, the morning of May fifth, 3,000 miles west. Seeker's very confident about this, like, nothing can—"
+        },
+        {
+          "startUid": "u3938",
+          "endUid": "u3941",
+          "quote": "Seeker: Alright! Now I'm rolling to teleport us to the north side of that canal crossing."
+        },
+        {
+          "startUid": "u3942",
+          "endUid": "u3942",
+          "quote": "DM: Yes, which is a place that I wouldn't say you're very familiar. You've seen casually."
+        },
+        {
+          "startUid": "u3943",
+          "endUid": "u3943",
+          "quote": "Seeker: I mean we were there."
+        },
+        {
+          "startUid": "u3944",
+          "endUid": "u3945",
+          "quote": "DM: Yeah, yeah. So that's"
+        },
+        {
+          "startUid": "u3955",
+          "endUid": "u3957",
+          "quote": "DM: Great. Seeker is so good at this teleporting thing. You are exactly on target. 83's on target."
+        },
+        {
+          "startUid": "u3958",
+          "endUid": "u3958",
+          "quote": "Seeker: Right? Nice."
+        },
+        {
+          "startUid": "u3959",
+          "endUid": "u3963",
+          "quote": "DM: Yep. You appear on the coast of the Chardon Sea on the north side of the canal, and that is where we will pick up next time."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 5
+        },
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "DM names the intended morning of May fifth; final Teleport roll resolves the stated next-morning transition. Year comes from YAML."
+      },
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention for the accepted overnight recovery of Teleport, not a measured eight-hour clock interval."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "May fourth is explicitly corrected at u3468–u3471; the next-morning teleport is named May fifth at u3616–u3627 and resolved at u3955–u3963. Year 1749 comes from YAML. The preceding castle/descent day is May 3 by the established intervening overnight, not by assuming continuity with DF095.",
+    "expectedDateBoundaries": 2,
+    "supportedDateBoundaries": 2,
+    "evidence": [
+      "t05",
+      "t06",
+      "t10",
+      "t12",
+      "t16",
+      "t18"
+    ],
+    "explanation": "The castle escape and sunset camp precede one completed overnight; the May 4 gate bargain precedes a second camp and the May 5 morning teleport. Both calendar transitions are supported. The May 1 attack, earlier scrying, crew adventures, estimated future journeys and end-of-May deadline are reports or forecasts, not additional elapsed session days. DF096 is an intervening narrative session; no 095-to-097 handoff or invented missing interval is used."
+  }
+}
