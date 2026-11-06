@@ -1,0 +1,600 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-108",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+    "sessionYamlSha256": "6a6ffa0e68c35a18aca5e58c6d9f7af0687feeaf1e220358e16c1df980a8cb0b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-transcript.md",
+    "transcriptSha256": "103e3505e672498e70879a8e0b49164fef6cdf3edb512d970f3c796b26e8689f",
+    "yamlDates": {
+      "start": "1749-05-18",
+      "end": "1749-05-19"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0503",
+        "endUid": "u0506"
+      },
+      "reading": "The ongoing survey at the statue is about two in the afternoon.",
+      "evidence": [
+        {
+          "startUid": "u0503",
+          "endUid": "u0506",
+          "quote": "And it's about 2:00 in the afternoon right now."
+        }
+      ],
+      "time": {
+        "clock": "14:00",
+        "precision": "approximate",
+        "basis": "DM gives the current approximate afternoon clock."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0562",
+        "endUid": "u0566"
+      },
+      "reading": "After leaving the hostel, the party reaches the outskirts of the manor grounds in about ten minutes.",
+      "evidence": [
+        {
+          "startUid": "u0562",
+          "endUid": "u0566",
+          "quote": "DM: And you two are sort of a little bit ahead being sneaky. Okay. Um, so as you, as you cross the road and you begin to enter into a little bit more disturbed terrain, um, there actually are still a few trees growing here and, uh, very quickly within about a 10 minute walk, um, you seem to be entering into what looks like the outskirts of, um, a large sort of manor grounds."
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated walk into the grounds."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0627",
+        "endUid": "u0629"
+      },
+      "reading": "The party spends ten minutes establishing its telepathic bond before approaching too close to the tower.",
+      "evidence": [
+        {
+          "startUid": "u0627",
+          "endUid": "u0629",
+          "quote": "DM: Okay. So one thing you see as you two come a- and I assume at this point having... Before you s- before you come too close, you like take 10 minutes and telepathize so you've all got-\n\nKenzo: Yes. Yeah, yeah, yeah."
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM proposes the actual ritual and the players confirm it."
+      },
+      "completion": "completed",
+      "note": "The ritual is inserted retrospectively into the approach; its overlap or addition to the ten-minute walk is not established."
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u2037",
+        "endUid": "u2041"
+      },
+      "reading": "About an hour has passed while Ghesh guides Kenzo toward Megren; the concealed companions follow the same journey.",
+      "evidence": [
+        {
+          "startUid": "u1877",
+          "endUid": "u1882",
+          "quote": "Kenzo: So just as, as we're, as we're walking, um, uh, his name is Ghesh again?\n\nDM: Ghesh, yeah.\n\nKenzo: Uh, yeah, Kenzo's just like, you know, is just like shooting the shit with him. Just like, you know, it's like, \"Tell me more about, like, so you got eight friends, you know? Is this, or is this your clan?\""
+        },
+        {
+          "startUid": "u2037",
+          "endUid": "u2041",
+          "quote": "Yeah, you're getting close. It's been, it's been about an hour."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM measures the walk already made while they approach the destination."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u3100",
+        "endUid": "u3109"
+      },
+      "reading": "The party spends two hours crossing the landscape and reaches the forest eaves.",
+      "evidence": [
+        {
+          "startUid": "u3100",
+          "endUid": "u3109",
+          "quote": "over the course of the next two hours you invisibly make your way across the landscape to the eaves of the forests."
+        },
+        {
+          "startUid": "u3124",
+          "endUid": "u3132",
+          "quote": "You, you reach the edge of the forest just about where the pilgrim's path that comes from the north enters the forest."
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "DM narrates the completed overland journey."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u3147",
+        "endUid": "u3149"
+      },
+      "reading": "Entering the forest is placed at about seven in the evening, with the light getting low.",
+      "evidence": [
+        {
+          "startUid": "u3147",
+          "endUid": "u3149",
+          "quote": "DM: But still when you s—I mean, when you step inside at 7:00, like you know, sun—sun sets quickly in the tropics, and you know, it's already start—the light is starting to get low, and so there's long shadows that are kind of cast across the, the, you know, the few open clearings that you pass through."
+        }
+      ],
+      "time": {
+        "clock": "19:00",
+        "precision": "approximate",
+        "basis": "Direct clock for the forest entry."
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u3341",
+        "endUid": "u3352"
+      },
+      "reading": "The party walks along the quickening forest road for about an hour as the sun sets.",
+      "evidence": [
+        {
+          "startUid": "u3341",
+          "endUid": "u3343",
+          "quote": "DM: So you walk, as you talk, you walk along the forest road. And again, like I was saying, it, it feels almost as if your pace is quickened by the road you're walking on."
+        },
+        {
+          "startUid": "u3345",
+          "endUid": "u3346",
+          "quote": "DM: And you're covering ground surprisingly fast as the sun sets. Over the course of about an hour, the sun sinks."
+        },
+        {
+          "startUid": "u3348",
+          "endUid": "u3352",
+          "quote": "DM: Sunset lights up the sky, and you hear to the right of the path, so west, as you're heading to the mountain, what sounds like the sound of running water and a waterfall. Keep walking? [laughs]"
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM narrates sunset during this walking interval."
+      },
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM says the sun sinks over about an hour of walking."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u3420",
+        "endUid": "u3427"
+      },
+      "reading": "After another loosely estimated hour of walking, the roadside-pool scene is explicitly placed at about eight at night.",
+      "evidence": [
+        {
+          "startUid": "u3414",
+          "endUid": "u3414",
+          "quote": "DM: So you keep walking as the darkness sets and the moon rises."
+        },
+        {
+          "startUid": "u3420",
+          "endUid": "u3421",
+          "quote": "DM: ... um, another, another, you know, hour or so-"
+        },
+        {
+          "startUid": "u3422",
+          "endUid": "u3422",
+          "quote": "Delwath: So, so like 8:00 at night."
+        },
+        {
+          "startUid": "u3423",
+          "endUid": "u3427",
+          "quote": "DM: ... walking, it's like 8:00 at night, um, uh, you pass again, um, a place where, um, a stream seems to flow like on the right side, or sorry, on the left side now 'cause the east seems to s- s- flow close to the, very close to the, the, um, the road."
+        }
+      ],
+      "time": {
+        "clock": "20:00",
+        "precision": "approximate",
+        "basis": "Player asks whether it is eight; DM agrees in the continued narration."
+      },
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM says another hour or so; this is a loose travel estimate."
+      },
+      "completion": "completed",
+      "note": "The two approximate hour estimates after the seven-o’clock entry do not add cleanly to this eight-o’clock clock. Both source readings remain unresolved."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u3733",
+        "endUid": "u3735"
+      },
+      "reading": "While the messenger is away, the party completes one short rest, not a second rest after the scrying.",
+      "evidence": [
+        {
+          "startUid": "u3730",
+          "endUid": "u3735",
+          "quote": "Kenzo: Should we short rest anyways while we wait?\n\nDelwath: I mean, that I was just thinking maybe we should short rest while we're waiting.\n\nKenzo: That'd be great. That'll get all my ki back.\n\nDM: Okay. Send it off. Short rest. Yes. No response comes."
+        },
+        {
+          "startUid": "u3810",
+          "endUid": "u3819",
+          "quote": "Delwath: But so the lynx comes back, right?\n\nDM: The lynx comes back.\n\nDelwath: After an hour.\n\nDM: After an hour.\n\nDelwath: And?\n\nDM: No response.\n\nDelwath: But did it fi—I mean, it didn't, like, wander around for the hour looking for the person.\n\nDM: Yeah, yeah. No.\n\nUnknown: It found the person.\n\nDM: It definitely found the person."
+        },
+        {
+          "startUid": "u3830",
+          "endUid": "u3831",
+          "quote": "DM: It's not a familiar. It's just like a spirit messenger. So you finish your short rest uneventfully."
+        },
+        {
+          "startUid": "u3954",
+          "endUid": "u3975",
+          "quote": "Delwath: And I wanted to short rest, so I didn't want to scry again.\n\nDM: Struggling to pull the giant block of stone up, but you didn't see the mechanism that he was trying to set.\n\nDelwath: So he's had an hour to still build it since we—\n\nDM: Yeah, this is right at the beginning. It's sort of been, this would've been shortly after-\n\nDelwath: As soon as I sent... No, not even. As soon as I sent the lynx, we would've s—I would've cast scry pretty much. Or, like, it's not... 'Cause the hour, actually the hour, I would've probably seen... Okay, so the point was to short rest during the hour the lynx was gone.\n\nDM: Okay, well this hap—this is all happening after the lynx came.\n\nUnknown: Yeah.\n\nDM: So maybe you didn't see it.\n\nDelwath: Well, no, the lynx would have-\n\nDM: Oh, the lynx would've been there faster.\n\nDelwath: ... the lynx got there in two minutes.\n\nUnknown: It was the 50 mile an hour wind.\n\nDM: Right, so you actually see the lynx waiting there.\n\nUnknown: Yeah.\n\nDM: And in your scry, it's just standing there.\n\nUnknown: With the, like message glowing in its jaw or something.\n\nDM: And it seems to be ignoring it completely."
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "The messenger returns after an hour and the DM confirms the completed short rest."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u3792",
+        "endUid": "u3792"
+      },
+      "reading": "The messenger-waiting/rest scene is placed at nine at night.",
+      "evidence": [
+        {
+          "startUid": "u3792",
+          "endUid": "u3793",
+          "quote": "DM: It's 9:00 at night.\n\nWellby: It's night time."
+        }
+      ],
+      "time": {
+        "clock": "21:00",
+        "precision": "approximate",
+        "basis": "Direct current-time statement during the rest account."
+      }
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u3843",
+        "endUid": "u3848"
+      },
+      "reading": "The table plays out Delwath’s scrying, then explicitly places it near the beginning of that same short rest.",
+      "evidence": [
+        {
+          "startUid": "u3843",
+          "endUid": "u3848",
+          "quote": "Delwath: Can I try and scry Dimitaur?\n\nDM: You can tr- You, you... There's nothing stopping you from trying to scry on literally anybody.\n\nKenzo: You should totally try to scry Dimitaur.\n\nDelwath: Yeah, fine. I'm gonna try and scry.\n\nDM: Okay."
+        },
+        {
+          "startUid": "u3901",
+          "endUid": "u3903",
+          "quote": "Delwath: All right. I'll watch him for a few minutes.\n\nDM: Okay."
+        },
+        {
+          "startUid": "u3954",
+          "endUid": "u3975",
+          "quote": "Delwath: And I wanted to short rest, so I didn't want to scry again.\n\nDM: Struggling to pull the giant block of stone up, but you didn't see the mechanism that he was trying to set.\n\nDelwath: So he's had an hour to still build it since we—\n\nDM: Yeah, this is right at the beginning. It's sort of been, this would've been shortly after-\n\nDelwath: As soon as I sent... No, not even. As soon as I sent the lynx, we would've s—I would've cast scry pretty much. Or, like, it's not... 'Cause the hour, actually the hour, I would've probably seen... Okay, so the point was to short rest during the hour the lynx was gone.\n\nDM: Okay, well this hap—this is all happening after the lynx came.\n\nUnknown: Yeah.\n\nDM: So maybe you didn't see it.\n\nDelwath: Well, no, the lynx would have-\n\nDM: Oh, the lynx would've been there faster.\n\nDelwath: ... the lynx got there in two minutes.\n\nUnknown: It was the 50 mile an hour wind.\n\nDM: Right, so you actually see the lynx waiting there.\n\nUnknown: Yeah.\n\nDM: And in your scry, it's just standing there.\n\nUnknown: With the, like message glowing in its jaw or something.\n\nDM: And it seems to be ignoring it completely."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "context": "flashback",
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t09",
+          "anchor": "Shortly after the messenger departs, near the beginning of the short-rest interval."
+        },
+        "precision": "approximate",
+        "basis": "Later correction places the scrying before the rest finishes, with the lynx still waiting."
+      },
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Delwath says he watches for a few minutes and the DM accepts."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t09"
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u3999",
+        "endUid": "u4006"
+      },
+      "reading": "Returning to the post-rest walk, another half hour brings the party to the elven memorial at the circular-road junction.",
+      "evidence": [
+        {
+          "startUid": "u3941",
+          "endUid": "u3944",
+          "quote": "DM: So do you continue, continue walking?\n\nKenzo: Trust is strong here. [laughs] Yeah.\n\nUnknown: Yeah, I think we-\n\nKenzo: Let's just go in. Let's go talk to him."
+        },
+        {
+          "startUid": "u3995",
+          "endUid": "u4006",
+          "quote": "Kenzo: Let's go up to the temple.\n\nUnknown: Well, yeah, let's do it.\n\nKenzo: Have a chat with this dude.\n\nUnknown: Let's do it.\n\nDM: So you keep walking. After another, like half an hour of walking, you, you come to the point where the road curves and it seems to spiral, to join, um, like a circular road.\n\nDM: And just where it joins this road that's circling up to the top of the mountain, um, you see, uh, again, on the edge of the path, a sort of a slight clearing where there's two unusually tall trees. And almost like growing between the trees there's this sort of curving piece of, uh, sort of pale gray stone, but it looks like... This actually sort of grows into the trees. And written on the stone are hundreds of names of elves written in Elvish. But the s- the, the scripts almost seem to like drift slowly through the stone between the two trees."
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "value": 0.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM narrates another half hour of walking after the rest."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t09"
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u4031",
+        "endUid": "u4038"
+      },
+      "reading": "Touching the memorial shifts Delwath into a remembered elf’s battle and earlier life, long ago and far away.",
+      "evidence": [
+        {
+          "startUid": "u4031",
+          "endUid": "u4041",
+          "quote": "DM: So when you touch it, um, one of these like names kind of drifts towards your hand and you suddenly have a memor—a, you suddenly see a vision or a memory-\n\nKenzo: Mm.\n\nDM: ... of, um, an elf standing in a rank of hundreds of elves, um, on a battlements watching a fleet of ships sailing on a sea. You don't recognize any of this. Um, and as they're, um, drawing their, like arrows, suddenly they all draw their arrows and suddenly like all of the arrows burst into flames immediately as they're released from the bows, and this rain of fire flies down on the ships.\n\nDM: And then something flies up from one of the ships, like a, not a dragon, like some sort of twisted beast like the Nazgul creatures in The Lord of the Rings, right? And dives down and grabs this elf and like rips him-"
+        },
+        {
+          "startUid": "u4047",
+          "endUid": "u4049",
+          "quote": "DM: Yeah. Then you, you see echoes of like memories going back of this elf, of like the sort of history of-\n\nKenzo: This is cool though.\n\nDM: ... this elf."
+        },
+        {
+          "startUid": "u4058",
+          "endUid": "u4073",
+          "quote": "DM: ... it seems like the, so the, the sort of magic of it is when you put your hand there, some names sort of drift towards you, right? Like the ones that maybe are the, the closest to you and you, you, you see back in this person's life and you see that they were originally, uh—they first joined the army as a quartermaster, and you see them cooking, right? You see like they were... You, you get a sort of reflection or echo of some of the things they left behind and the people that they, other elves and humans that they cared for.\n\nDelwath: Any way of telling where they were born or grew up? Or-\n\nDM: No.\n\nKenzo: But this is-\n\nDM: Long ago and far away.\n\nKenzo: Yeah.\n\nDM: But y- the sense, like the feeling you get is like this: your in—your intuition is that all of these are names of elves who died."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "context": "vision",
+      "note": "The remembered battle and quartermaster’s life do not extend the session’s adventure-date span."
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u4094",
+        "endUid": "u4108"
+      },
+      "reading": "The narration returns to present play at the memorial as Kenzo addresses a tree.",
+      "evidence": [
+        {
+          "startUid": "u4076",
+          "endUid": "u4095",
+          "quote": "Delwath: I'm gonna gesture for Kenzo to come over and see.\n\nDM: Sure.\n\nUnknown: We should see what happens.\n\nDM: Hmm. Nothing.\n\nUnknown: Racist.\n\nWellby: [laughs] Like Delwath knew that that would be the case.\n\nKenzo: [laughs]\n\nUnknown: [laughs]\n\nDM: I mean, you-\n\nUnknown: Touch the point.\n\nDM: ... it's not nothing. I, uh, um, like you, you don't see the like flashes of memory, but you definitely feel the sort of vibe. Like you get more of a th—there's no specific elf that kind of is drawn to Kenzo. Um, but you get this sort of vibe, right? You get the sort of general sense of, you know, all of these are people who died in battle. Like you get this echo of like the lives of all of these people and sort of just a vague sense of-\n\nKenzo: Yeah.\n\nDM: ... you know.\n\nKenzo: Kenzo, Kenzo goes to, uh, talk to the tree. 'Cause you know, there are two trees and then the-"
+        },
+        {
+          "startUid": "u4102",
+          "endUid": "u4108",
+          "quote": "Kenzo: So, so Kenzo gets close to the tree and, um, as it, as he, as he approaches, holding his, uh, you know, staff made out of elven, you know, whatever-\n\nDM: Yeah.\n\nKenzo: ... um, uh, you know, kind of asks for permission to, to touch it and to get close.\n\nDM: You, you get this sense of something kind of being drawn out from a deep sleep, but also yes, and also a weird sense of recognition."
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Delwath"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t12"
+        }
+      ]
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u4361",
+        "endUid": "u4362"
+      },
+      "reading": "The forest answers Kenzo’s request with a remembered image of pilgrims and a more vibrant moonlit forest.",
+      "evidence": [
+        {
+          "startUid": "u4361",
+          "endUid": "u4399",
+          "quote": "Kenzo: Uh, and I, I basically tell it that I want to also remember it, and I'm saying it as, like, the... Like, and I—I'm asking for it to share back to me a memory or an image that I can put into the staff.\n\nDM: You... Yeah, I get what you're going for. Um, so you, you see, you see an image of what must be long ago, the moon still shining, um, and people walking on the road. A- you know, everybody's, you know, carrying different things. Like, there's a couple elves, there's humans. Um, there's, like, one stoneborn. Like, it's not... It's a mixed species flock, right? Like, there's this just people traveling, and, and you do get the feel it—like you have a sort of vibe, right? It's not a clear image. It's more of a vibe. Yeah. It is mostly humans and elves, but...\n\nDM: And everybody is remembered in different ways, right? The, the humans have their gods, the elves have their gods. But everywhere through the forest, everybody is remembered.\n\nKenzo: Hmm.\n\nDM: And then, and you get the vibe of, like, the forest. Y- you know, it's vibrant, right? It's like, you know, the s—the moon is shining, but the leaves are sort of rustling. The f- flowers are blooming. There's... And it seems it's much more alive than it seems now. Like, the trees are fine, right, but there's-\n\nKenzo: Hmm.\n\nDM: ... just less. Th- everything's duller-\n\nKenzo: Mm-hmm.\n\nDM: ... than it once was, and there's almost this echo of, like, a sense of loss. Like, something was cut off. Something was... The, the, the forest, the trees, all speaking as the collective sense, were isolated somehow.\n\nKenzo: And they don't know how.\n\nDM: They don't know how."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "context": "vision",
+      "note": "The remembered moonlight is local to the image; it supplies no new current-play watch or date."
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u4400",
+        "endUid": "u4403"
+      },
+      "reading": "Kenzo returns to the present memorial scene and describes the forest-and-pilgrims carving he wants for his staff.",
+      "evidence": [
+        {
+          "startUid": "u4398",
+          "endUid": "u4408",
+          "quote": "Kenzo: And they don't know how.\n\nDM: They don't know how.\n\nKenzo: Yeah. All right. Yeah, 'cause I was gonna carve, like, a really cool, like, forest thing, like, around the, with the path and people walking through it.\n\nDM: You're growing a bit elvish.\n\nKenzo: What's that?\n\nDelwath: You're growing a bit elvish, Kenzo.\n\nKenzo: What you talking about? I'm just... I just, I just honor, um, really cool stories."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t14"
+        }
+      ]
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u4566",
+        "endUid": "u4569"
+      },
+      "reading": "The party reaches the summit at about ten-thirty at night; the DM revises the initial ten-o’clock estimate in the same turn.",
+      "evidence": [
+        {
+          "startUid": "u4566",
+          "endUid": "u4569",
+          "quote": "DM: You reach the top around, I don't know, 10:00 PM. No. Yeah, probably 10:30, something like that. Yeah."
+        }
+      ],
+      "time": {
+        "clock": "22:30",
+        "precision": "approximate",
+        "basis": "DM corrects 10:00 PM to probably 10:30."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u5639",
+        "endUid": "u5640"
+      },
+      "reading": "The table agrees to credit a further hour questioning Dimitaur about Drankor offscreen.",
+      "evidence": [
+        {
+          "startUid": "u5639",
+          "endUid": "u5645",
+          "quote": "Delwath: All right. What we should do is stay up for another hour to pick his brain about Drankor. Meta: write that down that we picked his brain about Drankor.\n\nDM: Yeah.\n\nDelwath: Take a long rest, and then either go to Apollyon's tower or-\n\nUnknown: Yeah. To negotiate with the dragon.\n\nDelwath: ... hatch a plan, which we need to decide what it would be. But it's 2:20. I don't know if you wanted to take a break."
+        },
+        {
+          "startUid": "u5654",
+          "endUid": "u5660",
+          "quote": "Kenzo: Well, and I, I thought, yeah, w—we wanna hear some more Rai stories too.\n\nDM: We can, we can do a little more Dimitaur over the campfire.\n\nKenzo: Yeah. Yeah. We can do that. We can do that like later.\n\nUnknown: A flashback.\n\nKenzo: Like, like a flashback or like... Yeah, yeah.\n\nUnknown: We can do a flashback."
+        },
+        {
+          "startUid": "u5687",
+          "endUid": "u5690",
+          "quote": "Unknown: Anyway, let's take a-\n\nWellby: This feels like a good night's rest. Yeah.\n\nUnknown: Let's, let's take a break.\n\nWellby: When are we reconvening?"
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Delwath requests another hour and explicitly asks that the questioning be recorded as done; the DM agrees."
+      },
+      "completion": "completed",
+      "note": "The following long rest is proposed, and Wellby calls this a good night’s rest at the cutoff. No waking or explicit completion establishes its endpoint."
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "The absolute May 18–19 dates and year come from the unchanged YAML. No month or day is independently spoken in the current transcript; its clocks establish afternoon through late night.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t10",
+      "t11",
+      "t12",
+      "t17",
+      "t18"
+    ],
+    "explanation": "Continuous afternoon/evening play and the accepted extra hour are compatible with the recorded span. The cutoff does not establish completion of the proposed overnight rest or a waking date, so the whole one-boundary span cannot be confirmed. The 12-versus-10-day future countdown is not evidence of two elapsed session days."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "end",
+      "evidence": [
+        "t17",
+        "t18"
+      ],
+      "reading": "Closing coverage is unresolved: agreed further conversation is included, but the proposed long rest has no played completion.",
+      "alternatives": [
+        {
+          "reading": "End after the additional questioning, late on the opening night or later if the undated audience runs past midnight."
+        },
+        {
+          "reading": "Include the subsequent overnight and reach May 19 only if human review confirms that the closing rest is part of this session.",
+          "date": "1749-05-19"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-108",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+    "sessionYamlSha256": "6a6ffa0e68c35a18aca5e58c6d9f7af0687feeaf1e220358e16c1df980a8cb0b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-transcript.md",
+    "transcriptSha256": "103e3505e672498e70879a8e0b49164fef6cdf3edb512d970f3c796b26e8689f"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0068"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0069",
+        "endUid": "u0289"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0290",
+        "endUid": "u0420"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0421",
+        "endUid": "u0446"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0447",
+        "endUid": "u2691"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2692",
+        "endUid": "u3078"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u3079",
+        "endUid": "u3087"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u3088",
+        "endUid": "u3099"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u3100",
+        "endUid": "u4145"
+      },
+      "category": "gameplay",
+      "note": "The initiative suggestion at u3443 is a joke during a pool hazard; no initiative roll or repeated ordered turn cycle follows."
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u4146",
+        "endUid": "u4198"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u4199",
+        "endUid": "u4447"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u4448",
+        "endUid": "u4471"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u4472",
+        "endUid": "u4511"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u4512",
+        "endUid": "u4521"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u4522",
+        "endUid": "u5643"
+      },
+      "category": "gameplay",
+      "note": "The closing agreement to credit another hour of questions stays with play; the subsequent break and future plans are separate."
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u5644",
+        "endUid": "u5653"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u5654",
+        "endUid": "u5686"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u5687",
+        "endUid": "u5690"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
