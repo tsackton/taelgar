@@ -1,0 +1,828 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-136",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-session.yaml",
+    "sessionYamlSha256": "5e93accc339ee2574decf40eaebea1ca0ba05d064da851e2aa05cf963cac77f9",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-transcript.md",
+    "transcriptSha256": "65223c487c58083fb275dceff0b4e891237825fff2b5f2acfb31b5e16efac42f",
+    "yamlDates": {
+      "start": "1749-09-16",
+      "end": "1749-09-16"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0025",
+        "endUid": "u0033"
+      },
+      "reading": "At the opening, the party has already traveled in Limbo for more than twelve hours after starting in the morning. This is a retrospective entry-to-opening anchor, not new travel after the opening.",
+      "evidence": [
+        {
+          "startUid": "u0025",
+          "endUid": "u0029",
+          "quote": "DM: It's like, what is... It's not like it's decaying in the next eight hours. And you've been with... Between every... I mean, you're hungry at this point. You've probably been traveling in Limbo for o—"
+        },
+        {
+          "startUid": "u0031",
+          "endUid": "u0033",
+          "quote": "DM: ... more than 12 hours. You started in the morning, so... Although actually the food that you made from the tree was incredibly filling."
+        }
+      ],
+      "duration": {
+        "min": 12,
+        "minInclusive": false,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM estimates more than twelve hours of preceding Limbo travel"
+      },
+      "time": {
+        "partOfDay": "morning",
+        "relative": {
+          "relation": "same_time",
+          "anchor": "departure/entry into Limbo before the opening"
+        },
+        "precision": "approximate",
+        "basis": "DM says the preceding journey started in the morning; no civil date spoken"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0126",
+        "endUid": "u0136"
+      },
+      "reading": "The party completes a long rest in Rai’s sanctuary before departing.",
+      "evidence": [
+        {
+          "startUid": "u0022",
+          "endUid": "u0022",
+          "quote": "Unknown: We should just long rest."
+        },
+        {
+          "startUid": "u0023",
+          "endUid": "u0023",
+          "quote": "DM: ... it's been stable for 30 years, right?"
+        },
+        {
+          "startUid": "u0126",
+          "endUid": "u0136",
+          "quote": "DM: Yeah. All right. Okay. So you rest, um, recover. Um, Rai is not super talkative. It seems like, uh, it takes a fair bit of effort to just maintain everything that he's trying to maintain. But you do, I mean, you do hear a little bit more about the, you know, everything that happened and how most of the story of the events leading up to Rai getting caught here, you've pretty much figured out by now, I think."
+        },
+        {
+          "startUid": "u0314",
+          "endUid": "u0314",
+          "quote": "DM: Okay. So everybody long rested?"
+        },
+        {
+          "startUid": "u0315",
+          "endUid": "u0316",
+          "quote": "Unknown: Yeah. Yeah. Short rested."
+        },
+        {
+          "startUid": "u0317",
+          "endUid": "u0317",
+          "quote": "DM: No, long rest."
+        },
+        {
+          "startUid": "u0318",
+          "endUid": "u0318",
+          "quote": "Seeker: Oh, long rest."
+        },
+        {
+          "startUid": "u0320",
+          "endUid": "u0320",
+          "quote": "DM: There's no reason not to."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention; completion narrated and later corrected explicitly from short to long rest"
+      },
+      "completion": "completed",
+      "note": "The local rest does not establish an overnight or a Material Plane date boundary; Limbo’s variable time is explained at u0251–u0260."
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0377",
+        "endUid": "u0385"
+      },
+      "reading": "A few moments pass while Rai moves the sanctuary closer to the tower.",
+      "evidence": [
+        {
+          "startUid": "u0377",
+          "endUid": "u0385",
+          "quote": "DM: ... um. So a few moments pass. Um, you can actually see, so as this stops, uh, your, you know, Rai tells you to go. He's in the telepathy for a time anyway, and you pass back through the, um, you, you pa- and oh, he, uh, so he tells you, like you've, you've, there's fewer monks now who are sort of lost on the edges."
+        }
+      ],
+      "duration": {
+        "text": "a few moments",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM narrates the short movement interval"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0756",
+        "endUid": "u0770"
+      },
+      "reading": "Seeker completes the ten-minute Clairvoyance casting on the approach; the tower wall deflects it.",
+      "evidence": [
+        {
+          "startUid": "u0756",
+          "endUid": "u0758",
+          "quote": "DM: Uh, you go to cast the spell. Seeker stands there. It's a 10 minute casting time, so you begin chanting. You focus—"
+        },
+        {
+          "startUid": "u0762",
+          "endUid": "u0763",
+          "quote": "DM: ... your spell is deflected."
+        },
+        {
+          "startUid": "u0765",
+          "endUid": "u0765",
+          "quote": "DM: Divination spells cannot penetrate through this wall."
+        },
+        {
+          "startUid": "u0769",
+          "endUid": "u0769",
+          "quote": "Delwath: You can, you can tell when you fin— when you complete the casting."
+        },
+        {
+          "startUid": "u0770",
+          "endUid": "u0770",
+          "quote": "DM: Like, the spell fails because the place you were, like, the place you were trying to—blocks your spell."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "explicit casting time followed by its completed failure"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0881",
+        "endUid": "u0890"
+      },
+      "reading": "A permitted retcon places Kenzo’s test of his sensing ability back in Rai’s safe sanctuary before departure.",
+      "evidence": [
+        {
+          "startUid": "u0881",
+          "endUid": "u0882",
+          "quote": "Kenzo: Okay. So actually, here, just if it is okay to retcon this..."
+        },
+        {
+          "startUid": "u0883",
+          "endUid": "u0883",
+          "quote": "DM: Yeah."
+        },
+        {
+          "startUid": "u0884",
+          "endUid": "u0884",
+          "quote": "Kenzo: I think when Kenzo was with the monks and with Rai in the safe space..."
+        },
+        {
+          "startUid": "u0886",
+          "endUid": "u0887",
+          "quote": "Kenzo: So he's in... That's, like, structured space inside Limbo. Kenzo experiments with, um, you know, his natural sensing abilities."
+        },
+        {
+          "startUid": "u0888",
+          "endUid": "u0888",
+          "quote": "DM: Yeah."
+        },
+        {
+          "startUid": "u0889",
+          "endUid": "u0889",
+          "quote": "Kenzo: Is he able to, like, sense things inside the stable stuff place?"
+        },
+        {
+          "startUid": "u0890",
+          "endUid": "u0890",
+          "quote": "DM: Yes."
+        }
+      ],
+      "context": "flashback",
+      "actors": [
+        "Kenzo"
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "departure from Rai’s sanctuary"
+        },
+        "precision": "approximate",
+        "basis": "Kenzo explicitly asks to retcon the test into the earlier sanctuary scene; DM accepts"
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0892",
+        "endUid": "u0900"
+      },
+      "reading": "Narration resumes Kenzo’s present attempt to sense the tower gatekeepers from the approach.",
+      "evidence": [
+        {
+          "startUid": "u0892",
+          "endUid": "u0892",
+          "quote": "Kenzo: Kenzo will... So, well, first off, I'm gonna Soul Sight the centaurs."
+        },
+        {
+          "startUid": "u0893",
+          "endUid": "u0893",
+          "quote": "DM: Oh, too far away. Too far away."
+        },
+        {
+          "startUid": "u0894",
+          "endUid": "u0894",
+          "quote": "Kenzo: Too far away. Okay. But can I sense the centaurs?"
+        },
+        {
+          "startUid": "u0895",
+          "endUid": "u0895",
+          "quote": "DM: With your, with your, like, um—"
+        },
+        {
+          "startUid": "u0899",
+          "endUid": "u0900",
+          "quote": "DM: There's nothing... There's, there's one other thing buried in the ash outside. The tower itself is in negative space—"
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t04"
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u4552",
+        "endUid": "u4552"
+      },
+      "reading": "Prayer of Healing supplies short-rest benefits in ten minutes, not a further one-hour rest; Wellby searches during the casting.",
+      "evidence": [
+        {
+          "startUid": "u4552",
+          "endUid": "u4552",
+          "quote": "Delwath: Well, a short rest is an hour, but I can cast Prayer of Healing, which gives us a short rest in 10 minutes."
+        },
+        {
+          "startUid": "u4644",
+          "endUid": "u4645",
+          "quote": "Wellby: I don't think I need to, need to. I can search the room—"
+        },
+        {
+          "startUid": "u4647",
+          "endUid": "u4648",
+          "quote": "Delwath: ... while you rest. You don't need to d— I mean, it's just a spell. I cast the spell, and then we all get a short rest."
+        },
+        {
+          "startUid": "u4649",
+          "endUid": "u4649",
+          "quote": "Wellby: Oh, without doing any resting?"
+        },
+        {
+          "startUid": "u4650",
+          "endUid": "u4651",
+          "quote": "Unknown: Yeah, you don't have to do any—just, like, a 10-minute—"
+        },
+        {
+          "startUid": "u4652",
+          "endUid": "u4652",
+          "quote": "Delwath: You have to, you have to stay within 30 feet of Delwath."
+        },
+        {
+          "startUid": "u4653",
+          "endUid": "u4653",
+          "quote": "Wellby: Cast it. Oh, good. Stand in the middle of the room."
+        },
+        {
+          "startUid": "u4664",
+          "endUid": "u4664",
+          "quote": "Delwath: But taking 10 minutes."
+        },
+        {
+          "startUid": "u4787",
+          "endUid": "u4787",
+          "quote": "Seeker: ... Seeker's feeling a lot better."
+        },
+        {
+          "startUid": "u4790",
+          "endUid": "u4790",
+          "quote": "DM: Well, you get it all back, it's just a short rest."
+        },
+        {
+          "startUid": "u4794",
+          "endUid": "u4798",
+          "quote": "DM: Okay. Um, okay, so as you finish the rest, you hand off the key, the books, and the runic gemstones to Seeker."
+        },
+        {
+          "startUid": "u4838",
+          "endUid": "u4838",
+          "quote": "Delwath: Seeker should be investigating the circle of runes while—"
+        },
+        {
+          "startUid": "u4839",
+          "endUid": "u4839",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u4840",
+          "endUid": "u4840",
+          "quote": "Kenzo: ... the healing spell is being cast."
+        },
+        {
+          "startUid": "u4841",
+          "endUid": "u4841",
+          "quote": "Seeker: I investigate the circle of runes."
+        },
+        {
+          "startUid": "u4842",
+          "endUid": "u4842",
+          "quote": "Wellby: While the healing spell is being cast."
+        },
+        {
+          "startUid": "u4843",
+          "endUid": "u4843",
+          "quote": "Seeker: While healing is being cast."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "explicit exception to the normal hour, accepted and completed"
+      },
+      "completion": "completed",
+      "note": "Seeker’s circle investigation is retrospectively placed within the same casting interval; it adds no separate elapsed rest."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u4808",
+        "endUid": "u4815"
+      },
+      "reading": "Delwath spends a few minutes translating the recovered research notebooks after the healing spell.",
+      "evidence": [
+        {
+          "startUid": "u4794",
+          "endUid": "u4798",
+          "quote": "DM: Okay. Um, okay, so as you finish the rest, you hand off the key, the books, and the runic gemstones to Seeker."
+        },
+        {
+          "startUid": "u4804",
+          "endUid": "u4804",
+          "quote": "DM: ... so you have to hand them to Delwath to read them, 'cause they're written in Limbo language, which is random—"
+        },
+        {
+          "startUid": "u4808",
+          "endUid": "u4810",
+          "quote": "DM: They, they seem to be somebody, um, somebody's like research notes about, like, I don't know. You only spend a few minutes at this, I assume, 'cause I don't think you wanna spend hours."
+        },
+        {
+          "startUid": "u4813",
+          "endUid": "u4813",
+          "quote": "Delwath: But he, they can do this while I'm casting the spell."
+        },
+        {
+          "startUid": "u4814",
+          "endUid": "u4814",
+          "quote": "Wellby: But you have to translate it."
+        },
+        {
+          "startUid": "u4815",
+          "endUid": "u4815",
+          "quote": "DM: You have to translate it."
+        },
+        {
+          "startUid": "u4915",
+          "endUid": "u4920",
+          "quote": "DM: The, the books... So in a few m— in the few minutes you have to glance at the books, um, each one seems to be as much as somebody could decipher about a bunch of y— you don't know what. It seems to be the deeds of warriors. You recognize a couple of the names from that. Like, there's a long section on, um, Pel Ossa the Chalk Storm, and it's talk—"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM describes a brief completed reading; Delwath must translate and cannot do so while casting"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u9897",
+        "endUid": "u9898"
+      },
+      "reading": "Two further six-second iron-spike ticks are applied during the exit-door investigation; these account for twelve seconds, not the entire search.",
+      "evidence": [
+        {
+          "startUid": "u9641",
+          "endUid": "u9641",
+          "quote": "DM: But this is every six seconds you take three points."
+        },
+        {
+          "startUid": "u9897",
+          "endUid": "u9898",
+          "quote": "DM: Um, everybody takes another three points of piercing damage."
+        },
+        {
+          "startUid": "u9971",
+          "endUid": "u9972",
+          "quote": "DM: So you all take another three points of piercing damage."
+        }
+      ],
+      "duration": {
+        "value": 0.2,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "inferred from two applied hazard ticks at the expressly stated six-second rate"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u10101",
+        "endUid": "u10107"
+      },
+      "reading": "Seeker completes Identify in one minute inside the stable treasure globe; Delwath recovers spell slots and Wellby investigates in that same minute.",
+      "evidence": [
+        {
+          "startUid": "u10101",
+          "endUid": "u10101",
+          "quote": "Seeker: I will do Identify on the relic."
+        },
+        {
+          "startUid": "u10102",
+          "endUid": "u10103",
+          "quote": "DM: Okay. So Seeker spends a minute."
+        },
+        {
+          "startUid": "u10104",
+          "endUid": "u10104",
+          "quote": "Delwath: Wait, if we're taking a minute I'm getting back two more spell slots."
+        },
+        {
+          "startUid": "u10105",
+          "endUid": "u10105",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u10107",
+          "endUid": "u10107",
+          "quote": "DM: Anybody else wanna do anything in the one minute you have?"
+        },
+        {
+          "startUid": "u10108",
+          "endUid": "u10108",
+          "quote": "Wellby: Is there anything else in the room? I'll investigate the rest of the room just in case."
+        },
+        {
+          "startUid": "u10109",
+          "endUid": "u10109",
+          "quote": "DM: Nothing else in the room."
+        },
+        {
+          "startUid": "u10125",
+          "endUid": "u10125",
+          "quote": "DM: Yeah. So let me say what Seeker learns from Identify."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM explicitly narrates one minute for the casting and parallel activities"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u10110",
+        "endUid": "u10116"
+      },
+      "reading": "Kenzo’s forest/tree connection indicates that a few hours have passed in the world while the party has been in Limbo.",
+      "evidence": [
+        {
+          "startUid": "u10110",
+          "endUid": "u10110",
+          "quote": "Kenzo: Uh, can I still check something with the elf thing?"
+        },
+        {
+          "startUid": "u10112",
+          "endUid": "u10112",
+          "quote": "DM: With the what?"
+        },
+        {
+          "startUid": "u10113",
+          "endUid": "u10114",
+          "quote": "Unknown: With the elf... The forest. The tree."
+        },
+        {
+          "startUid": "u10115",
+          "endUid": "u10116",
+          "quote": "DM: Oh, um, uh, a few hours seem to have passed."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "duration": {
+        "text": "a few hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "DM answers Kenzo’s check of the elven forest/tree, a remote world-clock reading"
+      },
+      "note": "This is not another duration to add to the local Limbo intervals or a constant conversion rate."
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u10277",
+        "endUid": "u10290"
+      },
+      "reading": "On reaching the monastery, the party has about ninety minutes before the expanding chaos front arrives. The DM corrects the initial thirty minutes to allow the hour-long ritual plus thirty minutes spare.",
+      "evidence": [
+        {
+          "startUid": "u10277",
+          "endUid": "u10278",
+          "quote": "DM: So m— racing forward, uh, you get a little bit of distance from this thing, like you're maybe 30 minutes ahead of it, ahead of this wave of expanding explosive, explosive chaos—"
+        },
+        {
+          "startUid": "u10280",
+          "endUid": "u10281",
+          "quote": "DM: … as you appear in the monks' area with something like 30 minutes before a chaos bomb hits the monastery."
+        },
+        {
+          "startUid": "u10283",
+          "endUid": "u10283",
+          "quote": "Delwath: Takes an hour."
+        },
+        {
+          "startUid": "u10285",
+          "endUid": "u10285",
+          "quote": "DM: Oh, sorry. You have an hour and a half before the—"
+        },
+        {
+          "startUid": "u10287",
+          "endUid": "u10290",
+          "quote": "DM: Yes. It, it doesn't act— the ritual could actually just only take five minutes. The point is you have 30 minutes of spare time. I forgot the ritual. I said the ritual took an hour."
+        },
+        {
+          "startUid": "u10311",
+          "endUid": "u10313",
+          "quote": "DM: In 30 minutes... Well, in an hour and a half, uh—"
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "after",
+          "anchor": "return to Rai’s monastery",
+          "offset": {
+            "value": 1.5,
+            "unit": "hour",
+            "precision": "approximate",
+            "basis": "corrected forecast of the chaos front’s arrival"
+          }
+        },
+        "precision": "approximate",
+        "basis": "DM explicitly corrects the deadline to an hour and a half"
+      },
+      "note": "A possible five-minute ritual is floated in the correction, but the retained ninety-minute deadline is repeated; it does not establish another rest or ninety completed minutes here."
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u10381",
+        "endUid": "u10390"
+      },
+      "reading": "Seeker performs the relic’s planar-separation ritual beside Rai and succeeds, moving Limbo away from the Material Plane and sealing the wound.",
+      "evidence": [
+        {
+          "startUid": "u10127",
+          "endUid": "u10140",
+          "quote": "DM: Okay, so this is a artifact precipitated out of the material plane when it and Limbo mixed. The basic use is an informationally hyperdense arcane formula. The basic use of which is, um, to stabilize planar positions, create, uh, islands of stability in chao— in Limbo. The more advanced use can actually shift planes. This requires a one-hour ritual. Uh, somebody has to read the, the scrolls as you conduct the ritual. At the ritual's culmination, the sphere is destroyed, um, and whoever reads the scrolls has to make a DC40 intelligence arcana check. However, you can improve your check by you and up to two other partic— um, people can expend spell slots—"
+        },
+        {
+          "startUid": "u10142",
+          "endUid": "u10143",
+          "quote": "DM: … to help you beat the check, and you get a bonus to the check equal to the combined level of the spell slots expended."
+        },
+        {
+          "startUid": "u10283",
+          "endUid": "u10283",
+          "quote": "Delwath: Takes an hour."
+        },
+        {
+          "startUid": "u10285",
+          "endUid": "u10285",
+          "quote": "DM: Oh, sorry. You have an hour and a half before the—"
+        },
+        {
+          "startUid": "u10287",
+          "endUid": "u10290",
+          "quote": "DM: Yes. It, it doesn't act— the ritual could actually just only take five minutes. The point is you have 30 minutes of spare time. I forgot the ritual. I said the ritual took an hour."
+        },
+        {
+          "startUid": "u10381",
+          "endUid": "u10381",
+          "quote": "Seeker: Seeker begins the ritual."
+        },
+        {
+          "startUid": "u10383",
+          "endUid": "u10383",
+          "quote": "DM: Uh, Rai doesn't move."
+        },
+        {
+          "startUid": "u10385",
+          "endUid": "u10387",
+          "quote": "Unknown: Yeah, you're back in the monastery. Okay. We're..."
+        },
+        {
+          "startUid": "u10388",
+          "endUid": "u10388",
+          "quote": "Seeker: We bring it up close to Rai—"
+        },
+        {
+          "startUid": "u10401",
+          "endUid": "u10402",
+          "quote": "Seeker: All right. So I'm looking at this sphere of black and gray and red with swirling runes."
+        },
+        {
+          "startUid": "u10404",
+          "endUid": "u10406",
+          "quote": "Seeker: A deeply complex pattern all around it. I find the starting point and begin to read."
+        },
+        {
+          "startUid": "u10404",
+          "endUid": "u10406",
+          "quote": "Kenzo: [die rolling] Nice."
+        },
+        {
+          "startUid": "u10414",
+          "endUid": "u10417",
+          "quote": "DM: So Seeker begins to read, and for a moment, um, you, you are the multiverse. You have, like, this brief second where you can see everything, all the connections, all the planes arrayed in a hyper dimensional plane."
+        },
+        {
+          "startUid": "u10429",
+          "endUid": "u10429",
+          "quote": "DM: And then you just see the one little place where you just have to push very slightly."
+        },
+        {
+          "startUid": "u10431",
+          "endUid": "u10433",
+          "quote": "DM: Or rather pull very slightly, and Limbo kind of drifts. The rest of you, you don't feel anything or notice anything. Um, but—"
+        },
+        {
+          "startUid": "u10434",
+          "endUid": "u10434",
+          "quote": "Kenzo: Well, did, does Seeker pull it or not?"
+        },
+        {
+          "startUid": "u10435",
+          "endUid": "u10435",
+          "quote": "Seeker: Oh, yes. [laughs]"
+        },
+        {
+          "startUid": "u10452",
+          "endUid": "u10456",
+          "quote": "DM: N— n— nobody else really feels anything, but you, Seeker, you see, like, there's a tearing and then, um, like a v— v— v— v— v— v— v— v— like, zipping sound as a seam is sealed, and Limbo, it's like, almost like a bubble that kind of collapses in on itself a little bit like this and then reinflates slightly further away from the material plane."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "stated ritual requirement; deadline corrected to accommodate that hour, then the ritual is begun and resolved"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u10473",
+        "endUid": "u10479"
+      },
+      "reading": "After the ritual, everything is quiet for one minute as Rai recognizes that the Great War is finally over.",
+      "evidence": [
+        {
+          "startUid": "u10473",
+          "endUid": "u10473",
+          "quote": "DM: For a minute—"
+        },
+        {
+          "startUid": "u10475",
+          "endUid": "u10475",
+          "quote": "DM: … everything is just quiet."
+        },
+        {
+          "startUid": "u10477",
+          "endUid": "u10477",
+          "quote": "DM: And from Rai you have a moment of, \"I guess it's done.\""
+        },
+        {
+          "startUid": "u10479",
+          "endUid": "u10479",
+          "quote": "DM: The Great War is finally over."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "explicit narrated pause"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u10550",
+        "endUid": "u10560"
+      },
+      "reading": "The party crosses the rainbow bridge into the elven forest in the middle of the night, less than one Material Plane day after entering Limbo.",
+      "evidence": [
+        {
+          "startUid": "u10550",
+          "endUid": "u10557",
+          "quote": "DM: Okay. You all run onto the rainbow bridge as the monastery decays around you, moments before the chaos explosion hits, and you race across, the last ones, the monks having all gone before you while you were talking to Rai, run across the bridge and return to the Elven Forest, uh, in the middle of the night, not even a day having passed—"
+        },
+        {
+          "startUid": "u10559",
+          "endUid": "u10560",
+          "quote": "DM: … since you entered Limbo, and all now level 20."
+        }
+      ],
+      "time": {
+        "partOfDay": "middle of the night",
+        "precision": "approximate",
+        "basis": "DM’s direct return anchor; no numerical clock or date is spoken"
+      },
+      "duration": {
+        "max": 1,
+        "maxInclusive": false,
+        "unit": "day",
+        "precision": "exact",
+        "basis": "DM says not even a day since entry into Limbo; world clock"
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No current-session civil date is independently spoken. The manifest supplies DR 1749-09-16 as both working endpoints; entry is recalled as morning and return is middle of the night less than one world day later.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t11",
+      "t15"
+    ],
+    "explanation": "The rest and ritual establish local Limbo elapsed time, whose relation to the world clock is variable. The return can fit late on the YAML date, but the midnight watch can also straddle a civil boundary. Neither zero nor one world-date transition is independently settled."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "end",
+      "evidence": [
+        "t15"
+      ],
+      "reading": "Middle of the night spans both sides of civil midnight; the transcript gives no date or clock within that watch.",
+      "alternatives": [
+        {
+          "reading": "Return late on the same civil day as the morning entry."
+        },
+        {
+          "reading": "Return early on the following civil day, still less than twenty-four world hours after entry."
+        }
+      ]
+    }
+  ]
+}

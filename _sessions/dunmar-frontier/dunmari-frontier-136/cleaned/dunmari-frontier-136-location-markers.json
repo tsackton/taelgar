@@ -1,0 +1,3826 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-136",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-session.yaml",
+    "sessionYamlSha256": "5e93accc339ee2574decf40eaebea1ca0ba05d064da851e2aa05cf963cac77f9",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-transcript.md",
+    "transcriptSha256": "65223c487c58083fb275dceff0b4e891237825fff2b5f2acfb31b5e16efac42f",
+    "contextSources": [
+      {
+        "path": "_sessions/dunmar-frontier/dunmari-frontier-135/sources/Session135.combined-raw-notes-draft.md",
+        "sha256": "cb444a6c0babeb12987ca4caf991a9b20c38ac6bf0e5968b47c35606521db8c6",
+        "purpose": "Orenlas identity from the intervening raw-notes session and continuing Limbo excursion"
+      }
+    ]
+  },
+  "places": {
+    "p01": {
+      "label": "Limbo",
+      "evidence": [
+        {
+          "startUid": "u0251",
+          "endUid": "u0252",
+          "quote": "DM: Okay. So after you rest and you, you hear these stories from Rai, and basically, like from his perspective, it's only been about five years in here."
+        },
+        {
+          "startUid": "u0256",
+          "endUid": "u0260",
+          "quote": "DM: ... but time, time passes strangely. It'll be like there's nothing, no... Like, it runs at the same rate for a year, and then Limbo just, time stops advancing in Limbo, and the time in the world advances. And nobody can predict when... Nobody can predict, you know, when Limbo is paused and when it's running at normal."
+        }
+      ],
+      "kind": "plane",
+      "vaultPath": "Cosmology/Spiritual Realms/Limbo.md"
+    },
+    "p02": {
+      "label": "Rai’s sanctuary",
+      "evidence": [
+        {
+          "startUid": "u0334",
+          "endUid": "u0340",
+          "quote": "DM: Yeah, let's wait. Okay. So as you finish your rest [coughs] and you leave the, um, be- you prepare to leave the sanctuary, um, the, the monks still, uh, you can see now that some, that they'll, they take shifts, and so some of them will rest. Um, and the rest of them are, are sort of going through."
+        },
+        {
+          "startUid": "u0353",
+          "endUid": "u0355",
+          "quote": "DM: Uh, Rai has, um [coughs] uh, so Rai is connected, has a connection to the, to the relic, because he's also f- you know, essentially fighting with this ancient Limbo being, trying to keep it from gaining full control over the relic."
+        },
+        {
+          "startUid": "u0357",
+          "endUid": "u0362",
+          "quote": "DM: He's multitasking. And, uh, so he can make—showing up just through the threads of Limbo, like a glowing chain, like a bunch of links of sort of, um, greenish gold energy forming a chain that stretches off into the distance, and, um, he yanks, and the ch— and the chain, the sanctuary begins to move."
+        }
+      ],
+      "kind": "sanctuary",
+      "mobile": true,
+      "aliases": [
+        "monastery",
+        "monks’ area"
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0579",
+              "endUid": "u0580",
+              "quote": "DM: [laughs] Okay, so, uh, you exit through the shimmering concentric circles of—"
+            },
+            {
+              "startUid": "u0581",
+              "endUid": "u0581",
+              "quote": "Wellby: Oh, we missed the chance to get an autograph."
+            },
+            {
+              "startUid": "u0582",
+              "endUid": "u0583",
+              "quote": "DM: ... from—"
+            },
+            {
+              "startUid": "u0584",
+              "endUid": "u0584",
+              "quote": "Seeker: He can't move though."
+            },
+            {
+              "startUid": "u0585",
+              "endUid": "u0585",
+              "quote": "Unknown: Well, we, uh, why, why—"
+            },
+            {
+              "startUid": "u0586",
+              "endUid": "u0587",
+              "quote": "DM: [laughs] Rai can neither see nor move. He can only mentally perceive the world."
+            },
+            {
+              "startUid": "u0588",
+              "endUid": "u0588",
+              "quote": "Delwath: But you could autograph something like..."
+            },
+            {
+              "startUid": "u0589",
+              "endUid": "u0589",
+              "quote": "Unknown: So—"
+            },
+            {
+              "startUid": "u0590",
+              "endUid": "u0590",
+              "quote": "DM: [laughs]"
+            },
+            {
+              "startUid": "u0591",
+              "endUid": "u0592",
+              "quote": "Delwath: Kind of like a hot potato, but yeah. Um, Seeker's trick of drawing on the chalkboard with his mind."
+            },
+            {
+              "startUid": "u0593",
+              "endUid": "u0593",
+              "quote": "DM: Oh, yeah."
+            },
+            {
+              "startUid": "u0594",
+              "endUid": "u0594",
+              "quote": "Unknown: Right."
+            },
+            {
+              "startUid": "u0595",
+              "endUid": "u0595",
+              "quote": "DM: Yeah."
+            },
+            {
+              "startUid": "u0596",
+              "endUid": "u0596",
+              "quote": "Unknown: That's cool."
+            },
+            {
+              "startUid": "u0597",
+              "endUid": "u0604",
+              "quote": "DM: Rai can do that. So you exit, um, and you travel only a short distance through, um, a relatively tame... Wait, hold on. Maybe it's not tame. Yeah, it's r— rel— relatively tame. Uh, uh, actually Seeker, you better make an Int check 'cause you've rested, so there's no sphere of stability up anymore."
+            },
+            {
+              "startUid": "u0605",
+              "endUid": "u0605",
+              "quote": "Unknown: Oh."
+            },
+            {
+              "startUid": "u0606",
+              "endUid": "u0606",
+              "quote": "Seeker: Sphere of stability."
+            },
+            {
+              "startUid": "u0607",
+              "endUid": "u0607",
+              "quote": "DM: This one only needs a 15 to defeat."
+            },
+            {
+              "startUid": "u0608",
+              "endUid": "u0608",
+              "quote": "Seeker: This is, uh, uh, 7 plus 5 is 12, which is—"
+            },
+            {
+              "startUid": "u0609",
+              "endUid": "u0609",
+              "quote": "DM: So you exit—"
+            },
+            {
+              "startUid": "u0610",
+              "endUid": "u0610",
+              "quote": "Seeker: ... really close to 15."
+            },
+            {
+              "startUid": "u0611",
+              "endUid": "u0611",
+              "quote": "DM: It's very close to 15."
+            },
+            {
+              "startUid": "u0612",
+              "endUid": "u0612",
+              "quote": "Wellby: Do you want bardic inspiration from, uh [metal clangs] from Seeker?"
+            },
+            {
+              "startUid": "u0613",
+              "endUid": "u0613",
+              "quote": "DM: That's—you could."
+            },
+            {
+              "startUid": "u0614",
+              "endUid": "u0614",
+              "quote": "Seeker: I don't wanna, I don't wanna waste that though."
+            },
+            {
+              "startUid": "u0615",
+              "endUid": "u0615",
+              "quote": "DM: Um—"
+            },
+            {
+              "startUid": "u0616",
+              "endUid": "u0616",
+              "quote": "Wellby: Would it be wasted though?"
+            },
+            {
+              "startUid": "u0617",
+              "endUid": "u0617",
+              "quote": "Unknown: I mean..."
+            },
+            {
+              "startUid": "u0618",
+              "endUid": "u0623",
+              "quote": "DM: Uh, you c— I mean, you can try again, but you're gonna get hit by these. So you exit, and Seeker starts to try and form. You exit into a, um, a sort of drifting sea of, of ash that smells sweet and pleasant, and you can hear sort of a drifting lullaby. But as the, but as you step, the ash sort of starts to cling to you and suck all the moisture out of you."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Ash valley",
+      "evidence": [
+        {
+          "startUid": "u0661",
+          "endUid": "u0666",
+          "quote": "DM: ... slowly through the ash, and the ash begins to get thinner and thinner as you drift following the lights of this chain, um, until, um, you emerge looking... It's not clear if it's really down or sideways, um, into a valley that's shaped of this same ash. There's like ash that comes up, but it's a, it's not a Euclidean valley. It's a valley that like comes to, to a point in every direction despite being a valley."
+        },
+        {
+          "startUid": "u0681",
+          "endUid": "u0684",
+          "quote": "DM: So, and inside this ash valley, you can see there's a tower, but this isn't like a normal tower. Um—"
+        }
+      ],
+      "kind": "valley",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0597",
+              "endUid": "u0604",
+              "quote": "DM: Rai can do that. So you exit, um, and you travel only a short distance through, um, a relatively tame... Wait, hold on. Maybe it's not tame. Yeah, it's r— rel— relatively tame. Uh, uh, actually Seeker, you better make an Int check 'cause you've rested, so there's no sphere of stability up anymore."
+            },
+            {
+              "startUid": "u0605",
+              "endUid": "u0605",
+              "quote": "Unknown: Oh."
+            },
+            {
+              "startUid": "u0606",
+              "endUid": "u0606",
+              "quote": "Seeker: Sphere of stability."
+            },
+            {
+              "startUid": "u0607",
+              "endUid": "u0607",
+              "quote": "DM: This one only needs a 15 to defeat."
+            },
+            {
+              "startUid": "u0608",
+              "endUid": "u0608",
+              "quote": "Seeker: This is, uh, uh, 7 plus 5 is 12, which is—"
+            },
+            {
+              "startUid": "u0609",
+              "endUid": "u0609",
+              "quote": "DM: So you exit—"
+            },
+            {
+              "startUid": "u0610",
+              "endUid": "u0610",
+              "quote": "Seeker: ... really close to 15."
+            },
+            {
+              "startUid": "u0611",
+              "endUid": "u0611",
+              "quote": "DM: It's very close to 15."
+            },
+            {
+              "startUid": "u0612",
+              "endUid": "u0612",
+              "quote": "Wellby: Do you want bardic inspiration from, uh [metal clangs] from Seeker?"
+            },
+            {
+              "startUid": "u0613",
+              "endUid": "u0613",
+              "quote": "DM: That's—you could."
+            },
+            {
+              "startUid": "u0614",
+              "endUid": "u0614",
+              "quote": "Seeker: I don't wanna, I don't wanna waste that though."
+            },
+            {
+              "startUid": "u0615",
+              "endUid": "u0615",
+              "quote": "DM: Um—"
+            },
+            {
+              "startUid": "u0616",
+              "endUid": "u0616",
+              "quote": "Wellby: Would it be wasted though?"
+            },
+            {
+              "startUid": "u0617",
+              "endUid": "u0617",
+              "quote": "Unknown: I mean..."
+            },
+            {
+              "startUid": "u0618",
+              "endUid": "u0623",
+              "quote": "DM: Uh, you c— I mean, you can try again, but you're gonna get hit by these. So you exit, and Seeker starts to try and form. You exit into a, um, a sort of drifting sea of, of ash that smells sweet and pleasant, and you can hear sort of a drifting lullaby. But as the, but as you step, the ash sort of starts to cling to you and suck all the moisture out of you."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Tower",
+      "evidence": [
+        {
+          "startUid": "u0681",
+          "endUid": "u0684",
+          "quote": "DM: So, and inside this ash valley, you can see there's a tower, but this isn't like a normal tower. Um—"
+        },
+        {
+          "startUid": "u0705",
+          "endUid": "u0707",
+          "quote": "DM: And then the tower goes, like, in some nonsensical twisty shape and there's a few places where it, like, comes to a point and then crosses and goes back the other way. Um—"
+        },
+        {
+          "startUid": "u0726",
+          "endUid": "u0727",
+          "quote": "DM: It's made of a black metal, completely non-reflective black matte metal."
+        }
+      ],
+      "kind": "tower",
+      "vaultPath": "Worldbuilding/Staging/Dunmar/Impossible Tower.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0681",
+              "endUid": "u0684",
+              "quote": "DM: So, and inside this ash valley, you can see there's a tower, but this isn't like a normal tower. Um—"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Emerald front doors",
+      "evidence": [
+        {
+          "startUid": "u0693",
+          "endUid": "u0699",
+          "quote": "DM: ... you see a door, but like a 20 foot tall set of green emerald doors— With two, what look like, um, n— nine-foot tall, half... They're sort of like, um, a child's drawing of a centaur."
+        },
+        {
+          "startUid": "u0701",
+          "endUid": "u0704",
+          "quote": "DM: Yeah. It's like you see standing outside what looks like a, like a badly sculpted drawing of a centaur with, like, ash puffing out around it. But as the ash puffs out around it, it, um, it is, um, it is solidifying and hardening into steel. Two of these things kind of pacing in front of the door."
+        },
+        {
+          "startUid": "u0721",
+          "endUid": "u0724",
+          "quote": "DM: The tower goes up for a ways and then it, like, turns like this, and then it twists and spirals, and then it goes, like, up again. It's, like, super weird. But they are standing in front of the only obvious doors that you can see."
+        }
+      ],
+      "kind": "entrance",
+      "relations": [
+        {
+          "relation": "at_entrance_to",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0693",
+              "endUid": "u0699",
+              "quote": "DM: ... you see a door, but like a 20 foot tall set of green emerald doors— With two, what look like, um, n— nine-foot tall, half... They're sort of like, um, a child's drawing of a centaur."
+            },
+            {
+              "startUid": "u0700",
+              "endUid": "u0700",
+              "quote": "Delwath: Well, they're kind of huge, so just, uh—"
+            },
+            {
+              "startUid": "u0701",
+              "endUid": "u0704",
+              "quote": "DM: Yeah. It's like you see standing outside what looks like a, like a badly sculpted drawing of a centaur with, like, ash puffing out around it. But as the ash puffs out around it, it, um, it is, um, it is solidifying and hardening into steel. Two of these things kind of pacing in front of the door."
+            },
+            {
+              "startUid": "u0705",
+              "endUid": "u0707",
+              "quote": "DM: And then the tower goes, like, in some nonsensical twisty shape and there's a few places where it, like, comes to a point and then crosses and goes back the other way. Um—"
+            },
+            {
+              "startUid": "u0708",
+              "endUid": "u0708",
+              "quote": "Kenzo: Where next?"
+            },
+            {
+              "startUid": "u0709",
+              "endUid": "u0709",
+              "quote": "DM: The entire thing is made of this dull, matte black—"
+            },
+            {
+              "startUid": "u0710",
+              "endUid": "u0710",
+              "quote": "Unknown: Just take them."
+            },
+            {
+              "startUid": "u0711",
+              "endUid": "u0713",
+              "quote": "DM: ... metal-ish thing. At the moment, you are, like, 300 feet away and still in a light ash fall. Nobody has seen you."
+            },
+            {
+              "startUid": "u0714",
+              "endUid": "u0714",
+              "quote": "Delwath: So wait, the—"
+            },
+            {
+              "startUid": "u0715",
+              "endUid": "u0715",
+              "quote": "DM: So you're approaching... You're, you're coming from the, like, infinity point."
+            },
+            {
+              "startUid": "u0716",
+              "endUid": "u0716",
+              "quote": "Delwath: There's, like, a centaur by the gates, a weird—"
+            },
+            {
+              "startUid": "u0717",
+              "endUid": "u0717",
+              "quote": "DM: Two. Two."
+            },
+            {
+              "startUid": "u0718",
+              "endUid": "u0718",
+              "quote": "Unknown: ... two centaurs."
+            },
+            {
+              "startUid": "u0719",
+              "endUid": "u0719",
+              "quote": "DM: Yeah."
+            },
+            {
+              "startUid": "u0720",
+              "endUid": "u0720",
+              "quote": "Delwath: But what's above them?"
+            },
+            {
+              "startUid": "u0721",
+              "endUid": "u0724",
+              "quote": "DM: The tower goes up for a ways and then it, like, turns like this, and then it twists and spirals, and then it goes, like, up again. It's, like, super weird. But they are standing in front of the only obvious doors that you can see."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Mosaic antechamber",
+      "evidence": [
+        {
+          "startUid": "u1054",
+          "endUid": "u1056",
+          "quote": "DM: You, um, see you are inside a chamber. Um, the chamber is—"
+        },
+        {
+          "startUid": "u1058",
+          "endUid": "u1065",
+          "quote": "DM: ... uh, it's a, it's like maybe... Hold on, let me just, sorry, let me just check. I gotta pull up my map and look here. Um, the chamber is like about like 40 or 50 feet across. Um, the entire surface of the chamber is covered in this intricate mosaic that ripples with magic."
+        },
+        {
+          "startUid": "u1079",
+          "endUid": "u1080",
+          "quote": "DM: There's four pillars in the room, each with flicker with flames of darkness that suck the light and the warmth from the room. Um, you both have true sight."
+        },
+        {
+          "startUid": "u1084",
+          "endUid": "u1088",
+          "quote": "DM: The floor is an illusion and, um, although it looks like tile work, there's, there's actually 20, um, like, uh— ... droplets of liquid stone that have grasping tentacles that flicker in and out of existence, hovering below the illusory floor waiting to pounce on somebody."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1020",
+              "endUid": "u1024",
+              "quote": "DM: Okay. Um, you guys can't see this because you've already disappeared. I'll tell you what you see in a minute. Nobody knows what's happening with Seeker six and—"
+            },
+            {
+              "startUid": "u1025",
+              "endUid": "u1025",
+              "quote": "Unknown: The ladder."
+            },
+            {
+              "startUid": "u1026",
+              "endUid": "u1029",
+              "quote": "DM: ... the ladder. Um, uh, you find yourself appearing right in front of the door."
+            },
+            {
+              "startUid": "u1030",
+              "endUid": "u1030",
+              "quote": "Kenzo: Just Seeker or me and Seeker?"
+            },
+            {
+              "startUid": "u1031",
+              "endUid": "u1031",
+              "quote": "DM: You too."
+            },
+            {
+              "startUid": "u1032",
+              "endUid": "u1032",
+              "quote": "Unknown: Okay."
+            },
+            {
+              "startUid": "u1033",
+              "endUid": "u1033",
+              "quote": "DM: The Dimension Door like—"
+            },
+            {
+              "startUid": "u1034",
+              "endUid": "u1034",
+              "quote": "Wellby: Next to the centaurs?"
+            },
+            {
+              "startUid": "u1035",
+              "endUid": "u1035",
+              "quote": "DM: ... bounces, bounces off the—"
+            },
+            {
+              "startUid": "u1036",
+              "endUid": "u1036",
+              "quote": "Unknown: Oh, boy."
+            },
+            {
+              "startUid": "u1037",
+              "endUid": "u1037",
+              "quote": "DM: ... the wall."
+            },
+            {
+              "startUid": "u1038",
+              "endUid": "u1038",
+              "quote": "Seeker: Oh, we're not inside."
+            },
+            {
+              "startUid": "u1039",
+              "endUid": "u1039",
+              "quote": "DM: ... and redirects you down to the ground."
+            },
+            {
+              "startUid": "u1040",
+              "endUid": "u1040",
+              "quote": "Unknown: So we're outside."
+            },
+            {
+              "startUid": "u1041",
+              "endUid": "u1041",
+              "quote": "DM: Yes."
+            },
+            {
+              "startUid": "u1042",
+              "endUid": "u1042",
+              "quote": "Seeker: Uh-oh. Uh, Kenzo, I don't think that worked."
+            },
+            {
+              "startUid": "u1043",
+              "endUid": "u1043",
+              "quote": "Wellby: [laughs]"
+            },
+            {
+              "startUid": "u1044",
+              "endUid": "u1044",
+              "quote": "Kenzo: Uh, Kenzo ch— [garbled]."
+            },
+            {
+              "startUid": "u1045",
+              "endUid": "u1045",
+              "quote": "Delwath: C— can we tel— is his telepathy gone?"
+            },
+            {
+              "startUid": "u1046",
+              "endUid": "u1046",
+              "quote": "Seeker: Do you vanish?"
+            },
+            {
+              "startUid": "u1047",
+              "endUid": "u1047",
+              "quote": "DM: Uh, you cannot t— telepathy with them."
+            },
+            {
+              "startUid": "u1048",
+              "endUid": "u1048",
+              "quote": "Delwath: Can we telepathy with Se— with Seeker six?"
+            },
+            {
+              "startUid": "u1049",
+              "endUid": "u1050",
+              "quote": "DM: Uh, yes."
+            },
+            {
+              "startUid": "u1051",
+              "endUid": "u1051",
+              "quote": "Delwath: Okay. I assume Seeker six is not immediately in front of us."
+            },
+            {
+              "startUid": "u1052",
+              "endUid": "u1052",
+              "quote": "DM: Seeker six is not immediately in front of you."
+            },
+            {
+              "startUid": "u1053",
+              "endUid": "u1053",
+              "quote": "Unknown: Okay. [laughs]"
+            },
+            {
+              "startUid": "u1054",
+              "endUid": "u1056",
+              "quote": "DM: You, um, see you are inside a chamber. Um, the chamber is—"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Lower statue hall",
+      "evidence": [
+        {
+          "startUid": "u3103",
+          "endUid": "u3109",
+          "quote": "DM: Yeah. Uh, ev— everybody within 10 feet, which is all of you, um, you suddenly feel a sh— y— you're, like, sucked into the purple light, and then, like, there's a super disorienting, like, gravity is shifting. And as you come out, you are standing in front of another, um, uh, purple light, uh, but you've shifted 90 degrees."
+        },
+        {
+          "startUid": "u3112",
+          "endUid": "u3112",
+          "quote": "DM: This, this is the room that pinches at the top."
+        },
+        {
+          "startUid": "u3116",
+          "endUid": "u3129",
+          "quote": "DM: Um, it's very, it happens quietly. Um, you see, like, a d— um, a dozen statues of strange warriors similar to, like, the humanoids in the, um, in the m— mosaic below. They're like... You wouldn't even really describe them as humanoids, but they're clearly warriors. There's about a dozen of these statues, each surrounded by a semicircle of, I guess what you might describe as candles, but each one seems to be made of some weird different material. Like, there's one of stone, there's one that's made of water that's just a pillar of water, and all the candles are, are burning. It's almost like a... They're almost like... It's like in a church. It's like the sort of tealights in front of an altar in a church."
+        },
+        {
+          "startUid": "u3130",
+          "endUid": "u3134",
+          "quote": "DM: Um, there are four pedestals that are much larger than the rest. Um, three hold big statues. One is a statue of whirlwind made of white stone forming a vaguely humanoid shape while the inside of the whirlwind dances with crystals of frost. Um, and it has a, a script that's labeled, and again, it seems like every language at once, and it says, \"Pel Ossa, the Chalk Storm.\""
+        },
+        {
+          "startUid": "u3141",
+          "endUid": "u3145",
+          "quote": "DM: There are two violet orbs that hover four feet off the ground. One that you appeared at, which is near the south wall to the extent to which directions make any sense. The other is at the far side of the room to the north wall."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u3103",
+              "endUid": "u3109",
+              "quote": "DM: Yeah. Uh, ev— everybody within 10 feet, which is all of you, um, you suddenly feel a sh— y— you're, like, sucked into the purple light, and then, like, there's a super disorienting, like, gravity is shifting. And as you come out, you are standing in front of another, um, uh, purple light, uh, but you've shifted 90 degrees."
+            },
+            {
+              "startUid": "u3110",
+              "endUid": "u3110",
+              "quote": "Unknown: Whoa."
+            },
+            {
+              "startUid": "u3111",
+              "endUid": "u3111",
+              "quote": "Delwath: Is this the room with the..."
+            },
+            {
+              "startUid": "u3112",
+              "endUid": "u3112",
+              "quote": "DM: This, this is the room that pinches at the top."
+            },
+            {
+              "startUid": "u3113",
+              "endUid": "u3113",
+              "quote": "Unknown: ... the cross at the center?"
+            },
+            {
+              "startUid": "u3114",
+              "endUid": "u3114",
+              "quote": "DM: No. Uh, you don't know what... So let me say what you see."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Library",
+      "evidence": [
+        {
+          "startUid": "u1839",
+          "endUid": "u1840",
+          "quote": "DM: \"... uh, we, we showed up in a library of sorts.\""
+        },
+        {
+          "startUid": "u1842",
+          "endUid": "u1845",
+          "quote": "DM: \"Uh, it's not great. Um, there's like a weird violet orb here and some desks and, um, two, uh, people trying to kill us. I made a wall of stone and we're hiding behind it, but I don't know how long it's gonna last.\""
+        },
+        {
+          "startUid": "u1847",
+          "endUid": "u1850",
+          "quote": "DM: \"Um, well, one of them, one of them is like a, uh... I don't know how to describe it exactly other to say that it's like metallic blood.\""
+        },
+        {
+          "startUid": "u1861",
+          "endUid": "u1869",
+          "quote": "DM: \"... uh, the other one is, um, like it looks like... weird. It's all like shiny dark, but there's like jagged lines of light and lightning that, uh, drift through it and it has a head that looks like a mini sun.\""
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u3342",
+              "endUid": "u3343",
+              "quote": "DM: So Kenzo and Wellby guide you quietly across. You reach your hand into the other one, and yeah."
+            },
+            {
+              "startUid": "u3344",
+              "endUid": "u3344",
+              "quote": "Seeker: I, um, do whatever it takes to get us to a different place that is not where we were before."
+            },
+            {
+              "startUid": "u3345",
+              "endUid": "u3346",
+              "quote": "DM: Um, you feel yourselves becoming, like, squished into a tiny point, and then—"
+            },
+            {
+              "startUid": "u3347",
+              "endUid": "u3347",
+              "quote": "Seeker: Ah, going up."
+            },
+            {
+              "startUid": "u3348",
+              "endUid": "u3351",
+              "quote": "DM: ... and then as you, as you re-expand, you're now, like, you feel yourself flipping upside down, and what was the floor is now the ceiling, and what was the ceiling is now the floor. Um—"
+            },
+            {
+              "startUid": "u3352",
+              "endUid": "u3352",
+              "quote": "Unknown: A creepy castle."
+            },
+            {
+              "startUid": "u3353",
+              "endUid": "u3354",
+              "quote": "DM: ... and you, you see yourself, you see now, um, three desks."
+            },
+            {
+              "startUid": "u3355",
+              "endUid": "u3355",
+              "quote": "Delwath: Oh, this is the room."
+            },
+            {
+              "startUid": "u3356",
+              "endUid": "u3356",
+              "quote": "Unknown: They were in a room with desks."
+            },
+            {
+              "startUid": "u3357",
+              "endUid": "u3357",
+              "quote": "DM: Two stone desks and a wooden desk that face the north wall."
+            },
+            {
+              "startUid": "u3358",
+              "endUid": "u3358",
+              "quote": "Delwath: You're still invisible."
+            },
+            {
+              "startUid": "u3359",
+              "endUid": "u3361",
+              "quote": "DM: Um, uh, running ar— like, in a circle, like bulging out from the wall right next to one of the stone desks is a wall of—is a giant wall of stone."
+            },
+            {
+              "startUid": "u3362",
+              "endUid": "u3362",
+              "quote": "Unknown: Ah, got it."
+            },
+            {
+              "startUid": "u3363",
+              "endUid": "u3364",
+              "quote": "DM: And there are two creatures, one some sort of armored creature made of solid blood that is t—uh—has a spear and is, like, chipping at the stone."
+            },
+            {
+              "startUid": "u3365",
+              "endUid": "u3365",
+              "quote": "Unknown: Mm-hmm."
+            },
+            {
+              "startUid": "u3366",
+              "endUid": "u3366",
+              "quote": "DM: You can see there's a crack that's formed through one of the pieces of stone."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Upper statue room",
+      "evidence": [
+        {
+          "startUid": "u5008",
+          "endUid": "u5022",
+          "quote": "DM: [laughs] Uh, the bat vanishes. I assume you're l— you're looking through its eye. Yes. [garbled]. Um, the, uh, you emerg— the bat emerges into a room, um, that has another circle, like, uh... Let's see. Let's just say what's everything in the room. There's, um, there's another circle. Um, the, uh..."
+        },
+        {
+          "startUid": "u5023",
+          "endUid": "u5029",
+          "quote": "DM: At the far end across from where you appear, where the bat appears, um, there are two statues. Um, one a, uh... How to describe it? Um, a humanoid made of flames that seem to clump and blend together like mud, becoming darker as they become denser, so the interior of the statue is barely visible, but the outside is illuminated like in flames."
+        },
+        {
+          "startUid": "u5030",
+          "endUid": "u5034",
+          "quote": "DM: And the other is a human or humanoid form of ash bound by a core of blazing ice wearing a crown. They clearly aren't l— designed to be displayed together. In fact, the s— the dark fire one looks like it belongs with the three big statues a couple floors down."
+        },
+        {
+          "startUid": "u5036",
+          "endUid": "u5042",
+          "quote": "DM: Um, but they've been pushed close together so that they can, um, be next to each other. The dark fire statue carries a wide bladed scimitar, while the other statue is, wears like a simple crown of jaggedly shaped ash. Um, other than that, um, the bat sees a, uh... So the bat sees a door in the ceiling."
+        },
+        {
+          "startUid": "u5044",
+          "endUid": "u5044",
+          "quote": "DM: That it came out of. Yeah, yeah."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u5092",
+              "endUid": "u5092",
+              "quote": "Seeker: So we go through the circle of runes."
+            },
+            {
+              "startUid": "u5093",
+              "endUid": "u5096",
+              "quote": "DM: You step through the circle of runes, and you teleport to the circle on the up—other floor. You step through. The ceiling is about 20 feet up. There's a round door in the ceiling."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Queen’s chamber",
+      "evidence": [
+        {
+          "startUid": "u5316",
+          "endUid": "u5322",
+          "quote": "DM: Uh, okay. So as you, as you open the door you are looking, um, from the ceiling down to a floor. You do— It at least... Well, those of you with Truesight, so Kenzo you see there's, there's no walls."
+        },
+        {
+          "startUid": "u5341",
+          "endUid": "u5354",
+          "quote": "DM: Uh, also, um, standing on the, on the ground, um, [coughs] you see the person depicted by the statue, the Queen of Ash, the, the creature that was shown in the statue in the floor below, standing in what looks like prayer or a vigil of some kind. Um, next to her is another one of those, uh, metallic blood things you just fought. Um, another one of the—"
+        },
+        {
+          "startUid": "u5384",
+          "endUid": "u5384",
+          "quote": "DM: Uh, except that those of you with Truesight can see that the walls are illusionary and it's actually about a 40-foot diameter room."
+        },
+        {
+          "startUid": "u5393",
+          "endUid": "u5398",
+          "quote": "DM: No. Oh, and actually, those of you with Truesight also see a, a sort of dusty silhouette of a human—noid-ish kind of creature lurking, um, u— un— just direct— right underneath, like right at the bottom of the floor, invisible. But with Truesight you can see it."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u5316",
+              "endUid": "u5322",
+              "quote": "DM: Uh, okay. So as you, as you open the door you are looking, um, from the ceiling down to a floor. You do— It at least... Well, those of you with Truesight, so Kenzo you see there's, there's no walls."
+            },
+            {
+              "startUid": "u5323",
+              "endUid": "u5330",
+              "quote": "DM: This is just a vast vis— a floating platform with a vast vista expanse, a panoramic view showing an endless, um, expanse of shifting land more solid than the formless void of Limbo, but unfixed, shifting at a whim, just kind of, um, every moment. Like, it's, it looks like a, it looks like the Earth, right? It looks like, you know, a landscape of, you know, a, a, you know, a river valley or something, but it's, everything is just constantly changing. Like, trees will grow and then blossom and then split and turn into legs, and begin walking across the landscape."
+            },
+            {
+              "startUid": "u5331",
+              "endUid": "u5335",
+              "quote": "DM: Um, and striding through this you can see, um, several of these kinda like the ash statue you saw before. Um, one of which is walking through holding hands with a dark fire creature."
+            },
+            {
+              "startUid": "u5336",
+              "endUid": "u5338",
+              "quote": "Kenzo: Limbo is psychedelic as fuck. Like, everything you're describing is, like, I can't even... It's hard for me to, like, even, like, picture it all."
+            },
+            {
+              "startUid": "u5339",
+              "endUid": "u5339",
+              "quote": "Unknown: Yeah."
+            },
+            {
+              "startUid": "u5340",
+              "endUid": "u5340",
+              "quote": "Kenzo: It sounds so crazy."
+            },
+            {
+              "startUid": "u5341",
+              "endUid": "u5354",
+              "quote": "DM: Uh, also, um, standing on the, on the ground, um, [coughs] you see the person depicted by the statue, the Queen of Ash, the, the creature that was shown in the statue in the floor below, standing in what looks like prayer or a vigil of some kind. Um, next to her is another one of those, uh, metallic blood things you just fought. Um, another one of the—"
+            },
+            {
+              "startUid": "u5355",
+              "endUid": "u5355",
+              "quote": "Unknown: Fuck, man."
+            },
+            {
+              "startUid": "u5356",
+              "endUid": "u5356",
+              "quote": "DM: ... centaur creatures."
+            },
+            {
+              "startUid": "u5357",
+              "endUid": "u5358",
+              "quote": "Unknown: Fuck. Jesus, like two creatures."
+            },
+            {
+              "startUid": "u5359",
+              "endUid": "u5361",
+              "quote": "DM: And, uh, about almost two dozen, um—"
+            },
+            {
+              "startUid": "u5362",
+              "endUid": "u5362",
+              "quote": "Unknown: Fuck."
+            },
+            {
+              "startUid": "u5363",
+              "endUid": "u5363",
+              "quote": "DM: ... uh, small little puffs—"
+            },
+            {
+              "startUid": "u5364",
+              "endUid": "u5364",
+              "quote": "Unknown: I'm not fighting two creatures."
+            },
+            {
+              "startUid": "u5365",
+              "endUid": "u5366",
+              "quote": "DM: ... of cloud. These are minions."
+            },
+            {
+              "startUid": "u5367",
+              "endUid": "u5367",
+              "quote": "Delwath: Wait, and there's this queen creature?"
+            },
+            {
+              "startUid": "u5368",
+              "endUid": "u5368",
+              "quote": "DM: And the queen creature, yes."
+            },
+            {
+              "startUid": "u5369",
+              "endUid": "u5369",
+              "quote": "Delwath: Is the queen creature, like, the entity here or something else?"
+            },
+            {
+              "startUid": "u5370",
+              "endUid": "u5370",
+              "quote": "DM: The—"
+            },
+            {
+              "startUid": "u5371",
+              "endUid": "u5371",
+              "quote": "Delwath: What, what do we know about this queen creature?"
+            },
+            {
+              "startUid": "u5372",
+              "endUid": "u5372",
+              "quote": "Unknown: What does she look like?"
+            },
+            {
+              "startUid": "u5373",
+              "endUid": "u5373",
+              "quote": "Seeker: We're just trying to get the relic."
+            },
+            {
+              "startUid": "u5374",
+              "endUid": "u5374",
+              "quote": "Wellby: Do you see the relic?"
+            },
+            {
+              "startUid": "u5375",
+              "endUid": "u5375",
+              "quote": "DM: You don't see the relic."
+            },
+            {
+              "startUid": "u5376",
+              "endUid": "u5376",
+              "quote": "Seeker: No cheating."
+            },
+            {
+              "startUid": "u5377",
+              "endUid": "u5377",
+              "quote": "DM: Mm."
+            },
+            {
+              "startUid": "u5378",
+              "endUid": "u5378",
+              "quote": "Delwath: Can we, like, close the door and just quietly retreat?"
+            },
+            {
+              "startUid": "u5379",
+              "endUid": "u5379",
+              "quote": "Unknown: [laughs]"
+            },
+            {
+              "startUid": "u5380",
+              "endUid": "u5380",
+              "quote": "Wellby: [laughs] Back out of this dimension."
+            },
+            {
+              "startUid": "u5381",
+              "endUid": "u5381",
+              "quote": "Seeker: So wait, sorry. I mean—"
+            },
+            {
+              "startUid": "u5382",
+              "endUid": "u5382",
+              "quote": "Delwath: Is it really worth fixing this?"
+            },
+            {
+              "startUid": "u5383",
+              "endUid": "u5383",
+              "quote": "Seeker: ... just a vast open space?"
+            },
+            {
+              "startUid": "u5384",
+              "endUid": "u5384",
+              "quote": "DM: Uh, except that those of you with Truesight can see that the walls are illusionary and it's actually about a 40-foot diameter room."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Stable treasure globe",
+      "evidence": [
+        {
+          "startUid": "u9968",
+          "endUid": "u9969",
+          "quote": "DM: Uh, you are looking up into a, um, clear crystal globe filled with a pale yellowish light. It is going to a different place than it went to before."
+        },
+        {
+          "startUid": "u9992",
+          "endUid": "u9992",
+          "quote": "Seeker: We go in."
+        },
+        {
+          "startUid": "u9993",
+          "endUid": "u9993",
+          "quote": "DM: You go in."
+        },
+        {
+          "startUid": "u10001",
+          "endUid": "u10016",
+          "quote": "DM: You see, um, a, uh, floating... Like, you're now in this globe. Like, the metal rain is falling around you. Everything is, um... But this seems to be, like, a permanent sphere of stability. Um, there are four tables floating in spa— floating in this space. There's no f— it's like a big glass circle. There's no floor, but about halfway up there's, like, four tables floating in the sort of midpoint. Um, each, they're small. They're, like, almost more like footstools. They're, like, the size of, like, low down like that sort of table, not like big tables like this."
+        },
+        {
+          "startUid": "u10017",
+          "endUid": "u10023",
+          "quote": "DM: Um, on one of them there is a scimitar on which black flames are dancing, putting out darkness. Another one has a plain leather bag. Um, another one has a strange black, gray, reddish orb that has incredibly dense little runic, uh, words on it that spiral in all sorts of directions."
+        },
+        {
+          "startUid": "u10025",
+          "endUid": "u10026",
+          "quote": "DM: And, um, the other has a, uh, a scroll, just, like, a spell scroll."
+        },
+        {
+          "startUid": "u10031",
+          "endUid": "u10031",
+          "quote": "DM: Uh, yes, all, all four of these things are magic."
+        },
+        {
+          "startUid": "u10033",
+          "endUid": "u10033",
+          "quote": "DM: The leather bag, the scroll, the relic thing, and the scimitar."
+        }
+      ],
+      "kind": "chamber",
+      "note": "Reached through the tower’s switchable ceiling door and stable amid its collapse. The later pull is on the relic held by the party; the source does not say the whole globe moves.",
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u9959",
+              "endUid": "u9959",
+              "quote": "Seeker: I Mage Hand, I guess, and switch it."
+            },
+            {
+              "startUid": "u9960",
+              "endUid": "u9961",
+              "quote": "DM: Okay. And then what?"
+            },
+            {
+              "startUid": "u9962",
+              "endUid": "u9962",
+              "quote": "Seeker: Is the doors open right now?"
+            },
+            {
+              "startUid": "u9963",
+              "endUid": "u9963",
+              "quote": "DM: Yeah."
+            },
+            {
+              "startUid": "u9964",
+              "endUid": "u9964",
+              "quote": "Seeker: Should we close it and reopen it?"
+            },
+            {
+              "startUid": "u9965",
+              "endUid": "u9965",
+              "quote": "DM: Yeah."
+            },
+            {
+              "startUid": "u9966",
+              "endUid": "u9966",
+              "quote": "Wellby: Yeah."
+            },
+            {
+              "startUid": "u9967",
+              "endUid": "u9967",
+              "quote": "Seeker: All right. Mage Hand close it, Mage Hand reopen it."
+            },
+            {
+              "startUid": "u9968",
+              "endUid": "u9969",
+              "quote": "DM: Uh, you are looking up into a, um, clear crystal globe filled with a pale yellowish light. It is going to a different place than it went to before."
+            },
+            {
+              "startUid": "u9970",
+              "endUid": "u9970",
+              "quote": "Seeker: That looks like a better place than where we are now, which is being repeatedly stabbed, so I—"
+            },
+            {
+              "startUid": "u9971",
+              "endUid": "u9972",
+              "quote": "DM: So you all take another three points of piercing damage."
+            },
+            {
+              "startUid": "u9973",
+              "endUid": "u9973",
+              "quote": "Kenzo: Was that one or two for us?"
+            },
+            {
+              "startUid": "u9974",
+              "endUid": "u9975",
+              "quote": "DM: Uh, one for you. But your potion's gonna end pretty soon—"
+            },
+            {
+              "startUid": "u9976",
+              "endUid": "u9976",
+              "quote": "Unknown: My—"
+            },
+            {
+              "startUid": "u9977",
+              "endUid": "u9977",
+              "quote": "DM: … because it only lasts for a minute."
+            },
+            {
+              "startUid": "u9978",
+              "endUid": "u9978",
+              "quote": "Delwath: Yeah, it's probably just—"
+            },
+            {
+              "startUid": "u9979",
+              "endUid": "u9979",
+              "quote": "Unknown: I don't have a potion."
+            },
+            {
+              "startUid": "u9980",
+              "endUid": "u9980",
+              "quote": "DM: Oh, yours lasts for—"
+            },
+            {
+              "startUid": "u9981",
+              "endUid": "u9981",
+              "quote": "Wellby: Yeah."
+            },
+            {
+              "startUid": "u9982",
+              "endUid": "u9982",
+              "quote": "DM: … no, yours still also only lasts for a minute."
+            },
+            {
+              "startUid": "u9983",
+              "endUid": "u9984",
+              "quote": "Unknown: Oh, no. Is it magic?"
+            },
+            {
+              "startUid": "u9985",
+              "endUid": "u9985",
+              "quote": "DM: The door is magic, yes."
+            },
+            {
+              "startUid": "u9986",
+              "endUid": "u9986",
+              "quote": "Unknown: The globe of light magic?"
+            },
+            {
+              "startUid": "u9987",
+              "endUid": "u9987",
+              "quote": "DM: No, it's like a room that's filled with a globe."
+            },
+            {
+              "startUid": "u9988",
+              "endUid": "u9988",
+              "quote": "Delwath: I think we should go in it. It seems safer than anywhere else, right?"
+            },
+            {
+              "startUid": "u9989",
+              "endUid": "u9989",
+              "quote": "Wellby: Well, in we go."
+            },
+            {
+              "startUid": "u9990",
+              "endUid": "u9990",
+              "quote": "Unknown: What are we waiting for?"
+            },
+            {
+              "startUid": "u9991",
+              "endUid": "u9991",
+              "quote": "DM: Okay."
+            },
+            {
+              "startUid": "u9992",
+              "endUid": "u9992",
+              "quote": "Seeker: We go in."
+            },
+            {
+              "startUid": "u9993",
+              "endUid": "u9993",
+              "quote": "DM: You go in."
+            },
+            {
+              "startUid": "u9994",
+              "endUid": "u9994",
+              "quote": "Wellby: You hold that."
+            },
+            {
+              "startUid": "u9995",
+              "endUid": "u9999",
+              "quote": "DM: Um, no. No, no, no, no, no. Um, you are in a... Wait, where did I put my notes? Uh, you see, um—"
+            },
+            {
+              "startUid": "u10000",
+              "endUid": "u10000",
+              "quote": "Unknown: Oh, yeah. Go for—"
+            },
+            {
+              "startUid": "u10001",
+              "endUid": "u10016",
+              "quote": "DM: You see, um, a, uh, floating... Like, you're now in this globe. Like, the metal rain is falling around you. Everything is, um... But this seems to be, like, a permanent sphere of stability. Um, there are four tables floating in spa— floating in this space. There's no f— it's like a big glass circle. There's no floor, but about halfway up there's, like, four tables floating in the sort of midpoint. Um, each, they're small. They're, like, almost more like footstools. They're, like, the size of, like, low down like that sort of table, not like big tables like this."
+            }
+          ],
+          "note": "Accessed through the tower’s switchable door; planar geometry and permanent containment are not established."
+        }
+      ]
+    },
+    "p12": {
+      "label": "Elven Forest",
+      "evidence": [
+        {
+          "startUid": "u10550",
+          "endUid": "u10557",
+          "quote": "DM: Okay. You all run onto the rainbow bridge as the monastery decays around you, moments before the chaos explosion hits, and you race across, the last ones, the monks having all gone before you while you were talking to Rai, run across the bridge and return to the Elven Forest, uh, in the middle of the night, not even a day having passed—"
+        },
+        {
+          "startUid": "u10559",
+          "endUid": "u10560",
+          "quote": "DM: … since you entered Limbo, and all now level 20."
+        }
+      ],
+      "kind": "forest",
+      "vaultPath": "Gazetteer/Upper Istaros/Orenlas/Orenlas.md",
+      "note": "Identified as Orenlas by the continuing journey from DF135’s registered raw notes; DF136 calls the return destination the Elven Forest."
+    },
+    "p13": {
+      "label": "Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u10481",
+          "endUid": "u10482",
+          "quote": "DM: At this moment, you can… The monks are, like, all crossing the bridge, going back to Vindristjarna."
+        }
+      ],
+      "kind": "vessel",
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0126",
+        "endUid": "u0146"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party rests and hears Rai’s account in his sanctuary.",
+      "evidence": [
+        {
+          "startUid": "u0126",
+          "endUid": "u0136",
+          "quote": "DM: Yeah. All right. Okay. So you rest, um, recover. Um, Rai is not super talkative. It seems like, uh, it takes a fair bit of effort to just maintain everything that he's trying to maintain. But you do, I mean, you do hear a little bit more about the, you know, everything that happened and how most of the story of the events leading up to Rai getting caught here, you've pretty much figured out by now, I think."
+        },
+        {
+          "startUid": "u0137",
+          "endUid": "u0146",
+          "quote": "DM: But basically he met some of the monks. He got worried that the wound was getting worse, and came up here, talked to Beryl, hashed a strategy, and didn't realize until they got to Isingue with all the monks and started doing this ritual to close a portal that it wasn't in fact a portal, and got ripped through. Managed to save most of the monks, but it has taken pretty much all of his..."
+        },
+        {
+          "startUid": "u0334",
+          "endUid": "u0340",
+          "quote": "DM: Yeah, let's wait. Okay. So as you finish your rest [coughs] and you leave the, um, be- you prepare to leave the sanctuary, um, the, the monks still, uh, you can see now that some, that they'll, they take shifts, and so some of them will rest. Um, and the rest of them are, are sort of going through."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0353",
+        "endUid": "u0385"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Rai pulls the occupied sanctuary closer to the tower along his luminous chain; it stops before the party departs.",
+      "evidence": [
+        {
+          "startUid": "u0353",
+          "endUid": "u0355",
+          "quote": "DM: Uh, Rai has, um [coughs] uh, so Rai is connected, has a connection to the, to the relic, because he's also f- you know, essentially fighting with this ancient Limbo being, trying to keep it from gaining full control over the relic."
+        },
+        {
+          "startUid": "u0357",
+          "endUid": "u0362",
+          "quote": "DM: He's multitasking. And, uh, so he can make—showing up just through the threads of Limbo, like a glowing chain, like a bunch of links of sort of, um, greenish gold energy forming a chain that stretches off into the distance, and, um, he yanks, and the ch— and the chain, the sanctuary begins to move."
+        },
+        {
+          "startUid": "u0365",
+          "endUid": "u0365",
+          "quote": "DM: He's bringing you close."
+        },
+        {
+          "startUid": "u0377",
+          "endUid": "u0385",
+          "quote": "DM: ... um. So a few moments pass. Um, you can actually see, so as this stops, uh, your, you know, Rai tells you to go. He's in the telepathy for a time anyway, and you pass back through the, um, you, you pa- and oh, he, uh, so he tells you, like you've, you've, there's fewer monks now who are sort of lost on the edges."
+        }
+      ],
+      "from": "p02",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "Rai’s mental pull",
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "near",
+          "target": "p04"
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0579",
+        "endUid": "u0666"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leave the sanctuary, form a new protective glass sphere after ash desiccation, and drift along the chain into the non-Euclidean ash valley.",
+      "evidence": [
+        {
+          "startUid": "u0579",
+          "endUid": "u0580",
+          "quote": "DM: [laughs] Okay, so, uh, you exit through the shimmering concentric circles of—"
+        },
+        {
+          "startUid": "u0597",
+          "endUid": "u0604",
+          "quote": "DM: Rai can do that. So you exit, um, and you travel only a short distance through, um, a relatively tame... Wait, hold on. Maybe it's not tame. Yeah, it's r— rel— relatively tame. Uh, uh, actually Seeker, you better make an Int check 'cause you've rested, so there's no sphere of stability up anymore."
+        },
+        {
+          "startUid": "u0618",
+          "endUid": "u0623",
+          "quote": "DM: Uh, you c— I mean, you can try again, but you're gonna get hit by these. So you exit, and Seeker starts to try and form. You exit into a, um, a sort of drifting sea of, of ash that smells sweet and pleasant, and you can hear sort of a drifting lullaby. But as the, but as you step, the ash sort of starts to cling to you and suck all the moisture out of you."
+        },
+        {
+          "startUid": "u0625",
+          "endUid": "u0631",
+          "quote": "DM: Um, and, uh, every... Where did it go? Everybody takes 11, 12, 15 points of necrotic damage as you begin to desiccate in the, uh, in the ash. And Seeker can try again."
+        },
+        {
+          "startUid": "u0634",
+          "endUid": "u0635",
+          "quote": "Seeker: That's, uh, 13 plus 5, 18."
+        },
+        {
+          "startUid": "u0636",
+          "endUid": "u0638",
+          "quote": "DM: Yeah. Okay. So after a moment, um, Seeker manages it. What are you trying to shape?"
+        },
+        {
+          "startUid": "u0650",
+          "endUid": "u0653",
+          "quote": "DM: I mean, you don't even have to create something. All you really have to do is like make a little humidifier so you're not all drying out and desiccated. Like, you don't have to create a platform to stand on. Remember, you can just drift."
+        },
+        {
+          "startUid": "u0656",
+          "endUid": "u0656",
+          "quote": "Seeker: We're in a b— a glass ball."
+        },
+        {
+          "startUid": "u0657",
+          "endUid": "u0657",
+          "quote": "DM: Yeah, you just need to establish a new sphere of protection around you that is strong enough to prevent those effects from damaging you."
+        },
+        {
+          "startUid": "u0658",
+          "endUid": "u0658",
+          "quote": "Seeker: Yeah, we're in a glass sphere."
+        },
+        {
+          "startUid": "u0661",
+          "endUid": "u0666",
+          "quote": "DM: ... slowly through the ash, and the ash begins to get thinner and thinner as you drift following the lights of this chain, um, until, um, you emerge looking... It's not clear if it's really down or sideways, um, into a valley that's shaped of this same ash. There's like ash that comes up, but it's a, it's not a Euclidean valley. It's a valley that like comes to, to a point in every direction despite being a valley."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "drift",
+      "route": [
+        {
+          "reading": "Pass through a sea of desiccating ash following Rai’s chain."
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0681",
+        "endUid": "u0731"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From about 300 feet away in the ash valley, see the twisting black-metal tower, its emerald doors and two guards.",
+      "evidence": [
+        {
+          "startUid": "u0681",
+          "endUid": "u0684",
+          "quote": "DM: So, and inside this ash valley, you can see there's a tower, but this isn't like a normal tower. Um—"
+        },
+        {
+          "startUid": "u0693",
+          "endUid": "u0699",
+          "quote": "DM: ... you see a door, but like a 20 foot tall set of green emerald doors— With two, what look like, um, n— nine-foot tall, half... They're sort of like, um, a child's drawing of a centaur."
+        },
+        {
+          "startUid": "u0701",
+          "endUid": "u0704",
+          "quote": "DM: Yeah. It's like you see standing outside what looks like a, like a badly sculpted drawing of a centaur with, like, ash puffing out around it. But as the ash puffs out around it, it, um, it is, um, it is solidifying and hardening into steel. Two of these things kind of pacing in front of the door."
+        },
+        {
+          "startUid": "u0705",
+          "endUid": "u0707",
+          "quote": "DM: And then the tower goes, like, in some nonsensical twisty shape and there's a few places where it, like, comes to a point and then crosses and goes back the other way. Um—"
+        },
+        {
+          "startUid": "u0711",
+          "endUid": "u0713",
+          "quote": "DM: ... metal-ish thing. At the moment, you are, like, 300 feet away and still in a light ash fall. Nobody has seen you."
+        },
+        {
+          "startUid": "u0721",
+          "endUid": "u0724",
+          "quote": "DM: The tower goes up for a ways and then it, like, turns like this, and then it twists and spirals, and then it goes, like, up again. It's, like, super weird. But they are standing in front of the only obvious doors that you can see."
+        },
+        {
+          "startUid": "u0726",
+          "endUid": "u0727",
+          "quote": "DM: It's made of a black metal, completely non-reflective black matte metal."
+        },
+        {
+          "startUid": "u0731",
+          "endUid": "u0731",
+          "quote": "DM: No entrances or exits except for the doors that you can see."
+        }
+      ],
+      "place": "p04",
+      "mode": "local",
+      "observerPlace": "p03"
+    },
+    {
+      "id": "l05",
+      "type": "presence",
+      "source": {
+        "startUid": "u0881",
+        "endUid": "u0890"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Retrospectively test sensing in Rai’s safe sanctuary before departure.",
+      "evidence": [
+        {
+          "startUid": "u0881",
+          "endUid": "u0882",
+          "quote": "Kenzo: Okay. So actually, here, just if it is okay to retcon this..."
+        },
+        {
+          "startUid": "u0883",
+          "endUid": "u0883",
+          "quote": "DM: Yeah."
+        },
+        {
+          "startUid": "u0884",
+          "endUid": "u0884",
+          "quote": "Kenzo: I think when Kenzo was with the monks and with Rai in the safe space..."
+        },
+        {
+          "startUid": "u0886",
+          "endUid": "u0887",
+          "quote": "Kenzo: So he's in... That's, like, structured space inside Limbo. Kenzo experiments with, um, you know, his natural sensing abilities."
+        },
+        {
+          "startUid": "u0888",
+          "endUid": "u0888",
+          "quote": "DM: Yeah."
+        },
+        {
+          "startUid": "u0889",
+          "endUid": "u0889",
+          "quote": "Kenzo: Is he able to, like, sense things inside the stable stuff place?"
+        },
+        {
+          "startUid": "u0890",
+          "endUid": "u0890",
+          "quote": "DM: Yes."
+        }
+      ],
+      "place": "p02",
+      "context": "flashback"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0948",
+        "endUid": "u0963"
+      },
+      "actors": [
+        "Seeker 6",
+        "Ladder"
+      ],
+      "reading": "Dimension Door bypasses the front wall and sends Seeker 6 and Ladder to the library; their later telepathic report identifies the arrival.",
+      "evidence": [
+        {
+          "startUid": "u0948",
+          "endUid": "u0948",
+          "quote": "Seeker: Do it. So step one, [clears throat] Seeker six—"
+        },
+        {
+          "startUid": "u0950",
+          "endUid": "u0950",
+          "quote": "Seeker: And ladder."
+        },
+        {
+          "startUid": "u0952",
+          "endUid": "u0952",
+          "quote": "Seeker: Dimension Door through the doors."
+        },
+        {
+          "startUid": "u0953",
+          "endUid": "u0953",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u1835",
+          "endUid": "u1837",
+          "quote": "DM: Um, meanwhile, um, you hear from Seeker 6, uh—"
+        },
+        {
+          "startUid": "u1839",
+          "endUid": "u1840",
+          "quote": "DM: \"... uh, we, we showed up in a library of sorts.\""
+        },
+        {
+          "startUid": "u1842",
+          "endUid": "u1845",
+          "quote": "DM: \"Uh, it's not great. Um, there's like a weird violet orb here and some desks and, um, two, uh, people trying to kill us. I made a wall of stone and we're hiding behind it, but I don't know how long it's gonna last.\""
+        }
+      ],
+      "from": "p03",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "Dimension Door",
+      "note": "The initially reported violet orb is corrected away at u3528–u3530; the library is identified by desks and Wall of Stone."
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0982",
+        "endUid": "u0993"
+      },
+      "actors": [
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "Their Dimension Door reaches the mosaic antechamber inside the tower, separated from the other pairs.",
+      "evidence": [
+        {
+          "startUid": "u0982",
+          "endUid": "u0982",
+          "quote": "Delwath: All right. I got Wellby."
+        },
+        {
+          "startUid": "u0991",
+          "endUid": "u0991",
+          "quote": "DM: Okay. This was Delwath and—"
+        },
+        {
+          "startUid": "u0993",
+          "endUid": "u0993",
+          "quote": "DM: ... Wellby."
+        },
+        {
+          "startUid": "u1020",
+          "endUid": "u1024",
+          "quote": "DM: Okay. Um, you guys can't see this because you've already disappeared. I'll tell you what you see in a minute. Nobody knows what's happening with Seeker six and—"
+        },
+        {
+          "startUid": "u1054",
+          "endUid": "u1056",
+          "quote": "DM: You, um, see you are inside a chamber. Um, the chamber is—"
+        },
+        {
+          "startUid": "u1058",
+          "endUid": "u1065",
+          "quote": "DM: ... uh, it's a, it's like maybe... Hold on, let me just, sorry, let me just check. I gotta pull up my map and look here. Um, the chamber is like about like 40 or 50 feet across. Um, the entire surface of the chamber is covered in this intricate mosaic that ripples with magic."
+        },
+        {
+          "startUid": "u1067",
+          "endUid": "u1072",
+          "quote": "DM: The walls and the ceiling are showing like these ever shifting scenes. Um, most of them are showing like a central humanoid or some... They're moving, right? They're mo- they're like moving illusions, showing like a central humanoid striding through a landscape, um, the ground behind them decohering into this sort of limbo chaos as they walk. Um, whereas others seem to be showing contests of will between these humanoid shapes and like strange geared creatures that look like construct— clockwork constructs."
+        },
+        {
+          "startUid": "u1079",
+          "endUid": "u1080",
+          "quote": "DM: There's four pillars in the room, each with flicker with flames of darkness that suck the light and the warmth from the room. Um, you both have true sight."
+        },
+        {
+          "startUid": "u1084",
+          "endUid": "u1088",
+          "quote": "DM: The floor is an illusion and, um, although it looks like tile work, there's, there's actually 20, um, like, uh— ... droplets of liquid stone that have grasping tentacles that flicker in and out of existence, hovering below the illusory floor waiting to pounce on somebody."
+        }
+      ],
+      "from": "p03",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "Dimension Door"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1000",
+        "endUid": "u1042"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker"
+      ],
+      "reading": "Their Dimension Door bounces off the wall and redirects them to the ground outside the emerald front doors.",
+      "evidence": [
+        {
+          "startUid": "u1000",
+          "endUid": "u1000",
+          "quote": "Seeker: So and I do, I assume I roll as well."
+        },
+        {
+          "startUid": "u1001",
+          "endUid": "u1001",
+          "quote": "DM: Yep."
+        },
+        {
+          "startUid": "u1002",
+          "endUid": "u1002",
+          "quote": "Seeker: Okay, Kenzo, here we go."
+        },
+        {
+          "startUid": "u1004",
+          "endUid": "u1004",
+          "quote": "Seeker: That's a one."
+        },
+        {
+          "startUid": "u1007",
+          "endUid": "u1007",
+          "quote": "DM: Kenzo plus Seeker."
+        },
+        {
+          "startUid": "u1018",
+          "endUid": "u1018",
+          "quote": "DM: So you rolled a one?"
+        },
+        {
+          "startUid": "u1019",
+          "endUid": "u1019",
+          "quote": "Unknown: Yeah. Yes."
+        },
+        {
+          "startUid": "u1020",
+          "endUid": "u1024",
+          "quote": "DM: Okay. Um, you guys can't see this because you've already disappeared. I'll tell you what you see in a minute. Nobody knows what's happening with Seeker six and—"
+        },
+        {
+          "startUid": "u1026",
+          "endUid": "u1029",
+          "quote": "DM: ... the ladder. Um, uh, you find yourself appearing right in front of the door."
+        },
+        {
+          "startUid": "u1030",
+          "endUid": "u1030",
+          "quote": "Kenzo: Just Seeker or me and Seeker?"
+        },
+        {
+          "startUid": "u1031",
+          "endUid": "u1031",
+          "quote": "DM: You too."
+        },
+        {
+          "startUid": "u1033",
+          "endUid": "u1033",
+          "quote": "DM: The Dimension Door like—"
+        },
+        {
+          "startUid": "u1035",
+          "endUid": "u1035",
+          "quote": "DM: ... bounces, bounces off the—"
+        },
+        {
+          "startUid": "u1037",
+          "endUid": "u1037",
+          "quote": "DM: ... the wall."
+        },
+        {
+          "startUid": "u1038",
+          "endUid": "u1038",
+          "quote": "Seeker: Oh, we're not inside."
+        },
+        {
+          "startUid": "u1039",
+          "endUid": "u1039",
+          "quote": "DM: ... and redirects you down to the ground."
+        },
+        {
+          "startUid": "u1040",
+          "endUid": "u1040",
+          "quote": "Unknown: So we're outside."
+        },
+        {
+          "startUid": "u1041",
+          "endUid": "u1041",
+          "quote": "DM: Yes."
+        }
+      ],
+      "from": "p03",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "deflected Dimension Door"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1649",
+        "endUid": "u1797"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker"
+      ],
+      "reading": "The two gatekeepers admit Kenzo and Seeker into the antechamber, then follow them inside and shut the outside doors.",
+      "evidence": [
+        {
+          "startUid": "u1649",
+          "endUid": "u1655",
+          "quote": "DM: The, the centaur, the two, like, weird m— semi-metallic centaurs outside, um, turn and look at you. \"This is, this is very irregular. They're... The, the stone drops wouldn't be so agitated if something wasn't in that room. I... We have to go at least tell people what's happening. Maybe you just wait here for a moment?\""
+        },
+        {
+          "startUid": "u1657",
+          "endUid": "u1657",
+          "quote": "DM: \"We'll, we'll go in and let them know.\""
+        },
+        {
+          "startUid": "u1669",
+          "endUid": "u1669",
+          "quote": "DM: \"Go, go, go ahead and wait in the antechamber and when it's safe—\""
+        },
+        {
+          "startUid": "u1671",
+          "endUid": "u1671",
+          "quote": "DM: \"... we'll send you up.\""
+        },
+        {
+          "startUid": "u1672",
+          "endUid": "u1672",
+          "quote": "Kenzo: Okay. Sounds great."
+        },
+        {
+          "startUid": "u1726",
+          "endUid": "u1727",
+          "quote": "DM: No, now we're all inside. Yeah, yeah. You, you actually—"
+        },
+        {
+          "startUid": "u1734",
+          "endUid": "u1736",
+          "quote": "DM: ... let me do things in order. Um, so, so they step in. They're like shooing, shooing the—"
+        },
+        {
+          "startUid": "u1738",
+          "endUid": "u1741",
+          "quote": "DM: ... the, the minions. Um, they walk through. Um, they—"
+        },
+        {
+          "startUid": "u1746",
+          "endUid": "u1746",
+          "quote": "DM: They're walking through. They're shooing the minions off to the side, so the minions like—"
+        },
+        {
+          "startUid": "u1791",
+          "endUid": "u1797",
+          "quote": "DM: Okay, so are you at... Let me add them. Why don't we add everybody to the initiative count here? Um, it... We'll say it's gonna just start again at the top. Well, they rolled very badly here. Um, they shut the door behind them, so whatever's hiding outside is not—"
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u3095",
+        "endUid": "u3109"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Seeker activates the antechamber orb; all four nearby PCs are pulled through violet light into the lower statue hall, shifted ninety degrees.",
+      "evidence": [
+        {
+          "startUid": "u3095",
+          "endUid": "u3096",
+          "quote": "Seeker: Um, I'm gonna grab the lever and turn it. Everybody okay with that? Too late."
+        },
+        {
+          "startUid": "u3098",
+          "endUid": "u3098",
+          "quote": "Wellby: Yeah. We'll all—"
+        },
+        {
+          "startUid": "u3100",
+          "endUid": "u3100",
+          "quote": "Wellby: ... we'll all come close. We'll, like—"
+        },
+        {
+          "startUid": "u3102",
+          "endUid": "u3102",
+          "quote": "Wellby: ... at least put our hand on your shoulder or something."
+        },
+        {
+          "startUid": "u3103",
+          "endUid": "u3109",
+          "quote": "DM: Yeah. Uh, ev— everybody within 10 feet, which is all of you, um, you suddenly feel a sh— y— you're, like, sucked into the purple light, and then, like, there's a super disorienting, like, gravity is shifting. And as you come out, you are standing in front of another, um, uh, purple light, uh, but you've shifted 90 degrees."
+        },
+        {
+          "startUid": "u3112",
+          "endUid": "u3112",
+          "quote": "DM: This, this is the room that pinches at the top."
+        },
+        {
+          "startUid": "u3116",
+          "endUid": "u3129",
+          "quote": "DM: Um, it's very, it happens quietly. Um, you see, like, a d— um, a dozen statues of strange warriors similar to, like, the humanoids in the, um, in the m— mosaic below. They're like... You wouldn't even really describe them as humanoids, but they're clearly warriors. There's about a dozen of these statues, each surrounded by a semicircle of, I guess what you might describe as candles, but each one seems to be made of some weird different material. Like, there's one of stone, there's one that's made of water that's just a pillar of water, and all the candles are, are burning. It's almost like a... They're almost like... It's like in a church. It's like the sort of tealights in front of an altar in a church."
+        },
+        {
+          "startUid": "u3141",
+          "endUid": "u3145",
+          "quote": "DM: There are two violet orbs that hover four feet off the ground. One that you appeared at, which is near the south wall to the extent to which directions make any sense. The other is at the far side of the room to the north wall."
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "transport orb"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u3307",
+        "endUid": "u3366"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Under Invisibility, cross the lower hall past the occupied scholar and use the far orb to reach the library, where Ladder and Seeker 6 are trapped.",
+      "evidence": [
+        {
+          "startUid": "u3307",
+          "endUid": "u3309",
+          "quote": "Delwath: ... let's stealth. I'll just... No, it's fine. I'll cast invisibility. Spells are there to be used. I can get back—"
+        },
+        {
+          "startUid": "u3318",
+          "endUid": "u3318",
+          "quote": "DM: We're invisible."
+        },
+        {
+          "startUid": "u3320",
+          "endUid": "u3320",
+          "quote": "DM: Yeah."
+        },
+        {
+          "startUid": "u3322",
+          "endUid": "u3324",
+          "quote": "DM: Oh. So still make a stealth check, but I'll say this is a group stealth check. Only half of you need to succeed, so probably don't even bother."
+        },
+        {
+          "startUid": "u3338",
+          "endUid": "u3338",
+          "quote": "DM: Okay, that's fine. You just need to beat a 15."
+        },
+        {
+          "startUid": "u3342",
+          "endUid": "u3343",
+          "quote": "DM: So Kenzo and Wellby guide you quietly across. You reach your hand into the other one, and yeah."
+        },
+        {
+          "startUid": "u3344",
+          "endUid": "u3344",
+          "quote": "Seeker: I, um, do whatever it takes to get us to a different place that is not where we were before."
+        },
+        {
+          "startUid": "u3345",
+          "endUid": "u3346",
+          "quote": "DM: Um, you feel yourselves becoming, like, squished into a tiny point, and then—"
+        },
+        {
+          "startUid": "u3348",
+          "endUid": "u3351",
+          "quote": "DM: ... and then as you, as you re-expand, you're now, like, you feel yourself flipping upside down, and what was the floor is now the ceiling, and what was the ceiling is now the floor. Um—"
+        },
+        {
+          "startUid": "u3353",
+          "endUid": "u3354",
+          "quote": "DM: ... and you, you see yourself, you see now, um, three desks."
+        },
+        {
+          "startUid": "u3357",
+          "endUid": "u3357",
+          "quote": "DM: Two stone desks and a wooden desk that face the north wall."
+        },
+        {
+          "startUid": "u3359",
+          "endUid": "u3361",
+          "quote": "DM: Um, uh, running ar— like, in a circle, like bulging out from the wall right next to one of the stone desks is a wall of—is a giant wall of stone."
+        },
+        {
+          "startUid": "u3363",
+          "endUid": "u3364",
+          "quote": "DM: And there are two creatures, one some sort of armored creature made of solid blood that is t—uh—has a spear and is, like, chipping at the stone."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk and transport orb",
+      "route": [
+        {
+          "reading": "Quietly cross the hall, bypassing the occupied lightning giant."
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u5006",
+        "endUid": "u5046"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Send the bat through the unlocked circle and see the upper room’s two statues and ceiling door through its eyes.",
+      "evidence": [
+        {
+          "startUid": "u5006",
+          "endUid": "u5006",
+          "quote": "Wellby: No, I send the bat in."
+        },
+        {
+          "startUid": "u5008",
+          "endUid": "u5022",
+          "quote": "DM: [laughs] Uh, the bat vanishes. I assume you're l— you're looking through its eye. Yes. [garbled]. Um, the, uh, you emerg— the bat emerges into a room, um, that has another circle, like, uh... Let's see. Let's just say what's everything in the room. There's, um, there's another circle. Um, the, uh..."
+        },
+        {
+          "startUid": "u5023",
+          "endUid": "u5029",
+          "quote": "DM: At the far end across from where you appear, where the bat appears, um, there are two statues. Um, one a, uh... How to describe it? Um, a humanoid made of flames that seem to clump and blend together like mud, becoming darker as they become denser, so the interior of the statue is barely visible, but the outside is illuminated like in flames."
+        },
+        {
+          "startUid": "u5030",
+          "endUid": "u5034",
+          "quote": "DM: And the other is a human or humanoid form of ash bound by a core of blazing ice wearing a crown. They clearly aren't l— designed to be displayed together. In fact, the s— the dark fire one looks like it belongs with the three big statues a couple floors down."
+        },
+        {
+          "startUid": "u5036",
+          "endUid": "u5042",
+          "quote": "DM: Um, but they've been pushed close together so that they can, um, be next to each other. The dark fire statue carries a wide bladed scimitar, while the other statue is, wears like a simple crown of jaggedly shaped ash. Um, other than that, um, the bat sees a, uh... So the bat sees a door in the ceiling."
+        },
+        {
+          "startUid": "u5043",
+          "endUid": "u5043",
+          "quote": "Wellby: And the circle that you described at the start is the circle that it's come out of."
+        },
+        {
+          "startUid": "u5044",
+          "endUid": "u5044",
+          "quote": "DM: That it came out of. Yeah, yeah."
+        },
+        {
+          "startUid": "u5046",
+          "endUid": "u5046",
+          "quote": "DM: Yep."
+        }
+      ],
+      "place": "p09",
+      "mode": "remote",
+      "observerPlace": "p08"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u5092",
+        "endUid": "u5096"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Step through the activated runic circle and arrive in the upper statue room.",
+      "evidence": [
+        {
+          "startUid": "u5092",
+          "endUid": "u5092",
+          "quote": "Seeker: So we go through the circle of runes."
+        },
+        {
+          "startUid": "u5093",
+          "endUid": "u5096",
+          "quote": "DM: You step through the circle of runes, and you teleport to the circle on the up—other floor. You step through. The ceiling is about 20 feet up. There's a round door in the ceiling."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "runic-circle teleport"
+    },
+    {
+      "id": "l14",
+      "type": "observation",
+      "source": {
+        "startUid": "u5316",
+        "endUid": "u5414"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Open the ceiling door and look into the queen’s chamber without entering. Truesight reveals the forty-foot room behind Kenzo’s apparent open vista and the invisible watcher.",
+      "evidence": [
+        {
+          "startUid": "u5316",
+          "endUid": "u5322",
+          "quote": "DM: Uh, okay. So as you, as you open the door you are looking, um, from the ceiling down to a floor. You do— It at least... Well, those of you with Truesight, so Kenzo you see there's, there's no walls."
+        },
+        {
+          "startUid": "u5323",
+          "endUid": "u5330",
+          "quote": "DM: This is just a vast vis— a floating platform with a vast vista expanse, a panoramic view showing an endless, um, expanse of shifting land more solid than the formless void of Limbo, but unfixed, shifting at a whim, just kind of, um, every moment. Like, it's, it looks like a, it looks like the Earth, right? It looks like, you know, a landscape of, you know, a, a, you know, a river valley or something, but it's, everything is just constantly changing. Like, trees will grow and then blossom and then split and turn into legs, and begin walking across the landscape."
+        },
+        {
+          "startUid": "u5331",
+          "endUid": "u5335",
+          "quote": "DM: Um, and striding through this you can see, um, several of these kinda like the ash statue you saw before. Um, one of which is walking through holding hands with a dark fire creature."
+        },
+        {
+          "startUid": "u5341",
+          "endUid": "u5354",
+          "quote": "DM: Uh, also, um, standing on the, on the ground, um, [coughs] you see the person depicted by the statue, the Queen of Ash, the, the creature that was shown in the statue in the floor below, standing in what looks like prayer or a vigil of some kind. Um, next to her is another one of those, uh, metallic blood things you just fought. Um, another one of the—"
+        },
+        {
+          "startUid": "u5384",
+          "endUid": "u5384",
+          "quote": "DM: Uh, except that those of you with Truesight can see that the walls are illusionary and it's actually about a 40-foot diameter room."
+        },
+        {
+          "startUid": "u5392",
+          "endUid": "u5392",
+          "quote": "Wellby: Those of us with Truesight don't see this thing that we're supposed to steal hanging around in here?"
+        },
+        {
+          "startUid": "u5393",
+          "endUid": "u5398",
+          "quote": "DM: No. Oh, and actually, those of you with Truesight also see a, a sort of dusty silhouette of a human—noid-ish kind of creature lurking, um, u— un— just direct— right underneath, like right at the bottom of the floor, invisible. But with Truesight you can see it."
+        },
+        {
+          "startUid": "u5399",
+          "endUid": "u5399",
+          "quote": "Wellby: Is it—like the thing that was out front?"
+        },
+        {
+          "startUid": "u5400",
+          "endUid": "u5401",
+          "quote": "DM: K— kinda like the... Possibly, yes, similar to the thing that was out front."
+        },
+        {
+          "startUid": "u5402",
+          "endUid": "u5402",
+          "quote": "Kenzo: So wait, which we never saw."
+        },
+        {
+          "startUid": "u5404",
+          "endUid": "u5408",
+          "quote": "DM: The queen. There's another one of the metallic blood things. Another one of the centaur, iron centaur things. About two dozen cloudy minions that seem to be made of clouds of dust. And then, uh, a sort of invisible, like, hunched, not underneath the floor, but like—"
+        },
+        {
+          "startUid": "u5410",
+          "endUid": "u5410",
+          "quote": "DM: ... crouched down sort of actually keeping watch on the door, looking actually straight up at you as the door opens."
+        }
+      ],
+      "place": "p10",
+      "mode": "local",
+      "observerPlace": "p09",
+      "note": "Delwath, Seeker and Wellby have Truesight; Kenzo initially sees the illusory landscape. Opening the door is observation, not arrival."
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u6913",
+        "endUid": "u7021"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Leap through the ceiling doorway into the queen’s chamber and transform into a gold dragon.",
+      "evidence": [
+        {
+          "startUid": "u6913",
+          "endUid": "u6913",
+          "quote": "Unknown: Oh my God."
+        },
+        {
+          "startUid": "u6914",
+          "endUid": "u6914",
+          "quote": "Delwath: Just dragon it up."
+        },
+        {
+          "startUid": "u6915",
+          "endUid": "u6915",
+          "quote": "Seeker: I will, um..."
+        },
+        {
+          "startUid": "u6916",
+          "endUid": "u6916",
+          "quote": "Kenzo: Wait, wait, wait. Hold on, hold on. Do we know what the thing that, that went inside it, what, what is that doing?"
+        },
+        {
+          "startUid": "u6917",
+          "endUid": "u6917",
+          "quote": "Unknown: We have no idea."
+        },
+        {
+          "startUid": "u6918",
+          "endUid": "u6918",
+          "quote": "DM: No idea."
+        },
+        {
+          "startUid": "u6919",
+          "endUid": "u6919",
+          "quote": "Kenzo: 'Cause worst case scenario it takes over Seeker and now all of a sudden they've got a gold dragon."
+        },
+        {
+          "startUid": "u6920",
+          "endUid": "u6920",
+          "quote": "DM: That's true."
+        },
+        {
+          "startUid": "u6921",
+          "endUid": "u6921",
+          "quote": "Kenzo: That would be really bad."
+        },
+        {
+          "startUid": "u6922",
+          "endUid": "u6922",
+          "quote": "Unknown: That would be really bad."
+        },
+        {
+          "startUid": "u6923",
+          "endUid": "u6924",
+          "quote": "Kenzo: Like, literally bad. Like, probably worst case scenario really bad. Like, we're all gonna die if that's, if that's what that thing—"
+        },
+        {
+          "startUid": "u6925",
+          "endUid": "u6925",
+          "quote": "DM: That is true."
+        },
+        {
+          "startUid": "u6926",
+          "endUid": "u6927",
+          "quote": "Delwath: But, but here's the thing. Mechanically in D&D it can't without a save, and once he's a dragon he'll have legendary—"
+        },
+        {
+          "startUid": "u6928",
+          "endUid": "u6928",
+          "quote": "DM: He has legendary resistances."
+        },
+        {
+          "startUid": "u6929",
+          "endUid": "u6931",
+          "quote": "Unknown: Yes. Which do what? I just—"
+        },
+        {
+          "startUid": "u6932",
+          "endUid": "u6932",
+          "quote": "Wellby: And the frame is like it's—"
+        },
+        {
+          "startUid": "u6933",
+          "endUid": "u6933",
+          "quote": "DM: Automatic succeed on the save."
+        },
+        {
+          "startUid": "u6934",
+          "endUid": "u6935",
+          "quote": "Unknown: ... automatic succeed the save. Oh."
+        },
+        {
+          "startUid": "u6936",
+          "endUid": "u6936",
+          "quote": "Delwath: So you should become a dragon to protect yourself from the evil inside you."
+        },
+        {
+          "startUid": "u6937",
+          "endUid": "u6937",
+          "quote": "DM: Yeah."
+        },
+        {
+          "startUid": "u6938",
+          "endUid": "u6938",
+          "quote": "Seeker: I like it."
+        },
+        {
+          "startUid": "u6939",
+          "endUid": "u6939",
+          "quote": "DM: That's a good vibe."
+        },
+        {
+          "startUid": "u6940",
+          "endUid": "u6940",
+          "quote": "Seeker: What about the potion of invulnerability? Is that worth doing?"
+        },
+        {
+          "startUid": "u6941",
+          "endUid": "u6941",
+          "quote": "Delwath: Nah. No. Well, you could bonus ac— can you do anything else with your bonus action?"
+        },
+        {
+          "startUid": "u6942",
+          "endUid": "u6942",
+          "quote": "Unknown: Wait, wait."
+        },
+        {
+          "startUid": "u6943",
+          "endUid": "u6943",
+          "quote": "DM: You can pass out."
+        },
+        {
+          "startUid": "u6944",
+          "endUid": "u6944",
+          "quote": "Wellby: When you dragon, though, you wanna jump through the hole first, right?"
+        },
+        {
+          "startUid": "u6945",
+          "endUid": "u6945",
+          "quote": "Unknown: Because once you're a dragon you won't be able to—"
+        },
+        {
+          "startUid": "u6946",
+          "endUid": "u6946",
+          "quote": "DM: Yeah."
+        },
+        {
+          "startUid": "u6947",
+          "endUid": "u6947",
+          "quote": "Wellby: ... fit through the door."
+        },
+        {
+          "startUid": "u6948",
+          "endUid": "u6948",
+          "quote": "DM: You wanna jump through the hole, drink, cast the spell while you're in midair, and bonus action bardic before you turn into a dragon."
+        },
+        {
+          "startUid": "u6949",
+          "endUid": "u6949",
+          "quote": "Unknown: Why bonus action bardic?"
+        },
+        {
+          "startUid": "u6950",
+          "endUid": "u6950",
+          "quote": "Seeker: Well, I'm glad you mentioned the size of the door—"
+        },
+        {
+          "startUid": "u6951",
+          "endUid": "u6951",
+          "quote": "DM: So somebody has an inspiration."
+        },
+        {
+          "startUid": "u6952",
+          "endUid": "u6955",
+          "quote": "Unknown: ... and the size, because I didn't think of that. You want me to stick my head in? Ah. [laughs] You could still stick your head in and breathe fire."
+        },
+        {
+          "startUid": "u6956",
+          "endUid": "u6957",
+          "quote": "Seeker: That would be funny and good, but I should probably be on the other side of the door. Yeah. Okay."
+        },
+        {
+          "startUid": "u6958",
+          "endUid": "u6958",
+          "quote": "Delwath: So I, I would do that."
+        },
+        {
+          "startUid": "u6959",
+          "endUid": "u6959",
+          "quote": "Wellby: Yeah."
+        },
+        {
+          "startUid": "u6960",
+          "endUid": "u6960",
+          "quote": "DM: Although you guess you can still pass out bardic in dragon form."
+        },
+        {
+          "startUid": "u6961",
+          "endUid": "u6962",
+          "quote": "Unknown: As a dragon, right? Yeah."
+        },
+        {
+          "startUid": "u6963",
+          "endUid": "u6963",
+          "quote": "Delwath: So I mean, you may as well pass out a bardic with your bonus action."
+        },
+        {
+          "startUid": "u6964",
+          "endUid": "u6964",
+          "quote": "Seeker: Who, who should it go to? Probably—"
+        },
+        {
+          "startUid": "u6965",
+          "endUid": "u6965",
+          "quote": "Delwath: Who still has... I mean, I still have one."
+        },
+        {
+          "startUid": "u6966",
+          "endUid": "u6966",
+          "quote": "Kenzo: I, I used mine. Give it to me—"
+        },
+        {
+          "startUid": "u6967",
+          "endUid": "u6967",
+          "quote": "Unknown: You used it all?"
+        },
+        {
+          "startUid": "u6968",
+          "endUid": "u6968",
+          "quote": "Kenzo: ... 'cause I need to, I need to pass a save to—"
+        },
+        {
+          "startUid": "u6969",
+          "endUid": "u6969",
+          "quote": "Unknown: Ah, yeah, to become the Kenzo."
+        },
+        {
+          "startUid": "u6970",
+          "endUid": "u6970",
+          "quote": "Kenzo: ... to, to become that again."
+        },
+        {
+          "startUid": "u6971",
+          "endUid": "u6971",
+          "quote": "DM: All right. Yeah, yeah."
+        },
+        {
+          "startUid": "u6972",
+          "endUid": "u6972",
+          "quote": "Unknown: So."
+        },
+        {
+          "startUid": "u6973",
+          "endUid": "u6973",
+          "quote": "Seeker: Seeker uncharacteristically r— reaches jogging speed and [laughs]"
+        },
+        {
+          "startUid": "u6974",
+          "endUid": "u6974",
+          "quote": "Unknown: [laughs] Really?"
+        },
+        {
+          "startUid": "u6975",
+          "endUid": "u6975",
+          "quote": "Delwath: ... points over to Kenzo [laughs]"
+        },
+        {
+          "startUid": "u6976",
+          "endUid": "u6976",
+          "quote": "Kenzo: Well, c— c— points it over to a pile of ash on the ground."
+        },
+        {
+          "startUid": "u6977",
+          "endUid": "u6977",
+          "quote": "DM: Yeah."
+        },
+        {
+          "startUid": "u6978",
+          "endUid": "u6978",
+          "quote": "Seeker: Shooting a s— little glowing rune in the air."
+        },
+        {
+          "startUid": "u6979",
+          "endUid": "u6979",
+          "quote": "Unknown: [laughs]"
+        },
+        {
+          "startUid": "u6980",
+          "endUid": "u6981",
+          "quote": "Seeker: And then leaps, um, s— uh, feet first, uh—"
+        },
+        {
+          "startUid": "u6982",
+          "endUid": "u6982",
+          "quote": "DM: Yeah."
+        },
+        {
+          "startUid": "u6983",
+          "endUid": "u6983",
+          "quote": "Seeker: ... through the door in the floor while—"
+        },
+        {
+          "startUid": "u6984",
+          "endUid": "u6984",
+          "quote": "Unknown: He wishes he was no powers now."
+        },
+        {
+          "startUid": "u6985",
+          "endUid": "u6985",
+          "quote": "Seeker: ... gesturing vaguely in the air, uh, and muttering about dragons."
+        },
+        {
+          "startUid": "u6986",
+          "endUid": "u6986",
+          "quote": "Unknown: Um—"
+        },
+        {
+          "startUid": "u6987",
+          "endUid": "u6987",
+          "quote": "DM: And he has a counter spell."
+        },
+        {
+          "startUid": "u6988",
+          "endUid": "u6989",
+          "quote": "Unknown: Oh, boy. No, neither does him."
+        },
+        {
+          "startUid": "u6990",
+          "endUid": "u6990",
+          "quote": "Seeker: And casts—"
+        },
+        {
+          "startUid": "u6991",
+          "endUid": "u6991",
+          "quote": "DM: She's not a spell caster."
+        },
+        {
+          "startUid": "u6992",
+          "endUid": "u6992",
+          "quote": "Seeker: ... shape change, becoming an adult gold dragon."
+        },
+        {
+          "startUid": "u6993",
+          "endUid": "u6994",
+          "quote": "Unknown: Sweet. All right."
+        },
+        {
+          "startUid": "u6995",
+          "endUid": "u6995",
+          "quote": "Kenzo: There's gotta be a... At some point, there's gonna be some AI thing—"
+        },
+        {
+          "startUid": "u6996",
+          "endUid": "u6996",
+          "quote": "Unknown: Yeah."
+        },
+        {
+          "startUid": "u6997",
+          "endUid": "u6997",
+          "quote": "Kenzo: ... that'll be cool that can, like, live transcribe us as we're talking, and then there's, like, a video of it showing—"
+        },
+        {
+          "startUid": "u6998",
+          "endUid": "u6998",
+          "quote": "DM: [laughs] Yeah."
+        },
+        {
+          "startUid": "u6999",
+          "endUid": "u6999",
+          "quote": "Unknown: ... the, you know?"
+        },
+        {
+          "startUid": "u7000",
+          "endUid": "u7000",
+          "quote": "Wellby: Mm-hmm."
+        },
+        {
+          "startUid": "u7001",
+          "endUid": "u7001",
+          "quote": "DM: So gold dragon—"
+        },
+        {
+          "startUid": "u7002",
+          "endUid": "u7002",
+          "quote": "Kenzo: That's gotta hap— that can't be too far away."
+        },
+        {
+          "startUid": "u7003",
+          "endUid": "u7003",
+          "quote": "Delwath: You, you're on th— how about you're on this one?"
+        },
+        {
+          "startUid": "u7004",
+          "endUid": "u7004",
+          "quote": "DM: You're in the... You're probably in the middle circle there."
+        },
+        {
+          "startUid": "u7005",
+          "endUid": "u7005",
+          "quote": "Unknown: Yeah."
+        },
+        {
+          "startUid": "u7006",
+          "endUid": "u7006",
+          "quote": "Seeker: Yeah. So—"
+        },
+        {
+          "startUid": "u7007",
+          "endUid": "u7007",
+          "quote": "DM: Just breathing straight down."
+        },
+        {
+          "startUid": "u7008",
+          "endUid": "u7008",
+          "quote": "Unknown: Yeah. But you can't act."
+        },
+        {
+          "startUid": "u7009",
+          "endUid": "u7009",
+          "quote": "DM: You're gonna—"
+        },
+        {
+          "startUid": "u7010",
+          "endUid": "u7010",
+          "quote": "Unknown: Yeah."
+        },
+        {
+          "startUid": "u7011",
+          "endUid": "u7012",
+          "quote": "DM: ... you're gonna toast... Not, that'll have to be your next turn 'cause you used your action for shape change."
+        },
+        {
+          "startUid": "u7013",
+          "endUid": "u7013",
+          "quote": "Unknown: Yeah, yeah."
+        },
+        {
+          "startUid": "u7014",
+          "endUid": "u7014",
+          "quote": "Delwath: The triceratops is not—"
+        },
+        {
+          "startUid": "u7015",
+          "endUid": "u7015",
+          "quote": "Seeker: Three by, three by three."
+        },
+        {
+          "startUid": "u7016",
+          "endUid": "u7016",
+          "quote": "Unknown: ... I'm three by three."
+        },
+        {
+          "startUid": "u7017",
+          "endUid": "u7017",
+          "quote": "Wellby: ... in a larger sense the triceratops can't die."
+        },
+        {
+          "startUid": "u7018",
+          "endUid": "u7018",
+          "quote": "Unknown: It can only turn—"
+        },
+        {
+          "startUid": "u7019",
+          "endUid": "u7019",
+          "quote": "DM: Right, it can only turn back into stone."
+        },
+        {
+          "startUid": "u7020",
+          "endUid": "u7020",
+          "quote": "Unknown: ... to stone. Yeah."
+        },
+        {
+          "startUid": "u7021",
+          "endUid": "u7021",
+          "quote": "DM: Um, so Kenzo's up."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "leap"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u7175",
+        "endUid": "u7297"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath"
+      ],
+      "reading": "Kenzo carries dazed Delwath through the doorway onto the dragon in the queen’s chamber.",
+      "evidence": [
+        {
+          "startUid": "u7175",
+          "endUid": "u7175",
+          "quote": "DM: So now Kenzo."
+        },
+        {
+          "startUid": "u7176",
+          "endUid": "u7178",
+          "quote": "Kenzo: Okay. Then, uh, sh— if I get you through the door... But then once that you're through the door, I still can't attack."
+        },
+        {
+          "startUid": "u7179",
+          "endUid": "u7179",
+          "quote": "Delwath: No, you can. You—"
+        },
+        {
+          "startUid": "u7180",
+          "endUid": "u7180",
+          "quote": "Kenzo: But what can I attack?"
+        },
+        {
+          "startUid": "u7181",
+          "endUid": "u7181",
+          "quote": "DM: You just drop down to the ground."
+        },
+        {
+          "startUid": "u7182",
+          "endUid": "u7182",
+          "quote": "Delwath: You drop down, you attack the Queen of Ash who landed on the ground."
+        },
+        {
+          "startUid": "u7183",
+          "endUid": "u7185",
+          "quote": "Unknown: With advantage. And you'll have advantage. All right. Okay. All right."
+        },
+        {
+          "startUid": "u7186",
+          "endUid": "u7186",
+          "quote": "Delwath: I mean, you could use two attacks to kill the two minions."
+        },
+        {
+          "startUid": "u7187",
+          "endUid": "u7187",
+          "quote": "Kenzo: Nah, [censored] that."
+        },
+        {
+          "startUid": "u7188",
+          "endUid": "u7188",
+          "quote": "Unknown: But—"
+        },
+        {
+          "startUid": "u7189",
+          "endUid": "u7190",
+          "quote": "DM: 'Cause your bonus action's Step of the Wind, so you only ha— have... Well, you could use your staff to make four attacks."
+        },
+        {
+          "startUid": "u7191",
+          "endUid": "u7191",
+          "quote": "Delwath: Uh, you only get two attacks, right, 'cause you don't get your bonus action to get extra attacks."
+        },
+        {
+          "startUid": "u7192",
+          "endUid": "u7192",
+          "quote": "Kenzo: I'm so confused."
+        },
+        {
+          "startUid": "u7193",
+          "endUid": "u7193",
+          "quote": "Delwath: But just do it."
+        },
+        {
+          "startUid": "u7194",
+          "endUid": "u7194",
+          "quote": "Kenzo: All right. So I'm gonna Step of the Winds."
+        },
+        {
+          "startUid": "u7195",
+          "endUid": "u7195",
+          "quote": "Unknown: Like, here."
+        },
+        {
+          "startUid": "u7196",
+          "endUid": "u7197",
+          "quote": "Kenzo: Go over here, grab Delwath, and then go over here, drop you through the door. So now you're, like, here."
+        },
+        {
+          "startUid": "u7198",
+          "endUid": "u7198",
+          "quote": "Unknown: Well, down here."
+        },
+        {
+          "startUid": "u7199",
+          "endUid": "u7199",
+          "quote": "DM: You've fallen... You fall."
+        },
+        {
+          "startUid": "u7200",
+          "endUid": "u7200",
+          "quote": "Unknown: Oh."
+        },
+        {
+          "startUid": "u7201",
+          "endUid": "u7201",
+          "quote": "DM: There's gravity here."
+        },
+        {
+          "startUid": "u7202",
+          "endUid": "u7202",
+          "quote": "Kenzo: Okay. Oh, so we all fall, we all fall to the ground."
+        },
+        {
+          "startUid": "u7203",
+          "endUid": "u7206",
+          "quote": "Delwath: Wow. Wait. Ah, okay. Can I just fly? Does it take a bonus action to blow the Raven's Whistle? I thought we just walked in the room."
+        },
+        {
+          "startUid": "u7207",
+          "endUid": "u7208",
+          "quote": "DM: Oh, no, no, no. You... Well, not in this..."
+        },
+        {
+          "startUid": "u7209",
+          "endUid": "u7209",
+          "quote": "Unknown: Okay."
+        },
+        {
+          "startUid": "u7210",
+          "endUid": "u7210",
+          "quote": "DM: Some rooms have gravity."
+        },
+        {
+          "startUid": "u7211",
+          "endUid": "u7211",
+          "quote": "Unknown: Ah."
+        },
+        {
+          "startUid": "u7212",
+          "endUid": "u7215",
+          "quote": "DM: Not every room has gravity. This one is pulling you down. Um, no, n— n— only enclosed spaces can have gravity."
+        },
+        {
+          "startUid": "u7216",
+          "endUid": "u7217",
+          "quote": "Kenzo: Do we not want to be on the ground so that he can shoot fire at everybody? 'Cause we're not, like, immune to his fire, his breath weapon, right?"
+        },
+        {
+          "startUid": "u7218",
+          "endUid": "u7218",
+          "quote": "DM: That's an issue."
+        },
+        {
+          "startUid": "u7219",
+          "endUid": "u7219",
+          "quote": "Delwath: Oh, that's true."
+        },
+        {
+          "startUid": "u7220",
+          "endUid": "u7221",
+          "quote": "Unknown: But I can do it. So we want to be here 'cause we're—"
+        },
+        {
+          "startUid": "u7222",
+          "endUid": "u7223",
+          "quote": "DM: But it's not an action at all to blow the Raven's Whistle. You just have to blow it."
+        },
+        {
+          "startUid": "u7224",
+          "endUid": "u7224",
+          "quote": "Unknown: Right."
+        },
+        {
+          "startUid": "u7225",
+          "endUid": "u7225",
+          "quote": "DM: It's just if you fail a—"
+        },
+        {
+          "startUid": "u7226",
+          "endUid": "u7226",
+          "quote": "Kenzo: We, we wanna be here. We want to be up here."
+        },
+        {
+          "startUid": "u7227",
+          "endUid": "u7227",
+          "quote": "Delwath: Can't save. I fail. [laughs]"
+        },
+        {
+          "startUid": "u7228",
+          "endUid": "u7228",
+          "quote": "Seeker: The 60-foot cone thing means I can aim it—"
+        },
+        {
+          "startUid": "u7229",
+          "endUid": "u7229",
+          "quote": "Unknown: Wait, can we just land on the dragon's back?"
+        },
+        {
+          "startUid": "u7230",
+          "endUid": "u7230",
+          "quote": "Delwath: ... and just put it on like the way down."
+        },
+        {
+          "startUid": "u7231",
+          "endUid": "u7232",
+          "quote": "Unknown: Yeah. There you go."
+        },
+        {
+          "startUid": "u7233",
+          "endUid": "u7233",
+          "quote": "Seeker: There you go."
+        },
+        {
+          "startUid": "u7234",
+          "endUid": "u7234",
+          "quote": "DM: Uh—"
+        },
+        {
+          "startUid": "u7235",
+          "endUid": "u7235",
+          "quote": "Delwath: Oh, but you won't be able to attack 'cause you don't have Lengau's Claw."
+        },
+        {
+          "startUid": "u7236",
+          "endUid": "u7236",
+          "quote": "Kenzo: Yeah, but that's fine. Then what I'll do is I'm gonna attack these two guys—"
+        },
+        {
+          "startUid": "u7237",
+          "endUid": "u7237",
+          "quote": "Unknown: Yeah."
+        },
+        {
+          "startUid": "u7238",
+          "endUid": "u7238",
+          "quote": "Kenzo: ... and then grab you—"
+        },
+        {
+          "startUid": "u7239",
+          "endUid": "u7241",
+          "quote": "Unknown: Yeah ... drop down the way on the back. Yeah, yeah."
+        },
+        {
+          "startUid": "u7242",
+          "endUid": "u7242",
+          "quote": "Wellby: Let's do it."
+        },
+        {
+          "startUid": "u7243",
+          "endUid": "u7243",
+          "quote": "Unknown: Okay. So make a—"
+        },
+        {
+          "startUid": "u7244",
+          "endUid": "u7244",
+          "quote": "DM: Um, make acrobatics checks DC 12 to land on the back."
+        },
+        {
+          "startUid": "u7245",
+          "endUid": "u7245",
+          "quote": "Delwath: Can Kenzo just carry me?"
+        },
+        {
+          "startUid": "u7246",
+          "endUid": "u7246",
+          "quote": "Kenzo: No, I have to... Yeah."
+        },
+        {
+          "startUid": "u7247",
+          "endUid": "u7247",
+          "quote": "DM: Oh, yeah. Kenzo's carrying you with Step of the Wind."
+        },
+        {
+          "startUid": "u7248",
+          "endUid": "u7248",
+          "quote": "Unknown: I'm light as a feather."
+        },
+        {
+          "startUid": "u7249",
+          "endUid": "u7249",
+          "quote": "DM: So..."
+        },
+        {
+          "startUid": "u7250",
+          "endUid": "u7250",
+          "quote": "Kenzo: All right. Perfect."
+        },
+        {
+          "startUid": "u7251",
+          "endUid": "u7251",
+          "quote": "DM: Right."
+        },
+        {
+          "startUid": "u7252",
+          "endUid": "u7252",
+          "quote": "Delwath: Oh, I rolled a 20. [laughs]"
+        },
+        {
+          "startUid": "u7253",
+          "endUid": "u7253",
+          "quote": "DM: Okay. [laughs]"
+        },
+        {
+          "startUid": "u7254",
+          "endUid": "u7254",
+          "quote": "Unknown: All right. Well, let me first—"
+        },
+        {
+          "startUid": "u7255",
+          "endUid": "u7255",
+          "quote": "Delwath: Can I use that for my save?"
+        },
+        {
+          "startUid": "u7256",
+          "endUid": "u7256",
+          "quote": "DM: No."
+        },
+        {
+          "startUid": "u7257",
+          "endUid": "u7257",
+          "quote": "Kenzo: So I'm gonna kill these guys."
+        },
+        {
+          "startUid": "u7258",
+          "endUid": "u7258",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u7259",
+          "endUid": "u7259",
+          "quote": "Kenzo: Uh, 'cause I, 'cause I, 'cause I get two staff attacks."
+        },
+        {
+          "startUid": "u7260",
+          "endUid": "u7260",
+          "quote": "Unknown: Yes."
+        },
+        {
+          "startUid": "u7261",
+          "endUid": "u7261",
+          "quote": "DM: You get two staff attacks. Yeah."
+        },
+        {
+          "startUid": "u7262",
+          "endUid": "u7262",
+          "quote": "Unknown: Just hit."
+        },
+        {
+          "startUid": "u7263",
+          "endUid": "u7263",
+          "quote": "Kenzo: With advantage or just regular?"
+        },
+        {
+          "startUid": "u7264",
+          "endUid": "u7264",
+          "quote": "DM: Just regular."
+        },
+        {
+          "startUid": "u7265",
+          "endUid": "u7265",
+          "quote": "Unknown: Okay."
+        },
+        {
+          "startUid": "u7266",
+          "endUid": "u7266",
+          "quote": "Kenzo: That's fine. 21."
+        },
+        {
+          "startUid": "u7267",
+          "endUid": "u7267",
+          "quote": "DM: That hits."
+        },
+        {
+          "startUid": "u7268",
+          "endUid": "u7268",
+          "quote": "Wellby: It's only on the first person that I hit in the first round."
+        },
+        {
+          "startUid": "u7269",
+          "endUid": "u7269",
+          "quote": "Unknown: Uh..."
+        },
+        {
+          "startUid": "u7270",
+          "endUid": "u7270",
+          "quote": "DM: You don't need it."
+        },
+        {
+          "startUid": "u7271",
+          "endUid": "u7272",
+          "quote": "Unknown: Wow. Okay."
+        },
+        {
+          "startUid": "u7273",
+          "endUid": "u7274",
+          "quote": "DM: Oh, wait, no. Do you roll... Yeah, 12 kills one."
+        },
+        {
+          "startUid": "u7275",
+          "endUid": "u7275",
+          "quote": "Unknown: Okay."
+        },
+        {
+          "startUid": "u7276",
+          "endUid": "u7276",
+          "quote": "DM: They're minions, so..."
+        },
+        {
+          "startUid": "u7277",
+          "endUid": "u7277",
+          "quote": "Unknown: Yeah, that killed that attack."
+        },
+        {
+          "startUid": "u7278",
+          "endUid": "u7278",
+          "quote": "DM: Yeah, it kills the other."
+        },
+        {
+          "startUid": "u7279",
+          "endUid": "u7279",
+          "quote": "Unknown: Okay."
+        },
+        {
+          "startUid": "u7280",
+          "endUid": "u7280",
+          "quote": "DM: Okay. So you kill the two minions."
+        },
+        {
+          "startUid": "u7281",
+          "endUid": "u7281",
+          "quote": "Unknown: Killed, killed two minions."
+        },
+        {
+          "startUid": "u7282",
+          "endUid": "u7282",
+          "quote": "DM: You grab Delwath—"
+        },
+        {
+          "startUid": "u7283",
+          "endUid": "u7283",
+          "quote": "Unknown: Grab Delwath."
+        },
+        {
+          "startUid": "u7284",
+          "endUid": "u7284",
+          "quote": "DM: ... and you drop down onto the—"
+        },
+        {
+          "startUid": "u7285",
+          "endUid": "u7285",
+          "quote": "Kenzo: And I land on, on, uh—"
+        },
+        {
+          "startUid": "u7286",
+          "endUid": "u7286",
+          "quote": "DM: On the back of the dragon."
+        },
+        {
+          "startUid": "u7287",
+          "endUid": "u7287",
+          "quote": "Delwath: And we're, like, from the back of the dragon, we're within 20 feet of the queen, right?"
+        },
+        {
+          "startUid": "u7288",
+          "endUid": "u7288",
+          "quote": "DM: Y— uh, yeah, 'cause the room is only 30 feet tall."
+        },
+        {
+          "startUid": "u7289",
+          "endUid": "u7289",
+          "quote": "Seeker: So the, the dragon is hovering?"
+        },
+        {
+          "startUid": "u7290",
+          "endUid": "u7290",
+          "quote": "Unknown: Yes."
+        },
+        {
+          "startUid": "u7291",
+          "endUid": "u7291",
+          "quote": "Delwath: Yeah, dragons can hover."
+        },
+        {
+          "startUid": "u7292",
+          "endUid": "u7292",
+          "quote": "Unknown: Inside. [laughs]"
+        },
+        {
+          "startUid": "u7293",
+          "endUid": "u7293",
+          "quote": "Delwath: Okay, so you can take—"
+        },
+        {
+          "startUid": "u7294",
+          "endUid": "u7295",
+          "quote": "DM: The dragon's like [whooshing] hovering in, taking up almost... With your wings out, taking up almost the entire—"
+        },
+        {
+          "startUid": "u7296",
+          "endUid": "u7296",
+          "quote": "Unknown: This is huge. Yeah."
+        },
+        {
+          "startUid": "u7297",
+          "endUid": "u7297",
+          "quote": "DM: ... space of the room."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "Step of the Wind"
+    },
+    {
+      "id": "l17",
+      "type": "presence",
+      "source": {
+        "startUid": "u8030",
+        "endUid": "u8035"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Retreat from the upper room’s minions onto the dragon’s tail in the queen’s chamber.",
+      "evidence": [
+        {
+          "startUid": "u8030",
+          "endUid": "u8030",
+          "quote": "Wellby: Hold, hold up though. The minions turn ends, I move without provoking opportunity attack, and I come down, I don't know, on the dragon also, like on the tail."
+        },
+        {
+          "startUid": "u8031",
+          "endUid": "u8031",
+          "quote": "Unknown: Everybody hop on."
+        },
+        {
+          "startUid": "u8032",
+          "endUid": "u8032",
+          "quote": "Seeker: Everybody get on. Flap, flap, flap."
+        },
+        {
+          "startUid": "u8033",
+          "endUid": "u8034",
+          "quote": "Unknown: Okay. Flap, flap."
+        },
+        {
+          "startUid": "u8035",
+          "endUid": "u8035",
+          "quote": "Delwath: I mean, that's the goal, 'cause if they come down after you, they'll hit the Sickening Radiance."
+        },
+        {
+          "startUid": "u8463",
+          "endUid": "u8464",
+          "quote": "Wellby: Uh, I rolled a 9."
+        },
+        {
+          "startUid": "u8465",
+          "endUid": "u8465",
+          "quote": "Unknown: I rolled a nine."
+        },
+        {
+          "startUid": "u8466",
+          "endUid": "u8466",
+          "quote": "Seeker: Wait, is that 16?"
+        },
+        {
+          "startUid": "u8467",
+          "endUid": "u8467",
+          "quote": "DM: That's a 16."
+        },
+        {
+          "startUid": "u8468",
+          "endUid": "u8469",
+          "quote": "Unknown: Yeah. 18."
+        },
+        {
+          "startUid": "u8470",
+          "endUid": "u8471",
+          "quote": "DM: Sorry, 18, 9. What did you roll?"
+        },
+        {
+          "startUid": "u8472",
+          "endUid": "u8472",
+          "quote": "Delwath: I rolled an 18. I have a plus 10."
+        },
+        {
+          "startUid": "u8473",
+          "endUid": "u8473",
+          "quote": "DM: So you're 28."
+        },
+        {
+          "startUid": "u8474",
+          "endUid": "u8474",
+          "quote": "Delwath: Okay, so it's higher than that, too."
+        },
+        {
+          "startUid": "u8475",
+          "endUid": "u8475",
+          "quote": "DM: Oh, okay."
+        },
+        {
+          "startUid": "u8476",
+          "endUid": "u8477",
+          "quote": "Kenzo: So I rolled a, uh... Is it charisma?"
+        },
+        {
+          "startUid": "u8478",
+          "endUid": "u8478",
+          "quote": "Unknown: Charisma temp?"
+        },
+        {
+          "startUid": "u8479",
+          "endUid": "u8479",
+          "quote": "DM: Charisma, yeah."
+        },
+        {
+          "startUid": "u8480",
+          "endUid": "u8480",
+          "quote": "Delwath: Oh, do you need to know what it actually is?"
+        },
+        {
+          "startUid": "u8481",
+          "endUid": "u8481",
+          "quote": "DM: I don't need to know what you actually rolled, no."
+        },
+        {
+          "startUid": "u8482",
+          "endUid": "u8483",
+          "quote": "Kenzo: I, I rolled, I rolled a 16 so I'm gonna, I'm gonna use my, use the bardic you gave me. So is it—"
+        },
+        {
+          "startUid": "u8484",
+          "endUid": "u8484",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u8485",
+          "endUid": "u8485",
+          "quote": "Kenzo: ... d12 then pick the highest or just one?"
+        },
+        {
+          "startUid": "u8486",
+          "endUid": "u8487",
+          "quote": "DM: No, it's just one d12. [die rolling]"
+        },
+        {
+          "startUid": "u8488",
+          "endUid": "u8488",
+          "quote": "Unknown: Oh."
+        },
+        {
+          "startUid": "u8489",
+          "endUid": "u8489",
+          "quote": "Wellby: Yes."
+        },
+        {
+          "startUid": "u8490",
+          "endUid": "u8490",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u8491",
+          "endUid": "u8491",
+          "quote": "Unknown: 20. [laughs]"
+        }
+      ],
+      "place": "p10"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u9088",
+        "endUid": "u9146"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Fly back through the doorway to fight the queen in the upper statue room.",
+      "evidence": [
+        {
+          "startUid": "u9088",
+          "endUid": "u9088",
+          "quote": "Kenzo: All right. Kenzo will, um, fly 30 feet up through here and land over here."
+        },
+        {
+          "startUid": "u9089",
+          "endUid": "u9089",
+          "quote": "DM: Yeah, from where you are it's probably 25 feet up, but you've got—"
+        },
+        {
+          "startUid": "u9091",
+          "endUid": "u9091",
+          "quote": "DM: ... the bazillion moves, so."
+        },
+        {
+          "startUid": "u9092",
+          "endUid": "u9095",
+          "quote": "Kenzo: Oh, yeah. Okay. So I'll come up here. Now, um, I guess it's still not worth using Lengau's Claw, right? 'Cause like that wastes my bonus actions—"
+        },
+        {
+          "startUid": "u9103",
+          "endUid": "u9105",
+          "quote": "Kenzo: So I'll attack five times. All right. First, uh, so let's do the two."
+        },
+        {
+          "startUid": "u9106",
+          "endUid": "u9106",
+          "quote": "DM: On the queen. So remember your—"
+        }
+      ],
+      "from": "p10",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u9151",
+        "endUid": "u9234"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Fly to the queen in the upper statue room, kill her, then return to the chamber beside Wellby and strike Essence of Mist.",
+      "evidence": [
+        {
+          "startUid": "u9171",
+          "endUid": "u9172",
+          "quote": "Delwath: Okay. Then I will Raven's Whistle and fly up to there."
+        },
+        {
+          "startUid": "u9173",
+          "endUid": "u9173",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u9174",
+          "endUid": "u9174",
+          "quote": "Delwath: Which is 20 feet away."
+        },
+        {
+          "startUid": "u9175",
+          "endUid": "u9175",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u9176",
+          "endUid": "u9176",
+          "quote": "Unknown: And attack."
+        },
+        {
+          "startUid": "u9177",
+          "endUid": "u9182",
+          "quote": "DM: Uh, yeah, okay. No, no, that's fine. Yeah. I'm just looking, do they get it o— the... One of those minions probably gets an opportunity attack on you, so that's eight points of damage. Four points of damage."
+        },
+        {
+          "startUid": "u9183",
+          "endUid": "u9183",
+          "quote": "Unknown: Does it... Oh, it hits?"
+        },
+        {
+          "startUid": "u9184",
+          "endUid": "u9184",
+          "quote": "DM: It hits, yeah."
+        },
+        {
+          "startUid": "u9202",
+          "endUid": "u9204",
+          "quote": "DM: Delwath swings his blade. You can, you can see the runes, like, light up along the blade and there's this, like, in— you feel this intense moment of satisfaction as the blade strikes the queen and the ash just condenses and then there's this, like, this burst of radiant light as she crumbles into a pile of dust."
+        },
+        {
+          "startUid": "u9205",
+          "endUid": "u9206",
+          "quote": "Unknown: Yes. Ooh."
+        },
+        {
+          "startUid": "u9207",
+          "endUid": "u9207",
+          "quote": "DM: Still have one attack if you wanna try and get some minions."
+        },
+        {
+          "startUid": "u9208",
+          "endUid": "u9208",
+          "quote": "Unknown: Uh, well, hold on, hold on, hold on."
+        },
+        {
+          "startUid": "u9209",
+          "endUid": "u9209",
+          "quote": "Delwath: That was, like, 30 feet of move?"
+        },
+        {
+          "startUid": "u9210",
+          "endUid": "u9210",
+          "quote": "Kenzo: Oh, yeah."
+        },
+        {
+          "startUid": "u9211",
+          "endUid": "u9211",
+          "quote": "DM: Yeah."
+        },
+        {
+          "startUid": "u9212",
+          "endUid": "u9212",
+          "quote": "Delwath: And I'm using my Raven's Whistle."
+        },
+        {
+          "startUid": "u9213",
+          "endUid": "u9213",
+          "quote": "DM: Right."
+        },
+        {
+          "startUid": "u9214",
+          "endUid": "u9214",
+          "quote": "Delwath: So my move is 120."
+        },
+        {
+          "startUid": "u9215",
+          "endUid": "u9215",
+          "quote": "DM: Yeah, okay."
+        },
+        {
+          "startUid": "u9216",
+          "endUid": "u9216",
+          "quote": "Delwath: I'm not bothering with minions, I'm going down here."
+        },
+        {
+          "startUid": "u9217",
+          "endUid": "u9217",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u9218",
+          "endUid": "u9218",
+          "quote": "Delwath: Uh, I'll stand right next to Wellby, right down there."
+        },
+        {
+          "startUid": "u9219",
+          "endUid": "u9221",
+          "quote": "Delwath: I'll move the, um—"
+        },
+        {
+          "startUid": "u9222",
+          "endUid": "u9222",
+          "quote": "DM: The mark to—"
+        },
+        {
+          "startUid": "u9223",
+          "endUid": "u9223",
+          "quote": "Delwath: The mark to that one."
+        },
+        {
+          "startUid": "u9224",
+          "endUid": "u9225",
+          "quote": "DM: The, the glowing invisible essence thing?"
+        },
+        {
+          "startUid": "u9226",
+          "endUid": "u9226",
+          "quote": "Unknown: Yeah."
+        },
+        {
+          "startUid": "u9227",
+          "endUid": "u9227",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u9228",
+          "endUid": "u9228",
+          "quote": "Delwath: And then I will attack it."
+        },
+        {
+          "startUid": "u9229",
+          "endUid": "u9229",
+          "quote": "Unknown: Uh."
+        },
+        {
+          "startUid": "u9230",
+          "endUid": "u9230",
+          "quote": "Delwath: That's a 22."
+        },
+        {
+          "startUid": "u9231",
+          "endUid": "u9231",
+          "quote": "DM: That hits."
+        },
+        {
+          "startUid": "u9232",
+          "endUid": "u9232",
+          "quote": "Unknown: I keep forgetting about Bless."
+        },
+        {
+          "startUid": "u9233",
+          "endUid": "u9233",
+          "quote": "Delwath: 10, 14 plus 12, 26."
+        },
+        {
+          "startUid": "u9234",
+          "endUid": "u9234",
+          "quote": "DM: That ends Delwath's turn."
+        }
+      ],
+      "from": "p10",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "place": "p09",
+          "reading": "Briefly reenter the upper room for the queen’s killing blows, then return through the door."
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u9959",
+        "endUid": "u10016"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Switch the floating door to its other destination and enter the permanent sphere of stability with four treasure tables.",
+      "evidence": [
+        {
+          "startUid": "u9959",
+          "endUid": "u9959",
+          "quote": "Seeker: I Mage Hand, I guess, and switch it."
+        },
+        {
+          "startUid": "u9960",
+          "endUid": "u9961",
+          "quote": "DM: Okay. And then what?"
+        },
+        {
+          "startUid": "u9962",
+          "endUid": "u9962",
+          "quote": "Seeker: Is the doors open right now?"
+        },
+        {
+          "startUid": "u9963",
+          "endUid": "u9963",
+          "quote": "DM: Yeah."
+        },
+        {
+          "startUid": "u9964",
+          "endUid": "u9964",
+          "quote": "Seeker: Should we close it and reopen it?"
+        },
+        {
+          "startUid": "u9965",
+          "endUid": "u9965",
+          "quote": "DM: Yeah."
+        },
+        {
+          "startUid": "u9967",
+          "endUid": "u9967",
+          "quote": "Seeker: All right. Mage Hand close it, Mage Hand reopen it."
+        },
+        {
+          "startUid": "u9968",
+          "endUid": "u9969",
+          "quote": "DM: Uh, you are looking up into a, um, clear crystal globe filled with a pale yellowish light. It is going to a different place than it went to before."
+        },
+        {
+          "startUid": "u9988",
+          "endUid": "u9988",
+          "quote": "Delwath: I think we should go in it. It seems safer than anywhere else, right?"
+        },
+        {
+          "startUid": "u9989",
+          "endUid": "u9989",
+          "quote": "Wellby: Well, in we go."
+        },
+        {
+          "startUid": "u9992",
+          "endUid": "u9992",
+          "quote": "Seeker: We go in."
+        },
+        {
+          "startUid": "u9993",
+          "endUid": "u9993",
+          "quote": "DM: You go in."
+        },
+        {
+          "startUid": "u10001",
+          "endUid": "u10016",
+          "quote": "DM: You see, um, a, uh, floating... Like, you're now in this globe. Like, the metal rain is falling around you. Everything is, um... But this seems to be, like, a permanent sphere of stability. Um, there are four tables floating in spa— floating in this space. There's no f— it's like a big glass circle. There's no floor, but about halfway up there's, like, four tables floating in the sort of midpoint. Um, each, they're small. They're, like, almost more like footstools. They're, like, the size of, like, low down like that sort of table, not like big tables like this."
+        }
+      ],
+      "from": null,
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "switched portal door",
+      "note": "The old rooms are collapsing and gravity has ended; the PCs’ exact sides of the floating door are not all resolved immediately before entry."
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u10249",
+        "endUid": "u10290"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Holding the relic, ride Rai’s pull back to the monks’ monastery while Seeker maintains stability ahead of the chaos front.",
+      "evidence": [
+        {
+          "startUid": "u10249",
+          "endUid": "u10254",
+          "quote": "DM: Okay. So you grab things. Rai, shortly after you do this, you sense, you see like the orb starting to shake slightly. You all kind of grab on, and Rai yanks it. Uh, Seeker, make an intelligence check."
+        },
+        {
+          "startUid": "u10262",
+          "endUid": "u10262",
+          "quote": "Seeker: That's a 21."
+        },
+        {
+          "startUid": "u10263",
+          "endUid": "u10268",
+          "quote": "DM: Okay. So you manage to expand, you know, hold your sphere of stability against... But there seems to be a collapsing wave front of chaos that you're racing against, um, that's just, like you can see, it's not, like normally you're passing through Li— Limbo and things would change, but you could see things. Like there would be stone for a while and it would shift. You're like racing a front, in front of this wave front of just swirling madness."
+        },
+        {
+          "startUid": "u10270",
+          "endUid": "u10271",
+          "quote": "DM: That's like a, like an explosion expanding out from where this tower collapsed of, uh, not like unstable even for Limbo."
+        },
+        {
+          "startUid": "u10277",
+          "endUid": "u10278",
+          "quote": "DM: So m— racing forward, uh, you get a little bit of distance from this thing, like you're maybe 30 minutes ahead of it, ahead of this wave of expanding explosive, explosive chaos—"
+        },
+        {
+          "startUid": "u10280",
+          "endUid": "u10281",
+          "quote": "DM: … as you appear in the monks' area with something like 30 minutes before a chaos bomb hits the monastery."
+        },
+        {
+          "startUid": "u10283",
+          "endUid": "u10283",
+          "quote": "Delwath: Takes an hour."
+        },
+        {
+          "startUid": "u10285",
+          "endUid": "u10285",
+          "quote": "DM: Oh, sorry. You have an hour and a half before the—"
+        },
+        {
+          "startUid": "u10287",
+          "endUid": "u10290",
+          "quote": "DM: Yes. It, it doesn't act— the ritual could actually just only take five minutes. The point is you have 30 minutes of spare time. I forgot the ritual. I said the ritual took an hour."
+        },
+        {
+          "startUid": "u10383",
+          "endUid": "u10383",
+          "quote": "DM: Uh, Rai doesn't move."
+        },
+        {
+          "startUid": "u10384",
+          "endUid": "u10384",
+          "quote": "Kenzo: Well, like where, where, where is our, we're right now or we back in the monastery?"
+        },
+        {
+          "startUid": "u10385",
+          "endUid": "u10387",
+          "quote": "Unknown: Yeah, you're back in the monastery. Okay. We're..."
+        },
+        {
+          "startUid": "u10388",
+          "endUid": "u10388",
+          "quote": "Seeker: We bring it up close to Rai—"
+        }
+      ],
+      "from": "p11",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "Rai’s pull"
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u10481",
+        "endUid": "u10487"
+      },
+      "actors": [
+        "Rai’s monks"
+      ],
+      "reading": "The monks cross the rainbow bridge back to Vindristjarna while the PCs remain with Rai.",
+      "evidence": [
+        {
+          "startUid": "u10481",
+          "endUid": "u10482",
+          "quote": "DM: At this moment, you can… The monks are, like, all crossing the bridge, going back to Vindristjarna."
+        },
+        {
+          "startUid": "u10550",
+          "endUid": "u10557",
+          "quote": "DM: Okay. You all run onto the rainbow bridge as the monastery decays around you, moments before the chaos explosion hits, and you race across, the last ones, the monks having all gone before you while you were talking to Rai, run across the bridge and return to the Elven Forest, uh, in the middle of the night, not even a day having passed—"
+        }
+      ],
+      "from": "p02",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "rainbow bridge"
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u10550",
+        "endUid": "u10560"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Last to leave, run across the rainbow bridge from the decaying sanctuary and return to the Elven Forest; the monks have already crossed.",
+      "evidence": [
+        {
+          "startUid": "u10550",
+          "endUid": "u10557",
+          "quote": "DM: Okay. You all run onto the rainbow bridge as the monastery decays around you, moments before the chaos explosion hits, and you race across, the last ones, the monks having all gone before you while you were talking to Rai, run across the bridge and return to the Elven Forest, uh, in the middle of the night, not even a day having passed—"
+        },
+        {
+          "startUid": "u10559",
+          "endUid": "u10560",
+          "quote": "DM: … since you entered Limbo, and all now level 20."
+        }
+      ],
+      "from": "p02",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "rainbow bridge"
+    }
+  ]
+}

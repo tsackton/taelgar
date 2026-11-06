@@ -1,0 +1,174 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-136",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-session.yaml",
+    "sessionYamlSha256": "5e93accc339ee2574decf40eaebea1ca0ba05d064da851e2aa05cf963cac77f9",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-transcript.md",
+    "transcriptSha256": "65223c487c58083fb275dceff0b4e891237825fff2b5f2acfb31b5e16efac42f"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0200"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0201",
+        "endUid": "u0226"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0227",
+        "endUid": "u0227"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0228",
+        "endUid": "u0250"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0251",
+        "endUid": "u0287"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0288",
+        "endUid": "u0313"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0314",
+        "endUid": "u0323"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0324",
+        "endUid": "u0333"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0334",
+        "endUid": "u1158"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1159",
+        "endUid": "u1202"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1203",
+        "endUid": "u1248"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u1249",
+        "endUid": "u3035"
+      },
+      "category": "combat",
+      "note": "Initiative begins for Delwath and Wellby while Kenzo and Seeker negotiate outside; the negotiation and later expanded initiative remain inside the continuous encounter."
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u3036",
+        "endUid": "u3418"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u3419",
+        "endUid": "u4545"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u4546",
+        "endUid": "u5527"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u5528",
+        "endUid": "u9799"
+      },
+      "category": "combat",
+      "note": "Begins with the accepted decision to attack and entering combat setup; includes initiative, map preparation and tactical discussion before the first turn."
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u9800",
+        "endUid": "u9816"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u9817",
+        "endUid": "u9842"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u9843",
+        "endUid": "u10571"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u10572",
+        "endUid": "u10672"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

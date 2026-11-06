@@ -1,0 +1,1523 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-136",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-session.yaml",
+    "sessionYamlSha256": "5e93accc339ee2574decf40eaebea1ca0ba05d064da851e2aa05cf963cac77f9",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-transcript.md",
+    "transcriptSha256": "65223c487c58083fb275dceff0b4e891237825fff2b5f2acfb31b5e16efac42f",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-segments.json",
+      "sha256": "0c4cfe2b8dffcf50234e211908030c2617474e45f31eaad92be4a09468c97d30",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s012",
+      "encounter": "Stone drops and the two tower gatekeepers",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Activates Boots of Speed, runs around the stone drops to the unlocked door, opens it, then retreats into pillar darkness and hides with a 29. His proposed claim to work here is not the final action.",
+              "evidence": [
+                {
+                  "startUid": "u1405",
+                  "endUid": "u1561"
+                }
+              ]
+            },
+            {
+              "actor": "Stone-drop groups one and two",
+              "kind": "turn",
+              "summary": "Remain in place and fire two collective stone-water blasts at Delwath; both miss after Shield raises his AC.",
+              "evidence": [
+                {
+                  "startUid": "u1562",
+                  "endUid": "u1596"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Casts Shield against the first blast; its protection also turns aside the later 25-to-hit bolt in this cycle (AC 26).",
+              "evidence": [
+                {
+                  "startUid": "u1580",
+                  "endUid": "u1587"
+                },
+                {
+                  "startUid": "u1673",
+                  "endUid": "u1684"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves into the pillar darkness and hides instead of attacking. His low Stealth leaves his location audible to the minions, although the centaurs cannot see him.",
+              "evidence": [
+                {
+                  "startUid": "u1597",
+                  "endUid": "u1646"
+                }
+              ]
+            },
+            {
+              "actor": "Stone-drop group three",
+              "kind": "turn",
+              "summary": "Moves closer and fires at unseen Delwath; its 25 misses his Shield-enhanced AC.",
+              "evidence": [
+                {
+                  "startUid": "u1673",
+                  "endUid": "u1684"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo, Seeker, and the gatekeepers",
+              "kind": "event",
+              "summary": "Seeker uses inspiration to raise Persuasion from 15 to 20. The guards agree to admit Kenzo and Seeker, then insist on investigating the agitated stone drops. Everyone enters the antechamber, the guards shoo minions aside and shut the outer door; the party chooses an ambush before they can report the intrusion.",
+              "evidence": [
+                {
+                  "startUid": "u1350",
+                  "endUid": "u1404"
+                },
+                {
+                  "startUid": "u1449",
+                  "endUid": "u1474"
+                },
+                {
+                  "startUid": "u1649",
+                  "endUid": "u1672"
+                },
+                {
+                  "startUid": "u1724",
+                  "endUid": "u1797"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots both gatekeepers with sneak attacks for 31 and 26 damage; each fails DC 19 Dexterity and is blinded through the end of its next turn. Relocates in the darkness and hides again (34).",
+              "evidence": [
+                {
+                  "startUid": "u1916",
+                  "endUid": "u1962"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks blinded Bob with advantage: hits for 12, critically hits for 21 including Aura Focus, hits for 9, misses with 18, and hits for 13. Does not activate the contemplated tattoo.",
+              "evidence": [
+                {
+                  "startUid": "u1963",
+                  "endUid": "u2047"
+                },
+                {
+                  "startUid": "u2121",
+                  "endUid": "u2139"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts fifth-level Summon Construct, choosing clay and placing it beside the guards.",
+              "evidence": [
+                {
+                  "startUid": "u2048",
+                  "endUid": "u2077"
+                }
+              ]
+            },
+            {
+              "actor": "Clay construct",
+              "kind": "turn",
+              "summary": "Makes two attacks with advantage against blinded Bob, both hitting for 25 combined damage. The DM corrects damage initially assigned to Goldie onto Bob.",
+              "evidence": [
+                {
+                  "startUid": "u2078",
+                  "endUid": "u2127"
+                }
+              ]
+            },
+            {
+              "actor": "Stone-drop group attacking Seeker",
+              "kind": "turn",
+              "summary": "Five minions hit Seeker for 50 bludgeoning. Seeker succeeds on Dexterity (21) and is not pulled prone.",
+              "evidence": [
+                {
+                  "startUid": "u2150",
+                  "endUid": "u2198"
+                }
+              ]
+            },
+            {
+              "actor": "Stone drops attacking the construct and Kenzo",
+              "kind": "turn",
+              "summary": "Three hit the construct for 30 damage and call for a Dexterity save without a recorded resolution. Five hit Kenzo for 50 bludgeoning before his deflection.",
+              "evidence": [
+                {
+                  "startUid": "u2199",
+                  "endUid": "u2253"
+                }
+              ]
+            },
+            {
+              "actor": "Clay construct",
+              "kind": "reaction",
+              "summary": "Its damage-triggered Berserk slam rolls 15 and misses a stone drop.",
+              "evidence": [
+                {
+                  "startUid": "u2254",
+                  "endUid": "u2273"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the collective hit, reducing 50 to 25 damage. The proposed off-turn Disappear and Uncanny Dodge are disallowed; no redirected hit is resolved.",
+              "evidence": [
+                {
+                  "startUid": "u2221",
+                  "endUid": "u2279"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Chooses Sickening Radiance instead of the proposed Storm of Radiance, spends a sorcery point for safe placement, covers the two guards and the minions except those around Seeker, then relocates. The save is DC 20 Constitution and damage begins on each target’s turn.",
+              "evidence": [
+                {
+                  "startUid": "u2284",
+                  "endUid": "u2389"
+                }
+              ]
+            },
+            {
+              "actor": "Bob",
+              "kind": "turn",
+              "summary": "Succeeds on Sickening Radiance’s Constitution save, then tries to flee while still blind, provoking the construct; collapses before accomplishing anything else.",
+              "evidence": [
+                {
+                  "startUid": "u2390",
+                  "endUid": "u2440"
+                }
+              ]
+            },
+            {
+              "actor": "Clay construct",
+              "kind": "reaction",
+              "summary": "Opportunity-attacks fleeing Bob with advantage and kills him. Kenzo cannot also react because he already deflected.",
+              "evidence": [
+                {
+                  "startUid": "u2402",
+                  "endUid": "u2440"
+                }
+              ]
+            },
+            {
+              "actor": "Stone-drop group three",
+              "kind": "turn",
+              "summary": "Five of seven fail against Sickening Radiance and die. The two survivors close on Kenzo and hit for 20 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2442",
+                  "endUid": "u2462"
+                }
+              ]
+            },
+            {
+              "actor": "Goldie",
+              "kind": "turn",
+              "summary": "Fails against Sickening Radiance and takes 20 radiant, glowing green but remaining immune to exhaustion. Creates metal armor and makes three blade attacks at disadvantage against the clay construct: two hit for 39 combined, destroying it. Blindness then ends.",
+              "evidence": [
+                {
+                  "startUid": "u2459",
+                  "endUid": "u2508"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots Goldie for 24 reduced by its new armor to 12; it fails DC 19 Dexterity and is blinded again. Relocates to clear a pillar and shoots a line of minions with a double-natural-20 critical for 68, killing three.",
+              "evidence": [
+                {
+                  "startUid": "u2509",
+                  "endUid": "u2579"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Without advantage, kills two nearby minions with staff strikes, moves to help Seeker, then makes three unarmed attacks: misses with 13, hits and kills one with 22, and misses with 14.",
+              "evidence": [
+                {
+                  "startUid": "u2582",
+                  "endUid": "u2687"
+                }
+              ]
+            },
+            {
+              "actor": "Stone drop",
+              "kind": "reaction",
+              "summary": "Opportunity-attacks Kenzo during his movement with disadvantage; the corrected roll is a natural 1 and misses.",
+              "evidence": [
+                {
+                  "startUid": "u2658",
+                  "endUid": "u2668"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Stays in place and casts third-level Erupting Earth at two minions. Both succeed on DC 19 Dexterity (19 and 23); the half damage cannot kill them, so the table resolves no damage.",
+              "evidence": [
+                {
+                  "startUid": "u2688",
+                  "endUid": "u2759"
+                }
+              ]
+            },
+            {
+              "actor": "Stone drops",
+              "kind": "turn",
+              "summary": "Five in the affected group make Sickening Radiance saves; one succeeds and the others are removed. The surviving attacking group hits Seeker for 40 bludgeoning; his failed Dexterity save leaves him prone and unable to stand until the end of that group’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u2760",
+                  "endUid": "u2787"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Attacks the surviving blinded guard three times with advantage and extended sword reach, then relocates in darkness. The first damage is revised from 26 to 25 with an unclear force/weapon split; the second is corrected to 10 weapon plus 19 force; the third is 13 slashing plus 8 force.",
+              "evidence": [
+                {
+                  "startUid": "u2796",
+                  "endUid": "u2882"
+                }
+              ],
+              "note": "The speaker calls the target Bob once, but Bob has already died and the continuing guard is Goldie. Preserve the unresolved first-hit type arithmetic."
+            },
+            {
+              "actor": "Goldie",
+              "kind": "turn",
+              "summary": "Fails Sickening Radiance and takes 18 radiant. Charges Delwath while blinded and makes three attacks with disadvantage (13, 24, 19); the DM resolves all as misses. Blindness ends and he notices the nearby transport orb.",
+              "evidence": [
+                {
+                  "startUid": "u2883",
+                  "endUid": "u2930"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Kills Goldie with a bow hit without needing the damage roll, then shifts position to line up two minions but misses with 14; no advantage applies to the different group.",
+              "evidence": [
+                {
+                  "startUid": "u2932",
+                  "endUid": "u2967"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Makes five attacks against minions around Seeker; three hit and kill, two miss. The drops dissolve and fall through the illusory floor.",
+              "evidence": [
+                {
+                  "startUid": "u2968",
+                  "endUid": "u2996"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Still pinned prone, uses Vicious Mockery on a stone drop; it dissolves.",
+              "evidence": [
+                {
+                  "startUid": "u2997",
+                  "endUid": "u3018"
+                }
+              ]
+            },
+            {
+              "actor": "Last stone drop",
+              "kind": "turn",
+              "summary": "Succeeds against DC 20 Sickening Radiance, rushes Kenzo and hits with 23 for 10 damage before deflection.",
+              "evidence": [
+                {
+                  "startUid": "u3019",
+                  "endUid": "u3035"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Automatically deflects the 10-damage hit and redirects it, killing the final drop.",
+              "evidence": [
+                {
+                  "startUid": "u3028",
+                  "endUid": "u3035"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": "The opening cycle involves Delwath and Wellby inside while Kenzo and Seeker negotiate outside. The guards admit the latter pair and enter; the expanded initiative continues the same encounter. Bob and Goldie are combat nicknames for the silver and gold guards; the source does not securely pair those nicknames with Otesea and Elbos.",
+      "openingActions": [
+        {
+          "actor": "Seeker and Seeker 6",
+          "kind": "turn",
+          "summary": "The DM accepts a retcon distributing Bardic Inspiration before the split: regular Seeker gives one to each of the other three PCs, and Seeker 6 gives one to Seeker. The two pools are accounted for separately.",
+          "evidence": [
+            {
+              "startUid": "u1260",
+              "endUid": "u1283"
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Both gatekeepers and all stone drops are dead. The party remains in the antechamber; Seeker’s clay construct was destroyed. The separate danger to Ladder and Seeker 6 remains to be reached.",
+        "evidence": [
+          {
+            "startUid": "u2932",
+            "endUid": "u2943"
+          },
+          {
+            "startUid": "u3019",
+            "endUid": "u3035"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s014",
+      "encounter": "Library: Naren and the metallic-blood guard",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Seeker 6 and Ladder",
+              "kind": "event",
+              "summary": "Seeker 6 and Ladder are already enclosed behind Wall of Stone when the party arrives; the metallic-blood guard is breaking through.",
+              "evidence": [
+                {
+                  "startUid": "u3490",
+                  "endUid": "u3529"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Soul Sight on Naren (CR 12, poison/charm/exhaustion/fear immunity; fire/radiant resistance; strongest Charisma, weakest Intelligence), activates Superior Defense for resistance to damage, and lands five attacks for the table’s resolved 61 total.",
+              "evidence": [
+                {
+                  "startUid": "u3532",
+                  "endUid": "u3633"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Hits Naren with a blinding arrow: it fails DC 19 Dexterity and takes a corrected 31 damage. Hits the metallic-blood guard for 7 without sneak attack.",
+              "evidence": [
+                {
+                  "startUid": "u3635",
+                  "endUid": "u3675"
+                }
+              ]
+            },
+            {
+              "actor": "Naren",
+              "kind": "turn",
+              "summary": "Flares its head to heal and remove conditions, ending blindness. Attacks Kenzo twice: 21 hits for 20 before resistance, 18 misses. Shimmering Light heals it again at the end of its turn.",
+              "evidence": [
+                {
+                  "startUid": "u3676",
+                  "endUid": "u3731"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the hit to zero after resistance. Spends ki to redirect, but Naren succeeds on DC 18 and takes no damage.",
+              "evidence": [
+                {
+                  "startUid": "u3701",
+                  "endUid": "u3721"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker 6",
+              "kind": "turn",
+              "summary": "Keeps the nearly broken Wall of Stone and readies sixth-level Chain Lightning to trigger when it breaks.",
+              "evidence": [
+                {
+                  "startUid": "u3727",
+                  "endUid": "u3774"
+                },
+                {
+                  "startUid": "u6129",
+                  "endUid": "u6133"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Readies its attack for the wall breaking. Retrospective confirmation gives Seeker one final Bardic Inspiration before the simulacrum dies.",
+              "evidence": [
+                {
+                  "startUid": "u3775",
+                  "endUid": "u3781"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts fourth-level Rune of Psychic Disruption on Naren. It fails DC 19 Intelligence, takes 18 psychic and is incapacitated until Seeker’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u3782",
+                  "endUid": "u3815"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Marks Naren with Jeevali’s Curse and makes three sword hits with advantage from Wellby, including a critical. Resolved damage is 27, 32 and 40, plus a later correction adding 18 curse damage across the three hits. Remains in place.",
+              "evidence": [
+                {
+                  "startUid": "u3816",
+                  "endUid": "u3861"
+                },
+                {
+                  "startUid": "u3870",
+                  "endUid": "u3881"
+                }
+              ]
+            },
+            {
+              "actor": "Metallic-blood guard",
+              "kind": "turn",
+              "summary": "Breaks the stone wall with its first attack, triggering the readied reactions. After them, tries its blood-boiling effect on Delwath, whose Constitution 22 succeeds. Hits Seeker 6 with its remaining attacks, healing and resolving additional damage; the DM declares Seeker 6 destroyed and crumbling into ice.",
+              "evidence": [
+                {
+                  "startUid": "u3866",
+                  "endUid": "u3881"
+                },
+                {
+                  "startUid": "u3978",
+                  "endUid": "u4104"
+                }
+              ],
+              "note": "Fatal-turn damage arithmetic is inconsistent with the stated starting HP; the explicitly adjudicated destruction is retained."
+            },
+            {
+              "actor": "Seeker 6",
+              "kind": "reaction",
+              "summary": "Readied Chain Lightning triggers on the broken wall: one target succeeds on DC 19 Dexterity with 20 and takes 19 lightning; the other fails with 17 and takes 39. Naren dies; the metallic-blood guard remains.",
+              "evidence": [
+                {
+                  "startUid": "u3883",
+                  "endUid": "u3954"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "reaction",
+              "summary": "Readied attack hits the metallic-blood guard with 23 for 13 damage.",
+              "evidence": [
+                {
+                  "startUid": "u3955",
+                  "endUid": "u3977"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Soul Sights the metallic-blood guard (CR 19; resists fire, necrotic and slashing; immune to charm, fear and exhaustion; best Constitution, worst Dexterity). Uses Aura Focus and makes five attacks without advantage: three miss, two hit for 24 and 15.",
+              "evidence": [
+                {
+                  "startUid": "u4110",
+                  "endUid": "u4201"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves and shoots with advantage for 38; changes the proposed blind to a trip because the guard has blindsight, but its 22 save succeeds. His second arrow hits for 7 without sneak attack.",
+              "evidence": [
+                {
+                  "startUid": "u4204",
+                  "endUid": "u4247"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Chain Lightning in Seeker 6’s memory. The guard succeeds on DC 19 Dexterity with 24 and takes 12 lightning.",
+              "evidence": [
+                {
+                  "startUid": "u4248",
+                  "endUid": "u4267"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Hits with 21 and grapples the guard instead of dealing damage, imposing disadvantage on attacks against anyone else.",
+              "evidence": [
+                {
+                  "startUid": "u4268",
+                  "endUid": "u4304"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Makes three sword attacks: a critical for 25 force plus 21 slashing before resistance, one miss, and a hit for 13 force plus 18 slashing before resistance. Takes no bonus action.",
+              "evidence": [
+                {
+                  "startUid": "u4311",
+                  "endUid": "u4384"
+                }
+              ]
+            },
+            {
+              "actor": "Metallic-blood guard",
+              "kind": "turn",
+              "summary": "Uses its blood-boiling effect against Kenzo; his initial Constitution 16 becomes a success with Bardic Inspiration, granting 7 temporary HP. Hits Ladder with all its attacks; the spoken components are 37 piercing, 15 slashing and 25 necrotic, but the table resolves 87 damage and 13 HP remaining. Wellby and Seeker fail Constitution saves and take 15 necrotic each. The guard teleports beside Wellby.",
+              "evidence": [
+                {
+                  "startUid": "u4385",
+                  "endUid": "u4484"
+                }
+              ],
+              "note": "The three spoken damage components total 77, while the table applies 87 to Ladder. Retain both without repairing the ledger."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses his reaction to move away when the guard teleports beside him.",
+              "evidence": [
+                {
+                  "startUid": "u4485",
+                  "endUid": "u4487"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Engages the teleported guard without advantage. Hits for 13, 22 including Aura Focus, 11 and 16; the fifth attack is a natural 1 and misses.",
+              "evidence": [
+                {
+                  "startUid": "u4488",
+                  "endUid": "u4531"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Hits with 26 while trying to trip the guard; the 26 damage kills it before the trip needs resolution.",
+              "evidence": [
+                {
+                  "startUid": "u4533",
+                  "endUid": "u4545"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Naren and the metallic-blood guard are dead. Seeker 6 was adjudicated destroyed; Ladder survives badly damaged. The party can search the library and recover afterward.",
+        "evidence": [
+          {
+            "startUid": "u3941",
+            "endUid": "u3949"
+          },
+          {
+            "startUid": "u4076",
+            "endUid": "u4086"
+          },
+          {
+            "startUid": "u4543",
+            "endUid": "u4545"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c003",
+      "segmentId": "s016",
+      "encounter": "Queen of Ash and her guards",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Sickening Radiance to fill the queen’s room, protecting the four PCs and Ladder (DC 20 Constitution). Drinks Potion of Invulnerability for damage resistance and stays above the doorway.",
+              "evidence": [
+                {
+                  "startUid": "u6032",
+                  "endUid": "u6082"
+                },
+                {
+                  "startUid": "u6415",
+                  "endUid": "u6428"
+                }
+              ]
+            },
+            {
+              "actor": "Queen of Ash",
+              "kind": "villain_action",
+              "summary": "Sends battlefield-regret visions through the doorway, calling for DC 22 Wisdom saves. Kenzo succeeds; Wellby’s heroic reroll succeeds, Seeker’s Bardic Inspiration succeeds, and Delwath fails even after a heroic reroll. Delwath is dazed, limited to movement, action or bonus action, with a save at each turn’s end.",
+              "evidence": [
+                {
+                  "startUid": "u6086",
+                  "endUid": "u6205"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Drinks Potion of Haste. Uses the Clockwork Amulet for an automatic 24 bow hit, dealing 35 piercing and tripping the queen after DC 19 Dexterity. Uses his other action to throw the Triceratops figurine beside her.",
+              "evidence": [
+                {
+                  "startUid": "u6228",
+                  "endUid": "u6369"
+                }
+              ]
+            },
+            {
+              "actor": "Triceratops",
+              "kind": "turn",
+              "summary": "Fails DC 20 Constitution against Sickening Radiance (16), takes 18 radiant and one exhaustion level (−2 to attacks/DCs). Makes two gore attacks with advantage against the prone queen, both missing. It was summoned after the protection and cannot be added to the five immune creatures.",
+              "evidence": [
+                {
+                  "startUid": "u6370",
+                  "endUid": "u6459"
+                }
+              ]
+            },
+            {
+              "actor": "Metallic-blood guard",
+              "kind": "turn",
+              "summary": "Succeeds on Sickening Radiance (Constitution 22). Kenzo succeeds on Constitution 26 against its blood effect. Throws three molten-blood spears at Kenzo in the doorway (16, 17, 19), all missing his unhasted AC 20.",
+              "evidence": [
+                {
+                  "startUid": "u6460",
+                  "endUid": "u6498"
+                }
+              ]
+            },
+            {
+              "actor": "Queen of Ash",
+              "kind": "turn",
+              "summary": "Succeeds on Sickening Radiance (Constitution 20), teleports into the upper statue room beside Wellby, and hits him twice: 20 radiant plus 11 fire, then 19 radiant plus a fire amount revised in speech. Turns Kenzo into ash, immune to damage until his next turn’s save, and drops back through the doorway.",
+              "evidence": [
+                {
+                  "startUid": "u6499",
+                  "endUid": "u6680"
+                }
+              ],
+              "note": "The second hit’s fire damage is spoken as 13 then 14; the table ultimately applies 17 after Uncanny Dodge rather than a reconstructed total."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge on the queen’s second visible hit, halving the whole hit to the table’s resolved 17.",
+              "evidence": [
+                {
+                  "startUid": "u6567",
+                  "endUid": "u6579"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Opportunity-attacks the departing queen with advantage, hits with 30, and adds a smite for 46 resolved damage. The later discussion confirms the smite’s trip but no continuing prone state after her fall/flying.",
+              "evidence": [
+                {
+                  "startUid": "u6590",
+                  "endUid": "u6646"
+                },
+                {
+                  "startUid": "u7505",
+                  "endUid": "u7524"
+                }
+              ]
+            },
+            {
+              "actor": "Green air sparks",
+              "kind": "turn",
+              "summary": "All six fail against Sickening Radiance and die before attacking.",
+              "evidence": [
+                {
+                  "startUid": "u6681",
+                  "endUid": "u6713"
+                }
+              ]
+            },
+            {
+              "actor": "Essence of Mist",
+              "kind": "turn",
+              "summary": "Fails Sickening Radiance, takes 34 radiant and becomes visible in pale green light, remaining immune to exhaustion. Flies through the door and attacks Delwath twice: 14 misses, 26 hits for 14 slashing plus 19 psychic, halved to 16. Delwath maintains concentration (12). Seeker fails Constitution (9), and the essence slips down his mouth and hides inside him.",
+              "evidence": [
+                {
+                  "startUid": "u6714",
+                  "endUid": "u6776"
+                }
+              ]
+            },
+            {
+              "actor": "Blue air sparks",
+              "kind": "turn",
+              "summary": "Five fail Sickening Radiance and die; two survive, fly through the doorway and hit Delwath with 25 for 16 slashing halved to 8, pushing him against the wall.",
+              "evidence": [
+                {
+                  "startUid": "u6784",
+                  "endUid": "u6848"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining air sparks",
+              "kind": "turn",
+              "summary": "Seven of eight fail Sickening Radiance and die. The survivor joins the other group but makes its own natural-1 attack and misses.",
+              "evidence": [
+                {
+                  "startUid": "u6849",
+                  "endUid": "u6871"
+                }
+              ]
+            },
+            {
+              "actor": "Iron centaur",
+              "kind": "turn",
+              "summary": "Succeeds on Sickening Radiance (Constitution 22), toughens its skin with iron armor and shoots three spikes at Wellby through the door. Half cover raises his AC to 20; two hit for 26 and 23 slashing, 49 total.",
+              "evidence": [
+                {
+                  "startUid": "u6872",
+                  "endUid": "u6912"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Gives Kenzo Bardic Inspiration, leaps through the doorway and casts Shapechange, becoming a huge adult gold dragon with 243 temporary HP. Does not drink the contemplated potion or use a breath weapon this turn.",
+              "evidence": [
+                {
+                  "startUid": "u6913",
+                  "endUid": "u7021"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "event",
+              "summary": "At his turn’s start spends ki to reroll the ash Constitution save from 11 to 26, returns to normal and takes 55 necrotic before activating Superior Defense. His remaining actions resume after Ladder’s delayed turn.",
+              "evidence": [
+                {
+                  "startUid": "u7021",
+                  "endUid": "u7131"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Takes its delayed turn immediately after Seeker, moves to the minions and hits with 29 for 12, killing one without overkill.",
+              "evidence": [
+                {
+                  "startUid": "u7132",
+                  "endUid": "u7174"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Activates Superior Defense for resistance to damage. Foregoes the proposed haste potion and Lengau’s Claw: makes two ordinary staff hits to kill two minions, uses Step of the Wind to carry dazed Delwath through the doorway, and lands with him on the hovering dragon’s back.",
+              "evidence": [
+                {
+                  "startUid": "u7175",
+                  "endUid": "u7297"
+                },
+                {
+                  "startUid": "u9916",
+                  "endUid": "u9924"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker (gold dragon)",
+              "kind": "legendary_action",
+              "summary": "Uses legendary Banish against the Essence of Mist inside him. It fails DC 21, takes 9 force, is incapacitated and banished to a harmless dimension until Seeker’s next turn; its return space can be chosen outside him.",
+              "evidence": [
+                {
+                  "startUid": "u7298",
+                  "endUid": "u7348"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "While dazed on the dragon’s back, attacks the queen with advantage using his extended blade: two hits and one miss, plus a smite, deal 89 resolved damage. His end-turn Wisdom 23 succeeds and ends daze.",
+              "evidence": [
+                {
+                  "startUid": "u7349",
+                  "endUid": "u7421"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker (gold dragon)",
+              "kind": "legendary_action",
+              "summary": "Legendary Pounce/Rend hits the queen with advantage for 15 slashing. Her immunity negates the fire component.",
+              "evidence": [
+                {
+                  "startUid": "u7422",
+                  "endUid": "u7461"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Ignores the queen’s three-quarters cover with Sharpshooter and hits for 36; she succeeds on DC 19 Constitution against daze (23). His other arrow hits the metallic-blood guard without advantage for 45 with sneak attack because Triceratops threatens it. Readies another queen shot to trigger on Triceratops’s attack and moves through the door out of the firing line.",
+              "evidence": [
+                {
+                  "startUid": "u7462",
+                  "endUid": "u7609"
+                },
+                {
+                  "startUid": "u7681",
+                  "endUid": "u7692"
+                }
+              ]
+            },
+            {
+              "actor": "Triceratops",
+              "kind": "turn",
+              "summary": "Fails Sickening Radiance again, takes its radiant damage (no separate new damage total is resolved here), and reaches two exhaustion levels (−4). Both gore attacks miss.",
+              "evidence": [
+                {
+                  "startUid": "u7612",
+                  "endUid": "u7642"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Readied shot at the queen hits with advantage (23) for 31. She again succeeds on DC 19 Constitution against daze (25), and is bloodied.",
+              "evidence": [
+                {
+                  "startUid": "u7643",
+                  "endUid": "u7678"
+                }
+              ]
+            },
+            {
+              "actor": "Metallic-blood guard",
+              "kind": "turn",
+              "summary": "Succeeds against Sickening Radiance (about 25). Delwath raises his Constitution save from 16 to 20 with Bardic Inspiration, defeating the blood effect. Hits dragon Seeker for 13 slashing plus 26 necrotic (39), misses once, and hits for 13 piercing; heals from the last hit.",
+              "evidence": [
+                {
+                  "startUid": "u7703",
+                  "endUid": "u7833"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker (gold dragon)",
+              "kind": "event",
+              "summary": "Uses one legendary resistance after failing the DC 19 concentration save from the 39-damage hit; later passes DC 10 concentration for the 13-damage spear and keeps Shapechange.",
+              "evidence": [
+                {
+                  "startUid": "u7748",
+                  "endUid": "u7828"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker (gold dragon)",
+              "kind": "legendary_action",
+              "summary": "Uses the last legendary action before the queen’s turn to Rend her for 21 slashing; fire damage is omitted for immunity.",
+              "evidence": [
+                {
+                  "startUid": "u7834",
+                  "endUid": "u7866"
+                }
+              ]
+            },
+            {
+              "actor": "Queen of Ash",
+              "kind": "turn",
+              "summary": "Fails Sickening Radiance but expends legendary resistance. Her ash transformation does not recharge. Teleports onto the dragon’s back to attack Delwath: two misses, one hit for 46 halved to 23, later spoken as 24 during HP entry without reconciling the arithmetic. Delwath maintains concentration. Triceratops fails a Dexterity save for 9 fire from the teleport.",
+              "evidence": [
+                {
+                  "startUid": "u7868",
+                  "endUid": "u7919"
+                },
+                {
+                  "startUid": "u7927",
+                  "endUid": "u7929"
+                }
+              ]
+            },
+            {
+              "actor": "Iron centaur",
+              "kind": "turn",
+              "summary": "Fails Sickening Radiance, takes 30 radiant, and shoots three spikes at the dragon. One hits for 14 piercing; Seeker passes DC 10 concentration and keeps Shapechange.",
+              "evidence": [
+                {
+                  "startUid": "u7921",
+                  "endUid": "u7954"
+                }
+              ]
+            },
+            {
+              "actor": "Queen of Ash",
+              "kind": "villain_action",
+              "summary": "Calls ten additional cloud minions into the upper statue room. Six attack Wellby for 48 damage; four attack Ladder for 32.",
+              "evidence": [
+                {
+                  "startUid": "u7948",
+                  "endUid": "u8029"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses his reaction to retreat without provoking, landing on the dragon’s tail.",
+              "evidence": [
+                {
+                  "startUid": "u8030",
+                  "endUid": "u8035"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Refreshes the dragon’s legendary actions and casts sixth-level Chain Lightning instead of a breath weapon. The queen and metallic-blood guard succeed on Dexterity and each take 25 lightning; the centaur fails and takes 50. The earlier Banish ends and the Essence of Mist returns outside Seeker, at ground level.",
+              "evidence": [
+                {
+                  "startUid": "u8036",
+                  "endUid": "u8129"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Vital Burst for seven attacks against the queen without advantage: three of four staff attacks hit for 49 including Aura Focus, and one of three unarmed attacks hits for 8. Does not activate Lengau’s Claw or haste. Attacks against him have disadvantage until the end of his next turn.",
+              "evidence": [
+                {
+                  "startUid": "u8130",
+                  "endUid": "u8300"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker (gold dragon)",
+              "kind": "legendary_action",
+              "summary": "Uses legendary Banish against the metallic-blood guard. Its Charisma 28 succeeds, so it is not banished and takes no damage.",
+              "evidence": [
+                {
+                  "startUid": "u8310",
+                  "endUid": "u8331"
+                }
+              ],
+              "note": "Declared after the round-three announcement, but the table resolves the legendary action first before Delwath’s attacks."
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Marks the queen with Jeevali’s Mark as a bonus action and attacks three times: two hits deal 37 and 30, and one misses.",
+              "evidence": [
+                {
+                  "startUid": "u8301",
+                  "endUid": "u8309"
+                },
+                {
+                  "startUid": "u8332",
+                  "endUid": "u8372"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker (gold dragon)",
+              "kind": "legendary_action",
+              "summary": "Uses legendary Rend against the queen, hits with 32 for 22 slashing; fire immunity removes the fire component. She falls below one-quarter HP.",
+              "evidence": [
+                {
+                  "startUid": "u8357",
+                  "endUid": "u8388"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Drinks a greater healing potion for 12 HP, rising from 11 to 23. Uses a heroic reroll after a missed arrow to hit the queen for 45; her Constitution 22 prevents daze. Readies an arrow to follow Triceratops’s attack, but is knocked unconscious before it can trigger.",
+              "evidence": [
+                {
+                  "startUid": "u8391",
+                  "endUid": "u8443"
+                }
+              ]
+            },
+            {
+              "actor": "Queen of Ash",
+              "kind": "villain_action",
+              "summary": "Bursts ash within 60 feet without crossing the doorway. Delwath and Kenzo succeed on Charisma (Kenzo raises 16 to 20 with Bardic Inspiration) and each takes 13 necrotic after resistance. Wellby fails, takes 55 necrotic, falls unconscious off the dragon and gains a failed death save. Seeker spends another legendary resistance to succeed instead of failing, taking 27 rather than 55 necrotic; his existing concentration roll now suffices for the reduced damage, preserving Shapechange. One legendary resistance remains.",
+              "evidence": [
+                {
+                  "startUid": "u8445",
+                  "endUid": "u8547"
+                },
+                {
+                  "startUid": "u8663",
+                  "endUid": "u8674"
+                }
+              ],
+              "note": "Triceratops is in the burst, but no individual damage total is resolved for it. Wellby’s stated failed-death-save outcome is retained as adjudicated."
+            },
+            {
+              "actor": "Triceratops",
+              "kind": "turn",
+              "summary": "Fails Sickening Radiance for 22 radiant and a third exhaustion level (−6). Both gore attacks miss; it stands over Wellby protectively.",
+              "evidence": [
+                {
+                  "startUid": "u8573",
+                  "endUid": "u8615"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker (gold dragon)",
+              "kind": "legendary_action",
+              "summary": "Legendary Pounce misses the queen with 16. Lands protectively beside Wellby without leaving the queen’s reach, so no opportunity attack occurs.",
+              "evidence": [
+                {
+                  "startUid": "u8617",
+                  "endUid": "u8648"
+                }
+              ]
+            },
+            {
+              "actor": "Metallic-blood guard",
+              "kind": "turn",
+              "summary": "Succeeds on Sickening Radiance (later confirmed). Delwath succeeds on the blood-effect Constitution save after using the Tanshi’s blessing to roll more dice, reaching the needed 19. Attacks the dragon three times; the spoken damage includes a first hit corrected from 17 to 16, a second for 18, and a final 32-to-hit for 22. Seeker passes the required concentration saves, preserving Shapechange.",
+              "evidence": [
+                {
+                  "startUid": "u8651",
+                  "endUid": "u8747"
+                }
+              ]
+            },
+            {
+              "actor": "Queen of Ash",
+              "kind": "turn",
+              "summary": "Succeeds on Sickening Radiance; ash transformation again fails to recharge. Attacks the dragon: 16 misses, 24 and 30-something hit for 13 and 15 after fire immunity. Seeker passes both concentration saves. Teleports back into the upper statue room; the fire burst gives unconscious Wellby another failed death save, deals Delwath 5 fire after halving and Triceratops 10 on a failed Dexterity save, while Kenzo takes zero after his save and the dragon is immune.",
+              "evidence": [
+                {
+                  "startUid": "u8751",
+                  "endUid": "u8855"
+                }
+              ]
+            },
+            {
+              "actor": "Essence of Mist",
+              "kind": "turn",
+              "summary": "Hits the dragon twice for 32 combined slashing/psychic; Seeker passes DC 16 concentration. A third attack (14) misses. Its attempt to hide inside him fails when his Constitution save succeeds against DC 18 using the dragon’s +7.",
+              "evidence": [
+                {
+                  "startUid": "u8867",
+                  "endUid": "u8922"
+                }
+              ]
+            },
+            {
+              "actor": "Iron centaur",
+              "kind": "turn",
+              "summary": "Charges the dragon and attacks three times with its bladed arm: one miss, two hits for 17 and 24 slashing. This exhausts the dragon’s temporary HP, ending Shapechange. Seeker falls onto Wellby without damaging him.",
+              "evidence": [
+                {
+                  "startUid": "u8946",
+                  "endUid": "u8971"
+                }
+              ]
+            },
+            {
+              "actor": "Cloud minions",
+              "kind": "turn",
+              "summary": "Swarm Ladder and hit with 26 for 80 slashing, ripping it to shreds.",
+              "evidence": [
+                {
+                  "startUid": "u8974",
+                  "endUid": "u8993"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Back in dwarf form, casts seventh-level Chain Lightning at the three remaining guards; the queen is too far vertically to chain. Blood guard and centaur fail DC 19 Dexterity (17 and 18), taking 53 each; Essence of Mist succeeds (19), taking 26. The centaur disintegrates and the blood guard is bloodied. Essence’s Sickening Radiance save succeeds; the centaur’s omitted radiance save is left moot because it has died.",
+              "evidence": [
+                {
+                  "startUid": "u8994",
+                  "endUid": "u9087"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Flies up through the ceiling doorway to the queen. Keeps five attacks instead of activating Lengau’s Claw: both staff attacks hit for 40 total, including Aura Focus; two of three unarmed attacks hit for 15 total. She survives.",
+              "evidence": [
+                {
+                  "startUid": "u9088",
+                  "endUid": "u9146"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Bonus-action Healing Word restores Wellby to 10 HP, still prone until his turn. Flies toward the queen, taking a minion opportunity attack, then hits her twice for 27 each and destroys her in a burst of radiant light. Flies back down beside Wellby, transfers the mark to Essence of Mist and hits it with his remaining attack (22) for 26.",
+              "evidence": [
+                {
+                  "startUid": "u9151",
+                  "endUid": "u9234"
+                }
+              ]
+            },
+            {
+              "actor": "Cloud minion",
+              "kind": "reaction",
+              "summary": "Opportunity-attacks Delwath during his flight to the queen for 8 reduced to 4 damage.",
+              "evidence": [
+                {
+                  "startUid": "u9177",
+                  "endUid": "u9184"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "event",
+              "summary": "Later confirmation establishes that Kenzo collected a handful of the queen’s ashes before combat ended. The exact turn of collection is unstated. Examining them in the Mirror of the Past is only proposed afterward.",
+              "evidence": [
+                {
+                  "startUid": "u9202",
+                  "endUid": "u9204"
+                },
+                {
+                  "startUid": "u10074",
+                  "endUid": "u10082"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Stands and shoots both remaining guards: hits the metallic-blood guard for 43 and Essence of Mist for 55. Haste is no longer active.",
+              "evidence": [
+                {
+                  "startUid": "u9235",
+                  "endUid": "u9261"
+                }
+              ]
+            },
+            {
+              "actor": "Triceratops",
+              "kind": "turn",
+              "summary": "Fails Sickening Radiance for 24 radiant and its fourth exhaustion level (−8). One gore misses, the other hits Essence of Mist with 18 for 28 damage, killing it as Triceratops charges through to protect Wellby.",
+              "evidence": [
+                {
+                  "startUid": "u9262",
+                  "endUid": "u9318"
+                }
+              ]
+            },
+            {
+              "actor": "Metallic-blood guard",
+              "kind": "turn",
+              "summary": "Wellby fails its blood-effect Constitution save (15). He first accepts 37 fire damage, then the table permits him to change to shooting Seeker instead, so the damage is not applied. The guard’s subsequent spear attacks hit Wellby for 12 before his dodge, then 20 to knock him unconscious, then another hit giving one failed death save. A forgotten Sickening Radiance save is rolled afterward: failure deals 19 radiant, with exhaustion immunity.",
+              "evidence": [
+                {
+                  "startUid": "u9319",
+                  "endUid": "u9455"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "event",
+              "summary": "Under the blood effect, shoots Seeker with 21 for 11 damage, with no sneak attack because Triceratops has charged away from Seeker.",
+              "evidence": [
+                {
+                  "startUid": "u9367",
+                  "endUid": "u9408"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge on the first 12-damage spear, reducing it to 6 and leaving 4 HP before the next spear.",
+              "evidence": [
+                {
+                  "startUid": "u9417",
+                  "endUid": "u9422"
+                }
+              ]
+            },
+            {
+              "actor": "Cloud minions",
+              "kind": "turn",
+              "summary": "Swarm Kenzo but roll a natural 1, miss, and deal no damage.",
+              "evidence": [
+                {
+                  "startUid": "u9456",
+                  "endUid": "u9480"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Chooses Erupting Earth rather than Banish or Catapult. The blood guard succeeds on DC 19 Dexterity with 19 and takes half of 28, or 14 damage; it survives.",
+              "evidence": [
+                {
+                  "startUid": "u9481",
+                  "endUid": "u9566"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Later confirmation establishes that Kenzo collected a handful of the queen’s ashes before combat ended. The exact turn of collection is unstated. Examining them in the Mirror of the Past is only proposed afterward.",
+              "evidence": [
+                {
+                  "startUid": "u9567",
+                  "endUid": "u9617"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Collapsing tower",
+              "kind": "event",
+              "summary": "Before Delwath acts, the ceiling collapses into iron spikes; the door stays in place. The stated ongoing hazard deals 1d6 piercing every six seconds, initially 3 each: resistant Kenzo and Delwath take 1 each, Seeker takes 3, and unconscious Wellby gains another failed death save.",
+              "evidence": [
+                {
+                  "startUid": "u9621",
+                  "endUid": "u9646"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "First heals Wellby back to consciousness with bonus-action Healing Word (2d4+5, resolved as 8). Attacks the blood guard three times: 23 hits for 30, the other two miss, including 16. Does not retroactively use the contemplated automatic-roll item after seeing the die.",
+              "evidence": [
+                {
+                  "startUid": "u9647",
+                  "endUid": "u9692"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Drinks a greater healing potion as his bonus action for 13 HP, then misses the guard with a 17 bow attack. He has no haste and cannot take another attack. His proposed retreat is abandoned because drinking used the bonus action needed to disengage and the guard’s 10-foot reach would provoke.",
+              "evidence": [
+                {
+                  "startUid": "u9693",
+                  "endUid": "u9732"
+                },
+                {
+                  "startUid": "u9751",
+                  "endUid": "u9764"
+                }
+              ]
+            },
+            {
+              "actor": "Triceratops",
+              "kind": "turn",
+              "summary": "Fails Sickening Radiance and takes 24 radiant, reverting to its small stone figurine before attacking.",
+              "evidence": [
+                {
+                  "startUid": "u9766",
+                  "endUid": "u9782"
+                }
+              ]
+            },
+            {
+              "actor": "Metallic-blood guard",
+              "kind": "turn",
+              "summary": "Fails Sickening Radiance (19 against DC 20), takes 33 radiant and dies before it can force the proposed Constitution save or make attacks.",
+              "evidence": [
+                {
+                  "startUid": "u9783",
+                  "endUid": "u9793"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Mops up the remaining cloud minions by accepted narration, ending combat.",
+              "evidence": [
+                {
+                  "startUid": "u9794",
+                  "endUid": "u9799"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": "Delwath and Kenzo exchange initiative positions, giving Delwath, Wellby, enemy turns, Seeker, then Kenzo; summoned Triceratops follows Wellby and Ladder follows Seeker. The fight crosses the ceiling doorway into the upper statue room. The additional metallic-blood guard and centaur are distinct from those killed earlier.",
+      "openingActions": [
+        {
+          "actor": "Delwath",
+          "kind": "turn",
+          "summary": "The DM accepts a retrospective Potion of Heroism after the previous rest, lasting one hour.",
+          "evidence": [
+            {
+              "startUid": "u5547",
+              "endUid": "u5554"
+            }
+          ]
+        },
+        {
+          "actor": "Seeker",
+          "kind": "turn",
+          "summary": "Reanimates Ladder at full HP with a fourth-level slot before the battle.",
+          "evidence": [
+            {
+              "startUid": "u6018",
+              "endUid": "u6021"
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The queen, her guards and all minions are dead. Wellby has been revived twice and remains conscious; Ladder is destroyed and Triceratops has reverted to stone. Seeker’s dragon form ended. The tower is collapsing and the spike hazard continues as the party seeks an exit and the relic.",
+        "evidence": [
+          {
+            "startUid": "u9202",
+            "endUid": "u9204"
+          },
+          {
+            "startUid": "u9647",
+            "endUid": "u9657"
+          },
+          {
+            "startUid": "u9779",
+            "endUid": "u9799"
+          }
+        ]
+      }
+    }
+  ]
+}
