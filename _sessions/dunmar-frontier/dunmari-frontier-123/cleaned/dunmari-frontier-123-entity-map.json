@@ -16,12 +16,21 @@
       "label": "Count Vashan",
       "kind": "npc",
       "importance": "cameo",
+      "note": "People/Fey/Count Vashan.md",
       "occurrences": [
         {
           "source": {
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
             "startUid": "u0002",
+            "endUid": "u0016"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0017",
             "endUid": "u0020"
           }
         }
@@ -29,14 +38,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Fey/Count Vashan.md"
+      }
     },
     {
       "id": "e002",
       "label": "Cloudspinner",
       "kind": "npc",
       "importance": "star",
+      "note": "People/Extraplanar Powers/Archfey/Cloudspinner.md",
       "occurrences": [
         {
           "source": {
@@ -50,8 +59,16 @@
           "source": {
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-            "startUid": "u0775",
+            "startUid": "u0804",
             "endUid": "u0809"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0862",
+            "endUid": "u0865"
           }
         },
         {
@@ -98,14 +115,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Extraplanar Powers/Archfey/Cloudspinner.md"
+      }
     },
     {
       "id": "e003",
       "label": "Harrow",
       "kind": "npc",
       "importance": "cameo",
+      "note": "People/Extraplanar Powers/Archfey/Harrow.md",
       "occurrences": [
         {
           "source": {
@@ -120,14 +137,14 @@
         "confidence": "high",
         "status": "automatedReviewed"
       },
-      "note": "People/Extraplanar Powers/Archfey/Harrow.md",
-      "confidenceExplanation": "Separate named references follow the vault pages while preserving the transcript’s uncertainty about whether Harrow and Wend are two beings or aspects of one."
+      "confidenceExplanation": "Separate documented names are retained without resolving the session’s one-being-or-two uncertainty."
     },
     {
       "id": "e004",
       "label": "Wend",
       "kind": "npc",
       "importance": "cameo",
+      "note": "People/Extraplanar Powers/Archfey/Wend.md",
       "occurrences": [
         {
           "source": {
@@ -142,14 +159,17 @@
         "confidence": "high",
         "status": "automatedReviewed"
       },
-      "note": "People/Extraplanar Powers/Archfey/Wend.md",
-      "confidenceExplanation": "Separate named references follow the vault pages while preserving the transcript’s uncertainty about whether Harrow and Wend are two beings or aspects of one."
+      "confidenceExplanation": "Separate documented names are retained without resolving the session’s one-being-or-two uncertainty."
     },
     {
       "id": "e005",
       "label": "Gloom Shaper",
       "kind": "npc",
       "importance": "cameo",
+      "note": "People/Extraplanar Powers/Archfey/Lord Umbraeth.md",
+      "names": [
+        "Gloom Shaper"
+      ],
       "occurrences": [
         {
           "source": {
@@ -163,11 +183,7 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Extraplanar Powers/Archfey/Lord Umbraeth.md",
-      "names": [
-        "Gloom Shaper"
-      ]
+      }
     },
     {
       "id": "e006",
@@ -185,16 +201,17 @@
         }
       ],
       "review": {
-        "confidence": "medium",
+        "confidence": "high",
         "status": "automatedReviewed"
       },
-      "confidenceExplanation": "A specific unseen channeler is distinguished from the surrounding monsters, but its personal identity and degree of individuality remain unresolved."
+      "confidenceExplanation": "The narration distinguishes a specific unseen channeler; its unknown personal identity is retained without equating it to a generic shadow beast."
     },
     {
       "id": "e007",
       "label": "Lady Eventide",
       "kind": "npc",
       "importance": "supporting",
+      "note": "People/Fey/Lady Eventide.md",
       "occurrences": [
         {
           "source": {
@@ -224,14 +241,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Fey/Lady Eventide.md"
+      }
     },
     {
       "id": "e008",
       "label": "Valeris",
       "kind": "npc",
       "importance": "supporting",
+      "note": "People/Fey/Valeris.md",
       "occurrences": [
         {
           "source": {
@@ -269,8 +286,7 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Fey/Valeris.md"
+      }
     },
     {
       "id": "e009",
@@ -313,6 +329,10 @@
       "label": "Cloudspinner’s crystal prison",
       "kind": "item",
       "importance": "cameo",
+      "names": [
+        "crystal prism",
+        "crystal prison"
+      ],
       "occurrences": [
         {
           "source": {
@@ -334,17 +354,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "names": [
-        "crystal prism",
-        "crystal prison"
-      ]
+      }
     },
     {
       "id": "e011",
       "label": "Apollyon",
       "kind": "npc",
       "importance": "cameo",
+      "note": "People/Historical Figures/Drankorian Emperors/Apollyon.md",
       "occurrences": [
         {
           "source": {
@@ -358,14 +375,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Historical Figures/Drankorian Emperors/Apollyon.md"
+      }
     },
     {
       "id": "e012",
       "label": "Cha'mutte",
       "kind": "npc",
       "importance": "cameo",
+      "note": "People/Extraplanar Powers/Cha'mutte.md",
       "occurrences": [
         {
           "source": {
@@ -379,8 +396,7 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Extraplanar Powers/Cha'mutte.md"
+      }
     },
     {
       "id": "e013",
@@ -415,6 +431,10 @@
       "label": "Riswynn’s crown",
       "kind": "item",
       "importance": "supporting",
+      "note": "Things/Artifacts of Power/Crown of Purity.md",
+      "names": [
+        "crown"
+      ],
       "occurrences": [
         {
           "source": {
@@ -436,17 +456,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "Things/Artifacts of Power/Crown of Purity.md",
-      "names": [
-        "crown"
-      ]
+      }
     },
     {
       "id": "e015",
       "label": "People of the Rainbow",
       "kind": "organization",
       "importance": "cameo",
+      "note": "Groups/Orc Hordes/People of the Rainbow.md",
       "occurrences": [
         {
           "source": {
@@ -476,14 +493,17 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "Groups/Orc Hordes/People of the Rainbow.md"
+      }
     },
     {
       "id": "e016",
       "label": "Thark",
       "kind": "divine",
       "importance": "cameo",
+      "note": "Gods and Religions/Gods/Embodied Gods/Thark.md",
+      "names": [
+        "fearsome god"
+      ],
       "occurrences": [
         {
           "source": {
@@ -505,17 +525,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "Gods and Religions/Gods/Embodied Gods/Thark.md",
-      "names": [
-        "fearsome god"
-      ]
+      }
     },
     {
       "id": "e017",
       "label": "Kadmos",
       "kind": "npc",
       "importance": "cameo",
+      "note": "People/Chardonians/Kadmos.md",
       "occurrences": [
         {
           "source": {
@@ -529,14 +546,16 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Chardonians/Kadmos.md"
+      }
     },
     {
       "id": "e018",
       "label": "Kadmos’s mentor",
       "kind": "npc",
       "importance": "cameo",
+      "candidates": [
+        "People/Chardonians/Fausto.md"
+      ],
       "occurrences": [
         {
           "source": {
@@ -551,16 +570,18 @@
         "confidence": "medium",
         "status": "automatedReviewed"
       },
-      "confidenceExplanation": "Fausto’s crown ownership makes him plausible, but the inspected notes do not explicitly establish that he is the mentor named here.",
-      "candidates": [
-        "People/Chardonians/Fausto.md"
-      ]
+      "confidenceExplanation": "Fausto’s crown ownership is compatible with the reference, but no inspected source explicitly identifies him as Kadmos’s mentor."
     },
     {
       "id": "e019",
       "label": "Vindristjarna",
       "kind": "item",
       "importance": "cameo",
+      "note": "Things/Ships/Vindristjarna.md",
+      "names": [
+        "Star on the Wind",
+        "stormship of the giants"
+      ],
       "occurrences": [
         {
           "source": {
@@ -598,18 +619,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "Things/Ships/Vindristjarna.md",
-      "names": [
-        "Star on the Wind",
-        "stormship of the giants"
-      ]
+      }
     },
     {
       "id": "e020",
       "label": "Faldrak",
       "kind": "npc",
       "importance": "cameo",
+      "note": "People/Dwarves/Faldrak Bronzehammer.md",
       "occurrences": [
         {
           "source": {
@@ -631,14 +648,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Dwarves/Faldrak Bronzehammer.md"
+      }
     },
     {
       "id": "e021",
       "label": "Pava",
       "kind": "npc",
       "importance": "cameo",
+      "note": "People/Dunmari/Pava.md",
       "occurrences": [
         {
           "source": {
@@ -652,14 +669,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Dunmari/Pava.md"
+      }
     },
     {
       "id": "e022",
       "label": "Avaras",
       "kind": "npc",
       "importance": "cameo",
+      "note": "People/Dunmari/Avaras.md",
       "occurrences": [
         {
           "source": {
@@ -673,14 +690,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Dunmari/Avaras.md"
+      }
     },
     {
       "id": "e023",
       "label": "Amil",
       "kind": "npc",
       "importance": "cameo",
+      "note": "People/Dunmari/Amil.md",
       "occurrences": [
         {
           "source": {
@@ -694,8 +711,7 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Dunmari/Amil.md"
+      }
     }
   ],
   "exclusions": [

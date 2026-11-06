@@ -23,7 +23,7 @@
         "text": "a few",
         "unit": "minute",
         "precision": "vague",
-        "basis": "Narrated preparation, not a spell-duration estimate."
+        "basis": "Narrated preparation before mounting."
       },
       "completion": "completed",
       "evidence": [
@@ -40,12 +40,12 @@
         "startUid": "u0608",
         "endUid": "u0613"
       },
-      "reading": "The mounted lead group gains distance during an hour of flight; Seeker and Riswynn travel separately behind the pursuers during the same interval.",
+      "reading": "An hour of mounted flight widens the lead group’s gap; Seeker and Riswynn keep flying separately behind the pursuers.",
       "duration": {
         "value": 1,
         "unit": "hour",
         "precision": "approximate",
-        "basis": "Narrated next hour, confirmed by the expiring longstrider and invisibility."
+        "basis": "Narrated next hour, confirmed by longstrider fading; the invisibility expires on the same interval."
       },
       "completion": "completed",
       "evidence": [
@@ -113,12 +113,12 @@
         "startUid": "u0752",
         "endUid": "u0753"
       },
-      "reading": "The lead group completes the final roughly ten-minute approach into the Prismwell’s cloud sanctuary.",
+      "reading": "The lead group completes the final roughly ten-minute approach to the Prismwell; Seeker and Riswynn follow a few minutes behind and reunite there.",
       "duration": {
         "value": 10,
         "unit": "minute",
         "precision": "approximate",
-        "basis": "Estimate is adopted as the narrated last ten minutes and followed through arrival."
+        "basis": "The forecast becomes the narrated last ten minutes, followed through the landing."
       },
       "completion": "completed",
       "evidence": [
@@ -130,7 +130,7 @@
         {
           "startUid": "u0752",
           "endUid": "u0753",
-          "quote": "So you begin racing the last 10 min."
+          "quote": "So you begin racing the last 10 min. Seeker and Riswynn now starting to catch up. Not not so far behind you now, maybe only a few minutes behind."
         },
         {
           "startUid": "u0755",
@@ -140,12 +140,17 @@
         {
           "startUid": "u0760",
           "endUid": "u0762",
-          "quote": "DM: From the inside, now, just gray clouds surrounding you. Everything is sort of misty and shadowy. Have no idea whether any of these creatures that are chasing you can enter this space or not, but I presume you land."
+          "quote": "but I presume you land."
         },
         {
           "startUid": "u0763",
           "endUid": "u0763",
           "quote": "Delwath: Yeah."
+        },
+        {
+          "startUid": "u0771",
+          "endUid": "u0772",
+          "quote": "DM: So you all stand and look at each other."
         }
       ],
       "actors": [
@@ -161,7 +166,7 @@
         "startUid": "u0804",
         "endUid": "u0809"
       },
-      "reading": "About half a minute passes positioning and lifting Cloudspinner’s crystal prison from the portable hole.",
+      "reading": "About half a minute passes positioning and lifting Cloudspinner’s crystal prison out of the portable hole.",
       "duration": {
         "value": 0.5,
         "unit": "minute",
@@ -183,12 +188,12 @@
         "startUid": "u0862",
         "endUid": "u0865"
       },
-      "reading": "Cloudspinner’s crystal prison disappears into the pool for about a minute before the attack and her emergence.",
+      "reading": "Cloudspinner’s prison disappears into the pool for about a minute before the arrow volley.",
       "duration": {
         "value": 1,
         "unit": "minute",
         "precision": "approximate",
-        "basis": "Narrated disappearance; subsequent “a moment” is loose rather than a precise clock."
+        "basis": "Narrated disappearance, followed by a loosely timed moment before the arrows."
       },
       "completion": "completed",
       "evidence": [
@@ -201,6 +206,33 @@
           "startUid": "u0866",
           "endUid": "u0868",
           "quote": "A moment, nothing seems to happen, and then there's a whir of an arrow flying through the cloud. 3 arrows."
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u0972",
+        "endUid": "u0976"
+      },
+      "reading": "Riswynn’s sunburst lights the cloud for about a minute before its light keeps spreading under Cloudspinner’s influence.",
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrator measures the visible glare; the later continuing illumination is not given another duration."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0972",
+          "endUid": "u0976",
+          "quote": "the cloud lights up for a minute with this glare, this burst of light"
+        },
+        {
+          "startUid": "u0977",
+          "endUid": "u0987",
+          "quote": "But strangely, the light of Riswynn's sunburst does not stop."
         }
       ]
     },
@@ -237,7 +269,7 @@
         "text": "a few",
         "unit": "minute",
         "precision": "vague",
-        "basis": "Narration explicitly measures his effort to avoid speaking."
+        "basis": "Narration measures his effort to avoid speaking."
       },
       "completion": "completed",
       "evidence": [
@@ -254,7 +286,7 @@
   ],
   "yamlCheck": {
     "status": "compatible",
-    "dateAnchor": "June 13–14, 1749 comes only from YAML; no date or usable civil clock is spoken in this transcript.",
+    "dateAnchor": "June 13–14, 1749 comes from YAML alone; no date or usable civil watch is established in the transcript.",
     "expectedDateBoundaries": 1,
     "supportedDateBoundaries": null,
     "evidence": [
@@ -264,9 +296,10 @@
       "t04",
       "t05",
       "t06",
+      "t09",
       "t07",
       "t08"
     ],
-    "explanation": "The played interval runs from the lit chamber through the pursuit, restoration, crown rededication, and return to the ship. About 100 minutes of flight and several short intervals are established, but no overnight or civil-date transition is narrated. The moon necklace’s two or three weeks and four or five sleeps describe the entire earlier Feywild trip (u1183–u1194), not additional elapsed time in this session. Feywild light supplies no civil clock; missing coverage does not contradict the YAML span."
+    "explanation": "The played interval covers the lit chamber, flight, Prismwell attack and restoration, crown rededication, and return to the ship. The lead flight totals about 100 minutes, with shorter preparations, pauses, and a measured glare; no overnight or civil-date transition is established. The four or five sleeps and two or three weeks at u1183–u1194 concern the entire Feywild journey, not extra time in this session. Changing Feywild brightness supplies no civil watch, and the Rainbow Bridge return supplies no clock for the material plane. Missing coverage does not contradict the YAML span."
   }
 }

@@ -45,6 +45,19 @@
       "vaultPath": "Gazetteer/Extraplanar/Feywild/Amberglow/Redsun Watch.md",
       "aliases": [
         "Redsun Keep"
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u0002",
+              "endUid": "u0016",
+              "quote": "all of the keeps the Cloudspinner built across Amberglow, all of the watches on the border of her realm"
+            }
+          ]
+        }
       ]
     },
     "p03": {
@@ -70,7 +83,20 @@
         }
       ],
       "kind": "sanctuary",
-      "vaultPath": "Gazetteer/Extraplanar/Feywild/Amberglow/Prismwell.md"
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Amberglow/Prismwell.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u0089",
+              "endUid": "u0090",
+              "quote": "lighting up this room caused the Prismwell to manifest in Amberglow."
+            }
+          ]
+        }
+      ]
     },
     "p05": {
       "label": "Base camp outside Redsun Watch",
@@ -81,7 +107,20 @@
           "quote": "the base camp where the satyr and the and the and the griffins are waiting"
         }
       ],
-      "kind": "camp"
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "outside",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0255",
+              "endUid": "u0260",
+              "quote": "about a hundred feet from where the darkness begins on the far side of the walls"
+            }
+          ]
+        }
+      ]
     },
     "p06": {
       "label": "Sunlit tower roof",
@@ -92,7 +131,25 @@
           "quote": "manage finally to emerge at the sunlit roof."
         }
       ],
-      "kind": "tower roof"
+      "kind": "tower roof",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0157",
+              "endUid": "u0162",
+              "quote": "heading back to the tower"
+            },
+            {
+              "startUid": "u0198",
+              "endUid": "u0204",
+              "quote": "manage finally to emerge at the sunlit roof."
+            }
+          ]
+        }
+      ]
     },
     "p07": {
       "label": "River route across Amberglow",
@@ -103,7 +160,25 @@
           "quote": "you're sort of following the course of the river a little bit, following the sparkles from beneath you."
         }
       ],
-      "kind": "route"
+      "kind": "route",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u0320",
+              "endUid": "u0325",
+              "quote": "racing across the the land of Amberglow following Wellby"
+            },
+            {
+              "startUid": "u0614",
+              "endUid": "u0616",
+              "quote": "you're sort of following the course of the river a little bit"
+            }
+          ]
+        }
+      ]
     },
     "p08": {
       "label": "Plain where the Prismwell stood",
@@ -114,7 +189,25 @@
           "quote": "you're left standing on an empty plain"
         }
       ],
-      "kind": "plain"
+      "kind": "plain",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1257",
+              "endUid": "u1264",
+              "quote": "There are many selfless tasks that must be done in Amberglow now"
+            },
+            {
+              "startUid": "u1310",
+              "endUid": "u1312",
+              "quote": "the Prismwell and the clouds surrounding it vanish, and you're left standing on an empty plain"
+            }
+          ]
+        }
+      ]
     },
     "p09": {
       "label": "Vindristjarna",
@@ -144,7 +237,25 @@
         }
       ],
       "kind": "house",
-      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Pava and Avaras' House.md"
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Pava and Avaras' House.md",
+      "note": "The verified house note places it on the northern edge of the Garamjala Desert (Gazetteer/Greater Dunmar/Hara Basin/Pava and Avaras' House.md, DR 1740s account). The current transcript says only desert and recognizes the house; that regional name is not a spoken location claim."
+    },
+    "p11": {
+      "label": "Amberglow",
+      "kind": "realm",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Amberglow/Amberglow.md",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0016",
+          "quote": "all of the keeps the Cloudspinner built across Amberglow"
+        },
+        {
+          "startUid": "u0320",
+          "endUid": "u0325",
+          "quote": "racing across the the land of Amberglow"
+        }
+      ]
     }
   },
   "markers": [
@@ -194,7 +305,14 @@
       "place": "p03",
       "observerPlace": "p01",
       "mode": "vision",
-      "context": "vision"
+      "context": "vision",
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "within",
+          "target": "p11"
+        }
+      ]
     },
     {
       "id": "l03",
