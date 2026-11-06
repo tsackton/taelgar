@@ -1,0 +1,93 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-079/cleaned/dunmari-frontier-079-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-079/cleaned/dunmari-frontier-079-time-markers.json",
+    "sha256": "5c96b3246fdb4692eef6e30b295cd06e603eb2e23769ffd7eae67ca9bf032b61"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-079/cleaned/dunmari-frontier-079-transcript.md",
+    "sha256": "7b1f548412bac3013c26cdc9f8dca192e972e69cb5f26f2a55d2ef497a99ed65"
+  },
+  "dateAssessment": "Working campaign dates use YAML, 1748-12-08 through 1748-12-10. No adventure date is spoken independently. The opening is already about 03:00: the subsequent long rest ends close to noon on the same working date, without establishing a new day. Hallow takes 24 hours, placing its completion around midday December 9 if begun after these interrogations. The final “a few days after the battle” departure can fit December 10; that closing date and an approximate night watch remain conditional on the YAML span. The time extraction is compatible, rather than an exact match. The historical mirror frame supplies no civil date or reliable watch; sunset-like clouds are imagery, not the observers’ clock.",
+  "watches": [
+    {
+      "day": "December 8, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Opening about 03:00; brief aftermath actions precede the accepted approximately 04:00 retirement cue.",
+      "markers": [
+        "t01",
+        "t10",
+        "t11",
+        "t02"
+      ],
+      "startDate": "1748-12-08",
+      "endDate": "1748-12-08"
+    },
+    {
+      "day": "December 8, 1748",
+      "startWatch": "dawn",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Eight-hour long rest from about 04:00 ends late morning, close to noon.",
+      "markers": [
+        "t03"
+      ],
+      "startDate": "1748-12-08",
+      "endDate": "1748-12-08"
+    },
+    {
+      "day": "December 8, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "After waking close to noon, Valius pauses a minute; Tongues preparation takes a couple more.",
+      "markers": [
+        "t12",
+        "t04"
+      ],
+      "startDate": "1748-12-08",
+      "endDate": "1748-12-08"
+    },
+    {
+      "day": "December 8–9, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Hallow and departure preparations take 24 hours; completion is about the following midday.",
+      "markers": [
+        "t05"
+      ],
+      "startDate": "1748-12-08",
+      "endDate": "1748-12-09"
+    },
+    {
+      "day": "Cloak’s historical vision",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Historical images shift to sometime later, then return to the party; no civil watch is established.",
+      "markers": [
+        "t06",
+        "t07",
+        "t08"
+      ],
+      "clock": "local",
+      "scope": "Historical mirror frame"
+    },
+    {
+      "day": "December 10, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Departure is a few days after the battle, apparently at night; the exact watch remains open.",
+      "markers": [
+        "t09"
+      ],
+      "startDate": "1748-12-10",
+      "endDate": "1748-12-10"
+    }
+  ]
+}
