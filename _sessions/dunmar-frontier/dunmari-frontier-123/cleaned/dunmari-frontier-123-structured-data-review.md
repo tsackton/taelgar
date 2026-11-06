@@ -6,11 +6,12 @@
 
 ## In-world time
 
-YAML records June 13–14, 1749. The transcript supplies elapsed intervals but no usable civil date or watch, and does not establish the recorded date transition; the time extraction therefore remains compatible, with incomplete coverage. The row below collects elapsed evidence only. About 100 minutes of lead-group flight is established; the returning ship receives no separate clock anchor. The moon necklace’s two or three weeks and four or five sleeps describe the whole earlier Feywild journey, and changing Feywild light supplies no civil watch.
+YAML records June 13–14, 1749. Session 123 alone supplies elapsed intervals but no usable civil date or watch, and does not establish the recorded date transition; its transcript-only YAML assessment remains compatible, with incomplete coverage. The Feywild row retains only elapsed evidence. Supplementary Session 124 explicitly resumes the same return to Vindristjarna above Pava and Avaras’ house (u0001–u0003, u0063–u0064), corrects afternoon to morning (u0093–u0097), and specifies mid-morning while confirming that play starts just as the party arrived (u0229–u0232). The separate morning watch is therefore inferred retrospectively for the closing ship return; it supplies no civil date or preceding Feywild watch. The moon necklace’s weeks and sleeps concern the whole earlier Feywild journey.
 
 | Day | Watch | Basis | Time evidence | Markers |
 | --- | --- | --- | --- | --- |
 | Feywild interval (civil date unanchored) | Open | — | Flight totals about 100 minutes; separate preparations, the Prismwell glare, and pauses add short intervals without establishing a civil watch. | t01–t06, t09, t07–t08 |
+| Closing ship return (civil date unanchored) | Morning | inferred | **Material plane** · Session 124 resumes this arrival, corrects afternoon to morning, then specifies mid-morning. | t10 |
 
 ## Locations
 
@@ -71,4 +72,4 @@ Elapsed time spans each segment block’s first UID start through its latest UID
 
 Outside segment spans: **0:00:17** in gaps between blocks.
 
-Sources · [Transcript](dunmari-frontier-123-transcript.md) · [Time Markers](dunmari-frontier-123-time-markers.json) · [Location Markers](dunmari-frontier-123-location-markers.json) · [Entity Map](dunmari-frontier-123-entity-map.json) · [Interactions](dunmari-frontier-123-interactions.json) · [Combat](dunmari-frontier-123-combat.json) · [Segments](dunmari-frontier-123-segments.json) · [Watch data](dunmari-frontier-123-time-watches.json)
+Sources · [Transcript](dunmari-frontier-123-transcript.md) · [Time Markers](dunmari-frontier-123-time-markers.json) · [Location Markers](dunmari-frontier-123-location-markers.json) · [Entity Map](dunmari-frontier-123-entity-map.json) · [Interactions](dunmari-frontier-123-interactions.json) · [Combat](dunmari-frontier-123-combat.json) · [Segments](dunmari-frontier-123-segments.json) · [Watch data](dunmari-frontier-123-time-watches.json) · [Session 124 handoff and morning correction](../../dunmari-frontier-124/cleaned/dunmari-frontier-124-transcript.md)
