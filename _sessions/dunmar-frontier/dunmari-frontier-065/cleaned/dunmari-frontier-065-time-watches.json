@@ -1,0 +1,119 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-time-markers.json",
+    "sha256": "37b069cf9617c36539e6c4d29a5956a953a7fa0b1383d91058598e3765623375"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-transcript.md",
+    "sha256": "e3b40efcd12325bcbdf366817c19798a864efa49f78ee26df594cf4a0d661cf2"
+  },
+  "dateAssessment": "Working calendar: YAML records October 13–November 13, 1748 (31 date boundaries). The transcript is compatible with that range but does not verify its elapsed length or independently date an event. The opening resolves an uncertain Shimmersong stay, including glove construction, before the Amberglow expedition; long-rest credit is eight hours by convention and the later short rest is one hour. Neither rest establishes a civil day boundary. Seeker, Raven and Spirala continue their own session-63 handoff (u2442–u2448 there; u0001–u0022 here), after Mikasa’s departure. Session 64 follows Kenzo and Izzarak on a separate track; its closing date or watch is not inherited. Fixed Amberglow afternoon/sunset light supplies no advancing civil watch. The thread establishes midnight on the Material Plane at the palace, with no spoken date; later travel is unmeasured, so Lastlight arrival stays unclocked. The court vision is historical and brief. Seeker and Spirala remain below the falls awaiting Kenzo’s descent and the other companions; no portal crossing is played.",
+  "watches": [
+    {
+      "day": "During October 13–November 13, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Uncertain weeks in Shimmersong; opening long-rest credit supplies eight hours without a separate dated overnight.",
+      "markers": [
+        "t01",
+        "t02"
+      ],
+      "scope": "Seeker’s group / opening credit",
+      "dateWindow": [
+        "1748-10-13",
+        "1748-11-13"
+      ]
+    },
+    {
+      "day": "Amberglow expedition",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "stated",
+      "summary": "Stationary late-afternoon and early-sunset light describes Amberglow’s sky; it supplies no civil watch.",
+      "markers": [
+        "t03"
+      ],
+      "clock": "local",
+      "scope": "Fixed illumination"
+    },
+    {
+      "day": "Before the ravine fight",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Raven spends about twenty seconds sending whispered messages before the group advances.",
+      "markers": [
+        "t04"
+      ],
+      "scope": "Raven"
+    },
+    {
+      "day": "After the ravine fight",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The group completes a conventional one-hour short rest before setting out onto the plains.",
+      "markers": [
+        "t05"
+      ],
+      "scope": "Seeker, Raven, Spirala and Caulaus"
+    },
+    {
+      "day": "Former court, seen during the trade",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "A brief historical court vision interrupts Seeker’s color trade; the image then ends.",
+      "markers": [
+        "t06",
+        "t07"
+      ],
+      "clock": "local",
+      "scope": "Historical vision"
+    },
+    {
+      "day": "At the Cloud Palace; remote date unspecified",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "stated",
+      "summary": "The thread turns black: midnight on the other side, while Amberglow’s sunlight remains stationary.",
+      "markers": [
+        "t08"
+      ],
+      "clock": "local",
+      "scope": "Material Plane via the thread"
+    },
+    {
+      "day": "After the palace, before Lastlight Falls",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Unmeasured plains travel precedes about one minute on the shadow path; arrival has no clock.",
+      "markers": [
+        "t09",
+        "t10"
+      ],
+      "scope": "Seeker, Raven, Spirala and Caulaus"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Prior Seeker-group handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-transcript.md",
+      "sha256": "7641b7dae355886a7e85a649322867b167b5ee98625bafcbd28dbc1dee5f4637"
+    },
+    {
+      "label": "Separate Kenzo/Izzarak track",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-session.yaml",
+      "sha256": "c9984e81f354ffc4c8201415cebcd4960327c07bbc6887bcd706a61707fff621"
+    },
+    {
+      "label": "Existing session note requiring corrections",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 65 (DuFr).md",
+      "sha256": "d99f6882e51799f79e7ba1cd2b02086dd45a5d37d86a93644e2fe82a40bc7475"
+    }
+  ]
+}

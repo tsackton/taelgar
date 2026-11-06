@@ -1,0 +1,1259 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "e3b40efcd12325bcbdf366817c19798a864efa49f78ee26df594cf4a0d661cf2"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-entity-map.json",
+      "sha256": "d85cdaf86f57eabdba659f9f62783458e3353f07c6b21036dd0bd88aa4730c9e"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "The Lightdancer’s summer court",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0008",
+        "endUid": "u0012"
+      },
+      "lines": [
+        "%% u0008:0-3, u0009:0-48, u0010:0-270, u0011:0-49, u0012:0-54 %%",
+        "DM: ((Travel through Shimmersong)) traveling to the summer court of the Lightdancer, vibrant whirlwind of color and song and food and dance.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So we will start tonight: the fey realm of Amberglow, on the borders of Shimmersong, where Seeker, ah, Spirala and Raven have come after leaving the Crystal Peaks and bidding farewell to Mikasa."
+        ],
+        "after": [
+          "DM: And Seeker spending some time learning the— about the crystallized magic gifted to you by Illaran, and fashioning it into an item you can use, which I just added to your character sheet.",
+          "Seeker: Great, thank you.",
+          "DM: Now, though, after a week, two, three, it's hard to say— you've left Shimmersong, and come to the decaying realm of Amberglow in search of—",
+          "DM: Uh, yes, everybody got a long rest. Go ahead and take a long rest. Yeah, good call. Ah!",
+          "DM: In search of Lastlight Falls, the location of the fey crossing that Seeker hopes to find somewhere in the decaying domain of Amberglow."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Seeker fashions the crystallized-magic glove",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0013",
+        "endUid": "u0017"
+      },
+      "lines": [
+        "%% u0013:0-42, u0014:0-54, u0015:0-3, u0016:0-83 %%",
+        "DM: And Seeker spending some time learning the— about the crystallized magic gifted to you by Illaran, and fashioning it into an item you can use, which I just added to your character sheet.",
+        "",
+        "%% u0017:0-17 %%",
+        "Seeker: Great, thank you.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So we will start tonight: the fey realm of Amberglow, on the borders of Shimmersong, where Seeker, ah, Spirala and Raven have come after leaving the Crystal Peaks and bidding farewell to Mikasa.",
+          "DM: Um, and passing through Shimmersong, where you spent a fair bit of time, although it's hard to know how long in the Feywild any time is: traveling to the groves of stone trees from which the most delicious fruit of all varieties grow; spending time among the forested valleys where giant spiders spin webs of gossamer silver; traveling to the summer court of the Lightdancer, vibrant whirlwind of color and song and food and dance."
+        ],
+        "after": [
+          "DM: Now, though, after a week, two, three, it's hard to say— you've left Shimmersong, and come to the decaying realm of Amberglow in search of—",
+          "DM: Uh, yes, everybody got a long rest. Go ahead and take a long rest. Yeah, good call. Ah!",
+          "DM: In search of Lastlight Falls, the location of the fey crossing that Seeker hopes to find somewhere in the decaying domain of Amberglow.",
+          "Seeker: If we didn't, or it was the.",
+          "DM: Where was what?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "The missing Queen of Sunsets and the Winter Knights",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0037",
+        "endUid": "u0043"
+      },
+      "lines": [
+        "%% u0037:0-89, u0038:0-35, u0039:0-104, u0040:0-54, u0041:0-62, u0042:0-91, u0043:0-3 %%",
+        "DM: Amberglow was once a realm of great beauty, of sunsets and rolling hills of golden grass. But for many, many years, centuries or longer since the disappearance of the Cloudspinner, the queen of sunsets, it's fallen into danger and and ruin. And this is one of the main dangers that the Winter Knights guard against, when summer ends in Shimmersong. ((Raven’s familiarity with the realm))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Where was what?",
+          "Seeker: Of the name?",
+          "DM: Out? It falls about Lastlight Falls, Lastlight.",
+          "Raven: Um, we didn't use our inspiration from last session. Can we keep it, or does that go away?",
+          "DM: It goes away when you take a long rest. Good catch. Um."
+        ],
+        "after": [
+          "DM: And to find to find Lastlight Falls, the fey crossing in this domain, you need a guide, and Raven has brought you to the border around this border area called the Golden Hills. Um, an area that was once beautiful rolling fields of grain and the peaceful, ah, pastoral landscape, now a twisting maze of ravines and false paths and dead ends and sudden cliffs.",
+          "DM: In fact, Raven knows, knows somebody who, ah, rumored to be able to, has spent time in Amberglow, and could lead you through. And as you approach a small camp, sheltered on the side of a hill topped by the crumbling ruin of a watchtower—",
+          "DM: Um, Raven, Spirala and Seeker, ah, maybe introduce your characters. And if you want to say one or zero, or one or two or three sentences about what you have been doing in Shimmersong, feel free to do that as well.",
+          "DM: And um, how do you say your name, Mike?",
+          "Caulaus: Caulaus."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Vestian belongs to an ancient civil war",
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0156",
+        "endUid": "u0162"
+      },
+      "lines": [
+        "%% u0156:0-58 %%",
+        "Seeker: Is that—is that true, Tim? This is history, I don't know.",
+        "",
+        "%% u0156:58-69, u0157:0-2, u0158:0-16, u0159:0-95, u0160:0-33 %%",
+        "DM: Ah, this is—at—well, you, I mean, what, this, uh, Emperor Vestian, you know Emperor Vestian was an was a Emperor of Drankor around eight hundred years ago. Roughly.",
+        "",
+        "%% u0161:0-32, u0162:0-78 %%",
+        "DM: There—there is some record of a Drankorian civil war from about that time, but you haven't studied it deeply.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Caulaus: Which war? Where? Where are you from?",
+          "Seeker: The uh, the Great War, if that's what you mean, to my knowledge, ended two hundred years ago.",
+          "Caulaus: The Great War. I I don't know if I'd call it that. Emperor Vestian was struggling to defeat the, um, this—",
+          "Seeker: These are names I do not know. Is that true, Tim?",
+          "Caulaus: Have not heard of him? You must be from far, far away."
+        ],
+        "after": [
+          "Seeker: Perhaps you're referring to historical events. These are long, long past in the world I come from.",
+          "Caulaus: Historical events? It's been—I am anxious for news. It has been, I think, a few years that I've been stuck here.",
+          "Seeker: [garbled] more than a few years, my friend, and are you from the kingdom of Drankor yourself? Is that your allegiance?",
+          "Caulaus: Yes, a soldier in the third, the third Sylvan legion. I am a, um, I'm—I'm heading to, to— I would welcome your, your your company. I've learned also of this Lastlight Falls.",
+          "Unknown: Yeah, and."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "The Third Sylvan legion",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0172",
+        "endUid": "u0178"
+      },
+      "lines": [
+        "%% u0172:0-4, u0173:0-23, u0174:0-3, u0175:0-19, u0176:0-9, u0177:0-22, u0178:0-83 %%",
+        "Caulaus: Yes, a soldier in the third, the third Sylvan legion. I am a, um, I'm—I'm heading to, to— I would welcome your, your your company. I've learned also of this Lastlight Falls.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Ah, this is—at—well, you, I mean, what, this, uh, Emperor Vestian, you know Emperor Vestian was an was a Emperor of Drankor around eight hundred years ago. Roughly.",
+          "DM: There—there is some record of a Drankorian civil war from about that time, but you haven't studied it deeply.",
+          "Seeker: Perhaps you're referring to historical events. These are long, long past in the world I come from.",
+          "Caulaus: Historical events? It's been—I am anxious for news. It has been, I think, a few years that I've been stuck here.",
+          "Seeker: [garbled] more than a few years, my friend, and are you from the kingdom of Drankor yourself? Is that your allegiance?"
+        ],
+        "after": [
+          "Unknown: Yeah, and.",
+          "Caulaus: I feel I've—I feel I've been there before. There's something that's telling me I know the way, but I'm heading I'm heading that way to return and and fight for for Emperor Vestian.",
+          "Unknown: What.",
+          "Raven: Excuse—an unforgiving winter has fallen on this one's mind.",
+          "Seeker: You think so?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Vondar’s memory toll and defeat",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0414",
+        "endUid": "u1524"
+      },
+      "lines": [
+        "%% u0414:0-20, u0415:0-23, u0416:0-19, u0417:0-4, u0418:0-86, u0419:0-2, u0420:0-5, u0421:0-54, u0422:0-11, u0423:0-13 %%",
+        "DM: You—you travel maybe three, four hundred feet, um, and you come to uh a an area where the canyon expands a little bit, so it's maybe twenty, thirty feet or so, um, wide, and sitting on a boulder in the middle of the passage, ah, is this twisted giant.",
+        "",
+        "%% u0424:0-58, u0425:0-34, u0426:0-69, u0427:0-126, u0428:0-98, u0429:0-104, u0430:0-56, u0431:0-42, u0432:0-74, u0433:0-218, u0434:0-161, u0435:0-9, u0436:0-24, u0437:0-29, u0438:0-2, u0439:0-3, u0440:0-5, u0441:0-10, u0442:0-98, u0443:0-3, u0444:0-23, u0445:0-41, u0446:0-110, u0447:0-78, u0448:0-90, u0449:0-83, u0450:0-178, u0451:0-35, u0452:0-32, u0453:0-9, u0454:0-87, u0455:0-4, u0456:0-152, u0457:0-11, u0458:0-132, u0459:0-67, u0460:0-10, u0461:0-4, u0462:0-28, u0463:0-11, u0464:0-29, u0465:0-70, u0466:0-11, u0467:0-35, u0468:0-286, u0469:0-12, u0470:0-20, u0471:0-119, u0472:0-10, u0473:0-9, u0474:0-7, u0475:0-30, u0476:0-21, u0477:0-36, u0478:0-44, u0479:0-106, u0480:0-2, u0481:0-9, u0482:0-41, u0483:0-51, u0484:0-119, u0484:119-162, u0485:0-69, u0486:0-88, u0487:0-51, u0488:0-25, u0489:0-50, u0490:0-23, u0491:0-26, u0492:0-108, u0493:0-14, u0494:0-7, u0495:0-35, u0496:0-50, u0497:0-29, u0498:0-61, u0499:0-35, u0500:0-118, u0501:0-16, u0502:0-57, u0503:0-54, u0504:0-49, u0505:0-54, u0506:0-142, u0507:0-19, u0508:0-39, u0509:0-87, u0510:0-31, u0511:0-18, u0512:0-76, u0513:0-7, u0514:0-46, u0515:0-23, u0516:0-219, u0517:0-224, u0518:0-12, u0519:0-15, u0520:0-6, u0521:0-25, u0522:0-34, u0523:0-20, u0524:0-4, u0525:0-42, u0526:0-73, u0527:0-57, u0528:0-38, u0529:0-60, u0530:0-80, u0531:0-108, u0532:0-35, u0533:0-75, u0534:0-52, u0535:0-17, u0536:0-115, u0537:0-58, u0538:0-6, u0539:0-19, u0540:0-79, u0541:0-30, u0542:0-75, u0543:0-2, u0544:0-17, u0545:0-5, u0546:0-37, u0547:0-101, u0548:0-5, u0549:0-73, u0550:0-35, u0551:0-67, u0552:0-73, u0553:0-43, u0554:0-47, u0555:0-9, u0556:0-56, u0557:0-34, u0558:0-5, u0559:0-3, u0560:0-61, u0561:0-5, u0562:0-60, u0563:0-33, u0564:0-102, u0565:0-70, u0566:0-32, u0567:0-21, u0568:0-168, u0569:0-19, u0570:0-34, u0571:0-16, u0572:0-47, u0573:0-26, u0574:0-5, u0575:0-63, u0576:0-62, u0577:0-12, u0578:0-5, u0579:0-15, u0580:0-16, u0581:0-195, u0582:0-29, u0583:0-56, u0584:0-12, u0585:0-19, u0586:0-55, u0587:0-193, u0588:0-60, u0589:0-8, u0590:0-47, u0591:0-89, u0591:89-94, u0591:94-140, u0592:0-57, u0593:0-44, u0594:0-41, u0595:0-6, u0596:0-99, u0597:0-76, u0598:0-29, u0599:0-74, u0600:0-18, u0601:0-65, u0602:0-23, u0603:0-5, u0604:0-24, u0605:0-76, u0606:0-33, u0607:0-23, u0608:0-22, u0609:0-63, u0610:0-200, u0611:0-67, u0612:0-6, u0613:0-2, u0614:0-23, u0615:0-2, u0616:0-46, u0617:0-7, u0618:0-222, u0619:0-39, u0619:39-60, u0620:0-47, u0621:0-79, u0622:0-29, u0623:0-55, u0624:0-71, u0625:0-44, u0626:0-106, u0627:0-151, u0628:0-103, u0629:0-13, u0630:0-80, u0631:0-49, u0631:49-161, u0632:0-75, u0633:0-10, u0634:0-15, u0635:0-147, u0636:0-25, u0637:0-40, u0637:40-172, u0638:0-39, u0639:0-169, u0640:0-159, u0641:0-20, u0642:0-3, u0643:0-23, u0644:0-28, u0645:0-53, u0646:0-33, u0647:0-58, u0648:0-18, u0649:0-67, u0650:0-3, u0651:0-26, u0652:0-119, u0653:0-32, u0654:0-4, u0655:0-1, u0656:0-50, u0657:0-19, u0658:0-56, u0659:0-15, u0660:0-29, u0661:0-44, u0662:0-30, u0663:0-5, u0664:0-22, u0665:0-33, u0666:0-27, u0667:0-15, u0668:0-43, u0669:0-141, u0670:0-39, u0671:0-104, u0672:0-37, u0673:0-6, u0674:0-18, u0675:0-4, u0676:0-9, u0677:0-13, u0678:0-53, u0679:0-4, u0680:0-16, u0681:0-38, u0682:0-15, u0683:0-35, u0684:0-47, u0685:0-7, u0686:0-8, u0687:0-25, u0688:0-6, u0689:0-55, u0690:0-75, u0691:0-34, u0692:0-89, u0693:0-38, u0694:0-28, u0695:0-52, u0695:52-153, u0696:0-62, u0697:0-119, u0698:0-34, u0699:0-27, u0700:0-33, u0701:0-41, u0702:0-48, u0703:0-283, u0704:0-56, u0705:0-37, u0706:0-5, u0707:0-50, u0708:0-36, u0709:0-10, u0710:0-19, u0711:0-38, u0712:0-137, u0713:0-157, u0714:0-40, u0715:0-5, u0716:0-46, u0717:0-105, u0718:0-11, u0719:0-92, u0720:0-37, u0721:0-4, u0722:0-18, u0723:0-23, u0724:0-25, u0725:0-17, u0726:0-25, u0727:0-94, u0728:0-21, u0729:0-87, u0730:0-49, u0731:0-27, u0732:0-58, u0732:58-64, u0733:0-22, u0734:0-62, u0735:0-53, u0736:0-31, u0737:0-88, u0738:0-4, u0739:0-21, u0740:0-15, u0741:0-18, u0742:0-31, u0743:0-22, u0744:0-48, u0745:0-29, u0746:0-35, u0747:0-37, u0748:0-8, u0749:0-37, u0750:0-5, u0751:0-10, u0752:0-10, u0753:0-41, u0754:0-9, u0755:0-32, u0756:0-21, u0757:0-7, u0758:0-23, u0759:0-23, u0760:0-35, u0761:0-3, u0762:0-2, u0763:0-7, u0764:0-5, u0765:0-90, u0766:0-15, u0767:0-25, u0768:0-135, u0769:0-9, u0770:0-47, u0771:0-10, u0772:0-9, u0773:0-24, u0774:0-55, u0775:0-25, u0776:0-54, u0777:0-123, u0778:0-7, u0779:0-43, u0780:0-30, u0781:0-87, u0782:0-2, u0783:0-33, u0784:0-168, u0785:0-40, u0786:0-8, u0787:0-105, u0788:0-3, u0789:0-35, u0790:0-7, u0791:0-9, u0792:0-3, u0793:0-112, u0794:0-118, u0795:0-40, u0796:0-9, u0797:0-1, u0798:0-2, u0799:0-2, u0800:0-27, u0801:0-3, u0802:0-3, u0803:0-6, u0804:0-34, u0805:0-11, u0806:0-112, u0807:0-23, u0808:0-53, u0809:0-25, u0810:0-8, u0811:0-41, u0812:0-17, u0813:0-73, u0814:0-54, u0814:54-78, u0815:0-26, u0816:0-35, u0817:0-91, u0818:0-34, u0819:0-28, u0820:0-10, u0821:0-3, u0822:0-70, u0823:0-3, u0824:0-34, u0825:0-17, u0826:0-30, u0827:0-41, u0828:0-50, u0829:0-21, u0830:0-30, u0831:0-42, u0832:0-12, u0833:0-9, u0834:0-15, u0835:0-70, u0836:0-8, u0837:0-24, u0838:0-12, u0839:0-32, u0840:0-6, u0841:0-9, u0842:0-3, u0843:0-3, u0844:0-5, u0845:0-56, u0846:0-71, u0847:0-63, u0848:0-70, u0849:0-111, u0850:0-3, u0851:0-16, u0852:0-18, u0853:0-23, u0854:0-94, u0855:0-5, u0856:0-28, u0857:0-46, u0858:0-24, u0859:0-5, u0860:0-124, u0861:0-53, u0862:0-46, u0863:0-11, u0864:0-53, u0865:0-13, u0866:0-19, u0867:0-16, u0868:0-40, u0869:0-28, u0870:0-21, u0871:0-85, u0872:0-12, u0873:0-15, u0874:0-19, u0875:0-5, u0876:0-19, u0877:0-29, u0878:0-3, u0879:0-69, u0880:0-32, u0881:0-34, u0882:0-49, u0883:0-30, u0884:0-51, u0885:0-36, u0886:0-5, u0887:0-92, u0888:0-92, u0889:0-3, u0890:0-22, u0891:0-48, u0892:0-15, u0893:0-37, u0894:0-47, u0895:0-8, u0896:0-21, u0897:0-6, u0898:0-24, u0899:0-25, u0900:0-9, u0901:0-18, u0902:0-3, u0903:0-2, u0904:0-28, u0905:0-81, u0906:0-242, u0907:0-17, u0908:0-3, u0909:0-59, u0910:0-22, u0911:0-24, u0912:0-19, u0913:0-29, u0914:0-74, u0915:0-30, u0916:0-40, u0917:0-19, u0918:0-52, u0919:0-87, u0920:0-84, u0921:0-67, u0922:0-31, u0923:0-39, u0924:0-115, u0925:0-50, u0926:0-61, u0927:0-210, u0928:0-75, u0929:0-12, u0930:0-24, u0931:0-85, u0932:0-34, u0933:0-3, u0934:0-54, u0935:0-76, u0936:0-12, u0937:0-46, u0938:0-36, u0939:0-57, u0940:0-56, u0941:0-50, u0942:0-45, u0943:0-29, u0944:0-41, u0945:0-39, u0945:39-71, u0946:0-18, u0947:0-16, u0948:0-10, u0949:0-15, u0950:0-3, u0951:0-71, u0952:0-13, u0953:0-2, u0954:0-14, u0955:0-23, u0956:0-7, u0957:0-38, u0958:0-13, u0959:0-35, u0960:0-10, u0961:0-7, u0962:0-8, u0963:0-5, u0964:0-29, u0965:0-105, u0966:0-24, u0967:0-168, u0968:0-21, u0969:0-12, u0970:0-71, u0971:0-19, u0972:0-21, u0973:0-33, u0974:0-38, u0975:0-57, u0976:0-3, u0977:0-63, u0978:0-2, u0979:0-5, u0980:0-29, u0981:0-18, u0982:0-17, u0983:0-48, u0984:0-3, u0985:0-22, u0986:0-13, u0987:0-86, u0988:0-36, u0989:0-27, u0990:0-2, u0991:0-34, u0992:0-32, u0993:0-28, u0994:0-7, u0995:0-21, u0996:0-24, u0997:0-4, u0998:0-9, u0999:0-3, u1000:0-14, u1001:0-33, u1002:0-110, u1003:0-15, u1003:15-170, u1003:170-200, u1004:0-36 %%",
+        "((Scouting, preparations and combat actions))",
+        "",
+        "%% u1005:0-32, u1006:0-32, u1007:0-26 %%",
+        "DM: Turns, looks at you, and he says “You could just give me a memory. You wouldn't have to fight.”",
+        "",
+        "%% u1008:0-12, u1009:0-3 %%",
+        "Raven: You'll wait. Oh.",
+        "",
+        "%% u1010:0-22, u1011:0-9 %%",
+        "Spirala: Now it is a Toll Road, it seems.",
+        "",
+        "%% u1012:0-3, u1013:0-7, u1014:0-41, u1015:0-3, u1016:0-60, u1017:0-21, u1018:0-39, u1019:0-111, u1020:0-154, u1021:0-70, u1022:0-16, u1023:0-3, u1024:0-13, u1025:0-2, u1026:0-11, u1027:0-3, u1028:0-39, u1029:0-3, u1030:0-9, u1031:0-122, u1032:0-60, u1033:0-8, u1034:0-43, u1035:0-6, u1036:0-73, u1037:0-28, u1038:0-33, u1039:0-63, u1040:0-52, u1041:0-78, u1042:0-52, u1043:0-96, u1044:0-61, u1045:0-14, u1046:0-18, u1047:0-40, u1048:0-39, u1049:0-323, u1050:0-9, u1051:0-35, u1052:0-16, u1053:0-3, u1054:0-11, u1055:0-17, u1056:0-29, u1056:29-43, u1057:0-23, u1058:0-58, u1059:0-34, u1060:0-30, u1061:0-5, u1062:0-32, u1063:0-21, u1064:0-31, u1065:0-9, u1066:0-30, u1067:0-9, u1068:0-110, u1069:0-10, u1070:0-10, u1071:0-41, u1071:41-111, u1072:0-42, u1073:0-94, u1074:0-42, u1075:0-29, u1076:0-19, u1077:0-19, u1078:0-3, u1079:0-37, u1080:0-13, u1081:0-58, u1082:0-87, u1083:0-23, u1084:0-56, u1085:0-10, u1086:0-5, u1087:0-8, u1088:0-9, u1089:0-27, u1090:0-24, u1091:0-15, u1092:0-27, u1093:0-21, u1094:0-4, u1095:0-11, u1096:0-9, u1097:0-21, u1098:0-61, u1099:0-33, u1100:0-12, u1101:0-5, u1102:0-7, u1103:0-24, u1104:0-94, u1105:0-15, u1106:0-16, u1107:0-31, u1108:0-13, u1109:0-36, u1110:0-5, u1111:0-121, u1112:0-31, u1113:0-73, u1114:0-5, u1115:0-15, u1116:0-15, u1117:0-11, u1118:0-62, u1119:0-47, u1120:0-46, u1121:0-22, u1122:0-28, u1123:0-44, u1124:0-72, u1125:0-29, u1126:0-71, u1127:0-27, u1128:0-37, u1129:0-54, u1130:0-41, u1131:0-23, u1132:0-10, u1133:0-57, u1134:0-35, u1135:0-25, u1136:0-24, u1137:0-5, u1138:0-12, u1139:0-8, u1140:0-51, u1141:0-98, u1142:0-26, u1143:0-17, u1144:0-104, u1145:0-31, u1146:0-69, u1147:0-76, u1148:0-22, u1149:0-14, u1150:0-10, u1151:0-22, u1152:0-58, u1153:0-55, u1154:0-69, u1155:0-45, u1156:0-117, u1157:0-5, u1158:0-10, u1159:0-13, u1160:0-4, u1161:0-29, u1162:0-43, u1163:0-11, u1164:0-5, u1165:0-40, u1166:0-5, u1167:0-17, u1168:0-2, u1169:0-19, u1170:0-26, u1171:0-16, u1172:0-35, u1172:35-116, u1173:0-32, u1174:0-91, u1175:0-16, u1176:0-2, u1177:0-28, u1178:0-60, u1179:0-43, u1180:0-71, u1181:0-3, u1182:0-25, u1183:0-30, u1184:0-32, u1185:0-15, u1186:0-29, u1187:0-41, u1187:41-76, u1187:76-119, u1188:0-92, u1189:0-9, u1190:0-5, u1191:0-9, u1192:0-49, u1193:0-5, u1194:0-38, u1195:0-13, u1196:0-13, u1197:0-21, u1198:0-37, u1199:0-53, u1200:0-100, u1201:0-3, u1202:0-4, u1203:0-89, u1204:0-35, u1205:0-74, u1206:0-17, u1207:0-3, u1208:0-11, u1209:0-4, u1210:0-20, u1211:0-38, u1212:0-5, u1213:0-13, u1214:0-8, u1215:0-55, u1216:0-140, u1217:0-8, u1218:0-24, u1219:0-39, u1220:0-87, u1221:0-93, u1222:0-20, u1223:0-45, u1224:0-10, u1225:0-7, u1226:0-82, u1227:0-87, u1228:0-7, u1229:0-38, u1230:0-22, u1231:0-67, u1232:0-32, u1233:0-44, u1234:0-27, u1235:0-133, u1236:0-45, u1237:0-171, u1238:0-19, u1239:0-41, u1240:0-3, u1241:0-18, u1242:0-10, u1243:0-9, u1244:0-4, u1245:0-132, u1246:0-164, u1247:0-5, u1248:0-3, u1249:0-26, u1250:0-37, u1251:0-4, u1252:0-46, u1253:0-92, u1254:0-6, u1255:0-40, u1256:0-46, u1257:0-24, u1258:0-21, u1259:0-27, u1260:0-48, u1261:0-29, u1262:0-29, u1263:0-36, u1264:0-25, u1265:0-25, u1266:0-36, u1267:0-23, u1268:0-9, u1269:0-20, u1270:0-34, u1271:0-57, u1272:0-220, u1273:0-66, u1274:0-83, u1275:0-29, u1276:0-60, u1277:0-17, u1278:0-70, u1279:0-12, u1280:0-23, u1281:0-28, u1282:0-5, u1283:0-31, u1284:0-8, u1285:0-4, u1286:0-4, u1287:0-5, u1288:0-42, u1289:0-75, u1289:75-139, u1290:0-18, u1291:0-51, u1292:0-22, u1293:0-40, u1294:0-9, u1295:0-27, u1296:0-3, u1297:0-66, u1298:0-5, u1299:0-42, u1300:0-8, u1301:0-37, u1302:0-8, u1303:0-41, u1304:0-30, u1305:0-43, u1306:0-67, u1307:0-48, u1308:0-34, u1309:0-11, u1310:0-108, u1311:0-21, u1312:0-54, u1313:0-87, u1314:0-81, u1315:0-28, u1316:0-5, u1317:0-62, u1318:0-25, u1319:0-153, u1320:0-40, u1320:40-85, u1321:0-52, u1321:52-76, u1322:0-6, u1323:0-38, u1323:38-138, u1324:0-3, u1325:0-47, u1326:0-48, u1326:48-154, u1327:0-49, u1328:0-38, u1329:0-37, u1330:0-71, u1331:0-78, u1332:0-25, u1333:0-116, u1334:0-39, u1335:0-106, u1336:0-29, u1337:0-31, u1338:0-154, u1339:0-23, u1340:0-103, u1341:0-132, u1342:0-62, u1343:0-9, u1344:0-98, u1345:0-37, u1346:0-172, u1347:0-62, u1347:62-117, u1347:117-242, u1348:0-39, u1349:0-38, u1350:0-103, u1351:0-2, u1352:0-15, u1353:0-62, u1354:0-86, u1355:0-3, u1356:0-31, u1357:0-53, u1358:0-10, u1359:0-18, u1360:0-29, u1361:0-16, u1362:0-24, u1363:0-51, u1364:0-6, u1365:0-114, u1366:0-5, u1367:0-74, u1368:0-45, u1369:0-25, u1370:0-26, u1371:0-35, u1372:0-5, u1373:0-52, u1374:0-2, u1375:0-14, u1376:0-20, u1377:0-4, u1378:0-11, u1379:0-47, u1380:0-109, u1381:0-2, u1382:0-54, u1383:0-11, u1384:0-66, u1385:0-26, u1386:0-56, u1387:0-19, u1388:0-91, u1389:0-86, u1390:0-83, u1391:0-15, u1392:0-27, u1393:0-34, u1394:0-34, u1395:0-25, u1396:0-84, u1397:0-37, u1398:0-50, u1399:0-101, u1400:0-3, u1401:0-71, u1402:0-24, u1403:0-5, u1404:0-44, u1405:0-21, u1406:0-59, u1407:0-22, u1408:0-17, u1409:0-38, u1410:0-40, u1411:0-42, u1412:0-7, u1413:0-37, u1414:0-30, u1415:0-61, u1416:0-24, u1417:0-5, u1418:0-6, u1419:0-10, u1420:0-19, u1421:0-10, u1422:0-47, u1423:0-27, u1424:0-9, u1425:0-19, u1425:19-49, u1426:0-12, u1427:0-83, u1428:0-9, u1429:0-66, u1430:0-8, u1431:0-49, u1432:0-5, u1433:0-16, u1434:0-7, u1435:0-21, u1436:0-14, u1437:0-2, u1438:0-8, u1439:0-18, u1440:0-4, u1441:0-4, u1442:0-21, u1443:0-13, u1444:0-13, u1445:0-24, u1446:0-30, u1447:0-59, u1448:0-47, u1449:0-52, u1450:0-29, u1451:0-25, u1452:0-31, u1453:0-5 %%",
+        "((Scouting, preparations and combat actions))",
+        "",
+        "%% u1454:0-61, u1455:0-22, u1456:0-95 %%",
+        "DM: No, I—I will just—looks, it—it looks at Caulaus, and it says, “You could have passed if you'd paid the toll,” ((Evil-eye resolution))",
+        "",
+        "%% u1457:0-15, u1458:0-17, u1459:0-5 %%",
+        "Raven: We will not pay. ((Saving throw))",
+        "",
+        "%% u1460:0-16, u1461:0-16, u1461:16-54, u1461:54-86, u1462:0-5, u1463:0-62, u1464:0-16, u1465:0-22, u1466:0-37, u1467:0-61, u1468:0-36 %%",
+        "((Scouting, preparations and combat actions))",
+        "",
+        "%% u1469:0-23, u1470:0-3, u1471:0-96, u1472:0-21, u1473:0-89 %%",
+        "DM: You are cursed. Oh, no, you—you, like, um, begin to like hunch over slightly. One of your legs grows longer than the other leg. ((Curse mechanics))",
+        "",
+        "%% u1474:0-8 %%",
+        "Seeker: Oh, man!",
+        "",
+        "%% u1475:0-96, u1476:0-33, u1477:0-39, u1478:0-14, u1479:0-57, u1480:0-147, u1481:0-56, u1482:0-266, u1483:0-49, u1484:0-4 %%",
+        "((Scouting, preparations and combat actions))",
+        "",
+        "%% u1485:0-15 %%",
+        "Seeker: How much is it?",
+        "",
+        "%% u1486:0-10 %%",
+        "DM: One memory.",
+        "",
+        "%% u1487:0-13 %%",
+        "Seeker: They've never.",
+        "",
+        "%% u1488:0-10, u1489:0-45, u1490:0-58, u1491:0-90, u1492:0-3, u1493:0-87, u1494:0-6, u1495:0-96, u1496:0-4, u1497:0-3, u1498:0-38, u1499:0-43, u1500:0-61, u1501:0-39, u1502:0-70 %%",
+        "((Scouting, preparations and combat actions))",
+        "",
+        "%% u1503:0-3, u1504:0-19, u1505:0-150, u1506:0-79, u1507:0-3 %%",
+        "DM: ((Attack resolution)) that kills the giant. You see, ((Attack description)) it stumbles back, and it falls over, and the stone begins to grow. The, like, dirt begins to, like, grow up and encase its body and grow over it, and it sort of sinks a little bit, um.",
+        "",
+        "%% u1508:0-70, u1509:0-32, u1510:0-80, u1511:0-49, u1512:0-110, u1513:0-4, u1514:0-33, u1515:0-16, u1516:0-32, u1517:0-21, u1518:0-86, u1519:0-3, u1520:0-33 %%",
+        "((Scouting, preparations and combat actions))",
+        "",
+        "%% u1521:0-196 %%",
+        "DM: ((Attack resolution)) The—the satyr that falls down, and the tossed dirt of the canyon floor here, where Seeker disrupted it, also begins to grow and cover both the two bodies of the satyr.",
+        "",
+        "%% u1522:0-64 %%",
+        "((Scouting, preparations and combat actions))",
+        "",
+        "%% u1523:0-34 %%",
+        "Spirala: Self-cleaning ravine. How very fey.",
+        "",
+        "%% u1524:0-75 %%",
+        "Seeker: Seeker stumbles forward and points to his leg. Can anyone help me with this?",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Raven: You're sneaking ahead.",
+          "DM: Uh you begin. So Raven detaches from the group and begins to creep forward along the in the shadows along the edge of this ravine.",
+          "Raven: To reveal like black feathers on the other side, and I like meld with the shadows.",
+          "Seeker: Stealth mode.",
+          "DM: Uh you."
+        ],
+        "after": [
+          "Raven: Uh, maybe I have a thing—it's not a very good thing, maybe. Let's see. Let me read this. Ah, one disease—is a disease? It's a curse, not—not—sorry, you don't Remove Curse or Greater Restoration. I have Greater Restoration. I just have Physician's Touch.",
+          "Seeker: You do think that short rest? I'm dying over here. Yeah, I think we should be able to see her.",
+          "Unknown: Thank you on my my legs.",
+          "Raven: Again. I'm dying.",
+          "Unknown: But it was uncomfortable."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "The cauldron’s memories enthrall Raven",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1547",
+        "endUid": "u1606"
+      },
+      "lines": [
+        "%% u1547:0-80 %%",
+        "((Rolls, brief interjections and repeated ladle banter))",
+        "",
+        "%% u1547:80-147 %%",
+        "Raven: Can we run it through the cauldron and get Caulaus's memories back?",
+        "",
+        "%% u1548:0-52 %%",
+        "Seeker: Oh, interesting idea! I was thinking of the cauldron.",
+        "",
+        "%% u1549:0-18 %%",
+        "Raven: You paid the toll.",
+        "",
+        "%% u1550:0-22 %%",
+        "Seeker: Yeah, what's in there?",
+        "",
+        "%% u1551:0-29 %%",
+        "Caulaus: Yeah, what's in the cauldron?",
+        "",
+        "%% u1552:0-71, u1553:0-73 %%",
+        "DM: It looks empty. I mean, the the ladle that they were stirring it with is is lying on the ground next to the cauldron, but it appears to be empty.",
+        "",
+        "%% u1553:73-97 %%",
+        "Raven: And I pick up the ladle.",
+        "",
+        "%% u1554:0-5 %%",
+        "Seeker: Nice.",
+        "",
+        "%% u1555:0-8, u1556:0-3, u1557:0-11 %%",
+        "DM: You can. Ah, okay, yeah.",
+        "",
+        "%% u1558:0-22 %%",
+        "Spirala: You stir the cauldron.",
+        "",
+        "%% u1559:0-5, u1560:0-22 %%",
+        "Raven: Sure. I'll walk over to the.",
+        "",
+        "%% u1560:22-58, u1561:0-136 %%",
+        "DM: If you put the ladle in it starts to bubble and hiss a little bit, and you can see all this like white foaming mass begin to bubble up from the bottom as you're stirring it.",
+        "",
+        "%% u1562:0-4 %%",
+        "Seeker: Cool.",
+        "",
+        "%% u1563:0-84 %%",
+        "DM: Feels strange, like every now and then you'll get a just an incredibly brief flash of.",
+        "",
+        "%% u1564:0-3 %%",
+        "Unknown: Ah!",
+        "",
+        "%% u1565:0-111, u1566:0-3, u1567:0-3, u1568:0-34, u1569:0-12, u1570:0-70 %%",
+        "DM: You know, an image of somewhere that goes past too quickly for you to recognize that, or just a sound or a name. Um, and the longer you stir, the the like, the more, um— These images just keep flashing before you. ((Saving throw))",
+        "",
+        "%% u1571:0-1, u1572:0-37, u1573:0-3, u1574:0-15 %%",
+        "((Rolls, brief interjections and repeated ladle banter))",
+        "",
+        "%% u1575:0-25, u1576:0-25, u1577:0-63, u1578:0-25 %%",
+        "DM: ((Saving-throw comment)) This is just fascinating. You're stirring, and you're stirring, and you can feel the like depths of memories here.",
+        "",
+        "%% u1579:0-55 %%",
+        "((Rolls, brief interjections and repeated ladle banter))",
+        "",
+        "%% u1580:0-204, u1581:0-40, u1582:0-34, u1583:0-44, u1584:0-26 %%",
+        "DM: Every moment it's just more and more interesting, and you can't make anything out. But you—you know that the only thing you want to do is just stand here forever experiencing the history of these people who have given their memories as a toll. It's just the most fascinating and deep experience you can ever remember having. The rest of you just see—",
+        "",
+        "%% u1584:26-65 %%",
+        "Raven: I am the new keeper of this toll booth.",
+        "",
+        "%% u1585:0-61, u1586:0-101 %%",
+        "DM: Stirring and stirring this cauldron and not stopping and just beginning to like their face, is beginning to sort of droop in a little bit into the cauldron as the—",
+        "",
+        "%% u1586:101-185 %%",
+        "Caulaus: Yeah. I'm going to just like, push him up, take the ladle out of his hand, and like—",
+        "",
+        "%% u1586:185-226, u1587:0-12 %%",
+        "Raven: Well, it was mine. No, you can't have it. My precious.",
+        "",
+        "%% u1588:0-3, u1589:0-75, u1590:0-21, u1591:0-9, u1592:0-21 %%",
+        "((Rolls, brief interjections and repeated ladle banter))",
+        "",
+        "%% u1593:0-3, u1594:0-76 %%",
+        "DM: Ah, he just grabs the ladle from your hand, and you you start back for a moment.",
+        "",
+        "%% u1595:0-19 %%",
+        "Raven: You mean my ladle.",
+        "",
+        "%% u1595:19-108 %%",
+        "Caulaus: I'm gonna like toss it off into the hills and say, “This is malevolent. This is not safe.”",
+        "",
+        "%% u1595:108-168 %%",
+        "((Rolls, brief interjections and repeated ladle banter))",
+        "",
+        "%% u1595:168-245 %%",
+        "Caulaus: I threw it off as far as I can like up into the rocks in the other direction.",
+        "",
+        "%% u1596:0-16, u1596:16-43, u1596:43-62, u1597:0-30 %%",
+        "((Rolls, brief interjections and repeated ladle banter))",
+        "",
+        "%% u1598:0-35 %%",
+        "DM: So you snap back to yourself. Yeah.",
+        "",
+        "%% u1599:0-51, u1600:0-9, u1601:0-13 %%",
+        "Caulaus: Beware of this place. Meddling in these things will result in nothing good.",
+        "",
+        "%% u1602:0-21 %%",
+        "((Rolls, brief interjections and repeated ladle banter))",
+        "",
+        "%% u1603:0-35 %%",
+        "DM: But the effect is wearing off now.",
+        "",
+        "%% u1603:35-48, u1604:0-14 %%",
+        "((Rolls, brief interjections and repeated ladle banter))",
+        "",
+        "%% u1605:0-9, u1606:0-35 %%",
+        "Raven: My ladle. I leave, um, where are we going now?",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Raven: I have an ability to like magically rejuvenate most of my resources once per day. I can do it during combat, so I'd rather save it for a time during combat when we don't have the option to rest, anyway. But if we hit you with a cure wounds, I mean, it's mostly my ki points.",
+          "Spirala: Oh.",
+          "Raven: I can. Once per day I can use my Dragonhide Belt to regain, like, basically all my ki points.",
+          "Seeker: I request the tent to fly back over to me actually, so that I can sit inside of it.",
+          "Raven: Hey, tent, come over here. I want to sit in you. Let's see in your notes."
+        ],
+        "after": [
+          "Caulaus: We're finding the Cloud Palace.",
+          "Raven: Uh, yes.",
+          "Caulaus: The best place is to find the Crashed Cloud Palace.",
+          "Seeker: Lady Eventide will help us, correct? Let's go to the—",
+          "Raven: Can we short rest, or should we do that? Let's do a—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "A warning about the ladle and an ordinary replacement",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1663",
+        "endUid": "u1673"
+      },
+      "lines": [
+        "%% u1663:0-7, u1664:0-45, u1665:0-122 %%",
+        "Caulaus: Listen. I am looking out for your safety. Your guide. This ladle was not safe for you. You would have become a new giant, a cursed guardian of the of the memories of that path.",
+        "",
+        "%% u1666:0-26 %%",
+        "Raven: I'd do better than he did.",
+        "",
+        "%% u1667:0-64 %%",
+        "Caulaus: Well might do better than he did. But is that the fate you wish?",
+        "",
+        "%% u1668:0-16 %%",
+        "Raven: Not particularly.",
+        "",
+        "%% u1669:0-30 %%",
+        "Caulaus: Stop complaining obligations.",
+        "",
+        "%% u1669:30-62, u1670:0-20 %%",
+        "Raven: I rather—I'd rather have a ladle. That would be great.",
+        "",
+        "%% u1671:0-23 %%",
+        "Caulaus: Would you like a ladle?",
+        "",
+        "%% u1672:0-3 %%",
+        "Raven: The.",
+        "",
+        "%% u1673:0-49 %%",
+        "Caulaus: Caulaus will hand you a ladle from his cook set.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And this is like many places in the Feywild, the sort of place where uh, just because you can see it doesn't mean it's easy to get to. But in this case, um, Caulaus has traveled this path before and knows the ways to walk on these plains to avoid the loops and turns, and repeating paths that would mislead you and sway you. So.",
+          "DM: Unless there's anything you want to discuss while you walk, I will skip ahead to the palace.",
+          "Raven: Yes, I keep pestering Caulaus about stealing the ladle.",
+          "Caulaus: Caulaus will lecture you every once in a while, be like, you—",
+          "Raven: Thief."
+        ],
+        "after": [
+          "DM: So as you approach you this, you can see that the, ah, the like partially intact part of this palace is a long open hall, with crumbling walls and these high arches. Delicate architecture. Um, everything looks light and airy. Um, everything—almost everything is gray. It's very little color anywhere in these these plains, so I forgot it. Have a—this too. Um!",
+          "Raven: Why, they're called amber.",
+          "DM: There used to be more color. It's sunset. Everywhere is sunset, like early sunset, as as the sky is just beginning to light up. But the color is flat, especially this—clad—this crashed ruins of the Cloud Palace, and you can see in this hall.",
+          "Unknown: Um.",
+          "DM: Which is one of the only intact things here. There is a fey woman pacing back and forth."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Eventide refuses Caulaus passage",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1701",
+        "endUid": "u1746"
+      },
+      "lines": [
+        "%% u1701:0-19, u1702:0-17, u1703:0-37, u1704:0-9, u1705:0-15, u1706:0-8, u1707:0-9, u1708:0-44 %%",
+        "DM: And as you approach she stops pacing, she turns to look at the four of you, and looks particularly at Caulaus, she says, “Why do you return? You are not welcome here.”",
+        "",
+        "%% u1709:0-16 %%",
+        "Raven: What did you do?",
+        "",
+        "%% u1710:0-7, u1711:0-36, u1712:0-35, u1713:0-24, u1714:0-44, u1715:0-37, u1716:0-2, u1717:0-5 %%",
+        "Caulaus: Return? I have been here before, have I not? I am—I'm guiding these folks to the to the Lastlight Falls, points towards the dwarf. “This—this dwarf is anxious to be gone from these realms, as am I.”",
+        "",
+        "%% u1718:0-89 %%",
+        "DM: She looks at you and says, “We will discuss the dwarf later. But you know you cannot leave.”",
+        "",
+        "%% u1719:0-20, u1720:0-15 %%",
+        "Raven: Why can't you leave? What did I miss?",
+        "",
+        "%% u1721:0-3, u1722:0-8, u1723:0-16 %%",
+        "Caulaus: But the war? I must get back.",
+        "",
+        "%% u1724:0-21, u1725:0-26, u1726:0-24, u1727:0-41 %%",
+        "DM: “The war is long over. Many things have happened. The Cloudspinner is gone. Till she returns, you cannot be forgiven.”",
+        "",
+        "%% u1728:0-29 %%",
+        "Caulaus: You have told me this before.",
+        "",
+        "%% u1729:0-27 %%",
+        "DM: “And yet you return, anyway.”",
+        "",
+        "%% u1730:0-17 %%",
+        "Caulaus: What of the dwarf?",
+        "",
+        "%% u1731:0-15 %%",
+        "DM: She paces over.",
+        "",
+        "%% u1732:0-27 %%",
+        "Caulaus: What is your price for you?",
+        "",
+        "%% u1733:0-38 %%",
+        "DM: “Why do you seek Lastlight Falls, dwarf?”",
+        "",
+        "%% u1734:0-16, u1735:0-29 %%",
+        "Seeker: I seek to return back to my world, back to my—",
+        "",
+        "%% u1736:0-42, u1737:0-8, u1738:0-5, u1739:0-13, u1740:0-14, u1741:0-42, u1742:0-41 %%",
+        "DM: “And why there? Why do you disturb the last remnants of my lady's realm? Why would you, bother those of us who have been abandoned against our will by the Queen of Sunsets?”",
+        "",
+        "%% u1743:0-25, u1744:0-60, u1745:0-32, u1746:0-12 %%",
+        "Seeker: I seek to disturb no one. I'm told this is the way to get back to where I need to go. What can I offer you in exchange for passage?",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: There used to be more color. It's sunset. Everywhere is sunset, like early sunset, as as the sky is just beginning to light up. But the color is flat, especially this—clad—this crashed ruins of the Cloud Palace, and you can see in this hall.",
+          "Unknown: Um.",
+          "DM: Which is one of the only intact things here. There is a fey woman pacing back and forth.",
+          "DM: She is wearing elaborate, courtly gowns, a necklace, rings. She has long hair that's done up in a fancy hairstyle, and braided with like two combs in her hair. Um, but everything she is wearing is—almost everything she is wearing is like a flat gray white, no—very little color. One of the combs in her hair is this rich, ah, mahogany color, and there's like a streak of golden blonde like one of her braids is golden blonde, and then you can see that two rings on another finger are, ah, one is gold, the other is—it's like silver with a with a or with a pattern.",
+          "DM: And there's one—she has those long draping sleeves, and one of the sleeves is this like rich yellow color, but everything else, or the rest of her clothes, entirely gray."
+        ],
+        "after": [
+          "DM: She walks. She looks around. Do you want to say something, Raven?",
+          "Raven: Do I know anything about why—why, like, people think Cloudspinner disappeared?",
+          "DM: Um, make a—I don't know. Pick a check to make, and what you learn will depend on what check you like—",
+          "Seeker: People?",
+          "Raven: Ah, so if I had to actually pick a check, it would probably be acrobatics. But it makes sense."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "The court that fled, died or changed",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1766",
+        "endUid": "u1816"
+      },
+      "lines": [
+        "%% u1766:0-25, u1767:0-15, u1768:0-28, u1769:0-42, u1770:0-30, u1771:0-46 %%",
+        "DM: But what you recognize in the demeanor of this fey woman before you is a courtly lady in waiting without a court, like she has been left behind, but she has that courtly demeanor to her, like—",
+        "",
+        "%% u1772:0-27 %%",
+        "Raven: Where did everyone else go?",
+        "",
+        "%% u1773:0-17, u1774:0-32, u1775:0-70, u1776:0-24, u1777:0-13, u1778:0-33, u1779:0-21, u1780:0-18, u1781:0-21 %%",
+        "DM: She looks at you. “Can you not guess, Winter Knight? The dangers that assail your borders when the Lightdancer is sleeping. Those creatures are here all the time. Few could survive that onslaught, those who could fled. Those who couldn't died or were changed.",
+        "",
+        "%% u1782:0-14, u1783:0-14, u1784:0-10, u1785:0-7, u1786:0-30, u1787:0-43 %%",
+        "DM: There's only I who keep alive my queen's memory. I know she will return one day. When she does, she will rebuild this place.”",
+        "",
+        "%% u1788:0-4, u1789:0-16, u1790:0-17 %%",
+        "((Interjections))",
+        "",
+        "%% u1790:17-61 %%",
+        "Raven: Sometimes winter does not give way to spring.",
+        "",
+        "%% u1791:0-33, u1792:0-28, u1793:0-9 %%",
+        "DM: “In your experience, is that true? Has the Lightdancer ever not awakened?”",
+        "",
+        "%% u1794:0-10, u1795:0-7, u1796:0-24, u1797:0-6 %%",
+        "Raven: That would be fun? But the Lightdancer also is not.",
+        "",
+        "%% u1798:0-5 %%",
+        "Unknown: Leave.",
+        "",
+        "%% u1799:0-17 %%",
+        "Raven: {{behind there}}.",
+        "",
+        "%% u1800:0-19 %%",
+        "((Interjections))",
+        "",
+        "%% u1801:0-24 %%",
+        "Raven: No, it is a possibility.",
+        "",
+        "%% u1802:0-42, u1803:0-51 %%",
+        "Caulaus: What? What was your name? The Cloudspinner Spinner did not abandon this place of her own will.",
+        "",
+        "%% u1804:0-61, u1805:0-23, u1806:0-13, u1807:0-8, u1808:0-27, u1809:0-71, u1810:0-7, u1811:0-31 %%",
+        "Caulaus: No, speak—no, like, Caulaus looks sort of annoyed at Raven, like, “Don't speak about these—” and he pauses, “Stories— No, I—I remember something. Anyway, don't speak of them as if you know what what has happened here.” Sort of bows to Lady Eventide slightly.",
+        "",
+        "%% u1812:0-31, u1813:0-9, u1814:0-50, u1815:0-44, u1816:0-25 %%",
+        "Caulaus: I have undertaken to see these—see this, this traveler forward. Would you consider granting your favor to him? I ask nothing for myself. What price would you ask?",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So Intelligence or Wisdom, a mental mental skill.",
+          "Raven: Oh, I'll say, like insight, and try and see basically what she knows about.",
+          "DM: Okay.",
+          "Raven: Thirteen. Not very good.",
+          "DM: So you—you don't. I mean, you don't know any of the history here."
+        ],
+        "after": [
+          "DM: Turns and walks over to Seeker sort of looming over you. “What would you give? What is this boon worth to you, dwarf?”",
+          "DM: She, like runs her—like, reaches out and kind of runs her finger through your—like, almost just not quite touching, but almost touching your beard. “Would you give color of your hair?”",
+          "Seeker: Oh, dear, I am rather attached to my beautiful locks and beard, but—",
+          "DM: “Maybe the color of your eyes?” She leans forward kind of eagerly.",
+          "Seeker: Wow! Oh, dear."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Eventide’s bargain and the Cloudspinner’s stolen colors",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1817",
+        "endUid": "u1906"
+      },
+      "lines": [
+        "%% u1817:0-30, u1818:0-25, u1819:0-20, u1820:0-37 %%",
+        "DM: Turns and walks over to Seeker sort of looming over you. “What would you give? What is this boon worth to you, dwarf?”",
+        "",
+        "%% u1821:0-18, u1822:0-128, u1823:0-14, u1824:0-19 %%",
+        "DM: She, like runs her—like, reaches out and kind of runs her finger through your—like, almost just not quite touching, but almost touching your beard. “Would you give color of your hair?”",
+        "",
+        "%% u1825:0-9, u1826:0-36, u1827:0-20 %%",
+        "Seeker: Oh, dear, I am rather attached to my beautiful locks and beard, but—",
+        "",
+        "%% u1828:0-47, u1829:0-16 %%",
+        "DM: “Maybe the color of your eyes?” She leans forward kind of eagerly.",
+        "",
+        "%% u1830:0-4, u1831:0-9 %%",
+        "Seeker: Wow! Oh, dear.",
+        "",
+        "%% u1832:0-5 %%",
+        "((Brief interjections and persuasion mechanics))",
+        "",
+        "%% u1833:0-3, u1834:0-72 %%",
+        "Seeker: Um. If I lost the color of my eyes, would I still be able to see as before?",
+        "",
+        "%% u1835:0-114, u1836:0-16 %%",
+        "DM: She opens her eyes, and you can see that her pupils are—her eyes are completely colorless. They're just like gray. “I can still see.”",
+        "",
+        "%% u1837:0-3, u1838:0-38, u1839:0-26, u1840:0-29, u1841:0-5 %%",
+        "Seeker: Ah, my beard, maybe the color of my beard. You can take that instead. I—I—I—I quite highly value my— okay.",
+        "",
+        "%% u1842:0-7, u1843:0-49 %%",
+        "Spirala: Perhaps a boon that does not have to come from the dwarf?",
+        "",
+        "%% u1844:0-47 %%",
+        "DM: He is the one who wishes to travel, is he not?",
+        "",
+        "%% u1844:47-76, u1845:0-4, u1846:0-5, u1847:0-9 %%",
+        "Raven: You could take the color from half of my ensemble.",
+        "",
+        "%% u1848:0-48, u1849:0-27 %%",
+        "DM: “You are a creature without color already, Raven. What would I take from you?”",
+        "",
+        "%% u1850:0-14 %%",
+        "Raven: As well as the.",
+        "",
+        "%% u1851:0-37, u1852:0-50 %%",
+        "DM: Reaches forward, like towards Seeker, like reaching for one of the braids of your beard.",
+        "",
+        "%% u1853:0-49 %%",
+        "Seeker: My lady, how did you lose your color in the first—",
+        "",
+        "%% u1854:0-24, u1855:0-5 %%",
+        "((Brief interjections and persuasion mechanics))",
+        "",
+        "%% u1856:0-20, u1857:0-3, u1858:0-11, u1859:0-16, u1860:0-19, u1861:0-19 %%",
+        "DM: “That is a long tale, but perhaps you deserved to know before you consider what you will trade.”",
+        "",
+        "%% u1862:0-17, u1863:0-9, u1864:0-14, u1865:0-19, u1866:0-63, u1867:0-20 %%",
+        "DM: The Cloudspinner, my queen. She would spin threads of the most glorious colors from the sky, from the sunset, from the clouds, from the grass, from.",
+        "",
+        "%% u1868:0-5 %%",
+        "((Brief interjections and persuasion mechanics))",
+        "",
+        "%% u1869:0-14, u1870:0-9, u1871:0-67 %%",
+        "DM: Vivid tales of people's, stories of their travels, from the sound of the music of the court.",
+        "",
+        "%% u1872:0-14, u1873:0-26, u1874:0-13, u1875:0-20, u1876:0-5, u1877:0-14, u1878:0-5, u1879:0-11, u1880:0-18 %%",
+        "DM: And everything was infused with the color of her magic, the golds of sunset. Okay, deep blues and amber hues of the sky and the grass.",
+        "",
+        "%% u1881:0-26, u1882:0-46, u1883:0-18, u1884:0-14, u1885:0-19, u1886:0-20 %%",
+        "DM: She looks over at Caulaus. “He knows, if he won't give it—if he won't say. It was his people. They took her, trapped her for the magic of her threads.",
+        "",
+        "%% u1887:0-13 %%",
+        "Raven: Very ashamed.",
+        "",
+        "%% u1888:0-8, u1889:0-23, u1890:0-31 %%",
+        "DM: And with her spinning wheel, and—one is that you make yarn with?",
+        "",
+        "%% u1891:0-36, u1892:0-40, u1893:0-40, u1894:0-23 %%",
+        "DM: Anyway, with her accoutrements gone, the color drains—drained from the court, and it is only by the gifts of travelers do I have anything left.”",
+        "",
+        "%% u1895:0-20, u1896:0-11, u1897:0-11, u1898:0-5 %%",
+        "Seeker: Colored spots on you from the, um, generosity? Well.",
+        "",
+        "%% u1899:0-49, u1900:0-3, u1901:0-27, u1902:0-19, u1903:0-38, u1904:0-27, u1905:0-65, u1906:0-16 %%",
+        "DM: “You have little choice if you would wish to leave, for crossing at Lastlight Falls can only be crossed when the last light of day strikes the water on the opposite side. And yet how would you know such a time is happening in this place without my gift?”",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: In the first place.",
+          "Raven: No, it is a possibility.",
+          "Caulaus: What? What was your name? The Cloudspinner Spinner did not abandon this place of her own will.",
+          "Caulaus: No, speak—no, like, Caulaus looks sort of annoyed at Raven, like, “Don't speak about these—” and he pauses, “Stories— No, I—I remember something. Anyway, don't speak of them as if you know what what has happened here.” Sort of bows to Lady Eventide slightly.",
+          "Caulaus: I have undertaken to see these—see this, this traveler forward. Would you consider granting your favor to him? I ask nothing for myself. What price would you ask?"
+        ],
+        "after": [
+          "Seeker: You've noticed that time is confusing. Well, I see that your hair is mostly colorless. Ah, and I've got deep red hair. Ah, so perhaps you could leave my beard as it is, but you could take the color of the hair on my head.",
+          "DM: That would look kind of weird.",
+          "DM: “I will take only some of the color of your hair. Well, this—it will go well.”",
+          "DM: She reaches forward, and she grabs like one like thick strand of hair, like like a good sized chunk. But just like one streak, basically, from the hair.",
+          "Seeker: He had white streak down the center of my head."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Color for a thread that shows the other side’s light",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1907",
+        "endUid": "u1978"
+      },
+      "lines": [
+        "%% u1907:0-38, u1908:0-47, u1909:0-7, u1910:0-23, u1911:0-49, u1912:0-51 %%",
+        "Seeker: You've noticed that time is confusing. Well, I see that your hair is mostly colorless. Ah, and I've got deep red hair. Ah, so perhaps you could leave my beard as it is, but you could take the color of the hair on my head.",
+        "",
+        "%% u1913:0-30 %%",
+        "((Brief table comments))",
+        "",
+        "%% u1914:0-11, u1915:0-22, u1916:0-13, u1917:0-10, u1918:0-16 %%",
+        "DM: “I will take only some of the color of your hair. Well, this—it will go well.”",
+        "",
+        "%% u1919:0-135, u1920:0-15 %%",
+        "DM: She reaches forward, and she grabs like one like thick strand of hair, like like a good sized chunk. But just like one streak, basically, from the hair.",
+        "",
+        "%% u1920:15-63 %%",
+        "Seeker: He had white streak down the center of my head.",
+        "",
+        "%% u1920:63-71, u1921:0-79, u1922:0-14, u1923:0-100, u1924:0-3 %%",
+        "DM: Exactly, and as she grasps onto it, you just see, like a flash for a moment of the court as it was with hundreds of fey in this palace that's floating in the sky, resting on a cloud above a golden sunset. Um.",
+        "",
+        "%% u1925:0-28, u1926:0-88, u1927:0-3, u1928:0-15, u1929:0-61, u1930:0-2, u1931:0-26 %%",
+        "DM: The Queen of Sunsets herself dancing, uh, in the court, moving from person to person, dancing with everybody, wearing a, app, a dress of this amazing, like multicolored multi-hued thread like hundreds of, um, hues all weaving together.",
+        "",
+        "%% u1932:0-3 %%",
+        "((Brief table comments))",
+        "",
+        "%% u1933:0-11, u1934:0-137, u1935:0-28, u1936:0-235 %%",
+        "DM: And as she, as she danced, as she moves, like it just ripples, and you can see the waves of color sort of moving out in all directions from the court, and then the image ends, and you have a streak of completely white hair going back down the side, and you can see like this color sort of flow into her hand and move up her arm and then move. And now she has a streak of red hair next to the streak of blonde hair.",
+        "",
+        "%% u1937:0-11, u1938:0-39, u1939:0-13 %%",
+        "DM: She sort of bows, and she says, “I thank you, dwarf.” And she takes.",
+        "",
+        "%% u1940:0-90, u1941:0-64, u1942:0-34, u1943:0-51, u1944:0-20, u1945:0-9, u1946:0-24, u1947:0-15 %%",
+        "DM: Um, the—so there's this one sleeve, that's all colored, brightly colored like golden golden amber, and she takes and begins to unravel one thread from that. And she takes this thread, and she wraps it up, and she hands it to you, and she says, “Do not lose this, for its light will always be the light the other side.”",
+        "",
+        "%% u1948:0-97, u1949:0-14, u1950:0-18 %%",
+        "DM: And as she hands it to you as you take it in your hand, it turns black, turns like midnight dark. It is midnight on the other side.",
+        "",
+        "%% u1951:0-9, u1952:0-24, u1953:0-15, u1954:0-21, u1955:0-70 %%",
+        "DM: “So watch, and when the last golden ray of sunlight catches this thread, Lastlight Falls will open, and you may step through to the other side.”",
+        "",
+        "%% u1956:0-8, u1957:0-18 %%",
+        "Seeker: You see, I thank you, Lady.",
+        "",
+        "%% u1958:0-25 %%",
+        "Raven: We just got to get there.",
+        "",
+        "%% u1959:0-26, u1960:0-24, u1961:0-17, u1962:0-18 %%",
+        "DM: “Getting there is not hard if you stay in the light. It is the shadows that will get you.”",
+        "",
+        "%% u1963:0-28 %%",
+        "Seeker: How do we stay in the light?",
+        "",
+        "%% u1964:0-29, u1965:0-24, u1966:0-29 %%",
+        "DM: “You will see when you arrive. Sunset is all around. It should not be that difficult.”",
+        "",
+        "%% u1967:0-6 %%",
+        "Raven: Onward.",
+        "",
+        "%% u1968:0-11, u1969:0-19, u1970:0-9, u1971:0-20, u1972:0-12, u1973:0-11 %%",
+        "DM: She kind of gives a bow to you. “Thank you for your gift, dwarf, and may your travels the—",
+        "",
+        "%% u1974:0-14, u1975:0-38, u1976:0-15, u1977:0-28, u1978:0-43 %%",
+        "DM: I will not say safe, for I do not think you are going somewhere safe. May your travels be fruitful and accomplish what you seek to accomplish.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Raven: Very ashamed.",
+          "DM: And with her spinning wheel, and—one is that you make yarn with?",
+          "DM: Anyway, with her accoutrements gone, the color drains—drained from the court, and it is only by the gifts of travelers do I have anything left.”",
+          "Seeker: Colored spots on you from the, um, generosity? Well.",
+          "DM: “You have little choice if you would wish to leave, for crossing at Lastlight Falls can only be crossed when the last light of day strikes the water on the opposite side. And yet how would you know such a time is happening in this place without my gift?”"
+        ],
+        "after": [
+          "DM: And you, my friends of Shimmersong. Stay well. And Caulaus, do not return again so casually, without an apology and a plan to undo the wrongs you did.",
+          "Seeker: Well.",
+          "DM: I sense, you are lost, but there is hope to be found. The war, you remember, is long over, but other wars—other wars still rage.”",
+          "Caulaus: Remember. Caulaus looks a little small, almost like he's a little bit lost. But like he's remembering something. Great lady, where would you walk for hope? Do not know how I can atone until I can remember what I did.",
+          "DM: “Amberglow holds nothing for you anymore. Why do you linger here? What is it you hope to find in this place?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Atonement and hope for Caulaus",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1979",
+        "endUid": "u2026"
+      },
+      "lines": [
+        "%% u1979:0-8, u1980:0-26, u1981:0-9, u1982:0-12, u1983:0-19, u1984:0-12, u1985:0-57 %%",
+        "DM: And you, my friends of Shimmersong. Stay well. And Caulaus, do not return again so casually, without an apology and a plan to undo the wrongs you did.",
+        "",
+        "%% u1986:0-5 %%",
+        "Seeker: Well.",
+        "",
+        "%% u1987:0-16, u1988:0-5, u1989:0-30, u1990:0-51, u1991:0-22 %%",
+        "DM: I sense, you are lost, but there is hope to be found. The war, you remember, is long over, but other wars—other wars still rage.”",
+        "",
+        "%% u1992:0-9, u1993:0-22, u1994:0-36, u1995:0-19, u1996:0-21, u1997:0-12, u1998:0-30, u1999:0-6, u2000:0-53 %%",
+        "Caulaus: Remember. Caulaus looks a little small, almost like he's a little bit lost. But like he's remembering something. Great lady, where would you walk for hope? Do not know how I can atone until I can remember what I did.",
+        "",
+        "%% u2001:0-9, u2002:0-30, u2003:0-23, u2004:0-27, u2005:0-14 %%",
+        "DM: “Amberglow holds nothing for you anymore. Why do you linger here? What is it you hope to find in this place?",
+        "",
+        "%% u2006:0-10, u2007:0-3, u2008:0-11, u2009:0-23, u2010:0-15, u2011:0-26, u2012:0-40, u2013:0-9, u2014:0-75, u2015:0-25, u2016:0-5, u2017:0-11 %%",
+        "DM: There are, you are blessed with freedom to wander, travel onwards, seek twilight and evening, or seek the morning to the West. Perhaps there are—in the wide expanses of this world that I cannot visit, there must be clues to where the Cloudspinner still is trapped.”",
+        "",
+        "%% u2018:0-31, u2019:0-9, u2020:0-14, u2021:0-30 %%",
+        "Caulaus: I stay here, reliving the past—feels not like the past, but I will think on your words.",
+        "",
+        "%% u2022:0-46, u2023:0-7, u2024:0-26, u2025:0-27, u2026:0-20 %%",
+        "DM: “You have been here too long. But yes, do think and go. Keep your companions safe. That, at least is atonement in the here and now.”",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: How do we stay in the light?",
+          "DM: “You will see when you arrive. Sunset is all around. It should not be that difficult.”",
+          "Raven: Onward.",
+          "DM: She kind of gives a bow to you. “Thank you for your gift, dwarf, and may your travels the—",
+          "DM: I will not say safe, for I do not think you are going somewhere safe. May your travels be fruitful and accomplish what you seek to accomplish."
+        ],
+        "after": [
+          "Unknown: So.",
+          "Caulaus: I lost a tiny bit of track of what she told us to do. Just find the place where they, in the light thing shows that it's light basically.",
+          "DM: And stay in the light. And you gotta find—I mean, the line line of trees again. You know how to find that, right? Right? Right, right. Let's go.",
+          "Spirala: The back door in palace. We look for the trees, and we chop down each tree.",
+          "Caulaus: Totally burn them to the ground."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Kenzo at Lastlight Falls",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2234",
+        "endUid": "u2246"
+      },
+      "lines": [
+        "%% u2234:0-58, u2235:0-3, u2236:0-1, u2237:0-5, u2238:0-7, u2239:0-130, u2240:0-2, u2241:0-20 %%",
+        "DM: And you see sitting in meditation at the top of the cliff, um, a human wearing, um, robes, with holding this wooden staff that's carved with like all sorts of runes and decorations, two pieces of jade on the top. Um, ah, hood thrown back.",
+        "",
+        "%% u2242:0-82, u2243:0-11 %%",
+        "((Session ending aside))",
+        "",
+        "%% u2244:0-21, u2245:0-59, u2246:0-143 %%",
+        "DM: ((Departure aside)) The the, um, human Kenzo at the top of the cliff, like, waves down to you, and starts to make his way down, as you say goodbye to your companions.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: So as.",
+          "Spirala: You two just magic yourself, out of your problems.",
+          "Caulaus: Yup. Why would you really do anything else if I were magic? For—",
+          "DM: So, as you make the last step through this, through these trees, you see in front of you, ah, glorious, rolling plain of beautiful, colorful like a field of flowers. Um!",
+          "DM: In the middle, a cliff that has just like like a a waterfall that doesn't have quite enough water for the water to totally reach the bottom and form a pool, but it's this beautiful sort of rainbow spray cascading down the side of the cliff."
+        ],
+        "after": [
+          "Raven: You know.",
+          "Caulaus: Caulaus will sort of salute, and wish you a good journey. Um! And look at the other two clearly fey creatures, and sort of nod at you and say, “I do not think you need guidance here.”",
+          "Raven: I am going. It is almost time for {{a spoil}} to return to the caves and hibernate. I wouldn't want to miss that.",
+          "Spirala: For perhaps you could be a guide for Caulaus, and he could explore Shimmersong.",
+          "Raven: Who."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "The ring spirit asks for the nearby grove",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2289",
+        "endUid": "u2311"
+      },
+      "lines": [
+        "%% u2289:0-96, u2290:0-80, u2291:0-47, u2292:0-15, u2293:0-2, u2294:0-7, u2295:0-65, u2296:0-3, u2297:0-15, u2298:0-17, u2299:0-4, u2300:0-30, u2301:0-52 %%",
+        "DM: ((Departures and anticipated reunion)) And as—um, as they—as everybody leaves, Seeker, you hear a little voice in your head: “Oh, we're so close. The grove is just—hmm—a short distance east of here. You're actually going to bring me there, aren't you?”",
+        "",
+        "%% u2302:0-36 %%",
+        "Seeker: I have a fey girl trapped in a ring.",
+        "",
+        "%% u2303:0-7 %%",
+        "Raven: A what?",
+        "",
+        "%% u2304:0-16, u2305:0-24 %%",
+        "Seeker: Of a fey spirit who I brought back here.",
+        "",
+        "%% u2306:0-17 %%",
+        "Raven: The Cloudspinner?",
+        "",
+        "%% u2307:0-3, u2308:0-13, u2309:0-7, u2310:0-37, u2311:0-32 %%",
+        "Seeker: No. [garbled] person. Perhaps Raven can help you with that. Oh, but we haven't already left.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yes.",
+          "Raven: It was that.",
+          "DM: That was just Eric and Kong.",
+          "Seeker: Right. That was kind of the dark.",
+          "Raven: I made all the monsters you're watching, so."
+        ],
+        "after": [
+          "Raven: Uh, sorry, who?",
+          "Caulaus: Raven? Well, we're—we're in. We're in. We' to have a fey spirit to guide back somewhere, and maybe recover a few memories. That'd be a fun imaginary one shot that I would never actually happen. But but that'd be sort of cool.",
+          "Raven: You have to give up the ring, though.",
+          "Caulaus: Yeah, you would have to give up the ring.",
+          "DM: But what is the ring? I mean, it's totally up to you. Just give you advantage on saving throws against being charmed, and."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Free Typhina or entrust the ring to Caulaus: undecided",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2333",
+        "endUid": "u2344"
+      },
+      "lines": [
+        "%% u2333:0-76, u2334:0-79, u2335:0-130, u2336:0-137, u2337:0-34, u2338:0-3 %%",
+        "((Future-session planning))",
+        "",
+        "%% u2338:3-61 %%",
+        "Seeker: We could all go free Typhina. Is that what you're saying?",
+        "",
+        "%% u2338:61-142, u2339:0-49 %%",
+        "DM: I'm saying you can. You can either. You don't have to decide now, if you want to give Caulaus the ring or not, you can retcon it.",
+        "",
+        "%% u2340:0-127, u2341:0-26, u2342:0-19, u2343:0-26, u2344:0-5 %%",
+        "DM: We can just leave it sort of this weird, ambiguous thing. And then, once you've all discussed it, Seeker, it can either be like, “Let's go free Typhina,” or so it could be like “I gave Typhina to Caulaus.” I see.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Spirala: I'm immune to being put to sleep. So, you know, my feyness is better than your feyness. Why don't you go to sleep then?",
+          "Raven: Good night, Isaac.",
+          "Spirala: Hearing this banging voice.",
+          "Seeker: I like the idea of closing the arc of.",
+          "DM: You're not right now. Um, uh."
+        ],
+        "after": [
+          "Caulaus: Squared away. Um, I'm going to say good night. Good night. Yeah, I'm tired. I'm going to go to bed, too. But yeah, that that was fun, Tim. Yeah, I—I like the like, he the way—I—I enjoyed playing that character.",
+          "Caulaus: I like riffing. I mean, we didn't role play that, like the riffing off of, uh, with him, and I had not made up anything, right? I didn't know where the Cloudspinner was. That was all totally—",
+          "DM: Person taken by Drankor who spins thread of—but multicolored thread was obvious enough for you? Person. Obviously not. Think about it for a while.",
+          "Unknown: For both of you.",
+          "Caulaus: The person taken by Drankor who spins? Oh, that was in the story that— Oh, Cloudspinner."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "A conjecture about the multicolored cloak",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2354",
+        "endUid": "u2364"
+      },
+      "lines": [
+        "%% u2354:0-44, u2355:0-74, u2356:0-14 %%",
+        "DM: Taken by Drankor, spins multicolored thread. Think about it. Someday it will come to you who spins multicolored thread. That's better.",
+        "",
+        "%% u2357:0-9, u2358:0-64, u2359:0-10 %%",
+        "Caulaus: Yeah, but do we know something made of multicolored thread, that artifact? The cloak?",
+        "",
+        "%% u2360:0-43, u2361:0-20 %%",
+        "DM: I'm not gonna tell you if you're right. But just think about it.",
+        "",
+        "%% u2362:0-34, u2363:0-84 %%",
+        "Caulaus: It is made of multicolored thread. Do we have something Drankorian that's made of multicolored thread, that's magical?",
+        "",
+        "%% u2364:0-19 %%",
+        "Seeker: Don't overthink it.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Caulaus: Squared away. Um, I'm going to say good night. Good night. Yeah, I'm tired. I'm going to go to bed, too. But yeah, that that was fun, Tim. Yeah, I—I like the like, he the way—I—I enjoyed playing that character.",
+          "Caulaus: I like riffing. I mean, we didn't role play that, like the riffing off of, uh, with him, and I had not made up anything, right? I didn't know where the Cloudspinner was. That was all totally—",
+          "DM: Person taken by Drankor who spins thread of—but multicolored thread was obvious enough for you? Person. Obviously not. Think about it for a while.",
+          "Unknown: For both of you.",
+          "Caulaus: The person taken by Drankor who spins? Oh, that was in the story that— Oh, Cloudspinner."
+        ],
+        "after": [
+          "DM: Just don't—don't totally forget about it. I'll write up sessions for all of these one shots, but during Thanksgiving break, so—okay, good night, everybody. Good night. Okay.",
+          "Caulaus: See you guys later."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

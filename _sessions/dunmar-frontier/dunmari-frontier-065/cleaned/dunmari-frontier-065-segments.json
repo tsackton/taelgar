@@ -1,0 +1,118 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-065",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-session.yaml",
+    "sessionYamlSha256": "5b985bd7577bb84d3521f0d403c8383a38a213eb2c1e0c8f751d9e619d0549bc",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-transcript.md",
+    "transcriptSha256": "e3b40efcd12325bcbdf366817c19798a864efa49f78ee26df594cf4a0d661cf2"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0690"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0691",
+        "endUid": "u0711"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0712",
+        "endUid": "u0829"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0830",
+        "endUid": "u1523"
+      },
+      "category": "combat",
+      "note": "One continuous initiative encounter; all tactical and technical interruptions remain inside combat."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1524",
+        "endUid": "u2189"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2190",
+        "endUid": "u2207"
+      },
+      "category": "table_talk",
+      "note": "The final shared-UID group includes the return to an announced action after sustained audio troubleshooting."
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2208",
+        "endUid": "u2268"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2269",
+        "endUid": "u2288"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2289",
+        "endUid": "u2311"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2312",
+        "endUid": "u2344"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2345",
+        "endUid": "u2347"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2348",
+        "endUid": "u2364"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2365",
+        "endUid": "u2367"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

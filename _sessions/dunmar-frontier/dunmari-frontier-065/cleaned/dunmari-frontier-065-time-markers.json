@@ -1,0 +1,333 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-065",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-session.yaml",
+    "sessionYamlSha256": "5b985bd7577bb84d3521f0d403c8383a38a213eb2c1e0c8f751d9e619d0549bc",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-transcript.md",
+    "transcriptSha256": "e3b40efcd12325bcbdf366817c19798a864efa49f78ee26df594cf4a0d661cf2",
+    "yamlDates": {
+      "start": "1748-10-13",
+      "end": "1748-11-13"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0008",
+        "endUid": "u0022"
+      },
+      "reading": "Before reaching Amberglow, Seeker, Raven and Spirala spend an uncertain week, two or three traveling and visiting Shimmersong; Seeker fashions his glove during that stay.",
+      "evidence": [
+        {
+          "startUid": "u0008",
+          "endUid": "u0012",
+          "quote": "DM: Um, and passing through Shimmersong, where you spent a fair bit of time, although it's hard to know how long in the Feywild any time is: traveling to the groves of stone trees from which the most delicious fruit of all varieties grow; spending time among the forested valleys where giant spiders spin webs of gossamer silver; traveling to the summer court of the Lightdancer, vibrant whirlwind of color and song and food and dance."
+        },
+        {
+          "startUid": "u0013",
+          "endUid": "u0016",
+          "quote": "DM: And Seeker spending some time learning the— about the crystallized magic gifted to you by Illaran, and fashioning it into an item you can use, which I just added to your character sheet."
+        },
+        {
+          "startUid": "u0018",
+          "endUid": "u0022",
+          "quote": "DM: Now, though, after a week, two, three, it's hard to say— you've left Shimmersong, and come to the decaying realm of Amberglow in search of—"
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala"
+      ],
+      "duration": {
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Narrated elapsed interval",
+        "text": "a week, two, three; hard to say"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0023",
+        "endUid": "u0024"
+      },
+      "reading": "The opening grants the characters a completed long rest, without identifying its start, end or an overnight boundary.",
+      "evidence": [
+        {
+          "startUid": "u0023",
+          "endUid": "u0024",
+          "quote": "DM: Uh, yes, everybody got a long rest. Go ahead and take a long rest. Yeah, good call. Ah!"
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala",
+        "Caulaus"
+      ],
+      "duration": {
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention applied to explicit awarded long-rest benefits",
+        "value": 8
+      },
+      "completion": "completed",
+      "note": "This credit is not evidence of an additional night after the preceding montage; its position within that elapsed play is unspecified."
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0333",
+        "endUid": "u0334"
+      },
+      "reading": "During the approach through the Golden Hills, Amberglow has stationary late-afternoon light; the sun has not moved for millennia.",
+      "evidence": [
+        {
+          "startUid": "u0333",
+          "endUid": "u0334",
+          "quote": "DM: And again it's—it's hard to judge the passing of time exactly, especially because the sun doesn't move in the sky. Late afternoon here, and have been for millennia."
+        },
+        {
+          "startUid": "u1682",
+          "endUid": "u1686",
+          "quote": "DM: There used to be more color. It's sunset. Everywhere is sunset, like early sunset, as as the sky is just beginning to light up. But the color is flat, especially this—clad—this crashed ruins of the Cloud Palace, and you can see in this hall."
+        }
+      ],
+      "time": {
+        "partOfDay": "late afternoon",
+        "precision": "approximate",
+        "basis": "DM describes fixed illumination, not a progressing civil clock"
+      },
+      "note": "The later early-sunset description at the Cloud Palace refers to the same unchanging sky."
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0740",
+        "endUid": "u0747"
+      },
+      "reading": "Raven spends about twenty seconds sending the group whispered messages before the stealthy approach.",
+      "evidence": [
+        {
+          "startUid": "u0740",
+          "endUid": "u0747",
+          "quote": "Raven: Oh, so just my— I'll just point to—I'll point to Spirala, and then I'll point to everyone like over the course of like twenty-ish seconds, and send them all the message, “You can reply to this in a whisper, um, that only I can hear, um.” Just say—"
+        }
+      ],
+      "actors": [
+        "Raven"
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Player explicitly narrates approximately twenty seconds of messages",
+        "value": 0.3333333333333333
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1611",
+        "endUid": "u1619"
+      },
+      "reading": "The group completes a short rest in the ravine before setting out onto the plains; Raven’s healing is inserted before that same rest.",
+      "evidence": [
+        {
+          "startUid": "u1611",
+          "endUid": "u1619",
+          "quote": "Raven: Can we short rest, or should we do that? Let's do a—\n\nDM: Now you can rest if you want to.\n\nRaven: I would like to short rest for short resting. I will.\n\nDM: So, as you take some time to gather your breath, take a brief breather before you step out onto the plains, um, you can see, like, the the dirt that's been like grown over these, um, creatures begins to sort of pile up almost like making a grave. And, um, it—like it's almost like, yeah, like the dirt crawling to form this kind of pile around these three dead bodies."
+        },
+        {
+          "startUid": "u1620",
+          "endUid": "u1639",
+          "quote": "Raven: Oh, twenty-six, that's really good [garbled]. Right? And that's part of my my ki. Wait, oh, I didn't roll the hit dice. Um, I—no, I—I was like, I'm good, the two, and oh, actually, before I—can I— can I just do this before I short rest? Can I just spend my last two ki on Hand of Healing? Does anyone need like, how much healing do people need?\n\nCaulaus: Done? I'm fine.\n\nRaven: Alright, fine.\n\nSeeker: I.\n\nRaven: No, all right. So this is for you. Four. That's like the worst roll, or whatever, to heal you again. Uh, oh, that was the wrong one, the four and seven, so eleven total.\n\nSeeker: To me. Thank you."
+        },
+        {
+          "startUid": "u1642",
+          "endUid": "u1650",
+          "quote": "DM: So as you set out onto these amber plains, you—you can. It's this clear, flat expanse as far as the eye can see. In fact, you can see in the distance this ruined, ah, crumbling palace. It looks like—it looks like a—it was once like a floating airship, with like these, like elaborate wrought iron designs, and, you know, banners and streamers hanging off of it, and it's crashed into the ground on its side, and those just like tatter, like twisted iron and cracked. Um! Everything is cracked. One part of it is like twisted and like broken in half like that, so like one part of it is still upright, and another part of it has rotated like thirty degrees with a with a crack. It's hard to judge the distance, although the direction is obvious. Um."
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala",
+        "Caulaus"
+      ],
+      "duration": {
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Short-rest convention; accepted rest and subsequent departure establish completion",
+        "value": 1
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1919",
+        "endUid": "u1924"
+      },
+      "reading": "During Seeker’s color trade, narration shifts into a brief vision of the palace’s former court.",
+      "evidence": [
+        {
+          "startUid": "u1919",
+          "endUid": "u1924",
+          "quote": "DM: She reaches forward, and she grabs like one like thick strand of hair, like like a good sized chunk. But just like one streak, basically, from the hair.\n\nSeeker: He had white streak down the center of my head.\n\nDM: Exactly, and as she grasps onto it, you just see, like a flash for a moment of the court as it was with hundreds of fey in this palace that's floating in the sky, resting on a cloud above a golden sunset. Um."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "context": "vision",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "anchor": "the current ruined palace and color trade"
+        },
+        "precision": "approximate",
+        "basis": "Vision shows the former floating court, without a date"
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1933",
+        "endUid": "u1936"
+      },
+      "reading": "The court image ends and play returns to the color trade: Seeker’s hair is white and Eventide gains a red streak.",
+      "evidence": [
+        {
+          "startUid": "u1933",
+          "endUid": "u1936",
+          "quote": "DM: And as she, as she danced, as she moves, like it just ripples, and you can see the waves of color sort of moving out in all directions from the court, and then the image ends, and you have a streak of completely white hair going back down the side, and you can see like this color sort of flow into her hand and move up her arm and then move. And now she has a streak of red hair next to the streak of blonde hair."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1948",
+        "endUid": "u1950"
+      },
+      "reading": "The newly received thread turns midnight black, establishing midnight on the other side of the crossing while the party is at the Cloud Palace.",
+      "evidence": [
+        {
+          "startUid": "u1948",
+          "endUid": "u1950",
+          "quote": "DM: And as she hands it to you as you take it in your hand, it turns black, turns like midnight dark. It is midnight on the other side."
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "time": {
+        "partOfDay": "midnight",
+        "precision": "exact",
+        "basis": "DM explicitly identifies the time on the other side from the thread’s color"
+      },
+      "note": "This remote clock has no spoken date and does not synchronize Amberglow’s stationary sunlight. The sunset opening of the portal remains a future condition."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2033",
+        "endUid": "u2046"
+      },
+      "reading": "After leaving the Cloud Palace, the group spends more time traveling across the plains before approaching the line of trees.",
+      "evidence": [
+        {
+          "startUid": "u2033",
+          "endUid": "u2046",
+          "quote": "DM: So as you—as you approach, um, uh, you know you spend some more time traveling through this this, uh, these plains of of of grass, the sunset, um, low in this, ah, the sun low in the sky, and you can see now in the distance, um, this line of trees that Caulaus is leading you towards, and you can see, as you begin to approach, the long shadows cast by these trees."
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala",
+        "Caulaus"
+      ],
+      "duration": {
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Narrated elapsed interval",
+        "text": "some more time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2150",
+        "endUid": "u2155"
+      },
+      "reading": "About a minute into the narrowing shadow path, the companions notice Caulaus has stopped as the darkness gathers around him.",
+      "evidence": [
+        {
+          "startUid": "u2150",
+          "endUid": "u2155",
+          "quote": "DM: Ah, you see, you all like start to go forward again, like you're walking this like narrow path down. It's getting narrower and narrower. Um, and you you notice, like about, after about a minute that Caulaus has stopped moving, and the darkness is beginning to like creep for him. It's almost not even that the darkness is moving. It's that where he is standing is beginning to get just darker and darker and darker."
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Raven",
+        "Spirala",
+        "Caulaus"
+      ],
+      "duration": {
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM explicitly advances the ongoing approach by about a minute",
+        "value": 1
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No absolute adventure date is spoken. The October 13–November 13, 1748 range and year come from YAML; midnight is a remote clock observation without a date.",
+    "expectedDateBoundaries": 31,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t10"
+    ],
+    "explanation": "The opening resolves an uncertain Shimmersong stay before Amberglow, then grants a long rest. A later short rest and brief advances establish elapsed play but no complete calendar count. Neither fixed sunlight, the historical vision, nor the other side’s midnight supplies missing days. Play ends at Lastlight Falls before a crossing, with future arrivals still awaited; the 31-day YAML span is not independently verified or contradicted."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t01",
+        "t02"
+      ],
+      "reading": "The opening long-rest credit is not placed relative to the montage’s beginning or to a civil night, so it cannot extend the session’s start boundary by itself.",
+      "alternatives": [
+        {
+          "reading": "The credited rest occurred within the summarized Shimmersong stay."
+        },
+        {
+          "reading": "The rest precedes the immediate Amberglow expedition, with its relation to the montage and recorded start left unspecified."
+        }
+      ]
+    }
+  ]
+}
