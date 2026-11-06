@@ -1,0 +1,953 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-060",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml",
+    "sessionYamlSha256": "3078eedcc3384eae4640d677134118462f1f3f5318b8c5fab8de27d527549b7f",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-transcript.md",
+    "transcriptSha256": "f32f7209d66427995985c907deab9868a0ec590bf722c8a8f1c825614ff997d9"
+  },
+  "places": {
+    "p01": {
+      "label": "Te'kula village",
+      "kind": "village",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "as you leave the village of the Te'kula following Theba and your friends from the dream world that that Deno'qai tribe had been hiding in, back to the material world"
+        }
+      ],
+      "vaultPath": "Gazetteer/Central Highlands/Neshet.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0006",
+              "quote": "from the dream world that that Deno'qai tribe had been hiding in"
+            }
+          ]
+        }
+      ],
+      "note": "Neshet.md identifies this village; its later Material Plane whereabouts are not imported into the opening demiplane scene."
+    },
+    "p02": {
+      "label": "Collapsing forest pocket dimension",
+      "kind": "demiplane",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "that fabric of the dream space of the pocket dimension collapses around you as you leave"
+        },
+        {
+          "startUid": "u0008",
+          "endUid": "u0011",
+          "quote": "DM: And as you walk the world slowly fades around you until you're pulled back to your friends suddenly in a jumbled collection of images as the pocket dimension collapses: a meadow of golden butterflies, a forest of pines and maples high on a mountain slope, a dense tropical forest."
+        }
+      ],
+      "note": "The subsequent forest images accompany the displacement; they do not establish intermediate physical visits."
+    },
+    "p03": {
+      "label": "Wave Dancer",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u0023",
+          "endUid": "u0025",
+          "quote": "DM: And the next moment you find yourself and Baxter on the deck of the halfling ship, surrounded by halflings, um, silent, determined, but clearly in a state of exhaustion, grimly watching their pursuer bearing down on you."
+        },
+        {
+          "startUid": "u0550",
+          "endUid": "u0556",
+          "quote": "you land on the deck of the Wave Dancer"
+        }
+      ],
+      "mobile": true,
+      "vaultPath": "Things/Ships/Wave Dancer.md",
+      "aliases": [
+        "halfling ship"
+      ]
+    },
+    "p04": {
+      "label": "Cargo hold",
+      "kind": "hold",
+      "evidence": [
+        {
+          "startUid": "u0190",
+          "endUid": "u0204",
+          "quote": "helps you get— ah, get Baxter stowed."
+        },
+        {
+          "startUid": "u0198",
+          "endUid": "u0204",
+          "quote": "DM: But there's a cargo hold. You can see, the hold is packed with furs, hides, and then in one corner there's what looks like a— ah, so, a bundle of hide that looks like white dragon scales, like somebody had skinned a dragon."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0197",
+              "endUid": "u0204",
+              "quote": "The—the hold—I mean, this is the layout of many halfling ships."
+            },
+            {
+              "startUid": "u0198",
+              "endUid": "u0204",
+              "quote": "DM: But there's a cargo hold. You can see, the hold is packed with furs, hides, and then in one corner there's what looks like a— ah, so, a bundle of hide that looks like white dragon scales, like somebody had skinned a dragon."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Green Sea",
+      "kind": "sea",
+      "evidence": [
+        {
+          "startUid": "u0071",
+          "endUid": "u0078",
+          "quote": "But out on the wide Green Sea, like, there's all sorts of rumors."
+        },
+        {
+          "startUid": "u0639",
+          "endUid": "u0643",
+          "quote": "the Eastern Isles: a thousand ever changing islands that span the entire mouth of the Green Sea."
+        }
+      ],
+      "vaultPath": "Gazetteer/Green Sea.md"
+    },
+    "p06": {
+      "label": "Skullcleaver pirate ship",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u0019",
+          "endUid": "u0022",
+          "quote": "DM: Chasing it, a few miles behind, but gaining quickly, is a sleek warship, a huge ballista mounted on its bow. Well, it's too far in the distance from this vantage point for you to make out any particular details. The flag flying from the tallest mast, depicting a skull cleaved in two by a massive axe, cannot be a good sign."
+        },
+        {
+          "startUid": "u0305",
+          "endUid": "u0309",
+          "quote": "this is clearly a hobgoblin ship."
+        }
+      ],
+      "mobile": true,
+      "aliases": [
+        "hobgoblin ship",
+        "pirate ship"
+      ]
+    },
+    "p07": {
+      "label": "Pirate ship’s crow’s nest",
+      "kind": "crow’s nest",
+      "evidence": [
+        {
+          "startUid": "u0372",
+          "endUid": "u0374",
+          "quote": "DM: Let's say you succeed. Ah, land on the crow's nest, which I'm going to say gives you half cover. But as you land—"
+        },
+        {
+          "startUid": "u0421",
+          "endUid": "u0425",
+          "quote": "you're at the high point of the middle mast."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0364",
+              "endUid": "u0382",
+              "quote": "Ah, land on the crow's nest, which I'm going to say gives you half cover."
+            },
+            {
+              "startUid": "u0421",
+              "endUid": "u0425",
+              "quote": "you're at the high point of the middle mast."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Devil's Spine",
+      "kind": "seamounts",
+      "evidence": [
+        {
+          "startUid": "u0050",
+          "endUid": "u0050",
+          "quote": "DM: “We're about a day's sail east of the Devil's Spine.”"
+        },
+        {
+          "startUid": "u0618",
+          "endUid": "u0623",
+          "quote": "DM: This island—the eastern end of this island is a series of little Uh, seamounts called the Devil's Spine. Hobgoblin pirates control much of this territory here. Yeah."
+        }
+      ],
+      "note": "No matching page was found among Gazetteer filenames, names/aliases, spelling variants or full-text references. The Wave Dancer is east of it; no visit is established."
+    },
+    "p09": {
+      "label": "Eastern Isles",
+      "kind": "archipelago",
+      "evidence": [
+        {
+          "startUid": "u0639",
+          "endUid": "u0643",
+          "quote": "DM: Now where we're heading, the Eastern Isles: a thousand ever changing islands that span the entire mouth of the Green Sea. They change every time we go: shift, move around, sometimes drifting in, sometimes drifting out."
+        },
+        {
+          "startUid": "u0944",
+          "endUid": "u0949",
+          "quote": "you see the first of the Eastern Isles"
+        }
+      ],
+      "vaultPath": "Gazetteer/Eastern Green Sea/Eastern Isles.md"
+    },
+    "p10": {
+      "label": "Vermillion Isles",
+      "kind": "archipelago",
+      "evidence": [
+        {
+          "startUid": "u0775",
+          "endUid": "u0779",
+          "quote": "DM: They've lived in Wahacha a long time. The Vermillion Isles, we call them. It's a group of four or five islands that tend to cluster together, always can be found in close proximity to each other. Beautiful red stone cliffs stretching off from the blue ocean."
+        },
+        {
+          "startUid": "u1080",
+          "endUid": "u1085",
+          "quote": "you can see there's four islands in this archipelago, all—all of the same red stone"
+        }
+      ],
+      "vaultPath": "Gazetteer/Eastern Green Sea/Vermillion Isles.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u0650",
+              "endUid": "u0672",
+              "quote": "We are—we are heading for— it's an archipelago where they, uh, kenku live."
+            },
+            {
+              "startUid": "u0775",
+              "endUid": "u0779",
+              "quote": "DM: They've lived in Wahacha a long time. The Vermillion Isles, we call them. It's a group of four or five islands that tend to cluster together, always can be found in close proximity to each other. Beautiful red stone cliffs stretching off from the blue ocean."
+            },
+            {
+              "startUid": "u0944",
+              "endUid": "u0955",
+              "quote": "you see the first of the Eastern Isles"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Kenku port town",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0775",
+          "endUid": "u0779",
+          "quote": "DM: They've lived in Wahacha a long time. The Vermillion Isles, we call them. It's a group of four or five islands that tend to cluster together, always can be found in close proximity to each other. Beautiful red stone cliffs stretching off from the blue ocean."
+        },
+        {
+          "startUid": "u1013",
+          "endUid": "u1022",
+          "quote": "Greetings, welcome to our town."
+        }
+      ],
+      "vaultPath": "Gazetteer/Eastern Green Sea/Wahacha.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u0950",
+              "endUid": "u0955",
+              "quote": "on one of the larger islands"
+            },
+            {
+              "startUid": "u1089",
+              "endUid": "u1094",
+              "quote": "you're on the westernmost."
+            }
+          ]
+        }
+      ],
+      "note": "Verified as Wahacha from Wahacha.md and the Wave Dancer’s destination. Wella’s earlier wording uses Wahacha broadly for the kenku island area; the named settlement and the Vermillion archipelago remain separate identities."
+    },
+    "p12": {
+      "label": "Westernmost island",
+      "kind": "island",
+      "evidence": [
+        {
+          "startUid": "u1089",
+          "endUid": "u1094",
+          "quote": "DM: Yeah, so it's about, uh, it's only about sixty miles, uh, from where you are across this island, across the, uh, adjacent island. The—the islands are arranged in, like, a diamond, right? So this one, this one, this one, and you're on the westernmost. You're looking across the easternmost one to the Endless Ocean, um stretching forever, as far as you can tell."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1080",
+              "endUid": "u1085",
+              "quote": "you can see there's four islands in this archipelago"
+            },
+            {
+              "startUid": "u1089",
+              "endUid": "u1094",
+              "quote": "The—the islands are arranged in, like, a diamond, right? So this one, this one, this one, and you're on the westernmost."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Highest pinnacle village",
+      "kind": "village",
+      "evidence": [
+        {
+          "startUid": "u1074",
+          "endUid": "u1078",
+          "quote": "DM: He soars. “Well, let’s go to the highest point first, then,” and he soars up on a thermal, spiraling up, and you can see now, once you get to the top of the cliffs, this is probably just about in your range with one breath, um,"
+        },
+        {
+          "startUid": "u1080",
+          "endUid": "u1085",
+          "quote": "And he flies up to the top with you, and he lands"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1076",
+              "endUid": "u1078",
+              "quote": "set back a little bit from the coast"
+            },
+            {
+              "startUid": "u1089",
+              "endUid": "u1094",
+              "quote": "you're on the westernmost."
+            }
+          ]
+        }
+      ],
+      "note": "The source connects this stop to Makha’s town tour but does not define the settlement boundary around the island’s villages."
+    },
+    "p14": {
+      "label": "Central canyon village",
+      "kind": "village",
+      "evidence": [
+        {
+          "startUid": "u1191",
+          "endUid": "u1193",
+          "quote": "DM: He soars up, catches an updraft to a sort of second village that's set right in the sort of center of the—of the—of the island. There's a—there's a cliff, and there's a spring, like a— not a big river, right? But there's, like, enough water here that drains down through this, like, a waterfall that cascades down to this canyon and then flows out to the ocean on the other side of the island. And there's the, like, second village of this island is just built into the sides of this canyon on both sides of the river."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1191",
+              "endUid": "u1193",
+              "quote": "a sort of second village that's set right in the sort of center of the—of the—of the island."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Canyon food stall",
+      "kind": "food stall",
+      "evidence": [
+        {
+          "startUid": "u1194",
+          "endUid": "u1203",
+          "quote": "DM: Soars down. Now you're kind of reaching your, um, your limit, and he up— curves into a, um, a little cluster of— um, there's, like, a landing area that kind of bulges out from the cliff, and then there's, um, um like, secondary canyon that's been carved so that it's exposed to the light, and there's this little cluster of buildings, and he—there's a tavern there, and he—yeah, there's a— like a little food stall, basically. He takes you, and he says, uh, “My treat, our speciality,” and he, um, uh, um,"
+        },
+        {
+          "startUid": "u1204",
+          "endUid": "u1207",
+          "quote": "DM: It's about lunch time. So for lunch, these are like—it's, ah, fish tacos, basically, fried fish wrapped in a—in a flatbread with, like, this very spicy, uh, pepper relish."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p14",
+          "evidence": [
+            {
+              "startUid": "u1191",
+              "endUid": "u1193",
+              "quote": "second village of this island is just built into the sides of this canyon on both sides of the river."
+            },
+            {
+              "startUid": "u1194",
+              "endUid": "u1203",
+              "quote": "there's a— like a little food stall, basically. He takes you"
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Clifftop above the harbor",
+      "kind": "clifftop",
+      "evidence": [
+        {
+          "startUid": "u1214",
+          "endUid": "u1222",
+          "quote": "DM: Soars up into the sky, like, circles around and coasts down towards ah, towards the cliff where the sort of port in the harbor is."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1214",
+              "endUid": "u1222",
+              "quote": "coasts down towards ah, towards the cliff where the sort of port in the harbor is."
+            }
+          ]
+        },
+        {
+          "relation": "above",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u1217",
+              "endUid": "u1222",
+              "quote": "stuff being dropped down on this lift down to the boats"
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Harbor and docks",
+      "kind": "harbor",
+      "evidence": [
+        {
+          "startUid": "u0950",
+          "endUid": "u0955",
+          "quote": "DM: Uh, until you see the islands in the distance, and—and you see, um, you can see, like, there's a—a few small islands that are uninhabited, that are just like these red cliffs, um, And then as you get a little bit closer, you can see that there's— on one of the larger islands, it's still all these cliffs, but there's a harbor that's a sheltered harbor that's been constructed with a pier and a few, um, a few buildings and some caves, some dwelling, some warehouses, some storage carved into the cliffs. There is, um, what looks like a lift, like a wooden platform that can be raised and lowered with pulleys."
+        },
+        {
+          "startUid": "u0975",
+          "endUid": "u0976",
+          "quote": "as the ship comes into this—this enclosed harbor and docks"
+        },
+        {
+          "startUid": "u0981",
+          "endUid": "u0984",
+          "quote": "DM: And as—as the Wave Dancer pulls into dock, um, uh-huh. Wella gets out and, you know, moving—moving slowly and—and kind of unsteadily as she—as she, uh, walks onto the dock on—on dry land after more than two weeks at sea."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u0981",
+              "endUid": "u1005",
+              "quote": "as the Wave Dancer pulls into dock"
+            },
+            {
+              "startUid": "u1013",
+              "endUid": "u1022",
+              "quote": "Greetings, welcome to our town."
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Endless Ocean to the east",
+      "kind": "ocean",
+      "evidence": [
+        {
+          "startUid": "u1086",
+          "endUid": "u1088",
+          "quote": "DM: And— uh, and then you can see from here, you can see the Endless Ocean in the distance stretching to the east, um,"
+        },
+        {
+          "startUid": "u1089",
+          "endUid": "u1094",
+          "quote": "DM: Yeah, so it's about, uh, it's only about sixty miles, uh, from where you are across this island, across the, uh, adjacent island. The—the islands are arranged in, like, a diamond, right? So this one, this one, this one, and you're on the westernmost. You're looking across the easternmost one to the Endless Ocean, um stretching forever, as far as you can tell."
+        }
+      ],
+      "vaultPath": "Gazetteer/Outer Ocean.md",
+      "note": "Outer Ocean.md identifies the waters east of the Eastern Isles. The session’s “Endless Ocean” wording is retained here; this does not resolve the broader naming question of whether the western Endless Ocean and Outer Ocean are one sea."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0025"
+      },
+      "actors": [
+        "Wellby",
+        "Baxter"
+      ],
+      "reading": "Leave the Te’kula refuge through its collapsing pocket dimension and arrive on the halfling ship; the companions are scattered to unknown destinations.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "as you leave the village of the Te'kula following Theba and your friends from the dream world that that Deno'qai tribe had been hiding in, back to the material world"
+        },
+        {
+          "startUid": "u0012",
+          "endUid": "u0013",
+          "quote": "As you feel Delwath, Kenzo and Seeker pulled away from you"
+        },
+        {
+          "startUid": "u0023",
+          "endUid": "u0025",
+          "quote": "DM: And the next moment you find yourself and Baxter on the deck of the halfling ship, surrounded by halflings, um, silent, determined, but clearly in a state of exhaustion, grimly watching their pursuer bearing down on you."
+        },
+        {
+          "startUid": "u0050",
+          "endUid": "u0050",
+          "quote": "DM: “We're about a day's sail east of the Devil's Spine.”"
+        },
+        {
+          "startUid": "u0071",
+          "endUid": "u0078",
+          "quote": "But out on the wide Green Sea, like, there's all sorts of rumors."
+        }
+      ],
+      "from": "p01",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "magical displacement",
+      "route": [
+        {
+          "place": "p02",
+          "reading": "Exit the collapsing pocket dimension; changing forest images precede the ocean arrival."
+        }
+      ],
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "east_of",
+          "target": "p08",
+          "note": "The captain describes about a day’s sail; this is a temporary ship position."
+        },
+        {
+          "subject": "p03",
+          "relation": "on",
+          "target": "p05"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0019",
+        "endUid": "u0022"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "A pursuing warship, bearing the split-skull-and-axe flag, is several miles behind the halfling vessel.",
+      "evidence": [
+        {
+          "startUid": "u0019",
+          "endUid": "u0022",
+          "quote": "DM: Chasing it, a few miles behind, but gaining quickly, is a sleek warship, a huge ballista mounted on its bow. Well, it's too far in the distance from this vantage point for you to make out any particular details. The flag flying from the tallest mast, depicting a skull cleaved in two by a massive axe, cannot be a good sign."
+        },
+        {
+          "startUid": "u0064",
+          "endUid": "u0069",
+          "quote": "Those damn Skullcleaver hobgoblins got the better of us."
+        }
+      ],
+      "place": "p06",
+      "mode": "local",
+      "note": "The ship is first seen from the aerial arrival vantage; the ensuing deck conversation identifies the pursuers. This is sight of the enemy vessel, before boarding it."
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0190",
+        "endUid": "u0204"
+      },
+      "actors": [
+        "Wellby",
+        "Baxter"
+      ],
+      "reading": "A sailor helps Wellby take Baxter below deck and settle him in the cargo hold.",
+      "evidence": [
+        {
+          "startUid": "u0190",
+          "endUid": "u0204",
+          "quote": "Get him out of the way, at least, to help us find a spot, or can someone help us find a spot below deck for him?"
+        },
+        {
+          "startUid": "u0195",
+          "endUid": "u0197",
+          "quote": "DM: Ah, yeah, one of the sailors comes over and helps you get— ah, get Baxter stowed."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0232",
+        "endUid": "u0242"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "After settling Baxter, Wellby returns to the deck; Baxter is not said to accompany him.",
+      "evidence": [
+        {
+          "startUid": "u0232",
+          "endUid": "u0242",
+          "quote": "So uh, after getting Baxter settled, still not entirely sure where you are, you, uh return to the deck."
+        }
+      ],
+      "from": "p04",
+      "to": "p03",
+      "completion": "arrived"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0298",
+        "endUid": "u0304"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Fly from the Wave Dancer toward the pursuing pirate ship and reach its crow’s nest after crossbow fire interrupts the approach.",
+      "evidence": [
+        {
+          "startUid": "u0298",
+          "endUid": "u0299",
+          "quote": "Wellby: Um, all right, so I'll take off into the sky, and in the same moment, um, you know, my clothes will match the twilight and clouds around me as best I can. Loud, loud whistle."
+        },
+        {
+          "startUid": "u0302",
+          "endUid": "u0304",
+          "quote": "DM: It takes you maybe twelve rounds, so a little over a minute to um, race out the half mile."
+        },
+        {
+          "startUid": "u0360",
+          "endUid": "u0363",
+          "quote": "Wellby: Because there, with six crossbow people, I'm going to keep getting hit. So I'm gonna blow that thing again, and—"
+        },
+        {
+          "startUid": "u0372",
+          "endUid": "u0374",
+          "quote": "DM: Let's say you succeed. Ah, land on the crow's nest, which I'm going to say gives you half cover. But as you land—"
+        }
+      ],
+      "from": "p03",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "fly using raven whistle",
+      "distance": {
+        "value": 0.5,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM describes the outward half-mile approach; not a reconstructed tactical flight path."
+      }
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0550",
+        "endUid": "u0556"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Escape the pirate ship and land back on the Wave Dancer as it gains distance.",
+      "evidence": [
+        {
+          "startUid": "u0540",
+          "endUid": "u0546",
+          "quote": "And now you're out of range."
+        },
+        {
+          "startUid": "u0550",
+          "endUid": "u0556",
+          "quote": "DM: So you race ahead to the ship, and as the sun sinks below the horizon, you land on the deck of the Wave Dancer, um clearly now beginning to outdistance, um, the halfling—or the hobgoblin ship, um, and, you know, several of the halflings give a little cheer as you land, um, and—"
+        }
+      ],
+      "from": "p07",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "fly using raven whistle"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0930",
+        "endUid": "u0949"
+      },
+      "actors": [
+        "Wellby",
+        "Baxter"
+      ],
+      "reading": "Sail aboard the Wave Dancer across mostly empty eastern sea to the Vermillion Isles, dock in the kenku port, and join Wella on the dock.",
+      "evidence": [
+        {
+          "startUid": "u0944",
+          "endUid": "u0949",
+          "quote": "DM: Um, you reach, after ten days of sailing, um—eleven, eleven days since you left, um, since you vanished from the, uh, uh, from the forests northeast of Chardon, um, you see the first of the Eastern Isles, and this has mostly been sailing, you know, by dead reckoning navigation through just empty ocean. Right? This entire chunk of the Eastern sea."
+        },
+        {
+          "startUid": "u0975",
+          "endUid": "u0976",
+          "quote": "as the ship comes into this—this enclosed harbor and docks"
+        },
+        {
+          "startUid": "u0981",
+          "endUid": "u0984",
+          "quote": "as the Wave Dancer pulls into dock"
+        },
+        {
+          "startUid": "u1002",
+          "endUid": "u1005",
+          "quote": "DM: Wella looks kind of surprised, and then, like, looks over at you, and it's like—like realizes you're standing there and waves you and—and Baxter over, and, um, ah, this guy—he introduces himself as Makha—is, like, super interested by Baxter, and he, like, looks at it, and he's, um, kind of smiles at him, clicks his beak, and—and, you know, “Fascinating creature you’ve brought with you. What do you call such a thing?”"
+        }
+      ],
+      "from": "p05",
+      "to": "p17",
+      "completion": "arrived",
+      "mode": "sail",
+      "vehicle": "p03",
+      "route": [
+        {
+          "place": "p09",
+          "reading": "Reach the first of the Eastern Isles after mostly dead-reckoning navigation across empty ocean."
+        },
+        {
+          "place": "p10",
+          "reading": "Enter the red-cliff kenku archipelago described by Wella as the Vermillion Isles."
+        }
+      ],
+      "note": "The eleven-day statement dates arrival from the earlier displacement, rather than measuring an additional voyage after the opening dinner.",
+      "duration": {
+        "value": 11,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "The corrected arrival is eleven days since the initial displacement, including the opening pursuit and detour; this is the whole voyage context, not eleven additional days after dinner."
+      }
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1066",
+        "endUid": "u1085"
+      },
+      "actors": [
+        "Wellby",
+        "Makha"
+      ],
+      "reading": "Makha and Wellby fly from the port up to the highest pinnacle village and land at the top.",
+      "evidence": [
+        {
+          "startUid": "u1066",
+          "endUid": "u1068",
+          "quote": "DM: But come, let’s fly if you can. And he opens up his wings and leaps into the sky and soars up on a thermal, kind of looking down at you."
+        },
+        {
+          "startUid": "u1069",
+          "endUid": "u1072",
+          "quote": "Wellby: Oh, blow the raven's whistle and leap up after him and say— say telepathically, since my mouth is full, “I probably only got about three big breaths worth here, so it may need to be brief.”"
+        },
+        {
+          "startUid": "u1074",
+          "endUid": "u1078",
+          "quote": "DM: He soars. “Well, let’s go to the highest point first, then,” and he soars up on a thermal, spiraling up, and you can see now, once you get to the top of the cliffs, this is probably just about in your range with one breath, um,"
+        },
+        {
+          "startUid": "u1080",
+          "endUid": "u1085",
+          "quote": "And he flies up to the top with you, and he lands"
+        }
+      ],
+      "from": "p17",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u1080",
+        "endUid": "u1094"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "From the highest pinnacle on the westernmost island, view the other islands of the four-island archipelago; no crossing to them is played.",
+      "evidence": [
+        {
+          "startUid": "u1080",
+          "endUid": "u1085",
+          "quote": "DM: And he flies up to the top with you, and he lands, and you've got a great view, like you can see there's four islands in this archipelago, all—all of the same red stone, um, and you can see all of them from here. The distances between the islands are not long, and you're, um, you're at one—I mean, they're mostly flat, right? They rise up from the—like, all of these cliffs that rise up from the sea. But then the land on top is mostly flat, though, you know, occasionally valleys and, um, mostly dry. There's not a ton of—of vegetation, um, some scrubby plants, some areas that look cultivated."
+        },
+        {
+          "startUid": "u1089",
+          "endUid": "u1094",
+          "quote": "DM: Yeah, so it's about, uh, it's only about sixty miles, uh, from where you are across this island, across the, uh, adjacent island. The—the islands are arranged in, like, a diamond, right? So this one, this one, this one, and you're on the westernmost. You're looking across the easternmost one to the Endless Ocean, um stretching forever, as far as you can tell."
+        }
+      ],
+      "place": "p10",
+      "mode": "local",
+      "observerPlace": "p13"
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u1086",
+        "endUid": "u1109"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Look east over the far island to the ocean; Makha points toward wrecks eighty miles away, explicitly too distant to see.",
+      "evidence": [
+        {
+          "startUid": "u1086",
+          "endUid": "u1088",
+          "quote": "DM: And— uh, and then you can see from here, you can see the Endless Ocean in the distance stretching to the east, um,"
+        },
+        {
+          "startUid": "u1089",
+          "endUid": "u1094",
+          "quote": "DM: Yeah, so it's about, uh, it's only about sixty miles, uh, from where you are across this island, across the, uh, adjacent island. The—the islands are arranged in, like, a diamond, right? So this one, this one, this one, and you're on the westernmost. You're looking across the easternmost one to the Endless Ocean, um stretching forever, as far as you can tell."
+        },
+        {
+          "startUid": "u1101",
+          "endUid": "u1109",
+          "quote": "too distant to see the shipwrecks"
+        }
+      ],
+      "place": "p18",
+      "mode": "local",
+      "observerPlace": "p13"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1189",
+        "endUid": "u1207"
+      },
+      "actors": [
+        "Wellby",
+        "Makha"
+      ],
+      "reading": "Fly inland over chili fields to the central canyon village, landing by its food stall for lunch.",
+      "evidence": [
+        {
+          "startUid": "u1189",
+          "endUid": "u1190",
+          "quote": "DM: He leaps up, and he soars inland, like swoops down towards the ground. And you can—you're sort of flying over the fields. I mean, you can see there's—I mean, there's a mix, but a lot of them, there's just rows of these brightly colored chili peppers that are sort of sprinkled around. “Our cash crop,” sort of laughs."
+        },
+        {
+          "startUid": "u1191",
+          "endUid": "u1193",
+          "quote": "DM: He soars up, catches an updraft to a sort of second village that's set right in the sort of center of the—of the—of the island. There's a—there's a cliff, and there's a spring, like a— not a big river, right? But there's, like, enough water here that drains down through this, like, a waterfall that cascades down to this canyon and then flows out to the ocean on the other side of the island. And there's the, like, second village of this island is just built into the sides of this canyon on both sides of the river."
+        },
+        {
+          "startUid": "u1194",
+          "endUid": "u1203",
+          "quote": "DM: Soars down. Now you're kind of reaching your, um, your limit, and he up— curves into a, um, a little cluster of— um, there's, like, a landing area that kind of bulges out from the cliff, and then there's, um, um like, secondary canyon that's been carved so that it's exposed to the light, and there's this little cluster of buildings, and he—there's a tavern there, and he—yeah, there's a— like a little food stall, basically. He takes you, and he says, uh, “My treat, our speciality,” and he, um, uh, um,"
+        },
+        {
+          "startUid": "u1204",
+          "endUid": "u1207",
+          "quote": "DM: It's about lunch time. So for lunch, these are like—it's, ah, fish tacos, basically, fried fish wrapped in a—in a flatbread with, like, this very spicy, uh, pepper relish."
+        }
+      ],
+      "from": "p13",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Fly over cultivated fields, including rows of chili peppers."
+        },
+        {
+          "place": "p14",
+          "reading": "Enter the central canyon village and stop at its food stall."
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1214",
+        "endUid": "u1222"
+      },
+      "actors": [
+        "Wellby",
+        "Makha"
+      ],
+      "reading": "Fly back toward the port and land at the buildings atop the harbor cliffs, above the lift and unloading ship.",
+      "evidence": [
+        {
+          "startUid": "u1214",
+          "endUid": "u1216",
+          "quote": "DM: Soars up into the sky, like, circles around and coasts down towards ah, towards the cliff where the sort of port in the harbor is."
+        },
+        {
+          "startUid": "u1217",
+          "endUid": "u1222",
+          "quote": "DM: He lands and gives you a little, um—lands at the sort of tops of the cliff. There's a big cluster of—of buildings at the top of the cliff as well. You can see that there's a lot of, ah, like, sort of, ah, agricultural activity and warehouses and things, and there's, like, ah, you know, stuff being dropped down on this lift down to the boats, um, and then currently the halfling ship is starting to unload some of the furs, and there's commercial bustle down below. They're taking on, um, dried chilies and—and [garbled], pigment made from the red rocks."
+        }
+      ],
+      "from": "p15",
+      "to": "p16",
+      "completion": "arrived",
+      "mode": "fly",
+      "note": "Taking the lift down and getting a room at the inn are subsequently suggested, without a narrated descent or lodging arrival."
+    }
+  ]
+}

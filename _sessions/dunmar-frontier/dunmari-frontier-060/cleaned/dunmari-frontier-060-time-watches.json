@@ -1,0 +1,88 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-time-markers.json",
+    "sha256": "cf8f26101408b1e5a00ad4b54db4378bf105429fc83183d40e19da3788990a45"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-transcript.md",
+    "sha256": "f32f7209d66427995985c907deab9868a0ec590bf722c8a8f1c825614ff997d9"
+  },
+  "dateAssessment": "Dates use Drankorian reckoning. September 30, 1748 comes from YAML; no absolute date is spoken. The DM confirms that the displacement stays on the departure day (t01). The owning time extraction reads the final correction at u0944–u0949 as eleven days since departure (t08), placing arrival and the continuous lunchtime tour on October 11. YAML drEnd and the Wave Dancer’s dated port record instead use October 12. That discrepancy remains open; no extra overnight is inferred from the proposed morning meeting. Late night supplies no established civil-date crossing.",
+  "watches": [
+    {
+      "day": "September 30, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Late-afternoon displacement brings Wellby and Baxter aboard; settling Baxter and returning to the deck takes about half an hour.",
+      "markers": [
+        "t01",
+        "t02"
+      ],
+      "startDate": "1748-09-30",
+      "endDate": "1748-09-30"
+    },
+    {
+      "day": "September 30, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Another hour and a half of pursuit reaches sunset as the pirate ship closes.",
+      "markers": [
+        "t03"
+      ],
+      "startDate": "1748-09-30",
+      "endDate": "1748-09-30"
+    },
+    {
+      "day": "September 30, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Wellby’s outward flight takes over a minute; he returns at sunset, and nightfall brings Wella’s meal and stories.",
+      "markers": [
+        "t04",
+        "t05",
+        "t06"
+      ],
+      "startDate": "1748-09-30",
+      "endDate": "1748-09-30"
+    },
+    {
+      "day": "During September 30–October 1, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "inferred",
+      "summary": "“The night grows late” suggests the midnight watch; Corrin sees no pursuing lights. No exact clock or date crossing is established.",
+      "markers": [
+        "t07"
+      ],
+      "dateWindow": [
+        "1748-09-30",
+        "1748-10-01"
+      ]
+    },
+    {
+      "day": "October 11, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Eleven days since displacement brings arrival; the ensuing island tour reaches lunch. The arrival watch is inferred from that continuous sequence.",
+      "markers": [
+        "t08",
+        "t09"
+      ],
+      "startDate": "1748-10-11",
+      "endDate": "1748-10-11"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated ship record",
+      "path": "Things/Ships/Wave Dancer.md",
+      "sha256": "0381d9323a51a11785d44f63bb2adcb47f422b075e841e2d86dbf1d2f3a41b0c"
+    }
+  ]
+}

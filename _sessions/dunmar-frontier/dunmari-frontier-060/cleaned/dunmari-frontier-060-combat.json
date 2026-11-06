@@ -1,0 +1,286 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-060",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml",
+    "sessionYamlSha256": "3078eedcc3384eae4640d677134118462f1f3f5318b8c5fab8de27d527549b7f",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-transcript.md",
+    "transcriptSha256": "f32f7209d66427995985c907deab9868a0ec590bf722c8a8f1c825614ff997d9",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-segments.json",
+      "sha256": "cd0f110a47bdd2c9785107b8f0dac6f5804d9ebb3d8d8c3f9fe7a503f545f142",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s002",
+      "encounter": "Wellby attacks the Skullcleaver pirate ship",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Skullcleaver crossbow fighters",
+              "kind": "turn",
+              "summary": "Six heavy-crossbow shots at long range produce one hit for 8 damage. Wellby fails the Constitution save (8 against DC 10) and falls while still about 400 feet from the ship.",
+              "evidence": [
+                {
+                  "startUid": "u0333",
+                  "endUid": "u0355"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses the armor’s Feather Fall as he drops toward the ocean.",
+              "evidence": [
+                {
+                  "startUid": "u0360",
+                  "endUid": "u0363"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Blows the raven whistle again during the fall and resumes flight toward the crow’s nest.",
+              "evidence": [
+                {
+                  "startUid": "u0357",
+                  "endUid": "u0363"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Skullcleaver crossbow fighters",
+              "kind": "turn",
+              "summary": "Fire six more shots with disadvantage during the approach; one hits for 8 damage. Wellby succeeds on his Constitution save with 10 and maintains flight.",
+              "evidence": [
+                {
+                  "startUid": "u0364",
+                  "endUid": "u0374"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Reaches and lands in the crow’s nest, gaining half cover (+2 AC, to 19).",
+              "evidence": [
+                {
+                  "startUid": "u0372",
+                  "endUid": "u0374"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Skullcleaver crossbow fighters",
+              "kind": "turn",
+              "summary": "As Wellby lands within normal range, fire six shots against his half cover: two hit, for 5 damage and a natural-20 critical for 9 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0375",
+                  "endUid": "u0382"
+                }
+              ]
+            },
+            {
+              "actor": "Crow’s-nest sailor",
+              "kind": "turn",
+              "summary": "Draws his sword and attempts to lunge at the arriving intruder; no separate resolved attack roll or damage is stated.",
+              "evidence": [
+                {
+                  "startUid": "u0383",
+                  "endUid": "u0385"
+                },
+                {
+                  "startUid": "u0408",
+                  "endUid": "u0409"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Studies the sailor, then stabs him with Sneak Attack. Of the two rolled results (10 and 22), the accepted attack hits for 18 damage and kills the sailor.",
+              "evidence": [
+                {
+                  "startUid": "u0386",
+                  "endUid": "u0409"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Skullcleaver crossbow fighters",
+              "kind": "turn",
+              "summary": "All six shots miss Wellby in the crow’s nest; two strike its wood.",
+              "evidence": [
+                {
+                  "startUid": "u0410",
+                  "endUid": "u0415"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Changes his initial plan to burn a sail and spends two bowstring charges on a pyrotechnic smoke strike below the crow’s nest. The 24 hits; smoke blocks the archers’ sight. Wind limits it to three rounds rather than a full minute.",
+              "evidence": [
+                {
+                  "startUid": "u0416",
+                  "endUid": "u0464"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Skullcleaver crossbow fighters",
+              "kind": "turn",
+              "summary": "All shots miss with disadvantage from the smoke while Wellby retains the +2 half-cover bonus.",
+              "evidence": [
+                {
+                  "startUid": "u0465",
+                  "endUid": "u0472"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Fires a burning strike into the front mainsail. Revises one charge to two; the shot hits for the stated 8 damage, treated as the fire damage that ignites the sail despite the earlier ten-point threshold proposal.",
+              "evidence": [
+                {
+                  "startUid": "u0473",
+                  "endUid": "u0496"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "entries": [
+            {
+              "actor": "Skullcleaver crossbow fighters",
+              "kind": "turn",
+              "summary": "Two shots hit despite the smoke and cover, for 15 damage in total; the initial one-hit description is immediately corrected.",
+              "evidence": [
+                {
+                  "startUid": "u0490",
+                  "endUid": "u0496"
+                }
+              ]
+            },
+            {
+              "actor": "Burning sail",
+              "kind": "event",
+              "summary": "The fire spreads while the smoke thins: another d6 resolves as 5, bringing the narrated sail damage from 8 to 13 and leaving it in a giant conflagration.",
+              "evidence": [
+                {
+                  "startUid": "u0497",
+                  "endUid": "u0508"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Pours oil into the crow’s nest and uses his action to ignite it, then flies 160 feet straight up; the DM resolves the ascent on this action despite the initial proposal to depart next round.",
+              "evidence": [
+                {
+                  "startUid": "u0509",
+                  "endUid": "u0525"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "entries": [
+            {
+              "actor": "Skullcleaver crossbow fighters",
+              "kind": "turn",
+              "summary": "Four of the six abandon their crossbows to bail water. The remaining two shoot at long range with disadvantage; one hits for 3 damage. Wellby’s Constitution save is a natural 20 and succeeds.",
+              "evidence": [
+                {
+                  "startUid": "u0516",
+                  "endUid": "u0530"
+                }
+              ]
+            },
+            {
+              "actor": "Skullcleaver crew",
+              "kind": "event",
+              "summary": "Bring the fire under control, but the sail is destroyed. The Wave Dancer is gaining distance; replacing the rigging would take hours.",
+              "evidence": [
+                {
+                  "startUid": "u0531",
+                  "endUid": "u0539"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Turns away and flies toward the Wave Dancer with the whistle.",
+              "evidence": [
+                {
+                  "startUid": "u0540",
+                  "endUid": "u0546"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 8,
+          "entries": [
+            {
+              "actor": "Skullcleaver crossbow fighters",
+              "kind": "turn",
+              "summary": "The last two take final long-range shots with disadvantage. Two initial natural 20s become 8 and 16, both missing AC 17; Wellby is now out of range.",
+              "evidence": [
+                {
+                  "startUid": "u0540",
+                  "endUid": "u0546"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Wellby escapes crossbow range. The pirate crew controls the fire, but the destroyed sail prevents pursuit of the faster Wave Dancer. No ship is stated to sink.",
+        "evidence": [
+          {
+            "startUid": "u0531",
+            "endUid": "u0546"
+          }
+        ]
+      }
+    }
+  ]
+}

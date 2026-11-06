@@ -1,0 +1,289 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-060",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml",
+    "sessionYamlSha256": "3078eedcc3384eae4640d677134118462f1f3f5318b8c5fab8de27d527549b7f",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-transcript.md",
+    "transcriptSha256": "f32f7209d66427995985c907deab9868a0ec590bf722c8a8f1c825614ff997d9",
+    "yamlDates": {
+      "start": "1748-09-30",
+      "end": "1748-10-12"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0014",
+        "endUid": "u0025"
+      },
+      "reading": "Wellby and Baxter arrive aboard the halfling ship in late afternoon, on the same day they left the collapsing pocket dimension.",
+      "evidence": [
+        {
+          "startUid": "u0014",
+          "endUid": "u0018",
+          "quote": "And then you are hurtling towards the open ocean in the late afternoon light. The sun may be a few hours from setting across the ocean behind you."
+        },
+        {
+          "startUid": "u0130",
+          "endUid": "u0134",
+          "quote": "We've got maybe three hours to darkness."
+        },
+        {
+          "startUid": "u0744",
+          "endUid": "u0749",
+          "quote": "It's the same day that you left."
+        },
+        {
+          "startUid": "u0749",
+          "endUid": "u0749",
+          "quote": "So you've just traveled a long distance, not a long time."
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Baxter"
+      ],
+      "time": {
+        "partOfDay": "late afternoon",
+        "precision": "approximate",
+        "basis": "Arrival light and captain’s darkness estimate; DM later confirms the displacement did not change the day."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0232",
+        "endUid": "u0242"
+      },
+      "reading": "About half an hour has passed while Wellby settles Baxter below deck and returns to the deck.",
+      "evidence": [
+        {
+          "startUid": "u0232",
+          "endUid": "u0242",
+          "quote": "it's been about a half hour."
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Baxter"
+      ],
+      "duration": {
+        "value": 0.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM explicitly measures the elapsed interval on Wellby’s return."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0243",
+        "endUid": "u0253"
+      },
+      "reading": "The chase continues for about another hour and a half, reaching sunset as the pirate ship closes to roughly half a mile.",
+      "evidence": [
+        {
+          "startUid": "u0243",
+          "endUid": "u0253",
+          "quote": "Over the next—unless there's anything else you want to do—over the next hour and a half or so, um, the sun begins to set"
+        },
+        {
+          "startUid": "u0243",
+          "endUid": "u0253",
+          "quote": "Now with the sun setting, you know, your— the sun is setting"
+        }
+      ],
+      "duration": {
+        "value": 1.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM narrates the next interval as elapsed, distinct from the earlier half-hour."
+      },
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM describes the sun setting at the chase endpoint."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0302",
+        "endUid": "u0304"
+      },
+      "reading": "Wellby’s outward flight toward the pirate ship takes a little over a minute, described as about twelve rounds over the half mile.",
+      "evidence": [
+        {
+          "startUid": "u0302",
+          "endUid": "u0304",
+          "quote": "It takes you maybe twelve rounds, so a little over a minute to um, race out the half mile."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "min": 1,
+        "minInclusive": false,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s explicit elapsed flight description; not a duration calculated from extracted combat rounds."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0550",
+        "endUid": "u0556"
+      },
+      "reading": "Wellby returns to the Wave Dancer as the sun sinks below the horizon.",
+      "evidence": [
+        {
+          "startUid": "u0550",
+          "endUid": "u0556",
+          "quote": "So you race ahead to the ship, and as the sun sinks below the horizon, you land on the deck of the Wave Dancer"
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM’s return narration."
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0579",
+        "endUid": "u0585"
+      },
+      "reading": "Night falls as Wella introduces herself and proposes food and conversation; the meal and story follow.",
+      "evidence": [
+        {
+          "startUid": "u0579",
+          "endUid": "u0585",
+          "quote": "And as night falls, um, the captain, who introduces herself as Wella Brightmoon"
+        },
+        {
+          "startUid": "u0700",
+          "endUid": "u0702",
+          "quote": "DM: As she does that, the, uh, halflings bring out some food, um, Another, uh, older woman brings out her guitar, ah, who Wella introduces as her wife, Rose, eats, and then begins to play as you sit and talk."
+        },
+        {
+          "startUid": "u0717",
+          "endUid": "u0721",
+          "quote": "So, listening into the night, you weave your tale."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "time": {
+        "partOfDay": "nightfall",
+        "precision": "approximate",
+        "basis": "DM’s nightfall anchor and ensuing meal/story."
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0726",
+        "endUid": "u0728"
+      },
+      "reading": "The night grows late while Corrin reports that no pursuing lights are visible.",
+      "evidence": [
+        {
+          "startUid": "u0726",
+          "endUid": "u0728",
+          "quote": "DM: And as the night grows late, Corrin reports, ah, no sign of lights on the horizon. Everybody breathed a sigh of relief."
+        }
+      ],
+      "time": {
+        "partOfDay": "late night",
+        "precision": "approximate",
+        "basis": "DM explicitly says the night grows late; no exact clock or midnight crossing is established."
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0944",
+        "endUid": "u0949"
+      },
+      "reading": "The arrival at the Eastern Isles is finally dated eleven days since Wellby vanished from the forests northeast of Chardon, correcting the initial ten-day phrasing.",
+      "evidence": [
+        {
+          "startUid": "u0923",
+          "endUid": "u0929",
+          "quote": "The journey will take about ten—is ten to eleven days."
+        },
+        {
+          "startUid": "u0930",
+          "endUid": "u0937",
+          "quote": "Say—say, like, about eleven days."
+        },
+        {
+          "startUid": "u0944",
+          "endUid": "u0949",
+          "quote": "Um, you reach, after ten days of sailing, um—eleven, eleven days since you left, um, since you vanished from the, uh, uh, from the forests northeast of Chardon"
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Baxter"
+      ],
+      "duration": {
+        "value": 11,
+        "unit": "day",
+        "precision": "exact",
+        "basis": "Final arrival narration corrects “ten days” to “eleven days since” the displacement; earlier forecasts were approximate."
+      },
+      "dateBoundaries": 11,
+      "completion": "completed",
+      "note": "This total includes the opening day’s events; it is not eleven additional days after the dinner. Wella’s later “more than two weeks at sea” describes her longer voyage, not time since Wellby boarded."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1204",
+        "endUid": "u1207"
+      },
+      "reading": "Makha’s island tour reaches the canyon food stall at about lunchtime on the arrival day.",
+      "evidence": [
+        {
+          "startUid": "u1204",
+          "endUid": "u1207",
+          "quote": "It's about lunch time. So for lunch, these are like—it's, ah, fish tacos, basically"
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Makha"
+      ],
+      "time": {
+        "partOfDay": "lunchtime",
+        "precision": "approximate",
+        "basis": "Explicit lunch anchor in the continuous tour following docking; no intervening night is narrated."
+      }
+    }
+  ],
+  "yamlCheck": {
+    "status": "conflict",
+    "dateAnchor": "No absolute calendar date is spoken. The year and September 30 departure come from YAML; the DM confirms that the displacement stays on that day. The final corrected arrival narration establishes eleven days since that departure.",
+    "expectedDateBoundaries": 12,
+    "supportedDateBoundaries": 11,
+    "evidence": [
+      "t01",
+      "t08",
+      "t09"
+    ],
+    "explanation": "With the YAML start, the corrected eleven-day interval reaches October 11, 1748, rather than the YAML end of October 12. The tour and lunch follow arrival continuously. The proposed next-morning meeting is not played; it cannot supply another elapsed day. Dated vault biographies and the Wave Dancer note use October 12, which remains a discrepancy for human review rather than permission to change the extraction."
+  }
+}
