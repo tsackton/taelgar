@@ -1,0 +1,522 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-132",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-session.yaml",
+    "sessionYamlSha256": "5cd1d5500de7e2ba6225c9567cdd09c435c5d47e2bba7fc66d028e846adfeabc",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-transcript.md",
+    "transcriptSha256": "47c33f632686e0e0e55bc5edcad47aa506f7427cd4a4dc680aaf3803f5da6f19",
+    "yamlDates": {
+      "start": "1749-08-10",
+      "end": "1749-08-12"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0015"
+      },
+      "reading": "The party returns to Three Wells on the evening of August 10, about 6 p.m.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0015",
+          "quote": "evening… of… August 10th, as you return to the camp at Three Wells"
+        },
+        {
+          "startUid": "u0133",
+          "endUid": "u0134",
+          "quote": "DM: Okay, so it's like… Evening. 6 PM."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 10
+        },
+        "precision": "approximate",
+        "basis": "Month/day and evening/6 p.m. spoken; year inherited from YAML.",
+        "partOfDay": "evening",
+        "clock": "18:00"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0484",
+        "endUid": "u0487"
+      },
+      "reading": "The party completes an overnight long rest at Three Wells and wakes at dawn; Delwath’s dream counsel takes place during that night.",
+      "evidence": [
+        {
+          "startUid": "u0484",
+          "endUid": "u0487",
+          "quote": "DM: You all rest, remember to hit long rest on your character. To reset any spells or whatever you've used. Over the… over the evening, over the night, Delwath talks to Martin Strongbow, the captain, have a long conversation about battle strategy and how to use both… beasts and the Mirage Arcane defensively, and he makes a bunch of suggestions and says he'll think about it. Discuss with a few of his advisors, and we'll have a plan ready for you by the time you arrive tomorrow night. He says the morale of the army is high."
+        },
+        {
+          "startUid": "u0492",
+          "endUid": "u0495",
+          "quote": "And as you all wake up in the morning, Seeker at the crack of dawn… goes to his… pulls out all the tricks you used to produce ice when you were an ice addict, using… I don't know, whatever cantrip you have."
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "date": {
+            "year": 1749,
+            "month": 8,
+            "day": 10
+          },
+          "precision": "approximate",
+          "basis": "Spoken August 10 plus narrated overnight/day sequence; year from YAML.",
+          "partOfDay": "night"
+        },
+        "end": {
+          "date": {
+            "year": 1749,
+            "month": 8,
+            "day": 11
+          },
+          "precision": "approximate",
+          "basis": "Spoken August 10 plus narrated overnight/day sequence; year from YAML.",
+          "partOfDay": "dawn"
+        }
+      },
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention applied to an established completed overnight."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0492",
+        "endUid": "u0505"
+      },
+      "reading": "Seeker casts Simulacrum from dawn until just after 4 p.m.; the established twelve-hour casting produces Seeker 5.",
+      "evidence": [
+        {
+          "startUid": "u0492",
+          "endUid": "u0495",
+          "quote": "And as you all wake up in the morning, Seeker at the crack of dawn… goes to his… pulls out all the tricks you used to produce ice when you were an ice addict, using… I don't know, whatever cantrip you have."
+        },
+        {
+          "startUid": "u0501",
+          "endUid": "u0505",
+          "quote": "DM: Right. And shapes Seeker 5 out of ice, and sits down to begin casting. Which does require one of your… ruby components. Of which you have 6, so now you have 5. I'll update that on your character sheet."
+        },
+        {
+          "startUid": "u0401",
+          "endUid": "u0401",
+          "quote": "DM: But it takes 12 hours to cast."
+        },
+        {
+          "startUid": "u0521",
+          "endUid": "u0529",
+          "quote": "By 4pm, as the spell finishes, Vindristjarna has arrived"
+        },
+        {
+          "startUid": "u0534",
+          "endUid": "u0540",
+          "quote": "And as Seeker 5 materializes just after 4pm"
+        }
+      ],
+      "actors": [
+        "Seeker"
+      ],
+      "timeRange": {
+        "start": {
+          "date": {
+            "year": 1749,
+            "month": 8,
+            "day": 11
+          },
+          "precision": "approximate",
+          "basis": "Spoken August 10 plus narrated overnight/day sequence; year from YAML.",
+          "partOfDay": "dawn"
+        },
+        "end": {
+          "date": {
+            "year": 1749,
+            "month": 8,
+            "day": 11
+          },
+          "precision": "approximate",
+          "basis": "Spoken August 10 plus narrated overnight/day sequence; year from YAML.",
+          "clock": "16:00"
+        }
+      },
+      "duration": {
+        "value": 12,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "The twelve-hour casting is established, begun at dawn and confirmed complete just after 4 p.m."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0521",
+        "endUid": "u0529"
+      },
+      "reading": "By noon the Three Wells camp has largely emptied and Vindristjarna is visible on the horizon.",
+      "evidence": [
+        {
+          "startUid": "u0521",
+          "endUid": "u0529",
+          "quote": "By noon, the camp has pretty much emptied. You can see, and you see on the horizon, the… hull of Vindristjarna cresting over… cresting through some clouds and beginning to descend towards you"
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 11
+        },
+        "precision": "approximate",
+        "basis": "DM’s “by noon” checkpoint; following overnight gives August 11, year from YAML.",
+        "partOfDay": "noon",
+        "clock": "12:00"
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0534",
+        "endUid": "u0540"
+      },
+      "reading": "The party boards Vindristjarna and departs for the escarpment just after 4 p.m.",
+      "evidence": [
+        {
+          "startUid": "u0534",
+          "endUid": "u0540",
+          "quote": "And as Seeker 5 materializes just after 4pm, you… all climb onto Vindristjarna and begin heading for the escarpment."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 11
+        },
+        "precision": "approximate",
+        "basis": "Spoken August 10 plus narrated overnight/day sequence; year from YAML.",
+        "clock": "16:00"
+      },
+      "completion": "begun"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0552",
+        "endUid": "u0555"
+      },
+      "reading": "After a couple of hours flying, sunset begins as the party sights the escarpment and changes course.",
+      "evidence": [
+        {
+          "startUid": "u0552",
+          "endUid": "u0555",
+          "quote": "DM: So… you fly for a couple hours as the sun begins to set, once you get… Once you sort of cross over this… this path here, and you can see the escarpment edge. I'll change the…"
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 11
+        },
+        "precision": "approximate",
+        "basis": "Spoken August 10 plus narrated overnight/day sequence; year from YAML.",
+        "partOfDay": "sunset"
+      },
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM narrates a couple of hours of flight."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0575",
+        "endUid": "u0603"
+      },
+      "reading": "The ship reaches the escarpment interception area in darkness, about 9 p.m.",
+      "evidence": [
+        {
+          "startUid": "u0575",
+          "endUid": "u0582",
+          "quote": "So… after flying north, in, sort of, battle conditions as quickly as you can, you see…"
+        },
+        {
+          "startUid": "u0599",
+          "endUid": "u0603",
+          "quote": "It's about 9 o'clock at night, the sun set, like, two and a half hours ago."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 11
+        },
+        "precision": "approximate",
+        "basis": "Spoken August 10 plus narrated overnight/day sequence; year from YAML.",
+        "partOfDay": "night",
+        "clock": "21:00"
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1362",
+        "endUid": "u1363"
+      },
+      "reading": "During withdrawal the captured worm loses coherence: it starts dripping after roughly five minutes and has stopped moving after about ten minutes in all.",
+      "evidence": [
+        {
+          "startUid": "u1359",
+          "endUid": "u1361",
+          "quote": "DM: As Vindristjarna begins to move further away, suddenly stops moving. And it, like, begins almost dripping. It's like the clock in Dalí, in the Dalí painting that just sort of starts to… drip almost across the deck."
+        },
+        {
+          "startUid": "u1362",
+          "endUid": "u1363",
+          "quote": "This is after maybe 5 minutes."
+        },
+        {
+          "startUid": "u1413",
+          "endUid": "u1415",
+          "quote": "It's now stopped moving after about 10…"
+        },
+        {
+          "startUid": "u1515",
+          "endUid": "u1519",
+          "quote": "Once you're about 2 miles away, it just stops."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "The later “about 10” is read as minutes from the same withdrawal context, not ten more minutes."
+      },
+      "completion": "completed",
+      "note": "The unit after “10” is unfinished; minutes is inferred from the preceding five-minute checkpoint. Distance from the Empress also affects the shutdown."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1626",
+        "endUid": "u1631"
+      },
+      "reading": "The party teleports to the army camp outside the Heartroot at about 9:15 p.m.",
+      "evidence": [
+        {
+          "startUid": "u1626",
+          "endUid": "u1631",
+          "quote": "DM: Now, you appear… 9pm at night. A little after 9, 9.15 at night, at the… army camp outside of the Heartroot. It is… you know… tense."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 11
+        },
+        "precision": "approximate",
+        "basis": "Spoken August 10 plus narrated overnight/day sequence; year from YAML.",
+        "partOfDay": "night",
+        "clock": "21:15"
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1702",
+        "endUid": "u1702"
+      },
+      "reading": "After planning at the army camp, the party completes another overnight long rest and wakes in pre-dawn light to the scouts’ report.",
+      "evidence": [
+        {
+          "startUid": "u1702",
+          "endUid": "u1702",
+          "quote": "DM: So, you discuss your plans, and then you rest."
+        },
+        {
+          "startUid": "u1725",
+          "endUid": "u1726",
+          "quote": "DM: So, the… you… you rest."
+        },
+        {
+          "startUid": "u1734",
+          "endUid": "u1739",
+          "quote": "DM: But you wake in the pre-dawn light, just as the sun is beginning to… crest over the mountains to the… sound of the scouts coming back to report that the… Hobgoblins have been sighted… about… at the… at the base of this… of this stream that flows out of the valley, so maybe… 5 miles of that… 8 miles apart or something."
+        },
+        {
+          "startUid": "u1757",
+          "endUid": "u1760",
+          "quote": "DM: Right. Okay, so I will mark off, since Eric is dealing with baby stuff, I'll mark off on Seeker's character. So everybody long rest. Do whatever aid or anything you're gonna do. But yeah."
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "date": {
+            "year": 1749,
+            "month": 8,
+            "day": 11
+          },
+          "precision": "approximate",
+          "basis": "Spoken August 10 plus narrated overnight/day sequence; year from YAML.",
+          "partOfDay": "night"
+        },
+        "end": {
+          "date": {
+            "year": 1749,
+            "month": 8,
+            "day": 12
+          },
+          "precision": "approximate",
+          "basis": "Spoken August 10 plus narrated overnight/day sequence; year from YAML.",
+          "partOfDay": "pre-dawn"
+        }
+      },
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention; rest, waking, and restored resources are explicitly confirmed."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1768",
+        "endUid": "u1775"
+      },
+      "reading": "Vindristjarna arrives in the morning, around the scouts’ return and before the enemy army.",
+      "evidence": [
+        {
+          "startUid": "u1768",
+          "endUid": "u1775",
+          "quote": "DM: Yeah, so Vindristjarna arrives in the morning. It arrives before the army, but not long… Vindristjarna arrives about the same time as the, you know, wait, you know, the scouts showing up to say that you've got… you know, the army is about an hour away. The Hobgoblins are about an hour away… beginning to march up through the forest. Scouts report no signs of… centipede creatures or anything. But the… the Hobgoblins all… are wearing, like, silver gauntlets that cover their hands, and their weapons are shimmering… with a silver…"
+        }
+      ],
+      "actors": [
+        "Vindristjarna crew"
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 12
+        },
+        "precision": "approximate",
+        "basis": "DM calls it morning and ties the arrival to the scouts’ pre-dawn report; date follows the second overnight.",
+        "partOfDay": "morning"
+      },
+      "note": "“Morning” is retained as spoken; the same dawn sequence is still called pre-dawn when the party later reaches the grove. No additional day or measured ship journey is inferred."
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1936",
+        "endUid": "u1937"
+      },
+      "reading": "Kenzo spends a minute concentrating his Sight to locate the Empress behind the army.",
+      "evidence": [
+        {
+          "startUid": "u1936",
+          "endUid": "u1937",
+          "quote": "DM: Kenzo takes a minute and concentrates your Sight. The Empress is towards the back of the army."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Narrated time actually spent concentrating."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1940",
+        "endUid": "u1942"
+      },
+      "reading": "A few more minutes pass while the party waits and the army approaches the lake.",
+      "evidence": [
+        {
+          "startUid": "u1940",
+          "endUid": "u1942",
+          "quote": "DM: A few more minutes pass. Army begins to approach… along the shores of this lake."
+        }
+      ],
+      "duration": {
+        "text": "a few more minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Explicit narrated waiting interval."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u2775",
+        "endUid": "u2787"
+      },
+      "reading": "After escaping the aerial feint, the party arrives at the Heartroot grove while it is still pre-dawn.",
+      "evidence": [
+        {
+          "startUid": "u2775",
+          "endUid": "u2781",
+          "quote": "You vanish… and reappear… in… the middle of… a gro- an open grove, where the Heartroot"
+        },
+        {
+          "startUid": "u2782",
+          "endUid": "u2787",
+          "quote": "I mean, it's pre-dawn, right? So it's, like, just a little bit of the dawn light shining through… golden light"
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 12
+        },
+        "precision": "approximate",
+        "basis": "Spoken August 10 plus narrated overnight/day sequence; year from YAML.",
+        "partOfDay": "pre-dawn"
+      }
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "August 10 and the opening evening/6 p.m. are spoken. August 11 and 12 follow the two explicitly completed overnights; 1749 comes from YAML.",
+    "expectedDateBoundaries": 2,
+    "supportedDateBoundaries": 2,
+    "evidence": [
+      "t01",
+      "t02",
+      "t10",
+      "t15"
+    ],
+    "explanation": "The played interval begins at the August 10 return, covers the following day and two completed overnight rests, and ends pre-dawn on the resulting August 12. The opening recollection of three earlier days belongs to the previous strikes, not an additional played interval here. Forecast arrival times, spell durations not actually used up, and the next-session eight-round preparation window do not extend this span."
+  }
+}
