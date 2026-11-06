@@ -1,0 +1,91 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-084/cleaned/dunmari-frontier-084-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-084/cleaned/dunmari-frontier-084-time-markers.json",
+    "sha256": "d280c41ddedfc42f1c26e005838d7330ad73bb155445c057d8581cbbc2a4b63f"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-084/cleaned/dunmari-frontier-084-transcript.md",
+    "sha256": "2a38d552137525ee0ca91b96bb121d1f4e6ccbcffd650d16cf3d9e6a0aa61000"
+  },
+  "dateAssessment": "The transcript independently opens on New Year’s Day, DR 1749 (t01). Two narrated next mornings (t02, t07) support the YAML’s January 1–3 span. Later dates below follow those transitions, not the YAML endpoint alone. Proposed departure in another two or three days, shopping and construction estimates remain future business; the final days in Tollen are deferred to the next session. The dinner clock crosses a watch boundary, so its watch remains open between late afternoon and dusk.",
+  "watches": [
+    {
+      "day": "January 1, 1749",
+      "startDate": "1749-01-01",
+      "endDate": "1749-01-01",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Sunrise on New Year’s Day opens play aboard the skyship; introductions remain in that morning.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "January 2, 1749",
+      "startDate": "1749-01-02",
+      "endDate": "1749-01-02",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Next morning; a guild wait and a few minutes inspecting the mace occur before the afternoon departure.",
+      "markers": [
+        "t02",
+        "t03",
+        "t04"
+      ]
+    },
+    {
+      "day": "January 2, 1749",
+      "startDate": "1749-01-02",
+      "endDate": "1749-01-02",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "The guild visit ends after lunch, probably two or three in the afternoon.",
+      "markers": [
+        "t05"
+      ]
+    },
+    {
+      "day": "January 2, 1749",
+      "startDate": "1749-01-02",
+      "endDate": "1749-01-02",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Dinner begins around 5–6 p.m.: late afternoon or dusk.",
+      "markers": [
+        "t06"
+      ]
+    },
+    {
+      "day": "January 3, 1749",
+      "startDate": "1749-01-03",
+      "endDate": "1749-01-03",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "After sleep, the next morning; Faldrak reports an earlier guild visit before brunch.",
+      "markers": [
+        "t07",
+        "t09"
+      ],
+      "scope": "Party waking; Faldrak’s earlier errand"
+    },
+    {
+      "day": "January 3, 1749",
+      "startDate": "1749-01-03",
+      "endDate": "1749-01-03",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Ladder returns with Faldrak at about ten, near the morning/midday boundary.",
+      "markers": [
+        "t08"
+      ]
+    }
+  ]
+}

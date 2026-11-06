@@ -1,0 +1,2192 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-084/cleaned/dunmari-frontier-084-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "a4ad4dc93a7672e9d74808e98478900a430434fd562eabb6875bc6fca847711a",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "2a38d552137525ee0ca91b96bb121d1f4e6ccbcffd650d16cf3d9e6a0aa61000",
+        "transcriptProcessing.artifacts.cleaned": "ca08a582ee06251e2f4ec898ef68b4dcb40431c53b265d0b258ab5395097253e"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "divine",
+      "label": "Wyrdling",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0013",
+            "endUid": "u0014"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0021",
+            "endUid": "u0023"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Wyrdling.md"
+    },
+    {
+      "id": "e002",
+      "kind": "npc",
+      "label": "Iskra",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0021",
+            "endUid": "u0023"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Skaer/Iskra.md"
+    },
+    {
+      "id": "e003",
+      "kind": "npc",
+      "label": "Faldrak",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0047",
+            "endUid": "u0058"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1185",
+            "endUid": "u1205"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1231",
+            "endUid": "u1244"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1264",
+            "endUid": "u1268"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1291",
+            "endUid": "u1319"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1380",
+            "endUid": "u1389"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1476",
+            "endUid": "u1488"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1520",
+            "endUid": "u1556"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1582",
+            "endUid": "u1592"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dwarves/Faldrak Bronzehammer.md"
+    },
+    {
+      "id": "e004",
+      "kind": "npc",
+      "label": "Baxter",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0080",
+            "endUid": "u0081"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1180",
+            "endUid": "u1180"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Companions/Baxter.md"
+    },
+    {
+      "id": "e005",
+      "kind": "npc",
+      "label": "Basu",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0086",
+            "endUid": "u0094"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Basu.md"
+    },
+    {
+      "id": "e006",
+      "kind": "npc",
+      "label": "Kassi",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0093",
+            "endUid": "u0094"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Kassi.md"
+    },
+    {
+      "id": "e007",
+      "kind": "organization",
+      "label": "Philosopher's Guild",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0300",
+            "endUid": "u0330"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0350",
+            "endUid": "u0357"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0568",
+            "endUid": "u0569"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1291",
+            "endUid": "u1293"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1764",
+            "endUid": "u1765"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Philosophers Guild",
+        "philosophers"
+      ],
+      "note": "Groups/Tollen Guilds/Ancient and Honorable Guild of Philosophers.md"
+    },
+    {
+      "id": "e008",
+      "kind": "npc",
+      "label": "Rai",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0101",
+            "endUid": "u0103"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0203",
+            "endUid": "u0212"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0697",
+            "endUid": "u0746"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0767",
+            "endUid": "u0771"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1761",
+            "endUid": "u1765"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Great War/Rai.md"
+    },
+    {
+      "id": "e009",
+      "kind": "item",
+      "label": "Rai's jade hand and its fragments",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0203",
+            "endUid": "u0212"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0226",
+            "endUid": "u0230"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0516",
+            "endUid": "u0528"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0627",
+            "endUid": "u0640"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0741",
+            "endUid": "u0771"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1783",
+            "endUid": "u1788"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Rai's hand",
+        "pieces of Rai",
+        "jade hands"
+      ],
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Jade Piece of Rai's Hand.md"
+    },
+    {
+      "id": "e010",
+      "kind": "npc",
+      "label": "Fausto",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0115",
+            "endUid": "u0115"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0181",
+            "endUid": "u0186"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0251",
+            "endUid": "u0251"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0833",
+            "endUid": "u0839"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1793",
+            "endUid": "u1802"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Fausto.md"
+    },
+    {
+      "id": "e011",
+      "kind": "item",
+      "label": "Mace of Terror",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0115",
+            "endUid": "u0121"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0413",
+            "endUid": "u0430"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "mace of love and freedom",
+        "mace"
+      ],
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Mace of Terror.md"
+    },
+    {
+      "id": "e012",
+      "kind": "item",
+      "label": "Arcane Grimoire of tanshi stories and prayers",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0117",
+            "endUid": "u0121"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0275",
+            "endUid": "u0280"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0531",
+            "endUid": "u0540"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Arcane Grimoire",
+        "tanshi grimoire"
+      ]
+    },
+    {
+      "id": "e013",
+      "kind": "item",
+      "label": "Casian's chalyte spellbook",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0119",
+            "endUid": "u0121"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0275",
+            "endUid": "u0278"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0538",
+            "endUid": "u0540"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e014",
+      "kind": "item",
+      "label": "Kadmos's Summon Greater Demon spell gem",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0122",
+            "endUid": "u0128"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0535",
+            "endUid": "u0540"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0879",
+            "endUid": "u0888"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "spell gem",
+        "spell gem of Kadmos"
+      ]
+    },
+    {
+      "id": "e015",
+      "kind": "npc",
+      "label": "Hralgar",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0141",
+            "endUid": "u0142"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0505",
+            "endUid": "u0507"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Giants/Hralgar.md"
+    },
+    {
+      "id": "e016",
+      "kind": "item",
+      "label": "Hralgar's eyes",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0141",
+            "endUid": "u0142"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Hralgar's Eyes.md"
+    },
+    {
+      "id": "e017",
+      "kind": "item",
+      "label": "Binding stones",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0141",
+            "endUid": "u0142"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0388",
+            "endUid": "u0405"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0425",
+            "endUid": "u0439"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0445",
+            "endUid": "u0477"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0478",
+            "endUid": "u0507"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0831",
+            "endUid": "u0837"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Binding Stones.md"
+    },
+    {
+      "id": "e018",
+      "kind": "item",
+      "label": "Cha'mutte's shadow armband",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0143",
+            "endUid": "u0148"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0913",
+            "endUid": "u0922"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Cha'mutte’s Shadow Armband.md"
+    },
+    {
+      "id": "e019",
+      "kind": "npc",
+      "label": "Cha'mutte",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0143",
+            "endUid": "u0148"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0204",
+            "endUid": "u0211"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0697",
+            "endUid": "u0704"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0712",
+            "endUid": "u0729"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Cha'mutte.md"
+    },
+    {
+      "id": "e020",
+      "kind": "item",
+      "label": "Occulta Ludum handbook",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0156",
+            "endUid": "u0163"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Enchiridion"
+      ],
+      "note": "Things/Books/Enchiridion of the Occulta Ludum.md"
+    },
+    {
+      "id": "e021",
+      "kind": "npc",
+      "label": "Grash",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0181",
+            "endUid": "u0186"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0244",
+            "endUid": "u0250"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0825",
+            "endUid": "u0829"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1783",
+            "endUid": "u1788"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Grash.md"
+    },
+    {
+      "id": "e022",
+      "kind": "npc",
+      "label": "Apollyon",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0183",
+            "endUid": "u0191"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0203",
+            "endUid": "u0211"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0707",
+            "endUid": "u0771"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0774",
+            "endUid": "u0808"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Historical Figures/Drankorian Emperors/Apollyon.md"
+    },
+    {
+      "id": "e023",
+      "kind": "organization",
+      "label": "Monks of Bhishma",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0212",
+            "endUid": "u0223"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0789",
+            "endUid": "u0798"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Bhishma monks"
+      ],
+      "note": "Groups/Dunmari Mystery Cults/Order of the Awakened Soul.md"
+    },
+    {
+      "id": "e024",
+      "kind": "npc",
+      "label": "Dimitaur",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0225",
+            "endUid": "u0225"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0285",
+            "endUid": "u0288"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0944",
+            "endUid": "u0946"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Great War/Companions/Dimitaur.md"
+    },
+    {
+      "id": "e025",
+      "kind": "npc",
+      "label": "Riswynn",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0244",
+            "endUid": "u0247"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1489",
+            "endUid": "u1494"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1619",
+            "endUid": "u1628"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1731",
+            "endUid": "u1736"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Riswynn.md"
+    },
+    {
+      "id": "e026",
+      "kind": "item",
+      "label": "Ship’s phasing stone",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0361",
+            "endUid": "u0386"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1287",
+            "endUid": "u1290"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1413",
+            "endUid": "u1418"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Hralgar's Phasing Stone.md"
+    },
+    {
+      "id": "e027",
+      "kind": "npc",
+      "label": "Delios the sage",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0337",
+            "endUid": "u0357"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0381",
+            "endUid": "u0386"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0425",
+            "endUid": "u0439"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0627",
+            "endUid": "u0646"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0693",
+            "endUid": "u0771"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0846",
+            "endUid": "u0876"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0932",
+            "endUid": "u0940"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Delios the elder",
+        "Delios"
+      ],
+      "note": "People/Tollenders/Delios the Sage.md"
+    },
+    {
+      "id": "e028",
+      "kind": "npc",
+      "label": "Thomas Hawke",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0590",
+            "endUid": "u0594"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Tollenders/Thomas Hawke.md"
+    },
+    {
+      "id": "e029",
+      "kind": "npc",
+      "label": "Mashtu",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0595",
+            "endUid": "u0598"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0618",
+            "endUid": "u0624"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0844",
+            "endUid": "u0845"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Mashtu the Corruptor.md"
+    },
+    {
+      "id": "e030",
+      "kind": "npc",
+      "label": "Sentient ocean",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0655",
+            "endUid": "u0673"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Sentient Ocean.md"
+    },
+    {
+      "id": "e031",
+      "kind": "item",
+      "label": "Apollyon's soul jar",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0707",
+            "endUid": "u0771"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0774",
+            "endUid": "u0808"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1783",
+            "endUid": "u1785"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "identifiedLater": true,
+      "names": [
+        "object that bears his undead essence",
+        "soul jar"
+      ],
+      "note": "Things/Artifacts of Power/Apollyon's Phylactery.md"
+    },
+    {
+      "id": "e032",
+      "kind": "npc",
+      "label": "Seeker’s younger brother / Frankar",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0855",
+            "endUid": "u0876"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0905",
+            "endUid": "u0911"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0932",
+            "endUid": "u0934"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Frankar"
+      ],
+      "note": "People/Dwarves/Frankar.md"
+    },
+    {
+      "id": "e033",
+      "kind": "item",
+      "label": "Floating disc coin",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0889",
+            "endUid": "u0911"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0931",
+            "endUid": "u0934"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "floating disk",
+        "floating disc coin"
+      ],
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Floating Disc Coin.md"
+    },
+    {
+      "id": "e034",
+      "kind": "npc",
+      "label": "Melindir",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0961",
+            "endUid": "u0976"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0991",
+            "endUid": "u0991"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1013",
+            "endUid": "u1013"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1158",
+            "endUid": "u1173"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Elves/Melindir.md"
+    },
+    {
+      "id": "e035",
+      "kind": "npc",
+      "label": "Elwis",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0961",
+            "endUid": "u0976"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0992",
+            "endUid": "u1011"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1016",
+            "endUid": "u1068"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1069",
+            "endUid": "u1136"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1151",
+            "endUid": "u1152"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Elves/Elwis.md"
+    },
+    {
+      "id": "e036",
+      "kind": "divine",
+      "label": "Aldanor",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1025",
+            "endUid": "u1027"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Embodied Gods/Aldanor.md"
+    },
+    {
+      "id": "e037",
+      "kind": "organization",
+      "label": "Dyers Guild",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1005",
+            "endUid": "u1011"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Tollen Guilds/Dyer's Guild.md"
+    },
+    {
+      "id": "e038",
+      "kind": "item",
+      "label": "Melindir’s pouch of letters for Orenlas",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1160",
+            "endUid": "u1171"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e039",
+      "kind": "npc",
+      "label": "Ladder",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1185",
+            "endUid": "u1192"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1281",
+            "endUid": "u1282"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Companions/Ladder.md"
+    },
+    {
+      "id": "e040",
+      "kind": "item",
+      "label": "Faldrak’s stone bird",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1243",
+            "endUid": "u1244"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1264",
+            "endUid": "u1269"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1389",
+            "endUid": "u1397"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1487",
+            "endUid": "u1488"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The bird drives the proposed journey, but its developing behavior leaves an item versus individual companion classification open."
+    },
+    {
+      "id": "e041",
+      "kind": "item",
+      "label": "Seeker’s glove",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1271",
+            "endUid": "u1275"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1389",
+            "endUid": "u1394"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1533",
+            "endUid": "u1536"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Glove of Crystalized Magic.md"
+    },
+    {
+      "id": "e042",
+      "kind": "npc",
+      "label": "Umli",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1444",
+            "endUid": "u1452"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1622",
+            "endUid": "u1638"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1695",
+            "endUid": "u1704"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1726",
+            "endUid": "u1740"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Umli.md"
+    },
+    {
+      "id": "e043",
+      "kind": "item",
+      "label": "Inkaye from Delwath’s shadow breastplate",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1444",
+            "endUid": "u1453"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1737",
+            "endUid": "u1740"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Inkaye",
+        "planar metal"
+      ],
+      "note": "Things/Materials/Inkaye.md"
+    },
+    {
+      "id": "e044",
+      "kind": "item",
+      "label": "Delwath’s shadow breastplate",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1444",
+            "endUid": "u1449"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Delwath's Elven Breastplate.md"
+    },
+    {
+      "id": "e045",
+      "kind": "organization",
+      "label": "Peaceful orc people under siege",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1489",
+            "endUid": "u1494"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Orc Hordes/People of the Rainbow.md"
+    },
+    {
+      "id": "e046",
+      "kind": "item",
+      "label": "Delwath’s shield",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1622",
+            "endUid": "u1626"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1695",
+            "endUid": "u1704"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1726",
+            "endUid": "u1729"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Deno'qai Lynx Shield.md"
+    },
+    {
+      "id": "e047",
+      "kind": "npc",
+      "label": "Kenku who offered to guide the party into Ursk",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1774",
+            "endUid": "u1779"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e048",
+      "kind": "item",
+      "label": "Pandemonium scroll",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1793",
+            "endUid": "u1798"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Pandemonium Scroll.md"
+    },
+    {
+      "id": "e049",
+      "kind": "organization",
+      "label": "Hobgoblin army trapped beyond the armband",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0920",
+            "endUid": "u0922"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e050",
+      "kind": "item",
+      "label": "Vindristjarna",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0361",
+            "endUid": "u0386"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1287",
+            "endUid": "u1290"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1404",
+            "endUid": "u1425"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1499",
+            "endUid": "u1514"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Ships/Vindristjarna.md"
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Unnamed white-robed greeter",
+      "reason": "A brief welcome establishes generic guild staff without a distinctive individual identity beyond this reception.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0329",
+            "endUid": "u0336"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Delios’s scroll",
+      "reason": "Read as part of his ordinary consultation procedure; this session establishes no separate item history, acquisition or plot-object development.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0637",
+            "endUid": "u0640"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0705",
+            "endUid": "u0706"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Obsidian fly; Ever Spinning Top; alchemical tea kettle",
+      "reason": "Inventory candidates considered during bargaining, without a completed transfer or substantive new item lore; the coin actually offered is included separately.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0601",
+            "endUid": "u0606"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0889",
+            "endUid": "u0904"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Mirror of the Past; helm; cipher",
+      "reason": "Only prior examinations, recharge timing or future uses are recalled; no current examination or independently qualifying item development is played.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0148",
+            "endUid": "u0155"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0821",
+            "endUid": "u0823"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Scepter",
+      "reason": "Passing reference to a former item in the list of things they could have traded; no separate lore or new event.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0114",
+            "endUid": "u0114"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Portable hole / little locket",
+      "reason": "Recalled as Basu’s previous work while proposing his residence; no distinct new item action or lore is established.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0086",
+            "endUid": "u0094"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Faldrak’s cane and large backpack",
+      "reason": "Ordinary equipment and standard spellcasting demonstrations, without independent item-story development.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1188",
+            "endUid": "u1196"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1432",
+            "endUid": "u1437"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1463",
+            "endUid": "u1468"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Delwath’s summoned lynx",
+      "reason": "Routine shield-ability activations for food gathering and patrol do not establish an independently characterized companion.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0988",
+            "endUid": "u0989"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1395",
+            "endUid": "u1397"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Unnamed Drankorian forge wizard and unnamed fey informant",
+      "reason": "Brief secondhand background descriptions do not distinguish meaningful individuals beyond their roles in Faldrak’s destination story.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1315",
+            "endUid": "u1319"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Casian, Kadmos and Grimbaskal as separate people",
+      "reason": "Their names identify the provenance of offered objects, without a separate meaningful personal reference in this session.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0275",
+            "endUid": "u0280"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0531",
+            "endUid": "u0540"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Occulta Ludum as an organization",
+      "reason": "Appears only in the handbook’s name; the book is discussed, not the organization itself.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0156",
+            "endUid": "u0163"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Deno’qai, generic tanshi and merfolk",
+      "reason": "Food provenance, a general religious category and a species mention do not identify separately involved organizations or individual beings.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0119",
+            "endUid": "u0121"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0655",
+            "endUid": "u0673"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0982",
+            "endUid": "u0984"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Mirror prisoners, wyvern, undead and iceworms",
+      "reason": "Generic creatures or hypothetical equipment uses, without an individual identity qualifying for the map.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0607",
+            "endUid": "u0609"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1256",
+            "endUid": "u1263"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1781",
+            "endUid": "u1782"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Heroes’ Feast chalices, healing potions, future tattoos and arrows",
+      "reason": "Planned supplies and routine equipment purchases remain unplayed, without particular significant-object identities.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1680",
+            "endUid": "u1694"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1741",
+            "endUid": "u1743"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "Things/Ships/Vindristjarna.md",
+    "Gazetteer/Greater Sembara/Tollen/Tollen.md",
+    "Gazetteer/Greater Sembara/Tollen/Wards/Skepwalk.md",
+    "People/Tollenders/Delios the Sage.md",
+    "Groups/Tollen Guilds/Ancient and Honorable Guild of Philosophers.md",
+    "People/Dwarves/Faldrak Bronzehammer.md",
+    "People/Elves/Elwis.md",
+    "People/Elves/Melindir.md",
+    "People/Dwarves/Frankar.md",
+    "People/Dunmari/Basu.md",
+    "People/Dunmari/Kassi.md",
+    "People/Skaer/Iskra.md",
+    "People/PCs/Dunmar Fellowship/Companions/Baxter.md",
+    "People/Giants/Hralgar.md",
+    "People/PCs/Great War/Rai.md",
+    "People/Other Nonhumans/Grash.md",
+    "People/Chardonians/Fausto.md",
+    "People/Historical Figures/Drankorian Emperors/Apollyon.md",
+    "People/Extraplanar Powers/Cha'mutte.md",
+    "People/PCs/Dunmar Fellowship/Riswynn.md",
+    "People/Other Nonhumans/Umli.md",
+    "Gods and Religions/Gods/Embodied Gods/Aldanor.md",
+    "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Wyrdling.md",
+    "People/Other Nonhumans/Mashtu the Corruptor.md",
+    "People/PCs/Great War/Companions/Dimitaur.md",
+    "Campaigns/Dunmari Frontier Campaign/Hoards/Grimbaskal's Hoard.md",
+    "People/Tollenders/Thomas Hawke.md",
+    "People/Extraplanar Powers/Sentient Ocean.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Binding Stones.md",
+    "Things/Books/Enchiridion of the Occulta Ludum.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Pandemonium Scroll.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Floating Disc Coin.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Glove of Crystalized Magic.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Mace of Terror.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Cha'mutte’s Shadow Armband.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Jade Piece of Rai's Hand.md",
+    "Things/Materials/Inkaye.md",
+    "People/PCs/Dunmar Fellowship/Companions/Ladder.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Deno'qai Lynx Shield.md",
+    "Things/Artifacts of Power/Apollyon's Phylactery.md",
+    "Groups/Orc Hordes/People of the Rainbow.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Hralgar's Eyes.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Hralgar's Phasing Stone.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Delwath's Elven Breastplate.md",
+    "Groups/Dunmari Mystery Cults/Order of the Awakened Soul.md",
+    "Groups/Tollen Guilds/Dyer's Guild.md"
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-084",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-084/cleaned/dunmari-frontier-084-session.yaml",
+    "sessionYamlSha256": "e20c01cf92ba085e6c397ce7f7b2e1823233daa5eb6ee27ebd16649c71915db1",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-084/cleaned/dunmari-frontier-084-transcript.md",
+    "transcriptSha256": "2a38d552137525ee0ca91b96bb121d1f4e6ccbcffd650d16cf3d9e6a0aa61000",
+    "yamlDates": {
+      "start": "1749-01-01",
+      "end": "1749-01-03"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0003"
+      },
+      "reading": "Play opens at sunrise in Tollen on New Year’s Day, DR 1749; the character introductions remain in that morning.",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0003",
+          "quote": "Let us begin as the sun rises on the New Year in Tollen, the 1749th year since the founding of Drankor"
+        },
+        {
+          "startUid": "u0030",
+          "endUid": "u0033",
+          "quote": "DM: Morning."
+        },
+        {
+          "startUid": "u0034",
+          "endUid": "u0037",
+          "quote": "Kenzo's been up since sunrise and has been spending this morning in the garden."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 1,
+          "day": 1
+        },
+        "partOfDay": "sunrise",
+        "precision": "exact",
+        "basis": "The DM explicitly names the New Year and year 1749; morning is confirmed in the character introductions."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0300",
+        "endUid": "u0303"
+      },
+      "reading": "The next morning, Friday, the four PCs leave the ship to visit the Philosophers; one calendar night has passed.",
+      "evidence": [
+        {
+          "startUid": "u0300",
+          "endUid": "u0303",
+          "quote": "So the next morning, Friday, is a a cold, clear day."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Narrated local time."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0336",
+        "endUid": "u0344"
+      },
+      "reading": "The visitors wait an unspecified time in the guild antechamber before Delios arrives.",
+      "evidence": [
+        {
+          "startUid": "u0336",
+          "endUid": "u0336",
+          "quote": "So she leaves, and you know some time passes."
+        },
+        {
+          "startUid": "u0337",
+          "endUid": "u0344",
+          "quote": "Tea appears. You don't notice who brings it, but presumably somebody must have—a plate of some morning snacks, some little pastries, or something like that until sometime later, Delios the sage, Delios the elder, the old man who was at the at the Dyers Guild party walks up to you"
+        }
+      ],
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0414",
+        "endUid": "u0415"
+      },
+      "reading": "Delios takes a few minutes examining the offered mace during the guild exchange.",
+      "evidence": [
+        {
+          "startUid": "u0414",
+          "endUid": "u0415",
+          "quote": "Picks it up and looks at it, takes—takes a few minutes."
+        }
+      ],
+      "actors": [
+        "Delios"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "The DM narrates time actually spent inspecting the mace."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0949",
+        "endUid": "u0960"
+      },
+      "reading": "The PCs finish at the guild after lunch, about 2–3 in the afternoon.",
+      "evidence": [
+        {
+          "startUid": "u0949",
+          "endUid": "u0960",
+          "quote": "you realize it's now, like, past lunchtime, probably 2, 3 in the afternoon"
+        }
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "The DM gives an approximate local clock range."
+      },
+      "note": "The clock is approximate: probably two or three in the afternoon."
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0949",
+        "endUid": "u0960"
+      },
+      "reading": "After returning to the skyship and preparing, the hosts settle in for Melindir’s dinner visit around 5–6 that evening.",
+      "evidence": [
+        {
+          "startUid": "u0949",
+          "endUid": "u0960",
+          "quote": "So, hurry back to the skyship, and and sort of get set up, and—and you know, prepared to host him and settle in, you know, around 5 or 6 that evening."
+        },
+        {
+          "startUid": "u0965",
+          "endUid": "u0968",
+          "quote": "So they both come in."
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "The DM gives an approximate local clock range."
+      },
+      "note": "The dinner estimate is around five or six that evening, spanning the late-afternoon/dusk boundary."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1184",
+        "endUid": "u1184"
+      },
+      "reading": "After dinner, the party sleeps and play resumes the next morning; a second calendar night has passed.",
+      "evidence": [
+        {
+          "startUid": "u1184",
+          "endUid": "u1184",
+          "quote": "DM: Okay, so you sleep. You go to sleep. The next morning—"
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Narrated local time."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "note": "No rest duration or long-rest credit is stated; only the narrated overnight is counted."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1188",
+        "endUid": "u1192"
+      },
+      "reading": "Ladder returns with Faldrak at about ten in the morning.",
+      "evidence": [
+        {
+          "startUid": "u1188",
+          "endUid": "u1192",
+          "quote": "So at, like, I don't know, 10 in the morning the ladder returns."
+        }
+      ],
+      "actors": [
+        "Ladder",
+        "Faldrak"
+      ],
+      "time": {
+        "clock": "10:00",
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Narrated local time."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1292",
+        "endUid": "u1293"
+      },
+      "reading": "Faldrak reports his earlier visit to the Philosophers early this same morning, before brunch.",
+      "evidence": [
+        {
+          "startUid": "u1292",
+          "endUid": "u1293",
+          "quote": "Made a magic item, and early this morning I went over there and I gave it to them, and they told me where the Edge of Echoes is, and that's why I had to come back for brunch."
+        }
+      ],
+      "actors": [
+        "Faldrak"
+      ],
+      "time": {
+        "partOfDay": "early morning",
+        "relative": {
+          "relation": "before",
+          "reference": "t08",
+          "anchor": "Faldrak’s brunch arrival"
+        },
+        "precision": "approximate",
+        "basis": "Faldrak dates his completed information purchase to early this morning."
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "The opening independently states New Year 1749 in Tollen, establishing January 1. The two next-morning transitions reach January 2 and January 3; those dates agree with YAML.",
+    "expectedDateBoundaries": 2,
+    "supportedDateBoundaries": 2,
+    "evidence": [
+      "t01",
+      "t02",
+      "t07",
+      "t08",
+      "t09"
+    ],
+    "explanation": "The played interval runs from the January 1 sunrise opening through January 3 brunch and its negotiation. Friday is explicitly named for January 2. The planned departure in another two or three days and proposed construction durations do not establish additional completed days; final purchasing and remaining downtime are deferred to the next session. Earlier personal history, recalled festival activity and future appointments do not enlarge the played interval."
+  }
+}
