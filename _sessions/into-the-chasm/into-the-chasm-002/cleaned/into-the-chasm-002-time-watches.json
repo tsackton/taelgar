@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-session.yaml",
+  "source": {
+    "path": "_sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-time-markers.json",
+    "sha256": "9996752a89786c67c23f1d4e35f801d7d6743d067aa6fa4fdbc93fedf5e4ba72"
+  },
+  "transcript": {
+    "path": "_sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-transcript.md",
+    "sha256": "cf11e97e7d36f726ce088f3b7a8330fcf9d2d0434dd8a32e66bb506fbe260ce5"
+  },
+  "dateAssessment": "The working date is January 25, 1730 from the compatible YAML span. The transcript establishes completed rest credit and short elapsed intervals, with no civil date or usable watch. Episode 2’s dated record labels the exploration afternoon. The previous session confirms the completed rest (u1916, u2156–u2158) and continuing entrance decision (u2239–u2241), but its earlier 3 p.m. report (u0348–u0353) describes the world before the unexplained transfer; it does not synchronize the labyrinth’s clock. Its position on or off Taelgar is unresolved in play. The current source’s opening-boundary qualification remains intact. The corpse’s sunrise sacrifice and ancient shrine memories supply no current date or additional played day.",
+  "watches": [
+    {
+      "day": "Opening boundary; civil date unanchored",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "scope": "Completed rest credit",
+      "summary": "An already-completed short rest supplies one hour by convention; the current source does not place its opening boundary.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "January 25, 1730",
+      "startDate": "1730-01-25",
+      "endDate": "1730-01-25",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Wind investigation about one minute; a loop two–three minutes; slide about one minute. No watch anchor.",
+      "markers": [
+        "t02",
+        "t03",
+        "t04"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Episode 2 dated record",
+      "path": "Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 02.md",
+      "sha256": "5397d4758d9dfc319ab2c0c1b71145bab7d6345cfdde0046e888235d82c88acc"
+    },
+    {
+      "label": "Previous-session handoff",
+      "path": "_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-transcript.md",
+      "sha256": "66da15b0cb560901f4968940f61e450ff75b984cfa81ddb3ed4583364e9e8647"
+    }
+  ]
+}

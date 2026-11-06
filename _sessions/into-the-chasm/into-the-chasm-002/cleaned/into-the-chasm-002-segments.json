@@ -31,7 +31,7 @@
         "endUid": "u1760"
       },
       "category": "gameplay",
-      "note": "Environmental hazards and evasions never establish initiative or a repeated ordered turn cycle."
+      "note": "Exploration, environmental checks and creature evasions never establish initiative or a repeated ordered turn cycle."
     },
     {
       "id": "s004",
@@ -48,7 +48,7 @@
         "endUid": "u1959"
       },
       "category": "gameplay",
-      "note": "The cliffhanger reveals the beast and forming copies; the DM explicitly defers initiative until next session (u1943–u1945)."
+      "note": "The beast and ice copies appear at the cliffhanger; u1943–u1945 explicitly reserves reactions and initiative for next session."
     },
     {
       "id": "s006",

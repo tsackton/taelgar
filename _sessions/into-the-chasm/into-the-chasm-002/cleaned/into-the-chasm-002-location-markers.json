@@ -10,17 +10,52 @@
   "places": {
     "p01": {
       "label": "Icy entrance bridge",
+      "kind": "bridge",
       "evidence": [
         {
           "startUid": "u0025",
           "endUid": "u0030",
           "quote": "DM: You're peering down from a icy bridge, into a… room, an entrance room of some sort, that the bridge just… it's open to the sky, but the sky is a stormy white cloud that you can't see through. And as you look down into the labyrinth, it's like, there's piles of snow. The ground is just ice, with snow piles, and there's piles of snow on the walls, and there's 4 passageways leading out of it. Kind of… two in the sort of… well, you don't know which way east or west, but kind of two in one way and two in the other way. And it's about a 6-foot or 8-foot drop. It's not that far, it's like you're in an open… it's open to the sky, and then the passageways are almost like tunnels through the snow."
+        },
+        {
+          "startUid": "u0032",
+          "endUid": "u0033",
+          "quote": "DM: You're on a platform, remember, so you're standing… Oh, you… You haven't dropped down in yet, you're at the bridge that leads in."
         }
       ],
-      "kind": "bridge"
+      "relations": [
+        {
+          "relation": "entrance_to",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u0007",
+              "endUid": "u0024",
+              "quote": "discovered a… the… pathway into this labyrinth, so-called Zeyfa's Labyrinth."
+            },
+            {
+              "startUid": "u0032",
+              "endUid": "u0033",
+              "quote": "DM: You're on a platform, remember, so you're standing… Oh, you… You haven't dropped down in yet, you're at the bridge that leads in."
+            }
+          ]
+        },
+        {
+          "relation": "above",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0025",
+              "endUid": "u0030",
+              "quote": "You're peering down from a icy bridge, into a… room, an entrance room of some sort"
+            }
+          ]
+        }
+      ]
     },
     "p02": {
       "label": "Open snowy entrance room",
+      "kind": "room",
       "evidence": [
         {
           "startUid": "u0025",
@@ -28,16 +63,20 @@
           "quote": "DM: You're peering down from a icy bridge, into a… room, an entrance room of some sort, that the bridge just… it's open to the sky, but the sky is a stormy white cloud that you can't see through. And as you look down into the labyrinth, it's like, there's piles of snow. The ground is just ice, with snow piles, and there's piles of snow on the walls, and there's 4 passageways leading out of it. Kind of… two in the sort of… well, you don't know which way east or west, but kind of two in one way and two in the other way. And it's about a 6-foot or 8-foot drop. It's not that far, it's like you're in an open… it's open to the sky, and then the passageways are almost like tunnels through the snow."
         }
       ],
-      "kind": "room",
       "relations": [
         {
           "relation": "within",
           "target": "p17",
           "evidence": [
             {
+              "startUid": "u0945",
+              "endUid": "u0948",
+              "quote": "you're in Zeyfa's Labyrinth."
+            },
+            {
               "startUid": "u0025",
               "endUid": "u0030",
-              "quote": "And as you look down into the labyrinth, it's like, there's piles of snow."
+              "quote": "DM: You're peering down from a icy bridge, into a… room, an entrance room of some sort, that the bridge just… it's open to the sky, but the sky is a stormy white cloud that you can't see through. And as you look down into the labyrinth, it's like, there's piles of snow. The ground is just ice, with snow piles, and there's piles of snow on the walls, and there's 4 passageways leading out of it. Kind of… two in the sort of… well, you don't know which way east or west, but kind of two in one way and two in the other way. And it's about a 6-foot or 8-foot drop. It's not that far, it's like you're in an open… it's open to the sky, and then the passageways are almost like tunnels through the snow."
             }
           ]
         }
@@ -45,6 +84,7 @@
     },
     "p03": {
       "label": "Four-branch room",
+      "kind": "junction",
       "evidence": [
         {
           "startUid": "u0230",
@@ -52,10 +92,28 @@
           "quote": "DM: And you sort of go down steeply, maybe… 30, 25, 30 feet. And there's… You come to a small sort of room with four passages… five… four passages, kind of like a… like a finger without, without a thumb, sort of branching off."
         }
       ],
-      "kind": "junction"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u0945",
+              "endUid": "u0948",
+              "quote": "you're in Zeyfa's Labyrinth."
+            },
+            {
+              "startUid": "u0230",
+              "endUid": "u0233",
+              "quote": "DM: And you sort of go down steeply, maybe… 30, 25, 30 feet. And there's… You come to a small sort of room with four passages… five… four passages, kind of like a… like a finger without, without a thumb, sort of branching off."
+            }
+          ]
+        }
+      ]
     },
     "p04": {
       "label": "Ice-blocked dead end",
+      "kind": "passage",
       "evidence": [
         {
           "startUid": "u0246",
@@ -63,10 +121,28 @@
           "quote": "DM: Okay? You go down about… 50 feet, and you hear, like, a loud dripping of water, but you can't… You don't see anything, but you hear a loud sort of dripping of water as you go down 50 feet. And then it dead ends. Sort of where you hear the dripping, but it's just… it's just a wall of ice in the middle of the passageway."
         }
       ],
-      "kind": "passage"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u0945",
+              "endUid": "u0948",
+              "quote": "you're in Zeyfa's Labyrinth."
+            },
+            {
+              "startUid": "u0246",
+              "endUid": "u0252",
+              "quote": "DM: Okay? You go down about… 50 feet, and you hear, like, a loud dripping of water, but you can't… You don't see anything, but you hear a loud sort of dripping of water as you go down 50 feet. And then it dead ends. Sort of where you hear the dripping, but it's just… it's just a wall of ice in the middle of the passageway."
+            }
+          ]
+        }
+      ]
     },
     "p05": {
       "label": "Cracked chamber, entrance side",
+      "kind": "room sector",
       "evidence": [
         {
           "startUid": "u0318",
@@ -74,32 +150,102 @@
           "quote": "DM: Okay, so you can… when you walk out into the room, you can just barely make out shadowy that there's a wall on the other side, and it looks like maybe there's a darker spot, but it's hard to actually tell what's over there. Dividing the room in half… is a crack. Like, the floor, there's, like, this crack in the floor that's maybe 15 feet across, so it's relative… or 10 feet across, so it's relatively wide crack in the floor. That… is… I mean, you can't see into it from this angle. But…"
         }
       ],
-      "kind": "room sector"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p19",
+          "evidence": [
+            {
+              "startUid": "u0318",
+              "endUid": "u0322",
+              "quote": "Dividing the room in half… is a crack."
+            },
+            {
+              "startUid": "u0318",
+              "endUid": "u0322",
+              "quote": "DM: Okay, so you can… when you walk out into the room, you can just barely make out shadowy that there's a wall on the other side, and it looks like maybe there's a darker spot, but it's hard to actually tell what's over there. Dividing the room in half… is a crack. Like, the floor, there's, like, this crack in the floor that's maybe 15 feet across, so it's relative… or 10 feet across, so it's relatively wide crack in the floor. That… is… I mean, you can't see into it from this angle. But…"
+            }
+          ]
+        }
+      ]
     },
     "p06": {
       "label": "Cracked chamber, far side",
+      "kind": "room sector",
       "evidence": [
         {
           "startUid": "u0509",
-          "endUid": "u0513",
-          "quote": "DM: You fly across, the… there's definitely a swirling wind here, I mean, it buffets you a little bit as you're flying, like, the… And when you, when you land on the other side, looking back, the snow's… starting to blow pretty heavy, right? Like, you can only vaguely make out… you can only… You can see the entrance where you came in, but it's like… everybody's kind of… obscured slightly by snow. By swirling snow now, as, like, this wind is picking up."
+          "endUid": "u0519",
+          "quote": "DM: You fly across, the… there's definitely a swirling wind here, I mean, it buffets you a little bit as you're flying, like, the… And when you, when you land on the other side, looking back, the snow's… starting to blow pretty heavy, right? Like, you can only vaguely make out… you can only… You can see the entrance where you came in, but it's like… everybody's kind of… obscured slightly by snow. By swirling snow now, as, like, this wind is picking up.\nDM: But otherwise, you see… two… passages, two, like, stone… square stone, like, passageways leading one… sort of straight across, and one at a right angle, like… to the right."
         }
       ],
-      "kind": "room sector"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p19",
+          "evidence": [
+            {
+              "startUid": "u0318",
+              "endUid": "u0322",
+              "quote": "Dividing the room in half… is a crack."
+            },
+            {
+              "startUid": "u0509",
+              "endUid": "u0519",
+              "quote": "DM: You fly across, the… there's definitely a swirling wind here, I mean, it buffets you a little bit as you're flying, like, the… And when you, when you land on the other side, looking back, the snow's… starting to blow pretty heavy, right? Like, you can only vaguely make out… you can only… You can see the entrance where you came in, but it's like… everybody's kind of… obscured slightly by snow. By swirling snow now, as, like, this wind is picking up.\nDM: But otherwise, you see… two… passages, two, like, stone… square stone, like, passageways leading one… sort of straight across, and one at a right angle, like… to the right."
+            }
+          ]
+        }
+      ]
     },
     "p07": {
       "label": "Dark fissure below the cracked chamber",
+      "kind": "fissure",
       "evidence": [
         {
           "startUid": "u0733",
-          "endUid": "u0733",
-          "quote": "DM: like, 15 feet of slack, so you… you swing down 15 feet, you're in pitch blackness when you go down in 15 feet. Like, you can't see above you."
+          "endUid": "u0738",
+          "quote": "DM: like, 15 feet of slack, so you… you swing down 15 feet, you're in pitch blackness when you go down in 15 feet. Like, you can't see above you.\nEolo: So, so I'm…\nDM: And you feel like a hot air all around you.\nFinnan: I will.\nJustas: Blackness because of the mechanics of the light spell, or pitch blackness because something else is going on?\nDM: Pitch blackness because all of a sudden, Justas cannot see a thing. It's like the lights went out."
         }
       ],
-      "kind": "fissure"
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p19",
+          "evidence": [
+            {
+              "startUid": "u0318",
+              "endUid": "u0322",
+              "quote": "Dividing the room in half… is a crack."
+            },
+            {
+              "startUid": "u0733",
+              "endUid": "u0738",
+              "quote": "DM: like, 15 feet of slack, so you… you swing down 15 feet, you're in pitch blackness when you go down in 15 feet. Like, you can't see above you.\nEolo: So, so I'm…\nDM: And you feel like a hot air all around you.\nFinnan: I will.\nJustas: Blackness because of the mechanics of the light spell, or pitch blackness because something else is going on?\nDM: Pitch blackness because all of a sudden, Justas cannot see a thing. It's like the lights went out."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u0945",
+              "endUid": "u0948",
+              "quote": "you're in Zeyfa's Labyrinth."
+            },
+            {
+              "startUid": "u0733",
+              "endUid": "u0738",
+              "quote": "DM: like, 15 feet of slack, so you… you swing down 15 feet, you're in pitch blackness when you go down in 15 feet. Like, you can't see above you.\nEolo: So, so I'm…\nDM: And you feel like a hot air all around you.\nFinnan: I will.\nJustas: Blackness because of the mechanics of the light spell, or pitch blackness because something else is going on?\nDM: Pitch blackness because all of a sudden, Justas cannot see a thing. It's like the lights went out."
+            }
+          ]
+        }
+      ]
     },
     "p08": {
       "label": "Frozen warrior’s chamber",
+      "kind": "room",
       "evidence": [
         {
           "startUid": "u0846",
@@ -107,55 +253,150 @@
           "quote": "DM: Like… carved stone, free of ice, very, very… but very, very, very cold, like, almost… frozen. And it's… it's, like, it's… maybe… it's, like, 10, 15 feet across, maybe, and there's a stone… like… not really a bench, but, like, just, like, a flat spot on the wall, and there's a corpse, like, sitting on the flat spot, like, its arms, like, frozen into the… into the ice behind you, and its legs, like, frozen. Like, you can see, like, ice surrounding its… its hands and feet, basically, trapping it in place."
         }
       ],
-      "kind": "room"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u0945",
+              "endUid": "u0948",
+              "quote": "you're in Zeyfa's Labyrinth."
+            },
+            {
+              "startUid": "u0846",
+              "endUid": "u0850",
+              "quote": "DM: Like… carved stone, free of ice, very, very… but very, very, very cold, like, almost… frozen. And it's… it's, like, it's… maybe… it's, like, 10, 15 feet across, maybe, and there's a stone… like… not really a bench, but, like, just, like, a flat spot on the wall, and there's a corpse, like, sitting on the flat spot, like, its arms, like, frozen into the… into the ice behind you, and its legs, like, frozen. Like, you can see, like, ice surrounding its… its hands and feet, basically, trapping it in place."
+            }
+          ]
+        }
+      ]
     },
     "p09": {
       "label": "Booming corridor",
+      "kind": "passage",
       "evidence": [
         {
           "startUid": "u1281",
-          "endUid": "u1289",
-          "quote": "DM: As you go another maybe 10 feet, you can… The… there's, like, you hear a louder boom in front of you. And it… Damn… Like, you could… you can almost… you can almost see in the… in the… in the air, like, The boom is, like, rippling, it's, like, pushing the snow, right? and, like, again, it almost… it's like you can almost see it in front of you, like a… like a… Every 5 or 6 seconds, like, a booming… Damn."
+          "endUid": "u1294",
+          "quote": "DM: As you go another maybe 10 feet, you can… The… there's, like, you hear a louder boom in front of you. And it… Damn… Like, you could… you can almost… you can almost see in the… in the… in the air, like, The boom is, like, rippling, it's, like, pushing the snow, right? and, like, again, it almost… it's like you can almost see it in front of you, like a… like a… Every 5 or 6 seconds, like, a booming… Damn.\nDM: I mean, it doesn't… there's nothing you can physically see, but it's like, when it booms, you can see the air rippling, and the snow blowing.\nJrain: It's not hurting our ears yet or anything?\nDM: No, it's not dangerous, but, it's like, it's pretty close to you, you… walking through it feels like you can feel it push against you. Like, if you went towards it, like, if you were standing… if you were standing any closer, it would probably potentially knock you down."
         }
       ],
-      "kind": "passage"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u0945",
+              "endUid": "u0948",
+              "quote": "you're in Zeyfa's Labyrinth."
+            },
+            {
+              "startUid": "u1281",
+              "endUid": "u1294",
+              "quote": "DM: As you go another maybe 10 feet, you can… The… there's, like, you hear a louder boom in front of you. And it… Damn… Like, you could… you can almost… you can almost see in the… in the… in the air, like, The boom is, like, rippling, it's, like, pushing the snow, right? and, like, again, it almost… it's like you can almost see it in front of you, like a… like a… Every 5 or 6 seconds, like, a booming… Damn.\nDM: I mean, it doesn't… there's nothing you can physically see, but it's like, when it booms, you can see the air rippling, and the snow blowing.\nJrain: It's not hurting our ears yet or anything?\nDM: No, it's not dangerous, but, it's like, it's pretty close to you, you… walking through it feels like you can feel it push against you. Like, if you went towards it, like, if you were standing… if you were standing any closer, it would probably potentially knock you down."
+            }
+          ]
+        }
+      ]
     },
     "p10": {
       "label": "Shifting snowy junction",
+      "kind": "junction",
       "evidence": [
         {
           "startUid": "u1406",
           "endUid": "u1409",
           "quote": "DM: As you go down the corridor, it actually… you see it branches into… it, like… it… it comes to a stop in, like, an ice, like… snow. You're back on snow now instead of stone. And there's, like, seven passageways, like, all sort of only two and a half feet wide, leading out of this snowy… kind of, again, like, another finger. Two of them are, like… But with some coming back, sort of almost going back the way you came. It looks much more twisty all of a sudden."
+        },
+        {
+          "startUid": "u1507",
+          "endUid": "u1513",
+          "quote": "DM: You do see your ink splotch on the wall, there's… When you come out, there are…\nFinnan: You mean the both ends of this passageway are the same?\nDM: Yes. Well, no, no, no, they're next to each other. You went down, you kept going until you came back. You looped around.\nFinnan: Oh, okay, the room is the same every time.\nDM: The room is the same."
         }
       ],
-      "kind": "junction",
-      "note": "Initially seven passages; the ink mark later establishes a repeatedly revisited room despite disappearing exits."
+      "note": "The ink mark confirms the same room despite the changing number of exits; a fixed floor plan is not established.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u0945",
+              "endUid": "u0948",
+              "quote": "you're in Zeyfa's Labyrinth."
+            },
+            {
+              "startUid": "u1406",
+              "endUid": "u1409",
+              "quote": "DM: As you go down the corridor, it actually… you see it branches into… it, like… it… it comes to a stop in, like, an ice, like… snow. You're back on snow now instead of stone. And there's, like, seven passageways, like, all sort of only two and a half feet wide, leading out of this snowy… kind of, again, like, another finger. Two of them are, like… But with some coming back, sort of almost going back the way you came. It looks much more twisty all of a sudden."
+            }
+          ]
+        }
+      ]
     },
     "p11": {
       "label": "Circular snowy room",
+      "kind": "room",
       "evidence": [
         {
           "startUid": "u1615",
-          "endUid": "u1620",
-          "quote": "DM: As you walk ahead, you… So you cross… you come back out, wow. You think you should come back out into a… into a corner with another passage across, but you actually come to a… to a… circular room, with… Like, a circular, very snowy room with one way out on each of, like… one directly across, one to the left, one to the right."
+          "endUid": "u1622",
+          "quote": "DM: As you walk ahead, you… So you cross… you come back out, wow. You think you should come back out into a… into a corner with another passage across, but you actually come to a… to a… circular room, with… Like, a circular, very snowy room with one way out on each of, like… one directly across, one to the left, one to the right.\nJrain: Like, cardinal points-like spacing?\nDM: Yep."
         }
       ],
-      "kind": "room"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u0945",
+              "endUid": "u0948",
+              "quote": "you're in Zeyfa's Labyrinth."
+            },
+            {
+              "startUid": "u1615",
+              "endUid": "u1622",
+              "quote": "DM: As you walk ahead, you… So you cross… you come back out, wow. You think you should come back out into a… into a corner with another passage across, but you actually come to a… to a… circular room, with… Like, a circular, very snowy room with one way out on each of, like… one directly across, one to the left, one to the right.\nJrain: Like, cardinal points-like spacing?\nDM: Yep."
+            }
+          ]
+        }
+      ]
     },
     "p12": {
       "label": "Ice-curtain corridor",
+      "kind": "passage",
       "evidence": [
         {
           "startUid": "u1633",
-          "endUid": "u1642",
-          "quote": "DM: you see… You come, you turn to the right, and the tunnel that you're walking through, right, like, narrows, and then in front of you, you see these thin sheets of ice hanging from the ceiling, like, almost like curtains, like, like, sort of… many layers, delicate, sort of… the wind sort of stills for a moment here, but… but the ice is still… but there's still enough wind… I mean, there's still a fairly strong howl. It's gotten calmer since you, avoided the… the wind has definitely calmed down a little bit since you avoided the, or, you know, the wind creatures. But it's still… it's still howling strong enough that… it's hard to… it's hard to hear, and there's still, like, this strong… with, you know, strong snow blowing everywhere you go."
+          "endUid": "u1646",
+          "quote": "DM: you see… You come, you turn to the right, and the tunnel that you're walking through, right, like, narrows, and then in front of you, you see these thin sheets of ice hanging from the ceiling, like, almost like curtains, like, like, sort of… many layers, delicate, sort of… the wind sort of stills for a moment here, but… but the ice is still… but there's still enough wind… I mean, there's still a fairly strong howl. It's gotten calmer since you, avoided the… the wind has definitely calmed down a little bit since you avoided the, or, you know, the wind creatures. But it's still… it's still howling strong enough that… it's hard to… it's hard to hear, and there's still, like, this strong… with, you know, strong snow blowing everywhere you go.\nDM: But as you look ahead, like, you see, kind of dangling down, not entirely blocking the corridor, but mostly blocking the corridor, these, like, thin veils, like I said, thin veils of ice. There's, like, cool mist kind of pooling around, underneath, but they, they're sort of blocking the corner. I mean, you could… you could sort of push past, right? You might break them, but you could… they're like sheets, like, hanging."
         }
       ],
-      "kind": "passage"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u0945",
+              "endUid": "u0948",
+              "quote": "you're in Zeyfa's Labyrinth."
+            },
+            {
+              "startUid": "u1633",
+              "endUid": "u1646",
+              "quote": "DM: you see… You come, you turn to the right, and the tunnel that you're walking through, right, like, narrows, and then in front of you, you see these thin sheets of ice hanging from the ceiling, like, almost like curtains, like, like, sort of… many layers, delicate, sort of… the wind sort of stills for a moment here, but… but the ice is still… but there's still enough wind… I mean, there's still a fairly strong howl. It's gotten calmer since you, avoided the… the wind has definitely calmed down a little bit since you avoided the, or, you know, the wind creatures. But it's still… it's still howling strong enough that… it's hard to… it's hard to hear, and there's still, like, this strong… with, you know, strong snow blowing everywhere you go.\nDM: But as you look ahead, like, you see, kind of dangling down, not entirely blocking the corridor, but mostly blocking the corridor, these, like, thin veils, like I said, thin veils of ice. There's, like, cool mist kind of pooling around, underneath, but they, they're sort of blocking the corner. I mean, you could… you could sort of push past, right? You might break them, but you could… they're like sheets, like, hanging."
+            }
+          ]
+        }
+      ]
     },
     "p13": {
       "label": "Nonreflective ice slide",
+      "kind": "slide",
       "evidence": [
         {
           "startUid": "u1750",
@@ -163,10 +404,28 @@
           "quote": "DM: It's… you can't… whatever material you're standing on, there's, like, there is a material underneath you, but it doesn't seem to reflect light. So it's like, you can't… it just feels like blackness, like you're just… you're just in… your light is there, you can see each other, right? It's not like you can't see. But you don't see anything, there's nothing to see. You're just… you can feel this, like, slick ice. It's like… it's like non-reflective black ice under your feet. I mean, you can't… it's steep. It's, like, this steep. As soon as you go that way, you're, like, sliding."
         }
       ],
-      "kind": "slide"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u0945",
+              "endUid": "u0948",
+              "quote": "you're in Zeyfa's Labyrinth."
+            },
+            {
+              "startUid": "u1750",
+              "endUid": "u1752",
+              "quote": "DM: It's… you can't… whatever material you're standing on, there's, like, there is a material underneath you, but it doesn't seem to reflect light. So it's like, you can't… it just feels like blackness, like you're just… you're just in… your light is there, you can see each other, right? It's not like you can't see. But you don't see anything, there's nothing to see. You're just… you can feel this, like, slick ice. It's like… it's like non-reflective black ice under your feet. I mean, you can't… it's steep. It's, like, this steep. As soon as you go that way, you're, like, sliding."
+            }
+          ]
+        }
+      ]
     },
     "p14": {
       "label": "Large chamber, black-stone floor",
+      "kind": "room sector",
       "evidence": [
         {
           "startUid": "u1918",
@@ -174,10 +433,28 @@
           "quote": "DM: So you're in this room. There's some rocks over on the far side that you can't see through. Otherwise, the floor is… black stone of some kind. And the… the… it's a circular, so you can see, like, the half… the sort of half circle."
         }
       ],
-      "kind": "room"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p20",
+          "evidence": [
+            {
+              "startUid": "u1777",
+              "endUid": "u1782",
+              "quote": "It's like a large, maybe 100-foot across chamber, although you can't actually see more than 40 feet."
+            },
+            {
+              "startUid": "u1918",
+              "endUid": "u1922",
+              "quote": "DM: So you're in this room. There's some rocks over on the far side that you can't see through. Otherwise, the floor is… black stone of some kind. And the… the… it's a circular, so you can see, like, the half… the sort of half circle."
+            }
+          ]
+        }
+      ]
     },
     "p15": {
       "label": "Large chamber, upper ice wall",
+      "kind": "room sector",
       "evidence": [
         {
           "startUid": "u1811",
@@ -185,10 +462,28 @@
           "quote": "DM: So, thinking of Finnan's stories of heroic conquest, you're like, nope, I can do this, and you get your axe into the ice, and you're hanging 17 feet up, holding on to… Kalima, with one arm, and… your axe with the other arm. This probably will only hold for 30 seconds, maybe? Or a minute, like, you would… it's not a very comfortable position to be, but…"
         }
       ],
-      "kind": "room sector"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p20",
+          "evidence": [
+            {
+              "startUid": "u1777",
+              "endUid": "u1782",
+              "quote": "It's like a large, maybe 100-foot across chamber, although you can't actually see more than 40 feet."
+            },
+            {
+              "startUid": "u1811",
+              "endUid": "u1814",
+              "quote": "DM: So, thinking of Finnan's stories of heroic conquest, you're like, nope, I can do this, and you get your axe into the ice, and you're hanging 17 feet up, holding on to… Kalima, with one arm, and… your axe with the other arm. This probably will only hold for 30 seconds, maybe? Or a minute, like, you would… it's not a very comfortable position to be, but…"
+            }
+          ]
+        }
+      ]
     },
     "p16": {
       "label": "Large chamber, air above the floor",
+      "kind": "room sector",
       "evidence": [
         {
           "startUid": "u1777",
@@ -196,20 +491,41 @@
           "quote": "DM: And you come out through the side of a… of a, like, the side of a… a wall, and you… everybody actually… well, Kenku, so you… you come out maybe 20 feet above… like, you're coming out into the air, about 20 feet up, on the, like, side of a wall. It's like a large, maybe 100-foot across chamber, although you can't actually see more than 40 feet. There's no storm here. You can see in the moment, as you come…"
         }
       ],
-      "kind": "room sector"
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p20",
+          "evidence": [
+            {
+              "startUid": "u1777",
+              "endUid": "u1782",
+              "quote": "It's like a large, maybe 100-foot across chamber, although you can't actually see more than 40 feet."
+            },
+            {
+              "startUid": "u1777",
+              "endUid": "u1782",
+              "quote": "DM: And you come out through the side of a… of a, like, the side of a… a wall, and you… everybody actually… well, Kenku, so you… you come out maybe 20 feet above… like, you're coming out into the air, about 20 feet up, on the, like, side of a wall. It's like a large, maybe 100-foot across chamber, although you can't actually see more than 40 feet. There's no storm here. You can see in the moment, as you come…"
+            }
+          ]
+        }
+      ]
     },
     "p17": {
       "label": "Zeyfa's Labyrinth",
+      "kind": "labyrinth",
       "evidence": [
         {
           "startUid": "u0007",
           "endUid": "u0024",
           "quote": "DM: So, where we left last time: the… the intrepid or accidental Chasm Explorers were recovering from your battle with the… icebound wolves and their… and their various minions. And had just, sort of, learned something about each other, and… discovered a… the… pathway into this labyrinth, so-called Zeyfa's Labyrinth. That… a mysterious place, somewhere on Taelgar or off it, you're not quite sure. Um, but that Kalima, the… woman who is trapped here with you is terrified of. But with some coaxing from Justas and Finnan, she seems willing, or at least… able to… she seems willing to venture with you into this… into this labyrinth. So, as we begin,"
+        },
+        {
+          "startUid": "u0945",
+          "endUid": "u0948",
+          "quote": "DM: Zeyfa is… you're in Zeyfa's Labyrinth. Zeyfa is in the mythology of the Kestavo, the… the religion is the… the, spirit of the cruel west wind. and Zeyfa's children, are, like… cause… trouble and have to be placated."
         }
       ],
-      "kind": "labyrinth",
-      "vaultPath": "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Zeyfa's Labyrinth.md",
-      "note": "The party does not know whether this is on Taelgar; the vault identity does not fix the shifting internal geography."
+      "vaultPath": "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Zeyfa's Labyrinth.md"
     },
     "p18": {
       "label": "Illusory hiding place below Justas",
@@ -217,16 +533,92 @@
       "evidence": [
         {
           "startUid": "u1897",
-          "endUid": "u1897",
-          "quote": "Finnan: I will use Minor Illusion to extend the ice wall by 5 feet, right in… right below… Justas."
-        },
-        {
-          "startUid": "u1903",
           "endUid": "u1904",
-          "quote": "DM: She'll hide behind the ice wall. She'll accept that. How's Justas getting down? He's just jumping?"
+          "quote": "Finnan: I will use Minor Illusion to extend the ice wall by 5 feet, right in… right below… Justas.\nDM: Okay.\nFinnan: Telepathically tell… yeah, yeah. Kalima to hide there.\nDM: Okay.\nFinnan: It only lasts a minute, but it's not concentration, so I can refresh it for an action if I need to.\nDM: She'll hide behind the ice wall. She'll accept that. How's Justas getting down? He's just jumping?"
         }
       ],
-      "note": "The hiding place is below Justas in the chamber; its exact elevation is not stated."
+      "note": "The accepted hiding place is below Justas; neither its exact elevation nor Ekko’s landing is narrated.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p20",
+          "evidence": [
+            {
+              "startUid": "u1777",
+              "endUid": "u1782",
+              "quote": "It's like a large, maybe 100-foot across chamber, although you can't actually see more than 40 feet."
+            },
+            {
+              "startUid": "u1897",
+              "endUid": "u1904",
+              "quote": "Finnan: I will use Minor Illusion to extend the ice wall by 5 feet, right in… right below… Justas.\nDM: Okay.\nFinnan: Telepathically tell… yeah, yeah. Kalima to hide there.\nDM: Okay.\nFinnan: It only lasts a minute, but it's not concentration, so I can refresh it for an action if I need to.\nDM: She'll hide behind the ice wall. She'll accept that. How's Justas getting down? He's just jumping?"
+            }
+          ]
+        }
+      ]
+    },
+    "p19": {
+      "label": "Low chamber divided by a crack",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0309",
+          "endUid": "u0326",
+          "quote": "DM: opens up into a wider room, maybe, like, 40 or 50 feet across, like, almost a sort of… a bigger space, but with a low ceiling, only, maybe 5 or 6 feet high. So, like, it's… it definitely feels low, like, maybe… probably not more than 5 feet, so you have to crouch a little bit when you… when you start to come into the room.\nFinnan: I don't, but…\nDM: Well, Finn doesn't, but… and so this room, the walls of this room are all ice. And you can see… two egg… two passages… well, actually, how… how long… how big does light go?\nFinnan: 30 foot bright, 30 foot… dim.\nDM: Okay, so…\nFinnan: 20 foot light, bright, 20 foot dim, so 40 feet total.\nDM: Okay, so you can… when you walk out into the room, you can just barely make out shadowy that there's a wall on the other side, and it looks like maybe there's a darker spot, but it's hard to actually tell what's over there. Dividing the room in half… is a crack. Like, the floor, there's, like, this crack in the floor that's maybe 15 feet across, so it's relative… or 10 feet across, so it's relatively wide crack in the floor. That… is… I mean, you can't see into it from this angle. But…\nDM: All around the side of the crack, like, running along the whole length of the room on the crack, are these tendrils of ice that are, like… they look like ice from where you're standing, but they're sort of growing up almost like ferns, and they're waving slightly in some sort of breeze. And I'm not sure who's first, but whoever's first into the room, it feels substantially warmer in here than the other rooms that you've been into.\nDM: Like, it feels like… it almost feels like there's a warm breath of air coming up from this crack."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u0945",
+              "endUid": "u0948",
+              "quote": "you're in Zeyfa's Labyrinth."
+            },
+            {
+              "startUid": "u0309",
+              "endUid": "u0326",
+              "quote": "DM: opens up into a wider room, maybe, like, 40 or 50 feet across, like, almost a sort of… a bigger space, but with a low ceiling, only, maybe 5 or 6 feet high. So, like, it's… it definitely feels low, like, maybe… probably not more than 5 feet, so you have to crouch a little bit when you… when you start to come into the room.\nFinnan: I don't, but…\nDM: Well, Finn doesn't, but… and so this room, the walls of this room are all ice. And you can see… two egg… two passages… well, actually, how… how long… how big does light go?\nFinnan: 30 foot bright, 30 foot… dim.\nDM: Okay, so…\nFinnan: 20 foot light, bright, 20 foot dim, so 40 feet total.\nDM: Okay, so you can… when you walk out into the room, you can just barely make out shadowy that there's a wall on the other side, and it looks like maybe there's a darker spot, but it's hard to actually tell what's over there. Dividing the room in half… is a crack. Like, the floor, there's, like, this crack in the floor that's maybe 15 feet across, so it's relative… or 10 feet across, so it's relatively wide crack in the floor. That… is… I mean, you can't see into it from this angle. But…\nDM: All around the side of the crack, like, running along the whole length of the room on the crack, are these tendrils of ice that are, like… they look like ice from where you're standing, but they're sort of growing up almost like ferns, and they're waving slightly in some sort of breeze. And I'm not sure who's first, but whoever's first into the room, it feels substantially warmer in here than the other rooms that you've been into.\nDM: Like, it feels like… it almost feels like there's a warm breath of air coming up from this crack."
+            }
+          ]
+        }
+      ]
+    },
+    "p20": {
+      "label": "Large black-stone chamber",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1777",
+          "endUid": "u1792",
+          "quote": "DM: And you come out through the side of a… of a, like, the side of a… a wall, and you… everybody actually… well, Kenku, so you… you come out maybe 20 feet above… like, you're coming out into the air, about 20 feet up, on the, like, side of a wall. It's like a large, maybe 100-foot across chamber, although you can't actually see more than 40 feet. There's no storm here. You can see in the moment, as you come…\nFinnan: out of the slide?\nDM: You can see… Tim, you're echoing.\nEkko: You can see… The Wizard of Oz.\nDM: You can… so, you can see, like…\nFinnan: see, like…\nDM: the… The walls near to you are, like, sheer ice. The floor is, like… black stone. There's… some scattered rocks in the distance, you can't quite… see past them, but there's clearly, like, a boulder fall a little bit away. And now you're falling, you have, like, one second to do something."
+        },
+        {
+          "startUid": "u1918",
+          "endUid": "u1922",
+          "quote": "DM: So you're in this room. There's some rocks over on the far side that you can't see through. Otherwise, the floor is… black stone of some kind. And the… the… it's a circular, so you can see, like, the half… the sort of half circle."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u0945",
+              "endUid": "u0948",
+              "quote": "you're in Zeyfa's Labyrinth."
+            },
+            {
+              "startUid": "u1777",
+              "endUid": "u1792",
+              "quote": "DM: And you come out through the side of a… of a, like, the side of a… a wall, and you… everybody actually… well, Kenku, so you… you come out maybe 20 feet above… like, you're coming out into the air, about 20 feet up, on the, like, side of a wall. It's like a large, maybe 100-foot across chamber, although you can't actually see more than 40 feet. There's no storm here. You can see in the moment, as you come…\nFinnan: out of the slide?\nDM: You can see… Tim, you're echoing.\nEkko: You can see… The Wizard of Oz.\nDM: You can… so, you can see, like…\nFinnan: see, like…\nDM: the… The walls near to you are, like, sheer ice. The floor is, like… black stone. There's… some scattered rocks in the distance, you can't quite… see past them, but there's clearly, like, a boulder fall a little bit away. And now you're falling, you have, like, one second to do something."
+            }
+          ]
+        }
+      ]
     }
   },
   "markers": [
@@ -240,7 +632,7 @@
       "actors": [
         "party"
       ],
-      "reading": "The party begins on the icy bridge above the labyrinth entrance.",
+      "reading": "Begin on the icy bridge above the entrance, before descending.",
       "evidence": [
         {
           "startUid": "u0025",
@@ -265,7 +657,7 @@
       "actors": [
         "party"
       ],
-      "reading": "From the bridge, the party sees the open snowy room and its four exits below.",
+      "reading": "Look down from the bridge into the snowy entrance and its four exits.",
       "evidence": [
         {
           "startUid": "u0025",
@@ -291,18 +683,8 @@
       "evidence": [
         {
           "startUid": "u0153",
-          "endUid": "u0153",
-          "quote": "DM: You're down, I assume you just jumped down, there's not…"
-        },
-        {
-          "startUid": "u0154",
-          "endUid": "u0154",
-          "quote": "Justas: Yeah, we're gonna… climb on down."
-        },
-        {
-          "startUid": "u0155",
           "endUid": "u0155",
-          "quote": "DM: Yep."
+          "quote": "DM: You're down, I assume you just jumped down, there's not…\nJustas: Yeah, we're gonna… climb on down.\nDM: Yep."
         }
       ],
       "from": "p01",
@@ -319,17 +701,17 @@
       "actors": [
         "party"
       ],
-      "reading": "Take the northeast passage, follow its twisting fork to the left, and descend to the four-branch room.",
+      "reading": "Follow the northeast entrance passage, take the left fork and descend to the four-branch room.",
       "evidence": [
+        {
+          "startUid": "u0156",
+          "endUid": "u0159",
+          "quote": "Finnan: There's probably no wrong way. There's not much to pick from, so how about… that one. Finnan points to the one that is… like, northeast opposite the bridge. Like, the most diagonal opposite from the bridge."
+        },
         {
           "startUid": "u0198",
           "endUid": "u0199",
           "quote": "DM: Okay. So, you start down the passage."
-        },
-        {
-          "startUid": "u0203",
-          "endUid": "u0209",
-          "quote": "DM: And then, after this, like, entrance through, like, a snowbank that's kind of, like, almost looks dug like a circular tunnel, you come out into, after maybe 20 feet, you come out into, like, a rough… stone… rough stone floor. A little bit of stone on, like, stone walls. Still, the ceiling is still, like, ice, like, snowpack. And there's, like, hoarfrost on the walls, so it's, like, rough stone with, like, spidery ice cracks. And after another, maybe… 20 feet, it splits. You come to, like, a dead end, like, a dead end, almost, and it splits. So you can either go, it twists, and do any of you have any magical ability to keep direction?"
         },
         {
           "startUid": "u0218",
@@ -338,13 +720,8 @@
         },
         {
           "startUid": "u0230",
-          "endUid": "u0233",
-          "quote": "DM: And you sort of go down steeply, maybe… 30, 25, 30 feet. And there's… You come to a small sort of room with four passages… five… four passages, kind of like a… like a finger without, without a thumb, sort of branching off."
-        },
-        {
-          "startUid": "u0234",
           "endUid": "u0238",
-          "quote": "DM: And as you come out into this room, like… again, it's… it's similar… passageway, like, there's a… there's little snow floor… snow on the floor, a big wind… like, a gust of wind sort of blows up very suddenly as you come out of this room, and all the snow sort of swirls around you for a minute. And you're sort of standing in this passageway with… four directions you can go."
+          "quote": "DM: And you sort of go down steeply, maybe… 30, 25, 30 feet. And there's… You come to a small sort of room with four passages… five… four passages, kind of like a… like a finger without, without a thumb, sort of branching off.\nDM: And as you come out into this room, like… again, it's… it's similar… passageway, like, there's a… there's little snow floor… snow on the floor, a big wind… like, a gust of wind sort of blows up very suddenly as you come out of this room, and all the snow sort of swirls around you for a minute. And you're sort of standing in this passageway with… four directions you can go."
         }
       ],
       "from": "p02",
@@ -362,17 +739,12 @@
       "actors": [
         "party"
       ],
-      "reading": "Explore the rightmost still-air branch to the ice blockage, hear dripping beyond it, and return to the junction.",
+      "reading": "Reach the ice blockage down the rightmost still-air branch, investigate dripping beyond it, and backtrack.",
       "evidence": [
         {
           "startUid": "u0244",
-          "endUid": "u0245",
-          "quote": "Finnan: We have no basis to choose here, so let's go to one that doesn't have wind. The farthest to the right."
-        },
-        {
-          "startUid": "u0246",
           "endUid": "u0252",
-          "quote": "DM: Okay? You go down about… 50 feet, and you hear, like, a loud dripping of water, but you can't… You don't see anything, but you hear a loud sort of dripping of water as you go down 50 feet. And then it dead ends. Sort of where you hear the dripping, but it's just… it's just a wall of ice in the middle of the passageway."
+          "quote": "Finnan: We have no basis to choose here, so let's go to one that doesn't have wind. The farthest to the right.\nDM: Okay? You go down about… 50 feet, and you hear, like, a loud dripping of water, but you can't… You don't see anything, but you hear a loud sort of dripping of water as you go down 50 feet. And then it dead ends. Sort of where you hear the dripping, but it's just… it's just a wall of ice in the middle of the passageway."
         },
         {
           "startUid": "u0288",
@@ -381,25 +753,20 @@
         },
         {
           "startUid": "u0303",
-          "endUid": "u0303",
-          "quote": "DM: You go back to the…"
-        },
-        {
-          "startUid": "u0304",
           "endUid": "u0304",
-          "quote": "Finnan: Yup, let's just take the next one."
+          "quote": "DM: You go back to the…\nFinnan: Yup, let's just take the next one."
         }
       ],
       "from": "p03",
       "to": "p03",
+      "completion": "arrived",
+      "mode": "walk",
       "route": [
         {
-          "reading": "Reach the ice blockage roughly fifty feet down the branch, without entering the space beyond.",
-          "place": "p04"
+          "place": "p04",
+          "reading": "Reach the blockage about fifty feet down the branch; the space beyond remains inaccessible."
         }
-      ],
-      "completion": "arrived",
-      "mode": "walk"
+      ]
     },
     {
       "id": "l06",
@@ -411,27 +778,17 @@
       "actors": [
         "party"
       ],
-      "reading": "Follow the next passage, dipping then rising, into the low chamber divided by a fissure.",
+      "reading": "Take the next dipping and rising passage into the low cracked chamber.",
       "evidence": [
         {
           "startUid": "u0305",
-          "endUid": "u0308",
-          "quote": "DM: You take the next one, and you go down about… Again, it, it, it… it drops, it kind of drops down for a little bit, and then starts rising. It turns sharply left, and then sharply right, and then…"
-        },
-        {
-          "startUid": "u0309",
           "endUid": "u0310",
-          "quote": "DM: opens up into a wider room, maybe, like, 40 or 50 feet across, like, almost a sort of… a bigger space, but with a low ceiling, only, maybe 5 or 6 feet high. So, like, it's… it definitely feels low, like, maybe… probably not more than 5 feet, so you have to crouch a little bit when you… when you start to come into the room."
+          "quote": "DM: You take the next one, and you go down about… Again, it, it, it… it drops, it kind of drops down for a little bit, and then starts rising. It turns sharply left, and then sharply right, and then…\nDM: opens up into a wider room, maybe, like, 40 or 50 feet across, like, almost a sort of… a bigger space, but with a low ceiling, only, maybe 5 or 6 feet high. So, like, it's… it definitely feels low, like, maybe… probably not more than 5 feet, so you have to crouch a little bit when you… when you start to come into the room."
         },
         {
           "startUid": "u0318",
-          "endUid": "u0322",
-          "quote": "DM: Okay, so you can… when you walk out into the room, you can just barely make out shadowy that there's a wall on the other side, and it looks like maybe there's a darker spot, but it's hard to actually tell what's over there. Dividing the room in half… is a crack. Like, the floor, there's, like, this crack in the floor that's maybe 15 feet across, so it's relative… or 10 feet across, so it's relatively wide crack in the floor. That… is… I mean, you can't see into it from this angle. But…"
-        },
-        {
-          "startUid": "u0323",
           "endUid": "u0325",
-          "quote": "DM: All around the side of the crack, like, running along the whole length of the room on the crack, are these tendrils of ice that are, like… they look like ice from where you're standing, but they're sort of growing up almost like ferns, and they're waving slightly in some sort of breeze. And I'm not sure who's first, but whoever's first into the room, it feels substantially warmer in here than the other rooms that you've been into."
+          "quote": "DM: Okay, so you can… when you walk out into the room, you can just barely make out shadowy that there's a wall on the other side, and it looks like maybe there's a darker spot, but it's hard to actually tell what's over there. Dividing the room in half… is a crack. Like, the floor, there's, like, this crack in the floor that's maybe 15 feet across, so it's relative… or 10 feet across, so it's relatively wide crack in the floor. That… is… I mean, you can't see into it from this angle. But…\nDM: All around the side of the crack, like, running along the whole length of the room on the crack, are these tendrils of ice that are, like… they look like ice from where you're standing, but they're sort of growing up almost like ferns, and they're waving slightly in some sort of breeze. And I'm not sure who's first, but whoever's first into the room, it feels substantially warmer in here than the other rooms that you've been into."
         }
       ],
       "from": "p03",
@@ -449,22 +806,17 @@
       "actors": [
         "Ekko"
       ],
-      "reading": "Fly across the fissure and land on the far side.",
+      "reading": "Fly across and land beside the two exits on the far side.",
       "evidence": [
         {
           "startUid": "u0502",
-          "endUid": "u0502",
-          "quote": "Ekko: I will impatiently just fly over."
+          "endUid": "u0503",
+          "quote": "Ekko: I will impatiently just fly over.\nDM: Okay?"
         },
         {
           "startUid": "u0509",
-          "endUid": "u0513",
-          "quote": "DM: You fly across, the… there's definitely a swirling wind here, I mean, it buffets you a little bit as you're flying, like, the… And when you, when you land on the other side, looking back, the snow's… starting to blow pretty heavy, right? Like, you can only vaguely make out… you can only… You can see the entrance where you came in, but it's like… everybody's kind of… obscured slightly by snow. By swirling snow now, as, like, this wind is picking up."
-        },
-        {
-          "startUid": "u0514",
           "endUid": "u0519",
-          "quote": "DM: But otherwise, you see… two… passages, two, like, stone… square stone, like, passageways leading one… sort of straight across, and one at a right angle, like… to the right."
+          "quote": "DM: You fly across, the… there's definitely a swirling wind here, I mean, it buffets you a little bit as you're flying, like, the… And when you, when you land on the other side, looking back, the snow's… starting to blow pretty heavy, right? Like, you can only vaguely make out… you can only… You can see the entrance where you came in, but it's like… everybody's kind of… obscured slightly by snow. By swirling snow now, as, like, this wind is picking up.\nDM: But otherwise, you see… two… passages, two, like, stone… square stone, like, passageways leading one… sort of straight across, and one at a right angle, like… to the right."
         }
       ],
       "from": "p05",
@@ -482,27 +834,17 @@
       "actors": [
         "Eolo"
       ],
-      "reading": "Slip before an attempted jump, catch the near edge, then fly across.",
+      "reading": "Slip on the attempted jump, catch the near edge, then fly across.",
       "evidence": [
         {
           "startUid": "u0553",
-          "endUid": "u0553",
-          "quote": "DM: Roll 8. Well, the floor's quite icy, you slip. Before you even get to the jump, you slip on the icy floor, you fall prone, you go… make a DEX save."
-        },
-        {
-          "startUid": "u0556",
           "endUid": "u0557",
-          "quote": "DM: Okay. You go sliding towards the edge of this thing, you crash through the little ferns, and you catch yourself before you fall into the chasm. Into the crack, lying on the side."
+          "quote": "DM: Roll 8. Well, the floor's quite icy, you slip. Before you even get to the jump, you slip on the icy floor, you fall prone, you go… make a DEX save.\nEolo: Oh my god. 19.\nDM: Okay. You go sliding towards the edge of this thing, you crash through the little ferns, and you catch yourself before you fall into the chasm. Into the crack, lying on the side."
         },
         {
           "startUid": "u0574",
-          "endUid": "u0575",
-          "quote": "Eolo: Right. So, Eolo flies across."
-        },
-        {
-          "startUid": "u0577",
           "endUid": "u0577",
-          "quote": "DM: Okay."
+          "quote": "Eolo: Right. So, Eolo flies across.\nFinnan: Finnan's gonna just sigh.\nDM: Okay."
         },
         {
           "startUid": "u0633",
@@ -514,7 +856,7 @@
       "to": "p06",
       "completion": "arrived",
       "mode": "fly",
-      "note": "The later DM position check confirms both Kenku on the far side before the ferry trips."
+      "note": "The later DM position check supersedes the earlier proposed return: both Kenku remain across until the ferrying begins."
     },
     {
       "id": "l09",
@@ -527,33 +869,24 @@
         "Eolo",
         "Finnan"
       ],
-      "reading": "Eolo returns for Finnan and carries him to the far side.",
+      "reading": "Eolo returns for Finnan and flies him to the far side.",
       "evidence": [
         {
           "startUid": "u0640",
-          "endUid": "u0643",
-          "quote": "Eolo: Well, Eolo comes back over with a flap. Okay, who wants to ride over first? Finnan?"
-        },
-        {
-          "startUid": "u0644",
           "endUid": "u0646",
-          "quote": "Finnan: Yeah? I'm gonna jump on your back. On, like, a piggyback ride."
+          "quote": "Eolo: Well, Eolo comes back over with a flap. Okay, who wants to ride over first? Finnan?\nFinnan: Yeah? I'm gonna jump on your back. On, like, a piggyback ride."
         },
         {
           "startUid": "u0653",
-          "endUid": "u0653",
-          "quote": "Eolo: How are we having an indoor storm here? This is very odd. So, Eolo flies Finnan across."
-        },
-        {
-          "startUid": "u0654",
           "endUid": "u0654",
-          "quote": "DM: Okay, yeah, that's not a problem. Kalima's looking very nervous, and is, like, clinging to Justas."
+          "quote": "Eolo: How are we having an indoor storm here? This is very odd. So, Eolo flies Finnan across.\nDM: Okay, yeah, that's not a problem. Kalima's looking very nervous, and is, like, clinging to Justas."
         }
       ],
       "from": "p05",
       "to": "p06",
       "completion": "arrived",
-      "mode": "fly"
+      "mode": "fly",
+      "note": "The starting endpoint is Finnan’s departure; the evidence also retains Eolo’s preceding return."
     },
     {
       "id": "l10",
@@ -567,17 +900,12 @@
         "Kalima",
         "Ekko"
       ],
-      "reading": "Jrain levitates and Ekko returns to help carry Kalima; they reach the far side, leaving only Justas behind.",
+      "reading": "Ekko returns to help levitating Jrain carry Kalima across; only Justas remains behind.",
       "evidence": [
         {
           "startUid": "u0664",
-          "endUid": "u0665",
-          "quote": "Jrain: But would I provide any… would my spell provide enough lift to help Kalima to be airborne as well? Like, if a Kenku was flying and I was levitating, could we sort of divide up her weight between us?"
-        },
-        {
-          "startUid": "u0667",
           "endUid": "u0667",
-          "quote": "DM: If they… if a Kenku was sort of holding half of her, and you were… like, two people could easily carry her in, like, a… one holding her shoulders, one holding her legs."
+          "quote": "Jrain: But would I provide any… would my spell provide enough lift to help Kalima to be airborne as well? Like, if a Kenku was flying and I was levitating, could we sort of divide up her weight between us?\nDM: You could probably manage that, yeah?\nDM: If they… if a Kenku was sort of holding half of her, and you were… like, two people could easily carry her in, like, a… one holding her shoulders, one holding her legs."
         },
         {
           "startUid": "u0672",
@@ -586,13 +914,8 @@
         },
         {
           "startUid": "u0679",
-          "endUid": "u0679",
-          "quote": "Ekko: We're going back, yeah, I can just fly-fly back over."
-        },
-        {
-          "startUid": "u0683",
           "endUid": "u0683",
-          "quote": "DM: Now, everybody's across except Justas."
+          "quote": "Ekko: We're going back, yeah, I can just fly-fly back over.\nJrain: Thank you.\nDM: I appreciate it.\nJrain: Appreciate your…\nDM: Now, everybody's across except Justas."
         }
       ],
       "from": "p05",
@@ -610,27 +933,12 @@
       "actors": [
         "Justas"
       ],
-      "reading": "Miss the leap and swing on the rope into darkness about fifteen feet below the fissure edge.",
+      "reading": "Fall on the safety rope into darkness about fifteen feet beneath the edge.",
       "evidence": [
         {
           "startUid": "u0724",
-          "endUid": "u0726",
-          "quote": "DM: Justas hits the… misses… misses the step on his, sort of, leap, trying to just be too powerful, like, mistimes the step, and just, like, steps off the side of the… of the chasm accidentally, right? Like… fall down. You are holding the rope. So…"
-        },
-        {
-          "startUid": "u0728",
-          "endUid": "u0728",
-          "quote": "DM: The rope is tied to you, and they're on the other side, so you fall and you start swinging across, right? Like, your weight starts taking you across. You feel, like, a heat? Like, you're in… let's see, how… the rope's 50 feet of rope?"
-        },
-        {
-          "startUid": "u0733",
-          "endUid": "u0733",
-          "quote": "DM: like, 15 feet of slack, so you… you swing down 15 feet, you're in pitch blackness when you go down in 15 feet. Like, you can't see above you."
-        },
-        {
-          "startUid": "u0738",
           "endUid": "u0738",
-          "quote": "DM: Pitch blackness because all of a sudden, Justas cannot see a thing. It's like the lights went out."
+          "quote": "DM: Justas hits the… misses… misses the step on his, sort of, leap, trying to just be too powerful, like, mistimes the step, and just, like, steps off the side of the… of the chasm accidentally, right? Like… fall down. You are holding the rope. So…\nJustas: It's tied to me, yeah.\nDM: The rope is tied to you, and they're on the other side, so you fall and you start swinging across, right? Like, your weight starts taking you across. You feel, like, a heat? Like, you're in… let's see, how… the rope's 50 feet of rope?\nJustas: Yeah, but…\nJrain: We're holding a lot.\nDM: Nice.\nJustas: Slack.\nDM: like, 15 feet of slack, so you… you swing down 15 feet, you're in pitch blackness when you go down in 15 feet. Like, you can't see above you.\nEolo: So, so I'm…\nDM: And you feel like a hot air all around you.\nFinnan: I will.\nJustas: Blackness because of the mechanics of the light spell, or pitch blackness because something else is going on?\nDM: Pitch blackness because all of a sudden, Justas cannot see a thing. It's like the lights went out."
         }
       ],
       "from": "p05",
@@ -648,27 +956,17 @@
       "actors": [
         "Justas"
       ],
-      "reading": "Strike the far wall and brace with the axe; Eolo’s telekinesis lifts Justas back to the far side and his sight returns.",
+      "reading": "Brace against the far wall, then rise to the far side through Eolo’s telekinesis.",
       "evidence": [
         {
           "startUid": "u0748",
-          "endUid": "u0751",
-          "quote": "DM: You, you hit the far side. It's… there's, like… it's, like, very rough and has sharp ice. You actually take 2 points of damage as you hit the far side. And the rope starts to slip. I mean, you guys are not… doing a great job at keeping him from falling."
-        },
-        {
-          "startUid": "u0753",
           "endUid": "u0754",
-          "quote": "DM: Yeah, I mean, you're not descending rapidly. It's not like… it's like, you feel you jumped out, but you can't see anything, but you feel yourself fall down one or two sides, you… You, by feel, smash the battleaxe into the wall, and you kind of get a decent hold."
+          "quote": "DM: You, you hit the far side. It's… there's, like… it's, like, very rough and has sharp ice. You actually take 2 points of damage as you hit the far side. And the rope starts to slip. I mean, you guys are not… doing a great job at keeping him from falling.\nJustas: I mean, I'll smash the spiky end of the battle axe into the wall to stop my descent.\nDM: Yeah, I mean, you're not descending rapidly. It's not like… it's like, you feel you jumped out, but you can't see anything, but you feel yourself fall down one or two sides, you… You, by feel, smash the battleaxe into the wall, and you kind of get a decent hold."
         },
         {
-          "startUid": "u0758",
-          "endUid": "u0758",
-          "quote": "DM: Well, if you telekinete him, he just comes flying up."
-        },
-        {
-          "startUid": "u0762",
+          "startUid": "u0755",
           "endUid": "u0766",
-          "quote": "Justas: Does my sight come back as soon as I cross the… yep. Okay. Justas brushes himself off. I… I probably should have said yes to that jump spell. In fairness, too, this is not the first time this same thing has happened to me. As soon as I went in, though, did the lights go out for all of you? Like, as soon as I went in there, I couldn't see a thing. It's weird."
+          "quote": "Jrain: Isn't Eolo also yanking on him?\nDM: Are you telekineting him?\nEolo: Yep.\nDM: Well, if you telekinete him, he just comes flying up.\nFinnan: Yep.\nEolo: Yep, he just comes flying back, straight up in the air.\nFinnan: Okay.\nJustas: Does my sight come back as soon as I cross the… yep. Okay. Justas brushes himself off. I… I probably should have said yes to that jump spell. In fairness, too, this is not the first time this same thing has happened to me. As soon as I went in, though, did the lights go out for all of you? Like, as soon as I went in there, I couldn't see a thing. It's weird."
         }
       ],
       "from": "p07",
@@ -686,33 +984,23 @@
       "actors": [
         "party"
       ],
-      "reading": "Try the right exit, then return to the chamber and discover that the other exit has moved.",
+      "reading": "Test the right passage and return; the other exit has vanished and a new one has appeared.",
       "evidence": [
         {
-          "startUid": "u0792",
-          "endUid": "u0792",
-          "quote": "DM: I mean, the wind is coming just as strongly from up, like, as you step into the threshold, there's, like, a burst of a snowy gust that's blowing up the corridor towards you."
-        },
-        {
-          "startUid": "u0799",
-          "endUid": "u0800",
-          "quote": "DM: When you turn around, that's not there. Passageway's not there."
-        },
-        {
-          "startUid": "u0803",
+          "startUid": "u0791",
           "endUid": "u0804",
-          "quote": "DM: So, like, you turned to the right, you started… you started down the path, it was howling wind, you turned around, came back, and saw the one that was originally directly across as gone, and the ones… and… but there's… seems to be an opening in the wall directly across from the one that… on the right, that's to the left of your… where you crossed now."
+          "quote": "Jrain: That's what I'm saying, is let's go to the threshold of the one on the right.\nDM: I mean, the wind is coming just as strongly from up, like, as you step into the threshold, there's, like, a burst of a snowy gust that's blowing up the corridor towards you.\nJrain: This doesn't seem to be getting any better, this weather condition that we're having locally.\nDM: Do you want to quickly try the other…\nJrain: thing and see if the weather is different in the other tunnel? Before we go too far down this blizzard.\nEolo: I suppose so.\nFinnan: Sure.\nDM: When you turn around, that's not there. Passageway's not there.\nJrain: Okay.\nDM: There is one on the wall directly across from you, though, as you sort of…\nDM: So, like, you turned to the right, you started… you started down the path, it was howling wind, you turned around, came back, and saw the one that was originally directly across as gone, and the ones… and… but there's… seems to be an opening in the wall directly across from the one that… on the right, that's to the left of your… where you crossed now."
         }
       ],
       "from": "p06",
       "to": "p06",
+      "completion": "arrived",
+      "mode": "walk",
       "route": [
         {
-          "reading": "Briefly enter the windy right-hand passage and turn back."
+          "reading": "Briefly enter the windy right passage, then turn back."
         }
-      ],
-      "completion": "arrived",
-      "mode": "walk"
+      ]
     },
     {
       "id": "l14",
@@ -724,12 +1012,12 @@
       "actors": [
         "party"
       ],
-      "reading": "Follow the passage through growing ice and successive left turns to the small chamber containing a frozen human corpse.",
+      "reading": "Follow a passage through growing ice and successive left turns to the frozen warrior’s chamber.",
       "evidence": [
         {
           "startUid": "u0816",
-          "endUid": "u0816",
-          "quote": "Finnan: Let's just explore down this passage, we're already here."
+          "endUid": "u0818",
+          "quote": "Finnan: Let's just explore down this passage, we're already here.\nJrain: Alright, fine. Let's see if there was a better option."
         },
         {
           "startUid": "u0822",
@@ -738,30 +1026,20 @@
         },
         {
           "startUid": "u0829",
-          "endUid": "u0835",
-          "quote": "DM: So it's, it's… relatively difficult to move down this passageway. And it goes for… maybe… 100 feet, dead straight. And… at the end of… But it's hard to say exactly. At the end of the 100 feet, there is a… a sharp turn to the left. And then almost immediately, almost like a U-turn, a sharp turn, again. So, like, you turn left, and then left again. Yep."
-        },
-        {
-          "startUid": "u0844",
           "endUid": "u0845",
-          "quote": "DM: And you go another, maybe… 30, 40 feet. And… you come out in a… small… chamber."
+          "quote": "DM: So it's, it's… relatively difficult to move down this passageway. And it goes for… maybe… 100 feet, dead straight. And… at the end of… But it's hard to say exactly. At the end of the 100 feet, there is a… a sharp turn to the left. And then almost immediately, almost like a U-turn, a sharp turn, again. So, like, you turn left, and then left again. Yep.\nFinnan: Okay.\nDM: And then you go maybe another… 15 feet, and there's another sharp turn to the left.\nEolo: Hmm.\nFinnan: Okay?\nDM: Yeah, yeah.\nJrain: Are we going down any?\nDM: Maybe a little bit down, but you don't… I mean, it's really… you're… it's hard to tell.\nDM: And you go another, maybe… 30, 40 feet. And… you come out in a… small… chamber."
         },
         {
           "startUid": "u0846",
-          "endUid": "u0850",
-          "quote": "DM: Like… carved stone, free of ice, very, very… but very, very, very cold, like, almost… frozen. And it's… it's, like, it's… maybe… it's, like, 10, 15 feet across, maybe, and there's a stone… like… not really a bench, but, like, just, like, a flat spot on the wall, and there's a corpse, like, sitting on the flat spot, like, its arms, like, frozen into the… into the ice behind you, and its legs, like, frozen. Like, you can see, like, ice surrounding its… its hands and feet, basically, trapping it in place."
-        },
-        {
-          "startUid": "u0854",
           "endUid": "u0859",
-          "quote": "DM: Oh, no, well, it's hands and feet. It's like, it's like… spread-eagled against the wall, and its hands and feet have been swallowed by ice. It has… it's not skeletal, right? Like, it still has features. But it has… it has, like… It doesn't… it has, like, a, I don't want to say, like, a look of… terror on his face exactly, because he can't… it's a little bit rotted away, but, like, it doesn't… it's, like, mouth… it's like… it looks like something scared it before it died. Hey."
+          "quote": "DM: Like… carved stone, free of ice, very, very… but very, very, very cold, like, almost… frozen. And it's… it's, like, it's… maybe… it's, like, 10, 15 feet across, maybe, and there's a stone… like… not really a bench, but, like, just, like, a flat spot on the wall, and there's a corpse, like, sitting on the flat spot, like, its arms, like, frozen into the… into the ice behind you, and its legs, like, frozen. Like, you can see, like, ice surrounding its… its hands and feet, basically, trapping it in place.\nJrain: Is there any other way out of this room, or did we…\nDM: Sorry, it keeps… it keeps going. The passageway keeps… it, like, opens up a little bit, but the passageway keeps going on the other side.\nJustas: I'll go over… wait, so there's a corpse that's been stuck in ice? That's been… Yeah. Swallowed by ice?\nDM: Oh, no, well, it's hands and feet. It's like, it's like… spread-eagled against the wall, and its hands and feet have been swallowed by ice. It has… it's not skeletal, right? Like, it still has features. But it has… it has, like… It doesn't… it has, like, a, I don't want to say, like, a look of… terror on his face exactly, because he can't… it's a little bit rotted away, but, like, it doesn't… it's, like, mouth… it's like… it looks like something scared it before it died. Hey."
         }
       ],
       "from": "p06",
       "to": "p08",
       "completion": "arrived",
       "mode": "walk",
-      "note": "The dialogue does not settle whether the final chosen passage is the original right exit or the newly appeared exit."
+      "note": "“This passage” does not settle whether the group finally chooses the old right exit or the newly appeared one."
     },
     {
       "id": "l15",
@@ -773,32 +1051,22 @@
       "actors": [
         "party"
       ],
-      "reading": "Continue past side openings to an unexpected stone dead end, backtrack, and take the branch on the right when facing back toward the corpse chamber; reach the booming corridor.",
+      "reading": "Pass side openings, reach the black-stone dead end, then backtrack into the booming corridor.",
       "evidence": [
         {
           "startUid": "u1222",
-          "endUid": "u1222",
-          "quote": "Finnan: So let's continue… down this passageway."
+          "endUid": "u1229",
+          "quote": "Finnan: So let's continue… down this passageway.\nDM: You continue down the passageway for, I mean, the… the… the… storm is pretty… pretty tough at the moment, right? Like, as you go… you're… it's difficult to move. It's not really gotten… maybe it's gotten a tiny bit better, right, as you leave this… this corpse behind. But it's definitely… there's strong gusts of wind, the… the… the… you hear, like, as you're walking, you hear, like, crack of ice, in, like, a boom. You can't pinpoint it, like, just in the distance, right? Like…"
         },
         {
           "startUid": "u1236",
-          "endUid": "u1238",
-          "quote": "DM: But you make your way down… There's… as you're walking down this corridor, there's two passageways that go off on the left or right, like, just gaps in the darkness."
-        },
-        {
-          "startUid": "u1243",
           "endUid": "u1245",
-          "quote": "DM: It… You hit a dead end as you keep walking. it's just black stone in front. It almost comes out of nowhere, like, you're walking along, you don't even think you saw it, and then all of a sudden, whoever's in the front is, like, 2 inches from the rock. You're like, wait, did I… It's a little puzzling where it came from."
+          "quote": "DM: But you make your way down… There's… as you're walking down this corridor, there's two passageways that go off on the left or right, like, just gaps in the darkness.\nFinnan: And it continues beyond that.\nDM: Dead straight, yeah.\nFinnan: Okay. Keep walking.\nDM: It… You hit a dead end as you keep walking. it's just black stone in front. It almost comes out of nowhere, like, you're walking along, you don't even think you saw it, and then all of a sudden, whoever's in the front is, like, 2 inches from the rock. You're like, wait, did I… It's a little puzzling where it came from."
         },
         {
           "startUid": "u1265",
-          "endUid": "u1266",
-          "quote": "Finnan: So, right, meaning when we're facing back towards the… chamber, the one on the right, so the one on the left as we came."
-        },
-        {
-          "startUid": "u1268",
-          "endUid": "u1275",
-          "quote": "DM: As you turn down that, as you turn into that chamber, like, you, you hear a… like, just as you… whoever's in front, like, Jrain, as you, like, take two steps, you hear, like, a… a boom, like, almost like, it sounds like a very, very, very, very, very quiet sonic boom. Like, just a… like a… like a… a burst of air, like, bursting out from somewhere just ahead. But it's loud enough to be heard over the… It's loud enough to be heard over the wind."
+          "endUid": "u1279",
+          "quote": "Finnan: So, right, meaning when we're facing back towards the… chamber, the one on the right, so the one on the left as we came.\nDM: Okay.\nDM: As you turn down that, as you turn into that chamber, like, you, you hear a… like, just as you… whoever's in front, like, Jrain, as you, like, take two steps, you hear, like, a… a boom, like, almost like, it sounds like a very, very, very, very, very quiet sonic boom. Like, just a… like a… like a… a burst of air, like, bursting out from somewhere just ahead. But it's loud enough to be heard over the… It's loud enough to be heard over the wind.\nDM: This is a fairly wide corridor, it's maybe 15 feet, like… You are in a narrower corridor, but this one's maybe 15 feet wide. Dope. Do you keep walking?"
         },
         {
           "startUid": "u1281",
@@ -809,7 +1077,12 @@
       "from": "p08",
       "to": "p09",
       "completion": "arrived",
-      "mode": "walk"
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Pass two side openings without entering them, reach the stone blockage, then take the right branch when facing back toward the corpse."
+        }
+      ]
     },
     {
       "id": "l16",
@@ -825,58 +1098,38 @@
         "Finnan",
         "Justas"
       ],
-      "reading": "Cross the booming air barrier. Kalima is dropped beyond it when Ekko is blown back; Jrain helps her and Justas crosses and heals her.",
+      "reading": "Cross the booming barrier; Kalima falls beyond it, receives help and is healed after Justas crosses.",
       "evidence": [
-        {
-          "startUid": "u1312",
-          "endUid": "u1312",
-          "quote": "DM: You, you, you're, you can, like, as you, your, your feet are just only lightly touching that on the ice, you're fine."
-        },
         {
           "startUid": "u1328",
           "endUid": "u1329",
           "quote": "Jrain: I took the rope, I took the rope and I made it through one boom. Now I'm just waiting for you guys to time your next…"
         },
         {
-          "startUid": "u1339",
+          "startUid": "u1337",
           "endUid": "u1339",
-          "quote": "DM: Eolo was fine."
+          "quote": "DM: So I'm gonna make a strength check for each of the Kenkus.\nFinnan: Eolo rolled a 13.\nDM: Eolo was fine."
         },
         {
           "startUid": "u1346",
-          "endUid": "u1351",
-          "quote": "DM: Let me look at my notes. Ekko, it's just… is just hit by this burst of… Let's see… Ekko is blown directly backwards, 10 feet. So… you kinda… lose grips on, so… Yeah."
-        },
-        {
-          "startUid": "u1352",
           "endUid": "u1358",
-          "quote": "DM: You probably dropped Kalima. As the wind… you're carrying her together, the two of you, as the wind hits, Ekko is just blown, just completely loses control and is blown backwards. Kalima falls to the ground. And… hits badly. She crawls, I mean, she's past the boom, but is lying, sort of whimpering on the ground, looking at the Kenku in a fresh terror."
+          "quote": "DM: Let me look at my notes. Ekko, it's just… is just hit by this burst of… Let's see… Ekko is blown directly backwards, 10 feet. So… you kinda… lose grips on, so… Yeah.\nDM: You probably dropped Kalima. As the wind… you're carrying her together, the two of you, as the wind hits, Ekko is just blown, just completely loses control and is blown backwards. Kalima falls to the ground. And… hits badly. She crawls, I mean, she's past the boom, but is lying, sort of whimpering on the ground, looking at the Kenku in a fresh terror."
         },
         {
-          "startUid": "u1368",
+          "startUid": "u1365",
           "endUid": "u1368",
-          "quote": "DM: You're fine."
+          "quote": "Finnan: I will run through as… as…\nDM: Make a dex check.\nFinnan: 14.\nDM: You're fine."
         },
         {
           "startUid": "u1394",
-          "endUid": "u1397",
-          "quote": "DM: What was my reaction to say? Okay, yeah, that's okay. You, you, you sort of, you… You make it through, you're on the other side. Just keep going."
-        },
-        {
-          "startUid": "u1400",
-          "endUid": "u1400",
-          "quote": "Justas: Oh, I'll cure wounds her, though."
-        },
-        {
-          "startUid": "u1404",
           "endUid": "u1405",
-          "quote": "DM: Yeah, yeah, yep, yep. Yep."
+          "quote": "DM: What was my reaction to say? Okay, yeah, that's okay. You, you, you sort of, you… You make it through, you're on the other side. Just keep going.\nFinnan: Yup.\nDM: Seems to be booming there.\nJustas: Oh, I'll cure wounds her, though.\nDM: Okay.\nJrain: We just…\nJustas: It's minor, if the…\nDM: Yeah, yeah, yep, yep. Yep."
         }
       ],
       "from": "p09",
       "to": "p09",
       "completion": "arrived",
-      "note": "Ekko is explicitly blown backward; his separate crossing is not narrated, so this arrival does not include him."
+      "note": "Ekko is blown backward. His separate crossing is not narrated here, so this arrival excludes him; the next shared movement resumes the party context."
     },
     {
       "id": "l17",
@@ -888,7 +1141,7 @@
       "actors": [
         "party"
       ],
-      "reading": "Continue along the corridor to a snowy junction with seven narrow exits.",
+      "reading": "Continue from the booming corridor to the seven-exit snowy junction.",
       "evidence": [
         {
           "startUid": "u1406",
@@ -911,17 +1164,17 @@
       "actors": [
         "party"
       ],
-      "reading": "Repeatedly take curving passages and return to the same shifting junction, where exits disappear and wind creatures appear. An ink mark confirms the loop.",
+      "reading": "Loop through curving passages to the same junction, whose exits diminish as wind creatures appear.",
       "evidence": [
         {
           "startUid": "u1413",
-          "endUid": "u1417",
-          "quote": "DM: You take the rightmost, and you go, and it's… and it's… It's turning, and you come out into another room. It kind of curves, and you curve for a few minutes. You come out into… A room? Looks maybe similar? But there's only 5 passages out."
+          "endUid": "u1419",
+          "quote": "DM: You take the rightmost, and you go, and it's… and it's… It's turning, and you come out into another room. It kind of curves, and you curve for a few minutes. You come out into… A room? Looks maybe similar? But there's only 5 passages out.\nJustas: In a maze of twisting little passages all alike?\nDM: It could have been twisted back around? Like, you're not sure, maybe you came back in and two of the passages disappeared, it's quite hard to tell."
         },
         {
           "startUid": "u1447",
-          "endUid": "u1451",
-          "quote": "DM: So, you go along to… you go to the furthest rightmost one, you go down… again, it's very twisty. It curves. It curves… sharply. And you come out… again, now you come out in a room that has 2 passageways to your left, one passageway to your right, and one straight ahead."
+          "endUid": "u1457",
+          "quote": "DM: So, you go along to… you go to the furthest rightmost one, you go down… again, it's very twisty. It curves. It curves… sharply. And you come out… again, now you come out in a room that has 2 passageways to your left, one passageway to your right, and one straight ahead.\nDM: The snow is blowing quite… It's… I mean, it's… you… you curved… when you went down the passageway to the right, you curved… sharply… I don't know if you're quite seeing it, right? It's like… it's like a hand, right? You came up on one of them, you went down to go to the rightmost, and it curved sharply. Trying to… it curved sharply to the right as you went down it. But when you come back into another room now, with one passageway to your right, and two to your left, and one straight ahead."
         },
         {
           "startUid": "u1473",
@@ -930,35 +1183,20 @@
         },
         {
           "startUid": "u1502",
-          "endUid": "u1503",
-          "quote": "DM: You go back the way you came. And you come out, like, you just, you walk down the passageway, again, the wind is blowing, you come out, there's… There's, like…"
-        },
-        {
-          "startUid": "u1509",
-          "endUid": "u1511",
-          "quote": "DM: Yes. Well, no, no, no, they're next to each other. You went down, you kept going until you came back. You looped around."
-        },
-        {
-          "startUid": "u1513",
-          "endUid": "u1513",
-          "quote": "DM: The room is the same."
-        },
-        {
-          "startUid": "u1515",
           "endUid": "u1517",
-          "quote": "DM: But now there's only… there's only the… there's only the two passageways and the one in the back. And the… as you, like, see, the storm has gotten… the storm has gotten quite, quite violent."
+          "quote": "DM: You go back the way you came. And you come out, like, you just, you walk down the passageway, again, the wind is blowing, you come out, there's… There's, like…\nFinnan: Looking out into the room. We're not, like…\nDM: None.\nFinnan: into it.\nDM: You do see your ink splotch on the wall, there's… When you come out, there are…\nFinnan: You mean the both ends of this passageway are the same?\nDM: Yes. Well, no, no, no, they're next to each other. You went down, you kept going until you came back. You looped around.\nFinnan: Oh, okay, the room is the same every time.\nDM: The room is the same.\nFinnan: Yeah, yeah, yeah.\nDM: But now there's only… there's only the… there's only the two passageways and the one in the back. And the… as you, like, see, the storm has gotten… the storm has gotten quite, quite violent."
         },
         {
-          "startUid": "u1532",
+          "startUid": "u1530",
           "endUid": "u1533",
-          "quote": "DM: So you go to your right one more time, and you come back into the room, and there's no passageways to your left. And there's just one passageway across."
+          "quote": "Finnan: Let's just go… go back through the loop one more time. Go to our right one more time.\nDM: So you go to your right one more time, and you come back into the room, and there's no passageways to your left. And there's just one passageway across."
         }
       ],
       "from": "p10",
       "to": "p10",
       "completion": "arrived",
       "mode": "walk",
-      "note": "During the ink-mark check Finnan remains at the threshold (u1522); room identity is established, not a fixed floor plan."
+      "note": "Finnan stays at the threshold during the ink-mark check (u1504–u1524); repeated room identity supplies no fixed geometry."
     },
     {
       "id": "l19",
@@ -970,7 +1208,7 @@
       "actors": [
         "party"
       ],
-      "reading": "Sneak along the edge of the junction and through its remaining exit, returning to the booming corridor.",
+      "reading": "Sneak around the junction and through the remaining exit, returning to the booming corridor.",
       "evidence": [
         {
           "startUid": "u1553",
@@ -979,13 +1217,8 @@
         },
         {
           "startUid": "u1572",
-          "endUid": "u1575",
-          "quote": "DM: You see… I mean, it's… it's… it's tricky to… luckily, you're trying to move slowly, because, you can barely see, and you can barely walk, right? You're, like, can barely move more than… you know, the wind is, like, howling, you can… you can… you can see, like, as you step under your feet, like, sometimes it just won't be ground. It'll just be, like, snow, or, like, it's, like, almost trying to trip you. But you all manage to sneak out through the other side,"
-        },
-        {
-          "startUid": "u1576",
-          "endUid": "u1583",
-          "quote": "DM: And as you come out into this other corridor, the… the wind's kinda… calms down a little bit. Like, it's not at all calm. But you… you, get… you sort of… It, it, it, all of a sudden, you could see for… for… 15 feet instead of… or 20 feet instead of 10 feet, right? Like, as you… as you come out into this… sort of wide, icy corridor, but…"
+          "endUid": "u1585",
+          "quote": "DM: You see… I mean, it's… it's… it's tricky to… luckily, you're trying to move slowly, because, you can barely see, and you can barely walk, right? You're, like, can barely move more than… you know, the wind is, like, howling, you can… you can… you can see, like, as you step under your feet, like, sometimes it just won't be ground. It'll just be, like, snow, or, like, it's, like, almost trying to trip you. But you all manage to sneak out through the other side,\nDM: And as you come out into this other corridor, the… the wind's kinda… calms down a little bit. Like, it's not at all calm. But you… you, get… you sort of… It, it, it, all of a sudden, you could see for… for… 15 feet instead of… or 20 feet instead of 10 feet, right? Like, as you… as you come out into this… sort of wide, icy corridor, but…\nFinnan: Do we still see the booming? Hear the… in front of us?\nDM: The booming… is… Still in front of… yes, it is up ahead. You can hear it up ahead."
         },
         {
           "startUid": "u1600",
@@ -1008,42 +1241,22 @@
       "actors": [
         "party"
       ],
-      "reading": "Pass the booming barrier again, with Justas carrying Kalima, then reach a circular snowy chamber.",
+      "reading": "Pass the boom again, with Justas carrying Kalima, and reach a circular snowy room.",
       "evidence": [
         {
           "startUid": "u1596",
-          "endUid": "u1597",
-          "quote": "Finnan: I'll go ahead and just try to run through again. It's 15…"
+          "endUid": "u1598",
+          "quote": "Finnan: I'll go ahead and just try to run through again. It's 15…\nDM: Okay."
         },
         {
           "startUid": "u1603",
-          "endUid": "u1603",
-          "quote": "Jrain: So I just rushed past it again. Do I need to check?"
-        },
-        {
-          "startUid": "u1604",
-          "endUid": "u1604",
-          "quote": "DM: No."
-        },
-        {
-          "startUid": "u1607",
-          "endUid": "u1608",
-          "quote": "Justas: Thank you, I appreciate that. I'll go through again also with Kalima this time."
-        },
-        {
-          "startUid": "u1611",
           "endUid": "u1611",
-          "quote": "DM: That's good enough."
+          "quote": "Jrain: So I just rushed past it again. Do I need to check?\nDM: No.\nJustas: Alright, so…\nJrain: Your secure… I brought your security rope, Justas.\nJustas: Thank you, I appreciate that. I'll go through again also with Kalima this time.\nDM: Yeah, okay, make… did you make a strength check?\nJustas: Yeah, that's an 11?\nDM: That's good enough."
         },
         {
           "startUid": "u1615",
-          "endUid": "u1620",
-          "quote": "DM: As you walk ahead, you… So you cross… you come back out, wow. You think you should come back out into a… into a corner with another passage across, but you actually come to a… to a… circular room, with… Like, a circular, very snowy room with one way out on each of, like… one directly across, one to the left, one to the right."
-        },
-        {
-          "startUid": "u1622",
           "endUid": "u1622",
-          "quote": "DM: Yep."
+          "quote": "DM: As you walk ahead, you… So you cross… you come back out, wow. You think you should come back out into a… into a corner with another passage across, but you actually come to a… to a… circular room, with… Like, a circular, very snowy room with one way out on each of, like… one directly across, one to the left, one to the right.\nJrain: Like, cardinal points-like spacing?\nDM: Yep."
         }
       ],
       "from": "p09",
@@ -1061,17 +1274,12 @@
       "actors": [
         "party"
       ],
-      "reading": "Take the right exit into the narrowing corridor obstructed by hanging ice sheets.",
+      "reading": "Take the right exit into the narrowing corridor with hanging ice curtains.",
       "evidence": [
         {
-          "startUid": "u1633",
-          "endUid": "u1642",
-          "quote": "DM: you see… You come, you turn to the right, and the tunnel that you're walking through, right, like, narrows, and then in front of you, you see these thin sheets of ice hanging from the ceiling, like, almost like curtains, like, like, sort of… many layers, delicate, sort of… the wind sort of stills for a moment here, but… but the ice is still… but there's still enough wind… I mean, there's still a fairly strong howl. It's gotten calmer since you, avoided the… the wind has definitely calmed down a little bit since you avoided the, or, you know, the wind creatures. But it's still… it's still howling strong enough that… it's hard to… it's hard to hear, and there's still, like, this strong… with, you know, strong snow blowing everywhere you go."
-        },
-        {
-          "startUid": "u1643",
+          "startUid": "u1631",
           "endUid": "u1646",
-          "quote": "DM: But as you look ahead, like, you see, kind of dangling down, not entirely blocking the corridor, but mostly blocking the corridor, these, like, thin veils, like I said, thin veils of ice. There's, like, cool mist kind of pooling around, underneath, but they, they're sort of blocking the corner. I mean, you could… you could sort of push past, right? You might break them, but you could… they're like sheets, like, hanging."
+          "quote": "DM: As you turn to the right, Hold on.\nDM: you see… You come, you turn to the right, and the tunnel that you're walking through, right, like, narrows, and then in front of you, you see these thin sheets of ice hanging from the ceiling, like, almost like curtains, like, like, sort of… many layers, delicate, sort of… the wind sort of stills for a moment here, but… but the ice is still… but there's still enough wind… I mean, there's still a fairly strong howl. It's gotten calmer since you, avoided the… the wind has definitely calmed down a little bit since you avoided the, or, you know, the wind creatures. But it's still… it's still howling strong enough that… it's hard to… it's hard to hear, and there's still, like, this strong… with, you know, strong snow blowing everywhere you go.\nDM: But as you look ahead, like, you see, kind of dangling down, not entirely blocking the corridor, but mostly blocking the corridor, these, like, thin veils, like I said, thin veils of ice. There's, like, cool mist kind of pooling around, underneath, but they, they're sort of blocking the corner. I mean, you could… you could sort of push past, right? You might break them, but you could… they're like sheets, like, hanging."
         }
       ],
       "from": "p11",
@@ -1089,32 +1297,12 @@
       "actors": [
         "party"
       ],
-      "reading": "Attempt to run forward through falling ice as an avalanche closes from behind; replenishing ice prevents escape that way.",
+      "reading": "Try to run through the ice sheets; replenishing ice blocks that escape as the avalanche closes.",
       "evidence": [
         {
-          "startUid": "u1698",
-          "endUid": "u1701",
-          "quote": "DM: So, forward, there's still, like, the bot… there's, like, ice falling. There's some ice, kind of… Ice blocks are falling in front of you, there's an avalanche coming towards you that… mostly… obvious, I mean, you could try and run past the ice blocks, or the wall has just collapsed to your left in… to darkness."
-        },
-        {
-          "startUid": "u1709",
-          "endUid": "u1709",
-          "quote": "Ekko: Run through the ice sheets."
-        },
-        {
-          "startUid": "u1710",
-          "endUid": "u1710",
-          "quote": "Finnan: Ice sheets."
-        },
-        {
-          "startUid": "u1711",
-          "endUid": "u1711",
-          "quote": "Eolo: Ice sheets, yeah."
-        },
-        {
-          "startUid": "u1715",
+          "startUid": "u1696",
           "endUid": "u1719",
-          "quote": "DM: You smash into the sheets of ice in front of you. And you can… you can hear, like, as you… as you run into them, more and more ice is just… is just falling in front of you, right? Like, there's… it… it… it feels like you smash through one ice sheet, and another one just appears. You make some progress, like, you smash a little bit, but new ice appears, and you can feel the avalanche getting closer. And you can see, like… to your… not only to your left now, but to your right, there's another, like, crash, and the other wall collapses. You're now, like, standing on snow, apparently supported by nothing, with this ice in front of you and an avalanche coming behind you."
+          "quote": "Finnan: Let's run forward.\nEkko: Avalanche?\nDM: So, forward, there's still, like, the bot… there's, like, ice falling. There's some ice, kind of… Ice blocks are falling in front of you, there's an avalanche coming towards you that… mostly… obvious, I mean, you could try and run past the ice blocks, or the wall has just collapsed to your left in… to darkness.\nEkko: Damn. Hey, so is it, like, sentient ice? Can we, like, talk to it and stuff? Like, can we, like…\nDM: You haven't tried. I gave Tim a magic item that lets him talk to objects, but he hasn't used it.\nEkko: Let's, let's, let's pray to it, or Ask it, ask it, ask it why.\nDM: Well, at the moment, you have about one second to decide, are you going to let the avalanche hit you, try and run through the remains of the ice sheets, or jump into the darkness?\nEkko: Run through the ice sheets.\nFinnan: Ice sheets.\nEolo: Ice sheets, yeah.\nDM: Okay.\nEolo: It looks like Avalanche. No, just kidding.\nDM: Eolo, like, 'Avalanches don't hurt me.'\nDM: You smash into the sheets of ice in front of you. And you can… you can hear, like, as you… as you run into them, more and more ice is just… is just falling in front of you, right? Like, there's… it… it… it feels like you smash through one ice sheet, and another one just appears. You make some progress, like, you smash a little bit, but new ice appears, and you can feel the avalanche getting closer. And you can see, like… to your… not only to your left now, but to your right, there's another, like, crash, and the other wall collapses. You're now, like, standing on snow, apparently supported by nothing, with this ice in front of you and an avalanche coming behind you."
         }
       ],
       "from": "p12",
@@ -1132,17 +1320,12 @@
       "actors": [
         "party"
       ],
-      "reading": "Jump through the collapsed right wall, slide down nonreflective ice, and emerge into the air above a large chamber.",
+      "reading": "Jump through the collapsed right wall, slide down black ice and emerge above the large chamber floor.",
       "evidence": [
         {
           "startUid": "u1721",
-          "endUid": "u1721",
-          "quote": "Jrain: Well, now we get to go right, because we love going right."
-        },
-        {
-          "startUid": "u1722",
           "endUid": "u1722",
-          "quote": "Justas: Yeah. Into the darkness. This is the time."
+          "quote": "Jrain: Well, now we get to go right, because we love going right.\nJustas: Yeah. Into the darkness. This is the time."
         },
         {
           "startUid": "u1740",
@@ -1156,13 +1339,8 @@
         },
         {
           "startUid": "u1771",
-          "endUid": "u1776",
-          "quote": "DM: So… or even a little less. So you slide down through this darkness, you come out in a… in a room, right, you can… you can… you sort of land. It's like you… it's like a slide, right? You come down, like, an ice slide. And as you fall maybe 20 feet, like, go down the slide, like, 20 feet. While you're, again, while you're going down the slide, you can't see, like, there's nothing to your left or right. You're just sliding."
-        },
-        {
-          "startUid": "u1777",
           "endUid": "u1782",
-          "quote": "DM: And you come out through the side of a… of a, like, the side of a… a wall, and you… everybody actually… well, Kenku, so you… you come out maybe 20 feet above… like, you're coming out into the air, about 20 feet up, on the, like, side of a wall. It's like a large, maybe 100-foot across chamber, although you can't actually see more than 40 feet. There's no storm here. You can see in the moment, as you come…"
+          "quote": "DM: So… or even a little less. So you slide down through this darkness, you come out in a… in a room, right, you can… you can… you sort of land. It's like you… it's like a slide, right? You come down, like, an ice slide. And as you fall maybe 20 feet, like, go down the slide, like, 20 feet. While you're, again, while you're going down the slide, you can't see, like, there's nothing to your left or right. You're just sliding.\nDM: And you come out through the side of a… of a, like, the side of a… a wall, and you… everybody actually… well, Kenku, so you… you come out maybe 20 feet above… like, you're coming out into the air, about 20 feet up, on the, like, side of a wall. It's like a large, maybe 100-foot across chamber, although you can't actually see more than 40 feet. There's no storm here. You can see in the moment, as you come…"
         },
         {
           "startUid": "u1788",
@@ -1172,20 +1350,20 @@
       ],
       "from": "p12",
       "to": "p16",
+      "completion": "arrived",
+      "mode": "jump and slide",
       "route": [
         {
-          "reading": "Slide down the slick dark surface.",
-          "place": "p13"
+          "place": "p13",
+          "reading": "Descend the nonreflective ice slide."
         }
       ],
-      "completion": "arrived",
       "duration": {
         "value": 1,
         "unit": "minute",
         "precision": "approximate",
         "basis": "DM narrates a minute of sliding"
-      },
-      "mode": "jump and slide"
+      }
     },
     {
       "id": "l24",
@@ -1198,7 +1376,7 @@
         "Justas",
         "Kalima"
       ],
-      "reading": "Justas catches the upper ice wall with his axe and holds Kalima in the other arm.",
+      "reading": "Hang from the axe in the upper wall, with Justas holding Kalima.",
       "evidence": [
         {
           "startUid": "u1811",
@@ -1218,7 +1396,7 @@
       "actors": [
         "Jrain"
       ],
-      "reading": "Control the slide down the wall and land on the chamber floor.",
+      "reading": "Control the slide down the ice wall and land on the floor.",
       "evidence": [
         {
           "startUid": "u1832",
@@ -1243,12 +1421,12 @@
         "Eolo",
         "Finnan"
       ],
-      "reading": "The Kenku fly above the floor; Finnan catches Eolo and remains supported in the air.",
+      "reading": "The Kenku fly above the floor and Finnan catches Eolo for support.",
       "evidence": [
         {
           "startUid": "u1840",
-          "endUid": "u1840",
-          "quote": "DM: Justas is 20… 17 feet above you. The Kenku are… I don't know what the… they're flying."
+          "endUid": "u1841",
+          "quote": "DM: Justas is 20… 17 feet above you. The Kenku are… I don't know what the… they're flying.\nJrain: Hovering."
         },
         {
           "startUid": "u1854",
@@ -1268,49 +1446,29 @@
       "actors": [
         "Kalima"
       ],
-      "reading": "Ekko retrieves Kalima from Justas; after reassurance and renewed fear, she accepts hiding behind Finnan’s illusory wall below.",
+      "reading": "Accept rescue from Justas and then hide behind Finnan’s illusory wall below him.",
       "evidence": [
         {
-          "startUid": "u1867",
-          "endUid": "u1867",
-          "quote": "Justas: Grab her, I'll call over."
+          "startUid": "u1865",
+          "endUid": "u1872",
+          "quote": "Finnan: and maybe Ekko can pick up… Kalima?\nDM: Yeah, you could pick up Kalima.\nJustas: Grab her, I'll call over.\nEkko: Over and grab her.\nDM: She- she looks really, like, she looks at Justas, like… Looks at… looks at, Ekko. Is this… He dropped me last time."
         },
         {
-          "startUid": "u1868",
-          "endUid": "u1868",
-          "quote": "Ekko: Over and grab her."
-        },
-        {
-          "startUid": "u1879",
+          "startUid": "u1878",
           "endUid": "u1880",
-          "quote": "DM: Okay, she kind of looks over to… to Ekko, and it seems willing to be carried by you."
+          "quote": "Finnan: Believe it or not, I've been in this situation before, and this is… you're in good hands.\nDM: Okay, she kind of looks over to… to Ekko, and it seems willing to be carried by you."
         },
         {
           "startUid": "u1886",
-          "endUid": "u1888",
-          "quote": "DM: She's scrambling away from, from… from the room, almost. She's like… 'It's here somewhere.'"
-        },
-        {
-          "startUid": "u1897",
-          "endUid": "u1897",
-          "quote": "Finnan: I will use Minor Illusion to extend the ice wall by 5 feet, right in… right below… Justas."
-        },
-        {
-          "startUid": "u1899",
-          "endUid": "u1900",
-          "quote": "Finnan: Telepathically tell… yeah, yeah. Kalima to hide there."
-        },
-        {
-          "startUid": "u1903",
           "endUid": "u1904",
-          "quote": "DM: She'll hide behind the ice wall. She'll accept that. How's Justas getting down? He's just jumping?"
+          "quote": "DM: She's scrambling away from, from… from the room, almost. She's like… 'It's here somewhere.'\nJustas: What is?\nDM: A beast. Hide!\nJustas: Good! Finally.\nDM: I can't go in there.\nJustas: Do we have any other… Options?\nJrain: She can hide. We didn't bring her along so she could join in the big battles. Now you're muted, dear.\nFinnan: I will use Minor Illusion to extend the ice wall by 5 feet, right in… right below… Justas.\nDM: Okay.\nFinnan: Telepathically tell… yeah, yeah. Kalima to hide there.\nDM: Okay.\nFinnan: It only lasts a minute, but it's not concentration, so I can refresh it for an action if I need to.\nDM: She'll hide behind the ice wall. She'll accept that. How's Justas getting down? He's just jumping?"
         }
       ],
       "from": "p15",
       "to": "p18",
       "completion": "arrived",
       "mode": "carried flight",
-      "note": "Kalima accepts hiding behind the illusion below Justas; neither its exact elevation nor Ekko’s own landing is stated."
+      "note": "The accepted hiding place is below Justas; its precise elevation and Ekko’s own landing are unstated."
     },
     {
       "id": "l28",
@@ -1322,7 +1480,7 @@
       "actors": [
         "Justas"
       ],
-      "reading": "Drop from the ice wall and land awkwardly on the black-stone floor.",
+      "reading": "Drop from the wall to the black-stone floor, landing awkwardly.",
       "evidence": [
         {
           "startUid": "u1905",
@@ -1331,13 +1489,8 @@
         },
         {
           "startUid": "u1915",
-          "endUid": "u1916",
-          "quote": "DM: He'll take the 3 points of damage. You'll land a little awkwardly. Bruise something or other."
-        },
-        {
-          "startUid": "u1918",
           "endUid": "u1922",
-          "quote": "DM: So you're in this room. There's some rocks over on the far side that you can't see through. Otherwise, the floor is… black stone of some kind. And the… the… it's a circular, so you can see, like, the half… the sort of half circle."
+          "quote": "DM: He'll take the 3 points of damage. You'll land a little awkwardly. Bruise something or other.\nJustas: Says Justas, 'That's what happened last time, too.'\nDM: So you're in this room. There's some rocks over on the far side that you can't see through. Otherwise, the floor is… black stone of some kind. And the… the… it's a circular, so you can see, like, the half… the sort of half circle."
         }
       ],
       "from": "p15",
