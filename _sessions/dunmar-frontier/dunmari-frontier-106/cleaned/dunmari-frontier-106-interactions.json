@@ -8,7 +8,7 @@
     },
     "entityMap": {
       "path": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-entity-map.json",
-      "sha256": "1afff3dadf5700eab6f12a78b8b11c21d1fccc29ecdb6bed35b459951c637530"
+      "sha256": "31ff7ca575bb8a78982cfd9c11d5b3c5cab9469302592211708ed235895b090d"
     }
   },
   "interactions": [
@@ -149,6 +149,11 @@
         },
         {
           "id": "e023",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e024",
           "role": "cameo",
           "action": "mentioned"
         }
