@@ -1,0 +1,214 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-time-markers.json",
+    "sha256": "5cddbe84c9d61f1ab9bbe2d9b3b8fcb09cadb0291c40e66fded8d646f49cc722"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-transcript.md",
+    "sha256": "e78530e0bf40c6d9caaa56651a875d224ffa4d0c23da5dcb3f5bebade28dd69f"
+  },
+  "dateAssessment": "Working year 1749 comes from YAML. July 5 is used only for the party’s crater-aftermath frame; the earlier imperial reports have no established absolute dates. July 9 and August 6 are spoken anchors. Civil August 7 follows the post-midnight Dream and the continuous 2 AM–9 AM scouting sequence; the narrator’s “night of August 6th” label is retained in t16. The rough three-day voyage and three-to-four-week downtime are compatible with the YAML span, without proving its earliest boundary or supplying an exact total of 33 transitions. Hektor/Vola events remain inside downtime, a couple days before Sura’s summons. The retrospectively confirmed sanctum rest has no stated duration or dated overnight.",
+  "watches": [
+    {
+      "day": "Earlier imperial report, before the tower assault",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "inferred",
+      "summary": "The Magistros receives Tristan’s report late at night; no calendar date is supplied.",
+      "markers": [
+        "t01"
+      ],
+      "scope": "Retrospective imperial reports"
+    },
+    {
+      "day": "Next imperial report, one day later",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "A day passes between the two imperial reports.",
+      "markers": [
+        "t02"
+      ],
+      "scope": "Retrospective imperial reports"
+    },
+    {
+      "day": "Giant-defeat report, before the party’s aftermath",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "The Magistros receives the victory message around noon after an unspecified skip forward.",
+      "markers": [
+        "t03"
+      ],
+      "scope": "Retrospective imperial reports"
+    },
+    {
+      "day": "July 5, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Narration returns to the crater; the party’s cleanup is placed in mid-afternoon.",
+      "markers": [
+        "t04",
+        "t05"
+      ],
+      "startDate": "1749-07-05",
+      "endDate": "1749-07-05"
+    },
+    {
+      "day": "July 5, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Cleanup occupies the remaining day; Kenzo’s Dream conversation begins at nightfall.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1749-07-05",
+      "endDate": "1749-07-05"
+    },
+    {
+      "day": "Return voyage, arriving July 9, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Roughly three days aboard Vindristjarna end with the explicitly dated July 9 arrival.",
+      "markers": [
+        "t07"
+      ]
+    },
+    {
+      "day": "July 9–August 6, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Negotiations occupy three weeks drifting into four, from July into August.",
+      "markers": [
+        "t08"
+      ],
+      "startDate": "1749-07-09",
+      "endDate": "1749-08-06"
+    },
+    {
+      "day": "During July 9–August 6, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Hektor’s recovery and Vola’s departure precede Sura’s summons by a couple days.",
+      "markers": [
+        "t10"
+      ],
+      "dateWindow": [
+        "1749-07-09",
+        "1749-08-06"
+      ],
+      "scope": "Retrospective downtime insertion"
+    },
+    {
+      "day": "August 6, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "August 6 morning opens Sura’s summons; its date is explicitly confirmed later.",
+      "markers": [
+        "t09",
+        "t11"
+      ],
+      "startDate": "1749-08-06",
+      "endDate": "1749-08-06"
+    },
+    {
+      "day": "August 6, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "The skyship leaves Chardon on August 6 in mid-afternoon.",
+      "markers": [
+        "t12"
+      ],
+      "startDate": "1749-08-06",
+      "endDate": "1749-08-06"
+    },
+    {
+      "day": "August 6, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Sunset follows roughly a hundred miles eastward; the ship presses into the night.",
+      "markers": [
+        "t13"
+      ],
+      "startDate": "1749-08-06",
+      "endDate": "1749-08-06"
+    },
+    {
+      "day": "Prior sanctum rest, date unplaced",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "A prior rest is confirmed; duration and relation to departure or Dream remain unstated.",
+      "markers": [
+        "t15"
+      ],
+      "scope": "Retrospective rest credit, before first teleport"
+    },
+    {
+      "day": "August 7, 1749",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "inferred",
+      "summary": "Dream begins well past midnight; arrival retains the narrator’s “night of August 6th” label.",
+      "markers": [
+        "t14",
+        "t16"
+      ],
+      "startDate": "1749-08-07",
+      "endDate": "1749-08-07"
+    },
+    {
+      "day": "August 7, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "The DM places the marsh-side discussion at about 2 AM.",
+      "markers": [
+        "t17"
+      ],
+      "startDate": "1749-08-07",
+      "endDate": "1749-08-07"
+    },
+    {
+      "day": "August 7, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Four-hour flight reaches sunrise around 6; ash cloud sighted around 8; prisoner returns at 9 AM.",
+      "markers": [
+        "t18",
+        "t19",
+        "t20"
+      ],
+      "startDate": "1749-08-07",
+      "endDate": "1749-08-07"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated campaign record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 129 (DuFr).md",
+      "sha256": "470989a2ffbf216be47fd56283f90f7b65221c0582c97fdd4dc00f3e9f3b49e2"
+    },
+    {
+      "label": "Empress encounter metadata",
+      "path": "People/Other Nonhumans/Empress of Chaos.md",
+      "sha256": "aefbc4163b6acfc3862e0cdffcb441c8f573bcd1aba62b58f23ce90b211447df"
+    },
+    {
+      "label": "Szoltár encounter metadata",
+      "path": "People/Other Nonhumans/Szoltar.md",
+      "sha256": "b86762a2f6874a8481e37cfb50f4beb5435a6c328e03ed82ad53440900a0231d"
+    }
+  ]
+}

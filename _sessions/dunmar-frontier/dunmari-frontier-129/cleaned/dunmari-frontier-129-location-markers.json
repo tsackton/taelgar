@@ -1,0 +1,985 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-129",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-session.yaml",
+    "sessionYamlSha256": "aedab905c2f85ad0008757483cb71ba32a3078d84fbacd879e901d6800cf81d2",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-transcript.md",
+    "transcriptSha256": "e78530e0bf40c6d9caaa56651a875d224ffa4d0c23da5dcb3f5bebade28dd69f"
+  },
+  "places": {
+    "p01": {
+      "label": "Magistros’s map chamber",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0012",
+          "quote": "paces back and forth in a small chamber looking at maps."
+        }
+      ],
+      "note": "The reporting scene is located in Chardon by its ruler/city context; no specific palace room is identified.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0003",
+              "endUid": "u0012",
+              "quote": "the Magistros of Chardon."
+            },
+            {
+              "startUid": "u0061",
+              "endUid": "u0062",
+              "quote": "As these runners… travel across the city, launching the Magistros' plan into action."
+            }
+          ],
+          "note": "Inferred from the continuous imperial reporting scene and its city-wide runners; the building is unnamed."
+        }
+      ]
+    },
+    "p02": {
+      "label": "Chardon",
+      "kind": "city",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0012",
+          "quote": "the Magistros of Chardon."
+        },
+        {
+          "startUid": "u0265",
+          "endUid": "u0266",
+          "quote": "Vindristjarna returns to Chardon."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Chardon.md"
+    },
+    "p03": {
+      "label": "Destroyed tower crater and mine",
+      "kind": "site",
+      "evidence": [
+        {
+          "startUid": "u0063",
+          "endUid": "u0068",
+          "quote": "DM: Cut back to the edge of a giant crater in the mountains, full of the rubble of a massive tower and… full of… chaos. Ogres fleeing everywhere. Giants standing around trying to bring some order to the scene as one of them approaches you, speaking to the party. This is Brunnar, the one you spoke to before."
+        },
+        {
+          "startUid": "u0073",
+          "endUid": "u0075",
+          "quote": "Others may remain in Ulgrathar, what they call this area of the mountains."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0063",
+              "endUid": "u0068",
+              "quote": "Cut back to the edge of a giant crater in the mountains"
+            },
+            {
+              "startUid": "u0073",
+              "endUid": "u0075",
+              "quote": "Others may remain in Ulgrathar, what they call this area of the mountains."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Ulgrathar",
+      "kind": "giant realm",
+      "evidence": [
+        {
+          "startUid": "u0073",
+          "endUid": "u0075",
+          "quote": "Others may remain in Ulgrathar, what they call this area of the mountains."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Alta Tonaro/Ulgrathar.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0016",
+              "endUid": "u0021",
+              "quote": "should be arriving in the Chataan Mountains shortly."
+            },
+            {
+              "startUid": "u0022",
+              "endUid": "u0026",
+              "quote": "We've made it into the mountains."
+            },
+            {
+              "startUid": "u0073",
+              "endUid": "u0075",
+              "quote": "Ulgrathar, what they call this area of the mountains."
+            }
+          ],
+          "note": "The named mountains of the reporting sequence identify the ongoing mine/tower setting."
+        }
+      ]
+    },
+    "p05": {
+      "label": "Chataan Mountains",
+      "kind": "mountain range",
+      "evidence": [
+        {
+          "startUid": "u0016",
+          "endUid": "u0021",
+          "quote": "should be arriving in the Chataan Mountains shortly."
+        },
+        {
+          "startUid": "u0022",
+          "endUid": "u0026",
+          "quote": "We've made it into the mountains."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chataan Mountains.md"
+    },
+    "p06": {
+      "label": "Vindristjarna",
+      "kind": "skyship",
+      "evidence": [
+        {
+          "startUid": "u0265",
+          "endUid": "u0266",
+          "quote": "Vindristjarna returns to Chardon."
+        },
+        {
+          "startUid": "u0798",
+          "endUid": "u0802",
+          "quote": "Board Vindristjarna, pry Kenzo away from the last of the negotiations,"
+        }
+      ],
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "mobile": true
+    },
+    "p07": {
+      "label": "Airspace east of Chardon",
+      "kind": "airspace",
+      "evidence": [
+        {
+          "startUid": "u0808",
+          "endUid": "u0811",
+          "quote": "Some hundred miles east of Chardon on a pretty much straight line."
+        }
+      ]
+    },
+    "p08": {
+      "label": "Aurbez Plateau",
+      "kind": "plateau",
+      "evidence": [
+        {
+          "startUid": "u1011",
+          "endUid": "u1014",
+          "quote": "So Aurbez itself is on a plateau."
+        },
+        {
+          "startUid": "u1164",
+          "endUid": "u1168",
+          "quote": "It's a big, flat plateau"
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Aurbez Plateau.md"
+    },
+    "p09": {
+      "label": "Aursen Marshes",
+      "kind": "marshes",
+      "evidence": [
+        {
+          "startUid": "u1011",
+          "endUid": "u1014",
+          "quote": "right now she is up on the plateau, in the Aursen Marshes, where there’s a number of small human and lizardfolk farmsteads."
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Aursen Marshes.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1011",
+              "endUid": "u1014",
+              "quote": "right now she is up on the plateau, in the Aursen Marshes,"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Four-house cluster beside the meandering river",
+      "kind": "farmstead cluster",
+      "evidence": [
+        {
+          "startUid": "u1015",
+          "endUid": "u1016",
+          "quote": "DM: She describes where she's currently staying, it's on the edge of a… of a marsh. A, you know, a peat farmer who… whose house she's staying in right now, who, like, cuts peat in the summer when the marshes dry out."
+        },
+        {
+          "startUid": "u1173",
+          "endUid": "u1181",
+          "quote": "DM: As you appear, on the edge of a… on a sort of little hillock about… 50, 100 feet away from the edge of a meandering river edge, where there's, … the river… the water is, like, relatively low right now, and there's some… willows growing around in a little bit of a clump, and you see there's a cluster of four small houses. And standing, outside of one of the houses, kind of, looking around, you see in the dark Marcella, who, sort of, like, peering off into the darkness, and then… sees you, and… Well, sees you materialize, and, like, looks, her eyes go wide. Strides over to you. Wow."
+        }
+      ],
+      "note": "The peat farmer’s lodging and teleport arrival identify the same small marsh-side cluster; no named village is established.",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1011",
+              "endUid": "u1014",
+              "quote": "in the Aursen Marshes, where there’s a number of small human and lizardfolk farmsteads."
+            },
+            {
+              "startUid": "u1015",
+              "endUid": "u1016",
+              "quote": "on the edge of a… of a marsh."
+            },
+            {
+              "startUid": "u1173",
+              "endUid": "u1181",
+              "quote": "you see there's a cluster of four small houses."
+            }
+          ],
+          "note": "The cluster is at the marsh edge; its position inside the wetland boundary is open."
+        }
+      ]
+    },
+    "p11": {
+      "label": "Stream-side clearing with sitting logs",
+      "kind": "clearing",
+      "evidence": [
+        {
+          "startUid": "u1188",
+          "endUid": "u1196",
+          "quote": "DM: Walks away from the little cluster of houses, up the banks a little bit, the… still sort of wet. There's, like, a small, you know, walking along a small stream that runs down, a few trees growing. There's a little open area where, you stop, and there's a couple of logs you can sit on. What, now… Have to… I have to admit, I… I'm… I had no idea you would show up quite so dramatically. But… The stories are all true, aren't they?"
+        }
+      ],
+      "note": "A distinct conversation stop reached a short walk from the houses; no exact marsh-boundary position is established.",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1188",
+              "endUid": "u1196",
+              "quote": "Walks away from the little cluster of houses, up the banks a little bit,"
+            }
+          ]
+        },
+        {
+          "relation": "in_locality_of",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1011",
+              "endUid": "u1014",
+              "quote": "in the Aursen Marshes,"
+            },
+            {
+              "startUid": "u1188",
+              "endUid": "u1196",
+              "quote": "Walks away from the little cluster of houses, up the banks a little bit,"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Aursenbourg",
+      "kind": "walled market town",
+      "evidence": [
+        {
+          "startUid": "u1227",
+          "endUid": "u1229",
+          "quote": "DM: But, of course, there's… Aursenbourg, just… south, you know, just off the plateau down here is a… market town of 300 people. They've got walls now, but… I can't imagine they're gonna withstand that army."
+        },
+        {
+          "startUid": "u1489",
+          "endUid": "u1498",
+          "quote": "this walled town that Marcella was describing."
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Aursenbourg.md"
+    },
+    "p13": {
+      "label": "Plaguelands",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u1499",
+          "endUid": "u1505",
+          "quote": "As you begin to continue out into the Plaguelands,"
+        },
+        {
+          "startUid": "u1519",
+          "endUid": "u1524",
+          "quote": "DM: Sorry, east-west, and then to the sort of east-southeast in front of you is just a broken expanse of cracked earth. There's, you know, hills that seem… ripped into strange, unnatural shapes. There's valleys that are just filled with ash and dust. There are… occasional incongruous patches of sort of an open… terrain in between some cracked hills where some gray water collects and some thorny trees grow in a circle."
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Plaguelands.md"
+    },
+    "p14": {
+      "label": "Initial concealed landing, five miles off the column’s front",
+      "kind": "landing site",
+      "evidence": [
+        {
+          "startUid": "u1619",
+          "endUid": "u1621",
+          "quote": "DM: And you land sort of hidden a little bit, a few miles, 5 miles away from its front. Seeker… everybody except Seeker 4 goes invisible, and Kenzo and Wellby begin to scout. I assume you're sort of offline, right? So it's going this way, and you're kind of off to the side, so it's not going to directly run you over. Yeah, yeah, yeah."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u1499",
+              "endUid": "u1505",
+              "quote": "As you begin to continue out into the Plaguelands,"
+            },
+            {
+              "startUid": "u1612",
+              "endUid": "u1621",
+              "quote": "DM: Okay, so, you fly… another… you fly another… 10 miles or so… Essentially, as the army is, you know, the ash cloud is moving down, through this sort of channel… cavern area, or, canyon area. And as you're flying in its direction, it reaches the end of the canyon, and… ash cloud just… turns up the side and just begins climbing, just flows up the top of the canyon, and then flows out onto the… the sort of rocky, open, partially open area on the plain below."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Scouts’ position outside the ash cloud",
+      "kind": "scouting position",
+      "evidence": [
+        {
+          "startUid": "u1726",
+          "endUid": "u1728",
+          "quote": "DM: Okay, so you're a little bit less than a mile away at this point, and the bat begins to fly towards it. …"
+        },
+        {
+          "startUid": "u1856",
+          "endUid": "u1859",
+          "quote": "Delwath: So how close… we're, like, a couple hundred feet away."
+        }
+      ],
+      "note": "The scouts close from less than a mile to roughly half a mile; only the bat enters the cloud.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u1499",
+              "endUid": "u1505",
+              "quote": "As you begin to continue out into the Plaguelands,"
+            },
+            {
+              "startUid": "u1663",
+              "endUid": "u1668",
+              "quote": "DM: Invisible, you begin to move closer … moving at an angle to sort of approach this cloud from the side. It's maybe… 400 or 500 feet long, maybe two, three hundred… probably a little bigger than that. It’s like… No, it's probably more like a hundred… and 20… feet wide, and… 100 and, like, 250 feet long, something like that. Like, it’s like decent size, the ash cloud. …"
+            },
+            {
+              "startUid": "u1856",
+              "endUid": "u1859",
+              "quote": "Delwath: So how close… we're, like, a couple hundred feet away."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Ash-shrouded mecha centipede and its rider platforms",
+      "kind": "moving creature",
+      "evidence": [
+        {
+          "startUid": "u1734",
+          "endUid": "u1740",
+          "quote": "DM: The bat begins to fly towards this rolling cloud of ash, and as the bat gets to be, maybe, 100 feet away… you can make out shapes. It looks like there's hundreds of hobgoblins, thousands of hobgoblins, clinging in, like, 3, 4 rows to the side of something. Like, riding along the side of something, and you can hear now, through the bat as you get closer. You begin, you, like, dive into the ash itself. Yeah?"
+        },
+        {
+          "startUid": "u1781",
+          "endUid": "u1794",
+          "quote": "DM: So the bat flies up and dips down to the top, into the top of the ash, and you can see, like… as soon as you dip… down below the sort of billowing clouds of ash, there's actually a bit of a clear space. And you see… what must be a line of… you know, 600 hobgoblins or so from end to end, stacked 3 on each side. So… you know."
+        },
+        {
+          "startUid": "u1966",
+          "endUid": "u1968",
+          "quote": "DM: There's, like… there's, like, rows of… rings like that, like, growing out of the side that they're hanging onto. And there's, like, platforms, like, they're not just hanging, they're standing. The centipede has, like, army platforms growing out of its sides."
+        }
+      ],
+      "mobile": true
+    },
+    "p17": {
+      "label": "Rock blind beside the centipede’s path",
+      "kind": "concealment site",
+      "evidence": [
+        {
+          "startUid": "u2039",
+          "endUid": "u2042",
+          "quote": "DM: Okay, so you're, like, making a blind, you want the thing to, like… run… n- like… 40, 50, 60 feet away from the edge of your blind, and then as soon as it runs past like this, you…"
+        },
+        {
+          "startUid": "u2070",
+          "endUid": "u2074",
+          "quote": "DM: So you set up a blind. Hide yourself as it… as it gets closer, … So… you know, you’re sort of moving rocks around a little bit, just to… basically so you have total cover and something to crouch behind. Right? I mean, are you digging… what are you trying to, like, dig something and put a."
+        }
+      ],
+      "note": "Kept distinct from the initial landing five miles away; the later blind is positioned beside the moving column.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u2027",
+              "endUid": "u2030",
+              "quote": "DM: Yeah, so once the centipede creature flowed up the wall of the canyon, it's now in a sort of more open valley area, where there's, like, a big jagged cliff rock that looks like a mountain… like a… almost like an arm bent, weirdly, to the left. But there's a… but it's fairly open for about 5 miles, which is where you sort of met it at the beginning."
+            },
+            {
+              "startUid": "u2070",
+              "endUid": "u2074",
+              "quote": "DM: So you set up a blind. Hide yourself as it… as it gets closer, … So… you know, you’re sort of moving rocks around a little bit, just to… basically so you have total cover and something to crouch behind. Right? I mean, are you digging… what are you trying to, like, dig something and put a."
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Three Wells",
+      "kind": "meeting place",
+      "evidence": [
+        {
+          "startUid": "u1345",
+          "endUid": "u1349",
+          "quote": "DM: This… she's, like, shaking her head. I… the gods must like me, I… I can't… Did not expect any of this. No, I… there's a count… there's a Ranger Council meeting at Three Wells tomorrow afternoon. It's about a 15-mile hike upriver from here, so… I better bring… news of your appearance to them… I'm sure there others who…"
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Three Wells.md",
+      "note": "A future council destination. The vault locates it on the plateau; the source gives only fifteen miles upriver here, so no transcript-backed containment is asserted."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0021"
+      },
+      "actors": [
+        "Magistros",
+        "Tiberius"
+      ],
+      "reading": "Earlier imperial reports are received in the map chamber.",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0021",
+          "quote": "DM: Okay. So… We start… jumping back in time… as… the Magistros of Chardon. What was his name again? Mitus Verina Auratan paces back and forth in a small chamber looking at maps. Late at night, and as he… drifts off to sleep, he gets a message."
+        }
+      ],
+      "place": "p01",
+      "context": "flashback"
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0063",
+        "endUid": "u0078"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After the tower’s destruction, the party speaks with Brunnar at the crater and mine in Ulgrathar.",
+      "evidence": [
+        {
+          "startUid": "u0063",
+          "endUid": "u0068",
+          "quote": "DM: Cut back to the edge of a giant crater in the mountains, full of the rubble of a massive tower and… full of… chaos. Ogres fleeing everywhere. Giants standing around trying to bring some order to the scene as one of them approaches you, speaking to the party. This is Brunnar, the one you spoke to before."
+        },
+        {
+          "startUid": "u0069",
+          "endUid": "u0078",
+          "quote": "DM: The giants that survived, he says, are leaving the area. We will not linger long, he says, as those who are not dead are desperate to be free of the memories of this place. The ogres are your problem now, but we will bring to justice the remaining Chalyte sorcerers who worked for… Dhrukmir."
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0153",
+        "endUid": "u0158"
+      },
+      "actors": [
+        "party",
+        "Octavia",
+        "Tristan"
+      ],
+      "reading": "Cleanup includes shuttling the envoys south toward the city; arrival there is not narrated.",
+      "evidence": [
+        {
+          "startUid": "u0088",
+          "endUid": "u0096",
+          "quote": "Octavia and Tristan are here to be dropped off in Argento, the nearby city,"
+        },
+        {
+          "startUid": "u0153",
+          "endUid": "u0158",
+          "quote": "Shuttling, you know, flying… Octavia and Tristan sort of a bit south towards the city,"
+        }
+      ],
+      "from": "p03",
+      "to": null,
+      "completion": "underway",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Toward Argento; no completed Argento arrival is supplied."
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0265",
+        "endUid": "u0266"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Return aboard Vindristjarna to Chardon, arriving July 9.",
+      "evidence": [
+        {
+          "startUid": "u0265",
+          "endUid": "u0266",
+          "quote": "DM: So, Vindristjarna returns to Chardon. It takes, like, you know, 3 days… So that puts us on… So you arrive, like, July 9th."
+        }
+      ],
+      "from": "p04",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "fly",
+      "vehicle": "p06",
+      "duration": {
+        "value": 3,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Narrated rough return-voyage duration."
+      }
+    },
+    {
+      "id": "l05",
+      "type": "presence",
+      "source": {
+        "startUid": "u0574",
+        "endUid": "u0608"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath"
+      ],
+      "reading": "Kenzo and Delwath shuttle among the Magistros, Windcallers and workers during Chardon’s negotiated settlement.",
+      "evidence": [
+        {
+          "startUid": "u0574",
+          "endUid": "u0575",
+          "quote": "DM: So, you spend some time negotiating the exact details of the negotiating. This takes a few weeks, right? Kenzo and Delwath are negotiating with the Magistros, and you bring in your… you know, your various people from the old neighborhood, you talk to people, people bring up ideas."
+        },
+        {
+          "startUid": "u0605",
+          "endUid": "u0608",
+          "quote": "DM: So, this takes, like, some… some weeks of negotiation. That Kenzo is involved in fairly heavily. Shuttling back and forth, like, talking to the Magistros, talking to the Windcallers, talking to the… you know, the refiners working out the land deal. I don't… are you just… is Kenzo just gonna be a landlord for a ton of people, or are you giving land away?"
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0798",
+        "endUid": "u0811"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Board Vindristjarna and fly directly east from Chardon; by sunset the party is about a hundred miles east and continues into the night.",
+      "evidence": [
+        {
+          "startUid": "u0798",
+          "endUid": "u0803",
+          "quote": "DM: So, you quickly… organize yourselves. Board Vindristjarna, pry Kenzo away from the last of the negotiations, try and settle investment goals and rebuilding plans. … And… leave in the midst of waiting for news and research to come back to you about these various questions you've been asking about. And leap into action, setting off directly east as quickly as you can."
+        },
+        {
+          "startUid": "u0808",
+          "endUid": "u0811",
+          "quote": "DM: Yeah. You travel about a hundred and… you know. Some hundred miles east of Chardon on a pretty much straight line. As the sun begins to set. And as you… press into the night, you… cast Dream, who's gonna speak to Marcella?"
+        }
+      ],
+      "from": "p02",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "fly",
+      "vehicle": "p06",
+      "distance": {
+        "value": 100,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "Narrated distance east of Chardon by sunset, not the later ship’s full route."
+      },
+      "locationContext": [
+        {
+          "subject": "p06",
+          "relation": "east_of",
+          "target": "p02"
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1156",
+        "endUid": "u1181"
+      },
+      "actors": [
+        "party",
+        "Seeker 4"
+      ],
+      "reading": "Teleport from the continuing skyship journey to the hillock beside Marcella’s marsh-side houses.",
+      "evidence": [
+        {
+          "startUid": "u1088",
+          "endUid": "u1090",
+          "quote": "Seeker 4 hanging out with us, too,"
+        },
+        {
+          "startUid": "u1156",
+          "endUid": "u1157",
+          "quote": "DM: So, you materialize. I didn't finish making images for this place, so here's… here's the cliff, but you're above the cliff."
+        },
+        {
+          "startUid": "u1173",
+          "endUid": "u1181",
+          "quote": "DM: As you appear, on the edge of a… on a sort of little hillock about… 50, 100 feet away from the edge of a meandering river edge, where there's, … the river… the water is, like, relatively low right now, and there's some… willows growing around in a little bit of a clump, and you see there's a cluster of four small houses. And standing, outside of one of the houses, kind of, looking around, you see in the dark Marcella, who, sort of, like, peering off into the darkness, and then… sees you, and… Well, sees you materialize, and, like, looks, her eyes go wide. Strides over to you. Wow."
+        }
+      ],
+      "from": "p06",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "teleport"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1185",
+        "endUid": "u1196"
+      },
+      "actors": [
+        "party",
+        "Marcella"
+      ],
+      "reading": "Walk away from the houses and stop at the stream-side clearing with logs to talk.",
+      "evidence": [
+        {
+          "startUid": "u1185",
+          "endUid": "u1186",
+          "quote": "DM: Let's walk a little ways, I… we should obviously talk, but I don't want to wake the children."
+        },
+        {
+          "startUid": "u1188",
+          "endUid": "u1196",
+          "quote": "DM: Walks away from the little cluster of houses, up the banks a little bit, the… still sort of wet. There's, like, a small, you know, walking along a small stream that runs down, a few trees growing. There's a little open area where, you stop, and there's a couple of logs you can sit on. What, now… Have to… I have to admit, I… I'm… I had no idea you would show up quite so dramatically. But… The stories are all true, aren't they?"
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1345",
+        "endUid": "u1386"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Plan to attend the Ranger Council at Three Wells after scouting; the meeting is not reached in this session.",
+      "evidence": [
+        {
+          "startUid": "u1345",
+          "endUid": "u1349",
+          "quote": "DM: This… she's, like, shaking her head. I… the gods must like me, I… I can't… Did not expect any of this. No, I… there's a count… there's a Ranger Council meeting at Three Wells tomorrow afternoon. It's about a 15-mile hike upriver from here, so… I better bring… news of your appearance to them… I'm sure there others who…"
+        },
+        {
+          "startUid": "u1381",
+          "endUid": "u1386",
+          "quote": "Delwath: … Yes, tell us how to get to this meeting in case we're delayed and bring news of our arrival, and … we will… carry the word that we have gone to scout, and … that Vindristjarna, that the, … the Rangers should keep a watch for Vindristjarna, our skyship."
+        }
+      ],
+      "from": "p11",
+      "to": "p18",
+      "completion": "planned",
+      "context": "planned",
+      "mode": "fly"
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u1489",
+        "endUid": "u1498"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "See Aursenbourg’s walls, stone bridge and torchlit guards from the flight overhead.",
+      "evidence": [
+        {
+          "startUid": "u1489",
+          "endUid": "u1498",
+          "quote": "DM: So… you begin to fly… cruising as eagles through the night sky. You… you fly… follow the course of the river, and you see below you the… after a short while, the… this walled town that Marcella was describing. The wall… the… wall is on the south bank of the river. There's a stone bridge that crosses to the north bank… You see torchlight and… you know, guards standing around the ramparts of the wall."
+        }
+      ],
+      "place": "p12",
+      "mode": "local"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1489",
+        "endUid": "u1621"
+      },
+      "actors": [
+        "party",
+        "Seeker 4"
+      ],
+      "reading": "Fly as eagles down the Aursen, over the walled town and onward into the Plaguelands, then land hidden off the ash column’s line of march.",
+      "evidence": [
+        {
+          "startUid": "u1469",
+          "endUid": "u1472",
+          "quote": "you all turn into bald eagles."
+        },
+        {
+          "startUid": "u1489",
+          "endUid": "u1498",
+          "quote": "DM: So… you begin to fly… cruising as eagles through the night sky. You… you fly… follow the course of the river, and you see below you the… after a short while, the… this walled town that Marcella was describing. The wall… the… wall is on the south bank of the river. There's a stone bridge that crosses to the north bank… You see torchlight and… you know, guards standing around the ramparts of the wall."
+        },
+        {
+          "startUid": "u1499",
+          "endUid": "u1505",
+          "quote": "DM: As you begin to continue out into the Plaguelands, you… follow the course of the or… of the Aursen for a bit. There's a few, you know, there's a few scattered farmsteads and… and things, with a couple of marshy areas you pass through, but everywhere you fly over, anyway, seems to be abandoned. You see no smoke coming from chimneys, no… You know, signs of people having left in haste. No animals in pens. It seems like people are… aware, at least, and are fleeing from the… advance of the hobgoblins, retreating to the safety of the plateau or the walls."
+        },
+        {
+          "startUid": "u1506",
+          "endUid": "u1510",
+          "quote": "DM: By… let's see, bald eagles go… 20 to 30 miles an hour. … And it's 2 in the morning, 2 in the morning, so by… dawn, say, around 6, you'll have gone… 120 miles. So…"
+        },
+        {
+          "startUid": "u1534",
+          "endUid": "u1543",
+          "quote": "DM: And by… Let's see… That's another… by, you know, maybe 8 in the morning or so, about 160… 170 miles, 180, something like that, from… where you parted ways with Marcella. You can see… ahead of you… moving slowly across this broken terrain."
+        },
+        {
+          "startUid": "u1612",
+          "endUid": "u1621",
+          "quote": "DM: Okay, so, you fly… another… you fly another… 10 miles or so… Essentially, as the army is, you know, the ash cloud is moving down, through this sort of channel… cavern area, or, canyon area. And as you're flying in its direction, it reaches the end of the canyon, and… ash cloud just… turns up the side and just begins climbing, just flows up the top of the canyon, and then flows out onto the… the sort of rocky, open, partially open area on the plain below."
+        }
+      ],
+      "from": "p11",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "eagle flight",
+      "route": [
+        {
+          "reading": "Follow the Aursen; see Aursenbourg below without entering it.",
+          "place": "p12"
+        },
+        {
+          "reading": "Continue across abandoned farmsteads into the Plaguelands.",
+          "place": "p13"
+        },
+        {
+          "reading": "After sighting the cloud, fly another ten miles or so and land about five miles from its front, off its direct path."
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1655",
+        "endUid": "u1728"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Delwath"
+      ],
+      "reading": "Delwath joins the scouts, who approach invisibly from the side and remain outside the cloud, less than a mile and later about half a mile away.",
+      "evidence": [
+        {
+          "startUid": "u1619",
+          "endUid": "u1621",
+          "quote": "Kenzo and Wellby begin to scout."
+        },
+        {
+          "startUid": "u1655",
+          "endUid": "u1658",
+          "quote": "I think Delwath should go with the scouts,"
+        },
+        {
+          "startUid": "u1663",
+          "endUid": "u1668",
+          "quote": "DM: Invisible, you begin to move closer … moving at an angle to sort of approach this cloud from the side. It's maybe… 400 or 500 feet long, maybe two, three hundred… probably a little bigger than that. It’s like… No, it's probably more like a hundred… and 20… feet wide, and… 100 and, like, 250 feet long, something like that. Like, it’s like decent size, the ash cloud. …"
+        },
+        {
+          "startUid": "u1726",
+          "endUid": "u1728",
+          "quote": "DM: Okay, so you're a little bit less than a mile away at this point, and the bat begins to fly towards it. …"
+        },
+        {
+          "startUid": "u1856",
+          "endUid": "u1859",
+          "quote": "Delwath: So how close… we're, like, a couple hundred feet away."
+        }
+      ],
+      "from": "p14",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "invisible scouting",
+      "note": "Seeker and Seeker 4 are not included in this close approach; their later regrouping is not given a separate route."
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u1734",
+        "endUid": "u1807"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Through the bat’s senses, examine the centipede, its riders and silver-clad commander beneath the ash; a rider kills the bat.",
+      "evidence": [
+        {
+          "startUid": "u1724",
+          "endUid": "u1725",
+          "quote": "Wellby: I'll do that. I'll stay invisible, I'll un animal shape, and I'll Beast Sense the bat."
+        },
+        {
+          "startUid": "u1734",
+          "endUid": "u1740",
+          "quote": "DM: The bat begins to fly towards this rolling cloud of ash, and as the bat gets to be, maybe, 100 feet away… you can make out shapes. It looks like there's hundreds of hobgoblins, thousands of hobgoblins, clinging in, like, 3, 4 rows to the side of something. Like, riding along the side of something, and you can hear now, through the bat as you get closer. You begin, you, like, dive into the ash itself. Yeah?"
+        },
+        {
+          "startUid": "u1781",
+          "endUid": "u1807",
+          "quote": "DM: So the bat flies up and dips down to the top, into the top of the ash, and you can see, like… as soon as you dip… down below the sort of billowing clouds of ash, there's actually a bit of a clear space. And you see… what must be a line of… you know, 600 hobgoblins or so from end to end, stacked 3 on each side. So… you know."
+        }
+      ],
+      "place": "p16",
+      "observerPlace": "p15",
+      "mode": "remote",
+      "observedActors": [
+        "silver-clad commander"
+      ],
+      "locationContext": [
+        {
+          "subject": "p16",
+          "relation": "within",
+          "target": "p13"
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "presence",
+      "source": {
+        "startUid": "u2070",
+        "endUid": "u2074"
+      },
+      "actors": [
+        "party",
+        "Seeker 4"
+      ],
+      "reading": "The group establishes a rock blind beside the column’s path and carries out the capture from cover.",
+      "evidence": [
+        {
+          "startUid": "u1934",
+          "endUid": "u1944",
+          "quote": "Seeker 4, who has turned into a bug,"
+        },
+        {
+          "startUid": "u2039",
+          "endUid": "u2042",
+          "quote": "DM: Okay, so you're, like, making a blind, you want the thing to, like… run… n- like… 40, 50, 60 feet away from the edge of your blind, and then as soon as it runs past like this, you…"
+        },
+        {
+          "startUid": "u2070",
+          "endUid": "u2074",
+          "quote": "DM: So you set up a blind. Hide yourself as it… as it gets closer, … So… you know, you’re sort of moving rocks around a little bit, just to… basically so you have total cover and something to crouch behind. Right? I mean, are you digging… what are you trying to, like, dig something and put a."
+        },
+        {
+          "startUid": "u2396",
+          "endUid": "u2397",
+          "quote": "Delwath: We're still hidden. We're, like, hidden behind rocks."
+        }
+      ],
+      "place": "p17"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2428",
+        "endUid": "u2433"
+      },
+      "actors": [
+        "party",
+        "Seeker 4",
+        "Szoltár"
+      ],
+      "reading": "Teleport away with the living hobgoblin prisoner and arrive back in the marsh at 9 AM.",
+      "evidence": [
+        {
+          "startUid": "u2428",
+          "endUid": "u2430",
+          "quote": "DM: … So, teleport goes off and you vanish… just before she leaps into the air, and goes to investigate the… rocks moved around to make cover."
+        },
+        {
+          "startUid": "u2431",
+          "endUid": "u2433",
+          "quote": "DM: And we will end as you appear, because you've picked up dirt. You appear with your hobgoblin prisoner, now 9 o'clock in the morning, back in the marsh, where… you left Marcella last night."
+        }
+      ],
+      "from": "p17",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "teleport",
+      "note": "The return is placed in the marsh; the narration does not specify the same hillock, house or log clearing."
+    }
+  ]
+}

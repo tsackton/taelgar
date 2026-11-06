@@ -1,0 +1,88 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-129",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-session.yaml",
+    "sessionYamlSha256": "aedab905c2f85ad0008757483cb71ba32a3078d84fbacd879e901d6800cf81d2",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-transcript.md",
+    "transcriptSha256": "e78530e0bf40c6d9caaa56651a875d224ffa4d0c23da5dcb3f5bebade28dd69f"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0002"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0437"
+      },
+      "category": "gameplay",
+      "note": "The opening retrospective reports introduce played events; they are not a recap-only framing block."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0438",
+        "endUid": "u0447"
+      },
+      "category": "meta_discussion",
+      "note": "The DM explicitly steps out of game to clarify Kenzo’s goals."
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0448",
+        "endUid": "u2077"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u2078",
+        "endUid": "u2433"
+      },
+      "category": "combat",
+      "note": "Sleep target/save setup leads directly into a repeated ordered turn cycle before the later escape initiative contest; the segment ends at the successful teleport."
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2434",
+        "endUid": "u2437"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2438",
+        "endUid": "u2446"
+      },
+      "category": "table_talk",
+      "note": "The table decides whether to continue before the scheduled ending."
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2447",
+        "endUid": "u2590"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2591",
+        "endUid": "u2610"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

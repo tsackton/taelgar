@@ -1,0 +1,698 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-129",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-session.yaml",
+    "sessionYamlSha256": "aedab905c2f85ad0008757483cb71ba32a3078d84fbacd879e901d6800cf81d2",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-transcript.md",
+    "transcriptSha256": "e78530e0bf40c6d9caaa56651a875d224ffa4d0c23da5dcb3f5bebade28dd69f",
+    "yamlDates": {
+      "start": "1749-07-05",
+      "end": "1749-08-07"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0021"
+      },
+      "reading": "Play jumps back to the Magistros’s late-night report from Tristan, before the tower assault.",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0012",
+          "quote": "We start… jumping back in time…"
+        },
+        {
+          "startUid": "u0003",
+          "endUid": "u0012",
+          "quote": "Late at night, and as he… drifts off to sleep, he gets a message."
+        },
+        {
+          "startUid": "u0016",
+          "endUid": "u0021",
+          "quote": "He speaks with Tristan Brighteyes, the Windcaller who is traveling with you,"
+        }
+      ],
+      "context": "flashback",
+      "actors": [
+        "Magistros",
+        "Tiberius",
+        "Tristan"
+      ],
+      "time": {
+        "partOfDay": "late night",
+        "precision": "approximate",
+        "basis": "Opening retrospective scene; no calendar date is spoken."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0022",
+        "endUid": "u0026"
+      },
+      "reading": "A day passes before Tristan’s next report about reaching the mountains and scouting the tower.",
+      "evidence": [
+        {
+          "startUid": "u0022",
+          "endUid": "u0026",
+          "quote": "And a day passes. And another message… We've made it into the mountains."
+        }
+      ],
+      "context": "flashback",
+      "actors": [
+        "Magistros",
+        "Tristan"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "day",
+        "precision": "exact",
+        "basis": "Narrator explicitly advances a day between the two reports."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t01",
+          "offset": {
+            "value": 1,
+            "unit": "day",
+            "precision": "exact",
+            "basis": "A day passes."
+          }
+        },
+        "precision": "approximate",
+        "basis": "Same reporting sequence, one day later; no clock is repeated."
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0042",
+        "endUid": "u0049"
+      },
+      "reading": "The retrospective sequence skips forward to about noon, when the Magistros receives confirmation of the giant’s death and the death ray’s destruction.",
+      "evidence": [
+        {
+          "startUid": "u0042",
+          "endUid": "u0049",
+          "quote": "And then… skipping ahead…"
+        },
+        {
+          "startUid": "u0042",
+          "endUid": "u0049",
+          "quote": "around noon, talking seemingly anxious"
+        },
+        {
+          "startUid": "u0042",
+          "endUid": "u0049",
+          "quote": "Giant killed. Chalyte death ray destroyed. Chalyte is yours."
+        }
+      ],
+      "context": "flashback",
+      "actors": [
+        "Magistros",
+        "Tiberius"
+      ],
+      "time": {
+        "partOfDay": "noon",
+        "precision": "approximate",
+        "basis": "Explicit noon anchor; the amount skipped after the previous report is unstated."
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0063",
+        "endUid": "u0068"
+      },
+      "reading": "Narration returns from the Magistros’s reporting sequence to the party at the destroyed tower’s crater.",
+      "evidence": [
+        {
+          "startUid": "u0063",
+          "endUid": "u0068",
+          "quote": "Cut back to the edge of a giant crater in the mountains, full of the rubble of a massive tower"
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "after",
+          "anchor": "Dhrukmir’s defeat and the tower’s destruction"
+        },
+        "precision": "approximate",
+        "basis": "Explicit narrative return; the party’s clock is established separately at t05."
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0097",
+        "endUid": "u0100"
+      },
+      "reading": "The party’s post-battle cleanup begins in mid-afternoon.",
+      "evidence": [
+        {
+          "startUid": "u0097",
+          "endUid": "u0100",
+          "quote": "It's… mid-afternoon?"
+        }
+      ],
+      "time": {
+        "partOfDay": "mid-afternoon",
+        "precision": "approximate",
+        "basis": "Narrated local time; July 5 comes from YAML and campaign context, not an independently spoken date."
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0153",
+        "endUid": "u0158"
+      },
+      "reading": "The rest of that day passes in cleanup and shuttling the envoys; at nightfall Delwath opens Kenzo’s Dream conversation with the Magistros.",
+      "evidence": [
+        {
+          "startUid": "u0153",
+          "endUid": "u0158",
+          "quote": "So, you spend the rest of the day kind of cleaning up."
+        },
+        {
+          "startUid": "u0153",
+          "endUid": "u0158",
+          "quote": "And as night falls, you… Delwath casts Dream on Kenzo, allowing you to speak with… the Magistros."
+        }
+      ],
+      "time": {
+        "partOfDay": "nightfall",
+        "precision": "approximate",
+        "basis": "The cleanup interval ends at explicit nightfall."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0265",
+        "endUid": "u0266"
+      },
+      "reading": "Vindristjarna’s return to Chardon takes roughly three days and ends on July 9; the meeting is corrected to arrival, rather than a few days later.",
+      "evidence": [
+        {
+          "startUid": "u0265",
+          "endUid": "u0266",
+          "quote": "DM: So, Vindristjarna returns to Chardon. It takes, like, you know, 3 days… So that puts us on… So you arrive, like, July 9th."
+        },
+        {
+          "startUid": "u0278",
+          "endUid": "u0283",
+          "quote": "A few days after you arrive… Well… When you arrive, the Magistros meets with you."
+        }
+      ],
+      "duration": {
+        "value": 3,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Narrated “like ... 3 days”; not a precise departure clock."
+      },
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 7,
+          "day": 9
+        },
+        "precision": "approximate",
+        "basis": "July 9 is spoken; year 1749 is inherited from YAML."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0574",
+        "endUid": "u0575"
+      },
+      "reading": "The negotiated settlement and parallel research occupy several weeks after arrival, extending from July into August.",
+      "evidence": [
+        {
+          "startUid": "u0574",
+          "endUid": "u0575",
+          "quote": "This takes a few weeks, right?"
+        },
+        {
+          "startUid": "u0605",
+          "endUid": "u0608",
+          "quote": "So, this takes, like, some… some weeks of negotiation."
+        },
+        {
+          "startUid": "u0653",
+          "endUid": "u0658",
+          "quote": "And over the course of, you know, 3 weeks…"
+        },
+        {
+          "startUid": "u0673",
+          "endUid": "u0673",
+          "quote": "DM: 3 weeks, slowly drifts into 4, it's easy to get consumed by this."
+        },
+        {
+          "startUid": "u0685",
+          "endUid": "u0692",
+          "quote": "And life continues as the… summer… turns from July to August."
+        }
+      ],
+      "duration": {
+        "text": "three weeks drifting into four",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Successive descriptions of one downtime interval; these are not additional additive periods."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u0693",
+        "endUid": "u0695"
+      },
+      "reading": "The next principal scene opens on the morning of August 6, with the Chardon negotiations winding down.",
+      "evidence": [
+        {
+          "startUid": "u0693",
+          "endUid": "u0695",
+          "quote": "Until one morning on August 6th, as you're feeling like things are mostly winding down,"
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 6
+        },
+        "partOfDay": "morning",
+        "precision": "exact",
+        "basis": "August 6 and morning are spoken; year comes from YAML."
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u0696",
+        "endUid": "u0703"
+      },
+      "reading": "Narration briefly returns to earlier downtime: Hektor becomes ready to leave the mirror and Vola takes her leave, before the summons.",
+      "evidence": [
+        {
+          "startUid": "u0693",
+          "endUid": "u0695",
+          "quote": "oh, I should say, during this time also,"
+        },
+        {
+          "startUid": "u0696",
+          "endUid": "u0698",
+          "quote": "DM: Hektor and Vola, who you kind of forgot about. But Hektor has finally sort of come out of his shell enough. He doesn't really remember his past life, but he's ready to step out of the mirror, and he… is… open to joining your crew as a… singer and brawler, trainer, if you'll take him."
+        },
+        {
+          "startUid": "u0699",
+          "endUid": "u0703",
+          "quote": "DM: Vola wants to… travel, but not with you. She's still… shaken by the whole betrayal. The process of… learning that… of being essentially sold into slavery by her father figure. And… just wants to explore. She's planning on going to Apporia, and just seeing what's there. So she takes her leave of you."
+        },
+        {
+          "startUid": "u0704",
+          "endUid": "u0707",
+          "quote": "And a couple days after these events, Wellby, you hear a… voice in your pocket"
+        }
+      ],
+      "actors": [
+        "Hektor",
+        "Vola",
+        "party"
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "reference": "t11",
+          "offset": {
+            "text": "a couple days",
+            "unit": "day",
+            "precision": "vague",
+            "basis": "The summons follows these events by “a couple days,” without separate dates for each."
+          }
+        },
+        "precision": "approximate",
+        "basis": "Retrospective downtime insertion; exact dates and spacing of the two departures are not supplied."
+      }
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u0704",
+        "endUid": "u0707"
+      },
+      "reading": "Narration resumes the August 6 summons: Sura reaches Wellby a couple days after the inserted Hektor/Vola events.",
+      "evidence": [
+        {
+          "startUid": "u0704",
+          "endUid": "u0707",
+          "quote": "DM: And a couple days after these events, Wellby, you hear a… voice in your pocket that you haven't heard for a while, as your sending stone chimes, and you hear Sura’s voice saying, “Wellby?” Anybody?"
+        },
+        {
+          "startUid": "u0780",
+          "endUid": "u0782",
+          "quote": "8 days ago now, which is August 6th."
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Sura"
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 6
+        },
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Opening morning anchor t09 and explicit later confirmation of August 6."
+      },
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t09"
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u0803",
+        "endUid": "u0803"
+      },
+      "reading": "The party leaves Chardon aboard Vindristjarna on August 6 in mid-afternoon.",
+      "evidence": [
+        {
+          "startUid": "u0798",
+          "endUid": "u0802",
+          "quote": "And leap into action, setting off directly east as quickly as you can."
+        },
+        {
+          "startUid": "u0803",
+          "endUid": "u0803",
+          "quote": "DM: On August 6th, mid… afternoon… So, you can travel…"
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 6
+        },
+        "partOfDay": "mid-afternoon",
+        "precision": "approximate",
+        "basis": "Date and departure watch are explicitly narrated; year is YAML-derived."
+      }
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u0808",
+        "endUid": "u0811"
+      },
+      "reading": "After roughly a hundred miles eastward, sunset gives way to night aboard the continuing skyship journey.",
+      "evidence": [
+        {
+          "startUid": "u0808",
+          "endUid": "u0811",
+          "quote": "DM: Yeah. You travel about a hundred and… you know. Some hundred miles east of Chardon on a pretty much straight line. As the sun begins to set. And as you… press into the night, you… cast Dream, who's gonna speak to Marcella?"
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 6
+        },
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "Same departure day, explicitly narrated sunset; distance is not converted into a measured duration."
+      }
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u0818",
+        "endUid": "u0821"
+      },
+      "reading": "Marcella only goes to sleep well past midnight, when Delwath enters her Dream.",
+      "evidence": [
+        {
+          "startUid": "u0818",
+          "endUid": "u0821",
+          "quote": "Marcella does not go to sleep until… well past midnight."
+        }
+      ],
+      "actors": [
+        "Delwath",
+        "Marcella"
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 7
+        },
+        "partOfDay": "after midnight",
+        "precision": "approximate",
+        "basis": "Civil August 7 inferred from a post-midnight contact following the August 6 departure; no clock is invented."
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1028",
+        "endUid": "u1030"
+      },
+      "reading": "Seeker retrospectively confirms a completed rest in the sanctum before teleport preparations; its duration and placement within the voyage remain unstated.",
+      "evidence": [
+        {
+          "startUid": "u1028",
+          "endUid": "u1030",
+          "quote": "Seeker: Really low, yeah. We rested in our sanctum, right? Get, Eric and I both get— Seeker and Delwath both get our 85 temporary hit points?"
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Delwath"
+      ],
+      "time": {
+        "relative": {
+          "relation": "before",
+          "reference": "t16",
+          "anchor": "Before the first teleport; relation to departure and Dream left open"
+        },
+        "precision": "approximate",
+        "basis": "The table confirms “rested”; no new rest, explicit long-rest duration, or overnight transition is established here."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u1169",
+        "endUid": "u1172"
+      },
+      "reading": "The party’s teleport arrival is described as the moonless “night of August 6th,” continuing the contact made after midnight.",
+      "evidence": [
+        {
+          "startUid": "u1169",
+          "endUid": "u1172",
+          "quote": "DM: I have a little moon thing, but… So it's the night of… August 6th… My moon thing's not working. No, there is no moon. Completely dark."
+        },
+        {
+          "startUid": "u0818",
+          "endUid": "u0821",
+          "quote": "well past midnight."
+        },
+        {
+          "startUid": "u1355",
+          "endUid": "u1355",
+          "quote": "DM: Mid… it's, like, 2 AM."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 7
+        },
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "Civil August 7 inferred from the post-midnight Dream and subsequent 2 AM anchor; “night of August 6th” is retained as the narrator’s night label."
+      },
+      "note": "The spoken night label is not counted as a second date or as a reversal of elapsed time."
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u1354",
+        "endUid": "u1355"
+      },
+      "reading": "At the marsh-side discussion before the scouting flight, the DM places the party at about 2 AM.",
+      "evidence": [
+        {
+          "startUid": "u1354",
+          "endUid": "u1355",
+          "quote": "Delwath: It's like, what time of day is it?"
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 7
+        },
+        "clock": "02:00",
+        "precision": "approximate",
+        "basis": "“Like, 2 AM” is spoken; civil day follows the August 6 departure and post-midnight contact."
+      }
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u1506",
+        "endUid": "u1510"
+      },
+      "reading": "The eagle flight runs from about 2 AM to the sun’s rise around 6, covering approximately 120 miles.",
+      "evidence": [
+        {
+          "startUid": "u1506",
+          "endUid": "u1510",
+          "quote": "DM: By… let's see, bald eagles go… 20 to 30 miles an hour. … And it's 2 in the morning, 2 in the morning, so by… dawn, say, around 6, you'll have gone… 120 miles. So…"
+        },
+        {
+          "startUid": "u1511",
+          "endUid": "u1518",
+          "quote": "The sun rises ahead of you to the east."
+        }
+      ],
+      "duration": {
+        "value": 4,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrator’s 2 AM to roughly 6 AM travel calculation, followed by sunrise narration."
+      },
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 7
+        },
+        "clock": "06:00",
+        "partOfDay": "sunrise",
+        "precision": "approximate",
+        "basis": "Rough clock calculated by the narrator; sunrise then occurs in play."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u1534",
+        "endUid": "u1538"
+      },
+      "reading": "Around 8 AM, 160–180 miles from Marcella, the scouting party sights the approaching ash cloud.",
+      "evidence": [
+        {
+          "startUid": "u1534",
+          "endUid": "u1538",
+          "quote": "DM: And by… Let's see… That's another… by, you know, maybe 8 in the morning or so, about 160… 170 miles, 180, something like that, from… where you parted ways with Marcella. You can see… ahead of you… moving slowly across this broken terrain."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 7
+        },
+        "clock": "08:00",
+        "precision": "approximate",
+        "basis": "Explicit approximate morning clock on the continuing eagle flight."
+      }
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u2431",
+        "endUid": "u2433"
+      },
+      "reading": "The party teleports back to the marsh with its prisoner at 9 AM; the interrogation follows without another stated advance.",
+      "evidence": [
+        {
+          "startUid": "u2431",
+          "endUid": "u2433",
+          "quote": "DM: And we will end as you appear, because you've picked up dirt. You appear with your hobgoblin prisoner, now 9 o'clock in the morning, back in the marsh, where… you left Marcella last night."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 8,
+          "day": 7
+        },
+        "clock": "09:00",
+        "precision": "exact",
+        "basis": "Nine o’clock in the morning is spoken after the 2–8 AM scouting sequence; date inferred from August 6 departure."
+      }
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "July 9, August 6 and the night-of-August-6 label are spoken. Year 1749 and the proposed July 5 opening come from YAML. Post-midnight play followed by 2 AM, 6 AM, 8 AM and 9 AM supports a civil August 7 ending. The opening reporting scenes have no absolute dates.",
+    "expectedDateBoundaries": 33,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t10",
+      "t11",
+      "t12",
+      "t14",
+      "t16",
+      "t17",
+      "t20"
+    ],
+    "explanation": "The July 9 arrival, weeks of downtime and August 6–7 journey fit the working YAML span, but the roughly three-day return and the earlier reports do not establish an exact July 5 earliest boundary. The one-day opening report interval and the August 6–7 midnight passage are explicit partial coverage; no exact total is claimed. Retrospective Hektor/Vola events are within downtime. The prior sanctum rest is not an additional dated night. July 29 is Marcella’s letter date and its travel time is reported background, not extra elapsed party time."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t01",
+        "t02",
+        "t03",
+        "t04",
+        "t07"
+      ],
+      "reading": "The source opens with newly narrated earlier reports before returning to the party’s aftermath. Their exact dates are not established.",
+      "alternatives": [
+        {
+          "reading": "YAML July 5 labels the party’s crater-aftermath opening; the earlier imperial reports precede that frame.",
+          "date": "1749-07-05"
+        },
+        {
+          "reading": "Including the retrospective reports in the earliest covered adventure boundary can move the start earlier; no exact earlier date is spoken."
+        }
+      ]
+    }
+  ]
+}
