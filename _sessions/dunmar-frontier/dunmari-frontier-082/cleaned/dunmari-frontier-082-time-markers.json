@@ -627,7 +627,7 @@
         "startUid": "u1762",
         "endUid": "u1764"
       },
-      "reading": "Play advances to the next day, Tuesday, for the visit to Umli. The earlier schedule explicitly identifies that next day as the thirtieth.",
+      "reading": "Play advances to the next day, Tuesday, for the visit to Umli. The earlier schedule identifies that next day as the thirtieth; session 083 retrospectively places this Inkaye consultation in the morning.",
       "evidence": [
         {
           "startUid": "u1756",
@@ -647,12 +647,13 @@
       ],
       "time": {
         "precision": "approximate",
-        "basis": "Narrated clock or relative time; year inherited from session YAML where supplied.",
+        "basis": "December 30 follows the current transcript’s explicit next-day transition and schedule; morning is inferred from session 083’s same-event recap at u0044–u0054, within its Tuesday frame at u0018–u0026. Only the year 1748 is inherited from session YAML.",
         "date": {
           "year": 1748,
           "month": 12,
           "day": 30
-        }
+        },
+        "partOfDay": "morning"
       },
       "dateBoundaries": 1,
       "actors": [
@@ -660,7 +661,7 @@
         "unspecified companions"
       ],
       "completion": "completed",
-      "note": "The visit clock is unstated. The invitation offers Tuesday afternoon; Delwath’s predawn preparation and half-hour outing are proposed logistics, not separately measured elapsed intervals."
+      "note": "The current visit narration gives no clock. The Tuesday-afternoon invitation at u0565–u0566 is offered timing, not evidence of actual attendance then. The exact clock and full attendance remain unstated. Delwath’s predawn preparation and half-hour outing are proposed logistics, not separately measured elapsed intervals."
     }
   ],
   "yamlCheck": {
@@ -676,5 +677,28 @@
       "t18"
     ],
     "explanation": "The covered interval includes the retrospectively established three-day voyage from December 25, the completed night to December 29, and the explicit next-day transition to December 30. Historical battles and earlier scepter destruction are recollections, not additional session days. No missing interval is supplied from drEnd."
-  }
+  },
+  "supplementarySources": [
+    {
+      "sessionId": "dunmari-frontier-083",
+      "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-083/cleaned/dunmari-frontier-083-session.yaml",
+      "sessionYamlSha256": "e9d819e3aae795d0489b823719e3b75e7b8628a821a6c66a5632eaec16716555",
+      "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-083/cleaned/dunmari-frontier-083-transcript.md",
+      "transcriptSha256": "b96c570d4fcaf610db1d2b90fc0b726de772416da1f5313403b67e22da05bdd8",
+      "evidence": [
+        {
+          "markerId": "t18",
+          "startUid": "u0018",
+          "endUid": "u0026",
+          "quote": "So, we begin on the afternoon of—a Tuesday afternoon, the second of the 3 days of the Pyravela festival."
+        },
+        {
+          "markerId": "t18",
+          "startUid": "u0044",
+          "endUid": "u0054",
+          "quote": "this morning you had met with with the Stoneborn exile, who told you about the metal from Delwath's breastplate, Inkaye"
+        }
+      ]
+    }
+  ]
 }
