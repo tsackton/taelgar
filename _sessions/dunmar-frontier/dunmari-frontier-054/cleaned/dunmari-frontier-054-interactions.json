@@ -1,0 +1,893 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "77f63dca9e296271c4861b6add479b294796500f7cdf9958f040ba1e802a885f"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-entity-map.json",
+      "sha256": "c2700ed0865e14d5f228df8e4789f7035ba1371c9019b3f28c746ba61dd3b289"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Destroyed circlets, the vanished warrior, and Yezali’s prison",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0112",
+        "endUid": "u0175"
+      },
+      "lines": [
+        "%% u0112:0-12, u0113:0-38, u0114:0-41, u0115:0-38, u0116:0-40, u0117:0-68 %%",
+        "Iascaire: Well, yes I I have heard a bit about these lately. Actually, one appeared in my village, and when a warrior touched it he vanished. Have a sense of how to destroy them, but it hasn't done any good yet, I feel like I might be missing a piece.",
+        "",
+        "%% u0118:0-46 %%",
+        "Delwath: [garbled] Are you the one who destroyed them?",
+        "",
+        "%% u0119:0-4 %%",
+        "Iascaire: Yes.",
+        "",
+        "%% u0120:0-21, u0121:0-17, u0122:0-9 %%",
+        "Delwath: [garbled] Destroy circlets. You both.",
+        "",
+        "%% u0123:0-13 %%",
+        "Iascaire: That’s right.",
+        "",
+        "%% u0124:0-16, u0125:0-21, u0126:0-23, u0127:0-57 %%",
+        "Delwath: Delwath sort of bows slightly to you. I owe you a great debt. You freed me from another dimension, where I was trapped.",
+        "",
+        "%% u0128:0-35, u0129:0-80 %%",
+        "Iascaire: That is that is really interesting. I saw no real difference when I destroyed them, I wonder what the other one did.",
+        "",
+        "%% u0130:0-32, u0131:0-45, u0132:0-38 %%",
+        "Delwath: I suspect I I fell from the sky thousand miles or more, to the South of here on the day you destroyed the circlets.",
+        "",
+        "%% u0133:0-45, u0134:0-29, u0135:0-23, u0136:0-23 %%",
+        "((A forgotten name))",
+        "",
+        "%% u0137:0-6, u0138:0-56, u0139:0-37, u0140:0-20 %%",
+        "Delwath: Worry. I suspect the warrior has experienced something similar and is probably somewhere on Taelgar, hopefully surviving.",
+        "",
+        "%% u0141:0-46 %%",
+        "Iascaire: That's good to know, then, then there is hope.",
+        "",
+        "%% u0142:0-4 %%",
+        "Delwath: Yes.",
+        "",
+        "%% u0143:0-62, u0144:0-10, u0145:0-19, u0146:0-7 %%",
+        "Aristaea: I have seen an armband of black iron. I have not destroyed it. I did not know that this was common.",
+        "",
+        "%% u0147:0-80, u0148:0-209 %%",
+        "Delwath: Think common is probably not the right word, but some of the great generals and demons of Cha'mutte's army use these to travel quickly between places like going to a Shadow Plane where they could move quickly and then returning here and somehow these circlets were what brought them there.",
+        "",
+        "%% u0149:0-18, u0150:0-174, u0151:0-40, u0152:0-44, u0153:0-30, u0154:0-31 %%",
+        "Delwath: And I touched one just after the general wearing it had died in battle and Yezali, one of the Lost Ones similarly touched one just after killing the general I just after killing a great demon. And both of us ended up trapped in this other dimension trapped in this other plane, a realm of shadow and despair till the armband was destroyed.",
+        "",
+        "%% u0155:0-65 %%",
+        "Delwath: Yezali's has not been destroyed, but I hope to achieve that soon.",
+        "",
+        "%% u0156:0-4, u0157:0-79, u0158:0-41 %%",
+        "Aristaea: Now. On the battlefield where Yezali, I think that is the armband that I'm aware of. Yezali was a great hero in the Dark Fire.",
+        "",
+        "%% u0159:0-18, u0160:0-97 %%",
+        "Delwath: I suspect that if we go to that battlefield and destroy that circlet that they should return to this to this realm.",
+        "",
+        "%% u0161:0-75 %%",
+        "Iascaire: By the sounds of things, rule number one would be: don't touch the arm bands.",
+        "",
+        "%% u0162:0-73 %%",
+        "Delwath: I think I would stick to whatever you did before it seems to have worked.",
+        "",
+        "%% u0163:0-101 %%",
+        "Iascaire: I do, yes, fire fire seems to do the trick, but it needs to be quite potent and it needs to be magic.",
+        "",
+        "%% u0164:0-86, u0165:0-44 %%",
+        "Delwath: I can imagine, I do not know if they still have potency to harm this long after their— although, wait, the warrior was recent, right?",
+        "",
+        "%% u0166:0-30 %%",
+        "DM: That was like a year ago yeah.",
+        "",
+        "%% u0167:0-17 %%",
+        "Delwath: So yeah yeah yes.",
+        "",
+        "%% u0168:0-119, u0169:0-105 %%",
+        "DM: Your sense, just to be you know to Meta game for a minute, so you don't worry too much like if you are very near death, they can they can suck you away right, but you have to be like you know, have only a few hit points left…",
+        "",
+        "%% u0170:0-24, u0171:0-11, u0172:0-7, u0173:0-69 %%",
+        "Delwath: Right right right right. That's the system. I forgot to mention, we were all very near death when we touch these…",
+        "",
+        "%% u0174:0-5 %%",
+        "Unknown: Okay.",
+        "",
+        "%% u0175:0-181 %%",
+        "DM: So if you're not if you still have double digit hit points you're not going to be randomly sucked off to a shadow realm. Just be careful about touching them if you're super worn out.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah I mean you you've you've heard that there's an elf you've heard that there's an elf and in Camp you know arrived within a few days in another village and so news that spread a little bit. And that this elf is somehow connected to these these armbands and that's that's why you've gathered. I mean you have had some experience with these before as well, but so you've been sort of waiting waiting for him.",
+          "DM: This is this is sort of the news that's prompted you to kind of gather for this mission is that this elf might have some more information about what's going on.",
+          "Aristaea: The Deno'qai and the Stoneborn coexist in this neighborhood, but have I met Iascaire before down here? Presuppose a long history, then we have to have a…",
+          "Iascaire: Long history yeah you've certainly bought fish from me in the past.",
+          "Unknown: Right."
+        ],
+        "after": [
+          "Delwath: [garbled].",
+          "DM: [garbled].",
+          "Delwath: What is it, morning, evening? What's the…?",
+          "DM: It's evening or late afternoon.",
+          "Delwath: Have you been into this Forest of Nightmares? I guess we're on the edge right now."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Aristaea sees the village’s last stand",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0445",
+        "endUid": "u0463"
+      },
+      "lines": [
+        "%% u0445:0-30, u0446:0-11, u0447:0-22, u0448:0-151, u0449:0-48, u0450:0-55, u0451:0-100, u0452:0-72, u0453:0-227, u0454:0-105, u0455:0-114, u0456:0-285, u0457:0-147, u0458:0-16, u0459:0-20 %%",
+        "DM: In the meantime, Aristaea you are having a flashback nightmare memory of the village ((Table procedure)) the village seems to come alive for you. You're watching not the village now, but the village hundreds of years ago. The there's a like a whole the center green is completely filled with warriors preparing for battle. You can see like a priest like standing and sort of praying over people. You can see what looks like the scene of you know of people getting themselves ready to fight when I'm like all around the village you start you see these like just shadows beginning, you know black shadows begin to expand and hobgoblins come pouring out of these shadows like hundreds, thousands of them and coming out flying on a massive beast something like a cross between a bat and a lizard with wings, you see what looks like the commander of the hobgoblins and, as you watch you see that there's demons that seem to be mixed in with the hobgoblins and as these portals open and the hobgoblin stream out the warriors don't fight. They just put their weapons down and sit on the ground and just kind of wait to be slaughtered. The only one who's still standing is the priests, the godcaller of the village who turns into a giant roc and flies off to battle with this wizard. And that's when your eyes snap open.",
+        "",
+        "%% u0460:0-60, u0461:0-86, u0462:0-198, u0463:0-102 %%",
+        "DM: You can see that the wizard that this giant roc is battling as the battle begins with you can see clearly the wizard is wearing one of these iron dark shadow armbands around—it's the hobgoblin wizard—around his waist and every time—around his arm and every time this roc this giant eagle-like roc creature, that the godcaller turn into strikes with its claws like frost begins to spread out from all of the wounds that it's leaving on this beast.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: You can also just click on your picture…",
+          "Unknown: And then.",
+          "DM: So you've got 17 okay.",
+          "DM: Is Aristaea's eyes sort of glaze over slightly and you are currently incapacitated and hold on one sec. Where's my target? Like…",
+          "DM: Emerging from— zoom a little bit kind of kind of standing up from a corner, as the two of you sort of step through this doorway. Well Aristaea's eyes kind of glaze over and she and she likes stops moving suddenly. You see kind of like pulling itself out of the shadows almost detaching from the wall— I'm a creature of sorts that looks it looks it's it has almost no face. It just has sort of eyes in shadows and it has— whoops where's my dice here? It doesn't need its eyes are like blackened and sort of like it's almost like it can't see at all, they're like just— but it's got these two giant like hooks for arms and it's kind of looking around sort of sniffing at you like lifting up one of these like giant sort of almost harpoon arms right and kind of sort of lumbering forward. I, I think, for this is probably going to be easier to just run it without initiative. So I will let you get the jump on it. Well, if you want it, depending on what you want to do. It so far hasn't— it's just kind of stood up from the shadows and sort of started to lumber towards you."
+        ],
+        "after": [
+          "DM: But then your eyes snap open. In the meantime Delwath, and Iascaire what are you guys doing?",
+          "Delwath: A creature, his eyes are totally black, and what I mean, is it corporeal? Is it like a zombie?",
+          "DM: Yeah it looks it looks more zombie-ish. I would say it's definitely corporeal in some sense but it's not it's not like a zombie it doesn't look like a dead body, it looks like almost shadowy slash like it's like there's a sort of um it's amorphous like it's almost like it's form isn't solid. Every time it every time it shifts or it moves like little bits of its body shift a little, the only thing that seems to be solid are these two massive harpoon arms.",
+          "Iascaire: And I I would summon my my spirit next to it.",
+          "DM: Okay."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Offerings for the sorrowful godcaller",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0727",
+        "endUid": "u0825"
+      },
+      "lines": [
+        "%% u0727:0-263, u0728:0-69, u0729:0-13, u0730:0-15, u0731:0-86, u0732:0-3, u0733:0-25, u0734:0-158, u0735:0-121, u0736:0-38 %%",
+        "DM: Given your passive Perception, Iascaire and you notice, as you begin, as you sort of come around here there is like a faint there's like on the backside of the tree here there's like a sort of hidden behind it's thick trunk but moving in like a in like a sort of as almost as if it's like repeatedly sort of bowing down to the tree, some sort of ghostly spirit that seems to be hovering there, and as you as you come around it catches Delwath and and and Aristaea by surprise. ((Encounter procedure))",
+        "",
+        "%% u0737:0-3, u0738:0-7, u0739:0-28, u0740:0-50, u0741:0-34, u0742:0-62, u0743:0-11, u0744:0-112, u0745:0-5 %%",
+        "Iascaire: And I will— I will point it out and say it looks like that's where the sounds coming from. On my turn I will take a piece of smoked fish from my cloak and place it on the altar beside me. ((Readied teleport mechanics))",
+        "",
+        "%% u0746:0-8, u0747:0-3 %%",
+        "DM: Okay um. And…",
+        "",
+        "%% u0748:0-265, u0749:0-42, u0750:0-49, u0751:0-28, u0752:0-41, u0753:0-69 %%",
+        "DM: When you do that actually it moves it moves towards the altar where you place the smoked fish and it like kind of kind of looks at it, and it tries to sort of reach reach down and pick it up, but it can't. It has no solid form. It just walk straight through the tree and it puts his hand straight through the straight through the altar and this like wave of suffering leaps from it ((Saving-throw mechanics))",
+        "",
+        "%% u0754:0-30, u0755:0-54, u0756:0-4, u0757:0-53, u0758:0-100 %%",
+        "((Saving throws and tree-growth mechanics))",
+        "",
+        "%% u0759:0-14, u0760:0-52 %%",
+        "Iascaire: Right is it a— do I feel like it is hostile now that it's tried to…",
+        "",
+        "%% u0761:0-69 %%",
+        "DM: Use it— almost no, it's not acting hostile. It feels almost involuntary.",
+        "",
+        "%% u0762:0-5 %%",
+        "Unknown: Okay.",
+        "",
+        "%% u0763:0-6 %%",
+        "DM: Right.",
+        "",
+        "%% u0764:0-56, u0765:0-59 %%",
+        "Iascaire: Yeah, this is just a something that's going out from it. I'll keep the fish where it is, just gonna grab some chips.",
+        "",
+        "%% u0766:0-5 %%",
+        "Unknown: Okay.",
+        "",
+        "%% u0767:0-3, u0768:0-13, u0769:0-105 %%",
+        "DM: Ah. So let's see Delwath and Aristaea if you've seen this happen you've seen it emerged Iascaire pointed out [garbled]…",
+        "",
+        "%% u0770:0-101, u0771:0-29, u0772:0-40 %%",
+        "DM: It doesn't seem to it seems to be trying, you know it's trying to reach this this fish but otherwise, hard to know what it's doing. So where do you— where do you want to do?",
+        "",
+        "%% u0773:0-17 %%",
+        "Aristaea: [garbled]…",
+        "",
+        "%% u0774:0-86 %%",
+        "Delwath: It's not approach— didn't— it came around, but it was really approaching the altar, not…",
+        "",
+        "%% u0775:0-12 %%",
+        "Unknown: Not yeah us.",
+        "",
+        "%% u0776:0-6, u0777:0-99 %%",
+        "Delwath: There and kind of just look at it for a minute, like, and see— does it, does it react to coming closer to it?",
+        "",
+        "%% u0778:0-17, u0779:0-128 %%",
+        "DM: Not particularly. It's it's attention, it seems, the only thing it seems to have really noticed is the offering that Iascaire placed on the altar.",
+        "",
+        "%% u0780:0-58 %%",
+        "Delwath: I am also going to place a small bit of food on the altar.",
+        "",
+        "%% u0781:0-9 %%",
+        "DM: Aristaea.",
+        "",
+        "%% u0782:0-5, u0783:0-46 %%",
+        "Aristaea: Yeah yeah well listen that I have food too so sure.",
+        "",
+        "%% u0784:0-36, u0785:0-79, u0786:0-9, u0787:0-130, u0788:0-24 %%",
+        "DM: So, so, as this is all happening um. Yeah is there anything so I should say if there's anything else you want to do, Iascaire? It's still like doing this sort of repetitive motion sort of reaching through the altar as the additional offerings are placed on [garbled] right.",
+        "",
+        "%% u0789:0-58, u0790:0-48, u0791:0-95 %%",
+        "Aristaea: Perhaps we can the perhaps whatever will release the soul we can find guidance for elsewhere, I don't see— I mean, is there anything magical about the altar or the tree that this being as tethered here?",
+        "",
+        "%% u0792:0-26 %%",
+        "DM: It's hard to say for sure.",
+        "",
+        "%% u0793:0-7, u0794:0-6, u0795:0-84, u0796:0-37 %%",
+        "Iascaire: Me I'm I say it's not a small feat, but there's a chance, I could cause this tree to bloom again. Do you think that could be connected?",
+        "",
+        "%% u0797:0-13 %%",
+        "Delwath: Hey it could.",
+        "",
+        "%% u0798:0-58, u0799:0-41 %%",
+        "Iascaire: Tim do I do, I have a sense of whether plant growth would would affect a tree that looks like this?",
+        "",
+        "%% u0800:0-24 %%",
+        "DM: Um, make a wisdom check…",
+        "",
+        "%% u0801:0-4 %%",
+        "Unknown: See.",
+        "",
+        "%% u0802:0-12, u0803:0-57, u0804:0-34, u0805:0-3, u0806:0-66, u0807:0-72, u0808:0-3, u0809:0-67 %%",
+        "DM: Yeah I mean it's your senses it's it's it's not necessarily you know that the tree is clearly dead but um you know these you've spent you spent all your life like you know passing through villages that have similar trees like this and you know it you think it could be done, but there's not a guarantee of success.",
+        "",
+        "%% u0810:0-6 %%",
+        "Iascaire: Right.",
+        "",
+        "%% u0811:0-90, u0812:0-35 %%",
+        "DM: It's definitely possible, but it would be a stretch, for your for your magic and it would it would not be guaranteed to work.",
+        "",
+        "%% u0813:0-88 %%",
+        "Iascaire: And what it is, is the tree like associated generally with the altar, or is it just like…?",
+        "",
+        "%% u0814:0-8 %%",
+        "DM: Yeah so…",
+        "",
+        "%% u0815:0-226, u0816:0-101, u0817:0-90 %%",
+        "DM: Yeah so they're just they're associated with for sure right, so the trees are all like these, like coppice trees like where they chop the trunks and there's like lots of trunks and they grow bigger and bigger like the sort of like those oaks that have you know 100 branches that spread out so they're they're very they're like tended and manicured trees that are sort of part of the whole sort of village green altar.",
+        "",
+        "%% u0818:0-5, u0819:0-8, u0820:0-93, u0821:0-51, u0822:0-56, u0823:0-5 %%",
+        "((Saving throws and tree-growth mechanics))",
+        "",
+        "%% u0824:0-64, u0825:0-95 %%",
+        "Delwath: Why don't we, I mean if if this creature isn't really trying to not moving towards us yeah, why not investigate the rest of the houses like let's go check out…",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Iascaire: The plants sort of looked like we see there's some stuff…",
+          "DM: Yeah yeah yeah there's definitely plants around the. Forest itself still grows somehow. They're they're probably when there's no flower I don't know if there's flowers on this battle map, but you wouldn't see any flowers or anything like that, I mean it's fall anyway, but.",
+          "Iascaire: Should we sort of repeat the last house check? We move, keep… yeah yeah in range and then.",
+          "Delwath: Yeah let's just like cautiously kind of go this way, like keeping Delwath try and stay in front, but also stay with her.",
+          "DM: Guy ah do any of you have any of the anything that keeps you from being… So I will say actually…"
+        ],
+        "after": [
+          "DM: So again, as you as you sort of are having this conversation now another sort of wave of of sorrow passes through you, and now it passes through all of you, so I need everybody to make a Wisdom save.",
+          "Iascaire: Wow. Wow.",
+          "DM: So I'm so Delwath you take another you take 22 points of psychic damage and for a moment you feel like you're back in the shadow realm. And then, then your vision becomes the clear and you, you feel like the pain you feel memories from from many people all sorts of crashing together like this sort of sense of despair, fear and then sort of nothingness and then you see again the the godcaller turned into this giant roc fighting and you feel you feel it's what you feel like are its memories…",
+          "DM: Fighting this giant beast spells blasting eventually falling crashing to the ground. The pain this like searing pain of the landing of the wizard touching you and something happening and then the wizard— you see, like in the corner of your eye the wizard running away from the tree like where you are standing right about here is where the is where you crashed, and then the wizard is running in [garbled].",
+          "Delwath: With the wizard is the creature that the godcaller was fighting?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Delwath recognizes the ghost in the godcaller’s memories",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0829",
+        "endUid": "u0854"
+      },
+      "lines": [
+        "%% u0829:0-7, u0830:0-11, u0831:0-117, u0832:0-100, u0833:0-208, u0834:0-14, u0835:0-36 %%",
+        "DM: ((Psychic damage)) for a moment you feel like you're back in the shadow realm. And then, then your vision becomes the clear and you, you feel like the pain you feel memories from from many people all sorts of crashing together like this sort of sense of despair, fear and then sort of nothingness and then you see again the the godcaller turned into this giant roc fighting and you feel you feel it's what you feel like are its memories…",
+        "",
+        "%% u0836:0-84, u0837:0-107, u0838:0-70, u0839:0-77, u0840:0-56, u0841:0-24 %%",
+        "DM: Fighting this giant beast spells blasting eventually falling crashing to the ground. The pain this like searing pain of the landing of the wizard touching you and something happening and then the wizard— you see, like in the corner of your eye the wizard running away from the tree like where you are standing right about here is where the is where you crashed, and then the wizard is running in [garbled].",
+        "",
+        "%% u0842:0-65 %%",
+        "Delwath: With the wizard is the creature that the godcaller was fighting?",
+        "",
+        "%% u0843:0-22, u0844:0-40, u0845:0-44 %%",
+        "DM: [garbled] Wizard's it's running in this direction or this direction sort of a way to the West.",
+        "",
+        "%% u0846:0-167, u0847:0-16, u0848:0-23, u0849:0-71, u0850:0-66, u0851:0-48, u0852:0-20, u0853:0-50, u0854:0-20 %%",
+        "DM: And then you're sort of suddenly flashed back and the the ghostly spirit now is staring staring directly at you, and you can sort of you can sort of see now that it's— it almost has a hint of a face, sort of. Its ghostly like again it's form is not solid but it's kind of wrapped wrapped in a cloak and you, you catch almost a double image of it and the godcaller you saw fighting superimposed. And then it kind of drops down and goes back to trying to pick up the things on the altar.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Iascaire: Sure. Okay um. If I do if I do cast this spell it will make walking a little bit more difficult in the area for about as far as you can see, in that direction. Should, should we investigate a little further before we…?",
+          "Unknown: Mean.",
+          "Delwath: Why don't we, I mean if if this creature isn't really trying to not moving towards us yeah, why not investigate the rest of the houses like let's go check out…",
+          "DM: So again, as you as you sort of are having this conversation now another sort of wave of of sorrow passes through you, and now it passes through all of you, so I need everybody to make a Wisdom save.",
+          "Iascaire: Wow. Wow."
+        ],
+        "after": [
+          "Delwath: Thank you.",
+          "Iascaire: So good.",
+          "Aristaea: I yeah I see Delwath reeling and reach over to [garbled]. Yeah, I reached out, bring, cast Cure Wounds.",
+          "Delwath: Yeah that that that would be wildly helpful.",
+          "Iascaire: I've just rereading my spell and I don't actually have to affect all the land, so I could just cast it on the tree…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "The wizard’s death and the two trapped spirits",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1007",
+        "endUid": "u1018"
+      },
+      "lines": [
+        "%% u1007:0-161, u1008:0-205, u1009:0-6, u1010:0-59, u1011:0-78, u1012:0-50, u1013:0-119, u1014:0-80, u1015:0-90, u1016:0-18, u1017:0-50, u1018:0-105 %%",
+        "DM: ((Incapacitation mechanics)) and you see a vision of the battle continuing. The wizard stumbles into the door of this house, like fiddling with its armband, and rushes in. Turning to look back on it as the godcaller had been fighting it now limping bleeding badly, but its arms his arms like extending turning into these giant claws of frost and staggering forward and you see as it as the godcaller like steps into the door of this building. The wizard turns and just speaks a word, and the the godcaller falls over dead. But these two spirits sort of fly out of its body and looks like a Hawk with claws of frost and latch on to the hold on to the wizard and struggle for a moment and then grab at the armband like be trying to pull it off, and as the wizard falls over the spirits vanish as the armband clock, clock, clatters to the ground with the wizard dead. Somewhere in like somewhere on the Western side of of this building. ((Turn mechanics))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Iascaire, you're up.",
+          "Iascaire: I will go. I'm using the measuring tool there we go five, 10, 15, 20…",
+          "DM: Wisdom saving throw.",
+          "Iascaire: Okay. Oh.",
+          "DM: You are yeah…"
+        ],
+        "after": [
+          "Iascaire: Yeah my wildfire spirit only can dodge best.",
+          "DM: Okay, Delwath, you're up.",
+          "Delwath: So I'll move around like this…",
+          "DM: Around the back.",
+          "Delwath: Yeah so like…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Unearthing and destroying the village armband",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1229",
+        "endUid": "u1324"
+      },
+      "lines": [
+        "%% u1229:0-51, u1230:0-88, u1231:0-23, u1232:0-3, u1233:0-128, u1234:0-12, u1235:0-184, u1236:0-87 %%",
+        "DM: So it takes 15 minutes or so, but you've unearthed— piling up now, on this side of the building like a huge amount of rubble— you go unearth the body, the skeleton and dug around this like iron circlet. It's about it's about that big it's like an armband it would go like sort of here on your arm. And it it's it's like super black, right? It's like that sort of like very matte black that's almost like the absence of light more than a color itself, but you see occasional like little swirls of it's not exactly deeper shadow with just a sense of movement just kind of swirling and…",
+        "",
+        "%% u1237:0-52 %%",
+        "Delwath: Should we just destroy it? We waiting for something?",
+        "",
+        "%% u1238:0-44, u1239:0-22, u1240:0-30, u1241:0-32 %%",
+        "Iascaire: I know I'm I'm fine with just destroying it. Does anyone else have magical fire, they can target something other than a creature?",
+        "",
+        "%% u1242:0-23, u1243:0-104, u1244:0-60, u1245:0-7, u1246:0-41, u1247:0-37, u1248:0-61, u1249:0-195, u1250:0-20, u1251:0-39, u1252:0-79, u1253:0-48, u1254:0-3, u1255:0-43, u1256:0-7, u1257:0-5, u1258:0-57, u1259:0-41, u1260:0-31, u1261:0-46, u1262:0-54, u1263:0-53, u1264:0-23, u1265:0-163, u1266:0-16, u1267:0-131, u1268:0-96, u1269:0-6 %%",
+        "((Fire-spell adjudication and character-sheet setup))",
+        "",
+        "%% u1270:0-22, u1271:0-16 %%",
+        "Iascaire: What about Heat Metal? Is that magical?",
+        "",
+        "%% u1272:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u1273:0-15, u1274:0-17 %%",
+        "Iascaire: This is [garbled]. And it's it's on…",
+        "",
+        "%% u1275:0-75 %%",
+        "DM: Damage and it's magical and it's ongoing yeah that would totally work okay.",
+        "",
+        "%% u1276:0-31, u1277:0-3, u1278:0-21 %%",
+        "Iascaire: So I will cast Heat Metal then. And I'll do it just yeah…",
+        "",
+        "%% u1279:0-68, u1280:0-34, u1281:0-14, u1282:0-220, u1283:0-14, u1284:0-5, u1285:0-28, u1286:0-29 %%",
+        "((Fire-spell adjudication and character-sheet setup))",
+        "",
+        "%% u1287:0-94 %%",
+        "DM: Like started you cast the spell and it doesn't for a minute it doesn't look like it's glowing.",
+        "",
+        "%% u1288:0-62, u1289:0-9, u1290:0-13 %%",
+        "Iascaire: That's pretty pretty scary and then it doesn't look like it's and then. There you go.",
+        "",
+        "%% u1291:0-78, u1292:0-14 %%",
+        "DM: Then it starts to glow hotter and it begins to melt a little bit that that it just shatters.",
+        "",
+        "%% u1293:0-57, u1294:0-33, u1295:0-130, u1296:0-35, u1297:0-48, u1298:0-12, u1299:0-57 %%",
+        "DM: Splits apart melts and and you as this happens, you hear you hear a almost a wind blowing. And it starts to get cold, but not like an eerie cold, like the sort of pleasant sort of crisp cold of like an early fall morning. And you hear the flapping of wings, the sound of like a Hawk crying in the distance. And as this passes through you, you each get 10 temporary hit points.",
+        "",
+        "%% u1300:0-67, u1301:0-67, u1302:0-249 %%",
+        "((Fire-spell adjudication and character-sheet setup))",
+        "",
+        "%% u1303:0-27 %%",
+        "Delwath: Blessing of Nisir, you said?",
+        "",
+        "%% u1304:0-18 %%",
+        "DM: Nisir and Yalik'i.",
+        "",
+        "%% u1305:0-3, u1306:0-15, u1307:0-27, u1308:0-26, u1309:0-25 %%",
+        "((Fire-spell adjudication and character-sheet setup))",
+        "",
+        "%% u1310:0-44 %%",
+        "Iascaire: Okay sorry Nisir, Nisir, fires, what I want.",
+        "",
+        "%% u1311:0-28 %%",
+        "DM: Nisir fire and Yalik'i fire.",
+        "",
+        "%% u1312:0-3, u1313:0-13, u1314:0-15 %%",
+        "Iascaire: And Yalik'i fire. Cool, thank you.",
+        "",
+        "%% u1315:0-21, u1316:0-45, u1317:0-23, u1318:0-5, u1319:0-131, u1320:0-38 %%",
+        "((Fire-spell adjudication and character-sheet setup))",
+        "",
+        "%% u1321:0-98 %%",
+        "DM: And just as a note, most of these abilities if they're recharge recharge at dawn not at long rest.",
+        "",
+        "%% u1322:0-14 %%",
+        "Delwath: That's useful.",
+        "",
+        "%% u1323:0-8 %%",
+        "Aristaea: Oh Nice.",
+        "",
+        "%% u1324:0-15 %%",
+        "Iascaire: Yeah very cool.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So it takes you about 15 minutes, what are you— Delwath is sort of directing with your— how long does the gaze last?",
+          "Delwath: And only last a minute.",
+          "DM: So okay so once you've sort of seen it, you know what were you thinking? What are— Iascaire, well this is going on, are you doing anything?",
+          "Iascaire: Uh no know I'll just I'll just hang out looking.",
+          "Unknown: Pretty hair yeah."
+        ],
+        "after": [
+          "Aristaea: I was pretty convinced, I was about to use it on my spell slots all the time, casting Cure— [garbled].",
+          "DM: Okay, so ah.",
+          "Delwath: OK. So, as this like you know…",
+          "DM: Quiet sort of begins to settle. You can still see the the spirit in the in the Center of the green now sort of turning and beginning to move towards the— you presume its body, his body must be somewhere here, based on the vision. But now it seems to be moving back in your direction.",
+          "Iascaire: I'm going to slip out the back door, because I don't want to fight. I'm not in a good spot so I'm going to keep an eye peeled around and then, as it sort of heads to there I will I will let it go by."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Cremating the godcaller and the village dead",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1329",
+        "endUid": "u1471"
+      },
+      "lines": [
+        "%% u1329:0-71, u1330:0-155, u1331:0-53 %%",
+        "DM: Quiet sort of begins to settle. You can still see the the spirit in the in the Center of the green now sort of turning and beginning to move towards the— you presume its body, his body must be somewhere here, based on the vision. But now it seems to be moving back in your direction.",
+        "",
+        "%% u1332:0-67, u1333:0-98, u1334:0-13, u1335:0-20 %%",
+        "Iascaire: I'm going to slip out the back door, because I don't want to fight. I'm not in a good spot so I'm going to keep an eye peeled around and then, as it sort of heads to there I will I will let it go by.",
+        "",
+        "%% u1336:0-10, u1337:0-77, u1338:0-11, u1339:0-7, u1340:0-23, u1341:0-20, u1342:0-109, u1343:0-13, u1344:0-74, u1345:0-10, u1346:0-83, u1347:0-39, u1348:0-9, u1349:0-27, u1350:0-52, u1351:0-58, u1352:0-34, u1353:0-35, u1354:0-13, u1355:0-28, u1356:0-118, u1357:0-144, u1358:0-184, u1359:0-48, u1360:0-6, u1361:0-3, u1362:0-28, u1363:0-7, u1364:0-52, u1365:0-4, u1366:0-4, u1367:0-59, u1368:0-57, u1369:0-5, u1370:0-29, u1371:0-22, u1372:0-22, u1373:0-8, u1374:0-52, u1375:0-40, u1376:0-2, u1377:0-41, u1378:0-22, u1379:0-12, u1380:0-7, u1381:0-14, u1382:0-172 %%",
+        "((Avoidance, burial preparation and repeated planning))",
+        "",
+        "%% u1383:0-42, u1384:0-34 %%",
+        "Delwath: I'll like motion everybody to come nearby and then I will cast Invisibility.",
+        "",
+        "%% u1385:0-225 %%",
+        "DM: So it's continuing to walk, pace back and forth now, but now that it can't see you it doesn't seem to have any interest in seeking you out so you are sort of free to interact with the world without necessarily being targeted.",
+        "",
+        "%% u1386:0-59 %%",
+        "Delwath: Let's dig up its body, well, I mean this is for an hour so.",
+        "",
+        "%% u1387:0-25 %%",
+        "Aristaea: Right all right, I think.",
+        "",
+        "%% u1388:0-134, u1389:0-172 %%",
+        "DM: It seems it's like you get the sense as it comes over, and it seems like the ground has shifted a little since the last time it paced. You get you almost get a sense of like it every time it comes close to you, you, you still feel this like sort of lingering sadness, but it seems to be fading a little bit.",
+        "",
+        "%% u1390:0-39 %%",
+        "Iascaire: Said that this was a corpse over there…",
+        "",
+        "%% u1391:0-83, u1392:0-21, u1393:0-50 %%",
+        "DM: No, this is, this is the corpse of the of the priest of the godcaller is here. This hobgoblin corpse was here was like underneath the collapsed roof right.",
+        "",
+        "%% u1394:0-42 %%",
+        "Iascaire: Here, and it was— that, that was the wizard?",
+        "",
+        "%% u1395:0-89 %%",
+        "DM: Yeah That was the wizard yeah you already dug up and that's when you destroy the circlet.",
+        "",
+        "%% u1396:0-36 %%",
+        "Iascaire: And a godcaller would be a Deno'qai?",
+        "",
+        "%% u1397:0-33 %%",
+        "DM: A Deno'qai, Deno'qai priest yeah.",
+        "",
+        "%% u1398:0-5 %%",
+        "Unknown: Okay.",
+        "",
+        "%% u1399:0-88 %%",
+        "Aristaea: So they have a Deno'qai priests corpse over here to give it a decent burial or whatever.",
+        "",
+        "%% u1400:0-15, u1401:0-10, u1402:0-59, u1403:0-20, u1404:0-9, u1405:0-48, u1406:0-93, u1407:0-89, u1408:0-45, u1409:0-5, u1410:0-46, u1411:0-43, u1412:0-19, u1413:0-69, u1414:0-80, u1415:0-3, u1416:0-60, u1417:0-12, u1418:0-18, u1419:0-75 %%",
+        "((Avoidance, burial preparation and repeated planning))",
+        "",
+        "%% u1420:0-56 %%",
+        "Delwath: I'll at least go collect the bodies we previously found.",
+        "",
+        "%% u1421:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u1422:0-9, u1423:0-21, u1424:0-25, u1425:0-31, u1426:0-58, u1427:0-26, u1428:0-70, u1429:0-11 %%",
+        "((Avoidance, burial preparation and repeated planning))",
+        "",
+        "%% u1430:0-113 %%",
+        "Delwath: Put out some sacrifices, dig some graves by the tree. I don't know that much about Deno'qai, but kind of make it up.",
+        "",
+        "%% u1431:0-27 %%",
+        "Iascaire: They prefer to be cremated.",
+        "",
+        "%% u1432:0-3, u1433:0-36 %%",
+        "DM: Ah. I think that would be fairly common.",
+        "",
+        "%% u1434:0-56 %%",
+        "Delwath: I mean, maybe we should make a pyre that that's kind of.",
+        "",
+        "%% u1435:0-43 %%",
+        "Iascaire: Wanna yeah I can I can do some cantrips to…",
+        "",
+        "%% u1436:0-5, u1437:0-12, u1438:0-26, u1439:0-37, u1440:0-13, u1441:0-29 %%",
+        "((Avoidance, burial preparation and repeated planning))",
+        "",
+        "%% u1442:0-28, u1443:0-135, u1444:0-280 %%",
+        "DM: Let's see what happens when when the body is when the body is that sort of stops going back and forth and just again goes back to sort of standing by the tree and the sort of low keening continues now next to the tree, and you can see now that it's actually sort of pacing back and forth behind the trunk occasionally like reaching its handout to touch the tree its hand going through the tree and then sort of stepping back and wailing again.",
+        "",
+        "%% u1445:0-58, u1446:0-84, u1447:0-34, u1448:0-4, u1449:0-35, u1450:0-94, u1451:0-110, u1452:0-119, u1453:0-82, u1454:0-23, u1455:0-8, u1456:0-48, u1457:0-14, u1458:0-37, u1459:0-24, u1460:0-68, u1461:0-72, u1462:0-162, u1463:0-5, u1464:0-60 %%",
+        "((Avoidance, burial preparation and repeated planning))",
+        "",
+        "%% u1465:0-212, u1466:0-37, u1467:0-38, u1468:0-52, u1469:0-68, u1470:0-98, u1471:0-172 %%",
+        "DM: Yep so you set that up use you build a pyre. It turns out once once its body has been dug up that the spirit seems to ignore the body. It's just it's just focused on this tree now. It's just pacing back and forth. You do sort of get the sense that it— so as its body burns it's starting to— it looks starts to look more and more insubstantial and as the you know it's still kind of it begins to fade from sight. And, as it does, it still kind of reaching out to the tree like trying to grasp it trying to like offer prayer, sacrifice to it, or something, and then it, as its— as the ceremony is finished, and you know you say some words and the bodies all burn in this pyre, it vanishes.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Aristaea: Oh Nice.",
+          "Iascaire: Yeah very cool.",
+          "Aristaea: I was pretty convinced, I was about to use it on my spell slots all the time, casting Cure— [garbled].",
+          "DM: Okay, so ah.",
+          "Delwath: OK. So, as this like you know…"
+        ],
+        "after": [
+          "Delwath: Okay.",
+          "Aristaea: So we've done some good things, what— but maybe it would still be a good thing to create the tree.",
+          "Delwath: It can't hurt to try and grow the tree. let's try to spell slots…",
+          "Unknown: I mean.",
+          "Iascaire: Yeah it's a third slot but that's it's something that I think my character, would do so yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Yezali’s release, the lynx shield, and escape from Dark Fire",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e012",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1663",
+        "endUid": "u3133"
+      },
+      "lines": [
+        "%% u1663:0-73, u1664:0-91, u1665:0-129, u1666:0-213, u1667:0-140, u1668:0-21, u1669:0-50, u1670:0-179, u1671:0-25, u1672:0-239 %%",
+        "DM: ((Clearing approach)) That massive dead demon its flesh is blackened and scorched. There are roots and vines growing over it, there are but they're not they're not sort of natural roots. They look like sort of blackened tendrils of something and they're growing out from it sort of making a web that stretches out to the sort of edges of the forest and touches like you know this tree here this tree here all of the trees that are growing in this clearing have these like tendrils of of this sort of black wrapping around them. There's the scent of rot and char in the clearing. ((Routine creature movement)) Around that demons wrist here, you can see one of these shadow armbands, but the black tendrils grow sort of tight around it, entwining this armband, ((Tactical implication))",
+        "",
+        "%% u1673:0-5, u1674:0-5, u1675:0-20, u1676:0-17, u1677:0-24, u1678:0-4, u1679:0-3, u1680:0-35, u1681:0-25, u1682:0-46, u1683:0-31, u1684:0-143, u1685:0-35, u1686:0-13, u1687:0-51, u1688:0-21, u1689:0-72, u1690:0-9, u1691:0-19, u1692:0-32, u1693:0-60, u1694:0-5, u1695:0-10, u1696:0-33, u1697:0-5, u1698:0-39, u1699:0-22, u1700:0-108, u1701:0-203, u1702:0-128, u1703:0-198, u1704:0-5, u1705:0-33, u1706:0-4, u1707:0-6, u1708:0-60, u1709:0-54, u1710:0-11, u1711:0-70, u1712:0-76, u1713:0-93, u1714:0-16, u1715:0-5, u1716:0-7, u1717:0-11, u1718:0-117, u1719:0-56, u1720:0-25, u1721:0-13, u1722:0-83, u1723:0-28, u1724:0-19, u1725:0-95, u1726:0-22, u1727:0-5, u1728:0-103, u1729:0-19, u1730:0-25, u1731:0-69, u1732:0-57, u1733:0-98, u1734:0-5, u1735:0-43, u1736:0-30, u1737:0-26, u1738:0-40, u1739:0-33, u1740:0-5, u1741:0-27, u1742:0-228, u1743:0-36, u1744:0-10, u1745:0-23, u1746:0-8, u1747:0-134, u1748:0-100, u1749:0-81, u1750:0-82, u1751:0-4, u1752:0-113, u1753:0-38, u1754:0-7, u1755:0-54, u1756:0-5, u1757:0-56, u1758:0-29, u1759:0-40, u1760:0-108, u1761:0-10, u1762:0-40, u1763:0-29, u1764:0-39, u1765:0-45, u1766:0-12, u1767:0-74, u1768:0-62, u1769:0-14, u1770:0-5, u1771:0-8, u1772:0-3, u1773:0-33, u1774:0-42, u1775:0-7, u1776:0-109, u1777:0-24, u1778:0-26, u1779:0-87, u1780:0-12, u1781:0-58, u1782:0-7, u1783:0-33, u1784:0-51, u1785:0-5, u1786:0-15, u1787:0-22, u1788:0-130, u1789:0-43, u1790:0-36, u1791:0-62, u1792:0-55, u1793:0-4, u1794:0-14, u1795:0-30, u1796:0-33, u1797:0-78, u1798:0-5, u1799:0-43, u1800:0-34, u1801:0-25, u1802:0-17, u1803:0-46, u1804:0-50, u1805:0-64, u1806:0-76, u1807:0-21, u1808:0-145, u1809:0-52, u1810:0-26, u1811:0-36, u1812:0-23, u1813:0-23, u1814:0-50, u1815:0-26, u1816:0-6, u1817:0-5, u1818:0-111, u1819:0-29, u1820:0-63, u1821:0-95, u1822:0-9, u1823:0-27, u1824:0-3, u1825:0-214, u1826:0-38, u1827:0-16, u1828:0-16, u1829:0-57 %%",
+        "((Combat and armband recovery))",
+        "",
+        "%% u1830:0-7, u1831:0-142, u1832:0-26, u1833:0-23, u1834:0-62, u1835:0-93 %%",
+        "DM: ((Heat Metal resolution)) You can see two swarms of wasps with like red eyes, like fiendish ((Routine combat))",
+        "",
+        "%% u1836:0-8, u1837:0-23, u1838:0-11, u1839:0-19, u1840:0-10, u1841:0-13, u1842:0-66, u1843:0-8, u1844:0-6, u1845:0-34, u1846:0-15, u1847:0-24, u1848:0-20, u1849:0-3, u1850:0-67, u1851:0-5, u1852:0-9, u1853:0-103, u1854:0-91, u1855:0-19, u1856:0-96, u1857:0-12, u1858:0-79, u1859:0-131, u1860:0-12, u1861:0-74, u1862:0-34, u1863:0-26, u1864:0-6, u1865:0-36, u1866:0-3, u1867:0-24, u1868:0-5, u1869:0-51, u1870:0-5, u1871:0-3, u1872:0-36, u1873:0-173, u1874:0-75, u1875:0-89, u1876:0-4, u1877:0-63, u1878:0-118, u1879:0-18, u1880:0-12, u1881:0-49, u1882:0-81, u1883:0-10, u1884:0-23, u1885:0-53, u1886:0-59, u1887:0-131, u1888:0-41, u1889:0-60, u1890:0-5, u1891:0-42, u1892:0-23, u1893:0-70, u1894:0-17, u1895:0-28, u1896:0-9, u1897:0-27, u1898:0-5, u1899:0-5, u1900:0-19, u1901:0-32, u1902:0-16, u1903:0-62, u1904:0-11, u1905:0-5, u1906:0-19, u1907:0-81, u1908:0-23, u1909:0-38, u1910:0-163, u1911:0-89, u1912:0-5, u1913:0-45, u1914:0-11, u1915:0-46, u1916:0-33, u1917:0-173, u1918:0-141, u1919:0-269, u1920:0-47, u1921:0-81, u1922:0-17, u1923:0-119, u1924:0-32, u1925:0-16, u1926:0-81, u1927:0-111, u1928:0-35, u1929:0-7, u1930:0-212, u1931:0-5, u1932:0-33, u1933:0-48, u1934:0-119, u1935:0-67, u1936:0-9, u1937:0-57, u1938:0-59, u1939:0-16, u1940:0-101, u1941:0-4, u1942:0-9, u1943:0-19, u1944:0-3, u1945:0-35, u1946:0-40, u1947:0-8, u1948:0-33, u1949:0-10, u1950:0-10, u1951:0-36, u1952:0-5, u1953:0-20, u1954:0-58, u1955:0-23, u1956:0-30, u1957:0-81, u1958:0-23, u1959:0-19, u1960:0-57, u1961:0-81, u1962:0-36, u1963:0-12, u1964:0-4, u1965:0-44, u1966:0-48, u1967:0-5, u1968:0-46, u1969:0-83, u1970:0-7, u1971:0-9, u1972:0-51, u1973:0-6, u1974:0-37, u1975:0-25, u1976:0-7, u1977:0-5, u1978:0-14, u1979:0-65, u1980:0-24, u1981:0-5, u1982:0-8, u1983:0-8, u1984:0-42, u1985:0-22, u1986:0-46, u1987:0-14, u1988:0-28, u1989:0-10, u1990:0-5, u1991:0-5, u1992:0-3, u1993:0-26, u1994:0-23, u1995:0-16, u1996:0-9, u1997:0-5, u1998:0-27, u1999:0-19, u2000:0-45, u2001:0-91, u2002:0-6, u2003:0-5, u2004:0-47, u2005:0-6, u2006:0-6, u2007:0-11, u2008:0-27, u2009:0-31, u2010:0-13, u2011:0-2, u2012:0-70, u2013:0-124, u2014:0-15, u2015:0-9, u2016:0-21, u2017:0-16, u2018:0-25, u2019:0-59, u2020:0-4, u2021:0-18, u2022:0-15, u2023:0-4, u2024:0-10, u2025:0-22, u2026:0-30, u2027:0-50, u2028:0-40, u2029:0-24, u2030:0-22, u2031:0-5, u2032:0-7, u2033:0-10, u2034:0-29, u2035:0-50, u2036:0-5, u2037:0-19, u2038:0-53, u2039:0-25, u2040:0-31, u2041:0-5, u2042:0-27, u2043:0-37, u2044:0-6, u2045:0-19, u2046:0-38, u2047:0-110, u2048:0-22, u2049:0-18, u2050:0-4, u2051:0-38, u2052:0-18, u2053:0-29, u2054:0-5, u2055:0-29, u2056:0-11, u2057:0-8, u2058:0-33, u2059:0-67, u2060:0-13, u2061:0-4, u2062:0-28, u2063:0-176, u2064:0-13, u2065:0-20, u2066:0-51, u2067:0-27, u2068:0-5, u2069:0-21, u2070:0-16, u2071:0-10, u2072:0-34, u2073:0-23, u2074:0-71, u2075:0-62, u2076:0-12, u2077:0-91, u2078:0-38, u2079:0-12, u2080:0-78, u2081:0-106, u2082:0-59, u2083:0-89, u2084:0-25, u2085:0-18, u2086:0-73, u2087:0-74, u2088:0-14, u2089:0-28, u2090:0-55, u2091:0-12, u2092:0-30, u2093:0-47, u2094:0-76, u2095:0-11, u2096:0-65, u2097:0-44, u2098:0-6, u2099:0-13, u2100:0-37, u2101:0-107, u2102:0-9, u2103:0-57, u2104:0-37, u2105:0-12, u2106:0-45, u2107:0-14, u2108:0-50, u2109:0-5, u2110:0-67, u2111:0-5, u2112:0-18, u2113:0-5, u2114:0-32, u2115:0-23, u2116:0-39, u2117:0-2, u2118:0-5, u2119:0-24, u2120:0-6, u2121:0-20, u2122:0-13, u2123:0-23, u2124:0-4, u2125:0-23, u2126:0-5, u2127:0-39, u2128:0-8, u2129:0-19, u2130:0-33, u2131:0-20, u2132:0-50, u2133:0-24, u2134:0-15, u2135:0-46, u2136:0-32, u2137:0-90, u2138:0-31, u2139:0-35, u2140:0-38, u2141:0-104, u2142:0-119, u2143:0-31, u2144:0-3, u2145:0-41, u2146:0-44, u2147:0-199, u2148:0-17, u2149:0-5, u2150:0-26, u2151:0-12, u2152:0-49, u2153:0-46, u2154:0-5, u2155:0-5, u2156:0-77, u2157:0-59, u2158:0-45, u2159:0-7, u2160:0-61, u2161:0-69, u2162:0-14, u2163:0-124, u2164:0-18, u2165:0-77, u2166:0-9, u2167:0-29, u2168:0-40, u2169:0-52, u2170:0-11, u2171:0-4, u2172:0-83, u2173:0-140, u2174:0-5, u2175:0-64, u2176:0-52, u2177:0-5, u2178:0-38, u2179:0-48, u2180:0-32, u2181:0-70, u2182:0-19, u2183:0-46, u2184:0-5, u2185:0-41, u2186:0-75, u2187:0-84, u2188:0-5, u2189:0-7, u2190:0-38, u2191:0-5, u2192:0-40, u2193:0-25, u2194:0-6, u2195:0-9, u2196:0-30, u2197:0-27, u2198:0-5, u2199:0-29, u2200:0-29, u2201:0-40, u2202:0-5, u2203:0-57, u2204:0-75, u2205:0-106, u2206:0-22, u2207:0-10, u2208:0-26, u2209:0-5, u2210:0-18, u2211:0-23, u2212:0-5, u2213:0-27, u2214:0-32, u2215:0-26, u2216:0-16, u2217:0-77, u2218:0-65, u2219:0-52, u2220:0-19, u2221:0-30, u2222:0-16, u2223:0-24, u2224:0-23, u2225:0-22, u2226:0-8, u2227:0-13, u2228:0-10, u2229:0-5, u2230:0-14, u2231:0-5, u2232:0-11, u2233:0-58, u2234:0-5, u2235:0-3, u2236:0-50, u2237:0-40, u2238:0-9, u2239:0-23, u2240:0-34, u2241:0-19, u2242:0-19, u2243:0-64, u2244:0-4, u2245:0-36, u2246:0-74, u2247:0-3, u2248:0-33, u2249:0-18, u2250:0-36, u2251:0-10, u2252:0-67, u2253:0-58, u2254:0-76, u2255:0-21, u2256:0-30, u2257:0-17, u2258:0-67, u2259:0-17, u2260:0-43, u2261:0-27, u2262:0-44, u2263:0-5, u2264:0-41, u2265:0-29, u2266:0-14, u2267:0-5, u2268:0-55, u2269:0-28, u2270:0-22, u2271:0-5, u2272:0-85, u2273:0-150, u2274:0-33, u2275:0-9, u2276:0-52, u2277:0-3, u2278:0-8, u2279:0-9, u2280:0-212, u2281:0-14, u2282:0-32, u2283:0-7, u2284:0-27, u2285:0-41, u2286:0-157, u2287:0-10, u2288:0-60, u2289:0-27, u2290:0-22, u2291:0-23, u2292:0-5, u2293:0-24, u2294:0-90, u2295:0-37, u2296:0-4, u2297:0-24, u2298:0-51, u2299:0-15, u2300:0-32, u2301:0-30, u2302:0-23, u2303:0-14, u2304:0-5, u2305:0-59, u2306:0-112, u2307:0-10, u2308:0-34, u2309:0-4, u2310:0-8, u2311:0-8, u2312:0-61, u2313:0-3, u2314:0-80, u2315:0-51, u2316:0-16, u2317:0-12, u2318:0-40, u2319:0-39, u2320:0-40, u2321:0-5, u2322:0-11, u2323:0-100, u2324:0-22, u2325:0-13, u2326:0-48, u2327:0-6, u2328:0-5, u2329:0-117, u2330:0-9, u2331:0-45, u2332:0-24, u2333:0-46, u2334:0-101, u2335:0-59, u2336:0-27, u2337:0-10, u2338:0-17, u2339:0-37, u2340:0-21, u2341:0-20, u2342:0-27, u2343:0-71, u2344:0-65, u2345:0-66, u2346:0-16, u2347:0-78, u2348:0-72, u2349:0-37, u2350:0-11, u2351:0-17, u2352:0-102, u2353:0-25, u2354:0-47, u2355:0-15, u2356:0-15, u2357:0-48, u2358:0-40, u2359:0-63, u2360:0-46, u2361:0-90, u2362:0-110, u2363:0-5, u2364:0-54, u2365:0-86, u2366:0-31, u2367:0-14, u2368:0-25, u2369:0-12, u2370:0-18, u2371:0-82, u2372:0-22, u2373:0-23, u2374:0-22, u2375:0-20, u2376:0-44, u2377:0-10, u2378:0-27, u2379:0-16, u2380:0-137, u2381:0-43, u2382:0-90, u2383:0-3, u2384:0-7, u2385:0-15, u2386:0-4, u2387:0-5, u2388:0-3, u2389:0-10, u2390:0-49, u2391:0-6, u2392:0-5, u2393:0-24, u2394:0-5, u2395:0-7, u2396:0-10, u2397:0-4, u2398:0-5, u2399:0-4, u2400:0-13, u2401:0-109, u2402:0-5, u2403:0-18, u2404:0-21, u2405:0-41, u2406:0-49, u2407:0-3, u2408:0-42, u2409:0-16, u2410:0-21, u2411:0-49, u2412:0-25, u2413:0-27, u2414:0-15, u2415:0-76, u2416:0-54, u2417:0-29, u2418:0-90, u2419:0-3, u2420:0-9, u2421:0-24, u2422:0-56, u2423:0-141, u2424:0-57, u2425:0-5, u2426:0-75, u2427:0-33, u2428:0-7, u2429:0-22, u2430:0-79, u2431:0-7, u2432:0-26, u2433:0-47, u2434:0-31, u2435:0-42, u2436:0-66, u2437:0-27, u2438:0-20, u2439:0-21, u2440:0-13, u2441:0-88, u2442:0-21, u2443:0-18, u2444:0-58, u2445:0-9, u2446:0-36, u2447:0-28, u2448:0-36, u2449:0-66, u2450:0-85, u2451:0-46, u2452:0-58, u2453:0-10, u2454:0-41, u2455:0-20, u2456:0-12, u2457:0-15, u2458:0-36, u2459:0-22, u2460:0-99, u2461:0-88, u2462:0-39, u2463:0-21, u2464:0-21, u2465:0-67, u2466:0-85, u2467:0-29, u2468:0-16, u2469:0-5, u2470:0-25, u2471:0-48, u2472:0-8, u2473:0-57, u2474:0-25, u2475:0-11, u2476:0-35, u2477:0-34, u2478:0-18, u2479:0-15, u2480:0-10, u2481:0-20, u2482:0-19, u2483:0-17, u2484:0-20, u2485:0-13, u2486:0-95, u2487:0-17, u2488:0-13, u2489:0-44, u2490:0-14, u2491:0-10, u2492:0-30, u2493:0-16, u2494:0-5, u2495:0-5, u2496:0-8, u2497:0-45, u2498:0-36, u2499:0-34, u2500:0-210, u2501:0-28, u2502:0-54, u2503:0-6, u2504:0-4, u2505:0-12, u2506:0-66, u2507:0-5, u2508:0-5, u2509:0-7, u2510:0-112, u2511:0-18, u2512:0-50, u2513:0-20, u2514:0-80, u2515:0-118, u2516:0-93, u2517:0-22, u2518:0-8, u2519:0-23, u2520:0-36, u2521:0-16, u2522:0-16, u2523:0-27, u2524:0-8, u2525:0-36, u2526:0-7, u2527:0-40, u2528:0-45, u2529:0-39, u2530:0-3, u2531:0-25, u2532:0-66, u2533:0-110, u2534:0-97, u2535:0-47, u2536:0-5, u2537:0-35, u2538:0-9, u2539:0-113, u2540:0-25, u2541:0-25, u2542:0-45, u2543:0-73, u2544:0-19, u2545:0-21, u2546:0-7, u2547:0-40, u2548:0-21, u2549:0-38, u2550:0-25, u2551:0-41, u2552:0-44, u2553:0-4, u2554:0-3, u2555:0-30, u2556:0-5, u2557:0-28, u2558:0-31, u2559:0-8, u2560:0-15, u2561:0-30, u2562:0-50, u2563:0-14, u2564:0-15, u2565:0-8, u2566:0-15, u2567:0-60, u2568:0-27, u2569:0-30, u2570:0-43, u2571:0-21, u2572:0-15, u2573:0-29, u2574:0-42, u2575:0-92, u2576:0-7, u2577:0-26, u2578:0-38, u2579:0-37, u2580:0-47, u2581:0-28, u2582:0-185, u2583:0-11, u2584:0-46, u2585:0-42, u2586:0-11, u2587:0-71, u2588:0-44, u2589:0-67, u2590:0-32, u2591:0-52, u2592:0-29, u2593:0-2, u2594:0-54, u2595:0-5, u2596:0-51, u2597:0-10, u2598:0-126, u2599:0-19, u2600:0-48, u2601:0-5, u2602:0-26, u2603:0-8, u2604:0-12, u2605:0-58, u2606:0-3, u2607:0-104, u2608:0-3, u2609:0-22, u2610:0-16, u2611:0-5, u2612:0-9, u2613:0-43, u2614:0-22, u2615:0-79, u2616:0-12, u2617:0-82, u2618:0-5, u2619:0-54, u2620:0-5, u2621:0-5, u2622:0-46, u2623:0-10, u2624:0-54, u2625:0-27, u2626:0-46, u2627:0-8, u2628:0-28, u2629:0-13, u2630:0-66, u2631:0-114, u2632:0-57, u2633:0-23, u2634:0-58, u2635:0-19, u2636:0-38, u2637:0-48, u2638:0-23, u2639:0-20, u2640:0-18, u2641:0-20, u2642:0-9, u2643:0-23, u2644:0-31, u2645:0-9, u2646:0-26, u2647:0-22, u2648:0-17, u2649:0-16, u2650:0-37, u2651:0-17, u2652:0-42, u2653:0-77, u2654:0-16, u2655:0-37, u2656:0-42, u2657:0-5, u2658:0-36, u2659:0-13, u2660:0-5, u2661:0-40, u2662:0-95, u2663:0-53, u2664:0-89, u2665:0-5, u2666:0-113, u2667:0-21, u2668:0-6, u2669:0-12, u2670:0-19, u2671:0-5, u2672:0-19, u2673:0-4, u2674:0-42, u2675:0-11, u2676:0-54, u2677:0-61, u2678:0-13, u2679:0-25, u2680:0-29, u2681:0-64, u2682:0-5, u2683:0-62, u2684:0-39, u2685:0-56, u2686:0-83, u2687:0-26, u2688:0-39, u2689:0-125, u2690:0-9, u2691:0-57, u2692:0-33, u2693:0-10, u2694:0-55, u2695:0-6, u2696:0-99, u2697:0-25, u2698:0-91, u2699:0-19, u2700:0-52, u2701:0-37, u2702:0-6, u2703:0-26, u2704:0-82, u2705:0-80, u2706:0-77, u2707:0-118, u2708:0-32, u2709:0-51, u2710:0-28, u2711:0-23, u2712:0-5, u2713:0-43, u2714:0-8, u2715:0-53, u2716:0-96, u2717:0-10, u2718:0-20, u2719:0-57, u2720:0-5, u2721:0-28, u2722:0-45, u2723:0-13, u2724:0-54, u2725:0-3, u2726:0-45, u2727:0-86, u2728:0-120, u2729:0-28, u2730:0-24, u2731:0-55, u2732:0-57, u2733:0-95, u2734:0-7, u2735:0-134, u2736:0-36, u2737:0-27, u2738:0-21, u2739:0-97, u2740:0-5, u2741:0-20, u2742:0-42, u2743:0-18, u2744:0-10, u2745:0-13, u2746:0-9, u2747:0-4, u2748:0-14, u2749:0-31, u2750:0-8, u2751:0-103, u2752:0-17, u2753:0-98, u2754:0-10, u2755:0-98, u2756:0-126, u2757:0-72, u2758:0-31, u2759:0-38, u2760:0-33, u2761:0-6, u2762:0-74, u2763:0-3, u2764:0-55, u2765:0-25, u2766:0-71, u2767:0-21, u2768:0-72, u2769:0-58, u2770:0-105, u2771:0-6, u2772:0-41, u2773:0-33, u2774:0-36, u2775:0-50, u2776:0-109, u2777:0-26, u2778:0-6, u2779:0-6, u2780:0-65, u2781:0-22, u2782:0-30, u2783:0-40, u2784:0-13, u2785:0-10, u2786:0-37, u2787:0-4, u2788:0-3, u2789:0-39, u2790:0-86, u2791:0-11, u2792:0-24, u2793:0-54, u2794:0-16, u2795:0-24, u2796:0-18, u2797:0-111, u2798:0-147, u2799:0-15, u2800:0-127, u2801:0-44, u2802:0-98, u2803:0-21, u2804:0-10, u2805:0-33, u2806:0-70, u2807:0-68, u2808:0-24, u2809:0-34, u2810:0-139, u2811:0-5, u2812:0-31, u2813:0-143, u2814:0-55, u2815:0-62, u2816:0-148, u2817:0-17, u2818:0-66, u2819:0-140, u2820:0-5, u2821:0-11, u2822:0-9, u2823:0-14, u2824:0-20, u2825:0-34, u2826:0-33, u2827:0-40, u2828:0-32, u2829:0-37, u2830:0-48, u2831:0-17, u2832:0-8, u2833:0-66, u2834:0-4, u2835:0-90, u2836:0-90, u2837:0-5, u2838:0-30, u2839:0-24, u2840:0-80, u2841:0-5, u2842:0-73, u2843:0-122, u2844:0-96, u2845:0-19, u2846:0-36, u2847:0-103, u2848:0-8, u2849:0-29, u2850:0-55, u2851:0-23, u2852:0-84, u2853:0-68, u2854:0-63, u2855:0-18, u2856:0-24, u2857:0-26, u2858:0-70, u2859:0-72, u2860:0-56, u2861:0-14, u2862:0-9, u2863:0-10, u2864:0-67, u2865:0-8, u2866:0-17, u2867:0-3, u2868:0-33, u2869:0-14, u2870:0-5, u2871:0-10, u2872:0-72, u2873:0-72, u2874:0-37, u2875:0-34, u2876:0-11, u2877:0-48, u2878:0-26, u2879:0-5, u2880:0-24, u2881:0-40, u2882:0-8, u2883:0-14, u2884:0-26, u2885:0-82, u2886:0-8, u2887:0-48, u2888:0-24, u2889:0-166, u2890:0-19, u2891:0-16, u2892:0-53, u2893:0-23, u2894:0-92, u2895:0-3, u2896:0-39, u2897:0-109, u2898:0-78, u2899:0-35, u2900:0-53, u2901:0-32, u2902:0-41, u2903:0-53, u2904:0-18, u2905:0-48, u2906:0-10, u2907:0-196, u2908:0-35, u2909:0-45, u2910:0-55, u2911:0-44, u2912:0-74, u2913:0-3, u2914:0-41, u2915:0-22, u2916:0-3, u2917:0-26, u2918:0-18, u2919:0-32, u2920:0-19, u2921:0-16, u2922:0-23, u2923:0-4, u2924:0-15, u2925:0-28, u2926:0-24, u2927:0-28, u2928:0-7, u2929:0-132, u2930:0-24, u2931:0-10, u2932:0-46, u2933:0-24, u2934:0-4, u2935:0-35, u2936:0-10, u2937:0-69, u2938:0-7, u2939:0-46, u2940:0-5, u2941:0-8, u2942:0-3, u2943:0-5, u2944:0-26, u2945:0-26, u2946:0-4, u2947:0-19, u2948:0-29, u2949:0-72, u2950:0-91, u2951:0-25, u2952:0-81, u2953:0-14, u2954:0-20, u2955:0-74, u2956:0-31, u2957:0-39, u2958:0-22, u2959:0-5, u2960:0-22, u2961:0-28, u2962:0-16, u2963:0-243, u2964:0-19, u2965:0-31, u2966:0-37, u2967:0-11, u2968:0-6, u2969:0-5, u2970:0-27, u2971:0-55, u2972:0-5, u2973:0-13, u2974:0-13, u2975:0-16, u2976:0-4, u2977:0-9, u2978:0-5, u2979:0-26, u2980:0-27, u2981:0-33, u2982:0-16, u2983:0-3, u2984:0-31, u2985:0-9, u2986:0-5, u2987:0-53, u2988:0-7, u2989:0-7, u2990:0-96, u2991:0-6, u2992:0-22, u2993:0-14, u2994:0-48, u2995:0-20, u2996:0-3, u2997:0-52, u2998:0-19, u2999:0-86, u3000:0-15, u3001:0-4, u3002:0-59, u3003:0-22, u3004:0-7, u3005:0-34, u3006:0-32, u3007:0-9, u3008:0-110, u3009:0-27, u3010:0-41, u3011:0-5, u3012:0-24, u3013:0-16, u3014:0-63, u3015:0-2, u3016:0-53, u3017:0-13, u3018:0-58, u3019:0-24, u3020:0-70, u3021:0-19, u3022:0-91, u3023:0-24, u3024:0-4, u3025:0-25, u3026:0-4, u3027:0-29, u3028:0-57, u3029:0-81, u3030:0-26, u3031:0-5, u3032:0-5, u3033:0-37, u3034:0-20, u3035:0-25, u3036:0-36, u3037:0-36, u3038:0-55, u3039:0-18, u3040:0-33, u3041:0-5, u3042:0-16, u3043:0-15, u3044:0-119, u3045:0-5, u3046:0-40, u3047:0-19, u3048:0-18, u3049:0-31, u3050:0-9, u3051:0-48, u3052:0-3, u3053:0-40, u3054:0-38, u3055:0-3, u3056:0-7, u3057:0-26, u3058:0-25, u3059:0-29, u3060:0-44, u3061:0-31, u3062:0-11, u3063:0-25, u3064:0-21, u3065:0-65, u3066:0-5, u3067:0-19, u3068:0-3, u3069:0-21, u3070:0-4, u3071:0-8, u3072:0-12, u3073:0-5, u3074:0-19 %%",
+        "((Combat and armband recovery))",
+        "",
+        "%% u3075:0-26 %%",
+        "Delwath: Can you destroy the thing?",
+        "",
+        "%% u3076:0-88 %%",
+        "Iascaire: Probably. Do I know if your shadow beast is like, would you be pissed if it burns up now?",
+        "",
+        "%% u3077:0-92, u3078:0-79 %%",
+        "((Combat and armband recovery))",
+        "",
+        "%% u3079:0-8, u3080:0-46 %%",
+        "Iascaire: I'll do I'll do burning hands ((Spell level))",
+        "",
+        "%% u3081:0-2, u3082:0-11, u3083:0-20, u3084:0-13, u3085:0-25, u3086:0-63, u3087:0-26, u3088:0-54 %%",
+        "((Combat and armband recovery))",
+        "",
+        "%% u3089:0-45 %%",
+        "DM: Ah, it melts and this thing burns to a crisp.",
+        "",
+        "%% u3090:0-23, u3091:0-22, u3092:0-48, u3093:0-106, u3094:0-20, u3095:0-135, u3096:0-6, u3097:0-47, u3098:0-30, u3099:0-3, u3100:0-32, u3101:0-18, u3102:0-35 %%",
+        "((Combat and armband recovery))",
+        "",
+        "%% u3103:0-16, u3104:0-7, u3105:0-22, u3106:0-42, u3107:0-69, u3108:0-2, u3109:0-95, u3110:0-40, u3111:0-39, u3112:0-11, u3113:0-56, u3114:0-37, u3115:0-69, u3116:0-84, u3117:0-90, u3118:0-32, u3119:0-92, u3120:0-75, u3121:0-9, u3122:0-66, u3123:0-7, u3124:0-48 %%",
+        "DM: Okay, so as the as the as the bracelet melts you see kind of right rushing out of it a a bobcat that like runs in a circle once around you all. ((Blessing mechanics)) And then, as it is running around it sort of spirals up. ((Combat)) it sort of spirals through and into Delwath's shield, and for a minute, you see the Lynx form that is painted on the front of his shield, like its mouth, it's like head shift and its mouth open and it roars. ((Combat effects)) But you get the sense like you know getting out of here is the thing to do. Is these— these creatures won't be able to follow, far from the demon, right? Or not— they don't disappear, just because the bracelet.",
+        "",
+        "%% u3125:0-32 %%",
+        "Iascaire: Was it was the Yezali, you said?",
+        "",
+        "%% u3126:0-12 %%",
+        "DM: Yezali yeah.",
+        "",
+        "%% u3127:0-5 %%",
+        "Iascaire: Cool.",
+        "",
+        "%% u3128:0-15, u3129:0-66, u3130:0-49, u3131:0-200, u3132:0-81, u3133:0-216 %%",
+        "DM: So, as you run dashing out of this clearing and getting the sense that there are there you almost get the sense that there's like two or three or maybe four hunting cats following behind you and every now and then one sort of peels off and distracts anything that might be chasing you until after about a mile of dashing East you pause for a minute in the silence and realize that, for the past 10 minutes past— two or three minutes nothing's been following you, and you can pause and take a breather. ((Closing housekeeping))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Aristaea: Clearing I mean. Does Iascaire want Protection from Evil and Good this time?",
+          "Delwath: Yeah it can't hurt.",
+          "Unknown: Sure.",
+          "Aristaea: All right.",
+          "DM: Now, as you step into this clearing you see this giant battlefield this very large opening probably what like a hundred, a hundred and forty, a hundred and fifty feet across. In the center of this are two, two large rocks two large boulders that are like black. Absolutely massive body of some enormous demon lying in the center of the I'm."
+        ],
+        "after": [
+          "Delwath: Sounds good.",
+          "DM: But don't take a long rest yet because, yeah, I don't know if you'll actually [garbled].",
+          "Delwath: What were you expecting?"
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The release and escape are clear, while several omitted enemy targets are shown only by map pointers."
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Yezali’s battle with the demon",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1699",
+        "endUid": "u1703"
+      },
+      "lines": [
+        "%% u1699:0-22, u1700:0-108, u1701:0-203, u1702:0-128, u1703:0-198 %%",
+        "DM: This was so there was like the big army, the army of hobgoblins that came through the portals that you saw in the previous battle, led by this giant demon where we're essentially chasing a bunch of Deno'qai and shortly after this shortly this battle is sort of on the edge of this massive burned area where a huge forest fire started. And when you saw the vision of this battle Delwath, you saw Yezali fighting this demon as the forest it ahead of you burned and the Deno'qai fled to the forest being chased by a hobgoblins who then pass through here, and this battle was this battlefield was really the site of the battle between Yezali, tanshi and this demon.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: Haha.",
+          "Aristaea: Yes, okay.",
+          "Delwath: I could find it it's in an email.",
+          "Iascaire: Okay.",
+          "Aristaea: So everyone lead through session notes."
+        ],
+        "after": [
+          "Iascaire: Well. We can see the armband from here.",
+          "DM: Yep.",
+          "Iascaire: I say I assume, we want to get the lay of the land, a little, but it almost seems too easy. I can cast through my spirit. It can fly so there's a chance we don't have to go much further, the three of us.",
+          "Delwath: There is something within there's something nearby that I think is not dead. I mean, I guess, I wouldn't know but I assume that my sword would not glow from a dead fiend.",
+          "DM: Or what correct."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

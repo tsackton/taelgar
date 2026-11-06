@@ -1,0 +1,625 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-054",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-session.yaml",
+    "sessionYamlSha256": "442e1100b1d30a5e8ea3589be5f8fa508daa2cb55dc520f4348f33e47931aa30",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-transcript.md",
+    "transcriptSha256": "77f63dca9e296271c4861b6add479b294796500f7cdf9958f040ba1e802a885f",
+    "yamlDates": {
+      "start": "1748-10-06",
+      "end": "1748-10-09"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0178",
+        "endUid": "u0179"
+      },
+      "reading": "The hunting-camp meeting is in late afternoon or evening.",
+      "evidence": [
+        {
+          "startUid": "u0179",
+          "endUid": "u0179",
+          "quote": "It's evening or late afternoon."
+        }
+      ],
+      "time": {
+        "partOfDay": "late afternoon or evening",
+        "precision": "approximate",
+        "basis": "DM answers the current-time question."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0266",
+        "endUid": "u0267"
+      },
+      "reading": "After the evening in camp, the party sets out the next morning.",
+      "evidence": [
+        {
+          "startUid": "u0266",
+          "endUid": "u0267",
+          "quote": "So was there anything else you want to do in the camp this evening? Will say you set out the next morning."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "relative": {
+          "relation": "after",
+          "reference": "t01"
+        },
+        "precision": "approximate",
+        "basis": "Explicit next-morning departure."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0277",
+        "endUid": "u0284"
+      },
+      "reading": "The party travels about half a day, roughly 15 miles, into the silent forest.",
+      "evidence": [
+        {
+          "startUid": "u0277",
+          "endUid": "u0284",
+          "quote": "As you as you descend into the Forest of Nightmares the sounds gradually stop. And after you've been traveling for maybe half a day, going maybe 15 miles or so it's completely quiet. There's no not even any insects moving about it it's feels— just just the trees occasionally creaking in the wind is the only sound that you hear. And every now and then you catch a glimpse out of the corner of your eye that there's you know something something moving some shadow moves slightly from you know from it's— in the corner of your eye just from behind the tree and then you look at it and it vanishes but you can't shake the feeling that there's things moving in the woods."
+        }
+      ],
+      "duration": {
+        "value": 0.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM establishes travel already completed, not the later arrival forecast."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0285",
+        "endUid": "u0286"
+      },
+      "reading": "Arrival at the first battlefield is expected in midafternoon; later narration establishes arrival and an approximately two-hour village stay ending about 16:30–17:00.",
+      "evidence": [
+        {
+          "startUid": "u0285",
+          "endUid": "u0286",
+          "quote": "So it'll take you moving at a reasonably good clip it'll take you until say the middle of the afternoon assuming an early start to get to this battlefield."
+        },
+        {
+          "startUid": "u0313",
+          "endUid": "u0316",
+          "quote": "Yeah you see this is this is kind of what you see coming from the coming from the, the east so I’ll throw your characters on here, and you can put yourself in whatever order makes sense, but this is the you know the the village, as you approach it looks."
+        },
+        {
+          "startUid": "u1604",
+          "endUid": "u1609",
+          "quote": "After an hour's break even by the by the end of the hour you're starting to see like a little bit more flickers of movement in the shadows and with the embers of the fires died down and the and the day sort of the sun beginning to you know to set it probably being like 430 or 5pm now so so not like not like dark dark, but like sort of getting close to twilight twilight. You know that you are getting the sense, you know, maybe it's time to move on, after having been in this village now for close to two hours already. But where to? It's up to you."
+        }
+      ],
+      "time": {
+        "partOfDay": "midafternoon",
+        "precision": "approximate",
+        "basis": "Forecast corroborated by arrival and the retrospective stay/clock at u1604–u1609."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0445",
+        "endUid": "u0459"
+      },
+      "reading": "Aristaea is drawn into a vision of this village hundreds of years earlier.",
+      "evidence": [
+        {
+          "startUid": "u0445",
+          "endUid": "u0459",
+          "quote": "In the meantime, Aristaea you are having a flashback nightmare memory of the village and I'll just I don't want to take the time to like send you a message and then have you say it, so I would just say the village seems to come alive for you. You're watching not the village now, but the village hundreds of years ago. The there's a like a whole the center green is completely filled with warriors preparing for battle. You can see like a priest like standing and sort of praying over people. You can see what looks like the scene of you know of people getting themselves ready to fight when I'm like all around the village you start you see these like just shadows beginning, you know black shadows begin to expand and hobgoblins come pouring out of these shadows like hundreds, thousands of them and coming out flying on a massive beast something like a cross between a bat and a lizard with wings, you see what looks like the commander of the hobgoblins and, as you watch you see that there's demons that seem to be mixed in with the hobgoblins and as these portals open and the hobgoblin stream out the warriors don't fight. They just put their weapons down and sit on the ground and just kind of wait to be slaughtered. The only one who's still standing is the priests, the godcaller of the village who turns into a giant roc and flies off to battle with this wizard. And that's when your eyes snap open."
+        }
+      ],
+      "actors": [
+        "Aristaea"
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0527",
+        "endUid": "u0529"
+      },
+      "reading": "Aristaea returns to the present ruined village during the first fight.",
+      "evidence": [
+        {
+          "startUid": "u0527",
+          "endUid": "u0529",
+          "quote": "At this point now Aristaea Aristaea returns from her brief moment of seeing and it's jarring like you were seeing the battle beginning to play out in front of you, and then suddenly you're back to the ruined village."
+        }
+      ],
+      "actors": [
+        "Aristaea"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t04"
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0641",
+        "endUid": "u0643"
+      },
+      "reading": "The party spends a couple of minutes uncovering skeletons in the first ruin.",
+      "evidence": [
+        {
+          "startUid": "u0641",
+          "endUid": "u0643",
+          "quote": "It takes a bit of time, but you use it takes a couple minutes to like burrow through a bit of dirt and that's what seems to emerge is like not just one skeleton but there's like a pile of maybe 10–15 skeletons here, they look human from a quick glance, and it seems like the earth and the floor must have come up over 200 years, like you know, a foot or something like that, so these were bodies that were just lying out but have been buried by just the accumulation of dirt over the past couple hundred years."
+        }
+      ],
+      "duration": {
+        "text": "a couple of minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Explicit elapsed excavation; no exact count imposed."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t19",
+          "note": "Part of the retrospective total village stay; do not add it again."
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0673",
+        "endUid": "u0682"
+      },
+      "reading": "Iascaire sees the earlier village battle while the party crosses to the next building.",
+      "evidence": [
+        {
+          "startUid": "u0673",
+          "endUid": "u0682",
+          "quote": "But this time, you Iascaire you are, you are pulled into this vision and you see the same scene, that Aristaea saw, this battle, starting everybody sort of laying down their their arms and then this fight between the— between the— this roc with its freezing, its talons that spread frost every time they strike, and this bat-lizard being with the wizard on top, as like demons and shadows begin to stream across the village and the and the Deno’qai just surrender and give up. But the scene doesn't progress any further than what is Aristaea saw from what she told me. And you are also incapacitated for a round. Delwath as you step in this…"
+        }
+      ],
+      "actors": [
+        "Iascaire"
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u0829",
+        "endUid": "u0835"
+      },
+      "reading": "Delwath's view shifts to memories of the village battle and the godcaller's fall.",
+      "evidence": [
+        {
+          "startUid": "u0829",
+          "endUid": "u0835",
+          "quote": "So I'm so Delwath you take another you take 22 points of psychic damage and for a moment you feel like you're back in the shadow realm. And then, then your vision becomes the clear and you, you feel like the pain you feel memories from from many people all sorts of crashing together like this sort of sense of despair, fear and then sort of nothingness and then you see again the the godcaller turned into this giant roc fighting and you feel you feel it's what you feel like are its memories…"
+        },
+        {
+          "startUid": "u0836",
+          "endUid": "u0841",
+          "quote": "Fighting this giant beast spells blasting eventually falling crashing to the ground. The pain this like searing pain of the landing of the wizard touching you and something happening and then the wizard— you see, like in the corner of your eye the wizard running away from the tree like where you are standing right about here is where the is where you crashed, and then the wizard is running in [garbled]."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u0846",
+        "endUid": "u0854"
+      },
+      "reading": "Delwath returns from the memory to the ghost beside the altar.",
+      "evidence": [
+        {
+          "startUid": "u0846",
+          "endUid": "u0854",
+          "quote": "And then you're sort of suddenly flashed back and the the ghostly spirit now is staring staring directly at you, and you can sort of you can sort of see now that it's— it almost has a hint of a face, sort of. Its ghostly like again it's form is not solid but it's kind of wrapped wrapped in a cloak and you, you catch almost a double image of it and the godcaller you saw fighting superimposed. And then it kind of drops down and goes back to trying to pick up the things on the altar."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t04"
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1007",
+        "endUid": "u1018"
+      },
+      "reading": "Iascaire sees the final historical confrontation inside the collapsed building.",
+      "evidence": [
+        {
+          "startUid": "u1007",
+          "endUid": "u1018",
+          "quote": "You are incapacitated, and you see a vision of the battle continuing. The wizard stumbles into the door of this house, like fiddling with its armband, and rushes in. Turning to look back on it as the godcaller had been fighting it now limping bleeding badly, but its arms his arms like extending turning into these giant claws of frost and staggering forward and you see as it as the godcaller like steps into the door of this building. The wizard turns and just speaks a word, and the the godcaller falls over dead. But these two spirits sort of fly out of its body and looks like a Hawk with claws of frost and latch on to the hold on to the wizard and struggle for a moment and then grab at the armband like be trying to pull it off, and as the wizard falls over the spirits vanish as the armband clock, clock, clatters to the ground with the wizard dead. Somewhere in like somewhere on the Western side of of this building. But you don't get to take an action, because you already incapacitated until the start of your next turn."
+        }
+      ],
+      "actors": [
+        "Iascaire"
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1054",
+        "endUid": "u1056"
+      },
+      "reading": "Iascaire returns to current combat with a harpoon embedded in him.",
+      "evidence": [
+        {
+          "startUid": "u1054",
+          "endUid": "u1056",
+          "quote": "That hits. You are like come you you sort of returned from this vision to find yourself with a harpoon arm stuck into you and being dragged next to the this shadow creature, as it begins to try and pull you into its embrace."
+        }
+      ],
+      "actors": [
+        "Iascaire"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t04"
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1222",
+        "endUid": "u1223"
+      },
+      "reading": "Aristaea uncovers the wizard and his armband in about fifteen minutes; the later statement repeats the same excavation.",
+      "evidence": [
+        {
+          "startUid": "u1222",
+          "endUid": "u1223",
+          "quote": "So it takes you about 15 minutes, what are you— Delwath is sort of directing with your— how long does the gaze last?"
+        },
+        {
+          "startUid": "u1229",
+          "endUid": "u1236",
+          "quote": "So it takes 15 minutes or so, but you've unearthed— piling up now, on this side of the building like a huge amount of rubble— you go unearth the body, the skeleton and dug around this like iron circlet. It's about it's about that big it's like an armband it would go like sort of here on your arm. And it it's it's like super black, right? It's like that sort of like very matte black that's almost like the absence of light more than a color itself, but you see occasional like little swirls of it's not exactly deeper shadow with just a sense of movement just kind of swirling and…"
+        }
+      ],
+      "actors": [
+        "Aristaea"
+      ],
+      "duration": {
+        "value": 15,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Repeated narrated duration for one excavation."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t19",
+          "note": "Part of the retrospective total village stay; do not add it again."
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1287",
+        "endUid": "u1287"
+      },
+      "reading": "For about a minute the heated village armband shows no glow, before heating and shattering.",
+      "evidence": [
+        {
+          "startUid": "u1287",
+          "endUid": "u1287",
+          "quote": "Like started you cast the spell and it doesn't for a minute it doesn't look like it's glowing."
+        },
+        {
+          "startUid": "u1291",
+          "endUid": "u1292",
+          "quote": "Then it starts to glow hotter and it begins to melt a little bit that that it just shatters."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM describes a minute of no visible glow before the subsequent change."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t19",
+          "note": "Part of the retrospective total village stay; do not add it again."
+        }
+      ]
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1346",
+        "endUid": "u1347"
+      },
+      "reading": "The godcaller pauses briefly by its body while the party waits and observes its patrol.",
+      "evidence": [
+        {
+          "startUid": "u1346",
+          "endUid": "u1347",
+          "quote": "Well, nothing happens and then it approaches like here, I have pauses for a minute. Are you all staying where you are, yeah?"
+        },
+        {
+          "startUid": "u1356",
+          "endUid": "u1359",
+          "quote": "Doesn't seem to be seeking anybody out, but if it if it sees you within 10 or 15 feet, it looks at you, and this like pain of like its behavior after you watch it for a minute, and after that happens, I will let you let you run away before it makes another pass. But it basically now seems to be walking between the tree and its body like this, and if it sees anybody immediately within its line of sight within 15 feet, it turns and looks at you. And this like wave of sorrow passes over to you."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "The narrated pause and observation describe one brief waiting interval."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t19",
+          "note": "Part of the retrospective total village stay; do not add it again."
+        }
+      ]
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u1492",
+        "endUid": "u1504"
+      },
+      "reading": "The revived tree develops hundreds of flame-red leaves over five to ten minutes.",
+      "evidence": [
+        {
+          "startUid": "u1492",
+          "endUid": "u1504",
+          "quote": "So so, as you begin to cast the spell, you see it starts out what looks to you like little just like little sparks kind of running around the ground underneath the tree almost like fireflies just kind of floating there like just kind of flitting around and occasionally a sparkle kind of disappear as your as as you cast the spell. Once you cast the spell this sort of take some time to build up that the ground grows in the ground like just right around the tree becomes like thick and lush. Begins to grow and these sparks sort of start climbing up the tree and you see like almost like like little bits of flame like shooting up the bark, initially fading and then one sort of shoots up all the way and you see a bud and then a leaf began to grow on a branch, and then it quickly sort of turns to this flame red color. And you wait another 30 seconds, minute, a few more sparks run out and a few more leaves began to grow and turn the sort of flame red. And after maybe five or 10 minutes, like the whole tree now there's like it's not like fully leaf out but there's hundreds of these flame red leaves."
+        }
+      ],
+      "duration": {
+        "min": 5,
+        "minInclusive": true,
+        "max": 10,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Explicit development interval includes the earlier thirty-second/minute glimpses."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t19",
+          "note": "Part of the retrospective total village stay; do not add it again."
+        }
+      ]
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u1505",
+        "endUid": "u1512"
+      },
+      "reading": "As leaves drift over the village, spirits are visible for about a minute.",
+      "evidence": [
+        {
+          "startUid": "u1505",
+          "endUid": "u1512",
+          "quote": "And for a moment it just stays like this and then the leaves begin to drift off the tree and flow across the village and begin— they're moving not as if by the wind, but they land they start to land and like a bunch of places all around the village and for a minute, you see, where each one lands, you see, like an image, a vision of like spirits kind of floating up from the ground where each leaf lands. And the village, although it's been quiet like there's almost a sense of peace."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated current observation, not elapsed historical-battle time."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t19",
+          "note": "Part of the retrospective total village stay; do not add it again."
+        }
+      ]
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u1531",
+        "endUid": "u1533"
+      },
+      "reading": "The party takes an hour-long short rest with cooking in the purified village.",
+      "evidence": [
+        {
+          "startUid": "u1531",
+          "endUid": "u1533",
+          "quote": "Take a short rest feel free to roll Hit Dice anybody who wants to. m and m let's actually…"
+        },
+        {
+          "startUid": "u1569",
+          "endUid": "u1570",
+          "quote": "So you set around the you know the fire, the fire of the funeral pyres dies down and you make yourself a little camp fire and a sheltered spot and some nice food."
+        },
+        {
+          "startUid": "u1604",
+          "endUid": "u1609",
+          "quote": "After an hour's break even by the by the end of the hour you're starting to see like a little bit more flickers of movement in the shadows and with the embers of the fires died down and the and the day sort of the sun beginning to you know to set it probably being like 430 or 5pm now so so not like not like dark dark, but like sort of getting close to twilight twilight. You know that you are getting the sense, you know, maybe it's time to move on, after having been in this village now for close to two hours already. But where to? It's up to you."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Explicit hour at u1604–u1609 confirms the established short rest."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t19",
+          "note": "Part of the retrospective total village stay; do not add it again."
+        }
+      ]
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u1604",
+        "endUid": "u1609"
+      },
+      "reading": "By the end of the short rest it is about 16:30 or 17:00, after close to two hours in the village in all.",
+      "evidence": [
+        {
+          "startUid": "u1604",
+          "endUid": "u1609",
+          "quote": "After an hour's break even by the by the end of the hour you're starting to see like a little bit more flickers of movement in the shadows and with the embers of the fires died down and the and the day sort of the sun beginning to you know to set it probably being like 430 or 5pm now so so not like not like dark dark, but like sort of getting close to twilight twilight. You know that you are getting the sense, you know, maybe it's time to move on, after having been in this village now for close to two hours already. But where to? It's up to you."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Total village stay in all, including exploration, excavation and the completed short rest."
+      },
+      "completion": "completed",
+      "note": "The clock alternatives describe one current moment, not an additional half-hour interval.",
+      "time": {
+        "partOfDay": "late afternoon",
+        "precision": "approximate",
+        "basis": "DM gives alternative current readings of 16:30 or 17:00, nearing twilight."
+      }
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u1641",
+        "endUid": "u1647"
+      },
+      "reading": "The party travels slowly overnight and reaches the Dark Fire clearing shortly after dawn.",
+      "evidence": [
+        {
+          "startUid": "u1641",
+          "endUid": "u1647",
+          "quote": "Okay, so you you begin you set out overnight travel— presuming you don't want to arrive there in the middle of the night, so travel somewhat slowly so you'll arrive there around dawn, yeah, shortly after dawn. As you so again the forest is is just as quiet as it was before. Nothing moving no sounds I'm not even wind, now it seems to be just still. And as you begin to come close to where you think the battle of the dark fire battlefield is, anything else you want to do?"
+        },
+        {
+          "startUid": "u1656",
+          "endUid": "u1662",
+          "quote": "Now, as you step into this clearing you see this giant battlefield this very large opening probably what like a hundred, a hundred and forty, a hundred and fifty feet across. In the center of this are two, two large rocks two large boulders that are like black. Absolutely massive body of some enormous demon lying in the center of the I'm."
+        }
+      ],
+      "time": {
+        "partOfDay": "shortly after dawn",
+        "relative": {
+          "relation": "after",
+          "reference": "t19"
+        },
+        "precision": "approximate",
+        "basis": "Overnight travel is narrated, with the endpoint confirmed on entering the clearing."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t21",
+      "source": {
+        "startUid": "u3128",
+        "endUid": "u3133"
+      },
+      "reading": "After the escape eastward, the party realizes nothing has followed for the last two or three minutes; ten minutes is immediately corrected.",
+      "evidence": [
+        {
+          "startUid": "u3128",
+          "endUid": "u3133",
+          "quote": "So, as you run dashing out of this clearing and getting the sense that there are there you almost get the sense that there's like two or three or maybe four hunting cats following behind you and every now and then one sort of peels off and distracts anything that might be chasing you until after about a mile of dashing East you pause for a minute in the silence and realize that, for the past 10 minutes past— two or three minutes nothing's been following you, and you can pause and take a breather. And I think, given that it is a little later than I wanted to go, we'll stop there for tonight and we'll pick it up in two weeks."
+        }
+      ],
+      "duration": {
+        "min": 2,
+        "minInclusive": true,
+        "max": 3,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Accepted corrected duration of the pursuit-free tail of the escape, not the whole run."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t22",
+      "source": {
+        "startUid": "u3128",
+        "endUid": "u3133"
+      },
+      "reading": "After about a mile of dashing east, the party pauses briefly to catch its breath.",
+      "evidence": [
+        {
+          "startUid": "u3128",
+          "endUid": "u3133",
+          "quote": "So, as you run dashing out of this clearing and getting the sense that there are there you almost get the sense that there's like two or three or maybe four hunting cats following behind you and every now and then one sort of peels off and distracts anything that might be chasing you until after about a mile of dashing East you pause for a minute in the silence and realize that, for the past 10 minutes past— two or three minutes nothing's been following you, and you can pause and take a breather. And I think, given that it is a little later than I wanted to go, we'll stop there for tonight and we'll pick it up in two weeks."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated brief pause after reaching safety from pursuit; no long rest is established."
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "conflict",
+    "dateAnchor": "Early October is spoken, but no numbered civil date or year is independently stated. Absolute dates use the YAML start of 1748-10-06 conditionally.",
+    "expectedDateBoundaries": 3,
+    "supportedDateBoundaries": 2,
+    "evidence": [
+      "t01",
+      "t02",
+      "t04",
+      "t18",
+      "t19",
+      "t20",
+      "t21",
+      "t22"
+    ],
+    "explanation": "Current play runs from an evening camp meeting through the next day at the village, one further overnight to dawn at Dark Fire, and the immediate escape. These two explicit night-to-morning transitions support an ending on October 8 conditional on the YAML start, rather than the recorded October 9. Historical visions and background captivity add no adventure days; the final instruction explicitly withholds a long rest. No missing day is supplied from drEnd."
+  }
+}

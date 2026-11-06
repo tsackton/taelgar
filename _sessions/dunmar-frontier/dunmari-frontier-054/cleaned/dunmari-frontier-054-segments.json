@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-054",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-session.yaml",
+    "sessionYamlSha256": "442e1100b1d30a5e8ea3589be5f8fa508daa2cb55dc520f4348f33e47931aa30",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-transcript.md",
+    "transcriptSha256": "77f63dca9e296271c4861b6add479b294796500f7cdf9958f040ba1e802a885f"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0014"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0015",
+        "endUid": "u0026"
+      },
+      "category": "session_framing",
+      "note": "Opening setting and historical introduction; active character introductions and the camp meeting begin at u0027."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0027",
+        "endUid": "u0469"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0470",
+        "endUid": "u0566"
+      },
+      "category": "combat",
+      "note": "No initiative roll; the repeated Iascaire, Delwath, creature, Aristaea turn order is confirmed at u0544–u0548."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0567",
+        "endUid": "u0886"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0887",
+        "endUid": "u1136"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1137",
+        "endUid": "u1575"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1576",
+        "endUid": "u1603"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1604",
+        "endUid": "u1767"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1768",
+        "endUid": "u3133"
+      },
+      "category": "combat",
+      "note": "Includes the escape ending the encounter at u3133; that inseparable turn also contains closing housekeeping."
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u3134",
+        "endUid": "u3136"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

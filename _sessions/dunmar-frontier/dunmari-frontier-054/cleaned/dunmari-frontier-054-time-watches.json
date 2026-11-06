@@ -1,0 +1,88 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-time-markers.json",
+    "sha256": "1626f734f7010f303d4cfe2799ad09778ef6fb62ec368db17eb461ab4cad5c65"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-transcript.md",
+    "sha256": "77f63dca9e296271c4861b6add479b294796500f7cdf9958f040ba1e802a885f"
+  },
+  "dateAssessment": "Working dates inherit 6 October 1748 from YAML and follow the transcript’s two overnight transitions, giving 6–8 October. No numbered date is independently spoken. The time JSON records a conflict with YAML’s 9 October end; it does not add a missing day. Historical visions date the experienced memories, not additional adventure time. Session 54 (DuFr) likewise dates the two rescues to 7 and 8 October, but calls Dark Fire’s arrival mid-morning; the transcript says shortly after dawn. The ending remains a forest escape without an established long rest or arrival in Ko’zula territory.",
+  "watches": [
+    {
+      "day": "October 6, 1748",
+      "startDate": "1748-10-06",
+      "endDate": "1748-10-06",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Camp meeting: late afternoon or evening; afternoon and dusk remain alternatives.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "October 7, 1748",
+      "startDate": "1748-10-07",
+      "endDate": "1748-10-07",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "The party leaves camp the next morning.",
+      "markers": [
+        "t02"
+      ]
+    },
+    {
+      "day": "October 7, 1748",
+      "startDate": "1748-10-07",
+      "endDate": "1748-10-07",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Midafternoon arrival; village exploration and one-hour rest total nearly two hours, ending about 16:30–17:00.",
+      "markers": [
+        "t03",
+        "t04",
+        "t05",
+        "t06",
+        "t07",
+        "t08",
+        "t09",
+        "t10",
+        "t11",
+        "t12",
+        "t13",
+        "t14",
+        "t15",
+        "t16",
+        "t17",
+        "t18",
+        "t19"
+      ]
+    },
+    {
+      "day": "October 8, 1748",
+      "startDate": "1748-10-08",
+      "endDate": "1748-10-08",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Overnight travel reaches Dark Fire shortly after dawn; the fight and eastward escape follow immediately.",
+      "markers": [
+        "t20",
+        "t21",
+        "t22"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 54 dated campaign record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 54 (DuFr).md",
+      "sha256": "256f59476d4b2708fe3cbce487a00c73d1c1f18bd8ebc9b745708cacaa2eee83"
+    }
+  ]
+}

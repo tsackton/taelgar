@@ -1,0 +1,868 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-054",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-session.yaml",
+    "sessionYamlSha256": "442e1100b1d30a5e8ea3589be5f8fa508daa2cb55dc520f4348f33e47931aa30",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-transcript.md",
+    "transcriptSha256": "77f63dca9e296271c4861b6add479b294796500f7cdf9958f040ba1e802a885f"
+  },
+  "places": {
+    "p01": {
+      "label": "Forest of Nightmares",
+      "kind": "forest",
+      "evidence": [
+        {
+          "startUid": "u0015",
+          "endUid": "u0026",
+          "quote": "So our adventure tonight starts in a hunting camp on the mountain slopes in the far north as the summer turns to autumn. The camp’s on a flat ridge in a clearing of rock, where the pines of the higher elevations begin to mix, mix with birches and maple leaves, a variety of bright yellows and reds in this early October light. About 15 or so people bustle around the camp, tending to tasks: butchering deer, setting up charcoal pits to smoke the meat, salting the hides to dry them for the journey back to the villages at higher elevations, and keeping watch on the western edge of the camp. Everybody here is wary, for this camp, it's only a day's journey, maybe 20 miles from the valley floor and the Forest of Nightmares. Once called the Forest of Dreams, this vast woodland was home to many of the Deno'qai people hundreds of years ago, before the Great War brought death and destruction to the land, but now it's cursed, dangerous to travel through, home to many scarred remains of battlefields. You've come to this camp because of newly rekindled hope that the six silent ones, the tanshi, the small spirits, the gods of the Deno'qai that fell silent during the battles against Cha'mutte, may yet be found and freed. You've recently heard rumors of these shadow armbands that have been found, and the rumors that these tanshi were trapped by the great dragon Cha'mutte during the great wars 200 years ago, somehow using these armbands. So you have gathered here together, joining forces to hope to search the last battlefields, the four places in the Forest of Nightmares where tanshi fought and fell, and perhaps find the keys to their prisons and free them."
+        },
+        {
+          "startUid": "u0277",
+          "endUid": "u0284",
+          "quote": "As you as you descend into the Forest of Nightmares the sounds gradually stop. And after you've been traveling for maybe half a day, going maybe 15 miles or so it's completely quiet. There's no not even any insects moving about it it's feels— just just the trees occasionally creaking in the wind is the only sound that you hear. And every now and then you catch a glimpse out of the corner of your eye that there's you know something something moving some shadow moves slightly from you know from it's— in the corner of your eye just from behind the tree and then you look at it and it vanishes but you can't shake the feeling that there's things moving in the woods."
+        }
+      ],
+      "vaultPath": "Gazetteer/Northern Sentinels/Forest of Nightmares.md"
+    },
+    "p02": {
+      "label": "Ridge hunting camp",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0015",
+          "endUid": "u0026",
+          "quote": "So our adventure tonight starts in a hunting camp on the mountain slopes in the far north as the summer turns to autumn. The camp’s on a flat ridge in a clearing of rock, where the pines of the higher elevations begin to mix, mix with birches and maple leaves, a variety of bright yellows and reds in this early October light. About 15 or so people bustle around the camp, tending to tasks: butchering deer, setting up charcoal pits to smoke the meat, salting the hides to dry them for the journey back to the villages at higher elevations, and keeping watch on the western edge of the camp. Everybody here is wary, for this camp, it's only a day's journey, maybe 20 miles from the valley floor and the Forest of Nightmares. Once called the Forest of Dreams, this vast woodland was home to many of the Deno'qai people hundreds of years ago, before the Great War brought death and destruction to the land, but now it's cursed, dangerous to travel through, home to many scarred remains of battlefields. You've come to this camp because of newly rekindled hope that the six silent ones, the tanshi, the small spirits, the gods of the Deno'qai that fell silent during the battles against Cha'mutte, may yet be found and freed. You've recently heard rumors of these shadow armbands that have been found, and the rumors that these tanshi were trapped by the great dragon Cha'mutte during the great wars 200 years ago, somehow using these armbands. So you have gathered here together, joining forces to hope to search the last battlefields, the four places in the Forest of Nightmares where tanshi fought and fell, and perhaps find the keys to their prisons and free them."
+        }
+      ],
+      "note": "The camp is on the mountain slopes above the valley forest; the stated day/20-mile distance is orientation, not a journey completed in this session."
+    },
+    "p03": {
+      "label": "Village at the Battle without Hope",
+      "kind": "ruined village",
+      "evidence": [
+        {
+          "startUid": "u0317",
+          "endUid": "u0325",
+          "quote": "So it looks like, you know it's it looks sort of, like the other villages you've been in the village that that you live in, Iascaire, it's you know oh it's a series of buildings clustered around the central green with like low thatched roofs, but the roofs are mostly gone. You know that there's holes in the wall, so you can see in the trees are growing up around and, you know you let's see. Iascaire you would have noticed as you're approaching like you pass through you've past past like much more decayed building, just like a bit of a stone wall or something like that, for the past five minutes or so. But these this one sort of center cluster seems, for whatever reason to be better preserved. There are— the tree and that there's this bit so a lot of these Deno'qai villages have a green, and they have a tree with an altar and they often like hang offerings to the to the tanshi to the gods on this tree. This tree is completely dead."
+        },
+        {
+          "startUid": "u1611",
+          "endUid": "u1611",
+          "quote": "You're in the Battle without Hope."
+        }
+      ],
+      "note": "Identified later in current play at u1611. Session 54 (DuFr) corroborates the battlefield name; no independent public site page was found.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0277",
+              "endUid": "u0284",
+              "quote": "As you as you descend into the Forest of Nightmares the sounds gradually stop. And after you've been traveling for maybe half a day, going maybe 15 miles or so it's completely quiet. There's no not even any insects moving about it it's feels— just just the trees occasionally creaking in the wind is the only sound that you hear. And every now and then you catch a glimpse out of the corner of your eye that there's you know something something moving some shadow moves slightly from you know from it's— in the corner of your eye just from behind the tree and then you look at it and it vanishes but you can't shake the feeling that there's things moving in the woods."
+            },
+            {
+              "startUid": "u0285",
+              "endUid": "u0286",
+              "quote": "So it'll take you moving at a reasonably good clip it'll take you until say the middle of the afternoon assuming an early start to get to this battlefield."
+            },
+            {
+              "startUid": "u1526",
+              "endUid": "u1526",
+              "quote": "Aristaea: It's still in the forest of nightmares."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "First ruin",
+      "kind": "ruined building",
+      "evidence": [
+        {
+          "startUid": "u0412",
+          "endUid": "u0415",
+          "quote": "Yeah so as as nothing happens to Delwath but as the rest of you pass down this passageway and turn into this building let's see can…"
+        },
+        {
+          "startUid": "u0592",
+          "endUid": "u0592",
+          "quote": "Delwath: Let's search this. I mean, this is like open. It's kind of like a shed, right? Like open to the trees and things?"
+        },
+        {
+          "startUid": "u0641",
+          "endUid": "u0643",
+          "quote": "It takes a bit of time, but you use it takes a couple minutes to like burrow through a bit of dirt and that's what seems to emerge is like not just one skeleton but there's like a pile of maybe 10–15 skeletons here, they look human from a quick glance, and it seems like the earth and the floor must have come up over 200 years, like you know, a foot or something like that, so these were bodies that were just lying out but have been buried by just the accumulation of dirt over the past couple hundred years."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0400",
+              "endUid": "u0401",
+              "quote": "Okay, so wait, wait, who's going where? There's all sorts of secrets on this map, so you can just move your token so I know what you trigger."
+            },
+            {
+              "startUid": "u0404",
+              "endUid": "u0404",
+              "quote": "Aristaea: First ruin to the top yeah your way that were that clothesline is I forget…"
+            },
+            {
+              "startUid": "u0412",
+              "endUid": "u0415",
+              "quote": "Yeah so as as nothing happens to Delwath but as the rest of you pass down this passageway and turn into this building let's see can…"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "House across the path",
+      "kind": "ruined building",
+      "evidence": [
+        {
+          "startUid": "u0664",
+          "endUid": "u0667",
+          "quote": "As as Delwath and not Delwath sorry as Aristaea and, Iascaire exit the this building and cross across the path the other build and make another Wisdom save but with the plus with the plus three."
+        },
+        {
+          "startUid": "u0690",
+          "endUid": "u0691",
+          "quote": "Now that you know what you're looking for, yes, you do also see— I'm not a giant pile of bodies, you see, about like six or so individually, you know, but you know dead bodies kind of scattered across the floor, but not all piled up in one place."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0664",
+              "endUid": "u0667",
+              "quote": "As as Delwath and not Delwath sorry as Aristaea and, Iascaire exit the this building and cross across the path the other build and make another Wisdom save but with the plus with the plus three."
+            },
+            {
+              "startUid": "u0697",
+              "endUid": "u0698",
+              "quote": "The battle was like mostly in the town square. I mean that's where you mean you are seeing across like looking West."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Village green, dead tree and altar",
+      "kind": "village green",
+      "evidence": [
+        {
+          "startUid": "u0317",
+          "endUid": "u0325",
+          "quote": "So it looks like, you know it's it looks sort of, like the other villages you've been in the village that that you live in, Iascaire, it's you know oh it's a series of buildings clustered around the central green with like low thatched roofs, but the roofs are mostly gone. You know that there's holes in the wall, so you can see in the trees are growing up around and, you know you let's see. Iascaire you would have noticed as you're approaching like you pass through you've past past like much more decayed building, just like a bit of a stone wall or something like that, for the past five minutes or so. But these this one sort of center cluster seems, for whatever reason to be better preserved. There are— the tree and that there's this bit so a lot of these Deno'qai villages have a green, and they have a tree with an altar and they often like hang offerings to the to the tanshi to the gods on this tree. This tree is completely dead."
+        },
+        {
+          "startUid": "u0703",
+          "endUid": "u0707",
+          "quote": "So Okay, as you as you begin to approach this town square right about there you hear the sort of low wailing sound coming from the center of the the center of the village. You couldn't— it was— it's very quiet like you couldn't really hear it until you're within about 30 feet of it, but it seems to be coming from maybe behind the dead tree sort of this like very low— more a more like a wail of despair, then it's not really a haunting sound, right? It's like a wail of you know, some kind of pain and despair not not like ooh. But it seems to be coming from around the tree."
+        },
+        {
+          "startUid": "u0815",
+          "endUid": "u0817",
+          "quote": "Yeah so they're just they're associated with for sure right, so the trees are all like these, like coppice trees like where they chop the trunks and there's like lots of trunks and they grow bigger and bigger like the sort of like those oaks that have you know 100 branches that spread out so they're they're very they're like tended and manicured trees that are sort of part of the whole sort of village green altar."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0703",
+              "endUid": "u0707",
+              "quote": "So Okay, as you as you begin to approach this town square right about there you hear the sort of low wailing sound coming from the center of the the center of the village. You couldn't— it was— it's very quiet like you couldn't really hear it until you're within about 30 feet of it, but it seems to be coming from maybe behind the dead tree sort of this like very low— more a more like a wail of despair, then it's not really a haunting sound, right? It's like a wail of you know, some kind of pain and despair not not like ooh. But it seems to be coming from around the tree."
+            },
+            {
+              "startUid": "u0815",
+              "endUid": "u0817",
+              "quote": "Yeah so they're just they're associated with for sure right, so the trees are all like these, like coppice trees like where they chop the trunks and there's like lots of trunks and they grow bigger and bigger like the sort of like those oaks that have you know 100 branches that spread out so they're they're very they're like tended and manicured trees that are sort of part of the whole sort of village green altar."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Large collapsed building and doorway",
+      "kind": "ruin",
+      "evidence": [
+        {
+          "startUid": "u0870",
+          "endUid": "u0873",
+          "quote": "Right okay ah, as you as you head in this direction. Iascaire make another Wisdom saving throw. So you can see into this building, this is a bigger building than the rest and the roof has been completely destroyed. It looks almost like some some, like large thing collapse, the roof, so when you're looking in you can see, like this, this here is like collapsed roof and it's like things are buried underneath the collapsed roof…"
+        },
+        {
+          "startUid": "u1185",
+          "endUid": "u1189",
+          "quote": "So they're the main the two things that that you notice, looking around this this this building, one is that the way that the that the roof has collapsed there's like like its collapse from the middle but it's clearly like piled up higher on the left side on the West side over here then over here right so that's, the first thing."
+        },
+        {
+          "startUid": "u1391",
+          "endUid": "u1393",
+          "quote": "No, this is, this is the corpse of the of the priest of the godcaller is here. This hobgoblin corpse was here was like underneath the collapsed roof right."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0866",
+              "endUid": "u0867",
+              "quote": "Delwath: Yeah so like let's head, you know, like that and relatively quickly, so we don't get hit by another burst of sadness."
+            },
+            {
+              "startUid": "u0870",
+              "endUid": "u0873",
+              "quote": "Right okay ah, as you as you head in this direction. Iascaire make another Wisdom saving throw. So you can see into this building, this is a bigger building than the rest and the roof has been completely destroyed. It looks almost like some some, like large thing collapse, the roof, so when you're looking in you can see, like this, this here is like collapsed roof and it's like things are buried underneath the collapsed roof…"
+            },
+            {
+              "startUid": "u1007",
+              "endUid": "u1018",
+              "quote": "You are incapacitated, and you see a vision of the battle continuing. The wizard stumbles into the door of this house, like fiddling with its armband, and rushes in. Turning to look back on it as the godcaller had been fighting it now limping bleeding badly, but its arms his arms like extending turning into these giant claws of frost and staggering forward and you see as it as the godcaller like steps into the door of this building. The wizard turns and just speaks a word, and the the godcaller falls over dead. But these two spirits sort of fly out of its body and looks like a Hawk with claws of frost and latch on to the hold on to the wizard and struggle for a moment and then grab at the armband like be trying to pull it off, and as the wizard falls over the spirits vanish as the armband clock, clock, clatters to the ground with the wizard dead. Somewhere in like somewhere on the Western side of of this building. But you don't get to take an action, because you already incapacitated until the start of your next turn."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Additional house scouted while invisible",
+      "kind": "ruined building",
+      "evidence": [
+        {
+          "startUid": "u1400",
+          "endUid": "u1402",
+          "quote": "Delwath: I think I mean it once a— while invisible I'm just gonna go scout like this building."
+        },
+        {
+          "startUid": "u1405",
+          "endUid": "u1405",
+          "quote": "Okay there doesn't seem to be anything in there."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1400",
+              "endUid": "u1402",
+              "quote": "Delwath: I think I mean it once a— while invisible I'm just gonna go scout like this building."
+            },
+            {
+              "startUid": "u1406",
+              "endUid": "u1406",
+              "quote": "Delwath: Okay, and what about it, is it worth— do you guys think it's worth scouting all the buildings?"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Battle of Dark Fire clearing",
+      "kind": "battlefield",
+      "evidence": [
+        {
+          "startUid": "u1641",
+          "endUid": "u1647",
+          "quote": "Okay, so you you begin you set out overnight travel— presuming you don't want to arrive there in the middle of the night, so travel somewhat slowly so you'll arrive there around dawn, yeah, shortly after dawn. As you so again the forest is is just as quiet as it was before. Nothing moving no sounds I'm not even wind, now it seems to be just still. And as you begin to come close to where you think the battle of the dark fire battlefield is, anything else you want to do?"
+        },
+        {
+          "startUid": "u1656",
+          "endUid": "u1662",
+          "quote": "Now, as you step into this clearing you see this giant battlefield this very large opening probably what like a hundred, a hundred and forty, a hundred and fifty feet across. In the center of this are two, two large rocks two large boulders that are like black. Absolutely massive body of some enormous demon lying in the center of the I'm."
+        },
+        {
+          "startUid": "u1663",
+          "endUid": "u1672",
+          "quote": "Looking around the edge of the forest in this clearing, you can see that the trees themselves are you know everything looks kind of slightly scorch slightly burned. That massive dead demon its flesh is blackened and scorched. There are roots and vines growing over it, there are but they're not they're not sort of natural roots. They look like sort of blackened tendrils of something and they're growing out from it sort of making a web that stretches out to the sort of edges of the forest and touches like you know this tree here this tree here all of the trees that are growing in this clearing have these like tendrils of of this sort of black wrapping around them. There's the scent of rot and char in the clearing. Some of these trees here some of the trees in the center, especially the ones closest to the demon body seem to move slightly like they'll take a small step sort of sway slightly not moving with the wind. Around that demons wrist here, you can see one of these shadow armbands, but the black tendrils grow sort of tight around it, entwining this armband, so you'll have to— it is not so simple to just remove from from the wrist of this creature."
+        }
+      ],
+      "note": "Also called Battle of Darkfire in Session 54 (DuFr). No independent public battlefield page was found.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1641",
+              "endUid": "u1647",
+              "quote": "Okay, so you you begin you set out overnight travel— presuming you don't want to arrive there in the middle of the night, so travel somewhat slowly so you'll arrive there around dawn, yeah, shortly after dawn. As you so again the forest is is just as quiet as it was before. Nothing moving no sounds I'm not even wind, now it seems to be just still. And as you begin to come close to where you think the battle of the dark fire battlefield is, anything else you want to do?"
+            },
+            {
+              "startUid": "u1663",
+              "endUid": "u1672",
+              "quote": "Looking around the edge of the forest in this clearing, you can see that the trees themselves are you know everything looks kind of slightly scorch slightly burned. That massive dead demon its flesh is blackened and scorched. There are roots and vines growing over it, there are but they're not they're not sort of natural roots. They look like sort of blackened tendrils of something and they're growing out from it sort of making a web that stretches out to the sort of edges of the forest and touches like you know this tree here this tree here all of the trees that are growing in this clearing have these like tendrils of of this sort of black wrapping around them. There's the scent of rot and char in the clearing. Some of these trees here some of the trees in the center, especially the ones closest to the demon body seem to move slightly like they'll take a small step sort of sway slightly not moving with the wind. Around that demons wrist here, you can see one of these shadow armbands, but the black tendrils grow sort of tight around it, entwining this armband, so you'll have to— it is not so simple to just remove from from the wrist of this creature."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Forest east of the Dark Fire clearing",
+      "kind": "forest",
+      "evidence": [
+        {
+          "startUid": "u3128",
+          "endUid": "u3133",
+          "quote": "So, as you run dashing out of this clearing and getting the sense that there are there you almost get the sense that there's like two or three or maybe four hunting cats following behind you and every now and then one sort of peels off and distracts anything that might be chasing you until after about a mile of dashing East you pause for a minute in the silence and realize that, for the past 10 minutes past— two or three minutes nothing's been following you, and you can pause and take a breather. And I think, given that it is a little later than I wanted to go, we'll stop there for tonight and we'll pick it up in two weeks."
+        }
+      ],
+      "note": "The escape ends about a mile east of the clearing, free of pursuit. Reaching Ko’zula territory or leaving the Forest of Nightmares is not established.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u3103",
+              "endUid": "u3124",
+              "quote": "Okay, so as the as the as the bracelet melts you see kind of right rushing out of it a a bobcat that like runs in a circle once around you all. You each get a— once while you are still in the Forest of Nightmares you can reroll a d20 that's like one luck. That'll go away if you leave the forest. And then you also each get your Yezali magic item. And then, as it is running around it sort of spirals up. It and as it does that it sort of um let's see it pounces on this thing which gets destroyed, and that it— it sort of spirals through and into Delwath's shield, and for a minute, you see the Lynx form that is painted on the front of his shield, like its mouth, it's like head shift and its mouth open and it roars. And it gives a howl and a blast of wind shoots this way knocks this thing back like 20 feet. But you get the sense like you know getting out of here is the thing to do. Is these— these creatures won't be able to follow, far from the demon, right? Or not— they don't disappear, just because the bracelet."
+            },
+            {
+              "startUid": "u3128",
+              "endUid": "u3133",
+              "quote": "So, as you run dashing out of this clearing and getting the sense that there are there you almost get the sense that there's like two or three or maybe four hunting cats following behind you and every now and then one sort of peels off and distracts anything that might be chasing you until after about a mile of dashing East you pause for a minute in the silence and realize that, for the past 10 minutes past— two or three minutes nothing's been following you, and you can pause and take a breather. And I think, given that it is a little later than I wanted to go, we'll stop there for tonight and we'll pick it up in two weeks."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0015",
+        "endUid": "u0030"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Delwath meets Aristaea and Iascaire at the mountain hunting camp.",
+      "evidence": [
+        {
+          "startUid": "u0015",
+          "endUid": "u0026",
+          "quote": "So our adventure tonight starts in a hunting camp on the mountain slopes in the far north as the summer turns to autumn. The camp’s on a flat ridge in a clearing of rock, where the pines of the higher elevations begin to mix, mix with birches and maple leaves, a variety of bright yellows and reds in this early October light. About 15 or so people bustle around the camp, tending to tasks: butchering deer, setting up charcoal pits to smoke the meat, salting the hides to dry them for the journey back to the villages at higher elevations, and keeping watch on the western edge of the camp. Everybody here is wary, for this camp, it's only a day's journey, maybe 20 miles from the valley floor and the Forest of Nightmares. Once called the Forest of Dreams, this vast woodland was home to many of the Deno'qai people hundreds of years ago, before the Great War brought death and destruction to the land, but now it's cursed, dangerous to travel through, home to many scarred remains of battlefields. You've come to this camp because of newly rekindled hope that the six silent ones, the tanshi, the small spirits, the gods of the Deno'qai that fell silent during the battles against Cha'mutte, may yet be found and freed. You've recently heard rumors of these shadow armbands that have been found, and the rumors that these tanshi were trapped by the great dragon Cha'mutte during the great wars 200 years ago, somehow using these armbands. So you have gathered here together, joining forces to hope to search the last battlefields, the four places in the Forest of Nightmares where tanshi fought and fell, and perhaps find the keys to their prisons and free them."
+        },
+        {
+          "startUid": "u0027",
+          "endUid": "u0030",
+          "quote": "So. I would say, I guess, as we, as we jump into the world, Aristaea and Iascaire are probably sitting at the campfire as Delwath approaches to meet you. So maybe if we could, if everybody could describe their characters first."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0269",
+        "endUid": "u0284"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Descend from the ridge through the Forest of Nightmares and arrive at the ruined village from the east.",
+      "evidence": [
+        {
+          "startUid": "u0266",
+          "endUid": "u0267",
+          "quote": "So was there anything else you want to do in the camp this evening? Will say you set out the next morning."
+        },
+        {
+          "startUid": "u0269",
+          "endUid": "u0276",
+          "quote": "So, as you descend the slight slope down in sort of following Aristaea's directions towards this battle site where you are where you are now like where did the camp is you know you hear sounds of, you know, animals and you know general— the noise of the forest in, in fall."
+        },
+        {
+          "startUid": "u0277",
+          "endUid": "u0284",
+          "quote": "As you as you descend into the Forest of Nightmares the sounds gradually stop. And after you've been traveling for maybe half a day, going maybe 15 miles or so it's completely quiet. There's no not even any insects moving about it it's feels— just just the trees occasionally creaking in the wind is the only sound that you hear. And every now and then you catch a glimpse out of the corner of your eye that there's you know something something moving some shadow moves slightly from you know from it's— in the corner of your eye just from behind the tree and then you look at it and it vanishes but you can't shake the feeling that there's things moving in the woods."
+        },
+        {
+          "startUid": "u0313",
+          "endUid": "u0316",
+          "quote": "Yeah you see this is this is kind of what you see coming from the coming from the, the east so I’ll throw your characters on here, and you can put yourself in whatever order makes sense, but this is the you know the the village, as you approach it looks."
+        },
+        {
+          "startUid": "u0317",
+          "endUid": "u0325",
+          "quote": "So it looks like, you know it's it looks sort of, like the other villages you've been in the village that that you live in, Iascaire, it's you know oh it's a series of buildings clustered around the central green with like low thatched roofs, but the roofs are mostly gone. You know that there's holes in the wall, so you can see in the trees are growing up around and, you know you let's see. Iascaire you would have noticed as you're approaching like you pass through you've past past like much more decayed building, just like a bit of a stone wall or something like that, for the past five minutes or so. But these this one sort of center cluster seems, for whatever reason to be better preserved. There are— the tree and that there's this bit so a lot of these Deno'qai villages have a green, and they have a tree with an altar and they often like hang offerings to the to the tanshi to the gods on this tree. This tree is completely dead."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Descend into the silent forest; about fifteen miles have been covered after roughly half a day.",
+          "place": "p01"
+        },
+        {
+          "reading": "Approach the village from the east."
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0412",
+        "endUid": "u0415"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party turns into the first ruined building; Delwath precedes his companions.",
+      "evidence": [
+        {
+          "startUid": "u0409",
+          "endUid": "u0409",
+          "quote": "Delwath: I think we'll stick together, right?"
+        },
+        {
+          "startUid": "u0410",
+          "endUid": "u0411",
+          "quote": "Iascaire: Yes. We'll just assume that until combat starts we're hanging…"
+        },
+        {
+          "startUid": "u0412",
+          "endUid": "u0415",
+          "quote": "Yeah so as as nothing happens to Delwath but as the rest of you pass down this passageway and turn into this building let's see can…"
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0445",
+        "endUid": "u0463"
+      },
+      "actors": [
+        "Aristaea"
+      ],
+      "reading": "Aristaea sees the village green in the historical battle; this is a vision from the first ruin.",
+      "evidence": [
+        {
+          "startUid": "u0445",
+          "endUid": "u0459",
+          "quote": "In the meantime, Aristaea you are having a flashback nightmare memory of the village and I'll just I don't want to take the time to like send you a message and then have you say it, so I would just say the village seems to come alive for you. You're watching not the village now, but the village hundreds of years ago. The there's a like a whole the center green is completely filled with warriors preparing for battle. You can see like a priest like standing and sort of praying over people. You can see what looks like the scene of you know of people getting themselves ready to fight when I'm like all around the village you start you see these like just shadows beginning, you know black shadows begin to expand and hobgoblins come pouring out of these shadows like hundreds, thousands of them and coming out flying on a massive beast something like a cross between a bat and a lizard with wings, you see what looks like the commander of the hobgoblins and, as you watch you see that there's demons that seem to be mixed in with the hobgoblins and as these portals open and the hobgoblin stream out the warriors don't fight. They just put their weapons down and sit on the ground and just kind of wait to be slaughtered. The only one who's still standing is the priests, the godcaller of the village who turns into a giant roc and flies off to battle with this wizard. And that's when your eyes snap open."
+        },
+        {
+          "startUid": "u0460",
+          "endUid": "u0463",
+          "quote": "You can see that the wizard that this giant roc is battling as the battle begins with you can see clearly the wizard is wearing one of these iron dark shadow armbands around—it's the hobgoblin wizard—around his waist and every time—around his arm and every time this roc this giant eagle-like roc creature, that the godcaller turn into strikes with its claws like frost begins to spread out from all of the wounds that it's leaving on this beast."
+        }
+      ],
+      "place": "p06",
+      "mode": "vision",
+      "observerPlace": "p04",
+      "context": "vision"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0664",
+        "endUid": "u0667"
+      },
+      "actors": [
+        "Aristaea",
+        "Iascaire"
+      ],
+      "reading": "Aristaea and Iascaire leave the first building and cross the path; Iascaire is caught in another vision.",
+      "evidence": [
+        {
+          "startUid": "u0664",
+          "endUid": "u0667",
+          "quote": "As as Delwath and not Delwath sorry as Aristaea and, Iascaire exit the this building and cross across the path the other build and make another Wisdom save but with the plus with the plus three."
+        },
+        {
+          "startUid": "u0673",
+          "endUid": "u0682",
+          "quote": "But this time, you Iascaire you are, you are pulled into this vision and you see the same scene, that Aristaea saw, this battle, starting everybody sort of laying down their their arms and then this fight between the— between the— this roc with its freezing, its talons that spread frost every time they strike, and this bat-lizard being with the wizard on top, as like demons and shadows begin to stream across the village and the and the Deno’qai just surrender and give up. But the scene doesn't progress any further than what is Aristaea saw from what she told me. And you are also incapacitated for a round. Delwath as you step in this…"
+        }
+      ],
+      "from": "p04",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0673",
+        "endUid": "u0692"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath checks the empty house across the path, sees scattered bodies, and comes back out to report.",
+      "evidence": [
+        {
+          "startUid": "u0673",
+          "endUid": "u0682",
+          "quote": "But this time, you Iascaire you are, you are pulled into this vision and you see the same scene, that Aristaea saw, this battle, starting everybody sort of laying down their their arms and then this fight between the— between the— this roc with its freezing, its talons that spread frost every time they strike, and this bat-lizard being with the wizard on top, as like demons and shadows begin to stream across the village and the and the Deno’qai just surrender and give up. But the scene doesn't progress any further than what is Aristaea saw from what she told me. And you are also incapacitated for a round. Delwath as you step in this…"
+        },
+        {
+          "startUid": "u0684",
+          "endUid": "u0684",
+          "quote": "Nothing happens."
+        },
+        {
+          "startUid": "u0690",
+          "endUid": "u0691",
+          "quote": "Now that you know what you're looking for, yes, you do also see— I'm not a giant pile of bodies, you see, about like six or so individually, you know, but you know dead bodies kind of scattered across the floor, but not all piled up in one place."
+        },
+        {
+          "startUid": "u0692",
+          "endUid": "u0692",
+          "quote": "Delwath: Okay I'll come back out and report back basically."
+        }
+      ],
+      "from": "p03",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Enter and check the house across the path.",
+          "place": "p05"
+        },
+        {
+          "reading": "Return outside to the companions.",
+          "place": "p03"
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0703",
+        "endUid": "u0736"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party approaches the village green and altar; Iascaire spots the ghost behind the tree.",
+      "evidence": [
+        {
+          "startUid": "u0703",
+          "endUid": "u0707",
+          "quote": "So Okay, as you as you begin to approach this town square right about there you hear the sort of low wailing sound coming from the center of the the center of the village. You couldn't— it was— it's very quiet like you couldn't really hear it until you're within about 30 feet of it, but it seems to be coming from maybe behind the dead tree sort of this like very low— more a more like a wail of despair, then it's not really a haunting sound, right? It's like a wail of you know, some kind of pain and despair not not like ooh. But it seems to be coming from around the tree."
+        },
+        {
+          "startUid": "u0722",
+          "endUid": "u0724",
+          "quote": "Delwath: Yeah let's just like cautiously kind of go this way, like keeping Delwath try and stay in front, but also stay with her."
+        },
+        {
+          "startUid": "u0727",
+          "endUid": "u0736",
+          "quote": "Given your passive Perception, Iascaire and you notice, as you begin, as you sort of come around here there is like a faint there's like on the backside of the tree here there's like a sort of hidden behind it's thick trunk but moving in like a in like a sort of as almost as if it's like repeatedly sort of bowing down to the tree, some sort of ghostly spirit that seems to be hovering there, and as you as you come around it catches Delwath and and and Aristaea by surprise. But Iascaire you notice that and rather than run a normal surprise I'll just say you you, you get the jump on it, you can go first and then it will go before— you don't have to attack, I mean there's no— it hasn't made any hostile moves your just noticing it before everybody else. Seems to be the source of the moaning."
+        },
+        {
+          "startUid": "u0737",
+          "endUid": "u0745",
+          "quote": "Iascaire: And I will— I will point it out and say it looks like that's where the sounds coming from. On my turn I will take a piece of smoked fish from my cloak and place it on the altar beside me. And if the if the creature sort of makes an aggressive motion toward us, I will ready an action for my fish to teleport me away."
+        }
+      ],
+      "from": "p03",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u0829",
+        "endUid": "u0854"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath experiences the godcaller’s remembered crash and the wizard retreating west, then returns to the ghost at the green.",
+      "evidence": [
+        {
+          "startUid": "u0829",
+          "endUid": "u0835",
+          "quote": "So I'm so Delwath you take another you take 22 points of psychic damage and for a moment you feel like you're back in the shadow realm. And then, then your vision becomes the clear and you, you feel like the pain you feel memories from from many people all sorts of crashing together like this sort of sense of despair, fear and then sort of nothingness and then you see again the the godcaller turned into this giant roc fighting and you feel you feel it's what you feel like are its memories…"
+        },
+        {
+          "startUid": "u0836",
+          "endUid": "u0841",
+          "quote": "Fighting this giant beast spells blasting eventually falling crashing to the ground. The pain this like searing pain of the landing of the wizard touching you and something happening and then the wizard— you see, like in the corner of your eye the wizard running away from the tree like where you are standing right about here is where the is where you crashed, and then the wizard is running in [garbled]."
+        },
+        {
+          "startUid": "u0843",
+          "endUid": "u0845",
+          "quote": "[garbled] Wizard's it's running in this direction or this direction sort of a way to the West."
+        },
+        {
+          "startUid": "u0846",
+          "endUid": "u0854",
+          "quote": "And then you're sort of suddenly flashed back and the the ghostly spirit now is staring staring directly at you, and you can sort of you can sort of see now that it's— it almost has a hint of a face, sort of. Its ghostly like again it's form is not solid but it's kind of wrapped wrapped in a cloak and you, you catch almost a double image of it and the godcaller you saw fighting superimposed. And then it kind of drops down and goes back to trying to pick up the things on the altar."
+        }
+      ],
+      "place": "p03",
+      "mode": "vision",
+      "observerPlace": "p06",
+      "context": "vision"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0870",
+        "endUid": "u0886"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party leaves the ghost and reaches the large collapsed building and its doorway; Delwath goes in first.",
+      "evidence": [
+        {
+          "startUid": "u0866",
+          "endUid": "u0867",
+          "quote": "Delwath: Yeah so like let's head, you know, like that and relatively quickly, so we don't get hit by another burst of sadness."
+        },
+        {
+          "startUid": "u0870",
+          "endUid": "u0873",
+          "quote": "Right okay ah, as you as you head in this direction. Iascaire make another Wisdom saving throw. So you can see into this building, this is a bigger building than the rest and the roof has been completely destroyed. It looks almost like some some, like large thing collapse, the roof, so when you're looking in you can see, like this, this here is like collapsed roof and it's like things are buried underneath the collapsed roof…"
+        },
+        {
+          "startUid": "u0877",
+          "endUid": "u0877",
+          "quote": "Delwath: So let's like Delwath will go in like two there and just see what I see."
+        },
+        {
+          "startUid": "u0878",
+          "endUid": "u0886",
+          "quote": "Ah, you see another one of these— you see another one of these creatures emerging this one has only one arm instead of two. And then another one next to this one. This one is missing it's it's seems like it's missing one of its legs and and sort of limping forward supporting it itself on its arm and they see you."
+        },
+        {
+          "startUid": "u1001",
+          "endUid": "u1002",
+          "quote": "Iascaire: I will go. I'm using the measuring tool there we go five, 10, 15, 20…"
+        },
+        {
+          "startUid": "u1045",
+          "endUid": "u1048",
+          "quote": "Aristaea: All right. I can make my way between the dead thing, and Iascaire towards the other one, right? Yep find a way to get to the one I want to poke alright."
+        },
+        {
+          "startUid": "u1049",
+          "endUid": "u1049",
+          "quote": "So you can go there."
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "The place includes the doorway; the source does not establish an exact interior position for every companion."
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u1007",
+        "endUid": "u1018"
+      },
+      "actors": [
+        "Iascaire"
+      ],
+      "reading": "Iascaire sees the historical deaths and the armband falling in this building, without physically entering the past.",
+      "evidence": [
+        {
+          "startUid": "u1007",
+          "endUid": "u1018",
+          "quote": "You are incapacitated, and you see a vision of the battle continuing. The wizard stumbles into the door of this house, like fiddling with its armband, and rushes in. Turning to look back on it as the godcaller had been fighting it now limping bleeding badly, but its arms his arms like extending turning into these giant claws of frost and staggering forward and you see as it as the godcaller like steps into the door of this building. The wizard turns and just speaks a word, and the the godcaller falls over dead. But these two spirits sort of fly out of its body and looks like a Hawk with claws of frost and latch on to the hold on to the wizard and struggle for a moment and then grab at the armband like be trying to pull it off, and as the wizard falls over the spirits vanish as the armband clock, clock, clatters to the ground with the wizard dead. Somewhere in like somewhere on the Western side of of this building. But you don't get to take an action, because you already incapacitated until the start of your next turn."
+        }
+      ],
+      "place": "p07",
+      "mode": "vision",
+      "observerPlace": "p07",
+      "context": "vision"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1400",
+        "endUid": "u1405"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "While invisible, Delwath scouts an additional village building and finds nothing there.",
+      "evidence": [
+        {
+          "startUid": "u1400",
+          "endUid": "u1402",
+          "quote": "Delwath: I think I mean it once a— while invisible I'm just gonna go scout like this building."
+        },
+        {
+          "startUid": "u1403",
+          "endUid": "u1403",
+          "quote": "With which building?"
+        },
+        {
+          "startUid": "u1404",
+          "endUid": "u1404",
+          "quote": "Delwath: This one."
+        },
+        {
+          "startUid": "u1405",
+          "endUid": "u1405",
+          "quote": "Okay there doesn't seem to be anything in there."
+        }
+      ],
+      "from": null,
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l12",
+      "type": "presence",
+      "source": {
+        "startUid": "u1465",
+        "endUid": "u1471"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party conducts the cremation beside the village tree; the godcaller fades and the later rest occurs in a sheltered spot in the village.",
+      "evidence": [
+        {
+          "startUid": "u1461",
+          "endUid": "u1462",
+          "quote": "Delwath: I mean, I was thinking if we make a pyre like over here somewhere right? Yeah, burn this guy's body and all of their bodies and do the light proper Deno'qai ceremonies see if this consoles it before you try and make the tree grow, right?"
+        },
+        {
+          "startUid": "u1465",
+          "endUid": "u1471",
+          "quote": "Yep so you set that up use you build a pyre. It turns out once once its body has been dug up that the spirit seems to ignore the body. It's just it's just focused on this tree now. It's just pacing back and forth. You do sort of get the sense that it— so as its body burns it's starting to— it looks starts to look more and more insubstantial and as the you know it's still kind of it begins to fade from sight. And, as it does, it still kind of reaching out to the tree like trying to grasp it trying to like offer prayer, sacrifice to it, or something, and then it, as its— as the ceremony is finished, and you know you say some words and the bodies all burn in this pyre, it vanishes."
+        },
+        {
+          "startUid": "u1492",
+          "endUid": "u1504",
+          "quote": "So so, as you begin to cast the spell, you see it starts out what looks to you like little just like little sparks kind of running around the ground underneath the tree almost like fireflies just kind of floating there like just kind of flitting around and occasionally a sparkle kind of disappear as your as as you cast the spell. Once you cast the spell this sort of take some time to build up that the ground grows in the ground like just right around the tree becomes like thick and lush. Begins to grow and these sparks sort of start climbing up the tree and you see like almost like like little bits of flame like shooting up the bark, initially fading and then one sort of shoots up all the way and you see a bud and then a leaf began to grow on a branch, and then it quickly sort of turns to this flame red color. And you wait another 30 seconds, minute, a few more sparks run out and a few more leaves began to grow and turn the sort of flame red. And after maybe five or 10 minutes, like the whole tree now there's like it's not like fully leaf out but there's hundreds of these flame red leaves."
+        },
+        {
+          "startUid": "u1569",
+          "endUid": "u1570",
+          "quote": "So you set around the you know the fire, the fire of the funeral pyres dies down and you make yourself a little camp fire and a sheltered spot and some nice food."
+        }
+      ],
+      "place": "p06",
+      "note": "The rest is located only to the village, rather than a uniquely identified house."
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1641",
+        "endUid": "u1647"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Travel slowly overnight from the village to the Battle of Dark Fire clearing, reaching it shortly after dawn.",
+      "evidence": [
+        {
+          "startUid": "u1641",
+          "endUid": "u1647",
+          "quote": "Okay, so you you begin you set out overnight travel— presuming you don't want to arrive there in the middle of the night, so travel somewhat slowly so you'll arrive there around dawn, yeah, shortly after dawn. As you so again the forest is is just as quiet as it was before. Nothing moving no sounds I'm not even wind, now it seems to be just still. And as you begin to come close to where you think the battle of the dark fire battlefield is, anything else you want to do?"
+        },
+        {
+          "startUid": "u1649",
+          "endUid": "u1650",
+          "quote": "So, as you step into the…"
+        },
+        {
+          "startUid": "u1656",
+          "endUid": "u1662",
+          "quote": "Now, as you step into this clearing you see this giant battlefield this very large opening probably what like a hundred, a hundred and forty, a hundred and fifty feet across. In the center of this are two, two large rocks two large boulders that are like black. Absolutely massive body of some enormous demon lying in the center of the I'm."
+        },
+        {
+          "startUid": "u1663",
+          "endUid": "u1672",
+          "quote": "Looking around the edge of the forest in this clearing, you can see that the trees themselves are you know everything looks kind of slightly scorch slightly burned. That massive dead demon its flesh is blackened and scorched. There are roots and vines growing over it, there are but they're not they're not sort of natural roots. They look like sort of blackened tendrils of something and they're growing out from it sort of making a web that stretches out to the sort of edges of the forest and touches like you know this tree here this tree here all of the trees that are growing in this clearing have these like tendrils of of this sort of black wrapping around them. There's the scent of rot and char in the clearing. Some of these trees here some of the trees in the center, especially the ones closest to the demon body seem to move slightly like they'll take a small step sort of sway slightly not moving with the wind. Around that demons wrist here, you can see one of these shadow armbands, but the black tendrils grow sort of tight around it, entwining this armband, so you'll have to— it is not so simple to just remove from from the wrist of this creature."
+        }
+      ],
+      "from": "p03",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Continue through the still, silent forest overnight.",
+          "place": "p01"
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u3128",
+        "endUid": "u3133"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Escape the Dark Fire clearing eastward, with hunting-cat spirits distracting pursuit, and stop when nothing is following.",
+      "evidence": [
+        {
+          "startUid": "u3103",
+          "endUid": "u3124",
+          "quote": "Okay, so as the as the as the bracelet melts you see kind of right rushing out of it a a bobcat that like runs in a circle once around you all. You each get a— once while you are still in the Forest of Nightmares you can reroll a d20 that's like one luck. That'll go away if you leave the forest. And then you also each get your Yezali magic item. And then, as it is running around it sort of spirals up. It and as it does that it sort of um let's see it pounces on this thing which gets destroyed, and that it— it sort of spirals through and into Delwath's shield, and for a minute, you see the Lynx form that is painted on the front of his shield, like its mouth, it's like head shift and its mouth open and it roars. And it gives a howl and a blast of wind shoots this way knocks this thing back like 20 feet. But you get the sense like you know getting out of here is the thing to do. Is these— these creatures won't be able to follow, far from the demon, right? Or not— they don't disappear, just because the bracelet."
+        },
+        {
+          "startUid": "u3128",
+          "endUid": "u3133",
+          "quote": "So, as you run dashing out of this clearing and getting the sense that there are there you almost get the sense that there's like two or three or maybe four hunting cats following behind you and every now and then one sort of peels off and distracts anything that might be chasing you until after about a mile of dashing East you pause for a minute in the silence and realize that, for the past 10 minutes past— two or three minutes nothing's been following you, and you can pause and take a breather. And I think, given that it is a little later than I wanted to go, we'll stop there for tonight and we'll pick it up in two weeks."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "run",
+      "distance": {
+        "value": 1,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM describes the completed dash eastward."
+      }
+    }
+  ]
+}
