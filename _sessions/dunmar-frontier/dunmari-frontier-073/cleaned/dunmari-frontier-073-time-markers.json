@@ -1,0 +1,392 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-073",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-073/cleaned/dunmari-frontier-073-session.yaml",
+    "sessionYamlSha256": "7a871c2f66a87d08ad572eef87b97bcbfb0ef1f4a37f3b969abfa5af9013ae2a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-073/cleaned/dunmari-frontier-073-transcript.md",
+    "transcriptSha256": "e62cd6b05151c863c5cca0385097c676e09ee367c9dd8b8d5db8a2c1c80f0a8b",
+    "yamlDates": {
+      "start": "1748-11-24",
+      "end": "1748-11-24"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u0016"
+      },
+      "reading": "The party is at its sheltered palace camp in mid-morning on a cold November day.",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0016",
+          "quote": "We begin mid-morning on a cold and clear November day high in the mountains, the weak sun shining on a ruined giant's palace."
+        },
+        {
+          "startUid": "u0306",
+          "endUid": "u0310",
+          "quote": "so there's mid-morning right? So you've got the sun shining."
+        }
+      ],
+      "time": {
+        "partOfDay": "mid-morning",
+        "date": {
+          "month": 11
+        },
+        "precision": "approximate",
+        "basis": "DM opening and repeated mid-morning description; only November is spoken."
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0017",
+        "endUid": "u0025"
+      },
+      "reading": "Narration enters the Ice Maiden’s remembered winters, distinct from the current adventure clock.",
+      "evidence": [
+        {
+          "startUid": "u0017",
+          "endUid": "u0025",
+          "quote": "DM: You see light snow blowing around a man walking alone and struggling to climb the sloping road, really more of a track that zigzags up the side of the mountains towards the High Pass. His horse is limping, favoring her left side, and the man walks beside her, trying to encourage her up the slope. Although dressed in a heavy woollen cloak and warm boots, he shivers occasionally looking up in the mountains. The weather isn't a serious threat to him—not yet. But as you and your memory of the Ice Maiden begin to blow on the ice in your hand, it crackles hissing and spattering, and the air begins to freeze. A gentle wave, and the frozen air drifts, growing and gathering into a storm cloud, then a blizzard. The traveler looks with dismay as the weather turns, the snow picking up, visibility dropping to nothing. Soon his body will be frozen on the road, and the slithering shadows below will have their fill of his last dreams of despair before his peaceful slide into never ending sleep."
+        },
+        {
+          "startUid": "u0026",
+          "endUid": "u0030",
+          "quote": "Another memory, another image of a traveler freezing in the mountains. Again and again the years drifting back"
+        }
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0026",
+        "endUid": "u0030"
+      },
+      "reading": "The crackling fire returns the party from the memories to the current camp moment.",
+      "evidence": [
+        {
+          "startUid": "u0026",
+          "endUid": "u0030",
+          "quote": "the crackle of the fire shakes you awake, and you look around at your companions, glad to see living flesh and blood and not frozen corpses. As you shake yourselves awake, back to awareness of the current moment from this memory."
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t01"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0087",
+        "endUid": "u0089"
+      },
+      "reading": "The opening short rest is completed; hit-die rolls may already have been made at the previous session’s end.",
+      "evidence": [
+        {
+          "startUid": "u0087",
+          "endUid": "u0089",
+          "quote": "DM: So, as you finish your short rest, if if you didn't do it at the end of last session, go ahead, I think— Looks like everybody already rolled hit dice and stuff.\n\nSeeker: I think that's true."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Short-rest convention for the explicitly completed rest, not an extra hour after the opening."
+      },
+      "completion": "completed",
+      "note": "The rest began before its completion is announced; the transcript does not establish how much of it preceded the opening."
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0154",
+        "endUid": "u0163"
+      },
+      "reading": "Wellby searches the icy area for ten to fifteen minutes while Delwath spends ten minutes detecting magic and Seeker investigates.",
+      "evidence": [
+        {
+          "startUid": "u0154",
+          "endUid": "u0155",
+          "quote": "DM: Even as, Wellby, you're searching over 10 or 15 min here, like some of them are beginning to melt. And you you all hear this like, as one, like cracks and splits in 2, so it's not like there's anything inside it. It's just solid ice."
+        },
+        {
+          "startUid": "u0157",
+          "endUid": "u0163",
+          "quote": "DM: There is a— so Delwath spends the 10 min while Seeker's poking around, and Wellby is poking around meditating. And as your sort of magic sight— you open your eyes to your magic sight, it's not— No one object is glowing strongly the way you're used to seeing sort of like the way your shield glows, or the way Kenzo's staff glows or something like that. But there's kind of a faint magical aura that just lingers over this entire icy area in the back."
+        }
+      ],
+      "duration": {
+        "min": 10,
+        "minInclusive": true,
+        "max": 15,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates the search interval and explicitly places Delwath’s ten minutes alongside Seeker and Wellby."
+      },
+      "actors": [
+        "Wellby",
+        "Delwath",
+        "Seeker"
+      ],
+      "completion": "completed",
+      "note": "The exact onset of sleep is not stated; experienced search time does not independently measure waking-world time."
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0574",
+        "endUid": "u0590"
+      },
+      "reading": "A twenty-minute library survey is accepted and played out while awaiting the scouting moth, within the subsequently revealed dream.",
+      "evidence": [
+        {
+          "startUid": "u0574",
+          "endUid": "u0583",
+          "quote": "DM: How much time do you want to spend doing this? Well—\n\nDelwath: 20 min until the until the moth is either due back or missing. I think. Great. I mean, do you guys think we should do something different?\n\nSeeker: You know, I mean, we're using up the ladder time. But that's inevitable. Yeah.\n\nDelwath: Right. The moth has an hour to— I mean, we don't have to do it. I just figure 20 min seems like a reasonable amount of time to—\n\nRiswynn: Yeah, I think it's reasonable, and plus we care about learning how to operate skyships."
+        },
+        {
+          "startUid": "u0585",
+          "endUid": "u0590",
+          "quote": "DM: Yeah, let's—I mean, you—you find the one that Hralgar described. That—that's very technical. It—it doesn't—it doesn't make a ton of sense to you, Delwath, and [garbled]. It's very—it has this very sort of dry technical language that's describing the exact arrangement of different ores that need to be in place in order to create the correct channel for phasing energy."
+        },
+        {
+          "startUid": "u0739",
+          "endUid": "u0740",
+          "quote": "Delwath: Yeah, I mean, what else are we going to do? Did the—did the moth come back?\n\nDM: Nope."
+        }
+      ],
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Accepted study/wait allocation, followed by the pillar survey and confirmation that the moth has not returned; dream-local rather than measured waking time."
+      },
+      "context": "vision",
+      "completion": "completed"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1805",
+        "endUid": "u1810"
+      },
+      "reading": "In the dream challenge, the water-bird collision steams for about a minute before turning to ice.",
+      "context": "vision",
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates that the transformation steams “for a minute”; this is dream-experienced time, not an additional waking-world minute."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1805",
+          "endUid": "u1810",
+          "quote": "Water bird begins to dive towards it, the flames go out, and for a minute it steams, and then it turns to ice and pops up, floating on the surface of the bird, as the bird is diving down, is just floating along the back of this water bird."
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1841",
+        "endUid": "u1844"
+      },
+      "reading": "After the dream capture, the apparent library return has early-afternoon light; the later dream mirror and sleeping bodies reveal a false awakening.",
+      "evidence": [
+        {
+          "startUid": "u1841",
+          "endUid": "u1844",
+          "quote": "DM: The—but lighting up the sort of rubble and and and everything sort of strewn around the the, the—it's—it's probably like early afternoon light at this, you know, at this point the 12 pillars you can see now in the in the sunlight are decorated with the sort of brilliant colors."
+        },
+        {
+          "startUid": "u1864",
+          "endUid": "u1868",
+          "quote": "DM: So Delwath pricks his finger, and drops a drop of blood in—well, you need—you pour some water out into the dream mirror, pricks his finger, drops a drop of blood into the dream mirror. And you see— I guess you see the library."
+        },
+        {
+          "startUid": "u1921",
+          "endUid": "u1924",
+          "quote": "DM: You. You fly up. And you see you see your campfire, and you see 5 sleeping figures. You—4 of you are like covered mostly covered in ice. Seeker is not."
+        }
+      ],
+      "time": {
+        "partOfDay": "early afternoon",
+        "precision": "approximate",
+        "basis": "DM describes the apparent light in the dream library; this does not establish the waking world’s clock."
+      },
+      "context": "vision"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2026",
+        "endUid": "u2063"
+      },
+      "reading": "The party truly wakes on the same day; the DM revises “late afternoon” and “3 or 4” to about 2 p.m., two or three hours before sunset.",
+      "evidence": [
+        {
+          "startUid": "u2026",
+          "endUid": "u2029",
+          "quote": "DM: So we got—you, you all—you all wake up. You see Seeker just sitting up and Delwath like is in the process of like piling warm clothes around you and has relit the fire.\n\nDM: Wellby and Kenzo, you both have taken 36 points of cold damage, and Riswynn, 40 points of cold damage."
+        },
+        {
+          "startUid": "u2048",
+          "endUid": "u2052",
+          "quote": "Wellby: How much time has passed? Has it only has it been less than one day or more?\n\nDM: It's late afternoon.\n\nDelwath: You don't know if it's been more than one day or not. Don't we have the—we should try to turn into the wind.\n\nDM: Yes, you can turn into wind.\n\nWellby: So it has been less than one day. Good call. We have a couple of magic items now to track time. Right?"
+        },
+        {
+          "startUid": "u2058",
+          "endUid": "u2063",
+          "quote": "DM: But it seems to be like, say, 3 or 4 in the afternoon on the same day. So you still have, you know, a couple hours before, so maybe well, I'll say it's like 2 in the afternoon, given that it's getting towards winter. The days are—well, you're far enough south. The days aren't super short, so you probably have, like 2 or 3 h before sunset. So if you want to fly back today, you've got maybe an hour or 2 maximum in the library."
+        }
+      ],
+      "time": {
+        "clock": "14:00",
+        "precision": "approximate",
+        "basis": "Accepted DM correction to about 2 in the afternoon on the same day."
+      },
+      "dateBoundaries": 0,
+      "note": "Late afternoon and 3 or 4 p.m. are superseded suggestions, retained in the evidence rather than treated as competing accepted clocks."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2067",
+        "endUid": "u2087"
+      },
+      "reading": "Seeker and Delwath complete an hour copying and translating the control instructions while Wellby, Kenzo and Riswynn search and recover three books.",
+      "evidence": [
+        {
+          "startUid": "u2067",
+          "endUid": "u2076",
+          "quote": "DM: So the the wait, we checked the hole for—the phasing stone's in there. Okay. So the copying out the like detailed instructions for how to construct these channeling devices to pilot the the skieship is is going to take, probably is going to take the Seeker and Delwath an hour if you want to make sure you get everything right and get all the technical details properly written in Seeker's notebook. And you sort of both have to do it because Delwath has to translate and Seeker has to interpret it as—"
+        },
+        {
+          "startUid": "u2078",
+          "endUid": "u2087",
+          "quote": "DM: That gives the 3 of you the other 3 people time for whatever you want to do.\n\nWellby: Do we—we were aware that there was a little book here, little book here. I can't remember what it was good for—it—\n\nDM: It was Hralgar's notes about the history of the the skieship that crashed. You know.\n\nWellby: We want that absolutely.\n\nSeeker: The vehicle is.\n\nRiswynn: Worth keeping an eye out for that in particular.\n\nDM: Given that you have an hour to search, that's enough time that you can, you know, divide the library into quadrants, and carefully, and, you know, go through every piece of rubble until you turn it up. So I'm not. You know [garbled]. And it's not a small thing. It's not a small thing, right? So you you do—you do find this book. You find 2 other seemingly intact, at least not too badly damaged giant books. So 3 total books of roughly the size of this like four-ish foot size book."
+        },
+        {
+          "startUid": "u2116",
+          "endUid": "u2120",
+          "quote": "DM: So you find you collect those 3 giant books and put them for later study in the portable hole and get your translation of the your translation of the pillar, the central pillar. But you don't—you don't really have time to translate any of the other pillars. If you want to get back before sunset, is—you can see the sun already dipping low in the sky, and Hralgar never really explained what would happen if you were still flying as clouds when the sun set. And you're not exactly tempted to risk it. Maybe you are tempted to risk it. No, no, no."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM allocates one hour to transcription and the parallel search, then confirms both completed."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2122",
+        "endUid": "u2131"
+      },
+      "reading": "At departure for the skyship, about seven hours have passed since waking that morning and saying goodbye to Hralgar.",
+      "evidence": [
+        {
+          "startUid": "u2122",
+          "endUid": "u2131",
+          "quote": "only you know 7 h having passed since you woke up this morning and said goodbye to Hralgar."
+        }
+      ],
+      "duration": {
+        "value": 7,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s accumulated day total as the party packs up and shifts into clouds; includes earlier activity and is not a seven-hour flight."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u2122",
+        "endUid": "u2131"
+      },
+      "reading": "The party departs one to one-and-a-half hours before sunset, flies back across the plains as clouds, and lands in the skyship ruins as sunset begins.",
+      "evidence": [
+        {
+          "startUid": "u2122",
+          "endUid": "u2131",
+          "quote": "DM: So you know, an hour, an hour and a half before sunset, you pack up and you shift into clouds. And you know, only you know 7 h having passed since you woke up this morning and said goodbye to Hralgar. You fly back across the plains, landing in the ruins of the skyship, turning back into your forms as the sun begins to set, with instructions."
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "relative": {
+            "relation": "before",
+            "anchor": "sunset",
+            "offset": {
+              "min": 1,
+              "minInclusive": true,
+              "max": 1.5,
+              "maxInclusive": true,
+              "unit": "hour",
+              "precision": "approximate",
+              "basis": "Narrated departure margin before sunset."
+            }
+          },
+          "precision": "approximate",
+          "basis": "DM’s departure margin."
+        },
+        "end": {
+          "partOfDay": "sunset",
+          "precision": "approximate",
+          "basis": "Explicit landing as the sun begins to set."
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u2150",
+        "endUid": "u2153"
+      },
+      "reading": "The party settles in for the evening at the skyship ruins; several days of repairs remain future work.",
+      "evidence": [
+        {
+          "startUid": "u2150",
+          "endUid": "u2153",
+          "quote": "DM: So as you settle in for the evening, I I think this is a good place to stop. People are, you know, tired, but realizing that over the next couple of days you'll need to, you know, get them— This is, you know you're probably gonna need 3 or 4 days to construct this."
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "DM advances to settling in for the evening after the sunset arrival."
+      }
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "November is independently spoken. The year and day, 1748-11-24, come from YAML. The DM explicitly confirms the waking return is on the same day; dreams and Ice Maiden memories do not extend the adventure calendar.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": 0,
+    "evidence": [
+      "t01",
+      "t08",
+      "t10",
+      "t11",
+      "t12"
+    ],
+    "explanation": "The covered adventure runs from the opening mid-morning camp through a same-day waking, afternoon library study and sunset return, ending in the evening. The seven-hour total refers back to waking that morning. Proposed multi-day repairs and future journeys are not performed."
+  }
+}

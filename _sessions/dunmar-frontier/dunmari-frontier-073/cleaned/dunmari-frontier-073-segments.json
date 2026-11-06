@@ -1,0 +1,129 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-073",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-073/cleaned/dunmari-frontier-073-session.yaml",
+    "sessionYamlSha256": "7a871c2f66a87d08ad572eef87b97bcbfb0ef1f4a37f3b969abfa5af9013ae2a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-073/cleaned/dunmari-frontier-073-transcript.md",
+    "transcriptSha256": "e62cd6b05151c863c5cca0385097c676e09ee367c9dd8b8d5db8a2c1c80f0a8b"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0003"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u0295"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0296",
+        "endUid": "u0305"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0306",
+        "endUid": "u0795"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0796",
+        "endUid": "u0819"
+      },
+      "category": "table_talk",
+      "note": "The player discusses a real-world medical issue; this is not Kenzo experiencing an in-world event."
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0820",
+        "endUid": "u0849"
+      },
+      "category": "session_framing",
+      "note": "A player recap for the returning participant, without advancing events."
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0850",
+        "endUid": "u0863"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0864",
+        "endUid": "u1003"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1004",
+        "endUid": "u1047"
+      },
+      "category": "table_talk",
+      "note": "The shared u1004–u1005 group begins with a brief Kenzo clarification and turns to the sustained ChatGPT interruption."
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1048",
+        "endUid": "u1060"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1061",
+        "endUid": "u1296"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u1297",
+        "endUid": "u1309"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u1310",
+        "endUid": "u2153"
+      },
+      "category": "gameplay",
+      "note": "Kurome’s dream-shaping challenge remains active play: no initiative or repeated ordered turn cycle is established. The final mixed turn also advances play into evening."
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2154",
+        "endUid": "u2291"
+      },
+      "category": "meta_discussion",
+      "note": "Postgame destination and campaign-goal discussion; future repairs, journeys and artifact destruction are proposals, not elapsed play."
+    }
+  ]
+}
