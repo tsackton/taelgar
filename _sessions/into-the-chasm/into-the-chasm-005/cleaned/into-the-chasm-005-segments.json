@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "into-the-chasm-005",
+    "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-session.yaml",
+    "sessionYamlSha256": "d8aa66ecc4c0cd15fd219814647b14a20427b48ff1ae6d8b5469844048540ebe",
+    "transcriptPath": "_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-transcript.md",
+    "transcriptSha256": "79741912e120b66be6168ab6f92155e3c5c2324077837eb101ae9a391e411a9b"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0004"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0005",
+        "endUid": "u0179"
+      },
+      "category": "gameplay",
+      "note": "The opening describes the party’s current view and resolves Ekko’s earlier contact with Eidrikas; it is interwoven with active play rather than a standalone recap."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0180",
+        "endUid": "u0196"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0197",
+        "endUid": "u0268"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0269",
+        "endUid": "u0276"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0277",
+        "endUid": "u0293"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0294",
+        "endUid": "u0308"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0309",
+        "endUid": "u1623"
+      },
+      "category": "gameplay",
+      "note": "Brief technical interruptions and map setup remain within the active exploration and attack preparation."
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1624",
+        "endUid": "u2749"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2750",
+        "endUid": "u2755"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2756",
+        "endUid": "u2850"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
