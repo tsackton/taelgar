@@ -30,7 +30,7 @@
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
             "startUid": "u0110",
-            "endUid": "u0122"
+            "endUid": "u0121"
           }
         },
         {
@@ -45,7 +45,7 @@
           "source": {
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-            "startUid": "u0927",
+            "startUid": "u0925",
             "endUid": "u0932"
           }
         },
@@ -62,15 +62,15 @@
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
             "startUid": "u1352",
-            "endUid": "u1380"
+            "endUid": "u1405"
           }
         },
         {
           "source": {
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-            "startUid": "u1400",
-            "endUid": "u1405"
+            "startUid": "u1589",
+            "endUid": "u1611"
           }
         },
         {
@@ -109,8 +109,16 @@
           "source": {
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-            "startUid": "u0902",
-            "endUid": "u0948"
+            "startUid": "u0907",
+            "endUid": "u0923"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0933",
+            "endUid": "u0943"
           }
         },
         {
@@ -126,7 +134,7 @@
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
             "startUid": "u1080",
-            "endUid": "u1111"
+            "endUid": "u1117"
           }
         }
       ],
@@ -162,7 +170,7 @@
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
             "startUid": "u0475",
-            "endUid": "u0491"
+            "endUid": "u0492"
           }
         }
       ],
@@ -199,7 +207,7 @@
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
             "startUid": "u1923",
-            "endUid": "u1945"
+            "endUid": "u1948"
           }
         }
       ],
@@ -207,11 +215,11 @@
         "confidence": "medium",
         "status": "automatedReviewed"
       },
-      "confidenceExplanation": "The reported minion and final beast are plausibly the same target, but its nature and connection to the forming copies remain unconfirmed.",
       "names": [
         "Zeyfa's minion",
         "Zeyfa's beast"
-      ]
+      ],
+      "confidenceExplanation": "The party treats the emerging beast as its expected target, but that identification and its relationship to the ice copies remain unconfirmed."
     },
     {
       "id": "e005",
@@ -326,7 +334,7 @@
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
             "startUid": "u1137",
-            "endUid": "u1157"
+            "endUid": "u1159"
           }
         }
       ],
@@ -376,50 +384,13 @@
         "confidence": "medium",
         "status": "automatedReviewed"
       },
-      "confidenceExplanation": "Its recovery follows the dead man’s request for a token, but the party does not explicitly identify this ring as that token."
-    },
-    {
-      "id": "e011",
-      "kind": "item",
-      "label": "Romil’s glowing token carried by Kalima",
-      "importance": "cameo",
-      "occurrences": [
-        {
-          "source": {
-            "kind": "transcript",
-            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-            "startUid": "u0041",
-            "endUid": "u0045"
-          }
-        },
-        {
-          "source": {
-            "kind": "transcript",
-            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-            "startUid": "u0060",
-            "endUid": "u0063"
-          }
-        },
-        {
-          "source": {
-            "kind": "transcript",
-            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
-            "startUid": "u0927",
-            "endUid": "u0932"
-          }
-        }
-      ],
-      "review": {
-        "confidence": "medium",
-        "status": "automatedReviewed"
-      },
-      "confidenceExplanation": "The blessed light is meaningful to Kalima’s prayer and fear, though its ongoing use could also be treated as incidental illumination."
+      "confidenceExplanation": "Its significance beyond ordinary loot is inferred from the preceding request for a personal token; the party never explicitly connects the ring to that request."
     }
   ],
   "exclusions": [
     {
       "label": "Ice fern plucked by Eolo",
-      "reason": "The magical-looking growth becomes an ordinary icicle when plucked; brief examination establishes no continuing identity, plot role, or meaningful magical acquisition.",
+      "reason": "The flexible ice growth becomes an ordinary icicle when plucked; examination establishes no lasting individual identity or significant magical acquisition.",
       "occurrences": [
         {
           "source": {
@@ -433,7 +404,7 @@
     },
     {
       "label": "Wind creatures and forming ice copies",
-      "reason": "Anonymous hostile creatures lack distinct individual identities. Their appearances and evasion remain source events, not separate NPCs or an organization.",
+      "reason": "Anonymous hostile forms lack distinct individual identities; coordinated appearance alone does not establish an organization.",
       "occurrences": [
         {
           "source": {
@@ -455,7 +426,7 @@
     },
     {
       "label": "Ekko’s beast amulet",
-      "reason": "An explanation of standard shapeshifting benefits and routine wearing, with no new acquisition or in-world item lore established in this session.",
+      "reason": "Standard benefits and routine wearing of existing PC equipment establish no acquisition, original lore, or separate plot role.",
       "occurrences": [
         {
           "source": {
@@ -477,7 +448,7 @@
     },
     {
       "label": "Jrain’s levitation cloak",
-      "reason": "Routine use of a PC magic item to cross the fissure does not establish a separate qualifying item event.",
+      "reason": "Routine use of existing PC equipment to cross the fissure supplies no independent qualifying item event.",
       "occurrences": [
         {
           "source": {
@@ -491,7 +462,7 @@
     },
     {
       "label": "Finnan’s Speak with Dead scroll",
-      "reason": "An existing PC consumable is used for its ordinary spell effect; the substantive exchange belongs to the dead man.",
+      "reason": "An existing PC consumable supplies its ordinary spell effect; the substantive conversation belongs to the dead man.",
       "occurrences": [
         {
           "source": {
@@ -505,7 +476,7 @@
     },
     {
       "label": "Finnan’s object-speaking and beast-lore item",
-      "reason": "Possible standard powers are discussed but no lore is obtained, acquisition made, or distinct item plot established.",
+      "reason": "Standard powers and proposed future uses are discussed, without acquisition, actual lore discovery, or an independent item plot.",
       "occurrences": [
         {
           "source": {
@@ -527,7 +498,7 @@
     },
     {
       "label": "Seeker and the Philosopher’s Guild",
-      "reason": "Cross-campaign jokes and hypothetical comparisons do not establish an in-world encounter or substantive identity-bearing discussion in this session.",
+      "reason": "Cross-campaign jokes and hypothetical comparisons establish no encounter or substantive in-world discussion of these referents.",
       "occurrences": [
         {
           "source": {
@@ -557,7 +528,7 @@
     },
     {
       "label": "Melusa and its inhabitants",
-      "reason": "The village is discussed as a place; shared residence and sacrifice customs do not establish a distinct organization for this inventory.",
+      "reason": "The village and its residents are place references; sacrifice customs do not establish a separately identified organization.",
       "occurrences": [
         {
           "source": {
@@ -579,7 +550,7 @@
     },
     {
       "label": "Recovered weapons, arrows, armor and torches",
-      "reason": "Ordinary scavenged supplies without individual histories or a distinct plot identity; the potentially meaningful silver ring is retained separately.",
+      "reason": "Ordinary scavenged equipment has no distinct plot identity; the potentially significant personal ring is assessed separately.",
       "occurrences": [
         {
           "source": {
@@ -593,7 +564,7 @@
     },
     {
       "label": "Finnan’s ocarina, the lit arrow and Justas’s bracelet charm",
-      "reason": "Routine light-spell targets and character equipment, with no new acquisition or item lore.",
+      "reason": "Routine character equipment and light-spell targets have no independent acquisition, lore, or plot role in this session.",
       "occurrences": [
         {
           "source": {
@@ -609,6 +580,58 @@
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
             "startUid": "u0184",
             "endUid": "u0196"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Romil’s glowing token carried by Kalima",
+      "reason": "The rock or token provides ongoing PC light-spell illumination. Kalima’s prayer and fearful clutching characterize her, without establishing a separate item acquisition, original lore, or plot function.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0041",
+            "endUid": "u0045"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0060",
+            "endUid": "u0063"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0361",
+            "endUid": "u0361"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0927",
+            "endUid": "u0932"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Memory of the Ancestors",
+      "reason": "Routine expenditure of an existing PC ability or item retrieves historical knowledge; no independent acquisition or item lore is established.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1118",
+            "endUid": "u1125"
           }
         }
       ]

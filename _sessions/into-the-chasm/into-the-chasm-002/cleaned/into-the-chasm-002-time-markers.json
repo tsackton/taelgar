@@ -18,12 +18,12 @@
         "startUid": "u0041",
         "endUid": "u0045"
       },
-      "reading": "The party begins with a completed short rest already credited; its placement within the session boundary is uncertain.",
+      "reading": "The opening retrospectively credits a completed short rest before the party enters the labyrinth; it does not narrate a new rest.",
       "duration": {
         "value": 1,
         "unit": "hour",
         "precision": "exact",
-        "basis": "one-hour short-rest convention; not a measured interval"
+        "basis": "one-hour short-rest convention; the interval is already completed at the opening"
       },
       "completion": "completed",
       "evidence": [
@@ -37,7 +37,8 @@
           "endUid": "u0046",
           "quote": "Finnan: Yep."
         }
-      ]
+      ],
+      "note": "The current transcript does not independently place the credited interval inside or before its covered opening boundary."
     },
     {
       "id": "t02",
@@ -45,7 +46,7 @@
         "startUid": "u0239",
         "endUid": "u0243"
       },
-      "reading": "Finnan takes about a minute to compare the air flowing through the four branches.",
+      "reading": "Finnan spends about a minute checking wind in the four branches.",
       "actors": [
         "Finnan"
       ],
@@ -53,7 +54,7 @@
         "value": 1,
         "unit": "minute",
         "precision": "approximate",
-        "basis": "Finnan proposes taking a minute; the DM resolves the investigation and reports its result"
+        "basis": "proposed minute of investigation is accepted and resolved by the DM"
       },
       "completion": "completed",
       "evidence": [
@@ -75,7 +76,10 @@
         "startUid": "u1413",
         "endUid": "u1417"
       },
-      "reading": "The first curved passage from the seven-way snowy junction takes a few minutes; the later answer puts travel between these apparent rooms at two or three minutes.",
+      "reading": "The first curved passage takes a few minutes; a later answer gives two or three minutes for walking between the apparent rooms.",
+      "actors": [
+        "party"
+      ],
       "duration": {
         "min": 2,
         "minInclusive": true,
@@ -83,7 +87,7 @@
         "maxInclusive": true,
         "unit": "minute",
         "precision": "approximate",
-        "basis": "narrated few-minute passage, clarified by the later answer about walking between these rooms"
+        "basis": "narrated few-minute transit, clarified by the later answer about the connecting passages"
       },
       "completion": "completed",
       "evidence": [
@@ -103,7 +107,7 @@
           "quote": "DM: 2 or 3 minutes."
         }
       ],
-      "note": "Further loops are played, but their aggregate duration is not stated; this is not a total for the loop sequence."
+      "note": "The room is later identified as the same shifting junction. The two-to-three-minute figure describes a passage, not the total of all repeated loops."
     },
     {
       "id": "t04",
@@ -111,12 +115,15 @@
         "startUid": "u1740",
         "endUid": "u1741"
       },
-      "reading": "The party slides into the darkness for about a minute before emerging into the large chamber.",
+      "reading": "The party slides for about a minute before emerging above the large black-stone chamber.",
+      "actors": [
+        "party"
+      ],
       "duration": {
         "value": 1,
         "unit": "minute",
         "precision": "approximate",
-        "basis": "DM narrates a minute of sliding"
+        "basis": "DM narrates a minute of actual sliding"
       },
       "completion": "completed",
       "evidence": [
@@ -131,12 +138,12 @@
           "quote": "DM: You come out, you slide down, you come out, and you're standing in a room… I'm just thinking about timing."
         }
       ],
-      "note": "The subsequent music-search interruption does not establish an additional slide interval."
+      "note": "The scheduling and music interruptions add no separate in-world interval; later narration clarifies that the outlet is above the floor."
     }
   ],
   "yamlCheck": {
     "status": "compatible",
-    "dateAnchor": "January 25, 1730 comes only from session YAML; no date or clock is independently spoken for current play.",
+    "dateAnchor": "The current transcript speaks no civil date or usable watch. January 25, 1730 is supplied by the YAML.",
     "expectedDateBoundaries": 0,
     "supportedDateBoundaries": null,
     "evidence": [
@@ -145,7 +152,7 @@
       "t03",
       "t04"
     ],
-    "explanation": "Continuous labyrinth exploration is compatible with the same-day YAML span, but sparse elapsed intervals and no civil-time anchor do not establish an exact date-boundary total. Opening short-rest credit may belong to the preceding session; historical sunrise sacrifices do not date this play."
+    "explanation": "Continuous labyrinth exploration and the short narrated intervals fit the same-day YAML span, but do not establish its complete calendar coverage. The opening rest is already credited; the corpse’s sunrise sacrifice is historical testimony, not a current sunrise."
   },
   "boundaryUncertainties": [
     {
@@ -153,13 +160,13 @@
       "evidence": [
         "t01"
       ],
-      "reading": "The opening says everyone has already short-rested without replaying that interval.",
+      "reading": "The current source confirms a completed short rest without replaying it.",
       "alternatives": [
         {
-          "reading": "The rest precedes this session’s covered adventure interval."
+          "reading": "The credited rest precedes this session’s covered interval."
         },
         {
-          "reading": "The opening retrospectively credits a rest included at this session’s start; it supplies no independent civil-date boundary."
+          "reading": "The opening retrospectively includes the previously completed rest; no civil-date transition is independently established."
         }
       ]
     }
