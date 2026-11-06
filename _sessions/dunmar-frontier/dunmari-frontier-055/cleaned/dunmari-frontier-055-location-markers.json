@@ -1,0 +1,841 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-055",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-055/cleaned/dunmari-frontier-055-session.yaml",
+    "sessionYamlSha256": "c22d861897317ed8643eb3065ee7800bdf0612d061e5dca5cd6e13e628cf6bbd",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-055/cleaned/dunmari-frontier-055-transcript.md",
+    "transcriptSha256": "4d26f8342de30b0968efdadbba3f1dc837d0451ccd58e2666fb5ee026df0994b"
+  },
+  "places": {
+    "p01": {
+      "label": "Forest of Nightmares",
+      "kind": "forest",
+      "evidence": [
+        {
+          "startUid": "u1400",
+          "endUid": "u1400",
+          "quote": "Delwath: I mean, if you're gonna summon an army of hobgoblins, to be perfectly honest, the Forest of Nightmares seems like not a bad spot right? Wouldn't they get eaten by the shadows?"
+        },
+        {
+          "startUid": "u1819",
+          "endUid": "u1821",
+          "quote": "DM: The traveling through the through the burnt forest is that the land is open here, because the trees have not regrown and you're able to yep."
+        },
+        {
+          "startUid": "u1870",
+          "endUid": "u1874",
+          "quote": "DM: Through the burnt trees you come to the [garbled] the battlefield on Yemo'te river."
+        }
+      ],
+      "vaultPath": "Gazetteer/Northern Sentinels/Forest of Nightmares.md"
+    },
+    "p02": {
+      "label": "Safe upslope rest site near Darkfire",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u0034",
+          "endUid": "u0034",
+          "quote": "Aristaea: I kind of thought we could start stop by the letter E in Darkfire, all the way over to where you have us."
+        },
+        {
+          "startUid": "u0035",
+          "endUid": "u0038",
+          "quote": "DM: Okay, I mean, you gotta get up a fair—you gotta get up a decent distance upslope before it's safe to rest. But yeah, you could be like more like can I move this."
+        },
+        {
+          "startUid": "u0045",
+          "endUid": "u0048",
+          "quote": "DM: But it's not going to take you you wake up in the morning and you spend the day traveling and get about halfway there spend the night traveling and arrive and arrived sort of mid day. Still having to take a few I mean, you're not gonna walk for 24 hours straight taking a few short pauses right there."
+        }
+      ],
+      "note": "Exact camp is not named. Session 54’s closing escape and Session 55’s upslope-rest discussion identify the departure context; no village arrival is asserted."
+    },
+    "p03": {
+      "label": "Battle of Endless Dark clearing",
+      "kind": "battlefield",
+      "evidence": [
+        {
+          "startUid": "u0006",
+          "endUid": "u0009",
+          "quote": "Aristaea: I stared at it too long once, and part of it might have tried to raise its arm. The Battle of Endless Dark over at Taraka is just such dense forest that I've never penetrated the tangles to see what lies within that battlefield."
+        },
+        {
+          "startUid": "u0051",
+          "endUid": "u0059",
+          "quote": "DM: And as you approach so when you get about I don't know a couple miles from from where you think this battlefield is where Aristaea's traveled before and is leading you, the forest gets—and you've been traveling through this the non burnt part of the forest, but the forest gets very thick. And it starts to get dark, even though it's midday. And you can see, ahead of you there's there's the forest is just very dense and overgrown and it's night dark in the forest."
+        },
+        {
+          "startUid": "u0074",
+          "endUid": "u0082",
+          "quote": "DM: All right, it's just about a mile. A mile from the battlefield. Okay, so like real close. So you don't have you don't have that far to go, but now you're sort of pushing your way through this thick forest it's almost a maze. And it seems like all paths you take lead to the Center you know, you you you know, anywhere you go the forest the sort of little paths that open up through the trees seem to be pushing you towards the middle of the—towards the middle of the forest. Let's get something not quite so um."
+        },
+        {
+          "startUid": "u0110",
+          "endUid": "u0117",
+          "quote": "DM: That's dim light. So you can see two things as you as you begin to approach, one is that there is just dimly in the shadows beyond the the light of the of the light that's glowing on the top of Aristaea's pike is the skeletal body of a massive giant. And near that giant there is a pool of darkness, that seems almost like a well of shadow around the giant. Darkness is just spilling out of that."
+        },
+        {
+          "startUid": "u0162",
+          "endUid": "u0163",
+          "quote": "DM: This is, this is just the forest around here it's just very dense, just you're following a path that that opens up into a small clearing but you're going outside this clearing would be difficult terrain yeah, the ones."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0051",
+              "endUid": "u0059",
+              "quote": "DM: And as you approach so when you get about I don't know a couple miles from from where you think this battlefield is where Aristaea's traveled before and is leading you, the forest gets—and you've been traveling through this the non burnt part of the forest, but the forest gets very thick. And it starts to get dark, even though it's midday. And you can see, ahead of you there's there's the forest is just very dense and overgrown and it's night dark in the forest."
+            },
+            {
+              "startUid": "u0074",
+              "endUid": "u0082",
+              "quote": "DM: All right, it's just about a mile. A mile from the battlefield. Okay, so like real close. So you don't have you don't have that far to go, but now you're sort of pushing your way through this thick forest it's almost a maze. And it seems like all paths you take lead to the Center you know, you you you know, anywhere you go the forest the sort of little paths that open up through the trees seem to be pushing you towards the middle of the—towards the middle of the forest. Let's get something not quite so um."
+            },
+            {
+              "startUid": "u1400",
+              "endUid": "u1400",
+              "quote": "Delwath: I mean, if you're gonna summon an army of hobgoblins, to be perfectly honest, the Forest of Nightmares seems like not a bad spot right? Wouldn't they get eaten by the shadows?"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Shadow plane",
+      "kind": "demiplane",
+      "evidence": [
+        {
+          "startUid": "u0373",
+          "endUid": "u0381",
+          "quote": "DM: Okay, so you step through the portal and you emerge in here. In a flat featureless plane. Um, hold on one SEC sorry."
+        },
+        {
+          "startUid": "u0390",
+          "endUid": "u0402",
+          "quote": "DM: You know it's a group of it's a group of eight hobgoblins that are so so you're in first of all, when you enter the portal you're in this flat featureless plane filled with sort of shadowy mist. Distances are almost impossible to judge. You know you're looking out on the horizon, it could be 50 miles away, it could be 500 feet away you really have no idea. So far in the distance sort of towards the horizon, although whether that's 500 feet or 20 miles, you cannot really see—you see what looks like a immense hobgoblin army at least 1000 goblins and they are they seem to be engaged in some battle with shadowy figures around campfires, like just little campfires that spring up in the hobgoblins move into attack. As they close in there's nothing there and they look around and then there's the campfires have moved like teleported out when it's like this choreographed dance almost looks like where the hobgoblin seem confused somehow um. But it's hard to see, because this is on the horizon and again it's hard to make any sense of distances here. You just see these like flickering points of light that are appearing and blinking out and appearing and blinking out."
+        },
+        {
+          "startUid": "u0404",
+          "endUid": "u0416",
+          "quote": "DM: It's sort of a twilight it's dim light sort of permanently. There's no there's no sense of a sun in the sky or anything like that. There's not really any features on the plane there's like mist that blows through occasionally I'm. Sort of close to the portal you you see this group of eight hobgoblins one this one in the back the wizard who is missing an arm. A front row of of what look like sort of normal troops and then there's like a lieutenant next to the wizard and a sergeant of some kind, with the troops and they seem they look they look like almost like freshly wounded right like they're the hobgoblin wizard is like leaning against the sergeant almost as if he had—or leaning against the captain here as if he has like just recently been wounded. The hobgoblin themselves are sort of organized in a defensive formation, as if they expect something to be bursting through the portal at any moment."
+        }
+      ]
+    },
+    "p05": {
+      "label": "Distant campfire battle in the shadow plane",
+      "kind": "battlefield",
+      "evidence": [
+        {
+          "startUid": "u0390",
+          "endUid": "u0402",
+          "quote": "DM: You know it's a group of it's a group of eight hobgoblins that are so so you're in first of all, when you enter the portal you're in this flat featureless plane filled with sort of shadowy mist. Distances are almost impossible to judge. You know you're looking out on the horizon, it could be 50 miles away, it could be 500 feet away you really have no idea. So far in the distance sort of towards the horizon, although whether that's 500 feet or 20 miles, you cannot really see—you see what looks like a immense hobgoblin army at least 1000 goblins and they are they seem to be engaged in some battle with shadowy figures around campfires, like just little campfires that spring up in the hobgoblins move into attack. As they close in there's nothing there and they look around and then there's the campfires have moved like teleported out when it's like this choreographed dance almost looks like where the hobgoblin seem confused somehow um. But it's hard to see, because this is on the horizon and again it's hard to make any sense of distances here. You just see these like flickering points of light that are appearing and blinking out and appearing and blinking out."
+        },
+        {
+          "startUid": "u1295",
+          "endUid": "u1302",
+          "quote": "DM: So 14 healing for so, looking around now as you as you begin to approach the portal, you can you can almost now hear the sort of whispering coming from this other scene in the distance. And it sounds it almost sounds like like the like the like babble of a brook in the distance and Iascaire you know, seeing the campfires and the brook like you, you sort of feel like you get the sense that this is this is somehow Taraka keeping this hobgoblin army distracted in this other place."
+        },
+        {
+          "startUid": "u1662",
+          "endUid": "u1668",
+          "quote": "DM: And you can see, so you see these like campfires appearing and you sort of watch for a few minutes and see the pattern of them flicking on and off and it's it's like they're sort of moving across the plane. And so you can sort of predict where the next ones are going to appear and head to the sort of leading edge, where the campfires are appearing before the hob goblins close in on them, so you can you can find a spot that's you know, 80 or 90 feet away from the edge of the hobgoblin army and maybe 100 feet even what and head there. Where you'll be in range to cast banish on yourself it's 60 feet right yeah, so you'll still be 100 or 150 feet away from the the leading edge of the army and be able to cast banish on both a both a campfire and yourself."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0390",
+              "endUid": "u0402",
+              "quote": "DM: You know it's a group of it's a group of eight hobgoblins that are so so you're in first of all, when you enter the portal you're in this flat featureless plane filled with sort of shadowy mist. Distances are almost impossible to judge. You know you're looking out on the horizon, it could be 50 miles away, it could be 500 feet away you really have no idea. So far in the distance sort of towards the horizon, although whether that's 500 feet or 20 miles, you cannot really see—you see what looks like a immense hobgoblin army at least 1000 goblins and they are they seem to be engaged in some battle with shadowy figures around campfires, like just little campfires that spring up in the hobgoblins move into attack. As they close in there's nothing there and they look around and then there's the campfires have moved like teleported out when it's like this choreographed dance almost looks like where the hobgoblin seem confused somehow um. But it's hard to see, because this is on the horizon and again it's hard to make any sense of distances here. You just see these like flickering points of light that are appearing and blinking out and appearing and blinking out."
+            },
+            {
+              "startUid": "u1662",
+              "endUid": "u1668",
+              "quote": "DM: And you can see, so you see these like campfires appearing and you sort of watch for a few minutes and see the pattern of them flicking on and off and it's it's like they're sort of moving across the plane. And so you can sort of predict where the next ones are going to appear and head to the sort of leading edge, where the campfires are appearing before the hob goblins close in on them, so you can you can find a spot that's you know, 80 or 90 feet away from the edge of the hobgoblin army and maybe 100 feet even what and head there. Where you'll be in range to cast banish on yourself it's 60 feet right yeah, so you'll still be 100 or 150 feet away from the the leading edge of the army and be able to cast banish on both a both a campfire and yourself."
+            }
+          ]
+        }
+      ],
+      "note": "Distances cannot be measured reliably. The distant army is first observed from near the portal; only Delwath later approaches the campfire front."
+    },
+    "p06": {
+      "label": "Yemo’te",
+      "kind": "river",
+      "evidence": [
+        {
+          "startUid": "u1870",
+          "endUid": "u1874",
+          "quote": "DM: Through the burnt trees you come to the [garbled] the battlefield on Yemo'te river."
+        },
+        {
+          "startUid": "u1875",
+          "endUid": "u1882",
+          "quote": "DM: Looking so as you approach here sort of looking across you can see, let me, let me put out a token for the like on the far side of the river here you there's like like all over here you can see the remains of a battlefield, right? You can see bits of like small mounds where plants have grown over dead bodies; occasionally like a skeletal arm sticking out bits of rusted armor and weapons on the worn—worn down, but still perceptible remains of earthen fortifications are constructed been constructed to guard the crossing. And on this far side of the river here, you can see there's this like white filaments of fungus that sort of grow everywhere I'm coming from the roots of the trees. Some bodies are wrapped in the shriveled cocoons."
+        }
+      ],
+      "vaultPath": "Gazetteer/Northern Sentinels/Yemo'te.md"
+    },
+    "p07": {
+      "label": "Near-bank approach to the broken bridge",
+      "kind": "riverbank",
+      "evidence": [
+        {
+          "startUid": "u1875",
+          "endUid": "u1882",
+          "quote": "DM: Looking so as you approach here sort of looking across you can see, let me, let me put out a token for the like on the far side of the river here you there's like like all over here you can see the remains of a battlefield, right? You can see bits of like small mounds where plants have grown over dead bodies; occasionally like a skeletal arm sticking out bits of rusted armor and weapons on the worn—worn down, but still perceptible remains of earthen fortifications are constructed been constructed to guard the crossing. And on this far side of the river here, you can see there's this like white filaments of fungus that sort of grow everywhere I'm coming from the roots of the trees. Some bodies are wrapped in the shriveled cocoons."
+        },
+        {
+          "startUid": "u1921",
+          "endUid": "u1925",
+          "quote": "DM: Okay, now I'm looking out across the River you see on the far side the skeletons begin to claw their way out of the dirt as you begin to approach, but as they're clawing the way out, you have, you know, a few seconds to do anything if you want to cast any pre battle spells."
+        },
+        {
+          "startUid": "u1950",
+          "endUid": "u1959",
+          "quote": "DM: So the bridge goes as far as here. Okay, and there's a bunch of debris you can walk across. Once you get here it's like double difficult terrain, so it takes 20 feet of movement to move five feet until you get past all this debris here so till you get here. If you just want to wade in the river itself it's just regular difficult terrain until you happen to step somewhere that is deeper than you, and then you are swimming which, basically, is just difficult terrain anyway. Right yeah, although and if there's anything bad in the water, you don't know. I can yeah, you could totally swim across."
+        },
+        {
+          "startUid": "u1972",
+          "endUid": "u1974",
+          "quote": "DM: This is a path. The banks themselves are rocky tumbling down to the bridge, so these except right on the path all of these banks are difficult terrain, on your side that's the remains of the like earthen—earthen defenses on this side, nothing is difficult terrain once you get onto land, I mean, I guess these rocks here."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "on_bank_of",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1870",
+              "endUid": "u1874",
+              "quote": "DM: Through the burnt trees you come to the [garbled] the battlefield on Yemo'te river."
+            },
+            {
+              "startUid": "u1875",
+              "endUid": "u1882",
+              "quote": "DM: Looking so as you approach here sort of looking across you can see, let me, let me put out a token for the like on the far side of the river here you there's like like all over here you can see the remains of a battlefield, right? You can see bits of like small mounds where plants have grown over dead bodies; occasionally like a skeletal arm sticking out bits of rusted armor and weapons on the worn—worn down, but still perceptible remains of earthen fortifications are constructed been constructed to guard the crossing. And on this far side of the river here, you can see there's this like white filaments of fungus that sort of grow everywhere I'm coming from the roots of the trees. Some bodies are wrapped in the shriveled cocoons."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1819",
+              "endUid": "u1821",
+              "quote": "DM: The traveling through the through the burnt forest is that the land is open here, because the trees have not regrown and you're able to yep."
+            },
+            {
+              "startUid": "u1870",
+              "endUid": "u1874",
+              "quote": "DM: Through the burnt trees you come to the [garbled] the battlefield on Yemo'te river."
+            },
+            {
+              "startUid": "u1875",
+              "endUid": "u1882",
+              "quote": "DM: Looking so as you approach here sort of looking across you can see, let me, let me put out a token for the like on the far side of the river here you there's like like all over here you can see the remains of a battlefield, right? You can see bits of like small mounds where plants have grown over dead bodies; occasionally like a skeletal arm sticking out bits of rusted armor and weapons on the worn—worn down, but still perceptible remains of earthen fortifications are constructed been constructed to guard the crossing. And on this far side of the river here, you can see there's this like white filaments of fungus that sort of grow everywhere I'm coming from the roots of the trees. Some bodies are wrapped in the shriveled cocoons."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Far-bank battlefield at Yemo’te",
+      "kind": "battlefield",
+      "evidence": [
+        {
+          "startUid": "u1875",
+          "endUid": "u1882",
+          "quote": "DM: Looking so as you approach here sort of looking across you can see, let me, let me put out a token for the like on the far side of the river here you there's like like all over here you can see the remains of a battlefield, right? You can see bits of like small mounds where plants have grown over dead bodies; occasionally like a skeletal arm sticking out bits of rusted armor and weapons on the worn—worn down, but still perceptible remains of earthen fortifications are constructed been constructed to guard the crossing. And on this far side of the river here, you can see there's this like white filaments of fungus that sort of grow everywhere I'm coming from the roots of the trees. Some bodies are wrapped in the shriveled cocoons."
+        },
+        {
+          "startUid": "u1891",
+          "endUid": "u1895",
+          "quote": "DM: Creature that looks like the remains of a hobgoblin but skeletal, though, like all the flesh falling off its face—it seems to be bound in place by this giant massive white filaments that are wrapped around its arm that looks to hold it in place and stretch into the earth and you do see what looks like a glint of metal among that massive filaments. And that its legs look like they're bound by a massive cocoon, and its head lists to one side, it doesn't seem like it can move, but as you begin to approach it you also notice Iascaire, like its head shifts a little bit and it starts to it seems like it's turning to look at you and there's there's movement on that side of the river, like some of the bones start to shift a little bit and it looks like possibly skeletons are beginning to climb out of the ground."
+        },
+        {
+          "startUid": "u2749",
+          "endUid": "u2755",
+          "quote": "DM: He had 68 points left, so just like, \"I'm bored with this fight.\" And the guy the warlock the creature just kind of melts in this like burst of radiant fire as you as you stab down from from above, with your pike and he just collapses. With with the animating spirit dead, all the other undead also just collapse."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "on_bank_of",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1870",
+              "endUid": "u1874",
+              "quote": "DM: Through the burnt trees you come to the [garbled] the battlefield on Yemo'te river."
+            },
+            {
+              "startUid": "u1875",
+              "endUid": "u1882",
+              "quote": "DM: Looking so as you approach here sort of looking across you can see, let me, let me put out a token for the like on the far side of the river here you there's like like all over here you can see the remains of a battlefield, right? You can see bits of like small mounds where plants have grown over dead bodies; occasionally like a skeletal arm sticking out bits of rusted armor and weapons on the worn—worn down, but still perceptible remains of earthen fortifications are constructed been constructed to guard the crossing. And on this far side of the river here, you can see there's this like white filaments of fungus that sort of grow everywhere I'm coming from the roots of the trees. Some bodies are wrapped in the shriveled cocoons."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1819",
+              "endUid": "u1821",
+              "quote": "DM: The traveling through the through the burnt forest is that the land is open here, because the trees have not regrown and you're able to yep."
+            },
+            {
+              "startUid": "u1870",
+              "endUid": "u1874",
+              "quote": "DM: Through the burnt trees you come to the [garbled] the battlefield on Yemo'te river."
+            },
+            {
+              "startUid": "u1875",
+              "endUid": "u1882",
+              "quote": "DM: Looking so as you approach here sort of looking across you can see, let me, let me put out a token for the like on the far side of the river here you there's like like all over here you can see the remains of a battlefield, right? You can see bits of like small mounds where plants have grown over dead bodies; occasionally like a skeletal arm sticking out bits of rusted armor and weapons on the worn—worn down, but still perceptible remains of earthen fortifications are constructed been constructed to guard the crossing. And on this far side of the river here, you can see there's this like white filaments of fungus that sort of grow everywhere I'm coming from the roots of the trees. Some bodies are wrapped in the shriveled cocoons."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Rest site outside the forest on the return",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u2804",
+          "endUid": "u2811",
+          "quote": "DM: The so over the next like day and a half or so you, you make it back to the village. And, and as you as you arrive back at the village tell us where you started. Like the the tribe is or the you know, the villagers are sort of gathered around watching you and you can you can see that you know, they seem to be aware of your coming and part part way there when you get out of the forest you take a long rest, then remove Curse, swap out your prepared spells and remove curse."
+        }
+      ],
+      "note": "No named settlement or precise position is supplied."
+    },
+    "p10": {
+      "label": "Starting village and altar fire",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u2804",
+          "endUid": "u2811",
+          "quote": "DM: The so over the next like day and a half or so you, you make it back to the village. And, and as you as you arrive back at the village tell us where you started. Like the the tribe is or the you know, the villagers are sort of gathered around watching you and you can you can see that you know, they seem to be aware of your coming and part part way there when you get out of the forest you take a long rest, then remove Curse, swap out your prepared spells and remove curse."
+        },
+        {
+          "startUid": "u2817",
+          "endUid": "u2822",
+          "quote": "DM: And and everybody, you know, everybody in the in the village is sort of sort of gathered around here let's there we go. I'm sort of looking out in awe at you, as the three of you return, and you can see that there's a there's a fire burning in the, like, where there's so there's like this tall tree in the middle of the village that's kind of like the Center of the village green, and there's the altar there. And in front of the altar there's a fire pit and there's a fire burning in the fire, and you can hear sort of whispers coming from the fire of the start of the description of the battles that you fought in the past three or four days."
+        },
+        {
+          "startUid": "u2832",
+          "endUid": "u2837",
+          "quote": "DM: And ah, you know, everybody's you sort of you sort of feel the power of Taraka in in this fire um, bringing the sort of tales and probably now to grow in the telling. And you know, everybody, you are celebrated. There's a there's a giant feast. You all get a nice rest. And that is where we'll end."
+        }
+      ],
+      "note": "Session 55 (DuFr) identifies the final village as Ko’zula in its timeline and narrative; its summary instead says Azkar. The transcript leaves the village unnamed, so that label is retained without a forced vault identity."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0029",
+        "endUid": "u0044"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Rest safely upslope after leaving the Darkfire battlefield.",
+      "evidence": [
+        {
+          "startUid": "u0029",
+          "endUid": "u0029",
+          "quote": "Delwath: So a Tim, did you say we can take a long rest?"
+        },
+        {
+          "startUid": "u0030",
+          "endUid": "u0030",
+          "quote": "DM: Yeah, take a long rest."
+        },
+        {
+          "startUid": "u0035",
+          "endUid": "u0038",
+          "quote": "DM: Okay, I mean, you gotta get up a fair—you gotta get up a decent distance upslope before it's safe to rest. But yeah, you could be like more like can I move this."
+        },
+        {
+          "startUid": "u0040",
+          "endUid": "u0044",
+          "quote": "DM: Yeah, might be like quibbling over this 10 miles yes. I can't seem to move it. I'll just draw another one yeah, so you could be like you could be like here. Like there instead. So you're you're talking about 50 miles, instead of 60 miles."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0045",
+        "endUid": "u0082"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Walk day and night through the unburnt forest and maze to the Endless Dark clearing.",
+      "evidence": [
+        {
+          "startUid": "u0040",
+          "endUid": "u0044",
+          "quote": "DM: Yeah, might be like quibbling over this 10 miles yes. I can't seem to move it. I'll just draw another one yeah, so you could be like you could be like here. Like there instead. So you're you're talking about 50 miles, instead of 60 miles."
+        },
+        {
+          "startUid": "u0045",
+          "endUid": "u0048",
+          "quote": "DM: But it's not going to take you you wake up in the morning and you spend the day traveling and get about halfway there spend the night traveling and arrive and arrived sort of mid day. Still having to take a few I mean, you're not gonna walk for 24 hours straight taking a few short pauses right there."
+        },
+        {
+          "startUid": "u0050",
+          "endUid": "u0050",
+          "quote": "DM: So you arrive late mid day like around 11 or 11 or something like that."
+        },
+        {
+          "startUid": "u0051",
+          "endUid": "u0059",
+          "quote": "DM: And as you approach so when you get about I don't know a couple miles from from where you think this battlefield is where Aristaea's traveled before and is leading you, the forest gets—and you've been traveling through this the non burnt part of the forest, but the forest gets very thick. And it starts to get dark, even though it's midday. And you can see, ahead of you there's there's the forest is just very dense and overgrown and it's night dark in the forest."
+        },
+        {
+          "startUid": "u0074",
+          "endUid": "u0082",
+          "quote": "DM: All right, it's just about a mile. A mile from the battlefield. Okay, so like real close. So you don't have you don't have that far to go, but now you're sort of pushing your way through this thick forest it's almost a maze. And it seems like all paths you take lead to the Center you know, you you you know, anywhere you go the forest the sort of little paths that open up through the trees seem to be pushing you towards the middle of the—towards the middle of the forest. Let's get something not quite so um."
+        },
+        {
+          "startUid": "u0110",
+          "endUid": "u0117",
+          "quote": "DM: That's dim light. So you can see two things as you as you begin to approach, one is that there is just dimly in the shadows beyond the the light of the of the light that's glowing on the top of Aristaea's pike is the skeletal body of a massive giant. And near that giant there is a pool of darkness, that seems almost like a well of shadow around the giant. Darkness is just spilling out of that."
+        },
+        {
+          "startUid": "u0162",
+          "endUid": "u0163",
+          "quote": "DM: This is, this is just the forest around here it's just very dense, just you're following a path that that opens up into a small clearing but you're going outside this clearing would be difficult terrain yeah, the ones."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "walk",
+      "distance": {
+        "value": 50,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM revises the route from 60 to 50 miles"
+      }
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0373",
+        "endUid": "u0416"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Step through the shadow portal and emerge near the wounded hobgoblin company.",
+      "evidence": [
+        {
+          "startUid": "u0373",
+          "endUid": "u0381",
+          "quote": "DM: Okay, so you step through the portal and you emerge in here. In a flat featureless plane. Um, hold on one SEC sorry."
+        },
+        {
+          "startUid": "u0390",
+          "endUid": "u0402",
+          "quote": "DM: You know it's a group of it's a group of eight hobgoblins that are so so you're in first of all, when you enter the portal you're in this flat featureless plane filled with sort of shadowy mist. Distances are almost impossible to judge. You know you're looking out on the horizon, it could be 50 miles away, it could be 500 feet away you really have no idea. So far in the distance sort of towards the horizon, although whether that's 500 feet or 20 miles, you cannot really see—you see what looks like a immense hobgoblin army at least 1000 goblins and they are they seem to be engaged in some battle with shadowy figures around campfires, like just little campfires that spring up in the hobgoblins move into attack. As they close in there's nothing there and they look around and then there's the campfires have moved like teleported out when it's like this choreographed dance almost looks like where the hobgoblin seem confused somehow um. But it's hard to see, because this is on the horizon and again it's hard to make any sense of distances here. You just see these like flickering points of light that are appearing and blinking out and appearing and blinking out."
+        },
+        {
+          "startUid": "u0404",
+          "endUid": "u0416",
+          "quote": "DM: It's sort of a twilight it's dim light sort of permanently. There's no there's no sense of a sun in the sky or anything like that. There's not really any features on the plane there's like mist that blows through occasionally I'm. Sort of close to the portal you you see this group of eight hobgoblins one this one in the back the wizard who is missing an arm. A front row of of what look like sort of normal troops and then there's like a lieutenant next to the wizard and a sergeant of some kind, with the troops and they seem they look they look like almost like freshly wounded right like they're the hobgoblin wizard is like leaning against the sergeant almost as if he had—or leaning against the captain here as if he has like just recently been wounded. The hobgoblin themselves are sort of organized in a defensive formation, as if they expect something to be bursting through the portal at any moment."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "portal"
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0390",
+        "endUid": "u0429"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "See a distant hobgoblin army pursuing disappearing campfires; its perception of the portal group differs.",
+      "evidence": [
+        {
+          "startUid": "u0390",
+          "endUid": "u0402",
+          "quote": "DM: You know it's a group of it's a group of eight hobgoblins that are so so you're in first of all, when you enter the portal you're in this flat featureless plane filled with sort of shadowy mist. Distances are almost impossible to judge. You know you're looking out on the horizon, it could be 50 miles away, it could be 500 feet away you really have no idea. So far in the distance sort of towards the horizon, although whether that's 500 feet or 20 miles, you cannot really see—you see what looks like a immense hobgoblin army at least 1000 goblins and they are they seem to be engaged in some battle with shadowy figures around campfires, like just little campfires that spring up in the hobgoblins move into attack. As they close in there's nothing there and they look around and then there's the campfires have moved like teleported out when it's like this choreographed dance almost looks like where the hobgoblin seem confused somehow um. But it's hard to see, because this is on the horizon and again it's hard to make any sense of distances here. You just see these like flickering points of light that are appearing and blinking out and appearing and blinking out."
+        },
+        {
+          "startUid": "u0421",
+          "endUid": "u0429",
+          "quote": "DM: Yeah, yeah, same language. \"Quick the elven army is coming! Get ready the giants must have fallen. If they are defeated we must flee,\" and they sort of look around it, you you you sort of get the sense that somehow they can't perceive this other hobgoblin army. Like from the conversation you get the sense they think they're the only ones here. The wizard in the back shouts, \"If only that damn giant hadn't taken my armband I could summon our allies. Somehow the other portal must never have opened don't know where they are.\" And then the captain is like, \"Form up troops! Let's fight them anyway.\""
+        },
+        {
+          "startUid": "u1295",
+          "endUid": "u1302",
+          "quote": "DM: So 14 healing for so, looking around now as you as you begin to approach the portal, you can you can almost now hear the sort of whispering coming from this other scene in the distance. And it sounds it almost sounds like like the like the like babble of a brook in the distance and Iascaire you know, seeing the campfires and the brook like you, you sort of feel like you get the sense that this is this is somehow Taraka keeping this hobgoblin army distracted in this other place."
+        }
+      ],
+      "place": "p05",
+      "mode": "local",
+      "observerPlace": "p04"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1320",
+        "endUid": "u1327"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Iascaire tests the portal first; Delwath and companions return to the giant with the wizard’s head.",
+      "evidence": [
+        {
+          "startUid": "u1320",
+          "endUid": "u1320",
+          "quote": "Iascaire: Oh, no that's okay, yeah, I'll step through."
+        },
+        {
+          "startUid": "u1321",
+          "endUid": "u1321",
+          "quote": "DM: You appear back by the giant's ghost totally normally no trouble at all."
+        },
+        {
+          "startUid": "u1322",
+          "endUid": "u1322",
+          "quote": "Iascaire: And I will I will then have my fish do a little like wave with the tail and then through as well."
+        },
+        {
+          "startUid": "u1323",
+          "endUid": "u1323",
+          "quote": "Delwath: Okay, well, I'll step through that."
+        },
+        {
+          "startUid": "u1324",
+          "endUid": "u1327",
+          "quote": "DM: Okay, you're back at the giant's ghost holding the holding the head of the of the hobgoblin wizard and the [garbled]—the giant just lets out this deep sigh sounds well, you can't you can't understand him now ah."
+        }
+      ],
+      "from": "p04",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "portal"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1659",
+        "endUid": "u1679"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Reenter alone, close the portal, approach the campfire front invisibly, then banish himself and Taraka back onto the giant’s skeleton.",
+      "evidence": [
+        {
+          "startUid": "u1659",
+          "endUid": "u1660",
+          "quote": "DM: Ah, so you step into the portal close that right."
+        },
+        {
+          "startUid": "u1662",
+          "endUid": "u1668",
+          "quote": "DM: And you can see, so you see these like campfires appearing and you sort of watch for a few minutes and see the pattern of them flicking on and off and it's it's like they're sort of moving across the plane. And so you can sort of predict where the next ones are going to appear and head to the sort of leading edge, where the campfires are appearing before the hob goblins close in on them, so you can you can find a spot that's you know, 80 or 90 feet away from the edge of the hobgoblin army and maybe 100 feet even what and head there. Where you'll be in range to cast banish on yourself it's 60 feet right yeah, so you'll still be 100 or 150 feet away from the the leading edge of the army and be able to cast banish on both a both a campfire and yourself."
+        },
+        {
+          "startUid": "u1669",
+          "endUid": "u1669",
+          "quote": "Delwath: I will do that."
+        },
+        {
+          "startUid": "u1670",
+          "endUid": "u1679",
+          "quote": "DM: So, as you cast Invisibility and then you know, move forward through the shadowy plane and the army kind of, you know, it—it's this weird sensation that you've actually experienced before where you, you know, you move and it's not clear that time is passing, but somehow you get closer in some indeterminate time and cast your spell. And, as you do, the campfires like flare and you see it like in each each fire there's like the image of warriors fighting and of you know, villages that are long gone of people dancing of you know, yeah, person bathing in in in a stream, and then everything goes black for a second. The fires vanish and you find yourself in a familiar falling sensation as you tumble from 20 feet up in the air down onto the —taking six points of falling damage—down onto the skeleton of the giant."
+        }
+      ],
+      "from": "p03",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "portal, walk and Banishment",
+      "route": [
+        {
+          "place": "p04",
+          "reading": "Reenter the portal and close it from inside."
+        },
+        {
+          "place": "p05",
+          "reading": "Approach the leading campfires while remaining away from the army."
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "presence",
+      "source": {
+        "startUid": "u1680",
+        "endUid": "u1689"
+      },
+      "actors": [
+        "Aristaea",
+        "Iascaire"
+      ],
+      "reading": "Remain outside while the portal closes and light returns to the clearing.",
+      "evidence": [
+        {
+          "startUid": "u1680",
+          "endUid": "u1689",
+          "quote": "DM: And as you do, the the forest itself, like the light [garbled] the two of you notice as soon as the portal is closed, like the sun begins to come out from this forest, the whole thing that's been encased in darkness as you're standing here and the portal closes like slowly the clouds begin to move and the sun comes out. And and as Delwath falls from the sky and the sort of whisper of what sounds like a murmur of a stream of sort of whisper and the wind blows across the trees and the trees are kind of sway sway in the wind."
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1819",
+        "endUid": "u1874"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Travel south through the burnt forest toward the Yemo’te battlefield, stopping to rest before reaching the near bank.",
+      "evidence": [
+        {
+          "startUid": "u1819",
+          "endUid": "u1821",
+          "quote": "DM: The traveling through the through the burnt forest is that the land is open here, because the trees have not regrown and you're able to yep."
+        },
+        {
+          "startUid": "u1825",
+          "endUid": "u1825",
+          "quote": "DM: I mean, you're not going to make you're not going to make a 40 mile journey."
+        },
+        {
+          "startUid": "u1846",
+          "endUid": "u1846",
+          "quote": "Iascaire: Yeah, why don't we do one short rest on this side and see how we feel when we get there."
+        },
+        {
+          "startUid": "u1850",
+          "endUid": "u1856",
+          "quote": "Delwath: Yeah, I seem to have lost my role. So right, we would go straight south like 40 miles, right, yes, we wouldn't cast—we wouldn't fly, I mean, let's like take a short rest somewhere right here. Okay, and then see what we see when we get closer like maybe it would be useful to be flying for a battle right like I mean, I don't."
+        },
+        {
+          "startUid": "u1870",
+          "endUid": "u1874",
+          "quote": "DM: Through the burnt trees you come to the [garbled] the battlefield on Yemo'te river."
+        },
+        {
+          "startUid": "u1875",
+          "endUid": "u1882",
+          "quote": "DM: Looking so as you approach here sort of looking across you can see, let me, let me put out a token for the like on the far side of the river here you there's like like all over here you can see the remains of a battlefield, right? You can see bits of like small mounds where plants have grown over dead bodies; occasionally like a skeletal arm sticking out bits of rusted armor and weapons on the worn—worn down, but still perceptible remains of earthen fortifications are constructed been constructed to guard the crossing. And on this far side of the river here, you can see there's this like white filaments of fungus that sort of grow everywhere I'm coming from the roots of the trees. Some bodies are wrapped in the shriveled cocoons."
+        }
+      ],
+      "from": "p03",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk",
+      "distance": {
+        "value": 40,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM and players describe the inter-battlefield trek"
+      },
+      "route": [
+        {
+          "reading": "Head south through the burnt forest; the broken bridge or a ford is discussed before arrival."
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u1875",
+        "endUid": "u1898"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Look across the river at the cocoon-bound hobgoblin and rising skeletons.",
+      "evidence": [
+        {
+          "startUid": "u1875",
+          "endUid": "u1882",
+          "quote": "DM: Looking so as you approach here sort of looking across you can see, let me, let me put out a token for the like on the far side of the river here you there's like like all over here you can see the remains of a battlefield, right? You can see bits of like small mounds where plants have grown over dead bodies; occasionally like a skeletal arm sticking out bits of rusted armor and weapons on the worn—worn down, but still perceptible remains of earthen fortifications are constructed been constructed to guard the crossing. And on this far side of the river here, you can see there's this like white filaments of fungus that sort of grow everywhere I'm coming from the roots of the trees. Some bodies are wrapped in the shriveled cocoons."
+        },
+        {
+          "startUid": "u1891",
+          "endUid": "u1895",
+          "quote": "DM: Creature that looks like the remains of a hobgoblin but skeletal, though, like all the flesh falling off its face—it seems to be bound in place by this giant massive white filaments that are wrapped around its arm that looks to hold it in place and stretch into the earth and you do see what looks like a glint of metal among that massive filaments. And that its legs look like they're bound by a massive cocoon, and its head lists to one side, it doesn't seem like it can move, but as you begin to approach it you also notice Iascaire, like its head shifts a little bit and it starts to it seems like it's turning to look at you and there's there's movement on that side of the river, like some of the bones start to shift a little bit and it looks like possibly skeletons are beginning to climb out of the ground."
+        },
+        {
+          "startUid": "u1897",
+          "endUid": "u1898",
+          "quote": "DM: Yeah, that specific creature, that seems to be bound up in this sort of mass of half fungi and half some sort of cocoons."
+        }
+      ],
+      "place": "p08",
+      "observerPlace": "p07",
+      "mode": "local"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u2087",
+        "endUid": "u2531"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Fly across the river to the warlock’s bank; Delwath reaches him first, with Iascaire and Aristaea following at different heights.",
+      "evidence": [
+        {
+          "startUid": "u2087",
+          "endUid": "u2089",
+          "quote": "Delwath: Though dash dash 120 feet by basically just skimming not really going, you know, only 10 feet right 10 feet up right like not really."
+        },
+        {
+          "startUid": "u2102",
+          "endUid": "u2103",
+          "quote": "Iascaire: Yeah, I'll uh, I'll dash up as well."
+        },
+        {
+          "startUid": "u2109",
+          "endUid": "u2110",
+          "quote": "Aristaea: Yeah, same, same the air."
+        },
+        {
+          "startUid": "u2162",
+          "endUid": "u2163",
+          "quote": "Delwath: And then attack him that's only 60 so that's my move."
+        },
+        {
+          "startUid": "u2214",
+          "endUid": "u2215",
+          "quote": "Delwath: I should have landed prior to the Wall of Fire. At least five of them can attack me."
+        },
+        {
+          "startUid": "u2476",
+          "endUid": "u2487",
+          "quote": "Iascaire: Yeah, yeah, let's see how far can the far can this guy go you can get 30 can I get 60 over there? Yeah, okay, okay, so I'll move I'll move over here. While I'm doing that I will shoot down into oh, wait that's not gonna work definitely not okay, I'll go over to these ones instead I'm 60 feet up, I thought I can teleport with the fish but it's on the ground and I'm above it uh, over here, I will cast burning hands at these. At these guys so 15 foot cone on them."
+        },
+        {
+          "startUid": "u2503",
+          "endUid": "u2504",
+          "quote": "DM: Yeah, well, yeah, I mean, you got to be a 15 foot cone, to get any of them you've got to be 15 feet above the ground okay, so I'm gonna say you're 15 feet above the ground."
+        },
+        {
+          "startUid": "u2523",
+          "endUid": "u2524",
+          "quote": "Aristaea: All right, I am going to fly almost down, but like still be like five or 10 feet above them but stab down at them with my pike."
+        },
+        {
+          "startUid": "u2530",
+          "endUid": "u2531",
+          "quote": "DM: Okay, so that kills the first skeleton and you stab straight through it and flick your pike up and kill the second skeleton as well."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "fly",
+      "note": "Arrival means reaching the far-bank battlefield. Iascaire and Aristaea initially hover; no common landing is inferred."
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u2804",
+        "endUid": "u2811"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Return to the starting village, leaving the forest and taking a long rest on the way.",
+      "evidence": [
+        {
+          "startUid": "u2804",
+          "endUid": "u2811",
+          "quote": "DM: The so over the next like day and a half or so you, you make it back to the village. And, and as you as you arrive back at the village tell us where you started. Like the the tribe is or the you know, the villagers are sort of gathered around watching you and you can you can see that you know, they seem to be aware of your coming and part part way there when you get out of the forest you take a long rest, then remove Curse, swap out your prepared spells and remove curse."
+        },
+        {
+          "startUid": "u2817",
+          "endUid": "u2822",
+          "quote": "DM: And and everybody, you know, everybody in the in the village is sort of sort of gathered around here let's there we go. I'm sort of looking out in awe at you, as the three of you return, and you can see that there's a there's a fire burning in the, like, where there's so there's like this tall tree in the middle of the village that's kind of like the Center of the village green, and there's the altar there. And in front of the altar there's a fire pit and there's a fire burning in the fire, and you can hear sort of whispers coming from the fire of the start of the description of the battles that you fought in the past three or four days."
+        }
+      ],
+      "from": "p08",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk",
+      "duration": {
+        "value": 1.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM narrates the completed return"
+      },
+      "route": [
+        {
+          "place": "p09",
+          "reading": "Leave the forest, rest, change prepared spells and remove the curse before continuing."
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "presence",
+      "source": {
+        "startUid": "u2804",
+        "endUid": "u2811"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Take the return-journey long rest outside the forest.",
+      "evidence": [
+        {
+          "startUid": "u2804",
+          "endUid": "u2811",
+          "quote": "DM: The so over the next like day and a half or so you, you make it back to the village. And, and as you as you arrive back at the village tell us where you started. Like the the tribe is or the you know, the villagers are sort of gathered around watching you and you can you can see that you know, they seem to be aware of your coming and part part way there when you get out of the forest you take a long rest, then remove Curse, swap out your prepared spells and remove curse."
+        }
+      ],
+      "place": "p09",
+      "relations": [
+        {
+          "type": "during",
+          "target": "l11"
+        }
+      ]
+    }
+  ]
+}

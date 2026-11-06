@@ -1,0 +1,382 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-055",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-055/cleaned/dunmari-frontier-055-session.yaml",
+    "sessionYamlSha256": "c22d861897317ed8643eb3065ee7800bdf0612d061e5dca5cd6e13e628cf6bbd",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-055/cleaned/dunmari-frontier-055-transcript.md",
+    "transcriptSha256": "4d26f8342de30b0968efdadbba3f1dc837d0451ccd58e2666fb5ee026df0994b",
+    "yamlDates": {
+      "start": "1748-10-09",
+      "end": "1748-10-14"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0029",
+        "endUid": "u0030"
+      },
+      "reading": "The party receives a long rest before waking for the journey to Endless Dark.",
+      "evidence": [
+        {
+          "startUid": "u0029",
+          "endUid": "u0029",
+          "quote": "Delwath: So a Tim, did you say we can take a long rest?"
+        },
+        {
+          "startUid": "u0030",
+          "endUid": "u0030",
+          "quote": "DM: Yeah, take a long rest."
+        },
+        {
+          "startUid": "u0045",
+          "endUid": "u0048",
+          "quote": "DM: But it's not going to take you you wake up in the morning and you spend the day traveling and get about halfway there spend the night traveling and arrive and arrived sort of mid day. Still having to take a few I mean, you're not gonna walk for 24 hours straight taking a few short pauses right there."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention"
+      },
+      "completion": "completed",
+      "note": "The rest is awarded after the opening conversation; its starting date and inclusion of the previous night remain open."
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0045",
+        "endUid": "u0050"
+      },
+      "reading": "Wake in the morning, walk through the day and night, and arrive near Endless Dark around 11, described as midday.",
+      "evidence": [
+        {
+          "startUid": "u0032",
+          "endUid": "u0033",
+          "quote": "DM: Yeah, but it's gonna take you yeah, like a full 24 hours of walking."
+        },
+        {
+          "startUid": "u0045",
+          "endUid": "u0048",
+          "quote": "DM: But it's not going to take you you wake up in the morning and you spend the day traveling and get about halfway there spend the night traveling and arrive and arrived sort of mid day. Still having to take a few I mean, you're not gonna walk for 24 hours straight taking a few short pauses right there."
+        },
+        {
+          "startUid": "u0050",
+          "endUid": "u0050",
+          "quote": "DM: So you arrive late mid day like around 11 or 11 or something like that."
+        }
+      ],
+      "time": {
+        "clock": "11:00",
+        "partOfDay": "midday",
+        "precision": "approximate",
+        "basis": "DM gives about 11 for arrival, calling it midday"
+      },
+      "duration": {
+        "value": 24,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM estimates a full 24 hours walking; pauses are included in the narrated journey but not separately measured"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "note": "No month, day or year is spoken. The walking estimate is not an exact elapsed clock calculation."
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0371",
+        "endUid": "u0381"
+      },
+      "reading": "Take a short rest at the giant’s clearing before entering the portal.",
+      "evidence": [
+        {
+          "startUid": "u0371",
+          "endUid": "u0372",
+          "quote": "Delwath: So we're gonna take a short rest and then we're going to go through."
+        },
+        {
+          "startUid": "u0373",
+          "endUid": "u0381",
+          "quote": "DM: Okay, so you step through the portal and you emerge in here. In a flat featureless plane. Um, hold on one SEC sorry."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1346",
+        "endUid": "u1352"
+      },
+      "reading": "Dig up the wizard’s severed arm in a few minutes after the ghost points it out.",
+      "evidence": [
+        {
+          "startUid": "u1331",
+          "endUid": "u1344",
+          "quote": "DM: The giant says like just gives out a long sigh and says \"Vengeance is sweet. The dishonored have paid. Those who fled the battlefields received their just fate. Thank you.\" And reaches down into the ground and like you can see where he's reaching he can't lift up anything but he's like pantomime exactly where you need to dig to find the arm of this this hobgoblin that he cut off, and he says, \"I I thank you for your task. This here is what you seek. I will go to my rest.\" And the ghost fades."
+        },
+        {
+          "startUid": "u1346",
+          "endUid": "u1352",
+          "quote": "DM: So it's a matter of not too many minutes to to dig up the arm in this so this this circlet looks different than any of the other ones you've seen there's like so there's the circlet, but then it almost looks like there's a shadow that pulsates like out from it a little bit. So there's like it was like a a moat of the sort of dark flowing shadowy runes around it that's kind of moving in a circle like that. Seems to be active."
+        }
+      ],
+      "duration": {
+        "text": "not too many minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM narrates the time needed to dig up the arm"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1499",
+        "endUid": "u1501"
+      },
+      "reading": "About an hour has already passed at the current battlefield stop before the next attunement rest.",
+      "evidence": [
+        {
+          "startUid": "u1495",
+          "endUid": "u1496",
+          "quote": "DM: So why don't you take a short rest is anybody going to attune to the circlet during the short rest? Or do you want to take more time and?"
+        },
+        {
+          "startUid": "u1499",
+          "endUid": "u1501",
+          "quote": "DM: You don't actually have much more time because you've been doing now for an hour already. And you've got maybe an hour and a half to two hours before the shadows start."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "retrospective DM estimate of time already spent"
+      },
+      "completion": "completed",
+      "note": "Its starting point is not specified; do not add it to the earlier short rest as a separate, nonoverlapping hour. The remaining 1.5–2 hours is a forecast of shadow danger."
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1511",
+        "endUid": "u1511"
+      },
+      "reading": "Delwath takes a second short rest, attunes to the armband, and receives guidance with Iascaire.",
+      "evidence": [
+        {
+          "startUid": "u1495",
+          "endUid": "u1496",
+          "quote": "DM: So why don't you take a short rest is anybody going to attune to the circlet during the short rest? Or do you want to take more time and?"
+        },
+        {
+          "startUid": "u1511",
+          "endUid": "u1511",
+          "quote": "Delwath: Yes, so I will take a short rest and attune to the circlet."
+        },
+        {
+          "startUid": "u1515",
+          "endUid": "u1517",
+          "quote": "DM: Short rest the rest is just sitting around talking and having some food. Bandaging your wounds that sort of stuff you're nobody has to sleep, so you can still talk, but."
+        },
+        {
+          "startUid": "u1538",
+          "endUid": "u1549",
+          "quote": "DM: So so as your as your as you're cooking Iascaire you just sort of like you know, get a fire going and get some fish roasting that sort of stuff just kind of watching watching the campfire you see you see images sort of flickering in the fire and it and what what you're seeing is sort of the battle ongoing right, you see, like the occasional like and from this you get the sense that if you had if you had a way to to free Taraka they would be happy with this as long as the hobgoblins don't come. Right, they would prefer to stay there, trapped forever than to send the hobgoblin army to some you know, to you know, rain down on some innocent village somewhere that's not expecting 1000 hobgoblins to show up on their doorstep. Yeah, but if you had a way to get them out of course they will come."
+        },
+        {
+          "startUid": "u1550",
+          "endUid": "u1560",
+          "quote": "DM: And Delwath you get the same sense as your as your you know, preparing resting tending tending the fire with Iascaire, you sort of feel Yalik'I sort of pacing around and as a lynx and get the same sense of like comrades in battle right like the most important thing is to not lose the battle. They've sacrificed so much already. But also you get the feeling that that yeah, like they would know, like if you could get if you approach them and cast banish and then just ran for the portal—they'll that will send them back, they can choose to to fail a save."
+        },
+        {
+          "startUid": "u1562",
+          "endUid": "u1567",
+          "quote": "DM: Provided yeah, I think that would, and so attuning to the to the amulet, or sort of the circlet they all like tendrils of shadow like bury themselves in your arm, as you attuned to it. You can ah, it is it's opening and closing the portal is effectively the Demiplane spell so it's just an action."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1662",
+        "endUid": "u1668"
+      },
+      "reading": "Delwath watches the campfire pattern for a few minutes inside the shadow plane.",
+      "evidence": [
+        {
+          "startUid": "u1662",
+          "endUid": "u1668",
+          "quote": "DM: And you can see, so you see these like campfires appearing and you sort of watch for a few minutes and see the pattern of them flicking on and off and it's it's like they're sort of moving across the plane. And so you can sort of predict where the next ones are going to appear and head to the sort of leading edge, where the campfires are appearing before the hob goblins close in on them, so you can you can find a spot that's you know, 80 or 90 feet away from the edge of the hobgoblin army and maybe 100 feet even what and head there. Where you'll be in range to cast banish on yourself it's 60 feet right yeah, so you'll still be 100 or 150 feet away from the the leading edge of the army and be able to cast banish on both a both a campfire and yourself."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM explicitly narrates watching the pattern"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1670",
+        "endUid": "u1679"
+      },
+      "reading": "Delwath traverses the shadow plane in indeterminate time, then banishes himself and Taraka back.",
+      "evidence": [
+        {
+          "startUid": "u1670",
+          "endUid": "u1679",
+          "quote": "DM: So, as you cast Invisibility and then you know, move forward through the shadowy plane and the army kind of, you know, it—it's this weird sensation that you've actually experienced before where you, you know, you move and it's not clear that time is passing, but somehow you get closer in some indeterminate time and cast your spell. And, as you do, the campfires like flare and you see it like in each each fire there's like the image of warriors fighting and of you know, villages that are long gone of people dancing of you know, yeah, person bathing in in in a stream, and then everything goes black for a second. The fires vanish and you find yourself in a familiar falling sensation as you tumble from 20 feet up in the air down onto the —taking six points of falling damage—down onto the skeleton of the giant."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "completion": "completed",
+      "note": "The DM explicitly makes the passage of time unclear; no elapsed adventure duration or synchronization with the companions is inferred."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1846",
+        "endUid": "u1856"
+      },
+      "reading": "Take one short rest on the journey to the Yemo’te battlefield before reaching the river.",
+      "evidence": [
+        {
+          "startUid": "u1846",
+          "endUid": "u1846",
+          "quote": "Iascaire: Yeah, why don't we do one short rest on this side and see how we feel when we get there."
+        },
+        {
+          "startUid": "u1850",
+          "endUid": "u1856",
+          "quote": "Delwath: Yeah, I seem to have lost my role. So right, we would go straight south like 40 miles, right, yes, we wouldn't cast—we wouldn't fly, I mean, let's like take a short rest somewhere right here. Okay, and then see what we see when we get closer like maybe it would be useful to be flying for a battle right like I mean, I don't."
+        },
+        {
+          "startUid": "u1870",
+          "endUid": "u1874",
+          "quote": "DM: Through the burnt trees you come to the [garbled] the battlefield on Yemo'te river."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention; accepted rest before the narrated arrival"
+      },
+      "completion": "completed",
+      "note": "Two short rests were proposed, but only the first was accepted before play advanced."
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2804",
+        "endUid": "u2811"
+      },
+      "reading": "Return to the starting village over approximately a day and a half.",
+      "evidence": [
+        {
+          "startUid": "u2804",
+          "endUid": "u2811",
+          "quote": "DM: The so over the next like day and a half or so you, you make it back to the village. And, and as you as you arrive back at the village tell us where you started. Like the the tribe is or the you know, the villagers are sort of gathered around watching you and you can you can see that you know, they seem to be aware of your coming and part part way there when you get out of the forest you take a long rest, then remove Curse, swap out your prepared spells and remove curse."
+        }
+      ],
+      "duration": {
+        "value": 1.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM’s narrated completed return journey"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u2804",
+        "endUid": "u2811"
+      },
+      "reading": "After leaving the forest, take a long rest during the return journey and remove the armband’s curse.",
+      "evidence": [
+        {
+          "startUid": "u2804",
+          "endUid": "u2811",
+          "quote": "DM: The so over the next like day and a half or so you, you make it back to the village. And, and as you as you arrive back at the village tell us where you started. Like the the tribe is or the you know, the villagers are sort of gathered around watching you and you can you can see that you know, they seem to be aware of your coming and part part way there when you get out of the forest you take a long rest, then remove Curse, swap out your prepared spells and remove curse."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t10"
+        }
+      ],
+      "note": "The rest is inside the day-and-a-half journey, not an additional eight hours. A waking clock or explicit overnight boundary is not supplied."
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No absolute date is spoken. October 9–14, 1748 comes only from the registered YAML.",
+    "expectedDateBoundaries": 5,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t05",
+      "t06",
+      "t09",
+      "t10",
+      "t11"
+    ],
+    "explanation": "The day-and-night walk establishes one transition, and the return takes about 1.5 days with a nested long rest. The opening rest boundary and timing of the intervening 40-mile journey remain open. This incomplete span does not contradict the five-day YAML interval or verify its exact dates."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t01",
+        "t02"
+      ],
+      "reading": "Opening long-rest credit is granted before the next waking and journey, without fixing which night belongs to this session.",
+      "alternatives": [
+        {
+          "reading": "The opening rest crosses into the YAML start date; travel begins on that date."
+        },
+        {
+          "reading": "The rest starts within the YAML opening date; waking and travel begin the following date."
+        }
+      ]
+    }
+  ]
+}
