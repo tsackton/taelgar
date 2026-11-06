@@ -1,0 +1,157 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-109",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-session.yaml",
+    "sessionYamlSha256": "3cb847415bd9208455b54ab70231b68899be7ac547cea3489305c49c8124ca3b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-transcript.md",
+    "transcriptSha256": "bc3f08c9837ed8f1553993327bf05e5c45b979655630ae6d05ec31e11aa4d69b"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0001"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0292"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0293",
+        "endUid": "u0310"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0311",
+        "endUid": "u0318"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0319",
+        "endUid": "u0390"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0391",
+        "endUid": "u0697"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0698",
+        "endUid": "u0723"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0724",
+        "endUid": "u0927"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0928",
+        "endUid": "u0954"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0955",
+        "endUid": "u1423"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1424",
+        "endUid": "u1839"
+      },
+      "category": "combat",
+      "note": "The party escapes through the roof hatch and leaves this turn cycle; the pursuers receive a fresh initiative roll at u2277 after the chamber investigation."
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u1840",
+        "endUid": "u2276"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2277",
+        "endUid": "u3874"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u3875",
+        "endUid": "u5231"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u5232",
+        "endUid": "u5272"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u5273",
+        "endUid": "u6507"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u6508",
+        "endUid": "u8669"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u8670",
+        "endUid": "u10264"
+      },
+      "category": "gameplay"
+    }
+  ]
+}

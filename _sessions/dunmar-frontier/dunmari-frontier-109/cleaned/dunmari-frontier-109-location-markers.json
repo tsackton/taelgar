@@ -1,0 +1,1880 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-109",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-session.yaml",
+    "sessionYamlSha256": "3cb847415bd9208455b54ab70231b68899be7ac547cea3489305c49c8124ca3b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-transcript.md",
+    "transcriptSha256": "bc3f08c9837ed8f1553993327bf05e5c45b979655630ae6d05ec31e11aa4d69b"
+  },
+  "places": {
+    "p01": {
+      "label": "the island",
+      "kind": "island",
+      "evidence": [
+        {
+          "startUid": "u0038",
+          "endUid": "u0049",
+          "quote": "DM: So from the peak of the mountain, you look out as the sun rises across the forests of the island below you. You can see from the mountain, from this perspective up here, especially in the morning light, that there's seven rivers that, like, run down and, and they actually, they do the reverse thing that rivers go. As they run down, they split into more and more smaller streams as they get towards the edge of the forest, and all of them stop at some point in these little pools.\n\nUnknown: Nymph pools.\n\nDM: There must be dozens of them scattered across the forest in little clearings. And you look, from here you can see with the sun rising to the west, a tall, it must be maybe 15, 20 miles away, right on the coast, a tall tower, 250 feet tall, taller even than the statues, made of the same black-"
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Circular Island.md",
+      "note": "Circular Island identity follows session 107’s arrival and session 108’s summit handoff, corroborated by Circular Island.md."
+    },
+    "p02": {
+      "label": "mountain peak",
+      "kind": "summit",
+      "evidence": [
+        {
+          "startUid": "u0038",
+          "endUid": "u0043",
+          "quote": "DM: So from the peak of the mountain, you look out as the sun rises across the forests of the island below you. You can see from the mountain, from this perspective up here, especially in the morning light, that there's seven rivers that, like, run down and, and they actually, they do the reverse thing that rivers go. As they run down, they split into more and more smaller streams as they get towards the edge of the forest, and all of them stop at some point in these little pools."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0038",
+              "endUid": "u0043",
+              "quote": "DM: So from the peak of the mountain, you look out as the sun rises across the forests of the island below you. You can see from the mountain, from this perspective up here, especially in the morning light, that there's seven rivers that, like, run down and, and they actually, they do the reverse thing that rivers go. As they run down, they split into more and more smaller streams as they get towards the edge of the forest, and all of them stop at some point in these little pools."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "temple of the Sibyl",
+      "kind": "temple",
+      "evidence": [
+        {
+          "startUid": "u10079",
+          "endUid": "u10085",
+          "quote": "Seeker: So we teleport back to the temple of s- the Sibyl?\n\nUnknown: Yeah.\n\nDM: Where Dimitaur is?\n\nUnknown: Yeah.\n\nWellby: Yeah.\n\nSeeker: Yeah. Yeah.\n\nDM: Okay."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0038",
+              "endUid": "u0043",
+              "quote": "DM: So from the peak of the mountain, you look out as the sun rises across the forests of the island below you. You can see from the mountain, from this perspective up here, especially in the morning light, that there's seven rivers that, like, run down and, and they actually, they do the reverse thing that rivers go. As they run down, they split into more and more smaller streams as they get towards the edge of the forest, and all of them stop at some point in these little pools."
+            },
+            {
+              "startUid": "u0391",
+              "endUid": "u0392",
+              "quote": "DM: So in the morning, say goodbye to Dimitaur. Where do you wanna go?"
+            },
+            {
+              "startUid": "u10074",
+              "endUid": "u10085",
+              "quote": "DM: And you're leaving, teleporting back?\n\nUnknown: Yeah.\n\nDM: It's gotten dark. Sun... Well, it's not quite dark. The sun is setting.\n\nSeeker: So we teleport back to the temple of s- the Sibyl?\n\nUnknown: Yeah.\n\nDM: Where Dimitaur is?\n\nUnknown: Yeah.\n\nWellby: Yeah.\n\nSeeker: Yeah. Yeah.\n\nDM: Okay."
+            }
+          ]
+        }
+      ],
+      "note": "The return is to Dimitaur’s earlier sanctuary. Session 108 u4499–u4506, u4596–u4614 and u4716–u4725 identifies it as the Sibyl temple in the summit complex; Circular Island.md corroborates that orientation. No separate local temple note matches the Tollen or Roscombe temples."
+    },
+    "p04": {
+      "label": "Apollyon’s Tower",
+      "kind": "tower",
+      "evidence": [
+        {
+          "startUid": "u0045",
+          "endUid": "u0071",
+          "quote": "DM: There must be dozens of them scattered across the forest in little clearings. And you look, from here you can see with the sun rising to the west, a tall, it must be maybe 15, 20 miles away, right on the coast, a tall tower, 250 feet tall, taller even than the statues, made of the same black-\n\nUnknown: Hm\n\nDM: ... uh, marble that the whole island seems to be sculpted of. Um, rising up about, you know, 100, 150 feet or so, and then a d- a viewing platform, and then a spire that goes up further to another viewing platform. Seems to be completely undamaged. Smooth stone. Um, the vibe is kind of more Orthanc than Cap- you know, than Barad-dûr.\n\nKenzo: Sorry, where, where are you describing again?\n\nUnknown: Apollyon's Tower.\n\nDM: This is Apollyon's Tower to the west that we can see now-\n\nUnknown: Ah.\n\nDM: ... because you're on the top of the mountain in the daylight.\n\nSeeker: Or, so you mean like Saruman as opposed to Sauron?\n\nDM: No, just the visual vibe is more.\n\nUnknown: Oh.\n\nDM: It's, like, smooth stone that it doesn't have, like, all sorts of battlements and-\n\nUnknown: Mm.\n\nDM: ... you know, things coming off of it. It's just kind of a smooth pillar of black stone that extends up 150 feet, and then there's an open, uh, viewing platform that must be, you know, the size of the... And then a much smaller tower that goes up another 100 feet from there, and comes to a, a peaked roof that has a sort of crenellation around the very top. Um, the middle viewing platform, at least from here, you can't see any indication that there's, like, a guardrail or anything."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0038",
+              "endUid": "u0049",
+              "quote": "DM: So from the peak of the mountain, you look out as the sun rises across the forests of the island below you. You can see from the mountain, from this perspective up here, especially in the morning light, that there's seven rivers that, like, run down and, and they actually, they do the reverse thing that rivers go. As they run down, they split into more and more smaller streams as they get towards the edge of the forest, and all of them stop at some point in these little pools.\n\nUnknown: Nymph pools.\n\nDM: There must be dozens of them scattered across the forest in little clearings. And you look, from here you can see with the sun rising to the west, a tall, it must be maybe 15, 20 miles away, right on the coast, a tall tower, 250 feet tall, taller even than the statues, made of the same black-"
+            },
+            {
+              "startUid": "u0970",
+              "endUid": "u0995",
+              "quote": "DM: Okay. So you head, you fly west. Um, flying pretty fast as ospreys, uh, you quickly descend from the mountain to past the forest, uh, and come out into this sort of open plain about five or six miles between the forest and the edge of this sort of rocky terrain. You can see that there's two, again, there's these divine towers, the statues. Um, they both are, like, Apollyon's Tower is sort of placed equidistant between-\n\nSeeker: It's, like, here?\n\nDM: No, it's-\n\nSeeker: Here?\n\nDM: S- one more south\n\nSeeker: Here?\n\nDM: Yeah. It's, like, equidistant between, between the two statues there.\n\nSeeker: So which ones are those?\n\nDM: Um, well, I have an order somewhere. It doesn't really matter. Um, so-\n\nSeeker: Or it doesn't matter\n\nDM: ... those ones would be, uh, let's see. Um, so the Warlord and the, and the Wildling."
+            }
+          ]
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Apollyon's Tower.md"
+    },
+    "p05": {
+      "label": "Dragonmire",
+      "kind": "area",
+      "evidence": [
+        {
+          "startUid": "u0153",
+          "endUid": "u0183",
+          "quote": "DM: So, uh- You just kind of guess somewhere to put it 'cause you can't really see that much details and it's not that, you know, it's dark, but the... Okay, so a few things you can definitely clearly see. Um, the, the sc- the what looks from a distance like this reddish bruise is actually like, uh, it's like, it looks like a, a mat of like this sort of red and orange and sort of angry scarred, like s- like moss that's sort of growing in like a spongy layer over the top of the ground.\n\nKenzo: How is the moss angry?\n\nDM: That's just the color. It's, it's-\n\nUnknown: Okay.\n\nDM: And that seems to extend for this whole distance, right? So this red thing you're seeing from a distance and clairvoyance up close is like a, it's like a mat of something that's grown over the land, this weird-\n\nUnknown: Moss.\n\nDM: ... moss. Um, there is a structure here. So you can see there's, um, there's like a road that leads from the pilgrims path towards, uh, what is a big sort of oval, um, uh, like a big oval plaza, sort of like stone paved where the moss hasn't seemed to grown. Um, the moss is like creeping over the road, but not entirely. So you can see like little bits of the road, but it hasn't grown over this, um, this plaza. And then the road splits and one, um, this area is clear of the moss. One, uh, path goes off to a hill where there's a not really intact villa, just like, um, again, just pretty much level. But you can see the outlines, like there's a courtyard, and then you can see the walls. Um, like the left half, the one half closer to you is still kind of standing like three stories and a bit of a roof. The right half on the other side is like completely destroyed down to the found- like the rubble foundations pretty much. Um, but it once was probably a fairly big, fairly substantial villa, and it's overlooking about a half mile away what looks like, uh... There's like a, a big pool. It almost looks like, like thermal baths, right?"
+        },
+        {
+          "startUid": "u0311",
+          "endUid": "u0317",
+          "quote": "DM: The other thing Kenzo senses, Kong, is, um, a fiend underneath the villa.\n\nUnknown: Great.\n\nUnknown: Ouch.\n\nUnknown: Which v-\n\nWellby: Which villa?\n\nDM: The villa in the Dragonmire."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0038",
+              "endUid": "u0049",
+              "quote": "DM: So from the peak of the mountain, you look out as the sun rises across the forests of the island below you. You can see from the mountain, from this perspective up here, especially in the morning light, that there's seven rivers that, like, run down and, and they actually, they do the reverse thing that rivers go. As they run down, they split into more and more smaller streams as they get towards the edge of the forest, and all of them stop at some point in these little pools.\n\nUnknown: Nymph pools.\n\nDM: There must be dozens of them scattered across the forest in little clearings. And you look, from here you can see with the sun rising to the west, a tall, it must be maybe 15, 20 miles away, right on the coast, a tall tower, 250 feet tall, taller even than the statues, made of the same black-"
+            },
+            {
+              "startUid": "u0128",
+              "endUid": "u0139",
+              "quote": "DM: Oh, that's true. Except you can't see it in the dark. You don't know it's there until you wake up in the morning.\n\nSeeker: So what am I clairvoyancing?\n\nUnknown: The dragon's lair.\n\nDM: You can do the dragon's lair with three charges. It's eight miles away.\n\nSeeker: But the gla- dragon's lair is underground.\n\nUnknown: Well, we just, uh, scan.\n\nDM: I mean, you can do the surface.\n\nSeeker: Oh, just look at the surface.\n\nDM: Yeah.\n\nSeeker: Okay, so we're gonna look above ground at the dragon's lair."
+            },
+            {
+              "startUid": "u0153",
+              "endUid": "u0183",
+              "quote": "DM: So, uh- You just kind of guess somewhere to put it 'cause you can't really see that much details and it's not that, you know, it's dark, but the... Okay, so a few things you can definitely clearly see. Um, the, the sc- the what looks from a distance like this reddish bruise is actually like, uh, it's like, it looks like a, a mat of like this sort of red and orange and sort of angry scarred, like s- like moss that's sort of growing in like a spongy layer over the top of the ground.\n\nKenzo: How is the moss angry?\n\nDM: That's just the color. It's, it's-\n\nUnknown: Okay.\n\nDM: And that seems to extend for this whole distance, right? So this red thing you're seeing from a distance and clairvoyance up close is like a, it's like a mat of something that's grown over the land, this weird-\n\nUnknown: Moss.\n\nDM: ... moss. Um, there is a structure here. So you can see there's, um, there's like a road that leads from the pilgrims path towards, uh, what is a big sort of oval, um, uh, like a big oval plaza, sort of like stone paved where the moss hasn't seemed to grown. Um, the moss is like creeping over the road, but not entirely. So you can see like little bits of the road, but it hasn't grown over this, um, this plaza. And then the road splits and one, um, this area is clear of the moss. One, uh, path goes off to a hill where there's a not really intact villa, just like, um, again, just pretty much level. But you can see the outlines, like there's a courtyard, and then you can see the walls. Um, like the left half, the one half closer to you is still kind of standing like three stories and a bit of a roof. The right half on the other side is like completely destroyed down to the found- like the rubble foundations pretty much. Um, but it once was probably a fairly big, fairly substantial villa, and it's overlooking about a half mile away what looks like, uh... There's like a, a big pool. It almost looks like, like thermal baths, right?"
+            }
+          ]
+        }
+      ],
+      "note": "The current party only observes this area remotely in the pre-rest flashback. Circular Island.md identifies the later lair/prison complex with Concordia Pyrae; that later orientation does not establish a visit or add a containment claim for the baths."
+    },
+    "p06": {
+      "label": "ruined villa",
+      "kind": "ruin",
+      "evidence": [
+        {
+          "startUid": "u0166",
+          "endUid": "u0183",
+          "quote": "DM: ... moss. Um, there is a structure here. So you can see there's, um, there's like a road that leads from the pilgrims path towards, uh, what is a big sort of oval, um, uh, like a big oval plaza, sort of like stone paved where the moss hasn't seemed to grown. Um, the moss is like creeping over the road, but not entirely. So you can see like little bits of the road, but it hasn't grown over this, um, this plaza. And then the road splits and one, um, this area is clear of the moss. One, uh, path goes off to a hill where there's a not really intact villa, just like, um, again, just pretty much level. But you can see the outlines, like there's a courtyard, and then you can see the walls. Um, like the left half, the one half closer to you is still kind of standing like three stories and a bit of a roof. The right half on the other side is like completely destroyed down to the found- like the rubble foundations pretty much. Um, but it once was probably a fairly big, fairly substantial villa, and it's overlooking about a half mile away what looks like, uh... There's like a, a big pool. It almost looks like, like thermal baths, right?"
+        },
+        {
+          "startUid": "u0311",
+          "endUid": "u0317",
+          "quote": "DM: The other thing Kenzo senses, Kong, is, um, a fiend underneath the villa.\n\nUnknown: Great.\n\nUnknown: Ouch.\n\nUnknown: Which v-\n\nWellby: Which villa?\n\nDM: The villa in the Dragonmire."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0311",
+              "endUid": "u0317",
+              "quote": "DM: The other thing Kenzo senses, Kong, is, um, a fiend underneath the villa.\n\nUnknown: Great.\n\nUnknown: Ouch.\n\nUnknown: Which v-\n\nWellby: Which villa?\n\nDM: The villa in the Dragonmire."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "thermal baths and pools",
+      "kind": "baths",
+      "evidence": [
+        {
+          "startUid": "u0166",
+          "endUid": "u0192",
+          "quote": "DM: ... moss. Um, there is a structure here. So you can see there's, um, there's like a road that leads from the pilgrims path towards, uh, what is a big sort of oval, um, uh, like a big oval plaza, sort of like stone paved where the moss hasn't seemed to grown. Um, the moss is like creeping over the road, but not entirely. So you can see like little bits of the road, but it hasn't grown over this, um, this plaza. And then the road splits and one, um, this area is clear of the moss. One, uh, path goes off to a hill where there's a not really intact villa, just like, um, again, just pretty much level. But you can see the outlines, like there's a courtyard, and then you can see the walls. Um, like the left half, the one half closer to you is still kind of standing like three stories and a bit of a roof. The right half on the other side is like completely destroyed down to the found- like the rubble foundations pretty much. Um, but it once was probably a fairly big, fairly substantial villa, and it's overlooking about a half mile away what looks like, uh... There's like a, a big pool. It almost looks like, like thermal baths, right?\n\nDM: It's like a big pool and then three little pools around it that are all arranged, like nice paved marble area. You can see a row of columns around it. Um, if there once was a roof, it's gone. But there's, uh, you know, there's a whole entrance complex that is now mostly rubble. But, um, you can see like a few dragonets kind of perched around, snoozing a little bit. Um, seemingly sleeping in the plaza further, a little further away are four, um, pretty large, like horse sized beasts that have the head of a dragon, a goat, and a lion all coming out of their neck with wings."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0153",
+              "endUid": "u0192",
+              "quote": "DM: So, uh- You just kind of guess somewhere to put it 'cause you can't really see that much details and it's not that, you know, it's dark, but the... Okay, so a few things you can definitely clearly see. Um, the, the sc- the what looks from a distance like this reddish bruise is actually like, uh, it's like, it looks like a, a mat of like this sort of red and orange and sort of angry scarred, like s- like moss that's sort of growing in like a spongy layer over the top of the ground.\n\nKenzo: How is the moss angry?\n\nDM: That's just the color. It's, it's-\n\nUnknown: Okay.\n\nDM: And that seems to extend for this whole distance, right? So this red thing you're seeing from a distance and clairvoyance up close is like a, it's like a mat of something that's grown over the land, this weird-\n\nUnknown: Moss.\n\nDM: ... moss. Um, there is a structure here. So you can see there's, um, there's like a road that leads from the pilgrims path towards, uh, what is a big sort of oval, um, uh, like a big oval plaza, sort of like stone paved where the moss hasn't seemed to grown. Um, the moss is like creeping over the road, but not entirely. So you can see like little bits of the road, but it hasn't grown over this, um, this plaza. And then the road splits and one, um, this area is clear of the moss. One, uh, path goes off to a hill where there's a not really intact villa, just like, um, again, just pretty much level. But you can see the outlines, like there's a courtyard, and then you can see the walls. Um, like the left half, the one half closer to you is still kind of standing like three stories and a bit of a roof. The right half on the other side is like completely destroyed down to the found- like the rubble foundations pretty much. Um, but it once was probably a fairly big, fairly substantial villa, and it's overlooking about a half mile away what looks like, uh... There's like a, a big pool. It almost looks like, like thermal baths, right?\n\nDM: It's like a big pool and then three little pools around it that are all arranged, like nice paved marble area. You can see a row of columns around it. Um, if there once was a roof, it's gone. But there's, uh, you know, there's a whole entrance complex that is now mostly rubble. But, um, you can see like a few dragonets kind of perched around, snoozing a little bit. Um, seemingly sleeping in the plaza further, a little further away are four, um, pretty large, like horse sized beasts that have the head of a dragon, a goat, and a lion all coming out of their neck with wings."
+            }
+          ]
+        },
+        {
+          "relation": "near",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0166",
+              "endUid": "u0183",
+              "quote": "DM: ... moss. Um, there is a structure here. So you can see there's, um, there's like a road that leads from the pilgrims path towards, uh, what is a big sort of oval, um, uh, like a big oval plaza, sort of like stone paved where the moss hasn't seemed to grown. Um, the moss is like creeping over the road, but not entirely. So you can see like little bits of the road, but it hasn't grown over this, um, this plaza. And then the road splits and one, um, this area is clear of the moss. One, uh, path goes off to a hill where there's a not really intact villa, just like, um, again, just pretty much level. But you can see the outlines, like there's a courtyard, and then you can see the walls. Um, like the left half, the one half closer to you is still kind of standing like three stories and a bit of a roof. The right half on the other side is like completely destroyed down to the found- like the rubble foundations pretty much. Um, but it once was probably a fairly big, fairly substantial villa, and it's overlooking about a half mile away what looks like, uh... There's like a, a big pool. It almost looks like, like thermal baths, right?"
+            }
+          ],
+          "note": "The villa overlooks the pools about half a mile away; they are not rooms inside the villa."
+        }
+      ]
+    },
+    "p08": {
+      "label": "oval stone plaza",
+      "kind": "plaza",
+      "evidence": [
+        {
+          "startUid": "u0166",
+          "endUid": "u0192",
+          "quote": "DM: ... moss. Um, there is a structure here. So you can see there's, um, there's like a road that leads from the pilgrims path towards, uh, what is a big sort of oval, um, uh, like a big oval plaza, sort of like stone paved where the moss hasn't seemed to grown. Um, the moss is like creeping over the road, but not entirely. So you can see like little bits of the road, but it hasn't grown over this, um, this plaza. And then the road splits and one, um, this area is clear of the moss. One, uh, path goes off to a hill where there's a not really intact villa, just like, um, again, just pretty much level. But you can see the outlines, like there's a courtyard, and then you can see the walls. Um, like the left half, the one half closer to you is still kind of standing like three stories and a bit of a roof. The right half on the other side is like completely destroyed down to the found- like the rubble foundations pretty much. Um, but it once was probably a fairly big, fairly substantial villa, and it's overlooking about a half mile away what looks like, uh... There's like a, a big pool. It almost looks like, like thermal baths, right?\n\nDM: It's like a big pool and then three little pools around it that are all arranged, like nice paved marble area. You can see a row of columns around it. Um, if there once was a roof, it's gone. But there's, uh, you know, there's a whole entrance complex that is now mostly rubble. But, um, you can see like a few dragonets kind of perched around, snoozing a little bit. Um, seemingly sleeping in the plaza further, a little further away are four, um, pretty large, like horse sized beasts that have the head of a dragon, a goat, and a lion all coming out of their neck with wings."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0153",
+              "endUid": "u0192",
+              "quote": "DM: So, uh- You just kind of guess somewhere to put it 'cause you can't really see that much details and it's not that, you know, it's dark, but the... Okay, so a few things you can definitely clearly see. Um, the, the sc- the what looks from a distance like this reddish bruise is actually like, uh, it's like, it looks like a, a mat of like this sort of red and orange and sort of angry scarred, like s- like moss that's sort of growing in like a spongy layer over the top of the ground.\n\nKenzo: How is the moss angry?\n\nDM: That's just the color. It's, it's-\n\nUnknown: Okay.\n\nDM: And that seems to extend for this whole distance, right? So this red thing you're seeing from a distance and clairvoyance up close is like a, it's like a mat of something that's grown over the land, this weird-\n\nUnknown: Moss.\n\nDM: ... moss. Um, there is a structure here. So you can see there's, um, there's like a road that leads from the pilgrims path towards, uh, what is a big sort of oval, um, uh, like a big oval plaza, sort of like stone paved where the moss hasn't seemed to grown. Um, the moss is like creeping over the road, but not entirely. So you can see like little bits of the road, but it hasn't grown over this, um, this plaza. And then the road splits and one, um, this area is clear of the moss. One, uh, path goes off to a hill where there's a not really intact villa, just like, um, again, just pretty much level. But you can see the outlines, like there's a courtyard, and then you can see the walls. Um, like the left half, the one half closer to you is still kind of standing like three stories and a bit of a roof. The right half on the other side is like completely destroyed down to the found- like the rubble foundations pretty much. Um, but it once was probably a fairly big, fairly substantial villa, and it's overlooking about a half mile away what looks like, uh... There's like a, a big pool. It almost looks like, like thermal baths, right?\n\nDM: It's like a big pool and then three little pools around it that are all arranged, like nice paved marble area. You can see a row of columns around it. Um, if there once was a roof, it's gone. But there's, uh, you know, there's a whole entrance complex that is now mostly rubble. But, um, you can see like a few dragonets kind of perched around, snoozing a little bit. Um, seemingly sleeping in the plaza further, a little further away are four, um, pretty large, like horse sized beasts that have the head of a dragon, a goat, and a lion all coming out of their neck with wings."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "boulder shelter on the approach",
+      "kind": "shelter",
+      "evidence": [
+        {
+          "startUid": "u1045",
+          "endUid": "u1071",
+          "quote": "Seeker: So, well, Seeker, at any rate, flies down and finds a very large boulder amid the ones upturned.\n\nDM: Okay.\n\nSeeker: Choosing one where I'll be able to land on the ground in such a way that we'll be totally hidden from line of sight of the tower.\n\nDM: Okay.\n\nSeeker: And that's cool. And I'm just, I'm just gonna, um, briefly transform back to a dwarf.\n\nUnknown: [laughs]\n\nDM: [clears throat] Briefly.\n\nSeeker: Pull the rope ladder out of my pack.\n\nDM: [clears throat]\n\nSeeker: Animate it, turn it into an osprey, then turn myself back into an osprey. This is all legal, right?\n\nDM: Yep.\n\nWellby: That's amazing. [laughs]\n\nUnknown: [laughs]\n\nSeeker: We're just getting rope ladder osprey [coughing] who will, um, rosprey.\n\nUnknown: [laughs]\n\nSeeker: R- Rope osprey.\n\nWellby: Rosprey.\n\nSeeker: Yeah. Um, ladder, Rosprey the ladder bird will fly behind me. So I take off again and rejoin."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0970",
+              "endUid": "u0976",
+              "quote": "DM: Okay. So you head, you fly west. Um, flying pretty fast as ospreys, uh, you quickly descend from the mountain to past the forest, uh, and come out into this sort of open plain about five or six miles between the forest and the edge of this sort of rocky terrain. You can see that there's two, again, there's these divine towers, the statues. Um, they both are, like, Apollyon's Tower is sort of placed equidistant between-"
+            },
+            {
+              "startUid": "u1005",
+              "endUid": "u1021",
+              "quote": "DM: Awesome. So, you know, a couple hours pass as you fly and find yourself now approaching the sort of upturned black rugged terrain about six miles from the tower. Um, you know, it's jagged rocks below you. You're, I mean, there's other birds around, right? So now you're close to, relatively close to the coast. They, they seem to be, I mean, they seem to avoid the tower, right? You don't see any birds flying around the tower, just kind of on the outskirts. And the further you fly towards the tower, the more oppressive the atmosphere feels. There's, it almost is difficult to even keep flying. The air feels thick. It doesn't stop you. You can, you're, you know, powerful adventurers. You can push through, but you can see why sort of normal birds would probably feel very dubious of this."
+            },
+            {
+              "startUid": "u1045",
+              "endUid": "u1049",
+              "quote": "Seeker: So, well, Seeker, at any rate, flies down and finds a very large boulder amid the ones upturned.\n\nDM: Okay.\n\nSeeker: Choosing one where I'll be able to land on the ground in such a way that we'll be totally hidden from line of sight of the tower."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "top platform and roof hatch",
+      "kind": "roof",
+      "evidence": [
+        {
+          "startUid": "u1253",
+          "endUid": "u1258",
+          "quote": "DM: [clears throat] So now you are all standing on the very top.\n\nDelwath: Nope, Del is still flying.\n\nDM: Oh, Delwath, Delwath is still flying. The ladder and Delwath are still flying. Delwath as a osprey, the ladder as a ladder, looking at Seeker prone on the ground, rushing to his defense."
+        },
+        {
+          "startUid": "u1288",
+          "endUid": "u1316",
+          "quote": "DM: Uh, so the spell does not end. Um, the... So okay, so here's what you see. You're at the very top of this tower. Um, the, the way that it's shaped, right, so you are sort of directly above it, like 20 feet above it when you got hit. Um, there's about 10-foot-tall crenellations around the edge. So depending on how quickly you fall, it might have looked to them like the bird just fell onto the surface. You're not entirely sure whether they noticed you turning out of bird form and whether they can even fly to come get you.\n\nKenzo: Or whether they're even smart enough to know.\n\nDM: Or whether they're even smart enough to know.\n\nUnknown: Yeah.\n\nSeeker: Let's, uh, let's stay\n\nDM: You might have a minute of breathing space. Um-\n\nSeeker: So I tell the, suggest to the ladder that it stay down low.\n\nDM: Yeah, yeah, it immediately rushed down to like... [whooshes] And it crouches down next to Seeker. So you see, so the entire surface is smooth black. Um, this space is only about, uh, it's about a third of the size, so instead of a 50-foot diameter, it's about maybe, say, a 20-foot, 15-foot diameter. It's like a pretty narrow tower. Um, the, the trapdoor is just, you don't see any obvious handle. It's just a smooth, there's like a, um, a, just a smooth crack in the top of the thing. Um, no clear obvious way, uh, to lift it."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1288",
+              "endUid": "u1316",
+              "quote": "DM: Uh, so the spell does not end. Um, the... So okay, so here's what you see. You're at the very top of this tower. Um, the, the way that it's shaped, right, so you are sort of directly above it, like 20 feet above it when you got hit. Um, there's about 10-foot-tall crenellations around the edge. So depending on how quickly you fall, it might have looked to them like the bird just fell onto the surface. You're not entirely sure whether they noticed you turning out of bird form and whether they can even fly to come get you.\n\nKenzo: Or whether they're even smart enough to know.\n\nDM: Or whether they're even smart enough to know.\n\nUnknown: Yeah.\n\nSeeker: Let's, uh, let's stay\n\nDM: You might have a minute of breathing space. Um-\n\nSeeker: So I tell the, suggest to the ladder that it stay down low.\n\nDM: Yeah, yeah, it immediately rushed down to like... [whooshes] And it crouches down next to Seeker. So you see, so the entire surface is smooth black. Um, this space is only about, uh, it's about a third of the size, so instead of a 50-foot diameter, it's about maybe, say, a 20-foot, 15-foot diameter. It's like a pretty narrow tower. Um, the, the trapdoor is just, you don't see any obvious handle. It's just a smooth, there's like a, um, a, just a smooth crack in the top of the thing. Um, no clear obvious way, uh, to lift it."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "upper manacle and anvil chamber",
+      "kind": "ritual chamber",
+      "evidence": [
+        {
+          "startUid": "u1730",
+          "endUid": "u1795",
+          "quote": "DM: ... you are looking down in a small room ... 'cause they can fly. It's only about, it's say maybe-\n\nDelwath: Oh, they can fly\n\nDM: ... 20 feet in diameter. Um, on one wall there are manacles chained to the wa- ha- hanging on the wall. Um, and there is a, a channel carved into the floor that spirals and spirals and spirals and spirals downwards.\n\nDelwath: So this is the killing place.\n\nDM: Mm-hmm.\n\nDelwath: The manacles are gonna try and attack you and bind you.\n\nUnknown: Probably.\n\nDelwath: Is there-\n\nWellby: That's okay\n\nDelwath: ... okay, and the ladder's in the center?\n\nUnknown: And, hold up. And?\n\nDM: Uh, I'm not done yet. Um, no, actually the ladder's offset.\n\nUnknown: Okay.\n\nDM: Right? So the, the room is not in the center of the, the big thing. The ladder is-\n\nUnknown: Right.\n\nDM: ... the description was a little bit i- inaccurate. The trapdoor is not in the center of the-\n\nDelwath: Right, right. Okay. It's like-\n\nDM: ... it's on the edge\n\nDelwath: ... yeah, yeah. Okay.\n\nDM: So the ladder comes down like a wall. Um, there is also what looks like a, um, a anvil s- up against the, a wall on the opposite side of the-\n\nDelwath: Hey, we found the divine forge already.\n\nUnknown: Okay.\n\nDM: ... it's on, it's on the opposite side of the manacles. Um, and there's a line in the floor that runs from... There's like a, a well in the center. There's this channel that goes around to a well, and then there's like a line that runs-\n\nUnknown: Right from the channel\n\nDM: ... from the well in the center to the, to the forge that kind of cuts through the... So, like, you can imagine if you filled the circle, it would be like spirals around and then a line that goes like this from the center through the spirals to where the forge is.\n\nSeeker: Ah, okay, found the forge.\n\nUnknown: Yeah.\n\nDM: Um, you can see, I mean, you don't have much time. It's, it's completely black, but everybody has darkvision, right? Um, you don't have much time to look around. Uh, it's a small, I mean, it's a small anvil, right? It's not, this isn't like a huge forge construct.\n\nUnknown: Yeah.\n\nDM: It looks like nothing like that. There's like, what seem like bits of construction and things scattered around. Um-\n\nDelwath: How far is it from?\n\nDM: It's about 10 feet down-\n\nUnknown: Okay.\n\nDM: ... from the ceiling.\n\nWellby: And what's the exit from this room?\n\nDM: Um, there are stairs down.\n\nDelwath: Like weaving from one of the-\n\nDM: So there's like basically four sides, right? So-\n\nUnknown: Okay.\n\nDM: ... manacles, forge, ladder, stairs."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1730",
+              "endUid": "u1795",
+              "quote": "DM: ... you are looking down in a small room ... 'cause they can fly. It's only about, it's say maybe-\n\nDelwath: Oh, they can fly\n\nDM: ... 20 feet in diameter. Um, on one wall there are manacles chained to the wa- ha- hanging on the wall. Um, and there is a, a channel carved into the floor that spirals and spirals and spirals and spirals downwards.\n\nDelwath: So this is the killing place.\n\nDM: Mm-hmm.\n\nDelwath: The manacles are gonna try and attack you and bind you.\n\nUnknown: Probably.\n\nDelwath: Is there-\n\nWellby: That's okay\n\nDelwath: ... okay, and the ladder's in the center?\n\nUnknown: And, hold up. And?\n\nDM: Uh, I'm not done yet. Um, no, actually the ladder's offset.\n\nUnknown: Okay.\n\nDM: Right? So the, the room is not in the center of the, the big thing. The ladder is-\n\nUnknown: Right.\n\nDM: ... the description was a little bit i- inaccurate. The trapdoor is not in the center of the-\n\nDelwath: Right, right. Okay. It's like-\n\nDM: ... it's on the edge\n\nDelwath: ... yeah, yeah. Okay.\n\nDM: So the ladder comes down like a wall. Um, there is also what looks like a, um, a anvil s- up against the, a wall on the opposite side of the-\n\nDelwath: Hey, we found the divine forge already.\n\nUnknown: Okay.\n\nDM: ... it's on, it's on the opposite side of the manacles. Um, and there's a line in the floor that runs from... There's like a, a well in the center. There's this channel that goes around to a well, and then there's like a line that runs-\n\nUnknown: Right from the channel\n\nDM: ... from the well in the center to the, to the forge that kind of cuts through the... So, like, you can imagine if you filled the circle, it would be like spirals around and then a line that goes like this from the center through the spirals to where the forge is.\n\nSeeker: Ah, okay, found the forge.\n\nUnknown: Yeah.\n\nDM: Um, you can see, I mean, you don't have much time. It's, it's completely black, but everybody has darkvision, right? Um, you don't have much time to look around. Uh, it's a small, I mean, it's a small anvil, right? It's not, this isn't like a huge forge construct.\n\nUnknown: Yeah.\n\nDM: It looks like nothing like that. There's like, what seem like bits of construction and things scattered around. Um-\n\nDelwath: How far is it from?\n\nDM: It's about 10 feet down-\n\nUnknown: Okay.\n\nDM: ... from the ceiling.\n\nWellby: And what's the exit from this room?\n\nDM: Um, there are stairs down.\n\nDelwath: Like weaving from one of the-\n\nDM: So there's like basically four sides, right? So-\n\nUnknown: Okay.\n\nDM: ... manacles, forge, ladder, stairs."
+            },
+            {
+              "startUid": "u4494",
+              "endUid": "u4508",
+              "quote": "DM: The stairs go... Make a perception check.\n\nWellby: Uh, 23.\n\nDM: Okay. The stairs go down the entire length of the spire with no breaks or stops or doors.\n\nKenzo: Can't you detect underground stuff?\n\nUnknown: Yes.\n\nWellby: Okay. So this whole second spire is just a room and a very long flight of stairs.\n\nDM: Yes.\n\nDelwath: All right, so we come out-\n\nDM: That's it\n\nDelwath: ... we come out on the, like, middle section.\n\nDM: You come out in the middle section. There is a, there is a, uh... So you come out to a landing that has a door out to the middle section and then more stairs that go down."
+            }
+          ]
+        }
+      ],
+      "note": "The small nonmagical anvil here is distinct from the lower pedestal forge. The later mirror view uses the manacles’ perspective in this same chamber."
+    },
+    "p12": {
+      "label": "middle viewing platform",
+      "kind": "terrace",
+      "evidence": [
+        {
+          "startUid": "u1089",
+          "endUid": "u1107",
+          "quote": "DM: The, the whole thing is about, the whole thing is about 50 feet in diameter, and at the very top, so not at the very top, halfway up, 150 feet up, there's this open battlements area, but there's no railing around it or anything. And there are two, um, fairly large statues kind of standing, um, like with their hands up like this, like metallic. ... sort of metallic-ish with mostly stone, but with like metal, metal on their hands, like metal fists. Both of them have metal fists.\n\nUnknown: Where are they standing?\n\nDM: Um, they're standing on that second, like facing, looking out towards the island. Yeah, right there.\n\nUnknown: And those are-\n\nDM: Like there\n\nSeeker: ... they're, they're human figures?\n\nDM: They look like big humans. They're maybe eight or nine feet tall, maybe 10 feet tall.\n\nDelwath: Is there a door there or anything?\n\nDM: Um, yes, there is, uh, there is a door there, and then there's the second part that goes up another 100 feet, and then at the very top there's a crenellated, um, place to stand and you can see down from there, like there's a trapdoor at the very top. There is also a big set of double doors at the very bottom, uh, also facing away from the ocean."
+        },
+        {
+          "startUid": "u4506",
+          "endUid": "u4539",
+          "quote": "DM: You come out in the middle section. There is a, there is a, uh... So you come out to a landing that has a door out to the middle section and then more stairs that go down.\n\nDelwath: And is the door, like, out... Is it this door?\n\nDM: It's that door. Yeah, yeah, yeah. So, like, you're at a landing where you could exit to the middle section or you could continue down into the main tower.\n\nUnknown: Let's just go down.\n\nSeeker: There was nothing on that middle section aside from-\n\nDM: There's-\n\nUnknown: ... the two statues we killed\n\nWellby: Yeah, nothing else out there.\n\nDelwath: I mean, we didn't search it.\n\nDM: Well, you haven't gone out there.\n\nSeeker: We saw it from the air.\n\nDM: You saw it from the air.\n\nUnknown: You wanna go out there? You wanna go out?\n\nWellby: I don't like the idea of something being behind us.\n\nUnknown: Yeah, yeah, yeah, no.\n\nWellby: So we don't.\n\nUnknown: Down.\n\nSeeker: Fair.\n\nDM: Yeah.\n\nWellby: So I'll go out.\n\nUnknown: Yeah.\n\nWellby: Maybe assist. We'll take a perceptive walk around.\n\nDM: Yeah.\n\nWellby: See if there's anything else out there.\n\nDM: Okay. Um, make a perception check with advantage.\n\nWellby: 19, 32.\n\nDM: Um, nothing.\n\nWellby: [laughs] All right, I'm reasonably confident there's nothing there.\n\nDM: Yeah.\n\nWellby: All right, cool. Down."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1089",
+              "endUid": "u1107",
+              "quote": "DM: The, the whole thing is about, the whole thing is about 50 feet in diameter, and at the very top, so not at the very top, halfway up, 150 feet up, there's this open battlements area, but there's no railing around it or anything. And there are two, um, fairly large statues kind of standing, um, like with their hands up like this, like metallic. ... sort of metallic-ish with mostly stone, but with like metal, metal on their hands, like metal fists. Both of them have metal fists.\n\nUnknown: Where are they standing?\n\nDM: Um, they're standing on that second, like facing, looking out towards the island. Yeah, right there.\n\nUnknown: And those are-\n\nDM: Like there\n\nSeeker: ... they're, they're human figures?\n\nDM: They look like big humans. They're maybe eight or nine feet tall, maybe 10 feet tall.\n\nDelwath: Is there a door there or anything?\n\nDM: Um, yes, there is, uh, there is a door there, and then there's the second part that goes up another 100 feet, and then at the very top there's a crenellated, um, place to stand and you can see down from there, like there's a trapdoor at the very top. There is also a big set of double doors at the very bottom, uh, also facing away from the ocean."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "private library",
+      "kind": "library",
+      "evidence": [
+        {
+          "startUid": "u4606",
+          "endUid": "u4624",
+          "quote": "DM: Um, the next floor, uh, has a very similar vibe. Um, windows open, the smell of the air. You can even hear a few birds far in the distance. Um, this was probably once a library. You can see like scraps of the covers of books. You can see like metal bindings where books were held, but everything that's, um, uh, you know, leather or paper or wood has decayed, exposed to the salt air of the sea over the past 700 years. Except for two books.\n\nWellby: Oh?\n\nDM: That seem to be completely intact and untouched by time.\n\nUnknown: Are they magical?\n\nDM: Yes.\n\nWellby: What are they?\n\nUnknown: What sort of magic?\n\nDM: Uh, one is, um, necromancy. Um, the other is, I guess like divination."
+        },
+        {
+          "startUid": "u9666",
+          "endUid": "u9669",
+          "quote": "DM: It was in what was, like, Apollyon's private library. It's right next to the book where he was like, the instructions to be a lich.\n\nUnknown: Right.\n\nDM: So it's clearly, like, his private library."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u4541",
+              "endUid": "u4553",
+              "quote": "DM: Uh, you descend down, um, and you come...\n\nKenzo: Weren't there four statues at the start of this thing?\n\nUnknown: Two.\n\nWellby: There were only two, yeah.\n\nDM: Yeah, there was only ever two.\n\nUnknown: Okay.\n\nDM: Um, you come down, um, into a, the, the, the next room down of the tower is just one large open room. There are stairs that continue down. There's windows. There were no windows in the room at the very top. The windows are open and you can smell the salt air of the sea blowing in. You can hear the waves crashing."
+            },
+            {
+              "startUid": "u4604",
+              "endUid": "u4614",
+              "quote": "Wellby: Next floor.\n\nUnknown: Yeah.\n\nDM: Um, the next floor, uh, has a very similar vibe. Um, windows open, the smell of the air. You can even hear a few birds far in the distance. Um, this was probably once a library. You can see like scraps of the covers of books. You can see like metal bindings where books were held, but everything that's, um, uh, you know, leather or paper or wood has decayed, exposed to the salt air of the sea over the past 700 years. Except for two books."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Omnis Pura meeting room",
+      "kind": "meeting room",
+      "evidence": [
+        {
+          "startUid": "u4864",
+          "endUid": "u4909",
+          "quote": "DM: Okay, so, um, uh, on this floor, you come out and there's like, there's a wall that goes, you come out in the middle of like, the pillar goes down the middle of the room, and the stairway stops here. There's a wall that runs in the middle, so you, you can only see half of the floor. There's two doors on either side of like about 10 feet away from the middle of the staircase. Um, and the, the side of it you-\n\nDelwath: But so the wall runs-\n\nDM: Just bisects the-\n\nDelwath: But not, but it's on one side of the stair- staircase?\n\nDM: Yeah, yeah, on one side of the staircase. Um, and the only exits from this room you can immediately see are the two doors, um, each about halfway in between the staircase and the wall.\n\nDelwath: But in the wall bisecting the room.\n\nDM: Yeah, yeah. Um, they're fairly elaborate doors. Um, like they're, like most of the building is actually just kind of plain black stone, sort of unadorned, anything like that. Um, and in this room, this also was probably once, um, some kind of meeting room or something like that. Like, there's a spot in the middle where it looks like there was a big table. Um, the thing that's different here is that there, and there also were probably once tapestries hanging on the wall. You can see the sort of discolored spots where cloth once was hanging. Um, there are, uh, three statues. One is a statue of Apollyon, um, carved out of a sort of light gray marble. Um, well, well made, um, wearing the crown, holding up the scepter, not wearing the cloak. Um, and he seems to be, he's like raising his hand up in sort of like, um, benediction or something like that. And the other two statues are other probably Drankorian emperors, not anybody you recognize, but the way that they're, um, sort of carved and built, like they seem, they have that sort of imperial, sort of regal vibe. Um, and written, um, a- across the, the top o- of the wall is, um... Okay, I didn't have actually time to get to this.\n\nDM: It's the super cool sounding motto of the Omnis Pura that makes it clear it's the Omnis Pura, humans live forever or something like that.\n\nUnknown: Right.\n\nDM: But I never came up with what the super cool motto of the Omnis Pura would be.\n\nDelwath: Doesn't translate well from the original Dran-\n\nDM: Doesn't translate from the original Drankorian, right. Sounds sort of stilted when you translate it into Common, right? It's like... Um, but, and this has all, the statues have all survived. Um, uh, and-\n\nKenzo: Are they magic?\n\nDM: This, there's, there's no magic in here, but Wellby you can hear rattling from the other side of the door, faint rattling."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u4847",
+              "endUid": "u4869",
+              "quote": "DM: Down to the next floor?\n\nUnknown: Yeah.\n\nDM: Okay, so, uh, who's, what's the order are you going down in?\n\nWellby: I think I'm going first.\n\nDM: Okay.\n\nKenzo: I'll go second, Seeker third, Delwath fourth. That's like our standard order, right?\n\nDM: Yeah.\n\nWellby: I'm usually in back, but I think it makes sense to be in front scouting this place out.\n\nUnknown: Yeah.\n\nDM: Yeah. Okay, you...\n\nDelwath: Actually, but Kenzo, I should be in front, you should be in back 'cause you can, you can run a lot more fast.\n\nDM: Okay, that's fine.\n\nWellby: Mm.\n\nDelwath: So if we meet something, it's a lot easier for you to close with it.\n\nDM: Okay, so, um, uh, on this floor, you come out and there's like, there's a wall that goes, you come out in the middle of like, the pillar goes down the middle of the room, and the stairway stops here. There's a wall that runs in the middle, so you, you can only see half of the floor. There's two doors on either side of like about 10 feet away from the middle of the staircase. Um, and the, the side of it you-"
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "room with moving metal scraps",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u4923",
+          "endUid": "u4946",
+          "quote": "DM: Yeah. Um, okay. Long or short rest. So what you see is actually a very strange sight. Um, there is, uh, it looks like, you can't see anything moving it, but it, so the room... D- oh, Delwath's looking through, right?\n\nUnknown: Yeah.\n\nDM: So, um, there's a staircase down from the other side of this statue, or sorry, from the other side of this room, and there's, um, there's, there's, there's not much-\n\nDelwath: So the staircase, is it like another-\n\nDM: It's against the wall now.\n\nUnknown: Okay.\n\nDM: Um, and there is a, uh... So again, the room is fairly empty. Um, there are, uh, you know, it was probably, who knows what it once was, it's hard to say, but there's like some me- loose like metal or like just scraps of stuff. Like maybe there was once like— two, like, pieces of armor that-\n\nUnknown: Right.\n\nDM: ... stood guard by the doors or something, but they've fallen down now. But the, but the, these little scraps of metal seem to be, like, floating and scraping against the floor and kind of moving around in these weird chaotic ways in the air."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u4864",
+              "endUid": "u4874",
+              "quote": "DM: Okay, so, um, uh, on this floor, you come out and there's like, there's a wall that goes, you come out in the middle of like, the pillar goes down the middle of the room, and the stairway stops here. There's a wall that runs in the middle, so you, you can only see half of the floor. There's two doors on either side of like about 10 feet away from the middle of the staircase. Um, and the, the side of it you-\n\nDelwath: But so the wall runs-\n\nDM: Just bisects the-\n\nDelwath: But not, but it's on one side of the stair- staircase?\n\nDM: Yeah, yeah, on one side of the staircase. Um, and the only exits from this room you can immediately see are the two doors, um, each about halfway in between the staircase and the wall."
+            },
+            {
+              "startUid": "u4931",
+              "endUid": "u4946",
+              "quote": "DM: So, um, there's a staircase down from the other side of this statue, or sorry, from the other side of this room, and there's, um, there's, there's, there's not much-\n\nDelwath: So the staircase, is it like another-\n\nDM: It's against the wall now.\n\nUnknown: Okay.\n\nDM: Um, and there is a, uh... So again, the room is fairly empty. Um, there are, uh, you know, it was probably, who knows what it once was, it's hard to say, but there's like some me- loose like metal or like just scraps of stuff. Like maybe there was once like— two, like, pieces of armor that-\n\nUnknown: Right.\n\nDM: ... stood guard by the doors or something, but they've fallen down now. But the, but the, these little scraps of metal seem to be, like, floating and scraping against the floor and kind of moving around in these weird chaotic ways in the air."
+            }
+          ]
+        }
+      ],
+      "note": "Seen through the wall; bypassed rather than entered. The nature of the moving scraps is unresolved."
+    },
+    "p16": {
+      "label": "bedroom, study and living quarters",
+      "kind": "residential floors",
+      "evidence": [
+        {
+          "startUid": "u5006",
+          "endUid": "u5030",
+          "quote": "DM: Yep, there's multiple rooms on this floor. The floor is divided up. So you fly into the window that looks like the bedroom.\n\nDelwath: Well, was there any... I mean, on the half that I can walk around and look through, I want to look through.\n\nDM: Oh, look, you're just, like, walking across the whole-\n\nUnknown: Yeah, yeah, yeah, yeah.\n\nDM: Yeah, so there's two rooms here. There's, like, a bedroom and a study, basically.\n\nDelwath: Okay. Um, I'm actually, while I'm doing this with ghostly gaze, this only lasts a minute, I can't do it again, I would like to look through the entire floor here and look to see, like, are there any secret... In the room beneath us where there's a bedroom and a study, are there any, like, secret areas?\n\nDM: Nope, it looks pretty boring, just a bedroom and a study.\n\nDelwath: Okay. There's not, like, a hidden little section against the wall or anything like that?\n\nDM: Nope.\n\nDelwath: All right. Let's turn back into birds and just skip. The, the, the vibe of that chaos thing, I think it's gonna, like, tear into us if we...\n\nUnknown: Let's just skip it.\n\nSeeker: Yeah. Yeah, yeah, yeah.\n\nWellby: Yeah, we just explore the next... skip it.\n\nUnknown: Yeah. Yeah.\n\nWellby: Explore the next floor.\n\nDM: Okay. So you fly into the next floor as birds.\n\nUnknown: Yeah. Yeah.\n\nDM: Um, so again, there's, like, a bedroom and a study, and then it connects to a corridor, and then, um, uh, a corridor where the stairs come down, and then there's another, like, uh, cha- set of chambers on the other side. Um-"
+        },
+        {
+          "startUid": "u5061",
+          "endUid": "u5078",
+          "quote": "Delwath: So we come in through the bedroom. And is there a door from the bedroom to the study?\n\nDM: Yes.\n\nUnknown: Okay. So-\n\nDM: But not to the servant's quarters. There's a door from the bedroom to the study, and then from the study to the corridor, and then there's, like, a small room-\n\nUnknown: Okay.\n\nDM: ... pressed up against the stairs.\n\nDelwath: So is there anything magical in the bedroom?\n\nDM: Nope.\n\nWellby: Is that the gold Drankorian coins?\n\nDM: There's, there's a f- few hundred Drankorian gold coins.\n\nUnknown: Shove them in the hole. Shove them in the hole.\n\nDM: And about 1,000 Drankorian silver coins.\n\nUnknown: Stick them.\n\nDelwath: Yeah. Choose the hole.\n\nDM: There's bits of metal, other bits of metal lying around. Like, you know, there was clearly once, like, metal bed posts. Oh, and there is, there's a, um, a pretty nice, like, silver water pitcher lying, fallen on the ground in the study."
+        },
+        {
+          "startUid": "u5217",
+          "endUid": "u5222",
+          "quote": "Delwath: Anything in the servant's quarters?\n\nDM: No. Uh, the next level is very similar to this one. Uh, it looks like just more living space and private quarters, and the next one down after that as well. I mean, this is, like, three floors of just the heart of the living space of the tower. Uh, you know, another, like, 200 gold coins and, and 2,000 silver coins."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u5217",
+              "endUid": "u5222",
+              "quote": "Delwath: Anything in the servant's quarters?\n\nDM: No. Uh, the next level is very similar to this one. Uh, it looks like just more living space and private quarters, and the next one down after that as well. I mean, this is, like, three floors of just the heart of the living space of the tower. Uh, you know, another, like, 200 gold coins and, and 2,000 silver coins."
+            },
+            {
+              "startUid": "u5273",
+              "endUid": "u5274",
+              "quote": "DM: Uh, going through the living quarters, you come down finally to the ground floor."
+            }
+          ]
+        }
+      ],
+      "note": "The first bedroom/study floor and the two further residential floors form the narrated descent. No extra daily positions or unsupported numbered floors are reconstructed."
+    },
+    "p17": {
+      "label": "ground-floor entrance foyer",
+      "kind": "foyer",
+      "evidence": [
+        {
+          "startUid": "u5296",
+          "endUid": "u5299",
+          "quote": "Seeker: I missed it. Where are we now?\n\nUnknown: On the ground floor.\n\nDM: You're now on the ground floor, which I'm about to describe what you come down into.\n\nSeeker: Okay."
+        },
+        {
+          "startUid": "u5314",
+          "endUid": "u5348",
+          "quote": "DM: ... what looks like a grand entrance foyer. So the ceilings on this bottom floor are, like, 20 feet tall, and the stairs come down, um, right on the side, like, almost right next to where the two big doors that clearly open to the outside, um, are. And there's this, like, high sort of arched, almost like there's, like, pillars that come down forming, like, a column that leads in this sort of grand entrance space to another set of double doors on the far side. This, this corridor is probably, like, 20, 15 feet long, so not quite half the diameter of the tower.\n\nUnknown: [coughs]\n\nDM: And there's a... So there's the stairs come down on one side. You've got this, like, row of these columns, but they're not, it's not empty space, right? There's, like, walls along them. There's columns along the side, and there's a door. There's a small door on the other side directly across from where stairs come, and then large doors right in front of you. Or not right in front of you, but at the end of this corridor.\n\nDelwath: But are the large doors...\n\nDM: Closed.\n\nDelwath: But are they the outside doors?\n\nDM: Oh, there's outside doors and then inside doors on either side of this corridor.\n\nDelwath: Okay, so like we're in a... Okay. There's, like, big doors. So the only way out of the corridor is...\n\nDM: There's three exits from the cor-\n\nUnknown: The big-\n\nDM: Four exits from the corridor. There's stairs up.\n\nUnknown: Yeah, which we're coming down, yeah.\n\nDM: There's a small, there's a small door across from the stairs up.\n\nUnknown: Okay.\n\nDM: There's big doors to the outside, or there's big doors to the inside.\n\nUnknown: And the corridor's, I mean, it's not a corridor.\n\nDM: It's not just a corridor where we- Yeah, it's like an entry foyer ... an entryway. Okay. There's, like, carved arches along the side. Like, um, this is all this sort of light gray stone as opposed to the darkness, the black of the actual tower itself."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u5296",
+              "endUid": "u5299",
+              "quote": "Seeker: I missed it. Where are we now?\n\nUnknown: On the ground floor.\n\nDM: You're now on the ground floor, which I'm about to describe what you come down into.\n\nSeeker: Okay."
+            },
+            {
+              "startUid": "u5314",
+              "endUid": "u5319",
+              "quote": "DM: ... what looks like a grand entrance foyer. So the ceilings on this bottom floor are, like, 20 feet tall, and the stairs come down, um, right on the side, like, almost right next to where the two big doors that clearly open to the outside, um, are. And there's this, like, high sort of arched, almost like there's, like, pillars that come down forming, like, a column that leads in this sort of grand entrance space to another set of double doors on the far side. This, this corridor is probably, like, 20, 15 feet long, so not quite half the diameter of the tower."
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "lookout guard room",
+      "kind": "guard room",
+      "evidence": [
+        {
+          "startUid": "u5368",
+          "endUid": "u5378",
+          "quote": "Delwath: Right. Let's check out the little door.\n\nUnknown: All right.\n\nDM: Um, there are stairs down, and what looks like a small sort of guard room that could, like, watch out. There's, like, a ar- a lookout so that you can look out to the, you can see out. There's, like, peepholes so you can see out to the outside, and then there's stairs down.\n\nSeeker: The outside of the tower or the basement?\n\nDM: Of the tower, so you could see anybody who's approaching the door from here.\n\nSeeker: Okay. And we're looking inland.\n\nDM: You're looking inland, yeah. You're looking across this broken, jagged terrain."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u5370",
+              "endUid": "u5378",
+              "quote": "DM: Um, there are stairs down, and what looks like a small sort of guard room that could, like, watch out. There's, like, a ar- a lookout so that you can look out to the, you can see out. There's, like, peepholes so you can see out to the outside, and then there's stairs down.\n\nSeeker: The outside of the tower or the basement?\n\nDM: Of the tower, so you could see anybody who's approaching the door from here.\n\nSeeker: Okay. And we're looking inland.\n\nDM: You're looking inland, yeah. You're looking across this broken, jagged terrain."
+            }
+          ]
+        }
+      ]
+    },
+    "p19": {
+      "label": "audience chamber and throne room",
+      "kind": "audience chamber",
+      "evidence": [
+        {
+          "startUid": "u5384",
+          "endUid": "u5401",
+          "quote": "DM: Okay. All right. Um, you open the doors. Um, there is, uh, this looks like a grand, uh, audience chamber. Um, there's a throne, uh, with, that's decorated with gems. Um, there's a set of, uh, like, s- there's a stone table in the middle that's, and then, like, seats that kind of are, uh... Uh, sorry, I guess it's not really a stone table. It's, like, stone seats that are sitting, like, so that an audience, so that you could talk to the person on the throne. And there's probably about 40 skeletons kind of sitting all, like, dead. Like, some, there's one sitting on the throne. There's about 20 or so that are sitting in the pews. Um, one's head turns."
+        },
+        {
+          "startUid": "u6132",
+          "endUid": "u6141",
+          "quote": "DM: Are you gonna short, like, right here outside the door?\n\nUnknown: No, no, no, no, no, no. Let's-\n\nWellby: Back up in the throne room?\n\nKenzo: Let's go back into the throne room and, like- Yeah, where there's full of skeletons and stuff ...\n\nUnknown: With the dead bodies and stuff.\n\nWellby: Skeleton powder.\n\nDelwath: But it's powdered skeletons.\n\nUnknown: [laughs] Not that one.\n\nWellby: Oh, did they just disintegrate up?\n\nDM: Yeah. They kind of... That much radiant damage, I figure skeletons just kind of disintegrate."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u5314",
+              "endUid": "u5341",
+              "quote": "DM: ... what looks like a grand entrance foyer. So the ceilings on this bottom floor are, like, 20 feet tall, and the stairs come down, um, right on the side, like, almost right next to where the two big doors that clearly open to the outside, um, are. And there's this, like, high sort of arched, almost like there's, like, pillars that come down forming, like, a column that leads in this sort of grand entrance space to another set of double doors on the far side. This, this corridor is probably, like, 20, 15 feet long, so not quite half the diameter of the tower.\n\nUnknown: [coughs]\n\nDM: And there's a... So there's the stairs come down on one side. You've got this, like, row of these columns, but they're not, it's not empty space, right? There's, like, walls along them. There's columns along the side, and there's a door. There's a small door on the other side directly across from where stairs come, and then large doors right in front of you. Or not right in front of you, but at the end of this corridor.\n\nDelwath: But are the large doors...\n\nDM: Closed.\n\nDelwath: But are they the outside doors?\n\nDM: Oh, there's outside doors and then inside doors on either side of this corridor.\n\nDelwath: Okay, so like we're in a... Okay. There's, like, big doors. So the only way out of the corridor is...\n\nDM: There's three exits from the cor-\n\nUnknown: The big-\n\nDM: Four exits from the corridor. There's stairs up.\n\nUnknown: Yeah, which we're coming down, yeah.\n\nDM: There's a small, there's a small door across from the stairs up.\n\nUnknown: Okay.\n\nDM: There's big doors to the outside, or there's big doors to the inside."
+            },
+            {
+              "startUid": "u5381",
+              "endUid": "u5401",
+              "quote": "Wellby: Oh, yeah. I'll stay behind us. Let's, let's go through the interior doors, see what's there.\n\nSeeker: The big interior doors, okay.\n\nDM: Okay. All right. Um, you open the doors. Um, there is, uh, this looks like a grand, uh, audience chamber. Um, there's a throne, uh, with, that's decorated with gems. Um, there's a set of, uh, like, s- there's a stone table in the middle that's, and then, like, seats that kind of are, uh... Uh, sorry, I guess it's not really a stone table. It's, like, stone seats that are sitting, like, so that an audience, so that you could talk to the person on the throne. And there's probably about 40 skeletons kind of sitting all, like, dead. Like, some, there's one sitting on the throne. There's about 20 or so that are sitting in the pews. Um, one's head turns."
+            }
+          ]
+        }
+      ]
+    },
+    "p20": {
+      "label": "basement storeroom",
+      "kind": "storeroom",
+      "evidence": [
+        {
+          "startUid": "u6023",
+          "endUid": "u6044",
+          "quote": "Wellby: All right, basement?\n\nUnknown: Yeah.\n\nDM: Yeah. So the stairs come down and open out into what seems like a sort of storage room and keep going down. There's one more level.\n\nWellby: Magic on this floor?\n\nDM: No.\n\nWellby: Anything interesting on this floor?\n\nDM: I mean, this is underground, so it's less damaged. Um, but there's like-\n\nSeeker: It's not interesting.\n\nDM: Yeah, there's, so there's like crates. I mean, the crates have fallen apart, but you can see there's, um, you know, silks that are molded through. There's, um... I mean, nothing here is really salvageable, but you can still see this was, this was prob- There's like barrels of wine that have turned to vinegar long, long ago, right? This was, uh, mostly like mundane just storage. Um, uh, nothing but like the kind of stuff that you'd expect to find, like, in a royal palace or something, right? Like, it's not magical. But let me check with- Anyway, yeah, so you wanna keep going down?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u6023",
+              "endUid": "u6055",
+              "quote": "Wellby: All right, basement?\n\nUnknown: Yeah.\n\nDM: Yeah. So the stairs come down and open out into what seems like a sort of storage room and keep going down. There's one more level.\n\nWellby: Magic on this floor?\n\nDM: No.\n\nWellby: Anything interesting on this floor?\n\nDM: I mean, this is underground, so it's less damaged. Um, but there's like-\n\nSeeker: It's not interesting.\n\nDM: Yeah, there's, so there's like crates. I mean, the crates have fallen apart, but you can see there's, um, you know, silks that are molded through. There's, um... I mean, nothing here is really salvageable, but you can still see this was, this was prob- There's like barrels of wine that have turned to vinegar long, long ago, right? This was, uh, mostly like mundane just storage. Um, uh, nothing but like the kind of stuff that you'd expect to find, like, in a royal palace or something, right? Like, it's not magical. But let me check with- Anyway, yeah, so you wanna keep going down?\n\nWellby: Mm-hmm.\n\nDelwath: Uh, that's not bad.\n\nWellby: What?\n\nSeeker: It's sort of kind of weird and creepy.\n\nWellby: Huh.\n\nDelwath: I mean, not bad in the sense of at least it's sort of interesting.\n\nUnknown: Um,\n\nDM: Okay, so the, the stairs, so the stairs are running along the side of the, of, of the tower, but it's hard to... Like, who knows whether the tower is... The circular shape continues. They actually go down slightly, um, and then turn a sharp corner, and go down slightly more, and come to a solid metal door."
+            }
+          ]
+        }
+      ]
+    },
+    "p21": {
+      "label": "lower stairs and metal-door threshold",
+      "kind": "stairs and landing",
+      "evidence": [
+        {
+          "startUid": "u6052",
+          "endUid": "u6067",
+          "quote": "DM: Okay, so the, the stairs, so the stairs are running along the side of the, of, of the tower, but it's hard to... Like, who knows whether the tower is... The circular shape continues. They actually go down slightly, um, and then turn a sharp corner, and go down slightly more, and come to a solid metal door.\n\nWellby: No, I'm just tapping this now. Yeah. [laughs] That freaked me out for a minute. Sorry. [laughs]\n\nKenzo: [laughs] Don't mind me. [laughs]\n\nWellby: Tap, tap, tap.\n\nSeeker: Um- So there's a metal door at the bottom of the stairs.\n\nWellby: Trapped? Locked?\n\nDM: Make an investigation check.\n\nWellby: Investigation.\n\nDM: It is definitely locked.\n\nWellby: Uh, 20.\n\nDM: It's not trapped."
+        },
+        {
+          "startUid": "u6737",
+          "endUid": "u6744",
+          "quote": "Kenzo: What room are... What's this room that we're in right here?\n\nDM: This is the hall.\n\nUnknown: Oh, shit.\n\nDM: This is the stairway going down.\n\nUnknown: Oh, so this is-\n\nWellby: Near room\n\nUnknown: ... okay\n\nDM: ... that's the corridor."
+        },
+        {
+          "startUid": "u6851",
+          "endUid": "u6856",
+          "quote": "DM: That's not that, it's not that far. It, it turns a corner like, uh, two squares behind Seeker and then goes up another 15 feet to the, um, to the...\n\nDelwath: Like that?\n\nDM: Yep, and then that opens up into the, um, the storeroom, which is like a-"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u6052",
+              "endUid": "u6055",
+              "quote": "DM: Okay, so the, the stairs, so the stairs are running along the side of the, of, of the tower, but it's hard to... Like, who knows whether the tower is... The circular shape continues. They actually go down slightly, um, and then turn a sharp corner, and go down slightly more, and come to a solid metal door."
+            }
+          ]
+        }
+      ]
+    },
+    "p22": {
+      "label": "lower forge chamber",
+      "kind": "workshop",
+      "evidence": [
+        {
+          "startUid": "u6209",
+          "endUid": "u6239",
+          "quote": "DM: But you do see through the door and you can... So you're looking into what looks like a relatively bare room, except in the center there's a circular, um, it's not really a table, it's like a pedestal. It's like about, like maybe that big, a little big around, just a s- stone, um, this sort of dark... Well, it's mottled. It's like gray and black and there's some browns. It's like mottled stone shaped into this giant pedestal. Um, and there's runes that run around the side-\n\nKenzo: Divine Forge\n\nDM: ... like 10 different languages that are all incantations about, um, enchantment.\n\nUnknown: It's a forge, but-\n\nDM: Around the sides there's four, um, large holes about this big that sort of bore into the side of the pedestal, evenly spaced around that each go about one third of the way in. Um, and there are concentric, silver concentric circles on the top that run just, like, about 10 concentric circles that get smaller and smaller. Um, and then running down, like coming out through those holes in the side, running down the side of the pedestal and then along the floor, there's silvery lines that trace, like, a net around the entire room that all converge onto a metal panel on the far wall. It's about a one foot by one foot metal square.\n\nUnknown: Wow.\n\nDM: Um, there are two doors.\n\nUnknown: What?\n\nDM: One on the left, one on the right, and there is a black void that vaguely looks like a blade hovering on top of the sta- of the pedestal.\n\nUnknown: Wow.\n\nDelwath: And there's magic somewhere, but I can't see it.\n\nDM: Yes.\n\nUnknown: And it's not the blade?\n\nWellby: I mean, is it the whole room?\n\nDM: Well, I mean, looking through, yeah. Like, the whole room is highly magical."
+        },
+        {
+          "startUid": "u8791",
+          "endUid": "u8825",
+          "quote": "Kenzo: [laughs] All right. Let's, uh, yeah, let's search the room.\n\nDM: There's nothing... I mean, okay. Uh, so looking around this main room before you open any doors.\n\nUnknown: Yeah.\n\nUnknown: Yeah.\n\nSeeker: There's a divine forge.\n\nWellby: Very carefully inspecting all the parts of it and-\n\nKenzo: Do you, do you, you lick the silver panel on the wall\n\nWellby: ... panel.\n\nSeeker: I will, um-\n\nDM: The main thing is, like, who's touching what is the main thing I need to know.\n\nDelwath: Okay. I'm touching nothing.\n\nUnknown: I'm touching... I'll hold Seeker back.\n\nUnknown: [laughs] Touching nothing. Seeker, everything.\n\nSeeker: [laughs] Seeker maybe has learned a lesson a little bit today, so.\n\nDelwath: Like there's a mage hand hovering like right here.\n\nUnknown: [laughs]\n\nDelwath: And if Seeker gets too close to anything...\n\nKenzo: But he does have to touch things. Or how long, how many times can you do the identify?\n\nDM: Just once.\n\nKenzo: Once a day.\n\nSeeker: Yeah. So we've used it for today.\n\nKenzo: I mean, also it was a strong use.\n\nUnknown: It was a strong use.\n\nWellby: Yeah. Yeah.\n\nKenzo: But man, this fucking forge, that thing would be pretty, that's a pretty-\n\nDelwath: I mean, does the silver thing look like a... Remind us what the...\n\nDM: So there's a sil- there's like a metal, silver metal panel that's like one foot square in the wall.\n\nUnknown: Mm-hmm.\n\nDM: There's all of these lu- like lines, silvery lines radiating out from it that look kind of like sort of jagged etchings that go in this all around the room, forming almost like a cage around the room, but all converge on the floor and then run up the sides, the bottom parts of the sides of the black pedestal and go into those four holes in the middle.\n\nUnknown: Right.\n\nDM: And then the top has a bunch of concentric circles etched in it."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u6105",
+              "endUid": "u6113",
+              "quote": "Unknown: Let's short rest. Well, here's my only question.\n\nWellby: Yeah?\n\nDelwath: Before we short rest, should we dimension door to the other side of this?\n\nWellby: Once we get on the other side of this door, like, shit's gonna go bad.\n\nKenzo: You think so? Yeah, I think there's gonna be, like, ugly, bad thing. Like some crazy construct, big, giant golem. Yeah, probably right. Yeah. We're in the basement of Apollyon's Tower. We still haven't found a place where he makes fucking crazy, weird, OP weapons."
+            },
+            {
+              "startUid": "u6198",
+              "endUid": "u6239",
+              "quote": "Delwath: Ghostly gaze through the door.\n\nDM: So you go back down to the door, you ghostly gaze.\n\nDelwath: I mean, that's what we should do, right?\n\nKenzo: Yeah. Um- We don't just dimension door through.\n\nUnknown: We look. Yeah.\n\nDM: Uh, there is, um... So you see-\n\nDelwath: Also, can I see the magic now? Can I see if there's any, like, mechanisms inside? Like, can I see where the magic that I detected earlier is coming from?\n\nUnknown: Uh, nope\n\nDM: But you do see through the door and you can... So you're looking into what looks like a relatively bare room, except in the center there's a circular, um, it's not really a table, it's like a pedestal. It's like about, like maybe that big, a little big around, just a s- stone, um, this sort of dark... Well, it's mottled. It's like gray and black and there's some browns. It's like mottled stone shaped into this giant pedestal. Um, and there's runes that run around the side-\n\nKenzo: Divine Forge\n\nDM: ... like 10 different languages that are all incantations about, um, enchantment.\n\nUnknown: It's a forge, but-\n\nDM: Around the sides there's four, um, large holes about this big that sort of bore into the side of the pedestal, evenly spaced around that each go about one third of the way in. Um, and there are concentric, silver concentric circles on the top that run just, like, about 10 concentric circles that get smaller and smaller. Um, and then running down, like coming out through those holes in the side, running down the side of the pedestal and then along the floor, there's silvery lines that trace, like, a net around the entire room that all converge onto a metal panel on the far wall. It's about a one foot by one foot metal square.\n\nUnknown: Wow.\n\nDM: Um, there are two doors.\n\nUnknown: What?\n\nDM: One on the left, one on the right, and there is a black void that vaguely looks like a blade hovering on top of the sta- of the pedestal.\n\nUnknown: Wow.\n\nDelwath: And there's magic somewhere, but I can't see it.\n\nDM: Yes.\n\nUnknown: And it's not the blade?\n\nWellby: I mean, is it the whole room?\n\nDM: Well, I mean, looking through, yeah. Like, the whole room is highly magical."
+            }
+          ]
+        }
+      ],
+      "note": "The session calls this the Divine Forge but questions that power source at u9115–u9124. The notes later describe a forge powered by its user. This is not the separately located Cymean Elemental Forge."
+    },
+    "p23": {
+      "label": "metal stockroom and stone chest",
+      "kind": "storeroom",
+      "evidence": [
+        {
+          "startUid": "u8716",
+          "endUid": "u8720",
+          "quote": "DM: There's no other space. Um, and in these, so in the room to the right, you just have the time for a quick glance. It looks like there's, like, hundreds of different, or, like, many different kinds of metals. Like, all sorts of metal bars-\n\nUnknown: Right. Okay"
+        },
+        {
+          "startUid": "u8845",
+          "endUid": "u8894",
+          "quote": "Kenzo: Let's look in the metal room first.\n\nDM: Okay. Yeah.\n\nKenzo: Seeker, Seeker identifies all the metals.\n\nDM: Um, so you open the door and you look in. Uh, there's, you know, there's a, there's a shelf that goes along the back that stretches about 10, 15 feet along the, along the, the side wall. It's a sort of empty, dusty stone room. Um, and, uh, there's like probably 200, like, metal bars all sort of evenly sized like this. Um, some fairly mundane. All the adamantine seems to have been used up.\n\nUnknown: Mm-hmm.\n\nDM: But there's, you know, there's some that are, like, silver. There's several bars of mithril. There's, like, some metal you don't even recognize.\n\nUnknown: Ooh.\n\nUnknown: Oh.\n\nDM: Um...\n\nKenzo: Take all those. Lick them first.\n\nUnknown: [laughs]\n\nDM: Uh-\n\nUnknown: Is there anything magical?\n\nDM: Uh, there's, there is nothing... Wait, you don't, you'd have to... So you've just ritualed up detect magic again now.\n\nDelwath: It hasn't been 30 minutes, has it?\n\nUnknown: It's not concentration.\n\nDM: Oh, right. It's no longer, it's not concentration anymore. That's right. So yeah. Um.\n\nKenzo: We did a short rest.\n\nDelwath: I don't know.\n\nUnknown: Uh-\n\nDelwath: But we did a short rest. Yeah, but I would have probably re-\n\nDM: Redone it\n\nDelwath: ... I mean, or I can take a minute either way, but.\n\nDM: Um, yeah, it doesn't matter. Uh, the, so there is, there is nothing magical, but the other thing, at the far end of the room, there is a stone chest.\n\nWellby: Check for traps.\n\nSeeker: Always with the chests.\n\nDM: Uh, okay. Make an investigation check.\n\nWellby: Uh, 28.\n\nDM: Um, there are no traps.\n\nKenzo: Is the chest magic?\n\nDM: The chest isn't magic. It's fairly thick stone.\n\nWellby: All right. Open chest.\n\nDM: It's locked."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u8707",
+              "endUid": "u8723",
+              "quote": "DM: ... there are small rooms-\n\nUnknown: [laughs]\n\nDM: ... through each of these doors. Each one is, like, 10 feet out and, like, extends the length of the, of the r- like, going back this way. So it's like sh- forms, like, an L. It goes about 20 feet back.\n\nDelwath: Like, around like that?\n\nDM: Yeah.\n\nDelwath: And is there any... I'm just gonna glance around all the walls.\n\nDM: There's no other space. Um, and in these, so in the room to the right, you just have the time for a quick glance. It looks like there's, like, hundreds of different, or, like, many different kinds of metals. Like, all sorts of metal bars-\n\nUnknown: Right. Okay\n\nDM: ... and random things. Um, um, in the other one, you see, like, a s- like a stone basin, um, like, uh, a whole row of glass vials, um, fine sort of metal shavings and things."
+            },
+            {
+              "startUid": "u8845",
+              "endUid": "u8857",
+              "quote": "Kenzo: Let's look in the metal room first.\n\nDM: Okay. Yeah.\n\nKenzo: Seeker, Seeker identifies all the metals.\n\nDM: Um, so you open the door and you look in. Uh, there's, you know, there's a, there's a shelf that goes along the back that stretches about 10, 15 feet along the, along the, the side wall. It's a sort of empty, dusty stone room. Um, and, uh, there's like probably 200, like, metal bars all sort of evenly sized like this. Um, some fairly mundane. All the adamantine seems to have been used up."
+            }
+          ]
+        }
+      ]
+    },
+    "p24": {
+      "label": "metal-etching workshop",
+      "kind": "workshop",
+      "evidence": [
+        {
+          "startUid": "u8721",
+          "endUid": "u8727",
+          "quote": "DM: ... and random things. Um, um, in the other one, you see, like, a s- like a stone basin, um, like, uh, a whole row of glass vials, um, fine sort of metal shavings and things.\n\nUnknown: This is Faldrak's wet dream.\n\nUnknown: Yeah.\n\nDM: Um, yeah. And that's, like, you're only, you're, like, quickly glancing."
+        },
+        {
+          "startUid": "u9071",
+          "endUid": "u9078",
+          "quote": "DM: Okay. So the other room, like, you spend a little bit... You go in there and you spend a little time looking around. Like, the Seeker recognizes this is clearly, um, like, the wor- a workshop for, like, etching metal. There's, like, a ceramic basin, there's, like, acid. There's, um, there's, like, vials of different chemicals that you can pour on things, various ways that you could etch metal here.\n\nUnknown: Mm.\n\nDM: Nothing magical."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u8707",
+              "endUid": "u8727",
+              "quote": "DM: ... there are small rooms-\n\nUnknown: [laughs]\n\nDM: ... through each of these doors. Each one is, like, 10 feet out and, like, extends the length of the, of the r- like, going back this way. So it's like sh- forms, like, an L. It goes about 20 feet back.\n\nDelwath: Like, around like that?\n\nDM: Yeah.\n\nDelwath: And is there any... I'm just gonna glance around all the walls.\n\nDM: There's no other space. Um, and in these, so in the room to the right, you just have the time for a quick glance. It looks like there's, like, hundreds of different, or, like, many different kinds of metals. Like, all sorts of metal bars-\n\nUnknown: Right. Okay\n\nDM: ... and random things. Um, um, in the other one, you see, like, a s- like a stone basin, um, like, uh, a whole row of glass vials, um, fine sort of metal shavings and things.\n\nUnknown: This is Faldrak's wet dream.\n\nUnknown: Yeah.\n\nDM: Um, yeah. And that's, like, you're only, you're, like, quickly glancing."
+            },
+            {
+              "startUid": "u9069",
+              "endUid": "u9078",
+              "quote": "DM: Do you want to go into the other room?\n\nUnknown: Yeah, yeah. Go into the other room.\n\nDM: Okay. So the other room, like, you spend a little bit... You go in there and you spend a little time looking around. Like, the Seeker recognizes this is clearly, um, like, the wor- a workshop for, like, etching metal. There's, like, a ceramic basin, there's, like, acid. There's, um, there's, like, vials of different chemicals that you can pour on things, various ways that you could etch metal here.\n\nUnknown: Mm.\n\nDM: Nothing magical."
+            }
+          ]
+        }
+      ]
+    },
+    "p25": {
+      "label": "outside the audience-chamber window",
+      "kind": "exterior",
+      "evidence": [
+        {
+          "startUid": "u5490",
+          "endUid": "u5494",
+          "quote": "DM: There were two windows, two big windows in the audience chamber.\n\nSeeker: So we just step outside.\n\nUnknown: Yeah.\n\nSeeker: Walk around to the other side. Sickening Radiance through the window."
+        },
+        {
+          "startUid": "u5579",
+          "endUid": "u5593",
+          "quote": "Seeker: Don't put it on, don't put it on the to-do list. We turn into birds.\n\nWellby: No.\n\nUnknown: 'Cause then it, it, it...\n\nUnknown: Just do it right then.\n\nDM: So you have to, you have to bro- unshift-\n\nUnknown: 'Cause if you put it on the to-do list, what happens later? Other things happen.\n\nUnknown: You get distracted\n\nDM: ... back 'cause you can't shift him back as a bird.\n\nUnknown: Yeah.\n\nSeeker: I see.\n\nUnknown: He'll notice.\n\nSeeker: Okay. Okay. I got it. I got it.\n\nDM: Okay. Delwath cast the spell."
+        },
+        {
+          "startUid": "u5661",
+          "endUid": "u5668",
+          "quote": "Delwath: Uh, do I have any way of communicating with these people?\n\nSeeker: I... We're outside.\n\nUnknown: We're outside.\n\nUnknown: Oh, so we can see this.\n\nDM: Well, you've had plenty of time to reestablish telepathy.\n\nDelwath: Oh, that's true. I will shout through the telepathy that Seeker is somehow possessed."
+        }
+      ],
+      "note": "A casting position outside the tower, rather than a room inside it.",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u5490",
+              "endUid": "u5494",
+              "quote": "DM: There were two windows, two big windows in the audience chamber.\n\nSeeker: So we just step outside.\n\nUnknown: Yeah.\n\nSeeker: Walk around to the other side. Sickening Radiance through the window."
+            },
+            {
+              "startUid": "u5531",
+              "endUid": "u5556",
+              "quote": "DM: I mean, there's no reason you have to go out the front door. Seeker can still turn you into a bird.\n\nDelwath: True. Oh, yeah, that's true.\n\nWellby: Fly out. Yeah.\n\nUnknown: Yeah. All right.\n\nWellby: Perfect.\n\nDelwath: I mean, I just... It's a sp- spell slot I won't get back, but that's okay. Till we short rest.\n\nSeeker: Uh, it's worth it.\n\nKenzo: I'd like to neutralize this, uh, threat now.\n\nSeeker: Room full of skeletons.\n\nDelwath: All right. But you, can you magic me back into a bird when I'm outside?\n\nUnknown: I don't think so.\n\nDM: Well, what is... Why not?\n\nSeeker: Uh, I thought... I can... Uh, is that line of sight? Let's see.\n\nDM: Well, you might have to go with them.\n\nKenzo: Just walk a little better now.\n\nSeeker: Right.\n\nUnknown: The room full of skeletons.\n\nSeeker: It's just things that you can see.\n\nKenzo: Yeah, I'm feeling a little better.\n\nDelwath: Right, you have to come with me."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0038",
+        "endUid": "u0043"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Opening presence on the mountain summit at sunrise.",
+      "evidence": [
+        {
+          "startUid": "u0038",
+          "endUid": "u0043",
+          "quote": "DM: So from the peak of the mountain, you look out as the sun rises across the forests of the island below you. You can see from the mountain, from this perspective up here, especially in the morning light, that there's seven rivers that, like, run down and, and they actually, they do the reverse thing that rivers go. As they run down, they split into more and more smaller streams as they get towards the edge of the forest, and all of them stop at some point in these little pools."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0045",
+        "endUid": "u0071"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the mountain, see the black coastal tower to the west; this is not arrival there.",
+      "evidence": [
+        {
+          "startUid": "u0045",
+          "endUid": "u0071",
+          "quote": "DM: There must be dozens of them scattered across the forest in little clearings. And you look, from here you can see with the sun rising to the west, a tall, it must be maybe 15, 20 miles away, right on the coast, a tall tower, 250 feet tall, taller even than the statues, made of the same black-\n\nUnknown: Hm\n\nDM: ... uh, marble that the whole island seems to be sculpted of. Um, rising up about, you know, 100, 150 feet or so, and then a d- a viewing platform, and then a spire that goes up further to another viewing platform. Seems to be completely undamaged. Smooth stone. Um, the vibe is kind of more Orthanc than Cap- you know, than Barad-dûr.\n\nKenzo: Sorry, where, where are you describing again?\n\nUnknown: Apollyon's Tower.\n\nDM: This is Apollyon's Tower to the west that we can see now-\n\nUnknown: Ah.\n\nDM: ... because you're on the top of the mountain in the daylight.\n\nSeeker: Or, so you mean like Saruman as opposed to Sauron?\n\nDM: No, just the visual vibe is more.\n\nUnknown: Oh.\n\nDM: It's, like, smooth stone that it doesn't have, like, all sorts of battlements and-\n\nUnknown: Mm.\n\nDM: ... you know, things coming off of it. It's just kind of a smooth pillar of black stone that extends up 150 feet, and then there's an open, uh, viewing platform that must be, you know, the size of the... And then a much smaller tower that goes up another 100 feet from there, and comes to a, a peaked roof that has a sort of crenellation around the very top. Um, the middle viewing platform, at least from here, you can't see any indication that there's, like, a guardrail or anything."
+        }
+      ],
+      "place": "p04",
+      "mode": "remote",
+      "observerPlace": "p02"
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0153",
+        "endUid": "u0192"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "In the pre-rest flashback, Clairvoyance shows the red growth, plaza, ruined villa and separate baths; the party does not travel there.",
+      "evidence": [
+        {
+          "startUid": "u0128",
+          "endUid": "u0142",
+          "quote": "DM: Oh, that's true. Except you can't see it in the dark. You don't know it's there until you wake up in the morning.\n\nSeeker: So what am I clairvoyancing?\n\nUnknown: The dragon's lair.\n\nDM: You can do the dragon's lair with three charges. It's eight miles away.\n\nSeeker: But the gla- dragon's lair is underground.\n\nUnknown: Well, we just, uh, scan.\n\nDM: I mean, you can do the surface.\n\nSeeker: Oh, just look at the surface.\n\nDM: Yeah.\n\nSeeker: Okay, so we're gonna look above ground at the dragon's lair.\n\nDM: Yeah, you can't do the tower simply because you don't know it exists until you wake up in the morning and see it in the sun.\n\nSeeker: It's, it's dark. Okay. Okay, I gotcha, I gotcha. So I'm expending-"
+        },
+        {
+          "startUid": "u0153",
+          "endUid": "u0192",
+          "quote": "DM: So, uh- You just kind of guess somewhere to put it 'cause you can't really see that much details and it's not that, you know, it's dark, but the... Okay, so a few things you can definitely clearly see. Um, the, the sc- the what looks from a distance like this reddish bruise is actually like, uh, it's like, it looks like a, a mat of like this sort of red and orange and sort of angry scarred, like s- like moss that's sort of growing in like a spongy layer over the top of the ground.\n\nKenzo: How is the moss angry?\n\nDM: That's just the color. It's, it's-\n\nUnknown: Okay.\n\nDM: And that seems to extend for this whole distance, right? So this red thing you're seeing from a distance and clairvoyance up close is like a, it's like a mat of something that's grown over the land, this weird-\n\nUnknown: Moss.\n\nDM: ... moss. Um, there is a structure here. So you can see there's, um, there's like a road that leads from the pilgrims path towards, uh, what is a big sort of oval, um, uh, like a big oval plaza, sort of like stone paved where the moss hasn't seemed to grown. Um, the moss is like creeping over the road, but not entirely. So you can see like little bits of the road, but it hasn't grown over this, um, this plaza. And then the road splits and one, um, this area is clear of the moss. One, uh, path goes off to a hill where there's a not really intact villa, just like, um, again, just pretty much level. But you can see the outlines, like there's a courtyard, and then you can see the walls. Um, like the left half, the one half closer to you is still kind of standing like three stories and a bit of a roof. The right half on the other side is like completely destroyed down to the found- like the rubble foundations pretty much. Um, but it once was probably a fairly big, fairly substantial villa, and it's overlooking about a half mile away what looks like, uh... There's like a, a big pool. It almost looks like, like thermal baths, right?\n\nDM: It's like a big pool and then three little pools around it that are all arranged, like nice paved marble area. You can see a row of columns around it. Um, if there once was a roof, it's gone. But there's, uh, you know, there's a whole entrance complex that is now mostly rubble. But, um, you can see like a few dragonets kind of perched around, snoozing a little bit. Um, seemingly sleeping in the plaza further, a little further away are four, um, pretty large, like horse sized beasts that have the head of a dragon, a goat, and a lion all coming out of their neck with wings."
+        }
+      ],
+      "place": "p05",
+      "mode": "remote",
+      "observerPlace": "p02",
+      "context": "flashback"
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0311",
+        "endUid": "u0317"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Aura sensing detects a fiend beneath the Dragonmire villa, without a physical visit or a detected dragon.",
+      "evidence": [
+        {
+          "startUid": "u0280",
+          "endUid": "u0283",
+          "quote": "Kenzo: Probably, yeah. Yeah, how about this? I'll, I'm gonna, um, I'm gonna follow up your clairvoyance with a, an aura, um, analysis of the lair. In particular, is the dragon there?\n\nDM: You can't sense any dragon."
+        },
+        {
+          "startUid": "u0311",
+          "endUid": "u0317",
+          "quote": "DM: The other thing Kenzo senses, Kong, is, um, a fiend underneath the villa.\n\nUnknown: Great.\n\nUnknown: Ouch.\n\nUnknown: Which v-\n\nWellby: Which villa?\n\nDM: The villa in the Dragonmire."
+        }
+      ],
+      "place": "p06",
+      "mode": "remote",
+      "observerPlace": "p02",
+      "context": "flashback"
+    },
+    {
+      "id": "l05",
+      "type": "presence",
+      "source": {
+        "startUid": "u0391",
+        "endUid": "u0397"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Resume the morning at Dimitaur’s sanctuary; Kenzo gives him a small statue before departure.",
+      "evidence": [
+        {
+          "startUid": "u0391",
+          "endUid": "u0397",
+          "quote": "DM: So in the morning, say goodbye to Dimitaur. Where do you wanna go?\n\nSeeker: Well, we should have a meal from the, uh, magical runic meal provision.\n\nDM: Yeah.\n\nKenzo: I give Dimitaur a, um, really cool, um, statue of himself.\n\nDelwath: Oh, I cooked a fancy meal last night too.\n\nKenzo: We can roleplay that later."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0955",
+        "endUid": "u0976"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Fly west as ospreys from the mountain to the tower’s top platform, after the constructs interrupt the final approach.",
+      "evidence": [
+        {
+          "startUid": "u0859",
+          "endUid": "u0860",
+          "quote": "Unknown: It's a 20-mile flight, or a 15-mile flight.\n\nDM: It's a 15-mile flight."
+        },
+        {
+          "startUid": "u0955",
+          "endUid": "u0976",
+          "quote": "Delwath: We can fly towards the area.\n\nDM: We can fly towards the area.\n\nUnknown: Yeah, yeah.\n\nUnknown: All right, that's good.\n\nDM: So you're turning into\n\nUnknown: Seeker. It's like, \"Wait, wait, guys.\"\n\nWellby: Ah.\n\nUnknown: \"Got a new trick.\"\n\nUnknown: [laughs]\n\nSeeker: It used to just be I could turn myself into a giant crab or something, but now we can all become birds.\n\nKenzo: Pretty epic. [laughs]\n\nDM: So you're turning into what? Ospreys?\n\nSeeker: To start, yeah.\n\nDM: Okay. So you head, you fly west. Um, flying pretty fast as ospreys, uh, you quickly descend from the mountain to past the forest, uh, and come out into this sort of open plain about five or six miles between the forest and the edge of this sort of rocky terrain. You can see that there's two, again, there's these divine towers, the statues. Um, they both are, like, Apollyon's Tower is sort of placed equidistant between-"
+        },
+        {
+          "startUid": "u1005",
+          "endUid": "u1021",
+          "quote": "DM: Awesome. So, you know, a couple hours pass as you fly and find yourself now approaching the sort of upturned black rugged terrain about six miles from the tower. Um, you know, it's jagged rocks below you. You're, I mean, there's other birds around, right? So now you're close to, relatively close to the coast. They, they seem to be, I mean, they seem to avoid the tower, right? You don't see any birds flying around the tower, just kind of on the outskirts. And the further you fly towards the tower, the more oppressive the atmosphere feels. There's, it almost is difficult to even keep flying. The air feels thick. It doesn't stop you. You can, you're, you know, powerful adventurers. You can push through, but you can see why sort of normal birds would probably feel very dubious of this."
+        },
+        {
+          "startUid": "u1221",
+          "endUid": "u1234",
+          "quote": "DM: Okay. So Kenzo appears after having taken-\n\nUnknown: Yeah, so-\n\nDM: ... one point of damage as a osprey, and then an additional 13 points of damage as Kenzo.\n\nUnknown: What the fuck?\n\nDM: And falls gently to the top of the tower.\n\nDelwath: Oh, 'cause... Oh yeah, yeah, I see. Oh, I'm gonna die. Oh, God. [laughs]\n\nKenzo: [clears throat] Wait, so I actually do 13, take 13 points of damage.\n\nDM: 13 takes the damage. Seeker, um, takes 12 points of damage, and then falls 20 feet to the top of tower, taking an additional 10 points of falling damage.\n\nUnknown: All right. All right.\n\nDM: The ladder turns back into a ladder, having taken 13 points of damage, but can fly, so does not fall. [clears throat]"
+        },
+        {
+          "startUid": "u1243",
+          "endUid": "u1258",
+          "quote": "DM: Wellby takes, uh-\n\nUnknown: 15\n\nDM: ... 12 points of damage.\n\nDelwath: You haven't actually taken-\n\nWellby: I can Uncanny Dodge and take six.\n\nDM: Okay. Uh, so actually it was 13. Oh, no, wait, ca- you can't, uh, you can't dodge in the osprey form.\n\nWellby: Fair.\n\nDM: So you take the 12 points, and you with your Kenku armor do not take any fall damage.\n\nWellby: Right.\n\nDM: [clears throat] So now you are all standing on the very top.\n\nDelwath: Nope, Del is still flying.\n\nDM: Oh, Delwath, Delwath is still flying. The ladder and Delwath are still flying. Delwath as a osprey, the ladder as a ladder, looking at Seeker prone on the ground, rushing to his defense."
+        },
+        {
+          "startUid": "u1274",
+          "endUid": "u1277",
+          "quote": "Delwath: Uh, I'm, I'm gonna turn out from... I'm gonna become back into Delwath, land and sit on the floor. There's no point in staying a bird.\n\nDM: All right."
+        }
+      ],
+      "from": "p02",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "fly as ospreys",
+      "distance": {
+        "value": 15,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM gives the flight distance at u0860; arrival is separately established."
+      },
+      "route": [
+        {
+          "reading": "Descend past the forest, cross the open plain and traverse the jagged terrain."
+        },
+        {
+          "reading": "Seeker briefly lands behind a boulder to animate the rope ladder, then rejoins.",
+          "place": "p09"
+        }
+      ],
+      "note": "Kenzo, Seeker and Wellby land first; Delwath remains airborne until u1274–u1277. The ladder joins during the flight rather than departing the summit as an animated companion."
+    },
+    {
+      "id": "l07",
+      "type": "presence",
+      "source": {
+        "startUid": "u1045",
+        "endUid": "u1071"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Land behind a boulder to animate and transform the rope ladder, then take off and rejoin the flight.",
+      "evidence": [
+        {
+          "startUid": "u1045",
+          "endUid": "u1071",
+          "quote": "Seeker: So, well, Seeker, at any rate, flies down and finds a very large boulder amid the ones upturned.\n\nDM: Okay.\n\nSeeker: Choosing one where I'll be able to land on the ground in such a way that we'll be totally hidden from line of sight of the tower.\n\nDM: Okay.\n\nSeeker: And that's cool. And I'm just, I'm just gonna, um, briefly transform back to a dwarf.\n\nUnknown: [laughs]\n\nDM: [clears throat] Briefly.\n\nSeeker: Pull the rope ladder out of my pack.\n\nDM: [clears throat]\n\nSeeker: Animate it, turn it into an osprey, then turn myself back into an osprey. This is all legal, right?\n\nDM: Yep.\n\nWellby: That's amazing. [laughs]\n\nUnknown: [laughs]\n\nSeeker: We're just getting rope ladder osprey [coughing] who will, um, rosprey.\n\nUnknown: [laughs]\n\nSeeker: R- Rope osprey.\n\nWellby: Rosprey.\n\nSeeker: Yeah. Um, ladder, Rosprey the ladder bird will fly behind me. So I take off again and rejoin."
+        }
+      ],
+      "place": "p09",
+      "relations": [
+        {
+          "type": "during",
+          "target": "l06"
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1540",
+        "endUid": "u1556"
+      },
+      "actors": [
+        "party",
+        "Ladder"
+      ],
+      "reading": "Escape through the roof hatch into the upper ritual chamber; Delwath closes the hatch and hangs near its top.",
+      "evidence": [
+        {
+          "startUid": "u1540",
+          "endUid": "u1556",
+          "quote": "Kenzo: You're, so we're gonna swap-\n\nWellby: So once we swap-\n\nUnknown: Yep.\n\nWellby: ... I'm up first, I ring the chime.\n\nDM: [chime] Thing opens.\n\nSeeker: Nice.\n\nKenzo: Is that your action?\n\nWellby: Uh, so that's the action, then I have a move.\n\nDelwath: You can do a object interaction as part of a move.\n\nDM: Not activate a magic item.\n\nWellby: Right, right. It's, that's an action. So I'll, uh, I'll briefly look around and say, \"I'm, I'm gonna go scout ahead.\" [laughs]\n\nDM: [laughs]\n\nUnknown: [laughs]\n\nWellby: And I'll jump down into the hole."
+        },
+        {
+          "startUid": "u1658",
+          "endUid": "u1663",
+          "quote": "Kenzo: Yeah. I, I, Kenzo-\n\nDM: Kenzo runs, grabs Seeker, jumps down the hole\n\nKenzo: ... yeah, yeah. Like, super ultra fast.\n\nDM: Thank you.\n\nKenzo: Seeker doesn't even know what the hell is going on, and all of a sudden it's like, whoop.\n\nUnknown: Whoa [laughs]."
+        },
+        {
+          "startUid": "u1707",
+          "endUid": "u1708",
+          "quote": "DM: Um, yes. Seeker, I assume, commands the ladder to run as well.\n\nSeeker: Oh, yes."
+        },
+        {
+          "startUid": "u1730",
+          "endUid": "u1795",
+          "quote": "DM: ... you are looking down in a small room ... 'cause they can fly. It's only about, it's say maybe-\n\nDelwath: Oh, they can fly\n\nDM: ... 20 feet in diameter. Um, on one wall there are manacles chained to the wa- ha- hanging on the wall. Um, and there is a, a channel carved into the floor that spirals and spirals and spirals and spirals downwards.\n\nDelwath: So this is the killing place.\n\nDM: Mm-hmm.\n\nDelwath: The manacles are gonna try and attack you and bind you.\n\nUnknown: Probably.\n\nDelwath: Is there-\n\nWellby: That's okay\n\nDelwath: ... okay, and the ladder's in the center?\n\nUnknown: And, hold up. And?\n\nDM: Uh, I'm not done yet. Um, no, actually the ladder's offset.\n\nUnknown: Okay.\n\nDM: Right? So the, the room is not in the center of the, the big thing. The ladder is-\n\nUnknown: Right.\n\nDM: ... the description was a little bit i- inaccurate. The trapdoor is not in the center of the-\n\nDelwath: Right, right. Okay. It's like-\n\nDM: ... it's on the edge\n\nDelwath: ... yeah, yeah. Okay.\n\nDM: So the ladder comes down like a wall. Um, there is also what looks like a, um, a anvil s- up against the, a wall on the opposite side of the-\n\nDelwath: Hey, we found the divine forge already.\n\nUnknown: Okay.\n\nDM: ... it's on, it's on the opposite side of the manacles. Um, and there's a line in the floor that runs from... There's like a, a well in the center. There's this channel that goes around to a well, and then there's like a line that runs-\n\nUnknown: Right from the channel\n\nDM: ... from the well in the center to the, to the forge that kind of cuts through the... So, like, you can imagine if you filled the circle, it would be like spirals around and then a line that goes like this from the center through the spirals to where the forge is.\n\nSeeker: Ah, okay, found the forge.\n\nUnknown: Yeah.\n\nDM: Um, you can see, I mean, you don't have much time. It's, it's completely black, but everybody has darkvision, right? Um, you don't have much time to look around. Uh, it's a small, I mean, it's a small anvil, right? It's not, this isn't like a huge forge construct.\n\nUnknown: Yeah.\n\nDM: It looks like nothing like that. There's like, what seem like bits of construction and things scattered around. Um-\n\nDelwath: How far is it from?\n\nDM: It's about 10 feet down-\n\nUnknown: Okay.\n\nDM: ... from the ceiling.\n\nWellby: And what's the exit from this room?\n\nDM: Um, there are stairs down.\n\nDelwath: Like weaving from one of the-\n\nDM: So there's like basically four sides, right? So-\n\nUnknown: Okay.\n\nDM: ... manacles, forge, ladder, stairs."
+        },
+        {
+          "startUid": "u1797",
+          "endUid": "u1839",
+          "quote": "Delwath: Okay. Well, I will disengage-\n\nDM: Okay.\n\nDelwath: ... as my action, climb down, closing the trapdoor behind me.\n\nDM: Okay.\n\nUnknown: And then\n\nDelwath: S- stand on the ground.\n\nUnknown: Stand on the what? Ladder?\n\nUnknown: I mean, uh-\n\nUnknown: Go down to the ground.\n\nDM: The stairs, the door?\n\nDelwath: Yeah, yeah, yeah. Closing the door behind me. I mean, I, honestly, I have a climb speed, right? I can... Can I f- would I be able to fight kind of okay f- hanging onto the wall? I guess I need, I couldn't really use my shield.\n\nDM: You'd need a free hand to be hanging onto the wall.\n\nDelwath: Right. So I'd have to-\n\nDM: You'd either have to not use your shield and fight with your sword, or use your shield and cast a spell.\n\nKenzo: So manacles, is it sort of like sucking out the spirits, the souls of people, and they get put into the stuff in a forge?\n\nWellby: Or is it like- Draining their blood and then the forge is powered by blood?\n\nUnknown: Yeah.\n\nUnknown: Right.\n\nWellby: Vampiric forge. So we're in this room-\n\nSeeker: Just putting in, in the dark crystal\n\nWellby: ... safe, at least for the moment?\n\nDelwath: Okay. I am going-\n\nDM: For possibly a very short moment\n\nDelwath: ... I am going to... Well, I mean, my turn is-\n\nDM: Yeah.\n\nDelwath: ... is I can't do anything. I'm not doing anything with my bonus action.\n\nDM: Okay.\n\nUnknown: So I'm just-\n\nDM: Just shutting the door\n\nDelwath: ... shutting the door, but I'm not going all the way down\n\nDM: Putting the forge in the hole again.\n\nUnknown: Like-\n\nDM: Okay.\n\nUnknown: ... I'm gonna-\n\nDM: Maybe like hanging at the top\n\nDelwath: ... hang like close to the top, and as soon as I can, I'm gonna ready an action-\n\nDM: Let's do it\n\nDelwath: ... to cast Sorcerer's Burst if they come through.\n\nDM: Okay."
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "jump or climb down"
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u4227",
+        "endUid": "u4232"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The mirror shows historical Apollyon working and sacrificing victims in this same chamber, from the manacles’ perspective.",
+      "evidence": [
+        {
+          "startUid": "u4227",
+          "endUid": "u4237",
+          "quote": "DM: So Kenzo takes out the mirror.\n\nSeeker: Nice.\n\nDM: And for a minute the room goes dark and you see, um, Apollyon with his back turned. Like, again, it's from the perspective of the manacles. Apollyon with his back turned, standing by the forge.\n\nKenzo: What does he look like? Is, is, he's a human right now.\n\nDM: He's a human right now.\n\nUnknown: Yeah.\n\nDM: He's, like, wearing, um, he's wearing the, the crown that you seen Fausto have, and he's wearing the cloak."
+        },
+        {
+          "startUid": "u4286",
+          "endUid": "u4343",
+          "quote": "DM: He's, he's hammering something behind him on a forge, right? He's hammering, he's working the, some sort of metal, and he'll, every now and then he'll turn around. He's holding up, like, a partially forged dagger, and it looks s- it looks very plain. Like, there's nothing... You know, the hilt is super plain. It's just straight iron. The blade, um, looks like it's, has layers and layers of metal that's been beat into it, and there's, there's writing on the blade. Um, and then-\n\nUnknown: Can we read it?\n\nDM: Yeah. It's, um, it, it seems to be part of some incantation or spell. It's like, you know, there's no...\n\nUnknown: Okay.\n\nDM: It, it's not, like, saying anything specific.\n\nUnknown: Right.\n\nDM: Um, and then he's banging again, and then he stops and he takes, like, the sheet of this... strange looking metal. Actually, Seeker would recognize it. This is like adamantine. It's the-\n\nSeeker: Oh, yeah, we had some once.\n\nDM: It's the-\n\nUnknown: Yeah.\n\nDM: ... metal you had. It's what power, well, it's what holds the binding stone... Or sorry, the-\n\nSeeker: The phasing stone\n\nDM: ... phasing stone in place.\n\nUnknown: Yeah.\n\nDM: Yeah. And he's like tracing with his hand, and as he does, um, letters appear on this like thin sheet of this metal. And then he puts the dagger down and he like wraps the metal around it and he starts beating it again. This goes on for, you know, a while. It seems like he's just doing layer after layer where he's putting some spells on it and then beating something into the dagger. And then the scene shifts, and it seems some time later, and there is, um, like you can't quite... You can't see what it is, but there's clearly a person chained in the manacles. But your, your perspective is looking down-\n\nUnknown: Yeah, so you-\n\nDM: ... at the manacles, so you basically just see wrists. And then the wrists go limp and you can see like slashes, the dagger slashing the wrists, and the blood runs down into the floor, like running down the arms. But there's some like spark that runs into the dagger from the manacles, and this happens again and again, and the floor now you can see this like well in the middle is filling up with blood of like 10 people.\n\nUnknown: Oh, God.\n\nDM: And it gets... It's drying out and it gets darker and thicker as it dries out. And the mirror shifts again, and you can see now Apollyon standing. The manacle's empty, and he is kneeling on the floor. The blood all dried except for in this very well in the very center, which now looks black, and he draws a clear vial, like a potion vial out from his, from his robes, and he begins... The, the, the gems in the crown, there's like shadow flowing out of the crown into the blood. It begins to swirl, and this sort of dark black viscous liquid floats up and pours itself into the vial, which he then stoppers. And Seeker recalls that the lore of liches is typically that they are... To become a lich you need to create a phylactery, and then you need to make a potion somehow, the rituals are not known, from involving somehow the souls of the people who fed your phylactery."
+        }
+      ],
+      "place": "p11",
+      "mode": "vision",
+      "observerPlace": "p11",
+      "context": "vision"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u4475",
+        "endUid": "u4508"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Descend the spire via its landing and an empty decayed room, then reach the private library.",
+      "evidence": [
+        {
+          "startUid": "u4475",
+          "endUid": "u4508",
+          "quote": "Unknown: Let's go down.\n\nDM: Descend the stairs.\n\nWellby: Wellby scouting carefully, alertly.\n\nKenzo: And, and now we, we just like leave if we feel it's really threatened at all.\n\nUnknown: Or do we just...\n\nWellby: Just gotta move stuff.\n\nDelwath: I mean, the treasure, right? The treasure.\n\nKenzo: Yeah, there's, there's, there's-\n\nDelwath: Think of the treasure.\n\nKenzo: Of course, of course. Well, 'cause the other thing too is this is where he made the, um, made, uh, his phylactery.\n\nUnknown: Yeah.\n\nKenzo: But where the fuck did he make the scepter? And where else did he make the crown?\n\nDelwath: That's what I mean by divine forge.\n\nUnknown: 'Cause that's also definitely where it is.\n\nWellby: It's not in this room, yeah.\n\nDelwath: Yeah, it's probably not in this room.\n\nWellby: All right.\n\nUnknown: It's down.\n\nDM: The stairs go... Make a perception check.\n\nWellby: Uh, 23.\n\nDM: Okay. The stairs go down the entire length of the spire with no breaks or stops or doors.\n\nKenzo: Can't you detect underground stuff?\n\nUnknown: Yes.\n\nWellby: Okay. So this whole second spire is just a room and a very long flight of stairs.\n\nDM: Yes.\n\nDelwath: All right, so we come out-\n\nDM: That's it\n\nDelwath: ... we come out on the, like, middle section.\n\nDM: You come out in the middle section. There is a, there is a, uh... So you come out to a landing that has a door out to the middle section and then more stairs that go down."
+        },
+        {
+          "startUid": "u4541",
+          "endUid": "u4569",
+          "quote": "DM: Uh, you descend down, um, and you come...\n\nKenzo: Weren't there four statues at the start of this thing?\n\nUnknown: Two.\n\nWellby: There were only two, yeah.\n\nDM: Yeah, there was only ever two.\n\nUnknown: Okay.\n\nDM: Um, you come down, um, into a, the, the, the next room down of the tower is just one large open room. There are stairs that continue down. There's windows. There were no windows in the room at the very top. The windows are open and you can smell the salt air of the sea blowing in. You can hear the waves crashing.\n\nWellby: That's suspicious.\n\nUnknown: Sounds pleasant.\n\nDM: Um.\n\nUnknown: [laughs]\n\nDM: Uh, there is almost nothing here. Um, there are perhaps once, like, a desk, but the wood, wood has over many, many years has almost entirely rotted away. Um, there are, uh, yeah, there's like dust on the floor where one might have once had shelves or chairs. Um, there's stairs going further down.\n\nWellby: Just everything is disintegrated.\n\nDM: Everything is disintegrated in this room.\n\nKenzo: Nothing magical?\n\nDM: Nothing magical."
+        },
+        {
+          "startUid": "u4604",
+          "endUid": "u4624",
+          "quote": "Wellby: Next floor.\n\nUnknown: Yeah.\n\nDM: Um, the next floor, uh, has a very similar vibe. Um, windows open, the smell of the air. You can even hear a few birds far in the distance. Um, this was probably once a library. You can see like scraps of the covers of books. You can see like metal bindings where books were held, but everything that's, um, uh, you know, leather or paper or wood has decayed, exposed to the salt air of the sea over the past 700 years. Except for two books.\n\nWellby: Oh?\n\nDM: That seem to be completely intact and untouched by time.\n\nUnknown: Are they magical?\n\nDM: Yes.\n\nWellby: What are they?\n\nUnknown: What sort of magic?\n\nDM: Uh, one is, um, necromancy. Um, the other is, I guess like divination."
+        }
+      ],
+      "from": "p11",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Reach the landing beside the middle terrace; only Wellby’s separate scouting outing establishes stepping onto that platform."
+        },
+        {
+          "reading": "Pass an empty open-windowed room with a rotted desk before descending to the library."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u4529",
+        "endUid": "u4539"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Briefly scout the middle viewing platform and return to the descent; no additional companion is identified.",
+      "evidence": [
+        {
+          "startUid": "u4518",
+          "endUid": "u4521",
+          "quote": "Delwath: I mean, we didn't search it.\n\nDM: Well, you haven't gone out there.\n\nSeeker: We saw it from the air.\n\nDM: You saw it from the air."
+        },
+        {
+          "startUid": "u4529",
+          "endUid": "u4539",
+          "quote": "Wellby: So I'll go out.\n\nUnknown: Yeah.\n\nWellby: Maybe assist. We'll take a perceptive walk around.\n\nDM: Yeah.\n\nWellby: See if there's anything else out there.\n\nDM: Okay. Um, make a perception check with advantage.\n\nWellby: 19, 32.\n\nDM: Um, nothing.\n\nWellby: [laughs] All right, I'm reasonably confident there's nothing there.\n\nDM: Yeah.\n\nWellby: All right, cool. Down."
+        }
+      ],
+      "from": null,
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "The offered assistance is not assigned to a named character; arrival is limited to Wellby."
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u4847",
+        "endUid": "u4869"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Descend to the bisected floor and investigate the Omnis Pura meeting-room half.",
+      "evidence": [
+        {
+          "startUid": "u4847",
+          "endUid": "u4895",
+          "quote": "DM: Down to the next floor?\n\nUnknown: Yeah.\n\nDM: Okay, so, uh, who's, what's the order are you going down in?\n\nWellby: I think I'm going first.\n\nDM: Okay.\n\nKenzo: I'll go second, Seeker third, Delwath fourth. That's like our standard order, right?\n\nDM: Yeah.\n\nWellby: I'm usually in back, but I think it makes sense to be in front scouting this place out.\n\nUnknown: Yeah.\n\nDM: Yeah. Okay, you...\n\nDelwath: Actually, but Kenzo, I should be in front, you should be in back 'cause you can, you can run a lot more fast.\n\nDM: Okay, that's fine.\n\nWellby: Mm.\n\nDelwath: So if we meet something, it's a lot easier for you to close with it.\n\nDM: Okay, so, um, uh, on this floor, you come out and there's like, there's a wall that goes, you come out in the middle of like, the pillar goes down the middle of the room, and the stairway stops here. There's a wall that runs in the middle, so you, you can only see half of the floor. There's two doors on either side of like about 10 feet away from the middle of the staircase. Um, and the, the side of it you-\n\nDelwath: But so the wall runs-\n\nDM: Just bisects the-\n\nDelwath: But not, but it's on one side of the stair- staircase?\n\nDM: Yeah, yeah, on one side of the staircase. Um, and the only exits from this room you can immediately see are the two doors, um, each about halfway in between the staircase and the wall.\n\nDelwath: But in the wall bisecting the room.\n\nDM: Yeah, yeah. Um, they're fairly elaborate doors. Um, like they're, like most of the building is actually just kind of plain black stone, sort of unadorned, anything like that. Um, and in this room, this also was probably once, um, some kind of meeting room or something like that. Like, there's a spot in the middle where it looks like there was a big table. Um, the thing that's different here is that there, and there also were probably once tapestries hanging on the wall. You can see the sort of discolored spots where cloth once was hanging. Um, there are, uh, three statues. One is a statue of Apollyon, um, carved out of a sort of light gray marble. Um, well, well made, um, wearing the crown, holding up the scepter, not wearing the cloak. Um, and he seems to be, he's like raising his hand up in sort of like, um, benediction or something like that. And the other two statues are other probably Drankorian emperors, not anybody you recognize, but the way that they're, um, sort of carved and built, like they seem, they have that sort of imperial, sort of regal vibe. Um, and written, um, a- across the, the top o- of the wall is, um... Okay, I didn't have actually time to get to this."
+        },
+        {
+          "startUid": "u4896",
+          "endUid": "u4909",
+          "quote": "DM: It's the super cool sounding motto of the Omnis Pura that makes it clear it's the Omnis Pura, humans live forever or something like that.\n\nUnknown: Right.\n\nDM: But I never came up with what the super cool motto of the Omnis Pura would be.\n\nDelwath: Doesn't translate well from the original Dran-\n\nDM: Doesn't translate from the original Drankorian, right. Sounds sort of stilted when you translate it into Common, right? It's like... Um, but, and this has all, the statues have all survived. Um, uh, and-\n\nKenzo: Are they magic?\n\nDM: This, there's, there's no magic in here, but Wellby you can hear rattling from the other side of the door, faint rattling."
+        }
+      ],
+      "from": "p13",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u4923",
+        "endUid": "u4946"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Ghostly Gaze reveals moving metal scraps in the adjacent room; both doors lead to that room.",
+      "evidence": [
+        {
+          "startUid": "u4914",
+          "endUid": "u4916",
+          "quote": "Delwath: I'm gonna look through the wall.\n\nDM: Ah, with Ghostly Gaze?\n\nUnknown: Yep."
+        },
+        {
+          "startUid": "u4923",
+          "endUid": "u4946",
+          "quote": "DM: Yeah. Um, okay. Long or short rest. So what you see is actually a very strange sight. Um, there is, uh, it looks like, you can't see anything moving it, but it, so the room... D- oh, Delwath's looking through, right?\n\nUnknown: Yeah.\n\nDM: So, um, there's a staircase down from the other side of this statue, or sorry, from the other side of this room, and there's, um, there's, there's, there's not much-\n\nDelwath: So the staircase, is it like another-\n\nDM: It's against the wall now.\n\nUnknown: Okay.\n\nDM: Um, and there is a, uh... So again, the room is fairly empty. Um, there are, uh, you know, it was probably, who knows what it once was, it's hard to say, but there's like some me- loose like metal or like just scraps of stuff. Like maybe there was once like— two, like, pieces of armor that-\n\nUnknown: Right.\n\nDM: ... stood guard by the doors or something, but they've fallen down now. But the, but the, these little scraps of metal seem to be, like, floating and scraping against the floor and kind of moving around in these weird chaotic ways in the air."
+        },
+        {
+          "startUid": "u4982",
+          "endUid": "u4986",
+          "quote": "Wellby: Both doors lead... It's a single room, so it means both doors-\n\nDM: Yeah, it's a single room. Both doors lead to the same room.\n\nSeeker: What e- Wait, what else is in that room?\n\nUnknown: Nothing.\n\nDM: Stairs down."
+        }
+      ],
+      "place": "p15",
+      "mode": "local",
+      "observerPlace": "p14"
+    },
+    {
+      "id": "l14",
+      "type": "observation",
+      "source": {
+        "startUid": "u4947",
+        "endUid": "u4955"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Look through the floor to the decayed bedroom below.",
+      "evidence": [
+        {
+          "startUid": "u4947",
+          "endUid": "u4955",
+          "quote": "Delwath: It's a... Huh. While I'm looking through things, what's beneath us?\n\nDM: Ah.\n\nUnknown: Next to what?\n\nDelwath: Well, through the floor, too.\n\nUnknown: Ah, yeah.\n\nDM: Uh, what's beneath you, um, is what looks like was once a bedroom, but the bed has almost completely rotted away. Um, there is, like, the iron bindings of what used to be a chest and a pile of tarnished Drankorian coins."
+        }
+      ],
+      "place": "p16",
+      "mode": "local",
+      "observerPlace": "p14"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u4992",
+        "endUid": "u5008"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Transform into birds and fly through windows to the bedroom floor, bypassing the moving-scrap room.",
+      "evidence": [
+        {
+          "startUid": "u4992",
+          "endUid": "u5008",
+          "quote": "Delwath: Oh, wait, there's windows now. We could just turn back into birds.\n\nWellby: Oh, yeah, and fly down to the next floor.\n\nSeeker: Yep, that's true. We do not need to-\n\nUnknown: Let's do that\n\nSeeker: ... use the stairs. So I turn everyone back into ospreys.\n\nDM: You just fly down one level?\n\nUnknown: Yeah.\n\nUnknown: Yeah, why not?\n\nDM: Okay, yeah.\n\nSeeker: Fly out the window.\n\nDelwath: Fly into the bedroom.\n\nDM: Uh-\n\nDelwath: There was windows in the bedroom, right?\n\nDM: Yep, there's multiple rooms on this floor. The floor is divided up. So you fly into the window that looks like the bedroom."
+        },
+        {
+          "startUid": "u5019",
+          "endUid": "u5030",
+          "quote": "Delwath: All right. Let's turn back into birds and just skip. The, the, the vibe of that chaos thing, I think it's gonna, like, tear into us if we...\n\nUnknown: Let's just skip it.\n\nSeeker: Yeah. Yeah, yeah, yeah.\n\nWellby: Yeah, we just explore the next... skip it.\n\nUnknown: Yeah. Yeah.\n\nWellby: Explore the next floor.\n\nDM: Okay. So you fly into the next floor as birds.\n\nUnknown: Yeah. Yeah.\n\nDM: Um, so again, there's, like, a bedroom and a study, and then it connects to a corridor, and then, um, uh, a corridor where the stairs come down, and then there's another, like, uh, cha- set of chambers on the other side. Um-"
+        }
+      ],
+      "from": "p14",
+      "to": "p16",
+      "completion": "arrived",
+      "mode": "fly as ospreys",
+      "route": [
+        {
+          "reading": "Leave through an open window and enter the window of the bedroom below; the adjacent moving-scrap room is skipped."
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u5215",
+        "endUid": "u5222"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Descend through the remaining residential floors to the ground-floor entrance foyer.",
+      "evidence": [
+        {
+          "startUid": "u5215",
+          "endUid": "u5231",
+          "quote": "Wellby: Yeah. Okay, next level.\n\nDelwath: Anything in the servant's quarters?\n\nDM: No. Uh, the next level is very similar to this one. Uh, it looks like just more living space and private quarters, and the next one down after that as well. I mean, this is, like, three floors of just the heart of the living space of the tower. Uh, you know, another, like, 200 gold coins and, and 2,000 silver coins.\n\nUnknown: Pocket 'em.\n\nDM: Um, uh, a couple more, like a, a gold platter that you might, like, serve on. Um, and, uh, a- three, like, sort of n- relatively unadorned but nicely made gold rings.\n\nUnknown: Take 'em all."
+        },
+        {
+          "startUid": "u5273",
+          "endUid": "u5274",
+          "quote": "DM: Uh, going through the living quarters, you come down finally to the ground floor."
+        },
+        {
+          "startUid": "u5296",
+          "endUid": "u5299",
+          "quote": "Seeker: I missed it. Where are we now?\n\nUnknown: On the ground floor.\n\nDM: You're now on the ground floor, which I'm about to describe what you come down into.\n\nSeeker: Okay."
+        },
+        {
+          "startUid": "u5314",
+          "endUid": "u5319",
+          "quote": "DM: ... what looks like a grand entrance foyer. So the ceilings on this bottom floor are, like, 20 feet tall, and the stairs come down, um, right on the side, like, almost right next to where the two big doors that clearly open to the outside, um, are. And there's this, like, high sort of arched, almost like there's, like, pillars that come down forming, like, a column that leads in this sort of grand entrance space to another set of double doors on the far side. This, this corridor is probably, like, 20, 15 feet long, so not quite half the diameter of the tower."
+        }
+      ],
+      "from": "p16",
+      "to": "p17",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l17",
+      "type": "observation",
+      "source": {
+        "startUid": "u5368",
+        "endUid": "u5378"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Check the small side doorway, revealing a lookout room and stairs down.",
+      "evidence": [
+        {
+          "startUid": "u5368",
+          "endUid": "u5378",
+          "quote": "Delwath: Right. Let's check out the little door.\n\nUnknown: All right.\n\nDM: Um, there are stairs down, and what looks like a small sort of guard room that could, like, watch out. There's, like, a ar- a lookout so that you can look out to the, you can see out. There's, like, peepholes so you can see out to the outside, and then there's stairs down.\n\nSeeker: The outside of the tower or the basement?\n\nDM: Of the tower, so you could see anybody who's approaching the door from here.\n\nSeeker: Okay. And we're looking inland.\n\nDM: You're looking inland, yeah. You're looking across this broken, jagged terrain."
+        }
+      ],
+      "place": "p18",
+      "mode": "local",
+      "observerPlace": "p17"
+    },
+    {
+      "id": "l18",
+      "type": "observation",
+      "source": {
+        "startUid": "u5381",
+        "endUid": "u5409"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Open the interior doors onto the throne and skeleton audience, then close and bar them from the foyer.",
+      "evidence": [
+        {
+          "startUid": "u5381",
+          "endUid": "u5409",
+          "quote": "Wellby: Oh, yeah. I'll stay behind us. Let's, let's go through the interior doors, see what's there.\n\nSeeker: The big interior doors, okay.\n\nDM: Okay. All right. Um, you open the doors. Um, there is, uh, this looks like a grand, uh, audience chamber. Um, there's a throne, uh, with, that's decorated with gems. Um, there's a set of, uh, like, s- there's a stone table in the middle that's, and then, like, seats that kind of are, uh... Uh, sorry, I guess it's not really a stone table. It's, like, stone seats that are sitting, like, so that an audience, so that you could talk to the person on the throne. And there's probably about 40 skeletons kind of sitting all, like, dead. Like, some, there's one sitting on the throne. There's about 20 or so that are sitting in the pews. Um, one's head turns.\n\nSeeker: Oh.\n\nDM: Another one starts to stand up.\n\nWellby: I use the door that closes again. [laughs]\n\nUnknown: [laughs] Uh, what was that all about?\n\nDM: You hear movement.\n\nWellby: Can we lock the doors real quick? Can the ladder wrap itself through the handles and, like, hold the doors closed?"
+        },
+        {
+          "startUid": "u5414",
+          "endUid": "u5424",
+          "quote": "Wellby: Wait, wait, wait. What's the door situation? How are the, how do the handles work? Because can we put the immovable rod in front of the door to prevent the door from opening?\n\nDM: [laughs] Yes, you could. The handles, there's two big handles, and they pull out like this.\n\nWellby: Uh-huh, that is exactly what we'll do then.\n\nSeeker: Okay.\n\nDM: Okay.\n\nSeeker: Just click that-\n\nDM: The door will not open-\n\nSeeker: ... immovable rod\n\nDM: ... until somebody clicks the immovable rod."
+        }
+      ],
+      "place": "p19",
+      "mode": "local",
+      "observerPlace": "p17"
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u5531",
+        "endUid": "u5556"
+      },
+      "actors": [
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "Fly outside to cast through an audience-chamber window; the possession incident occurs outside before Sickening Radiance is cast.",
+      "evidence": [
+        {
+          "startUid": "u5531",
+          "endUid": "u5556",
+          "quote": "DM: I mean, there's no reason you have to go out the front door. Seeker can still turn you into a bird.\n\nDelwath: True. Oh, yeah, that's true.\n\nWellby: Fly out. Yeah.\n\nUnknown: Yeah. All right.\n\nWellby: Perfect.\n\nDelwath: I mean, I just... It's a sp- spell slot I won't get back, but that's okay. Till we short rest.\n\nSeeker: Uh, it's worth it.\n\nKenzo: I'd like to neutralize this, uh, threat now.\n\nSeeker: Room full of skeletons.\n\nDelwath: All right. But you, can you magic me back into a bird when I'm outside?\n\nUnknown: I don't think so.\n\nDM: Well, what is... Why not?\n\nSeeker: Uh, I thought... I can... Uh, is that line of sight? Let's see.\n\nDM: Well, you might have to go with them.\n\nKenzo: Just walk a little better now.\n\nSeeker: Right.\n\nUnknown: The room full of skeletons.\n\nSeeker: It's just things that you can see.\n\nKenzo: Yeah, I'm feeling a little better.\n\nDelwath: Right, you have to come with me."
+        },
+        {
+          "startUid": "u5579",
+          "endUid": "u5593",
+          "quote": "Seeker: Don't put it on, don't put it on the to-do list. We turn into birds.\n\nWellby: No.\n\nUnknown: 'Cause then it, it, it...\n\nUnknown: Just do it right then.\n\nDM: So you have to, you have to bro- unshift-\n\nUnknown: 'Cause if you put it on the to-do list, what happens later? Other things happen.\n\nUnknown: You get distracted\n\nDM: ... back 'cause you can't shift him back as a bird.\n\nUnknown: Yeah.\n\nSeeker: I see.\n\nUnknown: He'll notice.\n\nSeeker: Okay. Okay. I got it. I got it.\n\nDM: Okay. Delwath cast the spell."
+        },
+        {
+          "startUid": "u5630",
+          "endUid": "u5632",
+          "quote": "Delwath: Is this before I cast the spell or after?\n\nUnknown: Before.\n\nSeeker: Okay."
+        },
+        {
+          "startUid": "u5661",
+          "endUid": "u5668",
+          "quote": "Delwath: Uh, do I have any way of communicating with these people?\n\nSeeker: I... We're outside.\n\nUnknown: We're outside.\n\nUnknown: Oh, so we can see this.\n\nDM: Well, you've had plenty of time to reestablish telepathy.\n\nDelwath: Oh, that's true. I will shout through the telepathy that Seeker is somehow possessed."
+        },
+        {
+          "startUid": "u5701",
+          "endUid": "u5708",
+          "quote": "DM: Ah, meanwhile, you hear the sounds of skeletons falling dead.\n\nKenzo: Oh, you were... You cast Sickening Radiance.\n\nDM: After you got hit, I assume-\n\nUnknown: Yeah.\n\nDM: ... you still cast the spell.\n\nDelwath: Yeah, I still cast it. Lasts for 10 minutes, I assume they just all die.\n\nDM: Yeah, yeah, they all die."
+        }
+      ],
+      "from": "p17",
+      "to": "p25",
+      "completion": "arrived",
+      "mode": "fly as birds"
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u5795",
+        "endUid": "u5799"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After the skeletons are destroyed, open the audience chamber and recover the throne as four elephants.",
+      "evidence": [
+        {
+          "startUid": "u5795",
+          "endUid": "u5806",
+          "quote": "Wellby: If you want to open the doors to the throne room.\n\nKenzo: Yeah. Now, now, yeah.\n\nDM: Uh, there's a bunch of disintegrated skeleton bodies on the ground.\n\nUnknown: Nice.\n\nDM: And a giant throne.\n\nWellby: How big is the largest dimension of the throne?\n\nSeeker: Nice.\n\nDM: Hold on. I don't know.\n\nKenzo: We can definitely fit it in the portable hole.\n\nSeeker: I was thinking about what it'd be like to sit on it, but I'm not gonna do that.\n\nWellby: [laughs] It's not magical, right?"
+        },
+        {
+          "startUid": "u5980",
+          "endUid": "u6009",
+          "quote": "DM: Yeah, say it's like 30 cubic feet. It's 4,500 pounds. Four elephants can easily push that.\n\nWellby: Yeah. Yes. I'm not gonna... Why am I disagreeing with you? [laughs]\n\nUnknown: You don't think?\n\nUnknown: I mean, come on.\n\nWellby: Let's, let's, let's move on, guys.\n\nDM: Four elephants pushing a throne into a portable hole.\n\nUnknown: Let it happen.\n\nKenzo: Let's, let's, yeah, let it happen.\n\nUnknown: Thank you.\n\nUnknown: Perfect.\n\nUnknown: Thank you. Why, why are we upset?\n\nDM: Who cares if it actually works?\n\nKenzo: Let's move on. Let's move on. We got Apollyon's throne.\n\nUnknown: Perfect.\n\nDelwath: And we can have five elephants if we need.\n\nDM: After we raze Chardon- That's true. The ladder can be a fifth elephant to help out ... this is a perfect place to just put it.\n\nUnknown: [laughs]\n\nWellby: The fifth element is ladder.\n\nUnknown: [laughs] The fifth elephant is ladder.\n\nWellby: [laughs] The elephant is ladder.\n\nUnknown: The fifth elephant is ladder.\n\nDM: So the stone goes thunk onto a bed of coins at the bottom of the portable hole.\n\nKenzo: That's a perfect Midjourney question, is like what does an elephant ladder look like?\n\nDM: Yeah. And then you reload the mirrors on top and close up the hole, which weighs nothing more than what it started as. Getting this out of the hole might be a different challenge."
+        }
+      ],
+      "from": null,
+      "to": "p19",
+      "completion": "arrived",
+      "note": "The source compresses the reunion and entry; it does not separately narrate an outside-to-foyer return for every actor."
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u6023",
+        "endUid": "u6055"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Descend through mundane basement storage to the locked lower metal door.",
+      "evidence": [
+        {
+          "startUid": "u6023",
+          "endUid": "u6055",
+          "quote": "Wellby: All right, basement?\n\nUnknown: Yeah.\n\nDM: Yeah. So the stairs come down and open out into what seems like a sort of storage room and keep going down. There's one more level.\n\nWellby: Magic on this floor?\n\nDM: No.\n\nWellby: Anything interesting on this floor?\n\nDM: I mean, this is underground, so it's less damaged. Um, but there's like-\n\nSeeker: It's not interesting.\n\nDM: Yeah, there's, so there's like crates. I mean, the crates have fallen apart, but you can see there's, um, you know, silks that are molded through. There's, um... I mean, nothing here is really salvageable, but you can still see this was, this was prob- There's like barrels of wine that have turned to vinegar long, long ago, right? This was, uh, mostly like mundane just storage. Um, uh, nothing but like the kind of stuff that you'd expect to find, like, in a royal palace or something, right? Like, it's not magical. But let me check with- Anyway, yeah, so you wanna keep going down?\n\nWellby: Mm-hmm.\n\nDelwath: Uh, that's not bad.\n\nWellby: What?\n\nSeeker: It's sort of kind of weird and creepy.\n\nWellby: Huh.\n\nDelwath: I mean, not bad in the sense of at least it's sort of interesting.\n\nUnknown: Um,\n\nDM: Okay, so the, the stairs, so the stairs are running along the side of the, of, of the tower, but it's hard to... Like, who knows whether the tower is... The circular shape continues. They actually go down slightly, um, and then turn a sharp corner, and go down slightly more, and come to a solid metal door."
+        },
+        {
+          "startUid": "u6061",
+          "endUid": "u6067",
+          "quote": "Seeker: Um- So there's a metal door at the bottom of the stairs.\n\nWellby: Trapped? Locked?\n\nDM: Make an investigation check.\n\nWellby: Investigation.\n\nDM: It is definitely locked.\n\nWellby: Uh, 20.\n\nDM: It's not trapped."
+        }
+      ],
+      "from": "p19",
+      "to": "p21",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Pass the basement storeroom, containing spoiled fabrics and wine.",
+          "place": "p20"
+        }
+      ]
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u6132",
+        "endUid": "u6157"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Return to the cleared throne room for the short rest rather than resting by the lower door.",
+      "evidence": [
+        {
+          "startUid": "u6132",
+          "endUid": "u6141",
+          "quote": "DM: Are you gonna short, like, right here outside the door?\n\nUnknown: No, no, no, no, no, no. Let's-\n\nWellby: Back up in the throne room?\n\nKenzo: Let's go back into the throne room and, like- Yeah, where there's full of skeletons and stuff ...\n\nUnknown: With the dead bodies and stuff.\n\nWellby: Skeleton powder.\n\nDelwath: But it's powdered skeletons.\n\nUnknown: [laughs] Not that one.\n\nWellby: Oh, did they just disintegrate up?\n\nDM: Yeah. They kind of... That much radiant damage, I figure skeletons just kind of disintegrate."
+        },
+        {
+          "startUid": "u6152",
+          "endUid": "u6157",
+          "quote": "Wellby: [laughs] All right, short rest.\n\nDM: Let's short rest. Okay. Yeah, you can short rest.\n\nKenzo: Nice. So now we get hit dice or what's this how this works?\n\nUnknown: You can roll hit dice. How does that work?\n\nDM: Just D&D Beyond should handle it for you. Just, like, click short rest."
+        },
+        {
+          "startUid": "u6184",
+          "endUid": "u6196",
+          "quote": "Delwath: And Delwath is gonna cook a little... We're doing the short rest, we're gonna cook a little meal. Everybody gets heroic inspiration too.\n\nUnknown: Hell yeah.\n\nKenzo: All right. Nice. Focus points back up.\n\nUnknown: That's 10. Good as new.\n\nSeeker: Six, seven.\n\nKenzo: Best thing we've done all day. Yep. And now, and now we get the heroic things back again?\n\nDelwath: Yeah. You... Delwath makes some nice biscuits and tea.\n\nKenzo: Fucking love these biscuits, man. Heroic, heroic biscuits.\n\nDelwath: Delicious. Everybody ready?"
+        }
+      ],
+      "from": "p21",
+      "to": "p19",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u6198",
+        "endUid": "u6199"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After resting, return down to the lower door.",
+      "evidence": [
+        {
+          "startUid": "u6198",
+          "endUid": "u6202",
+          "quote": "Delwath: Ghostly gaze through the door.\n\nDM: So you go back down to the door, you ghostly gaze.\n\nDelwath: I mean, that's what we should do, right?\n\nKenzo: Yeah. Um- We don't just dimension door through.\n\nUnknown: We look. Yeah."
+        }
+      ],
+      "from": "p19",
+      "to": "p21",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l24",
+      "type": "observation",
+      "source": {
+        "startUid": "u6209",
+        "endUid": "u6239"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Ghostly Gaze shows the lower pedestal forge, silver tracings, far doors and hovering black blade; See Invisibility reveals two hands.",
+      "evidence": [
+        {
+          "startUid": "u6198",
+          "endUid": "u6207",
+          "quote": "Delwath: Ghostly gaze through the door.\n\nDM: So you go back down to the door, you ghostly gaze.\n\nDelwath: I mean, that's what we should do, right?\n\nKenzo: Yeah. Um- We don't just dimension door through.\n\nUnknown: We look. Yeah.\n\nDM: Uh, there is, um... So you see-\n\nDelwath: Also, can I see the magic now? Can I see if there's any, like, mechanisms inside? Like, can I see where the magic that I detected earlier is coming from?"
+        },
+        {
+          "startUid": "u6209",
+          "endUid": "u6239",
+          "quote": "DM: But you do see through the door and you can... So you're looking into what looks like a relatively bare room, except in the center there's a circular, um, it's not really a table, it's like a pedestal. It's like about, like maybe that big, a little big around, just a s- stone, um, this sort of dark... Well, it's mottled. It's like gray and black and there's some browns. It's like mottled stone shaped into this giant pedestal. Um, and there's runes that run around the side-\n\nKenzo: Divine Forge\n\nDM: ... like 10 different languages that are all incantations about, um, enchantment.\n\nUnknown: It's a forge, but-\n\nDM: Around the sides there's four, um, large holes about this big that sort of bore into the side of the pedestal, evenly spaced around that each go about one third of the way in. Um, and there are concentric, silver concentric circles on the top that run just, like, about 10 concentric circles that get smaller and smaller. Um, and then running down, like coming out through those holes in the side, running down the side of the pedestal and then along the floor, there's silvery lines that trace, like, a net around the entire room that all converge onto a metal panel on the far wall. It's about a one foot by one foot metal square.\n\nUnknown: Wow.\n\nDM: Um, there are two doors.\n\nUnknown: What?\n\nDM: One on the left, one on the right, and there is a black void that vaguely looks like a blade hovering on top of the sta- of the pedestal.\n\nUnknown: Wow.\n\nDelwath: And there's magic somewhere, but I can't see it.\n\nDM: Yes.\n\nUnknown: And it's not the blade?\n\nWellby: I mean, is it the whole room?\n\nDM: Well, I mean, looking through, yeah. Like, the whole room is highly magical."
+        },
+        {
+          "startUid": "u6245",
+          "endUid": "u6265",
+          "quote": "Delwath: I'm gonna... Since See Invisible lasts for an hour, I'm gonna do that, too.\n\nDM: Okay. Uh, let me check one thing. Um, that seems wise.\n\nKenzo: Divine Forge.\n\nSeeker: 'Cause didn't Fausto have, like, invisible\n\nUnknown: Defenses?\n\nWellby: Servants?\n\nDM: Yeah.\n\nUnknown: Just seems worth being\n\nDM: Um-\n\nSeeker: You'd think Fausto would have sort of followed the lead of his boss.\n\nDM: There are-\n\nUnknown: Mm.\n\nDM: ... uh, hovering against the two sides of the walls, there are large, like, hands of force. Two of them just hovering.\n\nSeeker: Are they invisible?\n\nDM: Invisible."
+        },
+        {
+          "startUid": "u6347",
+          "endUid": "u6359",
+          "quote": "Delwath: I can see the whole room. No, they look like they're two fists on either side of this door.\n\nUnknown: No, no, no. The o- on the other doors.\n\nKenzo: Other two doors. It looks like they're guarding the two doors on the other side.\n\nDM: The doors on the far. They're guarding these doors.\n\nUnknown: Ah.\n\nKenzo: So opening this door will do something that we don't know. Oh, oh, oh, I misunderstood then. That's gonna, still gonna, like, hurt us.\n\nDelwath: Oh, so they're, like, in front of the other two doors?\n\nDM: They're in front of the other two doors.\n\nUnknown: Oh.\n\nKenzo: So they're more to, like, fuck with you trying to get in those two doors.\n\nDM: The ones at the far end of the room."
+        }
+      ],
+      "place": "p22",
+      "mode": "local",
+      "observerPlace": "p21"
+    },
+    {
+      "id": "l25",
+      "type": "presence",
+      "source": {
+        "startUid": "u6404",
+        "endUid": "u6417"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath"
+      ],
+      "reading": "Kenzo withdraws upstairs to peek down and Delwath backs away before Wellby opens the trapped door.",
+      "evidence": [
+        {
+          "startUid": "u6404",
+          "endUid": "u6417",
+          "quote": "Wellby: All right, I'm gonna pick the lock.\n\nKenzo: I'm not near this situation.\n\nUnknown: [laughs]\n\nSeeker: [laughs]\n\nDM: Where is Kenzo?\n\nKenzo: I'm, I'm upstairs.\n\nDM: Okay. [laughs]\n\nSeeker: Kenzo's oddly upstairs.\n\nWellby: Do you have any action?\n\nKenzo: I'm like, fuck this shit. I don't want to be near this door whatsoever.\n\nWellby: Do you have any action that as soon as the door opens, you're gonna Dispel Magic one of the hands?\n\nSeeker: Yeah, that's my intention.\n\nUnknown: I, I, I am like clicking away from it.\n\nDelwath: I'm gonna back up about 40 feet."
+        },
+        {
+          "startUid": "u6443",
+          "endUid": "u6453",
+          "quote": "Delwath: Could be. Okay, let's just do this though. Kenzo ran away. Delwath is like 40 feet back.\n\nKenzo: Kenzo's... I mean, it's... he's just like from the... He's peeking down, 'cause\n\nWellby: All right. Wellby unlocks the door [dice rolling] with a, a 20.\n\nDM: Make a dexterity saving throw as a giant fireball explodes.\n\nSeeker: A fireball.\n\nWellby: Oh, good thing we spaced out.\n\nDM: You two. Mm, 20 feet, so not you. Not Del, not Kenzo."
+        }
+      ],
+      "place": "p21",
+      "note": "Their precise upper stopping points are not named; the lower stairs are the supported setting."
+    },
+    {
+      "id": "l26",
+      "type": "presence",
+      "source": {
+        "startUid": "u6737",
+        "endUid": "u6744"
+      },
+      "actors": [
+        "party",
+        "Ladder"
+      ],
+      "reading": "Fight the sword and hands along the lower stair corridor, retreating toward the basement storeroom.",
+      "evidence": [
+        {
+          "startUid": "u6737",
+          "endUid": "u6744",
+          "quote": "Kenzo: What room are... What's this room that we're in right here?\n\nDM: This is the hall.\n\nUnknown: Oh, shit.\n\nDM: This is the stairway going down.\n\nUnknown: Oh, so this is-\n\nWellby: Near room\n\nUnknown: ... okay\n\nDM: ... that's the corridor."
+        },
+        {
+          "startUid": "u6851",
+          "endUid": "u6887",
+          "quote": "DM: That's not that, it's not that far. It, it turns a corner like, uh, two squares behind Seeker and then goes up another 15 feet to the, um, to the...\n\nDelwath: Like that?\n\nDM: Yep, and then that opens up into the, um, the storeroom, which is like a-\n\nKenzo: And we're just in like a super long hallway right here?\n\nUnknown: Yeah. There's a, you're in stairs right there.\n\nKenzo: Oh, so it's going up.\n\nDM: It's going up.\n\nUnknown: So this-\n\nDM: And this, this is like a just drawn as a 40 by 40 room\n\nKenzo: ... dude, totally. This, this sword's gonna fucking s- like fly forward and skewer all of us in a row.\n\nUnknown: It's okay if it's 40 by...\n\nDM: Yeah, that's fine\n\nDelwath: ... 20 by... Should it be bigger than that?\n\nDM: No, no, it should be bigger than that.\n\nDelwath: It shouldn't or it should?\n\nDM: It should.\n\nUnknown: Oh, 'cause it's 40, 40.\n\nDM: It's 40 by 40. It doesn't, the stairs don't have to be centered. I don't care where the stairs are.\n\nUnknown: All right.\n\nDM: 40 is eight squares.\n\nDelwath: Yeah, this is eight.\n\nDM: Okay.\n\nUnknown: Six.\n\nDM: It doesn't have to quite be 40 there. Just draw it to the end of the map. That's close enough.\n\nUnknown: Okay.\n\nDM: And then there's stairs. The stairs up to the surface are in that corner right where your finger is inside the room.\n\nUnknown: Here?\n\nDM: Yeah.\n\nUnknown: And then they go up like that, right?\n\nDM: Yeah."
+        },
+        {
+          "startUid": "u7316",
+          "endUid": "u7322",
+          "quote": "Wellby: Oh, okay. I'll stand up. That's half my move. Is that true?\n\nDM: Yep.\n\nWellby: Uh, and I'll shoot the sword, and then I'll go back into the big room. So not advantage, but yes sneak attack."
+        },
+        {
+          "startUid": "u7380",
+          "endUid": "u7380",
+          "quote": "Wellby: One, two, three, four, five, six, seven, eight, nine."
+        },
+        {
+          "startUid": "u7844",
+          "endUid": "u7860",
+          "quote": "Delwath: I think I am just gonna u- I'm gonna s- I think it's better-\n\nUnknown: You're just gonna scatter\n\nDelwath: ... I think it's better to just move Seeker away. I think that's safer for everybody.\n\nUnknown: I think-\n\nUnknown: Are you behind it or in front of it?\n\nWellby: Put yourself on the other side 'cause that way you can't be flanked by the fists.\n\nDelwath: That's true. Yeah. I'll just do that. It's so what, it's a sixth level slot to swap me and Seeker, but I don't see any... I don't see a better...\n\nUnknown: It's,\n\nDelwath: It's a spell either way. And honestly, in some ways my fifth level slot are more valuable. Okay. Then I'm attacking it. Sorry, just gotta check off my, uh..."
+        }
+      ],
+      "place": "p21",
+      "note": "The room beyond the door has only been observed at this stage. Wellby reaches the larger storeroom during the fight; other positions change within the stair/storage encounter area."
+    },
+    {
+      "id": "l27",
+      "type": "movement",
+      "source": {
+        "startUid": "u8687",
+        "endUid": "u8694"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "After combat, run into the forge chamber while avoiding contact with the apparatus.",
+      "evidence": [
+        {
+          "startUid": "u8687",
+          "endUid": "u8699",
+          "quote": "Delwath: I'm, I'm just gonna run inside the room-\n\nDM: Four turns\n\nUnknown: ... and look.\n\nKenzo: Look behind the doors.\n\nDM: Okay. Um.\n\nUnknown: Nice.\n\nDM: You, you run into the room?\n\nUnknown: Yeah.\n\nUnknown: I'm opening up doors. [laughs]\n\nWellby: [laughs]\n\nUnknown: [laughs]\n\nDelwath: I'm avoiding touching any of these things. I'm just gonna, like, quickly look behind the doors."
+        }
+      ],
+      "from": "p21",
+      "to": "p22",
+      "completion": "arrived",
+      "mode": "run"
+    },
+    {
+      "id": "l28",
+      "type": "observation",
+      "source": {
+        "startUid": "u8707",
+        "endUid": "u8727"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Quickly see the metal-stock side room through the wall while Ghostly Gaze remains active.",
+      "evidence": [
+        {
+          "startUid": "u8707",
+          "endUid": "u8727",
+          "quote": "DM: ... there are small rooms-\n\nUnknown: [laughs]\n\nDM: ... through each of these doors. Each one is, like, 10 feet out and, like, extends the length of the, of the r- like, going back this way. So it's like sh- forms, like, an L. It goes about 20 feet back.\n\nDelwath: Like, around like that?\n\nDM: Yeah.\n\nDelwath: And is there any... I'm just gonna glance around all the walls.\n\nDM: There's no other space. Um, and in these, so in the room to the right, you just have the time for a quick glance. It looks like there's, like, hundreds of different, or, like, many different kinds of metals. Like, all sorts of metal bars-\n\nUnknown: Right. Okay\n\nDM: ... and random things. Um, um, in the other one, you see, like, a s- like a stone basin, um, like, uh, a whole row of glass vials, um, fine sort of metal shavings and things.\n\nUnknown: This is Faldrak's wet dream.\n\nUnknown: Yeah.\n\nDM: Um, yeah. And that's, like, you're only, you're, like, quickly glancing."
+        },
+        {
+          "startUid": "u8730",
+          "endUid": "u8748",
+          "quote": "Delwath: ... honestly, most of the time just, like-\n\nDM: Yeah.\n\nDelwath: ... walking along, looking to just make sure there's nothing that we're missing. I don't care so much what's in the rooms-\n\nDM: Right.\n\nDelwath: ... as long as it looks like there's no monsters Right.\n\nDM: You don't see any monsters\n\nDelwath: ... and then, and then I'm just looking, like, is-\n\nDM: How long does See Invisibility last?\n\nUnknown: An hour.\n\nDM: Okay. You don't see any monsters.\n\nDelwath: Um, so I'm just, like, but it, like, also just like all along, there's like nothing-\n\nDM: Yeah.\n\nDelwath: ... anywhere through any of the walls. It's all just walls.\n\nDM: Nothing to do.\n\nKenzo: And nothing below, either.\n\nDelwath: Yeah, nothing below.\n\nDM: Nothing below."
+        }
+      ],
+      "place": "p23",
+      "mode": "local",
+      "observerPlace": "p22"
+    },
+    {
+      "id": "l29",
+      "type": "observation",
+      "source": {
+        "startUid": "u8721",
+        "endUid": "u8727"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Through the other wall, glimpse the basin, vials and metal shavings in the etching workshop.",
+      "evidence": [
+        {
+          "startUid": "u8707",
+          "endUid": "u8714",
+          "quote": "DM: ... there are small rooms-\n\nUnknown: [laughs]\n\nDM: ... through each of these doors. Each one is, like, 10 feet out and, like, extends the length of the, of the r- like, going back this way. So it's like sh- forms, like, an L. It goes about 20 feet back.\n\nDelwath: Like, around like that?\n\nDM: Yeah."
+        },
+        {
+          "startUid": "u8721",
+          "endUid": "u8727",
+          "quote": "DM: ... and random things. Um, um, in the other one, you see, like, a s- like a stone basin, um, like, uh, a whole row of glass vials, um, fine sort of metal shavings and things.\n\nUnknown: This is Faldrak's wet dream.\n\nUnknown: Yeah.\n\nDM: Um, yeah. And that's, like, you're only, you're, like, quickly glancing."
+        }
+      ],
+      "place": "p24",
+      "mode": "local",
+      "observerPlace": "p22"
+    },
+    {
+      "id": "l30",
+      "type": "presence",
+      "source": {
+        "startUid": "u8791",
+        "endUid": "u8825"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The group investigates the central forge, silver panel and conduit network.",
+      "evidence": [
+        {
+          "startUid": "u8791",
+          "endUid": "u8825",
+          "quote": "Kenzo: [laughs] All right. Let's, uh, yeah, let's search the room.\n\nDM: There's nothing... I mean, okay. Uh, so looking around this main room before you open any doors.\n\nUnknown: Yeah.\n\nUnknown: Yeah.\n\nSeeker: There's a divine forge.\n\nWellby: Very carefully inspecting all the parts of it and-\n\nKenzo: Do you, do you, you lick the silver panel on the wall\n\nWellby: ... panel.\n\nSeeker: I will, um-\n\nDM: The main thing is, like, who's touching what is the main thing I need to know.\n\nDelwath: Okay. I'm touching nothing.\n\nUnknown: I'm touching... I'll hold Seeker back.\n\nUnknown: [laughs] Touching nothing. Seeker, everything.\n\nSeeker: [laughs] Seeker maybe has learned a lesson a little bit today, so.\n\nDelwath: Like there's a mage hand hovering like right here.\n\nUnknown: [laughs]\n\nDelwath: And if Seeker gets too close to anything...\n\nKenzo: But he does have to touch things. Or how long, how many times can you do the identify?\n\nDM: Just once.\n\nKenzo: Once a day.\n\nSeeker: Yeah. So we've used it for today.\n\nKenzo: I mean, also it was a strong use.\n\nUnknown: It was a strong use.\n\nWellby: Yeah. Yeah.\n\nKenzo: But man, this fucking forge, that thing would be pretty, that's a pretty-\n\nDelwath: I mean, does the silver thing look like a... Remind us what the...\n\nDM: So there's a sil- there's like a metal, silver metal panel that's like one foot square in the wall.\n\nUnknown: Mm-hmm.\n\nDM: There's all of these lu- like lines, silvery lines radiating out from it that look kind of like sort of jagged etchings that go in this all around the room, forming almost like a cage around the room, but all converge on the floor and then run up the sides, the bottom parts of the sides of the black pedestal and go into those four holes in the middle.\n\nUnknown: Right.\n\nDM: And then the top has a bunch of concentric circles etched in it."
+        }
+      ],
+      "place": "p22"
+    },
+    {
+      "id": "l31",
+      "type": "observation",
+      "source": {
+        "startUid": "u8845",
+        "endUid": "u8861"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Open the metal-stockroom door and examine the surviving bars and stone chest.",
+      "evidence": [
+        {
+          "startUid": "u8845",
+          "endUid": "u8861",
+          "quote": "Kenzo: Let's look in the metal room first.\n\nDM: Okay. Yeah.\n\nKenzo: Seeker, Seeker identifies all the metals.\n\nDM: Um, so you open the door and you look in. Uh, there's, you know, there's a, there's a shelf that goes along the back that stretches about 10, 15 feet along the, along the, the side wall. It's a sort of empty, dusty stone room. Um, and, uh, there's like probably 200, like, metal bars all sort of evenly sized like this. Um, some fairly mundane. All the adamantine seems to have been used up.\n\nUnknown: Mm-hmm.\n\nDM: But there's, you know, there's some that are, like, silver. There's several bars of mithril. There's, like, some metal you don't even recognize."
+        },
+        {
+          "startUid": "u8884",
+          "endUid": "u8894",
+          "quote": "DM: Um, yeah, it doesn't matter. Uh, the, so there is, there is nothing magical, but the other thing, at the far end of the room, there is a stone chest.\n\nWellby: Check for traps.\n\nSeeker: Always with the chests.\n\nDM: Uh, okay. Make an investigation check.\n\nWellby: Uh, 28.\n\nDM: Um, there are no traps.\n\nKenzo: Is the chest magic?\n\nDM: The chest isn't magic. It's fairly thick stone.\n\nWellby: All right. Open chest.\n\nDM: It's locked."
+        }
+      ],
+      "place": "p23",
+      "mode": "local",
+      "observerPlace": "p22"
+    },
+    {
+      "id": "l32",
+      "type": "movement",
+      "source": {
+        "startUid": "u9069",
+        "endUid": "u9078"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Go into and inspect the metal-etching workshop, containing acid, chemicals and a ceramic basin.",
+      "evidence": [
+        {
+          "startUid": "u9069",
+          "endUid": "u9078",
+          "quote": "DM: Do you want to go into the other room?\n\nUnknown: Yeah, yeah. Go into the other room.\n\nDM: Okay. So the other room, like, you spend a little bit... You go in there and you spend a little time looking around. Like, the Seeker recognizes this is clearly, um, like, the wor- a workshop for, like, etching metal. There's, like, a ceramic basin, there's, like, acid. There's, um, there's, like, vials of different chemicals that you can pour on things, various ways that you could etch metal here.\n\nUnknown: Mm.\n\nDM: Nothing magical."
+        }
+      ],
+      "from": "p22",
+      "to": "p24",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l33",
+      "type": "presence",
+      "source": {
+        "startUid": "u9095",
+        "endUid": "u9104"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Resume examining the forge-room tracings after the etching-workshop inspection.",
+      "evidence": [
+        {
+          "startUid": "u9095",
+          "endUid": "u9104",
+          "quote": "Seeker: Divine magic circuit. So all right, I'm, I'm gonna in- in... just sort of trace some of the traces around the room. It seemed like it had a pretty simple kind of topology. Like...\n\nUnknown: The room with the forge?\n\nSeeker: The forge, yeah.\n\nUnknown: Yeah.\n\nDM: Yeah, it's quite s- s- I mean, the lines, the tracings are, are quite chaotic. Like, they don't follow any clear pattern, except they all go around and come up and go into these four holes."
+        }
+      ],
+      "place": "p22"
+    },
+    {
+      "id": "l34",
+      "type": "presence",
+      "source": {
+        "startUid": "u9428",
+        "endUid": "u9430"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath handles the silver rod from the opened stockroom chest while the group gathers the recovered items.",
+      "evidence": [
+        {
+          "startUid": "u9411",
+          "endUid": "u9430",
+          "quote": "Delwath: Let's, let's actually... Should we take the three items?\n\nUnknown: Yeah.\n\nDM: Which, the, the ring, the three rings and the-\n\nDelwath: The, the 24 items. The 20 boxes, the three rings, and the rod.\n\nDM: Yeah.\n\nDelwath: Let's just... I think we could pick these up.\n\nKenzo: Did you mage hand them into the...\n\nDelwath: One at a time.\n\nDM: Yeah.\n\nUnknown: Okay.\n\nDM: That'll take some time.\n\nWellby: We just pick them up.\n\nDelwath: Yeah, I think we just pick them them up.\n\nUnknown: Okay. You guys can do that.\n\nDM: Okay.\n\nDelwath: I'm picking up the scepter.\n\nSeeker: I'm... Yeah.\n\nDM: Nothing happens."
+        },
+        {
+          "startUid": "u9433",
+          "endUid": "u9442",
+          "quote": "Unknown: Fuck it, I'll pick up, I'll pick up the rings\n\nDelwath: ... I'll, no, I'll put the three of the rings, one on each finger of the mage hand.\n\nDM: Okay.\n\nUnknown: Okay. That's cool.\n\nDelwath: And then I can pick up two boxes or three boxes, right?\n\nUnknown: Mm-hmm.\n\nDM: Okay.\n\nWellby: All right, so we start loading into the hole and so-\n\nDelwath: Well, w- I think just bring everything up to the storeroom."
+        }
+      ],
+      "place": "p23"
+    },
+    {
+      "id": "l35",
+      "type": "movement",
+      "source": {
+        "startUid": "u9441",
+        "endUid": "u9445"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Bring the recovered items up to the basement storeroom, open the portable hole, and work on the books there.",
+      "evidence": [
+        {
+          "startUid": "u9441",
+          "endUid": "u9457",
+          "quote": "Wellby: All right, so we start loading into the hole and so-\n\nDelwath: Well, w- I think just bring everything up to the storeroom.\n\nWellby: Yeah. Good\n\nDM: You put the hole down in the storeroom and you open it up and there's like a whiff of blood that comes up.\n\nUnknown: No.\n\nUnknown: No.\n\nDM: Looks fine. Everything seems normal.\n\nDelwath: Where's the, where's the book?\n\nWellby: Where's the blood whiff coming from?\n\nDM: Just from the air in the hole.\n\nUnknown: Where's the book?\n\nDelwath: Where's the, I mean where's the necromancy book?\n\nDM: In the hole. I guess under the throne or on top of the throne.\n\nWellby: I don't... We have shelves around the sides.\n\nDM: Okay. It's on a shelf."
+        },
+        {
+          "startUid": "u9481",
+          "endUid": "u9493",
+          "quote": "Delwath: I am gonna mage hand the necromancy book out of here.\n\nDM: Okay.\n\nDelwath: And put it on the floor as far away from Seeker as possible.\n\nSeeker: Oh, I don't wanna get close to that thing anymore.\n\nDM: And you're also mage handing the other book out?\n\nDelwath: Uh, well, yeah, sure.\n\nDM: Okay.\n\nDelwath: Yeah, we'll take the other book out too.\n\nWellby: So you should take a look at that book.\n\nSeeker: So that one's... It's got like a metal closure.\n\nDM: It's got a metal closure that's locked.\n\nUnknown: Pick it.\n\nWellby: Unlock it."
+        }
+      ],
+      "from": null,
+      "to": "p20",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "The stockroom collection includes Delwath’s separate handling of the rod; the group’s final gathering point is explicit."
+    },
+    {
+      "id": "l36",
+      "type": "movement",
+      "source": {
+        "startUid": "u10045",
+        "endUid": "u10047"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Return to the forge area before making the lead box and teleporting out.",
+      "evidence": [
+        {
+          "startUid": "u10045",
+          "endUid": "u10054",
+          "quote": "Delwath: Fine, so we, we come back to the forge. We're not gonna... We're gonna teleport out to Dimitaur from here,\n\nSeeker: Right?\n\nKenzo: But with the box.\n\nSeeker: Which box?\n\nKenzo: We're gonna put the, put the fucking lich book inside a box and bring it with us.\n\nSeeker: Yeah.\n\nUnknown: Yeah.\n\nDM: So, or, or we're... He's gonna...\n\nKenzo: So Seeker's making a little box that we can put the lich book in."
+        },
+        {
+          "startUid": "u10065",
+          "endUid": "u10085",
+          "quote": "DM: Okay. So you make a fancy metal box.\n\nUnknown: Yeah.\n\nSeeker: It's a mithril box. What, what's it made out of?\n\nDM: Lead.\n\nSeeker: Lead. Lead is the best protector. Yeah.\n\nDM: Yeah.\n\nUnknown: Okay.\n\nDM: And you're leaving, teleporting back?\n\nUnknown: Yeah.\n\nDM: It's gotten dark. Sun... Well, it's not quite dark. The sun is setting.\n\nSeeker: So we teleport back to the temple of s- the Sibyl?\n\nUnknown: Yeah.\n\nDM: Where Dimitaur is?\n\nUnknown: Yeah.\n\nWellby: Yeah.\n\nSeeker: Yeah. Yeah.\n\nDM: Okay."
+        }
+      ],
+      "from": "p20",
+      "to": "p22",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l37",
+      "type": "movement",
+      "source": {
+        "startUid": "u10074",
+        "endUid": "u10085"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Teleport back to Dimitaur at the Sibyl’s temple as the sun sets.",
+      "evidence": [
+        {
+          "startUid": "u10074",
+          "endUid": "u10098",
+          "quote": "DM: And you're leaving, teleporting back?\n\nUnknown: Yeah.\n\nDM: It's gotten dark. Sun... Well, it's not quite dark. The sun is setting.\n\nSeeker: So we teleport back to the temple of s- the Sibyl?\n\nUnknown: Yeah.\n\nDM: Where Dimitaur is?\n\nUnknown: Yeah.\n\nWellby: Yeah.\n\nSeeker: Yeah. Yeah.\n\nDM: Okay.\n\nKenzo: We tell Dimitaur, um, that there's a, a evil lich book in there and, uh, thanks for watching it for us while we kill the dragon later tomorrow.\n\nDM: Wait.\n\nWellby: [laughs]\n\nDM: No.\n\nWellby: Look,\n\nUnknown: I know we appreciate you a lot.\n\nSeeker: You don't look green.\n\nKenzo: But it has to be you. It's kind of the on- you're the only one here we trust.\n\nUnknown: We gotta destroy it.\n\nKenzo: We can't leave it back there.\n\nDM: Okay, everybody away. Open the box. Pulls out his wand."
+        }
+      ],
+      "from": "p22",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "teleport"
+    }
+  ]
+}
