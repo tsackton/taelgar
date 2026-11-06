@@ -1,0 +1,162 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-078/cleaned/dunmari-frontier-078-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-078/cleaned/dunmari-frontier-078-time-markers.json",
+    "sha256": "c3e2c078a4adce01b1be81b4255e9d0124613a29f4ffd8eab7d04ebd007f4512"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-078/cleaned/dunmari-frontier-078-transcript.md",
+    "sha256": "aede2d2f44da3f7899ee624a9792939069513ff55785aaa8f329858056d01b71"
+  },
+  "dateAssessment": "Working calendar: YAML dates December 6–8, DR 1748. The transcript speaks no absolute date; its opening morning, one overnight to dawn, and the following midnight support two calendar transitions (time JSON: matched, conditional on the YAML start). The first lunch’s later noon/one/three estimates remain unresolved. The camp scout is called both about five and about four; both are afternoon. Earlier waits belong to the same overnight rather than extra days. Real-world wrap-up clocks at u2565 and u2620–u2621 add no in-world time.",
+  "watches": [
+    {
+      "day": "December 6, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "The opening explicitly wakes the party in the morning for the deception.",
+      "markers": [
+        "t01"
+      ],
+      "startDate": "1748-12-06",
+      "endDate": "1748-12-06"
+    },
+    {
+      "day": "December 6, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "The feast is narrated at lunch; later clock estimates remain unresolved.",
+      "markers": [
+        "t02"
+      ],
+      "startDate": "1748-12-06",
+      "endDate": "1748-12-06"
+    },
+    {
+      "day": "December 6, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Departure shifts noon toward afternoon; the boat scry lasts ten minutes.",
+      "markers": [
+        "t03",
+        "t05"
+      ],
+      "startDate": "1748-12-06",
+      "endDate": "1748-12-06"
+    },
+    {
+      "day": "December 6, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Four or five hours end at full dark; later discussion estimates roughly four to eight.",
+      "markers": [
+        "t04"
+      ],
+      "startDate": "1748-12-06",
+      "endDate": "1748-12-06"
+    },
+    {
+      "day": "December 6–7, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "The fitful overnight reaches dawn with long-rest credit; earlier waiting hours belong to that same night.",
+      "markers": [
+        "t06",
+        "t07",
+        "t08"
+      ],
+      "startDate": "1748-12-06",
+      "endDate": "1748-12-07"
+    },
+    {
+      "day": "December 7, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "Lubash’s western-front report arrives at about ten in the morning.",
+      "markers": [
+        "t09"
+      ],
+      "startDate": "1748-12-07",
+      "endDate": "1748-12-07"
+    },
+    {
+      "day": "December 7, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Return to the ship by two; the completed feast occupies an hour.",
+      "markers": [
+        "t10",
+        "t11"
+      ],
+      "startDate": "1748-12-07",
+      "endDate": "1748-12-07"
+    },
+    {
+      "day": "December 7, 1748",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Camp scouting is first called about five, then about four in the afternoon.",
+      "markers": [
+        "t12"
+      ],
+      "startDate": "1748-12-07",
+      "endDate": "1748-12-07"
+    },
+    {
+      "day": "December 7, 1748",
+      "startWatch": "afternoon",
+      "endWatch": null,
+      "basis": "open",
+      "summary": "One further hour reaches roughly five or six, leaving the completion watch afternoon or dusk.",
+      "markers": [
+        "t13"
+      ],
+      "startDate": "1748-12-07",
+      "endDate": "1748-12-07"
+    },
+    {
+      "day": "December 7, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Kenzo’s further rest hour reaches six or seven; the return to hiding is at sunset.",
+      "markers": [
+        "t14",
+        "t15"
+      ],
+      "startDate": "1748-12-07",
+      "endDate": "1748-12-07"
+    },
+    {
+      "day": "December 8, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "mixed",
+      "summary": "Midnight detection, about an hour, fifteen–twenty minutes, and ten more lead to the palace ambush.",
+      "markers": [
+        "t16",
+        "t17",
+        "t18",
+        "t19"
+      ],
+      "startDate": "1748-12-08",
+      "endDate": "1748-12-08"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated session record used to identify review discrepancies",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 78 (DuFr).md",
+      "sha256": "f9c56bacdfd2f9baf73f0768766a8de42cd4140869628957b0977d7dfe64c474"
+    }
+  ]
+}

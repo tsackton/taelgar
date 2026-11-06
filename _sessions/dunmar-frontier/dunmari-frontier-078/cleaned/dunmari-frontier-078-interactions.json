@@ -1,0 +1,1231 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-078/cleaned/dunmari-frontier-078-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "aede2d2f44da3f7899ee624a9792939069513ff55785aaa8f329858056d01b71"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-078/cleaned/dunmari-frontier-078-entity-map.json",
+      "sha256": "603a5077dc43c547023eea40c5204f670e627518cf8899105cd23145500fe0b6"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "The staged quarrel and departure",
+      "source": {
+        "startUid": "u0008",
+        "endUid": "u0038"
+      },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0008:0-45, u0009:0-68, u0010:0-18, u0011:0-32 %%",
+        "DM: And having planned the previous night to [garbled] with telepathically with Chief Lubash to fake your way into a fight, you begin the day, concentrating on your deception.",
+        "",
+        "%% u0012:0-183 %%",
+        "DM: There's a few moments as the day progresses of, of, you know— Kenzo gets into the role, and there's a few moments of of genuine seeming anger and frustration from both Kenzo and Lubash.",
+        "",
+        "%% u0013:0-157, u0014:0-15, u0015:0-322, u0016:0-48 %%",
+        "((Acting discussion))",
+        "",
+        "%% u0017:0-60, u0018:0-84, u0019:0-52, u0020:0-126, u0021:0-43, u0022:0-32, u0023:0-105 %%",
+        "DM: ((Palace warding)) At lunch, you have a—you. You present this feast, and and Lubash takes it in stride and and acts, you know, put out and and angry that you're playing this off as you attempting to buy the cloak from him.",
+        "",
+        "%% u0024:0-49, u0025:0-91, u0026:0-68, u0027:0-62, u0028:0-4, u0029:0-47, u0030:0-63, u0031:0-87, u0032:0-207, u0033:0-88, u0034:0-24, u0035:0-19, u0036:0-30, u0037:0-102 %%",
+        "((Feast mechanics and table discussion))",
+        "",
+        "%% u0038:0-174 %%",
+        "DM: Lubash insists you leave on cue, and as that sun progresses from noon to afternoon, you walk out of the palace in disgrace to somewhat confused looks from some of the guards.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay. So, the day passes. You wake in the morning of another hot day in the desert, come from the skyship down to the bustling city of Uzgukhar.",
+          "DM: The big open cattle market and statue of Uzgash, and the Freedom Plaza sitting outside the two-story hanging gardens that stood above the domed underground structure of the palace itself."
+        ],
+        "after": [
+          "DM: On the airship, you take the time to scry and to extend your—Kenzo, extend your senses, and there are no humans, and no sign of Kenzo within or no sign of Kadmos or Casian or Vola within 6 miles. Wow!",
+          "DM: Delwath, you scry, and you see out there—[garbled].",
+          "DM: You see Hektor sitting at watch on the front of a boat. A small boat traveling downriver.",
+          "DM: The eight adventurers from Chardon that you expect to see are all there. Vola is keeping watch in the rear. Kadmos and Casian also seem to be in your, you know, or continue discussing in in whispers quiet voices that Hektor cannot hear, and you cannot hear, with the sound of the river rushing over over.",
+          "DM: There are also about 2 dozen specters—spectral undead—floating in the air, following the ship."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Hektor’s boat seen through scrying",
+      "source": {
+        "startUid": "u0039",
+        "endUid": "u0068"
+      },
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "lines": [
+        "%% u0039:0-34, u0040:0-8, u0041:0-119, u0042:0-9, u0043:0-28 %%",
+        "DM: On the airship, you take the time to scry and to extend your—Kenzo, extend your senses, and there are no humans, and no sign of Kenzo within or no sign of Kadmos or Casian or Vola within 6 miles. Wow!",
+        "",
+        "%% u0044:0-48 %%",
+        "DM: Delwath, you scry, and you see out there—[garbled].",
+        "",
+        "%% u0045:0-57, u0046:0-12, u0047:0-20 %%",
+        "DM: You see Hektor sitting at watch on the front of a boat. A small boat traveling downriver.",
+        "",
+        "%% u0048:0-73, u0049:0-213, u0050:0-18 %%",
+        "DM: The eight adventurers from Chardon that you expect to see are all there. Vola is keeping watch in the rear. Kadmos and Casian also seem to be in your, you know, or continue discussing in in whispers quiet voices that Hektor cannot hear, and you cannot hear, with the sound of the river rushing over over.",
+        "",
+        "%% u0051:0-20, u0052:0-17, u0053:0-58 %%",
+        "DM: There are also about 2 dozen specters—spectral undead—floating in the air, following the ship.",
+        "",
+        "%% u0054:0-31 %%",
+        "Kenzo: Presumably at Kadmos's command.",
+        "",
+        "%% u0055:0-113 %%",
+        "DM: It's, it's sailing down river. It's being rowed down river. Where there's a small sail, but there's not much wind.",
+        "",
+        "%% u0056:0-53, u0057:0-2, u0058:0-20, u0059:0-6, u0060:0-141, u0061:0-10, u0062:0-19, u0063:0-26, u0064:0-36 %%",
+        "((Map orientation))",
+        "",
+        "%% u0065:0-35, u0066:0-160 %%",
+        "DM: I mean, they're not within 6 miles. You haven't—you haven't— You didn't travel any distance along this river. You flew overland through the night, so you have no idea what the terrain looks like.",
+        "",
+        "%% u0067:0-83, u0068:0-107 %%",
+        "DM: It's almost impossible to know where they are, except that they are somewhere south of this fort and somewhere west of—at least 6 miles west of of you here. Can Wellby send some animal scouts?",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Then there's a little, I think there's a little max. There's a little Max HP modifier at the bottom. If you click on that, you can set that to 15, and it'll change your hit points because they can be healed. Right? Yeah, so we can actually, yeah, regain these. And for 24 h they last, even if we.",
+          "Seeker: That was quite the meal.",
+          "Delwath: It was quite a meal.",
+          "DM: Now. Even though it's hard to—it's hard to tell how well this has gone, and when or if you've been scryed during this occasion, you.",
+          "DM: Lubash insists you leave on cue, and as that sun progresses from noon to afternoon, you walk out of the palace in disgrace to somewhat confused looks from some of the guards."
+        ],
+        "after": [
+          "Wellby: That is an excellent idea. Okay, I also feel like, if we describe the terrain of the river, we're surrounded by people who know this river super intimately. Well.",
+          "Delwath: Yeah, we're not right now, right?",
+          "Wellby: You’re up on—",
+          "Delwath: Animal scout seems sensible, though.",
+          "Wellby: Yeah, eagle, head that direction. I mean, they'll have a lot of visibility from that height."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Lubash asks whether to keep waiting",
+      "source": {
+        "startUid": "u0248",
+        "endUid": "u0270"
+      },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "present"
+        }
+      ],
+      "lines": [
+        "%% u0248:0-19, u0249:0-33, u0250:0-27 %%",
+        "DM: So, loop—so, Lubash arises, wakes up. Murook wakes up. The palace begins to stir.",
+        "",
+        "%% u0251:0-196, u0252:0-152, u0253:0-18 %%",
+        "DM: Everybody seems to have passed a very uneasy night. The the 2 dozen household guards have been patrolling and few of them slept. You know people have taken shifts of taking cat naps and stuff. But that Lubash, as he awakes and and sees you all here speaks telepathically to everybody because I I assume you've been including Murook and Lubash in the—and the telepathy.",
+        "",
+        "%% u0254:0-10, u0255:0-19 %%",
+        "DM: What now? There is no attack.",
+        "",
+        "%% u0256:0-69 %%",
+        "Kenzo: They're traveling down river. When they're within 6 miles, we’ll know.",
+        "",
+        "%% u0257:0-34, u0258:0-39 %%",
+        "DM: But what of the deception? Do you—will you spend the day under the beds?",
+        "",
+        "%% u0258:39-57, u0259:0-51, u0260:0-27, u0261:0-39 %%",
+        "Kenzo: Yes, we will wait. Go about your day, and once they're within 6 miles, retire back to the bedroom. Does that sound reasonable to everyone?",
+        "",
+        "%% u0262:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u0263:0-14, u0264:0-92, u0265:0-5 %%",
+        "DM: So you prepare to wait out the day patiently hidden under the beds, blocked as best you can be from scrying about.",
+        "",
+        "%% u0266:0-115, u0267:0-3, u0268:0-84, u0269:0-65, u0270:0-94 %%",
+        "DM: And Lubash is, like, you know, acting tired and annoyed and grumpy, and is frequently returning to his bed chamber to, you know, fiddle with stuff, but actually to be present when you re up the telepathy, right? So he, Murook, is not able to pull that off because she is receiving reports and has meetings and things. But Lubash is still within the telepathic link.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: And then just looking at to check that. It's working.",
+          "DM: Yeah, it's working again, vanished into the mirror. You do have advantage on the save if you're the one who activates it.",
+          "Seeker: Nice.",
+          "DM: But it's a Charisma save which you're not great at.",
+          "Seeker: Right."
+        ],
+        "after": [
+          "DM: And about 10 am as you are quietly munching on some gourmet trail food that Delwath prepared, you— You receive a telepathic message from Lubash.",
+          "DM: I must tell you terrible news from the night. A large battle was fought at our—at the ford of Khumarz, the ford of Khumarz to the west. The orcs of Grash, as we suspected, could not enter our kingdom, but hundreds upon hundreds of spectres drove our forces back. Our weapons barely seem to touch them.",
+          "DM: Commander Vorgaz is dead. The army—severely demoralized. They did not breach the borders, but I do not know if we can survive another assault.",
+          "DM: And our outlying river defenses were breached. In many places specters may have crossed, and maybe rampaging across our land. We have little news of of the Western front beyond the messages that came in this morning.",
+          "DM: I am not sure. I'm not sure the—whether the orcish commander is holding back his—on the—the rest of his undead for some other purpose, or whether he felt the ghostly specters who could fly and pass through the walls of our forts would be sufficient. I know not, but it seems he did not even care that the bulk of his army could not enter our kingdom."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "The western-front report",
+      "source": {
+        "startUid": "u0271",
+        "endUid": "u0348"
+      },
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u0271:0-27, u0272:0-32, u0273:0-84 %%",
+        "DM: And about 10 am as you are quietly munching on some gourmet trail food that Delwath prepared, you— You receive a telepathic message from Lubash.",
+        "",
+        "%% u0274:0-44, u0275:0-25, u0276:0-6, u0277:0-43, u0278:0-12, u0279:0-103, u0280:0-22, u0281:0-37 %%",
+        "DM: I must tell you terrible news from the night. A large battle was fought at our—at the ford of Khumarz, the ford of Khumarz to the west. The orcs of Grash, as we suspected, could not enter our kingdom, but hundreds upon hundreds of spectres drove our forces back. Our weapons barely seem to touch them.",
+        "",
+        "%% u0282:0-34, u0283:0-21, u0284:0-85 %%",
+        "DM: Commander Vorgaz is dead. The army—severely demoralized. They did not breach the borders, but I do not know if we can survive another assault.",
+        "",
+        "%% u0285:0-115, u0286:0-9, u0287:0-51, u0288:0-39 %%",
+        "DM: And our outlying river defenses were breached. In many places specters may have crossed, and maybe rampaging across our land. We have little news of of the Western front beyond the messages that came in this morning.",
+        "",
+        "%% u0289:0-14, u0290:0-16, u0291:0-48, u0292:0-72, u0293:0-74, u0294:0-35, u0295:0-34, u0296:0-49 %%",
+        "DM: I am not sure. I'm not sure the—whether the orcish commander is holding back his—on the—the rest of his undead for some other purpose, or whether he felt the ghostly specters who could fly and pass through the walls of our forts would be sufficient. I know not, but it seems he did not even care that the bulk of his army could not enter our kingdom.",
+        "",
+        "%% u0297:0-29, u0298:0-33, u0299:0-19, u0300:0-32, u0301:0-28, u0302:0-12, u0303:0-69, u0304:0-50, u0305:0-118, u0306:0-58, u0307:0-70, u0308:0-26, u0309:0-48, u0310:0-6, u0311:0-6, u0312:0-35, u0313:0-109, u0314:0-25, u0315:0-52, u0316:0-139, u0317:0-31, u0318:0-72, u0319:0-6, u0320:0-17, u0321:0-25, u0322:0-10, u0323:0-11, u0324:0-13, u0325:0-21, u0326:0-76, u0326:76-112, u0326:112-124, u0327:0-37, u0328:0-17, u0329:0-38, u0330:0-17, u0331:0-28, u0332:0-23, u0333:0-83, u0334:0-45, u0335:0-71, u0336:0-48 %%",
+        "((Specter mechanics and scouting plans))",
+        "",
+        "%% u0337:0-98, u0338:0-44, u0339:0-43, u0340:0-47 %%",
+        "DM: “I must...” Lubash closes by saying, “I must attend to these this news and our defenses. I do not know. I will. I will attempt to return when I can to allow your magic to affect me again. But I may not be able to make the next appointment.”",
+        "",
+        "%% u0341:0-59, u0342:0-98, u0343:0-13 %%",
+        "DM: And with that he goes off to do, you know, consult with his—with Murook again with the the runner, the the messengers on horseback, who rode through the night to reach here.",
+        "",
+        "%% u0344:0-51, u0345:0-33, u0346:0-25, u0347:0-90 %%",
+        "DM: And with the you know the the palace guard, I mean. Uzgukhar is quite poorly defended other than you. Right? So there is some concern on his part if there are wandering armies of specters on the loose.",
+        "",
+        "%% u0348:0-25 %%",
+        "DM: And he leaves you to your—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: But what of the deception? Do you—will you spend the day under the beds?",
+          "Kenzo: Yes, we will wait. Go about your day, and once they're within 6 miles, retire back to the bedroom. Does that sound reasonable to everyone?",
+          "Delwath: Yeah.",
+          "DM: So you prepare to wait out the day patiently hidden under the beds, blocked as best you can be from scrying about.",
+          "DM: And Lubash is, like, you know, acting tired and annoyed and grumpy, and is frequently returning to his bed chamber to, you know, fiddle with stuff, but actually to be present when you re up the telepathy, right? So he, Murook, is not able to pull that off because she is receiving reports and has meetings and things. But Lubash is still within the telepathic link."
+        ],
+        "after": [
+          "DM: And time passes, let me know what you want to do. I assume it's just continuous playing, like Kenzo doing his ritual, Seeker doing his ritual. Once it gets to 24. Do we have to keep the hero's feast, or can she just cast it? Oh, no! You have to sit and eat it for an hour.",
+          "Kenzo: Oh, fuck! So we that.",
+          "Delwath: Well, we haven't lost it yet. But I mean—",
+          "Unknown: That.",
+          "Delwath: So it all—yeah, I get. I mean, we should probably—we definitely need Forbiddance, Forbiddance. If you need to cast it again, we have to cast that again."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Two wounded reinforcements",
+      "source": {
+        "startUid": "u0403",
+        "endUid": "u0472"
+      },
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u0403:0-228, u0404:0-33, u0405:0-167, u0406:0-58, u0407:0-74, u0408:0-65, u0409:0-21 %%",
+        "DM: I guess Lubash actually doesn't really have an easy way of reaching, of communicating with you when you're—now that you're back on the ship, and he's out of the telepathy loop, anyway. You see, you can see, though, from the ship a pair of what looked like orcish warriors, one, a woman who is wearing sort of light armor, and there seems to be like flame, almost like flame, coming off of her hair and sort of wrapping around her. And the other a man in in heavy armor, both looking weary, slightly wounded, and tired from a long journey, but they enter the palace and vanish. But just from your view from up here, these seem to be fairly good warriors.",
+        "",
+        "%% u0410:0-17, u0411:0-42, u0412:0-62, u0413:0-97, u0414:0-25, u0415:0-40, u0416:0-179, u0417:0-11, u0418:0-74, u0419:0-9, u0420:0-14, u0421:0-87, u0422:0-99, u0423:0-130, u0424:0-10, u0425:0-27, u0426:0-75, u0427:0-24, u0428:0-25, u0429:0-15, u0430:0-35, u0431:0-36, u0432:0-124, u0433:0-14, u0434:0-92, u0435:0-6, u0436:0-43, u0437:0-47, u0438:0-54, u0439:0-17, u0440:0-16, u0441:0-10, u0442:0-86, u0443:0-12, u0444:0-22, u0445:0-19, u0446:0-39, u0447:0-20, u0448:0-32, u0449:0-137 %%",
+        "((Feast accounting, hawk scouting and waiting))",
+        "",
+        "%% u0450:0-106, u0451:0-62, u0452:0-24, u0453:0-157, u0454:0-97, u0455:0-14, u0456:0-36, u0457:0-136, u0458:0-94 %%",
+        "DM: So, as the sun sets and they're sleeping, you return to your position underneath the beds and manage to re—reconnect with, re—we get Lubash into the telepathic link, who—who tells you: There's 2 2 2 warriors who have come to join this defense, this defense of the cloak. They were part of a group of a half dozen that left before the battle last night, and were set upon by about 40—but 40 ghostly, undead spectres and related creatures on the river. Fled overland. 4 of their companions were killed by 40 specters, but him and his and his companion, the woman, managed to get away, although they still have not fully healed from the battle, and they seem to be the specters’ attacks weakened them in a way that normal rest did not heal.",
+        "",
+        "%% u0459:0-38, u0460:0-30, u0461:0-150 %%",
+        "DM: They—but they arrived this afternoon, having traveled something like almost 40, 50 miles overland through the night and into the day, and have now taken a short rest and and had a meal and are willing to help in any way.",
+        "",
+        "%% u0462:0-44 %%",
+        "Seeker: Let's try to heal them a little bit. I think—",
+        "",
+        "%% u0463:0-12, u0464:0-20, u0465:0-66 %%",
+        "DM: So, they are Drogmar and Ghorgra. So we can put one. And now we have enough to fully block each room.",
+        "",
+        "%% u0466:0-7 %%",
+        "((Room spacing))",
+        "",
+        "%% u0467:0-65 %%",
+        "Seeker: I'll do a a healing word on whichever one of them seems worse off.",
+        "",
+        "%% u0468:0-34 %%",
+        "DM: The spell seems to have no effect.",
+        "",
+        "%% u0469:0-3 %%",
+        "Seeker: Oh.",
+        "",
+        "%% u0470:0-114 %%",
+        "DM: This is not normal damage. This is a reduction of their hit-point maximum from the specter’s life-drain attack.",
+        "",
+        "%% u0471:0-6, u0472:0-12 %%",
+        "Seeker: Brutal. Life drain.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: It takes us too long to—that's it to be there.",
+          "Seeker: Do we have to re-roll that?",
+          "DM: Yeah. Re-roll the the hit points.",
+          "Delwath: And also—",
+          "DM: Recast Forbiddance. So another 1,000 gold of powder rubies. You do receive a message while you're eating eating the feast."
+        ],
+        "after": [
+          "DM: Night falls, and by midnight Kenzo senses movement.",
+          "Kenzo: Within.",
+          "DM: 5 miles of the city, both undead and Kadmos and his companions.",
+          "Seeker: Set up the fake cloak, and well, do I animate the ladder now? Probably. How long does that last? 1 h?",
+          "Delwath: I mean not only that, I think, takes a bonus action to do. No, I would, because we'll get. We'll have a brief warning when the alarm triggers."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The surviving pair is clearly named together, but the source does not reliably bind each name to the initial man/woman description."
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Seeker prepares the mirror trap",
+      "source": {
+        "startUid": "u0484",
+        "endUid": "u0485"
+      },
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u0484:0-22, u0485:0-55 %%",
+        "Seeker: But we'll do the cloak so, and I run into the bathroom and activate the mirror.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Night falls, and by midnight Kenzo senses movement.",
+          "Kenzo: Within.",
+          "DM: 5 miles of the city, both undead and Kadmos and his companions.",
+          "Seeker: Set up the fake cloak, and well, do I animate the ladder now? Probably. How long does that last? 1 h?",
+          "Delwath: I mean not only that, I think, takes a bonus action to do. No, I would, because we'll get. We'll have a brief warning when the alarm triggers."
+        ],
+        "after": [
+          "DM: Right? So is everybody positioned where they want to be?",
+          "Seeker: Oh, yes.",
+          "DM: Close it off.",
+          "DM: The—so after maybe an hour or so, as Kenzo is just finishing his—finishing his rest to recover his ki, you hear shouts and the sound of an alarm from upstairs. And people running, and Orc runs down one of the palace guard and comes to to tell Lubash. And of course, all of you hiding.",
+          "DM: “Undead at the gates! The spectres are attacking here. They've overrun. They must have overrun our defenses.”"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Antonia seizes the cloak",
+      "source": {
+        "startUid": "u1873",
+        "endUid": "u1896"
+      },
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "present"
+        }
+      ],
+      "lines": [
+        "%% u1873:0-18, u1874:0-7, u1875:0-35, u1876:0-110, u1877:0-102, u1878:0-23, u1879:0-26, u1880:0-8 %%",
+        "DM: ((Combat mechanics)) Antonia!",
+        "",
+        "%% u1881:0-83, u1882:0-34, u1883:0-32, u1884:0-52 %%",
+        "((Unrelated discussion))",
+        "",
+        "%% u1885:0-54, u1886:0-25, u1887:0-23, u1888:0-38, u1889:0-39 %%",
+        "DM: ((Combat mechanics)) then grab the cloak from the unconscious body of of Lubash and then move back. ((Combat mechanics))",
+        "",
+        "%% u1890:0-35, u1891:0-17, u1892:0-30, u1893:0-3, u1894:0-41, u1895:0-43, u1896:0-16 %%",
+        "((Chase tactics))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And I guess I can, because you have. No, you can't. That's too much stone.",
+          "Delwath: Now I can see through. Is it? Is it not enough stone very quickly? Oh, I see.",
+          "DM: 30 feet. Which is to there.",
+          "Delwath: Right? They can't. Quite so. You can't slide extra. I need 5 extra. Yeah.",
+          "Seeker: And—"
+        ],
+        "after": [
+          "Seeker: We.",
+          "Riswynn: You're right. I will go through the over the unconscious. Game.",
+          "Seeker: Yeah, it's the dragging through the door doesn't work very well, I noticed. Oh, no, I'm not even trying to move yet. My!",
+          "Riswynn: It's crashing on me all the time. I'm reloading. This is like the fifth time I've had to restart this game. Yeah, this thing. And then I have to pan and zoom because it loses what part of the map we're on.",
+          "Seeker: And it does all of those things very soon. Seeker and ladder are next. Okay."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "The guard pulls Lubash to safety",
+      "source": {
+        "startUid": "u2021",
+        "endUid": "u2035"
+      },
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u2021:0-106, u2022:0-89 %%",
+        "DM: You should go save her, boss. Yeah, she's got to go. It's gonna run forward and use her action to to grab. ((Combat mechanics))",
+        "",
+        "%% u2023:0-147, u2024:0-28, u2025:0-149, u2026:0-35 %%",
+        "((Combat positioning and saving-throw discussion))",
+        "",
+        "%% u2027:0-193, u2028:0-26, u2029:0-117 %%",
+        "DM: ((Combat mechanics)) so she will stand here, and she will just pull Lubash out of this radius. Put them there and then look at you, Delwath and kind of like, should I block the doorway like, what's going on here?",
+        "",
+        "%% u2030:0-14, u2031:0-44, u2032:0-23 %%",
+        "((Movement clarification))",
+        "",
+        "%% u2033:0-68 %%",
+        "DM: She's also gonna look around. It's like, is anybody gonna heal them?",
+        "",
+        "%% u2034:0-16 %%",
+        "Delwath: I don't have any.",
+        "",
+        "%% u2035:0-17 %%",
+        "Seeker: Like I can do it.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: It succeeds on its Con save. It's not going to run away from you. It is going to Spit a cloud of poison at you. And isn't it frightened?",
+          "Delwath: Yeah, but it can still attack you. Attack fuck.",
+          "Kenzo: I'm just to run away, .",
+          "DM: And absolutely nothing happens because you are immune to poison, bitch.",
+          "Seeker: It's the—"
+        ],
+        "after": [
+          "DM: Okay, so she will. Then step here. She doesn't want to block you off, though, so she's that's why she's looking at you.",
+          "Delwath: No, that's okay. I can see I can. No, I kind of want to go after Hektor. Maybe she should—she should stand. Yeah. He just.",
+          "DM: She is just going to run forward and, and, and swing.",
+          "Delwath: Yeah, she attack Hektor. Yeah, swing with her.",
+          "DM: With her greataxe at Hektor! And then just just eat the opportunity attack as she retreats back to stand on top of the unconscious body because attacks are a disadvantage. So he is going to swing with disadvantage. That is still a 19."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "Ghorgra is inferred from the guard’s established turn; pronouns and a later reference to Drogmar leave the attribution open."
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Riswynn recovers the cloak",
+      "source": {
+        "startUid": "u2251",
+        "endUid": "u2312"
+      },
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "lines": [
+        "%% u2251:0-42, u2252:0-25 %%",
+        "DM: Okay, it's Antonia's turn. ((Combat mechanics))",
+        "",
+        "%% u2253:0-5, u2254:0-34 %%",
+        "((Attack damage))",
+        "",
+        "%% u2255:0-65 %%",
+        "DM: She staggers through. Falling, running unconscious on the ground.",
+        "",
+        "%% u2256:0-5, u2257:0-18, u2258:0-6 %%",
+        "((Web effect and response))",
+        "",
+        "%% u2259:0-48 %%",
+        "DM: She's holding out the cloak. Riswynn, you're up.",
+        "",
+        "%% u2260:0-23, u2261:0-160, u2262:0-151, u2263:0-60, u2264:0-19, u2265:0-36, u2266:0-91, u2267:0-1, u2268:0-45, u2269:0-86, u2270:0-52, u2271:0-200, u2272:0-45, u2273:0-37, u2274:0-38, u2275:0-11, u2276:0-62, u2277:0-312, u2278:0-39, u2279:0-6, u2280:0-11, u2281:0-33, u2282:0-5, u2283:0-44, u2284:0-109, u2284:109-173, u2284:173-208, u2285:0-27, u2286:0-63, u2287:0-35, u2288:0-18, u2289:0-82, u2290:0-17, u2291:0-45, u2292:0-14, u2293:0-104, u2294:0-132, u2295:0-90, u2296:0-18, u2297:0-19, u2298:0-42, u2299:0-4, u2300:0-30, u2301:0-53, u2302:0-45, u2303:0-46, u2304:0-30, u2305:0-21, u2306:0-57, u2307:0-64, u2308:0-37, u2309:0-73, u2310:0-43, u2311:0-162 %%",
+        "((Combat mechanics and tactics))",
+        "",
+        "%% u2312:0-152 %%",
+        "Kenzo: And wait. You got that. She’s got—Riswynn has the cloak now, right? She's got the cloak. Riswynn's got the cloak. ((Combat mechanics))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: He steps.",
+          "DM: He falls through. He steps through the poison. He is, like—this guy is nearly dead, and he's just fleeing. He's fleeing for his life. He's running in this direction.",
+          "Kenzo: Through the poison.",
+          "DM: You can go one. 2, 3, 4, 5, 6. So I use it to 1, 2, 3, 4, 5, 6.",
+          "Seeker: Right over there."
+        ],
+        "after": [
+          "DM: And as you hit him.",
+          "DM: Again, this, like—he, like staggers back slightly, and then this black swirling like tendrils of energy spew out from him and Riswynn and Kenzo both take 23 points of necrotic damage as he staggers back up. Standing staring, looking at you. His, his tricks used up. But still standing.",
+          "Kenzo: 23. Damage!",
+          "DM: 23 necrotic to both of you.",
+          "DM: Heroic ladder and Seeker’s turn."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Vargus subdued as the fight ends",
+      "source": {
+        "startUid": "u2446",
+        "endUid": "u2464"
+      },
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "observed"
+        }
+      ],
+      "lines": [
+        "%% u2446:0-59, u2447:0-89 %%",
+        "DM: Murook—between Murook the ladder Wellby and this other orc, Drogmar, it is not so difficult to subdue Vargus. Valius runs off, he vanishes somewhere.",
+        "",
+        "%% u2448:0-10, u2449:0-44, u2450:0-118, u2451:0-52, u2452:0-230, u2453:0-46, u2454:0-99, u2455:0-56, u2456:0-3, u2457:0-39, u2458:0-20, u2459:0-74, u2460:0-11, u2460:11-49, u2461:0-74, u2462:0-91 %%",
+        "((Movement, death saves and initiative bookkeeping))",
+        "",
+        "%% u2463:0-26 %%",
+        "Seeker: What what about the fiend?",
+        "",
+        "%% u2464:0-24 %%",
+        "Kenzo: The fiend is dead. Yeah.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Con save.",
+          "Delwath: And I'm just gonna—I mean, I'm keeping this thing up. He fails six saves, he's dead.",
+          "DM: Well, if he fails.",
+          "Delwath: Okay, 28 damage. Yeah. He's getting rough there. And let's see a third level of exhaustion.",
+          "DM: The I've got disadvantage on attacks and saves; one more, his hit points fall in half, so he'll probably die next time he fails."
+        ],
+        "after": [
+          "Riswynn: We care about Vola or Antonia?",
+          "Delwath: I feel we should save Vola!",
+          "Riswynn: I can cantrip spare the dying on her. So she? Yeah.",
+          "Seeker: We we need to decide exactly what to do.",
+          "Riswynn: Okay with Kadmos and Casian. Do we have a strong enough magical—We can put them in the fucking mirror because put them in the fucking mirror. You have to be conscious to be put in the mirror. Yes, that's what I was saying. Do we have a thing that isn't a thing that you have to be awake with your eyes up before, I mean, are you letting Hektor die? What are you doing about Hektor?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Hektor is put in the mirror",
+      "source": {
+        "startUid": "u2480",
+        "endUid": "u2484"
+      },
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u2480:0-383 %%",
+        "Wellby: ((Rules and framing)) I think we trapped them all in the mirror? I think we put them all in the mirror, right? Yeah. Now, why don't we just show Hektor the mirror?",
+        "",
+        "%% u2481:0-160 %%",
+        "Delwath: Right now? You could just go around the mirror, grab the mirror and show it to Hektor. Let's put him in. That's true. We could put him in here. He's been doing.",
+        "",
+        "%% u2482:0-20, u2483:0-62 %%",
+        "((Saving throw))",
+        "",
+        "%% u2484:0-46 %%",
+        "Kenzo: ((Rules and framing)) So he's in there all right.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: He.",
+          "Delwath: I mean, do we want to? I don't have any more spell slots. But like I mean, we could go subdue Hektor, right?",
+          "Kenzo: Holy fuck like, can we even capture all of them?",
+          "Riswynn: Like we want to capture all of them? Do we want to just kill everyone except Kadmos and Casian and Vola like, what do we want to do? Wellby definitely votes for killing.",
+          "DM: Wow! Wellby’s kind of a murder hobo, though."
+        ],
+        "after": [
+          "Seeker: Wow! Deep, perfect. How many? So, so.",
+          "Delwath: Wellby wants to chase down this guy? I'm tempted to just slit Kadmos's throat.",
+          "Wellby: Yeah, strong. Agree on that one.",
+          "Delwath: Like. Don't you think he's too dangerous to leave alive?",
+          "Riswynn: Yes. I would kill them all except for Vola."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "The decision to execute Kadmos and restrain Casian",
+      "source": {
+        "startUid": "u2486",
+        "endUid": "u2504"
+      },
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u2486:0-78 %%",
+        "Delwath: Wellby wants to chase down this guy? I'm tempted to just slit Kadmos's throat.",
+        "",
+        "%% u2487:0-31 %%",
+        "Wellby: Yeah, strong. Agree on that one.",
+        "",
+        "%% u2488:0-5, u2489:0-50 %%",
+        "Delwath: Like. Don't you think he's too dangerous to leave alive?",
+        "",
+        "%% u2490:0-4, u2491:0-38 %%",
+        "Riswynn: Yes. I would kill them all except for Vola.",
+        "",
+        "%% u2492:0-22 %%",
+        "Delwath: Yeah, let's let's slit.",
+        "",
+        "%% u2493:0-172, u2494:0-14 %%",
+        "Delwath: Casian’s—let’s slit Kadmos's throat. Is there anybody that we should keep alive to interrogate about Casian? I think I would Delwath. What about for keeping them all alive except Kadmos?",
+        "",
+        "%% u2495:0-10 %%",
+        "Seeker: All right.",
+        "",
+        "%% u2496:0-23 %%",
+        "Kenzo: All right. That's fine.",
+        "",
+        "%% u2497:0-117, u2498:0-15 %%",
+        "Delwath: I mean, let's try and put them all in the mirror right, like, honestly, what Delwath would do is slit Kadmos's throat. Tie up Casian.",
+        "",
+        "%% u2499:0-192, u2500:0-8 %%",
+        "Delwath: Take any sort of magical like, basically any components. Yeah, arcane focus, right? Like, make sure you can't use his hands, gag him. So we can't talk like anything that would like cast spells and then.",
+        "",
+        "%% u2501:0-104 %%",
+        "Kenzo: Wake him up. Pick him up and down in the mirror, and just show him the mirror. Yeah, done. Let's do that.",
+        "",
+        "%% u2502:0-10 %%",
+        "Seeker: All right.",
+        "",
+        "%% u2503:0-135 %%",
+        "Riswynn: We also are in an orcish kingdom where there's like a king who might have some opinions about the people who just attacked his country.",
+        "",
+        "%% u2504:0-221 %%",
+        "Kenzo: But he knows it's a favor we saved as well, sure. But we're putting everybody in the mirror. Yeah, we're just like the King is very alive. We're just doing a shit right now. Kenzo is going to help you in the mirror right?",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: I think there's a well established self-defense going on here. There's the sweet sailor boy who the the barbarian. He used to be a sweet sailor boy. We let these guys go once before, and we know exactly what happened, for, like this. I I think I think we trapped them all in the mirror? I think we put them all in the mirror, right? Yeah. Now, why don't we just show Hektor the mirror?",
+          "Delwath: Right now? You could just go around the mirror, grab the mirror and show it to Hektor. Let's put him in. That's true. We could put him in here. He's been doing.",
+          "Seeker: Thank you very much. But then, okay, while he's on his first Charisma saving throw.",
+          "Kenzo: He fails a second. So he's in there all right.",
+          "Seeker: Wow! Deep, perfect. How many? So, so."
+        ],
+        "after": [
+          "Delwath: But who is somebody keeping Antonia from dying, or are you just letting her die? It's really up to Riswynn. Delwath is focused on killing Kadmos and and incapacitating Casian's magical.",
+          "Kenzo: So I'm just gonna help Kenzo’s gonna help Wellby chase after this other dude.",
+          "DM: Okay? I mean, if anybody runs after him, he immediately like throws down his weapons and is like, I surrender.",
+          "Kenzo: All right.",
+          "DM: It just goes. Doesn't go anywhere useful for him. He goes."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Valius surrenders and asks about his brother",
+      "source": {
+        "startUid": "u2505",
+        "endUid": "u2558"
+      },
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e018",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u2505:0-80, u2506:0-70, u2507:0-14, u2508:0-18 %%",
+        "((Other prisoners))",
+        "",
+        "%% u2508:18-96 %%",
+        "Kenzo: So I'm just gonna help Kenzo’s gonna help Wellby chase after this other dude.",
+        "",
+        "%% u2509:0-109 %%",
+        "DM: Okay? I mean, if anybody runs after him, he immediately like throws down his weapons and is like, I surrender.",
+        "",
+        "%% u2510:0-10 %%",
+        "Kenzo: All right.",
+        "",
+        "%% u2511:0-58 %%",
+        "DM: It just goes. Doesn't go anywhere useful for him. He goes.",
+        "",
+        "%% u2512:0-227 %%",
+        "Delwath: I mean, it goes down to like—I, I think anybody who surrenders like this guy, we we're gonna watch this mirror and we don't want you to resist it except to surrender grudge. Yeah, let's put him in the mirror. He's in the mirror.",
+        "",
+        "%% u2513:0-65, u2514:0-45, u2515:0-16, u2516:0-8, u2517:0-37, u2518:0-76, u2519:0-205, u2520:0-9, u2521:0-45, u2522:0-7, u2523:0-43, u2524:0-37, u2525:0-71, u2526:0-78, u2527:0-41, u2528:0-51, u2529:0-130, u2530:0-42, u2530:42-118, u2531:0-86, u2532:0-82 %%",
+        "((Prisoner logistics and stabilization, retained separately))",
+        "",
+        "%% u2533:0-58, u2534:0-135 %%",
+        "Delwath: Yes, we are. But first we're taking all their stuff. Yeah. Disarming them. Everything. No weapons go in the mirror, no armor goes in the mirror. No, no, no! Could wear your underwear, that's it.",
+        "",
+        "%% u2535:0-142, u2536:0-45 %%",
+        "DM: And then, like Valius, is like looking around the—but also, and as you're like getting the mirror over. And as he's read her, and he's saying, “Where is my brother? Is he alive? Is he free?”",
+        "",
+        "%% u2537:0-26 %%",
+        "Riswynn: Is anybody to remember him.",
+        "",
+        "%% u2538:0-42 %%",
+        "Wellby: I will be a I don't know. Can we kill him?",
+        "",
+        "%% u2539:0-115 %%",
+        "Delwath: Who is his? His brother is the one brother he was in his brother. What happened to him? What did the orc do to him?",
+        "",
+        "%% u2540:0-126 %%",
+        "DM: I don't know. Where do you want that? They're looking to you for—you said subdued. They. They didn't kill him unless you said—",
+        "",
+        "%% u2541:0-4 %%",
+        "Delwath: He's—",
+        "",
+        "%% u2542:0-14 %%",
+        "Kenzo: He subdued it.",
+        "",
+        "%% u2543:0-18, u2544:0-51 %%",
+        "Delwath: He's our prisoner. Just like free of Kadmos's influence. I don't know.",
+        "",
+        "%% u2545:0-15, u2546:0-6 %%",
+        "DM: Kadmos is dead. Is it?",
+        "",
+        "%% u2547:0-15, u2548:0-113 %%",
+        "Delwath: Kadmos is dead. I mean, I assume, severing his head from his body and separating them by several feet, is sufficient to kill him.",
+        "",
+        "%% u2549:0-42, u2550:0-4 %%",
+        "Riswynn: Fingers crossed. It seems so at the moment just—",
+        "",
+        "%% u2551:0-17, u2552:0-8, u2553:0-17 %%",
+        "DM: Valius is kind of—breathes a sigh of relief.",
+        "",
+        "%% u2554:0-175 %%",
+        "DM: “Look, do to me what you will. Kadmos is dead, and my brother is free. We will go east, and you will never see or hear from us again, I promise. I swear, on our mother's grave.”",
+        "",
+        "%% u2555:0-39, u2556:0-117 %%",
+        "Delwath: Justice is decided by the orcs, not us. I don't even we don't even know if his brother is free, I mean, does his brother seem still cleansed, or does he see .",
+        "",
+        "%% u2556:117-158 %%",
+        "DM: His brother is unconscious at the moment.",
+        "",
+        "%% u2557:0-7 %%",
+        "Kenzo: For now.",
+        "",
+        "%% u2558:0-106 %%",
+        "Delwath: We're putting you. Yeah, we're gonna we're gonna put everybody in this magic mirror and sort it out later.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Take any sort of magical like, basically any components. Yeah, arcane focus, right? Like, make sure you can't use his hands, gag him. So we can't talk like anything that would like cast spells and then.",
+          "Kenzo: Wake him up. Pick him up and down in the mirror, and just show him the mirror. Yeah, done. Let's do that.",
+          "Seeker: All right.",
+          "Riswynn: We also are in an orcish kingdom where there's like a king who might have some opinions about the people who just attacked his country.",
+          "Kenzo: But he knows it's a favor we saved as well, sure. But we're putting everybody in the mirror. Yeah, we're just like the King is very alive. We're just doing a shit right now. Kenzo is going to help you in the mirror right?"
+        ],
+        "after": [
+          "Riswynn: Are they gonna like—he does time pass? Are they going to like be healed when we take them out? Or conscious time doesn't pass?",
+          "DM: I I think if you're unconscious, you would eventually stabilize and wake up. But you'll be at, you know, one hit point.",
+          "Riswynn: But we can't put them in the mirror unconscious process— You can't. I mean, we're unconscious anyway, because it's.",
+          "Delwath: I mean—",
+          "Riswynn: It's 10'clock. I'd like to go to bed. Yes, but—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Vola and Antonia are stabilized",
+      "source": {
+        "startUid": "u2529",
+        "endUid": "u2532"
+      },
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u2529:0-130 %%",
+        "DM: So, okay, so hold on a second. This is all happening too fast. Okay, so right now, first of all, Riswynn is Antonia, dead or alive?",
+        "",
+        "%% u2530:0-42 %%",
+        "Riswynn: She's alive. I Spared the Dying her, too.",
+        "",
+        "%% u2530:42-118, u2531:0-86, u2532:0-82 %%",
+        "DM: Vola—Evelina is dead. The sorcerer woman is dead. Yeah. Vola and Antonia are are unconscious and stable ((Rules and framing)) Hektor is is in the mirror. Yeah, already. Valius has surrendered, and you are now saying, Stare at this mirror, and he says.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: But we're now walking it around, showing it.",
+          "Seeker: Being like what is the mirror person.",
+          "Kenzo: Or just bringing them in the bathroom. And whatever you know, when you. Whatever we're doing it smartly, so that we don’t get sucked in and blah blah.",
+          "DM: Okay, so you have. You have 9 slots free.",
+          "Delwath: I think we should put everybody in the mirror. Yes."
+        ],
+        "after": [
+          "Delwath: Yes, we are. But first we're taking all their stuff. Yeah. Disarming them. Everything. No weapons go in the mirror, no armor goes in the mirror. No, no, no! Could wear your underwear, that's it.",
+          "DM: And then, like Valius, is like looking around the—but also, and as you're like getting the mirror over. And as he's read her, and he's saying, “Where is my brother? Is he alive? Is he free?”",
+          "Riswynn: Is anybody to remember him.",
+          "Wellby: I will be a I don't know. Can we kill him?",
+          "Delwath: Who is his? His brother is the one brother he was in his brother. What happened to him? What did the orc do to him?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Casian refuses the mirror",
+      "source": {
+        "startUid": "u2575",
+        "endUid": "u2599"
+      },
+      "entities": [
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u2575:0-48, u2576:0-36 %%",
+        "Kenzo: But if they're sitting there looking at it like. Then can we just put them in there?",
+        "",
+        "%% u2576:36-71 %%",
+        "DM: So Casian refuses to open his eyes.",
+        "",
+        "%% u2577:0-25 %%",
+        "Wellby: I mean, I will open them.",
+        "",
+        "%% u2578:0-19 %%",
+        "Delwath: It's not that hard.",
+        "",
+        "%% u2579:0-10, u2580:0-101, u2581:0-42 %%",
+        "DM: He sort of—he, he kind of, I mean, yeah, okay, he's all tied up. He’s gagged. There's not much he can do. You can pull his eyes open. He attempts to resist.",
+        "",
+        "%% u2582:0-11, u2583:0-23, u2584:0-11, u2585:0-11, u2586:0-7, u2587:0-76, u2588:0-8, u2589:0-103, u2590:0-36, u2591:0-37, u2592:0-26 %%",
+        "((Spell proposals and rules discussion))",
+        "",
+        "%% u2593:0-23 %%",
+        "Delwath: Yeah. Try a suggestion.",
+        "",
+        "%% u2594:0-24 %%",
+        "Seeker: Yeah. I cast suggestion.",
+        "",
+        "%% u2595:0-19 %%",
+        "DM: A—he makes a save.",
+        "",
+        "%% u2596:0-3 %%",
+        "Seeker: Oh.",
+        "",
+        "%% u2597:0-7 %%",
+        "DM: Kind of.",
+        "",
+        "%% u2598:0-59, u2599:0-29 %%",
+        "DM: Specific spits at the ground is as best he can, and he says, “you're better off killing me.”",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I mean—",
+          "Riswynn: It's 10'clock. I'd like to go to bed. Yes, but—",
+          "Delwath: I think our plan for these people is, one by one, take their stuff, being especially careful with the magic users. Right.",
+          "Delwath: Tie them up, wake them up, and try and force them to go into the mirror. I mean, presumably I mean, I don't know what happens if somebody I mean presumably you can fail your save right if you if we tell you, let this take effect. Yeah, right? I don't know who will resist right? Like I don't know if Casian or anybody else. But but how many times I mean, is it like, if you succeed, it's how long does it? Is it like 24 h before you have to? You can try again, or I don't really know what it what happens.",
+          "DM: I don't think any of you know."
+        ],
+        "after": [
+          "Kenzo: You only have ways just to like fucking, read people's minds and shit and do other things. Everybody right?",
+          "Delwath: They may have detect thoughts.",
+          "DM: I don't think so.",
+          "Kenzo: Can we figure out next time like how we put them in, or what I'm doing?",
+          "Delwath: Can we just get, I mean, do any of the other folks resist?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "The other prisoners enter the mirror",
+      "source": {
+        "startUid": "u2607",
+        "endUid": "u2618"
+      },
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e018",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "lines": [
+        "%% u2607:0-57, u2608:0-70, u2609:0-133, u2610:0-16 %%",
+        "DM: Valius, when he sees that his brother is still breathing and also going into this mirror, apparently with him, does not resist. Vargus is like Hektor. He just come and stares blankly at the mirror, not really paying attention one way or the other, and vanishes. Vola is the same.",
+        "",
+        "%% u2611:0-74, u2612:0-23, u2613:0-6, u2614:0-27, u2615:0-110, u2616:0-92, u2617:0-18 %%",
+        "DM: Antonia. Like you know, as you as as you revive her, having stripped her of her armor and her gear, looks— She looks for a moment like she wants to try and bargain with you, but then looks around at all the Orcs, and just kind of shakes her head and sighs sort of resigned to, you know, what’s about to happen and doesn't resist you hard. I mean, the mirror.",
+        "",
+        "%% u2618:0-188 %%",
+        "DM: Like you will eventually fail the save, right? Like, it's not. Yeah, yeah, exactly. You you guys all succeeded on saves before, and then still have to make saves again when it was set up as.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: They may have detect thoughts.",
+          "DM: I don't think so.",
+          "Kenzo: Can we figure out next time like how we put them in, or what I'm doing?",
+          "Delwath: Can we just get, I mean, do any of the other folks resist?",
+          "DM: Let's see. So."
+        ],
+        "after": [
+          "Kenzo: The trap. So you can just—",
+          "Kenzo: So to add, wrap up because it's at one. And for for me it's 10. But for you guys, one. And we just like, pat ourselves on the back, for, like a fucking actually like well executed battle, where we actually like fucking, planned it well. And we could have gotten totally fucked. And we didn't.",
+          "Seeker: That. Yeah.",
+          "Kenzo: And we did well, right?",
+          "DM: Yeah, I mean, the sickening radiance really disrupted their their strategy because everybody was a bit reluctant to rush into it until it was like, yes, rush into it. It's not gonna hurt."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "Delwath reclaims the top",
+      "source": {
+        "startUid": "u2636",
+        "endUid": "u2638"
+      },
+      "entities": [
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "lines": [
+        "%% u2636:0-128 %%",
+        "Delwath: The top. Maybe we get the top back. Then. Oh, the first thing Delwath is doing is finding the top and taking it back absolutely.",
+        "",
+        "%% u2637:0-82 %%",
+        "Kenzo: I guess it depends on who you're stealing magic items from all of them, everybody.",
+        "",
+        "%% u2638:0-108 %%",
+        "Delwath: We we might give some of them some things back, but we stripped every single one of them of all their stuff.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Well, that was such a that. That was just a massive plot moment. Because if Casian and Kadmos escaped, yeah, it would been like fucking all over again. I don't know how some of these guys people say Sleep's a crappy spell, but it was really useful. Oh, it's really critical, critical, critical in this battle. Yeah.",
+          "Seeker: And also we immobilize Hektor.",
+          "DM: That was also, I think, keeping him from being able to disrupt people's concentration, was also very, very useful.",
+          "Kenzo: We did, fucking awesome like I was like. That was like sweet, sweet sweetness all around the Orc, the or the hit point sponges like it was just like that. That definitely helped. I mean, they soaked up.",
+          "DM: Something like a hundred points of damage. The 2 of them. You you're gonna have to send us a list of all the magic items we can steal from L. Yes. It's not going to be that great sadly for you."
+        ],
+        "after": [
+          "DM: So so, which we can talk about next time. But next time—but let's let's let's schedule next time, because it's going to be like in a month. Oh, yeah, we don't have anything scheduled to we, and we don't have anything scheduled.",
+          "Kenzo: You change the music then. Oh, yeah, yeah.",
+          "DM: I need. I need a good here.",
+          "Kenzo: I've got. I've got even more like victory at some point.",
+          "Riswynn: Now, monks, celebrate victories."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

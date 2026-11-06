@@ -1,0 +1,542 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-078",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-078/cleaned/dunmari-frontier-078-session.yaml",
+    "sessionYamlSha256": "9766c00b3900efca3b8b1b6185c65ba55371a817e1f756a87c10cd2e15099e42",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-078/cleaned/dunmari-frontier-078-transcript.md",
+    "transcriptSha256": "aede2d2f44da3f7899ee624a9792939069513ff55785aaa8f329858056d01b71",
+    "yamlDates": {
+      "start": "1748-12-06",
+      "end": "1748-12-08"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0004"
+      },
+      "reading": "Morning opens the played day of deception in Uzgukhar. The preceding day passing introduces this morning; it does not add another narrated session day.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0004",
+          "quote": "DM: Okay. So, the day passes. You wake in the morning of another hot day in the desert, come from the skyship down to the bustling city of Uzgukhar."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "DM narration"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0017",
+        "endUid": "u0023"
+      },
+      "reading": "The party shares a feast with Lubash at lunch during the deception.",
+      "evidence": [
+        {
+          "startUid": "u0017",
+          "endUid": "u0023",
+          "quote": "At lunch, you have a—you. You present this feast, and and Lubash takes it in stride and and acts, you know, put out and and angry that you're playing this off as you attempting to buy the cloak from him."
+        },
+        {
+          "startUid": "u0223",
+          "endUid": "u0223",
+          "quote": "DM: I guess not till noon, right? Not till like one or something like that whenever lunch was."
+        },
+        {
+          "startUid": "u0224",
+          "endUid": "u0224",
+          "quote": "Delwath: Later in the yeah, like three o’clock, or it was like, yes, though not till like three o’clock."
+        }
+      ],
+      "time": {
+        "partOfDay": "midday",
+        "precision": "approximate",
+        "basis": "Lunch narration; later estimates range from noon/one to three and leave its precise clock unresolved."
+      },
+      "note": "The later feast-expiry discussion does not settle an exact first-lunch clock."
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0038",
+        "endUid": "u0038"
+      },
+      "reading": "The party stages its departure from the palace as noon gives way to afternoon.",
+      "evidence": [
+        {
+          "startUid": "u0038",
+          "endUid": "u0038",
+          "quote": "DM: Lubash insists you leave on cue, and as that sun progresses from noon to afternoon, you walk out of the palace in disgrace to somewhat confused looks from some of the guards."
+        }
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "DM narration"
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0085",
+        "endUid": "u0092"
+      },
+      "reading": "Four or five hours of scouting and waiting pass, ending at full dark.",
+      "evidence": [
+        {
+          "startUid": "u0085",
+          "endUid": "u0092",
+          "quote": "The, the next 4, 4 h or so till—or 5 h till full dark passes."
+        },
+        {
+          "startUid": "u0134",
+          "endUid": "u0134",
+          "quote": "So if there, it's what is it like? 4 in the afternoon?"
+        },
+        {
+          "startUid": "u0135",
+          "endUid": "u0135",
+          "quote": "Delwath: Yeah, it's like this is like covering the time between 4 and 8 pm. Or something. And it's what like 60 miles or something."
+        }
+      ],
+      "duration": {
+        "min": 4,
+        "minInclusive": true,
+        "max": 5,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM explicitly advances four or five hours to full dark."
+      },
+      "time": {
+        "partOfDay": "full dark",
+        "precision": "approximate",
+        "basis": "DM narration"
+      },
+      "completion": "completed",
+      "note": "Later discussion refers to roughly 4–8 p.m.; that retrospective clock estimate conflicts with reading the scouting as beginning after four and already ending at full dark. No exact elapsed endpoint is forced."
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0099",
+        "endUid": "u0100"
+      },
+      "reading": "Delwath observes the boat over the ten minutes of the scry.",
+      "evidence": [
+        {
+          "startUid": "u0099",
+          "endUid": "u0100",
+          "quote": "You can see how far you can like, roughly see how far it's traveling in the 10 min that you're scrying."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM describes the actual scry interval."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0149",
+        "endUid": "u0154"
+      },
+      "reading": "After returning to the palace bedrooms, the concealed defenders wait a few hours.",
+      "evidence": [
+        {
+          "startUid": "u0149",
+          "endUid": "u0154",
+          "quote": "DM: So you ferry yourselves down invisibly into the palace, hide out in the bedrooms, and prepared to wait, and wait. A few hours pass."
+        },
+        {
+          "startUid": "u0174",
+          "endUid": "u0178",
+          "quote": "DM: So a few hours pass. Lubash comes into the his bedroom, and, you know, heads to sleep—to rest. It's not clear he can sleep."
+        }
+      ],
+      "duration": {
+        "text": "a few hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Narrated waiting; reaffirmed after the interruption."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t08"
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0203",
+        "endUid": "u0207"
+      },
+      "reading": "More hours pass during the night watch as Lubash sleeps and Murook watches uneasily.",
+      "evidence": [
+        {
+          "startUid": "u0203",
+          "endUid": "u0207",
+          "quote": "DM: But the night creeps on. Lubash does finally fall asleep. Murook sort of drifts off into an uneasy watch. More hours pass."
+        }
+      ],
+      "duration": {
+        "text": "more hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Explicit narrated passage during the same overnight wait."
+      },
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "DM narration"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t08"
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0209",
+        "endUid": "u0227"
+      },
+      "reading": "The night passes to dawn; the party receives long-rest benefits after the fitful overnight wait.",
+      "evidence": [
+        {
+          "startUid": "u0209",
+          "endUid": "u0227",
+          "quote": "And the night passes. Dawn comes."
+        },
+        {
+          "startUid": "u0217",
+          "endUid": "u0221",
+          "quote": "DM: Riswynn gets her spells back, you can. It's a fitful night, but yes.\n\nRiswynn: The bed is not so different [garbled]. Yeah.\n\nDM: Everybody, make sure you click long rest and like, reset all your stuff in case you're still like missing hit points, or anything. But you do lose your your."
+        }
+      ],
+      "time": {
+        "partOfDay": "dawn",
+        "precision": "approximate",
+        "basis": "DM narration"
+      },
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention; benefits confirmed after the narrated overnight, not an independently measured clock interval"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u0271",
+        "endUid": "u0273"
+      },
+      "reading": "Lubash sends the western-front report at about ten in the morning.",
+      "evidence": [
+        {
+          "startUid": "u0271",
+          "endUid": "u0273",
+          "quote": "DM: And about 10 am as you are quietly munching on some gourmet trail food that Delwath prepared, you— You receive a telepathic message from Lubash."
+        }
+      ],
+      "time": {
+        "partOfDay": "midday",
+        "clock": "10:00",
+        "precision": "approximate",
+        "basis": "DM narration"
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u0382",
+        "endUid": "u0384"
+      },
+      "reading": "By about two in the afternoon the party leaves hiding for the ship.",
+      "evidence": [
+        {
+          "startUid": "u0382",
+          "endUid": "u0384",
+          "quote": "DM: So by about 2 in the afternoon you invisibly decamp from your hiding places and return to the ship. I guess it's a little unclear how you're going to get to the ship."
+        }
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "clock": "14:00",
+        "precision": "approximate",
+        "basis": "DM narration"
+      }
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u0392",
+        "endUid": "u0411"
+      },
+      "reading": "The party completes a second Heroes’ Feast aboard the ship.",
+      "evidence": [
+        {
+          "startUid": "u0392",
+          "endUid": "u0411",
+          "quote": "Eat another feast."
+        },
+        {
+          "startUid": "u0349",
+          "endUid": "u0350",
+          "quote": "DM: And time passes, let me know what you want to do. I assume it's just continuous playing, like Kenzo doing his ritual, Seeker doing his ritual. Once it gets to 24. Do we have to keep the hero's feast, or can she just cast it? Oh, no! You have to sit and eat it for an hour."
+        },
+        {
+          "startUid": "u0402",
+          "endUid": "u0402",
+          "quote": "You do receive a message while you're eating eating the feast."
+        },
+        {
+          "startUid": "u0410",
+          "endUid": "u0411",
+          "quote": "DM: So 10 hit points.\n\nKenzo: We got 10 extra hit points from the feast."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Heroes’ Feast eating convention, explicitly required at u0349–u0350 and the second meal is completed here"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u0412",
+        "endUid": "u0430"
+      },
+      "reading": "Wellby scouts the camp in the afternoon. The DM first says about five, then answers the time question with about four.",
+      "evidence": [
+        {
+          "startUid": "u0412",
+          "endUid": "u0430",
+          "quote": "So around 5 in the afternoon, as the sun is sinking low, another desert hawk summoned by Wellby flies out,"
+        },
+        {
+          "startUid": "u0429",
+          "endUid": "u0430",
+          "quote": "Wellby: What time is it?\n\nDM: You asked about 4 in the afternoon."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "Both spoken clock alternatives lie in afternoon; exact clock left unresolved."
+      }
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u0441",
+        "endUid": "u0442"
+      },
+      "reading": "Another hour passes before Kenzo again senses no nearby attackers.",
+      "evidence": [
+        {
+          "startUid": "u0441",
+          "endUid": "u0442",
+          "quote": "DM: So another hour passes. Kenzo’s ritual. Don't sense them. But now you don't expect to sense them."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Explicit elapsed hour following the camp observation."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u0446",
+        "endUid": "u0448"
+      },
+      "reading": "A further hour passes while Kenzo rests and regenerates ki.",
+      "evidence": [
+        {
+          "startUid": "u0446",
+          "endUid": "u0448",
+          "quote": "DM: You don't sense anything within 6 miles. Another hour passes. Kenzo rests, regenerates his ki."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Explicit narrated hour; no additional separate short-rest hour is added."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u0450",
+        "endUid": "u0458"
+      },
+      "reading": "At sunset the party returns beneath the palace beds and reconnects with Lubash.",
+      "evidence": [
+        {
+          "startUid": "u0450",
+          "endUid": "u0458",
+          "quote": "So, as the sun sets and they're sleeping, you return to your position underneath the beds and manage to re—reconnect with, re—we get Lubash into the telepathic link,"
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM narration"
+      }
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u0473",
+        "endUid": "u0480"
+      },
+      "reading": "By midnight Kenzo detects Kadmos’s group and undead approaching within five miles.",
+      "evidence": [
+        {
+          "startUid": "u0473",
+          "endUid": "u0480",
+          "quote": "DM: Night falls, and by midnight Kenzo senses movement.\n\nKenzo: Within.\n\nDM: 5 miles of the city, both undead and Kadmos and his companions."
+        }
+      ],
+      "time": {
+        "partOfDay": "midnight",
+        "clock": "00:00",
+        "precision": "approximate",
+        "basis": "DM narration"
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u0490",
+        "endUid": "u0494"
+      },
+      "reading": "About an hour later, as Kenzo finishes recovering ki, the city alarm announces the undead attack.",
+      "evidence": [
+        {
+          "startUid": "u0490",
+          "endUid": "u0494",
+          "quote": "DM: The—so after maybe an hour or so, as Kenzo is just finishing his—finishing his rest to recover his ki, you hear shouts and the sound of an alarm from upstairs. And people running, and Orc runs down one of the palace guard and comes to to tell Lubash. And of course, all of you hiding."
+        },
+        {
+          "startUid": "u0510",
+          "endUid": "u0512",
+          "quote": "Kenzo: Then, before I started during that hour, I can sense them like, kind of. Are they getting closer? Like, are they? How far away are they? They're getting closer. Yep. Like, what rate are they traveling?\n\nDM: They're like I mean, they're by the time the hour ends they were like half a mile away..\n\nKenzo: Oh, like all right, I got my like rest with my last rest, charge out my ki and get ready to fuck them up, right?"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM says maybe an hour or so after the midnight detection."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u0505",
+        "endUid": "u0509"
+      },
+      "reading": "Battle updates arrive over the next fifteen or twenty minutes while the defenders maintain their cover.",
+      "evidence": [
+        {
+          "startUid": "u0505",
+          "endUid": "u0509",
+          "quote": "DM: There are updates over the course of the next 15, 20 min, as as Lubash is sort of set up a little, you know, acting, trying to keep up some semblance of the illusion of like he has been disturbed from his rest and—\n\nDM: There seems to be you know people are sort of fleeing in a panic. The, the—you know, 2 dozen household guards are having trouble dealing with an equal number of specters, and while they've managed to kill a few, many of them are dying."
+        }
+      ],
+      "duration": {
+        "min": 15,
+        "minInclusive": true,
+        "max": 20,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated interval of successive reports."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u0527",
+        "endUid": "u0527"
+      },
+      "reading": "Ten more minutes pass before the alarm sequence leading to the palace ambush.",
+      "evidence": [
+        {
+          "startUid": "u0527",
+          "endUid": "u0527",
+          "quote": "DM: About 10 min later—"
+        },
+        {
+          "startUid": "u0538",
+          "endUid": "u0538",
+          "quote": "DM: Okay. You hear the alarm is—"
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Explicit narrated advance."
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No absolute date or year is spoken. December 6–8, 1748 comes from YAML: the opening morning is December 6, the completed overnight reaches December 7, and the following midnight reaches December 8.",
+    "expectedDateBoundaries": 2,
+    "supportedDateBoundaries": 2,
+    "evidence": [
+      "t01",
+      "t08",
+      "t16",
+      "t17",
+      "t18",
+      "t19"
+    ],
+    "explanation": "The opening played morning, one explicit overnight to dawn, the next day’s afternoon and sunset, and the following midnight before the attack account for two calendar transitions. The introductory preceding-day phrase is not an additional played day. Combat and prisoner handling continue without an established further overnight. The second afternoon clock alternatives do not change the calendar span."
+  }
+}
