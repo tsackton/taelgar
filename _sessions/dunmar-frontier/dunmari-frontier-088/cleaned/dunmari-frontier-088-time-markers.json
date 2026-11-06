@@ -1,0 +1,279 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-088",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-session.yaml",
+    "sessionYamlSha256": "e334ef76ca8d0786e9fa6e44f410bde137d7e20131535a8cb09dc2dd3e7ce50d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-transcript.md",
+    "transcriptSha256": "9b671c652a0585987eff00d506085fa05fc8b2db340104f068dea036100bed29",
+    "yamlDates": {
+      "start": "1749-01-17",
+      "end": "1749-01-20"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0018",
+        "endUid": "u0026"
+      },
+      "reading": "The approach and siege preparations occur in daylight, before the threatened nightfall.",
+      "time": {
+        "partOfDay": "daylight",
+        "precision": "approximate",
+        "basis": "Current siege context contrasts sunlight with nightfall still to come."
+      },
+      "note": "u0086–u0087 revisits testing the fly while a couple of days out, then confirms an earlier test; this does not establish a measured travel interval or a definite played rewind.",
+      "evidence": [
+        {
+          "startUid": "u0018",
+          "endUid": "u0026",
+          "quote": "they are weak in the sunlight and when night falls tonight, with the walls now smashed, the dogs will have free rein of the city."
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0288",
+        "endUid": "u0289"
+      },
+      "reading": "Some time passes calculating the missile trajectory while the ship begins angling upward.",
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0288",
+          "endUid": "u0289",
+          "quote": "you spend a little bit of time like thinking while you're beginning to angle the ship up."
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0443",
+        "endUid": "u0447"
+      },
+      "reading": "A brief narrated silence follows the trebuchet’s destruction while the specters continue closing.",
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated pause described as a minute, rather than a measured clock interval."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0443",
+          "endUid": "u0447",
+          "quote": "Silence falls over the battlefield for a minute, and you can faintly hear the cheering of the Orcs."
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0821",
+        "endUid": "u0833"
+      },
+      "reading": "The party closes on Grash while discussing preparations; the flight is treated as about a minute.",
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM estimates the 800-foot flight; the table explicitly places the conversation during the closing approach."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0821",
+          "endUid": "u0823",
+          "quote": "Like a minute."
+        },
+        {
+          "startUid": "u0832",
+          "endUid": "u0833",
+          "quote": "No, no, we're flying towards Grash! While we're having this conversation we have 1 min."
+        },
+        {
+          "startUid": "u0965",
+          "endUid": "u0967",
+          "quote": "So as you close in 300 feet away."
+        },
+        {
+          "startUid": "u1037",
+          "endUid": "u1037",
+          "quote": "Yeah, you're like 80 60 feet off, 80 feet up."
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u2018",
+        "endUid": "u2024"
+      },
+      "reading": "Riswynn completes the hour-long resurrection aboard Vindristjarna, restoring Wellby to life.",
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Explicit casting duration followed by the completed ritual and awakening."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2018",
+          "endUid": "u2024",
+          "quote": "So this takes an hour to cast. And as you all gather around Wellby's body in Vindristjarna. Flying above the city."
+        },
+        {
+          "startUid": "u2026",
+          "endUid": "u2034",
+          "quote": "Slowly Wellby's eyes open and the dust blows away."
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u2075",
+        "endUid": "u2078"
+      },
+      "reading": "The day advances into afternoon as the party returns to help the orcs.",
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "The DM explicitly names afternoon; the accompanying sun-rising phrase is retained as spoken."
+      },
+      "evidence": [
+        {
+          "startUid": "u2075",
+          "endUid": "u2078",
+          "quote": "As the day passes into afternoon, the sun rising in the sky, you return to the Orcs, I guess."
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u2100",
+        "endUid": "u2103"
+      },
+      "reading": "After clearing remaining undead, the party returns to Uzgukhar in the evening and prepares a celebration.",
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "The return and food preparation are both explicitly placed in the evening."
+      },
+      "evidence": [
+        {
+          "startUid": "u2100",
+          "endUid": "u2103",
+          "quote": "help the Orcs clear out the last of the zombies— lingering still, and return to the city in the evening triumphant."
+        },
+        {
+          "startUid": "u2111",
+          "endUid": "u2114",
+          "quote": "So in the evening, you prepare some food, you— you know, bring out some of your stores."
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2157",
+        "endUid": "u2157"
+      },
+      "reading": "The victory celebration continues late into the night.",
+      "time": {
+        "partOfDay": "late night",
+        "precision": "approximate",
+        "basis": "Explicit end of the celebration."
+      },
+      "evidence": [
+        {
+          "startUid": "u2157",
+          "endUid": "u2157",
+          "quote": "The party goes late into the night."
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2159",
+        "endUid": "u2160"
+      },
+      "reading": "Delwath introduces a next-morning frame for the discussion of future goals.",
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Player’s explicit next-morning cue after the late-night party.",
+        "relative": {
+          "relation": "after",
+          "reference": "t08",
+          "anchor": "The morning after the celebration."
+        }
+      },
+      "note": "The following exchange is sustained meta planning rather than a resolved morning activity; whether this advances the covered session boundary remains open.",
+      "evidence": [
+        {
+          "startUid": "u2159",
+          "endUid": "u2160",
+          "quote": "Next morning, like, where are you doing? Apollyon? And then—Rai?"
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No calendar date or year is independently spoken. January 17–20, 1749 comes from YAML; the approach is in daylight, with afternoon, evening and late night subsequently named.",
+    "expectedDateBoundaries": 3,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09"
+    ],
+    "explanation": "The fly-test aside at u0086–u0087 refers to being a couple of days out and to an already completed test, but supplies neither a measured journey nor an unambiguous played rewind. The battle, resurrection and celebration have a same-day sequence; a next-morning planning cue may extend the closing frame by one night. Three date transitions are not independently established. Missing elapsed coverage is not a contradiction; no days are supplied from drEnd."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t01"
+      ],
+      "reading": "The opening is already at the siege approach; the later couple-of-days-out aside may recall earlier travel business without resolving that interval.",
+      "alternatives": [
+        {
+          "reading": "Covered play begins with the daylight battlefield approach."
+        },
+        {
+          "reading": "Earlier travel/testing business is included retrospectively, but its start and elapsed span remain unspecified."
+        }
+      ]
+    },
+    {
+      "boundary": "end",
+      "evidence": [
+        "t08",
+        "t09"
+      ],
+      "reading": "The celebration ends late at night; the player’s next-morning cue leads into meta planning.",
+      "alternatives": [
+        {
+          "reading": "The last resolved event is the late-night celebration; planning supplies no further played advance."
+        },
+        {
+          "reading": "The planning is framed on the following morning, crossing one additional date boundary."
+        }
+      ]
+    }
+  ]
+}

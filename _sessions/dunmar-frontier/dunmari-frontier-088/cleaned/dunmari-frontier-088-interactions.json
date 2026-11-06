@@ -1,0 +1,1172 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "9b671c652a0585987eff00d506085fa05fc8b2db340104f068dea036100bed29"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-entity-map.json",
+      "sha256": "3c25014765e7c5e97064233499a2649bb2d184725b55aec01fb97e6c48d5e65d"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Stories of Grash and Motua’s chains",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e033",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0027",
+        "endUid": "u0076"
+      },
+      "lines": [
+        "%% u0027:0-16, u0028:0-15, u0029:0-20, u0030:0-4, u0031:0-46, u0032:0-25 %%",
+        "DM: As you approach, you recall that information that the that you learn from the Hall of Stories about—okay, about the tales of Grash.",
+        "",
+        "%% u0033:0-9, u0034:0-2, u0035:0-41 %%",
+        "((Brief interruptions))",
+        "",
+        "%% u0036:0-117, u0037:0-107, u0038:0-25 %%",
+        "DM: ((Name lookup or rules discussion)) the monk of the awakened soul, Saka, the the old woman north of Tokra, who Kenzo first learned the stories from.",
+        "",
+        "%% u0039:0-83, u0040:0-21, u0041:0-18, u0042:0-96, u0043:0-18, u0044:0-9 %%",
+        "DM: And as you've been praying and meditating you can. You can hear her tale. The story of a wandering knight in the days before in the days before the—like, in her childhood, right? So like 60 years ago, after the Great War. The days after the after the—",
+        "",
+        "%% u0045:0-154 %%",
+        "DM: The barriers of Shakun had gone up. But when people still sometimes ventured into the Plaguelands, into the desolation of Cha'mutte for glory or treasure.",
+        "",
+        "%% u0046:0-87, u0047:0-10, u0048:0-54, u0049:0-8, u0050:0-59, u0051:0-14 %%",
+        "DM: Tales of a wandering knight from an unknown home, not Dunmar elsewhere. Saka never knew—who headed east. Never returned. And the only news that came back was that he had passed beyond the Land of the Dead and yet not died. The tales from.",
+        "",
+        "%% u0052:0-4 %%",
+        "((Brief interruptions))",
+        "",
+        "%% u0053:0-19, u0054:0-42, u0055:0-11, u0056:0-51, u0057:0-31 %%",
+        "DM: Justan, the bandit. The rumors that the par—the parents of the children of Tokra, would tell their kids if they didn't behave: \"The shadow knight will get you.\"",
+        "",
+        "%% u0058:0-3 %%",
+        "((Brief interruptions))",
+        "",
+        "%% u0059:0-41, u0060:0-127 %%",
+        "DM: He comes when it's dark, and with a sweep of his glaive slammed into the ground, knocks you down. And then, as he stands over you, cuts you with wounds that do not heal.",
+        "",
+        "%% u0061:0-71, u0062:0-55, u0063:0-58, u0064:0-57 %%",
+        "DM: And then the memory of Motua, who fought Grash in the Land of the Dead. The chains that bound Motua, a curse that weakened them, reduced their ability to hurt him, springing from the ring, could only be removed by taking one step closer to death.",
+        "",
+        "%% u0065:0-5 %%",
+        "((Brief interruptions))",
+        "",
+        "%% u0066:0-114 %%",
+        "Kenzo: Real quick on the Motua memory. You said that again. So the who is the? He missed the pronoun? Yep, yep, yep, yep.",
+        "",
+        "%% u0067:0-24 %%",
+        "DM: So those weakened Motua.",
+        "",
+        "%% u0068:0-142, u0069:0-349, u0070:0-11 %%",
+        "Kenzo: His attacks do less damage. It could only be removed by stepping one step closer to death by choosing to fail a death saving throw in advance. ((Name lookup or rules discussion))",
+        "",
+        "%% u0071:0-116, u0072:0-23, u0073:0-17 %%",
+        "((Brief interruptions))",
+        "",
+        "%% u0074:0-95, u0075:0-4, u0076:0-50 %%",
+        "Kenzo: And then, yeah, like, we have to like, kind of willingly face our own deaths to then weaken his like curse. He has a slam attack that knocks you prone."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay, so, oops. We begin. As you approach the battlefield of Uzgukhar, the vast army of undead, thousands upon thousands, ringed around the besieged city, dozens upon dozens of specters and wraiths floating in the air. Swooping around in front of you. You can see this huge war engine trebuchet the size of a city block. It's in the process of being winched. It looks like at least 2 or 3 stones have already crashed into the city earlier this morning or last night. And the first. The the walls of the city, the front, the front gates, and the walls of the city are completely in ruins. And a good few dozen houses have been reduced to rubble. You can see a line of maybe 400 zombies and skeletons piled along 2 massive ropes as they slowly pull 2 wheels on the sides of this machine, turning as this counterweight that must weigh thousands of pounds 10,000 pounds or more slowly begins to inch up into the into the sky. There's a boulder currently a boulder about the size of larger than a person currently lying in this massive netted bucket, and as it as the counterweight lifts, winches up and up and up, you can imagine what's going to happen when that drops, and this 300 foot long arm swings this fi—500-pound boulder into the city. From a thousand feet away.",
+          "DM: Behind the trebuchet you can see a series of trenches in which there are packs of shadow dogs milling around probably 60 or 80 of them. These are. You recognize these as you as you watch. These are the dogs that hunt the same kind of thing that hunted you from Kharsan, and they are not undead or fiends. They're monstrosities, but they are weak in the sunlight and when night falls tonight, with the walls now smashed, the dogs will have free rein of the city."
+        ],
+        "after": [
+          "Seeker: Do we have any kind of protection against curses?",
+          "Kenzo: Great question. Great, great question, Riswynn.",
+          "DM: I think you're muted.",
+          "Riswynn: I'm muted, and reading my spells.",
+          "DM: Style."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Halfling songs of the ring’s origin and loss",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0090",
+        "endUid": "u0155"
+      },
+      "lines": [
+        "%% u0090:0-21, u0091:0-24, u0092:0-77, u0093:0-21, u0094:0-19, u0095:0-31, u0096:0-18, u0097:0-6 %%",
+        "DM: Looking over the map, Wellby, tracing not just the journeys that you've taken, but all the journeys all halflings have taken, you hear the memories from long ago. From before humans walked the earth, the halfling song: an elf—",
+        "",
+        "%% u0098:0-37, u0099:0-13, u0100:0-11, u0101:0-50, u0102:0-41, u0103:0-58, u0104:0-8, u0105:0-13, u0106:0-4, u0107:0-39, u0108:0-25, u0109:0-133 %%",
+        "DM: Who had rejected Aldanor and Elmerca, who had grown sick of the control that they, or the not the control, but the who wanted independence, who wanted to to claim immortality for himself, without depending on a god. Did not—the song goes that—the normal ways to achieve immortality—turning into an undead or or tying yourself to the world as the god's pull got weaker and weaker, as many old elves do, did not appeal to him, wanted to remain.",
+        "",
+        "%% u0110:0-93, u0111:0-67, u0112:0-73, u0113:0-57, u0114:0-33, u0115:0-23, u0116:0-30, u0117:0-58, u0118:0-141 %%",
+        "DM: Undying and strong, and the story goes. He went to the Land of the Dead, and there he brought soil. He brought the stuff of the Land of the Dead back to Taelgar, and from that fashioned a ring that gave him control over life and death. And the halfling songs do not say what became of this elf. Traveled far, far away out of the songs of halflings into strange planes and far realms, into the shattered spaces. The edge of the material plane. And what secrets there no one knows, but he brought with him this ring made of the substance of the Land of the Dead. And then the song says.",
+        "",
+        "%% u0119:0-26, u0120:0-19, u0121:0-20, u0122:0-50, u0123:0-32, u0124:0-60, u0125:0-21, u0126:0-74, u0127:0-91 %%",
+        "DM: This ring was found again. The tales don't say how or when exactly, but it reappeared during the golden age of Drankor. There was much consternation and despair, for it was thought to be far too dangerous to allow a mortal to claim it. Not only did it keep them from ever dying. When a person wearing this ring would die, they absorbed the life force of those around them and were brought back to life.",
+        "",
+        "%% u0128:0-45, u0129:0-110, u0130:0-10, u0131:0-2 %%",
+        "((Player reactions and a brief interruption))",
+        "",
+        "%% u0132:0-48, u0133:0-116, u0134:0-22, u0135:0-20, u0136:0-21, u0137:0-52, u0138:0-37, u0139:0-12, u0140:0-27, u0141:0-9, u0142:0-13, u0143:0-69, u0144:0-14, u0145:0-36, u0146:0-47 %%",
+        "DM: A plan was made according to the halfling songs, as you trace your finger along the—the river that flows now past the orc kingdoms, but then flowed south to Drankor. And the ring was taken north from the city. The goal to find some substance, some power strong enough to dissolve even the material of the Land of the Dead. ((Brief interruption)) The next tale tells of how the ring was lost. Yet again this party did not succeed, and it tumbled downriver landing in the Plaguelands until presumably it was found by a lost knight.",
+        "",
+        "%% u0147:0-4, u0148:0-4 %%",
+        "((Player reactions and a brief interruption))",
+        "",
+        "%% u0149:0-19, u0150:0-27, u0151:0-9, u0152:0-36, u0153:0-78, u0154:0-37, u0155:0-77 %%",
+        "DM: And the story goes: Destruction of such a thing it is not— is not that it is difficult exactly. Not protected by the power of a devil, or imbued with the soul of its Creator. It's simply that there is very little that can dissolve the fundamental material from which planes are constructed."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Skyship without using a use of the Rainbow Bridge.",
+          "Delwath: And and hold on before we did. We is our plan to just fly the skyship undisguised in any fashion over the army.",
+          "DM: No, you're like you're far enough away at the moment that you can discuss that as part of your plans. But Can we test the fly also before? Well, we're still a couple of days out. The fly is still possessed by. You've tested the fly since the goddess was trapped in the Feywild. I forgot we've done that rest. Gotta go back and actually kill her at some point.",
+          "Seeker: Hmm!",
+          "DM: So."
+        ],
+        "after": [
+          "Unknown: You're.",
+          "Delwath: Do we still have any of that universal solvent?",
+          "Seeker: Can that dissolve the very material from which planes are constructed? Literally anything? Hmm! It's just a matter of getting the right getting it in the right spot at the right time.",
+          "Wellby: Yeah. We have one use of that. Yeah, you have one use.",
+          "Seeker: No misses. No, we. There's some magic, though, that we have this like dazes people or stuns them, or something right? Kenzo's punches and my Psychic Lance it's called, which can incapacitate somebody. Yeah, I mean, Grash, is gonna have almost certainly gonna have a certain number of legendary resistances so that he could choose to succeed on a save right? So."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "The last solvent dose and the severed-hand plan",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0157",
+        "endUid": "u0185"
+      },
+      "lines": [
+        "%% u0157:0-47 %%",
+        "Delwath: Do we still have any of that universal solvent?",
+        "",
+        "%% u0158:0-90, u0159:0-4, u0160:0-87 %%",
+        "Seeker: Can that dissolve the very material from which planes are constructed? Literally anything? Hmm! It's just a matter of getting the right getting it in the right spot at the right time.",
+        "",
+        "%% u0161:0-5, u0162:0-47 %%",
+        "Wellby: Yeah. We have one use of that. Yeah, you have one use.",
+        "",
+        "%% u0163:0-10, u0164:0-339, u0165:0-9, u0166:0-94, u0167:0-133, u0168:0-79, u0169:0-187, u0170:0-15, u0171:0-85, u0172:0-293, u0173:0-263, u0174:0-60, u0175:0-220, u0176:0-58, u0177:0-59, u0178:0-30, u0179:0-66, u0180:0-20, u0181:0-70, u0182:0-21 %%",
+        "((Other tactics and attunement discussion))",
+        "",
+        "%% u0183:0-120 %%",
+        "Delwath: Well. If you teleport a hundred miles away. You could just, pour the universal solvent in it with no particular concern.",
+        "",
+        "%% u0184:0-38, u0185:0-135 %%",
+        "DM: Exactly. I mean, if you cut off right? If you're holding the hand, you can't fail to pour the universal. It's only if the hand is attached to Grash's arm that you could fail."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: A plan was made according to the halfling songs, as you trace your finger along the—the river that flows now past the orc kingdoms, but then flowed south to Drankor. And the ring was taken north from the city. The goal to find some substance, some power strong enough to dissolve even the material of the Land of the Dead. And the next— sorry. I just saw the chat. The next— The next tale tells of how the ring was lost. Yet again this party did not succeed, and it tumbled downriver landing in the Plaguelands until presumably it was found by a lost knight.",
+          "Seeker: Hmm.",
+          "Kenzo: Hmm!",
+          "DM: And the story goes: Destruction of such a thing it is not— is not that it is difficult exactly. Not protected by the power of a devil, or imbued with the soul of its Creator. It's simply that there is very little that can dissolve the fundamental material from which planes are constructed.",
+          "Unknown: You're."
+        ],
+        "after": [
+          "Unknown: But if he was stunned and the hand was still attached his arm?",
+          "Wellby: You know. Presumably you still need to make an attack. Well, it's with advantage. But you know the the plan that's being obviously telegraphed. Here is fight Grash till his hit points are low, cut his hand off and then dissolve it.",
+          "DM: Or stun or incapacitate him before his hit points are low, you can also cut off his hand right. The point is, you don't have to stun him to cut him off. Cut off his hand.",
+          "Seeker: Good luck. I'll be on the ship if I.",
+          "Delwath: If we."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Faldrak helps work out the missile",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0285",
+        "endUid": "u0289"
+      },
+      "lines": [
+        "%% u0285:0-329, u0286:0-55, u0287:0-249 %%",
+        "Delwath: ((Other preparation)) Ask Faldrak to calculate the optimal point, to drop a rock that have best damage and accuracy.",
+        "",
+        "%% u0288:0-207, u0289:0-39 %%",
+        "DM: And he doesn't know. But Seeker and Faldrak worked together on it, scrawling a bunch of numbers on the wall. And yeah, you spend a little bit of time like thinking while you're beginning to angle the ship up. ((Other preparation))"
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: What's the status of Forbiddance right now? It's permanent?",
+          "Riswynn: I you guys are gone long time I've I finished praying that that city like a week and a week ago. Wow! I've had a little bit of a rest from my 18-hour prayer days.",
+          "Kenzo: But Riswynn's like a little like Orc demigod. Now, right? Aren't you kind of you're like you. They must like, build little statues for you, and stuff like it's like A, you know—",
+          "Seeker: So that's why they need those other dogs. That's why they need the shadow dogs, because they can't send undead into the city.",
+          "Seeker: Let's just evacuate everyone. This is not gonna work."
+        ],
+        "after": [
+          "Seeker: Even with a guided missile.",
+          "DM: There's like wind, and you just don't have it like it's small in the distance, right?",
+          "Seeker: So if you start too high up, there's still a chance you might miss at at one mile I could clairvoyance from the trebuchet, looking up and line up the ship by looking down and up at the same time. But well, it I mean it is. It is gonna be guided. The thing can move. Yeah. We don't need to say—",
+          "DM: But you know the difference between hitting a glancing blow and smack on could be the difference between damaging the thing and destroying the thing.",
+          "Delwath: So the lower you are."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "Ladder boulder breaks the trebuchet",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e034",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0356",
+        "endUid": "u0430"
+      },
+      "lines": [
+        "%% u0356:0-65, u0357:0-154, u0358:0-48, u0359:0-110, u0360:0-56, u0361:0-159, u0362:0-99, u0363:0-130, u0364:0-29, u0365:0-30 %%",
+        "Seeker: Alright. We're going with the Ladder ball. ((Routine action and mechanics)) Seeker summons into being a large stone sphere ((Routine action and mechanics))",
+        "",
+        "%% u0366:0-194, u0367:0-58, u0368:0-93, u0369:0-45, u0370:0-112, u0371:0-88, u0372:0-49, u0373:0-66, u0374:0-112, u0375:0-184, u0376:0-102, u0377:0-106, u0378:0-35, u0379:0-36, u0380:0-145, u0381:0-30, u0382:0-80, u0383:0-14, u0384:0-12, u0385:0-17, u0386:0-32, u0387:0-5, u0388:0-74, u0389:0-98, u0390:0-95, u0391:0-82, u0392:0-12, u0393:0-97, u0394:0-26, u0395:0-92, u0396:0-26, u0397:0-54, u0398:0-97, u0399:0-77, u0400:0-12, u0401:0-86, u0402:0-57, u0403:0-8, u0404:0-126, u0405:0-11, u0406:0-131, u0407:0-14, u0408:0-9 %%",
+        "((Targeting, attacks and damage rolls))",
+        "",
+        "%% u0409:0-81, u0410:0-39 %%",
+        "DM: ((Routine action and mechanics)) you have this like vague sense of eyes and a little salute. ((Routine action and mechanics))",
+        "",
+        "%% u0411:0-5, u0412:0-156, u0413:0-35, u0414:0-33, u0415:0-24, u0416:0-16 %%",
+        "((Targeting, attacks and damage rolls))",
+        "",
+        "%% u0417:0-159, u0418:0-106, u0419:0-44, u0420:0-64, u0421:0-46, u0422:0-79, u0423:0-7, u0424:0-152, u0425:0-111, u0426:0-32, u0427:0-276, u0428:0-40 %%",
+        "DM: ((Routine action and mechanics)) It goes straight through the arm like smack, breaking it cleanly in a half. It goes straight down to the ground and then shatters in half. ((Routine action and mechanics))",
+        "",
+        "%% u0429:0-93, u0430:0-151 %%",
+        "Seeker: And the trebuchet just slowly like is now completely off balance begins to just tip forward. ((Routine action and mechanics))"
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: It's gonna take the falling damage, which might kill it. Yeah, okay. Oh, it'll just smash.",
+          "DM: Into pieces. I mean, it's gonna take damage right? Like, yeah.",
+          "Riswynn: The short life of the Flying Rock. Yeah.",
+          "Delwath: If it survives, it can roll around in circles.",
+          "DM: Right?"
+        ],
+        "after": [
+          "Kenzo: Hours hours of something. And I'm just like.",
+          "DM: The arm. Had the arm had— had 80 hit points, you probably would have broken it with a normal attack. Not guaranteed with with 20d6. With that—",
+          "DM: There's just silence falls over the battlefield for a moment. I need some like triumphant music.",
+          "Seeker: It's only 9, 15.",
+          "Kenzo: Yeah, this just means."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "The ring is dissolved and Grash is defeated",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e032",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1846",
+        "endUid": "u1935"
+      },
+      "lines": [
+        "%% u1846:0-176, u1847:0-261 %%",
+        "Kenzo: ((Combat procedure)) Kenzo Kenzo is gonna leverage Lengau fucking Motua ((Combat procedure)) grab Grash's hand, ((Combat procedure)) He doesn't just break the hand he goes, takes the wrist and snaps it off, so he's holding the hand, pulls it back in, throws it—",
+        "",
+        "%% u1848:0-174, u1849:0-168, u1850:0-5, u1851:0-9, u1852:0-17, u1853:0-17, u1854:0-40, u1855:0-91, u1856:0-5 %%",
+        "((Combat mechanics, tactics and attack sequence))",
+        "",
+        "%% u1857:0-10, u1858:0-49 %%",
+        "DM: Reach out. Close your hands just around it as it flies past.",
+        "",
+        "%% u1859:0-74, u1860:0-169, u1861:0-20, u1862:0-99, u1863:0-27, u1864:0-46, u1865:0-4, u1866:0-34, u1867:0-4, u1868:0-6, u1869:0-25, u1870:0-15, u1871:0-23 %%",
+        "((Combat mechanics, tactics and attack sequence))",
+        "",
+        "%% u1872:0-32, u1873:0-36, u1874:0-32, u1875:0-58, u1876:0-19, u1877:0-95, u1878:0-113 %%",
+        "DM: Wellby takes this skeletal hand, drops the universal solvent on that, and the ring begins to dissolve. And as the ring begins to decay, you can see you hear this whirling screech of—just the sound of the terror of the dead whirling around you, and suddenly it is cold and dark. ((Combat procedure))",
+        "",
+        "%% u1879:0-15, u1880:0-20, u1881:0-37, u1882:0-25, u1883:0-28, u1884:0-58, u1885:0-28, u1886:0-36, u1887:0-32, u1888:0-22, u1889:0-39 %%",
+        "((Combat mechanics, tactics and attack sequence))",
+        "",
+        "%% u1890:0-80 %%",
+        "Kenzo: Wellby's unconscious, right? Oh, yeah, yeah, we're unconscious. We're we're fine.",
+        "",
+        "%% u1891:0-100 %%",
+        "Seeker: ((Combat procedure)) Grash is gonna teleport next to Wellby—",
+        "",
+        "%% u1892:0-10, u1893:0-40, u1894:0-77, u1895:0-36, u1896:0-42, u1897:0-69, u1898:0-30, u1899:0-31, u1900:0-21 %%",
+        "((Combat mechanics, tactics and attack sequence))",
+        "",
+        "%% u1901:0-104, u1902:0-81 %%",
+        "DM: ((Combat procedure)) strikes at Wellby and watches as the light flashes out of your eyes, and then turns from up here— pushes your body down, and just screams in incoherent rage across the battlefield.",
+        "",
+        "%% u1903:0-22, u1904:0-203, u1905:0-43 %%",
+        "((Combat mechanics, tactics and attack sequence))",
+        "",
+        "%% u1906:0-46, u1907:0-51 %%",
+        "DM: His cloak. His cloak has fallen from his head— the shadows gone. He's just standing in rage. ((Combat procedure))",
+        "",
+        "%% u1908:0-77, u1909:0-134, u1910:0-65, u1911:0-18, u1912:0-58, u1913:0-111, u1914:0-32, u1915:0-30, u1916:0-32, u1917:0-4, u1918:0-38, u1918:38-124, u1918:124-180, u1919:0-90, u1920:0-29, u1921:0-179, u1922:0-53, u1923:0-31, u1924:0-40, u1925:0-22, u1926:0-14, u1927:0-20, u1928:0-26, u1929:0-5, u1930:0-10, u1931:0-36, u1932:0-6, u1933:0-38 %%",
+        "((Combat mechanics, tactics and attack sequence))",
+        "",
+        "%% u1934:0-104, u1935:0-107 %%",
+        "DM: He just the bones of his body just collapse into a pile. As Delwath's blade slices through him. Wellby's dead body on the ground. ((Combat procedure))"
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: He's gonna get out of the grapple. Oh, no. And I didn't grab it. Can you hear me?",
+          "Delwath: Yes. Now.",
+          "Delwath: Okay. Well, Grash is gonna have a turn. So if I what should I do with it right now? So I can grab it. Well, hold on hold. Oh, no, he's still attuned, so we can't kill him.",
+          "DM: Can't kill him now, because that'll kill everybody if you kill. If Grash goes to 0 hit points right now, Kenzo and Delwath are both dead, or at least unconscious.",
+          "Delwath: So what you wanna do, whether what you wanna do is Wellby is to destroy the ring."
+        ],
+        "after": [
+          "Delwath: Every single one. I failed on my first roll succeeded my second roll.",
+          "Seeker: Nice.",
+          "DM: And there's quiet for a moment.",
+          "DM: As you look around the battlefield, about half of the undead, maybe more, just begin to dissipate— with the ring is combined.",
+          "DM: You see—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Freed souls and the rout of Grash’s army",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1939",
+        "endUid": "u1967"
+      },
+      "lines": [
+        "%% u1939:0-34, u1940:0-25, u1941:0-11, u1942:0-23, u1943:0-26 %%",
+        "DM: As you look around the battlefield, about half of the undead, maybe more, just begin to dissipate— with the ring is combined.",
+        "",
+        "%% u1944:0-7 %%",
+        "DM: You see—",
+        "",
+        "%% u1945:0-74, u1946:0-9, u1947:0-88, u1948:0-4, u1949:0-77, u1950:0-49, u1951:0-46 %%",
+        "DM: Souls just floating. Wellby. You find yourself standing in a plain expanse, watching as all of these creatures begin to appear next to you: the souls of Orcs, some Dunmari, some halflings, even some long dead and lost and confused. Not sure where to go or what to do, and just slowly begin shuffling along to the River of Souls in the Land of the Dead.",
+        "",
+        "%% u1952:0-47, u1953:0-94, u1954:0-159, u1955:0-9, u1956:0-11 %%",
+        "DM: The rest of you here watch as one by one, every undead that had been killed and resurrected by the ring all of the Orcs that Grash slaughtered— back to life with the ring. All of the undead that had been killed once, twice, 3, 4 times, maybe more, by the Orcs. Everybody whose soul was bound by the ring begins to drift away.",
+        "",
+        "%% u1957:0-28, u1958:0-17, u1959:0-56, u1960:0-20, u1961:0-41, u1962:0-44, u1963:0-24, u1964:0-77, u1965:0-34, u1966:0-16, u1967:0-64 %%",
+        "DM: And as this happens, you see the orcs from the from the city, begin seeing this, and begin to ride out sweeping through the remnants of the undead. Driving them away. Without the ability to resurrect without any power from Grash's ring, little that any of the undead forces can do to stop them, and most don't try. Disoriented and confused and lost, they just drift. So as this battle rages around you, what are the 4 of you doing?"
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: 14—30 points, 30, 31 points of damage.",
+          "DM: He just the bones of his body just collapse into a pile. As Delwath's blade slices through him. Wellby's dead body on the ground. Delwath's still in the air, amazingly succeeding every single concentration check.",
+          "Delwath: Every single one. I failed on my first roll succeeded my second roll.",
+          "Seeker: Nice.",
+          "DM: And there's quiet for a moment."
+        ],
+        "after": [
+          "Riswynn: So.",
+          "Kenzo: Sorry, just just to recap the very ending of the battle. So— Kenzo's grappled, does some like Motua tattoo punches snap Grash's hand off, rolls it in the air like up to Wellby, who's sitting on the stone ridge. Wellby catches the hand, dissolves it. The ring, Grash, teleports to where Wellby is— murders him lifelessly, and then— Delwath flies over and then kills him.",
+          "Seeker: Yes.",
+          "Kenzo: That's pretty cool! Pretty amazing! Pretty great! We should animate that. I love it.",
+          "Kenzo: But that's a worthy Grash, Grash death."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "A glimpse of the dwarven realm during resurrection",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2018",
+        "endUid": "u2034"
+      },
+      "lines": [
+        "%% u2018:0-30, u2019:0-28, u2020:0-83, u2021:0-19, u2022:0-15, u2023:0-118, u2024:0-37 %%",
+        "DM: So this takes an hour to cast. And as you all gather around Wellby's body in Vindristjarna. Flying above the city. Take out your fancy diamond, and and hold it up. And you can see—Seeker and Riswynn, you can see a sort of glimmer of the part of the mountain of the home of the dwarven gods. In this underground cave, through the Diamond.",
+        "",
+        "%% u2025:0-4 %%",
+        "((Brief reaction))",
+        "",
+        "%% u2026:0-40, u2027:0-31, u2028:0-59, u2029:0-60, u2030:0-12, u2031:0-29, u2032:0-5, u2033:0-7, u2034:0-49 %%",
+        "DM: And as Riswynn continues this prayer and reaches out and touches Wellby, the diamond shatters into dust that just floats in the air, floating around Wellby beginning to slowly drift into forms, shaping into images of a boat on the ocean, a map, compass. Slowly Wellby's eyes open and the dust blows away."
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: I was just sort of assuming that I could. I met. I thought we had prepared it together, and then, when I didn't find it, I was like, gonna just pretend that I had prepared it. It's in, because there's lots of things that I didn't use that I could have— you know— not have had prepared and had that prepared. I think it's reasonable firestorm.",
+          "DM: That's fine.",
+          "Riswynn: So anyway, of course, he'd be fine until tomorrow, since we know he'll keep for another 100 years. But you know, it's like we we have that chest. Right? Yeah. Put him in the cold chest. Alright.",
+          "Seeker: But anyway,",
+          "Riswynn: Every time the target finishes a long rest. The penal, the minus 4 penalty, is reduced by one until it disappears. So you gotta be careful for the next 4 days as you go through the hangover. Yeah. Build back up to full attack, saving, throw and ability check rolls."
+        ],
+        "after": [
+          "Kenzo: As as Wellby awakens Kenzo, Kenzo, leans over and is like Good catch.",
+          "Wellby: Smiles slowly.",
+          "Kenzo: Good catch, like Kenzo, still holding like Grash's skeletal hand, and, like the other goes to give you a high 5 with the hand, with the with the skeletal hand. Now when Delwath, when Delwath killed him, all of his bones disintegrated, damn it! Oh, well, gives them a high 5, anyways.",
+          "Wellby: Wellby reaches his hand up for high-five and then just flops it back.",
+          "Kenzo: Best. Best, friend. Yeah, that's before. Yeah. Yeah. Yeah. Yeah. Cause. So welcome to the club."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "The orcs’ victory celebration",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e018",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2100",
+        "endUid": "u2137"
+      },
+      "lines": [
+        "%% u2100:0-144, u2101:0-15, u2102:0-22, u2103:0-26 %%",
+        "DM: The nuisance. Plague! I'm just saying yes, wandering around and back from the land of the dead, help the Orcs clear out the last of the zombies— lingering still, and return to the city in the evening triumphant.",
+        "",
+        "%% u2104:0-4 %%",
+        "((Brief reactions))",
+        "",
+        "%% u2105:0-59 %%",
+        "Delwath: Let's throw a victory party. We practice for it. After all.",
+        "",
+        "%% u2106:0-30, u2107:0-12 %%",
+        "Wellby: We have so much food right now back garden.",
+        "",
+        "%% u2108:0-5 %%",
+        "((Brief reactions))",
+        "",
+        "%% u2109:0-26 %%",
+        "DM: Yeah. You're well stocked.",
+        "",
+        "%% u2110:0-93 %%",
+        "Riswynn: Well, a town that's been under siege for a while would appreciate so much food from a garden.",
+        "",
+        "%% u2111:0-22, u2112:0-18, u2113:0-4, u2114:0-99 %%",
+        "DM: So in the evening, you prepare some food, you— you know, bring out some of your stores. Faldrak is like super curious about this whole thing, like—",
+        "",
+        "%% u2115:0-14 %%",
+        "Seeker: What happened.",
+        "",
+        "%% u2116:0-153, u2117:0-59 %%",
+        "DM: I assume you like. Give him a little warning about what you know these people. But but he starts talking, I mean he starts talking about the Feywild with with Azogar, with, like the loremaster, and they get off on—",
+        "",
+        "%% u2118:0-13 %%",
+        "((Brief reactions))",
+        "",
+        "%% u2119:0-50, u2120:0-13, u2121:0-22, u2122:0-141, u2123:0-95, u2124:0-79, u2125:0-102, u2126:0-37, u2127:0-3, u2128:0-48 %%",
+        "DM: Travels in the Feywild, and rumors and things, and— Everybody is— you know. Just kind of— it's been a lot. It's been a month of siege. The past few days, in particular, have been extremely stressful for everybody, for all the Orcs. Massive boulders crashing into their city. There's still a lot of rebuilding and a long road to repairing the city, and especially the countryside that Grash rampaged through. And there is a. You know, a noted distress as many of the zombies who fought in Grash's army, were the— dead Orcs, who had—were their friends— but— overall. It's it's and it's quite a celebration.",
+        "",
+        "%% u2129:0-29, u2130:0-4, u2131:0-11 %%",
+        "DM: Lubash, the chieftain. Robots— just— overwhelmed—",
+        "",
+        "%% u2132:0-2 %%",
+        "((Brief reactions))",
+        "",
+        "%% u2133:0-13 %%",
+        "DM: Have nothing.",
+        "",
+        "%% u2134:0-61 %%",
+        "DM: If, although several young Orcs do volunteer if you need any—",
+        "",
+        "%% u2135:0-24 %%",
+        "Delwath: Hirelings come with you.",
+        "",
+        "%% u2136:0-96, u2137:0-156 %%",
+        "Kenzo: Yes, hell, yes. Hell, the F. Yes. And we welcome them. And Kenzo Kenzo, you all noticed suddenly— is able to speak Orcish like he suddenly is able to like. Just communicate with these Orcs somehow. And it's kind of strange wasn't able to do that earlier."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: But— the city is still protected by Forbiddance, so all they really had to do was just retreat whenever— rest up a bit and send out a few sorties with with with Grash and the catapult gone. It wasn't a particular challenge.",
+          "Delwath: Cause. They could just kill the undead, and then they'd just be dead. They wouldn't just come and come back. I mean, zombies are also notoriously—",
+          "DM: They're pretty easy to kill right like.",
+          "Delwath: But—",
+          "DM: They're not without Grash. Presumably they're not tactically intelligent, right? They're just wandering around. All you need is like 20 archers. You could just keep backing up."
+        ],
+        "after": [
+          "DM: Oh, also, Kenzo, you notice. So the flower that's been growing on your staff—",
+          "Kenzo: Huh!",
+          "DM: Like all through the fight with Grash every every time it's like seemed indestructible.",
+          "DM: And now, as you're celebrating this party— you see. About a week after—",
+          "Unknown: Arheste."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "The flower begins to go to seed",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e020",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2138",
+        "endUid": "u2146"
+      },
+      "lines": [
+        "%% u2138:0-77 %%",
+        "DM: Oh, also, Kenzo, you notice. So the flower that's been growing on your staff—",
+        "",
+        "%% u2139:0-4 %%",
+        "((Brief reaction))",
+        "",
+        "%% u2140:0-87 %%",
+        "DM: Like all through the fight with Grash every every time it's like seemed indestructible.",
+        "",
+        "%% u2141:0-41, u2142:0-27 %%",
+        "DM: And now, as you're celebrating this party— you see. About a week after—",
+        "",
+        "%% u2143:0-8 %%",
+        "Unknown: Arheste.",
+        "",
+        "%% u2144:0-13 %%",
+        "Kenzo: Oh, yes, yes.",
+        "",
+        "%% u2145:0-87 %%",
+        "DM: The the bud closes, and it begins to go to seed. Probably in another week there will be—",
+        "",
+        "%% u2146:0-73 %%",
+        "Kenzo: Oh, shit! We're about to get an elven fucking giant ash tree on our ship!"
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: 19—",
+          "DM: Have nothing.",
+          "DM: If, although several young Orcs do volunteer if you need any—",
+          "Delwath: Hirelings come with you.",
+          "Kenzo: Yes, hell, yes. Hell, the F. Yes. And we welcome them. And Kenzo Kenzo, you all noticed suddenly— is able to speak Orcish like he suddenly is able to like. Just communicate with these Orcs somehow. And it's kind of strange wasn't able to do that earlier."
+        ],
+        "after": [
+          "Seeker: Amazing. [garbled]— Hello.",
+          "Kenzo: Exciting.",
+          "Delwath: That's gonna be the meditation chamber. Well, it's gonna be a lot of things. I mean, yeah. Think those those elven trees are pretty pretty cool and pretty useful. Yeah.",
+          "Kenzo: Wait who we were. We're gonna get another hire. Oh, that the there's a gardener, elven gardener. Elven Gardener. Yes.",
+          "Kenzo: We just got such a great like so excited for our like multicultural haven of it's we're such a such a multicultural haven— Orcs, elves. Peaceful Orcs, peaceful Orcs, useful Orcs."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "A proposed hunt for Urgall",
+      "entities": [
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2161",
+        "endUid": "u2163"
+      },
+      "lines": [
+        "%% u2161:0-357, u2162:0-196, u2163:0-69 %%",
+        "Delwath: ((Other goals)) and like we should track down Urgall the Black. ((Other goals))"
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: We just got such a great like so excited for our like multicultural haven of it's we're such a such a multicultural haven— Orcs, elves. Peaceful Orcs, peaceful Orcs, useful Orcs.",
+          "Seeker: The volunteers are {{native born outside of the}}—",
+          "DM: The party goes late into the night.",
+          "DM: And before we end—",
+          "Delwath: Next morning, like, where are you doing? Apollyon? And then—Rai?"
+        ],
+        "after": [
+          "Riswynn: Is maybe we should chase them all down.",
+          "Riswynn: Isn't Seeker's brother missing, or something I heard?",
+          "Kenzo: Yeah, yeah. But but like the main quest is, there are 3. There are 3 more pieces of Rai's hand that need to be found. Yeah. And once we put the hand together, then we can show the full completed hand to the mirror, and then from— which will reveal the location of Apollyon's, Apollyon's whatever phylactery.",
+          "Delwath: Oh, actually, yes. And then we'll know where to go to. Yeah.",
+          "Delwath: So that's what's supposed. That's that's the main quest. Yeah, the main quest is finding Rai's hands."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Seeker’s missing brother recalled",
+      "entities": [
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2165",
+        "endUid": "u2165"
+      },
+      "lines": [
+        "%% u2165:0-53 %%",
+        "Riswynn: Isn't Seeker's brother missing, or something I heard?"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: The party goes late into the night.",
+          "DM: And before we end—",
+          "Delwath: Next morning, like, where are you doing? Apollyon? And then—Rai?",
+          "Delwath: And yeah, yeah, we we need, we needed. We need to get the hands. Tell me a bunch of stories, because I have no idea all the things that have distracted you, I mean other than partying so, and like we should track down Urgall the Black. I think we do the side quests in Tollen, and then we do the main quest in Tollen, and then we consider going after Fausto. Side quest in Tollen. And what's the main quest in Tollen? The main quest in Tollen is finding Rai's jade piece of jade. The side quest is tracking down Urgall the Black and chasing the rumors of—there's a whole set of weird places that we were dropped. Hints about—",
+          "Riswynn: Is maybe we should chase them all down."
+        ],
+        "after": [
+          "Kenzo: Yeah, yeah. But but like the main quest is, there are 3. There are 3 more pieces of Rai's hand that need to be found. Yeah. And once we put the hand together, then we can show the full completed hand to the mirror, and then from— which will reveal the location of Apollyon's, Apollyon's whatever phylactery.",
+          "Delwath: Oh, actually, yes. And then we'll know where to go to. Yeah.",
+          "Delwath: So that's what's supposed. That's that's the main quest. Yeah, the main quest is finding Rai's hands.",
+          "Kenzo: But also, remember, you have teleport now. So Seeker could just be like—",
+          "DM: Let's teleport to random place."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Three more hand fragments and the phylactery plan",
+      "entities": [
+        {
+          "id": "e022",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e021",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2166",
+        "endUid": "u2170"
+      },
+      "lines": [
+        "%% u2166:0-228, u2167:0-77 %%",
+        "Kenzo: Yeah, yeah. But but like the main quest is, there are 3. There are 3 more pieces of Rai's hand that need to be found. Yeah. And once we put the hand together, then we can show the full completed hand to the mirror, and then from— which will reveal the location of Apollyon's, Apollyon's whatever phylactery.",
+        "",
+        "%% u2168:0-18, u2169:0-41 %%",
+        "Delwath: Oh, actually, yes. And then we'll know where to go to. Yeah.",
+        "",
+        "%% u2170:0-101 %%",
+        "Delwath: So that's what's supposed. That's that's the main quest. Yeah, the main quest is finding Rai's hands."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And before we end—",
+          "Delwath: Next morning, like, where are you doing? Apollyon? And then—Rai?",
+          "Delwath: And yeah, yeah, we we need, we needed. We need to get the hands. Tell me a bunch of stories, because I have no idea all the things that have distracted you, I mean other than partying so, and like we should track down Urgall the Black. I think we do the side quests in Tollen, and then we do the main quest in Tollen, and then we consider going after Fausto. Side quest in Tollen. And what's the main quest in Tollen? The main quest in Tollen is finding Rai's jade piece of jade. The side quest is tracking down Urgall the Black and chasing the rumors of—there's a whole set of weird places that we were dropped. Hints about—",
+          "Riswynn: Is maybe we should chase them all down.",
+          "Riswynn: Isn't Seeker's brother missing, or something I heard?"
+        ],
+        "after": [
+          "Kenzo: But also, remember, you have teleport now. So Seeker could just be like—",
+          "DM: Let's teleport to random place.",
+          "Seeker: Yeah, you can't take the ship with us, but that's Bridge—",
+          "Delwath: How long? You could only get back to the ship with the Rainbow bridge?",
+          "DM: No, no, but but no matter where you are on Taelgar, you can always create a bridge that goes to the ship."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "The Kenku contact and a northern approach",
+      "entities": [
+        {
+          "id": "e026",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2188",
+        "endUid": "u2191"
+      },
+      "lines": [
+        "%% u2188:0-85, u2189:0-110 %%",
+        "DM: Who was it? So there was a Kenku who had, who had agreed to connect you with somebody— who had flown around in the north and could lead you on the back way, so that you would approach Ursk from the—",
+        "",
+        "%% u2190:0-132, u2191:0-93 %%",
+        "Delwath: North instead of from the coast where everybody expects travelers. That sounds like fun. It's a kenku. We can probably take our ship cause we're flying right, presumably can't teleport because the kenku has to show us the way."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Yeah, let's go to Ursk. Let's go after Rai's hand in Ursk.",
+          "Seeker: Straight there.",
+          "Delwath: Yeah.",
+          "Seeker: Person is close—",
+          "Delwath: I mean, we might wanna didn't we? Wasn't there—"
+        ],
+        "after": [
+          "DM: If you wanted to teleport to Ursk, your only option would be to teleport to the place that Delwath scryed to Radomir's—",
+          "Seeker: And that would also be— risky whether it's risky. Because, yeah.",
+          "Delwath: Let's, I think we follow the Kenku path into the back way into Ursk, take, and then— possibly. Obviously, we could Rainbow Bridge, I mean, we could Rainbow Bridge a hundred miles away from the Vindristjarna, right? We just have to be able to see where we're going.",
+          "Delwath: What? What's in Ursk again? Piece of Rai's hand piece of Rai's hand. We think.",
+          "Delwath: I scryed it first Jade Garden and then some jungle. Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Fausto and the scroll weighed against Ursk",
+      "entities": [
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e028",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e023",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2211",
+        "endUid": "u2279"
+      },
+      "lines": [
+        "%% u2211:0-146 %%",
+        "Wellby: Yeah, no agree. I mean, I feel like the other priority, or I think Wellby would say, the other priority is, let's kill Fausto as soon as possible.",
+        "",
+        "%% u2212:0-229 %%",
+        "Kenzo: That's interesting where I started hand. That's interesting. Well, also, we if he's got that pandemonium scroll that he's probably gonna like, do we keep waiting on that, and like, let him keep hanging around with that, you know?",
+        "",
+        "%% u2213:0-291, u2214:0-92, u2215:0-79, u2216:0-19, u2217:0-106, u2218:0-156, u2219:0-45, u2220:0-156, u2221:0-35, u2222:0-146, u2223:0-356, u2224:0-15, u2225:0-31, u2226:0-31, u2227:0-139, u2228:0-246, u2229:0-121 %%",
+        "((Other priorities and background discussions))",
+        "",
+        "%% u2230:0-60 %%",
+        "Riswynn: Either kill Fausto, or steal back the scroll of pandemonium.",
+        "",
+        "%% u2231:0-46, u2232:0-59 %%",
+        "Seeker: That's an interesting thought. Actually. We've— swiping it out from under his nose would be impressive. But—",
+        "",
+        "%% u2233:0-43, u2234:0-166, u2235:0-50, u2236:0-44, u2237:0-81, u2238:0-4, u2239:0-22, u2240:0-83, u2241:0-85, u2242:0-82, u2243:0-50, u2244:0-8, u2245:0-33, u2246:0-54, u2247:0-6, u2248:0-57, u2249:0-101, u2250:0-114, u2251:0-60, u2252:0-227, u2253:0-85, u2254:0-89, u2255:0-23, u2256:0-5, u2257:0-166, u2258:0-63, u2259:0-31, u2260:0-199, u2261:0-69, u2262:0-22, u2263:0-11, u2264:0-96, u2265:0-166 %%",
+        "((Other priorities and background discussions))",
+        "",
+        "%% u2266:0-424, u2267:0-385, u2268:0-317 %%",
+        "Kenzo: ((Other plans and commentary)) it's like Fausto, we know, is actively sending like shadowhounds and shit against us. He's like actively trying to kill us, you know what I mean. And so and then he's got this like scroll that he could use to do some nefarious shit with like that feels like a bigger ticking bomb in some ways than Apollyon. ((Other plans and commentary))",
+        "",
+        "%% u2269:0-112, u2270:0-127, u2271:0-7, u2272:0-5 %%",
+        "((Other priorities and background discussions))",
+        "",
+        "%% u2273:0-70, u2274:0-81 %%",
+        "Delwath: My only hesitancy was going to Chardon as I felt like, we're gonna get sucked into the Dunmar-Chardon politics and feel compelled to try and stop a war.",
+        "",
+        "%% u2275:0-4 %%",
+        "((Other priorities and background discussions))",
+        "",
+        "%% u2276:0-23 %%",
+        "Seeker: Personally, I vote Ursk—",
+        "",
+        "%% u2277:0-272 %%",
+        "Wellby: ((Other plans and commentary)) I mean Ursk is in the opposite direction from Chardon. So like if something's coming at us from Chardon, it's really far away, doesn't. Yeah, I don't think it puts us.",
+        "",
+        "%% u2278:0-369, u2279:0-17 %%",
+        "Kenzo: ((Other plans and commentary)) Yeah. Let's go to Ursk."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: What do you think, Schwartz? You. Look you look, you look pensive. My my only hesitation is this, Ursk is a closed nation that allows no one in of highly powerful wizards.",
+          "Seeker: When you put it that way?",
+          "Riswynn: Yeah, but you just killed Grash.",
+          "Wellby: Yeah, I mean, we'll figure it out right, like just that. I think it's I think it's gonna— be a rough go. I'm all for it. I just think it's gonna be a rough go.",
+          "Kenzo: But but when else would we want to do it, you know."
+        ],
+        "after": [
+          "Seeker: Ursk.",
+          "DM: Ursk is—",
+          "Kenzo: That are risk—",
+          "DM: Okay? Awesome.",
+          "Kenzo: Yeah. Let's go to Chardon, like, when we're really ready to like, you know—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Havdar and the prospect of renewed war",
+      "entities": [
+        {
+          "id": "e029",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2214",
+        "endUid": "u2215"
+      },
+      "lines": [
+        "%% u2214:0-92, u2215:0-79 %%",
+        "DM: ((Other political discussion)) But putting Havdar in charge of keeping the peace may not be the— strategy that leads to peace ((Other political discussion))"
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Yeah, I mean, we'll figure it out right, like just that. I think it's I think it's gonna— be a rough go. I'm all for it. I just think it's gonna be a rough go.",
+          "Kenzo: But but when else would we want to do it, you know.",
+          "Wellby: Yeah, no agree. I mean, I feel like the other priority, or I think Wellby would say, the other priority is, let's kill Fausto as soon as possible.",
+          "Kenzo: That's interesting where I started hand. That's interesting. Well, also, we if he's got that pandemonium scroll that he's probably gonna like, do we keep waiting on that, and like, let him keep hanging around with that, you know?",
+          "Kenzo: I mean, I will say I will say, Tim, like I don't wanna Jinx us a little bit, but feels like the world's like, Okay, you know. Feels like feels like there's nothing like horrible happening right? Right? So it feels like, pretty like civil war. Yeah, Dunmar probably gonna start fighting soon?"
+        ],
+        "after": [
+          "Delwath: The Chardon-Dunmar.",
+          "Delwath: I think, when you say, though you mean intervening further on top of our additional interventions to date.",
+          "Kenzo: We we we were really do it. We were you, were we were, we were. We were bad, you know, like wrong place, wrong time. That was like what we were. We weren't. There's no, there's no intention on our side.",
+          "Kenzo: You are unwitting pawns, and you are unwitting. Exactly, thank you, Tim. We were unwitting pawns. Absolutely. The fifth, unwitting, unwitting is the key. We.",
+          "Delwath: Could fly across Dunmar and try and— fix something there. We could teleport straight to Chardon, I mean, we could teleport to the door in front of Fausto's house and then and try. And—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "Apollyon’s imprisonment and Rai’s shattered hand",
+      "entities": [
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e021",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e022",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e030",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2233",
+        "endUid": "u2260"
+      },
+      "lines": [
+        "%% u2233:0-43 %%",
+        "Wellby: Do we know where what plane Apollyon is on?",
+        "",
+        "%% u2234:0-166 %%",
+        "Kenzo: So he's got. He's got a physical. He's got a material like thing, which is the, you know, whatever the fuck I can ever pronounce, he was imprisoned. Phylactery. Yeah.",
+        "",
+        "%% u2235:0-50 %%",
+        "Wellby: Be awkward if he was imprisoned on pandemonium and—",
+        "",
+        "%% u2236:0-44 %%",
+        "DM: No, no, no, he's he's on the material plane.",
+        "",
+        "%% u2237:0-81 %%",
+        "Kenzo: The phylactery's in the Material Plane. Yes, yes, in. In an undisclosed location.",
+        "",
+        "%% u2238:0-4 %%",
+        "((Brief reaction))",
+        "",
+        "%% u2239:0-22 %%",
+        "Riswynn: That Rai's hand knows.",
+        "",
+        "%% u2240:0-83 %%",
+        "Delwath: Because the Rai hand was holding the story that they learned last session. Was that—",
+        "",
+        "%% u2241:0-85, u2242:0-82, u2243:0-50, u2244:0-8, u2245:0-33, u2246:0-54 %%",
+        "DM: So? Apollyon was trapped. There's all this back story about the high school campaign. Cha'mutte and Apollyon turned on each other because Apollyon tried to become a god— didn't like cause. He wanted to kill all the gods. And then— Apollyon was trapped by Cha'mutte. Left unexplained is why Cha'mutte didn't just kill him.",
+        "",
+        "%% u2247:0-6 %%",
+        "Seeker: Right.",
+        "",
+        "%% u2248:0-57, u2249:0-101, u2250:0-114, u2251:0-60, u2252:0-227 %%",
+        "DM: And then Cha'mutte died because they all killed Cha'mutte— and Apollyon then was gonna break free. But Rai was warned by this Elven woman and a few other people— who had been like the enemies of Apollyon for a long time. So Rai, tell as he was tel—turning to stone teleported— and the assumption is that he {{just}} Apollyon's phylactery— which is the source of his power into his hand as he turned to jade. So it was surrounded. And so it's being held by his hand. Then Rai did something or something happened, and his hand shattered, and that freed Apollyon again.",
+        "",
+        "%% u2253:0-85, u2254:0-89, u2255:0-23 %%",
+        "DM: The logic being, if you can get all the pieces of the hand together. Then, every time Kenzo's looked at a piece of jade in the hand in the mirror, all he's seen is the history since it was shattered.",
+        "",
+        "%% u2256:0-5 %%",
+        "Seeker: Right.",
+        "",
+        "%% u2257:0-166 %%",
+        "DM: Reassembled, we should get— You should see the history. You can see what it was holding. Once you can identify what Apollyon's phylactery is, then you can go find it.",
+        "",
+        "%% u2258:0-63 %%",
+        "Seeker: Then you can scry it right like once you wanna know what it is?",
+        "",
+        "%% u2259:0-31, u2260:0-199 %%",
+        "Delwath: Can you scry objects? Think so. It's a good question, though. I closed my character sheet there like locate object. There's a lot of ways to find something, you know what it is. That's a lot easier than something you don't question."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Actively trying to kill us, I mean, except that— godlike lich. But besides that.",
+          "Delwath: I don't know if Apollyon knows about us actually oh, he totally knows about us, he probably does. At this point he has to. I stared at him.",
+          "Kenzo: Stared at him. I stared at him in the Plane of Consciousness, and also we destroyed a scepter. He must know that happened. And now the ring yeah, he knows he definitely knows that. Yeah, there he's got, I mean. But I don't know. I kinda like I'm I think it could be interesting to go go pop back in Chardon and just get a feel for what the hell's going on over there.",
+          "Riswynn: Either kill Fausto, or steal back the scroll of pandemonium.",
+          "Seeker: That's an interesting thought. Actually. We've— swiping it out from under his nose would be impressive. But—"
+        ],
+        "after": [
+          "Wellby: Just real, practically, since it's something that is Ursk or Chardon?",
+          "Delwath: I would vote Ursk. But— that's not— I wouldn't fight Chardon if that's what everybody else wanted. I could see why Chardon might be.",
+          "Delwath: I think Wellby's ambivalent, because his desire to go somewhere new is really balanced with his desire for bloody vengeance. In this case, that's how I feel. Wellby.",
+          "Kenzo: Yeah, this is hard. See? The thing is like, okay, it doesn't feel like there's a lot of urgency to get Rai's hand together. You know what I mean. It's like, what's Apollyon doing like what's even happening like, it's like, you know, it's like we're we were. We're partying until it's like Fausto, we know, is actively sending like shadowhounds and shit against us. He's like actively trying to kill us, you know what I mean. And so and then he's got this like scroll that he could use to do some nefarious shit with like that feels like a bigger ticking bomb in some ways than Apollyon. I mean Apollyon may be doing some stuff. At least I don't know what the fuck it is, so I kinda like feel a little bit like like getting a little temperature check like doing a little reconnaissance over to Chardon could be— you know, cause like Ursk is gonna be there like Rai's hand is not going anywhere, you know, getting our feet wet with teleport travel. Which of these problems is one that we can solve by dropping a huge rock onto it from the sky cause that strategy really works well, literally every problem from now on and Apollyon?",
+          "Kenzo: Fausto's house, Fausto's Tower is totally boulder droppable like we can completely, magically protect it, though—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,795 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-088",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-session.yaml",
+    "sessionYamlSha256": "e334ef76ca8d0786e9fa6e44f410bde137d7e20131535a8cb09dc2dd3e7ce50d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-transcript.md",
+    "transcriptSha256": "9b671c652a0585987eff00d506085fa05fc8b2db340104f068dea036100bed29"
+  },
+  "places": {
+    "p01": {
+      "label": "Vindristjarna",
+      "kind": "skyship",
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "evidence": [
+        {
+          "startUid": "u0334",
+          "endUid": "u0334",
+          "quote": "exterior of Vindristjarna"
+        },
+        {
+          "startUid": "u2018",
+          "endUid": "u2024",
+          "quote": "you all gather around Wellby's body in Vindristjarna. Flying above the city."
+        }
+      ]
+    },
+    "p02": {
+      "label": "deck",
+      "kind": "deck",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0356",
+              "endUid": "u0365",
+              "quote": "We're just up on the deck of the ship"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0356",
+          "endUid": "u0365",
+          "quote": "We're just up on the deck of the ship"
+        }
+      ]
+    },
+    "p03": {
+      "label": "below decks",
+      "kind": "ship interior",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0476",
+              "endUid": "u0479",
+              "quote": "Actually, he runs below decks."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0476",
+          "endUid": "u0479",
+          "quote": "Actually, he runs below decks."
+        }
+      ]
+    },
+    "p04": {
+      "label": "Uzgukhar",
+      "kind": "city",
+      "vaultPath": "Gazetteer/Upper Istaros/Xurkhaz/Uzgukhar.md",
+      "note": "The vault identifies the city as Xurkhaz’s capital; that regional identity is orientation from Uzgukhar.md, not an additional transcript-established containment chain.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0017",
+          "quote": "As you approach the battlefield of Uzgukhar, the vast army of undead, thousands upon thousands, ringed around the besieged city"
+        }
+      ]
+    },
+    "p05": {
+      "label": "battlefield of Uzgukhar",
+      "kind": "battlefield",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0443",
+              "endUid": "u0447",
+              "quote": "you can faintly hear the cheering of the Orcs. You know, a thousand feet away."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0017",
+          "quote": "As you approach the battlefield of Uzgukhar, the vast army of undead, thousands upon thousands, ringed around the besieged city"
+        }
+      ]
+    },
+    "p06": {
+      "label": "Grash’s hill",
+      "kind": "hill",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0755",
+              "endUid": "u0760",
+              "quote": "survey the battlefield."
+            },
+            {
+              "startUid": "u0757",
+              "endUid": "u0760",
+              "quote": "then up on a little bit hill you can see standing there watching the scene, Grash with his glaive, shadows clinging to him."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0755",
+          "endUid": "u0760",
+          "quote": "survey the battlefield."
+        },
+        {
+          "startUid": "u0757",
+          "endUid": "u0760",
+          "quote": "then up on a little bit hill you can see standing there watching the scene, Grash with his glaive, shadows clinging to him."
+        }
+      ]
+    },
+    "p07": {
+      "label": "stone arch",
+      "kind": "rock formation",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0795",
+              "endUid": "u0800",
+              "quote": "Is there any kind of fortification on the hill with him, or he's just like standing there by himself?"
+            },
+            {
+              "startUid": "u0798",
+              "endUid": "u0800",
+              "quote": "There's like a stone arch that he's sort of standing underneath"
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0795",
+          "endUid": "u0800",
+          "quote": "Is there any kind of fortification on the hill with him, or he's just like standing there by himself?"
+        },
+        {
+          "startUid": "u0798",
+          "endUid": "u0800",
+          "quote": "There's like a stone arch that he's sort of standing underneath"
+        }
+      ]
+    },
+    "p08": {
+      "label": "plain expanse",
+      "kind": "afterlife plain",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1945",
+              "endUid": "u1951",
+              "quote": "River of Souls in the Land of the Dead."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1945",
+          "endUid": "u1951",
+          "quote": "You find yourself standing in a plain expanse"
+        },
+        {
+          "startUid": "u1945",
+          "endUid": "u1951",
+          "quote": "River of Souls in the Land of the Dead."
+        }
+      ]
+    },
+    "p09": {
+      "label": "Land of the Dead",
+      "kind": "plane",
+      "vaultPath": "Cosmology/Land of the Dead.md",
+      "evidence": [
+        {
+          "startUid": "u1945",
+          "endUid": "u1951",
+          "quote": "River of Souls in the Land of the Dead."
+        }
+      ]
+    },
+    "p10": {
+      "label": "mountain home of the dwarven gods",
+      "kind": "divine realm",
+      "vaultPath": "Cosmology/Spiritual Realms/Heart of the Mountain.md",
+      "note": "Matched to the Heart of the Mountain from the Bahrâzel and realm notes; only glimpsed through the resurrection diamond.",
+      "evidence": [
+        {
+          "startUid": "u2018",
+          "endUid": "u2024",
+          "quote": "the part of the mountain of the home of the dwarven gods."
+        }
+      ]
+    },
+    "p11": {
+      "label": "underground cave",
+      "kind": "cave",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2018",
+              "endUid": "u2024",
+              "quote": "the part of the mountain of the home of the dwarven gods. In this underground cave, through the Diamond."
+            }
+          ]
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2018",
+          "endUid": "u2024",
+          "quote": "In this underground cave, through the Diamond."
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0026"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The approaching group is aboard the skyship, looking over the siege battlefield.",
+      "place": "p01",
+      "note": "This is the group already approaching; Riswynn’s separate arrival is l02. No roster is imported from earlier sessions.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0017",
+          "quote": "As you approach the battlefield of Uzgukhar"
+        },
+        {
+          "startUid": "u0082",
+          "endUid": "u0084",
+          "quote": "the skyship begins to fly over the army"
+        },
+        {
+          "startUid": "u0085",
+          "endUid": "u0085",
+          "quote": "fly the skyship undisguised in any fashion over the army."
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0082",
+        "endUid": "u0084"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "A special rainbow bridge teleports Riswynn to the skyship.",
+      "from": null,
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "teleport",
+      "evidence": [
+        {
+          "startUid": "u0082",
+          "endUid": "u0084",
+          "quote": "Special rainbow bridge shoots out and teleports Riswynn to the."
+        },
+        {
+          "startUid": "u0084",
+          "endUid": "u0084",
+          "quote": "Skyship without using a use of the Rainbow Bridge."
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0212",
+        "endUid": "u0213"
+      },
+      "actors": [
+        "Faldrak"
+      ],
+      "reading": "Faldrak is explicitly confirmed aboard.",
+      "place": "p01",
+      "evidence": [
+        {
+          "startUid": "u0212",
+          "endUid": "u0213",
+          "quote": "Is is Faldrak on the ship?"
+        },
+        {
+          "startUid": "u0213",
+          "endUid": "u0213",
+          "quote": "Yeah."
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u0341",
+        "endUid": "u0368"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The ship descends over the battlefield; Seeker launches the missile from its deck.",
+      "place": "p02",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p05"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0341",
+          "endUid": "u0341",
+          "quote": "You fly up into the sky and begin to descend carefully aiming."
+        },
+        {
+          "startUid": "u0356",
+          "endUid": "u0365",
+          "quote": "We're just up on the deck of the ship"
+        },
+        {
+          "startUid": "u0380",
+          "endUid": "u0382",
+          "quote": "you can see now below, like 300 feet below these, like lines of zombies"
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0476",
+        "endUid": "u0479"
+      },
+      "actors": [
+        "Faldrak"
+      ],
+      "reading": "Faldrak runs below decks to shelter from the attackers.",
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u0476",
+          "endUid": "u0479",
+          "quote": "Faldrak's hiding hopefully won't die."
+        },
+        {
+          "startUid": "u0478",
+          "endUid": "u0479",
+          "quote": "Actually, he runs below decks."
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0755",
+        "endUid": "u0802"
+      },
+      "actors": [
+        "Wellby",
+        "Delwath"
+      ],
+      "reading": "Using the spyglass from the ship, they inspect Grash standing beneath an arch on a hill about 800 feet away.",
+      "place": "p06",
+      "observerPlace": "p02",
+      "mode": "remote",
+      "observedActors": [
+        "Grash"
+      ],
+      "evidence": [
+        {
+          "startUid": "u0755",
+          "endUid": "u0755",
+          "quote": "Wellby's gonna pull out his spyglass and survey the battlefield."
+        },
+        {
+          "startUid": "u0757",
+          "endUid": "u0760",
+          "quote": "Grash with his glaive, shadows clinging to him."
+        },
+        {
+          "startUid": "u0777",
+          "endUid": "u0777",
+          "quote": "you're looking at him from 800 feet away through a spyglass."
+        },
+        {
+          "startUid": "u0795",
+          "endUid": "u0800",
+          "quote": "I'm gonna look through the spyglass again."
+        },
+        {
+          "startUid": "u0798",
+          "endUid": "u0800",
+          "quote": "There's like a stone arch that he's sort of standing underneath"
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0811",
+        "endUid": "u1047"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party begins flying toward Grash’s hill while discussing preparations; individual arrivals are recorded separately.",
+      "from": "p05",
+      "to": "p06",
+      "completion": "underway",
+      "mode": "fly",
+      "vehicle": "p01",
+      "note": "The ship remains above the ground. Seeker’s continuing position aboard is l09; the attackers’ arrivals are supported individually in l08.",
+      "evidence": [
+        {
+          "startUid": "u0811",
+          "endUid": "u0813",
+          "quote": "Seeker's driving."
+        },
+        {
+          "startUid": "u0832",
+          "endUid": "u0833",
+          "quote": "we're flying towards Grash! While we're having this conversation we have 1 min."
+        },
+        {
+          "startUid": "u1045",
+          "endUid": "u1047",
+          "quote": "So the ship is what? 60 feet up. Something like that."
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1009",
+        "endUid": "u1213"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Riswynn",
+        "Wellby",
+        "Ladder"
+      ],
+      "reading": "The attackers leave the ship to engage around Grash’s hill; the record establishes the fight’s area, not a shared landing.",
+      "from": "p01",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "fly",
+      "note": "Later explicit positioning supplies each subgroup’s arrival evidence. Delwath is still flying at u1335–u1338; no common ground position is inferred.",
+      "evidence": [
+        {
+          "startUid": "u1009",
+          "endUid": "u1012",
+          "quote": "you're all flying in as the ice daggers go flying towards Grash"
+        },
+        {
+          "startUid": "u0933",
+          "endUid": "u0937",
+          "quote": "So Riswynn, Seeker, Delwath can fly."
+        },
+        {
+          "startUid": "u0935",
+          "endUid": "u0935",
+          "quote": "I'm staying on the ship. I'm not flying."
+        },
+        {
+          "startUid": "u1052",
+          "endUid": "u1054",
+          "quote": "I put Delwath far away from everybody else."
+        },
+        {
+          "startUid": "u1190",
+          "endUid": "u1193",
+          "quote": "So it's just gonna get right up in Grash's face."
+        },
+        {
+          "startUid": "u1233",
+          "endUid": "u1237",
+          "quote": "Okay, as you fly— when you get within 10 feet of him."
+        },
+        {
+          "startUid": "u1328",
+          "endUid": "u1328",
+          "quote": "I'm on top of the arch. Incidentally."
+        },
+        {
+          "startUid": "u1335",
+          "endUid": "u1338",
+          "quote": "I'm just flying above like above him"
+        },
+        {
+          "startUid": "u1430",
+          "endUid": "u1431",
+          "quote": "I moved to slightly closer"
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "presence",
+      "source": {
+        "startUid": "u1303",
+        "endUid": "u1304"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker remains on the deck while the others engage Grash.",
+      "place": "p02",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p06"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1303",
+          "endUid": "u1304",
+          "quote": "So happy to be on the deck of the ship right now."
+        },
+        {
+          "startUid": "u1599",
+          "endUid": "u1601",
+          "quote": "We're right under the hull of the ship now."
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "presence",
+      "source": {
+        "startUid": "u1328",
+        "endUid": "u1331"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby is atop the stone arch, where Grash teleports beside him.",
+      "place": "p07",
+      "evidence": [
+        {
+          "startUid": "u1325",
+          "endUid": "u1331",
+          "quote": "teleports next to Wellby."
+        },
+        {
+          "startUid": "u1328",
+          "endUid": "u1328",
+          "quote": "I'm on top of the arch. Incidentally."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "presence",
+      "source": {
+        "startUid": "u1945",
+        "endUid": "u1951"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "After death, Wellby’s soul finds itself in a plain of the Land of the Dead, among newly freed souls.",
+      "place": "p08",
+      "note": "This is Wellby’s afterlife experience; his body remains on the battlefield until recovered.",
+      "evidence": [
+        {
+          "startUid": "u1945",
+          "endUid": "u1951",
+          "quote": "Wellby. You find yourself standing in a plain expanse"
+        },
+        {
+          "startUid": "u1945",
+          "endUid": "u1951",
+          "quote": "River of Souls in the Land of the Dead."
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1981",
+        "endUid": "u1996"
+      },
+      "actors": [
+        "Delwath",
+        "Riswynn",
+        "Kenzo",
+        "Wellby",
+        "Ladder"
+      ],
+      "reading": "The survivors bring Wellby’s dead body and unconscious Kenzo back aboard, then take off; Wellby is resurrected aboard the ship above the city.",
+      "from": "p06",
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "fly",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p04"
+        }
+      ],
+      "note": "Kenzo is healed after the fight. Wellby’s living return follows the resurrection; transport of his body does not end the afterlife scene by itself.",
+      "evidence": [
+        {
+          "startUid": "u1981",
+          "endUid": "u1981",
+          "quote": "take your bodies onto Vindristjarna."
+        },
+        {
+          "startUid": "u1991",
+          "endUid": "u1992",
+          "quote": "the Ladder Wellby's body onto the ship."
+        },
+        {
+          "startUid": "u1993",
+          "endUid": "u1996",
+          "quote": "also fly onto the ship, you know, alongside Wellby's body."
+        },
+        {
+          "startUid": "u1993",
+          "endUid": "u1996",
+          "quote": "So we we take off."
+        },
+        {
+          "startUid": "u2018",
+          "endUid": "u2024",
+          "quote": "you all gather around Wellby's body in Vindristjarna. Flying above the city."
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u2018",
+        "endUid": "u2024"
+      },
+      "actors": [
+        "Seeker",
+        "Riswynn"
+      ],
+      "reading": "They glimpse an underground cave in the dwarven gods’ mountain home through the resurrection diamond.",
+      "place": "p11",
+      "observerPlace": "p01",
+      "mode": "vision",
+      "evidence": [
+        {
+          "startUid": "u2018",
+          "endUid": "u2024",
+          "quote": "Seeker and Riswynn, you can see a sort of glimmer of the part of the mountain of the home of the dwarven gods. In this underground cave, through the Diamond."
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2075",
+        "endUid": "u2103"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party returns to the orcs and helps clear the battlefield’s remaining undead during the afternoon.",
+      "from": "p01",
+      "to": "p05",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u2075",
+          "endUid": "u2078",
+          "quote": "you return to the Orcs, I guess."
+        },
+        {
+          "startUid": "u2100",
+          "endUid": "u2103",
+          "quote": "help the Orcs clear out the last of the zombies— lingering still"
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2100",
+        "endUid": "u2103"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After the cleanup, the party returns to Uzgukhar in the evening.",
+      "from": "p05",
+      "to": "p04",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u2100",
+          "endUid": "u2103",
+          "quote": "return to the city in the evening triumphant."
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "type": "presence",
+      "source": {
+        "startUid": "u2111",
+        "endUid": "u2128"
+      },
+      "actors": [
+        "Faldrak"
+      ],
+      "reading": "Faldrak joins the city celebration and talks about the Feywild with Azogar.",
+      "place": "p04",
+      "evidence": [
+        {
+          "startUid": "u2111",
+          "endUid": "u2114",
+          "quote": "Faldrak is like super curious about this whole thing"
+        },
+        {
+          "startUid": "u2116",
+          "endUid": "u2117",
+          "quote": "he starts talking about the Feywild with with Azogar, with, like the loremaster"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,864 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-088",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-session.yaml",
+    "sessionYamlSha256": "e334ef76ca8d0786e9fa6e44f410bde137d7e20131535a8cb09dc2dd3e7ce50d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-transcript.md",
+    "transcriptSha256": "9b671c652a0585987eff00d506085fa05fc8b2db340104f068dea036100bed29",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-segments.json",
+      "sha256": "bec945939c992b319cf9b75ece43229062b9265d9b7b8daa6e05b7714a1c8630",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s002",
+      "encounter": "Undead attacking Vindristjarna above Uzgukhar",
+      "openingActions": [
+        {
+          "actor": "Delwath",
+          "kind": "turn",
+          "summary": "Fires two rounds of Eldritch Blasts as the wraith closes to 120 feet: six hits for 33 force damage, wounding it.",
+          "evidence": [
+            {
+              "startUid": "u0514",
+              "endUid": "u0515"
+            },
+            {
+              "startUid": "u0518",
+              "endUid": "u0532"
+            },
+            {
+              "startUid": "u0541",
+              "endUid": "u0542"
+            }
+          ]
+        },
+        {
+          "actor": "Riswynn",
+          "kind": "turn",
+          "summary": "Fires Guiding Bolt during the approach; 13 is adjudicated a hit. The target and damage are not explicitly resolved in speech.",
+          "evidence": [
+            {
+              "startUid": "u0543",
+              "endUid": "u0545"
+            }
+          ]
+        },
+        {
+          "actor": "Seeker",
+          "kind": "turn",
+          "summary": "Expends one icicle-turret charge on the shade minions. Eight cold daggers produce six hits and two misses, 26 damage and nine dead minions; cold is adjudicated neutral against these targets.",
+          "evidence": [
+            {
+              "startUid": "u0533",
+              "endUid": "u0539"
+            },
+            {
+              "startUid": "u0544",
+              "endUid": "u0562"
+            }
+          ]
+        },
+        {
+          "actor": "Kenzo",
+          "kind": "turn",
+          "summary": "Fires an arrow at the approaching wraith from 90 feet, hitting with 21 for 11 damage.",
+          "evidence": [
+            {
+              "startUid": "u0563",
+              "endUid": "u0568"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes Steady Aim and shoots the wounded wraith for 34 damage, killing it.",
+              "evidence": [
+                {
+                  "startUid": "u0570",
+                  "endUid": "u0579"
+                }
+              ]
+            },
+            {
+              "actor": "Shades",
+              "kind": "turn",
+              "summary": "Close in, with some dashing. Two group attacks hit Kenzo and Riswynn for 6 necrotic damage each; the final reported attack values are about 26.",
+              "evidence": [
+                {
+                  "startUid": "u0581",
+                  "endUid": "u0608"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Skirmisher to move away from the nearby shades.",
+              "evidence": [
+                {
+                  "startUid": "u0609",
+                  "endUid": "u0609"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Succeeds on a Wisdom save with 15 against fear from three nearby shades. Presents her holy symbol and uses Channel Divinity; all but three shades vanish in holy smoke.",
+              "evidence": [
+                {
+                  "startUid": "u0610",
+                  "endUid": "u0628"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "The requested fear save is dropped because fewer than three shades remain nearby. His first attack, rolling 26 and dealing more than 8, kills two minions; a second attack also exceeds 8 and kills the last shade.",
+              "evidence": [
+                {
+                  "startUid": "u0630",
+                  "endUid": "u0640"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves back and fires three Eldritch Blasts, all hitting, for 1, 9 and 13 force damage (23 total). The closest specter dies.",
+              "evidence": [
+                {
+                  "startUid": "u0640",
+                  "endUid": "u0660"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts first-level Catapult with a piece of the ship’s basalt. The first specter succeeds on its save; the next fails and takes 13 bludgeoning damage, surviving. Seeker moves back beside Delwath.",
+              "evidence": [
+                {
+                  "startUid": "u0661",
+                  "endUid": "u0669"
+                }
+              ]
+            },
+            {
+              "actor": "Specters",
+              "kind": "turn",
+              "summary": "Close in, one dashing. Two attacks against Kenzo roll 15 and 20; only 20 hits his AC 18. Kenzo rolls a Constitution save of 13 and takes 7 necrotic damage; no separate save consequence is stated.",
+              "evidence": [
+                {
+                  "startUid": "u0670",
+                  "endUid": "u0687"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots a specter in front of Kenzo and scores a critical hit. The extra critical dice are corrected to 8d6 and roll 27; the specter dies. A complete damage total is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u0688",
+                  "endUid": "u0703"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Replaces the proposed Sacred Flame with a hammer attack on a specter beside Kenzo. The hit kills it; the DM reminds her to add 3d8, without giving a complete damage total.",
+              "evidence": [
+                {
+                  "startUid": "u0704",
+                  "endUid": "u0730"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Misses the last specter with a natural 1, then hits with 24 for 10 damage and follows with an unarmed strike. After the added die correction, 21 total damage is accepted and kills it.",
+              "evidence": [
+                {
+                  "startUid": "u0731",
+                  "endUid": "u0743"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The attacking wraith, shades and specters are destroyed. The party remains aboard Vindristjarna; the larger siege continues.",
+        "evidence": [
+          {
+            "startUid": "u0742",
+            "endUid": "u0743"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s004",
+      "encounter": "Grash and the Ring of Undying",
+      "note": "The table allows an ice volley and positioning before the regular cycle. Several polished speaker labels mix adjudication with player speech; outcomes follow the surrounding exchanges. The opportunity attack mentioned at u1215–u1217 has no stated target or resolved result.",
+      "openingActions": [
+        {
+          "actor": "Seeker",
+          "kind": "turn",
+          "summary": "From the ship at 300 feet, launches eight ice daggers at Grash while the others fly in from different directions. Five hit and 35 cold damage is rolled; no reduction is voiced here, although Soul Sight later establishes cold resistance.",
+          "evidence": [
+            {
+              "startUid": "u0999",
+              "endUid": "u1012"
+            },
+            {
+              "startUid": "u1013",
+              "endUid": "u1027"
+            },
+            {
+              "startUid": "u1218",
+              "endUid": "u1227"
+            }
+          ]
+        },
+        {
+          "actor": "Grash",
+          "kind": "event",
+          "summary": "Responds to the ice volley by surrounding himself with a giant cloud of darkness.",
+          "evidence": [
+            {
+              "startUid": "u1028",
+              "endUid": "u1030"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Holds his attack until daylight reveals Grash.",
+              "evidence": [
+                {
+                  "startUid": "u1035",
+                  "endUid": "u1050"
+                }
+              ]
+            },
+            {
+              "actor": "Grash",
+              "kind": "turn",
+              "summary": "A black bolt hits Kenzo with 19 for 23 necrotic damage and reduces his maximum HP by 23. Calls for a Wisdom save from Wellby, correcting the named target, and wraps his arms in a chain that halves attack damage. Another blast misses Delwath with 16. The curse can be moved to the heart by accepting a future failed death save.",
+              "evidence": [
+                {
+                  "startUid": "u1063",
+                  "endUid": "u1104"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts Sunbeam into the darkness. The line misses Grash by one square but dispels the darkness and creates persistent light, triggering the held attacks.",
+              "evidence": [
+                {
+                  "startUid": "u1115",
+                  "endUid": "u1142"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Accepts the chain’s future failed death save, takes Steady Aim and spends all four flaming-bowstring charges on the held shot. The advantaged attack is treated as a miss; Seeker is too far away to inspire it.",
+              "evidence": [
+                {
+                  "startUid": "u1143",
+                  "endUid": "u1154"
+                }
+              ],
+              "note": "No attack value or damage result is spoken; the miss is inferred from the unsuccessful advantaged shot and subsequent range discussion."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Delays until the darkness is gone, flies closer, applies Mark of the Hunter and casts Mental Prison. Grash’s charm immunity defeats it.",
+              "evidence": [
+                {
+                  "startUid": "u1105",
+                  "endUid": "u1114"
+                },
+                {
+                  "startUid": "u1155",
+                  "endUid": "u1169"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts sixth-level Psychic Lance from the deck. Grash uses legendary resistance, takes half damage (no number spoken), and releases Wellby’s heart-chain; the deferred failed death save is canceled.",
+              "evidence": [
+                {
+                  "startUid": "u1170",
+                  "endUid": "u1188"
+                }
+              ]
+            },
+            {
+              "actor": "Grash’s cloak",
+              "kind": "event",
+              "summary": "At the end of Seeker’s turn, sheds a hovering swarm of shadow warriors around Grash.",
+              "evidence": [
+                {
+                  "startUid": "u1200",
+                  "endUid": "u1213"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Dashes into Grash’s face, between him and Delwath. Succeeds on the Constitution save against the shadow warriors and takes no damage.",
+              "evidence": [
+                {
+                  "startUid": "u1190",
+                  "endUid": "u1213"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Hasted, uses Soul Sight: Grash resists cold, is immune to necrotic and poison damage and to blinded, charmed, deafened, frightened and poisoned conditions; Dexterity and Intelligence are lowest, with no vulnerability. Enters the shadow radius and succeeds on a natural-20 Constitution save for no damage. Two staff hits deal 14 and 13; a third staff attack is announced without a separate resolution. Two unarmed hits roll 23 and 18 for 10 and 13 damage; Grash succeeds on the Stunning Strike Constitution save with 29. Kenzo identifies the ring on Grash’s right index finger.",
+              "evidence": [
+                {
+                  "startUid": "u1218",
+                  "endUid": "u1237"
+                },
+                {
+                  "startUid": "u1251",
+                  "endUid": "u1285"
+                }
+              ],
+              "note": "The reported 27 before the unarmed strikes equals the two stated staff damage values; no additional third-staff result is invented."
+            },
+            {
+              "actor": "Grash",
+              "kind": "reaction",
+              "summary": "As Kenzo approaches within 10 feet, scores a critical glaive hit. Damage is corrected from 36 to 34. The wound reduces speed by 5 feet and causes damage on the first willing movement each turn; the approach itself does not trigger that wound.",
+              "evidence": [
+                {
+                  "startUid": "u1236",
+                  "endUid": "u1250"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes Steady Aim at Grash’s wrist and hits for 33 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1286",
+                  "endUid": "u1293"
+                }
+              ]
+            },
+            {
+              "actor": "Grash’s cloak",
+              "kind": "event",
+              "summary": "On Wellby’s hit, lashes Kenzo and Ladder for 7 necrotic damage each and sends shadows at Wellby. His Strength save fails; he is restrained until the end of his next turn.",
+              "evidence": [
+                {
+                  "startUid": "u1290",
+                  "endUid": "u1296"
+                }
+              ]
+            },
+            {
+              "actor": "Grash",
+              "kind": "turn",
+              "summary": "Swings twice at Kenzo and rolls natural 1 on both. After Kenzo invokes Motua, curses him: Wisdom 16 fails and the chain wraps him. Teleports next to Wellby atop the stone arch.",
+              "evidence": [
+                {
+                  "startUid": "u1297",
+                  "endUid": "u1331"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Attempts Skirmisher movement after Grash arrives, but restraint leaves his speed at zero and prevents it.",
+              "evidence": [
+                {
+                  "startUid": "u1332",
+                  "endUid": "u1334"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Flies above Grash near Wellby. Fails the shadow-radius Constitution save; 32 cold damage is announced and Armor of Agathys is lost. Casts Banishing Smite, then hits with 28 for the stated components 9 + 12 + 34, leaving Grash bloodied. A second attack rolls 14 and misses.",
+              "evidence": [
+                {
+                  "startUid": "u1335",
+                  "endUid": "u1346"
+                },
+                {
+                  "startUid": "u1358",
+                  "endUid": "u1375"
+                },
+                {
+                  "startUid": "u1439",
+                  "endUid": "u1441"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Retroactively invokes Absorb Elements against the earlier cold damage after recognizing its type.",
+              "evidence": [
+                {
+                  "startUid": "u1339",
+                  "endUid": "u1345"
+                },
+                {
+                  "startUid": "u1439",
+                  "endUid": "u1441"
+                }
+              ],
+              "note": "The transcript supplies no revised damage total or explicit adjudication of this late declaration; retain the original 32-point announcement alongside it."
+            },
+            {
+              "actor": "Grash",
+              "kind": "reaction",
+              "summary": "As Delwath enters 10-foot reach, rolls 25 with the glaive. Delwath rolls his d6 defense and an ice shield turns the strike into a miss.",
+              "evidence": [
+                {
+                  "startUid": "u1347",
+                  "endUid": "u1356"
+                }
+              ]
+            },
+            {
+              "actor": "Grash’s cloak",
+              "kind": "event",
+              "summary": "After Delwath’s first attack hits, inflicts 6 necrotic damage on Delwath and Wellby. The DM corrects the initial premature announcement to apply only on a hit.",
+              "evidence": [
+                {
+                  "startUid": "u1362",
+                  "endUid": "u1366"
+                }
+              ]
+            },
+            {
+              "actor": "Grash",
+              "kind": "event",
+              "summary": "At the end of Delwath’s turn, becomes shadows and arcs through everyone within 60 feet except Seeker. Misses Delwath with 15 and Riswynn with 16. Hits restrained Wellby with advantage, 27, for 23 damage and a wound. Hits Ladder with 22 for 25 damage and Kenzo with 20 for 28. The shadow warriors disappear; he finishes beside Wellby.",
+              "evidence": [
+                {
+                  "startUid": "u1376",
+                  "endUid": "u1412"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge on the shadow-arc hit, reducing the stated 23 damage to 12 as adjudicated. The wound remains, causing necrotic damage on first voluntary movement each turn.",
+              "evidence": [
+                {
+                  "startUid": "u1383",
+                  "endUid": "u1395"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves closer and regenerates Sunbeam at visible Grash. He fails the Constitution save with the stated undead disadvantage, takes the 6d8 radiance (total not spoken), and remains unblinded because of immunity; he keeps Kenzo’s chain. Summons Spiritual Weapon as a bonus action, hitting with 21 for 8 force damage.",
+              "evidence": [
+                {
+                  "startUid": "u1427",
+                  "endUid": "u1457"
+                },
+                {
+                  "startUid": "u1471",
+                  "endUid": "u1478"
+                }
+              ]
+            },
+            {
+              "actor": "Grash’s cloak",
+              "kind": "event",
+              "summary": "Forces Riswynn to make a Strength save after the radiance hit; shadows restrain her. The table rules that Cleansing Touch cannot remove this restraint; teleporting or waiting for release can.",
+              "evidence": [
+                {
+                  "startUid": "u1458",
+                  "endUid": "u1470"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Fires Psychic Lance again. Grash burns Kenzo’s heart-chain to succeed and takes 13 psychic damage. Seeker moves the ship closer and uses the glove’s earth effect for necrotic resistance until his next turn.",
+              "evidence": [
+                {
+                  "startUid": "u1480",
+                  "endUid": "u1495"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Dashes after Grash and is repositioned into the thick of the fight; no attack resolves.",
+              "evidence": [
+                {
+                  "startUid": "u1496",
+                  "endUid": "u1507"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Stays in place to avoid aggravating his wound. Fires Acid Arrow: 17 becomes a hit with Seeker’s inspiration of 3, dealing 11 damage plus 3 inspiration damage. Uses his bonus action to Dodge.",
+              "evidence": [
+                {
+                  "startUid": "u1508",
+                  "endUid": "u1547"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Provides the inspiration of 3 that makes Kenzo’s Acid Arrow hit and adds 3 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1534",
+                  "endUid": "u1541"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "While restrained, uses Steady Aim to cancel disadvantage. The straight attack hits for 40 damage; the restraint expires at the end of this turn.",
+              "evidence": [
+                {
+                  "startUid": "u1548",
+                  "endUid": "u1558"
+                }
+              ]
+            },
+            {
+              "actor": "Grash",
+              "kind": "turn",
+              "summary": "Steps away, then slams his glaive in a 30-foot cone. Wellby, Delwath and Ladder all fail Dexterity saves: 16 bludgeoning plus 16 necrotic damage and prone are announced, with Wellby’s damage halved as adjudicated for his Dexterity-save feature. Teleports to 10 feet from Kenzo and misses his glaive attack with a natural 1 under Dodge disadvantage. A retrospectively remembered chain attempt also fails when Kenzo’s Wisdom save of 18 succeeds.",
+              "evidence": [
+                {
+                  "startUid": "u1563",
+                  "endUid": "u1611"
+                },
+                {
+                  "startUid": "u1648",
+                  "endUid": "u1653"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "reaction",
+              "summary": "Takes the opportunity attack offered when Grash steps away and misses. Spiritual Weapon is ruled ineligible for such a reaction; Delwath saves his reaction.",
+              "evidence": [
+                {
+                  "startUid": "u1566",
+                  "endUid": "u1575"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Uses the bastion Healing Word bonus action to heal Kenzo 17 HP, then moves between Kenzo and Grash. His first attack initially misses but hits with Seeker’s inspiration, dealing 19 including radiant damage; the second deals a corrected 16. Adds a further 10 forgotten Hunter damage, for 45 across the turn. Maintains Fly; hovering prevents the prone effect from grounding him.",
+              "evidence": [
+                {
+                  "startUid": "u1603",
+                  "endUid": "u1615"
+                },
+                {
+                  "startUid": "u1619",
+                  "endUid": "u1640"
+                }
+              ]
+            },
+            {
+              "actor": "Grash",
+              "kind": "reaction",
+              "summary": "Swings as Delwath enters reach and misses with 17.",
+              "evidence": [
+                {
+                  "startUid": "u1616",
+                  "endUid": "u1618"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Inspires Delwath’s failed first attack, converting it to a hit.",
+              "evidence": [
+                {
+                  "startUid": "u1620",
+                  "endUid": "u1628"
+                }
+              ]
+            },
+            {
+              "actor": "Grash",
+              "kind": "event",
+              "summary": "After Delwath’s turn, raises his blade and projects shadow lines from the ring to all enemies within 60 feet. Only Seeker succeeds on the DC 17 Wisdom save. The others take 21 necrotic damage and are grappled by shadows, which can be destroyed with radiant damage.",
+              "evidence": [
+                {
+                  "startUid": "u1641",
+                  "endUid": "u1668"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Regenerates Sunbeam. The line is adjudicated able to clear her own and Delwath’s binding shadows; Kenzo remains grappled. Grash succeeds on the Constitution save and takes half damage, 13. That drops him to the point where the ring drains nearby life to restore him.",
+              "evidence": [
+                {
+                  "startUid": "u1688",
+                  "endUid": "u1735"
+                },
+                {
+                  "startUid": "u1795",
+                  "endUid": "u1796"
+                }
+              ],
+              "note": "The map discussion debates several lines; the later explicit grapple confirms Kenzo was not freed. No unspoken damage to an ally is added."
+            },
+            {
+              "actor": "Ring of Undying",
+              "kind": "event",
+              "summary": "As Grash begins to fall, releases life-draining energy and calls for Constitution saves from everyone within 60 feet. Riswynn and Delwath each take 13 damage; Grash regains 39 HP. Kenzo’s Death Ward is consumed, leaving him at 1 HP.",
+              "evidence": [
+                {
+                  "startUid": "u1734",
+                  "endUid": "u1749"
+                },
+                {
+                  "startUid": "u1777",
+                  "endUid": "u1778"
+                }
+              ],
+              "note": "The numerical damage announcement names only Riswynn and Delwath; Kenzo’s resulting 1 HP is explicitly confirmed later. No third 13-point damage result is invented."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts fourth-level Psychic Lance. Grash rolls 18 against DC 18 and succeeds, taking 11 psychic damage without incapacitation. Seeker renews the glove’s necrotic protection.",
+              "evidence": [
+                {
+                  "startUid": "u1768",
+                  "endUid": "u1776"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Dashes after the repositioned combatants; no attack resolves.",
+              "evidence": [
+                {
+                  "startUid": "u1773",
+                  "endUid": "u1778"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "At 1 HP and grappled, uses his tattoo’s 15-foot reach to bite Grash’s ring hand with disadvantage. The first hit deals 8 piercing damage; Soul Strike psychic damage is permitted but cannot count toward severing. The second attack’s 14 becomes a hit with inspiration 7, and the accepted damage is enough to sever the hand. Uses his remaining attacks to grab and throw it toward Wellby (Dexterity attack 14); Wellby catches it despite his grapple. Kenzo then takes 10 necrotic damage at turn end and falls unconscious.",
+              "evidence": [
+                {
+                  "startUid": "u1777",
+                  "endUid": "u1801"
+                },
+                {
+                  "startUid": "u1814",
+                  "endUid": "u1823"
+                },
+                {
+                  "startUid": "u1825",
+                  "endUid": "u1835"
+                },
+                {
+                  "startUid": "u1846",
+                  "endUid": "u1862"
+                },
+                {
+                  "startUid": "u1969",
+                  "endUid": "u1974"
+                }
+              ]
+            },
+            {
+              "actor": "Grash’s cloak",
+              "kind": "event",
+              "summary": "When Kenzo’s first bite tears through the cloak, Delwath and Ladder each take 7 necrotic damage. Ladder is described as barely holding together.",
+              "evidence": [
+                {
+                  "startUid": "u1802",
+                  "endUid": "u1813"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Provides inspiration 7 to turn Kenzo’s second disadvantaged bite into the hit that severs Grash’s hand.",
+              "evidence": [
+                {
+                  "startUid": "u1814",
+                  "endUid": "u1823"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Pours Universal Solvent onto the severed hand and dissolves the ring; a Constitution save is called. Its collapse ends every shadow restraint and grapple. A burst is reported as 36 necrotic damage, and Wellby falls unconscious; Kenzo remains at zero.",
+              "evidence": [
+                {
+                  "startUid": "u1864",
+                  "endUid": "u1890"
+                }
+              ],
+              "note": "The polished labels during the burst mix voices. u1890 identifies Wellby as unconscious; u2298–u2313 later describes Seeker as unhurt, so the isolated “I’m unconscious” under Seeker’s label is not used to down Seeker."
+            },
+            {
+              "actor": "Grash",
+              "kind": "turn",
+              "summary": "Teleports next to unconscious Wellby and strikes with the glaive: a critical hit against the helpless target is discussed and 28 is reported for the strike. Wellby is explicitly declared dead; Grash pushes his body down from the arch and screams in rage. The cloak has fallen, its shadows gone.",
+              "evidence": [
+                {
+                  "startUid": "u1891",
+                  "endUid": "u1907"
+                },
+                {
+                  "startUid": "u1969",
+                  "endUid": "u1974"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Drinks a potion as a bonus action (healing amount unstated), then flies to Grash. Hits once with 20 for 19 damage, then scores a critical hit whose damage is corrected to 31. Grash’s bones collapse; Delwath remains aloft with Fly maintained.",
+              "evidence": [
+                {
+                  "startUid": "u1904",
+                  "endUid": "u1937"
+                },
+                {
+                  "startUid": "u1969",
+                  "endUid": "u1974"
+                }
+              ]
+            },
+            {
+              "actor": "Grash",
+              "kind": "reaction",
+              "summary": "Attacks approaching Delwath with 24. Delwath casts Shield; the glaive is deflected by the lynx-shaped shield and misses.",
+              "evidence": [
+                {
+                  "startUid": "u1909",
+                  "endUid": "u1920"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Casts Shield to stop Grash’s 24-to-hit reach attack while approaching for the final attacks.",
+              "evidence": [
+                {
+                  "startUid": "u1913",
+                  "endUid": "u1920"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The ring is destroyed and Grash is killed permanently in the available fight. Wellby is dead and Kenzo unconscious; Delwath remains flying. Subsequent resurrection and the rout of the larger army occur after initiative.",
+        "evidence": [
+          {
+            "startUid": "u1886",
+            "endUid": "u1890"
+          },
+          {
+            "startUid": "u1901",
+            "endUid": "u1903"
+          },
+          {
+            "startUid": "u1931",
+            "endUid": "u1937"
+          }
+        ]
+      }
+    }
+  ]
+}

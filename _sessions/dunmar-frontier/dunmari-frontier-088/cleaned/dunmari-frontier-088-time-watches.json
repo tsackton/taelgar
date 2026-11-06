@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-time-markers.json",
+    "sha256": "dbb923cf72c09fd09a0b06e7ee26c199f404b11a4a461df447a2e2e874a4ff1a"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-transcript.md",
+    "sha256": "9b671c652a0585987eff00d506085fa05fc8b2db340104f068dea036100bed29"
+  },
+  "dateAssessment": "The transcript-only YAML assessment is **compatible**, not matched: no calendar date or year is spoken, and the three January 17–20 boundaries are not established. YAML supplies the working year 1749. The dated Session 88 record places the battle on January 20; Session 87’s handoff forecasts arrival on the twentieth after about three and a half days (u1936–u1950), without confirming elapsed travel in this transcript. The review uses January 20 for the battle-day anchors, while leaving January 17–19 unfilled. Daylight alone does not establish an opening watch, and the hour-long resurrection is placed before the afternoon anchor without inventing a clock. The late-night celebration may fall on either side of civil midnight. The player’s next-morning cue (t09) introduces meta planning: January 21 is conditional on treating that cue as an advance of covered play. The Session 88 Narrative also says January 20, 1748, conflicting with its own frontmatter/timeline and YAML; that remains a human correction.",
+  "watches": [
+    {
+      "day": "January 20, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Daylight approach; brief calculations, a minute’s pause and flight precede the hour-long resurrection.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04",
+        "t05"
+      ],
+      "startDate": "1749-01-20",
+      "endDate": "1749-01-20"
+    },
+    {
+      "day": "January 20, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "DM advances into afternoon as the party returns to help the orcs.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1749-01-20",
+      "endDate": "1749-01-20"
+    },
+    {
+      "day": "January 20, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Return to the city and food preparation are explicitly in the evening.",
+      "markers": [
+        "t07"
+      ],
+      "startDate": "1749-01-20",
+      "endDate": "1749-01-20"
+    },
+    {
+      "day": "During January 20–21, 1749",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "inferred",
+      "summary": "Celebration continues late into the night; its position across civil midnight is unstated.",
+      "markers": [
+        "t08"
+      ],
+      "dateWindow": [
+        "1749-01-20",
+        "1749-01-21"
+      ]
+    },
+    {
+      "day": "Following morning, conditional planning frame",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Player says “next morning”; ensuing meta planning leaves the covered boundary open.",
+      "markers": [
+        "t09"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated Session 88 record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 88 (DuFr).md",
+      "sha256": "517a0061fe11e86e16ace834afc8ef0b8c6fa3f87feb985c18938a7a989b86d7"
+    },
+    {
+      "label": "Session 87 handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-087/cleaned/dunmari-frontier-087-transcript.md",
+      "sha256": "528b66ec3d907602f371974a40cd127d1a8efc7593c43620fef6c52f2c8aa2e2"
+    },
+    {
+      "label": "Urgall identity and recorded death",
+      "path": "People/Skaer/Urgall the Black.md",
+      "sha256": "092f0da9dc3ace97f7ad8e57f56a1350d8ac7b41a9b6185dc0a0a54bcbf1aab7"
+    }
+  ]
+}
