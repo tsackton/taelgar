@@ -14,7 +14,8 @@
         "startUid": "u0001",
         "endUid": "u0037"
       },
-      "category": "session_framing"
+      "category": "session_framing",
+      "note": "Guided breathing and character embodiment precede the opening played scene."
     },
     {
       "id": "s002",
@@ -30,7 +31,8 @@
         "startUid": "u0065",
         "endUid": "u0076"
       },
-      "category": "session_framing"
+      "category": "session_framing",
+      "note": "Recap of earlier sessions and their closing moment; current action resumes with the characters’ responses at u0077."
     },
     {
       "id": "s004",
@@ -78,7 +80,8 @@
         "startUid": "u1671",
         "endUid": "u2814"
       },
-      "category": "combat"
+      "category": "combat",
+      "note": "Continuous initiative encounter; its rules discussion and tactical planning remain in combat."
     },
     {
       "id": "s010",
@@ -87,7 +90,7 @@
         "endUid": "u3097"
       },
       "category": "gameplay",
-      "note": "The rescue countdown at u2915–u3071 permits free action order and resolves a single collective rescue; no repeated ordered turn cycle is established."
+      "note": "The rescue countdown at u2915–u3071 allows free action order and resolves one collective rescue; no repeated ordered turn cycle is played."
     }
   ]
 }

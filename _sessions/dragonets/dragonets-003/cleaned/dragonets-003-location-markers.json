@@ -18,7 +18,6 @@
         }
       ],
       "kind": "room",
-      "note": "Inside the mobile statue’s chest; distinct from the deity represented by it.",
       "relations": [
         {
           "relation": "within",
@@ -70,35 +69,84 @@
           "quote": "you can actually see this crash site."
         }
       ],
-      "kind": "crash site"
+      "kind": "crash site",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u0885",
+              "endUid": "u0895",
+              "quote": "Come to the Dark Lady. Something has come out of the sky, and it's crashed here."
+            },
+            {
+              "startUid": "u0928",
+              "endUid": "u0934",
+              "quote": "this scene is, is near the beach"
+            }
+          ]
+        },
+        {
+          "relation": "in_locality_of",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u0905",
+              "endUid": "u0905",
+              "quote": "the Lady and the Wanderer are actually adjacent statues on the wheel around the island."
+            },
+            {
+              "startUid": "u0917",
+              "endUid": "u0927",
+              "quote": "not far from you down the beach"
+            }
+          ]
+        }
+      ]
     },
     "p05": {
-      "label": "Wanderer’s eye",
+      "label": "Outside the Wanderer’s eye",
       "evidence": [
         {
           "startUid": "u1051",
           "endUid": "u1053",
           "quote": "you fly out of the eyeball"
+        },
+        {
+          "startUid": "u1068",
+          "endUid": "u1071",
+          "quote": "as you all fully kind of get within a certain radius away from the eyeball"
         }
       ],
       "kind": "threshold",
       "relations": [
         {
-          "relation": "within",
+          "relation": "near",
           "target": "p02",
           "evidence": [
             {
-              "startUid": "u1046",
-              "endUid": "u1046",
-              "quote": "fly out of its eyeball"
+              "startUid": "u1068",
+              "endUid": "u1071",
+              "quote": "as you all fully kind of get within a certain radius away from the eyeball"
             }
           ]
         }
       ]
     },
     "p06": {
-      "label": "Wreck of Aksha and Shai’s vessel",
+      "label": "Aksha and Shai’s vessel",
       "evidence": [
+        {
+          "startUid": "u0917",
+          "endUid": "u0927",
+          "quote": "There was a vessel that had crashed, and two humanoid figures that had emerged from the vessel."
+        },
+        {
+          "startUid": "u1227",
+          "endUid": "u1237",
+          "quote": "Aksha's an incredible pilot. That's how we were able to survive getting through here."
+        },
         {
           "startUid": "u2638",
           "endUid": "u2643",
@@ -107,7 +155,7 @@
       ],
       "kind": "vessel",
       "mobile": true,
-      "note": "The allied craft after its combat crash; its earlier landing near the Dark Lady is a separate event."
+      "note": "The visitors’ crash after crossing the storm and their later combat crash are distinct events; the combat wreck is near the dreadnought wreck."
     },
     "p07": {
       "label": "Dreadnought",
@@ -154,7 +202,25 @@
           "quote": "obliterating the town square of the Wanderer's village"
         }
       ],
-      "kind": "settlement"
+      "kind": "settlement",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1613",
+              "endUid": "u1613",
+              "quote": "Everything else, Dragon Island is just, you're all living like outside."
+            },
+            {
+              "startUid": "u2190",
+              "endUid": "u2198",
+              "quote": "the village, which is at… the far right base near the edge of the Wanderer."
+            }
+          ]
+        }
+      ]
     },
     "p10": {
       "label": "Circular Island",
@@ -163,11 +229,19 @@
           "startUid": "u0047",
           "endUid": "u0051",
           "quote": "back into the circular island"
+        },
+        {
+          "startUid": "u1613",
+          "endUid": "u1613",
+          "quote": "Everything else, Dragon Island is just, you're all living like outside."
         }
       ],
       "kind": "island",
       "vaultPath": "Gazetteer/Drankorian Hinterland/Circular Island.md",
-      "note": "Identity only; the vault’s DR 1749 geography does not date this undated campaign."
+      "note": "Identity only; the vault’s DR 1749 geography does not date this undated campaign.",
+      "aliases": [
+        "Dragon Island"
+      ]
     },
     "p11": {
       "label": "Shore beside the wrecked dreadnought",
@@ -178,7 +252,20 @@
           "quote": "the dreadnought, which crashes into the shore"
         }
       ],
-      "kind": "shore"
+      "kind": "shore",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2879",
+              "endUid": "u2884",
+              "quote": "the dreadnought, which is now crashed into… the side of the island"
+            }
+          ]
+        }
+      ]
     },
     "p12": {
       "label": "Storm around the island",
@@ -190,9 +277,98 @@
         }
       ],
       "kind": "storm boundary"
+    },
+    "p13": {
+      "label": "Dark Lady",
+      "kind": "statue",
+      "evidence": [
+        {
+          "startUid": "u0905",
+          "endUid": "u0905",
+          "quote": "the Lady and the Wanderer are actually adjacent statues on the wheel around the island."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u0905",
+              "endUid": "u0905",
+              "quote": "the Lady and the Wanderer are actually adjacent statues on the wheel around the island."
+            }
+          ]
+        }
+      ],
+      "note": "The party meets the visitors near this coastal statue; no entry into the Dark Lady is established."
+    },
+    "p14": {
+      "label": "Outside the dreadnought wreck",
+      "kind": "open air",
+      "evidence": [
+        {
+          "startUid": "u3072",
+          "endUid": "u3081",
+          "quote": "You fly out now"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u3069",
+              "endUid": "u3071",
+              "quote": "As you make your final escape"
+            },
+            {
+              "startUid": "u3072",
+              "endUid": "u3081",
+              "quote": "You fly out now"
+            }
+          ]
+        }
+      ],
+      "note": "The source establishes escape from the ship, without a specific landing site."
     }
   },
   "markers": [
+    {
+      "id": "l18",
+      "type": "presence",
+      "source": {
+        "startUid": "u0038",
+        "endUid": "u0046"
+      },
+      "actors": [
+        "Shai",
+        "Aksha"
+      ],
+      "place": "p06",
+      "reading": "The two visitors study energy signatures aboard their vessel outside the storm in the opening scene.",
+      "locationContext": [
+        {
+          "subject": "p06",
+          "relation": "outside",
+          "target": "p12"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0038",
+          "endUid": "u0046",
+          "quote": "a scene again outside of the storm, with these two humanoid figures"
+        },
+        {
+          "startUid": "u0047",
+          "endUid": "u0051",
+          "quote": "as we exit this vessel and cross through the barriers of the storm"
+        }
+      ],
+      "note": "The opening figures are identified contextually as the later visitors; the party does not witness this scene."
+    },
     {
       "id": "l01",
       "type": "presence",
@@ -371,6 +547,36 @@
       "note": "The cockpit remains the party’s physical setting until they exit; no arrival inside the crashed vessel is implied."
     },
     {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u0917",
+        "endUid": "u0927"
+      },
+      "actors": [
+        "Shai",
+        "Aksha"
+      ],
+      "context": "flashback",
+      "from": null,
+      "to": "p04",
+      "completion": "arrived",
+      "vehicle": "p06",
+      "reading": "The visitors’ craft has already crashed near the Dark Lady, and both visitors have emerged, during the party’s practice.",
+      "evidence": [
+        {
+          "startUid": "u0917",
+          "endUid": "u0927",
+          "quote": "There was a vessel that had crashed, and two humanoid figures that had emerged from the vessel."
+        },
+        {
+          "startUid": "u0885",
+          "endUid": "u0895",
+          "quote": "Come to the Dark Lady. Something has come out of the sky, and it's crashed here."
+        }
+      ]
+    },
+    {
       "id": "l06",
       "type": "observation",
       "source": {
@@ -412,7 +618,7 @@
       "actors": [
         "party"
       ],
-      "reading": "The party parks the Wanderer and flies out through its eye, stopping among onlookers and preventing three dragonets from entering.",
+      "reading": "The party parks the Wanderer, flies out of its eye and pauses among onlookers outside, stopping three dragonets from entering.",
       "evidence": [
         {
           "startUid": "u1042",
@@ -434,7 +640,7 @@
       "to": "p05",
       "completion": "arrived",
       "mode": "fly",
-      "note": "Original position refers to the accepted standing pose; a return to the distant starting beach is not established."
+      "note": "“Original position” is the accepted standing pose; no return to the starting beach is established."
     },
     {
       "id": "l08",
@@ -553,7 +759,14 @@
           "place": "p11"
         }
       ],
-      "note": "The party remains inside the Wanderer; this attack does not establish entry into the dreadnought."
+      "note": "The party remains inside the Wanderer; this attack does not establish entry into the dreadnought.",
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "at",
+          "target": "p11"
+        }
+      ]
     },
     {
       "id": "l12",
@@ -565,7 +778,7 @@
       "actors": [
         "Little Tony"
       ],
-      "reading": "Little Tony leaves the Wanderer and reaches the allied wreck to attempt healing and revival.",
+      "reading": "Little Tony reaches the allied vessel’s battle wreck to attempt revival and healing.",
       "evidence": [
         {
           "startUid": "u2815",
@@ -664,7 +877,7 @@
       "actors": [
         "Sculpit"
       ],
-      "reading": "Sculpit teleports between the specimen vault and the Wanderer while rescuing eggs, with three trips permitted and repeated transport accepted.",
+      "reading": "Sculpit transports eggs from the specimen vault into the Wanderer by repeated teleportation; the table accepts the back-and-forth rescue.",
       "evidence": [
         {
           "startUid": "u2982",
@@ -711,9 +924,11 @@
         "endUid": "u3081"
       },
       "actors": [
-        "party"
+        "Heska",
+        "Little Tony",
+        "Zeno"
       ],
-      "reading": "The rescuers escape the dreadnought with a rescued creature and many other beings before it explodes; the exact outdoor landing place is not stated.",
+      "reading": "Heska, Little Tony and Zeno escape outside the wreck as it explodes; Zeno carries his rescued creature.",
       "evidence": [
         {
           "startUid": "u3055",
@@ -732,10 +947,10 @@
         }
       ],
       "from": "p08",
-      "to": null,
-      "completion": "underway",
+      "to": "p14",
+      "completion": "arrived",
       "mode": "escape",
-      "note": "Escape from the ship is complete; arrival at a specific landing site is not established. Sculpit’s egg transport is separately recorded."
+      "note": "The collective escape narration establishes exit, not a precise landing. Sculpit’s separate teleportation transport is recorded in l15."
     },
     {
       "id": "l17",
@@ -763,7 +978,7 @@
       "from": null,
       "to": "p06",
       "completion": "arrived",
-      "note": "The source says Aksha here, contrary to its earlier explicit correction to Shai; spatial placement is clear despite the name conflict."
+      "note": "The final source names Aksha, while u2855 and the explicit correction at u2869 name Shai as the survivor. The identity conflict remains open; the vessel location is unambiguous."
     }
   ]
 }
