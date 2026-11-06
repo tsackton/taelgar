@@ -1,0 +1,926 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-067",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-067/cleaned/dunmari-frontier-067-session.yaml",
+    "sessionYamlSha256": "72f4a85fca57edd5b42bd5cdc5bcb267df83b6e4239f34601fe65f2e3068e709",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-067/cleaned/dunmari-frontier-067-transcript.md",
+    "transcriptSha256": "a3d7a2350dc12c4a83600f13703253c7a96fd0ca1488ae8ea5c0fd129effa1c3"
+  },
+  "places": {
+    "p01": {
+      "label": "Feywild",
+      "kind": "plane",
+      "evidence": [
+        {
+          "startUid": "u3158",
+          "endUid": "u3168",
+          "quote": "you find yourself standing on the plains of Dunmar"
+        },
+        {
+          "startUid": "u3075",
+          "endUid": "u3077",
+          "quote": "As you begin to walk back across the Feywild"
+        }
+      ],
+      "vaultPath": "Cosmology/Feywild.md"
+    },
+    "p02": {
+      "label": "Amberglow",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u0038",
+          "endUid": "u0044",
+          "quote": "Lastlight Falls in the fey realm of Amberglow"
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Amberglow/Amberglow.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2001",
+              "endUid": "u2005",
+              "quote": "here in the Feywild up—the in this realm of Amberglow"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Lastlight Falls",
+      "kind": "waterfall and crossing",
+      "evidence": [
+        {
+          "startUid": "u0038",
+          "endUid": "u0044",
+          "quote": "Lastlight Falls in the fey realm of Amberglow"
+        }
+      ],
+      "note": "This entry denotes the played Feywild side; p12 records the distinct material-plane camp reached through its pool.",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Amberglow/Lastlight Falls.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0038",
+              "endUid": "u0044",
+              "quote": "Lastlight Falls in the fey realm of Amberglow"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Open plain east of the falls",
+      "kind": "plain",
+      "evidence": [
+        {
+          "startUid": "u0694",
+          "endUid": "u0698",
+          "quote": "As you leave the falls, you sort of break into, you know, a a more open plain."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0694",
+              "endUid": "u0698",
+              "quote": "As you leave the falls, you sort of break into, you know, a a more open plain."
+            },
+            {
+              "startUid": "u0711",
+              "endUid": "u0711",
+              "quote": "There are few friends in the Amberglow."
+            }
+          ],
+          "note": "The continuous eastward departure from Amberglow’s falls establishes the local setting; the source supplies no precise regional boundary."
+        }
+      ]
+    },
+    "p05": {
+      "label": "Pillar overhang",
+      "kind": "rock shelter",
+      "evidence": [
+        {
+          "startUid": "u0773",
+          "endUid": "u0777",
+          "quote": "there's an overhang that stretches out maybe 10 feet or so."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0694",
+              "endUid": "u0698",
+              "quote": "these occasional like big, jagged like pillars of stone"
+            },
+            {
+              "startUid": "u0773",
+              "endUid": "u0777",
+              "quote": "And you find—so, so this giant pillar of rock"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "River of Time bank",
+      "kind": "riverbank",
+      "evidence": [
+        {
+          "startUid": "u1519",
+          "endUid": "u1523",
+          "quote": "You see this dry river bank just like a empty shell."
+        },
+        {
+          "startUid": "u1467",
+          "endUid": "u1469",
+          "quote": "We have to cross this dry stream of time."
+        }
+      ],
+      "note": "The dry river is identified by Typhina’s route instructions and the subsequent crossing; it is distinct from the material river outside Kharsan used only as a comparison.",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1493",
+              "endUid": "u1500",
+              "quote": "it's especially for Wellby, this is like your first 8 h in a Feywild, then the light has not changed."
+            },
+            {
+              "startUid": "u1519",
+              "endUid": "u1523",
+              "quote": "You see this dry river bank just like a empty shell."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Riverbank lookout pillar",
+      "kind": "lookout",
+      "evidence": [
+        {
+          "startUid": "u1544",
+          "endUid": "u1545",
+          "quote": "It's easy to run to the top, Kenzo"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1474",
+              "endUid": "u1481",
+              "quote": "lighting up the the river bank."
+            },
+            {
+              "startUid": "u1528",
+              "endUid": "u1528",
+              "quote": "Is there a pillar nearby that we—?"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Dry River of Time bed",
+      "kind": "riverbed",
+      "evidence": [
+        {
+          "startUid": "u1599",
+          "endUid": "u1602",
+          "quote": "when you cross the river bed"
+        },
+        {
+          "startUid": "u1603",
+          "endUid": "u1603",
+          "quote": "There's no water flowing in the river"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1615",
+              "endUid": "u1618",
+              "quote": "on the other side of the river"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Melusine's grotto pool",
+      "kind": "grotto",
+      "evidence": [
+        {
+          "startUid": "u1570",
+          "endUid": "u1575",
+          "quote": "this is probably the grotto of that nymph"
+        },
+        {
+          "startUid": "u1739",
+          "endUid": "u1739",
+          "quote": "Melusine?"
+        },
+        {
+          "startUid": "u1727",
+          "endUid": "u1732",
+          "quote": "you're sort of standing on the edge of the pool looking across the pool to this stone structure."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1593",
+              "endUid": "u1598",
+              "quote": "You sort of skirt the edge of that to approach the this grotto"
+            },
+            {
+              "startUid": "u2001",
+              "endUid": "u2005",
+              "quote": "in this realm of Amberglow"
+            }
+          ],
+          "note": "Reached during the continuous Amberglow journey; no independently named settlement or building encloses the pool."
+        },
+        {
+          "relation": "near",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1615",
+              "endUid": "u1618",
+              "quote": "on the other side of the river there's a stand of dead trees, where there is a little pool of water gathered."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Heartwood Grove",
+      "kind": "grove",
+      "evidence": [
+        {
+          "startUid": "u0626",
+          "endUid": "u0629",
+          "quote": "It is in the center of the Heartwood Grove"
+        },
+        {
+          "startUid": "u2006",
+          "endUid": "u2013",
+          "quote": "as you sort of step into the grove"
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Amberglow/Heartwood Grove.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2001",
+              "endUid": "u2005",
+              "quote": "you approach the grove"
+            },
+            {
+              "startUid": "u2001",
+              "endUid": "u2005",
+              "quote": "in this realm of Amberglow"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Heartwood Tree",
+      "kind": "tree",
+      "evidence": [
+        {
+          "startUid": "u2006",
+          "endUid": "u2013",
+          "quote": "this massive oak that stands in the center of this grove."
+        },
+        {
+          "startUid": "u2720",
+          "endUid": "u2720",
+          "quote": "The Heartwood Tree."
+        }
+      ],
+      "aliases": [
+        "the Eternal"
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2006",
+              "endUid": "u2013",
+              "quote": "this massive oak that stands in the center of this grove."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Camp outside the crossing pool",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u3158",
+          "endUid": "u3168",
+          "quote": "a camp set up outside the pool."
+        }
+      ],
+      "note": "The arrival narration places this camp on Taelgar’s plains of Dunmar; Lastlight Falls’ verified portal identity locates the counterpart without importing Nashtkar as transcript geography.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u3158",
+              "endUid": "u3168",
+              "quote": "standing on the plains of Dunmar"
+            },
+            {
+              "startUid": "u3158",
+              "endUid": "u3168",
+              "quote": "a camp set up outside the pool."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Plains of Dunmar",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u3158",
+          "endUid": "u3168",
+          "quote": "standing on the plains of Dunmar"
+        }
+      ],
+      "note": "Dunmar is the named material-plane setting. The transcript does not identify a narrower district.",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Dunmar.md"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0025",
+        "endUid": "u0044"
+      },
+      "actors": [
+        "Seeker",
+        "Caulaus",
+        "Kenzo",
+        "Wellby",
+        "Baxter"
+      ],
+      "reading": "The travelers gather at Lastlight Falls in Amberglow as Wellby arrives with Baxter.",
+      "evidence": [
+        {
+          "startUid": "u0025",
+          "endUid": "u0032",
+          "quote": "that's where we're going to pick up sort of the moment Wellby arrives."
+        },
+        {
+          "startUid": "u0038",
+          "endUid": "u0044",
+          "quote": "travelers gather here"
+        },
+        {
+          "startUid": "u0150",
+          "endUid": "u0155",
+          "quote": "riding on the back of Baxter"
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0605",
+        "endUid": "u0606"
+      },
+      "actors": [
+        "Seeker",
+        "Caulaus",
+        "Kenzo",
+        "Wellby",
+        "Baxter"
+      ],
+      "reading": "Leave the falls eastward across the open plain, reaching the pillar overhang as the winged pursuers close.",
+      "evidence": [
+        {
+          "startUid": "u0605",
+          "endUid": "u0605",
+          "quote": "We set forth."
+        },
+        {
+          "startUid": "u0606",
+          "endUid": "u0606",
+          "quote": "So you set out."
+        },
+        {
+          "startUid": "u0694",
+          "endUid": "u0698",
+          "quote": "As you leave the falls"
+        },
+        {
+          "startUid": "u0773",
+          "endUid": "u0777",
+          "quote": "you can sort of a crouch with your backs against the wall under this overhang"
+        },
+        {
+          "startUid": "u0826",
+          "endUid": "u0826",
+          "quote": "You're at the overhang."
+        }
+      ],
+      "from": "p03",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "travel on foot and mounted",
+      "route": [
+        {
+          "reading": "Travel east across the open plain among stone pillars.",
+          "place": "p04"
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u1144",
+        "endUid": "u1154"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby flies after the wounded harpy and lands about one hundred feet from the others for parley.",
+      "evidence": [
+        {
+          "startUid": "u1144",
+          "endUid": "u1146",
+          "quote": "takes off after the fleeing one."
+        },
+        {
+          "startUid": "u1207",
+          "endUid": "u1208",
+          "quote": "Wellby will land, too."
+        },
+        {
+          "startUid": "u1209",
+          "endUid": "u1209",
+          "quote": "Like 100 feet."
+        }
+      ],
+      "from": "p05",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u1340",
+        "endUid": "u1341"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "After the harpy departs, Wellby returns to the others at the pillar.",
+      "evidence": [
+        {
+          "startUid": "u1340",
+          "endUid": "u1341",
+          "quote": "We'll walk back to the others."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1467",
+        "endUid": "u1500"
+      },
+      "actors": [
+        "Seeker",
+        "Caulaus",
+        "Kenzo",
+        "Wellby",
+        "Baxter"
+      ],
+      "reading": "Resume the eastward journey toward the dry river; after the first half day, further travel brings the group to its bank.",
+      "evidence": [
+        {
+          "startUid": "u1467",
+          "endUid": "u1469",
+          "quote": "Let's continue towards your grove. We have to cross this dry stream of time."
+        },
+        {
+          "startUid": "u1493",
+          "endUid": "u1494",
+          "quote": "So you travel."
+        },
+        {
+          "startUid": "u1519",
+          "endUid": "u1523",
+          "quote": "You see this dry river bank just like a empty shell."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "travel on foot and mounted",
+      "route": [
+        {
+          "reading": "Cross the faded plain, passing more pillars.",
+          "place": "p04"
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1539",
+        "endUid": "u1545"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo runs up the riverbank pillar, then jumps and floats back to the group.",
+      "evidence": [
+        {
+          "startUid": "u1539",
+          "endUid": "u1540",
+          "quote": "just starts running up the wall."
+        },
+        {
+          "startUid": "u1544",
+          "endUid": "u1545",
+          "quote": "It's easy to run to the top, Kenzo"
+        },
+        {
+          "startUid": "u1582",
+          "endUid": "u1583",
+          "quote": "he gently floats down to the bottom."
+        }
+      ],
+      "from": "p06",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "run, jump and float",
+      "route": [
+        {
+          "reading": "Reach the top of the nearby lookout pillar.",
+          "place": "p07"
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u1546",
+        "endUid": "u1564"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "From the pillar, Kenzo sees the surviving grove and its great central spreading tree across the dry river.",
+      "evidence": [
+        {
+          "startUid": "u1546",
+          "endUid": "u1556",
+          "quote": "on the other side of this river bank"
+        },
+        {
+          "startUid": "u1560",
+          "endUid": "u1564",
+          "quote": "a grove of standing trees."
+        }
+      ],
+      "place": "p10",
+      "observerPlace": "p07",
+      "mode": "local"
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u1570",
+        "endUid": "u1575"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo sees a pool among dead trees, identified tentatively as Melusine’s grotto.",
+      "evidence": [
+        {
+          "startUid": "u1570",
+          "endUid": "u1575",
+          "quote": "this is probably the grotto of that nymph"
+        }
+      ],
+      "place": "p09",
+      "observerPlace": "p07",
+      "mode": "local"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1593",
+        "endUid": "u1618"
+      },
+      "actors": [
+        "Seeker",
+        "Caulaus",
+        "Kenzo",
+        "Wellby",
+        "Baxter"
+      ],
+      "reading": "Cross the dry River of Time, skirt the mushroom forest and reach Melusine’s grotto pool; the party remains outside her stone home.",
+      "evidence": [
+        {
+          "startUid": "u1593",
+          "endUid": "u1598",
+          "quote": "You sort of skirt the edge of that to approach the this grotto"
+        },
+        {
+          "startUid": "u1599",
+          "endUid": "u1602",
+          "quote": "when you cross the river bed"
+        },
+        {
+          "startUid": "u1680",
+          "endUid": "u1680",
+          "quote": "So you now arrive at this grotto."
+        },
+        {
+          "startUid": "u1727",
+          "endUid": "u1732",
+          "quote": "standing on the edge of the pool looking across the pool to this stone structure."
+        }
+      ],
+      "from": "p06",
+      "to": "p09",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Cross the dry riverbed; Seeker pauses to examine it.",
+          "place": "p08"
+        },
+        {
+          "reading": "Skirt the mushroom and slime-mold forest rather than exploring it."
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "presence",
+      "source": {
+        "startUid": "u1621",
+        "endUid": "u1651"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "While crossing the dry riverbed, Seeker pauses to investigate its geology with Sense Ore.",
+      "evidence": [
+        {
+          "startUid": "u1621",
+          "endUid": "u1625",
+          "quote": "as, as we cross the dry riverbed"
+        },
+        {
+          "startUid": "u1627",
+          "endUid": "u1627",
+          "quote": "I'll pause as we cross briefly"
+        },
+        {
+          "startUid": "u1638",
+          "endUid": "u1640",
+          "quote": "you're standing on sediment"
+        }
+      ],
+      "place": "p08"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1992",
+        "endUid": "u2013"
+      },
+      "actors": [
+        "Seeker",
+        "Caulaus",
+        "Kenzo",
+        "Wellby",
+        "Baxter"
+      ],
+      "reading": "Melusine directs the travelers along a safe path to Heartwood Grove, avoiding the larger hallucinogenic mushrooms.",
+      "evidence": [
+        {
+          "startUid": "u1992",
+          "endUid": "u1995",
+          "quote": "The, the nymph does direct you in, like, the safe path"
+        },
+        {
+          "startUid": "u2006",
+          "endUid": "u2013",
+          "quote": "as you sort of step into the grove"
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Avoid the larger mushrooms that can make friends seem like enemies."
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "presence",
+      "source": {
+        "startUid": "u2014",
+        "endUid": "u2028"
+      },
+      "actors": [
+        "Seeker",
+        "Caulaus",
+        "Kenzo",
+        "Wellby",
+        "Baxter"
+      ],
+      "reading": "The group approaches the central cracked oak where Seeker places the ring, fights Agata and communes with the Eternal.",
+      "evidence": [
+        {
+          "startUid": "u2006",
+          "endUid": "u2013",
+          "quote": "this massive oak that stands in the center of this grove."
+        },
+        {
+          "startUid": "u2019",
+          "endUid": "u2028",
+          "quote": "Place me, place me in the tree."
+        },
+        {
+          "startUid": "u2141",
+          "endUid": "u2144",
+          "quote": "We would have been close up together."
+        },
+        {
+          "startUid": "u2145",
+          "endUid": "u2147",
+          "quote": "I'm on Baxter."
+        }
+      ],
+      "place": "p11"
+    },
+    {
+      "id": "l13",
+      "type": "presence",
+      "source": {
+        "startUid": "u3039",
+        "endUid": "u3065"
+      },
+      "actors": [
+        "Caulaus"
+      ],
+      "reading": "Caulaus binds himself to the Heartwood Tree as guardian; its roots imprison Agata within it.",
+      "evidence": [
+        {
+          "startUid": "u3039",
+          "endUid": "u3044",
+          "quote": "as you bind yourself to the tree"
+        },
+        {
+          "startUid": "u3063",
+          "endUid": "u3065",
+          "quote": "grab Agata's body and whisk it— yank her inside the tree, and the crack closes again."
+        }
+      ],
+      "place": "p11"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u3072",
+        "endUid": "u3096"
+      },
+      "actors": [
+        "Seeker",
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "Seeker, Kenzo and Wellby leave Caulaus at the grove, cross the faded plains past the pillars, and return to Lastlight Falls.",
+      "evidence": [
+        {
+          "startUid": "u3072",
+          "endUid": "u3074",
+          "quote": "before departing"
+        },
+        {
+          "startUid": "u3075",
+          "endUid": "u3077",
+          "quote": "leaving Caulaus to his new role"
+        },
+        {
+          "startUid": "u3086",
+          "endUid": "u3096",
+          "quote": "passing the pillars, returning again to Lastlight Falls where you wait"
+        }
+      ],
+      "from": "p10",
+      "to": "p03",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Return across the dead grasslands past the pillars.",
+          "place": "p04"
+        }
+      ],
+      "note": "Baxter’s return is not separately narrated; this arrival is scoped to the three addressed travelers."
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u3157",
+        "endUid": "u3168"
+      },
+      "actors": [
+        "Seeker",
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "The three travelers step into the crossing pool and emerge at the camp on the plains of Dunmar, where Delwath is waiting.",
+      "evidence": [
+        {
+          "startUid": "u3157",
+          "endUid": "u3157",
+          "quote": "as you step through, step into this pool"
+        },
+        {
+          "startUid": "u3158",
+          "endUid": "u3168",
+          "quote": "you find yourself standing on the plains of Dunmar"
+        },
+        {
+          "startUid": "u3158",
+          "endUid": "u3168",
+          "quote": "a camp set up outside the pool."
+        }
+      ],
+      "from": "p03",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "planar crossing",
+      "note": "Baxter’s return is not separately narrated; this arrival is scoped to the three addressed travelers."
+    }
+  ]
+}

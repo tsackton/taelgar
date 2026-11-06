@@ -1,0 +1,138 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-067/cleaned/dunmari-frontier-067-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-067/cleaned/dunmari-frontier-067-time-markers.json",
+    "sha256": "cfec15a8faf635b24f08fc9a14e452a4e7b092013d38730895d6e811268b337c"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-067/cleaned/dunmari-frontier-067-transcript.md",
+    "sha256": "a3d7a2350dc12c4a83600f13703253c7a96fd0ca1488ae8ea5c0fd129effa1c3"
+  },
+  "dateAssessment": "Working calendar: session YAML gives November 13–15, 1748; the closing transcript independently establishes only mid-November and sunset (t07). The reunion is the opening November 13 event; earlier Kenzo/Seeker waiting can predate it. Session 064 sends Kenzo to the Feywild cliff (u2254–u2277), session 065 brings Seeker and Caulaus to him (u2224–u2246, u2289–u2301), and session 066 sends Wellby from Arryn’s tower (u3017–u3022); session 067 resumes at Wellby’s arrival (u0025–u0032, u0150–u0169). These are separate actor handoffs, not a shared previous-session watch. Kenzo’s unmoving sunset and Wellby’s earlier material-plane dinner supply no opening civil watch. The eight-hour journey and further hours pass in the Feywild without a known Taelgar conversion, so their civil placement remains within November 13–15. The return crossing uses November 15 as the YAML working endpoint. The transcript-only assessment remains compatible, with two expected but unverified date boundaries. The dated Session 67 note puts the nymph meeting and imprisonment on November 14; Agata’s and Melusine’s headers instead say November 15. Neither competing date is silently adopted here.",
+  "watches": [
+    {
+      "day": "Before the reunion",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Kenzo has already slept and meditated; the earlier waiting interval has no dated beginning.",
+      "markers": [
+        "t01"
+      ],
+      "scope": "Kenzo",
+      "clock": "adventure",
+      "sourceRanges": [
+        [
+          "u0019",
+          "u0032"
+        ]
+      ]
+    },
+    {
+      "day": "During November 13–15, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Half a day of travel is described as Wellby’s first eight hours; sunset light remains fixed.",
+      "markers": [
+        "t03"
+      ],
+      "scope": "Travelers",
+      "clock": "adventure",
+      "dateWindow": [
+        "1748-11-13",
+        "1748-11-15"
+      ]
+    },
+    {
+      "day": "During November 13–15, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Further unmeasured hours pass, with food and renewed hunger, before reaching the dry river.",
+      "markers": [
+        "t04"
+      ],
+      "scope": "Travelers",
+      "clock": "adventure",
+      "dateWindow": [
+        "1748-11-13",
+        "1748-11-15"
+      ]
+    },
+    {
+      "day": "During November 13–15, 1748",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The successive minute counts accumulate to one five-minute wait before Agata emerges.",
+      "markers": [
+        "t05"
+      ],
+      "scope": "Travelers",
+      "clock": "adventure",
+      "dateWindow": [
+        "1748-11-13",
+        "1748-11-15"
+      ]
+    },
+    {
+      "day": "November 15, 1748",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "clock": "adventure",
+      "summary": "The thread signals the crossing after an unmeasured wait; travelers emerge as Dunmar’s sun begins setting.",
+      "markers": [
+        "t06",
+        "t07"
+      ],
+      "scope": "Seeker, Kenzo and Wellby",
+      "startDate": "1748-11-15",
+      "endDate": "1748-11-15",
+      "sourceRanges": [
+        [
+          "u3141",
+          "u3147"
+        ],
+        [
+          "u3157",
+          "u3168"
+        ]
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Kenzo handoff, session 064",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-transcript.md",
+      "sha256": "ec151cf1f650aec55dc7f148ee0d0a560003aa922e0646c635293ae8148929bb"
+    },
+    {
+      "label": "Seeker and Caulaus handoff, session 065",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-transcript.md",
+      "sha256": "e3b40efcd12325bcbdf366817c19798a864efa49f78ee26df594cf4a0d661cf2"
+    },
+    {
+      "label": "Wellby handoff, session 066",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-066/cleaned/dunmari-frontier-066-transcript.md",
+      "sha256": "2b6bd25a3259019ca05247632f911b9ab26fffb411f7e08940977f015ebe2cfe"
+    },
+    {
+      "label": "Dated session record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 67 (DuFr).md",
+      "sha256": "5607b05b882b638e41c6613476f06ce8432006aeefb342643b9ef43505190df3"
+    },
+    {
+      "label": "Competing imprisonment date",
+      "path": "People/Fey/Agata.md",
+      "sha256": "344a86d57ada2058995f35bed38fff8512f0796a3fe4f27d64af6691115ab3de"
+    },
+    {
+      "label": "Competing nymph encounter date",
+      "path": "People/Fey/Melusine.md",
+      "sha256": "8eee57278d66c9227f15af6ef5fbede6212ac20daaf094e9c9897986a5115052"
+    }
+  ]
+}

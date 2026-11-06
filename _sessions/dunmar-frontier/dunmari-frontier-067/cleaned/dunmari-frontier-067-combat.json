@@ -1,0 +1,509 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-067",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-067/cleaned/dunmari-frontier-067-session.yaml",
+    "sessionYamlSha256": "72f4a85fca57edd5b42bd5cdc5bcb267df83b6e4239f34601fe65f2e3068e709",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-067/cleaned/dunmari-frontier-067-transcript.md",
+    "transcriptSha256": "a3d7a2350dc12c4a83600f13703253c7a96fd0ca1488ae8ea5c0fd129effa1c3",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-067/cleaned/dunmari-frontier-067-segments.json",
+      "sha256": "d7317147cdb5953e3bfae02e7042dfa77f03eab9007f9ccbf699152e204ae713",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s003",
+      "encounter": "Five cursed harpies at the pillar overhang",
+      "note": "The DM runs ordered turns without an initiative roll, explicitly confirming the repeating cycle at u0994–u1005. Opening charms precede that cycle.",
+      "openingActions": [
+        {
+          "actor": "Harpies",
+          "kind": "event",
+          "summary": "A harpy sings to Seeker, demanding Dasoclese and promising Feywild secrets. Seeker fails the Wisdom save even after the ring grants advantage and begins turning toward them; the later positioning settles him about 30 feet from cover.",
+          "evidence": [
+            {
+              "startUid": "u0778",
+              "endUid": "u0803"
+            },
+            {
+              "startUid": "u0821",
+              "endUid": "u0827"
+            },
+            {
+              "startUid": "u0857",
+              "endUid": "u0859"
+            }
+          ]
+        },
+        {
+          "actor": "Caulaus",
+          "kind": "event",
+          "summary": "Casts a countercharm on Seeker. The Wisdom save is rolled with advantage and a 14 is reported; Seeker is left standing confused under both charms instead of continuing toward the harpies.",
+          "evidence": [
+            {
+              "startUid": "u0828",
+              "endUid": "u0848"
+            },
+            {
+              "startUid": "u0870",
+              "endUid": "u0871"
+            }
+          ]
+        },
+        {
+          "actor": "Kenzo",
+          "kind": "event",
+          "summary": "Runs to Seeker and uses Cleansing Touch, which the DM allows to remove both charms.",
+          "evidence": [
+            {
+              "startUid": "u0876",
+              "endUid": "u0880"
+            }
+          ]
+        },
+        {
+          "actor": "Wellby",
+          "kind": "event",
+          "summary": "Takes cover and stuffs his ears instead of shooting, protecting him from hearing the song but also preventing him hearing the party’s warnings.",
+          "evidence": [
+            {
+              "startUid": "u0860",
+              "endUid": "u0860"
+            },
+            {
+              "startUid": "u0891",
+              "endUid": "u0891"
+            },
+            {
+              "startUid": "u1137",
+              "endUid": "u1139"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Caulaus",
+              "kind": "turn",
+              "summary": "Readies an attack through his echo against a harpy coming within reach; the echo remains exposed ahead of the overhang.",
+              "evidence": [
+                {
+                  "startUid": "u0899",
+                  "endUid": "u0917"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Runs up the rock wall, later described as about 60 feet up, trying to draw the harpies after him.",
+              "evidence": [
+                {
+                  "startUid": "u0918",
+                  "endUid": "u0925"
+                },
+                {
+                  "startUid": "u1006",
+                  "endUid": "u1006"
+                },
+                {
+                  "startUid": "u1013",
+                  "endUid": "u1016"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Catapults gravel at the first harpy in range. It fails the DC 17 Dexterity save and is badly wounded, close to death; no damage total is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u0926",
+                  "endUid": "u0941"
+                }
+              ]
+            },
+            {
+              "actor": "Harpies",
+              "kind": "turn",
+              "summary": "Four dive down demanding Dasoclese. Two approach the echo; the first claws it with a 19 and destroys it, leaving the second to dart closer. Two other harpies sing to Seeker: with advantage on both Wisdom saves he succeeds once but is charmed again by the other, starts forward and sees the singer as a beautiful fey woman offering revenge.",
+              "evidence": [
+                {
+                  "startUid": "u0942",
+                  "endUid": "u0975"
+                },
+                {
+                  "startUid": "u0981",
+                  "endUid": "u0984"
+                }
+              ]
+            },
+            {
+              "actor": "Caulaus",
+              "kind": "reaction",
+              "summary": "Before the first harpy’s claws destroy the echo, resolves his readied attack through it: 17 hits for 13 damage.",
+              "evidence": [
+                {
+                  "startUid": "u0947",
+                  "endUid": "u0956"
+                }
+              ],
+              "note": "This attack occurs before the claw hit within the preceding condensed enemy turn."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Calls to the singing harpy in Sylvan and shoots her as she looks at him. The arrow leaves her close to death; Seeker’s charm makes the attack look like a betrayal. This is explicitly the end of the first recorded round.",
+              "evidence": [
+                {
+                  "startUid": "u0977",
+                  "endUid": "u0993"
+                },
+                {
+                  "startUid": "u0994",
+                  "endUid": "u1005"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Jumps from the wall and hits the wounded singer with his staff on a 28 for 11 damage, killing her and ending Seeker’s charm. Her corpse becomes a fey woman. Uses bonus-action soul-sight to learn the harpies are cursed, warns the party, then hits another with a 13 and Stunning Strike; she is stunned. The proposed extra unarmed attack is denied because soul-sight used his bonus action.",
+              "evidence": [
+                {
+                  "startUid": "u1006",
+                  "endUid": "u1046"
+                },
+                {
+                  "startUid": "u1055",
+                  "endUid": "u1086"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Slow on the three nearby harpies. The already-stunned one rolls a natural 20 on the Wisdom save and resists; the two under the overhang are slowed.",
+              "evidence": [
+                {
+                  "startUid": "u1087",
+                  "endUid": "u1101"
+                }
+              ]
+            },
+            {
+              "actor": "Caulaus",
+              "kind": "turn",
+              "summary": "Recreates the echo beside a slowed harpy and hits twice, with 30 damage acknowledged plus an additional 2 from Dreadful Strike. She dies and becomes a shorter fairy-like woman, despite Kenzo’s warning to avoid killing the cursed fey.",
+              "evidence": [
+                {
+                  "startUid": "u1102",
+                  "endUid": "u1129"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Steps out of cover, grows wings and flies after the badly wounded harpy fleeing from the catapult hit. Threatens telepathically in Fey: talk or die.",
+              "evidence": [
+                {
+                  "startUid": "u1130",
+                  "endUid": "u1154"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining harpies",
+              "kind": "turn",
+              "summary": "One remains stunned and unable to act. The slowed one tries to dash away, with 40 feet of movement described despite its reduced speed, provoking opportunity attacks; both are subsequently held stunned.",
+              "evidence": [
+                {
+                  "startUid": "u1155",
+                  "endUid": "u1180"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Makes an opportunity attack with Stunning Strike against the fleeing slowed harpy. The attack is accepted as a hit and the saving throw is 5, failing and stunning her.",
+              "evidence": [
+                {
+                  "startUid": "u1162",
+                  "endUid": "u1178"
+                }
+              ],
+              "note": "A 13 is spoken on a Seeker-labeled line amid two declared opportunity attacks; the source does not securely assign that number to Kenzo or Caulaus, and does not name the save ability."
+            },
+            {
+              "actor": "Caulaus",
+              "kind": "reaction",
+              "summary": "Takes an opportunity attack through the echo, choosing nonlethal damage with DM approval. No separate damage total is given.",
+              "evidence": [
+                {
+                  "startUid": "u1165",
+                  "endUid": "u1178"
+                }
+              ]
+            },
+            {
+              "actor": "Party",
+              "kind": "event",
+              "summary": "The two stunned harpies are restrained and knocked unconscious; their unchanged harpy forms indicate that they remain alive. Two others are dead.",
+              "evidence": [
+                {
+                  "startUid": "u1181",
+                  "endUid": "u1191"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby and fleeing harpy",
+              "kind": "event",
+              "summary": "Wellby repeats the demand telepathically because his ears remain stopped. The wounded harpy says she has awaited Dasoclese for years, begins landing, and Wellby lands with her about 100 feet from the others, ending the chase in parley.",
+              "evidence": [
+                {
+                  "startUid": "u1192",
+                  "endUid": "u1209"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Two harpies are dead, two captured unconscious, and the fifth has landed with Wellby for negotiation. Ordered fighting has ended; the three-question bargain follows outside the combat segment.",
+        "evidence": [
+          {
+            "startUid": "u1183",
+            "endUid": "u1209"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s005",
+      "encounter": "Agata emerges from the Heartwood Tree",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "The table settles Kenzo before Wellby, both ahead of Agata. Bonus-action soul-sight finds Dexterity her weakest ability and Charisma strongest. His staff hits on 20 for 14 damage and 21 for 7; each Stunning Strike calls for a Constitution save, and Agata expends a legendary resistance on each failure to turn it into a success.",
+              "evidence": [
+                {
+                  "startUid": "u2217",
+                  "endUid": "u2270"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and all four charges of the flaming bowstring to shoot Agata. The arrow hits and bursts into flame, leaving her burning; no numeric arrow damage is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u2271",
+                  "endUid": "u2285"
+                },
+                {
+                  "startUid": "u2505",
+                  "endUid": "u2506"
+                }
+              ]
+            },
+            {
+              "actor": "Agata",
+              "kind": "turn",
+              "summary": "Flies about 30 feet up, asks after the absent elf and stoneborn, and turns her hag’s gaze on Seeker; his Wisdom save succeeds with no effect. Spreads yellow poisonous fog: all four PCs fail Constitution saves and each takes 22 poison damage. Baxter also takes 22 poison damage after his save is called for. Whistles the Obsidian Fly out of Wellby’s pocket into the fight.",
+              "evidence": [
+                {
+                  "startUid": "u2286",
+                  "endUid": "u2350"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Uses Animating Performance on the new approximately fifty-foot, Large ladder and sends it into the air toward Agata. Runs out of the continuing poison fog, past Caulaus and away from the fly. No ladder attack is resolved on this turn.",
+              "evidence": [
+                {
+                  "startUid": "u2351",
+                  "endUid": "u2376"
+                }
+              ]
+            },
+            {
+              "actor": "Caulaus",
+              "kind": "turn",
+              "summary": "Runs to the tree and manifests his echo in its branches beside airborne Agata. Attacks through it, using an extra echo attack and Action Surge. The final stated tally corrects six hits to five hits from six attacks, although the individual narration includes two misses. A 21 hits, a 15 misses, and a 17 hits for 15 damage; a 13 is turned into a hit by Seeker’s inspiration. Applies Dreadful Strike and Favored Foe once each, withdrawing duplicate extra dice, and inflicts one wound whose damage cannot be healed by magic. Agata spends her last legendary resistance to maintain concentration; the DM confirms advantage on those checks.",
+              "evidence": [
+                {
+                  "startUid": "u2380",
+                  "endUid": "u2434"
+                }
+              ],
+              "note": "The final five-of-six tally and the individually narrated misses do not reconcile; no damage total or missing attack is reconstructed."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Uses Bardic Inspiration on Caulaus’s 13, adding 7 to make it hit; the later correction adds 7 thunder damage to that attack, applied here once beside its trigger.",
+              "evidence": [
+                {
+                  "startUid": "u2408",
+                  "endUid": "u2417"
+                },
+                {
+                  "startUid": "u2441",
+                  "endUid": "u2443"
+                }
+              ]
+            },
+            {
+              "actor": "Obsidian Fly",
+              "kind": "turn",
+              "summary": "Attacks Wellby: a proboscis attack rolls 17 and deals a corrected 22 total damage, 11 piercing and 11 necrotic; a second attack with claws also rolls 17 and deals 6 slashing damage.",
+              "evidence": [
+                {
+                  "startUid": "u2435",
+                  "endUid": "u2454"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge against the proboscis hit, halving that attack’s damage.",
+              "evidence": [
+                {
+                  "startUid": "u2444",
+                  "endUid": "u2452"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses the raven whistle to fly up to Agata. Staff attacks hit on 28 for 11 and 19 for 13; she succeeds on the first Constitution save against Stunning Strike but is stunned by the second. She falls about 30 feet, takes falling damage with no number supplied, and her poison spell disappears. Kenzo descends and follows with unarmed attacks at advantage against the stunned target: the first hit is rerolled from 18 to 25 with damage unstated; Flurry of Blows adds a 27 hit for 6. She remains badly hurt rather than unconscious.",
+              "evidence": [
+                {
+                  "startUid": "u2455",
+                  "endUid": "u2499"
+                }
+              ],
+              "note": "The table allows the narrated whistle movement and subsequent bonus attacks; no external action-economy correction is imposed."
+            },
+            {
+              "actor": "Baxter",
+              "kind": "turn",
+              "summary": "Attempts to bite the Obsidian Fly and misses.",
+              "evidence": [
+                {
+                  "startUid": "u2503",
+                  "endUid": "u2515"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and stabs the fly in melee with a critical hit. The fly is defeated and reverts to its little ebony figurine form; Wellby dismounts and picks it up. The DM recalls it cannot be used for a day or two, without settling the exact cooldown.",
+              "evidence": [
+                {
+                  "startUid": "u2516",
+                  "endUid": "u2533"
+                }
+              ]
+            },
+            {
+              "actor": "Agata",
+              "kind": "turn",
+              "summary": "Remains stunned and cannot take her normal actions. Fails the DC 15 Constitution save for the necrotic wound, with about 3 additional damage recalled, and succeeds on the DC 13 Constitution save for the fire. Pleads that she has much to tell them and the fight need not end this way.",
+              "evidence": [
+                {
+                  "startUid": "u2530",
+                  "endUid": "u2541"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Launches the amber gem containing a spider from Agata’s former lair at her. It strikes for unspecified bludgeoning damage and unfolds into sticky webbing, restraining her while she is stunned and prone. The Dexterity save is discussed in connection with her stun; no roll is reported.",
+              "evidence": [
+                {
+                  "startUid": "u2543",
+                  "endUid": "u2557"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Abandons a proposed grapple because Agata is already restrained, and hits her nonlethally at advantage, trying to knock her out; no damage number is spoken and she remains conscious.",
+              "evidence": [
+                {
+                  "startUid": "u2558",
+                  "endUid": "u2576"
+                }
+              ]
+            },
+            {
+              "actor": "Caulaus",
+              "kind": "turn",
+              "summary": "Attempts nonlethal attacks: the first misses even with advantage and the next is insufficient. Uses his last extra echo attack after repositioning the echo; that hit knocks Agata unconscious. Resummons the echo after her retaliation destroys it.",
+              "evidence": [
+                {
+                  "startUid": "u2577",
+                  "endUid": "u2608"
+                }
+              ]
+            },
+            {
+              "actor": "Agata’s mites and fleas",
+              "kind": "event",
+              "summary": "At the echo’s knockout strike, mites and fleas swarm up Agata’s arm and devour the echo’s arm, destroying its one hit point. The DM explains that a living attacker would have taken substantial necrotic damage instead; no amount is rolled.",
+              "evidence": [
+                {
+                  "startUid": "u2601",
+                  "endUid": "u2612"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Agata is unconscious on the ground, alive and restrained; the fly has reverted to a recovered figurine. The knockout retaliation destroys only Caulaus’s echo. Her later imprisonment belongs to the following gameplay.",
+        "evidence": [
+          {
+            "startUid": "u2601",
+            "endUid": "u2612"
+          }
+        ]
+      }
+    }
+  ]
+}
