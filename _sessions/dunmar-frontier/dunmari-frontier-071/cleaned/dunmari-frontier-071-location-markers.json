@@ -1,0 +1,584 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-071",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-071/cleaned/dunmari-frontier-071-session.yaml",
+    "sessionYamlSha256": "cbccff873d378e30ce6812931ebd7f45d0c600c00baec4bb78a7339555d9089d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-071/cleaned/dunmari-frontier-071-transcript.md",
+    "transcriptSha256": "7d737a7d710a496ffae1c67c06f219bcffdebd798547d5c0ae9b8d99218ba779"
+  },
+  "places": {
+    "p01": {
+      "label": "Stormcaller Tower",
+      "evidence": [
+        {
+          "startUid": "u0580",
+          "endUid": "u0587",
+          "quote": "Leans, stands up again, and for a minute the like image shifts and wavers, and then the palace, the Dream Palace, collapses, and you are in the top room of Stormcaller Tower, the giant chained, the— chained to the wall, his hands bound and restrained, his eye sockets empty."
+        }
+      ],
+      "kind": "tower",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower.md"
+    },
+    "p02": {
+      "label": "Hralgar's dream palace and mountain steps",
+      "evidence": [
+        {
+          "startUid": "u0011",
+          "endUid": "u0017",
+          "quote": "Finding themselves, finding yourselves eventually in the center of Stormcaller Tower, and then managing, remembering the layout managing to follow the possessed Kenzo up to the the top floor of the tower, where the stairs, as they did the last time you were here, led not to the room where Hralgar was imprisoned, but to a dreamscape of sorts: Hralgar's mountain palace."
+        }
+      ],
+      "kind": "dream landscape",
+      "note": "Dream representation of Hralgar’s mountain home, entered through the tower stairs; distinct from a physical visit to his palace."
+    },
+    "p03": {
+      "label": "Hralgar's prison room",
+      "evidence": [
+        {
+          "startUid": "u0580",
+          "endUid": "u0587",
+          "quote": "Leans, stands up again, and for a minute the like image shifts and wavers, and then the palace, the Dream Palace, collapses, and you are in the top room of Stormcaller Tower, the giant chained, the— chained to the wall, his hands bound and restrained, his eye sockets empty."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0580",
+              "endUid": "u0587",
+              "quote": "Leans, stands up again, and for a minute the like image shifts and wavers, and then the palace, the Dream Palace, collapses, and you are in the top room of Stormcaller Tower, the giant chained, the— chained to the wall, his hands bound and restrained, his eye sockets empty."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Statue floor",
+      "evidence": [
+        {
+          "startUid": "u1473",
+          "endUid": "u1479",
+          "quote": "So while you have an hour's peace at— and you're—while you're just waiting, you, you spend some time like going around the, the tower, right? So the, the fourth floor, the one—the floor down from this room that you're in now is like pretty empty, right? It has that the statue, and then it has the, the the, the windswept platform, the like platform that sticks out where there's the like pool of water, and there was some like magical globe thing that you knock to the ground."
+        }
+      ],
+      "kind": "floor",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1473",
+              "endUid": "u1479",
+              "quote": "So while you have an hour's peace at— and you're—while you're just waiting, you, you spend some time like going around the, the tower, right? So the, the fourth floor, the one—the floor down from this room that you're in now is like pretty empty, right? It has that the statue, and then it has the, the the, the windswept platform, the like platform that sticks out where there's the like pool of water, and there was some like magical globe thing that you knock to the ground."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Library",
+      "evidence": [
+        {
+          "startUid": "u1473",
+          "endUid": "u1486",
+          "quote": "The only 2 books that are left— sorry, there's 3 books that are chained. One is a book in Giant, written in Giant, called Tales before the Fall, which is like 4 feet tall and written in huge letters. It's, it's very rare, and it's chained up with a thick chain. There's another one that's called On the Ordering of Giants, written in some ancient language that nobody knows, but Delwath can read. And then there's another one called the Journey of Souls, written in another strange language which, again, Delwath can read. But all of those like I don't know your high enough level. You can break chains. I'm not going to worry about that."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1473",
+              "endUid": "u1486",
+              "quote": "The only 2 books that are left— sorry, there's 3 books that are chained. One is a book in Giant, written in Giant, called Tales before the Fall, which is like 4 feet tall and written in huge letters. It's, it's very rare, and it's chained up with a thick chain. There's another one that's called On the Ordering of Giants, written in some ancient language that nobody knows, but Delwath can read. And then there's another one called the Journey of Souls, written in another strange language which, again, Delwath can read. But all of those like I don't know your high enough level. You can break chains. I'm not going to worry about that."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Eudomes's bedroom",
+      "evidence": [
+        {
+          "startUid": "u1427",
+          "endUid": "u1436",
+          "quote": "There was in Eudomes's bedroom there was a like a large like, not very large, like a 2 foot tall like marble, magical marble stone that you didn't take because it was too heavy."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1409",
+              "endUid": "u1429",
+              "quote": "What we there will be a series, though what in the me like? We all like it's like we're all waiting for the shower, and it's like, oh, my God, Hralgar, I like Jesus Christ. You gotta take long-ass showers, you know. We've all got towels around our waist like you know we're all trying to watch TV, and it's like we have to watch the Storm Channel again."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Muddy plain outside the tower",
+      "evidence": [
+        {
+          "startUid": "u1621",
+          "endUid": "u1644",
+          "quote": "As you get to the first floor you hear the first crack of thunder, and this massive lightning bolt strikes the top of the tower, and then the whole tower just begins shaking, and as you rush out you start running down the stairs, like there's just like this incredibly loud peal of thunder just repeated over and over again, and the middle section of the tower where the library is just cracks open. It's going, just spraying, the tower cracking, falling in half, the step—the statue of Hralgar tumbling, rolling down. The statue itself does not actually seem particularly damaged by the fall."
+        }
+      ],
+      "kind": "plain",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1621",
+              "endUid": "u1644",
+              "quote": "As you get to the first floor you hear the first crack of thunder, and this massive lightning bolt strikes the top of the tower, and then the whole tower just begins shaking, and as you rush out you start running down the stairs, like there's just like this incredibly loud peal of thunder just repeated over and over again, and the middle section of the tower where the library is just cracks open. It's going, just spraying, the tower cracking, falling in half, the step—the statue of Hralgar tumbling, rolling down. The statue itself does not actually seem particularly damaged by the fall."
+            }
+          ]
+        }
+      ],
+      "note": "The later dinner and Delwath’s reunion occur at the companions’ position by the grounded ship; their exact position beside or aboard it is not restated."
+    },
+    "p08": {
+      "label": "Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u1764",
+          "endUid": "u1807",
+          "quote": "Yeah, you can make large things at Level 6. So that's yeah. A large, a giant size shovel would be a large object. So then he like sets to work, and he begins like just like sort of pushing the mud away from this ship. And as he does he like— he's like occasionally also just like knocking like bit of mud and sort of other, other stuff that's sort of just accreted on the ship over time, and it— just kind of digging, knocking it off. And as he sort of digs down you can see like the ship emerging, it's like the entire thing is, it's like sunk at an angle."
+        }
+      ],
+      "kind": "skyship",
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "aliases": [
+        "Star on the Wind",
+        "Star of the Wind"
+      ]
+    },
+    "p09": {
+      "label": "Deck of Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u1801",
+          "endUid": "u1836",
+          "quote": "And he shows you the so. There is a there is like a stone structure in the, in the middle of this thing that's— it almost looks like— it's like 5, 5 pillars that are sort of sticking up in it, kind of almost like a random design. 2 of them are, are cracked in half and broken. Each pillar is about, is about 6 feet tall, and are made of like—this is all like sort of, you know, sort of a reddish brownstone, but the pillars are made of like a dark, like basalt type, dark volcanic stone, and."
+        }
+      ],
+      "kind": "deck",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1801",
+              "endUid": "u1824",
+              "quote": "And as it comes to rest you can see its full length and its full size, and it's— yeah, it looks really really like a large massive stone ship, and as he walks over he's not tall enough to actually reach the deck from the ground, but with a few like, you know, he can— well, he just sort of turns into a storm and lifts himself up at the top, and he sort of rummages around a little bit, and then kind of leans over the side and says, “I—you better come up.”"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Lakan Monastery",
+      "evidence": [
+        {
+          "startUid": "u1589",
+          "endUid": "u1597",
+          "quote": "Obviously, so an hour has passed. You return with the books and the and the, the cleaning stone, and you scry, you scry Govir, who is sitting in the monastery, the Lakan Monastery reading room, the book opened, like sort of flipping pages, but every like minute or so turning back to A Lament for Lost Thunder, and just like waiting a second, waiting 30 s, and then flipping back and reading a few more poems, and just seems to be doing this repetitively."
+        }
+      ],
+      "kind": "monastery",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lakan Monastery.md"
+    },
+    "p11": {
+      "label": "Lakan Monastery reading room",
+      "evidence": [
+        {
+          "startUid": "u1589",
+          "endUid": "u1597",
+          "quote": "Obviously, so an hour has passed. You return with the books and the and the, the cleaning stone, and you scry, you scry Govir, who is sitting in the monastery, the Lakan Monastery reading room, the book opened, like sort of flipping pages, but every like minute or so turning back to A Lament for Lost Thunder, and just like waiting a second, waiting 30 s, and then flipping back and reading a few more poems, and just seems to be doing this repetitively."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1589",
+              "endUid": "u1597",
+              "quote": "Obviously, so an hour has passed. You return with the books and the and the, the cleaning stone, and you scry, you scry Govir, who is sitting in the monastery, the Lakan Monastery reading room, the book opened, like sort of flipping pages, but every like minute or so turning back to A Lament for Lost Thunder, and just like waiting a second, waiting 30 s, and then flipping back and reading a few more poems, and just seems to be doing this repetitively."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Hralgar's mountain palace",
+      "evidence": [
+        {
+          "startUid": "u1686",
+          "endUid": "u1745",
+          "quote": "You can see, you can see, like, like you see for a minute, the clouds just like the storm, the thunder, the rain just like blowing north like super fast, right? Like just blowing away and leaving behind the sunset over a muddy plain, and this cliff sort of jutting out of the, of the mud, which now in the clear sky looks really very much like a ship, right? You can see the shape of its—looks almost like a sailing ship."
+        }
+      ],
+      "kind": "palace",
+      "vaultPath": "Gazetteer/Central Highlands/Hralgar's Palace.md",
+      "note": "Identified with the palace named in the vault; the party receives directions and Hralgar’s report, but does not travel there in this session. The modern note places it in the Sentinels; no regional containment is imported."
+    },
+    "p13": {
+      "label": "Nearby antelope hunting grounds",
+      "evidence": [
+        {
+          "startUid": "u2045",
+          "endUid": "u2048",
+          "quote": "So he's off, so Delwath goes off with him to hunt for a little bit, and you know, you— you, you shoot an antelope, and then he goes to follow the herd to try and get, you know, 2 more, and you return with the one you hunted, and so you can talk to your companions about what you want to discuss with him tonight."
+        }
+      ],
+      "kind": "plain",
+      "note": "The herd is on the surrounding plains; no measured route or particular campsite is given."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0077",
+        "endUid": "u0094"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party emerges at the bottom of the mountain-palace steps as the giants struggle above.",
+      "evidence": [
+        {
+          "startUid": "u0077",
+          "endUid": "u0094",
+          "quote": "Shit. So you all emerge. You can shift around where you are, but you emerge at the bottom of these stairs. The 2 giants fighting are maybe 30 40 feet up from where you are. So the staircase ascends as it goes up to the palace, and the steps are about 3, 3, 4 feet tall. So this would be difficult terrain for everybody. And yeah, and it's been."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0580",
+        "endUid": "u0587"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The dream collapses, leaving the party with chained Hralgar in the tower’s top prison room.",
+      "evidence": [
+        {
+          "startUid": "u0580",
+          "endUid": "u0587",
+          "quote": "Leans, stands up again, and for a minute the like image shifts and wavers, and then the palace, the Dream Palace, collapses, and you are in the top room of Stormcaller Tower, the giant chained, the— chained to the wall, his hands bound and restrained, his eye sockets empty."
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u1473",
+        "endUid": "u1506"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "During the search the party descends through the statue floor to the library and recovers the chained books and pamphlet.",
+      "evidence": [
+        {
+          "startUid": "u1473",
+          "endUid": "u1479",
+          "quote": "So while you have an hour's peace at— and you're—while you're just waiting, you, you spend some time like going around the, the tower, right? So the, the fourth floor, the one—the floor down from this room that you're in now is like pretty empty, right? It has that the statue, and then it has the, the the, the windswept platform, the like platform that sticks out where there's the like pool of water, and there was some like magical globe thing that you knock to the ground."
+        },
+        {
+          "startUid": "u1491",
+          "endUid": "u1506",
+          "quote": "So you take those books. How are you getting past the locked door this time?"
+        }
+      ],
+      "from": "p03",
+      "to": "p05",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p04",
+          "reading": "Pass the floor below the prison, which contains the statue and windswept platform."
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u1505",
+        "endUid": "u1582"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party gets past Eudomes’s locked bedroom door after Delwath breaks the hinges with freezing water, and removes the cleansing stone.",
+      "evidence": [
+        {
+          "startUid": "u1547",
+          "endUid": "u1554",
+          "quote": "So the lock is unaffected; but as, or so, as, as equivalently to when Seeker shrank the door last time, the hinges snap eventually from your water trick, and the door just kind of like swings partially open, like on the like—it's pivoting on the lock, so it's like, it's like rotating this way. It's like a—it like falls forward a little bit, so you could crawl under it. It's still locked at the lock. Yeah, with no hinges. It's not [garbled]. And the."
+        },
+        {
+          "startUid": "u1555",
+          "endUid": "u1557",
+          "quote": "So the, the the only thing that's really left in this room is the marble pedestal with a stone on top of that."
+        },
+        {
+          "startUid": "u1578",
+          "endUid": "u1582",
+          "quote": "Yeah, you could put it in the hole. Push it over. Just open the hole like like right underneath it. And it'll just fall in. Yeah, the clatter of [garbled]. Yeah."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1589",
+        "endUid": "u1613"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party returns with the books and stone to Hralgar’s prison; Kenzo recites the corrected poem there.",
+      "evidence": [
+        {
+          "startUid": "u1589",
+          "endUid": "u1597",
+          "quote": "Obviously, so an hour has passed. You return with the books and the and the, the cleaning stone, and you scry, you scry Govir,"
+        },
+        {
+          "startUid": "u1607",
+          "endUid": "u1613",
+          "quote": "And the chains begin to like— they, they sort of crack open slightly, and the gap begins to open around Hralgar's wrists, and then they begin to disintegrate from the wrists down. The chains crack! Crack, crack, crack! And then fade into dust."
+        }
+      ],
+      "from": "p06",
+      "to": "p03",
+      "completion": "arrived"
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u1589",
+        "endUid": "u1597"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath scries Govir reading the poem at the Lakan Monastery.",
+      "evidence": [
+        {
+          "startUid": "u0944",
+          "endUid": "u0948",
+          "quote": "You tell him, find a copy of, of this book and let Delwath— [garbled]—Delwath see through your eyes and turn to Lament for Lost Thunder."
+        },
+        {
+          "startUid": "u1589",
+          "endUid": "u1597",
+          "quote": "Obviously, so an hour has passed. You return with the books and the and the, the cleaning stone, and you scry, you scry Govir, who is sitting in the monastery, the Lakan Monastery reading room, the book opened, like sort of flipping pages, but every like minute or so turning back to A Lament for Lost Thunder, and just like waiting a second, waiting 30 s, and then flipping back and reading a few more poems, and just seems to be doing this repetitively."
+        },
+        {
+          "startUid": "u1600",
+          "endUid": "u1601",
+          "quote": "You, you see it now. What is it? Perfectly. You did, you did forget a line."
+        }
+      ],
+      "place": "p11",
+      "observerPlace": "p03",
+      "mode": "remote",
+      "observedActors": [
+        "Govir"
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1620",
+        "endUid": "u1657"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party rushes down and out of the tower to the muddy plain as Hralgar demolishes the tower and statue.",
+      "evidence": [
+        {
+          "startUid": "u1620",
+          "endUid": "u1629",
+          "quote": "As you get to the first floor you hear the first crack of thunder, and this massive lightning bolt strikes the top of the tower, and then the whole tower just begins shaking, and as you rush out you start running down the stairs, like there's just like this incredibly loud peal of thunder just repeated over and over again, and the middle section of the tower where the library is just cracks open. It's going, just spraying, the tower cracking, falling in half, the step—the statue of Hralgar tumbling, rolling down. The statue itself does not actually seem particularly damaged by the fall."
+        },
+        {
+          "startUid": "u1640",
+          "endUid": "u1644",
+          "quote": "There's just like dust powder. Even after there's just powder, he then stomps like as hard as he can, and there's a crack of thunder where his foot strikes the ground, and almost like a shockwave races across the plain, like it's all like mud and everything, so there's like a gout of, of mud like flies up and hits you all in the face."
+        },
+        {
+          "startUid": "u1653",
+          "endUid": "u1657",
+          "quote": "And then he stops, and he turns, and he looks at you all, and he says, “Thank you for that. What can I do for you before I leave?”"
+        }
+      ],
+      "from": "p03",
+      "to": "p07",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Descend the stairs via the first floor and run away from the collapsing tower."
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u1722",
+        "endUid": "u1745"
+      },
+      "actors": [
+        "Hralgar"
+      ],
+      "reading": "Hralgar reports sensing snowfall and stoneborn at his distant mountain palace through the traveling storm.",
+      "evidence": [
+        {
+          "startUid": "u1722",
+          "endUid": "u1745",
+          "quote": "And he, he pauses again, his eyes closed for maybe 20, 30 minutes. Then he opens his eyes, and there's like you can see like flashes of, of thunder and lightning, and he says, “The rain is— the storm is passing the mountains now. The rain is falling as snow on my palace. It is a— some—"
+        }
+      ],
+      "place": "p12",
+      "observerPlace": "p07",
+      "mode": "remote",
+      "note": "The companions hear his report; they do not themselves see or arrive at the palace."
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1801",
+        "endUid": "u1824"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party climbs or magically reaches the ship’s deck at Hralgar’s invitation.",
+      "evidence": [
+        {
+          "startUid": "u1801",
+          "endUid": "u1807",
+          "quote": "And as it comes to rest you can see its full length and its full size, and it's— yeah, it looks really really like a large massive stone ship, and as he walks over he's not tall enough to actually reach the deck from the ground, but with a few like, you know, he can— well, he just sort of turns into a storm and lifts himself up at the top, and he sort of rummages around a little bit, and then kind of leans over the side and says, “I—you better come up.”"
+        },
+        {
+          "startUid": "u1809",
+          "endUid": "u1815",
+          "quote": "I mean you could climb. It's pretty rough, right? It's not. It's not. The sides are not particularly smooth, or they could be made smooth. Okay. And so, right, Dimension Door. Kenzo just runs up. Yeah, and Delwath actually—"
+        },
+        {
+          "startUid": "u1819",
+          "endUid": "u1824",
+          "quote": "There's—so you can see now that you're like on the, the deck, right? It's, it's much smoother. There's like a— it goes down maybe 15 feet, 20 feet, sort of in a, in a depression. So there's like the walls of the ship are maybe 20 feet tall. So they come up to like Hralgar's shoulder, like chest, basically, or, or a little below his chest."
+        }
+      ],
+      "from": "p07",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "climb and magical transport",
+      "locationContext": [
+        {
+          "subject": "p08",
+          "relation": "on",
+          "target": "p07",
+          "note": "Hralgar has hauled the grounded ship out of the mud; it cannot yet fly."
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u2045",
+        "endUid": "u2048"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath briefly hunts antelope with Hralgar, then returns to his companions with one animal.",
+      "evidence": [
+        {
+          "startUid": "u2045",
+          "endUid": "u2048",
+          "quote": "So he's off, so Delwath goes off with him to hunt for a little bit, and you know, you— you, you shoot an antelope, and then he goes to follow the herd to try and get, you know, 2 more, and you return with the one you hunted, and so you can talk to your companions about what you want to discuss with him tonight."
+        }
+      ],
+      "from": null,
+      "to": "p07",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p13",
+          "reading": "Hunt on the plains with Hralgar, who continues after the herd when Delwath returns."
+        }
+      ],
+      "note": "The return establishes reunion at the companions’ position beside or aboard the grounded ship on this plain; no return to its deck is asserted."
+    },
+    {
+      "id": "l11",
+      "type": "presence",
+      "source": {
+        "startUid": "u2172",
+        "endUid": "u2188"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The companions settle into dinner with Hralgar after his return; the exact position relative to the ship is not specified.",
+      "evidence": [
+        {
+          "startUid": "u1936",
+          "endUid": "u1944",
+          "quote": "Look! The sun is setting. I am free. I will leave in the morning, but if your companion, Delwath, be willing to cook a somewhat larger dinner than normal, perhaps we could sit and share stories on this dry land one last time before I say goodbye and vanish into the mists and rain."
+        },
+        {
+          "startUid": "u2172",
+          "endUid": "u2175",
+          "quote": "So as Hralgar returns and the sunset turns to night, actually, we need conversation music, and you settle into a meal of fancy whatever Delwath cooks with several antelopes."
+        }
+      ],
+      "place": "p07",
+      "note": "The surrounding setting is the dry land/plains beside the ship. The source does not establish a precise dinner position or a separate return to the deck."
+    }
+  ]
+}

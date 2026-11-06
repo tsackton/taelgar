@@ -1,0 +1,214 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-071",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-071/cleaned/dunmari-frontier-071-session.yaml",
+    "sessionYamlSha256": "cbccff873d378e30ce6812931ebd7f45d0c600c00baec4bb78a7339555d9089d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-071/cleaned/dunmari-frontier-071-transcript.md",
+    "transcriptSha256": "7d737a7d710a496ffae1c67c06f219bcffdebd798547d5c0ae9b8d99218ba779"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0001"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0039"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0040",
+        "endUid": "u0061"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0062",
+        "endUid": "u0064"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0065",
+        "endUid": "u0076"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0077",
+        "endUid": "u0122"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0123",
+        "endUid": "u0538"
+      },
+      "category": "combat",
+      "note": "Initiative setup through the ghost’s defeat; the short post-defeat blindness clarification remains with the encounter."
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0539",
+        "endUid": "u0546"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0547",
+        "endUid": "u0560"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0561",
+        "endUid": "u0567"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0568",
+        "endUid": "u0601"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0602",
+        "endUid": "u0612"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0613",
+        "endUid": "u0955"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0956",
+        "endUid": "u0963"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0964",
+        "endUid": "u1583"
+      },
+      "category": "gameplay",
+      "note": "Active rescue decisions, rest conversation and accepted tower search remain gameplay despite brief jokes and rules checks."
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u1584",
+        "endUid": "u1588"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u1589",
+        "endUid": "u1748"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u1749",
+        "endUid": "u1754"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u1755",
+        "endUid": "u1897"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u1898",
+        "endUid": "u1906"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u1907",
+        "endUid": "u2048"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u2049",
+        "endUid": "u2157"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u2158",
+        "endUid": "u2171"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u2172",
+        "endUid": "u2243"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u2244",
+        "endUid": "u2250"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
