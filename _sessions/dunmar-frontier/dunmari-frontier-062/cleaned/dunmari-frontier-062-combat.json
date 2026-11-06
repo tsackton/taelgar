@@ -1,0 +1,1645 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-062",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-062/cleaned/dunmari-frontier-062-session.yaml",
+    "sessionYamlSha256": "49bda74e10147d9ddf8137e97ae4fe555c3e1846684f7da9b2ae3eabd9244748",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-062/cleaned/dunmari-frontier-062-transcript.md",
+    "transcriptSha256": "3818618f2158aee1ef4a808c5c3248f23723a76e25f4d4e1d33ece534ec8ef09",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-062/cleaned/dunmari-frontier-062-segments.json",
+      "sha256": "3430af590d775bca150f89eb656eb09948e492f481b71a6ef62838215bf4b19b",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s008",
+      "encounter": "Shark riders and the stone turbine",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Swims into the turbine chamber, misses a shark with his shortsword (10), then uses Cunning Action to disengage and retreat ten feet.",
+              "evidence": [
+                {
+                  "startUid": "u0782",
+                  "endUid": "u0805"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "turn",
+              "summary": "Swims down to the vacated position and hits the shark twice with his frost spear: the first deals 13 damage; the second attack just hits on 13.",
+              "evidence": [
+                {
+                  "startUid": "u0807",
+                  "endUid": "u0828"
+                }
+              ]
+            },
+            {
+              "actor": "First shark rider",
+              "kind": "turn",
+              "summary": "Makes three spear attacks at Alimash; 15, 11 and 16 all miss.",
+              "evidence": [
+                {
+                  "startUid": "u0829",
+                  "endUid": "u0838"
+                }
+              ]
+            },
+            {
+              "actor": "Second shark rider",
+              "kind": "turn",
+              "summary": "Rides toward Wellby without entering Shoal’s opportunity range; two spear attacks miss and the third hits for 10 piercing damage.",
+              "evidence": [
+                {
+                  "startUid": "u0839",
+                  "endUid": "u0856"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Reacts to being hit by swimming away, with ten feet allowed and a corner position discussed.",
+              "evidence": [
+                {
+                  "startUid": "u0857",
+                  "endUid": "u0867"
+                }
+              ]
+            },
+            {
+              "actor": "Third shark rider",
+              "kind": "turn",
+              "summary": "Approaches beneath Shoal, but the mount is stopped by Shoal’s reaction; fires two crossbow bolts upward instead, both missing on 13.",
+              "evidence": [
+                {
+                  "startUid": "u0868",
+                  "endUid": "u0903"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "reaction",
+              "summary": "Sentinel glaive reaction critically hits the approaching shark, with lightning, stopping it ten feet below him and granting inspiration.",
+              "evidence": [
+                {
+                  "startUid": "u0880",
+                  "endUid": "u0897"
+                }
+              ]
+            },
+            {
+              "actor": "Rufus",
+              "kind": "turn",
+              "summary": "Dives into the room and spends two hunting-quiver charges on a luring arrow lodged at the turbine, attracting beasts. Two sharks succeed on Wisdom saves and one fails; its movement will be compelled on its turn. Uses Nature’s Veil to become invisible.",
+              "evidence": [
+                {
+                  "startUid": "u0904",
+                  "endUid": "u0953"
+                }
+              ]
+            },
+            {
+              "actor": "Artem Novolozek",
+              "kind": "turn",
+              "summary": "Casts Shatter through the ceiling opening at two sharks and two humans, DC 17 Constitution: both sharks fail; human failures take 19 and a successful save takes half. The shark previously struck by Shoal dies.",
+              "evidence": [
+                {
+                  "startUid": "u0954",
+                  "endUid": "u0983"
+                }
+              ],
+              "note": "The spoken human-save sequence is compressed; it does not clearly assign each result to a particular rider."
+            },
+            {
+              "actor": "Shoal",
+              "kind": "turn",
+              "summary": "Attacks the nearby rider with his glaive twice, missing once and hitting once; adds the enlargement damage die. No complete damage total is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u0984",
+                  "endUid": "u0998"
+                }
+              ]
+            },
+            {
+              "actor": "Lured shark",
+              "kind": "turn",
+              "summary": "Shakes off its rider and swims down to hover over the spinning blades.",
+              "evidence": [
+                {
+                  "startUid": "u0999",
+                  "endUid": "u1005"
+                }
+              ]
+            },
+            {
+              "actor": "Other surviving shark",
+              "kind": "turn",
+              "summary": "Moves toward bleeding Wellby and bites for 8 damage. Alimash’s protection cancels blood-frenzy advantage, leaving a straight roll that still hits.",
+              "evidence": [
+                {
+                  "startUid": "u0999",
+                  "endUid": "u1016"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "reaction",
+              "summary": "Uses shield protection against the shark’s attack on nearby Wellby, canceling its advantage.",
+              "evidence": [
+                {
+                  "startUid": "u1006",
+                  "endUid": "u1016"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim for advantage and stabs the shark that bit him, leaving it badly wounded; additional damage is rolled but no complete total is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1017",
+                  "endUid": "u1033"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "turn",
+              "summary": "Hits the rider in front of him for 12 and 9 damage, adding 1 from Disarming Attack. The rider rolls a natural 20 on the Strength save and keeps his spear.",
+              "evidence": [
+                {
+                  "startUid": "u1034",
+                  "endUid": "u1058"
+                }
+              ]
+            },
+            {
+              "actor": "First attacking sailor",
+              "kind": "turn",
+              "summary": "Makes three spear attacks at Wellby, hitting once for 15. The protection discussion leaves this hit in place: protection should have applied to the first attack, which already missed.",
+              "evidence": [
+                {
+                  "startUid": "u1060",
+                  "endUid": "u1082"
+                }
+              ]
+            },
+            {
+              "actor": "Sailor beside Shoal",
+              "kind": "turn",
+              "summary": "Attacks Shoal with his spear, dealing a stated total of 36 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1083",
+                  "endUid": "u1096"
+                }
+              ]
+            },
+            {
+              "actor": "Other sailor near Wellby",
+              "kind": "turn",
+              "summary": "Attacks Wellby three times: Alimash’s protection turns a natural-20/7 first roll into a miss; the other two hit for 13 and 8.",
+              "evidence": [
+                {
+                  "startUid": "u1098",
+                  "endUid": "u1111"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "reaction",
+              "summary": "Protects Wellby with his shield, imposing disadvantage and preventing the first spear hit/critical.",
+              "evidence": [
+                {
+                  "startUid": "u1098",
+                  "endUid": "u1111"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "reaction",
+              "summary": "Uses the table-accepted Sentinel reaction to hit a sailor attacking Wellby for 8 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1112",
+                  "endUid": "u1115"
+                }
+              ]
+            },
+            {
+              "actor": "Rufus",
+              "kind": "turn",
+              "summary": "His previous invisibility ends at the start of his turn. Kills the nearby shark with his first rapier attack, without needing Favored Foe; misses the rider with his second.",
+              "evidence": [
+                {
+                  "startUid": "u1121",
+                  "endUid": "u1151"
+                }
+              ]
+            },
+            {
+              "actor": "Artem Novolozek",
+              "kind": "turn",
+              "summary": "Chooses Mind Sliver rather than Chill Touch or Dispel Magic. The targeted rider takes 6 damage after the Intelligence-save resolution and has −4 on his next save.",
+              "evidence": [
+                {
+                  "startUid": "u1153",
+                  "endUid": "u1180"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "turn",
+              "summary": "Redirects his glaive attacks away from the Mind-Slivered rider to a sailor threatening Wellby. Two attacks hit for a stated 33 total, followed by a Great Weapon Master bonus attack at −5 that also hits; the sailor remains standing.",
+              "evidence": [
+                {
+                  "startUid": "u1183",
+                  "endUid": "u1198"
+                }
+              ]
+            },
+            {
+              "actor": "Lured shark",
+              "kind": "turn",
+              "summary": "Continues circling and trying to bite the lure, without attacking the party.",
+              "evidence": [
+                {
+                  "startUid": "u1199",
+                  "endUid": "u1199"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and hits the wounded male sailor on 18. He falls unconscious, sinks and begins choking and drowning.",
+              "evidence": [
+                {
+                  "startUid": "u1201",
+                  "endUid": "u1229"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "turn",
+              "summary": "Misses once, then hits the Mind-Slivered rider for 14 plus the superiority die. The −4 applies to the Strength save: the spear is knocked loose and sucked into the blades. The rider retains his crossbow.",
+              "evidence": [
+                {
+                  "startUid": "u1225",
+                  "endUid": "u1247"
+                }
+              ]
+            },
+            {
+              "actor": "Female sailor",
+              "kind": "turn",
+              "summary": "Attacks Wellby three times: the first misses with disadvantage (24 becomes 11), the second misses on 16 and the third hits for 13, reduced to 6 by Uncanny Dodge.",
+              "evidence": [
+                {
+                  "startUid": "u1248",
+                  "endUid": "u1259"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "reaction",
+              "summary": "Uses protection to impose disadvantage on the female sailor’s first spear attack against Wellby, causing it to miss.",
+              "evidence": [
+                {
+                  "startUid": "u1249",
+                  "endUid": "u1253"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge to reduce the third spear hit from 13 damage to the table’s accepted 6.",
+              "evidence": [
+                {
+                  "startUid": "u1255",
+                  "endUid": "u1259"
+                }
+              ]
+            },
+            {
+              "actor": "Disarmed sailor",
+              "kind": "turn",
+              "summary": "Fires two crossbow shots at Wellby through cover with disadvantage; 10 and 15 both miss.",
+              "evidence": [
+                {
+                  "startUid": "u1260",
+                  "endUid": "u1270"
+                }
+              ]
+            },
+            {
+              "actor": "Rufus",
+              "kind": "turn",
+              "summary": "Touches Wellby and casts Cure Wounds, restoring 10 hit points.",
+              "evidence": [
+                {
+                  "startUid": "u1271",
+                  "endUid": "u1274"
+                }
+              ]
+            },
+            {
+              "actor": "Artem Novolozek",
+              "kind": "turn",
+              "summary": "Abandons Dodge and casts a damaging cantrip at the female sailor: 9 damage, and she cannot regain hit points until the start of his next turn.",
+              "evidence": [
+                {
+                  "startUid": "u1277",
+                  "endUid": "u1298"
+                }
+              ],
+              "note": "The cantrip is not named in this passage; retain the stated effect without supplying its name."
+            },
+            {
+              "actor": "Shoal",
+              "kind": "turn",
+              "summary": "Hits the disarmed sailor with both regular glaive attacks; a −5 bonus attack misses on 12. The sailor remains badly wounded.",
+              "evidence": [
+                {
+                  "startUid": "u1299",
+                  "endUid": "u1304"
+                }
+              ]
+            },
+            {
+              "actor": "Lured shark",
+              "kind": "turn",
+              "summary": "Remains occupied by the lure.",
+              "evidence": [
+                {
+                  "startUid": "u1302",
+                  "endUid": "u1304"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and hits the remaining adjacent sailor on 19 for 21 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1305",
+                  "endUid": "u1311"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "turn",
+              "summary": "Moves directly in front of the female sailor, hits once on 25, misses once and uses Shield Master to shove her against the wall.",
+              "evidence": [
+                {
+                  "startUid": "u1313",
+                  "endUid": "u1324"
+                }
+              ]
+            },
+            {
+              "actor": "Female sailor",
+              "kind": "turn",
+              "summary": "Attacks Wellby. Protection removes a critical but the first attack still hits for a stated 9; a later correction identifies an intervening miss. Her final critical is rerolled with Runic Shield to a noncritical 23 that still knocks Wellby unconscious. A proposed fourth attack at Rufus is withdrawn.",
+              "evidence": [
+                {
+                  "startUid": "u1325",
+                  "endUid": "u1357"
+                }
+              ],
+              "note": "The later recap mentions Uncanny Dodge on the first hit; its final damage is not restated. No damage total is invented."
+            },
+            {
+              "actor": "Alimash",
+              "kind": "reaction",
+              "summary": "Protects Wellby: disadvantage changes the first natural 20 to 17, preventing the critical without preventing the hit.",
+              "evidence": [
+                {
+                  "startUid": "u1327",
+                  "endUid": "u1335"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "reaction",
+              "summary": "Uses Runic Shield to force the later critical attack against Wellby to reroll; it still hits on 23 but loses the critical.",
+              "evidence": [
+                {
+                  "startUid": "u1333",
+                  "endUid": "u1347"
+                }
+              ]
+            },
+            {
+              "actor": "Turbine current",
+              "kind": "event",
+              "summary": "Threatens to draw unconscious Wellby toward the blades; the DM corrects the immediate drift, leaving him reachable until his next turn. The proposed servant rescue is not resolved before healing.",
+              "evidence": [
+                {
+                  "startUid": "u1358",
+                  "endUid": "u1363"
+                }
+              ]
+            },
+            {
+              "actor": "Rufus",
+              "kind": "turn",
+              "summary": "Casts third-level Cure Wounds on Wellby for 12, restoring consciousness.",
+              "evidence": [
+                {
+                  "startUid": "u1364",
+                  "endUid": "u1386"
+                }
+              ]
+            },
+            {
+              "actor": "Artem Novolozek",
+              "kind": "turn",
+              "summary": "Casts Lightning Bolt from the ceiling opening at the female sailor. She fails her Dexterity save and takes 20, remaining conscious but badly hurt.",
+              "evidence": [
+                {
+                  "startUid": "u1387",
+                  "endUid": "u1397"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "turn",
+              "summary": "Keeps attacking the disarmed rider: 15 misses, the second attack hits with the enlargement die, and a regular bonus attack is attempted without a clear result. The rider remains standing.",
+              "evidence": [
+                {
+                  "startUid": "u1398",
+                  "endUid": "u1407"
+                }
+              ]
+            },
+            {
+              "actor": "Lured shark",
+              "kind": "turn",
+              "summary": "Remains by the lure; its continued presence is confirmed before the last shark is killed.",
+              "evidence": [
+                {
+                  "startUid": "u1455",
+                  "endUid": "u1503"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Attempts to stab the female sailor; 15 misses.",
+              "evidence": [
+                {
+                  "startUid": "u1409",
+                  "endUid": "u1413"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "turn",
+              "summary": "Uses Commander’s Strike to give Wellby another attack. A hit and 12 damage are discussed in the exchange; after noting the attack spent on Commander’s Strike, the DM accepts two further hits from Alimash and the female sailor falls unconscious, sinking and choking.",
+              "evidence": [
+                {
+                  "startUid": "u1418",
+                  "endUid": "u1444"
+                }
+              ],
+              "note": "The 12 damage is not clearly attributed to Wellby or Alimash. The additional action allowing further attacks is not named."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses his reaction for Commander’s Strike, making a straight attack with Sneak Attack eligibility from a nearby ally; 25 hits.",
+              "evidence": [
+                {
+                  "startUid": "u1419",
+                  "endUid": "u1425"
+                }
+              ]
+            },
+            {
+              "actor": "Disarmed sailor",
+              "kind": "turn",
+              "summary": "Disengages and retreats while continuing to resist; Shoal’s Sentinel opportunity hit wounds him but does not knock him down.",
+              "evidence": [
+                {
+                  "startUid": "u1441",
+                  "endUid": "u1450"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "reaction",
+              "summary": "Hits the withdrawing sailor despite Disengage, with 8 damage spoken; the table still completes the retreat.",
+              "evidence": [
+                {
+                  "startUid": "u1441",
+                  "endUid": "u1450"
+                }
+              ]
+            },
+            {
+              "actor": "Rufus",
+              "kind": "turn",
+              "summary": "Shoots twice at the retreating sailor with disadvantage: one misses; the other hits for 8, leaving him alive.",
+              "evidence": [
+                {
+                  "startUid": "u1472",
+                  "endUid": "u1488"
+                }
+              ]
+            },
+            {
+              "actor": "Artem Novolozek",
+              "kind": "turn",
+              "summary": "Enters the turbine room and kills the remaining shark with a cantrip. A Strength save is called for both him and Wellby as they move near the turbine.",
+              "evidence": [
+                {
+                  "startUid": "u1489",
+                  "endUid": "u1504"
+                }
+              ]
+            },
+            {
+              "actor": "Turbine current",
+              "kind": "event",
+              "summary": "Pulls Artem into the blades, dealing 28 slashing damage and restraining him. His body stops the turbine; proposed Shape Water and Misty Step do not prevent this result.",
+              "evidence": [
+                {
+                  "startUid": "u1504",
+                  "endUid": "u1526"
+                }
+              ],
+              "note": "No separate result for Wellby’s called Strength save is spoken."
+            },
+            {
+              "actor": "Artem Novolozek",
+              "kind": "turn",
+              "summary": "Sends his unseen servant to switch the turbine off and gets free once it stops.",
+              "evidence": [
+                {
+                  "startUid": "u1549",
+                  "endUid": "u1550"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash and Shoal",
+              "kind": "turn",
+              "summary": "Close on the last sailor through minor or deflected crossbow fire and restrain him together, removing the crossbow. This accepted conscious capture replaces the initial narrated knockout/drowning.",
+              "evidence": [
+                {
+                  "startUid": "u1529",
+                  "endUid": "u1556"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The three sharks and two sailors are dead. Alimash and Shoal hold the surviving sailor conscious, and Artem is free of the stopped turbine. The later ritual and recovery are outside initiative.",
+        "evidence": [
+          {
+            "startUid": "u1501",
+            "endUid": "u1503"
+          },
+          {
+            "startUid": "u1549",
+            "endUid": "u1556"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s012",
+      "encounter": "Kenku rescue, huge shark and hidden mage",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Artem Novolozek",
+              "kind": "turn",
+              "summary": "Casts Hypnotic Pattern, DC 17 Wisdom, through the stopped turbine. The final save correction gives one sailor a failure, one a success, a third outside the cube, and the huge shark a failure; the affected sailor and shark are incapacitated and charmed.",
+              "evidence": [
+                {
+                  "startUid": "u2109",
+                  "endUid": "u2133"
+                }
+              ]
+            },
+            {
+              "actor": "Uncharmed sailor",
+              "kind": "turn",
+              "summary": "Moves to wake a companion. Later clarification still counts one sailor and the shark incapacitated, with two sailors awake.",
+              "evidence": [
+                {
+                  "startUid": "u2136",
+                  "endUid": "u2140"
+                },
+                {
+                  "startUid": "u2230",
+                  "endUid": "u2232"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "turn",
+              "summary": "Dashes down through the turbine to a chained Kenku, about forty feet away. Cannot break the coral restraints because Dash has already used his action.",
+              "evidence": [
+                {
+                  "startUid": "u2141",
+                  "endUid": "u2166"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "turn",
+              "summary": "Dashes to the Kenku, enlarges for advantage on Strength, and uses Action Surge to break the conscious Kenku’s coral restraints. Carries that prisoner upward twenty feet, hovering over the coral with reach to protect the others.",
+              "evidence": [
+                {
+                  "startUid": "u2170",
+                  "endUid": "u2208"
+                }
+              ]
+            },
+            {
+              "actor": "Charmed sailor",
+              "kind": "turn",
+              "summary": "Is explicitly unable to act while incapacitated.",
+              "evidence": [
+                {
+                  "startUid": "u2209",
+                  "endUid": "u2210"
+                }
+              ]
+            },
+            {
+              "actor": "Aboleth tentacle",
+              "kind": "turn",
+              "summary": "Reaches through a floor opening and hits Alimash on 24 for 10. A Constitution save is called; slime creeps over and beneath his armor. Shield Master does not apply to this attack.",
+              "evidence": [
+                {
+                  "startUid": "u2211",
+                  "endUid": "u2228"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves and dashes into the room to the charmed sailor, grabs him and begins dragging him. Quarter swimming speed and the larger captive limit progress to a small distance.",
+              "evidence": [
+                {
+                  "startUid": "u2233",
+                  "endUid": "u2256"
+                }
+              ]
+            },
+            {
+              "actor": "Rufus",
+              "kind": "turn",
+              "summary": "Shoots an awake sailor for 6 plus a bonus-action 6, totaling 12; his second shot misses, leaving that sailor badly wounded.",
+              "evidence": [
+                {
+                  "startUid": "u2257",
+                  "endUid": "u2277"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Artem Novolozek",
+              "kind": "turn",
+              "summary": "Casts Chill Touch at the female sailor Rufus wounded; it does not put her down. Remains in the room above rather than swimming into the hostage chamber.",
+              "evidence": [
+                {
+                  "startUid": "u2278",
+                  "endUid": "u2293"
+                }
+              ]
+            },
+            {
+              "actor": "Wounded female sailor",
+              "kind": "turn",
+              "summary": "Swims up and wakes the shark.",
+              "evidence": [
+                {
+                  "startUid": "u2294",
+                  "endUid": "u2294"
+                }
+              ]
+            },
+            {
+              "actor": "Other awake sailor",
+              "kind": "turn",
+              "summary": "Moves to the sailor Wellby is dragging, contests the hold and shakes him awake.",
+              "evidence": [
+                {
+                  "startUid": "u2296",
+                  "endUid": "u2298"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "turn",
+              "summary": "Moves to the sailor interfering with Wellby. A critical spear hit grants inspiration, followed by another hit that knocks the sailor unconscious nonlethally; he can still breathe. Uses Quick Toss against the newly awakened man instead of the out-of-range woman, hitting on 28 for 12 plus a superiority die. The spear returns to his hand.",
+              "evidence": [
+                {
+                  "startUid": "u2299",
+                  "endUid": "u2348"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "turn",
+              "summary": "Breaks the second Kenku’s coral bonds with an advantaged Strength check. Carries the unconscious prisoner toward the ceiling while telling the conscious prisoner to follow and stay behind him; she questions whether they are being rescued or taken to their deaths, but follows.",
+              "evidence": [
+                {
+                  "startUid": "u2349",
+                  "endUid": "u2366"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and critically hits the remaining nearby male sailor with the vicious shortsword. Despite attempted nonlethal use, the blade cuts a chest wound; the sailor is unconscious and unstable, not dead, and Wellby gains inspiration.",
+              "evidence": [
+                {
+                  "startUid": "u2368",
+                  "endUid": "u2389"
+                }
+              ]
+            },
+            {
+              "actor": "Huge shark",
+              "kind": "turn",
+              "summary": "Swims toward Shoal but is stopped ten feet away by his Sentinel hit; opens its mouth before the blast of cold from within.",
+              "evidence": [
+                {
+                  "startUid": "u2391",
+                  "endUid": "u2412"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "reaction",
+              "summary": "Hits the approaching shark with his glaive reaction, stopping its movement.",
+              "evidence": [
+                {
+                  "startUid": "u2395",
+                  "endUid": "u2412"
+                }
+              ]
+            },
+            {
+              "actor": "Mage inside the shark",
+              "kind": "turn",
+              "summary": "Casts the cold blast from the shark’s mouth. Shoal takes 38 cold damage after a Constitution save is called. Both Kenku make their saves with advantage for sheltering behind him; both survive, but the previously conscious one falls unconscious. The initial statement that Shoal notices the mage is withdrawn.",
+              "evidence": [
+                {
+                  "startUid": "u2400",
+                  "endUid": "u2437"
+                }
+              ]
+            },
+            {
+              "actor": "Aboleth tentacle",
+              "kind": "turn",
+              "summary": "Hits Wellby on 27 for 11 and calls for a Constitution save; slime begins coating him as it has Alimash.",
+              "evidence": [
+                {
+                  "startUid": "u2438",
+                  "endUid": "u2448"
+                }
+              ]
+            },
+            {
+              "actor": "Rufus",
+              "kind": "turn",
+              "summary": "Fires another luring arrow to draw the shark away from the rescue route, but its save succeeds and the lure has no effect.",
+              "evidence": [
+                {
+                  "startUid": "u2449",
+                  "endUid": "u2456"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Artem Novolozek",
+              "kind": "turn",
+              "summary": "Casts fourth-level Polymorph on the shark after its Wisdom-save resolution. The initial sea slug is corrected to a turtle; the transformation exposes the mage formerly hidden in its mouth.",
+              "evidence": [
+                {
+                  "startUid": "u2458",
+                  "endUid": "u2487"
+                }
+              ]
+            },
+            {
+              "actor": "Female sailor",
+              "kind": "turn",
+              "summary": "Chases and attacks the turtle with her rapier: first hit wounds it, second misses with disadvantage from Alimash’s protection. It remains alive with 3 hit points. Shoal has no reaction left for her movement.",
+              "evidence": [
+                {
+                  "startUid": "u2485",
+                  "endUid": "u2509"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "reaction",
+              "summary": "Uses shield protection on the turtle, imposing disadvantage on the sailor’s second rapier attack and causing a miss.",
+              "evidence": [
+                {
+                  "startUid": "u2503",
+                  "endUid": "u2505"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "turn",
+              "summary": "Knocks the female sailor unconscious with a hit. Abandons the proposed body relocation to close on the mage instead: 11 misses, then Lucky rerolls to 15, which Shield deflects.",
+              "evidence": [
+                {
+                  "startUid": "u2510",
+                  "endUid": "u2534"
+                }
+              ]
+            },
+            {
+              "actor": "Mage",
+              "kind": "reaction",
+              "summary": "Uses Shield to deflect Alimash’s rerolled attack.",
+              "evidence": [
+                {
+                  "startUid": "u2527",
+                  "endUid": "u2532"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "turn",
+              "summary": "Moves along the ceiling and pushes both unconscious Kenku through the stopped blades to the upper room.",
+              "evidence": [
+                {
+                  "startUid": "u2536",
+                  "endUid": "u2551"
+                }
+              ]
+            },
+            {
+              "actor": "Mage",
+              "kind": "turn",
+              "summary": "Attempts fourth-level Greater Invisibility, which Artem’s Counterspell prevents.",
+              "evidence": [
+                {
+                  "startUid": "u2552",
+                  "endUid": "u2562"
+                }
+              ]
+            },
+            {
+              "actor": "Artem Novolozek",
+              "kind": "reaction",
+              "summary": "Counterspells the mage’s Greater Invisibility using his ring; the spell does not take effect.",
+              "evidence": [
+                {
+                  "startUid": "u2552",
+                  "endUid": "u2562"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and shoots the mage with a light crossbow for 29, leaving her badly hurt.",
+              "evidence": [
+                {
+                  "startUid": "u2563",
+                  "endUid": "u2572"
+                }
+              ]
+            },
+            {
+              "actor": "Polymorphed shark",
+              "kind": "turn",
+              "summary": "Swims away in turtle form.",
+              "evidence": [
+                {
+                  "startUid": "u2573",
+                  "endUid": "u2577"
+                }
+              ]
+            },
+            {
+              "actor": "Aboleth tentacle",
+              "kind": "turn",
+              "summary": "Reaches up at Wellby again, hitting on 21 for 12 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2573",
+                  "endUid": "u2579"
+                }
+              ]
+            },
+            {
+              "actor": "Rufus",
+              "kind": "turn",
+              "summary": "Shoots at the mage: a natural 1 misses and an 18 is blocked by her renewed Shield.",
+              "evidence": [
+                {
+                  "startUid": "u2582",
+                  "endUid": "u2597"
+                }
+              ]
+            },
+            {
+              "actor": "Mage",
+              "kind": "reaction",
+              "summary": "Casts Shield against Rufus’s second shot, causing it to miss.",
+              "evidence": [
+                {
+                  "startUid": "u2589",
+                  "endUid": "u2595"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Artem Novolozek",
+              "kind": "turn",
+              "summary": "Withdraws Magic Missile when reminded Shield would block it; casts Chill Touch instead, hitting but leaving the mage standing.",
+              "evidence": [
+                {
+                  "startUid": "u2598",
+                  "endUid": "u2611"
+                }
+              ]
+            },
+            {
+              "actor": "Bleeding sailor",
+              "kind": "turn",
+              "summary": "Fails a death saving throw and continues bleeding out.",
+              "evidence": [
+                {
+                  "startUid": "u2612",
+                  "endUid": "u2616"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "turn",
+              "summary": "Attacks the mage twice; both miss while Shield remains active. Holds his position.",
+              "evidence": [
+                {
+                  "startUid": "u2617",
+                  "endUid": "u2627"
+                }
+              ]
+            },
+            {
+              "actor": "Mage",
+              "kind": "turn",
+              "summary": "The proposed Fireball is changed to invisibility to avoid ending the turtle transformation. Counterspells Artem’s Counterspell, then vanishes; no Fireball damage occurs.",
+              "evidence": [
+                {
+                  "startUid": "u2632",
+                  "endUid": "u2649"
+                }
+              ]
+            },
+            {
+              "actor": "Artem Novolozek",
+              "kind": "reaction",
+              "summary": "Attempts Counterspell on the mage’s spell, but her Counterspell defeats his; the revised invisibility takes effect.",
+              "evidence": [
+                {
+                  "startUid": "u2633",
+                  "endUid": "u2649"
+                }
+              ]
+            },
+            {
+              "actor": "Artem Novolozek",
+              "kind": "turn",
+              "summary": "Casts See Invisibility and identifies the mage beside the lower grate, warning the others to stop her.",
+              "evidence": [
+                {
+                  "startUid": "u2657",
+                  "endUid": "u2659"
+                },
+                {
+                  "startUid": "u2672",
+                  "endUid": "u2675"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Makes a Medicine check and stabilizes the wounded sailor; the others remain unconscious. Moves ten feet up from the floor.",
+              "evidence": [
+                {
+                  "startUid": "u2660",
+                  "endUid": "u2668"
+                }
+              ]
+            },
+            {
+              "actor": "Rufus",
+              "kind": "turn",
+              "summary": "Catches the turtle and pushes it through the stopped turbine into the upper room.",
+              "evidence": [
+                {
+                  "startUid": "u2667",
+                  "endUid": "u2671"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Alimash",
+              "kind": "turn",
+              "summary": "Moves in front of the lower hatch and attacks the invisible mage twice with disadvantage. Apparent hits are corrected to two misses. Shield-shoves her five feet away from the hatch.",
+              "evidence": [
+                {
+                  "startUid": "u2676",
+                  "endUid": "u2695"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "turn",
+              "summary": "Pulls the two unconscious Kenku back down to avoid leaving them with the turtle, then drops to the grate. His glaive attacks and bonus attack at the invisible mage all miss with disadvantage.",
+              "evidence": [
+                {
+                  "startUid": "u2696",
+                  "endUid": "u2717"
+                }
+              ]
+            },
+            {
+              "actor": "Mage",
+              "kind": "turn",
+              "summary": "Casts Magic Missile at Artem; his Shield blocks it completely. The joking suggestion of replacing it with Chill Touch is not adopted.",
+              "evidence": [
+                {
+                  "startUid": "u2718",
+                  "endUid": "u2724"
+                }
+              ]
+            },
+            {
+              "actor": "Artem Novolozek",
+              "kind": "reaction",
+              "summary": "Casts Shield in response to Magic Missile, preventing all its damage.",
+              "evidence": [
+                {
+                  "startUid": "u2718",
+                  "endUid": "u2721"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim to cancel invisibility disadvantage on a crossbow shot. The apparent hit misses when the mage spends a second-level slot on Shield.",
+              "evidence": [
+                {
+                  "startUid": "u2725",
+                  "endUid": "u2736"
+                }
+              ]
+            },
+            {
+              "actor": "Mage",
+              "kind": "reaction",
+              "summary": "Uses a second-level slot for Shield, blocking Wellby’s shot.",
+              "evidence": [
+                {
+                  "startUid": "u2732",
+                  "endUid": "u2736"
+                }
+              ]
+            },
+            {
+              "actor": "Rufus",
+              "kind": "turn",
+              "summary": "Shoots twice with disadvantage. The first misses; the second hits on 25 and drops the mage, ending her invisibility concentration.",
+              "evidence": [
+                {
+                  "startUid": "u2738",
+                  "endUid": "u2747"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The mage is down and visible again. All three sailors are unconscious, with the bleeding one stabilized. Both Kenku have been freed but are unconscious and have been pulled back into the hostage chamber. The shark remains a living turtle in the turbine room above; removal to the open ocean is handled afterward.",
+        "evidence": [
+          {
+            "startUid": "u2661",
+            "endUid": "u2671"
+          },
+          {
+            "startUid": "u2696",
+            "endUid": "u2702"
+          },
+          {
+            "startUid": "u2738",
+            "endUid": "u2749"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c003",
+      "segmentId": "s016",
+      "encounter": "Aboleth and charmed sea-elf knights",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Rufus",
+              "kind": "turn",
+              "summary": "Drops into the lower cavern, designates the aboleth as Slayer’s Prey and hits twice on 24 and 29. Proposed Nature’s Veil is explicitly canceled because the bonus action is already spent.",
+              "evidence": [
+                {
+                  "startUid": "u2895",
+                  "endUid": "u2929"
+                }
+              ],
+              "note": "Later narration treats Rufus as invisible without establishing another activation; the attack resolutions are retained as played."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves to a firing position near the ceiling and hits the aboleth on 17 for 29 damage. The creature initially appears unaffected.",
+              "evidence": [
+                {
+                  "startUid": "u2930",
+                  "endUid": "u2944"
+                }
+              ]
+            },
+            {
+              "actor": "Aboleth",
+              "kind": "event",
+              "summary": "Draws energy from a sea-elf knight after Wellby’s turn, wounding that knight to heal itself.",
+              "evidence": [
+                {
+                  "startUid": "u2945",
+                  "endUid": "u2949"
+                }
+              ]
+            },
+            {
+              "actor": "Aboleth",
+              "kind": "turn",
+              "summary": "Swims up toward Rufus and attacks with tentacles at disadvantage. Two hit for 16 and 12, totaling 28 damage. The other three PCs have not yet dropped into the room.",
+              "evidence": [
+                {
+                  "startUid": "u2950",
+                  "endUid": "u2978"
+                }
+              ]
+            },
+            {
+              "actor": "Artem Novolozek",
+              "kind": "turn",
+              "summary": "Casts Synaptic Static at all four enemies, DC 17 Intelligence. The aboleth saves for half, 12; one sea elf also saves for 12. Two fail for 24 each and suffer −1d6 on attacks, ability checks and concentration saves.",
+              "evidence": [
+                {
+                  "startUid": "u2979",
+                  "endUid": "u3003"
+                }
+              ]
+            },
+            {
+              "actor": "Aboleth",
+              "kind": "legendary_action",
+              "summary": "Uses a legendary tail attack against Rufus at disadvantage, hitting for 18. Rufus fails a Constitution concentration save and loses Protection from Good and Evil, previously cast on Artem.",
+              "evidence": [
+                {
+                  "startUid": "u3006",
+                  "endUid": "u3019"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "turn",
+              "summary": "Drops into melee with the aboleth and attacks four times using Action Surge: three hits and one miss. Distracting Strike adds a superiority die and grants the next other attacker advantage.",
+              "evidence": [
+                {
+                  "startUid": "u3020",
+                  "endUid": "u3050"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "turn",
+              "summary": "Drops into reach and activates the storm glaive. The advantaged first attack critically hits, the second also hits, and a bonus lightning attack hits on 18 for 4d6 lightning. Enlargement damage is added; no complete total is supplied.",
+              "evidence": [
+                {
+                  "startUid": "u3051",
+                  "endUid": "u3071"
+                }
+              ]
+            },
+            {
+              "actor": "Aboleth",
+              "kind": "legendary_action",
+              "summary": "Makes another legendary tail attack against Rufus; Alimash’s protection imposes disadvantage and it misses.",
+              "evidence": [
+                {
+                  "startUid": "u3073",
+                  "endUid": "u3079"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "reaction",
+              "summary": "Uses shield protection on Rufus against the legendary tail attack, causing the miss.",
+              "evidence": [
+                {
+                  "startUid": "u3076",
+                  "endUid": "u3079"
+                }
+              ]
+            },
+            {
+              "actor": "Sea-elf knights",
+              "kind": "turn",
+              "summary": "Move in to surround Shoal. One is stopped at reach by Sentinel and throws a spear, missing on a natural 1. The other two make three spear attacks each; resolved hits deal 8, a critical 12 and another 6 to Shoal. Synaptic Static penalties are applied without negating criticals. One affected elf succeeds on its end-of-turn Intelligence save, while one remains affected.",
+              "evidence": [
+                {
+                  "startUid": "u3080",
+                  "endUid": "u3116"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "reaction",
+              "summary": "Uses a Sentinel reaction on an approaching sea elf; the critical hit stops that knight away from melee.",
+              "evidence": [
+                {
+                  "startUid": "u3081",
+                  "endUid": "u3086"
+                }
+              ]
+            },
+            {
+              "actor": "Aboleth",
+              "kind": "legendary_action",
+              "summary": "Uses a legendary tail attack against Rufus, hitting on 21 for 19 damage.",
+              "evidence": [
+                {
+                  "startUid": "u3117",
+                  "endUid": "u3123"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Rufus",
+              "kind": "turn",
+              "summary": "Retreats, provoking a tentacle hit, then casts Hunter’s Mark and hits the aboleth twice. The critical deals 26 and the other hit 14, totaling 40 with the stated extra damage dice.",
+              "evidence": [
+                {
+                  "startUid": "u3124",
+                  "endUid": "u3146"
+                }
+              ]
+            },
+            {
+              "actor": "Aboleth",
+              "kind": "reaction",
+              "summary": "Uses its reaction to hit retreating Rufus with a tentacle; damage is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u3124",
+                  "endUid": "u3136"
+                }
+              ]
+            },
+            {
+              "actor": "Aboleth",
+              "kind": "legendary_action",
+              "summary": "Uses a legendary action to drain the distant sea elf and regain health, leaving that elf badly wounded.",
+              "evidence": [
+                {
+                  "startUid": "u3137",
+                  "endUid": "u3147"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Attacks while described as invisible, hitting on 18 for 23 regular damage and 9 fire; underwater fire resistance reduces the fire to 4.",
+              "evidence": [
+                {
+                  "startUid": "u3148",
+                  "endUid": "u3156"
+                }
+              ]
+            },
+            {
+              "actor": "Aboleth",
+              "kind": "turn",
+              "summary": "Attempts to enslave Alimash with a Wisdom save. He initially fails, then succeeds using Indomitable with advantage from the table-accepted donated inspiration. The DM subsequently says the inspiration remains available.",
+              "evidence": [
+                {
+                  "startUid": "u3157",
+                  "endUid": "u3173"
+                }
+              ]
+            },
+            {
+              "actor": "Coral apparition",
+              "kind": "event",
+              "summary": "Shows Shoal an underwater elven village and his beloved Gwendolyn beckoning. A Wisdom save is requested, but he is told movement is optional; his own decision roll leads him to resist and stay.",
+              "evidence": [
+                {
+                  "startUid": "u3174",
+                  "endUid": "u3186"
+                }
+              ]
+            },
+            {
+              "actor": "Artem Novolozek",
+              "kind": "turn",
+              "summary": "Moves into the lower room to line up fourth-level Lightning Bolt, DC 17 Dexterity, on the aboleth and one melee sea elf. The aboleth fails; accepted damage is 27 plus 5 force from Power Surge (32 total) to it, and 27 to the elf.",
+              "evidence": [
+                {
+                  "startUid": "u3188",
+                  "endUid": "u3219"
+                }
+              ]
+            },
+            {
+              "actor": "Aboleth",
+              "kind": "legendary_action",
+              "summary": "Uses a legendary tail attack against Artem, rolling 19; Shield causes it to miss.",
+              "evidence": [
+                {
+                  "startUid": "u3220",
+                  "endUid": "u3232"
+                }
+              ]
+            },
+            {
+              "actor": "Artem Novolozek",
+              "kind": "reaction",
+              "summary": "Casts Shield from his ring against the tail. His Shield AC is initially called 20, later corrected to 22 while concentrating.",
+              "evidence": [
+                {
+                  "startUid": "u3225",
+                  "endUid": "u3232"
+                },
+                {
+                  "startUid": "u3242",
+                  "endUid": "u3249"
+                }
+              ]
+            },
+            {
+              "actor": "Alimash",
+              "kind": "turn",
+              "summary": "Misses both attacks at the aboleth. Considers throwing his spear at a wounded elf but abandons the bonus maneuver and stays in place.",
+              "evidence": [
+                {
+                  "startUid": "u3235",
+                  "endUid": "u3249"
+                }
+              ]
+            },
+            {
+              "actor": "Aboleth",
+              "kind": "legendary_action",
+              "summary": "Makes a second legendary tail attack at Artem; another 19 misses his Shield AC.",
+              "evidence": [
+                {
+                  "startUid": "u3251",
+                  "endUid": "u3254"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "turn",
+              "summary": "Swims up to reach the aboleth, accepting opportunity attacks from two sea elves without spoken resolutions. His attacks miss, including the −5 attack with inspiration/advantage and the lightning attack that misses on 16.",
+              "evidence": [
+                {
+                  "startUid": "u3256",
+                  "endUid": "u3270"
+                }
+              ]
+            },
+            {
+              "actor": "Sea-elf knights",
+              "kind": "turn",
+              "summary": "Swim upward after Shoal. The badly wounded knight dashes and is knocked unconscious by his nonlethal Sentinel hit. The other two stab Shoal for an accepted total of 21; the spoken hit count is inconsistent.",
+              "evidence": [
+                {
+                  "startUid": "u3269",
+                  "endUid": "u3287"
+                }
+              ]
+            },
+            {
+              "actor": "Shoal",
+              "kind": "reaction",
+              "summary": "Hits the badly wounded approaching sea elf for 14, declaring nonlethal damage and knocking that knight unconscious.",
+              "evidence": [
+                {
+                  "startUid": "u3271",
+                  "endUid": "u3278"
+                }
+              ]
+            },
+            {
+              "actor": "Coral apparition",
+              "kind": "event",
+              "summary": "Shows Artem Medju, a rich lord and a familiar blue-skinned djinn offering a wish. Artem succeeds on the Wisdom save and refuses to approach the illusion.",
+              "evidence": [
+                {
+                  "startUid": "u3288",
+                  "endUid": "u3304"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Rufus",
+              "kind": "turn",
+              "summary": "Starts beside the coral wall, which reaches around him for 35 psychic damage. Falls unconscious and takes no further action.",
+              "evidence": [
+                {
+                  "startUid": "u3305",
+                  "endUid": "u3315"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Hits the aboleth with another arrow for 29; it is badly wounded but alive.",
+              "evidence": [
+                {
+                  "startUid": "u3316",
+                  "endUid": "u3320"
+                }
+              ]
+            },
+            {
+              "actor": "Aboleth",
+              "kind": "legendary_action",
+              "summary": "Lacks enough remaining legendary actions to heal and instead tail-swipes Artem. A 19 misses his still-active Shield AC of 22.",
+              "evidence": [
+                {
+                  "startUid": "u3321",
+                  "endUid": "u3329"
+                }
+              ]
+            },
+            {
+              "actor": "Aboleth",
+              "kind": "turn",
+              "summary": "Attempts to enslave Alimash again. His Wisdom save fails despite using his last Lucky reroll; he is ordered to kill Artem, but cannot attack before his own turn. The aboleth remains in place to avoid Shoal’s opportunity attack.",
+              "evidence": [
+                {
+                  "startUid": "u3325",
+                  "endUid": "u3340"
+                }
+              ]
+            },
+            {
+              "actor": "Artem Novolozek",
+              "kind": "turn",
+              "summary": "Casts fifth-level Lightning Bolt. The aboleth fails its Dexterity save; 46 damage is spoken, followed by an unfinished “plus five” qualification. The lightning kills it before Alimash can attack Artem.",
+              "evidence": [
+                {
+                  "startUid": "u3341",
+                  "endUid": "u3355"
+                }
+              ]
+            },
+            {
+              "actor": "Freed enchantments",
+              "kind": "event",
+              "summary": "The aboleth’s death releases Alimash and the two still-charmed sea elves, who awaken disoriented and apparently unaware of their attacks. Rufus remains unconscious and dying; the DM says he can be reached and treated with Medicine.",
+              "evidence": [
+                {
+                  "startUid": "u3353",
+                  "endUid": "u3362"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Artem’s Lightning Bolt kills the aboleth before enslaved Alimash can attack him. Alimash and the two conscious sea elves are released from its control; another elf was knocked out nonlethally. Rufus is still dying, with treatment stated to be readily possible but not played out. The crystal’s prisoner and treasure remain unresolved at the cutoff.",
+        "evidence": [
+          {
+            "startUid": "u3341",
+            "endUid": "u3362"
+          }
+        ]
+      }
+    }
+  ]
+}
