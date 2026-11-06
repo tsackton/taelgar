@@ -1,0 +1,958 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "mawar-adventures-005",
+    "sessionYaml": "_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-session.yaml",
+    "sessionYamlSha256": "1a824854694ef5bce2cf70bf0bd081f73caef7c1753e8e66b5d9c9a26bed6ec3",
+    "transcriptPath": "_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-transcript.md",
+    "transcriptSha256": "a83dfba01c720887eae3320ccaeacb5db030db3efffbbff9b502e70e1c3f5430"
+  },
+  "places": {
+    "p01": {
+      "label": "Mawar Confederacy",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0012",
+          "quote": "cliffs of the coast of the Mawar Confederacy"
+        }
+      ],
+      "vaultPath": "Gazetteer/Northwest Coast/Mawar Confederacy/Mawar Confederacy.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p14",
+          "evidence": [
+            {
+              "startUid": "u0074",
+              "endUid": "u0082",
+              "quote": "the Mawakel Peninsula, which is where the Mawar Confederacy is"
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "Hamri",
+      "kind": "town",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0012",
+          "quote": "we start… in the port town of Hamri."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0050",
+              "endUid": "u0057",
+              "quote": "in… the Mawar Confederacy in Hamri"
+            }
+          ]
+        }
+      ],
+      "vaultPath": "Gazetteer/Northwest Coast/Mawar Confederacy/Hamri.md"
+    },
+    "p03": {
+      "label": "Leviathan Inn",
+      "kind": "inn",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0012",
+          "quote": "the substantial multi-story building of the Leviathan Inn. Owned and run by Wazir."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0003",
+              "endUid": "u0012",
+              "quote": "DM: Okay, so… Does everybody remember Mawar? So we… we start… in the port town of Hamri. Which is… a multi-layered town. You wouldn't really call it a city, it's not big enough. Nestled… among the cliffs of the coast of the Mawar Confederacy. So, along the… tidal flats of this large bay. There's the… shanty town built out over marshes that floods when there's storms, and then some docks and piers, some built of stone. Sturdier, higher above the water, dominated at least in one part, by the substantial multi-story building of the Leviathan Inn. Owned and run by Wazir."
+            }
+          ]
+        }
+      ],
+      "vaultPath": "Gazetteer/Northwest Coast/Mawar Confederacy/Leviathan Inn.md"
+    },
+    "p04": {
+      "label": "North Cliffs",
+      "kind": "coastal cliffs",
+      "evidence": [
+        {
+          "startUid": "u0654",
+          "endUid": "u0663",
+          "quote": "DM: It takes you an hour or so to get out to this area of the cliff, and, you know, now that you're looking for it, you've… Ryu's been past this part of the cliff a bunch of times, and, you know, you're… you're normally pretty… You're normally pretty observant, and you've noticed, like, this is an area of the cliff that's fairly… you know, there's sort of rocks that tumble down, it's, like, kind of, you know, looks a little bit unstable. It's actually further… so the north cliff is, like, this curving cliff on which there's a bunch of these towers to the north of… on the north coast of the port, but then as you go north of the towers, the cliff is, like, much more collapsing. And so people don't build their towers here because it's a bit risky. So this is, like, just on the edge of that area. And you've been here a bunch, but it's, like, a lot of just, kind of, scattered… falling cliffs, so… So you haven't paid too much attention. But now that you're looking for a cave, go ahead and make a… survival check with advantage. Soon."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0654",
+              "endUid": "u0663",
+              "quote": "on the north coast of the port"
+            }
+          ]
+        }
+      ],
+      "note": "The transcript’s northern cliff area identifies North Cliffs. The canonical North Cliffs note places them outside Hamri proper; locality does not assert municipal containment.",
+      "vaultPath": "Gazetteer/Northwest Coast/Mawar Confederacy/North Cliffs.md"
+    },
+    "p05": {
+      "label": "Sea cave containing Guzo’s shrine",
+      "kind": "cave",
+      "evidence": [
+        {
+          "startUid": "u0794",
+          "endUid": "u0801",
+          "quote": "you surface into a cave."
+        },
+        {
+          "startUid": "u0485",
+          "endUid": "u0492",
+          "quote": "a shrine built to Guzo in one of the… the sea caves on the North Cliff."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0485",
+              "endUid": "u0492",
+              "quote": "a shrine built to Guzo in one of the… the sea caves on the North Cliff."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "White sandy beach",
+      "kind": "beach",
+      "evidence": [
+        {
+          "startUid": "u0794",
+          "endUid": "u0801",
+          "quote": "there's a sandy beach. There’s a blue glow."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0794",
+              "endUid": "u0801",
+              "quote": "DM: Very quickly, like, so you have to swim underwater a bit to get to the hole, but then you surface into a cave. There's a long channel that goes maybe… 20 feet, occasionally strewn with rubble, maybe 30 feet, and sort of twists slightly. The… And then, it gets shallow, it gets… too shallow for Turk to swim any further. But Turk… but you can see through Turk's eyes that there's a sandy beach. There’s a blue glow. And there are, like, white… there's, like, a white building up on the sandy beach. There are also maybe…"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Shrine to Guzo the Mariner",
+      "kind": "temple",
+      "evidence": [
+        {
+          "startUid": "u0773",
+          "endUid": "u0778",
+          "quote": "a shrine had been built"
+        },
+        {
+          "startUid": "u0830",
+          "endUid": "u0835",
+          "quote": "DM: But there's, like… the temple itself is, like, a big building made of white marble. It maybe once had two stories, but… The second story is sort of not intact anymore, although the roof to the first story is intact. And… but all you can really see is, like, the sort of first entry area thing, I mean, you can't see anything inside the… you can't see anything inside the, inside the temple. Well…"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0794",
+              "endUid": "u0801",
+              "quote": "DM: Very quickly, like, so you have to swim underwater a bit to get to the hole, but then you surface into a cave. There's a long channel that goes maybe… 20 feet, occasionally strewn with rubble, maybe 30 feet, and sort of twists slightly. The… And then, it gets shallow, it gets… too shallow for Turk to swim any further. But Turk… but you can see through Turk's eyes that there's a sandy beach. There’s a blue glow. And there are, like, white… there's, like, a white building up on the sandy beach. There are also maybe…"
+            }
+          ]
+        },
+        {
+          "relation": "on",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0794",
+              "endUid": "u0801",
+              "quote": "there's, like, a white building up on the sandy beach."
+            }
+          ]
+        }
+      ],
+      "vaultPath": "Gazetteer/Northwest Coast/Mawar Confederacy/Shrine to Guzo the Mariner.md"
+    },
+    "p08": {
+      "label": "Main temple room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1046",
+          "endUid": "u1050",
+          "quote": "DM: Okay, so… The main temple area… has, has 3 key features. So, you see in the middle this statue of, of… of Guzo, exactly as… Trok drew from Rayna's description. In front of the statue is an altar set low to the ground that seems to be the source of this glowing blue light that's spreading, and the light's almost, like, trickling like mist, so it, like, flows down the steps, and it dribbles into the water, and it infuses the water, causing it to glow."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1046",
+              "endUid": "u1050",
+              "quote": "DM: Okay, so… The main temple area… has, has 3 key features. So, you see in the middle this statue of, of… of Guzo, exactly as… Trok drew from Rayna's description. In front of the statue is an altar set low to the ground that seems to be the source of this glowing blue light that's spreading, and the light's almost, like, trickling like mist, so it, like, flows down the steps, and it dribbles into the water, and it infuses the water, causing it to glow."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Side chapel",
+      "kind": "chapel",
+      "evidence": [
+        {
+          "startUid": "u1122",
+          "endUid": "u1127",
+          "quote": "DM: So, you push open this door into the… into the side passage. This is a… this is a chapel. There’s beautiful stained glass windows that are still intact. But… There doesn't see… there's not… there's not much in the room. There seems to have been water, like, the floor… the floor was once also, like, beautiful tiles and stuff, but it seems to have been cracked by, like… it's possible that in high tide, like, the waves probably are washing over the floor of this temple. And the floor of the chapel, despite the intact windows, looks like it's been, you know, water damaged. But you can, like, search around, you might… you never know what you might find."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1072",
+              "endUid": "u1079",
+              "quote": "there's a door over here that leads into a side chapel."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Chamber behind the secret door",
+      "kind": "chamber",
+      "evidence": [
+        {
+          "startUid": "u1295",
+          "endUid": "u1307",
+          "quote": "DM: Behind… so in the… Oh… oh boy. So, the… this secret door opens a… it slides open, and you can see that there's a chamber, behind it. The blue light is more intense in here. And standing, like, holding this crystal, but seemingly, like, unable to move is… large… watery creature with a, like… water elemental, like… their body kind of turns into waves towards the ground. But then, as… forms into arms and a torso covered in, sort of, scales and spines. But as they turn and stare at you. It almost seems, as if their body itself is, like, all made of water, and they're just manifesting this shape on top of the water. They nearly entirely fill this space, but they seem… and again, like I said, the blue light is more intense in here, you can see the crystal. And it's not obvious that this… this creature doesn't move towards you, initially."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1072",
+              "endUid": "u1079",
+              "quote": "DM: In the back, it's like one of those medieval churches where there's, like, a whole bunch of… carvings in the wall, like, people's names and things, and then written in big letters up across the top in a sort of arc are the words in Mawarin: “Kneel and pray Guzo’s ancestor’s prayer to open the passage to the sea.” And then there's a door over here that leads into a side chapel. And the… No. Water creatures are just kind of standing, they, like, move forward, but they don't want to seem to want to get too close to the altar, and they're just kind of standing around a little bit, like… Like, he told us to wait on the beach and went in here and never came out."
+            },
+            {
+              "startUid": "u1295",
+              "endUid": "u1307",
+              "quote": "DM: Behind… so in the… Oh… oh boy. So, the… this secret door opens a… it slides open, and you can see that there's a chamber, behind it. The blue light is more intense in here. And standing, like, holding this crystal, but seemingly, like, unable to move is… large… watery creature with a, like… water elemental, like… their body kind of turns into waves towards the ground. But then, as… forms into arms and a torso covered in, sort of, scales and spines. But as they turn and stare at you. It almost seems, as if their body itself is, like, all made of water, and they're just manifesting this shape on top of the water. They nearly entirely fill this space, but they seem… and again, like I said, the blue light is more intense in here, you can see the crystal. And it's not obvious that this… this creature doesn't move towards you, initially."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Ryu’s sailboat",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u0633",
+          "endUid": "u0637",
+          "quote": "DM: But today, you'll gather… at… wherever dock Ryu stores his little boat at, which probably holds, like, 8 people, or… I mean, it's not a… it's not like a little dinghy, right? But it's not a huge ship, right? So… It's a one-person sailboat that you normally take out with… to fish, but… But it easily holds… all of you, plus… Plus, Rayna. Who is clearly very familiar with boats, and is talking shop with Ryu the whole time, like, preparing to cast off. I don't actually remember of the rest of your characters, if anybody else is. Ander is not really a boat person."
+        }
+      ],
+      "mobile": true
+    },
+    "p12": {
+      "label": "Ryu’s dock",
+      "kind": "dock",
+      "evidence": [
+        {
+          "startUid": "u0633",
+          "endUid": "u0637",
+          "quote": "wherever dock Ryu stores his little boat at"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0625",
+              "endUid": "u0628",
+              "quote": "DM: So the next morning dawns… bright and warm. The storm that was lingering into yesterday morning has now clearly blown past, and the ocean is calm, just a few long, slow rollers still coming in from the aftermath of the storm. That… sun is shining. It's a beautiful day. Dop."
+            },
+            {
+              "startUid": "u0633",
+              "endUid": "u0637",
+              "quote": "DM: But today, you'll gather… at… wherever dock Ryu stores his little boat at, which probably holds, like, 8 people, or… I mean, it's not a… it's not like a little dinghy, right? But it's not a huge ship, right? So… It's a one-person sailboat that you normally take out with… to fish, but… But it easily holds… all of you, plus… Plus, Rayna. Who is clearly very familiar with boats, and is talking shop with Ryu the whole time, like, preparing to cast off. I don't actually remember of the rest of your characters, if anybody else is. Ander is not really a boat person."
+            }
+          ],
+          "note": "The departure follows the Hamri night and breakfast plan; the particular town dock is unnamed."
+        }
+      ]
+    },
+    "p13": {
+      "label": "Omi",
+      "kind": "undersea city",
+      "evidence": [
+        {
+          "startUid": "u2721",
+          "endUid": "u2732",
+          "quote": "DM: And… as you hand it over to her, there's… you all sort of see this… song image in your mind. It's painting a picture of… some… distant, but also close place. Deep in the ocean, surrounded by waving kelp fronds and… people that look like fish swimming, and… giving thanks. They seem to be… rebuilding something, tearing down… structures, and then singing to the kelp as it begins to weave itself into these elaborate… you wouldn't really call them houses, they're like… they're like treehouses beneath the ocean, but, like, branches and things… forming this, like, tangled naturalistic structure with these sort of nests for… for people to… to sleep in, and… the… there's this pulse of longing from the crystal, like… it wants to go home."
+        },
+        {
+          "startUid": "u2739",
+          "endUid": "u2747",
+          "quote": "is the merfolk city of Omi."
+        }
+      ],
+      "note": "Seen through a song image on the boat; the party does not physically visit Omi.",
+      "vaultPath": "Gazetteer/Faraway Places/Omi.md"
+    },
+    "p14": {
+      "label": "Mawakel Peninsula",
+      "kind": "peninsula",
+      "evidence": [
+        {
+          "startUid": "u0074",
+          "endUid": "u0082",
+          "quote": "the Mawakel Peninsula, which is where the Mawar Confederacy is"
+        }
+      ],
+      "vaultPath": "Gazetteer/Northwest Coast/Mawar Confederacy/Mawakel Peninsula.md"
+    },
+    "p15": {
+      "label": "Waters off the collapsed cave",
+      "kind": "coastal waters",
+      "evidence": [
+        {
+          "startUid": "u0649",
+          "endUid": "u0653",
+          "quote": "DM: So it takes you an hour or so, so you leave at, you know, 7.38 in the morning, so you’ll get there on the dropping tide. Takes you an hour or so, to… to get out to the… to the… Sorry, just had to respond to another text."
+        },
+        {
+          "startUid": "u0654",
+          "endUid": "u0663",
+          "quote": "DM: It takes you an hour or so to get out to this area of the cliff, and, you know, now that you're looking for it, you've… Ryu's been past this part of the cliff a bunch of times, and, you know, you're… you're normally pretty… You're normally pretty observant, and you've noticed, like, this is an area of the cliff that's fairly… you know, there's sort of rocks that tumble down, it's, like, kind of, you know, looks a little bit unstable. It's actually further… so the north cliff is, like, this curving cliff on which there's a bunch of these towers to the north of… on the north coast of the port, but then as you go north of the towers, the cliff is, like, much more collapsing. And so people don't build their towers here because it's a bit risky. So this is, like, just on the edge of that area. And you've been here a bunch, but it's, like, a lot of just, kind of, scattered… falling cliffs, so… So you haven't paid too much attention. But now that you're looking for a cave, go ahead and make a… survival check with advantage. Soon."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "offshore_of",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0633",
+              "endUid": "u0637",
+              "quote": "DM: But today, you'll gather… at… wherever dock Ryu stores his little boat at, which probably holds, like, 8 people, or… I mean, it's not a… it's not like a little dinghy, right? But it's not a huge ship, right? So… It's a one-person sailboat that you normally take out with… to fish, but… But it easily holds… all of you, plus… Plus, Rayna. Who is clearly very familiar with boats, and is talking shop with Ryu the whole time, like, preparing to cast off. I don't actually remember of the rest of your characters, if anybody else is. Ander is not really a boat person."
+            },
+            {
+              "startUid": "u0654",
+              "endUid": "u0663",
+              "quote": "DM: It takes you an hour or so to get out to this area of the cliff, and, you know, now that you're looking for it, you've… Ryu's been past this part of the cliff a bunch of times, and, you know, you're… you're normally pretty… You're normally pretty observant, and you've noticed, like, this is an area of the cliff that's fairly… you know, there's sort of rocks that tumble down, it's, like, kind of, you know, looks a little bit unstable. It's actually further… so the north cliff is, like, this curving cliff on which there's a bunch of these towers to the north of… on the north coast of the port, but then as you go north of the towers, the cliff is, like, much more collapsing. And so people don't build their towers here because it's a bit risky. So this is, like, just on the edge of that area. And you've been here a bunch, but it's, like, a lot of just, kind of, scattered… falling cliffs, so… So you haven't paid too much attention. But now that you're looking for a cave, go ahead and make a… survival check with advantage. Soon."
+            },
+            {
+              "startUid": "u0714",
+              "endUid": "u0714",
+              "quote": "DM: So, is somebody diving into the water, climbing on the cliff, using magic?"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0122",
+        "endUid": "u0124"
+      },
+      "actors": [
+        "Ryu",
+        "Trok",
+        "Nerissa",
+        "Ander",
+        "Wazir"
+      ],
+      "reading": "The five adventurers gather in the Leviathan Inn to hear Rayna.",
+      "evidence": [
+        {
+          "startUid": "u0122",
+          "endUid": "u0124",
+          "quote": "DM: And Wazir has summoned you all to the… Leviathan to hear this woman's story. So maybe everybody could just get us back in Mawar, give a… brief or extended, as your mood strikes, your description of your character."
+        },
+        {
+          "startUid": "u0190",
+          "endUid": "u0192",
+          "quote": "As everybody gathers in the Leviathan Inn."
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0239",
+        "endUid": "u0251"
+      },
+      "actors": [
+        "Rayna"
+      ],
+      "reading": "Rayna reports a song vision of a sandy cave, shrine and statue; she has not physically visited the cave.",
+      "evidence": [
+        {
+          "startUid": "u0239",
+          "endUid": "u0251",
+          "quote": "DM: She saw cliffs with towers perched like teeth and a statue of Guzo the Mariner on a white sandy beach. Warm glow… warm glowing blue light filling the space, some kind of cave, maybe? The cliffs in her image look like Hamri, and… Guzo was always associated with Hamri in Caleb's stories, and so she came here. She doesn't know where it is, but she thinks somewhere in the cliffs of… of Hamri. There must be… cave with a white sandy beach and a statue of Guzo. And somewhere inside the cave is something that this song of the ocean wants back. And she would like somebody to find this. And bring it to her. And she… just hopes that you will help."
+        },
+        {
+          "startUid": "u0344",
+          "endUid": "u0344",
+          "quote": "I've never been to Hamri before."
+        },
+        {
+          "startUid": "u0347",
+          "endUid": "u0351",
+          "quote": "DM: It's hard to describe that a song the Ocean sings doesn't communicate by words, it communicates by creating pictures in my mind. And I saw this cave up… there was no sunlight, there was just some blue… warm… enclosing glow from the water that was gently lapping at a sandy beach, and I could see into a shrine built on the beach with a statue of Guzo the Mariner, like, in the shrine."
+        }
+      ],
+      "place": "p05",
+      "mode": "vision",
+      "context": "reported"
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0448",
+        "endUid": "u0449"
+      },
+      "actors": [
+        "Yazran"
+      ],
+      "reading": "The summoned priest joins the ongoing inn meeting.",
+      "evidence": [
+        {
+          "startUid": "u0448",
+          "endUid": "u0449",
+          "quote": "DM: And about half an hour later, he shows up, his name is Yazran. He's like a… middle-aged, or trending towards elderly, like, maybe late 50s, balding, sort of portly guy."
+        },
+        {
+          "startUid": "u0456",
+          "endUid": "u0457",
+          "quote": "DM: Walks in, kind of looks around, “Oh, Wazir, you, you’re asked to speak! Settle some trivia, maybe? A history question at the pub?”"
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u0540",
+        "endUid": "u0550"
+      },
+      "actors": [
+        "Ovina"
+      ],
+      "reading": "Ovina arrives at the inn, eats and shares her recollection.",
+      "evidence": [
+        {
+          "startUid": "u0540",
+          "endUid": "u0550",
+          "quote": "DM: Oh, and this, short, stocky dwarf, wearing, you know, leather apron, hair sort of up in a bun, big thick cloak, kinda stomps into the inn. Like, very muscular, kind of broad facial features, big nose, a bit of a glare, but she looks up and… She sort of smiles when… when she sees you all, and she… she knows you. I mean, she doesn't know Ander, but she knows… Ryu and… Wazir and Trok. She's probably seen you a few times over the past 18 months, although I don't know that Wazir makes much use of her services. But she's happy to be plied with food and drink. She sits down, and she eats for a bit, and takes a big swig of her ale, and then… looks up."
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l05",
+      "type": "presence",
+      "source": {
+        "startUid": "u0633",
+        "endUid": "u0637"
+      },
+      "actors": [
+        "Ryu",
+        "Trok",
+        "Nerissa",
+        "Ander",
+        "Wazir",
+        "Rayna"
+      ],
+      "reading": "The party and Rayna board Ryu’s boat at his dock for departure.",
+      "evidence": [
+        {
+          "startUid": "u0633",
+          "endUid": "u0637",
+          "quote": "DM: But today, you'll gather… at… wherever dock Ryu stores his little boat at, which probably holds, like, 8 people, or… I mean, it's not a… it's not like a little dinghy, right? But it's not a huge ship, right? So… It's a one-person sailboat that you normally take out with… to fish, but… But it easily holds… all of you, plus… Plus, Rayna. Who is clearly very familiar with boats, and is talking shop with Ryu the whole time, like, preparing to cast off. I don't actually remember of the rest of your characters, if anybody else is. Ander is not really a boat person."
+        }
+      ],
+      "place": "p11",
+      "locationContext": [
+        {
+          "subject": "p11",
+          "relation": "moored_at",
+          "target": "p12"
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0649",
+        "endUid": "u0653"
+      },
+      "actors": [
+        "Ryu",
+        "Trok",
+        "Nerissa",
+        "Ander",
+        "Wazir",
+        "Rayna"
+      ],
+      "reading": "Sail about an hour from Hamri’s dock to the collapsed-cave area beyond the North Cliffs towers.",
+      "evidence": [
+        {
+          "startUid": "u0649",
+          "endUid": "u0653",
+          "quote": "DM: So it takes you an hour or so, so you leave at, you know, 7.38 in the morning, so you’ll get there on the dropping tide. Takes you an hour or so, to… to get out to the… to the… Sorry, just had to respond to another text."
+        },
+        {
+          "startUid": "u0654",
+          "endUid": "u0663",
+          "quote": "DM: It takes you an hour or so to get out to this area of the cliff, and, you know, now that you're looking for it, you've… Ryu's been past this part of the cliff a bunch of times, and, you know, you're… you're normally pretty… You're normally pretty observant, and you've noticed, like, this is an area of the cliff that's fairly… you know, there's sort of rocks that tumble down, it's, like, kind of, you know, looks a little bit unstable. It's actually further… so the north cliff is, like, this curving cliff on which there's a bunch of these towers to the north of… on the north coast of the port, but then as you go north of the towers, the cliff is, like, much more collapsing. And so people don't build their towers here because it's a bit risky. So this is, like, just on the edge of that area. And you've been here a bunch, but it's, like, a lot of just, kind of, scattered… falling cliffs, so… So you haven't paid too much attention. But now that you're looking for a cave, go ahead and make a… survival check with advantage. Soon."
+        }
+      ],
+      "from": "p12",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "sail",
+      "vehicle": "p11",
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated actual sailing duration"
+      },
+      "route": [
+        {
+          "reading": "Past the northern line of towers to the unstable cliff area."
+        }
+      ],
+      "locationContext": [
+        {
+          "subject": "p11",
+          "relation": "offshore_of",
+          "target": "p04"
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0767",
+        "endUid": "u0771"
+      },
+      "actors": [
+        "Turk",
+        "Wazir’s mechanical fish"
+      ],
+      "reading": "The scouts dive through a magically cleared underwater gap and surface inside the cave channel; Turk stops where it becomes too shallow.",
+      "evidence": [
+        {
+          "startUid": "u0767",
+          "endUid": "u0771",
+          "quote": "DM: Okay, so, Turk, carrying Ryu's… senses… dives underwater, as does this mechanical fish. Kate, just to catch you up. You saw the little backstory stuff that I sent you. So… the party talked to a bunch of people around… well, a couple of people around town, and found the location of this cave where the… frozen song is."
+        },
+        {
+          "startUid": "u0779",
+          "endUid": "u0785",
+          "quote": "DM: So, as Turk dives down and the mechanical fish that Wazir has created dives down, it is immediately obvious that something has disturbed this. There is, like, a clean hole, like… 15-foot diameter, that’s a… punch through the rubble underneath the surface of the water, opening up a obvious passageway into the cave. This looks like somebody took, like, a super powerful 15-foot-wide diameter fire hose, and just… aimed it straight at the rock, and it just blasted away the rubble, like, shearing it clean."
+        },
+        {
+          "startUid": "u0794",
+          "endUid": "u0801",
+          "quote": "DM: Very quickly, like, so you have to swim underwater a bit to get to the hole, but then you surface into a cave. There's a long channel that goes maybe… 20 feet, occasionally strewn with rubble, maybe 30 feet, and sort of twists slightly. The… And then, it gets shallow, it gets… too shallow for Turk to swim any further. But Turk… but you can see through Turk's eyes that there's a sandy beach. There’s a blue glow. And there are, like, white… there's, like, a white building up on the sandy beach. There are also maybe…"
+        }
+      ],
+      "from": "p11",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "swim",
+      "route": [
+        {
+          "reading": "Through the 15-foot-diameter gap beneath the rubble, then a twisting channel of roughly 20–30 feet."
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u0794",
+        "endUid": "u0801"
+      },
+      "actors": [
+        "Ryu"
+      ],
+      "reading": "Through Turk’s senses, Ryu sees the glowing beach, ruined white temple and waiting water creatures while remaining on the boat.",
+      "evidence": [
+        {
+          "startUid": "u0764",
+          "endUid": "u0765",
+          "quote": "DM: Okay, and you, by the way, if you want to take 10 minutes, you have the, like, beast sense ability that… that Welby would sometimes use, where you can… It's a spell, but you can cast it as a ritual by just taking 10 minutes to prepare, where you can, like, mind meld with your… with Turk and see what he sees for what… for an hour."
+        },
+        {
+          "startUid": "u0794",
+          "endUid": "u0801",
+          "quote": "DM: Very quickly, like, so you have to swim underwater a bit to get to the hole, but then you surface into a cave. There's a long channel that goes maybe… 20 feet, occasionally strewn with rubble, maybe 30 feet, and sort of twists slightly. The… And then, it gets shallow, it gets… too shallow for Turk to swim any further. But Turk… but you can see through Turk's eyes that there's a sandy beach. There’s a blue glow. And there are, like, white… there's, like, a white building up on the sandy beach. There are also maybe…"
+        },
+        {
+          "startUid": "u0805",
+          "endUid": "u0812",
+          "quote": "DM: But, you can see, maybe… Maybe a half-dozen creatures of some sort loitering around on the beach. They’re… they’re… they look like they're almost, sort of, watery… vaguely frog-like amphibian-ous things, but, like, made of water. Like, their… their bodies are, like, constantly shimmering and shifting in this blue light, and their heads are sort of… solidified into this, you know, they've got, like, teeth of water and, like, sort of horns, but everything is… they're basically creatures made of water. They don't seem to have paid much attention to Turk, they're just kind of lounging a bit carelessly around."
+        }
+      ],
+      "place": "p06",
+      "observerPlace": "p11",
+      "mode": "remote"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0874",
+        "endUid": "u0886"
+      },
+      "actors": [
+        "Ryu",
+        "Trok",
+        "Nerissa",
+        "Ander",
+        "Wazir"
+      ],
+      "reading": "Swim through the submerged entrance into the wadeable cave approach and reach the beach for the exchange with the water creatures.",
+      "evidence": [
+        {
+          "startUid": "u0874",
+          "endUid": "u0886",
+          "quote": "DM: We shouldn't try to model realism here. But… Trok has Mariner armor, which, lets him… swim… easily. It gives them a, I think Ander's, like, beefy enough. Plus, actually, the water, once you get through the sort of tunnel. About 20 feet before the… before the… I lost my… About 20 feet before the beach starts, the… the water is… is, like, wadeable, right? So, like, sort of where the map starts is where the water is wadeable. But go ahead and make an athletics check, just, you know… out of interest. With advantage, because… Why do you have advantage on…"
+        },
+        {
+          "startUid": "u0890",
+          "endUid": "u0894",
+          "quote": "%% u0890:0-35 %%\nWazir: Wazir's just walking on the bottom.\n\n%% u0891:0-36 %%\nDM: Right, because he can breathe water\n\n%% u0892:0-19, u0893:0-19, u0894:0-68 %%\nWazir: Breathe underwater. Why would you swim? I mean, he also has a swim speed, which probably makes a difference."
+        },
+        {
+          "startUid": "u0900",
+          "endUid": "u0902",
+          "quote": "DM: Okay, so, you're not… I'm assuming that you… there's not really an obvious way that you could be stealthy in this situation, so I'm assuming you're not. So, the five of you just kind of begin to approach. I mean, go… convince… tell me I'm wrong if you have a plan."
+        },
+        {
+          "startUid": "u1004",
+          "endUid": "u1011",
+          "quote": "Trok: Strolls over to the stairs and picks up the largest piece of door fragment and says… “Look. We got a job to do. It's pretty clear who's in charge here, isn't it? Now… I’m given the orders. You go ahead… Or… You know what's gonna happen.” And he lifts the… door piece, threatening."
+        }
+      ],
+      "from": "p11",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "swim and wade",
+      "route": [
+        {
+          "reading": "Through the underwater passage into shallows roughly 20 feet before the beach."
+        }
+      ],
+      "note": "Rayna stays with the boat, confirmed at u1209–u1212."
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1035",
+        "endUid": "u1037"
+      },
+      "actors": [
+        "Ryu",
+        "Trok",
+        "Nerissa",
+        "Ander",
+        "Wazir"
+      ],
+      "reading": "The party enters the temple main room with some intimidated water creatures.",
+      "evidence": [
+        {
+          "startUid": "u1035",
+          "endUid": "u1037",
+          "quote": "DM: This one… come with you, as you walk into the temple. Where is the… how do you… Erase follower… okay."
+        },
+        {
+          "startUid": "u1043",
+          "endUid": "u1050",
+          "quote": "%% u1043:0-77 %%\nDM: And as you step forward, is anybody else going with Trok, or is it just Trok?\n\n%% u1044:0-17 %%\nAnder: Yeah, yeah, yeah.\n\n%% u1045:0-11 %%\nWazir: Yeah, yeah.\n\n%% u1046:0-56, u1047:0-45, u1048:0-20, u1049:0-71, u1050:0-258 %%\nDM: Okay, so… The main temple area… has, has 3 key features. So, you see in the middle this statue of, of… of Guzo, exactly as… Trok drew from Rayna's description. In front of the statue is an altar set low to the ground that seems to be the source of this glowing blue light that's spreading, and the light's almost, like, trickling like mist, so it, like, flows down the steps, and it dribbles into the water, and it infuses the water, causing it to glow."
+        }
+      ],
+      "from": "p06",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1101",
+        "endUid": "u1103"
+      },
+      "actors": [
+        "Ander",
+        "Nerissa"
+      ],
+      "reading": "Ander and Nerissa enter and search the side chapel while the others search the main room.",
+      "evidence": [
+        {
+          "startUid": "u1101",
+          "endUid": "u1103",
+          "quote": "%% u1101:0-39 %%\nAnder: I'll take a look over in the side room.\n\n%% u1102:0-5 %%\nDM: Okay?\n\n%% u1103:0-28 %%\nNerissa: Join Ander in the side room."
+        },
+        {
+          "startUid": "u1122",
+          "endUid": "u1127",
+          "quote": "DM: So, you push open this door into the… into the side passage. This is a… this is a chapel. There’s beautiful stained glass windows that are still intact. But… There doesn't see… there's not… there's not much in the room. There seems to have been water, like, the floor… the floor was once also, like, beautiful tiles and stuff, but it seems to have been cracked by, like… it's possible that in high tide, like, the waves probably are washing over the floor of this temple. And the floor of the chapel, despite the intact windows, looks like it's been, you know, water damaged. But you can, like, search around, you might… you never know what you might find."
+        },
+        {
+          "startUid": "u1145",
+          "endUid": "u1147",
+          "quote": "%% u1145:0-9, u1146:0-90 %%\nDM: So, well. Ander, Nerissa, are you gonna, like, search the room, or are you just poking your head in?\n\n%% u1147:0-41 %%\nAnder: Sorry, search. Search the room. Yes, sir."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1199",
+        "endUid": "u1204"
+      },
+      "actors": [
+        "Ander",
+        "Nerissa"
+      ],
+      "reading": "The chapel searchers return to the main room with the recovered books.",
+      "evidence": [
+        {
+          "startUid": "u1198",
+          "endUid": "u1198",
+          "quote": "Ander: Pack them up."
+        },
+        {
+          "startUid": "u1199",
+          "endUid": "u1204",
+          "quote": "DM: So, you returned… all now to the main room, where… yes! Guy has crept out. And this one says, “Okay, now what are you doing?” to Trok. “You seem to be just looking around.”"
+        }
+      ],
+      "from": "p09",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u1295",
+        "endUid": "u1307"
+      },
+      "actors": [
+        "Ryu",
+        "Trok",
+        "Nerissa",
+        "Ander",
+        "Wazir"
+      ],
+      "reading": "Opening the secret door reveals the crystal-holding water creature in the hidden chamber; this does not establish party entry.",
+      "evidence": [
+        {
+          "startUid": "u1287",
+          "endUid": "u1292",
+          "quote": "DM: As you begin to sing song this prayer, you can see… As you finish the words of the prayer, the door… just, like, vanishes. And… Oops, I was supposed to hide the name. That's okay. How do you do that? I'm still getting used to this, so… D&D Beyond thing, although I kinda like it, I might switch to this for… next campaign. Okay, so…"
+        },
+        {
+          "startUid": "u1295",
+          "endUid": "u1307",
+          "quote": "DM: Behind… so in the… Oh… oh boy. So, the… this secret door opens a… it slides open, and you can see that there's a chamber, behind it. The blue light is more intense in here. And standing, like, holding this crystal, but seemingly, like, unable to move is… large… watery creature with a, like… water elemental, like… their body kind of turns into waves towards the ground. But then, as… forms into arms and a torso covered in, sort of, scales and spines. But as they turn and stare at you. It almost seems, as if their body itself is, like, all made of water, and they're just manifesting this shape on top of the water. They nearly entirely fill this space, but they seem… and again, like I said, the blue light is more intense in here, you can see the crystal. And it's not obvious that this… this creature doesn't move towards you, initially."
+        }
+      ],
+      "place": "p10",
+      "observerPlace": "p08",
+      "mode": "local"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2523",
+        "endUid": "u2524"
+      },
+      "actors": [
+        "Ander"
+      ],
+      "reading": "Ander follows the retreating creatures onto the beach; the fight spreads from the temple doorway to the shore.",
+      "evidence": [
+        {
+          "startUid": "u2519",
+          "endUid": "u2524",
+          "quote": "%% u2519:0-37 %%\nAnder: Let's go chop some of these dudes up.\n\n%% u2520:0-4 %%\nDM: Huh?\n\n%% u2521:0-26 %%\nAnder: So I'm gonna go after him?\n\n%% u2522:0-10 %%\nRyu: The beach…\n\n%% u2523:0-33, u2524:0-91 %%\nAnder: And… are either of these injured? Both of them are injured, in fact. Great. I'll swing at the one on the right to start with."
+        }
+      ],
+      "from": "p08",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "The precise tactical positions of the remaining party stay unspecified."
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2718",
+        "endUid": "u2720"
+      },
+      "actors": [
+        "Ryu",
+        "Trok",
+        "Nerissa",
+        "Ander",
+        "Wazir"
+      ],
+      "reading": "After the fight and search, swim back to Rayna aboard Ryu’s boat and hand over the shard.",
+      "evidence": [
+        {
+          "startUid": "u2718",
+          "endUid": "u2720",
+          "quote": "DM: So you swim back, and meet Rayna, talk to her a bit, I guess, assume, give her the shard? That's what she wanted, right?"
+        },
+        {
+          "startUid": "u2721",
+          "endUid": "u2732",
+          "quote": "DM: And… as you hand it over to her, there's… you all sort of see this… song image in your mind. It's painting a picture of… some… distant, but also close place. Deep in the ocean, surrounded by waving kelp fronds and… people that look like fish swimming, and… giving thanks. They seem to be… rebuilding something, tearing down… structures, and then singing to the kelp as it begins to weave itself into these elaborate… you wouldn't really call them houses, they're like… they're like treehouses beneath the ocean, but, like, branches and things… forming this, like, tangled naturalistic structure with these sort of nests for… for people to… to sleep in, and… the… there's this pulse of longing from the crystal, like… it wants to go home."
+        },
+        {
+          "startUid": "u1209",
+          "endUid": "u1212",
+          "quote": "%% u1209:0-53 %%\nRyu: Should I go get Rayna, and, like, escort her in here?\n\n%% u1210:0-41 %%\nTrok: Isn't she, like, sailing the ship for us?\n\n%% u1211:0-74 %%\nRyu: It's just, like, hanging out at the boat. Yeah, making sure that the boat…\n\n%% u1212:0-5 %%\nDM: Yeah."
+        }
+      ],
+      "from": "p07",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "swim"
+    },
+    {
+      "id": "l16",
+      "type": "observation",
+      "source": {
+        "startUid": "u2721",
+        "endUid": "u2732"
+      },
+      "actors": [
+        "Ryu",
+        "Trok",
+        "Nerissa",
+        "Ander",
+        "Wazir",
+        "Rayna"
+      ],
+      "reading": "On receiving the crystal, the group sees a song image of rebuilding Omi beneath the ocean; this is no physical journey.",
+      "evidence": [
+        {
+          "startUid": "u2721",
+          "endUid": "u2732",
+          "quote": "DM: And… as you hand it over to her, there's… you all sort of see this… song image in your mind. It's painting a picture of… some… distant, but also close place. Deep in the ocean, surrounded by waving kelp fronds and… people that look like fish swimming, and… giving thanks. They seem to be… rebuilding something, tearing down… structures, and then singing to the kelp as it begins to weave itself into these elaborate… you wouldn't really call them houses, they're like… they're like treehouses beneath the ocean, but, like, branches and things… forming this, like, tangled naturalistic structure with these sort of nests for… for people to… to sleep in, and… the… there's this pulse of longing from the crystal, like… it wants to go home."
+        },
+        {
+          "startUid": "u2733",
+          "endUid": "u2738",
+          "quote": "DM: You all feel this, but Rayna… says that she'll take it. She's seen this vision before. She knows… roughly where this is. “Somewhere off the coast of Apporia,” she says. The crib… “Crystal can guide me, I'm sure,” she says. And so…"
+        },
+        {
+          "startUid": "u2739",
+          "endUid": "u2747",
+          "quote": "is the merfolk city of Omi."
+        }
+      ],
+      "place": "p13",
+      "observerPlace": "p11",
+      "mode": "vision"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2739",
+        "endUid": "u2747"
+      },
+      "actors": [
+        "Ryu",
+        "Trok",
+        "Nerissa",
+        "Ander",
+        "Wazir",
+        "Rayna"
+      ],
+      "reading": "Return to the Leviathan Inn that afternoon and help Rayna settle before her planned later voyage.",
+      "evidence": [
+        {
+          "startUid": "u2739",
+          "endUid": "u2747",
+          "quote": "DM: That afternoon, you return to the Leviathan Inn, and begin… whatever's next. Helping Rayna get settled. She's gonna stay another night before leaving in the morning to sail across the big expanse of the Mawar Ocean in the Gulf of Chardon to reach Apporia. And hopefully return this thing to its home. Which… in case it was too subtle for all the tired people… is the merfolk city of Omi. Right."
+        }
+      ],
+      "from": "p11",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "sail and return ashore"
+    }
+  ]
+}

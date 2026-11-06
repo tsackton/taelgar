@@ -1,0 +1,704 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "mawar-adventures-005",
+    "sessionYaml": "_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-session.yaml",
+    "sessionYamlSha256": "1a824854694ef5bce2cf70bf0bd081f73caef7c1753e8e66b5d9c9a26bed6ec3",
+    "transcriptPath": "_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-transcript.md",
+    "transcriptSha256": "a83dfba01c720887eae3320ccaeacb5db030db3efffbbff9b502e70e1c3f5430",
+    "segments": {
+      "path": "_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-segments.json",
+      "sha256": "e757d1671ba4c14925bf98cdb765d42682aee0c50448c266adb25865b5857690",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s012",
+      "encounter": "Marid and water creatures at Guzo’s shrine",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Marid",
+              "kind": "turn",
+              "summary": "Opens with a cold-water jet requiring Dexterity saves from Trok, Ryu, Ander, Geo and one smaller water creature. Trok succeeds, takes 15 cold damage and stays upright without being pushed. Ander and Ryu take 30 cold damage each, are pushed and knocked prone. Geo fails his save; the smaller creature is also knocked prone. Trok’s proposed Cloud Rune redirection is rejected because this was a save, not an attack roll.",
+              "evidence": [
+                {
+                  "startUid": "u1644",
+                  "endUid": "u1698"
+                },
+                {
+                  "startUid": "u1705",
+                  "endUid": "u1710"
+                }
+              ],
+              "note": "Geo’s applied jet damage is not explicitly resolved; later dialogue gives incompatible HP cues, so no damage or remaining-HP total is reconstructed. The push distance is absent from the polished wording."
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Begins prone after the jet and throws his trident twice at the marid; both hit (20 and 21). The first deals 10 damage; the second base damage is unclear. Retrospectively casts Hunter’s Mark before the attacks and adds 10 total mark damage for the two hits; that bonus action leaves no companion attack.",
+              "evidence": [
+                {
+                  "startUid": "u1702",
+                  "endUid": "u1704"
+                },
+                {
+                  "startUid": "u1711",
+                  "endUid": "u1740"
+                }
+              ]
+            },
+            {
+              "actor": "Geo",
+              "kind": "turn",
+              "summary": "Moves beside Ryu, as retrospectively allowed before the scout’s attack; cannot transform independently during combat.",
+              "evidence": [
+                {
+                  "startUid": "u1880",
+                  "endUid": "u1897"
+                }
+              ]
+            },
+            {
+              "actor": "Ander",
+              "kind": "turn",
+              "summary": "Uses Second Wind to heal 16 and Tactical Shift to stand without provoking; moves to the doorway. His first greatsword strike hits for 13 and kills the adjacent small water creature. Moves five feet nearer the marid and throws a handaxe at it; 16 misses.",
+              "evidence": [
+                {
+                  "startUid": "u1741",
+                  "endUid": "u1774"
+                }
+              ]
+            },
+            {
+              "actor": "Trok",
+              "kind": "turn",
+              "summary": "While huge from Giant’s Might and Wazir’s Enlarge, hits the marid with the iron spike used as a greatclub (23), dealing 10 plus an unspoken d4 from Enlarge and pushing it toward the narrow door. Replaces his second attack with a grapple attempt to force it through; the marid succeeds on its Strength save, so the grapple fails.",
+              "evidence": [
+                {
+                  "startUid": "u1775",
+                  "endUid": "u1831"
+                }
+              ],
+              "note": "The bonus-action option at u1827–u1830 is discussed without a clearly declared activation; no additional effect is asserted."
+            },
+            {
+              "actor": "Wazir",
+              "kind": "turn",
+              "summary": "Moves into melee and hits the marid twice with thunder gauntlets for 7 and 11 thunder damage. The strikes impose disadvantage on attacks against anyone else through the end of Wazir’s next turn. Uses his bonus action to command the homunculus.",
+              "evidence": [
+                {
+                  "startUid": "u1832",
+                  "endUid": "u1852"
+                }
+              ]
+            },
+            {
+              "actor": "Wazir’s mechanical fish",
+              "kind": "turn",
+              "summary": "Flies around the obstructing altar/statue to gain a clear shot and critically hits the marid with Force Strike for 10 damage (2d6 plus the stated bonus).",
+              "evidence": [
+                {
+                  "startUid": "u1853",
+                  "endUid": "u1870"
+                }
+              ]
+            },
+            {
+              "actor": "Water-burst scout",
+              "kind": "turn",
+              "summary": "Targets Geo even after his corrected movement; the 16 attack hits for 9 bludgeoning damage and Geo collapses. Revival requires a first-level slot and a ritual outside combat; later wording confirms temporary unconsciousness.",
+              "evidence": [
+                {
+                  "startUid": "u1872",
+                  "endUid": "u1877"
+                },
+                {
+                  "startUid": "u1898",
+                  "endUid": "u1909"
+                },
+                {
+                  "startUid": "u2350",
+                  "endUid": "u2351"
+                }
+              ]
+            },
+            {
+              "actor": "Nerissa",
+              "kind": "turn",
+              "summary": "Steps onto the statue platform and casts Dissonant Whispers at the marid. Its Wisdom save of 12 fails against 15, aided fictionally by the blue light, for 16 psychic damage. Also gives Bardic Inspiration to Wazir.",
+              "evidence": [
+                {
+                  "startUid": "u1910",
+                  "endUid": "u1933"
+                },
+                {
+                  "startUid": "u1954",
+                  "endUid": "u1962"
+                }
+              ]
+            },
+            {
+              "actor": "Marid",
+              "kind": "reaction",
+              "summary": "Uses its reaction under Dissonant Whispers to retreat into the hidden room, provoking Wazir and Trok. Ends bloodied against the wall; the DM confirms no resistance to their thunder or bludgeoning damage.",
+              "evidence": [
+                {
+                  "startUid": "u1935",
+                  "endUid": "u1936"
+                },
+                {
+                  "startUid": "u1951",
+                  "endUid": "u1952"
+                }
+              ]
+            },
+            {
+              "actor": "Wazir",
+              "kind": "reaction",
+              "summary": "Hits the retreating marid with an opportunity attack for 8 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1935",
+                  "endUid": "u1948"
+                }
+              ]
+            },
+            {
+              "actor": "Trok",
+              "kind": "reaction",
+              "summary": "Hits the retreating marid with the greatclub/spike for 15, including the Enlarge d4.",
+              "evidence": [
+                {
+                  "startUid": "u1935",
+                  "endUid": "u1949"
+                }
+              ]
+            },
+            {
+              "actor": "Scimitar water creatures",
+              "kind": "turn",
+              "summary": "Dash through the rubble and up the staircase, using their turns to close. An icy defensive sheen hardens their bodies and increases AC.",
+              "evidence": [
+                {
+                  "startUid": "u1963",
+                  "endUid": "u1977"
+                }
+              ]
+            },
+            {
+              "actor": "Two whip water creatures",
+              "kind": "turn",
+              "summary": "Move up behind the front creatures, shout at them, and cannot make ranged attacks.",
+              "evidence": [
+                {
+                  "startUid": "u1968",
+                  "endUid": "u1977"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Marid",
+              "kind": "turn",
+              "summary": "Makes one water-whip strike each against Nerissa, Trok and Wazir. At disadvantage from Wazir and the blue light, 22 hits Nerissa for an initial 16 slashing; 13 misses Trok and 19 misses Wazir’s AC 21.",
+              "evidence": [
+                {
+                  "startUid": "u1978",
+                  "endUid": "u1993"
+                }
+              ]
+            },
+            {
+              "actor": "Nerissa",
+              "kind": "reaction",
+              "summary": "Uses Cutting Words to reduce her incoming whip damage from 16 to 8 slashing.",
+              "evidence": [
+                {
+                  "startUid": "u1994",
+                  "endUid": "u2010"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Keeps Hunter’s Mark on the marid; cannot command unconscious Geo to attack. Throws twice: 14 misses, 26 hits. The marid succeeds on its Constitution save against Topple (19). Damage is resolved as 12 plus 1 Hunter’s Mark damage.",
+              "evidence": [
+                {
+                  "startUid": "u2011",
+                  "endUid": "u2039"
+                }
+              ]
+            },
+            {
+              "actor": "Ander",
+              "kind": "turn",
+              "summary": "Moves to the small water creatures and hits one twice for 15 and a corrected 15 (not 18), killing it. Uses Hew for a bonus greatsword attack; a natural 1 is rerolled with Heroic Inspiration to 10 and still misses. Action Surges for two more swings at the adjacent creature, one resolving 13 damage and the final 10 missing. The table then credits three misses with 4 Graze damage each (12 additional), leaving that creature alive and badly wounded.",
+              "evidence": [
+                {
+                  "startUid": "u2040",
+                  "endUid": "u2106"
+                }
+              ],
+              "note": "The table’s aggregate Graze credit is preserved as played; the wording does not cleanly reconcile each credited miss with the spoken rolls."
+            },
+            {
+              "actor": "Trok",
+              "kind": "turn",
+              "summary": "Attacks the marid through the doorway: natural 1 and 14 miss. Action Surges for two further spike strikes; they hit for 17, then 6 plus 3 from Enlarge (9). The blue light intensifies around the blows. Steps aside to let Wazir reach it.",
+              "evidence": [
+                {
+                  "startUid": "u2107",
+                  "endUid": "u2138"
+                },
+                {
+                  "startUid": "u2152",
+                  "endUid": "u2153"
+                }
+              ]
+            },
+            {
+              "actor": "Marid",
+              "kind": "reaction",
+              "summary": "The DM retrospectively identifies an opportunity attack against Trok as he steps aside, at disadvantage from the blue light. No attack roll or damage is resolved in the available speech.",
+              "evidence": [
+                {
+                  "startUid": "u2152",
+                  "endUid": "u2153"
+                },
+                {
+                  "startUid": "u2184",
+                  "endUid": "u2193"
+                }
+              ]
+            },
+            {
+              "actor": "Wazir",
+              "kind": "turn",
+              "summary": "Attacks the marid after Trok clears the doorway. First punch (15) misses; second (19) hits for 7 thunder and reapplies the gauntlet disadvantage effect. Further pushing has no useful space to move the marid.",
+              "evidence": [
+                {
+                  "startUid": "u2151",
+                  "endUid": "u2164"
+                }
+              ]
+            },
+            {
+              "actor": "Wazir’s mechanical fish",
+              "kind": "turn",
+              "summary": "Repositions and hits the marid with its ranged attack (20) for 6 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2165",
+                  "endUid": "u2170"
+                }
+              ]
+            },
+            {
+              "actor": "Water-burst scout",
+              "kind": "turn",
+              "summary": "Fires scalding water at Ryu; 8 misses.",
+              "evidence": [
+                {
+                  "startUid": "u2171",
+                  "endUid": "u2175"
+                }
+              ]
+            },
+            {
+              "actor": "Nerissa",
+              "kind": "turn",
+              "summary": "Moves around the statue to the doorway. Rerolls an initial natural 1 with Heroic Inspiration, then hits the marid with her sword for 15 piercing plus 3 True Strike extra damage, 18 in all.",
+              "evidence": [
+                {
+                  "startUid": "u2176",
+                  "endUid": "u2183"
+                },
+                {
+                  "startUid": "u2199",
+                  "endUid": "u2216"
+                }
+              ]
+            },
+            {
+              "actor": "Scimitar water creatures",
+              "kind": "turn",
+              "summary": "Close and attack: two swings at Ander include a miss (16) and a hit (18), corrected to 11 piercing, grappling him with water tendrils. Another hits Ryu (22) for 11 piercing and grapples him. Grappled victims have zero speed and disadvantage attacking anyone except their grappler; killing the grappler ends it.",
+              "evidence": [
+                {
+                  "startUid": "u2223",
+                  "endUid": "u2246"
+                }
+              ]
+            },
+            {
+              "actor": "Two whip water creatures",
+              "kind": "turn",
+              "summary": "One attacks Ander twice: natural 1 misses, 24 hits for 6 slashing plus 6 lightning. The other attacks Ryu twice (15 and 8), both missing AC 17.",
+              "evidence": [
+                {
+                  "startUid": "u2249",
+                  "endUid": "u2260"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Marid",
+              "kind": "turn",
+              "summary": "Turns into a gaseous water cloud and moves ten feet, trying to escape.",
+              "evidence": [
+                {
+                  "startUid": "u2261",
+                  "endUid": "u2272"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Moves Hunter’s Mark to his scimitar grappler and stabs with the two-handed trident twice. The table accepts 16 for the first hit and 15 for the second, killing the creature and ending Ryu’s grapple.",
+              "evidence": [
+                {
+                  "startUid": "u2276",
+                  "endUid": "u2316"
+                }
+              ],
+              "note": "The first-hit arithmetic is garbled; 16 is the verbally accepted total, not a recalculated 13 + 6."
+            },
+            {
+              "actor": "Ander",
+              "kind": "turn",
+              "summary": "Hits his own grappler for 12 and a corrected 14 damage. Both nearby small creatures remain badly wounded but alive. Uses Second Wind to heal; no amount is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u2317",
+                  "endUid": "u2339"
+                }
+              ]
+            },
+            {
+              "actor": "Trok",
+              "kind": "turn",
+              "summary": "Hits the mist-form marid with the spike (23). Its physical resistance halves the 12 base damage; the extra 9 from Giant’s Might/Enlarge is adjudicated as 4 more. His second attack (16) misses.",
+              "evidence": [
+                {
+                  "startUid": "u2343",
+                  "endUid": "u2372"
+                }
+              ]
+            },
+            {
+              "actor": "Wazir",
+              "kind": "turn",
+              "summary": "Casts Shatter on four smaller enemies: Constitution saves 19, 16, 11 and 11 give two successes and two failures. The failures take 12 and successes 6; one creature dies.",
+              "evidence": [
+                {
+                  "startUid": "u2373",
+                  "endUid": "u2394"
+                }
+              ],
+              "note": "Map pointing does not identify each of the four targets or the casualty individually."
+            },
+            {
+              "actor": "Wazir’s mechanical fish",
+              "kind": "turn",
+              "summary": "Shoots a badly hurt scimitar creature but misses.",
+              "evidence": [
+                {
+                  "startUid": "u2395",
+                  "endUid": "u2404"
+                }
+              ]
+            },
+            {
+              "actor": "Water-burst scout",
+              "kind": "turn",
+              "summary": "Runs from the beach into the water; it is outside Ander’s reach and provokes no opportunity attack.",
+              "evidence": [
+                {
+                  "startUid": "u2400",
+                  "endUid": "u2412"
+                }
+              ]
+            },
+            {
+              "actor": "Nerissa",
+              "kind": "turn",
+              "summary": "Passes through the insubstantial marid to the statue pedestal and casts Dissonant Whispers again. Its Wisdom save at disadvantage is 6, failing; it takes 15 psychic, with no psychic resistance in this form.",
+              "evidence": [
+                {
+                  "startUid": "u2413",
+                  "endUid": "u2441"
+                }
+              ]
+            },
+            {
+              "actor": "Marid",
+              "kind": "reaction",
+              "summary": "Uses the spell-driven reaction to slip through a wall crack and disappear, taking opportunity attacks before escaping.",
+              "evidence": [
+                {
+                  "startUid": "u2438",
+                  "endUid": "u2456"
+                }
+              ]
+            },
+            {
+              "actor": "Wazir",
+              "kind": "reaction",
+              "summary": "Hits the escaping marid with a thunder opportunity attack (17). The spoken passage does not give a recoverable numerical damage result for Wazir.",
+              "evidence": [
+                {
+                  "startUid": "u2443",
+                  "endUid": "u2453"
+                }
+              ]
+            },
+            {
+              "actor": "Trok",
+              "kind": "reaction",
+              "summary": "Hits the escaping marid (27). The DM says 6 damage and clarifies that Enlarge’s d4 applies to every attack, but Giant’s Might’s d6 only applies on Trok’s turn, not this opportunity.",
+              "evidence": [
+                {
+                  "startUid": "u2445",
+                  "endUid": "u2453"
+                }
+              ],
+              "note": "Whether the spoken 6 already includes the d4 is not settled; no extra total is invented."
+            },
+            {
+              "actor": "Scimitar creature grappling Ander",
+              "kind": "turn",
+              "summary": "Twists its sword to send acid through the grapple. Ander succeeds on the Constitution save (14), takes half damage, 4 acid, and the acid does not linger.",
+              "evidence": [
+                {
+                  "startUid": "u2457",
+                  "endUid": "u2466"
+                }
+              ]
+            },
+            {
+              "actor": "Wounded water creatures",
+              "kind": "turn",
+              "summary": "The other badly wounded creature and the two whip users turn to flee, provoking attacks.",
+              "evidence": [
+                {
+                  "startUid": "u2467",
+                  "endUid": "u2472"
+                }
+              ]
+            },
+            {
+              "actor": "Ander",
+              "kind": "reaction",
+              "summary": "Makes an opportunity attack against a fleeing creature at disadvantage because it is not his grappler; natural 1 misses.",
+              "evidence": [
+                {
+                  "startUid": "u2473",
+                  "endUid": "u2477"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "reaction",
+              "summary": "Hits a fleeing whip creature with an opportunity attack (24) for 12; it is bloodied but survives.",
+              "evidence": [
+                {
+                  "startUid": "u2477",
+                  "endUid": "u2483"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Marid",
+              "kind": "turn",
+              "summary": "Its initiative slot passes with something happening out of sight; no visible action or result is described.",
+              "evidence": [
+                {
+                  "startUid": "u2481",
+                  "endUid": "u2486"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Moves Hunter’s Mark to Ander’s grappler and hits (15), killing it and releasing Ander. Throws his second attack at a creature outside (14), hitting for 9. Its Constitution save of 16 succeeds against Topple after the mistaken DC based on the attack bonus is corrected to use the Strength modifier.",
+              "evidence": [
+                {
+                  "startUid": "u2487",
+                  "endUid": "u2518"
+                }
+              ]
+            },
+            {
+              "actor": "Ander",
+              "kind": "turn",
+              "summary": "Follows the wounded enemies toward the beach. Uses a Luck point to turn the first miss into a 13 hit for 11. Uses another Luck point on the second swing but still misses, dealing 4 Graze; the target remains alive.",
+              "evidence": [
+                {
+                  "startUid": "u2519",
+                  "endUid": "u2547"
+                }
+              ]
+            },
+            {
+              "actor": "Trok",
+              "kind": "turn",
+              "summary": "Dashes up to sixty feet toward the doorway/beach fight, using the full turn without an attack; allies can pass under his huge form.",
+              "evidence": [
+                {
+                  "startUid": "u2548",
+                  "endUid": "u2563"
+                }
+              ]
+            },
+            {
+              "actor": "Wazir",
+              "kind": "turn",
+              "summary": "Casts Magic Missile at the weaker creature behind the front pair for 12 damage; it survives.",
+              "evidence": [
+                {
+                  "startUid": "u2564",
+                  "endUid": "u2581"
+                }
+              ]
+            },
+            {
+              "actor": "Wazir’s mechanical fish",
+              "kind": "turn",
+              "summary": "Moves thirty feet and hits the same weak creature (13), killing it as the DM explicitly adjudicates; no damage roll is needed.",
+              "evidence": [
+                {
+                  "startUid": "u2564",
+                  "endUid": "u2566"
+                },
+                {
+                  "startUid": "u2582",
+                  "endUid": "u2589"
+                }
+              ]
+            },
+            {
+              "actor": "Water-burst scout",
+              "kind": "turn",
+              "summary": "Wavers under the shouted order to stand and fight, then hits Trok with boiling water (22). Final stated damage is 9 fire; it moves a little farther into the water.",
+              "evidence": [
+                {
+                  "startUid": "u2587",
+                  "endUid": "u2599"
+                }
+              ]
+            },
+            {
+              "actor": "Nerissa",
+              "kind": "turn",
+              "summary": "Uses normal movement, then Vicious Mockery on the whip creature to Ander’s right. It fails a Wisdom save (8), takes 6 damage and has disadvantage on its next attack roll.",
+              "evidence": [
+                {
+                  "startUid": "u2600",
+                  "endUid": "u2620"
+                }
+              ]
+            },
+            {
+              "actor": "Two whip water creatures",
+              "kind": "turn",
+              "summary": "Attack Ander; only one strike from the second creature hits, dealing 8 slashing plus 3 lightning. The lightning prevents Ander making opportunity attacks until the start of that creature’s next turn; both flee into the water.",
+              "evidence": [
+                {
+                  "startUid": "u2621",
+                  "endUid": "u2623"
+                },
+                {
+                  "startUid": "u2629",
+                  "endUid": "u2636"
+                }
+              ],
+              "note": "Nerissa later considers Cutting Words at u2657–u2661 but no additional reduction is actually resolved."
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Marid",
+              "kind": "turn",
+              "summary": "Returns around the corner in whip-wielding form, ordering its followers to fight. Hits Ander (19) for 19 slashing, moves toward a fleeing subordinate and hits it for 16, killing it. Its third whip attack would hit Trok (27) for 16, but Cloud Rune redirects that strike.",
+              "evidence": [
+                {
+                  "startUid": "u2637",
+                  "endUid": "u2653"
+                }
+              ]
+            },
+            {
+              "actor": "Trok",
+              "kind": "reaction",
+              "summary": "Uses Cloud Rune as a reaction to redirect the marid’s 16-damage whip attack from himself to the green water creature about twenty-five feet away, nearly killing it.",
+              "evidence": [
+                {
+                  "startUid": "u2654",
+                  "endUid": "u2670"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Attacks from the stair area after the DM allows the throw there. Moves Hunter’s Mark back to the marid; first trident throw (11) misses, second (19) hits. The stated 8 plus an unfinished d6 result is enough to kill it: its body deflates into a puddle and departing mist threatens that Gazankoa will hear of this.",
+              "evidence": [
+                {
+                  "startUid": "u2671",
+                  "endUid": "u2689"
+                }
+              ]
+            },
+            {
+              "actor": "Party",
+              "kind": "event",
+              "summary": "Over the next few minutes kills the final two water creatures so they cannot escape and potentially attack Rayna.",
+              "evidence": [
+                {
+                  "startUid": "u2690",
+                  "endUid": "u2691"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The marid is killed, threatening Gazankoa’s notice as its form dissolves. The party finishes the remaining two creatures and retains the song crystal; Rayna remains safe aboard the boat.",
+        "evidence": [
+          {
+            "startUid": "u2682",
+            "endUid": "u2691"
+          }
+        ]
+      },
+      "note": "Initiative setup grants the party advantage from Ander’s weapon of warning. The repeating order is marid, Ryu, Ander, Trok, Wazir and commanded fish, water-burst scout, Nerissa, then smaller scimitar/whip creatures. Enlargement was established before initiative; the blue light hampers the marid and its teleportation. Distinct unnamed creatures are identified only as far as speech allows."
+    }
+  ]
+}
