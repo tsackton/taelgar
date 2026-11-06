@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-130",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-130/cleaned/dunmari-frontier-130-session.yaml",
+    "sessionYamlSha256": "97edff73efbf4c346c1c286a0744e07fc6047c1dee656d1094c49a1b539e0b26",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-130/cleaned/dunmari-frontier-130-transcript.md",
+    "transcriptSha256": "4d36e7c23579f9991e3c8ec7501b1debe2548ff07a5e3070e1c7648fed254938"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0818"
+      },
+      "category": "gameplay",
+      "note": "The opening establishes the resumed morning scene; its recap remains part of the mixed opening turn."
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0819",
+        "endUid": "u0837"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0838",
+        "endUid": "u2014"
+      },
+      "category": "gameplay",
+      "note": "The long telepathic sidebar is explicitly confirmed as in-character at u1359–u1364."
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u2015",
+        "endUid": "u2020"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u2021",
+        "endUid": "u2068"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2069",
+        "endUid": "u2119"
+      },
+      "category": "meta_discussion",
+      "note": "The DM explicitly discusses next-session scope and the players settle their future harassment plan out of character."
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2120",
+        "endUid": "u2248"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2249",
+        "endUid": "u2494"
+      },
+      "category": "meta_discussion",
+      "note": "Players wait for a returning player and debate next-session spells and tactics; no attack is carried out."
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2495",
+        "endUid": "u2622"
+      },
+      "category": "gameplay",
+      "note": "The final mixed turn still establishes drifting off for the night before switching to scheduling."
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2623",
+        "endUid": "u2641"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
