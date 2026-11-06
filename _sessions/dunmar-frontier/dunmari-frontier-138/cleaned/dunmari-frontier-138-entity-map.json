@@ -1,0 +1,486 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "f9070aadd8162ba4c04ec2ff15ca72593eb9445888b1f57cd01887366a2c1626",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "ecfc4e6a24d00977571e8ab95ecad097de200d39d76654641e6fc25c38830f75",
+        "transcriptProcessing.artifacts.cleaned": "afd6bc51139cbf116dad8fec19e2bd37f9ea2cd809708b6ec9f7d8e542187878"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "npc",
+      "label": "Ooze of Isingue",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0223",
+            "endUid": "u0243"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0302",
+            "endUid": "u0308"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3268",
+            "endUid": "u3278"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4161",
+            "endUid": "u4168"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "ooze",
+        "the big one"
+      ]
+    },
+    {
+      "id": "e002",
+      "kind": "item",
+      "label": "Crystallized fragment of Limbo",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0066",
+            "endUid": "u0072"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0111",
+            "endUid": "u0152"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2156",
+            "endUid": "u2170"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2632",
+            "endUid": "u2677"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3939",
+            "endUid": "u3965"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4037",
+            "endUid": "u4040"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "nodule",
+        "heart",
+        "crystal sphere"
+      ]
+    },
+    {
+      "id": "e003",
+      "kind": "npc",
+      "label": "Ladder",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4125",
+            "endUid": "u4132"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4150",
+            "endUid": "u4157"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Companions/Ladder.md"
+    },
+    {
+      "id": "e004",
+      "kind": "item",
+      "label": "Heartroot",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4233",
+            "endUid": "u4263"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4271",
+            "endUid": "u4298"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4308",
+            "endUid": "u4322"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Worldbuilding/Staging/Dunmar/Heartroot.md"
+    },
+    {
+      "id": "e005",
+      "kind": "organization",
+      "label": "Rangers",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4227",
+            "endUid": "u4228"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4265",
+            "endUid": "u4270"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4312",
+            "endUid": "u4314"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Rangers.md",
+      "names": [
+        "rangers"
+      ]
+    },
+    {
+      "id": "e006",
+      "kind": "npc",
+      "label": "Cateline Malras",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4227",
+            "endUid": "u4228"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Aurbeze/Cateline Malras.md"
+    },
+    {
+      "id": "e007",
+      "kind": "npc",
+      "label": "Faldrak",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4229",
+            "endUid": "u4232"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dwarves/Faldrak Bronzehammer.md"
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Efreet in the bottle",
+      "reason": "Only a hypothetical ally or informant described through the bottle’s standard outcomes; no individual identity or actual encounter is established.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0174",
+            "endUid": "u0187"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Obsidian fly and triceratops",
+      "reason": "Proposed routine figurine use; neither is summoned here, and the fly’s familiar hostility is only briefly recalled.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0363",
+            "endUid": "u0371"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Ooze minions",
+      "reason": "Anonymous products of the boss’s combat trait, without identities beyond their encounter function.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3268",
+            "endUid": "u3301"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4163",
+            "endUid": "u4166"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Vindristjarna",
+      "reason": "Routine transport and an established location; no separate acquisition, loss or original ship lore in this session.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0397",
+            "endUid": "u0399"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4317",
+            "endUid": "u4324"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Scroll of Wish, wand, Binding Stones and resurrection key",
+      "reason": "Routine or proposed uses of existing PC equipment; none is acquired, lost, or given original in-world history here.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0153",
+            "endUid": "u0178"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0309",
+            "endUid": "u0314"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2967",
+            "endUid": "u2985"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Kenzo’s staff, Lengau’s Claw, healing potions and potion of speed",
+      "reason": "Routine equipment attacks, consumable healing, and Haste use or cooldown checks; no separate plot-object development.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0611",
+            "endUid": "u0628"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1761",
+            "endUid": "u1775"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3455",
+            "endUid": "u3467"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Glove of Crystallized Magic and Healing Word charm",
+      "reason": "Routine uses of existing PC equipment and spell benefits; the glove’s damage conversion remains part of the combat record.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3441",
+            "endUid": "u3447"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3651",
+            "endUid": "u3702"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Mirror of the Past",
+      "reason": "Only earlier Heartroot examination and possible future examinations are discussed; no new examination occurs in this transcript.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4293",
+            "endUid": "u4307"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4323",
+            "endUid": "u4324"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Rescued monks",
+      "reason": "Unnamed passengers recalled collectively; this passage establishes neither distinguishable individuals nor a separately identified persistent organization.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4323",
+            "endUid": "u4330"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Tanshi blessing",
+      "reason": "A routine granted dodge ability is invoked without identifying an individual divine being in this exchange.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3053",
+            "endUid": "u3070"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "Cosmology/Planar Concepts/Seeds of Chaos.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Obsidian Fly.md"
+  ]
+}

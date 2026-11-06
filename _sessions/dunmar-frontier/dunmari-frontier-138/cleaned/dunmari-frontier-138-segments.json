@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-138",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-session.yaml",
+    "sessionYamlSha256": "cfa199d53453e17ead72c3a6444f5af8e8bc8fb1cf46057eefb89790144d8f79",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-transcript.md",
+    "transcriptSha256": "ecfc4e6a24d00977571e8ab95ecad097de200d39d76654641e6fc25c38830f75"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0011"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0012",
+        "endUid": "u0222"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0223",
+        "endUid": "u0316"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0317",
+        "endUid": "u4168"
+      },
+      "category": "combat",
+      "note": "Continuous initiative includes the exposed-core phase, falling rescue and final healing; the ooze and minions are confirmed crystallized before initiative resolves."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u4169",
+        "endUid": "u4332"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u4333",
+        "endUid": "u4339"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

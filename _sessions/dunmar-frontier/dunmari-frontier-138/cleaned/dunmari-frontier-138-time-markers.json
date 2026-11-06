@@ -1,0 +1,170 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-138",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-session.yaml",
+    "sessionYamlSha256": "cfa199d53453e17ead72c3a6444f5af8e8bc8fb1cf46057eefb89790144d8f79",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-transcript.md",
+    "transcriptSha256": "ecfc4e6a24d00977571e8ab95ecad097de200d39d76654641e6fc25c38830f75",
+    "yamlDates": {
+      "start": "1749-09-18",
+      "end": "1749-10-06"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u4209",
+        "endUid": "u4210"
+      },
+      "reading": "During the post-battle day, the party teleports to Aurbez and reports the victory to Cateline and other Rangers.",
+      "evidence": [
+        {
+          "startUid": "u4209",
+          "endUid": "u4210",
+          "quote": "DM: So over the course of the day you teleport back to Aurbez and-"
+        },
+        {
+          "startUid": "u4227",
+          "endUid": "u4228",
+          "quote": "DM: ... you explain what happened to g- to great, um, excitement in Aurbez. Talk to Cateline Malras and some other rangers..."
+        }
+      ],
+      "duration": {
+        "text": "over the course of the day",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Narrated passage during the day, not a claim that a full twenty-four hours elapsed."
+      },
+      "completion": "completed",
+      "actors": [
+        "party"
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u4229",
+        "endUid": "u4232"
+      },
+      "reading": "The party rests and recovers in Aurbez before using renewed spell slots to return the Heartroot.",
+      "evidence": [
+        {
+          "startUid": "u4205",
+          "endUid": "u4205",
+          "quote": "DM: Well, it's not gonna kill you to teleport to Aurbez, take a long rest, and then teleport back."
+        },
+        {
+          "startUid": "u4229",
+          "endUid": "u4232",
+          "quote": "DM: And then after you've had a chance to rest and recover a little bit and, you know, maybe communicate with Faldrak and tell him to meet you at Isingue, which he was already planning on doing, um, you carefully, um..."
+        },
+        {
+          "startUid": "u4239",
+          "endUid": "u4240",
+          "quote": "DM: Um, and then you can just use a second teleport to tel- 'cause you have two seventh level slots now."
+        },
+        {
+          "startUid": "u4241",
+          "endUid": "u4242",
+          "quote": "Delwath: I mean, you have to do three to go back and forth, but that's okay."
+        },
+        {
+          "startUid": "u4243",
+          "endUid": "u4243",
+          "quote": "DM: No, you're, you're resting in Aurbez."
+        },
+        {
+          "startUid": "u4244",
+          "endUid": "u4244",
+          "quote": "Unknown: Yeah."
+        },
+        {
+          "startUid": "u4245",
+          "endUid": "u4245",
+          "quote": "DM: So you're gonna end up in Isingue, but then your ship is in Isingue."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention for the proposed rest accepted by the subsequent recovery and restored spell slots."
+      },
+      "completion": "completed",
+      "actors": [
+        "party"
+      ],
+      "note": "No waking watch or overnight calendar transition is stated."
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u4269",
+        "endUid": "u4270"
+      },
+      "reading": "The party first spends a couple of days protecting the restored Heartroot, then remains through the overall couple-week Isingue montage until early October.",
+      "evidence": [
+        {
+          "startUid": "u4269",
+          "endUid": "u4270",
+          "quote": "DM: ... five rangers to sort of help start to get things settled. Spend a couple of days in Isingue making sure the Heartroot is safe."
+        },
+        {
+          "startUid": "u4308",
+          "endUid": "u4311",
+          "quote": "DM: ... yeah. So time passes, the Heartroot settles into place. Um..."
+        },
+        {
+          "startUid": "u4312",
+          "endUid": "u4314",
+          "quote": "DM: More rangers start to come, um, you know, over the course of a, of, of a week or two. Um, you establish a little bit of a camp at Isingue."
+        },
+        {
+          "startUid": "u4317",
+          "endUid": "u4322",
+          "quote": "DM: And you remain over the course of a couple weeks until sometime in October, early October. Things seem stable here, and you find yourself now back on Vindristjarna wondering what you're gonna do next."
+        },
+        {
+          "startUid": "u4323",
+          "endUid": "u4324",
+          "quote": "DM: And in that time you can of course look at, you know, three things in the mirror, and there's some time while Vindristjarna flies to drop the monks off and other people off wherever you want to be dropped off."
+        }
+      ],
+      "duration": {
+        "text": "a couple of weeks in all",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "The closing narration describes the total Isingue stay; its first couple of days and the week or two of Ranger arrivals are included, not added again."
+      },
+      "timeRange": {
+        "start": null,
+        "end": {
+          "date": {
+            "year": 1749,
+            "month": 10
+          },
+          "precision": "approximate",
+          "basis": "October is spoken, qualified as early October; the year comes from YAML. No exact day or civil watch is supplied."
+        }
+      },
+      "completion": "completed",
+      "actors": [
+        "party"
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "September 18 and the year 1749 are the working YAML calendar. The transcript independently says early October at the end, but supplies no day number. October 6 remains tentative in YAML.",
+    "expectedDateBoundaries": 18,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03"
+    ],
+    "explanation": "The post-battle day, completed Aurbez rest and roughly couple-week Isingue stay can fit September 18–October 6. The rest is not explicitly overnight, and the montage does not enumerate exact days, so neither eighteen boundaries nor an exact end date can be confirmed. Historical missing decades of the monks, past mirror visions, spell durations and hypothetical casting times do not extend this played span."
+  }
+}
