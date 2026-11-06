@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-094",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-094/cleaned/dunmari-frontier-094-session.yaml",
+    "sessionYamlSha256": "13cac4f40521099391f2c00c2a66d194a0ff446a5930956795a5d600bf147105",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-094/cleaned/dunmari-frontier-094-transcript.md",
+    "transcriptSha256": "8b1daff6131efc1e6baa2b372087244436187a42e7b98138be46e9ce3b818a6e"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0351"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0352",
+        "endUid": "u0545"
+      },
+      "category": "meta_discussion",
+      "note": "Extended out-of-character review of existing clues, cover stories, and plans; brief interface remarks remain within the discussion."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0546",
+        "endUid": "u1667"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1668",
+        "endUid": "u1738"
+      },
+      "category": "meta_discussion",
+      "note": "Equipment options and attunement mechanics become sustained out-of-character discussion, ending with session pacing."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1739",
+        "endUid": "u2181"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2182",
+        "endUid": "u2198"
+      },
+      "category": "meta_discussion",
+      "note": "The shared-UID boundary group includes Delwath’s thanks, followed by out-of-character clarification of future travel."
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2199",
+        "endUid": "u2200"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

@@ -1,0 +1,2544 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-094/cleaned/dunmari-frontier-094-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "8b1daff6131efc1e6baa2b372087244436187a42e7b98138be46e9ce3b818a6e"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-094/cleaned/dunmari-frontier-094-entity-map.json",
+      "sha256": "13d5be1ca0ce93297547bccf1f6f8ee79dd98977007833accdb4a9589c32aa59"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Kenzo reflects on mentoring Amil",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0107",
+        "endUid": "u0110"
+      },
+      "lines": [
+        "%% u0107:0-66, u0108:0-62, u0109:0-20, u0110:0-87 %%",
+        "Kenzo: ((Forest observations)) And he also has been reflecting a lot on his mentorship of—what's the name of it? My mentee? Again, I keep—Amil—and thinking about his own journey."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Most people wear furs.",
+          "Kenzo: Because otherwise it's cold. Right? I mean.",
+          "Delwath: Yeah. Delwath, you cannot. You can almost not see his armor. His armor is actually hidden under a heavy white furs.",
+          "DM: Good afternoon.",
+          "Kenzo: And yeah, I think I think during this period as well. Especially if if Wellby is is taking interest in the the natural the wildlife here, you know, Kenzo is always extremely interested in the trees in the forest. And he's very, very happy to be back in the forest actually after so much flying and so much of being an much more kind of remote snowy areas. So, I think he also joins Wellby, and they do a little bit of exploring together."
+        ],
+        "after": [
+          "Kenzo: Connecting all of these different kind of schools of like thinking and the different the different kind of spiritual disciplines that he's been learning under, as he's been trying to think through his own perspective, and how he wants to combine these different these different modalities together into whatever he's trying to teach and pass on to Amil. But then, also thinking about, you know what this bigger vision could look like.",
+          "Kenzo: So he thinks about that absent mindedly. And then also, he spends a lot of time working on updated like as he's been working on his woodworking. He's getting like he's been getting a lot better. And just as a hobby he's making like really cool versions of like the party like in his own little little little little like woodworking figurines.",
+          "Kenzo: And you know, and like, you notice, they all look like pretty realistic, and they're awesome. But like Delwath’s, like—looks like like it's Delwath like the the [garbled]—looks kind of like like he's got like kind of frowny face, and that's a little like angry and mad. And but everybody else looks like really like, like, you know, like, you know, has like really cool poses and stuff like that so you know, side thing, but you know Delwath, you kinda notice like, like, why, it's just—it's you look kind of like, really frowny and upset, and everybody else looks like really heroic looking.",
+          "Kenzo: But Kenzo's just, kinda you know, [garbled] different characters, including a really cool one of of of Baxter.",
+          "Seeker: Nice."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "A cautionary tale about the Watchers",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0151",
+        "endUid": "u0190"
+      },
+      "lines": [
+        "%% u0151:0-100, u0152:0-161, u0153:0-44, u0154:0-58, u0155:0-107, u0156:0-46, u0157:0-84, u0158:0-80, u0159:0-31, u0160:0-166, u0161:0-59 %%",
+        "DM: There are some even who say that there are magical protections woven into the borders of the country that keep mindless monsters of the wastes from even being able to perceive people who are bound to the krev. And there's a story—perhaps apocryphal, perhaps not—that once a young dragon attacked Zvervinka. No one did anything to stop it, but it flew around, and it perched on the buildings, and it look seemingly uninterested in the people going about their daily business until it saw a group of novja leaving a tavern, and swooped down on them and them alone. And the Watchers, the Eyes of the Vedmakov, the magical guardians of Ursk, just stood there while it ate all 6 of the novja. And then, after it had finished consuming them, launched a devastating attack that destroyed the dragon, seemingly without being seen. Now, whether this is a tale that is spread to scare people into submitting to this rite, or whether it's true nobody knows.",
+        "",
+        "%% u0162:0-3, u0163:0-47, u0164:0-85, u0165:0-18, u0166:0-33, u0167:0-23, u0168:0-65, u0169:0-60, u0170:0-61, u0171:0-19, u0172:0-106, u0173:0-70, u0174:0-91, u0175:0-8, u0176:0-47, u0177:0-91, u0178:0-47, u0179:0-82, u0180:0-16, u0181:0-47, u0182:0-10, u0183:0-209, u0184:0-38 %%",
+        "((Questions about leaving Ursk))",
+        "",
+        "%% u0185:0-56 %%",
+        "Delwath: The novja, the people who haven't done the ritual, right?",
+        "",
+        "%% u0186:0-18 %%",
+        "DM: Many of them have.",
+        "",
+        "%% u0187:0-153 %%",
+        "Delwath: Right. So wait, the story—The important point about the story about the dragon was not that they were, but the basis was they hadn't done the ritual yet.",
+        "",
+        "%% u0188:0-3, u0189:0-37, u0190:0-94 %%",
+        "DM: But those who are not novja almost never. The, the, like, noncompliance rate among them is much higher than among sort of coastal Urskans."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You've also learned a number of tidbits and stories and tales about Ursk and Zvervinka, Zvervinka—that may serve you in the coming days.",
+          "DM: The day after you killed the White Dragon that morning was the one year anniversary of your meeting. And a few days later, the festival of Rebirth, the second such festival in the Dunmari calendar that you celebrated together.",
+          "DM: And over the days as you spent most of your time practicing your languages, trying to pick up the accents and grammars of of Urskan, you know people wandered into camp with the dragon dead. There was more, you know, commerce and traffic coming in in and out of the camp that you were in. And you heard stories. You heard stories about the that—no, yeah—so-called, the, yeah cultural and linguistic kin of the Vargaldi who live under the rule of the Ursk wizards.",
+          "DM: The—What distinguishes them? You learn more about this krev, this rite that binds people to the magic of Ursk. And the the novja are the people are the Vargaldi who have—who have undergone this rite. And so are tied to the the country and the magical protections of the country. And you learn that krev is not a rite that can be forced on you. And there are some novja who have chosen not to participate.",
+          "DM: So not everybody in Ursk is forced to undergo this rite. But the rumor—true or not, you're not sure—is that the wizards of Ursk will not lift a finger to help those who are not part of the krev, although how they know, or if they can tell, we don't know."
+        ],
+        "after": [
+          "DM: There are strict—you also learn that there are strict rules in Ursk about the use of magic, and they're harshly enforced. Only those who can prove they belong to one of the Rodnya, the, the ruling, the—they're not—they're not nobility; anybody can join, and anybody who has magical ability and who's taken the krev rite, can become part of one of the novja, the Rodnya.",
+          "DM: But only people who are part of the Rodnya are allowed to cast spells. And if you are caught casting spells you're caught using magic, and you're not pledged to one of the Rodnya, like the the eyes of Vedmakov, that otherwise known as the watchers, just like whisk you away, and nobody really knows what happens.",
+          "Delwath: Are there any priests?",
+          "DM: There are no priests that any that anybody's ever seen in—there are some priests. Among the among the novja there are some. According to the to the Vargaldi, there's some like hidden underground, a religious organizations, priests among the the novja who still worship these animal spirits that the Vargaldi worship. But there isn't, as far as anybody knows, no Vargaldi has ever seen or heard the Urskan discuss anything that seems like religion.",
+          "Seeker: What exactly that means is hard to know."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Magic law, membership, and detection",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0191",
+        "endUid": "u0280"
+      },
+      "lines": [
+        "%% u0191:0-122, u0192:0-78, u0193:0-99, u0194:0-69 %%",
+        "DM: There are strict—you also learn that there are strict rules in Ursk about the use of magic, and they're harshly enforced. Only those who can prove they belong to one of the Rodnya, the, the ruling, the—they're not—they're not nobility; anybody can join, and anybody who has magical ability and who's taken the krev rite, can become part of one of the novja, the Rodnya.",
+        "",
+        "%% u0195:0-70, u0196:0-36, u0197:0-26, u0198:0-14, u0199:0-28, u0200:0-132 %%",
+        "DM: But only people who are part of the Rodnya are allowed to cast spells. And if you are caught casting spells you're caught using magic, and you're not pledged to one of the Rodnya, like the the eyes of Vedmakov, that otherwise known as the watchers, just like whisk you away, and nobody really knows what happens.",
+        "",
+        "%% u0201:0-22, u0202:0-92, u0203:0-31, u0204:0-73, u0205:0-9, u0206:0-86, u0207:0-84, u0208:0-13, u0209:0-53, u0210:0-40, u0211:0-90, u0212:0-55, u0213:0-104, u0214:0-79, u0215:0-9, u0216:0-10, u0217:0-223, u0218:0-36, u0219:0-99, u0220:0-38, u0221:0-6, u0222:0-111, u0223:0-206, u0224:0-75 %%",
+        "((Other questions and equipment discussion))",
+        "",
+        "%% u0225:0-25 %%",
+        "Seeker: Who administers the rite?",
+        "",
+        "%% u0226:0-43 %%",
+        "DM: The Rodnya, the these wizard organizations.",
+        "",
+        "%% u0227:0-54 %%",
+        "Seeker: And what do we know any details of what it looks like?",
+        "",
+        "%% u0228:0-110, u0229:0-156, u0230:0-31, u0231:0-64, u0232:0-116 %%",
+        "DM: No, nobody knows what it looks like. All you know, is that it—it has some effect similar to the to the Shakun Mystai ritual, where you're like somehow connected in some web or magical battery or something, and it's part of what's used to protect is is what makes the Watchers so strong like they're there's a very unusually high amount of powerful wizards in Ursk like way out of proportion, what there should be based on, like the distribution of magical ability across Taelgar.",
+        "",
+        "%% u0232:116-150, u0233:0-49, u0234:0-37, u0235:0-52, u0236:0-63 %%",
+        "Seeker: II wonder if we could infer, then, if this web of protection works in a similar way, if it's hosted or powered by a deity, and even if there's some artifact that it relies on. Not that we'd wanna steal that and turn off the protection, but",
+        "",
+        "%% u0237:0-219, u0238:0-22, u0239:0-98, u0240:0-87, u0241:0-34 %%",
+        "DM: It's possible. I mean, nobody knows right? What—All you hear from the is that you know, if somebody sees you casting spells, and you can't, you know, show your your like, you know signet ring indicating which, you know, Rodnya, you're part of like, don't you'll be in trouble, I mean, of course, you can like fight people off, right? But like nobody is just gonna watch quietly while you cast spells unless you can show them your—you know, your badge of membership.",
+        "",
+        "%% u0242:0-38, u0243:0-29, u0244:0-64 %%",
+        "Seeker: The signet ring detail is interesting. Because they if we could only see one of those even we could replicate it convincingly. Maybe.",
+        "",
+        "%% u0245:0-25, u0246:0-64, u0247:0-84, u0248:0-28 %%",
+        "DM: Maybe, although you know. Probably a magical ring, the whole, like system of these magical organizations is very opaque to the Vargaldi, and they have no idea how the watchers verify that you're a member.",
+        "",
+        "%% u0249:0-9, u0250:0-67, u0251:0-17 %%",
+        "((Other questions and equipment discussion))",
+        "",
+        "%% u0252:0-194, u0253:0-169 %%",
+        "DM: You do hear that, as far as the Vargaldi know, they don't have like supernatural powers of detection. If they just think you're Vargaldi going to the market to sell stuff they're not like gonna—but you know they're not. They don't scan. They don't have like a wand of detect magic and scan everybody who passes the gates and lock you up if you have one magic item.",
+        "",
+        "%% u0254:0-48 %%",
+        "Delwath: Right there. Yeah. Are magic items also illegal?",
+        "",
+        "%% u0255:0-14 %%",
+        "Seeker: Good question.",
+        "",
+        "%% u0256:0-7, u0257:0-12 %%",
+        "DM: That is complicated.",
+        "",
+        "%% u0258:0-89, u0259:0-89, u0260:0-164 %%",
+        "DM: Magic items that create spells are considered just casting spells. So a wand of something—a magical sword would not be if it doesn't. If it has no, if it has only passive effects. They basically usually don't care. That's the that's at least as far as the Vargaldi know, like something super powerful. Who knows? Right? But, generally speaking,",
+        "",
+        "%% u0261:0-259, u0262:0-110, u0263:0-158 %%",
+        "DM: Your understanding from what you've learned from the various rumors and tales that have crossed the Ket River valley is that really, they're just watching for active magical effects, Right? So if you take out a wand and you wave it around, and then, you know, something happens, or even if nothing happens, you wave it around and cast detect magic and put the wand away. Somebody will be like, do you have permission to do that? If you just walk into town wearing magical armor, as far as anybody knows, they're not gonna notice.",
+        "",
+        "%% u0264:0-39, u0265:0-148, u0265:148-169, u0265:169-184, u0266:0-60, u0267:0-93, u0268:0-9, u0269:0-33, u0270:0-120, u0270:120-301, u0271:0-75, u0272:0-25, u0273:0-218 %%",
+        "((Other questions and equipment discussion))",
+        "",
+        "%% u0274:0-132, u0275:0-99, u0276:0-55, u0277:0-120, u0278:0-8, u0279:0-116, u0280:0-122 %%",
+        "DM: The the basic vibe, though, is that like, if you don't do anything that seems obviously magical, nobody's they don't have, like some web of detect magic that pings whenever you enter the city. It's all just based on observation. But you know there's spies. There's people who are happy to earn a coin reporting rogue magic users to the watchers. So it's really about, you know there's rep like there's there's Vargaldi Druids, who have, you know, entered town and wandered around and like sold magic stuff and left without any trouble. But if they had, you know, nobody would ever be so foolish as to attempt to shape shift while they're in Zvervinka. Right?"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: There are rumors of some who might have. But again, people don't leave, and the Ursk wizards don't. I mean there's very little immigration allowed into Ursk. They keep tight controls on their borders. So it does not seem like there's a lot of back and forth beyond this one city where, you know, traders are allowed to enter.",
+          "Delwath: The novja, the people who haven't done the ritual, right?",
+          "DM: Many of them have.",
+          "Delwath: Right. So wait, the story—The important point about the story about the dragon was not that they were, but the basis was they hadn't done the ritual yet.",
+          "DM: But those who are not novja almost never. The, the, like, noncompliance rate among them is much higher than among sort of coastal Urskans."
+        ],
+        "after": [
+          "Seeker: Hmm!",
+          "DM: The other thing you learn is that—so, the market, the the the city, you get a basic overview of the city from from tales and traders who have passed by. So it's it is really like the edge of of Ursk, like as you can see from where your camp is you know, 3 miles west of the city, you're just in dense forest.",
+          "DM: The city is along the bank of the Ket. The bank is quite swampy, and it floods when the snow melts. So that's not built too close to—it's not built right up against the city, and the river is really only navigable for about 3 to 4 months a year. So it's not—does not, like—It's not centered around the harbor.",
+          "DM: The main thing that the Zvervinka is kind of centered around is the the—so it's, you know, it's a walled city. So as you approach, you see the tall walls rising sort of from the snow covered forests in the icy waters of the river, made of dark stone.",
+          "DM: The most notable landscape, or most notable features from the outside is the—people call it various things, but it's mostly known as the Watchers’ Spire. So tower of of the watchers, the the magical police, basically. That rises from the—the city is built sort of on a gentle slope leading up from the from the riverbank, and the tower is built on the highest point, and sort of overlooks the city."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Bjarnfrost’s former protection",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0213",
+        "endUid": "u0220"
+      },
+      "lines": [
+        "%% u0213:0-104, u0214:0-79, u0215:0-9, u0216:0-10, u0217:0-223, u0218:0-36, u0219:0-99, u0220:0-38 %%",
+        "DM: ((Other population discussion)) This is much rarer now, but hundreds of years ago, when the land was safer because the giant Bjarnfrost kept things safe, trading missions would probably go across. ((Other population discussion))"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: But only people who are part of the Rodnya are allowed to cast spells. And if you are caught casting spells you're caught using magic, and you're not pledged to one of the Rodnya, like the the eyes of Vedmakov, that otherwise known as the watchers, just like whisk you away, and nobody really knows what happens.",
+          "Delwath: Are there any priests?",
+          "DM: There are no priests that any that anybody's ever seen in—there are some priests. Among the among the novja there are some. According to the to the Vargaldi, there's some like hidden underground, a religious organizations, priests among the the novja who still worship these animal spirits that the Vargaldi worship. But there isn't, as far as anybody knows, no Vargaldi has ever seen or heard the Urskan discuss anything that seems like religion.",
+          "Seeker: What exactly that means is hard to know.",
+          "Delwath: But according by the rules, anyway, there's no distinction between sources of magic. Sure. What about non-humans? Any non humans ever seen in Ursk?"
+        ],
+        "after": [
+          "DM: It is. Nobody really knows if if non-humans can even participate in the krev like none of the Vargaldi are sure, right?",
+          "DM: And it's not like there's like a, you know, dwarven quarter of Zvervinka, or something. If there's Halfling living in the middle of Ursk, some secret city, halfling city of halfling wizards, who are totally diverged from the rest of halfling kind, nobody in among the Vargaldi knows.",
+          "Seeker: Who administers the rite?",
+          "DM: The Rodnya, the these wizard organizations.",
+          "Seeker: And what do we know any details of what it looks like?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "The jade clues point toward Voknaz",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0376",
+        "endUid": "u0412"
+      },
+      "lines": [
+        "%% u0376:0-52, u0377:0-127, u0378:0-173 %%",
+        "Delwath: The—to me, the key point here is down at the bottom. Rodnya Voknaz are, shall we say at a low point? Right? They need something, a show of strength a way to prove their worth. Yes. I think we need to get in touch with the Rodnya and the other bit we know if you look at Rai's scrying. So, as I was looking up all this stuff while we were talking earlier.",
+        "",
+        "%% u0379:0-3, u0380:0-145, u0381:0-11 %%",
+        "((Finding the earlier scrying record))",
+        "",
+        "%% u0382:0-122, u0383:0-57 %%",
+        "Delwath: If you scroll down on here to Delwath scrying of—oops that's link to have there. But scroll down to where it says, Radomir: Key point: “Rodnya Voknaz are not careless of your plight.”",
+        "",
+        "%% u0384:0-133, u0385:0-82, u0386:0-88 %%",
+        "Delwath: Ie. The same, Rodnya, that there's a reason we started looking at the Rodnya Voknaz. They're the people who are keeping Radomir alive, right, and who are, as far as we can tell, the ones who have Rai's hand right now. Radomir, the guy who found it gave it to them. I think, or did something with it. Right?",
+        "",
+        "%% u0387:0-12, u0388:0-40 %%",
+        "Seeker: We have just fragments of this whole story, don't we?",
+        "",
+        "%% u0388:40-43, u0389:0-22 %%",
+        "((Finding the earlier scrying record))",
+        "",
+        "%% u0390:0-47, u0391:0-98, u0392:0-29, u0393:0-16 %%",
+        "Riswynn: I was gonna say that we wanna learn more about the Rodnya in general, the Rodnya Voknaz in particular, and sort of figure out where we need to go that might find the lead box. That's, you know—",
+        "",
+        "%% u0394:0-189, u0395:0-27 %%",
+        "Delwath: Right? Here's the other bit. Which is this, “the study burns,” right? So these are all backwards in time. Right? They start at the beginning in general, these Philosophers’ Guild things. Start now and go backwards. Right?",
+        "",
+        "%% u0396:0-8, u0397:0-89, u0398:0-8 %%",
+        "Riswynn: So yeah. It's in a lead box—there was at some point recently in a lead box of a cabinet in a study in Ursk.",
+        "",
+        "%% u0399:0-6 %%",
+        "Delwath: Right?",
+        "",
+        "%% u0400:0-184, u0401:0-94 %%",
+        "Delwath: Right? So it's it's it's presumably the Rodnya Voknaz have it now, right? They got it from somebody, a man holding the jade, fiery manacles around his legs, pleading. That sounds bad. Something bad happened to somebody who had it. Man walking across mountains, speaking to deer.",
+        "",
+        "%% u0402:0-4 %%",
+        "Unknown: Hmm.",
+        "",
+        "%% u0403:0-41 %%",
+        "Delwath: That sounds like talking to the Vargaldi.",
+        "",
+        "%% u0404:0-5 %%",
+        "Riswynn: Yeah.",
+        "",
+        "%% u0405:0-10 %%",
+        "Seeker: Hmm, right",
+        "",
+        "%% u0406:0-154 %%",
+        "Delwath: It sounds like he found it standing in a village in a, forest clearing. “Take the jade”—that actually sounds like Radomir found it out amongst the Vargaldi.",
+        "",
+        "%% u0407:0-12 %%",
+        "Seeker: But now it's",
+        "",
+        "%% u0408:0-100, u0409:0-47 %%",
+        "Delwath: Back in a head—It's in a headquarters. It's in one of the headquarters of one of the rodnya, right? So oh, there's multi—multi! There's 8 of them.",
+        "",
+        "%% u0410:0-20, u0411:0-32 %%",
+        "Seeker: Do we know which one there is? Voknaz is the one from",
+        "",
+        "%% u0412:0-61 %%",
+        "Delwath: From Delwath's scrying. We're fairly sure that Rodnya Voknaz."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: You could also do that if you didn't have it on a weird monitor where the sidebar hides because it's too narrow.",
+          "Seeker: Oh, nice!",
+          "Delwath: You know, you can just click those. I yes, I just realized, I noticed, as as I was saying, that I noticed a little thing. But",
+          "Seeker: Nice website, nice website you made, Tim.",
+          "Riswynn: Hmm."
+        ],
+        "after": [
+          "Seeker: Right? So one question is, can we go into this town we're about to enter and find out from anybody something about like, which rodnye are where, or like where the Voknaz, yeah, like, that's the sort of thing I want to find out that. See? That's when you do one thing, it's probably that thing.",
+          "Riswynn: But yeah, so if, like, there's tavern gossip about, “Oh, yeah. So”—well, something I'm wondering is if people's affiliations are sort of clear and talked about like—",
+          "Seeker: Or if we could like make some ploy like, “Oh, I heard the Rod, you know something rather were",
+          "Riswynn: Particularly interested in dragon hearts.” You know, Are you? Are you? Something or other person. You know, like that sort of thing, and they could be like, “No, no, I'm with Rodnya blue, bitty blue instead of something rather.” And then maybe we could learn.",
+          "Delwath: II think we have to. I mean, it's a good idea. I think you just have to feel our way right. But"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Kenzo tries to sense the missing jade",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0560",
+        "endUid": "u0565"
+      },
+      "lines": [
+        "%% u0560:0-104, u0561:0-175, u0562:0-67, u0563:0-301 %%",
+        "Kenzo: Hey, Tim? Oh, sorry! Just quick sidebar on the jade: Kenzo also. I didn't say this in my description, but you know, obviously he's been carrying around like one of the pieces of the jade, for you know most of his life. Then he picked up the you know he's he's got 2 actively right? Knowing that we're searching for the third, he spends a lot of time just like energetically syncing to those 2 pieces of jade, and spends a lot of time just like kind of like almost in his mind, like visualizing the completed hand, and like really like like feeling like a little nip, like minute crevices and parts of the crack like where the other missing pieces are.",
+        "",
+        "%% u0564:0-615 %%",
+        "((Further hopes about sensing the completed hand))",
+        "",
+        "%% u0565:0-103 %%",
+        "Seeker: It is unfortunately in the lead box, as far as we know. Yeah, yeah. Well, he's post magic. So he's just"
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Correct. It's not the whole truth, but it's not untrue.",
+          "Seeker: And—",
+          "Riswynn: Persuaded, she takes Shatterstorm out. She takes off her stilts.",
+          "Delwath: We're never going to convince anybody, anyway. Very good.",
+          "Seeker: Still, I put a lot of effort into those stilts."
+        ],
+        "after": [
+          "Kenzo: I'm post magically, Kenzo's Kenzo. That's what he's doing. He's also spending energy",
+          "Delwath: I just noticed when in Delwath's scrying, Radomir's quote, unquote sister had business at the border. Wonder if she—we should be trying to find her?",
+          "Seeker: Oh.",
+          "Delwath: A potentially high risk strategy would be to take the Philosopher's Guild note, assume we know what it means and actually ask around about this guy we met, right? We could just assume that whoever this is the study is a—We could take the assumption that he thought he—he found something in a forest as excuse to know who Radomir is and actually ask about it just straight up.",
+          "Seeker: It's a try."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Radomir’s sister as a possible lead",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0566",
+        "endUid": "u0568"
+      },
+      "lines": [
+        "%% u0566:0-84 %%",
+        "((End of the preceding jade reflection))",
+        "",
+        "%% u0566:84-107, u0567:0-78, u0568:0-46 %%",
+        "Delwath: I just noticed when in Delwath's scrying, Radomir's quote, unquote sister had business at the border. Wonder if she—we should be trying to find her?"
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: We're never going to convince anybody, anyway. Very good.",
+          "Seeker: Still, I put a lot of effort into those stilts.",
+          "Kenzo: Hey, Tim? Oh, sorry! Just quick sidebar on the jade: Kenzo also. I didn't say this in my description, but you know, obviously he's been carrying around like one of the pieces of the jade, for you know most of his life. Then he picked up the you know he's he's got 2 actively right? Knowing that we're searching for the third, he spends a lot of time just like energetically syncing to those 2 pieces of jade, and spends a lot of time just like kind of like almost in his mind, like visualizing the completed hand, and like really like like feeling like a little nip, like minute crevices and parts of the crack like where the other missing pieces are.",
+          "Kenzo: And he's really trying to hone in on all of that cause like what would be really fucking awesome is if we almost have like a little compass that was like, Oh, we're getting warmer. Feels like we're getting closer to it, you know. So so Kenzo is like—It's like spending a lot of time trying to like lock into the energet—or energetic signature of the of the completed hand with the goal like, can he sense it, you know? Can he sense it in any way like feel it, or touch it as he's getting closer? Because there also there must be some way in which the hand kind of wants to be a hand again, you know. Maybe you know",
+          "Seeker: It is unfortunately in the lead box, as far as we know. Yeah, yeah. Well, he's post magic. So he's just"
+        ],
+        "after": [
+          "Seeker: Oh.",
+          "Delwath: A potentially high risk strategy would be to take the Philosopher's Guild note, assume we know what it means and actually ask around about this guy we met, right? We could just assume that whoever this is the study is a—We could take the assumption that he thought he—he found something in a forest as excuse to know who Radomir is and actually ask about it just straight up.",
+          "Seeker: It's a try.",
+          "Wellby: Is that—",
+          "Unknown: After"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "The frost giant’s notes and orc-history question",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0585",
+        "endUid": "u0608"
+      },
+      "lines": [
+        "%% u0585:0-9, u0586:0-74, u0587:0-39, u0588:0-47 %%",
+        "DM: So as you move into the evening with your plan and disguise prepared for the morning, before you go to bed, you think back on the motley crew that you left behind 2 days ago:",
+        "",
+        "%% u0589:0-13, u0590:0-128, u0591:0-19, u0592:0-40, u0593:0-3, u0594:0-12, u0595:0-92, u0596:0-174, u0597:0-36, u0598:0-28 %%",
+        "DM: A frost giant who had taken, who has taken over the course of the couple of weeks to sitting on the top deck, which is the only place he fits, leaning against the I forget what—the, Baxter's stable, maybe—and just kind of like—so it looks very funny. He's been writing notes. The book is like the size of a human. And he's just scratching, scratching these notes in these pages, but he keeps getting frustrated and grabs a page, and he rips it up and he tosses it behind him, and Baxter's stable is like filling up with these ripped giant crumpled pages.",
+        "",
+        "%% u0599:0-50, u0600:0-12, u0601:0-51, u0602:0-16, u0603:0-69, u0604:0-68 %%",
+        "DM: He's also taken quite a fascination with the Orcs, Aygul, Nuzkar, and keeps talking about the stories of the Orcs who were part of the—of Vimfrost, who fought on Vimfrost’s side, but asking, “Are there any like, what happened to them? And why didn't any of them fight for us?”",
+        "",
+        "%% u0605:0-3 %%",
+        "((Brief interruption))",
+        "",
+        "%% u0606:0-47, u0607:0-48, u0608:0-67 %%",
+        "DM: And Nuzkar and Ulfgar have begun poring through Orcish histories to try and see if there are any clues that there might be freed orcs hiding in the North somewhere."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Yeah, yeah, let's let's try.",
+          "DM: So I mean, I still like the general, like—",
+          "Riswynn: We think, like trying to find out people's",
+          "Delwath: The presence of various yeah.",
+          "Riswynn: Tossing out a little bit of does the Rodnya, something isn't—wasn't the Rodnya, something rather looking for poison this month, or something like that sort of thing."
+        ],
+        "after": [
+          "DM: Faldrak has spent the entire 3 weeks practicing, like he is completely happy that you are finally letting him fly the ship, and he promises that nothing will go wrong, and that he will entirely be trustworthy. And that the ship will be safe. And he's even learned how to use some of the weapons. So if anybody attacks, we'll be fine.",
+          "DM: Plus we have a frost giant. He's a bit of a coward, but Kecha has been practicing like flying in like scouting in circles around the ship, and basically being like an artillery spotter like that air balloon, whatever spotter to like direct where the where the frost icicle spears should go from a distance, even if the ship is protected by",
+          "Seeker: The ice shield. Oh, that's cool.",
+          "DM: Amil and Kethra, I mean they seem to end—, and Jotha has joined the crew. The Deno'qai woman, who had been living with Vargaldi for some time, and has taken over tending the tanshi shrine that Delwath has made.",
+          "DM: You know that the frost giant is not likely to stay for long. He's not gonna leave the North when you depart. And he keeps talking about finding his sister somewhere. Your apprentice also seems to be keen on this question. Keep telling them like, “No, don't go haring off on a wild goose chase,” but he's spent a little bit too long hanging out with you and watching you now to know, to like trust, that you're serious about that."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The narrator says Ulfgar during the giant’s research account; the inventory preserves that uncertain identity separately."
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Entrusting Vindristjarna to Faldrak",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0585",
+        "endUid": "u0640"
+      },
+      "lines": [
+        "%% u0585:0-9, u0586:0-74, u0587:0-39, u0588:0-47 %%",
+        "DM: So as you move into the evening with your plan and disguise prepared for the morning, before you go to bed, you think back on the motley crew that you left behind 2 days ago:",
+        "",
+        "%% u0589:0-13, u0590:0-128, u0591:0-19, u0592:0-40, u0593:0-3, u0594:0-12, u0595:0-92, u0596:0-174, u0597:0-36, u0598:0-28, u0599:0-50, u0600:0-12, u0601:0-51, u0602:0-16, u0603:0-69, u0604:0-68, u0605:0-3, u0606:0-47, u0607:0-48, u0608:0-67 %%",
+        "((Other crew updates))",
+        "",
+        "%% u0609:0-47, u0610:0-10, u0611:0-149, u0612:0-31, u0613:0-91 %%",
+        "DM: Faldrak has spent the entire 3 weeks practicing, like he is completely happy that you are finally letting him fly the ship, and he promises that nothing will go wrong, and that he will entirely be trustworthy. And that the ship will be safe. And he's even learned how to use some of the weapons. So if anybody attacks, we'll be fine.",
+        "",
+        "%% u0614:0-81, u0615:0-11, u0616:0-171, u0617:0-73, u0618:0-32, u0619:0-100, u0620:0-107, u0621:0-51, u0622:0-170, u0623:0-23, u0624:0-83, u0625:0-41, u0626:0-55 %%",
+        "((Other crew updates))",
+        "",
+        "%% u0627:0-2, u0628:0-74 %%",
+        "DM: So they wave goodbye to you. Any last instructions you want to give your crew?",
+        "",
+        "%% u0629:0-7, u0630:0-18, u0631:0-8, u0632:0-12, u0633:0-27, u0634:0-37, u0635:0-32, u0636:0-97, u0637:0-155, u0638:0-7 %%",
+        "Seeker: Perfect. [garbled] for Faldrak, I think. Listen, just just play it safe. Remember that what you're responsible for here is bigger than any of us. It's a ancient, unique artifact of the world of giants. It is not ours. We are just temporarily stewards of this beautiful ship. Also I'll be making detailed sketches of the entire exterior, so if there's so much as a nick, or a scratch, you'll be accountable. Got it?",
+        "",
+        "%% u0639:0-28, u0640:0-35 %%",
+        "DM: He kind of laughs. I got it. Don't worry. The ship will be safe."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Yeah, yeah, let's let's try.",
+          "DM: So I mean, I still like the general, like—",
+          "Riswynn: We think, like trying to find out people's",
+          "Delwath: The presence of various yeah.",
+          "Riswynn: Tossing out a little bit of does the Rodnya, something isn't—wasn't the Rodnya, something rather looking for poison this month, or something like that sort of thing."
+        ],
+        "after": [
+          "Seeker: Do we have a way to be in touch, by the way, Tim?",
+          "DM: Riswynn can cast sending.",
+          "Seeker: I mean, it's magic.",
+          "Delwath: What about don't we have the sending stone? Should we leave one behind?",
+          "DM: We need that 2 unconnected sending stones, you've got one that's connected to the boy in Chardon, in the Chardonian village, and one that's connected to Sura."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Jotha tends the ship’s shrine",
+      "entities": [
+        {
+          "id": "e022",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0619",
+        "endUid": "u0620"
+      },
+      "lines": [
+        "%% u0619:0-100, u0620:0-107 %%",
+        "DM: ((Other crew references)) and Jotha has joined the crew. The Deno'qai woman, who had been living with Vargaldi for some time, and has taken over tending the tanshi shrine that Delwath has made."
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: Key",
+          "DM: And Nuzkar and Ulfgar have begun poring through Orcish histories to try and see if there are any clues that there might be freed orcs hiding in the North somewhere.",
+          "DM: Faldrak has spent the entire 3 weeks practicing, like he is completely happy that you are finally letting him fly the ship, and he promises that nothing will go wrong, and that he will entirely be trustworthy. And that the ship will be safe. And he's even learned how to use some of the weapons. So if anybody attacks, we'll be fine.",
+          "DM: Plus we have a frost giant. He's a bit of a coward, but Kecha has been practicing like flying in like scouting in circles around the ship, and basically being like an artillery spotter like that air balloon, whatever spotter to like direct where the where the frost icicle spears should go from a distance, even if the ship is protected by",
+          "Seeker: The ice shield. Oh, that's cool."
+        ],
+        "after": [
+          "DM: You know that the frost giant is not likely to stay for long. He's not gonna leave the North when you depart. And he keeps talking about finding his sister somewhere. Your apprentice also seems to be keen on this question. Keep telling them like, “No, don't go haring off on a wild goose chase,” but he's spent a little bit too long hanging out with you and watching you now to know, to like trust, that you're serious about that.",
+          "DM: So they wave goodbye to you. Any last instructions you want to give your crew?",
+          "Seeker: Perfect. [garbled] for Faldrak, I think. Listen, just just play it safe. Remember that what you're responsible for here is bigger than any of us. It's a ancient, unique artifact of the world of giants. It is not ours. We are just temporarily stewards of this beautiful ship. Also I'll be making detailed sketches of the entire exterior, so if there's so much as a nick, or a scratch, you'll be accountable. Got it?",
+          "DM: He kind of laughs. I got it. Don't worry. The ship will be safe.",
+          "Seeker: Do we have a way to be in touch, by the way, Tim?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "The giant still seeks his sister",
+      "entities": [
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0621",
+        "endUid": "u0626"
+      },
+      "lines": [
+        "%% u0621:0-51, u0622:0-170, u0623:0-23, u0624:0-83, u0625:0-41, u0626:0-55 %%",
+        "DM: You know that the frost giant is not likely to stay for long. He's not gonna leave the North when you depart. And he keeps talking about finding his sister somewhere. Your apprentice also seems to be keen on this question. Keep telling them like, “No, don't go haring off on a wild goose chase,” but he's spent a little bit too long hanging out with you and watching you now to know, to like trust, that you're serious about that."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And Nuzkar and Ulfgar have begun poring through Orcish histories to try and see if there are any clues that there might be freed orcs hiding in the North somewhere.",
+          "DM: Faldrak has spent the entire 3 weeks practicing, like he is completely happy that you are finally letting him fly the ship, and he promises that nothing will go wrong, and that he will entirely be trustworthy. And that the ship will be safe. And he's even learned how to use some of the weapons. So if anybody attacks, we'll be fine.",
+          "DM: Plus we have a frost giant. He's a bit of a coward, but Kecha has been practicing like flying in like scouting in circles around the ship, and basically being like an artillery spotter like that air balloon, whatever spotter to like direct where the where the frost icicle spears should go from a distance, even if the ship is protected by",
+          "Seeker: The ice shield. Oh, that's cool.",
+          "DM: Amil and Kethra, I mean they seem to end—, and Jotha has joined the crew. The Deno'qai woman, who had been living with Vargaldi for some time, and has taken over tending the tanshi shrine that Delwath has made."
+        ],
+        "after": [
+          "DM: So they wave goodbye to you. Any last instructions you want to give your crew?",
+          "Seeker: Perfect. [garbled] for Faldrak, I think. Listen, just just play it safe. Remember that what you're responsible for here is bigger than any of us. It's a ancient, unique artifact of the world of giants. It is not ours. We are just temporarily stewards of this beautiful ship. Also I'll be making detailed sketches of the entire exterior, so if there's so much as a nick, or a scratch, you'll be accountable. Got it?",
+          "DM: He kind of laughs. I got it. Don't worry. The ship will be safe.",
+          "Seeker: Do we have a way to be in touch, by the way, Tim?",
+          "DM: Riswynn can cast sending."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Wellby asks Baxter to protect the crew",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0647",
+        "endUid": "u0652"
+      },
+      "lines": [
+        "%% u0647:0-125, u0648:0-21, u0649:0-68 %%",
+        "Wellby: I think before we leave the ship, Baxter, you know we'll speak with—or, excuse me—well, we'll speak with animals with Baxter. You know and explain, you know, “Stay warm. You're in the North now. Nope, make sure you so",
+        "",
+        "%% u0650:0-164, u0651:0-177 %%",
+        "Wellby: Go down under all of your papers in your nest, and also, none of these people know what they're doing. So listen. You are in charge of paying attention for threats. You need to be the one looking outside of the ship. Frost Giant. Not gonna help you. Dwarf barely knows where they are. All right. You are in charge of keeping all of them safe.”",
+        "",
+        "%% u0652:0-30 %%",
+        "DM: Nice. Baxter just kind of nods."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Riswynn can cast sending.",
+          "Seeker: I mean, it's magic.",
+          "Delwath: What about don't we have the sending stone? Should we leave one behind?",
+          "DM: We need that 2 unconnected sending stones, you've got one that's connected to the boy in Chardon, in the Chardonian village, and one that's connected to Sura.",
+          "Seeker: Hmm!"
+        ],
+        "after": [
+          "Seeker: Baxter and the ladder. Can we animate the ladder? I only trust Baxter and the ladder out of the entire group that's on the boat. My dwarfish apprentice is very, very responsible, but she's",
+          "Kenzo: Not very farsighted.",
+          "Seeker: Don't trust them. Don't trust",
+          "DM: Yeah. The ladder only lasts for an hour, so it'll just turn into the ladder again. But Kecha is pretty—Kecha's pretty responsible.",
+          "Seeker: Why is it that intuitively, I trust, the unanimated ladder than, like the rest of our Baxter doesn't know that the unanimated ladder."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Trust in the unanimated Ladder",
+      "entities": [
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0653",
+        "endUid": "u0657"
+      },
+      "lines": [
+        "%% u0653:0-189 %%",
+        "Seeker: Baxter and the ladder. Can we animate the ladder? I only trust Baxter and the ladder out of the entire group that's on the boat. ((Apprentice aside))",
+        "",
+        "%% u0654:0-20, u0655:0-29 %%",
+        "((Brief apprentice aside))",
+        "",
+        "%% u0656:0-131 %%",
+        "DM: Yeah. The ladder only lasts for an hour, so it'll just turn into the ladder again. But Kecha is pretty—Kecha's pretty responsible.",
+        "",
+        "%% u0657:0-133 %%",
+        "Seeker: Why is it that intuitively, I trust, the unanimated ladder than, like the rest of our Baxter doesn't know that the unanimated ladder."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: We need that 2 unconnected sending stones, you've got one that's connected to the boy in Chardon, in the Chardonian village, and one that's connected to Sura.",
+          "Seeker: Hmm!",
+          "Wellby: I think before we leave the ship, Baxter, you know we'll speak with—or, excuse me—well, we'll speak with animals with Baxter. You know and explain, you know, “Stay warm. You're in the North now. Nope, make sure you so",
+          "Wellby: Go down under all of your papers in your nest, and also, none of these people know what they're doing. So listen. You are in charge of paying attention for threats. You need to be the one looking outside of the ship. Frost Giant. Not gonna help you. Dwarf barely knows where they are. All right. You are in charge of keeping all of them safe.”",
+          "DM: Nice. Baxter just kind of nods."
+        ],
+        "after": [
+          "DM: Well.",
+          "Kenzo: Tim, Tim, are, you trying to say that the crew is somehow a reflection of us and our leadership? That feels unfair.",
+          "Seeker: Which is why my apprentice is very responsible.",
+          "DM: Exactly.",
+          "Kenzo: And the rest—is a good point. That actually is a good point. Yeah. Well. Well, it would be in our style to like, like, not let the really trustworthy person have be in charge, and like and trust things to like the pet of like, you know—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Fyodar admits the hunters and offers contacts",
+      "entities": [
+        {
+          "id": "e028",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e029",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e031",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e032",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0737",
+        "endUid": "u0919"
+      },
+      "lines": [
+        "%% u0737:0-29, u0738:0-87, u0739:0-108, u0740:0-17 %%",
+        "DM: So you approach the 2 guards, one of whom looks up and says in Urskan, and something that seems like, “Business in town?” Kind of does a double take as he looks across at the Elf and the 2 dwarves, but it addresses the question to Kenzo and Wellby.",
+        "",
+        "%% u0741:0-35 %%",
+        "Delwath: In Elvish: “Our guides, talk to them.”",
+        "",
+        "%% u0742:0-59, u0743:0-21, u0744:0-62, u0745:0-70, u0746:0-13, u0747:0-22 %%",
+        "Wellby: That kind of takes a slight step back just a few weeks ago. Wellby says in Urskan in in the accent of the area, he says, “2 of us,” gesturing over, “hooked up with these monster hunters, and we have dragon bits to sell. And hopefully a good price for them.”",
+        "",
+        "%% u0748:0-28, u0749:0-106, u0750:0-22 %%",
+        "DM: He kind of looks over at his the other guard, who kind, who has been like slumped over, almost looks like he's asleep and kicks him and looks up, but he says—",
+        "",
+        "%% u0751:0-104, u0752:0-3, u0753:0-31, u0754:0-80, u0755:0-53, u0756:0-173 %%",
+        "DM: They have a quick conversation in Urskan which Kenzo understands because Kenzo understands all languages, and he's like, “Wow! They seem—Those folks seem impressive. Been a long time since we've seen dwarves in town, and is that an elf? At least, you know, before I've I've not heard of an elf in town. Anyway, they say they have monster parts. Get the scales.” And he trudges to the back to like, because this is like a gatehouse. Right? So it's like a—",
+        "",
+        "%% u0757:0-64, u0758:0-48, u0759:0-53 %%",
+        "DM: Motions you to come inside. Says in Urskan kind of rattling off: “Take out your goods. Let us see what you've got. Yeah. My partner's gone to get the scales and papers.”",
+        "",
+        "%% u0760:0-9, u0761:0-92 %%",
+        "Wellby: Aye, aye. Wellby signs for us to unload the goods and start hauling it out, from backpacks, and so on.",
+        "",
+        "%% u0762:0-41, u0763:0-43 %%",
+        "DM: He looks his like eyes kind of go wide as he sees everything that you start to unload.",
+        "",
+        "%% u0764:0-18, u0765:0-58, u0766:0-150, u0767:0-17 %%",
+        "DM: And the the other—The other guard comes back with like this, like, you know, a but a bunch of sheets of paper with like a wax seal, and like ink and pens and a bunch of scales and things, and just kind of does a double take and his eyes go wide.",
+        "",
+        "%% u0768:0-4, u0769:0-39 %%",
+        "DM: “Wow, it's quite dah—You must be impressive.”",
+        "",
+        "%% u0770:0-86, u0771:0-39 %%",
+        "Wellby: Yeah. And it's 20% for each of us, I say, gesturing to Kenzo on whatever we make here. We're lucky to hook up with this bunch.",
+        "",
+        "%% u0772:0-86 %%",
+        "DM: “Not bad. 15% for us, 20 for each of you. They're getting hardly anything off the sale.”",
+        "",
+        "%% u0773:0-71 %%",
+        "Wellby: They don't actually know that it's not hard to find dragons out there.",
+        "",
+        "%% u0773:71-106, u0774:0-82 %%",
+        "DM: He kind of laughs, chuckles at you. Okay, let's weigh it out. Begins to weigh out. Do you want to pay in coin or kind?",
+        "",
+        "%% u0775:0-24 %%",
+        "Wellby: Yeah, it's in kind right?",
+        "",
+        "%% u0776:0-57, u0777:0-16 %%",
+        "DM: Unless you're carrying—he's like slowly doing some math. Hmm. 3,000 gold.",
+        "",
+        "%% u0778:0-106, u0779:0-4, u0780:0-22, u0781:0-4 %%",
+        "((Checks, paperwork, and repeated price questions))",
+        "",
+        "%% u0782:0-71 %%",
+        "Wellby: Wellby pantomimes checking his pockets and then gestures to the scales.",
+        "",
+        "%% u0783:0-95, u0784:0-10, u0785:0-20, u0786:0-55, u0787:0-61, u0788:0-25 %%",
+        "DM: Do you mind if we just—let's see I forget what you have now. You have like teeth and scales and poison and cheeks, or something. He like looks at the teeth. He weighs a couple of them. Okay, if we just take this—cutting the scales, it's too hard. Think that's a fair price?",
+        "",
+        "%% u0789:0-59, u0790:0-52, u0791:0-94, u0792:0-51 %%",
+        "Wellby: Fair enough. Say, do you know that where this bunch is from, they're used to people commissioning them to go out? Go hunting, and I try for the last week to explain to them that is not how it works here, but have to at least tell them that I asked about this.",
+        "",
+        "%% u0793:0-23, u0794:0-29, u0795:0-5, u0796:0-79, u0797:0-74, u0798:0-18 %%",
+        "((Checks, paperwork, and repeated price questions))",
+        "",
+        "%% u0799:0-46, u0800:0-60 %%",
+        "DM: He he looks. He looks at you, and he says, “Ha! If you can find another dragon tooth, I might have a hookup.”",
+        "",
+        "%% u0801:0-35, u0802:0-73, u0803:0-61 %%",
+        "Wellby: Yeah, they don't know—finder's fee. No, [garbled], and we get a finder's fee. You get a finder's fee. Everybody wins. Worst scenario their bodies lie in the wastes.",
+        "",
+        "%% u0804:0-120, u0805:0-77, u0806:0-59, u0807:0-93 %%",
+        "((Checks, paperwork, and repeated price questions))",
+        "",
+        "%% u0808:0-3, u0809:0-8, u0810:0-13 %%",
+        "DM: ... He says, “Got—you might—”",
+        "",
+        "%% u0811:0-174, u0812:0-60 %%",
+        "DM: He like slides the the third dragon tooth over, explains, and like waves his hand, and is like points to the monster hunters, to the dwarves and the elf. Like, “Tax,” like, “Tax.” “You pay tax, and then you sell.” He's like gesture with them.",
+        "",
+        "%% u0813:0-100, u0814:0-21, u0815:0-193, u0816:0-6, u0817:0-248, u0818:0-84, u0819:0-210, u0820:0-8 %%",
+        "((Checks, paperwork, and repeated price questions))",
+        "",
+        "%% u0821:0-53, u0822:0-20, u0823:0-14, u0824:0-62, u0825:0-11, u0826:0-5, u0827:0-13, u0828:0-22, u0829:0-36, u0830:0-3, u0831:0-91, u0832:0-39, u0833:0-71, u0834:0-74, u0835:0-36 %%",
+        "DM: And he and the the guy who's been talking to you says, “You might speak with Lena Sorokina. She's one of the watchers. But but don't let that put you off. She's fair. She's quite strong. And has connections to 3 of the Rodnya who are often asking for—well, I don't rightly know what they might be asking for, but if anyone in town would know what would get you truly a good price, secret dangers might be lurking, that some powerful wizard, wants dead. It would be her. If you have no objections to speaking with the Watchers. Know not all of your kind like them.”",
+        "",
+        "%% u0835:36-165, u0836:0-18 %%",
+        "Wellby: Mmm. Wellby shrugs non-committally. We have a finder's fee, and you have a finder's fee. What what will it take to convince her? for her services.",
+        "",
+        "%% u0836:18-109 %%",
+        "DM: He kind of laughs again, sort of cheerfully. He seems like he's enjoying this conversation.",
+        "",
+        "%% u0837:0-24, u0838:0-46, u0839:0-54 %%",
+        "DM: “I've I've never met her. You'll if you want to know what she wants. Oh. You know she has a reputation. I get all my news from—”",
+        "",
+        "%% u0840:0-65 %%",
+        "((Checks, paperwork, and repeated price questions))",
+        "",
+        "%% u0841:0-34, u0842:0-14, u0843:0-76, u0844:0-89, u0845:0-19, u0846:0-112, u0847:0-8 %%",
+        "DM: “I get all my news from from Roman. You know, when when a nice treat like this comes in, and I can afford to go to his his bar. You know the says something in Urskan, but it would translate roughly as the Silver Wolf. You know, when you—the Silver Wolf is one of the classiest establishments in town. Few foreigners, but I think these 3 would fit in actually.”",
+        "",
+        "%% u0848:0-5 %%",
+        "Wellby: Oops.",
+        "",
+        "%% u0849:0-45 %%",
+        "DM: If you don't mind drawing a little attention.",
+        "",
+        "%% u0850:0-19, u0851:0-76 %%",
+        "Wellby: No, not at all that the longer conversation goes on, the more dragon teeth I need to hold on to.",
+        "",
+        "%% u0852:0-55 %%",
+        "DM: Tell tell Roman that—that you're a friend of Fyodar’s.",
+        "",
+        "%% u0853:0-34, u0854:0-108, u0855:0-34, u0856:0-52, u0857:0-16, u0858:0-61, u0859:0-39 %%",
+        "Delwath: Delwath will say again in Dunmari, ask them again, like like in the tone of like I don't know, asking a question of a servant or something. But ask him where we find this person. If he knows at least, can we just walk into the main Watcher's Spire? What is—? What's the next? We didn't want to go through Roman. What's the next? How would we find her?",
+        "",
+        "%% u0860:0-4, u0861:0-84, u0862:0-76 %%",
+        "Wellby: But—pardon, my friend, he does not understand how commerce works, but can I ask if Roman isn't there, can help? Ho—how do we get in touch with the with the watcher?",
+        "",
+        "%% u0863:0-10, u0864:0-48 %%",
+        "((Checks, paperwork, and repeated price questions))",
+        "",
+        "%% u0865:0-45 %%",
+        "DM: I guess you could always just write a letter.",
+        "",
+        "%% u0866:0-105 %%",
+        "Wellby: And presumably he shares details of like where to bring that letter, or Oh, yeah, to the Watcher's Spire.",
+        "",
+        "%% u0867:0-92, u0868:0-102 %%",
+        "DM: I mean, it's huge. It dominates the skyline like it's easy to send to. You just can't, like—or you could stop by and like ask for her, but they won't let you in without, you know, an invitation.",
+        "",
+        "%% u0869:0-10, u0870:0-3 %%",
+        "Wellby: Very good. But",
+        "",
+        "%% u0871:0-32, u0872:0-80, u0873:0-79 %%",
+        "Wellby: Wellby will look around as A and speaking in dwarvish, I guess, sort of update on what's going on in the guise of “Here's what's happening. Is there anything else we need to ask before we get in?”",
+        "",
+        "%% u0874:0-16 %%",
+        "Seeker: Market schedule.",
+        "",
+        "%% u0875:0-4, u0876:0-42 %%",
+        "Wellby: Hmm, yeah, sure. When? When is the market open?",
+        "",
+        "%% u0877:0-92, u0878:0-32, u0879:0-4, u0880:0-13, u0881:0-22, u0882:0-34 %%",
+        "DM: Well, every day. But if you want to sell this stuff, I'd wait till Wednesday, the fifteenth. Wednesdays and Saturdays are the most promising for for this kind of haul. You got a couple days in town. But—",
+        "",
+        "%% u0883:0-62, u0884:0-21, u0885:0-76, u0886:0-8, u0887:0-109, u0888:0-18, u0889:0-15, u0890:0-75, u0891:0-50, u0892:0-61, u0893:0-164, u0894:0-22, u0895:0-127, u0896:0-36, u0897:0-11, u0898:0-31, u0899:0-20, u0900:0-104 %%",
+        "((Checks, paperwork, and repeated price questions))",
+        "",
+        "%% u0901:0-12, u0902:0-53 %%",
+        "Wellby: Maybe. Good. Thank you. We'll see you on the way out again, maybe.",
+        "",
+        "%% u0903:0-8, u0904:0-243, u0905:0-79, u0906:0-19 %%",
+        "DM: Yeah, he hands you each like your visa that stamped and sealed with this sort of weirdly magical ink and or magical wax that seems to be just like it almost looks like it's grown into the paper like you could not remove it without destroying the paper. And it's marked with the date and the date you entered, and you know the 10 day permission to stay.",
+        "",
+        "%% u0907:0-18 %%",
+        "Kenzo: Keep those on you.",
+        "",
+        "%% u0908:0-16, u0909:0-64, u0910:0-26, u0911:0-35, u0912:0-5 %%",
+        "DM: The watcher asks so, “You must know the drill by now, but remind your your fellows don't travel without that. Wouldn't like to see you tossed in—Well.",
+        "",
+        "%% u0913:0-205, u0914:0-147 %%",
+        "DM: I don't know rightly what they do with people. They never come back. Anyway. I wouldn't like to see that happen to you just for forgetting to carry the right piece of paper. And here's your bill of goods. Remember to hold on to that, because you can't sell anything not marked on there. If you lose it, they won't be getting any money for these things.”",
+        "",
+        "%% u0915:0-10, u0916:0-20, u0917:0-7 %%",
+        "Wellby: Very good. Wellby tucks it away safely.",
+        "",
+        "%% u0918:0-11 %%",
+        "Unknown: We head in.",
+        "",
+        "%% u0919:0-16 %%",
+        "DM: Enjoy Zvervinka."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So in your disguises—not really disguise it as your cover stories, two Vargaldi, 3 heroes of the monster hunting world. You approach the the bridge.",
+          "DM: It's early enough in the morning. Was not a lot of traffic. And it's let's say so. Today is April thirteenth. So it's a Monday. A year ago today you were fighting gnolls in Raven's Hold.",
+          "DM: But there's not a ton of traffic. It's a pretty slow morning, the river is—you can see in a few places that the ice is beginning to thin, and it looks treacherous to walk across as you approach the bridge.",
+          "DM: There's 2 guards standing near the—there's like a gatehouse on the on the far side of the of the Ket, where the just, you know, there's like there's not even fields, right? Like, there's they don't really grow anything in the city. At least not on the on this bank of the Ket, but it's it's a bit swampy and marshy, and so the road—there's no road that the there's just the bridge and the gatehouse, and then just kind of a muddy field leading to the beginning of the forest.",
+          "DM: And as you sort of emerge from the forest there's currently nobody else on the bridge, nobody else. No, not much other traffic, and the 2 somewhat bored looking gate guards both, all broad shouldered men with wearing like heavy furs, cloaks pulled up against the morning chill, the cold, cloudy sort of misty day, with almost the, you know. Like, just just below freezing. So the mist is kind of almost a freezing rain. It's a bit uncomfortable to trudge through."
+        ],
+        "after": [
+          "DM: So as you enter again, it's still pretty quiet. It's like a cold, dreary morning. There's not a lot of of people about yet. There's like the main thoroughfare that leads—that's a wide thoroughfare that leads up to this like up the hill, like gently sloping up to this watcher tower. Watcher's Spire, which is this huge towering building with like—It's not just a single tower. It's like almost like a cathedral. Like many spires rising up kinda like—not exactly like this thing in the in the image, but kinda like that.",
+          "DM: And you know, right by the gate there seems to be some, you know. There's a couple of taverns and inns like—clearly this town does cater to travelers right? And everything is like nothing's—there's no written signs. Everything's just like a, you know, like a a pint of ale, or like a bed, or you know, a chicken, or something, or a or a anvil like everything, sort of you get the sense like, now that you're here that there is a bit of you know, we're used to dealing with people who are outsiders and don't speak the language, and like people are sort of adapted to that, and ready to deal with that. But you're standing here.",
+          "DM: You know the market is—will be open probably shortly, but on Mondays—much more, you know, the big people who might buy dragon scales and things like that will be there. There is a like cluster of inns and taverns around the the market, and he also gave you directions to Roman's inn. If you wanna go there. Romans.",
+          "Seeker: Yeah.",
+          "Delwath: Just as a side note to support our ruse, I'm suggesting we took out of our bag of infinite money that actually only has about 100,000 gold in it or not even quite maybe—a couple of 100 to a thousand gold coins and a couple of 100 to 1,000 elven coins, so that we can spend only gold and elvish money—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "The gatehouse chest opens with a wax seal",
+      "entities": [
+        {
+          "id": "e030",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e029",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0813",
+        "endUid": "u0820"
+      },
+      "lines": [
+        "%% u0813:0-100, u0814:0-21, u0815:0-193, u0816:0-6, u0817:0-248, u0818:0-84 %%",
+        "DM: ((Weighing and paperwork)) There's like a big lock, you see. Now, there's like a big locked chest in the in the yeah, actually, it's not even—it's a big stone chest that has no obvious way to open that and he takes the the seal, and he presses it against the side of the chest, and a seam opens up in the stone, and he lifts it out, and he puts everything in. And he closes again and presses the seal against it, he presses the seal against it.",
+        "",
+        "%% u0819:0-210, u0820:0-8 %%",
+        "DM: This, almost like emerging out of the stone, is this like wax sigil that he then presses on on each of your—it's almost like it's an ink pad of wax coming from that. But only 2 of the 3 dragon claws go in that in that."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: He he looks. He looks at you, and he says, “Ha! If you can find another dragon tooth, I might have a hookup.”",
+          "Wellby: Yeah, they don't know—finder's fee. No, [garbled], and we get a finder's fee. You get a finder's fee. Everybody wins. Worst scenario their bodies lie in the wastes.",
+          "Delwath: Delwath will say, this is, this is all in Urskan, right? Okay, I assume we can follow it relatively. Delwath will say in Dunmari, “Good job, Wellby,” pat pat like like grump, roughly. “Good job, Wellby.” You know, keep keep them. Keep keep asking these questions. Well, nice to see you standing in for—nice to have somebody else do the talking for a change.",
+          "DM: ... He says, “Got—you might—”",
+          "DM: He like slides the the third dragon tooth over, explains, and like waves his hand, and is like points to the monster hunters, to the dwarves and the elf. Like, “Tax,” like, “Tax.” “You pay tax, and then you sell.” He's like gesture with them."
+        ],
+        "after": [
+          "DM: And he and the the guy who's been talking to you says, “You might speak with Lena Sorokina. She's one of the watchers. But but don't let that put you off. She's fair. She's quite strong. And has connections to 3 of the Rodnya who are often asking for—well, I don't rightly know what they might be asking for, but if anyone in town would know what would get you truly a good price, secret dangers might be lurking, that some powerful wizard, wants dead. It would be her. If you have no objections to speaking with the Watchers. Know not all of your kind like them.”",
+          "Wellby: Mmm. Wellby shrugs non-committally. We have a finder's fee, and you have a finder's fee. What what will it take to convince her? for her services.",
+          "DM: He kind of laughs again, sort of cheerfully. He seems like he's enjoying this conversation.",
+          "DM: “I've I've never met her. You'll if you want to know what she wants. Oh. You know she has a reputation. I get all my news from—”",
+          "DM: Sorry I have a huge list of names. I'm trying to find a good one."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Rooms and breakfast at the Silver Wolf",
+      "entities": [
+        {
+          "id": "e033",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e032",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1013",
+        "endUid": "u1021"
+      },
+      "lines": [
+        "%% u1013:0-48, u1014:0-117, u1015:0-53 %%",
+        "((Repeating the cover story))",
+        "",
+        "%% u1015:53-127 %%",
+        "Delwath: And I mean Delwath will just obviously overpay for everything, too. Right?",
+        "",
+        "%% u1015:127-218, u1016:0-12, u1017:0-97, u1018:0-24 %%",
+        "DM: So you give them like 20 gold for your rooms, like 2 gold a night per room for 10 days. So that's like, if you get one room for the guides, and then every person, each of you gets a room right? So like 80 gold or something for—",
+        "",
+        "%% u1019:0-172, u1020:0-34, u1021:0-97 %%",
+        "DM: That includes breakfast every morning. It's like a bed and breakfast right? That includes breakfast, but not lunch or dinner, and he says, you know, he's you know they have plenty of space. Gets you settled. Romans, usually in around lunchtime. Happy to hang out and have tea and breakfast while you wait."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: The higher the further you go away from the river, the the nicer the city gets. So right when you enter right at the gate that you know that's like the the novja slums. Right? That's the the houses are dilapidated, it floods the river floods sometimes, and so there's a big, wide street that runs along the river, but but even so, like when the spring snow melt happens like the river will often flood, and and people's houses just flood, and it sucks. So the higher up you get the the nicer the houses get, and Romans—the Silver Wolf is just about at the height of land, like kind of overlooking the market, maybe 500 yards away, but up towards not too far from the Watchers Spire, actually.",
+          "DM: Seems quiet as you enter. It's—it looks nice, I mean, it's—it's—everything's like lined with furs. It's warm. You realize how cold you've been when you step into this warm, heated room.",
+          "DM: There's a big roaring fire. There's a smell of some unusual beverage that you haven't—well, I guess maybe you would have. It's it smells like some kind of spiced tea, nothing that you've encountered before. Wellby might recognize it actually from from when you were sailing on the Eastern Green Sea. Perhaps some of the halflings on the ship you sailed in had Urskan tea, and fresh baked bread and as you, there's only like 3 people here. And it seems it's not really a tavern right? This isn't a place where people go to to drink. It's like a it's almost like a fancy restaurant at a at an inn.",
+          "DM: Whoever is is tending the bar for breakfast is not Roman based on the description that that the guard gave you. But looks up and if you want to get rooms, you can easily get rooms, you have plenty of coin to splash around. And I don't know. So what what do you wanna do? Just like, tell Roman that you're looking for him and have breakfast, or what's your, what's your—",
+          "Delwath: Yeah, II would say that I mean we should come in, and you know we've heard this is the nicest establishment in the city, and my guests here looking for some food, and have heard Roman might be interested in talking."
+        ],
+        "after": [
+          "Delwath: I think we just wait for him. What? Yeah, I mean, not—keep a close eye on the room, you know. Does anybody come in? Find a excuse to, you know, order more food at some point and overtip whoever it is.",
+          "Seeker: Well, while we unpack in our room, I'll just try to see if there's a view out the window of the Watcher's tower, and just kind of just glance up at it. See if there's any movement up there.",
+          "DM: Yeah, you got 4 rooms up there.",
+          "DM: 2 of them look—the the nice rooms are the ones that look out over the market, and the whole vista the city below. So the 3 of you got the nice rooms, and then the guides get the like back room with a small window that looks up to the watchers tower. But you can—",
+          "Seeker: Look, I'll poke around up there."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "Roman commissions a silver wolf for his inn",
+      "entities": [
+        {
+          "id": "e032",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e034",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e033",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1088",
+        "endUid": "u1266"
+      },
+      "lines": [
+        "%% u1088:0-128, u1089:0-111, u1090:0-4, u1091:0-79, u1092:0-70, u1093:0-56 %%",
+        "DM: So around just before lunch, you see this older, like silver haired gentleman, clearly wearing well tailored, well dyed clothes. You know a mix of sort of—he seems to favor cooler colors. It's like blues and and sort of subtle silver trim. Take coat like fur lined cloak wrapped around as he comes in and throws it off as he cause—he enters and and goes to talk to the barkeep, who like sort of she chats with him for a bit and and points over to you.",
+        "",
+        "%% u1094:0-101 %%",
+        "DM: And I—so I assume you name dropped the guard who told you to come here when you were talking. Yeah.",
+        "",
+        "%% u1095:0-52, u1096:0-127, u1097:0-30, u1098:0-33, u1099:0-3, u1100:0-214, u1101:0-58, u1102:0-3 %%",
+        "DM: He walks over and he walks over, and he's, you know, as he's approaching, like, you know, you're all especially Kenzo is like pretty well attuned to reading people's attitudes, and you know, this is clearly like—He is wealthy, and he knows that. And likes other people to know it, too, like you can see from the way he dresses he's got like 4 silver rings, each set with a different gemstone on his hands as he approaches. Fingernails are like perfectly manicured. Probably gets his hair cut every day, like, and he walks off—any—",
+        "",
+        "%% u1103:0-54, u1104:0-10, u1105:0-50, u1106:0-38, u1107:0-20, u1108:0-3 %%",
+        "DM: He sort of looks around and says in Urskan he he asks Wellby and and Kenzo, who are playing the role of the guides, “Do they speak in Urskan? Do they speak Eastros, perhaps, or no?”",
+        "",
+        "%% u1109:0-24, u1110:0-23, u1111:0-36, u1112:0-25, u1113:0-10, u1114:0-32 %%",
+        "((Language clarification and crafting mechanics))",
+        "",
+        "%% u1115:0-100 %%",
+        "DM: He turns to the 3 of them, and he and he sort of bows, and he says it, still speaking in in Eastros,",
+        "",
+        "%% u1116:0-7, u1117:0-25, u1118:0-71, u1119:0-35, u1120:0-37, u1121:0-23 %%",
+        "DM: “Welcome to the Silver Wolf. It is a great pleasure to have such distinguished guests in my establishment. I hope that you will grace the room with your presence for dinner tonight on the house. Of course.”",
+        "",
+        "%% u1122:0-32, u1123:0-14 %%",
+        "Delwath: Delwath will say back in Elvish—no, no, wait.",
+        "",
+        "%% u1123:14-51 %%",
+        "DM: Well, he doesn't speak elfish to you.",
+        "",
+        "%% u1123:51-118, u1124:0-7, u1125:0-44, u1126:0-57 %%",
+        "Delwath: Okay, fine in in in Dunmari, that, of course, we would be happy to attend. I'd be honored to try your regional cuisine. Perhaps you could serve something interesting and exotic.",
+        "",
+        "%% u1127:0-42, u1128:0-34, u1129:0-32 %%",
+        "Wellby: Okay? Well, he says all of that, and adds, “The elf has a very refined palate. He appreciates being challenged.”",
+        "",
+        "%% u1130:0-8, u1131:0-24, u1132:0-32, u1133:0-39 %%",
+        "DM: “You have come to the right place. And I hear that you are carrying well, quite some valuable goods as well.”",
+        "",
+        "%% u1134:0-4 %%",
+        "Kenzo: Hmm!",
+        "",
+        "%% u1135:0-46, u1136:0-65 %%",
+        "DM: “I could sell them for you if you don't want to deal with the market yourself. Just just an offer. No obligation.”",
+        "",
+        "%% u1137:0-18 %%",
+        "Unknown: It's a kind offer.",
+        "",
+        "%% u1138:0-29, u1139:0-28, u1140:0-83, u1141:0-73 %%",
+        "Wellby: Here's here's the real thing: you know, when they hired us to bring them here, what they're used to and expect is to be hired out, to be given bounty to be told what they're seeking, and then to go after it. Not just—",
+        "",
+        "%% u1142:0-167, u1143:0-39, u1144:0-53, u1145:0-67, u1146:0-74 %%",
+        "Wellby: The goods we carry are what we happen to run into on the way here, but I wonder, and it might be worth a great deal to them if you could help put us in touch, and I'll drop, I'll say you know the name of the watcher in the Tower who so and so the guard told us, might be able to connect us with just those sort of people seeking, seeking particular items. That conversation is worth a great deal to them.",
+        "",
+        "%% u1147:0-4, u1148:0-112 %%",
+        "DM: Hmm! “I do know many people in this town. You come to the right place. If you're looking for connections and contacts.”",
+        "",
+        "%% u1149:0-16, u1150:0-12 %%",
+        "DM: He looks over at the dwarves.",
+        "",
+        "%% u1151:0-11, u1152:0-61, u1153:0-5 %%",
+        "DM: “I've always heard rumors of the renowned skill of Dwarven smiths. Is that true?”",
+        "",
+        "%% u1154:0-118, u1155:0-33 %%",
+        "Wellby: Indeed it is, and I'll translate that to the dwarves for the 2 of your sake, and be like, “I'm talking you up right now. Pull me back if you can't do this.”",
+        "",
+        "%% u1156:0-9 %%",
+        "Riswynn: There is.",
+        "",
+        "%% u1157:0-4 %%",
+        "DM: Hmm!",
+        "",
+        "%% u1158:0-49, u1159:0-58, u1160:0-56, u1161:0-25, u1162:0-23 %%",
+        "DM: I've always wanted a silver wolf to grace my inn. I just have a sign now, but it's made of wood and painted. I've never found anyone who could quite get the likeness a lifelike wolf of silver that would draw crowds.",
+        "",
+        "%% u1163:0-7 %%",
+        "Wellby: I mean.",
+        "",
+        "%% u1164:0-69, u1165:0-50 %%",
+        "DM: If that is something that one of your travelers could make, there is—There's a lot of doors that could be open for you.",
+        "",
+        "%% u1166:0-3, u1167:0-43, u1168:0-14, u1169:0-80, u1170:0-8, u1171:0-11, u1172:0-7, u1173:0-19, u1174:0-59, u1175:0-11, u1176:0-13, u1177:0-36, u1178:0-78, u1179:0-4, u1180:0-46, u1181:0-49, u1182:0-28, u1183:0-105, u1184:0-23, u1185:0-79, u1186:0-49, u1187:0-18, u1188:0-50, u1189:0-16, u1190:0-93 %%",
+        "((Language clarification and crafting mechanics))",
+        "",
+        "%% u1191:0-50, u1192:0-70, u1193:0-59 %%",
+        "Wellby: I'll turn back to him and translate again and say, “You can see they've already started working out how to do it. Exactly.” Seeker asks what the symbolism is. What is the wolf to you?",
+        "",
+        "%% u1194:0-31 %%",
+        "DM: Is that important for the task?",
+        "",
+        "%% u1195:0-14 %%",
+        "Seeker: Yes, of course.",
+        "",
+        "%% u1196:0-123 %%",
+        "Wellby: You don't know how the artist seeks to capture, not just the likeness of the thing, but the meaning inside of that likeness",
+        "",
+        "%% u1197:0-18 %%",
+        "DM: I see, I see. Wow!",
+        "",
+        "%% u1198:0-13 %%",
+        "Seeker: I said. Well.",
+        "",
+        "%% u1199:0-4 %%",
+        "Riswynn: Hmm!",
+        "",
+        "%% u1200:0-10, u1201:0-31, u1202:0-46, u1203:0-49, u1204:0-132, u1205:0-112, u1206:0-51, u1207:0-40 %%",
+        "DM: He he like fixes his hair. “The silver wolf is the most majestic and powerful of the pack. And when I acquired this building I like to think well, perhaps there is something of that in me,” and he like pulls his like flicks his, you know, underneath, and pulled off the like heavy fur cloak, but he's got this like shorter cape that he kind of pulls around him, and you can see this like silver threads through it. “Silver has always been a attractive color on me, don't you think?”",
+        "",
+        "%% u1208:0-4 %%",
+        "Unknown: Hmm.",
+        "",
+        "%% u1209:0-4 %%",
+        "Wellby: Yes.",
+        "",
+        "%% u1210:0-7 %%",
+        "Seeker: Hmm! So—",
+        "",
+        "%% u1211:0-35 %%",
+        "Riswynn: Riswynn bats her eyes at him a bit.",
+        "",
+        "%% u1212:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u1213:0-4 %%",
+        "Wellby: Hmm!",
+        "",
+        "%% u1214:0-52 %%",
+        "((Language clarification and crafting mechanics))",
+        "",
+        "%% u1215:0-17, u1216:0-22, u1217:0-26, u1218:0-64, u1219:0-89, u1220:0-92 %%",
+        "DM: “So can you do it? If you need a forge or such things, I would think—you don't carry a forge with you—that can certainly be arranged. There are metalworkers in town, some, I agree, have some skill, but but not dwarven skill. And there would be no one else who could say that their inn is marked by dwarven metalsmith.”",
+        "",
+        "%% u1221:0-15 %%",
+        "Wellby: Indeed, indeed!",
+        "",
+        "%% u1222:0-44, u1223:0-39 %%",
+        "Seeker: And we have a few days until the market day. What's he offering in exchange for this?",
+        "",
+        "%% u1224:0-7 %%",
+        "Wellby: Access?",
+        "",
+        "%% u1225:0-43 %%",
+        "DM: He said, “Many doors could be opened to you.”",
+        "",
+        "%% u1226:0-4 %%",
+        "Seeker: Hmm.",
+        "",
+        "%% u1227:0-30, u1228:0-10 %%",
+        "Riswynn: We get to meet all the Rodnya. Et cetera.",
+        "",
+        "%% u1229:0-46, u1230:0-26, u1231:0-44, u1232:0-3, u1233:0-151, u1234:0-147, u1235:0-52, u1236:0-81, u1237:0-24 %%",
+        "((Language clarification and crafting mechanics))",
+        "",
+        "%% u1238:0-29, u1239:0-110, u1240:0-44 %%",
+        "Wellby: They say that they can do it. But they don't want the secrets of dwarven metal smithing to be seen by anyone else. Can we have—? Can they have use of the smith unobserved and unperturbed?",
+        "",
+        "%% u1241:0-5, u1242:0-70, u1243:0-8, u1244:0-30, u1245:0-13, u1246:0-4, u1247:0-32 %%",
+        "((Language clarification and crafting mechanics))",
+        "",
+        "%% u1248:0-114 %%",
+        "DM: “Of course I understand. II would not want their secrets revealed either for others could maybe then copy the work.”",
+        "",
+        "%% u1249:0-9 %%",
+        "Wellby: Hmm, hmm!",
+        "",
+        "%% u1250:0-23, u1251:0-10, u1252:0-41, u1253:0-41, u1254:0-86 %%",
+        "DM: “I can hire some guards. And surely whoever owns the forge will be willing to depart for some time in exchange for some small tokens of my appreciation. I foresee no problem there. I will take care of that.",
+        "",
+        "%% u1255:0-48 %%",
+        "DM: Would you be ready to begin as soon as tomorrow?”",
+        "",
+        "%% u1256:0-7 %%",
+        "Wellby: Indeed.",
+        "",
+        "%% u1257:0-41 %%",
+        "Riswynn: Sounds like a great way to pass the time.",
+        "",
+        "%% u1258:0-4 %%",
+        "Seeker: Yes.",
+        "",
+        "%% u1259:0-103, u1260:0-52, u1261:0-35 %%",
+        "DM: “Then we are agreed,” and he sort of claps his hands together. “I am overjoyed to welcome you to our city. Please enjoy yourselves. Dinner is on me, as I said. I hope to see a full house tonight.”",
+        "",
+        "%% u1262:0-87, u1263:0-27, u1264:0-53 %%",
+        "DM: “In the meantime, if there's anything I can do for you, do not hesitate to ask, and once the wolf is in place, well, you just let me know what meetings you need arranged.”",
+        "",
+        "%% u1265:0-10 %%",
+        "Wellby: Very good.",
+        "",
+        "%% u1266:0-44 %%",
+        "DM: And he goes off to like handle inn business."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Like he'll take out his sword. He's probably never actually cleaned his sword before, because it seems to always come back clean when he tosses it into this magical other dimension. But you know, he'll like look over. I mean, it's actually kind of obviously a magical sword, right like it's elvish and carved with these glowing silver, you know. But he'll spend a little time polishing it, and like that kind of—",
+          "Riswynn: And speak dwarfish to Seeker and say, “Hey, poor Delwath, no one to talk to. So he talks to his sword.”",
+          "Seeker: Yeah. Least that makes one friend.",
+          "Wellby: Yeah, also me, I didn't say he had no friends. I said he had no elves.",
+          "Unknown: So anyway, Tim, you were gonna pick up the story."
+        ],
+        "after": [
+          "Delwath: So anything we want to see in town? Should we just hang out? Probably worth walking around town a bit, right? Just getting the vibe walk over to the market and see.",
+          "Wellby: Okay.",
+          "DM: So yeah, you spend the afternoon kind of walking around just checking it out. You know you draw comment right? You're not—It's not a—you're not—You're not like passing unnoticed right? And and rumors are starting to spread. And people see you coming out of the silver wolf. And and Roman obviously is gonna spread the word, and use your presence to fill up his dining room for the night.",
+          "DM: But you still start to get a bit of a of a sense of the place a little bit more than than you know, as the city begins to come to life as it warms up. You know it's it's mostly people seem sort of—we're not exactly friendly, but certainly happy to take your money, and and also like as rumors start to spread like, you know, a few people will will look and point at you and be like, “Oh, the monster hunters!” Right like there's a certain like cachet that comes with having that reputation.",
+          "DM: You start to notice more of the of the novja around town. They tend to live on the lower slopes that it's hard, for they tend not to you know, be wealthy or prominent in the trading families. It's clear that this is a pretty class-stratified city. And physically stratified city as well like, you know. There's a strong gradient and desirability as you go up the slope from the sort of marshy fens. And there are definitely like pretty, wealthy people here, it seems, mostly trade like, and not not even so much necessarily the actual merchants themselves, but the just the people who are connected with the trade. Like people like Roman, who sort of are fixers and innkeepers, and like, you know, but also people who like—and"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "Watchers check papers and tattoos",
+      "entities": [
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1307",
+        "endUid": "u1325"
+      },
+      "lines": [
+        "%% u1307:0-78, u1308:0-102, u1309:0-9, u1310:0-143 %%",
+        "DM: Then you do. You know, as you walk through, you do twice in the afternoon, get just briefly stopped by a watcher asked who asked for your papers. So it does seem like there is some, you know, eventually like, if you know, even though news must have spread and everybody probably recognizes, they still stop and ask you for your papers.",
+        "",
+        "%% u1311:0-10 %%",
+        "Seeker: Hmm. Okay.",
+        "",
+        "%% u1312:0-95, u1313:0-31, u1314:0-124, u1315:0-25 %%",
+        "DM: And they do also occasionally just stop random people on the street that you see and like ask. And your people will show them. It actually looks like people are showing like little tattoo, like small tattoos on their wrists, if they don't have papers. You're not entirely sure.",
+        "",
+        "%% u1316:0-66 %%",
+        "Delwath: Do they ever stop the no, novja, no, novja. And who show them what?",
+        "",
+        "%% u1317:0-21, u1318:0-114, u1319:0-21, u1320:0-46 %%",
+        "DM: Papers or or tattoos? But it's hard. It's hard to tell exactly like I mean, unless you want to spend the afternoon tailing the watchers. This is just sort of, you know, while you're kind of walking around.",
+        "",
+        "%% u1321:0-52 %%",
+        "Seeker: People who've had the rite probably have the tattoo.",
+        "",
+        "%% u1322:0-24, u1323:0-65, u1324:0-23, u1325:0-24 %%",
+        "Delwath: That's what I was doing. I was just curious what the people who haven't had the rite have. But maybe papers, maybe maybe they carry papers."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Fear of the watchers, or fear of like dragons?",
+          "DM: Like dragons.",
+          "Seeker: Libraries, universities?",
+          "DM: There is an archives in the watchers spire. There are not like universities. There's not any sort of public information.",
+          "DM: There's a lot of shops that they all seem to be, you know, like blacksmith, furrier you know, grocers, butchers. It's not—it doesn't strike like the vibe is really different than Tollen; it's not an intellectual town. It's not like—There's not like a Scribe street where there's booksellers and things. There's no map makers in town. There's no like—"
+        ],
+        "after": [
+          "Seeker: Oh, can Kenzo use Soul Sight here?",
+          "Kenzo: Definitely.",
+          "DM: Yeah, there's no—no, that's completely undetectable to anybody. It's just in Kenzo's mind.",
+          "Seeker: And there was something odd about Roman and the wolf. I don't know to understand more about that.",
+          "Delwath: Should we? I should we skip ahead to this dinner?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "Roman’s public dinner and deferred introductions",
+      "entities": [
+        {
+          "id": "e032",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1340",
+        "endUid": "u1401"
+      },
+      "lines": [
+        "%% u1340:0-101, u1341:0-34, u1342:0-25, u1343:0-106, u1344:0-157, u1345:0-23 %%",
+        "DM: So you come in for dinner. And Roman has set this table in the center, like in the very center of the common room of this restaurant inn, for you for the 5 of you. And the dining room is is like completely full. There's maybe 40 people in here, mostly very well dressed. And he he—he sort of welcomes you as you as you come into the into the dining hall, and you can see that there's like a first course already set. Some like chilled jellied things.",
+        "",
+        "%% u1346:0-58, u1347:0-71, u1348:0-61, u1349:0-19 %%",
+        "DM: And he's making this. He's like announcing this big speech in in Urskan which Kenzo understands, and the rest of you catch bits of. You know, he's like thanking these famous monster hunters for for coming to town.",
+        "",
+        "%% u1350:0-50, u1351:0-24, u1352:0-58, u1353:0-47, u1354:0-68, u1355:0-165, u1356:0-97, u1357:0-83, u1358:0-30 %%",
+        "DM: They're rich and powerful, and they've chosen his—the Silver Wolf as their home for the next 10 days, and he's grateful and overjoyed up there that they would honor him in this way. And he's explaining to everybody that they don't speak the language. They have guides and translators. But you won't be able to talk to them, so don't bother them unless they seek your company and your attention. Let them eat in peace and enjoy the meal that he's prepared. And like just goes on a little bit about, you know, at me. It's been years since you've been graced by an elf in this town, and etc. Etc. Etc. And then seats you and kind of—",
+        "",
+        "%% u1359:0-59, u1360:0-45, u1361:0-194, u1362:0-18, u1363:0-112 %%",
+        "Delwath: Delwath will get up after that, and just briefly in Elvish, I mean, unless anybody seems to know out, like—he'll start a short speech of thanks in Elvish. But if everybody appears to look blank he'll just like trail off eventually, just like you know, and blah blah blah blah blah! I don't really want—and then help help just for a minute, and then like clearly, if people aren't, you know, and then he will say, “Thank you,” in Urskan.",
+        "",
+        "%% u1364:0-6 %%",
+        "Unknown: Right?",
+        "",
+        "%% u1365:0-12, u1366:0-85, u1367:0-40, u1368:0-18, u1369:0-26 %%",
+        "Delwath: And you know more broken Urskan than even he would be able to speak in. But, like, “Thank you, Roman, for your hospitality, you know, for this for this food,” and and then sort of sit down.",
+        "",
+        "%% u1370:0-56, u1371:0-127, u1372:0-93, u1373:0-133 %%",
+        "DM: So you eat your dinner. It's it's actually, surprisingly distinctive. The first course is like like some sort of gelatin. It's like an aspic, or something like that. It's like jellied, jellied like boiled bones to make it gelatin, and then flavored with something astringent and almost a little bit tannic. This smell reminds you a little bit of the spiced tea. Some unusual spice you haven't encountered before.",
+        "",
+        "%% u1374:0-108, u1375:0-148, u1376:0-38 %%",
+        "DM: But it's interesting. It's different. And there's like 8 courses that he just brings out one after the other, almost every—there's nothing. There's no fresh meat, there's nothing fresh. Everything is sort of dried or preserved, but there's fried smoked fish or fried salted fishes like cod cakes.",
+        "",
+        "%% u1377:0-7, u1378:0-14, u1379:0-54, u1380:0-25, u1381:0-113, u1382:0-34, u1383:0-96, u1384:0-42, u1385:0-59 %%",
+        "((Further descriptions of preserved foods and spices))",
+        "",
+        "%% u1386:0-157, u1387:0-3, u1388:0-65 %%",
+        "DM: And you know he's Romans kind of hovering around if you want to talk to him, is clearly like working the room, and, like, you know, tried to greet everybody. But you know you can talk to them or not depending on if you want to.",
+        "",
+        "%% u1389:0-68, u1390:0-10, u1391:0-5, u1392:0-133, u1393:0-18 %%",
+        "Delwath: At some point, Delwath will say again, in sort of very broken Urskan, “I would be happy to be introduced.” I mean, it would come out more broken than this. But “I'd be happy to be introduced to any of your important friends” is the is the gist.",
+        "",
+        "%% u1394:0-38 %%",
+        "DM: “We'll get to that. We'll get to that.”",
+        "",
+        "%% u1394:38-162, u1395:0-62, u1396:0-34 %%",
+        "Delwath: The implication is, if it would be a favor to you—not that was asking to be introduced more, saying, If you if you want to—if you want any of your so more like, “I would be happy to greet any of your important guests,” right?",
+        "",
+        "%% u1397:0-184, u1398:0-33, u1399:0-162, u1400:0-56, u1401:0-108 %%",
+        "DM: Anyway, the dinner proceeds. Because of his speech in the beginning nobody is really nobody in the room is really interacting with you much unless you like, get up and talk to people. He—he seems not to want to like—He knows you're gonna be around for a while. You're staying at least in the market, like he's kinda letting you get settled before he pushes too much on anything. If there's anything you want to do in that this evening, you're certainly welcome to, otherwise we can jump ahead to how you plan to actually craft this silver wolf."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Should we? I should we skip ahead to this dinner?",
+          "DM: So I wanna come back.",
+          "Delwath: Tyler, go ahead. The markets fairly small right now.",
+          "DM: It's pretty much dead by mid afternoon. It seems like on—on, not on—There's like the 2 big market days. But on the other day, that's mostly, you know, serves as a you know, food market mostly.",
+          "Delwath: Okay."
+        ],
+        "after": [
+          "Delwath: I'm nothing to add.",
+          "DM: So the next morning, he's clearly like found a blacksmith or somebody whose shop you can commandeer, leads you there. Hosts—They're not like guards. They're basically like the, you know, 2 bartenders. Right? They're they're like burly folk. They're, you know, they have clubs. They're not there to fight. They're just there to keep anybody from bothering you.",
+          "DM: And what do you do? Whatever you wish to do. He's given you a stock of silver to shape the the wolf from, and you've got like a forge and plenty of charcoal, and and like that. So and so there's this—",
+          "Seeker: There's this rumor about Ursk, that there is a kingdom of wild folk led by a queen who can turn into a massive winter wolf. Yeah. Does this thing get connected? Is there any way I can make an inference about that, or seek seek for some clues? It just seems like a funny coincidence.",
+          "DM: Your read on, I mean, the Roman does not seem like he has hidden depths."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "The rumored wolf queen and Roman’s sign",
+      "entities": [
+        {
+          "id": "e035",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e032",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e034",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1405",
+        "endUid": "u1424"
+      },
+      "lines": [
+        "%% u1405:0-3, u1406:0-11, u1407:0-74, u1408:0-29, u1409:0-55, u1410:0-2, u1411:0-20 %%",
+        "DM: And what do you do? Whatever you wish to do. He's given you a stock of silver to shape the the wolf from, and you've got like a forge and plenty of charcoal, and and like that. So and so there's this—",
+        "",
+        "%% u1412:0-30, u1413:0-36, u1414:0-55, u1415:0-5, u1416:0-112, u1417:0-39 %%",
+        "Seeker: There's this rumor about Ursk, that there is a kingdom of wild folk led by a queen who can turn into a massive winter wolf. Yeah. Does this thing get connected? Is there any way I can make an inference about that, or seek seek for some clues? It just seems like a funny coincidence.",
+        "",
+        "%% u1418:0-21, u1419:0-50 %%",
+        "DM: Your read on, I mean, the Roman does not seem like he has hidden depths.",
+        "",
+        "%% u1420:0-4 %%",
+        "Seeker: Hmm!",
+        "",
+        "%% u1421:0-4, u1422:0-54, u1423:0-107, u1424:0-22 %%",
+        "DM: Like your read on him is not that he has some, you know the complicated history right? He really just thinks like silver wolves look cool, and he thinks he looks cool. And so he wants a wolf."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: “We'll get to that. We'll get to that.”",
+          "Delwath: The implication is, if it would be a favor to you—not that was asking to be introduced more, saying, If you if you want to—if you want any of your so more like, “I would be happy to greet any of your important guests,” right?",
+          "DM: Anyway, the dinner proceeds. Because of his speech in the beginning nobody is really nobody in the room is really interacting with you much unless you like, get up and talk to people. He—he seems not to want to like—He knows you're gonna be around for a while. You're staying at least in the market, like he's kinda letting you get settled before he pushes too much on anything. If there's anything you want to do in that this evening, you're certainly welcome to, otherwise we can jump ahead to how you plan to actually craft this silver wolf.",
+          "Delwath: I'm nothing to add.",
+          "DM: So the next morning, he's clearly like found a blacksmith or somebody whose shop you can commandeer, leads you there. Hosts—They're not like guards. They're basically like the, you know, 2 bartenders. Right? They're they're like burly folk. They're, you know, they have clubs. They're not there to fight. They're just there to keep anybody from bothering you."
+        ],
+        "after": [
+          "Seeker: Alright. So how? How are we gonna do this? Seeker sketches out a design? And Riswynn—makes it out of metal. I don't know, and he makes it out of metal. You cast it like I mean—",
+          "Riswynn: Either you cast it or you like",
+          "Seeker: Hammer it hammer it into shape right?",
+          "Riswynn: It seems easier, since both of you are good carvers, to carve something that I can pour metal into than to spend hammering on it with tiny little hammers to shape it.",
+          "DM: Pretty much cast like like the normal thing to do makes it—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i021",
+      "title": "Finishing the silver wolf",
+      "entities": [
+        {
+          "id": "e034",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1492",
+        "endUid": "u1514"
+      },
+      "lines": [
+        "%% u1492:0-26, u1493:0-17, u1494:0-4, u1495:0-102, u1496:0-94 %%",
+        "DM: So you've got a nice mold. So Riswynn's been like cutting up the—or heating up the silver and getting the forge going, and everything like that. And now it's you know, this has probably taken half at least half the day, 2 thirds of the day so far.",
+        "",
+        "%% u1497:0-21, u1498:0-21, u1499:0-18, u1500:0-8, u1501:0-43, u1502:0-32, u1503:0-6, u1504:0-8 %%",
+        "((Casting check))",
+        "",
+        "%% u1505:0-37, u1506:0-11, u1507:0-27, u1508:0-9, u1509:0-143 %%",
+        "DM: So as as the day winds to a close you from having shaped or made your design, shaped it, made a mold, poured the silver, and then like finished it off. You're, you know—you spend, spend the next couple of hours like polishing it up.",
+        "",
+        "%% u1510:0-78, u1511:0-44, u1512:0-5, u1513:0-67, u1514:0-25 %%",
+        "DM: You've got this very nice, beautifully designed silver wolf in relief profile. 2 pieces, basically, piece together like this. Yeah. It came out quite, quite well. Definitely has that kind of dwarven, you know, je ne sais quoi."
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: So inspiration—",
+          "Seeker: Last week. Okay, we, we—I mean, just get another block of wax and try again, I mean, could just try. Get you have like, 3 blocks of wax. Okay? Well, I'll inspire you to try to to improve that one.",
+          "Kenzo: Alright. Isn't wax. Ree—28! Last one nailed it, nailed it on the last one. Two tries to practice it.",
+          "DM: Fire guy. I mean, I guess. Yeah, you can melt wax, melt it down and reshape it, but that would delay you some.",
+          "Seeker: Alright. So the third block of wax I do that, anyway, courteously to leave behind some unused wax for the—"
+        ],
+        "after": [
+          "Seeker: Nice. That's just what he wants.",
+          "DM: So that evening you take it back to Roman. And he is overjoyed.",
+          "DM: “This is perfect. This is exactly what I had in mind. So grateful that you dwarves came to the city. I never would have guessed it. But amazing, I am in your debt. If there's any favor I can do for you, just do not hesitate to ask, and I would be happy to repay you for this generous deed that you have done for me and my inn.”",
+          "Riswynn: If we can say something about how we appreciated the challenge and are looking for additional challenges, as he knows. And something like, you know, tie it all together.",
+          "DM: The silver wolf crafting was a success. Kenzo, Riswynn and Seeker did it together. Roman is overjoyed, and Riswynn just asked for what other challenges he might have. And he kind of looks. “Yes, you were—You are asking about right, about bounties, yes.” That—so—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i022",
+      "title": "Roman’s gratitude and the warning about contraband",
+      "entities": [
+        {
+          "id": "e032",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e034",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e031",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1517",
+        "endUid": "u1590"
+      },
+      "lines": [
+        "%% u1517:0-42, u1518:0-20 %%",
+        "DM: So that evening you take it back to Roman. And he is overjoyed.",
+        "",
+        "%% u1519:0-52, u1520:0-28, u1521:0-79, u1522:0-110, u1523:0-51 %%",
+        "DM: “This is perfect. This is exactly what I had in mind. So grateful that you dwarves came to the city. I never would have guessed it. But amazing, I am in your debt. If there's any favor I can do for you, just do not hesitate to ask, and I would be happy to repay you for this generous deed that you have done for me and my inn.”",
+        "",
+        "%% u1524:0-122, u1525:0-46 %%",
+        "Riswynn: If we can say something about how we appreciated the challenge and are looking for additional challenges, as he knows. And something like, you know, tie it all together.",
+        "",
+        "%% u1526:0-3, u1527:0-78, u1528:0-18, u1529:0-3, u1530:0-96, u1531:0-26, u1532:0-20, u1533:0-7 %%",
+        "((Repetition and private equipment planning))",
+        "",
+        "%% u1534:0-46 %%",
+        "Riswynn: Strength and skill makes the day interesting.",
+        "",
+        "%% u1535:0-50, u1536:0-72 %%",
+        "DM: “Oh, yes, you wanted to speak to to my friend Lena, the Watcher. Yes, you have no problem speaking with watchers, I assume?”",
+        "",
+        "%% u1537:0-56 %%",
+        "Riswynn: If they have no problem speaking with dwarves and elves.",
+        "",
+        "%% u1538:0-22, u1539:0-38, u1540:0-87, u1541:0-52 %%",
+        "Wellby: Oh, no, of course not. Never actually spoken with one before. But everyone I've spoken with about speaking with a watcher has asked me that question. Why might we have a problem speaking with a watcher?",
+        "",
+        "%% u1542:0-55, u1543:0-51, u1544:0-71 %%",
+        "DM: “Well, I mean, if you have contraband on you, perhaps or if you are led into the tower, there's a little bit—how shall we say? Not quite the same as just wandering around the city.",
+        "",
+        "%% u1545:0-59 %%",
+        "DM: “You aren't carrying any spell books by any chance, are you?”",
+        "",
+        "%% u1546:0-2 %%",
+        "Wellby: No.",
+        "",
+        "%% u1547:0-73 %%",
+        "Delwath: Contraband is exactly yeah. What? What else is on the list of contraband?",
+        "",
+        "%% u1548:0-19, u1549:0-32 %%",
+        "DM: Oh, well, you know, scrolls or spells, or wands are!",
+        "",
+        "%% u1550:0-4, u1551:0-43 %%",
+        "DM: What—strange staff you carry? Isn't magic, is it?",
+        "",
+        "%% u1552:0-12 %%",
+        "Wellby: Point taken.",
+        "",
+        "%% u1553:0-40 %%",
+        "DM: You do have a safe, should you need one.",
+        "",
+        "%% u1554:0-17, u1555:0-30, u1556:0-38 %%",
+        "Delwath: Delwath was true. Alright! Is all, Delwath asks Wellby to ask, is all magic forbidden?",
+        "",
+        "%% u1557:0-56 %%",
+        "Wellby: Clearly, I mean my friend has an elven sword. It's still—",
+        "",
+        "%% u1558:0-58 %%",
+        "Delwath: Draw my sword, you can see like the glowing silver. Right?",
+        "",
+        "%% u1559:0-15, u1560:0-22 %%",
+        "DM: No, you're not. You're a warrior, yes?",
+        "",
+        "%% u1561:0-31 %%",
+        "Delwath: That sword—I fight with a sword",
+        "",
+        "%% u1562:0-31, u1563:0-55, u1564:0-17 %%",
+        "DM: Spoken Urskan sword, obviously. And your third friend, I'm not quite sure what he does. A thief, perhaps?",
+        "",
+        "%% u1565:0-9 %%",
+        "Wellby: A hunter.",
+        "",
+        "%% u1566:0-37, u1567:0-14 %%",
+        "DM: Hunter, yes. So no—so no problem. No spellbooks, or",
+        "",
+        "%% u1568:0-9 %%",
+        "Riswynn: Or wands.",
+        "",
+        "%% u1569:0-19 %%",
+        "DM: Or wands, you know.",
+        "",
+        "%% u1570:0-181, u1571:0-4, u1572:0-45, u1573:0-76, u1574:0-7, u1575:0-194, u1576:0-19, u1577:0-7, u1578:0-5 %%",
+        "((Repetition and private equipment planning))",
+        "",
+        "%% u1579:0-47, u1580:0-25, u1581:0-78, u1582:0-65 %%",
+        "DM: “Well, if you would wish to speak with her, well—hmm! I can send a letter. She does owe me a favor at the moment that I would happily use on your behalf. And I believe she would be quite interested to meet you. In fact—",
+        "",
+        "%% u1583:0-5 %%",
+        "Unknown: Okay.",
+        "",
+        "%% u1584:0-41, u1585:0-39, u1586:0-4, u1587:0-13, u1588:0-32 %%",
+        "DM: “She has many contacts among the powerful. And if you're seeking a real challenge, wow. I'm sure that I'm sure that would interest her.”",
+        "",
+        "%% u1589:0-147 %%",
+        "Riswynn: Course. We realize we're gonna be stuck going on some crazy, harebrained thing to get the like left lung of a newt or something right? An ice newt.",
+        "",
+        "%% u1590:0-20 %%",
+        "Delwath: Yeah. Let's meet her."
+      ],
+      "reviewContext": {
+        "before": [
+          "Riswynn: 2010, 20, sure. Okay. D 20, plus so 24,",
+          "DM: 24. Yep.",
+          "DM: So as as the day winds to a close you from having shaped or made your design, shaped it, made a mold, poured the silver, and then like finished it off. You're, you know—you spend, spend the next couple of hours like polishing it up.",
+          "DM: You've got this very nice, beautifully designed silver wolf in relief profile. 2 pieces, basically, piece together like this. Yeah. It came out quite, quite well. Definitely has that kind of dwarven, you know, je ne sais quoi.",
+          "Seeker: Nice. That's just what he wants."
+        ],
+        "after": [
+          "Wellby: Was to yeah, that'd be a great gift. Thank you.",
+          "DM: Would you wish to meet her perhaps after the market tomorrow, or for breakfast the following day?",
+          "Wellby: You tell me what preference—about after the market, if you'd be so kind as to assist us in the sale of our goods?",
+          "DM: Well, if you'd like to—would you like me to handle the transactions for you, for only a small fee?",
+          "Unknown: We'd be grateful."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i023",
+      "title": "Roman offers to seek market trades",
+      "entities": [
+        {
+          "id": "e032",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1591",
+        "endUid": "u1658"
+      },
+      "lines": [
+        "%% u1591:0-47 %%",
+        "Wellby: Was to yeah, that'd be a great gift. Thank you.",
+        "",
+        "%% u1592:0-98 %%",
+        "DM: Would you wish to meet her perhaps after the market tomorrow, or for breakfast the following day?",
+        "",
+        "%% u1593:0-27, u1594:0-85 %%",
+        "Wellby: You tell me what preference—about after the market, if you'd be so kind as to assist us in the sale of our goods?",
+        "",
+        "%% u1595:0-23, u1596:0-75 %%",
+        "DM: Well, if you'd like to—would you like me to handle the transactions for you, for only a small fee?",
+        "",
+        "%% u1597:0-16 %%",
+        "Unknown: We'd be grateful.",
+        "",
+        "%% u1598:0-47, u1599:0-69, u1600:0-29, u1601:0-15, u1601:15-22, u1602:0-33, u1603:0-20 %%",
+        "((Party discussion of preferred equipment))",
+        "",
+        "%% u1604:0-68, u1605:0-30 %%",
+        "Wellby: I'll take out the paperwork and and go into halfling trader mode and walk through it all with them.",
+        "",
+        "%% u1606:0-32, u1607:0-62, u1608:0-25 %%",
+        "DM: You interested in coin or goods? This is quite an impressive haul. I did not quite realize what esteemed company you keep.",
+        "",
+        "%% u1609:0-163, u1610:0-24 %%",
+        "Wellby: When you say goods, I don't know if we have the means to haul out the sort of goods that these are worth. But what? What sort of goods are available at the moment? Wow! That would be this.",
+        "",
+        "%% u1611:0-23, u1612:0-56, u1613:0-26, u1614:0-54, u1615:0-49 %%",
+        "DM: Your people? Typically—I guess you are not interested in the typical goods that I often see bartered here. Food, stuff and wine and metals and weapons and cloth. We seem not to have a challenge with those items.",
+        "",
+        "%% u1616:0-9, u1617:0-14, u1618:0-50, u1619:0-9, u1620:0-43, u1621:0-14, u1622:0-2, u1623:0-15, u1624:0-43 %%",
+        "DM: There are possibility of so sanctioned sale of the products of these things: swords or bows, or you said your friend was a hunter, armor, shields of magical purpose that could be arranged if that was desired.",
+        "",
+        "%% u1625:0-20, u1626:0-10, u1627:0-43, u1628:0-53, u1629:0-4, u1630:0-23, u1631:0-44, u1632:0-44, u1633:0-44, u1634:0-95, u1635:0-35, u1636:0-53, u1637:0-5, u1638:0-66, u1639:0-16, u1640:0-168, u1641:0-35, u1642:0-92 %%",
+        "((Party discussion of preferred equipment))",
+        "",
+        "%% u1643:0-25, u1644:0-20, u1645:0-3, u1646:0-36, u1647:0-65, u1648:0-32 %%",
+        "DM: To trade for such things, I would suggest that you leave your goods under lock and key. And I ask around tomorrow, send my agent, to ask around tomorrow. And we'll see what is on offer.",
+        "",
+        "%% u1649:0-33 %%",
+        "Wellby: Very good, and then we can decide.",
+        "",
+        "%% u1650:0-6, u1651:0-217 %%",
+        "DM: Such a—if you seek such specialized items, well, it simply depends on who shows up with what to sell at the market tomorrow, and if you don't like what's on offer, you can wait till Saturday and see if there's something new.",
+        "",
+        "%% u1652:0-36, u1653:0-26 %%",
+        "Riswynn: I mean gold and other goods are also not a bad option, if, like—",
+        "",
+        "%% u1654:0-61, u1655:0-35, u1656:0-160 %%",
+        "Delwath: If there's nothing available. Yeah, let's wait till Saturday. And you know you, we give him a a a small cut for handling all the transactions and making sure that the right people—I think that that's a good way to play it? Yeah, making the introductions and",
+        "",
+        "%% u1657:0-30, u1658:0-20 %%",
+        "Riswynn: Introducing us to the options. Seems like I didn't."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: “Well, if you would wish to speak with her, well—hmm! I can send a letter. She does owe me a favor at the moment that I would happily use on your behalf. And I believe she would be quite interested to meet you. In fact—",
+          "Unknown: Okay.",
+          "DM: “She has many contacts among the powerful. And if you're seeking a real challenge, wow. I'm sure that I'm sure that would interest her.”",
+          "Riswynn: Course. We realize we're gonna be stuck going on some crazy, harebrained thing to get the like left lung of a newt or something right? An ice newt.",
+          "Delwath: Yeah. Let's meet her."
+        ],
+        "after": [
+          "Delwath: We have actually—why don't we tell him? Look, we have to—Can can he raise the cash we have to leave right by after the Saturday market? If there's nothing that meets our needs for the Saturday market,",
+          "Delwath: Would he? Would he front cash for us, and and we just leave, and he could sell it after that, cause we can't stay. Why do you have to leave after this?",
+          "DM: Yeah, you can. You have 10—You have 10 days?",
+          "Delwath: Oh, well, that'll last us for 2 Wednesday markets. I guess it would. You'd have to leave—the, the second Wednesday market would be the last day. Never mind, I miscounted the days.",
+          "Wellby: Hey, Wellby you would really like a bow made from white dragon horn."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i024",
+      "title": "Roman secures the goods and arranges lunch",
+      "entities": [
+        {
+          "id": "e032",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e031",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1739",
+        "endUid": "u1745"
+      },
+      "lines": [
+        "%% u1739:0-122, u1740:0-193, u1741:0-55, u1742:0-126 %%",
+        "DM: So the next day comes. In the morning Roman brings in this chest and makes a big show of like putting all your stuff in the all your fancy stuff in the chest, and locks it up and hands you the key, but takes the papers so he can go to the market and show people what you have to sell and get offers and stuff for you. But leaves the key with you just as a sort of you know, trust, you know, you might trust me. But like this is a lot of money. So like, obviously, you're not just gonna give it to me.",
+        "",
+        "%% u1743:0-3, u1744:0-88, u1745:0-22 %%",
+        "DM: And arranges—He's arranged already for you to meet this woman Lena, the watcher, for lunch at the Watcher's Spire."
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: The ring of the warded mind that I use, it's like advantage against being charmed or possessed—",
+          "Delwath: Doesn't seem to come up that often. Yeah, you could dump that for something better, for sure.",
+          "DM: Let's let's actually—yeah. So let me just suggest it's like 1120. I wanna end not super late. And I think we have—if you don't want to do a ton of stuff at the market, then we could just do half an hour of your meeting with, and then call it quits for the night.",
+          "Delwath: I think, rather than spending a lot of time talking about magic items. Tim's gonna tell us what's available anyway, and then we'll pick from it.",
+          "DM: Yeah, yeah, with the session notes. I'll I'll let you know what's available, and you can say what seems good or not."
+        ],
+        "after": [
+          "DM: So how are you approaching this? You have your room. Somebody, can you? You will, haven't. You can, theoretically, if you're willing to risk it—telepathy. So you have an hour of telepathy.",
+          "Wellby: I can also use halfling telepathy is presumably undetectable.",
+          "DM: Unlimited range? No, no, it's 100. It's like 100 feet, ish, but you can use it while you're talking, if you need secret—but if somebody's staying behind it won't let you speak with the person who's staying behind",
+          "Seeker: Lost audio for a second there. What we're talking about?",
+          "DM: Prepare to prepare before you go to your meeting with with Lena the watcher."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i025",
+      "title": "Leaving magic at the Spire entrance",
+      "entities": [
+        {
+          "id": "e036",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e037",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e038",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1808",
+        "endUid": "u1896"
+      },
+      "lines": [
+        "%% u1808:0-93, u1809:0-6, u1810:0-154, u1811:0-170, u1812:0-32, u1813:0-10, u1814:0-77, u1815:0-45, u1816:0-12 %%",
+        "DM: And there's you know, you see, you see, several watchers, and you go past a couple of sort of gates. As you walk past, and you show them your invitation, and they kind of motion you on until you step into the sort of antechamber of this building, which is high ceilings. There's a lot of light coming through just not stained glass, but just glass, plain glass windows with a sort of latticework. And there's there's a sort of slightly bored looking man in in blue robes standing there. And he looks up, and he and he reads your invitation. Any, any—kind of shakes his head. “No magic. Leave here. Leave magic.”",
+        "",
+        "%% u1817:0-20, u1818:0-28, u1819:0-194 %%",
+        "Wellby: Wellby will ask all—Wellby will sensitively ask in a way that is appropriate to the rest of the city what we've learned so far does he mean all magic items of any kind, or including, like, weapons, and things, or what? What does that involve?",
+        "",
+        "%% u1820:0-62 %%",
+        "DM: “Put all your magic here before you visit. No magic in the tower.”",
+        "",
+        "%% u1821:0-127 %%",
+        "Wellby: Totally fair, and then we pick it up again on the way out, presumably. Right? Yes, of course. Yes. Wh—what sort of spot is he?",
+        "",
+        "%% u1822:0-44, u1823:0-49, u1824:0-31, u1825:0-126, u1826:0-11 %%",
+        "DM: There's the same same kind of chest that the that the entry guard has it's like doesn't have a—doesn't have an opening, and he yes, leave, and he goes over and he presses this, like again, wax seal into it, and the thing opens up. And it's like this big open chest.",
+        "",
+        "%% u1827:0-14 %%",
+        "Delwath: How big is it?",
+        "",
+        "%% u1828:0-21, u1829:0-33 %%",
+        "DM: It's like a wardrobe. It doesn't seem to have a bottom.",
+        "",
+        "%% u1830:0-2, u1831:0-170 %%",
+        "((Party reasoning and remarks about the guide cover))",
+        "",
+        "%% u1832:0-27, u1833:0-151, u1834:0-81 %%",
+        "Delwath: Delwath will take his sword. He'll nod slightly. He'll he'll kind of apologizes, he'll say again, in broken Urskan, “Apologies, will take a moment,” and takes his sword and puts it in. Takes the shield puts it in. He starts taking off his armor. Takes a few minutes.",
+        "",
+        "%% u1835:0-151, u1836:0-13 %%",
+        "Delwath: You know, kind of has to rearrange himself a little bit after taking the armor off, and like one box for all this, right? Hope, hope no dragon attack now. Delwath says.",
+        "",
+        "%% u1837:0-44 %%",
+        "Riswynn: Riswynn puts in her gauntlet, and her gem of",
+        "",
+        "%% u1838:0-26 %%",
+        "DM: Yup. All your stuff stuff,",
+        "",
+        "%% u1838:26-33 %%",
+        "Riswynn: And my—",
+        "",
+        "%% u1839:0-34 %%",
+        "Delwath: Delwath will take off a ring, too.",
+        "",
+        "%% u1840:0-76 %%",
+        "Wellby: Yeah. Wellby has to like strip down. He takes off his armor, his hat, shoes.",
+        "",
+        "%% u1841:0-46, u1842:0-26 %%",
+        "DM: You guys are laughing as you're stripping down. “Famous, yes, famous heroes.”",
+        "",
+        "%% u1843:0-53, u1844:0-102 %%",
+        "Seeker: Seems to actually reduce in size total by about half, after removing all of the items from his body piles and piles of trinkets and scrolls, and the goggles",
+        "",
+        "%% u1845:0-116, u1846:0-49, u1847:0-23, u1848:0-259 %%",
+        "Wellby: ((Scroll aside)) Should I leave the Amulet in there, do you think, with the portable hole? No, putting a portable hole in another portable hole could be really bad. Oh, yeah, only if you need to destroy Ursk we could do that. We have a portable hole inside. I mean, we have them. That's true inside our portable hole. I just I get nervous about that.",
+        "",
+        "%% u1849:0-75, u1850:0-35, u1851:0-40, u1852:0-2, u1853:0-9 %%",
+        "((Party reasoning and remarks about the guide cover))",
+        "",
+        "%% u1854:0-59, u1855:0-63 %%",
+        "Wellby: I'll take it off, and I'll put it in, and I'll make a point: “If this opens the whole city—no more city,” and I'll put it in.",
+        "",
+        "%% u1856:0-29 %%",
+        "Delwath: I assume nothing bad happens?",
+        "",
+        "%% u1857:0-23, u1858:0-10 %%",
+        "DM: Nothing. Yeah. He says, “Dimension.”",
+        "",
+        "%% u1859:0-12 %%",
+        "Wellby: Yeah. Ellis.",
+        "",
+        "%% u1860:0-5 %%",
+        "Unknown: Stop.",
+        "",
+        "%% u1861:0-42, u1862:0-24, u1863:0-95 %%",
+        "DM: Like, goes over he gets out another chest. It's like a, it's like a small lead box that he pulls out from a a shelf and opens it up. He says, “Dimension protection.”",
+        "",
+        "%% u1864:0-28 %%",
+        "Seeker: You guys think of everything.",
+        "",
+        "%% u1865:0-17, u1866:0-130, u1867:0-28, u1868:0-25 %%",
+        "Delwath: Delwath will also take his—well, let's see. Now, did he throw his magical cooking pouch, which is also extra dim in the regular one? Now he didn't. He'll hand that over also to the dimension protection.",
+        "",
+        "%% u1869:0-36 %%",
+        "DM: Kenzo puts in all of his stuff, too.",
+        "",
+        "%% u1870:0-20, u1871:0-77, u1872:0-106 %%",
+        "Kenzo: Yeah, I guess. Like—So are we saying, I don't need to bring in my staff, or probably should. Huh? Well, the jade amulets are—the jade pieces are super magical. Yeah, I guess I leave my staff, but alright.",
+        "",
+        "%% u1873:0-221 %%",
+        "DM: He like presses the thing against it again, and this the line vanishes, and then he stamps this wax against the page, and it like drips down in this weird, complicated pattern, and he hands it to you. And he says, “Receipt.”",
+        "",
+        "%% u1874:0-5 %%",
+        "Seeker: Heat.",
+        "",
+        "%% u1875:0-109 %%",
+        "Kenzo: This is like, just like business transactional stuff, right? It's not like malicious. No, we're yeah. I mean.",
+        "",
+        "%% u1876:0-121 %%",
+        "DM: He has—he's like, yeah, he's a low-level spellcaster. He clearly has some sort of magic item that lets him detect magic.",
+        "",
+        "%% u1877:0-31, u1878:0-37, u1879:0-12 %%",
+        "DM: He looks back and he says, “Wait,” points at the 2 of Wellby and Seeker. “Still magic.”",
+        "",
+        "%% u1879:12-65 %%",
+        "Wellby: Wellby rolls up the sleeve and points at the tattoo.",
+        "",
+        "%% u1880:0-34, u1881:0-34 %%",
+        "Delwath: Kenzo is also has a tattoo. Right? Yeah, he's pointing at Kenzo, too.",
+        "",
+        "%% u1882:0-24 %%",
+        "Wellby: What do we do with this?",
+        "",
+        "%% u1883:0-20, u1884:0-32 %%",
+        "DM: Is okay? Let me ask. He sits in silence for a minute.",
+        "",
+        "%% u1885:0-78, u1886:0-27, u1887:0-49, u1888:0-21, u1889:0-28, u1890:0-17 %%",
+        "((Party reasoning and remarks about the guide cover))",
+        "",
+        "%% u1891:0-10 %%",
+        "Delwath: We go up.",
+        "",
+        "%% u1891:10-53, u1892:0-86, u1893:0-50, u1894:0-103, u1895:0-140, u1896:0-13 %%",
+        "DM: So you get led up now. And you—you come to this sort of small room on like the fifth floor, you go up this long spiral staircase. There's a table that's been set with places for 6. Set is like it's like a there's like a silver tea service. It's all set basically for like for tea. And the the person who's leading you kind of gestures you into the room and then leaves and you just kind of standing around there for a minute. 2 min., 5 min."
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I mean I wouldn't go, I mean, honestly Delwath will probably not actually wear his armor or shield. It seems a little bit odd in a way to walk into their tower. But again, if things go south, Delwath doesn't want to leave the armor.",
+          "Wellby: We're I feel like we're we're in a world where people go armed. Yeah, you know. Yeah, no, it's fine. Let's just let's just go.",
+          "Seeker: Yeah. Okay.",
+          "DM: So you're given—you're given a letter, basically saying, you know, an invitation to come to the the Tower and meet with Lena for lunch. And you walk, you know it's only about 4 blocks from where you are to the entrance to this tower, and it's this—",
+          "DM: So so when, as you get close to it, you can see is this like towering building. It must be, you know, more than a hundred feet high, with like 3 rows of spires, so like a a low row, and then a slightly higher row than an even higher row in that. So it's like a tiered set. It's almost like a like if you took a cathedral and sort of bent it into a circle."
+        ],
+        "after": [
+          "DM: A woman walks in wearing—she's wearing—the the first thing you notice is that her hair is like—it's it's mostly blond, but it's got—it's like streaked with with white, almost like Seeker's hair. Actually like it has these like bleached patches that are just streaked throughout it. And her eyes are almost completely white as well, like there's just a tiny little bit of blue iris around, almost completely white eyes. Hard to tell what her age is. Not super old like not—she's not wrinkled, she doesn't—she walks purposefully.",
+          "DM: Her face is pale. Very thin eyebrows, just very sort of a thin face, but her eyes look at you with determination.",
+          "DM: She's wearing a well tailored but not fancy clothes. Mostly sort of yeah, light blue sort of with a lined with fur, wearing a cloak like, and the the sigil of the of these watchers that this like eyes symbol, this is like very heavy on her chest.",
+          "DM: And she looks at each of you for a moment, and she goes to cast a spell and then speaks, and you can immediately understand everything she says. Delwath recognizes the spell as tongues.",
+          "DM: She says, “Greetings, hunters, and guides,” she says, sort of questioningly. “Please be seated here.”"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i026",
+      "title": "Lena tests the story and offers Rodnya contacts",
+      "entities": [
+        {
+          "id": "e031",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e039",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e040",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e041",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e032",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1897",
+        "endUid": "u2181"
+      },
+      "lines": [
+        "%% u1897:0-24, u1898:0-70, u1899:0-109, u1900:0-213, u1901:0-109 %%",
+        "DM: A woman walks in wearing—she's wearing—the the first thing you notice is that her hair is like—it's it's mostly blond, but it's got—it's like streaked with with white, almost like Seeker's hair. Actually like it has these like bleached patches that are just streaked throughout it. And her eyes are almost completely white as well, like there's just a tiny little bit of blue iris around, almost completely white eyes. Hard to tell what her age is. Not super old like not—she's not wrinkled, she doesn't—she walks purposefully.",
+        "",
+        "%% u1902:0-17, u1903:0-95 %%",
+        "DM: Her face is pale. Very thin eyebrows, just very sort of a thin face, but her eyes look at you with determination.",
+        "",
+        "%% u1904:0-15, u1905:0-51, u1906:0-81, u1907:0-35, u1908:0-59 %%",
+        "DM: She's wearing a well tailored but not fancy clothes. Mostly sort of yeah, light blue sort of with a lined with fur, wearing a cloak like, and the the sigil of the of these watchers that this like eyes symbol, this is like very heavy on her chest.",
+        "",
+        "%% u1909:0-50, u1910:0-134 %%",
+        "DM: And she looks at each of you for a moment, and she goes to cast a spell and then speaks, and you can immediately understand everything she says. Delwath recognizes the spell as tongues.",
+        "",
+        "%% u1911:0-20, u1912:0-12, u1913:0-40, u1914:0-22 %%",
+        "DM: She says, “Greetings, hunters, and guides,” she says, sort of questioningly. “Please be seated here.”",
+        "",
+        "%% u1915:0-94 %%",
+        "Wellby: And then looks over at, Delwath, relieved to not have to be the one having this conversation.",
+        "",
+        "%% u1916:0-30 %%",
+        "Kenzo: We choose our guides carefully.",
+        "",
+        "%% u1917:0-25 %%",
+        "DM: “Indeed. Please be seated.”",
+        "",
+        "%% u1918:0-17 %%",
+        "Delwath: Delwath will sit.",
+        "",
+        "%% u1919:0-17, u1920:0-29, u1921:0-41 %%",
+        "DM: She sits as well. “Tell me a little of yourself. What is it that you are looking for here?”",
+        "",
+        "%% u1922:0-30, u1923:0-3 %%",
+        "Delwath: Delwath will tell a short tale of—",
+        "",
+        "%% u1924:0-61, u1925:0-56 %%",
+        "Delwath: He'll start with—he'll actually lead with, “We're looking for interesting problems, excitement, something we can hunt.”",
+        "",
+        "%% u1926:0-113, u1927:0-42, u1928:0-3, u1929:0-47, u1930:0-3, u1931:0-6 %%",
+        "Delwath: And then he'll tell a story. He'll tell a little bit. “You must—you must be curious why, we'd ask for such thing.” And he'll sort of look over at Riswynn and but Seeker and say, “I can't speak for my companions, but for me—”",
+        "",
+        "%% u1932:0-109, u1933:0-11, u1934:0-98 %%",
+        "Delwath: He'll tell a little bit of a story about like fighting in the Great War, and like being trapped for some time afterwards. And how it's been a strange experience coming back, and he really only finds peace in these hunts.",
+        "",
+        "%% u1935:0-6, u1936:0-3, u1937:0-53, u1938:0-23 %%",
+        "Delwath: And so the the “challenge, not so much the riches, is what I seek.” But then, hoping, Gert.",
+        "",
+        "%% u1939:0-56, u1940:0-54, u1941:0-88, u1942:0-28, u1943:0-17, u1944:0-53, u1945:0-35, u1946:0-10, u1947:0-12, u1948:0-43, u1949:0-35, u1950:0-71 %%",
+        "((Checks, interface discussion, and a private jade question))",
+        "",
+        "%% u1950:71-138, u1951:0-4, u1952:0-4, u1953:0-42 %%",
+        "DM: She—she looks at you and and kind of looks at everybody else, and hmm. “Wow, I still don't feel I know why you're here.”",
+        "",
+        "%% u1954:0-25, u1955:0-25 %%",
+        "Delwath: Here's more of the story. What do you wish to know?",
+        "",
+        "%% u1956:0-51, u1957:0-9, u1958:0-43 %%",
+        "DM: “You are the first of your kind who has come to this city, and well, at least a dozen years, maybe longer.”",
+        "",
+        "%% u1959:0-18 %%",
+        "Delwath: Delwath just nods.",
+        "",
+        "%% u1960:0-72, u1961:0-34 %%",
+        "DM: “There are challenges anywhere if you wish to seek your glory in battle. What drew you to the frozen North?”",
+        "",
+        "%% u1962:0-33 %%",
+        "Wellby: Though you should Soul Sight her.",
+        "",
+        "%% u1963:0-10 %%",
+        "Seeker: Yes, yeah.",
+        "",
+        "%% u1964:0-15 %%",
+        "Delwath: Dragons, mostly.",
+        "",
+        "%% u1965:0-25, u1966:0-92, u1967:0-84, u1968:0-49, u1969:0-166 %%",
+        "DM: She is clear, clearly a a pretty powerful wizard like she's on—she's on, maybe not quite your level, but not far off. She's confident, she's curious. She's a little uncertain like, I mean, not uncertain. I guess maybe uncertain is the wrong word. She's sort of slightly puzzled like something about this doesn't quite add up to her, like, what is an elf and 2 dwarves doing running around the freezing north seems to be—",
+        "",
+        "%% u1970:0-60, u1971:0-14, u1972:0-47, u1973:0-10 %%",
+        "((Checks, interface discussion, and a private jade question))",
+        "",
+        "%% u1974:0-128, u1975:0-86, u1976:0-23 %%",
+        "DM: Yeah. So I mean, you definitely get the—there's definitely a vibe that like, she's curious. It's really that she's curious about you. Like, the story seems interesting. But there's something that's not quite adding up to her about the story.",
+        "",
+        "%% u1977:0-24 %%",
+        "Seeker: So Seeker will chime in.",
+        "",
+        "%% u1978:0-53, u1979:0-41, u1980:0-3, u1981:0-13, u1982:0-29, u1983:0-22 %%",
+        "Seeker: “We are indeed, more than monster hunters that we are, but we're also adventurers and explorers, and curious about this world we have entered of of Ursk and its ways.”",
+        "",
+        "%% u1984:0-12 %%",
+        "Unknown: That's good.",
+        "",
+        "%% u1985:0-31 %%",
+        "Seeker: “We've heard tell of the Rodnya.”",
+        "",
+        "%% u1986:0-4, u1987:0-26 %%",
+        "DM: Yes. “You're rather old to join.”",
+        "",
+        "%% u1988:0-3 %%",
+        "Seeker: Oh.",
+        "",
+        "%% u1989:0-77 %%",
+        "DM: “I don't sense you wish to move to Ursk. What interests are the Rodnya to you?”",
+        "",
+        "%% u1990:0-67, u1991:0-40, u1992:0-98, u1993:0-44, u1994:0-22, u1995:0-45 %%",
+        "Wellby: My friend, is a seeker after curiosity, information, and knowledge. We knew that it would not be appropriate to come and ask, certainly to demand such things, but we thought, perhaps, that by doing a service, we might be able to have a conversation, say at least to understand a thing little understood outside your world.",
+        "",
+        "%% u1996:0-44 %%",
+        "DM: And you claim to be a guide of the Vargaldi?",
+        "",
+        "%% u1997:0-52 %%",
+        "Wellby: We brought them here through the Vargaldi territory.",
+        "",
+        "%% u1998:0-22 %%",
+        "Seeker: It's guided them here.",
+        "",
+        "%% u1999:0-18, u2000:0-18, u2001:0-32, u2002:0-45, u2003:0-22 %%",
+        "Delwath: Nope. For my part—truly wish to know—Delwath kind of looks uncertain. I do not know if it is even safe to speak of. Do not know your ways.",
+        "",
+        "%% u2004:0-17 %%",
+        "DM: What do you fear?",
+        "",
+        "%% u2005:0-47 %%",
+        "Delwath: Don't fear anything except loss of opportunity.",
+        "",
+        "%% u2006:0-6, u2007:0-25, u2008:0-31, u2009:0-11, u2010:0-10 %%",
+        "Delwath: So I'm in this part of the world originally looking for somebody someone who—came from—",
+        "",
+        "%% u2011:0-58, u2012:0-62, u2013:0-48 %%",
+        "Delwath: Delwath phrased this very carefully, because I'm trying to both tell the truth, and imply in case she jumps at something. So I'm not sure exactly how I—but what is it? So",
+        "",
+        "%% u2014:0-215, u2015:0-39, u2016:0-133 %%",
+        "Delwath: I want her to potentially misinterpret me as thinking I'm seeking a the piece of jade. But I don't want to mention the jade at all. I'm actually talking about the woman we found who also came from the from the magic—what's her name? The the other Deno'qai? Jotha, Jotha, right? So implying I actually Delwath knows that that this person, but again trying not to ever say person quite exactly",
+        "",
+        "%% u2017:0-105, u2018:0-27, u2019:0-14, u2020:0-92, u2021:0-112 %%",
+        "Delwath: Without again some something along those lines, came from some extra dimensional place, fell from the sky. And I'm seeking them right? You know to, to—because I have this sense that that I came, that they were related to the Great War somehow. Or or at least to my imprisonment after the Great War. Blah blah blah, right? Like trying to thread that needle.",
+        "",
+        "%% u2022:0-6, u2023:0-17, u2024:0-37, u2025:0-14, u2026:0-25 %%",
+        "((Checks, interface discussion, and a private jade question))",
+        "",
+        "%% u2027:0-5, u2028:0-27, u2029:0-74 %%",
+        "DM: Yeah. “A fascinating tale. And yet I was told you were seeking a bounty. Do not see how these things connect.”",
+        "",
+        "%% u2030:0-58 %%",
+        "Seeker: Perhaps there's a way we could be of service to the watch.",
+        "",
+        "%% u2031:0-20, u2032:0-60 %%",
+        "Wellby: We wouldn't presume to take this information without giving something in return.",
+        "",
+        "%% u2033:0-6, u2034:0-144, u2035:0-246, u2036:0-98 %%",
+        "DM: And so you get the sense you definitely feel from your Soul Sight that she's relaxed a bit like she feels like she's figured out what was bothering her about you. Well, at least about the 3 of them. She still hasn't quite put together the fact that you two are like the most magical. Kenzo and Wellby are like seemingly the most magical of any of you with magical tattoos, and yet supposedly these, you know, Vargaldi guides, but she's definitely relaxed, like things seem like they make sense to—",
+        "",
+        "%% u2037:0-85, u2038:0-28, u2039:0-49, u2040:0-123 %%",
+        "Delwath: I mean, I'll tell our, you know, since we're going, since I'm looking for this person in the wastes somewhere need—basically the, “Hey, well, I'm not gonna like, just stand in the snow waiting for this to happen. You know, I'm I'm looking for something to do in the area while I await fate.”",
+        "",
+        "%% u2041:0-123, u2042:0-146, u2043:0-62 %%",
+        "Delwath: So it so, the the implication being that the reason we're here is the reason Delwath is here is to try and find this person and or thing, or whatever Mister is. And the reason I'm looking for a bounty is, I gotta be in the area for a little bit and need something to do. So, yes, it's about, but it's not our only your entire purpose.",
+        "",
+        "%% u2044:0-39, u2045:0-70, u2046:0-18 %%",
+        "Delwath: And honestly Delwath will add, honestly, if there's any way it's so much more comfortable staying here than out with those people.",
+        "",
+        "%% u2047:0-39, u2048:0-11, u2049:0-7, u2050:0-39, u2051:0-59, u2052:0-10, u2053:0-37, u2054:0-3 %%",
+        "DM: “But I do not have information you seek. But perhaps I could put you in contact with those who might have the power to have sensed such dimensional disturbance. You have a few possibilities. Should you wish to—bye.”",
+        "",
+        "%% u2055:0-58, u2056:0-15, u2057:0-16, u2058:0-61, u2059:0-84 %%",
+        "((Checks, interface discussion, and a private jade question))",
+        "",
+        "%% u2060:0-97, u2061:0-41, u2062:0-11, u2063:0-119, u2064:0-36, u2065:0-33 %%",
+        "Delwath: Delwath will sort of say yes, of course, but also, I would be quite grateful if there was any way we could stay in this place a bit longer. The food, it—what's this ROM Roman Silver Wolf. The food of the Silver Wolf is much better than camp rations, and if I'm going to be traveling out into the wastes again, hate to give it up on our return.",
+        "",
+        "%% u2066:0-82, u2067:0-23 %%",
+        "Delwath: I realize that is a unusual or a big ask. But of course I will not be staying long, just more than 10 days.",
+        "",
+        "%% u2068:0-5 %%",
+        "DM: Umhm.",
+        "",
+        "%% u2069:0-35, u2070:0-24, u2071:0-7, u2072:0-20 %%",
+        "DM: This may be in my power to arrange. But it would require the pledge—Sorry, 1 s right now.",
+        "",
+        "%% u2073:0-30, u2074:0-49, u2075:0-63 %%",
+        "DM: It would require the pledge of—The Watchers serve at the pleasure of the Rodnya. You would need to seek their favor before I could approve this.",
+        "",
+        "%% u2076:0-41, u2077:0-13, u2078:0-14, u2079:0-46, u2080:0-29, u2081:0-44, u2082:0-35 %%",
+        "DM: I know several who might be interested in your services and could help with your quest for a dimensional disturbance. Should that be what you wish. Perhaps even a travel pass could be arranged, depends on who you wish to speak to.",
+        "",
+        "%% u2083:0-9 %%",
+        "Delwath: Guide us.",
+        "",
+        "%% u2084:0-15, u2085:0-21, u2086:0-15 %%",
+        "DM: I have contacts among 3 of the Rodnya: Rodnya Zoryana.",
+        "",
+        "%% u2087:0-53, u2088:0-8, u2089:0-9 %%",
+        "DM: Perhaps you know little of our people or their magic. They are diviners.",
+        "",
+        "%% u2090:0-16, u2091:0-19, u2092:0-37 %%",
+        "DM: Rodnya Morozmir. What you would say—They shape energy into magic, evokers.",
+        "",
+        "%% u2093:0-4 %%",
+        "Seeker: Hmm!",
+        "",
+        "%% u2094:0-52, u2095:0-20, u2096:0-14 %%",
+        "DM: Or, though not necessarily recommend this course, or their power is weak. Rodnya Voknaz.",
+        "",
+        "%% u2097:0-11 %%",
+        "Seeker: Okay, we're—",
+        "",
+        "%% u2098:0-34 %%",
+        "DM: Known for—what was, what was Artem?",
+        "",
+        "%% u2099:0-18 %%",
+        "Delwath: Remember, invoker.",
+        "",
+        "%% u2100:0-29 %%",
+        "DM: He was an evoker. Yeah. Okay.",
+        "",
+        "%% u2101:0-57, u2102:0-21 %%",
+        "DM: Okay, let's change that around. Then the the Morozmir are Abjurers, protectors.",
+        "",
+        "%% u2103:0-30, u2104:0-64, u2105:0-29, u2106:0-88 %%",
+        "DM: Finally, the Rodnya of Voknaz—they are shapers of elemental energy, evokers, you might say, but have overextended themselves. Well, there is great power in shaping frost and fire at your will. There is also danger.",
+        "",
+        "%% u2107:0-4 %%",
+        "Seeker: Yes.",
+        "",
+        "%% u2108:0-31 %%",
+        "DM: But I have contacts among all 3.",
+        "",
+        "%% u2109:0-47, u2110:0-24, u2111:0-19 %%",
+        "Delwath: Is there a danger in speaking to more than one? They dislike each other? Must we pick sides?",
+        "",
+        "%% u2112:0-35, u2113:0-24 %%",
+        "DM: I can only give you one travel pass; must pick a destination.",
+        "",
+        "%% u2114:0-17 %%",
+        "Delwath: They're not here?",
+        "",
+        "%% u2115:0-16 %%",
+        "DM: Must go to them.",
+        "",
+        "%% u2116:0-43 %%",
+        "Seeker: Knowing the geography might help us decide.",
+        "",
+        "%% u2117:0-19, u2118:0-24, u2119:0-36 %%",
+        "DM: Of course I forget. You possess great power. And yet are not one of us. I forget.",
+        "",
+        "%% u2120:0-67, u2121:0-14 %%",
+        "DM: She waves her hand, and an illusion appears over the table, showing a map of Ursk.",
+        "",
+        "%% u2122:0-4, u2123:0-22 %%",
+        "Seeker: Nice. Wellby takes pictures.",
+        "",
+        "%% u2124:0-35, u2125:0-3, u2126:0-13, u2127:0-30, u2127:30-60, u2128:0-5 %%",
+        "((Checks, interface discussion, and a private jade question))",
+        "",
+        "%% u2129:0-23, u2130:0-3, u2131:0-9, u2132:0-21 %%",
+        "DM: Voknaz are to the west. The—Morozmir, they're on the coast.",
+        "",
+        "%% u2133:0-3 %%",
+        "Unknown: And",
+        "",
+        "%% u2134:0-41, u2135:0-30, u2136:0-5 %%",
+        "DM: The first one is name I have to look up. They are near our headquarters here.",
+        "",
+        "%% u2137:0-41, u2138:0-28 %%",
+        "Seeker: Wait! I got mixed up. Where's the Voknaz? They're in the West? The the",
+        "",
+        "%% u2139:0-36, u2140:0-33 %%",
+        "DM: Morozmir, the abjurers on the coast. Okay, Zoryana's like in the east?",
+        "",
+        "%% u2141:0-86 %%",
+        "Delwath: Can we use Wellby's telepathy to briefly confer, but I think we want to go for Voknaz.",
+        "",
+        "%% u2142:0-9 %%",
+        "Unknown: Oh, yeah.",
+        "",
+        "%% u2143:0-17 %%",
+        "Delwath: Delwath will say—",
+        "",
+        "%% u2144:0-11 %%",
+        "Seeker: Yeah. Good.",
+        "",
+        "%% u2145:0-17, u2146:0-30, u2147:0-94 %%",
+        "Delwath: Delwath will say, your opinion that they are the—in disfavor—she said—there was something about they’re disfavored, right? That they were weak—",
+        "",
+        "%% u2148:0-13 %%",
+        "DM: At the moment.",
+        "",
+        "%% u2149:0-9, u2150:0-48, u2151:0-20, u2152:0-25, u2153:0-29 %%",
+        "Delwath: Is Voknaz so weak that they would not be able to aid us? I I have a belief that the West is the direction I would be best placed to go.",
+        "",
+        "%% u2154:0-7, u2155:0-19, u2156:0-80 %%",
+        "DM: “Voknaz—they are desperate. They may ask much of you and give much in return if you can raise their status.”",
+        "",
+        "%% u2157:0-40 %%",
+        "Seeker: It is a high risk, high reward strategy.",
+        "",
+        "%% u2158:0-41 %%",
+        "Kenzo: Sounds like just the same thing you like.",
+        "",
+        "%% u2159:0-4 %%",
+        "Seeker: Umhm.",
+        "",
+        "%% u2160:0-35, u2161:0-16, u2162:0-19 %%",
+        "Delwath: Delwath will smile briefly at that. “Think that would suit my companions.”",
+        "",
+        "%% u2163:0-28 %%",
+        "DM: I will need to get approval.",
+        "",
+        "%% u2164:0-10 %%",
+        "Delwath: Of course.",
+        "",
+        "%% u2165:0-21, u2166:0-33 %%",
+        "DM: May take 3 or 4 days. Would that be a problem for you?",
+        "",
+        "%% u2166:33-67, u2167:0-47 %%",
+        "Delwath: Of course. No, we we had hoped to arrange for the sale of some goods on Saturday.",
+        "",
+        "%% u2168:0-26, u2169:0-16 %%",
+        "DM: “Yes, I have heard you have quite the stock.”",
+        "",
+        "%% u2170:0-4, u2171:0-19, u2172:0-34 %%",
+        "Delwath: Yes. It'd be acceptable. Could we leave on Sunday, perhaps?",
+        "",
+        "%% u2173:0-24, u2174:0-24 %%",
+        "DM: “If permission is granted that should be possible.",
+        "",
+        "%% u2175:0-55, u2176:0-78, u2177:0-54, u2178:0-129, u2179:0-22, u2180:0-18 %%",
+        "DM: I will need to inquire. But, given your obvious skills, I believe any of the Rodnya would have missions for you. Reputation is already spread through this town in the days you've been here. And it is rare for talented individuals such as yourselves to be willing to put themselves in the service of the wizards of Ursk. So if you're amenable, I'll make contact.",
+        "",
+        "%% u2181:0-80 %%",
+        "DM: And I can reach you at the Silver Wolf when I have approval for your travel pass.”"
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Dragon killers. Yeah.",
+          "Delwath: Well, everybody you had done—",
+          "Wellby: Alright. Alright.",
+          "Delwath: We go up.",
+          "DM: So you get led up now. And you—you come to this sort of small room on like the fifth floor, you go up this long spiral staircase. There's a table that's been set with places for 6. Set is like it's like a there's like a silver tea service. It's all set basically for like for tea. And the the person who's leading you kind of gestures you into the room and then leaves and you just kind of standing around there for a minute. 2 min., 5 min."
+        ],
+        "after": [
+          "Delwath: Delwath will thank her. Yes,",
+          "Seeker: Or if I missed this, how are we expecting to travel?",
+          "Delwath: She didn't say.",
+          "DM: Are you saying that's Eric?",
+          "Seeker: That's Eric. I just wasn't sure if I missed something."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i027",
+      "title": "The fragments may have followed different paths",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2055",
+        "endUid": "u2059"
+      },
+      "lines": [
+        "%% u2055:0-58, u2056:0-15 %%",
+        "Delwath: Would Rai's hand have generated a dimensional disturbance? I mean no idea.",
+        "",
+        "%% u2057:0-16, u2058:0-61, u2059:0-84 %%",
+        "DM: It's hard. Well, you don't know if every piece of Rai's hand followed the same like trajectory. Right? One you recovered in the Elderwood like definitely generate—"
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And so you get the sense you definitely feel from your Soul Sight that she's relaxed a bit like she feels like she's figured out what was bothering her about you. Well, at least about the 3 of them. She still hasn't quite put together the fact that you two are like the most magical. Kenzo and Wellby are like seemingly the most magical of any of you with magical tattoos, and yet supposedly these, you know, Vargaldi guides, but she's definitely relaxed, like things seem like they make sense to—",
+          "Delwath: I mean, I'll tell our, you know, since we're going, since I'm looking for this person in the wastes somewhere need—basically the, “Hey, well, I'm not gonna like, just stand in the snow waiting for this to happen. You know, I'm I'm looking for something to do in the area while I await fate.”",
+          "Delwath: So it so, the the implication being that the reason we're here is the reason Delwath is here is to try and find this person and or thing, or whatever Mister is. And the reason I'm looking for a bounty is, I gotta be in the area for a little bit and need something to do. So, yes, it's about, but it's not our only your entire purpose.",
+          "Delwath: And honestly Delwath will add, honestly, if there's any way it's so much more comfortable staying here than out with those people.",
+          "DM: “But I do not have information you seek. But perhaps I could put you in contact with those who might have the power to have sensed such dimensional disturbance. You have a few possibilities. Should you wish to—bye.”"
+        ],
+        "after": [
+          "Delwath: Delwath will sort of say yes, of course, but also, I would be quite grateful if there was any way we could stay in this place a bit longer. The food, it—what's this ROM Roman Silver Wolf. The food of the Silver Wolf is much better than camp rations, and if I'm going to be traveling out into the wastes again, hate to give it up on our return.",
+          "Delwath: I realize that is a unusual or a big ask. But of course I will not be staying long, just more than 10 days.",
+          "DM: Umhm.",
+          "DM: This may be in my power to arrange. But it would require the pledge—Sorry, 1 s right now.",
+          "DM: It would require the pledge of—The Watchers serve at the pleasure of the Rodnya. You would need to seek their favor before I could approve this."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

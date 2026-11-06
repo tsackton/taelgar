@@ -1,0 +1,628 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-094",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-094/cleaned/dunmari-frontier-094-session.yaml",
+    "sessionYamlSha256": "13cac4f40521099391f2c00c2a66d194a0ff446a5930956795a5d600bf147105",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-094/cleaned/dunmari-frontier-094-transcript.md",
+    "transcriptSha256": "8b1daff6131efc1e6baa2b372087244436187a42e7b98138be46e9ce3b818a6e",
+    "yamlDates": {
+      "start": "1749-03-22",
+      "end": "1749-04-15"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0007"
+      },
+      "reading": "The shared current frame opens at a dark evening camp on the Ket, nearly a month after the earlier white-dragon fight.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0007",
+          "quote": "the only light is the flicker of your campsite."
+        },
+        {
+          "startUid": "u0585",
+          "endUid": "u0588",
+          "quote": "as you move into the evening"
+        },
+        {
+          "startUid": "u0121",
+          "endUid": "u0128",
+          "quote": "It's been nearly a month since you killed the White Dragon and met the Vargaldi."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Evening is spoken later; April 12 is inferred from the next-morning April 13 anchor; year from YAML.",
+        "partOfDay": "evening",
+        "date": {
+          "year": 1749,
+          "month": 4,
+          "day": 12
+        },
+        "relative": {
+          "relation": "after",
+          "anchor": "the earlier white-dragon fight and first meeting with the Vargaldi",
+          "offset": {
+            "text": "nearly a month",
+            "unit": "day",
+            "precision": "vague",
+            "basis": "DM’s retrospective description of the elapsed adventure interval."
+          }
+        }
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0008",
+        "endUid": "u0011"
+      },
+      "reading": "The party has completed about a day and a half on foot after leaving Vindristjarna, ending at the opening camp.",
+      "evidence": [
+        {
+          "startUid": "u0008",
+          "endUid": "u0011",
+          "quote": "You've been on foot for the past day and a half, trekking through the snow and the mud after leaving Vindristjarna"
+        }
+      ],
+      "duration": {
+        "value": 1.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM retrospectively states the time already spent walking."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0121",
+        "endUid": "u0128"
+      },
+      "reading": "Narration resolves earlier language-study downtime at the Vargaldi camp, approximately two weeks; Faldrak’s overlapping practice is described separately as three weeks.",
+      "evidence": [
+        {
+          "startUid": "u0121",
+          "endUid": "u0128",
+          "quote": "The 2 ish weeks in camp wasn't quite enough time"
+        },
+        {
+          "startUid": "u0134",
+          "endUid": "u0140",
+          "quote": "over the days as you spent most of your time practicing your languages"
+        },
+        {
+          "startUid": "u0609",
+          "endUid": "u0613",
+          "quote": "Faldrak has spent the entire 3 weeks practicing"
+        }
+      ],
+      "context": "flashback",
+      "duration": {
+        "value": 14,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Two-ish weeks of party language practice; three weeks describes Faldrak’s practice and is not added to it."
+      },
+      "completion": "completed",
+      "time": {
+        "precision": "approximate",
+        "basis": "Explicit retrospective narration from the opening camp.",
+        "relative": {
+          "relation": "before",
+          "reference": "t01"
+        }
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0131",
+        "endUid": "u0133"
+      },
+      "reading": "The morning after the earlier white-dragon fight was the party’s one-year anniversary, within the retrospective downtime frame.",
+      "evidence": [
+        {
+          "startUid": "u0131",
+          "endUid": "u0133",
+          "quote": "The day after you killed the White Dragon that morning was the one year anniversary of your meeting."
+        }
+      ],
+      "context": "flashback",
+      "time": {
+        "precision": "approximate",
+        "basis": "Spoken anniversary and morning; no absolute date stated.",
+        "partOfDay": "morning",
+        "relative": {
+          "relation": "after",
+          "anchor": "the earlier white-dragon fight"
+        }
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0131",
+        "endUid": "u0133"
+      },
+      "reading": "The party celebrated the Festival of Rebirth a few days after that anniversary.",
+      "evidence": [
+        {
+          "startUid": "u0131",
+          "endUid": "u0133",
+          "quote": "a few days later, the festival of Rebirth, the second such festival in the Dunmari calendar that you celebrated together."
+        }
+      ],
+      "context": "flashback",
+      "time": {
+        "precision": "approximate",
+        "basis": "Retrospective relative festival anchor; no calendar date spoken.",
+        "relative": {
+          "relation": "after",
+          "reference": "t04",
+          "offset": {
+            "text": "a few days",
+            "unit": "day",
+            "precision": "vague",
+            "basis": "DM’s relative timing."
+          }
+        }
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0585",
+        "endUid": "u0588"
+      },
+      "reading": "Play shifts to the farewell to the crew aboard Vindristjarna, described as two days before the opening evening.",
+      "evidence": [
+        {
+          "startUid": "u0585",
+          "endUid": "u0588",
+          "quote": "before you go to bed, you think back on the motley crew that you left behind 2 days ago:"
+        },
+        {
+          "startUid": "u0627",
+          "endUid": "u0628",
+          "quote": "So they wave goodbye to you. Any last instructions you want to give your crew?"
+        }
+      ],
+      "context": "flashback",
+      "time": {
+        "precision": "approximate",
+        "basis": "Explicit shift to the earlier crew farewell; no independent civil date.",
+        "relative": {
+          "relation": "before",
+          "reference": "t01",
+          "offset": {
+            "value": 2,
+            "unit": "day",
+            "precision": "approximate",
+            "basis": "DM’s retrospective two-days-ago wording."
+          }
+        }
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0669",
+        "endUid": "u0670"
+      },
+      "reading": "Narration resumes the forward frame on the next morning, when the party heads to Zvervinka; the bridge approach is explicitly April 13.",
+      "evidence": [
+        {
+          "startUid": "u0669",
+          "endUid": "u0670",
+          "quote": "DM: So the next morning you head for the city."
+        },
+        {
+          "startUid": "u0722",
+          "endUid": "u0724",
+          "quote": "It's early enough in the morning."
+        },
+        {
+          "startUid": "u0722",
+          "endUid": "u0724",
+          "quote": "Today is April thirteenth. So it's a Monday."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM states April 13; year from YAML. The next-morning return is explicit.",
+        "partOfDay": "morning",
+        "date": {
+          "year": 1749,
+          "month": 4,
+          "day": 13
+        }
+      },
+      "dateBoundaries": 1,
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t01"
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0963",
+        "endUid": "u0972"
+      },
+      "reading": "The party walks through Zvervinka toward the Silver Wolf at about 8:30 in the morning.",
+      "evidence": [
+        {
+          "startUid": "u0963",
+          "endUid": "u0972",
+          "quote": "it's maybe 8 30."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM gives approximate 8:30 during the same April 13 morning.",
+        "partOfDay": "morning",
+        "date": {
+          "year": 1749,
+          "month": 4,
+          "day": 13
+        },
+        "clock": "08:30"
+      }
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1061",
+        "endUid": "u1067"
+      },
+      "reading": "Breakfast and the wait at the Silver Wolf pass toward lunch; Roman arrives just before lunch.",
+      "evidence": [
+        {
+          "startUid": "u1061",
+          "endUid": "u1067",
+          "quote": "So breakfast passes, you hang out, you sort of talk, you chat and play up your roles around lunchtime."
+        },
+        {
+          "startUid": "u1088",
+          "endUid": "u1093",
+          "quote": "just before lunch"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Narrated passage to lunchtime on the arrival day.",
+        "partOfDay": "midday",
+        "date": {
+          "year": 1749,
+          "month": 4,
+          "day": 13
+        }
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1270",
+        "endUid": "u1274"
+      },
+      "reading": "The party spends the afternoon walking around Zvervinka.",
+      "evidence": [
+        {
+          "startUid": "u1270",
+          "endUid": "u1274",
+          "quote": "you spend the afternoon kind of walking around just checking it out."
+        },
+        {
+          "startUid": "u1336",
+          "endUid": "u1338",
+          "quote": "It's pretty much dead by mid afternoon."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Afternoon circuit and mid-afternoon market comment.",
+        "partOfDay": "afternoon",
+        "date": {
+          "year": 1749,
+          "month": 4,
+          "day": 13
+        }
+      }
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1340",
+        "endUid": "u1345"
+      },
+      "reading": "The party returns for Roman’s dinner that evening.",
+      "evidence": [
+        {
+          "startUid": "u1340",
+          "endUid": "u1345",
+          "quote": "So you come in for dinner."
+        },
+        {
+          "startUid": "u1397",
+          "endUid": "u1401",
+          "quote": "this evening"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Dinner is explicitly situated in this evening.",
+        "partOfDay": "evening",
+        "date": {
+          "year": 1749,
+          "month": 4,
+          "day": 13
+        }
+      }
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1403",
+        "endUid": "u1404"
+      },
+      "reading": "The next morning Roman leads the party to the borrowed smithy.",
+      "evidence": [
+        {
+          "startUid": "u1403",
+          "endUid": "u1404",
+          "quote": "So the next morning"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "One next-morning transition after April 13 dinner; year from YAML.",
+        "partOfDay": "morning",
+        "date": {
+          "year": 1749,
+          "month": 4,
+          "day": 14
+        }
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1492",
+        "endUid": "u1496"
+      },
+      "reading": "Seeker, Kenzo, and Riswynn have spent at least half the day, perhaps two thirds, preparing the design, mold, and silver.",
+      "evidence": [
+        {
+          "startUid": "u1492",
+          "endUid": "u1496",
+          "quote": "this has probably taken half at least half the day, 2 thirds of the day so far."
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "duration": {
+        "text": "at least half the day, perhaps two thirds",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "DM’s approximate elapsed crafting time, without defining day length."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1505",
+        "endUid": "u1509"
+      },
+      "reading": "The crafters spend the next couple of hours polishing and finishing the wolf as the day closes.",
+      "evidence": [
+        {
+          "startUid": "u1505",
+          "endUid": "u1509",
+          "quote": "as the day winds to a close"
+        },
+        {
+          "startUid": "u1505",
+          "endUid": "u1509",
+          "quote": "you spend, spend the next couple of hours like polishing it up."
+        }
+      ],
+      "actors": [
+        "Seeker",
+        "Kenzo",
+        "Riswynn"
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated next couple of hours."
+      },
+      "completion": "completed",
+      "time": {
+        "precision": "approximate",
+        "basis": "Work occurs as the day closes and precedes the stated evening delivery.",
+        "partOfDay": "evening",
+        "date": {
+          "year": 1749,
+          "month": 4,
+          "day": 14
+        }
+      }
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1517",
+        "endUid": "u1518"
+      },
+      "reading": "The completed silver wolf is delivered to Roman that evening.",
+      "evidence": [
+        {
+          "startUid": "u1517",
+          "endUid": "u1518",
+          "quote": "DM: So that evening you take it back to Roman. And he is overjoyed."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM explicitly says that evening after the crafting day.",
+        "partOfDay": "evening",
+        "date": {
+          "year": 1749,
+          "month": 4,
+          "day": 14
+        }
+      }
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u1739",
+        "endUid": "u1742"
+      },
+      "reading": "The following morning Roman secures the monster parts and takes their sale papers to seek market offers.",
+      "evidence": [
+        {
+          "startUid": "u1739",
+          "endUid": "u1742",
+          "quote": "So the next day comes. In the morning Roman brings in this chest"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Next-day morning after April 14 evening; year from YAML.",
+        "partOfDay": "morning",
+        "date": {
+          "year": 1749,
+          "month": 4,
+          "day": 15
+        }
+      },
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u1832",
+        "endUid": "u1834"
+      },
+      "reading": "Delwath takes a few minutes to remove and deposit his armor at the Spire entrance.",
+      "evidence": [
+        {
+          "startUid": "u1832",
+          "endUid": "u1834",
+          "quote": "He starts taking off his armor. Takes a few minutes."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Explicit time spent removing armor."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u1883",
+        "endUid": "u1884"
+      },
+      "reading": "The reception spellcaster pauses in silence for a minute while checking whether the tattoos are allowed.",
+      "evidence": [
+        {
+          "startUid": "u1883",
+          "endUid": "u1884",
+          "quote": "He sits in silence for a minute."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated minute of waiting, not a real-world interruption."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u1891",
+        "endUid": "u1896"
+      },
+      "reading": "The party waits approximately five minutes in the upstairs tea room before Lena arrives for the arranged lunch meeting.",
+      "evidence": [
+        {
+          "startUid": "u1743",
+          "endUid": "u1745",
+          "quote": "for lunch at the Watcher's Spire."
+        },
+        {
+          "startUid": "u1891",
+          "endUid": "u1896",
+          "quote": "standing around there for a minute. 2 min., 5 min."
+        },
+        {
+          "startUid": "u1897",
+          "endUid": "u1901",
+          "quote": "A woman walks in"
+        }
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM progresses the narrated wait from one to two to five minutes."
+      },
+      "completion": "completed",
+      "time": {
+        "precision": "approximate",
+        "basis": "Inferred from the arranged lunch audience followed by the party’s arrival and meeting; no new clock reading.",
+        "partOfDay": "midday",
+        "date": {
+          "year": 1749,
+          "month": 4,
+          "day": 15
+        }
+      }
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "April 13 is independently spoken at u0722–u0724. The next-day transitions establish April 14 and 15, and the preceding evening is April 12. The year and the March 22 starting boundary come from YAML; the anniversary and Rebirth are only relatively dated here.",
+    "expectedDateBoundaries": 24,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t11",
+      "t12",
+      "t15",
+      "t16",
+      "t19"
+    ],
+    "explanation": "The assessed adventure interval includes earlier camp downtime and the enacted ship farewell. The opening is nearly a month after the dragon fight; party language practice is two-ish weeks and Faldrak’s overlapping practice three weeks. These approximations and the farewell/travel do not establish an exact total. Three successive evening/morning transitions from April 12 to 15 are supported. The March 22 start is not contradicted, but all 24 boundaries are not independently verified. Ten-day visas and future market/approval forecasts add no elapsed time."
+  }
+}

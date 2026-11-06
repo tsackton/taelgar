@@ -1,0 +1,207 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-094/cleaned/dunmari-frontier-094-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-094/cleaned/dunmari-frontier-094-time-markers.json",
+    "sha256": "3b73caffc3a114a99d0ae7f9f3d0e596c85e3bca2912abe566577153925eb2d6"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-094/cleaned/dunmari-frontier-094-transcript.md",
+    "sha256": "8b1daff6131efc1e6baa2b372087244436187a42e7b98138be46e9ce3b818a6e"
+  },
+  "dateAssessment": "Working calendar: YAML records March 22–April 15, 1749. April 13 is independently spoken (t07); the preceding camp evening and two subsequent next-day transitions place current play on April 12–15, with the year inherited from YAML. Earlier language-study downtime, the anniversary morning, Rebirth, and the ship farewell are played retrospectively. Their approximate durations and relative anchors remain visible below; they do not independently verify all 24 YAML date boundaries, so the time extraction is **compatible**, not matched. The day-and-a-half trek and “2 days ago” farewell leave the departure date approximate. Detailed intervening dates in the dated session record have not been imported to fill that gap. The audience watch follows the lunch invitation and is inferred; the record’s morning wording remains flagged.",
+  "watches": [
+    {
+      "day": "Earlier Vargaldi-camp downtime",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Two-ish weeks of language practice overlap Faldrak’s three weeks of ship practice.",
+      "markers": [
+        "t03"
+      ],
+      "clock": "adventure",
+      "scope": "Retrospective"
+    },
+    {
+      "day": "Anniversary morning after the earlier dragon fight",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Morning after the white-dragon fight; its absolute date is unspoken.",
+      "markers": [
+        "t04"
+      ],
+      "clock": "adventure",
+      "scope": "Retrospective"
+    },
+    {
+      "day": "Rebirth, a few days after the anniversary",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Rebirth was celebrated a few days after the anniversary.",
+      "markers": [
+        "t05"
+      ],
+      "clock": "adventure",
+      "scope": "Retrospective"
+    },
+    {
+      "day": "Ship farewell, about two days before the opening camp",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Crew farewell is recalled as two days before the opening evening.",
+      "markers": [
+        "t06"
+      ],
+      "clock": "adventure",
+      "scope": "Retrospective"
+    },
+    {
+      "day": "April 12, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Dark evening camp follows a day-and-a-half trek; nearly a month has passed since the dragon.",
+      "markers": [
+        "t01",
+        "t02"
+      ],
+      "clock": "adventure",
+      "startDate": "1749-04-12",
+      "endDate": "1749-04-12"
+    },
+    {
+      "day": "April 13, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Bridge approach is April 13 morning; the city walk is about 8:30.",
+      "markers": [
+        "t07",
+        "t08"
+      ],
+      "clock": "adventure",
+      "startDate": "1749-04-13",
+      "endDate": "1749-04-13"
+    },
+    {
+      "day": "April 13, 1749",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "Breakfast passes toward lunch; Roman arrives just before lunch.",
+      "markers": [
+        "t09"
+      ],
+      "clock": "adventure",
+      "startDate": "1749-04-13",
+      "endDate": "1749-04-13"
+    },
+    {
+      "day": "April 13, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "City circuit occupies the afternoon; the market is quiet by mid-afternoon.",
+      "markers": [
+        "t10"
+      ],
+      "clock": "adventure",
+      "startDate": "1749-04-13",
+      "endDate": "1749-04-13"
+    },
+    {
+      "day": "April 13, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Roman’s dinner is explicitly placed in the evening.",
+      "markers": [
+        "t11"
+      ],
+      "clock": "adventure",
+      "startDate": "1749-04-13",
+      "endDate": "1749-04-13"
+    },
+    {
+      "day": "April 14, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "The next morning Roman leads the party to the smithy.",
+      "markers": [
+        "t12"
+      ],
+      "clock": "adventure",
+      "startDate": "1749-04-14",
+      "endDate": "1749-04-14"
+    },
+    {
+      "day": "April 14, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "Morning crafting has consumed at least half, perhaps two thirds, of the day.",
+      "markers": [
+        "t13"
+      ],
+      "clock": "adventure",
+      "scope": "Seeker, Kenzo, Riswynn",
+      "startDate": "1749-04-14",
+      "endDate": "1749-04-14"
+    },
+    {
+      "day": "April 14, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "A couple of hours finishing precede the explicitly evening delivery.",
+      "markers": [
+        "t14",
+        "t15"
+      ],
+      "clock": "adventure",
+      "scope": "Crafting and return",
+      "startDate": "1749-04-14",
+      "endDate": "1749-04-14"
+    },
+    {
+      "day": "April 15, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "The next day’s morning brings Roman’s secure-storage and market arrangements.",
+      "markers": [
+        "t16"
+      ],
+      "clock": "adventure",
+      "startDate": "1749-04-15",
+      "endDate": "1749-04-15"
+    },
+    {
+      "day": "April 15, 1749",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Lunch audience follows a brief entry check and roughly five-minute upstairs wait.",
+      "markers": [
+        "t17",
+        "t18",
+        "t19"
+      ],
+      "clock": "adventure",
+      "startDate": "1749-04-15",
+      "endDate": "1749-04-15"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated session record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 94 (DuFr).md",
+      "sha256": "516b2c94eb86f1e81d83e3195d98346f28553ca83a0091842f59f96cd83b64cd"
+    }
+  ]
+}
