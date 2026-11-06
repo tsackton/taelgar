@@ -1,0 +1,309 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-059",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-session.yaml",
+    "sessionYamlSha256": "389d3a6d8067dc46982457b47de1b8d73e49c995632c857569c7b02791c0a44e",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-transcript.md",
+    "transcriptSha256": "868ab075c0abbb79b21602bcd6ff02750330e254b7697dcba9829758e7deb101",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-segments.json",
+      "sha256": "b6089edf05e6a05a1c3ccbd7188f9301c7ea26076a3d5ec1b245cf06624b5857",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s009",
+      "encounter": "Fire wasps and corrupted ankylosaurus at the lava river",
+      "openingActions": [
+        {
+          "actor": "Enari",
+          "kind": "event",
+          "summary": "Casts a forty-foot-diameter fog cloud centered on the magma dancer, obscuring the river. The ankylosaurus blunders in the mist, while the wasps search for the spell’s source; the table rolls initiative.",
+          "evidence": [
+            {
+              "startUid": "u1241",
+              "endUid": "u1253"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Soul Focus on the two fire wasps: both are large, approximately level five, strongest in Strength and weakest in Charisma, with little discernible emotion and vicious intent. Readies a staff attack with Disrupting Strike if one approaches.",
+              "evidence": [
+                {
+                  "startUid": "u1294",
+                  "endUid": "u1327"
+                }
+              ]
+            },
+            {
+              "actor": "Izzarak",
+              "kind": "turn",
+              "summary": "Revises his initial Archer-form plan to Dragon Starry Form, gaining the stated twenty-foot flying speed, and readies Guiding Bolt. Resolves his previously rolled morning Cosmic Omen as four, allowing a d6 bonus to an ally’s declared roll before it is made; no such bonus is used here.",
+              "evidence": [
+                {
+                  "startUid": "u1328",
+                  "endUid": "u1390"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "As the wasps dive toward Enari, strikes the passing wasp with his readied staff attack: natural twenty, 18 damage after the critical dice are doubled. Spends ki on Disrupting Strike; the wasp fails its Charisma save with 13 and subtracts 1d4 from attacks through the end of Kenzo’s next turn. The readied attack grants no additional bonus-action attack.",
+              "evidence": [
+                {
+                  "startUid": "u1391",
+                  "endUid": "u1419"
+                }
+              ]
+            },
+            {
+              "actor": "Disrupted fire wasp",
+              "kind": "turn",
+              "summary": "Dives at Enari. Its sting hits for 12 damage despite the disruption; Enari succeeds on the poison save and is not poisoned. Its claw attack misses because of the Disrupting Strike penalty.",
+              "evidence": [
+                {
+                  "startUid": "u1429",
+                  "endUid": "u1449"
+                }
+              ]
+            },
+            {
+              "actor": "Other fire wasp",
+              "kind": "turn",
+              "summary": "Dives at Enari and hits with both sting and talons. The DM gives 40 damage as the combined total Enari has taken from the two wasps.",
+              "evidence": [
+                {
+                  "startUid": "u1443",
+                  "endUid": "u1458"
+                }
+              ]
+            },
+            {
+              "actor": "Magma dancer / Ember",
+              "kind": "turn",
+              "summary": "Dashes out of the lava into the woods toward the party.",
+              "evidence": [
+                {
+                  "startUid": "u1462",
+                  "endUid": "u1463"
+                }
+              ]
+            },
+            {
+              "actor": "Enari",
+              "kind": "turn",
+              "summary": "Makes two pike stabs against the wounded wasp; both natural ones miss. Uses the resulting inspiration for advantage on the pike’s back-end attack, which hits for 11 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1464",
+                  "endUid": "u1486"
+                }
+              ]
+            },
+            {
+              "actor": "Izzarak",
+              "kind": "reaction",
+              "summary": "The table permits his still-unused readied Guiding Bolt before Kenzo’s next turn. It hits with 24 and damages the wasp that Kenzo had not disrupted; the damage amount is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1489",
+                  "endUid": "u1499"
+                },
+                {
+                  "startUid": "u1504",
+                  "endUid": "u1505"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Moves to engage both wasps. His staff attack at the previously undisrupted wasp misses with 14; an unarmed attack hits with 20 for 11 damage and applies Disrupting Strike after a failed Charisma save. A second unarmed hit deals 11 to “the wounded one,” which survives. Spends ki for another unarmed attack, which misses. His earlier disruption expires, while the newly applied one remains.",
+              "evidence": [
+                {
+                  "startUid": "u1506",
+                  "endUid": "u1548"
+                }
+              ],
+              "note": "The second unarmed target is described only as “the wounded one”; both wasps had already been injured."
+            },
+            {
+              "actor": "Izzarak",
+              "kind": "turn",
+              "summary": "Casts Erupting Earth around the wasps, revising fifth level to fourth and the damage from 31 to 28. One wasp fails its save and another succeeds; at least the adjacent wasp dies, allowing Izzarak to fly back. The later surviving-wasp turn establishes that this spell did not end the encounter.",
+              "evidence": [
+                {
+                  "startUid": "u1549",
+                  "endUid": "u1586"
+                },
+                {
+                  "startUid": "u1602",
+                  "endUid": "u1607"
+                }
+              ],
+              "note": "The save ability is not spoken. The initial save/remaining-hit-point narration is inconsistent about which wasp dies; the subsequent turn and Enari’s kill establish one survivor. Enari’s fog concentration check is mentioned at u1558 without a result."
+            },
+            {
+              "actor": "Flaming ankylosaurus",
+              "kind": "turn",
+              "summary": "Lumbers and dashes through the lava toward Kenzo and Enari, no longer seeing the magma dancer hidden in the forest. Its skidding stop sprays magma at both. They succeed on Dexterity saves; Kenzo takes no damage through evasion, and Enari takes 7 fire damage after halving.",
+              "evidence": [
+                {
+                  "startUid": "u1587",
+                  "endUid": "u1601"
+                }
+              ]
+            },
+            {
+              "actor": "Surviving fire wasp",
+              "kind": "turn",
+              "summary": "Stings Kenzo with 22 to hit for 7 piercing and 3 fire damage after his ring’s fire resistance. Kenzo fails the Constitution save with 7 and becomes poisoned and paralyzed, with repeat saves at the end of his turns. Cosmic Omen is not allowed after the failed roll. The wasp then claws his paralyzed body for 16 piercing damage.",
+              "evidence": [
+                {
+                  "startUid": "u1602",
+                  "endUid": "u1620"
+                },
+                {
+                  "startUid": "u1625",
+                  "endUid": "u1641"
+                }
+              ]
+            },
+            {
+              "actor": "Enari",
+              "kind": "turn",
+              "summary": "Hits the surviving wasp with 22 for 15 damage, killing it. Turns to the ankylosaurus: a pike stab deals an initial 14, and a back-end attack hits with 17; after adding his mark the DM settles on 27 damage for the dinosaur attacks. The two hits splash him for 6 and 4 fire damage, leaving him with a stated cumulative 57 damage taken.",
+              "evidence": [
+                {
+                  "startUid": "u1642",
+                  "endUid": "u1677"
+                }
+              ],
+              "note": "The dinosaur-damage arithmetic is garbled before the final 27; no separate mark subtotal is reconstructed."
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Remains paralyzed and fails his end-of-turn Constitution save with 10.",
+              "evidence": [
+                {
+                  "startUid": "u1678",
+                  "endUid": "u1683"
+                }
+              ]
+            },
+            {
+              "actor": "Izzarak",
+              "kind": "turn",
+              "summary": "Flies into position and casts Lesser Restoration on Kenzo instead of healing him. Removing the poison also ends its associated paralysis.",
+              "evidence": [
+                {
+                  "startUid": "u1684",
+                  "endUid": "u1703"
+                }
+              ]
+            },
+            {
+              "actor": "Flaming ankylosaurus",
+              "kind": "turn",
+              "summary": "Swings its club and misses with 11; the intended target is not named in the spoken turn.",
+              "evidence": [
+                {
+                  "startUid": "u1704",
+                  "endUid": "u1708"
+                }
+              ]
+            },
+            {
+              "actor": "Magma dancer / Ember",
+              "kind": "turn",
+              "summary": "Uses the distracted dinosaur’s opening to run back into the lava and stand warily on the far side.",
+              "evidence": [
+                {
+                  "startUid": "u1709",
+                  "endUid": "u1715"
+                }
+              ]
+            },
+            {
+              "actor": "Flaming ankylosaurus",
+              "kind": "reaction",
+              "summary": "Makes an opportunity attack as Enari steps back; it misses.",
+              "evidence": [
+                {
+                  "startUid": "u1716",
+                  "endUid": "u1719"
+                }
+              ]
+            },
+            {
+              "actor": "Enari",
+              "kind": "turn",
+              "summary": "Steps back out of the fire-splash range and continues attacking with his long pike. The first stab misses, the second hits, and the final attack is a natural twenty; the DM corrects the combined damage from thirty to 40.",
+              "evidence": [
+                {
+                  "startUid": "u1716",
+                  "endUid": "u1731"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Now free of poison and paralysis, hits the ankylosaurus with his staff, rolling 25 and dealing 13 damage, which kills it before the proposed additional Disrupting Strike is needed. Fire erupts from its body: 7 fire damage is reduced to 3 by his resistance. The dinosaur falls backward into the lava.",
+              "evidence": [
+                {
+                  "startUid": "u1732",
+                  "endUid": "u1750"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Both fire wasps and the corrupted ankylosaurus are dead. Kenzo has been freed of the venom’s poison and paralysis; the magma dancer survives and opens a wary conversation as the dinosaur sinks into the lava.",
+        "evidence": [
+          {
+            "startUid": "u1647",
+            "endUid": "u1650"
+          },
+          {
+            "startUid": "u1695",
+            "endUid": "u1700"
+          },
+          {
+            "startUid": "u1739",
+            "endUid": "u1750"
+          }
+        ]
+      }
+    }
+  ]
+}

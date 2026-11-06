@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-059",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-session.yaml",
+    "sessionYamlSha256": "389d3a6d8067dc46982457b47de1b8d73e49c995632c857569c7b02791c0a44e",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-transcript.md",
+    "transcriptSha256": "868ab075c0abbb79b21602bcd6ff02750330e254b7697dcba9829758e7deb101"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0152"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0153",
+        "endUid": "u0185"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0186",
+        "endUid": "u0223"
+      },
+      "category": "session_framing",
+      "note": "Opening setting and preceding events; active riverbank play begins at u0224."
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0224",
+        "endUid": "u0954"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0955",
+        "endUid": "u0967"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0968",
+        "endUid": "u1077"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1078",
+        "endUid": "u1091"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1092",
+        "endUid": "u1240"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1241",
+        "endUid": "u1750"
+      },
+      "category": "combat",
+      "note": "Begins with Enari's fog intervention immediately before initiative; the final whole turn includes the dinosaur's death and Ember's first question."
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1751",
+        "endUid": "u2061"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2062",
+        "endUid": "u2064"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
