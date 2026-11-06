@@ -1,0 +1,816 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "0aea361e9571f68dfdfd044d91100e602dd552006c107dc1901e155aa16c1681",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "14ec6b5112538a313f32603b4f4b004a71fb0f3e5ca0f15efdfb0c6c52de5a04",
+        "transcriptProcessing.artifacts.cleaned": "37bbdc91594e80e6471de3c0b6fe3ea9464a9b123b219335b062fe99a48fe3e7"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "npc",
+      "label": "Kalima",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0384",
+            "endUid": "u0393"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1399",
+            "endUid": "u1464"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1653",
+            "endUid": "u1670"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1694",
+            "endUid": "u1704"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1760",
+            "endUid": "u1781"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1917",
+            "endUid": "u1925"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2115",
+            "endUid": "u2131"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Sembarans/Kalima.md"
+    },
+    {
+      "id": "e002",
+      "kind": "npc",
+      "label": "Beast in the labyrinth",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0051",
+            "endUid": "u0059"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1354",
+            "endUid": "u1360"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1478",
+            "endUid": "u1482"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1501",
+            "endUid": "u1508"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Zeyfa’s beast"
+      ]
+    },
+    {
+      "id": "e003",
+      "kind": "npc",
+      "label": "Rala",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0295",
+            "endUid": "u0315"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1020",
+            "endUid": "u1021"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1160",
+            "endUid": "u1179"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Other PCs/Into the Chasm/Rala.md"
+    },
+    {
+      "id": "e004",
+      "kind": "npc",
+      "label": "Nura",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1911",
+            "endUid": "u1925"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2092",
+            "endUid": "u2112"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Zimkovans/Nura.md"
+    },
+    {
+      "id": "e005",
+      "kind": "npc",
+      "label": "Khaled",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1911",
+            "endUid": "u1925"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2047",
+            "endUid": "u2089"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Zimkovans/Khaled.md"
+    },
+    {
+      "id": "e006",
+      "kind": "npc",
+      "label": "Samir",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1911",
+            "endUid": "u1925"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2057",
+            "endUid": "u2060"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2092",
+            "endUid": "u2112"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Zimkovans/Samir.md"
+    },
+    {
+      "id": "e007",
+      "kind": "npc",
+      "label": "Forquarion the Frostbinder",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1504",
+            "endUid": "u1508"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1604",
+            "endUid": "u1607"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1616",
+            "endUid": "u1627"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Forquarion.md",
+      "names": [
+        "Forquarion"
+      ]
+    },
+    {
+      "id": "e008",
+      "kind": "divine",
+      "label": "Zeyfa",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1451",
+            "endUid": "u1455"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1653",
+            "endUid": "u1684"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1699",
+            "endUid": "u1704"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2073",
+            "endUid": "u2076"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2473",
+            "endUid": "u2498"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Kestavo/Zeyfa.md",
+      "confidenceExplanation": "The religious referent is clear, but palace-master references may denote its lieutenant rather than a separately encountered divine being."
+    },
+    {
+      "id": "e009",
+      "kind": "divine",
+      "label": "Kestavo",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1917",
+            "endUid": "u1925"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1978",
+            "endUid": "u2022"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2030",
+            "endUid": "u2044"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Religions/Northern Folk Religions/Kestavo.md"
+    },
+    {
+      "id": "e010",
+      "kind": "divine",
+      "label": "Romil",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1985",
+            "endUid": "u1989"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2008",
+            "endUid": "u2011"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2033",
+            "endUid": "u2044"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Kestavo/Romil.md",
+      "names": [
+        "glacier king"
+      ]
+    },
+    {
+      "id": "e011",
+      "kind": "divine",
+      "label": "Besla",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2033",
+            "endUid": "u2044"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Kestavo/Besla.md"
+    },
+    {
+      "id": "e012",
+      "kind": "npc",
+      "label": "Yassin",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2427",
+            "endUid": "u2430"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2486",
+            "endUid": "u2492"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e013",
+      "kind": "item",
+      "label": "Sylvan-inscribed disc in the palace tower",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2382",
+            "endUid": "u2397"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2413",
+            "endUid": "u2419"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e014",
+      "kind": "item",
+      "label": "Severed head of the labyrinth beast",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1483",
+            "endUid": "u1488"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1513",
+            "endUid": "u1524"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1676",
+            "endUid": "u1685"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e015",
+      "kind": "npc",
+      "label": "Giant ice wolf guarding the gashes",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1878",
+            "endUid": "u1884"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2251",
+            "endUid": "u2256"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2326",
+            "endUid": "u2327"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "Its distinctive moving statue and guarding role support an individual mystery figure, though it could be treated as an anonymous monster."
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Living snow echoes",
+      "reason": "Anonymous manifestations of the combat encounter, without distinct ongoing identities or a persistent organization.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0051",
+            "endUid": "u0071"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1023",
+            "endUid": "u1025"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1269",
+            "endUid": "u1273"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Finnan’s summoned mirthful fey spirit",
+      "reason": "Summoning, fighting, and scouting follow a routine spell activation; the source establishes no individual companion identity beyond this temporary service.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0344",
+            "endUid": "u0383"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1604",
+            "endUid": "u1646"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2486",
+            "endUid": "u2492"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Palace guards and servants",
+      "reason": "Uniformed guards and a search party establish an apparatus of service, but no distinct faction identity beyond their common employer and immediate duties.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2257",
+            "endUid": "u2281"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2452",
+            "endUid": "u2498"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Kalima and Nura’s parents",
+      "reason": "Secondhand family references supply no names or distinct involvement beyond the mother living locally and the father having gone to the mists.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2085",
+            "endUid": "u2112"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Justas’s light-enchanted stone",
+      "reason": "Routine application of a PC light spell to an ordinary object; the family’s religious response is retained under Kalima and the Kestavo.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0009",
+            "endUid": "u0013"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1917",
+            "endUid": "u1925"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1991",
+            "endUid": "u2002"
+          }
+        }
+      ]
+    },
+    {
+      "label": "PC rings, amulet, crossbows and other ordinary equipment",
+      "reason": "Routine casting, shapeshifting, attacks, and standard equipment powers do not establish new acquisition or original item lore.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0344",
+            "endUid": "u0351"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0546",
+            "endUid": "u0548"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1672",
+            "endUid": "u1673"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1821",
+            "endUid": "u1823"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Kenzo, Delwath, Seeker and Grash",
+      "reason": "Other-campaign comparisons, mistaken names, and rules examples do not establish substantive in-world involvement in Into the Chasm.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0192",
+            "endUid": "u0197"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0353",
+            "endUid": "u0360"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0973",
+            "endUid": "u0974"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1827",
+            "endUid": "u1829"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2359",
+            "endUid": "u2367"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Melusa and its residents as an organization",
+      "reason": "The settlement and its population are places and residents; shared isolation alone does not establish a distinct organization.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2061",
+            "endUid": "u2089"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Zeyfa's Labyrinth.md",
+    "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Zeyfa's Realm.md",
+    "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Melusa.md",
+    "Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 03.md"
+  ]
+}

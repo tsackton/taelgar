@@ -1,0 +1,449 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "into-the-chasm-003",
+    "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-session.yaml",
+    "sessionYamlSha256": "1a37e0bca07f1baca57518e4a8e1e2566b60323e95c05c1ab331246a89e0acdd",
+    "transcriptPath": "_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-transcript.md",
+    "transcriptSha256": "14ec6b5112538a313f32603b4f4b004a71fb0f3e5ca0f15efdfb0c6c52de5a04",
+    "yamlDates": {
+      "start": "1730-01-25",
+      "end": "1730-01-26"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u1458",
+        "endUid": "u1464"
+      },
+      "reading": "Kalima pauses for about a minute, catching her breath while the party finishes before leaving.",
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM establishes an actual brief pause, phrased as a minute"
+      },
+      "completion": "completed",
+      "actors": [
+        "Kalima",
+        "party"
+      ],
+      "evidence": [
+        {
+          "startUid": "u1458",
+          "endUid": "u1464",
+          "quote": "DM: Yeah, I mean, it'll take… okay, well, she pauses for a minute, then. She's like… she, like, catches her breath and, like… sort of holds on to… Justas for a minute, like, holding onto your shield or something, and, like, pauses, and, like, catches her breath, and is, like, ‘Be quicker. Last time, I… I don't know how long it'll last. I saw this before. Last time.’"
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u1527",
+        "endUid": "u1539"
+      },
+      "reading": "The party crawls through the exit tunnel for about ten minutes and emerges on the cliff path.",
+      "evidence": [
+        {
+          "startUid": "u1527",
+          "endUid": "u1539",
+          "quote": "after about… 10 minutes"
+        },
+        {
+          "startUid": "u1527",
+          "endUid": "u1539",
+          "quote": "after… maybe 10 minutes you emerge from this tunnel"
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates the completed tunnel crawl"
+      },
+      "completion": "completed",
+      "actors": [
+        "party",
+        "Kalima"
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1540",
+        "endUid": "u1544"
+      },
+      "reading": "The cliffside initially has late-afternoon winter light; later narration establishes that this light remains stationary.",
+      "evidence": [
+        {
+          "startUid": "u1540",
+          "endUid": "u1544",
+          "quote": "late afternoon winter clouds"
+        },
+        {
+          "startUid": "u1763",
+          "endUid": "u1769",
+          "quote": "it's, like, late afternoon"
+        },
+        {
+          "startUid": "u2338",
+          "endUid": "u2341",
+          "quote": "it's late afternoon the whole time"
+        }
+      ],
+      "time": {
+        "partOfDay": "late afternoon",
+        "precision": "approximate",
+        "basis": "Stated local appearance, later confirmed stationary; not a civil-clock advance"
+      },
+      "note": "This is the local light of Melusa’s realm, not evidence that afternoon continued on the outside clock."
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1945",
+        "endUid": "u1947"
+      },
+      "reading": "About 45 minutes have passed since Finnan sent the fey toward the palace; the party has reached the family house.",
+      "evidence": [
+        {
+          "startUid": "u1945",
+          "endUid": "u1946",
+          "quote": "Finnan: So… Finnan wants to do 3 things. First, how long has it been since we… since I sent my Fae off to the Ice Palace?"
+        },
+        {
+          "startUid": "u1947",
+          "endUid": "u1947",
+          "quote": "DM: It's probably been a… about 45 minutes."
+        }
+      ],
+      "duration": {
+        "value": 45,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM answers the elapsed-time question since the fey departed"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u2144",
+        "endUid": "u2150"
+      },
+      "reading": "The family conversation has lasted about an hour; the DM later awards a short rest for this sitting and dinner.",
+      "evidence": [
+        {
+          "startUid": "u2144",
+          "endUid": "u2150",
+          "quote": "You've probably been talking for an hour."
+        },
+        {
+          "startUid": "u2558",
+          "endUid": "u2559",
+          "quote": "DM: You should all take a short rest. As an aside, you had dinner, you've been sitting around."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s estimate of conversation; short-rest credit applies to the same sitting/dinner, not another elapsed hour"
+      },
+      "completion": "completed",
+      "note": "The twelve-hour gong cycle is background information, not twelve hours of session elapsed time."
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u2173",
+        "endUid": "u2180"
+      },
+      "reading": "The gong rings during dinner; shortly afterward a commotion is heard outside.",
+      "evidence": [
+        {
+          "startUid": "u2173",
+          "endUid": "u2174",
+          "quote": "Finnan: Yeah, if we're, like, getting ready… I'm gonna wait till after we eat dinner, like, getting ready for… yeah.\n\nDM: I mean, as you’re… as you’re sort of eating, the gong rings. You hear this… this…"
+        },
+        {
+          "startUid": "u2176",
+          "endUid": "u2180",
+          "quote": "DM: And not that long after that, there's… you hear… footsteps. Well, I mean, you… if there's anything else you want to do, but shortly after, you hear, like, like, a commotion sort of outside. Dark."
+        }
+      ],
+      "time": {
+        "partOfDay": "sleep signal",
+        "precision": "approximate",
+        "basis": "Local gong and meal schedule; no sunset or civil dusk established"
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u2182",
+        "endUid": "u2184"
+      },
+      "reading": "Narration shifts back to Ekko exploring as a cat while the others were talking.",
+      "evidence": [
+        {
+          "startUid": "u2182",
+          "endUid": "u2184",
+          "quote": "DM: Okay, well, let's pause for a minute, so…\n\nEkko: Yeah.\n\nDM: Ekko's like a little gray tabby, like, while they're talking in human language, you could go explore, where do you want to go?"
+        }
+      ],
+      "actors": [
+        "Ekko"
+      ],
+      "time": {
+        "relative": {
+          "relation": "same_time",
+          "reference": "t05",
+          "anchor": "the family conversation"
+        },
+        "precision": "approximate",
+        "basis": "DM explicitly places scouting while they are talking"
+      },
+      "relations": [
+        {
+          "type": "overlaps",
+          "target": "t05"
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2336",
+        "endUid": "u2348"
+      },
+      "reading": "Ekko sees noon-like shadows through the mirror-like gash while Melusa’s light remains late afternoon.",
+      "evidence": [
+        {
+          "startUid": "u2338",
+          "endUid": "u2341",
+          "quote": "DM: It's like… it's like noon. Like, you can see, like, the shadows. As you walk through, like, you can see shadows on the cliff. Like, A, the sun is shining… you can't see the sun, but you can see shadows on the cliff. The sun is shining brightly. Unlike here, where it's, like, behind a pale cloud, you've never actually seen the sun, it's just, like, you can tell it's there, because it's fine, but… and, you… it's clearly, like, this is late afternoon, this has very strong late afternoon vibes, and it actually hasn't changed the whole time you've been here, right? Like, it's late afternoon the whole time. But looking through, it’s clearly noon. Like, you can tell from the shadows that it’s… that it’s, like…"
+        },
+        {
+          "startUid": "u2343",
+          "endUid": "u2348",
+          "quote": "noon on the other side over there."
+        }
+      ],
+      "actors": [
+        "Ekko"
+      ],
+      "time": {
+        "partOfDay": "noon",
+        "precision": "approximate",
+        "basis": "Observed shadows across the gash; the remote clock is separate from Melusa"
+      },
+      "note": "Observation across a threshold does not establish entry or synchronize the two clocks."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2358",
+        "endUid": "u2358"
+      },
+      "reading": "Narration resumes Finnan’s palace Clairvoyance after Ekko reports back.",
+      "evidence": [
+        {
+          "startUid": "u2349",
+          "endUid": "u2349",
+          "quote": "I report back"
+        },
+        {
+          "startUid": "u2358",
+          "endUid": "u2358",
+          "quote": "Finnan: I'm… I'm gonna cast Clairvoyance.\n\nDM: Okay."
+        }
+      ],
+      "actors": [
+        "Finnan"
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t06"
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2358",
+        "endUid": "u2399"
+      },
+      "reading": "Finnan completes the first Clairvoyance casting; its casting time is later explicitly given as ten minutes.",
+      "evidence": [
+        {
+          "startUid": "u2358",
+          "endUid": "u2358",
+          "quote": "Finnan: I'm… I'm gonna cast Clairvoyance.\n\nDM: Okay."
+        },
+        {
+          "startUid": "u2382",
+          "endUid": "u2387",
+          "quote": "Your… your… sensor appears"
+        },
+        {
+          "startUid": "u2449",
+          "endUid": "u2451",
+          "quote": "DM: Clairvoyance… how long does Clairvoyance take to cast?\n\nFinnan: 10 minutes.\n\nDM: Okay."
+        }
+      ],
+      "actors": [
+        "Finnan"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Completed first casting; the table later explicitly states the casting time for the same spell"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u2400",
+        "endUid": "u2419"
+      },
+      "reading": "Finnan listens for a few minutes and watches for roughly eight more, spending about ten minutes observing the tower room.",
+      "evidence": [
+        {
+          "startUid": "u2400",
+          "endUid": "u2402",
+          "quote": "Finnan: I will switch to listening for a few minutes, just to see if I hear anything.\n\nDM: Nothing… there’s no… I mean, you can… you can hear… faint… noises of activity below."
+        },
+        {
+          "startUid": "u2407",
+          "endUid": "u2408",
+          "quote": "Finnan: I'll just watch for the rest of the time to see if anybody shows up. 8 more minutes, or something like that at this point."
+        },
+        {
+          "startUid": "u2413",
+          "endUid": "u2419",
+          "quote": "it’s not moving over the 8 minutes"
+        }
+      ],
+      "actors": [
+        "Finnan"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "A few minutes listening plus about eight remaining; approximate total from the played observation"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u2445",
+        "endUid": "u2457"
+      },
+      "reading": "Finnan spends ten minutes casting a second Clairvoyance; the sensor then appears in the courtyard.",
+      "evidence": [
+        {
+          "startUid": "u2445",
+          "endUid": "u2451",
+          "quote": "Finnan: Okay. I'm gonna use my last third level slot to… create another clairvoyance in the courtyard. Like, below where.\n\nDM: Clairvoyance… how long does Clairvoyance take to cast?\n\nFinnan: 10 minutes.\n\nDM: Okay."
+        },
+        {
+          "startUid": "u2452",
+          "endUid": "u2457",
+          "quote": "when the sensor appears"
+        }
+      ],
+      "actors": [
+        "Finnan"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Explicit casting time followed by the sensor’s appearance"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u2501",
+        "endUid": "u2523"
+      },
+      "reading": "The party settles into the barn to try to rest; the long rest is still uncompleted at session cutoff.",
+      "evidence": [
+        {
+          "startUid": "u2501",
+          "endUid": "u2507",
+          "quote": "Finnan: I think at this point, yeah, we're just gonna long rest.\n\nJustas: Yeah.\n\nFinnan: And call it a night, I think.\n\nJustas: I'm fading for the night.\n\nDM: Yeah, yeah, yeah. Okay, so you're settling in to try and go to sleep? You're not… you're not doing anything about the ice bridge or anything like that? Well, we can pick that up next time."
+        },
+        {
+          "startUid": "u2520",
+          "endUid": "u2523",
+          "quote": "DM: You're gonna just hide in the barn, and…\n\nFinnan: Yeah.\n\nDM: Try and rest for the night, and ignore the… ignore the… the soldiers marching across the bridge."
+        },
+        {
+          "startUid": "u2552",
+          "endUid": "u2552",
+          "quote": "DM: But don't long rest on your character sheets.\n\nUnidentified player: I won't.\n\nDM: I'm not saying you're gonna fail, but just don't click the button. We'll start… we'll start tomorrow."
+        },
+        {
+          "startUid": "u2577",
+          "endUid": "u2578",
+          "quote": "Justas: Good. We'll still wait to click long rest, I guess, but good.\n\nDM: No, no, no, yeah, you should wait, but… but… but the outcome is good."
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "completion": "begun",
+      "note": "No eight-hour duration, waking, or calendar transition is established. The augury’s final good omen does not complete the rest."
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No adventure year, month, or day is independently spoken. The working dates come from YAML; fixed local afternoon light and the remote noon view establish no shared civil date.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t10",
+      "t11",
+      "t12",
+      "t13"
+    ],
+    "explanation": "The tunnel crawl, approach, conversation/dinner and scrying account for elapsed play but not an established overnight. A short rest is credited retrospectively; long-rest completion is explicitly deferred. Missing coverage leaves the YAML end date possible, not verified or contradicted."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "end",
+      "evidence": [
+        "t13"
+      ],
+      "reading": "The recording stops as the party attempts to sleep; next-day waking is outside this transcript.",
+      "alternatives": [
+        {
+          "reading": "End at the current evening or local sleep period before a completed rest."
+        },
+        {
+          "reading": "YAML may use the next session boundary as January 26; this source does not confirm arrival there."
+        }
+      ]
+    }
+  ]
+}

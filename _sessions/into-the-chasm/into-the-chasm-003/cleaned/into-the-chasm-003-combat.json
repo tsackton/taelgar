@@ -1,0 +1,541 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "into-the-chasm-003",
+    "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-session.yaml",
+    "sessionYamlSha256": "1a37e0bca07f1baca57518e4a8e1e2566b60323e95c05c1ab331246a89e0acdd",
+    "transcriptPath": "_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-transcript.md",
+    "transcriptSha256": "14ec6b5112538a313f32603b4f4b004a71fb0f3e5ca0f15efdfb0c6c52de5a04",
+    "segments": {
+      "path": "_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-segments.json",
+      "sha256": "086cb2d1005b1a3000857e0cf90fa9fb9a58bde52fbe42d87a0e504b50de2fd7",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s005",
+      "encounter": "Labyrinth beast and living snow echoes",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Living snow beside Eolo",
+              "kind": "turn",
+              "summary": "Extends an icy claw toward flying Eolo and misses; shadow tendrils reduce Eolo’s speed by 10 feet.",
+              "evidence": [
+                {
+                  "startUid": "u0114",
+                  "endUid": "u0138"
+                }
+              ]
+            },
+            {
+              "actor": "Eolo",
+              "kind": "turn",
+              "summary": "Shoots his living snow three times: 19 misses, 27 connects but the 8 piercing damage is negated by ice, and the bonus-action shot misses even with advantage. Psionic Strike deals 5 damage; the icy retaliation deals Eolo 6 cold damage.",
+              "evidence": [
+                {
+                  "startUid": "u0141",
+                  "endUid": "u0144"
+                },
+                {
+                  "startUid": "u0204",
+                  "endUid": "u0226"
+                },
+                {
+                  "startUid": "u0236",
+                  "endUid": "u0261"
+                },
+                {
+                  "startUid": "u1018",
+                  "endUid": "u1021"
+                }
+              ]
+            },
+            {
+              "actor": "Living snow beside Jrain",
+              "kind": "turn",
+              "summary": "Both claws hit Jrain for 12 cold damage, and tendrils reduce her speed by 10 feet. Her Wisdom save of 11 fails against its howl: on her turn she can take an action or bonus action, not both.",
+              "evidence": [
+                {
+                  "startUid": "u0264",
+                  "endUid": "u0280"
+                }
+              ]
+            },
+            {
+              "actor": "Rala",
+              "kind": "turn",
+              "summary": "At Jrain’s command, flies in and hits the living snow beside Jrain for 9 damage, cutting easily through its snow.",
+              "evidence": [
+                {
+                  "startUid": "u0295",
+                  "endUid": "u0315"
+                }
+              ]
+            },
+            {
+              "actor": "Jrain",
+              "kind": "turn",
+              "summary": "Trades one attack to command Rala, then shoots her living snow. The 23 hits, but the arrow’s 9 damage is negated and an icicle rebounds for 5 damage to Jrain.",
+              "evidence": [
+                {
+                  "startUid": "u0295",
+                  "endUid": "u0299"
+                },
+                {
+                  "startUid": "u0316",
+                  "endUid": "u0333"
+                }
+              ]
+            },
+            {
+              "actor": "Living snow beside Finnan",
+              "kind": "turn",
+              "summary": "Hits Finnan on Eolo’s back despite the discussed cover, dealing 9 cold damage and reducing his speed by 10 feet.",
+              "evidence": [
+                {
+                  "startUid": "u0334",
+                  "endUid": "u0343"
+                }
+              ]
+            },
+            {
+              "actor": "Finnan",
+              "kind": "turn",
+              "summary": "Warns Eolo and Jrain telepathically about the snow’s arrow defenses, casts third-level Summon Fey to create a mirthful spirit, and grants Justas Bardic Inspiration as a bonus action.",
+              "evidence": [
+                {
+                  "startUid": "u0344",
+                  "endUid": "u0360"
+                },
+                {
+                  "startUid": "u0380",
+                  "endUid": "u0383"
+                }
+              ]
+            },
+            {
+              "actor": "Summoned fey spirit",
+              "kind": "turn",
+              "summary": "Attacks the beast and misses. Attempts to charm Finnan’s living snow; it succeeds on the DC 15 Wisdom save, seemingly shielded by swirling dust.",
+              "evidence": [
+                {
+                  "startUid": "u0362",
+                  "endUid": "u0379"
+                }
+              ]
+            },
+            {
+              "actor": "Living snow beside Kalima",
+              "kind": "turn",
+              "summary": "Pokes around the illusion concealing Kalima, searching unsuccessfully for her.",
+              "evidence": [
+                {
+                  "startUid": "u0384",
+                  "endUid": "u0393"
+                }
+              ]
+            },
+            {
+              "actor": "Living snow beside Ekko",
+              "kind": "turn",
+              "summary": "Reaches toward flying Ekko with an extended claw and misses. The DM reiterates the 10-foot speed reduction affecting the party.",
+              "evidence": [
+                {
+                  "startUid": "u0394",
+                  "endUid": "u0401"
+                }
+              ]
+            },
+            {
+              "actor": "Ekko",
+              "kind": "turn",
+              "summary": "Casts Conjure Animals and moves the spectral pack through the enemy positions, forcing DC 15 Dexterity saves for 5 slashing damage. Some snows are shielded by thickening ice, one dodges, and two take damage. Wild Shapes into a cold-resistant polar bear and moves protectively near Kalima; the proposed bear attacks are withdrawn because casting used the action.",
+              "evidence": [
+                {
+                  "startUid": "u0402",
+                  "endUid": "u0444"
+                },
+                {
+                  "startUid": "u0452",
+                  "endUid": "u0507"
+                },
+                {
+                  "startUid": "u0508",
+                  "endUid": "u0517"
+                }
+              ],
+              "note": "Several targets are indicated only on the map; their letter identities and a separate beast save are not completely narrated."
+            },
+            {
+              "actor": "Beast",
+              "kind": "turn",
+              "summary": "Turns its icy gaze on polar-bear Ekko. Ekko succeeds on a Constitution save of 18 and is unaffected.",
+              "evidence": [
+                {
+                  "startUid": "u0518",
+                  "endUid": "u0533"
+                }
+              ]
+            },
+            {
+              "actor": "Living snow beside Justas",
+              "kind": "turn",
+              "summary": "Both icy claws hit Justas for 12 cold damage. It howls, but Justas succeeds on the Wisdom save and can act normally.",
+              "evidence": [
+                {
+                  "startUid": "u0534",
+                  "endUid": "u0544"
+                }
+              ]
+            },
+            {
+              "actor": "Justas",
+              "kind": "turn",
+              "summary": "Uses Channel Divinity to cast Shield of Faith, raising his AC to 21, then casts Spirit Guardians with a 15-foot emanation. Against DC 14 Wisdom, Finnan’s snow ignores the effect; Eolo’s snow, the beast and Jrain’s snow save; Justas’s snow fails and takes 12 radiant damage. He stays in place.",
+              "evidence": [
+                {
+                  "startUid": "u0545",
+                  "endUid": "u0597"
+                },
+                {
+                  "startUid": "u0598",
+                  "endUid": "u0602"
+                },
+                {
+                  "startUid": "u1049",
+                  "endUid": "u1056"
+                }
+              ],
+              "note": "Half damage on successful saves is acknowledged later at u1049–u1051, but no explicit retrospective damage allocation is resolved for this first casting."
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Living snow beside Eolo",
+              "kind": "turn",
+              "summary": "Moves out of Spirit Guardians and a ranged attack is narrated as missing. Its movement triggers the fey spirit’s opportunity attack; Eolo, being airborne, has no opportunity attack.",
+              "evidence": [
+                {
+                  "startUid": "u0603",
+                  "endUid": "u0624"
+                }
+              ]
+            },
+            {
+              "actor": "Summoned fey spirit",
+              "kind": "reaction",
+              "summary": "Makes the opportunity attack as the snow leaves: a natural 20 deals 26 force damage and explodes the creature from within.",
+              "evidence": [
+                {
+                  "startUid": "u0607",
+                  "endUid": "u0639"
+                }
+              ]
+            },
+            {
+              "actor": "Eolo",
+              "kind": "turn",
+              "summary": "Flies away carrying Finnan; the black bonds have faded. Shoots the beast five times using Action Surge: the first three hit for 7 piercing plus 7 Psionic Strike, then 6 and 9 damage; Vex gives advantage after the first hit. The fourth misses despite advantage, breaking the Vex chain; the fifth misses without advantage. Snow from the remaining echoes deflects the misses.",
+              "evidence": [
+                {
+                  "startUid": "u0640",
+                  "endUid": "u0708"
+                }
+              ]
+            },
+            {
+              "actor": "Living snow beside Jrain",
+              "kind": "turn",
+              "summary": "Steps out of the emanation and attacks with two claws; one hits Jrain for 10 cold damage. It cannot use its other power again this turn.",
+              "evidence": [
+                {
+                  "startUid": "u0709",
+                  "endUid": "u0724"
+                }
+              ]
+            },
+            {
+              "actor": "Jrain",
+              "kind": "turn",
+              "summary": "Casts Hunter’s Mark on the beast, then fires two arrows that are deflected by snow defenses, missing at 18 and 22. The DM allows her feat to avoid the discussed melee disadvantage. Moves closer to Justas.",
+              "evidence": [
+                {
+                  "startUid": "u0725",
+                  "endUid": "u0774"
+                }
+              ]
+            },
+            {
+              "actor": "Living snow beside Jrain",
+              "kind": "reaction",
+              "summary": "Swings at Jrain as she moves toward Justas; no completed hit or damage is stated.",
+              "evidence": [
+                {
+                  "startUid": "u0773",
+                  "endUid": "u0776"
+                }
+              ]
+            },
+            {
+              "actor": "Living snow beside Finnan",
+              "kind": "turn",
+              "summary": "Moves and flings one extended claw toward Finnan, initially a glancing hit; after Cutting Words the resolved attack misses. It does not howl.",
+              "evidence": [
+                {
+                  "startUid": "u0777",
+                  "endUid": "u0796"
+                }
+              ]
+            },
+            {
+              "actor": "Finnan",
+              "kind": "reaction",
+              "summary": "Uses Cutting Words, subtracting 4 from the claw attack and turning its one-point hit into a miss.",
+              "evidence": [
+                {
+                  "startUid": "u0785",
+                  "endUid": "u0794"
+                }
+              ]
+            },
+            {
+              "actor": "Finnan",
+              "kind": "turn",
+              "summary": "Casts second-level Command on Living Snow J and K, ordering them to flee. J succeeds on the DC 15 Wisdom save; K fails and must spend its next turn moving as far from Finnan as possible. Uses no bonus action.",
+              "evidence": [
+                {
+                  "startUid": "u0798",
+                  "endUid": "u0831"
+                }
+              ]
+            },
+            {
+              "actor": "Summoned fey spirit",
+              "kind": "turn",
+              "summary": "Hits the beast at 23, tearing through its snow defense for 14 damage, corrected from 8. Attempts to charm the snow beside Justas with a DC 15 Wisdom save; no result is announced.",
+              "evidence": [
+                {
+                  "startUid": "u0829",
+                  "endUid": "u0847"
+                }
+              ]
+            },
+            {
+              "actor": "Living snow beside Ekko",
+              "kind": "turn",
+              "summary": "Hits polar-bear Ekko with both claws for 12 cold damage, reduced by resistance to 6, and howls to force a third concentration check in addition to the two for the hits. The Constitution checks are accepted and Conjure Animals remains active.",
+              "evidence": [
+                {
+                  "startUid": "u0848",
+                  "endUid": "u0877"
+                }
+              ]
+            },
+            {
+              "actor": "Ekko",
+              "kind": "turn",
+              "summary": "Moves Conjure Animals over four snows: R and E dodge, K fails the Dexterity save and takes 14 damage, and F’s snow defense prevents damage. Makes two bear attacks against E, both ineffective at 18. Ends near it and takes 3 cold damage, reduced to 1.",
+              "evidence": [
+                {
+                  "startUid": "u0878",
+                  "endUid": "u0920"
+                }
+              ]
+            },
+            {
+              "actor": "Beast",
+              "kind": "turn",
+              "summary": "Uses its icy gaze against Justas. His Constitution save of 17 succeeds and the gaze has no effect.",
+              "evidence": [
+                {
+                  "startUid": "u0921",
+                  "endUid": "u0927"
+                }
+              ]
+            },
+            {
+              "actor": "Living Snow K",
+              "kind": "turn",
+              "summary": "Obeys Command, dashing away from Finnan. No Conjure Animals damage is applied: the DM rules it can escape after starting inside the field without also ending there.",
+              "evidence": [
+                {
+                  "startUid": "u0928",
+                  "endUid": "u0977"
+                }
+              ]
+            },
+            {
+              "actor": "Ekko",
+              "kind": "reaction",
+              "summary": "Makes an opportunity attack as K flees; the claw bounces from its thickened icy body, dealing no damage.",
+              "evidence": [
+                {
+                  "startUid": "u0954",
+                  "endUid": "u0966"
+                }
+              ]
+            },
+            {
+              "actor": "Living snow beside Justas",
+              "kind": "turn",
+              "summary": "Attacks Justas twice and misses both times. Its howl forces a concentration check; Justas rolls 4 and loses Spirit Guardians. The earlier statement that R hit Jrain for 6 cold damage is withdrawn as the wrong creature and target.",
+              "evidence": [
+                {
+                  "startUid": "u0978",
+                  "endUid": "u1006"
+                }
+              ]
+            },
+            {
+              "actor": "Justas",
+              "kind": "turn",
+              "summary": "Recasts Spirit Guardians and moves right. The adjacent snow saves at 18 and dies under the resulting damage; R and E fail their DC 14 Wisdom saves and take 16 radiant damage; F takes none despite the later save discussion. Hits E with a bonus-action battleaxe attack for 10 slashing damage. Ends beside it and takes 6 cold damage.",
+              "evidence": [
+                {
+                  "startUid": "u1007",
+                  "endUid": "u1095"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Eolo",
+              "kind": "turn",
+              "summary": "With other players rolling for him, shoots F twice: the first hit deals 10 piercing damage and the second, with advantage from Vex, deals 7, collapsing it; the first arrow visibly tears off snow and is described as doing more damage than expected. The bonus-action shot switches to E without advantage, hits at 16 and kills it; that shot’s damage amount is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1096",
+                  "endUid": "u1159"
+                }
+              ]
+            },
+            {
+              "actor": "Rala",
+              "kind": "turn",
+              "summary": "At Jrain’s bonus-action command, hits Living Snow R for 11 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1160",
+                  "endUid": "u1181"
+                }
+              ]
+            },
+            {
+              "actor": "Jrain",
+              "kind": "turn",
+              "summary": "Shoots the Hunter’s Marked beast twice: the first arrow misses at 15, the second hits at 20 for 9 longbow damage plus 1 from Hunter’s Mark.",
+              "evidence": [
+                {
+                  "startUid": "u1182",
+                  "endUid": "u1204"
+                }
+              ]
+            },
+            {
+              "actor": "Finnan",
+              "kind": "turn",
+              "summary": "Uses Fey Touched Dissonant Whispers on R. It fails the DC 15 Wisdom save and takes 10 psychic damage, corrected from 15, killing it before it can flee as a reaction. Bonus-action Healing Word restores 7 hit points to Jrain.",
+              "evidence": [
+                {
+                  "startUid": "u1205",
+                  "endUid": "u1236"
+                },
+                {
+                  "startUid": "u1304",
+                  "endUid": "u1304"
+                }
+              ],
+              "note": "Jrain’s thanks identifies the healing recipient. The fey spirit’s regular turn is explicitly acknowledged as forgotten, rather than retroactively played."
+            },
+            {
+              "actor": "Ekko",
+              "kind": "turn",
+              "summary": "Moves Conjure Animals into the beast, which succeeds on its DC 15 Dexterity save. Pounces on it and makes two bear attacks without advantage, both hitting at 20 for 8 and 6 damage, using the radiant attacks established for this form. Shifts around it to leave Justas room to approach.",
+              "evidence": [
+                {
+                  "startUid": "u1237",
+                  "endUid": "u1268"
+                },
+                {
+                  "startUid": "u0185",
+                  "endUid": "u0202"
+                }
+              ]
+            },
+            {
+              "actor": "Beast",
+              "kind": "turn",
+              "summary": "The final hiding snow flows back into it and its distraction ends. Gazes at Finnan, who uses Lucky for advantage and succeeds on his Constitution save at 22. Hurls ice at Finnan for 18 cold damage, corrected from 12, and at Eolo for 16 cold damage, correcting the initially named Ekko target.",
+              "evidence": [
+                {
+                  "startUid": "u1263",
+                  "endUid": "u1291"
+                }
+              ]
+            },
+            {
+              "actor": "Kalima",
+              "kind": "turn",
+              "summary": "Continues hiding.",
+              "evidence": [
+                {
+                  "startUid": "u1278",
+                  "endUid": "u1291"
+                }
+              ]
+            },
+            {
+              "actor": "Justas",
+              "kind": "turn",
+              "summary": "Moves Spirit Guardians onto the beast. It succeeds on the DC 14 Wisdom save and takes 7 radiant damage, with 15 halved rounded down after correction. Casts second-level Guiding Bolt: adds 4 Bardic Inspiration to an initial 14, hits at 18 and deals 21 damage, leaving the beast badly hurt.",
+              "evidence": [
+                {
+                  "startUid": "u1292",
+                  "endUid": "u1335"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Eolo",
+              "kind": "turn",
+              "summary": "With another player rolling, makes a straight crossbow attack that hits at 26 and adds a psychic boost. The beast dies before a second attack is made; Kalima survives.",
+              "evidence": [
+                {
+                  "startUid": "u1336",
+                  "endUid": "u1360"
+                }
+              ],
+              "note": "The spoken damage arithmetic is inconsistent: 9 damage and an additional 5 are announced, followed by “11 damage.” No corrected total is provided, so no total is reconstructed."
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Eolo’s final shot kills the beast and it collapses. Kalima is alive. The melting chamber and opening exit follow after the ordered combat ends.",
+        "evidence": [
+          {
+            "startUid": "u1354",
+            "endUid": "u1360"
+          }
+        ]
+      }
+    }
+  ]
+}
