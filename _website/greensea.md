@@ -21,7 +21,7 @@ From the shores of the [[Eastern Isles|wandering islands]], full of magic and my
 ```taelgar-map
 version: 2
 id: green-sea-campaign-intro
-source: assets/_incoming/green-sea-labeled.map.json
+source: assets/campaign/green-sea-labeled.map.json
 height: 520px
 fitBounds: false
 minZoom: -2.75
