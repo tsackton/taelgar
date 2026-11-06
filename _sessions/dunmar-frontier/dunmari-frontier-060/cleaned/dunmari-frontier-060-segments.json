@@ -1,0 +1,85 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-060",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-session.yaml",
+    "sessionYamlSha256": "3078eedcc3384eae4640d677134118462f1f3f5318b8c5fab8de27d527549b7f",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-transcript.md",
+    "transcriptSha256": "f32f7209d66427995985c907deab9868a0ec590bf722c8a8f1c825614ff997d9"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0332"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0333",
+        "endUid": "u0549"
+      },
+      "category": "combat",
+      "note": "No initiative roll is announced; repeated crossbow volleys and Wellby’s alternating actions establish an ordered turn cycle."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0550",
+        "endUid": "u0910"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0911",
+        "endUid": "u0922"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0923",
+        "endUid": "u0929"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0930",
+        "endUid": "u0937"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0938",
+        "endUid": "u0943"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0944",
+        "endUid": "u1243"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1244",
+        "endUid": "u1247"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
