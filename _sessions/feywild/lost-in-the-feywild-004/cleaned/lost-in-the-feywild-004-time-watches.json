@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-session.yaml",
+  "source": {
+    "path": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-time-markers.json",
+    "sha256": "1fb0538497eab68eb3daeb714bcc440feea9a5343720734a072564097a070f60"
+  },
+  "transcript": {
+    "path": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-transcript.md",
+    "sha256": "716cf624638fd3c88142cb6548ec5acdc5ec0792508b81a7cd4bbdfc042d263a"
+  },
+  "dateAssessment": "The working campaign calendar is October 5–6, 1740 from the session YAML; each elapsed event remains within that two-date window. Source order establishes prayer, the solarium pause, the completed eight-hour chapel rest, then Menestheus’s journal-date pause. No current civil date or usable clock is spoken. Stationary twilight, the artificial solarium sun, and the previous session’s twilight arrival (session 3, u2559–u2572; session 4, u0204–u0213) supply no civil watch. The Episode 04 timeline places exploration before and after the rest on successive dates, but the transcript-only YAML assessment remains compatible rather than independently matched.",
+  "watches": [
+    {
+      "day": "During October 5–6, 1740",
+      "dateWindow": [
+        "1740-10-05",
+        "1740-10-06"
+      ],
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "scope": "Edric · before chapel rest",
+      "summary": "A few minutes of prayer pass at the consecrated altar; no usable clock.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "During October 5–6, 1740",
+      "dateWindow": [
+        "1740-10-05",
+        "1740-10-06"
+      ],
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "scope": "Txarro · before chapel rest",
+      "summary": "A couple of minutes pass in the solarium before he chooses room 24.",
+      "markers": [
+        "t02"
+      ]
+    },
+    {
+      "day": "During October 5–6, 1740",
+      "dateWindow": [
+        "1740-10-05",
+        "1740-10-06"
+      ],
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "scope": "Party · chapel rest",
+      "summary": "An eight-hour long rest completes; neither endpoint has a usable clock or spoken civil date.",
+      "markers": [
+        "t03"
+      ]
+    },
+    {
+      "day": "During October 5–6, 1740",
+      "dateWindow": [
+        "1740-10-05",
+        "1740-10-06"
+      ],
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "scope": "Menestheus · after chapel rest",
+      "summary": "He pauses for a long minute over the last old journal date.",
+      "markers": [
+        "t04"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Previous-session handoff",
+      "path": "_sessions/feywild/lost-in-the-feywild-003/cleaned/lost-in-the-feywild-003-transcript.md",
+      "sha256": "0470948a5ed1c3a0d35df8b0ff8798c86a3498ecfad4a816d19d8d0a2825f73e"
+    },
+    {
+      "label": "Dated Episode 04 record",
+      "path": "Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 04.md",
+      "sha256": "1a822859f40e82059f50c798009ff8c4e88ec9d9f9353ff01a9580774a59af9b"
+    }
+  ]
+}
