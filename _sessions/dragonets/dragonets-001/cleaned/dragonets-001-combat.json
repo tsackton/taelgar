@@ -1,0 +1,143 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dragonets-001",
+    "sessionYaml": "_sessions/dragonets/dragonets-001/cleaned/dragonets-001-session.yaml",
+    "sessionYamlSha256": "6068525fceba05d6a9888e60b9d198c1839d433f32cdac49fbce14f7bb38731d",
+    "transcriptPath": "_sessions/dragonets/dragonets-001/cleaned/dragonets-001-transcript.md",
+    "transcriptSha256": "273771a9ea93effe06e614f7847747925a8895c37398e75764e97a90d316532a",
+    "segments": {
+      "path": "_sessions/dragonets/dragonets-001/cleaned/dragonets-001-segments.json",
+      "sha256": "aff03638e0451f40195c1cb5568f4c5c057c5e20266506baad84c69828087c5f",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s005",
+      "encounter": "Zeno and Roska’s call-and-response showdown",
+      "note": "A nonlethal performance contest is resolved in initiative. It was introduced as a three-round affair but ends after Roska concedes in the second round; initiative is explicitly rerolled between the two rounds.",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Zeno",
+              "kind": "turn",
+              "summary": "Wins the initial initiative, 16 against Roska’s 14, and delivers his opening diss with a straight Performance result of 22. Applies Sick Burn to reduce Roska’s response by 1d4; the penalty resolves as 3.",
+              "evidence": [
+                {
+                  "startUid": "u1240",
+                  "endUid": "u1262"
+                },
+                {
+                  "startUid": "u1266",
+                  "endUid": "u1274"
+                },
+                {
+                  "startUid": "u1285",
+                  "endUid": "u1304"
+                }
+              ],
+              "note": "Zeno says the 22 includes his inspiration at u1274, but later says he still has it at u1349. No additional inspiration die or corrected total is established."
+            },
+            {
+              "actor": "Roska",
+              "kind": "turn",
+              "summary": "Answers Zeno’s diss in elaborate costume. His total of 19 is reduced by Sick Burn’s 3 to 16, so Zeno’s 22 wins the first exchange.",
+              "evidence": [
+                {
+                  "startUid": "u1277",
+                  "endUid": "u1284"
+                },
+                {
+                  "startUid": "u1288",
+                  "endUid": "u1307"
+                }
+              ]
+            },
+            {
+              "actor": "Call-and-response MC",
+              "kind": "event",
+              "summary": "Points to each competitor to measure the crowd response; Zeno receives the greater roar and is declared the first-round winner.",
+              "evidence": [
+                {
+                  "startUid": "u1305",
+                  "endUid": "u1307"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Roska",
+              "kind": "turn",
+              "summary": "After initiative is rerolled, Roska goes first (15 against 10), escalates to feather and egg props, and scores 20 on Performance. He still finds and produces his egg despite Heska’s attempted disruption.",
+              "evidence": [
+                {
+                  "startUid": "u1308",
+                  "endUid": "u1318"
+                },
+                {
+                  "startUid": "u1325",
+                  "endUid": "u1338"
+                }
+              ]
+            },
+            {
+              "actor": "Heska",
+              "kind": "event",
+              "summary": "Tries to disrupt Roska’s prop routine but rolls a natural 1 and fails; Roska recovers the expected egg and delivers his rhyme.",
+              "evidence": [
+                {
+                  "startUid": "u1319",
+                  "endUid": "u1338"
+                }
+              ],
+              "note": "The failed interference occurs during Roska’s performance; the source does not assign it a reaction or separate regular initiative turn."
+            },
+            {
+              "actor": "Zeno",
+              "kind": "turn",
+              "summary": "Uses a straight roll, with no coaching advantage, and performs a verse celebrating Heska, Little Tony and Sculpit. The DM awards an additional +5 for the verse: the stated 25 becomes 30, beating Roska’s 20.",
+              "evidence": [
+                {
+                  "startUid": "u1339",
+                  "endUid": "u1351"
+                },
+                {
+                  "startUid": "u1352",
+                  "endUid": "u1371"
+                }
+              ]
+            },
+            {
+              "actor": "Roska",
+              "kind": "event",
+              "summary": "Concedes, kneels, says “Game recognizes game,” then embraces and congratulates Zeno. The crowd celebrates Zeno and pulls all four friends into its circle.",
+              "evidence": [
+                {
+                  "startUid": "u1373",
+                  "endUid": "u1380"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Zeno wins both resolved exchanges; Roska concedes and hugs him, and the crowd celebrates the four friends. No third round is played.",
+        "evidence": [
+          {
+            "startUid": "u1373",
+            "endUid": "u1380"
+          }
+        ]
+      }
+    }
+  ]
+}
