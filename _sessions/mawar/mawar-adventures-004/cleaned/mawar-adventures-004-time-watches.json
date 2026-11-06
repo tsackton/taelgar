@@ -95,6 +95,11 @@
       "label": "Amulet reference",
       "path": "Campaigns/Mawar Adventures/Items and Treasure/Amulet of Khathayi.md",
       "sha256": "666ddcd6980bf8ef7d850b53e172fa53059ce23c0c1b573ba202fe87c2ba3ed4"
+    },
+    {
+      "label": "Earlier Mawar entity map",
+      "path": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-entity-map.json",
+      "sha256": "268c432252b82ed074c9b04e94da05cb4a65c134735edad1f4b6ec1ca98edc5a"
     }
   ]
 }
