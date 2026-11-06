@@ -1,0 +1,842 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-075",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-session.yaml",
+    "sessionYamlSha256": "a47486f4a7be8a983d6b5fd78d2de412e26634a04eb5645335711c6210c70ab7",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-transcript.md",
+    "transcriptSha256": "00b24463ffb6489a5efcba5dbdf9795e45fd81756520bab1e197f2a526179f1c"
+  },
+  "places": {
+    "p01": {
+      "label": "Vindristjarna",
+      "kind": "skyship",
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0007",
+          "quote": "DM: Okay, so as we begin on the plains of Dunmar the night after finally getting the sky ship Vindristjarna repaired, as it—as Seeker attempted to bring it lurchingly into the sky, prior to having spent the time properly practicing with with how to control this massive block of stone."
+        },
+        {
+          "startUid": "u1138",
+          "endUid": "u1141",
+          "quote": "Seeker: Now we're—we're all sleeping on deck of the ship, right? And yeah, while we're on a ship journey, the new rule is, everyone just stays on the ship. Okay? Because yeah, then we're see if they're getting surrounded by shadow. Yeah, we'll like go randomly off to shit, because yeah, we'll be— got to stay on the ship."
+        }
+      ]
+    },
+    "p02": {
+      "label": "Plains of Dunmar",
+      "kind": "region",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Dunmar.md",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0007",
+          "quote": "DM: Okay, so as we begin on the plains of Dunmar the night after finally getting the sky ship Vindristjarna repaired, as it—as Seeker attempted to bring it lurchingly into the sky, prior to having spent the time properly practicing with with how to control this massive block of stone."
+        }
+      ],
+      "note": "The vault link identifies Dunmar; the current transcript does not identify a narrower named plain."
+    },
+    "p03": {
+      "label": "Camp beside the skyship",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u1099",
+          "endUid": "u1101",
+          "quote": "DM: So you return to your camp. There anything you're going to do before going back to sleep?"
+        },
+        {
+          "startUid": "u1138",
+          "endUid": "u1141",
+          "quote": "Seeker: Now we're—we're all sleeping on deck of the ship, right? And yeah, while we're on a ship journey, the new rule is, everyone just stays on the ship. Okay? Because yeah, then we're see if they're getting surrounded by shadow. Yeah, we'll like go randomly off to shit, because yeah, we'll be— got to stay on the ship."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0007",
+              "quote": "DM: Okay, so as we begin on the plains of Dunmar the night after finally getting the sky ship Vindristjarna repaired, as it—as Seeker attempted to bring it lurchingly into the sky, prior to having spent the time properly practicing with with how to control this massive block of stone."
+            },
+            {
+              "startUid": "u1099",
+              "endUid": "u1101",
+              "quote": "DM: So you return to your camp. There anything you're going to do before going back to sleep?"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Garden on the ship",
+      "kind": "garden",
+      "evidence": [
+        {
+          "startUid": "u0427",
+          "endUid": "u0427",
+          "quote": "Seeker: Or so. We don't actually have a tree on the ship yet, do we?"
+        },
+        {
+          "startUid": "u1193",
+          "endUid": "u1194",
+          "quote": "Kenzo: Kenzo spends the day quietly tending to the garden."
+        },
+        {
+          "startUid": "u1220",
+          "endUid": "u1222",
+          "quote": "Kenzo: I do 11 damage. Kind of like looks over and just, you know, gives you—it gives you a a solid whack, very solid whack. And then—and then turns and goes back and, you know, kind of just— and then just goes back to his garden."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0427",
+              "endUid": "u0427",
+              "quote": "Seeker: Or so. We don't actually have a tree on the ship yet, do we?"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Desert crossed in flight",
+      "kind": "region",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Garamjala Plateau/Garamjala Desert.md",
+      "evidence": [
+        {
+          "startUid": "u1942",
+          "endUid": "u1942",
+          "quote": "Kenzo: Well, so we should basically go as fast as we can and get to the Orcs as fast as we can. We should do the 2 day thing, straight line, 2 days, get there. And what does this straight line take us over again?"
+        },
+        {
+          "startUid": "u1943",
+          "endUid": "u1943",
+          "quote": "Riswynn: A lot of desert. That's why I was in that particular desert."
+        },
+        {
+          "startUid": "u1945",
+          "endUid": "u1946",
+          "quote": "DM: I'm just measuring to to the river, basically because you don't quite know exactly how big and where these orcs are."
+        },
+        {
+          "startUid": "u1947",
+          "endUid": "u1947",
+          "quote": "Seeker: And actually we want. I think we want to route a little bit further north because we don't want to be spotted from the ground because we don't know how far along they are."
+        },
+        {
+          "startUid": "u1947",
+          "endUid": "u1947",
+          "quote": "DM: Yeah, that's fair."
+        },
+        {
+          "startUid": "u2025",
+          "endUid": "u2027",
+          "quote": "DM: Okay, so well—but so you're just flying straight for your 2 2 days of straight flying across the desert."
+        },
+        {
+          "startUid": "u2074",
+          "endUid": "u2082",
+          "quote": "DM: So after a long day of travel, some repairs on the ship, a brief land in the desert to switch pilots, and then another long night of flying, when some of you sleep and Kenzo drives, the next morning dawns hot and clear again. And you just do it again. Another day of soaring up into the sky, another day of watching the desert landscape below you slowly change."
+        }
+      ],
+      "note": "Identified as the Garamjala from the Dunmar-to-peaceful-orc-kingdom route and the Garamjala Desert and Xurkhaz vault notes. The transcript does not speak this name or define a national boundary."
+    },
+    "p06": {
+      "label": "Land of the peaceful orcs",
+      "kind": "realm",
+      "vaultPath": "Gazetteer/Upper Istaros/Xurkhaz/Xurkhaz.md",
+      "evidence": [
+        {
+          "startUid": "u1881",
+          "endUid": "u1883",
+          "quote": "DM: The peaceful orcs that live out in the desert. And you've seen the—you've seen there, like, King or something or somebody wearing it."
+        },
+        {
+          "startUid": "u2093",
+          "endUid": "u2097",
+          "quote": "DM: This, you surmise, early on the morning of December fourth, must be the land of the orcs that you're looking for. No sign of Grash's army, at least not yet."
+        },
+        {
+          "startUid": "u2116",
+          "endUid": "u2121",
+          "quote": "DM: But you do see, I mean, even when you're approaching from quite a distance, right, like from 50 miles off, you can see the landscape stretching in front of you, this river, the first river that you come to, this river here, right, you can see like the law—this whole river valley. This— you know, clear irrigation, like this— this— you know, lots of cattle, lots of green growing."
+        },
+        {
+          "startUid": "u2123",
+          "endUid": "u2123",
+          "quote": "DM: Agricultural—yeah, like this is not like, you know, a fly by night camp, right? Like you can see this is like a well settled kingdom."
+        }
+      ],
+      "note": "The peaceful orcs’ kingdom is Xurkhaz in the inspected Xurkhaz, People of the Rainbow and Cloak of Rainbows notes. They are observed from far off; the party does not enter in this transcript."
+    },
+    "p07": {
+      "label": "River valley and irrigated farmlands",
+      "kind": "river valley",
+      "evidence": [
+        {
+          "startUid": "u2083",
+          "endUid": "u2092",
+          "quote": "DM: Until the morning after another change in another, the rest, driving off a few curious giant vultures who come to see what this other giant ship in the sky is, watching the landscape change before you, you see in the distance a valley, the river valley. You see rolling pastoral hills stretching as far as the eye can see, fields and cattle, watch towers along the river."
+        },
+        {
+          "startUid": "u2093",
+          "endUid": "u2097",
+          "quote": "DM: This, you surmise, early on the morning of December fourth, must be the land of the orcs that you're looking for. No sign of Grash's army, at least not yet."
+        },
+        {
+          "startUid": "u2116",
+          "endUid": "u2121",
+          "quote": "DM: But you do see, I mean, even when you're approaching from quite a distance, right, like from 50 miles off, you can see the landscape stretching in front of you, this river, the first river that you come to, this river here, right, you can see like the law—this whole river valley. This— you know, clear irrigation, like this— this— you know, lots of cattle, lots of green growing."
+        },
+        {
+          "startUid": "u2123",
+          "endUid": "u2123",
+          "quote": "DM: Agricultural—yeah, like this is not like, you know, a fly by night camp, right? Like you can see this is like a well settled kingdom."
+        },
+        {
+          "startUid": "u2125",
+          "endUid": "u2127",
+          "quote": "DM: And you know, just almost of comes out of nowhere, right, like that. I guess you were mostly flying through the night before you encountered it. But you know, this is in the midst of a— of a, you know, desert, right? This is like—this is like Egypt, I guess, like coming across the Nile."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2083",
+              "endUid": "u2092",
+              "quote": "DM: Until the morning after another change in another, the rest, driving off a few curious giant vultures who come to see what this other giant ship in the sky is, watching the landscape change before you, you see in the distance a valley, the river valley. You see rolling pastoral hills stretching as far as the eye can see, fields and cattle, watch towers along the river."
+            },
+            {
+              "startUid": "u2093",
+              "endUid": "u2097",
+              "quote": "DM: This, you surmise, early on the morning of December fourth, must be the land of the orcs that you're looking for. No sign of Grash's army, at least not yet."
+            },
+            {
+              "startUid": "u2116",
+              "endUid": "u2121",
+              "quote": "DM: But you do see, I mean, even when you're approaching from quite a distance, right, like from 50 miles off, you can see the landscape stretching in front of you, this river, the first river that you come to, this river here, right, you can see like the law—this whole river valley. This— you know, clear irrigation, like this— this— you know, lots of cattle, lots of green growing."
+            },
+            {
+              "startUid": "u2123",
+              "endUid": "u2123",
+              "quote": "DM: Agricultural—yeah, like this is not like, you know, a fly by night camp, right? Like you can see this is like a well settled kingdom."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Grash’s army’s position in the desert",
+      "kind": "camp or marching position",
+      "evidence": [
+        {
+          "startUid": "u1934",
+          "endUid": "u1936",
+          "quote": "Kenzo: Okay. Now let's scry them."
+        },
+        {
+          "startUid": "u1934",
+          "endUid": "u1936",
+          "quote": "DM: And on December this morning, as you're discussing this Delwath goes and scries. And in fact they are within sight of Grash's army, and seemed to be meeting with him or meeting up with him this day, December second."
+        },
+        {
+          "startUid": "u1938",
+          "endUid": "u1938",
+          "quote": "DM: It's in the desert somewhere."
+        },
+        {
+          "startUid": "u1939",
+          "endUid": "u1940",
+          "quote": "Seeker: Right hard to localize."
+        },
+        {
+          "startUid": "u1939",
+          "endUid": "u1940",
+          "quote": "DM: It's hard to localize. It's heading—it's heading east. It's some—it left 4 or 5 days ago, and it's moving fast. It's clearly not at the other orc kingdom yet."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1938",
+              "endUid": "u1938",
+              "quote": "DM: It's in the desert somewhere."
+            }
+          ]
+        }
+      ],
+      "note": "The scrying locates the army only somewhere in the desert, moving east; no precise position or river proximity is established."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0035"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker pilots Vindristjarna above the Dunmari plains at the opening; Kenzo, Riswynn and Wellby are airborne nearby.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0007",
+          "quote": "DM: Okay, so as we begin on the plains of Dunmar the night after finally getting the sky ship Vindristjarna repaired, as it—as Seeker attempted to bring it lurchingly into the sky, prior to having spent the time properly practicing with with how to control this massive block of stone."
+        },
+        {
+          "startUid": "u0016",
+          "endUid": "u0019",
+          "quote": "DM: Seeker having— or Wellby having shaken you all awake, and Seeker having attempted to bring the ship lurchingly into the sky, and it tipping slightly on its axis."
+        },
+        {
+          "startUid": "u0020",
+          "endUid": "u0022",
+          "quote": "DM: I'm rolling— as Wellby leapt into the sky. Kenzo and Riswynn granted the power of flight by Delwath's spell."
+        },
+        {
+          "startUid": "u0026",
+          "endUid": "u0027",
+          "quote": "DM: It's off the ground by about 15 feet, and it's like a 30 degree angle."
+        },
+        {
+          "startUid": "u0026",
+          "endUid": "u0027",
+          "quote": "Seeker: Oh, yeah, perfect."
+        },
+        {
+          "startUid": "u0028",
+          "endUid": "u0031",
+          "quote": "DM: Couldn't ask for a better scenario. And you all are flying— well, Riswynn, Kenzo, and Wellby are all flying."
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p02"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0020",
+        "endUid": "u0037"
+      },
+      "actors": [
+        "Kenzo",
+        "Riswynn",
+        "Wellby",
+        "Delwath"
+      ],
+      "reading": "Kenzo, Riswynn and Wellby fly around the skyship on the plains; Delwath splits off to fight another group nearby.",
+      "evidence": [
+        {
+          "startUid": "u0020",
+          "endUid": "u0022",
+          "quote": "DM: I'm rolling— as Wellby leapt into the sky. Kenzo and Riswynn granted the power of flight by Delwath's spell."
+        },
+        {
+          "startUid": "u0028",
+          "endUid": "u0031",
+          "quote": "DM: Couldn't ask for a better scenario. And you all are flying— well, Riswynn, Kenzo, and Wellby are all flying."
+        },
+        {
+          "startUid": "u0036",
+          "endUid": "u0037",
+          "quote": "DM: And with that, as you all charge into the battle, Delwath splits off to fight some other bad guys over here. Why don't you roll initiative?"
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0185",
+        "endUid": "u0199"
+      },
+      "actors": [
+        "Laddie"
+      ],
+      "reading": "The animated ladder comes up onto the skyship’s deck and stays near Seeker.",
+      "evidence": [
+        {
+          "startUid": "u0185",
+          "endUid": "u0187",
+          "quote": "Seeker: Okay. Sure. I will. But I—I could. I could activate the ladder, right?"
+        },
+        {
+          "startUid": "u0189",
+          "endUid": "u0190",
+          "quote": "Seeker: Perfect. All right, Animating Performance. The ladder springs to life."
+        },
+        {
+          "startUid": "u0192",
+          "endUid": "u0193",
+          "quote": "Seeker: By the way, I think the ladder— the ladder might be engaged in melee duty on board the ship itself, so will not be diving out into the fray."
+        },
+        {
+          "startUid": "u0195",
+          "endUid": "u0195",
+          "quote": "DM: So the ladder, I mean the ladder was like stored somewhere. But let's say it's within range of you, so that—"
+        },
+        {
+          "startUid": "u0196",
+          "endUid": "u0196",
+          "quote": "Seeker: Right, it can fly up on deck."
+        },
+        {
+          "startUid": "u0197",
+          "endUid": "u0197",
+          "quote": "DM: Yeah, so it's gonna it's gonna be like right there, roughly. But on on deck, whereas Riswynn and Wellby are below. But underneath."
+        }
+      ],
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "fly",
+      "from": null
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0573",
+        "endUid": "u0588"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "The hunter carries the unconscious Kenzo away across the battlefield; the attempted abduction is stopped when the hunter is killed.",
+      "evidence": [
+        {
+          "startUid": "u0573",
+          "endUid": "u0575",
+          "quote": "DM: Two spear attacks knocks Kenzo down, falling unconscious."
+        },
+        {
+          "startUid": "u0581",
+          "endUid": "u0583",
+          "quote": "DM: And as he turns to you, Wellby, make a Constitution saving throw. You feel this wave of necrotic energy, draining moisture and vitality, wash over you."
+        },
+        {
+          "startUid": "u0584",
+          "endUid": "u0587",
+          "quote": "DM: And you take 43 points of necrotic damage as he grabs Kenzo's body and begins running away."
+        },
+        {
+          "startUid": "u0905",
+          "endUid": "u0910",
+          "quote": "DM: So as Wellby stands above, floats above, and draws an arrow and launches it straight into the top of this shadow creature's head. He just collapses, and you can see his face turns from this shadowy form to this pale sort of looking human male as he collapses."
+        },
+        {
+          "startUid": "u0986",
+          "endUid": "u0988",
+          "quote": "DM: Yeah, okay. So as the sun just bursts forth from Riswynn, this shadowy dog just vanishes into puffs of smoke. Wellby, standing next to the—landing next to the unconscious Kenzo."
+        },
+        {
+          "startUid": "u0993",
+          "endUid": "u1000",
+          "quote": "Wellby: I'll stabilize Kenzo then, but not use a— that just a Medicine check."
+        },
+        {
+          "startUid": "u0993",
+          "endUid": "u1000",
+          "quote": "DM: Medicine Check. Yeah. Yeah, so Wellby leans down and just stops the—stops— basically gives Kenzo field CPR, just stops the—you're still unconscious, but you're stable. You're not dying anymore. You know, get some—gives them a quick at— patch up, as Riswynn and the yeti make quick work of the last shadow dog on the deck of the boat."
+        }
+      ],
+      "from": "p02",
+      "to": null,
+      "completion": "interrupted",
+      "mode": "carried by the Shadow Hunter"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1040",
+        "endUid": "u1042"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath rejoins after fighting other creatures.",
+      "evidence": [
+        {
+          "startUid": "u1040",
+          "endUid": "u1042",
+          "quote": "DM: Yeah. You still have Fly. So Delwath reappears after having fought some other creatures?"
+        },
+        {
+          "startUid": "u1040",
+          "endUid": "u1042",
+          "quote": "Kenzo: Can we first prioritize Healing Word to Kenzo?"
+        }
+      ],
+      "from": null,
+      "to": "p02",
+      "completion": "arrived"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1099",
+        "endUid": "u1101"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The group returns to camp after the encounter.",
+      "evidence": [
+        {
+          "startUid": "u1099",
+          "endUid": "u1101",
+          "quote": "DM: So you return to your camp. There anything you're going to do before going back to sleep?"
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived"
+    },
+    {
+      "id": "l07",
+      "type": "presence",
+      "source": {
+        "startUid": "u1138",
+        "endUid": "u1141"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party establishes that it sleeps on the ship’s deck rather than leaving the skyship.",
+      "evidence": [
+        {
+          "startUid": "u1138",
+          "endUid": "u1141",
+          "quote": "Seeker: Now we're—we're all sleeping on deck of the ship, right? And yeah, while we're on a ship journey, the new rule is, everyone just stays on the ship. Okay? Because yeah, then we're see if they're getting surrounded by shadow. Yeah, we'll like go randomly off to shit, because yeah, we'll be— got to stay on the ship."
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "at",
+          "target": "p03"
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "presence",
+      "source": {
+        "startUid": "u1181",
+        "endUid": "u1203"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo tends the ship’s garden during Seeker’s day of flight practice.",
+      "evidence": [
+        {
+          "startUid": "u1181",
+          "endUid": "u1182",
+          "quote": "DM: So you spend your your full day of practice. If there's anything else people want to do while Seeker's practicing?"
+        },
+        {
+          "startUid": "u1193",
+          "endUid": "u1194",
+          "quote": "Kenzo: Kenzo spends the day quietly tending to the garden."
+        },
+        {
+          "startUid": "u1196",
+          "endUid": "u1201",
+          "quote": "Kenzo: Oh, no, no, just—just a—you know, you see him like quietly tending to the garden, and he'll—he'll glance at Wellby, and then and then you—you can sense that every time he does, it's like very triggering for him, and he goes and like sits down calmly and meditate. It's intense again, and then, like, he'll like look and like just test Wellby out at the point, and then he starts getting flustered. But then he calms himself down, and yeah, so it's just this kind of patterns throughout the day. But— you probably don't notice that. Maybe Wellby does, but—"
+        }
+      ],
+      "place": "p01",
+      "note": "Wellby’s separate mounted-archery practice with Baxter has no stated physical location; his later approach to Kenzo is recorded at l09."
+    },
+    {
+      "id": "l09",
+      "type": "presence",
+      "source": {
+        "startUid": "u1193",
+        "endUid": "u1222"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "Kenzo tends the garden; Wellby approaches to challenge him about responsibility, and Kenzo returns to gardening after striking him.",
+      "evidence": [
+        {
+          "startUid": "u1193",
+          "endUid": "u1194",
+          "quote": "Kenzo: Kenzo spends the day quietly tending to the garden."
+        },
+        {
+          "startUid": "u1196",
+          "endUid": "u1201",
+          "quote": "Kenzo: Oh, no, no, just—just a—you know, you see him like quietly tending to the garden, and he'll—he'll glance at Wellby, and then and then you—you can sense that every time he does, it's like very triggering for him, and he goes and like sits down calmly and meditate. It's intense again, and then, like, he'll like look and like just test Wellby out at the point, and then he starts getting flustered. But then he calms himself down, and yeah, so it's just this kind of patterns throughout the day. But— you probably don't notice that. Maybe Wellby does, but—"
+        },
+        {
+          "startUid": "u1204",
+          "endUid": "u1207",
+          "quote": "Wellby: But at a certain point he comes over to Kenzo, says, \"Kenzo, it's— it's really important, you know, for us as a team, it's important for us to take responsibility when things go badly. And so I think it's important for you to take responsibility for dying to that thing.\""
+        },
+        {
+          "startUid": "u1220",
+          "endUid": "u1222",
+          "quote": "Kenzo: I do 11 damage. Kind of like looks over and just, you know, gives you—it gives you a a solid whack, very solid whack. And then—and then turns and goes back and, you know, kind of just— and then just goes back to his garden."
+        },
+        {
+          "startUid": "u1223",
+          "endUid": "u1224",
+          "quote": "Wellby: I think message received, Kenzo. I'll let you lay there next time."
+        }
+      ],
+      "place": "p04"
+    },
+    {
+      "id": "l10",
+      "type": "presence",
+      "source": {
+        "startUid": "u1281",
+        "endUid": "u1284"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo is connected and attuned to the ship during the December 1 practice day and lunch break.",
+      "evidence": [
+        {
+          "startUid": "u1281",
+          "endUid": "u1284",
+          "quote": "DM: So on December first, around lunch time, as you are taking a break for some food, as you in the middle of your day of practice learning to fly a ship, still trying to disentangle your mind from the confusing sort of disorienting sensation of 360 degree awareness as you are connected and attuned to the—to the—to the ship."
+        },
+        {
+          "startUid": "u1285",
+          "endUid": "u1287",
+          "quote": "DM: So that's another point. If you are—so, if you are attuned to the— if you're attuned to the phasing stone, you have to unattune from either the ring of jumping, or the ring, or—"
+        },
+        {
+          "startUid": "u1290",
+          "endUid": "u1290",
+          "quote": "Kenzo: I'll I'll I'll detune from fire resistance."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1849",
+        "endUid": "u1947"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The group chooses the fastest shared-pilot flight toward the peaceful orcs, with a slightly northern route to reduce the chance of being spotted. The flight reaches a distant approach by December 4; entry into the kingdom is not narrated.",
+      "evidence": [
+        {
+          "startUid": "u1849",
+          "endUid": "u1849",
+          "quote": "DM: And then you prepared to take flight."
+        },
+        {
+          "startUid": "u1864",
+          "endUid": "u1865",
+          "quote": "DM: Seeker needs to sleep while you're—so—so if you just go it, it's like 4 and a half days if you go at the normal speed. If you try and push yourself a little, you could probably squeeze it in to just just under 4 days. If you go 22 h a day doing the swapping off thing, then, yeah, then you could make it in in in just over 2 days."
+        },
+        {
+          "startUid": "u1942",
+          "endUid": "u1942",
+          "quote": "Kenzo: Well, so we should basically go as fast as we can and get to the Orcs as fast as we can. We should do the 2 day thing, straight line, 2 days, get there. And what does this straight line take us over again?"
+        },
+        {
+          "startUid": "u1947",
+          "endUid": "u1947",
+          "quote": "Seeker: And actually we want. I think we want to route a little bit further north because we don't want to be spotted from the ground because we don't know how far along they are."
+        },
+        {
+          "startUid": "u1947",
+          "endUid": "u1947",
+          "quote": "DM: Yeah, that's fair."
+        },
+        {
+          "startUid": "u2025",
+          "endUid": "u2027",
+          "quote": "DM: Okay, so well—but so you're just flying straight for your 2 2 days of straight flying across the desert."
+        },
+        {
+          "startUid": "u2074",
+          "endUid": "u2082",
+          "quote": "DM: So after a long day of travel, some repairs on the ship, a brief land in the desert to switch pilots, and then another long night of flying, when some of you sleep and Kenzo drives, the next morning dawns hot and clear again. And you just do it again. Another day of soaring up into the sky, another day of watching the desert landscape below you slowly change."
+        },
+        {
+          "startUid": "u2083",
+          "endUid": "u2092",
+          "quote": "DM: Until the morning after another change in another, the rest, driving off a few curious giant vultures who come to see what this other giant ship in the sky is, watching the landscape change before you, you see in the distance a valley, the river valley. You see rolling pastoral hills stretching as far as the eye can see, fields and cattle, watch towers along the river."
+        },
+        {
+          "startUid": "u2093",
+          "endUid": "u2097",
+          "quote": "DM: This, you surmise, early on the morning of December fourth, must be the land of the orcs that you're looking for. No sign of Grash's army, at least not yet."
+        },
+        {
+          "startUid": "u2116",
+          "endUid": "u2121",
+          "quote": "DM: But you do see, I mean, even when you're approaching from quite a distance, right, like from 50 miles off, you can see the landscape stretching in front of you, this river, the first river that you come to, this river here, right, you can see like the law—this whole river valley. This— you know, clear irrigation, like this— this— you know, lots of cattle, lots of green growing."
+        },
+        {
+          "startUid": "u2125",
+          "endUid": "u2127",
+          "quote": "DM: And you know, just almost of comes out of nowhere, right, like that. I guess you were mostly flying through the night before you encountered it. But you know, this is in the midst of a— of a, you know, desert, right? This is like—this is like Egypt, I guess, like coming across the Nile."
+        }
+      ],
+      "from": "p03",
+      "to": "p06",
+      "completion": "underway",
+      "mode": "fly",
+      "vehicle": "p01",
+      "duration": {
+        "value": 2,
+        "unit": "day",
+        "precision": "exact",
+        "basis": "Narrated travel to the distant approach, not completion to the kingdom."
+      },
+      "route": [
+        {
+          "reading": "Cross the desert high above the ground, taking a slightly northern line to avoid the advancing army.",
+          "place": "p05"
+        },
+        {
+          "reading": "Land briefly in the desert to switch pilots; continue by day and night.",
+          "place": "p05"
+        },
+        {
+          "reading": "Approach the irrigated river valley from far off without an established landing or entry.",
+          "place": "p07"
+        }
+      ],
+      "distance": {
+        "min": 520,
+        "max": 540,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "Initial estimated distance to the river, not a measured distance completed."
+      }
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u1934",
+        "endUid": "u1940"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scrying shows the wizards within sight of Grash’s army somewhere in the desert, apparently meeting it that day; the army is not yet at the other orc kingdom.",
+      "evidence": [
+        {
+          "startUid": "u1934",
+          "endUid": "u1936",
+          "quote": "Kenzo: Okay. Now let's scry them."
+        },
+        {
+          "startUid": "u1934",
+          "endUid": "u1936",
+          "quote": "DM: And on December this morning, as you're discussing this Delwath goes and scries. And in fact they are within sight of Grash's army, and seemed to be meeting with him or meeting up with him this day, December second."
+        },
+        {
+          "startUid": "u1938",
+          "endUid": "u1938",
+          "quote": "DM: It's in the desert somewhere."
+        },
+        {
+          "startUid": "u1939",
+          "endUid": "u1940",
+          "quote": "Seeker: Right hard to localize."
+        },
+        {
+          "startUid": "u1939",
+          "endUid": "u1940",
+          "quote": "DM: It's hard to localize. It's heading—it's heading east. It's some—it left 4 or 5 days ago, and it's moving fast. It's clearly not at the other orc kingdom yet."
+        }
+      ],
+      "place": "p08",
+      "mode": "remote",
+      "observedActors": [
+        "party of wizards",
+        "Grash’s army"
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u2083",
+        "endUid": "u2097"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the airborne ship, the party sees the settled river valley, fields, cattle and watchtowers of the peaceful orc kingdom. Later clarification places this view as far as 50 miles away.",
+      "evidence": [
+        {
+          "startUid": "u2083",
+          "endUid": "u2092",
+          "quote": "DM: Until the morning after another change in another, the rest, driving off a few curious giant vultures who come to see what this other giant ship in the sky is, watching the landscape change before you, you see in the distance a valley, the river valley. You see rolling pastoral hills stretching as far as the eye can see, fields and cattle, watch towers along the river."
+        },
+        {
+          "startUid": "u2093",
+          "endUid": "u2097",
+          "quote": "DM: This, you surmise, early on the morning of December fourth, must be the land of the orcs that you're looking for. No sign of Grash's army, at least not yet."
+        },
+        {
+          "startUid": "u2116",
+          "endUid": "u2121",
+          "quote": "DM: But you do see, I mean, even when you're approaching from quite a distance, right, like from 50 miles off, you can see the landscape stretching in front of you, this river, the first river that you come to, this river here, right, you can see like the law—this whole river valley. This— you know, clear irrigation, like this— this— you know, lots of cattle, lots of green growing."
+        },
+        {
+          "startUid": "u2123",
+          "endUid": "u2123",
+          "quote": "DM: Agricultural—yeah, like this is not like, you know, a fly by night camp, right? Like you can see this is like a well settled kingdom."
+        },
+        {
+          "startUid": "u2125",
+          "endUid": "u2127",
+          "quote": "DM: And you know, just almost of comes out of nowhere, right, like that. I guess you were mostly flying through the night before you encountered it. But you know, this is in the midst of a— of a, you know, desert, right? This is like—this is like Egypt, I guess, like coming across the Nile."
+        }
+      ],
+      "place": "p07",
+      "mode": "local",
+      "observerPlace": "p01"
+    }
+  ]
+}

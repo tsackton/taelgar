@@ -1,0 +1,141 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-time-markers.json",
+    "sha256": "7d99cabe75ba345bc33917ba0adc7846b0dd4e5c071fefa73136067f42ee712d"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-transcript.md",
+    "sha256": "00b24463ffb6489a5efcba5dbdf9795e45fd81756520bab1e197f2a526179f1c"
+  },
+  "dateAssessment": "Working dates use the spoken November 30, December 1, December 2 and December 4 anchors, with 1748 inherited from YAML. The opening midnight watch is placed on November 30 from the post-fight one-a.m. camp scene and subsequent November 30 breakfast. YAML’s November 29 start may label the preceding night rather than a civil-date event recorded here; the time extraction remains compatible, with that boundary open. Four civil transitions are supported from November 30 to December 4. The overnight prayer insertion adds no extra day, and Kenzo explicitly did not sleep that night.",
+  "watches": [
+    {
+      "day": "November 30, 1748",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "mixed",
+      "summary": "Night encounter continues; the party returns to camp at about one a.m.",
+      "markers": [
+        "t01",
+        "t02"
+      ],
+      "startDate": "1748-11-30",
+      "endDate": "1748-11-30"
+    },
+    {
+      "day": "November 30, 1748",
+      "startWatch": "midnight",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Eight-hour long rest after the one-a.m. camp scene; late-morning breakfast follows.",
+      "markers": [
+        "t03"
+      ],
+      "startDate": "1748-11-30",
+      "endDate": "1748-11-30"
+    },
+    {
+      "day": "November 30, 1748",
+      "startWatch": "morning",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Seeker spends the full day practicing flight; Kenzo gardens and Wellby trains Baxter.",
+      "markers": [
+        "t04"
+      ],
+      "startDate": "1748-11-30",
+      "endDate": "1748-11-30"
+    },
+    {
+      "day": "November 30–December 1, 1748",
+      "startWatch": "dusk",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Quiet-evening rest separates November 30 practice from the December 1 training day.",
+      "markers": [
+        "t05"
+      ],
+      "startDate": "1748-11-30",
+      "endDate": "1748-12-01"
+    },
+    {
+      "day": "December 1, 1748",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "Sura calls around lunchtime during Kenzo’s December 1 training.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1748-12-01",
+      "endDate": "1748-12-01"
+    },
+    {
+      "day": "December 1, 1748",
+      "startWatch": "midday",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Kenzo spends the rest of the day practicing on the ship.",
+      "markers": [
+        "t07"
+      ],
+      "startDate": "1748-12-01",
+      "endDate": "1748-12-01"
+    },
+    {
+      "day": "December 1–2, 1748",
+      "startWatch": null,
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "All-night prayers are resolved retrospectively; Kenzo says his companions slept.",
+      "markers": [
+        "t10"
+      ],
+      "startDate": "1748-12-01",
+      "endDate": "1748-12-02",
+      "scope": "Kenzo"
+    },
+    {
+      "day": "December 2, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Next-morning divination takes ten minutes; the morning call and December 2 scrying precede departure.",
+      "markers": [
+        "t08",
+        "t09",
+        "t11",
+        "t12"
+      ],
+      "startDate": "1748-12-02",
+      "endDate": "1748-12-02"
+    },
+    {
+      "day": "December 3, 1748",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "After a day and night of flight, the next morning dawns; travel repeats.",
+      "markers": [
+        "t14"
+      ],
+      "startDate": "1748-12-03",
+      "endDate": "1748-12-03"
+    },
+    {
+      "day": "December 4, 1748",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Two days of shared-pilot flight end with a distant, early-morning sighting on December 4.",
+      "markers": [
+        "t13",
+        "t15"
+      ],
+      "startDate": "1748-12-04",
+      "endDate": "1748-12-04"
+    }
+  ]
+}
