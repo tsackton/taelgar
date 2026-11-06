@@ -1,0 +1,1098 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-101/cleaned/dunmari-frontier-101-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "4bd78ce8331aee5071dfa9897cfd0a52b24b493251d81e50fc0fdacfc33d9b61",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "62a618600fee471e9248b20aecde870737c295149ca6331ff22a93e85c6c6ffe",
+        "transcriptProcessing.artifacts.cleaned": "71ed5f9ddab5c3b4276627ade79156a5e50badfa3352fcf7c1a4b9a7c621ac91"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "npc",
+      "label": "Sentient Ocean",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0004",
+            "endUid": "u0023"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2882",
+            "endUid": "u2886"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4012",
+            "endUid": "u4018"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Sentient Ocean.md"
+    },
+    {
+      "id": "e002",
+      "kind": "npc",
+      "label": "Buruli",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0004",
+            "endUid": "u0019"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3152",
+            "endUid": "u3163"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3543",
+            "endUid": "u3545"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Buruli.md"
+    },
+    {
+      "id": "e003",
+      "kind": "npc",
+      "label": "Gazankoa",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0004",
+            "endUid": "u0019"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2882",
+            "endUid": "u2886"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3016",
+            "endUid": "u3024"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Extraplanar Powers/Gazankoa.md"
+    },
+    {
+      "id": "e004",
+      "kind": "item",
+      "label": "Jade sustaining Buruli’s portal",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0004",
+            "endUid": "u0019"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2507",
+            "endUid": "u2515"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3152",
+            "endUid": "u3166"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Jade Piece of Rai's Hand.md"
+    },
+    {
+      "id": "e005",
+      "kind": "npc",
+      "label": "Tentacled portal guardian",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0081",
+            "endUid": "u0086"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0999",
+            "endUid": "u1003"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1341",
+            "endUid": "u1358"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Herald"
+      ]
+    },
+    {
+      "id": "e006",
+      "kind": "npc",
+      "label": "Merfolk captain with the silver rapier",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1651",
+            "endUid": "u1679"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2115",
+            "endUid": "u2118"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2626",
+            "endUid": "u2638"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e007",
+      "kind": "item",
+      "label": "Milo’s silver rapier",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1716",
+            "endUid": "u1722"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2403",
+            "endUid": "u2430"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3269",
+            "endUid": "u3269"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3891",
+            "endUid": "u3900"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e008",
+      "kind": "npc",
+      "label": "Hissing coral plant",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2270",
+            "endUid": "u2274"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2334",
+            "endUid": "u2388"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The sustained clue exchange gives this plant a personality, but it may be ordinary vegetation temporarily addressed through a spell.",
+      "names": [
+        "seaweed",
+        "coral plant"
+      ]
+    },
+    {
+      "id": "e009",
+      "kind": "item",
+      "label": "Guardian’s ten-foot trident",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2440",
+            "endUid": "u2468"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e010",
+      "kind": "item",
+      "label": "Swirling silver crystal necklace",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2606",
+            "endUid": "u2619"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3891",
+            "endUid": "u3900"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Tilly’s arcane focus"
+      ]
+    },
+    {
+      "id": "e011",
+      "kind": "item",
+      "label": "Broken wooden pipe marked M.T.",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2626",
+            "endUid": "u2632"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2650",
+            "endUid": "u2659"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3891",
+            "endUid": "u3894"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e012",
+      "kind": "item",
+      "label": "Silver sapphire ring for Tilly",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2647",
+            "endUid": "u2653"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3993",
+            "endUid": "u4003"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e013",
+      "kind": "npc",
+      "label": "Milo Thistlefoot",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2650",
+            "endUid": "u2659"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2741",
+            "endUid": "u2759"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2832",
+            "endUid": "u2854"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3857",
+            "endUid": "u3900"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3934",
+            "endUid": "u4022"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Halflings/Milo Thistlefoot.md"
+    },
+    {
+      "id": "e014",
+      "kind": "item",
+      "label": "Stormdancer",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2741",
+            "endUid": "u2759"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Ships/Stormdancer.md"
+    },
+    {
+      "id": "e015",
+      "kind": "item",
+      "label": "Broken Stormdancer compass",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2920",
+            "endUid": "u2932"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4005",
+            "endUid": "u4010"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e016",
+      "kind": "npc",
+      "label": "Captured merfolk guard with the polished-shell amulet",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2818",
+            "endUid": "u2824"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2941",
+            "endUid": "u2944"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2990",
+            "endUid": "u3037"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3046",
+            "endUid": "u3067"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e017",
+      "kind": "npc",
+      "label": "Tilly",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3891",
+            "endUid": "u3900"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3939",
+            "endUid": "u3945"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3993",
+            "endUid": "u4003"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Halflings/Tilly Brineheart.md"
+    },
+    {
+      "id": "e018",
+      "kind": "npc",
+      "label": "Merfolk woman in the work-complex house",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4012",
+            "endUid": "u4022"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u4040",
+            "endUid": "u4042"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Buruli’s lieutenant"
+      ]
+    },
+    {
+      "id": "e019",
+      "kind": "divine",
+      "label": "First Ones",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3857",
+            "endUid": "u3863"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Embodied Gods/First Ones/First Ones.md"
+    },
+    {
+      "id": "e020",
+      "kind": "npc",
+      "label": "The plant’s “nasty one”",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2355",
+            "endUid": "u2367"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "low",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The plant may describe a distinct earlier visitor or someone already represented, possibly a PC; this brief account does not establish identity."
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Animated stone crab",
+      "reason": "A created and animated distraction, with no continuing individual companion identity beyond this ability activation.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0052",
+            "endUid": "u0077"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2709",
+            "endUid": "u2722"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Kelp minions and anonymous merfolk guards",
+      "reason": "Generic encounter creatures and guards, without individual identities; the captain and interrogated survivor are distinguished separately.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0885",
+            "endUid": "u0919"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1680",
+            "endUid": "u1701"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2810",
+            "endUid": "u2824"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Manta ray elementals",
+      "reason": "Docile mounts with no individually distinguished continuing companion identity; befriending and riding one does not establish a named character.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2292",
+            "endUid": "u2326"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2567",
+            "endUid": "u2572"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3310",
+            "endUid": "u3314"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Wand, goggles, glove, Manta Ray cloak, Boots of Speed and Shatterstorm",
+      "reason": "Routine PC equipment use or standard powers; no separate acquisition or original lore in this session.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0032",
+            "endUid": "u0037"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0134",
+            "endUid": "u0141"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0225",
+            "endUid": "u0230"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0446",
+            "endUid": "u0467"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0969",
+            "endUid": "u1025"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3585",
+            "endUid": "u3596"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Binding Stones of Amloch and Hralgar",
+      "reason": "Attunement and proposed standard powers do not develop the stones as a plot object; Hralgar is only a passing identification of their earlier source.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2522",
+            "endUid": "u2566"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3550",
+            "endUid": "u3575"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Philosophers’ Guild",
+      "reason": "Passing attribution of earlier item advice without a substantive organizational account or present involvement.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2527",
+            "endUid": "u2538"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Vindristjarna and phasing stone",
+      "reason": "Transport and routine attunement/teleportation equipment are only discussed as existing PC resources.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2590",
+            "endUid": "u2593"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3475",
+            "endUid": "u3485"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Faldrak",
+      "reason": "A passing joke about his competence as captain supplies no substantive current character account.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3475",
+            "endUid": "u3485"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Vampire killed in Ursk",
+      "reason": "Only a challenge-rating comparison, without substantive identity or character information.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0169",
+            "endUid": "u0172"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Portable hole, scrying bowl, shield and Rod of the Pact Keeper",
+      "reason": "Routine PC equipment use or proposed powers; no separate qualifying acquisition or in-world history.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2449",
+            "endUid": "u2461"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2825",
+            "endUid": "u2831"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2970",
+            "endUid": "u2974"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3182",
+            "endUid": "u3193"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Pearl-and-tentacle amulets",
+      "reason": "Ordinary insignia worn by multiple guards, used here to infer allegiance and rank; no individually distinguished plot object is established.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2633",
+            "endUid": "u2638"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2696",
+            "endUid": "u2705"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2818",
+            "endUid": "u2824"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Buruli’s guards as an organization",
+      "reason": "The guards have common allegiance and duties, but this session does not distinguish a collective identity beyond the occupation and guard force.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0004",
+            "endUid": "u0023"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3016",
+            "endUid": "u3037"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Other transformed halflings and cruel overseers",
+      "reason": "Milo and Tilly are individually identified; the other prisoners and overseers remain anonymous members of their groups.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2837",
+            "endUid": "u2854"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3777",
+            "endUid": "u3789"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Pictogram fragments, coins, dice and shell tokens",
+      "reason": "Generic excavation products, ordinary currency and incidental loot, without distinct object identities.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2606",
+            "endUid": "u2625"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2639",
+            "endUid": "u2646"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2840",
+            "endUid": "u2861"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Plant’s unnamed friends",
+      "reason": "An undefined collective in the plant’s report, with no distinct person or persistent organization established.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2363",
+            "endUid": "u2367"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Bubble as a living elemental",
+      "reason": "The party speculates about a creature, but the DM describes a magical effect rather than a living entity.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3546",
+            "endUid": "u3580"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Jellyfish",
+      "reason": "Generic environmental hazard rather than individually identified NPCs.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3821",
+            "endUid": "u3841"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 101 (DuFr).md",
+    "Campaigns/Dunmari Frontier Campaign/Hoards/Merfolk Quest Treasure.md"
+  ]
+}

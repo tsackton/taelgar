@@ -1,0 +1,1265 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-101",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-101/cleaned/dunmari-frontier-101-session.yaml",
+    "sessionYamlSha256": "5ecab3b96546c9e55c7b489e156755a7b221e8582586bcf41c6699f28ab053e6",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-101/cleaned/dunmari-frontier-101-transcript.md",
+    "transcriptSha256": "62a618600fee471e9248b20aecde870737c295149ca6331ff22a93e85c6c6ffe"
+  },
+  "places": {
+    "p01": {
+      "label": "Omi",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0019",
+          "quote": "this merfolk city called Omi, where you are"
+        }
+      ],
+      "vaultPath": "Gazetteer/Faraway Places/Omi.md"
+    },
+    "p02": {
+      "label": "Central building in Omi",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0052",
+          "endUid": "u0055",
+          "quote": "patrolling around this big central building where the courtyard is."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0004",
+              "endUid": "u0019",
+              "quote": "this merfolk city called Omi, where you are"
+            },
+            {
+              "startUid": "u0052",
+              "endUid": "u0055",
+              "quote": "patrolling around this big central building where the courtyard is."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Portal courtyard",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0038",
+          "endUid": "u0046",
+          "quote": "this big courtyard where the portal was"
+        },
+        {
+          "startUid": "u0139",
+          "endUid": "u0141",
+          "quote": "there's a roof over this room."
+        },
+        {
+          "startUid": "u0315",
+          "endUid": "u0316",
+          "quote": "The only way it can get in or out of this room is through the portal."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0052",
+              "endUid": "u0055",
+              "quote": "this big central building where the courtyard is."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Protective barrier of the Sentient Ocean",
+      "kind": "barrier",
+      "evidence": [
+        {
+          "startUid": "u0047",
+          "endUid": "u0051",
+          "quote": "Seeker and Riswynn have been hiding in the protective barrier of the Sentient Ocean"
+        },
+        {
+          "startUid": "u0136",
+          "endUid": "u0141",
+          "quote": "DM: Well, currently, you and Riswynn are about 100 feet above and can't see anything.\n\nSeeker: Oh, that's true!\n\nDM: Because there's a roof over this room."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0020",
+              "endUid": "u0023",
+              "quote": "the city of Omi is encased by the Sentient Ocean"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Corridors and doorways outside the courtyard",
+      "kind": "passage",
+      "evidence": [
+        {
+          "startUid": "u0148",
+          "endUid": "u0151",
+          "quote": "DM: As—well, it, it made a circle around all of the doorways.\n\nDelwath: So these little arches, these little arches, are doorways. I get it.\n\nDM: Those are all doorways. Yeah. And there's like corridors and stuff outside this. But I just didn't bother making that."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0038",
+              "endUid": "u0046",
+              "quote": "all the entrances to this big courtyard"
+            },
+            {
+              "startUid": "u0052",
+              "endUid": "u0055",
+              "quote": "this big central building where the courtyard is."
+            }
+          ]
+        },
+        {
+          "relation": "connected_to",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0148",
+              "endUid": "u0151",
+              "quote": "there's like corridors and stuff outside this."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Plane of Water",
+      "kind": "plane",
+      "evidence": [
+        {
+          "startUid": "u2502",
+          "endUid": "u2506",
+          "quote": "We are on the plane of water"
+        }
+      ],
+      "vaultPath": "Cosmology/Energy Realms/Elemental Plane of Water.md"
+    },
+    "p07": {
+      "label": "Coral portal platform",
+      "kind": "platform",
+      "evidence": [
+        {
+          "startUid": "u1516",
+          "endUid": "u1520",
+          "quote": "you find yourself on a large circular coral platform, suspended in an infinite— just— expanse of water in all directions."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1516",
+              "endUid": "u1520",
+              "quote": "as you all transit through the portal"
+            },
+            {
+              "startUid": "u2502",
+              "endUid": "u2506",
+              "quote": "We are on the plane of water"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Portal-platform guard post",
+      "kind": "guard post",
+      "evidence": [
+        {
+          "startUid": "u2245",
+          "endUid": "u2255",
+          "quote": "in the tower, this guard tower, you know, there's, like— it's like a, a guard post"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1537",
+              "endUid": "u1547",
+              "quote": "as you emerge from the portal, you're in the center of this large platform"
+            },
+            {
+              "startUid": "u1537",
+              "endUid": "u1547",
+              "quote": "there's, like, a small sort of tower."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Manta ray pen",
+      "kind": "pen",
+      "evidence": [
+        {
+          "startUid": "u1548",
+          "endUid": "u1554",
+          "quote": "a giant kelp netting that's strung out over the edge of the platform, just floating there"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1548",
+              "endUid": "u1554",
+              "quote": "a giant kelp netting that's strung out over the edge of the platform, just floating there"
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1516",
+              "endUid": "u1520",
+              "quote": "expanse of water in all directions"
+            },
+            {
+              "startUid": "u1548",
+              "endUid": "u1554",
+              "quote": "half a dozen manta rays that are kind of swimming in lazy circles in this pen."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Hanging barracks huts",
+      "kind": "barracks",
+      "evidence": [
+        {
+          "startUid": "u1563",
+          "endUid": "u1567",
+          "quote": "huts that are attached to the side of the platform and drop down below— below the edge."
+        },
+        {
+          "startUid": "u2664",
+          "endUid": "u2672",
+          "quote": "they seem to be the sleeping quarters of the guards you killed."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1563",
+              "endUid": "u1567",
+              "quote": "huts that are attached to the side of the platform"
+            }
+          ]
+        },
+        {
+          "relation": "below",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u2213",
+              "endUid": "u2217",
+              "quote": "This is like 20 feet down, up against the side of the coral structure"
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1516",
+              "endUid": "u1520",
+              "quote": "as you all transit through the portal"
+            },
+            {
+              "startUid": "u1563",
+              "endUid": "u1567",
+              "quote": "huts that are attached to the side of the platform"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Middle barracks hut",
+      "kind": "hut",
+      "evidence": [
+        {
+          "startUid": "u2173",
+          "endUid": "u2189",
+          "quote": "Seeker: The middle. The middle one. Delwath is smart, so I'll go with the middle one."
+        },
+        {
+          "startUid": "u2187",
+          "endUid": "u2189",
+          "quote": "You see 4 merfolk who look like they're sleeping in this hut."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u2168",
+              "endUid": "u2179",
+              "quote": "below the roof of one of these huts, but which one?"
+            },
+            {
+              "startUid": "u2173",
+              "endUid": "u2179",
+              "quote": "The middle. The middle one."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Work-complex bubble",
+      "kind": "enclosure",
+      "evidence": [
+        {
+          "startUid": "u3339",
+          "endUid": "u3349",
+          "quote": "a massive, translucent, semi-transparent, slightly shimmering giant bubble."
+        },
+        {
+          "startUid": "u3515",
+          "endUid": "u3521",
+          "quote": "you can see through this membrane."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u3315",
+              "endUid": "u3322",
+              "quote": "swimming through pitch blackness"
+            },
+            {
+              "startUid": "u3339",
+              "endUid": "u3349",
+              "quote": "floats in the water again."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Coral tower attached to the bubble",
+      "kind": "tower",
+      "evidence": [
+        {
+          "startUid": "u3359",
+          "endUid": "u3364",
+          "quote": "this coral tower that's probably 40 feet tall."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u3366",
+              "endUid": "u3368",
+              "quote": "the coral towers, like, a tangent to the surface of the bubble."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Inky water inside the bubble",
+      "kind": "water",
+      "evidence": [
+        {
+          "startUid": "u3640",
+          "endUid": "u3641",
+          "quote": "you are now in this debris-filled inky blackness."
+        },
+        {
+          "startUid": "u3650",
+          "endUid": "u3653",
+          "quote": "there's particles in the water. It's almost like squid ink around you."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u3640",
+              "endUid": "u3641",
+              "quote": "it closes behind you, and you are now in this debris-filled inky blackness."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Outer platform inside the bubble",
+      "kind": "platform",
+      "evidence": [
+        {
+          "startUid": "u3718",
+          "endUid": "u3721",
+          "quote": "the edge of what looks like some kind of platform."
+        },
+        {
+          "startUid": "u3758",
+          "endUid": "u3766",
+          "quote": "once you get your head up above this platform, the water, like, almost immediately clears up."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u3763",
+              "endUid": "u3766",
+              "quote": "across the edge of this platform into the center of the bubble."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Halfling sorting station",
+      "kind": "work site",
+      "evidence": [
+        {
+          "startUid": "u2825",
+          "endUid": "u2831",
+          "quote": "a, you know, chaotic sorting station or work bench."
+        },
+        {
+          "startUid": "u3777",
+          "endUid": "u3779",
+          "quote": "you recognize from Delwath's description the scene of this sorting station"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u3763",
+              "endUid": "u3766",
+              "quote": "into the center of the bubble."
+            },
+            {
+              "startUid": "u3777",
+              "endUid": "u3779",
+              "quote": "the scene of this sorting station"
+            }
+          ]
+        }
+      ],
+      "note": "The later local view identifies the sorting station first seen remotely during Delwath’s scry; that earlier vision did not establish a physical party visit."
+    },
+    "p17": {
+      "label": "Opaque house on the outer platform",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u3804",
+          "endUid": "u3813",
+          "quote": "On this platform itself, you can see that there's a structure built that you can't see into. It's opaque."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u3804",
+              "endUid": "u3805",
+              "quote": "On this platform itself, you can see that there's a structure built"
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Water outside the work-complex bubble",
+      "kind": "water",
+      "evidence": [
+        {
+          "startUid": "u3375",
+          "endUid": "u3376",
+          "quote": "You're still 500 feet out."
+        },
+        {
+          "startUid": "u3506",
+          "endUid": "u3514",
+          "quote": "You get within, within, you know, of 30, 40 feet"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u3375",
+              "endUid": "u3376",
+              "quote": "You're still 500 feet out."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u3339",
+              "endUid": "u3349",
+              "quote": "floats in the water again."
+            }
+          ]
+        }
+      ]
+    },
+    "p19": {
+      "label": "Concealed water beneath the sorting platforms",
+      "kind": "water",
+      "evidence": [
+        {
+          "startUid": "u3814",
+          "endUid": "u3817",
+          "quote": "If you stay down below the platform, you stay in this darkness."
+        },
+        {
+          "startUid": "u3840",
+          "endUid": "u3841",
+          "quote": "Wellby then gets within range"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u3821",
+              "endUid": "u3826",
+              "quote": "You swim forward again"
+            },
+            {
+              "startUid": "u3814",
+              "endUid": "u3817",
+              "quote": "you stay in this darkness."
+            }
+          ]
+        },
+        {
+          "relation": "below",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u3814",
+              "endUid": "u3817",
+              "quote": "But we can get to 120 feet of Milo, staying in the inky darkness, right?"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0038",
+        "endUid": "u0046"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Wellby"
+      ],
+      "reading": "The invisible trio begins outside the courtyard entrances in the central building.",
+      "evidence": [
+        {
+          "startUid": "u0038",
+          "endUid": "u0046",
+          "quote": "Kenzo, Delwath and Wellby, invisible"
+        },
+        {
+          "startUid": "u0038",
+          "endUid": "u0046",
+          "quote": "all the entrances to this big courtyard"
+        }
+      ],
+      "place": "p05"
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0136",
+        "endUid": "u0141"
+      },
+      "actors": [
+        "Seeker",
+        "Riswynn"
+      ],
+      "reading": "Seeker and Riswynn remain in the protective barrier about a hundred feet above the roofed room.",
+      "evidence": [
+        {
+          "startUid": "u0047",
+          "endUid": "u0051",
+          "quote": "Seeker and Riswynn have been hiding in the protective barrier of the Sentient Ocean"
+        },
+        {
+          "startUid": "u0136",
+          "endUid": "u0141",
+          "quote": "you and Riswynn are about 100 feet above and can't see anything."
+        }
+      ],
+      "place": "p04"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0392",
+        "endUid": "u0398"
+      },
+      "actors": [
+        "Seeker",
+        "Riswynn"
+      ],
+      "reading": "Dimension Door brings Seeker and Riswynn beside a courtyard doorway before initiative.",
+      "evidence": [
+        {
+          "startUid": "u0352",
+          "endUid": "u0365",
+          "quote": "Seeker and Ris- and Riswynn are appearing with Dimension Door."
+        },
+        {
+          "startUid": "u0392",
+          "endUid": "u0398",
+          "quote": "Riswynn: We're gonna come in the middle door, but let's just show up—\n\nDM: Right.\n\nRiswynn: Immediately adjacent to that door, so that we can—\n\nDM: Exactly. You show up. You show up!\n\nSeeker: Right there. Yeah. Good day."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "Dimension Door"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0511",
+        "endUid": "u0536"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby enters the courtyard, takes the disarmed trident, then withdraws outside the doorway during the fight.",
+      "evidence": [
+        {
+          "startUid": "u0511",
+          "endUid": "u0515",
+          "quote": "I'm gonna swim over and grab that trident and swim the hell away from there again."
+        },
+        {
+          "startUid": "u0534",
+          "endUid": "u0536",
+          "quote": "you now end up here, holding its trident"
+        },
+        {
+          "startUid": "u1030",
+          "endUid": "u1043",
+          "quote": "zoom over next to Delwath and pop out on the other side of the door and drop the trident."
+        }
+      ],
+      "from": "p05",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "swim",
+      "route": [
+        {
+          "reading": "Enters the courtyard to take the guardian’s trident.",
+          "place": "p03"
+        },
+        {
+          "reading": "Returns to the corridor side of a doorway.",
+          "place": "p05"
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "presence",
+      "source": {
+        "startUid": "u1171",
+        "endUid": "u1178"
+      },
+      "actors": [
+        "Riswynn",
+        "Kenzo",
+        "Delwath",
+        "Seeker"
+      ],
+      "reading": "These four engage the guardian within the courtyard; Wellby has withdrawn through a doorway.",
+      "evidence": [
+        {
+          "startUid": "u0650",
+          "endUid": "u0654",
+          "quote": "get myself into the sickening radiance"
+        },
+        {
+          "startUid": "u0878",
+          "endUid": "u0884",
+          "quote": "Kenzo just launches into this thing"
+        },
+        {
+          "startUid": "u1110",
+          "endUid": "u1117",
+          "quote": "Delwath swims up and strikes at this stunned, restrained creature"
+        },
+        {
+          "startUid": "u1168",
+          "endUid": "u1178",
+          "quote": "Seeker like you could move into the sickening radiance."
+        },
+        {
+          "startUid": "u1171",
+          "endUid": "u1178",
+          "quote": "I'll just, like, hang out, like, maybe, like, right up there."
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l06",
+      "type": "presence",
+      "source": {
+        "startUid": "u1352",
+        "endUid": "u1358"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After the fight the narration places the reunited party in the empty portal room.",
+      "evidence": [
+        {
+          "startUid": "u1352",
+          "endUid": "u1358",
+          "quote": "you find yourself now standing in this empty room, still the glowing portal right there in the center of the floor"
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1516",
+        "endUid": "u1520"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party passes through the portal and reaches the circular coral platform in the Plane of Water.",
+      "evidence": [
+        {
+          "startUid": "u1516",
+          "endUid": "u1520",
+          "quote": "as you all transit through the portal, you find yourself on a large circular coral platform"
+        },
+        {
+          "startUid": "u2502",
+          "endUid": "u2506",
+          "quote": "We are on the plane of water"
+        }
+      ],
+      "from": "p03",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "planar portal"
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u2168",
+        "endUid": "u2189"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Clairvoyance shows four sleeping merfolk in the middle barracks hut, without Seeker entering it.",
+      "evidence": [
+        {
+          "startUid": "u2168",
+          "endUid": "u2179",
+          "quote": "Seeker: I'll cast Clairvoyance."
+        },
+        {
+          "startUid": "u2173",
+          "endUid": "u2179",
+          "quote": "The middle. The middle one."
+        },
+        {
+          "startUid": "u2187",
+          "endUid": "u2189",
+          "quote": "You see 4 merfolk who look like they're sleeping in this hut."
+        }
+      ],
+      "place": "p11",
+      "mode": "remote",
+      "observerPlace": "p07"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u2292",
+        "endUid": "u2303"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby swims to the manta pen, befriends an elemental mount, and practices riding it.",
+      "evidence": [
+        {
+          "startUid": "u2292",
+          "endUid": "u2303",
+          "quote": "Wellby goes over to this manta pen"
+        },
+        {
+          "startUid": "u2567",
+          "endUid": "u2568",
+          "quote": "Wellby is—has gotten on one, is beginning to practice, like, riding around."
+        }
+      ],
+      "from": "p07",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "swim"
+    },
+    {
+      "id": "l10",
+      "type": "presence",
+      "source": {
+        "startUid": "u2606",
+        "endUid": "u2619"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath searches around the guard post and the guards’ bodies on the platform.",
+      "evidence": [
+        {
+          "startUid": "u2606",
+          "endUid": "u2619",
+          "quote": "Delwath looks around."
+        },
+        {
+          "startUid": "u2606",
+          "endUid": "u2619",
+          "quote": "there's not much to find at, on the, like, around the guard post."
+        }
+      ],
+      "place": "p08"
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u2663",
+        "endUid": "u2672"
+      },
+      "actors": [
+        "Unspecified party scout"
+      ],
+      "reading": "A closer inspection identifies the occupied sleeping huts, empty quarters, and eating room; the directing speech does not unambiguously name the scout.",
+      "evidence": [
+        {
+          "startUid": "u2663",
+          "endUid": "u2663",
+          "quote": "Gaze and swim over, than look and look into the roof of each hut."
+        },
+        {
+          "startUid": "u2664",
+          "endUid": "u2672",
+          "quote": "2 of the huts have sleeping guards."
+        }
+      ],
+      "place": "p10",
+      "mode": "local",
+      "note": "Do not infer that every PC entered the huts from this instruction and response."
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2810",
+        "endUid": "u2824"
+      },
+      "actors": [
+        "Wellby",
+        "Riswynn",
+        "Kenzo"
+      ],
+      "reading": "The three enter the hanging huts and kill the sleeping guards except the one selected for interrogation. Delwath scries and Seeker explicitly declines the killing.",
+      "evidence": [
+        {
+          "startUid": "u2810",
+          "endUid": "u2811",
+          "quote": "the rest of you sneak silently into the huts, and murder all but one of the merfolk."
+        },
+        {
+          "startUid": "u2816",
+          "endUid": "u2817",
+          "quote": "Seeker is not murdering."
+        },
+        {
+          "startUid": "u2823",
+          "endUid": "u2824",
+          "quote": "there's 1 also sleeping who has a slightly nicer"
+        }
+      ],
+      "from": "p07",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "swim",
+      "note": "Wellby’s return from the pen is implicit in joining this accepted party action; it is not a separately narrated journey."
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u2825",
+        "endUid": "u2854"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath remotely sees Milo and seven similar transformed captives sorting excavated debris, supervised by a cruel merfolk.",
+      "evidence": [
+        {
+          "startUid": "u2825",
+          "endUid": "u2836",
+          "quote": "you see an image that takes some time for you to make sense of."
+        },
+        {
+          "startUid": "u2832",
+          "endUid": "u2836",
+          "quote": "you see what must be Milo, because your scry tells you it is so"
+        },
+        {
+          "startUid": "u2837",
+          "endUid": "u2854",
+          "quote": "There's another 7 similar creatures next to him."
+        }
+      ],
+      "place": "p16",
+      "mode": "remote",
+      "observerPlace": "p07",
+      "observedActors": [
+        "Milo Thistlefoot"
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2920",
+        "endUid": "u2944"
+      },
+      "actors": [
+        "Wellby",
+        "Riswynn",
+        "Kenzo"
+      ],
+      "reading": "The hut party returns to Delwath’s scrying position on the portal platform, bringing the bound surviving guard for interrogation.",
+      "evidence": [
+        {
+          "startUid": "u2920",
+          "endUid": "u2929",
+          "quote": "As the, as the scry ends, the rest of you come back, having killed all but one of the merfolk"
+        },
+        {
+          "startUid": "u2941",
+          "endUid": "u2944",
+          "quote": "up, back to where Delwath has been scrying."
+        }
+      ],
+      "from": "p10",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "swim"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u3310",
+        "endUid": "u3376"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party mounts manta rays, follows the bioluminescent trail, and reaches the waters about five hundred feet outside the work-complex bubble.",
+      "evidence": [
+        {
+          "startUid": "u3310",
+          "endUid": "u3314",
+          "quote": "as you all go and follow, following Wellby"
+        },
+        {
+          "startUid": "u3331",
+          "endUid": "u3335",
+          "quote": "Wellby, you notice 1st this faint light in the distance"
+        },
+        {
+          "startUid": "u3375",
+          "endUid": "u3376",
+          "quote": "You're still 500 feet out."
+        }
+      ],
+      "from": "p07",
+      "to": "p18",
+      "completion": "arrived",
+      "mode": "ride manta ray elementals",
+      "route": [
+        {
+          "reading": "Follows the bioluminescent trail through open water."
+        }
+      ],
+      "duration": {
+        "max": 1,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated no more than roughly an hour to the first view of the destination."
+      }
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u3413",
+        "endUid": "u3596"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Wellby steers the mounts around the bubble away from the tower; the party closes on its opposite side. Seeker reaches out and touches the membrane.",
+      "evidence": [
+        {
+          "startUid": "u3413",
+          "endUid": "u3418",
+          "quote": "you sort of gently steer them away to go around the back side of this bubble"
+        },
+        {
+          "startUid": "u3503",
+          "endUid": "u3514",
+          "quote": "On the opposite side of the tower."
+        },
+        {
+          "startUid": "u3515",
+          "endUid": "u3521",
+          "quote": "once you're within 20 feet or so, you can see through this membrane."
+        },
+        {
+          "startUid": "u3585",
+          "endUid": "u3587",
+          "quote": "I get close. I tried touching it with a finger."
+        },
+        {
+          "startUid": "u3588",
+          "endUid": "u3589",
+          "quote": "It feels almost like slightly charged"
+        }
+      ],
+      "from": "p18",
+      "to": "p18",
+      "completion": "arrived",
+      "mode": "ride manta ray elementals",
+      "route": [
+        {
+          "reading": "Circles to the bubble’s side opposite the guard tower.",
+          "place": "p12"
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u3632",
+        "endUid": "u3641"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "All five rush through the hole opened by Dispel Magic and enter the inky water inside the bubble, leaving the oversized manta rays outside.",
+      "evidence": [
+        {
+          "startUid": "u3632",
+          "endUid": "u3641",
+          "quote": "DM: About 10 seconds, it closes behind you, and you are now in this debris-filled inky blackness."
+        },
+        {
+          "startUid": "u3654",
+          "endUid": "u3657",
+          "quote": "Delwath: And so we hopped off the manta rays.\n\nDM: Yeah, yeah, you had to. The manta rays wouldn't fit through."
+        }
+      ],
+      "from": "p18",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "swim through temporary opening"
+    },
+    {
+      "id": "l18",
+      "type": "observation",
+      "source": {
+        "startUid": "u3758",
+        "endUid": "u3789"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby peeks above the outer platform edge into clear water, recognizing the central sorting station and its eight shark-headed halflings; his companions remain concealed below.",
+      "evidence": [
+        {
+          "startUid": "u3758",
+          "endUid": "u3762",
+          "quote": "Wellby sneaks up."
+        },
+        {
+          "startUid": "u3758",
+          "endUid": "u3762",
+          "quote": "I'm still holding onto the rope so he can pull himself back to you if needed."
+        },
+        {
+          "startUid": "u3777",
+          "endUid": "u3779",
+          "quote": "about 200 feet away from you, the 8 shark halflings."
+        }
+      ],
+      "place": "p16",
+      "mode": "local",
+      "observerPlace": "p14",
+      "observedActors": [
+        "Milo Thistlefoot",
+        "Other transformed halflings"
+      ]
+    },
+    {
+      "id": "l19",
+      "type": "observation",
+      "source": {
+        "startUid": "u3804",
+        "endUid": "u3813"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "From the same concealed scouting position, Wellby sees the opaque structure on the outer platform; no one enters it.",
+      "evidence": [
+        {
+          "startUid": "u3804",
+          "endUid": "u3805",
+          "quote": "On this platform itself, you can see that there's a structure built that you can't see into. It's opaque."
+        },
+        {
+          "startUid": "u3812",
+          "endUid": "u3813",
+          "quote": "In the structure is about a 30 foot by 30 foot square."
+        }
+      ],
+      "place": "p17",
+      "mode": "local",
+      "observerPlace": "p14"
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u3821",
+        "endUid": "u3841"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party continues beneath the platforms in the murk until Wellby is within telepathic range of Milo; they have not reached or freed the captives.",
+      "evidence": [
+        {
+          "startUid": "u3814",
+          "endUid": "u3817",
+          "quote": "But we can get to 120 feet of Milo, staying in the inky darkness, right?"
+        },
+        {
+          "startUid": "u3821",
+          "endUid": "u3826",
+          "quote": "You swim forward again"
+        },
+        {
+          "startUid": "u3840",
+          "endUid": "u3841",
+          "quote": "Wellby then gets within range"
+        }
+      ],
+      "from": "p14",
+      "to": "p19",
+      "completion": "arrived",
+      "mode": "swim"
+    }
+  ]
+}

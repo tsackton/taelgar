@@ -1,0 +1,574 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-101",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-101/cleaned/dunmari-frontier-101-session.yaml",
+    "sessionYamlSha256": "5ecab3b96546c9e55c7b489e156755a7b221e8582586bcf41c6699f28ab053e6",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-101/cleaned/dunmari-frontier-101-transcript.md",
+    "transcriptSha256": "62a618600fee471e9248b20aecde870737c295149ca6331ff22a93e85c6c6ffe",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-101/cleaned/dunmari-frontier-101-segments.json",
+      "sha256": "c865e6db227081591dc7221ef1d9e1a212dd63a1eaa9a029cd66f5519649a2af",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s003",
+      "encounter": "Tentacled guardian at Omi’s portal",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "With advantage from invisibility, hits the guardian with an arrow for the stated 11 and 19 damage; its failed DC 18 Dexterity save disarms it. Swims in, takes its trident, and withdraws using Cunning Action: Disengage and the swim speed enhanced by Boots of Speed; the proposed tentacle opportunity attack is canceled.",
+              "evidence": [
+                {
+                  "startUid": "u0437",
+                  "endUid": "u0536"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Moves and casts Sickening Radiance, ending invisibility, and uses Careful Spell to make all five party members immune as adjudicated. Applies Hunter’s Mark with his bonus action. The radiance fills a 30-foot-radius sphere reaching the ceiling.",
+              "evidence": [
+                {
+                  "startUid": "u0537",
+                  "endUid": "u0585"
+                },
+                {
+                  "startUid": "u0655",
+                  "endUid": "u0662"
+                }
+              ]
+            },
+            {
+              "actor": "Portal guardian",
+              "kind": "turn",
+              "summary": "Succeeds on the Sickening Radiance Constitution save with 19, swims out of the radiance to Wellby, critically hits with a claw for 28 slashing damage, then hits with tentacles for 20 bludgeoning damage, grappling and restraining him. Cannot make its third, trident attack because Wellby has taken the weapon.",
+              "evidence": [
+                {
+                  "startUid": "u0586",
+                  "endUid": "u0633"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge to halve the critical claw hit’s 28 slashing damage.",
+              "evidence": [
+                {
+                  "startUid": "u0614",
+                  "endUid": "u0621"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Swims through the doorway into Sickening Radiance and casts sixth-level Sunbeam. The guardian succeeds on its Constitution save, avoids blindness, and takes half the rolled 32 radiant damage: 16.",
+              "evidence": [
+                {
+                  "startUid": "u0634",
+                  "endUid": "u0710"
+                },
+                {
+                  "startUid": "u0733",
+                  "endUid": "u0735"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts fifth-level Telekinesis. His Intelligence check of 18 beats the guardian’s Strength check; pulls it diagonally upward, roughly 20 feet high, into Sickening Radiance. Restrains it until the end of his next turn unless renewed; this gives attacks against it advantage and its attacks disadvantage. The forced movement breaks its grapple on Wellby, who retains the trident.",
+              "evidence": [
+                {
+                  "startUid": "u0717",
+                  "endUid": "u0732"
+                },
+                {
+                  "startUid": "u0743",
+                  "endUid": "u0789"
+                },
+                {
+                  "startUid": "u0794",
+                  "endUid": "u0800"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Closes on the restrained guardian and makes five unarmed attacks with advantage using Flurry of Blows. The first is a natural-20 critical for 20 damage and stuns it; the remaining hits deal 9, 9, 14, and 12. Spends two ki for the flurry and stun. The stun lasts until the beginning of his next turn.",
+              "evidence": [
+                {
+                  "startUid": "u0805",
+                  "endUid": "u0884"
+                },
+                {
+                  "startUid": "u1054",
+                  "endUid": "u1062"
+                }
+              ]
+            },
+            {
+              "actor": "Kelp minions",
+              "kind": "turn",
+              "summary": "Animate around the room. Five surround Wellby and hit for 25 slashing damage. Three others enter Sickening Radiance: two fail their Constitution saves and vanish, one succeeds. A surviving minion hits Seeker for 15 slashing damage, requiring an advantaged Constitution concentration save; Telekinesis remains active. It retreats past Riswynn.",
+              "evidence": [
+                {
+                  "startUid": "u0885",
+                  "endUid": "u0964"
+                },
+                {
+                  "startUid": "u1158",
+                  "endUid": "u1167"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "reaction",
+              "summary": "Strikes the retreating kelp minion with Shatterstorm at disadvantage underwater. Both rolls are 16 and hit; the stated 10 damage kills the minion. The DM explains the weapon also carries extra fire damage, without resolving a further damage total.",
+              "evidence": [
+                {
+                  "startUid": "u0961",
+                  "endUid": "u0982"
+                },
+                {
+                  "startUid": "u0991",
+                  "endUid": "u0993"
+                },
+                {
+                  "startUid": "u1008",
+                  "endUid": "u1025"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Portal current",
+              "kind": "lair_action",
+              "summary": "At the top of the next cycle, a water blast from the portal forces Kenzo to make a Strength save. His 8 fails; he is pushed against the ceiling, grappled/restrained by the current, and takes no damage.",
+              "evidence": [
+                {
+                  "startUid": "u0983",
+                  "endUid": "u0990"
+                },
+                {
+                  "startUid": "u0994",
+                  "endUid": "u1007"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Disengages from the kelp, swims beside Delwath and outside the doorway, and drops the trident where the guardian cannot readily recover it. Shoots the stunned/restrained guardian with advantage, hits with 27, and deals 39 damage. Abandons the proposed additional Cunning Strike effect.",
+              "evidence": [
+                {
+                  "startUid": "u1026",
+                  "endUid": "u1070"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Swims to the guardian and makes three pact-rapier attacks with advantage against the stunned/restrained target. One 15 misses; a 26 hits and Seeker’s assistance raises the other 15 to a hitting 17. The final accepted damage figures are 19 and 25, including Hunter’s Mark and the assistance bonus.",
+              "evidence": [
+                {
+                  "startUid": "u1071",
+                  "endUid": "u1119"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Provides a d10 inspiration/guidance bonus, turning Delwath’s 15 into a hitting 17; the assisted blow also gains the inspiration die plus Seeker’s +5 Intelligence modifier as adjudicated.",
+              "evidence": [
+                {
+                  "startUid": "u1084",
+                  "endUid": "u1109"
+                }
+              ]
+            },
+            {
+              "actor": "Portal guardian",
+              "kind": "turn",
+              "summary": "Cannot act while stunned and restrained. Succeeds on its Sickening Radiance Constitution save with 20.",
+              "evidence": [
+                {
+                  "startUid": "u1110",
+                  "endUid": "u1125"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Uses the ongoing Sunbeam. The guardian fails its Constitution save with 15 against DC 18, takes full 6d8 radiant damage, and becomes blinded; the exact damage total is not stated. The DM later confirms the blindness after Telekinesis ends.",
+              "evidence": [
+                {
+                  "startUid": "u1126",
+                  "endUid": "u1140"
+                },
+                {
+                  "startUid": "u1293",
+                  "endUid": "u1296"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Renews Telekinesis, beating the guardian’s Strength check of 11 and maintaining restraint. Moves into Sickening Radiance.",
+              "evidence": [
+                {
+                  "startUid": "u1141",
+                  "endUid": "u1178"
+                }
+              ]
+            },
+            {
+              "actor": "Kelp minions",
+              "kind": "reaction",
+              "summary": "Make an opportunity attack as Seeker moves; the 13 misses his new armor.",
+              "evidence": [
+                {
+                  "startUid": "u1168",
+                  "endUid": "u1178"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses his action to swim against the current; Strength 22 beats DC 15 and frees him. Returns to the guardian in Sickening Radiance and spends ki for three attacks with advantage from Telekinesis. The first deals 14 plus 6 Aura Strike damage when the guardian succeeds on the Stunning Strike Constitution save with a natural 20. The second hits for 14; a second stun attempt is disallowed. The third blow is narrated without a recoverable damage number.",
+              "evidence": [
+                {
+                  "startUid": "u1179",
+                  "endUid": "u1251"
+                }
+              ]
+            },
+            {
+              "actor": "Kelp minions",
+              "kind": "turn",
+              "summary": "Close on the spellcasters through Sickening Radiance. Four fail DC 19 Constitution saves and die; three remain to attack Seeker, hitting with 20 for another 15 damage. His War Caster concentration save with advantage fails (rolls 4 and 10), ending Telekinesis and the guardian’s restraint. The guardian remains blinded by Sunbeam.",
+              "evidence": [
+                {
+                  "startUid": "u1246",
+                  "endUid": "u1296"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Portal goo",
+              "kind": "lair_action",
+              "summary": "At the next cycle, the portal sprays black poisonous goo at Delwath, Kenzo, and Wellby, requiring Constitution saves. Delwath and Wellby become poisoned, imposing attack disadvantage. Kenzo rolls 20 and is also immune to poison.",
+              "evidence": [
+                {
+                  "startUid": "u1297",
+                  "endUid": "u1315"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots the blinded guardian for 35 damage with a straight roll: advantage for being unseen cancels poison disadvantage.",
+              "evidence": [
+                {
+                  "startUid": "u1316",
+                  "endUid": "u1330"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Makes three attacks for 14, 18, and 17 damage. His last strike kills the guardian, which is still blind but no longer stunned or restrained; it falls backward, shrinks, and disintegrates. Its death ends the poison on Delwath and Wellby.",
+              "evidence": [
+                {
+                  "startUid": "u1331",
+                  "endUid": "u1348"
+                },
+                {
+                  "startUid": "u1445",
+                  "endUid": "u1447"
+                }
+              ]
+            },
+            {
+              "actor": "Remaining kelp minions",
+              "kind": "event",
+              "summary": "The DM resolves the remaining minions collectively: Riswynn, Seeker, and the required saves will kill them before they act again, ending the encounter.",
+              "evidence": [
+                {
+                  "startUid": "u1349",
+                  "endUid": "u1358"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The guardian dies and disintegrates; all remaining minions are resolved as killed before acting again. The party stands in the empty portal room. Later confirmation establishes that the guardian’s death also ends the poison.",
+        "evidence": [
+          {
+            "startUid": "u1341",
+            "endUid": "u1358"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s005",
+      "encounter": "Merfolk guards on the Plane of Water portal platform",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Merfolk captain",
+              "kind": "turn",
+              "summary": "Swims partway toward Riswynn, calls his troops forward, and releases a cold blast over the whole party. Constitution saves leave Seeker taking 32 cold damage and the other four taking 16 each.",
+              "evidence": [
+                {
+                  "startUid": "u1651",
+                  "endUid": "u1679"
+                }
+              ]
+            },
+            {
+              "actor": "Four merfolk warriors",
+              "kind": "turn",
+              "summary": "Surround the party. One bumps into invisible Kenzo, attacks him at disadvantage, and misses; the other three attack Riswynn and miss. Their churning water obscures vision beyond about 15 feet.",
+              "evidence": [
+                {
+                  "startUid": "u1680",
+                  "endUid": "u1701"
+                },
+                {
+                  "startUid": "u1854",
+                  "endUid": "u1855"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots the captain from invisibility with advantage, hits with 24 for 36 damage, and forces a failed DC 18 Dexterity disarm save. Becomes visible, swims over, takes the silver rapier, and disengages back around the other side. Notices the rapier may be halfling-made.",
+              "evidence": [
+                {
+                  "startUid": "u1702",
+                  "endUid": "u1738"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Slow on the four guards heading toward the huts and manta pens; all fail DC 18 Wisdom saves. Their speed is halved, AC and Dexterity saves reduced by 2, reactions unavailable, and action/bonus action restricted. Remains in place.",
+              "evidence": [
+                {
+                  "startUid": "u1742",
+                  "endUid": "u1788"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts Spirit Guardians, a 15-foot-radius effect triggering when enemies start their turns within it.",
+              "evidence": [
+                {
+                  "startUid": "u1789",
+                  "endUid": "u1798"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Misty Steps beside the left-hand fleeing guard and lands three rapier hits for 8, 8, and 13 damage, badly wounding that guard.",
+              "evidence": [
+                {
+                  "startUid": "u1799",
+                  "endUid": "u1816"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Soul Sights the captain: Constitution and Charisma strongest, Dexterity and Intelligence weakest, resistant to cold and fire. Uses ki for five unarmed attacks. His first, with advantage from invisibility, deals 11 and kills two warriors; the second deals 10 and kills the warrior above him, and the third kills the fourth. His final two attacks hit the captain with advantage for 11 and 15; the captain succeeds on the Stunning Strike Constitution save with 22, adding 8 Aura Strike damage.",
+              "evidence": [
+                {
+                  "startUid": "u1817",
+                  "endUid": "u1910"
+                }
+              ]
+            },
+            {
+              "actor": "Two guards fleeing toward the huts",
+              "kind": "turn",
+              "summary": "Dash toward the huts with reduced speed. One succeeds on its repeat DC 18 Wisdom save and ends Slow; the other remains slowed.",
+              "evidence": [
+                {
+                  "startUid": "u1903",
+                  "endUid": "u1926"
+                }
+              ]
+            },
+            {
+              "actor": "Two guards fleeing toward the manta pens",
+              "kind": "turn",
+              "summary": "Dash away from Delwath. Their wounded member provokes his opportunity attack while leaving. The wounded guard succeeds on its repeat Wisdom save and ends Slow; the unwounded guard remains slowed.",
+              "evidence": [
+                {
+                  "startUid": "u1927",
+                  "endUid": "u1941"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Hits the wounded fleeing guard with an opportunity attack for 14 damage as it leaves his reach.",
+              "evidence": [
+                {
+                  "startUid": "u1927",
+                  "endUid": "u1935"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Merfolk captain",
+              "kind": "turn",
+              "summary": "Makes two cold attacks against Kenzo: 14 misses, 19 hits his corrected AC 19, dealing 17 cold damage.",
+              "evidence": [
+                {
+                  "startUid": "u1942",
+                  "endUid": "u1965"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "With his player away, the table resolves his shot at the wounded, unslowed guard running toward the manta pens. Uses Steady Aim for advantage, rerolls a 1 under his halfling trait, hits with 12, and kills the guard; the damage total is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u1966",
+                  "endUid": "u1994"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts first-level Catapult at the slowed escaping guard. The guard fails its Dexterity save, adjudicated with disadvantage, and the rock hits and staggers it. Damage is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u1995",
+                  "endUid": "u2010"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves close enough to catch the escaping guard in Spirit Guardians and reduce its speed further. Uses Sacred Flame rather than the proposed arrow; it fails its disadvantaged Dexterity save and takes 17 radiant damage.",
+              "evidence": [
+                {
+                  "startUid": "u2011",
+                  "endUid": "u2051"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Fires three Eldritch Blasts. The first two hit separate minions for 1 and 10 damage, killing them; the third hits the escaping guard with 15 for 8 damage. Then swims closer at reduced movement speed.",
+              "evidence": [
+                {
+                  "startUid": "u2052",
+                  "endUid": "u2078"
+                }
+              ],
+              "note": "The narration identifies the first two targets as minions; it does not give a clearer count or identity reconciliation with the earlier fleeing groups."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Begins his attacks on the captain; a 16 hits through the ice shield for 14 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2079",
+                  "endUid": "u2093"
+                }
+              ]
+            },
+            {
+              "actor": "Merfolk captain",
+              "kind": "reaction",
+              "summary": "Creates an ice shield against Kenzo’s first punch. The punch still lands, and the shield explodes for 11 cold damage to Kenzo; the DM rules that this effect cannot be reflected because it is not an attack.",
+              "evidence": [
+                {
+                  "startUid": "u2088",
+                  "endUid": "u2098"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Continues after the shield explosion. The captain succeeds on the Stunning Strike save with 19; Kenzo adds 8 Aura Strike damage. Further hits deal 7 and 11, dropping the captain. Kenzo swims to the remaining guard fleeing toward the manta pens, hits with 23 for 13, and kills it, leaving no guards standing.",
+              "evidence": [
+                {
+                  "startUid": "u2099",
+                  "endUid": "u2136"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Kenzo drops the captain and kills the final fleeing guard; no guards remain standing on the platform. The sleeping guards below are dealt with later outside initiative.",
+        "evidence": [
+          {
+            "startUid": "u2115",
+            "endUid": "u2136"
+          }
+        ]
+      }
+    }
+  ]
+}

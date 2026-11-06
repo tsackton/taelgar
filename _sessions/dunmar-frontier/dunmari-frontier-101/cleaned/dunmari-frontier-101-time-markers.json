@@ -1,0 +1,331 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-101",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-101/cleaned/dunmari-frontier-101-session.yaml",
+    "sessionYamlSha256": "5ecab3b96546c9e55c7b489e156755a7b221e8582586bcf41c6699f28ab053e6",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-101/cleaned/dunmari-frontier-101-transcript.md",
+    "transcriptSha256": "62a618600fee471e9248b20aecde870737c295149ca6331ff22a93e85c6c6ffe",
+    "yamlDates": {
+      "start": "1749-05-11",
+      "end": "1749-05-11"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u2213",
+        "endUid": "u2217"
+      },
+      "reading": "The completed battle on the portal platform took about twelve seconds.",
+      "evidence": [
+        {
+          "startUid": "u2213",
+          "endUid": "u2217",
+          "quote": "plus you killed them all in about 12 seconds."
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "value": 0.2,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM retrospectively states about twelve seconds; converted to minutes."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u2235",
+        "endUid": "u2235"
+      },
+      "reading": "Seeker spends ten minutes casting Clairvoyance while the others perform rituals, befriend a manta ray, and question the plants.",
+      "evidence": [
+        {
+          "startUid": "u2235",
+          "endUid": "u2235",
+          "quote": "Clairvoyance takes 10 min to cast, so while Seeker's casting—"
+        },
+        {
+          "startUid": "u2257",
+          "endUid": "u2259",
+          "quote": "Wellby: I wanna talk to the manta rays.\n\nDelwath: I'm gonna have cast Detect Magic with a ritual while he does Clairvoyance.\n\nRiswynn: I'm gonna identify the sword with a ritual."
+        },
+        {
+          "startUid": "u2314",
+          "endUid": "u2326",
+          "quote": "over the course of the 10 min you manage to like, get one sort of comfortable with you"
+        },
+        {
+          "startUid": "u2403",
+          "endUid": "u2406",
+          "quote": "So while you've been talking to coral and manta Ray water elementals respectively, Seeker's been clairvoyancing and seeing these guards, and Riswynn has been identifying this silver rapier."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Explicit casting interval, confirmed by concurrent completed activities."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u2469",
+        "endUid": "u2470"
+      },
+      "reading": "Delwath searches the guards and guard post; the proposed ten-to-twenty minutes is subsequently fixed at twenty minutes.",
+      "evidence": [
+        {
+          "startUid": "u2469",
+          "endUid": "u2470",
+          "quote": "You're gonna take about, you know, 10 or 20 min to go through everything."
+        },
+        {
+          "startUid": "u2594",
+          "endUid": "u2598",
+          "quote": "you're spending 20 min searching, so it would be another 40 min for a short rest."
+        },
+        {
+          "startUid": "u2606",
+          "endUid": "u2619",
+          "quote": "Delwath looks around."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Later DM statement fixes the search duration at twenty minutes."
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t06",
+          "note": "The DM explicitly offers these twenty minutes as credit toward the subsequently completed short rest."
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u2604",
+        "endUid": "u2605"
+      },
+      "reading": "The party left the Material Plane through the Omi portal in the afternoon; the Plane of Water’s darkness gives no new civil clock.",
+      "evidence": [
+        {
+          "startUid": "u2600",
+          "endUid": "u2602",
+          "quote": "it seems to be night, but you don't know if there's day, or if it's just always dark."
+        },
+        {
+          "startUid": "u2604",
+          "endUid": "u2605",
+          "quote": "It was like afternoon when you left the— when you, when you left the material plane."
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "Retrospective DM anchor for the actual portal crossing, not the Plane of Water’s lighting."
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u2779",
+        "endUid": "u2779"
+      },
+      "reading": "During the scry, Delwath watches Milo for ten minutes while companions deal with the sleeping guards; the vision ends as they return.",
+      "evidence": [
+        {
+          "startUid": "u2779",
+          "endUid": "u2779",
+          "quote": "that's gonna be another 10 min."
+        },
+        {
+          "startUid": "u2810",
+          "endUid": "u2811",
+          "quote": "Delwath begins his scry, as the rest of you sneak silently into the huts"
+        },
+        {
+          "startUid": "u2840",
+          "endUid": "u2850",
+          "quote": "as you watch over the 10 min"
+        },
+        {
+          "startUid": "u2920",
+          "endUid": "u2929",
+          "quote": "As the, as the scry ends, the rest of you come back, having killed all but one of the merfolk"
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Explicit narrated ten-minute viewing period."
+      },
+      "completion": "completed",
+      "note": "The earlier “another 10 min” remark forecasts the scrying preparation. The narration does not separately confirm that casting duration; only the stated ten-minute viewing interval is quantified."
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u3068",
+        "endUid": "u3072"
+      },
+      "reading": "The party completes a short rest and plans the rescue. The earlier twenty-minute search is credited toward the hour rather than counted again.",
+      "evidence": [
+        {
+          "startUid": "u2594",
+          "endUid": "u2598",
+          "quote": "you're spending 20 min searching, so it would be another 40 min for a short rest."
+        },
+        {
+          "startUid": "u3068",
+          "endUid": "u3072",
+          "quote": "Delwath: Then let's go for the jade first. Maybe it's a bad idea. We can think about it. But short rest first. Yeah.\n\nDM: Go ahead, roll hit dice and all that stuff. I'm correct."
+        },
+        {
+          "startUid": "u3140",
+          "endUid": "u3142",
+          "quote": "So as you finish your rest and contemplate your next moves, what are your next moves?"
+        },
+        {
+          "startUid": "u3304",
+          "endUid": "u3309",
+          "quote": "Over the course of the short rest, you, you make your plan, settle on following this path to wherever Milo and these halflings happen to be trapped and you saddle up."
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Short-rest convention; DM explicitly permits the preceding twenty-minute search to supply part of the hour."
+      },
+      "completion": "completed",
+      "note": "Scrying and interrogation are narrated between the credit statement and the completed rest; their precise placement within the credited hour remains open. Do not add their durations to a complete hour a second time without further evidence."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u3323",
+        "endUid": "u3335"
+      },
+      "reading": "The party rides manta rays along the bioluminescent trail for no more than roughly an hour before reaching the approach to the tower and bubble.",
+      "evidence": [
+        {
+          "startUid": "u3323",
+          "endUid": "u3335",
+          "quote": "it must be no more really than an hour. But it's really hard to judge"
+        },
+        {
+          "startUid": "u3336",
+          "endUid": "u3338",
+          "quote": "as you approach a little bit more closely again, following this bioluminescent trail"
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "max": 1,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s approximate elapsed journey, with explicitly unreliable time and distance sense."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u3640",
+        "endUid": "u3641"
+      },
+      "reading": "After the party rushes through Seeker’s temporary hole, the bubble closes behind them in about ten seconds.",
+      "evidence": [
+        {
+          "startUid": "u3632",
+          "endUid": "u3641",
+          "quote": "DM: About 10 seconds, it closes behind you, and you are now in this debris-filled inky blackness."
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "value": 0.16666666666666666,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated about ten seconds until the hole recloses, converted to minutes."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u3955",
+        "endUid": "u3972"
+      },
+      "reading": "While answering Milo’s question about the current outside month, the table corrects June to end of May and gives the year 1745; no day is spoken.",
+      "evidence": [
+        {
+          "startUid": "u3955",
+          "endUid": "u3972",
+          "quote": "DM: Things change. That was—I don't really know how long ago it was. What— what— what month it is, is it on the outside?\n\nWellby: I'll share the month and date.\n\nDelwath: What is that, like—\n\nDM: June. No, it's—\n\nDelwath: Tim.\n\nDM: End of May is when—\n\nDelwath: 1745, 46.\n\nDM: 45.\n\nDelwath: 45.\n\nDM: So that was only 6 months ago now, feels like longer."
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "time": {
+        "date": {
+          "year": 1745,
+          "month": 5
+        },
+        "precision": "approximate",
+        "basis": "Spoken current-date exchange: June is corrected to end of May, and 1745 is repeated; the day remains unspecified."
+      },
+      "note": "The unfinished “End of May is when—” wording leaves the month’s precise intent less clear than a full date declaration, but the year and late-May reading conflict with the registered May 11, 1749 calendar and are retained for human resolution."
+    }
+  ],
+  "yamlCheck": {
+    "status": "conflict",
+    "dateAnchor": "YAML supplies May 11, 1749. At u3955–u3972, in response to Milo asking the current month outside, the table says June, corrects to end of May, and repeats 1745. No numerical day is independently spoken.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09"
+    ],
+    "explanation": "The spoken late-May/1745 reading contradicts the YAML calendar. The source establishes an afternoon portal crossing, short elapsed activities, a completed short rest with search credit, and an approximately hour-long journey, without an overnight or explicit calendar transition. Open boundaries and overlapping/credited activities do not verify an exact total span; historical captivity reports do not extend this session."
+  }
+}
