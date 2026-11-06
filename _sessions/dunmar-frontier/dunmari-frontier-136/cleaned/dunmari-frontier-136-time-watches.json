@@ -1,0 +1,125 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-time-markers.json",
+    "sha256": "ed61e9e914e7476c5b9a3794906a7e6d8a374cba02447ec60668494bf38be496"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-transcript.md",
+    "sha256": "65223c487c58083fb275dceff0b4e891237825fff2b5f2acfb31b5e16efac42f"
+  },
+  "dateAssessment": "Working campaign date: DR 1749-09-16 from the manifest; the transcript-only assessment remains compatible, not matched. DF135 intervenes: its registered raw notes start on September 14 in Orenlas, describe two days there, then the Limbo journey and restoration of Rai’s jade hand. Its closing sanctuary scene continues into DF136’s opening rest; there is no direct DF134→DF136 handoff. Those raw-note accounts overlap and are not counted as repeated journeys. Limbo elapsed time and the Material Plane clock remain separate. The final “middle of the night” can mean late September 16 or early September 17, still less than one world day after entry; no midnight crossing is proven. The date range on the final row preserves both readings.",
+  "watches": [
+    {
+      "day": "Entry before the opening",
+      "startWatch": "morning",
+      "endWatch": null,
+      "basis": "mixed",
+      "summary": "Morning departure precedes more than twelve Limbo travel hours; the world-clock endpoint is unplaced.",
+      "markers": [
+        "t01"
+      ],
+      "clock": "local",
+      "scope": "Prior Limbo journey"
+    },
+    {
+      "day": "Before departure",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Eight-hour local rest; Kenzo’s retcon returns to this earlier sanctuary phase.",
+      "markers": [
+        "t02",
+        "t05"
+      ],
+      "clock": "local",
+      "scope": "Rai’s sanctuary"
+    },
+    {
+      "day": "After the rest",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Sanctuary movement takes moments; Clairvoyance takes ten minutes before the approach scene resumes.",
+      "markers": [
+        "t03",
+        "t04",
+        "t06"
+      ],
+      "clock": "local",
+      "scope": "Tower approach"
+    },
+    {
+      "day": "Inside the tower",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Ten-minute healing and search, then a few minutes translating; no additional hour-long rest.",
+      "markers": [
+        "t07",
+        "t08"
+      ],
+      "clock": "local",
+      "scope": "Library"
+    },
+    {
+      "day": "After the queen falls",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Two six-second spike ticks precede the one-minute Identify; these do not time the entire search.",
+      "markers": [
+        "t09",
+        "t10"
+      ],
+      "clock": "local",
+      "scope": "Collapsing tower and treasure globe"
+    },
+    {
+      "day": "World clock while in Limbo",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Kenzo’s tree connection reports only a few hours elapsed in the world.",
+      "markers": [
+        "t11"
+      ]
+    },
+    {
+      "day": "Return to the sanctuary",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Corrected ninety-minute deadline permits the hour-long ritual; one quiet minute follows.",
+      "markers": [
+        "t12",
+        "t13",
+        "t14"
+      ],
+      "clock": "local",
+      "scope": "Rai’s sanctuary"
+    },
+    {
+      "day": "During September 16–17, 1749",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "mixed",
+      "summary": "Return in the middle of the night, less than one world day after entry.",
+      "markers": [
+        "t15"
+      ],
+      "dateWindow": [
+        "1749-09-16",
+        "1749-09-17"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "DF135 registered raw notes — Orenlas chronology and Rai sanctuary handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-135/sources/Session135.combined-raw-notes-draft.md",
+      "sha256": "cb444a6c0babeb12987ca4caf991a9b20c38ac6bf0e5968b47c35606521db8c6"
+    }
+  ]
+}
