@@ -1,0 +1,559 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "mawar-adventures-002",
+    "sessionYaml": "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+    "sessionYamlSha256": "35fe186e27f162ce708022a7ad7c0112a5f78237055a1f4b32680fb1a4a76d6e",
+    "transcriptPath": "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-transcript.md",
+    "transcriptSha256": "35de1d2930775f0bd8cf92fc93f3ee7e4d297b0a48b620b39207e3844e0b3bd7",
+    "yamlDates": {
+      "start": "1747-08-03",
+      "end": "1747-08-09"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0314",
+        "endUid": "u0335"
+      },
+      "reading": "The table retrospectively resolves Ryu and Trok's earlier search of the tower during the preceding ten-day downtime, before the current conversation.",
+      "actors": [
+        "Ryu",
+        "Trok"
+      ],
+      "context": "flashback",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "reference": "t03"
+        },
+        "precision": "approximate",
+        "basis": "The players place the search within the past ten days; the DM accepts that it happened, without choosing a day."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0314",
+          "endUid": "u0315",
+          "quote": "You probably would have. In the time, like, you know, you're asking, like, what we did over the past 10 days, you probably would have gone and checked it out, especially with this, like—Trok and I probably would have gone and looked at it—on—if we want to look."
+        },
+        {
+          "startUid": "u0327",
+          "endUid": "u0335",
+          "quote": "DM: Definite disadvantage. Um let's say, let's say you poked around and you—you didn't search it super care—I mean, you've realized that it was um. You know you realize that it was not a— You know it's been lived in clearly like and about it. Um.\nDM: You know there's like signs of relatively recent occupation clearly clearly somebody who's trying to you know, keep quiet, right? So, like, somebody trying to cover their tracks and stuff. Like, probably mostly going in and out via the, um, the other sea cave, although there was no boat, um. You know it's—"
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0344",
+        "endUid": "u0352"
+      },
+      "reading": "During that earlier search Ryu briefly perceived an endless ocean; the DM describes a few minutes, then about a minute, before he steps back.",
+      "actors": [
+        "Ryu"
+      ],
+      "context": "vision",
+      "duration": {
+        "text": "a minute or a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "The DM uses both descriptions for the same brief experience; no exact duration is settled."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0344",
+          "endUid": "u0348",
+          "quote": "And you sort of poked your your head in and and Ryu, when you—when you stepped in, you didn't see the interior of a cave—I mean, you couldn't see the interior of a tower. You felt like you're stepping into a massive expanse of endless ocean. Just, like, not even knows—no surface even. Just, like, the ocean going all the way up to the top of the tower, like, even beyond the top of the tower. No light, you know. The occasional, like, giant—you know, off in the distance you could see, like, this incredibly giant mat of kelp just kind of growing out of a floating island that was drifting away from you, with some sharks that must have been three times as big as you are circling around that. Um."
+        },
+        {
+          "startUid": "u0350",
+          "endUid": "u0352",
+          "quote": "You know, you look and then you step back in the tower. Look—look, that looked real, and when you stuck your head in again you couldn’t— You couldn't recreate that image. But for, like, a few minutes as you stepped in, you were just lost in this for—for a minute. Like, you felt like you couldn’t breathe, and then you remembered you actually don’t need to breathe, so it wasn’t an issue. Um, you’re just lost in this endless expanse, um."
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0371",
+        "endUid": "u0374"
+      },
+      "reading": "The current gathering has reached late evening after introductions and discussion; the earlier search has returned to the present frame.",
+      "time": {
+        "partOfDay": "late evening",
+        "precision": "approximate",
+        "basis": "DM explicitly says it is getting late in the evening now."
+      },
+      "evidence": [
+        {
+          "startUid": "u0371",
+          "endUid": "u0374",
+          "quote": "So it's getting late in the evening now after this conversation and catching up and doing the introductions. Obviously you’re not going to go—well, maybe you are going to go search the tower in the middle of the night. I'm—"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0499",
+        "endUid": "u0509"
+      },
+      "reading": "The party rests overnight and awakens the next morning, meeting outside the tower.",
+      "timeRange": {
+        "start": {
+          "partOfDay": "night",
+          "precision": "approximate",
+          "basis": "They leave the late-evening discussion to rest."
+        },
+        "end": {
+          "partOfDay": "morning",
+          "precision": "approximate",
+          "basis": "DM explicitly narrates waking the next morning; an August reference later dates this same exploration only broadly.",
+          "date": {
+            "month": 8
+          }
+        }
+      },
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention for the established overnight rest"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0499",
+          "endUid": "u0500",
+          "quote": "So anything else before you rest and head out in the morning?"
+        },
+        {
+          "startUid": "u0505",
+          "endUid": "u0509",
+          "quote": "So the next morning you awake, various states of hungoverness. And and meet at the at the outside of this Tower."
+        },
+        {
+          "startUid": "u0643",
+          "endUid": "u0644",
+          "quote": "So—so Trok at the top, I mean, you—you have got a nice view. You can see it’s a clear day, starting to get hot, even in the middle of August or early August, um. You know, you can see the the coast stretching away to the north, you can see—"
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0842",
+        "endUid": "u0844"
+      },
+      "reading": "Trok has spent about ten minutes swimming under the watery illusion during the tower and sea-cave exploration.",
+      "actors": [
+        "Trok"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM's elapsed-time estimate, repeated while discussing Trok's remaining breath."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0842",
+          "endUid": "u0844",
+          "quote": "See, how far have you gotten? 456. Yeah, yeah, you might start running out of air pretty soon, actually. It's probably been about 10 minutes I'm swimming around in the plane of water."
+        },
+        {
+          "startUid": "u0884",
+          "endUid": "u0886",
+          "quote": "I mean you know that you, you can only hold your breath for 15 minutes here aware of that fact of lizardfolk physiology, you know you've been swimming for about 10 minutes so— I'm—"
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0982",
+        "endUid": "u0983"
+      },
+      "reading": "It is midmorning when the party leaves the tower to question informants.",
+      "time": {
+        "partOfDay": "midmorning",
+        "precision": "approximate",
+        "basis": "DM's explicit clock anchor before the split."
+      },
+      "evidence": [
+        {
+          "startUid": "u0982",
+          "endUid": "u0983",
+          "quote": "So let's say it's mid-morning now, so Ryu is going to talk to Jaeson, Trok is looking for Orden, Kaleho, do you want to go, and Wazir is going to go talk to these two orphans? Do you want to go, and then you'll meet at the market."
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1208",
+        "endUid": "u1215"
+      },
+      "reading": "Ryu and Trok find Orden eating lunch at the beach.",
+      "actors": [
+        "Ryu",
+        "Trok"
+      ],
+      "time": {
+        "partOfDay": "lunch",
+        "precision": "approximate",
+        "basis": "Orden is explicitly eating lunch when they approach; the DM corrects cooked lunch to cold leftovers."
+      },
+      "evidence": [
+        {
+          "startUid": "u1208",
+          "endUid": "u1215",
+          "quote": "Orden usually hangs out there and he's been— he's been sitting there he's sitting there cooking up some—some lunch when you approach. Actually, it’s pretty hot. It’s not cooking, he’s eating some—some cold— I don't know what would he what could he scratch from the ocean? Leftovers. Yell saying some leftover shellfish from the night before just cold and he looks up yeah, Trok."
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1384",
+        "endUid": "u1388"
+      },
+      "reading": "The party reunites in the fish market just after lunch.",
+      "time": {
+        "partOfDay": "just past lunch",
+        "precision": "approximate",
+        "basis": "DM's explicit reunion anchor."
+      },
+      "evidence": [
+        {
+          "startUid": "u1384",
+          "endUid": "u1388",
+          "quote": "So, meeting back in the market, the market at this time of day, now just past lunch, is pretty quiet. And it’s basically just, like, these, like, you know, the—the old folk of the town sitting around talking. There’s one, I’m, mostly humans, except there’s one sort of older lizardfolk who. He comes he lives up on the on the cliffs by the sort of up here by himself he's sort of like the liaison between this town and the lizardfolk settlement to the south, but he'll often come down to the market and, just like chill with the with the town's folk. After lunch he's also like on the older side like pale blue pale blue scales like seems to be a little arthritic moves slowly, but you know curious."
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1846",
+        "endUid": "u1856"
+      },
+      "reading": "Wazir and Ryu wait about five minutes for Sulfi's servant to return with her answer.",
+      "actors": [
+        "Wazir",
+        "Ryu"
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM explicitly narrates the servant coming back about five minutes later."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1846",
+          "endUid": "u1856",
+          "quote": "He comes back up about five minutes later and says: Sulfi is engaged at the moment, but bids me to pass on the news that she is unaware of any strange ships. And should you see strange ships, please inform her guards immediately, so they may ensure that the proper fees and tolls are collected. And thank you for your attention. And then she says—and to you, Wazir, she says: Indeed, it would be nice some time to take tea. Perhaps. And he gives a date, like eight days hence. Perhaps he would come this afternoon on that date for a brief tea."
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1877",
+        "endUid": "u1877"
+      },
+      "reading": "It is about five in the afternoon after the unsuccessful visit to Sulfi.",
+      "actors": [
+        "Wazir",
+        "Ryu"
+      ],
+      "time": {
+        "clock": "17:00",
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "DM says it is now like five in the afternoon; seven or seven-thirty is a sunset forecast, not another current clock."
+      },
+      "evidence": [
+        {
+          "startUid": "u1877",
+          "endUid": "u1877",
+          "quote": "Okay, so it’s now, like, five in the afternoon, approaching—I mean, it’s August, so gets dark maybe seven ish, 730."
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1892",
+        "endUid": "u1894"
+      },
+      "reading": "The reunited party meets on Shark's Dock in late afternoon.",
+      "time": {
+        "partOfDay": "late afternoon",
+        "precision": "approximate",
+        "basis": "DM explicitly dates this reunion."
+      },
+      "evidence": [
+        {
+          "startUid": "u1892",
+          "endUid": "u1894",
+          "quote": "So you meet on the Shark's Dock which is like I mean it's a rickety you know it is it's the heat of the summer and it's like you know late afternoon there are actually people diving off the dock and swimming and it's a you know it's a, it is a place where like you know the common folk do go to swim occasionally um you know after work after you know the heat of the day. So there are some bustle of activity, but it's a place where there's like lots of little nooks and crannies and things and all and warehouses, and so you can sort of get together, you know, in a little out of the way place."
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u2148",
+        "endUid": "u2148"
+      },
+      "reading": "Ryu and Trok sit with Yaz for twenty minutes as the sun sets, ending in the afterglow.",
+      "actors": [
+        "Ryu",
+        "Trok"
+      ],
+      "timeRange": {
+        "start": {
+          "partOfDay": "before sunset",
+          "precision": "approximate",
+          "basis": "Yaz says the sun will set soon and asks them to watch."
+        },
+        "end": {
+          "partOfDay": "sunset afterglow",
+          "precision": "approximate",
+          "basis": "DM resumes their conversation after the sun sets."
+        }
+      },
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM's narrated twenty-minute wait."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2124",
+          "endUid": "u2127",
+          "quote": "He sort of leans lean on is on the railing at a minute and says “The sun will be setting soon.” “Come sit with me.”"
+        },
+        {
+          "startUid": "u2148",
+          "endUid": "u2148",
+          "quote": "You set for you know 20 minutes, with the sun slowly slowly sinks into the ocean."
+        },
+        {
+          "startUid": "u2156",
+          "endUid": "u2157",
+          "quote": "And after the sunsets, he, you know, in this sort of afterglow of the sunset, he turns and looks at you and: What brings you here besides the view?"
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u2284",
+        "endUid": "u2288"
+      },
+      "reading": "After dark the party is back together at the Leviathan.",
+      "time": {
+        "partOfDay": "after dark",
+        "precision": "approximate",
+        "basis": "DM states it is now dark and the table accepts reunion at the Leviathan."
+      },
+      "evidence": [
+        {
+          "startUid": "u2284",
+          "endUid": "u2288",
+          "quote": "DM: I mean now now it's like dark right I'm guessing you're probably meeting by Leviathan.\nUnknown: Yeah.\nKaleho: So we're back at the Leviathan?\nUnknown: Yeah."
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u2420",
+        "endUid": "u2436"
+      },
+      "reading": "The plan advances to the next morning; the party has prepared and rested.",
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention for the established overnight rest"
+      },
+      "timeRange": {
+        "start": {
+          "partOfDay": "night",
+          "precision": "approximate",
+          "basis": "The preceding planning happens after dark."
+        },
+        "end": {
+          "partOfDay": "morning",
+          "precision": "approximate",
+          "basis": "DM confirms next morning, rested and ready."
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2420",
+          "endUid": "u2420",
+          "quote": "Okay, so the next morning we wait."
+        },
+        {
+          "startUid": "u2436",
+          "endUid": "u2436",
+          "quote": "Okay, so anybody who’s hiding—so this is the next morning, y’all prepared, rested, ready to go, um—anybody who’s hiding make a stealth."
+        }
+      ]
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u2440",
+        "endUid": "u2447"
+      },
+      "reading": "In the lull just after dawn, the party is walking from the Leviathan toward Shark's Dock when Blu reports the approaching ship.",
+      "time": {
+        "partOfDay": "just after dawn",
+        "precision": "approximate",
+        "basis": "DM explicitly distinguishes the current post-dawn lull from the earlier pre-dawn fishing rush."
+      },
+      "evidence": [
+        {
+          "startUid": "u2440",
+          "endUid": "u2447",
+          "quote": "Okay, so early I assume you're up fairly early for the plan like early in the morning I'm kind of I mean that you know there's there's the leg morning rush like the pre dawn rush as a bunch of the I'm a bunch of the fishing boats go out early, and then, like, around dawn, just after dawn, there’s always a bit of a lull, and in this just post-dawn lull is you're still making your way from the Leviathan, to the Shark's Dock along the docks I'm Blu comes down to your shoulder and reports to you that that there's a ship coming from the north just rounding this this point here moving fast."
+        }
+      ]
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u2491",
+        "endUid": "u2494"
+      },
+      "reading": "About twenty minutes after taking position, Ryu sees the cloaked man approach Ovina's shop.",
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates the approach about twenty minutes later."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2450",
+          "endUid": "u2450",
+          "quote": "So you get into position so I've got one stealth check who else is hiding I've got to stealth check?"
+        },
+        {
+          "startUid": "u2491",
+          "endUid": "u2494",
+          "quote": "So, but you can see, so Ryu you see I'm about 20 minutes later sort of you know, coming up from the dock this sort of older man like hunched over with like this pile of cloaks over his shoulders like you know whether like oil skin cloaks shading his face but there's a bit of a scraggly Gray beard thats thats hanging out and he's walking quickly and with purpose towards Ovina shop, who has opened early in anticipation of this event, I’m, aware that you are all hanging around. And he just kind of head straight for the shop, crossing this plaza where you’re sort of later going to go into the—into the shop."
+        }
+      ]
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u2504",
+        "endUid": "u2507"
+      },
+      "reading": "A few minutes after entering the shop, Azar comes out carrying the lead-lined box.",
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM's narrated elapsed interval."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2504",
+          "endUid": "u2507",
+          "quote": "A few minutes later he comes out carrying this chest, this box under one arm. It seems to be heading back for the docks now, oh yeah looking around notices you but not really pay—"
+        }
+      ]
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u3302",
+        "endUid": "u3307"
+      },
+      "reading": "Trok was unconscious for only a few seconds before the healing and Azar's climb out of the water.",
+      "actors": [
+        "Trok"
+      ],
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u3302",
+          "endUid": "u3307",
+          "quote": "Trok: I will—I’m going to hold off from punching him right the second. Because I don't know that the Armor is— The Armor that's froze me to death it's gone now right? Yeah a Trok has been unconscious for\nDM: A few seconds, right? You wouldn’t have necessarily seen that it was gone, yeah, um."
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No year or calendar day is spoken. The DM places the exploration broadly in August, wavering between early and middle August (u0643–u0644). August 3 and the year 1747 come only from YAML; August 9 is not a transcript anchor.",
+    "expectedDateBoundaries": 6,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t03",
+      "t04",
+      "t14",
+      "t15"
+    ],
+    "explanation": "Two explicit overnight transitions carry the current evening through the dawn confrontation. The earlier tower search is also resolved in play but only placed somewhere in the preceding ten-day downtime. The final interrogation and lair visit are compressed without an elapsed interval or closing date. These open boundaries do not establish a complete total or contradict the six-boundary YAML span; no missing days are supplied from drEnd."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t01",
+        "t03"
+      ],
+      "reading": "The current gathering opens the main sequence, but an earlier tower search is retrospectively resolved.",
+      "alternatives": [
+        {
+          "reading": "Use the current evening gathering as the main chronological opening; the search remains earlier play with an unspecified date."
+        },
+        {
+          "reading": "Include the retrospectively resolved search in the covered adventure interval; its start can precede the YAML evening by an unknown amount."
+        }
+      ]
+    },
+    {
+      "boundary": "end",
+      "evidence": [
+        "t14",
+        "t15",
+        "t17"
+      ],
+      "reading": "The transcript reaches the second following dawn, then compresses the aftermath without a closing date.",
+      "alternatives": [
+        {
+          "reading": "Resolve the compressed interrogation and knife recovery on the confrontation day; conditional on YAML start, the confrontation is August 5."
+        },
+        {
+          "reading": "Leave the time consumed by the compressed aftermath open; the transcript does not independently reach August 9."
+        }
+      ]
+    }
+  ]
+}

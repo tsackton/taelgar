@@ -1,0 +1,312 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "mawar-adventures-002",
+    "sessionYaml": "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+    "sessionYamlSha256": "35fe186e27f162ce708022a7ad7c0112a5f78237055a1f4b32680fb1a4a76d6e",
+    "transcriptPath": "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-transcript.md",
+    "transcriptSha256": "35de1d2930775f0bd8cf92fc93f3ee7e4d297b0a48b620b39207e3844e0b3bd7",
+    "segments": {
+      "path": "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-segments.json",
+      "sha256": "835e8f3938840a951a2b1935adaddb66e5e2acf3d702f268ae65b076c6d8bf29",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s008",
+      "encounter": "Azar and the drowned servant at Shark's Dock",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Azar",
+              "kind": "turn",
+              "summary": "Abandons the proposed flight escape, creates a square of black tentacles around Ryu and the dock, then runs past Ryu and invisible Wazir and jumps into his boat. Maintains concentration after Ryu's hit.",
+              "evidence": [
+                {
+                  "startUid": "u2743",
+                  "endUid": "u2782"
+                },
+                {
+                  "startUid": "u2804",
+                  "endUid": "u2804"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "reaction",
+              "summary": "Hits the fleeing Azar with a spear opportunity attack for 12 damage; Azar succeeds on the concentration check.",
+              "evidence": [
+                {
+                  "startUid": "u2769",
+                  "endUid": "u2781"
+                }
+              ]
+            },
+            {
+              "actor": "Wazir",
+              "kind": "reaction",
+              "summary": "Declines a grapple and attacks with advantage from invisibility, hitting Azar for 5 thunder damage and ending invisibility. Azar has disadvantage on attacks against anyone except Wazir until the start of Wazir's next turn.",
+              "evidence": [
+                {
+                  "startUid": "u2783",
+                  "endUid": "u2804"
+                }
+              ]
+            },
+            {
+              "actor": "Trok",
+              "kind": "reaction",
+              "summary": "Uses his eel-shaped Tattoo of Water to try to incapacitate Azar as he runs past; Azar succeeds on the DC 14 Wisdom save. This is explicitly a reaction and leaves Trok his regular turn.",
+              "evidence": [
+                {
+                  "startUid": "u2808",
+                  "endUid": "u2830"
+                }
+              ]
+            },
+            {
+              "actor": "Trok",
+              "kind": "turn",
+              "summary": "From the water, grabs the edge of the boat and successfully grapples Azar, pulls him overboard, and drags him away from the boat. Azar drops the lead-lined box in the boat. Trok then tries to knock Azar unconscious with an unarmed hit, which is blocked for no damage.",
+              "evidence": [
+                {
+                  "startUid": "u2831",
+                  "endUid": "u2850"
+                },
+                {
+                  "startUid": "u2858",
+                  "endUid": "u2893"
+                }
+              ]
+            },
+            {
+              "actor": "Azar",
+              "kind": "reaction",
+              "summary": "An inky black tentacle wraps around him and blocks Trok's punch, reducing its damage to zero.",
+              "evidence": [
+                {
+                  "startUid": "u2888",
+                  "endUid": "u2893"
+                }
+              ]
+            },
+            {
+              "actor": "Kaleho",
+              "kind": "turn",
+              "summary": "Fires his hand crossbow at Azar underwater beside the dock. Hidden advantage cancels range disadvantage; Azar has partial cover. The critical hit includes doubled weapon and Sneak Attack dice for the accepted 31 damage. Azar succeeds on concentration.",
+              "evidence": [
+                {
+                  "startUid": "u2897",
+                  "endUid": "u2949"
+                }
+              ]
+            },
+            {
+              "actor": "Drowned servant",
+              "kind": "turn",
+              "summary": "Stands up in the boat, then abandons a proposed jump into the water because it cannot swim and moves to attack Wazir. Its first fist attack misses; its second wraps Wazir in water and grapples him without damage.",
+              "evidence": [
+                {
+                  "startUid": "u2834",
+                  "endUid": "u2836"
+                },
+                {
+                  "startUid": "u2951",
+                  "endUid": "u2965"
+                }
+              ]
+            },
+            {
+              "actor": "Wazir",
+              "kind": "turn",
+              "summary": "Misty Steps out of the grapple, unties and pushes the boat away, and returns to the dock. Attempts to punch the drowned servant: calls out a 23 without a separately spoken hit/damage adjudication, then reports a miss which the DM confirms.",
+              "evidence": [
+                {
+                  "startUid": "u2974",
+                  "endUid": "u3011"
+                }
+              ],
+              "note": "The transcript may describe two attack rolls; no damage or explicit ruling on the 23 is preserved."
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Fails the initial Dexterity save against the black tentacles, becoming restrained and taking 15 bludgeoning damage. Throws his returning spear at the drowned servant twice with disadvantage: the first hits and returns to his hand, the second misses. Commands Turk to tow the freed boat away.",
+              "evidence": [
+                {
+                  "startUid": "u3012",
+                  "endUid": "u3057"
+                }
+              ],
+              "note": "The first spear's damage is not stated in the retained speech."
+            },
+            {
+              "actor": "Blu / Turk",
+              "kind": "turn",
+              "summary": "In shark form, starts towing Azar's boat away at Ryu's command. Later narration confirms the boat has gone, with Turk dragging it.",
+              "evidence": [
+                {
+                  "startUid": "u3050",
+                  "endUid": "u3057"
+                },
+                {
+                  "startUid": "u3211",
+                  "endUid": "u3213"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Azar",
+              "kind": "turn",
+              "summary": "While grappled, whispers a horrible sound at Trok, calling for a Wisdom save. The resolved damage is corrected from 7 to 9 psychic damage, with no further effect; the grapple persists. Creates a tentacle beside Wazir, which misses.",
+              "evidence": [
+                {
+                  "startUid": "u3066",
+                  "endUid": "u3097"
+                }
+              ],
+              "note": "The save's success/failure is not explicitly verbalized; the damage correction and absence of further effect are explicit."
+            },
+            {
+              "actor": "Azar's Armor of Agathys",
+              "kind": "event",
+              "summary": "The DM begins applying the previously forgotten Armor of Agathys at full temporary hit points from this point; earlier attackers are not retroactively damaged.",
+              "evidence": [
+                {
+                  "startUid": "u3073",
+                  "endUid": "u3077"
+                },
+                {
+                  "startUid": "u3131",
+                  "endUid": "u3144"
+                }
+              ]
+            },
+            {
+              "actor": "Trok",
+              "kind": "turn",
+              "summary": "Uses Primal Might to double to fourteen feet and drags the grappled Azar five feet underwater. Grappling grants no attack advantage. Strikes twice; each melee hit triggers 25 cold damage from Armor of Agathys. The second drops Trok unconscious; he returns to normal size and floats to the surface, releasing Azar.",
+              "evidence": [
+                {
+                  "startUid": "u3098",
+                  "endUid": "u3154"
+                },
+                {
+                  "startUid": "u3167",
+                  "endUid": "u3168"
+                }
+              ],
+              "note": "Trok's outgoing punch damage is not stated; the source explicitly resolves both cold bursts for 50 damage to him."
+            },
+            {
+              "actor": "Kaleho",
+              "kind": "turn",
+              "summary": "Cannot shoot Azar five feet underwater, so targets the drowned servant. Uses Steady Aim to cancel distance disadvantage and gains Sneak Attack because Wazir is adjacent. Hits for 18 damage, explicitly including the 11 Sneak Attack damage.",
+              "evidence": [
+                {
+                  "startUid": "u3166",
+                  "endUid": "u3187"
+                }
+              ]
+            },
+            {
+              "actor": "Drowned servant",
+              "kind": "turn",
+              "summary": "Attacks Wazir again, wrapping him in water and leaving him grappled. Jets water into his lungs; Wazir succeeds on the Constitution save and coughs it out, with no damage stated.",
+              "evidence": [
+                {
+                  "startUid": "u3188",
+                  "endUid": "u3199"
+                }
+              ]
+            },
+            {
+              "actor": "Wazir",
+              "kind": "turn",
+              "summary": "Casts Shatter to hit Azar and the drowned servant without catching allies. Both fail DC 15 Constitution saves and take 10 damage each. Azar's Armor of Agathys is removed, but he again succeeds on concentration, keeping the black tentacles active.",
+              "evidence": [
+                {
+                  "startUid": "u3221",
+                  "endUid": "u3244"
+                }
+              ]
+            },
+            {
+              "actor": "Ryu",
+              "kind": "turn",
+              "summary": "Takes 13 bludgeoning damage from the tentacles. Uses his action to try to escape with a Strength check; the table rejects advantage and the check fails. As a bonus action casts Healing Spirit, represented as a healing shark, which restores 6 hit points to Trok and wakes him while he floats in the water.",
+              "evidence": [
+                {
+                  "startUid": "u3245",
+                  "endUid": "u3293"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Azar",
+              "kind": "turn",
+              "summary": "Climbs out of the water and moves along the dock; Trok declines the offered opportunity attack with disadvantage, fearing the cold armor he did not see removed. Azar shoots lightning through a bystander, killing them, and through Ryu and Kaleho. Restrained Ryu makes the Dexterity save with disadvantage and takes 30 lightning damage, falling unconscious; Kaleho succeeds and takes 15. Ryu's Healing Spirit ends. Azar yells “Let me be!” and creates another tentacle, which misses Wazir.",
+              "evidence": [
+                {
+                  "startUid": "u3297",
+                  "endUid": "u3344"
+                }
+              ]
+            },
+            {
+              "actor": "Trok",
+              "kind": "turn",
+              "summary": "Moves to the water's edge and activates Eldritch Maul for fifteen-foot unarmed reach. Second Wind heals him 9 hit points, bringing him to 15. Makes four successful crocodile-shaped attacks using Action Surge. The final narration places the tentacles' disappearance on the third hit and Azar's unconscious collapse on the fourth. The previously omitted four bonus d6 are rolled for 20 additional damage.",
+              "evidence": [
+                {
+                  "startUid": "u3359",
+                  "endUid": "u3433"
+                }
+              ],
+              "note": "The spoken overall damage total is garbled at u3418; retain the four hits and explicit 20 extra damage without inventing a reliable aggregate. Final narration clarifies the concentration break after earlier running commentary."
+            },
+            {
+              "actor": "Kaleho",
+              "kind": "turn",
+              "summary": "Uses Steady Aim to cancel range disadvantage and shoots the drowned servant, with Sneak Attack from Wazir's adjacency rather than automatic advantage. The servant has only two hit points left and falls dead.",
+              "evidence": [
+                {
+                  "startUid": "u3434",
+                  "endUid": "u3444"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Azar is unconscious and available for capture; the drowned servant is dead. Ryu is unconscious, Trok is conscious again, and one townsperson has been killed. Healing, binding Azar, and the compressed interrogation follow after initiative.",
+        "evidence": [
+          {
+            "startUid": "u3322",
+            "endUid": "u3342"
+          },
+          {
+            "startUid": "u3426",
+            "endUid": "u3444"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session.yaml",
+  "source": {
+    "path": "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-time-markers.json",
+    "sha256": "6ae94197da44036e2308d896a1dedf7b1d2790fdfd00d745ce829eb893ab73c9"
+  },
+  "transcript": {
+    "path": "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-transcript.md",
+    "sha256": "35de1d2930775f0bd8cf92fc93f3ee7e4d297b0a48b620b39207e3844e0b3bd7"
+  },
+  "dateAssessment": "Working dates for the main sequence use the YAML start, August 3, 1747, plus the two explicitly narrated overnights: investigation August 4 and confrontation August 5. No calendar day or year is independently spoken; the exploration is only broadly called August. The retrospective tower search remains somewhere in the preceding ten-day downtime, with its exact day and watch open. The time extraction remains **compatible**, not matched: the compressed interrogation and lair recovery have no closing date, and this transcript does not establish the full August 3–9 span. The dated [[Mawar Adventures Episode 02]] separately records August 6 identification and August 9 departure; those events are supplementary context and have not been inserted into the transcript markers. Watch estimates use the package's six watch bands; rests use the labeled eight-hour convention.",
+  "watches": [
+    {
+      "day": "Preceding ten-day downtime",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Earlier tower search is resolved retrospectively; no particular day or watch is chosen.",
+      "markers": [
+        "t01"
+      ],
+      "scope": "Ryu and Trok"
+    },
+    {
+      "day": "During the earlier tower search",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Ryu's watery image lasts a minute or a few minutes.",
+      "markers": [
+        "t02"
+      ],
+      "clock": "local",
+      "scope": "Ryu's vision"
+    },
+    {
+      "day": "August 3, 1747",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Late-evening gathering; no numerical clock is given.",
+      "markers": [
+        "t03"
+      ],
+      "startDate": "1747-08-03",
+      "endDate": "1747-08-03"
+    },
+    {
+      "day": "August 3–4, 1747",
+      "startWatch": "midnight",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Overnight rest; eight-hour convention reaches the next morning.",
+      "markers": [
+        "t04"
+      ],
+      "startDate": "1747-08-03",
+      "endDate": "1747-08-04"
+    },
+    {
+      "day": "August 4, 1747",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Midmorning departure; Trok's illusory swim took about ten minutes.",
+      "markers": [
+        "t05",
+        "t06"
+      ],
+      "startDate": "1747-08-04",
+      "endDate": "1747-08-04"
+    },
+    {
+      "day": "August 4, 1747",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "Orden eats lunch; the party reunites just past lunch.",
+      "markers": [
+        "t07",
+        "t08"
+      ],
+      "startDate": "1747-08-04",
+      "endDate": "1747-08-04"
+    },
+    {
+      "day": "August 4, 1747",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Five-minute audience wait; about 5 p.m., then late-afternoon dock reunion.",
+      "markers": [
+        "t09",
+        "t10",
+        "t11"
+      ],
+      "startDate": "1747-08-04",
+      "endDate": "1747-08-04"
+    },
+    {
+      "day": "August 4, 1747",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Twenty minutes watching sunset; conversation resumes in its afterglow.",
+      "markers": [
+        "t12"
+      ],
+      "scope": "Ryu and Trok",
+      "startDate": "1747-08-04",
+      "endDate": "1747-08-04"
+    },
+    {
+      "day": "August 4, 1747",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Darkness after sunset; the party reunites at the Leviathan.",
+      "markers": [
+        "t13"
+      ],
+      "startDate": "1747-08-04",
+      "endDate": "1747-08-04"
+    },
+    {
+      "day": "August 4–5, 1747",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Rested next morning; eight-hour convention and post-dawn anchor imply a dusk start.",
+      "markers": [
+        "t14"
+      ],
+      "startDate": "1747-08-04",
+      "endDate": "1747-08-05"
+    },
+    {
+      "day": "August 5, 1747",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Post-dawn approach, twenty-minute wait, then a few minutes for the box.",
+      "markers": [
+        "t15",
+        "t16",
+        "t17",
+        "t18"
+      ],
+      "startDate": "1747-08-05",
+      "endDate": "1747-08-05"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated Mawar Episode 02 record and supplementary postscript",
+      "path": "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md",
+      "sha256": "2433383acbc2f019cf0eef96db0d33a1ca584ebe2d89ab91b07d7532231eec22"
+    }
+  ]
+}
