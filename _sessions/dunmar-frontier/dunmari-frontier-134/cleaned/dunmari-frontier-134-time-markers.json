@@ -1,0 +1,412 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-134",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-134/cleaned/dunmari-frontier-134-session.yaml",
+    "sessionYamlSha256": "65cadd664715ad0bba63fd600ad44fad56e62278990597aa756a8fd7138823c7",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-134/cleaned/dunmari-frontier-134-transcript.md",
+    "transcriptSha256": "8c9fa7aaa39df37312e662a2ded109f8c80602e61ee4449a1b53e1b98da347b6",
+    "yamlDates": {
+      "start": "1749-08-12",
+      "end": "1749-08-12"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0007",
+        "endUid": "u0010"
+      },
+      "reading": "Play resumes after the Battle of the Heartroot Vale, in the afternoon/evening; the narrated rout also takes place during that afternoon.",
+      "time": {
+        "partOfDay": "afternoon/evening",
+        "precision": "approximate",
+        "basis": "DM opening and afternoon battle-resolution narration; no clock is spoken."
+      },
+      "evidence": [
+        {
+          "startUid": "u0007",
+          "endUid": "u0010",
+          "quote": "DM: Okay, so we pick up… the… afternoon, evening… after the battle. The Battle of the Heartroot Vale. Starring Kenzo the Silver Dragon. Among others."
+        },
+        {
+          "startUid": "u0022",
+          "endUid": "u0030",
+          "quote": "DM: So… after you defeated the Empress of Chaos, and flew back to the battle, with your… silver dragon ally, the tide of battle quickly shifted, and over the course of the afternoon, the defenders of Aurbez, the lizardfolk, the hippopotamuses, the… rangers and archers, were eventually able to not… without… at times, heavy casualties, but… many were protected by the fact that when they die in hippo form, they don't actually die, they just revert to their human form. Others by… saved by the… illusory dragon that started the battle, or the silver dragon that ended the battle."
+        },
+        {
+          "startUid": "u0031",
+          "endUid": "u0040",
+          "quote": "DM: And over the course of the afternoon, the hobgoblin lines break. The Rangers… harry and chase them, driving the few survivors from the valley, towards the cliff edge, only to be met by the marching Stoneborn army coming from the south, who provides the definitive final victory against the hobgoblin troops. Now, many stand and fight to the end, but many realizing their fate scatter in various directions, flee up into the mountains, flee to the north. It is… not possible to… well, not straightforward to hunt down every loose end. But… for now, anyway, for the foreseeable future, Aurbez and the Heartroot are safe."
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0041",
+        "endUid": "u0046"
+      },
+      "reading": "The four PCs gather at the postbattle camp in late afternoon as the sun sinks.",
+      "time": {
+        "partOfDay": "late afternoon",
+        "precision": "approximate",
+        "basis": "DM explicitly places the gathering in late afternoon."
+      },
+      "evidence": [
+        {
+          "startUid": "u0041",
+          "endUid": "u0046",
+          "quote": "DM: And so we gather, we begin, as a few… folks, rangers, and others, gather… in the late afternoon sun, as the… sun begins to sink into the sky, and campfires spring up in the… protected, sheltered valleys just south of the battlefield itself, the sort of… a place where this stream that flows through the valley of the Heartroot, meets, meets the river that… that goes on to…"
+        },
+        {
+          "startUid": "u0047",
+          "endUid": "u0051",
+          "quote": "DM: And… you find yourself… sitting around a campfire, the four of you. As, you know, a constant stream of visitors comes by to… congratulate and thank you to… bring you well wishes, and… a stream of food and… drink, and… thanks and gratitude."
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0124",
+        "endUid": "u0129"
+      },
+      "reading": "Meals and the postbattle conversations occupy late afternoon into evening as sunset begins.",
+      "timeRange": {
+        "start": {
+          "partOfDay": "late afternoon",
+          "precision": "approximate",
+          "basis": "DM explicitly describes this interval."
+        },
+        "end": {
+          "partOfDay": "evening",
+          "precision": "approximate",
+          "basis": "DM describes sunset and the transition into evening."
+        }
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0124",
+          "endUid": "u0129",
+          "quote": "DM: Okay, so… As the sun… over the course of the late afternoon into the evening, as the sun begins to set, there's, you know, big, mess lines set up, and… you know, people are feeding the army, you're… you know, Kenzo is distracted by the… call of the Heartroot, just getting some food before… heading there, still with a connection to the Heartroot."
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0175",
+        "endUid": "u0184"
+      },
+      "reading": "As people leave dinner for sleep and stars rise, the party walks to the Heartroot in darkness.",
+      "time": {
+        "partOfDay": "nightfall",
+        "precision": "approximate",
+        "basis": "Stars rise, and the walk is explicitly dark and starlit; no overnight rest is established."
+      },
+      "evidence": [
+        {
+          "startUid": "u0175",
+          "endUid": "u0184",
+          "quote": "DM: So, as… people begin to drift off from… you know, the camp, from their meal, to drop off to sleep after an exhausting day. As the stars begin to rise, you can… you can feel the pull of the… Heartroot. I mean, Kenzo explicitly can feel like it's… It's… it's… you know, it's calling for you, it's… pulling at you. Not precisely that it's, you know. It kind of feels like it's… like, you can feel… you can feel it in the back of your mind, and it's… it's there, and it's almost… just hovering at the edge of your consciousness, just… kinda waiting for you, almost."
+        },
+        {
+          "startUid": "u0191",
+          "endUid": "u0194",
+          "quote": "DM: So… You find yourself walking through the battlefield. And then passing into the, sort of, Heartroot Valley with the… with the stars above. Still relatively thin… moon, crescent moon… dark and peaceful and calm. As you begin to walk towards the Heartroot."
+        },
+        {
+          "startUid": "u0206",
+          "endUid": "u0208",
+          "quote": "DM: Now, actually, coming here when it's dark, you can see, actually, there's a faint, sort of, bioluminescent pulse that seems to be, like, little… little filamentous lines of… of blue-white bioluminescence that run out from this sort of mound, stretching into the soil, and light kind of running along them, and these slow pulses, almost like a very slow heartbeat."
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0282",
+        "endUid": "u0288"
+      },
+      "reading": "The Mirror of the Past opens the Heartroot’s historical frame, from creation through unmeasured years to Rai’s visit.",
+      "context": "vision",
+      "note": "The vision’s compressed years and seasons do not advance the party’s adventure calendar.",
+      "evidence": [
+        {
+          "startUid": "u0282",
+          "endUid": "u0288",
+          "quote": "DM: So… So you hold up the mirror. And the vision begins to shift. And it… the image flickers. And eventually settles on… just, starlit, like, you're looking from above at a starlit landscape that seems to be almost undulating like a wave, but it looks like land."
+        },
+        {
+          "startUid": "u0383",
+          "endUid": "u0387",
+          "quote": "DM: And after this moment of creation, the image shifts, and it rapidly… blurs through years and years and years and years. The only… still in the same perspective, the only… constant—always in the middle, always at the center point where the greatest density of these filaments were— is green, and alive. And there's, you know, winters come through, and droughts, and the land shifts, yep."
+        },
+        {
+          "startUid": "u0475",
+          "endUid": "u0477",
+          "quote": "DM: As time passes again, vision speeds up and slows down. You can see the seasons passing, you can see the sun, the days passing. But you have no real sense of… of… length."
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u0357",
+        "endUid": "u0365"
+      },
+      "reading": "Wellby studies the mirror for about a minute before recognizing the Istaros.",
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM says after you stare at this a minute; this measures viewing rather than the vision’s historical years."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0357",
+          "endUid": "u0365",
+          "quote": "DM: Okay, so, resuming the vision. The land splits apart, and you see this line of light shooting up. And even though you are… far away, you are also somehow close, and you see growing out of this… the sort of middle of this line that's split apart in the land, like, the same little bioluminescent, filamentous, white, multicolored lines, sort of almost crawling up out of this. And, Wellby, after you stare at this a minute, you actually… I mean, the line… this line that's being pulled apart, that's light shooting up a bit, that's somehow being formed by… reshaping of the actual physical Earth. You recognize it from maps that you've looked at, it's… exactly the pattern of the Istaros."
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0512",
+        "endUid": "u0513"
+      },
+      "reading": "The mirror vision ends and the party resumes its present conversation beside the Heartroot.",
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t04"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0512",
+          "endUid": "u0513",
+          "quote": "DM: And then the image fades. And the vision ends."
+        },
+        {
+          "startUid": "u0514",
+          "endUid": "u0515",
+          "quote": "Kenzo: Wait, did I miss… like, so there was the part where, like, everything was contracting and stuff, but, like, is there… because this is from the perspective of the Heartroot, right? So… the Heartroot… did it move? Did it actually…"
+        },
+        {
+          "startUid": "u0516",
+          "endUid": "u0519",
+          "quote": "DM: Yeah, yeah, sorry, I… maybe that wasn't as clear as I meant it to be, so it was… somebody, you couldn't see who, fled the plague with a fragment of the Heartroot."
+        },
+        {
+          "startUid": "u0520",
+          "endUid": "u0520",
+          "quote": "Kenzo: Got it. Okay."
+        },
+        {
+          "startUid": "u0521",
+          "endUid": "u0521",
+          "quote": "DM: Presumably some ranger or somebody like that."
+        },
+        {
+          "startUid": "u0522",
+          "endUid": "u0522",
+          "quote": "Delwath: But wait, was the conversation with Rai taking place here?"
+        },
+        {
+          "startUid": "u0523",
+          "endUid": "u0523",
+          "quote": "DM: Here."
+        },
+        {
+          "startUid": "u0524",
+          "endUid": "u0524",
+          "quote": "Kenzo: Oh, in this example."
+        },
+        {
+          "startUid": "u0525",
+          "endUid": "u0525",
+          "quote": "Seeker: That's not."
+        },
+        {
+          "startUid": "u0526",
+          "endUid": "u0526",
+          "quote": "DM: In this exact spot."
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0780",
+        "endUid": "u0782"
+      },
+      "reading": "The party returns to camp and Cateline’s tent while it is still not very late that night.",
+      "time": {
+        "partOfDay": "early night",
+        "precision": "approximate",
+        "basis": "DM says it is still not super late; Cateline has just thanked the stars and the constellation is rising."
+      },
+      "evidence": [
+        {
+          "startUid": "u0780",
+          "endUid": "u0782",
+          "quote": "DM: Okay, so… you make your way back to camp, which is not far from here, just a couple miles, and find the… it's still not super late, right? Find the… the tent of… Cateline… Malras."
+        },
+        {
+          "startUid": "u0783",
+          "endUid": "u0789",
+          "quote": "DM: The… elderly woman, member of the Rangers, devotee of the Fox and Hunter, and… who had sort of… well, not that old, she's, like, mid-50s, something like that. Who had… spoken in the, in the War Council before the battle, as a sort of… She was the one who, like, blessed the water of the three wells that you—that you spoke to. And… and as you… you've… you know, walk through camp and find her. You actually find her, sitting outside, just having finished a prayer of thanksgiving to the stars, to Beryl."
+        },
+        {
+          "startUid": "u0839",
+          "endUid": "u0839",
+          "quote": "DM: “Now is the time.” She looks up, and you can see the constellation of the Fox and the Hunter rising in the sky."
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0849",
+        "endUid": "u0854"
+      },
+      "reading": "Cateline’s prayer draws the party into a trance showing the earlier Rai expedition.",
+      "context": "vision",
+      "evidence": [
+        {
+          "startUid": "u0849",
+          "endUid": "u0852",
+          "quote": "DM: And for a moment, you all seemed to… you're sort of… There's the smoke from the incense, the aroma, the… sound, she begins to sort of tap her fingers on… on some stones, with her ring sort of clicking, making a rhythmic pattern. You fall a little bit into a trance, and you… begin to see…"
+        },
+        {
+          "startUid": "u0853",
+          "endUid": "u0854",
+          "quote": "DM: It's not exactly a vision, it's more… you know, flashes of images."
+        },
+        {
+          "startUid": "u0855",
+          "endUid": "u0856",
+          "quote": "DM: And you can see the conversation that you saw in the mirror."
+        },
+        {
+          "startUid": "u0857",
+          "endUid": "u0858",
+          "quote": "DM: And then this wave of sadness and anger and fear washes over you, and you… You hear a sort of echo."
+        },
+        {
+          "startUid": "u0859",
+          "endUid": "u0863",
+          "quote": "DM: “We failed. It was not a portal. We didn't understand. The plane… itself spilled over. It could not be closed so simply.”"
+        },
+        {
+          "startUid": "u0866",
+          "endUid": "u0872",
+          "quote": "DM: Of… you see now a vision of… Rai, standing… in a dusty plain. You can see now the glitter of… the Istaros River in front of him, the city of Isingue behind. Mike, Beryl said in a vision, they… they failed. It wasn't a portal after all. It was the… plane spilling into the material world."
+        },
+        {
+          "startUid": "u0873",
+          "endUid": "u0876",
+          "quote": "DM: And then, a vision of Rai standing on the Istaros. The monks of the… awakened… Order of the Awakened Soul behind him, chanting, feeding energy into him. Reaching out, you can see him now reaching out with his hand, almost trying to manipulate something, like, feeling for threads of magic and trying to close something."
+        },
+        {
+          "startUid": "u0877",
+          "endUid": "u0878",
+          "quote": "DM: And pulling… with his hand, and something snaps, and you see Rai and the monks vanish. And his hand fragments into 5 pieces and fly away."
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1097",
+        "endUid": "u1105"
+      },
+      "reading": "The party wakes from Beryl’s vision and returns to the current camp conversation.",
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t07"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1097",
+          "endUid": "u1097",
+          "quote": "DM: There you go. So… okay, so, you finished talking to Beryl."
+        },
+        {
+          "startUid": "u1098",
+          "endUid": "u1105",
+          "quote": "DM: And you sort of wake up from this vision with a sort of… a sense of what Beryl had learned from this failed attempt, the sort of instigating event of all… everything that's happened since was… the failed attempt to close a portal that was not actually a portal. And instead, some kind of vortex or spillover wound, some… extraplanar… you know, some twisted extraplanar geometry created by the… by Cha'mutte's death that… caused a gash between Limbo and the material plane, where Isingue is, where the center of the plague that Cha'mutte created was, the most, the place that was… that was the densest of the magic he had used to create this plague, and…"
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1337",
+        "endUid": "u1337"
+      },
+      "reading": "After the departure discussion, play advances to a completed research stay in Tollen lasting a few weeks, perhaps up to a month.",
+      "duration": {
+        "text": "a few weeks, maybe up to a month",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "DM narrates time spent in Tollen, then restates the same interval; this is one montage."
+      },
+      "completion": "completed",
+      "note": "Travel duration, precise calendar endpoints, and individual research-day watches are not supplied.",
+      "evidence": [
+        {
+          "startUid": "u1337",
+          "endUid": "u1337",
+          "quote": "DM: So… over the course of a few weeks, you spend time in Tollen."
+        },
+        {
+          "startUid": "u1338",
+          "endUid": "u1338",
+          "quote": "DM: Trade some info… trade some items to the Philosopher's Guild."
+        },
+        {
+          "startUid": "u1339",
+          "endUid": "u1340",
+          "quote": "DM: Use the libraries of your Bastion, and also the University at Tollen, and all of the resources there to… try to figure out as much as you can about how to survive and thrive in Limbo."
+        },
+        {
+          "startUid": "u1341",
+          "endUid": "u1342",
+          "quote": "DM: How to heal a Limbo wound. And… how to… decontaminate the material plane."
+        },
+        {
+          "startUid": "u1343",
+          "endUid": "u1344",
+          "quote": "DM: And over the course of… a few weeks… maybe up to a month, you spend time in Tollen, learning this information."
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "conflict",
+    "dateAnchor": "No campaign date is spoken. August 12, 1749 is the YAML working date for the postbattle opening; the closing weeks-long Tollen montage is independently narrated.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t07",
+      "t10"
+    ],
+    "explanation": "The assessed adventure interval includes the battle aftermath and the narrated weeks of Tollen research at u1337–u1344. That elapsed stay contradicts same-day drStart/drEnd under any reasonable boundary reading. Its exact length and travel gap remain open; the historical visions do not extend the adventure span."
+  }
+}

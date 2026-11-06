@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-134/cleaned/dunmari-frontier-134-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-134/cleaned/dunmari-frontier-134-time-markers.json",
+    "sha256": "d85c843295e8709046524314652eb3bffa66c9794e4bb55fa428b4ee3a8a587b"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-134/cleaned/dunmari-frontier-134-transcript.md",
+    "sha256": "8c9fa7aaa39df37312e662a2ded109f8c80602e61ee4449a1b53e1b98da347b6"
+  },
+  "dateAssessment": "August 12, 1749 is the YAML working date for the battle aftermath, not an independently spoken date. The evening anchors fit that opening. The time extraction records a conflict: u1337–u1344 narrates a few weeks, perhaps up to a month, of Tollen research, so the same-day YAML drEnd cannot cover the played interval. Exact departure, travel duration, and Tollen endpoints remain open. Historical mirror and divine visions have separate local frames and add no adventure years. DF135 intervenes as registered raw notes: its prepared source u0116–u0118 recounts the later Orenlas stop after Tollen, while its YAML gives September 14–16. That handoff supplies no exact DF134 end date; no direct DF134-to-DF136 continuity is assumed.",
+  "watches": [
+    {
+      "day": "August 12, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "The army rout unfolds through afternoon; the four PCs gather in late-afternoon sunlight.",
+      "markers": [
+        "t01",
+        "t02"
+      ],
+      "startDate": "1749-08-12",
+      "endDate": "1749-08-12"
+    },
+    {
+      "day": "August 12, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Postbattle meals and conversations continue from late afternoon into sunset.",
+      "markers": [
+        "t03"
+      ],
+      "startDate": "1749-08-12",
+      "endDate": "1749-08-12"
+    },
+    {
+      "day": "August 12, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Stars rise; Wellby studies the mirror about a minute; the camp return is still not late.",
+      "markers": [
+        "t04",
+        "t11",
+        "t06",
+        "t07",
+        "t09"
+      ],
+      "startDate": "1749-08-12",
+      "endDate": "1749-08-12",
+      "sourceRanges": [
+        [
+          "u0839",
+          "u0839"
+        ]
+      ]
+    },
+    {
+      "day": "Heartroot historical vision",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Creation, seasons, and unmeasured years lead to Rai’s visit; no adventure years elapse.",
+      "markers": [
+        "t05"
+      ],
+      "clock": "local",
+      "scope": "Mirror of the Past"
+    },
+    {
+      "day": "Beryl’s historical vision",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The prayer shows Rai’s earlier failed expedition; its historical frame supplies no current clock.",
+      "markers": [
+        "t08"
+      ],
+      "clock": "local",
+      "scope": "Divine trance"
+    },
+    {
+      "day": "Following weeks in Tollen; exact dates open",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The DM completes one research montage of a few weeks, perhaps up to a month.",
+      "markers": [
+        "t10"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "DF135 raw-notes registration",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-135/cleaned/dunmari-frontier-135-session.yaml",
+      "sha256": "ebce4afc6ee4f9792290ac80f0cbafc36ebf7fed1dd27b903c252258aa26d9cc"
+    },
+    {
+      "label": "DF135 prepared raw notes, u0116–u0118",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-135/cleaned/dunmari-frontier-135-source-prepared.md",
+      "sha256": "7befd1de568fbed96fc9aae66bc48398df7db66d78df9f0aaf00e98a4fd083cb"
+    },
+    {
+      "label": "DF130 narrative and Vertex attribution",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 130 (DuFr).md",
+      "sha256": "afa44c079460e6ad6079d415add64d4667856410db4534bba8ab0358f742862f"
+    }
+  ]
+}

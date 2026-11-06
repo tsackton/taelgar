@@ -1,0 +1,215 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-134",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-134/cleaned/dunmari-frontier-134-session.yaml",
+    "sessionYamlSha256": "65cadd664715ad0bba63fd600ad44fad56e62278990597aa756a8fd7138823c7",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-134/cleaned/dunmari-frontier-134-transcript.md",
+    "transcriptSha256": "8c9fa7aaa39df37312e662a2ded109f8c80602e61ee4449a1b53e1b98da347b6"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0006"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0007",
+        "endUid": "u0111"
+      },
+      "category": "gameplay",
+      "note": "The opening advances the afternoon battle resolution and establishes the camp; it is active narrated play rather than a recap-only framing span."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0112",
+        "endUid": "u0120"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0121",
+        "endUid": "u0301"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0302",
+        "endUid": "u0356"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0357",
+        "endUid": "u0538"
+      },
+      "category": "gameplay",
+      "note": "The mirror’s historical events are played vision narration; no initiative or repeated ordered combat turns are established."
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0539",
+        "endUid": "u0543"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0544",
+        "endUid": "u0584"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0585",
+        "endUid": "u0665"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u0666",
+        "endUid": "u0679"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u0680",
+        "endUid": "u0692"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u0693",
+        "endUid": "u0741"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u0742",
+        "endUid": "u0779"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u0780",
+        "endUid": "u0978"
+      },
+      "category": "gameplay",
+      "note": "Beryl’s vision and its question-and-answer discussion remain active play; the long later research debate is separated."
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u0979",
+        "endUid": "u1042"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u1043",
+        "endUid": "u1051"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u1052",
+        "endUid": "u1096"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u1097",
+        "endUid": "u1168"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u1169",
+        "endUid": "u1302"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u1303",
+        "endUid": "u1304"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u1305",
+        "endUid": "u1336"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u1337",
+        "endUid": "u1344"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u1345",
+        "endUid": "u1358"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s024",
+      "source": {
+        "startUid": "u1359",
+        "endUid": "u1441"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s025",
+      "source": {
+        "startUid": "u1442",
+        "endUid": "u1478"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

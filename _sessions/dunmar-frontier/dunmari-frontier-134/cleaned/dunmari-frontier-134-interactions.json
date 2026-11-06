@@ -1,0 +1,1727 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-134/cleaned/dunmari-frontier-134-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "8c9fa7aaa39df37312e662a2ded109f8c80602e61ee4449a1b53e1b98da347b6"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-134/cleaned/dunmari-frontier-134-entity-map.json",
+      "sha256": "3ddd8196207bcd15b26a299b8c781172ac3bce7a1c31e782d6811b305e120308"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "The hobgoblin rout and safety of the Heartroot",
+      "entities": [
+        {
+          "id": "e012",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0031",
+        "endUid": "u0040"
+      },
+      "lines": [
+        "%% u0031:0-64, u0032:0-34, u0033:0-42, u0034:0-23, u0035:0-68, u0036:0-81, u0037:0-88, u0038:0-46, u0039:0-129, u0040:0-34 %%",
+        "DM: And over the course of the afternoon, the hobgoblin lines break. The Rangers… harry and chase them, driving the few survivors from the valley, towards the cliff edge, only to be met by the marching Stoneborn army coming from the south, who provides the definitive final victory against the hobgoblin troops. Now, many stand and fight to the end, but many realizing their fate scatter in various directions, flee up into the mountains, flee to the north. It is… not possible to… well, not straightforward to hunt down every loose end. But… for now, anyway, for the foreseeable future, Aurbez and the Heartroot are safe.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Seeker 5 RIP.",
+          "DM: Seeker 5… Yes. Seeker discovering his perfect… combat setup. Protected by a force cage.",
+          "Seeker: Always. Or nearly so.",
+          "DM: Yeah, it was great up until the wave of burning water crashed into you.",
+          "DM: So… after you defeated the Empress of Chaos, and flew back to the battle, with your… silver dragon ally, the tide of battle quickly shifted, and over the course of the afternoon, the defenders of Aurbez, the lizardfolk, the hippopotamuses, the… rangers and archers, were eventually able to not… without… at times, heavy casualties, but… many were protected by the fact that when they die in hippo form, they don't actually die, they just revert to their human form. Others by… saved by the… illusory dragon that started the battle, or the silver dragon that ended the battle."
+        ],
+        "after": [
+          "DM: And so we gather, we begin, as a few… folks, rangers, and others, gather… in the late afternoon sun, as the… sun begins to sink into the sky, and campfires spring up in the… protected, sheltered valleys just south of the battlefield itself, the sort of… a place where this stream that flows through the valley of the Heartroot, meets, meets the river that… that goes on to…",
+          "DM: And… you find yourself… sitting around a campfire, the four of you. As, you know, a constant stream of visitors comes by to… congratulate and thank you to… bring you well wishes, and… a stream of food and… drink, and… thanks and gratitude.",
+          "DM: Some rangers drift through; your crew, Hektor and Marcella, reconnect.",
+          "DM: And… at this point, I mean, any… anybody you want to talk to, any… and sort of leaving a space open for any kind of… role-playing moments.",
+          "Kenzo: Kenzo actually, after the battle, I'm not sure when the right time for this, but, Kenzo wants to go back… goes back to the Heartroot, and, like… spends a bunch of time there, kinda… Yeah, just, communing with it, also, like, trying to learn more about it. Like, is it… how old is it? Like, how… what's the, you know… Kenzo's, like, very… you know, Kenzo's obviously got, got a bond with this, this—this is Kenzo's lair now, pretty soon."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Hektor and Marcella reconnect",
+      "entities": [
+        {
+          "id": "e006",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e007",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0052",
+        "endUid": "u0052"
+      },
+      "lines": [
+        "%% u0052:0-70 %%",
+        "DM: Some rangers drift through; your crew, Hektor and Marcella, reconnect.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah, it was great up until the wave of burning water crashed into you.",
+          "DM: So… after you defeated the Empress of Chaos, and flew back to the battle, with your… silver dragon ally, the tide of battle quickly shifted, and over the course of the afternoon, the defenders of Aurbez, the lizardfolk, the hippopotamuses, the… rangers and archers, were eventually able to not… without… at times, heavy casualties, but… many were protected by the fact that when they die in hippo form, they don't actually die, they just revert to their human form. Others by… saved by the… illusory dragon that started the battle, or the silver dragon that ended the battle.",
+          "DM: And over the course of the afternoon, the hobgoblin lines break. The Rangers… harry and chase them, driving the few survivors from the valley, towards the cliff edge, only to be met by the marching Stoneborn army coming from the south, who provides the definitive final victory against the hobgoblin troops. Now, many stand and fight to the end, but many realizing their fate scatter in various directions, flee up into the mountains, flee to the north. It is… not possible to… well, not straightforward to hunt down every loose end. But… for now, anyway, for the foreseeable future, Aurbez and the Heartroot are safe.",
+          "DM: And so we gather, we begin, as a few… folks, rangers, and others, gather… in the late afternoon sun, as the… sun begins to sink into the sky, and campfires spring up in the… protected, sheltered valleys just south of the battlefield itself, the sort of… a place where this stream that flows through the valley of the Heartroot, meets, meets the river that… that goes on to…",
+          "DM: And… you find yourself… sitting around a campfire, the four of you. As, you know, a constant stream of visitors comes by to… congratulate and thank you to… bring you well wishes, and… a stream of food and… drink, and… thanks and gratitude."
+        ],
+        "after": [
+          "DM: And… at this point, I mean, any… anybody you want to talk to, any… and sort of leaving a space open for any kind of… role-playing moments.",
+          "Kenzo: Kenzo actually, after the battle, I'm not sure when the right time for this, but, Kenzo wants to go back… goes back to the Heartroot, and, like… spends a bunch of time there, kinda… Yeah, just, communing with it, also, like, trying to learn more about it. Like, is it… how old is it? Like, how… what's the, you know… Kenzo's, like, very… you know, Kenzo's obviously got, got a bond with this, this—this is Kenzo's lair now, pretty soon.",
+          "DM: So, so I think, I mean, I had assumed that you were gonna do that. I think maybe it would make sense for that to sort of happen as night falls, and the stars rise, and the Fox and Hunter are in the sky. And maybe all of you go talk to the Heartroot?",
+          "Kenzo: Alright, that works.",
+          "DM: You know."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Seeker rests beside the heroic Ladder",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0090",
+        "endUid": "u0096"
+      },
+      "lines": [
+        "%% u0090:0-81, u0091:0-80, u0092:0-136, u0093:0-14, u0094:0-43, u0095:0-14, u0096:0-14 %%",
+        "Seeker: ((Beard maintenance)) you'll notice, if you look closely, that he's resting not against a pillow, but a different, rolled-up ropey… object, which he occasionally turns and murmurs to. The quiescent, heroic ladder.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Yeah, so I mean, Delwath will certainly, like, wander around and check in on people and, you know… the… the… like, what, you know, just… what's the vibe of the camp? You know, I… it's hard to…",
+          "Delwath: I don't have a very clear sense of, like, how badly injured is the army. Is it, like, you know, half of them are dead, or is it, like, you know, how much of a disaster was this for the people?",
+          "DM: The general mood is, you know, it could have been a lot worse. You know. People died, probably… a tenth, or a… between a tenth and a… fifth of the army, but… many people didn't die who expected to die, so… while people are grieving, it's sort of like… There's an air of… you know.",
+          "Delwath: Right.",
+          "DM: There's a… there's a lot of relief and… and kinda… “we dodged a bullet” type of vibe in the camps."
+        ],
+        "after": [
+          "Kenzo: In the epilogue, where's the statue of the ladder go? Where's the… Who is honoring the ladder? Where's that happening?",
+          "Seeker: Like a 10x larger than life.",
+          "Kenzo: Yeah.",
+          "DM: Statue, yeah. I mean…",
+          "Wellby: I think it's gotta be, like, historic markers, like, every place the ladder did something significant, like, gets a huge pillar, like…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "The Rangers’ secret and Isingue’s old blessing",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0157",
+        "endUid": "u0161"
+      },
+      "lines": [
+        "%% u0157:0-145, u0158:0-29, u0159:0-34 %%",
+        "DM: Yeah, I mean, you get a sense, and of course, most people didn't really know about the Heartroot, right? This was a secret that the Rangers kept, partly with the hope that in… in secrecy, it would be protected.",
+        "",
+        "%% u0160:0-146, u0161:0-105 %%",
+        "DM: But you sort of get the feeling people aren't surprised. Like, there's all these rumors, there's these stories and legends and tales of, you know, their ancestors in Isingue, and how it was this magical place of… fertile crops and… healthy people, and…",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And… for a while, it was pretty… there wasn't that, you know, weren't that many people here, they were all pretty isolated from each other. They didn't really start to become a… alliance until the War of the Ashen Horde. It was about a generation ago, maybe… maybe two generations… yeah, about a generation ago. It was 1720, so… you know. 30 years ago, roughly. And… during this war, there were…",
+          "DM: [garbled], you know, so there's ash storms that blow from the Plaguelands, often in the late summers. And… you know, make agriculture difficult, especially below the plateau. The ash storms tend to not spread super far up on the escarpment, up on this higher altitude ledge.",
+          "DM: And… during the War of the Ashen Horde, the… particularly strong ash storms spawned a bunch of… armies of some kind of ash elemental that nobody really understood how to fight or kill. And they swept through these isolated villages, and that was the sort of… what many people consider the sort of founding point of the re-founded alliance of Aurbez.",
+          "DM: And… since then, it's been… you know, pretty peaceful until now, so people have thrived, like, it's a… It's a marginal land, there's not, you know, it's hard to grow stuff, it's… hot in the summer, it's dry, there's not that much water.",
+          "DM: But… up in the mountains, it's nice. And there's… snowmelt, there's, you know. It's sort of like the Colorado Front Range in some ways. You know, lots of little streams fed by snowmelt from the… from the Sentinels, which are not, you know, just to the west of here. Pretty safe, because not much can climb… not much comes up from the… valley below."
+        ],
+        "after": [
+          "DM: So, I mean, that's kind of the vibe, it's… it's… It's never been densely settled, so very lightly populated, there's no cities. The biggest city is down off the… plateau. There's a road that goes between… I mean, you would have traveled… Wellby would have traveled on the… the road that goes between Dunmar, and… and Sembara. And that road… but that road runs along the bottom of the… escarpment, for the most part, and it then cuts up to cross the passes.",
+          "DM: And the people who live in Aurbez are sort of… you know, there's people who live down along the road, right? But they're… and they're part of the alliance, right? I mean, Aursenbourg is the one city that there was the, you know, the burgher of Aursenbourg who was arguing to defend the town, but… culturally, there's… culturally, there's a lot of… you know, a much bigger Ranger presence up here. People are independent, self-sufficient. You know, kind of frontier-ish vibe.",
+          "DM: So, as… people begin to drift off from… you know, the camp, from their meal, to drop off to sleep after an exhausting day. As the stars begin to rise, you can… you can feel the pull of the… Heartroot. I mean, Kenzo explicitly can feel like it's… It's… it's… you know, it's calling for you, it's… pulling at you. Not precisely that it's, you know. It kind of feels like it's… like, you can feel… you can feel it in the back of your mind, and it's… it's there, and it's almost… just hovering at the edge of your consciousness, just… kinda waiting for you, almost.",
+          "Kenzo: Go over.",
+          "Delwath: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "The Heartroot stretches through its refuge valley",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u0195",
+        "endUid": "u0230"
+      },
+      "lines": [
+        "%% u0195:0-77, u0196:0-47 %%",
+        "DM: You can feel its… all of you can feel its presence. I mean, Kenzo especially. There's a vitality about the… about the valley.",
+        "",
+        "%% u0197:0-80 %%",
+        "Seeker: Did it relax and unfold after the combat? Yes. Because it contracted, didn't it?",
+        "",
+        "%% u0198:0-119, u0199:0-82, u0200:0-10 %%",
+        "DM: Yes, it's spread out, you can see it's, you know, the… it's almost like it's… when you look at it, it's sort of a mass… of roots, actually, and it's begun to… it's almost like it's beginning to stretch. Like, “ugh.”",
+        "",
+        "%% u0201:0-5 %%",
+        "Seeker: Long.",
+        "",
+        "%% u0202:0-55, u0203:0-93 %%",
+        "DM: Like that, like… roots begin to spread out. You can see little, like, tendrils of vines growing, almost growing as you watch across the valley floor.",
+        "",
+        "%% u0204:0-57, u0205:0-39 %%",
+        "DM: There's still this sort of smell of… yeast and bread and… the air after a rain… The… the sort of…",
+        "",
+        "%% u0206:0-106, u0207:0-66, u0208:0-189 %%",
+        "DM: Now, actually, coming here when it's dark, you can see, actually, there's a faint, sort of, bioluminescent pulse that seems to be, like, little… little filamentous lines of… of blue-white bioluminescence that run out from this sort of mound, stretching into the soil, and light kind of running along them, and these slow pulses, almost like a very slow heartbeat.",
+        "",
+        "%% u0209:0-16 %%",
+        "Seeker: Running outward.",
+        "",
+        "%% u0210:0-98, u0211:0-16 %%",
+        "DM: Running outward, yeah, from the sort of central area, central mound, where the Heartroot, kind of, is concentrated.",
+        "",
+        "%% u0212:0-4 %%",
+        "Seeker: Mmm.",
+        "",
+        "%% u0213:0-62 %%",
+        "Kenzo: Are we all… like, experiencing the Heartroot in a similar way?",
+        "",
+        "%% u0214:0-49, u0215:0-47, u0216:0-107, u0217:0-29 %%",
+        "DM: Yeah, I mean, so Kenzo's… Kenzo's probably… more… deeply attuned to it than anybody else, having, connected with it during the battle. But yeah, you're all seeing the same things and have the same sort of… you know, sensory experience.",
+        "",
+        "%% u0218:0-42, u0219:0-23, u0220:0-41 %%",
+        "Seeker: Does it look like… it used to be attached to a tree or something? Like, what does it look like botanically?",
+        "",
+        "%% u0221:0-75 %%",
+        "DM: It looks like… mostly, like, roots, like… it's like… It's like soil that…",
+        "",
+        "%% u0222:0-18 %%",
+        "Seeker: It's like a towel.",
+        "",
+        "%% u0223:0-31, u0224:0-57 %%",
+        "DM: Gather, yeah, like a root ball. And there's moss and stuff growing on top of it, but not…",
+        "",
+        "%% u0225:0-15 %%",
+        "Delwath: There's no way…",
+        "",
+        "%% u0226:0-11 %%",
+        "DM: It was not…",
+        "",
+        "%% u0227:0-15 %%",
+        "Delwath: Directionality.",
+        "",
+        "%% u0228:0-60 %%",
+        "DM: There's not, like, a trunk growing up or anything like that.",
+        "",
+        "%% u0229:0-6 %%",
+        "Seeker: Order.",
+        "",
+        "%% u0230:0-176 %%",
+        "DM: You can see that it's kind of spreading along the edge of the val- you know, out from the sort of center. It seems to want to grow, but it's kept from doing so for some reason.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Yeah.",
+          "DM: So, and… oh, actually, that reminds me, one other thing I wanted to… remind you of.",
+          "DM: It's been a while since you used a mirror, just, you know, in case that comes up and you want to use the mirror.",
+          "Kenzo: Oh, snap.",
+          "DM: So… You find yourself walking through the battlefield. And then passing into the, sort of, Heartroot Valley with the… with the stars above. Still relatively thin… moon, crescent moon… dark and peaceful and calm. As you begin to walk towards the Heartroot."
+        ],
+        "after": [
+          "Kenzo: This is random, I'm not sure we've ever done this before, but, could we show the mirror the Heartroot?",
+          "DM: Yeah.",
+          "Seeker: Hmm.",
+          "Wellby: Awesome.",
+          "Kenzo: Is that an interesting thing to do? What are the other things we want to show?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "The Heartroot’s home and history in the Mirror of the Past",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0244",
+        "endUid": "u0526"
+      },
+      "lines": [
+        "%% u0244:0-140, u0245:0-66, u0246:0-54 %%",
+        "Kenzo: Well, before we do that, Tim, is there a sense, you know how, like, you're saying, like, it wants to spread out, but it feels like it can't? Like, I kind of sit with that resistance, like, what is resisting? What is preventing it from going where it wants to go?",
+        "",
+        "%% u0247:0-71 %%",
+        "DM: The… the… the stream that flows through this valley is the wrong shape.",
+        "",
+        "%% u0248:0-34 %%",
+        "Kenzo: Oh, yeah, I think we talked about…",
+        "",
+        "%% u0249:0-57 %%",
+        "DM: You always have this… you already had this sort of sense.",
+        "",
+        "%% u0250:0-35 %%",
+        "Kenzo: Yeah, yeah, yeah, yeah. Okay, yeah.",
+        "",
+        "%% u0251:0-15 %%",
+        "Seeker: Being in shape.",
+        "",
+        "%% u0252:0-154, u0253:0-186 %%",
+        "Kenzo: The final… well, the final mission is we need to bring it to the… we need to bring the Heartroot with us and bring it home, basically. That's kind of the… And actually, showing the mirror actually is gonna be super interesting, because it will… it will bring us back to some of the history of, like, all the weird shit, how it ended up here.",
+        "",
+        "%% u0254:0-5 %%",
+        "Wellby: Yeah.",
+        "",
+        "%% u0255:0-57 %%",
+        "Kenzo: To be, it used to be where the, the polluted… Plaguelands.",
+        "",
+        "%% u0256:0-18 %%",
+        "Wellby: Isingue, isn't it?",
+        "",
+        "%% u0257:0-4 %%",
+        "DM: Yep.",
+        "",
+        "%% u0258:0-82 %%",
+        "Kenzo: Yeah, let's do it. Should we show the… let's do the mirror to the Heartroot, yeah?",
+        "",
+        "%% u0259:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u0260:0-49, u0261:0-83, u0262:0-3, u0263:0-5 %%",
+        "((Decision to begin the mirror examination))",
+        "",
+        "%% u0264:0-75, u0265:0-107, u0266:0-6, u0267:0-109 %%",
+        "DM: You take out the portable hole and slowly pull the… Mirror of the Past out. Hold it up so that the reflection of the moonlight shines onto the sort of central mound of the Heartroot. Kenzo… turns, and what is… what do you… what is the sort of question that you're using to guide your mirror visions?",
+        "",
+        "%% u0268:0-35 %%",
+        "Kenzo: It's like, “Tell me about your home.”",
+        "",
+        "%% u0269:0-83 %%",
+        "Delwath: Yeah, I was… We're on the same wavelength, so I was gonna say the same thing. Home.",
+        "",
+        "%% u0270:0-5 %%",
+        "Kenzo: Damn.",
+        "",
+        "%% u0271:0-9 %%",
+        "Delwath: But also…",
+        "",
+        "%% u0272:0-116 %%",
+        "Seeker: Being taken from your home, because who knows what this life story was in the long [garbled]. The thing may be very old.",
+        "",
+        "%% u0273:0-89, u0274:0-67 %%",
+        "Kenzo: Yeah, but it's like, “Tell me, tell the story, tell all aspects of the story of your home.” “Like, where it is, where you long to go, where you were taken from.”",
+        "",
+        "%% u0275:0-52 %%",
+        "Seeker: Do we want to know, like, from when you were a seed?",
+        "",
+        "%% u0276:0-11, u0277:0-28 %%",
+        "Wellby: Yeah, sure. Like, your whole life story.",
+        "",
+        "%% u0278:0-137 %%",
+        "Wellby: And, like, what do you need to flourish? Like, if we're gonna transplant it, do we just, like, drop it in the dirt somewhere, or does it…",
+        "",
+        "%% u0279:0-73, u0280:0-77, u0281:0-75 %%",
+        "((Gardening aside))",
+        "",
+        "%% u0282:0-30, u0283:0-31, u0284:0-27, u0285:0-32, u0286:0-53, u0287:0-34, u0288:0-47 %%",
+        "DM: So… So you hold up the mirror. And the vision begins to shift. And it… the image flickers. And eventually settles on… just, starlit, like, you're looking from above at a starlit landscape that seems to be almost undulating like a wave, but it looks like land.",
+        "",
+        "%% u0289:0-61, u0290:0-155, u0291:0-64, u0292:0-72, u0293:0-34 %%",
+        "DM: And then there's this… flash of light of some kind, but it's… it registers in your eyes as almost the absence of darkness instead of bright light itself. It's… it's something like you've never experienced before. And… light begins to… shoot up, this shoot up from the center of the… of the image that you're looking at, and the land pulls apart, and then… begins to settle slowly into form.",
+        "",
+        "%% u0294:0-16, u0295:0-80, u0296:0-36, u0297:0-21, u0298:0-43, u0299:0-31, u0300:0-20, u0301:0-49, u0302:0-23, u0303:0-28, u0304:0-61, u0305:0-6, u0306:0-12, u0307:0-59, u0308:0-5, u0309:0-29, u0310:0-27, u0311:0-56, u0312:0-8, u0313:0-55, u0314:0-39, u0315:0-63, u0316:0-59, u0317:0-140, u0318:0-15, u0319:0-27, u0320:0-4, u0321:0-15, u0322:0-56, u0323:0-67, u0324:0-58, u0325:0-6, u0326:0-61, u0327:0-48, u0328:0-15, u0329:0-147, u0330:0-47, u0331:0-94, u0332:0-4, u0333:0-99, u0334:0-18, u0335:0-26, u0336:0-10, u0337:0-38, u0338:0-92, u0339:0-5, u0340:0-20, u0341:0-20, u0342:0-41, u0343:0-116, u0344:0-78, u0345:0-3, u0346:0-18, u0347:0-8, u0348:0-25, u0349:0-21, u0350:0-61, u0351:0-5, u0352:0-35, u0353:0-9, u0354:0-26, u0355:0-186, u0356:0-54 %%",
+        "((Connection interruption and unrelated table talk))",
+        "",
+        "%% u0357:0-97, u0358:0-95, u0359:0-121, u0360:0-70, u0361:0-166, u0362:0-39, u0363:0-17, u0364:0-38, u0365:0-35 %%",
+        "DM: Okay, so, resuming the vision. The land splits apart, and you see this line of light shooting up. And even though you are… far away, you are also somehow close, and you see growing out of this… the sort of middle of this line that's split apart in the land, like, the same little bioluminescent, filamentous, white, multicolored lines, sort of almost crawling up out of this. And, Wellby, after you stare at this a minute, you actually… I mean, the line… this line that's being pulled apart, that's light shooting up a bit, that's somehow being formed by… reshaping of the actual physical Earth. You recognize it from maps that you've looked at, it's… exactly the pattern of the Istaros.",
+        "",
+        "%% u0366:0-17 %%",
+        "Kenzo: Path of the what?",
+        "",
+        "%% u0367:0-16 %%",
+        "Seeker: Is that a river?",
+        "",
+        "%% u0368:0-44 %%",
+        "DM: Istaros is the river that runs past Isingue.",
+        "",
+        "%% u0369:0-10 %%",
+        "Seeker: Of course.",
+        "",
+        "%% u0370:0-4 %%",
+        "Kenzo: How?",
+        "",
+        "%% u0371:0-4 %%",
+        "DM: And…",
+        "",
+        "%% u0372:0-17, u0373:0-5 %%",
+        "Kenzo: Oh, go, go ahead. Okay.",
+        "",
+        "%% u0374:0-52, u0375:0-92, u0376:0-202, u0377:0-141 %%",
+        "DM: So, and as you, as you watch, you can see, suddenly, this sort of riotous colors, like, washing across the landscape, and then almost a sense of… of, like, you know, multiple layers of bubbles, like, separating, right? Like, there's, you know, like, if you have two soap bubbles, right, and they pull apart like that, and many of them begin to pop. Like, it's almost you see this sort of pulling off, these, like, films of color, like, pulling off of the world that you're looking at below.",
+        "",
+        "%% u0378:0-20, u0379:0-94, u0380:0-84, u0381:0-37, u0382:0-19 %%",
+        "DM: Oh, meanwhile, well. You still see this… the only thing that's lit up is this… is the light shining up through the… formation of the Istaros. Meanwhile, you still see this, like, filamentous, sort of… illuminated lines begin to crawl out along… the Istaros.",
+        "",
+        "%% u0383:0-34, u0384:0-33, u0385:0-101, u0386:0-110, u0387:0-105 %%",
+        "DM: And after this moment of creation, the image shifts, and it rapidly… blurs through years and years and years and years. The only… still in the same perspective, the only… constant—always in the middle, always at the center point where the greatest density of these filaments were— is green, and alive. And there's, you know, winters come through, and droughts, and the land shifts, yep.",
+        "",
+        "%% u0388:0-93, u0389:0-104 %%",
+        "Kenzo: Like, that very first moment, where it's, like, the thing, like, cracks open, whatever, like… How old is that? Is that, like… does that feel like some beginning of time shit? Or, like, what is that?",
+        "",
+        "%% u0390:0-11 %%",
+        "DM: Yeah, yeah.",
+        "",
+        "%% u0391:0-20 %%",
+        "Kenzo: So, so this is like…",
+        "",
+        "%% u0392:0-72 %%",
+        "DM: Like, that's like when the planes were… when the multiverse was created.",
+        "",
+        "%% u0393:0-46 %%",
+        "Seeker: I was wondering if that's what that was. Whoa.",
+        "",
+        "%% u0394:0-35 %%",
+        "Kenzo: The crown? When was the crown made?",
+        "",
+        "%% u0395:0-12 %%",
+        "DM: Same moment.",
+        "",
+        "%% u0396:0-23 %%",
+        "Delwath: Or no, same time, yeah.",
+        "",
+        "%% u0397:0-35 %%",
+        "Kenzo: Very interesting. Very interesting.",
+        "",
+        "%% u0398:0-77, u0399:0-228, u0400:0-252 %%",
+        "DM: Well, that was, like, the mythology of Taelgar, is that there was… pre… like… before the multiverse existed, all… everybody, like, all the gods just walked around the Earth. And then there was the Riving, where all the magic was segregated out into the extra… other planes, so that the material plane could exist as a real place. But there's all sorts of, like, little fragments of that moment. That's, like, the footprint of the gods that Kenzo went to in your solo adventure was also a relic of that same moment that was, like, tied to the elemental planes.",
+        "",
+        "%% u0401:0-5 %%",
+        "Seeker: Whoa.",
+        "",
+        "%% u0402:0-5 %%",
+        "Kenzo: Cool.",
+        "",
+        "%% u0403:0-3, u0404:0-5 %%",
+        "DM: So… Yeah.",
+        "",
+        "%% u0405:0-38, u0406:0-31, u0407:0-31, u0408:0-32 %%",
+        "Seeker: I'm just looking at the river Istaros. We've… we've been there before. Haven't we? Isn't… is the city… The rainbow orcs on their river?",
+        "",
+        "%% u0409:0-20, u0410:0-50 %%",
+        "DM: It flows right past. It also is the same river that flows past Drankor.",
+        "",
+        "%% u0411:0-3 %%",
+        "Seeker: Oh…",
+        "",
+        "%% u0412:0-4 %%",
+        "Wellby: Hmm.",
+        "",
+        "%% u0413:0-61 %%",
+        "Seeker: Oh, I didn't look down that far south. That's the same river.",
+        "",
+        "%% u0414:0-46, u0415:0-47 %%",
+        "DM: And, if anybody looks at a map of the Feywild, it is also exactly the path of the Sunset Gate.",
+        "",
+        "%% u0416:0-28 %%",
+        "Seeker: We have maps of the Feywild.",
+        "",
+        "%% u0417:0-8 %%",
+        "Delwath: I think.",
+        "",
+        "%% u0418:0-5 %%",
+        "Seeker: Whoa.",
+        "",
+        "%% u0419:0-39 %%",
+        "Delwath: Does anybody have a map of the Feywild?",
+        "",
+        "%% u0420:0-51 %%",
+        "DM: Actually, probably nobody has a map of the Feywild.",
+        "",
+        "%% u0421:0-108 %%",
+        "Delwath: I mean, I know what you're talking about, because I have that map of the Feywild, but I don't think it's in.",
+        "",
+        "%% u0422:0-58 %%",
+        "Kenzo: Well, it's like, don't make sense, because it's not, like…",
+        "",
+        "%% u0423:0-40 %%",
+        "Wellby: Not, you know… I'll try to guess it out.",
+        "",
+        "%% u0424:0-35, u0425:0-96 %%",
+        "DM: This just doesn't match one-to-one. So, 50 miles could be 1 mile or 200 miles, but it's close, right? There's features that overlap.",
+        "",
+        "%% u0426:0-80 %%",
+        "Kenzo: But is it still, like, the pinky bones connected to the hand bone type of thing?",
+        "",
+        "%% u0427:0-23 %%",
+        "DM: Yeah, yeah, yeah, yeah.",
+        "",
+        "%% u0428:0-5 %%",
+        "Kenzo: Like…",
+        "",
+        "%% u0429:0-3 %%",
+        "Seeker: If…",
+        "",
+        "%% u0430:0-32 %%",
+        "DM: It's distorted, but it overlaps.",
+        "",
+        "%% u0431:0-17, u0432:0-141, u0433:0-37 %%",
+        "Seeker: Is the Heartroot… symbiotic, in other words, like, is the creature making up the roots themselves distinct from whatever is flowing through the glowing pulses? Like, is it a mycorrhizome situation?",
+        "",
+        "%% u0434:0-64, u0435:0-62 %%",
+        "DM: Well, right now, you're still watching the vision in the mirror. But, but yes, it is a mycorrhizal… myco rib… thing, situation.",
+        "",
+        "%% u0436:0-52, u0437:0-63, u0438:0-16, u0439:0-51 %%",
+        "DM: It's a… it's like a massive symbiotic organism that… you know, makes everything it touches grow stronger and better. And was created when… as a byproduct of the creation of the planes.",
+        "",
+        "%% u0440:0-97 %%",
+        "Seeker: I'm just wondering if we should try to understand it as two entities together, as opposed to one.",
+        "",
+        "%% u0441:0-53, u0442:0-33, u0443:0-37, u0444:0-187 %%",
+        "DM: So you keep watching in the mirror as Seeker wonders. And you see, again, this sort of… passing of the years and the seasons. Long time passing, and again, always, you know, growing and shrinking, right? But always this sort of fertile ribbon along the upper Istaros, where Isingue is, or was, still is, in ruins.",
+        "",
+        "%% u0445:0-40, u0446:0-38, u0447:0-116, u0448:0-151, u0449:0-35, u0450:0-161, u0451:0-97, u0452:0-47 %%",
+        "DM: And the… the image begins to drift down, closer and closer to the river itself. And you can see, as you, as you sort of drift down, as your perspective kind of zooms in, just these, these sort of… everywhere you look, right? Everywhere you look along the soil and in the dirt, there's just this richness, right? This… this thing that is now tightly constrained to, you know, really a… you know, one valley, but even less than that, right? Like, a 10 foot by 10 foot cube, and now that it's, you know, free a little bit, it's stretching out a bit. It's spreading along dozens of miles of the river and growing up from the riverbanks, and you can—you can see in the mirror the sort of vibrancy.",
+        "",
+        "%% u0453:0-30, u0454:0-121, u0455:0-40, u0456:0-139, u0457:0-131, u0458:0-74 %%",
+        "DM: Until… the image shifts again. You see hobgoblin, you see the city of Isingue, which is not a big city, it's… it's really mostly a town. Richly settled agricultural valleys, you know, at best. You know, think, you know, this is like, this is like, you know, Provence, or somewhere, like, fertile, I don't know what the most fertile… agricultural region of France is, but, like, that's the vibe, right? It's, like, very small… small villages, but lots of them, and… vineyards and orchards and fields of wheat, just everything rich and lush.",
+        "",
+        "%% u0459:0-81, u0460:0-102, u0461:0-16, u0462:0-69, u0463:0-26 %%",
+        "DM: And hobgoblins marching, large hobgoblin armies converging on the city. Fighting. The city under siege. This is like a sort of sped-up animation, and then red mist beginning to spread along the river. People dying, hundreds, thousands, tens of thousands of people dying. Fleeing in all directions.",
+        "",
+        "%% u0464:0-70, u0465:0-72 %%",
+        "DM: And one… stuttering image of being shaken and twisted and then grabbed carefully, and with great reverence, but still yanked out of your home.",
+        "",
+        "%% u0466:0-94, u0467:0-45, u0468:0-12, u0469:0-143, u0470:0-27, u0471:0-72, u0472:0-82, u0473:0-77, u0474:0-56 %%",
+        "DM: The mirror… the image in the mirror spins around, like, a dozen times, like, disorienting you. And then, you just are looking up at the sky. And you see… in the mirror, like, this sense of, like, the world shrinking around… shrinking, like, wherever… before, the visions were, like, expansive and, long and wide, right, like… seen from this great perspective, looking down on the Earth, now you're… in the sort of constrained part of the Earth, looking up at a narrow patch of sky. But the exact opposite, no sense of, like, ex… this sort of expansive growth. And no sense of, like, movement or vitality or anything.",
+        "",
+        "%% u0475:0-54, u0476:0-71, u0477:0-42 %%",
+        "DM: As time passes again, vision speeds up and slows down. You can see the seasons passing, you can see the sun, the days passing. But you have no real sense of… of… length.",
+        "",
+        "%% u0478:0-32, u0479:0-60 %%",
+        "DM: Until… you see this image stops. And you see a jade figure standing in this valley, a wizard.",
+        "",
+        "%% u0480:0-5 %%",
+        "Seeker: Whoa.",
+        "",
+        "%% u0481:0-27 %%",
+        "Delwath: Like, Rai or somebody else?",
+        "",
+        "%% u0482:0-10 %%",
+        "DM: Like, Rai.",
+        "",
+        "%% u0483:0-5 %%",
+        "Delwath: Okay.",
+        "",
+        "%% u0484:0-24 %%",
+        "DM: What other jade wizards?",
+        "",
+        "%% u0485:0-39 %%",
+        "Kenzo: Are you confused about the Jade Wizard?",
+        "",
+        "%% u0486:0-20 %%",
+        "Delwath: I mean, fair enough.",
+        "",
+        "%% u0487:0-22, u0488:0-45, u0489:0-25 %%",
+        "DM: Looking up at the sky. And he seems to be talking… to the night sky. Well, this is presumably…",
+        "",
+        "%% u0490:0-42 %%",
+        "Delwath: When the… the whole thing happened, right?",
+        "",
+        "%% u0491:0-31 %%",
+        "DM: When what whole thing happened?",
+        "",
+        "%% u0492:0-90 %%",
+        "Delwath: Rai tried to clean everything up. Sorry, keep going. Sorry, sorry, sorry. Just keep going.",
+        "",
+        "%% u0493:0-85, u0494:0-11 %%",
+        "DM: You'll be reading his lips. Seems to have a… be having a conversation with… a friend in the sky.",
+        "",
+        "%% u0495:0-8 %%",
+        "Wellby: Awesome.",
+        "",
+        "%% u0496:0-34, u0497:0-97, u0498:0-49, u0499:0-87, u0500:0-56, u0501:0-17 %%",
+        "DM: Talking on and on, like, you know. Rai is saying about how these, you know, he's met these monks who have also seen the… dangers of… the plague… relics, like… he thinks they'll help. Worried about trying to reach Isingue by himself, but… with their support, can be done. You know, the prison is stable, Dimitaur is watching it. We have a moment.",
+        "",
+        "%% u0502:0-157, u0503:0-59, u0504:0-109, u0505:0-23 %%",
+        "DM: And the voice from the sky is saying something, but there's no lips to read, so you can't hear it, but you can infer from the other half of the conversation. Worry that… the hobgoblins… might learn… too much too soon. And we better… do something, because if they uncover the secrets of Isingue, they might learn about the last… relic of the Heartroot.",
+        "",
+        "%% u0506:0-19, u0507:0-18, u0508:0-17, u0509:0-44, u0510:0-28, u0511:0-60 %%",
+        "DM: And then… planning for an expedition. Close the portal. A lot of discussion about a portal to Limbo, opened by Cha'mutte's death. And if there was a way to close the portal, that might help.",
+        "",
+        "%% u0512:0-25, u0513:0-20 %%",
+        "DM: And then the image fades. And the vision ends.",
+        "",
+        "%% u0514:0-183, u0515:0-44 %%",
+        "Kenzo: Wait, did I miss… like, so there was the part where, like, everything was contracting and stuff, but, like, is there… because this is from the perspective of the Heartroot, right? So… the Heartroot… did it move? Did it actually…",
+        "",
+        "%% u0516:0-21, u0517:0-90, u0518:0-16, u0519:0-33 %%",
+        "DM: Yeah, yeah, sorry, I… maybe that wasn't as clear as I meant it to be, so it was… somebody, you couldn't see who, fled the plague with a fragment of the Heartroot.",
+        "",
+        "%% u0520:0-13 %%",
+        "Kenzo: Got it. Okay.",
+        "",
+        "%% u0521:0-45 %%",
+        "DM: Presumably some ranger or somebody like that.",
+        "",
+        "%% u0522:0-58 %%",
+        "Delwath: But wait, was the conversation with Rai taking place here?",
+        "",
+        "%% u0523:0-5 %%",
+        "DM: Here.",
+        "",
+        "%% u0524:0-20 %%",
+        "Kenzo: Oh, in this example.",
+        "",
+        "%% u0525:0-11 %%",
+        "Seeker: That's not.",
+        "",
+        "%% u0526:0-19 %%",
+        "DM: In this exact spot.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Sorry, my internet broke up right when you said your big reveal on what we should do, and then I heard you say, that was an intra- would that be an interesting thing to do? But I don't know what you said.",
+          "DM: Show the Heartroot to the mirror.",
+          "Delwath: Oh, I was thinking earlier, that's absolutely what we should do.",
+          "Seeker: [garbled].",
+          "Wellby: Let's do it."
+        ],
+        "after": [
+          "Kenzo: Oh, snap.",
+          "Seeker: Whoa… Two weeks ago.",
+          "Delwath: Get Beryl to talk to us.",
+          "Seeker: Wait, did we find all of the, like, jade fingers and stuff?",
+          "DM: Yeah?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "The Heartroot needs to reconnect to the Istaros",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0567",
+        "endUid": "u0584"
+      },
+      "lines": [
+        "%% u0567:0-80, u0568:0-47, u0569:0-53 %%",
+        "DM: So, you know, meditating with the Heartroot and having seen this vision, I mean, you get a very clear sense that it is, in some… magical, metaphysical way, part of the river Istaros.",
+        "",
+        "%% u0570:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u0571:0-33 %%",
+        "DM: And it is surviving here, barely.",
+        "",
+        "%% u0572:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u0573:0-18 %%",
+        "DM: But it can't grow.",
+        "",
+        "%% u0574:0-20 %%",
+        "Kenzo: Right, right, right.",
+        "",
+        "%% u0575:0-84 %%",
+        "DM: Except in the place it was created, which is the center of the upper Istaros Valley.",
+        "",
+        "%% u0576:0-286 %%",
+        "Kenzo: Right. But, like, even there, you know, is there, like, a… is it even more specific? Is there, like, an image of, like, a specific place? Or is it just kind of, like, throw it in the water and then everything's gonna be cool? Like, you know what I mean? Like, do we… is there any sense?",
+        "",
+        "%% u0577:0-155 %%",
+        "DM: No, no, no, there's not any specific… I mean, Isingue would be the specific place. That's the center of its sort of home, but… but there's nothing… you're…",
+        "",
+        "%% u0578:0-99, u0579:0-60, u0580:0-56 %%",
+        "DM: I mean, when you sort of meditate and commune with it, your sense is, it's, like, very eager, like… It… the river is part of it, and it's part of the river, so… And it's just been pulled… it's just been split in half.",
+        "",
+        "%% u0581:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u0582:0-79, u0583:0-34 %%",
+        "DM: I mean, all you need to do is reconnect it, except that the river happens to be deeply contaminated at the moment.",
+        "",
+        "%% u0584:0-23 %%",
+        "Kenzo: Yeah, yeah, yeah, yeah.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Right, of course.",
+          "Kenzo: So, okay, before we talk to Beryl, which I think we should do, just going back again to, like, the heart, so having now seen the vision, right, and understanding more about, like, kind of what happened, trauma of the heart and so on, Kenzo, Kenzo kind of, like, like, sits and… you know, with another level of understanding and… kinda, you know… greater depth of vibe with the Heartroot.",
+          "Kenzo: Wants to under… because we never really saw, you know, we were kind of asking it, oh, like, how… like, what's home? Like, how do you get home? Try to understand, like, kind of where to put it, type of thing, or, like, where we're bringing it to. Kenzo kind of, like… It's not like asking a question, but sort of, yeah, it's like leaving space for the Heartroot to, like, say more about, like, what… what is stopping it, or where does it want to be? Like, what is the… what is the… you know, and it's not…",
+          "DM: Yeah, so…",
+          "Kenzo: Anything specific, but just kind of, like, whatever the Heartroot wants to share."
+        ],
+        "after": [
+          "Kenzo: Okay, so, metagame, we gotta close this portal. Portal to Limbo. Close the portal, decontaminate the river. Stick the Heartroot back in.",
+          "Seeker: And then…",
+          "Kenzo: The land is happy.",
+          "Wellby: Straightforward, right?",
+          "Kenzo: I think, right?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "Is the ooze a cause or an effect?",
+      "entities": [
+        {
+          "id": "e032",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0618",
+        "endUid": "u0619"
+      },
+      "lines": [
+        "%% u0618:0-127, u0619:0-95 %%",
+        "Wellby: ((Recalled transport and portal plan)) maybe the ooze is the cause, but maybe the ooze is an effect of something else that's going on?"
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I mean, in fairness, this particular combat, we, like… Guerrilla warfare.",
+          "DM: You prepared for, like, two whole sessions. Yeah. To weaken the hobgoblins.",
+          "Kenzo: It was pretty brilliant. We did a good job. I'm really glad we ended up inside the centipede, by the way, in that phase. Yeah, that was awesome.",
+          "Delwath: That was it.",
+          "Seeker: Asleep, I guess, but…"
+        ],
+        "after": [
+          "Kenzo: Yeah, and there's the decontamination, maybe it's killing… yeah, those are the two things. Decontamination… We need to bioremediate the river, and then we need to close the Limbo portal.",
+          "Delwath: Probably the other way around. We probably need to shut down the toxic sludge portal before we…",
+          "Kenzo: Portal. And then bioremediate.",
+          "Seeker: I have another wand, I feel like, that can find portals, right? So…",
+          "DM: Yep, you do."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Could they consult Yendalo?",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0760",
+        "endUid": "u0767"
+      },
+      "lines": [
+        "%% u0760:0-52 %%",
+        "Wellby: Is the Stoneborn metaphysicist Yendalo still living?",
+        "",
+        "%% u0761:0-3, u0762:0-49, u0763:0-16 %%",
+        "DM: No. I don't know, maybe, actually. Did I ever decide? No, I think not.",
+        "",
+        "%% u0764:0-35, u0765:0-25 %%",
+        "Delwath: I can cast Speak with Dead at will. Let's go talk to Yendalo!",
+        "",
+        "%% u0766:0-20, u0767:0-28 %%",
+        "Seeker: That's a good point. The Yendalist heresies. Yes.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Ley lines kind of vanished from Taelgar. They were like…",
+          "DM: Wow.",
+          "Delwath: At the beginning, and then we…",
+          "DM: Very early on, I made a… when Seeker got to level 4, I made a homebrew feat to make ley lines work, like, actually do stuff, but Eric… didn't want to take it, or it didn't seem right for the moment, so then we just kind of dropped it.",
+          "Seeker: Hmm."
+        ],
+        "after": [
+          "Kenzo: Oh yeah, Mike, we were trying to figure out how to talk to Beryl.",
+          "Delwath: Yeah.",
+          "Kenzo: And, Tim was like, oh, you go talk to the priests, so we can go.",
+          "Delwath: Yeah. Yeah, let's go talk to the priests, find out how to…",
+          "Kenzo: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Cateline offers aid and prays for the Green Man’s quest",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e021",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0783",
+        "endUid": "u0848"
+      },
+      "lines": [
+        "%% u0783:0-78, u0784:0-88, u0785:0-66, u0786:0-72, u0787:0-43, u0788:0-64, u0789:0-86 %%",
+        "DM: The… elderly woman, member of the Rangers, devotee of the Fox and Hunter, and… who had sort of… well, not that old, she's, like, mid-50s, something like that. Who had… spoken in the, in the War Council before the battle, as a sort of… She was the one who, like, blessed the water of the three wells that you—that you spoke to. And… and as you… you've… you know, walk through camp and find her. You actually find her, sitting outside, just having finished a prayer of thanksgiving to the stars, to Beryl.",
+        "",
+        "%% u0790:0-72, u0791:0-42, u0792:0-92 %%",
+        "DM: She looks up as you approach, standing, leaning on her staff, and… just… gives, you know, bows in gratitude to you. And… kind of takes a moment to just, like, whisper a prayer of blessing and of thanksgiving.",
+        "",
+        "%% u0793:0-34, u0794:0-44, u0795:0-51, u0796:0-43, u0797:0-95, u0798:0-23, u0799:0-26 %%",
+        "DM: And then turns and asks, and… yup, speaks about how, you know, the Rangers and… you know, her in particular are… and all those who… are devoted to the Fox and Hunter, and the… mysteries and secrets of Isingue are forever in your debt, and if there's anything… she can do… to help you in any way, all you need to do is ask.",
+        "",
+        "%% u0800:0-56, u0801:0-18, u0802:0-4, u0803:0-10 %%",
+        "Delwath: We were hoping… to hear more… about… the Fox and Hunter. And in particular, ask questions?",
+        "",
+        "%% u0804:0-28 %%",
+        "DM: Kind of smiles a little bit.",
+        "",
+        "%% u0805:0-5 %%",
+        "Delwath: Pass.",
+        "",
+        "%% u0806:0-34, u0807:0-63, u0808:0-28, u0809:0-30, u0810:0-21 %%",
+        "DM: There are many… stories and myths. There are… the ways of the divine are mysterious to us mortals. But… yes, he grants prayers. He… is the source of my power. I believe… there are…",
+        "",
+        "%% u0811:0-80, u0812:0-66, u0813:0-56 %%",
+        "DM: Whether he's, you know… the gods tend not to speak at length to their followers. I don't know, perhaps it requires… too much… effort, or… magic to… bring themselves into this realm for such communication.",
+        "",
+        "%% u0814:0-96, u0815:0-62, u0816:0-24, u0817:0-83, u0818:0-74 %%",
+        "DM: But there is a story, there was one he spoke to, a strange traveler who appeared in this valley shortly before the War of the Ashen Horde, maybe 30 years ago? I was young then, and I… don't recall the full details of what happened. And of course, back in those… days… well, until recently, the Heartroot Vale was a… secret we shared with you.",
+        "",
+        "%% u0819:0-42, u0820:0-12, u0821:0-21, u0822:0-28, u0823:0-54 %%",
+        "DM: But it is said that, Green Man teleported to the vale. And… spoke at length with the Fox and the Hunter. And then left on a quest from which he never returned.",
+        "",
+        "%% u0824:0-46 %%",
+        "Kenzo: Can you help us speak with the Fox and Hunter?",
+        "",
+        "%% u0825:0-42 %%",
+        "DM: Is there a question you would like to ask?",
+        "",
+        "%% u0826:0-70, u0827:0-66, u0828:0-114 %%",
+        "Kenzo: We'd like to learn about the quest of the green man, and… just to say… Kenzo takes his staff and kind of points at that green… the green, hand at the top of the staff. We, we know, I think we, we know of whom this, the Fox and Hunter was speaking with.",
+        "",
+        "%% u0829:0-40 %%",
+        "DM: She goes kind of a little bit wide-eyed.",
+        "",
+        "%% u0830:0-31 %%",
+        "DM: “You truly are walking legends.”",
+        "",
+        "%% u0831:0-16, u0832:0-38, u0833:0-26, u0834:0-99 %%",
+        "DM: “I-I-I will pray and ask… do not know if you will have… I do not know if you will… Well, we will see what happens. The gods communicate more in visions and dreams than conversations.”",
+        "",
+        "%% u0835:0-33, u0836:0-36, u0837:0-48 %%",
+        "Kenzo: I think we want to learn more of… how to help, and how to potentially… complete the work that was started 30 years ago.",
+        "",
+        "%% u0838:0-4 %%",
+        "Delwath: Yes.",
+        "",
+        "%% u0839:0-109 %%",
+        "DM: “Now is the time.” She looks up, and you can see the constellation of the Fox and the Hunter rising in the sky.",
+        "",
+        "%% u0840:0-20 %%",
+        "DM: “Let us pray and ask.”",
+        "",
+        "%% u0841:0-124, u0842:0-54, u0843:0-7, u0844:0-9, u0845:0-17, u0846:0-81, u0847:0-96, u0848:0-31 %%",
+        "DM: She kneels, and she gets some, you know, a bowl with a little incense in it, and lights that, and begins to, start a prayer, asking the Fox and Hunter for their aid and attention. Asking, “Will you hear me… hear us?” “We wish to know more,” goes on like this in a prayer for some time, and then asks about the… the events of 30 years ago, the quest of the Green Man, what happened… why it failed. If it failed, what can be done?",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Seeker: Well, that's the other option, is we just, we just, you know…",
+          "Kenzo: Just try random shit. See what happens.",
+          "Delwath: I think we should talk to the priests.",
+          "Kenzo: What if we make up songs about Beryl and sing them while we wait? Rai's hand around. “A Beryl, a Beryl.”",
+          "DM: Okay, so… you make your way back to camp, which is not far from here, just a couple miles, and find the… it's still not super late, right? Find the… the tent of… Cateline… Malras."
+        ],
+        "after": [
+          "DM: And for a moment, you all seemed to… you're sort of… There's the smoke from the incense, the aroma, the… sound, she begins to sort of tap her fingers on… on some stones, with her ring sort of clicking, making a rhythmic pattern. You fall a little bit into a trance, and you… begin to see…",
+          "DM: It's not exactly a vision, it's more… you know, flashes of images.",
+          "DM: And you can see the conversation that you saw in the mirror.",
+          "DM: And then this wave of sadness and anger and fear washes over you, and you… You hear a sort of echo.",
+          "DM: “We failed. It was not a portal. We didn't understand. The plane… itself spilled over. It could not be closed so simply.”"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Beryl reveals the failed ritual and the wound in Limbo",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e021",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0849",
+        "endUid": "u1127"
+      },
+      "lines": [
+        "%% u0849:0-52, u0850:0-51, u0851:0-169, u0852:0-13 %%",
+        "DM: And for a moment, you all seemed to… you're sort of… There's the smoke from the incense, the aroma, the… sound, she begins to sort of tap her fingers on… on some stones, with her ring sort of clicking, making a rhythmic pattern. You fall a little bit into a trance, and you… begin to see…",
+        "",
+        "%% u0853:0-37, u0854:0-28 %%",
+        "DM: It's not exactly a vision, it's more… you know, flashes of images.",
+        "",
+        "%% u0855:0-32, u0856:0-27 %%",
+        "DM: And you can see the conversation that you saw in the mirror.",
+        "",
+        "%% u0857:0-74, u0858:0-24 %%",
+        "DM: And then this wave of sadness and anger and fear washes over you, and you… You hear a sort of echo.",
+        "",
+        "%% u0859:0-10, u0860:0-20, u0861:0-21, u0862:0-31, u0863:0-33 %%",
+        "DM: “We failed. It was not a portal. We didn't understand. The plane… itself spilled over. It could not be closed so simply.”",
+        "",
+        "%% u0864:0-41 %%",
+        "DM: And you then see… an image, a vision, of…",
+        "",
+        "%% u0865:0-24 %%",
+        "((Looking for notes))",
+        "",
+        "%% u0866:0-33, u0867:0-27, u0868:0-50, u0869:0-16, u0870:0-76, u0871:0-41, u0872:0-39 %%",
+        "DM: Of… you see now a vision of… Rai, standing… in a dusty plain. You can see now the glitter of… the Istaros River in front of him, the city of Isingue behind. Mike, Beryl said in a vision, they… they failed. It wasn't a portal after all. It was the… plane spilling into the material world.",
+        "",
+        "%% u0873:0-50, u0874:0-17, u0875:0-173, u0876:0-76 %%",
+        "DM: And then, a vision of Rai standing on the Istaros. The monks of the… awakened… Order of the Awakened Soul behind him, chanting, feeding energy into him. Reaching out, you can see him now reaching out with his hand, almost trying to manipulate something, like, feeling for threads of magic and trying to close something.",
+        "",
+        "%% u0877:0-86, u0878:0-50 %%",
+        "DM: And pulling… with his hand, and something snaps, and you see Rai and the monks vanish. And his hand fragments into 5 pieces and fly away.",
+        "",
+        "%% u0879:0-24, u0880:0-57, u0881:0-27, u0882:0-23 %%",
+        "DM: And you recall that the… Empress of Chaos, the hobgoblin you interrogated, called… it's not a portal to Limbo, but, vertex, or vortex.",
+        "",
+        "%% u0883:0-91, u0884:0-43, u0885:0-77, u0886:0-120, u0887:0-56, u0888:0-67 %%",
+        "DM: And… as the vision begins to fade, you get a sense from… Beryl from the constellation that… more and more of Limbo has poured out into… Isingue into the Plaguelands over the past couple of months. There are… some… barrier that tied… energy together, something that… held in place a massive… quantity of… energy from Limbo was cracked. And more and more of the plane itself has been… growing in the Plaguelands. Cha'mutte's plane. Cha'mutte's… home dimension.",
+        "",
+        "%% u0889:0-23, u0890:0-36 %%",
+        "DM: And you have the sense… There's space for a question or two.",
+        "",
+        "%% u0891:0-5, u0892:0-13, u0893:0-49, u0894:0-94, u0895:0-52, u0896:0-8, u0897:0-41, u0898:0-66, u0899:0-31, u0900:0-42 %%",
+        "((Discussion of who will ask a question))",
+        "",
+        "%% u0901:0-54, u0902:0-133, u0903:0-62, u0904:0-187 %%",
+        "Wellby: I don't know if this is a question exactly, but, like, if this is the plane of Limbo, like, spilling over, does that suggest, like, it's not enough just to… like, somehow we need to shove… part of Limbo that spilled over, like, back in again, or like… or it's not like a portal as much as, like, it's a wound and somehow we need to, like, suture this plane back together again? Like, what's the… what's the remedy, is sort of the question.",
+        "",
+        "%% u0905:0-11 %%",
+        "Kenzo: Yeah, yeah.",
+        "",
+        "%% u0906:0-5 %%",
+        "Seeker: Yeah.",
+        "",
+        "%% u0907:0-139, u0908:0-98 %%",
+        "Kenzo: My follow-up to Schwartz's… that question is basically, like… because, you know, the whole thing was, like, we failed, right? So it's like… How did you fail, and what would you do differently now that you know what you… now that you know?",
+        "",
+        "%% u0909:0-90 %%",
+        "DM: Well, I mean, so the implication was supposed to be they went and tried to close a portal.",
+        "",
+        "%% u0910:0-20 %%",
+        "Kenzo: That was the portal.",
+        "",
+        "%% u0911:0-64 %%",
+        "DM: But closing a portal and healing a wound are not the same magic.",
+        "",
+        "%% u0912:0-14 %%",
+        "Kenzo: That is their…",
+        "",
+        "%% u0913:0-71 %%",
+        "DM: Trying to close a portal that's not a portal ended up… doing something.",
+        "",
+        "%% u0914:0-16, u0915:0-17 %%",
+        "((Brief interjections))",
+        "",
+        "%% u0916:0-24 %%",
+        "Kenzo: He snapped off his hand.",
+        "",
+        "%% u0917:0-100 %%",
+        "Wellby: What was the event that happened a few months ago that made it all worse? That was something we did?",
+        "",
+        "%% u0918:0-36 %%",
+        "DM: What did you do, like, 3 months ago?",
+        "",
+        "%% u0919:0-16 %%",
+        "Kenzo: Killed Apollyon?",
+        "",
+        "%% u0920:0-56 %%",
+        "DM: Not something you did, it's more something Apollyon did.",
+        "",
+        "%% u0921:0-9 %%",
+        "Kenzo: Apollyon…",
+        "",
+        "%% u0922:0-54, u0923:0-72, u0924:0-48 %%",
+        "Delwath: Apollyon was trying to take a crack out of his prison by mucking with the plane of the… by mucking with the… Land of the Dead? Did you do something else that we're forgetting?",
+        "",
+        "%% u0925:0-37 %%",
+        "DM: The… what was the prison made out of?",
+        "",
+        "%% u0926:0-16 %%",
+        "Kenzo: Not gingerbread.",
+        "",
+        "%% u0927:0-46 %%",
+        "Delwath: Limbo. Wait, the prison was made out of Limbo?",
+        "",
+        "%% u0928:0-80, u0929:0-137 %%",
+        "DM: I think I… maybe this was too subtle, but the elementals that you fought in the… Oh yeah, yeah, yeah. Awakened Jungle were exactly the same as the elementals that you fought in… that were the Empress of Chaos' minions.",
+        "",
+        "%% u0930:0-43, u0931:0-97 %%",
+        "DM: Because every time a soul escapes from the… every time a crack appeared in Apollyon's prison, it spewed more Limbo energy out into the world.",
+        "",
+        "%% u0932:0-36 %%",
+        "Kenzo: Oh, so by… by destroying the prison.",
+        "",
+        "%% u0933:0-72 %%",
+        "DM: Well, you didn't destroy the prison; Apollyon did, it wasn't your fault.",
+        "",
+        "%% u0934:0-87 %%",
+        "Kenzo: Oh, right, right. But by Apollyon destroying the prison, more Limbo was leaking out of…",
+        "",
+        "%% u0935:0-33, u0936:0-28, u0937:0-64 %%",
+        "Delwath: Because Limbo, Cha'mutte's thing. Wait, did Cha'mutte's death… caused this… Cha'mutte's death caused this wound, right? Did it?",
+        "",
+        "%% u0938:0-22 %%",
+        "DM: Yes. Yeah, yeah, yeah.",
+        "",
+        "%% u0939:0-92, u0940:0-26 %%",
+        "Delwath: So do we need to go to, like, the Urlich Monastery… Urlich Pass, and, like… that's probably… That's nearby here, right?",
+        "",
+        "%% u0941:0-4 %%",
+        "Wellby: Ish?",
+        "",
+        "%% u0942:0-11 %%",
+        "Kenzo: Wait, what?",
+        "",
+        "%% u0943:0-34, u0944:0-40, u0945:0-63, u0946:0-18 %%",
+        "Delwath: Like, does, does Beryl think that… Cha'mutte is in any way related to this? I mean, sorry, Cha'mutte is in any way related to solving this? Heal, right? Like…",
+        "",
+        "%% u0947:0-32 %%",
+        "Kenzo: Yeah, what would heal the plane?",
+        "",
+        "%% u0948:0-18, u0949:0-47 %%",
+        "DM: The… the best way? Go to Limbo and find a way to pull it all back.",
+        "",
+        "%% u0950:0-24 %%",
+        "Delwath: Oh, that's a great idea.",
+        "",
+        "%% u0951:0-28, u0952:0-21 %%",
+        "Kenzo: What's… that's a great idea. And pull it all back.",
+        "",
+        "%% u0953:0-166 %%",
+        "Wellby: I mean, it makes sense… I don't know, there's something about that that makes more sense to pull it out from that side than to try and push it through from this side.",
+        "",
+        "%% u0954:0-124, u0955:0-28, u0956:0-9 %%",
+        "Kenzo: Also, just as a FYI, right, so Rai was with a bunch of monks standing on the river, and then they all instantly disappeared. Where do you think they are? In Limbo.",
+        "",
+        "%% u0957:0-41 %%",
+        "Delwath: Wow, they're probably dead at this point.",
+        "",
+        "%% u0958:0-74 %%",
+        "Kenzo: They're not dead. They're in there, trying to… we need to go to Limbo and…",
+        "",
+        "%% u0959:0-25 %%",
+        "DM: It was only 30 years ago.",
+        "",
+        "%% u0960:0-134, u0961:0-81 %%",
+        "Kenzo: Yeah, we need… and who knows, maybe, like, you go in there and it's only been a day, you know, it's one of those… one of those things. So we go to Limbo now, we help Rai and a bunch of monks pull the plane back into…",
+        "",
+        "%% u0962:0-11 %%",
+        "Seeker: Good point.",
+        "",
+        "%% u0963:0-20 %%",
+        "Wellby: Yeah, piece of cake.",
+        "",
+        "%% u0964:0-95 %%",
+        "Delwath: Actually seems pretty straightforward, other than Limbo being, like, antithetical to all… life.",
+        "",
+        "%% u0965:0-73 %%",
+        "Kenzo: I mean… or does Limbo just had bad PR? You know? Like, is it really that…",
+        "",
+        "%% u0966:0-91 %%",
+        "Wellby: I mean, I asked that same question about Apollyon, and no, it didn't turn out to be bad PR.",
+        "",
+        "%% u0967:0-12 %%",
+        "Kenzo: That's true.",
+        "",
+        "%% u0968:0-28, u0969:0-77 %%",
+        "Wellby: I wonder that, like, if… if, like, those Limbo's like some sort of a… an echo of the material plane, like…",
+        "",
+        "%% u0970:0-78, u0971:0-10 %%",
+        "Wellby: I don't know, we should… there should be some way to find where we need to go. Find them.",
+        "",
+        "%% u0972:0-62 %%",
+        "Kenzo: Like, you should have analogs of all the places that are here.",
+        "",
+        "%% u0973:0-15 %%",
+        "Wellby: Sort of? Maybe?",
+        "",
+        "%% u0974:0-71 %%",
+        "Kenzo: Is that… is that what Limbo is? Is Limbo, like, Bizarro Material World?",
+        "",
+        "%% u0975:0-107 %%",
+        "DM: No, it's not an echo of the material world at all. It's, like, a complete chaos realm, where everything is…",
+        "",
+        "%% u0976:0-35 %%",
+        "Wellby: Yeah, yeah, it's not an echo realm.",
+        "",
+        "%% u0977:0-56, u0978:0-109 %%",
+        "DM: It's not an echo realm, it's like… it's a… it's a total… place of churning chaos, where nothing holds its shape for long. Stone melts to water, which freezes to fire.",
+        "",
+        "%% u0979:0-33, u0980:0-31, u0981:0-61, u0982:0-23, u0983:0-48, u0984:0-24, u0985:0-52, u0986:0-9, u0987:0-5, u0988:0-63, u0989:0-81, u0990:0-124, u0991:0-41, u0992:0-94, u0993:0-77, u0994:0-13, u0995:0-7, u0996:0-22, u0997:0-41, u0998:0-107, u0999:0-85, u1000:0-129, u1001:0-108, u1002:0-104, u1003:0-5, u1004:0-28, u1005:0-25, u1006:0-35, u1007:0-54, u1008:0-10, u1009:0-50, u1010:0-342, u1011:0-34, u1012:0-68, u1013:0-20, u1014:0-68, u1015:0-44, u1016:0-11, u1017:0-84, u1018:0-26, u1019:0-200, u1020:0-114, u1021:0-9, u1022:0-6, u1023:0-26, u1024:0-172, u1025:0-19, u1026:0-60, u1027:0-6, u1028:0-8, u1029:0-21, u1030:0-167, u1031:0-135, u1032:0-117, u1033:0-58, u1034:0-43, u1035:0-66, u1036:0-17, u1037:0-69, u1038:0-35, u1039:0-144, u1040:0-64, u1041:0-72, u1042:0-45, u1043:0-79, u1044:0-55, u1045:0-87, u1046:0-8, u1047:0-74, u1048:0-48, u1049:0-9, u1050:0-25, u1051:0-5, u1052:0-44, u1053:0-54, u1054:0-5, u1055:0-16, u1056:0-46, u1057:0-82, u1058:0-16, u1059:0-55, u1060:0-37, u1061:0-36, u1062:0-4, u1063:0-51, u1064:0-19, u1065:0-46, u1066:0-11, u1067:0-4, u1068:0-16, u1069:0-11, u1070:0-21, u1071:0-18, u1072:0-14, u1073:0-16, u1074:0-38, u1075:0-57, u1076:0-17, u1077:0-38, u1078:0-5, u1079:0-44, u1080:0-244, u1081:0-73, u1082:0-268, u1082:268-343, u1083:0-264, u1084:0-55, u1085:0-220, u1086:0-55, u1087:0-101, u1088:0-51, u1089:0-100, u1090:0-95, u1091:0-10, u1092:0-16, u1093:0-34, u1094:0-20, u1095:0-9, u1096:0-16 %%",
+        "((Research planning, spell mechanics, jokes, and the staff discussion retained separately))",
+        "",
+        "%% u1097:0-58 %%",
+        "DM: There you go. So… okay, so, you finished talking to Beryl.",
+        "",
+        "%% u1098:0-192, u1099:0-68, u1100:0-71, u1101:0-108, u1102:0-29, u1103:0-86, u1104:0-61, u1105:0-32 %%",
+        "DM: And you sort of wake up from this vision with a sort of… a sense of what Beryl had learned from this failed attempt, the sort of instigating event of all… everything that's happened since was… the failed attempt to close a portal that was not actually a portal. And instead, some kind of vortex or spillover wound, some… extraplanar… you know, some twisted extraplanar geometry created by the… by Cha'mutte's death that… caused a gash between Limbo and the material plane, where Isingue is, where the center of the plague that Cha'mutte created was, the most, the place that was… that was the densest of the magic he had used to create this plague, and…",
+        "",
+        "%% u1106:0-64, u1107:0-80, u1108:0-64, u1109:0-37, u1110:0-108, u1111:0-27, u1112:0-95, u1113:0-50, u1114:0-30, u1115:0-33 %%",
+        "DM: Over the years, of course, since… the… and, you know, since the… end of the Great War, the influence of Limbo had waxed and waned over time, and… you know, Wellby would be familiar with these, like, tales from… you know, Sembaran history from your… stories that your parents and grandparents would have told you. There's the cursed cold when sunlight froze instead of… warming things. Other events like this that would just spread out from the Plaguelands with no rhyme or reason. Somehow connected to the… now you realize, to the… waxing and waning of the Limbo wound, for lack of a better word.",
+        "",
+        "%% u1116:0-53, u1117:0-73, u1118:0-14, u1119:0-46, u1120:0-66 %%",
+        "DM: Until… a few months ago, when the large collection of extraplanar energy that Cha'mutte had gathered to hold Apollyon in place was destroyed. With nowhere to go, it poured into this wound, bubbling and spilling in a wider and wider stretch around Isingue.",
+        "",
+        "%% u1121:0-33 %%",
+        "DM: Yes, how do we heal Limbo wounds?",
+        "",
+        "%% u1122:0-73, u1123:0-63, u1124:0-51, u1125:0-56, u1126:0-48, u1127:0-36 %%",
+        "DM: And now you are left with the idea from Beryl that… what Rai tried to do— the simple thing, close a portal from this side, will not work. To heal the wound, you have to go… to Limbo itself. And find a way to… close the gash to the material plane. And then probably go do some cleanup, right? Or… various things that you'll find out.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: I think we want to learn more of… how to help, and how to potentially… complete the work that was started 30 years ago.",
+          "Delwath: Yes.",
+          "DM: “Now is the time.” She looks up, and you can see the constellation of the Fox and the Hunter rising in the sky.",
+          "DM: “Let us pray and ask.”",
+          "DM: She kneels, and she gets some, you know, a bowl with a little incense in it, and lights that, and begins to, start a prayer, asking the Fox and Hunter for their aid and attention. Asking, “Will you hear me… hear us?” “We wish to know more,” goes on like this in a prayer for some time, and then asks about the… the events of 30 years ago, the quest of the Green Man, what happened… why it failed. If it failed, what can be done?"
+        ],
+        "after": [
+          "Kenzo: So, should we, do some research on the Limbo wound thing? I mean, I'm kind of in favor of just, like, going there and then seeing what the hell happens, but yeah, let's maybe do a little bit of research.",
+          "Delwath: Thanks.",
+          "Kenzo: Questions.",
+          "Delwath: Right.",
+          "Delwath: Immediately, Tim, as we're sort of learning some of this, I may as well use… I'm gonna go straight to contact the Tanshi."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Seeking The Unstable Sphere",
+      "entities": [
+        {
+          "id": "e020",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0979",
+        "endUid": "u0984"
+      },
+      "lines": [
+        "%% u0979:0-33, u0980:0-31 %%",
+        "Delwath: Can we… can we, like, find, like, The Unstable Sphere, this book?",
+        "",
+        "%% u0981:0-61, u0982:0-23 %%",
+        "DM: I'm sure the Philosopher's Guild could tell you what's in it. With the right payment.",
+        "",
+        "%% u0983:0-48, u0984:0-24 %%",
+        "Delwath: Right, we should go ask the Philosopher's Guild. How to survive in Limbo.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Sort of? Maybe?",
+          "Kenzo: Is that… is that what Limbo is? Is Limbo, like, Bizarro Material World?",
+          "DM: No, it's not an echo of the material world at all. It's, like, a complete chaos realm, where everything is…",
+          "Wellby: Yeah, yeah, it's not an echo realm.",
+          "DM: It's not an echo realm, it's like… it's a… it's a total… place of churning chaos, where nothing holds its shape for long. Stone melts to water, which freezes to fire."
+        ],
+        "after": [
+          "Kenzo: How do we even get there? Do we know how to do that?",
+          "DM: To Limbo?",
+          "Kenzo: Yeah.",
+          "DM: Well, that's why… that's why Mike can't change out Plane Shift for a different 7th level spell, but Eric has a wand, so you can use Eric's wand.",
+          "Delwath: I mean, we just need something attuned to Limbo, but like… What about that Chaos Metal? The Chaos Metal should count, right?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "The Heartroot grows its story through Kenzo’s staff",
+      "entities": [
+        {
+          "id": "e022",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1043",
+        "endUid": "u1051"
+      },
+      "lines": [
+        "%% u1043:0-79 %%",
+        "Kenzo: Tim, by the way, Kenzo's gonna carve the story of the Heartroot into his staff.",
+        "",
+        "%% u1044:0-55, u1045:0-87 %%",
+        "DM: Yeah, so, yes, but I mean, the thing that I… the, like, enhanced magic that you got for the Heartroot is actually the Heartroot, like, growing.",
+        "",
+        "%% u1046:0-8 %%",
+        "Kenzo: Perfect.",
+        "",
+        "%% u1047:0-74 %%",
+        "DM: Through your staff as well, so, like, it's actually growing its own story.",
+        "",
+        "%% u1048:0-48 %%",
+        "Kenzo: Yeah, that's great. That's great. And it's like…",
+        "",
+        "%% u1049:0-9 %%",
+        "Seeker: Dominion.",
+        "",
+        "%% u1050:0-25, u1051:0-5 %%",
+        "Kenzo: The elven wood and stuff. Cool.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Yeah. Well, not a million, like, 4 Bastion abilities that let you…",
+          "DM: You can use… the… I mean, the library… lets you learn 3 accurate pieces of information.",
+          "DM: The Hall of Stories lets you learn… three accurate pieces of information about a legend, a kind of creature, or a famous object, but… there's probably a way you can make that work.",
+          "DM: The other one lets you learn about a location, so Limbo is fine.",
+          "DM: Observatory lets you cast Contact Other Plane, and Delwath can also ask… about, and then you have something else, too."
+        ],
+        "after": [
+          "DM: Yep. The archives lets you also do research. And you also have a reference book about other planes.",
+          "Kenzo: What?",
+          "DM: In the archives.",
+          "Kenzo: We have so many things to not read or look at.",
+          "DM: So, you have, like, 3 separate… You have 3 separate… facilities that let you gain…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "The Tanshi answer five questions about Limbo",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1132",
+        "endUid": "u1168"
+      },
+      "lines": [
+        "%% u1132:0-121 %%",
+        "Delwath: Immediately, Tim, as we're sort of learning some of this, I may as well use… I'm gonna go straight to contact the Tanshi.",
+        "",
+        "%% u1133:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u1134:0-41, u1135:0-9 %%",
+        "((Question setup))",
+        "",
+        "%% u1136:0-72, u1137:0-36 %%",
+        "Delwath: If we are trying to go to a specific point in Limbo, does entering Limbo—does it matter where we enter Limbo?",
+        "",
+        "%% u1138:0-54, u1139:0-69 %%",
+        "Delwath: Like, I'm trying to think of how to phrase that. Like, do we need to enter Limbo near the gash to be near the gash in Limbo?",
+        "",
+        "%% u1140:0-23, u1141:0-103 %%",
+        "DM: The answer is… unclear… But you… but the sense of that is… it is unclear if there is even a concept of fixed geometry in Limbo.",
+        "",
+        "%% u1142:0-60, u1143:0-8 %%",
+        "DM: Is it true that there are places that are near other places? Unclear.",
+        "",
+        "%% u1144:0-44 %%",
+        "DM: So, does the question have meaning? Unclear.",
+        "",
+        "%% u1145:0-6 %%",
+        "Delwath: Right.",
+        "",
+        "%% u1146:0-39, u1147:0-57 %%",
+        "DM: That said, common sense says that that… potentially would be useful, not guaranteed to be useful.",
+        "",
+        "%% u1148:0-4 %%",
+        "Delwath: The…",
+        "",
+        "%% u1149:0-39, u1150:0-24, u1151:0-76 %%",
+        "Delwath: Let's see, the other question would be, Can we survive in Limbo? Breathe. Like… exist, like, not be torn into… torn asunder immediately, etc.",
+        "",
+        "%% u1152:0-62, u1153:0-69 %%",
+        "Delwath: Not survive in the sense of things might attack us, sure, but… Can we, like, physically survive in Limbo without magical protection?",
+        "",
+        "%% u1154:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u1155:0-38 %%",
+        "Delwath: Are there native inhabitants of Limbo?",
+        "",
+        "%% u1156:0-39 %%",
+        "DM: Unknown. The Tanshi are not aware, but…",
+        "",
+        "%% u1157:0-32, u1158:0-25, u1159:0-16, u1160:0-3, u1161:0-17, u1162:0-8, u1163:0-14 %%",
+        "((Counting and inviting the remaining questions))",
+        "",
+        "%% u1164:0-54 %%",
+        "Wellby: Are Rai or any of his companions still alive in Limbo?",
+        "",
+        "%% u1165:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u1166:0-5 %%",
+        "Wellby: Whoa!",
+        "",
+        "%% u1167:0-83 %%",
+        "Delwath: Are… are any of the living… are any of Rai's living companions still sane in Limbo?",
+        "",
+        "%% u1168:0-4 %%",
+        "DM: Yes.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And now you are left with the idea from Beryl that… what Rai tried to do— the simple thing, close a portal from this side, will not work. To heal the wound, you have to go… to Limbo itself. And find a way to… close the gash to the material plane. And then probably go do some cleanup, right? Or… various things that you'll find out.",
+          "Kenzo: So, should we, do some research on the Limbo wound thing? I mean, I'm kind of in favor of just, like, going there and then seeing what the hell happens, but yeah, let's maybe do a little bit of research.",
+          "Delwath: Thanks.",
+          "Kenzo: Questions.",
+          "Delwath: Right."
+        ],
+        "after": [
+          "Seeker: You know, our…",
+          "Kenzo: Are we gonna get to, like, be in a battle with Rai on our team as, like, an NPC? That would be… that would be crazy. Or do we have to kill Rai in Limbo?",
+          "Wellby: Also amazing.",
+          "Kenzo: Either of those would be really cool. Oh my god, what if we have to kill all of our old characters?",
+          "Delwath: What?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Keeping Apollyon’s Crystal Ball for later",
+      "entities": [
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e023",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e024",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1224",
+        "endUid": "u1236"
+      },
+      "lines": [
+        "%% u1224:0-41 %%",
+        "DM: I mean, you have Apollyon's crystal ball…",
+        "",
+        "%% u1225:0-27, u1226:0-28 %%",
+        "Delwath: Oh, that's a good one, too. We should… yeah, so, I mean…",
+        "",
+        "%% u1227:0-89, u1228:0-48 %%",
+        "DM: Those are the 4 best things. Apollyon's Crystal Ball, the… the dagger of blindsight, the… Dust of Glibness, and the Frostbrand Greatsword.",
+        "",
+        "%% u1229:0-85 %%",
+        "Kenzo: Let's, let's give the greatsword and the glibness stuff. What's Apollyon's, thing do?",
+        "",
+        "%% u1230:0-54 %%",
+        "DM: It's a crystal ball, it lets you cast scrying at will.",
+        "",
+        "%% u1231:0-140, u1232:0-13 %%",
+        "Kenzo: I feel like… I feel like… I feel like that… that one we should save for another moment. That feels like a… that feels like a good, you know… We looked up…",
+        "",
+        "%% u1233:0-69 %%",
+        "Wellby: There's also the sentimental value that it's Apollyon's crystal ball.",
+        "",
+        "%% u1234:0-47 %%",
+        "Kenzo: That's what I'm saying! That's what I'm saying.",
+        "",
+        "%% u1235:0-31 %%",
+        "Wellby: That, that increases its value.",
+        "",
+        "%% u1236:0-90 %%",
+        "Kenzo: Like, it's collector value of both what… Absolutely. Yeah, it's a one-of-one, like… Right!",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: And then you also have…",
+          "DM: You have the Dagger of Blind Sight, which is now totally pointless because Wellby has True Sight.",
+          "Wellby: Oh, right.",
+          "DM: So, that's… at least 3… relatively rare or better items that you presumably don't need.",
+          "Delwath: Yeah."
+        ],
+        "after": [
+          "Kenzo: Yeah, I feel like for this bit of information— the greatsword, and the other thing.",
+          "DM: A Dust of Glibness.",
+          "Kenzo: Yeah, let's do that.",
+          "Delwath: And the dagger.",
+          "DM: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Tollen research and the two items traded to the Guild",
+      "entities": [
+        {
+          "id": "e019",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e023",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e024",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e030",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1337",
+        "endUid": "u1384"
+      },
+      "lines": [
+        "%% u1337:0-61 %%",
+        "DM: So… over the course of a few weeks, you spend time in Tollen.",
+        "",
+        "%% u1338:0-61 %%",
+        "DM: Trade some info… trade some items to the Philosopher's Guild.",
+        "",
+        "%% u1339:0-101, u1340:0-82 %%",
+        "DM: Use the libraries of your Bastion, and also the University at Tollen, and all of the resources there to… try to figure out as much as you can about how to survive and thrive in Limbo.",
+        "",
+        "%% u1341:0-26, u1342:0-46 %%",
+        "DM: How to heal a Limbo wound. And… how to… decontaminate the material plane.",
+        "",
+        "%% u1343:0-36, u1344:0-73 %%",
+        "DM: And over the course of… a few weeks… maybe up to a month, you spend time in Tollen, learning this information.",
+        "",
+        "%% u1345:0-12, u1346:0-130, u1347:0-48, u1348:0-117, u1349:0-72, u1350:0-118, u1351:0-307, u1352:0-205, u1353:0-3, u1354:0-47, u1355:0-31, u1356:0-96, u1357:0-92, u1358:0-32, u1359:0-186, u1360:0-164, u1361:0-35, u1362:0-83, u1363:0-40, u1364:0-10, u1365:0-17, u1366:0-5, u1367:0-60, u1368:0-109, u1369:0-31, u1370:0-274, u1371:0-54, u1372:0-139, u1373:0-88, u1374:0-47, u1375:0-25, u1376:0-5 %%",
+        "((Real-world scheduling and the proposed Orenlas visit retained separately))",
+        "",
+        "%% u1377:0-178, u1378:0-28 %%",
+        "DM: But I think… so this is… okay, just to… just to make sure I've got everything. So… the bioremediation question is gonna be from Tollen Library, Bastion Libraries, Seeker's brain. But not Philosopher's Guild.",
+        "",
+        "%% u1379:0-62, u1380:0-21 %%",
+        "DM: The “heal a wound”… it's gonna be all that… plus legendary item. The Dust of Glibness.",
+        "",
+        "%% u1381:0-33, u1382:0-46 %%",
+        "DM: And then the… “How do you live in… in Limbo” is gonna be all that, plus rare item.",
+        "",
+        "%% u1383:0-15 %%",
+        "Delwath: The greatsword.",
+        "",
+        "%% u1384:0-13 %%",
+        "DM: A greatsword.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: You gotta give it time.",
+          "Delwath: Fanfic, where Delwath hooks up with the centaur.",
+          "Wellby: Oh, we've written it.",
+          "Delwath: It's real!",
+          "Kenzo: Yeah…"
+        ],
+        "after": [
+          "Delwath: And… sorry, I had one other thought. We're gonna use our contact other planes from the Bastion.",
+          "DM: Right. To contact Rai?",
+          "Delwath: And ask 5 questions.",
+          "DM: Okay, well, if you care about what the five questions are, you should tell me. If you don't care, I'll pick things that would be the most useful for you.",
+          "Kenzo: Let's just do that."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Proposal to tell the ancient elf woman of Apollyon’s defeat",
+      "entities": [
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1359",
+        "endUid": "u1361"
+      },
+      "lines": [
+        "%% u1359:0-186, u1360:0-164, u1361:0-35 %%",
+        "Delwath: Also, we don't necessarily have to roleplay this out, but we should stop in Orenlas on our way from Tollen to Isingue. It's right on the way. We should go talk to that ancient elf woman who fought Apollyon, and be like, “Dude, we killed him.” It's, like, all better now. I mean, it's not really all better, like, he still destroys your home, but, like… Don't you think she'd want to know?",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Well, you'll get in late, so we're not gonna actually play a session on… on Thursday night, because you won't get in… you won't get to the house till, like, 10.30 or something like that, but… if you have all the info, you can, like, do all your… we don't need to be there for all your planning and stuff. And then on Friday, we can start with you actually knowing what you're gonna do, and not spending half of Friday planning. This is my plan anyway. You might spend half of Friday planning anyway.",
+          "Kenzo: Well, Tim, because to Mike's point, if there is… if we learn cool things about, like, what we should do, then maybe we can… so that way, if we need to get, like, anti-Limbo tattoos, we can kind of do that.",
+          "DM: Oh. For sure. That's the type of thing that we get.",
+          "DM: If there's any, like, addition… magic items you want to acquire, or anything, or tattoos, or whatever in Tollen, we can do that. Like, Thursday night when you get… that's not… we don't need to do a session on that, right?",
+          "Kenzo: Yeah, yeah, yeah. Okay, perfect."
+        ],
+        "after": [
+          "Delwath: We never even used her five… our five meta resources of “What would she do?” We only…",
+          "DM: No, I think 2 is the one, but I used to…",
+          "Delwath: Like, two.",
+          "DM: One or two, yeah.",
+          "Delwath: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}
