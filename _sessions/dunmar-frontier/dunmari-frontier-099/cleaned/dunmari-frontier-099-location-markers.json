@@ -1,0 +1,1174 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-099",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-099/cleaned/dunmari-frontier-099-session.yaml",
+    "sessionYamlSha256": "6769489a328c2849ec19fd60a38de5720fb11ce93f889df246a5ad7682606681",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-099/cleaned/dunmari-frontier-099-transcript.md",
+    "transcriptSha256": "b4ec24952c03817267fe4a1293c561926e21753af9256b130b64ea86d7a84a5b"
+  },
+  "places": {
+    "p01": {
+      "label": "Castrella harbor",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0013",
+          "quote": "it is pre-dawn in the harbor of the port town of Castrella."
+        }
+      ],
+      "kind": "harbor",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0002",
+              "endUid": "u0013",
+              "quote": "in the harbor of the port town of Castrella."
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "Castrella",
+      "evidence": [
+        {
+          "startUid": "u0049",
+          "endUid": "u0051",
+          "quote": "Seeker: Where are we?\n\nDelwath: We're in Castrella.\n\nDM: Castrella."
+        }
+      ],
+      "kind": "settlement",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Castrella.md"
+    },
+    "p03": {
+      "label": "Summer's Breeze",
+      "evidence": [
+        {
+          "startUid": "u0014",
+          "endUid": "u0022",
+          "quote": "DM: And Pippa Goodbarrow, the captain of the Summer's Breeze, a— a, a ship that is not so much a dedicated trader as something of a halfling party boat, but convinced by I think Kong rolling well for Delwath, that they should work hard to try and rescue Milo Thistlefoot, another halfling, a daring adventurer who has been missing for the past year, and is the last person who is ever known to return from the western side of this..."
+        },
+        {
+          "startUid": "u0282",
+          "endUid": "u0290",
+          "quote": "DM: Okay, so you set sail, still in the dark, the sun not yet cracking above the horizon, as you begin to pick up speed, catching the outgoing tide, which runs pretty fast out of this— out of this bay. That's why you're up so early is to get the departing tide. So you managed to make a good clip on the Summer's Breeze."
+        }
+      ],
+      "mobile": true,
+      "kind": "vessel",
+      "vaultPath": "Things/Ships/Summer's Breeze.md"
+    },
+    "p04": {
+      "label": "Calcara Island",
+      "evidence": [
+        {
+          "startUid": "u0312",
+          "endUid": "u0324",
+          "quote": "DM: Sailing between the rocky headlands of the this prominence, this point, and and the cliffs of Calcara Island.\n\nDM: And you can see even now, as you begin sailing through this channel, that the— this, the— Calcara Island is— it's got these tall limestone sea cliffs with jagged rocks. It's tricky navigation, actually, to this channel."
+        },
+        {
+          "startUid": "u0331",
+          "endUid": "u0342",
+          "quote": "DM: By noon or so you've reached— you've reached here. You've reached fairly close to the to the tip, and western tip of the island, and Kenzo comes to stand on the the prow of the boat for a minute and spends a moment meditating, reaching your consciousness out to feel for the presence of any stoneborn. You just like here."
+        }
+      ],
+      "kind": "island",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Calcara Island.md",
+      "relations": [
+        {
+          "relation": "offshore_of",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u0054",
+              "endUid": "u0057",
+              "quote": "DM: A cave off the coast of Cedrano. You don't know precisely what—\n\nDelwath: Somewhere along here. Okay. So.\n\nDM: Island, or something."
+            },
+            {
+              "startUid": "u0224",
+              "endUid": "u0243",
+              "quote": "Delwath: And I'm gonna ask the tanshi if there is a stoneborn hermit on the north side of such and such. What's the name of the island?\n\nDM: Calcara Island.\n\nDelwath: Is there a— is there a stoneborn hermit living on the north side of Calcara Island?\n\nSeeker: Nice.\n\nDM: But north side specifically, no.\n\nDelwath: Well, I get 5 questions. How about the south side?\n\nDM: No.\n\nDelwath: Okay, how about the west side?\n\nKenzo: I'm just saying anywhere first.\n\nSeeker: No, I only.\n\nDelwath: [garbled].\n\nDM: Yes.\n\nKenzo: Start. But yes.\n\nRiswynn: West side.\n\nSeeker: A West Side Story.\n\nDelwath: So the west side is presumably this, like actually relatively smaller part of the island around the point.\n\nDM: The point in that sort of area around the point. You know."
+            }
+          ],
+          "note": "The originally uncertain cave off Cedrano is narrowed to Calcara Island by the divination and subsequent approach."
+        }
+      ]
+    },
+    "p05": {
+      "label": "Kazuro's cave",
+      "evidence": [
+        {
+          "startUid": "u0366",
+          "endUid": "u0386",
+          "quote": "DM: And you can see now this coastline, there's like four caves in the, in the side of this tall white limestone cliff. One is— the right by the point is small and caved in, and probably not navigable by a boat.\n\nDM: The— at— western— the next one over heading east is— Wellby would notice this even from some distance away. You can't— the ship— the big ship itself can't get too close to the coast because there's, like, crashing waves and like, this is not— this is not something— I mean, they're just kind of dropped their sea anchor and sort of holding points about, you know, 500–1,000 yards off off the cliffs at the moment, as you kind of look, peering— Wellby, peering with— through your spyglass. The second one from the east from the point, the second cave, it is smaller, but there are signs, maybe, that it's been worked like the entrance has been shaped and cleared a little bit."
+        },
+        {
+          "startUid": "u0533",
+          "endUid": "u0543",
+          "quote": "Wellby: So we head into the cave, then.\n\nDelwath: I think so, right? Like...\n\nDM: So you row into the cave and you pass through this narrow opening and see, the inside is lit with this kind of eerie blue light that seems to be not entirely natural.\n\nSeeker: Well.\n\nDM: Glowing from the walls, sometimes even from the water a little bit."
+        },
+        {
+          "startUid": "u0555",
+          "endUid": "u0569",
+          "quote": "DM: There is a small raft docked at the dock, and sitting half submerged in the water is a stoneborn near the dock, skin bluish, like bluish gray limestone, wearing blue robes that seem not to be wet from the water, sitting still like a statue, the water up to his chest.\n\nDM: And as you enter, sees your boat coming in the cave, he stands up, looks at you for a moment, and then grumbles in Common, \"Who are you to disturb my meditation?\"\n\nDM: Begins to walk, and as he walks, you— he— he seems to be walking almost up underwater steps that lead up to the dock, and he comes and stands on the dock as you approach to tie up your ship."
+        },
+        {
+          "startUid": "u0610",
+          "endUid": "u0610",
+          "quote": "DM: You— the name— well, Kazuro is the name that you heard."
+        }
+      ],
+      "kind": "sea cave",
+      "note": "The worked entrance is the second cave counted from the western point; u0374–u0386 mixes “east” wording. The worked entrance and seals identify the cave despite the mixed compass wording.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0312",
+              "endUid": "u0324",
+              "quote": "DM: Sailing between the rocky headlands of the this prominence, this point, and and the cliffs of Calcara Island.\n\nDM: And you can see even now, as you begin sailing through this channel, that the— this, the— Calcara Island is— it's got these tall limestone sea cliffs with jagged rocks. It's tricky navigation, actually, to this channel."
+            },
+            {
+              "startUid": "u0352",
+              "endUid": "u0386",
+              "quote": "DM: But the single solitary stoneborn that you presume is the one you're looking for is almost exactly 4 and a half miles like north- northeast from the point where you are, which would be just, just slightly around that northern— that western tip.\n\nDM: And so, with Kenzo's guidance and— Pippa's crew turns the ship. And you begin to— you're now— Can't quite sail directly offshore, because there's a due onshore breeze. Yup. So you're kind of tacking and sort of making your way slowly around. Takes another hour to sort of round that point.\n\nDM: And you can see now this coastline, there's like four caves in the, in the side of this tall white limestone cliff. One is— the right by the point is small and caved in, and probably not navigable by a boat.\n\nDM: The— at— western— the next one over heading east is— Wellby would notice this even from some distance away. You can't— the ship— the big ship itself can't get too close to the coast because there's, like, crashing waves and like, this is not— this is not something— I mean, they're just kind of dropped their sea anchor and sort of holding points about, you know, 500–1,000 yards off off the cliffs at the moment, as you kind of look, peering— Wellby, peering with— through your spyglass. The second one from the east from the point, the second cave, it is smaller, but there are signs, maybe, that it's been worked like the entrance has been shaped and cleared a little bit."
+            }
+          ],
+          "note": "The party follows the solitary stoneborn around Calcara’s western tip to the worked sea cave."
+        }
+      ]
+    },
+    "p06": {
+      "label": "Kazuro's cave dock",
+      "evidence": [
+        {
+          "startUid": "u0550",
+          "endUid": "u0569",
+          "quote": "DM: And as you enter, you, you slowly sail in, and you see these— this dock, and then stairs leading up through the cave. And you see like, the, the stairs lead up and sort of curve around in a way that you can't see where they lead.\n\nDM: There is a small raft docked at the dock, and sitting half submerged in the water is a stoneborn near the dock, skin bluish, like bluish gray limestone, wearing blue robes that seem not to be wet from the water, sitting still like a statue, the water up to his chest.\n\nDM: And as you enter, sees your boat coming in the cave, he stands up, looks at you for a moment, and then grumbles in Common, \"Who are you to disturb my meditation?\"\n\nDM: Begins to walk, and as he walks, you— he— he seems to be walking almost up underwater steps that lead up to the dock, and he comes and stands on the dock as you approach to tie up your ship."
+        }
+      ],
+      "kind": "dock",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0550",
+              "endUid": "u0569",
+              "quote": "DM: And as you enter, you, you slowly sail in, and you see these— this dock, and then stairs leading up through the cave. And you see like, the, the stairs lead up and sort of curve around in a way that you can't see where they lead.\n\nDM: There is a small raft docked at the dock, and sitting half submerged in the water is a stoneborn near the dock, skin bluish, like bluish gray limestone, wearing blue robes that seem not to be wet from the water, sitting still like a statue, the water up to his chest.\n\nDM: And as you enter, sees your boat coming in the cave, he stands up, looks at you for a moment, and then grumbles in Common, \"Who are you to disturb my meditation?\"\n\nDM: Begins to walk, and as he walks, you— he— he seems to be walking almost up underwater steps that lead up to the dock, and he comes and stands on the dock as you approach to tie up your ship."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Kazuro's living area",
+      "evidence": [
+        {
+          "startUid": "u0679",
+          "endUid": "u0694",
+          "quote": "DM: He, he kind of— so as you— he's sort of shaking his head a little bit as you go up these stairs. You see, as you get to the top of this set of stairs, there's a sort of a living area that's been set up. There's a— there's no, no walls or anything, but there's like a, a paper screen that he sort of pushes aside, and there's a series of windows that have been cleverly cut in the stone that allow sunlight to filter through and illuminate from this area. There's a bed, there's a simple hearth, a desk, a chest,\n\nDM: And then there's a separate area that's sort of closed off, and he sort of motions. It's a fairly big room. He motions for you to sit on the floor and begin sort of bustling around making some— something, cooking water."
+        }
+      ],
+      "kind": "dwelling",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0650",
+              "endUid": "u0652",
+              "quote": "DM: And as he says this, as he says this, he's turning away and kind of walking up the stairs, like, \"Follow me or not. I don't care.\""
+            },
+            {
+              "startUid": "u0679",
+              "endUid": "u0694",
+              "quote": "DM: He, he kind of— so as you— he's sort of shaking his head a little bit as you go up these stairs. You see, as you get to the top of this set of stairs, there's a sort of a living area that's been set up. There's a— there's no, no walls or anything, but there's like a, a paper screen that he sort of pushes aside, and there's a series of windows that have been cleverly cut in the stone that allow sunlight to filter through and illuminate from this area. There's a bed, there's a simple hearth, a desk, a chest,\n\nDM: And then there's a separate area that's sort of closed off, and he sort of motions. It's a fairly big room. He motions for you to sit on the floor and begin sort of bustling around making some— something, cooking water."
+            }
+          ],
+          "note": "The stairs rise from the cave dock to the screened living area."
+        }
+      ]
+    },
+    "p08": {
+      "label": "Folding boat",
+      "evidence": [
+        {
+          "startUid": "u0479",
+          "endUid": "u0506",
+          "quote": "DM: So you're gonna be rowing, I think, because it's too hard. It's too tricky to approach with the waves and the tricky winds by sail, but it's not far. It's like a thousand yards. So you set out rowing, and, you know, make a— well, actually, Wellby, make a Dex plus proficiency, like for boat handling.\n\nRiswynn: Does Wellby need me to, like, know what I'm doing? Would that be helpful?\n\nDM: So it's— this is— you're in the small boat, I presume.\n\nWellby: Sorry one, just a second. Yeah, okay.\n\nKenzo: Where'd we get that folding boat from?\n\nDM: You got it from Kadmos.\n\nSeeker: Nice.\n\nDM: Remember, he was using it to sail— to sail around the— yeah, yeah.\n\nWellby: That's it. 29 altogether.\n\nDM: Ridiculous. Yeah, you navigate closer, and you can see that the— as you get closer to the cliffs under Wellby's skilled navigation, you can see that the— the— closest of the— not the, not the cave with the tumbled in, but the— the second cave, the one that it looks like where the where the entrance has been worked slightly. There's like a jumbled pile of rocks just out front of that cave, and there's maybe 10 fur seals camped out on them."
+        },
+        {
+          "startUid": "u3078",
+          "endUid": "u3085",
+          "quote": "DM: And she— you get into the folding boat, and she— she launches her, her launches so that they can, they can, like, you know, tow the big ship with the little ship back into the— out of this, like, weird dead zone of becalmed magical water, as you proceed to row in increasing silence."
+        }
+      ],
+      "mobile": true,
+      "kind": "vessel"
+    },
+    "p09": {
+      "label": "Island off Tamaro Bay",
+      "evidence": [
+        {
+          "startUid": "u1720",
+          "endUid": "u1726",
+          "quote": "DM: The island— this is this island off Tamaro Bay, but this is...\n\nDelwath: Yeah.\n\nDM: You're, like, at— you are like right there, and you can either go into the bay and try and land. You can go around the stormy side of the island and investigate this wooden structure, or you can just say, \"Go in the...\""
+        },
+        {
+          "startUid": "u2335",
+          "endUid": "u2342",
+          "quote": "DM: \"Think here, or maybe maybe it was the bay across.\" I mean, you can see Tamaro Bay is about 14 miles from here, so you can— I mean, you can see the coastline. There's a big sandy bay across this 14 mile channel, just on the edge of what you can see."
+        }
+      ],
+      "kind": "island",
+      "note": "The island is about fourteen miles across the channel from Tamaro Bay, rather than an established landing inside the bay. Dorian Almare.md describes his island home; the transcript gives this island no proper name.",
+      "relations": [
+        {
+          "relation": "offshore_of",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1720",
+              "endUid": "u1726",
+              "quote": "DM: The island— this is this island off Tamaro Bay, but this is...\n\nDelwath: Yeah.\n\nDM: You're, like, at— you are like right there, and you can either go into the bay and try and land. You can go around the stormy side of the island and investigate this wooden structure, or you can just say, \"Go in the...\""
+            },
+            {
+              "startUid": "u2335",
+              "endUid": "u2342",
+              "quote": "DM: \"Think here, or maybe maybe it was the bay across.\" I mean, you can see Tamaro Bay is about 14 miles from here, so you can— I mean, you can see the coastline. There's a big sandy bay across this 14 mile channel, just on the edge of what you can see."
+            }
+          ],
+          "note": "About fourteen miles across the channel; no bay entry is implied."
+        }
+      ]
+    },
+    "p10": {
+      "label": "Tamaro Bay",
+      "evidence": [
+        {
+          "startUid": "u1720",
+          "endUid": "u1726",
+          "quote": "DM: The island— this is this island off Tamaro Bay, but this is...\n\nDelwath: Yeah.\n\nDM: You're, like, at— you are like right there, and you can either go into the bay and try and land. You can go around the stormy side of the island and investigate this wooden structure, or you can just say, \"Go in the...\""
+        },
+        {
+          "startUid": "u2335",
+          "endUid": "u2342",
+          "quote": "DM: \"Think here, or maybe maybe it was the bay across.\" I mean, you can see Tamaro Bay is about 14 miles from here, so you can— I mean, you can see the coastline. There's a big sandy bay across this 14 mile channel, just on the edge of what you can see."
+        }
+      ],
+      "kind": "bay",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Tamaro Bay.md"
+    },
+    "p11": {
+      "label": "Driftwood structure",
+      "evidence": [
+        {
+          "startUid": "u1768",
+          "endUid": "u1770",
+          "quote": "DM: As you approach this this wooden structure you can see it looks like it's like a crudely built kind of watch tower, maybe, but it looks like it's constructed just out of, like, driftwood. I mean, there's no trees growing on this island."
+        },
+        {
+          "startUid": "u1856",
+          "endUid": "u1871",
+          "quote": "DM: You can see that it's, it's a very rickety 2 story structure. There's a ladder that goes up to the second story. The inside of the first story is, like, theoretically a shelter, but clearly, like, water could leak through. There's big holes in the ceiling. There is signs of occupation. Maybe there's like a reed grass pile that looks like something— somewhere somebody could sleep. There— there are signs of a fire just outside the wooden structure.\n\nDM: Very little in the way of possessions, although hanging on the wall, there's, like, lots and lots of dried fish, like on the out— inside wall, just hanging up, and it smells salty and fishy inside.\n\nDM: You could probably climb up the ladder to the second floor. It seems— I mean, Seeker's assessment is needs improvement, but probably won't collapse at a touch."
+        }
+      ],
+      "kind": "shelter",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1768",
+              "endUid": "u1786",
+              "quote": "DM: As you approach this this wooden structure you can see it looks like it's like a crudely built kind of watch tower, maybe, but it looks like it's constructed just out of, like, driftwood. I mean, there's no trees growing on this island.\n\nDM: As you get some elevation, you can also see that the— that the— leeward, leeward side of the island is actually quite calm, and there's a cove and a bit of a sandy beach, but you can see that there's a makeshift, you know, one person, single masted row/sailboat pulled up on the beach.\n\nDM: There are— there is clearly— now that you're up in the air above this wooden structure, you can see that there's a well worn path that leads from this wooden structure across the island, which you know, which is like I don't know, a mile— 2— a mile and a half, 2 miles across at this point, to the bay. It's like, you know, not marked or anything, but somebody's clearly walked enough along here that the vegetation has been trampled."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Leeward cove and dunes",
+      "evidence": [
+        {
+          "startUid": "u1771",
+          "endUid": "u1786",
+          "quote": "DM: As you get some elevation, you can also see that the— that the— leeward, leeward side of the island is actually quite calm, and there's a cove and a bit of a sandy beach, but you can see that there's a makeshift, you know, one person, single masted row/sailboat pulled up on the beach.\n\nDM: There are— there is clearly— now that you're up in the air above this wooden structure, you can see that there's a well worn path that leads from this wooden structure across the island, which you know, which is like I don't know, a mile— 2— a mile and a half, 2 miles across at this point, to the bay. It's like, you know, not marked or anything, but somebody's clearly walked enough along here that the vegetation has been trampled."
+        },
+        {
+          "startUid": "u1831",
+          "endUid": "u1851",
+          "quote": "DM: So, Wellby, you see as you fly ahead, while everybody else lands at the structure— I'll jump back to you in a sec— you see, so, so the island is basically, like, a cliff that slopes like this. So the, the windward side is much steeper than the leeward side, which is much shallower cliffs and seems to be a bit eroded.\n\nDM: There's, like, dunes that lead down to the ocean. You see, there's some— there is a person about 200 yards from the boat, sort of in among the dunes, seems to be rooting around, like foraging for something, like looking for plants or— hard to say.\n\nDM: Don't— aren't looking up. Don't notice you. They're wearing— hair is, like, totally tangled matted mass of sort of salt and pepper hair. He's— at— like, sunburned, wrinkled skin, like, clearly been out in the elements for a long time, barefoot, wearing sort of tattered— what maybe once were white clothes, but now are sort of a murky grayish color, carrying a big twisted driftwood stick as he walks. And he seems to be, like, singing something sort of under his breath, sing-songy as he walks."
+        },
+        {
+          "startUid": "u1886",
+          "endUid": "u1904",
+          "quote": "DM: You follow a trail, and you and you see the trail sort of winds across the top, and then it does like a series of kind of meandering switchbacks down to the dunes, to the beach, and, and you see, this man doesn't really seem to be noticing you. He sort of glance around occasionally. He's, like, waving his hand to bat something away and seems to be humming under his breath.\n\nDM: And, and every now and then he'll— he'll kind of, like, stop and look up and, like, splash some water on his face from a, like a, cracked water skin at his side, and again muttering in a language none of you recognize.\n\nSeeker: Both item, probably.\n\nDelwath: I'm— I'm gonna— when we're still— well, never mind, take it back. So, and we are near him now?\n\nDM: Yep."
+        }
+      ],
+      "kind": "cove",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1771",
+              "endUid": "u1786",
+              "quote": "DM: As you get some elevation, you can also see that the— that the— leeward, leeward side of the island is actually quite calm, and there's a cove and a bit of a sandy beach, but you can see that there's a makeshift, you know, one person, single masted row/sailboat pulled up on the beach.\n\nDM: There are— there is clearly— now that you're up in the air above this wooden structure, you can see that there's a well worn path that leads from this wooden structure across the island, which you know, which is like I don't know, a mile— 2— a mile and a half, 2 miles across at this point, to the bay. It's like, you know, not marked or anything, but somebody's clearly walked enough along here that the vegetation has been trampled."
+            },
+            {
+              "startUid": "u1831",
+              "endUid": "u1837",
+              "quote": "DM: So, Wellby, you see as you fly ahead, while everybody else lands at the structure— I'll jump back to you in a sec— you see, so, so the island is basically, like, a cliff that slopes like this. So the, the windward side is much steeper than the leeward side, which is much shallower cliffs and seems to be a bit eroded.\n\nDM: There's, like, dunes that lead down to the ocean. You see, there's some— there is a person about 200 yards from the boat, sort of in among the dunes, seems to be rooting around, like foraging for something, like looking for plants or— hard to say."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Submerged rock off the beach",
+      "evidence": [
+        {
+          "startUid": "u2533",
+          "endUid": "u2547",
+          "quote": "DM: The 3 of you searching, you don't find any sign of a body, but Kenzo and Wellby, you notice, like, as you're walking up and down the coast, there's a part of like a patch about 20–30 feet offshore, where the waves are are breaking over what looks like something that's, like, just a bit of a submerged rock. Every now and then you, you can see, like, as the sun shining, it looks like there's maybe a glint of some sort of metal flashing from that rock every now and then as the waves break it. I mean, it could just be the way the— what the water makes the rock wet or something like that, but strikes you as odd."
+        },
+        {
+          "startUid": "u2558",
+          "endUid": "u2566",
+          "quote": "DM: The water is quite rich with marine life here. Like, there's— it's sort of like a California sort of coastal tide pool sort of scene. Like, there's urchins and there's, you know, anemones and stuff, and you swim out. So there's a rock. The fish swims around the rock as you look in the Beast Sense. There definitely seem to be bones, like lot— like, piled at the bottom of the rock."
+        },
+        {
+          "startUid": "u2615",
+          "endUid": "u2626",
+          "quote": "DM: Stand— stand here, you could— when you're standing on this rock formation about 20, 30 feet offshore. You can see that there's, like, a— there's a— the— the bones have kind of been scattered, but there's what looks like a— a— that— like this— I don't know, I forget what it's called, the arm, like where the wrist is, and there's, like, a golden up— bracelet nestled on the top of the rock. Hmm."
+        }
+      ],
+      "kind": "rock",
+      "relations": [
+        {
+          "relation": "offshore_of",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u2533",
+              "endUid": "u2547",
+              "quote": "DM: The 3 of you searching, you don't find any sign of a body, but Kenzo and Wellby, you notice, like, as you're walking up and down the coast, there's a part of like a patch about 20–30 feet offshore, where the waves are are breaking over what looks like something that's, like, just a bit of a submerged rock. Every now and then you, you can see, like, as the sun shining, it looks like there's maybe a glint of some sort of metal flashing from that rock every now and then as the waves break it. I mean, it could just be the way the— what the water makes the rock wet or something like that, but strikes you as odd."
+            },
+            {
+              "startUid": "u2615",
+              "endUid": "u2626",
+              "quote": "DM: Stand— stand here, you could— when you're standing on this rock formation about 20, 30 feet offshore. You can see that there's, like, a— there's a— the— the bones have kind of been scattered, but there's what looks like a— a— that— like this— I don't know, I forget what it's called, the arm, like where the wrist is, and there's, like, a golden up— bracelet nestled on the top of the rock. Hmm."
+            }
+          ],
+          "note": "Twenty to thirty feet off the beach where the party searches."
+        }
+      ]
+    },
+    "p14": {
+      "label": "Dead calm west of Tamaro Bay",
+      "evidence": [
+        {
+          "startUid": "u2956",
+          "endUid": "u2975",
+          "quote": "DM: Begin sailing again, as dawn breaks, the light shining behind you, you see M— completely out, out of the sight of land, the— the wind becomes calm.\n\nDM: You can sense that you're— Kenzo, you can sense that you're close, like, although, again, in this strange way that it's both, you know, within a few miles and super far away. But somehow you've now— the wind has completely died and the ship is just adrift. It's almost like you— doesn't—"
+        },
+        {
+          "startUid": "u2980",
+          "endUid": "u2984",
+          "quote": "DM: So Wellby would sense that this is just— it's almost like you sailed— there was wind a minute ago, and you sailed across some barrier, and now it's just this dead calm. So the ship is not— this ship is too big to row, it's not moving."
+        },
+        {
+          "startUid": "u3007",
+          "endUid": "u3012",
+          "quote": "DM: But as you unfold your boat, Pippa asks, \"What's up?\" Like, this is a weird— you've just sailed into a zone of completely calm water, no wind, you think about 5 miles from what you guess is a portal to the Plane of Water, where the jade is on the other side of the portal. Kenzo can sense both 5 miles away and an infinite distance away."
+        }
+      ],
+      "kind": "ocean area",
+      "note": "The barrier is later identified as the Sentient Ocean’s containment. It is not itself proof that the party has entered the Elemental Plane of Water."
+    },
+    "p15": {
+      "label": "Submerged portal approach",
+      "evidence": [
+        {
+          "startUid": "u3141",
+          "endUid": "u3152",
+          "quote": "DM: Kenzo slips into a trance, and you can feel now, about some distance below you, like, quite, quite deep, half a mile deep, something like that, this swirling vortex of intrusion of another plane, of a gaping hole to another plane through which can sense the jade."
+        },
+        {
+          "startUid": "u3290",
+          "endUid": "u3310",
+          "quote": "DM: So as you descend into the depths, guided by Kenzo and the pull of the jade that he's following, both near and far, clearly leading you to a portal, the ocean closes around you, and you can feel as if you're swimming through this or swimming into— bumping up against this protective barrier. You can hear voices in the water, I— swirling cacophony of whispers blending and echoing quiet and loud, fast and slow. You can't hear the individual words, but there's, like, a hum and a buzz of coherent sounds begin to emerge, a chant that's probing:\n\nDM: \"Who are you? Who comes to the deep? Who are you? What secrets do you keep? Who are you? What are your stories?\"\n\nDM: Questioning you, somebody, the ocean, the Sentient Ocean that's guarding this portal, that's keeping anything in or out. \"You bring danger or relief?\" And as the words fade, colors swirl in your vision and it gets dark as you sink completely into the whispers of the Sentient Ocean."
+        }
+      ],
+      "kind": "undersea approach",
+      "note": "The vortex is sensed about half a mile below. The party descends into the protective whispers; passage through the planar portal is not established before cutoff.",
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p14",
+          "evidence": [
+            {
+              "startUid": "u3141",
+              "endUid": "u3152",
+              "quote": "DM: Kenzo slips into a trance, and you can feel now, about some distance below you, like, quite, quite deep, half a mile deep, something like that, this swirling vortex of intrusion of another plane, of a gaping hole to another plane through which can sense the jade."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Cedrano",
+      "evidence": [
+        {
+          "startUid": "u0054",
+          "endUid": "u0057",
+          "quote": "DM: A cave off the coast of Cedrano. You don't know precisely what—\n\nDelwath: Somewhere along here. Okay. So.\n\nDM: Island, or something."
+        }
+      ],
+      "kind": "province",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Cedrano.md"
+    },
+    "p17": {
+      "label": "The Peninsula",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0013",
+          "quote": "as you traveled from Nevium, near the— near the canal, northwest up this peninsula"
+        },
+        {
+          "startUid": "u1692",
+          "endUid": "u1704",
+          "quote": "Delwath: So wait, hold on! I had a question before we did that. Since we rounded the point, since Roccena, has there been any— so, like, is this whole area around to the point unsettled? Are we in wild territory now?\n\nDM: They're in pretty wild territory. There's really no settlement on the west coast of the Peninsula.\n\nDM: There's nothing really on the point, either. There's— Rosanna's or Rosena is a pretty big city. The interior of this province is settled somewhat. There's forts. I mean, the map shows forts.\n\nDM: But this— this area, like north and south of Tamaro Bay, is not settled. You haven't seen any villages around, except there does seem to be a wooden structure on the top of cliff."
+        }
+      ],
+      "kind": "peninsula",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Apporia.md",
+      "note": "Apporia.md resolves the named coastal towns and province to Apporia, the peninsula called “the Peninsula” here; vault-only regional orientation is not additional played containment."
+    },
+    "p18": {
+      "label": "Air above the driftwood structure",
+      "evidence": [
+        {
+          "startUid": "u1757",
+          "endUid": "u1786",
+          "quote": "DM: 10 min, okay. So you fly up. You're— you're not— you're— you're close-ish. I mean, you're close enough to the, to the coast to see this structure. You're not super close, so it takes you a couple of minutes to fly. And you can see— so this— a, a few things you notice. One is that, Wellby, you can see signs of several shipwrecks, possibly as many as 3 on the— battered against the rocks of the wavy coast of this island. This is a difficult place to land, and a tricky place to even sail.\n\nDM: As you approach this this wooden structure you can see it looks like it's like a crudely built kind of watch tower, maybe, but it looks like it's constructed just out of, like, driftwood. I mean, there's no trees growing on this island.\n\nDM: As you get some elevation, you can also see that the— that the— leeward, leeward side of the island is actually quite calm, and there's a cove and a bit of a sandy beach, but you can see that there's a makeshift, you know, one person, single masted row/sailboat pulled up on the beach.\n\nDM: There are— there is clearly— now that you're up in the air above this wooden structure, you can see that there's a well worn path that leads from this wooden structure across the island, which you know, which is like I don't know, a mile— 2— a mile and a half, 2 miles across at this point, to the bay. It's like, you know, not marked or anything, but somebody's clearly walked enough along here that the vegetation has been trampled."
+        }
+      ],
+      "kind": "airspace",
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1778",
+              "endUid": "u1786",
+              "quote": "DM: There are— there is clearly— now that you're up in the air above this wooden structure, you can see that there's a well worn path that leads from this wooden structure across the island, which you know, which is like I don't know, a mile— 2— a mile and a half, 2 miles across at this point, to the bay. It's like, you know, not marked or anything, but somebody's clearly walked enough along here that the vegetation has been trampled."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0048"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party meets Pippa and Martino around the map in Castrella harbor.",
+      "place": "p01",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0013",
+          "quote": "DM: Okay. So as we start, it is pre-dawn in the harbor of the port town of Castrella. Over the past— now 21 days until Apollyon is— over the past 3 days, as you traveled from Nevium, near the— near the canal, northwest up this peninsula, you accrued some assistance in the form of Martino, an old fisherman who knows the water super well, but hurt his hand in a shipwreck and can't sail anymore;"
+        },
+        {
+          "startUid": "u0038",
+          "endUid": "u0048",
+          "quote": "DM: And as we begin, if you'll all— you're on Roll20, you are standing around— okay, let's— you are standing around Wellby's map.\n\nSeeker: Who knows?\n\nDM: From Tullus, the map seller in Castrella, with Pippa and Martino discussing, \"Where should we go?\" as you prepare to sail on the morning tide."
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0282",
+        "endUid": "u0386"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Sail aboard Summer’s Breeze from Castrella, through the channel beside Calcara, to an offshore anchorage near its western caves.",
+      "from": "p01",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "sail",
+      "vehicle": "p03",
+      "route": [
+        {
+          "reading": "Round the mainland point and sail the channel between its headlands and Calcara’s cliffs.",
+          "place": "p04"
+        },
+        {
+          "reading": "Round Calcara’s western tip and anchor 500–1,000 yards off the cave cliffs."
+        }
+      ],
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "offshore_of",
+          "target": "p04"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0282",
+          "endUid": "u0290",
+          "quote": "DM: Okay, so you set sail, still in the dark, the sun not yet cracking above the horizon, as you begin to pick up speed, catching the outgoing tide, which runs pretty fast out of this— out of this bay. That's why you're up so early is to get the departing tide. So you managed to make a good clip on the Summer's Breeze."
+        },
+        {
+          "startUid": "u0291",
+          "endUid": "u0318",
+          "quote": "DM: Martino sitting in the the bow watching the waves as you sail traveling, maybe reaching the midpoint of the, of this long Castrella Bay by— by 5 AM and reaching the— rounding the tip by 7 AM, about 4 h after you— maybe, maybe 5 h, 8 AM.\n\nDM: As the sun comes out and it begins to get bright, as you— that— reach the open ocean. There's a strong wind blowing onshore sea breeze, so you're sort of tacking across the wind. The waves have picked up. It's a bit rocky going as you round the point, and by far as that— by oh, that's only 6 miles— by 9, you've made your way into this channel,\n\nDM: Sailing between the rocky headlands of the this prominence, this point, and and the cliffs of Calcara Island."
+        },
+        {
+          "startUid": "u0331",
+          "endUid": "u0342",
+          "quote": "DM: By noon or so you've reached— you've reached here. You've reached fairly close to the to the tip, and western tip of the island, and Kenzo comes to stand on the the prow of the boat for a minute and spends a moment meditating, reaching your consciousness out to feel for the presence of any stoneborn. You just like here."
+        },
+        {
+          "startUid": "u0359",
+          "endUid": "u0386",
+          "quote": "DM: And so, with Kenzo's guidance and— Pippa's crew turns the ship. And you begin to— you're now— Can't quite sail directly offshore, because there's a due onshore breeze. Yup. So you're kind of tacking and sort of making your way slowly around. Takes another hour to sort of round that point.\n\nDM: And you can see now this coastline, there's like four caves in the, in the side of this tall white limestone cliff. One is— the right by the point is small and caved in, and probably not navigable by a boat.\n\nDM: The— at— western— the next one over heading east is— Wellby would notice this even from some distance away. You can't— the ship— the big ship itself can't get too close to the coast because there's, like, crashing waves and like, this is not— this is not something— I mean, they're just kind of dropped their sea anchor and sort of holding points about, you know, 500–1,000 yards off off the cliffs at the moment, as you kind of look, peering— Wellby, peering with— through your spyglass. The second one from the east from the point, the second cave, it is smaller, but there are signs, maybe, that it's been worked like the entrance has been shaped and cleared a little bit."
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0366",
+        "endUid": "u0398"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "From the anchored ship, inspect the cave mouths through a spyglass.",
+      "place": "p05",
+      "mode": "local",
+      "observerPlace": "p03",
+      "note": "Four entrances are described; only the worked cave is later entered. The submerged and collapsed caves are not visits.",
+      "evidence": [
+        {
+          "startUid": "u0366",
+          "endUid": "u0398",
+          "quote": "DM: And you can see now this coastline, there's like four caves in the, in the side of this tall white limestone cliff. One is— the right by the point is small and caved in, and probably not navigable by a boat.\n\nDM: The— at— western— the next one over heading east is— Wellby would notice this even from some distance away. You can't— the ship— the big ship itself can't get too close to the coast because there's, like, crashing waves and like, this is not— this is not something— I mean, they're just kind of dropped their sea anchor and sort of holding points about, you know, 500–1,000 yards off off the cliffs at the moment, as you kind of look, peering— Wellby, peering with— through your spyglass. The second one from the east from the point, the second cave, it is smaller, but there are signs, maybe, that it's been worked like the entrance has been shaped and cleared a little bit.\n\nDM: The third is like this great gash in the side of the cliff. You can see waves going in and out. Like, it looks like there's a— it's— it almost looks— it doesn't look like it goes very far deep, but it's a— it's a really tall, wide opening. Like, a, a pretty tall masted ship, if it was rowed, not sailed, could probably row in that one.\n\nDM: And then the furthest away of the 4 caves is again smaller, and looks— the— the cave edge itself is— it's now— so the tide was going out. It's now low tide. Your judgment, Wellby, based on your nautical experience and your ridiculous skills at everything is that at high tide this cave would be completely underwater."
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0479",
+        "endUid": "u0569"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Row from the ship past the seals through the worked cave entrance and tie up at Kazuro’s dock.",
+      "from": "p03",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "row",
+      "vehicle": "p08",
+      "distance": {
+        "value": 1000,
+        "unit": "yard",
+        "precision": "approximate",
+        "basis": "DM’s rowing approach estimate"
+      },
+      "route": [
+        {
+          "reading": "Pass the rock pile and fur seals at the worked entrance.",
+          "place": "p05"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0479",
+          "endUid": "u0487",
+          "quote": "DM: So you're gonna be rowing, I think, because it's too hard. It's too tricky to approach with the waves and the tricky winds by sail, but it's not far. It's like a thousand yards. So you set out rowing, and, you know, make a— well, actually, Wellby, make a Dex plus proficiency, like for boat handling.\n\nRiswynn: Does Wellby need me to, like, know what I'm doing? Would that be helpful?\n\nDM: So it's— this is— you're in the small boat, I presume."
+        },
+        {
+          "startUid": "u0495",
+          "endUid": "u0506",
+          "quote": "DM: Ridiculous. Yeah, you navigate closer, and you can see that the— as you get closer to the cliffs under Wellby's skilled navigation, you can see that the— the— closest of the— not the, not the cave with the tumbled in, but the— the second cave, the one that it looks like where the where the entrance has been worked slightly. There's like a jumbled pile of rocks just out front of that cave, and there's maybe 10 fur seals camped out on them."
+        },
+        {
+          "startUid": "u0533",
+          "endUid": "u0543",
+          "quote": "Wellby: So we head into the cave, then.\n\nDelwath: I think so, right? Like...\n\nDM: So you row into the cave and you pass through this narrow opening and see, the inside is lit with this kind of eerie blue light that seems to be not entirely natural.\n\nSeeker: Well.\n\nDM: Glowing from the walls, sometimes even from the water a little bit."
+        },
+        {
+          "startUid": "u0550",
+          "endUid": "u0569",
+          "quote": "DM: And as you enter, you, you slowly sail in, and you see these— this dock, and then stairs leading up through the cave. And you see like, the, the stairs lead up and sort of curve around in a way that you can't see where they lead.\n\nDM: There is a small raft docked at the dock, and sitting half submerged in the water is a stoneborn near the dock, skin bluish, like bluish gray limestone, wearing blue robes that seem not to be wet from the water, sitting still like a statue, the water up to his chest.\n\nDM: And as you enter, sees your boat coming in the cave, he stands up, looks at you for a moment, and then grumbles in Common, \"Who are you to disturb my meditation?\"\n\nDM: Begins to walk, and as he walks, you— he— he seems to be walking almost up underwater steps that lead up to the dock, and he comes and stands on the dock as you approach to tie up your ship."
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0650",
+        "endUid": "u0694"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Follow Kazuro up the cave stairs into his living area and sit down.",
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk",
+      "evidence": [
+        {
+          "startUid": "u0650",
+          "endUid": "u0652",
+          "quote": "DM: And as he says this, as he says this, he's turning away and kind of walking up the stairs, like, \"Follow me or not. I don't care.\""
+        },
+        {
+          "startUid": "u0664",
+          "endUid": "u0694",
+          "quote": "DM: He says, \"Indeed, there are many stories I've heard. The ocean has every story.\" Are you following him as— as...?\n\nDelwath: Delwath is, at least, yeah. Yep.\n\nRiswynn: Riswynn ventures to compliment, you know, \"I, in the service of my gods, and attempts to be part of stories that make the world a better place. I've seen many wondrous things, and your home is quite remarkable.\"\n\nDM: He, he kind of— so as you— he's sort of shaking his head a little bit as you go up these stairs. You see, as you get to the top of this set of stairs, there's a sort of a living area that's been set up. There's a— there's no, no walls or anything, but there's like a, a paper screen that he sort of pushes aside, and there's a series of windows that have been cleverly cut in the stone that allow sunlight to filter through and illuminate from this area. There's a bed, there's a simple hearth, a desk, a chest,\n\nDM: And then there's a separate area that's sort of closed off, and he sort of motions. It's a fairly big room. He motions for you to sit on the floor and begin sort of bustling around making some— something, cooking water."
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1412",
+        "endUid": "u1502"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Depart the cave, rejoin Summer’s Breeze, and set off for Tamaro Bay.",
+      "from": "p07",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "boat transfer then sail",
+      "vehicle": "p03",
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "departing_from",
+          "target": "p04"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1412",
+          "endUid": "u1417",
+          "quote": "DM: So as you depart, it's now, like, probably 3 in the afternoon, and you've got quite a ways to go to wherever you're going to next, now that you're equipped with a way to breathe water for as long as you want, though only one spare dose, so you can't be going back and forth between water and air all that much."
+        },
+        {
+          "startUid": "u1447",
+          "endUid": "u1450",
+          "quote": "DM: What is your, what is your goal for the next leg of your journey?\n\nSeeker: I...\n\nDelwath: I think, to get to Tamaro Bay as fast as possible.\n\nRiswynn: Yeah, get on our boat and zoom there."
+        },
+        {
+          "startUid": "u1480",
+          "endUid": "u1487",
+          "quote": "DM: Hence it— given that the halflings are willing to continue to sail around the clock and move things along, so you've got plenty of supplies. You've got— you're not planning on put— putting into dock at any point at this stage. So you just begin heading— heading out, picking up steam, not literally steam, picking up wind."
+        },
+        {
+          "startUid": "u1494",
+          "endUid": "u1502",
+          "quote": "DM: The, the first day— the, the rest of this evening, you sail under— under clear skies, light winds. The halflings put on all the sails, and you watch the spray, you know, spray from the bow of the ship as you race northwest, cutting a as straight as possible a path, so sort of heading out into the gulf a little to avoid curve of the coastline."
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1494",
+        "endUid": "u1574"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Sail northwest and around the peninsula to the island off Tamaro Bay, arriving after slightly more than forty-eight hours.",
+      "from": "p03",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "sail",
+      "vehicle": "p03",
+      "duration": {
+        "min": 48,
+        "minInclusive": false,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s completed aggregate voyage, corrected from 24 to 48 hours"
+      },
+      "route": [
+        {
+          "reading": "Cut out into the gulf to avoid following the curving coastline."
+        },
+        {
+          "reading": "Pass off Sarvia and Raziolo, then navigate a channel between islands."
+        },
+        {
+          "reading": "Round the point into heavier western seas before approaching the island off Tamaro Bay.",
+          "place": "p09"
+        }
+      ],
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "offshore_of",
+          "target": "p09"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1494",
+          "endUid": "u1555",
+          "quote": "DM: The, the first day— the, the rest of this evening, you sail under— under clear skies, light winds. The halflings put on all the sails, and you watch the spray, you know, spray from the bow of the ship as you race northwest, cutting a as straight as possible a path, so sort of heading out into the gulf a little to avoid curve of the coastline.\n\nDelwath: Help!\n\nDM: Dead reckoning, sort of as close to due north-northwest as you can.\n\nDM: By night— let's see. So 12 h is [garbled].\n\nDM: The sun rises in the middle of the open ocean. No land in sight anywhere. Somebody else rolled a d. 20, a day.\n\nRiswynn: Perfect.\n\nDM: The winds continuing and favorable as the sun rises and you pass by mid-afternoon, off the coast of the Raziolo, this other province that you— you know, passing this headlands or this town of Sarvia, it is, and veering a little bit more westerly to navigate through this channel between the islands.\n\nDM: As— at night falls, halflings in good spirits, Martino, pointing out landmarks, used to sail as far as there's apparently great fishing just up here where he used to go in his youth, the weather holding— no— seasonable winds through the night.\n\nDM: So this would be— so that would be 24 h would be 3 PM, 10 again. So, 3 P...\n\nDM: Okay, as the sun rises the next day, can somebody else roll the d. 20?\n\nRiswynn: I will.\n\nDM: Like you all.\n\nRiswynn: 19.\n\nDM: Okay, good weather persists as the sun— as the sun rises in this— around this channel.\n\nDM: And by lunchtime or so, you're— you're rounding— a, a little before lunchtime, you're rounding the point. The waves pick up. Now you're— now you're going a bit slower because the seas are heavy. You're looking out now across the endless ocean into the west, as far as you know, the wire."
+        },
+        {
+          "startUid": "u1563",
+          "endUid": "u1574",
+          "quote": "DM: You turn and, and sail now for Tamaro Bay. And by mid-afternoon a little bit more than 24 h— than 48 h after you left the coast, relatively uneventfully traveling, you can see the crashing waves of this island here ahead of you, and you've got to make some decisions about navigation now. Are you heading west? Are you heading in for the bay? Are you heading to the island?"
+        },
+        {
+          "startUid": "u1720",
+          "endUid": "u1726",
+          "quote": "DM: The island— this is this island off Tamaro Bay, but this is...\n\nDelwath: Yeah.\n\nDM: You're, like, at— you are like right there, and you can either go into the bay and try and land. You can go around the stormy side of the island and investigate this wooden structure, or you can just say, \"Go in the...\""
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1757",
+        "endUid": "u1786"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Fly from the ship to the air above the driftwood structure on the island.",
+      "from": "p03",
+      "to": "p18",
+      "completion": "arrived",
+      "mode": "fly",
+      "note": "Arrival is above the structure; the next split marker establishes which characters actually land.",
+      "evidence": [
+        {
+          "startUid": "u1757",
+          "endUid": "u1786",
+          "quote": "DM: 10 min, okay. So you fly up. You're— you're not— you're— you're close-ish. I mean, you're close enough to the, to the coast to see this structure. You're not super close, so it takes you a couple of minutes to fly. And you can see— so this— a, a few things you notice. One is that, Wellby, you can see signs of several shipwrecks, possibly as many as 3 on the— battered against the rocks of the wavy coast of this island. This is a difficult place to land, and a tricky place to even sail.\n\nDM: As you approach this this wooden structure you can see it looks like it's like a crudely built kind of watch tower, maybe, but it looks like it's constructed just out of, like, driftwood. I mean, there's no trees growing on this island.\n\nDM: As you get some elevation, you can also see that the— that the— leeward, leeward side of the island is actually quite calm, and there's a cove and a bit of a sandy beach, but you can see that there's a makeshift, you know, one person, single masted row/sailboat pulled up on the beach.\n\nDM: There are— there is clearly— now that you're up in the air above this wooden structure, you can see that there's a well worn path that leads from this wooden structure across the island, which you know, which is like I don't know, a mile— 2— a mile and a half, 2 miles across at this point, to the bay. It's like, you know, not marked or anything, but somebody's clearly walked enough along here that the vegetation has been trampled."
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u1771",
+        "endUid": "u1794"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From above the structure, see the leeward cove, beached boat and connecting path, without yet visiting the cove.",
+      "place": "p12",
+      "mode": "local",
+      "observerPlace": "p18",
+      "evidence": [
+        {
+          "startUid": "u1771",
+          "endUid": "u1794",
+          "quote": "DM: As you get some elevation, you can also see that the— that the— leeward, leeward side of the island is actually quite calm, and there's a cove and a bit of a sandy beach, but you can see that there's a makeshift, you know, one person, single masted row/sailboat pulled up on the beach.\n\nDM: There are— there is clearly— now that you're up in the air above this wooden structure, you can see that there's a well worn path that leads from this wooden structure across the island, which you know, which is like I don't know, a mile— 2— a mile and a half, 2 miles across at this point, to the bay. It's like, you know, not marked or anything, but somebody's clearly walked enough along here that the vegetation has been trampled.\n\nDM: At the moment, you don't see any signs of person, though, either on the trail or in this structure. The boat is a little bit far away to see, like the cove is sort of from your perspective is not easy to see. So somebody— if somebody was— was sort of had pulled the boat up and was in the cove, you wouldn't be able to see them here unless you go further up or further east."
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1831",
+        "endUid": "u1854"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Riswynn",
+        "Seeker"
+      ],
+      "reading": "Delwath, Kenzo, Riswynn and Seeker land at the driftwood shelter while Wellby scouts ahead.",
+      "from": "p18",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "land",
+      "evidence": [
+        {
+          "startUid": "u1831",
+          "endUid": "u1832",
+          "quote": "DM: So, Wellby, you see as you fly ahead, while everybody else lands at the structure— I'll jump back to you in a sec— you see, so, so the island is basically, like, a cliff that slopes like this. So the, the windward side is much steeper than the leeward side, which is much shallower cliffs and seems to be a bit eroded."
+        },
+        {
+          "startUid": "u1852",
+          "endUid": "u1867",
+          "quote": "Wellby: I'll let the rest of you know telepathically. That's...\n\nDM: As you landed this way.\n\nSeeker: Weird guy.\n\nDM: You can see that it's, it's a very rickety 2 story structure. There's a ladder that goes up to the second story. The inside of the first story is, like, theoretically a shelter, but clearly, like, water could leak through. There's big holes in the ceiling. There is signs of occupation. Maybe there's like a reed grass pile that looks like something— somewhere somebody could sleep. There— there are signs of a fire just outside the wooden structure.\n\nDM: Very little in the way of possessions, although hanging on the wall, there's, like, lots and lots of dried fish, like on the out— inside wall, just hanging up, and it smells salty and fishy inside."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1831",
+        "endUid": "u1882"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby flies ahead, sights the forager in the dunes, and lands between him and his boat.",
+      "from": "p18",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "fly",
+      "evidence": [
+        {
+          "startUid": "u1831",
+          "endUid": "u1851",
+          "quote": "DM: So, Wellby, you see as you fly ahead, while everybody else lands at the structure— I'll jump back to you in a sec— you see, so, so the island is basically, like, a cliff that slopes like this. So the, the windward side is much steeper than the leeward side, which is much shallower cliffs and seems to be a bit eroded.\n\nDM: There's, like, dunes that lead down to the ocean. You see, there's some— there is a person about 200 yards from the boat, sort of in among the dunes, seems to be rooting around, like foraging for something, like looking for plants or— hard to say.\n\nDM: Don't— aren't looking up. Don't notice you. They're wearing— hair is, like, totally tangled matted mass of sort of salt and pepper hair. He's— at— like, sunburned, wrinkled skin, like, clearly been out in the elements for a long time, barefoot, wearing sort of tattered— what maybe once were white clothes, but now are sort of a murky grayish color, carrying a big twisted driftwood stick as he walks. And he seems to be, like, singing something sort of under his breath, sing-songy as he walks."
+        },
+        {
+          "startUid": "u1877",
+          "endUid": "u1882",
+          "quote": "DM: As you approach— Wellby, your landing.\n\nWellby: I'm gonna land between the person and the boat, and then wait for— and try and time that near when everyone else is getting, okay."
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1883",
+        "endUid": "u1904"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Riswynn",
+        "Seeker"
+      ],
+      "reading": "Walk the worn trail and switchbacks from the structure to the dunes and beach near Dorian.",
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk",
+      "duration": {
+        "value": 15,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates the walk at a fifteen-minute brisk pace"
+      },
+      "evidence": [
+        {
+          "startUid": "u1883",
+          "endUid": "u1904",
+          "quote": "DM: So it takes, you know, not very long to walk a mile, 15 min at a good brisk pace.\n\nDM: You follow a trail, and you and you see the trail sort of winds across the top, and then it does like a series of kind of meandering switchbacks down to the dunes, to the beach, and, and you see, this man doesn't really seem to be noticing you. He sort of glance around occasionally. He's, like, waving his hand to bat something away and seems to be humming under his breath.\n\nDM: And, and every now and then he'll— he'll kind of, like, stop and look up and, like, splash some water on his face from a, like a, cracked water skin at his side, and again muttering in a language none of you recognize.\n\nSeeker: Both item, probably.\n\nDelwath: I'm— I'm gonna— when we're still— well, never mind, take it back. So, and we are near him now?\n\nDM: Yep."
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "type": "observation",
+      "source": {
+        "startUid": "u2335",
+        "endUid": "u2342"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the island beach, see Tamaro Bay across the fourteen-mile channel; no physical bay landing is established.",
+      "place": "p10",
+      "mode": "local",
+      "observerPlace": "p12",
+      "note": "Dorian is uncertain which beach figured in his old memory; the DM separately describes the bay visible now.",
+      "evidence": [
+        {
+          "startUid": "u2335",
+          "endUid": "u2342",
+          "quote": "DM: \"Think here, or maybe maybe it was the bay across.\" I mean, you can see Tamaro Bay is about 14 miles from here, so you can— I mean, you can see the coastline. There's a big sandy bay across this 14 mile channel, just on the edge of what you can see."
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u2555",
+        "endUid": "u2598"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Use Beast Sense through a fish to inspect merfolk bones around the submerged rock while physically remaining on the beach.",
+      "place": "p13",
+      "mode": "remote",
+      "observerPlace": "p12",
+      "note": "The fish cannot inspect the top above the water; no physical Wellby visit to the rock is established.",
+      "evidence": [
+        {
+          "startUid": "u2548",
+          "endUid": "u2557",
+          "quote": "Wellby: Let me see if I can find a fish swimming in the shallows and Beast Sense and go investigate through the fish's eyes.\n\nDM: Okay, make them— make an Animal Handling check, but using dexterity instead of wisdom in order to try and catch a fish.\n\nWellby: Yes.\n\nDM: With your bare hands.\n\nWellby: So it's 25 rather than 23.\n\nDM: 3, 5. Okay, yes, you catch a fish. Beast Sense into it and send it swimming out, swimming around."
+        },
+        {
+          "startUid": "u2558",
+          "endUid": "u2598",
+          "quote": "DM: The water is quite rich with marine life here. Like, there's— it's sort of like a California sort of coastal tide pool sort of scene. Like, there's urchins and there's, you know, anemones and stuff, and you swim out. So there's a rock. The fish swims around the rock as you look in the Beast Sense. There definitely seem to be bones, like lot— like, piled at the bottom of the rock.\n\nWellby: How many and what kind of creatures worth of bones are there?\n\nDM: Please make a medicine check. It's a bit strange, actually. It seems to be like humanoid, but not quite— like some fish-like bones as well.\n\nWellby: So, femurs?\n\nDM: Well, merfolk are not like mermaids, right? They don't have— they can walk on land, right? But they have— they have, like, webbed feet and, like, long fins and, like, thin spiny fin bones that make— so it's not— it's humanoid, but there's extra bones that, like, would make fins like weirdly long fingers.\n\nDM: You, you infer— it's, it's good with high level parties. You never fail any— you almost never fail any checks, except where Delwath rolled a one on a persuasion. So you always get all the information.\n\nSeeker: Convenient.\n\nDM: Although the 34 was— learning that was extraplanar was not easy. That was a good roll.\n\nDM: The— this is definitely the bones of probably a single merfolk.\n\nWellby: Is there anything besides bones or there? There was a glint of something metal.\n\nDM: Well, the fish can't swim out of the water. It's— the fish won't go up high enough to see what's like, and— but— and not all the bones were there. Like, it looks like you're imagining the scene was that somebody was killed and sort of thrown back against the rock. Some of their bones fell to the ground, and some stuff is— was stuck nestled at the top of the rock."
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2601",
+        "endUid": "u2654"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Run across the water to the rock, retrieve the bracelet and return it to Dorian.",
+      "from": "p12",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "run on water",
+      "route": [
+        {
+          "reading": "Stand on the rock and retrieve the gold bracelet.",
+          "place": "p13"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2601",
+          "endUid": "u2609",
+          "quote": "Wellby: Say, like, I'll say to Kenzo, \"You, dude, do you, like, walk on water?\"\n\nDM: Yeah. Kenzo can run out there.\n\nDelwath: I can also grow gills, if that would be helpful.\n\nKenzo: Or I could just walk on water.\n\nDelwath: Go for it.\n\nKenzo: Great."
+        },
+        {
+          "startUid": "u2612",
+          "endUid": "u2626",
+          "quote": "DM: So, right, so it's like the— it's like the, you know, martial arts that, like, you can, you can run on water, but you can't stand for a long time, you'll sink, but you run across the water.\n\nDM: Stand— stand here, you could— when you're standing on this rock formation about 20, 30 feet offshore. You can see that there's, like, a— there's a— the— the bones have kind of been scattered, but there's what looks like a— a— that— like this— I don't know, I forget what it's called, the arm, like where the wrist is, and there's, like, a golden up— bracelet nestled on the top of the rock. Hmm."
+        },
+        {
+          "startUid": "u2631",
+          "endUid": "u2638",
+          "quote": "Kenzo: That get the bracelet, or...?\n\nDelwath: Yeah.\n\nKenzo: Should I bring it back, or...?\n\nDelwath: Yeah, let's, let's tell the guy we found a dead merm— folk. \"Here's their bracelet, is this, bum— Caloria's?\""
+        },
+        {
+          "startUid": "u2649",
+          "endUid": "u2654",
+          "quote": "Kenzo: There. Alright. I bring that via.\n\nDM: He looks up and, like, his face falls. \"She is dead, then. What could have happened?\""
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2862",
+        "endUid": "u2876"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leave Dorian on his island and return to Summer’s Breeze around 4:30 p.m.",
+      "from": "p12",
+      "to": "p03",
+      "completion": "arrived",
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "offshore_of",
+          "target": "p09"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2862",
+          "endUid": "u2876",
+          "quote": "DM: So you leave him to his grief and devices and recovery.\n\nDM: You do, before you leave— he does manage to remember his name. This is Dorian you heard stories of in— right, yeah.\n\nDelwath: Okay.\n\nDM: And you, you return to the boat around 4 30. So with maybe an hour and a half of sunlight. There is a new moon today, so it will be dark by the time when the sun sets."
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2890",
+        "endUid": "u2984"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Sail west overnight until dawn, when the ship becomes becalmed in the dead zone.",
+      "from": "p03",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "sail",
+      "vehicle": "p03",
+      "route": [
+        {
+          "reading": "About twenty miles by sunset and perhaps fifty from the island by midnight."
+        },
+        {
+          "reading": "Reach the unnatural dead calm at dawn.",
+          "place": "p14"
+        }
+      ],
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "within",
+          "target": "p14"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u2890",
+          "endUid": "u2925",
+          "quote": "DM: So you start sailing west. Yeah, sunsets, sailing. There's a— so it was tough going tacking sort of southwest, but— but going west is is easier because you're now running before the wind. And you go, you know, you maybe manage to go 20 miles or so before— before as the sun sets. It's a beautiful sunset.\n\nDM: And then, a— continue going into the night, watching the ocean, watching everything, everybody kind of attuned to what you might see. You see no lights, pitch black, beautiful stars out above your head, but nothing in the ocean, just dark blue water stretching as far as the eye can see.\n\nDM: And in fact, as you sail— I mean, the half— the Pippa is actually loving this because the stars are— it's, like, finally a clear day. The wind's blowing, the stars are out, super easy to navigate dead west by the stars. You just continue sailing another...\n\nSeeker: Yeah.\n\nDM: Hours— another 20 miles by midnight. You've gone maybe 50 miles from the island by..."
+        },
+        {
+          "startUid": "u2933",
+          "endUid": "u2947",
+          "quote": "DM: Early, early in the morning, as Kenzo's, you know, at watch, most of the rest of you are sleeping, you start to feel the tug of the jade.\n\nKenzo: Sweet.\n\nDM: It seems...\n\nSeeker: Us.\n\nDM: Like you're getting close, but also that it is incredibly far away at the same time. Almost impossible, it is. It is both within 50 miles and an infinite distance away."
+        },
+        {
+          "startUid": "u2956",
+          "endUid": "u2984",
+          "quote": "DM: Begin sailing again, as dawn breaks, the light shining behind you, you see M— completely out, out of the sight of land, the— the wind becomes calm.\n\nDM: You can sense that you're— Kenzo, you can sense that you're close, like, although, again, in this strange way that it's both, you know, within a few miles and super far away. But somehow you've now— the wind has completely died and the ship is just adrift. It's almost like you— doesn't—\n\nDM: Wellby would sense, given— I think Wellby has proficiency in nature, is just English. Yeah.\n\nDM: So Wellby would sense that this is just— it's almost like you sailed— there was wind a minute ago, and you sailed across some barrier, and now it's just this dead calm. So the ship is not— this ship is too big to row, it's not moving."
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u3078",
+        "endUid": "u3140"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leave Summer’s Breeze in the folding boat and row toward the center of the dead calm.",
+      "from": "p03",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "row",
+      "vehicle": "p08",
+      "locationContext": [
+        {
+          "subject": "p08",
+          "relation": "within",
+          "target": "p14"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u3078",
+          "endUid": "u3089",
+          "quote": "DM: And she— you get into the folding boat, and she— she launches her, her launches so that they can, they can, like, you know, tow the big ship with the little ship back into the— out of this, like, weird dead zone of becalmed magical water, as you proceed to row in increasing silence.\n\nDM: The only noise, the dip and clank of your oars, no sound of wind, no sound of waves."
+        },
+        {
+          "startUid": "u3112",
+          "endUid": "u3140",
+          "quote": "DM: So you row, takes you a bit. Not— I mean, you're, you're good oarsman, like, it doesn't take that long to cross the miles. And it seems like you're— you're rowing to the very center of this dead point in the ocean.\n\nDM: It's now, as you progress, it's, it's become completely dead calm, like you're rowing across glass, smooth water, and even the dip of your oars seems to— it's almost like the ocean fights back against your oars, like it's trying to even keep you from moving. But Kenzo's sense— you're muted, Kong.\n\nKenzo: Yeah, Tim, my, my Commune with Nature thing, like, was this, like— everything's, like— what's going on? What's the vibes?\n\nDM: So Kenzo slips into a trance as— I guess Riswynn is the only one who's really strong enough to actually operate oars. Wellby could probably row too, but you're a little small for this boat.\n\nDM: So as Riswynn and Wellby row, row the boat, Delwath keeps lookout, Seeker curses that he didn't build water helmets, Kenzo slips into meditation.\n\nSeeker: Seeker's rowing, using the Immovable Rod by just clicking it in the air and pulling on it, and then releasing it.\n\nDM: Actually a good way to row."
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "type": "observation",
+      "source": {
+        "startUid": "u3141",
+        "endUid": "u3180"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "From the folding boat, sense the deep vortex and the ocean’s enclosing defense.",
+      "place": "p15",
+      "mode": "remote",
+      "observerPlace": "p08",
+      "evidence": [
+        {
+          "startUid": "u3141",
+          "endUid": "u3180",
+          "quote": "DM: Kenzo slips into a trance, and you can feel now, about some distance below you, like, quite, quite deep, half a mile deep, something like that, this swirling vortex of intrusion of another plane, of a gaping hole to another plane through which can sense the jade.\n\nKenzo: Sweet.\n\nDM: All around you in the water, you sense— you have a strange sense, actually.\n\nDM: There's this hum and buzz of noise, of songs, of some kind of, like, echoing sounds. It doesn't feel wrong, it feels not peaceful exactly, watchful, and the sense you get from this is— is place that you're sailing, this is like a immune defense against them that sealed off this portal.\n\nDM: The wind and the waves and everything has created a barrier. All of its energies are going to keeping whatever wants to come through this portal from spreading. Hasn't— the ocean can't close the break in— form a barrier between the rest of the world."
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u3247",
+        "endUid": "u3310"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Dive from the folding boat and descend into the ocean’s protective barrier toward the portal; the session cuts off in its whispers.",
+      "from": "p08",
+      "to": "p15",
+      "completion": "underway",
+      "mode": "swim and sink",
+      "note": "The protective barrier is reached; arrival at or traversal of the actual planar portal remains unestablished.",
+      "evidence": [
+        {
+          "startUid": "u3247",
+          "endUid": "u3265",
+          "quote": "DM: So, do it? You chew this gummy gelatinous substance, and you feel— you feel suddenly as if you're choking, like struggling to breathe as your lungs close and gills grow, and you dive into the water, feeling not exactly at home, because it doesn't grant you a swim speed or anything like that, but it's nice, like, the water is nice to breathe. It's a strange sensation. None of you— well, Delwath's had gills, but the rest of you have never had gills before.\n\nDM: You begin to sink. You have to swim to— we have to swim down pretty fast, keep up with Riswynn sinking in her plate armor."
+        },
+        {
+          "startUid": "u3290",
+          "endUid": "u3310",
+          "quote": "DM: So as you descend into the depths, guided by Kenzo and the pull of the jade that he's following, both near and far, clearly leading you to a portal, the ocean closes around you, and you can feel as if you're swimming through this or swimming into— bumping up against this protective barrier. You can hear voices in the water, I— swirling cacophony of whispers blending and echoing quiet and loud, fast and slow. You can't hear the individual words, but there's, like, a hum and a buzz of coherent sounds begin to emerge, a chant that's probing:\n\nDM: \"Who are you? Who comes to the deep? Who are you? What secrets do you keep? Who are you? What are your stories?\"\n\nDM: Questioning you, somebody, the ocean, the Sentient Ocean that's guarding this portal, that's keeping anything in or out. \"You bring danger or relief?\" And as the words fade, colors swirl in your vision and it gets dark as you sink completely into the whispers of the Sentient Ocean."
+        }
+      ]
+    }
+  ]
+}

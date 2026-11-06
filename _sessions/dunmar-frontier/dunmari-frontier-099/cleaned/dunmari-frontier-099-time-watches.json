@@ -1,0 +1,205 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-099/cleaned/dunmari-frontier-099-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-099/cleaned/dunmari-frontier-099-time-markers.json",
+    "sha256": "1ac95e9efb87914541ac5bca581e0a1871d387fddd9d71c2ef6309d21c69bb18"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-099/cleaned/dunmari-frontier-099-transcript.md",
+    "sha256": "b4ec24952c03817267fe4a1293c561926e21753af9256b130b64ea86d7a84a5b"
+  },
+  "dateAssessment": "Working dates use the registered YAML calendar, May 8–11, 1749. The transcript independently states May and places three civil-date transitions in current play: two nights on the just-over-48-hour voyage to the island, then midnight and dawn after sailing west. Its absolute month-days remain conditional on YAML. The dated Dorian Almare account places his release on May 10 and agrees with that calculation. The opening’s three-day Nevium recap and Dorian’s lost decade are prior history. The fragment “3 PM, 10 again” (t14) occurs during travel arithmetic and supplies no clear independent date. The proposed short rest is not counted as completed. The flagged countdown uncertainty does not supply a replacement calendar.",
+  "watches": [
+    {
+      "day": "May 8, 1749",
+      "startDate": "1749-05-08",
+      "endDate": "1749-05-08",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Harbor meeting corrected to 4 a.m.; pre-sunrise departure, bay midpoint around 5 a.m.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03"
+      ]
+    },
+    {
+      "day": "May 8, 1749",
+      "startDate": "1749-05-08",
+      "endDate": "1749-05-08",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Point-rounding revised to 8 a.m.; the ship reaches the channel by 9 a.m.",
+      "markers": [
+        "t04",
+        "t05"
+      ]
+    },
+    {
+      "day": "May 8, 1749",
+      "startDate": "1749-05-08",
+      "endDate": "1749-05-08",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Noon off Calcara; another hour rounds the point. Low-tide inspection and brief bird-watching follow.",
+      "markers": [
+        "t06",
+        "t07",
+        "t08",
+        "t09"
+      ]
+    },
+    {
+      "day": "May 8, 1749",
+      "startDate": "1749-05-08",
+      "endDate": "1749-05-08",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Departure from Kazuro is explicitly about 3 p.m.",
+      "markers": [
+        "t10"
+      ]
+    },
+    {
+      "day": "May 8, 1749",
+      "startDate": "1749-05-08",
+      "endDate": "1749-05-08",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "The rest of the departure evening is spent sailing northwest.",
+      "markers": [
+        "t11"
+      ]
+    },
+    {
+      "day": "May 9, 1749",
+      "startDate": "1749-05-09",
+      "endDate": "1749-05-09",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "First voyage sunrise: open ocean, with no land in sight.",
+      "markers": [
+        "t12"
+      ]
+    },
+    {
+      "day": "May 9, 1749",
+      "startDate": "1749-05-09",
+      "endDate": "1749-05-09",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Mid-afternoon passage off Sarvia and Raziolo, then the island channel.",
+      "markers": [
+        "t13"
+      ]
+    },
+    {
+      "day": "May 9, 1749",
+      "startDate": "1749-05-09",
+      "endDate": "1749-05-09",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Night falls after the favorable sailing day; the 24-hour calculation is retrospective.",
+      "markers": [
+        "t14"
+      ]
+    },
+    {
+      "day": "May 10, 1749",
+      "startDate": "1749-05-10",
+      "endDate": "1749-05-10",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "The second voyage sunrise occurs in the channel.",
+      "markers": [
+        "t15"
+      ]
+    },
+    {
+      "day": "May 10, 1749",
+      "startDate": "1749-05-10",
+      "endDate": "1749-05-10",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "inferred",
+      "summary": "The ship rounds the point shortly before lunchtime.",
+      "markers": [
+        "t16"
+      ]
+    },
+    {
+      "day": "May 10, 1749",
+      "startDate": "1749-05-10",
+      "endDate": "1749-05-10",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "Arrival slightly beyond 48 hours; island business ends with a 4:30 p.m. ship return.",
+      "markers": [
+        "t17",
+        "t18",
+        "t19",
+        "t28",
+        "t20",
+        "t21",
+        "t29",
+        "t22"
+      ]
+    },
+    {
+      "day": "May 10, 1749",
+      "startDate": "1749-05-10",
+      "endDate": "1749-05-10",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "About twenty miles west of the island by sunset.",
+      "markers": [
+        "t23"
+      ]
+    },
+    {
+      "day": "May 11, 1749",
+      "startDate": "1749-05-11",
+      "endDate": "1749-05-11",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "stated",
+      "summary": "At civil midnight, the ship is perhaps fifty miles from the island.",
+      "markers": [
+        "t24"
+      ]
+    },
+    {
+      "day": "May 11, 1749",
+      "startDate": "1749-05-11",
+      "endDate": "1749-05-11",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Kenzo’s pre-dawn watch, then stated dawn dead calm; rowing follows for an unspecified interval.",
+      "markers": [
+        "t25",
+        "t26",
+        "t27"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dorian’s dated release",
+      "path": "People/Chardonians/Dorian Almare.md",
+      "sha256": "78582d4590f04b0bb2ac6e208343bd4ca983f40236dd77fa89d67531cfbd34d5"
+    }
+  ]
+}
