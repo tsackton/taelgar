@@ -18,7 +18,7 @@
         "startUid": "u0236",
         "endUid": "u0245"
       },
-      "reading": "Txarro performs a ten-minute augury while the others investigate the library and speak with the automaton.",
+      "reading": "Txarro completes a ten-minute augury while the others investigate the library.",
       "actors": [
         "Txarro"
       ],
@@ -26,7 +26,7 @@
         "value": 10,
         "unit": "minute",
         "precision": "exact",
-        "basis": "Player declares the duration of the ritual being performed; subsequent resolution confirms completion."
+        "basis": "Declared ritual duration; the later answer establishes completion."
       },
       "completion": "completed",
       "evidence": [
@@ -38,7 +38,7 @@
         {
           "startUid": "u0461",
           "endUid": "u0464",
-          "quote": "This is a good moment for the Augury to come back"
+          "quote": "DM: This is a good moment for the Augury to come back, and… and I'll… I'll fudge the black-and-whiteness of the Augury a little bit, say, what it tells you is that going through the door is not automatically woe. It's complicated. It doesn't mean everything will be sunshine and roses. But it's not…"
         },
         {
           "startUid": "u0465",
@@ -49,8 +49,14 @@
           "startUid": "u0467",
           "endUid": "u0468",
           "quote": "DM: It's the same response. It's not, it's not bad. It is… it's more complicated than just good or bad, but it's not… bad."
+        },
+        {
+          "startUid": "u0469",
+          "endUid": "u0471",
+          "quote": "There's danger attendant to it, but I think you knew that already, and… making your way back while infected."
         }
-      ]
+      ],
+      "note": "The question concerns taking the key to Lord Endless Ending; the answer is qualified and does not guarantee safety."
     },
     {
       "id": "t02",
@@ -58,7 +64,7 @@
         "startUid": "u0592",
         "endUid": "u0593"
       },
-      "reading": "Menestheus takes about a minute to focus on Edric after being lifted from the table.",
+      "reading": "Menestheus takes about a minute to focus on Edric after being helped upright.",
       "actors": [
         "Menestheus",
         "Edric"
@@ -67,14 +73,14 @@
         "value": 1,
         "unit": "minute",
         "precision": "approximate",
-        "basis": "DM narrates the delay in focusing; conversational wording does not establish exact timing."
+        "basis": "DM narrates a minute-long delay, without an exact clock measurement."
       },
       "completion": "completed",
       "evidence": [
         {
           "startUid": "u0592",
           "endUid": "u0593",
-          "quote": "It takes him a minute for his eyes to focus on your face."
+          "quote": "DM: He's unsteady on his feet, and wobbly, and… It takes him a minute for his eyes to focus on your face."
         }
       ]
     },
@@ -84,7 +90,7 @@
         "startUid": "u0922",
         "endUid": "u0931"
       },
-      "reading": "The party spends five minutes rigging a carrier for Aurae before crossing to the prison door.",
+      "reading": "The party spends five minutes making a carrier for Aurae before crossing to the prison door.",
       "actors": [
         "party"
       ],
@@ -92,7 +98,7 @@
         "value": 5,
         "unit": "minute",
         "precision": "exact",
-        "basis": "DM supplies five minutes and players accept; later dialogue confirms the carrier is already strapped on."
+        "basis": "The DM supplies five minutes, the players accept, and later narration confirms the carrier is in use."
       },
       "completion": "completed",
       "evidence": [
@@ -100,6 +106,11 @@
           "startUid": "u0922",
           "endUid": "u0924",
           "quote": "Kaito Min: Nice. Who's carrying Aurae? Can we strap, like, Aurae on… actually, oh, Aurae doesn't have arms. Yeah, can we, like, strap Aurae? That's 45 pounds, right?"
+        },
+        {
+          "startUid": "u0926",
+          "endUid": "u0926",
+          "quote": "Kaito Min: Yeah, we do that."
         },
         {
           "startUid": "u0929",
@@ -121,7 +132,7 @@
   ],
   "yamlCheck": {
     "status": "compatible",
-    "dateAnchor": "October 6, 1740 is supplied only by session YAML; no current calendar date or clock reading is spoken.",
+    "dateAnchor": "October 6, 1740 is supplied by YAML; the current transcript speaks no civil date or clock reading.",
     "expectedDateBoundaries": 0,
     "supportedDateBoundaries": null,
     "evidence": [
@@ -129,6 +140,6 @@
       "t02",
       "t03"
     ],
-    "explanation": "Play remains in the library before crossing into an obscured prison whose position in time is variable (u0019–u0026). The ritual, brief recovery and carrier construction establish elapsed time, but neither the civil-date boundary nor the temporal effect of entry is established. The same-date YAML span is possible, without an independently supported total of calendar transitions."
+    "explanation": "The library ritual, Menestheus’s focusing delay, and carrier construction establish short elapsed intervals. No rest, overnight, or calendar transition is established. The prison moves through space and time (u0019–u0026), but entry supplies no measured offset. October 6 throughout is possible; an exact civil-date span cannot be independently confirmed. Opening recap history, Aurae’s allegories, and stationary twilight do not advance this session’s clock."
   }
 }

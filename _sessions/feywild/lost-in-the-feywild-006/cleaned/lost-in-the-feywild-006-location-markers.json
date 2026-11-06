@@ -87,8 +87,7 @@
           "endUid": "u0994",
           "quote": "DM: The third door… is what looks like an ancient and decrepit old man, although the longer that you look, the more you realize this is actually a middle-aged person, this is probably someone in their late 30s or early 40s, who just looks incredibly old, like someone who's been living rough on the street for… years and years and years, in tattered clothes and pallid skin, unkempt, long hair missing in places, untrimmed, unwashed. Wild-eyed, moving frantically, almost animal-like, twitchy, with a basket on his lap, with a lid over the top of it, open just a crack, and he'll open it and look in, and then slam it back shut and look all around himself again, as if fearful that someone's watching."
         }
-      ],
-      "note": "No surrounding geography is described."
+      ]
     },
     "p06": {
       "label": "27th room interior",
@@ -138,6 +137,25 @@
           "endUid": "u0034",
           "quote": "DM: At the end of the previous session, you started in a fungal greenhouse, where Kallipseis, an ancient dwarven… wizard and gardener and fungal researcher and self-described head of the order, after the death of the previous head of the order, is working on creating a fungus golem body in which to put her consciousness? Question mark? Soul? Question mark? In order to make her way safely out of the house, and then presumably restart the order, question mark?"
         }
+      ],
+      "note": "The 27th House reference note identifies its region as the Twilight Kingdom; the current transcript does not name that region.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u0083",
+              "endUid": "u0087",
+              "quote": "this whole adventure out here in the Feywild…"
+            },
+            {
+              "startUid": "u0209",
+              "endUid": "u0211",
+              "quote": "Ayveen: Yeah, it got a lot more complicated when you two got infected, because otherwise we were just gonna take the key and… go out to, like, Menestheus knew where there were other portals back to Taelgar, and just travel the Feywild, to, like, some… freely access… freely accessible portal home, and leave… behind us."
+            }
+          ]
+        }
       ]
     },
     "p08": {
@@ -166,6 +184,23 @@
               "quote": "DM: They leave her to it and continue to proceed through the house. We find a lecture hall with diagrams of dandelion life cycles and a black-on-black painting of a hole in the universe through which something has come. In the next room is Clockworks, where the grandfather clocks and desk clocks are manufactured, and Tarek—importantly, I'll remind this because he's not here this session—picks up a desk-sized clock that is working and tracks and, you know, shows you the year and the coordinate location of where you are in each room that you move through. Or, excuse me, shows you the year and coordinate location of the central prison room, location, each time you step from one room to another."
             }
           ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Feywild",
+      "kind": "plane",
+      "vaultPath": "Cosmology/Feywild.md",
+      "evidence": [
+        {
+          "startUid": "u0083",
+          "endUid": "u0087",
+          "quote": "this whole adventure out here in the Feywild…"
+        },
+        {
+          "startUid": "u0209",
+          "endUid": "u0211",
+          "quote": "Ayveen: Yeah, it got a lot more complicated when you two got infected, because otherwise we were just gonna take the key and… go out to, like, Menestheus knew where there were other portals back to Taelgar, and just travel the Feywild, to, like, some… freely access… freely accessible portal home, and leave… behind us."
         }
       ]
     }
@@ -250,29 +285,42 @@
         {
           "startUid": "u0153",
           "endUid": "u0155",
-          "quote": "And here you are, in the… the library, with the automaton, in one corner, stacks of books… broad, well-lit desks for writing and reading."
+          "quote": "DM: And here you are, in the… the library, with the automaton, in one corner, stacks of books… broad, well-lit desks for writing and reading. A few of the shelves have books that are chained, but mostly they can be… taken out. The rest, yeah."
         }
       ]
     },
     {
       "id": "l02",
-      "type": "presence",
+      "type": "movement",
       "source": {
-        "startUid": "u0236",
+        "startUid": "u0187",
         "endUid": "u0245"
       },
-      "place": "p02",
       "actors": [
         "Txarro"
       ],
-      "reading": "Txarro sits before the keyed prison door on the library side to perform his ritual.",
+      "reading": "Txarro walks to the keyed prison door and sits before it to perform augury.",
       "evidence": [
+        {
+          "startUid": "u0187",
+          "endUid": "u0187",
+          "quote": "Txarro: But there's, like, a door that has a key just… Txarro's gonna walk towards the key. Like, do we see a key in the door?"
+        },
+        {
+          "startUid": "u0188",
+          "endUid": "u0189",
+          "quote": "DM: Yeah, exactly. It's a pale blue… glass, slightly shiny. It's about… I don't know, 6 inches long, so it's in the door, protruding from it."
+        },
         {
           "startUid": "u0236",
           "endUid": "u0245",
           "quote": "Txarro's gonna sit down in front of the door with the key."
         }
-      ]
+      ],
+      "from": "p01",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "walk"
     },
     {
       "id": "l03",
@@ -402,7 +450,7 @@
       "type": "movement",
       "source": {
         "startUid": "u1056",
-        "endUid": "u1081"
+        "endUid": "u1096"
       },
       "actors": [
         "party",
@@ -433,6 +481,11 @@
           "startUid": "u1091",
           "endUid": "u1092",
           "quote": "DM: Yeah, and as the door swings shut behind you, you're plunged into a complete and utter darkness. Darker than black. Darker than anything you've ever experienced before."
+        },
+        {
+          "startUid": "u1094",
+          "endUid": "u1096",
+          "quote": "DM: I think you need true sight to see through this. Or… there is nothing extant inside to be seen, although I guess you'd see the other party members. No, no, there's nothingness. It's entirely obscured."
         }
       ],
       "note": "The dark interior cannot be equated with the sandy scene seen through the window; no contents are visible even with darkvision."

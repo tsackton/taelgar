@@ -1,0 +1,36 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-session.yaml",
+  "source": {
+    "path": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-time-markers.json",
+    "sha256": "08fad1092b1457ca37750db2c6d82975a14343d13f24f869bb3d92bad55369ef"
+  },
+  "transcript": {
+    "path": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-transcript.md",
+    "sha256": "6e6f446b422becd948b3402a0ff3caf74ea0044909b7dd24e38213984b2b389d"
+  },
+  "dateAssessment": "October 6, 1740 is the working date from YAML only. The transcript establishes three short elapsed actions but no civil date, watch, rest, or measured offset on entering the shifting prison. The preceding library handoff supplies no clock to carry forward. Twilight imagery and times within Aurae’s allegories do not advance the party’s clock.",
+  "watches": [
+    {
+      "day": "1740-10-06 (YAML only)",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Ten-minute augury, about one minute focusing, and five minutes making Aurae’s carrier; no watch established.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03"
+      ],
+      "clock": "adventure",
+      "scope": "Library; civil clock unanchored"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Menestheus canonical death claim and open conflict",
+      "path": "People/Other Humans/Menestheus.md",
+      "sha256": "6861587265453a8cd6004e7e8573a838e37d4f66ffd35a934de38980f2f65933"
+    }
+  ]
+}
