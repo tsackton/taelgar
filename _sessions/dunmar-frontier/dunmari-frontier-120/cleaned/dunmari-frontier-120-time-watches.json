@@ -1,0 +1,128 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-120/cleaned/dunmari-frontier-120-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-120/cleaned/dunmari-frontier-120-time-markers.json",
+    "sha256": "e3544a480c8d8029c6270d5f322ce57145a41450555a3a5ca8944d031769cfd6"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-120/cleaned/dunmari-frontier-120-transcript.md",
+    "sha256": "00bfd1b4dda9f48d3698c71ca8945617991c011bc28d817d127d2509a66577ab"
+  },
+  "dateAssessment": "The working calendar envelope is the unchanged session YAML, DR 1749-05-31–1749-06-07. The transcript speaks no month or day and does not establish all seven civil date boundaries; the time extraction is compatible, with incomplete coverage. The initial journey is explicitly unmeasured, and “a couple of days” describes Feywild social days whose conversion to Material Plane time is left variable (u0821–u0831). No individual event is assigned a civil date or watch from that envelope. Session 119’s closing handoff and watch data also supply no civil clock to carry forward. Perpetual afternoon light establishes no civil afternoon. Sorven’s late appraisal is narrated before the earlier training attempt it evaluates; its position within the couple-of-days montage remains open.",
+  "watches": [
+    {
+      "day": "Approach to Sunwine Hall",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "adventure",
+      "summary": "Travel time is unresolved; six hours and three days are examples rather than measured bounds.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "Entering the revel",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "adventure",
+      "summary": "An unmeasured interval passes while the party drifts into the hall; sunlight remains stationary.",
+      "markers": [
+        "t02"
+      ]
+    },
+    {
+      "day": "First audience with Sorven",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "adventure",
+      "summary": "Sorven dances with Riswynn through the remainder of the song.",
+      "markers": [
+        "t10"
+      ]
+    },
+    {
+      "day": "Delwath mingling",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "adventure",
+      "summary": "Arendel approaches after an unspecified interval of mingling and stories.",
+      "markers": [
+        "t11"
+      ]
+    },
+    {
+      "day": "Before the duel",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "adventure",
+      "summary": "Arendel’s toasts last about five minutes before the bout.",
+      "markers": [
+        "t03"
+      ]
+    },
+    {
+      "day": "After the duel",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "adventure",
+      "summary": "Delwath tells stories for some time before Arendel takes a refreshment break.",
+      "markers": [
+        "t04"
+      ]
+    },
+    {
+      "day": "Vashan’s lucidity",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "adventure",
+      "summary": "Kenzo suppresses the memory loss for a few minutes; forgetfulness returns when the effect ends.",
+      "markers": [
+        "t05"
+      ]
+    },
+    {
+      "day": "Late revel: initial wyvern training",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "adventure",
+      "summary": "Training is narrated retrospectively; Wellby holds on for a couple of minutes while the wyvern calms.",
+      "markers": [
+        "t07",
+        "t09"
+      ]
+    },
+    {
+      "day": "Subsequent revel downtime",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "summary": "A couple of Feywild days cover stories and training; Sorven’s appraisal follows the initial training attempt.",
+      "markers": [
+        "t08",
+        "t06"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 119 handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-transcript.md",
+      "sha256": "887e839d845949159140c51dc96149b79cd621efec8e0cbabc1e19016e970a35"
+    },
+    {
+      "label": "Session 119 watch data",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/time-watches.json",
+      "sha256": "cf31155b11669ed0421856eaa7cfed425fc26dd272be0446be10d2571ff4cdf1"
+    }
+  ]
+}

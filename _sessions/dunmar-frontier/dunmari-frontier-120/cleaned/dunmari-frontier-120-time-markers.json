@@ -1,0 +1,335 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-120",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-120/cleaned/dunmari-frontier-120-session.yaml",
+    "sessionYamlSha256": "ab7faa0a10d565e5cd434e54db79ac2a2a3d968b531acb84443f3bb2f79b218d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-120/cleaned/dunmari-frontier-120-transcript.md",
+    "transcriptSha256": "00bfd1b4dda9f48d3698c71ca8945617991c011bc28d817d127d2509a66577ab",
+    "yamlDates": {
+      "start": "1749-05-31",
+      "end": "1749-06-07"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0021",
+        "endUid": "u0027"
+      },
+      "reading": "The journey through Emberwine before reaching Sunwine Hall has an indeterminate elapsed duration; six hours and three days are possibilities, not measured bounds.",
+      "duration": {
+        "text": "possibly six hours or three days; not weeks",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "DM explicitly leaves the elapsed interval unresolved despite checking the moon phase."
+      },
+      "completion": "uncertain",
+      "evidence": [
+        {
+          "startUid": "u0021",
+          "endUid": "u0027",
+          "quote": "DM: It's hard to say quite how much time has passed. You don't feel tired. You don't feel particularly hungry. You have no idea how far you've traveled, whether it's been 12 h or 24 or longer on the material plane. It's not been weeks. The phase of the moon, according to Wellby's necklace, hasn't changed dramatically, but whether it's been 6 h or 3 days is hard to say."
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0198",
+        "endUid": "u0213"
+      },
+      "reading": "An unmeasured interval passes as the party drifts into the great hall; the unmoving sun supplies no clock.",
+      "duration": {
+        "text": "an indeterminate amount of time",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "The DM narrates elapsed time while entering the hall, without a quantity."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0198",
+          "endUid": "u0213",
+          "quote": "So you know, over the some amount of time it— again, it's really hard to tell how much time has passed, because the sun doesn't change in the sky."
+        }
+      ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u0508",
+        "endUid": "u0511"
+      },
+      "reading": "Sorven dances with Riswynn for the rest of the song before leaving the party to mingle.",
+      "duration": {
+        "text": "the remainder of the song",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "The DM explicitly narrates this elapsed interval, without quantifying its length."
+      },
+      "actors": [
+        "Riswynn",
+        "Lord Sorven"
+      ],
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0508",
+          "endUid": "u0511",
+          "quote": "DM: He sort of spins off, instantly, going from like serious and concerned to smiling and happy as he dances with Riswynn, for you know the rest of the song, and then bows to you all, as— Eric's had extended bedtime trouble, but he's hopefully joining soon."
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u0771",
+        "endUid": "u0779"
+      },
+      "reading": "An unspecified mingling and storytelling interval elapses before Arendel approaches Delwath.",
+      "duration": {
+        "text": "some time before Arendel approaches",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "The DM explicitly narrates this elapsed interval, without quantifying its length."
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0771",
+          "endUid": "u0779",
+          "quote": "DM: Within some time again. Hard to say how long? This sort of big, boisterous loud sort of fey man, wearing a sort of battered breastplate, broad shoulder, golden haired, face is sort of weathered, but handsome, sort of a ruddy glow to his cheeks as if he's had quite a bit of wine, wearing a dented breastplate sort of scuffed in places, but clearly polished, a slender silver sword at his side, his, you know, wearing a cloak which seems slightly like— there's a little bit of wine spilled on it like he's sort of, you know not a clear— he's sort of larger than life, in a sense, and he and he sees you, and he looks, and he— carrying a glass of wine, and he he sort of grabs you around the shoulder, and he says,"
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0975",
+        "endUid": "u0977"
+      },
+      "reading": "Arendel spends about five minutes giving toasts before the duel.",
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated duration of Arendel’s actual pre-duel toasts."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0975",
+          "endUid": "u0977",
+          "quote": "He's like it goes on for like 5 min giving these toasts"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1123",
+        "endUid": "u1124"
+      },
+      "reading": "Delwath tells stories for some time before Arendel pauses for food and rest.",
+      "duration": {
+        "text": "some time",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM explicitly advances through the storytelling before Arendel’s break."
+      },
+      "actors": [
+        "Delwath",
+        "Arendel"
+      ],
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1123",
+          "endUid": "u1124",
+          "quote": "DM: After you spend some time telling some stories like, you know, he takes a break and he's gonna go get some food, maybe take a little rest for some time, and you know, gives you a chance to talk to other people or talk amongst yourselves."
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1534",
+        "endUid": "u1538"
+      },
+      "reading": "Kenzo temporarily suppresses Vashan’s memory loss for a few minutes; the effect later ends and forgetfulness returns.",
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "The suppression’s stated short duration is confirmed by its ending in play."
+      },
+      "actors": [
+        "Kenzo",
+        "Count Vashan"
+      ],
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1534",
+          "endUid": "u1538",
+          "quote": "But it's an effect you can temporarily suppress, suppress for a few minutes."
+        },
+        {
+          "startUid": "u1697",
+          "endUid": "u1698",
+          "quote": "DM: Okay, he sort of well, leave me be, and sort of slumps back, and you can see his face sort of shifts again as Kenzo's Cleansing Touch ends and the lost memory. The memory stealing creeps back over him, and he sort of slumps back against the stone pillar."
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1953",
+        "endUid": "u1969"
+      },
+      "reading": "The narration resolves Sorven’s later appraisal and mount offer before playing out the wyvern training he has already watched.",
+      "time": {
+        "relative": {
+          "relation": "after",
+          "anchor": "Wellby’s initial wyvern-training attempt, which Sorven is described as having watched"
+        },
+        "precision": "exact",
+        "basis": "DM expressly says these scenes are being resolved out of sequence."
+      },
+      "evidence": [
+        {
+          "startUid": "u1923",
+          "endUid": "u1925",
+          "quote": "DM: Okay. So— I'll wait for Schwartz to get back to do that. So let's let's do. This doesn't happen in the sequence that I'm going to run them. But—"
+        },
+        {
+          "startUid": "u1953",
+          "endUid": "u1957",
+          "quote": "DM: So you talk to Lord Sorven. He, you know he's— you know. He doesn't say it's a terrible idea, he, you know. He says you came close to beating Arendel, which you have done. You know you're quite skilled, and you know he's looking over it Wellby's succeeded or failed attempt to train a wyvern, and we'll find out in a moment. But either way it was impressive."
+        },
+        {
+          "startUid": "u1965",
+          "endUid": "u1969",
+          "quote": "DM: As for mounts, I can— I will ask— I can certainly provide you mounts who can carry you to the borders of my realms. Whether they take you beyond or not is up to you to convince them."
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1970",
+        "endUid": "u1971"
+      },
+      "reading": "Narration cuts back from Sorven’s appraisal to Wellby’s earlier wyvern training.",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "reference": "t06",
+          "anchor": "the later appraisal by Sorven"
+        },
+        "precision": "exact",
+        "basis": "Explicit cut back and the preceding statement that these scenes are out of sequence."
+      },
+      "context": "flashback",
+      "evidence": [
+        {
+          "startUid": "u1970",
+          "endUid": "u1971",
+          "quote": "DM: Okay, let's cut back to Wellby, trying to train a Wyvern. This is not easy."
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2037",
+        "endUid": "u2039"
+      },
+      "reading": "After the initial training pass, further wyvern training and Delwath’s storytelling occupy the next couple of Feywild days; later montage confirms completion.",
+      "duration": {
+        "value": 2,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM’s “next couple of days” montage; Feywild social days have no established conversion to Material Plane time."
+      },
+      "completion": "completed",
+      "note": "The earlier proposal says “next day”; the later montage supplies the accepted broader interval. No exact civil-date transition count is established.",
+      "evidence": [
+        {
+          "startUid": "u2037",
+          "endUid": "u2039",
+          "quote": "%% u2037:0-105, u2038:0-101 %%\nWellby: Yeah, so like lots of lots of positive reinforcement and soothing and all of that. And I think I'll come— I imagine, too. This is like the 1st pass, and then I spend the next day like doing all of this over.\n\n%% u2039:0-50 %%\nDM: Yeah, yeah, this is like, you know, this is, yeah."
+        },
+        {
+          "startUid": "u2099",
+          "endUid": "u2102",
+          "quote": "DM: So over the course of the next couple of days, while Delwath tells stories and regales the court, Kenzo and and Seeker—or Kenzo and Wellby fly on a Wyvern and Wellby you spend like some a fair bit of time over the next couple of days, like reinforcing the lessons, and again, like— you know, you can't exactly train it to go back in the mirror. But it's really bad at Charisma saving throws so—"
+        },
+        {
+          "startUid": "u2104",
+          "endUid": "u2112",
+          "quote": "%% u2104:0-68, u2105:0-79, u2106:0-104, u2107:0-31, u2108:0-33 %%\nDM: Like, you can basically just send it back in the mirror at will. And again, it's like, it's not. It's not a mount that you really control. Right? So. If it gets into combat, who knows what it'll do? And if it takes damage, it might just choose to fly off with or without you, but it is, it is willing to let you ride it.\n\n%% u2109:0-38, u2110:0-48, u2111:0-50, u2112:0-16 %%\nDM: So you're pretty consistently able to, you know, get it to go where you want to go, and, at least mostly get it to go where you want to go. Yeah, it's good."
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2051",
+        "endUid": "u2054"
+      },
+      "reading": "Wellby holds on for a couple of minutes while the wyvern settles during the initial mounting attempt.",
+      "duration": {
+        "value": 2,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "The DM narrates the time actually spent hanging on while the wyvern calms."
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "completion": "completed",
+      "time": {
+        "relative": {
+          "relation": "before",
+          "reference": "t08",
+          "anchor": "the subsequent couple-of-days reinforcement montage"
+        },
+        "precision": "exact",
+        "basis": "Initial mounting precedes the flight and the explicitly subsequent montage."
+      },
+      "evidence": [
+        {
+          "startUid": "u2051",
+          "endUid": "u2054",
+          "quote": "DM: Hold on for a couple of minutes as it realizes, and then slowly begins to calm down, and everybody looks and sees this tiny halfling on the neck of a 15 foot long, Wyvern, with a 20 foot wingspan, which is now kind of slowly, just kind of getting used to the halfling on its back."
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No month or day is spoken. The passing comparison to Chardon in 1749 agrees with the YAML year but dates no played event; May 31–June 7 is the manifest’s working span.",
+    "expectedDateBoundaries": 7,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t10",
+      "t11",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09"
+    ],
+    "explanation": "The source leaves pre-arrival travel unresolved, advances through a couple of Feywild days at the revel, and resolves the mount request before its earlier training scene. Feywild days are explicitly variable relative to Material Plane time (u0821–u0831). No complete seven-boundary span or contradictory civil date is established. Do not add missing days from drEnd."
+  }
+}

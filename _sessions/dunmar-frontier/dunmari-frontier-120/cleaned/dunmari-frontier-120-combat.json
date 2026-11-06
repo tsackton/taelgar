@@ -1,0 +1,161 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-120",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-120/cleaned/dunmari-frontier-120-session.yaml",
+    "sessionYamlSha256": "ab7faa0a10d565e5cd434e54db79ac2a2a3d968b531acb84443f3bb2f79b218d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-120/cleaned/dunmari-frontier-120-transcript.md",
+    "transcriptSha256": "00bfd1b4dda9f48d3698c71ca8945617991c011bc28d817d127d2509a66577ab",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-120/cleaned/dunmari-frontier-120-segments.json",
+      "sha256": "925b94bcfd65e0794bb4eca8f7ba0e92f473fc9550758681b69a92dd49e05679",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s004",
+      "encounter": "Delwath’s friendly duel with Arendel",
+      "note": "The table scores a nonlethal, three-round first-blood bout by damage, while also describing first blood as half health. One spell each is allowed; the source does not adjudicate a separate half-health stopping point.",
+      "openingActions": [
+        {
+          "actor": "Delwath",
+          "kind": "event",
+          "summary": "Receives permission to make his pre-bout blessing mark Arendel with Hunter’s Mark; changes his chosen spell before the first regular turn.",
+          "evidence": [
+            {
+              "startUid": "u0994",
+              "endUid": "u1001"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Arendel",
+              "kind": "turn",
+              "summary": "Wins initiative on 16 and darts in with three sword attacks: the 21 is negated by Delwath’s defensive reaction, the 20 misses, and the natural 20 critically hits for 26 points of bout damage. The DM specifies this is not real damage.",
+              "evidence": [
+                {
+                  "startUid": "u1002",
+                  "endUid": "u1023"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Turns Arendel’s initial hit into a miss using a defensive shield effect; the ability name is garbled.",
+              "evidence": [
+                {
+                  "startUid": "u1004",
+                  "endUid": "u1009"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Uses sorcery points to cast Fount of Moonlight as a bonus action and begins glowing. His first attack is 22 and is deflected by Shield; his second and third attacks also miss.",
+              "evidence": [
+                {
+                  "startUid": "u1024",
+                  "endUid": "u1033"
+                }
+              ]
+            },
+            {
+              "actor": "Arendel",
+              "kind": "reaction",
+              "summary": "Uses his allowed spell to cast Shield, deflecting Delwath’s first attack; it also protects him against the remaining attacks.",
+              "evidence": [
+                {
+                  "startUid": "u1030",
+                  "endUid": "u1033"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Arendel",
+              "kind": "turn",
+              "summary": "Ducks away and attacks three times: 15 misses, while 22 and 25 hit for the stated 9 and 14 damage. Backs off while praising Delwath.",
+              "evidence": [
+                {
+                  "startUid": "u1034",
+                  "endUid": "u1046"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Hits on 27 for 31 damage, misses the next attack, and hits on 26 for another 31 damage. The proposed smite is ruled an extra spell and withdrawn.",
+              "evidence": [
+                {
+                  "startUid": "u1047",
+                  "endUid": "u1058"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Arendel",
+              "kind": "turn",
+              "summary": "His 15 misses; the 28 is negated by Yezali’s Frost; the last attack, 26, hits for a final stated 20 damage. Completes his last round and cheers Delwath.",
+              "evidence": [
+                {
+                  "startUid": "u1059",
+                  "endUid": "u1070"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Uses Yezali’s Frost to dodge the attack of 28, turning that hit into a miss.",
+              "evidence": [
+                {
+                  "startUid": "u1066",
+                  "endUid": "u1067"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Misses his first two attacks and then misses on 22 against Arendel’s stated AC 24 with Shield. Uses heroic inspiration to reroll, getting a 7 without reversing the outcome.",
+              "evidence": [
+                {
+                  "startUid": "u1071",
+                  "endUid": "u1085"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Arendel bows as the declared winner after the three-round bout.",
+        "evidence": [
+          {
+            "startUid": "u1081",
+            "endUid": "u1085"
+          }
+        ]
+      }
+    }
+  ]
+}
