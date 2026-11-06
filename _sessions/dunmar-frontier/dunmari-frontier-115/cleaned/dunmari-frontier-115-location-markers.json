@@ -1,0 +1,1256 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-115",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-115/cleaned/dunmari-frontier-115-session.yaml",
+    "sessionYamlSha256": "f6f0007aab26d8490a5096fbc4231a5680033f05eb232eed3b02cfd4f0dc5520",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-115/cleaned/dunmari-frontier-115-transcript.md",
+    "transcriptSha256": "6702d711a413aa5d2dc849ecbec15468777717310594c39fcdef3c49e360995c"
+  },
+  "places": {
+    "p01": {
+      "label": "Drankor",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0002",
+          "quote": "So, we pick up in Drankor, as you—"
+        }
+      ],
+      "kind": "ruined city",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/Drankor.md"
+    },
+    "p02": {
+      "label": "Temple of the 8 Divines",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0010",
+          "quote": "Riswynn, Seeker, Delwath, and Kenzo return to the Temple of the 8 Divines, after having traveled through bits and pieces of Drankor, searching for mementos and relics of 2 of the 7 souls that are bound into Apollyon's dagger that form his phylactery, while Wellby waited guarding the dagger in the Temple. I don't know if any of you remember enough of what happened to tell Wellby in— I didn't manage to get around to session notes, so, but probably not. So maybe I should just— I went back to the transcript anyway. So I remember."
+        }
+      ],
+      "kind": "temple",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/Temple of the Eight Divines.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0004",
+              "endUid": "u0010",
+              "quote": "Riswynn, Seeker, Delwath, and Kenzo return to the Temple of the 8 Divines, after having traveled through bits and pieces of Drankor, searching for mementos and relics of 2 of the 7 souls that are bound into Apollyon's dagger that form his phylactery, while Wellby waited guarding the dagger in the Temple. I don't know if any of you remember enough of what happened to tell Wellby in— I didn't manage to get around to session notes, so, but probably not. So maybe I should just— I went back to the transcript anyway. So I remember."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "university where Minarith worked",
+      "evidence": [
+        {
+          "startUid": "u0491",
+          "endUid": "u0491",
+          "quote": "The university where Minarith worked."
+        }
+      ],
+      "kind": "university",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/University of the Blessed Waters.md",
+      "note": "Identity verified from the Minarith and University of the Blessed Waters reference notes: the southeast university and Faculty of Natural History. The session’s opening recap calls it “University of the Austene”; retain that wording as a naming variant, not a second university.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0323",
+              "endUid": "u0391",
+              "quote": "So Wellby nocks an arrow, steps into the courtyard of the temple, and whispers the name of the university, and shoots it into the air. The arrow vanishes. Nothing seems to happen.\n\nSeeker: What? Why would that happen?\n\nWellby: But then.\n\nRiswynn: Call, recording error.\n\nDM: And did you get my message, Schwartz?\n\nWellby: Oh, yes, sorry. But then, then I check chat. Wellby points there. He says, \"I see the line.\" So the the path that the arrow sets is only visible to me.\n\nSeeker: Hello! Well, let's check it out.\n\nRiswynn: Do we need one of us to stay here with the valuable thing this time?\n\nDM: I'm—I think, for gameplay reasons, we should just—okay, fun, for it's—it's a useful excuse when people are falling asleep or not able to show up. But since everybody's here in a way—\n\nDelwath: Yeah, I agree.\n\nRiswynn: Okay.\n\nWellby: Tim, how far away is it? So I know the distance to the location.\n\nDM: It—sorry! Let me— I need to get Roll20—wasn't signed in. Give me one sec. It is 4,125 feet south and then east. So not even a mile. It won't take you more than half an hour to get there if you proceeded fairly rapid pace.\n\nRiswynn: Can we have some map in Roll20? I'm still seeing the one with creepy red. Got it.\n\nDM: Oh, sorry, did I not? Here we go. Are you seeing the map now?\n\nRiswynn: Yes, thank you.\n\nSeeker: Oh, it's south of here. Okay.\n\nDM: Yeah, it's is this.\n\nSeeker: This thing.\n\nDM: It's like south east, but the bow—the line is leading you south on the safe path, and then it's gonna cut east.\n\nRiswynn: The back of the big plaza.\n\nDM: No, south. So south out through the temple complex, and then winding sort of east from there.\n\nRiswynn: Through the woods the whole way. I'm—she's not getting it.\n\nDM: So you follow Wellby.\n\nRiswynn: Very Wellby. Don't know where we are, but we're following Wellby.\n\nDM: The 1st short distance you travel south through the sort of main road leading away—here we can overview leading away from the temple. Quiet, hot, storm clouds forming on the horizon. It looks like rain might be blowing in shortly, but at the moment it's intensely humid, and you're sort of—sorry.\n\nDM: So you set out through the jungle, and after only a few minutes' walk, you pass under the trees, the tall, towering jungle canopy above, and Wellby guides you, following some invisible trail that only he can see. As you proceed, turning to the east now, sticking through the forest, the trail guiding you in a—not a straight path, but apparently the least dangerous path, cutting south of a clump of buildings where you can hear unnatural creaks and whispers in the wind, even though there is no wind. It's still and humid and hot, and then guiding you almost due southeast as you pass south of the great plaza and veer further south and east, to go around a large tree that has fallen down, forming a clearing through which you can see vines covering the ground, growing with faint traces of reddish mist clinging to them.\n\nDelwath: Money.\n\nDM: And you pass again—again [garbled] less than an hour.\n\nDM: The rain begins: intense, heavy rainfall, but beneath the trees, the canopy, you only feel the occasional drop until you come out in a clearing, what looks like was once a garden of some kind. A handful of statues, 2 statues still standing near the steps that lead through this garden. This is the—clearly, the entry, the sort of outside gardens, the entrance to the university. Begin to proceed through the garden. So Wellby first; who's behind Wellby?"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "university entrance garden",
+      "evidence": [
+        {
+          "startUid": "u0384",
+          "endUid": "u0391",
+          "quote": "The rain begins: intense, heavy rainfall, but beneath the trees, the canopy, you only feel the occasional drop until you come out in a clearing, what looks like was once a garden of some kind. A handful of statues, 2 statues still standing near the steps that lead through this garden. This is the—clearly, the entry, the sort of outside gardens, the entrance to the university. Begin to proceed through the garden. So Wellby first; who's behind Wellby?"
+        }
+      ],
+      "kind": "garden",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0384",
+              "endUid": "u0391",
+              "quote": "The rain begins: intense, heavy rainfall, but beneath the trees, the canopy, you only feel the occasional drop until you come out in a clearing, what looks like was once a garden of some kind. A handful of statues, 2 statues still standing near the steps that lead through this garden. This is the—clearly, the entry, the sort of outside gardens, the entrance to the university. Begin to proceed through the garden. So Wellby first; who's behind Wellby?"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Faculty of Natural History ruins",
+      "evidence": [
+        {
+          "startUid": "u1073",
+          "endUid": "u1078",
+          "quote": "So the now crumbled remains of the 2 living statues before you, you turn and proceed into the ruins of the—of this university itself, the, the—this seems to have been like the hall, some scholarly hall, or something like that, but it's labeled Faculty of Natural History, which is what—in Drankorian, which multiple of you can read—which was what Minarith was from."
+        }
+      ],
+      "kind": "building",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1073",
+              "endUid": "u1078",
+              "quote": "So the now crumbled remains of the 2 living statues before you, you turn and proceed into the ruins of the—of this university itself, the, the—this seems to have been like the hall, some scholarly hall, or something like that, but it's labeled Faculty of Natural History, which is what—in Drankorian, which multiple of you can read—which was what Minarith was from."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Minarith’s former office",
+      "evidence": [
+        {
+          "startUid": "u1168",
+          "endUid": "u1175",
+          "quote": "So you reach what looks like—so a lot of the interior walls were probably wood, and have rotted, long ago rotted away. But there's still you know, little bits that are coming out of the exterior wall that make it look like this was a—this back corner was a row of offices, and the—not the corner office, but one in from the corner office is where Kenzo is leading you.\n\nDM: And again it's like completely overgrown. There's, there's like a layer of plants growing of vines growing up from the bottom. But you do see that there is something glinting, some metallic thing glinting on the floor underneath, partially buried in dirt and, and plant material."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1108",
+              "endUid": "u1113",
+              "quote": "Psychic connections to his soul, faint and sort of in the northwestern corner of the second story of this building is intact, but it looks incredibly unstable. There's like a tree growing up through the middle of the building. The higher stories have collapsed, and you know, as you walk, it seems like every footstep is at risk of the roof collapsing. But Kenzo points to the sort of northwest corner of the building, and that's where he senses, a sort of emanation of, of Minarith."
+            },
+            {
+              "startUid": "u1168",
+              "endUid": "u1171",
+              "quote": "So you reach what looks like—so a lot of the interior walls were probably wood, and have rotted, long ago rotted away. But there's still you know, little bits that are coming out of the exterior wall that make it look like this was a—this back corner was a row of offices, and the—not the corner office, but one in from the corner office is where Kenzo is leading you."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Tollen",
+      "evidence": [
+        {
+          "startUid": "u1372",
+          "endUid": "u1378",
+          "quote": "You teleport? Where in Tollen are you teleporting to?\n\nDelwath: What do you? What do you? What did you take a piece of by accident, Seeker, when you were last in Tollen?\n\nSeeker: Oh, the—the little welcome card from the philosopher—Philosophers Guild.\n\nDM: You can teleport into the lobby of the philosophers.\n\nDelwath: Sure. Why not?\n\nDM: I love it."
+        }
+      ],
+      "kind": "city",
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Tollen.md"
+    },
+    "p08": {
+      "label": "Philosophers’ Guild",
+      "evidence": [
+        {
+          "startUid": "u1372",
+          "endUid": "u1378",
+          "quote": "You teleport? Where in Tollen are you teleporting to?\n\nDelwath: What do you? What do you? What did you take a piece of by accident, Seeker, when you were last in Tollen?\n\nSeeker: Oh, the—the little welcome card from the philosopher—Philosophers Guild.\n\nDM: You can teleport into the lobby of the philosophers.\n\nDelwath: Sure. Why not?\n\nDM: I love it."
+        }
+      ],
+      "kind": "guildhall",
+      "vaultPath": "Groups/Tollen Guilds/Ancient and Honorable Guild of Philosophers.md",
+      "note": "The verified page describes both the organization and its guildhall; this dictionary entry denotes the physical guildhall.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1372",
+              "endUid": "u1378",
+              "quote": "You teleport? Where in Tollen are you teleporting to?\n\nDelwath: What do you? What do you? What did you take a piece of by accident, Seeker, when you were last in Tollen?\n\nSeeker: Oh, the—the little welcome card from the philosopher—Philosophers Guild.\n\nDM: You can teleport into the lobby of the philosophers.\n\nDelwath: Sure. Why not?\n\nDM: I love it."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "guild courtyard and garden",
+      "evidence": [
+        {
+          "startUid": "u1454",
+          "endUid": "u1464",
+          "quote": "Wow! At the moment you now find yourself all standing discussing this in the courtyard.\n\nDelwath: Yes, yes.\n\nDM: Guild standing outside. It's—so it's currently May. So you've gone from the oppressive heat and rain of the jungle to pleasant spring day. A warm, gentle breeze blowing from the Green Sea. The, the sort of strange magic of the philosopher's Guild garden that makes the streets seem—sounds of the street seem somewhat distant and far away, encases you in a, in a sort of zone of peace. You hear the birds singing."
+        }
+      ],
+      "kind": "courtyard",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1454",
+              "endUid": "u1464",
+              "quote": "Wow! At the moment you now find yourself all standing discussing this in the courtyard.\n\nDelwath: Yes, yes.\n\nDM: Guild standing outside. It's—so it's currently May. So you've gone from the oppressive heat and rain of the jungle to pleasant spring day. A warm, gentle breeze blowing from the Green Sea. The, the sort of strange magic of the philosopher's Guild garden that makes the streets seem—sounds of the street seem somewhat distant and far away, encases you in a, in a sort of zone of peace. You hear the birds singing."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "guild tea room",
+      "evidence": [
+        {
+          "startUid": "u1994",
+          "endUid": "u2002",
+          "quote": "So you arrive the—at the Philosophers Guild. And it's, it's night, and it's quiet and you're—you're led into the—it—into the same tea room, and then taken back through a hallway and, and left in a, a small room with, with 5 white robes hanging, sized 2 for dwarves, 2 for humans, one for halflings. And she, the same middle-aged woman, shuts the door, and then says, you know, \"Please change. Bring nothing with you. Your possessions will be safe in this room.\""
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1994",
+              "endUid": "u2002",
+              "quote": "So you arrive the—at the Philosophers Guild. And it's, it's night, and it's quiet and you're—you're led into the—it—into the same tea room, and then taken back through a hallway and, and left in a, a small room with, with 5 white robes hanging, sized 2 for dwarves, 2 for humans, one for halflings. And she, the same middle-aged woman, shuts the door, and then says, you know, \"Please change. Bring nothing with you. Your possessions will be safe in this room.\""
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Melindir’s chambers",
+      "evidence": [
+        {
+          "startUid": "u1974",
+          "endUid": "u1981",
+          "quote": "Fucking night. So who's going? Kenzo's going? Wait! Am I at Melindir's when this happens?\n\nDM: Yes.\n\nDelwath: Okay, so Delwath is not going.\n\nDM: No, no, Wellby—\n\nDelwath: No, I could go from Melindir.\n\nDM: To go from Melindir's chambers."
+        }
+      ],
+      "kind": "chambers",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1709",
+              "endUid": "u1715",
+              "quote": "Find a dead—I mean, we need to find our dead person.\n\nSeeker: Right.\n\nDelwath: Which I imagine, isn't that hard? But we still have to do it. I want to go talk to the Elven Ambassador, who, I had a decent relationship with, and see if he has any ideas on helping with Dunmari. Is there anybody else who we think might be able to help the Dunmari here? The Skaer, probably not, right? They kind of owe us. But—oh, Delwath could go talk to the Centaur."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Temple of the Sibyl",
+      "evidence": [
+        {
+          "startUid": "u2144",
+          "endUid": "u2149",
+          "quote": "You wake in the morning and go to the, the temple of—yeah, I never made a—\n\nRiswynn: Friendly dead people.\n\nDM: I never made a, a land of the dead background, but we can have the\n\nDelwath: Who's best place to take this—?\n\nDM: Temple of the Sibyl."
+        }
+      ],
+      "kind": "temple",
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Places/Temple of the Sibyl (Tollen).md",
+      "note": "The body-access negotiation initially leaves the temple unnamed; the next morning’s return identifies it as the Temple of the Sibyl.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u2138",
+              "endUid": "u2149",
+              "quote": "Good evening. So you sleep.\n\nSeeker: Good.\n\nDelwath: Yep. Long rested.\n\nSeeker: Yeah.\n\nDelwath: And we go to the land of the dead.\n\nDM: You wake in the morning and go to the, the temple of—yeah, I never made a—\n\nRiswynn: Friendly dead people.\n\nDM: I never made a, a land of the dead background, but we can have the\n\nDelwath: Who's best place to take this—?\n\nDM: Temple of the Sibyl."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "guild changing room",
+      "evidence": [
+        {
+          "startUid": "u1994",
+          "endUid": "u2002",
+          "quote": "So you arrive the—at the Philosophers Guild. And it's, it's night, and it's quiet and you're—you're led into the—it—into the same tea room, and then taken back through a hallway and, and left in a, a small room with, with 5 white robes hanging, sized 2 for dwarves, 2 for humans, one for halflings. And she, the same middle-aged woman, shuts the door, and then says, you know, \"Please change. Bring nothing with you. Your possessions will be safe in this room.\""
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1994",
+              "endUid": "u2002",
+              "quote": "So you arrive the—at the Philosophers Guild. And it's, it's night, and it's quiet and you're—you're led into the—it—into the same tea room, and then taken back through a hallway and, and left in a, a small room with, with 5 white robes hanging, sized 2 for dwarves, 2 for humans, one for halflings. And she, the same middle-aged woman, shuts the door, and then says, you know, \"Please change. Bring nothing with you. Your possessions will be safe in this room.\""
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "dark consultation chamber",
+      "evidence": [
+        {
+          "startUid": "u2008",
+          "endUid": "u2019",
+          "quote": "So you walk through the sort of marble hallway and you come to a small room that has a—let's see. Try this small room that's completely dark. There's no light at all, dark even to your darkvision-adjusted eyes.\n\nDelwath: Even the Devil's Sight you can see through?\n\nDM: Not to devil's sight. It's a, it's a small room, and she leads you and sits you down on a bench. There's no, there's, there's just walls. There's the one bench, and then she says, \"I apologize, but just out of an abundance of caution—\" She goes, and she blindfolds each one of you. And then she steps out of the room."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u2008",
+              "endUid": "u2019",
+              "quote": "So you walk through the sort of marble hallway and you come to a small room that has a—let's see. Try this small room that's completely dark. There's no light at all, dark even to your darkvision-adjusted eyes.\n\nDelwath: Even the Devil's Sight you can see through?\n\nDM: Not to devil's sight. It's a, it's a small room, and she leads you and sits you down on a bench. There's no, there's, there's just walls. There's the one bench, and then she says, \"I apologize, but just out of an abundance of caution—\" She goes, and she blindfolds each one of you. And then she steps out of the room."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Tollen lodging",
+      "evidence": [
+        {
+          "startUid": "u1634",
+          "endUid": "u1643",
+          "quote": "Where are you staying tonight?\n\nRiswynn: The nearest inn.\n\nDelwath: We have no idea. We know tons of people, though.\n\nWellby: Yeah, or, or in town.\n\nDelwath: Yeah. We'll stay—we'll be staying. I mean, I'm going to go. I want to talk to the Elven Ambassador.\n\nDM: Okay.\n\nDelwath: But, but I'm going to wander around while these guys are resting. Just—well, some we must.\n\nDM: We know some inns, we'll pick an inn, an inn we know."
+        }
+      ],
+      "kind": "lodging",
+      "note": "An inn is selected by accepted compressed narration, but not named; the post-consultation sleep is not localized more precisely.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1634",
+              "endUid": "u1643",
+              "quote": "Where are you staying tonight?\n\nRiswynn: The nearest inn.\n\nDelwath: We have no idea. We know tons of people, though.\n\nWellby: Yeah, or, or in town.\n\nDelwath: Yeah. We'll stay—we'll be staying. I mean, I'm going to go. I want to talk to the Elven Ambassador.\n\nDM: Okay.\n\nDelwath: But, but I'm going to wander around while these guys are resting. Just—well, some we must.\n\nDM: We know some inns, we'll pick an inn, an inn we know."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Land of the Dead",
+      "evidence": [
+        {
+          "startUid": "u2192",
+          "endUid": "u2202",
+          "quote": "You find yourself in a gray expanse. You can see a few people, shadowy sort of incomplete, moving in the distance. And standing next to you is an old man, presumably the soul of the body, who you just followed, who looks sort of kind of basically ignoring you, who, who seems to be staring off at something in the distance that he's excited to see. And he's moving determinedly, sort of moving more quickly than other people here, it seems. The whole place is dry and dusty. There's no weather. The land and the sky are hard to tell apart. It's so—it's hard to sort of see the horizon. It's hard to tell when, when the horizon begins and the land ends, or when the land ends and the horizon begins. And you find yourself standing here, not sure what to do."
+        }
+      ],
+      "kind": "plane",
+      "vaultPath": "Cosmology/Land of the Dead.md"
+    },
+    "p17": {
+      "label": "Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u1335",
+          "endUid": "u1337",
+          "quote": "We can't get off the land of the dead without using Plane Shift—without using— Our plan is to go from the land of the dead straight back to the Vindristjarna."
+        }
+      ],
+      "kind": "skyship",
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "mobile": true
+    },
+    "p18": {
+      "label": "ship’s stables",
+      "evidence": [
+        {
+          "startUid": "u2701",
+          "endUid": "u2705",
+          "quote": "Alright! Let's do it invisible into the stable, and then, Wellby and Kenzo stealth out and go, go.\n\nDM: You appear in the stable?\n\nKenzo: Baxter still alive?\n\nDM: Baxter is alive. I mean, he can't see you because you're invisible, so he doesn't like leap up and greet you."
+        }
+      ],
+      "kind": "stables",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u2688",
+              "endUid": "u2705",
+              "quote": "We teleport into the stable. I mean, this could be Baxter's big moment.\n\nKenzo: I think—okay, I like this. I like this. We go into the stable. You turn us invisible now, right? Make us invisible.\n\nSeeker: Maybe.\n\nKenzo: It's not visible.\n\nDM: Invisible because he has to cast the spell. But—\n\nDelwath: No, Seeker's not casting a spell. We're rainbow bridging.\n\nDM: Oh, you're rainbow bridging. Yeah, yeah.\n\nSeeker: Right.\n\nKenzo: Doesn't activating—does activating a magic item, not—?\n\nDelwath: No.\n\nDM: Only casting a spell or making an attack roll. Then you're good.\n\nKenzo: Alright! Let's do it invisible into the stable, and then, Wellby and Kenzo stealth out and go, go.\n\nDM: You appear in the stable?\n\nKenzo: Baxter still alive?\n\nDM: Baxter is alive. I mean, he can't see you because you're invisible, so he doesn't like leap up and greet you."
+            }
+          ]
+        }
+      ]
+    },
+    "p19": {
+      "label": "ship’s open deck and garden",
+      "evidence": [
+        {
+          "startUid": "u2751",
+          "endUid": "u2769",
+          "quote": "He—so you, you climb out. You step out of the stables. You are over an ocean. Let's see.\n\nKenzo: 23 on my stealth check, by the way.\n\nDM: You can see land to the south.\n\nSeeker: So.\n\nDelwath: To the south.\n\nDM: Yeah.\n\nWellby: All right.\n\nDelwath: What I was expecting.\n\nDM: And that's the only direction in which—you can probably see land to the north as well. It's like you're traveling through like a big bay with land to the north and south, but east and west you can't see. There's mountains to the north, just far in the distance, like a hundred—more than a hundred miles off.\n\nDM: It's hot. You're heading directly east towards this, towards the—somewhere. Amil is up at front like sort of keeping an eye out. The—Egnir, the elf, is tending to the tree in the garden."
+        }
+      ],
+      "kind": "deck",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u2751",
+              "endUid": "u2769",
+              "quote": "He—so you, you climb out. You step out of the stables. You are over an ocean. Let's see.\n\nKenzo: 23 on my stealth check, by the way.\n\nDM: You can see land to the south.\n\nSeeker: So.\n\nDelwath: To the south.\n\nDM: Yeah.\n\nWellby: All right.\n\nDelwath: What I was expecting.\n\nDM: And that's the only direction in which—you can probably see land to the north as well. It's like you're traveling through like a big bay with land to the north and south, but east and west you can't see. There's mountains to the north, just far in the distance, like a hundred—more than a hundred miles off.\n\nDM: It's hot. You're heading directly east towards this, towards the—somewhere. Amil is up at front like sort of keeping an eye out. The—Egnir, the elf, is tending to the tree in the garden."
+            }
+          ]
+        }
+      ]
+    },
+    "p20": {
+      "label": "ship’s control room",
+      "evidence": [
+        {
+          "startUid": "u2825",
+          "endUid": "u2828",
+          "quote": "He's in the control room. Normally he was very excited. \"I always wanted to find a hidden city.\"\n\nKenzo: Yeah. Kenzo goes down into the control room. There.\n\nDM: \"Kenzo,\" Faldrak says."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u2825",
+              "endUid": "u2828",
+              "quote": "He's in the control room. Normally he was very excited. \"I always wanted to find a hidden city.\"\n\nKenzo: Yeah. Kenzo goes down into the control room. There.\n\nDM: \"Kenzo,\" Faldrak says."
+            }
+          ]
+        }
+      ]
+    },
+    "p21": {
+      "label": "bay below the ship",
+      "evidence": [
+        {
+          "startUid": "u2751",
+          "endUid": "u2764",
+          "quote": "He—so you, you climb out. You step out of the stables. You are over an ocean. Let's see.\n\nKenzo: 23 on my stealth check, by the way.\n\nDM: You can see land to the south.\n\nSeeker: So.\n\nDelwath: To the south.\n\nDM: Yeah.\n\nWellby: All right.\n\nDelwath: What I was expecting.\n\nDM: And that's the only direction in which—you can probably see land to the north as well. It's like you're traveling through like a big bay with land to the north and south, but east and west you can't see. There's mountains to the north, just far in the distance, like a hundred—more than a hundred miles off."
+        }
+      ],
+      "kind": "bay",
+      "note": "Unnamed bay with land north and south and distant northern mountains; no specific canonical bay is established by this passage."
+    },
+    "p22": {
+      "label": "Pu'aatar",
+      "evidence": [
+        {
+          "startUid": "u2791",
+          "endUid": "u2796",
+          "quote": "Hey! Good to see you. Are—are you coming to find the hidden city of Pu'aatar, too?\n\nSeeker: Oh no!\n\nKenzo: What is that? And why are we going there?\n\nDM: Library holds all the secrets to everything we need to learn. It's a hidden city in the desert. We're on a quest to find it."
+        }
+      ],
+      "kind": "mythical city",
+      "vaultPath": "Gazetteer/Faraway Places/Pu'aatar.md",
+      "note": "The crew’s charmed destination, reputed to hold a library in an eastern desert. Neither its existence nor arrival is established."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0004",
+        "endUid": "u0010"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The four explorers have returned to Wellby at the temple in Drankor.",
+      "evidence": [
+        {
+          "startUid": "u0004",
+          "endUid": "u0010",
+          "quote": "Riswynn, Seeker, Delwath, and Kenzo return to the Temple of the 8 Divines, after having traveled through bits and pieces of Drankor, searching for mementos and relics of 2 of the 7 souls that are bound into Apollyon's dagger that form his phylactery, while Wellby waited guarding the dagger in the Temple. I don't know if any of you remember enough of what happened to tell Wellby in— I didn't manage to get around to session notes, so, but probably not. So maybe I should just— I went back to the transcript anyway. So I remember."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0323",
+        "endUid": "u0327"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby steps into the temple courtyard to shoot the guiding arrow; this remains within the same temple setting.",
+      "evidence": [
+        {
+          "startUid": "u0323",
+          "endUid": "u0327",
+          "quote": "So Wellby nocks an arrow, steps into the courtyard of the temple, and whispers the name of the university, and shoots it into the air. The arrow vanishes. Nothing seems to happen."
+        }
+      ],
+      "from": "p02",
+      "to": "p02",
+      "completion": "arrived"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0364",
+        "endUid": "u0391"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Follow Wellby from the temple through the jungle to the university’s entrance garden.",
+      "evidence": [
+        {
+          "startUid": "u0364",
+          "endUid": "u0364",
+          "quote": "So you follow Wellby."
+        },
+        {
+          "startUid": "u0372",
+          "endUid": "u0381",
+          "quote": "So you set out through the jungle, and after only a few minutes' walk, you pass under the trees, the tall, towering jungle canopy above, and Wellby guides you, following some invisible trail that only he can see. As you proceed, turning to the east now, sticking through the forest, the trail guiding you in a—not a straight path, but apparently the least dangerous path, cutting south of a clump of buildings where you can hear unnatural creaks and whispers in the wind, even though there is no wind. It's still and humid and hot, and then guiding you almost due southeast as you pass south of the great plaza and veer further south and east, to go around a large tree that has fallen down, forming a clearing through which you can see vines covering the ground, growing with faint traces of reddish mist clinging to them."
+        },
+        {
+          "startUid": "u0384",
+          "endUid": "u0391",
+          "quote": "The rain begins: intense, heavy rainfall, but beneath the trees, the canopy, you only feel the occasional drop until you come out in a clearing, what looks like was once a garden of some kind. A handful of statues, 2 statues still standing near the steps that lead through this garden. This is the—clearly, the entry, the sort of outside gardens, the entrance to the university. Begin to proceed through the garden. So Wellby first; who's behind Wellby?"
+        }
+      ],
+      "from": "p02",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Head south through the temple complex, then east and southeast through jungle; pass south of the great plaza and detour around the fallen tree and red-misted vines."
+        }
+      ],
+      "duration": {
+        "max": 1,
+        "maxInclusive": false,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "DM’s elapsed-walk statement “less than an hour”; the earlier half-hour forecast is not a measured duration"
+      }
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u1073",
+        "endUid": "u1078"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After destroying the statues the party enters the university’s Faculty of Natural History ruins.",
+      "evidence": [
+        {
+          "startUid": "u1073",
+          "endUid": "u1078",
+          "quote": "So the now crumbled remains of the 2 living statues before you, you turn and proceed into the ruins of the—of this university itself, the, the—this seems to have been like the hall, some scholarly hall, or something like that, but it's labeled Faculty of Natural History, which is what—in Drankorian, which multiple of you can read—which was what Minarith was from."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1108",
+        "endUid": "u1175"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Follow Kenzo toward the northwest second-story office; after Wellby triggers a roof collapse, climb over the rubble and reach the office one in from the corner.",
+      "evidence": [
+        {
+          "startUid": "u1108",
+          "endUid": "u1113",
+          "quote": "Psychic connections to his soul, faint and sort of in the northwestern corner of the second story of this building is intact, but it looks incredibly unstable. There's like a tree growing up through the middle of the building. The higher stories have collapsed, and you know, as you walk, it seems like every footstep is at risk of the roof collapsing. But Kenzo points to the sort of northwest corner of the building, and that's where he senses, a sort of emanation of, of Minarith."
+        },
+        {
+          "startUid": "u1159",
+          "endUid": "u1162",
+          "quote": "Oh, no, you haven't gotten to the room yet. It—this is just trying to navigate around the like unstable ceiling. But now it's collapsed so you can crawl over the rubble and get to where you were trying to go."
+        },
+        {
+          "startUid": "u1164",
+          "endUid": "u1164",
+          "quote": "Here we go. We all clamber."
+        },
+        {
+          "startUid": "u1168",
+          "endUid": "u1175",
+          "quote": "So you reach what looks like—so a lot of the interior walls were probably wood, and have rotted, long ago rotted away. But there's still you know, little bits that are coming out of the exterior wall that make it look like this was a—this back corner was a row of offices, and the—not the corner office, but one in from the corner office is where Kenzo is leading you.\n\nDM: And again it's like completely overgrown. There's, there's like a layer of plants growing of vines growing up from the bottom. But you do see that there is something glinting, some metallic thing glinting on the floor underneath, partially buried in dirt and, and plant material."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "clamber"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1372",
+        "endUid": "u1464"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Teleport to Tollen at the Philosophers’ Guild; the later narration places everyone in its courtyard rather than inside the initially proposed lobby.",
+      "evidence": [
+        {
+          "startUid": "u1372",
+          "endUid": "u1378",
+          "quote": "You teleport? Where in Tollen are you teleporting to?\n\nDelwath: What do you? What do you? What did you take a piece of by accident, Seeker, when you were last in Tollen?\n\nSeeker: Oh, the—the little welcome card from the philosopher—Philosophers Guild.\n\nDM: You can teleport into the lobby of the philosophers.\n\nDelwath: Sure. Why not?\n\nDM: I love it."
+        },
+        {
+          "startUid": "u1431",
+          "endUid": "u1432",
+          "quote": "So you appear. Let's see if I still have some Tollen music somewhere."
+        },
+        {
+          "startUid": "u1454",
+          "endUid": "u1464",
+          "quote": "Wow! At the moment you now find yourself all standing discussing this in the courtyard.\n\nDelwath: Yes, yes.\n\nDM: Guild standing outside. It's—so it's currently May. So you've gone from the oppressive heat and rain of the jungle to pleasant spring day. A warm, gentle breeze blowing from the Green Sea. The, the sort of strange magic of the philosopher's Guild garden that makes the streets seem—sounds of the street seem somewhat distant and far away, encases you in a, in a sort of zone of peace. You hear the birds singing."
+        }
+      ],
+      "from": "p06",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "teleport"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1518",
+        "endUid": "u1539"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Enter the guild and sit for tea with its middle-aged representative.",
+      "evidence": [
+        {
+          "startUid": "u1518",
+          "endUid": "u1519",
+          "quote": "I think we should ask the Philosophers Guild if they can work quickly. Let's just go in. 1st step: Go into the Philosopher's Guild. We're standing outside. Let's walk in."
+        },
+        {
+          "startUid": "u1525",
+          "endUid": "u1533",
+          "quote": "You step into the Philosopher's Guild, and it's similar to what you saw before. It's like—so it's, it's mid afternoon, right? It's 2 30 in the afternoon. There doesn't seem to be a lot of traffic at the moment. There's rarely a lot of traffic. There is a few people, one sort of middle-aged woman and one older man in white robes, members of the guild, one who greets you as you come in. There's 1 table where a couple people are sitting and talking, and that's the nature of this place. You can't, even though you're standing close to them, you can't hear what they're talking about, or really who it is. The middle-aged woman who greets you kind of looks you over a few times, interesting—interestedly, and asks, \"Well, what are you seeking? What could you possibly be seeking?\""
+        },
+        {
+          "startUid": "u1539",
+          "endUid": "u1539",
+          "quote": "\"Come, sit, let us at least have some tea while you tell me.\" She motions you. \"I know of you. Of course I've spoken to Delios.\""
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l08",
+      "type": "presence",
+      "source": {
+        "startUid": "u1876",
+        "endUid": "u1887"
+      },
+      "actors": [
+        "Delwath",
+        "unspecified companions"
+      ],
+      "reading": "Delwath joins the body-access request; the temple priests permit a later spellcasting visit, without removal of the body.",
+      "evidence": [
+        {
+          "startUid": "u1876",
+          "endUid": "u1876",
+          "quote": "Yeah, yeah, I could come do it. It's fine. We played."
+        },
+        {
+          "startUid": "u1877",
+          "endUid": "u1877",
+          "quote": "Okay, yes. Make a Persuasion check."
+        },
+        {
+          "startUid": "u1881",
+          "endUid": "u1881",
+          "quote": "With advantage, because there's a bunch of you helping out."
+        },
+        {
+          "startUid": "u1883",
+          "endUid": "u1887",
+          "quote": "Yeah, there, I mean, they're a bit taken aback, but also sort of in awe of the raw power demonstrated by the 2 or 3 or 4 of you, however many are going, and although won't let you take the body, certainly have no objection to you coming and casting a spell here as long as it doesn't harm the soul of the deceased."
+        }
+      ],
+      "place": "p12",
+      "note": "The temple is unnamed in this exchange; the next morning’s return names it as the Temple of the Sibyl at u2144–u2149. The exact accompanying subset remains unspecified."
+    },
+    {
+      "id": "l09",
+      "type": "presence",
+      "source": {
+        "startUid": "u1891",
+        "endUid": "u1981"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath visits Melindir and is still in his chambers when the guild summons him.",
+      "evidence": [
+        {
+          "startUid": "u1891",
+          "endUid": "u1891",
+          "quote": "And then you speak to the Elven Ambassador."
+        },
+        {
+          "startUid": "u1895",
+          "endUid": "u1904",
+          "quote": "So Melindir is—I mean, he's certainly sympathetic to the cause. Promises to send a message. There's—it's a long way from Orenlas to Dunmar.\n\nDM: Long gone are the days of elves, you know, teleporting around the world or transiting via the Feywild. But he doesn't know how much—doesn't know how much aid they'll be able to send for sure. And of course, you know, Orenlas has always, since the fall of Isingue, always been quite reclusive. And most of its martial energy has gone to defending its borders with the Plaguelands. Thank you."
+        },
+        {
+          "startUid": "u1950",
+          "endUid": "u1954",
+          "quote": "He takes this all in, and promises to send the news, and wishes you luck, and goes like in his office, and, and roots around a little bit and pulls out a small crystal vial. \"I don't know if this will do any good where you're going. It's a protection against charm.\""
+        },
+        {
+          "startUid": "u1966",
+          "endUid": "u1969",
+          "quote": "Kind of, you know, looks into your eyes and like shakes your hand and wishes you luck, and then you go as you hear the message from Wellby like, what, 8? This is evening, right, I guess?"
+        },
+        {
+          "startUid": "u1974",
+          "endUid": "u1981",
+          "quote": "Fucking night. So who's going? Kenzo's going? Wait! Am I at Melindir's when this happens?\n\nDM: Yes.\n\nDelwath: Okay, so Delwath is not going.\n\nDM: No, no, Wellby—\n\nDelwath: No, I could go from Melindir.\n\nDM: To go from Melindir's chambers."
+        }
+      ],
+      "place": "p11"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1994",
+        "endUid": "u2004"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "Kenzo, Delwath, Seeker and Wellby return to the guild tea room and are led to the changing room.",
+      "evidence": [
+        {
+          "startUid": "u1991",
+          "endUid": "u1991",
+          "quote": "I think everybody but Riswynn, right?"
+        },
+        {
+          "startUid": "u1992",
+          "endUid": "u1992",
+          "quote": "Everybody but Riswynn is coming."
+        },
+        {
+          "startUid": "u1994",
+          "endUid": "u2002",
+          "quote": "So you arrive the—at the Philosophers Guild. And it's, it's night, and it's quiet and you're—you're led into the—it—into the same tea room, and then taken back through a hallway and, and left in a, a small room with, with 5 white robes hanging, sized 2 for dwarves, 2 for humans, one for halflings. And she, the same middle-aged woman, shuts the door, and then says, you know, \"Please change. Bring nothing with you. Your possessions will be safe in this room.\""
+        },
+        {
+          "startUid": "u2004",
+          "endUid": "u2004",
+          "quote": "And when you are ready, follow me. I'll be waiting outside the door."
+        }
+      ],
+      "from": null,
+      "to": "p13",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p10",
+          "reading": "Pass through the same tea room on the way to changing robes."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u2008",
+        "endUid": "u2022"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "The four visitors are led along a marble hallway into the dark consultation chamber and blindfolded.",
+      "evidence": [
+        {
+          "startUid": "u2008",
+          "endUid": "u2011",
+          "quote": "So you walk through the sort of marble hallway and you come to a small room that has a—let's see. Try this small room that's completely dark. There's no light at all, dark even to your darkvision-adjusted eyes."
+        },
+        {
+          "startUid": "u2013",
+          "endUid": "u2019",
+          "quote": "Not to devil's sight. It's a, it's a small room, and she leads you and sits you down on a bench. There's no, there's, there's just walls. There's the one bench, and then she says, \"I apologize, but just out of an abundance of caution—\" She goes, and she blindfolds each one of you. And then she steps out of the room."
+        },
+        {
+          "startUid": "u2022",
+          "endUid": "u2022",
+          "quote": "Outside of the room, leaving you there."
+        }
+      ],
+      "from": "p13",
+      "to": "p14",
+      "completion": "arrived"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2125",
+        "endUid": "u2137"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "After the consultation the representative returns the four visitors to the changing room.",
+      "evidence": [
+        {
+          "startUid": "u2125",
+          "endUid": "u2132",
+          "quote": "The fee is paid, the dead speak no more. Silence! And suddenly there's a bright light flashes in the room, and the woman comes back and undoes your blindfolds. And leads you back to the room. \"You may change and leave at your—as you wish. Please speak of this to no one, although we believe we have taken the precautions that you not have seen anything that you should not have seen.\" She looks over at Seeker. \"They seemed very curious about you.\""
+        },
+        {
+          "startUid": "u2134",
+          "endUid": "u2137",
+          "quote": "Perhaps we will see you again. Dwarves often make excellent philosophers.\n\nSeeker: I can see why. Perhaps our paths will cross once more."
+        }
+      ],
+      "from": "p14",
+      "to": "p13",
+      "completion": "arrived"
+    },
+    {
+      "id": "l13",
+      "type": "presence",
+      "source": {
+        "startUid": "u2138",
+        "endUid": "u2141"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party sleeps at its Tollen lodging before the next morning departure.",
+      "evidence": [
+        {
+          "startUid": "u1634",
+          "endUid": "u1643",
+          "quote": "Where are you staying tonight?\n\nRiswynn: The nearest inn.\n\nDelwath: We have no idea. We know tons of people, though.\n\nWellby: Yeah, or, or in town.\n\nDelwath: Yeah. We'll stay—we'll be staying. I mean, I'm going to go. I want to talk to the Elven Ambassador.\n\nDM: Okay.\n\nDelwath: But, but I'm going to wander around while these guys are resting. Just—well, some we must.\n\nDM: We know some inns, we'll pick an inn, an inn we know."
+        },
+        {
+          "startUid": "u2138",
+          "endUid": "u2139",
+          "quote": "Good evening. So you sleep."
+        },
+        {
+          "startUid": "u2141",
+          "endUid": "u2141",
+          "quote": "Yep. Long rested."
+        }
+      ],
+      "place": "p15"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2144",
+        "endUid": "u2174"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Waking in the morning, the party goes to the Temple of the Sibyl and gathers around the permitted body.",
+      "evidence": [
+        {
+          "startUid": "u2144",
+          "endUid": "u2145",
+          "quote": "You wake in the morning and go to the, the temple of—yeah, I never made a—"
+        },
+        {
+          "startUid": "u2149",
+          "endUid": "u2149",
+          "quote": "Temple of the Sibyl."
+        },
+        {
+          "startUid": "u2172",
+          "endUid": "u2173",
+          "quote": "Okay. So you find the—you find the, the body in the temple, and the priests, you know, sort of gather around, and Riswynn casts Plane Shift and you find yourself—"
+        },
+        {
+          "startUid": "u2174",
+          "endUid": "u2174",
+          "quote": "Hold hands in a circle and—"
+        }
+      ],
+      "from": "p15",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2172",
+        "endUid": "u2202"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Riswynn casts Plane Shift over the body; the party arrives in the gray expanse of the Land of the Dead beside the departing old man’s soul.",
+      "evidence": [
+        {
+          "startUid": "u2172",
+          "endUid": "u2173",
+          "quote": "Okay. So you find the—you find the, the body in the temple, and the priests, you know, sort of gather around, and Riswynn casts Plane Shift and you find yourself—"
+        },
+        {
+          "startUid": "u2192",
+          "endUid": "u2202",
+          "quote": "You find yourself in a gray expanse. You can see a few people, shadowy sort of incomplete, moving in the distance. And standing next to you is an old man, presumably the soul of the body, who you just followed, who looks sort of kind of basically ignoring you, who, who seems to be staring off at something in the distance that he's excited to see. And he's moving determinedly, sort of moving more quickly than other people here, it seems. The whole place is dry and dusty. There's no weather. The land and the sky are hard to tell apart. It's so—it's hard to sort of see the horizon. It's hard to tell when, when the horizon begins and the land ends, or when the land ends and the horizon begins. And you find yourself standing here, not sure what to do."
+        }
+      ],
+      "from": "p12",
+      "to": "p16",
+      "completion": "arrived",
+      "mode": "plane shift"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2701",
+        "endUid": "u2708"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Use Rainbow Bridge to return to Vindristjarna’s stables, where Baxter is alive and Kenzo senses only their own people.",
+      "evidence": [
+        {
+          "startUid": "u2693",
+          "endUid": "u2701",
+          "quote": "Invisible because he has to cast the spell. But—\n\nDelwath: No, Seeker's not casting a spell. We're rainbow bridging.\n\nDM: Oh, you're rainbow bridging. Yeah, yeah.\n\nSeeker: Right.\n\nKenzo: Doesn't activating—does activating a magic item, not—?\n\nDelwath: No.\n\nDM: Only casting a spell or making an attack roll. Then you're good.\n\nKenzo: Alright! Let's do it invisible into the stable, and then, Wellby and Kenzo stealth out and go, go."
+        },
+        {
+          "startUid": "u2702",
+          "endUid": "u2702",
+          "quote": "You appear in the stable?"
+        },
+        {
+          "startUid": "u2704",
+          "endUid": "u2705",
+          "quote": "Baxter is alive. I mean, he can't see you because you're invisible, so he doesn't like leap up and greet you."
+        },
+        {
+          "startUid": "u2706",
+          "endUid": "u2708",
+          "quote": "Actually the very 1st thing—as soon as we land, Kenzo immediately scans for consciousness. What's going on on the boat? Is it—? Is it? Is it all, all our people? Is it weird fucking? Is Fausto there going on?\n\nDM: Just your people."
+        }
+      ],
+      "from": "p16",
+      "to": "p18",
+      "completion": "arrived",
+      "mode": "Rainbow Bridge"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2745",
+        "endUid": "u2769"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "Kenzo and Wellby leave the stables to scout the open deck; Amil is at the front and Egnir tends the garden.",
+      "evidence": [
+        {
+          "startUid": "u2743",
+          "endUid": "u2743",
+          "quote": "Well, the, the stealthy ones just give us—"
+        },
+        {
+          "startUid": "u2745",
+          "endUid": "u2745",
+          "quote": "In the closet, you sneak out."
+        },
+        {
+          "startUid": "u2746",
+          "endUid": "u2746",
+          "quote": "Yeah, and Wellby."
+        },
+        {
+          "startUid": "u2751",
+          "endUid": "u2753",
+          "quote": "He—so you, you climb out. You step out of the stables. You are over an ocean. Let's see."
+        },
+        {
+          "startUid": "u2765",
+          "endUid": "u2769",
+          "quote": "It's hot. You're heading directly east towards this, towards the—somewhere. Amil is up at front like sort of keeping an eye out. The—Egnir, the elf, is tending to the tree in the garden."
+        },
+        {
+          "startUid": "u2761",
+          "endUid": "u2764",
+          "quote": "And that's the only direction in which—you can probably see land to the north as well. It's like you're traveling through like a big bay with land to the north and south, but east and west you can't see. There's mountains to the north, just far in the distance, like a hundred—more than a hundred miles off."
+        }
+      ],
+      "from": "p18",
+      "to": "p19",
+      "completion": "arrived",
+      "locationContext": [
+        {
+          "subject": "p17",
+          "relation": "above",
+          "target": "p21",
+          "note": "The ship is traveling east over this unnamed bay; this is temporary placement, not permanent containment."
+        },
+        {
+          "subject": "p19",
+          "relation": "above",
+          "target": "p21",
+          "note": "Temporary deck position aboard the eastbound ship."
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "type": "observation",
+      "source": {
+        "startUid": "u2751",
+        "endUid": "u2764"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "From the ship the two scouts see ocean below, land north and south and distant mountains north.",
+      "evidence": [
+        {
+          "startUid": "u2751",
+          "endUid": "u2753",
+          "quote": "He—so you, you climb out. You step out of the stables. You are over an ocean. Let's see."
+        },
+        {
+          "startUid": "u2755",
+          "endUid": "u2755",
+          "quote": "You can see land to the south."
+        },
+        {
+          "startUid": "u2761",
+          "endUid": "u2764",
+          "quote": "And that's the only direction in which—you can probably see land to the north as well. It's like you're traveling through like a big bay with land to the north and south, but east and west you can't see. There's mountains to the north, just far in the distance, like a hundred—more than a hundred miles off."
+        }
+      ],
+      "place": "p21",
+      "mode": "local",
+      "observerPlace": "p19"
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u2790",
+        "endUid": "u2812"
+      },
+      "actors": [
+        "Vindristjarna’s crew"
+      ],
+      "reading": "The charmed crew is flying east in search of Pu'aatar; the party has not adopted that goal and no city arrival is established.",
+      "evidence": [
+        {
+          "startUid": "u2765",
+          "endUid": "u2769",
+          "quote": "It's hot. You're heading directly east towards this, towards the—somewhere. Amil is up at front like sort of keeping an eye out. The—Egnir, the elf, is tending to the tree in the garden."
+        },
+        {
+          "startUid": "u2790",
+          "endUid": "u2790",
+          "quote": "Yeah, just that—become invisible—visible. Amil, what's going on? How's, how's everything going? Why are we? Why are we? Why are we flying the ship east? What's going—?"
+        },
+        {
+          "startUid": "u2791",
+          "endUid": "u2796",
+          "quote": "Hey! Good to see you. Are—are you coming to find the hidden city of Pu'aatar, too?\n\nSeeker: Oh no!\n\nKenzo: What is that? And why are we going there?\n\nDM: Library holds all the secrets to everything we need to learn. It's a hidden city in the desert. We're on a quest to find it."
+        },
+        {
+          "startUid": "u2797",
+          "endUid": "u2812",
+          "quote": "Who? Whose quest?\n\nDM: It's our quest. We decided.\n\nKenzo: Who's we?\n\nDM: Faldrak and me and Egnir, and the Orc ladies and—\n\nKenzo: Where did you hear about the city?\n\nDM: A nice wizard told us about it.\n\nKenzo: When did the nice wizard come?\n\nDM: When we were in Drankor. It was too scary there; we had to leave.\n\nKenzo: Right, right, right. Is the nice wizard still here?\n\nDM: No.\n\nDelwath: Are they charmed?\n\nDM: The answers would be clear when we got to Pu'aatar. The—\n\nKenzo: Charmed.\n\nDM: Be in the desert.\n\nDelwath: Are they charmed?\n\nDM: Yes, they are."
+        }
+      ],
+      "from": null,
+      "to": "p22",
+      "completion": "underway",
+      "mode": "fly",
+      "vehicle": "p17",
+      "note": "This is the crew’s stated destination under magical coercion, not verified geography."
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u2825",
+        "endUid": "u2839"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo goes down to the control room and cleanses Faldrak’s charm.",
+      "evidence": [
+        {
+          "startUid": "u2825",
+          "endUid": "u2826",
+          "quote": "He's in the control room. Normally he was very excited. \"I always wanted to find a hidden city.\""
+        },
+        {
+          "startUid": "u2827",
+          "endUid": "u2827",
+          "quote": "Yeah. Kenzo goes down into the control room. There."
+        },
+        {
+          "startUid": "u2828",
+          "endUid": "u2828",
+          "quote": "\"Kenzo,\" Faldrak says."
+        },
+        {
+          "startUid": "u2831",
+          "endUid": "u2839",
+          "quote": "Yeah, yeah. I know. The answer is great. 16.\n\nDM: 16, you need to beat a 16. Yeah.\n\nKenzo: Does that work, or does that not work?\n\nDM: 16 works. Yes.\n\nKenzo: Okay.\n\nDM: His face like completely changes. \"What—I was, I was sure there was a hidden city in the desert.\""
+        }
+      ],
+      "from": "p19",
+      "to": "p20",
+      "completion": "arrived"
+    },
+    {
+      "id": "l20",
+      "type": "presence",
+      "source": {
+        "startUid": "u2843",
+        "endUid": "u2844"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Kenzo calls everyone to talk with Faldrak; the group gathers after the scouting split.",
+      "evidence": [
+        {
+          "startUid": "u2843",
+          "endUid": "u2843",
+          "quote": "Telepath—this morning? Telepathically to everyone, \"Yeah. Come, let's talk, everybody.\" We all get Tim. We'll start just uncharming people as he sees them. But, like, let's all talk to Faldrak."
+        },
+        {
+          "startUid": "u2844",
+          "endUid": "u2844",
+          "quote": "Okay."
+        }
+      ],
+      "place": "p20"
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u2945",
+        "endUid": "u2953"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Seeker teleports the party to the Temple of the 8 Divines; Fausto is standing there and confronts them.",
+      "evidence": [
+        {
+          "startUid": "u2945",
+          "endUid": "u2946",
+          "quote": "And Seeker cast Teleport, and you appear in the temple of the 8 Divines."
+        },
+        {
+          "startUid": "u2948",
+          "endUid": "u2948",
+          "quote": "Where Fausto—"
+        },
+        {
+          "startUid": "u2950",
+          "endUid": "u2950",
+          "quote": "Standing."
+        },
+        {
+          "startUid": "u2952",
+          "endUid": "u2952",
+          "quote": "And yells, \"You fools! What have you done?\""
+        }
+      ],
+      "from": "p20",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "teleport"
+    }
+  ]
+}
