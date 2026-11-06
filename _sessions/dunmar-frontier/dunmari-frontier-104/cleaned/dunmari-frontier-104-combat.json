@@ -1,0 +1,540 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-104",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-session.yaml",
+    "sessionYamlSha256": "67526ff03152d0ff5c0fb33ad28d03af1c565c7459e6f1f25ca196cbbe457c94",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-transcript.md",
+    "transcriptSha256": "23fe5307641c6af387a2563764de39e17721dbf511368be8f7da81fb41951e0e",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-segments.json",
+      "sha256": "a0ba0c68addfd2e3cb95b0e93c77ad744da9ae0d897f3fb3b4e188873a768797",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s004",
+      "encounter": "Scryed simulacrum fight with pirate Wellby",
+      "note": "The party watches remotely. The fight is already underway when scrying opens; round 1 is the first recorded cycle. Source narration combines the pirates and Wellby in the second volley.",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Pirates",
+              "kind": "turn",
+              "summary": "Six human pirates surround the Kenzo simulacrum and swing scimitars.",
+              "evidence": [
+                {
+                  "startUid": "u0239",
+                  "endUid": "u0250"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby doppelganger",
+              "kind": "turn",
+              "summary": "Fires an arrow from about twenty feet away; the simulacrum bats it away.",
+              "evidence": [
+                {
+                  "startUid": "u0251",
+                  "endUid": "u0257"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo simulacrum",
+              "kind": "reaction",
+              "summary": "Deflects the incoming arrow.",
+              "evidence": [
+                {
+                  "startUid": "u0251",
+                  "endUid": "u0257"
+                }
+              ]
+            },
+            {
+              "actor": "Pirates",
+              "kind": "turn",
+              "summary": "Swarm the simulacrum and land blows despite its dodging, leaving it limping.",
+              "evidence": [
+                {
+                  "startUid": "u0259",
+                  "endUid": "u0271"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo simulacrum",
+              "kind": "turn",
+              "summary": "Draws energy into itself, dodges through the pirates and rushes Wellby. Its first blow misses and second hits, staggering Wellby.",
+              "evidence": [
+                {
+                  "startUid": "u0265",
+                  "endUid": "u0278"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby doppelganger",
+              "kind": "reaction",
+              "summary": "Retreats into the pirate crowd after the second punch; holds a nocked arrow and orders a charge.",
+              "evidence": [
+                {
+                  "startUid": "u0272",
+                  "endUid": "u0280"
+                }
+              ],
+              "note": "Narrated off-turn retreat; no named reaction ability is supplied."
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Pirates and Wellby doppelganger",
+              "kind": "turn",
+              "summary": "Pirates charge but cannot hit the dodging simulacrum. Wellby lands a clean arrow strike that the simulacrum partly deflects, leaving only a scrape.",
+              "evidence": [
+                {
+                  "startUid": "u0281",
+                  "endUid": "u0286"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo simulacrum",
+              "kind": "reaction",
+              "summary": "Partly deflects Wellby’s second arrow.",
+              "evidence": [
+                {
+                  "startUid": "u0281",
+                  "endUid": "u0286"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo simulacrum",
+              "kind": "turn",
+              "summary": "Uses a glowing blue planar fist to knock Wellby over the bow into the sea after a failed Strength save. Leaps onto the water, runs after him, drinks the transformation potion and dives to force the drowning doppelganger down.",
+              "evidence": [
+                {
+                  "startUid": "u0287",
+                  "endUid": "u0306"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby doppelganger",
+              "kind": "turn",
+              "summary": "While choking and drowning, punches the simulacrum, then vanishes in a flash.",
+              "evidence": [
+                {
+                  "startUid": "u0307",
+                  "endUid": "u0312"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The Wellby doppelganger vanishes; the simulacrum survives beneath the pirate ship. No permanent death is established.",
+        "evidence": [
+          {
+            "startUid": "u0297",
+            "endUid": "u0312"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s008",
+      "encounter": "Damaged colossus in the Shaking Tooth",
+      "note": "The encounter uses repeated declared turns and readied attacks without an initiative roll. Each later cycle includes a ten-minute Radiance hold, not a six-second round. There is no resolved Banishment, imprisonment or mirror capture.",
+      "openingActions": [
+        {
+          "actor": "Colossus",
+          "kind": "event",
+          "summary": "Fires a light beam at Wellby. His Dexterity save fails; Evasion reduces the initially stated 60 radiant damage to 30.",
+          "evidence": [
+            {
+              "startUid": "u1537",
+              "endUid": "u1550"
+            }
+          ]
+        },
+        {
+          "actor": "Wellby",
+          "kind": "turn",
+          "summary": "Retreats upstairs to the party, smoking, and recommends leaving.",
+          "evidence": [
+            {
+              "startUid": "u1551",
+              "endUid": "u1556"
+            }
+          ]
+        },
+        {
+          "actor": "Seeker",
+          "kind": "turn",
+          "summary": "Uses Clairvoyance to examine the level beneath the colossus, finding a sand-filled room and buried stairs.",
+          "evidence": [
+            {
+              "startUid": "u1717",
+              "endUid": "u1738"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Sanctuary, takes cover at the stairs (+5 to Dexterity saves), then exposes himself to cast Sickening Radiance. After the colossus’s readied beam he successfully casts and retreats. Radiance deals 4d10 radiant damage per failed DC 19 Constitution save; the table corrects the full ten-minute duration to 100 saves. The colossus takes damage but remains standing and is immune to exhaustion.",
+              "evidence": [
+                {
+                  "startUid": "u1825",
+                  "endUid": "u1876"
+                },
+                {
+                  "startUid": "u1894",
+                  "endUid": "u1909"
+                }
+              ]
+            },
+            {
+              "actor": "Colossus",
+              "kind": "reaction",
+              "summary": "Succeeds on the Sanctuary save with 27 and fires its readied eye beam. Delwath fails the Dexterity save even after cover and Inspiration bring it to 17; he takes 55 radiant damage before his Radiance goes off.",
+              "evidence": [
+                {
+                  "startUid": "u1870",
+                  "endUid": "u1897"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Provides Inspiration during Delwath’s save and heals him twice afterward: 15 and 16 hit points.",
+              "evidence": [
+                {
+                  "startUid": "u1877",
+                  "endUid": "u1882"
+                },
+                {
+                  "startUid": "u1925",
+                  "endUid": "u1935"
+                },
+                {
+                  "startUid": "u1948",
+                  "endUid": "u1951"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Repeats Sanctuary and Sickening Radiance, then crawls backward to cover after being knocked prone. Misty Step is considered and withdrawn. The second Radiance runs for ten minutes.",
+              "evidence": [
+                {
+                  "startUid": "u1952",
+                  "endUid": "u1960"
+                },
+                {
+                  "startUid": "u1987",
+                  "endUid": "u1990"
+                },
+                {
+                  "startUid": "u2034",
+                  "endUid": "u2049"
+                },
+                {
+                  "startUid": "u2063",
+                  "endUid": "u2068"
+                }
+              ]
+            },
+            {
+              "actor": "Colossus",
+              "kind": "reaction",
+              "summary": "Succeeds on Sanctuary again. The DM replaces the proposed eye beam with a force attack roll that hits Delwath for 14 damage and knocks him prone.",
+              "evidence": [
+                {
+                  "startUid": "u1991",
+                  "endUid": "u2024"
+                }
+              ]
+            },
+            {
+              "actor": "Colossus",
+              "kind": "turn",
+              "summary": "Propped on its legless torso, pounds harder and spends the ten-minute Radiance interval trying to smash the bottom of the stairs. Its movement slows but it does not fall.",
+              "evidence": [
+                {
+                  "startUid": "u2057",
+                  "endUid": "u2068"
+                },
+                {
+                  "startUid": "u2091",
+                  "endUid": "u2093"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Uses Armor of Agathys, Sanctuary (DC 18), and a third Sickening Radiance, following the same exposure and retreat. The accepted retained Dexterity roll of 20 succeeds with +5 cover against the beam. He reports only 5 damage reaching him after Armor of Agathys absorbs part of the 30 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2094",
+                  "endUid": "u2108"
+                }
+              ],
+              "note": "The earlier proposed ten-point absorption and later reported five damage do not reconcile arithmetically. Preserve both the DM’s 30 damage and the player’s reported remaining damage without inventing an HP ledger."
+            },
+            {
+              "actor": "Colossus",
+              "kind": "reaction",
+              "summary": "Uses its eye beam again; Delwath succeeds on the Dexterity save with cover and the DM assigns 30 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2097",
+                  "endUid": "u2103"
+                }
+              ]
+            },
+            {
+              "actor": "Colossus",
+              "kind": "event",
+              "summary": "Falls with a thud about six minutes into the third Radiance.",
+              "evidence": [
+                {
+                  "startUid": "u2109",
+                  "endUid": "u2109"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Keeps the third Radiance up until the full ten minutes expire before investigation.",
+              "evidence": [
+                {
+                  "startUid": "u2114",
+                  "endUid": "u2117"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby’s summoned bat",
+              "kind": "turn",
+              "summary": "Flies down and reveals the colossus keeled over, with nothing moving. The DM explicitly confirms it is dead.",
+              "evidence": [
+                {
+                  "startUid": "u2118",
+                  "endUid": "u2122"
+                },
+                {
+                  "startUid": "u2130",
+                  "endUid": "u2130"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The colossus is confirmed dead after three Radiance intervals. The party is free to investigate the buried floors.",
+        "evidence": [
+          {
+            "startUid": "u2109",
+            "endUid": "u2109"
+          },
+          {
+            "startUid": "u2114",
+            "endUid": "u2130"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c003",
+      "segmentId": "s010",
+      "encounter": "Seeker encounters the basement stone golem",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Acts first (initiative 11 against 2) and casts Wall of Stone to box in the golem. It succeeds on the DC 18 Dexterity save and runs out before enclosure.",
+              "evidence": [
+                {
+                  "startUid": "u2404",
+                  "endUid": "u2431"
+                }
+              ]
+            },
+            {
+              "actor": "Stone golem",
+              "kind": "turn",
+              "summary": "Uses its slowing gaze. Seeker fails a Wisdom save with 10: no reactions, half speed, at most one attack, and either an action or bonus action. Spellcasting remains possible; a repeat save is allowed at the end of each turn.",
+              "evidence": [
+                {
+                  "startUid": "u2433",
+                  "endUid": "u2449"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Dimension Doors vertically back up to the other PCs, preserving his seventh-level Teleport slot.",
+              "evidence": [
+                {
+                  "startUid": "u2483",
+                  "endUid": "u2489"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Seeker escapes; the stone golem remains alive in the storeroom for a later return.",
+        "evidence": [
+          {
+            "startUid": "u2483",
+            "endUid": "u2489"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c004",
+      "segmentId": "s015",
+      "encounter": "Party returns to the basement stone golem",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Rushes forward and lands four blows for 7, 10, 12 and 13 damage. The golem fails a Charisma save but is immune to charm, so the proposed charm is replaced by Stunning Strike; it succeeds on the Constitution save with 25. The golem is also stated immune to exhaustion, frightened, paralyzed, petrified, poisoned, poison damage and psychic damage.",
+              "evidence": [
+                {
+                  "startUid": "u2886",
+                  "endUid": "u2929"
+                }
+              ]
+            },
+            {
+              "actor": "Stone golem",
+              "kind": "turn",
+              "summary": "Steps forward and projects its slowing aura. All four PCs succeed on their Wisdom saves (Kenzo 23, Delwath 21, Wellby 17 and Seeker 20); nobody is slowed.",
+              "evidence": [
+                {
+                  "startUid": "u2930",
+                  "endUid": "u2942"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim and shoots with Cunning Strike trip: a 16 misses and the 28 hits. Damage is initially stated as 28 then corrected to 27. The golem fails the DC 18 Dexterity save and falls prone.",
+              "evidence": [
+                {
+                  "startUid": "u2943",
+                  "endUid": "u2951"
+                },
+                {
+                  "startUid": "u2957",
+                  "endUid": "u2961"
+                }
+              ],
+              "note": "The two attack results are narrated with Steady Aim as one shot, not two separately resolved arrows."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Catapult with a rock; the golem fails its DC 18 Dexterity save and takes 24 bludgeoning damage.",
+              "evidence": [
+                {
+                  "startUid": "u2963",
+                  "endUid": "u2979"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Steps into melee against the prone golem, with close-range advantage established, and makes three attacks for 9, 14 and 19 damage. Banishing Smite adds 28 damage, but the tower’s planar ward prevents the banishment.",
+              "evidence": [
+                {
+                  "startUid": "u2952",
+                  "endUid": "u2955"
+                },
+                {
+                  "startUid": "u2980",
+                  "endUid": "u3012"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Hits with 17 for 13 damage and declares another Stunning Strike; the punch kills the golem before any additional save is resolved.",
+              "evidence": [
+                {
+                  "startUid": "u3013",
+                  "endUid": "u3025"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The stone golem falls backward and cracks in half; combat ends before the party examines the chests and scrolls.",
+        "evidence": [
+          {
+            "startUid": "u3024",
+            "endUid": "u3025"
+          }
+        ]
+      }
+    }
+  ]
+}

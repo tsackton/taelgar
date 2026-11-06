@@ -1,0 +1,1152 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-104",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-session.yaml",
+    "sessionYamlSha256": "67526ff03152d0ff5c0fb33ad28d03af1c565c7459e6f1f25ca196cbbe457c94",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-transcript.md",
+    "transcriptSha256": "23fe5307641c6af387a2563764de39e17721dbf511368be8f7da81fb41951e0e"
+  },
+  "places": {
+    "p01": {
+      "label": "Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0007",
+          "quote": "DM: I'd—okay. So we began on Vindristjarna. The hot afternoon sun of the pre-monsoon summer beats down as you sail. What are you doing, Eric?"
+        }
+      ],
+      "kind": "skyship",
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p02": {
+      "label": "desert below Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u0012",
+          "endUid": "u0016",
+          "quote": "DM: The sun beats down. This high up, the winds keep you cool, but the endless expanse of sand and rock below swelters in the heat. We'll switch to other phones. You."
+        }
+      ],
+      "kind": "region",
+      "note": "The Garamjala match comes from Session 104’s dated flight record; the transcript calls it only desert.",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Garamjala Plateau/Garamjala Desert.md"
+    },
+    "p03": {
+      "label": "pirate ship",
+      "evidence": [
+        {
+          "startUid": "u0239",
+          "endUid": "u0246",
+          "quote": "DM: And you see below you a scene of the Kenzo clone standing on the bow of the like foredeck of a pirate ship."
+        }
+      ],
+      "kind": "vessel",
+      "mobile": true,
+      "note": "Same teleport destination as session 103 u3099–u3116’s Vengeance; no vessel page verified."
+    },
+    "p04": {
+      "label": "Nevos Sea",
+      "evidence": [
+        {
+          "startUid": "u0417",
+          "endUid": "u0418",
+          "quote": "DM: You have no idea where he is, because you used magic Chanceweaver dice to place them in the correct location. He's in the Nevos Sea somewhere."
+        }
+      ],
+      "kind": "sea",
+      "vaultPath": "Gazetteer/Nevos and Apporia/Nevos Sea.md"
+    },
+    "p05": {
+      "label": "shimmering shallow lake",
+      "evidence": [
+        {
+          "startUid": "u0562",
+          "endUid": "u0570",
+          "quote": "DM: The sun sets on May 14th. 45 or so hours of flying to go before you reach your destination. The desert is lit up in the light of the sinking sun, the sunlight glinting on what looks like a shimmering, shallow lake of some kind before—but—below you. To Wellby's eyes, it seems as if perhaps there is a hint of movement like a swarm of ants gathering around spilled sugar around the shores of this lake. What it could be, you cannot tell from this height."
+        }
+      ],
+      "kind": "lake"
+    },
+    "p06": {
+      "label": "Shaking Tooth",
+      "evidence": [
+        {
+          "startUid": "u1310",
+          "endUid": "u1333",
+          "quote": "DM: In your younger days, just, you know, kind of reading as you were trying to learn about the Dunmari, and piecing together some history and stories and things before you traveled here, you remembered some sort of—what you thought was a nonsensical tale or legend or ghost story of the Dunmari recorded from before the Great War, back when this land that you're on now used to be the sort of central part of Dunmar. And it was the legend of the Shaking Tooth."
+        }
+      ],
+      "kind": "tower",
+      "aliases": [
+        "white marble tower"
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Garamjala Plateau/Tower of the Colossus.md",
+      "note": "Matched to Tower of the Colossus via Session 104’s account; its Garamjala Plateau orientation is vault-only."
+    },
+    "p07": {
+      "label": "top room",
+      "evidence": [
+        {
+          "startUid": "u0714",
+          "endUid": "u0722",
+          "quote": "DM: Okay, the—so your clairvoyance sensor appears in what looks like the top room of the tower. Everything is made of—is made of this—the interior, as well as the exterior, is made of this pure white marble."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0714",
+              "endUid": "u0722",
+              "quote": "DM: Okay, the—so your clairvoyance sensor appears in what looks like the top room of the tower. Everything is made of—is made of this—the interior, as well as the exterior, is made of this pure white marble."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "staircase above the colossus",
+      "evidence": [
+        {
+          "startUid": "u1345",
+          "endUid": "u1353",
+          "quote": "DM: Well, I mean they're stairs down that go about down about 15 feet."
+        }
+      ],
+      "kind": "staircase",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1345",
+              "endUid": "u1353",
+              "quote": "DM: Well, I mean they're stairs down that go about down about 15 feet."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "colossus floor",
+      "evidence": [
+        {
+          "startUid": "u1001",
+          "endUid": "u1026",
+          "quote": "DM: There's 1—so the stairway goes down and there's 1 floor below this that's just completely cracked. The floor itself was destroyed. Something—it looks like—it almost looks like, like something large like fell through somehow, or maybe crashed up through the one floor below this and 2 floors below this. So down something like 40 feet."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u1001",
+              "endUid": "u1007",
+              "quote": "DM: There's 1—so the stairway goes down and there's 1 floor below this that's just completely cracked. The floor itself was destroyed. Something—it looks like—it almost looks like, like something large like fell through somehow, or maybe crashed up through the one floor below this and 2 floors below this. So down something like 40 feet."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "sand-filled level below the colossus",
+      "evidence": [
+        {
+          "startUid": "u1720",
+          "endUid": "u1726",
+          "quote": "DM: Okay, the clairvoyance appears in a—again what seems like an empty room. There's—there may have once been windows. There's not doors, but it's like there's sand that's been pouring in from all the sides, right? This is clearly well below the level of sand, and you can see that—actually, as you go further down, like you can see there's stairs down, but it's just completely filled with sand below this level."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2151",
+              "endUid": "u2157",
+              "quote": "DM: Okay, so you're down in this—you're now underneath the floor at which this construct was on. And your—this is just a tomb of sand."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "buried basement outside the interior door",
+      "evidence": [
+        {
+          "startUid": "u2272",
+          "endUid": "u2294",
+          "quote": "DM: Although no other floor has had stone interior walls, this floor does. You hit a wall."
+        }
+      ],
+      "kind": "basement",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2772",
+              "endUid": "u2777",
+              "quote": "DM: It's about 30 or 40 feet below the level of the ground, but you don't really know it's 2 floors down, so there's the. There's the colossus floor that went down one floor to the like sand pouring in the windows floor."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "sealed basement storeroom",
+      "evidence": [
+        {
+          "startUid": "u2351",
+          "endUid": "u2374",
+          "quote": "DM: You're—you already said you're doing this. So Seeker turned back into a dwarf, and as the sand starts pouring around you, you suddenly Dimension Door through the door. Yeah. You find yourself in a room with no sand."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2351",
+              "endUid": "u2363",
+              "quote": "DM: You're—you already said you're doing this. So Seeker turned back into a dwarf, and as the sand starts pouring around you, you suddenly Dimension Door through the door. Yeah. You find yourself in a room with no sand."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "outside the tower window",
+      "evidence": [
+        {
+          "startUid": "u2599",
+          "endUid": "u2601",
+          "quote": "Wellby: Super freaked out that this is like somehow swapped it out that it's not just a magical protection. So I'm I'm gonna run out the window real quick and just like go outside and see what happens."
+        }
+      ],
+      "kind": "grounds",
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2599",
+              "endUid": "u2601",
+              "quote": "Wellby: Super freaked out that this is like somehow swapped it out that it's not just a magical protection. So I'm I'm gonna run out the window real quick and just like go outside and see what happens."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "red sandstone cave",
+      "evidence": [
+        {
+          "startUid": "u0610",
+          "endUid": "u0617",
+          "quote": "DM: Kenzo, you have a dream of the jade. Jade you're flying to is cracking and bubbling, turning into a mist that floats out of this red sandstone cave, drifting above the jungle. Everything's dark and still until a strong wind sweeps up, and the jade mist swirls and blows across the canopy. You're swept with it and you watch the canopy pass below you, and you see the twinkling of the ocean waves crashing below you, despite the clear skies and seeming lack of winds."
+        },
+        {
+          "startUid": "u3775",
+          "endUid": "u3778",
+          "quote": "DM: Up above, looking down, you can see the—as the ship comes to a halt, you can see the cave where presumably the jade once was. Can also see maybe 10 miles distance, the ocean. The Sea of Storms."
+        }
+      ],
+      "kind": "cave",
+      "note": "Viewed in a dream and later from the ship; not entered.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p15",
+          "evidence": [
+            {
+              "startUid": "u0610",
+              "endUid": "u0617",
+              "quote": "DM: Kenzo, you have a dream of the jade. Jade you're flying to is cracking and bubbling, turning into a mist that floats out of this red sandstone cave, drifting above the jungle. Everything's dark and still until a strong wind sweeps up, and the jade mist swirls and blows across the canopy. You're swept with it and you watch the canopy pass below you, and you see the twinkling of the ocean waves crashing below you, despite the clear skies and seeming lack of winds."
+            }
+          ],
+          "note": "Dream narration places the cave above the jungle; the arrival narration independently locates the red cliffs in this jungle."
+        }
+      ]
+    },
+    "p15": {
+      "label": "southern jungle",
+      "evidence": [
+        {
+          "startUid": "u3767",
+          "endUid": "u3773",
+          "quote": "DM: Over the next—the course of the next few hours, you fly on Vindristjarna until you reach what looks like the—the—so you can see where—from where you are now. These—this is like jungle with these red sandstone cliffs, and you can see—"
+        }
+      ],
+      "kind": "region"
+    },
+    "p16": {
+      "label": "Sea of Storms",
+      "evidence": [
+        {
+          "startUid": "u3775",
+          "endUid": "u3778",
+          "quote": "DM: Up above, looking down, you can see the—as the ship comes to a halt, you can see the cave where presumably the jade once was. Can also see maybe 10 miles distance, the ocean. The Sea of Storms."
+        }
+      ],
+      "kind": "sea",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Sea of Storms.md"
+    },
+    "p17": {
+      "label": "maelstrom in Kenzo’s dream",
+      "evidence": [
+        {
+          "startUid": "u0622",
+          "endUid": "u0629",
+          "quote": "DM: You see ahead a wall of wind, a raging storm, like crashing waves crashing into each other in the middle of the ocean, clouds reaching up into the sky and then miles in both directions. A maelstrom that the jade cloud is swept into."
+        }
+      ],
+      "kind": "storm",
+      "note": "The dream’s exact location within the sea is unestablished."
+    },
+    "p18": {
+      "label": "waterfall and river west of the cave",
+      "evidence": [
+        {
+          "startUid": "u3797",
+          "endUid": "u3801",
+          "quote": "DM: To the west of here you can—a short distance, maybe 3 miles—you can see a waterfall and then a broad, slow river that flows into the ocean. The jungle—the jungle along the river is more open. You can't see anything in the canopy below you, but the river might be a easier way to sort of explore the jungle if you wanted to poke around."
+        }
+      ],
+      "kind": "watercourse",
+      "note": "This nearby waterfall is not identified with the separate great-waterfall hook Faldrak passed while the party was in the tower."
+    },
+    "p19": {
+      "label": "great waterfall passed by Faldrak",
+      "evidence": [
+        {
+          "startUid": "u3880",
+          "endUid": "u3894",
+          "quote": "DM: Got to be some mysteries for you to explore later. Actually, the tower was much more interesting than the lake. The other one you missed was a waterfall, a giant waterfall."
+        }
+      ],
+      "kind": "waterfall",
+      "note": "Postgame account assigns this observation to Faldrak, not the party, and supplies no reliable physical endpoint for him beyond the continuing ship journey."
+    },
+    "p20": {
+      "label": "Darba",
+      "evidence": [
+        {
+          "startUid": "u0541",
+          "endUid": "u0545",
+          "quote": "DM: Okay. So Kenzo then, as the scry ends, reports back that he's gonna head east till he hit—reaches shore, then drink the antidote and get his lungs back and find Darba, and then go from there. He doesn't know how long it'll take because he has no idea where he is, but—"
+        }
+      ],
+      "kind": "settlement",
+      "note": "Simulacrum’s intended destination only; no arrival is reported here.",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Coastal Dunmar/Darba/Darba.md"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0007"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Party aboard Vindristjarna flying above the desert.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0007",
+          "quote": "DM: I'd—okay. So we began on Vindristjarna. The hot afternoon sun of the pre-monsoon summer beats down as you sail. What are you doing, Eric?"
+        },
+        {
+          "startUid": "u0012",
+          "endUid": "u0016",
+          "quote": "DM: The sun beats down. This high up, the winds keep you cool, but the endless expanse of sand and rock below swelters in the heat. We'll switch to other phones. You."
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p02"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0230",
+        "endUid": "u0250"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scrying reveals the friendly simulacrum on the pirate ship in the Nevos Sea.",
+      "evidence": [
+        {
+          "startUid": "u0230",
+          "endUid": "u0250",
+          "quote": "DM: Okay, so at this moment the scry finishes, targeting Kenzo clone, and this scry—scrying eye appears."
+        },
+        {
+          "startUid": "u0417",
+          "endUid": "u0418",
+          "quote": "DM: You have no idea where he is, because you used magic Chanceweaver dice to place them in the correct location. He's in the Nevos Sea somewhere."
+        }
+      ],
+      "place": "p03",
+      "observerPlace": "p01",
+      "mode": "remote",
+      "observedActors": [
+        "Kenzo simulacrum",
+        "Wellby doppelganger"
+      ],
+      "locationContext": [
+        {
+          "subject": "p03",
+          "relation": "in",
+          "target": "p04"
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0297",
+        "endUid": "u0312"
+      },
+      "actors": [
+        "Kenzo simulacrum"
+      ],
+      "reading": "The simulacrum leaves the pirate deck, runs over the sea and dives after the doppelganger.",
+      "evidence": [
+        {
+          "startUid": "u0297",
+          "endUid": "u0306",
+          "quote": "DM: And then Kenzo leaps and lands softly on the ocean and runs after Wellby along the surface of the water, stopping momentarily to gulp the transformation potion that you sent him with, and then dives under the surface, grabbing the, the now drowning Wellby clone."
+        },
+        {
+          "startUid": "u0307",
+          "endUid": "u0312",
+          "quote": "DM: And as he forces him down, the clone—the Wellby clone—choking, beginning to drown, aims a punch at him, hitting him again, and then, in a flash, the Wellby clone vanishes."
+        },
+        {
+          "startUid": "u0374",
+          "endUid": "u0378",
+          "quote": "DM: The Kenzo clone then, you know, takes a few more gulps of water, swimming down deep below the ship. 'I don't have much fight in me left. One good solid blow and I'll probably collapse back into snow and nothing, but at the moment I'm headed beneath the waves, and Wellby is gone. So what's next, Seeker?'"
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "run and swim"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0541",
+        "endUid": "u0545"
+      },
+      "actors": [
+        "Kenzo simulacrum"
+      ],
+      "reading": "As scrying ends, the simulacrum announces its eastward route to shore and then Darba; departure and arrival are not witnessed.",
+      "evidence": [
+        {
+          "startUid": "u0541",
+          "endUid": "u0545",
+          "quote": "DM: Okay. So Kenzo then, as the scry ends, reports back that he's gonna head east till he hit—reaches shore, then drink the antidote and get his lungs back and find Darba, and then go from there. He doesn't know how long it'll take because he has no idea where he is, but—"
+        }
+      ],
+      "from": "p04",
+      "to": "p20",
+      "completion": "planned",
+      "context": "planned",
+      "route": [
+        {
+          "reading": "Head east until reaching shore, drink the antidote, then find Darba."
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0562",
+        "endUid": "u0570"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby sees movement around a shallow lake beneath the continuing flight.",
+      "evidence": [
+        {
+          "startUid": "u0562",
+          "endUid": "u0570",
+          "quote": "DM: The sun sets on May 14th. 45 or so hours of flying to go before you reach your destination. The desert is lit up in the light of the sinking sun, the sunlight glinting on what looks like a shimmering, shallow lake of some kind before—but—below you. To Wellby's eyes, it seems as if perhaps there is a hint of movement like a swarm of ants gathering around spilled sugar around the shores of this lake. What it could be, you cannot tell from this height."
+        }
+      ],
+      "place": "p05",
+      "observerPlace": "p01",
+      "mode": "local"
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u0610",
+        "endUid": "u0629"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "In a dream the jade becomes mist and sweeps from the cave across the jungle and ocean into a storm.",
+      "evidence": [
+        {
+          "startUid": "u0610",
+          "endUid": "u0617",
+          "quote": "DM: Kenzo, you have a dream of the jade. Jade you're flying to is cracking and bubbling, turning into a mist that floats out of this red sandstone cave, drifting above the jungle. Everything's dark and still until a strong wind sweeps up, and the jade mist swirls and blows across the canopy. You're swept with it and you watch the canopy pass below you, and you see the twinkling of the ocean waves crashing below you, despite the clear skies and seeming lack of winds."
+        },
+        {
+          "startUid": "u0618",
+          "endUid": "u0621",
+          "quote": "DM: In the light of the waxing crescent moon. And then you're quickly blown offshore, swooping past mangroves and over the shoals, your sense of time and distance distorted in the greenscape—dreamscape—until—"
+        },
+        {
+          "startUid": "u0622",
+          "endUid": "u0629",
+          "quote": "DM: You see ahead a wall of wind, a raging storm, like crashing waves crashing into each other in the middle of the ocean, clouds reaching up into the sky and then miles in both directions. A maelstrom that the jade cloud is swept into."
+        }
+      ],
+      "place": "p17",
+      "mode": "vision",
+      "context": "vision",
+      "note": "Kenzo remains asleep aboard Vindristjarna; neither the cave nor ocean is a physical visit."
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u0651",
+        "endUid": "u0657"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party sees a half-buried marble tower while flying south.",
+      "evidence": [
+        {
+          "startUid": "u0651",
+          "endUid": "u0657",
+          "quote": "DM: As you all sit puzzled in the morning, wondering about this, you can see, as the sun rises off to the east, the land begins to tumble down in a series of broken rocky cliffs. To the west continues the vast expanse of sand and emptiness broken incongruously by a pure white marble tower, standing alone in the desert, half buried in the sand."
+        }
+      ],
+      "place": "p06",
+      "observerPlace": "p01",
+      "mode": "local"
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u0697",
+        "endUid": "u0737"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Clairvoyance examines the tower’s top room.",
+      "evidence": [
+        {
+          "startUid": "u0697",
+          "endUid": "u0698",
+          "quote": "Seeker: Laker. Okay. Seeker casts Clairvoyance on the tower. Are there any visible windows in the tower?"
+        },
+        {
+          "startUid": "u0714",
+          "endUid": "u0737",
+          "quote": "DM: Okay, the—so your clairvoyance sensor appears in what looks like the top room of the tower. Everything is made of—is made of this—the interior, as well as the exterior, is made of this pure white marble."
+        }
+      ],
+      "place": "p07",
+      "observerPlace": "p01",
+      "mode": "remote"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0911",
+        "endUid": "u0974"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "The four PCs leave the ship and fly through the tower’s upper windows.",
+      "evidence": [
+        {
+          "startUid": "u0911",
+          "endUid": "u0915",
+          "quote": "Delwath: So we're jumping off the thing and flying."
+        },
+        {
+          "startUid": "u0936",
+          "endUid": "u0953",
+          "quote": "DM: Okay, so you fly down and you approach the tower."
+        },
+        {
+          "startUid": "u0970",
+          "endUid": "u0974",
+          "quote": "DM: Okay? So you approach, yeah, flying through into the window. So you can now see basically what you saw with Seeker's clairvoyance, clearly, and the the thumping is persistent and obvious here."
+        }
+      ],
+      "from": "p01",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "fly",
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Approximate flight narrated by DM and followed by arrival"
+      }
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u0994",
+        "endUid": "u1026"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Ghostly Gaze looks through the floor at rubble and the colossus’s arm below.",
+      "evidence": [
+        {
+          "startUid": "u0994",
+          "endUid": "u1016",
+          "quote": "DM: So you look through the wall—through the floor, you mean, right?"
+        },
+        {
+          "startUid": "u1019",
+          "endUid": "u1026",
+          "quote": "DM: This is down like 2 floors, 2 cracked floors, and then the next floor below that. Yeah. So like."
+        }
+      ],
+      "place": "p09",
+      "observerPlace": "p07",
+      "mode": "local"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1354",
+        "endUid": "u1361"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby creeps onto the stairs to attempt telepathic communication.",
+      "evidence": [
+        {
+          "startUid": "u1354",
+          "endUid": "u1354",
+          "quote": "Wellby: Sure I'll creep down there very sneakily, and."
+        },
+        {
+          "startUid": "u1356",
+          "endUid": "u1361",
+          "quote": "Wellby: This is not Wellby's strong suit. I'll just reach out to telepathically and say, 'Hello. It's Wellby. How are you?'"
+        },
+        {
+          "startUid": "u1390",
+          "endUid": "u1394",
+          "quote": "Wellby: I think we should stay in the main room, and I'll be like in sort of in the crack at the top of the staircase."
+        },
+        {
+          "startUid": "u1458",
+          "endUid": "u1458",
+          "quote": "Wellby: I think just me."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1551",
+        "endUid": "u1556"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "After the beam strikes, Wellby returns up the stairs to the others.",
+      "evidence": [
+        {
+          "startUid": "u1551",
+          "endUid": "u1556",
+          "quote": "Wellby: Yeah, yeah, I'm gonna head up the stairs, give a wave. 'All right, I see how it's gonna be.' So I'm gonna step into the room where the rest of you are, slightly like smoking still, and say, 'So, not friendly. I think we should leave.'"
+        }
+      ],
+      "from": "p08",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u1717",
+        "endUid": "u1738"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker uses Clairvoyance to inspect the sand-filled floor below the colossus.",
+      "evidence": [
+        {
+          "startUid": "u1717",
+          "endUid": "u1719",
+          "quote": "Seeker: A clairvoyance to look."
+        },
+        {
+          "startUid": "u1720",
+          "endUid": "u1738",
+          "quote": "DM: Okay, the clairvoyance appears in a—again what seems like an empty room. There's—there may have once been windows. There's not doors, but it's like there's sand that's been pouring in from all the sides, right? This is clearly well below the level of sand, and you can see that—actually, as you go further down, like you can see there's stairs down, but it's just completely filled with sand below this level."
+        }
+      ],
+      "place": "p10",
+      "observerPlace": "p07",
+      "mode": "remote"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1853",
+        "endUid": "u2117"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath repeatedly peeks from the stairs, casts Radiance and retreats to cover.",
+      "evidence": [
+        {
+          "startUid": "u1853",
+          "endUid": "u1860",
+          "quote": "Delwath: Yeah, I think so. And I'm also so okay, so I'm going to cast sanctuary on me. Right."
+        },
+        {
+          "startUid": "u1894",
+          "endUid": "u1900",
+          "quote": "DM: You take—let me roll—55 points of radiant damage. And then your spell goes off. So it's—how many saves does it have to make? And then you just retreat."
+        },
+        {
+          "startUid": "u2037",
+          "endUid": "u2049",
+          "quote": "Delwath: And, and scurry away. I mean, I'm assuming I can. I mean, I still not envisioning this that well, but like I was envisioning like there's a—there's a—there's a staircase that comes up, right?"
+        },
+        {
+          "startUid": "u2094",
+          "endUid": "u2108",
+          "quote": "Delwath: Like let's just—I'm gonna—so this time I'm gonna cast Armor of Agathys before I go down, so that if I take damage I'll soak 10 hit points first, then Sanctuary again and then another Sickening Radiance. Same deal."
+        }
+      ],
+      "from": "p07",
+      "to": "p07",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Repeated short exposures at the stairs; no arrival on the colossus floor.",
+          "place": "p08"
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "observation",
+      "source": {
+        "startUid": "u2118",
+        "endUid": "u2122"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "A summoned bat confirms the colossus is motionless below.",
+      "evidence": [
+        {
+          "startUid": "u2118",
+          "endUid": "u2122",
+          "quote": "DM: Okay. You send a bat down."
+        }
+      ],
+      "place": "p09",
+      "observerPlace": "p07",
+      "mode": "remote"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2147",
+        "endUid": "u2157"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "All four fly down past the colossus floor to the sand-filled level below it.",
+      "evidence": [
+        {
+          "startUid": "u2147",
+          "endUid": "u2157",
+          "quote": "DM: Okay. So you all fly down to the sand level or the rubble level."
+        }
+      ],
+      "from": "p07",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Descend via the rubble and dead colossus floor.",
+          "place": "p09"
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2230",
+        "endUid": "u2294"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "As a badger, Seeker burrows through the buried floors to a hollow interior basement door.",
+      "evidence": [
+        {
+          "startUid": "u2230",
+          "endUid": "u2251",
+          "quote": "Seeker: Okay. Seeker goes down to the level below the the level full of sand, and polymorphs himself into a giant badger."
+        },
+        {
+          "startUid": "u2262",
+          "endUid": "u2263",
+          "quote": "DM: Swim around through the sand in the bottom level. There's nowhere to go from here. You're like in the basement or the 1st floor."
+        },
+        {
+          "startUid": "u2272",
+          "endUid": "u2294",
+          "quote": "DM: Although no other floor has had stone interior walls, this floor does. You hit a wall."
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "burrow",
+      "route": [
+        {
+          "reading": "Pass through a further sand-filled floor before reaching the basement."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Ten minutes is stated only for the first leg to the next floor; later digging duration remains open"
+      },
+      "note": "The duration covers the initial digging leg only, not the complete descent."
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u2343",
+        "endUid": "u2400"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker ends Polymorph and Dimension Doors through the interior door into the dry storeroom.",
+      "evidence": [
+        {
+          "startUid": "u2343",
+          "endUid": "u2344",
+          "quote": "Seeker: Okay, I Dimension Door through the door. Let me mark off a spell slot for that. That's 1 of my—"
+        },
+        {
+          "startUid": "u2351",
+          "endUid": "u2400",
+          "quote": "DM: You're—you already said you're doing this. So Seeker turned back into a dwarf, and as the sand starts pouring around you, you suddenly Dimension Door through the door. Yeah. You find yourself in a room with no sand."
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "Dimension Door"
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u2483",
+        "endUid": "u2489"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker Dimension Doors vertically back to his companions above the storeroom.",
+      "evidence": [
+        {
+          "startUid": "u2483",
+          "endUid": "u2489",
+          "quote": "Seeker: Amazing. All right, I, I Dimension Door back up vertically, as Wellby suggests, so I still have the one spell slot that I can use for the Teleport if we need to, but—"
+        }
+      ],
+      "from": "p12",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "Dimension Door",
+      "note": "Return to the sand-filled room is confirmed by the subsequent proposal to leave that room at u2491; no completed return to the top room is explicitly narrated."
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u2599",
+        "endUid": "u2601"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby steps outside a window to test the portable hole and brings the mirror back inside.",
+      "evidence": [
+        {
+          "startUid": "u2599",
+          "endUid": "u2601",
+          "quote": "Wellby: Super freaked out that this is like somehow swapped it out that it's not just a magical protection. So I'm I'm gonna run out the window real quick and just like go outside and see what happens."
+        },
+        {
+          "startUid": "u2608",
+          "endUid": "u2613",
+          "quote": "Wellby: Right right, so we'll come back inside with the mirror and."
+        }
+      ],
+      "from": "p06",
+      "to": "p06",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Outside the tower, where the portable hole works.",
+          "place": "p13"
+        }
+      ],
+      "note": "The exact ascent from the previous sand-filled level and the interior room used for the mirror test are unspoken; the round trip is therefore located only at tower scale."
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u2826",
+        "endUid": "u2882"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "The four teleport together into the basement storeroom.",
+      "evidence": [
+        {
+          "startUid": "u2826",
+          "endUid": "u2827",
+          "quote": "Seeker: Seeker seeker stands up wearily. He begins using the last of his upper level magical spells to cast a teleport spell."
+        },
+        {
+          "startUid": "u2835",
+          "endUid": "u2845",
+          "quote": "Seeker: But it's still possible that something could go wrong. Oh, my God! I forgot about this fact. But we're committed. We're doing this. So I cast teleport and now I have to roll A. D. 100. Is that right?"
+        },
+        {
+          "startUid": "u2873",
+          "endUid": "u2882",
+          "quote": "DM: So you all appear. Yeah, Kenzo, getting the jump on this stone creature as it begins to move towards you. So there's a—I don't have a map for this. It's a 20 by 30-foot room. We'll just do theater of the mind, I think. On the left-hand side—so there's the door right behind you, where you appear. On the left-hand side there's this stone shelf that has a whole bunch of scroll—like 50 or a hundred scroll cubbies in it, but the scrolls all look very fragile."
+        }
+      ],
+      "from": null,
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "teleport",
+      "note": "Their precise departure room after the outside test and waiting is not restated."
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u3491",
+        "endUid": "u3552"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker",
+        "Wellby"
+      ],
+      "reading": "The four teleport with the recovered treasures to Vindristjarna, now above jungle.",
+      "evidence": [
+        {
+          "startUid": "u3491",
+          "endUid": "u3494",
+          "quote": "Seeker: Kath—Seeker uses the last of his remaining breath to cast—"
+        },
+        {
+          "startUid": "u3531",
+          "endUid": "u3548",
+          "quote": "Seeker: That is a 27."
+        },
+        {
+          "startUid": "u3552",
+          "endUid": "u3552",
+          "quote": "Seeker: We're all like covered in sand, holding piles of weird magic stuff."
+        }
+      ],
+      "from": "p12",
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "teleport",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p15"
+        }
+      ]
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u3767",
+        "endUid": "u3807"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Vindristjarna continues through the jungle and halts over the former jade cave.",
+      "evidence": [
+        {
+          "startUid": "u3767",
+          "endUid": "u3796",
+          "quote": "DM: Over the next—the course of the next few hours, you fly on Vindristjarna until you reach what looks like the—the—so you can see where—from where you are now. These—this is like jungle with these red sandstone cliffs, and you can see—"
+        },
+        {
+          "startUid": "u3805",
+          "endUid": "u3807",
+          "quote": "Kenzo: How far away—we said we're, we're 8 h away from the location where the jade formerly was?"
+        }
+      ],
+      "from": "p01",
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "fly",
+      "vehicle": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p14"
+        }
+      ],
+      "note": "The party stays aboard; exploring the cave is a next-session plan."
+    },
+    {
+      "id": "l24",
+      "type": "observation",
+      "source": {
+        "startUid": "u3775",
+        "endUid": "u3801"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the ship the party sees the cave, the Sea of Storms to the south, and a waterfall and river to the west.",
+      "evidence": [
+        {
+          "startUid": "u3775",
+          "endUid": "u3801",
+          "quote": "DM: Up above, looking down, you can see the—as the ship comes to a halt, you can see the cave where presumably the jade once was. Can also see maybe 10 miles distance, the ocean. The Sea of Storms."
+        }
+      ],
+      "place": "p16",
+      "observerPlace": "p01",
+      "mode": "local",
+      "note": "The cave is visible beneath the ship; the river and waterfall are described about three miles west and the sea about ten miles south. No landing or sea entry occurs."
+    },
+    {
+      "id": "l25",
+      "type": "observation",
+      "source": {
+        "startUid": "u3880",
+        "endUid": "u3894"
+      },
+      "actors": [
+        "Faldrak"
+      ],
+      "reading": "Postgame narration assigns the great-waterfall sighting to Faldrak while the party was in the tower.",
+      "evidence": [
+        {
+          "startUid": "u3880",
+          "endUid": "u3889",
+          "quote": "DM: Got to be some mysteries for you to explore later. Actually, the tower was much more interesting than the lake. The other one you missed was a waterfall, a giant waterfall."
+        },
+        {
+          "startUid": "u3893",
+          "endUid": "u3894",
+          "quote": "DM: You were in the tower. Faldrak saw that. That was the 3rd of my 3."
+        }
+      ],
+      "place": "p19",
+      "observerPlace": "p01",
+      "mode": "local",
+      "context": "reported",
+      "note": "Massive wings in the mist remain a tentative sighting, not an identified creature or a party visit."
+    }
+  ]
+}

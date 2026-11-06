@@ -1,0 +1,700 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-104",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-session.yaml",
+    "sessionYamlSha256": "67526ff03152d0ff5c0fb33ad28d03af1c565c7459e6f1f25ca196cbbe457c94",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-transcript.md",
+    "transcriptSha256": "23fe5307641c6af387a2563764de39e17721dbf511368be8f7da81fb41951e0e",
+    "yamlDates": {
+      "start": "1749-05-14",
+      "end": "1749-05-16"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0007"
+      },
+      "reading": "The party begins aboard Vindristjarna in the hot afternoon.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0007",
+          "quote": "DM: I'd—okay. So we began on Vindristjarna. The hot afternoon sun of the pre-monsoon summer beats down as you sail. What are you doing, Eric?"
+        }
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "DM narration; year inherited from session YAML where supplied"
+      },
+      "actors": [
+        "party"
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0017",
+        "endUid": "u0029"
+      },
+      "reading": "About fifteen minutes have passed since the simulacrum was teleported; the scry finishes after its ten-minute casting within this interval.",
+      "evidence": [
+        {
+          "startUid": "u0017",
+          "endUid": "u0029",
+          "quote": "it's been about 15 min, maybe a little less"
+        },
+        {
+          "startUid": "u0174",
+          "endUid": "u0175",
+          "quote": "Delwath: Well, Delwath is standing, casting the spell, which takes 10 min, like muttering and sort of—"
+        },
+        {
+          "startUid": "u0177",
+          "endUid": "u0180",
+          "quote": "Delwath: So I wanted to give—help—Kenzo some time to get situated and visible, right? Right. And then, so yeah, it's probably been—it's probably been about—probably about 15 or 20 min. Yeah."
+        },
+        {
+          "startUid": "u0230",
+          "endUid": "u0238",
+          "quote": "DM: Okay, so at this moment the scry finishes, targeting Kenzo clone, and this scry—scrying eye appears."
+        }
+      ],
+      "duration": {
+        "value": 15,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Opening estimate; Delwath later estimates fifteen to twenty minutes, including ten-minute casting"
+      },
+      "actors": [
+        "party"
+      ],
+      "completion": "completed",
+      "note": "The opening and Delwath’s fifteen-to-twenty-minute estimate describe one interval; casting time is not added again."
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0200",
+        "endUid": "u0201"
+      },
+      "reading": "Current play is two days after the May 12 return, establishing May 14.",
+      "evidence": [
+        {
+          "startUid": "u0200",
+          "endUid": "u0201",
+          "quote": "DM: It's now about 2 days since you returned. So you got back May 12th and then it's been 2 days since then that you've been traveling across the desert."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 14
+        },
+        "precision": "approximate",
+        "basis": "DM narration; year inherited from session YAML where supplied"
+      },
+      "note": "The two earlier travel days are background to the opening, not additional elapsed time in this session."
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0562",
+        "endUid": "u0570"
+      },
+      "reading": "Sunset on May 14 during the southbound flight.",
+      "evidence": [
+        {
+          "startUid": "u0562",
+          "endUid": "u0570",
+          "quote": "The sun sets on May 14th."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 14
+        },
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM narration; year inherited from session YAML where supplied"
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0604",
+        "endUid": "u0609"
+      },
+      "reading": "The party settles for the night; morning waking and completed long-rest credit establish overnight passage.",
+      "evidence": [
+        {
+          "startUid": "u0604",
+          "endUid": "u0609",
+          "quote": "So you settle in for the night."
+        },
+        {
+          "startUid": "u0630",
+          "endUid": "u0636",
+          "quote": "DM: And then, as you jolt awake, you no longer have any sense of where the jade is. You still remember the location of the jungle in the cliff where it was, but you can no longer sense it as you sit down for breakfast in the morning."
+        },
+        {
+          "startUid": "u0925",
+          "endUid": "u0925",
+          "quote": "DM: You just long. You just finished a long rest."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention for the explicitly completed overnight rest"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0610",
+        "endUid": "u0617"
+      },
+      "reading": "Kenzo enters a dream of the jade traveling out to sea during the overnight rest.",
+      "evidence": [
+        {
+          "startUid": "u0610",
+          "endUid": "u0617",
+          "quote": "DM: Kenzo, you have a dream of the jade. Jade you're flying to is cracking and bubbling, turning into a mist that floats out of this red sandstone cave, drifting above the jungle. Everything's dark and still until a strong wind sweeps up, and the jade mist swirls and blows across the canopy. You're swept with it and you watch the canopy pass below you, and you see the twinkling of the ocean waves crashing below you, despite the clear skies and seeming lack of winds."
+        },
+        {
+          "startUid": "u0618",
+          "endUid": "u0621",
+          "quote": "DM: In the light of the waxing crescent moon. And then you're quickly blown offshore, swooping past mangroves and over the shoals, your sense of time and distance distorted in the greenscape—dreamscape—until—"
+        }
+      ],
+      "context": "vision",
+      "actors": [
+        "Kenzo"
+      ],
+      "relations": [
+        {
+          "type": "during",
+          "target": "t05"
+        }
+      ],
+      "note": "Moonlight and distorted dream time do not measure adventure elapsed time."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0630",
+        "endUid": "u0636"
+      },
+      "reading": "Kenzo wakes and breakfast resumes in the morning, with no remaining directional sense of the jade.",
+      "evidence": [
+        {
+          "startUid": "u0630",
+          "endUid": "u0636",
+          "quote": "DM: And then, as you jolt awake, you no longer have any sense of where the jade is. You still remember the location of the jungle in the cliff where it was, but you can no longer sense it as you sit down for breakfast in the morning."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "DM narration; year inherited from session YAML where supplied"
+      },
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t05"
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0912",
+        "endUid": "u0915"
+      },
+      "reading": "The party flies down to the tower in about five minutes.",
+      "evidence": [
+        {
+          "startUid": "u0912",
+          "endUid": "u0915",
+          "quote": "DM: Okay, so you—Faldrak drops you low enough so that it's like, you know, of 5 min flight to the top of the tower."
+        },
+        {
+          "startUid": "u0936",
+          "endUid": "u0937",
+          "quote": "DM: Okay, so you fly down and you approach the tower."
+        },
+        {
+          "startUid": "u0970",
+          "endUid": "u0974",
+          "quote": "DM: Okay? So you approach, yeah, flying through into the window. So you can now see basically what you saw with Seeker's clairvoyance, clearly, and the the thumping is persistent and obvious here."
+        }
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s short-flight estimate followed by narrated arrival"
+      },
+      "completion": "completed",
+      "actors": [
+        "Kenzo",
+        "Delwath",
+        "Seeker",
+        "Wellby"
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u0938",
+        "endUid": "u0948"
+      },
+      "reading": "Tower approach is still in the early morning.",
+      "evidence": [
+        {
+          "startUid": "u0938",
+          "endUid": "u0948",
+          "quote": "even in the early morning sun"
+        }
+      ],
+      "time": {
+        "partOfDay": "early morning",
+        "precision": "approximate",
+        "basis": "DM narration; year inherited from session YAML where supplied"
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1293",
+        "endUid": "u1295"
+      },
+      "reading": "Seeker spends a few minutes examining the tower’s stonework.",
+      "evidence": [
+        {
+          "startUid": "u1293",
+          "endUid": "u1295",
+          "quote": "DM: You guys are good skills these days. You, as Seeker and Wellby—the Seeker spends a few minutes kind of looking at the stone, like putting his goggles on, just like finally—"
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM explicitly narrates time spent examining stone"
+      },
+      "completion": "completed",
+      "actors": [
+        "Seeker"
+      ]
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1384",
+        "endUid": "u1389"
+      },
+      "reading": "The construct’s initial silence lasts about three minutes before pounding resumes.",
+      "evidence": [
+        {
+          "startUid": "u1384",
+          "endUid": "u1389",
+          "quote": "Pause continues for 2 min or so."
+        },
+        {
+          "startUid": "u1395",
+          "endUid": "u1404",
+          "quote": "DM: After about 3 min or so the pounding resumes but it seems to be somewhat more regular now, and you can hear like rubble shifting around beneath you in the like in the ground below, like rubble, like cascading off the back of something that's trying to stand up, or something like that."
+        }
+      ],
+      "duration": {
+        "value": 3,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Later resumption gives about three minutes total for the same pause"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1415",
+        "endUid": "u1422"
+      },
+      "reading": "After another three or four minutes the colossus’s shoulders and head emerge.",
+      "evidence": [
+        {
+          "startUid": "u1415",
+          "endUid": "u1422",
+          "quote": "DM: After about 3 or 4 min, you start to see this massive—the like shoulders and head of some massive stone creature. I mean it looks—"
+        }
+      ],
+      "duration": {
+        "min": 3,
+        "max": 4,
+        "minInclusive": true,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narration after renewed greetings"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1894",
+        "endUid": "u1897"
+      },
+      "reading": "The first Sickening Radiance is allowed to run before the next attempt.",
+      "evidence": [
+        {
+          "startUid": "u1894",
+          "endUid": "u1897",
+          "quote": "DM: You take—let me roll—55 points of radiant damage. And then your spell goes off. So it's—how many saves does it have to make? And then you just retreat."
+        },
+        {
+          "startUid": "u1898",
+          "endUid": "u1900",
+          "quote": "Delwath: Then I retreat. This would need to make—there's how many turns in a minute? 6 turns a minute, right? No, 10 turns a minute. 10—a hundred—100 saves."
+        },
+        {
+          "startUid": "u1902",
+          "endUid": "u1904",
+          "quote": "Delwath: 4d10 radiant damage. DC is 19, but it's a Con save, so it might have a pretty good Con save."
+        },
+        {
+          "startUid": "u1905",
+          "endUid": "u1909",
+          "quote": "DM: You stand there for."
+        },
+        {
+          "startUid": "u2085",
+          "endUid": "u2087",
+          "quote": "Delwath: Cause we could short rest and do it again, and short rest and do it again. What's gonna happen, right? Unless it has some—unless we have some reason to think that it can actually get up to here, and with 20 min it probably doesn't, right?"
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Full ten-minute casting interval; later reference to twenty minutes after two castings"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u2063",
+        "endUid": "u2068"
+      },
+      "reading": "The second Radiance lasts ten minutes while the colossus tries to smash the staircase.",
+      "evidence": [
+        {
+          "startUid": "u2063",
+          "endUid": "u2068",
+          "quote": "DM: And it's seems to have like pulled itself up a little bit, so it can almost now reach—with how big it is and how like standing it is—it can almost—it can basically reach the bottom of the staircase now. And it started smash—it's starting, hitting the staircase that you're coming—that you were coming from, as it's like in the Sickening Radiance, and spends like 10 min trying to smash this staircase to pieces."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed play"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u2109",
+        "endUid": "u2109"
+      },
+      "reading": "The colossus falls about six minutes into the third Radiance; the party waits until ten minutes are up.",
+      "evidence": [
+        {
+          "startUid": "u2109",
+          "endUid": "u2109",
+          "quote": "DM: About 6 min into the spell, you hear a thud."
+        },
+        {
+          "startUid": "u2114",
+          "endUid": "u2117",
+          "quote": "Delwath: Leave the spell until the 10 min are up. No reason to hurry. And then let's send like a bat or a rat down and see what's happening. Yeah."
+        },
+        {
+          "startUid": "u2118",
+          "endUid": "u2122",
+          "quote": "DM: Okay. You send a bat down."
+        },
+        {
+          "startUid": "u2130",
+          "endUid": "u2130",
+          "quote": "DM: It is really dead. Okay."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Six-minute collapse is nested inside the completed ten-minute spell"
+      },
+      "completion": "completed",
+      "note": "Count ten minutes once, rather than adding six and ten."
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u2238",
+        "endUid": "u2251"
+      },
+      "reading": "Seeker spends about ten minutes digging to the next buried floor as a badger.",
+      "evidence": [
+        {
+          "startUid": "u2238",
+          "endUid": "u2251",
+          "quote": "DM: So you dig down. So the badger starts to like burrow down into the sand, like swimming basically down to where the stairs are, like feeling with your little—you don't make a tunnel, so things like collapse behind you. I mean you can breathe through—Seeker descends and like you spend—your burrow speed is only like 10 feet, so you spend about 10 min digging down until you hit what—stone. Like you feel like there's some stone that you're swimming through. You kind of poke around trying to sort this out. This feels like another floor."
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed play"
+      },
+      "completion": "completed",
+      "actors": [
+        "Seeker"
+      ]
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u2577",
+        "endUid": "u2584"
+      },
+      "reading": "The party spends the rest of the day waiting, reaching afternoon or evening before the next descent.",
+      "evidence": [
+        {
+          "startUid": "u2577",
+          "endUid": "u2577",
+          "quote": "DM: You spend the day."
+        },
+        {
+          "startUid": "u2581",
+          "endUid": "u2584",
+          "quote": "DM: Sitting around waiting and then you get the mirror out of the portable hole."
+        },
+        {
+          "startUid": "u2603",
+          "endUid": "u2607",
+          "quote": "Seeker: So wait. Sorry. So we did actually long rest?"
+        },
+        {
+          "startUid": "u2778",
+          "endUid": "u2785",
+          "quote": "Delwath: Before—during the afternoon, before we long rest, the one thing I want to do is see how far down can I see with Ghostly Gaze? Can I see into the room? And what if we dig a little like—I'll, you know, dig a little bit down in the sand so that I can get—I mean again, I'm not trying to like—I'm just trying to get to the point where I can see the room."
+        }
+      ],
+      "time": {
+        "partOfDay": "afternoon or evening",
+        "precision": "approximate",
+        "basis": "DM narration; year inherited from session YAML where supplied"
+      },
+      "note": "The proposed long rest at u2585 is explicitly corrected to not yet at u2604; no extra long rest is counted."
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u2828",
+        "endUid": "u2829"
+      },
+      "reading": "A completed short rest precedes the party’s teleport and return fight.",
+      "evidence": [
+        {
+          "startUid": "u2828",
+          "endUid": "u2829",
+          "quote": "Delwath: So we are short, resting?"
+        },
+        {
+          "startUid": "u2847",
+          "endUid": "u2848",
+          "quote": "DM: Do whatever short rest stuff you want to do and then roll initiative."
+        },
+        {
+          "startUid": "u2883",
+          "endUid": "u2884",
+          "quote": "Kenzo: We—did we short rest?"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Short-rest convention; repeated confirmation of the same rest"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u3135",
+        "endUid": "u3135"
+      },
+      "reading": "Seeker begins sleeping in the storeroom; the party completes its overnight long rest before opening the chests.",
+      "evidence": [
+        {
+          "startUid": "u3135",
+          "endUid": "u3135",
+          "quote": "Seeker: Alright, you guys figure it out. I'm going to sleep so that I can get us out of here."
+        },
+        {
+          "startUid": "u3156",
+          "endUid": "u3157",
+          "quote": "DM: Wellby's searching the room and looking for traps, yeah, where Seeker is like just basically go—like curled up by the body of the stone golem, like you're gonna—you're gonna get your rest."
+        },
+        {
+          "startUid": "u3389",
+          "endUid": "u3393",
+          "quote": "Delwath: Why don't you open the not trapped one first?"
+        },
+        {
+          "startUid": "u3423",
+          "endUid": "u3424",
+          "quote": "Seeker: You guys waited till after I was awake. Right? Yeah, yeah."
+        },
+        {
+          "startUid": "u3712",
+          "endUid": "u3716",
+          "quote": "DM: But if you're, if you're still traveling, if you're still trying to get to where the jade used to be, you have maybe 8 to 10 h of travel, so you will arrive this afternoon. It's like 6 and 6 30 in the morning right now. You'll arrive by—"
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Long-rest convention; explicit completion before chest opening and following morning clock"
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "note": "The earlier plan to rest before fighting was superseded by teleporting and fighting first. Other PCs examine the room as Seeker settles down."
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u3165",
+        "endUid": "u3165"
+      },
+      "reading": "Delwath spends ten minutes casting Detect Magic before examining the chests with Ghostly Gaze.",
+      "evidence": [
+        {
+          "startUid": "u3165",
+          "endUid": "u3165",
+          "quote": "Delwath: I mean first I'll detect—I need to Detect Magic first. That takes 10 min. Then I'll Ghostly Gaze when I'm done with Detect Magic."
+        },
+        {
+          "startUid": "u3175",
+          "endUid": "u3184",
+          "quote": "DM: Delwath looks into the 2 chests. One chest, the only thing that seems to be in it is a single book. No title on the cover. Unmarked. But wrapped! It's magical. It's definitely magical, and it's, it's locked. Like it's got, you know, a—like metal bindings over some elaborate cover that's then locked so that the—"
+        }
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Narrated elapsed play"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "overlaps",
+          "target": "t19"
+        }
+      ]
+    },
+    {
+      "id": "t21",
+      "source": {
+        "startUid": "u3712",
+        "endUid": "u3716"
+      },
+      "reading": "After return to Vindristjarna it is about six to six-thirty in the morning.",
+      "evidence": [
+        {
+          "startUid": "u3712",
+          "endUid": "u3716",
+          "quote": "DM: But if you're, if you're still traveling, if you're still trying to get to where the jade used to be, you have maybe 8 to 10 h of travel, so you will arrive this afternoon. It's like 6 and 6 30 in the morning right now. You'll arrive by—"
+        }
+      ],
+      "time": {
+        "clock": "06:00",
+        "precision": "approximate",
+        "basis": "DM narration; year inherited from session YAML where supplied"
+      },
+      "note": "The stated range is approximately 06:00–06:30, not an exact clock reading."
+    },
+    {
+      "id": "t22",
+      "source": {
+        "startUid": "u3767",
+        "endUid": "u3773"
+      },
+      "reading": "Vindristjarna flies onward for the next few hours and halts above the former jade cave.",
+      "evidence": [
+        {
+          "startUid": "u3767",
+          "endUid": "u3773",
+          "quote": "DM: Over the next—the course of the next few hours, you fly on Vindristjarna until you reach what looks like the—the—so you can see where—from where you are now. These—this is like jungle with these red sandstone cliffs, and you can see—"
+        },
+        {
+          "startUid": "u3775",
+          "endUid": "u3778",
+          "quote": "DM: Up above, looking down, you can see the—as the ship comes to a halt, you can see the cave where presumably the jade once was. Can also see maybe 10 miles distance, the ocean. The Sea of Storms."
+        },
+        {
+          "startUid": "u3805",
+          "endUid": "u3807",
+          "quote": "Kenzo: How far away—we said we're, we're 8 h away from the location where the jade formerly was?"
+        }
+      ],
+      "duration": {
+        "text": "a few hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "Accepted compressed onward flight; earlier eight-to-ten-hour arrival forecast is not treated as measured duration"
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "May 14 is independently established by the May 12 plus two days statement and explicit sunset date; year 1749 comes from YAML. Two completed overnights reach May 16.",
+    "expectedDateBoundaries": 2,
+    "supportedDateBoundaries": 2,
+    "evidence": [
+      "t03",
+      "t04",
+      "t05",
+      "t07",
+      "t17",
+      "t19",
+      "t21",
+      "t22"
+    ],
+    "explanation": "May 14 afternoon through May 16 arrival, with completed overnight passage on each of the two nights. Dream geography has no additional calendar passage. The initially proposed early rest and next-morning combat are replaced by fighting before the second overnight."
+  }
+}

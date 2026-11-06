@@ -1,0 +1,202 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-104",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-session.yaml",
+    "sessionYamlSha256": "67526ff03152d0ff5c0fb33ad28d03af1c565c7459e6f1f25ca196cbbe457c94",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-transcript.md",
+    "transcriptSha256": "23fe5307641c6af387a2563764de39e17721dbf511368be8f7da81fb41951e0e"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0029"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0030",
+        "endUid": "u0111"
+      },
+      "category": "session_framing",
+      "note": "Recap requested by the returning player; current navigation, casting and crew activity resume at u0112."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0112",
+        "endUid": "u0238"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0239",
+        "endUid": "u0312"
+      },
+      "category": "combat",
+      "note": "Remote scryed fight uses a repeated ordered cycle without a new initiative roll; the opening cycle is already underway."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0313",
+        "endUid": "u0391"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0392",
+        "endUid": "u0540"
+      },
+      "category": "meta_discussion",
+      "note": "Players work out retroactive contingency instructions for the simulacrum; accepted departure is narrated afterward."
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0541",
+        "endUid": "u1536"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1537",
+        "endUid": "u2130"
+      },
+      "category": "combat",
+      "note": "No initiative roll: the initial beam and retreat lead into a repeated Sanctuary, readied attack, Radiance and withdrawal cycle. Ten-minute spell holds remain inside this continuous encounter."
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2131",
+        "endUid": "u2403"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2404",
+        "endUid": "u2489"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2490",
+        "endUid": "u2575"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2576",
+        "endUid": "u2645"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2646",
+        "endUid": "u2777"
+      },
+      "category": "meta_discussion",
+      "note": "Extended choice among alternative entry and rest plans; the group settles on teleporting before the overnight rest."
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2778",
+        "endUid": "u2846"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u2847",
+        "endUid": "u3025"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u3026",
+        "endUid": "u3061"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u3062",
+        "endUid": "u3079"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u3080",
+        "endUid": "u3749"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s019",
+      "source": {
+        "startUid": "u3750",
+        "endUid": "u3766"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s020",
+      "source": {
+        "startUid": "u3767",
+        "endUid": "u3801"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s021",
+      "source": {
+        "startUid": "u3802",
+        "endUid": "u3905"
+      },
+      "category": "meta_discussion",
+      "note": "Closing next-session planning includes Milo’s reported sailing knowledge and the DM’s unplayed waterfall hook; those facts remain available to other extractions."
+    },
+    {
+      "id": "s022",
+      "source": {
+        "startUid": "u3906",
+        "endUid": "u3908"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s023",
+      "source": {
+        "startUid": "u3909",
+        "endUid": "u3919"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
