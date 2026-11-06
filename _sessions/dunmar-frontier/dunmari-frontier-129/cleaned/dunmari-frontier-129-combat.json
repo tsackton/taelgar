@@ -1,0 +1,355 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-129",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-session.yaml",
+    "sessionYamlSha256": "aedab905c2f85ad0008757483cb71ba32a3078d84fbacd879e901d6800cf81d2",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-transcript.md",
+    "transcriptSha256": "e78530e0bf40c6d9caaa56651a875d224ffa4d0c23da5dcb3f5bebade28dd69f",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-segments.json",
+      "sha256": "088466a64ad765f581156d4b7f71b230c3a472ec0b5f34ecc7861711ab592fc5",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s005",
+      "encounter": "Capture of a rider from the ash-shrouded centipede",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Turns into an Astral Being while the group waits in its rock blind.",
+              "evidence": [
+                {
+                  "startUid": "u2098",
+                  "endUid": "u2099"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Sleep at three rear riders (Wisdom save DC 20); two are incapacitated and fall off the centipede. They are subsequently described as unconscious; the third rider’s separate response is not narrated.",
+              "evidence": [
+                {
+                  "startUid": "u2078",
+                  "endUid": "u2085"
+                },
+                {
+                  "startUid": "u2100",
+                  "endUid": "u2112"
+                },
+                {
+                  "startUid": "u2132",
+                  "endUid": "u2138"
+                },
+                {
+                  "startUid": "u2327",
+                  "endUid": "u2329"
+                }
+              ]
+            },
+            {
+              "actor": "Mecha centipede",
+              "kind": "turn",
+              "summary": "Continues forward; after the first turn it is about 40 feet away.",
+              "evidence": [
+                {
+                  "startUid": "u2113",
+                  "endUid": "u2113"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Uses Telekinesis to seize one fallen rider and drag him 30 feet toward the blind. Although a Strength save is discussed, the DM rules that the incapacitated target is simply caught and restrained.",
+              "evidence": [
+                {
+                  "startUid": "u2114",
+                  "endUid": "u2141"
+                },
+                {
+                  "startUid": "u2156",
+                  "endUid": "u2162"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Renews Invisibility after Seeker casts, using Distant Spell’s 30-foot touch range to include the captured rider. The initial list would leave Kenzo visible; the table revises the concealment plan to have Wellby hide behind rocks independently.",
+              "evidence": [
+                {
+                  "startUid": "u2140",
+                  "endUid": "u2141"
+                },
+                {
+                  "startUid": "u2163",
+                  "endUid": "u2190"
+                }
+              ],
+              "note": "The revised full recipient list is not repeated; the captive’s continuing invisibility is confirmed at u2367–u2369."
+            },
+            {
+              "actor": "Mecha centipede",
+              "kind": "turn",
+              "summary": "Keeps moving, reaching about 80 feet from the blind.",
+              "evidence": [
+                {
+                  "startUid": "u2142",
+                  "endUid": "u2144"
+                }
+              ]
+            },
+            {
+              "actor": "Hobgoblin riders",
+              "kind": "event",
+              "summary": "Raise a harsh “man overboard” alarm after the two riders fall.",
+              "evidence": [
+                {
+                  "startUid": "u2145",
+                  "endUid": "u2149"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Mecha centipede",
+              "kind": "turn",
+              "summary": "Continues away, now about 140 feet from the group; it does not turn toward them.",
+              "evidence": [
+                {
+                  "startUid": "u2152",
+                  "endUid": "u2154"
+                }
+              ]
+            },
+            {
+              "actor": "Silver-clad commander",
+              "kind": "turn",
+              "summary": "Takes flight from the centipede and circles behind it holding a spear, searching for the fallen riders; her metallic covering drips and reforms over her body.",
+              "evidence": [
+                {
+                  "startUid": "u2191",
+                  "endUid": "u2199"
+                },
+                {
+                  "startUid": "u2215",
+                  "endUid": "u2217"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attempts to obtain Soul Sight information, but the commander is beyond its 90-foot range; no information is resolved yet.",
+              "evidence": [
+                {
+                  "startUid": "u2197",
+                  "endUid": "u2214"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Pulls the restrained rider another 30 feet, bringing him beside the party.",
+              "evidence": [
+                {
+                  "startUid": "u2219",
+                  "endUid": "u2220"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Party",
+              "kind": "turn",
+              "summary": "Waits in concealment rather than immediately waking the prisoner or attacking the commander; killing the prisoner and mirror storage remain unused alternatives.",
+              "evidence": [
+                {
+                  "startUid": "u2233",
+                  "endUid": "u2253"
+                },
+                {
+                  "startUid": "u2289",
+                  "endUid": "u2318"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Prepares to kill the captive if an escape requires it, and takes Steady Aim at the airborne commander while waiting; no attack is made.",
+              "evidence": [
+                {
+                  "startUid": "u2307",
+                  "endUid": "u2320"
+                }
+              ]
+            },
+            {
+              "actor": "Mecha centipede",
+              "kind": "turn",
+              "summary": "Keeps marching as the commander searches, with the rear described at roughly 180 feet away.",
+              "evidence": [
+                {
+                  "startUid": "u2287",
+                  "endUid": "u2288"
+                },
+                {
+                  "startUid": "u2327",
+                  "endUid": "u2329"
+                }
+              ]
+            },
+            {
+              "actor": "Silver-clad commander",
+              "kind": "turn",
+              "summary": "Spots the other unconscious rider, flies down and kicks him awake about 60 feet from the blind, then speaks to him in a low voice.",
+              "evidence": [
+                {
+                  "startUid": "u2330",
+                  "endUid": "u2332"
+                },
+                {
+                  "startUid": "u2358",
+                  "endUid": "u2362"
+                },
+                {
+                  "startUid": "u2383",
+                  "endUid": "u2388"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Soul Sight once the commander is close enough. The DM tentatively estimates roughly CR 26, especially strong Intelligence and Charisma and possibly weaker Wisdom; she is suspicious and curious/angry at the rider, wears living metal, and seems to be the source of the reality distortion.",
+              "evidence": [
+                {
+                  "startUid": "u2334",
+                  "endUid": "u2356"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Studies the commander and riders for later scrying. Since he can see the invisible captive, he examines the captive’s well-maintained scavenged armor and swords, a black broken-crown/three-blade sigil, and absence of provisions.",
+              "evidence": [
+                {
+                  "startUid": "u2353",
+                  "endUid": "u2353"
+                },
+                {
+                  "startUid": "u2363",
+                  "endUid": "u2382"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Awakened hobgoblin rider",
+              "kind": "turn",
+              "summary": "Runs back toward the centipede after speaking with the commander.",
+              "evidence": [
+                {
+                  "startUid": "u2383",
+                  "endUid": "u2388"
+                }
+              ]
+            },
+            {
+              "actor": "Silver-clad commander",
+              "kind": "turn",
+              "summary": "Begins searching outward in a spiral from the fallen rider; the DM estimates roughly fifteen seconds before her search reaches the party’s cover, without asserting that she has already found them.",
+              "evidence": [
+                {
+                  "startUid": "u2383",
+                  "endUid": "u2388"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Wakes the captive and casts Suggestion that he loves teleporting, making him willing to accompany the group. Concentration on Invisibility ends and the group briefly becomes visible, but remains behind the rock cover; the suggestion can be whispered despite the use of Subtle Spell.",
+              "evidence": [
+                {
+                  "startUid": "u2265",
+                  "endUid": "u2282"
+                },
+                {
+                  "startUid": "u2392",
+                  "endUid": "u2415"
+                }
+              ],
+              "note": "No separate escape-Suggestion save is rolled in the recorded passage; success is established by the living prisoner accompanying the teleport. The later rolled 3 at u2478–u2479 concerns a new interrogation spell."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Wins the escape initiative contest (19 against the commander’s rolled 3, still enough even allowing roughly +15), then Teleports the party and living captive using the collected dirt as the linked destination. They vanish before she investigates the blind and reappear in the marsh at 9 AM.",
+              "evidence": [
+                {
+                  "startUid": "u2416",
+                  "endUid": "u2433"
+                }
+              ]
+            },
+            {
+              "actor": "Silver-clad commander",
+              "kind": "turn",
+              "summary": "Leaps up to investigate the disturbed rocks after the party has vanished; she does not get an attack before their departure.",
+              "evidence": [
+                {
+                  "startUid": "u2428",
+                  "endUid": "u2430"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": "The DM advances a repeated cycle through turns and rounds before rolling initiative only for the final escape contest; no complete scored initiative order is given.",
+      "ending": {
+        "summary": "The party escapes by teleport with one living prisoner. The other fallen rider returns to the moving centipede, and the silver-clad commander is left investigating their abandoned cover; her army remains active.",
+        "evidence": [
+          {
+            "startUid": "u2383",
+            "endUid": "u2388"
+          },
+          {
+            "startUid": "u2428",
+            "endUid": "u2433"
+          }
+        ]
+      }
+    }
+  ]
+}
