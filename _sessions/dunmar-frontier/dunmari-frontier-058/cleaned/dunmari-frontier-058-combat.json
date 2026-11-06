@@ -1,0 +1,636 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-058",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-session.yaml",
+    "sessionYamlSha256": "893d7b49187101e6c38e6b3e3c6223bab28a24c202a5b00e1b476baedc12b97e",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-transcript.md",
+    "transcriptSha256": "be5237d15d6e965d31d0b5b3e88a66d49ff404671a9e7823702ca85564261a2f",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-segments.json",
+      "sha256": "0eaade0dc57be432ed4b92745dbd938db96f73d7273c03b391b43e51dc79570b",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s005",
+      "encounter": "Spirit troll in the Ashfields",
+      "openingActions": [
+        {
+          "actor": "Spirit troll",
+          "kind": "turn",
+          "summary": "Ambushes the surprised party through the rocks and releases shadows in a fifteen-foot cube. Constitution saves resolve as 20 necrotic damage and frightened for Rothfis and Merash, and 10 necrotic damage without fear for Thror; Riswynn is outside the cube.",
+          "evidence": [
+            {
+              "startUid": "u0689",
+              "endUid": "u0714"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Thror",
+              "kind": "turn",
+              "summary": "Approaches and hits with Shocking Grasp for 11 damage, with an additional 4 lightning accepted here. The shadow backlash deals 5 necrotic damage each to Thror and Merash. Gusts away with the cantrip by a one-turn exception; future uses require a leveled spell.",
+              "evidence": [
+                {
+                  "startUid": "u0719",
+                  "endUid": "u0749"
+                }
+              ]
+            },
+            {
+              "actor": "Rothfis",
+              "kind": "turn",
+              "summary": "Uses his action to end frightened, drinks a Potion of Greater Healing as his bonus action, and moves back. Healing is confirmed, but its rolled amount is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u0750",
+                  "endUid": "u0771"
+                }
+              ]
+            },
+            {
+              "actor": "Spirit troll",
+              "kind": "turn",
+              "summary": "Regenerates as shadows draw inward, then bites Merash for 6 piercing and 5 necrotic damage. Both claw attacks are natural-one misses.",
+              "evidence": [
+                {
+                  "startUid": "u0764",
+                  "endUid": "u0792"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts Spirit Guardians, correcting the mistaken Spiritual Weapon selection, and moves to put the troll inside its radius.",
+              "evidence": [
+                {
+                  "startUid": "u0793",
+                  "endUid": "u0826"
+                }
+              ]
+            },
+            {
+              "actor": "Merash",
+              "kind": "turn",
+              "summary": "Still frightened and unable to approach, hits with the Maul of the Forge, suffering 6 necrotic backlash damage. Retreats and uses Second Wind to regain hit points. The proposed opportunity claw is canceled because Shocking Grasp prevents reactions; no claw damage is applied.",
+              "evidence": [
+                {
+                  "startUid": "u0828",
+                  "endUid": "u0848"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Thror",
+              "kind": "turn",
+              "summary": "Casts Lightning Bolt; the troll succeeds on its save. Damage is first called 12, then an extra 4 is discussed, and the accepted spoken result is 14 damage. Gusts back out.",
+              "evidence": [
+                {
+                  "startUid": "u0850",
+                  "endUid": "u0858"
+                }
+              ],
+              "note": "The spoken arithmetic is inconsistent; the summary retains the final announced 14 without recalculating it."
+            },
+            {
+              "actor": "Rothfis",
+              "kind": "turn",
+              "summary": "Approaches and hits with an unarmed strike; the shadow backlash is corrected to 15 necrotic damage. The troll succeeds on its Constitution save against Stunning Strike (16 against DC 13). A second strike is a critical hit, dealing another 9 backlash damage to Rothfis. Both Flurry of Blows attacks hit for 18 damage together and deal 16 necrotic backlash to Rothfis. Flies five feet up and back.",
+              "evidence": [
+                {
+                  "startUid": "u0861",
+                  "endUid": "u0903"
+                }
+              ]
+            },
+            {
+              "actor": "Spirit troll",
+              "kind": "reaction",
+              "summary": "Attempts an opportunity claw as Rothfis flies away; a 10 misses.",
+              "evidence": [
+                {
+                  "startUid": "u0904",
+                  "endUid": "u0905"
+                }
+              ]
+            },
+            {
+              "actor": "Spirit troll",
+              "kind": "turn",
+              "summary": "Fails its Wisdom save against fourth-level radiant Spirit Guardians (6); the radiant damage collapses its shadow shroud, although it still regenerates this turn. Moves forward, misses an initial claw (15), bites Rothfis for 14 damage and drops him, then claws Merash for 16 damage. Moves through the guardians’ difficult terrain trying unsuccessfully to leave the radius.",
+              "evidence": [
+                {
+                  "startUid": "u0906",
+                  "endUid": "u0949"
+                }
+              ],
+              "note": "The Spirit Guardians damage total is not spoken, and the first missed claw’s target is not securely named."
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "reaction",
+              "summary": "Hits with Shatterstorm for 8 damage as the troll moves away; its absent shadow shroud causes no necrotic backlash.",
+              "evidence": [
+                {
+                  "startUid": "u0950",
+                  "endUid": "u0958"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Chases the troll and attacks with Shatterstorm; a 10 misses.",
+              "evidence": [
+                {
+                  "startUid": "u0959",
+                  "endUid": "u0968"
+                }
+              ]
+            },
+            {
+              "actor": "Merash",
+              "kind": "turn",
+              "summary": "Hits twice with the Maul of the Forge, replacing the proposed handaxe with a second maul attack; both attack totals are 15 and the second damage call is 22. Adds Menacing Attack and its d8 to the second hit. The troll fails its DC 15 Wisdom save with a 6, becoming frightened, unable to approach Merash, and subject to disadvantage on attacks.",
+              "evidence": [
+                {
+                  "startUid": "u0969",
+                  "endUid": "u1014"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Thror",
+              "kind": "turn",
+              "summary": "Hits with Shocking Grasp for 10 damage and dissipates the troll. The attempted extra 4 is withdrawn because this is a cantrip.",
+              "evidence": [
+                {
+                  "startUid": "u1015",
+                  "endUid": "u1025"
+                }
+              ]
+            },
+            {
+              "actor": "Rothfis",
+              "kind": "turn",
+              "summary": "Rolls a natural 20 death save and regains 1 hit point.",
+              "evidence": [
+                {
+                  "startUid": "u1026",
+                  "endUid": "u1029"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "The spirit troll dissipates, and Rothfis revives with 1 hit point. The party remains in the Ashfields.",
+        "evidence": [
+          {
+            "startUid": "u1023",
+            "endUid": "u1029"
+          }
+        ]
+      }
+    },
+    {
+      "id": "c002",
+      "segmentId": "s010",
+      "encounter": "Hagrim and the spirits in the underground throne room",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Rear spirit adviser",
+              "kind": "turn",
+              "summary": "Hangs back and raises another spirit from bones.",
+              "evidence": [
+                {
+                  "startUid": "u2216",
+                  "endUid": "u2228"
+                }
+              ]
+            },
+            {
+              "actor": "Forward spirit adviser",
+              "kind": "turn",
+              "summary": "Moves forward and touches Merash with a 25, dealing 22 necrotic damage. A Constitution save is required; the resolution says she takes just the damage, with no additional reduction announced.",
+              "evidence": [
+                {
+                  "startUid": "u2221",
+                  "endUid": "u2245"
+                }
+              ]
+            },
+            {
+              "actor": "Hagrim",
+              "kind": "turn",
+              "summary": "Brandishes his battle axe, demands that the party leave, and blames them for bringing back memories he had freed himself from.",
+              "evidence": [
+                {
+                  "startUid": "u2233",
+                  "endUid": "u2245"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts Wall of Fire through one spirit’s space. It fails its Dexterity save with a 10 and takes 16 fire damage. The wall blocks sight through the room.",
+              "evidence": [
+                {
+                  "startUid": "u2268",
+                  "endUid": "u2313"
+                }
+              ]
+            },
+            {
+              "actor": "Merash",
+              "kind": "turn",
+              "summary": "Hits the nearest ghost twice with the Maul of the Forge; uses a luck point to reroll the second attack, whose final 15 hits. The ghost is hurt but survives.",
+              "evidence": [
+                {
+                  "startUid": "u2314",
+                  "endUid": "u2335"
+                }
+              ]
+            },
+            {
+              "actor": "Thror",
+              "kind": "turn",
+              "summary": "Twin-casts Haste on Riswynn and Merash, confirmed as both hasted.",
+              "evidence": [
+                {
+                  "startUid": "u2336",
+                  "endUid": "u2348"
+                }
+              ]
+            },
+            {
+              "actor": "Rothfis",
+              "kind": "turn",
+              "summary": "While enlarged, hits a ghost with his first unarmed strike (14), then makes his second attack and Flurry of Blows; the combined blows cause it to fade away. Disengages through his drunken-brawler ability, moves toward the wall, and flies about twenty feet upward.",
+              "evidence": [
+                {
+                  "startUid": "u2351",
+                  "endUid": "u2377"
+                }
+              ],
+              "note": "The last two attacks are discussed as 25 damage together; a complete damage total is not established."
+            },
+            {
+              "actor": "Swarm of limbs",
+              "kind": "turn",
+              "summary": "Moves forward and attempts to engulf Riswynn; fails to grab her.",
+              "evidence": [
+                {
+                  "startUid": "u2378",
+                  "endUid": "u2395"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Rear spirit adviser",
+              "kind": "turn",
+              "summary": "Moves away from the fire and summons another specter from bones.",
+              "evidence": [
+                {
+                  "startUid": "u2388",
+                  "endUid": "u2395"
+                }
+              ]
+            },
+            {
+              "actor": "Specter",
+              "kind": "turn",
+              "summary": "Passes through the wall around the Wall of Fire and dashes to the other side, using its turn.",
+              "evidence": [
+                {
+                  "startUid": "u2388",
+                  "endUid": "u2397"
+                }
+              ],
+              "note": "Map-pointing does not securely distinguish which summoned spirit takes this movement."
+            },
+            {
+              "actor": "Hagrim",
+              "kind": "turn",
+              "summary": "Lifts his axe behind the fire; no visible effect occurs. Shouts for the party to go.",
+              "evidence": [
+                {
+                  "startUid": "u2400",
+                  "endUid": "u2412"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Summons Spiritual Weapon and hits the bone swarm for 9 damage with the bonus action. Hits it twice with Shatterstorm, using Haste for the additional attack; the second blow pulverizes the remaining skeletons.",
+              "evidence": [
+                {
+                  "startUid": "u2413",
+                  "endUid": "u2458"
+                }
+              ]
+            },
+            {
+              "actor": "Merash",
+              "kind": "turn",
+              "summary": "Moves to the purple ghost and hits twice with her maul, killing it with the second, critical hit. Already inspired, gives the natural-20 inspiration award to Rothfis. After the fire is dropped, throws the maul with her Haste action: a twenty-foot-radius burst requires DC 15 Dexterity saves, with 19 fire damage on a failure and half on success. A purple ghost is badly hurt; Hagrim and another ghost appear less affected. Recalls the maul with her bonus action.",
+              "evidence": [
+                {
+                  "startUid": "u2459",
+                  "endUid": "u2540"
+                }
+              ],
+              "note": "The initial refusal based on a daily recharge is corrected to short-or-long-rest recharge. Individual save outcomes and map-pointed ghost identities are not spoken."
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "event",
+              "summary": "Ends concentration on Wall of Fire during Merash’s turn so Merash can see the target area.",
+              "evidence": [
+                {
+                  "startUid": "u2504",
+                  "endUid": "u2513"
+                }
+              ]
+            },
+            {
+              "actor": "Thror",
+              "kind": "turn",
+              "summary": "Moves and casts fourth-level Lightning Bolt at two indicated enemies, then repositions. Their Dexterity saves are 22 and 11: one succeeds and one fails, against a damage roll of 25.",
+              "evidence": [
+                {
+                  "startUid": "u2541",
+                  "endUid": "u2549"
+                }
+              ],
+              "note": "The source does not name both map-pointed targets or assign the saves individually."
+            },
+            {
+              "actor": "Hagrim",
+              "kind": "event",
+              "summary": "Asks why they are fighting and begs to be left to his pain and misery.",
+              "evidence": [
+                {
+                  "startUid": "u2553",
+                  "endUid": "u2557"
+                }
+              ]
+            },
+            {
+              "actor": "Rothfis",
+              "kind": "turn",
+              "summary": "Uses Step of the Wind to reach Hagrim from the air, drops beside him, and hits twice with enlarged unarmed strikes (24 and 25). Attempts Stunning Strike on both hits; Hagrim succeeds on both DC 13 Constitution saves.",
+              "evidence": [
+                {
+                  "startUid": "u2558",
+                  "endUid": "u2581"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wraith",
+              "kind": "turn",
+              "summary": "At Hagrim’s direction, flies to Thror and hits with a 21 for 18 necrotic damage. Thror succeeds on his concentration save and maintains Haste, but his separate Constitution save results in an 18-point reduction to his hit-point maximum.",
+              "evidence": [
+                {
+                  "startUid": "u2582",
+                  "endUid": "u2608"
+                }
+              ]
+            },
+            {
+              "actor": "Hagrim",
+              "kind": "turn",
+              "summary": "Attacks Rothfis three times with his battle axe: one miss and two hits, for a corrected stated total of 24 damage. Calls for a Constitution save; the attempted second save is withdrawn, leaving only one.",
+              "evidence": [
+                {
+                  "startUid": "u2609",
+                  "endUid": "u2635"
+                }
+              ],
+              "note": "The final result of Rothfis’s single Constitution save is not explicitly announced."
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves to a spirit and hits with Shatterstorm with Divine Strike, adding Searing Smite. The target’s Constitution save prevents the flames catching. Uses Haste to land another hammer attack; cannot also move Spiritual Weapon because the bonus action was used for the smite.",
+              "evidence": [
+                {
+                  "startUid": "u2636",
+                  "endUid": "u2675"
+                }
+              ],
+              "note": "The target is indicated without a secure individual name; damage totals are not spoken."
+            },
+            {
+              "actor": "Merash",
+              "kind": "turn",
+              "summary": "Runs and uses Haste to dash, hits the purple ghost with her maul, then uses remaining movement to reach Hagrim and hits him with a 24. The proposed handaxe throw is replaced by moving into melee.",
+              "evidence": [
+                {
+                  "startUid": "u2676",
+                  "endUid": "u2714"
+                }
+              ]
+            },
+            {
+              "actor": "Thror",
+              "kind": "turn",
+              "summary": "Quickens Shocking Grasp as his bonus action, hitting the adjacent spirit, then moves and dashes with his regular action.",
+              "evidence": [
+                {
+                  "startUid": "u2715",
+                  "endUid": "u2723"
+                }
+              ],
+              "note": "The garbled damage utterance does not establish a usable numerical total."
+            },
+            {
+              "actor": "Rothfis",
+              "kind": "turn",
+              "summary": "Critically hits Hagrim with the first enlarged punch, then misses with the second attack after the initial hit call is corrected (15 misses). Flurry of Blows produces a hit (28, with the accepted extra 2 from enlargement) and a miss. Another DC 13 Constitution Stunning Strike attempt is defeated using Indomitable. Disengages and flies to the ceiling.",
+              "evidence": [
+                {
+                  "startUid": "u2726",
+                  "endUid": "u2756"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Wraith",
+              "kind": "turn",
+              "summary": "Takes the turn the DM initially skipped, attacking Riswynn with a 15 and missing.",
+              "evidence": [
+                {
+                  "startUid": "u2824",
+                  "endUid": "u2830"
+                }
+              ],
+              "note": "The delayed narration restores this regular turn to the established enemy cycle before Hagrim; the relative enemy timing is not announced again."
+            },
+            {
+              "actor": "Hagrim",
+              "kind": "turn",
+              "summary": "Attacks Merash three times: a natural-one miss, a hit (27) for a final stated 27 damage, and a miss (15). Merash uses luck to reroll the required Constitution save, and nothing further happens to her. Hagrim flies away; during that move he takes on a dreadful aspect requiring Wisdom saves from everyone who can see him. Rothfis spends inspiration but remains frightened alongside Riswynn; both are aged twenty years and cannot approach him.",
+              "evidence": [
+                {
+                  "startUid": "u2757",
+                  "endUid": "u2823"
+                }
+              ]
+            },
+            {
+              "actor": "Merash",
+              "kind": "reaction",
+              "summary": "Makes an opportunity attack with her maul as Hagrim flies away; misses. Rothfis is outside reach and makes no opportunity attack.",
+              "evidence": [
+                {
+                  "startUid": "u2775",
+                  "endUid": "u2793"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Hits and destroys the wraith with Shatterstorm; the frightened-disadvantage correction is applied and the second roll still hits. Moves Spiritual Weapon toward Hagrim and attacks with disadvantage; 16 misses. Also attempts Guiding Bolt with disadvantage using her remaining action, then succeeds on the Wisdom save to end frightened.",
+              "evidence": [
+                {
+                  "startUid": "u2831",
+                  "endUid": "u2857"
+                }
+              ],
+              "note": "Guiding Bolt’s hit and damage outcome are not clearly announced."
+            },
+            {
+              "actor": "Merash",
+              "kind": "turn",
+              "summary": "Dashes up to Hagrim and attacks twice with her maul: first misses, second hits after using inspiration.",
+              "evidence": [
+                {
+                  "startUid": "u2858",
+                  "endUid": "u2866"
+                }
+              ]
+            },
+            {
+              "actor": "Thror",
+              "kind": "turn",
+              "summary": "Moves and casts Lightning Bolt at Hagrim. The strike leaves him crouching against the wall, fading and losing coherence.",
+              "evidence": [
+                {
+                  "startUid": "u2868",
+                  "endUid": "u2883"
+                }
+              ],
+              "note": "No saving-throw result or numerical damage total is spoken."
+            },
+            {
+              "actor": "Rothfis",
+              "kind": "turn",
+              "summary": "Uses his action to end frightened, spends ki to dash, and drops fifty feet onto Hagrim from the ceiling. The fall is not magical damage, but the DM allows it to knock Hagrim prone; Rothfis takes no damage.",
+              "evidence": [
+                {
+                  "startUid": "u2884",
+                  "endUid": "u2902"
+                },
+                {
+                  "startUid": "u2903",
+                  "endUid": "u2918"
+                }
+              ],
+              "note": "The following narration notes Hagrim’s technical immunity to prone while retaining the played result; no external rules correction is imposed."
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Hagrim",
+              "kind": "turn",
+              "summary": "Struggles upright, attacks Rothfis with a 16 that does not hit, misses Merash with a 15, then hits Rothfis with a 25 for 16 damage. Rothfis’s Constitution save produces no further effect. Declares he will return and begins fading into the floor.",
+              "evidence": [
+                {
+                  "startUid": "u2903",
+                  "endUid": "u2924"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Dashes over and pours holy water from the Chalice of the Runepriest through Hagrim’s fading spirit. Hammers sound in the distance and a faint question asks whether she chooses punishment. She rejects punishment and asks for redemption, citing witnesses and evidence that he was compelled.",
+              "evidence": [
+                {
+                  "startUid": "u2925",
+                  "endUid": "u2961"
+                }
+              ]
+            },
+            {
+              "actor": "Chalice of the Runepriest / divine response",
+              "kind": "event",
+              "summary": "Water floods from the chalice, the floor and realm crumble away, and the party finds itself standing in a grassy field.",
+              "evidence": [
+                {
+                  "startUid": "u2962",
+                  "endUid": "u2971"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Riswynn chooses redemption rather than punishment. The chalice’s flood dissolves Morkalan around the party and ends the fight; the gods’ eventual judgment of Hagrim is not shown.",
+        "evidence": [
+          {
+            "startUid": "u2928",
+            "endUid": "u2971"
+          }
+        ]
+      }
+    }
+  ]
+}

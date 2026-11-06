@@ -1,0 +1,1216 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-058",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-session.yaml",
+    "sessionYamlSha256": "893d7b49187101e6c38e6b3e3c6223bab28a24c202a5b00e1b476baedc12b97e",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-transcript.md",
+    "transcriptSha256": "be5237d15d6e965d31d0b5b3e88a66d49ff404671a9e7823702ca85564261a2f"
+  },
+  "places": {
+    "p01": {
+      "label": "Morkalan",
+      "kind": "extraplanar domain",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0006",
+          "quote": "our adventure today starts in Morkalan, the bleak domain of the Shadowfell"
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Morkalan.md",
+      "note": "The transcript uses Shadowfell; the vault uses Shadowfolds for this domain."
+    },
+    "p02": {
+      "label": "Nora’s rocky outcropping on the cliff",
+      "kind": "landmark",
+      "evidence": [
+        {
+          "startUid": "u0075",
+          "endUid": "u0085",
+          "quote": "perched almost on, ah, on a rock outcropping, gazing intently south and east across the river"
+        },
+        {
+          "startUid": "u0075",
+          "endUid": "u0085",
+          "quote": "She turns slowly as your group approach and looks at Tak, who squeaks, \"They want to talk to you,\""
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0006",
+              "quote": "our adventure today starts in Morkalan, the bleak domain of the Shadowfell"
+            },
+            {
+              "startUid": "u0023",
+              "endUid": "u0029",
+              "quote": "walking along the edge of the cliff, you're heading in the direction of Nora"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Bleakhold",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0007",
+          "endUid": "u0012",
+          "quote": "After you accepted this quest and arrived in Morkalan, you found the village of Bleakhold"
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Bleakhold.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0007",
+              "endUid": "u0012",
+              "quote": "After you accepted this quest and arrived in Morkalan, you found the village of Bleakhold"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Muddy River",
+      "kind": "river",
+      "evidence": [
+        {
+          "startUid": "u0472",
+          "endUid": "u0476",
+          "quote": "you've traveled now, probably ten or fifteen miles along this muddy river"
+        },
+        {
+          "startUid": "u0565",
+          "endUid": "u0574",
+          "quote": "you turn south and head back in the direction of Bleakhold with Tak, stopping a little bit short of where the sort of zombie guards are sort of pacing around and find your way across the river."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Muddy River.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0006",
+              "quote": "our adventure today starts in Morkalan, the bleak domain of the Shadowfell"
+            },
+            {
+              "startUid": "u0565",
+              "endUid": "u0574",
+              "quote": "you turn south and head back in the direction of Bleakhold with Tak, stopping a little bit short of where the sort of zombie guards are sort of pacing around and find your way across the river."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Ashfield / ashy wastes",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0388",
+          "endUid": "u0395",
+          "quote": "I I don't go in the wastes. There's trolls there. Hagrim controls—Morkalan controls them."
+        },
+        {
+          "startUid": "u0565",
+          "endUid": "u0574",
+          "quote": "the right bank is just the sort of flat expanse almost unmarked"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0006",
+              "quote": "our adventure today starts in Morkalan, the bleak domain of the Shadowfell"
+            },
+            {
+              "startUid": "u0601",
+              "endUid": "u0616",
+              "quote": "twenty thirty-minute flight east into the wastes away from the river"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Rocks where the spirit troll ambushes",
+      "kind": "landmark",
+      "evidence": [
+        {
+          "startUid": "u0678",
+          "endUid": "u0680",
+          "quote": "As you are passing a you are passing a cluster of—That's huge— a cluster of rocks."
+        },
+        {
+          "startUid": "u0689",
+          "endUid": "u0693",
+          "quote": "this massive spirit troll just like rushes through the rock"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0654",
+              "endUid": "u0660",
+              "quote": "So you head in the direction of the cave, kind of walking through these, like, mists, um, the dust"
+            },
+            {
+              "startUid": "u0673",
+              "endUid": "u0676",
+              "quote": "you continue for another like five minutes or so"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Del’s cave",
+      "kind": "cave",
+      "evidence": [
+        {
+          "startUid": "u0601",
+          "endUid": "u0616",
+          "quote": "there's a, like, a bigger rocky outcropping, and it look—where it looks like there's a cave"
+        },
+        {
+          "startUid": "u1100",
+          "endUid": "u1103",
+          "quote": "pushed some rocks around the bottom of the cave to try and make what looks kind of like a like a house of sorts."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0601",
+              "endUid": "u0616",
+              "quote": "twenty thirty-minute flight east into the wastes away from the river"
+            },
+            {
+              "startUid": "u0601",
+              "endUid": "u0616",
+              "quote": "there's a, like, a bigger rocky outcropping, and it look—where it looks like there's a cave"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Ruined statue and Hagrim’s fort",
+      "kind": "fortified site",
+      "evidence": [
+        {
+          "startUid": "u1637",
+          "endUid": "u1664",
+          "quote": "the ruined, twisted statue in this realm that that mimics giant statue of the stone-born warrior that sits on the plains of Dunmar."
+        },
+        {
+          "startUid": "u1637",
+          "endUid": "u1664",
+          "quote": "around the feet of the statue there's what looks like a sort of crude fort"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0006",
+              "quote": "our adventure today starts in Morkalan, the bleak domain of the Shadowfell"
+            },
+            {
+              "startUid": "u1637",
+              "endUid": "u1664",
+              "quote": "the ruined, twisted statue in this realm that that mimics giant statue of the stone-born warrior that sits on the plains of Dunmar."
+            }
+          ]
+        }
+      ],
+      "note": "Morkalan’s ruined echo of the material Stoneborn statue."
+    },
+    "p09": {
+      "label": "Blockhouse entry room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1691",
+          "endUid": "u1694",
+          "quote": "a—there's, like, small like blockhouse type building that has an open door and you and steps going down"
+        },
+        {
+          "startUid": "u1899",
+          "endUid": "u1911",
+          "quote": "The entry way here—this, like, small room that you've entered into has a back. It's only maybe a fifteen by fifteen foot room."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1691",
+              "endUid": "u1694",
+              "quote": "a—there's, like, small like blockhouse type building that has an open door and you and steps going down"
+            },
+            {
+              "startUid": "u1637",
+              "endUid": "u1664",
+              "quote": "around the feet of the statue there's what looks like a sort of crude fort"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Hall of bones",
+      "kind": "chamber",
+      "evidence": [
+        {
+          "startUid": "u1967",
+          "endUid": "u1974",
+          "quote": "You come out into a chamber filled with bones like maybe I don't know, the—the bones of, like, forty dwarfs."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1957",
+              "endUid": "u1964",
+              "quote": "So the rest of you follow down the stairs."
+            },
+            {
+              "startUid": "u1967",
+              "endUid": "u1974",
+              "quote": "You come out into a chamber filled with bones"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Hagrim’s throne room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2115",
+          "endUid": "u2129",
+          "quote": "the door swings open, the— and you see, um, well, Riswynn is restrained. We'll come back from that. A— what looks like a sort of crudely made, badly imagined throne room."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u1975",
+              "endUid": "u1976",
+              "quote": "At the far end of this hall of Bones there is a a large what looks like sealed shut, stone door."
+            },
+            {
+              "startUid": "u2115",
+              "endUid": "u2129",
+              "quote": "the door swings open, the— and you see, um, well, Riswynn is restrained. We'll come back from that. A— what looks like a sort of crudely made, badly imagined throne room."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Dunmar",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u2972",
+          "endUid": "u2983",
+          "quote": "This is Dunmar. This is the land just north of Tokra."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Dunmar.md"
+    },
+    "p13": {
+      "label": "Grassy field at the Stoneborn statue north of Tokra",
+      "kind": "landmark",
+      "evidence": [
+        {
+          "startUid": "u2972",
+          "endUid": "u2983",
+          "quote": "this massive statue of a stone-born warrior standing over the grass which stretches in all directions."
+        },
+        {
+          "startUid": "u2972",
+          "endUid": "u2983",
+          "quote": "This is Dunmar. This is the land just north of Tokra."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Stoneborn Statue Dungeon.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u2972",
+              "endUid": "u2983",
+              "quote": "This is Dunmar. This is the land just north of Tokra."
+            },
+            {
+              "startUid": "u2972",
+              "endUid": "u2983",
+              "quote": "this massive statue of a stone-born warrior standing over the grass which stretches in all directions."
+            }
+          ]
+        }
+      ],
+      "note": "Stoneborn Statue Dungeon identifies this landmark north of Tokra. Arrival is in the field; no entry into the material dungeon is established."
+    },
+    "p14": {
+      "label": "Flooded river beside the material statue",
+      "kind": "river",
+      "evidence": [
+        {
+          "startUid": "u2972",
+          "endUid": "u2983",
+          "quote": "water flowing down into the river itself"
+        },
+        {
+          "startUid": "u3008",
+          "endUid": "u3012",
+          "quote": "you have to swim across the river. This is—the river is in flood now with the rains."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u2972",
+              "endUid": "u2983",
+              "quote": "This is Dunmar. This is the land just north of Tokra."
+            },
+            {
+              "startUid": "u3008",
+              "endUid": "u3012",
+              "quote": "you have to swim across the river. This is—the river is in flood now with the rains."
+            }
+          ]
+        }
+      ],
+      "note": "The transcript does not name this material river; it is kept distinct from Morkalan’s Muddy River."
+    },
+    "p15": {
+      "label": "Refugees’ bank across the river",
+      "kind": "riverbank",
+      "evidence": [
+        {
+          "startUid": "u2990",
+          "endUid": "u3001",
+          "quote": "along the other side of the river like a group of about two hundred and fifty, three hundred dwarfs"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u2972",
+              "endUid": "u2983",
+              "quote": "This is Dunmar. This is the land just north of Tokra."
+            },
+            {
+              "startUid": "u2990",
+              "endUid": "u3001",
+              "quote": "along the other side of the river like a group of about two hundred and fifty, three hundred dwarfs"
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Stonefist Steins and Stables",
+      "kind": "tavern",
+      "evidence": [
+        {
+          "startUid": "u3037",
+          "endUid": "u3048",
+          "quote": "If you're ever in Chardon, Stonefist Steins and Stables always has an open room for you"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p18",
+          "evidence": [
+            {
+              "startUid": "u3037",
+              "endUid": "u3048",
+              "quote": "If you're ever in Chardon, Stonefist Steins and Stables always has an open room for you"
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Merash’s forge",
+      "kind": "forge",
+      "evidence": [
+        {
+          "startUid": "u3050",
+          "endUid": "u3059",
+          "quote": "happy to return back to her forge"
+        },
+        {
+          "startUid": "u3066",
+          "endUid": "u3074",
+          "quote": "Merash and and Rothfis returning to their that establishments of various kinds, forge and tavern"
+        }
+      ],
+      "note": "No settlement is named for Merash’s forge in this transcript."
+    },
+    "p18": {
+      "label": "Chardon",
+      "kind": "city",
+      "evidence": [
+        {
+          "startUid": "u3037",
+          "endUid": "u3048",
+          "quote": "If you're ever in Chardon, Stonefist Steins and Stables always has an open room for you"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Chardon.md"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0023",
+        "endUid": "u0029"
+      },
+      "actors": [
+        "party",
+        "Tak"
+      ],
+      "reading": "The ongoing cliffside walk reaches Nora’s rocky outcrop after about an hour.",
+      "evidence": [
+        {
+          "startUid": "u0023",
+          "endUid": "u0029",
+          "quote": "walking along the edge of the cliff, you're heading in the direction of Nora, Tak leading you"
+        },
+        {
+          "startUid": "u0075",
+          "endUid": "u0085",
+          "quote": "She turns slowly as your group approach and looks at Tak, who squeaks, \"They want to talk to you,\""
+        }
+      ],
+      "from": null,
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "walk",
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated ongoing approach"
+      }
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0565",
+        "endUid": "u0574"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Retrace toward Bleakhold with Tak, stop short of the guards, and cross the Muddy River into the wastes.",
+      "evidence": [
+        {
+          "startUid": "u0565",
+          "endUid": "u0574",
+          "quote": "you turn south and head back in the direction of Bleakhold with Tak, stopping a little bit short of where the sort of zombie guards are sort of pacing around and find your way across the river."
+        },
+        {
+          "startUid": "u0565",
+          "endUid": "u0574",
+          "quote": "the right bank is just the sort of flat expanse almost unmarked"
+        }
+      ],
+      "from": "p02",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk and wade",
+      "route": [
+        {
+          "reading": "Travel with Tak toward Bleakhold; stop short of its guards without reentering the village.",
+          "place": "p03"
+        },
+        {
+          "reading": "Cross the river to the flat right-bank wastes.",
+          "place": "p04"
+        }
+      ],
+      "note": "Tak accompanies the return toward Bleakhold; his crossing into the wastes is not established, so the completed crossing applies only to the party."
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0595",
+        "endUid": "u0598"
+      },
+      "actors": [
+        "Rothfis"
+      ],
+      "reading": "Fly a scouting loop over the wastes, then return to the party without landing at the cave.",
+      "evidence": [
+        {
+          "startUid": "u0595",
+          "endUid": "u0598",
+          "quote": "I just start sprinting northward to the heavens"
+        },
+        {
+          "startUid": "u0622",
+          "endUid": "u0623",
+          "quote": "You did like a little bit of a a loop, just kind of trying to get your bearings."
+        },
+        {
+          "startUid": "u0630",
+          "endUid": "u0634",
+          "quote": "Well, I will fly back down to the group."
+        },
+        {
+          "startUid": "u0633",
+          "endUid": "u0634",
+          "quote": "about an hour to scout it all."
+        }
+      ],
+      "from": "p05",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "fly",
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s confirmed total scouting duration"
+      },
+      "route": [
+        {
+          "reading": "Scout east away from the river and see a possible cave without entering it.",
+          "place": "p07"
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0601",
+        "endUid": "u0616"
+      },
+      "actors": [
+        "Rothfis"
+      ],
+      "reading": "See a rocky outcrop with a possible cave from the air; dust prevents seeing inside.",
+      "evidence": [
+        {
+          "startUid": "u0601",
+          "endUid": "u0616",
+          "quote": "there's a, like, a bigger rocky outcropping, and it look—where it looks like there's a cave"
+        },
+        {
+          "startUid": "u0601",
+          "endUid": "u0616",
+          "quote": "You can't really make out what's inside."
+        }
+      ],
+      "place": "p07",
+      "mode": "local",
+      "observerPlace": "p05"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0654",
+        "endUid": "u0662"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Walk toward Del’s cave through the wastes, but the troll interrupts the journey at a cluster of rocks.",
+      "evidence": [
+        {
+          "startUid": "u0654",
+          "endUid": "u0660",
+          "quote": "So you head in the direction of the cave"
+        },
+        {
+          "startUid": "u0661",
+          "endUid": "u0662",
+          "quote": "You go for maybe twenty, thirty minutes about."
+        },
+        {
+          "startUid": "u0673",
+          "endUid": "u0676",
+          "quote": "you continue for another like five minutes or so"
+        },
+        {
+          "startUid": "u0689",
+          "endUid": "u0693",
+          "quote": "this massive spirit troll just like rushes through the rock"
+        }
+      ],
+      "from": "p05",
+      "to": "p07",
+      "completion": "interrupted",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "The ambush occurs while passing a cluster of rocks.",
+          "place": "p06"
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "presence",
+      "source": {
+        "startUid": "u0689",
+        "endUid": "u0693"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Fight the spirit troll among the rocks on the cave approach.",
+      "evidence": [
+        {
+          "startUid": "u0689",
+          "endUid": "u0693",
+          "quote": "this massive spirit troll just like rushes through the rock"
+        },
+        {
+          "startUid": "u1033",
+          "endUid": "u1033",
+          "quote": "right here in the middle of the Ashlands"
+        }
+      ],
+      "place": "p06"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1043",
+        "endUid": "u1045"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Scout ahead to the cave and meet the old dwarf emerging from it.",
+      "evidence": [
+        {
+          "startUid": "u1043",
+          "endUid": "u1045",
+          "quote": "Riswynn goes to investigate the cave."
+        },
+        {
+          "startUid": "u1071",
+          "endUid": "u1074",
+          "quote": "peering out from the cave, this, like, old dwarf"
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1088",
+        "endUid": "u1091"
+      },
+      "actors": [
+        "Rothfis",
+        "Merash",
+        "Thror"
+      ],
+      "reading": "Catch up to Riswynn and sit with Del at his cave.",
+      "evidence": [
+        {
+          "startUid": "u1088",
+          "endUid": "u1091",
+          "quote": "Come, sit. Yeah, they can. They have caught up."
+        },
+        {
+          "startUid": "u1100",
+          "endUid": "u1103",
+          "quote": "pushed some rocks around the bottom of the cave"
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1637",
+        "endUid": "u1664"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leave Del’s cave and walk along the river to the approach outside Hagrim’s statue-fort.",
+      "evidence": [
+        {
+          "startUid": "u1637",
+          "endUid": "u1664",
+          "quote": "So you leave Del's, the mad priest's cave, and head for the statue"
+        },
+        {
+          "startUid": "u1637",
+          "endUid": "u1664",
+          "quote": "You can see this from, you know, four or five hundred feet away."
+        },
+        {
+          "startUid": "u1739",
+          "endUid": "u1740",
+          "quote": "you're at the edge of the river, basically, and the fortress is about five hundred feet away from it."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "underway",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Approach along the river, pausing about five hundred feet from the fort.",
+          "place": "p04"
+        }
+      ],
+      "distance": {
+        "text": "a few miles; four, five or eight",
+        "unit": "mile",
+        "precision": "vague",
+        "basis": "DM explicitly cannot determine the exact distance"
+      },
+      "duration": {
+        "value": 3,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated approximate time to the outside approach"
+      }
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1778",
+        "endUid": "u1787"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Advance onto the statue-fort grounds; memory spirits gather near the door.",
+      "evidence": [
+        {
+          "startUid": "u1779",
+          "endUid": "u1783",
+          "quote": "you're just gonna walk forward, heading to the hole?"
+        },
+        {
+          "startUid": "u1788",
+          "endUid": "u1791",
+          "quote": "you get to maybe one hundred feet away, maybe fifty feet away"
+        },
+        {
+          "startUid": "u1847",
+          "endUid": "u1849",
+          "quote": "fifty feet from the door. They're in between you and the door."
+        }
+      ],
+      "from": "p04",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk; Rothfis hovers above the others"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1861",
+        "endUid": "u1865"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Run or fly through the remaining spirits into the blockhouse entry room; the spirits do not follow.",
+      "evidence": [
+        {
+          "startUid": "u1863",
+          "endUid": "u1863",
+          "quote": "Nice, loud prayer as we run through the door"
+        },
+        {
+          "startUid": "u1878",
+          "endUid": "u1884",
+          "quote": "the rest of you are running past them"
+        },
+        {
+          "startUid": "u1899",
+          "endUid": "u1911",
+          "quote": "they don't enter the room as you—the door—as you run in, you— they don't follow you."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "run; Rothfis flies"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1949",
+        "endUid": "u1950"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Merash descends first, dislodging loose stair rubble, and the rest follow into the bone-filled chamber.",
+      "evidence": [
+        {
+          "startUid": "u1949",
+          "endUid": "u1950",
+          "quote": "You head down the stairs."
+        },
+        {
+          "startUid": "u1957",
+          "endUid": "u1964",
+          "quote": "So the rest of you follow down the stairs."
+        },
+        {
+          "startUid": "u1967",
+          "endUid": "u1974",
+          "quote": "You come out into a chamber filled with bones"
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "descend stairs; Rothfis hovers"
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u2115",
+        "endUid": "u2145"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The forced-open door reveals Hagrim’s distorted throne room beyond the hall of bones.",
+      "evidence": [
+        {
+          "startUid": "u2115",
+          "endUid": "u2129",
+          "quote": "the door swings open, the— and you see, um, well, Riswynn is restrained. We'll come back from that. A— what looks like a sort of crudely made, badly imagined throne room."
+        },
+        {
+          "startUid": "u2136",
+          "endUid": "u2145",
+          "quote": "this ghost turns, and he floats up into the air slightly and looks at you as this door bursts open."
+        }
+      ],
+      "place": "p11",
+      "mode": "local",
+      "observerPlace": "p10"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2163",
+        "endUid": "u2167"
+      },
+      "actors": [
+        "Merash",
+        "Riswynn"
+      ],
+      "reading": "Merash pulls Riswynn free of the skeletal arms and into the throne room.",
+      "evidence": [
+        {
+          "startUid": "u2163",
+          "endUid": "u2167",
+          "quote": "you pull her out."
+        },
+        {
+          "startUid": "u2165",
+          "endUid": "u2167",
+          "quote": "you yank Riswynn into the room."
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2185",
+        "endUid": "u2186"
+      },
+      "actors": [
+        "Rothfis"
+      ],
+      "reading": "Enlarged Rothfis enters the throne room, banging his head on the door.",
+      "evidence": [
+        {
+          "startUid": "u2185",
+          "endUid": "u2186",
+          "quote": "Bang my head on the door coming in."
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2542",
+        "endUid": "u2549"
+      },
+      "actors": [
+        "Thror"
+      ],
+      "reading": "Move into the throne room to cast Lightning Bolt at two enemies.",
+      "evidence": [
+        {
+          "startUid": "u2542",
+          "endUid": "u2542",
+          "quote": "I am going to move in and fourth-level Lightning Bolt these two."
+        }
+      ],
+      "from": null,
+      "to": "p11",
+      "completion": "arrived"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2962",
+        "endUid": "u2983"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Morkalan crumbles and the party finds itself on the grassy material plains at the Stoneborn statue north of Tokra.",
+      "evidence": [
+        {
+          "startUid": "u2962",
+          "endUid": "u2971",
+          "quote": "you find yourself standing in a grassy field, the land you are in crumbling around you."
+        },
+        {
+          "startUid": "u2972",
+          "endUid": "u2983",
+          "quote": "this massive statue of a stone-born warrior standing over the grass which stretches in all directions."
+        },
+        {
+          "startUid": "u2972",
+          "endUid": "u2983",
+          "quote": "This is Dunmar. This is the land just north of Tokra."
+        }
+      ],
+      "from": "p11",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "realm dissolves"
+    },
+    {
+      "id": "l18",
+      "type": "observation",
+      "source": {
+        "startUid": "u2990",
+        "endUid": "u3004"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "See the freed dwarves across the river, about half a mile away.",
+      "evidence": [
+        {
+          "startUid": "u2990",
+          "endUid": "u3001",
+          "quote": "along the other side of the river like a group of about two hundred and fifty, three hundred dwarfs"
+        },
+        {
+          "startUid": "u3004",
+          "endUid": "u3004",
+          "quote": "half a mile, something like that."
+        }
+      ],
+      "place": "p15",
+      "mode": "local",
+      "observerPlace": "p13",
+      "observedActors": [
+        "freed dwarves"
+      ]
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u3005",
+        "endUid": "u3012"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Riswynn heads toward the refugees and crosses the flooded river; the party gathers to explain what happened.",
+      "evidence": [
+        {
+          "startUid": "u3005",
+          "endUid": "u3007",
+          "quote": "I'm going to start walking towards them as fast as possible to explain and reassure."
+        },
+        {
+          "startUid": "u3008",
+          "endUid": "u3012",
+          "quote": "you have to swim across the river. This is—the river is in flood now with the rains."
+        },
+        {
+          "startUid": "u3008",
+          "endUid": "u3012",
+          "quote": "You begin to talk to them and tell them what's happened."
+        },
+        {
+          "startUid": "u3023",
+          "endUid": "u3034",
+          "quote": "as you all sort of gather to explain what's happened"
+        }
+      ],
+      "from": "p13",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "walk and swim",
+      "route": [
+        {
+          "reading": "Swim across the river in flood.",
+          "place": "p14"
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u3037",
+        "endUid": "u3048"
+      },
+      "actors": [
+        "Rothfis"
+      ],
+      "reading": "Say goodbye and blink home to his tavern.",
+      "evidence": [
+        {
+          "startUid": "u3037",
+          "endUid": "u3048",
+          "quote": "If you're ever in Chardon, Stonefist Steins and Stables always has an open room for you"
+        },
+        {
+          "startUid": "u3037",
+          "endUid": "u3048",
+          "quote": "after a quick goodbye he's just going to blink a—blink out."
+        },
+        {
+          "startUid": "u3066",
+          "endUid": "u3074",
+          "quote": "Merash and and Rothfis returning to their that establishments of various kinds, forge and tavern"
+        }
+      ],
+      "from": "p15",
+      "to": "p16",
+      "completion": "arrived",
+      "mode": "teleport"
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u3050",
+        "endUid": "u3059"
+      },
+      "actors": [
+        "Merash"
+      ],
+      "reading": "Blink home to her forge after repaying her debt to the gods.",
+      "evidence": [
+        {
+          "startUid": "u3050",
+          "endUid": "u3059",
+          "quote": "happy to return back to her forge"
+        },
+        {
+          "startUid": "u3050",
+          "endUid": "u3059",
+          "quote": "blinks out"
+        },
+        {
+          "startUid": "u3066",
+          "endUid": "u3074",
+          "quote": "Merash and and Rothfis returning to their that establishments of various kinds, forge and tavern"
+        }
+      ],
+      "from": "p15",
+      "to": "p17",
+      "completion": "arrived",
+      "mode": "teleport"
+    }
+  ]
+}

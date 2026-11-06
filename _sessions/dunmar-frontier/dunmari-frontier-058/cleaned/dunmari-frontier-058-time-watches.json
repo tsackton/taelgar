@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-time-markers.json",
+    "sha256": "123bf8b4bcd3c4a1983f16b97c8d5dbdc08784d1f073966e0b8dbd65b21cb0d4"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-transcript.md",
+    "sha256": "be5237d15d6e965d31d0b5b3e88a66d49ff404671a9e7823702ca85564261a2f"
+  },
+  "dateAssessment": "Working campaign dates come from YAML and the dated Session 58 campaign record: the Morkalan confrontation is placed on August 25, 1748, and emergence on August 26. The transcript independently establishes elapsed hours and minutes, but no calendar date or civil watch; the earlier elapsed activities therefore retain open watches. The campaign record’s afternoon confrontation does not establish a unique watch for the preceding three-hour march. The prior Riswynn-session handoff likewise supplies no civil clock. The time extraction remains compatible with, rather than a verification of, the 82-day YAML span. The campaign record adds an escort and later travels through November 14, while YAML ends November 15; none of that later epilogue appears before the registered transcript ends at u3074.",
+  "watches": [
+    {
+      "day": "August 25, 1748",
+      "startDate": "1748-08-25",
+      "endDate": "1748-08-25",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "adventure",
+      "scope": "Approach to Nora",
+      "summary": "Nora is reached after about an hour of the ongoing cliffside walk.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "August 25, 1748",
+      "startDate": "1748-08-25",
+      "endDate": "1748-08-25",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "adventure",
+      "scope": "Rothfis scouting",
+      "summary": "Rothfis completes his entire aerial scouting loop in about an hour.",
+      "markers": [
+        "t02"
+      ]
+    },
+    {
+      "day": "August 25, 1748",
+      "startDate": "1748-08-25",
+      "endDate": "1748-08-25",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "adventure",
+      "scope": "Cave approach",
+      "summary": "Twenty–thirty minutes of walking, then another five, precede the troll ambush.",
+      "markers": [
+        "t03",
+        "t04"
+      ]
+    },
+    {
+      "day": "August 25, 1748",
+      "startDate": "1748-08-25",
+      "endDate": "1748-08-25",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "adventure",
+      "scope": "Rothfis retrospective interval",
+      "summary": "Rothfis recalls near-death about five minutes earlier, covering the post-combat cave approach and conversation.",
+      "markers": [
+        "t05"
+      ]
+    },
+    {
+      "day": "August 25, 1748",
+      "startDate": "1748-08-25",
+      "endDate": "1748-08-25",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "adventure",
+      "scope": "Cave rest",
+      "summary": "An hour’s short rest in Del’s cave is completed before departure.",
+      "markers": [
+        "t06"
+      ]
+    },
+    {
+      "day": "August 25, 1748",
+      "startDate": "1748-08-25",
+      "endDate": "1748-08-25",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "adventure",
+      "scope": "Statue approach",
+      "summary": "The march to the fort takes about three hours; its arrival watch is not uniquely established.",
+      "markers": [
+        "t07"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated campaign record and epilogue",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 58 (DuFr).md",
+      "sha256": "90f553e78530fd238d1a684039a458b8d50c51410647dbbc9352bb9ce94eaa02"
+    }
+  ]
+}
