@@ -1,0 +1,1161 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "into-the-chasm-006",
+    "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-session.yaml",
+    "sessionYamlSha256": "bac4ddf58bb4aa31fb7118d2b685d5fcfa77703fcadc7154e931305d922dd65c",
+    "transcriptPath": "_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-transcript.md",
+    "transcriptSha256": "8057b5ae08efbc522605af5c565baf822806ca5a1a8abc619e5d2507ac5f7ea1"
+  },
+  "places": {
+    "p01": {
+      "label": "the chasm",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0690",
+          "endUid": "u0691",
+          "quote": "No, as far as you can tell, you're in… well, other than the fact that there seems to be a lot of weird anti-gravity floaty stuff, you, as far as you know, are just in the chasm. Like, the sun is moving across the sky normally."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Sembara/Zimkova/Great Chasm.md",
+      "note": "Identified as the Great Chasm using its canonical note and the same-campaign Episode 05 record; the current source calls it the chasm."
+    },
+    "p02": {
+      "label": "runic engine complex",
+      "kind": "structure",
+      "evidence": [
+        {
+          "startUid": "u0065",
+          "endUid": "u0075",
+          "quote": "The… thing, this keystone that you're chasing after was stolen by a party of orcs. And… who… who… fled downward through this dungeon, through these levels of this, of this machinery, of this, sort of… runic engine, until finally, you came… they came out in a… you fought and defeated them in a… sort of vast… in a vast hall, somewhat damaged, but… mostly intact, with… these six black pillars still threading through the ceiling of the hall, and then threading through the… in the… in the center of the hall, they keep going down through the floor."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0599",
+              "endUid": "u0609",
+              "quote": "Yes, well, he says, close… the… the chaotic ones, they will close. This… place, he says to Ekko, is… is one of… three… places in this… sacred chasm… that… keep… the planes from… He sort of looks like he's struggling for a word… that keep the planes from… crossing?"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "vast lower hall",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0076",
+          "endUid": "u0080",
+          "quote": "Great. And where we pick up, you're kind of in the… in the… far corner of this, of this hall, around these… with the orcs dead, and this keystone object, you know, visible on the far end."
+        },
+        {
+          "startUid": "u0091",
+          "endUid": "u0103",
+          "quote": "You're now… you're now in this… in this… hall, right? And you have a moment to look around now, not… when you enter, you were sort of immediately distracted by this party of orcs attacking you. And so now you have sort of a moment to look around the hall a little bit more. You can see, you can see… the… top… that, that… the ceiling, right, there's… there's these six… there's these six columns of… of some sort of black… material that seems to almost absorb light. It's… it's… it's unusual looking at it, right? It doesn't really look like… metal or stone. It's actually hard when your eyes look at it to even fully understand what it's made of. And these same 6 columns have been threaded through this entire… this entire structure, right? Up into the… up into the, the middle room, where they… where they veered out towards the sides."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0065",
+              "endUid": "u0075",
+              "quote": "The… thing, this keystone that you're chasing after was stolen by a party of orcs. And… who… who… fled downward through this dungeon, through these levels of this, of this machinery, of this, sort of… runic engine, until finally, you came… they came out in a… you fought and defeated them in a… sort of vast… in a vast hall, somewhat damaged, but… mostly intact, with… these six black pillars still threading through the ceiling of the hall, and then threading through the… in the… in the center of the hall, they keep going down through the floor."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "floating rock",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u0535",
+          "endUid": "u0538",
+          "quote": "You have a floating rock that Ekko and Eolo can ta-, can tug. But… if Ekko and Eolo fly back to Eidrikas, you can't get back to your floating rock. You… you're stuck."
+        },
+        {
+          "startUid": "u1915",
+          "endUid": "u1916",
+          "quote": "Onto the now very crowded dance floor platform. I'll just first quickly check to make sure Eolo hasn't Eolo'd anyone off the edge."
+        }
+      ],
+      "mobile": true
+    },
+    "p05": {
+      "label": "dome below the hall",
+      "kind": "chamber",
+      "evidence": [
+        {
+          "startUid": "u0126",
+          "endUid": "u0128",
+          "quote": "And you remember on the outside that there was, like, a ball, like, the… the structure of this thing was… there was a big… room. There's a big area, and then there's, like, a dome attached to the bottom of it. So the hatches probably lead down into that dome."
+        },
+        {
+          "startUid": "u2095",
+          "endUid": "u2096",
+          "quote": "Wh-what's in the, the… There's, like, a dome at the bottom?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0126",
+              "endUid": "u0128",
+              "quote": "And you remember on the outside that there was, like, a ball, like, the… the structure of this thing was… there was a big… room. There's a big area, and then there's, like, a dome attached to the bottom of it. So the hatches probably lead down into that dome."
+            }
+          ]
+        }
+      ],
+      "note": "The party does not enter. Postgame discussion of a possible elemental fight is not a visit."
+    },
+    "p06": {
+      "label": "Eidrikas’s runic platform",
+      "kind": "platform",
+      "evidence": [
+        {
+          "startUid": "u0549",
+          "endUid": "u0556",
+          "quote": "And… and… Okay, so… you fly back to Eidrikas, I mean, he looks… like, he's… he's still kind of sitting there, the… like, with his… with his arms, like, sort of… he's actually sitting, like, cross-legged, right? And, like, you can see he's, like, his arms are kind of… touching two spots, almost where it looks as you get closer and see the thing you're carrying, there's basically an arc where this is a piece taken out of, right, like, a circle that has, like, four… loosely connected arcs to it. This is one of them, and he's kind of sitting where this used to be. Sort of basically himself forming the… missing part of the circle."
+        },
+        {
+          "startUid": "u1929",
+          "endUid": "u1934",
+          "quote": "Eidrikas takes this piece, and… puts it back in, and sort of steps away, and… You can see, like, the… the runes and channels on this, like, platform that Eidrikas is on light up. And it kind of vibrates, like, sort of bounces up and down in the air for a minute, and then kind of stabilizes. And you can see the portal starts to, like, after a minute, like, there's this… There's this… almost like… shift, right? Like, it almost looks like the portal is being scraped off the wall very slowly."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1991",
+              "endUid": "u1997",
+              "quote": "Hmm… We're close to the… we're close to the… We're close to the top… of the… of the, unusual places. He says, he says, you know, the… the chasm, this is the… Beneath here is when it starts to… change, he says, right? This is the… this is the… the upper layer of the, sacred section of the chasm, he says."
+            }
+          ]
+        }
+      ],
+      "note": "Distinct from the mobile rock carrying the party and refugees."
+    },
+    "p07": {
+      "label": "Melusa",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0650",
+          "endUid": "u0659",
+          "quote": "Or missed some of the history due to nap time. You had, so… the adventure began, you were trapped in this… in this ice labyrinth, right? And when you escaped it, you found yourself in Melusa, this village, which… seemed completely disconnected from time. It had been isolated for thousands of years, as far as you can tell. Although, apparently, I mean… time runs slower there, so it was less, from their perspective, that had been isolated. And the people there… worshipped a… clearly Fey lord of some kind, named the Frostbinder, who they call, who they thought was Zeyfa's henchman. They called him Thakar and… envision him as… so Zeyfa is, like, the… this ancient Kestavo myth about… or a reality about, sort of, the… the… the parent of trickster and troublesome spirits."
+        },
+        {
+          "startUid": "u0933",
+          "endUid": "u0937",
+          "quote": "The…"
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Melusa.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0660",
+              "endUid": "u0667",
+              "quote": "Melusa was… supposedly… It's this village, right, that believes it's in… in Zeyfa's domain, as far as you could tell, it's not really Zeyfa's domain, it's actually… it's actually a… Fey lord, who rules this place. It seems it's… it… You… you don't… I mean, it seems like a constrained kind of place, right? The… you couldn't… leave it, right? Like, there… there was mists kind of all around the edges, right? Like, you couldn't… you couldn't…"
+            }
+          ]
+        }
+      ],
+      "note": "Two village clusters on opposite sides of the river/pool; “north” is explicitly withdrawn at u1181."
+    },
+    "p08": {
+      "label": "Fae realm around Melusa",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u0660",
+          "endUid": "u0667",
+          "quote": "Melusa was… supposedly… It's this village, right, that believes it's in… in Zeyfa's domain, as far as you could tell, it's not really Zeyfa's domain, it's actually… it's actually a… Fey lord, who rules this place. It seems it's… it… You… you don't… I mean, it seems like a constrained kind of place, right? The… you couldn't… leave it, right? Like, there… there was mists kind of all around the edges, right? Like, you couldn't… you couldn't…"
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Zeyfa's Realm.md",
+      "note": "Matched to Zeyfa’s Realm; the closing discussion leaves Shadowfold versus another demiplane unresolved."
+    },
+    "p09": {
+      "label": "portal plaza by the shattered ice wolf",
+      "kind": "plaza",
+      "evidence": [
+        {
+          "startUid": "u0873",
+          "endUid": "u0874",
+          "quote": "You see the… in front of you, there is these giant blocks of ice shattered, like a 40-foot-tall statue of a, wolf has crashed into the ground and broken into many pieces."
+        },
+        {
+          "startUid": "u0887",
+          "endUid": "u0888",
+          "quote": "I mean, by no people here, I mean they're not… there's nobody within, like, 100 feet. Like, the village, remember, this is, like, set back 100 or 200 feet from the village, and whatever the guards who were here before seem to have left."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0887",
+              "endUid": "u0888",
+              "quote": "I mean, by no people here, I mean they're not… there's nobody within, like, 100 feet. Like, the village, remember, this is, like, set back 100 or 200 feet from the village, and whatever the guards who were here before seem to have left."
+            }
+          ]
+        }
+      ],
+      "note": "The portal clearing is set back roughly 100–200 feet from the village; precise settlement boundaries are not established."
+    },
+    "p10": {
+      "label": "Iskander’s house",
+      "kind": "house",
+      "evidence": [
+        {
+          "startUid": "u1038",
+          "endUid": "u1046",
+          "quote": "And you guys are heading over to Iskander's house?"
+        },
+        {
+          "startUid": "u1047",
+          "endUid": "u1052",
+          "quote": "There is… you see, person there, with sort of long… black hair, I mean, this is Zahara. You've… you've had Zahara described to you before, there's 4 or 5 other people in the room. And also… dead… body."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0943",
+              "endUid": "u0951",
+              "quote": "to the village to the right"
+            },
+            {
+              "startUid": "u1038",
+              "endUid": "u1046",
+              "quote": "And you guys are heading over to Iskander's house?"
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "larger village square",
+      "kind": "square",
+      "evidence": [
+        {
+          "startUid": "u1240",
+          "endUid": "u1248",
+          "quote": "So… a lot of people are coming out. As you sort of go through and… and… in the kind of… main… in this sort of main square, like… There is sort of a square, it's not normally that common, but there's maybe 50 people now kind of coming out of their houses to listen, and this older woman, sort of… walks up to you as you're… as you're playing, kind of walking slowly, but directly towards Finn, and says, “You… did you bring this… curse upon us?”"
+        },
+        {
+          "startUid": "u1319",
+          "endUid": "u1324",
+          "quote": "The bigger one, which is the one Finn is in now, is… maybe… 35 houses? 40 houses, like… and fairly tightly packed, right? So, like, it's not like a perfect circle, but it's…"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1315",
+              "endUid": "u1324",
+              "quote": "It's not… physically, it's like… 3, 4, like, the… there's two villages separated by maybe 500 feet from each other. The one on the… on the… north side of the river, or the one side of the river and one on the other side of the lake, right? Pond more than lake, really. But the physical village is… I mean, it's small. You're talking…"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "cliff side of the salmon pool",
+      "kind": "gathering place",
+      "evidence": [
+        {
+          "startUid": "u1181",
+          "endUid": "u1181",
+          "quote": "Yeah, it's… the salmon pool… the one end of the salmon pool is close to the gate, one end of the salmon pool is close to the edge of the cliff. But then there's, like, an open space on the far end of it. So you could meet at the north edge of the… or east, whatever it is, the north edge of the salmon pool. Well, you don't know… there's no north, whatever direction… the cliff side of the salmon pool."
+        },
+        {
+          "startUid": "u1364",
+          "endUid": "u1371",
+          "quote": "So, I… around the polar bear, like, maybe… like I said, there's a core of maybe 20 or 25… I mean, the total population of the village is probably… What, like, 3… about 500 people, maybe? A split across these two places. Maybe 400… between 400 and 500. You probably have about… 35 people… maybe 40, gathered around the polar bear. And a few stragglers, like… 50, 60 feet away, kind of watching, but not committed. And then there's another large group still kind of… watching, and you can… you can still hear this old woman sort of talking to this larger group that you've sort of walked away from."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0933",
+              "endUid": "u0937",
+              "quote": "The…"
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "jungle island hideout",
+      "kind": "island",
+      "evidence": [
+        {
+          "startUid": "u1003",
+          "endUid": "u1007",
+          "quote": "Maybe send… I'll say to Jrain, can you send Rala to scout over the… didn't… Zahara have a base on one of the islands?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0668",
+              "endUid": "u0674",
+              "quote": "Melusa was, like, was, like, a small place, right? Like, there was a village on a ledge, there was, like, 3 floating rocks in the middle of the chasm. Like, it clearly was echo… an echo of the chasm. There was 3 floating rocks, one had an ice palace on it that we're looking at here, one had, like, a… jungly food land, and another had, like, a, cattle farm, basically. And you talked to a bunch of people in the village, and then you met the lord, the fey lord, who seemed… insane? At some level, he kept… he kept changing his personality in the middle of the conversation. And… but, ultimately…"
+            }
+          ]
+        }
+      ],
+      "note": "Rala checks the described hideout; the party does not visit it in this session."
+    },
+    "p14": {
+      "label": "Ice Palace",
+      "kind": "palace",
+      "evidence": [
+        {
+          "startUid": "u0938",
+          "endUid": "u0942",
+          "quote": "The ice palace is still floating, there's no bridge out, and you can see, the… the palace looks dark, right? Like, there's… there's no… movement in it, like, it almost looks… check that, like, they're just… it seems almost a bit… it almost looks at first glance, like… There's just… when you first came here, there was, like, guards moving around and stuff, but there's nothing there. There doesn't seem to be… I mean, you see a salmon jump as you're watching."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0668",
+              "endUid": "u0674",
+              "quote": "Melusa was, like, was, like, a small place, right? Like, there was a village on a ledge, there was, like, 3 floating rocks in the middle of the chasm. Like, it clearly was echo… an echo of the chasm. There was 3 floating rocks, one had an ice palace on it that we're looking at here, one had, like, a… jungly food land, and another had, like, a, cattle farm, basically. And you talked to a bunch of people in the village, and then you met the lord, the fey lord, who seemed… insane? At some level, he kept… he kept changing his personality in the middle of the conversation. And… but, ultimately…"
+            }
+          ]
+        }
+      ],
+      "note": "Observed dark and without its bridge; no one in the party enters it in this session."
+    },
+    "p15": {
+      "label": "eventual settlement (unnamed)",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u2113",
+          "endUid": "u2116",
+          "quote": "So… I didn't really have any aftermath. It's… these people eventually get settled. Right? You know? I don't know."
+        }
+      ],
+      "note": "The closing montage confirms resettlement somewhere, without naming or geographically locating the destination."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0076",
+        "endUid": "u0103"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party begins beside the dead orcs in the vast lower hall of the suspended machinery.",
+      "evidence": [
+        {
+          "startUid": "u0076",
+          "endUid": "u0080",
+          "quote": "Great. And where we pick up, you're kind of in the… in the… far corner of this, of this hall, around these… with the orcs dead, and this keystone object, you know, visible on the far end."
+        },
+        {
+          "startUid": "u0091",
+          "endUid": "u0103",
+          "quote": "You're now… you're now in this… in this… hall, right? And you have a moment to look around now, not… when you enter, you were sort of immediately distracted by this party of orcs attacking you. And so now you have sort of a moment to look around the hall a little bit more. You can see, you can see… the… top… that, that… the ceiling, right, there's… there's these six… there's these six columns of… of some sort of black… material that seems to almost absorb light. It's… it's… it's unusual looking at it, right? It doesn't really look like… metal or stone. It's actually hard when your eyes look at it to even fully understand what it's made of. And these same 6 columns have been threaded through this entire… this entire structure, right? Up into the… up into the, the middle room, where they… where they veered out towards the sides."
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0114",
+        "endUid": "u0128"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Flickering light comes through hatches thought to lead into the dome; the party sees the entrances without entering.",
+      "evidence": [
+        {
+          "startUid": "u0114",
+          "endUid": "u0125",
+          "quote": "And then you can see there's, like, almost, around the pillars, there's, like, these slats, right, like, like, places in the, like, in a ship, right, where you have, like, a crosshatch, you know, a hatch that could… open up to go down to the next level, or something like that, right? Like… Basically, these… these… hatches, effectively, where there's a couple of them placed around these six pillars, and you can see a faint light kind of coming out from the hatching. Like, if you look towards these… these three hatches, which are… sort of around the six pillars. You can see, like, a little bit of a faint white, a little bit of a faint, sort of purple-blue light. Variable, it's not steady, it's, like, flickering. Like, something down… glows… once in a while, yeah."
+        },
+        {
+          "startUid": "u0126",
+          "endUid": "u0128",
+          "quote": "And you remember on the outside that there was, like, a ball, like, the… the structure of this thing was… there was a big… room. There's a big area, and then there's, like, a dome attached to the bottom of it. So the hatches probably lead down into that dome."
+        },
+        {
+          "startUid": "u2095",
+          "endUid": "u2096",
+          "quote": "Wh-what's in the, the… There's, like, a dome at the bottom?"
+        }
+      ],
+      "place": "p05",
+      "observerPlace": "p03",
+      "mode": "local"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0525",
+        "endUid": "u0548"
+      },
+      "actors": [
+        "Finnan",
+        "Jrain",
+        "Justas"
+      ],
+      "reading": "The three nonflying companions climb out of the hall and wait on their floating rock.",
+      "evidence": [
+        {
+          "startUid": "u0528",
+          "endUid": "u0533",
+          "quote": "This place is set up with a… you can climb out the ceiling. There's, like, these… the… the… the six… metal columns, the magical, 6 magical metal columns, enter into this large room through the ceiling. But where they enter is wider, considerably wider than the actual thing, so you can kind of climb down. You could kind of winkle your way down through the… through the ceiling there. And then there's, like, 20 feet, and then there was this room that was full of, like, angry lightning."
+        },
+        {
+          "startUid": "u0535",
+          "endUid": "u0541",
+          "quote": "You have a floating rock that Ekko and Eolo can ta-, can tug. But… if Ekko and Eolo fly back to Eidrikas, you can't get back to your floating rock. You… you're stuck."
+        },
+        {
+          "startUid": "u0545",
+          "endUid": "u0548",
+          "quote": "Yeah, okay. So… so you're gonna… you're gonna park on your floating rock, and… and wait for… Eolo and… Ekko to come back?"
+        },
+        {
+          "startUid": "u0547",
+          "endUid": "u0548",
+          "quote": "Yeah."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "climb",
+      "locationContext": [
+        {
+          "subject": "p04",
+          "relation": "near",
+          "target": "p02"
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0549",
+        "endUid": "u0559"
+      },
+      "actors": [
+        "Ekko",
+        "Eolo"
+      ],
+      "reading": "The two kenku fly back to Eidrikas’s runic platform with the wrapped keystone.",
+      "evidence": [
+        {
+          "startUid": "u0549",
+          "endUid": "u0556",
+          "quote": "And… and… Okay, so… you fly back to Eidrikas, I mean, he looks… like, he's… he's still kind of sitting there, the… like, with his… with his arms, like, sort of… he's actually sitting, like, cross-legged, right? And, like, you can see he's, like, his arms are kind of… touching two spots, almost where it looks as you get closer and see the thing you're carrying, there's basically an arc where this is a piece taken out of, right, like, a circle that has, like, four… loosely connected arcs to it. This is one of them, and he's kind of sitting where this used to be. Sort of basically himself forming the… missing part of the circle."
+        },
+        {
+          "startUid": "u0557",
+          "endUid": "u0559",
+          "quote": "And… he walks up very… Like, when you… fly up, he looks up, like… sort of gritting his teeth, like, did you find it?"
+        },
+        {
+          "startUid": "u0639",
+          "endUid": "u0641",
+          "quote": "I hope so as well. Ekko, is everybody… was that just me and… me and Eidrikas? Like, we're… everybody."
+        }
+      ],
+      "from": "p03",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0642",
+        "endUid": "u0775"
+      },
+      "actors": [
+        "Ekko",
+        "Eolo"
+      ],
+      "reading": "The kenku return to the party at the chasm-side portal, where the floating rock can be brought level with the gash.",
+      "evidence": [
+        {
+          "startUid": "u0642",
+          "endUid": "u0644",
+          "quote": "Okay. Yeah. Alright, fly back to the party. Let's go. We've only got limited time."
+        },
+        {
+          "startUid": "u0771",
+          "endUid": "u0775",
+          "quote": "Who… okay, so you… you… you can still see the portal is here, you can go through it."
+        },
+        {
+          "startUid": "u0817",
+          "endUid": "u0819",
+          "quote": "So…"
+        }
+      ],
+      "from": "p06",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "fly",
+      "note": "Return and reunion are compressed into the following group departure; the exact flight route and rock positioning are not narrated."
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0817",
+        "endUid": "u0888"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "All five cross the portal to the clearing outside Melusa and emerge among the wisps.",
+      "evidence": [
+        {
+          "startUid": "u0817",
+          "endUid": "u0819",
+          "quote": "So…"
+        },
+        {
+          "startUid": "u0820",
+          "endUid": "u0823",
+          "quote": "I'll follow."
+        },
+        {
+          "startUid": "u0845",
+          "endUid": "u0847",
+          "quote": "You know what? I think they're gonna be fine. What's the big… no, Ekko will pause, kind of give a big sigh, and then…"
+        },
+        {
+          "startUid": "u0855",
+          "endUid": "u0862",
+          "quote": "Kate, when Jrain comes through… you see, there's, like… well, all of you, and those who come right behind Jrain."
+        },
+        {
+          "startUid": "u0887",
+          "endUid": "u0888",
+          "quote": "I mean, by no people here, I mean they're not… there's nobody within, like, 100 feet. Like, the village, remember, this is, like, set back 100 or 200 feet from the village, and whatever the guards who were here before seem to have left."
+        }
+      ],
+      "from": "p04",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "portal"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0894",
+        "endUid": "u0931"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party runs about fifty feet from the portal; the wisps retreat to cover it again.",
+      "evidence": [
+        {
+          "startUid": "u0900",
+          "endUid": "u0901",
+          "quote": "Alright, well, ju- Justas will… wave them away, like annoying little biting insects, and… you know, move… his full move away from the portal."
+        },
+        {
+          "startUid": "u0904",
+          "endUid": "u0914",
+          "quote": "Yeah, also just moving away."
+        },
+        {
+          "startUid": "u0917",
+          "endUid": "u0922",
+          "quote": "They don't seem to be chasing you, but, like, as you're running, they… they… it takes a second for them to… it takes a second to, like, for them to… disappear off you, right? So, like, as you run… away, it's like they're almost, like, being drawn back towards the portal, but they, like, dash around you anyway. They…"
+        },
+        {
+          "startUid": "u0924",
+          "endUid": "u0929",
+          "quote": "And now you can see, like, the portal to… to… the… bye… back out is, like, covered. They've all now retreated back to the portal. You're maybe now 50 feet away. And it's, like, this dense, sparkly white… filling the… and…"
+        }
+      ],
+      "from": "p09",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "run",
+      "distance": {
+        "value": 50,
+        "unit": "foot",
+        "precision": "approximate",
+        "basis": "DM places the party about fifty feet away at the end of its escape."
+      }
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u0938",
+        "endUid": "u0942"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From outside Melusa the party sees the dark Ice Palace, no bridge and no visible movement.",
+      "evidence": [
+        {
+          "startUid": "u0938",
+          "endUid": "u0942",
+          "quote": "The ice palace is still floating, there's no bridge out, and you can see, the… the palace looks dark, right? Like, there's… there's no… movement in it, like, it almost looks… check that, like, they're just… it seems almost a bit… it almost looks at first glance, like… There's just… when you first came here, there was, like, guards moving around and stuff, but there's nothing there. There doesn't seem to be… I mean, you see a salmon jump as you're watching."
+        }
+      ],
+      "place": "p14",
+      "observerPlace": "p09",
+      "mode": "local"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1003",
+        "endUid": "u1037"
+      },
+      "actors": [
+        "Rala"
+      ],
+      "reading": "Rala scouts the jungle island hideout and returns quietly, signaling no people were found.",
+      "evidence": [
+        {
+          "startUid": "u1003",
+          "endUid": "u1007",
+          "quote": "Maybe send… I'll say to Jrain, can you send Rala to scout over the… didn't… Zahara have a base on one of the islands?"
+        },
+        {
+          "startUid": "u1033",
+          "endUid": "u1037",
+          "quote": "So I describe it as it was described, and I say, look for people there. If you get close and investigate thoroughly and you don't see any people, when you come back, just fly quietly. And if you… when you come back and you do see people there, give your usual calls to tell me that it was inhabited."
+        },
+        {
+          "startUid": "u1280",
+          "endUid": "u1283",
+          "quote": "Jrain, by the… I mean, sorry, Kate, I don't know if I told you, there was nobody… Rala came back quiet. There was no people there. But you might have gathered that from the fact that Zahara was… in the hut. Yeah, so… the…"
+        }
+      ],
+      "from": "p07",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Checks the described hideout on the jungle island.",
+          "place": "p13"
+        }
+      ],
+      "note": "The island visit and return are confirmed, but Jrain’s precise position at Rala’s departure and return is not specified."
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1038",
+        "endUid": "u1052"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party reaches Iskander’s house and enters to meet Zahara and the dissidents.",
+      "evidence": [
+        {
+          "startUid": "u1038",
+          "endUid": "u1046",
+          "quote": "And you guys are heading over to Iskander's house?"
+        },
+        {
+          "startUid": "u1045",
+          "endUid": "u1046",
+          "quote": "Come in quickly."
+        },
+        {
+          "startUid": "u1047",
+          "endUid": "u1052",
+          "quote": "There is… you see, person there, with sort of long… black hair, I mean, this is Zahara. You've… you've had Zahara described to you before, there's 4 or 5 other people in the room. And also… dead… body."
+        },
+        {
+          "startUid": "u1046",
+          "endUid": "u1046",
+          "quote": "We do."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1211",
+        "endUid": "u1248"
+      },
+      "actors": [
+        "Finnan"
+      ],
+      "reading": "Finnan leaves to call for evacuation and encounters the older woman in the larger village square.",
+      "evidence": [
+        {
+          "startUid": "u1211",
+          "endUid": "u1215",
+          "quote": "So, Finnan is not gonna wait for discussion. I'm gonna go out, I'm gonna, like, take my… I guess I don't really have drums, but… I can… I can do, like, a… like, a sort of up-tempo, percussion-y thing on my fiddle, and just start… making noise. Like, the world is, like, you've been safe here, you've been protected. You've been safe, but now it's time to leave. The world is ending, and we will lead you to safety."
+        },
+        {
+          "startUid": "u1240",
+          "endUid": "u1248",
+          "quote": "So… a lot of people are coming out. As you sort of go through and… and… in the kind of… main… in this sort of main square, like… There is sort of a square, it's not normally that common, but there's maybe 50 people now kind of coming out of their houses to listen, and this older woman, sort of… walks up to you as you're… as you're playing, kind of walking slowly, but directly towards Finn, and says, “You… did you bring this… curse upon us?”"
+        },
+        {
+          "startUid": "u1319",
+          "endUid": "u1324",
+          "quote": "The bigger one, which is the one Finn is in now, is… maybe… 35 houses? 40 houses, like… and fairly tightly packed, right? So, like, it's not like a perfect circle, but it's…"
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1225",
+        "endUid": "u1226"
+      },
+      "actors": [
+        "Ekko"
+      ],
+      "reading": "Ekko becomes a polar bear at the fish pool to serve as the evacuation gathering landmark.",
+      "evidence": [
+        {
+          "startUid": "u1219",
+          "endUid": "u1225",
+          "quote": "There's a lake full of fish, right?"
+        }
+      ],
+      "from": "p10",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1227",
+        "endUid": "u1236"
+      },
+      "actors": [
+        "Jrain"
+      ],
+      "reading": "Jrain goes through the village in the opposite direction from Finnan, seeking Kalima and her family.",
+      "evidence": [
+        {
+          "startUid": "u1227",
+          "endUid": "u1230",
+          "quote": "I could go in the opposite direction from Finn to amplify the signal in that direction."
+        },
+        {
+          "startUid": "u1234",
+          "endUid": "u1236",
+          "quote": "I'm especially looking around for Kalima and her family and their creepy baby, and if they don't come out, we'll do some more thorough searching. [garbled]."
+        },
+        {
+          "startUid": "u1302",
+          "endUid": "u1312",
+          "quote": "Tell me when you know what you want to do, but just, on the other side of the village, I mean, you do find, Iskander, and another, maybe, 10 people are in the, sort of… chaos, like, the sort of disruptive change crowd. You do find Kalima is… is here, right? Her family is here, there's maybe 30 people. There's maybe about 40 people gathering around the polar bear at this point. Mostly from the… the… you know, mostly from the, dissent sort of group, but then some who have just sort of decided to take a risk. But there also seems to be… There's a lot of people, kind of, looking at the deadly mesh of light, and kind of looking around, like… you hear some mutters, like, “Is this… won't we just die?” But anyway, go back to the crowd of 50, sort of, with a few people leaving."
+        }
+      ],
+      "from": "p10",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "The return narration finds Kalima and her family among the evacuees but does not supply a separate house location for Jrain’s search."
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u1287",
+        "endUid": "u1290"
+      },
+      "actors": [
+        "Justas"
+      ],
+      "reading": "Justas rejoins Finnan and discusses the unconvinced crowd at the larger village square.",
+      "evidence": [
+        {
+          "startUid": "u1287",
+          "endUid": "u1290",
+          "quote": "I think at about this point, Justas probably circles back and… and meets up with Finnan."
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u1356",
+        "endUid": "u1371"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The five regroup beside polar-bear Ekko and the willing evacuees at the pool.",
+      "evidence": [
+        {
+          "startUid": "u1356",
+          "endUid": "u1359",
+          "quote": "Let's link up the five of us and figure out together what to do, then."
+        },
+        {
+          "startUid": "u1364",
+          "endUid": "u1371",
+          "quote": "So, I… around the polar bear, like, maybe… like I said, there's a core of maybe 20 or 25… I mean, the total population of the village is probably… What, like, 3… about 500 people, maybe? A split across these two places. Maybe 400… between 400 and 500. You probably have about… 35 people… maybe 40, gathered around the polar bear. And a few stragglers, like… 50, 60 feet away, kind of watching, but not committed. And then there's another large group still kind of… watching, and you can… you can still hear this old woman sort of talking to this larger group that you've sort of walked away from."
+        }
+      ],
+      "from": null,
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u1537",
+        "endUid": "u1610"
+      },
+      "actors": [
+        "Eolo",
+        "first evacuation group"
+      ],
+      "reading": "Eolo leads the first five evacuees through to the floating rock on the Taelgar side.",
+      "evidence": [
+        {
+          "startUid": "u1540",
+          "endUid": "u1542",
+          "quote": "And, what, Eolo leads the first group through? Yeah. Basically."
+        },
+        {
+          "startUid": "u1594",
+          "endUid": "u1595",
+          "quote": "And Eolo, you're running… the people are running through. The first group is fairly chaotic. In the first round, maybe only, five of them get through?"
+        },
+        {
+          "startUid": "u1608",
+          "endUid": "u1610",
+          "quote": "What's everybody? So, Eolo, you're on the other side, with 5 of them. Right?"
+        },
+        {
+          "startUid": "u1915",
+          "endUid": "u1916",
+          "quote": "Onto the now very crowded dance floor platform. I'll just first quickly check to make sure Eolo hasn't Eolo'd anyone off the edge."
+        }
+      ],
+      "from": "p09",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "portal",
+      "locationContext": [
+        {
+          "subject": "p04",
+          "relation": "within",
+          "target": "p01"
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u1834",
+        "endUid": "u1835"
+      },
+      "actors": [
+        "Jrain",
+        "last main evacuation group"
+      ],
+      "reading": "Jrain accompanies the last main group through the portal and helps Eolo organize the crowded rock.",
+      "evidence": [
+        {
+          "startUid": "u1834",
+          "endUid": "u1835",
+          "quote": "Further and further away. Yes, which is successful, right? Like, they're… and the last group goes through."
+        },
+        {
+          "startUid": "u1915",
+          "endUid": "u1917",
+          "quote": "Onto the now very crowded dance floor platform. I'll just first quickly check to make sure Eolo hasn't Eolo'd anyone off the edge."
+        }
+      ],
+      "from": "p09",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "portal",
+      "locationContext": [
+        {
+          "subject": "p04",
+          "relation": "within",
+          "target": "p01"
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u1850",
+        "endUid": "u1857"
+      },
+      "actors": [
+        "Ekko"
+      ],
+      "reading": "Ekko withdraws alive through the portal after the fey decoy is overwhelmed.",
+      "evidence": [
+        {
+          "startUid": "u1850",
+          "endUid": "u1851",
+          "quote": "Ekko takes 10 points of damage."
+        },
+        {
+          "startUid": "u1855",
+          "endUid": "u1857",
+          "quote": "I mean, you're fine. You're… you're now all through."
+        },
+        {
+          "startUid": "u1915",
+          "endUid": "u1916",
+          "quote": "Onto the now very crowded dance floor platform. I'll just first quickly check to make sure Eolo hasn't Eolo'd anyone off the edge."
+        }
+      ],
+      "from": "p09",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "portal",
+      "note": "The DM’s “all through” is subsequently qualified by Justas and Finnan explicitly remaining at the Melusan threshold; this arrival includes only Ekko.",
+      "locationContext": [
+        {
+          "subject": "p04",
+          "relation": "within",
+          "target": "p01"
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u1907",
+        "endUid": "u1916"
+      },
+      "actors": [
+        "Justas",
+        "Finnan",
+        "one additional young villager"
+      ],
+      "reading": "After the wisps are cleared, the final young villager, Justas and Finnan cross onto the crowded floating rock.",
+      "evidence": [
+        {
+          "startUid": "u1909",
+          "endUid": "u1913",
+          "quote": "One young guy comes running out from the crowd once the sparks are all gone and runs through with you."
+        },
+        {
+          "startUid": "u1910",
+          "endUid": "u1912",
+          "quote": "Alright, that's… that's worth it. Justas is just pretty pleased with himself for that. Alright. I'll go on through."
+        },
+        {
+          "startUid": "u1913",
+          "endUid": "u1916",
+          "quote": "Okay, I'll step through with Justas and the last person."
+        }
+      ],
+      "from": "p09",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "portal",
+      "locationContext": [
+        {
+          "subject": "p04",
+          "relation": "within",
+          "target": "p01"
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u1952",
+        "endUid": "u1957"
+      },
+      "actors": [
+        "Eidrikas"
+      ],
+      "reading": "Freed by the repair, Eidrikas turns into a bird and lands on the edge of the refugee-filled rock.",
+      "evidence": [
+        {
+          "startUid": "u1952",
+          "endUid": "u1957",
+          "quote": "I mean, he… You know, you can… you sort of… he's now… he's now… no longer… sitting, like, he flies up to you, right? Like, he, he turns into a bird and flies up to you. And sort of… lands on the edge of the… you know… platform. It's a little crowded, right? Like, he flies around for a minute and actually, you know, lands on the edge, and…"
+        }
+      ],
+      "from": "p06",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "fly",
+      "locationContext": [
+        {
+          "subject": "p04",
+          "relation": "within",
+          "target": "p01"
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u1958",
+        "endUid": "u1963"
+      },
+      "actors": [
+        "party",
+        "Melusan refugees"
+      ],
+      "reading": "Eidrikas proposes moving everyone down to the spacious runic platform.",
+      "evidence": [
+        {
+          "startUid": "u1958",
+          "endUid": "u1963",
+          "quote": "Says, “Should we… there's more space… down below. It should be safe now.”"
+        }
+      ],
+      "from": "p04",
+      "to": "p06",
+      "completion": "planned",
+      "context": "planned",
+      "note": "Later discussion confirms that space is available, but never explicitly narrates this group transfer."
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u2075",
+        "endUid": "u2080"
+      },
+      "actors": [
+        "Eidrikas",
+        "Melusan refugees"
+      ],
+      "reading": "During the multi-day rescue, Eidrikas becomes a giant swan and carries some refugees upward, contacting a kenku.",
+      "evidence": [
+        {
+          "startUid": "u2075",
+          "endUid": "u2078",
+          "quote": "So yes, there's… it's… it's… resettling is certainly… achievable… somewhere, right? And you can certainly, like, it's, you know, it takes you a few days to organize a rescue and… right."
+        },
+        {
+          "startUid": "u2079",
+          "endUid": "u2080",
+          "quote": "You know, Eidrikas does turn into a swan, and flies some up, and talks to a Kenku, and like, a giant swan, right? Like, the size of, you know, 50… well, not 50, like… large creature, right? Like, and, you know, you do learn some about the, you know…"
+        }
+      ],
+      "from": null,
+      "to": null,
+      "completion": "underway",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Carries refugees upward from the chasm rescue site; landing points are not identified."
+        }
+      ],
+      "note": "The montage implements aerial rescue without establishing a visit to Kemeko Monastery or a named upper landing."
+    },
+    {
+      "id": "l23",
+      "type": "presence",
+      "source": {
+        "startUid": "u2113",
+        "endUid": "u2116"
+      },
+      "actors": [
+        "Melusan refugees"
+      ],
+      "reading": "The closing montage places the refugees in an eventual unnamed settlement.",
+      "evidence": [
+        {
+          "startUid": "u2113",
+          "endUid": "u2116",
+          "quote": "So… I didn't really have any aftermath. It's… these people eventually get settled. Right? You know? I don't know."
+        }
+      ],
+      "place": "p15"
+    }
+  ]
+}

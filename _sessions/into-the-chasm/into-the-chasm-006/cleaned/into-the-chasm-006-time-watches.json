@@ -1,0 +1,84 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-session.yaml",
+  "source": {
+    "path": "_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-time-markers.json",
+    "sha256": "fb7586fb771ebb4ed8435920063396de96173c0dd62d2bd2cf425b25da6c504c"
+  },
+  "transcript": {
+    "path": "_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-transcript.md",
+    "sha256": "8057b5ae08efbc522605af5c565baf822806ca5a1a8abc619e5d2507ac5f7ea1"
+  },
+  "dateAssessment": "Working opening date: January 29, 1730 from the session YAML, not an independently spoken day of month. The DM confirms 1730 and late January (u0205, u0724–u0726). The recovery, short rest and Melusa evacuation belong to that opening-day action, but t08 explicitly adds a few days of Taelgar rescue work and t09 resolves later resettlement. The time extraction therefore records a conflict with the same-day YAML end; no replacement end date is inferred. Melusa’s civil watch is undated. Its stated 1:4 time ratio is context for urgency, not an elapsed interval to add. Stars after the Taelgar short rest describe lighting; the loose 14:30/15:30 estimate plus one hour still falls in the fixed afternoon watch.",
+  "watches": [
+    {
+      "day": "January 29, 1730",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "DM estimates 14:30/15:30; a ten-minute ritual and one-hour rest end with stars visible.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03"
+      ],
+      "startDate": "1730-01-29",
+      "endDate": "1730-01-29"
+    },
+    {
+      "day": "Melusa return; local civil date open",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Justas and Jrain follow at twelve-second intervals; Finnan enters immediately behind Jrain.",
+      "markers": [
+        "t04"
+      ],
+      "clock": "local",
+      "scope": "Portal entry"
+    },
+    {
+      "day": "Melusa evacuation; local civil date open",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Five villagers cross during the explicitly six-second first round; later rounds receive no inferred durations.",
+      "markers": [
+        "t05"
+      ],
+      "clock": "local"
+    },
+    {
+      "day": "Taelgar return; opening-day date provisional",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Repair vibration lasts about a minute; Eidrikas later circles the crowded rock for another minute.",
+      "markers": [
+        "t06",
+        "t07"
+      ],
+      "scope": "Elapsed intervals without a later clock anchor"
+    },
+    {
+      "day": "After the opening day; final date open",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "A few days pass organizing the chasm rescue; Eidrikas carries refugees upward as a giant swan.",
+      "markers": [
+        "t08"
+      ]
+    },
+    {
+      "day": "Later; settlement date open",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "The refugees eventually settle; narration supplies neither the date nor the intervening duration.",
+      "markers": [
+        "t09"
+      ]
+    }
+  ]
+}

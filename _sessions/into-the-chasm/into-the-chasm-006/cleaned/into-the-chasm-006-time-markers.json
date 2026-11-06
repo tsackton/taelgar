@@ -1,0 +1,322 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "into-the-chasm-006",
+    "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-session.yaml",
+    "sessionYamlSha256": "bac4ddf58bb4aa31fb7118d2b685d5fcfa77703fcadc7154e931305d922dd65c",
+    "transcriptPath": "_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-transcript.md",
+    "transcriptSha256": "8057b5ae08efbc522605af5c565baf822806ca5a1a8abc619e5d2507ac5f7ea1",
+    "yamlDates": {
+      "start": "1730-01-29",
+      "end": "1730-01-29"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0382",
+        "endUid": "u0388"
+      },
+      "reading": "Finnan finishes roughly ten minutes of ritual casting while the party examines the hall and keystone; Justas retrospectively heals during that same interval.",
+      "evidence": [
+        {
+          "startUid": "u0382",
+          "endUid": "u0384",
+          "quote": "Has it been 10 minutes?"
+        },
+        {
+          "startUid": "u0383",
+          "endUid": "u0384",
+          "quote": "It's probably been just about 10 minutes, yeah. We could say your Detect Magic just comes up now, at this very moment."
+        },
+        {
+          "startUid": "u0387",
+          "endUid": "u0388",
+          "quote": "Okay, so, Finnan will look up… from the soft… sing-song chant that he's been doing for the past 10 minutes. And…"
+        },
+        {
+          "startUid": "u0420",
+          "endUid": "u0422",
+          "quote": "Like, I'm retconning healing myself in the last 10 minutes. I just realized I only have 3 hit points."
+        }
+      ],
+      "actors": [
+        "Finnan",
+        "Justas"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM confirms about ten minutes have actually passed and Detect Magic comes up; later healing belongs inside that interval."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0686",
+        "endUid": "u0688"
+      },
+      "reading": "The party is in the Taelgar chasm late in the afternoon, approaching dusk; the later estimate is about 14:30 or 15:30, with sunset around 16:00.",
+      "evidence": [
+        {
+          "startUid": "u0687",
+          "endUid": "u0688",
+          "quote": "Not yet. You came out, it's all been… I mean, it's… it's getting towards dusk now, right?"
+        },
+        {
+          "startUid": "u0690",
+          "endUid": "u0691",
+          "quote": "No, as far as you can tell, you're in… well, other than the fact that there seems to be a lot of weird anti-gravity floaty stuff, you, as far as you know, are just in the chasm. Like, the sun is moving across the sky normally."
+        },
+        {
+          "startUid": "u0712",
+          "endUid": "u0715",
+          "quote": "By now, the sun is… the sun is over the edge of the chasm, right? Like, the sunset's gonna be… it's gonna… you're gonna lose the sun very early in the day, because… because of the angle, right? So… you're in shadow. But you can still see this light in the sky. But probably not for that much longer."
+        },
+        {
+          "startUid": "u0720",
+          "endUid": "u0723",
+          "quote": "How long is it until… dusk?"
+        },
+        {
+          "startUid": "u0724",
+          "endUid": "u0726",
+          "quote": "Right, so it's gotta be… and it's late January, so… and you're fairly far north, right? So, I don't know, it's maybe 2.30 in the afternoon, but the sun probably sets at 4. Something like that. It could be 3.30, it's hard to know."
+        }
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "DM’s later approximate numerical clock qualifies the initial “towards dusk”; the chasm wall already hides the normally moving sun."
+      },
+      "note": "The clock estimates are loose and alternatives, not separate advances. This is the Taelgar side, not stationary light in Melusa."
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0734",
+        "endUid": "u0740"
+      },
+      "reading": "The party completes a short rest in Taelgar; by its end stars are visible above the chasm.",
+      "evidence": [
+        {
+          "startUid": "u0734",
+          "endUid": "u0739",
+          "quote": "And you're short resting? Or long resting?"
+        },
+        {
+          "startUid": "u0739",
+          "endUid": "u0740",
+          "quote": "Yeah, yeah, yeah, no, by the time you're done, the sky, you can see stars by the time you're done short resting, for sure."
+        },
+        {
+          "startUid": "u0761",
+          "endUid": "u0763",
+          "quote": "Okay, is everybody short-rested?"
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention"
+      },
+      "completion": "completed",
+      "note": "Stars establish the lighting at completion. The preceding loose 14:30/15:30 estimate plus one hour would still fall in the fixed afternoon watch; no exact sunset or end clock is inferred."
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0828",
+        "endUid": "u0840"
+      },
+      "reading": "Justas and then Jrain enter the portal with roughly twelve-second spacing; Finnan follows Jrain immediately.",
+      "evidence": [
+        {
+          "startUid": "u0829",
+          "endUid": "u0831",
+          "quote": "That's me."
+        },
+        {
+          "startUid": "u0834",
+          "endUid": "u0835",
+          "quote": "Again, yeah, like a 12-second window."
+        },
+        {
+          "startUid": "u0839",
+          "endUid": "u0840",
+          "quote": "So, you, Tim, Finnan's going right after Jrain?"
+        }
+      ],
+      "actors": [
+        "Justas",
+        "Jrain",
+        "Finnan"
+      ],
+      "duration": {
+        "value": 0.2,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Each accepted twelve-second entry gap, not an asserted total crossing duration."
+      },
+      "completion": "completed",
+      "note": "This dates entry spacing only; it establishes neither a Melusan civil watch nor the full party crossing duration."
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1598",
+        "endUid": "u1605"
+      },
+      "reading": "The first evacuation round takes six seconds and gets five villagers through; the others hesitate rather than being knocked unconscious.",
+      "evidence": [
+        {
+          "startUid": "u1600",
+          "endUid": "u1602",
+          "quote": "No, no, no, no, no, it's just they're not… they're running, they're… pausing to look. The other 5 are… will take another round to get through."
+        },
+        {
+          "startUid": "u1603",
+          "endUid": "u1605",
+          "quote": "Right? Like, there's a little bit of a logjam, because somebody trips by the… by the entrance and has to stand up again, and somebody doesn't want to run through the portal because it's too scary to run through the portal, so stops and walks slowly, like… they're just… you can't… In 6 seconds, there's only so many people who can move through a fairly narrow slot, and… and in this 6-second round, only 5 of them made it through."
+        }
+      ],
+      "actors": [
+        "Eolo",
+        "first evacuation group"
+      ],
+      "duration": {
+        "value": 0.1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM explicitly dates this resolved first evacuation round as six seconds."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1929",
+        "endUid": "u1934"
+      },
+      "reading": "After Eidrikas replaces the keystone, the runic platform vibrates for about a minute, stabilizes, and the portal begins withdrawing.",
+      "evidence": [
+        {
+          "startUid": "u1929",
+          "endUid": "u1934",
+          "quote": "Eidrikas takes this piece, and… puts it back in, and sort of steps away, and… You can see, like, the… the runes and channels on this, like, platform that Eidrikas is on light up. And it kind of vibrates, like, sort of bounces up and down in the air for a minute, and then kind of stabilizes. And you can see the portal starts to, like, after a minute, like, there's this… There's this… almost like… shift, right? Like, it almost looks like the portal is being scraped off the wall very slowly."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated platform vibration; the nearby “after a minute” portal description is not added as another independently measured interval."
+      },
+      "completion": "completed",
+      "time": {
+        "relative": {
+          "relation": "after",
+          "anchor": "the party and final villager return through the portal"
+        },
+        "precision": "approximate",
+        "basis": "Repair follows the completed escape in Taelgar."
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1952",
+        "endUid": "u1957"
+      },
+      "reading": "Eidrikas circles the crowded floating rock in bird form for about a minute before landing to speak.",
+      "evidence": [
+        {
+          "startUid": "u1952",
+          "endUid": "u1957",
+          "quote": "I mean, he… You know, you can… you sort of… he's now… he's now… no longer… sitting, like, he flies up to you, right? Like, he, he turns into a bird and flies up to you. And sort of… lands on the edge of the… you know… platform. It's a little crowded, right? Like, he flies around for a minute and actually, you know, lands on the edge, and…"
+        }
+      ],
+      "actors": [
+        "Eidrikas"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates flying around for a minute before landing."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2075",
+        "endUid": "u2080"
+      },
+      "reading": "The rescue from the chasm takes a few days to organize; Eidrikas carries people upward in giant-swan form and contacts a kenku.",
+      "evidence": [
+        {
+          "startUid": "u2075",
+          "endUid": "u2078",
+          "quote": "So yes, there's… it's… it's… resettling is certainly… achievable… somewhere, right? And you can certainly, like, it's, you know, it takes you a few days to organize a rescue and… right."
+        },
+        {
+          "startUid": "u2079",
+          "endUid": "u2080",
+          "quote": "You know, Eidrikas does turn into a swan, and flies some up, and talks to a Kenku, and like, a giant swan, right? Like, the size of, you know, 50… well, not 50, like… large creature, right? Like, and, you know, you do learn some about the, you know…"
+        }
+      ],
+      "duration": {
+        "text": "a few days",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "DM resolves the rescue montage as taking a few days, rather than merely forecasting a possible plan."
+      },
+      "completion": "completed",
+      "note": "This elapsed Taelgar interval extends beyond the opening day; its precise length and endpoint are not given."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2113",
+        "endUid": "u2116"
+      },
+      "reading": "The narration advances to the refugees eventually being settled, without dating that endpoint.",
+      "evidence": [
+        {
+          "startUid": "u2113",
+          "endUid": "u2116",
+          "quote": "So… I didn't really have any aftermath. It's… these people eventually get settled. Right? You know? I don't know."
+        }
+      ],
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t08",
+          "anchor": "the chasm rescue montage"
+        },
+        "precision": "approximate",
+        "basis": "Closing narration resolves eventual resettlement after the rescue arrangements."
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "conflict",
+    "dateAnchor": "January 29 comes only from YAML; the DM independently places current play in 1730 (u0205) and late January (u0724–u0726). No day of month is spoken.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t08",
+      "t09"
+    ],
+    "explanation": "The opening recovery, short rest, return to Melusa and portal evacuation can fit January 29. The played closing rescue montage explicitly takes a few days in Taelgar and then resolves eventual settlement, contradicting a same-day end for the complete session. The total transitions and final date remain open; forecasts of a week or next morning are not added as completed time."
+  }
+}

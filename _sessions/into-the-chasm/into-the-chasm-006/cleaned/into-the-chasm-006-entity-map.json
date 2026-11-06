@@ -1,0 +1,1109 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "b86498779fa3ef8bfca8314725a6501a83f0338e82dd1a6e019d0ba2cf426747",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "8057b5ae08efbc522605af5c565baf822806ca5a1a8abc619e5d2507ac5f7ea1",
+        "transcriptProcessing.artifacts.cleaned": "7a4f87bf2c0525e97a0e105e00dea5b30e421726b7be4704bf8a8e8a63f361c4"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "npc",
+      "label": "Eidrikas",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0549",
+            "endUid": "u0578"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0592",
+            "endUid": "u0638"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1929",
+            "endUid": "u1934"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1952",
+            "endUid": "u1970"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2049",
+            "endUid": "u2052"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2075",
+            "endUid": "u2094"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Sembarans/Eidrikas.md"
+    },
+    {
+      "id": "e002",
+      "kind": "item",
+      "label": "Stolen runic keystone",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0110",
+            "endUid": "u0113"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0228",
+            "endUid": "u0246"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0308",
+            "endUid": "u0335"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0401",
+            "endUid": "u0409"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0447",
+            "endUid": "u0473"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0486",
+            "endUid": "u0524"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0549",
+            "endUid": "u0569"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0794",
+            "endUid": "u0798"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1929",
+            "endUid": "u1934"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2146",
+            "endUid": "u2153"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "stone",
+        "artifact",
+        "crystal"
+      ]
+    },
+    {
+      "id": "e003",
+      "kind": "npc",
+      "label": "Zahara",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1047",
+            "endUid": "u1086"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1094",
+            "endUid": "u1127"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Zimkovans/Zahara.md"
+    },
+    {
+      "id": "e004",
+      "kind": "npc",
+      "label": "Older Melusan woman",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1240",
+            "endUid": "u1274"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1284",
+            "endUid": "u1286"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1364",
+            "endUid": "u1371"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e005",
+      "kind": "npc",
+      "label": "Iskander",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0943",
+            "endUid": "u0951"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1106",
+            "endUid": "u1110"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1302",
+            "endUid": "u1312"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Zimkovans/Iskander.md",
+      "confidenceExplanation": "His gathering of evacuees is consequential, but the brief reported action could instead be judged cameo involvement."
+    },
+    {
+      "id": "e006",
+      "kind": "npc",
+      "label": "Kalima",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0943",
+            "endUid": "u0951"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1234",
+            "endUid": "u1236"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1302",
+            "endUid": "u1312"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Sembarans/Kalima.md"
+    },
+    {
+      "id": "e007",
+      "kind": "npc",
+      "label": "Rala",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1003",
+            "endUid": "u1037"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1280",
+            "endUid": "u1283"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Other PCs/Into the Chasm/Rala.md"
+    },
+    {
+      "id": "e008",
+      "kind": "npc",
+      "label": "Malquin / the Frostbinder",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0650",
+            "endUid": "u0685"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1094",
+            "endUid": "u1115"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1269",
+            "endUid": "u1274"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1399",
+            "endUid": "u1411"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1423",
+            "endUid": "u1433"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2154",
+            "endUid": "u2220"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Thakar",
+        "Vaqar",
+        "Frostbinder",
+        "Fae Lord",
+        "Malquin"
+      ],
+      "note": "People/Extraplanar Powers/Forquarion.md"
+    },
+    {
+      "id": "e009",
+      "kind": "npc",
+      "label": "Tarek, dead Melusan dissident",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1047",
+            "endUid": "u1055"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1079",
+            "endUid": "u1086"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1102",
+            "endUid": "u1105"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The named dead Melusan is distinct from the Tollish PC Tarek, whose note describes a different person and period."
+    },
+    {
+      "id": "e010",
+      "kind": "npc",
+      "label": "Kalima’s family’s baby",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1234",
+            "endUid": "u1236"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Zimkovans/Samir.md",
+      "confidenceExplanation": "Samir’s note identifies Kalima’s niece and the earlier speaking infant, but this session refers only to the family’s “creepy baby”."
+    },
+    {
+      "id": "e011",
+      "kind": "divine",
+      "label": "Thark",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0196",
+            "endUid": "u0213"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Embodied Gods/Thark.md"
+    },
+    {
+      "id": "e012",
+      "kind": "npc",
+      "label": "Ravager of Winter",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0215",
+            "endUid": "u0222"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Orcs/Ravager of Winter.md"
+    },
+    {
+      "id": "e013",
+      "kind": "npc",
+      "label": "Dead Thark-marked orc leader",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0196",
+            "endUid": "u0222"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e014",
+      "kind": "item",
+      "label": "Frostbinder’s necklace",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0675",
+            "endUid": "u0688"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0730",
+            "endUid": "u0739"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2154",
+            "endUid": "u2157"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e015",
+      "kind": "item",
+      "label": "Planar stabilizing mechanism",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0549",
+            "endUid": "u0569"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0599",
+            "endUid": "u0630"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1929",
+            "endUid": "u1934"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2081",
+            "endUid": "u2112"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "Its repair and planar function establish a distinct plot object beyond the engine complex’s use as a setting."
+    },
+    {
+      "id": "e016",
+      "kind": "divine",
+      "label": "Zeyfa / the West Wind",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0650",
+            "endUid": "u0667"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1399",
+            "endUid": "u1401"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "West Wind"
+      ],
+      "note": "Gods and Religions/Gods/Kestavo/Zeyfa.md"
+    },
+    {
+      "id": "e017",
+      "kind": "divine",
+      "label": "Kestavo",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1402",
+            "endUid": "u1411"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1890",
+            "endUid": "u1890"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Religions/Northern Folk Religions/Kestavo.md"
+    },
+    {
+      "id": "e018",
+      "kind": "organization",
+      "label": "Vejo Vaikai",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1965",
+            "endUid": "u1973"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2089",
+            "endUid": "u2094"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Vejo Vaikai.md"
+    },
+    {
+      "id": "e019",
+      "kind": "organization",
+      "label": "Melusan dissidents",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0716",
+            "endUid": "u0719"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1003",
+            "endUid": "u1007"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1102",
+            "endUid": "u1127"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1302",
+            "endUid": "u1312"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Melusan resistance",
+        "dissent group"
+      ],
+      "confidenceExplanation": "Their prior opposition, hideout and allies suggest a continuing dissident circle, though the source gives it no formal organizational name."
+    },
+    {
+      "id": "e020",
+      "kind": "organization",
+      "label": "Kenku of Kemeko",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2008",
+            "endUid": "u2008"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2021",
+            "endUid": "u2025"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2079",
+            "endUid": "u2080"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gazetteer/Greater Sembara/Zimkova/Kemeko Monastery.md"
+    },
+    {
+      "id": "e021",
+      "kind": "organization",
+      "label": "Ravager of Winter’s horde",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0215",
+            "endUid": "u0222"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e022",
+      "kind": "npc",
+      "label": "Giant ice wolf",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0873",
+            "endUid": "u0874"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1063",
+            "endUid": "u1068"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "A particular enormous palace guardian is recognized in its shattered remains and Zahara’s report, rather than an anonymous creature type."
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Portal wisps",
+      "reason": "Anonymous creatures resolved collectively as a swarm, without individual identities or an independently established organization.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0855",
+            "endUid": "u0872"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1485",
+            "endUid": "u1486"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1865",
+            "endUid": "u1873"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Finnan’s summoned Tricksy fey",
+      "reason": "A routine spell summon with temporary tactics and a brief taunt, without an ongoing companion identity beyond this ability activation.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1514",
+            "endUid": "u1521"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1661",
+            "endUid": "u1670"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1827",
+            "endUid": "u1847"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Eolo’s metal-seeking bolts",
+      "reason": "Routine testing of existing PC ammunition; the brief reminder of its earlier origin does not establish a new acquisition or original item lore here.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0104",
+            "endUid": "u0109"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0149",
+            "endUid": "u0151"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Justas’s magical shield",
+      "reason": "Routine use of existing PC equipment and standard Channel Divinity recovery, with no separate acquisition or in-world item history.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1504",
+            "endUid": "u1506"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1882",
+            "endUid": "u1889"
+          }
+        }
+      ]
+    },
+    {
+      "label": "The party’s rope and the Ladder",
+      "reason": "Ordinary rescue equipment and cross-campaign jokes do not establish an NPC companion in Into the Chasm; the Dunmari Frontier exception does not apply.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0771",
+            "endUid": "u0788"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1500",
+            "endUid": "u1503"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2119",
+            "endUid": "u2129"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Riswynn and Delwath",
+      "reason": "Out-of-character cross-campaign comparisons supply no substantive current-world encounter or discussion of these individuals.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0201",
+            "endUid": "u0205"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2081",
+            "endUid": "u2088"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Ash-portal fist and the unvisited engine-room elemental",
+      "reason": "The fist is a brief unidentified planar hazard; the elemental is described as an unplayed possible fight. Neither receives a distinct individual identity in this session.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1063",
+            "endUid": "u1068"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2099",
+            "endUid": "u2105"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2140",
+            "endUid": "u2152"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Melusa and the refugee crowd",
+      "reason": "The settlement and its residents do not by themselves constitute an organization. The separately evidenced dissident circle is retained.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1364",
+            "endUid": "u1371"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1936",
+            "endUid": "u1945"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Final young evacuee",
+      "reason": "The last runner is individuated only by the successful escape; no distinct character identity beyond that event is established.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1907",
+            "endUid": "u1913"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Stoneborn",
+      "reason": "A generic species reference in a proposed explanation of the orcs’ route, without a named company or distinguishable individual.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1998",
+            "endUid": "u2002"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Broken rods, gears, supplies and scavenged cloak",
+      "reason": "Ordinary debris and equipment are incidental; the plot-significant keystone and stabilizer are retained separately.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0129",
+            "endUid": "u0134"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0218",
+            "endUid": "u0225"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0474",
+            "endUid": "u0488"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "Campaigns/One Shots/Into the Chasm/Into the Chasm - People, Places, and Organizations.md",
+    "People/PCs/Other PCs/Tollen Misfits/Tarek.md"
+  ]
+}
