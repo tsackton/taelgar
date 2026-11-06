@@ -16,6 +16,7 @@
       "kind": "npc",
       "label": "Faldrak",
       "importance": "cameo",
+      "note": "People/Dwarves/Faldrak Bronzehammer.md",
       "occurrences": [
         {
           "source": {
@@ -32,19 +33,27 @@
             "startUid": "u0289",
             "endUid": "u0295"
           }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0324",
+            "endUid": "u0328"
+          }
         }
       ],
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Dwarves/Faldrak Bronzehammer.md"
+      }
     },
     {
       "id": "e002",
       "kind": "npc",
       "label": "Lady Eventide",
       "importance": "supporting",
+      "note": "People/Fey/Lady Eventide.md",
       "occurrences": [
         {
           "source": {
@@ -98,14 +107,16 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Fey/Lady Eventide.md"
+      }
     },
     {
       "id": "e003",
       "kind": "item",
       "label": "Cloudspinner’s thread",
       "importance": "cameo",
+      "names": [
+        "thread"
+      ],
       "occurrences": [
         {
           "source": {
@@ -135,24 +146,24 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "confidenceExplanation": "The recalled bargain establishes this particular thread; no standalone note is linked.",
-      "names": [
-        "thread"
-      ]
+      }
     },
     {
       "id": "e004",
       "kind": "npc",
       "label": "Cloudspinner",
       "importance": "cameo",
+      "note": "People/Extraplanar Powers/Archfey/Cloudspinner.md",
+      "names": [
+        "Queen of Sunsets"
+      ],
       "occurrences": [
         {
           "source": {
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
             "startUid": "u0083",
-            "endUid": "u0127"
+            "endUid": "u0123"
           }
         },
         {
@@ -199,17 +210,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Extraplanar Powers/Archfey/Cloudspinner.md",
-      "names": [
-        "Queen of Sunsets"
-      ]
+      }
     },
     {
       "id": "e005",
       "kind": "npc",
       "label": "Harrow",
       "importance": "cameo",
+      "note": "People/Extraplanar Powers/Archfey/Harrow.md",
       "occurrences": [
         {
           "source": {
@@ -247,14 +255,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Extraplanar Powers/Archfey/Harrow.md"
+      }
     },
     {
       "id": "e006",
       "kind": "npc",
       "label": "Wend",
       "importance": "cameo",
+      "note": "People/Extraplanar Powers/Archfey/Wend.md",
       "occurrences": [
         {
           "source": {
@@ -292,14 +300,17 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Extraplanar Powers/Archfey/Wend.md"
+      }
     },
     {
       "id": "e007",
       "kind": "item",
       "label": "Cloudspinner’s crystal prison",
       "importance": "cameo",
+      "names": [
+        "prism",
+        "giant chunk of crystal shard"
+      ],
       "occurrences": [
         {
           "source": {
@@ -329,17 +340,17 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "names": [
-        "prism",
-        "giant chunk of crystal shard"
-      ]
+      }
     },
     {
       "id": "e008",
       "kind": "item",
       "label": "Cloak of Rainbows",
       "importance": "cameo",
+      "note": "Things/Artifacts of Power/Cloak of Rainbows.md",
+      "names": [
+        "Cloudspinner’s cloak"
+      ],
       "occurrences": [
         {
           "source": {
@@ -361,17 +372,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "Things/Artifacts of Power/Cloak of Rainbows.md",
-      "names": [
-        "Cloudspinner’s cloak"
-      ]
+      }
     },
     {
       "id": "e009",
       "kind": "item",
       "label": "The Lore of the Feywild",
       "importance": "cameo",
+      "note": "Things/Books/The Lore of the Feywild.md",
       "occurrences": [
         {
           "source": {
@@ -393,14 +401,17 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "Things/Books/The Lore of the Feywild.md"
+      }
     },
     {
       "id": "e010",
       "kind": "npc",
       "label": "Prince of Luck",
       "importance": "cameo",
+      "note": "People/Extraplanar Powers/Archfey/Prince of Luck.md",
+      "names": [
+        "Chance Weaver"
+      ],
       "occurrences": [
         {
           "source": {
@@ -422,17 +433,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Extraplanar Powers/Archfey/Prince of Luck.md",
-      "names": [
-        "Chance Weaver"
-      ]
+      }
     },
     {
       "id": "e011",
       "kind": "npc",
       "label": "Lirien",
       "importance": "cameo",
+      "note": "People/Fey/Lirien.md",
       "occurrences": [
         {
           "source": {
@@ -486,14 +494,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Fey/Lirien.md"
+      }
     },
     {
       "id": "e012",
       "kind": "npc",
       "label": "Ulfgar",
       "importance": "cameo",
+      "note": "People/Dwarves/Ulfgar Frostbeard.md",
       "occurrences": [
         {
           "source": {
@@ -507,14 +515,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Dwarves/Ulfgar Frostbeard.md"
+      }
     },
     {
       "id": "e013",
       "kind": "npc",
       "label": "Tarviel",
       "importance": "cameo",
+      "note": "People/Fey/Tarviel.md",
       "occurrences": [
         {
           "source": {
@@ -528,14 +536,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Fey/Tarviel.md"
+      }
     },
     {
       "id": "e014",
       "kind": "npc",
       "label": "Book-snatching satyr",
       "importance": "supporting",
+      "confidenceExplanation": "The recurring unnamed satyr is distinct from Tarviel at introduction; intervening group dialogue is not always individually attributed.",
       "occurrences": [
         {
           "source": {
@@ -565,14 +573,14 @@
       "review": {
         "confidence": "medium",
         "status": "automatedReviewed"
-      },
-      "confidenceExplanation": "The recurring unnamed satyr is distinct from Tarviel at introduction; intervening group dialogue is not always individually attributed."
+      }
     },
     {
       "id": "e015",
       "kind": "item",
       "label": "Lirien’s lantern",
       "importance": "cameo",
+      "note": "Gazetteer/Extraplanar/Feywild/Amberglow/Amberlight.md",
       "occurrences": [
         {
           "source": {
@@ -586,14 +594,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "Gazetteer/Extraplanar/Feywild/Amberglow/Amberlight.md"
+      }
     },
     {
       "id": "e016",
       "kind": "npc",
       "label": "Shadowy hunter from beyond the Sunset Gate",
       "importance": "cameo",
+      "confidenceExplanation": "The source distinguishes a specific previous pursuer by its lantern, but inclusion as an individual remains borderline because no personal identity or vault match is established.",
       "occurrences": [
         {
           "source": {
@@ -607,14 +615,14 @@
       "review": {
         "confidence": "medium",
         "status": "automatedReviewed"
-      },
-      "confidenceExplanation": "A specific previous pursuer is distinguished by its shadow-twisted lantern, but no personal identity is established."
+      }
     },
     {
       "id": "e017",
       "kind": "item",
       "label": "Shadow-twisted lantern",
       "importance": "cameo",
+      "confidenceExplanation": "A second physical lantern is kept separate from Lirien’s; the shared Amberlight type does not make the objects identical.",
       "occurrences": [
         {
           "source": {
@@ -628,14 +636,15 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "confidenceExplanation": "A second physical lantern is kept separate from Lirien’s; the shared Amberlight type does not make the objects identical."
+      }
     },
     {
       "id": "e018",
       "kind": "npc",
       "label": "Barge master",
       "importance": "supporting",
+      "note": "People/Fey/Aenaphos.md",
+      "identifiedLater": true,
       "occurrences": [
         {
           "source": {
@@ -657,15 +666,19 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Fey/Aenaphos.md",
-      "identifiedLater": true
+      }
     },
     {
       "id": "e019",
       "kind": "npc",
       "label": "Golden Prince",
       "importance": "cameo",
+      "note": "People/Extraplanar Powers/Archfey/Prince Aurelian.md",
+      "names": [
+        "Prince Aurelian",
+        "Hearthkeeper",
+        "Lord of Everlight’s Bloom"
+      ],
       "occurrences": [
         {
           "source": {
@@ -703,19 +716,18 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Extraplanar Powers/Archfey/Prince Aurelian.md",
-      "names": [
-        "Prince Aurelian",
-        "Hearthkeeper",
-        "Lord of Everlight’s Bloom"
-      ]
+      }
     },
     {
       "id": "e020",
       "kind": "npc",
       "label": "Typhina",
       "importance": "cameo",
+      "confidenceExplanation": "The brief claim of friendship does not distinguish the real Typhina from Agata’s impersonation or a player joke.",
+      "candidates": [
+        "People/Fey/Typhina.md",
+        "People/Fey/Agata.md"
+      ],
       "occurrences": [
         {
           "source": {
@@ -729,18 +741,14 @@
       "review": {
         "confidence": "low",
         "status": "automatedReviewed"
-      },
-      "confidenceExplanation": "The brief claim of friendship does not distinguish the real Typhina from Agata’s impersonation or a player joke.",
-      "candidates": [
-        "People/Fey/Typhina.md",
-        "People/Fey/Agata.md"
-      ]
+      }
     },
     {
       "id": "e021",
       "kind": "organization",
       "label": "Society of Multiversal Geographers",
       "importance": "cameo",
+      "confidenceExplanation": "Seeker names a report recipient, but the transcript does not clarify whether this is an established society or an improvised joke.",
       "occurrences": [
         {
           "source": {
@@ -754,14 +762,14 @@
       "review": {
         "confidence": "low",
         "status": "automatedReviewed"
-      },
-      "confidenceExplanation": "Seeker names a report recipient, but the transcript does not clarify whether this is an established society or an improvised joke."
+      }
     },
     {
       "id": "e022",
       "kind": "npc",
       "label": "Auntie Mulberry",
       "importance": "star",
+      "note": "People/Fey/Auntie Mulberry.md",
       "occurrences": [
         {
           "source": {
@@ -815,14 +823,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Fey/Auntie Mulberry.md"
+      }
     },
     {
       "id": "e023",
       "kind": "npc",
       "label": "Grash",
       "importance": "cameo",
+      "note": "People/Other Nonhumans/Grash.md",
       "occurrences": [
         {
           "source": {
@@ -836,14 +844,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Other Nonhumans/Grash.md"
+      }
     },
     {
       "id": "e024",
       "kind": "divine",
       "label": "Thark",
       "importance": "cameo",
+      "note": "Gods and Religions/Gods/Embodied Gods/Thark.md",
       "occurrences": [
         {
           "source": {
@@ -857,14 +865,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "Gods and Religions/Gods/Embodied Gods/Thark.md"
+      }
     },
     {
       "id": "e025",
       "kind": "organization",
       "label": "Free orcs",
       "importance": "cameo",
+      "note": "Groups/Orc Hordes/People of the Rainbow.md",
       "occurrences": [
         {
           "source": {
@@ -878,14 +886,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "Groups/Orc Hordes/People of the Rainbow.md"
+      }
     },
     {
       "id": "e026",
       "kind": "item",
       "label": "Universal solvent",
       "importance": "cameo",
+      "note": "Things/Magic Items/Universal Solvent.md",
       "occurrences": [
         {
           "source": {
@@ -899,14 +907,14 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "Things/Magic Items/Universal Solvent.md"
+      }
     },
     {
       "id": "e027",
       "kind": "item",
       "label": "The ring dissolved by Wellby",
       "importance": "cameo",
+      "note": "Things/Artifacts of Power/Ring of Undying.md",
       "occurrences": [
         {
           "source": {
@@ -920,14 +928,16 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "Things/Artifacts of Power/Ring of Undying.md"
+      }
     },
     {
       "id": "e028",
       "kind": "npc",
       "label": "Refugee from Cloudspinner’s Court",
       "importance": "cameo",
+      "note": "People/Fey/Count Vashan.md",
+      "confidenceExplanation": "The former Cloudspinner courtier at Sunwine Hall fits Vashan’s public biography, but the transcript leaves the refugee unnamed and does not confirm that identity.",
+      "identifiedLater": true,
       "occurrences": [
         {
           "source": {
@@ -957,16 +967,18 @@
       "review": {
         "confidence": "medium",
         "status": "automatedReviewed"
-      },
-      "note": "People/Fey/Count Vashan.md",
-      "confidenceExplanation": "Vashan fits the former courtier at Sunwine Hall, but this session neither names nor meets the refugee.",
-      "identifiedLater": true
+      }
     },
     {
       "id": "e029",
       "kind": "npc",
       "label": "Lord Soven",
       "importance": "cameo",
+      "note": "People/Extraplanar Powers/Archfey/Lord Soven.md",
+      "names": [
+        "Master of the Revels",
+        "Master of Revels"
+      ],
       "occurrences": [
         {
           "source": {
@@ -996,18 +1008,15 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "note": "People/Extraplanar Powers/Archfey/Lord Soven.md",
-      "names": [
-        "Master of the Revels",
-        "Master of Revels"
-      ]
+      }
     },
     {
       "id": "e030",
       "kind": "npc",
       "label": "Lord Egan",
       "importance": "cameo",
+      "note": "People/Extraplanar Powers/Archfey/Lightdancer.md",
+      "confidenceExplanation": "The archfey context and Egon alias favor Lightdancer, but Egan could still be a different referent or an unresolved source spelling.",
       "occurrences": [
         {
           "source": {
@@ -1021,15 +1030,14 @@
       "review": {
         "confidence": "medium",
         "status": "automatedReviewed"
-      },
-      "note": "People/Extraplanar Powers/Archfey/Lightdancer.md",
-      "confidenceExplanation": "The archfey context and Egon alias favor Lightdancer, but the session uses Egan without naming the domain."
+      }
     },
     {
       "id": "e031",
       "kind": "item",
       "label": "Auntie Mulberry’s bird whistle",
       "importance": "cameo",
+      "confidenceExplanation": "A particular wayfinding instrument directs the party; the transcript does not establish a transfer of ownership.",
       "occurrences": [
         {
           "source": {
@@ -1043,8 +1051,7 @@
       "review": {
         "confidence": "high",
         "status": "automatedReviewed"
-      },
-      "confidenceExplanation": "A particular wayfinding instrument directs the party; the transcript does not establish a transfer of ownership."
+      }
     },
     {
       "id": "e032",
@@ -1057,7 +1064,7 @@
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
             "startUid": "u0825",
-            "endUid": "u0839"
+            "endUid": "u0827"
           }
         },
         {

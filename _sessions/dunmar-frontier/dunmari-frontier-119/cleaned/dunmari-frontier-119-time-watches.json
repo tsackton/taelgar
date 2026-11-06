@@ -1,0 +1,89 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-time-markers.json",
+    "sha256": "9a235baac0dd8896044ad8f02540793dd74f43c78df27634ed3c9ab6b5a59a8c"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-transcript.md",
+    "sha256": "887e839d845949159140c51dc96149b79cd621efec8e0cbabc1e19016e970a35"
+  },
+  "dateAssessment": "The working calendar is May 30–31, 1749 from YAML; session 119 independently states no civil date or midnight transition, so its time extraction remains compatible but unverified. Session 118 u2336–u2342 already narrates the overnight journey, long-rest credit and arrival at Bitterwine Oak before nightfall; session 119 u0005–u0010 resumes that arrival. Dusk can therefore be carried into the opening, but its civil date remains open: session 118’s YAML ends May 30 while the dated session-119 record places arrival on May 31. No additional rest is established by the sheet reset at u0332–u0334. The table retains local stationary light and actual elapsed evidence without assigning later Feywild events a watch or filling the YAML interval.",
+  "watches": [
+    {
+      "day": "Emberwine — stationary local light",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "summary": "Golden afternoon/evening light remains unchanged; its appearance supplies no civil watch.",
+      "markers": [
+        "t01"
+      ],
+      "scope": "lighting"
+    },
+    {
+      "day": "Emberwine — river arrival",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "adventure",
+      "summary": "An unmeasured walk ends at the riverbank.",
+      "markers": [
+        "t02"
+      ]
+    },
+    {
+      "day": "Emberwine — barge approach",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "adventure",
+      "summary": "The party waits a few moments for the barge.",
+      "markers": [
+        "t03"
+      ]
+    },
+    {
+      "day": "Emberwine — walking beside the river",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "adventure",
+      "summary": "Time passes during walking; the suggested 10% difference is hypothetical.",
+      "markers": [
+        "t04"
+      ]
+    },
+    {
+      "day": "Emberwine — cottage waits",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "adventure",
+      "summary": "About a minute after knocking; another narrated minute passes while Auntie washes.",
+      "markers": [
+        "t05",
+        "t06"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 118 handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-transcript.md",
+      "sha256": "1fcf1567a1aadfa3c28d1092ee3639ab977412faa6eb875eb3b0d2d4cef91002"
+    },
+    {
+      "label": "Session 118 dates",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-session.yaml",
+      "sha256": "1fedd317881e1e48d9efa6b866005c2cc307c864b1a256341454444dc950ccbc"
+    },
+    {
+      "label": "Dated session 119 record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 119 (DuFr).md",
+      "sha256": "f51b6efe3c70fe080eef7b2a89ccbf47008ef6de0e12b1d0128e6542c541f311"
+    }
+  ]
+}
