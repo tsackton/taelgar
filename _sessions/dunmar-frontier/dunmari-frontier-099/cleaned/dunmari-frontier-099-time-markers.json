@@ -1,0 +1,728 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-099",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-099/cleaned/dunmari-frontier-099-session.yaml",
+    "sessionYamlSha256": "6769489a328c2849ec19fd60a38de5720fb11ce93f889df246a5ad7682606681",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-099/cleaned/dunmari-frontier-099-transcript.md",
+    "transcriptSha256": "b4ec24952c03817267fe4a1293c561926e21753af9256b130b64ea86d7a84a5b",
+    "yamlDates": {
+      "start": "1749-05-08",
+      "end": "1749-05-11"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0013"
+      },
+      "reading": "The harbor map meeting opens pre-dawn, corrected to 4 a.m.; the party has just woken.",
+      "time": {
+        "precision": "approximate",
+        "basis": "DM corrects 3 to 4 in the morning; explicitly just woken",
+        "partOfDay": "pre-dawn",
+        "clock": "04:00"
+      },
+      "note": "The opening recap’s previous three days from Nevium belong to prior play, rather than an additional current-session advance. The opening says 21 days until Apollyon; website editing at u0084–u0100 and Kenzo’s 25/23 at u0746–u0757 do not settle a replacement countdown.",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0013",
+          "quote": "it is pre-dawn in the harbor of the port town of Castrella."
+        },
+        {
+          "startUid": "u0133",
+          "endUid": "u0134",
+          "quote": "DM: It's what time? It's 3 in the morning— 4 in the morning."
+        },
+        {
+          "startUid": "u0136",
+          "endUid": "u0136",
+          "quote": "DM: No, you've just woken up."
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0282",
+        "endUid": "u0290"
+      },
+      "reading": "The party sets sail before sunrise on the outgoing tide.",
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "pre-dawn"
+      },
+      "evidence": [
+        {
+          "startUid": "u0282",
+          "endUid": "u0290",
+          "quote": "DM: Okay, so you set sail, still in the dark, the sun not yet cracking above the horizon, as you begin to pick up speed, catching the outgoing tide, which runs pretty fast out of this— out of this bay. That's why you're up so early is to get the departing tide. So you managed to make a good clip on the Summer's Breeze."
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0291",
+        "endUid": "u0301"
+      },
+      "reading": "Summer’s Breeze reaches the midpoint of Castrella Bay at about 5 a.m.",
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "pre-dawn",
+        "clock": "05:00"
+      },
+      "evidence": [
+        {
+          "startUid": "u0291",
+          "endUid": "u0301",
+          "quote": "maybe reaching the midpoint of the, of this long Castrella Bay by— by 5 AM"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0291",
+        "endUid": "u0301"
+      },
+      "reading": "Rounding the tip is revised from 7 a.m. to about 8 a.m.",
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "morning",
+        "clock": "08:00"
+      },
+      "note": "The rough hours-after-departure arithmetic is not consistent enough to supply an additional measured duration; retain the final clock estimate.",
+      "evidence": [
+        {
+          "startUid": "u0291",
+          "endUid": "u0301",
+          "quote": "rounding the tip by 7 AM, about 4 h after you— maybe, maybe 5 h, 8 AM."
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0302",
+        "endUid": "u0311"
+      },
+      "reading": "The ship reaches the channel by about 9 a.m.",
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "morning",
+        "clock": "09:00"
+      },
+      "evidence": [
+        {
+          "startUid": "u0302",
+          "endUid": "u0311",
+          "quote": "by 9, you've made your way into this channel,"
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0331",
+        "endUid": "u0342"
+      },
+      "reading": "By noon the party is near Calcara’s western tip and Kenzo meditates.",
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "noon",
+        "clock": "12:00"
+      },
+      "evidence": [
+        {
+          "startUid": "u0331",
+          "endUid": "u0342",
+          "quote": "By noon or so you've reached— you've reached here. You've reached fairly close to the to the tip, and western tip of the island,"
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0359",
+        "endUid": "u0365"
+      },
+      "reading": "Guided by Kenzo, the ship takes another hour to round the point toward the caves.",
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0359",
+          "endUid": "u0365",
+          "quote": "Takes another hour to sort of round that point."
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0391",
+        "endUid": "u0398"
+      },
+      "reading": "The cave inspection occurs at low tide.",
+      "time": {
+        "precision": "approximate",
+        "basis": "DM states current tidal phase; no extra clock reading",
+        "partOfDay": "low tide"
+      },
+      "evidence": [
+        {
+          "startUid": "u0391",
+          "endUid": "u0398",
+          "quote": "It's now low tide."
+        }
+      ]
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u0441",
+        "endUid": "u0445"
+      },
+      "reading": "Wellby spends a few minutes watching before calling over a gannet.",
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "narrated watching interval"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0441",
+          "endUid": "u0445",
+          "quote": "DM: Okay, so you— yeah, I mean, you watch for a few minutes until you see gannet diving for fish close to the boat, kind of call it over and ask telepathically about large creatures."
+        },
+        {
+          "startUid": "u0428",
+          "endUid": "u0433",
+          "quote": "it's May, so the nesting gannets are beginning to gather."
+        }
+      ],
+      "time": {
+        "date": {
+          "month": 5
+        },
+        "precision": "approximate",
+        "basis": "DM states May for the present cave-coast scene; no month day is spoken"
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1412",
+        "endUid": "u1417"
+      },
+      "reading": "The party departs Kazuro at about 3 p.m.",
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "afternoon",
+        "clock": "15:00"
+      },
+      "evidence": [
+        {
+          "startUid": "u1412",
+          "endUid": "u1417",
+          "quote": "So as you depart, it's now, like, probably 3 in the afternoon,"
+        }
+      ]
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u1494",
+        "endUid": "u1502"
+      },
+      "reading": "The rest of the departure evening is spent sailing northwest.",
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "evening"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1494",
+          "endUid": "u1502",
+          "quote": "DM: The, the first day— the, the rest of this evening, you sail under— under clear skies, light winds. The halflings put on all the sails, and you watch the spray, you know, spray from the bow of the ship as you race northwest, cutting a as straight as possible a path, so sort of heading out into the gulf a little to avoid curve of the coastline."
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u1509",
+        "endUid": "u1513"
+      },
+      "reading": "The following sunrise finds the ship in open ocean with no land in sight.",
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "sunrise"
+      },
+      "dateBoundaries": 1,
+      "evidence": [
+        {
+          "startUid": "u1509",
+          "endUid": "u1513",
+          "quote": "DM: The sun rises in the middle of the open ocean. No land in sight anywhere. Somebody else rolled a d. 20, a day."
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1515",
+        "endUid": "u1522"
+      },
+      "reading": "By mid-afternoon the ship passes Sarvia off Raziolo and turns through the islands.",
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "mid-afternoon"
+      },
+      "evidence": [
+        {
+          "startUid": "u1515",
+          "endUid": "u1522",
+          "quote": "DM: The winds continuing and favorable as the sun rises and you pass by mid-afternoon, off the coast of the Raziolo, this other province that you— you know, passing this headlands or this town of Sarvia, it is, and veering a little bit more westerly to navigate through this channel between the islands."
+        }
+      ]
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1523",
+        "endUid": "u1538"
+      },
+      "reading": "Night falls after the favorable sailing day; the DM also recaps the 24-hour, 3 p.m. point.",
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "nightfall"
+      },
+      "note": "The fragment “3 PM, 10 again” is not a clear independent calendar date; it occurs amid travel arithmetic and does not override the ordered sunrise/night narration.",
+      "evidence": [
+        {
+          "startUid": "u1523",
+          "endUid": "u1532",
+          "quote": "DM: As— at night falls, halflings in good spirits, Martino, pointing out landmarks, used to sail as far as there's apparently great fishing just up here where he used to go in his youth, the weather holding— no— seasonable winds through the night."
+        },
+        {
+          "startUid": "u1533",
+          "endUid": "u1538",
+          "quote": "DM: So this would be— so that would be 24 h would be 3 PM, 10 again. So, 3 P..."
+        }
+      ]
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1539",
+        "endUid": "u1548"
+      },
+      "reading": "A second sunrise occurs during the voyage toward Tamaro Bay.",
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "sunrise"
+      },
+      "dateBoundaries": 1,
+      "evidence": [
+        {
+          "startUid": "u1539",
+          "endUid": "u1540",
+          "quote": "DM: Okay, as the sun rises the next day, can somebody else roll the d. 20?"
+        },
+        {
+          "startUid": "u1544",
+          "endUid": "u1548",
+          "quote": "DM: Okay, good weather persists as the sun— as the sun rises in this— around this channel."
+        }
+      ]
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u1549",
+        "endUid": "u1555"
+      },
+      "reading": "Shortly before lunchtime, the ship rounds the point into heavier seas.",
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "before lunchtime"
+      },
+      "evidence": [
+        {
+          "startUid": "u1549",
+          "endUid": "u1555",
+          "quote": "DM: And by lunchtime or so, you're— you're rounding— a, a little before lunchtime, you're rounding the point. The waves pick up. Now you're— now you're going a bit slower because the seas are heavy. You're looking out now across the endless ocean into the west, as far as you know, the wire."
+        }
+      ]
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u1563",
+        "endUid": "u1574"
+      },
+      "reading": "The ship reaches the island off Tamaro Bay in mid-afternoon, a little more than 48 hours after departure.",
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "mid-afternoon"
+      },
+      "duration": {
+        "min": 48,
+        "minInclusive": false,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM corrects 24 to 48 hours and says a little more; same aggregate voyage as t11–t16"
+      },
+      "completion": "completed",
+      "note": "The duration includes the two voyage overnights already counted at t12 and t15; it adds no third transition. The moon is reported close to new here, then explicitly new at t22.",
+      "evidence": [
+        {
+          "startUid": "u1563",
+          "endUid": "u1574",
+          "quote": "DM: You turn and, and sail now for Tamaro Bay. And by mid-afternoon a little bit more than 24 h— than 48 h after you left the coast, relatively uneventfully traveling, you can see the crashing waves of this island here ahead of you, and you've got to make some decisions about navigation now. Are you heading west? Are you heading in for the bay? Are you heading to the island?"
+        },
+        {
+          "startUid": "u1666",
+          "endUid": "u1668",
+          "quote": "Wellby: What's the moon phase we're in today, Tim?\n\nDM: It is very close to new."
+        }
+      ]
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u1757",
+        "endUid": "u1767"
+      },
+      "reading": "The party takes a couple of minutes to fly from the ship toward the island structure.",
+      "duration": {
+        "value": 2,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "narrated “couple of minutes” flight estimate"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1757",
+          "endUid": "u1767",
+          "quote": "it takes you a couple of minutes to fly."
+        }
+      ]
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u1883",
+        "endUid": "u1891"
+      },
+      "reading": "The four walkers follow the island trail to the dunes in about fifteen minutes.",
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Riswynn",
+        "Seeker"
+      ],
+      "duration": {
+        "value": 15,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM establishes walking pace and narrates the completed walk"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1883",
+          "endUid": "u1885",
+          "quote": "DM: So it takes, you know, not very long to walk a mile, 15 min at a good brisk pace."
+        },
+        {
+          "startUid": "u1886",
+          "endUid": "u1891",
+          "quote": "DM: You follow a trail, and you and you see the trail sort of winds across the top, and then it does like a series of kind of meandering switchbacks down to the dunes, to the beach, and, and you see, this man doesn't really seem to be noticing you. He sort of glance around occasionally. He's, like, waving his hand to bat something away and seems to be humming under his breath."
+        }
+      ]
+    },
+    {
+      "id": "t28",
+      "source": {
+        "startUid": "u2065",
+        "endUid": "u2069"
+      },
+      "reading": "The table gives conflicting elapsed estimates for the telepathy link during Dorian’s encounter: eight minutes, one minute, then twelve minutes.",
+      "note": "No settled offset or usable starting point is established; do not add these alternatives as separate elapsed intervals.",
+      "evidence": [
+        {
+          "startUid": "u2065",
+          "endUid": "u2069",
+          "quote": "Delwath: I actually don't know if there's— I'm gonna— I'm gonna explain. Do we have a telepathy link up? We do, cause it's only been 8 min.\n\nDM: It's only 1 min.\n\nSeeker: Nice.\n\nDM: 12 min. Yeah."
+        }
+      ]
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u2485",
+        "endUid": "u2497"
+      },
+      "reading": "Delwath casts Scrying for ten minutes while Seeker examines the vial and the others search.",
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "explicit casting duration followed by resolved attempt"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2485",
+          "endUid": "u2486",
+          "quote": "Delwath: 10 min to cast, well, the perceptive people go about being perceptive."
+        },
+        {
+          "startUid": "u2494",
+          "endUid": "u2497",
+          "quote": "DM: Right? You do— okay, well, Delwath's scrying, Seeker's examining the vial. What are the rest of you doing? Searching?"
+        },
+        {
+          "startUid": "u2532",
+          "endUid": "u2532",
+          "quote": "DM: Your scry does not work."
+        }
+      ]
+    },
+    {
+      "id": "t21",
+      "source": {
+        "startUid": "u2742",
+        "endUid": "u2747"
+      },
+      "reading": "During Dorian’s final recollections, sunset is still about two hours away.",
+      "time": {
+        "precision": "approximate",
+        "basis": "sun declining, DM settles on two hours until sunset",
+        "partOfDay": "late afternoon"
+      },
+      "evidence": [
+        {
+          "startUid": "u2742",
+          "endUid": "u2747",
+          "quote": "DM: Sighs and, and sits down again, and sort of looks at the sun, which is now kind of drifting down towards the horizon, but still a few hours from sunset, probably, like, 2 or 3 h, 2 h from sunset."
+        }
+      ]
+    },
+    {
+      "id": "t29",
+      "source": {
+        "startUid": "u2813",
+        "endUid": "u2825"
+      },
+      "reading": "The party spends a few minutes asking Dorian about merfolk etiquette before departure.",
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "proposed brief inquiry is accepted and resolved by the DM"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2810",
+          "endUid": "u2814",
+          "quote": "Delwath: Swim above them, or, like, you know. Not that I'm not suggesting we, like, role play it out, since...\n\nDM: Yeah.\n\nDelwath: But, but, like, it's worth spending a few minutes just, like...\n\nRiswynn: What does he remember?"
+        },
+        {
+          "startUid": "u2819",
+          "endUid": "u2825",
+          "quote": "DM: Yes, you— you get a basic sense of, like, merfolk etiquette, you know. This guy clearly has spent time with merfolk, and, like used to speak with them fairly regularly and, like, gives you a whole rundown about, like, basics of, like, how to be polite among merfolk and things like that, but also keep sort of repeating, like, you know, things seem different now."
+        }
+      ]
+    },
+    {
+      "id": "t22",
+      "source": {
+        "startUid": "u2870",
+        "endUid": "u2876"
+      },
+      "reading": "The party returns to Summer’s Breeze around 4:30 p.m., with about an hour and a half of sunlight; today is new moon.",
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "afternoon",
+        "clock": "16:30"
+      },
+      "note": "An hour-long short rest was proposed at u2659–u2667, but neither completion nor rest benefits are established. Do not add that proposal as another elapsed hour.",
+      "evidence": [
+        {
+          "startUid": "u2870",
+          "endUid": "u2876",
+          "quote": "DM: And you, you return to the boat around 4 30. So with maybe an hour and a half of sunlight. There is a new moon today, so it will be dark by the time when the sun sets."
+        }
+      ]
+    },
+    {
+      "id": "t23",
+      "source": {
+        "startUid": "u2890",
+        "endUid": "u2902"
+      },
+      "reading": "Sailing west, the ship covers roughly twenty miles by sunset.",
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "sunset"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2890",
+          "endUid": "u2902",
+          "quote": "DM: So you start sailing west. Yeah, sunsets, sailing. There's a— so it was tough going tacking sort of southwest, but— but going west is is easier because you're now running before the wind. And you go, you know, you maybe manage to go 20 miles or so before— before as the sun sets. It's a beautiful sunset."
+        }
+      ]
+    },
+    {
+      "id": "t24",
+      "source": {
+        "startUid": "u2921",
+        "endUid": "u2925"
+      },
+      "reading": "By midnight the ship is perhaps fifty miles from the island.",
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "midnight",
+        "clock": "00:00"
+      },
+      "dateBoundaries": 1,
+      "note": "Civil midnight follows the island afternoon; the intermediate “another 20 miles” and total “maybe 50 miles” remain approximate, not an exact distance ledger.",
+      "evidence": [
+        {
+          "startUid": "u2921",
+          "endUid": "u2925",
+          "quote": "DM: Hours— another 20 miles by midnight. You've gone maybe 50 miles from the island by..."
+        }
+      ]
+    },
+    {
+      "id": "t25",
+      "source": {
+        "startUid": "u2933",
+        "endUid": "u2947"
+      },
+      "reading": "Early in the morning, Kenzo is on watch while most companions sleep and senses the jade.",
+      "actors": [
+        "Kenzo"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "early morning"
+      },
+      "note": "Sleeping is established for most others; no completed eight-hour long rest or additional night is stated.",
+      "evidence": [
+        {
+          "startUid": "u2933",
+          "endUid": "u2940",
+          "quote": "DM: Early, early in the morning, as Kenzo's, you know, at watch, most of the rest of you are sleeping, you start to feel the tug of the jade."
+        },
+        {
+          "startUid": "u2944",
+          "endUid": "u2947",
+          "quote": "DM: Like you're getting close, but also that it is incredibly far away at the same time. Almost impossible, it is. It is both within 50 miles and an infinite distance away."
+        }
+      ]
+    },
+    {
+      "id": "t26",
+      "source": {
+        "startUid": "u2956",
+        "endUid": "u2966"
+      },
+      "reading": "As dawn breaks, the ship reaches the dead calm west of Tamaro Bay.",
+      "time": {
+        "precision": "approximate",
+        "basis": "stated by the DM",
+        "partOfDay": "dawn"
+      },
+      "evidence": [
+        {
+          "startUid": "u2956",
+          "endUid": "u2966",
+          "quote": "DM: Begin sailing again, as dawn breaks, the light shining behind you, you see M— completely out, out of the sight of land, the— the wind becomes calm."
+        },
+        {
+          "startUid": "u2967",
+          "endUid": "u2975",
+          "quote": "DM: You can sense that you're— Kenzo, you can sense that you're close, like, although, again, in this strange way that it's both, you know, within a few miles and super far away. But somehow you've now— the wind has completely died and the ship is just adrift. It's almost like you— doesn't—"
+        }
+      ]
+    },
+    {
+      "id": "t27",
+      "source": {
+        "startUid": "u3112",
+        "endUid": "u3119"
+      },
+      "reading": "The party spends an unspecified short interval rowing toward the dead zone’s center.",
+      "completion": "completed",
+      "note": "The narration establishes elapsed rowing, but supplies neither a numerical duration nor a specific unit.",
+      "evidence": [
+        {
+          "startUid": "u3112",
+          "endUid": "u3119",
+          "quote": "DM: So you row, takes you a bit. Not— I mean, you're, you're good oarsman, like, it doesn't take that long to cross the miles. And it seems like you're— you're rowing to the very center of this dead point in the ocean."
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No clear absolute adventure date is spoken. May and 31 years since 1718 supply partial context only. Using YAML May 8, 1749 for the harbor opening, the two voyage sunrises and final midnight/dawn end on May 11.",
+    "expectedDateBoundaries": 3,
+    "supportedDateBoundaries": 3,
+    "evidence": [
+      "t01",
+      "t10",
+      "t12",
+      "t15",
+      "t17",
+      "t22",
+      "t24",
+      "t26"
+    ],
+    "explanation": "Current play starts at the already-woken harbor meeting. The voyage from the 3 p.m. cave departure to the island takes just over 48 hours and crosses two nights; sailing onward reaches midnight and the following dawn. These establish the entire three-boundary YAML span conditional on its start. The three-day Nevium recap and Dorian’s lost decade are earlier history. No rest proposal or YAML end is used to fill time."
+  }
+}

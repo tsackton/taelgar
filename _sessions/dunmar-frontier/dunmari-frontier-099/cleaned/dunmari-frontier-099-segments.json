@@ -1,0 +1,158 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-099",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-099/cleaned/dunmari-frontier-099-session.yaml",
+    "sessionYamlSha256": "6769489a328c2849ec19fd60a38de5720fb11ce93f889df246a5ad7682606681",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-099/cleaned/dunmari-frontier-099-transcript.md",
+    "transcriptSha256": "b4ec24952c03817267fe4a1293c561926e21753af9256b130b64ea86d7a84a5b"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0001"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0002",
+        "endUid": "u0037"
+      },
+      "category": "session_framing",
+      "note": "Opening recap includes the current pre-dawn anchor; active map discussion starts at u0038."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0038",
+        "endUid": "u0083"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0084",
+        "endUid": "u0100"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0101",
+        "endUid": "u1555"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1556",
+        "endUid": "u1562"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1563",
+        "endUid": "u1598"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1599",
+        "endUid": "u1607"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1608",
+        "endUid": "u1613"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1614",
+        "endUid": "u1641"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1642",
+        "endUid": "u2282"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2283",
+        "endUid": "u2307"
+      },
+      "category": "meta_discussion",
+      "note": "Cross-campaign Gazankoa discussion is explicitly outside the characters’ knowledge."
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u2308",
+        "endUid": "u2778"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u2779",
+        "endUid": "u2803"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u2804",
+        "endUid": "u3310"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s016",
+      "source": {
+        "startUid": "u3311",
+        "endUid": "u3313"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s017",
+      "source": {
+        "startUid": "u3314",
+        "endUid": "u3345"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s018",
+      "source": {
+        "startUid": "u3346",
+        "endUid": "u3352"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
