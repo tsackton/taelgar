@@ -1,0 +1,720 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmar-frontier-139",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-session.yaml",
+    "sessionYamlSha256": "3f1397889b24877dfd7564655df47d08af2bd6ed3b8f3d27b03c1d9164114c57",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-transcript.md",
+    "transcriptSha256": "2655d35a2e2f715c00ab54d4767eb4b9557dc8d6cda4f1395d0ec3f908be3a82"
+  },
+  "places": {
+    "p01": {
+      "label": "Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u0007",
+          "endUid": "u0012",
+          "quote": "DM: Vindristjarna.\nWellby: ... Vindristjarna.\nUnknown: Yeah.\nKenzo: [coughs] Inside the room that you built.\nDM: Yeah.\nWellby: Yeah."
+        }
+      ],
+      "kind": "skyship",
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p02": {
+      "label": "The room Delwath built",
+      "evidence": [
+        {
+          "startUid": "u0014",
+          "endUid": "u0014",
+          "quote": "Delwath: Like, do a few mirrors first, and then do the-"
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0009",
+              "endUid": "u0014",
+              "quote": "Unknown: Yeah.\nKenzo: [coughs] Inside the room that you built.\nDM: Yeah.\nWellby: Yeah.\nUnknown: Oh, yeah.\nDelwath: Like, do a few mirrors first, and then do the-"
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Isingue",
+      "evidence": [
+        {
+          "startUid": "u0055",
+          "endUid": "u0059",
+          "quote": "DM: So while you're helping the rangers get the perimeter established around Isingue as the ash has stopped falling, one evening you take a moment to pull the Mirror of the Past out of your portable hole, and take the pile of ash that Kenzo or Seeker, I forget who, grabbed from the decaying elemental as you killed her in the plane of Limbo, and hold it up to the mirror."
+        }
+      ],
+      "kind": "ruined city",
+      "vaultPath": "Gazetteer/Upper Istaros/Isingue.md"
+    },
+    "p04": {
+      "label": "Cistern below Isingue",
+      "evidence": [
+        {
+          "startUid": "u0265",
+          "endUid": "u0271",
+          "quote": "DM: Uh, you've seen this story of the Heartroot, and so now you, again, before you leave Isingue, you take the, the mirror down to the cistern below the city. And actually, the, it's, the rangers have been doing a lot of work, like clearing things out while you've been sort of guarding the perimeter.\nUnknown: But also,\nDM: As you go down there, Kenzo, some of the stone now is embedded with these, like, filaments of the Heartroot. Like, it's growing new pillars up-\nUnknown: Yeah.\nDM: ... to the ceiling."
+        }
+      ],
+      "kind": "underground chamber",
+      "note": "The cistern is a place examined in the mirror; the Heartroot’s earlier examination is recalled, not repeated.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0265",
+              "endUid": "u0266",
+              "quote": "DM: Uh, you've seen this story of the Heartroot, and so now you, again, before you leave Isingue, you take the, the mirror down to the cistern below the city. And actually, the, it's, the rangers have been doing a lot of work, like clearing things out while you've been sort of guarding the perimeter."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "City made out of metal",
+      "evidence": [
+        {
+          "startUid": "u0082",
+          "endUid": "u0097",
+          "quote": "DM: [coughs] The... So they're running up a hill, um, and as they run, the, the hill is sort of folding behind them and starting to form into this giant wave of earth. And the land shifts as they go, and it crashes into a what seems like it's maybe a city made out of metal. Um-\nWellby: Ooh.\nDM: ... there's like walls of metal, uh, forming a, a, a perimeter, but there's not much else you can see because the earth crashes into it and tumbles through it and mixes it up, up- upturning and overturning the wall itself. And the two figures running, the ash and the flame, stand for a moment in the center of what once was a city.\nDM: The flame creature, uh, blazes—it’s dark fire, but blazes to light for a moment as he holds up the scimitar and makes a few slashing motions. And as he does, the air opens up in a gap. And the world folds, and the remains of the city, like, tumble through the gap, and all that's left here is a valley of ash."
+        }
+      ],
+      "kind": "city",
+      "note": "Seen only in the ash vision. The source does not establish this as Mechanus."
+    },
+    "p06": {
+      "label": "Limbo",
+      "evidence": [
+        {
+          "startUid": "u0117",
+          "endUid": "u0126",
+          "quote": "DM: [coughs] And then this, the fli- flickers and the pulses get longer. You're clearly in Limbo now as you see from a s- a twisted perspective looking like at a 45-degree angle down at what seems to be a massive line of a thundercloud just drifting across space.\nDM: And as it does, everywhere it passes, uh, lightning flashes, and as it flashes things freeze or burst into flames or turn into a wave of sound that blows across as a discordant note until this thundercloud passes across something you can't see because it's beneath the wave of ash.\nDM: But as it passes across something it immediately solidifies back into a person, the Queen of Ash, and that's where the mirror vision ends."
+        }
+      ],
+      "kind": "plane",
+      "vaultPath": "Cosmology/Spiritual Realms/Limbo.md"
+    },
+    "p07": {
+      "label": "Karawa",
+      "evidence": [
+        {
+          "startUid": "u0490",
+          "endUid": "u0492",
+          "quote": "DM: You can role play a, as you're leaving the,\nUnknown: uh,\nDM: Karawa after having left the monks of Bhishma there."
+        }
+      ],
+      "kind": "settlement",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md"
+    },
+    "p08": {
+      "label": "Ikram's",
+      "evidence": [
+        {
+          "startUid": "u0518",
+          "endUid": "u0522",
+          "quote": "Wellby: So maybe we should go back to, like, that inn that we first started at.\nUnknown: Ikram's. Ikram's.\nUnknown: Ikram's.\nUnknown: Mm.\nWellby: Sitting around the table at Ikram's."
+        }
+      ],
+      "kind": "inn",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Ikram's.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0492",
+              "endUid": "u0522",
+              "quote": "DM: Karawa after having left the monks of Bhishma there.\nKenzo: It's where it all started.\nUnknown: Yeah.\nDelwath: How long has it been? 18 months?\nDM: So it's... By this point, it's gonna be, like, November 1749, and we started in March 1747.\nUnknown: So it's been what?\nUnknown: No, 17...\nDM: No, March 1748. So it's been- 18 months ... 18 months.\nKenzo: Dude, all of this happened in 18 months.\nUnknown: Wow.\nKenzo: We've been playing this campaign for five years real time, and it's been 18 months of play.\nDelwath: Yeah. But, but we only played three hours of every two weeks. Yeah. So, like, in terms of actual hours, it's been- Yeah.\nUnknown: Yeah.\nDM: ... yeah. It's like 138 sessions.\nUnknown: Wow.\nUnknown: Wow.\nUnknown: So.\nDM: That's still like, like 400 h- at least 400 hours. Damn. 'Cause some of those sessions are, like, five hour ones like this. Yeah. Yeah. Actually 139 if I count the e- epilogue as a separate session.\nWellby: Karawa's where the mesa is with the temple inside.\nUnknown: Yeah. Yeah.\nUnknown: Yeah. It's been-\nWellby: So maybe we should go back to, like, that inn that we first started at.\nUnknown: Ikram's. Ikram's.\nUnknown: Ikram's.\nUnknown: Mm.\nWellby: Sitting around the table at Ikram's."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Temple inside the mesa",
+      "evidence": [
+        {
+          "startUid": "u0538",
+          "endUid": "u0566",
+          "quote": "Kenzo: Yeah. Actually, now that we are here, Kenzo would go and visit the, the, the, that temple place that's inside the, the mesa.\nUnknown: Oh, yeah, yeah.\nKenzo: More like the mesa. Isn't the mesa...\nUnknown: The mesa's like-\nDM: The mesa's like the body of Shakun.\nKenzo: Yeah. The me- mesa's like some sentient thing. Anyways, not... You and I almost, you almost became like a Bish- Bhishma dude, or, or a thing.\nUnknown: We all-\nUnknown: Or Shakun.\nDelwath: ... got attuned to Shakun, but then-\nUnknown: Yeah.\nDelwath: ... three of the... All of us forgot it except you.\nKenzo: Yeah, yeah. But you, you went all the way to the end, but then d- chose not to die.\nUnknown: Yeah.\nWellby: Of Bhishma.\nUnknown: For Bhishma.\nUnknown: Over Bhishma.\nUnknown: Right.\nKenzo: Okay. But not at Shakun.\nDelwath: No, Shakun we, like, we were all connected to, right? 'Cause we, like-\nUnknown: Yeah.\nDelwath: ... we, like, the shadow people followed us in and, like, killed all the Shakun Mystai, like half of them.\nUnknown: Mm-hmm. Mm-hmm.\nDelwath: There was a lot of bad stuff there.\nUnknown: Mm-hmm. Mm-hmm.\nSeeker: And the temple of Shakun was older than the mesa that it's carved out of.\nDM: Yeah, because the mesa was the body of a goddess and keeps renewing itself."
+        }
+      ],
+      "kind": "temple",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Temple of Shakun.md",
+      "note": "Kenzo proposes visiting; the transcript does not resolve a visit. Identity is verified against the Temple of Shakun note and the source’s temple-in-the-mesa context.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u0538",
+              "endUid": "u0539",
+              "quote": "Kenzo: Yeah. Actually, now that we are here, Kenzo would go and visit the, the, the, that temple place that's inside the, the mesa."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Red Mesa",
+      "evidence": [
+        {
+          "startUid": "u0538",
+          "endUid": "u0566",
+          "quote": "Kenzo: Yeah. Actually, now that we are here, Kenzo would go and visit the, the, the, that temple place that's inside the, the mesa.\nUnknown: Oh, yeah, yeah.\nKenzo: More like the mesa. Isn't the mesa...\nUnknown: The mesa's like-\nDM: The mesa's like the body of Shakun.\nKenzo: Yeah. The me- mesa's like some sentient thing. Anyways, not... You and I almost, you almost became like a Bish- Bhishma dude, or, or a thing.\nUnknown: We all-\nUnknown: Or Shakun.\nDelwath: ... got attuned to Shakun, but then-\nUnknown: Yeah.\nDelwath: ... three of the... All of us forgot it except you.\nKenzo: Yeah, yeah. But you, you went all the way to the end, but then d- chose not to die.\nUnknown: Yeah.\nWellby: Of Bhishma.\nUnknown: For Bhishma.\nUnknown: Over Bhishma.\nUnknown: Right.\nKenzo: Okay. But not at Shakun.\nDelwath: No, Shakun we, like, we were all connected to, right? 'Cause we, like-\nUnknown: Yeah.\nDelwath: ... we, like, the shadow people followed us in and, like, killed all the Shakun Mystai, like half of them.\nUnknown: Mm-hmm. Mm-hmm.\nDelwath: There was a lot of bad stuff there.\nUnknown: Mm-hmm. Mm-hmm.\nSeeker: And the temple of Shakun was older than the mesa that it's carved out of.\nDM: Yeah, because the mesa was the body of a goddess and keeps renewing itself."
+        }
+      ],
+      "kind": "mesa",
+      "vaultPath": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Red Mesa.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0492",
+              "endUid": "u0492",
+              "quote": "DM: Karawa after having left the monks of Bhishma there."
+            },
+            {
+              "startUid": "u0538",
+              "endUid": "u0539",
+              "quote": "Kenzo: Yeah. Actually, now that we are here, Kenzo would go and visit the, the, the, that temple place that's inside the, the mesa."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "The Salty Squid",
+      "evidence": [
+        {
+          "startUid": "u1315",
+          "endUid": "u1318",
+          "quote": "DM: In a bar in Chardon, the Salty Squid. The bartender, uh, unusually good of hearing."
+        }
+      ],
+      "kind": "tavern",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/The Salty Squid.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1315",
+              "endUid": "u1318",
+              "quote": "DM: In a bar in Chardon, the Salty Squid. The bartender, uh, unusually good of hearing."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Chardon",
+      "evidence": [
+        {
+          "startUid": "u1315",
+          "endUid": "u1318",
+          "quote": "DM: In a bar in Chardon, the Salty Squid. The bartender, uh, unusually good of hearing."
+        }
+      ],
+      "kind": "city",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Chardon.md"
+    },
+    "p12": {
+      "label": "Tollen",
+      "evidence": [
+        {
+          "startUid": "u1348",
+          "endUid": "u1358",
+          "quote": "DM: However, rumors come to him, and a few months later, uh, I forget exactly what it was, um, a flying castle arrives in Tollen. And on the flying castle are these same people who are talking about Rai, uh, looking for scouts to help them explore the northern wilderness."
+        }
+      ],
+      "kind": "city",
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Tollen.md"
+    },
+    "p13": {
+      "label": "Tropical port with golden domes",
+      "evidence": [
+        {
+          "startUid": "u1681",
+          "endUid": "u1698",
+          "quote": "DM: We have eyes on, yep. Um, uh, Milo at this point, um, is in port in a strange city with gold domes shining on a tropical island.\nUnknown: What the fuck?\nWellby: The golden city.\nUnknown: Possibly.\nDM: [coughs] What?\nUnknown: Targu.\nDM: Yeah, that was one of the, um, one of the, uh, souls that you rescued-\nUnknown: Right.\nDM: ... from Apollyon's phylactery was from a golden city to the south.\nUnknown: Yeah.\nDM: This is probably not the same golden city 'cause that... But it could be. I mean, the south didn't really get destroyed by-"
+        }
+      ],
+      "kind": "port",
+      "note": "The table explicitly leaves open whether this is the ancient golden city associated with the rescued soul from Targu. No verified vault identity."
+    },
+    "p14": {
+      "label": "Circular Island",
+      "evidence": [
+        {
+          "startUid": "u2146",
+          "endUid": "u2147",
+          "quote": "DM: Yes. So Dimitaur drifts off to his next task as the immortal ruler of the circular island."
+        }
+      ],
+      "kind": "island",
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Circular Island.md"
+    },
+    "p15": {
+      "label": "Dimitaur’s feast and throne",
+      "evidence": [
+        {
+          "startUid": "u1837",
+          "endUid": "u1858",
+          "quote": "DM: Uh, oh, um, so Dimitaur, uh... So you're gonna... Are you gonna... Oh, you have the eye. You have the, his throne wired up so you can-\nUnknown: Yeah.\nDM: ... um... So the scene o- that you like take up the like, um, the bag of, of gemstones that let you see through the, um, see through the, the eye, and you look out at this absolutely-\nUnknown: [laughs]\nDM: ... massive feast.\nUnknown: Nice. [laughs]\nDM: Like giant table laid out with all sorts of fish cooked in like 100 different ways.\nUnknown: Oh, gosh.\nDM: And Dimitaur is walking along the top of the table, and he's eating each thing and, like, his... He's, like, really full. Like, it looks like he's, like, like, about to explode from overeating."
+        }
+      ],
+      "kind": "feasting site",
+      "note": "The eye attached to his throne supplies the remote view. The source does not identify a particular building.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p14",
+          "evidence": [
+            {
+              "startUid": "u2146",
+              "endUid": "u2147",
+              "quote": "DM: Yes. So Dimitaur drifts off to his next task as the immortal ruler of the circular island."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0059"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The opening mirror scene is in Delwath’s room aboard Vindristjarna during work at Isingue.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0003",
+          "quote": "DM: [sighs] So, I can start with mirrors. I don't know who's departing the ship first of the four of you."
+        },
+        {
+          "startUid": "u0007",
+          "endUid": "u0014",
+          "quote": "DM: Vindristjarna.\nWellby: ... Vindristjarna.\nUnknown: Yeah.\nKenzo: [coughs] Inside the room that you built.\nDM: Yeah.\nWellby: Yeah.\nUnknown: Oh, yeah.\nDelwath: Like, do a few mirrors first, and then do the-"
+        },
+        {
+          "startUid": "u0055",
+          "endUid": "u0059",
+          "quote": "DM: So while you're helping the rangers get the perimeter established around Isingue as the ash has stopped falling, one evening you take a moment to pull the Mirror of the Past out of your portable hole, and take the pile of ash that Kenzo or Seeker, I forget who, grabbed from the decaying elemental as you killed her in the plane of Limbo, and hold it up to the mirror."
+        }
+      ],
+      "place": "p02",
+      "locationContext": [
+        {
+          "subject": "p02",
+          "relation": "at",
+          "target": "p03"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0055",
+        "endUid": "u0126"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The ash mirror vision shows a metal city overwhelmed by earth, followed by the elemental beings’ dispersal and reconstitution in Limbo.",
+      "evidence": [
+        {
+          "startUid": "u0082",
+          "endUid": "u0087",
+          "quote": "DM: [coughs] The... So they're running up a hill, um, and as they run, the, the hill is sort of folding behind them and starting to form into this giant wave of earth. And the land shifts as they go, and it crashes into a what seems like it's maybe a city made out of metal. Um-"
+        },
+        {
+          "startUid": "u0092",
+          "endUid": "u0097",
+          "quote": "DM: The flame creature, uh, blazes—it’s dark fire, but blazes to light for a moment as he holds up the scimitar and makes a few slashing motions. And as he does, the air opens up in a gap. And the world folds, and the remains of the city, like, tumble through the gap, and all that's left here is a valley of ash."
+        },
+        {
+          "startUid": "u0106",
+          "endUid": "u0112",
+          "quote": "DM: And then they get grabbed and tumbled. The, uh, scattered—the flame, dark flame, and the Ash Queen of Frozen Lightning, suddenly [whooshes]— fragmented into 10,000 fragments scattered across what now seems to be Limbo."
+        },
+        {
+          "startUid": "u0117",
+          "endUid": "u0119",
+          "quote": "DM: [coughs] And then this, the fli- flickers and the pulses get longer. You're clearly in Limbo now as you see from a s- a twisted perspective looking like at a 45-degree angle down at what seems to be a massive line of a thundercloud just drifting across space."
+        },
+        {
+          "startUid": "u0124",
+          "endUid": "u0126",
+          "quote": "DM: But as it passes across something it immediately solidifies back into a person, the Queen of Ash, and that's where the mirror vision ends."
+        }
+      ],
+      "place": "p05",
+      "mode": "vision",
+      "observerPlace": "p02",
+      "context": "vision",
+      "note": "The later Limbo images belong to the same historical vision; the party does not travel there."
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0117",
+        "endUid": "u0126"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The latter images of the same mirror vision are explicitly in Limbo.",
+      "evidence": [
+        {
+          "startUid": "u0117",
+          "endUid": "u0119",
+          "quote": "DM: [coughs] And then this, the fli- flickers and the pulses get longer. You're clearly in Limbo now as you see from a s- a twisted perspective looking like at a 45-degree angle down at what seems to be a massive line of a thundercloud just drifting across space."
+        },
+        {
+          "startUid": "u0124",
+          "endUid": "u0126",
+          "quote": "DM: But as it passes across something it immediately solidifies back into a person, the Queen of Ash, and that's where the mirror vision ends."
+        }
+      ],
+      "place": "p06",
+      "mode": "vision",
+      "observerPlace": "p02",
+      "context": "vision"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0265",
+        "endUid": "u0266"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Before leaving Isingue, the party takes the mirror down to the cistern.",
+      "evidence": [
+        {
+          "startUid": "u0265",
+          "endUid": "u0266",
+          "quote": "DM: Uh, you've seen this story of the Heartroot, and so now you, again, before you leave Isingue, you take the, the mirror down to the cistern below the city. And actually, the, it's, the rangers have been doing a lot of work, like clearing things out while you've been sort of guarding the perimeter."
+        }
+      ],
+      "from": "p01",
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0295",
+        "endUid": "u0351"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The cistern mirror shows the Heartroot excavating and shaping its original lair.",
+      "evidence": [
+        {
+          "startUid": "u0295",
+          "endUid": "u0299",
+          "quote": "DM: Yes. Um, so the first thing you see in the mirror when you hold it up to the cistern is a small sort of green shoot of a root crawling through some dirt, and water rushing along behind it, um, reaching around, sort of grabbing, grasping. And then more roots spring out, um, like the little glowing filamentous, um, kind of... The Heart, right, the Heartroot has like regular roots and then it has those like glowing filamentous, you know, the fungal part."
+        },
+        {
+          "startUid": "u0309",
+          "endUid": "u0311",
+          "quote": "DM: And over the course of— it's hard to say how much time—decades, centuries, probably not millennia, as you watch in the mirror, like the Heartroot itself slowly begins to excavate this cavern."
+        },
+        {
+          "startUid": "u0318",
+          "endUid": "u0320",
+          "quote": "DM: ... forming these twisting spirals. And then roots grow along the ceiling, and more roots grow up from the, from the columns of stone and begin to sprout out through the soil above it. And you watch over the course of another few centuries as the Heartroot grows itself a lair."
+        },
+        {
+          "startUid": "u0345",
+          "endUid": "u0349",
+          "quote": "DM: So the Heartroot, I mean, this was long before Isingue. It grew itself a lair, and then people discovered it and it helped them. But this was its original home, like along the bank of the Istaros River, where it just created a structure it thought was beautiful."
+        }
+      ],
+      "place": "p04",
+      "mode": "vision",
+      "observerPlace": "p04",
+      "context": "vision"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0492",
+        "endUid": "u0539"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party has reached Karawa after bringing the rescued monks; they have left the ship for the farewell.",
+      "evidence": [
+        {
+          "startUid": "u0492",
+          "endUid": "u0492",
+          "quote": "DM: Karawa after having left the monks of Bhishma there."
+        },
+        {
+          "startUid": "u0533",
+          "endUid": "u0533",
+          "quote": "Kenzo: Yeah, yeah, yeah. But now that we're here."
+        }
+      ],
+      "from": "p01",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "skyship",
+      "note": "The route and elapsed travel time are not narrated. This does not place the movable ship permanently within Karawa."
+    },
+    {
+      "id": "l07",
+      "type": "presence",
+      "source": {
+        "startUid": "u0518",
+        "endUid": "u0579"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The group accepts Ikram’s as the setting and begins the farewell conversation inside the inn.",
+      "evidence": [
+        {
+          "startUid": "u0518",
+          "endUid": "u0523",
+          "quote": "Wellby: So maybe we should go back to, like, that inn that we first started at.\nUnknown: Ikram's. Ikram's.\nUnknown: Ikram's.\nUnknown: Mm.\nWellby: Sitting around the table at Ikram's.\nDelwath: Yeah. Let's do that. Except, except for the flying castle part, though."
+        },
+        {
+          "startUid": "u0575",
+          "endUid": "u0579",
+          "quote": "Kenzo: Oh. Should we, uh, should we, like, role-play in character, like, inside the inn?\nUnknown: Yeah.\nUnknown: Yeah.\nUnknown: Ah.\nWellby: Where to now for each of us?"
+        }
+      ],
+      "place": "p08"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0538",
+        "endUid": "u0539"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo proposes a visit to the temple in the mesa.",
+      "evidence": [
+        {
+          "startUid": "u0538",
+          "endUid": "u0539",
+          "quote": "Kenzo: Yeah. Actually, now that we are here, Kenzo would go and visit the, the, the, that temple place that's inside the, the mesa."
+        }
+      ],
+      "from": "p07",
+      "to": "p09",
+      "completion": "planned",
+      "context": "planned"
+    },
+    {
+      "id": "l09",
+      "type": "presence",
+      "source": {
+        "startUid": "u0923",
+        "endUid": "u0929"
+      },
+      "actors": [
+        "Baxter"
+      ],
+      "reading": "Baxter is saddled outside the inn while Wellby considers the north road home.",
+      "evidence": [
+        {
+          "startUid": "u0923",
+          "endUid": "u0929",
+          "quote": "Wellby: Baxter's saddled up outside. This seems like the place to head back home from again. I'll take the road north, find my family, find the elders, find the next gathering and figure out what it means to help make that song."
+        }
+      ],
+      "place": "p07",
+      "note": "Wellby’s departure remains a stated intention in this transcript."
+    },
+    {
+      "id": "l10",
+      "type": "presence",
+      "source": {
+        "startUid": "u1315",
+        "endUid": "u1335"
+      },
+      "actors": [
+        "party (in Kecha’s earlier story)"
+      ],
+      "reading": "The retrospective narration places the adventurers at the Salty Squid in Chardon.",
+      "evidence": [
+        {
+          "startUid": "u1315",
+          "endUid": "u1318",
+          "quote": "DM: In a bar in Chardon, the Salty Squid. The bartender, uh, unusually good of hearing."
+        },
+        {
+          "startUid": "u1322",
+          "endUid": "u1322",
+          "quote": "DM: Uh, the first time you went to Chardon, the place you stopped to regroup after getting off the halfling ship."
+        },
+        {
+          "startUid": "u1326",
+          "endUid": "u1330",
+          "quote": "DM: ... as several adventurers, uh, quietly talking, silently in a way that could not be overheard by a normal person. Hears mention of Rai's hand-"
+        },
+        {
+          "startUid": "u1335",
+          "endUid": "u1335",
+          "quote": "DM: Listens a little and the adventurers leave."
+        }
+      ],
+      "place": "p10",
+      "context": "flashback"
+    },
+    {
+      "id": "l11",
+      "type": "presence",
+      "source": {
+        "startUid": "u1348",
+        "endUid": "u1370"
+      },
+      "actors": [
+        "party (in Kecha’s earlier story)"
+      ],
+      "reading": "In the later phase of the retrospective story the party is aboard its flying castle at Tollen.",
+      "evidence": [
+        {
+          "startUid": "u1348",
+          "endUid": "u1358",
+          "quote": "DM: However, rumors come to him, and a few months later, uh, I forget exactly what it was, um, a flying castle arrives in Tollen. And on the flying castle are these same people who are talking about Rai, uh, looking for scouts to help them explore the northern wilderness."
+        },
+        {
+          "startUid": "u1361",
+          "endUid": "u1362",
+          "quote": "DM: So what better time to learn what they might be up to? It's easy to be any kenku one wants to be when you are the god of kenku."
+        },
+        {
+          "startUid": "u1368",
+          "endUid": "u1370",
+          "quote": "DM: He spends a while listening to them talk when they think nobody can hear them. Thinks, \"Yeah, they'll probably do. I'll leave them be.\""
+        }
+      ],
+      "place": "p01",
+      "context": "flashback",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "at",
+          "target": "p12"
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u1681",
+        "endUid": "u1708"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Through the eye, the party sees Milo and Tilly at a tropical southern port; a proposed teleport is not carried out.",
+      "evidence": [
+        {
+          "startUid": "u1681",
+          "endUid": "u1685",
+          "quote": "DM: We have eyes on, yep. Um, uh, Milo at this point, um, is in port in a strange city with gold domes shining on a tropical island."
+        },
+        {
+          "startUid": "u1704",
+          "endUid": "u1708",
+          "quote": "DM: So Milo and Tilly made it-\nWellby: They did it.\nDM: ... to the south.\nKenzo: That's great. And we can see them through the eye?\nDM: Yeah."
+        }
+      ],
+      "place": "p13",
+      "mode": "remote",
+      "observerPlace": "p08",
+      "observedActors": [
+        "Milo",
+        "Tilly"
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "observation",
+      "source": {
+        "startUid": "u1837",
+        "endUid": "u2147"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party looks through the eye at Dimitaur’s feast and speaks with him at his throne on the Circular Island.",
+      "evidence": [
+        {
+          "startUid": "u1837",
+          "endUid": "u1840",
+          "quote": "DM: Uh, oh, um, so Dimitaur, uh... So you're gonna... Are you gonna... Oh, you have the eye. You have the, his throne wired up so you can-"
+        },
+        {
+          "startUid": "u1842",
+          "endUid": "u1849",
+          "quote": "DM: ... um... So the scene o- that you like take up the like, um, the bag of, of gemstones that let you see through the, um, see through the, the eye, and you look out at this absolutely-"
+        },
+        {
+          "startUid": "u1853",
+          "endUid": "u1853",
+          "quote": "DM: Like giant table laid out with all sorts of fish cooked in like 100 different ways."
+        },
+        {
+          "startUid": "u1893",
+          "endUid": "u1894",
+          "quote": "DM: And then he sees that the throne is blinking, and he, like, slowly begins to crawl back along the top of the table. And he's like, \"Hey, do you know nothing can kill me now?\""
+        },
+        {
+          "startUid": "u2146",
+          "endUid": "u2147",
+          "quote": "DM: Yes. So Dimitaur drifts off to his next task as the immortal ruler of the circular island."
+        }
+      ],
+      "place": "p15",
+      "mode": "remote",
+      "observerPlace": "p08",
+      "observedActors": [
+        "Dimitaur"
+      ]
+    }
+  ]
+}

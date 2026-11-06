@@ -1,0 +1,88 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-time-markers.json",
+    "sha256": "acd7488884b60b063fbe9cfea07374ea6af5126ea48fe05491ef1b8de11966a7"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-transcript.md",
+    "sha256": "2655d35a2e2f715c00ab54d4767eb4b9557dc8d6cda4f1395d0ec3f908be3a82"
+  },
+  "dateAssessment": "The working campaign calendar is the registered October 6–November 3, 1749 span. The DM independently says November 1749 for the Karawa farewell (t03); November 3 below is the compatible YAML endpoint, not a spoken day. The 28-day span remains compatible rather than confirmed: no travel duration connects the Isingue work and Karawa. Session 138’s closing narration (u4317–u4324) places the guard interval through early October and allows the mirror examinations during that interval. Session 139 dates the ash vision to one of those evenings and the cistern vision before departure; neither receives an invented day. Kecha’s year-earlier story is a separate flashback and does not extend this adventure span.",
+  "watches": [
+    {
+      "day": "About a year before the farewell",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "DM opens Kecha’s earlier Salty Squid story about a year before the farewell.",
+      "markers": [
+        "t04"
+      ],
+      "scope": "Kecha flashback"
+    },
+    {
+      "day": "The following day in Kecha’s story",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Explicit next day: the bartender leaves work and flies east.",
+      "markers": [
+        "t05"
+      ],
+      "scope": "Kecha flashback"
+    },
+    {
+      "day": "A few months later in Kecha’s story",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "DM advances a few months before the flying castle reaches Tollen.",
+      "markers": [
+        "t06"
+      ],
+      "scope": "Kecha flashback"
+    },
+    {
+      "day": "During the Isingue guard interval; exact date open",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "DM explicitly places the ash examination on one evening during perimeter work.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "Before departure from Isingue; exact date open",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Cistern examination explicitly precedes departure; no day or hour is supplied.",
+      "markers": [
+        "t02"
+      ]
+    },
+    {
+      "day": "November 3, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "DM says November 1749; narration returns here after Kecha’s backstory. November 3 follows the compatible YAML endpoint.",
+      "markers": [
+        "t03",
+        "t07"
+      ],
+      "startDate": "1749-11-03",
+      "endDate": "1749-11-03"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 138 closing handoff, u4317–u4324",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-transcript.md",
+      "sha256": "ecfc4e6a24d00977571e8ab95ecad097de200d39d76654641e6fc25c38830f75"
+    }
+  ]
+}

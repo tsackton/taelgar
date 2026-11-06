@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmar-frontier-139",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-session.yaml",
+    "sessionYamlSha256": "3f1397889b24877dfd7564655df47d08af2bd6ed3b8f3d27b03c1d9164114c57",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-transcript.md",
+    "transcriptSha256": "2655d35a2e2f715c00ab54d4767eb4b9557dc8d6cda4f1395d0ec3f908be3a82"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0412"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0413",
+        "endUid": "u0574"
+      },
+      "category": "meta_discussion",
+      "note": "Treasure and epilogue planning; Karawa is established here, while the inn scene begins at u0575."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0575",
+        "endUid": "u1016"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1017",
+        "endUid": "u1311"
+      },
+      "category": "meta_discussion",
+      "note": "The farewell turns to retrospective deaths, unresolved prisoners, and requests for NPC updates."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1312",
+        "endUid": "u2148"
+      },
+      "category": "gameplay",
+      "note": "Narrated epilogues and played farewells, including Kecha’s earlier story; these revelations and actions are active play."
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2149",
+        "endUid": "u2224"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2225",
+        "endUid": "u2275"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u2276",
+        "endUid": "u4707"
+      },
+      "category": "table_talk",
+      "note": "Discussion of future games, systems, scheduling, and character design; brief lore recollections do not establish played scenes."
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u4708",
+        "endUid": "u5401"
+      },
+      "category": "meta_discussion",
+      "note": "Sustained retrospective campaign feedback, including NPC and item references; no initiative is entered."
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u5402",
+        "endUid": "u5642"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
