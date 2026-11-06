@@ -1,0 +1,234 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-062",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-062/cleaned/dunmari-frontier-062-session.yaml",
+    "sessionYamlSha256": "49bda74e10147d9ddf8137e97ae4fe555c3e1846684f7da9b2ae3eabd9244748",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-062/cleaned/dunmari-frontier-062-transcript.md",
+    "transcriptSha256": "3818618f2158aee1ef4a808c5c3248f23723a76e25f4d4e1d33ece534ec8ef09",
+    "yamlDates": {
+      "start": "1748-10-13",
+      "end": "1748-10-14"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0221",
+        "endUid": "u0228"
+      },
+      "reading": "The party leaves the inn around lunch time.",
+      "time": {
+        "partOfDay": "midday",
+        "precision": "approximate",
+        "basis": "DM places the departure at lunch time."
+      },
+      "actors": [
+        "Wellby",
+        "Rufus",
+        "Artem Novolozek",
+        "Alimash",
+        "Shoal"
+      ],
+      "evidence": [
+        {
+          "startUid": "u0221",
+          "endUid": "u0228",
+          "quote": "It's It's It's like lunch time."
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0256",
+        "endUid": "u0266"
+      },
+      "reading": "The party spends the better part of the day sailing through the Vermillion Isles before entering the Endless Ocean.",
+      "duration": {
+        "text": "the better part of the day",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Narrated elapsed sailing, not the earlier forecast."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0256",
+          "endUid": "u0266",
+          "quote": "So you spend the the better part of the day sort of tacking and navigating through."
+        }
+      ]
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0293",
+        "endUid": "u0311"
+      },
+      "reading": "After dinner and drifting overnight, the party wakes in the morning and approaches the seamount anchorage.",
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "Explicit waking and morning approach; no absolute date is spoken."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "note": "The earlier midmorning arrival at u0229–u0232 is a forecast; the realized arrival is only dated to morning.",
+      "evidence": [
+        {
+          "startUid": "u0287",
+          "endUid": "u0290",
+          "quote": "Artem Novolozek: Uh Artem when it when it's dinner time he does."
+        },
+        {
+          "startUid": "u0293",
+          "endUid": "u0303",
+          "quote": "So you drift off and wake in the morning as you sail and approach the ah."
+        },
+        {
+          "startUid": "u0304",
+          "endUid": "u0311",
+          "quote": "The location that's been scouted by by people already"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0343",
+        "endUid": "u0344"
+      },
+      "reading": "Artem spends a few minutes casting water breathing while Rufus begins scouting.",
+      "actors": [
+        "Artem Novolozek",
+        "Rufus"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "The casting is narrated as an actual activity; the spell’s twenty-four-hour duration is not elapsed adventure time."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0343",
+          "endUid": "u0344",
+          "quote": "he he sort of again. He takes a few minutes to sort of mutter over his spell book."
+        },
+        {
+          "startUid": "u0346",
+          "endUid": "u0350",
+          "quote": "That's fine if you dive off while he's muttering, You don't have to wait for the water breathing."
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1611",
+        "endUid": "u1620"
+      },
+      "reading": "The party completes its ten-minute cave short rest while Artem rituals water breathing, then revives the captive sailor. Rufus uses his net so restraint need not prevent resting; Wellby’s fish scouting is retrospectively placed during this same rest.",
+      "duration": {
+        "value": 10,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Completed short rest uses the explicitly stated ten-minute cave rule, with ritual and fish scouting nested in it."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0592",
+          "endUid": "u0603",
+          "quote": "I'm gonna play with ten minutes short rests, but only one short rest per hour. While you’re in the cave."
+        },
+        {
+          "startUid": "u1609",
+          "endUid": "u1610",
+          "quote": "So let's just restrain them with the magic net. Take a little rest."
+        },
+        {
+          "startUid": "u1611",
+          "endUid": "u1612",
+          "quote": "DM: Okay, so do your short rest. Roll your Hit Dice and stuff um."
+        },
+        {
+          "startUid": "u1613",
+          "endUid": "u1620",
+          "quote": "DM: After you you time it, so that when the ritual is nearly complete, somebody just whacks them on the head to knock them unconscious, and then you hear him like start to choke and cough and begin to drown, and then the ritual is completed, and then no sound, and his eyes flutter open and he looks around."
+        },
+        {
+          "startUid": "u1857",
+          "endUid": "u1859",
+          "quote": "DM: Uh so Uh, you see, I all all just during the short rest you You went out. You got a fish from the cave. There is fish around um."
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1744",
+        "endUid": "u1746"
+      },
+      "reading": "Alimash sizes up the freed sailor using the one-minute Know Your Enemy observation.",
+      "actors": [
+        "Alimash"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Alimash declares the one-minute observation and the DM immediately supplies its results."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1744",
+          "endUid": "u1746",
+          "quote": "Alimash: I have a skill that can answer this question specifically. I have Know Your Enemy. One minute. If you spend at least one minute observing another creature outside of combat, you can learn everything about capacities, strength, dexterity, constitution, armor class, current HP. Total levels, fighter class, all that stuff. So I said, I size this guy up as a.\n\nDM: Yeah um a soldier. So he's he's like Cr: five. So you know approximately half your strength."
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u2773",
+        "endUid": "u2775"
+      },
+      "reading": "After the mage fight, the party has about a minute to catch its breath before continuing; this is explicitly too short for a rest.",
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM grants a minute to regroup, explicitly not a short rest."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2773",
+          "endUid": "u2775",
+          "quote": "DM: Okay, so with all these unconscious bodies here, what are you? What are you doing? Well, You have like a minute to get your breath. Not long enough for a short rest, right?"
+        }
+      ]
+    }
+  ],
+  "yamlCheck": {
+    "status": "matched",
+    "dateAnchor": "No calendar day, month or year is spoken. October 13–14, 1748 is conditional on the registered YAML calendar; the transcript independently supplies lunch, a sailing day, overnight passage and morning arrival.",
+    "expectedDateBoundaries": 1,
+    "supportedDateBoundaries": 1,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07"
+    ],
+    "explanation": "The adventure runs from lunch departure through one overnight and the following morning’s cave expedition, ending directly after the aboleth dies. No second day transition is established. The ten-minute rest and nested scouting add no calendar boundary. The interval matches relative to the disclosed YAML start, without independently verifying its absolute date."
+  }
+}

@@ -1,0 +1,1133 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-062",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-062/cleaned/dunmari-frontier-062-session.yaml",
+    "sessionYamlSha256": "49bda74e10147d9ddf8137e97ae4fe555c3e1846684f7da9b2ae3eabd9244748",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-062/cleaned/dunmari-frontier-062-transcript.md",
+    "transcriptSha256": "3818618f2158aee1ef4a808c5c3248f23723a76e25f4d4e1d33ece534ec8ef09"
+  },
+  "places": {
+    "p01": {
+      "label": "Vermillion Isles",
+      "kind": "archipelago",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0007",
+          "quote": "DM: Okay. So we are starting our adventure today in the Vermillion Isles, a small archipelago of red rocky cliffs that rise from the warm blue ocean among the vast and ever-changing islands that stretch for thousands of miles between the Green Sea and the Endless Ocean to the east. The Vermillion Isles in the town called Wahacha, where you are."
+        },
+        {
+          "startUid": "u0008",
+          "endUid": "u0013",
+          "quote": "DM: They're mostly inhabited by Kenku, a flying race of bird folk in Taelgar. Here they make their homes on the towering red cliffs that rise from the sea and dot the dry, scrubby uh interior of the islands; and while the Kenku of the Vermillion Isles are nominally welcoming of outsiders, they do little to make their homes and villages accessible to those without wings, and most of the grounders, as they call the flightless people, humans mostly, but some halflings and others—uh, the grounders mostly live in a few small clusters of buildings around the main harbor."
+        }
+      ],
+      "vaultPath": "Gazetteer/Eastern Green Sea/Vermillion Isles.md"
+    },
+    "p02": {
+      "label": "Wahacha",
+      "kind": "settlement",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0007",
+          "quote": "DM: Okay. So we are starting our adventure today in the Vermillion Isles, a small archipelago of red rocky cliffs that rise from the warm blue ocean among the vast and ever-changing islands that stretch for thousands of miles between the Green Sea and the Endless Ocean to the east. The Vermillion Isles in the town called Wahacha, where you are."
+        }
+      ],
+      "vaultPath": "Gazetteer/Eastern Green Sea/Wahacha.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0002",
+              "endUid": "u0007",
+              "quote": "DM: Okay. So we are starting our adventure today in the Vermillion Isles, a small archipelago of red rocky cliffs that rise from the warm blue ocean among the vast and ever-changing islands that stretch for thousands of miles between the Green Sea and the Endless Ocean to the east. The Vermillion Isles in the town called Wahacha, where you are."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Dolphin’s Rest",
+      "kind": "inn",
+      "evidence": [
+        {
+          "startUid": "u0014",
+          "endUid": "u0019",
+          "quote": "DM: The five of you have all found your way, and through various routes, some more circuitous than others to the Dolphin’s Rest, a boisterous inn, um, serving the sailors on shore leave from the merchant vessels that ply the trade routes to and around the Vermillion Isles."
+        }
+      ],
+      "vaultPath": "Gazetteer/Eastern Green Sea/Dolphin’s Rest Inn.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0002",
+              "endUid": "u0007",
+              "quote": "DM: Okay. So we are starting our adventure today in the Vermillion Isles, a small archipelago of red rocky cliffs that rise from the warm blue ocean among the vast and ever-changing islands that stretch for thousands of miles between the Green Sea and the Endless Ocean to the east. The Vermillion Isles in the town called Wahacha, where you are."
+            },
+            {
+              "startUid": "u0014",
+              "endUid": "u0019",
+              "quote": "DM: The five of you have all found your way, and through various routes, some more circuitous than others to the Dolphin’s Rest, a boisterous inn, um, serving the sailors on shore leave from the merchant vessels that ply the trade routes to and around the Vermillion Isles."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Quiet back room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0020",
+          "endUid": "u0025",
+          "quote": "Here, in a quiet back room, you've gathered to discuss the problem of raiders"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0014",
+              "endUid": "u0019",
+              "quote": "DM: The five of you have all found your way, and through various routes, some more circuitous than others to the Dolphin’s Rest, a boisterous inn, um, serving the sailors on shore leave from the merchant vessels that ply the trade routes to and around the Vermillion Isles."
+            },
+            {
+              "startUid": "u0020",
+              "endUid": "u0025",
+              "quote": "Here, in a quiet back room, you've gathered to discuss the problem of raiders"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Portmaster’s supplied sailing boat",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u0176",
+          "endUid": "u0177",
+          "quote": "DM: No, the I mean the Kenku want somebody to deal with this. They will— The The Port master has provided you with a a boat stocked with food and water and supplies. At least a few of you know how to sail."
+        },
+        {
+          "startUid": "u0256",
+          "endUid": "u0266",
+          "quote": "It's like a it's, you know, can easily be crewed by one. Just a single single-masted sailing ship with space for eight or so, and auxiliary oars."
+        }
+      ],
+      "mobile": true
+    },
+    "p06": {
+      "label": "Endless Ocean east of the Vermillion Isles",
+      "kind": "ocean",
+      "evidence": [
+        {
+          "startUid": "u0038",
+          "endUid": "u0041",
+          "quote": "DM: You know only from the portmaster and from rumors in town that the base of these small galleys from which the raiders come seems to be about forty to fifty miles offshore in the Endless Ocean. Ah, some Kenku scouts have soared high overhead. Um, and claim that there is a hidden seamount here, shipwrecks, um, and a small anchorage of of these small rowed galleys here. So this is the most likely location of the base."
+        },
+        {
+          "startUid": "u0256",
+          "endUid": "u0266",
+          "quote": "DM: Um, and the three of us. So you you uh set out. Um. It's a it's a small boat. It's like a it's, you know, can easily be crewed by one. Just a single single-masted sailing ship with space for eight or so, and auxiliary oars. If the wind is down. Um setting out on the you're setting out now is so the you know the first little bit of your journey is sort of weaving through the Vermillion Isles. So you spend the the better part of the day sort of tacking and navigating through. Since you started on the eastern edge through the Vermillion Isles to the Endless Ocean which rumor has, It is literally endless. You can sail forever, and never find land. Whether that's true or not nobody knows, because nobody has ever come back from a journey in the—and you, although the further you go out, the larger the squid are, so that presumably continues indefinite as well. So it's just squid."
+        }
+      ],
+      "note": "Transcript wording is Endless Ocean; Session 62 (DuFr) calls the same eastern voyage Outer Ocean. The modern Outer Ocean note fits this setting, while Endless Ocean.md describes western waters.",
+      "vaultPath": "Gazetteer/Outer Ocean.md"
+    },
+    "p07": {
+      "label": "Sunken seamount / old island roots",
+      "kind": "underwater site",
+      "evidence": [
+        {
+          "startUid": "u0353",
+          "endUid": "u0369",
+          "quote": "DM: So um you. You see the same From From this perspective up here you can see that the the Sea Mount, where this ship is wrecked on extends. It's not very big. You've come to the sort of western edge of it, and it seems like it extends maybe four hundred feet something like that to the east. Uh it's sort of a a jagged semicircle in shape, and it slopes down um quite deep. You can see there are—there are other sunken ships on the on the far side, and um the on the near side sort of below the wrecked ship that's close to where you are, and below these four uh galleys moored at sea there's maybe one hundred, two hundred feet down, some kind of faint greenish glow, like there's some source of light deep below the ocean that shouldn't be there."
+        },
+        {
+          "startUid": "u0484",
+          "endUid": "u0489",
+          "quote": "DM: The cave itself is. The floor and sides of the cave are all covered with what looked like bleached coral possibly very old, almost semi-fossilized coral. In fact, as you get closer, and you look at it, This entire seamount looks a little bit like some kind of massive vertical coral reef that is long dead and partially turned to stone."
+        },
+        {
+          "startUid": "u0496",
+          "endUid": "u0504",
+          "quote": "DM: I mean, uh, yeah. So um, this specifically, you're not sure but you do know that. Ah, what this looks like to you is the roots that descend from your home, from Quanyi, the the like roots that drop down it. This is like an island was uprooted, and this is what's left."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0038",
+              "endUid": "u0041",
+              "quote": "DM: You know only from the portmaster and from rumors in town that the base of these small galleys from which the raiders come seems to be about forty to fifty miles offshore in the Endless Ocean. Ah, some Kenku scouts have soared high overhead. Um, and claim that there is a hidden seamount here, shipwrecks, um, and a small anchorage of of these small rowed galleys here. So this is the most likely location of the base."
+            },
+            {
+              "startUid": "u0353",
+              "endUid": "u0369",
+              "quote": "DM: So um you. You see the same From From this perspective up here you can see that the the Sea Mount, where this ship is wrecked on extends. It's not very big. You've come to the sort of western edge of it, and it seems like it extends maybe four hundred feet something like that to the east. Uh it's sort of a a jagged semicircle in shape, and it slopes down um quite deep. You can see there are—there are other sunken ships on the on the far side, and um the on the near side sort of below the wrecked ship that's close to where you are, and below these four uh galleys moored at sea there's maybe one hundred, two hundred feet down, some kind of faint greenish glow, like there's some source of light deep below the ocean that shouldn't be there."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Upper entrance cave and boulder",
+      "kind": "cave",
+      "evidence": [
+        {
+          "startUid": "u0429",
+          "endUid": "u0433",
+          "quote": "DM: At—after about, I don't know, a hundred feet. It's getting dark. This is quite deep, and the the glow is obvious, and you can see now that it's coming from what looks like the opening of a cave in the side of this sea mount. Still no sign of any creatures."
+        },
+        {
+          "startUid": "u0475",
+          "endUid": "u0480",
+          "quote": "DM: Uh so you notice um uh Wellby you would notice that. So the cave doesn't go very deep. It only goes maybe twenty-five, thirty feet and It comes to a point, and there's a large boulder um sort of at the back of the seamount, and both Artem and Wellby you would. You would notice that the boulder looks like it—like there's like there's almost a track where the boulder can roll along like it. It can shift back and forth. But you're still forty feet away, not even inside the cave yet, so you can't really see anything else at this distance."
+        },
+        {
+          "startUid": "u0518",
+          "endUid": "u0525",
+          "quote": "DM: So the cave is only about it's about twenty, five, thirty feet wide at the mouth, and it narrows down to about a ten foot wide point where this boulder—since the boulder itself is maybe. Um. Ah, it's not. I mean It's It's not huge. It certainly could be moved by a strong person, and the green light is there's you can actually, now that Alimash, you would see this once you start to get closer to it. So there's light sort of faintly glowing all around the walls, but the most intense light is coming up around the bottom. Leaking up from the bottom of this boulder. The boulder itself is entirely black."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0429",
+              "endUid": "u0433",
+              "quote": "it's coming from what looks like the opening of a cave in the side of this sea mount."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Stone-turbine chamber",
+      "kind": "cavern",
+      "evidence": [
+        {
+          "startUid": "u0604",
+          "endUid": "u0612",
+          "quote": "DM: Uh looking down, you see um this big cave, lined with this plant life and glowing algae, except that the rough stone floor is dominated by this enormous stone contraption that looks like some sort of giant windmill set into the floor, the huge blades of it spinning slowly. And you see, uh, uh, let's So here, um, hey, hold on!"
+        },
+        {
+          "startUid": "u0676",
+          "endUid": "u0678",
+          "quote": "DM: The fan is on the bottom. It's spinning slowly. You're up—you're twenty feet up. It's like the cavern itself. The ceiling is thirty feet above the floor, so you're currently at the ceiling. Spinning Fan is at the floor."
+        },
+        {
+          "startUid": "u0703",
+          "endUid": "u0706",
+          "quote": "DM: It's protecting a hole in the floor. And now this square here, there's a hole in the ceiling here.\n\nArtem Novolozek: Okay. So we swam down through a hole. Are we peering down through a hole?\n\nDM: You Haven't entered this room.\n\nArtem Novolozek: Oh, okay.\n\nDM: There's a hole in the ceiling right here, and you are on the roof of the floor above, looking down into this glowing room."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0429",
+              "endUid": "u0433",
+              "quote": "DM: At—after about, I don't know, a hundred feet. It's getting dark. This is quite deep, and the the glow is obvious, and you can see now that it's coming from what looks like the opening of a cave in the side of this sea mount. Still no sign of any creatures."
+            },
+            {
+              "startUid": "u0604",
+              "endUid": "u0612",
+              "quote": "DM: Uh looking down, you see um this big cave, lined with this plant life and glowing algae, except that the rough stone floor is dominated by this enormous stone contraption that looks like some sort of giant windmill set into the floor, the huge blades of it spinning slowly. And you see, uh, uh, let's So here, um, hey, hold on!"
+            },
+            {
+              "startUid": "u0703",
+              "endUid": "u0706",
+              "quote": "DM: It's protecting a hole in the floor. And now this square here, there's a hole in the ceiling here.\n\nArtem Novolozek: Okay. So we swam down through a hole. Are we peering down through a hole?\n\nDM: You Haven't entered this room.\n\nArtem Novolozek: Oh, okay.\n\nDM: There's a hole in the ceiling right here, and you are on the roof of the floor above, looking down into this glowing room."
+            }
+          ]
+        },
+        {
+          "relation": "below",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0703",
+              "endUid": "u0706",
+              "quote": "DM: It's protecting a hole in the floor. And now this square here, there's a hole in the ceiling here.\n\nArtem Novolozek: Okay. So we swam down through a hole. Are we peering down through a hole?\n\nDM: You Haven't entered this room.\n\nArtem Novolozek: Oh, okay.\n\nDM: There's a hole in the ceiling right here, and you are on the roof of the floor above, looking down into this glowing room."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Hostage chamber below the turbine",
+      "kind": "cavern",
+      "evidence": [
+        {
+          "startUid": "u1860",
+          "endUid": "u1870",
+          "quote": "DM: So You see, when you look below, there is a another chamber. Um, this one, This one is just about the same size, but there's a like a metal uh porthole basically that can turn to open in the floor. There is a massive shark like way, bigger than the ones here kind of swimming around, and there's three sailors that look not very skilled with arms uh kind of loitering about. Every now and then you'll see like a tentacle, reach up from the a hole in the floor. Kind of wave around in this, like mucus floats off from the tentacle, and the sailors will sort of breathe it in, and you can see that there's like slime kind of coating their cheeks and around their face. Um."
+        },
+        {
+          "startUid": "u1871",
+          "endUid": "u1879",
+          "quote": "DM: Against one wall there are two Kenku that are but like chained to the wall by coral growths that have grown around their wrists. Um. They also have this sort of slime on their around their faces one looks um unconscious. The other looks like they've been beaten, but are still like sort of maintaining consciousness, and then you'll see another tentacle reach up, and more slime will sort of drift out from it."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0429",
+              "endUid": "u0433",
+              "quote": "DM: At—after about, I don't know, a hundred feet. It's getting dark. This is quite deep, and the the glow is obvious, and you can see now that it's coming from what looks like the opening of a cave in the side of this sea mount. Still no sign of any creatures."
+            },
+            {
+              "startUid": "u1850",
+              "endUid": "u1850",
+              "quote": "DM: So you are going to go through the now non-spinning blades."
+            },
+            {
+              "startUid": "u1860",
+              "endUid": "u1870",
+              "quote": "DM: So You see, when you look below, there is a another chamber. Um, this one, This one is just about the same size, but there's a like a metal uh porthole basically that can turn to open in the floor. There is a massive shark like way, bigger than the ones here kind of swimming around, and there's three sailors that look not very skilled with arms uh kind of loitering about. Every now and then you'll see like a tentacle, reach up from the a hole in the floor. Kind of wave around in this, like mucus floats off from the tentacle, and the sailors will sort of breathe it in, and you can see that there's like slime kind of coating their cheeks and around their face. Um."
+            }
+          ]
+        },
+        {
+          "relation": "below",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1850",
+              "endUid": "u1850",
+              "quote": "DM: So you are going to go through the now non-spinning blades."
+            },
+            {
+              "startUid": "u1860",
+              "endUid": "u1870",
+              "quote": "DM: So You see, when you look below, there is a another chamber. Um, this one, This one is just about the same size, but there's a like a metal uh porthole basically that can turn to open in the floor. There is a massive shark like way, bigger than the ones here kind of swimming around, and there's three sailors that look not very skilled with arms uh kind of loitering about. Every now and then you'll see like a tentacle, reach up from the a hole in the floor. Kind of wave around in this, like mucus floats off from the tentacle, and the sailors will sort of breathe it in, and you can see that there's like slime kind of coating their cheeks and around their face. Um."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Aboleth’s lower cavern",
+      "kind": "cavern",
+      "evidence": [
+        {
+          "startUid": "u1880",
+          "endUid": "u1880",
+          "quote": "Wellby: Awesome. I want to send the fish down through the tentacle hole. Let's see what's on the bottom level."
+        },
+        {
+          "startUid": "u1882",
+          "endUid": "u1888",
+          "quote": "DM: You catch a brief glimpse of this large of three things. You catch a brief glimpse of one, as you three see three sea elves standing around.\n\nDM: Um Two, you see this massive like forty foot across, like giant amber crystal, with just one large eye staring out from it.\n\nDM: And three, you see a somewhat smaller than that, maybe ten or fifteen feet across, like tentacled creature like described, with like three rows of three eyes, a mouthful of huge teeth like about twelve tentacles waving around, and then Tentacle grabs you, and you are eaten."
+        },
+        {
+          "startUid": "u2902",
+          "endUid": "u2915",
+          "quote": "DM: You're looking okay? So you're looking at um a big open cave, sea cave like you've seen before. There is this purple, like, I—uh giant sort of um uh a yellow crystal that juts up from the center of the cavern, and like this shadowy figure with an enormous eye, seems like it's trapped in it. Now that you're in the room, you can see like it's moving slightly like the eye is looking around.\n\nDM: Um. The floor is covered with like scattered piles of coins. A few other treasures, the fiery heart of a remorhaz Um. The tentacle creature aboleth is swimming around. There are three sea elves that are sort of swimming and guarding around it. Um. That also appear to be charmed.\n\nDM: The walls of the cave are ah covered in like jagged, broken lines of coral, so this yellow crystal is like the yellow crystal, and then all around the edge, there's coral that's all broken Right? Um. Oh, let me put the sea elves and monster! Sorry I didn't realize they were on the GM layer."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1880",
+              "endUid": "u1880",
+              "quote": "Wellby: Awesome. I want to send the fish down through the tentacle hole. Let's see what's on the bottom level."
+            },
+            {
+              "startUid": "u1882",
+              "endUid": "u1888",
+              "quote": "DM: You catch a brief glimpse of this large of three things. You catch a brief glimpse of one, as you three see three sea elves standing around.\n\nDM: Um Two, you see this massive like forty foot across, like giant amber crystal, with just one large eye staring out from it.\n\nDM: And three, you see a somewhat smaller than that, maybe ten or fifteen feet across, like tentacled creature like described, with like three rows of three eyes, a mouthful of huge teeth like about twelve tentacles waving around, and then Tentacle grabs you, and you are eaten."
+            },
+            {
+              "startUid": "u2902",
+              "endUid": "u2907",
+              "quote": "DM: You're looking okay? So you're looking at um a big open cave, sea cave like you've seen before. There is this purple, like, I—uh giant sort of um uh a yellow crystal that juts up from the center of the cavern, and like this shadowy figure with an enormous eye, seems like it's trapped in it. Now that you're in the room, you can see like it's moving slightly like the eye is looking around."
+            }
+          ]
+        },
+        {
+          "relation": "below",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1880",
+              "endUid": "u1880",
+              "quote": "Wellby: Awesome. I want to send the fish down through the tentacle hole. Let's see what's on the bottom level."
+            },
+            {
+              "startUid": "u1882",
+              "endUid": "u1888",
+              "quote": "DM: You catch a brief glimpse of this large of three things. You catch a brief glimpse of one, as you three see three sea elves standing around.\n\nDM: Um Two, you see this massive like forty foot across, like giant amber crystal, with just one large eye staring out from it.\n\nDM: And three, you see a somewhat smaller than that, maybe ten or fifteen feet across, like tentacled creature like described, with like three rows of three eyes, a mouthful of huge teeth like about twelve tentacles waving around, and then Tentacle grabs you, and you are eaten."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Underwater elven village in the coral image",
+      "kind": "illusory scene",
+      "evidence": [
+        {
+          "startUid": "u3179",
+          "endUid": "u3186",
+          "quote": "DM: All of you see appearing in the, like, in the coral, this, like, picture of like an elven, a village of elves like underground and, um, ah, sorry, underwater, and there's a There's a young There's a woman who's like dancing, and she looks out, and she beckons for Shoal to come over. Do you go? I mean not. You're not forced to go.\n\nShoal: Is it, my dear Gwendolyn? Or is it just some—?\n\nDM: It is your dear Gwendolyn.\n\nShoal: Oh, no, Ah. I'm gonna I'm gonna do a A. D twenty, and if it's above ten, I think I'm gonna start moving that way, Nat one. I resist love. Our guy."
+        }
+      ],
+      "note": "A beckoning image, not a physical visit; the transcript does not explicitly identify this village as Quanyi."
+    },
+    "p13": {
+      "label": "Medju",
+      "kind": "city",
+      "evidence": [
+        {
+          "startUid": "u3288",
+          "endUid": "u3295",
+          "quote": "DM: You see in the wall behind you. Um the city of Medju. And out at the top of the tower a rich lord sitting in conversation with a blue-skinned. Ah, airy creature. You recognize the djinn and um."
+        }
+      ],
+      "vaultPath": "Gazetteer/Eastern Green Sea/Medju.md"
+    },
+    "p14": {
+      "label": "Tower top in the Medju image",
+      "kind": "illusory scene",
+      "evidence": [
+        {
+          "startUid": "u3288",
+          "endUid": "u3298",
+          "quote": "DM: You see in the wall behind you. Um the city of Medju. And out at the top of the tower a rich lord sitting in conversation with a blue-skinned. Ah, airy creature. You recognize the djinn and um.\n\nDM: The djinn looks at you and whispers, \"I can grant you a wish if you come here.\" An image in the wall in the coral. Make a Wisdom save, and if you succeed, it's up to you whether you go over or not. If you fail, you are required to."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u3288",
+              "endUid": "u3295",
+              "quote": "DM: You see in the wall behind you. Um the city of Medju. And out at the top of the tower a rich lord sitting in conversation with a blue-skinned. Ah, airy creature. You recognize the djinn and um."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0014",
+        "endUid": "u0025"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The five PCs gather in the inn’s quiet back room in Wahacha.",
+      "place": "p04",
+      "evidence": [
+        {
+          "startUid": "u0014",
+          "endUid": "u0019",
+          "quote": "DM: The five of you have all found your way, and through various routes, some more circuitous than others to the Dolphin’s Rest, a boisterous inn, um, serving the sailors on shore leave from the merchant vessels that ply the trade routes to and around the Vermillion Isles."
+        },
+        {
+          "startUid": "u0020",
+          "endUid": "u0025",
+          "quote": "Here, in a quiet back room, you've gathered to discuss the problem of raiders"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0235",
+        "endUid": "u0311"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Sail from Wahacha through the Vermillion Isles, then into the eastern ocean; after drifting overnight, approach the scouted seamount and its anchored galleys.",
+      "from": "p02",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "sail",
+      "vehicle": "p05",
+      "route": [
+        {
+          "reading": "Navigate through the Vermillion Isles for the better part of the day.",
+          "place": "p01"
+        },
+        {
+          "reading": "Enter the ocean beyond the islands and drift overnight.",
+          "place": "p06"
+        }
+      ],
+      "note": "The seamount arrival is an anchorage approach aboard the boat, not a landing on the wreck or galleys.",
+      "evidence": [
+        {
+          "startUid": "u0235",
+          "endUid": "u0238",
+          "quote": "DM: So you set out. Um. You are, of course, welcome to talk more on the boat."
+        },
+        {
+          "startUid": "u0256",
+          "endUid": "u0266",
+          "quote": "DM: Um, and the three of us. So you you uh set out. Um. It's a it's a small boat. It's like a it's, you know, can easily be crewed by one. Just a single single-masted sailing ship with space for eight or so, and auxiliary oars. If the wind is down. Um setting out on the you're setting out now is so the you know the first little bit of your journey is sort of weaving through the Vermillion Isles. So you spend the the better part of the day sort of tacking and navigating through. Since you started on the eastern edge through the Vermillion Isles to the Endless Ocean which rumor has, It is literally endless. You can sail forever, and never find land. Whether that's true or not nobody knows, because nobody has ever come back from a journey in the—and you, although the further you go out, the larger the squid are, so that presumably continues indefinite as well. So it's just squid."
+        },
+        {
+          "startUid": "u0293",
+          "endUid": "u0303",
+          "quote": "DM: The food is actually pretty good that the Kenku have packed for you. It's like um chili, seafood fresh. Ah. Fresh vegetables, You know some some local beer, water. You gotta. You can put together a pretty good meal out of this. Um. So you drift off and wake in the morning as you sail and approach the ah."
+        },
+        {
+          "startUid": "u0304",
+          "endUid": "u0311",
+          "quote": "DM: The location that's been scouted by by people already, and you can see there's one wrecked ship that's just—uh, seems like it's been wrecked for quite a while, because it's entirely rotted away, and a cluster of about four of these galleys maybe only a little bit bigger than than your own ship uh could be crewed by twelve or fourteen uh people on oars uh big enough for two masts, but with a single sail each that seemed to be drifting at anchor. Nothing else disturbs the water."
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0304",
+        "endUid": "u0320"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Remain aboard the supplied boat beside the seamount anchorage; the wreck and four empty galleys are seen, not boarded.",
+      "place": "p05",
+      "locationContext": [
+        {
+          "subject": "p05",
+          "relation": "near",
+          "target": "p07"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0304",
+          "endUid": "u0311",
+          "quote": "DM: The location that's been scouted by by people already, and you can see there's one wrecked ship that's just—uh, seems like it's been wrecked for quite a while, because it's entirely rotted away, and a cluster of about four of these galleys maybe only a little bit bigger than than your own ship uh could be crewed by twelve or fourteen uh people on oars uh big enough for two masts, but with a single sail each that seemed to be drifting at anchor. Nothing else disturbs the water."
+        },
+        {
+          "startUid": "u0314",
+          "endUid": "u0314",
+          "quote": "DM: They're just at anchor. There's nobody in them."
+        },
+        {
+          "startUid": "u0315",
+          "endUid": "u0320",
+          "quote": "DM: There's one wrecked ship, one ship that's completely that's run aground on something. Presumably there's some sea mount or or something for it to run aground on. So I'm sure here and then floating off, floating offshore, just drifting on sea anchors or moored to something, are four of these little galleys that are in good repair. They clearly could be used."
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0346",
+        "endUid": "u0386"
+      },
+      "actors": [
+        "Rufus"
+      ],
+      "reading": "Fly a scouting circuit above the masts and return to the party’s boat.",
+      "from": "p05",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Circle over the seamount and moored vessels.",
+          "place": "p07"
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0346",
+          "endUid": "u0350",
+          "quote": "Rufus: Um. But meanwhile i'll i'll be.\n\nDM: That's fine if you dive off while he's muttering, You don't have to wait for the water breathing.\n\nRufus: So I mean i'll i'll fly at a safe altitude above the tops of the masts of the boats like fifty to one hundred feet up or something, and just make a circle around."
+        },
+        {
+          "startUid": "u0383",
+          "endUid": "u0386",
+          "quote": "Rufus: That's weird, I alight on the deck of our little boat, and report to the others."
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0353",
+        "endUid": "u0382"
+      },
+      "actors": [
+        "Rufus"
+      ],
+      "reading": "From the air, see the seamount, further wrecks and a stationary green glow below the water.",
+      "place": "p07",
+      "mode": "local",
+      "note": "Rufus is flying above the water, not at the underwater glow.",
+      "evidence": [
+        {
+          "startUid": "u0353",
+          "endUid": "u0369",
+          "quote": "DM: So um you. You see the same From From this perspective up here you can see that the the Sea Mount, where this ship is wrecked on extends. It's not very big. You've come to the sort of western edge of it, and it seems like it extends maybe four hundred feet something like that to the east. Uh it's sort of a a jagged semicircle in shape, and it slopes down um quite deep. You can see there are—there are other sunken ships on the on the far side, and um the on the near side sort of below the wrecked ship that's close to where you are, and below these four uh galleys moored at sea there's maybe one hundred, two hundred feet down, some kind of faint greenish glow, like there's some source of light deep below the ocean that shouldn't be there."
+        },
+        {
+          "startUid": "u0379",
+          "endUid": "u0382",
+          "quote": "DM: In your experience, most weird things glowing in the depths of the ocean are alive, and so would presumably be moving around. This seems to be a glow coming from something in the side of this this sunken island."
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0406",
+        "endUid": "u0525"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Dive from the boat, descend beside the seamount and enter the short upper cave to examine the boulder.",
+      "from": "p05",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "swim",
+      "evidence": [
+        {
+          "startUid": "u0406",
+          "endUid": "u0406",
+          "quote": "DM: Um. So you all dive underwater."
+        },
+        {
+          "startUid": "u0429",
+          "endUid": "u0433",
+          "quote": "DM: At—after about, I don't know, a hundred feet. It's getting dark. This is quite deep, and the the glow is obvious, and you can see now that it's coming from what looks like the opening of a cave in the side of this sea mount. Still no sign of any creatures."
+        },
+        {
+          "startUid": "u0475",
+          "endUid": "u0480",
+          "quote": "But you're still forty feet away, not even inside the cave yet"
+        },
+        {
+          "startUid": "u0515",
+          "endUid": "u0516",
+          "quote": "DM: But it's very—this is old, right like anywhere. You've been all the corals alive, like Everything's like flourishing vibrant. This is very old and looks dead to your eyes.\n\nAlimash: Alimash was like, Well, we'll find out, and he gets in a defensive position and starts walking into the cave or swim walking in."
+        },
+        {
+          "startUid": "u0518",
+          "endUid": "u0525",
+          "quote": "DM: So the cave is only about it's about twenty, five, thirty feet wide at the mouth, and it narrows down to about a ten foot wide point where this boulder—since the boulder itself is maybe. Um. Ah, it's not. I mean It's It's not huge. It certainly could be moved by a strong person, and the green light is there's you can actually, now that Alimash, you would see this once you start to get closer to it. So there's light sort of faintly glowing all around the walls, but the most intense light is coming up around the bottom. Leaking up from the bottom of this boulder. The boulder itself is entirely black."
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u0574",
+        "endUid": "u0706"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Opening the boulder reveals the turbine chamber and shark riders below; the party initially remains above the opening.",
+      "place": "p09",
+      "observerPlace": "p08",
+      "mode": "local",
+      "evidence": [
+        {
+          "startUid": "u0574",
+          "endUid": "u0579",
+          "quote": "DM: But the boulder rolls out of the way, and you can see uh, [garbled] you can see a cavern below that appears to be like a natural sea cave. Ah. What was it—because of it? As you can see it's walls lined with plant life, and and this green glow is coming from an algae that is, seems to be much more intense down in this cave.\n\nAlimash: Is it too late for me to roll my um?"
+        },
+        {
+          "startUid": "u0604",
+          "endUid": "u0612",
+          "quote": "DM: Uh looking down, you see um this big cave, lined with this plant life and glowing algae, except that the rough stone floor is dominated by this enormous stone contraption that looks like some sort of giant windmill set into the floor, the huge blades of it spinning slowly. And you see, uh, uh, let's So here, um, hey, hold on!"
+        },
+        {
+          "startUid": "u0613",
+          "endUid": "u0619",
+          "quote": "DM: You see, in this, down in this, in this cave there are um three like humans riding giant sharks, and they seem to be well. It seems like the noise of this boulder moving has interrupted some sort of joust or game they were playing, and they're all sort of turning now to swim and look up and and see what might be happening."
+        },
+        {
+          "startUid": "u0703",
+          "endUid": "u0706",
+          "quote": "DM: It's protecting a hole in the floor. And now this square here, there's a hole in the ceiling here.\n\nArtem Novolozek: Okay. So we swam down through a hole. Are we peering down through a hole?\n\nDM: You Haven't entered this room.\n\nArtem Novolozek: Oh, okay.\n\nDM: There's a hole in the ceiling right here, and you are on the roof of the floor above, looking down into this glowing room."
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0734",
+        "endUid": "u0735"
+      },
+      "actors": [
+        "Shoal"
+      ],
+      "reading": "Shoal drops through the opening into the turbine chamber as he enlarges, triggering initiative.",
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "swim",
+      "evidence": [
+        {
+          "startUid": "u0731",
+          "endUid": "u0733",
+          "quote": "DM: Okay, that's going to cost you ten feet of movement to fit through the hole. Now that you're big, just keep that in mind.\n\nShoal: Oh, maybe i'll drop down. I'll drop down as I grow."
+        },
+        {
+          "startUid": "u0734",
+          "endUid": "u0735",
+          "quote": "DM: Okay, In that case, as you enter the room uh, everybody roll initiative."
+        },
+        {
+          "startUid": "u0767",
+          "endUid": "u0777",
+          "quote": "DM: With So I I have too many windows open. Um. Well, you guys haven't moved to the hole yet. So you're all still on the from the ceiling of the far—the other room. Um. I guess I guess. Uh initiative was triggered by Shoal dropping through and growing big. So we'll say Shoal’s on the other side, right at the top of the um. But ah, yeah, he is not. The shark is not well. This shark, I guess, actually would have moved a little bit. So this one here is in is in range."
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0782",
+        "endUid": "u0947"
+      },
+      "actors": [
+        "Wellby",
+        "Alimash",
+        "Rufus"
+      ],
+      "reading": "Wellby, Alimash and Rufus enter the turbine chamber on their turns; Artem initially casts through the opening above.",
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "swim",
+      "evidence": [
+        {
+          "startUid": "u0782",
+          "endUid": "u0786",
+          "quote": "Wellby: Uh, all right. Um. I will uh go into the room and uh let's see i'll just move um next to the shark. Kind of put myself under someone else, and I will attempt to stab it."
+        },
+        {
+          "startUid": "u0807",
+          "endUid": "u0809",
+          "quote": "Alimash: So Alimash will swim down, and maybe I can move them, and we'll move that."
+        },
+        {
+          "startUid": "u0936",
+          "endUid": "u0937",
+          "quote": "DM: While you first. You're going to have to swim in to the dive down into the into the room so you can aim your arrow."
+        },
+        {
+          "startUid": "u0939",
+          "endUid": "u0947",
+          "quote": "DM: Yeah, it's about forty-five feet away. So ah. But that's within the within the short range of your bow. So you don't have disadvantage. Okay, till I do that. Hey, guys? Um, that means that. What did I? I just wrote this this morning. It's a wisdom saving throw. Yep. So all the sharks need to roll a Wisdom saving throw. But it doesn't affect them until their turn because it's using their movement. Okay, that's one success, one failure and one—two successes, one failure—finally got the—and."
+        },
+        {
+          "startUid": "u0963",
+          "endUid": "u0963",
+          "quote": "DM: Okay, I guess where you're putting it here. You could just stick your head down.\n\nArtem Novolozek: I mean fine if I have to take three feet at five feet of movement to I'm basically sticking my head through the hole in casting Shatter.\n\nDM: Okay, Got it? Um."
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1501",
+        "endUid": "u1503"
+      },
+      "actors": [
+        "Artem Novolozek"
+      ],
+      "reading": "Artem finally enters the turbine chamber while the remaining shark is finished; the current then catches him in the fan.",
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "swim",
+      "evidence": [
+        {
+          "startUid": "u1501",
+          "endUid": "u1503",
+          "quote": "DM: Ah, so you you enter the room now and sort of head in this direction. Shark, shark dies um. What do you do it. What is? What is everybody else doing here?"
+        },
+        {
+          "startUid": "u1523",
+          "endUid": "u1524",
+          "quote": "DM: You? So you get sucked in you. The blades like slash on your body and stop, and you are restrained."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u1857",
+        "endUid": "u1879"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "During the short rest, Wellby remotely scouts through a fish and sees the hostage chamber with two chained Kenku.",
+      "place": "p10",
+      "observerPlace": "p09",
+      "mode": "remote",
+      "observedActors": [
+        "Nahto",
+        "Skoda"
+      ],
+      "evidence": [
+        {
+          "startUid": "u1852",
+          "endUid": "u1852",
+          "quote": "Artem Novolozek: He can’t talk or see, but we could send it.\n\nWellby: I want to go. Um. No, David, let me go, find a fish and Beast Sense it, and send it ahead and see what's below."
+        },
+        {
+          "startUid": "u1857",
+          "endUid": "u1879",
+          "quote": "DM: Uh so Uh, you see, I all all just during the short rest you You went out. You got a fish from the cave. There is fish around um.\n\nDM: So You see, when you look below, there is a another chamber. Um, this one, This one is just about the same size, but there's a like a metal uh porthole basically that can turn to open in the floor. There is a massive shark like way, bigger than the ones here kind of swimming around, and there's three sailors that look not very skilled with arms uh kind of loitering about. Every now and then you'll see like a tentacle, reach up from the a hole in the floor. Kind of wave around in this, like mucus floats off from the tentacle, and the sailors will sort of breathe it in, and you can see that there's like slime kind of coating their cheeks and around their face. Um.\n\nDM: Against one wall there are two Kenku that are but like chained to the wall by coral growths that have grown around their wrists. Um. They also have this sort of slime on their around their faces one looks um unconscious. The other looks like they've been beaten, but are still like sort of maintaining consciousness, and then you'll see another tentacle reach up, and more slime will sort of drift out from it."
+        }
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u1880",
+        "endUid": "u1896"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Through the fish, look through the tentacle opening into the bottom room, seeing sea elves, the crystal’s eye and the tentacled creature before it eats the fish.",
+      "place": "p11",
+      "observerPlace": "p09",
+      "mode": "remote",
+      "note": "The fish dies and Wellby’s senses return; this does not put Wellby physically in the lower cavern.",
+      "evidence": [
+        {
+          "startUid": "u1880",
+          "endUid": "u1880",
+          "quote": "Wellby: Awesome. I want to send the fish down through the tentacle hole. Let's see what's on the bottom level."
+        },
+        {
+          "startUid": "u1882",
+          "endUid": "u1896",
+          "quote": "DM: You catch a brief glimpse of this large of three things. You catch a brief glimpse of one, as you three see three sea elves standing around.\n\nDM: Um Two, you see this massive like forty foot across, like giant amber crystal, with just one large eye staring out from it.\n\nDM: And three, you see a somewhat smaller than that, maybe ten or fifteen feet across, like tentacled creature like described, with like three rows of three eyes, a mouthful of huge teeth like about twelve tentacles waving around, and then Tentacle grabs you, and you are eaten.\n\nRufus: Nice. What’s inside of it?\n\nWellby: That's the I've never been killed while doing a Beast Sense before. That’s new.\n\nDM: You like snap back to Wellby like.\n\nWellby: That’s got to be unpleasant. That sounds pleasant. Well, i'll relay all that to my friends.\n\nRufus: Is it a giant gem with an eye in it? Oh.\n\nDM: Giant gem, like massively large gem, with one huge eye kind of looking out. The eye is nearly the same size as this tentacle creature."
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2147",
+        "endUid": "u2208"
+      },
+      "actors": [
+        "Alimash",
+        "Shoal"
+      ],
+      "reading": "Alimash and Shoal descend through the stopped fan to the chained Kenku and begin the rescue.",
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "swim",
+      "evidence": [
+        {
+          "startUid": "u2152",
+          "endUid": "u2158",
+          "quote": "DM: That's where you appear.\n\nAlimash: I appear there and then I'm going to make a beeline.\n\nDM: So so it's twenty, five and thirty. It's about forty feet. I say you move five feet of movement getting to the Fan, and it's about forty feet to get to the Kenku, because they are at the bottom here at the top.\n\nAlimash: Okay. So I So What's a dash? Just an extra? Oh, my action is the movement. Use your action to move. I still have one action left, right? Not that I can really do much with it. But okay, that's what I do."
+        },
+        {
+          "startUid": "u2170",
+          "endUid": "u2181",
+          "quote": "Shoal: Yeah, uh. Shoal’s gonna head down as well.\n\nUnknown: If you can pop them down there.\n\nDM: Yeah. Oops Uh: okay, that's five feet of movement to drop through. You're now at the ceiling. Okay, the shark is right next to you, but is incapacitated.\n\nShoal: Right? Um. So to get over to that guy is.\n\nDM: That would be about forty feet of movement. Because you're It's diagonal. You're there on the ground. You're on the ceiling.\n\nShoal: I will go to them with a dash as well."
+        },
+        {
+          "startUid": "u2191",
+          "endUid": "u2208",
+          "quote": "DM: Uh yeah. You take a solid giant swing with your fist, and you—the coral cracks and the the binds around this Kenku fall free.\n\nShoal: Do I have the unconscious one, or the awake one?\n\nDM: Ah, you have the awake one. We're dead, but I make.\n\nShoal: That is all of my actions and bonuses and everything else.\n\nDM: Okay, Um.\n\nShoal: Oh, yeah, I guess I would have a little bit of move left with dash. So I moved forty to get there.\n\nDM: Doesn't Action Surge, give you. Does it give you one extra action or no? It doesn't move? You'd have another twenty feet of movement.\n\nShoal: Twenty feet of movement. But if I was dragging this person, that would be.\n\nDM: But you're You're a size larger than them, so it doesn't matter Still twenty feet of movement.\n\nShoal: Okay? Well, then, i'll go up toward you.\n\nAlimash: Could he grab both of them like one of them still fastened to the wall, so he uses his turn to grab it. Get close to my guy. Next turn grabs my guy. I still big and could just push him up. That's actually less total turns.\n\nShoal: Right? Yeah, I was gonna say that I'm gonna come to around here, anyway, so that I've got the ability to protect.\n\nDM: This is like a big hunk of coral that goes up about ten feet. So now you're use all your move to get up there. And now you're now You're above both of them.\n\nShoal: Am I? I? I've got about like reach around me to everybody or no?\n\nDM: Um. Yeah, because it's ten feet up, and you've got a ten foot reach that you do have reached around you, too.\n\nShoal: So it should be. I should be able to protect there, so i'll just sort of hover in that space."
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2233",
+        "endUid": "u2256"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby enters the hostage chamber and begins dragging an incapacitated sailor, making only a little progress.",
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "swim",
+      "evidence": [
+        {
+          "startUid": "u2233",
+          "endUid": "u2256",
+          "quote": "Wellby: Um. Can I try and pull like take the charmed sailor out?\n\nDM: That's quite That's like forty feet away, more than forty feet away from you.\n\nArtem Novolozek: Wow!\n\nWellby: Hello! Can you move?\n\nArtem Novolozek: Can you take? Can you end up with three three move actions in a turn?\n\nWellby: You can. Yeah. Sure. It seems like it should be enough move to do all that. Yeah, I will do all.\n\nDM: So that's that's move bonus to get to this guy. Then What are you doing?\n\nWellby: Um. Grabbing him and swimming back up again?\n\nDM: Okay. So you're only going to move five feet swimming with him. Actually, Um, he's larger than you are, so you're not going to be able to really move at all.\n\nArtem Novolozek: Well, you can drag things that are much larger than you through the water.\n\nDM: I know, but you move at half speed, and you're already moving at half speed. So you're moved at quarter speed.\n\nArtem Novolozek: Because he doesn't have a swim speed. He's moving. We're moving at half speed.\n\nWellby: Uh, all right. That's good enough. I'll. I'll grab them and start the process at least, and keep going.\n\nDM: So like. Just move a little bit. Um Artem you're up."
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2536",
+        "endUid": "u2551"
+      },
+      "actors": [
+        "Shoal",
+        "Nahto",
+        "Skoda"
+      ],
+      "reading": "Shoal moves to the ceiling and pushes the two unconscious Kenku through the stopped fan into the upper room.",
+      "from": "p10",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "swim",
+      "note": "The accepted later clarification at u2696–u2702 places Shoal at the top with the Kenku before he pulls them back down.",
+      "evidence": [
+        {
+          "startUid": "u2536",
+          "endUid": "u2551",
+          "quote": "Shoal: Okay? Um. So I have basically two unconscious bird people.\n\nArtem Novolozek: But you're huge. Can you carry both of them?\n\nShoal: Ah, at this point I'm near the ceiling. I went up last turn.\n\nDM: You're near the ceiling. The turtle and the mage are sort of this clump of people here are in the middle of the of the terrain, and then the turtle is also in the middle.\n\nShoal: Okay. So I should be able to just like, crawl the ceiling with these two and get out or push them through the the blades.\n\nDM: Ah, yeah, you should probably be able to. You should probably be able. Yeah, You can move that distance and push them through the blades.\n\nShoal: Okay, So that's my turn.\n\nDM: Yeah.\n\nShoal: Okay, I will do that. And uh, yeah, I guess that's gonna be it."
+        },
+        {
+          "startUid": "u2662",
+          "endUid": "u2663",
+          "quote": "DM: Okay. So you stabilize the one who's wounded. Everybody else is just unconscious. There's now a basically a pile of unconscious bodies on the floor, plus the two unconscious Kenku in the next they are. I should move them because they're in the somebody should, by the way, bring the turtle."
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2696",
+        "endUid": "u2703"
+      },
+      "actors": [
+        "Shoal",
+        "Nahto",
+        "Skoda"
+      ],
+      "reading": "Shoal pulls both Kenku back down to avoid leaving them with the polymorphed shark, then drops to the lower hatch.",
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "swim",
+      "evidence": [
+        {
+          "startUid": "u2696",
+          "endUid": "u2703",
+          "quote": "Shoal: Uh yeah, I'm gonna. Do you remember where I am? I think I'm up at the top Right?\n\nDM: You're up at the top because you just dropped. You just push the Kenku up there out of range.\n\nShoal: Yeah, I'm gonna grab their tail feathers and pull them back down through again. Oh, the turtle’s up above. I don’t want them waking up to a giant shark that eats them. Um, and then I will, and then I will uh, just just drop down straight onto the grate with my big, heavy armor.\n\nDM: Okay."
+        }
+      ]
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2776",
+        "endUid": "u2782"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Propose moving the unconscious captives back to the turbine room, where Artem is; the response agrees but the physical transfer is not narrated.",
+      "from": "p10",
+      "to": "p09",
+      "completion": "planned",
+      "context": "planned",
+      "note": "This is an accepted plan without an explicit completed transfer in the polished source.",
+      "evidence": [
+        {
+          "startUid": "u2776",
+          "endUid": "u2782",
+          "quote": "Artem Novolozek: That my my vote would be. The shark is out, right? Pile the bodies up here where where Artem is and go from there.\n\nAlimash: Makes sense. There's no tentacles up there, either. So yeah, exactly. And do you know how to open the the hatch?"
+        }
+      ]
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u2895",
+        "endUid": "u2959"
+      },
+      "actors": [
+        "Rufus",
+        "Wellby"
+      ],
+      "reading": "Rufus and Wellby enter the aboleth’s cavern and take firing positions while the others are still above.",
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "swim",
+      "note": "The lower hatch was opened at u2842–u2844; the remainder of the party does not descend at the same moment.",
+      "evidence": [
+        {
+          "startUid": "u2895",
+          "endUid": "u2898",
+          "quote": "DM: Okay. Uh Where did Rufus go, Rufus. Um. You're just you're just launching it. Okay, hell uh It'll drop down and just shoot an arrow."
+        },
+        {
+          "startUid": "u2902",
+          "endUid": "u2907",
+          "quote": "DM: You're looking okay? So you're looking at um a big open cave, sea cave like you've seen before. There is this purple, like, I—uh giant sort of um uh a yellow crystal that juts up from the center of the cavern, and like this shadowy figure with an enormous eye, seems like it's trapped in it. Now that you're in the room, you can see like it's moving slightly like the eye is looking around."
+        },
+        {
+          "startUid": "u2930",
+          "endUid": "u2934",
+          "quote": "Wellby: I'm going to move into the farthest range possible, from which I can shoot and shoot. Where? Where is that?\n\nDM: Ah, that would be like right up at the ceiling sort of here is something like that.\n\nWellby: I yeah perfect."
+        },
+        {
+          "startUid": "u2959",
+          "endUid": "u2959",
+          "quote": "Artem Novolozek: The rest of us haven't dropped down yet."
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u3023",
+        "endUid": "u3057"
+      },
+      "actors": [
+        "Alimash",
+        "Shoal"
+      ],
+      "reading": "Alimash and Shoal descend into melee with the aboleth on their turns.",
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "swim",
+      "evidence": [
+        {
+          "startUid": "u3023",
+          "endUid": "u3027",
+          "quote": "Alimash: Oh, I wouldn't focus fire on the aboleth. Okay? So then I will jump down in melee range. Right? Okay. Here. Um, and begin stabbing."
+        },
+        {
+          "startUid": "u3051",
+          "endUid": "u3057",
+          "quote": "Shoal: Sure that's pretty impressive, so i'll come down and go go right there right maybe right there, because that's got reach on him. Um. And I will. I will power up the storm glaive’s charge and do some attacking."
+        }
+      ]
+    },
+    {
+      "id": "l20",
+      "type": "observation",
+      "source": {
+        "startUid": "u3174",
+        "endUid": "u3186"
+      },
+      "actors": [
+        "Shoal"
+      ],
+      "reading": "See an elven village and Gwendolyn beckoning in the coral; Shoal stays in the battle rather than approaching.",
+      "place": "p12",
+      "observerPlace": "p11",
+      "mode": "vision",
+      "evidence": [
+        {
+          "startUid": "u3174",
+          "endUid": "u3186",
+          "quote": "DM: Ah, let's see. Ah. Where's my map at the end of the turn before before that happens. But it's not going to affect that way too many times. Okay, I am going to say, Ah Shoal, make a Wisdom save you see.\n\nDM: All of you see appearing in the, like, in the coral, this, like, picture of like an elven, a village of elves like underground and, um, ah, sorry, underwater, and there's a There's a young There's a woman who's like dancing, and she looks out, and she beckons for Shoal to come over. Do you go? I mean not. You're not forced to go.\n\nShoal: Is it, my dear Gwendolyn? Or is it just some—?\n\nDM: It is your dear Gwendolyn.\n\nShoal: Oh, no, Ah. I'm gonna I'm gonna do a A. D twenty, and if it's above ten, I think I'm gonna start moving that way, Nat one. I resist love. Our guy."
+        }
+      ]
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u3195",
+        "endUid": "u3218"
+      },
+      "actors": [
+        "Artem Novolozek"
+      ],
+      "reading": "Artem moves down from the opening to line up Lightning Bolt on the aboleth and an elf.",
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "swim",
+      "note": "At u3203–u3205 the DM checks his entry square and confirms the destination is within movement.",
+      "evidence": [
+        {
+          "startUid": "u3195",
+          "endUid": "u3218",
+          "quote": "Artem Novolozek: Yeah, I'm gonna upcast lightning.\n\nDM: I mean, you can't do it from where you are. You've got to move. You've got to.\n\nArtem Novolozek: I just I can't move because I'm:\n\nDM: Oh, right. So you've got You've got fifteen feet of movement so you can.\n\nUnknown: Like you could go somewhere.\n\nDM: Yeah, you could go there and you could line it up? So you get the aboleth, and.\n\nArtem Novolozek: I mean I don't want to be in melee range of the aboleth. Can I go like there and line it up?\n\nDM: Uh then you're going to get Artem—or, sorry, Alimash.\n\nArtem Novolozek: Can I go to.\n\nDM: That's out of your move because you don't have swim speed; you've only got three squares of movement.\n\nArtem Novolozek: Where am I coming through here?\n\nDM: You're coming through the you coming through the one square up from there. There. Yeah, the one two. Oh, no, you could get there. You could get there. You could get there.\n\nArtem Novolozek: All right upcast Lightning Bolt Fourth level. Um and I'm going to use.\n\nDM: Which one of these two are you targeting.\n\nArtem Novolozek: Uh the one in melee combat?\n\nDM: Okay.\n\nArtem Novolozek: Um. I'm gonna spend a power surge to do it, which I forgot to add, I wish I had been spending them um to do an extra five force damage to the aboleth who will certainly take damage, because even if he makes it save it's half um, and it's a DC seventeen.\n\nDM: Dex saves are not—not his strong suit. Fails. Elf:\n\nArtem Novolozek: Yeah, and that's what That's twenty-six, too. Well, so, plus the twenty-seven. So the aboleth takes thirty, two, and the elf takes twenty-seven."
+        }
+      ]
+    },
+    {
+      "id": "l22",
+      "type": "observation",
+      "source": {
+        "startUid": "u3288",
+        "endUid": "u3304"
+      },
+      "actors": [
+        "Artem Novolozek"
+      ],
+      "reading": "See an image of a tower in Medju, a rich lord and a djinn promising a wish; Artem rejects the lure.",
+      "place": "p14",
+      "observerPlace": "p11",
+      "mode": "vision",
+      "evidence": [
+        {
+          "startUid": "u3288",
+          "endUid": "u3304",
+          "quote": "DM: You see in the wall behind you. Um the city of Medju. And out at the top of the tower a rich lord sitting in conversation with a blue-skinned. Ah, airy creature. You recognize the djinn and um.\n\nDM: The djinn looks at you and whispers, \"I can grant you a wish if you come here.\" An image in the wall in the coral. Make a Wisdom save, and if you succeed, it's up to you whether you go over or not. If you fail, you are required to.\n\nArtem Novolozek: Um. I have a lot of. I have a lot of bonuses to that. Well, not a lot. I have a plus two.\n\nDM: Okay, that succeeds.\n\nArtem Novolozek: No, I think Artem would know that it's he wouldn't fall for a trick.\n\nDM: Okay."
+        }
+      ]
+    }
+  ]
+}
