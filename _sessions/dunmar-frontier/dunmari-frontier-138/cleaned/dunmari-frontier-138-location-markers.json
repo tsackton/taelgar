@@ -1,0 +1,1264 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-138",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-session.yaml",
+    "sessionYamlSha256": "cfa199d53453e17ead72c3a6444f5af8e8bc8fb1cf46057eefb89790144d8f79",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-transcript.md",
+    "transcriptSha256": "ecfc4e6a24d00977571e8ab95ecad097de200d39d76654641e6fc25c38830f75"
+  },
+  "places": {
+    "p01": {
+      "label": "Isingue",
+      "kind": "ruined city",
+      "evidence": [
+        {
+          "startUid": "u0223",
+          "endUid": "u0226",
+          "quote": "DM: So okay. So let's set the scene bef- right, and then you're gonna roll initiative. You are s- so there's a, there's a pit that's c- there's like... So there's the cistern beneath the city that was once the, like, magical waters of Isingue, right? The... And there are wells."
+        },
+        {
+          "startUid": "u4245",
+          "endUid": "u4245",
+          "quote": "DM: So you're gonna end up in Isingue, but then your ship is in Isingue."
+        },
+        {
+          "startUid": "u4269",
+          "endUid": "u4270",
+          "quote": "DM: ... five rangers to sort of help start to get things settled. Spend a couple of days in Isingue making sure the Heartroot is safe."
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Isingue.md"
+    },
+    "p02": {
+      "label": "Collapsed central plaza and riverside clearing",
+      "kind": "battlefield",
+      "evidence": [
+        {
+          "startUid": "u0227",
+          "endUid": "u0232",
+          "quote": "DM: The w- the center well has collapsed, and so now there's a drop that goes down about 40 feet, just, like, rum- like, all the pillars have collapsed, the dirt has fallen in. There's just, like, rubble, um, below you, sloping down, so it, like, makes a... It's like a sinkhole in the middle of the plaza, basically."
+        },
+        {
+          "startUid": "u0233",
+          "endUid": "u0233",
+          "quote": "Unknown: Yeah."
+        },
+        {
+          "startUid": "u0234",
+          "endUid": "u0237",
+          "quote": "DM: The ooze itself is, like, 400 feet big, but the center of the ooze is at the bottom of that 40 foot drop, and then it has all these, like, tendrils that are climbing up out of the, out of the pit. So imagine... Like, imagine a crater like this, like a sloped descent in a big circle. It's at the center of that, and there's, like, a fair bit of mass around it."
+        },
+        {
+          "startUid": "u0238",
+          "endUid": "u0241",
+          "quote": "DM: There's... Like, it's... The ooze itself is, like, bubbling 30 feet up from the bottom of the ground, so there's at least, like, 30 feet of density of just ooze. It's almost more like an environment than a creature itself, right?"
+        },
+        {
+          "startUid": "u0242",
+          "endUid": "u0243",
+          "quote": "DM: And it's sending out long tendrils, like, 100 feet in each direction around the center of this collapsed mass. [coughs]"
+        },
+        {
+          "startUid": "u0451",
+          "endUid": "u0453",
+          "quote": "DM: But yeah, you're... It's, the ooze itself is like 300 feet across and is moving towards the river, so it's bi- it's biased towards the river."
+        },
+        {
+          "startUid": "u0454",
+          "endUid": "u0454",
+          "quote": "DM: And you are at the riverside, so the ooze is 200 feet away from the-"
+        },
+        {
+          "startUid": "u0455",
+          "endUid": "u0455",
+          "quote": "Kenzo: Okay."
+        },
+        {
+          "startUid": "u0456",
+          "endUid": "u0456",
+          "quote": "DM: ... clear spot."
+        },
+        {
+          "startUid": "u0457",
+          "endUid": "u0457",
+          "quote": "Delwath: We come out, we're 200 feet away."
+        },
+        {
+          "startUid": "u0458",
+          "endUid": "u0458",
+          "quote": "DM: You come out, you're 200 feet away from it."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0223",
+              "endUid": "u0226",
+              "quote": "DM: So okay. So let's set the scene bef- right, and then you're gonna roll initiative. You are s- so there's a, there's a pit that's c- there's like... So there's the cistern beneath the city that was once the, like, magical waters of Isingue, right? The... And there are wells."
+            },
+            {
+              "startUid": "u0227",
+              "endUid": "u0232",
+              "quote": "DM: The w- the center well has collapsed, and so now there's a drop that goes down about 40 feet, just, like, rum- like, all the pillars have collapsed, the dirt has fallen in. There's just, like, rubble, um, below you, sloping down, so it, like, makes a... It's like a sinkhole in the middle of the plaza, basically."
+            }
+          ]
+        }
+      ],
+      "note": "The encounter spans the collapsed well and ooze spreading toward the river; the opening clear spot is on the riverside, not already at the core."
+    },
+    "p03": {
+      "label": "Cistern",
+      "kind": "cistern",
+      "evidence": [
+        {
+          "startUid": "u0223",
+          "endUid": "u0226",
+          "quote": "DM: So okay. So let's set the scene bef- right, and then you're gonna roll initiative. You are s- so there's a, there's a pit that's c- there's like... So there's the cistern beneath the city that was once the, like, magical waters of Isingue, right? The... And there are wells."
+        },
+        {
+          "startUid": "u0227",
+          "endUid": "u0232",
+          "quote": "DM: The w- the center well has collapsed, and so now there's a drop that goes down about 40 feet, just, like, rum- like, all the pillars have collapsed, the dirt has fallen in. There's just, like, rubble, um, below you, sloping down, so it, like, makes a... It's like a sinkhole in the middle of the plaza, basically."
+        },
+        {
+          "startUid": "u4253",
+          "endUid": "u4255",
+          "quote": "DM: So you teleport Kenzo and the Heartroot back to the cistern."
+        },
+        {
+          "startUid": "u4256",
+          "endUid": "u4256",
+          "quote": "DM: That, that, that is right there, that's Kenzo and the Heartroot."
+        },
+        {
+          "startUid": "u4257",
+          "endUid": "u4257",
+          "quote": "Kenzo: There you go. There it is."
+        },
+        {
+          "startUid": "u4258",
+          "endUid": "u4260",
+          "quote": "DM: And Kenzo begins to like gradually start to like f- you know, settle it back into the, the water. Um, you know..."
+        },
+        {
+          "startUid": "u4261",
+          "endUid": "u4263",
+          "quote": "DM: Take your staff and like knock down some rubble and stuff to make a, a path so that some of the river can flow in, and it can start to decontaminate the river from the long influence of Limbo. And the-"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0223",
+              "endUid": "u0226",
+              "quote": "DM: So okay. So let's set the scene bef- right, and then you're gonna roll initiative. You are s- so there's a, there's a pit that's c- there's like... So there's the cistern beneath the city that was once the, like, magical waters of Isingue, right? The... And there are wells."
+            }
+          ]
+        }
+      ],
+      "note": "The central well has collapsed into the ancient cistern. Its restoration begins here; it is not fully rebuilt in this session."
+    },
+    "p04": {
+      "label": "Ooze surrounding the sinkhole and core",
+      "kind": "hazard",
+      "evidence": [
+        {
+          "startUid": "u0234",
+          "endUid": "u0237",
+          "quote": "DM: The ooze itself is, like, 400 feet big, but the center of the ooze is at the bottom of that 40 foot drop, and then it has all these, like, tendrils that are climbing up out of the, out of the pit. So imagine... Like, imagine a crater like this, like a sloped descent in a big circle. It's at the center of that, and there's, like, a fair bit of mass around it."
+        },
+        {
+          "startUid": "u0238",
+          "endUid": "u0241",
+          "quote": "DM: There's... Like, it's... The ooze itself is, like, bubbling 30 feet up from the bottom of the ground, so there's at least, like, 30 feet of density of just ooze. It's almost more like an environment than a creature itself, right?"
+        },
+        {
+          "startUid": "u0242",
+          "endUid": "u0243",
+          "quote": "DM: And it's sending out long tendrils, like, 100 feet in each direction around the center of this collapsed mass. [coughs]"
+        },
+        {
+          "startUid": "u1073",
+          "endUid": "u1073",
+          "quote": "Seeker: Nice. And then I can use my move still to go onto it, right?"
+        },
+        {
+          "startUid": "u1074",
+          "endUid": "u1074",
+          "quote": "DM: Yep."
+        },
+        {
+          "startUid": "u1075",
+          "endUid": "u1075",
+          "quote": "Unknown: On the ooze."
+        },
+        {
+          "startUid": "u1076",
+          "endUid": "u1076",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u1077",
+          "endUid": "u1077",
+          "quote": "Unknown: And then-"
+        },
+        {
+          "startUid": "u1078",
+          "endUid": "u1078",
+          "quote": "DM: That ends Seeker's turn. Wellby is up."
+        },
+        {
+          "startUid": "u1079",
+          "endUid": "u1079",
+          "quote": "Wellby: Uh, oh."
+        },
+        {
+          "startUid": "u1080",
+          "endUid": "u1081",
+          "quote": "DM: Sorry, actually, one sec. So-"
+        },
+        {
+          "startUid": "u1082",
+          "endUid": "u1082",
+          "quote": "Seeker: I was gonna maybe do the construct idea. Let me do it next."
+        },
+        {
+          "startUid": "u1083",
+          "endUid": "u1083",
+          "quote": "Unknown: Next turn, yeah."
+        },
+        {
+          "startUid": "u1084",
+          "endUid": "u1086",
+          "quote": "DM: So at the start of the round, I'm gonna do a little recap at the beginning of each round. It's 'cause it's hard to track with the battle map not being perfect."
+        },
+        {
+          "startUid": "u1087",
+          "endUid": "u1088",
+          "quote": "DM: So Wellby is still 180 feet away, or 170 feet away from it on the edge of the battlefield, aiming with his bow, while Kenzo has just dodged out of the way of its attempt to engulf him."
+        },
+        {
+          "startUid": "u1089",
+          "endUid": "u1091",
+          "quote": "DM: Delwath is on the other side of the front, 10 feet away from it, and Seeker has just dived towards the middle of the goop. And we will see what happens. [laughs]"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0234",
+              "endUid": "u0237",
+              "quote": "DM: The ooze itself is, like, 400 feet big, but the center of the ooze is at the bottom of that 40 foot drop, and then it has all these, like, tendrils that are climbing up out of the, out of the pit. So imagine... Like, imagine a crater like this, like a sloped descent in a big circle. It's at the center of that, and there's, like, a fair bit of mass around it."
+            },
+            {
+              "startUid": "u0238",
+              "endUid": "u0241",
+              "quote": "DM: There's... Like, it's... The ooze itself is, like, bubbling 30 feet up from the bottom of the ground, so there's at least, like, 30 feet of density of just ooze. It's almost more like an environment than a creature itself, right?"
+            },
+            {
+              "startUid": "u0242",
+              "endUid": "u0243",
+              "quote": "DM: And it's sending out long tendrils, like, 100 feet in each direction around the center of this collapsed mass. [coughs]"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Heart chamber at the bottom of the sinkhole",
+      "kind": "core site",
+      "evidence": [
+        {
+          "startUid": "u2051",
+          "endUid": "u2051",
+          "quote": "Seeker: Okay. I will close the last 30 feet to the bottom of the-"
+        },
+        {
+          "startUid": "u2052",
+          "endUid": "u2052",
+          "quote": "Unknown: That's the top."
+        },
+        {
+          "startUid": "u2053",
+          "endUid": "u2053",
+          "quote": "Unknown: That's 50 feet."
+        },
+        {
+          "startUid": "u2054",
+          "endUid": "u2054",
+          "quote": "DM: No, no, no."
+        },
+        {
+          "startUid": "u2055",
+          "endUid": "u2055",
+          "quote": "Unknown: 30, 30, 30 to the bottom."
+        },
+        {
+          "startUid": "u2056",
+          "endUid": "u2056",
+          "quote": "DM: He's, he's 30 feet to the bottom."
+        },
+        {
+          "startUid": "u2071",
+          "endUid": "u2073",
+          "quote": "Seeker: [dice rolling] That's much better. 24."
+        },
+        {
+          "startUid": "u2074",
+          "endUid": "u2076",
+          "quote": "DM: Okay. 24, you push through, down to this, uh, incredibly hard crystal shell."
+        },
+        {
+          "startUid": "u2077",
+          "endUid": "u2077",
+          "quote": "DM: There's like a 10-foot crystal shell at the-"
+        },
+        {
+          "startUid": "u2078",
+          "endUid": "u2078",
+          "quote": "Unknown: Oh, 10 feet."
+        },
+        {
+          "startUid": "u2079",
+          "endUid": "u2080",
+          "quote": "DM: Yeah, and it's like the ooze, the matter of the ooze is, like, piling up down here and forming this. It's not actually really crystal, it's just super dense."
+        },
+        {
+          "startUid": "u2191",
+          "endUid": "u2191",
+          "quote": "DM: No, this is inside the creature."
+        },
+        {
+          "startUid": "u2192",
+          "endUid": "u2192",
+          "quote": "Delwath: It's not like there's not-"
+        },
+        {
+          "startUid": "u2193",
+          "endUid": "u2193",
+          "quote": "DM: This is, like, its heart."
+        },
+        {
+          "startUid": "u2194",
+          "endUid": "u2194",
+          "quote": "Delwath: There's no, but there's not, like, some space to stand?"
+        },
+        {
+          "startUid": "u2195",
+          "endUid": "u2196",
+          "quote": "DM: No, no, no, no, no."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u2191",
+              "endUid": "u2191",
+              "quote": "DM: No, this is inside the creature."
+            },
+            {
+              "startUid": "u2192",
+              "endUid": "u2192",
+              "quote": "Delwath: It's not like there's not-"
+            },
+            {
+              "startUid": "u2193",
+              "endUid": "u2193",
+              "quote": "DM: This is, like, its heart."
+            },
+            {
+              "startUid": "u2194",
+              "endUid": "u2194",
+              "quote": "Delwath: There's no, but there's not, like, some space to stand?"
+            },
+            {
+              "startUid": "u2195",
+              "endUid": "u2196",
+              "quote": "DM: No, no, no, no, no."
+            }
+          ]
+        }
+      ],
+      "note": "A dense sphere within the creature, not an empty room or a floor on which people can stand."
+    },
+    "p06": {
+      "label": "Sky above the battlefield",
+      "kind": "airspace",
+      "evidence": [
+        {
+          "startUid": "u4054",
+          "endUid": "u4058",
+          "quote": "DM: The, the m- ooze matter begins, like, rushing in in this implosion and it hits Kenzo and Seeker in the middle. You both take 21 points of force damage and are tossed 1,000 feet into the air."
+        },
+        {
+          "startUid": "u4156",
+          "endUid": "u4157",
+          "quote": "DM: A faint image of a superhero cape streaming behind it as it wraps around Seeker, grabs him, and slowly and gently brings him down to the ground, preventing him from being squashed flat by 1,000 foot fall."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u4054",
+              "endUid": "u4058",
+              "quote": "DM: The, the m- ooze matter begins, like, rushing in in this implosion and it hits Kenzo and Seeker in the middle. You both take 21 points of force damage and are tossed 1,000 feet into the air."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Aurbez",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u4209",
+          "endUid": "u4210",
+          "quote": "DM: So over the course of the day you teleport back to Aurbez and-"
+        },
+        {
+          "startUid": "u4227",
+          "endUid": "u4228",
+          "quote": "DM: ... you explain what happened to g- to great, um, excitement in Aurbez. Talk to Cateline Malras and some other rangers..."
+        },
+        {
+          "startUid": "u4229",
+          "endUid": "u4232",
+          "quote": "DM: And then after you've had a chance to rest and recover a little bit and, you know, maybe communicate with Faldrak and tell him to meet you at Isingue, which he was already planning on doing, um, you carefully, um..."
+        },
+        {
+          "startUid": "u4233",
+          "endUid": "u4234",
+          "quote": "DM: Like you and Sever... How many... Oh, you can just teleport an object."
+        },
+        {
+          "startUid": "u4235",
+          "endUid": "u4235",
+          "quote": "Seeker: Right."
+        },
+        {
+          "startUid": "u4236",
+          "endUid": "u4237",
+          "quote": "DM: But Kenzo counts as part of the Heartroot. So I'm gonna say you can teleport Kenzo and the Heartroot together."
+        },
+        {
+          "startUid": "u4238",
+          "endUid": "u4238",
+          "quote": "Seeker: Oh, o- okay."
+        },
+        {
+          "startUid": "u4239",
+          "endUid": "u4240",
+          "quote": "DM: Um, and then you can just use a second teleport to tel- 'cause you have two seventh level slots now."
+        },
+        {
+          "startUid": "u4241",
+          "endUid": "u4242",
+          "quote": "Delwath: I mean, you have to do three to go back and forth, but that's okay."
+        },
+        {
+          "startUid": "u4243",
+          "endUid": "u4243",
+          "quote": "DM: No, you're, you're resting in Aurbez."
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Refounded Alliance of Aurbez.md",
+      "note": "The return is to Aurbez generally; no settlement or exact resting place is named. The verified vault link identifies the Alliance, not a specific town."
+    },
+    "p08": {
+      "label": "Ranger camp at Isingue",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u4312",
+          "endUid": "u4314",
+          "quote": "DM: More rangers start to come, um, you know, over the course of a, of, of a week or two. Um, you establish a little bit of a camp at Isingue."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u4312",
+              "endUid": "u4314",
+              "quote": "DM: More rangers start to come, um, you know, over the course of a, of, of a week or two. Um, you establish a little bit of a camp at Isingue."
+            }
+          ]
+        }
+      ],
+      "note": "The camp is at Isingue; the transcript does not fix its position inside the old city boundary."
+    },
+    "p09": {
+      "label": "Vindristjarna",
+      "kind": "skyship",
+      "evidence": [
+        {
+          "startUid": "u0397",
+          "endUid": "u0397",
+          "quote": "Wellby: Wait, how far up was the, um, was Vindristjarna when it attacked?"
+        },
+        {
+          "startUid": "u0398",
+          "endUid": "u0398",
+          "quote": "DM: 600 feet."
+        },
+        {
+          "startUid": "u4245",
+          "endUid": "u4245",
+          "quote": "DM: So you're gonna end up in Isingue, but then your ship is in Isingue."
+        },
+        {
+          "startUid": "u4317",
+          "endUid": "u4322",
+          "quote": "DM: And you remain over the course of a couple weeks until sometime in October, early October. Things seem stable here, and you find yourself now back on Vindristjarna wondering what you're gonna do next."
+        },
+        {
+          "startUid": "u4323",
+          "endUid": "u4324",
+          "quote": "DM: And in that time you can of course look at, you know, three things in the mirror, and there's some time while Vindristjarna flies to drop the monks off and other people off wherever you want to be dropped off."
+        }
+      ],
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "mobile": true
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0430",
+        "endUid": "u0458"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Begin the encounter from the riverside clearing outside the ooze, in the collapsed central-plaza battlefield at Isingue.",
+      "evidence": [
+        {
+          "startUid": "u0430",
+          "endUid": "u0433",
+          "quote": "DM: Okay. So Kenzo, or sorry, Wellby. You're now, you're cur- uh, it's gonna be... The battle map is a little bit complicated, but you're currently presumably something like, uh, 200 feet away from it as you step through the..."
+        },
+        {
+          "startUid": "u0451",
+          "endUid": "u0453",
+          "quote": "DM: But yeah, you're... It's, the ooze itself is like 300 feet across and is moving towards the river, so it's bi- it's biased towards the river."
+        },
+        {
+          "startUid": "u0454",
+          "endUid": "u0454",
+          "quote": "DM: And you are at the riverside, so the ooze is 200 feet away from the-"
+        },
+        {
+          "startUid": "u0455",
+          "endUid": "u0455",
+          "quote": "Kenzo: Okay."
+        },
+        {
+          "startUid": "u0456",
+          "endUid": "u0456",
+          "quote": "DM: ... clear spot."
+        },
+        {
+          "startUid": "u0457",
+          "endUid": "u0457",
+          "quote": "Delwath: We come out, we're 200 feet away."
+        },
+        {
+          "startUid": "u0458",
+          "endUid": "u0458",
+          "quote": "DM: You come out, you're 200 feet away from it."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u1073",
+        "endUid": "u1076"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Enter the ooze in leviathan form and work inward through its mass.",
+      "evidence": [
+        {
+          "startUid": "u1073",
+          "endUid": "u1073",
+          "quote": "Seeker: Nice. And then I can use my move still to go onto it, right?"
+        },
+        {
+          "startUid": "u1074",
+          "endUid": "u1074",
+          "quote": "DM: Yep."
+        },
+        {
+          "startUid": "u1075",
+          "endUid": "u1075",
+          "quote": "Unknown: On the ooze."
+        },
+        {
+          "startUid": "u1076",
+          "endUid": "u1076",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u1089",
+          "endUid": "u1091",
+          "quote": "DM: Delwath is on the other side of the front, 10 feet away from it, and Seeker has just dived towards the middle of the goop. And we will see what happens. [laughs]"
+        }
+      ],
+      "from": "p02",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "swim"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u1343",
+        "endUid": "u1378"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath"
+      ],
+      "reading": "The ooze engulfs Kenzo and Delwath, carrying them within its body; they subsequently escape and can be pulled back during the fight.",
+      "evidence": [
+        {
+          "startUid": "u1343",
+          "endUid": "u1343",
+          "quote": "DM: It is going to move forward and attempt to engulf Kenzo and Delwath."
+        },
+        {
+          "startUid": "u1344",
+          "endUid": "u1344",
+          "quote": "Unknown: Oh, no."
+        },
+        {
+          "startUid": "u1345",
+          "endUid": "u1345",
+          "quote": "DM: Strength saves from both of you."
+        },
+        {
+          "startUid": "u1354",
+          "endUid": "u1354",
+          "quote": "Kenzo: Oh, 21."
+        },
+        {
+          "startUid": "u1355",
+          "endUid": "u1355",
+          "quote": "Seeker: What's that? No, I'm just saying, they're tr-"
+        },
+        {
+          "startUid": "u1356",
+          "endUid": "u1356",
+          "quote": "Unknown: Three."
+        },
+        {
+          "startUid": "u1357",
+          "endUid": "u1357",
+          "quote": "Seeker: ... he's, it's trying to engulf them. I'm like, that's-"
+        },
+        {
+          "startUid": "u1358",
+          "endUid": "u1358",
+          "quote": "DM: Uh, both of those fail."
+        },
+        {
+          "startUid": "u1359",
+          "endUid": "u1359",
+          "quote": "Kenzo: Uh, I will re-roll."
+        },
+        {
+          "startUid": "u1360",
+          "endUid": "u1360",
+          "quote": "Unknown: That's very smart."
+        },
+        {
+          "startUid": "u1361",
+          "endUid": "u1361",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u1362",
+          "endUid": "u1363",
+          "quote": "Kenzo: Spend a ki to try to re-roll. Fuck, I need to get even higher than a 16."
+        },
+        {
+          "startUid": "u1364",
+          "endUid": "u1364",
+          "quote": "Unknown: Shit."
+        },
+        {
+          "startUid": "u1365",
+          "endUid": "u1366",
+          "quote": "DM: Uh, you are... Delwath is engulfed. [dice rolling]"
+        },
+        {
+          "startUid": "u1367",
+          "endUid": "u1367",
+          "quote": "Delwath: What does being engulfed mean?"
+        },
+        {
+          "startUid": "u1368",
+          "endUid": "u1368",
+          "quote": "Seeker: 15."
+        },
+        {
+          "startUid": "u1369",
+          "endUid": "u1369",
+          "quote": "Unknown: 15 is what I was-"
+        },
+        {
+          "startUid": "u1370",
+          "endUid": "u1370",
+          "quote": "Unknown: 20."
+        },
+        {
+          "startUid": "u1371",
+          "endUid": "u1371",
+          "quote": "Unknown: 16."
+        },
+        {
+          "startUid": "u1372",
+          "endUid": "u1372",
+          "quote": "DM: You are also engulfed."
+        },
+        {
+          "startUid": "u1373",
+          "endUid": "u1373",
+          "quote": "Unknown: Oh, no."
+        },
+        {
+          "startUid": "u1374",
+          "endUid": "u1374",
+          "quote": "DM: You are, you have total cover from attacks and other effects outside the ooze, and it moves you with it, and then you'll see what else happens."
+        },
+        {
+          "startUid": "u1375",
+          "endUid": "u1375",
+          "quote": "DM: Oh, and you're—suffocating and restrained."
+        },
+        {
+          "startUid": "u1376",
+          "endUid": "u1376",
+          "quote": "Seeker: Oh, God. What does that mean?"
+        },
+        {
+          "startUid": "u1377",
+          "endUid": "u1377",
+          "quote": "DM: Disadvantage on all attacks."
+        },
+        {
+          "startUid": "u1378",
+          "endUid": "u1378",
+          "quote": "Seeker: And you can see Leviathan swimming inside the ooze."
+        }
+      ],
+      "from": "p02",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "engulfed",
+      "note": "This records the first meaningful placement inside the creature; repeated tactical escapes and re-engulfing are detailed in combat.json."
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u2071",
+        "endUid": "u2080"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Reach the dense shell enclosing the core at the bottom of the sinkhole.",
+      "evidence": [
+        {
+          "startUid": "u2051",
+          "endUid": "u2051",
+          "quote": "Seeker: Okay. I will close the last 30 feet to the bottom of the-"
+        },
+        {
+          "startUid": "u2052",
+          "endUid": "u2052",
+          "quote": "Unknown: That's the top."
+        },
+        {
+          "startUid": "u2053",
+          "endUid": "u2053",
+          "quote": "Unknown: That's 50 feet."
+        },
+        {
+          "startUid": "u2054",
+          "endUid": "u2054",
+          "quote": "DM: No, no, no."
+        },
+        {
+          "startUid": "u2055",
+          "endUid": "u2055",
+          "quote": "Unknown: 30, 30, 30 to the bottom."
+        },
+        {
+          "startUid": "u2056",
+          "endUid": "u2056",
+          "quote": "DM: He's, he's 30 feet to the bottom."
+        },
+        {
+          "startUid": "u2071",
+          "endUid": "u2073",
+          "quote": "Seeker: [dice rolling] That's much better. 24."
+        },
+        {
+          "startUid": "u2074",
+          "endUid": "u2076",
+          "quote": "DM: Okay. 24, you push through, down to this, uh, incredibly hard crystal shell."
+        },
+        {
+          "startUid": "u2077",
+          "endUid": "u2077",
+          "quote": "DM: There's like a 10-foot crystal shell at the-"
+        },
+        {
+          "startUid": "u2078",
+          "endUid": "u2078",
+          "quote": "Unknown: Oh, 10 feet."
+        },
+        {
+          "startUid": "u2079",
+          "endUid": "u2080",
+          "quote": "DM: Yeah, and it's like the ooze, the matter of the ooze is, like, piling up down here and forming this. It's not actually really crystal, it's just super dense."
+        },
+        {
+          "startUid": "u2191",
+          "endUid": "u2191",
+          "quote": "DM: No, this is inside the creature."
+        },
+        {
+          "startUid": "u2192",
+          "endUid": "u2192",
+          "quote": "Delwath: It's not like there's not-"
+        },
+        {
+          "startUid": "u2193",
+          "endUid": "u2193",
+          "quote": "DM: This is, like, its heart."
+        },
+        {
+          "startUid": "u2194",
+          "endUid": "u2194",
+          "quote": "Delwath: There's no, but there's not, like, some space to stand?"
+        },
+        {
+          "startUid": "u2195",
+          "endUid": "u2196",
+          "quote": "DM: No, no, no, no, no."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "swim"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u3919",
+        "endUid": "u3925"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Fly from the battlefield edge to the exposed core.",
+      "evidence": [
+        {
+          "startUid": "u3919",
+          "endUid": "u3919",
+          "quote": "Kenzo: Okay, so Kenzo goes up and now is, um..."
+        },
+        {
+          "startUid": "u3920",
+          "endUid": "u3920",
+          "quote": "Unknown: You probably-"
+        },
+        {
+          "startUid": "u3921",
+          "endUid": "u3921",
+          "quote": "DM: So you have to move your f- you have to use your full move to get there."
+        },
+        {
+          "startUid": "u3922",
+          "endUid": "u3922",
+          "quote": "Kenzo: That's fine. I have 140 move."
+        },
+        {
+          "startUid": "u3923",
+          "endUid": "u3923",
+          "quote": "DM: Yeah, I know."
+        },
+        {
+          "startUid": "u3924",
+          "endUid": "u3924",
+          "quote": "Unknown: Okay."
+        },
+        {
+          "startUid": "u3925",
+          "endUid": "u3925",
+          "quote": "Kenzo: So I get there."
+        },
+        {
+          "startUid": "u3939",
+          "endUid": "u3942",
+          "quote": "Kenzo: Okay. All right. So now Kenzo closes his mind, imagines it as a sphere of glass, Limbo style. And what I'm doing, I'm doing an intelligence-"
+        },
+        {
+          "startUid": "u3943",
+          "endUid": "u3943",
+          "quote": "DM: Yep."
+        },
+        {
+          "startUid": "u3944",
+          "endUid": "u3944",
+          "quote": "Kenzo: ... I'm doing an intelligence..."
+        },
+        {
+          "startUid": "u3945",
+          "endUid": "u3945",
+          "quote": "Unknown: Yeah."
+        },
+        {
+          "startUid": "u3946",
+          "endUid": "u3946",
+          "quote": "Kenzo: ... super fragile-"
+        },
+        {
+          "startUid": "u3947",
+          "endUid": "u3947",
+          "quote": "Wellby: Focus, focus, focus."
+        },
+        {
+          "startUid": "u3948",
+          "endUid": "u3949",
+          "quote": "Kenzo: ... piece of glass focusing on it. [die rolling]"
+        }
+      ],
+      "from": "p02",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u4054",
+        "endUid": "u4058"
+      },
+      "actors": [
+        "Kenzo",
+        "Seeker"
+      ],
+      "reading": "The destroyed core’s implosion throws Kenzo and Seeker into the sky above the battlefield.",
+      "evidence": [
+        {
+          "startUid": "u4054",
+          "endUid": "u4058",
+          "quote": "DM: The, the m- ooze matter begins, like, rushing in in this implosion and it hits Kenzo and Seeker in the middle. You both take 21 points of force damage and are tossed 1,000 feet into the air."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "thrown",
+      "distance": {
+        "value": 1000,
+        "unit": "foot",
+        "precision": "exact",
+        "basis": "DM states the upward throw."
+      }
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u4125",
+        "endUid": "u4157"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Animate Ladder, which catches Seeker and carries him gently to the ground.",
+      "evidence": [
+        {
+          "startUid": "u4125",
+          "endUid": "u4125",
+          "quote": "Seeker: Oh, oh, oh, hold on, hold on. I can just-"
+        },
+        {
+          "startUid": "u4126",
+          "endUid": "u4126",
+          "quote": "Delwath: Whose turn is next?"
+        },
+        {
+          "startUid": "u4127",
+          "endUid": "u4127",
+          "quote": "Seeker: ... animate—the ladder [laughing] and hold on to..."
+        },
+        {
+          "startUid": "u4128",
+          "endUid": "u4128",
+          "quote": "Unknown: Yes. [laughs]"
+        },
+        {
+          "startUid": "u4129",
+          "endUid": "u4131",
+          "quote": "Seeker: ... it as we fly down."
+        },
+        {
+          "startUid": "u4129",
+          "endUid": "u4131",
+          "quote": "Delwath: I was gonna, I was gonna... I had a plan, but this is a much better plan. [laughs] Dramatically better."
+        },
+        {
+          "startUid": "u4132",
+          "endUid": "u4132",
+          "quote": "Seeker: I knew the ladder was gonna play a role."
+        },
+        {
+          "startUid": "u4150",
+          "endUid": "u4151",
+          "quote": "DM: ... and sees, sees Seeker madly, like scrambling to pull the ladder off of his like belt or wherever you keep it, strapped to your backpack."
+        },
+        {
+          "startUid": "u4152",
+          "endUid": "u4152",
+          "quote": "Unknown: Yeah."
+        },
+        {
+          "startUid": "u4153",
+          "endUid": "u4154",
+          "quote": "DM: And then just like m- muttering something, and suddenly you see the ladder flying."
+        },
+        {
+          "startUid": "u4155",
+          "endUid": "u4155",
+          "quote": "Unknown: [laughs]"
+        },
+        {
+          "startUid": "u4156",
+          "endUid": "u4157",
+          "quote": "DM: A faint image of a superhero cape streaming behind it as it wraps around Seeker, grabs him, and slowly and gently brings him down to the ground, preventing him from being squashed flat by 1,000 foot fall."
+        }
+      ],
+      "from": "p06",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "carried by animated Ladder"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u4209",
+        "endUid": "u4228"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Teleport back to Aurbez and report the victory to Cateline and other Rangers.",
+      "evidence": [
+        {
+          "startUid": "u4209",
+          "endUid": "u4210",
+          "quote": "DM: So over the course of the day you teleport back to Aurbez and-"
+        },
+        {
+          "startUid": "u4227",
+          "endUid": "u4228",
+          "quote": "DM: ... you explain what happened to g- to great, um, excitement in Aurbez. Talk to Cateline Malras and some other rangers..."
+        }
+      ],
+      "from": "p01",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "teleport"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u4253",
+        "endUid": "u4263"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Teleport with the Heartroot from Aurbez to the cistern, settle it in the water and open a path to the river.",
+      "evidence": [
+        {
+          "startUid": "u4236",
+          "endUid": "u4237",
+          "quote": "DM: But Kenzo counts as part of the Heartroot. So I'm gonna say you can teleport Kenzo and the Heartroot together."
+        },
+        {
+          "startUid": "u4243",
+          "endUid": "u4243",
+          "quote": "DM: No, you're, you're resting in Aurbez."
+        },
+        {
+          "startUid": "u4244",
+          "endUid": "u4244",
+          "quote": "Unknown: Yeah."
+        },
+        {
+          "startUid": "u4245",
+          "endUid": "u4245",
+          "quote": "DM: So you're gonna end up in Isingue, but then your ship is in Isingue."
+        },
+        {
+          "startUid": "u4253",
+          "endUid": "u4255",
+          "quote": "DM: So you teleport Kenzo and the Heartroot back to the cistern."
+        },
+        {
+          "startUid": "u4256",
+          "endUid": "u4256",
+          "quote": "DM: That, that, that is right there, that's Kenzo and the Heartroot."
+        },
+        {
+          "startUid": "u4257",
+          "endUid": "u4257",
+          "quote": "Kenzo: There you go. There it is."
+        },
+        {
+          "startUid": "u4258",
+          "endUid": "u4260",
+          "quote": "DM: And Kenzo begins to like gradually start to like f- you know, settle it back into the, the water. Um, you know..."
+        },
+        {
+          "startUid": "u4261",
+          "endUid": "u4263",
+          "quote": "DM: Take your staff and like knock down some rubble and stuff to make a, a path so that some of the river can flow in, and it can start to decontaminate the river from the long influence of Limbo. And the-"
+        }
+      ],
+      "from": "p07",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "teleport"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u4265",
+        "endUid": "u4270"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath",
+        "Wellby",
+        "five Rangers"
+      ],
+      "reading": "The remaining three PCs and five Rangers teleport to Isingue to help settle and protect the Heartroot.",
+      "evidence": [
+        {
+          "startUid": "u4265",
+          "endUid": "u4265",
+          "quote": "DM: ... and the rangers, some of the rangers and you, you can teleport up to eight."
+        },
+        {
+          "startUid": "u4266",
+          "endUid": "u4266",
+          "quote": "Unknown: Eight."
+        },
+        {
+          "startUid": "u4267",
+          "endUid": "u4267",
+          "quote": "DM: Right? So you bring the three of you and-"
+        },
+        {
+          "startUid": "u4268",
+          "endUid": "u4268",
+          "quote": "Unknown: Five."
+        },
+        {
+          "startUid": "u4269",
+          "endUid": "u4270",
+          "quote": "DM: ... five rangers to sort of help start to get things settled. Spend a couple of days in Isingue making sure the Heartroot is safe."
+        }
+      ],
+      "from": "p07",
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "teleport",
+      "note": "The party reunites at Isingue; these lines establish no exact room for the arriving eight."
+    },
+    {
+      "id": "l11",
+      "type": "presence",
+      "source": {
+        "startUid": "u4312",
+        "endUid": "u4314"
+      },
+      "actors": [
+        "party",
+        "Rangers"
+      ],
+      "reading": "Establish a small camp at Isingue as more Rangers arrive.",
+      "evidence": [
+        {
+          "startUid": "u4312",
+          "endUid": "u4314",
+          "quote": "DM: More rangers start to come, um, you know, over the course of a, of, of a week or two. Um, you establish a little bit of a camp at Isingue."
+        }
+      ],
+      "place": "p08"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u4317",
+        "endUid": "u4322"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After the Isingue stay into early October, find themselves back aboard Vindristjarna.",
+      "evidence": [
+        {
+          "startUid": "u4317",
+          "endUid": "u4322",
+          "quote": "DM: And you remain over the course of a couple weeks until sometime in October, early October. Things seem stable here, and you find yourself now back on Vindristjarna wondering what you're gonna do next."
+        }
+      ],
+      "from": "p01",
+      "to": "p09",
+      "completion": "arrived",
+      "note": "The boarding method and final ship position are unstated. The passenger drop-off flights at u4323–u4330 occur within the closing period, without establishing which PCs accompany them or naming their destinations."
+    }
+  ]
+}

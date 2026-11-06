@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-time-markers.json",
+    "sha256": "a3b1b6dc499a0711c65706ea04e17359e55a3b703b7f2125ff25991ab485740e"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-transcript.md",
+    "sha256": "ecfc4e6a24d00977571e8ab95ecad097de200d39d76654641e6fc25c38830f75"
+  },
+  "dateAssessment": "Working campaign calendar: YAML September 18–October 6, 1749, with October 6 explicitly tentative. The current transcript establishes the post-battle day (t01), a completed Aurbez rest (t02), and the Isingue stay ending in early October (t03); it does not independently confirm either day number. The initial couple of days and week or two of Ranger arrivals sit within the overall couple-week restoration montage. No civil watch is securely established. DF137’s closing u5827–u5895 and DF138 u0012–u0072/u0535–u0537 continue the same ooze confrontation without an intervening rest, but supply no closing watch to carry. The passenger flights and possible mirror examinations at u4323–u4324 lie within the closing montage; they supply no exact extra days or completed examinations.",
+  "watches": [
+    {
+      "day": "September 18, 1749",
+      "startDate": "1749-09-18",
+      "endDate": "1749-09-18",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Over the course of the post-battle day, the party teleports to Aurbez; no watch is stated.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "Aurbez recovery, after the battle",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Accepted long rest restores spell slots: eight hours by convention; neither waking watch nor overnight transition is stated.",
+      "markers": [
+        "t02"
+      ]
+    },
+    {
+      "day": "After the Aurbez rest → early October 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Couple-week Isingue stay ends in early October; initial settling and Ranger arrivals belong within that montage.",
+      "markers": [
+        "t03"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "DF137 encounter handoff, u5827–u5895",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-transcript.md",
+      "sha256": "374d0923dd4e652a7dc33e919c9a4b774003f4d2b47b3e2d29b15b369872cfd2"
+    }
+  ]
+}

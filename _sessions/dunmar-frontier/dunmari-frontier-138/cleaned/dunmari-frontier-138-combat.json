@@ -1,0 +1,1036 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-138",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-session.yaml",
+    "sessionYamlSha256": "cfa199d53453e17ead72c3a6444f5af8e8bc8fb1cf46057eefb89790144d8f79",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-transcript.md",
+    "transcriptSha256": "ecfc4e6a24d00977571e8ab95ecad097de200d39d76654641e6fc25c38830f75",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-segments.json",
+      "sha256": "c033dd0a6e80c84080805e1ec5a41e6b800f6bce91640b23d790e3385aaf7fcb",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s004",
+      "encounter": "Ooze and Limbo core at Isingue",
+      "note": "The resolved repeating order is Wellby, Kenzo, ooze, Delwath, Seeker. The exposed-core/minion phase and immediate falling rescue remain the same continuous encounter.",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Acts first after the initiative-order discussion; fires a 23-to-hit arrow for 38 piercing damage. His first-round scout benefit gives the others advantage on their next turn.",
+              "evidence": [
+                {
+                  "startUid": "u0374",
+                  "endUid": "u0408"
+                },
+                {
+                  "startUid": "u0493",
+                  "endUid": "u0534"
+                },
+                {
+                  "startUid": "u1098",
+                  "endUid": "u1105"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath and Seeker",
+              "kind": "legendary_action",
+              "summary": "Each leviathan moves 40 feet closer, ending 160 feet from the ooze.",
+              "evidence": [
+                {
+                  "startUid": "u0542",
+                  "endUid": "u0546"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "legendary_action",
+              "summary": "A 600-foot-reach pseudopod hits Wellby on 26 for 22 force damage; the ooze adapts to piercing resistance after his arrow.",
+              "evidence": [
+                {
+                  "startUid": "u0547",
+                  "endUid": "u0559"
+                },
+                {
+                  "startUid": "u0566",
+                  "endUid": "u0592"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uncanny Dodge halves the pseudopod’s 22 force damage to 11.",
+              "evidence": [
+                {
+                  "startUid": "u0560",
+                  "endUid": "u0565"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Renews one-minute Superior Defense, gaining resistance except to force, and Vital Burst: doubled speed, four staff attacks, and disadvantage on attacks against him until his next turn. Bonus-action Step of the Wind dashes into reach; he cannot carry a leviathan and takes nobody with him. All four advantaged staff attacks hit, the first critically, for 88 bludgeoning damage. The ooze shifts from piercing to bludgeoning resistance.",
+              "evidence": [
+                {
+                  "startUid": "u0593",
+                  "endUid": "u0696"
+                },
+                {
+                  "startUid": "u0698",
+                  "endUid": "u0791"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath and Seeker",
+              "kind": "legendary_action",
+              "summary": "Each moves another 40 feet closer, bringing their two off-turn moves to 80 feet.",
+              "evidence": [
+                {
+                  "startUid": "u0778",
+                  "endUid": "u0805"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "legendary_action",
+              "summary": "Attempts a corrupting/spraying touch against Kenzo; 20 misses his AC 24.",
+              "evidence": [
+                {
+                  "startUid": "u0806",
+                  "endUid": "u0815"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "turn",
+              "summary": "Moves 30 feet toward Kenzo and attempts engulfing; his Strength 25 succeeds. Two pseudopods produce a natural-one miss and a 28 hit for 24 force before his reaction. Its forgotten bonus-action slime ejection is resolved before the turn ends: Kenzo’s Dexterity 26 succeeds and Evasion prevents all damage.",
+              "evidence": [
+                {
+                  "startUid": "u0817",
+                  "endUid": "u0859"
+                },
+                {
+                  "startUid": "u0873",
+                  "endUid": "u0905"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the 24-force hit entirely and redirects 17 damage after the ooze fails a DC 20 Dexterity save.",
+              "evidence": [
+                {
+                  "startUid": "u0861",
+                  "endUid": "u0872"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "legendary_action",
+              "summary": "After the ooze’s completed turn, moves another 40 feet and ends 50 feet away.",
+              "evidence": [
+                {
+                  "startUid": "u0910",
+                  "endUid": "u0914"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Returns from leviathan to his own form, losing its temporary hit points; charges 50 feet and applies Diaboli’s Curse as a bonus action. With first-round advantage, one attack misses on 17, another hits, and the third critically hits with a smite: 101 total slashing/smite damage. His weapon ignores slashing resistance. His first slashing wound splashes him for 6 acid, supplied retrospectively. The ooze adapts to slashing resistance.",
+              "evidence": [
+                {
+                  "startUid": "u0929",
+                  "endUid": "u0998"
+                },
+                {
+                  "startUid": "u1036",
+                  "endUid": "u1047"
+                },
+                {
+                  "startUid": "u1093",
+                  "endUid": "u1095"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "legendary_action",
+              "summary": "Fires a slime glob at Delwath; his Dexterity 18 initially fails, but bardic inspiration raises it to 28, succeeding. He still takes 9 acid damage.",
+              "evidence": [
+                {
+                  "startUid": "u0999",
+                  "endUid": "u1014"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "legendary_action",
+              "summary": "Uses his third off-turn move to close to 10 feet from the ooze.",
+              "evidence": [
+                {
+                  "startUid": "u1016",
+                  "endUid": "u1025"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts fourth-level Rune of Psychic Disruption, forcing a DC 20 Intelligence save; the ooze spends a legendary resistance. Moves onto and into the ooze in leviathan form.",
+              "evidence": [
+                {
+                  "startUid": "u1050",
+                  "endUid": "u1091"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Two arrows hit for 40 and 12 piercing damage; the ooze shifts from slashing to piercing resistance at the end of his turn.",
+              "evidence": [
+                {
+                  "startUid": "u1092",
+                  "endUid": "u1128"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "legendary_action",
+              "summary": "Attacks Delwath with a pseudopod; the final 24-to-hit result is used without the accidentally rolled advantage.",
+              "evidence": [
+                {
+                  "startUid": "u1129",
+                  "endUid": "u1137"
+                },
+                {
+                  "startUid": "u1139",
+                  "endUid": "u1141"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Casts Shield, causing the 24-to-hit pseudopod to miss.",
+              "evidence": [
+                {
+                  "startUid": "u1134",
+                  "endUid": "u1141"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "legendary_action",
+              "summary": "Strength 21 lets him swim 60 feet through the piercing-resistant ooze as difficult terrain; corrected from an initial 40 feet, leaving 140 feet to the sinkhole.",
+              "evidence": [
+                {
+                  "startUid": "u1154",
+                  "endUid": "u1187"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Without advantage, makes two staff attacks, both hits and one critical, and three unarmed strikes, two hits and a 19 miss. Damage is 24 + 18 + 14. The ooze hardens into bludgeoning resistance, tightening the mesh around Seeker.",
+              "evidence": [
+                {
+                  "startUid": "u1223",
+                  "endUid": "u1282"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "legendary_action",
+              "summary": "Corrupting touch hits Kenzo on a thirty-something for 23 poison damage, subject to his resistance; its poisoned condition cannot affect him.",
+              "evidence": [
+                {
+                  "startUid": "u1298",
+                  "endUid": "u1314"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects all corrupting-touch damage; the ooze succeeds on the DC 20 rebound save, so no redirected damage is resolved.",
+              "evidence": [
+                {
+                  "startUid": "u1315",
+                  "endUid": "u1322"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "legendary_action",
+              "summary": "Strength 22 forces a way through the hardened ooze, moving 30 feet in twice-difficult terrain.",
+              "evidence": [
+                {
+                  "startUid": "u1324",
+                  "endUid": "u1339"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "turn",
+              "summary": "Moves 30 feet forward and engulfs Kenzo and Delwath after failed Strength saves (Kenzo 21 and a failed ki reroll). They are restrained, suffocating, carried with it and covered from outside effects. Its forgotten bonus-action acid ejection at Wellby is resolved retrospectively on this turn: Dexterity 20 fails, taking 57 acid damage and being pulled 60 feet closer, to a corrected 80 feet away, without restraint.",
+              "evidence": [
+                {
+                  "startUid": "u1343",
+                  "endUid": "u1378"
+                },
+                {
+                  "startUid": "u1453",
+                  "endUid": "u1498"
+                },
+                {
+                  "startUid": "u1485",
+                  "endUid": "u1491"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Starts engulfed and takes 22 force damage. Uses quickened bonus-action transformation into a cloud of tiny bugs, immune to restraint for his turn, and escapes to 20 feet away. Three attacks hit (24, 22 and a higher roll) for 32 + 15 + 18 damage, adding a 30-damage smite. The ooze adapts to slashing resistance.",
+              "evidence": [
+                {
+                  "startUid": "u1388",
+                  "endUid": "u1443"
+                },
+                {
+                  "startUid": "u1553",
+                  "endUid": "u1557"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "legendary_action",
+              "summary": "Crushes the occupants: Seeker’s Strength 23 succeeds for 15 force damage; Kenzo’s 17 and unsuccessful reroll fail for 31 force.",
+              "evidence": [
+                {
+                  "startUid": "u1492",
+                  "endUid": "u1523"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "legendary_action",
+              "summary": "A natural-one Strength check fails to advance through the ooze.",
+              "evidence": [
+                {
+                  "startUid": "u1531",
+                  "endUid": "u1546"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Repeats Psychic Disruption; the initially announced failed Intelligence save is corrected to a successful 21 against a stated DC 19, so no legendary resistance is spent. Strength 16 permits another 60 feet of movement, leaving 50 feet to the sinkhole. Passive start-of-turn force damage is later reversed because leviathan is immune to restraint.",
+              "evidence": [
+                {
+                  "startUid": "u1561",
+                  "endUid": "u1592"
+                },
+                {
+                  "startUid": "u1696",
+                  "endUid": "u1722"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "legendary_action",
+              "summary": "Pseudopod hits Delwath on 30 for 21 force damage.",
+              "evidence": [
+                {
+                  "startUid": "u1595",
+                  "endUid": "u1606"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Retreats to 170 feet from the ooze; two arrows hit for 42 and 9 piercing damage, shifting it to piercing resistance.",
+              "evidence": [
+                {
+                  "startUid": "u1607",
+                  "endUid": "u1635"
+                },
+                {
+                  "startUid": "u1678",
+                  "endUid": "u1679"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "legendary_action",
+              "summary": "With Wellby out of glob range, targets Delwath instead. His Dexterity save fails after the bug-cloud immunity has expired; he takes 16 acid damage and is engulfed again.",
+              "evidence": [
+                {
+                  "startUid": "u1648",
+                  "endUid": "u1676"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "legendary_action",
+              "summary": "Strength 24 succeeds, moving 60 feet: reaches the sinkhole and descends 10 feet, leaving 30 feet to its bottom.",
+              "evidence": [
+                {
+                  "startUid": "u1678",
+                  "endUid": "u1689"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Starts restrained inside and takes 28 force damage. Drinks a potion of speed as his bonus action. Uses the Haste action to escape: Strength 16 fails, ki reroll 25 succeeds. Makes two regular staff attacks while leaving, one hit for 23 damage and a 21 miss; the ooze is bloodied by this hit. Retreats 100 feet, with the stated aim of remaining 70 feet away after the ooze advances.",
+              "evidence": [
+                {
+                  "startUid": "u1691",
+                  "endUid": "u1694"
+                },
+                {
+                  "startUid": "u1761",
+                  "endUid": "u1889"
+                },
+                {
+                  "startUid": "u1890",
+                  "endUid": "u1908"
+                },
+                {
+                  "startUid": "u1932",
+                  "endUid": "u1934"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "turn",
+              "summary": "Moves 30 feet carrying the already-engulfed Delwath. Grasping glob catches Kenzo: Dexterity 21 fails and reroll 16 also fails, dealing 13 acid reduced to 6 and pulling him inside, restrained. Pseudopod hits Wellby on 23 for 26 force before his reaction. Slime ejection does not recharge.",
+              "evidence": [
+                {
+                  "startUid": "u1909",
+                  "endUid": "u1968"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uncanny Dodge reduces 26 force damage from the pseudopod to 13.",
+              "evidence": [
+                {
+                  "startUid": "u1951",
+                  "endUid": "u1960"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Bonus-action Misty Step escapes the ooze to at least 20 feet away. First two attacks miss on 19 and 20; uses his automatic-hit ability on the third and smites for 28 + 11 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1972",
+                  "endUid": "u2025"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "legendary_action",
+              "summary": "Crushes Kenzo and Seeker: Kenzo fails on Strength 18 for 26 force damage; Seeker succeeds on 25 for 13.",
+              "evidence": [
+                {
+                  "startUid": "u2029",
+                  "endUid": "u2046"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "legendary_action",
+              "summary": "Strength 15 fails to move the last 30 feet toward the core.",
+              "evidence": [
+                {
+                  "startUid": "u2048",
+                  "endUid": "u2068"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Strength 24 reaches the ten-foot dense shell at the sinkhole bottom. His slam and tail both connect but deal no damage: the Limbo fragment is currently immune to every damage type except thunder.",
+              "evidence": [
+                {
+                  "startUid": "u2067",
+                  "endUid": "u2170"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "legendary_action",
+              "summary": "Crushes again. Seeker rolls Strength with disadvantage because he is beside the heart, fails on 17 and takes 26 force; Kenzo also takes 26 force. Seeker succeeds on the required concentration save and retains Shapechange.",
+              "evidence": [
+                {
+                  "startUid": "u2200",
+                  "endUid": "u2235"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Fires for 46 piercing damage, drinks a healing potion (healing amount unstated) and flies 90 feet upward. The ooze shifts to piercing resistance.",
+              "evidence": [
+                {
+                  "startUid": "u2244",
+                  "endUid": "u2265"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "legendary_action",
+              "summary": "Pseudopod hits Wellby on 19 for 16 force damage.",
+              "evidence": [
+                {
+                  "startUid": "u2266",
+                  "endUid": "u2271"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Takes 24 force damage while engulfed. Haste-action escape and ki reroll fail, the latter on 18. Makes five attacks with disadvantage; only the first hits for 24 damage. His end-of-turn Strength escape also fails.",
+              "evidence": [
+                {
+                  "startUid": "u2272",
+                  "endUid": "u2274"
+                },
+                {
+                  "startUid": "u2328",
+                  "endUid": "u2389"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "turn",
+              "summary": "Advances 30 feet and engulfs Delwath; DC 23 Strength is stated, and he accepts the failed escape situation. Two pseudopods hit Wellby on 21 and thirty-something for 19 and 22 force. Slime ejection again fails to recharge.",
+              "evidence": [
+                {
+                  "startUid": "u2391",
+                  "endUid": "u2469"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uncanny Dodge halves the second 22-force hit to 11, taking 30 total across the two pseudopods.",
+              "evidence": [
+                {
+                  "startUid": "u2459",
+                  "endUid": "u2465"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "legendary_action",
+              "summary": "Attempts a slam against the ooze rather than the unchanged core; a roll of three misses.",
+              "evidence": [
+                {
+                  "startUid": "u2473",
+                  "endUid": "u2504"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Takes 22 force at the start. Quickened Scatter teleports Kenzo and himself free, to 70 and 20 feet away respectively. Three attacks hit, corrected first result 22, second 23 and a critical third with his final smite, for 99 + 15 + 18 damage; the ooze falls below a quarter. Acid retaliation deals 5. Runs to 80 feet away without leaving the ooze’s 600-foot reach.",
+              "evidence": [
+                {
+                  "startUid": "u2506",
+                  "endUid": "u2524"
+                },
+                {
+                  "startUid": "u2539",
+                  "endUid": "u2605"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "legendary_action",
+              "summary": "Grasping glob catches Delwath on a failed Dexterity save (natural one), deals 21 acid and engulfs him again.",
+              "evidence": [
+                {
+                  "startUid": "u2606",
+                  "endUid": "u2618"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Embraces the ten-foot Limbo core and tries to imagine it into vanishing feathers. Intelligence 15 does nothing; his heroic reroll is worse and also fails.",
+              "evidence": [
+                {
+                  "startUid": "u2627",
+                  "endUid": "u2682"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "legendary_action",
+              "summary": "Crushes Seeker at the heart with a disadvantaged Strength save; he fails. Delwath is also engulfed and required to save. The initial 22-force announcement is corrected to 21 to each; Delwath reports 20 hit points remaining.",
+              "evidence": [
+                {
+                  "startUid": "u2683",
+                  "endUid": "u2704"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Two arrows hit for 33 and 9 piercing damage, 42 total; flies another 90 feet upward. The ooze adapts to piercing.",
+              "evidence": [
+                {
+                  "startUid": "u2726",
+                  "endUid": "u2757"
+                },
+                {
+                  "startUid": "u2785",
+                  "endUid": "u2790"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "legendary_action",
+              "summary": "Critical pseudopod hits Wellby. The damage calculation is revised during Uncanny Dodge, with 42 the final announced force amount.",
+              "evidence": [
+                {
+                  "startUid": "u2755",
+                  "endUid": "u2783"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge and remains conscious; his final correction is two hit points, superseding the DM’s one-hit-point remark.",
+              "evidence": [
+                {
+                  "startUid": "u2763",
+                  "endUid": "u2783"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Flies in and back out, ending 70 feet away. Makes three staff attacks, two hits and a 20 miss, and three unarmed strikes, one critical, one hit and one miss. Deals 42 + 18 + 14 damage; the ooze shifts to bludgeoning resistance.",
+              "evidence": [
+                {
+                  "startUid": "u2791",
+                  "endUid": "u2869"
+                },
+                {
+                  "startUid": "u2870",
+                  "endUid": "u2871"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "turn",
+              "summary": "Advances 30 feet but cannot engulf Kenzo. Two pseudopods hit on 26 and 24: the first deals 36 force, triggering Kenzo’s once-only recovery to 87 hit points; the second would deal 21 force before his reaction.",
+              "evidence": [
+                {
+                  "startUid": "u2870",
+                  "endUid": "u2909"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the second hit to zero; the ooze fails its DC 20 Dexterity save and takes 14 redirected damage.",
+              "evidence": [
+                {
+                  "startUid": "u2904",
+                  "endUid": "u2924"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Takes 14 force while engulfed, then bonus-action Misty Steps free and attacks three times: one hit for 18 damage and two natural-one misses. The proposed retrospective automatic hit is not allowed. The ooze shifts to slashing resistance.",
+              "evidence": [
+                {
+                  "startUid": "u2925",
+                  "endUid": "u2929"
+                },
+                {
+                  "startUid": "u2986",
+                  "endUid": "u3048"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "legendary_action",
+              "summary": "Pseudopod hits Delwath on 29 for 30 force damage after his attempted blessing dodge fails; he falls unconscious.",
+              "evidence": [
+                {
+                  "startUid": "u3053",
+                  "endUid": "u3072"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Tries the Tanshi blessing to dodge the hit automatically, needing four or higher, but rolls another one; the hit stands.",
+              "evidence": [
+                {
+                  "startUid": "u3053",
+                  "endUid": "u3069"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Slam hits on 25 and tail misses on 19 against the ooze. The table reports 12 damage, and it shifts to bludgeoning resistance.",
+              "evidence": [
+                {
+                  "startUid": "u3073",
+                  "endUid": "u3110"
+                }
+              ],
+              "note": "The DM says damage will be halved while describing slashing resistance; the transcript does not clearly state whether the reported 12 is before or after that reduction."
+            },
+            {
+              "actor": "Ooze",
+              "kind": "legendary_action",
+              "summary": "Crushes Seeker near the core: disadvantaged Strength 10 fails, dealing 20 force damage.",
+              "evidence": [
+                {
+                  "startUid": "u3118",
+                  "endUid": "u3144"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses an arrow of seeking, critically hitting for a stated 67 damage. A second arrow hits for 9; he calls the combined total 78. The ooze thins and decoheres around the core. Wellby flies down and waits on the ground.",
+              "evidence": [
+                {
+                  "startUid": "u3146",
+                  "endUid": "u3200"
+                }
+              ],
+              "note": "The stated total 78 conflicts with 67 + 9 = 76; neither component nor the table’s total is silently changed."
+            },
+            {
+              "actor": "Ooze",
+              "kind": "legendary_action",
+              "summary": "Pseudopod strikes Wellby for 27 force damage, knocking him unconscious on the ground.",
+              "evidence": [
+                {
+                  "startUid": "u3202",
+                  "endUid": "u3214"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Flies into the ooze, ending about 60 feet from the core. Uses one Haste staff attack for 12 + 9 damage; although three hits including a critical were initially rolled, only this first attack resolves before the phase change. The ooze sheds minions and exposes the still thunder-only core, loses engulfing and ceases passive crushing. Kenzo uses a bonus-action dash back and his regular action to administer Delwath’s greater healing potion, restoring 13 hit points.",
+              "evidence": [
+                {
+                  "startUid": "u3218",
+                  "endUid": "u3278"
+                },
+                {
+                  "startUid": "u3280",
+                  "endUid": "u3294"
+                },
+                {
+                  "startUid": "u3303",
+                  "endUid": "u3312"
+                },
+                {
+                  "startUid": "u3341",
+                  "endUid": "u3342"
+                },
+                {
+                  "startUid": "u3371",
+                  "endUid": "u3372"
+                },
+                {
+                  "startUid": "u3396",
+                  "endUid": "u3467"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "turn",
+              "summary": "Commands five minions to attack Kenzo, missing on 18. Two pseudopods roll 27 and 23, one hitting for 24 force before Kenzo’s reaction. Slime ejection does not recharge; the other minion groups have no standing target and do not act.",
+              "evidence": [
+                {
+                  "startUid": "u3465",
+                  "endUid": "u3513"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "reaction",
+              "summary": "Deflects the 24-force hit and tries to redirect it; the returned damage splashes harmlessly on the ooze.",
+              "evidence": [
+                {
+                  "startUid": "u3488",
+                  "endUid": "u3506"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Uses first-level Healing Word to restore Wellby to 7 hit points. Uses his action to regain a warlock spell slot and moves 60 feet away; he makes no attack.",
+              "evidence": [
+                {
+                  "startUid": "u3583",
+                  "endUid": "u3635"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "legendary_action",
+              "summary": "Targets Kenzo, the last attacker, with a pseudopod: a 19 on the die hits for 23 force damage.",
+              "evidence": [
+                {
+                  "startUid": "u3636",
+                  "endUid": "u3644"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Ends Shapechange and stays beside the core. Uses the glove to convert seventh-level Chain Lightning to thunder, DC 19 Dexterity. The core uses a legendary resistance to save; half damage and thunder vulnerability cancel, so it takes 36 and develops small cracks. Gives Kenzo bardic inspiration as his bonus action.",
+              "evidence": [
+                {
+                  "startUid": "u3651",
+                  "endUid": "u3702"
+                },
+                {
+                  "startUid": "u3703",
+                  "endUid": "u3754"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "legendary_action",
+              "summary": "Critical pseudopod hits Seeker in his own form for the final stated 36 force damage.",
+              "evidence": [
+                {
+                  "startUid": "u3755",
+                  "endUid": "u3769"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Shoots a minion with sneak-attack support from the nearby allies; the low roll still hits its AC 16, with 32 damage reported, and the arrow strikes one slime down.",
+              "evidence": [
+                {
+                  "startUid": "u3777",
+                  "endUid": "u3837"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze",
+              "kind": "legendary_action",
+              "summary": "Retaliates against Wellby for hitting its minion. A stated roll of 20 hits for 25 damage; Wellby declines an ineffectual damage-halving reaction and falls unconscious again.",
+              "evidence": [
+                {
+                  "startUid": "u3840",
+                  "endUid": "u3865"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Moves his full 140 feet to the core. Uses his Haste action to imagine the Limbo fragment as fragile glass: natural 20 Intelligence succeeds without spending bardic inspiration, making it vulnerable to bludgeoning. Three bonus-action unarmed strikes yield one hit and two misses (including a natural one), with 13 damage rolled. Two staff attacks hit for 35 total rolled damage. Bludgeoning vulnerability applies; the third landed blow shatters the core.",
+              "evidence": [
+                {
+                  "startUid": "u3874",
+                  "endUid": "u3925"
+                },
+                {
+                  "startUid": "u3939",
+                  "endUid": "u4040"
+                }
+              ]
+            },
+            {
+              "actor": "Ooze minions",
+              "kind": "reaction",
+              "summary": "Opportunity attack during Kenzo’s approach deals 16 piercing reduced by resistance to 8. He preserves his reaction rather than deflecting.",
+              "evidence": [
+                {
+                  "startUid": "u3926",
+                  "endUid": "u3938"
+                }
+              ]
+            },
+            {
+              "actor": "Destroyed core",
+              "kind": "event",
+              "summary": "Implodes, dealing 21 force damage each to Kenzo and Seeker and throwing both 1,000 feet upward. Wellby suffers one failed death save; Delwath is out of range. The ooze and minions solidify into crystal. Flying Kenzo takes no falling damage; Seeker still needs a way down.",
+              "evidence": [
+                {
+                  "startUid": "u4042",
+                  "endUid": "u4097"
+                },
+                {
+                  "startUid": "u4134",
+                  "endUid": "u4136"
+                },
+                {
+                  "startUid": "u4161",
+                  "endUid": "u4168"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Uses his next turn to wake Wellby with 34 healing; Wellby is conscious to witness Seeker’s rescue.",
+              "evidence": [
+                {
+                  "startUid": "u4137",
+                  "endUid": "u4149"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker and Ladder",
+              "kind": "turn",
+              "summary": "Seeker animates Ladder, which catches him and carries him gently to the ground, preventing the otherwise threatened 1,000-foot fall.",
+              "evidence": [
+                {
+                  "startUid": "u4125",
+                  "endUid": "u4132"
+                },
+                {
+                  "startUid": "u4150",
+                  "endUid": "u4157"
+                }
+              ],
+              "note": "The successful rescue is narrated after Delwath’s turn; the earlier proposal is cited as setup, not counted as an extra completed action."
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Kenzo changes the core to glass and smashes it. The ooze and minions crystallize and the ash begins settling. Delwath and Wellby survive after healing; Kenzo flies safely and animated Ladder saves Seeker from the fall.",
+        "evidence": [
+          {
+            "startUid": "u4037",
+            "endUid": "u4075"
+          },
+          {
+            "startUid": "u4134",
+            "endUid": "u4168"
+          }
+        ]
+      }
+    }
+  ]
+}
