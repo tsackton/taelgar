@@ -1,0 +1,1004 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-092",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-092/cleaned/dunmari-frontier-092-session.yaml",
+    "sessionYamlSha256": "f09101dfec7b5a6e6d936cb6923a139fce8a199e06314f0484fdfc0907dfb8fa",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-092/cleaned/dunmari-frontier-092-transcript.md",
+    "transcriptSha256": "2818505a27bfd0b1171617425afce812dc3c1a93baca7d345e9501d4213dc36f",
+    "timeMarkers": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-092/cleaned/dunmari-frontier-092-time-markers.json",
+      "sha256": "327646357da651c6a6bdd49b774e5f53a5d5763df65d1a6aef7559060c1eca9e",
+      "schemaVersion": "0.5-time-markers-draft"
+    }
+  },
+  "places": {
+    "p01": {
+      "label": "Vindristjarna",
+      "kind": "skyship",
+      "evidence": [
+        {
+          "startUid": "u0154",
+          "endUid": "u0155",
+          "quote": "DM: The gate itself is, is wide enough that Vindristjarna could just probably fly through it without too much trouble.\n\n"
+        },
+        {
+          "startUid": "u1292",
+          "endUid": "u1296",
+          "quote": "DM: So you leave the steading of Isenborg around, you know, 10 in the morning, roughly and you fly for the first day, you descend from the mountains, and you reach the frozen expanse of the Ket, and you begin to follow the course of the river heading roughly east.\n\n"
+        }
+      ],
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p02": {
+      "label": "Isenborg",
+      "kind": "steading",
+      "evidence": [
+        {
+          "startUid": "u0128",
+          "endUid": "u0139",
+          "quote": "the entrance to this steading, this palace of Isenborg."
+        },
+        {
+          "startUid": "u0846",
+          "endUid": "u0853",
+          "quote": "Isenborg is the name of the steading. The hall is the palace."
+        }
+      ],
+      "vaultPath": "Gazetteer/Northern Green Sea/Isenborg.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u0385",
+              "endUid": "u0389",
+              "quote": "Welcome to my home of Isenborg!"
+            },
+            {
+              "startUid": "u0866",
+              "endUid": "u0876",
+              "quote": "the kingdom of Kaldhalla, which is what he calls the entire Frost Giant kingdom."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Entrance gate",
+      "kind": "gate",
+      "evidence": [
+        {
+          "startUid": "u0149",
+          "endUid": "u0153",
+          "quote": "DM: The gate itself—the entrance is 50, 60 feet high. This massive stone structure with 2 pillars that form an arch that allows you to sort of enter into this ice caldera, in which the steading sits. Guarded by ice sculptures carved of giants and beasts, forming a path that leads up to this entry way, and everything is 30, 40, 50 feet tall. Like these are even larger than life size from the point of view of a giant.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0141",
+              "endUid": "u0143",
+              "quote": "DM: As you begin to approach these massive columns that mark the entryway into this and a valley of ice in which the steading sits. It looks like it's almost been carved, shaped out of a giant glacier.\n\n"
+            },
+            {
+              "startUid": "u0219",
+              "endUid": "u0219",
+              "quote": "DM: Into a big— It doesn't have the glacier courtyard, but beyond the gate there's like a big giant caldera carved out of ice. It doesn't go into a building.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Snowy courtyard",
+      "kind": "courtyard",
+      "evidence": [
+        {
+          "startUid": "u0163",
+          "endUid": "u0167",
+          "quote": "DM: So the—but you can see like looking down into the into this ice caldera, which must be like half a mile across. At least it's tough to judge the scale of things, because everything is so big. So it— distances are deceiving. Things look— they, they—they look much closer than they actually are, because they're so much bigger than you expect them to be. There's like a courtyard. Everything is cold. There's like firelight flickering in the courtyard. It doesn't seem to be melting the snow. There's a layer of snow across the entire grounds.\n\n"
+        },
+        {
+          "startUid": "u0244",
+          "endUid": "u0250",
+          "quote": "DM: So as you pass through the gates, you can see there's there's maybe 3 or 4 giants in the courtyard that sort of turn and look up to you and the the guard, who's who's apparently standing outside the palace steps—goes up the stairs and steps in to the palace. You hear a few people yelling a few things in giant.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0163",
+              "endUid": "u0167",
+              "quote": "DM: So the—but you can see like looking down into the into this ice caldera, which must be like half a mile across. At least it's tough to judge the scale of things, because everything is so big. So it— distances are deceiving. Things look— they, they—they look much closer than they actually are, because they're so much bigger than you expect them to be. There's like a courtyard. Everything is cold. There's like firelight flickering in the courtyard. It doesn't seem to be melting the snow. There's a layer of snow across the entire grounds.\n\n"
+            },
+            {
+              "startUid": "u0172",
+              "endUid": "u0175",
+              "quote": "DM: And then laid out in front of the palace, there's a courtyard in a bunch of like dwellings and things. There's this practice grounds. There's a pen where you can see 4 giant mammoths penned up. And then there's like a herd of massive goats that must be—I don't know— 10 feet tall at the shoulders, at least that are being tended, you know, herded around by another giant.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Palace steps",
+      "kind": "steps",
+      "evidence": [
+        {
+          "startUid": "u0296",
+          "endUid": "u0302",
+          "quote": "Seeker: So we, we park at 50 feet. And, and I set a rainbow bridge down to—what?—the steps of the palace. The steps of the palace. Yeah. Yeah.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0168",
+              "endUid": "u0175",
+              "quote": "DM: You can see there's like a pair of giants that are sparring with each other in kind of a giant snow sparring ground that's been carved out of that. So there's the giant palace, right? There's like set up against the side of the glacier. There's this massive palace that is, you know, stands a hundred feet tall. Massive doors that are, you know, 30 feet tall. There is a giant standing guard in front of the of the palace doors.\n\n"
+            },
+            {
+              "startUid": "u0296",
+              "endUid": "u0302",
+              "quote": "Seeker: So we, we park at 50 feet. And, and I set a rainbow bridge down to—what?—the steps of the palace. The steps of the palace. Yeah. Yeah.\n\n"
+            }
+          ]
+        }
+      ],
+      "note": "Exterior steps leading into the palace; not treated as a room inside its building."
+    },
+    "p06": {
+      "label": "Brimskarda’s palace hall",
+      "kind": "hall",
+      "evidence": [
+        {
+          "startUid": "u0350",
+          "endUid": "u0357",
+          "quote": "DM: So the door to the palace swings open. And you sort of stumble into this massive hall. It's dim. It's not— It's not brightly lit inside. There's just some blue light coming down. It's almost like it's carved into into the glacier itself. And there's just light filtering down through to the glacier that casts this blue glow. It is exceedingly cold.\n\n"
+        },
+        {
+          "startUid": "u0385",
+          "endUid": "u0389",
+          "quote": "DM: And he like sort of waves, says in this booming voice, in Common as, as you approach: \"Greetings. Welcome to my home of Isenborg! It is a pleasure to see travelers such as yourself come to honor this court. Please come, tell me of yourself,\" and he like motions. Yep.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0168",
+              "endUid": "u0175",
+              "quote": "DM: You can see there's like a pair of giants that are sparring with each other in kind of a giant snow sparring ground that's been carved out of that. So there's the giant palace, right? There's like set up against the side of the glacier. There's this massive palace that is, you know, stands a hundred feet tall. Massive doors that are, you know, 30 feet tall. There is a giant standing guard in front of the of the palace doors.\n\n"
+            },
+            {
+              "startUid": "u0350",
+              "endUid": "u0357",
+              "quote": "DM: So the door to the palace swings open. And you sort of stumble into this massive hall. It's dim. It's not— It's not brightly lit inside. There's just some blue light coming down. It's almost like it's carved into into the glacier itself. And there's just light filtering down through to the glacier that casts this blue glow. It is exceedingly cold.\n\n"
+            },
+            {
+              "startUid": "u0846",
+              "endUid": "u0853",
+              "quote": "Isenborg is the name of the steading. The hall is the palace."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Goat pens",
+      "kind": "animal pen",
+      "evidence": [
+        {
+          "startUid": "u0976",
+          "endUid": "u0988",
+          "quote": "DM: And so the sounds you hear are basically the the sparring of the giants. Then apparently, the job that this historian, Algerd, is left with is basically cleaning the goat pens.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0172",
+              "endUid": "u0175",
+              "quote": "DM: And then laid out in front of the palace, there's a courtyard in a bunch of like dwellings and things. There's this practice grounds. There's a pen where you can see 4 giant mammoths penned up. And then there's like a herd of massive goats that must be—I don't know— 10 feet tall at the shoulders, at least that are being tended, you know, herded around by another giant.\n\n"
+            },
+            {
+              "startUid": "u0976",
+              "endUid": "u0988",
+              "quote": "DM: And so the sounds you hear are basically the the sparring of the giants. Then apparently, the job that this historian, Algerd, is left with is basically cleaning the goat pens.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Unheated storage hold",
+      "kind": "ship compartment",
+      "evidence": [
+        {
+          "startUid": "u1235",
+          "endUid": "u1241",
+          "quote": "Seeker: The, the, the storage hold is unheated. Do not fear.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1147",
+              "endUid": "u1149",
+              "quote": "Delwath: But a whole third deck is mostly unfinished. And he might—he might not get like a super nice room, because we need to give him the big, unfinished bottom deck.\n\n"
+            },
+            {
+              "startUid": "u1235",
+              "endUid": "u1241",
+              "quote": "Seeker: The, the, the storage hold is unheated. Do not fear.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Frozen Ket",
+      "kind": "river",
+      "evidence": [
+        {
+          "startUid": "u1292",
+          "endUid": "u1304",
+          "quote": "DM: So you leave the steading of Isenborg around, you know, 10 in the morning, roughly and you fly for the first day, you descend from the mountains, and you reach the frozen expanse of the Ket, and you begin to follow the course of the river heading roughly east.\n\n"
+        }
+      ],
+      "vaultPath": "Gazetteer/Northern Green Sea/Rivers/Ket.md",
+      "note": "Markers concern the frozen stretch followed in this session, not the river’s complete course."
+    },
+    "p10": {
+      "label": "Northern forests",
+      "kind": "forest region",
+      "evidence": [
+        {
+          "startUid": "u1297",
+          "endUid": "u1304",
+          "quote": "DM: The next day you continue traveling further east, descending down out of the foothills of the mountains, and into this just vast expanse of rolling northern forests. Just stretching as far as you can see, for hundreds of miles in all directions. The only thing breaking the rolling expanse of the of the vast woods is the line of the Ket, which itself is frozen still, in the middle of March.\n\n"
+        }
+      ],
+      "vaultPath": "Gazetteer/Northern Green Sea/Great Northern Forest.md",
+      "note": "The Great Northern Forest note identifies the taiga east of the Svinjo along the Ket; the transcript uses a descriptive label."
+    },
+    "p11": {
+      "label": "Iceworm fissure on the frozen Ket",
+      "kind": "river encounter site",
+      "evidence": [
+        {
+          "startUid": "u1320",
+          "endUid": "u1329",
+          "quote": "DM: When you see in the distance, maybe 20 miles ahead on the frozen river, what strikes, I would say, Wellby, as something like somewhat unusual: just a pair of elk. And they seem to be running along the river just 2 of them. You almost never see elk isolated, right? They're almost always traveling in herds. Maybe they're caribou, and— to the east of them along the forest the trees are swaying.\n\n"
+        },
+        {
+          "startUid": "u1494",
+          "endUid": "u1507",
+          "quote": "DM: You, and actually a giant. It's a hundred feet long.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1320",
+              "endUid": "u1329",
+              "quote": "on the frozen river"
+            },
+            {
+              "startUid": "u1505",
+              "endUid": "u1507",
+              "quote": "this cracks the ice, they fall into the freezing river."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Hidden village in the forest clearing",
+      "kind": "camp",
+      "evidence": [
+        {
+          "startUid": "u2074",
+          "endUid": "u2077",
+          "quote": "DM: There's this breach. They have a village, the hidden village about 15 miles away.\n\n"
+        },
+        {
+          "startUid": "u2086",
+          "endUid": "u2097",
+          "quote": "DM: And you fly on Vindristjarna, you know, an hour half, roughly, bringing you to sort of mid-morning. And you see— you see below you the sort of nestled in among a clearing in the trees, some tents, covered in snow. In this clearing a few campfires with smoke, nestled in among the trees.\n\n"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1297",
+              "endUid": "u1304",
+              "quote": "DM: The next day you continue traveling further east, descending down out of the foothills of the mountains, and into this just vast expanse of rolling northern forests. Just stretching as far as you can see, for hundreds of miles in all directions. The only thing breaking the rolling expanse of the of the vast woods is the line of the Ket, which itself is frozen still, in the middle of March.\n\n"
+            },
+            {
+              "startUid": "u2086",
+              "endUid": "u2092",
+              "quote": "nestled in among a clearing in the trees, some tents, covered in snow."
+            }
+          ]
+        }
+      ],
+      "note": "A settlement of tents reached with the rescued travelers; no permanent village name or exact site is established."
+    },
+    "p13": {
+      "label": "Kaldhalla",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u0866",
+          "endUid": "u0876",
+          "quote": "the kingdom of Kaldhalla, which is what he calls the entire Frost Giant kingdom."
+        }
+      ],
+      "vaultPath": "Gazetteer/Northern Green Sea/Kaldhalla.md",
+      "note": "The transcript names the kingdom without fixing its territorial boundaries."
+    },
+    "p14": {
+      "label": "Svinjo Mountains / Hrimthur",
+      "kind": "mountain range",
+      "evidence": [
+        {
+          "startUid": "u0002",
+          "endUid": "u0011",
+          "quote": "crossing the Svinjo Mountains"
+        },
+        {
+          "startUid": "u0586",
+          "endUid": "u0596",
+          "quote": "the Svinjo Mountains, he calls them— He calls them Hrimthur"
+        },
+        {
+          "startUid": "u1292",
+          "endUid": "u1296",
+          "quote": "you descend from the mountains"
+        }
+      ],
+      "aliases": [
+        "Svinjo Mountains",
+        "Hrimthur"
+      ],
+      "vaultPath": "Gazetteer/Northern Green Sea/Svinjo Mountains.md"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0128",
+        "endUid": "u0139"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party approaches Isenborg aboard Vindristjarna, pausing a respectful distance outside its entrance.",
+      "evidence": [
+        {
+          "startUid": "u0128",
+          "endUid": "u0139",
+          "quote": "So as you approach, you see the entrance to this steading, this palace of Isenborg."
+        },
+        {
+          "startUid": "u0157",
+          "endUid": "u0159",
+          "quote": "we float to a halt at a respectful distance"
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "near",
+          "target": "p03"
+        }
+      ],
+      "timeRefs": [
+        "t01"
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0160",
+        "endUid": "u0186"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the hovering ship, look into Isenborg’s icy enclosure: courtyard, palace, sparring ground, animal pens, and small servant warrens; looking does not establish entry.",
+      "evidence": [
+        {
+          "startUid": "u0160",
+          "endUid": "u0161",
+          "quote": "DM: Yeah. I mean, there's there's activity within the the steading. There doesn't seem to be any one specifically on guard.\n\n"
+        },
+        {
+          "startUid": "u0163",
+          "endUid": "u0178",
+          "quote": "DM: So the—but you can see like looking down into the into this ice caldera, which must be like half a mile across. At least it's tough to judge the scale of things, because everything is so big. So it— distances are deceiving. Things look— they, they—they look much closer than they actually are, because they're so much bigger than you expect them to be. There's like a courtyard. Everything is cold. There's like firelight flickering in the courtyard. It doesn't seem to be melting the snow. There's a layer of snow across the entire grounds.\n\n"
+        },
+        {
+          "startUid": "u0183",
+          "endUid": "u0186",
+          "quote": "DM: It looks more like living quarters than anything else, like, they're not— They're not like mine tunnels. There's like doors. There's like fur that— not where the giants live, but in these little warrens that lead into the glacier. There's like fur lining them.\n\n"
+        }
+      ],
+      "place": "p02",
+      "mode": "local",
+      "observerPlace": "p01"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0236",
+        "endUid": "u0272"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Fly slowly through the gate and park Vindristjarna beside the sparring ground, hovering about fifty feet above the courtyard.",
+      "evidence": [
+        {
+          "startUid": "u0236",
+          "endUid": "u0243",
+          "quote": "Seeker: So we inch forward through the gate. Don't want to scrape anything up.\n\n"
+        },
+        {
+          "startUid": "u0244",
+          "endUid": "u0250",
+          "quote": "DM: So as you pass through the gates, you can see there's there's maybe 3 or 4 giants in the courtyard that sort of turn and look up to you and the the guard, who's who's apparently standing outside the palace steps—goes up the stairs and steps in to the palace. You hear a few people yelling a few things in giant.\n\n"
+        },
+        {
+          "startUid": "u0263",
+          "endUid": "u0272",
+          "quote": "You land."
+        },
+        {
+          "startUid": "u0296",
+          "endUid": "u0302",
+          "quote": "So we, we park at 50 feet."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "fly aboard skyship",
+      "vehicle": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "within",
+          "target": "p02"
+        }
+      ],
+      "note": "“Land” is clarified as a fifty-foot hover, not ground contact."
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0296",
+        "endUid": "u0324"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Use the Rainbow Bridge from the ship to the palace steps; Delwath, Riswynn, and Seeker fly up the oversized steps while Kenzo and Wellby ascend physically.",
+      "evidence": [
+        {
+          "startUid": "u0296",
+          "endUid": "u0302",
+          "quote": "I set a rainbow bridge down to—what?—the steps of the palace."
+        },
+        {
+          "startUid": "u0308",
+          "endUid": "u0315",
+          "quote": "Delwath: Like I'm gonna—I'm carrying this giant present for— yeah, right? Like, I brought the giant thing, right? Like, I'll just look at the steps and I'll—you know they're like— If they're wondering like what I'm gonna do, I'll just cast fly. I'll touch Riswynn and Seeker.\n\n"
+        },
+        {
+          "startUid": "u0320",
+          "endUid": "u0324",
+          "quote": "You make it acrobatically up the stairs"
+        }
+      ],
+      "from": "p01",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "Rainbow Bridge, flight, and climbing"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0350",
+        "endUid": "u0357"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Enter the cavernous, intensely cold palace hall for the audience and feast.",
+      "evidence": [
+        {
+          "startUid": "u0350",
+          "endUid": "u0357",
+          "quote": "DM: So the door to the palace swings open. And you sort of stumble into this massive hall. It's dim. It's not— It's not brightly lit inside. There's just some blue light coming down. It's almost like it's carved into into the glacier itself. And there's just light filtering down through to the glacier that casts this blue glow. It is exceedingly cold.\n\n"
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "enter palace"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0961",
+        "endUid": "u0968"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Return to Vindristjarna and spend the night aboard at Isenborg.",
+      "evidence": [
+        {
+          "startUid": "u0956",
+          "endUid": "u0959",
+          "quote": "after the feast"
+        },
+        {
+          "startUid": "u0961",
+          "endUid": "u0968",
+          "quote": "you spend the night on the sky ship"
+        }
+      ],
+      "from": "p06",
+      "to": "p01",
+      "completion": "arrived",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "within",
+          "target": "p02"
+        }
+      ],
+      "timeRefs": [
+        "t05"
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0976",
+        "endUid": "u0996"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "In the morning, find Algerd shoveling in the goat pens and approach to introduce yourselves.",
+      "evidence": [
+        {
+          "startUid": "u0976",
+          "endUid": "u0981",
+          "quote": "DM: And so the sounds you hear are basically the the sparring of the giants. Then apparently, the job that this historian, Algerd, is left with is basically cleaning the goat pens.\n\n"
+        },
+        {
+          "startUid": "u0982",
+          "endUid": "u0991",
+          "quote": "DM: And so you find him shoveling rather large piles of goat droppings and, like, the goats are eating these like massive piles of these— of the shells of these ice gourds that the giants split open and eat the insides of which are kind of like ice cream, like sweet Italian ice kind of flavored, but the—there's like giant piles of these of the shells of these gourds scattered around this big goat pen and the goats are sort of munching away, and this giant is shoveling.\n\n"
+        },
+        {
+          "startUid": "u0992",
+          "endUid": "u0996",
+          "quote": "Let's like show up."
+        }
+      ],
+      "from": "p01",
+      "to": "p07",
+      "completion": "arrived",
+      "timeRefs": [
+        "t05"
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1120",
+        "endUid": "u1122"
+      },
+      "actors": [
+        "party",
+        "Algerd"
+      ],
+      "reading": "Invite Algerd aboard and bring him onto Vindristjarna after he retrieves his books; his response and subsequent room-making confirm boarding.",
+      "evidence": [
+        {
+          "startUid": "u1120",
+          "endUid": "u1122",
+          "quote": "Delwath: Let's invite him up on the ship.\n\n"
+        },
+        {
+          "startUid": "u1199",
+          "endUid": "u1199",
+          "quote": "DM: Walks off, comes back like 15 min later, with this sack over his shoulder, with like 8 massive giant sized books.\n\n"
+        },
+        {
+          "startUid": "u1221",
+          "endUid": "u1226",
+          "quote": "Oh, magic! That's very interesting. Fascinating! Your ship is very nice."
+        },
+        {
+          "startUid": "u1235",
+          "endUid": "u1246",
+          "quote": "Seeker: The, the, the storage hold is unheated. Do not fear.\n\n"
+        }
+      ],
+      "from": "p07",
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "Rainbow Bridge",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "within",
+          "target": "p02"
+        }
+      ],
+      "timeRefs": [
+        "t06"
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1235",
+        "endUid": "u1246"
+      },
+      "actors": [
+        "Algerd"
+      ],
+      "reading": "Algerd chooses the unheated storage hold and goes below to make his room as the ship departs.",
+      "evidence": [
+        {
+          "startUid": "u1235",
+          "endUid": "u1241",
+          "quote": "Seeker: The, the, the storage hold is unheated. Do not fear.\n\n"
+        },
+        {
+          "startUid": "u1242",
+          "endUid": "u1246",
+          "quote": "So he goes down"
+        }
+      ],
+      "from": "p01",
+      "to": "p08",
+      "completion": "arrived"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1242",
+        "endUid": "u1246"
+      },
+      "actors": [
+        "party",
+        "Algerd"
+      ],
+      "reading": "Leave Isenborg eastward aboard Vindristjarna, descend from the mountains to the frozen Ket, and follow it into the northern forests over the two-day flight. By March 21 the travelers see two elk roughly fifteen to twenty miles ahead.",
+      "evidence": [
+        {
+          "startUid": "u1242",
+          "endUid": "u1246",
+          "quote": "DM: So he goes down and you leave the giant steading heading— heading east.\n\n"
+        },
+        {
+          "startUid": "u1292",
+          "endUid": "u1304",
+          "quote": "DM: So you leave the steading of Isenborg around, you know, 10 in the morning, roughly and you fly for the first day, you descend from the mountains, and you reach the frozen expanse of the Ket, and you begin to follow the course of the river heading roughly east.\n\n"
+        },
+        {
+          "startUid": "u1305",
+          "endUid": "u1309",
+          "quote": "DM: March twentieth comes, and you continue traveling east until the morning of March 21st.\n\n"
+        },
+        {
+          "startUid": "u1320",
+          "endUid": "u1329",
+          "quote": "DM: When you see in the distance, maybe 20 miles ahead on the frozen river, what strikes, I would say, Wellby, as something like somewhat unusual: just a pair of elk. And they seem to be running along the river just 2 of them. You almost never see elk isolated, right? They're almost always traveling in herds. Maybe they're caribou, and— to the east of them along the forest the trees are swaying.\n\n"
+        }
+      ],
+      "from": "p02",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "fly aboard skyship",
+      "vehicle": "p01",
+      "route": [
+        {
+          "place": "p14",
+          "reading": "Descend from the mountain steading and foothills."
+        },
+        {
+          "place": "p09",
+          "reading": "Reach the frozen Ket on the first day, then follow its course east."
+        },
+        {
+          "place": "p10",
+          "reading": "Continue over the river through the vast northern forest."
+        }
+      ],
+      "distance": {
+        "value": 480,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM’s final 48-hour flight calculation"
+      },
+      "duration": {
+        "value": 48,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Detailed journey narration refines the initial rough three-day description."
+      },
+      "timeRefs": [
+        "t07",
+        "t08"
+      ],
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p09"
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u1320",
+        "endUid": "u1329"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Spot two isolated elk running on the frozen river ahead and trees swaying beside their route; the party suspects an iceworm hunt before intervening.",
+      "evidence": [
+        {
+          "startUid": "u1320",
+          "endUid": "u1329",
+          "quote": "DM: When you see in the distance, maybe 20 miles ahead on the frozen river, what strikes, I would say, Wellby, as something like somewhat unusual: just a pair of elk. And they seem to be running along the river just 2 of them. You almost never see elk isolated, right? They're almost always traveling in herds. Maybe they're caribou, and— to the east of them along the forest the trees are swaying.\n\n"
+        },
+        {
+          "startUid": "u1330",
+          "endUid": "u1331",
+          "quote": "Delwath: Oh, perfect! Let's go kill an ice remorhaz, which is hunting 2 of the shape shifters. This is a brilliant and perfect situation. We can save their lives and make friends. Make friends. Let's do it.\n\n"
+        },
+        {
+          "startUid": "u1347",
+          "endUid": "u1351",
+          "quote": "they're like 15 miles away."
+        }
+      ],
+      "place": "p11",
+      "mode": "local",
+      "observerPlace": "p01",
+      "observedActors": [
+        "Two elk"
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1453",
+        "endUid": "u1471"
+      },
+      "actors": [
+        "party",
+        "Ladder"
+      ],
+      "reading": "Teleport from the ship on the Rainbow Bridge to the elk’s river position, then fight above the iceworm fissure. Algerd remains aboard rather than joining the combat.",
+      "evidence": [
+        {
+          "startUid": "u1453",
+          "endUid": "u1454",
+          "quote": "So let's bring the ladder."
+        },
+        {
+          "startUid": "u1467",
+          "endUid": "u1471",
+          "quote": "DM: Okay. As you all magically appear on the Rainbow Bridge, the two elk look at you in surprise. Kind of look back at each other, and Wellby gets the jump.\n\n"
+        },
+        {
+          "startUid": "u1500",
+          "endUid": "u1507",
+          "quote": "Seeker: Yeah, we're in the air. I'm not standing, just to be clear. Who is standing?\n\n"
+        }
+      ],
+      "from": "p01",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "Rainbow Bridge and flight",
+      "note": "The physical encounter includes the air above the river; the source does not move Algerd to it."
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2033",
+        "endUid": "u2034"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Rush the two intact sensory patches up to the ship’s cold chest before they melt.",
+      "evidence": [
+        {
+          "startUid": "u1963",
+          "endUid": "u1966",
+          "quote": "Seeker: On the ship.\n\n"
+        },
+        {
+          "startUid": "u2033",
+          "endUid": "u2034",
+          "quote": "DM: So Seeker manages to extract these 2 massive sensory patches completely intact. And rushes them up to the cold chest as, like, you can—you can sense that they're beginning to melt as soon as they're cut out of the beast, but managed to get them in the cold chest before any damage is done.\n\n"
+        }
+      ],
+      "from": "p11",
+      "to": "p01",
+      "completion": "arrived"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2071",
+        "endUid": "u2085"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Riswynn",
+        "Wellby",
+        "Man rescued in elk form",
+        "Woman rescued in elk form"
+      ],
+      "reading": "The remaining PCs return to Vindristjarna with the rescued shapeshifters, rejoining Seeker after his earlier delivery of sensory patches.",
+      "evidence": [
+        {
+          "startUid": "u2071",
+          "endUid": "u2073",
+          "quote": "Delwath: As soon as we butchered these fairly quickly, we will then usher these folks onto the rainbow bridge and fly back to our ship.\n\n"
+        },
+        {
+          "startUid": "u2078",
+          "endUid": "u2085",
+          "quote": "So you get back on the ship."
+        }
+      ],
+      "from": "p11",
+      "to": "p01",
+      "completion": "arrived",
+      "mode": "Rainbow Bridge",
+      "note": "Seeker’s separate trip to the ship is l16; no return from that delivery to the river is invented."
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2086",
+        "endUid": "u2097"
+      },
+      "actors": [
+        "party",
+        "Man rescued in elk form",
+        "Woman rescued in elk form"
+      ],
+      "reading": "Fly about fifteen miles under the rescued travelers’ guidance to the camouflaged tent village, reaching its clearing around midmorning while still aboard the ship.",
+      "evidence": [
+        {
+          "startUid": "u2074",
+          "endUid": "u2077",
+          "quote": "the hidden village about 15 miles away."
+        },
+        {
+          "startUid": "u2086",
+          "endUid": "u2097",
+          "quote": "DM: And you fly on Vindristjarna, you know, an hour half, roughly, bringing you to sort of mid-morning. And you see— you see below you the sort of nestled in among a clearing in the trees, some tents, covered in snow. In this clearing a few campfires with smoke, nestled in among the trees.\n\n"
+        }
+      ],
+      "from": "p09",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "fly aboard skyship",
+      "vehicle": "p01",
+      "distance": {
+        "value": 15,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM’s stated distance from the river encounter to the village"
+      },
+      "duration": {
+        "value": 1.5,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s narrated flight duration"
+      },
+      "timeRefs": [
+        "t09",
+        "t10"
+      ],
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p12"
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2111",
+        "endUid": "u2119"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Climb or fly down from Vindristjarna into the village, where the gathered residents include the woman in Deno’qai armor.",
+      "evidence": [
+        {
+          "startUid": "u2111",
+          "endUid": "u2119",
+          "quote": "you can all fly down to the village"
+        },
+        {
+          "startUid": "u2120",
+          "endUid": "u2127",
+          "quote": "DM: Not everybody is a human. There are a nump— There are a couple of elk milling about. There's a bear, there's a few wolves. There's a few halflings. And there's one woman who's standing looking up at you wearing Deno'qai armor. And that's where we'll stop.\n\n"
+        }
+      ],
+      "from": "p01",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "climb or fly down"
+    }
+  ]
+}

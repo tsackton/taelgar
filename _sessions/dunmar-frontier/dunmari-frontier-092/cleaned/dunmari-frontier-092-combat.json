@@ -1,0 +1,300 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-092",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-092/cleaned/dunmari-frontier-092-session.yaml",
+    "sessionYamlSha256": "f09101dfec7b5a6e6d936cb6923a139fce8a199e06314f0484fdfc0907dfb8fa",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-092/cleaned/dunmari-frontier-092-transcript.md",
+    "transcriptSha256": "2818505a27bfd0b1171617425afce812dc3c1a93baca7d345e9501d4213dc36f",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-092/cleaned/dunmari-frontier-092-segments.json",
+      "sha256": "78708514620b19916c3f856e9996b1a541663142ccbc6bbe62203c86b92b3e85",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s009",
+      "encounter": "Iceworm hunting two elk on the frozen Ket",
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes Steady Aim and fires a honed Skaer arrow from about 70 feet, spending all four fire charges. Hits for 25 damage plus 18 fire damage. The worm succeeds on the DC 13 Constitution save, avoiding continuing fire damage; the initial fire damage still applies. Wellby grants the other party members advantage on all attacks in this first round.",
+              "evidence": [
+                {
+                  "startUid": "u1472",
+                  "endUid": "u1488"
+                },
+                {
+                  "startUid": "u1489",
+                  "endUid": "u1492"
+                },
+                {
+                  "startUid": "u1627",
+                  "endUid": "u1629"
+                },
+                {
+                  "startUid": "u1699",
+                  "endUid": "u1701"
+                }
+              ]
+            },
+            {
+              "actor": "Iceworm",
+              "kind": "legendary_action",
+              "summary": "Erupts and opens a fissure roughly 100 feet long and 20 feet wide, cracking the river ice beneath both elk and dropping them into freezing water. The flying PCs need no saving throw.",
+              "evidence": [
+                {
+                  "startUid": "u1489",
+                  "endUid": "u1509"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Flies within 30 feet, applies Mark of the Hunter, and casts Mental Prison (DC 19 Intelligence). The DM withdraws the proposed legendary resistance because charm immunity defeats the prison; the worm still takes 5d10 psychic damage, with no rolled total spoken. Delwath flies back.",
+              "evidence": [
+                {
+                  "startUid": "u1516",
+                  "endUid": "u1539"
+                }
+              ]
+            },
+            {
+              "actor": "Iceworm",
+              "kind": "turn",
+              "summary": "Moves 60 feet through its trench and lashes three tongues: Wellby is hit for 14 acid damage and grappled; Riswynn is hit for 21 acid damage (correcting 18) and grappled; the third attack misses Kenzo (correcting the initially named Delwath). As a bonus action it slams Riswynn toward Kenzo, dealing her 10 bludgeoning damage. Kenzo succeeds on a Dexterity save of 21 and dodges her.",
+              "evidence": [
+                {
+                  "startUid": "u1540",
+                  "endUid": "u1576"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses Soul Sight: the worm is immune to charm, fright, and prone, and too large to grapple; Strength and Constitution are strongest, Intelligence and Charisma weakest. Makes five attacks with first-round advantage. The first hits Riswynn’s tongue for 11 damage plus 13 Constitution Aura Strike damage; the worm succeeds on its Constitution save and is not stunned, but releases Riswynn. The second staff attack hits the tongue holding Wellby for a stated 15 damage; another Constitution effect is disallowed as once per turn. The first punch is reported as a natural 20 with 14 damage, followed by an answer of 13 when damage is queried; the tongue retracts, freeing Wellby. The remaining two attacks hit the main body for 9 and 16 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1577",
+                  "endUid": "u1588"
+                },
+                {
+                  "startUid": "u1598",
+                  "endUid": "u1656"
+                }
+              ],
+              "note": "The damage exchange at u1640–u1643 does not clearly assign the later 13 to a correction or an earlier hit; preserve both reports without calculating a total."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Moves toward the elk without spending an action to pull one out. Casts Rune of Psychic Disruption: the worm fails its Intelligence save, uses a legendary resistance to avoid incapacitation (called a stun at the table), takes 28 psychic damage, and loses speed.",
+              "evidence": [
+                {
+                  "startUid": "u1657",
+                  "endUid": "u1668"
+                },
+                {
+                  "startUid": "u1670",
+                  "endUid": "u1690"
+                },
+                {
+                  "startUid": "u1835",
+                  "endUid": "u1836"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "event",
+              "summary": "Tries to pull one elk out of the river while Seeker casts. The DM later confirms that this rescue succeeded.",
+              "evidence": [
+                {
+                  "startUid": "u1657",
+                  "endUid": "u1663"
+                },
+                {
+                  "startUid": "u1838",
+                  "endUid": "u1847"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts Sunbeam rather than the proposed ring of fire. The worm succeeds on its Constitution save and takes half damage; no numerical damage total is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1691",
+                  "endUid": "u1698"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Hovers, takes Steady Aim, and hits with another Skaer arrow for 30 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1702",
+                  "endUid": "u1712"
+                }
+              ]
+            },
+            {
+              "actor": "Iceworm",
+              "kind": "legendary_action",
+              "summary": "Dives through the trench and lunges about 40 feet upward, attempting to swallow Wellby, Kenzo, and Riswynn in a 10-foot-radius area. Wellby succeeds on a Dexterity save of 25. Kenzo’s initial 16 becomes a successful 20 with inspiration. Riswynn’s 17 fails and she is swallowed.",
+              "evidence": [
+                {
+                  "startUid": "u1713",
+                  "endUid": "u1758"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "event",
+              "summary": "Receives inspiration during the swallow attempt, raising his Dexterity saving throw to 20 and escaping being swallowed.",
+              "evidence": [
+                {
+                  "startUid": "u1734",
+                  "endUid": "u1757"
+                }
+              ],
+              "note": "The exchange does not explicitly name the inspiration’s giver."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Makes three sword attacks: the first hits for 24 damage including Mark of the Hunter, the second misses, and the third hits for 17 damage plus 20 from Blinding Smite. The worm is not affected by blindness because it has no eyes.",
+              "evidence": [
+                {
+                  "startUid": "u1759",
+                  "endUid": "u1778"
+                }
+              ]
+            },
+            {
+              "actor": "Iceworm",
+              "kind": "turn",
+              "summary": "Lashes Kenzo for 10 acid damage (correcting 8), grappling him; misses Delwath; then shifts position and strikes Seeker for 19 acid damage, grappling him as well.",
+              "evidence": [
+                {
+                  "startUid": "u1780",
+                  "endUid": "u1798"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks the tongues five times without first-round advantage. His first attack hits the tongue holding him for 9 damage plus an unspoken Constitution Aura Strike roll; the worm succeeds on its Constitution save and retains its grip. A second hit for 13 frees him. He then punches Seeker’s tongue: the first hits, the second rolls 13 and does not release it, and the third hits on 26 for garbled damage, forcing it to release Seeker.",
+              "evidence": [
+                {
+                  "startUid": "u1804",
+                  "endUid": "u1829"
+                }
+              ],
+              "note": "The second punch’s miss is inferred from the unresolved 13 and subsequent third hit; no damage is spoken for that attack."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Rune of Psychic Disruption at fifth level. The worm again fails its Intelligence save, spends its second legendary resistance to avoid incapacitation, and takes another 28 psychic damage. Each such resistance reduces its speed by 10 feet, now leaving 40 feet. Seeker shifts to the other side of the water.",
+              "evidence": [
+                {
+                  "startUid": "u1830",
+                  "endUid": "u1847"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "event",
+              "summary": "After confirmation that one elk is out, moves to help the other. The source does not separately narrate completion of this second pull.",
+              "evidence": [
+                {
+                  "startUid": "u1838",
+                  "endUid": "u1847"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Begins swallowed, blinded, and restrained, taking 33 acid damage. Casts a small ring of Wall of Fire inside the worm, accepting a five-foot diameter around herself. The DM rules that it automatically fails the Dexterity save and takes 19 fire damage. Riswynn reports 30 hit points remaining.",
+              "evidence": [
+                {
+                  "startUid": "u1840",
+                  "endUid": "u1876"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Takes Steady Aim and hits with another Skaer arrow for 41 damage, correcting the initial 40. The worm survives the hit.",
+              "evidence": [
+                {
+                  "startUid": "u1877",
+                  "endUid": "u1885"
+                }
+              ]
+            },
+            {
+              "actor": "Iceworm",
+              "kind": "event",
+              "summary": "Projectile-vomits Riswynn, acid, and fire after Wellby’s hit. Kenzo and Wellby must make Dexterity saves; Wellby fails and takes half of 47 damage (23 bludgeoning plus 24 acid) through Evasion, while Uncanny Dodge is rejected. Riswynn takes the stated 24 bludgeoning damage. The initial prone/water landing is corrected: Fly leaves her hovering just above the water.",
+              "evidence": [
+                {
+                  "startUid": "u1881",
+                  "endUid": "u1906"
+                }
+              ],
+              "note": "The source does not explicitly label this vomiting as a legendary action or state Kenzo’s saving-throw outcome."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "As the worm looks ready to flee, hits it with his first sword attack for 22 damage, killing it. Its body collapses across the trench, leaking acid.",
+              "evidence": [
+                {
+                  "startUid": "u1907",
+                  "endUid": "u1916"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Delwath kills the iceworm before it can flee. Riswynn is out of its stomach and hovering above the river; the two elk survive, with their later emergence from the water narrated after initiative ends.",
+        "evidence": [
+          {
+            "startUid": "u1904",
+            "endUid": "u1916"
+          }
+        ]
+      }
+    }
+  ]
+}
