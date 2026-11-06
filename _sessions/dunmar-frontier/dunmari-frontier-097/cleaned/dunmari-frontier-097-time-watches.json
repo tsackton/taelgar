@@ -1,0 +1,183 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-097/cleaned/dunmari-frontier-097-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-097/cleaned/dunmari-frontier-097-time-markers.json",
+    "sha256": "db0e55f84735ad89f75e1ece2cf6f4d3f48baff072d04614ef613f965b60593d"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-097/cleaned/dunmari-frontier-097-transcript.md",
+    "sha256": "458b71edd5df6df42247804984c6cbb21b8fe8ee2161fa9af64ef3b2bbf18545"
+  },
+  "dateAssessment": "Working dates follow the compatible YAML calendar, independently supported by the spoken May 4 correction (u3468–u3471) and resolved May 5 morning teleport (u3616–u3627, u3955–u3963); year 1749 comes from YAML. The preceding sunset camp and completed overnight place the castle escape on May 3. The time extraction matches both calendar boundaries. DF096 is an intervening narrative session: no direct DF095-to-DF097 handoff or invented interval is used. The May 1 Chardon attack, crew adventures, travel estimates and end-of-May deadline are reports or forecasts. Dream-world sunlight supplies no adventure watch.",
+  "watches": [
+    {
+      "day": "May 3, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "inferred",
+      "summary": "Brief confusion, five-minute looting and packing immediately precede the midafternoon descent.",
+      "markers": [
+        "t01",
+        "t02",
+        "t03",
+        "t04"
+      ],
+      "startDate": "1749-05-03",
+      "endDate": "1749-05-03"
+    },
+    {
+      "day": "May 3, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "stated",
+      "summary": "Four-hour descent ends at sunset, about 7 p.m.; the party establishes safe camp.",
+      "markers": [
+        "t05"
+      ],
+      "startDate": "1749-05-03",
+      "endDate": "1749-05-03"
+    },
+    {
+      "day": "May 3–4, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Sleep follows sunset camp; conventional eight-hour rest reaches roughly dawn, with exact bed and waking times open.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1749-05-03",
+      "endDate": "1749-05-04",
+      "scope": "Companions at the mountain camp"
+    },
+    {
+      "day": "May 4, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "Delwath finishes his own rest/trance and casts Dream at about 2 a.m.",
+      "markers": [
+        "t07"
+      ],
+      "startDate": "1749-05-04",
+      "endDate": "1749-05-04",
+      "scope": "Delwath"
+    },
+    {
+      "day": "May 4, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "After waiting a couple of hours, Delwath reaches Lyra at about 5 a.m. here.",
+      "markers": [
+        "t08"
+      ],
+      "startDate": "1749-05-04",
+      "endDate": "1749-05-04",
+      "scope": "Delwath’s local adventure clock"
+    },
+    {
+      "day": "May 4, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Kenzo’s recurring tomb dream happens meanwhile, during Delwath’s contact.",
+      "markers": [
+        "t09"
+      ],
+      "startDate": "1749-05-04",
+      "endDate": "1749-05-04",
+      "scope": "Kenzo’s dream; concurrent adventure-time anchor"
+    },
+    {
+      "day": "May 4, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "The party has Teleport restored and returns to the manor gates in the morning.",
+      "markers": [
+        "t10"
+      ],
+      "startDate": "1749-05-04",
+      "endDate": "1749-05-04"
+    },
+    {
+      "day": "May 4, 1749",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "The gate wait passes through several hours and lunchtime.",
+      "markers": [
+        "t11"
+      ],
+      "startDate": "1749-05-04",
+      "endDate": "1749-05-04"
+    },
+    {
+      "day": "May 4, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "mixed",
+      "summary": "The scribe returns with jade by midafternoon; play resumes there when Kenzo’s vision ends.",
+      "markers": [
+        "t12",
+        "t15"
+      ],
+      "startDate": "1749-05-04",
+      "endDate": "1749-05-04"
+    },
+    {
+      "day": "Jade vision",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Touching the jade opens a vision whose time splinters into past, present and future.",
+      "markers": [
+        "t13",
+        "t14"
+      ],
+      "clock": "local",
+      "scope": "Kenzo’s jade vision"
+    },
+    {
+      "day": "May 4, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "The party moves a little way off and is settled into camp by evening.",
+      "markers": [
+        "t16"
+      ],
+      "startDate": "1749-05-04",
+      "endDate": "1749-05-04"
+    },
+    {
+      "day": "During May 4–5, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Follower dream conversations are concurrent after evening camp; exact casting times remain open.",
+      "markers": [
+        "t17"
+      ],
+      "dateWindow": [
+        "1749-05-04",
+        "1749-05-05"
+      ],
+      "scope": "Concurrent follower contacts"
+    },
+    {
+      "day": "May 5, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Following overnight recovery, Seeker teleports the party on target to the canal coast on May 5 morning.",
+      "markers": [
+        "t18"
+      ],
+      "startDate": "1749-05-05",
+      "endDate": "1749-05-05"
+    }
+  ]
+}
