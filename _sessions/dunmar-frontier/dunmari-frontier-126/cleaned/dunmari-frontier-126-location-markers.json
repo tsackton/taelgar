@@ -1,0 +1,1146 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-126",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-126/cleaned/dunmari-frontier-126-session.yaml",
+    "sessionYamlSha256": "33658c4c6d21f65f65e60ba7b389ea7b837dff4cbbd79e476aa6d972864c3bcd",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-126/cleaned/dunmari-frontier-126-transcript.md",
+    "transcriptSha256": "0aa7fcd142e96cfeeddebdb0e6b66cfc0c5c7c05316658dce8b39b5be697d80d"
+  },
+  "places": {
+    "p01": {
+      "label": "Chardon",
+      "evidence": [
+        {
+          "startUid": "u0162",
+          "endUid": "u0167",
+          "quote": "DM: Okay, so let's pick up at breakfast. With maybe some discussion about what's next. I don't want to like, force you to talk for too long, but the idea of giving you different information was so that you could have a little bit of in character role playing at the beginning. And then, if there's anything you want to do like you haven't, you haven't gotten the information about the appointment yet. So if there's other goals and desires you have in the city, this is your chance to sort of be free agents. Now that you've you know, Kenzo, and Delwath have their like papers: \"We're not criminals.\" So, although when you come into the city, you get, you know. Passing through customs, you're not unnoted, like, those are some of the few people who are be like, \"Oh, yeah, we recognize you.\" But your papers are valid, and they're like, yes, yeah, okay, go. And so rumors are now spreading in the city that you've been pardoned."
+        }
+      ],
+      "kind": "city",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Chardon.md"
+    },
+    "p02": {
+      "label": "Barking Seal",
+      "evidence": [
+        {
+          "startUid": "u0011",
+          "endUid": "u0018",
+          "quote": "DM: And we resume at breakfast at the quiet sailor's tavern, the Barking Seal, where Wellby has arranged a private room for you to meet and discuss your next steps. Seeker Three, no longer a seagull, comes in huffing and puffing and apologizes, and, \"I wish I could stay and be part of this conversation, but Seeker Prime—There's a very important errand. There's a a book with some detailed research about the melting point of various kinds of stone that Faldrak and Seeker need for some tests they are apparently running. I didn't quite hear the details. Something about volcanoes."
+        }
+      ],
+      "kind": "tavern",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/The Barking Seal.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0162",
+              "endUid": "u0183",
+              "quote": "Private room at the Barking Seal over breakfast Seeker having just taken his—Seeker Three having just taken his leave to go get some books for the possibly dangerous things that Seeker and Faldrak are cooking up, left to their own devices."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Private room at the Barking Seal",
+      "evidence": [
+        {
+          "startUid": "u0177",
+          "endUid": "u0179",
+          "quote": "DM: Private room at the Barking Seal over breakfast Seeker having just taken his—Seeker Three having just taken his leave to go get some books for the possibly dangerous things that Seeker and Faldrak are cooking up, left to their own devices."
+        },
+        {
+          "startUid": "u0180",
+          "endUid": "u0180",
+          "quote": "Kenzo: Are we with Tiberius right now, or is it just the 4? The 3 of us?"
+        },
+        {
+          "startUid": "u0181",
+          "endUid": "u0183",
+          "quote": "DM: No, it's just the 3 of you. You're in a private room like nobody else around. Waitress comes in and drops off a plate loaded with breakfast eggs and fried smelts and fresh bread."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0177",
+              "endUid": "u0179",
+              "quote": "DM: Private room at the Barking Seal over breakfast Seeker having just taken his—Seeker Three having just taken his leave to go get some books for the possibly dangerous things that Seeker and Faldrak are cooking up, left to their own devices."
+            },
+            {
+              "startUid": "u0180",
+              "endUid": "u0180",
+              "quote": "Kenzo: Are we with Tiberius right now, or is it just the 4? The 3 of us?"
+            },
+            {
+              "startUid": "u0181",
+              "endUid": "u0183",
+              "quote": "DM: No, it's just the 3 of you. You're in a private room like nobody else around. Waitress comes in and drops off a plate loaded with breakfast eggs and fried smelts and fresh bread."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Auratan's Pride",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0010",
+          "quote": "DM: Okay, no worries. So okay, so we begin as the party reunites after Kenzo and Delwath have spent the night on Tiberius's ship, the Auratan's Pride. Auratan is the family name of the Magistros, so this is one of his like naval flagships, and spend some time talking to Tiberius about chalyte politics, where Wellby has spent the night at the Smiling Crab, a halfling inn nestled along the north edge of the docks near the Chardon Bridge."
+        }
+      ],
+      "kind": "vessel",
+      "mobile": true,
+      "vaultPath": "Things/Ships/Auratan's Pride.md"
+    },
+    "p05": {
+      "label": "Smiling Crab",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0010",
+          "quote": "DM: Okay, no worries. So okay, so we begin as the party reunites after Kenzo and Delwath have spent the night on Tiberius's ship, the Auratan's Pride. Auratan is the family name of the Magistros, so this is one of his like naval flagships, and spend some time talking to Tiberius about chalyte politics, where Wellby has spent the night at the Smiling Crab, a halfling inn nestled along the north edge of the docks near the Chardon Bridge."
+        }
+      ],
+      "kind": "inn",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/The Smiling Crab.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0005",
+              "endUid": "u0010",
+              "quote": "DM: Okay, no worries. So okay, so we begin as the party reunites after Kenzo and Delwath have spent the night on Tiberius's ship, the Auratan's Pride. Auratan is the family name of the Magistros, so this is one of his like naval flagships, and spend some time talking to Tiberius about chalyte politics, where Wellby has spent the night at the Smiling Crab, a halfling inn nestled along the north edge of the docks near the Chardon Bridge."
+            }
+          ]
+        }
+      ],
+      "note": "The later “Halfling Tavern” lodging is inferred to be this inn; the group selects no alternative."
+    },
+    "p06": {
+      "label": "Tronia’s house",
+      "evidence": [
+        {
+          "startUid": "u0765",
+          "endUid": "u0774",
+          "quote": "DM: And your scry opens up. You see a woman dressed in dirty robes sitting in the attic of a house, rocking back and forth. She seems to be singing under her breath. You recognize the words as dwarven. I don't think. Oh, Delwath speaks all languages. It's actually like a prayer that you've heard Riswynn say before. Muttered under her breath, as she sort of rocks back and forth. And then, every now and then, she's like, \"Make it not real. Make it not real.\" In the attic of a house—"
+        },
+        {
+          "startUid": "u0775",
+          "endUid": "u0779",
+          "quote": "DM: You can see from the angle of the sun coming in that—and the shadows—This is probably somewhere in the south of the city. I don't know if that's realistic that you would be able to tell that, but let's just say it is. It's a it seems like a reasonably nice house."
+        },
+        {
+          "startUid": "u0780",
+          "endUid": "u0787",
+          "quote": "DM: You sit and listen for a little while, and you know you can catch a little bit of street noise seems to be close to a small market where you can hear like echoes of what's maybe a you know, mostly people selling fruit and vegetables. Actually every now and then you hear like exotic pineapples fresh from the south. And then just rocking back and forth, muttering some dwarven prayer under her breath. And seems like she hasn't eaten in days. She is not a dwarf. She is a human."
+        }
+      ],
+      "kind": "house",
+      "note": "Scrying suggests the south of Chardon near a small produce market; no address or named building is established.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0775",
+              "endUid": "u0779",
+              "quote": "DM: You can see from the angle of the sun coming in that—and the shadows—This is probably somewhere in the south of the city. I don't know if that's realistic that you would be able to tell that, but let's just say it is. It's a it seems like a reasonably nice house."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Attic where Tronia is praying",
+      "evidence": [
+        {
+          "startUid": "u0765",
+          "endUid": "u0774",
+          "quote": "DM: And your scry opens up. You see a woman dressed in dirty robes sitting in the attic of a house, rocking back and forth. She seems to be singing under her breath. You recognize the words as dwarven. I don't think. Oh, Delwath speaks all languages. It's actually like a prayer that you've heard Riswynn say before. Muttered under her breath, as she sort of rocks back and forth. And then, every now and then, she's like, \"Make it not real. Make it not real.\" In the attic of a house—"
+        }
+      ],
+      "kind": "attic",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u0765",
+              "endUid": "u0774",
+              "quote": "DM: And your scry opens up. You see a woman dressed in dirty robes sitting in the attic of a house, rocking back and forth. She seems to be singing under her breath. You recognize the words as dwarven. I don't think. Oh, Delwath speaks all languages. It's actually like a prayer that you've heard Riswynn say before. Muttered under her breath, as she sort of rocks back and forth. And then, every now and then, she's like, \"Make it not real. Make it not real.\" In the attic of a house—"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Nera Domains",
+      "evidence": [
+        {
+          "startUid": "u0825",
+          "endUid": "u0834",
+          "quote": "DM: He is. He is sitting in the in the kitchen or some at a table, anyway. With food spread out and a glass of what looks like diluted wine next to them of a quite a nice house. You can see actually through the window that there are. There's an extensive garden outside. There's trees. You can see the like side of the shadow of Mount Nera right out the window. So this must be somewhere in the Nera Domains on the north bank, like the estate that are sort of outside of the city proper, and he's just he's just sort of sitting there. There's like a sheet of paper in front of him, and like he's. He's sitting with a quill and sort of not moving, and there's a sort of middle-aged woman, maybe a servant. It's hard to tell. She's sort of prodding him. Gaspar, you you must eat something. Keep your strength, and she's sort of like lifting up what seems like a bowl of something like oatmeal, or some kind of porridge like that feeding him. Please eat something, and he sort of slowly eats."
+        }
+      ],
+      "kind": "estate district",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Nera Domains.md",
+      "note": "The transcript places these estates outside the city proper on the north bank; no city-wall containment is asserted.",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0825",
+              "endUid": "u0834",
+              "quote": "DM: He is. He is sitting in the in the kitchen or some at a table, anyway. With food spread out and a glass of what looks like diluted wine next to them of a quite a nice house. You can see actually through the window that there are. There's an extensive garden outside. There's trees. You can see the like side of the shadow of Mount Nera right out the window. So this must be somewhere in the Nera Domains on the north bank, like the estate that are sort of outside of the city proper, and he's just he's just sort of sitting there. There's like a sheet of paper in front of him, and like he's. He's sitting with a quill and sort of not moving, and there's a sort of middle-aged woman, maybe a servant. It's hard to tell. She's sort of prodding him. Gaspar, you you must eat something. Keep your strength, and she's sort of like lifting up what seems like a bowl of something like oatmeal, or some kind of porridge like that feeding him. Please eat something, and he sort of slowly eats."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Gaspar’s estate",
+      "evidence": [
+        {
+          "startUid": "u0825",
+          "endUid": "u0834",
+          "quote": "DM: He is. He is sitting in the in the kitchen or some at a table, anyway. With food spread out and a glass of what looks like diluted wine next to them of a quite a nice house. You can see actually through the window that there are. There's an extensive garden outside. There's trees. You can see the like side of the shadow of Mount Nera right out the window. So this must be somewhere in the Nera Domains on the north bank, like the estate that are sort of outside of the city proper, and he's just he's just sort of sitting there. There's like a sheet of paper in front of him, and like he's. He's sitting with a quill and sort of not moving, and there's a sort of middle-aged woman, maybe a servant. It's hard to tell. She's sort of prodding him. Gaspar, you you must eat something. Keep your strength, and she's sort of like lifting up what seems like a bowl of something like oatmeal, or some kind of porridge like that feeding him. Please eat something, and he sort of slowly eats."
+        }
+      ],
+      "kind": "estate",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p08",
+          "evidence": [
+            {
+              "startUid": "u0825",
+              "endUid": "u0834",
+              "quote": "DM: He is. He is sitting in the in the kitchen or some at a table, anyway. With food spread out and a glass of what looks like diluted wine next to them of a quite a nice house. You can see actually through the window that there are. There's an extensive garden outside. There's trees. You can see the like side of the shadow of Mount Nera right out the window. So this must be somewhere in the Nera Domains on the north bank, like the estate that are sort of outside of the city proper, and he's just he's just sort of sitting there. There's like a sheet of paper in front of him, and like he's. He's sitting with a quill and sort of not moving, and there's a sort of middle-aged woman, maybe a servant. It's hard to tell. She's sort of prodding him. Gaspar, you you must eat something. Keep your strength, and she's sort of like lifting up what seems like a bowl of something like oatmeal, or some kind of porridge like that feeding him. Please eat something, and he sort of slowly eats."
+            }
+          ]
+        },
+        {
+          "relation": "on_slopes_of",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u0939",
+              "endUid": "u0940",
+              "quote": "DM: How to get information—show up at his at his estate. So this is. This is on the slopes of Mount Nera, so you can see the like, the bulk of the spur of the obsidian volcano rising to the west."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Table room seen in Gaspar’s estate",
+      "evidence": [
+        {
+          "startUid": "u0825",
+          "endUid": "u0834",
+          "quote": "DM: He is. He is sitting in the in the kitchen or some at a table, anyway. With food spread out and a glass of what looks like diluted wine next to them of a quite a nice house. You can see actually through the window that there are. There's an extensive garden outside. There's trees. You can see the like side of the shadow of Mount Nera right out the window. So this must be somewhere in the Nera Domains on the north bank, like the estate that are sort of outside of the city proper, and he's just he's just sort of sitting there. There's like a sheet of paper in front of him, and like he's. He's sitting with a quill and sort of not moving, and there's a sort of middle-aged woman, maybe a servant. It's hard to tell. She's sort of prodding him. Gaspar, you you must eat something. Keep your strength, and she's sort of like lifting up what seems like a bowl of something like oatmeal, or some kind of porridge like that feeding him. Please eat something, and he sort of slowly eats."
+        },
+        {
+          "startUid": "u0835",
+          "endUid": "u0842",
+          "quote": "DM: And then kind of looks blankly off and and and picks up his quill and goes to start to write. And it's just it's just gibberish like the words don't make any sense, and he like grabs the paper and angrily tosses it off. And kind of shakes his head and kind of mutters under his voice, and then barks out, \"More.\" And the woman goes off and brings him back another piece of paper and refills his inkwell. And then he just closes his eyes for a minute and seems to drift off."
+        }
+      ],
+      "kind": "room",
+      "note": "The DM says kitchen or a table; the room’s exact function remains open.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u0825",
+              "endUid": "u0834",
+              "quote": "DM: He is. He is sitting in the in the kitchen or some at a table, anyway. With food spread out and a glass of what looks like diluted wine next to them of a quite a nice house. You can see actually through the window that there are. There's an extensive garden outside. There's trees. You can see the like side of the shadow of Mount Nera right out the window. So this must be somewhere in the Nera Domains on the north bank, like the estate that are sort of outside of the city proper, and he's just he's just sort of sitting there. There's like a sheet of paper in front of him, and like he's. He's sitting with a quill and sort of not moving, and there's a sort of middle-aged woman, maybe a servant. It's hard to tell. She's sort of prodding him. Gaspar, you you must eat something. Keep your strength, and she's sort of like lifting up what seems like a bowl of something like oatmeal, or some kind of porridge like that feeding him. Please eat something, and he sort of slowly eats."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Gaspar’s sitting room",
+      "evidence": [
+        {
+          "startUid": "u0971",
+          "endUid": "u0975",
+          "quote": "DM: Yeah. Well, a straight 16, 5 plus the 11 is 16. Okay? So 16 with persuasion, he's—yeah, I mean, he's he's convinced he's you know, not not—he doesn't seem to be particular like you know. If it if you make noise like you might be able to help. He's seems kind of a bit at wit's end, actually. And so \"Yes, yes,\" he leads you into the sitting room."
+        },
+        {
+          "startUid": "u0976",
+          "endUid": "u0984",
+          "quote": "DM: And you can see that this is a few hours later. So it's it's now, maybe 11, 11:30. Gaspar, the sort of old guy, he's—he looks. He looks in person. He looks frail. Sort of white hair kind of in a ring around his head, balding on top, but he's he's sitting on a on a comfortable chair. But his hand is shaking a little bit, and he's kind of—he's kind of staring off into space slightly, and sitting in a in a dressing robe. Not not, you know, dressed for the day or anything, but just basically in robes. And the woman, the middle aged woman you saw before, who seems clear like a servant kind of gets out of the way as as the butler leads you in. The butler stands sort of unobtrusively at the entranceway as the 2 of you approach."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u0971",
+              "endUid": "u0975",
+              "quote": "DM: Yeah. Well, a straight 16, 5 plus the 11 is 16. Okay? So 16 with persuasion, he's—yeah, I mean, he's he's convinced he's you know, not not—he doesn't seem to be particular like you know. If it if you make noise like you might be able to help. He's seems kind of a bit at wit's end, actually. And so \"Yes, yes,\" he leads you into the sitting room."
+            },
+            {
+              "startUid": "u0976",
+              "endUid": "u0984",
+              "quote": "DM: And you can see that this is a few hours later. So it's it's now, maybe 11, 11:30. Gaspar, the sort of old guy, he's—he looks. He looks in person. He looks frail. Sort of white hair kind of in a ring around his head, balding on top, but he's he's sitting on a on a comfortable chair. But his hand is shaking a little bit, and he's kind of—he's kind of staring off into space slightly, and sitting in a in a dressing robe. Not not, you know, dressed for the day or anything, but just basically in robes. And the woman, the middle aged woman you saw before, who seems clear like a servant kind of gets out of the way as as the butler leads you in. The butler stands sort of unobtrusively at the entranceway as the 2 of you approach."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Chardon ports and taverns",
+      "evidence": [
+        {
+          "startUid": "u1188",
+          "endUid": "u1194",
+          "quote": "DM: Yeah. So I'm gonna I'm gonna say so. So while he's probably you're probably not just like going to talk to one person, right? You're like drifting through the—And sort of you know you're quite familiar with working ports, right? Just kind of checking in with people and you know, popping into taverns, occasionally talking to halflings, but also some humans, just generally taking a few hours the after—most of the afternoon to kinda gather rumors. So I'll say, make—oh, wait! You're proficient invest—Never mind, don't bother rolling. What's your minimum investigation roll?"
+        },
+        {
+          "startUid": "u1195",
+          "endUid": "u1195",
+          "quote": "Wellby: 22."
+        },
+        {
+          "startUid": "u1196",
+          "endUid": "u1196",
+          "quote": "DM: Okay, so yeah, don't. But well, roll, just because if you roll really high, maybe you'll get some especially good information."
+        },
+        {
+          "startUid": "u1197",
+          "endUid": "u1197",
+          "quote": "Wellby: No, it's just a 22."
+        },
+        {
+          "startUid": "u1198",
+          "endUid": "u1209",
+          "quote": "DM: Okay, yeah. So it it takes you a good part of the afternoon. But you manage to sort of talk to just a diverse cross section of the Chardon ports, and you know there's there's a sort of few things that stand out to you. So 1st of all. You know, there's not only navy guys and and women in town, right like several ships, have come in recently. A lot of the navy was in the Nevos Sea dealing with the Darba situation. But some carriers have come back so, and the Navy basically universally loves the Magistros. He's like the hero of the people. He's the defender of freedom. He's the, you know keeps us safe. He's the hero of Chardon, he's, you know. And and this does not seem to be just like a put on vibe, right? This is like. You know, he genuinely has a very strong base of support in the navy. And he he. Actually, you learn this talking to them like there's lots of stories of him sailing on navy ships like, even from a young age, right? So when he was like 14, he was sailing as a midshipman on naval ships into war and performing feats of derring-do. And you know, like there's—"
+        }
+      ],
+      "kind": "port district",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1198",
+              "endUid": "u1209",
+              "quote": "But you manage to sort of talk to just a diverse cross section of the Chardon ports"
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Slums where Kenzo asks Andros and Orsino",
+      "evidence": [
+        {
+          "startUid": "u1340",
+          "endUid": "u1346",
+          "quote": "DM: The—You know that you know. Kenzo swings back past his on your way back from the from the Nera estates. You're already on that side of the well. You have to cross over and then cross back, but you take a little. You take a you know, a rowboat, a few stops to go check in. And, you know ask around a bit in the slums, ask Andros and and Orsino what what they think. I mean. In a lot of ways. Nobody really cared that much like no family really stood out as being different than the rest except that the—"
+        }
+      ],
+      "kind": "neighborhood",
+      "note": "The source establishes a detour by rowboat to worker contacts, but does not settle a specific precinct or whether this stop is inside the walls.",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1340",
+              "endUid": "u1346",
+              "quote": "DM: The—You know that you know. Kenzo swings back past his on your way back from the from the Nera estates. You're already on that side of the well. You have to cross over and then cross back, but you take a little. You take a you know, a rowboat, a few stops to go check in. And, you know ask around a bit in the slums, ask Andros and and Orsino what what they think. I mean. In a lot of ways. Nobody really cared that much like no family really stood out as being different than the rest except that the—"
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Imperial Palace",
+      "evidence": [
+        {
+          "startUid": "u1426",
+          "endUid": "u1432",
+          "quote": "DM: Okay. So the next morning you present yourselves at the gates to the Imperial Palace. And you are escorted through a ornate quite ornate, you know. Think like sort of Renaissance Italy, like paintings on the ceilings, big domed, stained glass windows. Series of halls to an antechamber, guarded with by 4 guards, one of whom stops you as you approach, and apologizes and says: \"The Magistros will see you, but I must insist that you leave all weapons, arcane or other spell, foci and dangerous implements here. I promise they will be guarded.\""
+        }
+      ],
+      "kind": "palace",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Imperial Palace.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0433",
+              "endUid": "u0434",
+              "quote": "with a date and a time that you're supposed to present yourself to the Imperial Palace."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Guarded antechamber",
+      "evidence": [
+        {
+          "startUid": "u1426",
+          "endUid": "u1432",
+          "quote": "DM: Okay. So the next morning you present yourselves at the gates to the Imperial Palace. And you are escorted through a ornate quite ornate, you know. Think like sort of Renaissance Italy, like paintings on the ceilings, big domed, stained glass windows. Series of halls to an antechamber, guarded with by 4 guards, one of whom stops you as you approach, and apologizes and says: \"The Magistros will see you, but I must insist that you leave all weapons, arcane or other spell, foci and dangerous implements here. I promise they will be guarded.\""
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p14",
+          "evidence": [
+            {
+              "startUid": "u1426",
+              "endUid": "u1432",
+              "quote": "DM: Okay. So the next morning you present yourselves at the gates to the Imperial Palace. And you are escorted through a ornate quite ornate, you know. Think like sort of Renaissance Italy, like paintings on the ceilings, big domed, stained glass windows. Series of halls to an antechamber, guarded with by 4 guards, one of whom stops you as you approach, and apologizes and says: \"The Magistros will see you, but I must insist that you leave all weapons, arcane or other spell, foci and dangerous implements here. I promise they will be guarded.\""
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Magistros’ private audience chamber",
+      "evidence": [
+        {
+          "startUid": "u1454",
+          "endUid": "u1464",
+          "quote": "DM: So you step into what looks like the Magistros' private audience chamber. It's relatively simple compared to the rest of you know, the rooms, the corridors you've been traveling through. It's a small circular room, maybe 30—20, 20 feet across, 20 feet in diameter. The Magistros is sitting not in an ornate throne, or anything like that, but in a in a raised chair and which is just like a few levels up on a dais above a table in front and he stands as you approach. He's he's a young—he's young, I mean. He's definitely handsome. He's, you know, 24, fit, like, clearly, you can see the sailor's physique. He's got sort of, you know, permanently sort of deeply tan skin from his years on the—"
+        },
+        {
+          "startUid": "u1465",
+          "endUid": "u1465",
+          "quote": "Delwath: Hold on, guys! I'll be right back. Sorry."
+        },
+        {
+          "startUid": "u1466",
+          "endUid": "u1466",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u1467",
+          "endUid": "u1467",
+          "quote": "Delwath: Sorry. I just need to step away for once."
+        },
+        {
+          "startUid": "u1468",
+          "endUid": "u1474",
+          "quote": "DM: You know, sort of short, short hair, sort of a you know, dark brown trending to black a little bit. Piercing hazel green eyes. Wearing relatively—I mean, clearly, perfectly tailored and you know, with fine details like gold thread along the collar and things. But this isn't like a billowy, billowing, ornate robes. He doesn't have some big headpiece on, or anything. It's just a very neat and very fancy and very perfectly tailored sort of what would be the sort of modern equivalent of like a perfectly tailored nice suit. But we're not talking about like a tux, or, you know tails or anything like that."
+        },
+        {
+          "startUid": "u1475",
+          "endUid": "u1478",
+          "quote": "DM: There's nobody else in the room. There are windows along one wall through which light is streaming in and he sort of stands and gestures for you to sit and gives a short bow. But I'm gonna hope Mike's gonna be back in a sec, because I think we should wait for him."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p14",
+          "evidence": [
+            {
+              "startUid": "u1426",
+              "endUid": "u1464",
+              "quote": "So you step into what looks like the Magistros' private audience chamber."
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Mount Nera",
+      "evidence": [
+        {
+          "startUid": "u0939",
+          "endUid": "u0940",
+          "quote": "DM: How to get information—show up at his at his estate. So this is. This is on the slopes of Mount Nera, so you can see the like, the bulk of the spur of the obsidian volcano rising to the west."
+        }
+      ],
+      "kind": "mountain",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Mount Nera.md"
+    },
+    "p18": {
+      "label": "Chataan Mountains",
+      "evidence": [
+        {
+          "startUid": "u1909",
+          "endUid": "u1919",
+          "quote": "DM: There was an expedition before my time, early in my aunt's rule as Magistros to the what the—you—what the Dunmari call the Chataan Mountains, near north of Darba, southern edge of the Empire. The much of the Yeraad River valley had fallen under the protection of our imperial borders and as we pushed into the mountains—many of the details are actually—well, perhaps, are recorded somewhere in the University. The Chardonian legions came face to face with a foe, a giant that seemed to wield chalyte magic against them and at the time did not seem worth the effort or the expense of trying to infiltrate or destroy this emperor of giants who seemed to control chalyte."
+        },
+        {
+          "startUid": "u1920",
+          "endUid": "u1920",
+          "quote": "DM: We have long suspected that there is chalyte in the Chataan Mountains."
+        },
+        {
+          "startUid": "u1921",
+          "endUid": "u1921",
+          "quote": "Kenzo: Well, Tim. Where's this?"
+        },
+        {
+          "startUid": "u1922",
+          "endUid": "u1922",
+          "quote": "DM: It's like the the mountain range that's just north of Darba. That sort of separates Chardon from Dunmar."
+        }
+      ],
+      "kind": "mountain range",
+      "vaultPath": "Gazetteer/Greater Chardon/Chataan Mountains.md"
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0005",
+        "endUid": "u0010"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath"
+      ],
+      "reading": "The opening recalls their preceding night aboard Tiberius’s flagship.",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0010",
+          "quote": "DM: Okay, no worries. So okay, so we begin as the party reunites after Kenzo and Delwath have spent the night on Tiberius's ship, the Auratan's Pride. Auratan is the family name of the Magistros, so this is one of his like naval flagships, and spend some time talking to Tiberius about chalyte politics, where Wellby has spent the night at the Smiling Crab, a halfling inn nestled along the north edge of the docks near the Chardon Bridge."
+        },
+        {
+          "startUid": "u0070",
+          "endUid": "u0071",
+          "quote": "DM: And then Wellby left at the end of last session to go stay in a Halfling tavern. But Kenzo and Delwath—"
+        },
+        {
+          "startUid": "u0072",
+          "endUid": "u0072",
+          "quote": "Kenzo: We stayed on the ship."
+        },
+        {
+          "startUid": "u0073",
+          "endUid": "u0073",
+          "quote": "DM: The ship, and so you then had time for a more extended conversation about chalyte."
+        }
+      ],
+      "place": "p04",
+      "context": "reported"
+    },
+    {
+      "id": "l02",
+      "type": "presence",
+      "source": {
+        "startUid": "u0005",
+        "endUid": "u0010"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "The opening recalls Wellby’s preceding night at the Smiling Crab.",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0010",
+          "quote": "DM: Okay, no worries. So okay, so we begin as the party reunites after Kenzo and Delwath have spent the night on Tiberius's ship, the Auratan's Pride. Auratan is the family name of the Magistros, so this is one of his like naval flagships, and spend some time talking to Tiberius about chalyte politics, where Wellby has spent the night at the Smiling Crab, a halfling inn nestled along the north edge of the docks near the Chardon Bridge."
+        }
+      ],
+      "place": "p05",
+      "context": "reported"
+    },
+    {
+      "id": "l03",
+      "type": "presence",
+      "source": {
+        "startUid": "u0011",
+        "endUid": "u0018"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "The three meet over breakfast in the Barking Seal’s private room; Seeker Three briefly visits and leaves.",
+      "evidence": [
+        {
+          "startUid": "u0011",
+          "endUid": "u0018",
+          "quote": "DM: And we resume at breakfast at the quiet sailor's tavern, the Barking Seal, where Wellby has arranged a private room for you to meet and discuss your next steps. Seeker Three, no longer a seagull, comes in huffing and puffing and apologizes, and, \"I wish I could stay and be part of this conversation, but Seeker Prime—There's a very important errand. There's a a book with some detailed research about the melting point of various kinds of stone that Faldrak and Seeker need for some tests they are apparently running. I didn't quite hear the details. Something about volcanoes."
+        },
+        {
+          "startUid": "u0019",
+          "endUid": "u0027",
+          "quote": "DM: Anyway. I'll be back at some point, but I need to deliver the book first. Oh, and and don't don't forget. Resistance to fire is very important. Make sure you find it. Seeker doesn't want you all to die. He's fine. He says he's fine. I'm ice. I'll just melt. But that's okay. He can make a new one of me. Yeah, the rest of you, though. He has a theory. But if it doesn't work that protection is going to be important anyway. Enjoy your breakfast.\""
+        },
+        {
+          "startUid": "u0028",
+          "endUid": "u0028",
+          "quote": "DM: Seeker Three leaves."
+        },
+        {
+          "startUid": "u0177",
+          "endUid": "u0179",
+          "quote": "DM: Private room at the Barking Seal over breakfast Seeker having just taken his—Seeker Three having just taken his leave to go get some books for the possibly dangerous things that Seeker and Faldrak are cooking up, left to their own devices."
+        },
+        {
+          "startUid": "u0180",
+          "endUid": "u0180",
+          "quote": "Kenzo: Are we with Tiberius right now, or is it just the 4? The 3 of us?"
+        },
+        {
+          "startUid": "u0181",
+          "endUid": "u0183",
+          "quote": "DM: No, it's just the 3 of you. You're in a private room like nobody else around. Waitress comes in and drops off a plate loaded with breakfast eggs and fried smelts and fresh bread."
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0765",
+        "endUid": "u0787"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scrying reveals Tronia praying in an attic of a house apparently south in Chardon near a market.",
+      "evidence": [
+        {
+          "startUid": "u0759",
+          "endUid": "u0764",
+          "quote": "DM: Try again with another one. I'm not going to make up the name. Oh, natural one on the roll. Okay, they fail. I'll say this one is Tronia. She was a sort of mid level member of the Chalyte Control Board who joined you know, some time ago, but was sort of a junior bureaucrat. Not one of the people who propagated rules, but who, you know helped enforce the help, you know, guide enforcement, and just do some general sort of bureaucratic tasks, and as your scry as your bowl, your silver bowl clears—"
+        },
+        {
+          "startUid": "u0765",
+          "endUid": "u0774",
+          "quote": "DM: And your scry opens up. You see a woman dressed in dirty robes sitting in the attic of a house, rocking back and forth. She seems to be singing under her breath. You recognize the words as dwarven. I don't think. Oh, Delwath speaks all languages. It's actually like a prayer that you've heard Riswynn say before. Muttered under her breath, as she sort of rocks back and forth. And then, every now and then, she's like, \"Make it not real. Make it not real.\" In the attic of a house—"
+        },
+        {
+          "startUid": "u0775",
+          "endUid": "u0779",
+          "quote": "DM: You can see from the angle of the sun coming in that—and the shadows—This is probably somewhere in the south of the city. I don't know if that's realistic that you would be able to tell that, but let's just say it is. It's a it seems like a reasonably nice house."
+        },
+        {
+          "startUid": "u0780",
+          "endUid": "u0787",
+          "quote": "DM: You sit and listen for a little while, and you know you can catch a little bit of street noise seems to be close to a small market where you can hear like echoes of what's maybe a you know, mostly people selling fruit and vegetables. Actually every now and then you hear like exotic pineapples fresh from the south. And then just rocking back and forth, muttering some dwarven prayer under her breath. And seems like she hasn't eaten in days. She is not a dwarf. She is a human."
+        }
+      ],
+      "place": "p07",
+      "mode": "remote",
+      "observerPlace": "p03",
+      "observedActors": [
+        "Tronia"
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0825",
+        "endUid": "u0842"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scrying reveals Gaspar being fed and trying to write at a table in his Nera Domains estate.",
+      "evidence": [
+        {
+          "startUid": "u0814",
+          "endUid": "u0824",
+          "quote": "DM: This one. You don't know if you're going to succeed. Right? Because [garbled]. That's a fail. Okay, so let's see. Let's pick a name for this guy. So the second most senior is Gaspar. He is an older man, probably in his early—late sixties, early seventies. Something like that. And from Kenzo's information he was—so—there's like one. There's basically a chair, and then everybody else is roughly equal. But he so you you missed on the chair. But he had been on the the Chalyte Control Board for longer than anybody else, including the chair. And from again from Kenzo's control, seemed to be, you know he had. He had studied at the University and the faculty of law, and you know, was the was the sort of regulations guy, more or less. And you see him."
+        },
+        {
+          "startUid": "u0825",
+          "endUid": "u0834",
+          "quote": "DM: He is. He is sitting in the in the kitchen or some at a table, anyway. With food spread out and a glass of what looks like diluted wine next to them of a quite a nice house. You can see actually through the window that there are. There's an extensive garden outside. There's trees. You can see the like side of the shadow of Mount Nera right out the window. So this must be somewhere in the Nera Domains on the north bank, like the estate that are sort of outside of the city proper, and he's just he's just sort of sitting there. There's like a sheet of paper in front of him, and like he's. He's sitting with a quill and sort of not moving, and there's a sort of middle-aged woman, maybe a servant. It's hard to tell. She's sort of prodding him. Gaspar, you you must eat something. Keep your strength, and she's sort of like lifting up what seems like a bowl of something like oatmeal, or some kind of porridge like that feeding him. Please eat something, and he sort of slowly eats."
+        },
+        {
+          "startUid": "u0835",
+          "endUid": "u0842",
+          "quote": "DM: And then kind of looks blankly off and and and picks up his quill and goes to start to write. And it's just it's just gibberish like the words don't make any sense, and he like grabs the paper and angrily tosses it off. And kind of shakes his head and kind of mutters under his voice, and then barks out, \"More.\" And the woman goes off and brings him back another piece of paper and refills his inkwell. And then he just closes his eyes for a minute and seems to drift off."
+        }
+      ],
+      "place": "p10",
+      "mode": "remote",
+      "observerPlace": "p03",
+      "observedActors": [
+        "Gaspar"
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0936",
+        "endUid": "u0947"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath"
+      ],
+      "reading": "After finding the address, the two reach Gaspar’s estate on Mount Nera’s slopes.",
+      "evidence": [
+        {
+          "startUid": "u0936",
+          "endUid": "u0937",
+          "quote": "DM: No, I mean, we just I mean, yeah. Let's just let's just skip this. It takes you takes you a couple hours to—"
+        },
+        {
+          "startUid": "u0938",
+          "endUid": "u0938",
+          "quote": "Delwath: Knock on his door."
+        },
+        {
+          "startUid": "u0939",
+          "endUid": "u0940",
+          "quote": "DM: How to get information—show up at his at his estate. So this is. This is on the slopes of Mount Nera, so you can see the like, the bulk of the spur of the obsidian volcano rising to the west."
+        },
+        {
+          "startUid": "u0947",
+          "endUid": "u0947",
+          "quote": "Delwath: It's true, so we'll knock on the door."
+        }
+      ],
+      "from": "p03",
+      "to": "p09",
+      "completion": "arrived",
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated couple of hours for finding and reaching the estate."
+      }
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u0971",
+        "endUid": "u0984"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath"
+      ],
+      "reading": "The butler admits the two into Gaspar’s sitting room.",
+      "evidence": [
+        {
+          "startUid": "u0971",
+          "endUid": "u0975",
+          "quote": "DM: Yeah. Well, a straight 16, 5 plus the 11 is 16. Okay? So 16 with persuasion, he's—yeah, I mean, he's he's convinced he's you know, not not—he doesn't seem to be particular like you know. If it if you make noise like you might be able to help. He's seems kind of a bit at wit's end, actually. And so \"Yes, yes,\" he leads you into the sitting room."
+        },
+        {
+          "startUid": "u0976",
+          "endUid": "u0984",
+          "quote": "DM: And you can see that this is a few hours later. So it's it's now, maybe 11, 11:30. Gaspar, the sort of old guy, he's—he looks. He looks in person. He looks frail. Sort of white hair kind of in a ring around his head, balding on top, but he's he's sitting on a on a comfortable chair. But his hand is shaking a little bit, and he's kind of—he's kind of staring off into space slightly, and sitting in a in a dressing robe. Not not, you know, dressed for the day or anything, but just basically in robes. And the woman, the middle aged woman you saw before, who seems clear like a servant kind of gets out of the way as as the butler leads you in. The butler stands sort of unobtrusively at the entranceway as the 2 of you approach."
+        }
+      ],
+      "from": "p09",
+      "to": "p11",
+      "completion": "arrived"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1188",
+        "endUid": "u1209"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby circulates through port taverns and working sailors to gather rumors.",
+      "evidence": [
+        {
+          "startUid": "u1188",
+          "endUid": "u1194",
+          "quote": "DM: Yeah. So I'm gonna I'm gonna say so. So while he's probably you're probably not just like going to talk to one person, right? You're like drifting through the—And sort of you know you're quite familiar with working ports, right? Just kind of checking in with people and you know, popping into taverns, occasionally talking to halflings, but also some humans, just generally taking a few hours the after—most of the afternoon to kinda gather rumors. So I'll say, make—oh, wait! You're proficient invest—Never mind, don't bother rolling. What's your minimum investigation roll?"
+        },
+        {
+          "startUid": "u1195",
+          "endUid": "u1195",
+          "quote": "Wellby: 22."
+        },
+        {
+          "startUid": "u1196",
+          "endUid": "u1196",
+          "quote": "DM: Okay, so yeah, don't. But well, roll, just because if you roll really high, maybe you'll get some especially good information."
+        },
+        {
+          "startUid": "u1197",
+          "endUid": "u1197",
+          "quote": "Wellby: No, it's just a 22."
+        },
+        {
+          "startUid": "u1198",
+          "endUid": "u1209",
+          "quote": "DM: Okay, yeah. So it it takes you a good part of the afternoon. But you manage to sort of talk to just a diverse cross section of the Chardon ports, and you know there's there's a sort of few things that stand out to you. So 1st of all. You know, there's not only navy guys and and women in town, right like several ships, have come in recently. A lot of the navy was in the Nevos Sea dealing with the Darba situation. But some carriers have come back so, and the Navy basically universally loves the Magistros. He's like the hero of the people. He's the defender of freedom. He's the, you know keeps us safe. He's the hero of Chardon, he's, you know. And and this does not seem to be just like a put on vibe, right? This is like. You know, he genuinely has a very strong base of support in the navy. And he he. Actually, you learn this talking to them like there's lots of stories of him sailing on navy ships like, even from a young age, right? So when he was like 14, he was sailing as a midshipman on naval ships into war and performing feats of derring-do. And you know, like there's—"
+        }
+      ],
+      "from": "p03",
+      "to": "p12",
+      "completion": "arrived",
+      "duration": {
+        "text": "a few hours",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "DM narrates the completed afternoon circuit."
+      }
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1298",
+        "endUid": "u1307"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "The party regroups in the Barking Seal’s private room for dinner, after the estate trip and worker detour.",
+      "evidence": [
+        {
+          "startUid": "u1298",
+          "endUid": "u1303",
+          "quote": "DM: Okay. So you get some leads on where to buy rings of fire resistance. Takes a few days to arrange, but should be possible to purchase price to be negotiated. But don't really have time to finish that negotiation now. As you return to the Barking Seal for dinner, and then sleep. Presumably. I guess all of you can crash at the Halfling Tavern, unless you want to go somewhere else."
+        },
+        {
+          "startUid": "u1304",
+          "endUid": "u1304",
+          "quote": "Delwath: No, that's fine, I mean, do we have a plan for the Magistros tomorrow, and—"
+        },
+        {
+          "startUid": "u1305",
+          "endUid": "u1305",
+          "quote": "DM: This is what what dinner is for. If you want to make a plan."
+        },
+        {
+          "startUid": "u1306",
+          "endUid": "u1306",
+          "quote": "Delwath: The other question would be—"
+        },
+        {
+          "startUid": "u1307",
+          "endUid": "u1307",
+          "quote": "DM: Got your private room back."
+        },
+        {
+          "startUid": "u1369",
+          "endUid": "u1370",
+          "quote": "DM: So after that stop, you regroup for dinner at the Barking Seal to make plans for your meeting with the Magistros tomorrow morning."
+        }
+      ],
+      "from": null,
+      "to": "p03",
+      "completion": "arrived"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1298",
+        "endUid": "u1304"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "They agree to sleep at the halfling inn after dinner; the next morning confirms they slept.",
+      "evidence": [
+        {
+          "startUid": "u1298",
+          "endUid": "u1303",
+          "quote": "DM: Okay. So you get some leads on where to buy rings of fire resistance. Takes a few days to arrange, but should be possible to purchase price to be negotiated. But don't really have time to finish that negotiation now. As you return to the Barking Seal for dinner, and then sleep. Presumably. I guess all of you can crash at the Halfling Tavern, unless you want to go somewhere else."
+        },
+        {
+          "startUid": "u1304",
+          "endUid": "u1304",
+          "quote": "Delwath: No, that's fine, I mean, do we have a plan for the Magistros tomorrow, and—"
+        },
+        {
+          "startUid": "u1435",
+          "endUid": "u1435",
+          "quote": "Delwath: We slept right?"
+        },
+        {
+          "startUid": "u1436",
+          "endUid": "u1436",
+          "quote": "DM: Yes, this is actually, yeah."
+        },
+        {
+          "startUid": "u1437",
+          "endUid": "u1437",
+          "quote": "Kenzo: Yeah."
+        }
+      ],
+      "from": "p03",
+      "to": "p05",
+      "completion": "arrived"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1340",
+        "endUid": "u1368"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Retrospectively, Kenzo detours from the Nera estates by rowboat to ask Andros and Orsino about the families before dinner.",
+      "evidence": [
+        {
+          "startUid": "u1331",
+          "endUid": "u1332",
+          "quote": "Delwath: Do the can we, before dinner ask amongst our proletariat contacts if there's a family that's better or worse, like, do they have—"
+        },
+        {
+          "startUid": "u1333",
+          "endUid": "u1333",
+          "quote": "Wellby: Oh, yeah. Yeah."
+        },
+        {
+          "startUid": "u1334",
+          "endUid": "u1336",
+          "quote": "Delwath: Preferences amongst these 4 oligarchs? Is there one who's like always the nastiest and like the most right? Or is it like they don't even care, or know the difference?"
+        },
+        {
+          "startUid": "u1337",
+          "endUid": "u1338",
+          "quote": "DM: Yeah. So I mean, so there's 4 families. There's the Auratan, which is the Magistros' family, but mostly his 3rd cousins, some second cousins who—actually is pretty much exclusively 3rd cousins. There's the Veldari that you just heard about. There's the Patelios, and there's the Caloren."
+        },
+        {
+          "startUid": "u1339",
+          "endUid": "u1339",
+          "quote": "Delwath: Right."
+        },
+        {
+          "startUid": "u1340",
+          "endUid": "u1346",
+          "quote": "DM: The—You know that you know. Kenzo swings back past his on your way back from the from the Nera estates. You're already on that side of the well. You have to cross over and then cross back, but you take a little. You take a you know, a rowboat, a few stops to go check in. And, you know ask around a bit in the slums, ask Andros and and Orsino what what they think. I mean. In a lot of ways. Nobody really cared that much like no family really stood out as being different than the rest except that the—"
+        },
+        {
+          "startUid": "u1369",
+          "endUid": "u1370",
+          "quote": "DM: So after that stop, you regroup for dinner at the Barking Seal to make plans for your meeting with the Magistros tomorrow morning."
+        }
+      ],
+      "context": "flashback",
+      "from": "p09",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "rowboat",
+      "route": [
+        {
+          "reading": "Crosses over and back during the return-side inquiries; exact landing points are not given."
+        }
+      ],
+      "note": "Only Kenzo is placed at these inquiries; Delwath’s return route is not resolved."
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u1426",
+        "endUid": "u1432"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "The next morning they present at the palace gates and are escorted through halls to the guarded antechamber.",
+      "evidence": [
+        {
+          "startUid": "u1426",
+          "endUid": "u1432",
+          "quote": "DM: Okay. So the next morning you present yourselves at the gates to the Imperial Palace. And you are escorted through a ornate quite ornate, you know. Think like sort of Renaissance Italy, like paintings on the ceilings, big domed, stained glass windows. Series of halls to an antechamber, guarded with by 4 guards, one of whom stops you as you approach, and apologizes and says: \"The Magistros will see you, but I must insist that you leave all weapons, arcane or other spell, foci and dangerous implements here. I promise they will be guarded.\""
+        }
+      ],
+      "from": "p05",
+      "to": "p15",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Enter at the Imperial Palace gates and pass through ornate halls.",
+          "place": "p14"
+        }
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1454",
+        "endUid": "u1478"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "They enter the Magistros’s private audience chamber, where he receives them alone.",
+      "evidence": [
+        {
+          "startUid": "u1454",
+          "endUid": "u1464",
+          "quote": "DM: So you step into what looks like the Magistros' private audience chamber. It's relatively simple compared to the rest of you know, the rooms, the corridors you've been traveling through. It's a small circular room, maybe 30—20, 20 feet across, 20 feet in diameter. The Magistros is sitting not in an ornate throne, or anything like that, but in a in a raised chair and which is just like a few levels up on a dais above a table in front and he stands as you approach. He's he's a young—he's young, I mean. He's definitely handsome. He's, you know, 24, fit, like, clearly, you can see the sailor's physique. He's got sort of, you know, permanently sort of deeply tan skin from his years on the—"
+        },
+        {
+          "startUid": "u1475",
+          "endUid": "u1478",
+          "quote": "DM: There's nobody else in the room. There are windows along one wall through which light is streaming in and he sort of stands and gestures for you to sit and gives a short bow. But I'm gonna hope Mike's gonna be back in a sec, because I think we should wait for him."
+        }
+      ],
+      "from": "p15",
+      "to": "p16",
+      "completion": "arrived"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2127",
+        "endUid": "u2143"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "The players choose the proposed Chataan Mountains expedition; departure has not occurred.",
+      "evidence": [
+        {
+          "startUid": "u1909",
+          "endUid": "u1919",
+          "quote": "DM: There was an expedition before my time, early in my aunt's rule as Magistros to the what the—you—what the Dunmari call the Chataan Mountains, near north of Darba, southern edge of the Empire. The much of the Yeraad River valley had fallen under the protection of our imperial borders and as we pushed into the mountains—many of the details are actually—well, perhaps, are recorded somewhere in the University. The Chardonian legions came face to face with a foe, a giant that seemed to wield chalyte magic against them and at the time did not seem worth the effort or the expense of trying to infiltrate or destroy this emperor of giants who seemed to control chalyte."
+        },
+        {
+          "startUid": "u1920",
+          "endUid": "u1920",
+          "quote": "DM: We have long suspected that there is chalyte in the Chataan Mountains."
+        },
+        {
+          "startUid": "u1921",
+          "endUid": "u1921",
+          "quote": "Kenzo: Well, Tim. Where's this?"
+        },
+        {
+          "startUid": "u1922",
+          "endUid": "u1922",
+          "quote": "DM: It's like the the mountain range that's just north of Darba. That sort of separates Chardon from Dunmar."
+        },
+        {
+          "startUid": "u2127",
+          "endUid": "u2127",
+          "quote": "Kenzo: Totally. Totally. But this is this is what we want. I think this is this is, I think, fuck the heist. Let's go kill some giants."
+        },
+        {
+          "startUid": "u2128",
+          "endUid": "u2128",
+          "quote": "Delwath: Alright!"
+        },
+        {
+          "startUid": "u2129",
+          "endUid": "u2129",
+          "quote": "Kenzo: Are you? Are you good with killing giants?"
+        },
+        {
+          "startUid": "u2130",
+          "endUid": "u2130",
+          "quote": "Wellby: I? Yeah, I'm all. Let's go redraw the borders of the Chardonian Empire. I love it."
+        },
+        {
+          "startUid": "u2131",
+          "endUid": "u2131",
+          "quote": "Kenzo: Yeah, let's go do this shit. Let's go. Yeah, we're gonna go do the things in fantasy world that we want to do in real life that we can. So let's go kill some giants and, fucking, redistribute the lands to all of the people in the North, or Kenzo."
+        },
+        {
+          "startUid": "u2132",
+          "endUid": "u2132",
+          "quote": "DM: Or Kenzo could just become a massive landlord."
+        },
+        {
+          "startUid": "u2133",
+          "endUid": "u2133",
+          "quote": "Wellby: I mean—"
+        },
+        {
+          "startUid": "u2134",
+          "endUid": "u2136",
+          "quote": "DM: And so we're in charge. One of the risks—Just people in Chardon."
+        },
+        {
+          "startUid": "u2137",
+          "endUid": "u2138",
+          "quote": "Kenzo: This is. This is a classic. Kenzo has got the crown again, but he's he's gonna do the right thing. He'll do it. Do the right thing."
+        },
+        {
+          "startUid": "u2139",
+          "endUid": "u2139",
+          "quote": "Wellby: Yes."
+        },
+        {
+          "startUid": "u2140",
+          "endUid": "u2140",
+          "quote": "Kenzo: He might enjoy. He might hold the deed on all those lands, for, like a hot second in his hands, and just kind of feel it, feel it, and stroke the paper a little bit, and then he'll he'll redistribute the power."
+        },
+        {
+          "startUid": "u2141",
+          "endUid": "u2141",
+          "quote": "Kenzo: You guys down to kill some giants?"
+        },
+        {
+          "startUid": "u2142",
+          "endUid": "u2142",
+          "quote": "Delwath: Yeah."
+        },
+        {
+          "startUid": "u2143",
+          "endUid": "u2143",
+          "quote": "Wellby: Let's do it."
+        }
+      ],
+      "context": "planned",
+      "from": "p16",
+      "to": "p18",
+      "completion": "planned"
+    }
+  ]
+}

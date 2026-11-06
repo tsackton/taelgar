@@ -1,0 +1,2452 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-126/cleaned/dunmari-frontier-126-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "0aa7fcd142e96cfeeddebdb0e6b66cfc0c5c7c05316658dce8b39b5be697d80d"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-126/cleaned/dunmari-frontier-126-entity-map.json",
+      "sha256": "5ebfd27562dee8d31e27f9c7af8f7d39a0798767e1d68cf09b1268c294c74f96"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "Seeker Three’s errand and fire warning",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0011",
+        "endUid": "u0028"
+      },
+      "lines": [
+        "%% u0011:0-115, u0012:0-78, u0013:0-48, u0014:0-71, u0015:0-42, u0016:0-89, u0017:0-32, u0018:0-95 %%",
+        "DM: ((Breakfast setting)) Seeker Three, no longer a seagull, comes in huffing and puffing and apologizes, and, \"I wish I could stay and be part of this conversation, but Seeker Prime—There's a very important errand. There's a a book with some detailed research about the melting point of various kinds of stone that Faldrak and Seeker need for some tests they are apparently running. I didn't quite hear the details. Something about volcanoes.",
+        "",
+        "%% u0019:0-7, u0020:0-12, u0021:0-84, u0022:0-37, u0023:0-159, u0024:0-30, u0025:0-39, u0026:0-48, u0027:0-21 %%",
+        "DM: Anyway. I'll be back at some point, but I need to deliver the book first. Oh, and and don't don't forget. Resistance to fire is very important. Make sure you find it. Seeker doesn't want you all to die. He's fine. He says he's fine. I'm ice. I'll just melt. But that's okay. He can make a new one of me. Yeah, the rest of you, though. He has a theory. But if it doesn't work that protection is going to be important anyway. Enjoy your breakfast.\"",
+        "",
+        "%% u0028:0-20 %%",
+        "DM: Seeker Three leaves.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay, we ready to get started? Are you still reading?",
+          "Delwath: Yeah, I'm just reading the notes. But you can. We can get started. Just give me—yes, yeah. Actually give me give me a couple of minutes here. Sorry.",
+          "DM: Okay, no worries. So okay, so we begin as the party reunites after Kenzo and Delwath have spent the night on Tiberius's ship, the Auratan's Pride. Auratan is the family name of the Magistros, so this is one of his like naval flagships, and spend some time talking to Tiberius about chalyte politics, where Wellby has spent the night at the Smiling Crab, a halfling inn nestled along the north edge of the docks near the Chardon Bridge."
+        ],
+        "after": [
+          "DM: So as we begin just to recap in case you don't remember all of the people. So Tiberius: close ally of Mitus, are a Torian—Auratan. Sorry, not a Torian, Mitus Auratan, the Magistros, also a powerful wizard in his own right, although not as powerful as Seeker. Captain of—well, Windcaller, which is not quite the same as captain, although in a lot of ways has more control—of the Auratan's Pride.",
+          "DM: The characters of the Eightfold Flame: you spoke to Kenzo's friend Xavier, his sister Adina. Then Andros, Orsino, and a woman who just went by the nickname Red respectively. Red, the, a representative of the crane operators' guilds. Well, there's not any guilds right? It's just a representative of the crane operator, the crane operators in general.",
+          "DM: Orsino, who is sort of like a labor foreman, was the guy who ran, you know, when the just as a reminder, the way the chalyte workers, the chalyte refineries work is there's not—Nobody is hired for like an 8-hour shift. They don't work with—nobody has regular wages. Just when an ore boat comes in, they'll go recruit a bunch of people and they'll pay him X amount to work to process that ore. And so there's like labor organizers basically who help make sure that the people who need coin the most get in the front of the line for jobs when there's jobs. But it's not really steady pay. Nobody gets a salary or anything like that. It's all piecework.",
+          "DM: And then Andros, who is a little, is not as prominent, but knows a lot of people, because he acts as kind of a liaison between the abolitionists who are priestly, a priestly group that is super anti-chalyte, and just wants to get rid of it all, but has a lot of low level clerics and things, who help out with people injured and make sure people don't die from their chalyte burns during explosions and things like that. And Andros is kind of the guy who goes around and checks up on people. So he has a lot of friends, but not a lot of clout.",
+          "DM: And you had sent them off to like get organized. So there's somebody ready to talk when we bring the Magistros to the table, but at the moment not sure what they're up to. It's only been 12, you know, 16 hours since he talked to them."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "Tiberius’s objection to profit-driven chalyte handling",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0077",
+        "endUid": "u0112"
+      },
+      "lines": [
+        "%% u0077:0-57, u0078:0-40, u0079:0-74, u0080:0-163, u0081:0-44, u0082:0-275 %%",
+        "Kenzo: So here's a question from the conversation with Tiberius. You know, Kenzo is always thinking about the working class kind of folks, right? That's kind of his, his people. So what's his vibe of Tiberius's take? Because Tiberius is like, oh, this chalyte—all the stuff related to chalyte dangerous, not everybody should have access to it. What was his take on Tiberius's like kind of class analysis? Was he sort of like, oh, like the working people are too dumb, and they shouldn't like touch it because they're like too stupid to like. They're not responsible enough to handle this very powerful magic, or is he more like—What's his? What's Kenzo's read on—",
+        "",
+        "%% u0083:0-135 %%",
+        "DM: He doesn't really think much about the working class as you read, but to the extent he does, it's not, \"The working class is dumb.\" It's—",
+        "",
+        "%% u0084:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u0085:0-83 %%",
+        "DM: The people who are making these refineries don't know how to safely handle chalyte.",
+        "",
+        "%% u0086:0-41 %%",
+        "Kenzo: Got it. So he's critical of the families.",
+        "",
+        "%% u0087:0-166 %%",
+        "DM: Well, he's just critical. He's quite anti the entire chalyte industrial complex, but not because he thinks chalyte is bad. It's because he thinks they're mishandled.",
+        "",
+        "%% u0088:0-11 %%",
+        "((Brief acknowledgement))",
+        "",
+        "%% u0089:0-106 %%",
+        "Kenzo: And what but wait but and so so. But he he also. His opinions are kind of a proxy for the Magistros a bit.",
+        "",
+        "%% u0090:0-16 %%",
+        "DM: Not necessarily.",
+        "",
+        "%% u0091:0-72 %%",
+        "Kenzo: Okay, and sorry. So what is his? His opinion of the 4 oligarch families?",
+        "",
+        "%% u0092:0-50, u0093:0-60 %%",
+        "DM: He just kinda lumps them all in the same boat like they don't know what they're doing. This is dangerous stuff.",
+        "",
+        "%% u0094:0-9 %%",
+        "((Brief acknowledgement))",
+        "",
+        "%% u0095:0-100, u0096:0-36 %%",
+        "DM: If somebody sensible who knew how to handle chalyte was in charge like the Windcallers, for example, we wouldn't have all these problems.",
+        "",
+        "%% u0097:0-88 %%",
+        "Wellby: But he means not not just in charge of chalyte use, but in charge of chalyte refinement.",
+        "",
+        "%% u0098:0-21 %%",
+        "DM: Yeah. Oh, yeah. Yeah.",
+        "",
+        "%% u0099:0-96 %%",
+        "Kenzo: So I mean, I asked so like if he had it his way. What would it? What would the system look like?",
+        "",
+        "%% u0100:0-51, u0101:0-83 %%",
+        "DM: I mean, he hasn't really given it much thought. But and there are some things he won't reveal. He says they're like Windcaller secrets.",
+        "",
+        "%% u0102:0-68 %%",
+        "((Repeated question))",
+        "",
+        "%% u0103:0-23, u0104:0-92, u0105:0-74, u0106:0-69, u0107:0-167, u0108:0-76 %%",
+        "DM: Yeah, I mean, he's like Chalyte's never exploded in our hands. Like, the real—His take, basically is the real problem with the chalyte industry is that chalyte is dangerous, and the people who—the the people who happen to be in control care primarily about money. Like, this is the last bullet point here. Right? Anytime you let something dangerous be controlled by people who care about money, that's always going to cause problems because they'll always be incentivized to take shortcuts to make more money.",
+        "",
+        "%% u0109:0-35, u0110:0-64 %%",
+        "DM: He's like the Wind—Windcallers, like, we wouldn't be out to make money. We have good uses for chalyte.",
+        "",
+        "%% u0111:0-8 %%",
+        "Kenzo: Such as?",
+        "",
+        "%% u0112:0-77 %%",
+        "DM: Well, it's how they sail their ships. The whole Chardon navy runs on chalyte.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And then Wellby left at the end of last session to go stay in a Halfling tavern. But Kenzo and Delwath—",
+          "Kenzo: We stayed on the ship.",
+          "DM: The ship, and so you then had time for a more extended conversation about chalyte.",
+          "Kenzo: Okay, got it, got it, got it, got it?",
+          "DM: Um, and none, I mean Kenzo knows a bit of the vibe of the city, but, like, when you were growing up, you never paid attention to politics like, you know, the you know the slums, you know, the chalyte levels and and the basin and the riverside slums and everything on the north bank."
+        ],
+        "after": [
+          "Kenzo: What's the like working class opinion of the Windcallers?",
+          "DM: Nobody really knows about them. They were, they were like, until Mitus came to power like 3 years ago, they were really marginal players in the city. They weren't even based in Chardon. Like they, they were based in by the canal and everybody—historically, the reputation was just ferry pilots. Basically.",
+          "DM: But Mitus had a big power base there, and he saw the potential, and he brought them to Chardon and made them the center of his magical—But most when you were growing—like you would have probably never even heard of Windcallers, except maybe as rumors like how they get ships through the canal where there's no wind. Oh, they have Windcallers. But there's no like working class opinion of them. Really.",
+          "Kenzo: So the Windcallers are not like, you know, fucking like like controlling canals and preventing, like, you know, people from traveling across the city and blah blah.",
+          "DM: No, I mean, try to make the the—the Magistros makes a lot of money from them, because he charges high tolls for merchant ships to go through the canal, and that all goes directly into the Imperial treasury."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Windcaller pilots, tolls and halfling respect",
+      "entities": [
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e021",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0113",
+        "endUid": "u0158"
+      },
+      "lines": [
+        "%% u0113:0-57 %%",
+        "Kenzo: What's the like working class opinion of the Windcallers?",
+        "",
+        "%% u0114:0-64, u0115:0-37, u0116:0-82, u0117:0-120 %%",
+        "DM: Nobody really knows about them. They were, they were like, until Mitus came to power like 3 years ago, they were really marginal players in the city. They weren't even based in Chardon. Like they, they were based in by the canal and everybody—historically, the reputation was just ferry pilots. Basically.",
+        "",
+        "%% u0118:0-70, u0119:0-64, u0120:0-120, u0121:0-86, u0122:0-58 %%",
+        "DM: But Mitus had a big power base there, and he saw the potential, and he brought them to Chardon and made them the center of his magical—But most when you were growing—like you would have probably never even heard of Windcallers, except maybe as rumors like how they get ships through the canal where there's no wind. Oh, they have Windcallers. But there's no like working class opinion of them. Really.",
+        "",
+        "%% u0123:0-55, u0124:0-108 %%",
+        "Kenzo: So the Windcallers are not like, you know, fucking like like controlling canals and preventing, like, you know, people from traveling across the city and blah blah.",
+        "",
+        "%% u0125:0-31, u0126:0-119, u0127:0-54 %%",
+        "DM: No, I mean, try to make the the—the Magistros makes a lot of money from them, because he charges high tolls for merchant ships to go through the canal, and that all goes directly into the Imperial treasury.",
+        "",
+        "%% u0128:0-5 %%",
+        "((Acknowledgement))",
+        "",
+        "%% u0129:0-80 %%",
+        "DM: And the only way you're allowed to transit the canal is with a Windcaller pilot.",
+        "",
+        "%% u0130:0-23 %%",
+        "Kenzo: But that's more recent.",
+        "",
+        "%% u0131:0-39 %%",
+        "Delwath: No, that's that's always been the case.",
+        "",
+        "%% u0132:0-76, u0133:0-31 %%",
+        "DM: That's been the case for for like decades, really, since 1,600 or 1597, when Chardon reconquered the canal.",
+        "",
+        "%% u0134:0-57 %%",
+        "Kenzo: So so the working class people do know about Windcallers.",
+        "",
+        "%% u0135:0-55 %%",
+        "DM: No, the canal is like 150, like hundreds of miles away.",
+        "",
+        "%% u0136:0-17 %%",
+        "Kenzo: Oh, I see! I see!",
+        "",
+        "%% u0137:0-143 %%",
+        "DM: That's like the canal that goes through the Apporian Peninsula, that when you were coming to Chardon the 1st time, you're on that halfling ship.",
+        "",
+        "%% u0138:0-28, u0139:0-18, u0140:0-8, u0141:0-23, u0142:0-76, u0143:0-60, u0144:0-15 %%",
+        "((Repeated geography clarification))",
+        "",
+        "%% u0145:0-63, u0146:0-78 %%",
+        "Wellby: They're not like actively being approached by them or anything. What's the halfling take on the wind? What's the halfling take on Windcallers?",
+        "",
+        "%% u0147:0-44, u0148:0-40, u0149:0-52, u0150:0-79 %%",
+        "DM: I mean, I think there's probably a degree of respect, maybe grudging respect. I mean. They're they're clearly good sailors, right? I mean. Maybe there's a little bit of they cheat kind of attitude among some halflings.",
+        "",
+        "%% u0151:0-9 %%",
+        "((Brief interruption))",
+        "",
+        "%% u0152:0-80, u0153:0-125, u0154:0-68, u0155:0-69, u0156:0-45 %%",
+        "DM: But also they've always, I mean they've always treated everybody fairly like the the prices to go through the canal are high, but they're not unfair. Everybody is treated the same, and it saves you—I mean. I think there's a lot of feeling that it's justifiably high, because every now and then halfling ships try and go around the long way like like Milo's ship went the long way, and like—",
+        "",
+        "%% u0157:0-20 %%",
+        "Delwath: It was the disaster.",
+        "",
+        "%% u0158:0-34 %%",
+        "DM: Vanished. Yeah. So it's, you know.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Yeah, but I mean, I think at a high level. If he, if he had his way.",
+          "DM: Yeah, I mean, he's like Chalyte's never exploded in our hands. Like, the real—His take, basically is the real problem with the chalyte industry is that chalyte is dangerous, and the people who—the the people who happen to be in control care primarily about money. Like, this is the last bullet point here. Right? Anytime you let something dangerous be controlled by people who care about money, that's always going to cause problems because they'll always be incentivized to take shortcuts to make more money.",
+          "DM: He's like the Wind—Windcallers, like, we wouldn't be out to make money. We have good uses for chalyte.",
+          "Kenzo: Such as?",
+          "DM: Well, it's how they sail their ships. The whole Chardon navy runs on chalyte."
+        ],
+        "after": [
+          "Wellby: So so you would say that the Halflings feel strongly that a rules-based system of international trade is an effective way to build a stable economy.",
+          "DM: That's it. Yes, that seems consistent with halfling morals.",
+          "DM: Okay, so let's pick up at breakfast. With maybe some discussion about what's next. I don't want to like, force you to talk for too long, but the idea of giving you different information was so that you could have a little bit of in character role playing at the beginning. And then, if there's anything you want to do like you haven't, you haven't gotten the information about the appointment yet. So if there's other goals and desires you have in the city, this is your chance to sort of be free agents. Now that you've you know, Kenzo, and Delwath have their like papers: \"We're not criminals.\" So, although when you come into the city, you get, you know. Passing through customs, you're not unnoted, like, those are some of the few people who are be like, \"Oh, yeah, we recognize you.\" But your papers are valid, and they're like, yes, yeah, okay, go. And so rumors are now spreading in the city that you've been pardoned.",
+          "Kenzo: Wait. Oh, yes, I was just gonna say, because Tiberius like, what did he say about like what the process is like, how we, how we like are they gonna like, you know, broadcast.",
+          "DM: He was carrying a signed proclamation from the Magistros, saying that you are back in the good graces of the Emperor, and he just handed it to you. It's magically sealed. So any customs official or city guard knows it's real."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "The Chamber’s rules and Windcaller exclusion",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0204",
+        "endUid": "u0255"
+      },
+      "lines": [
+        "%% u0204:0-63, u0205:0-87, u0206:0-20, u0207:0-83, u0208:0-31, u0209:0-61, u0210:0-97, u0211:0-21 %%",
+        "Wellby: Well, I I don't know too well. I mean halflings don't really do chalyte. It's too dangerous. It's easier just to trade the items that get made from it. But I did learn that it's not as simple as the Magistros just deciding who gets to buy and sell chalyte. It's 1 of 6 charter monopolies that in theory the elected Council of 42 decides who gets it. But it means it may not be just as simple as the Magistros, deciding to switch that monopoly from one group to another.",
+        "",
+        "%% u0212:0-45, u0213:0-35, u0214:0-41, u0215:0-135 %%",
+        "Delwath: Yeah, Tiberius said as much as well, although we didn't know too much about this Curia of 42. He seems somewhat incurious. He mostly wanted—he mostly seemed to think the Windcallers should be the ones purchasing the chalyte and the middlemen were a problem.",
+        "",
+        "%% u0216:0-5 %%",
+        "((Acknowledgement))",
+        "",
+        "%% u0217:0-3, u0218:0-141, u0219:0-57 %%",
+        "Delwath: But Tim, hold on, it wasn't totally clear. Does the Hetaeri Magica have a legal monopoly? Is that? Is that what we're supposed to take from that? They're the only ones allowed to buy it, or sell? I mean.",
+        "",
+        "%% u0220:0-3, u0221:0-21 %%",
+        "DM: No. Is that the 4 really—",
+        "",
+        "%% u0222:0-50 %%",
+        "Wellby: The 4 families are the only ones who can mine it.",
+        "",
+        "%% u0223:0-107, u0224:0-105, u0225:0-81, u0226:0-73 %%",
+        "DM: [garbled]. The charter monopoly has to do with this with the ore, the dust and the refined. The—somehow it's not completely obvious how to Tiberius, or necessarily the Halflings. The Hetaeri Magica was the only people who was buying chalyte from the registered chartered sellers, and then they were jacking up the price and reselling it around the city.",
+        "",
+        "%% u0227:0-129, u0228:0-4 %%",
+        "((Repeated monopoly clarification))",
+        "",
+        "%% u0229:0-5, u0230:0-125, u0231:0-186, u0232:0-34, u0233:0-91 %%",
+        "Delwath: Okay. But for whatever reason, nobody seemed to be buying it except that—wait. Hold on. But the why did the Windcallers not buy it? That seems like a question Tiberius would have an answer to. I didn't. I didn't understand that. I thought from your notes that he was saying the Hetaeri Magica was like? Did he have any theories as to why the Windcallers were not able to buy chalyte? Or did they never try, or would he not say anything about it?",
+        "",
+        "%% u0234:0-138, u0235:0-84, u0236:0-40, u0237:0-100, u0238:0-144, u0239:0-25 %%",
+        "DM: I mean his—his theory is that I mean the the reason why they couldn't is, it had something to do with the so the Chamber of Stamps is the bureaucracy that controls the regulated monopolies, and his theory was like, I mean. The reason the Windcallers couldn't buy it was that there was a series of prescribed regulations associated with the chartered monopolies on the customers of the legal customers of the chartered monopolies, and it just so happened that the Hetaeri Magica was the only organization that met all the requirements.",
+        "",
+        "%% u0240:0-19, u0241:0-82 %%",
+        "Delwath: Okay. So there's a—the Chamber of Stamps had created a bureaucratic rule for both buyers and sellers.",
+        "",
+        "%% u0242:0-54 %%",
+        "DM: Just like rules tied to the tied to the monopoly. Yes.",
+        "",
+        "%% u0243:0-81 %%",
+        "((Economic terminology))",
+        "",
+        "%% u0244:0-6, u0245:0-219, u0246:0-60 %%",
+        "DM: Right. But that was all. There's no like real official reason for that. It was all just a series of bureaucratic rules propagated over the years that eventually accreted to the point where everybody looked around and was like, \"There's only one organization that can meet all these rules.\"",
+        "",
+        "%% u0247:0-92 %%",
+        "Delwath: Right, and the Windcallers didn't have enough clout to try and do anything about it exactly.",
+        "",
+        "%% u0248:0-8 %%",
+        "DM: Exactly.",
+        "",
+        "%% u0249:0-97 %%",
+        "Delwath: So, but he doesn't have plans to do something about it now, or we don't know, or he wouldn't say?",
+        "",
+        "%% u0250:0-7, u0251:0-39, u0252:0-237 %%",
+        "DM: I mean. He's obviously not going to do anything against the wishes of the Magistros. He is annoyed at the Magistros, although he acts understanding about the Magistros' reluctance to do anything. He was clearly annoyed about that, but obviously is not going to pursue any independence.",
+        "",
+        "%% u0253:0-6, u0254:0-151 %%",
+        "Delwath: [garbled]. So now the Windcallers are the Magistros' personal loyalty, and they're just waiting for the Magistros to say the rules have changed or not. Basically.",
+        "",
+        "%% u0255:0-8 %%",
+        "DM: Exactly.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: I I mean not. You know everybody's a little on edge, right? Nobody wants intense fighting to break out, if only because a lot of people will die. Most halflings aren't particularly involved in the chalyte trade. So at the moment.",
+          "Wellby: Yeah.",
+          "DM: Like the the rioting and disruptions have been almost exclusively limited to the north bank of the city. So on the south bank life just kind of goes on. It's not—there's not riots, particularly the most extreme, you know, Imperial martial law was was raising the river bridge so nobody could—and posting, you know, a blockade on the Chardon Bridge, so nobody could cross, but that only lasted a few days.",
+          "Wellby: So. Yeah, I mean, it seems like the brunt of everything just isn't on this side of the river at all. But I heard an interesting thing. I mean just confirming what we heard before, that there's been no chalyte now for weeks, like no barges coming down the river, no Hetaeri Magica. It made me wonder a little bit about what's going on upstream from here like what's going on in the mines.",
+          "Delwath: Is anybody asking questions yet?"
+        ],
+        "after": [
+          "Delwath: Yeah. And they might be internally pressuring you to change something. But it's not like they're motivated to go to the Chamber of Stamps and be like, we're setting up a new organization that meets these rules. Deny us, if you—",
+          "DM: Well, plus the there, there isn't, I mean, currently there's.",
+          "Delwath: There's no chambers.",
+          "DM: Chalyte council in the Chamber of Stamps, more or less doesn't exist.",
+          "Delwath: But also no chalyte has—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "The Crown’s former bureaucratic network",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0278",
+        "endUid": "u0321"
+      },
+      "lines": [
+        "%% u0278:0-34, u0279:0-144, u0280:0-38, u0281:0-124, u0282:0-42, u0283:0-63, u0284:0-38 %%",
+        "Wellby: Well, the supplies are gone. But I—I and this will be asking like in in genuine confusion or consternation, is it? Did we cause all of this? I mean, is this not all the effect of just like instantly using the crown to break up the entire structure that was here? I mean. Conceivably did the bureaucrats and the merchants and the families like go insane and and run into the ocean like? Does does this all trace back to anything other than the crown? I mean, no judgment guys, no judgment.",
+        "",
+        "%% u0285:0-77, u0286:0-40, u0287:0-8, u0288:0-80, u0289:0-51, u0290:0-64 %%",
+        "DM: I mean, Kenzo would recall that the 1st people that he commanded to start the Chalyte Revolution were all bureaucrats. And also a lot of time getting to know. Oh, no! Actually, you made a list of all of that. They're pretty much. They were pretty much entirely like Fausto had controlled almost the entire council of Chalyte.",
+        "",
+        "%% u0291:0-54 %%",
+        "Delwath: Right. So these are all people under Fausto's control.",
+        "",
+        "%% u0292:0-4 %%",
+        "DM: Yes.",
+        "",
+        "%% u0293:0-74, u0294:0-33 %%",
+        "Delwath: They were all I mean. Does that mean by that? You mean they were cleansed? They were possessed by the crown.",
+        "",
+        "%% u0295:0-38 %%",
+        "DM: Directly mind controlled by the Crown.",
+        "",
+        "%% u0296:0-167, u0297:0-49 %%",
+        "((Aside about a letter to the general))",
+        "",
+        "%% u0298:0-95 %%",
+        "Delwath: So there's a lot of people with trouble, with troubled minds who have been possessed by Fausto.",
+        "",
+        "%% u0299:0-96 %%",
+        "DM: Yeah, there was about a hundred people across Chardon, largely bureaucrats in crucial positions.",
+        "",
+        "%% u0300:0-17 %%",
+        "((Acknowledgement))",
+        "",
+        "%% u0301:0-121, u0302:0-29 %%",
+        "DM: Which effectively means the Chalyte board of the Council of Stamps, plus everybody who inspects the ore coming downriver and keeps everything flowing.",
+        "",
+        "%% u0303:0-59, u0304:0-55, u0305:0-14, u0306:0-8, u0307:0-210, u0308:0-6 %%",
+        "((Speculation about upstream ore boats))",
+        "",
+        "%% u0309:0-135 %%",
+        "Wellby: Were the mining families part of what Fausto was controlling, or were they not cleansed but just aligned? Their interests were aligned.",
+        "",
+        "%% u0310:0-52, u0311:0-39, u0312:0-133, u0313:0-36, u0314:0-94 %%",
+        "DM: As as far as you know, from the list that Kenzo made when he was in possession of the crown. There was nobody in Voltara, and there wasn't really anybody who had who was any of the oligarch families. It seems Fausto had either decided that it was too risky or not valuable enough to control them, and had focused almost exclusively on the bureaucracy itself.",
+        "",
+        "%% u0315:0-84, u0316:0-137, u0317:0-120, u0318:0-75, u0319:0-57, u0320:0-91, u0321:0-53 %%",
+        "DM: You know whether there was other corruption is, of course, a different question, but there has not been a lot of disruption in the mining families after Kenzo possessed the crown, and when Kenzo was in control of the Crown he didn't learn anything about the mining families, because there was nobody in any of those families under his control. I guess Kenzo would actually have a bunch of latent knowledge about how the Chamber of Stamps and the Chalyte Board works from having been in control of all those people briefly. So, if anything relevant comes up, just ask if Kenzo remembers anything about it, and I'll chime in.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: It.",
+          "Delwath: It appears that the Eightfold Flame has disrupted them somehow, or all the bureaucrats seem to have vanished.",
+          "Delwath: But I wonder if they—I wonder if they vanished the same time that the the chalyte stopped showing up. We should find out if there's actually been any sales of chalyte since. Has any chalyte actually been sold since since Fausto came to fight us?",
+          "Wellby: What I hear is nothing. Since the Eightfold Flame protests erupted.",
+          "Delwath: So the whole thing's [garbled]. So the bureaucrats who control the sale have vanished. The chalyte has vanished."
+        ],
+        "after": [
+          "Delwath: So we don't know if there's good communicate like no chalyte could be flowing downriver. But I want to figure out the timeline here a little bit more precisely. I don't know if we need to go talk to people to do that right like. When was, what is the date? Can we like find out the date that the last chalyte boat appeared. And how long does it normally take them to come downriver.",
+          "DM: So there were chalyte boats coming for, like a you know, a little bit after the—I think if you want to track down a precise timeline, you probably have to go to talk to people, but from just Tiberius and the Halflings and the general vibe it wasn't like there was an instantaneous shut off the second that the riot started, but as soon as news of trouble in Chardon reach—I mean, so the boats, the boats actually mostly so Lake Valandros, which is like this big lake, is not—the southern exit from Lake Valandros is not that far from Chardon by river like 3 days or less, depending on the winds and the currents. Maybe a week. But it's not. It's not that long. And once, if you're on Lake Valandros, it's not too hard to just turn the boat around.",
+          "DM: So the the timing that at least in this—",
+          "Delwath: Go upstream.",
+          "DM: The lake is like the size of Lake Superior."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "Divination on the board and the leaderless Hetaeri",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e002",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e036",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e037",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e038",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e039",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0492",
+        "endUid": "u0571"
+      },
+      "lines": [
+        "%% u0492:0-69, u0493:0-39, u0494:0-66 %%",
+        "Delwath: So the 1st question is, is, is the holdup in chalyte trade due to the command of the chalyte mining families? Like their desire, their wish to hold up chalyte coming downriver?",
+        "",
+        "%% u0495:0-12 %%",
+        "DM: Yes, mostly.",
+        "",
+        "%% u0496:0-10 %%",
+        "((Pause))",
+        "",
+        "%% u0497:0-115, u0498:0-41 %%",
+        "Wellby: Maybe there's something to the effect of like, can the chalyte bureaucrats go back to those jobs again? Or are they just sort of gone from that role forever?",
+        "",
+        "%% u0499:0-63, u0500:0-79 %%",
+        "Delwath: Yeah, let's see, do any of the chalyte do any of the Council of of the Chalyte Board of the Council of Stamps wish to return to their old jobs?",
+        "",
+        "%% u0501:0-4 %%",
+        "Wellby: Hmm.",
+        "",
+        "%% u0502:0-25 %%",
+        "Delwath: Wish to, and are able to?",
+        "",
+        "%% u0503:0-28 %%",
+        "DM: Wish to, and are able to: no.",
+        "",
+        "%% u0504:0-22, u0505:0-105, u0506:0-36, u0507:0-4, u0508:0-4 %%",
+        "((Repeated conjunction clarification))",
+        "",
+        "%% u0509:0-107, u0510:0-74 %%",
+        "Delwath: The implication is some of them might wish to, but are unable to right, and some of them might not wish to. But could, if they want right like, but none of the ones who wants to can.",
+        "",
+        "%% u0511:0-131 %%",
+        "Delwath: Are these? What are the limits of these questions like, can we ask about the future? Like, will the Hetaeri Magica be reconstituted?",
+        "",
+        "%% u0512:0-16, u0513:0-16 %%",
+        "((Interrupted question))",
+        "",
+        "%% u0514:0-29 %%",
+        "DM: You can't predict the future.",
+        "",
+        "%% u0515:0-42 %%",
+        "Delwath: Yeah, divination is facts about the world.",
+        "",
+        "%% u0516:0-53 %%",
+        "DM: And the tanshi are not guaranteed to know everything.",
+        "",
+        "%% u0517:0-38, u0518:0-55 %%",
+        "Delwath: Does the Magistros? Does the Magistros wish the Windcallers to have more control over chalyte?",
+        "",
+        "%% u0519:0-23 %%",
+        "DM: We cannot see his mind.",
+        "",
+        "%% u0520:0-40, u0521:0-30, u0522:0-3, u0523:0-66, u0524:0-107, u0525:0-4, u0526:0-8, u0527:0-20, u0528:0-5, u0529:0-9, u0530:0-93, u0531:0-92, u0532:0-60, u0533:0-4, u0534:0-5, u0535:0-73, u0536:0-122, u0537:0-48, u0538:0-19, u0539:0-23, u0540:0-34, u0541:0-22, u0542:0-4, u0543:0-95, u0544:0-58, u0545:0-32, u0546:0-51, u0547:0-6, u0548:0-111, u0549:0-102, u0550:0-26, u0551:0-31, u0552:0-4, u0553:0-19, u0554:0-5, u0555:0-49, u0556:0-55, u0557:0-18, u0558:0-60, u0559:0-29, u0560:0-4, u0561:0-114, u0562:0-5, u0563:0-47, u0564:0-4, u0565:0-63, u0566:0-93, u0567:0-3, u0568:0-87 %%",
+        "((Chalyte supply forecasts and spell bookkeeping))",
+        "",
+        "%% u0569:0-37, u0570:0-19 %%",
+        "Delwath: Does the Hetaeri Magica have a leader currently like now?",
+        "",
+        "%% u0571:0-3 %%",
+        "DM: No.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I'm going to ask the gods a few questions.",
+          "Kenzo: Let's do that.",
+          "Wellby: Correct.",
+          "Delwath: It's yes or no right I forget?",
+          "DM: Yep."
+        ],
+        "after": [
+          "Delwath: Interesting. We should find out who's actually buying refined chalyte right now. I should have asked. Oh, that would have been a good question. Has anybody bought chalyte? But we should be able to just ask around right? Like it's gotta be. We gotta know who the merchants are. Right.",
+          "Delwath: Well, okay. So so I would like to find one of these. Okay—suggestions for things. We should go find out more about what the Magistros wants right? Somebody should go like chat up sailors right like who can go like chat up a senior lieutenant, or like the night captain, you know people who are like a little bit below Tiberius's level. But who's just like what? What's the Magistros, you know? Have you sailed with the Magistros? What rumors have you heard? You know what I mean like? What does he want?",
+          "DM: So there's 3 of you. So I would suggest no more than 3 tasks.",
+          "Delwath: Yes.",
+          "DM: Split up and accomplish them."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "Amelia’s failed scry and the separate sight of Tronia",
+      "entities": [
+        {
+          "id": "e023",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e024",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e026",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0753",
+        "endUid": "u0791"
+      },
+      "lines": [
+        "%% u0753:0-17, u0754:0-7, u0755:0-79, u0756:0-26, u0757:0-91 %%",
+        "DM: Okay. So you get Amelia, your 1st try. Scry does not work. ((Scrying rolls and target selection))",
+        "",
+        "%% u0758:0-40 %%",
+        "Delwath: Okay, I'll try again with the other one.",
+        "",
+        "%% u0759:0-14, u0760:0-76, u0761:0-45, u0762:0-74, u0763:0-123, u0764:0-161 %%",
+        "DM: ((Scrying mechanics)) I'll say this one is Tronia. She was a sort of mid level member of the Chalyte Control Board who joined you know, some time ago, but was sort of a junior bureaucrat. ((Bureaucratic background))",
+        "",
+        "%% u0765:0-63, u0766:0-56, u0767:0-41, u0768:0-35, u0769:0-48, u0770:0-65, u0771:0-63, u0772:0-41, u0773:0-34, u0774:0-23 %%",
+        "DM: And your scry opens up. You see a woman dressed in dirty robes sitting in the attic of a house, rocking back and forth. She seems to be singing under her breath. You recognize the words as dwarven. ((Language mechanics)) It's actually like a prayer that you've heard Riswynn say before. Muttered under her breath, as she sort of rocks back and forth. And then, every now and then, she's like, \"Make it not real. Make it not real.\" In the attic of a house—",
+        "",
+        "%% u0775:0-52, u0776:0-43, u0777:0-25, u0778:0-94, u0779:0-45 %%",
+        "((Location inference))",
+        "",
+        "%% u0780:0-42, u0781:0-51, u0782:0-85, u0783:0-95, u0784:0-39, u0785:0-85, u0786:0-60, u0787:0-15 %%",
+        "DM: ((Street sounds)) And then just rocking back and forth, muttering some dwarven prayer under her breath. And seems like she hasn't eaten in days. She is not a dwarf. She is a human.",
+        "",
+        "%% u0788:0-11, u0789:0-32, u0790:0-12, u0791:0-13 %%",
+        "Delwath: Chardonian? Yeah, these people are not okay. Fascinating. ((Further scrying plans))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Okay.",
+          "Kenzo: Bad.",
+          "Delwath: Low save.",
+          "DM: Might be wanting to return back, and therefore not have—",
+          "Delwath: Not have, and but not be able to."
+        ],
+        "after": [
+          "DM: Another another junior.",
+          "Delwath: No, then don't roll.",
+          "DM: Okay.",
+          "Delwath: I haven't decided what I'm doing yet that—I don't know about another junior. Is there some guy like, who is there some person who was in charge, or who was like important?",
+          "DM: Oh, yeah, there. So there was a the the Chalyte Control Board. So the the Chamber of Stamps has, like separate boards for each of the regulated monopolies. The Chalyte Control Board had, like a—there's like a council of 5 people that promulgate the regulations. Every single one of them was mind controlled by Fausto. And then there's like a bunch of bureaucrats and scribes and people who some of them are just like scribes who copy things out."
+        ]
+      },
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed",
+        "reason": "The source names Tronia separately from Amelia; the excerpt preserves that distinction despite the conflicting vault description."
+      }
+    },
+    {
+      "id": "i008",
+      "title": "Gaspar seen struggling to eat and write",
+      "entities": [
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e049",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e017",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e047",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0814",
+        "endUid": "u0850"
+      },
+      "lines": [
+        "%% u0814:0-103, u0815:0-8, u0816:0-42, u0817:0-35, u0818:0-93, u0819:0-38, u0820:0-148, u0821:0-75, u0822:0-49, u0823:0-77, u0824:0-80 %%",
+        "DM: ((Scrying mechanics and naming)) So the second most senior is Gaspar. He is an older man, probably in his early—late sixties, early seventies. Something like that. And from Kenzo's information he was—so—there's like one. There's basically a chair, and then everybody else is roughly equal. But he so you you missed on the chair. But he had been on the the Chalyte Control Board for longer than anybody else, including the chair. And from again from Kenzo's control, seemed to be, you know he had. He had studied at the University and the faculty of law, and you know, was the was the sort of regulations guy, more or less. And you see him.",
+        "",
+        "%% u0825:0-43, u0826:0-106, u0827:0-24, u0828:0-371, u0829:0-110, u0830:0-126, u0831:0-42, u0832:0-36, u0833:0-71, u0834:0-49 %%",
+        "DM: He is. He is sitting in the in the kitchen or some at a table, anyway. With food spread out and a glass of what looks like diluted wine next to them of a quite a nice house. You can see actually through the window that there are. There's an extensive garden outside. There's trees. You can see the like side of the shadow of Mount Nera right out the window. So this must be somewhere in the Nera Domains on the north bank, like the estate that are sort of outside of the city proper, and he's just he's just sort of sitting there. There's like a sheet of paper in front of him, and like he's. He's sitting with a quill and sort of not moving, and there's a sort of middle-aged woman, maybe a servant. It's hard to tell. She's sort of prodding him. Gaspar, you you must eat something. Keep your strength, and she's sort of like lifting up what seems like a bowl of something like oatmeal, or some kind of porridge like that feeding him. Please eat something, and he sort of slowly eats.",
+        "",
+        "%% u0835:0-38, u0836:0-54, u0837:0-23, u0838:0-101, u0839:0-31, u0840:0-57, u0841:0-90, u0842:0-69 %%",
+        "DM: And then kind of looks blankly off and and and picks up his quill and goes to start to write. And it's just it's just gibberish like the words don't make any sense, and he like grabs the paper and angrily tosses it off. And kind of shakes his head and kind of mutters under his voice, and then barks out, \"More.\" And the woman goes off and brings him back another piece of paper and refills his inkwell. And then he just closes his eyes for a minute and seems to drift off.",
+        "",
+        "%% u0843:0-12, u0844:0-5, u0845:0-19 %%",
+        "Delwath: Interesting. Okay. Any thoughts, guys?",
+        "",
+        "%% u0846:0-8, u0847:0-36 %%",
+        "Wellby: I I mean I don't know. They seem beyond help.",
+        "",
+        "%% u0848:0-82 %%",
+        "Delwath: But, interestingly, the folks that we uncleansed didn't come back quite so broken.",
+        "",
+        "%% u0849:0-43, u0850:0-49 %%",
+        "DM: Yeah, the ones you uncleansed to have been—who had been under mind control for a short time.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I think that might be, but I might. There's only 5 of them right?",
+          "DM: Yes.",
+          "Delwath: I'm gonna so I'm gonna target whoever seems like the most senior. But I want to know if I'm gonna succeed before I cast this spell.",
+          "DM: Okay, you are not going to succeed on the most senior one.",
+          "Delwath: Okay, and I'll try the next most senior."
+        ],
+        "after": [
+          "Delwath: What about? I don't know—",
+          "DM: For Hektor?",
+          "Delwath: Right. Hektor was kind of broken, wasn't he?",
+          "Wellby: Yeah.",
+          "DM: As far as you could tell, he still doesn't remember his name."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i009",
+      "title": "Hektor’s memories and protected recovery",
+      "entities": [
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0852",
+        "endUid": "u0864"
+      },
+      "lines": [
+        "%% u0852:0-11 %%",
+        "DM: For Hektor?",
+        "",
+        "%% u0853:0-44 %%",
+        "Delwath: Right. Hektor was kind of broken, wasn't he?",
+        "",
+        "%% u0854:0-5 %%",
+        "((Acknowledgement))",
+        "",
+        "%% u0855:0-61 %%",
+        "DM: As far as you could tell, he still doesn't remember his name.",
+        "",
+        "%% u0856:0-6, u0857:0-22, u0858:0-31, u0859:0-28 %%",
+        "Delwath: Right. I forgot about Hektor. Wait! What did we do with that? We leave them in the mirror?",
+        "",
+        "%% u0860:0-118 %%",
+        "DM: He's in the mirror. Yeah. You left him in the mirror. Wellby was singing to him and telling him stories every morning.",
+        "",
+        "%% u0861:0-49 %%",
+        "Wellby: Oh, we never got him to the point of getting out.",
+        "",
+        "%% u0862:0-68, u0863:0-123, u0864:0-43 %%",
+        "DM: You never got him to the point of getting out. He was getting there. He was starting to remember things, but he never got to the point of getting it. In the mirror time doesn't really pass, so it seemed safer for him and better for him.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Interesting. Okay. Any thoughts, guys?",
+          "Wellby: I I mean I don't know. They seem beyond help.",
+          "Delwath: But, interestingly, the folks that we uncleansed didn't come back quite so broken.",
+          "DM: Yeah, the ones you uncleansed to have been—who had been under mind control for a short time.",
+          "Delwath: What about? I don't know—"
+        ],
+        "after": [
+          "Delwath: Okay. I kind of want to go talk to one of these people.",
+          "Kenzo: Yeah.",
+          "Delwath: Know what we'll learn, but I don't know if other people have things they want to do. I don't want to monopolize the screen time.",
+          "Wellby: You know it's all good.",
+          "DM: I mean Kenzo and Delwath could go find somebody, and Wellby could go talk to the sailors."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i010",
+      "title": "Remembering Count Vashan’s temporary relief",
+      "entities": [
+        {
+          "id": "e028",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0941",
+        "endUid": "u0946"
+      },
+      "lines": [
+        "%% u0941:0-30, u0942:0-50, u0943:0-21 %%",
+        "Delwath: Check Kenzo's heal conditions. What is? What does Cleansing Touch, when you heal? Can you heal madness?",
+        "",
+        "%% u0944:0-13 %%",
+        "Kenzo: Double check.",
+        "",
+        "%% u0945:0-77, u0946:0-28 %%",
+        "DM: I mean, it worked on that on that guy, and it worked temporarily on that guy. Count Vashan in the Feywild.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Yeah.",
+          "Delwath: So I assume it's not that hard to find this guy's house.",
+          "DM: No, I mean, we just I mean, yeah. Let's just let's just skip this. It takes you takes you a couple hours to—",
+          "Delwath: Knock on his door.",
+          "DM: How to get information—show up at his at his estate. So this is. This is on the slopes of Mount Nera, so you can see the like, the bulk of the spur of the obsidian volcano rising to the west."
+        ],
+        "after": [
+          "Delwath: It's true, so we'll knock on the door.",
+          "DM: There's I mean there's there's like a guard put like a servant posted outside like a butler, asks your business, and.",
+          "Delwath: We'll say—",
+          "DM: Somewhat disinclined to let in visitors. \"Oh, my master is indisposed at the present.\"",
+          "Delwath: Yes, we. I'll tell him that— That's a good not-true lie, but I want to tell them that we are that we are here to that we know his master is is indisposed, and that and I'm—just hold on a second while I sort of think of exactly what I'm saying. We know his master's indisposed, and we—we think we can help."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i011",
+      "title": "Gaspar’s fearful mind and the Veldari clue",
+      "entities": [
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e049",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e019",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e036",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e044",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0976",
+        "endUid": "u1179"
+      },
+      "lines": [
+        "%% u0976:0-71, u0977:0-10, u0978:0-254, u0979:0-49, u0980:0-32, u0981:0-80, u0982:0-91, u0983:0-50, u0984:0-84 %%",
+        "DM: And you can see that this is a few hours later. So it's it's now, maybe 11, 11:30. Gaspar, the sort of old guy, he's—he looks. He looks in person. He looks frail. Sort of white hair kind of in a ring around his head, balding on top, but he's he's sitting on a on a comfortable chair. But his hand is shaking a little bit, and he's kind of—he's kind of staring off into space slightly, and sitting in a in a dressing robe. Not not, you know, dressed for the day or anything, but just basically in robes. And the woman, the middle aged woman you saw before, who seems clear like a servant kind of gets out of the way as as the butler leads you in. The butler stands sort of unobtrusively at the entranceway as the 2 of you approach.",
+        "",
+        "%% u0985:0-25, u0986:0-115 %%",
+        "DM: He doesn't seem to really—he sort of shakes and and looks briefly up as you approach at the noise, but doesn't really register your presence.",
+        "",
+        "%% u0987:0-44, u0988:0-5 %%",
+        "((Repeated description))",
+        "",
+        "%% u0989:0-18 %%",
+        "Kenzo: Kenzo, soul sight.",
+        "",
+        "%% u0990:0-25, u0991:0-18, u0992:0-42, u0993:0-101 %%",
+        "DM: You soul sight him, he is—so he is confused. Somewhat, obviously. But he's also there's when you sort of when you soul sight him, ((Insight check))",
+        "",
+        "%% u0994:0-3 %%",
+        "((Insight roll))",
+        "",
+        "%% u0995:0-8, u0996:0-25, u0997:0-46, u0998:0-112, u0999:0-85, u1000:0-50 %%",
+        "DM: So yeah. What you actually see is: there's almost like 2 layers to his aura like there's there's something inside that's just that's just kind of huddled, crouched looks actually deeply scared. And then there's this outer layer that's that's confused and almost rejecting reality like refusing to acknowledge the world around him.",
+        "",
+        "%% u1001:0-12, u1002:0-16, u1003:0-188, u1004:0-363 %%",
+        "Kenzo: Interesting. Kenzo will will kind of as we're as we're hanging out, and he'll let he'll let Delwath lead the conversation. But he's gonna spend his time and energy really focusing in on the scared inner consciousness. And he's going to start like kind of soothing that just giving a lot of like calming, like soothing energy being like, \"Hey, you know, everything is okay. Like, you know, you can relax like things are different. Now. You're safe,\" you know, kind of giving a lot of those types of like that kind of like soothing, reassuring energy to the scared inner consciousness.",
+        "",
+        "%% u1005:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u1006:0-12, u1007:0-31, u1008:0-12 %%",
+        "((Ability adjudication))",
+        "",
+        "%% u1009:0-60, u1010:0-47 %%",
+        "Delwath: Delwath will step forward and sort of introduce himself, and if he's, you know, just does he respond at all?",
+        "",
+        "%% u1011:0-41, u1012:0-30 %%",
+        "DM: He looks at you. He doesn't say anything. Obviously aware of your words.",
+        "",
+        "%% u1013:0-18 %%",
+        "Delwath: May I examine you?",
+        "",
+        "%% u1014:0-39 %%",
+        "DM: He doesn't resist or make any movement.",
+        "",
+        "%% u1015:0-25 %%",
+        "Delwath: I'm going to cast detect—",
+        "",
+        "%% u1016:0-5, u1017:0-11, u1018:0-59, u1019:0-67 %%",
+        "DM: Okay. Interesting. So Detect Thoughts gives you a read on surface thoughts and his surface thoughts are all basically just, \"No, no, no, no, no, no.\"",
+        "",
+        "%% u1020:0-20 %%",
+        "Delwath: I'm gonna probe you.",
+        "",
+        "%% u1021:0-5 %%",
+        "DM: Okay.",
+        "",
+        "%% u1022:0-144, u1023:0-28 %%",
+        "Delwath: I mean first, I'll say before, hold on! Before I do, I want to say a few words like please let me please let me in, you know I'm trying to help. You know. Don't resist this.",
+        "",
+        "%% u1024:0-141, u1025:0-60, u1026:0-21 %%",
+        "((Wisdom check))",
+        "",
+        "%% u1027:0-5, u1028:0-57, u1029:0-51, u1030:0-96, u1031:0-56, u1032:0-152, u1033:0-11, u1034:0-77 %%",
+        "DM: Okay. So so so so as you're doing this as Delwath is is talking Kenzo sees this sort of scared inner consciousness you know, as the as the spell begins to probe the surface thoughts just almost curl up more like—and this sort of this. This fear radiates stronger, like the the sort of vibe that you get is. And you're you're sort of trying to soothe this like, \"Nobody's trying to hurt you.\" But you still get this vibe like: Any kind of like this is this, this is like what this is too too reminiscent of the past.",
+        "",
+        "%% u1035:0-36 %%",
+        "Kenzo: What is too reminiscent of the past?",
+        "",
+        "%% u1036:0-23, u1037:0-48 %%",
+        "DM: Intrusive mental magic. [garbled], thought spell.",
+        "",
+        "%% u1038:0-197, u1039:0-50, u1040:0-13, u1041:0-37, u1042:0-127, u1043:0-7, u1044:0-5 %%",
+        "((Class-level mechanics))",
+        "",
+        "%% u1045:0-117 %%",
+        "Kenzo: So so Delwath's Detect Thoughts is triggering fear in, more fear for this inner being, like his inner consciousness.",
+        "",
+        "%% u1046:0-86, u1047:0-19, u1048:0-44 %%",
+        "DM: Not so much just watching his surface thoughts, but when Delwath is asking him about, \"Will you let me in?\" Probe like something is registering in what—",
+        "",
+        "%% u1049:0-94, u1050:0-57 %%",
+        "((Repeated clarification))",
+        "",
+        "%% u1051:0-78, u1052:0-44 %%",
+        "Kenzo: Oh, okay, yeah. Kenzo's like, let's just kind of telling Delwath to slow down. But sorry. Why do you want to read his mind?",
+        "",
+        "%% u1053:0-76, u1054:0-70 %%",
+        "Delwath: Well to see what he's. He's trying to write something that he can't get out. He seems to know something, maybe not. Maybe he doesn't know anything.",
+        "",
+        "%% u1055:0-15, u1056:0-279 %%",
+        "Kenzo: Kenzo will like like the the inner, the inner consciousness that he's been kind of soothing. He'll like kind of like kind of communicate questioningly to it. Like being like, you know, is there something you want to say? You know, type like it's it's safe. It's okay to say what you want to say.",
+        "",
+        "%% u1057:0-73, u1058:0-69 %%",
+        "DM: So you don't. You don't get any. Kenzo does not get any reaction to this. But Delwath, your surface level read on his thoughts, changes to, \"Yes.\"",
+        "",
+        "%% u1059:0-22, u1060:0-18 %%",
+        "Delwath: I'll say so. Think it, or let me find it.",
+        "",
+        "%% u1061:0-22 %%",
+        "DM: He sort of and sort of—",
+        "",
+        "%% u1062:0-88 %%",
+        "Delwath: I mean, when Kenzo said, Slow down, I did not. I have not attempted to probe deeper yet.",
+        "",
+        "%% u1063:0-84 %%",
+        "DM: I know he sort of blinks, and his hand twitches like he's trying to write something.",
+        "",
+        "%% u1064:0-79 %%",
+        "Kenzo: Kenzo continues to soothe and encourage it, to express itself, express himself.",
+        "",
+        "%% u1065:0-48, u1066:0-36, u1067:0-67 %%",
+        "DM: He looks around, and he's sort of croaking more. And in his mind he's thinking paper. You just see it. See an image of this like blank paper in his mind.",
+        "",
+        "%% u1068:0-19 %%",
+        "Kenzo: Give me some paper.",
+        "",
+        "%% u1069:0-46 %%",
+        "Delwath: Yeah, I'll say to the servant, \"Paper, quickly.\"",
+        "",
+        "%% u1070:0-44, u1071:0-37, u1072:0-109, u1073:0-24, u1074:0-23, u1075:0-50, u1076:0-156, u1077:0-5 %%",
+        "DM: Servant runs over, and she brings him like a paper on like a lap desk and and ink. And he begins writing it is gibberish. But you see, as he's writing in his mind Delwath the surface thoughts: \"Fausto has corrupted us. Somebody must stop him. The bureaucracy, the Chamber of Stamps is falling.\" I I don't know how. It's all just coming out of gibberish, and he gets really frustrated, and he screams again and rips it up and throws the paper, and says: \"More.\"",
+        "",
+        "%% u1078:0-97, u1079:0-23, u1080:0-26, u1081:0-70, u1082:0-14, u1083:0-26, u1084:0-12 %%",
+        "Kenzo: Kenzo at this point will will communicate again to the inner, the the scared inner consciousness and say, Fausto's gone. He's no longer in control. You're safe and just kind of repeat that over and over and over again. Fausto's gone. He's no longer in control. You're safe.",
+        "",
+        "%% u1085:0-69 %%",
+        "DM: Delwath is reading quite a lot of skepticism on his surface thoughts.",
+        "",
+        "%% u1086:0-39, u1087:0-56, u1088:0-71, u1089:0-17, u1090:0-19, u1091:0-14, u1092:0-47, u1093:0-10, u1094:0-10, u1095:0-10, u1096:0-14, u1097:0-37, u1098:0-34, u1099:0-51 %%",
+        "((Discussion of evidence from Fausto’s corpse))",
+        "",
+        "%% u1100:0-14, u1101:0-63, u1102:0-33, u1103:0-83, u1104:0-45, u1105:0-69, u1106:0-40, u1107:0-30 %%",
+        "Delwath: I will sort of look at. Delwath will sort of look at, look at Gaspar, and say \"Let me tell you a story, can you?\" And I'll tell a story of like how we came to Chardon and went to Fausto's Tower and discovered that he was trying to kill us, and you know, mention a bunch of the Cleansed and talk about how they're—((Mirror-storage aside))",
+        "",
+        "%% u1108:0-42, u1109:0-41, u1110:0-46, u1111:0-45, u1112:0-6, u1113:0-49, u1114:0-12, u1115:0-25, u1116:0-38, u1117:0-59, u1118:0-89, u1119:0-66, u1120:0-4, u1121:0-18, u1122:0-26, u1123:0-3 %%",
+        "((Mirror storage, recalled visits and persuasion roll))",
+        "",
+        "%% u1124:0-42, u1125:0-106, u1126:0-22, u1127:0-92 %%",
+        "DM: So as you're as you're telling this story he doesn't immediately react. But you see that tears are beginning to stream down his face, and Kenzo, the the scared inner part begins to—it's, I mean it's still scared, but it seems like it begins to relax a little bit.",
+        "",
+        "%% u1128:0-23 %%",
+        "Delwath: We know much about how—",
+        "",
+        "%% u1129:0-40 %%",
+        "Kenzo: As I say, we know much about how Fausto—",
+        "",
+        "%% u1130:0-33, u1131:0-35, u1132:0-62, u1133:0-35, u1134:0-16, u1135:0-44, u1136:0-93 %%",
+        "Delwath: Did what he did, and his artifact power is gone forever from Chardon. We've sent it somewhere where nobody in the city could use it. We hope—I won't say that right now. That's our plan. The I'll tell him we we know how much damage Fausto caused with his control of the chalyte trade, and we want to undo some of that damage.",
+        "",
+        "%% u1137:0-130, u1138:0-70, u1139:0-52, u1140:0-69, u1141:0-3, u1142:0-9, u1143:0-2, u1144:0-47, u1145:0-82 %%",
+        "DM: His. His hands are shaking, and and he starts coughing a little bit, but he's yelling more, and he's like waving the servant over and he starts. He grabs the the paper and he starts writing again, and he's like trying really hard to like make words, and just sort of stops and relaxes himself and begins writing like the E, Ow, the A, R, I. And then he like underlines it. ((Detect Thoughts duration and recasting))",
+        "",
+        "%% u1146:0-11 %%",
+        "((Recasting agreement))",
+        "",
+        "%% u1147:0-31, u1148:0-26, u1149:0-60 %%",
+        "DM: You're seeing in his mind, like the sort of sense of like, \"It's not just Fausto. There's bribe. There's bribes flowing.\"",
+        "",
+        "%% u1150:0-24 %%",
+        "Kenzo: Bribes, from who to who?",
+        "",
+        "%% u1151:0-89 %%",
+        "DM: Well, Fausto was bribing people, not just controlling people. Sorry. That's what I meant.",
+        "",
+        "%% u1152:0-25 %%",
+        "Kenzo: Oh, got it? Okay, got it.",
+        "",
+        "%% u1153:0-34 %%",
+        "DM: Not just the crown, it was bribes.",
+        "",
+        "%% u1154:0-18, u1155:0-16, u1156:0-3, u1157:0-40, u1158:0-78 %%",
+        "((Repeated question about the written clue))",
+        "",
+        "%% u1159:0-23 %%",
+        "DM: He wrote V-E-L-D-A-R-I.",
+        "",
+        "%% u1160:0-34, u1161:0-51, u1162:0-58 %%",
+        "((Notes lookup))",
+        "",
+        "%% u1163:0-93, u1164:0-46, u1165:0-50, u1166:0-140, u1167:0-157 %%",
+        "Kenzo: ((Checking notes)) It's 1 of the 4 oligarch families, Schwartz. ((Repeated comparison about Fausto’s academic patronage))",
+        "",
+        "%% u1168:0-32 %%",
+        "DM: And also was apparently bribing—",
+        "",
+        "%% u1169:0-29, u1170:0-42 %%",
+        "Delwath: One of the oligarch families. Okay? Well, that's worthwhile information.",
+        "",
+        "%% u1171:0-25 %%",
+        "Wellby: That's great information.",
+        "",
+        "%% u1172:0-39, u1173:0-72 %%",
+        "DM: ((Transition to Wellby)) I I should say, at that point, he's like he's clearly exhausted himself.",
+        "",
+        "%% u1174:0-33 %%",
+        "Delwath: Yeah, yeah, no. I was gonna say.",
+        "",
+        "%% u1175:0-65, u1176:0-58, u1177:0-90 %%",
+        "DM: Slumped back, coughing like the the woman, the servant is sort of fluttering around him like trying to get him to drink. And you know, swatting at you a little bit like, \"Let them rest. Let him rest. Give them space.\"",
+        "",
+        "%% u1178:0-104, u1179:0-158 %%",
+        "Delwath: Yeah, well, we'll we'll well switch over to Wellby. But we'll we'll leave him in, peace. Yeah, I'm gonna. I'm gonna check. I wanna you know now that I know him, it's easier to check in on him. I can cast Scrying, whatever. But for right now we'll just. We'll just—",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: What do you mean? Want to imply to him without actually lying, that we are in some way connected with the power structures in Chardon like, you know. We have an appointment with the Magistros later, and we've heard about the illness spreading amongst—you know we've heard that your master and a few other important people are ill, and we thought, you know, we've come to try and see if we can help him recover his wits something like that without, but being very cautious about. You know, I don't want to say he's mad in public, being sort of kind.",
+          "Delwath: Yeah, yeah, go ahead.",
+          "DM: Roll. I don't actually know if this is persuasion or deception, but whichever you feel is more appropriate. I don't know if you have the same plus in both.",
+          "Delwath: Yeah, plus, I have a plus 11 in persuasion and a plus 5. I rolled a 6, 30.",
+          "DM: Yeah. Well, a straight 16, 5 plus the 11 is 16. Okay? So 16 with persuasion, he's—yeah, I mean, he's he's convinced he's you know, not not—he doesn't seem to be particular like you know. If it if you make noise like you might be able to help. He's seems kind of a bit at wit's end, actually. And so \"Yes, yes,\" he leads you into the sitting room."
+        ],
+        "after": [
+          "DM: I'm gonna cut over to Wellby. Yes. So you are Wellby. Your main goal is to find information about what sailors think about—It's to find information about what sailors think about the Magistros, but also anything else.",
+          "Wellby: Was there anything else we wanted to get from this?",
+          "Delwath: That was the main thing idea I had. I don't know if there's anything else useful, though.",
+          "Wellby: No, yeah. We'll try that.",
+          "Delwath: I mean, I think the Meta information we want to know is, what might the Magistros want from a bargaining chip perspective? Right?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i012",
+      "title": "Navy loyalty and merchant criticisms of Mitus",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e021",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e032",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e033",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1198",
+        "endUid": "u1277"
+      },
+      "lines": [
+        "%% u1198:0-86, u1199:0-79, u1200:0-66, u1201:0-70, u1202:0-151, u1203:0-61, u1204:0-73, u1205:0-56, u1206:0-78, u1207:0-157, u1208:0-88, u1209:0-110 %%",
+        "DM: Okay, yeah. So it it takes you a good part of the afternoon. But you manage to sort of talk to just a diverse cross section of the Chardon ports, and you know there's there's a sort of few things that stand out to you. So 1st of all. You know, there's not only navy guys and and women in town, right like several ships, have come in recently. A lot of the navy was in the Nevos Sea dealing with the Darba situation. But some carriers have come back so, and the Navy basically universally loves the Magistros. He's like the hero of the people. He's the defender of freedom. He's the, you know keeps us safe. He's the hero of Chardon, he's, you know. And and this does not seem to be just like a put on vibe, right? This is like. You know, he genuinely has a very strong base of support in the navy. And he he. Actually, you learn this talking to them like there's lots of stories of him sailing on navy ships like, even from a young age, right? So when he was like 14, he was sailing as a midshipman on naval ships into war and performing feats of derring-do. And you know, like there's—",
+        "",
+        "%% u1210:0-49, u1211:0-26, u1212:0-54, u1213:0-192, u1214:0-148, u1215:0-136, u1216:0-67, u1217:0-80 %%",
+        "DM: Tales that you're not sure whether they're really true or not, but, like of you know, fighting, you know, helping lead the navy to fight off sea monsters in the on the sort of strange foreign coasts of the Apporian Peninsula, like the way down South, where it sort of drifts into mangrove swamps that everybody's scared of. You know that, even like Milo and well, Milo and and Tilly, we're not scared of anything. But we're, you know, this is dangerous, even if it's cool. So there's all these kinds of like, perhaps somewhat larger than life. But your feeling really is there's a grain of truth to them like. So from the Navy. It's really the vibe of like this guy really has—you know, he's the protector of Chardon, he's like he has our interests at heart.",
+        "",
+        "%% u1218:0-101, u1219:0-70, u1220:0-31, u1221:0-151, u1222:0-37, u1223:0-92, u1224:0-23, u1225:0-99, u1226:0-69 %%",
+        "DM: You know you talk to sailors and merchants and people. There's more grumbling, right, like, you know but it's sort of directionally the same. A lot of the grumblings like you know, he's cut what he pays grain merchants from the really. So. There's really productive agricultural land sort of along the river between here and the Nevos and Lake Valandros and he's like cut into the profits of the grain merchants in order to lower the price of the grain dole for the people of Chardon. You know he's he's not—you know, even there, there's always this, you know, there's still this undercurrent of like people the sort of more cynical people are like. Oh, you know he likes fame—",
+        "",
+        "%% u1227:0-4 %%",
+        "Wellby: Hmm.",
+        "",
+        "%% u1228:0-25, u1229:0-100, u1230:0-91, u1231:0-93, u1232:0-34, u1233:0-115 %%",
+        "DM: He. He's doing it because some people are like, \"Yeah, okay, this is like how he fixes the situation.\" But other people are like \"He likes to hear stories of himself as the hero,\" like he's—this is the sort of cynical take. But again, it's sort of directionally the same as what the people in the Navy say. It's like the stories you hear are mostly of this sort of whether it's whether it's entirely real or somewhat constructed this image of sort of a Populist hero.",
+        "",
+        "%% u1234:0-66, u1235:0-174, u1236:0-82, u1237:0-91, u1238:0-45, u1239:0-26, u1240:0-18, u1241:0-95, u1242:0-90, u1243:0-47 %%",
+        "DM: You know he has not been he, you know not everything is, you know—there are certainly merchants who grumble right like, you know, he's raised some tariffs. He's certainly like he's prosecuted a bunch of wars like he fought a war against the against pirates in the Nevos Sea, and he conquered Illoria, and then he went after Dunmar, and that's expensive, and so like, there's people who are grumbling about, \"Oh, the—you know the the port tariffs are higher,\" and you know things like that. But that, you know that's probably not the dominant picture. And even then it's like, you know clearly, people who had to pay higher taxes are often grumbling about having to pay higher taxes. But you know that's just part of life right grumbling about—",
+        "",
+        "%% u1244:0-34 %%",
+        "Wellby: How long has he been in power now?",
+        "",
+        "%% u1245:0-6, u1246:0-121, u1247:0-12, u1248:0-94, u1249:0-94, u1250:0-131, u1251:0-49, u1252:0-113, u1253:0-92, u1254:0-57, u1255:0-50, u1256:0-132, u1257:0-47 %%",
+        "DM: So he—so the war against the war against Illorian piracy was about 5 years ago, when—or maybe 6 years ago, now when he was 18. He's now 24, and he's been in power for 3 years. So he was. He was an admiral in the navy before he became. He was a. He was the youngest, ever admiral of the southern branch of the Chardonian navy, and led the navy to a resounding victory against what had been pretty. And actually, you do hear this from the Halflings. actually, that—well, people might grumble about Chardonians like there had been a pretty serious problem with Illorian piracy who were even attacking halfling boats which is like insane. Nobody does that, and at least the way the halflings tell it. You know it was partly them complaining that got the Chardonian navy to actually clear out the shipping lanes in the Nevos Sea. Now. People argue about whether he went too far or not, and whether actually conquering all of Illoria was necessary to deal with piracy. You know halflings have mixed opinions on that.",
+        "",
+        "%% u1258:0-36, u1259:0-103, u1260:0-74, u1261:0-80, u1262:0-8, u1263:0-63, u1264:0-78, u1265:0-77, u1266:0-34, u1267:0-77, u1268:0-69, u1269:0-44 %%",
+        "DM: But at least that the sort of kernel that seems to be consistent is like, you know, there was a real problem with piracy. People were dying. And he stopped it, and then, like it, was a sort of meteoric rise to fame. He became known, and he was like this dashing young admiral that everybody knew. And then everybody knew he was being groomed to be his aunt's successor, and so when she died, it was not surprising that he quickly acted. He—she died not young, but maybe younger than was expected. She was like 70, which, for a you know, Chardonian Magistros is you know, could easily have lived 5 years longer, but even though he was only 21 at the time, he, like quickly solidified power largely through his adoring fans in the Windcallers in the navy.",
+        "",
+        "%% u1270:0-4, u1271:0-48 %%",
+        "Wellby: Hmm! What were the circumstances of his aunt's death?",
+        "",
+        "%% u1272:0-73, u1273:0-126 %%",
+        "DM: No, nobody has any suspicion that it was suspicious like. It's, you know some disease that could not be cured by magic. Somehow I don't. I've never decided what diseases can't be cured by magic, but.",
+        "",
+        "%% u1274:0-5, u1275:0-41, u1276:0-63, u1277:0-56 %%",
+        "Wellby: Cool. Alright. I mean, that's good information. Wellby is like starting to appreciate this guy despite himself. ((Question about other rulers))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I mean, I think the Meta information we want to know is, what might the Magistros want from a bargaining chip perspective? Right?",
+          "DM: Yeah. So I'm gonna I'm gonna say so. So while he's probably you're probably not just like going to talk to one person, right? You're like drifting through the—And sort of you know you're quite familiar with working ports, right? Just kind of checking in with people and you know, popping into taverns, occasionally talking to halflings, but also some humans, just generally taking a few hours the after—most of the afternoon to kinda gather rumors. So I'll say, make—oh, wait! You're proficient invest—Never mind, don't bother rolling. What's your minimum investigation roll?",
+          "Wellby: 22.",
+          "DM: Okay, so yeah, don't. But well, roll, just because if you roll really high, maybe you'll get some especially good information.",
+          "Wellby: No, it's just a 22."
+        ],
+        "after": [
+          "DM: Well, I don't know. Sura, I guess, had some issues.",
+          "Wellby: Yeah.",
+          "DM: You haven't met that many rulers. Well, the King of the King of the Orcs didn't have any issues. He was pretty. He was a pretty good guy.",
+          "Wellby: He was great. He was great, all right. Well, we'll meet back, and anything else we want to know out here.",
+          "DM: So so at this point, you know you know, it's like mid afternoon. Wellby has been out sort of for the bulk of the day. Delwath and Kenzo are just returning from the Nebo's—from the Nera Domains, talking to Gaspar. And all 3 of you at the same time get a message, a sending message in your head. \"Apologies for the late notice. Tomorrow, 9 Am. Imperial Palace.\""
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i013",
+      "title": "Comparing Sura and the Orc King",
+      "entities": [
+        {
+          "id": "e034",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e035",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1274",
+        "endUid": "u1283"
+      },
+      "lines": [
+        "%% u1274:0-5, u1275:0-41, u1276:0-63, u1277:0-56 %%",
+        "Wellby: ((Response to the Magistros’s reputation)) Have we ever met rulers without like serious issues? No?",
+        "",
+        "%% u1278:0-51 %%",
+        "DM: Well, I don't know. Sura, I guess, had some issues.",
+        "",
+        "%% u1279:0-5 %%",
+        "Wellby: Yeah.",
+        "",
+        "%% u1280:0-33, u1281:0-103 %%",
+        "DM: You haven't met that many rulers. Well, the King of the King of the Orcs didn't have any issues. He was pretty. He was a pretty good guy.",
+        "",
+        "%% u1282:0-50, u1283:0-54 %%",
+        "Wellby: He was great. He was great, ((Regrouping plans))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: How long has he been in power now?",
+          "DM: So he—so the war against the war against Illorian piracy was about 5 years ago, when—or maybe 6 years ago, now when he was 18. He's now 24, and he's been in power for 3 years. So he was. He was an admiral in the navy before he became. He was a. He was the youngest, ever admiral of the southern branch of the Chardonian navy, and led the navy to a resounding victory against what had been pretty. And actually, you do hear this from the Halflings. actually, that—well, people might grumble about Chardonians like there had been a pretty serious problem with Illorian piracy who were even attacking halfling boats which is like insane. Nobody does that, and at least the way the halflings tell it. You know it was partly them complaining that got the Chardonian navy to actually clear out the shipping lanes in the Nevos Sea. Now. People argue about whether he went too far or not, and whether actually conquering all of Illoria was necessary to deal with piracy. You know halflings have mixed opinions on that.",
+          "DM: But at least that the sort of kernel that seems to be consistent is like, you know, there was a real problem with piracy. People were dying. And he stopped it, and then, like it, was a sort of meteoric rise to fame. He became known, and he was like this dashing young admiral that everybody knew. And then everybody knew he was being groomed to be his aunt's successor, and so when she died, it was not surprising that he quickly acted. He—she died not young, but maybe younger than was expected. She was like 70, which, for a you know, Chardonian Magistros is you know, could easily have lived 5 years longer, but even though he was only 21 at the time, he, like quickly solidified power largely through his adoring fans in the Windcallers in the navy.",
+          "Wellby: Hmm! What were the circumstances of his aunt's death?",
+          "DM: No, nobody has any suspicion that it was suspicious like. It's, you know some disease that could not be cured by magic. Somehow I don't. I've never decided what diseases can't be cured by magic, but."
+        ],
+        "after": [
+          "DM: So so at this point, you know you know, it's like mid afternoon. Wellby has been out sort of for the bulk of the day. Delwath and Kenzo are just returning from the Nebo's—from the Nera Domains, talking to Gaspar. And all 3 of you at the same time get a message, a sending message in your head. \"Apologies for the late notice. Tomorrow, 9 Am. Imperial Palace.\"",
+          "Kenzo: This is from Tiberius, or from—",
+          "DM: Tiberius.",
+          "Delwath: Okay.",
+          "DM: Present yourself at the I mean, it's obvious with you. Present yourself at the gates, say you've got an appointment."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i014",
+      "title": "Tiberius sends the palace appointment",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1284",
+        "endUid": "u1293"
+      },
+      "lines": [
+        "%% u1284:0-30, u1285:0-86, u1286:0-96, u1287:0-80, u1288:0-30, u1289:0-32 %%",
+        "DM: So so at this point, you know you know, it's like mid afternoon. Wellby has been out sort of for the bulk of the day. Delwath and Kenzo are just returning from the Nebo's—from the Nera Domains, talking to Gaspar. And all 3 of you at the same time get a message, a sending message in your head. \"Apologies for the late notice. Tomorrow, 9 Am. Imperial Palace.\"",
+        "",
+        "%% u1290:0-30 %%",
+        "Kenzo: This is from Tiberius, or from—",
+        "",
+        "%% u1291:0-9 %%",
+        "DM: Tiberius.",
+        "",
+        "%% u1292:0-5 %%",
+        "Delwath: Okay.",
+        "",
+        "%% u1293:0-116 %%",
+        "DM: Present yourself at the I mean, it's obvious with you. Present yourself at the gates, say you've got an appointment.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Cool. Alright. I mean, that's good information. Wellby is like starting to appreciate this guy despite himself. Have we ever met rulers without like serious issues? No?",
+          "DM: Well, I don't know. Sura, I guess, had some issues.",
+          "Wellby: Yeah.",
+          "DM: You haven't met that many rulers. Well, the King of the King of the Orcs didn't have any issues. He was pretty. He was a pretty good guy.",
+          "Wellby: He was great. He was great, all right. Well, we'll meet back, and anything else we want to know out here."
+        ],
+        "after": [
+          "DM: So you probably have a few hours before dinner, if there's anything else that you want to try and accomplish. But we could also, just you know, take a little bit of time to ask around about where to buy rings of fire resistance, and then move on to the morning.",
+          "Wellby: Yeah, that sounds good.",
+          "DM: Okay. So you get some leads on where to buy rings of fire resistance. Takes a few days to arrange, but should be possible to purchase price to be negotiated. But don't really have time to finish that negotiation now. As you return to the Barking Seal for dinner, and then sleep. Presumably. I guess all of you can crash at the Halfling Tavern, unless you want to go somewhere else.",
+          "Delwath: No, that's fine, I mean, do we have a plan for the Magistros tomorrow, and—",
+          "DM: This is what what dinner is for. If you want to make a plan."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i015",
+      "title": "Worker contacts compare the four families",
+      "entities": [
+        {
+          "id": "e036",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e037",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e038",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e039",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e002",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1331",
+        "endUid": "u1368"
+      },
+      "lines": [
+        "%% u1331:0-65, u1332:0-63 %%",
+        "Delwath: Do the can we, before dinner ask amongst our proletariat contacts if there's a family that's better or worse, like, do they have—",
+        "",
+        "%% u1333:0-15 %%",
+        "((Acknowledgement))",
+        "",
+        "%% u1334:0-62, u1335:0-37, u1336:0-66 %%",
+        "Delwath: Preferences amongst these 4 oligarchs? Is there one who's like always the nastiest and like the most right? Or is it like they don't even care, or know the difference?",
+        "",
+        "%% u1337:0-51, u1338:0-235 %%",
+        "DM: Yeah. So I mean, so there's 4 families. There's the Auratan, which is the Magistros' family, but mostly his 3rd cousins, some second cousins who—actually is pretty much exclusively 3rd cousins. There's the Veldari that you just heard about. There's the Patelios, and there's the Caloren.",
+        "",
+        "%% u1339:0-6 %%",
+        "((Acknowledgement))",
+        "",
+        "%% u1340:0-4, u1341:0-14, u1342:0-204, u1343:0-63, u1344:0-85, u1345:0-52, u1346:0-76 %%",
+        "DM: The—You know that you know. Kenzo swings back past his on your way back from the from the Nera estates. You're already on that side of the well. You have to cross over and then cross back, but you take a little. You take a you know, a rowboat, a few stops to go check in. And, you know ask around a bit in the slums, ask Andros and and Orsino what what they think. I mean. In a lot of ways. Nobody really cared that much like no family really stood out as being different than the rest except that the—",
+        "",
+        "%% u1347:0-74, u1348:0-87, u1349:0-110, u1350:0-34, u1351:0-97 %%",
+        "DM: So the Caloren and the Auratan families are sort of like the old families. And to the extent to which anybody cared, they were seen as the as the sort of like the you know, the Caloren family didn't didn't like, you know. They—they're always disdainful of the workers, but to the extent to which they made a deal they were—They didn't try and cheat you like. It's not like their factories were safe, but—",
+        "",
+        "%% u1352:0-12, u1353:0-8, u1354:0-23 %%",
+        "((Name clarification))",
+        "",
+        "%% u1355:0-56, u1356:0-105, u1357:0-87, u1358:0-101 %%",
+        "DM: The the Caloren and the Auratan are the 2, the 2 sort of I mean. The Auratan was the original oligarch, and the Caloren were like their close allies historically. And they're both like old patrician families, basically like they're sort of, you know the the workers are just there like, we're not actively cruel to them. We just don't care about them.",
+        "",
+        "%% u1359:0-13 %%",
+        "((Acknowledgement))",
+        "",
+        "%% u1360:0-111, u1361:0-12, u1362:0-153, u1363:0-61 %%",
+        "DM: Nobody had. The the Veldari family was by far the smallest. They didn't control very much of the chalyte trade. The Patelios had been building a ton of factories, and a lot of people died in actually in factory construction accidents and all of their new factories were all like rush jobs, and definitely the most unsafe working conditions.",
+        "",
+        "%% u1364:0-25 %%",
+        "Delwath: That was the the Caloren?",
+        "",
+        "%% u1365:0-9 %%",
+        "DM: Patelios.",
+        "",
+        "%% u1366:0-9, u1367:0-58, u1368:0-11 %%",
+        "Delwath: Patelios. I should look at the notes before I try and say the names. Okay, okay.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Can you scry? Actually, Tim Kenzo checks his rolodex. Was Fausto mind controlling any of these other 4 families? The oligarchs?",
+          "DM: No.",
+          "Kenzo: No way, he was not. That's interesting. I wonder why. I wonder if the oligarchs like have their own like, you know? Is it there is it like a sort of are, are the oligarch families like kind of the the you know. Do they have their own little mini mage guards that like protect them and shit like that their own little kind of security apparatuses, you know?",
+          "Delwath: Is there any—",
+          "DM: Possible. According to the tanshi, the Magistros has something that prevents his mind from being read even by the gods."
+        ],
+        "after": [
+          "DM: So after that stop, you regroup for dinner at the Barking Seal to make plans for your meeting with the Magistros tomorrow morning.",
+          "Kenzo: All right. So just to prep for that for a second. So as far as we know, the Magistros is basically kind of most in league with the Windcallers, and his like kind of power comes from that alliance. Right? All fair so far? The wind call—what's the what do we know about the Windcaller's relationships with the with the oligarch families, like what is Tiberius's vibe there?",
+          "DM: I think I mean, we know they don't like each other that he was like, they're totally like, They don't deserve to control this valuable resource.",
+          "Kenzo: Right? Right? And so do we do, we presume, do we? So we don't ever. So we we guess the Magistros, also is potentially anti the 4 families, the current controllers?",
+          "DM: Well, one of them is his family, but you know he's not close to his cousins."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i016",
+      "title": "Orsino and Red’s different answers to refinery work",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1377",
+        "endUid": "u1387"
+      },
+      "lines": [
+        "%% u1377:0-115, u1378:0-62, u1379:0-191, u1380:0-53 %%",
+        "Kenzo: Alright. Well, let's go. Let's let's let's I'm I'm curious to see where this all what the what the dynamic is here. I mean, I think. Wait! Oh, and actually, what's the what's the The working class perception of the the 4 families? Are they like fuck the fuck, these 4 families like these, these oligarchs? Is there like a class consciousness? Or are they like, you know like Red, and that is Red like fuck? The 4 oligarchs?",
+        "",
+        "%% u1381:0-30, u1382:0-94 %%",
+        "DM: Yeah, I mean, none of them are well, I mean, this is the whole debate, right? Like people like Orsino are are like, you know—",
+        "",
+        "%% u1383:0-25 %%",
+        "Kenzo: Yeah, we still need them.",
+        "",
+        "%% u1384:0-146, u1385:0-66 %%",
+        "DM: It would. It would nice. It would be nice to, you know, not risk dying in an explosion. But, like, you know, we need coin, and people like Red are just burn them all to the ground. We'll find something else to do.",
+        "",
+        "%% u1386:0-7 %%",
+        "((Acknowledgement))",
+        "",
+        "%% u1387:0-71 %%",
+        "DM: I mean, there is some skill involved in chalyte process, skilled labor.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: So after that stop, you regroup for dinner at the Barking Seal to make plans for your meeting with the Magistros tomorrow morning.",
+          "Kenzo: All right. So just to prep for that for a second. So as far as we know, the Magistros is basically kind of most in league with the Windcallers, and his like kind of power comes from that alliance. Right? All fair so far? The wind call—what's the what do we know about the Windcaller's relationships with the with the oligarch families, like what is Tiberius's vibe there?",
+          "DM: I think I mean, we know they don't like each other that he was like, they're totally like, They don't deserve to control this valuable resource.",
+          "Kenzo: Right? Right? And so do we do, we presume, do we? So we don't ever. So we we guess the Magistros, also is potentially anti the 4 families, the current controllers?",
+          "DM: Well, one of them is his family, but you know he's not close to his cousins."
+        ],
+        "after": [
+          "Kenzo: Yeah, I was just gonna ask, like, is this a thing where it's like, it's like, actually, what they would really want is still to have that industry there, but really take control of that industry as opposed to having it be this, like four oligarch, family?",
+          "DM: I mean, I think it's you know, it's clear that from the point of view of Chardon like, it's not clear. Some of them definitely think that right? It's not obvious that they like take pride in their work because the working conditions are generally so poor. But like there is a bit of a vibe right? Like I mean, they know everybody knows that like clean water comes from the fountains because of chalyte, right? You know, they hear stories of sickness in other cities, and they're like nobody in Chardon never gets sick from drinking water. Like there's there's like stones in most in most plazas where you can go, and you just touch the stone, and it cleans your clothes like there's a lot of magic in Chardon that's not present elsewhere that's almost exclusively powered by chalyte.",
+          "Kenzo: And okay, here's like another great thing. So in in the neighborhoods where where Kenzo grew up in the north, there are not like magic power fountains and fucking like that's that's all of that's automated. Magic is in the rich parts of town.",
+          "DM: Well, there wasn't. There was not when Kenzo was was growing up, but actually the fountain in the Foundry Market now is chalyte powered. It's just been trashed. But, like in the past couple of years, there has been more investment in the north bank. Not so much in the the like. The the worst slums, the like river, the slums that are like right up against the refineries where people like Red live that are outside the walls are still like pretty much barren from infrastructure. But the Chalyte Levels have seen you know, like they have. They have chalyte purified water. Now, they didn't when you were a kid.",
+          "Kenzo: Hmm."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i017",
+      "title": "The Magistros thanks the party and acknowledges Fausto’s deception",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1523",
+        "endUid": "u1550"
+      },
+      "lines": [
+        "%% u1523:0-43, u1524:0-74, u1525:0-81, u1526:0-102, u1527:0-62, u1528:0-65, u1529:0-48, u1530:0-66 %%",
+        "DM: He stands and he sort of motions for you to to sit, and and gives a little bow and starts by saying, I must apologize. I'm sorry, not only that it takes so long to meet you, but that you had to endure the questioning of Tiberius. You must understand that things are tricky right now, I have, to be sure. But based on what he said, I believe that the city, and indeed all people of the world, owe you quite a great debt of gratitude. So, before we speak, let me just say, thank you. Your deeds may not be widely publicized, but they are appreciated.",
+        "",
+        "%% u1531:0-68 %%",
+        "Kenzo: Thank you for acknowledging our efforts over these past many months.",
+        "",
+        "%% u1532:0-14 %%",
+        "Wellby: No, thank you.",
+        "",
+        "%% u1533:0-21 %%",
+        "Delwath: Yeah, you're welcome.",
+        "",
+        "%% u1534:0-70, u1535:0-8, u1536:0-86, u1537:0-87 %%",
+        "((Recollection of the meeting request))",
+        "",
+        "%% u1538:0-70, u1539:0-46, u1540:0-24, u1541:0-43, u1542:0-47, u1543:0-101, u1544:0-30, u1545:0-80, u1546:0-75, u1547:0-50, u1548:0-27, u1549:0-77 %%",
+        "Kenzo: So. Well, well, thank thank you for for acknowledging our efforts. And we also appreciate you for clearing our names. I think, as you know, we—Fausto was a great Nemesis of ours, and he, I know, took advantage of many here in Chardon and used very powerful magic through what we now understand was his corruption of the chalyte trade and created mimics of us, that did tremendous damage, and while it was not us, it was done in our our image. And I'm not sure if you know this, but I'm actually from Chardon. I'm from here. And this city means a lot to me, and I'm glad that while we were able to bring Fausto to justice, I appreciate you also for for clearing clearing our names.",
+        "",
+        "%% u1550:0-37 %%",
+        "DM: Well, we were all deceived by Fausto.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah, awesome. Okay. Let's do it. So back to the Magistros. So, Mike, while you're gone, the one thing that happened is, Kenzo tried to soul sight the Magistros and sees nothing at all.",
+          "DM: Okay.",
+          "Delwath: Fantastic.",
+          "DM: And he stands. And now Schwartz is gone. Maybe Schwartz can still hear us. Okay, awesome.",
+          "Wellby: Yeah."
+        ],
+        "after": [
+          "Kenzo: Indeed.",
+          "DM: Before we speak of other matters. I must also say, Delwath, I appreciate you sending a message to Marius Cusico. I received a visitor from the priests at the Hospital of the Mother who are attending to him this morning. He still has not spoken since that day his mind broke, but seemed to understand the words that were read to him at least, or his eyes flickered in acknowledgment when you mentioned others who had had time stolen from them by evil magic.",
+          "DM: I think in time he would appreciate a visit from you, and maybe it would help him. Strangely, they say the thing that seemed to calm him the most was a dwarven cleric who had stopped by to acquire some supplies. It is a challenge we face now the aftermath of this chaos. It seems the human mind is—struggles to accept being possessed for years on end. It is not so surprising to me. Do not think, were I possessed in such a way my mind would survive intact years of—I actually don't know what it must be like.",
+          "DM: So—",
+          "Wellby: Oh! Oh! I think—"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i018",
+      "title": "The Magistros coordinates care for Fausto’s victims",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e020",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e042",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e043",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e025",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e040",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e041",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e016",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e017",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1552",
+        "endUid": "u1651"
+      },
+      "lines": [
+        "%% u1552:0-77, u1553:0-35, u1554:0-106, u1555:0-59, u1556:0-74, u1557:0-54, u1558:0-48 %%",
+        "DM: Before we speak of other matters. I must also say, Delwath, I appreciate you sending a message to Marius Cusico. I received a visitor from the priests at the Hospital of the Mother who are attending to him this morning. He still has not spoken since that day his mind broke, but seemed to understand the words that were read to him at least, or his eyes flickered in acknowledgment when you mentioned others who had had time stolen from them by evil magic.",
+        "",
+        "%% u1559:0-72, u1560:0-77, u1561:0-59, u1562:0-58, u1563:0-26, u1564:0-53, u1565:0-30, u1566:0-44, u1567:0-37, u1568:0-43 %%",
+        "DM: I think in time he would appreciate a visit from you, and maybe it would help him. Strangely, they say the thing that seemed to calm him the most was a dwarven cleric who had stopped by to acquire some supplies. It is a challenge we face now the aftermath of this chaos. It seems the human mind is—struggles to accept being possessed for years on end. It is not so surprising to me. Do not think, were I possessed in such a way my mind would survive intact years of—I actually don't know what it must be like.",
+        "",
+        "%% u1569:0-3, u1570:0-16 %%",
+        "((Interrupted response))",
+        "",
+        "%% u1571:0-52, u1572:0-75, u1573:0-45, u1574:0-34 %%",
+        "DM: Perhaps the mercies of the priests of the Mother are what he needs right now. I hope that in time he will appreciate your words. And I appreciate you thinking of him. He was—he was a mentor to me in my youth.",
+        "",
+        "%% u1575:0-5, u1576:0-37, u1577:0-11 %%",
+        "Delwath: Yeah. Many in the city, I think, who suffer as he does.",
+        "",
+        "%% u1578:0-40, u1579:0-60, u1580:0-58, u1581:0-42, u1582:0-30, u1583:0-104 %%",
+        "DM: Yes, indeed. The priests have been—well. I have asked a lot of my priests in the past weeks, not only spending time trying to track down those all who are lost and at least provide them care and shelter at the Hospital of the Mother but tending to the outbreak of lycanthropy that seems to have spread through the city in the past weeks.",
+        "",
+        "%% u1584:0-7, u1585:0-11 %%",
+        "((Brief interruption))",
+        "",
+        "%% u1586:0-72 %%",
+        "Delwath: We've heard tell of that lycanthropy outbreak, but only but few details.",
+        "",
+        "%% u1587:0-4 %%",
+        "((Interrupted response))",
+        "",
+        "%% u1588:0-40, u1589:0-47, u1590:0-69, u1591:0-37, u1592:0-35, u1593:0-32, u1594:0-102 %%",
+        "DM: My priests tell me. It was caused by the bringing together of this plane and Pandemonium that caused great chaos in the Kylos Market, now nearly 2 months ago. And we missed it at 1st because well it was not a full moon at the time. And it was only weeks later that a few lycanthrope started spreading through the city. But of course lycanthropy spreads exponentially.",
+        "",
+        "%% u1595:0-51, u1596:0-68 %%",
+        "((Lycanthropy rules questions))",
+        "",
+        "%% u1597:0-82 %%",
+        "Kenzo: Yeah. But is it only through biting? Or is it also like viral, or through the air?",
+        "",
+        "%% u1598:0-31, u1599:0-104, u1600:0-17, u1601:0-32, u1602:0-24 %%",
+        "DM: No, only through biting saliva. In any case, I have asked much of my priests, and I hear they have not found nearly all of those who are so afflicted, for many of them seem insensate, and it is hard to find them.",
+        "",
+        "%% u1603:0-31, u1604:0-48, u1605:0-73, u1606:0-4 %%",
+        "DM: There is a strange coincidence. Many of those who we have uncovered seem to have been associated with the Chamber of Stamps and the Chalyte Control Board. Yay.",
+        "",
+        "%% u1607:0-17 %%",
+        "Delwath: The lycanthropes?",
+        "",
+        "%% u1608:0-32 %%",
+        "DM: No, the those with cursed minds.",
+        "",
+        "%% u1609:0-55 %%",
+        "Delwath: Yeah, sweet, we may be able to provide some help there.",
+        "",
+        "%% u1610:0-9 %%",
+        "Wellby: You know.",
+        "",
+        "%% u1611:0-64 %%",
+        "Delwath: We recovered from Fausto a list of everybody he was controlling.",
+        "",
+        "%% u1612:0-11, u1613:0-97, u1614:0-52 %%",
+        "DM: Impressive. He must have kept such information close to his person, for we found no such record in his tower. But then again, I guess you killed him, did you not?",
+        "",
+        "%% u1615:0-4 %%",
+        "Delwath: Yes.",
+        "",
+        "%% u1616:0-40, u1617:0-52 %%",
+        "DM: That would indeed be of great use to us. It would certainly simplify the work of the priests.",
+        "",
+        "%% u1618:0-75 %%",
+        "Kenzo: Sorry the priests who are trying to heal those that were under his control?",
+        "",
+        "%% u1619:0-4 %%",
+        "((Acknowledgement))",
+        "",
+        "%% u1620:0-71, u1621:0-54, u1622:0-92, u1623:0-106, u1624:0-11, u1625:0-44, u1626:0-75 %%",
+        "DM: Well, he's he's not sure how to heal them. Exactly, but what he's been—So there's this Hospital of the Mother, which is a big temple to the Mother, which is one of the Mos Numena gods, but also a hospital attached. And we've been just trying to relocate people who are often not able to feed themselves and sometimes starving at least to this hospital, so they can all be cared for and if it's possible to cure them, they will hopefully eventually be cured.",
+        "",
+        "%% u1627:0-51 %%",
+        "Kenzo: Do you have a treatment method for those that were—",
+        "",
+        "%% u1628:0-29, u1629:0-80 %%",
+        "DM: The only ones who have seemed able to speak are those who have been, who were controlled for less than a year.",
+        "",
+        "%% u1630:0-5 %%",
+        "((Acknowledgement))",
+        "",
+        "%% u1631:0-27 %%",
+        "DM: But there are few of those.",
+        "",
+        "%% u1632:0-90 %%",
+        "Delwath: Spoke to Gaspar earlier yesterday, assuring him of Fausto's demise, seemed to have helped.",
+        "",
+        "%% u1633:0-4 %%",
+        "((Acknowledgement))",
+        "",
+        "%% u1634:0-12, u1635:0-69 %%",
+        "DM: Interesting. I will perhaps have you speak to one of my priests before you depart.",
+        "",
+        "%% u1636:0-49, u1637:0-24, u1638:0-60, u1639:0-47, u1640:0-35, u1641:0-47, u1642:0-41 %%",
+        "Kenzo: Yeah, there were some techniques as well that I I I have some skills in in perceiving and engaging with the consciousness of people and I could see within Gaspar at least, the wounded kind of inner soul, as it were, and would be happy to speak with your priests about ways to more quickly heal those—recovery.",
+        "",
+        "%% u1643:0-10, u1644:0-10, u1645:0-109, u1646:0-25, u1647:0-22, u1648:0-48, u1649:0-87, u1650:0-25, u1651:0-21 %%",
+        "DM: He he—he—On the the arm of this sort of fancy chair not quite throne. He sort of picks up what looks like a small polished stone. Lifts it up, and he says: \"Please ensure that the priestess Floriana is available to speak with my—Delwath, Kenzo, and Wellby, who are here having an audience before they depart the palace. Have her waiting, please.\" Then he puts it down.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Well, I.",
+          "Delwath: I don't think we said anything about chalyte per se. Just we had information about the late events, right? And we wanted to explain why he thinks we were bad, did bad things.",
+          "Kenzo: So. Well, well, thank thank you for for acknowledging our efforts. And we also appreciate you for clearing our names. I think, as you know, we—Fausto was a great Nemesis of ours, and he, I know, took advantage of many here in Chardon and used very powerful magic through what we now understand was his corruption of the chalyte trade and created mimics of us, that did tremendous damage, and while it was not us, it was done in our our image. And I'm not sure if you know this, but I'm actually from Chardon. I'm from here. And this city means a lot to me, and I'm glad that while we were able to bring Fausto to justice, I appreciate you also for for clearing clearing our names.",
+          "DM: Well, we were all deceived by Fausto.",
+          "Kenzo: Indeed."
+        ],
+        "after": [
+          "Delwath: Do you—Do you know the full story of Apollyon?",
+          "DM: I'm not sure anybody knows the full story of Apollyon.",
+          "Delwath: Of Apollyon's demise, and what he was trying to do.",
+          "DM: We have recovered many records of the Cleansed. Indeed, some that suggest the organization dates back all the way to the last days of Drankor, when they called themselves the Omnis Pura.",
+          "Delwath: Yes."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i019",
+      "title": "Sharing Apollyon’s history and testing imperial nostalgia",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e045",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e044",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e051",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1652",
+        "endUid": "u1743"
+      },
+      "lines": [
+        "%% u1652:0-7, u1653:0-39 %%",
+        "Delwath: Do you—Do you know the full story of Apollyon?",
+        "",
+        "%% u1654:0-54 %%",
+        "DM: I'm not sure anybody knows the full story of Apollyon.",
+        "",
+        "%% u1655:0-51 %%",
+        "Delwath: Of Apollyon's demise, and what he was trying to do.",
+        "",
+        "%% u1656:0-47, u1657:0-137 %%",
+        "DM: We have recovered many records of the Cleansed. Indeed, some that suggest the organization dates back all the way to the last days of Drankor, when they called themselves the Omnis Pura.",
+        "",
+        "%% u1658:0-4, u1659:0-7 %%",
+        "((Acknowledgements))",
+        "",
+        "%% u1660:0-12, u1661:0-28, u1662:0-37, u1663:0-59, u1664:0-65, u1665:0-51, u1666:0-56, u1667:0-30 %%",
+        "DM: We know that 30—just about 30 years ago the Cleansed seemed to grow in power. We have not yet figured out what that might correlate with. I, of course, do not know the full story of your time in Drankor. I am not sure if you have told that to anybody, but we have learned what we can through questioning the gods so I know, some basic details.",
+        "",
+        "%% u1668:0-72, u1669:0-24, u1670:0-102 %%",
+        "((Brief metagame clarification))",
+        "",
+        "%% u1671:0-118, u1672:0-16 %%",
+        "Wellby: We should explain what we yeah. So I mean, I don't want to like role play that. But like we'll tell. I'll tell him the the whole story.",
+        "",
+        "%% u1673:0-101 %%",
+        "Delwath: The basic, pretty much the whole story. Everything you know about Apollyon, what he was trying to do.",
+        "",
+        "%% u1674:0-261 %%",
+        "((Metagame joke))",
+        "",
+        "%% u1675:0-63, u1676:0-67 %%",
+        "Delwath: I will mention that crown a little bit as one of the artifacts, but not mention who has it or what happened to it. I guess he asks.",
+        "",
+        "%% u1677:0-122, u1678:0-46 %%",
+        "DM: I mean, he clearly knows a reasonable amount about the crown, and Fausto's Tower had a lot of information about the crown. You know he hasn't personally studied it, but—",
+        "",
+        "%% u1679:0-5 %%",
+        "((Acknowledgement))",
+        "",
+        "%% u1680:0-76 %%",
+        "DM: Yeah, definitely. He's not a scholar right? Like he knows some details, but—",
+        "",
+        "%% u1681:0-42, u1682:0-57, u1683:0-99 %%",
+        "Delwath: But also tell them what we know about like where Apollyon came from, and Apollyon, sort of ultimate the the origins that we know of on this part of the idea that, like forever, we Drankorian sort of—",
+        "",
+        "%% u1684:0-13, u1685:0-40, u1686:0-46, u1687:0-14, u1688:0-94, u1689:0-70, u1690:0-40, u1691:0-139, u1692:0-20, u1693:0-15, u1694:0-15, u1695:0-88, u1696:0-17, u1697:0-106 %%",
+        "((Metagame discussion of gifts and disclosure))",
+        "",
+        "%% u1698:0-70, u1699:0-119, u1700:0-74 %%",
+        "Delwath: I'll notice that when I mentioned, you know, we flew across the ocean—these guys, looking strange, you know, like deflect the story a little bit. It's like, \"Yeah, there was. There was some—you know, we found Apollyon's tower, but I won't mention on what or where.\"",
+        "",
+        "%% u1701:0-126, u1702:0-55, u1703:0-41, u1704:0-22, u1705:0-12, u1706:0-179, u1707:0-78, u1708:0-9, u1709:0-12 %%",
+        "((Metagame debate about trust))",
+        "",
+        "%% u1710:0-70 %%",
+        "DM: The story goes on for a little while, you you tell them what you know.",
+        "",
+        "%% u1711:0-25, u1712:0-76, u1713:0-54 %%",
+        "Delwath: But hold up in particular does—I want to—One of the reasons for telling about all of Apollyon's dark Drankorian purism type stuff is to watch his reaction.",
+        "",
+        "%% u1714:0-8 %%",
+        "Kenzo: To what?",
+        "",
+        "%% u1715:0-22 %%",
+        "Delwath: To watch his reaction.",
+        "",
+        "%% u1716:0-3 %%",
+        "Kenzo: Oh!",
+        "",
+        "%% u1717:0-32, u1718:0-109 %%",
+        "Delwath: How upset is he like? Is he like \"White supremacy? Okay, as long as to keep it under the covers\"? Or is he like honestly like, \"Man, that was bad\"?",
+        "",
+        "%% u1719:0-17 %%",
+        "Wellby: Yeah, yeah, yeah.",
+        "",
+        "%% u1720:0-63 %%",
+        "Delwath: I mean, Kenzo would be better than Delwath picking up on this.",
+        "",
+        "%% u1721:0-121, u1722:0-19, u1723:0-3 %%",
+        "((Insight checks))",
+        "",
+        "%% u1724:0-13, u1725:0-30, u1726:0-7, u1727:0-59, u1728:0-32, u1729:0-73, u1730:0-101 %%",
+        "DM: Yeah, I mean he, yeah, he's definitely not—I mean, so a lot of things are mixed up here right? Like, you know the last Emperor of Drankor, who was actually turned into a lich and trapped in a temple by an evil dragon like, you know, he's definitely horrified by this entire story. There's not any sense that he's like—",
+        "",
+        "%% u1731:0-19 %%",
+        "((Brief interjection))",
+        "",
+        "%% u1732:0-262, u1733:0-79, u1734:0-63 %%",
+        "DM: \"Actually, that would have been good,\" right? You know. He says that like, you know, as you're talking as you're telling the story, like, you know. Clearly he's thought a little bit about about Drankor. And you actually, Kenzo, you get the vibe that actually, he's if anything, he's kind of sad about it right? He makes comments like, you know: \"At its best, Drankor lifted people up to live their best lives.\"",
+        "",
+        "%% u1735:0-54, u1736:0-86, u1737:0-96, u1738:0-63 %%",
+        "DM: And you know there's almost this undercurrent of like: you know, it collapsed in upon itself, and that was bad for the world. But it was bad. Not because Apollyon's machinations were good, but because Apollyon destroyed something that, or going way back to like the Civil War, destroyed something that—",
+        "",
+        "%% u1739:0-5 %%",
+        "((Brief interruption))",
+        "",
+        "%% u1740:0-114, u1741:0-32 %%",
+        "DM: Was actually pretty good. Like, there's some nostalgia there, but it's not for the Apollyon era. It's for like the the golden days before that Shh.",
+        "",
+        "%% u1742:0-35 %%",
+        "Kenzo: Alright! So we share all the stuff.",
+        "",
+        "%% u1743:0-11 %%",
+        "Wellby: Yeah, yeah.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Spoke to Gaspar earlier yesterday, assuring him of Fausto's demise, seemed to have helped.",
+          "Wellby: Hmm.",
+          "DM: Interesting. I will perhaps have you speak to one of my priests before you depart.",
+          "Kenzo: Yeah, there were some techniques as well that I I I have some skills in in perceiving and engaging with the consciousness of people and I could see within Gaspar at least, the wounded kind of inner soul, as it were, and would be happy to speak with your priests about ways to more quickly heal those—recovery.",
+          "DM: He he—he—On the the arm of this sort of fancy chair not quite throne. He sort of picks up what looks like a small polished stone. Lifts it up, and he says: \"Please ensure that the priestess Floriana is available to speak with my—Delwath, Kenzo, and Wellby, who are here having an audience before they depart the palace. Have her waiting, please.\" Then he puts it down."
+        ],
+        "after": [
+          "Kenzo: And then Kenzo been kind of pausing. How long has he been the Emperor again?",
+          "DM: 3 years.",
+          "Kenzo: Says that you know that I mentioned earlier that I was born here North Side and grew up, grew up pretty rough, and I want to know what is your opinion on the chalyte trade and its impact on the people, both inside and outside the walls?",
+          "DM: He looks. He sort of turns and looks at you and gets you know his. His expression turns a bit grim, and one reason I was interested in speaking with you is because perhaps you have a solution to these riots. I have been—I've been puzzling over the right approach here. Do not wish to—I do not wish anybody to die. But tens of thousands will die more if the chalyte refineries cannot restart.",
+          "Kenzo: Yeah, have you met with any of the leaders of the workers?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i020",
+      "title": "Two routes to reform: independent chalyte or a bribery heist",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e014",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e036",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e037",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e038",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e039",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e046",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e050",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e031",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e033",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e047",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e019",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1746",
+        "endUid": "u2065"
+      },
+      "lines": [
+        "%% u1746:0-54, u1747:0-87, u1748:0-43, u1749:0-49 %%",
+        "Kenzo: Says that you know that I mentioned earlier that I was born here North Side and grew up, grew up pretty rough, and I want to know what is your opinion on the chalyte trade and its impact on the people, both inside and outside the walls?",
+        "",
+        "%% u1750:0-53, u1751:0-50, u1752:0-103, u1753:0-12, u1754:0-48, u1755:0-15, u1756:0-29, u1757:0-35, u1758:0-41 %%",
+        "DM: He looks. He sort of turns and looks at you and gets you know his. His expression turns a bit grim, and one reason I was interested in speaking with you is because perhaps you have a solution to these riots. I have been—I've been puzzling over the right approach here. Do not wish to—I do not wish anybody to die. But tens of thousands will die more if the chalyte refineries cannot restart.",
+        "",
+        "%% u1759:0-23, u1760:0-34 %%",
+        "Kenzo: Yeah, have you met with any of the leaders of the workers?",
+        "",
+        "%% u1761:0-71 %%",
+        "DM: Leaders? Does not appear to me that there is a leadership to speak with.",
+        "",
+        "%% u1762:0-76, u1763:0-57, u1764:0-44, u1765:0-74 %%",
+        "Kenzo: There's some. I'm I'm heartened to hear your your interest in resolving this. My understanding. What we've learned is that the chalyte—the chalyte trade is controlled by primarily you know, 4 different families, the Auratan, the who are your your family—",
+        "",
+        "%% u1766:0-10 %%",
+        "DM: He smiles.",
+        "",
+        "%% u1767:0-39, u1768:0-101 %%",
+        "Kenzo: Veldari, the Patelios, and the Caloren. Do you have an opinion on these on how the chalyte trade is currently structured? And these families?",
+        "",
+        "%% u1769:0-46, u1770:0-32, u1771:0-32, u1772:0-45, u1773:0-7, u1774:0-57, u1775:0-35, u1776:0-46 %%",
+        "DM: He kind of leans back and he crosses his arms. The politics are indeed complex. There is a challenge. Of course. I could march the legions into the factories. I could summon the Curia and force them at sword point, or simply by not wishing to disobey my wishes to rewrite the rules for the chalyte monopoly.",
+        "",
+        "%% u1777:0-39, u1778:0-59, u1779:0-110, u1780:0-39, u1781:0-16, u1782:0-58 %%",
+        "DM: But what would that actually accomplish unless I'm prepared to march armies all the way to Voltara? What's going to happen if I do that? The northern provinces will declare themselves independent and break away. Perhaps war with Voltara is inevitable. But look around. I am afraid we are not in a good position to win that war.",
+        "",
+        "%% u1783:0-27 %%",
+        "Kenzo: And then where is the city?",
+        "",
+        "%% u1784:0-19, u1785:0-21, u1786:0-74, u1787:0-35, u1788:0-17 %%",
+        "DM: We have no chalyte. 6 months. Okay, fine. A year from now. 2 years from now, fountains start failing, famine, disease. A year later bridge ceases to rise. Trade is crushed.",
+        "",
+        "%% u1789:0-61, u1790:0-40, u1791:0-56, u1792:0-33, u1793:0-133, u1794:0-99 %%",
+        "DM: Yeah, we could probably find the older, less efficient magics we might be able to restore some things. City wasn't always powered by chalyte. We could go back. I would not have my rule known as as the years in which the city took a giant step back into the past, and everybody's standards of living decreased, while hundreds of maybe thousands, tens of thousands of people died from famine and sickness that could be prevented.",
+        "",
+        "%% u1795:0-103 %%",
+        "Kenzo: What is your but what is your opinion of these families, these other families, who control the chalyte?",
+        "",
+        "%% u1796:0-47, u1797:0-34 %%",
+        "DM: They are a bomb that must be handled carefully or they will blow up in your face.",
+        "",
+        "%% u1798:0-126 %%",
+        "Kenzo: Are? They are the 4 families. Are they cooperating together? Are they competing with each other? What are those dynamics like?",
+        "",
+        "%% u1799:0-48 %%",
+        "DM: They certainly operate as one bloc in the Curia.",
+        "",
+        "%% u1800:0-25, u1801:0-25 %%",
+        "((Brief metagame question))",
+        "",
+        "%% u1802:0-137 %%",
+        "DM: So this is the Curia 42, the like elect—semi-elected council, but where? It seems clear that there's at least some vote buying, going on.",
+        "",
+        "%% u1803:0-3 %%",
+        "((Acknowledgement))",
+        "",
+        "%% u1804:0-113, u1805:0-42, u1806:0-77, u1807:0-224 %%",
+        "DM: That they're the ones who, officially, according to the bureaucracy, have the power to sell the chalyte monopoly. So they're officially the ones who license who is allowed to sell chalyte, which is exactly what empowers the oligarchs. Because currently the 4 families are the only ones who have the chalyte monopoly. Nobody else can sell chalyte in any form except the final process, and this is the whole, like bribery and kickbacks to the Hetaeri Magica to—",
+        "",
+        "%% u1808:0-5 %%",
+        "Kenzo: Yeah.",
+        "",
+        "%% u1809:0-59 %%",
+        "DM: Ensure both the seller's monopoly and the buyer's monopoly.",
+        "",
+        "%% u1810:0-44 %%",
+        "Kenzo: And how's the relationship with your family?",
+        "",
+        "%% u1811:0-41, u1812:0-33 %%",
+        "DM: I've not spoken to most of them in years. Honestly, I find them provincial.",
+        "",
+        "%% u1813:0-53 %%",
+        "Kenzo: Despite your current status, they've not reached out?",
+        "",
+        "%% u1814:0-45, u1815:0-28 %%",
+        "DM: Oh, they reach out every day. I have letters. Why should I do them favors?",
+        "",
+        "%% u1816:0-41, u1817:0-102, u1818:0-62, u1819:0-39, u1820:0-79, u1821:0-84, u1822:0-79, u1823:0-69 %%",
+        "Kenzo: So let me ask. I mean, if it's not clear. My perspective is representing those on on either side of the wall, and then that's what I care about. I'm heartened to hear that you seem open to solutions that can restore order, but also hopefully here—what I would love to see is just better lives for those there that they've got—they're going to do this work, that they also should be benefiting from the chalyte, that they also should have power and agency over their lives. And what unfolds. That's what that's what I care about. That's what we care about here.",
+        "",
+        "%% u1824:0-28 %%",
+        "Kenzo: What's his reaction to that?",
+        "",
+        "%% u1825:0-28, u1826:0-29, u1827:0-28 %%",
+        "DM: Kind of gives you a sort of you know, raises his eye like: \"We all wish for nice things.\"",
+        "",
+        "%% u1828:0-112, u1829:0-22 %%",
+        "Kenzo: Well, the difference between wishing for nice things and making them happen is you can make those things happen. You share that vision?",
+        "",
+        "%% u1830:0-42 %%",
+        "DM: Northbank has never been good at politics.",
+        "",
+        "%% u1831:0-16 %%",
+        "Kenzo: But do you care?",
+        "",
+        "%% u1832:0-5, u1833:0-31, u1834:0-15, u1835:0-46, u1836:0-105, u1837:0-87, u1838:0-77, u1839:0-32 %%",
+        "DM: This—No, I he sort of stops himself. The the Empire is more than any one small bloc of its people. The Empire is what lets everybody across this entire coast of the world live their lives in peace without being destroyed by hobgoblin raiders from the hills, or undead from the Crimson Forest or monsters from the depths of the Nevos Sea, or incursions from the 9 hells. I will not sacrifice the empire.",
+        "",
+        "%% u1840:0-38, u1841:0-112 %%",
+        "Kenzo: Did I ask you to sacrifice the empire? I asked you if you were aligned with the vision of ensuring power, agency, and justice for those in those areas.",
+        "",
+        "%% u1842:0-49 %%",
+        "DM: If it can be done without sacrificing the Empire.",
+        "",
+        "%% u1843:0-58 %%",
+        "Kenzo: Why would you assume that doing that would sacrifice them?",
+        "",
+        "%% u1844:0-34 %%",
+        "DM: Where is chalyte gonna come from?",
+        "",
+        "%% u1845:0-31 %%",
+        "Kenzo: Still come from the same place.",
+        "",
+        "%% u1846:0-40, u1847:0-43 %%",
+        "DM: Not if—not if we—the mining families—were you not listening to what I just said?",
+        "",
+        "%% u1848:0-48 %%",
+        "Kenzo: Of course I was listening to what you just said.",
+        "",
+        "%% u1849:0-26, u1850:0-7, u1851:0-126, u1852:0-64 %%",
+        "DM: He sort of takes a breath. Sorry I—do not mean to be short with you. I've spent many hours pondering this problem, and it's a needle that is difficult to thread. Because if I antagonize those families, they have power over us.",
+        "",
+        "%% u1853:0-61, u1854:0-65, u1855:0-89, u1856:0-57, u1857:0-23, u1858:0-54, u1859:0-54 %%",
+        "DM: Unless we can find a new chalyte supply independent from them, have to be careful about antagonizing them, because I do not know that we can control Voltara, even if you volunteer to fly your mythical ship to the north and rain down destruction on the city unless they submit. I am not sure that with the legions and with everything happening in the city I can project power that far and keep chalyte flowing.",
+        "",
+        "%% u1860:0-71, u1861:0-59, u1862:0-39, u1863:0-5 %%",
+        "((Metagame geography question))",
+        "",
+        "%% u1864:0-55, u1865:0-101 %%",
+        "DM: It's it's 1,000 miles as the crow flies, but but longer in terms of physical distance. And it's it's inland. So it's not. It can't be controlled by the Navy.",
+        "",
+        "%% u1866:0-3 %%",
+        "((Interrupted response))",
+        "",
+        "%% u1867:0-53 %%",
+        "Delwath: Are there? Are there other buyers they could sell to?",
+        "",
+        "%% u1868:0-55, u1869:0-29, u1870:0-46, u1871:0-83, u1872:0-36, u1873:0-96, u1874:0-105, u1875:0-70, u1876:0-37, u1877:0-52 %%",
+        "DM: I mean, of course, the only thing stopping them is—well, chalyte refining is not easy. It requires ideally plentiful sources of heat. We have extensive forests. So charcoal is not a problem. Voltara is not so blessed. But there are other solutions there. There's stone that can be mined from the mountains and burned produces great heat, or who knows? Venture further north? There's all kinds of possibilities. There's volcanoes. There's—chalyte refining is easier in Chardon because we have the infrastructure and the knowledge. It is not impossible to do elsewhere. That is not the leverage that it might appear to be.",
+        "",
+        "%% u1878:0-64, u1879:0-49 %%",
+        "Kenzo: So, but fundamentally the source of the chalyte is in the north and it is currently controlled by these families.",
+        "",
+        "%% u1880:0-8 %%",
+        "DM: Exactly.",
+        "",
+        "%% u1881:0-23, u1882:0-32 %%",
+        "Kenzo: In your ideal scenario, what would the system look like?",
+        "",
+        "%% u1883:0-56 %%",
+        "DM: I do not waste much time considering impractical ideals.",
+        "",
+        "%% u1884:0-32, u1885:0-22 %%",
+        "Kenzo: Well, you're now talking with 3—Yeah, yeah, you're we—",
+        "",
+        "%% u1886:0-79 %%",
+        "DM: Perhaps that's true. There is a lot that maybe one could. You could accomplish.",
+        "",
+        "%% u1887:0-25, u1888:0-141, u1889:0-258, u1890:0-146 %%",
+        "Kenzo: My point is simple. Okay. A year ago I would never ask these types of questions, but seeing what I've seen now, and going through what we've gone through collectively, my view is, why don't we go try to imagine the world that we want, and let's go make that happen. If there is a way that we can create a more just system for chalyte, where the politics are rearranged in some fashion the people in the North have benefit, and you know, perhaps we can all win here. But what would that look like? You know the politics of the North? We don't know the politics of the North.",
+        "",
+        "%% u1891:0-4, u1892:0-9, u1893:0-111, u1894:0-25, u1895:0-74 %%",
+        "DM: Wow. We're it—My friend Tiberius, of course, is always telling me the Windcallers should be in charge of chalyte production. They would run it safely. I suspect that would be better for your friends on the north bank as well.",
+        "",
+        "%% u1896:0-190 %%",
+        "Kenzo: Well, yes and no. I mean, if the chalyte industry removed and the refining process removed from the north, then what would they do? What would their livelihoods be? What would their jobs be?",
+        "",
+        "%% u1897:0-34 %%",
+        "DM: No, I think the Windcallers would—",
+        "",
+        "%% u1898:0-27 %%",
+        "Kenzo: Would still work with them?",
+        "",
+        "%% u1899:0-86 %%",
+        "DM: If there was a if we had another source of chalyte that wasn't from the Voltara mines—",
+        "",
+        "%% u1900:0-12 %%",
+        "Kenzo: Interesting.",
+        "",
+        "%% u1901:0-44, u1902:0-50, u1903:0-92 %%",
+        "DM: Then the oligarchs, 4 families would have no money to buy votes and win elections in the Curia. There's no reason to think the Windcallers couldn't propose a different rule for monopolies.",
+        "",
+        "%% u1904:0-48 %%",
+        "Kenzo: Have you tried to find other sources of chalyte?",
+        "",
+        "%% u1905:0-8 %%",
+        "DM: We have.",
+        "",
+        "%% u1906:0-9 %%",
+        "Kenzo: Any luck?",
+        "",
+        "%% u1907:0-6 %%",
+        "DM: Maybe.",
+        "",
+        "%% u1908:0-20 %%",
+        "Kenzo: Do you say it's not—",
+        "",
+        "%% u1909:0-76, u1910:0-86, u1911:0-28, u1912:0-92, u1913:0-36, u1914:0-32, u1915:0-56, u1916:0-60, u1917:0-48, u1918:0-73, u1919:0-75 %%",
+        "DM: There was an expedition before my time, early in my aunt's rule as Magistros to the what the—you—what the Dunmari call the Chataan Mountains, near north of Darba, southern edge of the Empire. The much of the Yeraad River valley had fallen under the protection of our imperial borders and as we pushed into the mountains—many of the details are actually—well, perhaps, are recorded somewhere in the University. The Chardonian legions came face to face with a foe, a giant that seemed to wield chalyte magic against them and at the time did not seem worth the effort or the expense of trying to infiltrate or destroy this emperor of giants who seemed to control chalyte.",
+        "",
+        "%% u1920:0-70 %%",
+        "DM: We have long suspected that there is chalyte in the Chataan Mountains.",
+        "",
+        "%% u1921:0-24, u1922:0-104, u1923:0-18 %%",
+        "((Geography clarification))",
+        "",
+        "%% u1924:0-10, u1925:0-36, u1926:0-36, u1927:0-18, u1928:0-81, u1929:0-48, u1930:0-52, u1931:0-90, u1932:0-16, u1933:0-45, u1934:0-43, u1935:0-73, u1936:0-42, u1937:0-68 %%",
+        "DM: That said, there is, I believe, another option. Again, that might require your help. That might not be—It might not lead to quite the ideal system, but I think would allow the politics of the chalyte trade to be upended in a way that leaves the families in the North a way to save face. I've long suspected that one or more of the 4 families have been buying votes in the Curia for a long time. The south bank there are, as you may know, 42 council members of the Curia, and only only 6 precincts on the north bank. Sorry, only 5 precincts on the north bank, so if the South were unified against them there's no reason why a new arrangement could not be pushed through.",
+        "",
+        "%% u1938:0-57, u1939:0-44, u1940:0-64, u1941:0-56, u1942:0-54, u1943:0-50, u1944:0-38, u1945:0-44, u1946:0-108, u1947:0-68, u1948:0-61 %%",
+        "DM: But to do that in a way that does not fracture the Empire—cannot risk the northern provinces without a confirmed, reliable source of chalyte, but I believe evidence of bribery and vote buying by one of the 4 families, ideally the smallest one of the 4 families, one that could be—the other 3 could be convinced to kick to the curb could be presented in such a way as to allow the oligarchs to retain some benefits, but be forced to accept a fair arrangement, one that would perhaps break the control of the Voltara families of the refinery trade, while leaving them in possession of the mines by arranging for the sale of the monopoly to the Windcallers.",
+        "",
+        "%% u1949:0-46 %%",
+        "Kenzo: But this would have to be done very carefully.",
+        "",
+        "%% u1950:0-51 %%",
+        "DM: We would need incontrovertible evidence of bribery.",
+        "",
+        "%% u1951:0-51, u1952:0-15, u1953:0-11, u1954:0-14 %%",
+        "((Table attention check))",
+        "",
+        "%% u1955:0-31, u1956:0-145, u1957:0-10, u1958:0-157, u1959:0-87, u1960:0-44, u1961:0-100, u1962:0-37, u1963:0-75, u1964:0-41, u1965:0-90, u1966:0-45, u1967:0-59 %%",
+        "Kenzo: ((Metagame comparison of possible adventures)) So in in game, Kenzo has been listening to this whole whole thing and says this is all very interesting intriguing, and you know I've been very plain, and I know you have to think about the Empire, and all of these other more—these larger, larger view items. But you understand where we come from in terms of who we're advocating for. And I think we could come to an agreement if we go and discover this other source of chalyte, and can bring that into under control. I think I would be open, and we would be open to helping to establish a new chalyte refinery process. But.",
+        "",
+        "%% u1968:0-33, u1969:0-120, u1970:0-244, u1971:0-3, u1972:0-197, u1973:0-52, u1974:0-95, u1975:0-82, u1976:0-30, u1977:0-45 %%",
+        "Kenzo: My my stipulations here would be: there is a leadership that is emerging amongst the workers in the North, beyond and above, beyond, and within the walls. And there is some organizing that's happening amongst those folks, and they would need to be leaders. And at the table here, as a part of this larger process, with the Windcallers they could handle the refiner—they could handle the refinement. But the benefits of that chalyte would need to be felt in those neighborhoods. The people there would have to have dignity would have to have some control, and some say so that the conditions could be you know, not just dignified, but also really really allowing the prosperity of chalyte and the prosperity of Chardon to be felt in a meaningful way if that could be done, and if you could provide assurances that that would happen, I think we could go and handle getting access to this new source of chalyte.",
+        "",
+        "%% u1978:0-37 %%",
+        "DM: I happily speak, for the Windcallers.",
+        "",
+        "%% u1979:0-34 %%",
+        "((Repeated question))",
+        "",
+        "%% u1980:0-95, u1981:0-78, u1982:0-77, u1983:0-39 %%",
+        "DM: I will happily speak for the Windcallers, and promise on their behalf, that should the monopoly on chalyte be granted to them, they will negotiate with whomever the people of the Chalyte Levels and the riverside elect as their representatives to ensure fair wages and safe working conditions.",
+        "",
+        "%% u1984:0-39, u1985:0-106, u1986:0-69, u1987:0-55, u1988:0-60, u1989:0-82, u1990:0-51, u1991:0-54, u1992:0-8, u1993:0-126, u1994:0-46 %%",
+        "DM: I will, furthermore—I do not know what the Chalyte Levels were like when you grew up, but until this recent disruption we had finished installing chalyte purified water across the entire north bank inside the walls. And I have been negotiating with several of my cousins who own large swaths of the land in the extramural precincts on where to place, and who will pay for chalyte maintenance of new water and sewer to be installed in Riverside and the basin as well. We'll say those negotiations have not been going well. It seems my cousins refuse to pay even minimal fees to ensure that the people who live on their land do not die of sickness which seems both immoral and terribly short-sighted to me.",
+        "",
+        "%% u1995:0-3, u1996:0-124 %%",
+        "DM: But if I control the chalyte mines that you find for me—he's smiling now—in the Chataan Mountains, I can kick them to the curb.",
+        "",
+        "%% u1997:0-142 %%",
+        "Kenzo: Yeah, you would need to do that, because I think as a part of this agreement, the ownership of those lands would need to return to the people.",
+        "",
+        "%% u1998:0-101, u1999:0-63, u2000:0-19, u2001:0-56, u2002:0-95, u2003:0-32, u2004:0-68 %%",
+        "DM: Well, if, as I predict, the cost of this endeavor is the northern provinces breaking from the empire then by default, all that land will become the imperial domain. It's not a problem. I will give it to you, Kenzo, to do with as you see fit. Should you bring me a new source of chalyte, I will grant you all the lands currently possessed within the precincts of Chardon by the 4 oligarch families for you to dispose of, as you would wish.",
+        "",
+        "%% u2005:0-8 %%",
+        "((Brief reaction))",
+        "",
+        "%% u2006:0-72 %%",
+        "DM: But you must establish a reliable, independent source of chalyte for me.",
+        "",
+        "%% u2007:0-51, u2008:0-44, u2009:0-149 %%",
+        "Kenzo: ((Player laughter)) Give us all the information you have about these these giants, everything we want to know, everything that you you can, and any detail you can spare.",
+        "",
+        "%% u2010:0-19 %%",
+        "DM: I am not a scholar.",
+        "",
+        "%% u2011:0-160, u2012:0-24 %%",
+        "Kenzo: That's fine. Tell us, give us, give us what point us to whomever you have. Yeah, whatever experts you have, whatever artifacts lore, tell us tell us everything. Not right now, but just.",
+        "",
+        "%% u2013:0-28, u2014:0-40, u2015:0-8, u2016:0-29 %%",
+        "DM: Yeah, he's thinking, I will—I will prepare some information for you. You may—It may take a couple of days.",
+        "",
+        "%% u2017:0-26 %%",
+        "Kenzo: Fine. We're not in a rush.",
+        "",
+        "%% u2018:0-26, u2019:0-66 %%",
+        "DM: You are not in a rush, but do not think this situation is going to be stable for much longer.",
+        "",
+        "%% u2020:0-92, u2021:0-23, u2022:0-61 %%",
+        "Kenzo: We will move with haste. As soon as we get the information we need, we will move urgently to address this situation. ((Travel-distance question))",
+        "",
+        "%% u2023:0-16, u2024:0-92, u2025:0-8, u2026:0-15, u2027:0-11 %%",
+        "((Future flight estimate))",
+        "",
+        "%% u2028:0-61, u2029:0-29, u2030:0-109, u2031:0-50, u2032:0-103, u2033:0-35, u2034:0-21, u2035:0-113, u2036:0-78 %%",
+        "DM: He. He pauses for a moment. This this is a risky undertaking. I am fully cognizant of your abilities, and, as already expressed, I am greatly appreciative of your ability to, well, destroy powerful evil that has threatened all of the peoples of Taelgar. But remember, this is a danger that the might of the Chardonian legions decided was not worth the risk. And I will, just before you commit: are you sure a little light infiltration would not be preferable? I know it maybe leaves the world, in not a perfect state as you wish, but you know, break into one of these oligarchs' mansions, steal some evidence.",
+        "",
+        "%% u2037:0-15 %%",
+        "((Brief response))",
+        "",
+        "%% u2038:0-49 %%",
+        "DM: Just leaving it as an option for you to consider.",
+        "",
+        "%% u2039:0-7 %%",
+        "((Interrupted response))",
+        "",
+        "%% u2040:0-19, u2041:0-96 %%",
+        "DM: Of course, I think should you go find this new chalyte mine, Chardon will be better off, even if we lose the North.",
+        "",
+        "%% u2042:0-156 %%",
+        "Kenzo: Oh, sorry! I thought you needed both those things to be true. I thought I thought you needed the evidence, and then also the the new source of chalyte. But—",
+        "",
+        "%% u2043:0-93, u2044:0-38, u2045:0-68, u2046:0-79 %%",
+        "DM: Oh, no! If I have a if I have a source of chalyte fully under the control of the Windcallers, I I will sacrifice the North for that. The oligarchs have been a thorn in my side since I've been in power. Now some of that, maybe, was Fausto manipulating things behind the scenes, but.",
+        "",
+        "%% u2047:0-3, u2048:0-106 %%",
+        "Kenzo: So—But in this latter case to go infiltrate the North. If we found this evidence, then how would you proceed?",
+        "",
+        "%% u2049:0-25 %%",
+        "DM: If there's evidence that—",
+        "",
+        "%% u2050:0-20 %%",
+        "Kenzo: Evidence of bribery.",
+        "",
+        "%% u2051:0-44, u2052:0-59, u2053:0-46, u2054:0-80 %%",
+        "DM: The smallest of the 4 families, the Veldari. If there's a way that they can be set up to take the blame, I think I can convince at least my cousins and the Calorens, who have usually followed my family's lead, to turn on the Veldari.",
+        "",
+        "%% u2055:0-16 %%",
+        "Kenzo: And in doing so—",
+        "",
+        "%% u2056:0-49, u2057:0-66, u2058:0-73, u2059:0-82, u2060:0-105, u2061:0-85, u2062:0-109, u2063:0-91, u2064:0-70, u2065:0-83 %%",
+        "DM: And in doing so convince the Curia to renegotiate a deal. Now the cost of this, in order to let everybody save face, probably need to make it look like it's the Veldari family working alone. And I will not be able to give you all the land that belongs to the oligarchs, but think we can force through contract requirements at least something as simple as if you can convince your friends in the Chalyte Levels to organize themselves into a guild of chalyte workers. A simple rule requiring chalyte, chalyte refineries only be staffed by members of the Chalyte refiners' guild gives your worker friends a great deal of power over their conditions, because there is no—I will certainly send the legions to enforce the law if necessary, but do not think under this situation we can upend the property structure of the North.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Was actually pretty good. Like, there's some nostalgia there, but it's not for the Apollyon era. It's for like the the golden days before that Shh.",
+          "Kenzo: Alright! So we share all the stuff.",
+          "Wellby: Yeah, yeah.",
+          "Kenzo: And then Kenzo been kind of pausing. How long has he been the Emperor again?",
+          "DM: 3 years."
+        ],
+        "after": [
+          "Kenzo: Metagame. If we had Riswynn and Seeker, we, the 5 of us, should totally go take on these fucking like chalyte giants like we killed fucking. We killed Fausto. We killed, you know. We killed fucking Apollyon.",
+          "DM: Metagame like you could totally do either one. It's just a question of whether you want to go fight giants in the mountains, or do a heist. I wouldn't worry about like it being too hard like.",
+          "Kenzo: Okay. Okay, okay, yeah. I'm just saying it'd be like, because fighting giants in the mountains means that the people get full control of the lands.",
+          "Delwath: I'm—I would—we should add, okay, in the interest of wrapping up and making the bit of decision and doing a few last things we should thank the Emperor. Tell him, you know we need a day to see what information he has. Yeah, right it would be. It would be irresponsible, you know we can't just—",
+          "Kenzo: Decide right. This second, give, give us a day."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i021",
+      "title": "The players choose the giant expedition",
+      "entities": [
+        {
+          "id": "e046",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2127",
+        "endUid": "u2143"
+      },
+      "lines": [
+        "%% u2127:0-128 %%",
+        "Kenzo: Totally. Totally. But this is this is what we want. I think this is this is, I think, fuck the heist. Let's go kill some giants.",
+        "",
+        "%% u2128:0-8 %%",
+        "Delwath: Alright!",
+        "",
+        "%% u2129:0-42 %%",
+        "Kenzo: Are you? Are you good with killing giants?",
+        "",
+        "%% u2130:0-82 %%",
+        "Wellby: I? Yeah, I'm all. Let's go redraw the borders of the Chardonian Empire. I love it.",
+        "",
+        "%% u2131:0-245, u2132:0-46, u2133:0-7, u2134:0-23, u2135:0-17, u2136:0-23, u2137:0-111, u2138:0-19, u2139:0-4, u2140:0-210 %%",
+        "((Metagame jokes about future land ownership))",
+        "",
+        "%% u2141:0-34 %%",
+        "Kenzo: You guys down to kill some giants?",
+        "",
+        "%% u2142:0-5 %%",
+        "Delwath: Yeah.",
+        "",
+        "%% u2143:0-12 %%",
+        "Wellby: Let's do it.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I, but we got to be pretty careful about what we tell them, because—",
+          "Kenzo: Oh, we're not gonna tell shit we can't—",
+          "Delwath: Spies. I mean anything we say, spreads.",
+          "Kenzo: We're not. We're not telling anybody shit about anything. This is all—all, you know. We express that to the Emperor this has to be done with the utmost discretion on both sides. And if we feel, if we sense that there's any any—yeah, this just has to be, this is total trust right now that we're—",
+          "DM: I mean. And your sense is like he's okay with the heist plan. But, like clearly based on the fact that he's willing to offer Kenzo a huge amount of land, he would be really happy to just hand over a chalyte source directly to the Windcallers."
+        ],
+        "after": [
+          "DM: Okay, so it's, I think we should stop. We should stop here. This is a perfect spot to stop. So next time, which is not—which is for a month—in a month. But what I'm gonna do this is counting on you, maybe not actually reading what I send you, but at least having some notes that you can skim at the beginning of the session. What I'm going to do is I'm gonna send you the packet of information about the giants that he's going to prepare over the next couple of days in Chardon.",
+          "Wellby: Awesome.",
+          "DM: By email at some point when I write it.",
+          "DM: And then we can pick up cause like I'm you know, it's fine to stretch this out right, but I don't want this to go till September, because we've got—",
+          "Kenzo: Yeah. We we I mean, it's as long as you want. We could kill the giants. It's how, how complex do you want the fight?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

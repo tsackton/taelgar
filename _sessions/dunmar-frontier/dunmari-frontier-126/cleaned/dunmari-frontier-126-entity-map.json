@@ -1,0 +1,2032 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-126/cleaned/dunmari-frontier-126-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "b5ff9d9dda3cc847fac4032caf5aab914d03a0d9c82ddd028add504b87464f17",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "0aa7fcd142e96cfeeddebdb0e6b66cfc0c5c7c05316658dce8b39b5be697d80d",
+        "transcriptProcessing.artifacts.cleaned": "c55219518278e4ebf42a09f2cd44da35ae7f9e41c747b03dfee15791095c4311"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "label": "Tiberius",
+      "kind": "npc",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0005",
+            "endUid": "u0010"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0077",
+            "endUid": "u0112"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0234",
+            "endUid": "u0255"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1284",
+            "endUid": "u1293"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1891",
+            "endUid": "u1899"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Tiberius.md",
+      "confidenceExplanation": "The retrospective political account and current Sending favor supporting importance, though most of his involvement is indirect."
+    },
+    {
+      "id": "e002",
+      "label": "Mitus Auratan, the Magistros",
+      "kind": "npc",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0029",
+            "endUid": "u0034"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1198",
+            "endUid": "u1273"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1523",
+            "endUid": "u1533"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1552",
+            "endUid": "u1651"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1724",
+            "endUid": "u1741"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1746",
+            "endUid": "u1859"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1891",
+            "endUid": "u2006"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2028",
+            "endUid": "u2065"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Mitus Verina Auratan.md",
+      "names": [
+        "Mitus Auratan",
+        "Magistros",
+        "Emperor"
+      ]
+    },
+    {
+      "id": "e003",
+      "label": "Seeker Three",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0011",
+            "endUid": "u0028"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2179",
+            "endUid": "u2181"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Seeker 3"
+      ]
+    },
+    {
+      "id": "e004",
+      "label": "Seeker Prime",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0011",
+            "endUid": "u0028"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0177",
+            "endUid": "u0179"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2066",
+            "endUid": "u2067"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Seeker.md",
+      "names": [
+        "Seeker"
+      ]
+    },
+    {
+      "id": "e005",
+      "label": "Faldrak",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0011",
+            "endUid": "u0027"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dwarves/Faldrak Bronzehammer.md"
+    },
+    {
+      "id": "e006",
+      "label": "Xavier",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0035",
+            "endUid": "u0038"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1413",
+            "endUid": "u1415"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Xavier.md"
+    },
+    {
+      "id": "e007",
+      "label": "Adina",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0035",
+            "endUid": "u0038"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Adina.md"
+    },
+    {
+      "id": "e008",
+      "label": "Red",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0035",
+            "endUid": "u0060"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0621",
+            "endUid": "u0627"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1381",
+            "endUid": "u1385"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1394",
+            "endUid": "u1411"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2095",
+            "endUid": "u2101"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Iveila the Red.md"
+    },
+    {
+      "id": "e009",
+      "label": "Orsino",
+      "kind": "npc",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0039",
+            "endUid": "u0045"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1340",
+            "endUid": "u1368"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1381",
+            "endUid": "u1405"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Orsino.md"
+    },
+    {
+      "id": "e010",
+      "label": "Andros",
+      "kind": "npc",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0046",
+            "endUid": "u0051"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1340",
+            "endUid": "u1346"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Andros.md"
+    },
+    {
+      "id": "e011",
+      "label": "Eightfold Flame",
+      "kind": "organization",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0035",
+            "endUid": "u0051"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0266",
+            "endUid": "u0290"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0617",
+            "endUid": "u0627"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1968",
+            "endUid": "u1983"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Chardonian Organizations/Eightfold Flame.md"
+    },
+    {
+      "id": "e012",
+      "label": "Abolitionists",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0046",
+            "endUid": "u0051"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e013",
+      "label": "Windcallers",
+      "kind": "organization",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0095",
+            "endUid": "u0161"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0234",
+            "endUid": "u0255"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1891",
+            "endUid": "u1903"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1980",
+            "endUid": "u1983"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2043",
+            "endUid": "u2046"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Chardonian Organizations/Windcallers.md"
+    },
+    {
+      "id": "e014",
+      "label": "Curia of 42",
+      "kind": "organization",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0204",
+            "endUid": "u0215"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1799",
+            "endUid": "u1809"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1924",
+            "endUid": "u1950"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2051",
+            "endUid": "u2065"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Chardonian Organizations/Curia of 42.md",
+      "names": [
+        "Council of 42",
+        "Curia"
+      ]
+    },
+    {
+      "id": "e015",
+      "label": "Hetaeri Magica",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0198",
+            "endUid": "u0226"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0234",
+            "endUid": "u0248"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0569",
+            "endUid": "u0571"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0733",
+            "endUid": "u0736"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Chardonian Organizations/Hetaeri Magica.md"
+    },
+    {
+      "id": "e016",
+      "label": "Chamber of Stamps",
+      "kind": "organization",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0234",
+            "endUid": "u0267"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0299",
+            "endUid": "u0321"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0908",
+            "endUid": "u0911"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1070",
+            "endUid": "u1077"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1603",
+            "endUid": "u1626"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Chardonian Organizations/Chamber of Stamps.md"
+    },
+    {
+      "id": "e017",
+      "label": "Chalyte Control Board",
+      "kind": "organization",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0499",
+            "endUid": "u0510"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0798",
+            "endUid": "u0824"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0908",
+            "endUid": "u0911"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The transcript distinguishes this board from its parent Chamber, although informal council labels vary within the discussion.",
+      "names": [
+        "Chalyte Board",
+        "Chalyte Council"
+      ]
+    },
+    {
+      "id": "e018",
+      "label": "Crown of Purity",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0278",
+            "endUid": "u0321"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0901",
+            "endUid": "u0928"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1130",
+            "endUid": "u1159"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1675",
+            "endUid": "u1680"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Artifacts of Power/Crown of Purity.md",
+      "names": [
+        "crown"
+      ]
+    },
+    {
+      "id": "e019",
+      "label": "Fausto",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0278",
+            "endUid": "u0321"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0913",
+            "endUid": "u0934"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1070",
+            "endUid": "u1159"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1538",
+            "endUid": "u1550"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1675",
+            "endUid": "u1680"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Fausto.md"
+    },
+    {
+      "id": "e020",
+      "label": "Marius Cusico",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0296",
+            "endUid": "u0299"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1552",
+            "endUid": "u1574"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Marius Cusico.md",
+      "names": [
+        "the general"
+      ]
+    },
+    {
+      "id": "e021",
+      "label": "Milo",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0152",
+            "endUid": "u0158"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1210",
+            "endUid": "u1217"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Halflings/Milo Thistlefoot.md"
+    },
+    {
+      "id": "e022",
+      "label": "Rogendos",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0646",
+            "endUid": "u0649"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Ra'ghemdros.md",
+      "confidenceExplanation": "The dragon-hoard context favors Ra’ghemdros, but the polished source retains a markedly different spoken rendering."
+    },
+    {
+      "id": "e023",
+      "label": "Amelia",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0753",
+            "endUid": "u0757"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Amelia.md",
+      "confidenceExplanation": "The named official fits, but her vault note assigns the prayer symptoms observed here under the separate name Tronia."
+    },
+    {
+      "id": "e024",
+      "label": "Tronia",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0759",
+            "endUid": "u0787"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The transcript distinguishes her successful scry from Amelia’s failed one, while Amelia’s vault note repeats her prayer symptoms.",
+      "candidates": [
+        "People/Chardonians/Amelia.md"
+      ]
+    },
+    {
+      "id": "e025",
+      "label": "Gaspar",
+      "kind": "npc",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0814",
+            "endUid": "u0842"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0976",
+            "endUid": "u1004"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1027",
+            "endUid": "u1077"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1100",
+            "endUid": "u1179"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1632",
+            "endUid": "u1642"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Gaspar.md"
+    },
+    {
+      "id": "e026",
+      "label": "Riswynn",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0765",
+            "endUid": "u0774"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0901",
+            "endUid": "u0906"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2066",
+            "endUid": "u2067"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Riswynn.md"
+    },
+    {
+      "id": "e027",
+      "label": "Hektor",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0852",
+            "endUid": "u0864"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1110",
+            "endUid": "u1115"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Hektor.md"
+    },
+    {
+      "id": "e028",
+      "label": "Count Vashan",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0945",
+            "endUid": "u0946"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Count Vashan.md"
+    },
+    {
+      "id": "e029",
+      "label": "Antonia",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1110",
+            "endUid": "u1111"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Antonia.md"
+    },
+    {
+      "id": "e030",
+      "label": "Vola",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1113",
+            "endUid": "u1115"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Vola.md"
+    },
+    {
+      "id": "e031",
+      "label": "Chardonian navy",
+      "kind": "organization",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1198",
+            "endUid": "u1217"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1245",
+            "endUid": "u1269"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e032",
+      "label": "Tilly",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1210",
+            "endUid": "u1217"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Halflings/Tilly Brineheart.md"
+    },
+    {
+      "id": "e033",
+      "label": "The Magistros’s aunt",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1258",
+            "endUid": "u1273"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1909",
+            "endUid": "u1919"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Worldbuilding/Staging/Dunmar/Seva Auratan.md"
+    },
+    {
+      "id": "e034",
+      "label": "Sura",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1278",
+            "endUid": "u1279"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dunmari/Sura.md"
+    },
+    {
+      "id": "e035",
+      "label": "King of the Orcs",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1280",
+            "endUid": "u1283"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Orcs/Lubash.md"
+    },
+    {
+      "id": "e036",
+      "label": "Veldari family",
+      "kind": "organization",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1159",
+            "endUid": "u1170"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1310",
+            "endUid": "u1318"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1337",
+            "endUid": "u1368"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1938",
+            "endUid": "u1950"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2051",
+            "endUid": "u2065"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Chardonian Organizations/Veldari Family.md",
+      "confidenceExplanation": "Its implicated bribery materially drives both investigation and a reform option, but its members never directly participate."
+    },
+    {
+      "id": "e037",
+      "label": "Auratan family",
+      "kind": "organization",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1337",
+            "endUid": "u1358"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1810",
+            "endUid": "u1815"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1984",
+            "endUid": "u2004"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2051",
+            "endUid": "u2054"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Chardonian Organizations/Auratan Family.md"
+    },
+    {
+      "id": "e038",
+      "label": "Caloren family",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1337",
+            "endUid": "u1358"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2051",
+            "endUid": "u2054"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Chardonian Organizations/Caloren Family.md"
+    },
+    {
+      "id": "e039",
+      "label": "Patelios family",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1337",
+            "endUid": "u1368"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Chardonian Organizations/Patelios Family.md"
+    },
+    {
+      "id": "e040",
+      "label": "The Mother",
+      "kind": "divine",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1571",
+            "endUid": "u1574"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1620",
+            "endUid": "u1626"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/The Mother.md"
+    },
+    {
+      "id": "e041",
+      "label": "Mos Numena gods",
+      "kind": "divine",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1620",
+            "endUid": "u1626"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/Mos Numena Pantheon.md"
+    },
+    {
+      "id": "e042",
+      "label": "Priests of the Hospital of the Mother",
+      "kind": "organization",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1552",
+            "endUid": "u1583"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1598",
+            "endUid": "u1642"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e043",
+      "label": "Floriana",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1643",
+            "endUid": "u1651"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e044",
+      "label": "The Cleansed",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1100",
+            "endUid": "u1115"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1656",
+            "endUid": "u1667"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/The Cleansed.md",
+      "names": [
+        "Omnis Pura"
+      ]
+    },
+    {
+      "id": "e045",
+      "label": "Apollyon",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1652",
+            "endUid": "u1683"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1710",
+            "endUid": "u1743"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2066",
+            "endUid": "u2067"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Historical Figures/Drankorian Emperors/Apollyon.md"
+    },
+    {
+      "id": "e046",
+      "label": "Emperor of giants in the Chataan Mountains",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1909",
+            "endUid": "u1920"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1955",
+            "endUid": "u1977"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2127",
+            "endUid": "u2143"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Giants/Dhrukmir.md",
+      "identifiedLater": true
+    },
+    {
+      "id": "e047",
+      "label": "University of Chardon",
+      "kind": "organization",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0814",
+            "endUid": "u0824"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0925",
+            "endUid": "u0934"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1909",
+            "endUid": "u1919"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/University of Chardon.md"
+    },
+    {
+      "id": "e048",
+      "label": "Auratan's Pride",
+      "kind": "item",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0005",
+            "endUid": "u0010"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0029",
+            "endUid": "u0034"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Things/Ships/Auratan's Pride.md"
+    },
+    {
+      "id": "e049",
+      "label": "Gaspar’s caregiver",
+      "kind": "npc",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0825",
+            "endUid": "u0842"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0976",
+            "endUid": "u0984"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1175",
+            "endUid": "u1177"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The same caregiver recurs across scrying and the visit, but whether her care establishes sufficient individual identity is borderline."
+    },
+    {
+      "id": "e050",
+      "label": "Chardonian legions",
+      "kind": "organization",
+      "importance": "cameo",
+      "note": "Groups/Chardonian Organizations/Chardonian Legion.md",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1769",
+            "endUid": "u1782"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1853",
+            "endUid": "u1859"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1909",
+            "endUid": "u1919"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2078",
+            "endUid": "u2083"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e051",
+      "label": "Evil dragon who imprisoned Apollyon",
+      "kind": "npc",
+      "importance": "cameo",
+      "note": "People/Extraplanar Powers/Cha'mutte.md",
+      "identifiedLater": true,
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1724",
+            "endUid": "u1730"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Mirror of Soul Trapping",
+      "reason": "Routine PC equipment and prisoner care, including discussion of its time-stasis property; no new acquisition or original item history is established.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0856",
+            "endUid": "u0864"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1100",
+            "endUid": "u1115"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Rings of fire resistance",
+      "reason": "Existing equipment and future purchases are discussed; no purchase, transfer, or distinct plot-item identity is completed.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0463",
+            "endUid": "u0470"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1294",
+            "endUid": "u1304"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2159",
+            "endUid": "u2170"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Vindristjarna",
+      "reason": "Routine storage and proposed future travel in the party’s existing ship; no distinct acquisition, loss, or new ship lore.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1108",
+            "endUid": "u1108"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1853",
+            "endUid": "u1859"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2023",
+            "endUid": "u2024"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Gaspar’s butler and palace guards",
+      "reason": "Generic gatekeeping roles facilitate admission and security, without an independent personal identity beyond those duties.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0948",
+            "endUid": "u0984"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1069",
+            "endUid": "u1077"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1175",
+            "endUid": "u1177"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1426",
+            "endUid": "u1434"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Delwath’s lynx",
+      "reason": "Routine messenger ability recalled during the recap; no individual ongoing companion identity is established here.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0062",
+            "endUid": "u0062"
+          }
+        }
+      ]
+    },
+    {
+      "label": "The tanshi answering divination",
+      "reason": "Generic religious spirits answer the spell; the source names no specific being or bounded named divine collective.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0492",
+            "endUid": "u0519"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0566",
+            "endUid": "u0571"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Proposed chalyte workers’ guild",
+      "reason": "A desired future institution in the reform option, not an organization established in this session.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2056",
+            "endUid": "u2065"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Magistros’s rings and communication stone",
+      "reason": "Ordinary NPC equipment and routine communication; no separately established item identity or original item lore.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1483",
+            "endUid": "u1485"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1643",
+            "endUid": "u1651"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Treasure rings, necklaces, coins and papers",
+      "reason": "Ordinary treasure and administrative records used for funding or communication, without separate significant item identities.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0633",
+            "endUid": "u0678"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1070",
+            "endUid": "u1077"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1611",
+            "endUid": "u1626"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Fred, Paul and the characters of another game",
+      "reason": "These belong to the player’s unrelated D&D anecdote, outside this campaign.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1486",
+            "endUid": "u1515"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Visiting dwarven cleric at the hospital",
+      "reason": "An unnamed secondhand visitor whose calming presence is reported; the source does not establish a distinct identity or equate the visitor with Riswynn.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1559",
+            "endUid": "u1568"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "People/PCs/Dunmar Fellowship/Seeker.md",
+    "Groups/Drankorian Societies/Omnis Pura.md",
+    "People/Chardonians/Mitus Verina Auratan.md",
+    "Gazetteer/Greater Chardon/Chardonian Empire/Alta Tonaro/Ulgrathar.md"
+  ]
+}

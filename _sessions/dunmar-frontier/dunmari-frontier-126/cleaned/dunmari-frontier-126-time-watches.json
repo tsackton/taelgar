@@ -1,0 +1,127 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-126/cleaned/dunmari-frontier-126-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-126/cleaned/dunmari-frontier-126-time-markers.json",
+    "sha256": "bc8f4447989a63fbddca6a3990cfeeededf7932fba9a58bb04b44bafaa0630cd"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-126/cleaned/dunmari-frontier-126-transcript.md",
+    "sha256": "0aa7fcd142e96cfeeddebdb0e6b66cfc0c5c7c05316658dce8b39b5be697d80d"
+  },
+  "dateAssessment": "Working dates are June 28–29, 1749 for the breakfast, investigations and audience. Session 125’s YAML dates its closing evening to June 27; its polished handoff (u2412–u2424) explicitly resumes the next morning, matching this session’s breakfast (t01). The dated Session 126 timeline also records the June 28 investigations and June 29 audience. No civil date is spoken in the current transcript. Its YAML begins June 27 and can include the recalled split lodging, but that start-boundary convention remains open in the time JSON (`compatible`). The later overnight is established by t11; no missing day is supplied from `drEnd`. Kenzo’s inserted inquiries are before dinner, with no settled order relative to the midafternoon message. Closing preparation days and the proposed two-day flight remain future arrangements.",
+  "watches": [
+    {
+      "day": "June 28, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "Breakfast and scrying precede the approximately two-hour trip ending around 11–11:30.",
+      "markers": [
+        "t01",
+        "t02"
+      ],
+      "startDate": "1749-06-28",
+      "endDate": "1749-06-28"
+    },
+    {
+      "day": "June 28, 1749",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "A couple of hours reaches Gaspar; the sitting-room visit is about 11–11:30.",
+      "markers": [
+        "t03",
+        "t04",
+        "t05"
+      ],
+      "startDate": "1749-06-28",
+      "endDate": "1749-06-28"
+    },
+    {
+      "day": "June 28, 1749",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Wellby spends a few afternoon hours gathering rumors; the shared Sending arrives midafternoon.",
+      "markers": [
+        "t06",
+        "t07"
+      ],
+      "startDate": "1749-06-28",
+      "endDate": "1749-06-28"
+    },
+    {
+      "day": "June 28, 1749",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "summary": "Before dinner on the return from Gaspar; the inquiries’ watch remains open.",
+      "markers": [
+        "t09"
+      ],
+      "scope": "Kenzo’s retrospective stop",
+      "startDate": "1749-06-28",
+      "endDate": "1749-06-28"
+    },
+    {
+      "day": "June 28, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "inferred",
+      "summary": "Dinner resumes after Kenzo’s inserted inquiries; the source supplies no clock or sunset.",
+      "markers": [
+        "t08",
+        "t10"
+      ],
+      "startDate": "1749-06-28",
+      "endDate": "1749-06-28"
+    },
+    {
+      "day": "June 28–29, 1749",
+      "startWatch": null,
+      "endWatch": "morning",
+      "basis": "mixed",
+      "summary": "Confirmed sleep carries dinner’s day into the next morning’s palace arrival.",
+      "markers": [
+        "t11"
+      ],
+      "startDate": "1749-06-28",
+      "endDate": "1749-06-29"
+    },
+    {
+      "day": "June 29, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "inferred",
+      "summary": "The palace audience continues into a brief account of Apollyon; no later clock is established.",
+      "markers": [
+        "t12"
+      ],
+      "startDate": "1749-06-29",
+      "endDate": "1749-06-29"
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Session 125 dates",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-125/cleaned/dunmari-frontier-125-session.yaml",
+      "sha256": "95c09992bffe5103acb5f857413f0375555c4246fc7cc26d73bc134e2cf06129"
+    },
+    {
+      "label": "Session 125 handoff",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-125/cleaned/dunmari-frontier-125-transcript.md",
+      "sha256": "212ba8ec430f582eba74f9f42a9de279af09f391e838bc39011b1d55e8d90b09"
+    },
+    {
+      "label": "Dated session record",
+      "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 126 (DuFr).md",
+      "sha256": "9a2886ebba21498a10f3f1aab4e6fd3fce33fb6a66f2029fe1b05ce75f0e1d32"
+    },
+    {
+      "label": "Amelia identity account",
+      "path": "People/Chardonians/Amelia.md",
+      "sha256": "283cb86cae9cf6386f849440eb1d641545bc11bb4803b7d8d54cbba080994133"
+    }
+  ]
+}

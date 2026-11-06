@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-126",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-126/cleaned/dunmari-frontier-126-session.yaml",
+    "sessionYamlSha256": "33658c4c6d21f65f65e60ba7b389ea7b837dff4cbbd79e476aa6d972864c3bcd",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-126/cleaned/dunmari-frontier-126-transcript.md",
+    "transcriptSha256": "0aa7fcd142e96cfeeddebdb0e6b66cfc0c5c7c05316658dce8b39b5be697d80d"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0004"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0005",
+        "endUid": "u0028"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0029",
+        "endUid": "u0074"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0075",
+        "endUid": "u1485"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1486",
+        "endUid": "u1515"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1516",
+        "endUid": "u1685"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1686",
+        "endUid": "u1709"
+      },
+      "category": "meta_discussion",
+      "note": "The disclosure debate includes Delwath’s enacted deflection at u1698–u1700; the sustained passage primarily concerns player choices about what to reveal."
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1710",
+        "endUid": "u2065"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2066",
+        "endUid": "u2143"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2144",
+        "endUid": "u2152"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2153",
+        "endUid": "u2173"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2174",
+        "endUid": "u2186"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
