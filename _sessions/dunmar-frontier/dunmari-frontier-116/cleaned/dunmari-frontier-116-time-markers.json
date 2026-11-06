@@ -1,0 +1,457 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-session.yaml",
+    "sessionYamlSha256": "f4ef84a3bf471308a1890283277543b1373fe59bc7db5cee7101dea3e3912203",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-transcript.md",
+    "sessionId": "dunmari-frontier-116",
+    "transcriptSha256": "424a2e070fe8ec6b107afda56d6fbfa579b0539fd2cc1839ea9f58d12e257aca",
+    "yamlDates": {
+      "start": "1749-05-24",
+      "end": "1749-05-24"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0017",
+        "endUid": "u0017"
+      },
+      "reading": "The Drankor opening is about 11 a.m. on May 24; the sun is rising towards noon.",
+      "evidence": [
+        {
+          "startUid": "u0017",
+          "endUid": "u0017",
+          "quote": "Did the whole. It's like it's like 11. You long rested before the."
+        },
+        {
+          "startUid": "u0092",
+          "endUid": "u0093",
+          "quote": "We begin on May 24th in the hot, humid tropical city of Drankor, the air laden with moisture as the sun rises towards noon."
+        },
+        {
+          "startUid": "u1538",
+          "endUid": "u1538",
+          "quote": "And today's the 24th"
+        },
+        {
+          "startUid": "u1725",
+          "endUid": "u1725",
+          "quote": "But seriously, it is like still, early in the morning of this day we have a whole bunch of time to go."
+        },
+        {
+          "startUid": "u1726",
+          "endUid": "u1726",
+          "quote": "You don't."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 24
+        },
+        "clock": "11:00",
+        "partOfDay": "towards noon",
+        "precision": "approximate",
+        "basis": "DM opening clock at u0017 and spoken May 24 at u0092–u0093; year inherited from YAML."
+      },
+      "note": "Riswynn later calls it early morning (u1725), immediately met by the DM’s “You don’t.” Retain the explicit DM opening rather than advancing a second clock from that remark."
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0018",
+        "endUid": "u0032"
+      },
+      "reading": "The party completed a short rest aboard Vindristjarna before teleporting; this is retrospectively established preparation.",
+      "evidence": [
+        {
+          "startUid": "u0018",
+          "endUid": "u0018",
+          "quote": "We went to the—okay, but we short rested on the boat."
+        },
+        {
+          "startUid": "u0019",
+          "endUid": "u0020",
+          "quote": "You short rested on Vindristjarna before teleporting. Oh, so should I be down any"
+        },
+        {
+          "startUid": "u0031",
+          "endUid": "u0031",
+          "quote": "Okay, I'm gonna—I may as well. We short rested right on the boat."
+        },
+        {
+          "startUid": "u0032",
+          "endUid": "u0032",
+          "quote": "Did we? Yeah, okay."
+        },
+        {
+          "startUid": "u0080",
+          "endUid": "u0080",
+          "quote": "No, we are—we teleported. At the end of last session we teleported from Vindristjarna to the Temple in Drankor, and Fausto was standing there."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "short-rest convention"
+      },
+      "completion": "completed",
+      "note": "The earlier long rest preceded the plane shift; it does not establish another rest or night within the current played interval. No exact opening or closing watch is given for this short rest."
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u2375",
+        "endUid": "u2376"
+      },
+      "reading": "The afternoon passes during the crown discussion, and the DM moves to what the party does for the evening.",
+      "evidence": [
+        {
+          "startUid": "u2375",
+          "endUid": "u2376",
+          "quote": "So, as the afternoon passes during this discussion, what are you doing for the rest of the evening?"
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 24
+        },
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "DM afternoon-to-evening transition within the spoken May 24 day."
+      },
+      "duration": {
+        "text": "the afternoon",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "DM says the afternoon passes during this discussion"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u2464",
+        "endUid": "u2465"
+      },
+      "reading": "Vindristjarna was turned around this morning; the report dates an earlier action on the current day.",
+      "evidence": [
+        {
+          "startUid": "u2464",
+          "endUid": "u2465",
+          "quote": "Your ship is still... It had traveled 400 miles, and then you turned it around this morning."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 24
+        },
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "DM says this morning; May 24 inherited from the ongoing day."
+      },
+      "actors": [
+        "Vindristjarna"
+      ],
+      "note": "The preceding 400 miles describe earlier travel, not a new 400-mile journey here. Tomorrow’s 200-mile separation is a forecast."
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u2585",
+        "endUid": "u2588"
+      },
+      "reading": "Delwath prepares dinner as the sun goes down, when Wellby receives Sura’s message.",
+      "evidence": [
+        {
+          "startUid": "u2585",
+          "endUid": "u2588",
+          "quote": "Okay. So a few things. As you begin to—as you're just plotting, making your plans for attacking Apollyon, and Delwath is putting dinner together as the sun is going down, Wellby, you get a message from Sura."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 24
+        },
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM sunset dinner before the established overnight."
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u2589",
+        "endUid": "u2604"
+      },
+      "reading": "Sura reports a before-dawn attack and a ceasefire shortly before her local noon; the DM estimates the latter as roughly 1–3 p.m. in Drankor.",
+      "evidence": [
+        {
+          "startUid": "u2589",
+          "endUid": "u2604",
+          "quote": "Yeah. She updates you a little. “On the morning before dawn, the Chardonian wizards rained fire on our camps with an evil wind that fanned the flames into an inferno.” They fled, taking shelter along the river where they could. “But sometime shortly before noon”—should have been like 3 or set or 2 in the afternoon here, or something like that, or one—“the most amazing and unexpected thing happened. A woman riding fast on a phantom steed steed chased us down, waving a flag of parley. She spoke urgently, claiming that the commander of the Chardonian legions, General Marius Cusico, had called a halt to hostilities, saying that he had come to realize the gods did not want this war, and he had ordered his legions to retreat back to Chardon and pray for further guidance. Indeed, he said, he actually asked for aid if possible, as a small contingent of his wizards and legions—not many, but enough to cause trouble—had refused to acknowledge his command and fled camp. We agreed to send a scouting party, at least to see if how many there were. But if he's retreating, not going to ask them to stay to deal with whatever small number of wizards and legions may remain. I don't know what you did, but I appreciate that.”"
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 24
+        },
+        "partOfDay": "shortly before noon (western local clock)",
+        "precision": "approximate",
+        "basis": "Sura explicitly places the ceasefire shortly before local noon on the reported day; year from YAML and day from the current May 24 message."
+      },
+      "actors": [
+        "Sura",
+        "Marius Cusico"
+      ],
+      "note": "This dates earlier events in Sura’s western clock. The DM’s loose one/two/three p.m. conversion spans the midday/afternoon watch boundary in Drankor, and supplies no exact synchronization or extra elapsed day."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u2618",
+        "endUid": "u2619"
+      },
+      "reading": "The party completes an overnight long rest, then leaves at dawn the following morning.",
+      "evidence": [
+        {
+          "startUid": "u2618",
+          "endUid": "u2619",
+          "quote": "She turns off the message Stone, and you take a long rest."
+        },
+        {
+          "startUid": "u2664",
+          "endUid": "u2667",
+          "quote": "Oh, actually the—the Aid resets. But the—but you didn't cast! You didn't cast Heroes’ Feast until noon, till like 11 Am. 11 am. So you still got when you—you know, you go to bed early. When you wake up, you'll still have like 4 h on Heroes’ Feast if you want to just risk it."
+        },
+        {
+          "startUid": "u2679",
+          "endUid": "u2682",
+          "quote": "So then it'll—it won't last. Then it'll only last till 7 Pm. Or 8 Pm. Or something like that. 9 Pm. However late you want to do it. You could go as late as like 9 and still be up at 7, but that's better for spell slot usage. So."
+        },
+        {
+          "startUid": "u2814",
+          "endUid": "u2817",
+          "quote": "As the morning dawns, another hot, muggy day, the threat of rain in the air, as you step out of the safety of the Temple, heading north for Apollyon's tomb slash temple..."
+        },
+        {
+          "startUid": "u2919",
+          "endUid": "u2920",
+          "quote": "Riswynn, you're still attuned to the crown, even though it's in the portable hole, and you've slept a long rest, like... You can still feel your yeah."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "long-rest convention"
+      },
+      "timeRange": {
+        "start": {
+          "date": {
+            "year": 1749,
+            "month": 5,
+            "day": 24
+          },
+          "partOfDay": "evening",
+          "precision": "approximate",
+          "basis": "Rest follows sunset dinner; eight-hour overnight convention ending at dawn implies preceding dusk."
+        },
+        "end": {
+          "date": {
+            "year": 1749,
+            "month": 5,
+            "day": 25
+          },
+          "partOfDay": "dawn",
+          "precision": "approximate",
+          "basis": "Next morning dawns at u2814–u2817; date follows spoken May 24 and completed overnight."
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "note": "Nine p.m. bedtime and seven a.m. waking are discussed as options, not independent exact endpoints. The completed overnight is also expressly recalled at u2919–u2920."
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u2674",
+        "endUid": "u2698"
+      },
+      "reading": "Riswynn renews Heroes’ Feast before the overnight rest; its accepted expiration at 9 p.m. the next evening places this preparation near 9 p.m.",
+      "evidence": [
+        {
+          "startUid": "u2674",
+          "endUid": "u2676",
+          "quote": "Yeah, maybe do that before I long rest. So that we okay. Do I have a spell slot? Hmm."
+        },
+        {
+          "startUid": "u2679",
+          "endUid": "u2682",
+          "quote": "So then it'll—it won't last. Then it'll only last till 7 Pm. Or 8 Pm. Or something like that. 9 Pm. However late you want to do it. You could go as late as like 9 and still be up at 7, but that's better for spell slot usage. So."
+        },
+        {
+          "startUid": "u2683",
+          "endUid": "u2684",
+          "quote": "So we'll say so. We'll do that right. Sorry. I'm still in the leveling up thing."
+        },
+        {
+          "startUid": "u2693",
+          "endUid": "u2693",
+          "quote": "So today's boost is 14."
+        },
+        {
+          "startUid": "u2694",
+          "endUid": "u2698",
+          "quote": "So everybody should take a long rest and click on the reset, click on the reset Max HP when you long rest, and then everybody add 14 Max HP again. And Heroes’ Feast will last until 9 PM this evening."
+        },
+        {
+          "startUid": "u2671",
+          "endUid": "u2673",
+          "quote": "Well, you know, you just take the new roll for the new hit points, but that would give you a full 24 h of immunity to fear. You know, expensive in the jeweled bowl front. But you’ve still got, what, 7 of them! So..."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 24
+        },
+        "clock": "21:00",
+        "precision": "approximate",
+        "basis": "Accepted before-rest casting and stated full 24-hour duration/9 p.m. expiry on the post-rest day; approximate inferred casting time."
+      },
+      "note": "This inserts preparation into the rest already narrated at t07; it does not establish another rest or a day of elapsed spell duration."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u2814",
+        "endUid": "u2817"
+      },
+      "reading": "The following morning dawns and the party leaves the safety of the temple.",
+      "evidence": [
+        {
+          "startUid": "u2814",
+          "endUid": "u2817",
+          "quote": "As the morning dawns, another hot, muggy day, the threat of rain in the air, as you step out of the safety of the Temple, heading north for Apollyon's tomb slash temple..."
+        },
+        {
+          "startUid": "u2742",
+          "endUid": "u2742",
+          "quote": "Up to you if you want to get started right at dawn, or if you want to take a short rest."
+        },
+        {
+          "startUid": "u2743",
+          "endUid": "u2743",
+          "quote": "No, I think we should get started."
+        }
+      ],
+      "time": {
+        "date": {
+          "year": 1749,
+          "month": 5,
+          "day": 25
+        },
+        "partOfDay": "dawn",
+        "precision": "approximate",
+        "basis": "Explicit morning dawn after completed overnight from May 24."
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u2852",
+        "endUid": "u2867"
+      },
+      "reading": "About thirty minutes of walking bring the party to the rise at the edge of Apollyon’s sunken temple.",
+      "evidence": [
+        {
+          "startUid": "u2852",
+          "endUid": "u2857",
+          "quote": "20 min pass, 30 min, as you begin to climb this rise roughly here. Sorry, you can’t see that. Why is it not picking... Roughly here. And as you—as you climb, you now see over the lip of this hill, this whole area back here, you see cracks, you see the—the earth collapsed."
+        },
+        {
+          "startUid": "u2858",
+          "endUid": "u2867",
+          "quote": "This seems like this once was just a hill above the city, and the area around Apollyon's temple slash tomb has been sunk. The earth itself has collapsed underneath the tomb, and we need to switch to Apollyon's tomb. And as you rise, come up to the crest of this hill, you see before you this swirling sea of red mist, just the top of the cupola of the temple rising above it, about 600, 700 feet away, something like that, 800 feet away, from the lip, the edge of this, the sinkhole in which the jungle has grown up around the temple that once stood on the highest prominence looking out over the city."
+        }
+      ],
+      "duration": {
+        "value": 30,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      },
+      "completion": "completed",
+      "note": "“20 min pass, 30 min” is one developing total, not two durations to add."
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u3099",
+        "endUid": "u3103"
+      },
+      "reading": "At the bottom of the stairs Delwath takes one minute to restore pact resources, then the party moves out.",
+      "evidence": [
+        {
+          "startUid": "u3099",
+          "endUid": "u3101",
+          "quote": "Okay. I'm not sure about taking 10 min right now. I'm not sure it's a good idea. I'm just gonna do—take 1 min to use my pact restore thing. If we have a more obvious time to rest, I'll do the rest later."
+        },
+        {
+          "startUid": "u3102",
+          "endUid": "u3102",
+          "quote": "Okay."
+        },
+        {
+          "startUid": "u3103",
+          "endUid": "u3103",
+          "quote": "Let's go."
+        },
+        {
+          "startUid": "u3104",
+          "endUid": "u3104",
+          "quote": "Walk out."
+        }
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "narrated elapsed time"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "completion": "completed",
+      "note": "The ten-minute Prayer of Healing is explicitly deferred. The later Resurrection scroll is interrupted, and the closing short rest remains a proposal; neither adds elapsed time."
+    }
+  ],
+  "yamlCheck": {
+    "status": "conflict",
+    "dateAnchor": "May 24 is independently spoken at the opening and confirmed during the crown discussion. The year 1749 comes only from YAML. Sunset, an overnight long rest, and the next dawn place the following expedition on May 25 conditional on that year.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": 1,
+    "evidence": [
+      "t01",
+      "t03",
+      "t05",
+      "t07",
+      "t09"
+    ],
+    "explanation": "The source covers May 24 through the following dawn and expedition, contradicting the same-day YAML end. The retrospective short rest and ship turnaround belong before the opening teleport on the first day; earlier background rest does not add another night. No additional rest is established after Delwath’s revival."
+  }
+}

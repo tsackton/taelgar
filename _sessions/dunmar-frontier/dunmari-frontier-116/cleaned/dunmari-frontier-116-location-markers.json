@@ -1,0 +1,1311 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-session.yaml",
+    "sessionYamlSha256": "f4ef84a3bf471308a1890283277543b1373fe59bc7db5cee7101dea3e3912203",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-transcript.md",
+    "sessionId": "dunmari-frontier-116",
+    "transcriptSha256": "424a2e070fe8ec6b107afda56d6fbfa579b0539fd2cc1839ea9f58d12e257aca"
+  },
+  "places": {
+    "p01": {
+      "label": "Vindristjarna",
+      "kind": "skyship",
+      "evidence": [
+        {
+          "startUid": "u0019",
+          "endUid": "u0020",
+          "quote": "You short rested on Vindristjarna before teleporting. Oh, so should I be down any"
+        },
+        {
+          "startUid": "u0080",
+          "endUid": "u0080",
+          "quote": "No, we are—we teleported. At the end of last session we teleported from Vindristjarna to the Temple in Drankor, and Fausto was standing there."
+        }
+      ],
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "note": "The pre-teleport rest is established retrospectively at u0018–u0032."
+    },
+    "p02": {
+      "label": "Temple of the Eight Divines",
+      "kind": "temple",
+      "evidence": [
+        {
+          "startUid": "u0107",
+          "endUid": "u0109",
+          "quote": "In Drankor itself, at the doors of the great temple of the 8 Divines, we find our heroes face to face with 7 wizards in the robes of the Chardonian Legion. A gray knight. Wait."
+        },
+        {
+          "startUid": "u2410",
+          "endUid": "u2414",
+          "quote": "So Seeker cast Clairvoyance, pulling up glove and manipulating his magic to cast it further, from a vantage point just inside the—the dome of the building. You're looking down at a vast open temple, in some architectural ways similar to the temple you're in now, although not quite as big, but rather than 8 domes dedicated to the 8 divines of Mos Numena, there is a massive statue of—oh, my!"
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/Temple of the Eight Divines.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0107",
+              "endUid": "u0109",
+              "quote": "In Drankor itself, at the doors of the great temple of the 8 Divines, we find our heroes face to face with 7 wizards in the robes of the Chardonian Legion. A gray knight. Wait."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Drankor",
+      "kind": "ruined city",
+      "evidence": [
+        {
+          "startUid": "u0092",
+          "endUid": "u0093",
+          "quote": "We begin on May 24th in the hot, humid tropical city of Drankor, the air laden with moisture as the sun rises towards noon."
+        },
+        {
+          "startUid": "u2838",
+          "endUid": "u2840",
+          "quote": "You begin making your way through the now somewhat familiar ruins of Drankor, heading north towards this rise in the hills. So you pass through the Temple district, Riswynn in the lead."
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/Drankor.md"
+    },
+    "p04": {
+      "label": "Entrance chamber and arches",
+      "kind": "chamber",
+      "evidence": [
+        {
+          "startUid": "u0127",
+          "endUid": "u0130",
+          "quote": "I assume you would teleport like into the—inside the temple, so I'll put you like, you know, here-ish. This is a very big map. There's a lot of space."
+        },
+        {
+          "startUid": "u0191",
+          "endUid": "u0191",
+          "quote": "These are arches that you can see through. These are the 8 arches of like 8 divine."
+        },
+        {
+          "startUid": "u0194",
+          "endUid": "u0194",
+          "quote": "That's behind you is just a giant open temple. Okay?"
+        },
+        {
+          "startUid": "u0196",
+          "endUid": "u0197",
+          "quote": "The ceiling in the room they're in is like, uh, 30 feet. The ceiling in the room that you're in is like a hundred feet."
+        },
+        {
+          "startUid": "u0200",
+          "endUid": "u0201",
+          "quote": "No, this—this is like an entry room, and then you step through the arches and the—well, so... No, yeah, no. Once you get this part here..."
+        },
+        {
+          "startUid": "u0202",
+          "endUid": "u0202",
+          "quote": "Yep."
+        },
+        {
+          "startUid": "u0203",
+          "endUid": "u0203",
+          "quote": "Is not—is only about 20 feet high, and it's like it doesn't go..."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0127",
+              "endUid": "u0130",
+              "quote": "I assume you would teleport like into the—inside the temple, so I'll put you like, you know, here-ish. This is a very big map. There's a lot of space."
+            },
+            {
+              "startUid": "u0194",
+              "endUid": "u0194",
+              "quote": "That's behind you is just a giant open temple. Okay?"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Apollyon’s temple / tomb",
+      "kind": "temple",
+      "evidence": [
+        {
+          "startUid": "u2377",
+          "endUid": "u2378",
+          "quote": "Do we—do we know precisely where we're going to kill Apollyon?"
+        },
+        {
+          "startUid": "u2379",
+          "endUid": "u2379",
+          "quote": "Yeah. You flew over it the 1st day."
+        },
+        {
+          "startUid": "u2380",
+          "endUid": "u2380",
+          "quote": "Okay."
+        },
+        {
+          "startUid": "u2381",
+          "endUid": "u2382",
+          "quote": "It's oh, wait here on the Drankor map. It's this dome surrounded by red mist."
+        },
+        {
+          "startUid": "u2383",
+          "endUid": "u2383",
+          "quote": "Right, so we don't know how to get through the red mist."
+        },
+        {
+          "startUid": "u2384",
+          "endUid": "u2384",
+          "quote": "Wait, which one."
+        },
+        {
+          "startUid": "u2385",
+          "endUid": "u2385",
+          "quote": "This dome, surrounded."
+        },
+        {
+          "startUid": "u2386",
+          "endUid": "u2386",
+          "quote": "Oh! At the top."
+        },
+        {
+          "startUid": "u2387",
+          "endUid": "u2388",
+          "quote": "I mean, the top of the dome is not... So. Let me see, I thought I had a."
+        },
+        {
+          "startUid": "u2389",
+          "endUid": "u2389",
+          "quote": "Oh, so we could just fly in, or something like that?"
+        },
+        {
+          "startUid": "u2390",
+          "endUid": "u2391",
+          "quote": "The top of the dome comes up out of the mist. Here's what you saw when you flew over it."
+        },
+        {
+          "startUid": "u2858",
+          "endUid": "u2867",
+          "quote": "This seems like this once was just a hill above the city, and the area around Apollyon's temple slash tomb has been sunk. The earth itself has collapsed underneath the tomb, and we need to switch to Apollyon's tomb. And as you rise, come up to the crest of this hill, you see before you this swirling sea of red mist, just the top of the cupola of the temple rising above it, about 600, 700 feet away, something like that, 800 feet away, from the lip, the edge of this, the sinkhole in which the jungle has grown up around the temple that once stood on the highest prominence looking out over the city."
+        },
+        {
+          "startUid": "u2870",
+          "endUid": "u2872",
+          "quote": "The—this whole area that's filled with red mist, now that you get here on foot and up close, looks like this once was just a hill that rose up above the city and formed a height of land that could look out over the city of Drankor, where Apollyon constructed the temple to himself, but it's now collapsed in a massive sinkhole."
+        }
+      ],
+      "vaultPath": "Gazetteer/Drankorian Hinterland/Drankor/Apollyon's Temple.md",
+      "aliases": [
+        "Apollyon's prison"
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2870",
+              "endUid": "u2872",
+              "quote": "The—this whole area that's filled with red mist, now that you get here on foot and up close, looks like this once was just a hill that rose up above the city and formed a height of land that could look out over the city of Drankor, where Apollyon constructed the temple to himself, but it's now collapsed in a massive sinkhole."
+            },
+            {
+              "startUid": "u2878",
+              "endUid": "u2878",
+              "quote": "So the the temple dropped."
+            },
+            {
+              "startUid": "u2879",
+              "endUid": "u2881",
+              "quote": "The temple dropped and the red mist poured around it. But everything else around the temple, like there used to be a road that led up the hill, it's like the paving stones are all twisted. Here you see no intact ruins as you're looking down into the mists, only the cupola of the temple of Apollyon rising above the mist. No other ruins seem to survive here, although, looking behind you, you can see the massive amphitheater, the, you know, the whole ruins of the city of Drankor stretching out to the south."
+            },
+            {
+              "startUid": "u2882",
+              "endUid": "u2884",
+              "quote": "But turning to the north, looking into the mists, there's nothing, just a sinkhole filled with red mist, the trees of the jungle somehow growing through it, and the dome of the cupola of Apollyon's temple rising above the mist."
+            }
+          ],
+          "note": "The temple is sunken, with its cupola rising above the red mist."
+        }
+      ]
+    },
+    "p06": {
+      "label": "Red-mist sinkhole",
+      "kind": "sunken site",
+      "evidence": [
+        {
+          "startUid": "u2858",
+          "endUid": "u2867",
+          "quote": "This seems like this once was just a hill above the city, and the area around Apollyon's temple slash tomb has been sunk. The earth itself has collapsed underneath the tomb, and we need to switch to Apollyon's tomb. And as you rise, come up to the crest of this hill, you see before you this swirling sea of red mist, just the top of the cupola of the temple rising above it, about 600, 700 feet away, something like that, 800 feet away, from the lip, the edge of this, the sinkhole in which the jungle has grown up around the temple that once stood on the highest prominence looking out over the city."
+        },
+        {
+          "startUid": "u2870",
+          "endUid": "u2872",
+          "quote": "The—this whole area that's filled with red mist, now that you get here on foot and up close, looks like this once was just a hill that rose up above the city and formed a height of land that could look out over the city of Drankor, where Apollyon constructed the temple to himself, but it's now collapsed in a massive sinkhole."
+        },
+        {
+          "startUid": "u2878",
+          "endUid": "u2878",
+          "quote": "So the the temple dropped."
+        },
+        {
+          "startUid": "u2879",
+          "endUid": "u2881",
+          "quote": "The temple dropped and the red mist poured around it. But everything else around the temple, like there used to be a road that led up the hill, it's like the paving stones are all twisted. Here you see no intact ruins as you're looking down into the mists, only the cupola of the temple of Apollyon rising above the mist. No other ruins seem to survive here, although, looking behind you, you can see the massive amphitheater, the, you know, the whole ruins of the city of Drankor stretching out to the south."
+        },
+        {
+          "startUid": "u2882",
+          "endUid": "u2884",
+          "quote": "But turning to the north, looking into the mists, there's nothing, just a sinkhole filled with red mist, the trees of the jungle somehow growing through it, and the dome of the cupola of Apollyon's temple rising above the mist."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u2870",
+              "endUid": "u2872",
+              "quote": "The—this whole area that's filled with red mist, now that you get here on foot and up close, looks like this once was just a hill that rose up above the city and formed a height of land that could look out over the city of Drankor, where Apollyon constructed the temple to himself, but it's now collapsed in a massive sinkhole."
+            },
+            {
+              "startUid": "u2878",
+              "endUid": "u2878",
+              "quote": "So the the temple dropped."
+            },
+            {
+              "startUid": "u2879",
+              "endUid": "u2881",
+              "quote": "The temple dropped and the red mist poured around it. But everything else around the temple, like there used to be a road that led up the hill, it's like the paving stones are all twisted. Here you see no intact ruins as you're looking down into the mists, only the cupola of the temple of Apollyon rising above the mist. No other ruins seem to survive here, although, looking behind you, you can see the massive amphitheater, the, you know, the whole ruins of the city of Drankor stretching out to the south."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Hill crest at the sinkhole rim",
+      "kind": "lookout",
+      "evidence": [
+        {
+          "startUid": "u2858",
+          "endUid": "u2867",
+          "quote": "This seems like this once was just a hill above the city, and the area around Apollyon's temple slash tomb has been sunk. The earth itself has collapsed underneath the tomb, and we need to switch to Apollyon's tomb. And as you rise, come up to the crest of this hill, you see before you this swirling sea of red mist, just the top of the cupola of the temple rising above it, about 600, 700 feet away, something like that, 800 feet away, from the lip, the edge of this, the sinkhole in which the jungle has grown up around the temple that once stood on the highest prominence looking out over the city."
+        },
+        {
+          "startUid": "u2898",
+          "endUid": "u2898",
+          "quote": "So standing now, looking across this mist, Apollyon's tomb itself, what are you gonna do?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u2858",
+              "endUid": "u2867",
+              "quote": "This seems like this once was just a hill above the city, and the area around Apollyon's temple slash tomb has been sunk. The earth itself has collapsed underneath the tomb, and we need to switch to Apollyon's tomb. And as you rise, come up to the crest of this hill, you see before you this swirling sea of red mist, just the top of the cupola of the temple rising above it, about 600, 700 feet away, something like that, 800 feet away, from the lip, the edge of this, the sinkhole in which the jungle has grown up around the temple that once stood on the highest prominence looking out over the city."
+            }
+          ],
+          "note": "Roughly 600–800 feet from the temple cupola, outside the red mist."
+        },
+        {
+          "relation": "adjacent_to",
+          "target": "p06",
+          "evidence": [
+            {
+              "startUid": "u2858",
+              "endUid": "u2867",
+              "quote": "This seems like this once was just a hill above the city, and the area around Apollyon's temple slash tomb has been sunk. The earth itself has collapsed underneath the tomb, and we need to switch to Apollyon's tomb. And as you rise, come up to the crest of this hill, you see before you this swirling sea of red mist, just the top of the cupola of the temple rising above it, about 600, 700 feet away, something like that, 800 feet away, from the lip, the edge of this, the sinkhole in which the jungle has grown up around the temple that once stood on the highest prominence looking out over the city."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u2838",
+              "endUid": "u2840",
+              "quote": "You begin making your way through the now somewhat familiar ruins of Drankor, heading north towards this rise in the hills. So you pass through the Temple district, Riswynn in the lead."
+            },
+            {
+              "startUid": "u2852",
+              "endUid": "u2857",
+              "quote": "20 min pass, 30 min, as you begin to climb this rise roughly here. Sorry, you can’t see that. Why is it not picking... Roughly here. And as you—as you climb, you now see over the lip of this hill, this whole area back here, you see cracks, you see the—the earth collapsed."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Cupola roof",
+      "kind": "roof",
+      "evidence": [
+        {
+          "startUid": "u2993",
+          "endUid": "u2995",
+          "quote": "You find yourself now on the roof of the—of the cupola. There is—there's like a outer area that's that you can walk around, and there's a door."
+        },
+        {
+          "startUid": "u3001",
+          "endUid": "u3001",
+          "quote": "This is the top. Yeah."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u2993",
+              "endUid": "u2995",
+              "quote": "You find yourself now on the roof of the—of the cupola. There is—there's like a outer area that's that you can walk around, and there's a door."
+            },
+            {
+              "startUid": "u3037",
+              "endUid": "u3040",
+              "quote": "Okay, so these are stairs. I mean, the stairs descend. It feel—it seems like you're going in like sort of you curve around the base of the cupola, and then it seems like you're descending down the—almost like the inside of the back wall of the temple."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Cramped spiral stairs and lower threshold",
+      "kind": "stairway",
+      "evidence": [
+        {
+          "startUid": "u3027",
+          "endUid": "u3028",
+          "quote": "You go down the stairs. What order are you going in? It's cramped. The stairs are tight, so only Wellby can move comfortably. Everybody else is crouched over."
+        },
+        {
+          "startUid": "u3037",
+          "endUid": "u3040",
+          "quote": "Okay, so these are stairs. I mean, the stairs descend. It feel—it seems like you're going in like sort of you curve around the base of the cupola, and then it seems like you're descending down the—almost like the inside of the back wall of the temple."
+        },
+        {
+          "startUid": "u3041",
+          "endUid": "u3043",
+          "quote": "It's a tight spiral that's going down. You go down maybe 75, a hundred feet and find yourself now with a entrance that comes out sort of next near next to where the—where the statue is behind the—behind the altar."
+        },
+        {
+          "startUid": "u3044",
+          "endUid": "u3046",
+          "quote": "At. I'm not sure I totally understand what you mean by it, an entrance."
+        },
+        {
+          "startUid": "u3047",
+          "endUid": "u3048",
+          "quote": "You—you go down this tight spiral, and then it comes out onto the ground floor. Yeah."
+        },
+        {
+          "startUid": "u3097",
+          "endUid": "u3098",
+          "quote": "Currently Wellby’s—as far as I understand it, Wellby is standing at the bottom of the stair, and has not stepped into the temple. The rest of you are crouched, huddled in the stairwell itself."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u3037",
+              "endUid": "u3040",
+              "quote": "Okay, so these are stairs. I mean, the stairs descend. It feel—it seems like you're going in like sort of you curve around the base of the cupola, and then it seems like you're descending down the—almost like the inside of the back wall of the temple."
+            },
+            {
+              "startUid": "u3041",
+              "endUid": "u3043",
+              "quote": "It's a tight spiral that's going down. You go down maybe 75, a hundred feet and find yourself now with a entrance that comes out sort of next near next to where the—where the statue is behind the—behind the altar."
+            },
+            {
+              "startUid": "u3044",
+              "endUid": "u3046",
+              "quote": "At. I'm not sure I totally understand what you mean by it, an entrance."
+            },
+            {
+              "startUid": "u3047",
+              "endUid": "u3048",
+              "quote": "You—you go down this tight spiral, and then it comes out onto the ground floor. Yeah."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Main temple hall, altar and statue",
+      "kind": "hall",
+      "evidence": [
+        {
+          "startUid": "u2425",
+          "endUid": "u2428",
+          "quote": "You are looking down at this: an open space dominated by a massive statue of Apollyon, standing, holding the scepter in one hand, a long flowing cloak behind him, probably 40 feet tall."
+        },
+        {
+          "startUid": "u2429",
+          "endUid": "u2430",
+          "quote": "Extending from the statue, there are rows of dark pillars with pews arranged among them, set up all facing the statue. Front of the statue is an altar of sorts."
+        },
+        {
+          "startUid": "u2431",
+          "endUid": "u2433",
+          "quote": "Looking around the rest of the temples, it—this whole place seems unfinished. There are half carved statues in wall niches, extending in both directions from the huge statue of Apollyon. There are murals that are half painted, in the flickering light too far away to make out details, but you can see, you know, part of it has been painted, and the rest of it is just kind of sketched and carved in the wall and not filled in."
+        },
+        {
+          "startUid": "u2434",
+          "endUid": "u2435",
+          "quote": "To the left and right there are large side chapels that from your position of the eyeball at the roof of the dome you can't see into."
+        },
+        {
+          "startUid": "u2436",
+          "endUid": "u2438",
+          "quote": "There is a open door to the south, steps leading up from this open door to the level of this temple floor, red mist pooling at the bottom of the steps, but not seeming to ascend the steps themselves."
+        },
+        {
+          "startUid": "u2439",
+          "endUid": "u2439",
+          "quote": "No obvious other exits from this room that you can see, and nothing moving within it."
+        },
+        {
+          "startUid": "u3067",
+          "endUid": "u3068",
+          "quote": "You see the floor of the temple, you see this row of pillars. You see a big altar. You can see the bulk of the statue just to your right."
+        },
+        {
+          "startUid": "u3069",
+          "endUid": "u3069",
+          "quote": "I sorry I didn't realize there's a map in Roll20 where? Okay?"
+        },
+        {
+          "startUid": "u3070",
+          "endUid": "u3070",
+          "quote": "So the statue is like up against the wall here, this is the altar."
+        },
+        {
+          "startUid": "u3071",
+          "endUid": "u3071",
+          "quote": "These are the."
+        },
+        {
+          "startUid": "u3072",
+          "endUid": "u3073",
+          "quote": "The pillars. You can't actually quite see all of this, because it's dark. But."
+        },
+        {
+          "startUid": "u3074",
+          "endUid": "u3074",
+          "quote": "But there's no obvious like other place to go where the actual imprisoned tomb of Apollyon would be?"
+        },
+        {
+          "startUid": "u3075",
+          "endUid": "u3075",
+          "quote": "Not immediately obvious from what you can see right here. These stairs don't go down any further."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u2410",
+              "endUid": "u2414",
+              "quote": "So Seeker cast Clairvoyance, pulling up glove and manipulating his magic to cast it further, from a vantage point just inside the—the dome of the building. You're looking down at a vast open temple, in some architectural ways similar to the temple you're in now, although not quite as big, but rather than 8 domes dedicated to the 8 divines of Mos Numena, there is a massive statue of—oh, my!"
+            },
+            {
+              "startUid": "u2425",
+              "endUid": "u2428",
+              "quote": "You are looking down at this: an open space dominated by a massive statue of Apollyon, standing, holding the scepter in one hand, a long flowing cloak behind him, probably 40 feet tall."
+            },
+            {
+              "startUid": "u2429",
+              "endUid": "u2430",
+              "quote": "Extending from the statue, there are rows of dark pillars with pews arranged among them, set up all facing the statue. Front of the statue is an altar of sorts."
+            },
+            {
+              "startUid": "u2431",
+              "endUid": "u2433",
+              "quote": "Looking around the rest of the temples, it—this whole place seems unfinished. There are half carved statues in wall niches, extending in both directions from the huge statue of Apollyon. There are murals that are half painted, in the flickering light too far away to make out details, but you can see, you know, part of it has been painted, and the rest of it is just kind of sketched and carved in the wall and not filled in."
+            },
+            {
+              "startUid": "u2434",
+              "endUid": "u2435",
+              "quote": "To the left and right there are large side chapels that from your position of the eyeball at the roof of the dome you can't see into."
+            },
+            {
+              "startUid": "u2436",
+              "endUid": "u2438",
+              "quote": "There is a open door to the south, steps leading up from this open door to the level of this temple floor, red mist pooling at the bottom of the steps, but not seeming to ascend the steps themselves."
+            },
+            {
+              "startUid": "u2439",
+              "endUid": "u2439",
+              "quote": "No obvious other exits from this room that you can see, and nothing moving within it."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0018",
+        "endUid": "u0032"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Retrospectively confirmed short rest aboard Vindristjarna before teleporting to Drankor.",
+      "evidence": [
+        {
+          "startUid": "u0018",
+          "endUid": "u0018",
+          "quote": "We went to the—okay, but we short rested on the boat."
+        },
+        {
+          "startUid": "u0019",
+          "endUid": "u0020",
+          "quote": "You short rested on Vindristjarna before teleporting. Oh, so should I be down any"
+        },
+        {
+          "startUid": "u0031",
+          "endUid": "u0031",
+          "quote": "Okay, I'm gonna—I may as well. We short rested right on the boat."
+        },
+        {
+          "startUid": "u0032",
+          "endUid": "u0032",
+          "quote": "Did we? Yeah, okay."
+        },
+        {
+          "startUid": "u0080",
+          "endUid": "u0080",
+          "quote": "No, we are—we teleported. At the end of last session we teleported from Vindristjarna to the Temple in Drankor, and Fausto was standing there."
+        }
+      ],
+      "place": "p01",
+      "context": "flashback"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0080",
+        "endUid": "u0080"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The opening recalls the party’s teleport from Vindristjarna into the entrance of the great temple in Drankor, where Fausto confronts them.",
+      "evidence": [
+        {
+          "startUid": "u0080",
+          "endUid": "u0080",
+          "quote": "No, we are—we teleported. At the end of last session we teleported from Vindristjarna to the Temple in Drankor, and Fausto was standing there."
+        },
+        {
+          "startUid": "u0107",
+          "endUid": "u0109",
+          "quote": "In Drankor itself, at the doors of the great temple of the 8 Divines, we find our heroes face to face with 7 wizards in the robes of the Chardonian Legion. A gray knight. Wait."
+        },
+        {
+          "startUid": "u0127",
+          "endUid": "u0130",
+          "quote": "I assume you would teleport like into the—inside the temple, so I'll put you like, you know, here-ish. This is a very big map. There's a lot of space."
+        },
+        {
+          "startUid": "u0131",
+          "endUid": "u0131",
+          "quote": "So we're using the minion rules for the non-Fausto guys."
+        },
+        {
+          "startUid": "u0132",
+          "endUid": "u0135",
+          "quote": "Just make sure that you have to be all next to each other, because when you teleport, that's... There's the 5 of you, and then we've got. I know Fausto was—oops. Seriously."
+        },
+        {
+          "startUid": "u0174",
+          "endUid": "u0174",
+          "quote": "That's just where you appeared."
+        }
+      ],
+      "from": "p01",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "teleport",
+      "note": "The teleport is the handoff from the previous session, confirmed in this opening; no second teleport is implied."
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u2410",
+        "endUid": "u2439"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Extended Clairvoyance observes the main hall from a sensor just inside Apollyon’s dome; the party remains at the Eight Divines temple.",
+      "evidence": [
+        {
+          "startUid": "u2410",
+          "endUid": "u2414",
+          "quote": "So Seeker cast Clairvoyance, pulling up glove and manipulating his magic to cast it further, from a vantage point just inside the—the dome of the building. You're looking down at a vast open temple, in some architectural ways similar to the temple you're in now, although not quite as big, but rather than 8 domes dedicated to the 8 divines of Mos Numena, there is a massive statue of—oh, my!"
+        },
+        {
+          "startUid": "u2425",
+          "endUid": "u2428",
+          "quote": "You are looking down at this: an open space dominated by a massive statue of Apollyon, standing, holding the scepter in one hand, a long flowing cloak behind him, probably 40 feet tall."
+        },
+        {
+          "startUid": "u2429",
+          "endUid": "u2430",
+          "quote": "Extending from the statue, there are rows of dark pillars with pews arranged among them, set up all facing the statue. Front of the statue is an altar of sorts."
+        },
+        {
+          "startUid": "u2431",
+          "endUid": "u2433",
+          "quote": "Looking around the rest of the temples, it—this whole place seems unfinished. There are half carved statues in wall niches, extending in both directions from the huge statue of Apollyon. There are murals that are half painted, in the flickering light too far away to make out details, but you can see, you know, part of it has been painted, and the rest of it is just kind of sketched and carved in the wall and not filled in."
+        },
+        {
+          "startUid": "u2434",
+          "endUid": "u2435",
+          "quote": "To the left and right there are large side chapels that from your position of the eyeball at the roof of the dome you can't see into."
+        },
+        {
+          "startUid": "u2436",
+          "endUid": "u2438",
+          "quote": "There is a open door to the south, steps leading up from this open door to the level of this temple floor, red mist pooling at the bottom of the steps, but not seeming to ascend the steps themselves."
+        },
+        {
+          "startUid": "u2439",
+          "endUid": "u2439",
+          "quote": "No obvious other exits from this room that you can see, and nothing moving within it."
+        },
+        {
+          "startUid": "u2441",
+          "endUid": "u2443",
+          "quote": "Yeah, there's no mist inside the temple itself. And none are are at the level of the cupola at least. But it surrounds the building."
+        }
+      ],
+      "place": "p10",
+      "observerPlace": "p02",
+      "mode": "remote"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u2814",
+        "endUid": "u2867"
+      },
+      "actors": [
+        "party",
+        "chalyte knight"
+      ],
+      "reading": "Leave the safe temple on foot, pass north through Drankor’s temple district and reach the hill crest at the red-mist sinkhole.",
+      "evidence": [
+        {
+          "startUid": "u2814",
+          "endUid": "u2817",
+          "quote": "As the morning dawns, another hot, muggy day, the threat of rain in the air, as you step out of the safety of the Temple, heading north for Apollyon's tomb slash temple..."
+        },
+        {
+          "startUid": "u2836",
+          "endUid": "u2836",
+          "quote": "So you just set out on foot."
+        },
+        {
+          "startUid": "u2837",
+          "endUid": "u2837",
+          "quote": "Yeah."
+        },
+        {
+          "startUid": "u2838",
+          "endUid": "u2840",
+          "quote": "You begin making your way through the now somewhat familiar ruins of Drankor, heading north towards this rise in the hills. So you pass through the Temple district, Riswynn in the lead."
+        },
+        {
+          "startUid": "u2841",
+          "endUid": "u2842",
+          "quote": "I'm gonna—I'm gonna charge you a Channel Divinity. Not—don't want to play out some minor battle with undead, but just mark off a use of a Channel Divinity as Riswynn pushes forward with her holy symbol. Are you bring—you're bringing the chalyte knight?"
+        },
+        {
+          "startUid": "u2843",
+          "endUid": "u2843",
+          "quote": "Yes."
+        },
+        {
+          "startUid": "u2844",
+          "endUid": "u2844",
+          "quote": "Your brain—are you doing anything else?"
+        },
+        {
+          "startUid": "u2845",
+          "endUid": "u2845",
+          "quote": "There's no way Apollyon can like take the chalyte knight and like use them against us, right?"
+        },
+        {
+          "startUid": "u2846",
+          "endUid": "u2846",
+          "quote": "Chop things."
+        },
+        {
+          "startUid": "u2847",
+          "endUid": "u2847",
+          "quote": "I don't think so. There, let's bring the chalyte knight. It'll be useful."
+        },
+        {
+          "startUid": "u2849",
+          "endUid": "u2851",
+          "quote": "The Riswynn, blazing with the divine light of the Bahrâzel, driving undead before her as she leads you forward through the haunted streets of Drankor."
+        },
+        {
+          "startUid": "u2852",
+          "endUid": "u2857",
+          "quote": "20 min pass, 30 min, as you begin to climb this rise roughly here. Sorry, you can’t see that. Why is it not picking... Roughly here. And as you—as you climb, you now see over the lip of this hill, this whole area back here, you see cracks, you see the—the earth collapsed."
+        },
+        {
+          "startUid": "u2858",
+          "endUid": "u2867",
+          "quote": "This seems like this once was just a hill above the city, and the area around Apollyon's temple slash tomb has been sunk. The earth itself has collapsed underneath the tomb, and we need to switch to Apollyon's tomb. And as you rise, come up to the crest of this hill, you see before you this swirling sea of red mist, just the top of the cupola of the temple rising above it, about 600, 700 feet away, something like that, 800 feet away, from the lip, the edge of this, the sinkhole in which the jungle has grown up around the temple that once stood on the highest prominence looking out over the city."
+        }
+      ],
+      "from": "p02",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Pass through the temple district and haunted streets; Riswynn drives off undead, without a separately played combat."
+        },
+        {
+          "reading": "Climb the rise to the lip of the sinkhole; the collapsed former road is observed, not used to enter the mist."
+        }
+      ],
+      "duration": {
+        "value": 30,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "narrated elapsed time"
+      }
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u2949",
+        "endUid": "u2995"
+      },
+      "actors": [
+        "party",
+        "chalyte knight"
+      ],
+      "reading": "Reach the cupola roof above the red mist: Wellby flies natively, Delwath provides Fly to Seeker, Riswynn and the knight, and Dimension Door carries Delwath and Kenzo.",
+      "evidence": [
+        {
+          "startUid": "u2949",
+          "endUid": "u2949",
+          "quote": "So you cast Fly."
+        },
+        {
+          "startUid": "u2950",
+          "endUid": "u2950",
+          "quote": "Yep."
+        },
+        {
+          "startUid": "u2951",
+          "endUid": "u2952",
+          "quote": "On you, Riswynn. How many can you hit with Fly? 3 people?"
+        },
+        {
+          "startUid": "u2953",
+          "endUid": "u2953",
+          "quote": "3, yeah."
+        },
+        {
+          "startUid": "u2954",
+          "endUid": "u2954",
+          "quote": "So."
+        },
+        {
+          "startUid": "u2955",
+          "endUid": "u2955",
+          "quote": "Not not Seeker, not"
+        },
+        {
+          "startUid": "u2971",
+          "endUid": "u2972",
+          "quote": "Is it 500 feet to the roof of the cupola, or is that to the roof of—you could—you could creep close enough to be within 500 feet of the roof of the cupola."
+        },
+        {
+          "startUid": "u2973",
+          "endUid": "u2973",
+          "quote": "Why don't we just do that?"
+        },
+        {
+          "startUid": "u2974",
+          "endUid": "u2975",
+          "quote": "I'll cast Fly on the chalyte knight, the Riswynn and Seeker, and then which—who's the—Kenzo? As the loud..."
+        },
+        {
+          "startUid": "u2976",
+          "endUid": "u2976",
+          "quote": "Kenzo's flight is loud."
+        },
+        {
+          "startUid": "u2977",
+          "endUid": "u2977",
+          "quote": "That I'll Dimension Door me and Kenzo to the cupola."
+        },
+        {
+          "startUid": "u2978",
+          "endUid": "u2978",
+          "quote": "Okay."
+        },
+        {
+          "startUid": "u2993",
+          "endUid": "u2995",
+          "quote": "You find yourself now on the roof of the—of the cupola. There is—there's like a outer area that's that you can walk around, and there's a door."
+        },
+        {
+          "startUid": "u3081",
+          "endUid": "u3082",
+          "quote": "And Kenzo, the chalyte knight, and Riswynn can fly. Just keep—oh, no, not—yes, not Kenzo, Seeker, Seeker."
+        },
+        {
+          "startUid": "u3110",
+          "endUid": "u3111",
+          "quote": "You. The chalyte knight and Riswynn are flying with Delwath’s spell, which has like, what, 6 min left, probably?"
+        },
+        {
+          "startUid": "u3112",
+          "endUid": "u3112",
+          "quote": "7 min."
+        },
+        {
+          "startUid": "u3113",
+          "endUid": "u3113",
+          "quote": "Well, right?"
+        },
+        {
+          "startUid": "u3114",
+          "endUid": "u3114",
+          "quote": "Okay, so 6 min."
+        },
+        {
+          "startUid": "u3119",
+          "endUid": "u3121",
+          "quote": "Wellby sneakily flying over to the top of a pillar, where it meets the ceiling, to get a good look around the room. Take another careful inspection."
+        },
+        {
+          "startUid": "u3122",
+          "endUid": "u3122",
+          "quote": "Okay."
+        },
+        {
+          "startUid": "u3123",
+          "endUid": "u3124",
+          "quote": "Riswynn and the chalyte knight fly, but don't touch down, and sort of hover in the area near that 1st pillar. Yeah, like..."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "fly and Dimension Door",
+      "note": "The final Fly recipients are Seeker, Riswynn and the chalyte knight; Seeker can also fly natively. Kenzo’s loud native flight is avoided for this approach."
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u3027",
+        "endUid": "u3098"
+      },
+      "actors": [
+        "party",
+        "chalyte knight"
+      ],
+      "reading": "Descend the narrow spiral inside the temple wall and pause at the lower stairs; Wellby looks out while the others remain crouched in the stairwell.",
+      "evidence": [
+        {
+          "startUid": "u3027",
+          "endUid": "u3028",
+          "quote": "You go down the stairs. What order are you going in? It's cramped. The stairs are tight, so only Wellby can move comfortably. Everybody else is crouched over."
+        },
+        {
+          "startUid": "u3029",
+          "endUid": "u3029",
+          "quote": "Think I'm going first, probably."
+        },
+        {
+          "startUid": "u3030",
+          "endUid": "u3030",
+          "quote": "Sure."
+        },
+        {
+          "startUid": "u3031",
+          "endUid": "u3031",
+          "quote": "I’ll go second."
+        },
+        {
+          "startUid": "u3032",
+          "endUid": "u3032",
+          "quote": "I'll go last."
+        },
+        {
+          "startUid": "u3037",
+          "endUid": "u3040",
+          "quote": "Okay, so these are stairs. I mean, the stairs descend. It feel—it seems like you're going in like sort of you curve around the base of the cupola, and then it seems like you're descending down the—almost like the inside of the back wall of the temple."
+        },
+        {
+          "startUid": "u3041",
+          "endUid": "u3043",
+          "quote": "It's a tight spiral that's going down. You go down maybe 75, a hundred feet and find yourself now with a entrance that comes out sort of next near next to where the—where the statue is behind the—behind the altar."
+        },
+        {
+          "startUid": "u3044",
+          "endUid": "u3046",
+          "quote": "At. I'm not sure I totally understand what you mean by it, an entrance."
+        },
+        {
+          "startUid": "u3047",
+          "endUid": "u3048",
+          "quote": "You—you go down this tight spiral, and then it comes out onto the ground floor. Yeah."
+        },
+        {
+          "startUid": "u3063",
+          "endUid": "u3064",
+          "quote": "Okay. Wellby is looking out. The rest of you are still in the staircase."
+        },
+        {
+          "startUid": "u3097",
+          "endUid": "u3098",
+          "quote": "Currently Wellby’s—as far as I understand it, Wellby is standing at the bottom of the stair, and has not stepped into the temple. The rest of you are crouched, huddled in the stairwell itself."
+        },
+        {
+          "startUid": "u3110",
+          "endUid": "u3111",
+          "quote": "You. The chalyte knight and Riswynn are flying with Delwath’s spell, which has like, what, 6 min left, probably?"
+        },
+        {
+          "startUid": "u3112",
+          "endUid": "u3112",
+          "quote": "7 min."
+        },
+        {
+          "startUid": "u3113",
+          "endUid": "u3113",
+          "quote": "Well, right?"
+        },
+        {
+          "startUid": "u3114",
+          "endUid": "u3114",
+          "quote": "Okay, so 6 min."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "descend stairs",
+      "note": "At this pause Wellby has not stepped into the main hall; looking out does not establish entry."
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u3104",
+        "endUid": "u3159"
+      },
+      "actors": [
+        "Wellby",
+        "Seeker",
+        "Riswynn",
+        "Kenzo",
+        "chalyte knight"
+      ],
+      "reading": "The group emerges into the hall: Wellby flies towards a pillar top, Riswynn and the knight hover near the first pillar, and Seeker moves towards the altar; Kenzo joins the hall confrontation.",
+      "evidence": [
+        {
+          "startUid": "u3104",
+          "endUid": "u3104",
+          "quote": "Walk out."
+        },
+        {
+          "startUid": "u3105",
+          "endUid": "u3105",
+          "quote": "I think everybody who can fly should fly."
+        },
+        {
+          "startUid": "u3106",
+          "endUid": "u3106",
+          "quote": "Walk, slash, fly out! Yes."
+        },
+        {
+          "startUid": "u3115",
+          "endUid": "u3115",
+          "quote": "Seeker will descend to place a hand on the stone floor, once we're out, to use tremorsense to detect..."
+        },
+        {
+          "startUid": "u3116",
+          "endUid": "u3116",
+          "quote": "Okay."
+        },
+        {
+          "startUid": "u3117",
+          "endUid": "u3118",
+          "quote": "Hold on, hold on one sec. So, Seeker, can you tell me what everybody’s doing as you fly out, before we do—before I—I describe what happens?"
+        },
+        {
+          "startUid": "u3119",
+          "endUid": "u3121",
+          "quote": "Wellby sneakily flying over to the top of a pillar, where it meets the ceiling, to get a good look around the room. Take another careful inspection."
+        },
+        {
+          "startUid": "u3122",
+          "endUid": "u3122",
+          "quote": "Okay."
+        },
+        {
+          "startUid": "u3123",
+          "endUid": "u3124",
+          "quote": "Riswynn and the chalyte knight fly, but don't touch down, and sort of hover in the area near that 1st pillar. Yeah, like..."
+        },
+        {
+          "startUid": "u3132",
+          "endUid": "u3132",
+          "quote": "Seeker is doing tremorsense where, roughly?"
+        },
+        {
+          "startUid": "u3133",
+          "endUid": "u3133",
+          "quote": "Go over close to the altar."
+        },
+        {
+          "startUid": "u3134",
+          "endUid": "u3134",
+          "quote": "Okay."
+        },
+        {
+          "startUid": "u3135",
+          "endUid": "u3136",
+          "quote": "I would have done this a little bit earlier. But any—any souls, consciousnesses to speak of, recognizable?"
+        },
+        {
+          "startUid": "u3137",
+          "endUid": "u3137",
+          "quote": "Nope."
+        },
+        {
+          "startUid": "u3145",
+          "endUid": "u3145",
+          "quote": "And where's Kenzo going?"
+        },
+        {
+          "startUid": "u3146",
+          "endUid": "u3147",
+          "quote": "Awesome. Do I just like start praying at the altar? Like, what do you guys think?"
+        },
+        {
+          "startUid": "u3148",
+          "endUid": "u3148",
+          "quote": "Sorry, Kenzo, you’re using your—Kenzo is using the Sense Aura."
+        },
+        {
+          "startUid": "u3149",
+          "endUid": "u3149",
+          "quote": "Yeah."
+        },
+        {
+          "startUid": "u3150",
+          "endUid": "u3150",
+          "quote": "Are you looking for anything in particular?"
+        },
+        {
+          "startUid": "u3151",
+          "endUid": "u3151",
+          "quote": "Looking for Apollyon."
+        },
+        {
+          "startUid": "u3152",
+          "endUid": "u3153",
+          "quote": "And make a—make an Insight check."
+        },
+        {
+          "startUid": "u3154",
+          "endUid": "u3154",
+          "quote": "23."
+        },
+        {
+          "startUid": "u3155",
+          "endUid": "u3156",
+          "quote": "Sorry. Hold on. Let me check one thing. Okay, so that is your action. Okay? So I'll come back to you in a sec."
+        },
+        {
+          "startUid": "u3157",
+          "endUid": "u3159",
+          "quote": "So as Riswynn begins to drift out, Seeker begins to move forward, Wellby starts to fly. Wait! Where did—where is Wellby?"
+        },
+        {
+          "startUid": "u3371",
+          "endUid": "u3373",
+          "quote": "Sorry, looks—it looks at Delwath. Actually, let's see, Kenzo's—Kenzo's on the ground. Kenzo's standing right now, right?"
+        },
+        {
+          "startUid": "u3374",
+          "endUid": "u3374",
+          "quote": "I can also be flying. Well, I'm gonna fly out to attack him right."
+        },
+        {
+          "startUid": "u3375",
+          "endUid": "u3377",
+          "quote": "Yeah, he looks—he looks at Kenzo, and he—so he glares at you, and he says, “Pathetic, impure, half-breed humans, kneel before me.” Make a wisdom saving throw."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "walk and fly"
+    },
+    {
+      "id": "l08",
+      "type": "presence",
+      "source": {
+        "startUid": "u3141",
+        "endUid": "u3144"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Delwath initially stays near the stair exit, looking around without stepping onto the hall floor.",
+      "evidence": [
+        {
+          "startUid": "u3141",
+          "endUid": "u3142",
+          "quote": "But otherwise I'm just gonna stay—I'm just gonna get to the place where I mean... I'm gonna go somewhere where I can see out the best as well."
+        },
+        {
+          "startUid": "u3143",
+          "endUid": "u3143",
+          "quote": "I got."
+        },
+        {
+          "startUid": "u3144",
+          "endUid": "u3144",
+          "quote": "Out of the way, but not actually step out onto the floor and work around."
+        }
+      ],
+      "place": "p09"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u3312",
+        "endUid": "u3367"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scatter takes Delwath from the exit area to melee range beside Apollyon and his statue in the main hall.",
+      "evidence": [
+        {
+          "startUid": "u3317",
+          "endUid": "u3318",
+          "quote": "So I think everybody except Wellby. Where do you want to be? Everybody move yourself anywhere you want to be within 120 feet of your current position."
+        },
+        {
+          "startUid": "u3324",
+          "endUid": "u3324",
+          "quote": "Coming into melee, too."
+        },
+        {
+          "startUid": "u3350",
+          "endUid": "u3350",
+          "quote": "And then I'm going to attack him."
+        },
+        {
+          "startUid": "u3351",
+          "endUid": "u3352",
+          "quote": "Okay. You appear next to him, and he turns and looks at you."
+        },
+        {
+          "startUid": "u3353",
+          "endUid": "u3354",
+          "quote": "That messy gonna miss. 21."
+        },
+        {
+          "startUid": "u3355",
+          "endUid": "u3355",
+          "quote": "That hits, and as you strike him, roll your damage."
+        },
+        {
+          "startUid": "u3356",
+          "endUid": "u3357",
+          "quote": "That hold on. Sorry. I have too many windows open. 21."
+        },
+        {
+          "startUid": "u3358",
+          "endUid": "u3360",
+          "quote": "As you strike him, he turns it and looks at you, and he utters a word of magic in Drankorian that means something like “horrific elf,” and you take 12 points of necrotic damage, and your next attack is made at disadvantage."
+        },
+        {
+          "startUid": "u3361",
+          "endUid": "u3361",
+          "quote": "Tim, would you put the chalyte knight on the other side?"
+        },
+        {
+          "startUid": "u3362",
+          "endUid": "u3362",
+          "quote": "Yep."
+        },
+        {
+          "startUid": "u3363",
+          "endUid": "u3363",
+          "quote": "Thank you."
+        },
+        {
+          "startUid": "u3364",
+          "endUid": "u3364",
+          "quote": "Next attack misses."
+        },
+        {
+          "startUid": "u3365",
+          "endUid": "u3365",
+          "quote": "Misses."
+        },
+        {
+          "startUid": "u3366",
+          "endUid": "u3366",
+          "quote": "That was all 3 of my attacks."
+        },
+        {
+          "startUid": "u3367",
+          "endUid": "u3367",
+          "quote": "That ends Delwath’s turn."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "Scatter"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-session.yaml",
+  "source": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-time-markers.json",
+    "sha256": "b5d4b3be595cd3954fa5b226212d1a615417006c034f87f810d7a1bf61c1d627"
+  },
+  "transcript": {
+    "path": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-transcript.md",
+    "sha256": "424a2e070fe8ec6b107afda56d6fbfa579b0539fd2cc1839ea9f58d12e257aca"
+  },
+  "dateAssessment": "May 24 is spoken in the transcript; the year 1749 comes from YAML. The completed overnight at t07 and dawn at t09 place the expedition on **May 25**, conditional on that starting date. This conflicts with YAML drEnd = 1749-05-24. The source chronology is retained throughout these rows. The pre-teleport short rest is confirmed retrospectively; its exact watch is unrecorded and it is listed with the opening it precedes. Sura’s western noon is a separate local clock; the DM’s rough 1–3 p.m. Drankor conversion crosses the midday/afternoon boundary. Future prison-release countdowns do not establish elapsed time or a resolved release date.",
+  "watches": [
+    {
+      "day": "May 24, 1749",
+      "startWatch": "morning",
+      "endWatch": "morning",
+      "basis": "stated",
+      "summary": "Vindristjarna was turned around “this morning”; its later distance remains a forecast.",
+      "markers": [
+        "t04"
+      ],
+      "startDate": "1749-05-24",
+      "endDate": "1749-05-24",
+      "scope": "Vindristjarna"
+    },
+    {
+      "day": "May 24, 1749",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "mixed",
+      "summary": "Opening about 11 a.m.; the prior ship short rest is confirmed, with its clock unspecified.",
+      "markers": [
+        "t01",
+        "t02"
+      ],
+      "startDate": "1749-05-24",
+      "endDate": "1749-05-24"
+    },
+    {
+      "day": "May 24, 1749",
+      "startWatch": "midday",
+      "endWatch": "midday",
+      "basis": "stated",
+      "summary": "Ceasefire shortly before western noon; the DM loosely equates this to 1–3 p.m. in Drankor.",
+      "markers": [
+        "t06"
+      ],
+      "startDate": "1749-05-24",
+      "endDate": "1749-05-24",
+      "clock": "local",
+      "scope": "Sura’s western report"
+    },
+    {
+      "day": "May 24, 1749",
+      "startWatch": "dusk",
+      "endWatch": "dusk",
+      "basis": "mixed",
+      "summary": "Afternoon debate reaches sunset dinner; renewed feast falls near 9 p.m. from its next-day expiry.",
+      "markers": [
+        "t03",
+        "t05",
+        "t08"
+      ],
+      "startDate": "1749-05-24",
+      "endDate": "1749-05-24"
+    },
+    {
+      "day": "May 24–25, 1749",
+      "startDate": "1749-05-24",
+      "endDate": "1749-05-25",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "mixed",
+      "summary": "Completed overnight long rest; eight-hour convention and the following dawn support these endpoints.",
+      "markers": [
+        "t07"
+      ]
+    },
+    {
+      "day": "May 25, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "stated",
+      "summary": "The next morning dawns; the party leaves the sanctuary.",
+      "markers": [
+        "t09"
+      ],
+      "startDate": "1749-05-25",
+      "endDate": "1749-05-25"
+    },
+    {
+      "day": "May 25, 1749",
+      "startWatch": "dawn",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "summary": "Thirty minutes to the rim; later one-minute pact restoration before entering the hall.",
+      "markers": [
+        "t10",
+        "t11"
+      ],
+      "startDate": "1749-05-25",
+      "endDate": "1749-05-25"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-session.yaml",
+    "sessionYamlSha256": "f4ef84a3bf471308a1890283277543b1373fe59bc7db5cee7101dea3e3912203",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-transcript.md",
+    "sessionId": "dunmari-frontier-116",
+    "transcriptSha256": "424a2e070fe8ec6b107afda56d6fbfa579b0539fd2cc1839ea9f58d12e257aca"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0012"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0013",
+        "endUid": "u0093"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0094",
+        "endUid": "u0106"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0107",
+        "endUid": "u0146"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0147",
+        "endUid": "u0155"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0156",
+        "endUid": "u0175"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0176",
+        "endUid": "u0188"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u0189",
+        "endUid": "u0294"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u0295",
+        "endUid": "u1345"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1346",
+        "endUid": "u2619"
+      },
+      "category": "gameplay",
+      "note": "The isolated initiative contest over the crown at u2129–u2139 resolves a single grab, without an ordered repeating combat cycle."
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u2620",
+        "endUid": "u2813"
+      },
+      "category": "meta_discussion",
+      "note": "Out-of-character level-up, spell preparation and character-sheet discussion; the overnight rest is established in gameplay and later confirmed."
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2814",
+        "endUid": "u3247"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s013",
+      "source": {
+        "startUid": "u3248",
+        "endUid": "u3634"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s014",
+      "source": {
+        "startUid": "u3635",
+        "endUid": "u3739"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s015",
+      "source": {
+        "startUid": "u3740",
+        "endUid": "u3757"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
