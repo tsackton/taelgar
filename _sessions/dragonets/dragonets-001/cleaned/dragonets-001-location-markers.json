@@ -24,7 +24,7 @@
         }
       ],
       "vaultPath": "Gazetteer/Drankorian Hinterland/Circular Island.md",
-      "note": "The vault note describes a DR 1749 state; this campaign’s date relative to that state is unresolved. Only identity is imported."
+      "note": "The vault’s DR 1749 history does not date this undated Dragonets campaign."
     },
     "p02": {
       "label": "Wanderer statue",
@@ -53,8 +53,7 @@
             }
           ]
         }
-      ],
-      "note": "This physical statue is distinct from the deity The Wanderer; no separate statue note was found."
+      ]
     },
     "p03": {
       "label": "Wanderer’s palm",
@@ -112,8 +111,7 @@
             }
           ]
         }
-      ],
-      "note": "The Dark Lady is this statue’s dragonet name; it is not a physical visit to the deity The Night Queen."
+      ]
     },
     "p05": {
       "label": "Great Temple grounds",
@@ -142,8 +140,7 @@
             }
           ]
         }
-      ],
-      "note": "The transcript establishes the central-island setting. Vault-only summit geography and DR 1749 conditions are not imported."
+      ]
     },
     "p06": {
       "label": "Green-room cabana",
@@ -248,10 +245,10 @@
               "endUid": "u0568",
               "quote": "Sculpit: As you're… as we're walking, or flying, or whatever, Sculpit’s kind of muttering and kind of waving his hands a little bit. And… I, you know, he, he… about a few minutes, we get somewhere a little bit more quiet, right? And he takes… color… something out of a little pouch or something, and hands it to, apparently, the thin air, where there's now… he’s cast some sort of spell… and sends, it says, “Here, show me, chase that!” And some invisible creature holding a little ball, or… you know, cloth or something, some red thing, starts running off the other direction."
             }
-          ],
-          "note": "The PCs leave the crowded tents and arrive a few minutes later; the exact temple-ground boundary is not established."
+          ]
         }
-      ]
+      ],
+      "note": "A few minutes from the tents; its position inside or outside the temple grounds is unspecified."
     },
     "p09": {
       "label": "Zare’s festival station",
@@ -521,7 +518,7 @@
           "quote": "DM: And as you get closer, you realize that there's a figure on the ground. Lying on the ground. And as you get closer and closer, collectively, all of you kind of getting closer to this scene, you realize that, lying on the ground, there’s a dragonet there. And the dragonet is… broken, is… wounded severely. And it's a… it's a purple dragonet. It's an older one. You’ve never seen this one before, huh? But it’s got some, you know, silvery fur, and it’s got some… amethyst-looking skin and scales. But one of its wings is folded back on itself, broken. And it’s lying in a pool of blood, deep, deep, dark blood."
         }
       ],
-      "note": "Its location and date are unknown; the PCs experience it in the shared vision."
+      "note": "The vision’s place and date are unidentified."
     },
     "p17": {
       "label": "Sea outside the island’s storm",
@@ -532,8 +529,7 @@
           "endUid": "u2059",
           "quote": "DM: And then… you come out. And you see, before you, this sea, this vast, vast sea in this night sky. And you’re hurtling towards that sea, over the sea, and then you see a storm in the distance, this weird, like, vertical storm that’s just, like, hovering."
         }
-      ],
-      "note": "Seen only within the shared vision’s return trajectory; no external geographical identification is imported."
+      ]
     },
     "p18": {
       "label": "Storm surrounding the island",
@@ -755,7 +751,7 @@
       "actors": [
         "party"
       ],
-      "reading": "The four PCs leave the crowded tents and reach a quiet practice spot; Little Tony’s departure is explicitly clarified.",
+      "reading": "The four PCs converge at a quiet practice spot after leaving the crowded tents; Little Tony’s departure is explicitly clarified.",
       "evidence": [
         {
           "startUid": "u0519",
@@ -788,7 +784,7 @@
           "quote": "Little Tony: Elbows Zeno in the ribs, like, “I told you my boy can cook!”"
         }
       ],
-      "from": "p07",
+      "from": null,
       "to": "p08",
       "completion": "arrived",
       "mode": "walk or fly",
@@ -797,7 +793,8 @@
         "unit": "minute",
         "precision": "vague",
         "basis": "Narrated completed movement."
-      }
+      },
+      "note": "Heska, Zeno and Sculpit are at the nearby tent; Little Tony is said to have left Xena’s tent. Their precise shared departure point is not established."
     },
     {
       "id": "l08",
