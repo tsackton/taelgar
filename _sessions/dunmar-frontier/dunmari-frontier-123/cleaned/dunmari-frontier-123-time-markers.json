@@ -9,7 +9,43 @@
     "yamlDates": {
       "start": "1749-06-13",
       "end": "1749-06-14"
-    }
+    },
+    "supplementarySources": [
+      {
+        "sessionId": "dunmari-frontier-124",
+        "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-124/cleaned/dunmari-frontier-124-session.yaml",
+        "sessionYamlSha256": "bf40bd9b06c6c1b4981e210759ee202455c6fb4969d0ea38c2c600fe9271f534",
+        "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-124/cleaned/dunmari-frontier-124-transcript.md",
+        "transcriptSha256": "c08ea3b1788b8464d00629b77c973e2fd7f710ffe7eae228f36521e88863880c",
+        "evidence": [
+          {
+            "startUid": "u0001",
+            "endUid": "u0003",
+            "quote": "We start where we left off, which was where you all returned to Vindristjarna, parked above the Redstone house of the monks Pava and Avaras in the Dunmari Desert."
+          },
+          {
+            "startUid": "u0063",
+            "endUid": "u0064",
+            "quote": "So let's pick up as you return from the Feywilds on the Rainbow Bridge to Vindristjarna, parked above the Dunmari Desert."
+          },
+          {
+            "startUid": "u0093",
+            "endUid": "u0097",
+            "quote": "let's see, it's mid-afternoon, something like that. Late afternoon, you've been—We'll say—no, we'll say it's morning. I wrote down it's morning"
+          },
+          {
+            "startUid": "u0229",
+            "endUid": "u0230",
+            "quote": "DM: Like mid-morning."
+          },
+          {
+            "startUid": "u0231",
+            "endUid": "u0232",
+            "quote": "DM: Yeah, yeah, we're starting just as you arrived."
+          }
+        ]
+      }
+    ]
   },
   "markers": [
     {
@@ -282,6 +318,40 @@
       "actors": [
         "Valeris"
       ]
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1324",
+        "endUid": "u1328"
+      },
+      "reading": "The closing return to Vindristjarna above Pava and Avaras’ house is in mid-morning, inferred retrospectively from Session 124’s explicit continuation of that arrival.",
+      "actors": [
+        "party"
+      ],
+      "time": {
+        "partOfDay": "mid-morning",
+        "precision": "approximate",
+        "basis": "Supplementary Session 124 identifies this same arrival at u0001–u0003 and u0063–u0064, corrects afternoon to morning at u0093–u0097, then specifies mid-morning at u0229–u0232."
+      },
+      "evidence": [
+        {
+          "startUid": "u1324",
+          "endUid": "u1328",
+          "quote": "DM: So you open the Rainbow Bridge, and the portal appears leading you to Vindristjarna. You step across and find yourself floating 40 feet above a desert. The—"
+        },
+        {
+          "startUid": "u1343",
+          "endUid": "u1344",
+          "quote": "DM: Flying over a red stone house. Nobody recognizes this?"
+        },
+        {
+          "startUid": "u1347",
+          "endUid": "u1348",
+          "quote": "DM: Pava and Avaras live."
+        }
+      ],
+      "note": "The clock evidence belongs to the fingerprinted supplementary Session 124 source, not to Session 123’s speech. No civil date, date transition, or preceding Feywild watch follows; yamlCheck retains the current-transcript-only assessment."
     }
   ],
   "yamlCheck": {
