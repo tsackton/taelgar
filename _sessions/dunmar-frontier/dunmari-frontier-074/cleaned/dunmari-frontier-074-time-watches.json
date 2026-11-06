@@ -3,13 +3,13 @@
   "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-074/cleaned/dunmari-frontier-074-session.yaml",
   "source": {
     "path": "_sessions/dunmar-frontier/dunmari-frontier-074/cleaned/dunmari-frontier-074-time-markers.json",
-    "sha256": "694c21f9e3fda2861c05e39a7999c8b3c1d210b780cc4bf311080d16ccbafa2c"
+    "sha256": "658cd995250893f3ee30c4b4456b9689f94567d489b8e7c99e3b305b2ccd0aff"
   },
   "transcript": {
     "path": "_sessions/dunmar-frontier/dunmari-frontier-074/cleaned/dunmari-frontier-074-transcript.md",
     "sha256": "114d77a10220233a5b20342f50ef2285513e95671b6246236ec71600c918fcb4"
   },
-  "dateAssessment": "Working calendar: the compatible session YAML, November 24–29, 1748. Spoken anchors independently name November 25, 27 and 28; the year comes from YAML. The preceding return evening is November 24, and the midnight after November 28 reaches civil November 29. The dream’s “middle of the night” remains a November 27–28 date window. The time extraction supports all five date transitions and is matched to the YAML. The campaign note’s internal timeline instead moves the shield work, helm completion, Alesh meeting, army departure and first lift a day later; those competing dates remain flagged. No later practice day, November 30 travel forecast, prior adventure recap or hypothetical duration extends played time.",
+  "dateAssessment": "Working calendar: session 074’s own transcript fits the YAML’s November 24–29, 1748 span, but its cross-session ending date remains unresolved. Spoken anchors name November 25, 27 and 28; the year comes from YAML. The preceding return evening is November 24, and t22 retains November 29 for the midnight after the explicitly dated November 28 first lift. The dream’s “middle of the night” remains a November 27–28 date window. Supplementary session 075 u0001–u0043 continues the same howling encounter and tilted ship, then u1099–u1104 places the post-fight camp return at one a.m.; the immediately following long rest and November 30 breakfast at u1170–u1174 instead imply November 30 for that continuing encounter. Both readings remain open. The time extraction therefore calls the YAML compatible, while preserving session 074’s five internally established transitions; no extra day or canonical correction is inferred. The campaign note’s separate one-day drift in shield work, helm completion, Alesh’s visit, army departure and first lift also remains flagged.",
   "watches": [
     {
       "day": "November 24, 1748",
@@ -187,7 +187,7 @@
       "startWatch": "midnight",
       "endWatch": "midnight",
       "basis": "stated",
-      "summary": "The next midnight watch brings howling and a wake-up, after November 28’s first lift.",
+      "summary": "Session 074: midnight after November 28’s lift implies November 29; session 075’s continuing encounter implies November 30.",
       "markers": [
         "t22"
       ],
@@ -215,6 +215,11 @@
       "label": "Tower reference",
       "path": "Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower.md",
       "sha256": "a8563902c0c72bcabd8b2d8372b917e154817be284d68d7047ac9c3f8bfb3281"
+    },
+    {
+      "label": "Session 075 registered polished transcript",
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-transcript.md",
+      "sha256": "00b24463ffb6489a5efcba5dbdf9795e45fd81756520bab1e197f2a526179f1c"
     }
   ]
 }
