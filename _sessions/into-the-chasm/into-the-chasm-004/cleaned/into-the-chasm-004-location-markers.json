@@ -1,0 +1,771 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "into-the-chasm-004",
+    "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-session.yaml",
+    "sessionYamlSha256": "c532b4b7fe092abe82d9511d1eb0d4c66943427af088e668208f6ef147f44e61",
+    "transcriptPath": "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-transcript.md",
+    "transcriptSha256": "17050223d012d38981ec5fdd1a2c975d0b1db81e5767cfaa35b844c57367252a"
+  },
+  "places": {
+    "p01": {
+      "label": "Nura and Khaled’s hut",
+      "kind": "dwelling",
+      "evidence": [
+        {
+          "startUid": "u0003",
+          "endUid": "u0009",
+          "quote": "DM: So… when we… left our intrepid heroes, they were… you were hiding in Khaled and… Nura… Nura’s house, family of Kalima, a small… sort of one and a half room… hut in this odd village set on the side of the chasm in a mysterious land where the sun never seems to set, or at least only sets rarely, ruled by… Lord… Oh, I gotta find… I have my wrong notes. Ruled by this… this lord, Lord Forquarion… Forquarion, the Frostbinder, also called Malk… Malquin."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0003",
+              "endUid": "u0009",
+              "quote": "DM: So… when we… left our intrepid heroes, they were… you were hiding in Khaled and… Nura… Nura’s house, family of Kalima, a small… sort of one and a half room… hut in this odd village set on the side of the chasm in a mysterious land where the sun never seems to set, or at least only sets rarely, ruled by… Lord… Oh, I gotta find… I have my wrong notes. Ruled by this… this lord, Lord Forquarion… Forquarion, the Frostbinder, also called Malk… Malquin."
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "Melusa",
+      "kind": "village",
+      "evidence": [
+        {
+          "startUid": "u0610",
+          "endUid": "u0618",
+          "quote": "DM: So you head across, so the, the, the… place they pointed you to is… so the… the village is divided into two sections. There's a bigger section on this side of the river. So there's a… there's a big waterfall that comes down out from the mists, splashes down to the ground, and then forms a pool where that’s teeming with fish. Right, and then [garbled] goes down off the edge of the chasm. And just… vanishes, right? So… you can cross it, I mean, it's shallow, right? On the… both sides of the pool, it's relatively shallow, and you can just kind of walk across it. It's not even that… it's surprisingly not that cold. There's a smaller village, or sorry, a larger village that you're part of in right now, on… the side of the river you’re on.\n\nDM: Zahara's a… you sort of are pointed to a… to, like, three… huts on the other… on the far side, like, close to the… to the bridge to the Cattle Island."
+        }
+      ],
+      "note": "Named Melusa in the linked Episode 04; current speech usually calls it the village.",
+      "vaultPath": "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Melusa.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0540",
+              "endUid": "u0552",
+              "quote": "DM: The… super short version is you are trapped in some… there’s these five magical cracks in the wall that Ekko investigated that seem like they’re… showing various strange things on the other side. But one of the… one of the five seems to be showing, like, the chasm when you look through it. You're in some village on the edge of a… like, in the chas- it looks like a village in the chasm. There's, like, a giant rock in the middle of the chasm with an ice palace floating on it. You're in some… there's, like, fog above you and clouds all around, like, there's clearly some magical boundary to this place, and Finnan's magic said that that's the edge of this realm, whatever it is. So you're in some sort of demiplane, almost certainly. There…\n\nEolo: So we went… we went through the crack into this demi-.\n\nDM: No, you didn't go through the crack. You emerged from the labyrinth into the demiplane. When you killed the beast, and escaped the Labyrinth, you were in the Demiplane.\n\nJrain: Labyrinth was in the demiplane, and completing the labyrinth put us in a different part of the demiplane.\n\nDM: Most likely, yes, yes. Basically, when the adventure started, when you fell into the chasm in the very beginning, you fell into the demiplane instead of the chasm.\n\nEkko: I feel…\n\nDM: The Labyrinth was a demiplane."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Zeyfa’s Realm",
+      "kind": "demiplane",
+      "evidence": [
+        {
+          "startUid": "u0540",
+          "endUid": "u0552",
+          "quote": "DM: The… super short version is you are trapped in some… there’s these five magical cracks in the wall that Ekko investigated that seem like they’re… showing various strange things on the other side. But one of the… one of the five seems to be showing, like, the chasm when you look through it. You're in some village on the edge of a… like, in the chas- it looks like a village in the chasm. There's, like, a giant rock in the middle of the chasm with an ice palace floating on it. You're in some… there's, like, fog above you and clouds all around, like, there's clearly some magical boundary to this place, and Finnan's magic said that that's the edge of this realm, whatever it is. So you're in some sort of demiplane, almost certainly. There…\n\nEolo: So we went… we went through the crack into this demi-.\n\nDM: No, you didn't go through the crack. You emerged from the labyrinth into the demiplane. When you killed the beast, and escaped the Labyrinth, you were in the Demiplane.\n\nJrain: Labyrinth was in the demiplane, and completing the labyrinth put us in a different part of the demiplane.\n\nDM: Most likely, yes, yes. Basically, when the adventure started, when you fell into the chasm in the very beginning, you fell into the demiplane instead of the chasm.\n\nEkko: I feel…\n\nDM: The Labyrinth was a demiplane."
+        },
+        {
+          "startUid": "u0674",
+          "endUid": "u0684",
+          "quote": "DM: “Here? Well…” The elders say, he says… “Here is Zeyfa’s… realm. We’ve been brought here for sins of the ancient past, and… we are stuck forever.”\n\nEkko: Whose sins?\n\nJrain: Nope, nope.\n\nDM: “Our… our ancestors, I guess, the story says, although… nobody’s ever been able to tell us what those sins are, exactly.” It is just… He kind of looks at it as just, some people are born unlucky.\n\nDM: The elders say it is us, all of us, who are perpetually born unlucky in this place, and we will never… “Change does not come here.”"
+        }
+      ],
+      "note": "The name follows Iskander’s attributed account; the exact planar nature remains unresolved.",
+      "vaultPath": "Gazetteer/Extraplanar/Shadowfolds/Zeyfa's Realm/Zeyfa's Realm.md"
+    },
+    "p04": {
+      "label": "Ice Palace",
+      "kind": "palace",
+      "evidence": [
+        {
+          "startUid": "u0010",
+          "endUid": "u0017",
+          "quote": "DM: And you had just… discovered not very much about the people here. Khaled and Nura were not that talkative. Kalima was withdrawn and shaken from her experience. The… but you did, through Finnan’s clairvoyance, see… Forquarion send a group of… a bunch of… a group of a bunch of soldiers from his ice palace, across a bridge that extended from this giant… a bridge of ice that extended from this floating rock to the side of the cliff. And they started marching. Then the clairvoyance ended, and it was also fixed, so what they were doing is unclear."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0540",
+              "endUid": "u0545",
+              "quote": "DM: The… super short version is you are trapped in some… there’s these five magical cracks in the wall that Ekko investigated that seem like they’re… showing various strange things on the other side. But one of the… one of the five seems to be showing, like, the chasm when you look through it. You're in some village on the edge of a… like, in the chas- it looks like a village in the chasm. There's, like, a giant rock in the middle of the chasm with an ice palace floating on it. You're in some… there's, like, fog above you and clouds all around, like, there's clearly some magical boundary to this place, and Finnan's magic said that that's the edge of this realm, whatever it is. So you're in some sort of demiplane, almost certainly. There…"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Iskander’s hut",
+      "kind": "dwelling",
+      "evidence": [
+        {
+          "startUid": "u0643",
+          "endUid": "u0668",
+          "quote": "DM: And you get to a, you get to this, this, this hut, I mean, the door's closed.\n\nJustas: Justas knocks, politely.\n\nDM: A… [garbled]…\n\nDM: Older… man with, like… sort of balding, a little bit. A little bit heavyset, but not, like… But maybe in… maybe in his 50s or 60s, you would guess. opens the door, and kind of looks you up and down… and sort of steps back… for a minute?\n\nDM: And then…\n\nJustas: Thanks, says Justas, interpreting that as a invitation coming in. So…\n\nDM: Yeah, no, no, no, he, like, motions with his hand for a minute.\n\nDM: “You must be those who came with Kalima.” [garbled] He kind of looks around. “Wha- what can I do for you?”\n\nJustas: Well, I mean, not… not to put too fine a point on it, our hope was to… break the grip of the fae imposter who’s kidnapped you, destroy the wolf who keeps you trapped here and lead everyone to freedom. How does that line up with your priorities?\n\nDM: He kinda… looks a little bit… he just… he actually just bursts out laughing. “Impossible dreamers.”\n\nJustas: Ha ha ha ha.\n\nDM: “Iskander,” he introduced himself. “Iskander.” It’s, “How did you get here? That’s a story I would like to hear.”"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0610",
+              "endUid": "u0618",
+              "quote": "DM: So you head across, so the, the, the… place they pointed you to is… so the… the village is divided into two sections. There's a bigger section on this side of the river. So there's a… there's a big waterfall that comes down out from the mists, splashes down to the ground, and then forms a pool where that’s teeming with fish. Right, and then [garbled] goes down off the edge of the chasm. And just… vanishes, right? So… you can cross it, I mean, it's shallow, right? On the… both sides of the pool, it's relatively shallow, and you can just kind of walk across it. It's not even that… it's surprisingly not that cold. There's a smaller village, or sorry, a larger village that you're part of in right now, on… the side of the river you’re on.\n\nDM: Zahara's a… you sort of are pointed to a… to, like, three… huts on the other… on the far side, like, close to the… to the bridge to the Cattle Island."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Bridge landing beside the salmon pond",
+      "kind": "landing",
+      "evidence": [
+        {
+          "startUid": "u1103",
+          "endUid": "u1109",
+          "quote": "DM: Let’s… let’s do this. Let me just tell you… let me tell you what you're doing. So… or tell me what you're doing. So you march out of the… you skulk out of the house, and then march. The bridge kind of appears right… normally would appear right near where the… where the salmon pond is. So you march back. So, tell me what you're doing.\n\nFinnan: Yeah, march back to where the bridge appears, and then just stand there, obviously, in the open.\n\nDM: So, hold on a sec, Tim. So, Kenku, what do you guys do? What, what is Kate, so what is Jrain doing?\n\nJrain: Jrain is fluffing up her cloak dramatically and just striding off looking like a… warrior. Okay."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1103",
+              "endUid": "u1109",
+              "quote": "DM: Let’s… let’s do this. Let me just tell you… let me tell you what you're doing. So… or tell me what you're doing. So you march out of the… you skulk out of the house, and then march. The bridge kind of appears right… normally would appear right near where the… where the salmon pond is. So you march back. So, tell me what you're doing.\n\nFinnan: Yeah, march back to where the bridge appears, and then just stand there, obviously, in the open.\n\nDM: So, hold on a sec, Tim. So, Kenku, what do you guys do? What, what is Kate, so what is Jrain doing?\n\nJrain: Jrain is fluffing up her cloak dramatically and just striding off looking like a… warrior. Okay."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Metal rift in the cliff",
+      "kind": "rift threshold",
+      "evidence": [
+        {
+          "startUid": "u1122",
+          "endUid": "u1149",
+          "quote": "DM: Lots of things, maybe, in the jungle, on the little jungle island. There's, like, snow and mist and ice. There's a cattle island with a rope bridge to it.\n\nEolo: Hmm, stop.\n\nDM: The huts are mostly stone.\n\nDM: There's, of course, like, 4 cracks of weird magic in the wall, but that's about 400… 400 feet away.\n\nEolo: Hmm. Well, open day.\n\nFinnan: Wow.\n\nEolo: For that, but…\n\nFinnan: What is your quiver, exactly? Can you… can you, like, stick it into the… sharp metal one and get weird metallic plane of metal arrows? How does it work? I don't know.\n\nEolo: Well, you know, mostly I’ve just, like, put a little glowing ember in there, and then I can shoot a flaming arrow, or a chunk of ice, or… or stone or something.\n\nDM: It takes a short rest to change it, is the main thing.\n\nEolo: Yeah.\n\nDM: But whatever you…\n\nEolo: I've never tried.\n\nDM: Eolo just puts things in the quiver, and then the arrows that magically appear in his quiver.\n\nFinnan: I see.\n\nDM: Are somehow related to the thing he puts in it. Like, how does it work? I don’t know.\n\nEolo: I've never tried fish arrows, I like your idea even better. I'll go try that, just a minute.\n\nDM: So you're gonna walk over… you're gonna… you're gonna walk over to the… to the gash that is the metal… the plane of the metal, the weird metal, and what? Try and grab a piece?\n\nEolo: Yep. This is a good character, I enjoy playing him.\n\nDM: No, it's not a vortex, you don't get sucked through. If you just stick your hand in."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1122",
+              "endUid": "u1149",
+              "quote": "DM: Lots of things, maybe, in the jungle, on the little jungle island. There's, like, snow and mist and ice. There's a cattle island with a rope bridge to it.\n\nEolo: Hmm, stop.\n\nDM: The huts are mostly stone.\n\nDM: There's, of course, like, 4 cracks of weird magic in the wall, but that's about 400… 400 feet away.\n\nEolo: Hmm. Well, open day.\n\nFinnan: Wow.\n\nEolo: For that, but…\n\nFinnan: What is your quiver, exactly? Can you… can you, like, stick it into the… sharp metal one and get weird metallic plane of metal arrows? How does it work? I don't know.\n\nEolo: Well, you know, mostly I’ve just, like, put a little glowing ember in there, and then I can shoot a flaming arrow, or a chunk of ice, or… or stone or something.\n\nDM: It takes a short rest to change it, is the main thing.\n\nEolo: Yeah.\n\nDM: But whatever you…\n\nEolo: I've never tried.\n\nDM: Eolo just puts things in the quiver, and then the arrows that magically appear in his quiver.\n\nFinnan: I see.\n\nDM: Are somehow related to the thing he puts in it. Like, how does it work? I don’t know.\n\nEolo: I've never tried fish arrows, I like your idea even better. I'll go try that, just a minute.\n\nDM: So you're gonna walk over… you're gonna… you're gonna walk over to the… to the gash that is the metal… the plane of the metal, the weird metal, and what? Try and grab a piece?\n\nEolo: Yep. This is a good character, I enjoy playing him.\n\nDM: No, it's not a vortex, you don't get sucked through. If you just stick your hand in."
+            }
+          ]
+        },
+        {
+          "relation": "in_locality_of",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0540",
+              "endUid": "u0574",
+              "quote": "DM: The… super short version is you are trapped in some… there’s these five magical cracks in the wall that Ekko investigated that seem like they’re… showing various strange things on the other side. But one of the… one of the five seems to be showing, like, the chasm when you look through it. You're in some village on the edge of a… like, in the chas- it looks like a village in the chasm. There's, like, a giant rock in the middle of the chasm with an ice palace floating on it. You're in some… there's, like, fog above you and clouds all around, like, there's clearly some magical boundary to this place, and Finnan's magic said that that's the edge of this realm, whatever it is. So you're in some sort of demiplane, almost certainly. There…\n\nEolo: So we went… we went through the crack into this demi-.\n\nDM: No, you didn't go through the crack. You emerged from the labyrinth into the demiplane. When you killed the beast, and escaped the Labyrinth, you were in the Demiplane.\n\nJrain: Labyrinth was in the demiplane, and completing the labyrinth put us in a different part of the demiplane.\n\nDM: Most likely, yes, yes. Basically, when the adventure started, when you fell into the chasm in the very beginning, you fell into the demiplane instead of the chasm.\n\nEkko: I feel…\n\nDM: The Labyrinth was a demiplane.\n\nEkko: This isn't what Ekko would do, but I feel like Eolo would really want to fly through one of those five portals that are just, like… doorways into another dimension, but I’m not trying to put any, you know…\n\nEolo: That seems correct, yes.\n\nDM: That…\n\nDM: Four of them, so, to remind you with the portals, one of them is, like, a violent lightning storm. One of them is, like… ice… and snow, and, like, jagged icicles shooting through the air, and, like, shattering in, like, it looks like sort of infinite winter. One of them is just, like, weird flashing lights. Like, cycling through different colors and, like, colors you can't even name or describe. One of them is, like, all sharp pieces of metal, and, like… strange… twisted metal formations that are, like, look like they’re breathing and moving through, like… other metal. It’s like, it’s just… it’s a… it’s a quite… It's hard to even see where, like, it looks like you'd sort of just run into iron or something. And then one of them just looks like the chasm.\n\nDM: But the one that looks like the chasm, there's a 40-foot-tall statue… an ice wolf… that looks exactly like the statues that came alive and tried to kill you in the first session. Except it's 40 feet tall. And it's pretty firmly planted in front of that… crack that looks like the chasm.\n\nDM: So if you tried to fly through that, you would almost certainly be stopped by a 40-foot-tall ice wolf, unless you had some way of distracting the wolf, and or teleporting, and or… being invisible.\n\nEolo: Hmm…\n\nDM: The other ones all don't look that safe."
+            }
+          ],
+          "note": "The cliff rifts belong to the village scene; their exact settlement boundary is unstated."
+        }
+      ]
+    },
+    "p08": {
+      "label": "Throne-room-like audience chamber",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u1265",
+          "endUid": "u1277",
+          "quote": "DM: And you see… In front of you, there's, like, it's like an entrance hall. There's a two… there's, like, passageways that lead to the left and the right, and then immediately in front of the entrance hall, like, on the other side, there's another sort of double door, which, as the other one slams shut, also swings open. And you can see beyond it, there's, like… it looks like sort of a… not literally a throne room exactly, but kind of a throne room-esque vibe. There’s, like, a chair on one end, and… a big open space, but there’s nobody in it. There's like a…\n\nFinnan: Forward.\n\nDM: You know, when you cross again, the door behind you slams shut, and you hear a voice. Behind you, like, speaking… well, you hear it in several languages, I don’t know what language everybody speaks, but first in Elvish, “Are you real?” And then in Sylvan, you hear, “Travelers… from the outside?” And then in Common, “Who are you? What are your names? Why are you here?”"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1260",
+              "endUid": "u1277",
+              "quote": "DM: You come across this palace, like I described before, it's, like, large, fancy, but there's these large double doors, right, made of, like, something dark, some sort of dark metal. And one of them is, like, swung open. And you can see there's, like, a court, like, a inner hall, like, an inner wall… you know, hall, basically, that you can walk into.\n\nJrain: You're welcome.\n\nFinnan: Walk in.\n\nDM: The door slams shut as soon as you walk in.\n\nDM: And you see… In front of you, there's, like, it's like an entrance hall. There's a two… there's, like, passageways that lead to the left and the right, and then immediately in front of the entrance hall, like, on the other side, there's another sort of double door, which, as the other one slams shut, also swings open. And you can see beyond it, there's, like… it looks like sort of a… not literally a throne room exactly, but kind of a throne room-esque vibe. There’s, like, a chair on one end, and… a big open space, but there’s nobody in it. There's like a…\n\nFinnan: Forward.\n\nDM: You know, when you cross again, the door behind you slams shut, and you hear a voice. Behind you, like, speaking… well, you hear it in several languages, I don’t know what language everybody speaks, but first in Elvish, “Are you real?” And then in Sylvan, you hear, “Travelers… from the outside?” And then in Common, “Who are you? What are your names? Why are you here?”"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Wolf-guarded chasm rift",
+      "kind": "rift threshold",
+      "evidence": [
+        {
+          "startUid": "u0556",
+          "endUid": "u0574",
+          "quote": "DM: That…\n\nDM: Four of them, so, to remind you with the portals, one of them is, like, a violent lightning storm. One of them is, like… ice… and snow, and, like, jagged icicles shooting through the air, and, like, shattering in, like, it looks like sort of infinite winter. One of them is just, like, weird flashing lights. Like, cycling through different colors and, like, colors you can't even name or describe. One of them is, like, all sharp pieces of metal, and, like… strange… twisted metal formations that are, like, look like they’re breathing and moving through, like… other metal. It’s like, it’s just… it’s a… it’s a quite… It's hard to even see where, like, it looks like you'd sort of just run into iron or something. And then one of them just looks like the chasm.\n\nDM: But the one that looks like the chasm, there's a 40-foot-tall statue… an ice wolf… that looks exactly like the statues that came alive and tried to kill you in the first session. Except it's 40 feet tall. And it's pretty firmly planted in front of that… crack that looks like the chasm.\n\nDM: So if you tried to fly through that, you would almost certainly be stopped by a 40-foot-tall ice wolf, unless you had some way of distracting the wolf, and or teleporting, and or… being invisible.\n\nEolo: Hmm…\n\nDM: The other ones all don't look that safe."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0540",
+              "endUid": "u0574",
+              "quote": "DM: The… super short version is you are trapped in some… there’s these five magical cracks in the wall that Ekko investigated that seem like they’re… showing various strange things on the other side. But one of the… one of the five seems to be showing, like, the chasm when you look through it. You're in some village on the edge of a… like, in the chas- it looks like a village in the chasm. There's, like, a giant rock in the middle of the chasm with an ice palace floating on it. You're in some… there's, like, fog above you and clouds all around, like, there's clearly some magical boundary to this place, and Finnan's magic said that that's the edge of this realm, whatever it is. So you're in some sort of demiplane, almost certainly. There…\n\nEolo: So we went… we went through the crack into this demi-.\n\nDM: No, you didn't go through the crack. You emerged from the labyrinth into the demiplane. When you killed the beast, and escaped the Labyrinth, you were in the Demiplane.\n\nJrain: Labyrinth was in the demiplane, and completing the labyrinth put us in a different part of the demiplane.\n\nDM: Most likely, yes, yes. Basically, when the adventure started, when you fell into the chasm in the very beginning, you fell into the demiplane instead of the chasm.\n\nEkko: I feel…\n\nDM: The Labyrinth was a demiplane.\n\nEkko: This isn't what Ekko would do, but I feel like Eolo would really want to fly through one of those five portals that are just, like… doorways into another dimension, but I’m not trying to put any, you know…\n\nEolo: That seems correct, yes.\n\nDM: That…\n\nDM: Four of them, so, to remind you with the portals, one of them is, like, a violent lightning storm. One of them is, like… ice… and snow, and, like, jagged icicles shooting through the air, and, like, shattering in, like, it looks like sort of infinite winter. One of them is just, like, weird flashing lights. Like, cycling through different colors and, like, colors you can't even name or describe. One of them is, like, all sharp pieces of metal, and, like… strange… twisted metal formations that are, like, look like they’re breathing and moving through, like… other metal. It’s like, it’s just… it’s a… it’s a quite… It's hard to even see where, like, it looks like you'd sort of just run into iron or something. And then one of them just looks like the chasm.\n\nDM: But the one that looks like the chasm, there's a 40-foot-tall statue… an ice wolf… that looks exactly like the statues that came alive and tried to kill you in the first session. Except it's 40 feet tall. And it's pretty firmly planted in front of that… crack that looks like the chasm.\n\nDM: So if you tried to fly through that, you would almost certainly be stopped by a 40-foot-tall ice wolf, unless you had some way of distracting the wolf, and or teleporting, and or… being invisible.\n\nEolo: Hmm…\n\nDM: The other ones all don't look that safe."
+            }
+          ]
+        },
+        {
+          "relation": "in_locality_of",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0540",
+              "endUid": "u0574",
+              "quote": "DM: The… super short version is you are trapped in some… there’s these five magical cracks in the wall that Ekko investigated that seem like they’re… showing various strange things on the other side. But one of the… one of the five seems to be showing, like, the chasm when you look through it. You're in some village on the edge of a… like, in the chas- it looks like a village in the chasm. There's, like, a giant rock in the middle of the chasm with an ice palace floating on it. You're in some… there's, like, fog above you and clouds all around, like, there's clearly some magical boundary to this place, and Finnan's magic said that that's the edge of this realm, whatever it is. So you're in some sort of demiplane, almost certainly. There…\n\nEolo: So we went… we went through the crack into this demi-.\n\nDM: No, you didn't go through the crack. You emerged from the labyrinth into the demiplane. When you killed the beast, and escaped the Labyrinth, you were in the Demiplane.\n\nJrain: Labyrinth was in the demiplane, and completing the labyrinth put us in a different part of the demiplane.\n\nDM: Most likely, yes, yes. Basically, when the adventure started, when you fell into the chasm in the very beginning, you fell into the demiplane instead of the chasm.\n\nEkko: I feel…\n\nDM: The Labyrinth was a demiplane.\n\nEkko: This isn't what Ekko would do, but I feel like Eolo would really want to fly through one of those five portals that are just, like… doorways into another dimension, but I’m not trying to put any, you know…\n\nEolo: That seems correct, yes.\n\nDM: That…\n\nDM: Four of them, so, to remind you with the portals, one of them is, like, a violent lightning storm. One of them is, like… ice… and snow, and, like, jagged icicles shooting through the air, and, like, shattering in, like, it looks like sort of infinite winter. One of them is just, like, weird flashing lights. Like, cycling through different colors and, like, colors you can't even name or describe. One of them is, like, all sharp pieces of metal, and, like… strange… twisted metal formations that are, like, look like they’re breathing and moving through, like… other metal. It’s like, it’s just… it’s a… it’s a quite… It's hard to even see where, like, it looks like you'd sort of just run into iron or something. And then one of them just looks like the chasm.\n\nDM: But the one that looks like the chasm, there's a 40-foot-tall statue… an ice wolf… that looks exactly like the statues that came alive and tried to kill you in the first session. Except it's 40 feet tall. And it's pretty firmly planted in front of that… crack that looks like the chasm.\n\nDM: So if you tried to fly through that, you would almost certainly be stopped by a 40-foot-tall ice wolf, unless you had some way of distracting the wolf, and or teleporting, and or… being invisible.\n\nEolo: Hmm…\n\nDM: The other ones all don't look that safe."
+            }
+          ],
+          "note": "The cliff rifts belong to the village scene; their exact settlement boundary is unstated."
+        }
+      ]
+    },
+    "p10": {
+      "label": "Great Chasm",
+      "kind": "chasm",
+      "evidence": [
+        {
+          "startUid": "u1731",
+          "endUid": "u1751",
+          "quote": "DM: You’re just jumping through. I mean, so… so, these guys, who can’t fly, tied a rope to the leg of the ice wolf, and… Eolo just jumped through. So, Eolo, so… you all come through.\n\nEkko: Fly through.\n\nDM: You fly through.\n\nDM: You are… you come out… into the chasm. You’re… wow. Into a chasm. It’s obviously a chasm. It… So you're on a cliff face, so, like, the folks with the rope, who don't know how to fly.\n\nJrain: Like…\n\nDM: Holding onto the rope, and there's, you know, looking down. There's a long way down, right?\n\nDM: What you see as you come out, you're… the chasm itself is, like… wide, right? Like, it’s dozens of miles across. And so, you can’t… you can’t really see the other side very well. There's a certain amount of haze in the air, and some mists in the air that… but nothing like you were there before, right? It's like, it’s… you can see the sky, right? It’s… night. Hold on, no, it’s mid… it’s like mid-afternoon… or early afternoon, right? Like, you can see a dim sun up in the sky.\n\nDM: The chasm itself… you're in a section where, like, this side of the cliff is just sheer wall, right? Like, there's nothing… there's no… very little ledges, very little anything here, it's just, like, wall, right? But floating in front of you, maybe about… 30 feet from the edge of the… or 15 feet from the edge, there's, like, a rock that's just floating in the air, right? It's maybe about… it's 20 feet square, and it has, like, a carving on it, right? Like, there’s, like, a… there’s, like, a…"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Sembara/Zimkova/Great Chasm.md"
+    },
+    "p11": {
+      "label": "Sheer cliff at the rift exit",
+      "kind": "cliff face",
+      "evidence": [
+        {
+          "startUid": "u1731",
+          "endUid": "u1751",
+          "quote": "DM: You’re just jumping through. I mean, so… so, these guys, who can’t fly, tied a rope to the leg of the ice wolf, and… Eolo just jumped through. So, Eolo, so… you all come through.\n\nEkko: Fly through.\n\nDM: You fly through.\n\nDM: You are… you come out… into the chasm. You’re… wow. Into a chasm. It’s obviously a chasm. It… So you're on a cliff face, so, like, the folks with the rope, who don't know how to fly.\n\nJrain: Like…\n\nDM: Holding onto the rope, and there's, you know, looking down. There's a long way down, right?\n\nDM: What you see as you come out, you're… the chasm itself is, like… wide, right? Like, it’s dozens of miles across. And so, you can’t… you can’t really see the other side very well. There's a certain amount of haze in the air, and some mists in the air that… but nothing like you were there before, right? It's like, it’s… you can see the sky, right? It’s… night. Hold on, no, it’s mid… it’s like mid-afternoon… or early afternoon, right? Like, you can see a dim sun up in the sky.\n\nDM: The chasm itself… you're in a section where, like, this side of the cliff is just sheer wall, right? Like, there's nothing… there's no… very little ledges, very little anything here, it's just, like, wall, right? But floating in front of you, maybe about… 30 feet from the edge of the… or 15 feet from the edge, there's, like, a rock that's just floating in the air, right? It's maybe about… it's 20 feet square, and it has, like, a carving on it, right? Like, there’s, like, a… there’s, like, a…"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1731",
+              "endUid": "u1751",
+              "quote": "DM: You’re just jumping through. I mean, so… so, these guys, who can’t fly, tied a rope to the leg of the ice wolf, and… Eolo just jumped through. So, Eolo, so… you all come through.\n\nEkko: Fly through.\n\nDM: You fly through.\n\nDM: You are… you come out… into the chasm. You’re… wow. Into a chasm. It’s obviously a chasm. It… So you're on a cliff face, so, like, the folks with the rope, who don't know how to fly.\n\nJrain: Like…\n\nDM: Holding onto the rope, and there's, you know, looking down. There's a long way down, right?\n\nDM: What you see as you come out, you're… the chasm itself is, like… wide, right? Like, it’s dozens of miles across. And so, you can’t… you can’t really see the other side very well. There's a certain amount of haze in the air, and some mists in the air that… but nothing like you were there before, right? It's like, it’s… you can see the sky, right? It’s… night. Hold on, no, it’s mid… it’s like mid-afternoon… or early afternoon, right? Like, you can see a dim sun up in the sky.\n\nDM: The chasm itself… you're in a section where, like, this side of the cliff is just sheer wall, right? Like, there's nothing… there's no… very little ledges, very little anything here, it's just, like, wall, right? But floating in front of you, maybe about… 30 feet from the edge of the… or 15 feet from the edge, there's, like, a rock that's just floating in the air, right? It's maybe about… it's 20 feet square, and it has, like, a carving on it, right? Like, there’s, like, a… there’s, like, a…"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Small carved floating rock",
+      "kind": "mobile platform",
+      "evidence": [
+        {
+          "startUid": "u1747",
+          "endUid": "u1758",
+          "quote": "DM: The chasm itself… you're in a section where, like, this side of the cliff is just sheer wall, right? Like, there's nothing… there's no… very little ledges, very little anything here, it's just, like, wall, right? But floating in front of you, maybe about… 30 feet from the edge of the… or 15 feet from the edge, there's, like, a rock that's just floating in the air, right? It's maybe about… it's 20 feet square, and it has, like, a carving on it, right? Like, there’s, like, a… there’s, like, a…\n\nDM: Not, like, it has, like, these channels carved into it, right? Like, in a weird geometric pattern that you can see from above. And then, you can see further below, like, maybe… a thousand feet down, or something like that. There’s another… odd rock carved with a geometric pattern. Like, this is… this is… but… more… much larger and more complex pattern. And you can see these streams of light… like, running along this pattern, like, these streams of… of, like, color-changing light, kind of running along the cycles of this pattern, and… but they're… they're… they keep, like… you can see they're… they look almost… I mean, it's a thousand feet down, so you can't see it very well, but they look sort of weirdly jagged, like… like… they're running in, like, a circular motion, for example, and there's, like, a crack, and, like, it's sort of the… the light… this pattern of light, like, flicks out or jump, there's, like, looks like sparks jumping or something like that. And you can see a certain disturbance, like…"
+        }
+      ],
+      "mobile": true
+    },
+    "p13": {
+      "label": "Large platform with the sparking mechanism",
+      "kind": "platform",
+      "evidence": [
+        {
+          "startUid": "u1752",
+          "endUid": "u1761",
+          "quote": "DM: Not, like, it has, like, these channels carved into it, right? Like, in a weird geometric pattern that you can see from above. And then, you can see further below, like, maybe… a thousand feet down, or something like that. There’s another… odd rock carved with a geometric pattern. Like, this is… this is… but… more… much larger and more complex pattern. And you can see these streams of light… like, running along this pattern, like, these streams of… of, like, color-changing light, kind of running along the cycles of this pattern, and… but they're… they're… they keep, like… you can see they're… they look almost… I mean, it's a thousand feet down, so you can't see it very well, but they look sort of weirdly jagged, like… like… they're running in, like, a circular motion, for example, and there's, like, a crack, and, like, it's sort of the… the light… this pattern of light, like, flicks out or jump, there's, like, looks like sparks jumping or something like that. And you can see a certain disturbance, like…\n\nDM: At the center, there's some type of activity. There's, like, maybe a figure, a person, you can't quite tell. And there's a few other of these floating rocks. There's, like, one floating rock with, like, a… with, like, a little… tower built on it. Like, imagine, like, the vibe you should be imagining is, like, Zelda… the second Legend of Zelda Sky World, right? Like, these platforms that are just floating in the air, with these, like, complex… geometric shapes on them, right?"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1741",
+              "endUid": "u1761",
+              "quote": "DM: What you see as you come out, you're… the chasm itself is, like… wide, right? Like, it’s dozens of miles across. And so, you can’t… you can’t really see the other side very well. There's a certain amount of haze in the air, and some mists in the air that… but nothing like you were there before, right? It's like, it’s… you can see the sky, right? It’s… night. Hold on, no, it’s mid… it’s like mid-afternoon… or early afternoon, right? Like, you can see a dim sun up in the sky.\n\nDM: The chasm itself… you're in a section where, like, this side of the cliff is just sheer wall, right? Like, there's nothing… there's no… very little ledges, very little anything here, it's just, like, wall, right? But floating in front of you, maybe about… 30 feet from the edge of the… or 15 feet from the edge, there's, like, a rock that's just floating in the air, right? It's maybe about… it's 20 feet square, and it has, like, a carving on it, right? Like, there’s, like, a… there’s, like, a…\n\nDM: Not, like, it has, like, these channels carved into it, right? Like, in a weird geometric pattern that you can see from above. And then, you can see further below, like, maybe… a thousand feet down, or something like that. There’s another… odd rock carved with a geometric pattern. Like, this is… this is… but… more… much larger and more complex pattern. And you can see these streams of light… like, running along this pattern, like, these streams of… of, like, color-changing light, kind of running along the cycles of this pattern, and… but they're… they're… they keep, like… you can see they're… they look almost… I mean, it's a thousand feet down, so you can't see it very well, but they look sort of weirdly jagged, like… like… they're running in, like, a circular motion, for example, and there's, like, a crack, and, like, it's sort of the… the light… this pattern of light, like, flicks out or jump, there's, like, looks like sparks jumping or something like that. And you can see a certain disturbance, like…\n\nDM: At the center, there's some type of activity. There's, like, maybe a figure, a person, you can't quite tell. And there's a few other of these floating rocks. There's, like, one floating rock with, like, a… with, like, a little… tower built on it. Like, imagine, like, the vibe you should be imagining is, like, Zelda… the second Legend of Zelda Sky World, right? Like, these platforms that are just floating in the air, with these, like, complex… geometric shapes on them, right?"
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Lower platform complex",
+      "kind": "complex",
+      "evidence": [
+        {
+          "startUid": "u1907",
+          "endUid": "u1914",
+          "quote": "DM: And he’ll point, there’s, like, beneath this, there’s, like, a complex… that you can almost jump down, right? Like, from here to underneath a smaller section. Again, like, think of Zelda like Skyland, right? Like, there’s a… there’s another platform, maybe 10 feet below, and it leads into a more complex… Like, he points down, “They fled down that way… when we… when we surprise them. If you could… and I could not… I cannot give chase for… I, it is… and again, I am doing what I can to prevent it from getting worse. But we cannot repair it without retrieving the piece. If you have companions who can chase them… I can only hold this together for so long.”"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u1907",
+              "endUid": "u1914",
+              "quote": "DM: And he’ll point, there’s, like, beneath this, there’s, like, a complex… that you can almost jump down, right? Like, from here to underneath a smaller section. Again, like, think of Zelda like Skyland, right? Like, there’s a… there’s another platform, maybe 10 feet below, and it leads into a more complex… Like, he points down, “They fled down that way… when we… when we surprise them. If you could… and I could not… I cannot give chase for… I, it is… and again, I am doing what I can to prevent it from getting worse. But we cannot repair it without retrieving the piece. If you have companions who can chase them… I can only hold this together for so long.”"
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p10",
+          "evidence": [
+            {
+              "startUid": "u1731",
+              "endUid": "u1751",
+              "quote": "DM: You’re just jumping through. I mean, so… so, these guys, who can’t fly, tied a rope to the leg of the ice wolf, and… Eolo just jumped through. So, Eolo, so… you all come through.\n\nEkko: Fly through.\n\nDM: You fly through.\n\nDM: You are… you come out… into the chasm. You’re… wow. Into a chasm. It’s obviously a chasm. It… So you're on a cliff face, so, like, the folks with the rope, who don't know how to fly.\n\nJrain: Like…\n\nDM: Holding onto the rope, and there's, you know, looking down. There's a long way down, right?\n\nDM: What you see as you come out, you're… the chasm itself is, like… wide, right? Like, it’s dozens of miles across. And so, you can’t… you can’t really see the other side very well. There's a certain amount of haze in the air, and some mists in the air that… but nothing like you were there before, right? It's like, it’s… you can see the sky, right? It’s… night. Hold on, no, it’s mid… it’s like mid-afternoon… or early afternoon, right? Like, you can see a dim sun up in the sky.\n\nDM: The chasm itself… you're in a section where, like, this side of the cliff is just sheer wall, right? Like, there's nothing… there's no… very little ledges, very little anything here, it's just, like, wall, right? But floating in front of you, maybe about… 30 feet from the edge of the… or 15 feet from the edge, there's, like, a rock that's just floating in the air, right? It's maybe about… it's 20 feet square, and it has, like, a carving on it, right? Like, there’s, like, a… there’s, like, a…"
+            },
+            {
+              "startUid": "u1907",
+              "endUid": "u1914",
+              "quote": "DM: And he’ll point, there’s, like, beneath this, there’s, like, a complex… that you can almost jump down, right? Like, from here to underneath a smaller section. Again, like, think of Zelda like Skyland, right? Like, there’s a… there’s another platform, maybe 10 feet below, and it leads into a more complex… Like, he points down, “They fled down that way… when we… when we surprise them. If you could… and I could not… I cannot give chase for… I, it is… and again, I am doing what I can to prevent it from getting worse. But we cannot repair it without retrieving the piece. If you have companions who can chase them… I can only hold this together for so long.”"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0027",
+        "endUid": "u0030"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party sleeps in the hidden corner of the family hut in the village.",
+      "evidence": [
+        {
+          "startUid": "u0027",
+          "endUid": "u0030",
+          "quote": "DM: And as we begin, you’re huddled together, I guess, or apart? I don't know, you're huddled in the corner, basically, in the half a room of this one and a half bedroom, you know, one and a half room hut, sort of a little bit away from… from… the family, who are also settling in to go to sleep, because… well, it’s not nighttime, but it’s… it’s the end of the day. And… you go to sleep."
+        },
+        {
+          "startUid": "u0083",
+          "endUid": "u0091",
+          "quote": "DM: Before Eolo could wake up, so the house is… I mean, it’s… it’s a hut, right? It’s like, I don’t know, 12 feet from end to end, and it’s like an L shape, and you’re in the… you’re in the… so, like… you’re in the L, so the sort of bit in the door is… you know, if an L… if the… you’re in the short part of the L, and the door is in the lower part of the long part of the L, so you’re maybe… So, you're, like, sitting watching, and you can see down to the long part of the L and see the door, but you're maybe 10 feet away from it. And if you went around the corner, you wouldn't… nobody would be able to see… you can't actually see the door very well, because of the angle of the…\n\nJrain: But everyone who I would want to not be seen is in a part of the room where they can be seen by the angle of the door opening. We didn't wisely choose a corner that wasn't visible from the door.\n\nDM: No, I assume you did choose a corner that wasn't visible from the door, that's what I'm trying to say. But you are presumably keeping watch somewhere where you can see the door. It would be silly to keep watch hidden in the corner, where you couldn't see anything.\n\nJrain: So they're not visible, but I am.\n\nDM: Correct."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0133",
+        "endUid": "u0154"
+      },
+      "actors": [
+        "Jrain"
+      ],
+      "reading": "From the hut doorway Jrain sees Kalima and a companion moving toward the cliff, and soldiers searching another house.",
+      "evidence": [
+        {
+          "startUid": "u0123",
+          "endUid": "u0127",
+          "quote": "Jrain: Oh, boy. So, I rushed to the door and, like… open it to see if I can see which way she’s disappearing in some direction. And Finnan probably notices that I'm, like, dashing to the door.\n\nDM: Justas, yeah? Justas is awake, yeah."
+        },
+        {
+          "startUid": "u0133",
+          "endUid": "u0154",
+          "quote": "DM: So you rush over to the door, you see as you're rushing to the door, you do notice the, the… baby… is wide awake and staring at you. But the parents are asleep. As you… But, if you're not careful, you probably… it would be easy to wake them up by accident if you… but as you swing the door open, you can see…\n\nDM: You can see, there are… you see, I mean, it's… It's the same whiteout, so it's not… you see… Kalima is, like, maybe… 15, 20 feet, sort of, off to the left, like, heading… towards the cliff, and there’s a person, like, with her, walking next to her.\n\nDM: You can also see… There are some soldiers. Like, you see some of those peop- some of the people. Like, you notice a group of two people who… had been…\n\nDM: You know, Finnan saw, like, these… this group of, like, 8 or 10 people march over, and you see, like, a pair going into a house, like, 4 houses down. I mean, that's, like, at a first glance.\n\nJrain: Okay.\n\nDM: It looks like Kalima is trying to be… Kalima and this person are trying to be stealthy.\n\nJrain: Okay.\n\nDM: But I mean, they're not that well hidden from… the door, but they seem to be moving quickly and quietly in a specific direction."
+        }
+      ],
+      "place": "p02",
+      "mode": "local",
+      "observerPlace": "p01",
+      "observedActors": [
+        "Kalima",
+        "unrecognized companion"
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0510",
+        "endUid": "u0531"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party leaves the family hut, crosses the shallow river/pool and reaches Iskander’s hut.",
+      "evidence": [
+        {
+          "startUid": "u0510",
+          "endUid": "u0531",
+          "quote": "DM: Anyway, you’re heading to talk to Zahara, the leader of the troublemakers, who…\n\nJustas: Excellent. What?\n\nDM: To bring change, and you’ve been directed by this family to… So I assume you just head out?\n\nDM: Are you doing… I mean, it seems, when you open the door and look out, it seems the ice bridge is gone, it's quiet, nobody's really moving, there's a few people, like, harvesting fish. I mean, it's… you could… almost pass unnoticed?\n\nDM: Every time you bit, it just seems… there's still the guard, like, you still… you’ll see the ice… wolf, the size of a, you know, 40 feet tall, standing in front of the crack in the wall that’s mirroring the chasm.\n\nDM: You… still see… But, you know, there's… there's people around, but not very many. Like, Kenku, again, are hard to…\n\nDM: If you guys transformed into human form, and you, like, threw cloaks on and stuff, you might be able to… sort of just appear as… some people passing through, and nobody would pay that much attention to you. It’s not like people are… there’s no soldiers about. Whatever the soldier re… that was happening overnight… has gone.\n\nDM: You do see, as you leave, go out the door, but I don't know how you're… what you're… what are you actually doing when you leave the… You do see, like… mark, like, a… a chalk mark on the door when you leave. There seems to be chalk marks on all the doors. Like, with a certain… like, a stylized sigil, kind of, like a… it's not a sign, it's not… it's kind of like a stylized palace, ice palace, almost, like a little squiggly thing drawn on the door. You see them drawn on many of the… all of the doors? But…"
+        },
+        {
+          "startUid": "u0583",
+          "endUid": "u0597",
+          "quote": "DM: So, the Kenku, are you… what are you guys doing? So you leave the… you leave the hut, and… are you just boldly striding across the plateau? Are you, like, skulking? Are you hiding? Are you disguising yourself?\n\nEkko: Into a cat.\n\nDM: Okay. Cats are good.\n\nEkko: I just stay… when I'm out and about, I just stay as a cat.\n\nDM: How about the rest of you?\n\nJustas: Yeah, Justas sort of looks himself up and down. At, like, 6 feet tall, in giant armor and a shield and an enormous axe, and a backpack stuffed with the… the severed head of a beast we killed, and… I'll look around to the rest of you, like, I… I'll take suggestions, I don't know how to not be me here.\n\nEolo: Hmm.\n\nFinnan: It's… Finnan also just kind of shakes his head. I mean… Let’s just go.\n\nJrain: My cloak… my cloak is made of feathers, like, I don't know, like…"
+        },
+        {
+          "startUid": "u0610",
+          "endUid": "u0625",
+          "quote": "DM: So you head across, so the, the, the… place they pointed you to is… so the… the village is divided into two sections. There's a bigger section on this side of the river. So there's a… there's a big waterfall that comes down out from the mists, splashes down to the ground, and then forms a pool where that’s teeming with fish. Right, and then [garbled] goes down off the edge of the chasm. And just… vanishes, right? So… you can cross it, I mean, it's shallow, right? On the… both sides of the pool, it's relatively shallow, and you can just kind of walk across it. It's not even that… it's surprisingly not that cold. There's a smaller village, or sorry, a larger village that you're part of in right now, on… the side of the river you’re on.\n\nDM: Zahara's a… you sort of are pointed to a… to, like, three… huts on the other… on the far side, like, close to the… to the bridge to the Cattle Island.\n\nDM: And… so you can… just… splash across. The fish look really tasty to Ekko the cat. Like, big, fat salmon.\n\nEkko: Ekko the cat dives in and gets one of the salmon.\n\nDM: That's delicious.\n\nEkko: Ekko the Cat stays there and eats more salmon until he is, satiated.\n\nDM: Yeah, I mean, they're, you know, if you're just a house cat, you don't need to eat that many salmon to be satiated, but…"
+        },
+        {
+          "startUid": "u0635",
+          "endUid": "u0668",
+          "quote": "DM: Nobody… I mean, a few people, like, stare at you as you walk across, like, one guy who's, like, scooping salmon with a net is just staring at this cat who's, like, eating salmon. Doesn't actually look like he's ever seen a cat. Maybe not.\n\nJrain: Yeah, so you can…\n\nDM: Conspicuous. And is staring at the rest of you, like, it just, like, drops his net, and is just like… Staring at you. And then, like, grabs his net before he walks away, but is still staring at you until you leave, but doesn’t say anything.\n\nDM: And you get to a, you get to this, this, this hut, I mean, the door's closed.\n\nJustas: Justas knocks, politely.\n\nDM: A… [garbled]…\n\nDM: Older… man with, like… sort of balding, a little bit. A little bit heavyset, but not, like… But maybe in… maybe in his 50s or 60s, you would guess. opens the door, and kind of looks you up and down… and sort of steps back… for a minute?\n\nDM: And then…\n\nJustas: Thanks, says Justas, interpreting that as a invitation coming in. So…\n\nDM: Yeah, no, no, no, he, like, motions with his hand for a minute.\n\nDM: “You must be those who came with Kalima.” [garbled] He kind of looks around. “Wha- what can I do for you?”\n\nJustas: Well, I mean, not… not to put too fine a point on it, our hope was to… break the grip of the fae imposter who’s kidnapped you, destroy the wolf who keeps you trapped here and lead everyone to freedom. How does that line up with your priorities?\n\nDM: He kinda… looks a little bit… he just… he actually just bursts out laughing. “Impossible dreamers.”\n\nJustas: Ha ha ha ha.\n\nDM: “Iskander,” he introduced himself. “Iskander.” It’s, “How did you get here? That’s a story I would like to hear.”"
+        }
+      ],
+      "from": "p01",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "reading": "Cross the shallow water by the salmon pool; Ekko, as a cat, briefly eats salmon."
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u1091",
+        "endUid": "u1109"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leave Iskander’s hut and stand at the missing bridge landing near the salmon pond.",
+      "evidence": [
+        {
+          "startUid": "u1091",
+          "endUid": "u1109",
+          "quote": "Finnan: So, I'm gonna propose that we try and… inconspicuously make it out of this neighborhood, so it’s not obvious that we were just in this person’s house, and then… just… although maybe it’s already obvious, because we weren’t inconspicuous walking through the town.\n\nDM: How are you gonna…\n\nFinnan: Not tracked.\n\nDM: Get to the Ice Palace?\n\nFinnan: Isn't there a bridge?\n\nDM: No, it vanished. It extended when the troops marched across, but then it vanished again.\n\nFinnan: I'll just go stand where the bridge… appeared, and…\n\nDM: I mean, obviously the Kenku can fly there.\n\nFinnan: I’ll just use Minor Illusion to create a very loud…\n\nDM: Okay, I mean, so you guys, okay, so you…\n\nDM: Let’s… let’s do this. Let me just tell you… let me tell you what you're doing. So… or tell me what you're doing. So you march out of the… you skulk out of the house, and then march. The bridge kind of appears right… normally would appear right near where the… where the salmon pond is. So you march back. So, tell me what you're doing.\n\nFinnan: Yeah, march back to where the bridge appears, and then just stand there, obviously, in the open.\n\nDM: So, hold on a sec, Tim. So, Kenku, what do you guys do? What, what is Kate, so what is Jrain doing?\n\nJrain: Jrain is fluffing up her cloak dramatically and just striding off looking like a… warrior. Okay."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1145",
+        "endUid": "u1149"
+      },
+      "actors": [
+        "Eolo"
+      ],
+      "reading": "Eolo makes a short round trip from the bridge gathering to the metal rift, inserts his hand, and returns injured with a fragment.",
+      "evidence": [
+        {
+          "startUid": "u1145",
+          "endUid": "u1173",
+          "quote": "Eolo: I've never tried fish arrows, I like your idea even better. I'll go try that, just a minute.\n\nDM: So you're gonna walk over… you're gonna… you're gonna walk over to the… to the gash that is the metal… the plane of the metal, the weird metal, and what? Try and grab a piece?\n\nEolo: Yep. This is a good character, I enjoy playing him.\n\nDM: No, it's not a vortex, you don't get sucked through. If you just stick your hand in.\n\nJustas: It goes away.\n\nDM: Oh, holy, Hold on, where are my dice? Oops. I know you're a major fan, I'll just have to roll. I just have to roll on D&D Beyond one second.\n\nDM: Actually, make a… make a dexterity saving throw.\n\nEolo: 36… 19.\n\nDM: Okay,\n\nDM: You take, 18 points of damage. As their hand is shredded by, well… so, you can choose. You stick your hand in to… try and, like, get something. And, like, like, this, like, sharp, like, blades are basically flying through the air, like, shredding your hand. Now… made your… save. So you can either take 18 points of damage and take a piece of the sharp metal with you as you withdraw your hand, or you can take half damage and get nothing.\n\nEolo: I'm taking the thing.\n\nDM: Okay. So, you stuck your hand into, like, a swirling whirlwind, basically, and, like, this… these blades, this, like, sharp piece of metal came flying and kind of started shredding your arm. You pulled it back quite quickly, and are left with, like, this weirdly shimmering, like, piece of metal. Like, it’s hard to know what kind of metal it is. It… it's, like, it's black on one side, green in the middle, like, a dull, like, coppery green in the middle, and… and white on the other side, and it's, like, sharper than almost anything you've ever felt before.\n\nEolo: Finnan, you're a genius. I drop it in the quiver.\n\nDM: Okay.\n\nJustas: Blood pouring from your hand.\n\nDM: Yeah, exactly."
+        },
+        {
+          "startUid": "u1193",
+          "endUid": "u1197",
+          "quote": "Finnan: Come back this way, so we can go… bother this fey dude.\n\nDM: You do need to take a short rest to see what comes from these arrows.\n\nEolo: Yep.\n\nFinnan: Yeah, let’s talk to the fey first, and then we can short rest before we do anything else. Unless you want to short rest now, although we’ve already made our scene, so it’s gonna… kind of dilute our impact if we stomp around town and then vanish for an hour."
+        },
+        {
+          "startUid": "u1211",
+          "endUid": "u1212",
+          "quote": "DM: So, you know, Eolo comes back after a few minutes with, like, a bleeding hand and this weird piece of metal, which I guess you've thrown in your quiver. That… that…."
+        }
+      ],
+      "from": "p06",
+      "to": "p06",
+      "completion": "arrived",
+      "route": [
+        {
+          "place": "p07",
+          "reading": "Reach the metal rift and insert a hand; the body does not pass through."
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM measures the completed return at u1211–u1212."
+      }
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1250",
+        "endUid": "u1277"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Cross the narrow ice bridge and palace entrance hall into the audience chamber.",
+      "evidence": [
+        {
+          "startUid": "u1250",
+          "endUid": "u1277",
+          "quote": "DM: So you… you come across this narrow bridge, it's… it takes a certain amount of… I mean, you don't have to… you don't have to roll to cross it, but it certainly… takes a certain amount of concentration if you want to, like… you have to, like, carefully step. It's slippery, and it's only about 8 inches across, and of course, either direction is, like, a plunge down into the labyrinth. So it's a certain amount of… well, the Kenku maybe just flap their wings, and a cat… I mean, your cat is, like, whatever, right? This is not a big deal for a cat, but.\n\nJustas: And the halfling is nimble, it's… it's really just me who has a problem.\n\nDM: But, yeah, Kate, and Jrain. But you don't really have a problem, it's just distracting, right? Like, it's just, you have to pay attention to foot after foot.\n\nJrain: I mean, I have a plus 7 to acrobatics, I think I can cross a narrow…\n\nDM: Well, Jrain is like, I do this in my sleep. It's really… no, it's just Justas. Justas is the only one who's distracted. The rest of you are like, meh. Justas is like, damn my heavy feet! Damn.\n\nDM: You come across this palace, like I described before, it's, like, large, fancy, but there's these large double doors, right, made of, like, something dark, some sort of dark metal. And one of them is, like, swung open. And you can see there's, like, a court, like, a inner hall, like, an inner wall… you know, hall, basically, that you can walk into.\n\nJrain: You're welcome.\n\nFinnan: Walk in.\n\nDM: The door slams shut as soon as you walk in.\n\nDM: And you see… In front of you, there's, like, it's like an entrance hall. There's a two… there's, like, passageways that lead to the left and the right, and then immediately in front of the entrance hall, like, on the other side, there's another sort of double door, which, as the other one slams shut, also swings open. And you can see beyond it, there's, like… it looks like sort of a… not literally a throne room exactly, but kind of a throne room-esque vibe. There’s, like, a chair on one end, and… a big open space, but there’s nobody in it. There's like a…\n\nFinnan: Forward.\n\nDM: You know, when you cross again, the door behind you slams shut, and you hear a voice. Behind you, like, speaking… well, you hear it in several languages, I don’t know what language everybody speaks, but first in Elvish, “Are you real?” And then in Sylvan, you hear, “Travelers… from the outside?” And then in Common, “Who are you? What are your names? Why are you here?”"
+        },
+        {
+          "startUid": "u1280",
+          "endUid": "u1284",
+          "quote": "DM: Yeah, yeah, I mean, as you turn around, you see the guy, the person I showed you before, appeared, like, as the door slammed shut, like, as you walked forward, not on the throne, appears behind you, and starts, like… It’s almost like a startup, like… appears out of nowhere and, like, shouts, like, “Are you real?” Well, I don’t know, do any of you speak Elvish?\n\nFinnan: I do.\n\nDM: Okay. So, you understand the Elvish one, “Are you real?” Jrain would understand the… “Travelers,” and then Common, you know, to all of you, “Who are you? What do you…”"
+        }
+      ],
+      "from": "p06",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "place": "p04",
+          "reading": "Enter the Ice Palace through open double doors, passing the entrance hall without a separate played stop."
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1635",
+        "endUid": "u1651"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leave the palace across the bridge and gather at the wolf-guarded chasm rift; Finnan tests the unmoving guardian.",
+      "evidence": [
+        {
+          "startUid": "u1635",
+          "endUid": "u1651",
+          "quote": "Jrain: So we hurry. Because we're already headed in the right direction.\n\nFinnan: Yeah.\n\nJustas: If we go.\n\nJrain: Nice of him to get himself back over to the throne and out of our way, so we can leave.\n\nFinnan: Is the bridge… there?\n\nDM: Yeah, it's still there, it's narrow.\n\nFinnan: Walk across.\n\nFinnan: What's the giant ice wolf doing?\n\nDM: It's… standing there.\n\nFinnan: I'll walk up to it.\n\nDM: Doesn't do anything.\n\nFinnan: I'll, like, walk around one of its legs in a circle.\n\nDM: Doesn't do anything.\n\nFinnan: I'll walk up to the gash.\n\nDM: Doesn't do anything."
+        },
+        {
+          "startUid": "u1683",
+          "endUid": "u1694",
+          "quote": "DM: We lost Kong for the, like, cool last scene, but… Well, next cliffhanger, well, next scene. But, we'll just go ahead. So you run through?\n\nFinnan: Wow. Walk through.\n\nDM: Okay?\n\nFinnan: Carefully.\n\nDM: Who's going first?\n\nEolo: Me.\n\nDM: Eolo.\n\nFinnan: Yeah, obviously.\n\nJrain: For the dog. Okay.\n\nDM: You step through this."
+        },
+        {
+          "startUid": "u1711",
+          "endUid": "u1734",
+          "quote": "DM: Okay, you tie a rope around the leg of the wolf, and then what? Eolo jumps through.\n\nJrain: Yeah. Well, Eolo doesn't go through slowly, does he?\n\nDM: Eric, what’s Eolo doing? If you're looking out at what looks like, basically, the… it looks like you're looking out into the chasm. You don't see a plateau, it looks like if you jumped, you'd just be in the chasm.\n\nFinnan: That’s fine, we’ve got a rope.\n\nEolo: Where, where I’m going… don’t need ropes. And I jump with the full intention of sort of doing a little bit of a loop back, so I can…\n\nDM: Alright.\n\nEolo: Look back in.\n\nDM: So you, like, you just, like, spread your wings and through the gate. Perfect. Okay. Yep. Eolo vanishes. Who's doing something next?\n\nJustas: I'll tie the other end of the rope around my own waist, and then I will walk through.\n\nFinnan: Yeah, I'm… I'm following just… closely behind Justas with a similar…\n\nJrain: Okay. Like, hold each other…\n\nFinnan: Great. So…\n\nJrain: Yeah, I try to hold on to the members of my party and the rope that they're using.\n\nDM: But you're also going through? Yep. Like, the three of you just go through 1, 2, 3. What is Ekko doing?\n\nEkko: Yeah, I go through as well.\n\nDM: You’re just jumping through. I mean, so… so, these guys, who can’t fly, tied a rope to the leg of the ice wolf, and… Eolo just jumped through. So, Eolo, so… you all come through.\n\nEkko: Fly through.\n\nDM: You fly through."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "place": "p06",
+          "reading": "Return across the narrow bridge to the village ledge."
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1711",
+        "endUid": "u1737"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "All five pass through the rift into the Great Chasm; the nonfliers are suspended on a rope while the kenku fly.",
+      "evidence": [
+        {
+          "startUid": "u1711",
+          "endUid": "u1751",
+          "quote": "DM: Okay, you tie a rope around the leg of the wolf, and then what? Eolo jumps through.\n\nJrain: Yeah. Well, Eolo doesn't go through slowly, does he?\n\nDM: Eric, what’s Eolo doing? If you're looking out at what looks like, basically, the… it looks like you're looking out into the chasm. You don't see a plateau, it looks like if you jumped, you'd just be in the chasm.\n\nFinnan: That’s fine, we’ve got a rope.\n\nEolo: Where, where I’m going… don’t need ropes. And I jump with the full intention of sort of doing a little bit of a loop back, so I can…\n\nDM: Alright.\n\nEolo: Look back in.\n\nDM: So you, like, you just, like, spread your wings and through the gate. Perfect. Okay. Yep. Eolo vanishes. Who's doing something next?\n\nJustas: I'll tie the other end of the rope around my own waist, and then I will walk through.\n\nFinnan: Yeah, I'm… I'm following just… closely behind Justas with a similar…\n\nJrain: Okay. Like, hold each other…\n\nFinnan: Great. So…\n\nJrain: Yeah, I try to hold on to the members of my party and the rope that they're using.\n\nDM: But you're also going through? Yep. Like, the three of you just go through 1, 2, 3. What is Ekko doing?\n\nEkko: Yeah, I go through as well.\n\nDM: You’re just jumping through. I mean, so… so, these guys, who can’t fly, tied a rope to the leg of the ice wolf, and… Eolo just jumped through. So, Eolo, so… you all come through.\n\nEkko: Fly through.\n\nDM: You fly through.\n\nDM: You are… you come out… into the chasm. You’re… wow. Into a chasm. It’s obviously a chasm. It… So you're on a cliff face, so, like, the folks with the rope, who don't know how to fly.\n\nJrain: Like…\n\nDM: Holding onto the rope, and there's, you know, looking down. There's a long way down, right?\n\nDM: What you see as you come out, you're… the chasm itself is, like… wide, right? Like, it’s dozens of miles across. And so, you can’t… you can’t really see the other side very well. There's a certain amount of haze in the air, and some mists in the air that… but nothing like you were there before, right? It's like, it’s… you can see the sky, right? It’s… night. Hold on, no, it’s mid… it’s like mid-afternoon… or early afternoon, right? Like, you can see a dim sun up in the sky.\n\nDM: The chasm itself… you're in a section where, like, this side of the cliff is just sheer wall, right? Like, there's nothing… there's no… very little ledges, very little anything here, it's just, like, wall, right? But floating in front of you, maybe about… 30 feet from the edge of the… or 15 feet from the edge, there's, like, a rock that's just floating in the air, right? It's maybe about… it's 20 feet square, and it has, like, a carving on it, right? Like, there’s, like, a… there’s, like, a…"
+        }
+      ],
+      "from": "p09",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "portal"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1768",
+        "endUid": "u1789"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Eolo pushes the nearby small floating rock to the rift and everyone gets onto it.",
+      "evidence": [
+        {
+          "startUid": "u1768",
+          "endUid": "u1789",
+          "quote": "Finnan: I’ll yell at… “Eolo, can you push those rocks over to us? Do they move?”\n\nEolo: Oh, yeah, good idea. I'd give it a try.\n\nDM: Yeah.\n\nDM: I mean, this one, it's hard work, pushing it. It's clearly not, like… It's not, like, fully zero gravity, right? So, a bigger rock you wouldn't be able to move, but this one you can.\n\nEolo: What… where are the channels on the top of it?\n\nDM: So it's just… this just has… it has, like, as you get closer to it, I mean, it's only 30 feet away, you can see it pretty well. It's maybe… 18 feet by… it’s about 20 feet by 20 feet. It’s square-ish, it’s not, like, perfectly square, but it’s not… it’s not a natural boulder, right? Like, it’s a… it’s some sort of piece of… it looks very like a piece of something. And there’s just a geometric pattern carved on it, just maybe… 4 inches, 5 inches deep.\n\nDM: Nothing's flowing through it. The one a thousand feet below has light. It's 10 times bigger, and has light moving through the… the patterns, right? So there's, like, this… this multicolored light kind of moving along the pattern. And there's a distur… there's an area where it's, like, sparking, and you can see a disturbance. That’s a thousand feet below. This one is silent, right? Nothing’s happening. There’s just…\n\nEolo: So…\n\nDM: Things, like, it’s sort of rectilinear geometric pattern carved into it.\n\nEolo: So I shove it over to the…\n\nDM: Yep.\n\nEolo: That crack area.\n\nDM: It moves… down and up much more difficultly than left. Like, it wants to stay in its plane. You probably could push it down, but it’s much harder than pushing it… horizontally.\n\nDM: So, you're all on the rock now. What do you do?"
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived",
+      "locationContext": [
+        {
+          "subject": "p12",
+          "relation": "in",
+          "target": "p10",
+          "note": "Current position near the cliff exit; this mobile platform has no permanent geographic parent."
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u1811",
+        "endUid": "u1859"
+      },
+      "actors": [
+        "Finnan"
+      ],
+      "reading": "Through Clairvoyance Finnan sees Eidrikas at the damaged mechanism far below, while Finnan remains on the small rock.",
+      "evidence": [
+        {
+          "startUid": "u1811",
+          "endUid": "u1859",
+          "quote": "Finnan: Oh, wait a minute. Hold on, hold on, hold on, hold on. Let's be a little bit more careful. I'll cast Clairvoyance.\n\nDM: Okay? You see, so…\n\nFinnan: Just targeting, like, 10 feet above the ground, above the sparky rock.\n\nDM: So it's… I mean, the rock is… is… sizable, right? So it's…\n\nFinnan: Like, where the disturbance is. Okay.\n\nDM: Disturbance is a person who is… lying… like, sitting on the ground, like, in a… You’re the only one who can see through Clairvoyance, right?\n\nFinnan: Yeah, but I'll narrate what I see. There's a… there's a person, maybe.\n\nDM: Human, right, with, long black hair and, like, green eyes and, you know, hazel green eyes and, and, wearing what, at this point, like, what used to be… seemed to be… you know, nice robes, but they look tattered at this point. And they’re… they’re sitting, like…\n\nDM: Cross-legged, like, where you can see there’s, like, a blackened area of the… of the… of the stone. And this person is, like, sitting, and, like, their arm… their arms are, like… holding on to two pieces of the light, like, to two sections where the light is flowing, and you can actually see, like, these… the light is, like, moving, right? Like, it's not stable, they're, like, holding two sections, and, like… every once in a while, like, it'll flow through their body, and, like, it'll spark. And, like, you can see them, like, grimacing, and, like… baring their teeth, like, when the light flows through them, like… like…\n\nDM: And you notice when that happens, like, you see the light flow through the person, and at the same moment, like, you see in the distance a… a sheet of iron, maybe, 100 feet wide, just appear in the sky and start falling.\n\nDM: And then, like, you actually see, like, like, the person, like, is, is, is, like… tightens the grip, almost, on the light. And, like, is, like, holding on to something. Looks like they're holding on to something.\n\nEolo: The… piece of iron falling towards them?\n\nDM: It's, like, far away.\n\nDM: It, like, a crack opened in the sky in this weird metal. You don’t know if it’s iron, really, it’s just black metal… started falling. And then the crack vanished.\n\nEolo: Is it gonna hit the platform, or just…\n\nDM: It's gonna fall forever, as far as you can tell. As far as you know, there's no bottom in the chasm, so it'll just keep going. It doesn't… it's not near the… it's not near the platform.\n\nFinnan: This is… and I describe this person in detail, this is not anybody, anybody.\n\nDM: No, no, no, Ekko and Jrain recognize him as Eidrikas, whatever your mentor’s name is.\n\nEkko: Whoa.\n\nEolo: Good. Huh.\n\nEkko: Kez… Kezo, ECHO, Ekko, reacts, and, like, what’s their… what’s their vibe?\n\nDM: Their vibe is… I mean, they're like… it looks like every time the light passes through their body, they're, like, in a lot of pain and struggling with something, but they seem to be intentional that they're here.\n\nJrain: We found the characters holding the world together again.\n\nEkko: Yeah, Jesus. Ekko… Ekko, we'll… will… Does, does he see Ekko?\n\nDM: He doesn't… he's… he's sitting cross-legged, like… he’s a thousand feet below you, right? This is all through Clairvoyance. And he’s sitting, like, cross-legged, like… in this, like, pose of, like, deep meditation, right? Like, his…\n\nEkko: Yeah. Easy.\n\nDM: He opens his eyes occasionally, but it's not like he's looking up and looking around, right?\n\nEkko: Right.\n\nDM: He seems intensely focused on something."
+        }
+      ],
+      "place": "p13",
+      "mode": "remote",
+      "observerPlace": "p12",
+      "observedActors": [
+        "Eidrikas"
+      ],
+      "locationContext": [
+        {
+          "subject": "p12",
+          "relation": "above",
+          "target": "p13",
+          "note": "The larger mechanism platform is about a thousand feet below."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1863",
+        "endUid": "u1872"
+      },
+      "actors": [
+        "Ekko"
+      ],
+      "reading": "Ekko flies down and lands beside Eidrikas on the large mechanism platform; the rest remain above.",
+      "evidence": [
+        {
+          "startUid": "u1863",
+          "endUid": "u1872",
+          "quote": "Ekko: Yeah. Yeah, I’ll do that. Ekko, Ekko will, we’ll rush, rush, rush over.\n\nDM: Okay, I mean, when you… so you go… let's see, it's, I… we'll do the scene with him, but then let's stop, because it's almost midnight.\n\nEkko: Fair.\n\nDM: He… you land near him… and he sort of… he looks up at you in, like… joy. Right? Like… “Ekko. How did you come to… be here?”"
+        },
+        {
+          "startUid": "u1853",
+          "endUid": "u1855",
+          "quote": "DM: He doesn't… he's… he's sitting cross-legged, like… he’s a thousand feet below you, right? This is all through Clairvoyance. And he’s sitting, like, cross-legged, like… in this, like, pose of, like, deep meditation, right? Like, his…"
+        }
+      ],
+      "from": "p12",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "fly",
+      "distance": {
+        "value": 1000,
+        "unit": "foot",
+        "precision": "approximate",
+        "basis": "DM states vertical separation at u1853–u1855."
+      }
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u1907",
+        "endUid": "u1914"
+      },
+      "actors": [
+        "Ekko"
+      ],
+      "reading": "Eidrikas points out the lower platform route where the orcs fled; Ekko does not enter it.",
+      "evidence": [
+        {
+          "startUid": "u1907",
+          "endUid": "u1914",
+          "quote": "DM: And he’ll point, there’s, like, beneath this, there’s, like, a complex… that you can almost jump down, right? Like, from here to underneath a smaller section. Again, like, think of Zelda like Skyland, right? Like, there’s a… there’s another platform, maybe 10 feet below, and it leads into a more complex… Like, he points down, “They fled down that way… when we… when we surprise them. If you could… and I could not… I cannot give chase for… I, it is… and again, I am doing what I can to prevent it from getting worse. But we cannot repair it without retrieving the piece. If you have companions who can chase them… I can only hold this together for so long.”"
+        },
+        {
+          "startUid": "u1931",
+          "endUid": "u1935",
+          "quote": "DM: I mean, they… they can't fly. So they must be sort of pointing down, there's, like, again, like, a platform beneath that then opens up. There's, like, a series of… of other platforms beneath that you could navigate, right? They must be down there.\n\nEkko: Yeah.\n\nDM: Go find them.\n\nEkko: Okay, I can go, we’ll do our best. Please hold on."
+        }
+      ],
+      "place": "p14",
+      "mode": "local",
+      "observerPlace": "p13"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u1936",
+        "endUid": "u1936"
+      },
+      "actors": [
+        "Ekko"
+      ],
+      "reading": "Ekko flies back to the companions on the small rock and reports the conversation.",
+      "evidence": [
+        {
+          "startUid": "u1936",
+          "endUid": "u1944",
+          "quote": "Ekko: Ekko will, will fly back to the companions and tell them about the conversation.\n\nEolo: This is the main quest, right?\n\nEkko: I think this is a main quest now.\n\nDM: Wow.\n\nFinnan: Finnan…\n\nDM: There's two main ques… I mean, yes.\n\nFinnan: And then we’ll… well, Finnan is concerned that once the mechanism is repaired, the portals will close. Is… How desperate did he seem?"
+        }
+      ],
+      "from": "p13",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "fly"
+    }
+  ]
+}

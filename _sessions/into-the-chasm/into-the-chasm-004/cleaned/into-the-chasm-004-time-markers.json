@@ -1,0 +1,243 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "into-the-chasm-004",
+    "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-session.yaml",
+    "sessionYamlSha256": "c532b4b7fe092abe82d9511d1eb0d4c66943427af088e668208f6ef147f44e61",
+    "transcriptPath": "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-transcript.md",
+    "transcriptSha256": "17050223d012d38981ec5fdd1a2c975d0b1db81e5767cfaa35b844c57367252a",
+    "yamlDates": {
+      "start": "1730-01-26",
+      "end": "1730-01-29"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0027",
+        "endUid": "u0030"
+      },
+      "reading": "The party begins a local end-of-day sleep in the hut and completes a long rest after the watch disturbance.",
+      "evidence": [
+        {
+          "startUid": "u0027",
+          "endUid": "u0030",
+          "quote": "DM: And as we begin, you’re huddled together, I guess, or apart? I don't know, you're huddled in the corner, basically, in the half a room of this one and a half bedroom, you know, one and a half room hut, sort of a little bit away from… from… the family, who are also settling in to go to sleep, because… well, it’s not nighttime, but it’s… it’s the end of the day. And… you go to sleep."
+        },
+        {
+          "startUid": "u0226",
+          "endUid": "u0231",
+          "quote": "Jrain: Alright, well, I'll wake up, Ekko, when my watch is over, then. That's…\n\nDM: Well, the rest of the night passes uneventfully.\n\nDM: You can now all click the long rest button. You wake up feeling… somewhat refreshed. The… the…"
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Completed long-rest convention; the watch disturbance does not revoke the awarded rest."
+      },
+      "completion": "completed",
+      "note": "The sun has not set; the local sleep cycle does not establish an outside civil-date boundary."
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0051",
+        "endUid": "u0058"
+      },
+      "reading": "Jrain’s third watch interrupts the party’s sleep; by this point the party has short-rest credit but has not completed the long rest.",
+      "evidence": [
+        {
+          "startUid": "u0051",
+          "endUid": "u0058",
+          "quote": "DM: So… who is going to be the… third person on watch? Just decide, tell me. Or I'll roll randomly.\n\nJustas: The one of us with the best perception, I'm pretty sure.\n\nDM: I think Jrain is the third one. Jrain is the third one, okay.\n\nJrain: I was gonna volunteer anyway, I always volunteer for crap.\n\nDM: So… you’re sitting, watching. Actually, yeah, make a perception check."
+        },
+        {
+          "startUid": "u0184",
+          "endUid": "u0185",
+          "quote": "Finnan: No, I haven't, but I can. I'm just saying… Is the middle of the night the time for this conversation? I mean…"
+        },
+        {
+          "startUid": "u0207",
+          "endUid": "u0214",
+          "quote": "Justas: I assume we did not actually get a long rest out of the night so far?\n\nDM: I mean… Yeah, so if you, like, you're on watch. No, you haven't gotten a long rest yet.\n\nJustas: Hmm…\n\nDM: You would have gotten a short rest. If you still have slots, you could use them and you'd get them back. Although, actually, I think technically the D&D rules are if you fight in the middle of the night. I don’t… anyway, it’s fine if you want to use this… You don’t feel any sense that the… that the Kestavo… I mean, you feel… that the Kestavo mat… I mean, there’s a bit of a, like, mat… like, it feels distant, but it doesn’t feel corrupted or anything."
+        },
+        {
+          "startUid": "u0224",
+          "endUid": "u0227",
+          "quote": "DM: Eolo was probably the first watch. Finnan was the second watch. You’re the third watch. Ekko’s the fourth watch, and then Justas.\n\nJrain: Alright, well, I'll wake up, Ekko, when my watch is over, then. That's…\n\nDM: Well, the rest of the night passes uneventfully."
+        }
+      ],
+      "actors": [
+        "party",
+        "Jrain"
+      ],
+      "time": {
+        "partOfDay": "middle of the local sleep period",
+        "precision": "approximate",
+        "basis": "Third of five watches; Finnan calls this the middle of the night, despite stationary daylight."
+      },
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Short-rest convention for the credit already earned during this sleep interval."
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t01"
+        }
+      ],
+      "note": "This rest credit is contained in t01, not an additional hour after it."
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u1211",
+        "endUid": "u1212"
+      },
+      "reading": "Eolo returns to the waiting party after a few minutes spent testing the metal rift.",
+      "evidence": [
+        {
+          "startUid": "u1145",
+          "endUid": "u1149",
+          "quote": "Eolo: I've never tried fish arrows, I like your idea even better. I'll go try that, just a minute.\n\nDM: So you're gonna walk over… you're gonna… you're gonna walk over to the… to the gash that is the metal… the plane of the metal, the weird metal, and what? Try and grab a piece?\n\nEolo: Yep. This is a good character, I enjoy playing him.\n\nDM: No, it's not a vortex, you don't get sucked through. If you just stick your hand in."
+        },
+        {
+          "startUid": "u1193",
+          "endUid": "u1197",
+          "quote": "Finnan: Come back this way, so we can go… bother this fey dude.\n\nDM: You do need to take a short rest to see what comes from these arrows.\n\nEolo: Yep.\n\nFinnan: Yeah, let’s talk to the fey first, and then we can short rest before we do anything else. Unless you want to short rest now, although we’ve already made our scene, so it’s gonna… kind of dilute our impact if we stomp around town and then vanish for an hour."
+        },
+        {
+          "startUid": "u1198",
+          "endUid": "u1206",
+          "quote": "DM: So, hold on, while this is happening, what is… Kong, what is… is Eolo… I mean, is Ekko doing anything? Are you just… still a cat?\n\nEkko: Yeah, I’m still a cat. Just, just… looking at Eolo with, just…\n\nDM: You could snack again, right? Like, the salmon was really good.\n\nEkko: Yeah, yeah, I'll continue eating salmon.\n\nDM: Ed, what's Justas doing?\n\nJustas: Just… Justas is praying and reconnecting with the Kestavo. He's… he's real unsettled by this turn.\n\nDM: Okay. That it’s not really like Kestavo space that we’re in."
+        },
+        {
+          "startUid": "u1211",
+          "endUid": "u1212",
+          "quote": "DM: So, you know, Eolo comes back after a few minutes with, like, a bleeding hand and this weird piece of metal, which I guess you've thrown in your quiver. That… that…."
+        }
+      ],
+      "actors": [
+        "Eolo"
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM explicitly measures the completed outing on Eolo’s return."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1239",
+        "endUid": "u1245"
+      },
+      "reading": "A minute passes after the request to extend the bridge, and the bridge appears.",
+      "evidence": [
+        {
+          "startUid": "u1228",
+          "endUid": "u1245",
+          "quote": "Finnan: Well, then I’ll ask Jrain, would you shout in your loudest, most convincing, and politest voice… that we are interplanar… travelers come to conference on the… planar rifts that are affecting both of our worlds? Please extend the bridge.\n\nJrain: I say that exactly.\n\nDM: Because I have to…\n\nJrain: In Sylvan, but following Finnan’s…\n\nDM: Okay.\n\nJrain: You know, intonations and…\n\nDM: Yeah.\n\nJrain: I'm trying to borrow somebody else's persuasion, because I'm not very persuasive, but I do speak Sylvan, so I'm saying it.\n\nDM: Okay. After…\n\nJrain: With…\n\nDM: A minute…\n\nDM: A… the bridge extends, or a bridge extends, it’s… it’s… it's narrow, right? It's only, like, maybe… 6 inches or 8 inches across. 8, you know, 8 inches. You could walk it, but it's definitely not two abreast kind of thing."
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates a minute before the bridge extends."
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u1741",
+        "endUid": "u1746"
+      },
+      "reading": "The party emerges into the actual chasm in early or mid-afternoon; the initial night description is immediately corrected.",
+      "evidence": [
+        {
+          "startUid": "u1741",
+          "endUid": "u1746",
+          "quote": "DM: What you see as you come out, you're… the chasm itself is, like… wide, right? Like, it’s dozens of miles across. And so, you can’t… you can’t really see the other side very well. There's a certain amount of haze in the air, and some mists in the air that… but nothing like you were there before, right? It's like, it’s… you can see the sky, right? It’s… night. Hold on, no, it’s mid… it’s like mid-afternoon… or early afternoon, right? Like, you can see a dim sun up in the sky."
+        },
+        {
+          "startUid": "u1803",
+          "endUid": "u1804",
+          "quote": "Finnan: Like, it’s mid-afternoon, just wait 6 hours. I mean, if you want to do a little flyby of the rock down there."
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "DM corrects night to mid- or early afternoon; Finnan later calls it mid-afternoon."
+      }
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u1957",
+        "endUid": "u1960"
+      },
+      "reading": "The closing conversation places the party four Taelgar days after entering the labyrinth: thirteen days since the bird died, minus nine days before entry.",
+      "evidence": [
+        {
+          "startUid": "u1951",
+          "endUid": "u1960",
+          "quote": "Finnan: We have no idea what day it is. We don't have any idea how long we were in the… in the…\n\nDM: I mean, you could ask… you could ask, you could ask.\n\nFinnan: I mean, does he know what day it is? Maybe.\n\nDM: Yeah, he's… the sun sets and rises here, he's been counting sunrises, yeah, he knows…\n\nFinnan: Alright.\n\nDM: He knows how many days he’s been here. He can tell you that he… he can tell you… hold on, let me look at my notes. He can tell you that… he can tell you that… it was… 13 days since… I mean, he knows that he was, like, that Jrain's bird was following them around, right? He can tell you that it was 13 days since Jrain's bird died."
+        },
+        {
+          "startUid": "u1964",
+          "endUid": "u1973",
+          "quote": "DM: 13 days ago, that was… so, that was, as far as you know, 9 days ago. Your bird died 9 days before you went into the labyrinth.\n\nJrain: Okay, so we lost 4 days.\n\nDM: Wow, you spend…\n\nFinnan: Well, over the…\n\nJrain: I’ve spent 4 days of this universe’s time… doing all the stuff that we’ve done so far.\n\nDM: Yeah.\n\nJrain: Okay."
+        }
+      ],
+      "actors": [
+        "party"
+      ],
+      "time": {
+        "relative": {
+          "relation": "after",
+          "anchor": "The party entered the labyrinth in an earlier session",
+          "offset": {
+            "value": 4,
+            "unit": "day",
+            "precision": "exact",
+            "basis": "The table accepts thirteen minus nine days."
+          }
+        },
+        "precision": "approximate",
+        "basis": "Retrospective outside-world day count at the closing scene, not an exact 96-hour measurement."
+      },
+      "note": "This is an adventure-wide comparison. It does not add four days to session 004 or establish a local day/night cycle in Melusa."
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No absolute date is spoken. YAML supplies 1730-01-26 through 1730-01-29; the transcript independently supplies a completed local rest, an outside afternoon, and four outside days since the earlier labyrinth entry.",
+    "expectedDateBoundaries": 3,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t05",
+      "t06"
+    ],
+    "explanation": "The long rest occurs under stationary daylight in a separate temporal frame. The four-day comparison includes earlier sessions, and therefore does not measure three boundaries during this session. The YAML span is possible but not independently matched; the unplayed wait for night and proposed short rest add no elapsed time."
+  }
+}

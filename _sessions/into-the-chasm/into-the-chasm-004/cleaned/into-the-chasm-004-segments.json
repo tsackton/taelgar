@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "into-the-chasm-004",
+    "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-session.yaml",
+    "sessionYamlSha256": "c532b4b7fe092abe82d9511d1eb0d4c66943427af088e668208f6ef147f44e61",
+    "transcriptPath": "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-transcript.md",
+    "transcriptSha256": "17050223d012d38981ec5fdd1a2c975d0b1db81e5767cfaa35b844c57367252a"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0002"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0003",
+        "endUid": "u0026"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0027",
+        "endUid": "u0040"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0041",
+        "endUid": "u0050"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0051",
+        "endUid": "u1961"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1962",
+        "endUid": "u1963"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1964",
+        "endUid": "u1994"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1995",
+        "endUid": "u2002"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

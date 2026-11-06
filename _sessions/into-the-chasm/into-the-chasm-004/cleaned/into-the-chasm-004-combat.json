@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "into-the-chasm-004",
+    "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-session.yaml",
+    "sessionYamlSha256": "c532b4b7fe092abe82d9511d1eb0d4c66943427af088e668208f6ef147f44e61",
+    "transcriptPath": "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-transcript.md",
+    "transcriptSha256": "17050223d012d38981ec5fdd1a2c975d0b1db81e5767cfaa35b844c57367252a",
+    "segments": {
+      "path": "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-segments.json",
+      "sha256": "3621b98679698a9b9205b0d1c28fde95aaf12b82401f1cb6408af1856869af6a",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": []
+}

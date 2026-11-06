@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "0.1-time-watches",
+  "sessionYaml": "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-session.yaml",
+  "source": {
+    "path": "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-time-markers.json",
+    "sha256": "625e637764f041b1640d1dcbdf55b518c190b313457072d59035b0a4fa3fc168"
+  },
+  "transcript": {
+    "path": "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-transcript.md",
+    "sha256": "17050223d012d38981ec5fdd1a2c975d0b1db81e5767cfaa35b844c57367252a"
+  },
+  "dateAssessment": "Working campaign span: YAML January 26–29, 1730. The transcript-only assessment is compatible, not an exact match: the local long rest establishes eight hours by convention, not an outside date change. Melusa’s sleep-cycle watches below are local social estimates, independent of its stationary daylight; village activities without a clock remain open. Outside afternoon is inferred to be January 29 from t06’s four Taelgar days since entry and Episode 1’s dated January 25 entry. That four-day comparison includes earlier sessions. The current session’s exact outside start boundary remains unproved. The previous session’s closing sleep decision and this session’s opening continue the same local rest; no intervening rest is added. Waiting six hours for stars and taking a further short rest are proposals, not completed advances.",
+  "watches": [
+    {
+      "day": "Opening local sleep cycle",
+      "startWatch": "dusk",
+      "endWatch": "dawn",
+      "basis": "inferred",
+      "clock": "local",
+      "scope": "Melusa rest",
+      "summary": "End-of-day sleep completes a long rest: eight hours by convention, despite unchanged daylight.",
+      "markers": [
+        "t01"
+      ]
+    },
+    {
+      "day": "During the same local rest",
+      "startWatch": "midnight",
+      "endWatch": "midnight",
+      "basis": "mixed",
+      "clock": "local",
+      "scope": "Jrain’s watch",
+      "summary": "Third watch is called the middle of the night; short-rest credit is already within the long rest.",
+      "markers": [
+        "t02"
+      ]
+    },
+    {
+      "day": "After waking in Melusa",
+      "startWatch": null,
+      "endWatch": null,
+      "basis": "open",
+      "clock": "local",
+      "summary": "Eolo’s outing takes a few minutes; the bridge extends after another minute. No watch is established.",
+      "markers": [
+        "t03",
+        "t04"
+      ]
+    },
+    {
+      "day": "January 29, 1730",
+      "startDate": "1730-01-29",
+      "endDate": "1730-01-29",
+      "startWatch": "afternoon",
+      "endWatch": "afternoon",
+      "basis": "stated",
+      "summary": "Night corrected to early or mid-afternoon; closing count places return four Taelgar days after labyrinth entry.",
+      "markers": [
+        "t05",
+        "t06"
+      ]
+    }
+  ],
+  "contextSources": [
+    {
+      "label": "Dated labyrinth entry",
+      "path": "Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 01.md",
+      "sha256": "d17ec49a1bf5335a2da36c6edf67c2f8ffae3524145a73b2ac18047f697288bc"
+    },
+    {
+      "label": "Previous local sleep handoff",
+      "path": "_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-transcript.md",
+      "sha256": "14ec6b5112538a313f32603b4f4b004a71fb0f3e5ca0f15efdfb0c6c52de5a04"
+    }
+  ]
+}
