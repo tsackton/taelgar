@@ -1,0 +1,880 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "lost-in-the-feywild-005",
+    "sessionYaml": "_sessions/feywild/lost-in-the-feywild-005/cleaned/lost-in-the-feywild-005-session.yaml",
+    "sessionYamlSha256": "8da9a487bc8214a45f94f276d6e119c8e4bdef61ebc6ea7b290469febc21cebf",
+    "transcriptPath": "_sessions/feywild/lost-in-the-feywild-005/cleaned/lost-in-the-feywild-005-transcript.md",
+    "transcriptSha256": "3ab7ae119501a105d232fe7b272040ef75148ee367fb05e1952b4fff09d8007e"
+  },
+  "places": {
+    "p01": {
+      "label": "House of 27 Rooms",
+      "kind": "building",
+      "evidence": [
+        {
+          "startUid": "u0043",
+          "endUid": "u0049",
+          "quote": "We begin in the fungal greenhouse, although I guess green is not exactly the right word for it. Having entered the House of 27 Rooms and wandered at random through a labyrinth of constantly changing rooms, you know, of all sorts of design, many of which seem to be for people who were living and working there: meeting rooms, sleeping rooms, conference rooms, kitchens… and some of which seem to be… chapel, and some of which seem to be… workspaces like this that you're in right now."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/27th House.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0388",
+              "endUid": "u0398",
+              "quote": "Rebuilding the order, if she's also trapped in the Feywild."
+            },
+            {
+              "startUid": "u0043",
+              "endUid": "u0049",
+              "quote": "We begin in the fungal greenhouse, although I guess green is not exactly the right word for it. Having entered the House of 27 Rooms and wandered at random through a labyrinth of constantly changing rooms, you know, of all sorts of design, many of which seem to be for people who were living and working there: meeting rooms, sleeping rooms, conference rooms, kitchens… and some of which seem to be… chapel, and some of which seem to be… workspaces like this that you're in right now."
+            }
+          ]
+        }
+      ]
+    },
+    "p02": {
+      "label": "Feywild",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u0397",
+          "endUid": "u0400",
+          "quote": "Rebuilding the order, if she's also trapped in the Feywild. For sure. Let's ask her that."
+        }
+      ],
+      "vaultPath": "Cosmology/Feywild.md"
+    },
+    "p03": {
+      "label": "Fungal greenhouse",
+      "kind": "laboratory",
+      "evidence": [
+        {
+          "startUid": "u0043",
+          "endUid": "u0049",
+          "quote": "We begin in the fungal greenhouse, although I guess green is not exactly the right word for it. Having entered the House of 27 Rooms and wandered at random through a labyrinth of constantly changing rooms, you know, of all sorts of design, many of which seem to be for people who were living and working there: meeting rooms, sleeping rooms, conference rooms, kitchens… and some of which seem to be… chapel, and some of which seem to be… workspaces like this that you're in right now."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0043",
+              "endUid": "u0049",
+              "quote": "We begin in the fungal greenhouse, although I guess green is not exactly the right word for it. Having entered the House of 27 Rooms and wandered at random through a labyrinth of constantly changing rooms, you know, of all sorts of design, many of which seem to be for people who were living and working there: meeting rooms, sleeping rooms, conference rooms, kitchens… and some of which seem to be… chapel, and some of which seem to be… workspaces like this that you're in right now."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Parlor and game room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0436",
+          "endUid": "u0445",
+          "quote": "Umm. Oh. Menestheus leads you on, stepping out a different door than you came in, and you find yourself in sort of a parlor and game room. It's like a plush sort of a club room with big leather club chairs and what to your eyes are, like, antique board games. Even the playing cards are a slightly different size and proportion than what you're used to. There's a billiards table in one corner with a similar setup, though the balls are completely different. And it's—it's a sort of a—it's a sort of a rec room. And… you know, nicely appointed, but… nothing of notice or note."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0436",
+              "endUid": "u0445",
+              "quote": "Umm. Oh. Menestheus leads you on, stepping out a different door than you came in, and you find yourself in sort of a parlor and game room. It's like a plush sort of a club room with big leather club chairs and what to your eyes are, like, antique board games. Even the playing cards are a slightly different size and proportion than what you're used to. There's a billiards table in one corner with a similar setup, though the balls are completely different. And it's—it's a sort of a—it's a sort of a rec room. And… you know, nicely appointed, but… nothing of notice or note."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Lecture hall",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u0446",
+          "endUid": "u0450",
+          "quote": "And Menestheus… waves you on, across the hall to the… the far side. \"This… one is new.\" And you step through and find yourselves in a lecture hall. Okay. You are standing at the level of a long blackboard, and rows of chairs rise up to exit on the far wall on the other sides."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0446",
+              "endUid": "u0450",
+              "quote": "And Menestheus… waves you on, across the hall to the… the far side. \"This… one is new.\" And you step through and find yourselves in a lecture hall. Okay. You are standing at the level of a long blackboard, and rows of chairs rise up to exit on the far wall on the other sides."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Clock-making workshop",
+      "kind": "workshop",
+      "evidence": [
+        {
+          "startUid": "u0685",
+          "endUid": "u0693",
+          "quote": "And… the next room that you come into… is… a workshop. It's a clock-making workshop. A clockworks. And there are… workstations… on long benches and tables with intricate gears and tiny tools. There's a couple of different grandfather clocks in different stages of assembly, as well as a few different small, like, desk-sized versions of the same… sort of grandfather clock. And… That's what it is. Clockworks Workshop."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0685",
+              "endUid": "u0693",
+              "quote": "And… the next room that you come into… is… a workshop. It's a clock-making workshop. A clockworks. And there are… workstations… on long benches and tables with intricate gears and tiny tools. There's a couple of different grandfather clocks in different stages of assembly, as well as a few different small, like, desk-sized versions of the same… sort of grandfather clock. And… That's what it is. Clockworks Workshop."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Mechanical room with the Thirst notebook",
+      "kind": "mechanical room",
+      "evidence": [
+        {
+          "startUid": "u0728",
+          "endUid": "u0738",
+          "quote": "The next room is another of the massive mechanical rooms, and as you step into it, you do notice that the numbers on the clock face change. One of the three sets of numbers changes. And…"
+        },
+        {
+          "startUid": "u0734",
+          "endUid": "u0738",
+          "quote": "So it's another one of these massive mechanical rooms where almost the entire space is filled with you know, just huge and sort of incomprehensible piping and tubing and gears. There's a hum to it. And there's another one of these listening stations. Oh… with… with a notebook."
+        },
+        {
+          "startUid": "u0747",
+          "endUid": "u0747",
+          "quote": "It does. Its name is Thirst."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0728",
+              "endUid": "u0738",
+              "quote": "The next room is another of the massive mechanical rooms, and as you step into it, you do notice that the numbers on the clock face change. One of the three sets of numbers changes. And…"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Animal experimentation lab",
+      "kind": "laboratory",
+      "evidence": [
+        {
+          "startUid": "u1007",
+          "endUid": "u1009",
+          "quote": "Alright, you step through the next room, and it is very clearly an animal lab… for experiments on animals."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1007",
+              "endUid": "u1009",
+              "quote": "Alright, you step through the next room, and it is very clearly an animal lab… for experiments on animals."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Dead plant greenhouse",
+      "kind": "laboratory",
+      "evidence": [
+        {
+          "startUid": "u2032",
+          "endUid": "u2036",
+          "quote": "Alright, the next… you come into is a plant greenhouse, but it's all dead. Like, everything is dead. You can see there are… all sorts of plants that were being grown, all behind glass and in containment also, but everything is just brown and withered. You do notice there, dandelions, and you see cattails, you see… I don't know, various wildflowers, you see small shrubs. Sort of a cross-section of plants. Milkweed."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2032",
+              "endUid": "u2036",
+              "quote": "Alright, the next… you come into is a plant greenhouse, but it's all dead. Like, everything is dead. You can see there are… all sorts of plants that were being grown, all behind glass and in containment also, but everything is just brown and withered. You do notice there, dandelions, and you see cattails, you see… I don't know, various wildflowers, you see small shrubs. Sort of a cross-section of plants. Milkweed."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Armory",
+      "kind": "workshop",
+      "evidence": [
+        {
+          "startUid": "u2043",
+          "endUid": "u2052",
+          "quote": "The next room you come to is… a very picked over armory. So… There, in one corner, there's a forge… an anvil stocked with different tools and equipment, like for doing repairs. You know, there's a breastplate in the middle of being repaired."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2043",
+              "endUid": "u2052",
+              "quote": "The next room you come to is… a very picked over armory. So… There, in one corner, there's a forge… an anvil stocked with different tools and equipment, like for doing repairs. You know, there's a breastplate in the middle of being repaired."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Orrery room",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2153",
+          "endUid": "u2162",
+          "quote": "The next room is a… partially constructed orrery. This giant, three-dimensional representation of… what Menestheus says are planes of existence, and do not… really make anything more than a jumble of… spheres connected to other interlocking spheres slowly rotating around each other. And… And…"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2153",
+              "endUid": "u2162",
+              "quote": "The next room is a… partially constructed orrery. This giant, three-dimensional representation of… what Menestheus says are planes of existence, and do not… really make anything more than a jumble of… spheres connected to other interlocking spheres slowly rotating around each other. And… And…"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Office corridor",
+      "kind": "room",
+      "evidence": [
+        {
+          "startUid": "u2171",
+          "endUid": "u2176",
+          "quote": "The next room is just offices. There's lots of, like, little study carrels, and there's a row—you're going down a corridor—so there's some study carrels for, like, the little peons, and then there's a whole row of individual offices with people's names on them. The fancy one in the center of the hall is Thalestria's. You see one for the gardener that you met also. But… otherwise, they're all locked. And there's nothing especially interesting in this one."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2171",
+              "endUid": "u2176",
+              "quote": "The next room is just offices. There's lots of, like, little study carrels, and there's a row—you're going down a corridor—so there's some study carrels for, like, the little peons, and then there's a whole row of individual offices with people's names on them. The fancy one in the center of the hall is Thalestria's. You see one for the gardener that you met also. But… otherwise, they're all locked. And there's nothing especially interesting in this one."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Thalestria's office",
+      "kind": "office",
+      "evidence": [
+        {
+          "startUid": "u2171",
+          "endUid": "u2176",
+          "quote": "The next room is just offices. There's lots of, like, little study carrels, and there's a row—you're going down a corridor—so there's some study carrels for, like, the little peons, and then there's a whole row of individual offices with people's names on them. The fancy one in the center of the hall is Thalestria's. You see one for the gardener that you met also. But… otherwise, they're all locked. And there's nothing especially interesting in this one."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2171",
+              "endUid": "u2176",
+              "quote": "The next room is just offices. There's lots of, like, little study carrels, and there's a row—you're going down a corridor—so there's some study carrels for, like, the little peons, and then there's a whole row of individual offices with people's names on them. The fancy one in the center of the hall is Thalestria's. You see one for the gardener that you met also. But… otherwise, they're all locked. And there's nothing especially interesting in this one."
+            }
+          ]
+        },
+        {
+          "relation": "adjacent_to",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u2171",
+              "endUid": "u2176",
+              "quote": "The next room is just offices. There's lots of, like, little study carrels, and there's a row—you're going down a corridor—so there's some study carrels for, like, the little peons, and then there's a whole row of individual offices with people's names on them. The fancy one in the center of the hall is Thalestria's. You see one for the gardener that you met also. But… otherwise, they're all locked. And there's nothing especially interesting in this one."
+            }
+          ]
+        }
+      ],
+      "note": "Door inspected and unsuccessfully forced; the party does not enter."
+    },
+    "p14": {
+      "label": "Map library",
+      "kind": "library",
+      "evidence": [
+        {
+          "startUid": "u2240",
+          "endUid": "u2250",
+          "quote": "Menestheus says, wheezing, \"I think we just have a couple more rooms. I think there's, like, there's not many.\" Here's the next, the next new one that you get to. Okay. Is a map library. And there's large, you know, those long, flat cases that you can pull out with individual maps. And…"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2240",
+              "endUid": "u2250",
+              "quote": "Menestheus says, wheezing, \"I think we just have a couple more rooms. I think there's, like, there's not many.\" Here's the next, the next new one that you get to. Okay. Is a map library. And there's large, you know, those long, flat cases that you can pull out with individual maps. And…"
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Tinkerer's fabrication lab",
+      "kind": "laboratory",
+      "evidence": [
+        {
+          "startUid": "u2332",
+          "endUid": "u2337",
+          "quote": "All right. The next room is a sort of a tinkerer's lab. Or like a fabrication lab, where there are… but… rows of workstations for building or constructing different kinds of things. I don't think any of you have the proficiencies to sort of make sense of it. But, like, an artificer's lab."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2332",
+              "endUid": "u2337",
+              "quote": "All right. The next room is a sort of a tinkerer's lab. Or like a fabrication lab, where there are… but… rows of workstations for building or constructing different kinds of things. I don't think any of you have the proficiencies to sort of make sense of it. But, like, an artificer's lab."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Final mechanical listening room (room 25)",
+      "kind": "mechanical room",
+      "evidence": [
+        {
+          "startUid": "u2353",
+          "endUid": "u2355",
+          "quote": "He opens the door. So this would be room 25. And it's another one of these massive, massive mechanical rooms with a listening window on the far end."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2353",
+              "endUid": "u2355",
+              "quote": "He opens the door. So this would be room 25. And it's another one of these massive, massive mechanical rooms with a listening window on the far end."
+            }
+          ]
+        }
+      ],
+      "note": "Late narration calls this room 25 despite the opening retcon removing room markings; this is a narrated count, not a surviving sign."
+    },
+    "p17": {
+      "label": "Massive library (room 26)",
+      "kind": "library",
+      "evidence": [
+        {
+          "startUid": "u2392",
+          "endUid": "u2414",
+          "quote": "The 26th room… is a library. A massive library."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u2392",
+              "endUid": "u2414",
+              "quote": "The 26th room… is a library. A massive library."
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Rune-covered iron wall beyond the listening window",
+      "kind": "prison boundary",
+      "evidence": [
+        {
+          "startUid": "u0896",
+          "endUid": "u0902",
+          "quote": "I mean, you're hearing it as a whisper. You're hearing it not coming from inside, but coming from the window."
+        },
+        {
+          "startUid": "u0901",
+          "endUid": "u0902",
+          "quote": "three-window-sized, that looks onto an iron… rune-covered… wall."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0896",
+              "endUid": "u0902",
+              "quote": "I mean, you're hearing it as a whisper. You're hearing it not coming from inside, but coming from the window."
+            }
+          ]
+        }
+      ],
+      "note": "Only the wall is seen through the listening station; no entry to the central chamber is established."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0043",
+        "endUid": "u0062"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party and Menestheus begin in the fungal greenhouse, where Kallipseis works.",
+      "evidence": [
+        {
+          "startUid": "u0043",
+          "endUid": "u0062",
+          "quote": "We begin in the fungal greenhouse, although I guess green is not exactly the right word for it. Having entered the House of 27 Rooms and wandered at random through a labyrinth of constantly changing rooms, you know, of all sorts of design, many of which seem to be for people who were living and working there: meeting rooms, sleeping rooms, conference rooms, kitchens… and some of which seem to be… chapel, and some of which seem to be… workspaces like this that you're in right now."
+        }
+      ],
+      "place": "p03"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0436",
+        "endUid": "u0445"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Menestheus leads the party out of the fungal greenhouse into the parlor and game room.",
+      "evidence": [
+        {
+          "startUid": "u0436",
+          "endUid": "u0445",
+          "quote": "Umm. Oh. Menestheus leads you on, stepping out a different door than you came in, and you find yourself in sort of a parlor and game room. It's like a plush sort of a club room with big leather club chairs and what to your eyes are, like, antique board games. Even the playing cards are a slightly different size and proportion than what you're used to. There's a billiards table in one corner with a similar setup, though the balls are completely different. And it's—it's a sort of a—it's a sort of a rec room. And… you know, nicely appointed, but… nothing of notice or note."
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived"
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0446",
+        "endUid": "u0450"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party crosses the parlor and enters the lecture hall.",
+      "evidence": [
+        {
+          "startUid": "u0446",
+          "endUid": "u0450",
+          "quote": "And Menestheus… waves you on, across the hall to the… the far side. \"This… one is new.\" And you step through and find yourselves in a lecture hall. Okay. You are standing at the level of a long blackboard, and rows of chairs rise up to exit on the far wall on the other sides."
+        }
+      ],
+      "from": "p04",
+      "to": "p05",
+      "completion": "arrived"
+    },
+    {
+      "id": "l04",
+      "type": "presence",
+      "source": {
+        "startUid": "u0479",
+        "endUid": "u0503"
+      },
+      "actors": [
+        "Tarek"
+      ],
+      "reading": "The table resolves Tarek's earlier parlor search, then confirms he is reading the recovered book in the lecture hall.",
+      "evidence": [
+        {
+          "startUid": "u0482",
+          "endUid": "u0485",
+          "quote": "Didn't we already leave that room?"
+        },
+        {
+          "startUid": "u0487",
+          "endUid": "u0501",
+          "quote": "Yes. With that, you don't find any money or value, but you find a book called The Shape of Discovery. And… The basic argument, it's… it's hard to tell if this is a serious philosophical treatise, or if this is a sort of a parody. But… it's a sort of a small… sort of book, and relatively brief, and flipping through it, the argument that it makes, or the claim that it makes, maybe as parody, maybe seriously, is that… curiosity is the same thing as greed, and that in the same way, this… the greed, which is the motive power of games of chance, curiosity works the same way to shape possibility in the world. And that curiosity, like greed, is irrational and unpredictable, and sometimes… takes people over with a drive to explore. But centrally, crucially, the curiosity of a person is one of the few wholly unpredictable things in a world, just like a game of chance. Thank you."
+        },
+        {
+          "startUid": "u0503",
+          "endUid": "u0503",
+          "quote": "We'll say you're still flipping through that as you're standing in the lecture hall. Go ahead, Kong."
+        }
+      ],
+      "place": "p04",
+      "context": "flashback"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0685",
+        "endUid": "u0693"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party enters the clock-making workshop.",
+      "evidence": [
+        {
+          "startUid": "u0685",
+          "endUid": "u0693",
+          "quote": "And… the next room that you come into… is… a workshop. It's a clock-making workshop. A clockworks. And there are… workstations… on long benches and tables with intricate gears and tiny tools. There's a couple of different grandfather clocks in different stages of assembly, as well as a few different small, like, desk-sized versions of the same… sort of grandfather clock. And… That's what it is. Clockworks Workshop."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0728",
+        "endUid": "u0738"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Carrying the recovered desk clock, the party enters another mechanical room and finds its listening station.",
+      "evidence": [
+        {
+          "startUid": "u0728",
+          "endUid": "u0738",
+          "quote": "The next room is another of the massive mechanical rooms, and as you step into it, you do notice that the numbers on the clock face change. One of the three sets of numbers changes. And…"
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived"
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u0896",
+        "endUid": "u0902"
+      },
+      "actors": [
+        "Kaito Min"
+      ],
+      "reading": "Kaito hears the whisper at a listening window looking onto a rune-covered iron wall; the central prison is not entered.",
+      "evidence": [
+        {
+          "startUid": "u0896",
+          "endUid": "u0902",
+          "quote": "I mean, you're hearing it as a whisper. You're hearing it not coming from inside, but coming from the window."
+        },
+        {
+          "startUid": "u0901",
+          "endUid": "u0902",
+          "quote": "three-window-sized, that looks onto an iron… rune-covered… wall."
+        }
+      ],
+      "place": "p18",
+      "mode": "local",
+      "observerPlace": "p07"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1007",
+        "endUid": "u1009"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party enters the animal experimentation lab; the encounter occurs here.",
+      "evidence": [
+        {
+          "startUid": "u1007",
+          "endUid": "u1009",
+          "quote": "Alright, you step through the next room, and it is very clearly an animal lab… for experiments on animals."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u2032",
+        "endUid": "u2041"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party passes through a greenhouse of dead plants under artificial lamps.",
+      "evidence": [
+        {
+          "startUid": "u2032",
+          "endUid": "u2041",
+          "quote": "Alright, the next… you come into is a plant greenhouse, but it's all dead. Like, everything is dead. You can see there are… all sorts of plants that were being grown, all behind glass and in containment also, but everything is just brown and withered. You do notice there, dandelions, and you see cattails, you see… I don't know, various wildflowers, you see small shrubs. Sort of a cross-section of plants. Milkweed."
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u2043",
+        "endUid": "u2052"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party reaches the armory, where Menestheus is questioned and examined.",
+      "evidence": [
+        {
+          "startUid": "u2043",
+          "endUid": "u2052",
+          "quote": "The next room you come to is… a very picked over armory. So… There, in one corner, there's a forge… an anvil stocked with different tools and equipment, like for doing repairs. You know, there's a breastplate in the middle of being repaired."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived"
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u2153",
+        "endUid": "u2162"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party enters the orrery room and sees its partly constructed model of the planes.",
+      "evidence": [
+        {
+          "startUid": "u2153",
+          "endUid": "u2162",
+          "quote": "The next room is a… partially constructed orrery. This giant, three-dimensional representation of… what Menestheus says are planes of existence, and do not… really make anything more than a jumble of… spheres connected to other interlocking spheres slowly rotating around each other. And… And…"
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2171",
+        "endUid": "u2176"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party reaches an office corridor containing locked offices, including Thalestria’s.",
+      "evidence": [
+        {
+          "startUid": "u2171",
+          "endUid": "u2176",
+          "quote": "The next room is just offices. There's lots of, like, little study carrels, and there's a row—you're going down a corridor—so there's some study carrels for, like, the little peons, and then there's a whole row of individual offices with people's names on them. The fancy one in the center of the hall is Thalestria's. You see one for the gardener that you met also. But… otherwise, they're all locked. And there's nothing especially interesting in this one."
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2177",
+        "endUid": "u2238"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party tries to gain entry to Thalestria's office; both forced-door attempts fail and Edric abandons entry.",
+      "evidence": [
+        {
+          "startUid": "u2177",
+          "endUid": "u2189",
+          "quote": "Alright, should we go break into Thalestria's office and see what the fuck is going on here? Tarek, the rogue, you're up."
+        },
+        {
+          "startUid": "u2210",
+          "endUid": "u2212",
+          "quote": "17 is not… good enough. A little chip of stone… comes off the door, but it won't do it."
+        },
+        {
+          "startUid": "u2225",
+          "endUid": "u2233",
+          "quote": "But I could rage. Wait, does rage give me advantage? Rage, I might be wrong."
+        },
+        {
+          "startUid": "u2238",
+          "endUid": "u2238",
+          "quote": "Edric's take here. No, he like puts his ha—he feels himself weaker after a rage and failing. He puts his hammer down and he says, \"We shouldn't go in there. It's not safe. The gods are telling me it's not safe.\""
+        }
+      ],
+      "from": "p12",
+      "to": "p13",
+      "completion": "interrupted"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2240",
+        "endUid": "u2250"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party enters the map library; Menestheus sits and discusses other order sites and a captive.",
+      "evidence": [
+        {
+          "startUid": "u2240",
+          "endUid": "u2250",
+          "quote": "Menestheus says, wheezing, \"I think we just have a couple more rooms. I think there's, like, there's not many.\" Here's the next, the next new one that you get to. Okay. Is a map library. And there's large, you know, those long, flat cases that you can pull out with individual maps. And…"
+        }
+      ],
+      "from": "p12",
+      "to": "p14",
+      "completion": "arrived"
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2332",
+        "endUid": "u2337"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "After completing the map-library visit, the party passes into a fabrication laboratory.",
+      "evidence": [
+        {
+          "startUid": "u2332",
+          "endUid": "u2337",
+          "quote": "All right. The next room is a sort of a tinkerer's lab. Or like a fabrication lab, where there are… but… rows of workstations for building or constructing different kinds of things. I don't think any of you have the proficiencies to sort of make sense of it. But, like, an artificer's lab."
+        }
+      ],
+      "from": "p14",
+      "to": "p15",
+      "completion": "arrived"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2353",
+        "endUid": "u2363"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party enters the final mechanical listening room; Kaito hears the prisoner’s looping statements.",
+      "evidence": [
+        {
+          "startUid": "u2353",
+          "endUid": "u2363",
+          "quote": "He opens the door. So this would be room 25. And it's another one of these massive, massive mechanical rooms with a listening window on the far end."
+        },
+        {
+          "startUid": "u2360",
+          "endUid": "u2363",
+          "quote": "Though, you start… I'm gonna put things into chat that are written down in the notebook, but you start to hear permutations of this… Oh. Like at a, just a constant low level, like someone or something perseverating around a few ideas and looping over and over in different forms. It's not like it's exactly the verbatim text over and over, but you hear this as soon as you step into the room."
+        }
+      ],
+      "from": "p15",
+      "to": "p16",
+      "completion": "arrived"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u2392",
+        "endUid": "u2414"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party enters the massive library outside the central prison; the clockwork torso raises its head.",
+      "evidence": [
+        {
+          "startUid": "u2392",
+          "endUid": "u2414",
+          "quote": "The 26th room… is a library. A massive library."
+        },
+        {
+          "startUid": "u2410",
+          "endUid": "u2414",
+          "quote": "And its eyes are closed, and it's looking down, and as you step into the room, its head… lifts up… and stares directly at you… and cocks to the side quizzically. And that's where we'll leave it for this session."
+        }
+      ],
+      "from": "p16",
+      "to": "p17",
+      "completion": "arrived"
+    }
+  ]
+}

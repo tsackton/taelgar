@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "lost-in-the-feywild-005",
+    "sessionYaml": "_sessions/feywild/lost-in-the-feywild-005/cleaned/lost-in-the-feywild-005-session.yaml",
+    "sessionYamlSha256": "8da9a487bc8214a45f94f276d6e119c8e4bdef61ebc6ea7b290469febc21cebf",
+    "transcriptPath": "_sessions/feywild/lost-in-the-feywild-005/cleaned/lost-in-the-feywild-005-transcript.md",
+    "transcriptSha256": "3ab7ae119501a105d232fe7b272040ef75148ee367fb05e1952b4fff09d8007e"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0042"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0043",
+        "endUid": "u0111"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0112",
+        "endUid": "u1065"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1066",
+        "endUid": "u1951"
+      },
+      "category": "combat",
+      "note": "Includes the initiating grab, all initiative/map setup, and immediate post-kill spore saves. Initiative is not restarted during the technical interruptions."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1952",
+        "endUid": "u2433"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2434",
+        "endUid": "u2452"
+      },
+      "category": "table_talk"
+    }
+  ]
+}
