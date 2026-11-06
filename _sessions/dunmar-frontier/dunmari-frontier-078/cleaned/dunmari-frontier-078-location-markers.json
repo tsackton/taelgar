@@ -1,0 +1,841 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-078",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-078/cleaned/dunmari-frontier-078-session.yaml",
+    "sessionYamlSha256": "9766c00b3900efca3b8b1b6185c65ba55371a817e1f756a87c10cd2e15099e42",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-078/cleaned/dunmari-frontier-078-transcript.md",
+    "transcriptSha256": "aede2d2f44da3f7899ee624a9792939069513ff55785aaa8f329858056d01b71"
+  },
+  "places": {
+    "p01": {
+      "label": "Uzgukhar",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0007",
+          "quote": "DM: Okay. So, the day passes. You wake in the morning of another hot day in the desert, come from the skyship down to the bustling city of Uzgukhar.\n\nDM: The big open cattle market and statue of Uzgash, and the Freedom Plaza sitting outside the two-story hanging gardens that stood above the domed underground structure of the palace itself."
+        }
+      ],
+      "kind": "city",
+      "vaultPath": "Gazetteer/Upper Istaros/Xurkhaz/Uzgukhar.md"
+    },
+    "p02": {
+      "label": "Palace",
+      "evidence": [
+        {
+          "startUid": "u0005",
+          "endUid": "u0007",
+          "quote": "DM: The big open cattle market and statue of Uzgash, and the Freedom Plaza sitting outside the two-story hanging gardens that stood above the domed underground structure of the palace itself."
+        }
+      ],
+      "kind": "palace",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0001",
+              "endUid": "u0007",
+              "quote": "DM: Okay. So, the day passes. You wake in the morning of another hot day in the desert, come from the skyship down to the bustling city of Uzgukhar.\n\nDM: The big open cattle market and statue of Uzgash, and the Freedom Plaza sitting outside the two-story hanging gardens that stood above the domed underground structure of the palace itself."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Skyship",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0004",
+          "quote": "DM: Okay. So, the day passes. You wake in the morning of another hot day in the desert, come from the skyship down to the bustling city of Uzgukhar."
+        }
+      ],
+      "kind": "skyship",
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "note": "The party’s restored stone skyship is Vindristjarna, identified by Things/Ships/Vindristjarna.md and its Uzgukhar whereabouts. The source uses skyship/airship; the later furnished layout is not imported."
+    },
+    "p04": {
+      "label": "Adventurers’ riverboat",
+      "evidence": [
+        {
+          "startUid": "u0045",
+          "endUid": "u0068",
+          "quote": "DM: You see Hektor sitting at watch on the front of a boat. A small boat traveling downriver.\n\nDM: The eight adventurers from Chardon that you expect to see are all there. Vola is keeping watch in the rear. Kadmos and Casian also seem to be in your, you know, or continue discussing in in whispers quiet voices that Hektor cannot hear, and you cannot hear, with the sound of the river rushing over over.\n\nDM: There are also about 2 dozen specters—spectral undead—floating in the air, following the ship.\n\nKenzo: Presumably at Kadmos's command.\n\nDM: It's, it's sailing down river. It's being rowed down river. Where there's a small sail, but there's not much wind.\n\nDM: The river is—let's see, where's—let's switch the map. So so the river is this river.\n\nDM: So this is the fort, this red dot here is the fort, and you don't know where they are along this river, but they seem to be sailing somewhere down here.\n\nKenzo: Where are we again?\n\nDM: You're here. You're at the at the confluence of these 2 rivers.\n\nDM: I mean, they're not within 6 miles. You haven't—you haven't— You didn't travel any distance along this river. You flew overland through the night, so you have no idea what the terrain looks like.\n\nDM: It's almost impossible to know where they are, except that they are somewhere south of this fort and somewhere west of—at least 6 miles west of of you here. Can Wellby send some animal scouts?"
+        }
+      ],
+      "kind": "boat",
+      "mobile": true,
+      "note": "Seen through scrying. The precise river position remains unknown; no party visit is established."
+    },
+    "p05": {
+      "label": "Rocky riverside camp",
+      "evidence": [
+        {
+          "startUid": "u0412",
+          "endUid": "u0427",
+          "quote": "DM: I was really proud of the 15. Yeah, the 15 was good. So around 5 in the afternoon, as the sun is sinking low, another desert hawk summoned by Wellby flies out, and you can—the hawk sees about 20 miles up—15 to 20 miles upriver about the edge of the distance in which the hawk can reach. Well, I guess. Well, because you're using Beast Sense, right? About the distance, the edge of the distance you can reach in an hour.\n\nDM: No idea if hawks can actually fly 20 miles an hour, but they probably can. Who knows.\n\nKenzo: This hawk can.\n\nDM: You see the boat there. There's an area where the river passes through a sort of rocky—not exactly a ravine, but but just kind of a rocky area where there's no farms or irrigation within half a mile or something. And the boat is pulled up on the shore, and in a sort of hollow in the rock you can see this—this group made camp.\n\nDM: And they seem to be resting like they're under cloaks. There's, there's some tents up giving them shade. Most of them are asleep."
+        }
+      ],
+      "kind": "camp",
+      "note": "Seen through Wellby’s hawk, about 15–20 miles upriver. This is the attackers’ camp, not a party stop."
+    },
+    "p06": {
+      "label": "Delwath and Riswynn’s hiding room",
+      "evidence": [
+        {
+          "startUid": "u0179",
+          "endUid": "u0183",
+          "quote": "Delwath: Wait, Riswynn, you're supposed to be in the room with Delwath, I think.\n\nDM: Yeah, Riswynn’s with Delwath. And did any orks show up? No orcs have shown up. But Murook is here. Is she with Kenzo.\n\nKenzo: We're having to.\n\nDM: You're right right under the beds. Yeah, I mean, at the moment we're hiding. Yeah, you're hiding."
+        }
+      ],
+      "kind": "bedroom",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0149",
+              "endUid": "u0154",
+              "quote": "DM: So you ferry yourselves down invisibly into the palace, hide out in the bedrooms, and prepared to wait, and wait. A few hours pass."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Kenzo and Murook’s hiding room",
+      "evidence": [
+        {
+          "startUid": "u0180",
+          "endUid": "u0185",
+          "quote": "DM: Yeah, Riswynn’s with Delwath. And did any orks show up? No orcs have shown up. But Murook is here. Is she with Kenzo.\n\nKenzo: We're having to.\n\nDM: You're right right under the beds. Yeah, I mean, at the moment we're hiding. Yeah, you're hiding.\n\nDM: I I mean, Murook is so is sort of acting as if this is her bedroom, and is just kind of like hanging around at the desk like preparing Kenzo's—Kenzo’s hiding under the bed, you know."
+        }
+      ],
+      "kind": "bedroom",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0149",
+              "endUid": "u0154",
+              "quote": "DM: So you ferry yourselves down invisibly into the palace, hide out in the bedrooms, and prepared to wait, and wait. A few hours pass."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Chief’s bedroom",
+      "evidence": [
+        {
+          "startUid": "u1388",
+          "endUid": "u1399",
+          "quote": "DM: Kadmos—\n\nDelwath: But why do they? Why are they in here? Don't they know? Don't they think that the fucking—the fucking thing is in the other room like, why would they know that it's in here?\n\nDM: This is where you are attacking?\n\nKenzo: Okay? Also, they don't know that Lubash is in that room.\n\nSeeker: Not I mean, it's it's his bedroom. They know the layout.\n\nDM: I mean, now that they teleported in, it's his bedroom, right? It's sort of, but he's not in it. Yeah, they don't know that they don't know that he's not.\n\nDM: Yeah, I mean. But Seeker is not very big and is not like.\n\nDelwath: But that door should be. That door is closed.\n\nDM: But if the doors closed, Seeker can't dimension oh, I guess he could open the door. It—all the door is close, right? Right.\n\nDelwath: This door should be closed too all the doors are closed. Yes.\n\nSeeker: Okay.\n\nDM: All the doors are closed. Okay."
+        }
+      ],
+      "kind": "bedroom",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0149",
+              "endUid": "u0154",
+              "quote": "DM: So you ferry yourselves down invisibly into the palace, hide out in the bedrooms, and prepared to wait, and wait. A few hours pass."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Chief’s back office",
+      "evidence": [
+        {
+          "startUid": "u0721",
+          "endUid": "u0723",
+          "quote": "DM: Chief kind of wakes up and goes to hide in the bathroom. Or sorry this back this office so that he is near Seeker and Riswynn. What are you doing? Oh, wait! I move past one person, sorry they they need to fail the save, and then we see them in—"
+        }
+      ],
+      "kind": "office",
+      "note": "The DM immediately corrects “bathroom” to this office. It remains distinct from the mirror bathroom.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0721",
+              "endUid": "u0723",
+              "quote": "DM: Chief kind of wakes up and goes to hide in the bathroom. Or sorry this back this office so that he is near Seeker and Riswynn. What are you doing? Oh, wait! I move past one person, sorry they they need to fail the save, and then we see them in—"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Mirror bathroom",
+      "evidence": [
+        {
+          "startUid": "u0481",
+          "endUid": "u0485",
+          "quote": "Seeker: Set up the fake cloak, and well, do I animate the ladder now? Probably. How long does that last? 1 h?\n\nDelwath: I mean not only that, I think, takes a bonus action to do. No, I would, because we'll get. We'll have a brief warning when the alarm triggers.\n\nSeeker: But we'll do the cloak so, and I run into the bathroom and activate the mirror."
+        }
+      ],
+      "kind": "bathroom",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0473",
+              "endUid": "u0489",
+              "quote": "DM: Night falls, and by midnight Kenzo senses movement.\n\nKenzo: Within.\n\nDM: 5 miles of the city, both undead and Kadmos and his companions.\n\nSeeker: Set up the fake cloak, and well, do I animate the ladder now? Probably. How long does that last? 1 h?\n\nDelwath: I mean not only that, I think, takes a bonus action to do. No, I would, because we'll get. We'll have a brief warning when the alarm triggers.\n\nSeeker: But we'll do the cloak so, and I run into the bathroom and activate the mirror.\n\nDM: Right? So is everybody positioned where they want to be?\n\nSeeker: Oh, yes.\n\nDM: Close it off."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Corridor outside the bedrooms",
+      "evidence": [
+        {
+          "startUid": "u0576",
+          "endUid": "u0580",
+          "quote": "DM: You see in an instant here, Vola, about two-thirds of the way down the hall towards the chief's room. Quickly turning and looking back in your direction as the door creaks open and you see—\n\nDM: A woman you don't recognize. Both of them are invisible, but you can see it because of See Invisibility. A woman you don't recognize standing basically just in—just like right about here, just in the doorway, looking down the corridor. Vola is about there."
+        }
+      ],
+      "kind": "corridor",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0572",
+              "endUid": "u0580",
+              "quote": "DM: Okay and the second—okay. So the second, the alarm is tripped by the second person. Delwath, Delwath pulls the door open, and you see—\n\nDM: You see in an instant here, Vola, about two-thirds of the way down the hall towards the chief's room. Quickly turning and looking back in your direction as the door creaks open and you see—\n\nDM: A woman you don't recognize. Both of them are invisible, but you can see it because of See Invisibility. A woman you don't recognize standing basically just in—just like right about here, just in the doorway, looking down the corridor. Vola is about there."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Room with the ring of fire",
+      "evidence": [
+        {
+          "startUid": "u1967",
+          "endUid": "u1968",
+          "quote": "DM: Okay? So it does 25 points of damage. Okay, fires erupting around. You cannot see either of them now as they're encased in this circle of flames."
+        }
+      ],
+      "kind": "room",
+      "note": "A played combat space also filled with Kadmos’s poison cloud; map gestures do not establish a formal room name.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2213",
+              "endUid": "u2216",
+              "quote": "DM: Kadmos appears. I think Kenzo could see. And he is going to just hold his hands out on this billowing cloud of poisonous gas begins to fill this room.\n\nRiswynn: What room? Nobody can see where you're .\n\nDM: This room here. Kadmos is up here."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Bathroom shelter for Lubash",
+      "evidence": [
+        {
+          "startUid": "u2365",
+          "endUid": "u2371",
+          "quote": "DM: That's going to be 21 points of damage. She is going to feed a healing potion to the King. This—be restored.\n\nDelwath: Go ahead to the bathroom.\n\nSeeker: Yeah, .\n\nDM: And she will drag him to the bathroom. Kenzo, you're up .\n\nKenzo: Fucking finally, all right. What's the best square? Should I be like? Right? Let's see, should I be like one that why, it's not."
+        }
+      ],
+      "kind": "bathroom",
+      "note": "The rescue ends in a bathroom; the spoken account does not establish that it is the mirror bathroom.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2365",
+              "endUid": "u2371",
+              "quote": "DM: That's going to be 21 points of damage. She is going to feed a healing potion to the King. This—be restored.\n\nDelwath: Go ahead to the bathroom.\n\nSeeker: Yeah, .\n\nDM: And she will drag him to the bathroom. Kenzo, you're up .\n\nKenzo: Fucking finally, all right. What's the best square? Should I be like? Right? Let's see, should I be like one that why, it's not."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0023"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party descends from the skyship into Uzgukhar and spends the day at Lubash’s palace, staging the disagreement.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0023",
+          "quote": "DM: Okay. So, the day passes. You wake in the morning of another hot day in the desert, come from the skyship down to the bustling city of Uzgukhar.\n\nDM: The big open cattle market and statue of Uzgash, and the Freedom Plaza sitting outside the two-story hanging gardens that stood above the domed underground structure of the palace itself.\n\nDM: And having planned the previous night to [garbled] with telepathically with Chief Lubash to fake your way into a fight, you begin the day, concentrating on your deception.\n\nDM: There's a few moments as the day progresses of, of, you know— Kenzo gets into the role, and there's a few moments of of genuine seeming anger and frustration from both Kenzo and Lubash.\n\nDM: It's hard to tell when somebody is watching, however, and it's hard to sustain the acting for the entire day, especially for those of you who, well, naturally talented or not necessarily. Well, we're we're not put. We're not putting the actors, the people that don't have the good charisma in act roles where they need to talk I don't know but Delwath is naturally talented, but not proficient in deception. So he is one of the I mean, that wasn't too honest for this for this game right? Exactly.\n\nDM: But but it's I mean. It's hard to say right? You—\n\nDM: Riswynn spends much of the day pacing around the the palace, sprinkling some ground up ruby dust from your stash of gems and gold from the dragon on the floor, ritually forbidding teleportation from allowing anybody to enter the palace, and also doing tons of damage to any undead who happened to arrive. At lunch, you have a—you. You present this feast, and and Lubash takes it in stride and and acts, you know, put out and and angry that you're playing this off as you attempting to buy the cloak from him."
+        }
+      ],
+      "from": "p03",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "descend",
+      "route": [
+        {
+          "reading": "The opening describes the cattle market, Uzgash statue and Freedom Plaza outside the hanging gardens; it does not separately narrate visits to each."
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0038",
+        "endUid": "u0043"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party leaves the palace in apparent disgrace and returns to the airship.",
+      "evidence": [
+        {
+          "startUid": "u0038",
+          "endUid": "u0043",
+          "quote": "DM: Lubash insists you leave on cue, and as that sun progresses from noon to afternoon, you walk out of the palace in disgrace to somewhat confused looks from some of the guards.\n\nDM: On the airship, you take the time to scry and to extend your—Kenzo, extend your senses, and there are no humans, and no sign of Kenzo within or no sign of Kadmos or Casian or Vola within 6 miles. Wow!"
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived"
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0045",
+        "endUid": "u0068"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scrying Hektor shows the eight adventurers on a boat moving downriver with spectral followers; position is somewhere south of the fort and west of Uzgukhar.",
+      "evidence": [
+        {
+          "startUid": "u0045",
+          "endUid": "u0068",
+          "quote": "DM: You see Hektor sitting at watch on the front of a boat. A small boat traveling downriver.\n\nDM: The eight adventurers from Chardon that you expect to see are all there. Vola is keeping watch in the rear. Kadmos and Casian also seem to be in your, you know, or continue discussing in in whispers quiet voices that Hektor cannot hear, and you cannot hear, with the sound of the river rushing over over.\n\nDM: There are also about 2 dozen specters—spectral undead—floating in the air, following the ship.\n\nKenzo: Presumably at Kadmos's command.\n\nDM: It's, it's sailing down river. It's being rowed down river. Where there's a small sail, but there's not much wind.\n\nDM: The river is—let's see, where's—let's switch the map. So so the river is this river.\n\nDM: So this is the fort, this red dot here is the fort, and you don't know where they are along this river, but they seem to be sailing somewhere down here.\n\nKenzo: Where are we again?\n\nDM: You're here. You're at the at the confluence of these 2 rivers.\n\nDM: I mean, they're not within 6 miles. You haven't—you haven't— You didn't travel any distance along this river. You flew overland through the night, so you have no idea what the terrain looks like.\n\nDM: It's almost impossible to know where they are, except that they are somewhere south of this fort and somewhere west of—at least 6 miles west of of you here. Can Wellby send some animal scouts?"
+        }
+      ],
+      "place": "p04",
+      "mode": "remote",
+      "observerPlace": "p03",
+      "observedActors": [
+        "Hektor",
+        "Vola",
+        "Kadmos",
+        "Casian"
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0085",
+        "endUid": "u0092"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "The hawk scouts about twenty miles west along the river and sees no boat matching Delwath’s description.",
+      "evidence": [
+        {
+          "startUid": "u0085",
+          "endUid": "u0092",
+          "quote": "DM: The, the next 4, 4 h or so till—or 5 h till full dark passes. Wellby manages to attract a passing desert hawk. You're able to scout out about 20 miles west, and you see no sign of of a ship on the river.\n\nDM: You see, I mean, there's farms. There's people there's like Orcs you know, bringing their cattle in from the from the flooded fields along the river banks as night sets, but, but no sign of of any kind of ship or any boat.\n\nDM: There's, I mean, there's a few small like fishing boats and and trading boats. But all you know, manned by Orcs, nothing that looks like what Delwath described."
+        }
+      ],
+      "place": "p04",
+      "mode": "remote",
+      "observerPlace": "p03",
+      "note": "A negative search for the target boat, not a sighting or arrival."
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0149",
+        "endUid": "u0154"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The defenders return invisibly to the palace and hide in bedrooms.",
+      "evidence": [
+        {
+          "startUid": "u0149",
+          "endUid": "u0154",
+          "quote": "DM: So you ferry yourselves down invisibly into the palace, hide out in the bedrooms, and prepared to wait, and wait. A few hours pass."
+        }
+      ],
+      "from": "p03",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "invisible ferrying"
+    },
+    {
+      "id": "l06",
+      "type": "presence",
+      "source": {
+        "startUid": "u0179",
+        "endUid": "u0185"
+      },
+      "actors": [
+        "Delwath",
+        "Riswynn"
+      ],
+      "reading": "Delwath and Riswynn share a concealed bedroom position.",
+      "evidence": [
+        {
+          "startUid": "u0179",
+          "endUid": "u0185",
+          "quote": "Delwath: Wait, Riswynn, you're supposed to be in the room with Delwath, I think.\n\nDM: Yeah, Riswynn’s with Delwath. And did any orks show up? No orcs have shown up. But Murook is here. Is she with Kenzo.\n\nKenzo: We're having to.\n\nDM: You're right right under the beds. Yeah, I mean, at the moment we're hiding. Yeah, you're hiding.\n\nDM: I I mean, Murook is so is sort of acting as if this is her bedroom, and is just kind of like hanging around at the desk like preparing Kenzo's—Kenzo’s hiding under the bed, you know."
+        }
+      ],
+      "place": "p06"
+    },
+    {
+      "id": "l07",
+      "type": "presence",
+      "source": {
+        "startUid": "u0180",
+        "endUid": "u0185"
+      },
+      "actors": [
+        "Kenzo",
+        "Murook"
+      ],
+      "reading": "Kenzo hides under a bed while Murook acts as the room’s occupant at her desk.",
+      "evidence": [
+        {
+          "startUid": "u0180",
+          "endUid": "u0185",
+          "quote": "DM: Yeah, Riswynn’s with Delwath. And did any orks show up? No orcs have shown up. But Murook is here. Is she with Kenzo.\n\nKenzo: We're having to.\n\nDM: You're right right under the beds. Yeah, I mean, at the moment we're hiding. Yeah, you're hiding.\n\nDM: I I mean, Murook is so is sort of acting as if this is her bedroom, and is just kind of like hanging around at the desk like preparing Kenzo's—Kenzo’s hiding under the bed, you know."
+        }
+      ],
+      "place": "p07"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u0188",
+        "endUid": "u0199"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker periodically comes out into the hallway to renew the telepathic link; a return destination is not separately stated.",
+      "evidence": [
+        {
+          "startUid": "u0188",
+          "endUid": "u0199",
+          "quote": "DM: Right. Everybody is just kind of waiting. Every now and then Seeker will will do a ritual and let's see, he's not going to. So Seeker, and he's going to need to come out into the hallway to recast his telepathy because he can't get from—\n\nSeeker: Yeah. This room to—\n\nDM: You can't get there. It’s not more than 30 feet.\n\nKenzo: So we need to be a little lucky that he doesn't get seen.\n\nDM: It takes 10 min you have to be you'd have to be quite unlucky for somebody to be scrying you the exact—\n\nDelwath: 10 min that Seeker is recasting the ritual and also specifically scrying Seeker. They're usually scrying. We don't know who they usually scry. Who has the weakest save amongst us. I mean scry. You get a save against scry, right? It's a Wisdom save.\n\nDM: We all have advantage and Wisdom saves, too, like they’re trying to scry. It has a much lower chance than normal of succeeding. Normally, I just roll your saves in secret, because it's easier to not metagame."
+        }
+      ],
+      "from": null,
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u0382",
+        "endUid": "u0392"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party leaves hiding and returns to the skyship for another feast; using the mirror is accepted as the transport solution.",
+      "evidence": [
+        {
+          "startUid": "u0382",
+          "endUid": "u0392",
+          "quote": "DM: So by about 2 in the afternoon you invisibly decamp from your hiding places and return to the ship. I guess it's a little unclear how you're going to get to the ship.\n\nKenzo: Why.\n\nSeeker: Well.\n\nDelwath: Can't! I can't cast Fly and be invisible at the same time.\n\nKenzo: Can I? Can I carry Wellby up?\n\nDelwath: It's—just all pile into the mirror.\n\nDM: There you go.\n\nDelwath: Yeah.\n\nDM: Return to your ship."
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "mirror-assisted transport"
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u0403",
+        "endUid": "u0409"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the skyship the party sees two weary orc warriors enter the palace; their later names are Drogmar and Ghorgra.",
+      "evidence": [
+        {
+          "startUid": "u0403",
+          "endUid": "u0409",
+          "quote": "DM: I guess Lubash actually doesn't really have an easy way of reaching, of communicating with you when you're—now that you're back on the ship, and he's out of the telepathy loop, anyway. You see, you can see, though, from the ship a pair of what looked like orcish warriors, one, a woman who is wearing sort of light armor, and there seems to be like flame, almost like flame, coming off of her hair and sort of wrapping around her. And the other a man in in heavy armor, both looking weary, slightly wounded, and tired from a long journey, but they enter the palace and vanish. But just from your view from up here, these seem to be fairly good warriors."
+        },
+        {
+          "startUid": "u0463",
+          "endUid": "u0465",
+          "quote": "DM: So, they are Drogmar and Ghorgra. So we can put one. And now we have enough to fully block each room."
+        }
+      ],
+      "place": "p02",
+      "mode": "local",
+      "observerPlace": "p03",
+      "observedActors": [
+        "Drogmar",
+        "Ghorgra"
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "observation",
+      "source": {
+        "startUid": "u0412",
+        "endUid": "u0438"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Through the hawk, Wellby sees the attackers camped in a rocky hollow beside their beached boat about fifteen to twenty miles upriver.",
+      "evidence": [
+        {
+          "startUid": "u0412",
+          "endUid": "u0438",
+          "quote": "DM: I was really proud of the 15. Yeah, the 15 was good. So around 5 in the afternoon, as the sun is sinking low, another desert hawk summoned by Wellby flies out, and you can—the hawk sees about 20 miles up—15 to 20 miles upriver about the edge of the distance in which the hawk can reach. Well, I guess. Well, because you're using Beast Sense, right? About the distance, the edge of the distance you can reach in an hour.\n\nDM: No idea if hawks can actually fly 20 miles an hour, but they probably can. Who knows.\n\nKenzo: This hawk can.\n\nDM: You see the boat there. There's an area where the river passes through a sort of rocky—not exactly a ravine, but but just kind of a rocky area where there's no farms or irrigation within half a mile or something. And the boat is pulled up on the shore, and in a sort of hollow in the rock you can see this—this group made camp.\n\nDM: And they seem to be resting like they're under cloaks. There's, there's some tents up giving them shade. Most of them are asleep.\n\nSeeker: Let's take the ship down.\n\nWellby: What time is it?\n\nDM: You asked about 4 in the afternoon.\n\nSeeker: Maybe they're trying to draw us out.\n\nWellby: Well, but I mean to me if they're asleep at 4 in the afternoon to me that suggests long rest before doing something tonight.\n\nSeeker: Totally. Yeah.\n\nWellby: Or they're just going to wait several more days for the rest of the defenses to crumble, and—\n\nSeeker: Right. And they—they still the specters with them? What are the specters doing? Do they sleep? The—\n\nDM: They don't sleep. They're just kind of milling around."
+        }
+      ],
+      "place": "p05",
+      "mode": "remote",
+      "observerPlace": "p03",
+      "observedActors": [
+        "Kadmos’s companions"
+      ]
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u0450",
+        "endUid": "u0472"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "At sunset the defenders return to their hiding positions beneath the palace beds and meet the wounded reinforcements.",
+      "evidence": [
+        {
+          "startUid": "u0450",
+          "endUid": "u0472",
+          "quote": "DM: So, as the sun sets and they're sleeping, you return to your position underneath the beds and manage to re—reconnect with, re—we get Lubash into the telepathic link, who—who tells you: There's 2 2 2 warriors who have come to join this defense, this defense of the cloak. They were part of a group of a half dozen that left before the battle last night, and were set upon by about 40—but 40 ghostly, undead spectres and related creatures on the river. Fled overland. 4 of their companions were killed by 40 specters, but him and his and his companion, the woman, managed to get away, although they still have not fully healed from the battle, and they seem to be the specters’ attacks weakened them in a way that normal rest did not heal.\n\nDM: They—but they arrived this afternoon, having traveled something like almost 40, 50 miles overland through the night and into the day, and have now taken a short rest and and had a meal and are willing to help in any way.\n\nSeeker: Let's try to heal them a little bit. I think—\n\nDM: So, they are Drogmar and Ghorgra. So we can put one. And now we have enough to fully block each room.\n\nDelwath: 3 by 3.\n\nSeeker: I'll do a a healing word on whichever one of them seems worse off.\n\nDM: The spell seems to have no effect.\n\nSeeker: Oh.\n\nDM: This is not normal damage. This is a reduction of their hit-point maximum from the specter’s life-drain attack.\n\nSeeker: Brutal. Life drain."
+        }
+      ],
+      "from": "p03",
+      "to": "p02",
+      "completion": "arrived"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u0481",
+        "endUid": "u0485"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Seeker goes to the bathroom to place the fake cloak and activate the mirror trap.",
+      "evidence": [
+        {
+          "startUid": "u0481",
+          "endUid": "u0485",
+          "quote": "Seeker: Set up the fake cloak, and well, do I animate the ladder now? Probably. How long does that last? 1 h?\n\nDelwath: I mean not only that, I think, takes a bonus action to do. No, I would, because we'll get. We'll have a brief warning when the alarm triggers.\n\nSeeker: But we'll do the cloak so, and I run into the bathroom and activate the mirror."
+        }
+      ],
+      "from": null,
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "run"
+    },
+    {
+      "id": "l14",
+      "type": "presence",
+      "source": {
+        "startUid": "u0721",
+        "endUid": "u0723"
+      },
+      "actors": [
+        "Lubash"
+      ],
+      "reading": "Lubash hides in the back office near Seeker; the DM corrects the initial bathroom label.",
+      "evidence": [
+        {
+          "startUid": "u0721",
+          "endUid": "u0723",
+          "quote": "DM: Chief kind of wakes up and goes to hide in the bathroom. Or sorry this back this office so that he is near Seeker and Riswynn. What are you doing? Oh, wait! I move past one person, sorry they they need to fail the save, and then we see them in—"
+        }
+      ],
+      "place": "p09"
+    },
+    {
+      "id": "l15",
+      "type": "presence",
+      "source": {
+        "startUid": "u1388",
+        "endUid": "u1399"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "The room where Kadmos and Casian confront Seeker is identified as Lubash’s bedroom; Lubash is concealed separately.",
+      "evidence": [
+        {
+          "startUid": "u1304",
+          "endUid": "u1314",
+          "quote": "Seeker: Oh, wait .\n\nDM: Like, Kadmos and Casian appear immediately next to Seeker.\n\nSeeker: Oh, God!\n\nDM: Stepping out of a dimension door.\n\nSeeker: No shit.\n\nDelwath: Can I counter—Seeker sees this, but nobody else. Oh, wait! Wait! Hold on! Hold on! Hold on! Hold on! What about find for slow down? So that was where was Casian when he cast that he wasn't? He was not within 30 feet of you. Well, hold on. Here's a question. Here's a question. Yeah, can—\n\nDelwath: I don't think ghostly gaze. It lets me see through things within 30 feet, but I can still see with my normal vision. Once I see through it right?\n\nDM: He was 65 feet away from me, so it was outside of Counterspell range. Anyway.\n\nDelwath: I thought, Forbiddance prevented that. No, only into not around. Yeah.\n\nSeeker: And a.\n\nKenzo: This is terrible. Now it's gonna End Casian's turn. Just me. I'll yeah. That's just mean Seeker needs to get out of there. See? If you you have to. You have to get him out of there."
+        },
+        {
+          "startUid": "u1388",
+          "endUid": "u1399",
+          "quote": "DM: Kadmos—\n\nDelwath: But why do they? Why are they in here? Don't they know? Don't they think that the fucking—the fucking thing is in the other room like, why would they know that it's in here?\n\nDM: This is where you are attacking?\n\nKenzo: Okay? Also, they don't know that Lubash is in that room.\n\nSeeker: Not I mean, it's it's his bedroom. They know the layout.\n\nDM: I mean, now that they teleported in, it's his bedroom, right? It's sort of, but he's not in it. Yeah, they don't know that they don't know that he's not.\n\nDM: Yeah, I mean. But Seeker is not very big and is not like.\n\nDelwath: But that door should be. That door is closed.\n\nDM: But if the doors closed, Seeker can't dimension oh, I guess he could open the door. It—all the door is close, right? Right.\n\nDelwath: This door should be closed too all the doors are closed. Yes.\n\nSeeker: Okay.\n\nDM: All the doors are closed. Okay."
+        }
+      ],
+      "place": "p08"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u1497",
+        "endUid": "u1528"
+      },
+      "actors": [
+        "Seeker",
+        "Lubash"
+      ],
+      "reading": "Seeker takes Lubash from the concealed office to Delwath and Riswynn’s room by Dimension Door, with the accepted corner position preserving concealment.",
+      "evidence": [
+        {
+          "startUid": "u1497",
+          "endUid": "u1528",
+          "quote": "Seeker: And so I could do the dimension door exit. But that will kind of like reveal what's going on.\n\nKenzo: No, you can run in and close the door, and then dimension door Lubash out into Delwath’s room.\n\nSeeker: That is probably the wisest thing. Yeah. All right. That's what I'm going to do. I mean it.\n\nDelwath: I think that's fine, right? Like.\n\nKenzo: So you are. You wait. Can you do another dimension door next turn there, Eric, do you have another one? What are you doing?\n\nSeeker: We have another spell slot to do it in another dimension door.\n\nSeeker: After this one I've used up 2 Fourth Level spell slots. This would. This would be the third of 3.\n\nDelwath: But you still have your fifth.\n\nSeeker: I do have one Fifth Level slot, but Dimension Door doesn't appear in Fifth level. for some reason. It's because it does nothing useful at fifth level. I can do this safely. Yeah.\n\nWellby: What? Why are you? Dimension? It feels premature.\n\nKenzo: No, no, no, just.\n\nKenzo: Into into into the Delwath-Riswynn room. Not not out of the—just take Lubash and move them. Move them into the other room.\n\nWellby: Right? So we're going to end up cool, cool.\n\nSeeker: Oh, I can't move myself.\n\nKenzo: Oh, here's this opening and closing a door so they don't even know what the fuck just happened. You just like ran into the door right? They didn't even know the Lubash is there?\n\nSeeker: I'm like constrained on where I can put myself. This is weird. I'm trying to.\n\nKenzo: Oh, yeah, it doesn't let you move through the walls or the door right? You have to move through the door.\n\nDM: Even though that's exactly that's funny. Okay? I mean, the conversation is right.\n\nDelwath: It doesn't realize you're teleporting.\n\nSeeker: Okay? So I'm going to end up over here. And then you open the door. I mean.\n\nKenzo: They're going to see Lubash when you open the door. No, no way to avoid that. Why, of course, of course they can avoid that. Lubash is in the room in in front of the door. Lubash is a giant orc in a like 10 foot by 10 foot room with a tiny dwarf standing right next to him. And no, but he's if Lubash is standing right here, there's no way to see him, right? Lubash is on the corner? Totally. Tim, how's it going to see you around the corner? Okay, that's not where his token was. But that's okay. This is okay. If he's there, they you just see Seeker, run in, shut the door. And I mean, we can. We still have telepathy? We can tell him. Yeah, I don't mind in the corner. Yeah.\n\nSeeker: Yeah, right?"
+        }
+      ],
+      "from": "p09",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "Dimension Door"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u1741",
+        "endUid": "u1756"
+      },
+      "actors": [
+        "Lubash"
+      ],
+      "reading": "Hektor grapples Lubash and drags him from the room into Sickening Radiance in the corridor.",
+      "evidence": [
+        {
+          "startUid": "u1741",
+          "endUid": "u1756",
+          "quote": "DM: Actually, he is going to—let's see how far is the move? 1, 2. He is going to grapple Lubash.\n\nSeeker: Oh, man, that's not good! But hold on! Why, why wasn't Riswynn in that spot? Shouldn't we? Shouldn't we have had them, like all surrounded like we were kind of just fucking around with the tokens in here, like what would have been space to like.\n\nKenzo: All right, whatever.\n\nRiswynn: It's a good point.\n\nDM: Right? And then he's gonna drag. Wait! Come on, come on, come on! Come on!\n\nKenzo: Why is.\n\nSeeker: So I can. It's a and it's only a melee attack.\n\nDM: It's a melee attack. Yeah. So Lubash takes 28 points of damage and is nearly dead.\n\nDelwath: He didn't make a save.\n\nDM: I—we have to now make a save.\n\nUnknown: The end?\n\nSeeker: Yeah. Yeah. He didn't make a save.\n\nDM: Yeah. And—"
+        },
+        {
+          "startUid": "u1790",
+          "endUid": "u1790",
+          "quote": "Seeker: Well, but dragging him out in the hallway—or a fuck like he's fucked like they're like now they can get him out of there. Yeah, we can stop him."
+        }
+      ],
+      "from": "p06",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "dragged by Hektor"
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u2021",
+        "endUid": "u2050"
+      },
+      "actors": [
+        "Ghorgra",
+        "Lubash"
+      ],
+      "reading": "The remaining guard pulls Lubash out of the radiance and stands over him; the precise safe position is unnamed.",
+      "evidence": [
+        {
+          "startUid": "u2021",
+          "endUid": "u2050",
+          "quote": "DM: You should go save her, boss. Yeah, she's got to go. It's gonna run forward and use her action to to grab. Hektor is unable to move, but he can still attack, and he's got a very threatening flail.\n\nKenzo: Shouldn't she want to? She'll try to save the the cloak like run out into the fucking main she is gonna run into the radius, the Sickening Radiance.\n\nDM: Standing over Lubash's body.\n\nDelwath: So first of all, she'll make a Con save. Pull him into the why can't she pull him into the? Because he'll take an attack of opportunity and kill him. It doesn't seem sensible, but okay.\n\nDM: She will fail her, Con save. You don't get an attack of opportunity on people moving involuntarily. Oh, I guess that's true. Actually, yes, okay, so she will stand here, and she will just pull Lubash out of this radius. Put them there and then look at you, Delwath and kind of like, should I block the doorway like, what's going on here?\n\nDelwath: He can't move.\n\nDM: My character can't move. Yeah, that's right. So I want to. Actually.\n\nDM: She's also gonna look around. It's like, is anybody gonna heal them?\n\nDelwath: I don't have any.\n\nSeeker: Like I can do it.\n\nDM: Okay, so she will. Then step here. She doesn't want to block you off, though, so she's that's why she's looking at you.\n\nDelwath: No, that's okay. I can see I can. No, I kind of want to go after Hektor. Maybe she should—she should stand. Yeah. He just.\n\nDM: She is just going to run forward and, and, and swing.\n\nDelwath: Yeah, she attack Hektor. Yeah, swing with her.\n\nDM: With her greataxe at Hektor! And then just just eat the opportunity attack as she retreats back to stand on top of the unconscious body because attacks are a disadvantage. So he is going to swing with disadvantage. That is still a 19.\n\nDM: And he takes a big cut out of her. But she is now standing over Lubash. Kenzo, you’re up."
+        }
+      ],
+      "from": "p11",
+      "to": null,
+      "completion": "uncertain",
+      "note": "The accepted rescue is complete, but its endpoint is not identified as a separate room. Ghorgra is inferred from the guard’s turn and weapon; the transcript shifts pronouns."
+    },
+    {
+      "id": "l19",
+      "type": "movement",
+      "source": {
+        "startUid": "u2051",
+        "endUid": "u2092"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo flies through the radiance into the room with the ring of fire and waits for an enemy to emerge.",
+      "evidence": [
+        {
+          "startUid": "u2051",
+          "endUid": "u2092",
+          "quote": "Kenzo: All right. How much move do I have, Tim? I have 50, like 50 speed walking—is that it is my movement. That's 10 squares.\n\nWellby: Use the ravens, whistle and double your move.\n\nDM: You can fly. Yep.\n\nKenzo: All right, I'll do that. Does—is the Sickening Radiance like—I, I would go through that because I'm just trying to get into the room. With that you'd have to go through that. It's a con, save.\n\nDelwath: I mean, that just makes sense right? Like, instead of fighting like, I gotta get in that room. Just keep them from getting out of here right?\n\nKenzo: All right. So I'm going to do that. I'm going to move one, to— So I get 20 moved if I I do the if I use the the raven’s whistle. The 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 on that. Okay? So I can, I can go like, right over here. It's a good spot.\n\nDM: Yeah.\n\nSeeker: Yeah.\n\nKenzo: All right, I'm going to do that. Have to make a Con save. That's fine. Come on, Con save, what did I get? 21 fuck. Yeah.\n\nSeeker: All right, nothing happens.\n\nKenzo: I rolled a crit. I roll the 20 alright, and now, can I? Can I attack fucking the the bitch on the wall?\n\nDM: Not through the Wall of Fire. I mean, you'd have to— You would take 5d8 fire damage if you attacked through the wall of fire.\n\nDelwath: Can I? Can’t you ready an action to attack her when she comes out of the wall?\n\nSeeker: Okay.\n\nKenzo: All right, cool. It's like when they look.\n\nDelwath: Can you get to this square?\n\nKenzo: I can get to any square. Yeah, I've I've got some in that square.\n\nDelwath: Yes, so stand in that square and ready an action to attack whoever emerges from the wall. She's got to come out either here or here, right, and if you're in that square you'll be able to hit her either one. So go to that square. And then when she comes out, just whack her.\n\nKenzo: What if she goes South?\n\nSeeker: Well, there's no exits that way, I mean I.\n\nKenzo: But he's—aren't there stairs going up like you mean if she heads this way? Yeah. I don't want to be like.\n\nDelwath: I guess you could stand right there. I don't. I want to be exactly next to her, so that no matter what she moves, I will get on that opportunity. Wow! She could. She could go like here and then here and then here depends on which way she's trying to go out. Yeah. But if I'm standing directly next to her because don't I get it? I can't see her. I mean, not if she doesn't. You can't see her right now, because she's obscured by the wall of fire. I I vote Kenzo just chooses a place. And yeah, yeah, yeah, yeah, yeah, you pick it's up to you. Right? Where does Kenzo end?\n\nDM: Takes a step forward.\n\nKenzo: Well, and I'm I'm still confused. Well, on all, on, all on— I'm still very confused. Wait, so she is, is she's I can't attack her right now, even though she, I can be standing right next to her, and but you'd have to punch through a wall of fire, which means you'd take 5d8 fire damage. Can I shoot an acid arrow?\n\nDM: You can't see her.\n\nKenzo: But I can. Just I mean, yeah, oh, so I don't know where she is. Actually, this is actually kind of inaccurate map, because I don't. Yeah, yeah, you don't exactly know where she is, you know, she's in that ring. Okay?\n\nDelwath: But also you can ready an action right? So your action can be— Whack whoever comes out of the wall. All right, there'll be whack. Whoever comes out of the wall.\n\nKenzo: It is the—how high is the wall? It goes to the ceiling. It's actually like, all right.\n\nDM: I presume it goes to the ceiling right?\n\nDelwath: It's just you might want to be standing somewhere else. I might have given you bad advice to where to stand. You might want to stand here, for example. That's where I was standing, and I thought I should stand. So stay there. Okay.\n\nDM: Okay."
+        }
+      ],
+      "from": "p07",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u2191",
+        "endUid": "u2209"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby checks the small room for hidden enemies, judges it empty and returns outside.",
+      "evidence": [
+        {
+          "startUid": "u2191",
+          "endUid": "u2209",
+          "quote": "Wellby: All right. I am going to make sure this room is clear. So I'm going to skirt around these guys. Come through the door. My head and—\n\nDM: Nobody is in there.\n\nKenzo: But.\n\nDelwath: Well, they could just be invisible.\n\nWellby: I'm going to do a quick, like, run through the room with my arms outstretched kind of thing. Perception check? Or.\n\nDM: Yeah, you can definitely do a perception check.\n\nWellby: Yeah, let's do that.\n\nSeeker: Throw a bag of sand.\n\nDM: You're, you're pretty confident that this room is empty.\n\nSeeker: Hmm! They're not going to.\n\nWellby: Oh, man, all right, the the fiend is almost dead. Right? That yeah, the fiend is badly wounded. Your perception check is the action. Yeah, okay.\n\nKenzo: Maybe kill the fiend so you can like, get past and—\n\nWellby: No checking the room was my action. That's that's a good. I'll come back out again. Okay."
+        }
+      ],
+      "from": null,
+      "to": null,
+      "completion": "uncertain",
+      "route": [
+        {
+          "reading": "Enters a room, searches, then comes back out; the spoken record does not reliably name this room."
+        }
+      ],
+      "note": "This round trip is established but its room identity is unresolved; it is not merged with a particular bathroom."
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u2269",
+        "endUid": "u2312"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Riswynn drops the ring of fire, crosses the poisoned room and recovers the cloak from the fallen Antonia.",
+      "evidence": [
+        {
+          "startUid": "u2269",
+          "endUid": "u2312",
+          "quote": "Riswynn: I mean, if I make my—is my most efficient. If I just dash, can I still grab the cloak? Can I make it to where Antonia is with a dash? Yeah. You could. You can grab the cloak. If you dash, you probably drop the ring of fire. So you don't take tons of fire damage. I was planning on that. Oh, yeah, great! Because there's no one in it anymore. I drop the ring of fire, but make a Con save. Oh, I see, Casian, now that—oh, great. Fail! I rolled the worst possible roll.\n\nSeeker: Inspiration.\n\nKenzo: That's not going to matter, right? And the last one really good.\n\nDelwath: Is not going to be useless, because if they roll the worst, what is your roll? Oh, wait! What are you making us? And you're not making it for Sickening Radiance, are you? No, no, no, she's making it for running through the poison poison. Right? So I rolled Sickening Radiance. But then I realized that was wrong.\n\nRiswynn: Yeah, I wondered what you were rolling.\n\nSeeker: So it.\n\nDM: She really?\n\nRiswynn: Yes. Which is rolling a one plus.\n\nSeeker: I see such that if we want the inspiration or not.\n\nKenzo: And not, right, because, like failing the Con save. You just take damage. It doesn't mean that she can get to —\n\nDM: 22 points of poison damage, but she can still get to the cloak.\n\nKenzo: All right. So no inspiration. Yeah.\n\nDM: And you end up where? Here.\n\nKenzo: Like falling on the cloak like taking the cloak, got the cloak?\n\nSeeker: Oh, man, this is a mess. I love it.\n\nDM: Seeker, you’re up.\n\nSeeker: Anybody have any—sorry you can do a bonus action if you want to do a bonus action.\n\nRiswynn: Where is Antonia?\n\nDM: She is [garbled] on the ground, unconscious.\n\nRiswynn: Is she? I mean the heat metal. I don't know. Did I lose Con for heat metal at some point? Oh, yeah, because I had to do.\n\nDelwath: Really. Wait, what you should. Now, you couldn't have done that, anyway. Do you have any damage spells that are only a bonus action?\n\nKenzo: Do you try to kill Kadmos from here? You can cast spirit guardian, I mean spiritual weapon.\n\nRiswynn: Sure, bonus action.\n\nDelwath: That couldn't hurt.\n\nDM: Does it do damage on the turn you cast it?\n\nDelwath: Wow! Kadmos has one hit point right?\n\nKenzo: True, unless it's like a healing potion or something?\n\nDelwath: I mean he could have healed a little bit. But.\n\nRiswynn: Well, that's Spiritual Weapon at fourth level.\n\nDM: Wow. So then it's tidy on that.\n\nKenzo: Nice. Yeah, that hits.\n\nDelwath: Can you put it between them so you can attack Casian too?\n\nDM: Vola wakes up, by the way, because she's coughing in poison gas. Oh, she's also dying and unconscious.\n\nRiswynn: Casian’s up there, too. Of course. Yeah. Okay, so spiritual weapon. Yeah.\n\nDelwath: Is that an area attacking? It's one attack.\n\nRiswynn: But I but it matters where it is, because it could attack somebody else different on another turn. So I will put it—so you attack you attacked Kadmos. You hit him.\n\nKenzo: And wait. You got that. She’s got—Riswynn has the cloak now, right? She's got the cloak. Riswynn's got the cloak. Kadmos has many tricks up his sleeves."
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "dash"
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u2326",
+        "endUid": "u2352"
+      },
+      "actors": [
+        "Seeker",
+        "Delwath"
+      ],
+      "reading": "Seeker teleports Delwath beside Casian and Kadmos near Riswynn, then withdraws within that combat space.",
+      "evidence": [
+        {
+          "startUid": "u2326",
+          "endUid": "u2352",
+          "quote": "Seeker: I, if I want to like, walk to the doorway, cast the spell, and also bonus action, Healing Word, can I do all of those things? You can't cast 2 leveled spells in one turn. I see that, but I gave it. But but Drogmar got a healing potion. So so the the king is okay. The king is okay, all right. So I will step temporarily to the door and cast Summon Fey.\n\nKenzo: Oh, nice! What does this happen and concentration on—\n\nKenzo: On a yeah dance. No, I don't know. Don't don't end. Concentration is resistance. Yeah, we need them to keep having to be fascinated. Don't do something that ends concentration. Wait, though. Wait the way the the hold on! Hold on! Let's just think for a second. Here, mission right now is get the fucking cloak away from those motherfuckers up at the top like, do we want to dimension door Delwath and Delwath and fucking Seeker like to right on top of Riswynn like a like. So we can all be like right there, protecting the cloak.\n\nSeeker: Not a crazy idea.\n\nKenzo: Like dude. We do not want like Kadmos, and Casian are so powerful. We have no idea what the fuck they're doing. It's just Riswynn at the top like, why don't we all get that? That's all that.\n\nKenzo: Let's all get on a cloak. We don't know what dimension Door—just Delwath will stand in between them right? Like, yes, I mean, Casian is going to cast some giant fireball or something like that.\n\nSeeker: So I'm gonna have to use a fifth-level slot to do dimension door, which I would do.\n\nKenzo: What what's fireball going to do to almost wait? Casian? Oh, Casian is after me. Okay? So I got a chance to still attack. Casian. Yeah, you can go.\n\nDelwath: After Casian. You're actually better off going after Casian instead of Kadmos because I go. I go before Kadmos, but after Casian.\n\nSeeker: I'm going to. So I'm going to put us. Well, how do I move myself? Where do you want to go? I got it right there. Yeah, go get it in front of Riswynn. Oh, in front of yeah, that's like fireball country. Really. I want what? What happened there?\n\nKenzo: What is it?\n\nDelwath: But what?\n\nKenzo: Oh, actually, can you? Can you go behind Casian? That's not bad, either, right?\n\nDelwath: Now, like? Don't we have to end up in the same spot, though? You have to end up next to each other. But you can still move after you cast the spell. Yeah, don't you want to drop like, don't you want to like drop in the melee? Actually, can't we be like there like Delwath is right there. Yeah.\n\nSeeker: You're right. And then you can just runs away bravely. Yeah, perfect. So basically, you grab Delwath and throw them in front of the bad guys and then run away. Yeah, that's that's what we're talking about. Guys, much better, much happier now. All right. Good. Good. Call everybody. Much happier. Okay. Later. I like ladder. It's oh, the ladder? Who's I guess? Yeah, that guy. Yeah. Maybe I'll try the grapple attack this time. How does that grapple with this to spell attack again? Yeah, problem. He's grappled. Oh, so what? I have to move the ladder there. Okay."
+        }
+      ],
+      "from": "p06",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "Dimension Door"
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u2365",
+        "endUid": "u2371"
+      },
+      "actors": [
+        "Ghorgra",
+        "Lubash"
+      ],
+      "reading": "The guard gives Lubash a potion and drags him into a bathroom for safety.",
+      "evidence": [
+        {
+          "startUid": "u2365",
+          "endUid": "u2371",
+          "quote": "DM: That's going to be 21 points of damage. She is going to feed a healing potion to the King. This—be restored.\n\nDelwath: Go ahead to the bathroom.\n\nSeeker: Yeah, .\n\nDM: And she will drag him to the bathroom. Kenzo, you're up .\n\nKenzo: Fucking finally, all right. What's the best square? Should I be like? Right? Let's see, should I be like one that why, it's not."
+        }
+      ],
+      "from": null,
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "dragged by guard",
+      "note": "Guard identity follows the preceding rescue turn; u2326–u2327 briefly calls the potion holder Drogmar, so this attribution remains qualified."
+    }
+  ]
+}

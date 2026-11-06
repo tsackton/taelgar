@@ -1,0 +1,1527 @@
+{
+  "schemaVersion": "0.1-combat-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-078",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-078/cleaned/dunmari-frontier-078-session.yaml",
+    "sessionYamlSha256": "9766c00b3900efca3b8b1b6185c65ba55371a817e1f756a87c10cd2e15099e42",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-078/cleaned/dunmari-frontier-078-transcript.md",
+    "transcriptSha256": "aede2d2f44da3f7899ee624a9792939069513ff55785aaa8f329858056d01b71",
+    "segments": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-078/cleaned/dunmari-frontier-078-segments.json",
+      "sha256": "a3d3bd30218c88dc60cf6489569b84a30f5811825ce5fd0da8ed7a31b3a8558c",
+      "schemaVersion": "0.1-transcript-segments-draft"
+    }
+  },
+  "combats": [
+    {
+      "id": "c001",
+      "segmentId": "s002",
+      "encounter": "Kadmos’s attack on Lubash’s palace",
+      "openingActions": [
+        {
+          "actor": "Delwath",
+          "kind": "turn",
+          "summary": "Receives the surprise opening action: casts Sickening Radiance across the corridor and closes the door, concentrating on the spell. Initiative is rolled and starts from his position.",
+          "evidence": [
+            {
+              "startUid": "u0596",
+              "endUid": "u0606"
+            },
+            {
+              "startUid": "u0615",
+              "endUid": "u0649"
+            }
+          ]
+        }
+      ],
+      "rounds": [
+        {
+          "round": 1,
+          "entries": [
+            {
+              "actor": "Murook",
+              "kind": "turn",
+              "summary": "Moves to the doorway and readies an attack on anyone opening it.",
+              "evidence": [
+                {
+                  "startUid": "u0650",
+                  "endUid": "u0653"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Opens the door and readies a shot at the first visible enemy, leaving the doorway open.",
+              "evidence": [
+                {
+                  "startUid": "u0668",
+                  "endUid": "u0673"
+                }
+              ]
+            },
+            {
+              "actor": "Vola",
+              "kind": "turn",
+              "summary": "Fails the DC 17 Constitution save against Sickening Radiance, becoming visible, taking 24 radiant damage and gaining one exhaustion level (disadvantage on checks). After the readied shot she turns and runs using a bonus-action Dash.",
+              "evidence": [
+                {
+                  "startUid": "u0674",
+                  "endUid": "u0677"
+                },
+                {
+                  "startUid": "u0712",
+                  "endUid": "u0720"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Releases the readied arrow at Vola. Initially misses; Seeker’s inspiration turns it into a hit for 35 damage including 10 thunder, before Vola’s Uncanny Dodge.",
+              "evidence": [
+                {
+                  "startUid": "u0678",
+                  "endUid": "u0691"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Uses inspiration to guide Wellby’s readied shot into Vola, adding the resolved 10 thunder damage.",
+              "evidence": [
+                {
+                  "startUid": "u0686",
+                  "endUid": "u0691"
+                }
+              ]
+            },
+            {
+              "actor": "Vola",
+              "kind": "reaction",
+              "summary": "Uses Uncanny Dodge against Wellby’s 35-damage arrow; the reduced numerical total is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u0689",
+                  "endUid": "u0691"
+                }
+              ]
+            },
+            {
+              "actor": "Evelina",
+              "kind": "turn",
+              "summary": "Her initially skipped turn is restored: fails the Constitution save against Sickening Radiance, takes 24 radiant damage, becomes visible and retreats after looking down the corridor.",
+              "evidence": [
+                {
+                  "startUid": "u0721",
+                  "endUid": "u0736"
+                }
+              ]
+            },
+            {
+              "actor": "Lubash",
+              "kind": "turn",
+              "summary": "Moves to hide in the back office near Seeker; the DM immediately corrects “bathroom” to office.",
+              "evidence": [
+                {
+                  "startUid": "u0721",
+                  "endUid": "u0723"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Has no safe target from behind the closed door and waits rather than crossing Sickening Radiance.",
+              "evidence": [
+                {
+                  "startUid": "u0745",
+                  "endUid": "u0757"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Peeks out and casts fourth-level Psychic Lance on Evelina. She fails the Intelligence save, takes damage whose amount is not spoken, and is incapacitated until the start of Seeker’s next turn.",
+              "evidence": [
+                {
+                  "startUid": "u0784",
+                  "endUid": "u0799"
+                },
+                {
+                  "startUid": "u0824",
+                  "endUid": "u0826"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Starts toward the hall but remains guarding the doorway rather than taking Sickening Radiance damage.",
+              "evidence": [
+                {
+                  "startUid": "u0800",
+                  "endUid": "u0809"
+                },
+                {
+                  "startUid": "u0898",
+                  "endUid": "u0903"
+                }
+              ],
+              "note": "The intended movement is discussed; the later doorway placement confirms the retained guard position."
+            },
+            {
+              "actor": "Drogmar and Ghorgra",
+              "kind": "turn",
+              "summary": "Continue holding prepared actions.",
+              "evidence": [
+                {
+                  "startUid": "u0806",
+                  "endUid": "u0809"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Steps into a safe firing square, hits Evelina with an acid arrow for 9 damage, uses Soul Sight to learn her strong Charisma/Dexterity and weak Intelligence/Constitution/Strength, then returns to his room.",
+              "evidence": [
+                {
+                  "startUid": "u0810",
+                  "endUid": "u0838"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Keeps Sickening Radiance active and casts first-level Sleep with a 23-hit-point pool; Vola and Evelina both fall asleep.",
+              "evidence": [
+                {
+                  "startUid": "u0847",
+                  "endUid": "u0871"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "entries": [
+            {
+              "actor": "Murook",
+              "kind": "turn",
+              "summary": "Waits at her defensive position.",
+              "evidence": [
+                {
+                  "startUid": "u0872",
+                  "endUid": "u0872"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Revises the proposed hold into a shot at sleeping Evelina. Prone disadvantage and unconscious advantage cancel to a straight roll; the clockwork amulet supplies 10, for 18 to hit. Uses two fire-effect charges; Evelina falls to 0 hit points and burns.",
+              "evidence": [
+                {
+                  "startUid": "u0875",
+                  "endUid": "u0892"
+                },
+                {
+                  "startUid": "u0915",
+                  "endUid": "u0929"
+                }
+              ]
+            },
+            {
+              "actor": "Vola",
+              "kind": "turn",
+              "summary": "Remains asleep.",
+              "evidence": [
+                {
+                  "startUid": "u0894",
+                  "endUid": "u0894"
+                }
+              ]
+            },
+            {
+              "actor": "Lubash",
+              "kind": "turn",
+              "summary": "Remains hidden.",
+              "evidence": [
+                {
+                  "startUid": "u0894",
+                  "endUid": "u0894"
+                }
+              ]
+            },
+            {
+              "actor": "Valius",
+              "kind": "turn",
+              "summary": "Appears from invisibility with an arrow hitting Wellby at 18 and binding brambles around his legs. The brambles reduce speed by 10 feet and cause slashing damage on the first movement each turn. A second arrow without advantage misses; Valius moves forward then backs away to assess the fight.",
+              "evidence": [
+                {
+                  "startUid": "u0930",
+                  "endUid": "u0950"
+                },
+                {
+                  "startUid": "u1098",
+                  "endUid": "u1104"
+                }
+              ],
+              "note": "u0935–u0939 gives “13 total” but lists 7 piercing and 13 poison. The later applied reduction uses 13, rather than silently reconciling those components."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uncanny Dodges Valius’s first arrow; the DM applies 6 damage, half of the announced 13.",
+              "evidence": [
+                {
+                  "startUid": "u0941",
+                  "endUid": "u0944"
+                }
+              ]
+            },
+            {
+              "actor": "Antonia",
+              "kind": "turn",
+              "summary": "Attacks Wellby from invisibility, with advantage on the opening lightning attack: 15 misses, 25 hits. The final announced damage is 15 lightning; she becomes visible.",
+              "evidence": [
+                {
+                  "startUid": "u0957",
+                  "endUid": "u0966"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Leans out from a safe square and casts second-level Healing Word on Wellby, restoring 9 hit points.",
+              "evidence": [
+                {
+                  "startUid": "u0987",
+                  "endUid": "u1000"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Slow over the attackers. Valius and sleeping Vola fail Wisdom saves; Antonia succeeds. Resolved effects include half speed, −2 AC and no reactions, with possible spell delay. No other target’s save result is established.",
+              "evidence": [
+                {
+                  "startUid": "u1010",
+                  "endUid": "u1037"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Moves intimidatingly while continuing to guard Seeker; does not cross the radiance.",
+              "evidence": [
+                {
+                  "startUid": "u1038",
+                  "endUid": "u1045"
+                }
+              ]
+            },
+            {
+              "actor": "Drogmar and Ghorgra",
+              "kind": "turn",
+              "summary": "Continue waiting in their defensive positions.",
+              "evidence": [
+                {
+                  "startUid": "u1046",
+                  "endUid": "u1046"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Pops out to fire an acid arrow at Antonia; 9 misses. Uses Soul Sight on Valius, learning his Dexterity/Intelligence focus and relatively low Charisma/Strength, then withdraws.",
+              "evidence": [
+                {
+                  "startUid": "u1047",
+                  "endUid": "u1072"
+                }
+              ]
+            },
+            {
+              "actor": "Evelina",
+              "kind": "turn",
+              "summary": "Fails a death save; the table clarifies she has one failure, not that she is already dead.",
+              "evidence": [
+                {
+                  "startUid": "u1073",
+                  "endUid": "u1075"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Maintains the radiance, readies an attack on anyone approaching, and adds Ghostly Gaze to see through nearby walls.",
+              "evidence": [
+                {
+                  "startUid": "u1080",
+                  "endUid": "u1097"
+                },
+                {
+                  "startUid": "u1125",
+                  "endUid": "u1126"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 3,
+          "entries": [
+            {
+              "actor": "Murook",
+              "kind": "turn",
+              "summary": "Continues holding her position.",
+              "evidence": [
+                {
+                  "startUid": "u1096",
+                  "endUid": "u1097"
+                }
+              ],
+              "note": "The garbled transition describes another hold immediately before Wellby; Murook follows the established cycle."
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses Steady Aim to shoot Antonia. The initial 18 misses, but Seeker’s inspiration changes the result to a hit for 29 damage plus 7 thunder.",
+              "evidence": [
+                {
+                  "startUid": "u1105",
+                  "endUid": "u1122"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Uses inspiration on Wellby’s shot at Antonia, adding the resolved 7 thunder damage.",
+              "evidence": [
+                {
+                  "startUid": "u1113",
+                  "endUid": "u1122"
+                }
+              ]
+            },
+            {
+              "actor": "Vola",
+              "kind": "turn",
+              "summary": "Remains asleep.",
+              "evidence": [
+                {
+                  "startUid": "u1127",
+                  "endUid": "u1129"
+                }
+              ]
+            },
+            {
+              "actor": "Lubash",
+              "kind": "turn",
+              "summary": "Remains hidden.",
+              "evidence": [
+                {
+                  "startUid": "u1127",
+                  "endUid": "u1129"
+                }
+              ]
+            },
+            {
+              "actor": "Kadmos",
+              "kind": "turn",
+              "summary": "Trips the alarm with a large invisible winged demon behind him. Appears and assumes a shadowed visage, then hits Wellby with an Eldritch Blast for 19 necrotic damage before Uncanny Dodge; the attempted fear does not affect the feast-protected Wellby. Retreats, now visible.",
+              "evidence": [
+                {
+                  "startUid": "u1131",
+                  "endUid": "u1145"
+                },
+                {
+                  "startUid": "u1151",
+                  "endUid": "u1193"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "reaction",
+              "summary": "Uncanny Dodges Kadmos’s blast; the DM applies 10 damage after halving 19.",
+              "evidence": [
+                {
+                  "startUid": "u1186",
+                  "endUid": "u1192"
+                }
+              ]
+            },
+            {
+              "actor": "Valius",
+              "kind": "turn",
+              "summary": "While slowed, hits Wellby at 17 for 9 piercing and 4 psychic damage. A Wisdom save with advantage is called; shadow strands temporarily blind Wellby. Kadmos points and laughs as the shot resolves.",
+              "evidence": [
+                {
+                  "startUid": "u1194",
+                  "endUid": "u1209"
+                }
+              ],
+              "note": "The numerical Wisdom result is not spoken; temporary blindness is narrated as the outcome."
+            },
+            {
+              "actor": "Antonia",
+              "kind": "turn",
+              "summary": "Uses blinded Wellby’s exposure to hit at 27 and 18 for a final total of 22 lightning damage, then retreats out of the doorway’s line of sight.",
+              "evidence": [
+                {
+                  "startUid": "u1211",
+                  "endUid": "u1222"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts Healing Word on Wellby again, restoring 12 hit points.",
+              "evidence": [
+                {
+                  "startUid": "u1223",
+                  "endUid": "u1231"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Psychic Lance at Kadmos. Kadmos succeeds on his Intelligence save and takes 9 psychic damage.",
+              "evidence": [
+                {
+                  "startUid": "u1234",
+                  "endUid": "u1248"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Flies down and strips the brambles off Wellby with its chains, freeing his movement.",
+              "evidence": [
+                {
+                  "startUid": "u1249",
+                  "endUid": "u1252"
+                }
+              ]
+            },
+            {
+              "actor": "Vargus",
+              "kind": "turn",
+              "summary": "Trips the alarm and waits in the entrance area with sword and shield ready.",
+              "evidence": [
+                {
+                  "startUid": "u1255",
+                  "endUid": "u1262"
+                }
+              ]
+            },
+            {
+              "actor": "Drogmar",
+              "kind": "turn",
+              "summary": "Waits, with no target available.",
+              "evidence": [
+                {
+                  "startUid": "u1263",
+                  "endUid": "u1263"
+                }
+              ]
+            },
+            {
+              "actor": "Winged demon",
+              "kind": "turn",
+              "summary": "Hovers above the entrance area.",
+              "evidence": [
+                {
+                  "startUid": "u1263",
+                  "endUid": "u1265"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Steps out, hits Kadmos with an acid arrow at 23 for 10 damage, then returns to the hallway.",
+              "evidence": [
+                {
+                  "startUid": "u1285",
+                  "endUid": "u1291"
+                }
+              ]
+            },
+            {
+              "actor": "Evelina",
+              "kind": "turn",
+              "summary": "Succeeds on her next death save while still dying.",
+              "evidence": [
+                {
+                  "startUid": "u1294",
+                  "endUid": "u1302"
+                }
+              ]
+            },
+            {
+              "actor": "Casian",
+              "kind": "turn",
+              "summary": "Dimension Doors himself and Kadmos immediately beside Seeker in the chief’s bedroom. Delwath cannot Counterspell because the casting point is 65 feet away; Forbiddance is adjudicated to block entry from outside, not this internal teleport.",
+              "evidence": [
+                {
+                  "startUid": "u1304",
+                  "endUid": "u1314"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Opens his door, casts Mind Sliver at Antonia and closes it again. She succeeds on the DC 17 Intelligence save.",
+              "evidence": [
+                {
+                  "startUid": "u1326",
+                  "endUid": "u1332"
+                }
+              ]
+            },
+            {
+              "actor": "Hektor",
+              "kind": "event",
+              "summary": "Triggers the alarm and enters beneath the flying demon, holding his halberd ready.",
+              "evidence": [
+                {
+                  "startUid": "u1333",
+                  "endUid": "u1337"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 4,
+          "entries": [
+            {
+              "actor": "Murook",
+              "kind": "turn",
+              "summary": "Runs through the doors into the bedroom and attacks Kadmos, correcting the proposed Casian target. Despite disadvantage from intrusive thoughts, all three attacks hit for a total of 12 slashing damage.",
+              "evidence": [
+                {
+                  "startUid": "u1340",
+                  "endUid": "u1359"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Moves into the room using Cunning Action Disengage and shoots Kadmos, adding fire and Seeker’s inspiration/thunder. The hit initially totals 45 damage, including Sneak Attack with an ally engaging Kadmos.",
+              "evidence": [
+                {
+                  "startUid": "u1361",
+                  "endUid": "u1373"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Uses inspiration to help Wellby’s shot into Kadmos.",
+              "evidence": [
+                {
+                  "startUid": "u1364",
+                  "endUid": "u1369"
+                }
+              ]
+            },
+            {
+              "actor": "Kadmos",
+              "kind": "reaction",
+              "summary": "Turns partly to shadow and halves the entire hit, including fire and thunder; the DM applies 22 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1374",
+                  "endUid": "u1380"
+                }
+              ]
+            },
+            {
+              "actor": "Vola",
+              "kind": "turn",
+              "summary": "Remains asleep.",
+              "evidence": [
+                {
+                  "startUid": "u1374",
+                  "endUid": "u1380"
+                }
+              ]
+            },
+            {
+              "actor": "Lubash",
+              "kind": "turn",
+              "summary": "Remains concealed beside Seeker.",
+              "evidence": [
+                {
+                  "startUid": "u1374",
+                  "endUid": "u1380"
+                }
+              ]
+            },
+            {
+              "actor": "Kadmos",
+              "kind": "turn",
+              "summary": "Succeeds on a Constitution save at 20. Blasts Seeker with attack rolls 20 and 29 for 27 damage; fright fails because of immunity. Seeker succeeds on the DC 13 Constitution concentration save and keeps Slow. Kadmos steps away, provoking Seeker.",
+              "evidence": [
+                {
+                  "startUid": "u1382",
+                  "endUid": "u1384"
+                },
+                {
+                  "startUid": "u1403",
+                  "endUid": "u1427"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Chooses a dagger opportunity attack instead of the contemplated Counterspell or crossbow use, hits at 24 and deals 3 damage to Kadmos.",
+              "evidence": [
+                {
+                  "startUid": "u1428",
+                  "endUid": "u1436"
+                }
+              ]
+            },
+            {
+              "actor": "Valius",
+              "kind": "turn",
+              "summary": "Still slowed, shoots Murook at 13 and misses. Fails to shake Slow.",
+              "evidence": [
+                {
+                  "startUid": "u1443",
+                  "endUid": "u1450"
+                }
+              ]
+            },
+            {
+              "actor": "Antonia",
+              "kind": "turn",
+              "summary": "Casts Web into the room. Wellby and Murook fail Dexterity saves and become restrained.",
+              "evidence": [
+                {
+                  "startUid": "u1452",
+                  "endUid": "u1479"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Casts Heat Metal on Antonia’s armor and concentrates on it. Damage is later confirmed, but its amount is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1480",
+                  "endUid": "u1496"
+                },
+                {
+                  "startUid": "u1797",
+                  "endUid": "u1802"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Enters the office, closes the door, and Dimension Doors Lubash to Delwath and Riswynn’s room. The table accepts a concealed corner position so the movement does not reveal Lubash.",
+              "evidence": [
+                {
+                  "startUid": "u1497",
+                  "endUid": "u1528"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Flies around the web to strike the enemy in the bedroom for 11 damage; damage is retained rather than replacing the attack with a grapple.",
+              "evidence": [
+                {
+                  "startUid": "u1529",
+                  "endUid": "u1555"
+                }
+              ],
+              "note": "Seeker names Kadmos at u1529, while Kenzo says Casian at u1543. The selected target remains Kadmos with this conflicting interjection preserved."
+            },
+            {
+              "actor": "Vargus",
+              "kind": "turn",
+              "summary": "Enters Sickening Radiance, becomes visible and takes the rolled 28 radiant damage after the Constitution-save sequence. Opens Delwath’s room and hits him with a longsword for 8 slashing, then a critical hit for 7 slashing. Delwath succeeds on both concentration checks with advantage, retaining the radiance.",
+              "evidence": [
+                {
+                  "startUid": "u1556",
+                  "endUid": "u1589"
+                }
+              ]
+            },
+            {
+              "actor": "Drogmar",
+              "kind": "turn",
+              "summary": "Moves out to attack Casian while avoiding the web. Hits twice with the spear for 12 and 14 damage, total 26, despite the interception.",
+              "evidence": [
+                {
+                  "startUid": "u1590",
+                  "endUid": "u1601"
+                }
+              ]
+            },
+            {
+              "actor": "Vargus",
+              "kind": "reaction",
+              "summary": "Intercepts Drogmar’s attack against Casian and imposes disadvantage. Delwath accepts an opportunity attack, but no roll or damage is resolved aloud.",
+              "evidence": [
+                {
+                  "startUid": "u1590",
+                  "endUid": "u1598"
+                }
+              ]
+            },
+            {
+              "actor": "Winged demon",
+              "kind": "turn",
+              "summary": "Flies through Sickening Radiance, is called to make a Constitution save, then attacks Drogmar with beak and talons; one attack hits. Neither the save result nor damage amount is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1611",
+                  "endUid": "u1629"
+                }
+              ]
+            },
+            {
+              "actor": "Ghorgra",
+              "kind": "turn",
+              "summary": "Moves into a protective stance guarding Lubash.",
+              "evidence": [
+                {
+                  "startUid": "u1630",
+                  "endUid": "u1631"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "From the doorway, hits the demon with a critical Staff of the Forest Soul strike for 18 damage, slowing it until a Wisdom save succeeds. Frightening Strike frightens it, imposing disadvantage and preventing closer movement. A second staff hit deals 14, and two Flurry of Blows hits deal 13 each.",
+              "evidence": [
+                {
+                  "startUid": "u1632",
+                  "endUid": "u1679"
+                }
+              ]
+            },
+            {
+              "actor": "Casian",
+              "kind": "turn",
+              "summary": "Attempts an area blast through the opened doors; the spell is stopped by Delwath.",
+              "evidence": [
+                {
+                  "startUid": "u1680",
+                  "endUid": "u1692"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Casts fifth-level Counterspell and cancels Casian’s blast, later identified in the postgame as the massive fireball.",
+              "evidence": [
+                {
+                  "startUid": "u1686",
+                  "endUid": "u1690"
+                },
+                {
+                  "startUid": "u2627",
+                  "endUid": "u2629"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Keeps the radiance and Eldritch Blasts the demon rather than Antonia: a critical hit deals 8, and subsequent resolved hits deal 10 and 16 damage.",
+              "evidence": [
+                {
+                  "startUid": "u1693",
+                  "endUid": "u1712"
+                }
+              ],
+              "note": "A brief “Miss” precedes the immediate 17-hits adjudication; the three spoken damage results are retained without inventing a fourth beam."
+            },
+            {
+              "actor": "Hektor",
+              "kind": "turn",
+              "summary": "Fails a Constitution save on entering Sickening Radiance and takes 28 radiant damage. Shoves Delwath aside with Athletics 19 against the announced 18, despite attempted inspiration. The DM corrects the initial disadvantage statement because rage cancels it. Grapples Lubash and drags him into the corridor/radiance, where Lubash takes 28 and is nearly dead; his save is called belatedly. The token-position objection is not adopted as a retcon.",
+              "evidence": [
+                {
+                  "startUid": "u1713",
+                  "endUid": "u1767"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Attempts inspiration on Delwath’s check against Hektor’s shove; Hektor still wins.",
+              "evidence": [
+                {
+                  "startUid": "u1721",
+                  "endUid": "u1736"
+                }
+              ]
+            },
+            {
+              "actor": "Ghorgra",
+              "kind": "reaction",
+              "summary": "Hits Hektor with an opportunity attack as he drags Lubash away. The DM corrects the initially announced attacker from Murook to Ghorgra; no damage amount is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1769",
+                  "endUid": "u1775"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 5,
+          "entries": [
+            {
+              "actor": "Murook",
+              "kind": "turn",
+              "summary": "While restrained in Web, attacks Kadmos at disadvantage: first misses, next two hit for 14 total damage.",
+              "evidence": [
+                {
+                  "startUid": "u1773",
+                  "endUid": "u1780"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Uses his action and the feature allowing Dexterity in place of Strength to escape magical restraint. A straight Dexterity check of 19 succeeds; no advantage is granted.",
+              "evidence": [
+                {
+                  "startUid": "u1793",
+                  "endUid": "u1812"
+                }
+              ]
+            },
+            {
+              "actor": "Vola",
+              "kind": "turn",
+              "summary": "Remains asleep.",
+              "evidence": [
+                {
+                  "startUid": "u1828",
+                  "endUid": "u1831"
+                }
+              ]
+            },
+            {
+              "actor": "Lubash",
+              "kind": "turn",
+              "summary": "Fails the delayed Constitution-save resolution and falls unconscious in Sickening Radiance.",
+              "evidence": [
+                {
+                  "startUid": "u1817",
+                  "endUid": "u1831"
+                }
+              ]
+            },
+            {
+              "actor": "Kadmos",
+              "kind": "turn",
+              "summary": "Retreats from Murook and Ladder, provoking both. Survives their hits through Death Ward, enters the small room and closes the door.",
+              "evidence": [
+                {
+                  "startUid": "u1836",
+                  "endUid": "u1855"
+                }
+              ]
+            },
+            {
+              "actor": "Murook",
+              "kind": "reaction",
+              "summary": "Hits retreating Kadmos with an opportunity attack at disadvantage; the amount is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1840",
+                  "endUid": "u1847"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "reaction",
+              "summary": "Hits Kadmos with an opportunity attack for 14. His crackling Death Ward expires and keeps him at 1 hit point.",
+              "evidence": [
+                {
+                  "startUid": "u1846",
+                  "endUid": "u1851"
+                }
+              ]
+            },
+            {
+              "actor": "Valius",
+              "kind": "turn",
+              "summary": "Retreats slowly, misses Drogmar with an arrow, then succeeds on the save ending Slow.",
+              "evidence": [
+                {
+                  "startUid": "u1873",
+                  "endUid": "u1880"
+                }
+              ]
+            },
+            {
+              "actor": "Antonia",
+              "kind": "turn",
+              "summary": "Steps into the radiance, makes the Constitution save, strips the cloak from unconscious Lubash and Dashes back toward the entrance room.",
+              "evidence": [
+                {
+                  "startUid": "u1881",
+                  "endUid": "u1896"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Moves out to pursue the cloak and casts Wall of Fire around Antonia and Valius, cutting through Antonia’s position. Antonia fails her Dexterity save and takes a corrected 25 fire damage; the wall blocks sight. The accidental sixth-level selection is corrected to a fifth-level slot, and Heat Metal ends.",
+              "evidence": [
+                {
+                  "startUid": "u1898",
+                  "endUid": "u1968"
+                },
+                {
+                  "startUid": "u2292",
+                  "endUid": "u2293"
+                }
+              ],
+              "note": "Passing through the radiance is discussed, but no numerical save result or damage for Riswynn’s earlier movement is resolved."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Casts Irresistible Curiosity on Hektor. Hektor stares at Lubash’s facial hair and cannot move, while remaining able to attack.",
+              "evidence": [
+                {
+                  "startUid": "u1971",
+                  "endUid": "u1975"
+                },
+                {
+                  "startUid": "u2021",
+                  "endUid": "u2022"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Moves to slam Casian rather than investigate the closed room. The attack is selected, but no hit result or damage is spoken.",
+              "evidence": [
+                {
+                  "startUid": "u1976",
+                  "endUid": "u1993"
+                }
+              ]
+            },
+            {
+              "actor": "Vargus",
+              "kind": "turn",
+              "summary": "Attacks Drogmar, correcting the initial Murook target. Hits at 24 and critically hits; damage is not spoken.",
+              "evidence": [
+                {
+                  "startUid": "u2000",
+                  "endUid": "u2006"
+                }
+              ]
+            },
+            {
+              "actor": "Drogmar",
+              "kind": "turn",
+              "summary": "Attacks Casian three times with the spear: two misses, then one hit for 13 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2007",
+                  "endUid": "u2013"
+                }
+              ]
+            },
+            {
+              "actor": "Winged demon",
+              "kind": "turn",
+              "summary": "Succeeds on the Constitution save against Sickening Radiance and spits poison at Kenzo; Kenzo’s poison immunity prevents any effect. Fright does not force the demon to flee.",
+              "evidence": [
+                {
+                  "startUid": "u2014",
+                  "endUid": "u2019"
+                }
+              ]
+            },
+            {
+              "actor": "Ghorgra",
+              "kind": "turn",
+              "summary": "Enters the radiance and fails its Constitution save, with no damage amount stated. Pulls Lubash out of it without provoking an attack on the involuntarily moved king. Swings a greataxe at Hektor, then retreats to stand over Lubash.",
+              "evidence": [
+                {
+                  "startUid": "u2021",
+                  "endUid": "u2050"
+                }
+              ],
+              "note": "The guard is identified from the established protective turn; the later potion discussion briefly names Drogmar."
+            },
+            {
+              "actor": "Hektor",
+              "kind": "reaction",
+              "summary": "Makes an opportunity attack against the retreating guard with disadvantage; 19 still hits and cuts her, without a spoken damage amount.",
+              "evidence": [
+                {
+                  "startUid": "u2044",
+                  "endUid": "u2050"
+                }
+              ]
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Uses the raven’s whistle to fly into the room near the cloak, succeeds on the Constitution save against radiance at 21 and takes no damage. Cannot see or attack through the wall of fire; readies an attack on whoever emerges.",
+              "evidence": [
+                {
+                  "startUid": "u2051",
+                  "endUid": "u2092"
+                }
+              ]
+            },
+            {
+              "actor": "Casian",
+              "kind": "turn",
+              "summary": "Opens the small room’s door and vanishes from sight.",
+              "evidence": [
+                {
+                  "startUid": "u2093",
+                  "endUid": "u2094"
+                }
+              ],
+              "note": "The action is not identified as a completed teleport out of the palace."
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Abandons bug-form movement through his radiance, keeps concentration, curses Hektor and attacks him with advantage. First hit deals 16 including 5 radiant; the next deals 10 including 4 force. Tosses a healing potion to an orc ally.",
+              "evidence": [
+                {
+                  "startUid": "u2099",
+                  "endUid": "u2161"
+                },
+                {
+                  "startUid": "u2326",
+                  "endUid": "u2327"
+                }
+              ],
+              "note": "The potion recipient is unnamed at the transfer; u2326–u2327 calls the holder Drogmar, whereas the rescue/healing turn follows Ghorgra."
+            },
+            {
+              "actor": "Hektor",
+              "kind": "turn",
+              "summary": "Fails the Constitution save and takes 24 radiant damage. While immobilized, attacks Delwath with disadvantage: first misses, second deals 9 slashing, third deals a corrected 17 including rage/divine-fury damage omitted from the prior hit. Remains staring at the empty ground.",
+              "evidence": [
+                {
+                  "startUid": "u2162",
+                  "endUid": "u2187"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "reaction",
+              "summary": "Uses a d6 reaction to reduce Hektor’s second attack roll, which still hits. Reports 8 more damage to Hektor after the attacks; the effect is not identified.",
+              "evidence": [
+                {
+                  "startUid": "u2167",
+                  "endUid": "u2173"
+                },
+                {
+                  "startUid": "u2185",
+                  "endUid": "u2187"
+                }
+              ],
+              "note": "The additional 8 damage is retained without assigning an unsupported damage type or ability."
+            }
+          ]
+        },
+        {
+          "round": 6,
+          "entries": [
+            {
+              "actor": "Murook",
+              "kind": "turn",
+              "summary": "Uses her action to try escaping Web, fails and remains restrained.",
+              "evidence": [
+                {
+                  "startUid": "u2188",
+                  "endUid": "u2189"
+                }
+              ]
+            },
+            {
+              "actor": "Wellby",
+              "kind": "turn",
+              "summary": "Enters and searches the small room for hidden enemies. A Perception check leaves him confident it is empty; searching uses his action, and he comes back out.",
+              "evidence": [
+                {
+                  "startUid": "u2191",
+                  "endUid": "u2209"
+                }
+              ]
+            },
+            {
+              "actor": "Evelina",
+              "kind": "turn",
+              "summary": "Dies after her earlier failed and successful death saves.",
+              "evidence": [
+                {
+                  "startUid": "u2210",
+                  "endUid": "u2212"
+                }
+              ]
+            },
+            {
+              "actor": "Lubash",
+              "kind": "turn",
+              "summary": "Fails a death save and now has two failures.",
+              "evidence": [
+                {
+                  "startUid": "u2210",
+                  "endUid": "u2212"
+                }
+              ]
+            },
+            {
+              "actor": "Kadmos",
+              "kind": "turn",
+              "summary": "Appears near the upper room and casts a heavily obscuring poison cloud, initially affecting his allies.",
+              "evidence": [
+                {
+                  "startUid": "u2213",
+                  "endUid": "u2225"
+                }
+              ]
+            },
+            {
+              "actor": "Valius",
+              "kind": "turn",
+              "summary": "Takes poison damage of unstated amount and runs through the wall of fire for 39 fire damage, with no save allowed on crossing. Nearly dead, flees through the poison toward the stairs.",
+              "evidence": [
+                {
+                  "startUid": "u2226",
+                  "endUid": "u2250"
+                }
+              ]
+            },
+            {
+              "actor": "Antonia",
+              "kind": "turn",
+              "summary": "Runs through the wall of fire for the same 39 damage and falls unconscious holding out the cloak. Her Web disappears.",
+              "evidence": [
+                {
+                  "startUid": "u2251",
+                  "endUid": "u2259"
+                }
+              ]
+            },
+            {
+              "actor": "Riswynn",
+              "kind": "turn",
+              "summary": "Drops Wall of Fire and Dashes through the poison to recover the cloak. Fails the Constitution save, takes 22 poison damage, and declines proposed inspiration. Casts fourth-level Spiritual Weapon and hits Kadmos; numerical damage is not stated.",
+              "evidence": [
+                {
+                  "startUid": "u2260",
+                  "endUid": "u2313"
+                }
+              ]
+            },
+            {
+              "actor": "Vola",
+              "kind": "turn",
+              "summary": "Poison wakes her from Sleep but leaves her dying and unconscious at 0 hit points.",
+              "evidence": [
+                {
+                  "startUid": "u2307",
+                  "endUid": "u2308"
+                }
+              ]
+            },
+            {
+              "actor": "Kadmos",
+              "kind": "event",
+              "summary": "Survives the Spiritual Weapon hit by releasing black tendrils that deal 23 necrotic damage to both Riswynn and Kenzo; remains standing after using this last trick.",
+              "evidence": [
+                {
+                  "startUid": "u2314",
+                  "endUid": "u2322"
+                }
+              ],
+              "note": "The source describes this immediate defensive burst without identifying a reaction or naming the ability."
+            },
+            {
+              "actor": "Seeker",
+              "kind": "turn",
+              "summary": "Replaces the proposed Summon Fey with Dimension Door, bringing Delwath beside the enemy casters near Riswynn, then withdraws. Maintains Hektor’s immobilizing curiosity.",
+              "evidence": [
+                {
+                  "startUid": "u2326",
+                  "endUid": "u2352"
+                }
+              ]
+            },
+            {
+              "actor": "Ladder",
+              "kind": "turn",
+              "summary": "Grapples the remaining fighter, preventing movement.",
+              "evidence": [
+                {
+                  "startUid": "u2347",
+                  "endUid": "u2353"
+                }
+              ],
+              "note": "The token-pointed target is not named here; the following fighter attacks and later Vargus subdual support Vargus as the likely target."
+            },
+            {
+              "actor": "Vargus",
+              "kind": "turn",
+              "summary": "While grappled, attacks Ladder twice for 6 and 10 slashing damage.",
+              "evidence": [
+                {
+                  "startUid": "u2353",
+                  "endUid": "u2356"
+                }
+              ],
+              "note": "The speaker does not repeat his name; identity follows the fighter’s established position in the cycle."
+            },
+            {
+              "actor": "Drogmar",
+              "kind": "turn",
+              "summary": "Continues attacking in the compressed side fight; individual rolls and results are not narrated.",
+              "evidence": [
+                {
+                  "startUid": "u2359",
+                  "endUid": "u2363"
+                }
+              ]
+            },
+            {
+              "actor": "Winged demon",
+              "kind": "turn",
+              "summary": "Succeeds on a Constitution save at 24, then attacks an orc for 21 damage.",
+              "evidence": [
+                {
+                  "startUid": "u2359",
+                  "endUid": "u2367"
+                }
+              ],
+              "note": "The orc target is not named in this compressed resolution."
+            },
+            {
+              "actor": "Ghorgra",
+              "kind": "turn",
+              "summary": "Feeds a healing potion to Lubash, restoring him, then drags him into a bathroom.",
+              "evidence": [
+                {
+                  "startUid": "u2365",
+                  "endUid": "u2371"
+                }
+              ],
+              "note": "Attribution follows the preceding rescue turn; u2326–u2327 instead names Drogmar as the potion holder, so the guard attribution remains open."
+            },
+            {
+              "actor": "Kenzo",
+              "kind": "turn",
+              "summary": "Attacks Casian: staff hits at 21 for 14 damage and at 26 for 9, but Casian succeeds on both Constitution saves against Stunning Strike (the second at 15 against DC 13). Flurry’s 20 is deflected by Shield; 27 hits for another 8.",
+              "evidence": [
+                {
+                  "startUid": "u2375",
+                  "endUid": "u2410"
+                }
+              ]
+            },
+            {
+              "actor": "Casian",
+              "kind": "reaction",
+              "summary": "Uses Shield to deflect Kenzo’s 20 attack; the following 27 still hits.",
+              "evidence": [
+                {
+                  "startUid": "u2402",
+                  "endUid": "u2408"
+                }
+              ]
+            },
+            {
+              "actor": "Casian",
+              "kind": "turn",
+              "summary": "Attempts Dimension Door with Kadmos, correcting the initial narration of a solo escape. The final escape is stopped after the Counterspell exchange.",
+              "evidence": [
+                {
+                  "startUid": "u2413",
+                  "endUid": "u2435"
+                },
+                {
+                  "startUid": "u2627",
+                  "endUid": "u2629"
+                }
+              ]
+            },
+            {
+              "actor": "Seeker",
+              "kind": "reaction",
+              "summary": "Uses fifth-level Counterspell to stop Casian’s Dimension Door. The later postgame explicitly credits Seeker with stopping this escape.",
+              "evidence": [
+                {
+                  "startUid": "u2421",
+                  "endUid": "u2426"
+                },
+                {
+                  "startUid": "u2627",
+                  "endUid": "u2629"
+                }
+              ]
+            },
+            {
+              "actor": "Casian",
+              "kind": "reaction",
+              "summary": "Attempts a lower-level Counterspell against Seeker’s fifth-level one, requiring 15 or higher. The immediate result is elliptical, but both enemies remain and the later postgame confirms their escape was stopped.",
+              "evidence": [
+                {
+                  "startUid": "u2427",
+                  "endUid": "u2438"
+                },
+                {
+                  "startUid": "u2627",
+                  "endUid": "u2629"
+                }
+              ]
+            },
+            {
+              "actor": "Delwath",
+              "kind": "turn",
+              "summary": "Casts Sleep on the badly wounded Kadmos and Casian; both fall asleep, ending Kadmos’s poison-cloud concentration.",
+              "evidence": [
+                {
+                  "startUid": "u2436",
+                  "endUid": "u2439"
+                },
+                {
+                  "startUid": "u2455",
+                  "endUid": "u2458"
+                }
+              ]
+            },
+            {
+              "actor": "Hektor",
+              "kind": "turn",
+              "summary": "Fails another Constitution save in the radiance, takes 28 damage and reaches three exhaustion levels, now suffering disadvantage on attacks and saves.",
+              "evidence": [
+                {
+                  "startUid": "u2440",
+                  "endUid": "u2445"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 7,
+          "entries": [
+            {
+              "actor": "Murook, Ladder, Wellby and Drogmar",
+              "kind": "event",
+              "summary": "Subdue Vargus in the compressed final resolution.",
+              "evidence": [
+                {
+                  "startUid": "u2446",
+                  "endUid": "u2447"
+                }
+              ]
+            },
+            {
+              "actor": "Valius",
+              "kind": "turn",
+              "summary": "Flees toward the staircase; the table corrects an overly compressed route and leaves him still running inside the palace at initiative’s end.",
+              "evidence": [
+                {
+                  "startUid": "u2446",
+                  "endUid": "u2453"
+                }
+              ]
+            },
+            {
+              "actor": "Vola",
+              "kind": "turn",
+              "summary": "Succeeds on a death save after Kadmos’s poison cloud ends.",
+              "evidence": [
+                {
+                  "startUid": "u2454",
+                  "endUid": "u2458"
+                }
+              ]
+            },
+            {
+              "actor": "Lubash",
+              "kind": "turn",
+              "summary": "Is awake following the guard’s healing potion.",
+              "evidence": [
+                {
+                  "startUid": "u2455",
+                  "endUid": "u2458"
+                }
+              ]
+            },
+            {
+              "actor": "Antonia",
+              "kind": "turn",
+              "summary": "Fails another death save and is nearly dead when initiative ends.",
+              "evidence": [
+                {
+                  "startUid": "u2459",
+                  "endUid": "u2461"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "ending": {
+        "summary": "Initiative is dropped. Riswynn holds the recovered cloak; Kadmos and Casian sleep, Vargus is subdued, Valius is fleeing, Lubash is awake, and Vola and Antonia are dying. Hektor remains immobilized and badly exhausted. The demon’s death is confirmed just after initiative; no finishing attack is specified. Executions, stabilization, surrender and mirror imprisonment occur afterward.",
+        "evidence": [
+          {
+            "startUid": "u2446",
+            "endUid": "u2461"
+          }
+        ]
+      },
+      "note": "A surprise spell precedes the repeating cycle. Late arrivals keep their spoken relative positions; compressed final actions are retained without inventing omitted turns. The demon’s death is confirmed at u2463–u2464 but its killing blow is not narrated."
+    }
+  ]
+}
