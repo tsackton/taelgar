@@ -9,7 +9,59 @@
     "yamlDates": {
       "start": "1748-11-24",
       "end": "1748-11-29"
-    }
+    },
+    "supplementarySources": [
+      {
+        "sessionId": "dunmari-frontier-075",
+        "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-session.yaml",
+        "sessionYamlSha256": "a47486f4a7be8a983d6b5fd78d2de412e26634a04eb5645335711c6210c70ab7",
+        "path": "_sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-transcript.md",
+        "sha256": "00b24463ffb6489a5efcba5dbdf9795e45fd81756520bab1e197f2a526179f1c",
+        "use": "Supplementary evidence dates the same howling encounter continued from session 074: the immediate post-fight return and long rest ending at November 30 breakfast imply a competing November 30 encounter date. It does not establish an intervening day or supersede session 074’s November 29 reading.",
+        "evidence": [
+          {
+            "startUid": "u0001",
+            "endUid": "u0007",
+            "quote": "as Seeker attempted to bring it lurchingly into the sky"
+          },
+          {
+            "startUid": "u0008",
+            "endUid": "u0010",
+            "quote": "You are awakened by the sound of howls in the distance."
+          },
+          {
+            "startUid": "u0016",
+            "endUid": "u0019",
+            "quote": "Wellby having shaken you all awake, and Seeker having attempted to bring the ship lurchingly into the sky, and it tipping slightly on its axis."
+          },
+          {
+            "startUid": "u0041",
+            "endUid": "u0043",
+            "quote": "it is the middle of night"
+          },
+          {
+            "startUid": "u1099",
+            "endUid": "u1104",
+            "quote": "So you return to your camp. There anything you're going to do before going back to sleep?"
+          },
+          {
+            "startUid": "u1104",
+            "endUid": "u1104",
+            "quote": "At one in the morning? Probably not."
+          },
+          {
+            "startUid": "u1170",
+            "endUid": "u1174",
+            "quote": "Long rest, and wake to a late morning breakfast."
+          },
+          {
+            "startUid": "u1174",
+            "endUid": "u1174",
+            "quote": "As this is the last day of November."
+          }
+        ]
+      }
+    ]
   },
   "markers": [
     {
@@ -697,14 +749,15 @@
           "day": 29
         }
       },
-      "dateBoundaries": 1
+      "dateBoundaries": 1,
+      "note": "Cross-session date conflict: session 075 u0001–u0043 resumes this same howling encounter and tilted ship. Its post-fight return at one a.m. (u1099–u1104), immediately followed by a long rest and November 30 breakfast (u1170–u1174), implies November 30 for the continuing encounter. Session 074’s own November 28 first-lift anchor and following midnight still supply the retained November 29 reading. No intervening day is narrated; the competing date is not an adopted correction. The adjacent source and exact quotations are fingerprinted separately in provenance.supplementarySources."
     }
   ],
   "yamlCheck": {
-    "status": "matched",
-    "dateAnchor": "November 25 (t08), November 27 (t15–t17), and November 28 (t21) are spoken independently. The year 1748 is from YAML. The preceding evening is November 24 by the first overnight; the closing midnight is November 29 by civil rollover.",
+    "status": "compatible",
+    "dateAnchor": "November 25 (t08), November 27 (t15–t17), and November 28 (t21) are spoken independently. The year 1748 is from YAML. The preceding evening is November 24 by the first overnight; the closing midnight is November 29 by civil rollover. Supplementary session 075 independently calls the immediately following post-fight breakfast the last day of November, implying a competing November 30 date for the same continuing overnight encounter; both session years come from YAML.",
     "expectedDateBoundaries": 5,
-    "supportedDateBoundaries": 5,
+    "supportedDateBoundaries": null,
     "evidence": [
       "t01",
       "t06",
@@ -716,6 +769,26 @@
       "t21",
       "t22"
     ],
-    "explanation": "The return evening, three intervening overnight advances, the next morning after the November 27 dream, and midnight after the November 28 first lift cover November 24–29. The November 27 workday and its retrospective morning/afternoon scries are counted once. The unfinished return-day arithmetic at t15 and the future November 30 travel forecast do not add days. The dated campaign note has a different internal chronology, retained as a review discrepancy rather than used to rewrite these markers."
-  }
+    "explanation": "Session 074 alone establishes five date transitions from the November 24 return evening to the retained November 29 midnight at t22, fitting its YAML. Session 075 resumes that same encounter, places the post-fight camp return at one a.m., and follows it immediately with a long rest ending at November 30 breakfast. That competing date leaves the cross-session closing boundary unresolved, so the YAML comparison is compatible rather than a confirmed match and no combined boundary total is asserted. Neither an extra day nor a canonical correction is inferred. The separate one-day drift in the dated campaign note also remains flagged."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "end",
+      "evidence": [
+        "t21",
+        "t22"
+      ],
+      "reading": "The same overnight encounter has incompatible civil dates across the two registered transcripts: session 074 u1946–u1949 and u1960–u1967 imply November 29, while session 075 u0001–u0043 establishes continuity and u1099–u1104/u1170–u1174 imply November 30. This is a conflict between transcripts, not merely a choice of which evening the YAML labels. No extra day is established and no canonical correction is selected.",
+      "alternatives": [
+        {
+          "reading": "Session 074’s own chronology: the midnight after the explicitly dated November 28 first lift is November 29. Retained in t22; year from the session YAML.",
+          "date": "1748-11-29"
+        },
+        {
+          "reading": "Competing session 075 chronology: the same continuing fight ends before a one-a.m. camp return and the immediately following long rest ends at November 30 breakfast, implying November 30 for that encounter. This is not applied to t22; year from the session YAMLs.",
+          "date": "1748-11-30"
+        }
+      ]
+    }
+  ]
 }
