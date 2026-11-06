@@ -1,0 +1,537 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-066",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-066/cleaned/dunmari-frontier-066-session.yaml",
+    "sessionYamlSha256": "e5121b3cf09b4f995cfc042ea1eca20bec7b22c8034100a2a18c4610d7082d6a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-066/cleaned/dunmari-frontier-066-transcript.md",
+    "transcriptSha256": "2b6bd25a3259019ca05247632f911b9ab26fffb411f7e08940977f015ebe2cfe",
+    "yamlDates": {
+      "start": "1748-10-14",
+      "end": "1748-11-13"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0051",
+        "endUid": "u0055"
+      },
+      "reading": "At the cave opening, Wellby recalls receiving serious healing about five minutes earlier.",
+      "evidence": [
+        {
+          "startUid": "u0051",
+          "endUid": "u0055",
+          "quote": "He was pretty worse for the wear up, until like five minutes ago. I think you just got some serious healing."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Player’s approximate retrospective interval since healing"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0511",
+        "endUid": "u0519"
+      },
+      "reading": "Outfitting the northbound ship takes about a week after the rescue and return.",
+      "evidence": [
+        {
+          "startUid": "u0511",
+          "endUid": "u0519",
+          "quote": "it takes you a little bit of time like a week, something like that to get outfitted."
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Alimash",
+        "Shoal"
+      ],
+      "duration": {
+        "value": 7,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM’s approximate outfitting montage"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0529",
+        "endUid": "u0539"
+      },
+      "reading": "Leave the Vermillion Isles in the last week of October; spend the first four or five days tacking out to sea.",
+      "evidence": [
+        {
+          "startUid": "u0529",
+          "endUid": "u0539",
+          "quote": "you're leaving the Vermillion Isles in say, the last week in October"
+        },
+        {
+          "startUid": "u0529",
+          "endUid": "u0539",
+          "quote": "You sort of tack out to sea for a while for the first four or five days of your journey"
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Alimash",
+        "Shoal"
+      ],
+      "time": {
+        "date": {
+          "year": 1748,
+          "month": 10
+        },
+        "precision": "approximate",
+        "basis": "October and its last week are spoken; year comes from YAML"
+      },
+      "duration": {
+        "min": 4,
+        "minInclusive": true,
+        "max": 5,
+        "maxInclusive": true,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM narrates the first leg of the actual voyage"
+      },
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t06"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0550",
+        "endUid": "u0561"
+      },
+      "reading": "At anchor offshore of the densely wooded island, the party sees moving lights at night.",
+      "evidence": [
+        {
+          "startUid": "u0550",
+          "endUid": "u0561",
+          "quote": "as you set anchor offshore of that island at night you can see little lights twinkling, drifting through the forests."
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Alimash",
+        "Shoal"
+      ],
+      "time": {
+        "partOfDay": "night",
+        "precision": "approximate",
+        "basis": "Explicit nighttime anchorage during the voyage"
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t06"
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0562",
+        "endUid": "u0576"
+      },
+      "reading": "During the second week of November, shelter from a squall at the stone-coral crescent island.",
+      "evidence": [
+        {
+          "startUid": "u0562",
+          "endUid": "u0568",
+          "quote": "As you get further north, getting into the second week in November. Now, uh you ride out some a squall in the shelter of a you know, another small island, almost perfectly crescent shaped."
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Alimash",
+        "Shoal"
+      ],
+      "time": {
+        "date": {
+          "year": 1748,
+          "month": 11
+        },
+        "precision": "approximate",
+        "basis": "Second week of November spoken; year from YAML"
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t06"
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0577",
+        "endUid": "u0591"
+      },
+      "reading": "The northbound voyage takes about two and a half weeks, reaching Arryn’s island in mid-November at midmorning.",
+      "evidence": [
+        {
+          "startUid": "u0577",
+          "endUid": "u0591",
+          "quote": "After two and a half weeks of sailing"
+        },
+        {
+          "startUid": "u0601",
+          "endUid": "u0611",
+          "quote": "as you arrive at the island that you were directed to"
+        },
+        {
+          "startUid": "u0621",
+          "endUid": "u0623",
+          "quote": "It's definitely colder also because it's now the middle of November."
+        },
+        {
+          "startUid": "u0646",
+          "endUid": "u0648",
+          "quote": "Yes, mid morning when you arrive, and obviously you've had many long rest."
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Alimash",
+        "Shoal"
+      ],
+      "duration": {
+        "value": 17.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Narrated two-and-a-half-week voyage, converted to days; montage precision is approximate"
+      },
+      "time": {
+        "date": {
+          "year": 1748,
+          "month": 11
+        },
+        "partOfDay": "midmorning",
+        "precision": "approximate",
+        "basis": "Mid-November and midmorning spoken; year from YAML"
+      },
+      "completion": "completed",
+      "note": "Many long rests occur within this voyage; their conventional durations add no extra days outside the voyage."
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u1109",
+        "endUid": "u1109"
+      },
+      "reading": "With the swarms defeated, Wellby spends a minute picking the tower-door lock.",
+      "evidence": [
+        {
+          "startUid": "u1109",
+          "endUid": "u1109",
+          "quote": "It takes you a minute to to pick the lock, but it's not a serious challenge."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Explicit completed lock-picking time"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u1130",
+        "endUid": "u1144"
+      },
+      "reading": "The three travelers take an hour-long short rest outside before entering the tower.",
+      "evidence": [
+        {
+          "startUid": "u1130",
+          "endUid": "u1132",
+          "quote": "we could short rest for an hour before we tramp in"
+        },
+        {
+          "startUid": "u1135",
+          "endUid": "u1135",
+          "quote": "I think we should rest and just go in fresh."
+        },
+        {
+          "startUid": "u1136",
+          "endUid": "u1136",
+          "quote": "Alimash: Alimash takes off armor and enjoys."
+        },
+        {
+          "startUid": "u1137",
+          "endUid": "u1137",
+          "quote": "Shoal: A refreshing breeze."
+        },
+        {
+          "startUid": "u1138",
+          "endUid": "u1140",
+          "quote": "Alimash: So how do we determine our HP for a short rest? Do we roll a hit die?"
+        },
+        {
+          "startUid": "u1138",
+          "endUid": "u1140",
+          "quote": "DM: So you can roll hit dice. Yeah, you click the short rest button and then it Yeah, they just come up as many as you Alimash didn't take that much damage. So if you click the short rest, you can roll a few, you know, two or three. It's probably enough."
+        },
+        {
+          "startUid": "u1141",
+          "endUid": "u1141",
+          "quote": "Shoal: Oh, nice for."
+        },
+        {
+          "startUid": "u1142",
+          "endUid": "u1142",
+          "quote": "Unknown: One."
+        },
+        {
+          "startUid": "u1143",
+          "endUid": "u1144",
+          "quote": "DM: That's better. It averages out, Yeah. And remember also to click the short rest button, because it will reset your short rest abilities which both fighters have."
+        },
+        {
+          "startUid": "u1166",
+          "endUid": "u1170",
+          "quote": "After the breather."
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Alimash",
+        "Shoal"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Explicit one-hour proposal accepted and completed; not inherited from session 062’s cave-specific ten-minute rests"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1855",
+        "endUid": "u1855"
+      },
+      "reading": "The first look into the workshop had about fifteen seconds of bright light before the hatch was covered.",
+      "evidence": [
+        {
+          "startUid": "u1855",
+          "endUid": "u1855",
+          "quote": "fifteen seconds of bright light that you saw before you covered it up"
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Alimash",
+        "Shoal"
+      ],
+      "duration": {
+        "value": 0.25,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM retrospectively establishes fifteen seconds of workshop illumination; converted to minutes"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1909",
+        "endUid": "u1912"
+      },
+      "reading": "Wellby spends a minute scouting for a suitable animal and finds a raccoon.",
+      "evidence": [
+        {
+          "startUid": "u1909",
+          "endUid": "u1912",
+          "quote": "you do like spend a minute kind of scouting around and and you do find a raccoon."
+        }
+      ],
+      "actors": [
+        "Wellby"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Explicit completed scouting duration"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u2344",
+        "endUid": "u2350"
+      },
+      "reading": "Gathering linens and preparing the workshop operation takes fifteen minutes in all, revising the initial ten-minute estimate.",
+      "evidence": [
+        {
+          "startUid": "u2344",
+          "endUid": "u2350",
+          "quote": "If you spend ten minutes gathering."
+        },
+        {
+          "startUid": "u2360",
+          "endUid": "u2363",
+          "quote": "it takes you fifteen minutes to gather some stuff up."
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Alimash",
+        "Shoal"
+      ],
+      "duration": {
+        "value": 15,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "DM’s final narrated preparation interval supersedes ten minutes"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u2360",
+        "endUid": "u2371"
+      },
+      "reading": "In the next minute, the party enters the smoke-filled workshop and covers all twelve mirrors.",
+      "evidence": [
+        {
+          "startUid": "u2360",
+          "endUid": "u2363",
+          "quote": "Wellby shoots his arrow and this black smoke expands to fill the room as you all jump down, and in a minute, you you only have to do four mirrors each."
+        },
+        {
+          "startUid": "u2364",
+          "endUid": "u2371",
+          "quote": "as the smoke clears, you see the giant pool of silver, which is a portal, but the mirrors are all blocked."
+        }
+      ],
+      "actors": [
+        "Wellby",
+        "Alimash",
+        "Shoal"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "exact",
+        "basis": "Narrated completed mirror-covering operation under the smoke"
+      },
+      "completion": "completed",
+      "time": {
+        "relative": {
+          "relation": "after",
+          "reference": "t11",
+          "anchor": "completion of gathering and preparation"
+        },
+        "precision": "exact",
+        "basis": "DM narrates preparation followed by the one-minute operation"
+      }
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u2949",
+        "endUid": "u2955"
+      },
+      "reading": "Arryn spends a few more minutes and casts another spell while investigating Wellby’s ebony fly.",
+      "evidence": [
+        {
+          "startUid": "u2949",
+          "endUid": "u2955",
+          "quote": "spends a few more minutes, casts another spell."
+        }
+      ],
+      "actors": [
+        "Arryn",
+        "Wellby"
+      ],
+      "duration": {
+        "text": "a few more minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Explicit additional investigation time; total examination length remains open"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u3017",
+        "endUid": "u3022"
+      },
+      "reading": "At the closing handoff, Alimash and Gyles sit down to dinner, Wellby is sent away by magic, and Shoal heads for the boat.",
+      "evidence": [
+        {
+          "startUid": "u3007",
+          "endUid": "u3016",
+          "quote": "would stay for dinner"
+        },
+        {
+          "startUid": "u3017",
+          "endUid": "u3022",
+          "quote": "And with that he casts a spell. Wellby vanishes. Shoal heads to the um to the boat, to sail back and Alimash and the steward, and then sit down to a nice dinner, and we will. We will stop there."
+        }
+      ],
+      "actors": [
+        "Alimash",
+        "Gyles",
+        "Wellby",
+        "Shoal"
+      ],
+      "time": {
+        "partOfDay": "dinner",
+        "precision": "approximate",
+        "basis": "Closing meal is named dinner; no numerical clock is given"
+      },
+      "note": "Dinner can suggest dusk for the review, but does not measure the gap since the morning investigation."
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "October (last week) departure, November (second week) squall, and mid-November arrival are spoken. The year and absolute opening/end dates come from YAML, not an independent spoken day number.",
+    "expectedDateBoundaries": 30,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t10",
+      "t11",
+      "t12",
+      "t13",
+      "t14"
+    ],
+    "explanation": "The opening directly continues the prior aboleth aftermath. About a week of outfitting, an approximately two-and-a-half-week voyage and its nested night/squall anchors fit an October-to-mid-November span, but the return-to-port duration, precise departure day and intervening gaps are not fully measured. The transcript does not independently establish all 30 boundaries; YAML end is not used to fill them. The separate dated session record places departure October 23 and arrival November 13 (about three weeks), longer than the voyage wording; the review preserves that discrepancy without changing this transcript-only duration."
+  }
+}

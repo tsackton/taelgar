@@ -1,0 +1,1344 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-066/cleaned/dunmari-frontier-066-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "99dd5a12a25d5e852cca55cde282a76b497d3e5497ec72993e2972565cddc2c4",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "2b6bd25a3259019ca05247632f911b9ab26fffb411f7e08940977f015ebe2cfe",
+        "transcriptProcessing.artifacts.cleaned": "802d2afa8bbea03d402926f5ff8b467d371ede75dd0914e7829bd451305e5337"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "npc",
+      "label": "Slain aboleth",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0001",
+            "endUid": "u0013"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0195",
+            "endUid": "u0208"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e002",
+      "kind": "npc",
+      "label": "Creature imprisoned in the amber crystal",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0165",
+            "endUid": "u0178"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0179",
+            "endUid": "u0223"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The distinct captive qualifies as a mystery entity, but Resenna identifies it only tentatively as a kraken.",
+      "names": [
+        "ancient creature",
+        "kraken"
+      ]
+    },
+    {
+      "id": "e003",
+      "kind": "item",
+      "label": "Huge amber crystal",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0006",
+            "endUid": "u0013"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0165",
+            "endUid": "u0223"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e004",
+      "kind": "npc",
+      "label": "Artem",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0090",
+            "endUid": "u0178"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Guests/Artem Novolozek.md"
+    },
+    {
+      "id": "e005",
+      "kind": "item",
+      "label": "Crystalline heart of a remorhaz",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0090",
+            "endUid": "u0109"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0130",
+            "endUid": "u0143"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0173",
+            "endUid": "u0178"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e006",
+      "kind": "npc",
+      "label": "Artem’s patron to the South",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0130",
+            "endUid": "u0143"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "Akanen’s shared note associates him with this heart bargain, but the played conversation never names the patron.",
+      "candidates": [
+        "People/Other Humans/Akanen.md"
+      ]
+    },
+    {
+      "id": "e007",
+      "kind": "organization",
+      "label": "Rodnye",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0111",
+            "endUid": "u0129"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0146",
+            "endUid": "u0164"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Urskan Magical Organizations/Rodnya.md",
+      "names": [
+        "bloodlines",
+        "eight families"
+      ]
+    },
+    {
+      "id": "e008",
+      "kind": "npc",
+      "label": "Nahto",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0070",
+            "endUid": "u0086"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0229",
+            "endUid": "u0300"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0466",
+            "endUid": "u0481"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0695",
+            "endUid": "u0720"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Kenku/Nahto.md",
+      "names": [
+        "kenku tinkerer"
+      ]
+    },
+    {
+      "id": "e009",
+      "kind": "npc",
+      "label": "Skoda",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0014",
+            "endUid": "u0023"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0070",
+            "endUid": "u0086"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0695",
+            "endUid": "u0720"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Kenku/Skoda.md"
+    },
+    {
+      "id": "e010",
+      "kind": "npc",
+      "label": "Resenna",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0180",
+            "endUid": "u0208"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0302",
+            "endUid": "u0359"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0395",
+            "endUid": "u0407"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0426",
+            "endUid": "u0481"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0652",
+            "endUid": "u0694"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Humans/Resenna.md",
+      "names": [
+        "mage",
+        "Arryn’s apprentice"
+      ]
+    },
+    {
+      "id": "e011",
+      "kind": "npc",
+      "label": "Arryn the Wanderer",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0294",
+            "endUid": "u0344"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0652",
+            "endUid": "u0720"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1660",
+            "endUid": "u1721"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2708",
+            "endUid": "u2726"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2789",
+            "endUid": "u2812"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2844",
+            "endUid": "u2851"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2900",
+            "endUid": "u2922"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u3002",
+            "endUid": "u3022"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Humans/Arryn.md",
+      "names": [
+        "Arryn",
+        "master"
+      ]
+    },
+    {
+      "id": "e012",
+      "kind": "item",
+      "label": "Kenku studded leather, enhanced",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0272",
+            "endUid": "u0293"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0466",
+            "endUid": "u0481"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Kenku Glamoured Armor.md",
+      "names": [
+        "kenku armor",
+        "kenku glamoured studded leather"
+      ]
+    },
+    {
+      "id": "e013",
+      "kind": "npc",
+      "label": "The king’s daughter Shoal courts",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0387",
+            "endUid": "u0404"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2863",
+            "endUid": "u2875"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e014",
+      "kind": "npc",
+      "label": "Rufus",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0415",
+            "endUid": "u0425"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0434",
+            "endUid": "u0451"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Guests/Rufus.md"
+    },
+    {
+      "id": "e015",
+      "kind": "npc",
+      "label": "Gyles",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1482",
+            "endUid": "u1538"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1556",
+            "endUid": "u1656"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1660",
+            "endUid": "u1730"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2344",
+            "endUid": "u2350"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2989",
+            "endUid": "u2994"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Humans/Gyles.md",
+      "names": [
+        "steward"
+      ]
+    },
+    {
+      "id": "e016",
+      "kind": "npc",
+      "label": "Wellby’s reflection",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1198",
+            "endUid": "u1224"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e017",
+      "kind": "npc",
+      "label": "Shoal’s reflection",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1225",
+            "endUid": "u1251"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e018",
+      "kind": "npc",
+      "label": "Alimash’s mirror counterpart",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1320",
+            "endUid": "u1348"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2518",
+            "endUid": "u2542"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2606",
+            "endUid": "u2627"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2815",
+            "endUid": "u2843"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "mirror Alimash"
+      ]
+    },
+    {
+      "id": "e019",
+      "kind": "npc",
+      "label": "Gyles’s reflection",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1501",
+            "endUid": "u1515"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1556",
+            "endUid": "u1570"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1623",
+            "endUid": "u1626"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e020",
+      "kind": "organization",
+      "label": "University of Tollen",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1709",
+            "endUid": "u1721"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gazetteer/Greater Sembara/Tollen/Places/University of Tollen.md"
+    },
+    {
+      "id": "e021",
+      "kind": "npc",
+      "label": "Scouting raccoon",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1909",
+            "endUid": "u1924"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1935",
+            "endUid": "u1983"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2059",
+            "endUid": "u2073"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2123",
+            "endUid": "u2155"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2156",
+            "endUid": "u2184"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e022",
+      "kind": "npc",
+      "label": "Raccoon’s mirror counterpart",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1935",
+            "endUid": "u1953"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1966",
+            "endUid": "u1983"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2059",
+            "endUid": "u2073"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2156",
+            "endUid": "u2184"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2262",
+            "endUid": "u2280"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The source establishes one counterpart at a time, but failed manifestations dissolve and recur through different surfaces; this row groups that recurring reflected identity."
+    },
+    {
+      "id": "e023",
+      "kind": "item",
+      "label": "Arryn’s research notes",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1954",
+            "endUid": "u1965"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2017",
+            "endUid": "u2056"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2400",
+            "endUid": "u2439"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e024",
+      "kind": "item",
+      "label": "Ancient book with Arryn’s marginalia",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2006",
+            "endUid": "u2016"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e025",
+      "kind": "npc",
+      "label": "Arryn’s mirror duplicate",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2109",
+            "endUid": "u2119"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2583",
+            "endUid": "u2605"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2681",
+            "endUid": "u2714"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2798",
+            "endUid": "u2812"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "workshop wizard"
+      ]
+    },
+    {
+      "id": "e026",
+      "kind": "item",
+      "label": "Silver pool and its portal circle",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1813",
+            "endUid": "u1821"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2220",
+            "endUid": "u2220"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2377",
+            "endUid": "u2386"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2414",
+            "endUid": "u2436"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2844",
+            "endUid": "u2847"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e027",
+      "kind": "item",
+      "label": "Deck of painted illusion cards",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2863",
+            "endUid": "u2875"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e028",
+      "kind": "item",
+      "label": "Ring protecting against charms and possession",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2876",
+            "endUid": "u2894"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e029",
+      "kind": "item",
+      "label": "Moonlight pearl necklace",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2912",
+            "endUid": "u2937"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e030",
+      "kind": "item",
+      "label": "Carved ebony fly",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2941",
+            "endUid": "u2972"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Campaigns/Dunmari Frontier Campaign/Treasure/Obsidian Fly.md"
+    },
+    {
+      "id": "e031",
+      "kind": "npc",
+      "label": "Agata",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2941",
+            "endUid": "u2946"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2956",
+            "endUid": "u2972"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Fey/Agata.md"
+    },
+    {
+      "id": "e032",
+      "kind": "npc",
+      "label": "Resenna’s reflection",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0322",
+            "endUid": "u0348"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "e033",
+      "kind": "item",
+      "label": "Resenna’s stolen spellbook",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0322",
+            "endUid": "u0344"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Freed sea elves, sailors and coastal raiders",
+      "reason": "Anonymous captives and an aboleth-controlled encounter group; no distinct individual identities or independently persistent organization are established.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0006",
+            "endUid": "u0023"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0415",
+            "endUid": "u0481"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Shoal’s glaive, Alimash’s frost spear, shield and existing ring; Wellby’s bowstring",
+      "reason": "Routine equipment and ability use, including suppressing reflections and loss of magic in the Mirror Realm; distinct newly granted gifts and repaired armor are included separately.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0037",
+            "endUid": "u0064"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1290",
+            "endUid": "u1297"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1829",
+            "endUid": "u1832"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2706",
+            "endUid": "u2707"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Mirror-shard swarms",
+      "reason": "Generic animated combatants with no distinct personal identity beyond the encounter; their complete actions remain in the combat extraction.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0775",
+            "endUid": "u0825"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1095",
+            "endUid": "u1102"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Small sailing ship and the initial rescue boat",
+      "reason": "Transport and played settings, without a distinct plot-object identity beyond carrying the travelers.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0415",
+            "endUid": "u0430"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0511",
+            "endUid": "u0528"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Eudomes",
+      "reason": "Only a name embedded in the proposed Feywild exit’s tower landmark; no meaningful reference to the historical person.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2938",
+            "endUid": "u2940"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Storm giant",
+      "reason": "A general question about bargaining with a storm giant, without identifying a particular individual in this exchange.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2973",
+            "endUid": "u2986"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Unnamed person who directed the raid investigation",
+      "reason": "Incidental recalled contact, without enough current identity-bearing detail to distinguish or confidently link the individual.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0250",
+            "endUid": "u0260"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0497",
+            "endUid": "u0505"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Ordinary mirrors, silver pitcher and lighting crystal",
+      "reason": "Environmental surfaces and apparatus rather than separately developed objects; retain their spatial and mechanical roles alongside the significant silver portal.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1813",
+            "endUid": "u1821"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1966",
+            "endUid": "u1983"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2518",
+            "endUid": "u2532"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Dragon whose hoard held the armor",
+      "reason": "Brief recalled acquisition source, without an identifying description of the dragon in the current passage.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0273",
+            "endUid": "u0278"
+          }
+        }
+      ]
+    }
+  ],
+  "evidenceNotes": [
+    "People/Other Humans/Akanen.md"
+  ]
+}

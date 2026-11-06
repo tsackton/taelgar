@@ -1,0 +1,100 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-066",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-066/cleaned/dunmari-frontier-066-session.yaml",
+    "sessionYamlSha256": "e5121b3cf09b4f995cfc042ea1eca20bec7b22c8034100a2a18c4610d7082d6a",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-066/cleaned/dunmari-frontier-066-transcript.md",
+    "transcriptSha256": "2b6bd25a3259019ca05247632f911b9ab26fffb411f7e08940977f015ebe2cfe"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0027"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0028",
+        "endUid": "u0774"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0775",
+        "endUid": "u1102"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u1103",
+        "endUid": "u1109"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u1110",
+        "endUid": "u1113"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u1114",
+        "endUid": "u1348"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u1349",
+        "endUid": "u1362"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1363",
+        "endUid": "u2532"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u2533",
+        "endUid": "u2851"
+      },
+      "category": "combat"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u2852",
+        "endUid": "u3022"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u3023",
+        "endUid": "u3024"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

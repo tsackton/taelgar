@@ -1,0 +1,2263 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-066/cleaned/dunmari-frontier-066-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "2b6bd25a3259019ca05247632f911b9ab26fffb411f7e08940977f015ebe2cfe"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-066/cleaned/dunmari-frontier-066-entity-map.json",
+      "sha256": "320c5dfaf78a6a5bd9044627df4d04abefd481cb63b5ae4cc2f2086883330b63"
+    }
+  },
+  "interactions": [
+    {
+      "title": "Artem reclaims the remorhaz heart and explains his flight",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e006",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e007",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0090",
+        "endUid": "u0178"
+      },
+      "lines": [
+        "%% u0090:0-159, u0091:0-36, u0092:0-23, u0093:0-2, u0094:0-78, u0095:0-24, u0096:0-20 %%",
+        "DM: And as as they all drift down, but before, they all arrived to speak with you. Um, You can see that Artem is also Ah, here, but will be leaving shortly. He, ah moves immediately to collect the ah, this crystalline heart! Um and looks over it. You all—looks at Shoal, who's eyeing it curiously, and says, “This was stolen from me. That's why I'm here.”",
+        "",
+        "%% u0097:0-11 %%",
+        "Shoal: What is it?",
+        "",
+        "%% u0098:0-17, u0099:0-45, u0100:0-29, u0101:0-12, u0102:0-56, u0103:0-67, u0104:0-8, u0105:0-26, u0106:0-3, u0107:0-54 %%",
+        "DM: Far to the north, where the snows don't even melt in the summer there's a creature that lives a great worm-like serpent buries under the snow, called the remorhaz. They keep themselves warm from the elemental power of their hearts. They are rare and difficult beasts, but can often be found on the borders of my home and Ursk.",
+        "",
+        "%% u0108:0-10, u0109:0-17 %%",
+        "DM: This is my ticket to freedom.",
+        "",
+        "%% u0110:0-17 %%",
+        "Wellby: Freedom from what?",
+        "",
+        "%% u0111:0-9, u0112:0-20, u0113:0-10, u0114:0-14, u0115:0-86, u0116:0-35, u0117:0-13, u0118:0-15, u0119:0-13, u0120:0-8, u0121:0-3, u0122:0-10 %%",
+        "DM: That is a that is a long tale. ((Unrelated setup or mechanics)) Suffice to say that if you ever find yourself in the in Ursk, beware of the to where, ah, the Rodnye.",
+        "",
+        "%% u0123:0-8 %%",
+        "Alimash: The what?",
+        "",
+        "%% u0124:0-3, u0125:0-34, u0126:0-2, u0127:0-61, u0128:0-38, u0129:0-30 %%",
+        "DM: The bloodlines in this tongue, though, uh families of wizards that rule that country with an iron fist, they keep us safe. But there is a cost, cost I was not willing to pay.",
+        "",
+        "%% u0130:0-6, u0131:0-15, u0132:0-20, u0133:0-25, u0134:0-16, u0135:0-66, u0136:0-36 %%",
+        "DM: I have contact with a, patron to the South, who will trade this heart for safety. For, as you might imagine, if you are being hunted by powerful wizards, there are a few safe places to hide.",
+        "",
+        "%% u0137:0-28, u0138:0-8 %%",
+        "Alimash: Will the patron use this for for ill?",
+        "",
+        "%% u0139:0-10 %%",
+        "DM: This item.",
+        "",
+        "%% u0140:0-5 %%",
+        "Alimash: Yeah.",
+        "",
+        "%% u0141:0-14, u0142:0-28, u0143:0-22 %%",
+        "DM: I did not ask. It is my life at stake here. What choice do I have?",
+        "",
+        "%% u0144:0-3, u0145:0-4 %%",
+        "((Brief reaction))",
+        "",
+        "%% u0146:0-42 %%",
+        "Alimash: These wizards! How many of them are there?",
+        "",
+        "%% u0147:0-9, u0148:0-24, u0149:0-19, u0150:0-16 %%",
+        "DM: There are eight families that have ruled over Ursk for for generations.",
+        "",
+        "%% u0151:0-48, u0152:0-172, u0153:0-29, u0154:0-182, u0155:0-29, u0156:0-41, u0157:0-101 %%",
+        "((Player background clarification))",
+        "",
+        "%% u0158:0-69 %%",
+        "Alimash: And these wizards they were using this item to control these pirates.",
+        "",
+        "%% u0159:0-79 %%",
+        "DM: This item? No, it was stolen from me by the aboleth. The wizards I was fleeing.",
+        "",
+        "%% u0160:0-4, u0161:0-10, u0162:0-19, u0163:0-3 %%",
+        "((Brief interruption))",
+        "",
+        "%% u0164:0-69 %%",
+        "DM: I don't think it was stolen for any particular reason. Just ill luck.",
+        "",
+        "%% u0165:0-9, u0166:0-68, u0167:0-27 %%",
+        "Shoal: You know. Is that a wizard watching right there? And I point to the eye that's moving around in the amber.",
+        "",
+        "%% u0168:0-3, u0169:0-24, u0170:0-55, u0171:0-88, u0172:0-23 %%",
+        "DM: And I know not what that is a prison, perhaps for something I wish not to be freed, and Artem looks up as this. The two kenku and this other mage are sort of drifting down. Perhaps they know more.",
+        "",
+        "%% u0173:0-6, u0174:0-4, u0175:0-24, u0176:0-55, u0177:0-20, u0178:0-19 %%",
+        "DM: I will help get these people back to safety, but then I must flee South as quickly as I can, and he scoops up the the heart. [garbled]."
+      ],
+      "reviewContext": {
+        "before": [
+          "Alimash: Actually, I just was also possessed briefly at the very end. So he's [garbled] at the very end. Yeah. Yeah. So he's probably a little dazed as well like kind of shaking back in he holds his spear, and he's like he's still has, like, you know, control over himself.",
+          "DM: Uh. So there's also, in addition to the the two kenku prisoners who are beginning to drift down to to greet you. Both. Both of them are.",
+          "Unknown: Um.",
+          "DM: There's a bit of gray in their feathers. They seem like a couple. They're like huddled next to each other. The woman who seems less wounded has her wing over the shoulder of the man as they like, drift down, seemingly comfortably able to breathe the water. This place the the the man is they're both sort of almost uh sort of ah ah, eagle-like faces, but sort of almost like ospreys like great black and white kind of patterns on their face and their design and their wings. Um, the man has like like wearing like a leather clothes with like straps, with like tinkers gear all over it. Um, A a pair of goggles that fit over his eyes that are tied around the back of his uh like on a leather strap uh around his neck, going around the back of his neck. Um, that the the woman seems to almost have a she looks somewhat more ageless seems to have almost a bit, fey glamour to her, Um, she uh carries no gear really. Um, but has uh piercing golden eyes that catch the twinkles of light in this cavern.",
+          "DM: And also descending with them, is the mage that you fought a woman Ah, Tanned, dark skin, bedraggled, looking from the and from having just sort of come to her senses wearing ah, what seemed like they were once elegant robes, but now water logged and tattered."
+        ],
+        "after": [
+          "Wellby: I'll pose that same question to the rest of the people gathered, gesturing towards the big eye prison thing. Just say, what is this?",
+          "DM: The the mage, this sort of bedraggled, looking woman? Ah, kind of drifts down, and she says, I I know not for sure but Arryn, my master to the North before he vanished under difficult circumstances; and when she says that what one of the the kenku. They sort of look at each other shocked, and and one of them says, “Arryn's gone?”",
+          "DM: What happened?",
+          "Unknown: That's kind of.",
+          "DM: Questions them for a moment. Now."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i001"
+    },
+    {
+      "title": "Resenna warns against disturbing the amber prison",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "observed"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e001",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0179",
+        "endUid": "u0223"
+      },
+      "lines": [
+        "%% u0179:0-132 %%",
+        "Wellby: I'll pose that same question to the rest of the people gathered, gesturing towards the big eye prison thing. Just say, what is this?",
+        "",
+        "%% u0180:0-53, u0181:0-38, u0182:0-21, u0183:0-20, u0184:0-12, u0185:0-18, u0186:0-5, u0187:0-24, u0188:0-49, u0189:0-79 %%",
+        "DM: The the mage, this sort of bedraggled, looking woman? Ah, kind of drifts down, and she says, I I know not for sure but ((Unrelated continuation))",
+        "",
+        "%% u0190:0-14, u0191:0-14, u0192:0-28, u0193:0-3, u0194:0-3 %%",
+        "((Interruption about Arryn))",
+        "",
+        "%% u0195:0-19, u0196:0-53, u0197:0-64, u0198:0-61 %%",
+        "DM: I believe this is a ancient creature of some sort of kraken trapped here. I would not see it freed, but I suspect it made this aberration, pointing at the aboleth, stronger than they normally would be.",
+        "",
+        "%% u0199:0-3, u0200:0-26, u0201:0-10, u0202:0-11, u0203:0-12, u0204:0-19, u0205:0-14, u0206:0-11, u0207:0-13, u0208:0-6 %%",
+        "DM: The The power of this creature it's hold— my mind was, while it was unpleasant, and not, it was strong, very strong. I would leave it be.",
+        "",
+        "%% u0209:0-74, u0210:0-34, u0211:0-13, u0212:0-4, u0213:0-11, u0214:0-23, u0215:0-87, u0216:0-36 %%",
+        "((Proposal to collapse the cave))",
+        "",
+        "%% u0217:0-61, u0218:0-33, u0219:0-30, u0220:0-17 %%",
+        "Shoal: How do we know it wouldn't come out if we, you know, broke it? Collapse the cave cracks the gem, out comes the kraken, and then we're lunch, man.",
+        "",
+        "%% u0221:0-38 %%",
+        "DM: Perhaps it would be best to just flee.",
+        "",
+        "%% u0222:0-19 %%",
+        "Shoal: How big is the gem?",
+        "",
+        "%% u0223:0-82 %%",
+        "DM: Oh, it's huge. It's like twenty feet across. Oh, it's not a Poké Ball, then. Okay."
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: And.",
+          "DM: I don't think it was stolen for any particular reason. Just ill luck.",
+          "Shoal: You know. Is that a wizard watching right there? And I point to the eye that's moving around in the amber.",
+          "DM: And I know not what that is a prison, perhaps for something I wish not to be freed, and Artem looks up as this. The two kenku and this other mage are sort of drifting down. Perhaps they know more.",
+          "DM: I will help get these people back to safety, but then I must flee South as quickly as I can, and he scoops up the the heart. [garbled]."
+        ],
+        "after": [
+          "Wellby: Well, maybe there's some way at the entrance itself to disable, destroy it, like that.",
+          "Unknown: Closed.",
+          "DM: Perhaps. Yes. Ah, one of the one of the the the Kenku tinkerer guy kind of steps forward and says: I must ask. We are extremely lucky that you came. What brings you here? Such a unusual collection of people? You—he looks over it—Shoal, I can understand coming to find your people, I guess, but [garbled] a wizard of the of a strange group.",
+          "DM: I am fortunate, indeed, that he found us. But why?",
+          "Alimash: A job."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i002"
+    },
+    {
+      "title": "Nahto offers to restore the armor’s missing wings",
+      "entities": [
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e012",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "present"
+        }
+      ],
+      "source": {
+        "startUid": "u0229",
+        "endUid": "u0293"
+      },
+      "lines": [
+        "%% u0229:0-13, u0230:0-3, u0231:0-80, u0232:0-18, u0233:0-52, u0234:0-92, u0235:0-30, u0236:0-10, u0237:0-18, u0238:0-16 %%",
+        "DM: Perhaps. Yes. Ah, one of the one of the the the Kenku tinkerer guy kind of steps forward and says: I must ask. We are extremely lucky that you came. What brings you here? Such a unusual collection of people? You—he looks over it—Shoal, I can understand coming to find your people, I guess, but [garbled] a wizard of the of a strange group.",
+        "",
+        "%% u0239:0-28, u0240:0-16, u0241:0-3, u0242:0-5, u0243:0-19, u0244:0-11, u0245:0-15, u0246:0-34, u0247:0-3, u0248:0-24, u0249:0-24 %%",
+        "((Brief explanations of the raid investigation))",
+        "",
+        "%% u0250:0-12, u0251:0-129, u0252:0-11, u0253:0-57, u0254:0-80, u0255:0-10, u0256:0-71, u0257:0-13, u0258:0-39, u0259:0-19, u0260:0-34 %%",
+        "Wellby: For my part, I wouldn't have said No, to begin with, but it so happens that I'm looking for you. And this is gonna sound a little strange. But a month ago I woke up something like two thousand miles west of here. I think I can find my way back home again if I can get into the Feywild and back out again, and know a couple of places to get out. But I don't know how to get in. I was told by insert name here. His name. I forget um that you might know how to find a way into the Feywild.",
+        "",
+        "%% u0261:0-7, u0262:0-43, u0263:0-60, u0264:0-21 %%",
+        "DM: Oh, uh, I I am afraid I have some bad news for you, person you are looking for, and he points over at the woman. It's her master. I'm.",
+        "",
+        "%% u0265:0-4 %%",
+        "Wellby: Hmm.",
+        "",
+        "%% u0266:0-18, u0267:0-11, u0268:0-30, u0269:0-84, u0270:0-3, u0271:0-57 %%",
+        "DM: Friend of Arryn's. A good man, perhaps. Perhaps. Um, well, um, a little too interested in other dimensions, for one's to be truly a healthy person. Ah, but fascinating, fascinating! He, he takes a look at you.",
+        "",
+        "%% u0272:0-29 %%",
+        "DM: Where did you get that armor?",
+        "",
+        "%% u0273:0-86, u0274:0-52, u0275:0-16, u0276:0-3, u0277:0-28, u0278:0-27 %%",
+        "Wellby: And with that question I let the glamour drop from it, and it's studded leather armor, maybe embossed with designs of wings or feathers, or kenku in flight. Uh, I found it in a dragon hoard a little ways west of here.",
+        "",
+        "%% u0279:0-52, u0280:0-32, u0281:0-23 %%",
+        "DM: Fascinating, fascinating. You are full of surprises. You know it's it's broken, right? I I think I can fix it.",
+        "",
+        "%% u0282:0-56, u0283:0-56, u0284:0-34 %%",
+        "Wellby: No, I don't. I don't think it's broken because it it can glamour, and I I figured out how to do the feather fall. I think it works just fine, right?",
+        "",
+        "%% u0284:34-57 %%",
+        "DM: But where are the wings?",
+        "",
+        "%% u0285:0-81 %%",
+        "Wellby: Gestured to the teeny little designs of wings embossed on the front. No, tell me.",
+        "",
+        "%% u0286:0-3, u0287:0-57, u0288:0-18, u0289:0-56 %%",
+        "DM: Ah, he says, he says a word in in Kenku, and nothing happens. It should be wings coming out of the back when when we say the the command.",
+        "",
+        "%% u0290:0-72 %%",
+        "Wellby: Oh, yeah, there definitely aren't wings. No, that's that. That's fair.",
+        "",
+        "%% u0291:0-25, u0292:0-10, u0293:0-33 %%",
+        "DM: Oh, okay, yeah, Well, Um, hmm. Maybe I can take a look at it for you.",
+        "",
+        "%% u0293:33-72 %%",
+        "Wellby: That would be amazing. Yeah, thank you."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Perhaps it would be best to just flee.",
+          "Shoal: How big is the gem?",
+          "DM: Oh, it's huge. It's like twenty feet across. Oh, it's not a Poké Ball, then. Okay.",
+          "Wellby: Well, maybe there's some way at the entrance itself to disable, destroy it, like that.",
+          "Unknown: Closed."
+        ],
+        "after": [
+          "DM: But ah, yeah, um. You want to get to the Feywild. She he looks over at the mage. But what? What? What did happen to Arryn? Because Um, yeah, he can. He definitely knows magic that can shift people to other planes. Um right, but he's missing.",
+          "Unknown: And.",
+          "DM: That the woman says. Yes, um, I was fleeing to seek help so well. My master Arryn, sometimes known as Arryn the Wanderer. He's a traveled all over the world. He comes, maybe, from near where you are, from far to the west, but it's called Tollen. Yeah. He has recently been experimenting with a—for a long time I did not think it was real—hypothesized plane called the Mirror Realm. There's few descriptions of it, and no proof that it even exists. But he was convinced.",
+          "DM: About a month ago I was downstairs studying my spellbooks. He was upstairs in his workshop, and a hand reached out of the silver water pitcher on the table. It looked like my hand, my reflection grabbing for me, and I jumped back in it took my spell book and pulled it into the pitcher, which began to stretch and grow, and for a moment I saw my reflection, but it did not mirror my movements, and I heard a crack, crash, and I ran upstairs to see a mirror, a great mirror that he had been working on with cracked into many pieces, and the reflection of my master jumping from shard to shard distorted, shattered, but no sign of him, and then I saw myself reaching for me from the mirror on the wall, and I I smashed it, and I and I ran.",
+          "Unknown: Yeah."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i003"
+    },
+    {
+      "title": "Resenna recounts Arryn’s disappearance and offers help",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e032",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e033",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0302",
+        "endUid": "u0359"
+      },
+      "lines": [
+        "%% u0302:0-14, u0303:0-5, u0304:0-8, u0305:0-26, u0306:0-2, u0307:0-5, u0308:0-55, u0309:0-6, u0310:0-45, u0311:0-46, u0312:0-23, u0313:0-5, u0314:0-2, u0315:0-36, u0316:0-1, u0317:0-44, u0318:0-12, u0319:0-30, u0320:0-65, u0321:0-21 %%",
+        "DM: That the woman says. Yes, um, I was fleeing to seek help so well. My master Arryn, sometimes known as Arryn the Wanderer. He's a traveled all over the world. He comes, maybe, from near where you are, from far to the west, but it's called Tollen. Yeah. He has recently been experimenting with a—for a long time I did not think it was real—hypothesized plane called the Mirror Realm. There's few descriptions of it, and no proof that it even exists. But he was convinced.",
+        "",
+        "%% u0322:0-17, u0323:0-73, u0324:0-3, u0325:0-60, u0326:0-23, u0327:0-13, u0328:0-41, u0329:0-18, u0330:0-64, u0331:0-73, u0332:0-5, u0333:0-21, u0334:0-35, u0335:0-31, u0336:0-15, u0337:0-12, u0338:0-12, u0339:0-85, u0340:0-15, u0341:0-30, u0342:0-6, u0343:0-34, u0344:0-29 %%",
+        "DM: About a month ago I was downstairs studying my spellbooks. He was upstairs in his workshop, and a hand reached out of the silver water pitcher on the table. It looked like my hand, my reflection grabbing for me, and I jumped back in it took my spell book and pulled it into the pitcher, which began to stretch and grow, and for a moment I saw my reflection, but it did not mirror my movements, and I heard a crack, crash, and I ran upstairs to see a mirror, a great mirror that he had been working on with cracked into many pieces, and the reflection of my master jumping from shard to shard distorted, shattered, but no sign of him, and then I saw myself reaching for me from the mirror on the wall, and I I smashed it, and I and I ran.",
+        "",
+        "%% u0345:0-5 %%",
+        "((Brief acknowledgment))",
+        "",
+        "%% u0346:0-25, u0347:0-16, u0348:0-33 %%",
+        "DM: And that's how I got here caught on a ship trying to flee back home to Medju.",
+        "",
+        "%% u0349:0-5, u0350:0-22, u0351:0-39, u0352:0-71 %%",
+        "Wellby: Well, for better, for worse, whether it's what you hoped for or not, I think That's the person I need to find to get myself back home again.",
+        "",
+        "%% u0353:0-7, u0354:0-25, u0355:0-15 %%",
+        "DM: I would certainly guide you there if you wish it.",
+        "",
+        "%% u0356:0-26 %%",
+        "Wellby: What about the two of you?",
+        "",
+        "%% u0357:0-49, u0358:0-16, u0359:0-12 %%",
+        "DM: I am sure there is much my master could give you were you to help restore him."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Oh, yeah, there definitely aren't wings. No, that's that. That's fair.",
+          "DM: Oh, okay, yeah, Well, Um, hmm. Maybe I can take a look at it for you.",
+          "Wellby: That would be amazing. Yeah, thank you.",
+          "DM: But ah, yeah, um. You want to get to the Feywild. She he looks over at the mage. But what? What? What did happen to Arryn? Because Um, yeah, he can. He definitely knows magic that can shift people to other planes. Um right, but he's missing.",
+          "Unknown: And."
+        ],
+        "after": [
+          "Alimash: I have been curious about these wizards.",
+          "Wellby: Well done, maybe let's get ourselves back to land first and make a plan from there.",
+          "Alimash: Alimash grunts in affirmation.",
+          "Wellby: So you got sorry. Go ahead. Uh well, I I This seems the appropriate moment to to loot the lair. Is there Is there anything in here to to loot?",
+          "DM: Ah, there is. So there's um a total of about uh three thousand silver coins in various denominations, and maybe five or six hundred gold coins and um that are easily recoverable. Um."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i004"
+    },
+    {
+      "title": "Resenna promises a suitable gift for Shoal’s courtship",
+      "entities": [
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e005",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0387",
+        "endUid": "u0407"
+      },
+      "lines": [
+        "%% u0387:0-80, u0388:0-4, u0389:0-68, u0390:0-47, u0391:0-99, u0392:0-7, u0393:0-90, u0394:0-32 %%",
+        "Shoal: Well, that's actually what I'm the most interested in. Not coins per se. But um, I am trying to catch the eye of a king's daughter, and so I'm looking for something worthy of of presenting to someone so well provided for, I suppose. Uh, I had my eye on that on that beast heart two moments ago. But uh, perhaps perhaps this journey to find the Wizard, and into the Feywild would provide something that um you don't normally find here.",
+        "",
+        "%% u0395:0-31, u0396:0-35, u0397:0-10, u0398:0-17, u0399:0-94 %%",
+        "DM: Whose name is Resenna, says um, I, I am sure my master Arryn could, should you return him to us, could provide any number of magical trinkets that would be sure to catch the eye of your lady.",
+        "",
+        "%% u0400:0-43 %%",
+        "DM: Looks at you like kind of asking your name?",
+        "",
+        "%% u0401:0-26 %%",
+        "Shoal: Yes, I'm Shoal Nightwater.",
+        "",
+        "%% u0402:0-15, u0403:0-50 %%",
+        "DM: Sure, yes, I uh I I feel confident in making that promise for him.",
+        "",
+        "%% u0404:0-94 %%",
+        "Shoal: Well, then, my glaive is yours once I'm sure that these other sea elves are well on their way.",
+        "",
+        "%% u0405:0-30, u0406:0-33, u0407:0-58 %%",
+        "DM: Yes, it will take some time to get everybody settled and stock a boat for the journey. It's a few weeks' sail to the north."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Ah, there is. So there's um a total of about uh three thousand silver coins in various denominations, and maybe five or six hundred gold coins and um that are easily recoverable. Um.",
+          "DM: There's yeah. So so a lot of the trade goods that were taken have now, you know, are so there's you know, a a couple of chests of spices that are just totally ruined. Um, there's some bolts of cloth that are totally ruined. Um, it, it seems mostly to be a sort of haphazard collection of, you know, scattered ah, Like whatever was in the hold of ships that caught the eye of somebody who was primarily interested in kidnapping. There is the ah, The arms and armor of the the elves are are elaborate, but of course they want that back now that they're no longer enslaved.",
+          "DM: Um, not yeah. Most of what it's it almost looks like It's more like it's clear that this creature wasn't really interested in treasure. And so what's here is is kind of scattered but back, like it looks like it looks like, uh, if somebody sort of cut open a a caravan and it's just everything just kind of strewn around the floor. Um, basically. The things that are metal are the things that survived.",
+          "Alimash: How much of the money can we take like physically?",
+          "DM: It's not that—I mean, a few thousand coins isn't really that heavy. So yeah, you can take as much as you want."
+        ],
+        "after": [
+          "Alimash: Alimash is taking all the high value currency.",
+          "DM: There we go.",
+          "Wellby: Wellby won't collect any of the money, but I will gather like personal effects and things from the anyone who didn't make it. I will use the passive voice to... But um, you know, to term... Return that to.",
+          "Unknown: So whatever.",
+          "Shoal: I'll take a reasonable share of the silver, just to have some walking around money."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i005"
+    },
+    {
+      "title": "Rufus recognizes the curse and the captives seek sea-elf refuge",
+      "entities": [
+        {
+          "id": "e014",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "cameo",
+          "action": "interacted"
+        },
+        {
+          "id": "e009",
+          "role": "cameo",
+          "action": "present"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0434",
+        "endUid": "u0481"
+      },
+      "lines": [
+        "%% u0434:0-70, u0435:0-32, u0436:0-7, u0437:0-15, u0438:0-18, u0439:0-11, u0440:0-12, u0441:0-7, u0442:0-15, u0443:0-34, u0444:0-42, u0445:0-22, u0446:0-43, u0447:0-44, u0448:0-22, u0449:0-13, u0450:0-14, u0451:0-34 %%",
+        "DM: And Rufus, who is a monster hunter and knows about this sort of thing, looks at them all, and says, Ah, I heard stories of this sea creatures that curse those they enslave to burn in the dry air. I'm sure there must be a cure. But what, I don't know. Turns to Shoal. Perhaps your people might know somewhere in the ancient lore of the elves, and looks over at the three sea elves would... But they be willing to take these to your home, and keep them till a cure can be found.",
+        "",
+        "%% u0452:0-29, u0453:0-60, u0454:0-30 %%",
+        "DM: Unfortunately, that will mean you'll have to journey by yourself to the Wizards Tower. But Resenna says, “I can draw a map.”",
+        "",
+        "%% u0455:0-62, u0456:0-48 %%",
+        "Shoal: I haven't really had a chance to speak with the elves yet, but we are a kind folk. I'm sure that they would go.",
+        "",
+        "%% u0457:0-23, u0458:0-62, u0459:0-16, u0460:0-8, u0461:0-45 %%",
+        "DM: Resenna says, It seems. Perhaps I will not be able to journey with you, after all. But I wish you luck. She like splashes the water on herself. That's better.",
+        "",
+        "%% u0462:0-35, u0463:0-31, u0464:0-57 %%",
+        "DM: Ducks her face under, and it's like we can still breathe the stuff. If I'm going to be stuck living underwater for some time.",
+        "",
+        "%% u0465:0-91 %%",
+        "((Question about directions))",
+        "",
+        "%% u0466:0-55, u0467:0-6, u0468:0-13, u0469:0-6, u0470:0-21, u0471:0-28, u0472:0-24, u0473:0-32, u0474:0-8, u0475:0-53, u0476:0-26, u0477:0-46, u0478:0-3, u0479:0-64, u0480:0-43, u0481:0-20 %%",
+        "DM: To the Vermillion Islands. You you get a ship outfitted uh the um. kenku. Uh fix up uh your armor, Wellby, so there is a... There is a um kenku—what is it called? Kenku studded leather, enhanced, and then draw a map like, get you... I mean, Wellby can sail up, Shoal presumably can sail. Alimash has stood on the decks of ships before um, and the sea elves are happy to sort of escort everybody back and keep them safe in the sea elf kingdom until a cure can be found."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Um. So as you gather the stuff and and head up uh through the caves um, and and exit the the cave system and come back up to your boat. Everybody um sort of swimming as soon as all of the, the—so there's about ten people. There's like the sea elves. There's a handful of sailors. There's the mage. Resenna. There's the two kenku um. They can, you know. Basically your boat is pretty packed, but manageable. But there's also Rufus, who was unconscious. But you'll bring them back um.",
+          "DM: All of the after, maybe, you know, climbing out into your boat and starting to sail. Ah, you can see you see, like um, Resenna start to like um rub her hands, and her skin is starting to like dry out and become like scaly and cracked, and she she's like ah, um, and you see everybody else who is enslaved by this creature for more than a few seconds is like starting. Her skin is starting to crack. She like dips it in the water in the water. It's nice.",
+          "Unknown: Uh-huh.",
+          "Wellby: Huh!",
+          "DM: The one of the kenku is like you know, flies up and dives underwater, and it's like comes back up after getting wet. And so that's better."
+        ],
+        "after": [
+          "Alimash: Um quick question how much of the money like? How much is it like for context?",
+          "DM: So it's like it's, you know, up to like three, four hundred gold. So that's I mean, that's a pretty decent fortune, right like a a but a skilled, uneducated labor, like a blacksmith or a uh, a farrier or an armorer would would fix, could expect to make something like one gold a day. So that's like a year's salary of like uh, you know, lower middle class laborer.",
+          "Alimash: Is this enough? Alimash is, does not like magic, and is dealing with magic. Is this enough for him to buy a pendant, a ring, or something to prevent the mind control thing, or some other magical protection? Or does he need more money for that?",
+          "DM: Um! And where would you buy a magic item, anyway? Right? It's not like there's a magic item store in Vermillion Isles.",
+          "Alimash: He buys himself a nice dinner. Then."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i006"
+    },
+    {
+      "title": "Wellby’s reflection reaches out of a puddle",
+      "entities": [
+        {
+          "id": "e016",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1198",
+        "endUid": "u1224"
+      },
+      "lines": [
+        "%% u1198:0-71, u1199:0-23 %%",
+        "Wellby: I'm going to pour some water out on the floor and make a little puddle. Let's see what happens.",
+        "",
+        "%% u1200:0-49, u1201:0-16 %%",
+        "DM: You You look, you see a reflection in the puddle. It waves at you.",
+        "",
+        "%% u1202:0-27 %%",
+        "Wellby: Smiles, but I am not waving.",
+        "",
+        "%% u1203:0-26 %%",
+        "DM: Sort of motions like this.",
+        "",
+        "%% u1204:0-91 %%",
+        "Wellby: No, no, you, you first you come out here first. I'll go in there with you after you come out.",
+        "",
+        "%% u1205:0-4, u1206:0-42, u1207:0-7, u1208:0-12 %%",
+        "DM: That the hand begins to reach out of the water. Sort of feel around.",
+        "",
+        "%% u1209:0-21, u1210:0-98, u1211:0-5, u1212:0-218, u1213:0-54, u1214:0-7, u1215:0-25, u1216:0-67, u1217:0-56 %%",
+        "((Discussion of whether to pull the reflection free))",
+        "",
+        "%% u1218:0-105, u1219:0-130, u1220:0-46 %%",
+        "Wellby: ((Unrelated setup or mechanics)) Well, actually I'll I'll toss like a my cloak or a shirt, or something like that over the puddle in an effort to soak it up. Okay, how does it interact with the hand like? Is it.",
+        "",
+        "%% u1221:0-99, u1222:0-132 %%",
+        "DM: Draping over the thing like the hand is made out of as soon as you like hold your cloak up so that so that you're breaking the line of sight between the puddle and you and start to throw it over. The hand just collapses into water.",
+        "",
+        "%% u1223:0-72, u1224:0-32 %%",
+        "Alimash: But we all saw the hand right, not just. Oh, yeah, you all saw it. Yeah, but it's Wellby's line of sight."
+      ],
+      "reviewContext": {
+        "before": [
+          "Alimash: Yeah, I am not going to be surprised by something.",
+          "DM: Uh, so. Um.",
+          "DM: Yeah. Wellby you would notice this. There are, uh, so there are places on. So there's in this big audience chamber on on two of the walls there are places where something mirror shaped once hung like you can tell that the wall like it's discolored, and you know the sun has faded the stone everywhere around this one spot that's you know, about three feet wide and about six feet tall, but there is nothing there, and in fact, there is. There are no reflecting surfaces like anywhere in this room.",
+          "DM: There's the candelabra like which is, or chandelier hanging that has candles in it. But it's the the metal, the the it almost—it actually looks now that you're looking at it like somebody's gone with like some sort of like resin or shoe polish, and like rubbed it so that it's dull and unreflective.",
+          "Shoal: What I like to see."
+        ],
+        "after": [
+          "Wellby: Well, so you you you try. Look, Look at the puddle. See what happens.",
+          "Shoal: Me? Oh, man, all right. I take a peek. Is it Wellby?",
+          "DM: No, you see yourself.",
+          "Shoal: Man, my puddle is way better looking than yours was man.",
+          "Wellby: Because my mine was a halfling."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i007"
+    },
+    {
+      "title": "Shoal’s reflections move independently",
+      "entities": [
+        {
+          "id": "e017",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u1225",
+        "endUid": "u1251"
+      },
+      "lines": [
+        "%% u1225:0-69 %%",
+        "Wellby: Well, so you you you try. Look, Look at the puddle. See what happens.",
+        "",
+        "%% u1226:0-38, u1227:0-14 %%",
+        "Shoal: Me? Oh, man, all right. I take a peek. Is it Wellby?",
+        "",
+        "%% u1228:0-21 %%",
+        "DM: No, you see yourself.",
+        "",
+        "%% u1229:0-56, u1230:0-30, u1231:0-12, u1232:0-36, u1233:0-34 %%",
+        "((Banter about the reflections))",
+        "",
+        "%% u1234:0-13, u1235:0-26, u1236:0-99 %%",
+        "Shoal: Yeah, I know. Oh, it doesn't want me to. No, man. I'm, I'm not into this, and I just like push the puddle across the floor and smear it out.",
+        "",
+        "%% u1237:0-12 %%",
+        "DM: It vanishes.",
+        "",
+        "%% u1238:0-17, u1239:0-3, u1240:0-1, u1241:0-26, u1242:0-26, u1243:0-5, u1244:0-16 %%",
+        "Shoal: It's like Mickey. Um, I I take a look at my glaive like the flat of my blade. Is it me in my glaive?",
+        "",
+        "%% u1245:0-35, u1246:0-2, u1247:0-18, u1248:0-58, u1249:0-9, u1250:0-7, u1251:0-184 %%",
+        "DM: Oh, yeah, that's pretty reflective. Uh, yeah, you see you, I mean. It's distorted right? It's not a clear reflection. Yeah, Um. Ah, the your head kind of turn like It's mostly tracking you as you move. Occasionally the eyes will dart in a direction you're not looking, like it's trying to look around and see where it is."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: An evil twin? I mean, there's a certain like storybook charm to it.",
+          "Alimash: How will we know which one is you, and which one is that?",
+          "Wellby: I just starts. I I go to the edge of the puddle, and I start slurping at it like making the puddle small. Well, actually I'll I'll toss like a my cloak or a shirt, or something like that over the puddle in an effort to soak it up. Okay, how does it interact with the hand like? Is it.",
+          "DM: Draping over the thing like the hand is made out of as soon as you like hold your cloak up so that so that you're breaking the line of sight between the puddle and you and start to throw it over. The hand just collapses into water.",
+          "Alimash: But we all saw the hand right, not just. Oh, yeah, you all saw it. Yeah, but it's Wellby's line of sight."
+        ],
+        "after": [
+          "Shoal: What is so. There are metal. There is metal that we can see in the room that has been sort of dulled.",
+          "DM: Yeah, so the the the chandelier is this big like crystal and um, I guess it's like mostly made of silver like It's got a bunch of these branches of silver, but it's been it's been sort of smeared with some sort of like grayish substance, so that it's not reflective. Is there anything we could reach that has been smeared out like that? Uh? So there's the two things that were on the wall that have been removed, whatever they were possibly mirrors. Um, and there's uh so there's like a there's like a round table wooden table, and then there is like a um a set of chairs around the table. It's like a It's like a you know, like conference room type set up. There's a There's a huge tapestry on one wall that's that's you know, woven cloth. There's nothing else. Everything else is wood and stone and cloth.",
+          "DM: How is this area lit? Sunlight. There's windows, there's light coming into the windows.",
+          "Alimash: FYI, no light, no reflections that can be useful information. Presumably, if that's how that works.",
+          "Shoal: Presumably. Um, do I have dark vision?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i008"
+    },
+    {
+      "title": "Alimash tests a reflection of a reflection",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1320",
+        "endUid": "u1348"
+      },
+      "lines": [
+        "%% u1320:0-47, u1321:0-6, u1322:0-115, u1323:0-44 %%",
+        "Alimash: Okay, this sound good, Wellby. You seem to know magic. Yeah. Okay. So like takes a deep breath, grabs his um spear and his shield like It's going to do anything and steps the intersecting space to do the experiment.",
+        "",
+        "%% u1324:0-3, u1325:0-2, u1326:0-51, u1327:0-60, u1328:0-43, u1329:0-3, u1330:0-3, u1331:0-41, u1332:0-59, u1333:0-3, u1334:0-12 %%",
+        "DM: Um. So yeah, like you're looking down at the pool of water sort of aside, and you're holding a glaive up above to that. His reflection was reflected in the glaive. Um, the as before, you see yourself in the water. Uh again, it's like the reflection is mostly mirroring you. Um, but then, uh.",
+        "",
+        "%% u1335:0-61, u1336:0-22, u1337:0-68, u1338:0-46 %%",
+        "DM: You're just kind of You're sort of standing there defensively and like a spear comes shooting out of the water up towards it. You knock it away with your with your shield as you're expecting this, but.",
+        "",
+        "%% u1339:0-53 %%",
+        "Alimash: So I immediately like, jump out of the line of sight.",
+        "",
+        "%% u1340:0-55, u1341:0-44, u1342:0-57 %%",
+        "DM: But there's nothing happening with the glaive. It's not it's just the pool of water. There's nothing. A reflection of a reflection doesn't seem to do anything.",
+        "",
+        "%% u1343:0-22, u1344:0-14, u1345:0-56 %%",
+        "Alimash: It seems to mirror our mood. Possibly one was flirtatious. One was curious, and one was angry.",
+        "",
+        "%% u1346:0-55 %%",
+        "Wellby: So there's some aspect of ourself in these reflections.",
+        "",
+        "%% u1347:0-3, u1348:0-31 %%",
+        "((Brief speculation about projected selves))"
+      ],
+      "reviewContext": {
+        "before": [
+          "Alimash: Right then there, if we can put the glaive at a safe distance over the puddle and see how the the two interact.",
+          "Shoal: We also need. We'd also need somebody to reflect, right? I think the glaive just looking at a puddle won't do anything.",
+          "Wellby: Actually. Yeah, have a mirror that I've never used my my inventory from way back. So we've got at least one mirror at least one non magical mirror. Tim: Yeah.",
+          "DM: You've got a bunch of mirrors actually somewhere in the back of Alimash's mind is some weird memory about a scary mirror. He doesn't know where it's from.",
+          "Shoal: So if you want to try this I can. I hold the glaive up, and you stand in between it, and Wellby's mirror, and we see what the front of your head and the back of your head do?"
+        ],
+        "after": [
+          "Shoal: Just as a quick aside. I'm curious whether the webcam will do that old school trick with the with video. If I turn it on itself, does it do the internet? Yeah, not quite. I tried to turn off my background. But it I think Jen has got it program to.",
+          "DM: Let me. I got it. Well, now, hold on! Ah, how do I?",
+          "Alimash: I only wish Linux would act. This is the first time Zoom has not had the full feature set.",
+          "Shoal: All right. Let's see. So this is it's still. Oh, that's because I've got mine on right now. Still, hold on.",
+          "Unknown: Program."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i009"
+    },
+    {
+      "title": "Gyles describes his ordeal and gives the song clue",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e019",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e020",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1414",
+        "endUid": "u1730"
+      },
+      "lines": [
+        "%% u1414:0-2, u1415:0-3, u1416:0-93, u1417:0-50, u1418:0-21 %%",
+        "DM: Uh um, there's, there's a cough. There's like a a a startled sound like cough from the other side, and like muttering like, No, it can't be. It can't be. Who is it? Who is it?",
+        "",
+        "%% u1419:0-65 %%",
+        "Alimash: Real people, not mirror beings? We were sent by? What's her name?",
+        "",
+        "%% u1420:0-16, u1421:0-55, u1422:0-3, u1423:0-11 %%",
+        "((Brief banter))",
+        "",
+        "%% u1424:0-128 %%",
+        "DM: Like this. You hear the sound of a chair scooting back and like somebody backing away, the footsteps backing away from the door.",
+        "",
+        "%% u1425:0-29 %%",
+        "Wellby: From who who are you, though?",
+        "",
+        "%% u1426:0-53 %%",
+        "DM: Another. You hear the sound of another door shutting.",
+        "",
+        "%% u1427:0-15, u1428:0-3, u1429:0-74, u1430:0-124, u1431:0-9, u1432:0-3, u1433:0-20, u1434:0-26, u1435:0-69, u1436:0-111, u1437:0-8, u1438:0-241, u1439:0-4, u1440:0-156, u1441:0-54, u1442:0-2, u1443:0-20, u1444:0-13, u1445:0-102, u1446:0-22, u1447:0-76, u1448:0-50, u1449:0-114, u1450:0-3, u1451:0-24, u1452:0-208, u1453:0-50, u1454:0-80, u1455:0-110, u1456:0-36, u1457:0-3, u1458:0-108, u1459:0-3, u1460:0-187 %%",
+        "((The party enters the disordered kitchen))",
+        "",
+        "%% u1461:0-52, u1462:0-12 %%",
+        "Wellby: Alright, well, it's we'll go over to the bedroom and knock again.",
+        "",
+        "%% u1463:0-21 %%",
+        "Shoal: Steward. Oh, steward.",
+        "",
+        "%% u1464:0-49 %%",
+        "DM: We're we're here to rescue. Back, foul creatures!",
+        "",
+        "%% u1465:0-26, u1466:0-24, u1467:0-93, u1468:0-78, u1469:0-48, u1470:0-113, u1471:0-71 %%",
+        "((Banter and rules query))",
+        "",
+        "%% u1472:0-5, u1473:0-30, u1474:0-74, u1475:0-23 %%",
+        "Alimash: Okay. If you don't get out of there, we're going. I'm going to pour some nice reflective water under the doors, the door into your room.",
+        "",
+        "%% u1476:0-4 %%",
+        "((Interruption))",
+        "",
+        "%% u1477:0-11, u1478:0-34, u1479:0-34, u1480:0-19 %%",
+        "DM: ((Unrelated setup or mechanics)) Keep, keep him away.",
+        "",
+        "%% u1481:0-114 %%",
+        "Wellby: I loudly stomp walking away so he knows I'm not at the door. Get out of here, water, man! Don't be mean like that?",
+        "",
+        "%% u1482:0-56, u1483:0-106, u1484:0-48, u1485:0-40, u1486:0-3, u1487:0-18, u1488:0-129, u1489:0-29, u1490:0-3 %%",
+        "DM: Um the door like slowly creaks open, and you see this um like middle-aged man, you know, wearing sort of plain um like a plain black tunic and and leggings um like unshaven, unkempt hair like looks like he hasn't—smells like he hasn't bathed in a month. Um, ah, you know, like sort of brown brownish dark brown hair, but it's like just completely wild. It's got like a bushy beard that's out of control um, and kind of wide-eyed and and uh.",
+        "",
+        "%% u1491:0-183, u1492:0-23 %%",
+        "DM: Exhausted, looking like bags under his eyes. Um, peeks out from the door. Um sees, sees you, and and and immediately like points at the shiniest object which is Shoal's glaive is like, “Get it out! Get it out!”",
+        "",
+        "%% u1493:0-77 %%",
+        "Shoal: I mean It's fine, man, and I like hold it up to my face, and nothing happens.",
+        "",
+        "%% u1494:0-38 %%",
+        "DM: What are you? What are you doing here?",
+        "",
+        "%% u1495:0-63 %%",
+        "Wellby: We're here to rescue Master Arryn, and anyone else. I mean you.",
+        "",
+        "%% u1496:0-5 %%",
+        "((Acknowledgment))",
+        "",
+        "%% u1497:0-31, u1498:0-7 %%",
+        "DM: I I I don't. I don't believe it really.",
+        "",
+        "%% u1499:0-5, u1500:0-62 %%",
+        "Wellby: Yeah. So and so sent us. What happened? Yeah, what, what happened here?",
+        "",
+        "%% u1501:0-5, u1502:0-5, u1503:0-19, u1504:0-13, u1505:0-33 %%",
+        "DM: After after master vanished and Resenna fled. But they came out of the mirrors.",
+        "",
+        "%% u1506:0-4 %%",
+        "Unknown: They.",
+        "",
+        "%% u1507:0-18, u1508:0-22, u1509:0-18, u1510:0-29, u1511:0-20, u1512:0-6, u1513:0-10, u1514:0-11, u1515:0-45 %%",
+        "DM: I didn't know what to think at first that he looked like me, and he said he would help me. He was friendly, and but he trying to. He tried to take my my body and send me into the mirrors.",
+        "",
+        "%% u1516:0-61 %%",
+        "Wellby: How do we know that you're really you and not the mirror? You.",
+        "",
+        "%% u1517:0-12, u1518:0-23 %%",
+        "Shoal: Hold up, you holds up his left hand.",
+        "",
+        "%% u1519:0-29 %%",
+        "Unknown: Only the real you would know.",
+        "",
+        "%% u1520:0-4, u1521:0-3, u1522:0-186, u1523:0-44, u1524:0-44 %%",
+        "DM: I um um, ah, I ask him to write his name in in the dust on the table and see if he writes it forward or back. He, he—he writes it, he writes it normally. Um, his name is Gyles. ((Unrelated continuation))",
+        "",
+        "%% u1525:0-45, u1526:0-63, u1527:0-26, u1528:0-77 %%",
+        "((Favorite-fish banter))",
+        "",
+        "%% u1529:0-7, u1530:0-112 %%",
+        "Wellby: No, um, you know. Seriousness the ha! How did you? How did you get rid of the mirror version of you? Where are they now?",
+        "",
+        "%% u1531:0-3, u1532:0-17, u1533:0-14, u1534:0-31 %%",
+        "DM: I I broke the mirrors threw them out threw them, out the window. And.",
+        "",
+        "%% u1535:0-5 %%",
+        "DM: Yeah.",
+        "",
+        "%% u1536:0-15, u1537:0-25, u1538:0-5 %%",
+        "Wellby: Oh, Yeah, yeah, we ground them into dust. Yeah.",
+        "",
+        "%% u1539:0-85, u1540:0-17, u1541:0-97, u1542:0-64, u1543:0-86, u1544:0-51 %%",
+        "((Bad-luck jokes about broken mirrors))",
+        "",
+        "%% u1545:0-30, u1546:0-20, u1547:0-29, u1548:0-4, u1549:0-9, u1550:0-53, u1551:0-31 %%",
+        "DM: Interesting. Arryn was was is, if he's still alive, obsessed with mirrors lately, then trying to make magic mirrors and and find this mirror realm and lots of mirrors I had to break.",
+        "",
+        "%% u1552:0-38 %%",
+        "Shoal: Is his reflecting pool still up there?",
+        "",
+        "%% u1553:0-28, u1554:0-10, u1555:0-23 %%",
+        "DM: I didn't go to the workshop. I couldn't too scared, too scared.",
+        "",
+        "%% u1556:0-35, u1557:0-11, u1558:0-73, u1559:0-15 %%",
+        "Shoal: And you don't know what's up there. Your buddy—had he come out of the mirror already, or you were just chatting with him on either side?",
+        "",
+        "%% u1560:0-17, u1561:0-18, u1562:0-5, u1563:0-30, u1564:0-81 %%",
+        "DM: He he reached out and he grabbed me, and I I could feel him him trying to grab hold of my mind, and I didn't know what else to do. I smashed my the mirror.",
+        "",
+        "%% u1565:0-6, u1566:0-8, u1567:0-29, u1568:0-41, u1569:0-16, u1570:0-39 %%",
+        "DM: And he vanished into a thousand shards, and I got it all outside as quickly as I could, and went around, making sure there were no more mirrors.",
+        "",
+        "%% u1571:0-12, u1572:0-7, u1573:0-36, u1574:0-14, u1575:0-11, u1576:0-6, u1577:0-79, u1578:0-21, u1579:0-18 %%",
+        "DM: I have this. This is—how could I leave that? How could I? I, I don't know. I have been hiding for how long? What if there's still shards of the mirrors in the grass outside? It's been a month now since master left.",
+        "",
+        "%% u1580:0-43, u1581:0-12, u1582:0-44 %%",
+        "Alimash: If you would like, you can wait outside the... We destroyed every reflective monster thing we see, we saw.",
+        "",
+        "%% u1583:0-8, u1584:0-11, u1585:0-8 %%",
+        "DM: It's it. Is it safe? You sure?",
+        "",
+        "%% u1586:0-31 %%",
+        "Alimash: Safer than [garbled]?",
+        "",
+        "%% u1587:0-124 %%",
+        "Wellby: I, I mean, yes, we think it's safe. But it it I don't know if you may want to wait here till we are back on our way out again.",
+        "",
+        "%% u1588:0-37, u1589:0-45 %%",
+        "Shoal: And I mean we didn't check the ocean. It It has a reflection, is it only this house?",
+        "",
+        "%% u1590:0-18, u1591:0-34, u1592:0-77 %%",
+        "DM: I didn't. I didn't think of that. We can never leave. We're trapped on this island forever. We didn't get attack coming in, though.",
+        "",
+        "%% u1593:0-12 %%",
+        "((Interruption))",
+        "",
+        "%% u1594:0-43, u1595:0-38, u1596:0-11, u1597:0-69, u1598:0-44 %%",
+        "((Discussion of the defeated glass swarms))",
+        "",
+        "%% u1599:0-5, u1600:0-16, u1601:0-21 %%",
+        "DM: Okay, maybe maybe it's it's just this house.",
+        "",
+        "%% u1602:0-38 %%",
+        "Wellby: So anyone left alive here besides you?",
+        "",
+        "%% u1603:0-15, u1604:0-36 %%",
+        "DM: Resenna fled. A... I don't know it was just three of us.",
+        "",
+        "%% u1605:0-47 %%",
+        "Wellby: Um, and you don't know what happened to Arryn?",
+        "",
+        "%% u1606:0-19, u1607:0-16, u1608:0-17, u1609:0-18, u1610:0-20, u1611:0-14, u1612:0-11, u1613:0-10, u1614:0-24 %%",
+        "DM: He. He was upstairs in his workshop. Um some ritual. I prepared chalk and powdered silver, and wine, and then took 'em up something, some magic he was doing.",
+        "",
+        "%% u1615:0-8, u1616:0-51, u1617:0-25, u1618:0-28, u1619:0-13, u1620:0-43, u1621:0-29 %%",
+        "DM: And then Resenna told me to run. Something bad had happened. Um, I wouldn't leave. I I didn't want to abandon Arryn or the Tower. Been my home for fifteen fifteen years now. It has only been here for two.",
+        "",
+        "%% u1622:0-5 %%",
+        "Wellby: Until.",
+        "",
+        "%% u1623:0-22, u1624:0-10, u1625:0-24, u1626:0-33 %%",
+        "DM: My reflection tried to possess me then. I wish I had fled, but it felt like it was too late.",
+        "",
+        "%% u1627:0-57, u1628:0-18 %%",
+        "Alimash: Were you the one that greased up all the reflective metal on the first floor?",
+        "",
+        "%% u1629:0-33, u1630:0-13, u1631:0-9, u1632:0-18, u1633:0-33 %%",
+        "DM: Chandelier was too heavy to move, so I could do make some with some oil, and smeared it on everything I could.",
+        "",
+        "%% u1633:33-73 %%",
+        "Alimash: Have you done that to the floor above us?",
+        "",
+        "%% u1634:0-6, u1635:0-25, u1636:0-39, u1637:0-30, u1638:0-24 %%",
+        "DM: Again. Didn't want to intrude on on Resenna's or Arryn's bed chambers. I I just I just barred the door. I haven't been upstairs.",
+        "",
+        "%% u1639:0-72 %%",
+        "Alimash: You're free to go, or for you to stay. I think we have to keep going up.",
+        "",
+        "%% u1640:0-75 %%",
+        "Wellby: If you want to stay, we'll get you on the way back down. If we're not dead.",
+        "",
+        "%% u1641:0-7, u1642:0-39, u1643:0-40, u1644:0-19, u1645:0-19, u1646:0-26, u1647:0-45 %%",
+        "DM: I will. I've been safe here for the past month. I don't think I I will flee until I know Arryn survived, and you can rescue him. I will be well, I am sure. Well, I will stay here where I've been safe.",
+        "",
+        "%% u1648:0-10 %%",
+        "((Acknowledgment))",
+        "",
+        "%% u1649:0-75 %%",
+        "Wellby: Is there anything else we should know about what's waiting for us up there?",
+        "",
+        "%% u1650:0-6, u1651:0-58, u1652:0-3, u1653:0-6, u1654:0-27, u1655:0-26, u1656:0-52 %%",
+        "DM: Don't, don't let the things that come from the mirrors touch you, and Arryn, had many notes in his study on the fourth floor. I I I I have no reason to believe they aren't still there.",
+        "",
+        "%% u1657:0-53 %%",
+        "Shoal: What? Uh, What's something that only Arryn would know?",
+        "",
+        "%% u1658:0-3 %%",
+        "((Acknowledgment))",
+        "",
+        "%% u1659:0-45 %%",
+        "Shoal: Something maybe, about you, not in his notes.",
+        "",
+        "%% u1660:0-13, u1661:0-3, u1662:0-7, u1663:0-6, u1664:0-41, u1665:0-23, u1666:0-31, u1667:0-3, u1668:0-40, u1669:0-6, u1670:0-8, u1671:0-13 %%",
+        "DM: Ah, well, um, ah, when we and we haven't thought about this in a long time when we first came East traveling on a a halfling ship, and the only time I have ever heard him sing Arryn. He was a—fascinated by.",
+        "",
+        "%% u1672:0-5 %%",
+        "((Acknowledgment))",
+        "",
+        "%% u1673:0-10, u1674:0-32, u1675:0-3, u1676:0-12, u1677:0-8, u1678:0-3, u1679:0-18, u1680:0-24, u1681:0-24, u1682:0-32 %%",
+        "DM: It doesn't he doesn't normally like people. But on that ship he sang, ah, what was the song? The Lost Lads of Tollen? He had a beautiful voice never heard him before or since.",
+        "",
+        "%% u1683:0-35, u1684:0-9, u1685:0-8, u1686:0-13, u1687:0-33, u1688:0-30 %%",
+        "DM: Something about the company of that in there, halfling everybody was telling stories and laughing, and never seen him join in before.",
+        "",
+        "%% u1689:0-3 %%",
+        "((Interruption))",
+        "",
+        "%% u1690:0-18, u1691:0-28, u1692:0-23 %%",
+        "DM: His favorite song, which I'm sure nobody knows. The Lost Lads of Tollen.",
+        "",
+        "%% u1693:0-19, u1694:0-80, u1695:0-43, u1696:0-39, u1697:0-5 %%",
+        "((Favorite-fish password banter))",
+        "",
+        "%% u1698:0-39 %%",
+        "Wellby: What was Arryn by trade? He's a wizard.",
+        "",
+        "%% u1699:0-8, u1700:0-27 %%",
+        "DM: Oh, yes, very, very powerful wizard.",
+        "",
+        "%% u1701:0-23 %%",
+        "Wellby: Powerful, but friendly.",
+        "",
+        "%% u1702:0-21, u1703:0-8, u1704:0-13, u1705:0-14, u1706:0-22, u1707:0-41, u1708:0-29 %%",
+        "DM: He's been kind to me. Yes, um, he has always sought to just be left alone in peace to understand the oddities of this world, never seek power or money, or.",
+        "",
+        "%% u1709:0-61 %%",
+        "Alimash: Is there any sort of IRB process he uses for his experiments?",
+        "",
+        "%% u1710:0-4, u1711:0-108, u1712:0-2, u1713:0-16, u1714:0-12, u1715:0-9, u1716:0-11, u1717:0-10, u1718:0-14, u1719:0-42, u1720:0-74, u1721:0-37 %%",
+        "DM: ((Unrelated setup or mechanics)) He He tells me stories he told stories of the University of Tollen is to too many people. It's hard to to really get at that meaning of the multiverse in that crowded environment with everybody worrying about whether you were going to destroy the city or not, he says, needed to go somewhere more isolated.",
+        "",
+        "%% u1722:0-12, u1723:0-11 %%",
+        "Alimash: Well, that's concerning.",
+        "",
+        "%% u1724:0-23, u1725:0-26 %%",
+        "Wellby: Well, he was not wrong. I think we should head up.",
+        "",
+        "%% u1726:0-4 %%",
+        "Alimash: Yes.",
+        "",
+        "%% u1727:0-5, u1728:0-5, u1729:0-32, u1730:0-26 %%",
+        "DM: Okay, Gyles bids you a nervous farewell, and locks himself in his room."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: The outside or something like that. Why did we not do that at the beginning? You just like fly at the top of this thing.",
+          "Shoal: Hmm. Okay, never mind, but we can leave. It's just one like, all we've done is gone in the lobby.",
+          "Wellby: What if this is Master Arryn like sitting right in there? I think we should knock. I'm gonna knock on the door.",
+          "Alimash: Let's at least okay.",
+          "Wellby: Let's at least think tactically about this. How we're going to place yourselves in front of this door. So, Alimash of like years of soldier training. It's like ah. After knocking, Wellby starts backing up steadily."
+        ],
+        "after": [
+          "DM: Um, and you head up the stairs. The The the door at the top is barred from this side with like just like a chair sort of wedged up against the door, which is easy to remove. Um, and according and based on your notes, and what Gyles said, and whatever we also said. The third floor was um Resenna's chambers was the apprentices chambers, and the fourth floor is Arryn's chambers and study, and then the fifth floor is the workshop.",
+          "Shoal: Was there. Hmm. I'm. Just wondering like moving forward if there were things in the kitchen that we could use to easily cover mirrors, or if it would be easier to just like, pull them off the wall and face them down on the ground. If we encounter things that haven't been smashed already.",
+          "Unknown: Um.",
+          "DM: I mean, there is not there's like, Yeah, there's like some tablecloths and things, right? There's like a tapestry. There's there's definitely cloth you could find. There's also plenty of soot from the hearth that yeah Gyles had used, mixed with like oil to to form like a dark.",
+          "Shoal: That was more to like the metal. I don't know if smearing that across the mirror would be very... Okay. Yeah, I'll. I'll grab a tablecloth or two, in case there's something really big and shiny that's going to be a an immediate threat."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i010"
+    },
+    {
+      "title": "Wellby recruits the raccoon for scouting",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1909",
+        "endUid": "u1924"
+      },
+      "lines": [
+        "%% u1909:0-25, u1910:0-72, u1911:0-60, u1912:0-11 %%",
+        "DM: Um, yeah, there's I mean, you do like spend a minute kind of scouting around and and you do find a raccoon. But that's the most dexterous animal you're able to track down.",
+        "",
+        "%% u1913:0-31, u1914:0-28 %%",
+        "Wellby: Awesome. I will, I will, I will negotiate with this raccoon.",
+        "",
+        "%% u1915:0-51, u1916:0-3, u1917:0-114, u1918:0-24 %%",
+        "DM: It's it's pretty amenable to food-based bribery so. Um, and it's a fairly curious creature. It's perfectly happy to do this. You don't have to all as long as you give it. You know some nice food.",
+        "",
+        "%% u1919:0-82, u1920:0-71, u1921:0-66, u1922:0-97, u1923:0-65, u1924:0-62 %%",
+        "Wellby: We're only the fanciest of fish, but it's only the fancy fish for this right here. Uh, yeah, okay. So I'll fly the raccoon back up to the top of the tower, I think, but I still think we should tie a little rope around this in case we got to pull. You know the extraction and and send it in, and I'll Beast Sense into it. ((Unrelated continuation))"
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Let's do that.",
+          "Shoal: Uh one, one downside to this plan. The rats not going to be able to bring the papers back to us. Are there any monkeys on this island?",
+          "Wellby: Raccoons?",
+          "DM: You might be able to track down a raccoon. Um, I mean, there's seagulls. There's uh yeah, this is sort of like a northern temperate. There's no monkeys. Um. There's no, there's actually no squirrels, but there are um, there are raccoons. There are rats. Make it. Make a survival check and see what you can. You can scare up.",
+          "Wellby: Hmm. Hmm."
+        ],
+        "after": [
+          "Shoal: Um. One additional thought is, you said, worst case scenario. We have two squirrels. I think worst case scenario is, we have thirteen raccoons, or the the tunnel of raccoons. Given the mirror placement, it might be like a we. We might be fighting a hundred ducksized horses for.",
+          "Wellby: Right? Okay, let's do it.",
+          "DM: So you Beast Sense into the raccoon as it is slowly lowered down into this circular room of mirrors. Uh the raccoon. Um, you you have to like get the rope swinging a little bit, so it doesn't land in this reflective pool, and it sort of jumps down and scurries around in, and immediately you can see, like around everywhere. There are reflections upon reflections of raccoons, like the sort of tunnel effect like, you know, infinite raccoons reflected.",
+          "DM: Then you start to scurry around like heading for the door, and you hear behind you like creeping out of this um of this pool in the middle. There's like a silvery reflective raccoon that as it emerges from the pool begins to solidify into a second raccoon and start to like chase after you. Uh-huh! As you head down the stairs. Um the raccoon the like silvery mirror raccoon solidifies. And now there's two identical raccoons and it tries to grab the t your tail as your as you're heading down the the stairs, and it it gets a hold of it and you and you as Beast Sensed, Wellby into the raccoon, feel this like cold uh chill run up your back and the raccoon, and like sh shakes its tail and.",
+          "Unknown: Um."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i011"
+    },
+    {
+      "title": "The raccoon is displaced and rescued from the Mirror Realm",
+      "entities": [
+        {
+          "id": "e021",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e022",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u1935",
+        "endUid": "u2184"
+      },
+      "lines": [
+        "%% u1935:0-58, u1936:0-49, u1937:0-72, u1938:0-56, u1939:0-51, u1940:0-7, u1941:0-28, u1942:0-2, u1943:0-115, u1944:0-102, u1945:0-65, u1946:0-75 %%",
+        "DM: Then you start to scurry around like heading for the door, and you hear behind you like creeping out of this um of this pool in the middle. There's like a silvery reflective raccoon that as it emerges from the pool begins to solidify into a second raccoon and start to like chase after you. ((Unrelated continuation))",
+        "",
+        "%% u1947:0-2, u1948:0-20, u1949:0-11, u1950:0-39, u1951:0-89, u1952:0-15, u1953:0-44, u1954:0-35, u1955:0-90, u1956:0-3, u1957:0-30, u1958:0-2, u1959:0-58, u1960:0-3, u1961:0-97, u1962:0-159, u1963:0-67, u1964:0-69, u1965:0-39, u1966:0-2, u1967:0-22, u1968:0-2, u1969:0-33, u1970:0-3, u1971:0-34, u1972:0-104, u1973:0-24, u1974:0-168, u1975:0-78, u1976:0-126, u1977:0-16, u1978:0-43, u1979:0-26, u1980:0-43, u1981:0-24, u1982:0-24, u1983:0-139, u1984:0-176, u1985:0-69, u1986:0-67, u1987:0-187 %%",
+        "((Further scouting and reflection attacks))",
+        "",
+        "%% u1988:0-24 %%",
+        "Alimash: But it's just a raccoon?",
+        "",
+        "%% u1989:0-22, u1990:0-112 %%",
+        "Wellby: It is a raccoon who is given its life into my hands. I can't. I can't. Wouldn't send it to its death? We could lower you into the pool.",
+        "",
+        "%% u1991:0-13, u1992:0-81, u1993:0-137, u1994:0-75, u1995:0-7, u1996:0-105, u1997:0-15, u1998:0-25, u1999:0-4, u2000:0-5, u2001:0-11, u2002:0-35, u2003:0-3, u2004:0-134, u2005:0-135, u2006:0-2, u2007:0-98, u2008:0-46, u2009:0-3, u2010:0-90, u2011:0-3, u2012:0-3, u2013:0-29, u2014:0-74, u2015:0-100, u2016:0-68, u2017:0-29, u2018:0-41, u2019:0-35, u2020:0-9, u2021:0-145, u2022:0-20, u2023:0-3, u2024:0-115, u2025:0-3, u2026:0-36, u2027:0-33, u2028:0-16, u2029:0-71, u2030:0-110, u2031:0-54, u2032:0-73, u2033:0-108, u2034:0-145, u2035:0-86, u2036:0-3, u2037:0-32, u2038:0-13, u2039:0-2, u2040:0-68, u2041:0-52, u2042:0-38, u2043:0-32, u2044:0-17, u2045:0-88, u2046:0-61, u2047:0-98, u2048:0-31, u2049:0-206, u2050:0-6, u2051:0-128, u2052:0-82, u2053:0-101, u2054:0-134, u2055:0-59, u2056:0-79, u2057:0-4, u2058:0-47 %%",
+        "((Inspection of the research notes))",
+        "",
+        "%% u2059:0-3, u2060:0-6, u2061:0-86, u2062:0-12, u2063:0-20, u2064:0-22, u2065:0-6, u2066:0-3 %%",
+        "DM: Ah, as you as you finish reading these notes, the silvery, the mirror raccoon jumps on your back, and you feel this wrenching pull, and you find yourself, and uh ah.",
+        "",
+        "%% u2067:0-75, u2068:0-232, u2069:0-196, u2070:0-82, u2071:0-27, u2072:0-51, u2073:0-84 %%",
+        "DM: It's, it's almost an echo of this room, except every surface is reflective. There's like a few. The only like clear space is the standing wall mirror and the silver water pitcher, and everything else is just so. It's basically like infinite corridors everywhere. The entire surface of the room is reflective. Except for these two things that are mirrors here that are not reflective, and, in fact, seem like they are one-way windows out to the so like you can see as the raccoon through the water pitcher, this like silvery raccoon that's now taken over your body like gnawing on the rope and the rope coming undone, and the two of you upstairs feel the rope go slack. Wellby, your consciousness is with the spirit of the now-in-the-Mirror-Realm raccoon.",
+        "",
+        "%% u2074:0-52, u2075:0-31, u2076:0-13, u2077:0-22, u2078:0-47, u2079:0-3, u2080:0-25, u2081:0-33, u2082:0-12, u2083:0-7, u2084:0-96, u2085:0-12, u2086:0-42, u2087:0-61, u2088:0-3, u2089:0-87, u2090:0-35, u2091:0-33, u2092:0-56, u2093:0-89, u2094:0-5, u2095:0-7, u2096:0-63, u2097:0-20, u2098:0-84, u2099:0-105, u2100:0-71, u2101:0-28, u2102:0-3, u2103:0-52, u2104:0-98, u2105:0-2, u2106:0-61, u2107:0-3, u2108:0-119, u2109:0-85, u2110:0-2, u2111:0-8, u2112:0-10, u2113:0-186, u2114:0-66, u2115:0-5, u2116:0-11, u2117:0-31, u2118:0-39, u2119:0-25, u2120:0-14, u2121:0-37, u2122:0-40 %%",
+        "((Scouting reveals occupied mirrored rooms and two similar wizards))",
+        "",
+        "%% u2123:0-252, u2124:0-115, u2125:0-86 %%",
+        "DM: I mean you're not possessing the raccoon, I mean you're seeing through its eyes. But you're not, um, and you can actually at this point you can no longer communicate with the telepathically. Um, you could. You're still like connected to it, but you can't normally, the way you control animals when you're warging into them is by just telling them telepathically what you um. And now, actually you you feel in. You can still see it, but it's like gone silent.",
+        "",
+        "%% u2126:0-74 %%",
+        "Wellby: Right because the Beast Sense extends across planes. But telepathy doesn't.",
+        "",
+        "%% u2127:0-8 %%",
+        "DM: Exactly.",
+        "",
+        "%% u2128:0-48, u2129:0-37, u2130:0-3, u2131:0-29 %%",
+        "DM: And the the raccoon, like looks scared, and now, like scurries back down the the steps um, and starts like heading down.",
+        "",
+        "%% u2132:0-21, u2133:0-3, u2134:0-18, u2135:0-11, u2136:0-22, u2137:0-28, u2138:0-8, u2139:0-56, u2140:0-3, u2141:0-68, u2142:0-3, u2143:0-34, u2144:0-69 %%",
+        "((The raccoon passes the lower reflected rooms))",
+        "",
+        "%% u2145:0-47 %%",
+        "Wellby: [garbled] the steward [garbled], presumably.",
+        "",
+        "%% u2146:0-29, u2147:0-14, u2148:0-4, u2149:0-49, u2150:0-22, u2151:0-20, u2152:0-2, u2153:0-43, u2154:0-52, u2155:0-7 %%",
+        "DM: And then the raccoon runs out into this like like bright silvery Mirror Island on a dark black sea, and just kind of looks bewilderingly around as it runs out onto the ground, and then, like keeps running, and as it's running, almost begins to ah like.",
+        "",
+        "%% u2156:0-66, u2157:0-33, u2158:0-71, u2159:0-15, u2160:0-40, u2161:0-112 %%",
+        "Wellby: Become decoherent. So once I see that starting to happen before it like dissolves too badly, I wanna um shoot, ((Unrelated setup or mechanics)) Shoot the a mirror raccoon that's now in our world which should make the raccoon trapped in the mirror pop back to our world again. Is this how we think it works?",
+        "",
+        "%% u2162:0-34, u2163:0-20, u2164:0-35 %%",
+        "DM: That's how you think it works. But in order to do that, you're going to need to uncover the.",
+        "",
+        "%% u2165:0-51, u2166:0-109, u2167:0-54, u2168:0-32, u2169:0-7, u2170:0-26, u2171:0-52 %%",
+        "((The hatch is uncovered and Wellby’s shot destroys the mirror raccoon))",
+        "",
+        "%% u2172:0-64, u2173:0-18, u2174:0-3, u2175:0-6, u2176:0-104, u2177:0-105, u2178:0-17 %%",
+        "DM: Um vanishes in a puff like a like a almost like a spray of snow, and as it vanishes the the um other raccoon that you are previously possessing. That was it in the mirror, but was the real raccoon uh reappears like comes almost almost like It's ejected out of the mirror it comes flying out of the mirror. The silvery pool.",
+        "",
+        "%% u2179:0-35, u2180:0-27, u2181:0-28, u2182:0-40 %%",
+        "((Clarification about the rope and windows))",
+        "",
+        "%% u2183:0-115 %%",
+        "Wellby: Well, it's a raccoon that will... Let's drop the remains. I will just tell it, like, “Grab the rope. We'll haul you out.”",
+        "",
+        "%% u2184:0-152 %%",
+        "DM: Oh, yeah, yeah, the rope is right. The rope is still there. It was just gnawed off at the very end. Yeah. So yes, it grabs the rope and you haul it out."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: It's it's pretty amenable to food-based bribery so. Um, and it's a fairly curious creature. It's perfectly happy to do this. You don't have to all as long as you give it. You know some nice food.",
+          "Wellby: We're only the fanciest of fish, but it's only the fancy fish for this right here. Uh, yeah, okay. So I'll fly the raccoon back up to the top of the tower, I think, but I still think we should tie a little rope around this in case we got to pull. You know the extraction and and send it in, and I'll Beast Sense into it. Um the duration's an hour. So I think we've got plenty of time to try out different things or retrieve books or papers, or, yeah.",
+          "Shoal: Um. One additional thought is, you said, worst case scenario. We have two squirrels. I think worst case scenario is, we have thirteen raccoons, or the the tunnel of raccoons. Given the mirror placement, it might be like a we. We might be fighting a hundred ducksized horses for.",
+          "Wellby: Right? Okay, let's do it.",
+          "DM: So you Beast Sense into the raccoon as it is slowly lowered down into this circular room of mirrors. Uh the raccoon. Um, you you have to like get the rope swinging a little bit, so it doesn't land in this reflective pool, and it sort of jumps down and scurries around in, and immediately you can see, like around everywhere. There are reflections upon reflections of raccoons, like the sort of tunnel effect like, you know, infinite raccoons reflected."
+        ],
+        "after": [
+          "Alimash: Hmm. How many wizards were there?",
+          "Wellby: Two wizards, a raccoon saw two wizards.",
+          "Alimash: So, presumably the problem is the reflection and the real wizard are both there, and we need to guess which is the right one, and then killed. The.",
+          "Wellby: Hopefully can do with the song unless the reflection is complete.",
+          "Unknown: Right?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i012"
+    },
+    {
+      "title": "Arryn’s marginalia and contingency notes explain escape",
+      "entities": [
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e024",
+          "role": "cameo",
+          "action": "observed"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2010",
+        "endUid": "u2056"
+      },
+      "lines": [
+        "%% u2010:0-90, u2011:0-3, u2012:0-3, u2013:0-29, u2014:0-74, u2015:0-100, u2016:0-68 %%",
+        "DM: Ah, yeah, one of them is written in it some, and it looks. This book looks incredibly old. Um, the marginalia that that has been written, though in Arryn's hand, is in Sembaran, in which you you do read, and it seems to be indicating that, like he thinks this is the one. This, like super ancient book, is what he's been searching for, and has the clues to the mirror realm.",
+        "",
+        "%% u2017:0-29, u2018:0-41, u2019:0-35, u2020:0-9, u2021:0-145, u2022:0-20, u2023:0-3, u2024:0-115 %%",
+        "DM: The notes are organized into, roughly speaking, three piles. One is um, one is opening and closing portals. One is uh one is like it's like it. It looks like it's drawings about like magic circles, and your sort of inferences like containing the mirror creatures. And the other is, um, ah, it it It looks like a list of contingency plans. You think you have a chance to glance at one of these three before.",
+        "",
+        "%% u2025:0-3, u2026:0-36, u2027:0-33, u2028:0-16, u2029:0-71, u2030:0-110 %%",
+        "((Choosing which pile to inspect))",
+        "",
+        "%% u2031:0-54 %%",
+        "Wellby: Contingency plans like what to do if things go wrong.",
+        "",
+        "%% u2032:0-73, u2033:0-108, u2034:0-145, u2035:0-86, u2036:0-3 %%",
+        "DM: Okay, you begin. You begin glancing at them, and it seems it seems to be. Ah, so you so you sort of like gather them up, and and you know you're quickly flipping through them as this mirror raccoon is stalking towards you. ((Unrelated continuation))",
+        "",
+        "%% u2037:0-32, u2038:0-13, u2039:0-2, u2040:0-68, u2041:0-52, u2042:0-38, u2043:0-32, u2044:0-17, u2045:0-88 %%",
+        "DM: So so what this is describing is the so so two um two main points that you get one is, when is you get the sense that part of the reason why Arryn is is concerned is that he is not actually sure whether or not magic works in the mirror realm. So he is slightly nervous about being trapped there, and that's why he's prepared this contingency and the.",
+        "",
+        "%% u2046:0-61, u2047:0-98, u2048:0-31, u2049:0-206, u2050:0-6, u2051:0-128, u2052:0-82, u2053:0-101, u2054:0-134 %%",
+        "DM: Uh his. The notes that you get the sense that you get is that these mirror entities that that emerge from the mirror realm, or that are in the mirror realm. Ah, if you are in the mirror realm, then you have some reflection which may also be in the mirror realm, or maybe wandering around outside the mirror realm. And you and there's a balance. So, as long as your reflection exists you cannot leave, right? If if you're in the real world, your reflection is trapped in the mirror realm. If you're in the mirror, if you're a reflection, if you're in the mirror realm you can't leave unless your reflection is destroyed, whether it's in this realm or the mirror realm. So there's like a symmetry right? The mirror realm is ah reflects, is a is a distorted reflection of everything. But to leave the mirror realm, you have to destroy your reflection somehow.",
+        "",
+        "%% u2055:0-59 %%",
+        "Wellby: And we didn't we haven't seen any wizard reflections right?",
+        "",
+        "%% u2056:0-79 %%",
+        "DM: It's possible that him and his reflection are both trapped in the mirror realm."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Yeah, That's good vision.",
+          "Wellby: Bye, yeah, what we got?",
+          "DM: Uh. So you start to read the notes. Um, third mirror raccoon jumps at you, and again you feel a chill, but shake it off, Man it it's raccoon is like making, save after save so it's going to take some time to to read all the notes. Um, you see another raccoon starting to emerge from the silver water pitcher.",
+          "DM: Um the just like, really, briefly glancing um. One of the books is is uh written in some language you you do not understand. I'll double check. But.",
+          "Unknown: Uh."
+        ],
+        "after": [
+          "Alimash: Hmm.",
+          "Wellby: I think we should send the raccoon in to check.",
+          "DM: Ah, as you as you finish reading these notes, the silvery, the mirror raccoon jumps on your back, and you feel this wrenching pull, and you find yourself, and uh ah.",
+          "DM: It's, it's almost an echo of this room, except every surface is reflective. There's like a few. The only like clear space is the standing wall mirror and the silver water pitcher, and everything else is just so. It's basically like infinite corridors everywhere. The entire surface of the room is reflective. Except for these two things that are mirrors here that are not reflective, and, in fact, seem like they are one-way windows out to the so like you can see as the raccoon through the water pitcher, this like silvery raccoon that's now taken over your body like gnawing on the rope and the rope coming undone, and the two of you upstairs feel the rope go slack. Wellby, your consciousness is with the spirit of the now-in-the-Mirror-Realm raccoon.",
+          "Wellby: Is there anything else in the mirror realm any other like wizards hanging out there?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i013"
+    },
+    {
+      "title": "Wellby sees two wizard forms through the raccoon",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e021",
+          "role": "supporting",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2097",
+        "endUid": "u2144"
+      },
+      "lines": [
+        "%% u2097:0-20, u2098:0-84, u2099:0-105, u2100:0-71, u2101:0-28, u2102:0-3, u2103:0-52, u2104:0-98 %%",
+        "DM: If we see all of the... Sorry, go ahead. Well, you're going up the stairs first. Right? Yeah. Mirror Raccoon. So you go up the stairs and you see. So this room in the mirror realm is actually almost completely dark, like the—there's a big sort of black pool in the middle, and then, like twelve windows that look out and set within reflective walls. So there is still some, you know. There's still some light bouncing around, but this big pool of darkness in the middle is.",
+        "",
+        "%% u2105:0-2 %%",
+        "((Interruption))",
+        "",
+        "%% u2106:0-61, u2107:0-3, u2108:0-119 %%",
+        "DM: It? You know, makes it feel much darker and much sort of less ah, less bright and and airy as the room below. And you can actually see through the pool! You can see the mirror raccoon.",
+        "",
+        "%% u2109:0-85, u2110:0-2, u2111:0-8, u2112:0-10, u2113:0-186, u2114:0-66, u2115:0-5, u2116:0-11, u2117:0-31, u2118:0-39, u2119:0-25 %%",
+        "DM: Oh, actually no, it's still downstairs. Never mind, you don't see that but you do see uh a wizard presumably a middle-aged man uh young middle age, but with like brown sort of longish brown hair, sort of wavy brown hair, um a beard like salt and pepper beard wearing um elaborate green robes. Um elegant sort of well cut, well tailored green robes. Um, green eyes looks confused at the raccoon that just appeared. How did you get in here, little fellow? Um, just idly to himself.",
+        "",
+        "%% u2120:0-14, u2121:0-37, u2122:0-40, u2123:0-252, u2124:0-115, u2125:0-86, u2126:0-74, u2127:0-8, u2128:0-48, u2129:0-37, u2130:0-3, u2131:0-29, u2132:0-21 %%",
+        "((Clarification that Beast Sense gives sight but not cross-plane communication))",
+        "",
+        "%% u2133:0-3, u2134:0-18, u2135:0-11, u2136:0-22, u2137:0-28, u2138:0-8, u2139:0-56 %%",
+        "DM: Ah, in the in the next floor below there's another wizard exactly the same appearance. It says, what are you doing here, little fellow? Idly to himself.",
+        "",
+        "%% u2140:0-3, u2141:0-68, u2142:0-3 %%",
+        "((Brief confirmation about controlling the raccoon))",
+        "",
+        "%% u2143:0-34, u2144:0-69 %%",
+        "DM: And the raccoon keeps running down the second floor completely empty. No people, no reflections, nobody."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: And um, yeah, and like, there's other signs of like activity in the mirror realm, like the mirror notes, are all like in a different order, although they're all because they're all like mirrors. You can't really read them. Um, because you just like, see your face, the writing sort of vanishes into the reflections.",
+          "DM: Uh, everything is bright and shiny, but it definitely seems like this room has been occupied much more recently than the room.",
+          "Wellby: And can mirror realm raccoon that go up the stairs and look around the rest of the tower? Yeah.",
+          "Unknown: A clue.",
+          "Alimash: I kind of want to know is the guy we talked to is a reflection."
+        ],
+        "after": [
+          "Wellby: [garbled] the steward [garbled], presumably.",
+          "DM: And then the raccoon runs out into this like like bright silvery Mirror Island on a dark black sea, and just kind of looks bewilderingly around as it runs out onto the ground, and then, like keeps running, and as it's running, almost begins to ah like.",
+          "Wellby: Become decoherent. So once I see that starting to happen before it like dissolves too badly, I wanna um shoot, take Steady Aim, and shoot the mirror raccoon. Wait a minute. Yeah. Shoot the a mirror raccoon that's now in our world which should make the raccoon trapped in the mirror pop back to our world again. Is this how we think it works?",
+          "DM: That's how you think it works. But in order to do that, you're going to need to uncover the.",
+          "Alimash: Trapdoor. We can move it fast. Are you fast, Wellby? Yeah, we need six six seconds. Okay, because it's open fifteen before, and it didn't like completely implode."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i014"
+    },
+    {
+      "title": "Gyles provides linens but refuses to help near the mirrors",
+      "entities": [
+        {
+          "id": "e015",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2344",
+        "endUid": "u2359"
+      },
+      "lines": [
+        "%% u2344:0-140, u2345:0-40, u2346:0-84, u2347:0-99, u2348:0-43, u2349:0-46 %%",
+        "DM: ((Unrelated setup or mechanics)) Gyles was happy to give you his his like bed, linens, and stuff. Given your plans. So you don't even have to venture into the uh Resenna's bedroom, which you don't know what's in there. Does you want to help us cover them up? Oh, no, definitely. not. Hundred percent no. Wants to never see a mirror again in his life.",
+        "",
+        "%% u2350:0-40 %%",
+        "DM: But he's happy you're doing it, though.",
+        "",
+        "%% u2351:0-8, u2352:0-12, u2353:0-4, u2354:0-3, u2355:0-65, u2356:0-51, u2357:0-19, u2358:0-47, u2359:0-26 %%",
+        "((Failed attempt to persuade Gyles to join))"
+      ],
+      "reviewContext": {
+        "before": [
+          "Alimash: I like that idea. The worst is just getting up there, but we can just have [garbled] pull up.",
+          "Unknown: Yeah.",
+          "Alimash: So actually, it's fast as Wellby can just fly down there, gather them, and then we can sit up top and just drag them up. It's probably the fastest way we can.",
+          "Shoal: And we while he's doing that, we can be throwing them down in front of the mirrors that we wanna.",
+          "Alimash: Like. Oh, yeah, I have a like prepared to like we can. That's a good point. Okay, yeah, can we? Um, just macro all of those actions."
+        ],
+        "after": [
+          "DM: Um, I'm just gonna grab a quick glass of water over here, back. But yeah, so it takes you. You know it takes you fifteen minutes to gather some stuff up. You like toss it down around so that all of the you know you've got piles of stuff kind of scattered around. Wellby shoots his arrow and this black smoke expands to fill the room as you all jump down, and in a minute, you you only have to do four mirrors each. That's covering a mirror once per fifteen seconds. That's certainly manageable. Given that you how what you've prepared.",
+          "DM: Um, and yeah, the room is now as the smoke clears, you see the giant pool of silver, which is a portal, but the mirrors are all blocked.",
+          "Wellby: We we could, having secured this room, attempt to do the same thing on the floor below, and then read through the notes. That seems wise, right?",
+          "DM: Um, we also notice.",
+          "Unknown: Um."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i015"
+    },
+    {
+      "title": "The party examines the silver pool’s ritual circle",
+      "entities": [
+        {
+          "id": "e026",
+          "role": "star",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2377",
+        "endUid": "u2389"
+      },
+      "lines": [
+        "%% u2377:0-41, u2378:0-69, u2379:0-25, u2380:0-60, u2381:0-2, u2382:0-17, u2383:0-19, u2384:0-18, u2385:0-36, u2386:0-69 %%",
+        "DM: There is like a you know, like around the around the pool there's like these arcane symbols like forming a ring around this silvery pool, intricate arcane symbols, like in powdered silver and chalk. Um that seemed to be some sort of magic, almost holding the pool of silvery liquid in its shape, like the liquid, comes right up to the end of this this magic circle.",
+        "",
+        "%% u2387:0-55 %%",
+        "Wellby: We we probably need to figure out how this works, right?",
+        "",
+        "%% u2388:0-11, u2389:0-42 %%",
+        "Shoal: We probably shouldn't disturb those if we can wait, It."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Um, I'm just gonna grab a quick glass of water over here, back. But yeah, so it takes you. You know it takes you fifteen minutes to gather some stuff up. You like toss it down around so that all of the you know you've got piles of stuff kind of scattered around. Wellby shoots his arrow and this black smoke expands to fill the room as you all jump down, and in a minute, you you only have to do four mirrors each. That's covering a mirror once per fifteen seconds. That's certainly manageable. Given that you how what you've prepared.",
+          "DM: Um, and yeah, the room is now as the smoke clears, you see the giant pool of silver, which is a portal, but the mirrors are all blocked.",
+          "Wellby: We we could, having secured this room, attempt to do the same thing on the floor below, and then read through the notes. That seems wise, right?",
+          "DM: Um, we also notice.",
+          "Unknown: Um."
+        ],
+        "after": [
+          "Alimash: Agreed. I would also suggest, like really should brought this; but, like one of us should smear the paint over these. I don't know, a breeze, a fight, a battle, and these cloths fall off so like can we like, secure them with rope, or put the lard one at a time like, really fast?",
+          "Wellby: Yeah, or just reach underneath and start covering it that way. Yeah.",
+          "DM: Yeah, once you've got the cloths hanging, it's not that hard to, you know, go do it slowly, one by one, like smear sooty lard over each one, just just like reaching underneath the cloth. So we're maybe a bit of a challenge for Wellby, since he's, you know, half the height of the mirror, but Wellby just does the bottom third of each one. Exactly. You make quick work of. So you've got a backup.",
+          "Shoal: How often can Wellby fly?",
+          "Wellby: It's an hour. I probably still have fifteen minutes at least, left up."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i016"
+    },
+    {
+      "title": "The remaining research explains the portal and failed wards",
+      "entities": [
+        {
+          "id": "e023",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e026",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e022",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2400",
+        "endUid": "u2447"
+      },
+      "lines": [
+        "%% u2400:0-216, u2401:0-135, u2402:0-18, u2403:0-2, u2404:0-77, u2405:0-127, u2406:0-39, u2407:0-51, u2408:0-3, u2409:0-27 %%",
+        "DM: ((Unrelated setup or mechanics)) So the things you learn from looking at the rest of the notes is so so one is the The intention, it appears, was to uh open like a not like a full portal, but just bring a part of the mirror realm here, and and Arryn wanted to like, talk to his mirror duplicate and just like understand what the mirror realm was all about, but keep the mirror duplicate, trapped, and unable to actually leave this like Silver Pool? Um, obviously that didn't work.",
+        "",
+        "%% u2410:0-178, u2411:0-3, u2412:0-20, u2413:0-8 %%",
+        "((Player speculation about what failed))",
+        "",
+        "%% u2414:0-147, u2415:0-9, u2416:0-1, u2417:0-95, u2418:0-76 %%",
+        "DM: Ah, the other thing you learn is that, yes, the the silver thing in the middle is a portal. If you jump into it, you'll appear in the mirror realm. If you do a a mirror duplicate of you will be created, although where it's created is a little bit unclear, and as long as the mirror duplicate exists you can't leave the mirror world.",
+        "",
+        "%% u2419:0-3, u2420:0-83, u2421:0-112, u2422:0-59, u2423:0-40, u2424:0-45, u2425:0-7, u2426:0-54, u2427:0-52, u2428:0-93, u2429:0-8, u2430:0-17 %%",
+        "DM: Ah, then the other thing! Yes, and then the other thing that seems clear. So that's the the portals part the the wards, the wards is like a very intricate arcane detail about how to create this circle like exactly how you sort of make a a barrier that prevents this kind of possession, because the the what you gather from from these notes is that the the hypothesis is that the mirror creatures want to leave? They're trying to trade places they want to get out. And so the goal was to create wards that would prevent the mirror creature from being able to exchange itself for Arryn.",
+        "",
+        "%% u2431:0-16, u2432:0-58, u2433:0-4, u2434:0-3, u2435:0-35, u2436:0-94 %%",
+        "DM: But then, either he got confused and ended up trapping not sure who is Who? Why, um, you know something Something broke. The wards were not created correctly. There's any number of things that could have gone wrong.",
+        "",
+        "%% u2437:0-96, u2438:0-38, u2439:0-32 %%",
+        "DM: Uh, also, by carefully studying the notes, um, you are pretty sure that Arryn was convinced that magic did not work in the mirror realm any magic, no magic at all works.",
+        "",
+        "%% u2440:0-16, u2441:0-43 %%",
+        "Shoal: It possible that wait. Did a raccoon come out of this silver.",
+        "",
+        "%% u2442:0-50, u2443:0-26, u2444:0-13, u2445:0-26, u2446:0-36, u2447:0-98 %%",
+        "DM: When the No, the raccoons came out of the mirrors, and as soon as the raccoon was possessed the real raccoon vanished. The mirror Raccoon was pacing around this world, and as soon as the mirror raccoon was killed the real raccoon emerged from the portal."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Yeah, or just reach underneath and start covering it that way. Yeah.",
+          "DM: Yeah, once you've got the cloths hanging, it's not that hard to, you know, go do it slowly, one by one, like smear sooty lard over each one, just just like reaching underneath the cloth. So we're maybe a bit of a challenge for Wellby, since he's, you know, half the height of the mirror, but Wellby just does the bottom third of each one. Exactly. You make quick work of. So you've got a backup.",
+          "Shoal: How often can Wellby fly?",
+          "Wellby: It's an hour. I probably still have fifteen minutes at least, left up.",
+          "Alimash: So you can. You can cover any part of any room."
+        ],
+        "after": [
+          "Shoal: Okay, so what what I was getting at was whether the wards that are in place now prevent anything from coming out of the portal, and it doesn't seem that way to prevent the from coming out of the portal. Okay, so we don't need to destroy them. We can leave them as they are.",
+          "Shoal: Let's go, and I just cover the mirrors and then jump through the portal.",
+          "Wellby: Uh once we jump through the portal won't we be in there with our mirror versions, though? Yeah.",
+          "Shoal: And then we'll have a pretty cool duel uh where we will focus fire, but they will not know to do that. And then but will they? They could know, because we know. Of course, they will cause Tim, smiling. What the hell are we supposed to do? Okay.",
+          "Alimash: Huh? So if the mirror selves are they just us?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i017"
+    },
+    {
+      "title": "Alimash’s exchange ends with both originals rescued",
+      "entities": [
+        {
+          "id": "e018",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e026",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2518",
+        "endUid": "u2851"
+      },
+      "lines": [
+        "%% u2518:0-2, u2519:0-3, u2520:0-57, u2521:0-13, u2522:0-34, u2523:0-7, u2524:0-80, u2525:0-76, u2526:0-30, u2527:0-57, u2528:0-40, u2529:0-27, u2530:0-8, u2531:0-25, u2532:0-7 %%",
+        "DM: ((Unrelated setup or mechanics)) This, like it, starts with just an arm emerging, then another arm, and, like Alimash's body, begins to like pull and twist its way out of this small hand mirror like getting bigger as it like struggles out, kind of shaking itself off, and then reaching out and grabbing you um.",
+        "",
+        "%% u2533:0-83, u2534:0-29, u2535:0-26, u2536:0-50, u2537:0-15, u2538:0-45, u2539:0-31, u2540:0-18, u2541:0-19, u2542:0-36 %%",
+        "DM: And since you're letting this happen, you feel a chill run up your spine, and then in a moment you find yourself in this mirror world, with in the same room, with reflections everywhere. ((Unrelated continuation))",
+        "",
+        "%% u2543:0-31, u2544:0-85, u2545:0-39, u2546:0-37, u2547:0-14, u2548:0-26, u2549:0-5, u2550:0-3, u2551:0-32, u2552:0-3, u2553:0-112, u2554:0-43, u2555:0-56, u2556:0-92, u2557:0-87, u2558:0-31, u2559:0-67, u2560:0-78, u2561:0-107, u2562:0-2, u2563:0-15, u2564:0-31, u2565:0-14, u2566:0-14, u2567:0-7, u2568:0-73, u2569:0-31, u2570:0-12, u2571:0-60, u2572:0-10, u2573:0-18, u2574:0-7, u2575:0-44, u2576:0-37, u2577:0-3, u2578:0-116, u2579:0-79, u2580:0-68, u2581:0-26, u2582:0-32, u2583:0-17, u2584:0-19, u2585:0-18, u2586:0-17, u2587:0-29, u2588:0-17, u2588:17-99, u2589:0-4, u2590:0-15, u2591:0-26, u2592:0-38, u2593:0-70, u2594:0-32, u2595:0-9, u2596:0-17, u2596:17-58, u2597:0-4, u2598:0-6, u2599:0-14, u2599:14-108, u2599:108-113, u2600:0-25, u2601:0-36, u2602:0-57, u2603:0-19, u2604:0-35, u2605:0-15, u2606:0-99, u2607:0-55, u2608:0-31, u2609:0-83, u2610:0-34, u2611:0-45, u2611:45-95, u2612:0-81, u2612:81-148, u2613:0-34, u2613:34-52, u2614:0-16, u2615:0-8, u2616:0-15, u2617:0-28, u2617:28-98, u2618:0-14, u2619:0-13, u2620:0-36, u2621:0-44, u2622:0-101, u2623:0-16, u2624:0-40, u2625:0-23, u2626:0-3, u2627:0-129, u2628:0-5, u2629:0-99, u2630:0-58, u2631:0-27, u2632:0-38, u2633:0-87, u2633:87-125, u2634:0-28, u2635:0-8, u2636:0-35, u2637:0-47, u2638:0-44, u2639:0-10, u2640:0-26, u2641:0-42, u2642:0-32, u2643:0-63, u2644:0-102, u2645:0-117, u2645:117-230, u2646:0-34, u2647:0-30, u2648:0-35, u2649:0-3, u2650:0-31, u2651:0-9, u2652:0-115, u2653:0-50, u2653:50-103, u2654:0-36, u2655:0-136, u2656:0-37, u2657:0-3, u2658:0-37, u2659:0-59, u2660:0-49, u2660:49-225, u2661:0-29, u2662:0-20, u2663:0-54, u2664:0-59, u2665:0-33, u2666:0-154, u2667:0-37, u2668:0-34, u2669:0-71, u2670:0-24, u2671:0-3, u2672:0-109, u2673:0-2, u2674:0-156, u2675:0-18, u2676:0-42, u2677:0-11, u2678:0-33, u2679:0-2, u2680:0-119, u2681:0-97, u2682:0-11, u2683:0-32, u2684:0-63, u2685:0-22, u2686:0-44, u2687:0-13, u2688:0-15, u2689:0-30, u2690:0-3, u2691:0-35, u2692:0-20, u2693:0-31, u2694:0-10, u2695:0-28, u2696:0-13, u2697:0-10, u2698:0-14, u2699:0-56, u2699:56-168, u2700:0-60, u2700:60-141, u2701:0-65, u2702:0-5, u2703:0-55, u2704:0-23, u2705:0-15, u2706:0-109, u2706:109-190, u2707:0-128, u2708:0-25, u2708:25-86, u2709:0-64, u2710:0-10, u2711:0-24, u2712:0-39, u2713:0-60, u2714:0-37, u2715:0-22, u2716:0-13, u2717:0-27, u2718:0-55, u2719:0-59, u2720:0-23, u2721:0-46, u2722:0-6, u2723:0-27, u2724:0-75, u2725:0-33, u2725:33-54, u2726:0-20, u2727:0-10, u2728:0-8, u2729:0-78, u2730:0-20, u2731:0-5, u2732:0-51, u2733:0-8, u2734:0-74, u2734:74-162, u2735:0-26, u2736:0-14, u2737:0-137, u2738:0-25, u2739:0-37, u2740:0-56, u2741:0-116, u2742:0-122, u2743:0-50, u2744:0-60, u2745:0-3, u2746:0-68, u2747:0-90, u2748:0-140, u2749:0-5, u2750:0-23, u2751:0-41, u2752:0-41, u2753:0-58, u2754:0-3, u2755:0-92, u2756:0-45, u2756:45-97, u2757:0-31, u2758:0-69, u2759:0-49, u2759:49-113, u2760:0-37, u2761:0-17, u2762:0-75, u2763:0-3, u2764:0-11, u2765:0-136, u2766:0-122, u2767:0-142, u2768:0-10, u2769:0-8, u2770:0-28, u2771:0-22, u2772:0-50, u2773:0-16, u2774:0-102, u2775:0-10, u2776:0-22, u2777:0-57, u2778:0-3, u2779:0-26, u2780:0-5, u2781:0-116, u2782:0-93, u2783:0-29, u2784:0-44, u2785:0-329, u2786:0-45, u2787:0-167, u2788:0-15, u2789:0-84, u2789:84-186, u2790:0-25, u2791:0-87, u2792:0-15, u2793:0-51, u2794:0-7, u2795:0-37, u2796:0-74, u2797:0-15, u2798:0-29, u2799:0-25, u2799:25-137, u2800:0-69, u2801:0-14, u2802:0-7, u2803:0-59, u2804:0-150, u2805:0-5, u2806:0-21, u2807:0-65, u2808:0-24, u2809:0-106, u2810:0-103, u2811:0-9, u2812:0-3, u2813:0-11, u2814:0-55, u2815:0-146, u2816:0-22, u2817:0-39, u2818:0-23, u2819:0-64, u2820:0-44, u2821:0-26, u2822:0-87, u2823:0-21, u2824:0-171, u2825:0-53, u2826:0-3, u2827:0-79, u2828:0-81, u2828:81-86, u2829:0-18, u2830:0-23, u2830:23-28, u2831:0-80, u2831:80-101, u2832:0-45, u2832:45-79, u2833:0-93, u2834:0-95, u2835:0-136, u2836:0-80, u2837:0-107 %%",
+        "((Combat and the separate effort to identify Arryn))",
+        "",
+        "%% u2838:0-27, u2839:0-2, u2840:0-42, u2841:0-63, u2842:0-47, u2843:0-9 %%",
+        "DM: Mirror Alimash bursts into ah spray of like reflective snow, and you see again this like silver form beginning to emerge like out of the out of the pool, as the Wizard and Alimash both step out.",
+        "",
+        "%% u2844:0-44, u2845:0-45, u2846:0-190, u2847:0-89 %%",
+        "DM: And Arryn is now looks around, and it's like motioning for you all, and he begins he, like uh like, reaches into his robe, and takes out this uh powdered silver, blows it, and says a few arcane words, and he, as soon as Alimash emerges, the pool begins to kind of fold in on itself, begins to swirl, and it sort of almost pulls itself up into into a ball and turns opaque.",
+        "",
+        "%% u2848:0-12, u2849:0-19, u2850:0-10, u2851:0-25 %%",
+        "DM: And you like, “That was a mistake.” Thank you. I owe you much, it seems."
+      ],
+      "reviewContext": {
+        "before": [
+          "Alimash: Two wizards, one on two, two different floors. Okay, God, okay.",
+          "Shoal: So yeah, I think go with the song. And then beyond that, I think, just kill a wizard.",
+          "Alimash: Okay, is this the plan? So you should probably tie me up before you push me in the pool.",
+          "DM: Well, you're not being pushed in the pool right? You're letting your your reflection emerge. So that got it. Got it. So they have to fight. Okay.",
+          "Shoal: Yeah."
+        ],
+        "after": [
+          "Alimash: Yes, you do. That's like, like reform. You...",
+          "Wellby: Yes, Wellby's taking the excess blood off of him.",
+          "DM: What brought you to my my A.",
+          "Wellby: We came to rescue you.",
+          "Shoal: A nominal fee. Of course."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i018"
+    },
+    {
+      "title": "The song distinguishes Arryn from his mirror duplicate",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e025",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e015",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e018",
+          "role": "cameo",
+          "action": "present"
+        },
+        {
+          "id": "e026",
+          "role": "cameo",
+          "action": "observed"
+        }
+      ],
+      "source": {
+        "startUid": "u2578",
+        "endUid": "u2812"
+      },
+      "lines": [
+        "%% u2578:0-116, u2579:0-79, u2580:0-68, u2581:0-26, u2582:0-32 %%",
+        "DM: ((Unrelated setup or mechanics)) So Alimash in the mirror realm—real Alimash sees the Wizard, who just said, who are you? This can't be good.",
+        "",
+        "%% u2583:0-17, u2584:0-19, u2585:0-18 %%",
+        "Alimash: I'm, I shouldn't. We have to save you What, the other you.",
+        "",
+        "%% u2586:0-17 %%",
+        "DM: Save me from what?",
+        "",
+        "%% u2587:0-29 %%",
+        "Alimash: You're trapped in the mirror.",
+        "",
+        "%% u2588:0-17 %%",
+        "DM: This is my home.",
+        "",
+        "%% u2588:17-99, u2589:0-4 %%",
+        "Alimash: Jesus Christ! You're trapped in the mirror. There's another version of you beneath this.",
+        "",
+        "%% u2590:0-15, u2591:0-26, u2592:0-38 %%",
+        "DM: I'm by myself. Ah, fuck! What is your uh? What is your intention here, good sir?",
+        "",
+        "%% u2593:0-70 %%",
+        "Alimash: I am from the real—have you? What was the last time you left the tower?",
+        "",
+        "%% u2594:0-32, u2595:0-9, u2596:0-17 %%",
+        "DM: Haven't been in the mood lately. It's been too hot outside.",
+        "",
+        "%% u2596:17-58 %%",
+        "Alimash: Have you talked to your steward recently?",
+        "",
+        "%% u2597:0-4, u2598:0-6, u2599:0-14 %%",
+        "DM: He's no got no I haven't.",
+        "",
+        "%% u2599:14-108 %%",
+        "Alimash: What, what have you been up to? How you talked to that. I named the the other person, Resenna.",
+        "",
+        "%% u2599:108-113, u2600:0-25, u2601:0-36 %%",
+        "DM: Yeah, no, not her, either. That actually Why, don't I utilize that.",
+        "",
+        "%% u2602:0-57 %%",
+        "Alimash: Have you looked at your notes recently? Can you read them?",
+        "",
+        "%% u2603:0-19, u2604:0-35 %%",
+        "DM: Sort of blinks? Uh, where did? Where did you come from?",
+        "",
+        "%% u2605:0-15 %%",
+        "Alimash: The real realm?",
+        "",
+        "%% u2606:0-99, u2607:0-55, u2608:0-31, u2609:0-83, u2610:0-34, u2611:0-45, u2611:45-95, u2612:0-81, u2612:81-148, u2613:0-34, u2613:34-52, u2614:0-16, u2615:0-8, u2616:0-15, u2617:0-28, u2617:28-98, u2618:0-14, u2619:0-13, u2620:0-36, u2621:0-44, u2622:0-101, u2623:0-16, u2624:0-40, u2625:0-23, u2626:0-3, u2627:0-129, u2628:0-5, u2629:0-99, u2630:0-58, u2631:0-27, u2632:0-38, u2633:0-87, u2633:87-125, u2634:0-28, u2635:0-8, u2636:0-35, u2637:0-47, u2638:0-44, u2639:0-10, u2640:0-26, u2641:0-42, u2642:0-32, u2643:0-63, u2644:0-102, u2645:0-117, u2645:117-230, u2646:0-34, u2647:0-30, u2648:0-35, u2649:0-3, u2650:0-31, u2651:0-9, u2652:0-115, u2653:0-50, u2653:50-103, u2654:0-36, u2655:0-136, u2656:0-37, u2657:0-3, u2658:0-37, u2659:0-59, u2660:0-49, u2660:49-225, u2661:0-29, u2662:0-20, u2663:0-54, u2664:0-59, u2665:0-33, u2666:0-154, u2667:0-37, u2668:0-34, u2669:0-71, u2670:0-24, u2671:0-3, u2672:0-109, u2673:0-2, u2674:0-156, u2675:0-18, u2676:0-42, u2677:0-11, u2678:0-33, u2679:0-2, u2680:0-119 %%",
+        "((Combat against mirror Alimash in the real world))",
+        "",
+        "%% u2681:0-97, u2682:0-11, u2683:0-32 %%",
+        "DM: As the as the Arryn whichever Arryn this is puzzled and and kind of shakes his head for a moment. I I think I I think I've lost track of time.",
+        "",
+        "%% u2684:0-63, u2685:0-22, u2686:0-44 %%",
+        "Alimash: This is, you know what calms me down when I lose track of time? I like to sing a song. What songs do you sing when you get nervous?",
+        "",
+        "%% u2687:0-13 %%",
+        "DM: I never sing.",
+        "",
+        "%% u2688:0-15, u2689:0-30 %%",
+        "Alimash: You never sing, have you ever sang in the past?",
+        "",
+        "%% u2690:0-3 %%",
+        "DM: No?",
+        "",
+        "%% u2691:0-35, u2692:0-20 %%",
+        "Alimash: Hmm! When I start humming the song, what's the response?",
+        "",
+        "%% u2693:0-31 %%",
+        "DM: Come here, let me come with me.",
+        "",
+        "%% u2694:0-10 %%",
+        "Alimash: Come where?",
+        "",
+        "%% u2695:0-28 %%",
+        "DM: Well, let's figure this out.",
+        "",
+        "%% u2696:0-13 %%",
+        "Alimash: Tell me where.",
+        "",
+        "%% u2697:0-10, u2698:0-14, u2699:0-56 %%",
+        "DM: I I guess. Let's let's uh let's go down to my study and see what we can sort out.",
+        "",
+        "%% u2699:56-168 %%",
+        "((Spatial clarification))",
+        "",
+        "%% u2700:0-60 %%",
+        "DM: The the second wizard was in Resenna's chambers, one floor?",
+        "",
+        "%% u2700:60-141 %%",
+        "Alimash: Oh, and that's where we're going to go. I'm like. Let's go to Resenna's chambers.",
+        "",
+        "%% u2701:0-65 %%",
+        "DM: Why would we go there? Uh, Um, Just here, Take my hand. No, okay.",
+        "",
+        "%% u2702:0-5, u2703:0-55, u2704:0-23, u2705:0-15 %%",
+        "((Brief table discussion))",
+        "",
+        "%% u2706:0-109 %%",
+        "Alimash: Yeah, I um without touching him. I take my shield and push his weak wizard body away, and I move downstairs.",
+        "",
+        "%% u2706:109-190, u2707:0-128 %%",
+        "((Combat mechanics))",
+        "",
+        "%% u2708:0-25 %%",
+        "Alimash: Um, so I run downstairs.",
+        "",
+        "%% u2708:25-86, u2709:0-64, u2710:0-10, u2711:0-24, u2712:0-39, u2713:0-60, u2714:0-37 %%",
+        "DM: He chases after you, saying, Wait, wait! Where are you going? And you come down to Resenna's chambers, where the second Wizard is sitting sort of uh in her uh in. That sort of much less fancy study. Um, uh, just kind of looking a bit lost in thought and looks up. Who are you? Where did you come from?",
+        "",
+        "%% u2715:0-22 %%",
+        "Alimash: I'm here to save you?",
+        "",
+        "%% u2716:0-13 %%",
+        "DM: Save me from?",
+        "",
+        "%% u2717:0-27, u2718:0-55, u2719:0-59 %%",
+        "Alimash: We are in the Mirror Realm. Think, when's the last time you talk to another person? When's the last time you read a book, or any of your notes?",
+        "",
+        "%% u2720:0-23, u2721:0-46, u2722:0-6 %%",
+        "DM: That is quite odd where Resenna is not here. Why am I in her chambers? Gyles.",
+        "",
+        "%% u2723:0-27, u2724:0-75, u2725:0-33 %%",
+        "Alimash: They are in the real realm. Look, and I point now. There's the weak wizard guy running down chasing me. One of you is the mirror person.",
+        "",
+        "%% u2725:33-54, u2726:0-20 %%",
+        "DM: And now we go back to real world. Alimash!",
+        "",
+        "%% u2727:0-10, u2728:0-8, u2729:0-78, u2730:0-20, u2731:0-5, u2732:0-51, u2733:0-8, u2734:0-74, u2734:74-162, u2735:0-26, u2736:0-14, u2737:0-137, u2738:0-25, u2739:0-37, u2740:0-56, u2741:0-116, u2742:0-122, u2743:0-50, u2744:0-60, u2745:0-3, u2746:0-68, u2747:0-90, u2748:0-140, u2749:0-5, u2750:0-23, u2751:0-41, u2752:0-41, u2753:0-58, u2754:0-3, u2755:0-92, u2756:0-45, u2756:45-97, u2757:0-31, u2758:0-69, u2759:0-49, u2759:49-113, u2760:0-37, u2761:0-17, u2762:0-75, u2763:0-3, u2764:0-11, u2765:0-136, u2766:0-122, u2767:0-142, u2768:0-10, u2769:0-8, u2770:0-28, u2771:0-22, u2772:0-50, u2773:0-16, u2774:0-102, u2775:0-10, u2776:0-22, u2777:0-57, u2778:0-3, u2779:0-26, u2780:0-5, u2781:0-116, u2782:0-93, u2783:0-29, u2784:0-44, u2785:0-329, u2786:0-45, u2787:0-167, u2788:0-15 %%",
+        "((Combat and restraint of mirror Alimash))",
+        "",
+        "%% u2789:0-84 %%",
+        "Alimash: Okay, um. So there's the two of them. They've seen each other. What are they doing?",
+        "",
+        "%% u2789:84-186, u2790:0-25, u2791:0-87 %%",
+        "DM: So, so now you've, you've had the same conversation now with both of them and the one who was downstairs now, looking at you like, yeah, some things, something's definitely wrong. Where did you say you came from again?",
+        "",
+        "%% u2792:0-15 %%",
+        "Alimash: The real world?",
+        "",
+        "%% u2793:0-51, u2794:0-7 %%",
+        "DM: How did you get here? What, what are you doing here? What is.",
+        "",
+        "%% u2795:0-37 %%",
+        "Alimash: I got here the same way you got here.",
+        "",
+        "%% u2796:0-74, u2797:0-15 %%",
+        "DM: Something does something to your memory. The longer you stay here I can't. It's not clear.",
+        "",
+        "%% u2798:0-29 %%",
+        "Alimash: I start humming a song again.",
+        "",
+        "%% u2799:0-25 %%",
+        "DM: The Lost Lads of Tollen.",
+        "",
+        "%% u2799:25-137 %%",
+        "Alimash: I immediately stab the other one like zero hesitation. ((Unrelated continuation))",
+        "",
+        "%% u2800:0-69, u2801:0-14, u2802:0-7, u2803:0-59, u2804:0-150, u2805:0-5, u2806:0-21 %%",
+        "((Attack and damage adjudication))",
+        "",
+        "%% u2807:0-65, u2808:0-24, u2809:0-106, u2810:0-103, u2811:0-9, u2812:0-3 %%",
+        "DM: Yeah, okay, so. And you see this uh this wizard form just kind of burst into this cloud of mist. And suddenly the wizard that you're standing next to it's like a swirling vortex, and then vanishes. You two, and mirror Alimash now see slowly beginning to form emerge out of the silver pool the form of a wizard. Um."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Uh, uh, I mean, I guess I'll take steady aim and attack right? Because we want to wear this guy down a little bit.",
+          "DM: Right? Yeah.",
+          "Wellby: All right, well take steady aim and attack them. Here we go.",
+          "DM: All right. The arrow strikes, Alimash mirror, Alimash, piercing through his armor, doing thirty thirty points of damage.",
+          "Alimash: So."
+        ],
+        "after": [
+          "Shoal: I I turn to Wellby, and I say, I say, “Sneak attack, sneak attack.”",
+          "DM: But it's now it's mirror, Alimash's turn. You're restrained. So you've got disadvantage on everything. But you do have one spear left in your hand.",
+          "Alimash: Full rage after Wellby.",
+          "DM: That still hits even with disadvantage.",
+          "Alimash: And then I do a another of the disarm attack. So then I get a roll one d ten for damage."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i019"
+    },
+    {
+      "title": "Shoal receives the deck of painted illusions",
+      "entities": [
+        {
+          "id": "e027",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "interacted"
+        },
+        {
+          "id": "e013",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2863",
+        "endUid": "u2875"
+      },
+      "lines": [
+        "%% u2863:0-54, u2864:0-96, u2865:0-33, u2866:0-48, u2867:0-31 %%",
+        "Shoal: I probably have one of the simpler requests. I'm just courting a king's daughter, and would love to present her with something worthy of her position. A magic item, a ring. Perhaps you something that should impress and demonstrate my my power and my my love for her.",
+        "",
+        "%% u2868:0-16, u2869:0-8, u2870:0-49, u2871:0-3, u2872:0-108, u2873:0-64, u2874:0-182 %%",
+        "DM: An elven maiden, I assume? He goes downstairs, and he rummages around in his his uh for a moment, and brings out this uh deck of cards that are that are painted with this sort of beautiful. Ah, like there's the clubs are flowers, the hearts are gems, the the spades are trees, the um diamonds are coral, and as he draws each card like, lays it down on the table, and this illusion begins to grow up from the card of whatever is depicted.",
+        "",
+        "%% u2875:0-26 %%",
+        "Shoal: It's beautiful. Thank you."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Yes, Wellby's taking the excess blood off of him.",
+          "DM: What brought you to my my A.",
+          "Wellby: We came to rescue you.",
+          "Shoal: A nominal fee. Of course.",
+          "DM: I am. I am certainly in your debt. What? What can I do for you? Of course, if that's what you'd like?"
+        ],
+        "after": [
+          "Alimash: I like toss my shield at him, “Make this magical. I went to a different realm for you. I don't understand wizards. I do not like them. I want this shield to protect me from wizards.”",
+          "DM: I am. I am not an artificer. I have little skill in that craft, but I do believe I may have something.",
+          "Unknown: Hmm.",
+          "DM: May have something that would uh appeal to you.",
+          "Alimash: I take it to the [garbled]. Okay, I could have been trapped in that fucking Mirror Realm."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i020"
+    },
+    {
+      "title": "Arryn gives Alimash protection from charms and possession",
+      "entities": [
+        {
+          "id": "e028",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2876",
+        "endUid": "u2894"
+      },
+      "lines": [
+        "%% u2876:0-6, u2877:0-173 %%",
+        "Alimash: I like toss my shield at him, “Make this magical. I went to a different realm for you. I don't understand wizards. I do not like them. I want this shield to protect me from wizards.”",
+        "",
+        "%% u2878:0-5, u2879:0-22, u2880:0-34, u2881:0-18, u2882:0-19 %%",
+        "DM: I am. I am not an artificer. I have little skill in that craft, but I do believe I may have something.",
+        "",
+        "%% u2883:0-3 %%",
+        "((Brief reaction))",
+        "",
+        "%% u2884:0-32, u2885:0-14 %%",
+        "DM: May have something that would uh appeal to you.",
+        "",
+        "%% u2886:0-23, u2887:0-5, u2888:0-55 %%",
+        "Alimash: I take it to the [garbled]. Okay, I could have been trapped in that fucking Mirror Realm.",
+        "",
+        "%% u2889:0-28, u2890:0-59, u2891:0-112, u2892:0-49 %%",
+        "DM: I don't like people, either. I'm doing you a favor. Some politeness could be appreciated despite my debt. This is a sacrifice, and he takes a ring off of his finger, and he hands it to you, and he says, “This will protect you from charms and possession.”",
+        "",
+        "%% u2893:0-38 %%",
+        "Alimash: That would be a big relief. Thank you.",
+        "",
+        "%% u2894:0-24 %%",
+        "DM: Is yours with my thanks."
+      ],
+      "reviewContext": {
+        "before": [
+          "Shoal: A nominal fee. Of course.",
+          "DM: I am. I am certainly in your debt. What? What can I do for you? Of course, if that's what you'd like?",
+          "Shoal: I probably have one of the simpler requests. I'm just courting a king's daughter, and would love to present her with something worthy of her position. A magic item, a ring. Perhaps you something that should impress and demonstrate my my power and my my love for her.",
+          "DM: An elven maiden, I assume? He goes downstairs, and he rummages around in his his uh for a moment, and brings out this uh deck of cards that are that are painted with this sort of beautiful. Ah, like there's the clubs are flowers, the hearts are gems, the the spades are trees, the um diamonds are coral, and as he draws each card like, lays it down on the table, and this illusion begins to grow up from the card of whatever is depicted.",
+          "Shoal: It's beautiful. Thank you."
+        ],
+        "after": [
+          "Alimash: I look at Wellby, and I'm like if I do that, it's It's gonna—Wellby's like bleeding.",
+          "Wellby: I say I, you may have done this, but I did that. And then, realizing there's no body just like two arrows sitting on a You had to be here. It was really impressive.",
+          "Alimash: But wait, I see. Your crossbow is like way over there, and you're over here.",
+          "Wellby: Oh, my um, yeah, I did.",
+          "DM: What about you, halfling? What can I do for you?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i021"
+    },
+    {
+      "title": "Arryn offers transport and explains fey reciprocity",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2900",
+        "endUid": "u2922"
+      },
+      "lines": [
+        "%% u2900:0-47 %%",
+        "DM: What about you, halfling? What can I do for you?",
+        "",
+        "%% u2901:0-133, u2902:0-121, u2903:0-76, u2904:0-8, u2905:0-36 %%",
+        "Wellby: Well, if this was really a story, I would ask you for a bow that never misses, and boots that never wear out and a map of every road, but failing that, what I really need is um, I I got sucked through a portal two thousand miles west of here, and I need a through the Feywild to get myself back to meet the rest of my friends again. You know you're the one to talk to. I'm sorry.",
+        "",
+        "%% u2906:0-66 %%",
+        "DM: I can. I can teleport you anywhere in the Feywild you wish to go.",
+        "",
+        "%% u2907:0-74, u2908:0-56, u2909:0-10, u2910:0-52 %%",
+        "Wellby: Please don't interpret this as anything other than deepest gratitude. But once I get there I don't know how to get back out again, or through as valuable as that is, and as much as I do need it.",
+        "",
+        "%% u2911:0-53 %%",
+        "Wellby: I think I need some way to navigate once I get there.",
+        "",
+        "%% u2912:0-10, u2913:0-12, u2914:0-18, u2915:0-36, u2916:0-16, u2917:0-41, u2918:0-2, u2919:0-25, u2920:0-17, u2921:0-38, u2922:0-98 %%",
+        "DM: Well, yes, Feywild is a is a tricky place, the best way to navigate is a guide, and the best way to get a fey to trust you is with a gift. He... Creatures of the Feywild. Well, they honor, they honor their reciprocity of gifts, you give them something of value, they will be obligated to give you something of value in return."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Is yours with my thanks.",
+          "Alimash: I look at Wellby, and I'm like if I do that, it's It's gonna—Wellby's like bleeding.",
+          "Wellby: I say I, you may have done this, but I did that. And then, realizing there's no body just like two arrows sitting on a You had to be here. It was really impressive.",
+          "Alimash: But wait, I see. Your crossbow is like way over there, and you're over here.",
+          "Wellby: Oh, my um, yeah, I did."
+        ],
+        "after": [
+          "DM: So here let me give you this as a gift or a fey to guide you, and he goes down to his study, and he comes back with a.",
+          "Unknown: Now.",
+          "DM: A pearl on a on a necklace that's glowing faintly like moonlight, and he says, “The sun never moves in the Feywild. To see the moon set far to the west requires a journey of thousands of miles. This necklace it contains the glow of the moon. Many fey will highly value that.”",
+          "DM: Give it to you as a token a for a guide when you arrive. But even so, where would you have me send you?",
+          "Wellby: The exit near Eudomes' tower, to the east of there."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i022"
+    },
+    {
+      "title": "The moonlight necklace is given to obtain a guide",
+      "entities": [
+        {
+          "id": "e029",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2923",
+        "endUid": "u2940"
+      },
+      "lines": [
+        "%% u2923:0-38, u2924:0-22, u2925:0-55 %%",
+        "DM: So here let me give you this as a gift or a fey to guide you, and he goes down to his study, and he comes back with a.",
+        "",
+        "%% u2926:0-3 %%",
+        "((Interruption))",
+        "",
+        "%% u2927:0-77, u2928:0-35, u2929:0-46, u2930:0-30, u2931:0-13, u2932:0-33, u2933:0-32 %%",
+        "DM: A pearl on a on a necklace that's glowing faintly like moonlight, and he says, “The sun never moves in the Feywild. To see the moon set far to the west requires a journey of thousands of miles. This necklace it contains the glow of the moon. Many fey will highly value that.”",
+        "",
+        "%% u2934:0-19, u2935:0-5, u2936:0-34, u2937:0-41 %%",
+        "DM: Give it to you as a token a for a guide when you arrive. But even so, where would you have me send you?",
+        "",
+        "%% u2938:0-50 %%",
+        "Wellby: The exit near Eudomes' tower, to the east of there.",
+        "",
+        "%% u2939:0-15, u2940:0-15 %%",
+        "DM: Lastlight Falls. Lastlight Falls."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Well, if this was really a story, I would ask you for a bow that never misses, and boots that never wear out and a map of every road, but failing that, what I really need is um, I I got sucked through a portal two thousand miles west of here, and I need a through the Feywild to get myself back to meet the rest of my friends again. You know you're the one to talk to. I'm sorry.",
+          "DM: I can. I can teleport you anywhere in the Feywild you wish to go.",
+          "Wellby: Please don't interpret this as anything other than deepest gratitude. But once I get there I don't know how to get back out again, or through as valuable as that is, and as much as I do need it.",
+          "Wellby: I think I need some way to navigate once I get there.",
+          "DM: Well, yes, Feywild is a is a tricky place, the best way to navigate is a guide, and the best way to get a fey to trust you is with a gift. He... Creatures of the Feywild. Well, they honor, they honor their reciprocity of gifts, you give them something of value, they will be obligated to give you something of value in return."
+        ],
+        "after": [
+          "Wellby: Lastlight Falls. If I could ask your indulgence, I reach into a pouch at my waist and pull out a small carved ebony fly. I've carried this with me for months now, ever since I took it from Agata, who we killed in the deserts to the east of Dunmar. But every time I speak the word that turns it into a fly who ought to be a friendly, delightful mount, it just tries to kill me. I've yet to meet someone with the skill to understand how to control this creature. Do you know?",
+          "DM: May I?",
+          "Wellby: Please?",
+          "DM: [garbled], investigates, cast a spell over it that is puzzling, spends a few more minutes, casts another spell. will not take a new master until its old master is dead.",
+          "Wellby: No, no, no, no, no, no! Is what I'm saying out loud right now. No, what do you mean? It's old master is dead. We."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i023"
+    },
+    {
+      "title": "The ebony fly’s living master remains unidentified",
+      "entities": [
+        {
+          "id": "e030",
+          "role": "star",
+          "action": "observed"
+        },
+        {
+          "id": "e031",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e011",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2941",
+        "endUid": "u2972"
+      },
+      "lines": [
+        "%% u2941:0-16, u2942:0-64, u2943:0-38, u2944:0-126, u2945:0-128, u2946:0-96 %%",
+        "Wellby: Lastlight Falls. If I could ask your indulgence, I reach into a pouch at my waist and pull out a small carved ebony fly. I've carried this with me for months now, ever since I took it from Agata, who we killed in the deserts to the east of Dunmar. But every time I speak the word that turns it into a fly who ought to be a friendly, delightful mount, it just tries to kill me. I've yet to meet someone with the skill to understand how to control this creature. Do you know?",
+        "",
+        "%% u2947:0-5 %%",
+        "DM: May I?",
+        "",
+        "%% u2948:0-7 %%",
+        "Wellby: Please?",
+        "",
+        "%% u2949:0-15, u2950:0-13, u2951:0-20, u2952:0-7, u2953:0-9, u2954:0-47, u2955:0-56 %%",
+        "DM: ((Unrelated setup or mechanics)) will not take a new master until its old master is dead.",
+        "",
+        "%% u2956:0-112 %%",
+        "Wellby: No, no, no, no, no, no! Is what I'm saying out loud right now. No, what do you mean? It's old master is dead. We.",
+        "",
+        "%% u2957:0-9, u2958:0-60 %%",
+        "((Table reactions))",
+        "",
+        "%% u2959:0-85, u2960:0-44 %%",
+        "Wellby: Hold on! Out of character, Tim. Do we see it? Agata or a sand witch riding that thing, like. Is it known that Agata was its master?",
+        "",
+        "%% u2961:0-39 %%",
+        "DM: You never! You never saw Agata ride it?",
+        "",
+        "%% u2962:0-21, u2963:0-83 %%",
+        "Wellby: Well, then, honestly, how do I know who its master is? Perhaps the one I killed wasn't really its master.",
+        "",
+        "%% u2964:0-4 %%",
+        "((Brief reaction))",
+        "",
+        "%% u2965:0-8, u2966:0-20, u2967:0-33 %%",
+        "DM: My magic did not reveal that. Just that its master still lives.",
+        "",
+        "%% u2968:0-12, u2969:0-23, u2970:0-18, u2971:0-16, u2972:0-15 %%",
+        "DM: I would ask, this is a fey creation. If you can bargain with an archfey, they would know."
+      ],
+      "reviewContext": {
+        "before": [
+          "Unknown: Now.",
+          "DM: A pearl on a on a necklace that's glowing faintly like moonlight, and he says, “The sun never moves in the Feywild. To see the moon set far to the west requires a journey of thousands of miles. This necklace it contains the glow of the moon. Many fey will highly value that.”",
+          "DM: Give it to you as a token a for a guide when you arrive. But even so, where would you have me send you?",
+          "Wellby: The exit near Eudomes' tower, to the east of there.",
+          "DM: Lastlight Falls. Lastlight Falls."
+        ],
+        "after": [
+          "Wellby: And ask your indulgence and pose one more question to you.",
+          "DM: Indeed.",
+          "Wellby: Do you have any tips for bargaining with a storm giant?",
+          "DM: You are oddities now, aren't you, halfling from the west. Do I detect a Sembaran accent?",
+          "Wellby: You do indeed."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i024"
+    },
+    {
+      "title": "Arryn advises honorable bargaining with giants",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2973",
+        "endUid": "u2986"
+      },
+      "lines": [
+        "%% u2973:0-58 %%",
+        "Wellby: And ask your indulgence and pose one more question to you.",
+        "",
+        "%% u2974:0-7 %%",
+        "DM: Indeed.",
+        "",
+        "%% u2975:0-55 %%",
+        "Wellby: Do you have any tips for bargaining with a storm giant?",
+        "",
+        "%% u2976:0-7, u2977:0-25, u2978:0-23, u2979:0-30 %%",
+        "DM: You are oddities now, aren't you, halfling from the west. Do I detect a Sembaran accent?",
+        "",
+        "%% u2980:0-14 %%",
+        "Wellby: You do indeed.",
+        "",
+        "%% u2981:0-15, u2982:0-20, u2983:0-30, u2984:0-13 %%",
+        "DM: From near there a storm giant? Well, giants are creatures of honor, the honorable.",
+        "",
+        "%% u2985:0-4, u2986:0-10 %%",
+        "Wellby: Hmm. Thank you."
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: You never! You never saw Agata ride it?",
+          "Wellby: Well, then, honestly, how do I know who its master is? Perhaps the one I killed wasn't really its master.",
+          "Unknown: Hmm.",
+          "DM: My magic did not reveal that. Just that its master still lives.",
+          "DM: I would ask, this is a fey creation. If you can bargain with an archfey, they would know."
+        ],
+        "after": [
+          "DM: Now, if all are satisfied, I will send you on your way.",
+          "Alimash: Oh, your steward! Um, he has been through a lot.",
+          "Wellby: Lot.",
+          "DM: I will see he is tended to.",
+          "Shoal: At least a bath and a razor. Probably it would be reasonable."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i025"
+    },
+    {
+      "title": "Arryn tends to Gyles and offers Alimash work as the party separates",
+      "entities": [
+        {
+          "id": "e011",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e015",
+          "role": "supporting",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2987",
+        "endUid": "u3022"
+      },
+      "lines": [
+        "%% u2987:0-4, u2988:0-50 %%",
+        "DM: Now, if all are satisfied, I will send you on your way.",
+        "",
+        "%% u2989:0-21, u2990:0-25 %%",
+        "Alimash: Oh, your steward! Um, he has been through a lot.",
+        "",
+        "%% u2991:0-4 %%",
+        "Wellby: Lot.",
+        "",
+        "%% u2992:0-26 %%",
+        "DM: I will see he is tended to.",
+        "",
+        "%% u2993:0-61 %%",
+        "Shoal: At least a bath and a razor. Probably it would be reasonable.",
+        "",
+        "%% u2994:0-36 %%",
+        "Wellby: Maybe counseling would probably help.",
+        "",
+        "%% u2995:0-28, u2996:0-34, u2997:0-20 %%",
+        "DM: Again. My thanks to you all. We wish you well on your journeys, your courtship, your.",
+        "",
+        "%% u2998:0-18, u2999:0-39, u3000:0-71 %%",
+        "DM: Looking at Alimash, attempts to find peace. Wizard slaying! He has a Do you have a taste for it? Now? If you wish to slay wizards?",
+        "",
+        "%% u3000:71-76, u3001:0-87 %%",
+        "Alimash: No, I I wish that he's got some enemies he wants slain. I wish to have steady work and honor.",
+        "",
+        "%% u3002:0-9, u3003:0-42 %%",
+        "DM: I do have work. A man of your talent could help with.",
+        "",
+        "%% u3004:0-4, u3005:0-18, u3006:0-13 %%",
+        "Alimash: Hmm. Alimash is open to open to that.",
+        "",
+        "%% u3007:0-24, u3008:0-55, u3009:0-13 %%",
+        "DM: Perhaps maybe you would. But I will not. I will not keep you, sea elf, from your fair maiden.",
+        "",
+        "%% u3009:13-64 %%",
+        "Shoal: But yeah, I'm already like walking out to the boat.",
+        "",
+        "%% u3009:64-138, u3010:0-38, u3011:0-14, u3012:0-13, u3013:0-31, u3014:0-36, u3015:0-24 %%",
+        "DM: As I as I send this halfling to the fey. Well, perhaps you, Alimash, would stay for dinner, and we could discuss. Should you not find my offer compelling, I will see that you find passage to a port where you can look for work elsewhere.",
+        "",
+        "%% u3016:0-17 %%",
+        "Alimash: That sounds good.",
+        "",
+        "%% u3017:0-30, u3018:0-15, u3019:0-18, u3020:0-2, u3021:0-41, u3022:0-81 %%",
+        "DM: And with that he casts a spell. Wellby vanishes. Shoal heads to the um to the boat, to sail back and Alimash and the steward, and then sit down to a nice dinner, and we will. We will stop there."
+      ],
+      "reviewContext": {
+        "before": [
+          "Wellby: Do you have any tips for bargaining with a storm giant?",
+          "DM: You are oddities now, aren't you, halfling from the west. Do I detect a Sembaran accent?",
+          "Wellby: You do indeed.",
+          "DM: From near there a storm giant? Well, giants are creatures of honor, the honorable.",
+          "Wellby: Hmm. Thank you."
+        ],
+        "after": [
+          "DM: Um, but of course, can you hang on for a few minutes after? Because there's a script for Wellby.",
+          "Alimash: Hmm."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "id": "i026"
+    }
+  ]
+}
