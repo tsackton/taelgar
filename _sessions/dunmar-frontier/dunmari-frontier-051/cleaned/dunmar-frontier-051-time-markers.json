@@ -1,0 +1,1220 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmar-frontier-051",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-051/cleaned/dunmar-frontier-051-session.yaml",
+    "sessionYamlSha256": "f26201829f2f99a8ff0f756583577f1db716fa2b97fc7e82abcf5e7232e4f14d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-051/cleaned/dunmar-frontier-051-transcript.md",
+    "transcriptSha256": "5e13f1085c9f55ce14ce7ee719e58a5ddff02019578f3b1ca8224a1cc6c5248d",
+    "yamlDates": {
+      "start": "1748-08-29",
+      "end": "1748-09-06"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0012",
+        "endUid": "u0022"
+      },
+      "reading": "The party examines the defeated hunter at about 2 a.m.",
+      "evidence": [
+        {
+          "startUid": "u0012",
+          "endUid": "u0022",
+          "quote": "DM: And you are left as Seeker, um, struggles back awake, thanks to Delwath's healing potion. And, um, you, uh, it is still, like, 2:00 in the morning and you are, you know, looking around the, the dead body of this now, um, slightly s- small framed, um, uh, kind of, uh, sickly looking human."
+        },
+        {
+          "startUid": "u0225",
+          "endUid": "u0227",
+          "quote": "2:00 in the morning."
+        },
+        {
+          "startUid": "u0227",
+          "endUid": "u0227",
+          "quote": "DM: 2:00 in the morning."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s stated local time",
+        "clock": "02:00"
+      }
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0074",
+        "endUid": "u0085"
+      },
+      "reading": "The mirror opens an earlier scene of the mask’s creation.",
+      "evidence": [
+        {
+          "startUid": "u0074",
+          "endUid": "u0085",
+          "quote": "DM: Uh, you, you hold up the, um, the mask to the mirror and you see a, with Mage Hand, um, uh, the mirror shifts and you see, um, what looks like, uh, um... It's dark, it looks like maybe a prison or, or a underground basement room. It's, uh, just a thin light cast from a candle, uh, and a couple of torches mounted on the wall. And there is a, um, person. Well, you asked where the mask comes, came from? Yep. So you see, uh..."
+        }
+      ],
+      "context": "vision"
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0131",
+        "endUid": "u0142"
+      },
+      "reading": "The mask fuses with the captive and transforms him over three or four minutes in the vision.",
+      "evidence": [
+        {
+          "startUid": "u0131",
+          "endUid": "u0142",
+          "quote": "DM: And over the next three, four minutes, the mask sort of fuses into this person's face and the shadow, the darkness envelops them. They begin to grow slightly, um, out of their hand, a spear begins to grow and form. Um, a, a cl- a cloak begins to form over their head and, and, um, uh, head and, uh, and arms and draping down. They be- begin to become taller. The bonds fall away and, and they stand up. Um,"
+        }
+      ],
+      "duration": {
+        "min": 3,
+        "minInclusive": true,
+        "max": 4,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Elapsed time inside the mirror vision"
+      },
+      "context": "vision",
+      "completion": "completed",
+      "relations": [
+        {
+          "type": "during",
+          "target": "t02"
+        }
+      ]
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0176",
+        "endUid": "u0180"
+      },
+      "reading": "Discussion returns to the party and identifies what they have just seen.",
+      "evidence": [
+        {
+          "startUid": "u0176",
+          "endUid": "u0180",
+          "quote": "Delwath: Is this like, this isn't, this is some sort of, this isn't Fausto's workshop or anything like that, right?"
+        },
+        {
+          "startUid": "u0178",
+          "endUid": "u0180",
+          "quote": "DM: It's not the room you saw. But you didn't go to the top of the tower. Right. Okay."
+        }
+      ],
+      "relations": [
+        {
+          "type": "returns_to",
+          "target": "t01"
+        }
+      ]
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0533",
+        "endUid": "u0545"
+      },
+      "reading": "The nearby camp rest begins around 3 a.m. and runs into the morning; the table grants a long rest.",
+      "evidence": [
+        {
+          "startUid": "u0533",
+          "endUid": "u0538",
+          "quote": "Delwath: Okay. So we find somewhere off the river to... Within two miles of here-"
+        },
+        {
+          "startUid": "u0538",
+          "endUid": "u0538",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u0539",
+          "endUid": "u0540",
+          "quote": "That's gonna take us from like 3:00 till 8:00, 9:00."
+        },
+        {
+          "startUid": "u0540",
+          "endUid": "u0540",
+          "quote": "DM: Yeah."
+        },
+        {
+          "startUid": "u0616",
+          "endUid": "u0616",
+          "quote": "DM: So you wake, everybody gets a long rest."
+        },
+        {
+          "startUid": "u0635",
+          "endUid": "u0636",
+          "quote": "DM: It's like 8:30, 9:00 AM when you wake up."
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "DM’s stated local time",
+          "clock": "03:00"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "DM gives waking as 8:30–9 a.m.; endpoint approximate",
+          "clock": "09:00"
+        }
+      },
+      "completion": "completed",
+      "note": "The table’s stated clocks govern; no extra eight-hour interval is added to this interrupted night’s remaining sleep."
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0576",
+        "endUid": "u0583"
+      },
+      "reading": "Delwath’s second scry shows Fausto asleep at about 7 a.m.",
+      "evidence": [
+        {
+          "startUid": "u0576",
+          "endUid": "u0580",
+          "quote": "He is sleeping."
+        },
+        {
+          "startUid": "u0580",
+          "endUid": "u0580",
+          "quote": "DM: He is sleeping."
+        },
+        {
+          "startUid": "u0582",
+          "endUid": "u0583",
+          "quote": "DM: Well, if you... This is your second scry, so this would be like 7:00 AM."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s stated local time",
+        "clock": "07:00"
+      }
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0586",
+        "endUid": "u0586"
+      },
+      "reading": "Delwath has rested again and resumes scrying at 8 a.m.",
+      "evidence": [
+        {
+          "startUid": "u0586",
+          "endUid": "u0586",
+          "quote": "DM: So now you've rested again, so now it's 8:00 AM."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s stated local time",
+        "clock": "08:00"
+      }
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0635",
+        "endUid": "u0636"
+      },
+      "reading": "The party wakes around 8:30–9 a.m.; Kenzo emerges from his giant-related dream.",
+      "evidence": [
+        {
+          "startUid": "u0635",
+          "endUid": "u0636",
+          "quote": "DM: It's like 8:30, 9:00 AM when you wake up."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Stated waking window 8:30–9 a.m.; structured clock retains its approximate lower endpoint",
+        "clock": "08:30"
+      }
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u0856",
+        "endUid": "u0858"
+      },
+      "reading": "Breakfast and spells finish at midmorning, about 10 a.m., before departure.",
+      "evidence": [
+        {
+          "startUid": "u0856",
+          "endUid": "u0858",
+          "quote": "DM: So mid-morning now, around 10:00 AM after breakfast and spells and mirror and... I guess you did the mirror last night."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s stated local time",
+        "clock": "10:00",
+        "partOfDay": "midmorning"
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u0884",
+        "endUid": "u0901"
+      },
+      "reading": "The overland ride toward Arendum is compressed as roughly two and a half days.",
+      "evidence": [
+        {
+          "startUid": "u0884",
+          "endUid": "u0885",
+          "quote": "DM: Um, you spend the next, um- You spend the next couple of days riding, um, trading off as you have before."
+        },
+        {
+          "startUid": "u0901",
+          "endUid": "u0901",
+          "quote": "DM: So yeah, it, over the next, over the next, like, two and a half days, you manage to travel, um, across, across the landscape sort of coming-"
+        }
+      ],
+      "duration": {
+        "value": 2.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Narrated elapsed play"
+      },
+      "completion": "completed",
+      "note": "The source then resolves intermediate stops and explicitly places arrival late August 31; the montage is approximate, not an independent exact boundary count."
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u0924",
+        "endUid": "u0933"
+      },
+      "reading": "The first resolved travel day reaches more settled land north of Arkad in late afternoon/evening.",
+      "evidence": [
+        {
+          "startUid": "u0924",
+          "endUid": "u0933",
+          "quote": "DM: About towards the end, you know, around mid-afternoon, late afternoon on the first day, um, you start to come in, you start to, like, uh, like settlement density has been lower away from the river. Um, you know, it's slightly wooded. You've mostly got, like, shepherds and, and dairy farmers up here. Um, but, uh, as you come sort of maybe to, like, mile 380 away from Chardon sort of late into the evening, you're coming back into a more settled area and, um, there's a more developed road leading south to the river which, um, leads to another city, uh, Arkad, which is, uh, about 100 miles downriver from Arendum and maybe 20 miles south of where you are."
+        }
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "DM’s stated local time",
+          "partOfDay": "late afternoon"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "DM’s stated local time",
+          "partOfDay": "evening"
+        }
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t10"
+        }
+      ]
+    },
+    {
+      "id": "t12",
+      "source": {
+        "startUid": "u0980",
+        "endUid": "u0984"
+      },
+      "reading": "Travel resumes the next narrated morning, explicitly August 31.",
+      "evidence": [
+        {
+          "startUid": "u0980",
+          "endUid": "u0984",
+          "quote": "DM: Um, so the next morning, August 31st, uh, you, you wake up again about, you know, probably, like, about 65 miles from Arendum, so you could get there late tonight if you don't stop. Um-"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM states August 31; no year independently spoken",
+        "partOfDay": "morning",
+        "date": {
+          "month": 8,
+          "day": 31
+        }
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t10"
+        }
+      ]
+    },
+    {
+      "id": "t13",
+      "source": {
+        "startUid": "u1049",
+        "endUid": "u1053"
+      },
+      "reading": "Arrival outside Arendum is corrected from September 1 to late August 31.",
+      "evidence": [
+        {
+          "startUid": "u1049",
+          "endUid": "u1053",
+          "quote": "DM: Okay, so you arrive in Arendum on September 1st, late at night on August 31st, find, find a place, find an inn, find a place to camp. Um, so Arnd- so as you arrive to Arendum... Yeah."
+        },
+        {
+          "startUid": "u1101",
+          "endUid": "u1105",
+          "quote": "DM: But there's a fair bit of activity out- outside the walls, right? Like, there's, you know, some, some merchant, some, like, taverns and inns and there's seems to be, like, a, a little bit of a impromptu market. Um, there's, you know, a few halfling caravans set up camping. Um, even though it's, like, 9:00, 10:00 when you, when you arrive, you're not arriving to a dead,"
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Accepted correction to late August 31; 9–10 p.m. arrival range, clock approximately its lower endpoint",
+        "clock": "21:00",
+        "partOfDay": "night",
+        "date": {
+          "month": 8,
+          "day": 31
+        }
+      }
+    },
+    {
+      "id": "t14",
+      "source": {
+        "startUid": "u1130",
+        "endUid": "u1153"
+      },
+      "reading": "The night at the inn passes and Delwath starts the following morning’s scry at 8 a.m.",
+      "evidence": [
+        {
+          "startUid": "u1130",
+          "endUid": "u1131",
+          "quote": "DM: So, yeah. So, so we'll, we'll assume you just crash for the night because you've gotten exhausted."
+        },
+        {
+          "startUid": "u1139",
+          "endUid": "u1139",
+          "quote": "DM: Yeah. So I'm gonna say, just tell me what you, who you wanna scry this morning, and then we'll pick up after a break in Arendum."
+        },
+        {
+          "startUid": "u1149",
+          "endUid": "u1149",
+          "quote": "Delwath: It's 8:00 o'clock in the morning."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "8 a.m. stated; September 1 inferred from the completed night after August 31",
+        "clock": "08:00",
+        "partOfDay": "morning",
+        "date": {
+          "month": 9,
+          "day": 1
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t15",
+      "source": {
+        "startUid": "u1155",
+        "endUid": "u1163"
+      },
+      "reading": "Servius’s shipboard scry scene is at local sunrise, west of Delwath’s 8 a.m. observation.",
+      "evidence": [
+        {
+          "startUid": "u1150",
+          "endUid": "u1153",
+          "quote": "DM: Okay. Um, he's a fair bit west, so it's considerably earlier for him. Um- Time zone's playing against me this time."
+        },
+        {
+          "startUid": "u1155",
+          "endUid": "u1163",
+          "quote": "DM: Uh, he is, uh, um, he is, um, sitting on the deck of a ship, sailing in what look like, um, uh, calm seas, watching the sun rise. [gentle music] There's a few crew around, humans. Um, the ship seems to be sailing south by the direction of the sun, um, and he's watching the sun rise over the ocean."
+        }
+      ],
+      "actors": [
+        "Servius"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Observed sunrise at Servius’s location; explicitly a different local clock",
+        "partOfDay": "sunrise",
+        "relative": {
+          "relation": "same_time",
+          "reference": "t14",
+          "anchor": "Delwath’s 8 a.m. scry as seen at Servius’s different local clock"
+        }
+      }
+    },
+    {
+      "id": "t16",
+      "source": {
+        "startUid": "u1269",
+        "endUid": "u1277"
+      },
+      "reading": "A servant interrupts Johar’s meditation about seven minutes into Delwath’s scry.",
+      "evidence": [
+        {
+          "startUid": "u1269",
+          "endUid": "u1277",
+          "quote": "DM: And about seven minutes into the scry, as you watch him meditate, there's a knock at the door, and a servant opens the door and, um, gives him a slight nod, and Johar slowly sort of comes out of his trance, um, turns and, and looks at the servant and says, \"Will he see me yet?\" The servant says, uh, \"Not, not today. Um, he is, uh, too busy with meetings, but, um, I have this message for you.\" And he hands him a sealed, uh, a sealed letter. Um-"
+        }
+      ],
+      "duration": {
+        "value": 7,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed play"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t17",
+      "source": {
+        "startUid": "u1983",
+        "endUid": "u1987"
+      },
+      "reading": "The Arendum day closes with the party regrouping; dinner in the inn dates Grash’s scry to evening.",
+      "evidence": [
+        {
+          "startUid": "u1983",
+          "endUid": "u1987",
+          "quote": "DM: Um, yeah, okay. So by the, by the end of the day, you sort of all gather back in, um... What is that? 15. Uh, Fausto makes a save."
+        },
+        {
+          "startUid": "u1988",
+          "endUid": "u1992",
+          "quote": "Delwath: I'm also gonna try Kilrogg. At e-evening."
+        },
+        {
+          "startUid": "u1991",
+          "endUid": "u1992",
+          "quote": "Delwath: I'll wait till evening. Wait till we're all around. You all watch the little bowl fill with water."
+        },
+        {
+          "startUid": "u2144",
+          "endUid": "u2151",
+          "quote": "DM: Maybe tomorrow. So you return to the inn, and as you, um, have dinner up in your room so Delwath can scry, discuss your day, and Delwath takes out his bowl and casts Scry on Grash. And you see, um, you see the room. Hold on a sec here. Finally succeeded on Grash."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s stated local time",
+        "partOfDay": "evening"
+      },
+      "note": "This anchors the reunion and scry, not every independent errand during the day."
+    },
+    {
+      "id": "t18",
+      "source": {
+        "startUid": "u2342",
+        "endUid": "u2344"
+      },
+      "reading": "After the next morning’s departure, ride north for a couple of hours before turning invisible.",
+      "evidence": [
+        {
+          "startUid": "u2318",
+          "endUid": "u2327",
+          "quote": "Delwath: So I think in the morning we'll leave, put our horses in the mirror-"
+        },
+        {
+          "startUid": "u2324",
+          "endUid": "u2327",
+          "quote": "Delwath: Day, day and a half. So slowly, but invisibly, you Dimension Door us out."
+        },
+        {
+          "startUid": "u2330",
+          "endUid": "u2334",
+          "quote": "Wellby: Well, actually, I think we should leave on horseback and travel in the direction we say we're going to-"
+        },
+        {
+          "startUid": "u2333",
+          "endUid": "u2334",
+          "quote": "Seeker: Oh, you don't wanna just totally disappear. That's a good point."
+        },
+        {
+          "startUid": "u2342",
+          "endUid": "u2344",
+          "quote": "DM: So you ride north for a couple hours, and then when there's a moment when nobody's around, you cast Invisibility."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated elapsed play"
+      },
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s stated local time",
+        "partOfDay": "morning",
+        "relative": {
+          "relation": "after",
+          "reference": "t17",
+          "anchor": "Following morning after the inn dinner"
+        }
+      },
+      "completion": "completed",
+      "dateBoundaries": 1
+    },
+    {
+      "id": "t19",
+      "source": {
+        "startUid": "u2432",
+        "endUid": "u2439"
+      },
+      "reading": "During the invisible journey, camp remains concealed until midnight; Delwath trances from midnight to 4 a.m.",
+      "evidence": [
+        {
+          "startUid": "u2413",
+          "endUid": "u2414",
+          "quote": "Delwath: ... Delwath can, can... I mean, we'll only be visible from like midnight to 4:00 AM."
+        },
+        {
+          "startUid": "u2432",
+          "endUid": "u2439",
+          "quote": "Delwath: And, and all... I mean, when we make camp, we'll keep the invisibility on."
+        },
+        {
+          "startUid": "u2437",
+          "endUid": "u2439",
+          "quote": "Delwath: And then keep the invisibility until midnight and then sleep. Delwath will go in his trance from midnight to 4:00 AM."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "DM’s stated local time",
+          "clock": "00:00"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "DM’s stated local time",
+          "clock": "04:00"
+        }
+      },
+      "duration": {
+        "value": 4,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Explicit trance interval"
+      },
+      "note": "A repeated travel-night routine; no invented number of camps or additional calendar count."
+    },
+    {
+      "id": "t20",
+      "source": {
+        "startUid": "u2445",
+        "endUid": "u2461"
+      },
+      "reading": "The journey reaches the Elderwood’s eaves on September 4 at about 10–11 a.m.",
+      "evidence": [
+        {
+          "startUid": "u2445",
+          "endUid": "u2456",
+          "quote": "DM: The morning of September 4th, you, um... And it's still, it's, you know, early fall, but this is still a pretty warm latitude, so it's, it's dry. There's not a lot of rain in the summer, and so by September, you know, things are... Of course, the rivers are s- are getting a bit slow. Um, there was, of course, there's much more logging activity in the winter and early spring when the rivers are high. Now it's like, um, y- so you mostly don't see a lot of people actually cutting trees this time of year. Um, you c- but you do, you s- come to the eaves of the forests sort of mid-morning on September 4th. You've been traveling through, uh, like a mix of pasture land and forest for the past almost day or so, like, you know, where there's little stands of trees, but then like big areas that have been cleared. Um, and it's not until, yeah, you know, maybe 10 or 11 on, um..."
+        },
+        {
+          "startUid": "u2458",
+          "endUid": "u2461",
+          "quote": "DM: Okay. It's not until maybe 10 or 11 that you come to, uh, you actually feel like you are stepping into the woods of the for- of the, the eaves of the forest itself. Mm."
+        },
+        {
+          "startUid": "u2532",
+          "endUid": "u2535",
+          "quote": "DM: So you get to the eaves of the forest. Um, the, the trees have been, you know, there's been, you've passed through like a few stands of really tall trees, but until about 10:00, 11:00 in the morning on September 4th, the first time you sort of step into the woods and cannot see anything around you except the trees."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Stated September 4, 10–11 a.m.; clock approximately the window’s lower endpoint",
+        "clock": "10:00",
+        "partOfDay": "midmorning",
+        "date": {
+          "month": 9,
+          "day": 4
+        }
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t21",
+      "source": {
+        "startUid": "u2462",
+        "endUid": "u2508"
+      },
+      "reading": "The patrol was passed the preceding day, September 3, at midday.",
+      "evidence": [
+        {
+          "startUid": "u2462",
+          "endUid": "u2467",
+          "quote": "DM: Um, you, the last, uh... A- and you've actually, so you've, yesterday you passed, um, invisibly, they didn't notice you, but you passed a small, um, like 12 person Chardonian patrol that was, seemed to be heading, like doing a circuit around the sort of edge of the forest. Um, you know, otherwise there hasn't been that much activity."
+        },
+        {
+          "startUid": "u2501",
+          "endUid": "u2508",
+          "quote": "Delwath: What time of day are we, was like way afternoon that we passed them?"
+        },
+        {
+          "startUid": "u2508",
+          "endUid": "u2508",
+          "quote": "DM: No, they're just marching."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "Yesterday relative to September 4, with later explicit midday answer",
+        "partOfDay": "midday",
+        "date": {
+          "month": 9,
+          "day": 3
+        }
+      }
+    },
+    {
+      "id": "t22",
+      "source": {
+        "startUid": "u2468",
+        "endUid": "u2471"
+      },
+      "reading": "The last forester huts were passed the previous day, September 3, at about 4–5 p.m.",
+      "evidence": [
+        {
+          "startUid": "u2468",
+          "endUid": "u2471",
+          "quote": "DM: And yesterday at like 4:00 or 5:00 in the afternoon was the last, um, little collection of, uh, forester huts, villages that you passed. And so since you camped and then, um, for the three, four hours you've been traveling this morning has been, you haven't seen another person."
+        }
+      ],
+      "time": {
+        "date": {
+          "month": 9,
+          "day": 3
+        },
+        "clock": "16:00",
+        "precision": "approximate",
+        "basis": "Yesterday relative to September 4; stated 4–5 p.m., approximate lower endpoint"
+      }
+    },
+    {
+      "id": "t37",
+      "source": {
+        "startUid": "u2468",
+        "endUid": "u2471"
+      },
+      "reading": "After camping, the party walks three or four hours on the September 4 morning before reaching the forest eaves.",
+      "evidence": [
+        {
+          "startUid": "u2468",
+          "endUid": "u2471",
+          "quote": "DM: And yesterday at like 4:00 or 5:00 in the afternoon was the last, um, little collection of, uh, forester huts, villages that you passed. And so since you camped and then, um, for the three, four hours you've been traveling this morning has been, you haven't seen another person."
+        }
+      ],
+      "duration": {
+        "min": 3,
+        "minInclusive": true,
+        "max": 4,
+        "maxInclusive": true,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "DM’s established morning travel after the camp"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t23",
+      "source": {
+        "startUid": "u2677",
+        "endUid": "u2688"
+      },
+      "reading": "The table drops invisibility after finding berries around lunchtime.",
+      "evidence": [
+        {
+          "startUid": "u2677",
+          "endUid": "u2679",
+          "quote": "Delwath: But, but probably like by midday-"
+        },
+        {
+          "startUid": "u2679",
+          "endUid": "u2679",
+          "quote": "Delwath: ... after like lunchtime, I, Delwath would maybe cast invisible after lunchtime for us."
+        },
+        {
+          "startUid": "u2686",
+          "endUid": "u2688",
+          "quote": "Delwath: Maybe right after we, when, if we like found those berries at lunchtime, like right after finding those berries-"
+        },
+        {
+          "startUid": "u2688",
+          "endUid": "u2688",
+          "quote": "Delwath: ... we'll, we'll cancel the invisibility."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s stated local time",
+        "partOfDay": "lunchtime"
+      },
+      "completion": "completed",
+      "note": "The later decision cancels invisibility, superseding the immediately preceding suggestion to recast it."
+    },
+    {
+      "id": "t24",
+      "source": {
+        "startUid": "u2777",
+        "endUid": "u2781"
+      },
+      "reading": "Wellby spends a little while examining the ground for evidence of an old path.",
+      "evidence": [
+        {
+          "startUid": "u2777",
+          "endUid": "u2781",
+          "quote": "DM: Um, yeah, you don't fi- I mean, you spend a little while kind of, uh, poking around the ground."
+        },
+        {
+          "startUid": "u2781",
+          "endUid": "u2781",
+          "quote": "DM: There's not... Yeah, there's not something anything obvious."
+        }
+      ],
+      "duration": {
+        "text": "a little while",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "DM explicitly resolves time spent poking around"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t25",
+      "source": {
+        "startUid": "u3597",
+        "endUid": "u3657"
+      },
+      "reading": "Kenzo’s first communion lasts about fifteen minutes from entering the clearing to breaking trance.",
+      "evidence": [
+        {
+          "startUid": "u3597",
+          "endUid": "u3602",
+          "quote": "DM: ... stretch further from this place, um, until, I don't know, after a few minutes y- y- you feel enormous, like you're encompassing some vast network of, of... It's hard to describe. It's hard to, it's hard to describe it as a network of, of things because it's more than the things are not really separate from the network."
+        },
+        {
+          "startUid": "u3651",
+          "endUid": "u3657",
+          "quote": "Kenzo: How long has passed?"
+        },
+        {
+          "startUid": "u3657",
+          "endUid": "u3657",
+          "quote": "DM: I mean, Kenzo's sense, uh, I, I mean, Kenzo's sense of time is super distorted at the moment."
+        }
+      ],
+      "duration": {
+        "value": 15,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed play"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "completion": "completed",
+      "note": "The “500 years” remark describes distorted perception, not independently elapsed adventure time."
+    },
+    {
+      "id": "t26",
+      "source": {
+        "startUid": "u3808",
+        "endUid": "u3811"
+      },
+      "reading": "A couple of hours walking from the God Tree brings the party to the Bek’eni village at sunset.",
+      "evidence": [
+        {
+          "startUid": "u3808",
+          "endUid": "u3811",
+          "quote": "DM: And it's, it's, you know, the sun has-- The sun was getting low in the sky when you got to here. It's a, it's a couple hours walk. It's maybe eight miles to their village. Um, so you're getting there just as the sun is beginning to set."
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated elapsed play"
+      },
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s stated local time",
+        "partOfDay": "sunset"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t27",
+      "source": {
+        "startUid": "u3928",
+        "endUid": "u3930"
+      },
+      "reading": "Itar’s first few minutes settling the companions already reveal his fixation on Mezzar.",
+      "evidence": [
+        {
+          "startUid": "u3928",
+          "endUid": "u3930",
+          "quote": "DM: Uh, he's, uh, I, I mean, like, he's, he's alwa- like, you know, even in the like two minutes while he's, like, getting you guys settled and stuff, he's talking about Mezzar. He's like, you know, not just Delwath he's impressed by, but this Mezzar elf who is coming in two days, he seems to be totally under the sway of—"
+        }
+      ],
+      "duration": {
+        "value": 2,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed play"
+      },
+      "actors": [
+        "Wellby",
+        "Seeker",
+        "Kenzo"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t28",
+      "source": {
+        "startUid": "u4181",
+        "endUid": "u4188"
+      },
+      "reading": "Delwath’s feast and the companions’ settling-in occupy roughly the length of a meal.",
+      "evidence": [
+        {
+          "startUid": "u4181",
+          "endUid": "u4188",
+          "quote": "Wellby: Well, uh, I think Wellby is like uncharacteristically restless, and so I unpack my entire backpack and then repack it all again. Uh, and then... Like how long is this interval? This is probably a while, right?"
+        },
+        {
+          "startUid": "u4187",
+          "endUid": "u4188",
+          "quote": "DM: I, I mean, like, yeah, it's like a meal, the length of a meal, right? That Delwath's gone."
+        }
+      ],
+      "duration": {
+        "text": "the length of a meal",
+        "unit": "hour",
+        "precision": "vague",
+        "basis": "DM’s explicit duration of Delwath’s absence"
+      },
+      "actors": [
+        "Delwath",
+        "Wellby",
+        "Seeker"
+      ],
+      "completion": "completed"
+    },
+    {
+      "id": "t29",
+      "source": {
+        "startUid": "u4327",
+        "endUid": "u4446"
+      },
+      "reading": "The party settles for the night; Kenzo sleeps about fifteen hours and wakes around 10–11 a.m.",
+      "evidence": [
+        {
+          "startUid": "u4327",
+          "endUid": "u4340",
+          "quote": "DM: Okay. So you all get settled in for the night."
+        },
+        {
+          "startUid": "u4340",
+          "endUid": "u4340",
+          "quote": "DM: Um, but nearby."
+        },
+        {
+          "startUid": "u4383",
+          "endUid": "u4385",
+          "quote": "Kenzo: Well, um, I mean, Kenzo's, Ken- Kenzo sleeps like 15 hours, so maybe I slept through breakfast. Oh, he slept through breakfast. 15 hours whenever, whenever, whenever, whenever it is."
+        },
+        {
+          "startUid": "u4440",
+          "endUid": "u4446",
+          "quote": "Kenzo: What is 15 hours later? What time is that?"
+        },
+        {
+          "startUid": "u4445",
+          "endUid": "u4446",
+          "quote": "DM: It would be like 10:00, 11:00, something like that. Like when, when Kong gets up."
+        }
+      ],
+      "actors": [
+        "Kenzo"
+      ],
+      "duration": {
+        "value": 15,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated elapsed play"
+      },
+      "timeRange": {
+        "start": {
+          "precision": "approximate",
+          "basis": "DM says bedtime was as soon as it was dark",
+          "partOfDay": "night"
+        },
+        "end": {
+          "precision": "approximate",
+          "basis": "DM states waking at 10–11 a.m.; approximate lower endpoint",
+          "clock": "10:00",
+          "partOfDay": "midmorning"
+        }
+      },
+      "dateBoundaries": 1,
+      "completion": "completed"
+    },
+    {
+      "id": "t30",
+      "source": {
+        "startUid": "u4350",
+        "endUid": "u4435"
+      },
+      "reading": "During the same overnight interval Delwath cooks and scries before dawn.",
+      "evidence": [
+        {
+          "startUid": "u4350",
+          "endUid": "u4366",
+          "quote": "Delwath: Oh my God. Um, I am going to, in the pre-dawn-"
+        },
+        {
+          "startUid": "u4366",
+          "endUid": "u4366",
+          "quote": "Delwath: Gonna scry."
+        },
+        {
+          "startUid": "u4429",
+          "endUid": "u4435",
+          "quote": "DM: ... so you do, you do see Grash. Um, uh, but he, the entire time you watch him, he's just sitting there sharpening his glaive. And every time he sharpens it, there's like little dark sparks that shoot up."
+        },
+        {
+          "startUid": "u4435",
+          "endUid": "u4435",
+          "quote": "DM: Fausto makes his save."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s stated local time",
+        "partOfDay": "pre-dawn"
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t29"
+        }
+      ]
+    },
+    {
+      "id": "t31",
+      "source": {
+        "startUid": "u4788",
+        "endUid": "u4796"
+      },
+      "reading": "Theba enters around the middle of the day after listening outside for five minutes.",
+      "evidence": [
+        {
+          "startUid": "u4788",
+          "endUid": "u4795",
+          "quote": "DM: No. There... I mean, now it's the middle of the day. Like, people have stuff to do, right?"
+        },
+        {
+          "startUid": "u4793",
+          "endUid": "u4795",
+          "quote": "DM: There's probably somebody watching the exits so that you... I mean, probably somebody watching you not, like, sneak off, but nobody's, like, guarding you. The- everybody's too busy in the village."
+        },
+        {
+          "startUid": "u4796",
+          "endUid": "u4796",
+          "quote": "Wellby: As she comes inside, I'll close the door behind her and telepathically say quickly and turn to everyone, \"She's been listening the last five minutes.\""
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s stated local time",
+        "partOfDay": "midday"
+      },
+      "duration": {
+        "value": 5,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Wellby’s stated eavesdropping duration"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t32",
+      "source": {
+        "startUid": "u5187",
+        "endUid": "u5195"
+      },
+      "reading": "At midday, a runner intercepts the party three or four minutes after leaving the house.",
+      "evidence": [
+        {
+          "startUid": "u5187",
+          "endUid": "u5192",
+          "quote": "Delwath: It's the middle of the day."
+        },
+        {
+          "startUid": "u5192",
+          "endUid": "u5192",
+          "quote": "DM: ... three or four minutes after you walk out the door, like, somebody, somebody comes running up, um, and, and sort of gestures, gestures at you to wait a minute."
+        },
+        {
+          "startUid": "u5194",
+          "endUid": "u5195",
+          "quote": "Kenzo: Okay. We'll stop for a minute. Yeah."
+        }
+      ],
+      "time": {
+        "precision": "approximate",
+        "basis": "DM’s stated local time",
+        "partOfDay": "midday"
+      },
+      "duration": {
+        "min": 3,
+        "minInclusive": true,
+        "max": 4,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM’s elapsed time after leaving the door"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t33",
+      "source": {
+        "startUid": "u5232",
+        "endUid": "u5234"
+      },
+      "reading": "A few minutes later, Zevi asks where the party is going.",
+      "evidence": [
+        {
+          "startUid": "u5232",
+          "endUid": "u5234",
+          "quote": "DM: Okay. So, like, a, a few minutes later, like, the, the, the s- same guy you first met, um, uh, Zevi, who speaks Elvish, comes up and says in Elvish, \"Where are you going?\""
+        }
+      ],
+      "duration": {
+        "text": "a few minutes",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Explicit delay before Zevi arrives"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t34",
+      "source": {
+        "startUid": "u5263",
+        "endUid": "u5264"
+      },
+      "reading": "Zevi assembles an escort; about twenty minutes later the party leaves for the tree.",
+      "evidence": [
+        {
+          "startUid": "u5263",
+          "endUid": "u5264",
+          "quote": "DM: Like 20 minutes later, he gets a g- a group of about 10 soldiers who then follow you into the woods."
+        }
+      ],
+      "duration": {
+        "value": 20,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed play"
+      },
+      "completion": "completed"
+    },
+    {
+      "id": "t35",
+      "source": {
+        "startUid": "u5423",
+        "endUid": "u5429"
+      },
+      "reading": "During Delwath’s prayer at the treetop, more needles fall after about a minute.",
+      "evidence": [
+        {
+          "startUid": "u5423",
+          "endUid": "u5429",
+          "quote": "DM: So a, so the top of the tree is like these big bushy branches, um, and, uh, like s- s- and, and it's like cedar leaves, right? So, and several leaves, several like needles, cedar needles kind of fall onto the rabbit you've sacrificed and just sit there. And then like a minute later, another one falls and just sits there."
+        }
+      ],
+      "actors": [
+        "Delwath"
+      ],
+      "duration": {
+        "value": 1,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "Narrated elapsed play"
+      },
+      "completion": "completed"
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "The year and August 29 opening are YAML-derived. The transcript explicitly corrects Arendum arrival to late August 31 and dates entry into the Elderwood to September 4. Subsequent waking puts the last played day on September 5.",
+    "expectedDateBoundaries": 8,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t10",
+      "t12",
+      "t13",
+      "t14",
+      "t18",
+      "t20",
+      "t21",
+      "t29"
+    ],
+    "explanation": "The approximate overland montage can fit the working August 29–31 calendar, though its intermediate-day wording is loose. Dated travel reaches September 4; one subsequent overnight reaches September 5. No completed September 6 events appear before the recording stops at plans to scout Mezzar’s house. Missing end coverage is not an established contradiction."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t01",
+        "t10",
+        "t12",
+        "t13"
+      ],
+      "reading": "The opening is about 2 a.m. without a spoken civil date. The approximate travel montage and the first-day/next-morning wording do not independently settle how the opening night was dated.",
+      "alternatives": [
+        {
+          "reading": "Use the YAML opening date as the civil date of the 2 a.m. scene.",
+          "date": "1748-08-29"
+        },
+        {
+          "reading": "If the legacy August 29 label names the preceding evening, the 2 a.m. scene falls on the next civil date.",
+          "date": "1748-08-30"
+        }
+      ]
+    }
+  ]
+}

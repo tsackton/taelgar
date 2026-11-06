@@ -1,0 +1,2137 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmar-frontier-051",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-051/cleaned/dunmar-frontier-051-session.yaml",
+    "sessionYamlSha256": "f26201829f2f99a8ff0f756583577f1db716fa2b97fc7e82abcf5e7232e4f14d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-051/cleaned/dunmar-frontier-051-transcript.md",
+    "transcriptSha256": "5e13f1085c9f55ce14ce7ee719e58a5ddff02019578f3b1ca8224a1cc6c5248d"
+  },
+  "places": {
+    "p01": {
+      "label": "Trees among pastures by the road",
+      "evidence": [
+        {
+          "startUid": "u0011",
+          "endUid": "u0030",
+          "quote": "DM: [clears throat] So you are left now, that's actually pretty much what you're camped out in, is a little cluster of trees among pastures, obviously, with the old fashioned fences."
+        },
+        {
+          "startUid": "u0028",
+          "endUid": "u0030",
+          "quote": "DM: Standing here or lying there, um, Seeker badly wounded, everybody else in various stages of survival. [sighs]"
+        }
+      ],
+      "kind": "camp"
+    },
+    "p02": {
+      "label": "Dark prison or basement room seen in the mask’s past",
+      "evidence": [
+        {
+          "startUid": "u0074",
+          "endUid": "u0106",
+          "quote": "DM: Uh, you, you hold up the, um, the mask to the mirror and you see a, with Mage Hand, um, uh, the mirror shifts and you see, um, what looks like, uh, um... It's dark, it looks like maybe a prison or, or a underground basement room. It's, uh, just a thin light cast from a candle, uh, and a couple of torches mounted on the wall. And there is a, um, person. Well, you asked where the mask comes, came from? Yep. So you see, uh..."
+        },
+        {
+          "startUid": "u0098",
+          "endUid": "u0106",
+          "quote": "DM: Uh, you see the, um, a, so tied up in the center of this room, not struggling, just kind of head sort of, uh, leaning backwards, vacant expression on his face, is this man, um, sitting in a, a plain chair, um, his wrists tied in front of him but this doesn't seem to be a, a set up where you are, where this person is being, you know, expected to try and escape. Like anybody who wanted to could break out of these bonds, but this person just doesn't seem to care. Um, the, and there is, um, Fausto standing over a bench."
+        }
+      ],
+      "kind": "room",
+      "note": "The DM says it is not the workshop already visited and only suggests the unseen top of Fausto’s tower as a possibility (u0176–u0180); no tower containment is asserted."
+    },
+    "p03": {
+      "label": "Rest camp off the river within two miles",
+      "evidence": [
+        {
+          "startUid": "u0533",
+          "endUid": "u0538",
+          "quote": "Delwath: Okay. So we find somewhere off the river to... Within two miles of here-"
+        },
+        {
+          "startUid": "u0538",
+          "endUid": "u0538",
+          "quote": "DM: Okay."
+        }
+      ],
+      "kind": "camp"
+    },
+    "p04": {
+      "label": "Buried rune-stone and crashed-airship dream scene",
+      "evidence": [
+        {
+          "startUid": "u0659",
+          "endUid": "u0672",
+          "quote": "Kenzo: But this is strange. I, Seeker, I don't know, maybe you can help me understand this. I felt this rune-carved stone buried deep underground, connected to the ancient, ancient arts of my people. And there was a massive crashed airship."
+        },
+        {
+          "startUid": "u0667",
+          "endUid": "u0672",
+          "quote": "Kenzo: Old and damaged, and I could try to move it. I could try to channel energy through the stone, but it took too much strength, and then I woke up screaming."
+        }
+      ],
+      "kind": "dream setting",
+      "note": "Kenzo reports his dream after waking; its physical location and literal status are not established."
+    },
+    "p05": {
+      "label": "Portable hole interior",
+      "evidence": [
+        {
+          "startUid": "u0725",
+          "endUid": "u0734",
+          "quote": "DM: You, uh, so for when you take out, when you put down the hole and you, you go down there, you're in the bottom of the hole, of the portable hole, like, um, getting the eyes out of their carefully organized storage. And for a minute, um, you can't see anything. You, like, are looking for the... I mean, and you have a light down here, your drift globe or a torch or something, but everything goes black. And, um, it almost feels like, like your eyes are those eyes, and then you snap back and you're like, \"No, this, this isn't me.\""
+        }
+      ],
+      "kind": "portable space",
+      "mobile": true
+    },
+    "p06": {
+      "label": "Settled countryside north of Arkad",
+      "evidence": [
+        {
+          "startUid": "u0924",
+          "endUid": "u0946",
+          "quote": "DM: About towards the end, you know, around mid-afternoon, late afternoon on the first day, um, you start to come in, you start to, like, uh, like settlement density has been lower away from the river. Um, you know, it's slightly wooded. You've mostly got, like, shepherds and, and dairy farmers up here. Um, but, uh, as you come sort of maybe to, like, mile 380 away from Chardon sort of late into the evening, you're coming back into a more settled area and, um, there's a more developed road leading south to the river which, um, leads to another city, uh, Arkad, which is, uh, about 100 miles downriver from Arendum and maybe 20 miles south of where you are."
+        },
+        {
+          "startUid": "u0942",
+          "endUid": "u0946",
+          "quote": "DM: Yeah, it's, like, right south of where you are, right there. And it's, you know, it, you get, there's more, there's more, there's, like, a little cluster of settlement around this city so there's, the towns are slightly bigger and you pass through. Um, you know, you see a slightly more people on the road, a lot of traffic is much lower away from the river. Like, you're not passing people."
+        }
+      ],
+      "kind": "countryside",
+      "note": "The party passes through this area; the proposed detour south into Arkad is declined at u0965–u0969."
+    },
+    "p07": {
+      "label": "Arendum",
+      "evidence": [
+        {
+          "startUid": "u1068",
+          "endUid": "u1108",
+          "quote": "DM: ... uh, it's a, it's a substantial, like, provincial town. It has a part of built... bit of a frontier vibe. It's the furthest extent of the Chardonian Empire. It's not, it's not huge, um, and it is built on the ruins of an older city, which are, which was apparently much bigger because there's a lot of... You know, even just riding up, like, you, you pass nothing that's like a dungeon you could explore, right? But, like, a, a random, like, three pillars of a temple or something that's been ruined. Um-"
+        },
+        {
+          "startUid": "u1107",
+          "endUid": "u1108",
+          "quote": "DM: Mm-hmm ... city. Just the gates are locked, so nobody's going in and out of the town, but-"
+        }
+      ],
+      "kind": "settlement",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Arendum.md"
+    },
+    "p08": {
+      "label": "Laughing Wolf",
+      "evidence": [
+        {
+          "startUid": "u1490",
+          "endUid": "u1507",
+          "quote": "DM: So you all awake at the Laughing Wolf."
+        },
+        {
+          "startUid": "u1496",
+          "endUid": "u1507",
+          "quote": "DM: A tavern on the outskirts of Arendum, and in the morning light, you can see more clearly the city itself is, um... So the city of Arendum is, uh, hi- It almost looks like it's hiding behind thick walls. Uh, few buildings, um, are even visible beyond the walls, and the most prominent building that's visible is a, uh... It's like a high Gothic sort of very spire and archy, um, part of some temple or- ... tower or something that is now ruined, um, and in some disrepair and presumably from the previous, uh, civilization of which the Chardonian city of Arendum is built in the ruins of—"
+        }
+      ],
+      "kind": "inn",
+      "vaultPath": "Gazetteer/Greater Chardon/Chardonian Empire/Chasa River Valley/Laughing Wolf Inn.md",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u1490",
+              "endUid": "u1507",
+              "quote": "DM: So you all awake at the Laughing Wolf."
+            },
+            {
+              "startUid": "u1496",
+              "endUid": "u1507",
+              "quote": "DM: A tavern on the outskirts of Arendum, and in the morning light, you can see more clearly the city itself is, um... So the city of Arendum is, uh, hi- It almost looks like it's hiding behind thick walls. Uh, few buildings, um, are even visible beyond the walls, and the most prominent building that's visible is a, uh... It's like a high Gothic sort of very spire and archy, um, part of some temple or- ... tower or something that is now ruined, um, and in some disrepair and presumably from the previous, uh, civilization of which the Chardonian city of Arendum is built in the ruins of—"
+            }
+          ]
+        }
+      ],
+      "note": "On Arendum’s outskirts, outside its main walls; not inside the gated town."
+    },
+    "p09": {
+      "label": "Ship carrying Severus",
+      "evidence": [
+        {
+          "startUid": "u1155",
+          "endUid": "u1163",
+          "quote": "DM: Uh, he is, uh, um, he is, um, sitting on the deck of a ship, sailing in what look like, um, uh, calm seas, watching the sun rise. [gentle music] There's a few crew around, humans. Um, the ship seems to be sailing south by the direction of the sun, um, and he's watching the sun rise over the ocean."
+        }
+      ],
+      "kind": "vessel",
+      "mobile": true,
+      "note": "The scry does not identify the ship, sea, or exact coordinates."
+    },
+    "p10": {
+      "label": "Room holding the eyeless storm giant",
+      "evidence": [
+        {
+          "startUid": "u1204",
+          "endUid": "u1209",
+          "quote": "Delwath: I'm not gonna scry Hralgar. I'm gonna scry the room where he was."
+        },
+        {
+          "startUid": "u1209",
+          "endUid": "u1209",
+          "quote": "Delwath: Nothing's changed. [gentle music]"
+        }
+      ],
+      "kind": "tower chamber",
+      "vaultPath": "Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower.md",
+      "note": "Gazetteer/Greater Dunmar/Hara Basin/Stormcaller Tower.md and People/Giants/Hralgar.md identify the enclosing site of Hralgar’s DR 1748 imprisonment. The current source calls it only the room where he was; the link points to the tower, not a separate chamber page."
+    },
+    "p11": {
+      "label": "Spare room in a castle or palace",
+      "evidence": [
+        {
+          "startUid": "u1262",
+          "endUid": "u1268",
+          "quote": "DM: Johar is, um, uh, when you, when you scry, he is sitting, um, in a small spare room meditating."
+        },
+        {
+          "startUid": "u1267",
+          "endUid": "u1268",
+          "quote": "DM: ... a room in a castle or a palace or something. It's just not a very fancy one."
+        }
+      ],
+      "kind": "room",
+      "note": "Johar’s precise castle or palace is not identified in this scry; no location is imported from his dated whereabouts.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u1265",
+              "endUid": "u1268",
+              "quote": "DM: No. It's just, it's like a-"
+            },
+            {
+              "startUid": "u1267",
+              "endUid": "u1268",
+              "quote": "DM: ... a room in a castle or a palace or something. It's just not a very fancy one."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Castle or palace containing Johar’s room",
+      "evidence": [
+        {
+          "startUid": "u1265",
+          "endUid": "u1268",
+          "quote": "DM: No. It's just, it's like a-"
+        },
+        {
+          "startUid": "u1267",
+          "endUid": "u1268",
+          "quote": "DM: ... a room in a castle or a palace or something. It's just not a very fancy one."
+        }
+      ],
+      "kind": "building"
+    },
+    "p13": {
+      "label": "Arendum garrison exterior",
+      "evidence": [
+        {
+          "startUid": "u2087",
+          "endUid": "u2141",
+          "quote": "Delwath: Um, is there like a legion camp or something here? Where are all the-"
+        },
+        {
+          "startUid": "u2140",
+          "endUid": "u2141",
+          "quote": "Delwath: Okay. I, no, it's just a, a, a walk-based recon."
+        }
+      ],
+      "kind": "fortification",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u2090",
+              "endUid": "u2094",
+              "quote": "DM: There's a garrison."
+            },
+            {
+              "startUid": "u2092",
+              "endUid": "u2094",
+              "quote": "DM: There's a pretty substantial garrison in town. Um, there is no, there's nobody camp, there's no legion camp here."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Ruined palace where Grash studies a battle map",
+      "evidence": [
+        {
+          "startUid": "u2152",
+          "endUid": "u2169",
+          "quote": "DM: [gentle music] You see the room, the, the same room that Seeker saw once with Clairvoyance."
+        },
+        {
+          "startUid": "u2166",
+          "endUid": "u2169",
+          "quote": "DM: And he is, um, he sort of, he, he has his, he has his hood thrown back, and you can see his bare skeletal head. Um, carry, he's carrying his glaive, and he's pacing, and every time he comes to the end of pace, like he'll like possibly even sort of subconsciously like bang the glaive on the stone floor, and it echoes a little bit, and he turns around and paces back."
+        }
+      ],
+      "kind": "palace",
+      "note": "The current source identifies the previously seen ruined palace. People/Other Nonhumans/Grash.md places his command at Kharsan in DR 1748; the depicted battle map alone does not establish palace containment there."
+    },
+    "p15": {
+      "label": "Courtyard outside the ruined palace’s main doors",
+      "evidence": [
+        {
+          "startUid": "u2205",
+          "endUid": "u2218",
+          "quote": "DM: Um, he says, um, he yells, \"We need more.\" And, seemingly to himself, but then, um, goes to the door and opens, opens the, like, main double doors of this, this palace and, and walks out into a court- into the courtyard. And there is a, um... There are two orcs standing there. Um, and he says, um, he, he leans over to one of them. Like, at this point, he's speaking Orcish, and he says, uh, um, \"We must have twice as many troops by mid-autumn, or we will not be able to launch our assault this year. Don't care where you get them. I don't care where they come from. Bring them to me, and I will turn them to our side.\""
+        }
+      ],
+      "kind": "courtyard",
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p14",
+          "evidence": [
+            {
+              "startUid": "u2205",
+              "endUid": "u2218",
+              "quote": "DM: Um, he says, um, he yells, \"We need more.\" And, seemingly to himself, but then, um, goes to the door and opens, opens the, like, main double doors of this, this palace and, and walks out into a court- into the courtyard. And there is a, um... There are two orcs standing there. Um, and he says, um, he, he leans over to one of them. Like, at this point, he's speaking Orcish, and he says, uh, um, \"We must have twice as many troops by mid-autumn, or we will not be able to launch our assault this year. Don't care where you get them. I don't care where they come from. Bring them to me, and I will turn them to our side.\""
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Unrecognized room where Grash sharpens his glaive",
+      "evidence": [
+        {
+          "startUid": "u4429",
+          "endUid": "u4433",
+          "quote": "DM: ... so you do, you do see Grash. Um, uh, but he, the entire time you watch him, he's just sitting there sharpening his glaive. And every time he sharpens it, there's like little dark sparks that shoot up."
+        },
+        {
+          "startUid": "u4433",
+          "endUid": "u4433",
+          "quote": "DM: Uh, no. He is in a room you h- don't recognize."
+        }
+      ],
+      "kind": "room"
+    },
+    "p17": {
+      "label": "Northward road and Chasa–Kayan confluence",
+      "evidence": [
+        {
+          "startUid": "u2342",
+          "endUid": "u2351",
+          "quote": "DM: So you ride north for a couple hours, and then when there's a moment when nobody's around, you cast Invisibility."
+        },
+        {
+          "startUid": "u2351",
+          "endUid": "u2351",
+          "quote": "DM: ... five miles and then turn invisible and, and turn."
+        }
+      ],
+      "kind": "route"
+    },
+    "p18": {
+      "label": "Kayan riverbank and pasture track",
+      "evidence": [
+        {
+          "startUid": "u2356",
+          "endUid": "u2372",
+          "quote": "DM: The Kayan?"
+        },
+        {
+          "startUid": "u2360",
+          "endUid": "u2372",
+          "quote": "DM: It's like 30-ish miles before the woods start. Um, there's... The woods actually come closer to the... There's like a sort of, um, uh, the like triangle in between the Chasa and the Kayan is, is fertile. This is a... There's a lot of pa- a lot of forest that's been cleared for pasture here. Um, so the first 20 miles of the Kayan, you're passing through pasture land until you get to the forest eaves, and then there's a little bit of territory that's kind of, um, you know, there's like foresters and hun- you know, Chardonian, and then you get into the depths of the woods. Right. Okay. So in traveling invisibly, you can go 10-ish miles a day. Um-"
+        }
+      ],
+      "kind": "riverbank",
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p31",
+          "evidence": [
+            {
+              "startUid": "u2356",
+              "endUid": "u2372",
+              "quote": "DM: The Kayan?"
+            },
+            {
+              "startUid": "u2360",
+              "endUid": "u2372",
+              "quote": "DM: It's like 30-ish miles before the woods start. Um, there's... The woods actually come closer to the... There's like a sort of, um, uh, the like triangle in between the Chasa and the Kayan is, is fertile. This is a... There's a lot of pa- a lot of forest that's been cleared for pasture here. Um, so the first 20 miles of the Kayan, you're passing through pasture land until you get to the forest eaves, and then there's a little bit of territory that's kind of, um, you know, there's like foresters and hun- you know, Chardonian, and then you get into the depths of the woods. Right. Okay. So in traveling invisibly, you can go 10-ish miles a day. Um-"
+            }
+          ]
+        }
+      ]
+    },
+    "p19": {
+      "label": "Elderwood / Tinitaka",
+      "evidence": [
+        {
+          "startUid": "u2445",
+          "endUid": "u2461",
+          "quote": "DM: The morning of September 4th, you, um... And it's still, it's, you know, early fall, but this is still a pretty warm latitude, so it's, it's dry. There's not a lot of rain in the summer, and so by September, you know, things are... Of course, the rivers are s- are getting a bit slow. Um, there was, of course, there's much more logging activity in the winter and early spring when the rivers are high. Now it's like, um, y- so you mostly don't see a lot of people actually cutting trees this time of year. Um, you c- but you do, you s- come to the eaves of the forests sort of mid-morning on September 4th. You've been traveling through, uh, like a mix of pasture land and forest for the past almost day or so, like, you know, where there's little stands of trees, but then like big areas that have been cleared. Um, and it's not until, yeah, you know, maybe 10 or 11 on, um..."
+        },
+        {
+          "startUid": "u2458",
+          "endUid": "u2461",
+          "quote": "DM: Okay. It's not until maybe 10 or 11 that you come to, uh, you actually feel like you are stepping into the woods of the for- of the, the eaves of the forest itself. Mm."
+        },
+        {
+          "startUid": "u4905",
+          "endUid": "u4916",
+          "quote": "That would be what you call the Elderwood."
+        },
+        {
+          "startUid": "u4916",
+          "endUid": "u4916",
+          "quote": "DM: Or the Elderwood for those with no patience for the full names of things."
+        }
+      ],
+      "kind": "forest",
+      "vaultPath": "Gazetteer/Central Highlands/Elderwood.md",
+      "aliases": [
+        "Elderwood",
+        "Tinitaka"
+      ]
+    },
+    "p20": {
+      "label": "Redwood climbed to scout the canopy",
+      "evidence": [
+        {
+          "startUid": "u2947",
+          "endUid": "u2958",
+          "quote": "Kenzo: Yeah. Kenzo will climb up. Kenzo will, Kenzo will climb up through the canopy and yeah."
+        },
+        {
+          "startUid": "u2958",
+          "endUid": "u2958",
+          "quote": "DM: And you can see obviously, like about four or five miles to the east, there is a tree that is just massive."
+        }
+      ],
+      "kind": "tree",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p19",
+          "evidence": [
+            {
+              "startUid": "u2910",
+              "endUid": "u2916",
+              "quote": "DM: So you continue walking, and Kenzo, now that you're sort of aware of what was happening, um, it, it's much more obvious that the staff is, is sort of pulling somewhere. And in this sort of semi-trance state that you're, that you're going in, with, with Wellby next to you to like guide you over roots and around fallen logs and things, um, you, you feel yourself turning, uh, away from the river and turning almost due east."
+            },
+            {
+              "startUid": "u2916",
+              "endUid": "u2916",
+              "quote": "DM: And you travel for maybe five, six miles like this."
+            }
+          ]
+        }
+      ]
+    },
+    "p21": {
+      "label": "Giant God Tree and its clearing",
+      "evidence": [
+        {
+          "startUid": "u3098",
+          "endUid": "u3146",
+          "quote": "DM: Um, so, so as you keep walking, you, you come, uh, and, and you're walking the same, Kenzo and Wellby in the front, and then, um, Seeker and Delwath behind them. Uh, once you're about like a half mile from where Kenzo says this giant tree is, uh, you can sort of feel almost the forest. Like you can almost see it through the trees, right? You can see, you can, you can k- get the sense of this like opening, this large, um, this large space."
+        },
+        {
+          "startUid": "u3137",
+          "endUid": "u3146",
+          "quote": "DM: This is like twice that, like 20, 30 feet in diameter. Um, and the bark down here is completely smooth, and there's a scent of vanilla in the forest in this clearing. Vanilla. And three things happen at once. Wellby, you notice, uh, across, like not by where the tree is, but like diagonally across, um, the, the forest, there's, there are people also emerging from the woods. Um-"
+        }
+      ],
+      "kind": "tree clearing",
+      "note": "The village’s small offering tree is a separate place. Children and a nursery are visible to Kenzo in communion, not established as a current physical gathering.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p19",
+          "evidence": [
+            {
+              "startUid": "u3126",
+              "endUid": "u3129",
+              "quote": "DM: Kenzo now kind of almost breaks out into a run and steps ahead into this clearing, which is maybe 4, 500 feet, um, across, like from where you come out the eaves of the tree to where you can see the trunk of this enormous tree. So almost 1,000 feet in diameter. This big clearing in the forest."
+            }
+          ]
+        }
+      ]
+    },
+    "p22": {
+      "label": "Upper branches and old nursery carvings of the God Tree",
+      "evidence": [
+        {
+          "startUid": "u5331",
+          "endUid": "u5378",
+          "quote": "DM: So, so as you fly up-"
+        },
+        {
+          "startUid": "u5374",
+          "endUid": "u5378",
+          "quote": "Delwath: What you saw must have been long in the past. These runes are tell, tell of elven childhood, but not recent. They're quite old."
+        }
+      ],
+      "kind": "treetop",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p21",
+          "evidence": [
+            {
+              "startUid": "u5331",
+              "endUid": "u5341",
+              "quote": "DM: So, so as you fly up-"
+            },
+            {
+              "startUid": "u5340",
+              "endUid": "u5341",
+              "quote": "DM: Um, a- and you do see, uh... So, so as y- so like there's like gaps in the canopy where there's these branches fell off, and you see, you see runes, you see elven carvings once you get up high."
+            }
+          ]
+        }
+      ]
+    },
+    "p23": {
+      "label": "Bek’eni village",
+      "evidence": [
+        {
+          "startUid": "u3812",
+          "endUid": "u3838",
+          "quote": "DM: The village itself is, um, is kind of nestled among the forest. So there's some, some area that's been cleared. There's a little bit of agriculture, but a lot of it is, um, you know, little like round, uh, um, uh, wooden houses, um, just kind of nestled among the trees. There's a bunch of pigs running around, a few chickens. Um, there's a, a s- open clearing sort of towards the middle of the village where there's a, a long, low hall, and in front of the long, low hall, there's a, a meadow with a bunch of, um, seats carved out of wood, so many made just as like, um, uh, just carved from, f-from like f-flat-- not like made of boards, but carved directly from a single piece of wood. So there's handful of chairs and benches like that."
+        },
+        {
+          "startUid": "u3834",
+          "endUid": "u3838",
+          "quote": "DM: Um, the other, a, a young man, um, dressed much more elaborately than anybody else you've seen, almost what looks to you, Delwath, like an imitation of the elven style. Um, wearing, wearing a necklace of fine silver that you've not seen before, wearing a ring on his finger, um, uh, hair sort of combed back in sort of almost like a, an elvish style."
+        }
+      ],
+      "kind": "settlement",
+      "vaultPath": "Gazetteer/Central Highlands/Talem.md",
+      "note": "The source calls this a Bek’eni village and one of their largest (u5054–u5055). Gazetteer/Central Highlands/Talem.md verifies that identity; Talem is not spoken in the transcript.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p19",
+          "evidence": [
+            {
+              "startUid": "u3808",
+              "endUid": "u3822",
+              "quote": "DM: And it's, it's, you know, the sun has-- The sun was getting low in the sky when you got to here. It's a, it's a couple hours walk. It's maybe eight miles to their village. Um, so you're getting there just as the sun is beginning to set."
+            },
+            {
+              "startUid": "u3812",
+              "endUid": "u3822",
+              "quote": "DM: The village itself is, um, is kind of nestled among the forest. So there's some, some area that's been cleared. There's a little bit of agriculture, but a lot of it is, um, you know, little like round, uh, um, uh, wooden houses, um, just kind of nestled among the trees. There's a bunch of pigs running around, a few chickens. Um, there's a, a s- open clearing sort of towards the middle of the village where there's a, a long, low hall, and in front of the long, low hall, there's a, a meadow with a bunch of, um, seats carved out of wood, so many made just as like, um, uh, just carved from, f-from like f-flat-- not like made of boards, but carved directly from a single piece of wood. So there's handful of chairs and benches like that."
+            }
+          ]
+        }
+      ]
+    },
+    "p24": {
+      "label": "Long, low feast hall",
+      "evidence": [
+        {
+          "startUid": "u3935",
+          "endUid": "u3950",
+          "quote": "DM: \"Please, I, I can feed you. Have sausage, uh, some, uh, nut cakes. Quickly now, please,\" and leads you off to, like, a, a separate area of the camp, not like the sort of main feast meal that's set up in this long, low building. Um, meanwhile, Delwath is taken to this, this feast and seated, like, at the right hand of, of Zaro, the chief. Um, and, um, Zaro sort of apologizes to you and says, uh, \"There is, um... We had so little notice of your coming. Uh, I, I, I apologize we do not have a more elaborate and, uh, worthy of your kind meal prepared for you.\" But when Mezzar returns in two days, we will have a, a real feast, and I hope you will join us for that."
+        }
+      ],
+      "kind": "hall",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p23",
+          "evidence": [
+            {
+              "startUid": "u3812",
+              "endUid": "u3822",
+              "quote": "DM: The village itself is, um, is kind of nestled among the forest. So there's some, some area that's been cleared. There's a little bit of agriculture, but a lot of it is, um, you know, little like round, uh, um, uh, wooden houses, um, just kind of nestled among the trees. There's a bunch of pigs running around, a few chickens. Um, there's a, a s- open clearing sort of towards the middle of the village where there's a, a long, low hall, and in front of the long, low hall, there's a, a meadow with a bunch of, um, seats carved out of wood, so many made just as like, um, uh, just carved from, f-from like f-flat-- not like made of boards, but carved directly from a single piece of wood. So there's handful of chairs and benches like that."
+            }
+          ]
+        }
+      ]
+    },
+    "p25": {
+      "label": "Companions’ guest house",
+      "evidence": [
+        {
+          "startUid": "u4142",
+          "endUid": "u4151",
+          "quote": "Kenzo: So we got led where?"
+        },
+        {
+          "startUid": "u4143",
+          "endUid": "u4151",
+          "quote": "DM: You got led, like, to a, like a, a, a sort of away f- a little bit away from the main villa- the main, like, village green. Like, um, uh, basically what seemed like an empty, an empty house. Um, sparsely furnished, but, um, with a, you know, couple comfortable beds and a table where some food was set, and then, like, left to your own devices, basically. Although, um, and Itar then, then left after making sure you were fed."
+        }
+      ],
+      "kind": "house",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p23",
+          "evidence": [
+            {
+              "startUid": "u4142",
+              "endUid": "u4151",
+              "quote": "Kenzo: So we got led where?"
+            },
+            {
+              "startUid": "u4143",
+              "endUid": "u4151",
+              "quote": "DM: You got led, like, to a, like a, a, a sort of away f- a little bit away from the main villa- the main, like, village green. Like, um, uh, basically what seemed like an empty, an empty house. Um, sparsely furnished, but, um, with a, you know, couple comfortable beds and a table where some food was set, and then, like, left to your own devices, basically. Although, um, and Itar then, then left after making sure you were fed."
+            }
+          ]
+        }
+      ]
+    },
+    "p26": {
+      "label": "Small gnarled offering tree and altar",
+      "evidence": [
+        {
+          "startUid": "u3823",
+          "endUid": "u3833",
+          "quote": "DM: And then there's a, a very short, like maybe only 10, 15 feet tall, but incredibly sort of gnarled and twisty, um, tree that has a s-- a wooden, like carved wooden altar is the best way you could describe it in front of it. And there's a bunch of things hanging from the branches of this tree, not, not like fruit or leaves, but like little- Mm-hmm ... satchels or, or bundles or something that, that people have put up there. Um, and, uh, so as you enter, there's, there's like clearly a few scouts that have, that have gone ahead, um, because, uh, standing in front like to greet you are, um, are two men. One, an older man, um, bald but with a gray beard, um, you know, probably in his, uh, in his 60s, um, uh, blue eyes, kind of wrinkled face, wearing not-- no armor or weapons, but, um, wearing like buckskin clothes and a forest green, um, cloak wrapped around his shoulders, uh, no hood."
+        }
+      ],
+      "kind": "shrine",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p23",
+          "evidence": [
+            {
+              "startUid": "u3812",
+              "endUid": "u3833",
+              "quote": "DM: The village itself is, um, is kind of nestled among the forest. So there's some, some area that's been cleared. There's a little bit of agriculture, but a lot of it is, um, you know, little like round, uh, um, uh, wooden houses, um, just kind of nestled among the trees. There's a bunch of pigs running around, a few chickens. Um, there's a, a s- open clearing sort of towards the middle of the village where there's a, a long, low hall, and in front of the long, low hall, there's a, a meadow with a bunch of, um, seats carved out of wood, so many made just as like, um, uh, just carved from, f-from like f-flat-- not like made of boards, but carved directly from a single piece of wood. So there's handful of chairs and benches like that."
+            },
+            {
+              "startUid": "u3823",
+              "endUid": "u3833",
+              "quote": "DM: And then there's a, a very short, like maybe only 10, 15 feet tall, but incredibly sort of gnarled and twisty, um, tree that has a s-- a wooden, like carved wooden altar is the best way you could describe it in front of it. And there's a bunch of things hanging from the branches of this tree, not, not like fruit or leaves, but like little- Mm-hmm ... satchels or, or bundles or something that, that people have put up there. Um, and, uh, so as you enter, there's, there's like clearly a few scouts that have, that have gone ahead, um, because, uh, standing in front like to greet you are, um, are two men. One, an older man, um, bald but with a gray beard, um, you know, probably in his, uh, in his 60s, um, uh, blue eyes, kind of wrinkled face, wearing not-- no armor or weapons, but, um, wearing like buckskin clothes and a forest green, um, cloak wrapped around his shoulders, uh, no hood."
+            }
+          ]
+        }
+      ]
+    },
+    "p27": {
+      "label": "Delwath’s separate hut",
+      "evidence": [
+        {
+          "startUid": "u4331",
+          "endUid": "u4340",
+          "quote": "DM: They put you up in your own h-"
+        },
+        {
+          "startUid": "u4340",
+          "endUid": "u4340",
+          "quote": "DM: Um, but nearby."
+        }
+      ],
+      "kind": "hut",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p23",
+          "evidence": [
+            {
+              "startUid": "u4327",
+              "endUid": "u4340",
+              "quote": "DM: Okay. So you all get settled in for the night."
+            },
+            {
+              "startUid": "u4340",
+              "endUid": "u4340",
+              "quote": "DM: Um, but nearby."
+            }
+          ]
+        }
+      ]
+    },
+    "p28": {
+      "label": "Mezzar’s off-limits house",
+      "evidence": [
+        {
+          "startUid": "u6144",
+          "endUid": "u6164",
+          "quote": "DM: I mean, she says she's always lurking around, but she really needs her gear if she's going to flee, and it's in Mezzar's house, which is off limits."
+        },
+        {
+          "startUid": "u6163",
+          "endUid": "u6164",
+          "quote": "DM: She says if you get her stuff, she'll guide you. She'll happily take you to the Te'kula."
+        }
+      ],
+      "kind": "house",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p23",
+          "evidence": [
+            {
+              "startUid": "u6135",
+              "endUid": "u6164",
+              "quote": "DM: So you speak with Theba."
+            },
+            {
+              "startUid": "u6163",
+              "endUid": "u6164",
+              "quote": "DM: She says if you get her stuff, she'll guide you. She'll happily take you to the Te'kula."
+            },
+            {
+              "startUid": "u6144",
+              "endUid": "u6146",
+              "quote": "DM: I mean, she says she's always lurking around, but she really needs her gear if she's going to flee, and it's in Mezzar's house, which is off limits."
+            }
+          ],
+          "note": "The house is introduced during the returned-village discussion; entering or scouting it remains a proposal."
+        }
+      ]
+    },
+    "p29": {
+      "label": "Unlocated elven presence south of the God Tree",
+      "evidence": [
+        {
+          "startUid": "u5875",
+          "endUid": "u5907",
+          "quote": "DM: So, so you s- when you start thinking about elf, right, y- you don't, um, you don't get a, a sense like, uh, you don't get an emotive value to this. You just, you, you get, you sort of, you're aware of something else. Like, y- you're, you're aware of, you're aware of like the concept of elves in general and the forest's like memory of the elves, and you sense the presence of, of elves, of, of two elves in the forest."
+        },
+        {
+          "startUid": "u5907",
+          "endUid": "u5907",
+          "quote": "DM: ... for like nine months now."
+        }
+      ],
+      "kind": "perceived location",
+      "note": "Kenzo senses direction but not distance. No identification as Mezzar or Belegor is established.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p19",
+          "evidence": [
+            {
+              "startUid": "u5875",
+              "endUid": "u5885",
+              "quote": "DM: So, so you s- when you start thinking about elf, right, y- you don't, um, you don't get a, a sense like, uh, you don't get an emotive value to this. You just, you, you get, you sort of, you're aware of something else. Like, y- you're, you're aware of, you're aware of like the concept of elves in general and the forest's like memory of the elves, and you sense the presence of, of elves, of, of two elves in the forest."
+            },
+            {
+              "startUid": "u5884",
+              "endUid": "u5885",
+              "quote": "DM: One, of course, close by, one further away to the south."
+            }
+          ]
+        }
+      ]
+    },
+    "p30": {
+      "label": "Corrupted part of the forest to the east",
+      "evidence": [
+        {
+          "startUid": "u5994",
+          "endUid": "u6036",
+          "quote": "Kenzo: ... of like where the... So I try to do a spatial awareness of what, where this sacchariny kind of coverup and infiltration thing is like relative to me."
+        },
+        {
+          "startUid": "u6034",
+          "endUid": "u6036",
+          "quote": "DM: Um, it's spreading. I mean, you don't sense there's much resi- there's any resistance to it. It's, it's... There's nothing stopping it from, from growing."
+        }
+      ],
+      "kind": "forest area",
+      "note": "Perceived through communion; direction and character of the corruption are known, distance is not.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p19",
+          "evidence": [
+            {
+              "startUid": "u6017",
+              "endUid": "u6022",
+              "quote": "Kenzo: Mm-hmm. Mm-hmm, mm-hmm. But just outside of the cancer, like, what's, what's it feel like? Does it still feel like a forest?"
+            },
+            {
+              "startUid": "u6021",
+              "endUid": "u6022",
+              "quote": "DM: It's definitely within the forest. You, your perception does not extend beyond the edge of the forest."
+            }
+          ]
+        }
+      ]
+    },
+    "p31": {
+      "label": "Kayan",
+      "kind": "river",
+      "vaultPath": "Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Kayan.md",
+      "evidence": [
+        {
+          "startUid": "u2345",
+          "endUid": "u2349",
+          "quote": "DM: And t- so Arendum is about, I don't know, five miles south of where the, um, that river that, that goes into the Elderwood, the confluence of the Chasa and the Kayan, which is the river that goes into the Elderwood. Um, so if you're gonna follow the river, you could ride north for-"
+        }
+      ]
+    },
+    "p32": {
+      "label": "Chasa",
+      "kind": "river",
+      "vaultPath": "Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Chasa.md",
+      "evidence": [
+        {
+          "startUid": "u2345",
+          "endUid": "u2349",
+          "quote": "DM: And t- so Arendum is about, I don't know, five miles south of where the, um, that river that, that goes into the Elderwood, the confluence of the Chasa and the Kayan, which is the river that goes into the Elderwood. Um, so if you're gonna follow the river, you could ride north for-"
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0011",
+        "endUid": "u0030"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party remains in the roadside pasture camp after the hunter’s defeat.",
+      "evidence": [
+        {
+          "startUid": "u0011",
+          "endUid": "u0030",
+          "quote": "DM: [clears throat] So you are left now, that's actually pretty much what you're camped out in, is a little cluster of trees among pastures, obviously, with the old fashioned fences."
+        },
+        {
+          "startUid": "u0028",
+          "endUid": "u0030",
+          "quote": "DM: Standing here or lying there, um, Seeker badly wounded, everybody else in various stages of survival. [sighs]"
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "observation",
+      "source": {
+        "startUid": "u0074",
+        "endUid": "u0180"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The mirror shows an earlier prison-room scene in which Fausto creates the masked hunter.",
+      "evidence": [
+        {
+          "startUid": "u0074",
+          "endUid": "u0106",
+          "quote": "DM: Uh, you, you hold up the, um, the mask to the mirror and you see a, with Mage Hand, um, uh, the mirror shifts and you see, um, what looks like, uh, um... It's dark, it looks like maybe a prison or, or a underground basement room. It's, uh, just a thin light cast from a candle, uh, and a couple of torches mounted on the wall. And there is a, um, person. Well, you asked where the mask comes, came from? Yep. So you see, uh..."
+        },
+        {
+          "startUid": "u0098",
+          "endUid": "u0106",
+          "quote": "DM: Uh, you see the, um, a, so tied up in the center of this room, not struggling, just kind of head sort of, uh, leaning backwards, vacant expression on his face, is this man, um, sitting in a, a plain chair, um, his wrists tied in front of him but this doesn't seem to be a, a set up where you are, where this person is being, you know, expected to try and escape. Like anybody who wanted to could break out of these bonds, but this person just doesn't seem to care. Um, the, and there is, um, Fausto standing over a bench."
+        },
+        {
+          "startUid": "u0107",
+          "endUid": "u0171",
+          "quote": "DM: Um, on the bench there are two things. Um, there is a crown of, of, um, mostly, uh, entirely, like it's... What would it be made of? Um, it's like a thin circlet that's, that's, uh, made of a dark metal, like a flat, not black metal, set with, with like little... Those like little fleur-de-lis type things sticking up, each one set with a, uh, a black pearl, so entirely black. Um, it's hard to tell if this was originally black or if it has darkened over time or what's going on, but the, it almost looks as you're looking into it like the, um, the blackness is moving. Like there's a some sort of a f- it's almost as if there's like black clouds rolling through the, uh, interior of this crown."
+        },
+        {
+          "startUid": "u0169",
+          "endUid": "u0171",
+          "quote": "DM: ... and he says, he shows these four pictures to the creature, and it pi- takes the chalyte shadow gems, puts them in his pocket, and sort of bows and then walks out through the wall of the, of the prison."
+        },
+        {
+          "startUid": "u0176",
+          "endUid": "u0180",
+          "quote": "Delwath: Is this like, this isn't, this is some sort of, this isn't Fausto's workshop or anything like that, right?"
+        },
+        {
+          "startUid": "u0178",
+          "endUid": "u0180",
+          "quote": "DM: It's not the room you saw. But you didn't go to the top of the tower. Right. Okay."
+        },
+        {
+          "startUid": "u0131",
+          "endUid": "u0142",
+          "quote": "DM: And over the next three, four minutes, the mask sort of fuses into this person's face and the shadow, the darkness envelops them. They begin to grow slightly, um, out of their hand, a spear begins to grow and form. Um, a, a cl- a cloak begins to form over their head and, and, um, uh, head and, uh, and arms and draping down. They be- begin to become taller. The bonds fall away and, and they stand up. Um,"
+        }
+      ],
+      "place": "p02",
+      "observerPlace": "p01",
+      "mode": "vision",
+      "context": "vision",
+      "observedActors": [
+        "Fausto",
+        "the human who becomes the shadow hunter"
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0533",
+        "endUid": "u0538"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Move off the river within two miles and make the accepted rest camp.",
+      "evidence": [
+        {
+          "startUid": "u0533",
+          "endUid": "u0538",
+          "quote": "Delwath: Okay. So we find somewhere off the river to... Within two miles of here-"
+        },
+        {
+          "startUid": "u0538",
+          "endUid": "u0538",
+          "quote": "DM: Okay."
+        },
+        {
+          "startUid": "u0616",
+          "endUid": "u0616",
+          "quote": "DM: So you wake, everybody gets a long rest."
+        },
+        {
+          "startUid": "u0635",
+          "endUid": "u0636",
+          "quote": "DM: It's like 8:30, 9:00 AM when you wake up."
+        }
+      ],
+      "from": "p01",
+      "to": "p03",
+      "completion": "arrived",
+      "distance": {
+        "max": 2,
+        "maxInclusive": true,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "Accepted within-two-miles camp move"
+      }
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0659",
+        "endUid": "u0672"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo recounts seeing a buried rune-stone and damaged airship in his dream.",
+      "evidence": [
+        {
+          "startUid": "u0659",
+          "endUid": "u0672",
+          "quote": "Kenzo: But this is strange. I, Seeker, I don't know, maybe you can help me understand this. I felt this rune-carved stone buried deep underground, connected to the ancient, ancient arts of my people. And there was a massive crashed airship."
+        },
+        {
+          "startUid": "u0667",
+          "endUid": "u0672",
+          "quote": "Kenzo: Old and damaged, and I could try to move it. I could try to channel energy through the stone, but it took too much strength, and then I woke up screaming."
+        }
+      ],
+      "place": "p04",
+      "observerPlace": "p03",
+      "mode": "vision",
+      "context": "vision"
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u0725",
+        "endUid": "u0734"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo goes into the portable hole to take out Hralgar’s eyes.",
+      "evidence": [
+        {
+          "startUid": "u0725",
+          "endUid": "u0734",
+          "quote": "DM: You, uh, so for when you take out, when you put down the hole and you, you go down there, you're in the bottom of the hole, of the portable hole, like, um, getting the eyes out of their carefully organized storage. And for a minute, um, you can't see anything. You, like, are looking for the... I mean, and you have a light down here, your drift globe or a torch or something, but everything goes black. And, um, it almost feels like, like your eyes are those eyes, and then you snap back and you're like, \"No, this, this isn't me.\""
+        }
+      ],
+      "from": "p03",
+      "to": "p05",
+      "completion": "arrived"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u0865",
+        "endUid": "u1108"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Travel overland away from the river and reach Arendum’s outer settlement.",
+      "evidence": [
+        {
+          "startUid": "u0865",
+          "endUid": "u0865",
+          "quote": "DM: You set out, turning away from the river to ride overland for the next 100 miles or so."
+        },
+        {
+          "startUid": "u0884",
+          "endUid": "u0901",
+          "quote": "DM: Um, you spend the next, um- You spend the next couple of days riding, um, trading off as you have before."
+        },
+        {
+          "startUid": "u0901",
+          "endUid": "u0901",
+          "quote": "DM: So yeah, it, over the next, over the next, like, two and a half days, you manage to travel, um, across, across the landscape sort of coming-"
+        },
+        {
+          "startUid": "u0924",
+          "endUid": "u0946",
+          "quote": "DM: About towards the end, you know, around mid-afternoon, late afternoon on the first day, um, you start to come in, you start to, like, uh, like settlement density has been lower away from the river. Um, you know, it's slightly wooded. You've mostly got, like, shepherds and, and dairy farmers up here. Um, but, uh, as you come sort of maybe to, like, mile 380 away from Chardon sort of late into the evening, you're coming back into a more settled area and, um, there's a more developed road leading south to the river which, um, leads to another city, uh, Arkad, which is, uh, about 100 miles downriver from Arendum and maybe 20 miles south of where you are."
+        },
+        {
+          "startUid": "u0942",
+          "endUid": "u0946",
+          "quote": "DM: Yeah, it's, like, right south of where you are, right there. And it's, you know, it, you get, there's more, there's more, there's, like, a little cluster of settlement around this city so there's, the towns are slightly bigger and you pass through. Um, you know, you see a slightly more people on the road, a lot of traffic is much lower away from the river. Like, you're not passing people."
+        },
+        {
+          "startUid": "u1049",
+          "endUid": "u1053",
+          "quote": "DM: Okay, so you arrive in Arendum on September 1st, late at night on August 31st, find, find a place, find an inn, find a place to camp. Um, so Arnd- so as you arrive to Arendum... Yeah."
+        },
+        {
+          "startUid": "u1101",
+          "endUid": "u1108",
+          "quote": "DM: But there's a fair bit of activity out- outside the walls, right? Like, there's, you know, some, some merchant, some, like, taverns and inns and there's seems to be, like, a, a little bit of a impromptu market. Um, there's, you know, a few halfling caravans set up camping. Um, even though it's, like, 9:00, 10:00 when you, when you arrive, you're not arriving to a dead,"
+        },
+        {
+          "startUid": "u1107",
+          "endUid": "u1108",
+          "quote": "DM: Mm-hmm ... city. Just the gates are locked, so nobody's going in and out of the town, but-"
+        }
+      ],
+      "from": "p03",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "Wellby rides; companions travel in the mirror",
+      "route": [
+        {
+          "reading": "Pass through increasingly pastoral country away from the river."
+        },
+        {
+          "reading": "Pass settled land about twenty miles north of Arkad; decline the detour south.",
+          "place": "p06"
+        }
+      ],
+      "duration": {
+        "value": 2.5,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "DM’s approximate compressed overland montage"
+      },
+      "note": "Arrival is outside the locked city walls. Entry to the gated town is separately established later; no Arkad visit occurs."
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1111",
+        "endUid": "u1131"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Take lodging at the inn on Arendum’s outskirts.",
+      "evidence": [
+        {
+          "startUid": "u1111",
+          "endUid": "u1126",
+          "quote": "Kenzo: Yeah, let's go to an inn."
+        },
+        {
+          "startUid": "u1125",
+          "endUid": "u1126",
+          "quote": "DM: Yeah. Other beds. Right. And there's, you know, there's, like, um,"
+        },
+        {
+          "startUid": "u1130",
+          "endUid": "u1131",
+          "quote": "DM: So, yeah. So, so we'll, we'll assume you just crash for the night because you've gotten exhausted."
+        },
+        {
+          "startUid": "u1490",
+          "endUid": "u1507",
+          "quote": "DM: So you all awake at the Laughing Wolf."
+        },
+        {
+          "startUid": "u1496",
+          "endUid": "u1507",
+          "quote": "DM: A tavern on the outskirts of Arendum, and in the morning light, you can see more clearly the city itself is, um... So the city of Arendum is, uh, hi- It almost looks like it's hiding behind thick walls. Uh, few buildings, um, are even visible beyond the walls, and the most prominent building that's visible is a, uh... It's like a high Gothic sort of very spire and archy, um, part of some temple or- ... tower or something that is now ruined, um, and in some disrepair and presumably from the previous, uh, civilization of which the Chardonian city of Arendum is built in the ruins of—"
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived"
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u1145",
+        "endUid": "u1199"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scry Severus sailing on an unidentified ship at sunrise.",
+      "evidence": [
+        {
+          "startUid": "u1145",
+          "endUid": "u1163",
+          "quote": "DM: Okay. Severus fails, I mean, fails the save, so. [die rolling] Um, let's see. So this would be... What, what time are you doing this?"
+        },
+        {
+          "startUid": "u1155",
+          "endUid": "u1163",
+          "quote": "DM: Uh, he is, uh, um, he is, um, sitting on the deck of a ship, sailing in what look like, um, uh, calm seas, watching the sun rise. [gentle music] There's a few crew around, humans. Um, the ship seems to be sailing south by the direction of the sun, um, and he's watching the sun rise over the ocean."
+        },
+        {
+          "startUid": "u1155",
+          "endUid": "u1163",
+          "quote": "DM: Uh, he is, uh, um, he is, um, sitting on the deck of a ship, sailing in what look like, um, uh, calm seas, watching the sun rise. [gentle music] There's a few crew around, humans. Um, the ship seems to be sailing south by the direction of the sun, um, and he's watching the sun rise over the ocean."
+        }
+      ],
+      "place": "p09",
+      "observerPlace": "p08",
+      "mode": "remote",
+      "observedActors": [
+        "Severus"
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u1204",
+        "endUid": "u1209"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scry the room holding Hralgar and see the chained giant, still missing his eyes.",
+      "evidence": [
+        {
+          "startUid": "u1204",
+          "endUid": "u1209",
+          "quote": "Delwath: I'm not gonna scry Hralgar. I'm gonna scry the room where he was."
+        },
+        {
+          "startUid": "u1209",
+          "endUid": "u1209",
+          "quote": "Delwath: Nothing's changed. [gentle music]"
+        },
+        {
+          "startUid": "u1208",
+          "endUid": "u1208",
+          "quote": "DM: Uh, you see a storm giant chained up, missing his eyes, lying in the top of the room."
+        }
+      ],
+      "place": "p10",
+      "observerPlace": "p08",
+      "mode": "remote",
+      "observedActors": [
+        "Hralgar"
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "observation",
+      "source": {
+        "startUid": "u1262",
+        "endUid": "u1288"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scry Johar meditating in a spare palace/castle room and receiving a letter.",
+      "evidence": [
+        {
+          "startUid": "u1262",
+          "endUid": "u1268",
+          "quote": "DM: Johar is, um, uh, when you, when you scry, he is sitting, um, in a small spare room meditating."
+        },
+        {
+          "startUid": "u1267",
+          "endUid": "u1268",
+          "quote": "DM: ... a room in a castle or a palace or something. It's just not a very fancy one."
+        },
+        {
+          "startUid": "u1269",
+          "endUid": "u1277",
+          "quote": "DM: And about seven minutes into the scry, as you watch him meditate, there's a knock at the door, and a servant opens the door and, um, gives him a slight nod, and Johar slowly sort of comes out of his trance, um, turns and, and looks at the servant and says, \"Will he see me yet?\" The servant says, uh, \"Not, not today. Um, he is, uh, too busy with meetings, but, um, I have this message for you.\" And he hands him a sealed, uh, a sealed letter. Um-"
+        },
+        {
+          "startUid": "u1269",
+          "endUid": "u1277",
+          "quote": "DM: And about seven minutes into the scry, as you watch him meditate, there's a knock at the door, and a servant opens the door and, um, gives him a slight nod, and Johar slowly sort of comes out of his trance, um, turns and, and looks at the servant and says, \"Will he see me yet?\" The servant says, uh, \"Not, not today. Um, he is, uh, too busy with meetings, but, um, I have this message for you.\" And he hands him a sealed, uh, a sealed letter. Um-"
+        }
+      ],
+      "place": "p11",
+      "observerPlace": "p08",
+      "mode": "remote",
+      "observedActors": [
+        "Johar"
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1924",
+        "endUid": "u1963"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Enter Arendum through the guarded gates for the day’s errands.",
+      "evidence": [
+        {
+          "startUid": "u1924",
+          "endUid": "u1937",
+          "quote": "Kenzo: Kenzo's gonna walk around town looking for, um, any, any tribes people that happen to be here."
+        },
+        {
+          "startUid": "u1929",
+          "endUid": "u1937",
+          "quote": "DM: I mean, you are... No, the guards let you through. They, as in Chardon and other places in the empire, you are warned to stash your weapons and a- about the use of magic, and they, they like look you up and down, right? Like somebody's clearly keeping note of the fact that you're slightly unusual, but you're, you're ushered in. You're not stopped from entering."
+        },
+        {
+          "startUid": "u1947",
+          "endUid": "u1963",
+          "quote": "DM: Right. Unless there's anything really interesting. What is Seeker doing?"
+        },
+        {
+          "startUid": "u1953",
+          "endUid": "u1963",
+          "quote": "DM: Yeah, so you, I mean, you, you lay your story, you get stuff, you get some maps of the routes upriver. You talk to a few halflings who tell you about the trip. So one of the two caravans is, is a family that, uh, came from... didn't... not all the way from Sembara, but from trading with the dwarves, and are now heading downriver, um, with like a pretty valuable boatload of ore and... or not so much ore, but like finely crafted dwarven toys and, um- Mostly, mostly toys, like little mechanical toys, but then also some, um, clocks and things like that. Um-"
+        },
+        {
+          "startUid": "u1929",
+          "endUid": "u1937",
+          "quote": "DM: I mean, you are... No, the guards let you through. They, as in Chardon and other places in the empire, you are warned to stash your weapons and a- about the use of magic, and they, they like look you up and down, right? Like somebody's clearly keeping note of the fact that you're slightly unusual, but you're, you're ushered in. You're not stopped from entering."
+        }
+      ],
+      "from": "p08",
+      "to": "p07",
+      "completion": "arrived"
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u2108",
+        "endUid": "u2141"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Walk past the garrison for reconnaissance; no entry or identified commander results.",
+      "evidence": [
+        {
+          "startUid": "u2087",
+          "endUid": "u2094",
+          "quote": "Delwath: Um, is there like a legion camp or something here? Where are all the-"
+        },
+        {
+          "startUid": "u2092",
+          "endUid": "u2094",
+          "quote": "DM: There's a pretty substantial garrison in town. Um, there is no, there's nobody camp, there's no legion camp here."
+        },
+        {
+          "startUid": "u2108",
+          "endUid": "u2141",
+          "quote": "Delwath: I, I might hang out, I might walk by the garrison a couple times."
+        },
+        {
+          "startUid": "u2140",
+          "endUid": "u2141",
+          "quote": "Delwath: Okay. I, no, it's just a, a, a walk-based recon."
+        }
+      ],
+      "place": "p13",
+      "observerPlace": "p07",
+      "mode": "local"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2144",
+        "endUid": "u2151"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Return to the inn and dine in the room while Delwath scries.",
+      "evidence": [
+        {
+          "startUid": "u2144",
+          "endUid": "u2151",
+          "quote": "DM: Maybe tomorrow. So you return to the inn, and as you, um, have dinner up in your room so Delwath can scry, discuss your day, and Delwath takes out his bowl and casts Scry on Grash. And you see, um, you see the room. Hold on a sec here. Finally succeeded on Grash."
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived"
+    },
+    {
+      "id": "l14",
+      "type": "observation",
+      "source": {
+        "startUid": "u2152",
+        "endUid": "u2268"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scry Grash at the ruined palace, including his courtyard order and return to the throne.",
+      "evidence": [
+        {
+          "startUid": "u2152",
+          "endUid": "u2169",
+          "quote": "DM: [gentle music] You see the room, the, the same room that Seeker saw once with Clairvoyance."
+        },
+        {
+          "startUid": "u2166",
+          "endUid": "u2169",
+          "quote": "DM: And he is, um, he sort of, he, he has his, he has his hood thrown back, and you can see his bare skeletal head. Um, carry, he's carrying his glaive, and he's pacing, and every time he comes to the end of pace, like he'll like possibly even sort of subconsciously like bang the glaive on the stone floor, and it echoes a little bit, and he turns around and paces back."
+        },
+        {
+          "startUid": "u2205",
+          "endUid": "u2218",
+          "quote": "DM: Um, he says, um, he yells, \"We need more.\" And, seemingly to himself, but then, um, goes to the door and opens, opens the, like, main double doors of this, this palace and, and walks out into a court- into the courtyard. And there is a, um... There are two orcs standing there. Um, and he says, um, he, he leans over to one of them. Like, at this point, he's speaking Orcish, and he says, uh, um, \"We must have twice as many troops by mid-autumn, or we will not be able to launch our assault this year. Don't care where you get them. I don't care where they come from. Bring them to me, and I will turn them to our side.\""
+        },
+        {
+          "startUid": "u2241",
+          "endUid": "u2257",
+          "quote": "DM: Uh, he then goes back, back inside the palace, um, and sits down in his throne, leans his glaive down and just sort of puts his hood back and just sits, um, contemplating for a minute, and then, um, clenches his fist and you can see, um, the, the ring on his finger pulse slightly."
+        },
+        {
+          "startUid": "u2256",
+          "endUid": "u2257",
+          "quote": "DM: We will succeed."
+        },
+        {
+          "startUid": "u2156",
+          "endUid": "u2169",
+          "quote": "DM: Yeah, the ruined palace. Um, and Grash is, uh, Grash is standing, um, uh, pacing back and forth in front of, um, what looks like a, a map, like a battle map, right? It's like a- Ooh ... map of the- Ooh ... of the, you can see Kharsan, and then it stretches out to the east from Kharsan."
+        }
+      ],
+      "place": "p14",
+      "observerPlace": "p08",
+      "mode": "remote",
+      "observedActors": [
+        "Grash"
+      ],
+      "note": "The observed excursion into the adjacent courtyard is part of this single continuous scry; it is not a physical party visit."
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2342",
+        "endUid": "u2461"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Ride north, become invisible, then follow the Kayan on foot until reaching the Elderwood’s eaves.",
+      "evidence": [
+        {
+          "startUid": "u2342",
+          "endUid": "u2351",
+          "quote": "DM: So you ride north for a couple hours, and then when there's a moment when nobody's around, you cast Invisibility."
+        },
+        {
+          "startUid": "u2351",
+          "endUid": "u2351",
+          "quote": "DM: ... five miles and then turn invisible and, and turn."
+        },
+        {
+          "startUid": "u2360",
+          "endUid": "u2372",
+          "quote": "DM: It's like 30-ish miles before the woods start. Um, there's... The woods actually come closer to the... There's like a sort of, um, uh, the like triangle in between the Chasa and the Kayan is, is fertile. This is a... There's a lot of pa- a lot of forest that's been cleared for pasture here. Um, so the first 20 miles of the Kayan, you're passing through pasture land until you get to the forest eaves, and then there's a little bit of territory that's kind of, um, you know, there's like foresters and hun- you know, Chardonian, and then you get into the depths of the woods. Right. Okay. So in traveling invisibly, you can go 10-ish miles a day. Um-"
+        },
+        {
+          "startUid": "u2417",
+          "endUid": "u2439",
+          "quote": "DM: Okay. So I mean, Wellby is quite good at finding little places where you can set camp that is, uh, you know, not noticeable from... I mean, there's a, there's a, there's a muddy track here. There's not really a road. Right. Um, most any... There's any traf- almost all the traffic you see, except for a few people driving cattle to Arendum to the market, is, uh,"
+        },
+        {
+          "startUid": "u2437",
+          "endUid": "u2439",
+          "quote": "Delwath: And then keep the invisibility until midnight and then sleep. Delwath will go in his trance from midnight to 4:00 AM."
+        },
+        {
+          "startUid": "u2445",
+          "endUid": "u2461",
+          "quote": "DM: The morning of September 4th, you, um... And it's still, it's, you know, early fall, but this is still a pretty warm latitude, so it's, it's dry. There's not a lot of rain in the summer, and so by September, you know, things are... Of course, the rivers are s- are getting a bit slow. Um, there was, of course, there's much more logging activity in the winter and early spring when the rivers are high. Now it's like, um, y- so you mostly don't see a lot of people actually cutting trees this time of year. Um, you c- but you do, you s- come to the eaves of the forests sort of mid-morning on September 4th. You've been traveling through, uh, like a mix of pasture land and forest for the past almost day or so, like, you know, where there's little stands of trees, but then like big areas that have been cleared. Um, and it's not until, yeah, you know, maybe 10 or 11 on, um..."
+        },
+        {
+          "startUid": "u2458",
+          "endUid": "u2461",
+          "quote": "DM: Okay. It's not until maybe 10 or 11 that you come to, uh, you actually feel like you are stepping into the woods of the for- of the, the eaves of the forest itself. Mm."
+        }
+      ],
+      "from": "p08",
+      "to": "p19",
+      "completion": "arrived",
+      "mode": "horseback, then invisible walking",
+      "route": [
+        {
+          "reading": "Ride north to the Chasa–Kayan confluence.",
+          "place": "p17"
+        },
+        {
+          "reading": "Follow the muddy Kayan-side track through pasture and foresters’ country.",
+          "place": "p18"
+        },
+        {
+          "reading": "Pass a twelve-person Chardonian patrol without being seen and camp discreetly."
+        }
+      ]
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u2910",
+        "endUid": "u2916"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Follow Kenzo’s staff away from the river, nearly due east for five or six miles.",
+      "evidence": [
+        {
+          "startUid": "u2910",
+          "endUid": "u2916",
+          "quote": "DM: So you continue walking, and Kenzo, now that you're sort of aware of what was happening, um, it, it's much more obvious that the staff is, is sort of pulling somewhere. And in this sort of semi-trance state that you're, that you're going in, with, with Wellby next to you to like guide you over roots and around fallen logs and things, um, you, you feel yourself turning, uh, away from the river and turning almost due east."
+        },
+        {
+          "startUid": "u2916",
+          "endUid": "u2916",
+          "quote": "DM: And you travel for maybe five, six miles like this."
+        },
+        {
+          "startUid": "u2947",
+          "endUid": "u2955",
+          "quote": "Kenzo: Yeah. Kenzo will climb up. Kenzo will, Kenzo will climb up through the canopy and yeah."
+        },
+        {
+          "startUid": "u2951",
+          "endUid": "u2955",
+          "quote": "DM: Uh, so you, you, you gotta like hold on, you gotta like climb for a few bits, but you mostly just run up the side of the tree. And, uh, w- you, when you get up about 150 feet to the sort of top cluster, um, first of all, it smells amazing. It's like-"
+        }
+      ],
+      "from": "p19",
+      "to": "p20",
+      "completion": "arrived",
+      "mode": "walk",
+      "distance": {
+        "min": 5,
+        "minInclusive": true,
+        "max": 6,
+        "maxInclusive": true,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM’s traveled distance before the scouting pause"
+      }
+    },
+    {
+      "id": "l17",
+      "type": "observation",
+      "source": {
+        "startUid": "u2947",
+        "endUid": "u2980"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Climb about 150 feet, see the giant tree about five miles east, and return to the companions.",
+      "evidence": [
+        {
+          "startUid": "u2947",
+          "endUid": "u2958",
+          "quote": "Kenzo: Yeah. Kenzo will climb up. Kenzo will, Kenzo will climb up through the canopy and yeah."
+        },
+        {
+          "startUid": "u2958",
+          "endUid": "u2958",
+          "quote": "DM: And you can see obviously, like about four or five miles to the east, there is a tree that is just massive."
+        },
+        {
+          "startUid": "u2961",
+          "endUid": "u2976",
+          "quote": "DM: That's like 200 feet above the canopy. It's probably 400 feet tall."
+        },
+        {
+          "startUid": "u2976",
+          "endUid": "u2976",
+          "quote": "DM: Like 450 feet tall."
+        },
+        {
+          "startUid": "u2977",
+          "endUid": "u2980",
+          "quote": "Kenzo: Kenzo climbs down and is like, \"Holy shit. There is the biggest tree I've ever seen in my entire life.\" How many miles away is it?"
+        },
+        {
+          "startUid": "u2980",
+          "endUid": "u2980",
+          "quote": "DM: About five miles to the east."
+        }
+      ],
+      "place": "p21",
+      "observerPlace": "p20",
+      "mode": "local",
+      "note": "Only Kenzo climbs this scouting tree; the group does not yet reach the giant tree."
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u3098",
+        "endUid": "u3204"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Reach the giant-tree clearing; Kenzo rushes to the trunk while the others meet the patrol.",
+      "evidence": [
+        {
+          "startUid": "u3098",
+          "endUid": "u3129",
+          "quote": "DM: Um, so, so as you keep walking, you, you come, uh, and, and you're walking the same, Kenzo and Wellby in the front, and then, um, Seeker and Delwath behind them. Uh, once you're about like a half mile from where Kenzo says this giant tree is, uh, you can sort of feel almost the forest. Like you can almost see it through the trees, right? You can see, you can, you can k- get the sense of this like opening, this large, um, this large space."
+        },
+        {
+          "startUid": "u3126",
+          "endUid": "u3129",
+          "quote": "DM: Kenzo now kind of almost breaks out into a run and steps ahead into this clearing, which is maybe 4, 500 feet, um, across, like from where you come out the eaves of the tree to where you can see the trunk of this enormous tree. So almost 1,000 feet in diameter. This big clearing in the forest."
+        },
+        {
+          "startUid": "u3147",
+          "endUid": "u3163",
+          "quote": "Wellby: As soon as I see them, I'm gonna very deliberately just sort of raise my hands."
+        },
+        {
+          "startUid": "u3162",
+          "endUid": "u3163",
+          "quote": "DM: No. Seems agitated as Kenzo like just keeps going forward to the tree."
+        },
+        {
+          "startUid": "u3204",
+          "endUid": "u3204",
+          "quote": "DM: You're now, Kenzo is just like your staff is like planted in the ground and you're like touching the trunk of the tree and just wa- looking up."
+        },
+        {
+          "startUid": "u3223",
+          "endUid": "u3238",
+          "quote": "Delwath: Um, I'm gonna yell out to the people in Elvish as soon as I, as soon as I see them like brandishing a weapon."
+        },
+        {
+          "startUid": "u3237",
+          "endUid": "u3238",
+          "quote": "DM: Yeah. This is all happening at exactly the same time."
+        },
+        {
+          "startUid": "u3392",
+          "endUid": "u3402",
+          "quote": "Seeker: And we're on the far side of the clearing from the-"
+        },
+        {
+          "startUid": "u3400",
+          "endUid": "u3402",
+          "quote": "DM: A- and a couple of them are kind of standing around your Kenzo, like not sure what to do. But trusting the elf who said apparently there's like an elf who lives with their tribe, so they're a trusted adult, like saying, um, \"Okay, we won't hurt him.\" Uh-"
+        },
+        {
+          "startUid": "u3126",
+          "endUid": "u3129",
+          "quote": "DM: Kenzo now kind of almost breaks out into a run and steps ahead into this clearing, which is maybe 4, 500 feet, um, across, like from where you come out the eaves of the tree to where you can see the trunk of this enormous tree. So almost 1,000 feet in diameter. This big clearing in the forest."
+        }
+      ],
+      "from": "p20",
+      "to": "p21",
+      "completion": "arrived",
+      "mode": "walk; Kenzo runs ahead",
+      "note": "The companions initially remain about 300 feet from the trunk. Kenzo alone touches it and enters communion."
+    },
+    {
+      "id": "l19",
+      "type": "observation",
+      "source": {
+        "startUid": "u3165",
+        "endUid": "u3378"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "In communion, Kenzo sees an elven nursery and feels connections reaching through the forest.",
+      "evidence": [
+        {
+          "startUid": "u3165",
+          "endUid": "u3177",
+          "quote": "DM: You see, um, you see as you, as you step into this clearing, um, you see spiraling above you, um, like great whirl of branches that stretch out almost for the entire length of the clearing, just spiraling up and up and up in a, um, in like a spiral pattern going up."
+        },
+        {
+          "startUid": "u3177",
+          "endUid": "u3177",
+          "quote": "DM: Just in this one tree, yeah."
+        },
+        {
+          "startUid": "u3204",
+          "endUid": "u3210",
+          "quote": "DM: You're now, Kenzo is just like your staff is like planted in the ground and you're like touching the trunk of the tree and just wa- looking up."
+        },
+        {
+          "startUid": "u3209",
+          "endUid": "u3210",
+          "quote": "DM: But up until the point that you kind of ran up and touched the tree, and as soon as you touched the tree, it was almost like the branches opened up. It, what it looked like to you is you sort of entered this clearing, and as you touched the tree, the branches kind of opened up into this scene."
+        },
+        {
+          "startUid": "u3356",
+          "endUid": "u3378",
+          "quote": "DM: Okay. It's a very, it's a very strange sound. It sounds like you're at the bottom of, like you're swimming, you're diving deep in the ocean, and somebody's yelling at you from the surface. Um, and, and as, as they yell, like y- part of you is aware that somebody's yelling Kenzo from far away, but part of you is also seeing further and further, and you can feel, um, you can feel a stream running across your arm, a- and you can feel your feet seem to be growing into the soil, and you can feel the moistness of the spring rains still lingering deep in the soil. Um, and you can feel, um, the sun on your hair far away. And, as your sense expands, um, you can feel other people. You can feel them walking. Um, you can't tell quite where, to the west somewhere. And you can see like echoes of where people have walked, that people visit this place regularly from the east and from the west. Even though you get the sense they don't like each other particularly, this is a meeting ground of sorts. And you get this sense even as the elven children are laughing above you, you can see almost like shadows of hundreds of people coming and going, and coming and going, and coming and going through this meadow."
+        }
+      ],
+      "place": "p22",
+      "observerPlace": "p21",
+      "mode": "vision",
+      "context": "vision",
+      "observedActors": [
+        "elven children"
+      ],
+      "note": "This does not establish present-day children physically occupying the tree."
+    },
+    {
+      "id": "l20",
+      "type": "movement",
+      "source": {
+        "startUid": "u3796",
+        "endUid": "u3822"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Zevi’s patrol leads the party to its village, arriving as the sun begins to set.",
+      "evidence": [
+        {
+          "startUid": "u3796",
+          "endUid": "u3803",
+          "quote": "Kenzo: Like he, he starts walking."
+        },
+        {
+          "startUid": "u3799",
+          "endUid": "u3803",
+          "quote": "DM: Says a bunch of stuff in, in Deno'qai, in the northern tongue, and, um, the soldiers sort of fan out into the woods, um, Zevi and, and a couple others leading the way, and the rest disappearing to everybody but Wellby. Um, you c-- you are just kind of... Wellby's just kind of looking, you know, there's one over there, there's one over there."
+        },
+        {
+          "startUid": "u3808",
+          "endUid": "u3822",
+          "quote": "DM: And it's, it's, you know, the sun has-- The sun was getting low in the sky when you got to here. It's a, it's a couple hours walk. It's maybe eight miles to their village. Um, so you're getting there just as the sun is beginning to set."
+        },
+        {
+          "startUid": "u3812",
+          "endUid": "u3822",
+          "quote": "DM: The village itself is, um, is kind of nestled among the forest. So there's some, some area that's been cleared. There's a little bit of agriculture, but a lot of it is, um, you know, little like round, uh, um, uh, wooden houses, um, just kind of nestled among the trees. There's a bunch of pigs running around, a few chickens. Um, there's a, a s- open clearing sort of towards the middle of the village where there's a, a long, low hall, and in front of the long, low hall, there's a, a meadow with a bunch of, um, seats carved out of wood, so many made just as like, um, uh, just carved from, f-from like f-flat-- not like made of boards, but carved directly from a single piece of wood. So there's handful of chairs and benches like that."
+        }
+      ],
+      "from": "p21",
+      "to": "p23",
+      "completion": "arrived",
+      "mode": "walk",
+      "duration": {
+        "value": 2,
+        "unit": "hour",
+        "precision": "approximate",
+        "basis": "Narrated elapsed play"
+      },
+      "distance": {
+        "value": 8,
+        "unit": "mile",
+        "precision": "approximate",
+        "basis": "DM’s approximate distance to the village"
+      }
+    },
+    {
+      "id": "l21",
+      "type": "movement",
+      "source": {
+        "startUid": "u3935",
+        "endUid": "u3950"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Zaro takes Delwath to an honored place at the feast hall.",
+      "evidence": [
+        {
+          "startUid": "u3935",
+          "endUid": "u3950",
+          "quote": "DM: \"Please, I, I can feed you. Have sausage, uh, some, uh, nut cakes. Quickly now, please,\" and leads you off to, like, a, a separate area of the camp, not like the sort of main feast meal that's set up in this long, low building. Um, meanwhile, Delwath is taken to this, this feast and seated, like, at the right hand of, of Zaro, the chief. Um, and, um, Zaro sort of apologizes to you and says, uh, \"There is, um... We had so little notice of your coming. Uh, I, I, I apologize we do not have a more elaborate and, uh, worthy of your kind meal prepared for you.\" But when Mezzar returns in two days, we will have a, a real feast, and I hope you will join us for that."
+        }
+      ],
+      "from": "p23",
+      "to": "p24",
+      "completion": "arrived"
+    },
+    {
+      "id": "l22",
+      "type": "movement",
+      "source": {
+        "startUid": "u3935",
+        "endUid": "u4151"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Seeker"
+      ],
+      "reading": "Itar settles the companions in a separate guest house with food and beds.",
+      "evidence": [
+        {
+          "startUid": "u3900",
+          "endUid": "u3906",
+          "quote": "DM: He, he, he like leans over to, to Itar and says some stuff in Deno'qai to him, a- and It- I- Itar looks like a little bit like grumpy, and then, um, tu- turns with kind of a false smile to the three of you a- and says, um, in Common, \"Please, come this way. I will get you settled while the elf enjoys the honor deserving of his kind.\""
+        },
+        {
+          "startUid": "u3935",
+          "endUid": "u3950",
+          "quote": "DM: \"Please, I, I can feed you. Have sausage, uh, some, uh, nut cakes. Quickly now, please,\" and leads you off to, like, a, a separate area of the camp, not like the sort of main feast meal that's set up in this long, low building. Um, meanwhile, Delwath is taken to this, this feast and seated, like, at the right hand of, of Zaro, the chief. Um, and, um, Zaro sort of apologizes to you and says, uh, \"There is, um... We had so little notice of your coming. Uh, I, I, I apologize we do not have a more elaborate and, uh, worthy of your kind meal prepared for you.\" But when Mezzar returns in two days, we will have a, a real feast, and I hope you will join us for that."
+        },
+        {
+          "startUid": "u4142",
+          "endUid": "u4151",
+          "quote": "Kenzo: So we got led where?"
+        },
+        {
+          "startUid": "u4143",
+          "endUid": "u4151",
+          "quote": "DM: You got led, like, to a, like a, a, a sort of away f- a little bit away from the main villa- the main, like, village green. Like, um, uh, basically what seemed like an empty, an empty house. Um, sparsely furnished, but, um, with a, you know, couple comfortable beds and a table where some food was set, and then, like, left to your own devices, basically. Although, um, and Itar then, then left after making sure you were fed."
+        }
+      ],
+      "from": "p23",
+      "to": "p25",
+      "completion": "arrived"
+    },
+    {
+      "id": "l23",
+      "type": "movement",
+      "source": {
+        "startUid": "u4196",
+        "endUid": "u4268"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Walk around the village with a warrior and investigate the small offering tree.",
+      "evidence": [
+        {
+          "startUid": "u4196",
+          "endUid": "u4226",
+          "quote": "Seeker: Seeker's also not sure what to do with himself and having an honest conversation. And is curious about the village, goes to sort of poke around a bit, but he sees that he's gonna be followed."
+        },
+        {
+          "startUid": "u4220",
+          "endUid": "u4226",
+          "quote": "DM: Um, they seem like there's, there, there are a variety of, um... So there's like a, um, uh... So most of them, most of them are actually, uh, like you'll see there's like, um, like burn marks. Like some of them look like they were things that were hung there and then burned. Um, some of them, uh, you see like a, uh, um,"
+        },
+        {
+          "startUid": "u4237",
+          "endUid": "u4268",
+          "quote": "DM: Uh, there's a piece of, there's a piece of mica. They, they seem to be offerings."
+        },
+        {
+          "startUid": "u4268",
+          "endUid": "u4268",
+          "quote": "DM: Yeah, so l- but like many times, so it doesn't just have two trunks, it has like 15 trunks."
+        }
+      ],
+      "from": "p25",
+      "to": "p26",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l24",
+      "type": "movement",
+      "source": {
+        "startUid": "u4327",
+        "endUid": "u4340"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Take the separate nearby hut assigned to the elf for the night.",
+      "evidence": [
+        {
+          "startUid": "u4327",
+          "endUid": "u4340",
+          "quote": "DM: Okay. So you all get settled in for the night."
+        },
+        {
+          "startUid": "u4340",
+          "endUid": "u4340",
+          "quote": "DM: Um, but nearby."
+        }
+      ],
+      "from": "p24",
+      "to": "p27",
+      "completion": "arrived"
+    },
+    {
+      "id": "l25",
+      "type": "observation",
+      "source": {
+        "startUid": "u4429",
+        "endUid": "u4433"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Before dawn, scry Grash sharpening his glaive in a different room.",
+      "evidence": [
+        {
+          "startUid": "u4429",
+          "endUid": "u4433",
+          "quote": "DM: ... so you do, you do see Grash. Um, uh, but he, the entire time you watch him, he's just sitting there sharpening his glaive. And every time he sharpens it, there's like little dark sparks that shoot up."
+        },
+        {
+          "startUid": "u4433",
+          "endUid": "u4433",
+          "quote": "DM: Uh, no. He is in a room you h- don't recognize."
+        }
+      ],
+      "place": "p16",
+      "observerPlace": "p27",
+      "mode": "remote",
+      "observedActors": [
+        "Grash"
+      ],
+      "note": "The previous night’s assigned hut is the inferred observer origin; no move elsewhere is narrated before the pre-dawn scry."
+    },
+    {
+      "id": "l26",
+      "type": "presence",
+      "source": {
+        "startUid": "u4447",
+        "endUid": "u4469"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Regroup with Kenzo in the companions’ house for the morning conversation.",
+      "evidence": [
+        {
+          "startUid": "u4447",
+          "endUid": "u4469",
+          "quote": "Kenzo: Um, are you all... Where are, where are you guys? You guys are all just-"
+        },
+        {
+          "startUid": "u4468",
+          "endUid": "u4469",
+          "quote": "Kenzo: Bek'eni people. That's one of the tribes?"
+        },
+        {
+          "startUid": "u4713",
+          "endUid": "u4731",
+          "quote": "DM: So I would say, I, I mean, just listening to the conversation, just kind of thinking about, um, you know, your time in this village, I mean, Kenzo so far hasn't left-"
+        },
+        {
+          "startUid": "u4731",
+          "endUid": "u4731",
+          "quote": "DM: ... you're just kind of sitting in a bedroom right now."
+        }
+      ],
+      "place": "p25"
+    },
+    {
+      "id": "l27",
+      "type": "movement",
+      "source": {
+        "startUid": "u5179",
+        "endUid": "u5304"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leave the village with Zevi’s assembled escort and return to the God Tree.",
+      "evidence": [
+        {
+          "startUid": "u5179",
+          "endUid": "u5195",
+          "quote": "Delwath: Um, I, I'm gonna walk out the front door."
+        },
+        {
+          "startUid": "u5194",
+          "endUid": "u5195",
+          "quote": "Kenzo: Okay. We'll stop for a minute. Yeah."
+        },
+        {
+          "startUid": "u5232",
+          "endUid": "u5264",
+          "quote": "DM: Okay. So, like, a, a few minutes later, like, the, the, the s- same guy you first met, um, uh, Zevi, who speaks Elvish, comes up and says in Elvish, \"Where are you going?\""
+        },
+        {
+          "startUid": "u5263",
+          "endUid": "u5264",
+          "quote": "DM: Like 20 minutes later, he gets a g- a group of about 10 soldiers who then follow you into the woods."
+        },
+        {
+          "startUid": "u5286",
+          "endUid": "u5304",
+          "quote": "DM: ... Okay, what are you doing when you get to the tree?"
+        },
+        {
+          "startUid": "u5302",
+          "endUid": "u5304",
+          "quote": "Kenzo: So I j- I describe it to Delwath. You know, I said, \"You know, when I first was in communion with the tree and I looked, it was different than how it looks now. But it felt like there was a city here, and it felt like there were children in a, in a nursery of some kind.\""
+        },
+        {
+          "startUid": "u5295",
+          "endUid": "u5304",
+          "quote": "DM: So there's fewer branches than when you saw, and there's not, you don't... No, you don't see, you don't see the whole, like-"
+        }
+      ],
+      "from": "p23",
+      "to": "p21",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l28",
+      "type": "movement",
+      "source": {
+        "startUid": "u5315",
+        "endUid": "u5463"
+      },
+      "actors": [
+        "Delwath",
+        "Kenzo"
+      ],
+      "reading": "Delwath flies and Kenzo runs/climbs into the upper branches, then both come back down.",
+      "evidence": [
+        {
+          "startUid": "u5315",
+          "endUid": "u5341",
+          "quote": "Delwath: Delwath will cast Fly."
+        },
+        {
+          "startUid": "u5340",
+          "endUid": "u5341",
+          "quote": "DM: Um, a- and you do see, uh... So, so as y- so like there's like gaps in the canopy where there's these branches fell off, and you see, you see runes, you see elven carvings once you get up high."
+        },
+        {
+          "startUid": "u5392",
+          "endUid": "u5429",
+          "quote": "Delwath: When I get to the top of the tree, I'm gonna find this place to land."
+        },
+        {
+          "startUid": "u5423",
+          "endUid": "u5429",
+          "quote": "DM: So a, so the top of the tree is like these big bushy branches, um, and, uh, like s- s- and, and it's like cedar leaves, right? So, and several leaves, several like needles, cedar needles kind of fall onto the rabbit you've sacrificed and just sit there. And then like a minute later, another one falls and just sits there."
+        },
+        {
+          "startUid": "u5451",
+          "endUid": "u5463",
+          "quote": "Delwath: Um, no, I'll fly back down."
+        },
+        {
+          "startUid": "u5463",
+          "endUid": "u5463",
+          "quote": "Kenzo: No, I'll come back down when you come down."
+        }
+      ],
+      "from": "p21",
+      "to": "p21",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Visit the old nursery branches and upper canopy.",
+          "place": "p22"
+        }
+      ],
+      "mode": "fly (Delwath); run/climb (Kenzo)",
+      "note": "Wellby and Seeker remain on the ground; this outing does not move the whole party into the canopy."
+    },
+    {
+      "id": "l29",
+      "type": "observation",
+      "source": {
+        "startUid": "u5875",
+        "endUid": "u5907"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Through the staff, sense a second elven presence to the south, with no distance or identity.",
+      "evidence": [
+        {
+          "startUid": "u5875",
+          "endUid": "u5907",
+          "quote": "DM: So, so you s- when you start thinking about elf, right, y- you don't, um, you don't get a, a sense like, uh, you don't get an emotive value to this. You just, you, you get, you sort of, you're aware of something else. Like, y- you're, you're aware of, you're aware of like the concept of elves in general and the forest's like memory of the elves, and you sense the presence of, of elves, of, of two elves in the forest."
+        },
+        {
+          "startUid": "u5907",
+          "endUid": "u5907",
+          "quote": "DM: ... for like nine months now."
+        }
+      ],
+      "place": "p29",
+      "observerPlace": "p21",
+      "mode": "vision"
+    },
+    {
+      "id": "l30",
+      "type": "observation",
+      "source": {
+        "startUid": "u5994",
+        "endUid": "u6069"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Through the forest network, sense an expanding, unnatural corruption eastward within the Elderwood.",
+      "evidence": [
+        {
+          "startUid": "u5994",
+          "endUid": "u5998",
+          "quote": "Kenzo: ... of like where the... So I try to do a spatial awareness of what, where this sacchariny kind of coverup and infiltration thing is like relative to me."
+        },
+        {
+          "startUid": "u5998",
+          "endUid": "u5998",
+          "quote": "DM: No."
+        },
+        {
+          "startUid": "u6001",
+          "endUid": "u6036",
+          "quote": "Kenzo: Um, do I sense, do I sense any other, like... So there's directionality, but now I try to, like, kind of get a sensation of, like, life forms. Like, is it arid? Is it, you know, lush? Is it, you know, like, what, what kind of life is, is near? Like, so there's, like, kind of the out- Like, there's, like, the, the corruption itself and the saccharin, and then there's the stuff around it which is still healed and normal."
+        },
+        {
+          "startUid": "u6034",
+          "endUid": "u6036",
+          "quote": "DM: Um, it's spreading. I mean, you don't sense there's much resi- there's any resistance to it. It's, it's... There's nothing stopping it from, from growing."
+        },
+        {
+          "startUid": "u6055",
+          "endUid": "u6069",
+          "quote": "DM: It's... Yeah, I mean, your sense of time is ex- It, it's not, there's not a... You don't have a clear sense of time."
+        },
+        {
+          "startUid": "u6069",
+          "endUid": "u6069",
+          "quote": "DM: Whatever it is."
+        }
+      ],
+      "place": "p30",
+      "observerPlace": "p21",
+      "mode": "vision"
+    },
+    {
+      "id": "l31",
+      "type": "movement",
+      "source": {
+        "startUid": "u6075",
+        "endUid": "u6089"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Return to the Bek’eni village and seek Theba to discuss the prayer and their next move.",
+      "evidence": [
+        {
+          "startUid": "u6075",
+          "endUid": "u6089",
+          "quote": "DM: So you go back to the village?"
+        },
+        {
+          "startUid": "u6087",
+          "endUid": "u6089",
+          "quote": "Delwath: And get her opinion on that. And then I think Mezzar's supposed to show up tomorrow."
+        },
+        {
+          "startUid": "u6135",
+          "endUid": "u6139",
+          "quote": "DM: So you speak with Theba."
+        },
+        {
+          "startUid": "u6138",
+          "endUid": "u6139",
+          "quote": "Delwath: We're gonna run after we meet Mezzar. Can she... I mean, is there a way we can get in touch with her?"
+        }
+      ],
+      "from": "p21",
+      "to": "p23",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l32",
+      "type": "movement",
+      "source": {
+        "startUid": "u6144",
+        "endUid": "u6253"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Propose scouting and entering Mezzar’s house to recover Theba’s gear; the recording ends before execution.",
+      "evidence": [
+        {
+          "startUid": "u6144",
+          "endUid": "u6164",
+          "quote": "DM: I mean, she says she's always lurking around, but she really needs her gear if she's going to flee, and it's in Mezzar's house, which is off limits."
+        },
+        {
+          "startUid": "u6163",
+          "endUid": "u6164",
+          "quote": "DM: She says if you get her stuff, she'll guide you. She'll happily take you to the Te'kula."
+        },
+        {
+          "startUid": "u6244",
+          "endUid": "u6253",
+          "quote": "Delwath: Ugh. Let's clairvoyance Mezzar's ... So-"
+        },
+        {
+          "startUid": "u6253",
+          "endUid": "u6253",
+          "quote": "Kenzo: Let's go steal the stuff."
+        }
+      ],
+      "context": "planned",
+      "from": "p23",
+      "to": "p28",
+      "completion": "planned"
+    }
+  ]
+}
