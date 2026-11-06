@@ -1,0 +1,1247 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-137",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-session.yaml",
+    "sessionYamlSha256": "bfc95a701cb3e8afe5ff23b9dcdbf30de227f8b5931b2edeca190abe8e84e20c",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-transcript.md",
+    "transcriptSha256": "374d0923dd4e652a7dc33e919c9a4b774003f4d2b47b3e2d29b15b369872cfd2"
+  },
+  "places": {
+    "p01": {
+      "label": "Vindristjarna",
+      "evidence": [
+        {
+          "startUid": "u1267",
+          "endUid": "u1273",
+          "quote": "DM: As you awake, uh, the sun is rising over Orenlas on Vindristjarna, and you are left now only with the mission to return to Isingue and find the ooze that once attempted to destroy your ship, destroy it, and cleanse the river so the Heartroot can be replanted."
+        }
+      ],
+      "kind": "vessel",
+      "mobile": true,
+      "vaultPath": "Things/Ships/Vindristjarna.md"
+    },
+    "p02": {
+      "label": "Orenlas",
+      "evidence": [
+        {
+          "startUid": "u1267",
+          "endUid": "u1273",
+          "quote": "DM: As you awake, uh, the sun is rising over Orenlas on Vindristjarna, and you are left now only with the mission to return to Isingue and find the ooze that once attempted to destroy your ship, destroy it, and cleanse the river so the Heartroot can be replanted."
+        }
+      ],
+      "kind": "forest realm",
+      "aliases": [
+        "Elven Forest"
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Orenlas/Orenlas.md"
+    },
+    "p03": {
+      "label": "Plaguelands",
+      "evidence": [
+        {
+          "startUid": "u1701",
+          "endUid": "u1704",
+          "quote": "DM: So you now, you fly as gaseous clouds, 70 miles an hour racing across the landscape of, landscape of the Plaguelands, following the river from, that just goes down from the Orenlas Forest to join the Istaros right near Isingue."
+        }
+      ],
+      "kind": "region",
+      "vaultPath": "Gazetteer/Upper Istaros/Plaguelands.md"
+    },
+    "p04": {
+      "label": "Isingue",
+      "evidence": [
+        {
+          "startUid": "u1741",
+          "endUid": "u1743",
+          "quote": "DM: A slow meandering ash clogged river, and follow it until you can see the edge of this... In fact, where wis- where Wind Walk ends is basically at the edge of this growing ash storm, which is about 15 miles away from the, from Isingue."
+        }
+      ],
+      "kind": "ruined city",
+      "vaultPath": "Gazetteer/Upper Istaros/Isingue.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1701",
+              "endUid": "u1728",
+              "quote": "DM: So you now, you fly as gaseous clouds, 70 miles an hour racing across the landscape of, landscape of the Plaguelands, following the river from, that just goes down from the Orenlas Forest to join the Istaros right near Isingue."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Low ash-covered hill outside the storm",
+      "evidence": [
+        {
+          "startUid": "u1745",
+          "endUid": "u1750",
+          "quote": "DM: And you're standing on a hill, a low hill. Actually, as you settle out of wind form your feet sink about six inches into ash, and you're walking across. It's like a lunar landscape. Everything is just coated in dust and ash. You're looking—"
+        }
+      ],
+      "kind": "hill",
+      "note": "Landing site about fifteen miles from Isingue; later walking approaches the shifting storm edge.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1701",
+              "endUid": "u1704",
+              "quote": "DM: So you now, you fly as gaseous clouds, 70 miles an hour racing across the landscape of, landscape of the Plaguelands, following the river from, that just goes down from the Orenlas Forest to join the Istaros right near Isingue."
+            },
+            {
+              "startUid": "u1745",
+              "endUid": "u1750",
+              "quote": "DM: And you're standing on a hill, a low hill. Actually, as you settle out of wind form your feet sink about six inches into ash, and you're walking across. It's like a lunar landscape. Everything is just coated in dust and ash. You're looking—"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Edge of the ash storm",
+      "evidence": [
+        {
+          "startUid": "u1785",
+          "endUid": "u1793",
+          "quote": "DM: It's like there's winds blowing, and you can see maybe 200 yards into the storm as you get closer. Just from a distance, it looks like, it looks like the edge of a thunderstorm or something, right? So there's like, you can see an edge, but there's winds blowing and it's picking up the ash."
+        }
+      ],
+      "kind": "storm margin",
+      "note": "A diffuse, expanding boundary, not a sharply fixed line. Delwath and Seeker later retreat as it advances.",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1769",
+              "endUid": "u1770",
+              "quote": "DM: Isingue is about 15 miles from here. You're at the edge of the ash storm, and it's creeping towards you."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1701",
+              "endUid": "u1704",
+              "quote": "DM: So you now, you fly as gaseous clouds, 70 miles an hour racing across the landscape of, landscape of the Plaguelands, following the river from, that just goes down from the Orenlas Forest to join the Istaros right near Isingue."
+            },
+            {
+              "startUid": "u1769",
+              "endUid": "u1770",
+              "quote": "DM: Isingue is about 15 miles from here. You're at the edge of the ash storm, and it's creeping towards you."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Riverside plaza and central well",
+      "evidence": [
+        {
+          "startUid": "u1929",
+          "endUid": "u1942",
+          "quote": "DM: Um, there is a, um, in the center here, there's what might have used to have been a plaza or something, or a city well or something like that, and you can see like a, a big well like this that's cracked and split."
+        },
+        {
+          "startUid": "u2025",
+          "endUid": "u2031",
+          "quote": "DM: ... to the well, there's like a big plaza like this. Somewhere like here is the river, but you can't see it 'cause the ash goes like that. But you can see like docks and infrastructure that suggests the river is that way."
+        },
+        {
+          "startUid": "u5790",
+          "endUid": "u5799",
+          "quote": "DM: But this, towards the river, the entire ground is collapsed and it just slopes down to the bottom of the cistern. At which there's this m- like, just utterly enormous roiling mass of multicolored ooze bubbling and raging and beginning to climb out and rush forwards towards you."
+        }
+      ],
+      "kind": "plaza",
+      "note": "The plaza is remotely seen first. By the final approach its center has collapsed into the cistern; the outer ring and market columns remain.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u1929",
+              "endUid": "u1930",
+              "quote": "DM: Um, there is a, um, in the center here, there's what might have used to have been a plaza or something, or a city well or something like that, and you can see like a, a big well like this that's cracked and split."
+            },
+            {
+              "startUid": "u2234",
+              "endUid": "u2234",
+              "quote": "DM: And this, this is, this, the docks are close to the center of the city."
+            },
+            {
+              "startUid": "u2238",
+              "endUid": "u2238",
+              "quote": "DM: So it's probably half a mile from the edge of the city."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Bottom of the plaza well",
+      "evidence": [
+        {
+          "startUid": "u2173",
+          "endUid": "u2179",
+          "quote": "DM: There's like a flavor of the plane that you sensed and there's like a scar, like a nodule or some kind of, um, something like that that has the same taste in your mind."
+        }
+      ],
+      "kind": "well bottom",
+      "note": "Kenzo senses a Limbo-flavored nodule here. The party has not physically reached it at the session cutoff.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u2878",
+              "endUid": "u2882",
+              "quote": "DM: Um, and that's basically what is beneath Isingue, or at least this part of Isingue. It's this massive underground cistern with wells that go to, that drop down into it from different parts of the city, and f- clearly fed by the river."
+            }
+          ]
+        },
+        {
+          "relation": "below",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u2201",
+              "endUid": "u2213",
+              "quote": "DM: Well, the, the concentration of ooze matter is on top of the plaza, and then the nodule of Limbo is at the bottom of the well."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Ruined cistern beneath Isingue",
+      "evidence": [
+        {
+          "startUid": "u2878",
+          "endUid": "u2889",
+          "quote": "DM: So while once in the heyday of Isingue it would've been this massive open space, now like there's just c- collapsed ceilings and columns. So it's not actually a sewer system that the ooze lives in. It's the, the network that's created by the piles of rubble that now block large parts of the cistern—"
+        }
+      ],
+      "kind": "cistern",
+      "note": "Initial sewer terminology is corrected: collapsed columns and rubble divide the former cistern into a maze.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u2878",
+              "endUid": "u2882",
+              "quote": "DM: Um, and that's basically what is beneath Isingue, or at least this part of Isingue. It's this massive underground cistern with wells that go to, that drop down into it from different parts of the city, and f- clearly fed by the river."
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Collapsed well used for reconnaissance",
+      "evidence": [
+        {
+          "startUid": "u2787",
+          "endUid": "u2799",
+          "quote": "DM: Okay. So as you're, as you're approaching, um, you do see, like, you sense with your blind sense because you can sort of, um, sense the layout of the ground below you as you're, you're approaching."
+        }
+      ],
+      "kind": "well",
+      "note": "A different well found while flying toward the central plaza. Wellby stays above while Kenzo phases down through its rubble.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u2717",
+              "endUid": "u2724",
+              "quote": "DM: Um, you fly 13 miles, an hour and a half into the storm until you get to the, like r- roughly the edge of the city. There's no, there's no real marker. And now this is where the storm is super intense. Neither of you, I forgot that you're immune to poison, so neither of you have to make con saves because you're both immune to poison. Um, and the,"
+            },
+            {
+              "startUid": "u2751",
+              "endUid": "u2752",
+              "quote": "Kenzo: I, I think, I think as we're flying, we're headed... Well, let's head towards the plaza."
+            },
+            {
+              "startUid": "u2789",
+              "endUid": "u2789",
+              "quote": "DM: There's not, there's not a well that you pass, but you see like a, there's like a collapsed well basically that once was a well but that's fallen in—"
+            }
+          ]
+        },
+        {
+          "relation": "above",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u2815",
+              "endUid": "u2815",
+              "quote": "DM: Okay. So Kenzo begins dropping down through the, through the rubble in the well."
+            },
+            {
+              "startUid": "u2852",
+              "endUid": "u2856",
+              "quote": "DM: ... through the rubble, and you s- you come to what looks like, um, a p- a, a partially collapsed cistern, right? Like, it seems like there was, um..."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Camp outside the spreading ash storm",
+      "evidence": [
+        {
+          "startUid": "u3552",
+          "endUid": "u3565",
+          "quote": "DM: [coughs] Yes. [coughs] Okay. So the morning comes. Uh, the a- you've, you set up camp about a mile from the ash storm, and it's now spread so that the edges of the storm are l- are lapping up against your tents."
+        }
+      ],
+      "kind": "camp",
+      "note": "Set about a mile beyond the storm; its growing edge reaches the tents by morning. Explicitly not aboard Vindristjarna.",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u3552",
+              "endUid": "u3556",
+              "quote": "DM: [coughs] Yes. [coughs] Okay. So the morning comes. Uh, the a- you've, you set up camp about a mile from the ash storm, and it's now spread so that the edges of the storm are l- are lapping up against your tents."
+            },
+            {
+              "startUid": "u3562",
+              "endUid": "u3565",
+              "quote": "DM: So you're now, you are now maybe 15, f- 15 miles from the plaza as the storm has grown slightly. Grew a, a couple miles over the course of the night. [gentle music] And where are you heading?"
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1701",
+              "endUid": "u1704",
+              "quote": "DM: So you now, you fly as gaseous clouds, 70 miles an hour racing across the landscape of, landscape of the Plaguelands, following the river from, that just goes down from the Orenlas Forest to join the Istaros right near Isingue."
+            },
+            {
+              "startUid": "u1769",
+              "endUid": "u1770",
+              "quote": "DM: Isingue is about 15 miles from here. You're at the edge of the ash storm, and it's creeping towards you."
+            },
+            {
+              "startUid": "u3552",
+              "endUid": "u3556",
+              "quote": "DM: [coughs] Yes. [coughs] Okay. So the morning comes. Uh, the a- you've, you set up camp about a mile from the ash storm, and it's now spread so that the edges of the storm are l- are lapping up against your tents."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "River corridor and bank near the plaza",
+      "evidence": [
+        {
+          "startUid": "u3727",
+          "endUid": "u3752",
+          "quote": "DM: You know, Kenzo, I'm just gonna let you be sort of attuned to this condensation. And you sense that it is, it is retreating as you move until you get close to the plaza."
+        },
+        {
+          "startUid": "u3790",
+          "endUid": "u3796",
+          "quote": "Delwath: ... Wellby and Kenzo are presumably... Wellby can fly, right?"
+        },
+        {
+          "startUid": "u3812",
+          "endUid": "u3821",
+          "quote": "DM: So you can't actually see all of the ooze. You just see this, like, amorphous shape. You can see little bits of stone mixed into it. There's like sort of greenish tendrils coming out on the edges."
+        }
+      ],
+      "kind": "river and bank",
+      "note": "Delwath and Seeker swim as leviathans; Kenzo and Wellby fly. The transcript does not unambiguously distinguish the Istaros from its nearby tributary, so no specific river identity is assigned.",
+      "relations": [
+        {
+          "relation": "in_locality_of",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u3747",
+              "endUid": "u3773",
+              "quote": "DM: You know, Kenzo, I'm just gonna let you be sort of attuned to this condensation. And you sense that it is, it is retreating as you move until you get close to the plaza."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Surviving rim of the collapsed plaza",
+      "evidence": [
+        {
+          "startUid": "u5790",
+          "endUid": "u5799",
+          "quote": "DM: But this, towards the river, the entire ground is collapsed and it just slopes down to the bottom of the cistern. At which there's this m- like, just utterly enormous roiling mass of multicolored ooze bubbling and raging and beginning to climb out and rush forwards towards you."
+        }
+      ],
+      "kind": "plaza rim",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u5794",
+              "endUid": "u5797",
+              "quote": "DM: And at the... So just the, like, ring of the plaza is still stable. You still see those columns and the, and the, like, partial cover of the fallen, um, [laughs] of the fallen, uh, of the fallen market."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u1267",
+        "endUid": "u1273"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Wake aboard Vindristjarna over Orenlas.",
+      "evidence": [
+        {
+          "startUid": "u1267",
+          "endUid": "u1273",
+          "quote": "DM: As you awake, uh, the sun is rising over Orenlas on Vindristjarna, and you are left now only with the mission to return to Isingue and find the ooze that once attempted to destroy your ship, destroy it, and cleanse the river so the Heartroot can be replanted."
+        },
+        {
+          "startUid": "u1293",
+          "endUid": "u1293",
+          "quote": "DM: You're in the Elven Forest."
+        }
+      ],
+      "place": "p01",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "over",
+          "target": "p02"
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u1338",
+        "endUid": "u1353"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Begin sailing from Orenlas toward Isingue; the party later leaves the ship before it arrives.",
+      "evidence": [
+        {
+          "startUid": "u1338",
+          "endUid": "u1338",
+          "quote": "Delwath: We'll set out on Vindristjarna towards Isingue."
+        },
+        {
+          "startUid": "u1344",
+          "endUid": "u1346",
+          "quote": "DM: Okay, so as the, you leave the monks here to either return and bring them back to Dunmar, to make their way to Dunmar, they all need a bit of time to recover before they're gonna do anything in the Elven Forest."
+        },
+        {
+          "startUid": "u1350",
+          "endUid": "u1353",
+          "quote": "DM: And begin your trip. Uh, as you start to sail on Vindristjarna, Delwath takes out his silver bowl and begins to scry on, I guess, Isingue."
+        },
+        {
+          "startUid": "u1524",
+          "endUid": "u1524",
+          "quote": "DM: Well, no, 'cause you've been flying for a couple of hours, so you have... Well, we can go 544 miles."
+        }
+      ],
+      "from": "p01",
+      "to": "p04",
+      "completion": "underway",
+      "mode": "skyship",
+      "vehicle": "p01",
+      "note": "Faldrak continues the ship’s following journey after the PCs use Wind Walk; no ship arrival is established here."
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u1350",
+        "endUid": "u1379"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scry the previous attack location at Isingue, seeing only an expanding ash maelstrom.",
+      "evidence": [
+        {
+          "startUid": "u1350",
+          "endUid": "u1355",
+          "quote": "DM: And begin your trip. Uh, as you start to sail on Vindristjarna, Delwath takes out his silver bowl and begins to scry on, I guess, Isingue."
+        },
+        {
+          "startUid": "u1359",
+          "endUid": "u1368",
+          "quote": "DM: It's like a, it's like a hurricane that seems to be growing and spreading out from the city. It now seems to be stretching about 15 miles in every direction from your scry."
+        },
+        {
+          "startUid": "u1376",
+          "endUid": "u1379",
+          "quote": "DM: You can't see. All that Delwath can see in the scrying mirror is—"
+        }
+      ],
+      "place": "p04",
+      "mode": "remote",
+      "observerPlace": "p01"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u1586",
+        "endUid": "u1589"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Leave Faldrak following aboard the ship and wind-walk across the Plaguelands to a hill by the ash storm.",
+      "evidence": [
+        {
+          "startUid": "u1586",
+          "endUid": "u1586",
+          "quote": "DM: So you set Faldrak to keep r—"
+        },
+        {
+          "startUid": "u1588",
+          "endUid": "u1588",
+          "quote": "DM: ... following along behind as he's gotten used to by now."
+        },
+        {
+          "startUid": "u1589",
+          "endUid": "u1589",
+          "quote": "DM: Seeker casts Wind Walk, and you fly—"
+        },
+        {
+          "startUid": "u1701",
+          "endUid": "u1704",
+          "quote": "DM: So you now, you fly as gaseous clouds, 70 miles an hour racing across the landscape of, landscape of the Plaguelands, following the river from, that just goes down from the Orenlas Forest to join the Istaros right near Isingue."
+        },
+        {
+          "startUid": "u1705",
+          "endUid": "u1709",
+          "quote": "DM: Um, you pass over a huge extance- expanse of, uh, completely burned forest with the trees still standing, but blackened and burned."
+        },
+        {
+          "startUid": "u1720",
+          "endUid": "u1722",
+          "quote": "DM: Okay. Um- You pass over a, um, large expanse of rolling hills, um, and piles of ash and slag that swirl and blow in the wind."
+        },
+        {
+          "startUid": "u1741",
+          "endUid": "u1743",
+          "quote": "DM: A slow meandering ash clogged river, and follow it until you can see the edge of this... In fact, where wis- where Wind Walk ends is basically at the edge of this growing ash storm, which is about 15 miles away from the, from Isingue."
+        },
+        {
+          "startUid": "u1745",
+          "endUid": "u1750",
+          "quote": "DM: And you're standing on a hill, a low hill. Actually, as you settle out of wind form your feet sink about six inches into ash, and you're walking across. It's like a lunar landscape. Everything is just coated in dust and ash. You're looking—"
+        }
+      ],
+      "from": "p01",
+      "to": "p05",
+      "completion": "arrived",
+      "mode": "Wind Walk",
+      "route": [
+        {
+          "reading": "Fly over burned forest and rolling ash-covered hills in the Plaguelands.",
+          "place": "p03"
+        },
+        {
+          "reading": "Cross and follow the ash-clogged river; land at the storm margin about fifteen miles from Isingue."
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1778",
+        "endUid": "u1793"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Walk closer from the landing hill to the diffuse edge of the storm.",
+      "evidence": [
+        {
+          "startUid": "u1785",
+          "endUid": "u1786",
+          "quote": "Delwath: Okay. Let's go to the edge of the storm. Right. So like, let's, I wanna stop like 500 feet from the edge of the storm."
+        },
+        {
+          "startUid": "u1787",
+          "endUid": "u1787",
+          "quote": "DM: Okay. Well, it's not, it's, as you get closer, it's not, it's not like a sharp edge."
+        },
+        {
+          "startUid": "u1789",
+          "endUid": "u1793",
+          "quote": "DM: It's like there's winds blowing, and you can see maybe 200 yards into the storm as you get closer. Just from a distance, it looks like, it looks like the edge of a thunderstorm or something, right? So there's like, you can see an edge, but there's winds blowing and it's picking up the ash."
+        }
+      ],
+      "from": "p05",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l06",
+      "type": "observation",
+      "source": {
+        "startUid": "u1818",
+        "endUid": "u1838"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Send an illusory double through the storm into the plaza, observing the well, ooze and docks before it vanishes.",
+      "evidence": [
+        {
+          "startUid": "u1818",
+          "endUid": "u1818",
+          "quote": "Delwath: Okay. So when we get close, Delwath will disappear, and an identical copy of Delwath appears right next to Delwath."
+        },
+        {
+          "startUid": "u1831",
+          "endUid": "u1833",
+          "quote": "Delwath: So it's an illusory double, right? The double lasts for the duration. You can move the double up to twice your speed- You can see through its eyes and hear through its air, ears as if you were looking where it was."
+        },
+        {
+          "startUid": "u1885",
+          "endUid": "u1891",
+          "quote": "DM: Uh, I mean, no, maybe about 50 minutes, the outskirts of what might have been Isingue. You can see just every now and then, like mostly it's completely destroyed, but every now and then you'll see a, you know, a part of a wall standing or like a little stretch of, um, buildings that kind of make a little bit of a, of a bit of a road, pillars standing like that. Um, at, uh,"
+        },
+        {
+          "startUid": "u1908",
+          "endUid": "u1908",
+          "quote": "DM: And you stumble through into a clear open space."
+        },
+        {
+          "startUid": "u1910",
+          "endUid": "u1913",
+          "quote": "DM: Um, about 600 feet across, um, still lightly obscured as m- mist and ash sort of drift in through the center of this storm. Um, there is, uh,"
+        },
+        {
+          "startUid": "u1927",
+          "endUid": "u1928",
+          "quote": "DM: Um, but you can see the docks, like where the, the river port would've started. There's a, a few little buildings that suggest."
+        },
+        {
+          "startUid": "u1929",
+          "endUid": "u1930",
+          "quote": "DM: Um, there is a, um, in the center here, there's what might have used to have been a plaza or something, or a city well or something like that, and you can see like a, a big well like this that's cracked and split."
+        },
+        {
+          "startUid": "u1931",
+          "endUid": "u1931",
+          "quote": "DM: And stretching out from the well, you see a one like long pseudopod of some kind of ooze-like creature."
+        },
+        {
+          "startUid": "u1989",
+          "endUid": "u1989",
+          "quote": "Delwath: Well, double Delwath will charge and disappear."
+        }
+      ],
+      "place": "p07",
+      "mode": "remote",
+      "observerPlace": "p06",
+      "note": "Only the intangible double reaches Isingue; Delwath remains outside the storm with the party."
+    },
+    {
+      "id": "l07",
+      "type": "observation",
+      "source": {
+        "startUid": "u1991",
+        "endUid": "u2031"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scry the plaza after the double vanishes, confirming the searching ooze and the ruined covered market.",
+      "evidence": [
+        {
+          "startUid": "u1991",
+          "endUid": "u1991",
+          "quote": "Delwath: And then I'll cast Scrying at that spot."
+        },
+        {
+          "startUid": "u1996",
+          "endUid": "u1996",
+          "quote": "Delwath: So now we can, it, we have in a more leisurely fashion take 10 minutes to look around and see what we see."
+        },
+        {
+          "startUid": "u2004",
+          "endUid": "u2005",
+          "quote": "DM: Stretching about 100 feet wide, you can see now this like bubbling mass that seems to be searching around the edges of the plaza with these pseudopods, like trying to figure out what happened to this creature that vanished."
+        },
+        {
+          "startUid": "u2017",
+          "endUid": "u2020",
+          "quote": "DM: There's a row of columns that are each about 10 feet tall, and then the roof has cracked and fallen down, and there's like a line, a diagonal line that goes about 40 feet long of piled rubble."
+        },
+        {
+          "startUid": "u2025",
+          "endUid": "u2027",
+          "quote": "DM: ... to the well, there's like a big plaza like this. Somewhere like here is the river, but you can't see it 'cause the ash goes like that. But you can see like docks and infrastructure that suggests the river is that way."
+        }
+      ],
+      "place": "p07",
+      "mode": "remote",
+      "observerPlace": "p06"
+    },
+    {
+      "id": "l08",
+      "type": "observation",
+      "source": {
+        "startUid": "u2114",
+        "endUid": "u2161"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Nature-sense traces the ooze’s underground network, with concentrations in the river and the plaza.",
+      "evidence": [
+        {
+          "startUid": "u2114",
+          "endUid": "u2115",
+          "quote": "DM: So Kenzo goes into his trance and reaches out your consciousness for, you can now stretch something like 40 miles or something like that. Um."
+        },
+        {
+          "startUid": "u2134",
+          "endUid": "u2134",
+          "quote": "DM: And it's stre- like you can see actually the n- you actually suspect that what you're seeing in your mind as you stretch through is like a map of the sewers—"
+        },
+        {
+          "startUid": "u2136",
+          "endUid": "u2137",
+          "quote": "DM: ... and tunnels underneath the city where you see like lines of this. It's almost like the filamentous like—"
+        },
+        {
+          "startUid": "u2149",
+          "endUid": "u2150",
+          "quote": "DM: Um, one is in the river."
+        },
+        {
+          "startUid": "u2152",
+          "endUid": "u2158",
+          "quote": "DM: So around the s- the center of this plaza, the consciousness is very thin and it's all like pulled together into a—it's almost like it extract, it pulled bits of itself from all the sewers around here to emerge out and search for Delwath. Right? So it's like the density is higher here."
+        }
+      ],
+      "place": "p09",
+      "mode": "remote",
+      "observerPlace": "p06",
+      "note": "This is remote sensing, initially described as sewers; the later cistern description identifies the same underground network."
+    },
+    {
+      "id": "l09",
+      "type": "observation",
+      "source": {
+        "startUid": "u2163",
+        "endUid": "u2213"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Sense a Limbo-flavored nodule at the bottom of the central well, distinct from the two ooze concentrations.",
+      "evidence": [
+        {
+          "startUid": "u2176",
+          "endUid": "u2178",
+          "quote": "DM: There's like a flavor of the plane that you sensed and there's like a scar, like a nodule or some kind of, um, something like that that has the same taste in your mind."
+        },
+        {
+          "startUid": "u2179",
+          "endUid": "u2179",
+          "quote": "DM: Some like little bit of Limbo at the bottom of this well."
+        },
+        {
+          "startUid": "u2193",
+          "endUid": "u2193",
+          "quote": "DM: And it is centered on this like little nodule of Limbo."
+        },
+        {
+          "startUid": "u2210",
+          "endUid": "u2210",
+          "quote": "DM: Well, the, the concentration of ooze matter is on top of the plaza, and then the nodule of Limbo is at the bottom of the well."
+        },
+        {
+          "startUid": "u2213",
+          "endUid": "u2213",
+          "quote": "DM: And then the river is also the, another high concentration of ooze matter."
+        }
+      ],
+      "place": "p08",
+      "mode": "remote",
+      "observerPlace": "p06"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u2399",
+        "endUid": "u2454"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Scout about a mile into the ash in astral form, discover its poisonous effect, then return to the others.",
+      "evidence": [
+        {
+          "startUid": "u2399",
+          "endUid": "u2400",
+          "quote": "DM: Kenzo's astral projection. Make—"
+        },
+        {
+          "startUid": "u2436",
+          "endUid": "u2436",
+          "quote": "DM: Like maybe a mile."
+        },
+        {
+          "startUid": "u2445",
+          "endUid": "u2448",
+          "quote": "Kenzo: [laughs] I tell everybody, \"I would've been poisoned if I, if I could be.\""
+        },
+        {
+          "startUid": "u2453",
+          "endUid": "u2454",
+          "quote": "Unknown: I come back."
+        }
+      ],
+      "from": "p06",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "astral projection",
+      "route": [
+        {
+          "reading": "Go about a mile into the storm and return; Kenzo’s poison immunity prevents the poison condition."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u2692",
+        "endUid": "u2799"
+      },
+      "actors": [
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "Wellby becomes a green dragon and carries Kenzo through the storm, landing at a collapsed well on the approach to the plaza.",
+      "evidence": [
+        {
+          "startUid": "u2692",
+          "endUid": "u2692",
+          "quote": "DM: Okay. So Wellby turns into a dragon."
+        },
+        {
+          "startUid": "u2694",
+          "endUid": "u2694",
+          "quote": "DM: Kenzo mounts on the back of the dragon."
+        },
+        {
+          "startUid": "u2696",
+          "endUid": "u2696",
+          "quote": "Unknown: And you begin flying into the ash."
+        },
+        {
+          "startUid": "u2712",
+          "endUid": "u2714",
+          "quote": "DM: Um, the sun is also setting, so you can see the, the like lines of the sunset stretching across, um, the ash cloud from the outside, which is now... I mean, you guys, you two s- um, Delwath and Seeker are, like, you have the, you have to retreat a bit 'cause the ash is growing stronger, so."
+        },
+        {
+          "startUid": "u2717",
+          "endUid": "u2724",
+          "quote": "DM: Um, you fly 13 miles, an hour and a half into the storm until you get to the, like r- roughly the edge of the city. There's no, there's no real marker. And now this is where the storm is super intense. Neither of you, I forgot that you're immune to poison, so neither of you have to make con saves because you're both immune to poison. Um, and the,"
+        },
+        {
+          "startUid": "u2751",
+          "endUid": "u2752",
+          "quote": "Kenzo: I, I think, I think as we're flying, we're headed... Well, let's head towards the plaza."
+        },
+        {
+          "startUid": "u2789",
+          "endUid": "u2791",
+          "quote": "DM: There's not, there's not a well that you pass, but you see like a, there's like a collapsed well basically that once was a well but that's fallen in—"
+        },
+        {
+          "startUid": "u2798",
+          "endUid": "u2799",
+          "quote": "DM: Okay. So you land."
+        }
+      ],
+      "from": "p06",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "fly",
+      "route": [
+        {
+          "reading": "Fly thirteen miles in an hour and a half to the city edge, then search while heading toward the plaza.",
+          "place": "p04"
+        }
+      ],
+      "note": "The initial idea that Delwath would be the dragon is superseded. Delwath and Seeker stay outside and retreat from the expanding storm."
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2812",
+        "endUid": "u2856"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Phase down through the well rubble into the partially collapsed cistern alone; Wellby remains above.",
+      "evidence": [
+        {
+          "startUid": "u2812",
+          "endUid": "u2815",
+          "quote": "Kenzo: Yeah. Basically, yeah. Uh, okay. Well, if it's, there's rubble, that's fine. K- uh, Kenzo passes through it."
+        },
+        {
+          "startUid": "u2845",
+          "endUid": "u2845",
+          "quote": "Wellby: Yeah, I think there's something exciting to Kenzo going alone."
+        },
+        {
+          "startUid": "u2852",
+          "endUid": "u2856",
+          "quote": "DM: ... through the rubble, and you s- you come to what looks like, um, a p- a, a partially collapsed cistern, right? Like, it seems like there was, um..."
+        },
+        {
+          "startUid": "u2878",
+          "endUid": "u2882",
+          "quote": "DM: Um, and that's basically what is beneath Isingue, or at least this part of Isingue. It's this massive underground cistern with wells that go to, that drop down into it from different parts of the city, and f- clearly fed by the river."
+        }
+      ],
+      "from": "p10",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "astral passage through rubble"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u3036",
+        "endUid": "u3047"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Escape back up the collapsed well with the piece of ooze, which hardens into crystal.",
+      "evidence": [
+        {
+          "startUid": "u3040",
+          "endUid": "u3040",
+          "quote": "DM: ... this. So as you pull the piece of ooze off, it hardens into crystal."
+        },
+        {
+          "startUid": "u3045",
+          "endUid": "u3047",
+          "quote": "DM: And then you flee back up the tunnel, or the collapsed well, away from the—"
+        },
+        {
+          "startUid": "u3048",
+          "endUid": "u3049",
+          "quote": "Kenzo: And then I hop back on Wellby's back, and then we fly back to the, where everybody else is."
+        }
+      ],
+      "from": "p09",
+      "to": "p10",
+      "completion": "arrived",
+      "mode": "astral retreat"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u3048",
+        "endUid": "u3049"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "Kenzo remounts Wellby and they fly back to Delwath and Seeker outside the storm.",
+      "evidence": [
+        {
+          "startUid": "u3048",
+          "endUid": "u3050",
+          "quote": "Kenzo: And then I hop back on Wellby's back, and then we fly back to the, where everybody else is."
+        },
+        {
+          "startUid": "u3491",
+          "endUid": "u3492",
+          "quote": "DM: We're not in Vindristjarna though, right? You're not in Vindristjarna."
+        }
+      ],
+      "from": "p10",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "fly",
+      "note": "Wellby’s deck-size comparison is not a ship arrival; the DM later explicitly confirms they are not aboard Vindristjarna."
+    },
+    {
+      "id": "l15",
+      "type": "observation",
+      "source": {
+        "startUid": "u3221",
+        "endUid": "u3329"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Watch the ooze sample’s origin in the Mirror of the Past: the cistern before its later destruction and the ooze spreading through its water.",
+      "evidence": [
+        {
+          "startUid": "u3221",
+          "endUid": "u3221",
+          "quote": "DM: Okay, that's good. Um, so you hold it up to the mirror."
+        },
+        {
+          "startUid": "u3232",
+          "endUid": "u3234",
+          "quote": "DM: Shining down into a, um, y- you can see like ripples in the water, right? So you're... It's like looking down into this cistern below Isingue, uh, but when it is less ruined."
+        },
+        {
+          "startUid": "u3279",
+          "endUid": "u3281",
+          "quote": "DM: This mass at the center which then begins to spin and actually splits into two that are connected by some wire, like orb- orbiting around each other with like, as they spin s- throwing off more and more little filaments that land further in the water, and then a line of like gelatinous mass like nucleates along the line."
+        },
+        {
+          "startUid": "u3312",
+          "endUid": "u3314",
+          "quote": "DM: And then all of that is like solidifying and drawing in, and you watch... Like time is sped up in the mirror, right? So you watch over time—"
+        },
+        {
+          "startUid": "u3323",
+          "endUid": "u3329",
+          "quote": "DM: Right? And at this point that you can see in the mirror, right? Isingue is much more intact, but over time it begins to corrode and destroy all of the... It seems to actually eat the stone somehow. It's like acidically corroding all of the stone in the city as it slowly grows over years."
+        }
+      ],
+      "place": "p09",
+      "mode": "vision",
+      "observerPlace": "p06",
+      "context": "vision"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u3474",
+        "endUid": "u3477"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Set camp outside the storm; by morning its expanding edge reaches the tents.",
+      "evidence": [
+        {
+          "startUid": "u3474",
+          "endUid": "u3477",
+          "quote": "DM: As the sun sets you set up camp. Seeker creates a feast for you and you consume the feast. Roll 2d10, everybody gets 2d10 added to your hit point maximum."
+        },
+        {
+          "startUid": "u3491",
+          "endUid": "u3492",
+          "quote": "DM: We're not in Vindristjarna though, right? You're not in Vindristjarna."
+        },
+        {
+          "startUid": "u3552",
+          "endUid": "u3565",
+          "quote": "DM: [coughs] Yes. [coughs] Okay. So the morning comes. Uh, the a- you've, you set up camp about a mile from the ash storm, and it's now spread so that the edges of the storm are l- are lapping up against your tents."
+        }
+      ],
+      "from": "p06",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "camp relocation"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u3698",
+        "endUid": "u3796"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Approach upriver through the ash toward the plaza; the ooze withdraws from the river and lunges from the shore.",
+      "evidence": [
+        {
+          "startUid": "u3698",
+          "endUid": "u3702",
+          "quote": "DM: ... um, the, uh... So you're just, you're just going upriver basically, right?"
+        },
+        {
+          "startUid": "u3727",
+          "endUid": "u3727",
+          "quote": "DM: And you're coming... You come upriver."
+        },
+        {
+          "startUid": "u3751",
+          "endUid": "u3752",
+          "quote": "DM: You know, Kenzo, I'm just gonna let you be sort of attuned to this condensation. And you sense that it is, it is retreating as you move until you get close to the plaza."
+        },
+        {
+          "startUid": "u3770",
+          "endUid": "u3773",
+          "quote": "DM: ... it's retreating from the river, pulling back, and then leaps out at you, just condensing on the ground, rushing across the terrain here. Um—"
+        },
+        {
+          "startUid": "u3796",
+          "endUid": "u3796",
+          "quote": "DM: So the two leviathans are swimming in the river."
+        },
+        {
+          "startUid": "u3812",
+          "endUid": "u3812",
+          "quote": "DM: Right. Kenzo is astral form already."
+        },
+        {
+          "startUid": "u3816",
+          "endUid": "u3817",
+          "quote": "DM: ... Wellby form, but flying with your wings out from your- And you can see, you see this, your visibility is only 30 feet, so, um, uh, because of the intensity of the ash storm."
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "swim and fly",
+      "note": "Seeker and Delwath swim as leviathans; Kenzo is astral and Wellby flies above the riverbank."
+    },
+    {
+      "id": "l18",
+      "type": "movement",
+      "source": {
+        "startUid": "u5739",
+        "endUid": "u5799"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Follow the crystallized tendril over land to the surviving plaza rim and see the collapsed center open down into the cistern.",
+      "evidence": [
+        {
+          "startUid": "u5664",
+          "endUid": "u5664",
+          "quote": "DM: It's over land, yeah, yeah."
+        },
+        {
+          "startUid": "u5665",
+          "endUid": "u5666",
+          "quote": "DM: That's the direction it's heading, yeah."
+        },
+        {
+          "startUid": "u5739",
+          "endUid": "u5739",
+          "quote": "DM: So you rush forward."
+        },
+        {
+          "startUid": "u5741",
+          "endUid": "u5746",
+          "quote": "DM: Running towards the, uh, with these two water creatures following, running towards the, um, the center. You break out through the storm and you see that the center of this plaza has partially collapsed. And in the center is, like, a 400-foot-long ooze."
+        },
+        {
+          "startUid": "u5790",
+          "endUid": "u5793",
+          "quote": "DM: You rush forward, you emerge out of the storm of ash, and you see this, like, collops- collapsed plaza. So it, like, slopes down. There's like a gradient slope down to the bottom."
+        },
+        {
+          "startUid": "u5794",
+          "endUid": "u5797",
+          "quote": "DM: And at the... So just the, like, ring of the plaza is still stable. You still see those columns and the, and the, like, partial cover of the fallen, um, [laughs] of the fallen, uh, of the fallen market."
+        },
+        {
+          "startUid": "u5798",
+          "endUid": "u5799",
+          "quote": "DM: But this, towards the river, the entire ground is collapsed and it just slopes down to the bottom of the cistern. At which there's this m- like, just utterly enormous roiling mass of multicolored ooze bubbling and raging and beginning to climb out and rush forwards towards you."
+        }
+      ],
+      "from": "p12",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "overland advance",
+      "route": [
+        {
+          "reading": "Follow the hardened tendril toward the well, over land because the former river-to-cistern connections have collapsed."
+        }
+      ]
+    },
+    {
+      "id": "l19",
+      "type": "observation",
+      "source": {
+        "startUid": "u5790",
+        "endUid": "u5806"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "From the plaza rim, see the enormous ooze below in the exposed cistern; the nodule itself is hidden within it.",
+      "evidence": [
+        {
+          "startUid": "u5794",
+          "endUid": "u5797",
+          "quote": "DM: And at the... So just the, like, ring of the plaza is still stable. You still see those columns and the, and the, like, partial cover of the fallen, um, [laughs] of the fallen, uh, of the fallen market."
+        },
+        {
+          "startUid": "u5798",
+          "endUid": "u5799",
+          "quote": "DM: But this, towards the river, the entire ground is collapsed and it just slopes down to the bottom of the cistern. At which there's this m- like, just utterly enormous roiling mass of multicolored ooze bubbling and raging and beginning to climb out and rush forwards towards you."
+        },
+        {
+          "startUid": "u5804",
+          "endUid": "u5804",
+          "quote": "DM: You can't see it."
+        },
+        {
+          "startUid": "u5806",
+          "endUid": "u5806",
+          "quote": "DM: It's probably somewhere inside the ooze."
+        }
+      ],
+      "place": "p09",
+      "mode": "local",
+      "observerPlace": "p13",
+      "note": "Seeing the slope and cistern is not a completed descent. The next initiative roll is explicitly deferred at u5818."
+    }
+  ]
+}
