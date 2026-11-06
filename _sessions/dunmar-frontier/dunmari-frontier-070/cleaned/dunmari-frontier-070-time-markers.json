@@ -365,7 +365,6 @@
         }
       ],
       "actors": [
-        "Kenzo",
         "Seeker",
         "Delwath",
         "Wellby",
@@ -377,7 +376,8 @@
           "type": "returns_to",
           "target": "t06"
         }
-      ]
+      ],
+      "note": "Kenzo’s position after the recitation is not re-established in this final dream reentry."
     }
   ],
   "yamlCheck": {

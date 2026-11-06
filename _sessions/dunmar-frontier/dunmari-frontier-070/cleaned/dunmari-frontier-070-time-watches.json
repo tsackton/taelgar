@@ -3,7 +3,7 @@
   "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-session.yaml",
   "source": {
     "path": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-time-markers.json",
-    "sha256": "05a50473537de0e5b00722f099a49690b0efae3b2ed8ff7f66613760d1dad1ba"
+    "sha256": "7491ccb58011addce586193aed3a89b448f0d5041d35f14abb21ca1f34dfd509"
   },
   "transcript": {
     "path": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-transcript.md",
@@ -95,7 +95,7 @@
       "startWatch": null,
       "endWatch": null,
       "basis": "open",
-      "summary": "Reentry into the dream struggle; its local sky and elapsed time are unspecified.",
+      "summary": "Wellby returns; Seeker and Riswynn follow; Delwath attacks there. Kenzo’s position after the recitation remains unknown.",
       "markers": [
         "t11"
       ],
