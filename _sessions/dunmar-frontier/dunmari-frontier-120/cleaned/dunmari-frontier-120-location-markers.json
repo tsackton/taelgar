@@ -1,0 +1,732 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-120",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-120/cleaned/dunmari-frontier-120-session.yaml",
+    "sessionYamlSha256": "ab7faa0a10d565e5cd434e54db79ac2a2a3d968b531acb84443f3bb2f79b218d",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-120/cleaned/dunmari-frontier-120-transcript.md",
+    "transcriptSha256": "00bfd1b4dda9f48d3698c71ca8945617991c011bc28d817d127d2509a66577ab"
+  },
+  "places": {
+    "p01": {
+      "label": "Emberwine",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0003",
+          "quote": "DM: So we pick up in the fey realm of Emberwine. Oh, and before we start, I don't remember from the end of last session who ate the pie? I know Seeker did."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Emberwine/Emberwine.md"
+    },
+    "p02": {
+      "label": "Sunwine Hall revel",
+      "kind": "court and grounds",
+      "evidence": [
+        {
+          "startUid": "u0011",
+          "endUid": "u0017",
+          "quote": "DM: So we start as you find yourself walking, almost dancing, following the whistle of the small flute that Auntie Mulberry gave you, heading south towards Sunwine Hall, where the Lord Sorven, the Master of Revels and ruler of Emberwine, holds his never-ending fey revel. From Auntie Mulberry you learned that there is potentially a refugee from Amberglow, who has been hanging around Lord Sorven's court for a while, which is potentially your primary motivation for traveling in this direction as you walk."
+        }
+      ],
+      "note": "The named court includes the stone pavilion and surrounding revel clearings in this session; the grounds are kept distinct from the main building.",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Emberwine/Sunwine Hall.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0011",
+              "endUid": "u0017",
+              "quote": "DM: So we start as you find yourself walking, almost dancing, following the whistle of the small flute that Auntie Mulberry gave you, heading south towards Sunwine Hall, where the Lord Sorven, the Master of Revels and ruler of Emberwine, holds his never-ending fey revel. From Auntie Mulberry you learned that there is potentially a refugee from Amberglow, who has been hanging around Lord Sorven's court for a while, which is potentially your primary motivation for traveling in this direction as you walk."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Stone feast hall",
+      "kind": "open pavilion",
+      "evidence": [
+        {
+          "startUid": "u0041",
+          "endUid": "u0052",
+          "quote": "DM: You see from a distance, as you begin to approach through a field of of vines coming up over a small rise of a hill, where you can now see an open air feast before you. No, no big, you know, tents or structures. There’s one large stone hall that's just, you know, a roof, but doesn't seem to have walls. That that's like a big, open, almost open air court. The vines dangling everywhere. Lights lit up, catching the golden sunlight of late, of the perpetual late afternoon. Passing through the occasional grove of trees that both seem to shelter and enclose this court of the Sunwine Hall, and also somehow seemed to amplify the echoes of the music, as you pass through the trees to reach this hill crest that looks down over this open feast you can hear snippets of song almost creeping through the trees, bouncing and echoing in strange ways."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0198",
+              "endUid": "u0213",
+              "quote": "DM: So you know, over the some amount of time it— again, it's really hard to tell how much time has passed, because the sun doesn't change in the sky. You don't really seem to be getting tired, although if you wanted to, you probably could sleep. You certainly see people occasionally, like, you know, drifting off into the woods, and you can actually see that sort of a little ways away, you know, a bit outside of the party. There's, you know, a few people have set up hammocks between some trees and are clearly napping. So it's not like people don't sleep, but it's just the, you know. It's hard to tell how much time has passed. As you slowly kind of drift into this this great hall, and so when you kind of find yourself stepping into this hall? You can see a few things first. There's a a— many people. There's a big dance floor in the middle of this hall, and while there's people who are kind of joyfully leaping through the party outside you know there's a there's a band of satyrs playing. There's like people who are not quite courtly dance, right? It's not so sedate as that. But you know clearly there's like a dance happening here. At the far end of the hall. There's a you see, what must be Lord Sorven."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Revel clearings outside the hall",
+      "kind": "grounds",
+      "evidence": [
+        {
+          "startUid": "u0557",
+          "endUid": "u0565",
+          "quote": "%% u0557:0-156, u0558:0-118, u0559:0-83, u0560:0-54, u0561:0-71 %%\nDM: Starting with Kenzo, as you sort of drift to the edge of the party, you know. Maybe sort of hanging out a little bit near the musicians. There's a there's a— there's multiple bands scattered around. There's the main sort of dance hall band. But then there's you know, several— you know across just outside, like where the sort of feast hall is, and everything, now, where the tables are spread outside, there's more bands, and you sort of drift to the edge of the of the of the clearing,\n\n%% u0562:0-14, u0563:0-115, u0564:0-287, u0565:0-161 %%\nDM: Which seems to— it seems to extend like every time you sort of come around a corner like there's another opening where there's more tables and more people, and like you'll be sort of walking around a little bit, and there's be a big sort of hedge arch, and then you go through, and there's a whole another sort of clearing. It seems like almost you can just walk like it's hard to get to the edge of the party. Exactly. But you you find you find a band, and you know, sort of on the edge of where people are socializing anyway, and and concentrate and sort of reach out your sense."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0557",
+              "endUid": "u0565",
+              "quote": "%% u0557:0-156, u0558:0-118, u0559:0-83, u0560:0-54, u0561:0-71 %%\nDM: Starting with Kenzo, as you sort of drift to the edge of the party, you know. Maybe sort of hanging out a little bit near the musicians. There's a there's a— there's multiple bands scattered around. There's the main sort of dance hall band. But then there's you know, several— you know across just outside, like where the sort of feast hall is, and everything, now, where the tables are spread outside, there's more bands, and you sort of drift to the edge of the of the of the clearing,\n\n%% u0562:0-14, u0563:0-115, u0564:0-287, u0565:0-161 %%\nDM: Which seems to— it seems to extend like every time you sort of come around a corner like there's another opening where there's more tables and more people, and like you'll be sort of walking around a little bit, and there's be a big sort of hedge arch, and then you go through, and there's a whole another sort of clearing. It seems like almost you can just walk like it's hard to get to the edge of the party. Exactly. But you you find you find a band, and you know, sort of on the edge of where people are socializing anyway, and and concentrate and sort of reach out your sense."
+            }
+          ]
+        },
+        {
+          "relation": "adjacent_to",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0557",
+              "endUid": "u0561",
+              "quote": "DM: Starting with Kenzo, as you sort of drift to the edge of the party, you know. Maybe sort of hanging out a little bit near the musicians. There's a there's a— there's multiple bands scattered around. There's the main sort of dance hall band. But then there's you know, several— you know across just outside, like where the sort of feast hall is, and everything, now, where the tables are spread outside, there's more bands, and you sort of drift to the edge of the of the of the clearing,"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Hill crest overlooking the revel",
+      "kind": "hill crest",
+      "evidence": [
+        {
+          "startUid": "u0041",
+          "endUid": "u0054",
+          "quote": "%% u0041:0-68, u0042:0-69, u0043:0-51, u0044:0-112, u0045:0-52, u0046:0-116, u0047:0-50, u0048:0-64, u0049:0-58, u0050:0-104, u0051:0-51, u0052:0-37 %%\nDM: You see from a distance, as you begin to approach through a field of of vines coming up over a small rise of a hill, where you can now see an open air feast before you. No, no big, you know, tents or structures. There’s one large stone hall that's just, you know, a roof, but doesn't seem to have walls. That that's like a big, open, almost open air court. The vines dangling everywhere. Lights lit up, catching the golden sunlight of late, of the perpetual late afternoon. Passing through the occasional grove of trees that both seem to shelter and enclose this court of the Sunwine Hall, and also somehow seemed to amplify the echoes of the music, as you pass through the trees to reach this hill crest that looks down over this open feast you can hear snippets of song almost creeping through the trees, bouncing and echoing in strange ways.\n\n%% u0053:0-2, u0054:0-181 %%\nDM: So here you are. Nobody seems to have noticed you immediately. As you look down on this feast, people seem to be coming and going freely. Nobody is keeping much track of the attendees."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0041",
+              "endUid": "u0054",
+              "quote": "%% u0041:0-68, u0042:0-69, u0043:0-51, u0044:0-112, u0045:0-52, u0046:0-116, u0047:0-50, u0048:0-64, u0049:0-58, u0050:0-104, u0051:0-51, u0052:0-37 %%\nDM: You see from a distance, as you begin to approach through a field of of vines coming up over a small rise of a hill, where you can now see an open air feast before you. No, no big, you know, tents or structures. There’s one large stone hall that's just, you know, a roof, but doesn't seem to have walls. That that's like a big, open, almost open air court. The vines dangling everywhere. Lights lit up, catching the golden sunlight of late, of the perpetual late afternoon. Passing through the occasional grove of trees that both seem to shelter and enclose this court of the Sunwine Hall, and also somehow seemed to amplify the echoes of the music, as you pass through the trees to reach this hill crest that looks down over this open feast you can hear snippets of song almost creeping through the trees, bouncing and echoing in strange ways.\n\n%% u0053:0-2, u0054:0-181 %%\nDM: So here you are. Nobody seems to have noticed you immediately. As you look down on this feast, people seem to be coming and going freely. Nobody is keeping much track of the attendees."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Musicians’ clearing at the edge of the party",
+      "kind": "clearing",
+      "evidence": [
+        {
+          "startUid": "u0557",
+          "endUid": "u0565",
+          "quote": "%% u0557:0-156, u0558:0-118, u0559:0-83, u0560:0-54, u0561:0-71 %%\nDM: Starting with Kenzo, as you sort of drift to the edge of the party, you know. Maybe sort of hanging out a little bit near the musicians. There's a there's a— there's multiple bands scattered around. There's the main sort of dance hall band. But then there's you know, several— you know across just outside, like where the sort of feast hall is, and everything, now, where the tables are spread outside, there's more bands, and you sort of drift to the edge of the of the of the clearing,\n\n%% u0562:0-14, u0563:0-115, u0564:0-287, u0565:0-161 %%\nDM: Which seems to— it seems to extend like every time you sort of come around a corner like there's another opening where there's more tables and more people, and like you'll be sort of walking around a little bit, and there's be a big sort of hedge arch, and then you go through, and there's a whole another sort of clearing. It seems like almost you can just walk like it's hard to get to the edge of the party. Exactly. But you you find you find a band, and you know, sort of on the edge of where people are socializing anyway, and and concentrate and sort of reach out your sense."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p04",
+          "evidence": [
+            {
+              "startUid": "u0557",
+              "endUid": "u0565",
+              "quote": "%% u0557:0-156, u0558:0-118, u0559:0-83, u0560:0-54, u0561:0-71 %%\nDM: Starting with Kenzo, as you sort of drift to the edge of the party, you know. Maybe sort of hanging out a little bit near the musicians. There's a there's a— there's multiple bands scattered around. There's the main sort of dance hall band. But then there's you know, several— you know across just outside, like where the sort of feast hall is, and everything, now, where the tables are spread outside, there's more bands, and you sort of drift to the edge of the of the of the clearing,\n\n%% u0562:0-14, u0563:0-115, u0564:0-287, u0565:0-161 %%\nDM: Which seems to— it seems to extend like every time you sort of come around a corner like there's another opening where there's more tables and more people, and like you'll be sort of walking around a little bit, and there's be a big sort of hedge arch, and then you go through, and there's a whole another sort of clearing. It seems like almost you can just walk like it's hard to get to the edge of the party. Exactly. But you you find you find a band, and you know, sort of on the edge of where people are socializing anyway, and and concentrate and sort of reach out your sense."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Storytelling corner at the side of the party",
+      "kind": "court corner",
+      "evidence": [
+        {
+          "startUid": "u1141",
+          "endUid": "u1143",
+          "quote": "DM: Yes, Ashara is quite interested. You know, clearly interested in kind of sticking around for a little bit to hear all these tales. Sorry, Ismara. She's so she's still there, and Valeris is still there. And the all of you are. Are there kind of in a little corner on the sort of side of the party a little bit."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1141",
+              "endUid": "u1143",
+              "quote": "DM: Yes, Ashara is quite interested. You know, clearly interested in kind of sticking around for a little bit to hear all these tales. Sorry, Ismara. She's so she's still there, and Valeris is still there. And the all of you are. Are there kind of in a little corner on the sort of side of the party a little bit."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Outside a column of Sunwine Hall",
+      "kind": "hall exterior",
+      "evidence": [
+        {
+          "startUid": "u1360",
+          "endUid": "u1364",
+          "quote": "DM: He's also unusual in that. He's 1 of the few people who's sort of sitting by himself. Slumped against the outside of one of the columns of the Sunwine Hall, sort of just slowly, sort of crushing grapes in his hand, and then, like flicking the remains off into the party. There's a wine glass that's knocked over next to him. He's kind of slumped. He's— he's wearing like fine, courtly clothes that maybe once were elegant, but are stained, and clearly hasn't like he hasn't taken care of himself."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "adjacent_to",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u1360",
+              "endUid": "u1364",
+              "quote": "DM: He's also unusual in that. He's 1 of the few people who's sort of sitting by himself. Slumped against the outside of one of the columns of the Sunwine Hall, sort of just slowly, sort of crushing grapes in his hand, and then, like flicking the remains off into the party. There's a wine glass that's knocked over next to him. He's kind of slumped. He's— he's wearing like fine, courtly clothes that maybe once were elegant, but are stained, and clearly hasn't like he hasn't taken care of himself."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1357",
+              "endUid": "u1364",
+              "quote": "%% u1357:0-60, u1358:0-35, u1359:0-149 %%\nDM: Not that hard once you know what you're looking for to find the Broken Mask. Count Vashan he is. You know most people are kind of dancing around are, you know, partying are sort of in little groups, clumped together, sort of coming apart talking.\n\n%% u1360:0-85, u1361:0-70, u1362:0-106, u1363:0-87, u1364:0-143 %%\nDM: He's also unusual in that. He's 1 of the few people who's sort of sitting by himself. Slumped against the outside of one of the columns of the Sunwine Hall, sort of just slowly, sort of crushing grapes in his hand, and then, like flicking the remains off into the party. There's a wine glass that's knocked over next to him. He's kind of slumped. He's— he's wearing like fine, courtly clothes that maybe once were elegant, but are stained, and clearly hasn't like he hasn't taken care of himself."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Secluded grove near the party",
+      "kind": "grove",
+      "evidence": [
+        {
+          "startUid": "u1619",
+          "endUid": "u1622",
+          "quote": "%% u1619:0-41 %%\nWellby: We like find a little grove or something?\n\n%% u1620:0-39 %%\nDM: Yeah, there's like, you've seen people.\n\n%% u1621:0-50 %%\nRiswynn: To see some nature grove that be nice and private.\n\n%% u1622:0-78 %%\nDM: There's like little secluded places where, like people sneak off to, you know—"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u1619",
+              "endUid": "u1622",
+              "quote": "%% u1619:0-41 %%\nWellby: We like find a little grove or something?\n\n%% u1620:0-39 %%\nDM: Yeah, there's like, you've seen people.\n\n%% u1621:0-50 %%\nRiswynn: To see some nature grove that be nice and private.\n\n%% u1622:0-78 %%\nDM: There's like little secluded places where, like people sneak off to, you know—"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Sky above Sunwine Hall",
+      "kind": "airspace",
+      "evidence": [
+        {
+          "startUid": "u2082",
+          "endUid": "u2083",
+          "quote": "DM: It launches into the air, and a bunch of fey turn and look as a wyvern—the probably the 1st tamed Wyvern ever to fly the skies of Emberwine—soars above Sunwine Hall."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "above",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u2082",
+              "endUid": "u2083",
+              "quote": "DM: It launches into the air, and a bunch of fey turn and look as a wyvern—the probably the 1st tamed Wyvern ever to fly the skies of Emberwine—soars above Sunwine Hall."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Red River / river of wine",
+      "kind": "river",
+      "evidence": [
+        {
+          "startUid": "u0585",
+          "endUid": "u0591",
+          "quote": "%% u0585:0-36, u0586:0-70, u0587:0-3 %%\nDM: No, I mean, you can sense the river. The the Red River, the river of wine that you met the barge tenders on, and—\n\n%% u0588:0-117, u0589:0-123, u0590:0-145, u0591:0-63 %%\nDM: But it's not so much an anomaly as it's just a bit of a different feeling like on the banks of the river. You it it's— the it's almost the plants themselves are sort of caught up in the sort of intoxication of the wine itself, and are sort of tottering towards the edge of the river, swaying like you can sense the sort of the cattails on the edge of the river, swaying not in the breeze, but from absorbing too much of the Feywine of the river itself."
+        }
+      ],
+      "note": "The reference to the river where the party met the barge tenders identifies the Ampelion River, as also mapped in session 119; Red River is the wording here.",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Emberwine/Ampelion River.md"
+    },
+    "p12": {
+      "label": "Sunset Gate",
+      "kind": "planar boundary",
+      "evidence": [
+        {
+          "startUid": "u1702",
+          "endUid": "u1706",
+          "quote": "Delwath: So we could head to the Sunset Gate, right, which is the line of sunset. It goes all the way right. It crosses the huge swath of a Feywild. Right? It's it's— it's where night turns to day or day turns to night. We, if we, if we find it and go north will inevitably come to these, keeps right."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Sunset Gate.md"
+    },
+    "p13": {
+      "label": "Amberglow",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u0267",
+          "endUid": "u0267",
+          "quote": "Delwath: So the Amberglow which is north of here fell into disrepair."
+        }
+      ],
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Amberglow/Amberglow.md"
+    },
+    "p14": {
+      "label": "Inside the portable hole",
+      "kind": "portable extradimensional storage",
+      "mobile": true,
+      "evidence": [
+        {
+          "startUid": "u1623",
+          "endUid": "u1627",
+          "quote": "%% u1623:0-98, u1624:0-60, u1625:0-106 %%\nWellby: I assume we're bringing them here, and we're gonna show them the Cloudspinner, right? Yeah, that's— thing off my neck, and I'll spread out the hole and open it. And I mean she and that prison are taking up most of the space. Yeah, like, you can't really miss her. So.\n\n%% u1626:0-5 %%\nDelwath: Yeah.\n\n%% u1627:0-99 %%\nWellby: Not like climbing in, but there it is. I'll gesture. I'll reach down and pat the thing a few times."
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0011",
+        "endUid": "u0017"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Travel south through Emberwine and reach the hill crest overlooking Sunwine Hall’s revel.",
+      "from": null,
+      "to": "p05",
+      "mode": "walk",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Pass vineyards and groves on the approach to Sunwine Hall."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u0011",
+          "endUid": "u0020",
+          "quote": "%% u0011:0-41, u0012:0-87, u0013:0-41, u0014:0-95, u0015:0-84, u0016:0-69, u0017:0-80 %%\nDM: So we start as you find yourself walking, almost dancing, following the whistle of the small flute that Auntie Mulberry gave you, heading south towards Sunwine Hall, where the Lord Sorven, the Master of Revels and ruler of Emberwine, holds his never-ending fey revel. From Auntie Mulberry you learned that there is potentially a refugee from Amberglow, who has been hanging around Lord Sorven's court for a while, which is potentially your primary motivation for traveling in this direction as you walk.\n\n%% u0018:0-36, u0019:0-186, u0020:0-13 %%\nDM: Your feet, your footsteps light your— the sort of passage, easy as you're almost drawn to the distant sounds of music and dance that seem to be traveling an impossibly long distance across the rolling fields and vineyards of of Emberwine."
+        },
+        {
+          "startUid": "u0041",
+          "endUid": "u0054",
+          "quote": "%% u0041:0-68, u0042:0-69, u0043:0-51, u0044:0-112, u0045:0-52, u0046:0-116, u0047:0-50, u0048:0-64, u0049:0-58, u0050:0-104, u0051:0-51, u0052:0-37 %%\nDM: You see from a distance, as you begin to approach through a field of of vines coming up over a small rise of a hill, where you can now see an open air feast before you. No, no big, you know, tents or structures. There’s one large stone hall that's just, you know, a roof, but doesn't seem to have walls. That that's like a big, open, almost open air court. The vines dangling everywhere. Lights lit up, catching the golden sunlight of late, of the perpetual late afternoon. Passing through the occasional grove of trees that both seem to shelter and enclose this court of the Sunwine Hall, and also somehow seemed to amplify the echoes of the music, as you pass through the trees to reach this hill crest that looks down over this open feast you can hear snippets of song almost creeping through the trees, bouncing and echoing in strange ways.\n\n%% u0053:0-2, u0054:0-181 %%\nDM: So here you are. Nobody seems to have noticed you immediately. As you look down on this feast, people seem to be coming and going freely. Nobody is keeping much track of the attendees."
+        }
+      ]
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0071",
+        "endUid": "u0083"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Join the revel and follow its flow into the stone feast hall.",
+      "from": "p05",
+      "to": "p03",
+      "mode": "walk and dance",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u0071",
+          "endUid": "u0083",
+          "quote": "%% u0071:0-22, u0072:0-32 %%\nDelwath: Yeah, I mean, I think, make our way towards the center.\n\n%% u0073:0-52, u0074:0-63 %%\nWellby: So and go and like, join the party for a little bit. But yeah, let's get the lay of the land [garbled].\n\n%% u0075:0-20 %%\nDM: Yeah, I mean, let's.\n\n%% u0076:0-163, u0077:0-69, u0078:0-35 %%\nDelwath: Walk. Yeah. Walk towards the party, the edge, the edge of the edge of the party, and just like, Is there food tables? Is there drink? Are there people singing? Like, just sort of vibe on the edge of the party for a few minutes, and and, see if anybody says anything to us.\n\n%% u0079:0-158, u0080:0-23, u0081:0-56, u0082:0-195, u0083:0-123 %%\nWellby: I think, with this, too, like so I think my background feature that maybe I've never used before is like easily pick up social customs of going to new places. So I think that's like Wellby's like really tuned into that. I think, after the after the previous encounter, like, he's much more focused on. What's the right thing to do here like, what's the what's the appropriate sort of rules of of engagement in the party kind of thing. How do you talk, and how do you move? And is there a flow to it? Even if it looks chaotic? What's the pattern to the place?"
+        },
+        {
+          "startUid": "u0114",
+          "endUid": "u0133",
+          "quote": "%% u0114:0-34 %%\nWellby: We'll follow the flow and head in.\n\n%% u0115:0-47, u0116:0-109, u0117:0-54, u0118:0-84, u0119:0-127, u0120:0-83, u0121:0-172, u0122:0-87, u0123:0-51, u0124:0-58 %%\nDM: So as you, as you sort of reach the edge of the of the of the party, you can see. I mean, you're—clearly people are looking at you. You're drawing attention. It's probably been a very long time since there's been halflings, dwarves, and humans and even elves here, you know people. There's people. You know you can. You can tell right here. Most of you are observant enough. People are glancing your way. Nobody is, you know— nobody looks suspicious or anything. They're just sort of curious, and there's like ripples of gossip going through the party pretty soon after you sort of step into the edge of the party, a an elegantly dressed man, wearing like a suit like a golden suit, with like sort of burnished copper skin and white hair tied back into a short ponytail, carrying a tray laden with jam and bread and honey, drifts past and looks at you, and sort of gives you a bow.\n\n%% u0125:0-31, u0126:0-81, u0127:0-65, u0128:0-43, u0129:0-73, u0130:0-21, u0131:0-98 %%\nDM: Welcome, welcome to the revels! Please enjoy the food, enjoy the drink. He waves to a table nearby, where there's jugs of wine set out big, actually, like big punch bowls of wine. Enjoy enjoy yourself! All are welcome. Your presence honors us. It has been some time since—glancing at the 4 of you— we have seen quite an unusual group of mortals in our realm. Welcome, welcome! And he's sort of passing around the food.\n\n%% u0132:0-36 %%\nDM: I assume people are taking the food.\n\n%% u0133:0-20 %%\nRiswynn: Yeah. Food. Smiling."
+        },
+        {
+          "startUid": "u0198",
+          "endUid": "u0213",
+          "quote": "DM: So you know, over the some amount of time it— again, it's really hard to tell how much time has passed, because the sun doesn't change in the sky. You don't really seem to be getting tired, although if you wanted to, you probably could sleep. You certainly see people occasionally, like, you know, drifting off into the woods, and you can actually see that sort of a little ways away, you know, a bit outside of the party. There's, you know, a few people have set up hammocks between some trees and are clearly napping. So it's not like people don't sleep, but it's just the, you know. It's hard to tell how much time has passed. As you slowly kind of drift into this this great hall, and so when you kind of find yourself stepping into this hall? You can see a few things first. There's a a— many people. There's a big dance floor in the middle of this hall, and while there's people who are kind of joyfully leaping through the party outside you know there's a there's a band of satyrs playing. There's like people who are not quite courtly dance, right? It's not so sedate as that. But you know clearly there's like a dance happening here. At the far end of the hall. There's a you see, what must be Lord Sorven."
+        }
+      ]
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0546",
+        "endUid": "u0551"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo leaves the shared gathering for a musicians’ clearing toward the party’s edge.",
+      "from": "p03",
+      "to": "p06",
+      "mode": "walk",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u0546",
+          "endUid": "u0551",
+          "quote": "Kenzo: Kenzo's feeling a little antisocial. So he's gonna go up on the side. But he he actually is gonna do like a commune with nature, but, like you know, do his like large scale, like, you know, extend out as far as he can just to feel like what is going on out here. And you know, because again, you know, if our ultimate goal is this Prismwell, right? Yeah, he's just. He's just kind of extending outwards as far as he can out, and just feel for any weird like anomalies like any like kind of weird points out there. That’s as extensively throughout— I'll just out in every direction."
+        },
+        {
+          "startUid": "u0557",
+          "endUid": "u0565",
+          "quote": "%% u0557:0-156, u0558:0-118, u0559:0-83, u0560:0-54, u0561:0-71 %%\nDM: Starting with Kenzo, as you sort of drift to the edge of the party, you know. Maybe sort of hanging out a little bit near the musicians. There's a there's a— there's multiple bands scattered around. There's the main sort of dance hall band. But then there's you know, several— you know across just outside, like where the sort of feast hall is, and everything, now, where the tables are spread outside, there's more bands, and you sort of drift to the edge of the of the of the clearing,\n\n%% u0562:0-14, u0563:0-115, u0564:0-287, u0565:0-161 %%\nDM: Which seems to— it seems to extend like every time you sort of come around a corner like there's another opening where there's more tables and more people, and like you'll be sort of walking around a little bit, and there's be a big sort of hedge arch, and then you go through, and there's a whole another sort of clearing. It seems like almost you can just walk like it's hard to get to the edge of the party. Exactly. But you you find you find a band, and you know, sort of on the edge of where people are socializing anyway, and and concentrate and sort of reach out your sense."
+        }
+      ]
+    },
+    {
+      "id": "l04",
+      "type": "observation",
+      "source": {
+        "startUid": "u0585",
+        "endUid": "u0591"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "While communing with nature from the clearing, Kenzo senses the wine river and intoxicated riverside plants.",
+      "place": "p11",
+      "mode": "remote",
+      "observerPlace": "p06",
+      "evidence": [
+        {
+          "startUid": "u0585",
+          "endUid": "u0591",
+          "quote": "%% u0585:0-36, u0586:0-70, u0587:0-3 %%\nDM: No, I mean, you can sense the river. The the Red River, the river of wine that you met the barge tenders on, and—\n\n%% u0588:0-117, u0589:0-123, u0590:0-145, u0591:0-63 %%\nDM: But it's not so much an anomaly as it's just a bit of a different feeling like on the banks of the river. You it it's— the it's almost the plants themselves are sort of caught up in the sort of intoxication of the wine itself, and are sort of tottering towards the edge of the river, swaying like you can sense the sort of the cattails on the edge of the river, swaying not in the breeze, but from absorbing too much of the Feywine of the river itself."
+        }
+      ]
+    },
+    {
+      "id": "l05",
+      "type": "presence",
+      "source": {
+        "startUid": "u0598",
+        "endUid": "u0599"
+      },
+      "actors": [
+        "Wellby"
+      ],
+      "reading": "Wellby wanders through the revel and meets the solitary satyr Valeris.",
+      "place": "p02",
+      "evidence": [
+        {
+          "startUid": "u0598",
+          "endUid": "u0615",
+          "quote": "%% u0598:0-69, u0599:0-84 %%\nDM: Okay. So as Kenzo is doing that, we cut over to Wellby, who's kind of walking around the party just seeing, looking for interesting characters. Basically.\n\n%% u0600:0-5, u0601:0-17, u0602:0-118, u0603:0-11 %%\nWellby: Yeah. And that's right. Like it's mostly that. But there's also a certain antenna tuned to like. Is there anyone here who doesn't quite belong? Like, yeah.\n\n%% u0604:0-64, u0605:0-14, u0606:0-86, u0607:0-127, u0608:0-256, u0609:0-126, u0610:0-46, u0611:0-44 %%\nDM: Yeah, so okay, so and as you're sort of looking around, you see— you do notice— a. There's a there's a satyr who's sort of sitting a little bit by himself. He's got a— you know. He's sort of lean, rakish. He's got curling ram’s horns that are wrapped in gold rings like a half button silk shirt, a. He's got a fiddle that he's sort of holding under his arm, and he's sort of sitting. He almost looks like he's pouting like you haven't seen anybody pouting at the party, so it catches your eye, and he seems to be sitting alone and not playing, and most, almost everybody else like, you see, almost nobody who's solitary. Everybody is in groups. Most people are like dancing or and— you know people glance over at him and sort of snicker a little bit and sort of drift away.\n\n%% u0612:0-53 %%\nDM: Definitely stands out as like not quite typical vibe.\n\n%% u0613:0-37, u0614:0-31, u0615:0-77 %%\nWellby: Yeah. Well, I'll I'll go over to him. I introduce myself and ask why— why, no celebration for you? You're the 1st satyr I've met who isn't dancing."
+        }
+      ]
+    },
+    {
+      "id": "l06",
+      "type": "presence",
+      "source": {
+        "startUid": "u0874",
+        "endUid": "u0886"
+      },
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Riswynn meets Ismara while seeking travelers at the revel.",
+      "place": "p02",
+      "evidence": [
+        {
+          "startUid": "u0874",
+          "endUid": "u0894",
+          "quote": "%% u0874:0-74, u0875:0-54, u0876:0-36, u0877:0-57, u0878:0-66, u0879:0-48, u0880:0-58, u0881:0-209, u0882:0-34, u0883:0-152, u0884:0-270, u0885:0-60, u0886:0-155 %%\nDM: And you're sort of walking through the party. You know, kind of, you know being polite and sort of asking people and and sort of you know, drifting a little bit when— whether because somebody points around or you just notice— she looks different. You see a woman sort of standing a little bit apart, and sort of the rumors around her people— people talking about her? Oh, that's Ismara of Gleamwater. Which is a fey realm to the West. It's mentioned in in Ulfgar Frostbeard's book Lore of the Feywild. Oh, if you're looking for a traveler. Oh, she, you know she came not too long ago, and has been curious about—she's she's a bit of a strange one— rumors drifting around. She's sort of standing there she is. She's tall, maybe 6 feet tall, sort of silvery hair and sort of dark tan, light brown skin, wearing this very elegant dress, but carrying this like satchel slung over shoulder, that you can see there's like ink pens and ink vials and books and things. Notes you. You haven't seen very many. You've seen hardly any books. There's no books at the party or anything, and she's she's listening, but she's got a book in her hand. You can't tell whether she's reading or writing, but she's like, you know, flipping the pages, and occasionally she'll sort of wave her hand over the page.\n\n%% u0887:0-26, u0888:0-108 %%\nRiswynn: Well, I'm intrigued to see somebody with a book in their hand at a party, so I walk up and say, I hope I'm not disturbing your studies.\n\n%% u0889:0-30, u0890:0-40, u0891:0-10, u0892:0-33, u0893:0-33, u0894:0-12 %%\nDM: She looks sort of up and down. She sort of closes the book with a snap. A novelty! A dwarf in Emberwine, unheard of. Tell me, where did you come from? I must know."
+        }
+      ]
+    },
+    {
+      "id": "l07",
+      "type": "presence",
+      "source": {
+        "startUid": "u0962",
+        "endUid": "u0971"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party gathers around Arendel for the duel; the particular clearing or hall position is not specified.",
+      "place": "p02",
+      "evidence": [
+        {
+          "startUid": "u0934",
+          "endUid": "u0943",
+          "quote": "%% u0934:0-47, u0935:0-63, u0936:0-59, u0937:0-56, u0938:0-26, u0939:0-36 %%\nDM: I must hear more of this. At this point you hear from the edge of the party that duel duel Arendel's gonna fight. Which also interrupts Wellby in the middle of his tale, and, Ismara pulls on Riswynn and says we must go see, he is a— he is a beautiful duelist. Yes, a bit boisterous for my tastes.\n\n%% u0940:0-14 %%\nRiswynn: Yes. Shall we?\n\n%% u0941:0-17, u0942:0-44, u0943:0-116 %%\nDM: At the same time— the satyr who tells you his name is Valeris. He's gonna, Arendel’s gonna fight your friend, I guess. That elf, that must be the one you're traveling with. Right?"
+        },
+        {
+          "startUid": "u0961",
+          "endUid": "u0971",
+          "quote": "%% u0961:0-25 %%\nWellby: Let's go watch this duel.\n\n%% u0962:0-67, u0963:0-44, u0964:0-28, u0965:0-31, u0966:0-173, u0967:0-11 %%\nDM: And Kenzo also hears the noise of the duel sort of passing through, assuming you want to go see what's going on. You all drift over to where— Arendel, this, big, boisterous broad shouldered, golden haired fey, wearing dented breastplate and a sort of wine stained cloak. Who's drawn this, like silver rapier, is standing cheerfully like toasting, yeah, like—\n\n%% u0968:0-85, u0969:0-11, u0970:0-31, u0971:0-52 %%\nDM: You know, to my fans, to the fans over. Then he looks over, and he what was your name? To Delwath— who presumably so have Delwath— says to the fans of Delwath, “May he be a good sport!”"
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "presence",
+      "source": {
+        "startUid": "u1141",
+        "endUid": "u1143"
+      },
+      "actors": [
+        "party",
+        "Valeris",
+        "Ismara"
+      ],
+      "reading": "After the duel and initial stories, the group is together in a little corner at the side of the party.",
+      "place": "p07",
+      "evidence": [
+        {
+          "startUid": "u1141",
+          "endUid": "u1143",
+          "quote": "DM: Yes, Ashara is quite interested. You know, clearly interested in kind of sticking around for a little bit to hear all these tales. Sorry, Ismara. She's so she's still there, and Valeris is still there. And the all of you are. Are there kind of in a little corner on the sort of side of the party a little bit."
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u1305",
+        "endUid": "u1314"
+      },
+      "actors": [
+        "Riswynn",
+        "Delwath"
+      ],
+      "reading": "Riswynn and Delwath seek and reach Count Vashan at an exterior column of Sunwine Hall.",
+      "from": "p07",
+      "to": "p08",
+      "mode": "walk",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u1305",
+          "endUid": "u1314",
+          "quote": "%% u1305:0-73 %%\nRiswynn: All right. I’ll skirt around the party and see if I see a melancholy man.\n\n%% u1306:0-37 %%\nDM: Okay. So what's everybody else doing?\n\n%% u1307:0-51, u1308:0-37, u1309:0-44, u1310:0-44 %%\nRiswynn: Does anybody else want to come with me and look for— Riswynn will tell the others that I'm not necessarily gonna listen to Delwath, and, I'm gonna keep seeking for this guy, unless—\n\n%% u1311:0-114 %%\nDM: I mean, you've got a little bit of time. If, like Arendel went to basically go, have some wine and take a nap. So.\n\n%% u1312:0-22 %%\nDelwath: Well, Delwath will go.\n\n%% u1313:0-7 %%\nDM: Got it.\n\n%% u1314:0-28 %%\nDelwath: Then, sure. Yeah, I'll come."
+        },
+        {
+          "startUid": "u1357",
+          "endUid": "u1364",
+          "quote": "%% u1357:0-60, u1358:0-35, u1359:0-149 %%\nDM: Not that hard once you know what you're looking for to find the Broken Mask. Count Vashan he is. You know most people are kind of dancing around are, you know, partying are sort of in little groups, clumped together, sort of coming apart talking.\n\n%% u1360:0-85, u1361:0-70, u1362:0-106, u1363:0-87, u1364:0-143 %%\nDM: He's also unusual in that. He's 1 of the few people who's sort of sitting by himself. Slumped against the outside of one of the columns of the Sunwine Hall, sort of just slowly, sort of crushing grapes in his hand, and then, like flicking the remains off into the party. There's a wine glass that's knocked over next to him. He's kind of slumped. He's— he's wearing like fine, courtly clothes that maybe once were elegant, but are stained, and clearly hasn't like he hasn't taken care of himself."
+        },
+        {
+          "startUid": "u1383",
+          "endUid": "u1386",
+          "quote": "%% u1383:0-36, u1384:0-3, u1385:0-206 %%\nDelwath: So we like. We walk up to him right. And— Delwath will look him up and down a little bit sort of almost taking, like a little bit of a haughty, like sort of disappointing, like he's clearly like, let himself go type and say, basically, “Count Vashan?”\n\n%% u1386:0-87 %%\nDM: He looks up and he flicks a grape at you. Go by the Broken Mask now. What do you want?"
+        }
+      ]
+    },
+    {
+      "id": "l10",
+      "type": "presence",
+      "source": {
+        "startUid": "u1468",
+        "endUid": "u1485"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby",
+        "Riswynn",
+        "Delwath",
+        "Lady Eventide",
+        "Seeker"
+      ],
+      "reading": "Kenzo joins Vashan’s exchange; Wellby and Lady Eventide, still possessing Seeker, are also established there.",
+      "place": "p08",
+      "evidence": [
+        {
+          "startUid": "u0029",
+          "endUid": "u0040",
+          "quote": "DM: But you feel light on your feet as you as you travel, and Lady Eventide, currently possessing Seeker, is talking and babbling a little bit telling you about Lord Sorven. Oh, he he came. He danced with me at the Cloud Palace once, long ago, quite a striking man, tall and handsome and an excellent dancer, cheerful, always full of joy and music when he came. Oh, he probably remembers me. Sort of babbling along in this in this vein getting you to feel a little more comfortable with being in the Feywilds in this vibrant place that is alive in the way that Amberglow is not, and as you travel again your— the landscape passing quickly behind you, you begin to approach. Actually, I've got a better—begin to approach."
+        },
+        {
+          "startUid": "u1468",
+          "endUid": "u1492",
+          "quote": "%% u1468:0-83, u1469:0-33 %%\nKenzo: Oh, oh, oh, oh, right right, right? Right? Yeah. Yeah. I jumped in and mention that I mentioned. I mentioned Caulaus.\n\n%% u1470:0-4, u1471:0-57 %%\nDelwath: Hey— he's doing quite well atoning for his sins by good deeds.\n\n%% u1472:0-7 %%\nKenzo: Indeed.\n\n%% u1473:0-12, u1474:0-35, u1475:0-20 %%\nDM: Oh, a human, that name is familiar, something. I— takes another drink.\n\n%% u1476:0-25 %%\nRiswynn: Is Lady Eventide with us?\n\n%% u1477:0-66 %%\nDM: She's being kind of shy, but she's with she's with you here. Yeah.\n\n%% u1478:0-68 %%\nRiswynn: But she's not like telling—filling us in. She doesn't know this guy?\n\n%% u1479:0-59 %%\nDM: No, she's like she like pulls, are you? Is everybody there?\n\n%% u1480:0-11 %%\nWellby: Yeah, yeah.\n\n%% u1481:0-27, u1482:0-15 %%\nDM: She like pulls Wellby over. I remember him.\n\n%% u1483:0-78, u1484:0-31, u1485:0-97 %%\nDM: He was like he was like one of the Cloudspinner’s, like most trusted servants. The warden of the Cloud Palace. I saw him all the time. What's he doing? Drinking here? Thought he was dead. Must have been dead.\n\n%% u1486:0-2 %%\nDelwath: As—\n\n%% u1487:0-23 %%\nWellby: How would he have died?\n\n%% u1488:0-12 %%\nDM: Sorry, what?\n\n%% u1489:0-99 %%\nWellby: How would he have died like what he must have been dead? What does that mean? How do you know that?\n\n%% u1490:0-27, u1491:0-54, u1492:0-66 %%\nDM: Well, I just assumed I mean— there were so few of us who stayed. Why would he have? I didn't. I never thought he would have fled [garbled]."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u1610",
+        "endUid": "u1627"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party proposes showing Cloudspinner to Vashan in a private grove, but a separate grove arrival is not firmly established.",
+      "from": "p08",
+      "to": "p09",
+      "completion": "uncertain",
+      "evidence": [
+        {
+          "startUid": "u1610",
+          "endUid": "u1627",
+          "quote": "%% u1610:0-14, u1611:0-17, u1612:0-40 %%\nDelwath: I'll is there— I'll look at him. There's somewhere private you could go?\n\n%% u1613:0-8 %%\nDM: What? So—\n\n%% u1614:0-71, u1615:0-77 %%\nDM: He sort of laughs. I guess if you want to kill me, that's fine with me. Now that you've made me remember all this, I know why I sought the Emberwine.\n\n%% u1616:0-5 %%\nDelwath: That—\n\n%% u1617:0-60 %%\nWellby: We only have a little time before the forgetfulness returns.\n\n%% u1618:0-6 %%\nDM: Style.\n\n%% u1619:0-41 %%\nWellby: We like find a little grove or something?\n\n%% u1620:0-39 %%\nDM: Yeah, there's like, you've seen people.\n\n%% u1621:0-50 %%\nRiswynn: To see some nature grove that be nice and private.\n\n%% u1622:0-78 %%\nDM: There's like little secluded places where, like people sneak off to, you know—\n\n%% u1623:0-98, u1624:0-60, u1625:0-106 %%\nWellby: I assume we're bringing them here, and we're gonna show them the Cloudspinner, right? Yeah, that's— thing off my neck, and I'll spread out the hole and open it. And I mean she and that prison are taking up most of the space. Yeah, like, you can't really miss her. So.\n\n%% u1626:0-5 %%\nDelwath: Yeah.\n\n%% u1627:0-99 %%\nWellby: Not like climbing in, but there it is. I'll gesture. I'll reach down and pat the thing a few times."
+        },
+        {
+          "startUid": "u1697",
+          "endUid": "u1698",
+          "quote": "DM: Okay, he sort of well, leave me be, and sort of slumps back, and you can see his face sort of shifts again as Kenzo's Cleansing Touch ends and the lost memory. The memory stealing creeps back over him, and he sort of slumps back against the stone pillar."
+        }
+      ],
+      "note": "Wellby assumes they bring him to a grove; the DM later places Vashan slumped against the stone pillar again, without narrating a return. Do not treat the grove as a confirmed separate visit."
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u1623",
+        "endUid": "u1629"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Wellby opens the portable hole to show Vashan Cloudspinner’s crystal prison; the party looks in without climbing inside.",
+      "place": "p14",
+      "mode": "local",
+      "observedActors": [
+        "Cloudspinner"
+      ],
+      "evidence": [
+        {
+          "startUid": "u1623",
+          "endUid": "u1629",
+          "quote": "%% u1623:0-98, u1624:0-60, u1625:0-106 %%\nWellby: I assume we're bringing them here, and we're gonna show them the Cloudspinner, right? Yeah, that's— thing off my neck, and I'll spread out the hole and open it. And I mean she and that prison are taking up most of the space. Yeah, like, you can't really miss her. So.\n\n%% u1626:0-5 %%\nDelwath: Yeah.\n\n%% u1627:0-99 %%\nWellby: Not like climbing in, but there it is. I'll gesture. I'll reach down and pat the thing a few times.\n\n%% u1628:0-15 %%\nDM: He slumps down.\n\n%% u1629:0-26 %%\nWellby: I close it back up again."
+        }
+      ],
+      "note": "The precise viewing spot is uncertain between the proposed grove and the last established column; no physical entry into the hole is narrated."
+    },
+    {
+      "id": "l13",
+      "type": "presence",
+      "source": {
+        "startUid": "u1970",
+        "endUid": "u1978"
+      },
+      "actors": [
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "Earlier than Sorven’s just-narrated appraisal, Wellby trains the released wyvern with Kenzo watching at the revel.",
+      "place": "p02",
+      "context": "flashback",
+      "evidence": [
+        {
+          "startUid": "u1953",
+          "endUid": "u1957",
+          "quote": "DM: So you talk to Lord Sorven. He, you know he's— you know. He doesn't say it's a terrible idea, he, you know. He says you came close to beating Arendel, which you have done. You know you're quite skilled, and you know he's looking over it Wellby's succeeded or failed attempt to train a wyvern, and we'll find out in a moment. But either way it was impressive."
+        },
+        {
+          "startUid": "u1970",
+          "endUid": "u1978",
+          "quote": "%% u1970:0-57, u1971:0-17 %%\nDM: Okay, let's cut back to Wellby, trying to train a Wyvern. This is not easy.\n\n%% u1972:0-3 %%\nWellby: No.\n\n%% u1973:0-43 %%\nDM: Go ahead and make an animal handling check.\n\n%% u1974:0-114 %%\nWellby: I was just looking at the the description from D and D Beyond, and one of the headings is aggressive and reckless.\n\n%% u1975:0-4 %%\nDM: Yes.\n\n%% u1976:0-65, u1977:0-100 %%\nWellby: So okay, so we've got animal handling. We got bardic inspiration. We got animal telepathy, too, so I can be talking with this animal as as well as trying to train it.\n\n%% u1978:0-68 %%\nKenzo: Oh, and Schwartz, or Wellby. Kenzo is also there, but just to watch."
+        },
+        {
+          "startUid": "u2005",
+          "endUid": "u2013",
+          "quote": "%% u2005:0-53, u2006:0-156, u2007:0-68, u2008:0-68 %%\nDM: So you've got you 25 is enough to to get it. You know— it emerges. It's a large, it's large. It looks dragon-like, but it's distinguished from regular dragons because it's got this poisonous stinger on its tail. And it also just has hind limbs and wings. It doesn't have forelimbs or it has very short forelimbs, sort of like more like bat-like than—\n\n%% u2009:0-93, u2010:0-59, u2011:0-38 %%\nDM: So it's it's perched. It's roaring up. It's got its sort of looming over you. It's it's maybe 15–20 feet tall, with its wings spread, seeming, and you're 3 and a half feet tall, but like, just—\n\n%% u2012:0-121, u2013:0-79 %%\nDM: Calmly, you've got it to sit there, and it's kind of looking at you looking around. You've got plenty of food to feed it. It's not immediately flying off. It doesn't seem close to letting you approach."
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2081",
+        "endUid": "u2083"
+      },
+      "actors": [
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "Wellby and Kenzo launch on the wyvern and fly above Sunwine Hall.",
+      "from": "p02",
+      "to": "p10",
+      "mode": "fly on wyvern",
+      "completion": "arrived",
+      "evidence": [
+        {
+          "startUid": "u2061",
+          "endUid": "u2083",
+          "quote": "%% u2061:0-12 %%\nWellby: Come on! Up!\n\n%% u2062:0-26, u2063:0-66, u2064:0-24 %%\nKenzo: Yeah, let's let's do this. Kenzo will will will like move with as much grace as possible. And, and yeah, try to hop on.\n\n%% u2065:0-10, u2066:0-48 %%\nDM: Okay, make— actually, Wellby, make an Animal Handling check.\n\n%% u2067:0-4 %%\nWellby: Yup!\n\n%% u2068:0-36 %%\nDM: And Kenzo make an acrobatics, check.\n\n%% u2069:0-13 %%\nWellby: Bad rolls 23.\n\n%% u2070:0-11 %%\nDM: Acrobatics.\n\n%% u2071:0-3 %%\nKenzo: 23.\n\n%% u2072:0-91, u2073:0-168 %%\nDM: Oh, okay, well, Wellby doesn't completely keep it under control. It starts to sort of rear rear up a little bit, and it like flaps its wings like this like trying to push Kenzo off. But you're graceful enough. You just kind of manage to flip up onto its back.\n\n%% u2074:0-68 %%\nDM: And then, once you're sitting next to Wellby, it kind of calms down.\n\n%% u2075:0-76, u2076:0-58 %%\nKenzo: I. I introduced the Wyvern, I, said, Wyvern, Kenzo. Kenzo, Wyvern. Kenzo, Kenzo. So Kenzo gives a formal greeting and also an aura greeting.\n\n%% u2077:0-30, u2078:0-120, u2079:0-83 %%\nDM: It's I mean, it's letting you— it's letting you ride it. And Wellby is extremely good at taming animals. But this is not like a tamed mount right like. Get into a combat with it. It's 50 50 chance whether it attacks you or the enemies.\n\n%% u2080:0-130 %%\nKenzo: Kenzo's on full alert, and is aware of the capriciousness of the situation. But it's also like pretty pretty pretty stoked. Let's—\n\n%% u2081:0-16 %%\nWellby: Let's go flying.\n\n%% u2082:0-71, u2083:0-94 %%\nDM: It launches into the air, and a bunch of fey turn and look as a wyvern—the probably the 1st tamed Wyvern ever to fly the skies of Emberwine—soars above Sunwine Hall."
+        }
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u2161",
+        "endUid": "u2178"
+      },
+      "actors": [
+        "Wellby",
+        "Kenzo",
+        "Riswynn",
+        "Seeker",
+        "Delwath",
+        "Valeris",
+        "Ismara"
+      ],
+      "reading": "The seven travelers depart Sunwine Hall by wyvern and five griffins, beginning the journey toward the Sunset Gate and Amberglow.",
+      "from": "p02",
+      "to": "p13",
+      "mode": "fly",
+      "completion": "underway",
+      "route": [
+        {
+          "place": "p12",
+          "reading": "The chosen route is toward the Sunset Gate and then north to Amberglow; neither destination is reached in this session."
+        }
+      ],
+      "evidence": [
+        {
+          "startUid": "u1738",
+          "endUid": "u1758",
+          "quote": "%% u1738:0-54 %%\nDelwath: I would vote for going along the Sunset Gate honestly.\n\n%% u1739:0-136 %%\nWellby: Like the Sunset Gate is practical, and it makes more sense, and we're not going to have to like give up parts of ourselves to get there.\n\n%% u1740:0-10 %%\nRiswynn: Yeah, huh.\n\n%% u1741:0-6 %%\nKenzo: Right.\n\n%% u1742:0-95, u1743:0-12 %%\nWellby: An archive of every secret that's ever been spoken in the Feywild, like the iceberg there like— I mean what—\n\n%% u1744:0-128 %%\nDelwath: Plus our satyr friend might not come with us on the Sunset Gate quest, because it's basically dragging him into horrible danger.\n\n%% u1745:0-115 %%\nRiswynn: Whereas we could frame ourselves as the protectors of the woman with the suspicious notebook, and take her with us.\n\n%% u1746:0-42 %%\nDelwath: Does she want to wait? Did she want to go?\n\n%% u1747:0-83 %%\nRiswynn: She wanted to go. She kept hinting heavily that she wanted to go to Amberglow, but—\n\n%% u1748:0-4 %%\nDelwath: Now.\n\n%% u1749:0-10 %%\nRiswynn: Dangerous.\n\n%% u1750:0-65 %%\nDelwath: Oh, well, perfect! But we could bring a fey companion either way.\n\n%% u1751:0-37, u1752:0-87, u1753:0-101, u1754:0-59 %%\nRiswynn: Right. I'm just a little nervous that she's like. The one thing she did that was suspicious in my mind was that she was like: “I’m gonna hang around your group and listen to everything you say and take notes. That’s okay, right?” And I was like, why did—she's a spy of some sort, like No.\n\n%% u1755:0-66 %%\nDelwath: So I would personally vote for the Sunset Gate. But, like I'm not—\n\n%% u1756:0-7 %%\nRiswynn: I like—\n\n%% u1757:0-96 %%\nDM: Keep in mind. You might also fail at one of these quests, and then have to go do the other one.\n\n%% u1758:0-66 %%\nRiswynn: I like the Sunset Gate too, but I’m liking Wellby’s friend better."
+        },
+        {
+          "startUid": "u2154",
+          "endUid": "u2178",
+          "quote": "%% u2154:0-30, u2155:0-128, u2156:0-49 %%\nDM: He's like, okay, fine. I mean. I've never tried. Wait. Did you tell it? You didn't really tell him what you were doing right? You just told. Sure. Let's do it. I've always wanted to see the Sunset Gate anyway.\n\n%% u2157:0-32 %%\nKenzo: There you go! That's the spirit.\n\n%% u2158:0-68 %%\nDM: Okay, so as you leave, and we'll end here as you leave Sunwine Hall.\n\n%% u2159:0-79 %%\nDelwath: Last story Delwath tells is going to be an epic tale of Wellby taming a Wyvern.\n\n%% u2160:0-4 %%\nRiswynn: But—\n\n%% u2161:0-78, u2162:0-37, u2163:0-99, u2164:0-103, u2165:0-18, u2166:0-310, u2167:0-262, u2168:0-262, u2169:0-48, u2170:0-147 %%\nDM: You leave Sunwine Hall Wellby and Kenzo mounted on a wyvern the rest of you on griffins lent by grace of Lord Sorven, and up to them, if they want to follow you beyond the borders of Emberwine, but they are charged by Lord Sorven to fly at least as far as the edge of his realm bearing you. They are. So I mean, Griffin's— just double check. They're not particularly bigger than horses. So it's basically one per person and while I describe these as griffins, they're sort of not typical of the way you might, people typically imagine griffins right? I mean, they're griffins, are—people, you know, griffins are not uncommon on the material plane like— and they're not necessarily fey creatures right like they're these these, though, are, you know, perhaps slightly more intelligent than the average griffin. Not pure beasts. They've got like a, you know, maybe on the same level as the Wyvern. Right? And they are— rather than you know. Normally you think of a Wyvern as something like a cross between an eagle and a lion or something like this, but these are, they guess, like a bird of paradise, or a peacock, or something like that? Right? They have long streaming feathers, yeah, multicolored. You know, patterns in there— in their in their wings and their feathers much more ornamented than you would typically think of a Wyvern as being right like they're almost like—\n\n%% u2171:0-16 %%\nRiswynn: Pretty griffins.\n\n%% u2172:0-110, u2173:0-299 %%\nDM: Yeah, they're pretty, and they're sort of less fearsome looking, maybe. Although still have. You know, the the— the sort of lower body of a big cat and the sort of claws. But again, it's like, you know, a tiger, not a lion, right? It's like patterned or leopards like spots, and patterned fur, much more sort of colorful and pretty, and lots of sort of reds and golds and greens in their in their color pattern.\n\n%% u2174:0-49, u2175:0-46, u2176:0-24, u2177:0-87, u2178:0-95 %%\nDM: Ha-em, and so we'll end as you leap into the sky. On, let's see with two fey traveling with you, 2 of you riding a Wyvern, and 5 of these colorful griffins flying after with Riswynn, Seeker, Delwath, Valeris of Emberwine and Ismara of Gleamwater, and we will pick up on the journey to Amberglow next time."
+        }
+      ],
+      "note": "Wellby and Kenzo ride the wyvern; Riswynn, Seeker, Delwath, Valeris and Ismara each ride a griffin. Sorven guarantees the griffins’ service only as far as Emberwine’s border."
+    }
+  ]
+}
