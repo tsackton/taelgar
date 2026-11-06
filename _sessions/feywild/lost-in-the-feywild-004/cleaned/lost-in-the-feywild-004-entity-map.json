@@ -178,6 +178,14 @@
           "source": {
             "kind": "transcript",
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1041",
+            "endUid": "u1042"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
             "startUid": "u1404",
             "endUid": "u1428"
           }
@@ -822,6 +830,14 @@
             "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
             "startUid": "u0724",
             "endUid": "u0734"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0745",
+            "endUid": "u0753"
           }
         },
         {

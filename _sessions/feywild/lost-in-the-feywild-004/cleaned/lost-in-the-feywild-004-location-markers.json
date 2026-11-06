@@ -541,8 +541,13 @@
       "evidence": [
         {
           "startUid": "u0385",
+          "endUid": "u0389",
+          "quote": "Menestheus looks around to all of you and says, \"Yeah, alright. Let's go!\" And steps across the threshold and looks back at you."
+        },
+        {
+          "startUid": "u0393",
           "endUid": "u0398",
-          "quote": "As you come into the room,"
+          "quote": "As you come into the room, the room is quite large, and a little bit oddly shaped."
         }
       ],
       "from": "p01",
@@ -565,6 +570,21 @@
       "evidence": [
         {
           "startUid": "u0488",
+          "endUid": "u0492",
+          "quote": "You go down the stairs to 22."
+        },
+        {
+          "startUid": "u0488",
+          "endUid": "u0492",
+          "quote": "the door at the far end of it is locked until all of you are in the space. You close the door behind you, and then the door on the other side becomes unlocked, and you can all go through it."
+        },
+        {
+          "startUid": "u0493",
+          "endUid": "u0495",
+          "quote": "You come through that door after this little corridor and down the stairs through the continuation of the stairway that comes down through the center of this room."
+        },
+        {
+          "startUid": "u0496",
           "endUid": "u0497",
           "quote": "This room is clearly a chapel."
         }
@@ -591,6 +611,11 @@
       ],
       "reading": "Attempting to return upstairs instead brings everyone into the first mechanical listening room.",
       "evidence": [
+        {
+          "startUid": "u0646",
+          "endUid": "u0647",
+          "quote": "So you all climb up the flight of stairs."
+        },
         {
           "startUid": "u0646",
           "endUid": "u0652",
@@ -663,8 +688,13 @@
       "evidence": [
         {
           "startUid": "u1011",
-          "endUid": "u1019",
-          "quote": "As you step into the room,"
+          "endUid": "u1014",
+          "quote": "7… As you step into the room, same size and shape that you've come to expect, there are exits to the north, the east, and down."
+        },
+        {
+          "startUid": "u1011",
+          "endUid": "u1014",
+          "quote": "And it's a, on one side, a… mortuary."
         }
       ],
       "from": "p06",
@@ -714,8 +744,18 @@
       "evidence": [
         {
           "startUid": "u1149",
-          "endUid": "u1188",
+          "endUid": "u1149",
           "quote": "So you go back through to 17"
+        },
+        {
+          "startUid": "u1177",
+          "endUid": "u1180",
+          "quote": "And the window is in the center of the room on the floor."
+        },
+        {
+          "startUid": "u1187",
+          "endUid": "u1188",
+          "quote": "Writing is the same."
         }
       ],
       "from": "p08",
@@ -809,6 +849,11 @@
           "startUid": "u1279",
           "endUid": "u1285",
           "quote": "19 is a solarium. You walk down the stairs into the room"
+        },
+        {
+          "startUid": "u1300",
+          "endUid": "u1300",
+          "quote": "Presumably artificial light source, yeah."
         }
       ],
       "from": "p04",
@@ -898,9 +943,9 @@
       "reading": "After the rest the party chooses 15 and reaches a second mechanical room with another journal and listening window.",
       "evidence": [
         {
-          "startUid": "u1438",
-          "endUid": "u1443",
-          "quote": "15 is a massive mechanical room."
+          "startUid": "u1440",
+          "endUid": "u1441",
+          "quote": "15 is a massive mechanical room. You've been in one very similar to this before, even though the exact layouts of the pipes and the machineries are different."
         }
       ],
       "from": "p04",

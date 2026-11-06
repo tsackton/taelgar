@@ -8,7 +8,7 @@
     "transcriptSha256": "716cf624638fd3c88142cb6548ec5acdc5ec0792508b81a7cd4bbdfc042d263a",
     "segments": {
       "path": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-segments.json",
-      "sha256": "e19dbb127e59cb74c508da7d3447648f4980e6909f51975ef1fa371eca39399c",
+      "sha256": "148b8894db545a4f8a7283aa5391558de1c1ef17e76b356c32a4d5669447986d",
       "schemaVersion": "0.1-transcript-segments-draft"
     }
   },

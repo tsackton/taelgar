@@ -106,6 +106,31 @@
         "basis": "Proposed eight-hour wait accepted and completed as a long rest; agrees with long-rest convention"
       },
       "completion": "completed"
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u1551",
+        "endUid": "u1555"
+      },
+      "reading": "Menestheus pauses over the last old journal date for a long minute before recognizing it as the day he left for the party.",
+      "actors": [
+        "Menestheus"
+      ],
+      "duration": {
+        "text": "a long minute",
+        "unit": "minute",
+        "precision": "vague",
+        "basis": "Narrated pause while reading the journal date, rather than the historical date being read"
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u1551",
+          "endUid": "u1555",
+          "quote": "Actually, he reads it out loud to you, and then he stares at it a long minute."
+        }
+      ]
     }
   ],
   "yamlCheck": {
@@ -116,8 +141,9 @@
     "evidence": [
       "t01",
       "t02",
-      "t03"
+      "t03",
+      "t04"
     ],
-    "explanation": "Current play runs from the promontory through exploration, a completed eight-hour chapel rest, and the fungal laboratory. Neither rest completion nor stationary twilight establishes midnight or a new civil day. Earlier recruitment, journal dates, and the seven-century displacement are recalled history, not additional elapsed session time."
+    "explanation": "Current play runs from the promontory through exploration, a completed eight-hour chapel rest, the second journal, and the fungal laboratory. Neither rest completion nor stationary twilight establishes midnight or a new civil day. Earlier recruitment, journal dates and coverage, and the seven-century displacement are recalled history, not additional elapsed session time."
   }
 }

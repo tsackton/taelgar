@@ -8,7 +8,7 @@
     },
     "entityMap": {
       "path": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-entity-map.json",
-      "sha256": "38614a5a8815fe42be0e82b4f41bbf7ebef5aa8d1b321a2fe29d9ff241a4d54b"
+      "sha256": "1075b4d9faa07fd69198e8d786c4637afbee4fa26af8825ff6c2b522031df199"
     }
   },
   "interactions": [
@@ -393,7 +393,7 @@
       "title": "The Eight Divines and separate altars",
       "source": {
         "startUid": "u0522",
-        "endUid": "u0535"
+        "endUid": "u0540"
       },
       "entities": [
         {
@@ -409,7 +409,10 @@
       ],
       "lines": [
         "%% u0522:0-66, u0523:0-128, u0524:0-48, u0525:0-145, u0526:0-146, u0527:0-117, u0528:0-67, u0529:0-80, u0530:0-26, u0531:0-69, u0532:0-96, u0533:0-57, u0534:0-116, u0535:0-92 %%",
-        "Txarro: So if it's not been intentionally ruined, you would expect to have like an architectural design that has eight separate alcoves that are physically separated from each other in with some kind of… Depending on how fancy it is, either some, like, you know, elaborate, massive stained glass and, like, you know, jewel-gemmed carving statuary things, or as simple as just, like, a plain sort of curvy wall or whatever, but the idea is that you architecturally isolate the Eight Altars to the Eight Divines, because there is a belief that the that the gods cannot hear you unless you are speaking to them alone, so you don't want your prayer to the Night Queen… You want only the Night Queen to hear the prayer to the Night Queen. So, if it is intact, you would expect to see 8 separate altars with all 8 of the Mos Numena—Eight Divines represented with the same iconography as is common in modern Sembara. There's stylistic differences in the iconic, you know, in the icons and things, but it would be… clearly recognizable, especially to somebody like, Edric. That said, of course, it could be built intentionally, differently, or partially ruined, in which case some of those alcove and altar spaces might not be present. But that would be the assumed standard design."
+        "Txarro: So if it's not been intentionally ruined, you would expect to have like an architectural design that has eight separate alcoves that are physically separated from each other in with some kind of… Depending on how fancy it is, either some, like, you know, elaborate, massive stained glass and, like, you know, jewel-gemmed carving statuary things, or as simple as just, like, a plain sort of curvy wall or whatever, but the idea is that you architecturally isolate the Eight Altars to the Eight Divines, because there is a belief that the that the gods cannot hear you unless you are speaking to them alone, so you don't want your prayer to the Night Queen… You want only the Night Queen to hear the prayer to the Night Queen. So, if it is intact, you would expect to see 8 separate altars with all 8 of the Mos Numena—Eight Divines represented with the same iconography as is common in modern Sembara. There's stylistic differences in the iconic, you know, in the icons and things, but it would be… clearly recognizable, especially to somebody like, Edric. That said, of course, it could be built intentionally, differently, or partially ruined, in which case some of those alcove and altar spaces might not be present. But that would be the assumed standard design.",
+        "",
+        "%% u0536:0-148, u0537:0-271, u0538:0-91, u0539:0-51, u0540:0-80 %%",
+        "DM: Yeah, and that is indeed the design, with one exception. It's not anything that's been destroyed or defaced in any of the spaces for those gods, ((Description of the extra wall niche))"
       ],
       "reviewContext": {
         "before": [
@@ -420,11 +423,11 @@
           "DM: Yes, although again, I'm sort of deferring to Tim because I don't know enough about Drankorian theology."
         ],
         "after": [
-          "DM: Yeah, and that is indeed the design, with one exception. It's not anything that's been destroyed or defaced in any of the spaces for those gods, but there's a spot in order to get to the back exit of the room, you have to sort of go around this little corridor that kind of, like, goes around one of the enclosed spaces for the gods. And on the back side of it, where there's just a blank wall headed out that back exit, it's like someone has taken a hammer or a pickaxe to the blank wall and just made, like, a… but… divot? A void? A niche? Maybe? That's about a… foot or two across and a few feet high, just sort of smashed out from within it.",
           "DM: And the longer you spend looking at this… It's a strange thing, because it's… it's clearly intentional, it's not, you know, it's not like age or something's gone wrong with the masonry, like, someone has smashed this thing out, and it's just an empty niche. Disturbing in a way that's difficult to articulate.",
           "Edric: Well, Edric is gonna, before even worrying about the disturbing thing, go offer a prayer at the Night Queen's altar. And, like, take a few minutes about it, and like… try and get a sense if this is still consecrated. Is this, is this like, actually still holy and working? Or is this like dead, and you know what I mean? Like, is it, is it a live holy space, or is it dead?",
           "DM: No, it definitely is. It definitely is. Inside the… you know, that space. Presumably the others. Yep. It's lovely, it's grounding. It sets you at ease a little bit.",
-          "Edric: Edric will kind of… over his shoulder, say… \"I'm gonna just stay here for a minute, because it's very… but maybe that… someone should go see why that creepy thing is so creepy,\" pointing at the, like, hole. That seems unnerving."
+          "Edric: Edric will kind of… over his shoulder, say… \"I'm gonna just stay here for a minute, because it's very… but maybe that… someone should go see why that creepy thing is so creepy,\" pointing at the, like, hole. That seems unnerving.",
+          "Tarek: Tarek sticks his hand in the hole."
         ]
       },
       "review": {
@@ -479,7 +482,7 @@
       "title": "First journal: learning words and growing into houses",
       "source": {
         "startUid": "u0663",
-        "endUid": "u0734"
+        "endUid": "u0753"
       },
       "entities": [
         {
@@ -532,8 +535,14 @@
         "%% u0715:0-52 %%",
         "DM: Transcriber has written 3 question marks below this.",
         "",
-        "%% u0716:0-37, u0717:0-43, u0718:0-18, u0719:0-8, u0720:0-88, u0721:0-45, u0722:0-10, u0723:0-36 %%",
-        "((Handling the notebook and asking about handwriting))",
+        "%% u0716:0-37, u0717:0-43, u0718:0-18, u0719:0-8 %%",
+        "((Handling the notebook))",
+        "",
+        "%% u0720:0-88, u0721:0-45 %%",
+        "Kaito Min: Wait, but is, is the, there's like, cause there's, there's the original writing of, like… Does the handwriting change at all over time?",
+        "",
+        "%% u0722:0-10, u0723:0-36 %%",
+        "((Brief interruption))",
         "",
         "%% u0724:0-112 %%",
         "DM: So this is so good. So what's happening is this is a transcription and there's a title page or a record of that.",
@@ -560,7 +569,22 @@
         "DM: Presumably.",
         "",
         "%% u0734:0-90 %%",
-        "Kaito Min: Endless Ending. And then… the student is the person in this house who we have not met yet."
+        "Kaito Min: Endless Ending. And then… the student is the person in this house who we have not met yet.",
+        "",
+        "%% u0735:0-45, u0736:0-16, u0737:0-9, u0738:0-55, u0739:0-28, u0740:0-17, u0741:0-20, u0742:0-16, u0743:0-36, u0744:0-10 %%",
+        "((Connection trouble and reactions))",
+        "",
+        "%% u0745:0-48 %%",
+        "Txarro: I'll pick up the journal, I'll hand it to Tarek.",
+        "",
+        "%% u0746:0-5 %%",
+        "DM: Mmhm.",
+        "",
+        "%% u0747:0-14, u0748:0-40 %%",
+        "((Connection trouble))",
+        "",
+        "%% u0749:0-111, u0750:0-7, u0751:0-314, u0752:0-84, u0753:0-109 %%",
+        "DM: You know, looking through the journal, I think maybe another way to say it, too, is it's almost like this is a… Oh, no. Yeah, okay. No, you're all just very still. It's almost like this is a person who's perseverating. They keep coming back to the same things over and over again. And even though when you read those sentences, you have a sense of a progression in time, like there's this idea of a child and then the child has grown, it's all written in the present tense, so, like, the speaker doesn't have that same… kind of sensibility. There's not a narrative quality to it. It's just a whole lot of thoughts and statements."
       ],
       "reviewContext": {
         "before": [
@@ -571,11 +595,11 @@
           "DM: So you can go… up? Down, west or east. And oddly, against the north wall… there is… And you duck under a pipe?"
         ],
         "after": [
-          "Tarek: I think the student becomes a whole bunch of…",
-          "Kaito Min: Did Eric freeze?",
-          "Edric: Yes, yes.",
-          "DM: At the most suspenseful possible point in the sentence.",
-          "Ayveen: It was a great theory. Yeah."
+          "Ayveen: And there's a desk here that faces the weird runic window thing.",
+          "DM: Yep, exactly. A desk and a chair.",
+          "Ayveen: So possibly… if this desk is manned, you know, if someone is at this desk for certain amounts of time, they sometimes hear this thing and transcribe it and make a little note and reflection.",
+          "Edric: Oh, wait, you said that it's all different handwriting, right?",
+          "DM: Yeah, like different people are transcribing."
         ]
       },
       "review": {
@@ -1278,7 +1302,10 @@
         "%% u1689:0-34, u1690:0-22, u1691:0-13, u1692:0-27 %%",
         "DM: So you've been… You've made it in! Do you want something? What are you? What, what… What do you need?",
         "",
-        "%% u1693:0-179, u1694:0-29, u1695:0-50, u1696:0-39, u1697:0-6, u1698:0-6, u1699:0-32, u1700:0-4, u1701:0-27, u1702:0-10, u1703:0-21, u1704:0-4, u1705:0-71, u1706:0-27, u1707:0-16, u1708:0-7 %%",
+        "%% u1693:0-179, u1694:0-29, u1695:0-50, u1696:0-39 %%",
+        "Txarro: Txarro's gonna begin, like, a long rant about how horrible this place is, and then cut him off, and, like, cut himself off abruptly, and step back, and look at the two bards, and… just kind of stand awkwardly hoping somebody who's better at talking will word. ((Player fatigue aside))",
+        "",
+        "%% u1697:0-6, u1698:0-6, u1699:0-32, u1700:0-4, u1701:0-27, u1702:0-10, u1703:0-21, u1704:0-4, u1705:0-71, u1706:0-27, u1707:0-16, u1708:0-7 %%",
         "((Player fatigue and automaton jokes))",
         "",
         "%% u1709:0-5, u1710:0-12, u1711:0-75 %%",
@@ -1877,12 +1904,12 @@
         },
         {
           "id": "e028",
-          "role": "star",
+          "role": "supporting",
           "action": "mentioned"
         },
         {
           "id": "e029",
-          "role": "star",
+          "role": "supporting",
           "action": "mentioned"
         },
         {
@@ -2193,7 +2220,7 @@
         },
         {
           "id": "e030",
-          "role": "star",
+          "role": "supporting",
           "action": "observed"
         },
         {
