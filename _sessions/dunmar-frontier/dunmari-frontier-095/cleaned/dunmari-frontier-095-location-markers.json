@@ -1,0 +1,1962 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-095",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-095/cleaned/dunmari-frontier-095-session.yaml",
+    "sessionYamlSha256": "d0fb8ded05e5590d15f9ce08959d57ebac77d36b53212e7a73daf8310e76491b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-095/cleaned/dunmari-frontier-095-transcript.md",
+    "transcriptSha256": "a03a9463936ee16aa43c29c213e6037d9524ffba01992302c6397c103b7495e5"
+  },
+  "places": {
+    "p01": {
+      "label": "Ursk",
+      "evidence": [
+        {
+          "startUid": "u1100",
+          "endUid": "u1105",
+          "quote": "So, morning of April twentieth, you set out with—what's his...—Karel's caravan."
+        },
+        {
+          "startUid": "u1106",
+          "endUid": "u1115",
+          "quote": "It's—so just, you know, roughly, if you, if you were to split off from the caravan and you know, ride full days following the roads you'd be talking talking about you know, roughly, 9 or 10 days to get to Yamgov, and then another, probably 2 or 3 days to overland off the roads to get to the base. You know a caravan would go about half that speed."
+        }
+      ],
+      "kind": "realm",
+      "vaultPath": "Gazetteer/Northern Green Sea/Ursk/Ursk.md"
+    },
+    "p02": {
+      "label": "Zvervinka",
+      "evidence": [
+        {
+          "startUid": "u0027",
+          "endUid": "u0035",
+          "quote": "So, just as a— you know, at some point you'll have to decide how you wanna travel across Ursk. On the other hand, you've got a few days in Zvervinka. You don't expect to get your letters of transit till Sunday, so it's Wednesday, Thursday, Friday, Saturday. You've got 3 and a half days, or something. If there's anything you want to do in town."
+        }
+      ],
+      "kind": "settlement",
+      "vaultPath": "Gazetteer/Northern Green Sea/Ursk/Zvervinka.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0048",
+              "endUid": "u0049",
+              "quote": "Yeah, so you basically. I mean, you're basically going from the eastern border to the western border."
+            },
+            {
+              "startUid": "u0050",
+              "endUid": "u0054",
+              "quote": "You have, you have essentially 2 travel choices you can make. If you just take the direct route, like 300-ish miles, there's no real—there's no maintained roads, right? You're gonna be tromping through the mud and the foothills and the forest eaves. But it's a fairly direct route."
+            }
+          ]
+        }
+      ]
+    },
+    "p03": {
+      "label": "Watcher’s Spire",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0005",
+          "quote": "Let us begin up in the cold, wild north of Ursk, where spring comes late. As you leave the Watcher's Spire, a light snow begins to fall from the overcast sky. But to the south—"
+        }
+      ],
+      "kind": "tower",
+      "vaultPath": "Gazetteer/Northern Green Sea/Ursk/Watcher's Spire.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0477",
+              "endUid": "u0484",
+              "quote": "There's also like the, the fur trade down here, like this is, this is the part of the city that's kind of isolated from the— and the monster trade, whereas the the sort of rich part of the city, the upper city, is dominated by the Watcher's Spire, which you've been in and stretches high. But there's also the, the great market hall is this huge timber building in the center of this, of a big plaza, where, you know, this is where all of the monster parts are sold and traded, and where you buy magic items."
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Silver Wolf inn",
+      "evidence": [
+        {
+          "startUid": "u0021",
+          "endUid": "u0024",
+          "quote": "Back at the Silver Wolf inn, cut off from the news of the outside world, and still with a few more days to wait till you get your letters of transit, you find a pleased Roman who has scoured the market for anyone who might be willing to bring magic items to trade, and he lists a number of choices for you while serving your lunch in a private corner of the inn."
+        },
+        {
+          "startUid": "u0025",
+          "endUid": "u0026",
+          "quote": "With decisions ahead about how to approach the upcoming negotiations with the Rodnya Voknaz, once you get permission to travel, you settle into a simple lunch of venison, jerky, wrinkled apples, hard cheese, and rye bread to discuss."
+        }
+      ],
+      "kind": "inn",
+      "vaultPath": "Gazetteer/Northern Green Sea/Ursk/The Silver Wolf.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0027",
+              "endUid": "u0035",
+              "quote": "So, just as a— you know, at some point you'll have to decide how you wanna travel across Ursk. On the other hand, you've got a few days in Zvervinka. You don't expect to get your letters of transit till Sunday, so it's Wednesday, Thursday, Friday, Saturday. You've got 3 and a half days, or something. If there's anything you want to do in town."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Great market hall and plaza",
+      "evidence": [
+        {
+          "startUid": "u0477",
+          "endUid": "u0484",
+          "quote": "There's also like the, the fur trade down here, like this is, this is the part of the city that's kind of isolated from the— and the monster trade, whereas the the sort of rich part of the city, the upper city, is dominated by the Watcher's Spire, which you've been in and stretches high. But there's also the, the great market hall is this huge timber building in the center of this, of a big plaza, where, you know, this is where all of the monster parts are sold and traded, and where you buy magic items."
+        }
+      ],
+      "kind": "market",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0458",
+              "endUid": "u0463",
+              "quote": "So I mean, you get a sense like—so I think I sort of described this before, but the town's on a hill that slow—or not really a hill, but a slope that rises up from the Ket. And the the down by the river is, is marshy, damp, and cold. There's not—there's a wall on, you know, all of the non-river sides of the city, but the there's not a wall along the river itself. There's the gatehouse, and there's a wall on the far bank."
+            },
+            {
+              "startUid": "u0464",
+              "endUid": "u0465",
+              "quote": "Let's pull up our random citizen here."
+            },
+            {
+              "startUid": "u0466",
+              "endUid": "u0468",
+              "quote": "And there is a sense that you know the the lower city down along the Ket is poorer and tends to be where many of the novja live. It's cold and damp in the winter, and hot, and presumably hot and buggy in the summer. There's like the major thoroughfare that runs from the gates up to the market, which is on the height of land."
+            },
+            {
+              "startUid": "u0469",
+              "endUid": "u0471",
+              "quote": "But there's also a bunch of timber yards and warehouses where there's a fair bit of logging, because you're right on the eaves of the woods. All of this timber is just waiting to be shipped down river to port south. The, the main base of the Urskan navy is sort of down this river, so—"
+            },
+            {
+              "startUid": "u0472",
+              "endUid": "u0476",
+              "quote": "And there's also, you know, again, you get the sense that a lot of the sort of lower city is just really quiet in the winter, because there's no activity. The timber yards are—nobody's— people are cutting trees because you can haul them across the snow. But right now is the worst of anything, because nothing's frozen enough to drag over land, and nothing's melted enough to float. So everything is just sort of stopped."
+            },
+            {
+              "startUid": "u0477",
+              "endUid": "u0484",
+              "quote": "There's also like the, the fur trade down here, like this is, this is the part of the city that's kind of isolated from the— and the monster trade, whereas the the sort of rich part of the city, the upper city, is dominated by the Watcher's Spire, which you've been in and stretches high. But there's also the, the great market hall is this huge timber building in the center of this, of a big plaza, where, you know, this is where all of the monster parts are sold and traded, and where you buy magic items."
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Forge used for the party’s work",
+      "evidence": [
+        {
+          "startUid": "u0660",
+          "endUid": "u0665",
+          "quote": "Riswynn stops by the forge, where Roman arranged for them to do the work, to make sure that they left everything in good order and express gratitude again. I mean, obviously they were paid for the things. But just, you know, as a collegial, you know, such a nice establishment you have. Thank you so much."
+        }
+      ],
+      "kind": "forge",
+      "note": "No forge name is spoken. The Frostforge in Zvervinka’s reference note is not assumed to be this establishment.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0652",
+              "endUid": "u0659",
+              "quote": "In any case, Roman is—Roman does arrange, you know, finds somebody who is a, you know, relatively low level, a arcane magic user associated with the Rodnya Nivik, who will have dinner with you on Friday night. Is there anything else that people want to do in town?"
+            },
+            {
+              "startUid": "u0660",
+              "endUid": "u0665",
+              "quote": "Riswynn stops by the forge, where Roman arranged for them to do the work, to make sure that they left everything in good order and express gratitude again. I mean, obviously they were paid for the things. But just, you know, as a collegial, you know, such a nice establishment you have. Thank you so much."
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Lena’s room",
+      "evidence": [
+        {
+          "startUid": "u0992",
+          "endUid": "u0999",
+          "quote": "So on Sunday, April nineteenth, the day after the market, you find yourself back in the Watcher's tower. Going through the routine again to seal your magic and return to Lena's room in the tower, where she has again tea laid out for you. And greets you."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0992",
+              "endUid": "u0999",
+              "quote": "So on Sunday, April nineteenth, the day after the market, you find yourself back in the Watcher's tower. Going through the routine again to seal your magic and return to Lena's room in the tower, where she has again tea laid out for you. And greets you."
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Roadside breakfast stop with Karel",
+      "evidence": [
+        {
+          "startUid": "u1193",
+          "endUid": "u1198",
+          "quote": "The one slightly odd thing that happens is that the the morning of the first of the second day, as you're sort of making breakfast, he just like, blinks and stares off into space for about 20 min, just not speaking, totally incommunicative, and then just picks up again a second later, as if he had— like the time has just ceased for him for 20 min. And kind of shakes his head a bit, but doesn't say anything."
+        }
+      ],
+      "kind": "camp",
+      "note": "An unnamed stop during the southbound journey; no exact distance or village is established.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1100",
+              "endUid": "u1105",
+              "quote": "So, morning of April twentieth, you set out with—what's his...—Karel's caravan."
+            },
+            {
+              "startUid": "u1106",
+              "endUid": "u1115",
+              "quote": "It's—so just, you know, roughly, if you, if you were to split off from the caravan and you know, ride full days following the roads you'd be talking talking about you know, roughly, 9 or 10 days to get to Yamgov, and then another, probably 2 or 3 days to overland off the roads to get to the base. You know a caravan would go about half that speed."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Small riverside trading post",
+      "evidence": [
+        {
+          "startUid": "u1252",
+          "endUid": "u1263",
+          "quote": "So a couple days later, you you part ways with the caravan at a small trading post on the river. The road turns south— splits. Part goes south, part goes west. There's big docks here. You get the sense that, in a month a lot of people will be going down the river by water, but at the moment the, the ice is, it's, you're— as you get into the lowlands here, you know it's more fully spring, a lot of mud. The ice is beginning to break up, but still not safe for shipping, and you turn west towards Vedmakov. I'm—"
+        }
+      ],
+      "kind": "trading post",
+      "vaultPath": "Gazetteer/Northern Green Sea/Ursk/Volya.md",
+      "note": "Identified as Volya by Session 95 (DuFr), Timeline April 23 and Narrative. The transcript leaves the post unnamed; its recorded exact travel day is not imported into time markers.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1000",
+              "endUid": "u1010",
+              "quote": "She brings out these scrolls, one for each of you: Letters of transit giving you permission to travel freely across Ursk for the next month, but not enter any cities, excepting the headquarters of the Rodnya Voknaz, but travel on roads, stay in inns and villages freely across the country for the next 30 days."
+            },
+            {
+              "startUid": "u1175",
+              "endUid": "u1184",
+              "quote": "But you sort of get a sense traveling with with Karel for a couple of days just about, you know, the, the merchant class in Ursk is doing quite well these days. Despite this, everybody talks about the scare last winter, like despite the scare last winter, business is booming, you know. He's getting rich selling— he he buys dragon dragon scales from Zvervinka, sells them in port to halfling traders. He's very interested in talking to Wellby, because he's talked to many halflings before, because he sells these to halfling traders who are taking them all across the Green Sea."
+            },
+            {
+              "startUid": "u1252",
+              "endUid": "u1263",
+              "quote": "So a couple days later, you you part ways with the caravan at a small trading post on the river. The road turns south— splits. Part goes south, part goes west. There's big docks here. You get the sense that, in a month a lot of people will be going down the river by water, but at the moment the, the ice is, it's, you're— as you get into the lowlands here, you know it's more fully spring, a lot of mud. The ice is beginning to break up, but still not safe for shipping, and you turn west towards Vedmakov. I'm—"
+            }
+          ],
+          "note": "The post is on the narrated internal Ursk caravan route; this regional context is inferred from the journey, not from the vault directory."
+        }
+      ]
+    },
+    "p10": {
+      "label": "Vedmakov",
+      "evidence": [
+        {
+          "startUid": "u1276",
+          "endUid": "u1285",
+          "quote": "Am— You passed by the city of Vedmakov a few days later. It's a walled city that's—you don't actually pass, you'll, you pass like 6 miles north of it. You're passing along the sort of foothills of this, like between the forest and these hills, and the city itself is set up a little bit into the hills, into the mountains, watching over this, this valley you've been—you're, you've been following the course of this river. The road runs along the course of this river here for much of this distance along the valley, and the city itself is perched above the river valley very close to a waterfall that cascades down out of the mountains. That must be the source of this river,"
+        }
+      ],
+      "kind": "city",
+      "vaultPath": "Gazetteer/Northern Green Sea/Ursk/Vedmakov.md",
+      "note": "The party bypasses the city about six miles north; it does not enter.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0048",
+              "endUid": "u0049",
+              "quote": "Yeah, so you basically. I mean, you're basically going from the eastern border to the western border."
+            },
+            {
+              "startUid": "u0050",
+              "endUid": "u0054",
+              "quote": "You have, you have essentially 2 travel choices you can make. If you just take the direct route, like 300-ish miles, there's no real—there's no maintained roads, right? You're gonna be tromping through the mud and the foothills and the forest eaves. But it's a fairly direct route."
+            },
+            {
+              "startUid": "u0055",
+              "endUid": "u0064",
+              "quote": "You could go—there is a road that goes the—let me roughly draw it, that goes basically from— that's way too thick— that basically goes from Zvervinka like this. And then like that."
+            },
+            {
+              "startUid": "u0065",
+              "endUid": "u0068",
+              "quote": "So this here is Vedmakov. It's the home base of the Watchers. And the, and then the road ends at this agricultural city of Yamgov on this river."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Yamgov",
+      "evidence": [
+        {
+          "startUid": "u1293",
+          "endUid": "u1296",
+          "quote": "But as you sort of descend out of the foothills the road begins to gently descend down to the wide valley of this river where where Yamgov is, and you can see Yamgov from from a distance, from several days away, as you’re sort of deset, you know, very gradually descending into this river."
+        },
+        {
+          "startUid": "u1297",
+          "endUid": "u1301",
+          "quote": "It's a big city. It's it's definitely bigger than Vedmakov or Zvervinka, and it spills well beyond its walls much more agriculture than you've seen before. You're you're passing through fields now. Still too early for anything to be planted. A lot of land is cleared for agriculture. Here. I'm— wheat and barley, and various other kinds of hardy northern grains."
+        },
+        {
+          "startUid": "u1302",
+          "endUid": "u1317",
+          "quote": "And as April begins to draw to a close, pass— on on the the last day of April you pass Yamgov, as April ends and May begins, you turn over land to ascend the last 40 miles or so to the headquarters of of the— that's, it's probably more like there, right? It's about 40 miles from from Yamgov, maybe 50. It's about a, it's about a, you know, 2-day journey, basically."
+        }
+      ],
+      "kind": "city",
+      "vaultPath": "Gazetteer/Northern Green Sea/Ursk/Yamgov.md",
+      "note": "The transcript establishes passing Yamgov on April 30, without city entry.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0048",
+              "endUid": "u0049",
+              "quote": "Yeah, so you basically. I mean, you're basically going from the eastern border to the western border."
+            },
+            {
+              "startUid": "u0050",
+              "endUid": "u0054",
+              "quote": "You have, you have essentially 2 travel choices you can make. If you just take the direct route, like 300-ish miles, there's no real—there's no maintained roads, right? You're gonna be tromping through the mud and the foothills and the forest eaves. But it's a fairly direct route."
+            },
+            {
+              "startUid": "u0055",
+              "endUid": "u0064",
+              "quote": "You could go—there is a road that goes the—let me roughly draw it, that goes basically from— that's way too thick— that basically goes from Zvervinka like this. And then like that."
+            },
+            {
+              "startUid": "u0065",
+              "endUid": "u0068",
+              "quote": "So this here is Vedmakov. It's the home base of the Watchers. And the, and then the road ends at this agricultural city of Yamgov on this river."
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Countryside camp near Voknaz headquarters",
+      "evidence": [
+        {
+          "startUid": "u1329",
+          "endUid": "u1337",
+          "quote": "And you can see now, as, as sun begins to set on the on the last day of— on the first day of May, you can see you’ve gotten fairly close. You can see, as sun sets in the distance, what looks like a flickering wall of fire marking, you think the headquarters of the Rodnya Voknaz."
+        },
+        {
+          "startUid": "u1338",
+          "endUid": "u1338",
+          "quote": "That's cool."
+        },
+        {
+          "startUid": "u1339",
+          "endUid": "u1342",
+          "quote": "Go to sleep when— no, nothing happens except Kong, read the message I'm sending you."
+        }
+      ],
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u1375",
+              "endUid": "u1376",
+              "quote": "You're sleeping just in the Urskan countryside, about a 15 miles from the headquarters of the Rodnya Voknaz."
+            }
+          ]
+        },
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1375",
+              "endUid": "u1376",
+              "quote": "You're sleeping just in the Urskan countryside, about a 15 miles from the headquarters of the Rodnya Voknaz."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Headquarters of Rodnya Voknaz",
+      "evidence": [
+        {
+          "startUid": "u1525",
+          "endUid": "u1540",
+          "quote": "So the interior of this headquarters is. So as you step through this, this wall of stone, the inside, of the grounds is like weirdly bigger than the diameter of the wall as drawn. Like there's no way, like, a wall of stone is not on the outside big enough to hold giant lake, with a wall of fire burning on the lake, castle and tower, with flames coming off of the walls of the tower behind the wall of fire, plus around the shores of the lake, a cluster of various utilitarian buildings, all seemingly shaped out of single, like, almost like poured iron from a mold, pieces of gray stone."
+        },
+        {
+          "startUid": "u1541",
+          "endUid": "u1546",
+          "quote": "And she's leading you across. There's a stables, there's like a gardens and a kitchen, like a manor meeting house area, several guest houses. As like, I don't know just estimating, based on the diameter of the exterior wall, this is like 3 times as much stuff as should fit inside it."
+        }
+      ],
+      "kind": "estate",
+      "vaultPath": "Gazetteer/Northern Green Sea/Ursk/Voknaz Manor.md",
+      "note": "The unnamed headquarters is the verified Voknaz Manor. The wall is later explained as larger than it appears (u2122–u2128); no separate dimension is established.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1065",
+              "endUid": "u1074",
+              "quote": "Well, you would have to go some 100 miles west of the headquarters of the Rodnya Voknaz to cross the border. E—the border is a little uncertain there. That's part of the negotiation, possibly as few as 40 miles west, as many as a hundred 20. But as long as you don't go too far west of the headquarters that you're heading to should not be a problem for you."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Guest house",
+      "evidence": [
+        {
+          "startUid": "u1577",
+          "endUid": "u1581",
+          "quote": "She leads you to a guest house where you've got 3 rooms between you, each with 2 baths already drawn with hot water, you know, everything sort of laid out for you for a fairly comfortable evening."
+        },
+        {
+          "startUid": "u1582",
+          "endUid": "u1586",
+          "quote": "And she says, she warns you, and dinner will be served in 2 h. Please be ready. Branek does not like to be kept waiting. I'll come and get you take you to dinner. You can speak of your quest and desires then."
+        }
+      ],
+      "kind": "building",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u1541",
+              "endUid": "u1546",
+              "quote": "And she's leading you across. There's a stables, there's like a gardens and a kitchen, like a manor meeting house area, several guest houses. As like, I don't know just estimating, based on the diameter of the exterior wall, this is like 3 times as much stuff as should fit inside it."
+            },
+            {
+              "startUid": "u1547",
+              "endUid": "u1548",
+              "quote": "Is this? Is this a thing? This effect, the bigger on the inside, that I've—"
+            },
+            {
+              "startUid": "u1549",
+              "endUid": "u1549",
+              "quote": "Not one you ever seen."
+            },
+            {
+              "startUid": "u1550",
+              "endUid": "u1550",
+              "quote": "At this scale, because I mean, like a portable hole, is like a little bit. But—"
+            },
+            {
+              "startUid": "u1551",
+              "endUid": "u1551",
+              "quote": "And not a portal, like the sky."
+            },
+            {
+              "startUid": "u1552",
+              "endUid": "u1555",
+              "quote": "Right. That's a case of portal between dimensions, literally."
+            },
+            {
+              "startUid": "u1556",
+              "endUid": "u1556",
+              "quote": "The portable—"
+            },
+            {
+              "startUid": "u1557",
+              "endUid": "u1557",
+              "quote": "Here—"
+            },
+            {
+              "startUid": "u1558",
+              "endUid": "u1558",
+              "quote": "A portal between dimensions. This is not a portal."
+            },
+            {
+              "startUid": "u1559",
+              "endUid": "u1560",
+              "quote": "There are those like tents that are like bigger."
+            },
+            {
+              "startUid": "u1561",
+              "endUid": "u1562",
+              "quote": "Have anything that can tell if we're still on the a regular dimension?"
+            },
+            {
+              "startUid": "u1563",
+              "endUid": "u1563",
+              "quote": "Not without using magic."
+            },
+            {
+              "startUid": "u1564",
+              "endUid": "u1565",
+              "quote": "Right. But—"
+            },
+            {
+              "startUid": "u1566",
+              "endUid": "u1567",
+              "quote": "I don't know. It doesn't seem like it, like you can still hear, bird song from presumably the other side of the wall, right like?"
+            },
+            {
+              "startUid": "u1568",
+              "endUid": "u1569",
+              "quote": "Yeah. It's just bigger on the inside."
+            },
+            {
+              "startUid": "u1570",
+              "endUid": "u1570",
+              "quote": "Doesn't feel to you like you crossed into another dimension. If you have, it's a very well concealed dimension."
+            },
+            {
+              "startUid": "u1571",
+              "endUid": "u1572",
+              "quote": "Could it have been just a visual illusion from the outside that it looked smaller than it was?"
+            },
+            {
+              "startUid": "u1573",
+              "endUid": "u1574",
+              "quote": "That it looked smaller on the outside. Yes. You never. You didn't try and circumnavigate the wall, for example."
+            },
+            {
+              "startUid": "u1575",
+              "endUid": "u1576",
+              "quote": "We didn't work. Well, there it comes. That's the simplest explanation."
+            },
+            {
+              "startUid": "u1577",
+              "endUid": "u1581",
+              "quote": "She leads you to a guest house where you've got 3 rooms between you, each with 2 baths already drawn with hot water, you know, everything sort of laid out for you for a fairly comfortable evening."
+            },
+            {
+              "startUid": "u1582",
+              "endUid": "u1586",
+              "quote": "And she says, she warns you, and dinner will be served in 2 h. Please be ready. Branek does not like to be kept waiting. I'll come and get you take you to dinner. You can speak of your quest and desires then."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Dining hall",
+      "evidence": [
+        {
+          "startUid": "u1760",
+          "endUid": "u1761",
+          "quote": "Okay, sounds great. You all head across the courtyard to dinner."
+        },
+        {
+          "startUid": "u1762",
+          "endUid": "u1763",
+          "quote": "You walk into the into the sort of dining hall area, and it's a it's a relatively quiet dinner. There's."
+        },
+        {
+          "startUid": "u1764",
+          "endUid": "u1769",
+          "quote": "The guy who's introduced as Branek Mirov is a sort of striking, maybe young middle-aged man, wearing sort of elegant furs over like, lined with a, a cloak, elegant cloak lined with furs. Dark skin, like a striking appearance, handsome, and he's sitting at the head of the table."
+        },
+        {
+          "startUid": "u1770",
+          "endUid": "u1778",
+          "quote": "As just him place sets for 6. So the 5 of you plus him, and then in the corner, sort of crouch, not— sort of sitting at like a desk, like a secretary or something, like taking notes, is a, a younger man sort of almost like mousey, shy looking, wearing a, a, a hood that sort of pulled mostly over his face, much less nice clothes. But it's basically just seems to be you and and Branek. Except for this, this secretary, or so obviously like somebody is recording what happens at these things, and, you know, keeping notes. Like the guys gotta scroll out and is like, you know, clearly writing stuff down. This is not a secret conversation."
+        }
+      ],
+      "kind": "hall",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u1760",
+              "endUid": "u1761",
+              "quote": "Okay, sounds great. You all head across the courtyard to dinner."
+            },
+            {
+              "startUid": "u1762",
+              "endUid": "u1763",
+              "quote": "You walk into the into the sort of dining hall area, and it's a it's a relatively quiet dinner. There's."
+            },
+            {
+              "startUid": "u1764",
+              "endUid": "u1769",
+              "quote": "The guy who's introduced as Branek Mirov is a sort of striking, maybe young middle-aged man, wearing sort of elegant furs over like, lined with a, a cloak, elegant cloak lined with furs. Dark skin, like a striking appearance, handsome, and he's sitting at the head of the table."
+            },
+            {
+              "startUid": "u1770",
+              "endUid": "u1778",
+              "quote": "As just him place sets for 6. So the 5 of you plus him, and then in the corner, sort of crouch, not— sort of sitting at like a desk, like a secretary or something, like taking notes, is a, a younger man sort of almost like mousey, shy looking, wearing a, a, a hood that sort of pulled mostly over his face, much less nice clothes. But it's basically just seems to be you and and Branek. Except for this, this secretary, or so obviously like somebody is recording what happens at these things, and, you know, keeping notes. Like the guys gotta scroll out and is like, you know, clearly writing stuff down. This is not a secret conversation."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Kenzo and Wellby’s guest room",
+      "evidence": [
+        {
+          "startUid": "u2474",
+          "endUid": "u2476",
+          "quote": "I guess. Let's see, I don't know where everybody's sleeping but, Kenzo, and whoever's sleeping in the room, Kenzo's room are quietly awoken, somebody gently shaking your so—shoulder. Somebody invisible, you can't see them, and there's like—"
+        },
+        {
+          "startUid": "u2477",
+          "endUid": "u2479",
+          "quote": "Fuck! Who is it? And who is it?"
+        },
+        {
+          "startUid": "u2480",
+          "endUid": "u2480",
+          "quote": "They're invisible."
+        },
+        {
+          "startUid": "u2481",
+          "endUid": "u2481",
+          "quote": "Well, I know, but I soul sight them."
+        },
+        {
+          "startUid": "u2482",
+          "endUid": "u2482",
+          "quote": "I think you have to be able to see to soul sight somebody."
+        },
+        {
+          "startUid": "u2483",
+          "endUid": "u2483",
+          "quote": "Man."
+        },
+        {
+          "startUid": "u2484",
+          "endUid": "u2484",
+          "quote": "And, like all of my ki."
+        },
+        {
+          "startUid": "u2485",
+          "endUid": "u2487",
+          "quote": "The the voice whispers: quick! Get your companions. For your safety and mine, you cannot know who I am."
+        },
+        {
+          "startUid": "u2488",
+          "endUid": "u2488",
+          "quote": "But recognize the voice?"
+        },
+        {
+          "startUid": "u2489",
+          "endUid": "u2493",
+          "quote": "Nope. Quiet whisper, speaking, speaking—well, let's see, what language does— speaking, Drankorian."
+        },
+        {
+          "startUid": "u2494",
+          "endUid": "u2495",
+          "quote": "Oh, fuck. Do I trust them?"
+        },
+        {
+          "startUid": "u2496",
+          "endUid": "u2496",
+          "quote": "I don't know. Do you?"
+        },
+        {
+          "startUid": "u2497",
+          "endUid": "u2497",
+          "quote": "Do I? I mean, do I have any sense of them, like is it, you know? Again, I'm, I'm like lose—using all of, all of my, my—"
+        },
+        {
+          "startUid": "u2498",
+          "endUid": "u2500",
+          "quote": "They sound— they sound quite nervous."
+        },
+        {
+          "startUid": "u2501",
+          "endUid": "u2501",
+          "quote": "They sound quite nervous. They're speaking in Drankorian. Do I recognize the accent?"
+        },
+        {
+          "startUid": "u2502",
+          "endUid": "u2503",
+          "quote": "I mean Drankorian is like Latin, right? It's like nobody— It's mostly a written language. The accent is very different than what you learned in Chardon."
+        },
+        {
+          "startUid": "u2504",
+          "endUid": "u2504",
+          "quote": "Who's in the room with me?"
+        },
+        {
+          "startUid": "u2505",
+          "endUid": "u2506",
+          "quote": "I don't know who is in the room with Kenzo? Seeker?"
+        },
+        {
+          "startUid": "u2507",
+          "endUid": "u2507",
+          "quote": "Like he's usually at all the—"
+        },
+        {
+          "startUid": "u2508",
+          "endUid": "u2508",
+          "quote": "Me—"
+        },
+        {
+          "startUid": "u2509",
+          "endUid": "u2510",
+          "quote": "Definitely not the elf. Yeah."
+        },
+        {
+          "startUid": "u2511",
+          "endUid": "u2511",
+          "quote": "Yeah, Wellby. But Schwartz is not back yet, so—"
+        },
+        {
+          "startUid": "u2512",
+          "endUid": "u2512",
+          "quote": "Oh, shoot!"
+        },
+        {
+          "startUid": "u2513",
+          "endUid": "u2514",
+          "quote": "Well— I tell Schwartz, or I tell Wellby to telepathically tell everybody else what's happening."
+        },
+        {
+          "startUid": "u2515",
+          "endUid": "u2515",
+          "quote": "And I do exactly that. What's happening?"
+        },
+        {
+          "startUid": "u2516",
+          "endUid": "u2518",
+          "quote": "Invisible person just woke up Kenzo by shaking him on the shoulder, and said in Drankorian: Quick! Get your companions, and also for your safety and mine, you cannot know who I am."
+        },
+        {
+          "startUid": "u2519",
+          "endUid": "u2523",
+          "quote": "And Wellby, I just kind of spent all of my intuitive ki trying to figure out if I could trust this person or not. They seem nervous. And yeah, and I just tell you, Wellby, invisible guy speaking Draconian, Drankorian. Let everybody else know."
+        },
+        {
+          "startUid": "u2524",
+          "endUid": "u2524",
+          "quote": "Do."
+        },
+        {
+          "startUid": "u2525",
+          "endUid": "u2525",
+          "quote": "Do you want us to leave the room?"
+        },
+        {
+          "startUid": "u2526",
+          "endUid": "u2527",
+          "quote": "And stay here. Get, get the rest of your companions here as quietly and as quickly as you can. You only have a few minutes."
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p14",
+          "evidence": [
+            {
+              "startUid": "u2455",
+              "endUid": "u2464",
+              "quote": "So, as dinner winds up, and you return. There's couple more things I want to do before we end for tonight. I think we have time. So you go back to your quarters. You can sort of think about or discuss at some point what you like. Like you said, they'll give you magic items to resist the extreme temperatures and also flying carpet that you could fly on. I'm— that's— that's all. In the morning. Anything else you wanna do this evening?"
+            },
+            {
+              "startUid": "u2465",
+              "endUid": "u2466",
+              "quote": "I don't think so."
+            },
+            {
+              "startUid": "u2467",
+              "endUid": "u2467",
+              "quote": "Okay."
+            },
+            {
+              "startUid": "u2468",
+              "endUid": "u2473",
+              "quote": "So one more thing happens overnight before we get back to the— there is a cool— quiet— you are—"
+            },
+            {
+              "startUid": "u2474",
+              "endUid": "u2476",
+              "quote": "I guess. Let's see, I don't know where everybody's sleeping but, Kenzo, and whoever's sleeping in the room, Kenzo's room are quietly awoken, somebody gently shaking your so—shoulder. Somebody invisible, you can't see them, and there's like—"
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Flaming castle and lake",
+      "evidence": [
+        {
+          "startUid": "u1343",
+          "endUid": "u1355",
+          "quote": "So you're now maybe two-thirds of a day's walk to, as morning comes on, May second, you expect to reach the headquarters of the of the Voknaz. The Rodnya Voknaz this afternoon, and you can see now there's a in in the distance, maybe 20 miles away, perched on a hill. There's a smooth—there's a wall of stone, or some sort of wall, outer fortification, and then behind it there's like a floating tower that has a wall of flame entirely encircling the outside of the tower."
+        },
+        {
+          "startUid": "u1356",
+          "endUid": "u1356",
+          "quote": "Floating. Is it?"
+        },
+        {
+          "startUid": "u1357",
+          "endUid": "u1358",
+          "quote": "Doesn't— This is about as close as I could get."
+        },
+        {
+          "startUid": "u1359",
+          "endUid": "u1359",
+          "quote": "Cool."
+        },
+        {
+          "startUid": "u1360",
+          "endUid": "u1360",
+          "quote": "Oh, it's floating in water."
+        },
+        {
+          "startUid": "u1361",
+          "endUid": "u1361",
+          "quote": "Yeah, it's floating in water."
+        },
+        {
+          "startUid": "u1362",
+          "endUid": "u1363",
+          "quote": "The heck. What body of water are we in? Is it actually a river like, or a lake?"
+        },
+        {
+          "startUid": "u1364",
+          "endUid": "u1364",
+          "quote": "Oh, no, you like, it's just a, it's like a big moat, basically."
+        }
+      ],
+      "kind": "castle and lake",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u1525",
+              "endUid": "u1540",
+              "quote": "So the interior of this headquarters is. So as you step through this, this wall of stone, the inside, of the grounds is like weirdly bigger than the diameter of the wall as drawn. Like there's no way, like, a wall of stone is not on the outside big enough to hold giant lake, with a wall of fire burning on the lake, castle and tower, with flames coming off of the walls of the tower behind the wall of fire, plus around the shores of the lake, a cluster of various utilitarian buildings, all seemingly shaped out of single, like, almost like poured iron from a mold, pieces of gray stone."
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Chained tomb in Kenzo’s dream",
+      "evidence": [
+        {
+          "startUid": "u1377",
+          "endUid": "u1378",
+          "quote": "Huh! This massive tomb complex, huge stone doors, wrapping chains. So look anything like what we're looking at now?"
+        },
+        {
+          "startUid": "u1379",
+          "endUid": "u1379",
+          "quote": "Are, now."
+        },
+        {
+          "startUid": "u1380",
+          "endUid": "u1382",
+          "quote": "Does this tomb, mausoleum of terror remind me of anything? Oh, yeah, okay. It—so it reminds me also of like what I saw when I— okay?"
+        },
+        {
+          "startUid": "u1383",
+          "endUid": "u1388",
+          "quote": "Yeah. So Kenzo kinda—oh, great. Yeah. So Kenzo Kenzo sort of sits up alert, in a camp and kind of looks at everybody, no, look—he looks pretty alarmed, and Kenzo says: Apollyon is awakening."
+        },
+        {
+          "startUid": "u1389",
+          "endUid": "u1390",
+          "quote": "When you say awakening, what?"
+        },
+        {
+          "startUid": "u1391",
+          "endUid": "u1398",
+          "quote": "That was the 3 word summary the larger vision I had. I'm— I think I've shared with you before how we had a bit of eye contact at 1 point, in the plane of consciousness? I share that with you? When we all were on our various solo journeys."
+        },
+        {
+          "startUid": "u1399",
+          "endUid": "u1409",
+          "quote": "So I have like a sense of I guess what you could say is like what his tomb looks like. Pretty, not a place you'd really ever want to go for really any kind of reason that you could possibly ever want to think about. It's pretty much the worst place you could imagine, you know, bloody mausoleum screaming, hissing, acid terror. I mean, it's kind of just all the words you don't want to think about in a place. And there are these chains, you know. There are these chains that that bind the door that he's, you know, trapped in his tomb. And yeah, so you know."
+        },
+        {
+          "startUid": "u1410",
+          "endUid": "u1416",
+          "quote": "I just had a vision where those chains are now being eaten away by acid and dissolving. So yeah, I think there's, I guess maybe we should act with a bit more urgency now, with our various plans, potentially. We're not, we're not—I mean, I could also just be, you know, having random, very specific dreams."
+        }
+      ],
+      "kind": "dream location",
+      "note": "Only Kenzo’s spoken account is extracted. The private Zoom message is not part of this registered transcript; no physical party visit is implied."
+    },
+    "p19": {
+      "label": "Frostfell",
+      "evidence": [
+        {
+          "startUid": "u2106",
+          "endUid": "u2110",
+          "quote": "There are portals beneath our castle that can take you to this place. Must bring his body, and when the fire is quenched, raise him from the dead."
+        },
+        {
+          "startUid": "u2111",
+          "endUid": "u2112",
+          "quote": "When you return our leader to us alive, we will grant you this thing you seek."
+        },
+        {
+          "startUid": "u2113",
+          "endUid": "u2113",
+          "quote": "Done."
+        },
+        {
+          "startUid": "u2114",
+          "endUid": "u2114",
+          "quote": "Do they, do they have his body here?"
+        },
+        {
+          "startUid": "u2115",
+          "endUid": "u2115",
+          "quote": "Yeah, I mean, not in the dining room."
+        },
+        {
+          "startUid": "u2116",
+          "endUid": "u2116",
+          "quote": "Yeah."
+        },
+        {
+          "startUid": "u2117",
+          "endUid": "u2117",
+          "quote": "Oh, that's the other part of the quest. It's it's being held by 16 ancient dragons."
+        },
+        {
+          "startUid": "u2118",
+          "endUid": "u2119",
+          "quote": "The portals here in this building, you said to Frostfell?"
+        },
+        {
+          "startUid": "u2120",
+          "endUid": "u2120",
+          "quote": "Behind the protections of our wards."
+        },
+        {
+          "startUid": "u2121",
+          "endUid": "u2121",
+          "quote": "By the way, is this place bigger on the inside than, than out? Or is that just an illusion?"
+        },
+        {
+          "startUid": "u2122",
+          "endUid": "u2125",
+          "quote": "Laughs. Space is not always what it seems. But in fact, it is the wall that is smaller than it appears."
+        },
+        {
+          "startUid": "u2126",
+          "endUid": "u2127",
+          "quote": "Man, a neat trick."
+        },
+        {
+          "startUid": "u2128",
+          "endUid": "u2128",
+          "quote": "Sorry, the wall is bigger than it appears."
+        },
+        {
+          "startUid": "u2129",
+          "endUid": "u2131",
+          "quote": "Wall is bigger than it appears. Yeah. I've always wanted to see Frostfell."
+        },
+        {
+          "startUid": "u2132",
+          "endUid": "u2132",
+          "quote": "My! Oh—"
+        },
+        {
+          "startUid": "u2133",
+          "endUid": "u2134",
+          "quote": "Place. Actually, Tim, have I heard that word for it? We know about elemental planes?"
+        },
+        {
+          "startUid": "u2135",
+          "endUid": "u2135",
+          "quote": "I mean you've heard many words for it. There's probably a dwarven word for it, and Drankorian word for it. But yes, you've heard of the elemental plane of ice. It's like the border realm between the Plane of Air and the Plane of Water."
+        }
+      ],
+      "kind": "plane",
+      "vaultPath": "Cosmology/Energy Realms/Compound Realms/Frostfell.md"
+    },
+    "p20": {
+      "label": "Rhodar von Glauer’s kingdom",
+      "evidence": [
+        {
+          "startUid": "u2638",
+          "endUid": "u2642",
+          "quote": "You do this, you must leave in the next 10 min. Why is that? Teleport out of this place and to the outskirts of the vampire's kingdom."
+        }
+      ],
+      "kind": "realm",
+      "note": "A proposed destination. No teleportation or entry is played in session 095."
+    },
+    "p21": {
+      "label": "Outer wall entrance",
+      "evidence": [
+        {
+          "startUid": "u1449",
+          "endUid": "u1455",
+          "quote": "So as you spend the day walking towards the headquarters of the Rodnya Voknaz with this ominous sign in the back of your minds, by late afternoon you reach I guess, the entrance."
+        },
+        {
+          "startUid": "u1456",
+          "endUid": "u1464",
+          "quote": "You approach a wall of stone 20 feet high, with no visible doors or gates, completely surrounding the interior of whatever complex. You can see the like top of the, this tower behind the walls. And you can—you can see the glow, the flickering glow of the flames that light the tower, but it doesn't appear to be any doors or entrances, or anything."
+        }
+      ],
+      "kind": "entrance",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u1456",
+              "endUid": "u1464",
+              "quote": "You approach a wall of stone 20 feet high, with no visible doors or gates, completely surrounding the interior of whatever complex. You can see the like top of the, this tower behind the walls. And you can—you can see the glow, the flickering glow of the flames that light the tower, but it doesn't appear to be any doors or entrances, or anything."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0005"
+      },
+      "type": "movement",
+      "actors": [
+        "party"
+      ],
+      "reading": "The opening narration places the party leaving the Watcher’s Spire.",
+      "evidence": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0005",
+          "quote": "Let us begin up in the cold, wild north of Ursk, where spring comes late. As you leave the Watcher's Spire, a light snow begins to fall from the overcast sky. But to the south—"
+        }
+      ],
+      "from": "p03",
+      "to": null,
+      "completion": "underway",
+      "id": "l01"
+    },
+    {
+      "source": {
+        "startUid": "u0021",
+        "endUid": "u0026"
+      },
+      "type": "presence",
+      "actors": [
+        "party"
+      ],
+      "reading": "The party is back at the Silver Wolf for a private lunch with Roman.",
+      "evidence": [
+        {
+          "startUid": "u0021",
+          "endUid": "u0024",
+          "quote": "Back at the Silver Wolf inn, cut off from the news of the outside world, and still with a few more days to wait till you get your letters of transit, you find a pleased Roman who has scoured the market for anyone who might be willing to bring magic items to trade, and he lists a number of choices for you while serving your lunch in a private corner of the inn."
+        },
+        {
+          "startUid": "u0025",
+          "endUid": "u0026",
+          "quote": "With decisions ahead about how to approach the upcoming negotiations with the Rodnya Voknaz, once you get permission to travel, you settle into a simple lunch of venison, jerky, wrinkled apples, hard cheese, and rye bread to discuss."
+        }
+      ],
+      "place": "p04",
+      "id": "l02"
+    },
+    {
+      "source": {
+        "startUid": "u0444",
+        "endUid": "u0487"
+      },
+      "type": "presence",
+      "actors": [
+        "party"
+      ],
+      "reading": "The accepted town montage gives the party time exploring Zvervinka between inn arrangements.",
+      "evidence": [
+        {
+          "startUid": "u0451",
+          "endUid": "u0456",
+          "quote": "Rumors are spreading about how long it took you to get, you know, to seal your magic items before going into the Watcher's tower, like— just like [garbled] stories of your prowess are spreading. And so, of course, there's lots of curious onlookers, but you also have time to sort of wander round, wander the town."
+        },
+        {
+          "startUid": "u0457",
+          "endUid": "u0457",
+          "quote": "And you know I'll just give you a little vibes-based overview. And if you wanna like, stop and talk to anybody or poke anywhere over the course of the next few days."
+        },
+        {
+          "startUid": "u0667",
+          "endUid": "u0675",
+          "quote": "So over the course of the next day and a half, 2 days, you sort of wander around. You gather rumors and information. Roman bustles around. You know, feeding you and keeping his tavern well stocked with rich, well-paying guests, come to see the monster hunters, and also makes progress on finding some you know some horses for you. Can get 5 horses not cheap, but tracks down somebody willing to sell, sell 5 horses, starts gathering supplies."
+        }
+      ],
+      "place": "p02",
+      "id": "l03"
+    },
+    {
+      "source": {
+        "startUid": "u0488",
+        "endUid": "u0520"
+      },
+      "type": "presence",
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo examines the market crowd while exploring the great market.",
+      "evidence": [
+        {
+          "startUid": "u0488",
+          "endUid": "u0495",
+          "quote": "Tim, yep. The— I'm just gonna do like a— from my, you know, like soul sight's normally like you focus in on one thing, and kinda— I'm gonna do like a coarse, like, crowd soul sight. Just sort of like, you know, does this feel like just like a pretty typical, you know, kind of market crowd, or is there like anything odd, strange in particular?"
+        },
+        {
+          "startUid": "u0518",
+          "endUid": "u0520",
+          "quote": "That's kind of like the vision you saw in the, in the mirror a long time ago in Tollen, right, was a more of a trade network like that. So you like, you're definitely sucking up a lot of the energy in towns right now, because of the sort of— what's very unusual about you is like the famous hunter brought their own goods to market, is sort of—"
+        }
+      ],
+      "place": "p05",
+      "id": "l04"
+    },
+    {
+      "source": {
+        "startUid": "u0660",
+        "endUid": "u0665"
+      },
+      "type": "movement",
+      "actors": [
+        "Riswynn"
+      ],
+      "reading": "Riswynn stops at the forge to thank its workers and check that their workspace was left in order.",
+      "evidence": [
+        {
+          "startUid": "u0660",
+          "endUid": "u0665",
+          "quote": "Riswynn stops by the forge, where Roman arranged for them to do the work, to make sure that they left everything in good order and express gratitude again. I mean, obviously they were paid for the things. But just, you know, as a collegial, you know, such a nice establishment you have. Thank you so much."
+        }
+      ],
+      "from": null,
+      "to": "p06",
+      "completion": "arrived",
+      "id": "l05"
+    },
+    {
+      "source": {
+        "startUid": "u0676",
+        "endUid": "u0711"
+      },
+      "type": "presence",
+      "actors": [
+        "party"
+      ],
+      "reading": "Roman seats the party with Jela at a private table in his inn for Friday dinner.",
+      "evidence": [
+        {
+          "startUid": "u0676",
+          "endUid": "u0690",
+          "quote": "So at Friday night, the night before—like this is when the sort of population of the, of the town swells the most, or especially of the inn, as you know, it's everybody who is coming in for the market on Saturday is here, [garbled]. And, but he, he, you know, after you do your little like, you know, sort of, show and sort of introduction. Everybody comes to look at you. He sets up sort of private table aside for you, and introduces a woman, Jela Drask, who is a member of that— Rod, Rodnya Nivik. And she has come to have dinner with you."
+        },
+        {
+          "startUid": "u0708",
+          "endUid": "u0711",
+          "quote": "It is a pleasure to dine with you this evening. I am Jela Drask, of the Rodnya Nivik."
+        },
+        {
+          "startUid": "u0712",
+          "endUid": "u0713",
+          "quote": "Introduce— Delwath introduces himself, as well. Is everybody—I guess we’re all eating together."
+        }
+      ],
+      "place": "p04",
+      "id": "l06"
+    },
+    {
+      "source": {
+        "startUid": "u0992",
+        "endUid": "u1010"
+      },
+      "type": "movement",
+      "actors": [
+        "party"
+      ],
+      "reading": "The party returns to the Watcher’s tower and Lena’s room for the transit papers.",
+      "evidence": [
+        {
+          "startUid": "u0992",
+          "endUid": "u0999",
+          "quote": "So on Sunday, April nineteenth, the day after the market, you find yourself back in the Watcher's tower. Going through the routine again to seal your magic and return to Lena's room in the tower, where she has again tea laid out for you. And greets you."
+        }
+      ],
+      "from": null,
+      "to": "p07",
+      "completion": "arrived",
+      "id": "l07"
+    },
+    {
+      "source": {
+        "startUid": "u1100",
+        "endUid": "u1263"
+      },
+      "type": "movement",
+      "actors": [
+        "party"
+      ],
+      "reading": "Leave Zvervinka with Karel’s caravan and eventually part at the riverside trading post.",
+      "evidence": [
+        {
+          "startUid": "u1100",
+          "endUid": "u1105",
+          "quote": "So, morning of April twentieth, you set out with—what's his...—Karel's caravan."
+        },
+        {
+          "startUid": "u1170",
+          "endUid": "u1174",
+          "quote": "The first few days you head off south along the road. There's a fair bit of traffic coming, going to Zvervinka. This is clearly like a well traveled road. It's it's muddy enough that when the road is not wide enough for 2 caravans to pass. So one of the main things that slows down the wagons is every time somebody's coming north and somebody's going south, a whole big production. Somebody has to get off the side of the road into the mud, dislodge the wheels again, get it back. Is like, you know, just a whole big deal, right? When you're on horseback, just moving by yourself is much easier."
+        },
+        {
+          "startUid": "u1175",
+          "endUid": "u1184",
+          "quote": "But you sort of get a sense traveling with with Karel for a couple of days just about, you know, the, the merchant class in Ursk is doing quite well these days. Despite this, everybody talks about the scare last winter, like despite the scare last winter, business is booming, you know. He's getting rich selling— he he buys dragon dragon scales from Zvervinka, sells them in port to halfling traders. He's very interested in talking to Wellby, because he's talked to many halflings before, because he sells these to halfling traders who are taking them all across the Green Sea."
+        },
+        {
+          "startUid": "u1185",
+          "endUid": "u1188",
+          "quote": "And he brings—he gets spice. He works in dragon scales and spice because they’re both extremely valuable per pound, so he doesn't need a huge operation. It's basically just him. And like 4 other people in one big wagon and you know he's he's quite chatty. He's friendly. He's very pleased to be traveling with you."
+        },
+        {
+          "startUid": "u1252",
+          "endUid": "u1263",
+          "quote": "So a couple days later, you you part ways with the caravan at a small trading post on the river. The road turns south— splits. Part goes south, part goes west. There's big docks here. You get the sense that, in a month a lot of people will be going down the river by water, but at the moment the, the ice is, it's, you're— as you get into the lowlands here, you know it's more fully spring, a lot of mud. The ice is beginning to break up, but still not safe for shipping, and you turn west towards Vedmakov. I'm—"
+        }
+      ],
+      "from": "p02",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "ride",
+      "route": [
+        {
+          "reading": "Follow the southbound road with Karel’s slow caravan; a breakfast stop is separately retained."
+        }
+      ],
+      "duration": {
+        "text": "a couple of days, then a couple days later",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Two compressed narrated intervals, without imposing the earlier travel forecast"
+      },
+      "id": "l08"
+    },
+    {
+      "source": {
+        "startUid": "u1193",
+        "endUid": "u1198"
+      },
+      "type": "presence",
+      "actors": [
+        "party"
+      ],
+      "reading": "The party is making breakfast with Karel when he becomes uncommunicative.",
+      "evidence": [
+        {
+          "startUid": "u1193",
+          "endUid": "u1198",
+          "quote": "The one slightly odd thing that happens is that the the morning of the first of the second day, as you're sort of making breakfast, he just like, blinks and stares off into space for about 20 min, just not speaking, totally incommunicative, and then just picks up again a second later, as if he had— like the time has just ceased for him for 20 min. And kind of shakes his head a bit, but doesn't say anything."
+        }
+      ],
+      "place": "p08",
+      "id": "l09",
+      "relations": [
+        {
+          "type": "during",
+          "target": "l08"
+        }
+      ]
+    },
+    {
+      "source": {
+        "startUid": "u1252",
+        "endUid": "u1342"
+      },
+      "type": "movement",
+      "actors": [
+        "party"
+      ],
+      "reading": "Part from Karel, turn west, bypass Vedmakov and Yamgov, then camp near the Voknaz headquarters.",
+      "evidence": [
+        {
+          "startUid": "u1252",
+          "endUid": "u1263",
+          "quote": "So a couple days later, you you part ways with the caravan at a small trading post on the river. The road turns south— splits. Part goes south, part goes west. There's big docks here. You get the sense that, in a month a lot of people will be going down the river by water, but at the moment the, the ice is, it's, you're— as you get into the lowlands here, you know it's more fully spring, a lot of mud. The ice is beginning to break up, but still not safe for shipping, and you turn west towards Vedmakov. I'm—"
+        },
+        {
+          "startUid": "u1264",
+          "endUid": "u1268",
+          "quote": "The road is is much quieter here as you head west. It seems like a a lot of the caravans and foot traffic on the road that you are passing was running north south from the coast to Zvervinka. And the road to Vedmakov is quieter, although more heavily patrolled. And you do get stopped twice and asked to show your transit papers by small groups of apparently watchers."
+        },
+        {
+          "startUid": "u1276",
+          "endUid": "u1285",
+          "quote": "Am— You passed by the city of Vedmakov a few days later. It's a walled city that's—you don't actually pass, you'll, you pass like 6 miles north of it. You're passing along the sort of foothills of this, like between the forest and these hills, and the city itself is set up a little bit into the hills, into the mountains, watching over this, this valley you've been—you're, you've been following the course of this river. The road runs along the course of this river here for much of this distance along the valley, and the city itself is perched above the river valley very close to a waterfall that cascades down out of the mountains. That must be the source of this river,"
+        },
+        {
+          "startUid": "u1286",
+          "endUid": "u1292",
+          "quote": "Because, as you pass west of Vedmakov, you turn away from the river, and start passing through a more wooded area. Light woods. A road here hardly traveled at all. You go a whole day, seeing only one other group of travelers on the road, and no patrols. Hmm!"
+        },
+        {
+          "startUid": "u1302",
+          "endUid": "u1317",
+          "quote": "And as April begins to draw to a close, pass— on on the the last day of April you pass Yamgov, as April ends and May begins, you turn over land to ascend the last 40 miles or so to the headquarters of of the— that's, it's probably more like there, right? It's about 40 miles from from Yamgov, maybe 50. It's about a, it's about a, you know, 2-day journey, basically."
+        },
+        {
+          "startUid": "u1329",
+          "endUid": "u1337",
+          "quote": "And you can see now, as, as sun begins to set on the on the last day of— on the first day of May, you can see you’ve gotten fairly close. You can see, as sun sets in the distance, what looks like a flickering wall of fire marking, you think the headquarters of the Rodnya Voknaz."
+        },
+        {
+          "startUid": "u1338",
+          "endUid": "u1338",
+          "quote": "That's cool."
+        },
+        {
+          "startUid": "u1339",
+          "endUid": "u1342",
+          "quote": "Go to sleep when— no, nothing happens except Kong, read the message I'm sending you."
+        }
+      ],
+      "from": "p09",
+      "to": "p12",
+      "completion": "arrived",
+      "route": [
+        {
+          "reading": "Turn west at the trading post.",
+          "place": "p09"
+        },
+        {
+          "reading": "Pass about six miles north of Vedmakov without entering.",
+          "place": "p10"
+        },
+        {
+          "reading": "Pass Yamgov on the last day of April and turn overland toward the headquarters.",
+          "place": "p11"
+        }
+      ],
+      "id": "l10"
+    },
+    {
+      "source": {
+        "startUid": "u1276",
+        "endUid": "u1285"
+      },
+      "type": "observation",
+      "actors": [
+        "party"
+      ],
+      "reading": "The road gives a view of Vedmakov perched in the hills, while the party passes six miles north.",
+      "evidence": [
+        {
+          "startUid": "u1276",
+          "endUid": "u1285",
+          "quote": "Am— You passed by the city of Vedmakov a few days later. It's a walled city that's—you don't actually pass, you'll, you pass like 6 miles north of it. You're passing along the sort of foothills of this, like between the forest and these hills, and the city itself is set up a little bit into the hills, into the mountains, watching over this, this valley you've been—you're, you've been following the course of this river. The road runs along the course of this river here for much of this distance along the valley, and the city itself is perched above the river valley very close to a waterfall that cascades down out of the mountains. That must be the source of this river,"
+        }
+      ],
+      "place": "p10",
+      "mode": "local",
+      "id": "l11"
+    },
+    {
+      "source": {
+        "startUid": "u1343",
+        "endUid": "u1364"
+      },
+      "type": "observation",
+      "actors": [
+        "party"
+      ],
+      "reading": "From the nearby countryside camp, see the walled headquarters and its tower floating in water; the water is a moat.",
+      "evidence": [
+        {
+          "startUid": "u1343",
+          "endUid": "u1355",
+          "quote": "So you're now maybe two-thirds of a day's walk to, as morning comes on, May second, you expect to reach the headquarters of the of the Voknaz. The Rodnya Voknaz this afternoon, and you can see now there's a in in the distance, maybe 20 miles away, perched on a hill. There's a smooth—there's a wall of stone, or some sort of wall, outer fortification, and then behind it there's like a floating tower that has a wall of flame entirely encircling the outside of the tower."
+        },
+        {
+          "startUid": "u1360",
+          "endUid": "u1360",
+          "quote": "Oh, it's floating in water."
+        },
+        {
+          "startUid": "u1361",
+          "endUid": "u1361",
+          "quote": "Yeah, it's floating in water."
+        },
+        {
+          "startUid": "u1362",
+          "endUid": "u1363",
+          "quote": "The heck. What body of water are we in? Is it actually a river like, or a lake?"
+        },
+        {
+          "startUid": "u1364",
+          "endUid": "u1364",
+          "quote": "Oh, no, you like, it's just a, it's like a big moat, basically."
+        },
+        {
+          "startUid": "u1375",
+          "endUid": "u1376",
+          "quote": "You're sleeping just in the Urskan countryside, about a 15 miles from the headquarters of the Rodnya Voknaz."
+        }
+      ],
+      "place": "p17",
+      "mode": "local",
+      "observerPlace": "p12",
+      "id": "l12"
+    },
+    {
+      "source": {
+        "startUid": "u1377",
+        "endUid": "u1416"
+      },
+      "type": "observation",
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Kenzo reports the dream of Apollyon’s chained tomb and acid dissolving the chains; this is a dream report, not a physical excursion.",
+      "evidence": [
+        {
+          "startUid": "u1377",
+          "endUid": "u1378",
+          "quote": "Huh! This massive tomb complex, huge stone doors, wrapping chains. So look anything like what we're looking at now?"
+        },
+        {
+          "startUid": "u1379",
+          "endUid": "u1379",
+          "quote": "Are, now."
+        },
+        {
+          "startUid": "u1380",
+          "endUid": "u1382",
+          "quote": "Does this tomb, mausoleum of terror remind me of anything? Oh, yeah, okay. It—so it reminds me also of like what I saw when I— okay?"
+        },
+        {
+          "startUid": "u1383",
+          "endUid": "u1388",
+          "quote": "Yeah. So Kenzo kinda—oh, great. Yeah. So Kenzo Kenzo sort of sits up alert, in a camp and kind of looks at everybody, no, look—he looks pretty alarmed, and Kenzo says: Apollyon is awakening."
+        },
+        {
+          "startUid": "u1399",
+          "endUid": "u1409",
+          "quote": "So I have like a sense of I guess what you could say is like what his tomb looks like. Pretty, not a place you'd really ever want to go for really any kind of reason that you could possibly ever want to think about. It's pretty much the worst place you could imagine, you know, bloody mausoleum screaming, hissing, acid terror. I mean, it's kind of just all the words you don't want to think about in a place. And there are these chains, you know. There are these chains that that bind the door that he's, you know, trapped in his tomb. And yeah, so you know."
+        },
+        {
+          "startUid": "u1410",
+          "endUid": "u1416",
+          "quote": "I just had a vision where those chains are now being eaten away by acid and dissolving. So yeah, I think there's, I guess maybe we should act with a bit more urgency now, with our various plans, potentially. We're not, we're not—I mean, I could also just be, you know, having random, very specific dreams."
+        }
+      ],
+      "place": "p18",
+      "mode": "vision",
+      "observerPlace": "p12",
+      "context": "vision",
+      "id": "l13"
+    },
+    {
+      "source": {
+        "startUid": "u1449",
+        "endUid": "u1464"
+      },
+      "type": "movement",
+      "actors": [
+        "party"
+      ],
+      "reading": "Walk to the outer wall entrance of Voknaz headquarters by late afternoon.",
+      "evidence": [
+        {
+          "startUid": "u1449",
+          "endUid": "u1455",
+          "quote": "So as you spend the day walking towards the headquarters of the Rodnya Voknaz with this ominous sign in the back of your minds, by late afternoon you reach I guess, the entrance."
+        },
+        {
+          "startUid": "u1456",
+          "endUid": "u1464",
+          "quote": "You approach a wall of stone 20 feet high, with no visible doors or gates, completely surrounding the interior of whatever complex. You can see the like top of the, this tower behind the walls. And you can—you can see the glow, the flickering glow of the flames that light the tower, but it doesn't appear to be any doors or entrances, or anything."
+        }
+      ],
+      "from": "p12",
+      "to": "p21",
+      "completion": "arrived",
+      "mode": "walk",
+      "id": "l14"
+    },
+    {
+      "source": {
+        "startUid": "u1514",
+        "endUid": "u1586"
+      },
+      "type": "movement",
+      "actors": [
+        "party"
+      ],
+      "reading": "Follow the housekeeper through the wall and across the grounds to the prepared guest house.",
+      "evidence": [
+        {
+          "startUid": "u1514",
+          "endUid": "u1514",
+          "quote": "And we follow promptly."
+        },
+        {
+          "startUid": "u1525",
+          "endUid": "u1540",
+          "quote": "So the interior of this headquarters is. So as you step through this, this wall of stone, the inside, of the grounds is like weirdly bigger than the diameter of the wall as drawn. Like there's no way, like, a wall of stone is not on the outside big enough to hold giant lake, with a wall of fire burning on the lake, castle and tower, with flames coming off of the walls of the tower behind the wall of fire, plus around the shores of the lake, a cluster of various utilitarian buildings, all seemingly shaped out of single, like, almost like poured iron from a mold, pieces of gray stone."
+        },
+        {
+          "startUid": "u1541",
+          "endUid": "u1546",
+          "quote": "And she's leading you across. There's a stables, there's like a gardens and a kitchen, like a manor meeting house area, several guest houses. As like, I don't know just estimating, based on the diameter of the exterior wall, this is like 3 times as much stuff as should fit inside it."
+        },
+        {
+          "startUid": "u1577",
+          "endUid": "u1581",
+          "quote": "She leads you to a guest house where you've got 3 rooms between you, each with 2 baths already drawn with hot water, you know, everything sort of laid out for you for a fairly comfortable evening."
+        },
+        {
+          "startUid": "u1582",
+          "endUid": "u1586",
+          "quote": "And she says, she warns you, and dinner will be served in 2 h. Please be ready. Branek does not like to be kept waiting. I'll come and get you take you to dinner. You can speak of your quest and desires then."
+        }
+      ],
+      "from": "p21",
+      "to": "p14",
+      "completion": "arrived",
+      "mode": "walk",
+      "id": "l15"
+    },
+    {
+      "source": {
+        "startUid": "u1760",
+        "endUid": "u1778"
+      },
+      "type": "movement",
+      "actors": [
+        "party"
+      ],
+      "reading": "Cross the courtyard and enter the dining hall to meet Branek and his secretary.",
+      "evidence": [
+        {
+          "startUid": "u1760",
+          "endUid": "u1761",
+          "quote": "Okay, sounds great. You all head across the courtyard to dinner."
+        },
+        {
+          "startUid": "u1762",
+          "endUid": "u1763",
+          "quote": "You walk into the into the sort of dining hall area, and it's a it's a relatively quiet dinner. There's."
+        },
+        {
+          "startUid": "u1764",
+          "endUid": "u1769",
+          "quote": "The guy who's introduced as Branek Mirov is a sort of striking, maybe young middle-aged man, wearing sort of elegant furs over like, lined with a, a cloak, elegant cloak lined with furs. Dark skin, like a striking appearance, handsome, and he's sitting at the head of the table."
+        },
+        {
+          "startUid": "u1770",
+          "endUid": "u1778",
+          "quote": "As just him place sets for 6. So the 5 of you plus him, and then in the corner, sort of crouch, not— sort of sitting at like a desk, like a secretary or something, like taking notes, is a, a younger man sort of almost like mousey, shy looking, wearing a, a, a hood that sort of pulled mostly over his face, much less nice clothes. But it's basically just seems to be you and and Branek. Except for this, this secretary, or so obviously like somebody is recording what happens at these things, and, you know, keeping notes. Like the guys gotta scroll out and is like, you know, clearly writing stuff down. This is not a secret conversation."
+        }
+      ],
+      "from": "p14",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "walk",
+      "id": "l16"
+    },
+    {
+      "source": {
+        "startUid": "u2106",
+        "endUid": "u2120"
+      },
+      "type": "movement",
+      "actors": [
+        "party"
+      ],
+      "reading": "Branek proposes taking the preserved leader through a portal beneath the castle to Frostfell; the party accepts the quest, but has not entered the portal.",
+      "evidence": [
+        {
+          "startUid": "u2106",
+          "endUid": "u2110",
+          "quote": "There are portals beneath our castle that can take you to this place. Must bring his body, and when the fire is quenched, raise him from the dead."
+        },
+        {
+          "startUid": "u2111",
+          "endUid": "u2112",
+          "quote": "When you return our leader to us alive, we will grant you this thing you seek."
+        },
+        {
+          "startUid": "u2113",
+          "endUid": "u2113",
+          "quote": "Done."
+        },
+        {
+          "startUid": "u2118",
+          "endUid": "u2119",
+          "quote": "The portals here in this building, you said to Frostfell?"
+        },
+        {
+          "startUid": "u2120",
+          "endUid": "u2120",
+          "quote": "Behind the protections of our wards."
+        }
+      ],
+      "from": "p13",
+      "to": "p19",
+      "completion": "planned",
+      "context": "planned",
+      "mode": "portal",
+      "id": "l17"
+    },
+    {
+      "source": {
+        "startUid": "u2455",
+        "endUid": "u2464"
+      },
+      "type": "movement",
+      "actors": [
+        "party"
+      ],
+      "reading": "Return from dinner to their guest quarters for the evening.",
+      "evidence": [
+        {
+          "startUid": "u2455",
+          "endUid": "u2464",
+          "quote": "So, as dinner winds up, and you return. There's couple more things I want to do before we end for tonight. I think we have time. So you go back to your quarters. You can sort of think about or discuss at some point what you like. Like you said, they'll give you magic items to resist the extreme temperatures and also flying carpet that you could fly on. I'm— that's— that's all. In the morning. Anything else you wanna do this evening?"
+        }
+      ],
+      "from": "p15",
+      "to": "p14",
+      "completion": "arrived",
+      "id": "l18"
+    },
+    {
+      "source": {
+        "startUid": "u2474",
+        "endUid": "u2527"
+      },
+      "type": "presence",
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "Kenzo and Wellby are in their shared guest room when the invisible visitor wakes Kenzo.",
+      "evidence": [
+        {
+          "startUid": "u2474",
+          "endUid": "u2476",
+          "quote": "I guess. Let's see, I don't know where everybody's sleeping but, Kenzo, and whoever's sleeping in the room, Kenzo's room are quietly awoken, somebody gently shaking your so—shoulder. Somebody invisible, you can't see them, and there's like—"
+        },
+        {
+          "startUid": "u2504",
+          "endUid": "u2504",
+          "quote": "Who's in the room with me?"
+        },
+        {
+          "startUid": "u2505",
+          "endUid": "u2506",
+          "quote": "I don't know who is in the room with Kenzo? Seeker?"
+        },
+        {
+          "startUid": "u2507",
+          "endUid": "u2507",
+          "quote": "Like he's usually at all the—"
+        },
+        {
+          "startUid": "u2508",
+          "endUid": "u2508",
+          "quote": "Me—"
+        },
+        {
+          "startUid": "u2509",
+          "endUid": "u2510",
+          "quote": "Definitely not the elf. Yeah."
+        },
+        {
+          "startUid": "u2511",
+          "endUid": "u2511",
+          "quote": "Yeah, Wellby. But Schwartz is not back yet, so—"
+        },
+        {
+          "startUid": "u2512",
+          "endUid": "u2512",
+          "quote": "Oh, shoot!"
+        },
+        {
+          "startUid": "u2513",
+          "endUid": "u2514",
+          "quote": "Well— I tell Schwartz, or I tell Wellby to telepathically tell everybody else what's happening."
+        },
+        {
+          "startUid": "u2515",
+          "endUid": "u2515",
+          "quote": "And I do exactly that. What's happening?"
+        },
+        {
+          "startUid": "u2516",
+          "endUid": "u2518",
+          "quote": "Invisible person just woke up Kenzo by shaking him on the shoulder, and said in Drankorian: Quick! Get your companions, and also for your safety and mine, you cannot know who I am."
+        }
+      ],
+      "place": "p16",
+      "id": "l19"
+    },
+    {
+      "source": {
+        "startUid": "u2530",
+        "endUid": "u2545"
+      },
+      "type": "movement",
+      "actors": [
+        "Delwath",
+        "Riswynn",
+        "Seeker"
+      ],
+      "reading": "The companions gather quietly in Kenzo and Wellby’s room for the secret discussion.",
+      "evidence": [
+        {
+          "startUid": "u2530",
+          "endUid": "u2530",
+          "quote": "Sneak, in."
+        },
+        {
+          "startUid": "u2531",
+          "endUid": "u2531",
+          "quote": "Slumber party in Kenzo and Wellby's."
+        },
+        {
+          "startUid": "u2532",
+          "endUid": "u2535",
+          "quote": "Switches to— when he sees Delwath come in, he switches to Elvish. But the rest of you speak Elvish? Or he switches to Sylvan? Is this better?"
+        },
+        {
+          "startUid": "u2536",
+          "endUid": "u2536",
+          "quote": "Yes."
+        },
+        {
+          "startUid": "u2537",
+          "endUid": "u2537",
+          "quote": "Cannot see—"
+        },
+        {
+          "startUid": "u2538",
+          "endUid": "u2539",
+          "quote": "It. Yeah, I speak that."
+        },
+        {
+          "startUid": "u2540",
+          "endUid": "u2540",
+          "quote": "Sylvan. Okay, I see, speak languages."
+        },
+        {
+          "startUid": "u2541",
+          "endUid": "u2541",
+          "quote": "With it—"
+        },
+        {
+          "startUid": "u2542",
+          "endUid": "u2542",
+          "quote": "Perhaps one of you can translate in—"
+        },
+        {
+          "startUid": "u2543",
+          "endUid": "u2543",
+          "quote": "Go ahead!"
+        },
+        {
+          "startUid": "u2544",
+          "endUid": "u2544",
+          "quote": "Dunmari, do you speak?"
+        },
+        {
+          "startUid": "u2545",
+          "endUid": "u2545",
+          "quote": "Dunmari. Yes, go ahead."
+        }
+      ],
+      "from": "p14",
+      "to": "p16",
+      "completion": "arrived",
+      "id": "l20"
+    },
+    {
+      "source": {
+        "startUid": "u2638",
+        "endUid": "u2642"
+      },
+      "type": "movement",
+      "actors": [
+        "party"
+      ],
+      "reading": "The visitor proposes teleporting to the outskirts of the vampire kingdom; the final choice accepts the vampire mission without playing a departure.",
+      "evidence": [
+        {
+          "startUid": "u2638",
+          "endUid": "u2642",
+          "quote": "You do this, you must leave in the next 10 min. Why is that? Teleport out of this place and to the outskirts of the vampire's kingdom."
+        },
+        {
+          "startUid": "u3379",
+          "endUid": "u3379",
+          "quote": "Oh, so if we resurrect the dude, there's gonna be a peace treaty with the vampires. That's, that's, that's the deal. Oh, fuck that shit. Then let's go fucking kill the vampires. We can't let it, we can't let there be a peace treaty between Ursk and the vampires."
+        },
+        {
+          "startUid": "u3380",
+          "endUid": "u3381",
+          "quote": "Implication is that there are emissaries of Kinzal in the Vampire kingdom right now negotiating a peace."
+        },
+        {
+          "startUid": "u3382",
+          "endUid": "u3382",
+          "quote": "Oh!"
+        },
+        {
+          "startUid": "u3383",
+          "endUid": "u3383",
+          "quote": "Which is why they were all like, don't worry about the bats, any day now."
+        },
+        {
+          "startUid": "u3384",
+          "endUid": "u3384",
+          "quote": "And I—so there's time pressure."
+        },
+        {
+          "startUid": "u3385",
+          "endUid": "u3385",
+          "quote": "If we it—"
+        },
+        {
+          "startUid": "u3386",
+          "endUid": "u3387",
+          "quote": "Now it, it's not that, I mean conceptually, we could go rid the world of a vampire even if it— but the, it would be considerably more destabilizing in Ursk, I think, in some level. And this guy's not going to be successful."
+        },
+        {
+          "startUid": "u3388",
+          "endUid": "u3388",
+          "quote": "I see. Oh, then we should definitely go kill the vampires now, right? We kill the vampires now, let the coup happen, and then make sure that Ursk is like strong and a strong ally when the bigger like battle with Apollyon happens?"
+        },
+        {
+          "startUid": "u3389",
+          "endUid": "u3389",
+          "quote": "That could matter. Yeah."
+        },
+        {
+          "startUid": "u3390",
+          "endUid": "u3391",
+          "quote": "Right, cause if we do that, if we do the, the fucking resurrect the dude, and then they make peace with the vampires, then that's gonna make Ursk hella weak later on, when like the big giant, you know—"
+        },
+        {
+          "startUid": "u3392",
+          "endUid": "u3393",
+          "quote": "Del, Delwath doesn't need convinced. I mean, Delwath is completely convinced killing the vampires, the morally correct thing to do. It's just— is it worth the risk?"
+        },
+        {
+          "startUid": "u3394",
+          "endUid": "u3397",
+          "quote": "Yeah, because we can still teleport in and take the fucking jade if we want like to do our like short term mission best of both worlds. I'm now convinced. Let's go fucking kill the vampires."
+        },
+        {
+          "startUid": "u3398",
+          "endUid": "u3398",
+          "quote": "Hurt it."
+        },
+        {
+          "startUid": "u3399",
+          "endUid": "u3399",
+          "quote": "Good."
+        },
+        {
+          "startUid": "u3403",
+          "endUid": "u3407",
+          "quote": "I think they're hugely more possible unintended consequences from killing the vampire. I’m thinking back to our experience in Dunmar."
+        },
+        {
+          "startUid": "u3408",
+          "endUid": "u3409",
+          "quote": "Yeah. So our goal really is to, is to destabilize Ursk, so we can ally with the ancient white dragon."
+        },
+        {
+          "startUid": "u3410",
+          "endUid": "u3414",
+          "quote": "Right, there, there could be a hundred different outcomes of killing the vampire, and I think Wellby feels bad if we don't go do that, like— I think he would regret not going and killing the vampire."
+        },
+        {
+          "startUid": "u3415",
+          "endUid": "u3415",
+          "quote": "Yeah, I think we're totally—"
+        },
+        {
+          "startUid": "u3416",
+          "endUid": "u3416",
+          "quote": "Hey!"
+        },
+        {
+          "startUid": "u3417",
+          "endUid": "u3418",
+          "quote": "Okay, great."
+        },
+        {
+          "startUid": "u3419",
+          "endUid": "u3419",
+          "quote": "Seeker's too."
+        }
+      ],
+      "from": "p16",
+      "to": "p20",
+      "completion": "planned",
+      "context": "planned",
+      "mode": "teleport",
+      "id": "l21"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-095",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-095/cleaned/dunmari-frontier-095-session.yaml",
+    "sessionYamlSha256": "d0fb8ded05e5590d15f9ce08959d57ebac77d36b53212e7a73daf8310e76491b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-095/cleaned/dunmari-frontier-095-transcript.md",
+    "transcriptSha256": "a03a9463936ee16aa43c29c213e6037d9524ffba01992302c6397c103b7495e5"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0011"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0012",
+        "endUid": "u0020"
+      },
+      "category": "session_framing",
+      "note": "The overview moves to other lands and the offscreen ship; the initial Spire departure is retained as gameplay."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0021",
+        "endUid": "u0035"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0036",
+        "endUid": "u0114"
+      },
+      "category": "meta_discussion",
+      "note": "Out-of-character route comparison ends with the DM explicitly requesting an in-character conversation."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0115",
+        "endUid": "u3053"
+      },
+      "category": "gameplay",
+      "note": "Includes telepathic party planning and brief rules/asides within active social play."
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u3054",
+        "endUid": "u3426"
+      },
+      "category": "meta_discussion",
+      "note": "Extended end-of-session choice of the next adventure; the vampire mission is chosen but no departure is enacted."
+    }
+  ]
+}
