@@ -1,0 +1,2149 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmar-frontier-080",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-080/cleaned/dunmar-frontier-080-session.yaml",
+    "sessionYamlSha256": "393ee40a20a81447c44eb737263ff80c912132947d2a7f658e4bea9d3c674bb3",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-080/cleaned/dunmar-frontier-080-transcript.md",
+    "transcriptSha256": "de5d27ede943bae9d2e91135f3fc43154d8cab048c2b37f47c6ab847efc0993b"
+  },
+  "places": {
+    "p01": {
+      "label": "Airship",
+      "kind": "vessel",
+      "evidence": [
+        {
+          "startUid": "u0012",
+          "endUid": "u0014",
+          "quote": "DM: It's a journey to Tollen of almost 1,400 miles, and with your airship routine at this point, um, you're going about 220 miles a day."
+        },
+        {
+          "startUid": "u0200",
+          "endUid": "u0201",
+          "quote": "Delwath: Delwath comes out like onto the deck from like the makeshift little kitchen. He's like looking around."
+        },
+        {
+          "startUid": "u1308",
+          "endUid": "u1308",
+          "quote": "Seeker: No, we fixed that."
+        },
+        {
+          "startUid": "u1510",
+          "endUid": "u1511",
+          "quote": "Seeker: So telepathically, I do wanna point out that the one thing that is on the ship is the phasing stone apparatus, which is like literally priceless, so w- it, I think if-"
+        }
+      ],
+      "vaultPath": "Things/Ships/Vindristjarna.md",
+      "note": "Session 80 (DuFr) identifies this ship as Vindristjarna. Its later furnished layout is not imported into this session.",
+      "mobile": true
+    },
+    "p02": {
+      "label": "Land of the orcs",
+      "kind": "departure area",
+      "evidence": [
+        {
+          "startUid": "u0007",
+          "endUid": "u0011",
+          "quote": "DM: Okay. So, you leave the land of the orcs early in the morning as the sun is rising on December 10th, and head north."
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Xurkhaz/Uzgukhar.md",
+      "note": "Session 80 (DuFr) identifies the December 10 departure as Uzgukhar; the transcript uses the broader label land of the orcs."
+    },
+    "p03": {
+      "label": "Plaguelands",
+      "kind": "region",
+      "evidence": [
+        {
+          "startUid": "u0022",
+          "endUid": "u0024",
+          "quote": "DM: The first several days you pass over the deserted wastelands of the Plaguelands, dusty dry rivers."
+        },
+        {
+          "startUid": "u0241",
+          "endUid": "u0241",
+          "quote": "Delwath: This is the Plaguelands, people."
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Plaguelands.md"
+    },
+    "p04": {
+      "label": "Ruined city / Isingue",
+      "kind": "ruined city",
+      "evidence": [
+        {
+          "startUid": "u0025",
+          "endUid": "u0026",
+          "quote": "DM: At one point you see what looks like the ruins of a great city along a river. You see a burnt, a vast burnt forest to the east."
+        },
+        {
+          "startUid": "u0145",
+          "endUid": "u0147",
+          "quote": "DM: So this was once a big city, right? There's like walls."
+        },
+        {
+          "startUid": "u0160",
+          "endUid": "u0163",
+          "quote": "DM: About, about 300 feet from the surface you look and you can see that the... Like looking from the bottom of the ship you can see that the... You don't see anything moving, but the ground is sort of crawling."
+        },
+        {
+          "startUid": "u1963",
+          "endUid": "u1965",
+          "quote": "DM: Um, you know, of course, it was destroyed in the Great War, covered by the plague. Used to be supposedly this grand place on the river."
+        },
+        {
+          "startUid": "u1966",
+          "endUid": "u1966",
+          "quote": "Wellby: Isingue, where the two rivers come together?"
+        },
+        {
+          "startUid": "u1971",
+          "endUid": "u1972",
+          "quote": "Wellby: Yeah, we flew over it a few days ago. Well, we've got this, uh-"
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Isingue.md",
+      "note": "The initially unnamed ruins are identified retrospectively in the conversation with Guy at u1963–u1977 and in Session 80 (DuFr). The visit is an aerial flyover.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p03",
+          "evidence": [
+            {
+              "startUid": "u0222",
+              "endUid": "u0222",
+              "quote": "Seeker: Well I just wanted to see what's happening in this, this, uh, abandoned city that we're flying over right now, because we're flying over it and it was just an opportunity to find out, you know, what-"
+            },
+            {
+              "startUid": "u0241",
+              "endUid": "u0241",
+              "quote": "Delwath: This is the Plaguelands, people."
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Mostreve Hills",
+      "kind": "upland region",
+      "evidence": [
+        {
+          "startUid": "u0494",
+          "endUid": "u0497",
+          "quote": "DM: ...you pass through the Plaguelands, and by December 13th, in the middle of the night, maybe a little bit more than three days after you left the orcs, you cross the Mostreve Hills, that line of hills, just..."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Sembara/Mostreve Hills.md"
+    },
+    "p06": {
+      "label": "Tyrwingha",
+      "kind": "realm",
+      "evidence": [
+        {
+          "startUid": "u0501",
+          "endUid": "u0502",
+          "quote": "DM: Um, into, um, um, Tyrwingha."
+        },
+        {
+          "startUid": "u0504",
+          "endUid": "u0507",
+          "quote": "DM: Uh, Tyrwingha is a, a, um... It's currently part of the, the crown... It's, it's part of Sembara."
+        },
+        {
+          "startUid": "u0819",
+          "endUid": "u0819",
+          "quote": "DM: Sorry, the expanse of Tyrwingha."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Sembara/Tyrwingha/Tyrwingha.md"
+    },
+    "p07": {
+      "label": "Western Gulf",
+      "kind": "gulf",
+      "evidence": [
+        {
+          "startUid": "u0535",
+          "endUid": "u0536",
+          "quote": "DM: Uh, sorry, as the sun rises on Dec- on December 14th, you can see the Western Gulf in the, in the distance, the shimmering sea that Wellby spent most of his childhood sailing around."
+        },
+        {
+          "startUid": "u0641",
+          "endUid": "u0643",
+          "quote": "Seeker: Since we're about to cross the Western Gulf in the air, what was the, uh..."
+        },
+        {
+          "startUid": "u0950",
+          "endUid": "u0950",
+          "quote": "DM: So it takes you most of the day and into the next night to cross the gulf."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Sembara/Western Gulf.md"
+    },
+    "p08": {
+      "label": "Deep canyon near the gulf coast",
+      "kind": "underwater canyon",
+      "evidence": [
+        {
+          "startUid": "u0847",
+          "endUid": "u0849",
+          "quote": "DM: In the, just the edge of your reach in the sort of deeper ocean as offshore, you can feel there's like a, a, a place that feels cold and dark that you touch."
+        },
+        {
+          "startUid": "u0855",
+          "endUid": "u0856",
+          "quote": "DM: ... it's a, it's a, it's a chasm. It's like a chasm that goes down-"
+        },
+        {
+          "startUid": "u0858",
+          "endUid": "u0858",
+          "quote": "DM: ... right near the coast."
+        },
+        {
+          "startUid": "u0881",
+          "endUid": "u0881",
+          "quote": "DM: A, a strange sensation because the floor of the ocean doesn't seem to follow a sort of natural..."
+        },
+        {
+          "startUid": "u0885",
+          "endUid": "u0887",
+          "quote": "DM: It's almost like what it feels like to you is there was a terrain long ago. There was a canyon here long ago and the ocean, and the land flooded."
+        }
+      ],
+      "note": "Sensed through Commune with Nature; Kenzo does not physically descend into it.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p07",
+          "evidence": [
+            {
+              "startUid": "u0829",
+              "endUid": "u0833",
+              "quote": "DM: And as, um, you know, as the sun sets and, um, you're reaching the shores, Kenzo, you know, as Kenzo is transitioning, Kenzo, you meditate for a moment as you're connecting to the airship and then to the ocean shores near you, the sea."
+            },
+            {
+              "startUid": "u0834",
+              "endUid": "u0836",
+              "quote": "DM: You can feel that the gu- you feel the gulf teeming with life. Mm-hmm. It's full of fish."
+            },
+            {
+              "startUid": "u0847",
+              "endUid": "u0849",
+              "quote": "DM: In the, just the edge of your reach in the sort of deeper ocean as offshore, you can feel there's like a, a, a place that feels cold and dark that you touch."
+            },
+            {
+              "startUid": "u0855",
+              "endUid": "u0856",
+              "quote": "DM: ... it's a, it's a, it's a chasm. It's like a chasm that goes down-"
+            },
+            {
+              "startUid": "u0885",
+              "endUid": "u0887",
+              "quote": "DM: It's almost like what it feels like to you is there was a terrain long ago. There was a canyon here long ago and the ocean, and the land flooded."
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Inlet at the mouth of the Volta",
+      "kind": "inlet",
+      "evidence": [
+        {
+          "startUid": "u1217",
+          "endUid": "u1218",
+          "quote": "DM: ... you, you come across, so you fly across the, this, like, little gulf where the, the, the mouth of the Volta."
+        },
+        {
+          "startUid": "u1232",
+          "endUid": "u1232",
+          "quote": "DM: Not the harbor, I mean the, the, the-"
+        },
+        {
+          "startUid": "u1234",
+          "endUid": "u1234",
+          "quote": "DM: ...inlet."
+        },
+        {
+          "startUid": "u1238",
+          "endUid": "u1238",
+          "quote": "DM: Passing through the inlet, there's like a bunch of small fishing boats on the water, um, that are..."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Sembara/Gulf of Tollen.md",
+      "note": "Gulf of Tollen resolves the small gulf at the Volta mouth. The DM corrects harbor to inlet here; this is distinct from the city harbor."
+    },
+    "p10": {
+      "label": "Volta River at Tollen",
+      "kind": "river",
+      "evidence": [
+        {
+          "startUid": "u1219",
+          "endUid": "u1221",
+          "quote": "DM: So Tollen is on the Volta River. Um, and it's, I mean, the, where it is on the river is still quite tidal, right?"
+        },
+        {
+          "startUid": "u3196",
+          "endUid": "u3197",
+          "quote": "DM: ... swimming in the river like a gi- the shape of like a strange creature."
+        },
+        {
+          "startUid": "u3202",
+          "endUid": "u3202",
+          "quote": "DM: No, no, no, you're just swimming in the river."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Sembara/Rivers/Volta Watershed/Volta.md"
+    },
+    "p11": {
+      "label": "Tollen",
+      "kind": "city",
+      "evidence": [
+        {
+          "startUid": "u1010",
+          "endUid": "u1012",
+          "quote": "DM: Um, so Tollen, Tollen is a city. It's a major trading city."
+        },
+        {
+          "startUid": "u1219",
+          "endUid": "u1221",
+          "quote": "DM: So Tollen is on the Volta River. Um, and it's, I mean, the, where it is on the river is still quite tidal, right?"
+        },
+        {
+          "startUid": "u1260",
+          "endUid": "u1260",
+          "quote": "DM: So you can see as you begin to approach the city-"
+        },
+        {
+          "startUid": "u1375",
+          "endUid": "u1376",
+          "quote": "DM: So a- so as you, um—so Tollen is a, Tollen’s a quite welcoming city, in fact. Like, it's not like Chardon."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Tollen.md"
+    },
+    "p12": {
+      "label": "Tollen harbor before the bridge",
+      "kind": "harbor",
+      "evidence": [
+        {
+          "startUid": "u1327",
+          "endUid": "u1329",
+          "quote": "DM: And you can see there's this harbor area before the bridge where there's like 30 ships that are mostly moored in the river, and there are these really busy, bustling quays along the side of the, of, of Tollen, along the, the sort of oldest, like, cramped, densest part of the city is just full of activity of, like, small boats unloading from these larger an- mer- merchant ships anchored."
+        },
+        {
+          "startUid": "u1433",
+          "endUid": "u1435",
+          "quote": "DM: ... the like captain of the, of the, um, the guard, and comes back and says, “Here is fine.”"
+        },
+        {
+          "startUid": "u1437",
+          "endUid": "u1437",
+          "quote": "DM: “Please come no closer to the city.”"
+        },
+        {
+          "startUid": "u2004",
+          "endUid": "u2004",
+          "quote": "Wellby: The flying ship docked in the harbor above the water."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Port of Tollen.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1327",
+              "endUid": "u1329",
+              "quote": "DM: And you can see there's this harbor area before the bridge where there's like 30 ships that are mostly moored in the river, and there are these really busy, bustling quays along the side of the, of, of Tollen, along the, the sort of oldest, like, cramped, densest part of the city is just full of activity of, like, small boats unloading from these larger an- mer- merchant ships anchored."
+            },
+            {
+              "startUid": "u1330",
+              "endUid": "u1330",
+              "quote": "DM: And, um, all under the watchful eye of, like, a castle basically at the mouth of, at the entrance to Tollen."
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Busy docks of Tollen",
+      "kind": "docks",
+      "evidence": [
+        {
+          "startUid": "u1574",
+          "endUid": "u1574",
+          "quote": "DM: So you head with the, with their boat."
+        },
+        {
+          "startUid": "u1577",
+          "endUid": "u1578",
+          "quote": "DM: To the busy docks of Tollen."
+        },
+        {
+          "startUid": "u1579",
+          "endUid": "u1579",
+          "quote": "DM: This is like the oldest part of the city."
+        },
+        {
+          "startUid": "u1580",
+          "endUid": "u1581",
+          "quote": "DM: [gentle music] Um, the most, um, there's like, you know, trade everywhere. There's, um, merchants unloading ships."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1577",
+              "endUid": "u1578",
+              "quote": "DM: To the busy docks of Tollen."
+            },
+            {
+              "startUid": "u1579",
+              "endUid": "u1579",
+              "quote": "DM: This is like the oldest part of the city."
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Scrollwright Street",
+      "kind": "street",
+      "evidence": [
+        {
+          "startUid": "u1854",
+          "endUid": "u1861",
+          "quote": "DM: Okay. So, um, Wellby and Seeker head away from the sort of, um, busy, uh, sort of hectic part of Tollen, the, away from the, um, uh, the, um, the, the sort of, um, ancient, the oldest part of the city, the tight narrow streets, um, and head to, um, Scrollwright Street, which is this big broad street that runs in between, um, the university area and, um, where there's a cluster of temples and sort of, um, uh—And sort of big buildings and things like that."
+        },
+        {
+          "startUid": "u1862",
+          "endUid": "u1862",
+          "quote": "DM: And there's this broad street that's lined with booksellers and mapmakers and scroll makers and people selling minor magical charms and-"
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Places/Scrollwright Street.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1854",
+              "endUid": "u1861",
+              "quote": "DM: Okay. So, um, Wellby and Seeker head away from the sort of, um, busy, uh, sort of hectic part of Tollen, the, away from the, um, uh, the, um, the, the sort of, um, ancient, the oldest part of the city, the tight narrow streets, um, and head to, um, Scrollwright Street, which is this big broad street that runs in between, um, the university area and, um, where there's a cluster of temples and sort of, um, uh—And sort of big buildings and things like that."
+            }
+          ]
+        }
+      ]
+    },
+    "p15": {
+      "label": "Guy Marchand’s map shop",
+      "kind": "shop",
+      "evidence": [
+        {
+          "startUid": "u1870",
+          "endUid": "u1871",
+          "quote": "DM: Something like that. Um, the, the mapmaker's name is, um, Guy Marchand, and he's-"
+        },
+        {
+          "startUid": "u1879",
+          "endUid": "u1879",
+          "quote": "DM: But you, he was, you know, this was the shop that, you know, you always would come into."
+        },
+        {
+          "startUid": "u1883",
+          "endUid": "u1886",
+          "quote": "DM: ... first book on, on mapmaking. Um, and you walk along the street, like just kind of remembering, remembering this path."
+        },
+        {
+          "startUid": "u1890",
+          "endUid": "u1891",
+          "quote": "DM: So you walk along the street and, and you see his shop and it's, it's probably like 3:00 in the afternoon at this point, 2:00 in the afternoon. Um..."
+        },
+        {
+          "startUid": "u1892",
+          "endUid": "u1892",
+          "quote": "DM: And you enter and he's, his shop is like chaotic."
+        },
+        {
+          "startUid": "u1902",
+          "endUid": "u1903",
+          "quote": "DM: And he, he, as the bell rings as he open, as the door opens, he's, he just says, \"Yes, can I help you?\" not looking up."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p14",
+          "evidence": [
+            {
+              "startUid": "u1883",
+              "endUid": "u1886",
+              "quote": "DM: ... first book on, on mapmaking. Um, and you walk along the street, like just kind of remembering, remembering this path."
+            },
+            {
+              "startUid": "u1890",
+              "endUid": "u1891",
+              "quote": "DM: So you walk along the street and, and you see his shop and it's, it's probably like 3:00 in the afternoon at this point, 2:00 in the afternoon. Um..."
+            }
+          ]
+        }
+      ]
+    },
+    "p16": {
+      "label": "Southbridge",
+      "kind": "district",
+      "evidence": [
+        {
+          "startUid": "u1703",
+          "endUid": "u1705",
+          "quote": "DM: So that's like where the like fanciest... And most of the, a lot of the, um, a lot of the tattoo parlors are actually directly south of the bridge, um, w- in this like sort of are—it's not a hugely—the south side of the river’s not a hugely settled."
+        },
+        {
+          "startUid": "u1706",
+          "endUid": "u1707",
+          "quote": "DM: But the Southbridge District is like, um, the center of the, of the dye trade and where a lot of the tattoo parlors are."
+        },
+        {
+          "startUid": "u2272",
+          "endUid": "u2275",
+          "quote": "DM: Um, you, uh, find your, you find your way across the bridge into this Southbridge neighborhood."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Wards/Southbridge.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u1703",
+              "endUid": "u1705",
+              "quote": "DM: So that's like where the like fanciest... And most of the, a lot of the, um, a lot of the tattoo parlors are actually directly south of the bridge, um, w- in this like sort of are—it's not a hugely—the south side of the river’s not a hugely settled."
+            },
+            {
+              "startUid": "u1706",
+              "endUid": "u1707",
+              "quote": "DM: But the Southbridge District is like, um, the center of the, of the dye trade and where a lot of the tattoo parlors are."
+            }
+          ]
+        }
+      ]
+    },
+    "p17": {
+      "label": "Inkwright Street",
+      "kind": "street",
+      "evidence": [
+        {
+          "startUid": "u2276",
+          "endUid": "u2277",
+          "quote": "DM: Um, and there's, there's a, there's a, um, a street basically, Inkwright Street."
+        },
+        {
+          "startUid": "u2278",
+          "endUid": "u2285",
+          "quote": "DM: Um, that runs just from the southern edge of the bridge and, um, basically everybody has pointed you to, um, your, both your intuition and your, and your sort of rumor gathering has pointed you towards, um, the shop of Cecilia Lister who is the, like, supposedly the mo- among the more renowned tattoo—(Nice.)—artists. Although people say she's stern. Like, she doesn’t, she doesn’t tolerate, like— she'll take one look at you and decide if you're worthy of her tattoos or not."
+        }
+      ],
+      "note": "The transcript names Inkwright Street. The modern Inkspell Lane note has a similar function but supplies no alias proving the two names are identical, so no vault match is asserted.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p16",
+          "evidence": [
+            {
+              "startUid": "u2272",
+              "endUid": "u2275",
+              "quote": "DM: Um, you, uh, find your, you find your way across the bridge into this Southbridge neighborhood."
+            },
+            {
+              "startUid": "u2276",
+              "endUid": "u2277",
+              "quote": "DM: Um, and there's, there's a, there's a, um, a street basically, Inkwright Street."
+            },
+            {
+              "startUid": "u2278",
+              "endUid": "u2285",
+              "quote": "DM: Um, that runs just from the southern edge of the bridge and, um, basically everybody has pointed you to, um, your, both your intuition and your, and your sort of rumor gathering has pointed you towards, um, the shop of Cecilia Lister who is the, like, supposedly the mo- among the more renowned tattoo—(Nice.)—artists. Although people say she's stern. Like, she doesn’t, she doesn’t tolerate, like— she'll take one look at you and decide if you're worthy of her tattoos or not."
+            }
+          ]
+        }
+      ]
+    },
+    "p18": {
+      "label": "Cecilia Lister’s tattoo shop",
+      "kind": "shop",
+      "evidence": [
+        {
+          "startUid": "u2278",
+          "endUid": "u2285",
+          "quote": "DM: Um, that runs just from the southern edge of the bridge and, um, basically everybody has pointed you to, um, your, both your intuition and your, and your sort of rumor gathering has pointed you towards, um, the shop of Cecilia Lister who is the, like, supposedly the mo- among the more renowned tattoo—(Nice.)—artists. Although people say she's stern. Like, she doesn’t, she doesn’t tolerate, like— she'll take one look at you and decide if you're worthy of her tattoos or not."
+        },
+        {
+          "startUid": "u2290",
+          "endUid": "u2290",
+          "quote": "Kenzo: I go to her shop."
+        },
+        {
+          "startUid": "u2295",
+          "endUid": "u2296",
+          "quote": "DM: Um, so you enter, her shop is this small, um-"
+        },
+        {
+          "startUid": "u2323",
+          "endUid": "u2323",
+          "quote": "DM: Uh, there's like a curtain across so you, like, enter the door and then there's this, like, little area with a curtain across."
+        },
+        {
+          "startUid": "u2330",
+          "endUid": "u2330",
+          "quote": "DM: “Can I help you?”"
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p17",
+          "evidence": [
+            {
+              "startUid": "u2276",
+              "endUid": "u2277",
+              "quote": "DM: Um, and there's, there's a, there's a, um, a street basically, Inkwright Street."
+            },
+            {
+              "startUid": "u2278",
+              "endUid": "u2285",
+              "quote": "DM: Um, that runs just from the southern edge of the bridge and, um, basically everybody has pointed you to, um, your, both your intuition and your, and your sort of rumor gathering has pointed you towards, um, the shop of Cecilia Lister who is the, like, supposedly the mo- among the more renowned tattoo—(Nice.)—artists. Although people say she's stern. Like, she doesn’t, she doesn’t tolerate, like— she'll take one look at you and decide if you're worthy of her tattoos or not."
+            },
+            {
+              "startUid": "u2295",
+              "endUid": "u2296",
+              "quote": "DM: Um, so you enter, her shop is this small, um-"
+            }
+          ]
+        }
+      ]
+    },
+    "p19": {
+      "label": "Market streets north of the bridge",
+      "kind": "market area",
+      "evidence": [
+        {
+          "startUid": "u2465",
+          "endUid": "u2467",
+          "quote": "DM: As Kenzo's talking to the tattoo artist, Delwath is sort of poking around, uh, probably finding your way towards like one of the main market streets, which is really basically just the north side of the bridge, the opposite side of the bridge from where Kenzo is."
+        },
+        {
+          "startUid": "u2468",
+          "endUid": "u2469",
+          "quote": "DM: Um, heading across, you know, asking around."
+        },
+        {
+          "startUid": "u2628",
+          "endUid": "u2629",
+          "quote": "Delwath: You know, he’ll definitely be into like, “Yeah, no, I’ll take that set of copper pots. That looks great. Send it to the ship.”"
+        },
+        {
+          "startUid": "u2763",
+          "endUid": "u2763",
+          "quote": "DM: So, so I mean, you spend, say you spend like 150 gold."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p20",
+          "evidence": [
+            {
+              "startUid": "u2465",
+              "endUid": "u2467",
+              "quote": "DM: As Kenzo's talking to the tattoo artist, Delwath is sort of poking around, uh, probably finding your way towards like one of the main market streets, which is really basically just the north side of the bridge, the opposite side of the bridge from where Kenzo is."
+            },
+            {
+              "startUid": "u3786",
+              "endUid": "u3787",
+              "quote": "DM: Up in, uh, Bridgeward, where the north side of the bridge, if you keep going west from there, there's a few. Where, where Melindir is, there's some trade emissaries and things."
+            }
+          ]
+        }
+      ]
+    },
+    "p20": {
+      "label": "Bridgeward",
+      "kind": "district",
+      "evidence": [
+        {
+          "startUid": "u2465",
+          "endUid": "u2467",
+          "quote": "DM: As Kenzo's talking to the tattoo artist, Delwath is sort of poking around, uh, probably finding your way towards like one of the main market streets, which is really basically just the north side of the bridge, the opposite side of the bridge from where Kenzo is."
+        },
+        {
+          "startUid": "u3786",
+          "endUid": "u3787",
+          "quote": "DM: Up in, uh, Bridgeward, where the north side of the bridge, if you keep going west from there, there's a few. Where, where Melindir is, there's some trade emissaries and things."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Wards/Bridgeward.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u3786",
+              "endUid": "u3787",
+              "quote": "DM: Up in, uh, Bridgeward, where the north side of the bridge, if you keep going west from there, there's a few. Where, where Melindir is, there's some trade emissaries and things."
+            }
+          ]
+        }
+      ]
+    },
+    "p21": {
+      "label": "The Windward Sail",
+      "kind": "inn",
+      "evidence": [
+        {
+          "startUid": "u3134",
+          "endUid": "u3136",
+          "quote": "Wellby: [coughs] I think we should go to The Windward Sail, which is a, a sailors’ inn where I know the owner."
+        },
+        {
+          "startUid": "u3154",
+          "endUid": "u3157",
+          "quote": "DM: Um, Seeker and Wellby enter this busy, bustling sailors tavern. Um, it's, you know, it's, it's quite fairly busy at the moment, like sort of a bit of a pre-dinner rush, like a bunch of people around."
+        },
+        {
+          "startUid": "u3184",
+          "endUid": "u3184",
+          "quote": "Wellby: [laughs] “Gee, Seeker, I sure enjoy the service here at The Windward Sail.”"
+        },
+        {
+          "startUid": "u3249",
+          "endUid": "u3249",
+          "quote": "DM: So you all meet at the inn."
+        },
+        {
+          "startUid": "u3258",
+          "endUid": "u3258",
+          "quote": "DM: So you meet in the tavern."
+        },
+        {
+          "startUid": "u3259",
+          "endUid": "u3259",
+          "quote": "DM: It's, uh, so it's in this Fiskurth, which is the like oldest part of the city, the like sailor's district near the, near the docks."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Places/The Windward Sail.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p22",
+          "evidence": [
+            {
+              "startUid": "u3258",
+              "endUid": "u3258",
+              "quote": "DM: So you meet in the tavern."
+            },
+            {
+              "startUid": "u3259",
+              "endUid": "u3259",
+              "quote": "DM: It's, uh, so it's in this Fiskurth, which is the like oldest part of the city, the like sailor's district near the, near the docks."
+            }
+          ]
+        }
+      ]
+    },
+    "p22": {
+      "label": "Fiskurth",
+      "kind": "district",
+      "evidence": [
+        {
+          "startUid": "u3259",
+          "endUid": "u3259",
+          "quote": "DM: It's, uh, so it's in this Fiskurth, which is the like oldest part of the city, the like sailor's district near the, near the docks."
+        },
+        {
+          "startUid": "u3261",
+          "endUid": "u3261",
+          "quote": "DM: Fiskurth."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Wards/Fiskurth.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u3259",
+              "endUid": "u3259",
+              "quote": "DM: It's, uh, so it's in this Fiskurth, which is the like oldest part of the city, the like sailor's district near the, near the docks."
+            }
+          ]
+        }
+      ]
+    },
+    "p23": {
+      "label": "Melindir’s house",
+      "kind": "house",
+      "evidence": [
+        {
+          "startUid": "u4317",
+          "endUid": "u4318",
+          "quote": "DM: So you, so you send a message ahead, and, and you approach. And the, um..."
+        },
+        {
+          "startUid": "u4319",
+          "endUid": "u4322",
+          "quote": "DM: So he lives, again, in this sort of relatively fancy neighborhood, like west of the bridge. Um, you know, it's, you know, you walk, you walk along, and you can see that the buildings are getting a little bit more, um, you know, richer and, um..."
+        },
+        {
+          "startUid": "u4524",
+          "endUid": "u4525",
+          "quote": "DM: ... you find yourself at the door of this, um, relatively restrained house considering the neighborhood you're in."
+        },
+        {
+          "startUid": "u4532",
+          "endUid": "u4533",
+          "quote": "DM: And this is a, I mean, this is clearly a house that, you know, elves have lived in for many years."
+        },
+        {
+          "startUid": "u4552",
+          "endUid": "u4554",
+          "quote": "DM: Um, looks at Delwath and he gives Delwath a slight nod and he says, “Welcome. Come in.”"
+        },
+        {
+          "startUid": "u4577",
+          "endUid": "u4578",
+          "quote": "DM: Sort of gives you a slight bow and he says, “Welcome to my home. It is my pleasure to greet you.”"
+        }
+      ],
+      "note": "The house is reached at its door and the party is welcomed; the transcript does not distinguish an interior room.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p27",
+          "evidence": [
+            {
+              "startUid": "u4319",
+              "endUid": "u4322",
+              "quote": "DM: So he lives, again, in this sort of relatively fancy neighborhood, like west of the bridge. Um, you know, it's, you know, you walk, you walk along, and you can see that the buildings are getting a little bit more, um, you know, richer and, um..."
+            },
+            {
+              "startUid": "u4524",
+              "endUid": "u4525",
+              "quote": "DM: ... you find yourself at the door of this, um, relatively restrained house considering the neighborhood you're in."
+            }
+          ]
+        }
+      ]
+    },
+    "p24": {
+      "label": "Orenlas",
+      "kind": "forest realm",
+      "evidence": [
+        {
+          "startUid": "u3466",
+          "endUid": "u3468",
+          "quote": "DM: It's like, there's an elven kingdom that's, like, south of, of Sembara. There's like, near Tyrwingha, that's what it is."
+        },
+        {
+          "startUid": "u4632",
+          "endUid": "u4634",
+          "quote": "DM: Orenlas, one of the few places that survived unscathed. There were great fires on our borders, and now constant diligence is necessary against the evils of those now cursed lands."
+        },
+        {
+          "startUid": "u4883",
+          "endUid": "u4883",
+          "quote": "Delwath: It’s between... It, like, flew right over it."
+        },
+        {
+          "startUid": "u4885",
+          "endUid": "u4885",
+          "quote": "Delwath: It's just... You remember the giant burned forest?"
+        },
+        {
+          "startUid": "u4887",
+          "endUid": "u4887",
+          "quote": "Delwath: It's, like, just north of there."
+        }
+      ],
+      "vaultPath": "Gazetteer/Upper Istaros/Orenlas/Orenlas.md",
+      "note": "The closing discussion recalls flying over the forest on this journey; no landing or entry into its partly extraplanar interior is established."
+    },
+    "p25": {
+      "label": "Outside the damaged hull",
+      "kind": "airborne position",
+      "evidence": [
+        {
+          "startUid": "u0267",
+          "endUid": "u0267",
+          "quote": "Delwath: Um, yeah, I'll jump off and fly and look at the bottom."
+        },
+        {
+          "startUid": "u0268",
+          "endUid": "u0269",
+          "quote": "DM: There's a... You can see that there's like a hole about this big in the bottom of the ship that goes in about 20 feet into the hole, and there seems to be this..."
+        },
+        {
+          "startUid": "u0290",
+          "endUid": "u0291",
+          "quote": "DM: Okay. Um, as you're all like sort of underneath this hole looking up at it, this like rush of acid, this black clinging acid falls out of the hole."
+        },
+        {
+          "startUid": "u0295",
+          "endUid": "u0296",
+          "quote": "DM: Wellby and Kenzo dodge out of the way, taking no damage because of evasion."
+        },
+        {
+          "startUid": "u0382",
+          "endUid": "u0382",
+          "quote": "DM: You know, you're all flying up, right?"
+        },
+        {
+          "startUid": "u0384",
+          "endUid": "u0384",
+          "quote": "DM: So you're following the ship, so it dissipates pretty quickly."
+        }
+      ]
+    },
+    "p26": {
+      "label": "Volta estuary",
+      "kind": "estuary",
+      "evidence": [
+        {
+          "startUid": "u1228",
+          "endUid": "u1228",
+          "quote": "Delwath: Okay. So like we're, we're basically flying along the river right now."
+        },
+        {
+          "startUid": "u1251",
+          "endUid": "u1253",
+          "quote": "DM: Yeah. Um, so you pass over these and you, you enter the sort of estuary."
+        },
+        {
+          "startUid": "u1254",
+          "endUid": "u1256",
+          "quote": "DM: And you can see Tollen from here, so you can see, um, like you're maybe 20 miles away, right? Or something like that. The, the estuary itself is a pretty short, pretty short journey."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p09",
+          "evidence": [
+            {
+              "startUid": "u1217",
+              "endUid": "u1218",
+              "quote": "DM: ... you, you come across, so you fly across the, this, like, little gulf where the, the, the mouth of the Volta."
+            },
+            {
+              "startUid": "u1238",
+              "endUid": "u1238",
+              "quote": "DM: Passing through the inlet, there's like a bunch of small fishing boats on the water, um, that are..."
+            },
+            {
+              "startUid": "u1251",
+              "endUid": "u1253",
+              "quote": "DM: Yeah. Um, so you pass over these and you, you enter the sort of estuary."
+            }
+          ]
+        }
+      ]
+    },
+    "p27": {
+      "label": "Fancy neighborhood west of the bridge",
+      "kind": "district",
+      "evidence": [
+        {
+          "startUid": "u4319",
+          "endUid": "u4322",
+          "quote": "DM: So he lives, again, in this sort of relatively fancy neighborhood, like west of the bridge. Um, you know, it's, you know, you walk, you walk along, and you can see that the buildings are getting a little bit more, um, you know, richer and, um..."
+        },
+        {
+          "startUid": "u4323",
+          "endUid": "u4323",
+          "quote": "DM: There's like, you know, uh, banks here and, and sort of a lot of the guilds have headquarters here."
+        },
+        {
+          "startUid": "u4325",
+          "endUid": "u4326",
+          "quote": "DM: Um, there's merchant, there's like merchant palaces in this area, too."
+        },
+        {
+          "startUid": "u4524",
+          "endUid": "u4525",
+          "quote": "DM: ... you find yourself at the door of this, um, relatively restrained house considering the neighborhood you're in."
+        }
+      ],
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Wards/Gold Street.md",
+      "note": "Session 80 (DuFr) identifies Melindir’s neighborhood as Gold Street, matching the ward note’s merchant estates and banks. The transcript leaves the ward unnamed; its house/neighborhood relationship is independently narrated.",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p11",
+          "evidence": [
+            {
+              "startUid": "u2777",
+              "endUid": "u2779",
+              "quote": "DM: Somebody mentions the other elf. So Melindir is the name of, um, the elven emissary from Orenlas who is well known around town."
+            },
+            {
+              "startUid": "u4317",
+              "endUid": "u4318",
+              "quote": "DM: So you, so you send a message ahead, and, and you approach. And the, um..."
+            },
+            {
+              "startUid": "u4319",
+              "endUid": "u4322",
+              "quote": "DM: So he lives, again, in this sort of relatively fancy neighborhood, like west of the bridge. Um, you know, it's, you know, you walk, you walk along, and you can see that the buildings are getting a little bit more, um, you know, richer and, um..."
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0007",
+        "endUid": "u0017"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Travel aboard the airship as it leaves the land of the orcs heading north.",
+      "evidence": [
+        {
+          "startUid": "u0007",
+          "endUid": "u0011",
+          "quote": "DM: Okay. So, you leave the land of the orcs early in the morning as the sun is rising on December 10th, and head north."
+        },
+        {
+          "startUid": "u0012",
+          "endUid": "u0014",
+          "quote": "DM: It's a journey to Tollen of almost 1,400 miles, and with your airship routine at this point, um, you're going about 220 miles a day."
+        },
+        {
+          "startUid": "u0015",
+          "endUid": "u0017",
+          "quote": "DM: Seeker taking the day... Well, who wants to take the... One of you taking the day shift and one of you taking the night shift."
+        }
+      ],
+      "place": "p01"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0022",
+        "endUid": "u0026"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Fly north from the land of the orcs to the harbor at Tollen, passing the Plaguelands, Mostreve Hills, Tyrwingha, Western Gulf and Volta approach without landing at the named waypoints.",
+      "evidence": [
+        {
+          "startUid": "u0007",
+          "endUid": "u0011",
+          "quote": "DM: Okay. So, you leave the land of the orcs early in the morning as the sun is rising on December 10th, and head north."
+        },
+        {
+          "startUid": "u0022",
+          "endUid": "u0024",
+          "quote": "DM: The first several days you pass over the deserted wastelands of the Plaguelands, dusty dry rivers."
+        },
+        {
+          "startUid": "u0025",
+          "endUid": "u0026",
+          "quote": "DM: At one point you see what looks like the ruins of a great city along a river. You see a burnt, a vast burnt forest to the east."
+        },
+        {
+          "startUid": "u0494",
+          "endUid": "u0497",
+          "quote": "DM: ...you pass through the Plaguelands, and by December 13th, in the middle of the night, maybe a little bit more than three days after you left the orcs, you cross the Mostreve Hills, that line of hills, just..."
+        },
+        {
+          "startUid": "u0501",
+          "endUid": "u0502",
+          "quote": "DM: Um, into, um, um, Tyrwingha."
+        },
+        {
+          "startUid": "u0816",
+          "endUid": "u0817",
+          "quote": "DM: So as the sun rises, you cross through, you spend most of the day crossing through the expanse of Tollen and as, um, the night-"
+        },
+        {
+          "startUid": "u0819",
+          "endUid": "u0819",
+          "quote": "DM: Sorry, the expanse of Tyrwingha."
+        },
+        {
+          "startUid": "u0829",
+          "endUid": "u0833",
+          "quote": "DM: And as, um, you know, as the sun sets and, um, you're reaching the shores, Kenzo, you know, as Kenzo is transitioning, Kenzo, you meditate for a moment as you're connecting to the airship and then to the ocean shores near you, the sea."
+        },
+        {
+          "startUid": "u0914",
+          "endUid": "u0916",
+          "quote": "DM: And you take over for Seeker and fly through the night."
+        },
+        {
+          "startUid": "u0950",
+          "endUid": "u0950",
+          "quote": "DM: So it takes you most of the day and into the next night to cross the gulf."
+        },
+        {
+          "startUid": "u0951",
+          "endUid": "u0951",
+          "quote": "DM: And by the morning of December 16th-"
+        },
+        {
+          "startUid": "u0953",
+          "endUid": "u0953",
+          "quote": "DM: ... roughly six days after you left."
+        },
+        {
+          "startUid": "u1217",
+          "endUid": "u1218",
+          "quote": "DM: ... you, you come across, so you fly across the, this, like, little gulf where the, the, the mouth of the Volta."
+        },
+        {
+          "startUid": "u1238",
+          "endUid": "u1238",
+          "quote": "DM: Passing through the inlet, there's like a bunch of small fishing boats on the water, um, that are..."
+        },
+        {
+          "startUid": "u1251",
+          "endUid": "u1253",
+          "quote": "DM: Yeah. Um, so you pass over these and you, you enter the sort of estuary."
+        },
+        {
+          "startUid": "u1327",
+          "endUid": "u1329",
+          "quote": "DM: And you can see there's this harbor area before the bridge where there's like 30 ships that are mostly moored in the river, and there are these really busy, bustling quays along the side of the, of, of Tollen, along the, the sort of oldest, like, cramped, densest part of the city is just full of activity of, like, small boats unloading from these larger an- mer- merchant ships anchored."
+        },
+        {
+          "startUid": "u1433",
+          "endUid": "u1435",
+          "quote": "DM: ... the like captain of the, of the, um, the guard, and comes back and says, “Here is fine.”"
+        },
+        {
+          "startUid": "u1437",
+          "endUid": "u1437",
+          "quote": "DM: “Please come no closer to the city.”"
+        },
+        {
+          "startUid": "u2004",
+          "endUid": "u2004",
+          "quote": "Wellby: The flying ship docked in the harbor above the water."
+        },
+        {
+          "startUid": "u4883",
+          "endUid": "u4883",
+          "quote": "Delwath: It’s between... It, like, flew right over it."
+        },
+        {
+          "startUid": "u4887",
+          "endUid": "u4887",
+          "quote": "Delwath: It's, like, just north of there."
+        }
+      ],
+      "from": "p02",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "fly",
+      "vehicle": "p01",
+      "duration": {
+        "value": 6,
+        "unit": "day",
+        "precision": "approximate",
+        "basis": "Narrated December 16 endpoint, roughly six days after departure"
+      },
+      "route": [
+        {
+          "place": "p03",
+          "reading": "Fly over the deserted Plaguelands."
+        },
+        {
+          "place": "p04",
+          "reading": "Descend over the ruins to inspect them, then ascend without landing."
+        },
+        {
+          "place": "p05",
+          "reading": "Cross the Mostreve Hills."
+        },
+        {
+          "place": "p06",
+          "reading": "Cross Tyrwingha to the gulf shore."
+        },
+        {
+          "place": "p07",
+          "reading": "Fly across the gulf, through the night and following day."
+        },
+        {
+          "place": "p09",
+          "reading": "Pass over the little gulf/inlet at the Volta mouth."
+        },
+        {
+          "place": "p26",
+          "reading": "Follow the estuary toward Tollen."
+        }
+      ],
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "hovering_over",
+          "target": "p12",
+          "note": "The docked ship remains above the water, as explicitly described at u2004."
+        }
+      ],
+      "note": "The initial nearly 1,400-mile journey estimate is not treated as a measured distance. The closing discussion recalls an Orenlas flyover (p24), but does not fix its position within the northbound passage, so it is not inserted into the ordered route."
+    },
+    {
+      "id": "l03",
+      "type": "observation",
+      "source": {
+        "startUid": "u0144",
+        "endUid": "u0169"
+      },
+      "actors": [
+        "Seeker"
+      ],
+      "reading": "Looking from the ship’s keel, Seeker sees the ruined city’s crumbling walls, riverside and black crawling surface; a glob rises toward the ship.",
+      "evidence": [
+        {
+          "startUid": "u0119",
+          "endUid": "u0121",
+          "quote": "Seeker: So as the attuned pilot, my line of sight can be from any part of the ship. That's correct, right?"
+        },
+        {
+          "startUid": "u0123",
+          "endUid": "u0125",
+          "quote": "Seeker: This is what we have when we're flying. You can look out from any part of the ship. So I'm just gonna like look straight down from the keel-"
+        },
+        {
+          "startUid": "u0127",
+          "endUid": "u0128",
+          "quote": "Seeker: ... as I get 100 yards above, above the, the center of the ruins, just to, just to have a look."
+        },
+        {
+          "startUid": "u0144",
+          "endUid": "u0144",
+          "quote": "DM: And as you get to about, I don't know, 3, 400 feet above, you can see there's like..."
+        },
+        {
+          "startUid": "u0145",
+          "endUid": "u0147",
+          "quote": "DM: So this was once a big city, right? There's like walls."
+        },
+        {
+          "startUid": "u0151",
+          "endUid": "u0153",
+          "quote": "DM: And, um, the walls are sort of crumbling. There's a river that flows through on, on one side of the city."
+        },
+        {
+          "startUid": "u0160",
+          "endUid": "u0163",
+          "quote": "DM: About, about 300 feet from the surface you look and you can see that the... Like looking from the bottom of the ship you can see that the... You don't see anything moving, but the ground is sort of crawling."
+        },
+        {
+          "startUid": "u0165",
+          "endUid": "u0166",
+          "quote": "DM: It's almost like there's some sort of ooze bubbling on the ground. Sort of black, almost like there's a mold spread throughout the city."
+        },
+        {
+          "startUid": "u0167",
+          "endUid": "u0169",
+          "quote": "DM: You begin to descend further down to 200 feet, and suddenly there's this gob of like something black."
+        },
+        {
+          "startUid": "u1963",
+          "endUid": "u1965",
+          "quote": "DM: Um, you know, of course, it was destroyed in the Great War, covered by the plague. Used to be supposedly this grand place on the river."
+        },
+        {
+          "startUid": "u1971",
+          "endUid": "u1972",
+          "quote": "Wellby: Yeah, we flew over it a few days ago. Well, we've got this, uh-"
+        }
+      ],
+      "place": "p04",
+      "mode": "local",
+      "observerPlace": "p01"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u0267",
+        "endUid": "u0296"
+      },
+      "actors": [
+        "Delwath",
+        "Wellby",
+        "Kenzo"
+      ],
+      "reading": "Fly outside the ship to inspect its damaged underside; the three are beneath the hole when acid falls.",
+      "evidence": [
+        {
+          "startUid": "u0267",
+          "endUid": "u0267",
+          "quote": "Delwath: Um, yeah, I'll jump off and fly and look at the bottom."
+        },
+        {
+          "startUid": "u0268",
+          "endUid": "u0269",
+          "quote": "DM: There's a... You can see that there's like a hole about this big in the bottom of the ship that goes in about 20 feet into the hole, and there seems to be this..."
+        },
+        {
+          "startUid": "u0273",
+          "endUid": "u0273",
+          "quote": "DM: Uh, are you going to investigate the hole?"
+        },
+        {
+          "startUid": "u0274",
+          "endUid": "u0274",
+          "quote": "Wellby: Yeah."
+        },
+        {
+          "startUid": "u0290",
+          "endUid": "u0291",
+          "quote": "DM: Okay. Um, as you're all like sort of underneath this hole looking up at it, this like rush of acid, this black clinging acid falls out of the hole."
+        },
+        {
+          "startUid": "u0292",
+          "endUid": "u0292",
+          "quote": "DM: Delwath gets hit, takes six points of acid damage."
+        },
+        {
+          "startUid": "u0295",
+          "endUid": "u0296",
+          "quote": "DM: Wellby and Kenzo dodge out of the way, taking no damage because of evasion."
+        },
+        {
+          "startUid": "u0382",
+          "endUid": "u0382",
+          "quote": "DM: You know, you're all flying up, right?"
+        },
+        {
+          "startUid": "u0384",
+          "endUid": "u0384",
+          "quote": "DM: So you're following the ship, so it dissipates pretty quickly."
+        }
+      ],
+      "from": "p01",
+      "to": "p25",
+      "completion": "arrived",
+      "mode": "fly",
+      "note": "Seeker continues piloting. The flyers follow the ascending ship; no explicit return-to-deck moment is supplied."
+    },
+    {
+      "id": "l05",
+      "type": "observation",
+      "source": {
+        "startUid": "u0829",
+        "endUid": "u0891"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "While joining the airship at the shore, Kenzo communes with the sea and senses a deep submerged canyon near the coast.",
+      "evidence": [
+        {
+          "startUid": "u0829",
+          "endUid": "u0833",
+          "quote": "DM: And as, um, you know, as the sun sets and, um, you're reaching the shores, Kenzo, you know, as Kenzo is transitioning, Kenzo, you meditate for a moment as you're connecting to the airship and then to the ocean shores near you, the sea."
+        },
+        {
+          "startUid": "u0834",
+          "endUid": "u0836",
+          "quote": "DM: You can feel that the gu- you feel the gulf teeming with life. Mm-hmm. It's full of fish."
+        },
+        {
+          "startUid": "u0847",
+          "endUid": "u0849",
+          "quote": "DM: In the, just the edge of your reach in the sort of deeper ocean as offshore, you can feel there's like a, a, a place that feels cold and dark that you touch."
+        },
+        {
+          "startUid": "u0853",
+          "endUid": "u0854",
+          "quote": "Kenzo: I send my consciousness there. I go deep."
+        },
+        {
+          "startUid": "u0855",
+          "endUid": "u0856",
+          "quote": "DM: ... it's a, it's a, it's a chasm. It's like a chasm that goes down-"
+        },
+        {
+          "startUid": "u0858",
+          "endUid": "u0858",
+          "quote": "DM: ... right near the coast."
+        },
+        {
+          "startUid": "u0860",
+          "endUid": "u0861",
+          "quote": "DM: And it gets dark in the depths."
+        },
+        {
+          "startUid": "u0881",
+          "endUid": "u0881",
+          "quote": "DM: A, a strange sensation because the floor of the ocean doesn't seem to follow a sort of natural..."
+        },
+        {
+          "startUid": "u0885",
+          "endUid": "u0887",
+          "quote": "DM: It's almost like what it feels like to you is there was a terrain long ago. There was a canyon here long ago and the ocean, and the land flooded."
+        },
+        {
+          "startUid": "u0891",
+          "endUid": "u0891",
+          "quote": "DM: ... deep water."
+        },
+        {
+          "startUid": "u0917",
+          "endUid": "u0917",
+          "quote": "Kenzo: While deeply resisting the temptation to, like, just barrel the ship, like, right into the ocean."
+        },
+        {
+          "startUid": "u0922",
+          "endUid": "u0922",
+          "quote": "DM: I did, I did."
+        }
+      ],
+      "place": "p08",
+      "mode": "remote",
+      "observerPlace": "p01"
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u1572",
+        "endUid": "u1583"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Take the harbor launch from the airship to the busy docks and disembark into Tollen.",
+      "evidence": [
+        {
+          "startUid": "u1572",
+          "endUid": "u1572",
+          "quote": "Wellby: We take their launch. Better not to show our hand."
+        },
+        {
+          "startUid": "u1574",
+          "endUid": "u1574",
+          "quote": "DM: So you head with the, with their boat."
+        },
+        {
+          "startUid": "u1577",
+          "endUid": "u1578",
+          "quote": "DM: To the busy docks of Tollen."
+        },
+        {
+          "startUid": "u1579",
+          "endUid": "u1579",
+          "quote": "DM: This is like the oldest part of the city."
+        },
+        {
+          "startUid": "u1582",
+          "endUid": "u1583",
+          "quote": "DM: There's, um, everything is sort of cold and a little bit dark because it's, you know, it's mid-afternoon in near the, near the darkest day of the year."
+        },
+        {
+          "startUid": "u1607",
+          "endUid": "u1607",
+          "quote": "DM: They dropped you off. They're not-"
+        },
+        {
+          "startUid": "u1622",
+          "endUid": "u1623",
+          "quote": "DM: An elf, a dwarf, and a halfling, and a human, right? So there's like, you're definitely attracting some attention."
+        }
+      ],
+      "from": "p01",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "harbor launch"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1854",
+        "endUid": "u1903"
+      },
+      "actors": [
+        "Wellby",
+        "Seeker"
+      ],
+      "reading": "Walk from the old dockside streets along Scrollwright Street and enter Guy Marchand’s map shop.",
+      "evidence": [
+        {
+          "startUid": "u1854",
+          "endUid": "u1861",
+          "quote": "DM: Okay. So, um, Wellby and Seeker head away from the sort of, um, busy, uh, sort of hectic part of Tollen, the, away from the, um, uh, the, um, the, the sort of, um, ancient, the oldest part of the city, the tight narrow streets, um, and head to, um, Scrollwright Street, which is this big broad street that runs in between, um, the university area and, um, where there's a cluster of temples and sort of, um, uh—And sort of big buildings and things like that."
+        },
+        {
+          "startUid": "u1862",
+          "endUid": "u1862",
+          "quote": "DM: And there's this broad street that's lined with booksellers and mapmakers and scroll makers and people selling minor magical charms and-"
+        },
+        {
+          "startUid": "u1867",
+          "endUid": "u1867",
+          "quote": "DM: Um, and, and you walk along."
+        },
+        {
+          "startUid": "u1883",
+          "endUid": "u1886",
+          "quote": "DM: ... first book on, on mapmaking. Um, and you walk along the street, like just kind of remembering, remembering this path."
+        },
+        {
+          "startUid": "u1890",
+          "endUid": "u1891",
+          "quote": "DM: So you walk along the street and, and you see his shop and it's, it's probably like 3:00 in the afternoon at this point, 2:00 in the afternoon. Um..."
+        },
+        {
+          "startUid": "u1892",
+          "endUid": "u1892",
+          "quote": "DM: And you enter and he's, his shop is like chaotic."
+        },
+        {
+          "startUid": "u1902",
+          "endUid": "u1903",
+          "quote": "DM: And he, he, as the bell rings as he open, as the door opens, he's, he just says, \"Yes, can I help you?\" not looking up."
+        }
+      ],
+      "from": "p13",
+      "to": "p15",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "place": "p14",
+          "reading": "Walk along the broad street of booksellers and mapmakers."
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u2248",
+        "endUid": "u2330"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Follow recommendations across the bridge into Southbridge and along Inkwright Street, reaching and entering Cecilia Lister’s tattoo shop.",
+      "evidence": [
+        {
+          "startUid": "u2248",
+          "endUid": "u2253",
+          "quote": "DM: Kenzo, um, just following your instinct and the sort of, um, uh, the rumors you've heard, just, like, kind of, you know, wandering the streets a little bit and just kind of letting your intuition guide you."
+        },
+        {
+          "startUid": "u2254",
+          "endUid": "u2254",
+          "quote": "Kenzo: Yeah, ask around a little bit too."
+        },
+        {
+          "startUid": "u2272",
+          "endUid": "u2275",
+          "quote": "DM: Um, you, uh, find your, you find your way across the bridge into this Southbridge neighborhood."
+        },
+        {
+          "startUid": "u2276",
+          "endUid": "u2277",
+          "quote": "DM: Um, and there's, there's a, there's a, um, a street basically, Inkwright Street."
+        },
+        {
+          "startUid": "u2278",
+          "endUid": "u2285",
+          "quote": "DM: Um, that runs just from the southern edge of the bridge and, um, basically everybody has pointed you to, um, your, both your intuition and your, and your sort of rumor gathering has pointed you towards, um, the shop of Cecilia Lister who is the, like, supposedly the mo- among the more renowned tattoo—(Nice.)—artists. Although people say she's stern. Like, she doesn’t, she doesn’t tolerate, like— she'll take one look at you and decide if you're worthy of her tattoos or not."
+        },
+        {
+          "startUid": "u2290",
+          "endUid": "u2290",
+          "quote": "Kenzo: I go to her shop."
+        },
+        {
+          "startUid": "u2295",
+          "endUid": "u2296",
+          "quote": "DM: Um, so you enter, her shop is this small, um-"
+        },
+        {
+          "startUid": "u2323",
+          "endUid": "u2323",
+          "quote": "DM: Uh, there's like a curtain across so you, like, enter the door and then there's this, like, little area with a curtain across."
+        },
+        {
+          "startUid": "u2324",
+          "endUid": "u2326",
+          "quote": "DM: Um, you sort of cautiously, um, poke, poke your, your head in, and she looks up at you and she, um, she's not, like, you can see that she's currently in the middle of, like, organizing these inks, and she has this, like-"
+        },
+        {
+          "startUid": "u2330",
+          "endUid": "u2330",
+          "quote": "DM: “Can I help you?”"
+        }
+      ],
+      "from": "p13",
+      "to": "p18",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "place": "p16",
+          "reading": "Cross the bridge into Southbridge."
+        },
+        {
+          "place": "p17",
+          "reading": "Find the tattoo shop along Inkwright Street."
+        }
+      ]
+    },
+    {
+      "id": "l09",
+      "type": "movement",
+      "source": {
+        "startUid": "u2465",
+        "endUid": "u2469"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "While Kenzo talks with Cecilia, Delwath shops around the market streets north of the bridge and buys supplies for the ship.",
+      "evidence": [
+        {
+          "startUid": "u2465",
+          "endUid": "u2467",
+          "quote": "DM: As Kenzo's talking to the tattoo artist, Delwath is sort of poking around, uh, probably finding your way towards like one of the main market streets, which is really basically just the north side of the bridge, the opposite side of the bridge from where Kenzo is."
+        },
+        {
+          "startUid": "u2468",
+          "endUid": "u2469",
+          "quote": "DM: Um, heading across, you know, asking around."
+        },
+        {
+          "startUid": "u2626",
+          "endUid": "u2627",
+          "quote": "Delwath: So you know, I'll spend some gold on like some nice... And certainly some purchases."
+        },
+        {
+          "startUid": "u2628",
+          "endUid": "u2629",
+          "quote": "Delwath: You know, he’ll definitely be into like, “Yeah, no, I’ll take that set of copper pots. That looks great. Send it to the ship.”"
+        },
+        {
+          "startUid": "u2630",
+          "endUid": "u2630",
+          "quote": "DM: Right. We probably spend like 50 gold-"
+        },
+        {
+          "startUid": "u2634",
+          "endUid": "u2634",
+          "quote": "Delwath: Like at least 150."
+        },
+        {
+          "startUid": "u2763",
+          "endUid": "u2763",
+          "quote": "DM: So, so I mean, you spend, say you spend like 150 gold."
+        }
+      ],
+      "from": "p13",
+      "to": "p19",
+      "completion": "arrived",
+      "mode": "walk"
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u3152",
+        "endUid": "u3153"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Return to the airship by the four-o’clock sunset.",
+      "evidence": [
+        {
+          "startUid": "u2004",
+          "endUid": "u2004",
+          "quote": "Wellby: The flying ship docked in the harbor above the water."
+        },
+        {
+          "startUid": "u3142",
+          "endUid": "u3142",
+          "quote": "Delwath: Back, well, back to the ship to start."
+        },
+        {
+          "startUid": "u3144",
+          "endUid": "u3145",
+          "quote": "Delwath: To, uh... I mean, there's a certain amount of purchases to make."
+        },
+        {
+          "startUid": "u3152",
+          "endUid": "u3153",
+          "quote": "DM: So as, as the sun begins to set in the sky at like 4:00 in the afternoon, um, Delwath is back at the ship."
+        },
+        {
+          "startUid": "u3229",
+          "endUid": "u3229",
+          "quote": "Delwath: On the ship looking down at you."
+        }
+      ],
+      "from": "p19",
+      "to": "p01",
+      "completion": "arrived",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "hovering_over",
+          "target": "p12"
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "movement",
+      "source": {
+        "startUid": "u3154",
+        "endUid": "u3166"
+      },
+      "actors": [
+        "Wellby",
+        "Seeker"
+      ],
+      "reading": "Enter the busy Windward Sail and sit together at a table.",
+      "evidence": [
+        {
+          "startUid": "u3134",
+          "endUid": "u3136",
+          "quote": "Wellby: [coughs] I think we should go to The Windward Sail, which is a, a sailors’ inn where I know the owner."
+        },
+        {
+          "startUid": "u3154",
+          "endUid": "u3157",
+          "quote": "DM: Um, Seeker and Wellby enter this busy, bustling sailors tavern. Um, it's, you know, it's, it's quite fairly busy at the moment, like sort of a bit of a pre-dinner rush, like a bunch of people around."
+        },
+        {
+          "startUid": "u3158",
+          "endUid": "u3158",
+          "quote": "DM: And, um, Wendel Quickstep, who's the, um-"
+        },
+        {
+          "startUid": "u3160",
+          "endUid": "u3162",
+          "quote": "DM: ... who’s the proprietor, um, like gives you a nod like, “Hey, Wellby,” and like runs off to pour another beer and like, is like running around a little bit. He’s like, “Grab, grab a table.”"
+        },
+        {
+          "startUid": "u3166",
+          "endUid": "u3166",
+          "quote": "DM: So you're sitting, the two of you by yourselves."
+        },
+        {
+          "startUid": "u3184",
+          "endUid": "u3184",
+          "quote": "Wellby: [laughs] “Gee, Seeker, I sure enjoy the service here at The Windward Sail.”"
+        }
+      ],
+      "from": "p15",
+      "to": "p21",
+      "completion": "arrived"
+    },
+    {
+      "id": "l12",
+      "type": "observation",
+      "source": {
+        "startUid": "u3172",
+        "endUid": "u3194"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Scry Wellby, seeing him and Seeker sitting in the halfling tavern and learning the proprietor’s name.",
+      "evidence": [
+        {
+          "startUid": "u3172",
+          "endUid": "u3172",
+          "quote": "Delwath: I'm gonna scry Wellby."
+        },
+        {
+          "startUid": "u3178",
+          "endUid": "u3179",
+          "quote": "DM: Um, so you see Wel- uh, Wellby sitting in a tavern."
+        },
+        {
+          "startUid": "u3180",
+          "endUid": "u3180",
+          "quote": "DM: Um, it's like a bit... It's busy, bustling."
+        },
+        {
+          "startUid": "u3181",
+          "endUid": "u3183",
+          "quote": "DM: It's clearly a halfling tavern. Um, uh, sitting with Seeker at a table. Um."
+        },
+        {
+          "startUid": "u3191",
+          "endUid": "u3192",
+          "quote": "DM: Um, I mean you, you, you hear him, you hear him like saying hi, uh, to Wen- Wendel and get at least the name of the proprietor."
+        },
+        {
+          "startUid": "u3229",
+          "endUid": "u3229",
+          "quote": "Delwath: On the ship looking down at you."
+        }
+      ],
+      "place": "p21",
+      "mode": "remote",
+      "observerPlace": "p01",
+      "observedActors": [
+        "Wellby",
+        "Seeker"
+      ]
+    },
+    {
+      "id": "l13",
+      "type": "presence",
+      "source": {
+        "startUid": "u3196",
+        "endUid": "u3221"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Swim and experiment in the river beside the ship using the manta-ray cloak.",
+      "evidence": [
+        {
+          "startUid": "u3129",
+          "endUid": "u3129",
+          "quote": "Kenzo: Kenzo is, uh, only because he hasn't had a chance to do this, he's gonna use his manta ray cloak and just play."
+        },
+        {
+          "startUid": "u3130",
+          "endUid": "u3130",
+          "quote": "DM: Dive into the river?"
+        },
+        {
+          "startUid": "u3131",
+          "endUid": "u3131",
+          "quote": "Kenzo: Yeah, just, just go, go play around."
+        },
+        {
+          "startUid": "u3196",
+          "endUid": "u3197",
+          "quote": "DM: ... swimming in the river like a gi- the shape of like a strange creature."
+        },
+        {
+          "startUid": "u3198",
+          "endUid": "u3198",
+          "quote": "DM: It looks kind of like a manta ray."
+        },
+        {
+          "startUid": "u3202",
+          "endUid": "u3202",
+          "quote": "DM: No, no, no, you're just swimming in the river."
+        },
+        {
+          "startUid": "u3214",
+          "endUid": "u3215",
+          "quote": "Kenzo: Oh yeah, it's going crazy. It's just like, it's like clearly experimenting, leaping out of the water and like-"
+        },
+        {
+          "startUid": "u3221",
+          "endUid": "u3221",
+          "quote": "DM: I mean, when he leap out, when he leaps out of the water you can see that it's Kenzo."
+        },
+        {
+          "startUid": "u3229",
+          "endUid": "u3229",
+          "quote": "Delwath: On the ship looking down at you."
+        }
+      ],
+      "place": "p10",
+      "locationContext": [
+        {
+          "subject": "p01",
+          "relation": "above",
+          "target": "p10"
+        }
+      ]
+    },
+    {
+      "id": "l14",
+      "type": "observation",
+      "source": {
+        "startUid": "u3213",
+        "endUid": "u3239"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "From the edge of the ship, watch Kenzo in the river, recognize him as he leaps, and propose joining the others.",
+      "evidence": [
+        {
+          "startUid": "u3213",
+          "endUid": "u3213",
+          "quote": "Delwath: I'll watch for a minute, the manta ray, see if it does anything interesting."
+        },
+        {
+          "startUid": "u3214",
+          "endUid": "u3215",
+          "quote": "Kenzo: Oh yeah, it's going crazy. It's just like, it's like clearly experimenting, leaping out of the water and like-"
+        },
+        {
+          "startUid": "u3221",
+          "endUid": "u3221",
+          "quote": "DM: I mean, when he leap out, when he leaps out of the water you can see that it's Kenzo."
+        },
+        {
+          "startUid": "u3229",
+          "endUid": "u3229",
+          "quote": "Delwath: On the ship looking down at you."
+        },
+        {
+          "startUid": "u3231",
+          "endUid": "u3231",
+          "quote": "DM: Like on the edge of the ship."
+        },
+        {
+          "startUid": "u3234",
+          "endUid": "u3235",
+          "quote": "Kenzo: Oh, okay. I, I kind of pause, uh, and look up."
+        },
+        {
+          "startUid": "u3236",
+          "endUid": "u3236",
+          "quote": "Kenzo: “Delwath, what’s up?”"
+        },
+        {
+          "startUid": "u3238",
+          "endUid": "u3239",
+          "quote": "Delwath: Wellby and Seeker have, um, gone to dinner without us. I was thinking of joining them."
+        }
+      ],
+      "place": "p10",
+      "mode": "local",
+      "observerPlace": "p01",
+      "observedActors": [
+        "Kenzo"
+      ]
+    },
+    {
+      "id": "l15",
+      "type": "movement",
+      "source": {
+        "startUid": "u3240",
+        "endUid": "u3249"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Leave the ship and join the others at the Windward Sail.",
+      "evidence": [
+        {
+          "startUid": "u3238",
+          "endUid": "u3239",
+          "quote": "Delwath: Wellby and Seeker have, um, gone to dinner without us. I was thinking of joining them."
+        },
+        {
+          "startUid": "u3240",
+          "endUid": "u3240",
+          "quote": "Kenzo: I'll come with."
+        },
+        {
+          "startUid": "u3244",
+          "endUid": "u3244",
+          "quote": "DM: Wendel Quickstep's inn."
+        },
+        {
+          "startUid": "u3246",
+          "endUid": "u3246",
+          "quote": "Kenzo: We can ask around when we get in the city."
+        },
+        {
+          "startUid": "u3247",
+          "endUid": "u3247",
+          "quote": "DM: Yeah. It's not that hard to find."
+        },
+        {
+          "startUid": "u3249",
+          "endUid": "u3249",
+          "quote": "DM: So you all meet at the inn."
+        },
+        {
+          "startUid": "u3258",
+          "endUid": "u3258",
+          "quote": "DM: So you meet in the tavern."
+        }
+      ],
+      "from": "p01",
+      "to": "p21",
+      "completion": "arrived"
+    },
+    {
+      "id": "l16",
+      "type": "movement",
+      "source": {
+        "startUid": "u3240",
+        "endUid": "u3249"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Leave the river outing and join the others at the Windward Sail.",
+      "evidence": [
+        {
+          "startUid": "u3234",
+          "endUid": "u3235",
+          "quote": "Kenzo: Oh, okay. I, I kind of pause, uh, and look up."
+        },
+        {
+          "startUid": "u3236",
+          "endUid": "u3236",
+          "quote": "Kenzo: “Delwath, what’s up?”"
+        },
+        {
+          "startUid": "u3238",
+          "endUid": "u3239",
+          "quote": "Delwath: Wellby and Seeker have, um, gone to dinner without us. I was thinking of joining them."
+        },
+        {
+          "startUid": "u3240",
+          "endUid": "u3240",
+          "quote": "Kenzo: I'll come with."
+        },
+        {
+          "startUid": "u3246",
+          "endUid": "u3246",
+          "quote": "Kenzo: We can ask around when we get in the city."
+        },
+        {
+          "startUid": "u3249",
+          "endUid": "u3249",
+          "quote": "DM: So you all meet at the inn."
+        },
+        {
+          "startUid": "u3258",
+          "endUid": "u3258",
+          "quote": "DM: So you meet in the tavern."
+        }
+      ],
+      "from": "p10",
+      "to": "p21",
+      "completion": "arrived"
+    },
+    {
+      "id": "l17",
+      "type": "movement",
+      "source": {
+        "startUid": "u4317",
+        "endUid": "u4326"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The following morning, walk through the fancy neighborhood west of the bridge to Melindir’s house, reach its door and are welcomed for a conversation.",
+      "evidence": [
+        {
+          "startUid": "u4193",
+          "endUid": "u4193",
+          "quote": "DM: So in the morning-"
+        },
+        {
+          "startUid": "u4201",
+          "endUid": "u4201",
+          "quote": "DM: Let's go and talk to the elf."
+        },
+        {
+          "startUid": "u4203",
+          "endUid": "u4203",
+          "quote": "Seeker: Now we're all going to talk to the elf."
+        },
+        {
+          "startUid": "u4305",
+          "endUid": "u4306",
+          "quote": "DM: So, um, I, I mean, it's easy to, to find, and you presumably send a message ahead, and he's happy to, you know, meet with another elf any time. Um..."
+        },
+        {
+          "startUid": "u4317",
+          "endUid": "u4318",
+          "quote": "DM: So you, so you send a message ahead, and, and you approach. And the, um..."
+        },
+        {
+          "startUid": "u4319",
+          "endUid": "u4322",
+          "quote": "DM: So he lives, again, in this sort of relatively fancy neighborhood, like west of the bridge. Um, you know, it's, you know, you walk, you walk along, and you can see that the buildings are getting a little bit more, um, you know, richer and, um..."
+        },
+        {
+          "startUid": "u4323",
+          "endUid": "u4323",
+          "quote": "DM: There's like, you know, uh, banks here and, and sort of a lot of the guilds have headquarters here."
+        },
+        {
+          "startUid": "u4324",
+          "endUid": "u4324",
+          "quote": "DM: This is... There’s this big cathedral that’s under construction, a temple to the War Lord, one of the, um, eight divines, sponsored by the Shipwrights Guild."
+        },
+        {
+          "startUid": "u4524",
+          "endUid": "u4525",
+          "quote": "DM: ... you find yourself at the door of this, um, relatively restrained house considering the neighborhood you're in."
+        },
+        {
+          "startUid": "u4532",
+          "endUid": "u4533",
+          "quote": "DM: And this is a, I mean, this is clearly a house that, you know, elves have lived in for many years."
+        },
+        {
+          "startUid": "u4537",
+          "endUid": "u4539",
+          "quote": "DM: The door is just plain wood painted, but it’s painted elegantly with these brilliant Tollen colors, um, and, um, gracefully swings open as, as you approach."
+        },
+        {
+          "startUid": "u4552",
+          "endUid": "u4554",
+          "quote": "DM: Um, looks at Delwath and he gives Delwath a slight nod and he says, “Welcome. Come in.”"
+        },
+        {
+          "startUid": "u4577",
+          "endUid": "u4578",
+          "quote": "DM: Sort of gives you a slight bow and he says, “Welcome to my home. It is my pleasure to greet you.”"
+        },
+        {
+          "startUid": "u4579",
+          "endUid": "u4580",
+          "quote": "DM: Sort of motions for you to come in, a- and your companions as well."
+        },
+        {
+          "startUid": "u4759",
+          "endUid": "u4759",
+          "quote": "DM: Looks around at the four of you."
+        }
+      ],
+      "from": null,
+      "to": "p23",
+      "completion": "arrived",
+      "mode": "walk",
+      "route": [
+        {
+          "place": "p27",
+          "reading": "Walk through the rich neighborhood west of the bridge, passing banks, guild headquarters and the Warlord temple under construction."
+        }
+      ],
+      "note": "The overnight sleeping place and morning departure point are not narrated. Wendel offered rooms, but the group also discussed staying aboard. No visit to the priestess is established before the source ends."
+    }
+  ]
+}
