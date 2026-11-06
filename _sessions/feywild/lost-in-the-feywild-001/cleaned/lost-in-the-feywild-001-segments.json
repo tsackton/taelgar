@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "lost-in-the-feywild-001",
+    "sessionYaml": "_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-session.yaml",
+    "sessionYamlSha256": "a313fb081beaac45375de98b21bdca96b06ece6cfa33ce8b1402a0e648e80a38",
+    "transcriptPath": "_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-transcript.md",
+    "transcriptSha256": "298ea2c22028167c4879dde7e113f05b35d541b25c1ce2587ac779c2fd86dc02"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0033"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0034",
+        "endUid": "u0037"
+      },
+      "category": "session_framing"
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u0038",
+        "endUid": "u0056"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u0057",
+        "endUid": "u0442"
+      },
+      "category": "session_framing",
+      "note": "Character introductions and retrospective party formation; the campfire is the framing device. The preceding narrated westward journey remains gameplay."
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u0443",
+        "endUid": "u0607"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u0608",
+        "endUid": "u0621"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u0622",
+        "endUid": "u1411"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s008",
+      "source": {
+        "startUid": "u1412",
+        "endUid": "u1414"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s009",
+      "source": {
+        "startUid": "u1415",
+        "endUid": "u1957"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s010",
+      "source": {
+        "startUid": "u1958",
+        "endUid": "u1966"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s011",
+      "source": {
+        "startUid": "u1967",
+        "endUid": "u2148"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s012",
+      "source": {
+        "startUid": "u2149",
+        "endUid": "u2156"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

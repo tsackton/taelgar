@@ -1,0 +1,799 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "lost-in-the-feywild-001",
+    "sessionYaml": "_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-session.yaml",
+    "sessionYamlSha256": "a313fb081beaac45375de98b21bdca96b06ece6cfa33ce8b1402a0e648e80a38",
+    "transcriptPath": "_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-transcript.md",
+    "transcriptSha256": "298ea2c22028167c4879dde7e113f05b35d541b25c1ce2587ac779c2fd86dc02"
+  },
+  "places": {
+    "p01": {
+      "label": "Tollen",
+      "evidence": [
+        {
+          "startUid": "u0034",
+          "endUid": "u0042",
+          "quote": "DM: So, the group of the five of you, and we'll get into each of you in a minute, and recap and reintroduce and recall those backstories that we started getting into last time. But the group of the five of you were recruited in Tollen by a… a small, nondescript man who described himself as the agent for a minor lord who had just come into a piece of property and needed a group of adventurers to make sure it was safe. And was a little vague about the details, but generous about the compensation.\n\n\n\nDM: It seemed to the group of you both, like, a good opportunity… maybe, like, easy money or something straightforward. After all, how comp… how complex can it be to look in the basement of an old house? And also the opportunity to get into a part of the world that you hadn't been before. I'm sort of headed west from Tollen up and into the hills. You've been at this for a few days now, traveling with him.\n\n"
+        }
+      ],
+      "kind": "settlement",
+      "vaultPath": "Gazetteer/Greater Sembara/Tollen/Tollen.md"
+    },
+    "p02": {
+      "label": "Old wood west of Tollen",
+      "evidence": [
+        {
+          "startUid": "u0045",
+          "endUid": "u0054",
+          "quote": "DM: His name is Alden, and your impression is that this is a deeply boring person. Like, this is… this is a sort of a professional servant or butler, someone who's been… hired to… serve a person who's come into money. He hasn't worked for this lord for very long. Hmm. But… in any case, he's not the most exciting thing that's… that's going on. Over the course of a few days of travel, you've headed west, and you're camped in an increasingly wild, increasingly old wood for the night. And Alden thinks that you'll get there by sunset tomorrow.\n\n"
+        }
+      ],
+      "kind": "forest",
+      "vaultPath": "Gazetteer/Greater Sembara/Sembara/Northlands/Varrow Forest.md",
+      "note": "The transcript never names this forest. Dandelion House.md identifies the manor’s enclosing woodland as Varrow Forest; that vault identification does not locate every earlier travel leg or name the river used."
+    },
+    "p03": {
+      "label": "Woodland camp",
+      "evidence": [
+        {
+          "startUid": "u0045",
+          "endUid": "u0056",
+          "quote": "DM: His name is Alden, and your impression is that this is a deeply boring person. Like, this is… this is a sort of a professional servant or butler, someone who's been… hired to… serve a person who's come into money. He hasn't worked for this lord for very long. Hmm. But… in any case, he's not the most exciting thing that's… that's going on. Over the course of a few days of travel, you've headed west, and you're camped in an increasingly wild, increasingly old wood for the night. And Alden thinks that you'll get there by sunset tomorrow.\n\n\n\nDM: But around the campfire tonight, this'll probably be the last night together before you get there and things get started. And so, before all of that begins, can you introduce each of yourselves over dinner? And then I've got, besides, sort of, descriptions, remind us of your connections with each other.\n\n"
+        }
+      ],
+      "kind": "camp",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0045",
+              "endUid": "u0054",
+              "quote": "DM: His name is Alden, and your impression is that this is a deeply boring person. Like, this is… this is a sort of a professional servant or butler, someone who's been… hired to… serve a person who's come into money. He hasn't worked for this lord for very long. Hmm. But… in any case, he's not the most exciting thing that's… that's going on. Over the course of a few days of travel, you've headed west, and you're camped in an increasingly wild, increasingly old wood for the night. And Alden thinks that you'll get there by sunset tomorrow.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p04": {
+      "label": "Dandelion House grounds",
+      "evidence": [
+        {
+          "startUid": "u0802",
+          "endUid": "u0818",
+          "quote": "DM: You see ahead of you in the gloom. Maybe the trees are thinning, but you see an archway. And as you get closer to it… You realize it's all that remains of what must have been an old wall. It's the archway with the little bits of iron, a few bits left, that must have been a portcullis to raise up and down to close it off, and… Looking off to the sides of it as you get closer, you see…\n\n\n\nDM: Y'all in New England have many more of these than in Colorado, but, like, you know those walls in the woods that are not just like, \"Oh, it's a stone wall,\" but, like, \"Oh, that WAS a stone wall several hundred years ago.\" But it's so overgrown, and in places even invisible. But what must have been a wall that stretched around this…\n\n\n\nDM: Alden leads you through… the gate, leaving the densest of the forest behind, and it just starts to thin out.\n\n\n\nDM: On the far side, the path dips down a couple of feet, and then back up again, and you realize you're… crossing through what must have been a moat… You know… Hundreds of years ago.\n\n"
+        },
+        {
+          "startUid": "u0848",
+          "endUid": "u0848",
+          "quote": "DM: Alden pauses at just about this distance and says to you, Welcome to Dandelion House.\n\n"
+        },
+        {
+          "startUid": "u1511",
+          "endUid": "u1515",
+          "quote": "DM: And all the lands surrounding it for dozens of miles. I mean, this is a massive… massive estate, overgrown and in the middle of nowhere, though it may be. Deeded to me this house, and all the treasures therein contained. Including the stores of gold and riches, unspecified in the contract, but alluded to.\n\n"
+        }
+      ],
+      "kind": "grounds",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0837",
+              "endUid": "u0848",
+              "quote": "DM: And there in front of you is… somewhere between a majestic and decrepit manor house… something that is clearly hundreds of years old.\n\n\n\nDM: That seems to be swallowed by the forest, although… maybe not as swallowed by the forest as the forest you've just come through, just.\n\n\n\nDM: It's still intact, still in one piece. Even though the windows are gone in many, many of the windows, the stone, the walls are still solid, and even though vines and moss is crawling up it, and in fact the whole back half of it seems almost swallowed by brush and saplings… You get a sense, at least, that the bones are strong. Right? That structurally, it's… solid.\n\n\n\nDM: Alden pauses at just about this distance and says to you, Welcome to Dandelion House.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p05": {
+      "label": "Dandelion House",
+      "evidence": [
+        {
+          "startUid": "u0837",
+          "endUid": "u0848",
+          "quote": "DM: And there in front of you is… somewhere between a majestic and decrepit manor house… something that is clearly hundreds of years old.\n\n\n\nDM: That seems to be swallowed by the forest, although… maybe not as swallowed by the forest as the forest you've just come through, just.\n\n\n\nDM: It's still intact, still in one piece. Even though the windows are gone in many, many of the windows, the stone, the walls are still solid, and even though vines and moss is crawling up it, and in fact the whole back half of it seems almost swallowed by brush and saplings… You get a sense, at least, that the bones are strong. Right? That structurally, it's… solid.\n\n\n\nDM: Alden pauses at just about this distance and says to you, Welcome to Dandelion House.\n\n"
+        }
+      ],
+      "kind": "building",
+      "aliases": [
+        "Dandelion Keep"
+      ],
+      "vaultPath": "Gazetteer/Greater Sembara/Sembara/Northlands/Dandelion House.md",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u0992",
+              "endUid": "u0995",
+              "quote": "This is a weird, old, perfectly intact rundown, but, like… intact manor house in the middle of dense and trackless forest?"
+            }
+          ]
+        }
+      ]
+    },
+    "p06": {
+      "label": "Receiving room",
+      "evidence": [
+        {
+          "startUid": "u1130",
+          "endUid": "u1145",
+          "quote": "DM: In you go into the house.\n\n\n\nKaito Min: I know.\n\n\n\nDM: Entry room…\n\n\n\nEdric: Yeah, I, I…\n\n\n\nDM: Presumably all of you come. Yes. Although he did…\n\n\n\nAyveen: You did say you might meet us outside, so I'm a little… but, okay, we'll go in.\n\n\n\nDM: The, it looks like, says Alden, we'll need to go up to him. He likes to be up in the observatory. It's a wide open room that you come into, this receiving room with arched open doorways, wide doorways, one leading off to the right, to the left, straight ahead of you, and a flight of stairs that leads upwards. Standing off to your left, well, I should say.\n\n\n\nDM: A thick layer of dust coats everywhere that has not been walked on. It's almost like there are paths through the dust where clearly people have been moving between from room to room. There's a massive staircase that sweeps upwards to a second floor, and then to a third floor beyond that you can't see quite as well.\n\n\n\nDM: There's an open, sort of an open section in the middle of the house where the stairs go up, so it's… and on each level, on each of the two levels, you can see, it's almost like a sort of an interior, like, balcony walkway, goes around the center, where there are rooms on the exterior of it. On this floor that you're on, though, that's not the layout, and you can see through to the right… A large room with tall, tall windows that it feels something like a ballroom or a grand… something kind of a room like that on this floor. Off in the back, you can sort of guess or imagine there may be something like a kitchen, other rooms to your left.\n\n"
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1130",
+              "endUid": "u1145",
+              "quote": "DM: In you go into the house.\n\n\n\nKaito Min: I know.\n\n\n\nDM: Entry room…\n\n\n\nEdric: Yeah, I, I…\n\n\n\nDM: Presumably all of you come. Yes. Although he did…\n\n\n\nAyveen: You did say you might meet us outside, so I'm a little… but, okay, we'll go in.\n\n\n\nDM: The, it looks like, says Alden, we'll need to go up to him. He likes to be up in the observatory. It's a wide open room that you come into, this receiving room with arched open doorways, wide doorways, one leading off to the right, to the left, straight ahead of you, and a flight of stairs that leads upwards. Standing off to your left, well, I should say.\n\n\n\nDM: A thick layer of dust coats everywhere that has not been walked on. It's almost like there are paths through the dust where clearly people have been moving between from room to room. There's a massive staircase that sweeps upwards to a second floor, and then to a third floor beyond that you can't see quite as well.\n\n\n\nDM: There's an open, sort of an open section in the middle of the house where the stairs go up, so it's… and on each level, on each of the two levels, you can see, it's almost like a sort of an interior, like, balcony walkway, goes around the center, where there are rooms on the exterior of it. On this floor that you're on, though, that's not the layout, and you can see through to the right… A large room with tall, tall windows that it feels something like a ballroom or a grand… something kind of a room like that on this floor. Off in the back, you can sort of guess or imagine there may be something like a kitchen, other rooms to your left.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p07": {
+      "label": "Second-floor landing",
+      "evidence": [
+        {
+          "startUid": "u1196",
+          "endUid": "u1213",
+          "quote": "DM: As you go further up onto the second floor, Alden continues up onto the third. The second floor seems… to have these… it's… it's a very tall ceiling floor, also, just like the first. The first is maybe, like, a 14-foot ceiling, and these huge, sort of, like, entertaining rooms, also. The second is more like a, I don't know, a 9- or 10-foot ceiling, easily.\n\n\n\nDM: You see in the rooms the remains, for the most part, of what, probably were, like, grand bedrooms. You get a glimpse of what is probably a library, at least what appears to be bookshelves. You can't quite tell, because the night is falling a little bit, how many books there are, but definitely, bookshelves.\n\n\n\nAyveen: So are there decaying furnishings, or is it empty space with, like, except for, like, built-in things, like bookshelves?\n\n\n\nDM: Here and there, there are a few things that are in pristine condition that you assume must somehow be magically preserved.\n\n\n\nTxarro: Are they magically…\n\n\n\nDM: Landing…\n\n\n\nTxarro: Preserved.\n\n\n\nDM: Oh, yes, they are magically preserved.\n\n\n\nDM: Preservation is the school of magic there. On the landing on the second floor, there is a massive grandfather clock that is, still tick-tocking back and forth. That looks… ancient, but still in good shape.\n\n\n\nDM: The far side of the landing… the other things in that landing on the second floor that are visible… are there is a… a very black painting on the far side. This is very dark, you'd need to get a lot closer to see what it is. There are tapestries here and there that are sort of… falling to pieces…\n\n"
+        }
+      ],
+      "kind": "landing",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1196",
+              "endUid": "u1213",
+              "quote": "DM: As you go further up onto the second floor, Alden continues up onto the third. The second floor seems… to have these… it's… it's a very tall ceiling floor, also, just like the first. The first is maybe, like, a 14-foot ceiling, and these huge, sort of, like, entertaining rooms, also. The second is more like a, I don't know, a 9- or 10-foot ceiling, easily.\n\n\n\nDM: You see in the rooms the remains, for the most part, of what, probably were, like, grand bedrooms. You get a glimpse of what is probably a library, at least what appears to be bookshelves. You can't quite tell, because the night is falling a little bit, how many books there are, but definitely, bookshelves.\n\n\n\nAyveen: So are there decaying furnishings, or is it empty space with, like, except for, like, built-in things, like bookshelves?\n\n\n\nDM: Here and there, there are a few things that are in pristine condition that you assume must somehow be magically preserved.\n\n\n\nTxarro: Are they magically…\n\n\n\nDM: Landing…\n\n\n\nTxarro: Preserved.\n\n\n\nDM: Oh, yes, they are magically preserved.\n\n\n\nDM: Preservation is the school of magic there. On the landing on the second floor, there is a massive grandfather clock that is, still tick-tocking back and forth. That looks… ancient, but still in good shape.\n\n\n\nDM: The far side of the landing… the other things in that landing on the second floor that are visible… are there is a… a very black painting on the far side. This is very dark, you'd need to get a lot closer to see what it is. There are tapestries here and there that are sort of… falling to pieces…\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p08": {
+      "label": "Observatory room",
+      "evidence": [
+        {
+          "startUid": "u1264",
+          "endUid": "u1287",
+          "quote": "DM: In one of them… you can see a man standing in front of one of the open windows, and you realize, putting the pieces of the house together, that this is one of the two eyes, one of the two top, excuse me, one of the two architectural marvels at the top of the building, that you saw as you came in, and he's standing in front of it, just looking out for the light, and the field, and the… the shine of the dandelion seeds in the last bit of sunlight that comes over the tops of the trees. The bottom two floors of the house now are entirely in darkness, in the shadow of the trees.\n\n\n\nDM: But in this room, shining through the window like a pillar of light, like a golden spotlight, holds a grim… the lord of Dandelion House: Hulda, who Alden told you is the second son of a minor lord, someone disinherited, resentful his whole life, that he was… You know, not the person ruling over whatever those lands might have been. Is a man in his mid-40s with a grizzled gray beard and a powerful build.\n\n\n\nDM: He stands with the sort of bored alertness that you associate with fighting people, the sort of person who has spent a long time standing still and watching and ready for whatever comes. That assessment is cemented… by the sword that he wears at his hip. The impression that you get of that is less of a man prepared for combat in the moment, and more of, this is what the Lord of the Manor does. He wears a sword. He's not armored, but he's wearing… well-worn, but fine clothes.\n\n\n\nDM: His sleeves are pulled up to the elbows, and you can see a criss-cross web of… long-healed scars on his forearms and on his face, too. A long cut that interrupts his beard on one side of his face.\n\n\n\nDM: Alden announces each of you by name in elaborate style. \"My lord, I have the pleasure of presenting…\" And one after another introduces, you, nodding and gesturing. His back is still towards you this entire time.\n\n\n\nDM: As the sunlight… slowly climbs up his body, the last rays of it shining in through the window, you in the doorway, are already in darkness.\n\n"
+        },
+        {
+          "startUid": "u1137",
+          "endUid": "u1139",
+          "quote": "DM: The, it looks like, says Alden, we'll need to go up to him. He likes to be up in the observatory. It's a wide open room that you come into, this receiving room with arched open doorways, wide doorways, one leading off to the right, to the left, straight ahead of you, and a flight of stairs that leads upwards. Standing off to your left, well, I should say.\n\n"
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1258",
+              "endUid": "u1287",
+              "quote": "DM: Is maybe, like, servants and staff quarters more than, like, living quarters for the people. You get the impression that despite the wall, this place, you know, the wall and portcullis and all that good stuff, like, this wasn't designed as, like, a fortification. Like, this was not, like, a military… installation or something, so much as, like, a, you know, think of, like, an English country manor or.\n\n\n\nKaito Min: They hosted. They hosted here. They hosted fucking… it's literally Trump Ballroom Associates. It's like they fucking… You know?\n\n\n\nTxarro: So.\n\n\n\nDM: So this floor is, like, the staff floor. The landing's a lot smaller. You see a hallway leading down with lots of small doors off, you assume are all, like, individual servants' quarters. But on the other side of the building, sort of front side, the… it's maybe the more public side, there are two large rooms. And…\n\n\n\nDM: In one of them… you can see a man standing in front of one of the open windows, and you realize, putting the pieces of the house together, that this is one of the two eyes, one of the two top, excuse me, one of the two architectural marvels at the top of the building, that you saw as you came in, and he's standing in front of it, just looking out for the light, and the field, and the… the shine of the dandelion seeds in the last bit of sunlight that comes over the tops of the trees. The bottom two floors of the house now are entirely in darkness, in the shadow of the trees.\n\n\n\nDM: But in this room, shining through the window like a pillar of light, like a golden spotlight, holds a grim… the lord of Dandelion House: Hulda, who Alden told you is the second son of a minor lord, someone disinherited, resentful his whole life, that he was… You know, not the person ruling over whatever those lands might have been. Is a man in his mid-40s with a grizzled gray beard and a powerful build.\n\n\n\nDM: He stands with the sort of bored alertness that you associate with fighting people, the sort of person who has spent a long time standing still and watching and ready for whatever comes. That assessment is cemented… by the sword that he wears at his hip. The impression that you get of that is less of a man prepared for combat in the moment, and more of, this is what the Lord of the Manor does. He wears a sword. He's not armored, but he's wearing… well-worn, but fine clothes.\n\n\n\nDM: His sleeves are pulled up to the elbows, and you can see a criss-cross web of… long-healed scars on his forearms and on his face, too. A long cut that interrupts his beard on one side of his face.\n\n\n\nDM: Alden announces each of you by name in elaborate style. \"My lord, I have the pleasure of presenting…\" And one after another introduces, you, nodding and gesturing. His back is still towards you this entire time.\n\n\n\nDM: As the sunlight… slowly climbs up his body, the last rays of it shining in through the window, you in the doorway, are already in darkness.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p09": {
+      "label": "Kitchen",
+      "evidence": [
+        {
+          "startUid": "u1313",
+          "endUid": "u1332",
+          "quote": "DM: Back down the stairs you go, down to the kitchen, where he… invites you to… oh… the kitchen has all sorts of magical stuff in it. So, Tim, among the things…\n\n\n\nAyveen: Does that have magical light?\n\n\n\nDM: It has magical lamps, but they are not lit. So, like, there are… rather, there are wall sconces with candles that, Tim, you see do radiate magic, but they're not currently illuminated. So it is gloomy. It is gloomy bordering on dark.\n\n\n\nDM: In the kitchen, though, there's a cheerful fire going in the fireplace, a non-magical fire and a non-magical fireplace.\n\n\n\nDM: But there is a bar… next to the sink on one side of the room, a small metal rod about 2 inches in diameter and 6 inches long, affixed into a bracket that is magical.\n\n\n\nDM: There is also a chest in one corner of the room that is magical, and you can actually feel the cold coming off of it. You've probably seen in Tollen some variety of an ice-chesty sort of thing like that.\n\n\n\nDM: And then finally, there is, among the cupboards that completely line all the sides of the room… there is one of them, which… radiates magic.\n\n\n\nDM: In the center of the room, there is a large stone table and sturdy wooden chairs. It appears that he's collected all of the intact chairs left over from the various rooms in the house and brought them here. And there are probably a dozen or 15 chairs around the room, fewer around the table.\n\n\n\nDM: He gestures for you to sit down, he sits down too, and Alden goes to the icebox and starts to bring out, cold roast chicken, and cold vegetables, and goes to the cupboard and brings out a large loaf of freshly baked bread from that magical cupboard, and… sets about carving it up and setting out the places and everything.\n\n"
+        }
+      ],
+      "kind": "room",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1313",
+              "endUid": "u1318",
+              "quote": "DM: Back down the stairs you go, down to the kitchen, where he… invites you to… oh… the kitchen has all sorts of magical stuff in it. So, Tim, among the things…\n\n\n\nAyveen: Does that have magical light?\n\n\n\nDM: It has magical lamps, but they are not lit. So, like, there are… rather, there are wall sconces with candles that, Tim, you see do radiate magic, but they're not currently illuminated. So it is gloomy. It is gloomy bordering on dark.\n\n\n\nDM: In the kitchen, though, there's a cheerful fire going in the fireplace, a non-magical fire and a non-magical fireplace.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p10": {
+      "label": "Stables behind the house",
+      "evidence": [
+        {
+          "startUid": "u0973",
+          "endUid": "u0973",
+          "quote": "DM: But, follows off. Alden says the stables are behind the house.\n\n"
+        },
+        {
+          "startUid": "u1968",
+          "endUid": "u1975",
+          "quote": "DM: For the sake of moving the narrative forward, the stables are crummy and overgrown and decrepit, but Mossfoot is doing just fine, and there's…\n\n\n\nKaito Min: Or an explos…\n\n\n\nDM: Plenty to eat, and…\n\n\n\nEdric: I was just like…\n\n\n\nKaito Min: What's behind the door? What's behind the door?\n\n\n\nDM: There's a whole bin of dandelion greens that have been collected. You go back up the stairs to your room, you pass the… clock and the… tapestries, and the library, and head upwards to your, to your chambers for the night.\n\n"
+        }
+      ],
+      "kind": "stable",
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u0973",
+              "endUid": "u0973",
+              "quote": "the stables are behind the house."
+            }
+          ]
+        }
+      ]
+    },
+    "p11": {
+      "label": "Third-floor sleeping chambers",
+      "evidence": [
+        {
+          "startUid": "u1827",
+          "endUid": "u1828",
+          "quote": "DM: Very good. Alden will show you the quarters on the third floor.\n\n"
+        },
+        {
+          "startUid": "u1973",
+          "endUid": "u1975",
+          "quote": "DM: There's a whole bin of dandelion greens that have been collected. You go back up the stairs to your room, you pass the… clock and the… tapestries, and the library, and head upwards to your, to your chambers for the night.\n\n"
+        }
+      ],
+      "kind": "rooms",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u1827",
+              "endUid": "u1828",
+              "quote": "DM: Very good. Alden will show you the quarters on the third floor.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p12": {
+      "label": "Basement",
+      "evidence": [
+        {
+          "startUid": "u2016",
+          "endUid": "u2028",
+          "quote": "DM: And oddly, in your rooms, you hear it chiming, and it wakes you up at that time, which must be some sort of a magical effect of some kind. There's a tap on the door, and… the, the faithful servant, comes to collect each of you, and Alden leads you down… first, to the ground floor… and then, below the ground floor, into the basement.\n\n\n\nDM: The basement itself is enormous. It's high-ceilinged. It's the same footprint as the house. The foundations of the walls above you spread out wider, so there are these sort of massive stone pillars that the house is resting on. And the stone foundation underfoot.\n\n\n\nDM: There are the remains of… I mean… anything and everything, long moldered and turned to dust. Wooden beams that still seem in good shape, and… wrought metal, and spare parts, and a workshop in one corner, and… all the sorts of things that you would expect to find in the massive basement of an old, old manor house, but decrepit and crumbling.\n\n"
+        }
+      ],
+      "kind": "cellar",
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p05",
+          "evidence": [
+            {
+              "startUid": "u2016",
+              "endUid": "u2023",
+              "quote": "DM: And oddly, in your rooms, you hear it chiming, and it wakes you up at that time, which must be some sort of a magical effect of some kind. There's a tap on the door, and… the, the faithful servant, comes to collect each of you, and Alden leads you down… first, to the ground floor… and then, below the ground floor, into the basement.\n\n\n\nDM: The basement itself is enormous. It's high-ceilinged. It's the same footprint as the house. The foundations of the walls above you spread out wider, so there are these sort of massive stone pillars that the house is resting on. And the stone foundation underfoot.\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p13": {
+      "label": "Root-covered subcellar",
+      "evidence": [
+        {
+          "startUid": "u2042",
+          "endUid": "u2053",
+          "quote": "DM: And you go down this flight of stairs, down and down below the basement… to something lower down.\n\n\n\nDM: Tim, I'm sending you our last background for the evening.\n\n\n\nDM: As you come out at the bottom of the stairs, into a dirt… cellar? A dirt sub-cellar? A root cellar… with light glowing from a single candle hanging from the ceiling…\n\n\n\nDM: All around you, the walls of the cellar are covered in roots, large and small, some of them massive, some tiny.\n\n\n\nDM: And there's… an open… hidden door… that… Lord Hulda stands next to. Gesturing… This… is… it.\n\n"
+        }
+      ],
+      "kind": "cellar",
+      "relations": [
+        {
+          "relation": "below",
+          "target": "p12",
+          "evidence": [
+            {
+              "startUid": "u2035",
+              "endUid": "u2047",
+              "quote": "DM: This door opens… to… a stone… staircase that goes downwards, and the walls are a rough-hewn stone.\n\n\n\nDM: It's clear, even with a casual inspection, that this is… this is clearly, like, an add-on. This is not the same architect who built the rest of the house. This is… rougher, it looks amateur, almost. Basic. The ceiling is low.\n\n\n\nDM: And you go down this flight of stairs, down and down below the basement… to something lower down.\n\n\n\nDM: Tim, I'm sending you our last background for the evening.\n\n\n\nDM: As you come out at the bottom of the stairs, into a dirt… cellar? A dirt sub-cellar? A root cellar… with light glowing from a single candle hanging from the ceiling…\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    "p14": {
+      "label": "Tunnel through an enormous dry root",
+      "evidence": [
+        {
+          "startUid": "u2071",
+          "endUid": "u2073",
+          "quote": "DM: The passageway behind the door is… small. Maybe 3 feet in diameter? You have to crawl through it on hands and knees. You all fit comfortably, it's just… uncomfortable.\n\n"
+        },
+        {
+          "startUid": "u2087",
+          "endUid": "u2109",
+          "quote": "DM: You inch your way… foot by foot, down the tunnel. You realize after… a little ways… You're not actually crawling on dirt. It feels like the… tunnel itself is… is wood, maybe…\n\n\n\nDM: Actually, anyone who wants to, give me a… give me a… investigation. Natural 20. 22. Awesome.\n\n\n\nDM: You realize… what you're crawling through… Although the way it's laid out in the background here slightly obscures it. You're crawling through the center of an enormous root. Like, you're not crawling across roots, you're crawling down the middle of some kind of un… fathomably large tree root, maybe with… I mean, who knows how big the diameter is. But you're crawling… coming down through this crack in the center of it.\n\n\n\nKaito Min: That's… so, normal. Probably at the center of the root?\n\n\n\nAyveen: Xylem and phloem?\n\n\n\nKaito Min: I know, but is it, like, nutrients? Are we nutrients?\n\n\n\nDM: No, it's dry, it's bone dry. Like that. Like… bone dry.\n\n"
+        }
+      ],
+      "kind": "planar passage",
+      "vaultPath": "Gazetteer/Extraplanar/Feywild/Twilight Kingdom/Dandelion Root Portal.md",
+      "note": "The canonical portal note identifies this crossing. The party remains inside it at cutoff; the transcript establishes neither an exit nor a specific point of transition into the Feywild.",
+      "relations": [
+        {
+          "relation": "connected_to",
+          "target": "p13",
+          "evidence": [
+            {
+              "startUid": "u2049",
+              "endUid": "u2056",
+              "quote": "DM: And there's… an open… hidden door… that… Lord Hulda stands next to. Gesturing… This… is… it.\n\n\n\nDM: You go through, it gets dark, just when you can't see the light of the candle behind you, then you'll see the light of the candle in front of you. And… come out the other side.\n\n"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "movement",
+      "source": {
+        "startUid": "u0038",
+        "endUid": "u0054"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Travel west from Tollen with Alden into old woodland, reaching the opening camp.",
+      "evidence": [
+        {
+          "startUid": "u0038",
+          "endUid": "u0042",
+          "quote": "DM: It seemed to the group of you both, like, a good opportunity… maybe, like, easy money or something straightforward. After all, how comp… how complex can it be to look in the basement of an old house? And also the opportunity to get into a part of the world that you hadn't been before. I'm sort of headed west from Tollen up and into the hills. You've been at this for a few days now, traveling with him.\n\n"
+        },
+        {
+          "startUid": "u0045",
+          "endUid": "u0054",
+          "quote": "DM: His name is Alden, and your impression is that this is a deeply boring person. Like, this is… this is a sort of a professional servant or butler, someone who's been… hired to… serve a person who's come into money. He hasn't worked for this lord for very long. Hmm. But… in any case, he's not the most exciting thing that's… that's going on. Over the course of a few days of travel, you've headed west, and you're camped in an increasingly wild, increasingly old wood for the night. And Alden thinks that you'll get there by sunset tomorrow.\n\n"
+        }
+      ],
+      "from": "p01",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "travel",
+      "duration": {
+        "text": "a few days",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Narrated passage of time"
+      }
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u0699",
+        "endUid": "u0704"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Hike with Alden from camp through increasingly trackless forest and the ruined gate and old moat to Dandelion House grounds.",
+      "evidence": [
+        {
+          "startUid": "u0699",
+          "endUid": "u0704",
+          "quote": "DM: In the morning, you strike camp… and head… onwards. It's a long day's hike. There's a lot of ground to cover. Alden sets a pretty steady pace. Onwards. On and on you go through the day.\n\n"
+        },
+        {
+          "startUid": "u0707",
+          "endUid": "u0713",
+          "quote": "DM: At a certain point in the morning, you lose the path. You started by going upriver from Tollen, and then following paths through the woods that were relatively… well marked, or at least occasionally used, and then it seemed like you were just sort of following a game trail, and at a certain point… It just strikes you as trackless. The canopy overhead is dense enough that it's difficult to tell even what cardinal direction you're heading, and you can only sort of tell the time of day that it is. This filtered green-blue light that makes it down to the forest floor, where all around you the thick branches fill everything.\n\n\n\nDM: In a way, it's like an open… the canopy overhead blocks much from growing on the floor, so it's open down there. But without Alden leading you, there would definitely be no path to the place you're going. It's trackless.\n\n"
+        },
+        {
+          "startUid": "u0729",
+          "endUid": "u0733",
+          "quote": "DM: Yeah, you have a really clear sense of, like, what cardinal direction you're headed. You're continuing to head northwest, more or less, curving slightly towards the north. You could at least directionally find your way back to, you know, the last… the river again. It may take a little while extra, but… Yeah. Nothing fishy, just difficult terrain.\n\n"
+        },
+        {
+          "startUid": "u0812",
+          "endUid": "u0818",
+          "quote": "DM: Alden leads you through… the gate, leaving the densest of the forest behind, and it just starts to thin out.\n\n\n\nDM: On the far side, the path dips down a couple of feet, and then back up again, and you realize you're… crossing through what must have been a moat… You know… Hundreds of years ago.\n\n"
+        },
+        {
+          "startUid": "u0837",
+          "endUid": "u0848",
+          "quote": "DM: And there in front of you is… somewhere between a majestic and decrepit manor house… something that is clearly hundreds of years old.\n\n\n\nDM: That seems to be swallowed by the forest, although… maybe not as swallowed by the forest as the forest you've just come through, just.\n\n\n\nDM: It's still intact, still in one piece. Even though the windows are gone in many, many of the windows, the stone, the walls are still solid, and even though vines and moss is crawling up it, and in fact the whole back half of it seems almost swallowed by brush and saplings… You get a sense, at least, that the bones are strong. Right? That structurally, it's… solid.\n\n\n\nDM: Alden pauses at just about this distance and says to you, Welcome to Dandelion House.\n\n"
+        }
+      ],
+      "from": "p03",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "hike",
+      "route": [
+        {
+          "reading": "Head northwest, curving slightly north; directionally the river remains findable."
+        },
+        {
+          "reading": "Pass through the ruined portcullis gate and cross the old moat."
+        }
+      ],
+      "duration": {
+        "text": "a long day's hike",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Narrated passage of time"
+      }
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u0964",
+        "endUid": "u0973"
+      },
+      "actors": [
+        "Mossfoot"
+      ],
+      "reading": "Mossfoot follows Colden toward the stables behind the house.",
+      "evidence": [
+        {
+          "startUid": "u0964",
+          "endUid": "u0973",
+          "quote": "DM: Looking over, he sees the pony. \"The stables, then,\" and reaches out a hand to take the reins. What?\n\n\n\nEdric: Competent?\n\n\n\nDM: Oh, yeah, he certainly acts competent. And Alden says, sensing your hesitation, not to worry, not to worry. We've…\n\n\n\nEdric: So, Edric's not even really hesitating, he just, he just, like, pats Mossfoot on the head and says, go with the nice man. He, like, he pats his, his, his, his maul at the same time, like, if anything bad happens, we'll come after you, don't worry.\n\n\n\nDM: Mossfoot definitely gives Colden the side-eye in the way that only the horse can be like, really? Okay.\n\n\n\nDM: But, follows off. Alden says the stables are behind the house.\n\n"
+        }
+      ],
+      "from": "p04",
+      "to": "p10",
+      "completion": "underway",
+      "mode": "led by Colden",
+      "note": "The pony follows off; its safe placement in the stables is confirmed later at l08. No PC accompanies this handoff."
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u1130",
+        "endUid": "u1145"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "All five PCs enter the house’s receiving room.",
+      "evidence": [
+        {
+          "startUid": "u1130",
+          "endUid": "u1130",
+          "quote": "DM: In you go into the house.\n\n"
+        },
+        {
+          "startUid": "u1134",
+          "endUid": "u1145",
+          "quote": "DM: Presumably all of you come. Yes. Although he did…\n\n\n\nAyveen: You did say you might meet us outside, so I'm a little… but, okay, we'll go in.\n\n\n\nDM: The, it looks like, says Alden, we'll need to go up to him. He likes to be up in the observatory. It's a wide open room that you come into, this receiving room with arched open doorways, wide doorways, one leading off to the right, to the left, straight ahead of you, and a flight of stairs that leads upwards. Standing off to your left, well, I should say.\n\n\n\nDM: A thick layer of dust coats everywhere that has not been walked on. It's almost like there are paths through the dust where clearly people have been moving between from room to room. There's a massive staircase that sweeps upwards to a second floor, and then to a third floor beyond that you can't see quite as well.\n\n\n\nDM: There's an open, sort of an open section in the middle of the house where the stairs go up, so it's… and on each level, on each of the two levels, you can see, it's almost like a sort of an interior, like, balcony walkway, goes around the center, where there are rooms on the exterior of it. On this floor that you're on, though, that's not the layout, and you can see through to the right… A large room with tall, tall windows that it feels something like a ballroom or a grand… something kind of a room like that on this floor. Off in the back, you can sort of guess or imagine there may be something like a kitchen, other rooms to your left.\n\n"
+        }
+      ],
+      "from": "p04",
+      "to": "p06",
+      "completion": "arrived",
+      "mode": "walk",
+      "note": "Earlier apparent entry wording at u0935–u0939 was retconned at u1039–u1041: that conversation occurs outside after the gate. This is the subsequent accepted entry."
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u1196",
+        "endUid": "u1213"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party ascends through the second-floor landing toward Hulda upstairs.",
+      "evidence": [
+        {
+          "startUid": "u1196",
+          "endUid": "u1213",
+          "quote": "DM: As you go further up onto the second floor, Alden continues up onto the third. The second floor seems… to have these… it's… it's a very tall ceiling floor, also, just like the first. The first is maybe, like, a 14-foot ceiling, and these huge, sort of, like, entertaining rooms, also. The second is more like a, I don't know, a 9- or 10-foot ceiling, easily.\n\n\n\nDM: You see in the rooms the remains, for the most part, of what, probably were, like, grand bedrooms. You get a glimpse of what is probably a library, at least what appears to be bookshelves. You can't quite tell, because the night is falling a little bit, how many books there are, but definitely, bookshelves.\n\n\n\nAyveen: So are there decaying furnishings, or is it empty space with, like, except for, like, built-in things, like bookshelves?\n\n\n\nDM: Here and there, there are a few things that are in pristine condition that you assume must somehow be magically preserved.\n\n\n\nTxarro: Are they magically…\n\n\n\nDM: Landing…\n\n\n\nTxarro: Preserved.\n\n\n\nDM: Oh, yes, they are magically preserved.\n\n\n\nDM: Preservation is the school of magic there. On the landing on the second floor, there is a massive grandfather clock that is, still tick-tocking back and forth. That looks… ancient, but still in good shape.\n\n\n\nDM: The far side of the landing… the other things in that landing on the second floor that are visible… are there is a… a very black painting on the far side. This is very dark, you'd need to get a lot closer to see what it is. There are tapestries here and there that are sort of… falling to pieces…\n\n"
+        }
+      ],
+      "from": "p06",
+      "to": "p07",
+      "completion": "arrived",
+      "mode": "stairs"
+    },
+    {
+      "id": "l06",
+      "type": "presence",
+      "source": {
+        "startUid": "u1220",
+        "endUid": "u1253"
+      },
+      "actors": [
+        "Kaito Min",
+        "Ayveen"
+      ],
+      "reading": "Kaito and Ayveen linger at the second-floor tapestries, investigate two gardening scenes, then hurry to rejoin the group.",
+      "evidence": [
+        {
+          "startUid": "u1220",
+          "endUid": "u1229",
+          "quote": "Kaito Min: Yeah, you know, as we're walking through, and, you know, we're… Kaito and, sorry, Kate, what's your character's… Ayveen?\n\n\n\nTxarro: I mean…\n\n\n\nAyveen: Yeah.\n\n\n\nKaito Min: Ayveen, since we're kind of in the last of the pack, Kaito will, like, just kind of, you know…\n\n\n\nDM: Yeah, why don't the two of you give me an investigation roll on the closest tapestry?\n\n\n\nKaito Min: 16?\n\n\n\nDM: This is a tapestry of gardeners in a greenhouse trimming plants. Like, like… bonsais, maybe?\n\n\n\nDM: Like a little tree that's up, and they're, like, snipping the root, you know, the way that you do on a bonsai to keep it small.\n\n"
+        },
+        {
+          "startUid": "u1230",
+          "endUid": "u1238",
+          "quote": "Kaito Min: I'm gonna look at the next one.\n\n\n\nDM: This is probably the last thing you can get away with before.\n\n\n\nKaito Min: Yeah.\n\n\n\nDM: Really, obviously, not being with everyone, you're gonna have to hustle to keep up, but give me another investigation.\n\n\n\nAyveen: I rolled a 17.\n\n\n\nDM: It's a, another of gardeners in a greenhouse… a long row of maybe 4 or 5 people, all… you can't tell, even with 17, like, what they're doing exactly, but they've all… they're all working on something, like at a work table in a greenhouse, something with plants, some horticulture.\n\n\n\nKaito Min: What the fuck?\n\n\n\nDM: Alden calls back. Come on now, we're almost there, he's just up ahead. We should come in all together.\n\n"
+        },
+        {
+          "startUid": "u1251",
+          "endUid": "u1255",
+          "quote": "Ayveen: Let's go meet them! Yeah, that's good.\n\n\n\nKaito Min: Stop, stop, stop, stop.\n\n\n\nDM: The third floor is…\n\n\n\nKaito Min: Kaito catches up to Tarek.\n\n"
+        }
+      ],
+      "place": "p07"
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u1264",
+        "endUid": "u1312"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The reunited party reaches the observatory doorway and is introduced to Hulda before being invited downstairs for food.",
+      "evidence": [
+        {
+          "startUid": "u1254",
+          "endUid": "u1255",
+          "quote": "DM: The third floor is…\n\n\n\nKaito Min: Kaito catches up to Tarek.\n\n"
+        },
+        {
+          "startUid": "u1264",
+          "endUid": "u1287",
+          "quote": "DM: In one of them… you can see a man standing in front of one of the open windows, and you realize, putting the pieces of the house together, that this is one of the two eyes, one of the two top, excuse me, one of the two architectural marvels at the top of the building, that you saw as you came in, and he's standing in front of it, just looking out for the light, and the field, and the… the shine of the dandelion seeds in the last bit of sunlight that comes over the tops of the trees. The bottom two floors of the house now are entirely in darkness, in the shadow of the trees.\n\n\n\nDM: But in this room, shining through the window like a pillar of light, like a golden spotlight, holds a grim… the lord of Dandelion House: Hulda, who Alden told you is the second son of a minor lord, someone disinherited, resentful his whole life, that he was… You know, not the person ruling over whatever those lands might have been. Is a man in his mid-40s with a grizzled gray beard and a powerful build.\n\n\n\nDM: He stands with the sort of bored alertness that you associate with fighting people, the sort of person who has spent a long time standing still and watching and ready for whatever comes. That assessment is cemented… by the sword that he wears at his hip. The impression that you get of that is less of a man prepared for combat in the moment, and more of, this is what the Lord of the Manor does. He wears a sword. He's not armored, but he's wearing… well-worn, but fine clothes.\n\n\n\nDM: His sleeves are pulled up to the elbows, and you can see a criss-cross web of… long-healed scars on his forearms and on his face, too. A long cut that interrupts his beard on one side of his face.\n\n\n\nDM: Alden announces each of you by name in elaborate style. \"My lord, I have the pleasure of presenting…\" And one after another introduces, you, nodding and gesturing. His back is still towards you this entire time.\n\n\n\nDM: As the sunlight… slowly climbs up his body, the last rays of it shining in through the window, you in the doorway, are already in darkness.\n\n"
+        },
+        {
+          "startUid": "u1288",
+          "endUid": "u1312",
+          "quote": "DM: And by the time the long and elaborate introductions have finished, Alden continues on with your bona fides, and the feats that you've done, and the… jobs that you've pulled, the… treasures that you've collected for various people. A sort of a… a summary of everything and the stories that you've shared with him over these last few days on the road. That you thought, probably, were just idle chat around the fire, but realize now maybe he was… collecting and probing exactly for this purpose.\n\n\n\nDM: When at last he finishes all of that, the last rays of light disappear from the room. And Hulda, grim… Lord of Dandelion Keep turns to face you.\n\n\n\nDM: Looking over you appraisingly, looking over you… Mmm… You've had this sort of look before, this sense of sizing you up. And you've seen it both from prospective employers trying to gauge whether you're really capable of doing the thing they're sending you off to do. And you've also seen that in the looks of people about to draw on you and start a fight, wondering if they can take you.\n\n\n\nDM: That sort of ambiguous look from a dangerous person, whether it's an enemy or a friend.\n\n\n\nDM: He takes a deep breath and sighs, and says in a not unfriendly way, \"Welcome. Welcome, welcome. I know it was a long journey to get here, and I appreciate it. Are you hungry?\"\n\n\n\nKaito Min: No.\n\n\n\nAyveen: Now that you mention it. We did skip lunch.\n\n\n\nDM: Alden… Lead us down to the kitchen, please. Let's find food for everyone.\n\n"
+        }
+      ],
+      "from": "p07",
+      "to": "p08",
+      "completion": "arrived",
+      "mode": "stairs"
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u1313",
+        "endUid": "u1332"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party goes downstairs with Hulda to the kitchen and sits for dinner.",
+      "evidence": [
+        {
+          "startUid": "u1313",
+          "endUid": "u1318",
+          "quote": "DM: Back down the stairs you go, down to the kitchen, where he… invites you to… oh… the kitchen has all sorts of magical stuff in it. So, Tim, among the things…\n\n\n\nAyveen: Does that have magical light?\n\n\n\nDM: It has magical lamps, but they are not lit. So, like, there are… rather, there are wall sconces with candles that, Tim, you see do radiate magic, but they're not currently illuminated. So it is gloomy. It is gloomy bordering on dark.\n\n\n\nDM: In the kitchen, though, there's a cheerful fire going in the fireplace, a non-magical fire and a non-magical fireplace.\n\n"
+        },
+        {
+          "startUid": "u1326",
+          "endUid": "u1332",
+          "quote": "DM: In the center of the room, there is a large stone table and sturdy wooden chairs. It appears that he's collected all of the intact chairs left over from the various rooms in the house and brought them here. And there are probably a dozen or 15 chairs around the room, fewer around the table.\n\n\n\nDM: He gestures for you to sit down, he sits down too, and Alden goes to the icebox and starts to bring out, cold roast chicken, and cold vegetables, and goes to the cupboard and brings out a large loaf of freshly baked bread from that magical cupboard, and… sets about carving it up and setting out the places and everything.\n\n"
+        }
+      ],
+      "from": "p08",
+      "to": "p09",
+      "completion": "arrived",
+      "mode": "stairs"
+    },
+    {
+      "id": "l09",
+      "type": "presence",
+      "source": {
+        "startUid": "u1968",
+        "endUid": "u1975"
+      },
+      "actors": [
+        "Edric",
+        "Mossfoot"
+      ],
+      "reading": "Edric checks on Mossfoot at the stables; the pony is well and supplied with food.",
+      "evidence": [
+        {
+          "startUid": "u1954",
+          "endUid": "u1954",
+          "quote": "Edric: Could you show me to the stable? I'd like to check on Mossfoot.\n\n"
+        },
+        {
+          "startUid": "u1968",
+          "endUid": "u1975",
+          "quote": "DM: For the sake of moving the narrative forward, the stables are crummy and overgrown and decrepit, but Mossfoot is doing just fine, and there's…\n\n\n\nKaito Min: Or an explos…\n\n\n\nDM: Plenty to eat, and…\n\n\n\nEdric: I was just like…\n\n\n\nKaito Min: What's behind the door? What's behind the door?\n\n\n\nDM: There's a whole bin of dandelion greens that have been collected. You go back up the stairs to your room, you pass the… clock and the… tapestries, and the library, and head upwards to your, to your chambers for the night.\n\n"
+        }
+      ],
+      "place": "p10",
+      "note": "This pre-bed outing is resolved retrospectively after the compressed sleep proposal. It does not place the rest of the party at the stable."
+    },
+    {
+      "id": "l10",
+      "type": "movement",
+      "source": {
+        "startUid": "u1973",
+        "endUid": "u1975"
+      },
+      "actors": [
+        "Edric"
+      ],
+      "reading": "Edric returns upstairs past the landing and library to his sleeping chamber.",
+      "evidence": [
+        {
+          "startUid": "u1973",
+          "endUid": "u1975",
+          "quote": "DM: There's a whole bin of dandelion greens that have been collected. You go back up the stairs to your room, you pass the… clock and the… tapestries, and the library, and head upwards to your, to your chambers for the night.\n\n"
+        }
+      ],
+      "from": "p10",
+      "to": "p11",
+      "completion": "arrived",
+      "mode": "walk and stairs",
+      "route": [
+        {
+          "place": "p07",
+          "reading": "Pass the clock and tapestries on the landing; the library is passed, not entered."
+        }
+      ]
+    },
+    {
+      "id": "l11",
+      "type": "presence",
+      "source": {
+        "startUid": "u2011",
+        "endUid": "u2019"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The PCs wake in their rooms before Alden collects each of them.",
+      "evidence": [
+        {
+          "startUid": "u2011",
+          "endUid": "u2019",
+          "quote": "DM: You wake… hearing the clock chime… whatever the appropriate number of hours are for a long rest, but still before dawn. I don't know, 6, maybe?\n\n\n\nEdric: 5? Yeah, 6 in the morning.\n\n\n\nDM: And oddly, in your rooms, you hear it chiming, and it wakes you up at that time, which must be some sort of a magical effect of some kind. There's a tap on the door, and… the, the faithful servant, comes to collect each of you, and Alden leads you down… first, to the ground floor… and then, below the ground floor, into the basement.\n\n"
+        }
+      ],
+      "place": "p11"
+    },
+    {
+      "id": "l12",
+      "type": "movement",
+      "source": {
+        "startUid": "u2016",
+        "endUid": "u2034"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Alden leads the party down to the ground floor and into the basement.",
+      "evidence": [
+        {
+          "startUid": "u2016",
+          "endUid": "u2023",
+          "quote": "DM: And oddly, in your rooms, you hear it chiming, and it wakes you up at that time, which must be some sort of a magical effect of some kind. There's a tap on the door, and… the, the faithful servant, comes to collect each of you, and Alden leads you down… first, to the ground floor… and then, below the ground floor, into the basement.\n\n\n\nDM: The basement itself is enormous. It's high-ceilinged. It's the same footprint as the house. The foundations of the walls above you spread out wider, so there are these sort of massive stone pillars that the house is resting on. And the stone foundation underfoot.\n\n"
+        },
+        {
+          "startUid": "u2029",
+          "endUid": "u2034",
+          "quote": "DM: From his… pocket, Alden takes out… another key. He had used one to unlock the door down to the basement. Takes out a… another one, a smaller one… what seems to be gold, maybe even gold that's glowing, and… unlocks a door in the far back corner of the basement.\n\n"
+        }
+      ],
+      "from": "p11",
+      "to": "p12",
+      "completion": "arrived",
+      "mode": "stairs"
+    },
+    {
+      "id": "l13",
+      "type": "movement",
+      "source": {
+        "startUid": "u2035",
+        "endUid": "u2053"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Descend the rough added stairway below the basement into the root-covered subcellar where Hulda waits.",
+      "evidence": [
+        {
+          "startUid": "u2035",
+          "endUid": "u2053",
+          "quote": "DM: This door opens… to… a stone… staircase that goes downwards, and the walls are a rough-hewn stone.\n\n\n\nDM: It's clear, even with a casual inspection, that this is… this is clearly, like, an add-on. This is not the same architect who built the rest of the house. This is… rougher, it looks amateur, almost. Basic. The ceiling is low.\n\n\n\nDM: And you go down this flight of stairs, down and down below the basement… to something lower down.\n\n\n\nDM: Tim, I'm sending you our last background for the evening.\n\n\n\nDM: As you come out at the bottom of the stairs, into a dirt… cellar? A dirt sub-cellar? A root cellar… with light glowing from a single candle hanging from the ceiling…\n\n\n\nDM: All around you, the walls of the cellar are covered in roots, large and small, some of them massive, some tiny.\n\n\n\nDM: And there's… an open… hidden door… that… Lord Hulda stands next to. Gesturing… This… is… it.\n\n"
+        }
+      ],
+      "from": "p12",
+      "to": "p13",
+      "completion": "arrived",
+      "mode": "stairs"
+    },
+    {
+      "id": "l14",
+      "type": "movement",
+      "source": {
+        "startUid": "u2071",
+        "endUid": "u2150"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The five PCs crawl into the hollow root tunnel; the door closes behind them and no exit is reached.",
+      "evidence": [
+        {
+          "startUid": "u2071",
+          "endUid": "u2077",
+          "quote": "DM: The passageway behind the door is… small. Maybe 3 feet in diameter? You have to crawl through it on hands and knees. You all fit comfortably, it's just… uncomfortable.\n\n\n\nDM: What order are you in?\n\n\n\nAyveen: I'll go first.\n\n\n\nEdric: I'll go second.\n\n\n\nTarek: I'll go next.\n\n"
+        },
+        {
+          "startUid": "u2082",
+          "endUid": "u2089",
+          "quote": "Txarro: I can go last.\n\n\n\nKaito Min: Okay, that's fine.\n\n\n\nTxarro: We are last.\n\n\n\nDM: \"Good luck,\" he says.\n\n\n\nDM: You inch your way… foot by foot, down the tunnel. You realize after… a little ways… You're not actually crawling on dirt. It feels like the… tunnel itself is… is wood, maybe…\n\n"
+        },
+        {
+          "startUid": "u2094",
+          "endUid": "u2109",
+          "quote": "DM: You realize… what you're crawling through… Although the way it's laid out in the background here slightly obscures it. You're crawling through the center of an enormous root. Like, you're not crawling across roots, you're crawling down the middle of some kind of un… fathomably large tree root, maybe with… I mean, who knows how big the diameter is. But you're crawling… coming down through this crack in the center of it.\n\n\n\nKaito Min: That's… so, normal. Probably at the center of the root?\n\n\n\nAyveen: Xylem and phloem?\n\n\n\nKaito Min: I know, but is it, like, nutrients? Are we nutrients?\n\n\n\nDM: No, it's dry, it's bone dry. Like that. Like… bone dry.\n\n"
+        },
+        {
+          "startUid": "u2120",
+          "endUid": "u2125",
+          "quote": "DM: You crawl further and further, and the scant light behind you dwindles.\n\n\n\nTxarro: I'm gonna summon…\n\n\n\nEdric: I'm gonna summon a light, too. I'm not… This darkness thing.\n\n\n\nDM: Yeah, why… just before… the light dwindles entirely…\n\n\n\nDM: And I'm gonna say in the moment, as you're in the process of casting the spell… You hear the door close behind you.\n\n"
+        },
+        {
+          "startUid": "u2145",
+          "endUid": "u2150",
+          "quote": "DM: Is the… did the light behind… has that gone away? Yep.\n\n\n\nKaito Min: Is there a light in front of us?\n\n\n\nDM: You can't… if there is, you can't see it over the light that you've just cast.\n\n\n\nDM: But I think that's where we're gonna leave it for tonight.\n\n\n\nDM: With the five of you inching your way through a tunnel, the way behind you shut.\n\n"
+        }
+      ],
+      "from": "p13",
+      "to": null,
+      "completion": "underway",
+      "mode": "crawl",
+      "route": [
+        {
+          "place": "p14",
+          "reading": "Enter and remain inside the narrow hollow root; no emerged destination is shown."
+        }
+      ],
+      "note": "Crawl order is Ayveen, Edric, Tarek, Kaito Min, Txarro. The sound of the closing door does not identify who closed it."
+    }
+  ]
+}

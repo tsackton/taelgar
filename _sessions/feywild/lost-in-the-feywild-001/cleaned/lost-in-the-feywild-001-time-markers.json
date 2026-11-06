@@ -1,0 +1,392 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "lost-in-the-feywild-001",
+    "sessionYaml": "_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-session.yaml",
+    "sessionYamlSha256": "a313fb081beaac45375de98b21bdca96b06ece6cfa33ce8b1402a0e648e80a38",
+    "transcriptPath": "_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-transcript.md",
+    "transcriptSha256": "298ea2c22028167c4879dde7e113f05b35d541b25c1ce2587ac779c2fd86dc02",
+    "yamlDates": {
+      "start": "1740-10-03",
+      "end": "1740-10-05"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0038",
+        "endUid": "u0042"
+      },
+      "reading": "The party has already traveled west from Tollen with Alden for a few days before the opening camp.",
+      "evidence": [
+        {
+          "startUid": "u0038",
+          "endUid": "u0042",
+          "quote": "You've been at this for a few days now, traveling with him."
+        },
+        {
+          "startUid": "u0045",
+          "endUid": "u0054",
+          "quote": "Over the course of a few days of travel, you've headed west, and you're camped in an increasingly wild, increasingly old wood for the night."
+        }
+      ],
+      "duration": {
+        "text": "a few days",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Narrated passage of time"
+      },
+      "completion": "completed",
+      "note": "No departure date is spoken. This opening travel is distinct from the following full day of hiking."
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u0045",
+        "endUid": "u0056"
+      },
+      "reading": "The opening dinner is at a woodland camp for the night in deep fall.",
+      "evidence": [
+        {
+          "startUid": "u0045",
+          "endUid": "u0054",
+          "quote": "you're camped in an increasingly wild, increasingly old wood for the night."
+        },
+        {
+          "startUid": "u0055",
+          "endUid": "u0056",
+          "quote": "But around the campfire tonight"
+        },
+        {
+          "startUid": "u0222",
+          "endUid": "u0222",
+          "quote": "It is fall, it is deep into fall."
+        }
+      ],
+      "time": {
+        "partOfDay": "evening",
+        "precision": "approximate",
+        "basis": "DM narration"
+      }
+    },
+    {
+      "id": "t03",
+      "source": {
+        "startUid": "u0696",
+        "endUid": "u0704"
+      },
+      "reading": "The camp night passes uneventfully and the party wakes, strikes camp, and resumes travel the following morning.",
+      "evidence": [
+        {
+          "startUid": "u0696",
+          "endUid": "u0696",
+          "quote": "You set watches through the night, presumably?"
+        },
+        {
+          "startUid": "u0698",
+          "endUid": "u0698",
+          "quote": "Everything passes uneventfully"
+        },
+        {
+          "startUid": "u0699",
+          "endUid": "u0704",
+          "quote": "In the morning, you strike camp… and head… onwards."
+        }
+      ],
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "timeRange": {
+        "start": {
+          "partOfDay": "night",
+          "precision": "approximate",
+          "basis": "DM narration"
+        },
+        "end": {
+          "partOfDay": "morning",
+          "precision": "approximate",
+          "basis": "DM narration"
+        }
+      }
+    },
+    {
+      "id": "t04",
+      "source": {
+        "startUid": "u0699",
+        "endUid": "u0704"
+      },
+      "reading": "The party hikes through a long day from the morning departure to the manor before dark.",
+      "evidence": [
+        {
+          "startUid": "u0699",
+          "endUid": "u0704",
+          "quote": "It's a long day's hike. There's a lot of ground to cover. Alden sets a pretty steady pace. Onwards. On and on you go through the day."
+        },
+        {
+          "startUid": "u1127",
+          "endUid": "u1129",
+          "quote": "we made it here before dark tonight."
+        }
+      ],
+      "duration": {
+        "text": "a long day's hike",
+        "unit": "day",
+        "precision": "vague",
+        "basis": "Narrated passage of time"
+      },
+      "completion": "completed",
+      "timeRange": {
+        "start": {
+          "partOfDay": "morning",
+          "precision": "approximate",
+          "basis": "DM narration"
+        },
+        "end": {
+          "partOfDay": "before dark",
+          "precision": "approximate",
+          "basis": "DM narration"
+        }
+      }
+    },
+    {
+      "id": "t05",
+      "source": {
+        "startUid": "u0707",
+        "endUid": "u0713"
+      },
+      "reading": "During the morning hike the used path becomes trackless forest.",
+      "evidence": [
+        {
+          "startUid": "u0707",
+          "endUid": "u0711",
+          "quote": "At a certain point in the morning, you lose the path."
+        }
+      ],
+      "time": {
+        "partOfDay": "morning",
+        "precision": "approximate",
+        "basis": "DM narration"
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t04"
+        }
+      ]
+    },
+    {
+      "id": "t06",
+      "source": {
+        "startUid": "u0742",
+        "endUid": "u0751"
+      },
+      "reading": "By the afternoon of the hike, visible wildlife and sounds below the canopy diminish.",
+      "evidence": [
+        {
+          "startUid": "u0742",
+          "endUid": "u0746",
+          "quote": "As the day wears on, there's less of it. So that by the afternoon… You no longer see deer tracks on the forest floor."
+        }
+      ],
+      "time": {
+        "partOfDay": "afternoon",
+        "precision": "approximate",
+        "basis": "DM narration"
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t04"
+        }
+      ]
+    },
+    {
+      "id": "t07",
+      "source": {
+        "startUid": "u0752",
+        "endUid": "u0755"
+      },
+      "reading": "Around noon Alden has the party keep walking and eat on the move.",
+      "evidence": [
+        {
+          "startUid": "u0752",
+          "endUid": "u0752",
+          "quote": "Somewhere around noon, Alden says, I don't think we should stop for lunch. I think we should press on so that we get there before dark, and, encourages you to eat as you walk."
+        }
+      ],
+      "time": {
+        "clock": "12:00",
+        "partOfDay": "noon",
+        "precision": "approximate",
+        "basis": "DM narration"
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t04"
+        }
+      ]
+    },
+    {
+      "id": "t08",
+      "source": {
+        "startUid": "u0777",
+        "endUid": "u0783"
+      },
+      "reading": "The sun sinks as the party nears Dandelion House, darkening the forest floor.",
+      "evidence": [
+        {
+          "startUid": "u0777",
+          "endUid": "u0782",
+          "quote": "As the day passes on later and the sun starts to sink in the sky…"
+        },
+        {
+          "startUid": "u0783",
+          "endUid": "u0783",
+          "quote": "Not far now, says Alden. We are almost there."
+        }
+      ],
+      "time": {
+        "partOfDay": "late afternoon / approaching sunset",
+        "precision": "approximate",
+        "basis": "DM narration"
+      },
+      "relations": [
+        {
+          "type": "during",
+          "target": "t04"
+        }
+      ],
+      "note": "The sun moves here; the party has not yet entered the root crossing or established a Feywild location."
+    },
+    {
+      "id": "t09",
+      "source": {
+        "startUid": "u1285",
+        "endUid": "u1298"
+      },
+      "reading": "The final sunlight disappears while Alden finishes introducing the party to Hulda upstairs.",
+      "evidence": [
+        {
+          "startUid": "u1285",
+          "endUid": "u1287",
+          "quote": "As the sunlight… slowly climbs up his body, the last rays of it shining in through the window"
+        },
+        {
+          "startUid": "u1295",
+          "endUid": "u1298",
+          "quote": "When at last he finishes all of that, the last rays of light disappear from the room."
+        }
+      ],
+      "time": {
+        "partOfDay": "sunset",
+        "precision": "approximate",
+        "basis": "DM narration"
+      }
+    },
+    {
+      "id": "t10",
+      "source": {
+        "startUid": "u1915",
+        "endUid": "u1915"
+      },
+      "reading": "During the party’s post-dinner discussion, the grandfather clock chimes ten at night.",
+      "evidence": [
+        {
+          "startUid": "u1915",
+          "endUid": "u1915",
+          "quote": "the grandfather clock chimes 10 o'clock."
+        }
+      ],
+      "time": {
+        "clock": "22:00",
+        "precision": "exact",
+        "basis": "Clock chimes ten; the post-dinner, before-bed context establishes evening rather than morning."
+      }
+    },
+    {
+      "id": "t11",
+      "source": {
+        "startUid": "u2009",
+        "endUid": "u2015"
+      },
+      "reading": "The party completes an overnight long rest at the manor and wakes before dawn, loosely around six, before Alden leads them downstairs.",
+      "evidence": [
+        {
+          "startUid": "u1967",
+          "endUid": "u1967",
+          "quote": "they all fall asleep, they all wake up."
+        },
+        {
+          "startUid": "u2009",
+          "endUid": "u2009",
+          "quote": "I want a long rest, that's what I want to do."
+        },
+        {
+          "startUid": "u2011",
+          "endUid": "u2014",
+          "quote": "You wake… hearing the clock chime… whatever the appropriate number of hours are for a long rest, but still before dawn. I don't know, 6, maybe?"
+        },
+        {
+          "startUid": "u2015",
+          "endUid": "u2015",
+          "quote": "5? Yeah, 6 in the morning."
+        }
+      ],
+      "duration": {
+        "value": 8,
+        "unit": "hour",
+        "precision": "exact",
+        "basis": "Eight-hour long-rest convention; DM explicitly grants the elapsed long rest."
+      },
+      "dateBoundaries": 1,
+      "completion": "completed",
+      "time": {
+        "clock": "06:00",
+        "partOfDay": "before dawn",
+        "precision": "approximate",
+        "basis": "DM says before dawn and tentatively six; Edric suggests five then agrees on six."
+      },
+      "note": "The earlier sleep proposal at u1967 is followed by pre-bed stable checking, Goodberry, and pilfering, then this confirmed waking. Count one overnight; preserve the approximate clock alongside the pre-dawn description."
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No civil date is spoken. October 3–5 and the year 1740 come only from YAML; two narrated overnights fit camp October 3, arrival October 4, and waking October 5.",
+    "expectedDateBoundaries": 2,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02",
+      "t03",
+      "t04",
+      "t05",
+      "t06",
+      "t07",
+      "t08",
+      "t09",
+      "t10",
+      "t11"
+    ],
+    "explanation": "Two date transitions are explicit after the opening camp. The preceding few days of already-completed westward travel are established but not dated precisely, leaving the whole session-covered interval open. The YAML span fits the camp-to-tunnel sequence without independently dating or accounting for the earlier travel."
+  },
+  "boundaryUncertainties": [
+    {
+      "boundary": "start",
+      "evidence": [
+        "t01",
+        "t02"
+      ],
+      "reading": "The opening includes several days of completed travel before the camp scene; its departure is undated.",
+      "alternatives": [
+        {
+          "reading": "If drStart dates the opening camp, the main played sequence fits October 3–5.",
+          "date": "1740-10-03"
+        },
+        {
+          "reading": "If drStart is intended to include the narrated journey from Tollen, the session begins earlier than that camp; the precise date remains open."
+        }
+      ]
+    }
+  ]
+}
