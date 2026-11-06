@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "0.1-transcript-segments-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-133",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-session.yaml",
+    "sessionYamlSha256": "8b3c1f0b5bfc28255dda63b1f74a0fc63d954d10c61405de05c2829f2b9b8a4b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-transcript.md",
+    "transcriptSha256": "7b5b5648fdd256fb2529da169d9487d1d6ed29a5e3ab021828bb871d99ba2a00"
+  },
+  "segments": [
+    {
+      "id": "s001",
+      "source": {
+        "startUid": "u0001",
+        "endUid": "u0092"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s002",
+      "source": {
+        "startUid": "u0093",
+        "endUid": "u2643"
+      },
+      "category": "combat",
+      "note": "Initiative continues through the Empress’s death, the Elemental Cataclysm that replaces her, and its defeat."
+    },
+    {
+      "id": "s003",
+      "source": {
+        "startUid": "u2644",
+        "endUid": "u2699"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s004",
+      "source": {
+        "startUid": "u2700",
+        "endUid": "u2717"
+      },
+      "category": "table_talk"
+    },
+    {
+      "id": "s005",
+      "source": {
+        "startUid": "u2718",
+        "endUid": "u2722"
+      },
+      "category": "gameplay"
+    },
+    {
+      "id": "s006",
+      "source": {
+        "startUid": "u2723",
+        "endUid": "u2780"
+      },
+      "category": "meta_discussion"
+    },
+    {
+      "id": "s007",
+      "source": {
+        "startUid": "u2781",
+        "endUid": "u2787"
+      },
+      "category": "table_talk"
+    }
+  ]
+}

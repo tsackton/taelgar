@@ -1,0 +1,481 @@
+{
+  "schemaVersion": 1,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-session.yaml",
+  "inputs": {
+    "transcript": {
+      "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+      "sha256": "7b5b5648fdd256fb2529da169d9487d1d6ed29a5e3ab021828bb871d99ba2a00"
+    },
+    "entityMap": {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-entity-map.json",
+      "sha256": "a9a1487d98db67e6e4a4bd4653a14a01613f4a49429ee394faaa1eb12f1c4149"
+    }
+  },
+  "interactions": [
+    {
+      "id": "i001",
+      "title": "The Circular Island hoard reference",
+      "entities": [
+        {
+          "id": "e002",
+          "role": "star",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0025",
+        "endUid": "u0027"
+      },
+      "lines": [
+        "%% u0025:0-26 %%",
+        "Kenzo: Did you get a Triceratops?",
+        "",
+        "%% u0026:0-37 %%",
+        "Wellby: Ra'ghemdros' hoard? Somebody's hoard.",
+        "",
+        "%% u0027:0-41 %%",
+        "DM: Yeah, from the… from the circular island.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: And the Triceratops is…",
+          "Delwath: Wellby's Triceratops.",
+          "DM: Oh my god.",
+          "Wellby: That's right there.",
+          "DM: [garbled]"
+        ],
+        "after": [
+          "Kenzo: Alright, I'm not questioning it, great. Okay. And does anybody have, is anybody not full, full, does anybody have damage?",
+          "Seeker: I do, I have 30, I'm down 30.",
+          "Delwath: I'm down 7.",
+          "Kenzo: Tim, I'm gonna start using some lair things.",
+          "DM: You can't use that till combat starts. Because remember, you need… you need… Kenzo spending the whole 8 rounds up until combat starts to attune to the…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i002",
+      "title": "The Heartroot responds to Kenzo",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0087",
+        "endUid": "u0092"
+      },
+      "lines": [
+        "%% u0087:0-81, u0088:0-22, u0089:0-21, u0090:0-38, u0091:0-6 %%",
+        "DM: Okay, so as Kenzo soothes and talks to the Heartroot, it begins to… it begins to curl up within itself, pulling itself tight, extracting its roots, drawing them in. [garbled]",
+        "",
+        "%% u0092:0-8 %%",
+        "Seeker: Amazing.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: This is, like, a…",
+          "Delwath: away. Oh. Flying towards us.",
+          "DM: They're flying towards you. Three metallic storms, rushing in your direction.",
+          "DM: About 45, 50 seconds after you landed teleporting. Kenzo attuned to the creature, as the Empress of Chaos is about 600 feet away, Kenzo begins to tell the… warn the Heartroot through your connection that danger is coming, and… yeah. So, so make a… just, just like roll, roll a D20, add your wisdom and your proficiency. So… plus 10, I think.",
+          "Kenzo: 25."
+        ],
+        "after": [
+          "DM: Empress is now… this is all drawn onto the map, so I can't change it, but let's just say it's, you know… The Empress is now about… just over 400 feet away, so let's roll initiative.",
+          "Kenzo: Oh no, this is, like, my worst initiative ever! 17.",
+          "DM: So let me know if you want to check.",
+          "Seeker: It's, like, my best ever.",
+          "Kenzo: I rolled a 1 and a 6, that's fucking horrible."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i003",
+      "title": "Kenzo’s bond and the spear’s limits",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u0294",
+        "endUid": "u0302"
+      },
+      "lines": [
+        "%% u0294:0-134 %%",
+        "Kenzo: By the way, now that I'm bonded to the Heartroot, just so everybody knows, if I get damaged and fucked up, the Heartroot does too, so…",
+        "",
+        "%% u0295:0-10 %%",
+        "Seeker: Oh, great.",
+        "",
+        "%% u0296:0-55 %%",
+        "Wellby: So if she puts her spear in you, goes in the Heartroot?",
+        "",
+        "%% u0297:0-40 %%",
+        "Kenzo: That's actually an interesting question.",
+        "",
+        "%% u0298:0-54 %%",
+        "DM: No, you can't corrupt the Heartroot by spearing Kenzo.",
+        "",
+        "%% u0299:0-20 %%",
+        "Kenzo: Yeah, but it's just…",
+        "",
+        "%% u0300:0-68 %%",
+        "DM: If the Heartroot gets corrupted, then Kenzo might also be corrupted.",
+        "",
+        "%% u0301:0-70 %%",
+        "Kenzo: No, but also, I think it's two-way though, right, Tim? Like, if I die.",
+        "",
+        "%% u0302:0-78 %%",
+        "DM: It is… it is two-way. If Kenzo dies, it might be pretty bad for the Heartroot.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "DM: Boom.",
+          "Seeker: Yeah, I can go, like, here.",
+          "DM: Triceratops. Is okay, just waiting.",
+          "Wellby: No, the Triceratops, sniffs the air and stomps the ground and shakes his head back and forth, moving to put himself between all of us and the approaching storm.",
+          "DM: Let me send you the stat block for the Triceratops, by the way."
+        ],
+        "after": [
+          "Kenzo: Just sayin'. I'm normally…",
+          "DM: Okay.",
+          "Kenzo: I'll be down to die. This time might be a little bit boring.",
+          "DM: Now it is…",
+          "Kenzo: I die all the time, it's kind of my thing."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i004",
+      "title": "Seeker 5’s death",
+      "entities": [
+        {
+          "id": "e001",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e004",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u0622",
+        "endUid": "u0647"
+      },
+      "lines": [
+        "%% u0622:0-71, u0623:0-62, u0624:0-13 %%",
+        "DM: ((Initiative)) she's gonna turn to Seeker 5, and just look at him, look over at the cage. Say, \"It has to go.\" ((Attack resolution))",
+        "",
+        "%% u0625:0-10, u0626:0-23, u0627:0-21, u0628:0-2, u0629:0-5, u0630:0-10, u0631:0-4, u0632:0-15, u0633:0-24, u0634:0-77, u0635:0-27, u0636:0-6, u0637:0-3, u0638:0-17, u0639:0-53, u0640:0-11, u0641:0-28, u0642:0-27, u0643:0-22 %%",
+        "((Combat resolution))",
+        "",
+        "%% u0644:0-94 %%",
+        "DM: ((Attack resolution)) he falls decoherent into ice as her sword pierces him ((Combat mechanics))",
+        "",
+        "%% u0645:0-38 %%",
+        "Seeker: We will always remember you, Seeker 5.",
+        "",
+        "%% u0646:0-74 %%",
+        "DM: as… as he melts to ice, I guess the dancing item also disappears, because…",
+        "",
+        "%% u0647:0-9 %%",
+        "Seeker: Oh, crap.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: Yeah, and if it charges, it checks off.",
+          "DM: [garbled]",
+          "Wellby: Yeah.",
+          "Delwath: But that's…",
+          "DM: strike, the first storm, like, begins to… you see it, like, decohere a little as the Triceratops knocks rocks and… and stones out from this whirling, sort of metallic storm."
+        ],
+        "after": [
+          "DM: The Empress is gonna run forward and pull out her spear to stab at Kenzo. Come at me.",
+          "Seeker: It's gone.",
+          "DM: That's 30 to hit?",
+          "Kenzo: She got lucky.",
+          "DM: And as she does, a flash of… thunderous energy strikes from the spear… spear? So, you take…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i005",
+      "title": "What Kenzo’s death would mean for the Heartroot",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "mentioned"
+        },
+        {
+          "id": "e006",
+          "role": "supporting",
+          "action": "mentioned"
+        },
+        {
+          "id": "e004",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u1648",
+        "endUid": "u1655"
+      },
+      "lines": [
+        "%% u1648:0-106, u1649:0-46 %%",
+        "Kenzo: And then, just, Kenzo's just, like, feeling it out. Like, if he dies, like, what happens to the Heartroot? Like, how bad's it gonna be for the Heartroot?",
+        "",
+        "%% u1650:0-69, u1651:0-74, u1652:0-38, u1653:0-46 %%",
+        "DM: Kong… like, falls unconscious or dies, dies. If you fall unconscious… it's probably okay. If you are, like, literally killed by the Chaos Spear… It's probably not quite as bad as the… actual corruption, but it's not gonna be good.",
+        "",
+        "%% u1654:0-6 %%",
+        "Delwath: Right.",
+        "",
+        "%% u1655:0-130 %%",
+        "DM: But, I mean, you can tell, if she knocks you unconscious, she's not, like, going to attack somebody else. She's going to kill you.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: If I could smite, I could.",
+          "Kenzo: But you can't.",
+          "Delwath: I can't close and smite now.",
+          "Kenzo: So you cannot kill her this round.",
+          "Delwath: No, unless I think of something clever that I haven't thought of. And I just don't think there's anything I can do."
+        ],
+        "after": [
+          "Kenzo: Okay. Well, do what you're gonna do, Delwath.",
+          "DM: And you can always crit, then you might kill her.",
+          "Delwath: Yeah, but I can't smite, so… even with a crit, it's only 2d8 damage.",
+          "DM: Hmm, that's true.",
+          "Delwath: Kenzo, how far away is Kenzo from me? I mean, how far away is Kenzo?"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i006",
+      "title": "The Empress dies; the Cataclysm is destroyed",
+      "entities": [
+        {
+          "id": "e004",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e008",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e003",
+          "role": "supporting",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2015",
+        "endUid": "u2638"
+      },
+      "lines": [
+        "%% u2015:0-193, u2016:0-38, u2017:0-34, u2018:0-43, u2019:0-44 %%",
+        "DM: And she… she hasn't spoken, she's been, like, angry and just kind of fighting the whole time. She hasn't acknowledged your presence. But as this last blow hits her, the armor begins to shimmer. And she looks, and she says, \"You fool! You have no idea what you've done! Chaos will have victory one way or another.\" And as she dies, the armor begins to expand…",
+        "",
+        "%% u2020:0-4 %%",
+        "((Table discussion))",
+        "",
+        "%% u2021:0-11, u2022:0-50 %%",
+        "DM: and expand, and expand into a swirling mass of formless metal.",
+        "",
+        "%% u2023:0-17, u2024:0-15, u2025:0-35, u2026:0-18, u2027:0-25, u2028:0-24, u2029:0-44, u2030:0-52 %%",
+        "((Table discussion))",
+        "",
+        "%% u2031:0-124, u2032:0-169 %%",
+        "DM: Yeah, it's like her body is being ripped to shreds as the armor expands out and out and out into this sort of 20-foot-sized… whirlwind with, like, bits of a face beginning to form out of the metal, and you can actually hear her horrifying shriek as she is consumed by the chaos energy of Limbo.",
+        "",
+        "%% u2033:0-24, u2034:0-25, u2035:0-12, u2036:0-15, u2037:0-109, u2038:0-48, u2039:0-43, u2040:0-88, u2041:0-4, u2042:0-28, u2043:0-22, u2044:0-106, u2045:0-5, u2046:0-72, u2047:0-21, u2048:0-121, u2049:0-5, u2050:0-29, u2051:0-12, u2052:0-34, u2053:0-42, u2054:0-14, u2055:0-4, u2056:0-90, u2057:0-5, u2058:0-149, u2059:0-10, u2060:0-40, u2061:0-11, u2062:0-11, u2063:0-48, u2064:0-78, u2065:0-31, u2066:0-3, u2067:0-5, u2068:0-40, u2069:0-10, u2070:0-130, u2071:0-4, u2072:0-24, u2073:0-13, u2074:0-125, u2075:0-27, u2076:0-31, u2077:0-10, u2078:0-135, u2079:0-78, u2080:0-42, u2081:0-13, u2082:0-22, u2083:0-117, u2084:0-98, u2085:0-19, u2086:0-82, u2087:0-60, u2088:0-92, u2089:0-50, u2090:0-34, u2091:0-3, u2092:0-23, u2093:0-12, u2094:0-4, u2095:0-91, u2096:0-31, u2097:0-46, u2098:0-92, u2099:0-95, u2100:0-72, u2101:0-115, u2102:0-9, u2103:0-39, u2104:0-52, u2105:0-41, u2106:0-67, u2107:0-13, u2108:0-139, u2109:0-5, u2110:0-180, u2111:0-35, u2112:0-68, u2113:0-27, u2114:0-48, u2115:0-62, u2116:0-29, u2117:0-5, u2118:0-185, u2119:0-113, u2120:0-35, u2121:0-122, u2122:0-5 %%",
+        "((Combat))",
+        "",
+        "%% u2123:0-327 %%",
+        "Kenzo: ((Transformation)) And Kenzo has now turned himself into a giant silver dragon.",
+        "",
+        "%% u2124:0-10, u2125:0-2, u2126:0-132, u2127:0-78, u2128:0-60, u2129:0-28, u2130:0-141, u2131:0-122, u2132:0-30, u2133:0-112, u2134:0-80, u2135:0-29, u2136:0-14, u2137:0-5, u2138:0-177, u2139:0-10, u2140:0-51, u2141:0-64, u2142:0-36, u2143:0-51, u2144:0-48, u2145:0-55, u2146:0-29, u2147:0-35, u2148:0-8, u2149:0-13, u2150:0-8, u2151:0-31, u2152:0-116, u2153:0-87, u2154:0-74, u2155:0-46, u2156:0-26, u2157:0-45, u2158:0-36, u2159:0-42, u2160:0-5, u2161:0-29, u2162:0-4, u2163:0-73, u2164:0-8, u2165:0-83, u2166:0-63, u2167:0-15, u2168:0-15, u2169:0-106, u2170:0-47, u2171:0-90, u2172:0-38, u2173:0-46, u2174:0-55, u2175:0-62, u2176:0-42, u2177:0-103, u2178:0-2, u2179:0-23, u2180:0-45, u2181:0-41, u2182:0-68, u2183:0-50, u2184:0-67, u2185:0-34, u2186:0-58, u2187:0-52, u2188:0-29, u2189:0-4, u2190:0-73, u2191:0-131, u2192:0-88, u2193:0-23, u2194:0-5, u2195:0-28, u2196:0-26, u2197:0-31, u2198:0-94, u2199:0-16, u2200:0-10, u2201:0-58, u2202:0-24, u2203:0-29, u2204:0-26, u2205:0-27, u2206:0-22, u2207:0-46, u2208:0-10, u2209:0-5, u2210:0-67, u2211:0-15, u2212:0-50, u2213:0-5, u2214:0-18, u2215:0-27, u2216:0-4, u2217:0-119, u2218:0-64, u2219:0-81, u2220:0-71, u2221:0-28, u2222:0-79, u2223:0-5, u2224:0-22, u2225:0-11, u2226:0-74, u2227:0-13, u2228:0-19, u2229:0-50, u2230:0-35, u2231:0-31, u2232:0-12, u2233:0-37, u2234:0-21, u2235:0-49, u2236:0-11, u2237:0-35, u2238:0-24, u2239:0-27, u2240:0-96, u2241:0-10, u2242:0-27, u2243:0-8, u2244:0-122, u2245:0-46, u2246:0-73, u2247:0-15, u2248:0-9, u2249:0-42, u2250:0-63, u2251:0-42, u2252:0-81, u2253:0-30, u2254:0-27, u2255:0-38, u2256:0-75, u2257:0-76, u2258:0-5, u2259:0-5, u2260:0-138, u2261:0-22, u2262:0-76, u2263:0-46, u2264:0-25, u2265:0-78, u2266:0-24, u2267:0-5, u2268:0-51, u2269:0-7, u2270:0-42, u2271:0-57, u2272:0-34, u2273:0-5, u2274:0-67, u2275:0-108, u2276:0-122, u2277:0-47, u2278:0-89, u2279:0-35, u2280:0-14, u2281:0-104, u2282:0-5, u2283:0-16, u2284:0-10, u2285:0-8, u2286:0-4, u2287:0-13, u2288:0-4, u2289:0-23, u2290:0-10, u2291:0-36, u2292:0-50, u2293:0-4, u2294:0-48, u2295:0-39, u2296:0-47, u2297:0-6, u2298:0-92, u2299:0-49, u2300:0-42, u2301:0-16, u2302:0-32, u2303:0-34, u2304:0-48, u2305:0-5, u2306:0-14, u2307:0-21, u2308:0-5, u2309:0-5, u2310:0-53, u2311:0-23, u2312:0-7, u2313:0-15, u2314:0-5, u2315:0-76, u2316:0-12, u2317:0-34, u2318:0-50, u2319:0-58, u2320:0-43, u2321:0-81, u2322:0-31, u2323:0-28, u2324:0-33, u2325:0-7, u2326:0-67, u2327:0-4, u2328:0-50, u2329:0-47, u2330:0-16, u2331:0-30, u2332:0-33, u2333:0-12, u2334:0-30, u2335:0-19, u2336:0-66, u2337:0-52, u2338:0-3, u2339:0-33, u2340:0-8, u2341:0-31, u2342:0-16, u2343:0-14, u2344:0-35, u2345:0-5, u2346:0-50, u2347:0-20, u2348:0-9, u2349:0-39, u2350:0-20, u2351:0-5, u2352:0-8, u2353:0-12, u2354:0-20, u2355:0-13, u2356:0-43, u2357:0-13, u2358:0-76, u2359:0-4, u2360:0-36, u2361:0-71, u2362:0-5, u2363:0-46, u2364:0-3, u2365:0-26, u2366:0-55, u2367:0-51, u2368:0-10, u2369:0-31, u2370:0-18, u2371:0-10, u2372:0-76, u2373:0-31, u2374:0-17, u2375:0-34, u2376:0-76, u2377:0-42, u2378:0-33, u2379:0-22, u2380:0-66, u2381:0-45, u2382:0-44, u2383:0-12, u2384:0-16, u2385:0-8, u2386:0-5, u2387:0-38, u2388:0-10, u2389:0-4, u2390:0-8, u2391:0-99, u2392:0-64, u2393:0-24, u2394:0-29, u2395:0-21, u2396:0-55, u2397:0-34, u2398:0-25, u2399:0-21, u2400:0-64, u2401:0-49, u2402:0-14, u2403:0-13, u2404:0-13, u2405:0-45, u2406:0-41, u2407:0-21, u2408:0-6, u2409:0-5, u2410:0-51, u2411:0-108, u2412:0-57, u2413:0-42, u2414:0-16, u2415:0-10, u2416:0-51, u2417:0-47, u2418:0-13, u2419:0-48, u2420:0-43, u2421:0-34, u2422:0-48, u2423:0-43, u2424:0-42, u2425:0-5, u2426:0-18, u2427:0-71, u2428:0-39, u2429:0-5, u2430:0-45, u2431:0-44, u2431:44-75, u2432:0-18, u2433:0-104, u2434:0-50, u2435:0-9, u2436:0-16, u2437:0-25, u2438:0-21, u2439:0-68, u2440:0-26, u2441:0-21, u2442:0-22, u2443:0-83, u2444:0-92, u2445:0-62, u2446:0-17, u2447:0-11, u2448:0-96, u2449:0-14, u2450:0-41, u2451:0-36, u2452:0-5, u2453:0-14, u2454:0-38, u2455:0-14, u2456:0-33, u2457:0-6, u2458:0-30, u2459:0-59, u2460:0-17, u2461:0-5, u2462:0-33, u2463:0-15, u2464:0-8, u2465:0-71, u2466:0-36, u2467:0-14, u2468:0-14, u2469:0-5, u2470:0-38, u2471:0-17, u2472:0-30, u2473:0-19, u2474:0-39, u2475:0-5, u2476:0-31, u2477:0-49, u2478:0-11, u2479:0-32, u2480:0-25, u2481:0-57, u2482:0-7, u2483:0-70, u2484:0-29, u2485:0-22, u2486:0-57, u2487:0-38, u2488:0-74, u2489:0-5, u2490:0-46, u2491:0-17, u2492:0-5, u2493:0-49, u2494:0-126, u2495:0-23, u2496:0-34, u2497:0-16, u2498:0-7, u2499:0-7, u2500:0-14, u2501:0-68, u2502:0-6, u2503:0-3, u2504:0-9, u2505:0-14, u2506:0-45, u2507:0-5, u2508:0-38, u2509:0-62, u2510:0-60, u2511:0-15, u2512:0-114, u2513:0-40, u2514:0-3, u2515:0-10, u2516:0-72, u2517:0-5, u2518:0-75, u2519:0-12, u2520:0-37, u2521:0-54, u2522:0-39, u2523:0-25, u2524:0-13, u2525:0-12, u2526:0-43, u2527:0-37, u2528:0-8, u2529:0-21, u2530:0-22, u2531:0-25, u2532:0-31, u2533:0-8, u2534:0-5, u2535:0-67, u2536:0-59, u2537:0-13, u2538:0-22, u2539:0-24, u2540:0-56, u2541:0-65, u2542:0-5, u2543:0-19, u2544:0-10, u2545:0-30, u2546:0-5, u2547:0-18, u2548:0-21, u2549:0-36, u2550:0-91, u2551:0-87, u2552:0-41, u2553:0-36, u2554:0-13, u2555:0-10, u2556:0-3, u2557:0-32, u2558:0-36, u2559:0-3, u2560:0-26, u2561:0-37, u2562:0-4, u2563:0-16, u2564:0-59, u2565:0-7, u2566:0-30, u2567:0-28, u2568:0-7, u2569:0-4, u2570:0-64, u2571:0-13, u2572:0-49, u2573:0-30, u2574:0-54, u2575:0-47, u2576:0-21, u2577:0-21, u2578:0-3, u2579:0-20, u2580:0-24, u2581:0-53, u2582:0-37, u2583:0-22, u2584:0-97, u2585:0-47, u2586:0-63, u2587:0-42, u2588:0-54, u2589:0-56, u2590:0-120, u2591:0-8, u2592:0-17, u2593:0-18, u2594:0-17, u2595:0-54, u2596:0-50, u2597:0-41, u2598:0-21, u2599:0-26, u2600:0-33, u2601:0-24, u2602:0-43, u2603:0-46, u2604:0-130, u2605:0-28, u2606:0-13, u2607:0-46, u2608:0-15, u2609:0-10, u2610:0-47, u2611:0-13, u2612:0-5, u2613:0-36, u2614:0-19, u2615:0-15, u2616:0-3, u2617:0-84, u2618:0-79, u2619:0-115, u2620:0-10, u2621:0-25, u2622:0-49, u2623:0-10, u2624:0-9, u2625:0-26, u2626:0-80, u2627:0-14, u2628:0-116, u2629:0-39, u2630:0-14, u2631:0-18, u2632:0-7 %%",
+        "((Combat))",
+        "",
+        "%% u2633:0-99 %%",
+        "DM: It pounces on the swirling mass of metal, and you just take your claws and you, like, rip it apart.",
+        "",
+        "%% u2634:0-25, u2635:0-38, u2636:0-22, u2637:0-32, u2638:0-157 %%",
+        "DM: And it begins to shatter and… drift apart, and then you slowly… with your giant wings… land protectively on top of the… Heartroot and bring your wings over on top as the stone begins to… like, ash and metal begins to fall, just standing there guarding the top of the Heartroot.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: Can you smite now?",
+          "Delwath: I better just smite. Well, if I can't… yeah, okay. So…",
+          "DM: Roll your damage first before you smite.",
+          "Delwath: Okay. If she's that close to dead. 1d8 plus 11… 14… Plus 5 Radiant.",
+          "DM: So, as your sword strikes her, the armor begins to swarm around her, and, like, swarm… she looks at you."
+        ],
+        "after": [
+          "Kenzo: Well, and also just the… because, you know, the… like, Kenzo's wings, it's like, it's a silver dragon, but it's also, like, kind of got all of these, like, threads of, like, moss and green and all this stuff, so…",
+          "DM: That's like…",
+          "Kenzo: It's weird.",
+          "Wellby: like…",
+          "Kenzo: Mound of, like, silver scales meshed with all of this, like… you know, forest… foresty stuff."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i007",
+      "title": "The Heartroot’s wave of warmth",
+      "entities": [
+        {
+          "id": "e003",
+          "role": "star",
+          "action": "interacted"
+        }
+      ],
+      "source": {
+        "startUid": "u2664",
+        "endUid": "u2668"
+      },
+      "lines": [
+        "%% u2664:0-68, u2665:0-92, u2666:0-46, u2667:0-38, u2668:0-61 %%",
+        "DM: So, as you do… just… as you're just taking a breath at the end, you… you know, as Kenzo's gathering, sheltering the Heartroot, you can feel this sort of wave of… of warmth and, sort of, energy pass over you. ((Table messages))",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Kenzo: I hope not, this is pretty awesome.",
+          "Wellby: That's really cool that you're permanently gonna be a Silver Dragon.",
+          "Kenzo: Well, why don't you guys hop on my back, and let's go and help out with this battle.",
+          "Wellby: Wellby's already climbing on before you finish the sentence.",
+          "DM: No."
+        ],
+        "after": [
+          "Delwath: I had some ideas, I started to respond to Discord, but then… Dana and I had to go for a nightly walk before I beat the game, so…",
+          "Audio shared by Tim Sackton: That's so cool! Boom. This is crazy.",
+          "Seeker: Whoa.",
+          "Audio shared by Tim Sackton: It's so cool being so powerful, and then being even more powerful.",
+          "Kenzo: So…"
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    },
+    {
+      "id": "i008",
+      "title": "The dragon turns the main battle",
+      "entities": [
+        {
+          "id": "e009",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e010",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e005",
+          "role": "star",
+          "action": "interacted"
+        },
+        {
+          "id": "e011",
+          "role": "cameo",
+          "action": "mentioned"
+        },
+        {
+          "id": "e012",
+          "role": "cameo",
+          "action": "mentioned"
+        }
+      ],
+      "source": {
+        "startUid": "u2676",
+        "endUid": "u2693"
+      },
+      "lines": [
+        "%% u2676:0-98, u2677:0-55, u2678:0-69, u2679:0-77, u2680:0-43, u2681:0-62, u2682:0-116, u2683:0-44, u2684:0-112, u2685:0-15, u2686:0-173 %%",
+        "DM: ((Blessing)) you gather on the back of the silver dragon Kenzo and fly… the short distance to the battle still raging. At the moment… the Hobgoblins seem to have… solidified their position and established a solid defensive line, having driven many of the hippos off. And the rangers are beginning to fall back when… a dragon just flies right through the illusory mountain, and… immediately swoops down on the Hobgoblin troops with a… massive line of cold that rips through their defenses and… breaks a hole in the front of the line, as the Rangers and lizardfolk and Aurbezi militias and… folks still remaining as… as hippos, and Vindristjarna, where… Faldrak, despite taking some damage, has managed to defeat the metallic birds that you left. With great help from Hektor and a few others. ((Experience aside))",
+        "",
+        "%% u2687:0-69, u2688:0-38, u2689:0-97, u2690:0-129 %%",
+        "DM: You plunge down, and… on the back of the dragon with Wellby's arrows, ((Seeker’s resources)) But the Ladder part, of course, also lasts for an hour. A little bit annoyed at being upstaged by a dragon, and so is really trying his best to, like, kill as many hobgoblins as it can.",
+        "",
+        "%% u2691:0-78, u2692:0-60, u2693:0-16 %%",
+        "DM: Over the course of the next half an hour or so, you rout the Hobgoblin troops. Tide of battle being… dramatically turned by the arrival of… a Silver Dragon.",
+        ""
+      ],
+      "reviewContext": {
+        "before": [
+          "Delwath: I had some ideas, I started to respond to Discord, but then… Dana and I had to go for a nightly walk before I beat the game, so…",
+          "Audio shared by Tim Sackton: That's so cool! Boom. This is crazy.",
+          "Seeker: Whoa.",
+          "Audio shared by Tim Sackton: It's so cool being so powerful, and then being even more powerful.",
+          "Kenzo: So…"
+        ],
+        "after": [
+          "Seeker: Wow.",
+          "Kenzo: Or, like, three other, like, 18th level…",
+          "DM: Now, 19th level, as you level up, having saved the Heartroot.",
+          "Kenzo: Oh my god.",
+          "Seeker: Amazing."
+        ]
+      },
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      }
+    }
+  ]
+}

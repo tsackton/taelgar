@@ -1,0 +1,700 @@
+{
+  "schemaVersion": 4,
+  "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-session.yaml",
+  "inputs": {
+    "sessionInputs": {
+      "sessionYamlDigest": "af80676d2d39cf492a0fcb3552e3eb582d7544d0c1b35870fad087ea9e318ef2",
+      "sources": {
+        "transcriptProcessing.artifacts.polishedMarkdown": "7b5b5648fdd256fb2529da169d9487d1d6ed29a5e3ab021828bb871d99ba2a00",
+        "transcriptProcessing.artifacts.cleaned": "c575cd2b5783c1bcd0758bf3fb4735b8d2090a0bc96def4bccf9921ce2ecb1d2"
+      }
+    }
+  },
+  "entities": [
+    {
+      "id": "e001",
+      "kind": "npc",
+      "label": "Seeker 5",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0016",
+            "endUid": "u0017"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0196",
+            "endUid": "u0205"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0554",
+            "endUid": "u0558"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0622",
+            "endUid": "u0647"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "medium",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Seeker Five"
+      ],
+      "confidenceExplanation": "Inheritance talk, personal anger and a farewell support an individual companion, but a routine simulacrum reading could instead exclude him."
+    },
+    {
+      "id": "e002",
+      "kind": "npc",
+      "label": "Ra'ghemdros",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0020",
+            "endUid": "u0027"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Ra'ghemdros.md"
+    },
+    {
+      "id": "e003",
+      "kind": "item",
+      "label": "Heartroot",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0058",
+            "endUid": "u0063"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0079",
+            "endUid": "u0091"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0294",
+            "endUid": "u0302"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1648",
+            "endUid": "u1655"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2633",
+            "endUid": "u2643"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2664",
+            "endUid": "u2668"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Worldbuilding/Staging/Dunmar/Heartroot.md"
+    },
+    {
+      "id": "e004",
+      "kind": "npc",
+      "label": "Empress of Chaos",
+      "importance": "star",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0064",
+            "endUid": "u0078"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0158",
+            "endUid": "u0161"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0622",
+            "endUid": "u0647"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1563",
+            "endUid": "u1586"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2013",
+            "endUid": "u2046"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Other Nonhumans/Empress of Chaos.md"
+    },
+    {
+      "id": "e005",
+      "kind": "npc",
+      "label": "Ladder",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0231",
+            "endUid": "u0241"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0785",
+            "endUid": "u0818"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2240",
+            "endUid": "u2249"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2687",
+            "endUid": "u2690"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/PCs/Dunmar Fellowship/Companions/Ladder.md",
+      "names": [
+        "Heroic Ladder"
+      ]
+    },
+    {
+      "id": "e006",
+      "kind": "item",
+      "label": "Chaos Spear",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0294",
+            "endUid": "u0302"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1648",
+            "endUid": "u1655"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1869",
+            "endUid": "u1889"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "The Empress’s particular spear is a corruption threat tied to the Heartroot bond; the later spear formed by the Cataclysm is a separate manifestation."
+    },
+    {
+      "id": "e007",
+      "kind": "divine",
+      "label": "Yezali",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1501",
+            "endUid": "u1513"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Gods and Religions/Gods/Tanshi/Meswati/Yezali.md"
+    },
+    {
+      "id": "e008",
+      "kind": "npc",
+      "label": "Elemental Cataclysm",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2013",
+            "endUid": "u2046"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2087",
+            "endUid": "u2101"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2171",
+            "endUid": "u2172"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2587",
+            "endUid": "u2595"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2631",
+            "endUid": "u2638"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "names": [
+        "Limbo Chaos Metal Armor Monster",
+        "chaos monster of Rumbling Earth"
+      ]
+    },
+    {
+      "id": "e009",
+      "kind": "organization",
+      "label": "Hobgoblin troops",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2649",
+            "endUid": "u2650"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2676",
+            "endUid": "u2693"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Worldbuilding/Staging/Dunmar/Iron Fang.md",
+      "confidenceExplanation": "The Empress-led army matches the Iron Fang; this map retains the generic troop label used in the current session."
+    },
+    {
+      "id": "e010",
+      "kind": "organization",
+      "label": "Rangers",
+      "importance": "supporting",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2676",
+            "endUid": "u2693"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "Groups/Rangers.md"
+    },
+    {
+      "id": "e011",
+      "kind": "npc",
+      "label": "Faldrak",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2676",
+            "endUid": "u2686"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Dwarves/Faldrak Bronzehammer.md"
+    },
+    {
+      "id": "e012",
+      "kind": "npc",
+      "label": "Hektor",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2676",
+            "endUid": "u2686"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "note": "People/Chardonians/Hektor.md"
+    },
+    {
+      "id": "e013",
+      "kind": "npc",
+      "label": "The Ooze",
+      "importance": "cameo",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2779",
+            "endUid": "u2779"
+          }
+        }
+      ],
+      "review": {
+        "confidence": "high",
+        "status": "automatedReviewed"
+      },
+      "confidenceExplanation": "A particular future foe is referenced in the closing tactics; the source does not name it or establish a present encounter."
+    }
+  ],
+  "exclusions": [
+    {
+      "label": "Animated boulder",
+      "reason": "Temporary animated object and routine combat helper, without a continuing individual identity; distinct from the Ladder.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0016",
+            "endUid": "u0017"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0577",
+            "endUid": "u0599"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0644",
+            "endUid": "u0649"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Triceratops / stone Triceratops",
+      "reason": "Routine figurine activation and combat participation do not establish an ongoing companion identity, despite the player’s herbivore characterization.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0020",
+            "endUid": "u0027"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0600",
+            "endUid": "u0621"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1475",
+            "endUid": "u1484"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2771",
+            "endUid": "u2779"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Metallic Storms",
+      "reason": "Three ordinary summoned combat creatures distinguished by tactical numbers, without individual identities beyond this encounter.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0068",
+            "endUid": "u0078"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0245",
+            "endUid": "u0252"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0927",
+            "endUid": "u0940"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2379",
+            "endUid": "u2384"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Lengau’s Claw, Raven’s Whistle, Glove of Crystalized Magic, arrows and Cure Wounds scroll",
+      "reason": "Routine or proposed PC equipment powers, attacks and rules discussion; no separate acquisition, loss or original setting lore.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0140",
+            "endUid": "u0157"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0222",
+            "endUid": "u0241"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0358",
+            "endUid": "u0364"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1164",
+            "endUid": "u1203"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u1924",
+            "endUid": "u1935"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Potion of Dragon’s Majesty",
+      "reason": "Existing PC equipment used for its normal transformation power; decisive combat utility and standard rules clarification do not independently qualify it.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2120",
+            "endUid": "u2126"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2724",
+            "endUid": "u2732"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Empress’s sword and armor as separate items",
+      "reason": "Sword attacks are routine combat. The armor’s destructive transformation is retained through the distinct Elemental Cataclysm rather than a second identity for its physical precursor.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u0632",
+            "endUid": "u0646"
+          }
+        },
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2013",
+            "endUid": "u2046"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Vindristjarna",
+      "reason": "Existing party transport and its routine battlefield defense; no separate acquisition, loss or new item history in this session.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2676",
+            "endUid": "u2686"
+          }
+        }
+      ]
+    },
+    {
+      "label": "Lizardfolk and Aurbezi militias / remaining hippopotamuses",
+      "reason": "A mixed defensive force and magically transformed volunteers, without a separately established enduring group identity in this source; Rangers and the hobgoblin army are mapped separately.",
+      "occurrences": [
+        {
+          "source": {
+            "kind": "transcript",
+            "sourceId": "transcriptProcessing.artifacts.polishedMarkdown",
+            "startUid": "u2676",
+            "endUid": "u2693"
+          }
+        }
+      ]
+    }
+  ]
+}

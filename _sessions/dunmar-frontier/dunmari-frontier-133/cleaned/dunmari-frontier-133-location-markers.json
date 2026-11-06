@@ -1,0 +1,477 @@
+{
+  "schemaVersion": "0.4-location-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-133",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-session.yaml",
+    "sessionYamlSha256": "8b3c1f0b5bfc28255dda63b1f74a0fc63d954d10c61405de05c2829f2b9b8a4b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-transcript.md",
+    "transcriptSha256": "7b5b5648fdd256fb2529da169d9487d1d6ed29a5e3ab021828bb871d99ba2a00"
+  },
+  "places": {
+    "p01": {
+      "label": "Heartroot valley",
+      "kind": "valley",
+      "evidence": [
+        {
+          "startUid": "u0058",
+          "endUid": "u0063",
+          "quote": "DM: Okay. So… That's when we'll trigger initiative. So, as you begin to get settled, everybody, you know, positioned themselves where they want. Kenzo is standing next to the Heartroot, in meditation, concentrating on attuning to this… essence of the valley."
+        },
+        {
+          "startUid": "u1829",
+          "endUid": "u1832",
+          "quote": "DM: Guys are dash… are, like, sprinting through the valley here. She is gonna use her last… She did a move, she did a grapple, she's doing her last move to move 150 feet, so closing to within 10 feet. And, and now it's the Metallic Storms who are going to… dash to close in on Wellby."
+        }
+      ],
+      "note": "DF134 u0007–u0010 names the same setting Heartroot Vale. [[Battle of Heartroot Vale]] locates it on [[Aurbez Plateau]]; that regional orientation is vault-only. No separate valley page was found."
+    },
+    "p02": {
+      "label": "Heartroot grove",
+      "kind": "grove",
+      "evidence": [
+        {
+          "startUid": "u0058",
+          "endUid": "u0063",
+          "quote": "DM: Okay. So… That's when we'll trigger initiative. So, as you begin to get settled, everybody, you know, positioned themselves where they want. Kenzo is standing next to the Heartroot, in meditation, concentrating on attuning to this… essence of the valley."
+        },
+        {
+          "startUid": "u0087",
+          "endUid": "u0091",
+          "quote": "DM: Okay, so as Kenzo soothes and talks to the Heartroot, it begins to… it begins to curl up within itself, pulling itself tight, extracting its roots, drawing them in. [garbled]"
+        },
+        {
+          "startUid": "u2634",
+          "endUid": "u2638",
+          "quote": "DM: And it begins to shatter and… drift apart, and then you slowly… with your giant wings… land protectively on top of the… Heartroot and bring your wings over on top as the stone begins to… like, ash and metal begins to fall, just standing there guarding the top of the Heartroot."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u0058",
+              "endUid": "u0063",
+              "quote": "DM: Okay. So… That's when we'll trigger initiative. So, as you begin to get settled, everybody, you know, positioned themselves where they want. Kenzo is standing next to the Heartroot, in meditation, concentrating on attuning to this… essence of the valley."
+            },
+            {
+              "startUid": "u1829",
+              "endUid": "u1832",
+              "quote": "DM: Guys are dash… are, like, sprinting through the valley here. She is gonna use her last… She did a move, she did a grapple, she's doing her last move to move 150 feet, so closing to within 10 feet. And, and now it's the Metallic Storms who are going to… dash to close in on Wellby."
+            }
+          ],
+          "note": "The opening places the Heartroot beside Kenzo and identifies his connection as the essence of this valley; the later chase remains in the valley."
+        }
+      ],
+      "note": "[[Heartroot]] identifies the relic; the surrounding grove has no separate place page."
+    },
+    "p03": {
+      "label": "Wooded pursuit area",
+      "kind": "woodland",
+      "evidence": [
+        {
+          "startUid": "u1466",
+          "endUid": "u1466",
+          "quote": "DM: So if you just go… if you just go straight, like, up onto these cliffs…"
+        },
+        {
+          "startUid": "u1721",
+          "endUid": "u1721",
+          "quote": "DM: I, I, I think Kenzo landed in the trees, I like…"
+        },
+        {
+          "startUid": "u1829",
+          "endUid": "u1832",
+          "quote": "DM: Guys are dash… are, like, sprinting through the valley here. She is gonna use her last… She did a move, she did a grapple, she's doing her last move to move 150 feet, so closing to within 10 feet. And, and now it's the Metallic Storms who are going to… dash to close in on Wellby."
+        },
+        {
+          "startUid": "u1895",
+          "endUid": "u1895",
+          "quote": "DM: Like, 300… 300 feet?"
+        },
+        {
+          "startUid": "u2113",
+          "endUid": "u2113",
+          "quote": "DM: You're kinda in the forest."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "within",
+          "target": "p01",
+          "evidence": [
+            {
+              "startUid": "u1829",
+              "endUid": "u1832",
+              "quote": "DM: Guys are dash… are, like, sprinting through the valley here. She is gonna use her last… She did a move, she did a grapple, she's doing her last move to move 150 feet, so closing to within 10 feet. And, and now it's the Metallic Storms who are going to… dash to close in on Wellby."
+            }
+          ]
+        }
+      ],
+      "note": "Kenzo first lands by the low cliffs. After he carries Delwath farther through the valley, their fight is in woods about 300 feet from the Heartroot; these are successive positions within the broad pursuit area."
+    },
+    "p04": {
+      "label": "Main battlefield",
+      "kind": "battlefield",
+      "evidence": [
+        {
+          "startUid": "u2676",
+          "endUid": "u2686",
+          "quote": "DM: As the energy of the Heartroot washes over you, you gather on the back of the silver dragon Kenzo and fly… the short distance to the battle still raging. At the moment… the Hobgoblins seem to have… solidified their position and established a solid defensive line, having driven many of the hippos off. And the rangers are beginning to fall back when… a dragon just flies right through the illusory mountain, and… immediately swoops down on the Hobgoblin troops with a… massive line of cold that rips through their defenses and… breaks a hole in the front of the line, as the Rangers and lizardfolk and Aurbezi militias and… folks still remaining as… as hippos, and Vindristjarna, where… Faldrak, despite taking some damage, has managed to defeat the metallic birds that you left. With great help from Hektor and a few others. They all probably gained a level from this."
+        }
+      ],
+      "relations": [
+        {
+          "relation": "near",
+          "target": "p02",
+          "evidence": [
+            {
+              "startUid": "u2676",
+              "endUid": "u2686",
+              "quote": "DM: As the energy of the Heartroot washes over you, you gather on the back of the silver dragon Kenzo and fly… the short distance to the battle still raging. At the moment… the Hobgoblins seem to have… solidified their position and established a solid defensive line, having driven many of the hippos off. And the rangers are beginning to fall back when… a dragon just flies right through the illusory mountain, and… immediately swoops down on the Hobgoblin troops with a… massive line of cold that rips through their defenses and… breaks a hole in the front of the line, as the Rangers and lizardfolk and Aurbezi militias and… folks still remaining as… as hippos, and Vindristjarna, where… Faldrak, despite taking some damage, has managed to defeat the metallic birds that you left. With great help from Hektor and a few others. They all probably gained a level from this."
+            }
+          ],
+          "note": "The party flies only a short distance from the Heartroot; the source does not fix the battlefield’s boundary relative to the grove or valley."
+        }
+      ],
+      "note": "Nearby main battlefield; its precise boundary relative to the Heartroot valley is unstated."
+    }
+  },
+  "markers": [
+    {
+      "id": "l01",
+      "type": "presence",
+      "source": {
+        "startUid": "u0058",
+        "endUid": "u0085"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "The party is spread around the Heartroot grove after teleporting in; Kenzo stands beside the Heartroot and attunes to the valley.",
+      "evidence": [
+        {
+          "startUid": "u0058",
+          "endUid": "u0063",
+          "quote": "DM: Okay. So… That's when we'll trigger initiative. So, as you begin to get settled, everybody, you know, positioned themselves where they want. Kenzo is standing next to the Heartroot, in meditation, concentrating on attuning to this… essence of the valley."
+        },
+        {
+          "startUid": "u0064",
+          "endUid": "u0067",
+          "quote": "DM: Everybody else is spread around, prepared for combat to begin. As you see in the distance, the Empress of Chaos, beginning to fly, curving around… As she's flying, you can see her now maybe 900, 1,000 feet away, racing towards you at incredible speed."
+        },
+        {
+          "startUid": "u0079",
+          "endUid": "u0085",
+          "quote": "DM: About 45, 50 seconds after you landed teleporting. Kenzo attuned to the creature, as the Empress of Chaos is about 600 feet away, Kenzo begins to tell the… warn the Heartroot through your connection that danger is coming, and… yeah. So, so make a… just, just like roll, roll a D20, add your wisdom and your proficiency. So… plus 10, I think."
+        }
+      ],
+      "place": "p02"
+    },
+    {
+      "id": "l02",
+      "type": "movement",
+      "source": {
+        "startUid": "u1393",
+        "endUid": "u1474"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "Withdraws from the aerial fight to the wooded low-cliff area, choosing distance from the Empress instead of remaining in Heartroot range.",
+      "evidence": [
+        {
+          "startUid": "u1463",
+          "endUid": "u1463",
+          "quote": "Kenzo: I'm just gonna get far enough away from her that she can't attack me, because I don't…"
+        },
+        {
+          "startUid": "u1466",
+          "endUid": "u1466",
+          "quote": "DM: So if you just go… if you just go straight, like, up onto these cliffs…"
+        },
+        {
+          "startUid": "u1470",
+          "endUid": "u1471",
+          "quote": "Kenzo: That's fine, I'll get off the map. I've done my service. Good luck, guys."
+        },
+        {
+          "startUid": "u1473",
+          "endUid": "u1473",
+          "quote": "DM: 160 feet away."
+        },
+        {
+          "startUid": "u1721",
+          "endUid": "u1721",
+          "quote": "DM: I, I, I think Kenzo landed in the trees, I like…"
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "fly",
+      "note": "The initial proposed landing within 60 feet of the Heartroot is superseded before the turn ends."
+    },
+    {
+      "id": "l03",
+      "type": "movement",
+      "source": {
+        "startUid": "u1693",
+        "endUid": "u1723"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Flies from the grove fight to join Kenzo, landing in front of him among the trees.",
+      "evidence": [
+        {
+          "startUid": "u1693",
+          "endUid": "u1694",
+          "quote": "Delwath: Right. But then, I… yeah, I'm gonna… I'm gonna dash… I'm gonna just fly over there. I'm just gonna dash, so I go 160 feet, right? So I'll actually close to be past… I'll stand in… I'll stand guard in front of Kenzo."
+        },
+        {
+          "startUid": "u1704",
+          "endUid": "u1704",
+          "quote": "Delwath: I mean, I land in front of Kenzo, so I'm not a raven."
+        },
+        {
+          "startUid": "u1721",
+          "endUid": "u1721",
+          "quote": "DM: I, I, I think Kenzo landed in the trees, I like…"
+        }
+      ],
+      "from": "p02",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "fly"
+    },
+    {
+      "id": "l04",
+      "type": "movement",
+      "source": {
+        "startUid": "u1796",
+        "endUid": "u1832"
+      },
+      "actors": [
+        "Kenzo",
+        "Delwath"
+      ],
+      "reading": "Kenzo carries Delwath farther through the valley during their retreat; the ensuing fight leaves them in woods about 300 feet from the Heartroot.",
+      "evidence": [
+        {
+          "startUid": "u1800",
+          "endUid": "u1800",
+          "quote": "Kenzo: I can totally do Heightened Step of the Wind, and I can grab you, and you're within 5 feet, and I can take you with me. That's fucking awesome. Yeah, I'll totally do that."
+        },
+        {
+          "startUid": "u1816",
+          "endUid": "u1818",
+          "quote": "DM: I was doing Step of the Wind as a bonus action. So, dodge is an action, so you have dash, disengage, take Delwath with you, and disadvantage on all attacks against you."
+        },
+        {
+          "startUid": "u1826",
+          "endUid": "u1826",
+          "quote": "DM: You move 140, because you're not next to the Ladder."
+        },
+        {
+          "startUid": "u1827",
+          "endUid": "u1828",
+          "quote": "Kenzo: Alright. So, I'm 160 feet, alright, so, grab… Delwath, and boom! Shoot out of there."
+        },
+        {
+          "startUid": "u1829",
+          "endUid": "u1832",
+          "quote": "DM: Guys are dash… are, like, sprinting through the valley here. She is gonna use her last… She did a move, she did a grapple, she's doing her last move to move 150 feet, so closing to within 10 feet. And, and now it's the Metallic Storms who are going to… dash to close in on Wellby."
+        },
+        {
+          "startUid": "u1895",
+          "endUid": "u1895",
+          "quote": "DM: Like, 300… 300 feet?"
+        },
+        {
+          "startUid": "u2113",
+          "endUid": "u2113",
+          "quote": "DM: You're kinda in the forest."
+        }
+      ],
+      "from": "p03",
+      "to": "p03",
+      "completion": "arrived",
+      "mode": "Heightened Step of the Wind, carrying Delwath",
+      "distance": {
+        "value": 140,
+        "unit": "foot",
+        "precision": "exact",
+        "basis": "DM corrects Kenzo’s proposed 150-foot movement to 140 without the Ladder speed bonus."
+      },
+      "note": "Both endpoints refer to the same broad wooded pursuit area, not the same tactical position."
+    },
+    {
+      "id": "l05",
+      "type": "movement",
+      "source": {
+        "startUid": "u2274",
+        "endUid": "u2293"
+      },
+      "actors": [
+        "Delwath"
+      ],
+      "reading": "Teleports back toward the Heartroot to intercept the Cataclysm and maneuvers between it and the Heartroot in the grove battle area.",
+      "evidence": [
+        {
+          "startUid": "u2274",
+          "endUid": "u2275",
+          "quote": "Delwath: I am just gonna bonus action Dimension Door using 2 sorcery points. Which… oh, I never did that before, so actually I have plenty of sorcery points, but I should take them off."
+        },
+        {
+          "startUid": "u2279",
+          "endUid": "u2281",
+          "quote": "Delwath: I will appear right in front of it. And then… why? Oh, because I'm trying to move Kenzo. I'll appear right there in front of it, and then I will attack it."
+        },
+        {
+          "startUid": "u2488",
+          "endUid": "u2488",
+          "quote": "Delwath: Oh, you know what? Hold on, hold on. I'm also gonna move, sort of, around."
+        },
+        {
+          "startUid": "u2490",
+          "endUid": "u2490",
+          "quote": "Delwath: Gotta be between it and the Heartroot as well."
+        }
+      ],
+      "from": "p03",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "Dimension Door, then local movement",
+      "note": "His first teleport intercept is about 80 feet from the Heartroot; the later interposition confirms the grove-area return, without claiming he stands atop the relic."
+    },
+    {
+      "id": "l06",
+      "type": "movement",
+      "source": {
+        "startUid": "u2294",
+        "endUid": "u2300"
+      },
+      "actors": [
+        "Kenzo"
+      ],
+      "reading": "In silver-dragon form, pursues the Cataclysm back toward the grove and finally lands protectively over the Heartroot after destroying it.",
+      "evidence": [
+        {
+          "startUid": "u2294",
+          "endUid": "u2294",
+          "quote": "DM: Kenzo moves another 40 feet closer, so Kenzo is…"
+        },
+        {
+          "startUid": "u2296",
+          "endUid": "u2296",
+          "quote": "DM: And you're 180 from the Heartroot, 100 from it."
+        },
+        {
+          "startUid": "u2298",
+          "endUid": "u2300",
+          "quote": "DM: And that is your turn, so you can move 80 feet on your turn, so you're 20 feet away from it. You can… try another… You can try another breath. You're not quite in range of its… of your…"
+        },
+        {
+          "startUid": "u2631",
+          "endUid": "u2631",
+          "quote": "DM: Dragon flies over."
+        },
+        {
+          "startUid": "u2633",
+          "endUid": "u2633",
+          "quote": "DM: It pounces on the swirling mass of metal, and you just take your claws and you, like, rip it apart."
+        },
+        {
+          "startUid": "u2634",
+          "endUid": "u2638",
+          "quote": "DM: And it begins to shatter and… drift apart, and then you slowly… with your giant wings… land protectively on top of the… Heartroot and bring your wings over on top as the stone begins to… like, ash and metal begins to fall, just standing there guarding the top of the Heartroot."
+        }
+      ],
+      "from": "p03",
+      "to": "p02",
+      "completion": "arrived",
+      "mode": "fly and pounce",
+      "note": "The endpoint is established by the final landing, not by the first movement toward the grove."
+    },
+    {
+      "id": "l07",
+      "type": "movement",
+      "source": {
+        "startUid": "u2676",
+        "endUid": "u2693"
+      },
+      "actors": [
+        "party"
+      ],
+      "reading": "Gather on dragon-form Kenzo and fly the short distance to the main battlefield, passing through the illusory mountain before joining the ongoing battle.",
+      "evidence": [
+        {
+          "startUid": "u2676",
+          "endUid": "u2686",
+          "quote": "DM: As the energy of the Heartroot washes over you, you gather on the back of the silver dragon Kenzo and fly… the short distance to the battle still raging. At the moment… the Hobgoblins seem to have… solidified their position and established a solid defensive line, having driven many of the hippos off. And the rangers are beginning to fall back when… a dragon just flies right through the illusory mountain, and… immediately swoops down on the Hobgoblin troops with a… massive line of cold that rips through their defenses and… breaks a hole in the front of the line, as the Rangers and lizardfolk and Aurbezi militias and… folks still remaining as… as hippos, and Vindristjarna, where… Faldrak, despite taking some damage, has managed to defeat the metallic birds that you left. With great help from Hektor and a few others. They all probably gained a level from this."
+        },
+        {
+          "startUid": "u2687",
+          "endUid": "u2690",
+          "quote": "DM: You plunge down, and… on the back of the dragon with Wellby's arrows, Seeker, uh, maybe not doing that much, having spent basically all of his spells. But the Ladder part, of course, also lasts for an hour. A little bit annoyed at being upstaged by a dragon, and so is really trying his best to, like, kill as many hobgoblins as it can."
+        },
+        {
+          "startUid": "u2691",
+          "endUid": "u2693",
+          "quote": "DM: Over the course of the next half an hour or so, you rout the Hobgoblin troops. Tide of battle being… dramatically turned by the arrival of… a Silver Dragon."
+        }
+      ],
+      "from": "p02",
+      "to": "p04",
+      "completion": "arrived",
+      "mode": "fly on Kenzo",
+      "route": [
+        {
+          "reading": "Pass directly through the illusory mountain; it is not a physical mountain visit."
+        }
+      ]
+    },
+    {
+      "id": "l08",
+      "type": "movement",
+      "source": {
+        "startUid": "u2718",
+        "endUid": "u2722"
+      },
+      "actors": [
+        "Kenzo",
+        "Wellby"
+      ],
+      "reading": "Begin an accepted silver-dragon joyride after the rout; Kenzo offers seats to anyone else who wants to join.",
+      "evidence": [
+        {
+          "startUid": "u2718",
+          "endUid": "u2718",
+          "quote": "Kenzo: After we wipe out this whole battle, which probably doesn't take more than, like, a handful of minutes, Kenzo takes anybody who else would like to join. I know it's definitely gonna be Wellby, but anybody that wants on an epic Silver Dragon joyride for the remaining however many minutes."
+        },
+        {
+          "startUid": "u2719",
+          "endUid": "u2719",
+          "quote": "DM: You've got, like, 30 minutes left of dragon time once you rout the Hobgoblins."
+        },
+        {
+          "startUid": "u2720",
+          "endUid": "u2720",
+          "quote": "Wellby: When else am I gonna get to play tag with a dragon?"
+        },
+        {
+          "startUid": "u2722",
+          "endUid": "u2722",
+          "quote": "Kenzo: Dude, hell yeah, we just, we, yeah, we enjoy that."
+        }
+      ],
+      "from": "p04",
+      "to": null,
+      "completion": "underway",
+      "mode": "fly",
+      "note": "Wellby is the explicit rider. The route, return and elapsed joyride duration are not established."
+    }
+  ]
+}

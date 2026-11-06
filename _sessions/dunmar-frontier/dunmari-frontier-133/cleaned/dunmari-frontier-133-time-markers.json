@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "0.5-time-markers-draft",
+  "provenance": {
+    "sessionId": "dunmari-frontier-133",
+    "sessionYaml": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-session.yaml",
+    "sessionYamlSha256": "8b3c1f0b5bfc28255dda63b1f74a0fc63d954d10c61405de05c2829f2b9b8a4b",
+    "transcriptPath": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-transcript.md",
+    "transcriptSha256": "7b5b5648fdd256fb2529da169d9487d1d6ed29a5e3ab021828bb871d99ba2a00",
+    "yamlDates": {
+      "start": "1749-08-12",
+      "end": "1749-08-12"
+    }
+  },
+  "markers": [
+    {
+      "id": "t01",
+      "source": {
+        "startUid": "u0079",
+        "endUid": "u0085"
+      },
+      "reading": "About 45–50 seconds have passed since the party teleported into the grove; Kenzo has attuned to the Heartroot as the Empress approaches.",
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "min": 0.75,
+        "minInclusive": true,
+        "max": 0.8333333333333334,
+        "maxInclusive": true,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates about 45–50 seconds after landing; values convert seconds to minutes."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u0079",
+          "endUid": "u0085",
+          "quote": "DM: About 45, 50 seconds after you landed teleporting. Kenzo attuned to the creature, as the Empress of Chaos is about 600 feet away, Kenzo begins to tell the… warn the Heartroot through your connection that danger is coming, and… yeah. So, so make a… just, just like roll, roll a D20, add your wisdom and your proficiency. So… plus 10, I think."
+        }
+      ]
+    },
+    {
+      "id": "t02",
+      "source": {
+        "startUid": "u2691",
+        "endUid": "u2693"
+      },
+      "reading": "After saving the Heartroot and flying to the main battle, the party routs the hobgoblin troops over roughly half an hour.",
+      "actors": [
+        "party"
+      ],
+      "duration": {
+        "value": 30,
+        "unit": "minute",
+        "precision": "approximate",
+        "basis": "DM narrates the rout over the next half hour; later confirms roughly 30 minutes remain of Kenzo’s one-hour dragon form."
+      },
+      "completion": "completed",
+      "evidence": [
+        {
+          "startUid": "u2691",
+          "endUid": "u2693",
+          "quote": "DM: Over the course of the next half an hour or so, you rout the Hobgoblin troops. Tide of battle being… dramatically turned by the arrival of… a Silver Dragon."
+        },
+        {
+          "startUid": "u2719",
+          "endUid": "u2719",
+          "quote": "DM: You've got, like, 30 minutes left of dragon time once you rout the Hobgoblins."
+        }
+      ],
+      "note": "Kenzo’s later handful-of-minutes suggestion does not replace the DM’s half-hour narration and remaining-time confirmation."
+    }
+  ],
+  "yamlCheck": {
+    "status": "compatible",
+    "dateAnchor": "No absolute campaign date or civil watch is spoken in session 133; August 12, 1749 comes from YAML. Adjacent transcript watches are kept in the derived review as attributed context.",
+    "expectedDateBoundaries": 0,
+    "supportedDateBoundaries": null,
+    "evidence": [
+      "t01",
+      "t02"
+    ],
+    "explanation": "The preparation, continuous fight and roughly half-hour rout fit a single day. No calendar crossing is established, but the current transcript lacks an independently dated opening/closing clock, and the accepted dragon joyride has no confirmed elapsed endpoint. Do not fill the clock gap from YAML or count the potion’s full hour as elapsed."
+  }
+}
